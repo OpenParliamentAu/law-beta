@@ -1,21 +1,20 @@
-![](http://www.comlaw.gov.au/Details/C2006C00061/Html/75010D1009863FFECA2571300017FE81/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00263/Html/AusSportsComm89WD02_files/image001.gif)
 
 # Australian Sports Commission Act 1989
 
 **Act No. 12 of 1989 as amended**
 
-This compilation was prepared on 13 March 2006
-taking into account amendments up to Act No. 7 of 2006
+This compilation was prepared on 7 April 2005
+ taking into account amendments up to Act No. 40 of 2005
 
 The text of any of those amendments not in force
-on that date is appended in the Notes section
+ on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be
-affected by application provisions that are set out in the Notes section
+ affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
-
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -129,6 +128,26 @@ Attorney-General’s Department, Canberra
 
 [51](#51).          Foundation exempt from taxation
 
+**Part VIIA—Disclosure and use of protected etc. information**
+
+[51A](#51A).       Definitions
+
+[51AA](#51AA).    Meaning of _permitted anti-doping purposes_
+
+[51B](#51B).       Protected information that can be disclosed
+
+[51C](#51C).       Disclosure of personal protected information
+
+[51D](#51D).       Duty not to disclose protected information
+
+[51DA](#51DA).    Disclosure for certain permitted anti-doping purposes of the Commission
+
+[51E](#51E).        Disclosure for permitted anti-doping purposes of a sporting organisation
+
+[51F](#51F).        Disclosure of other information by the Commission
+
+[51G](#51G).       Operation of _Privacy Act 1988_ is not affected
+
 **Part VIII—Miscellaneous**
 
 [52](#52).          Trust money
@@ -141,12 +160,11 @@ Attorney-General’s Department, Canberra
 
 [57](#57).          Protection from civil actions
 
-[57A](#57A).       Disclosure of information to the Australian Sports Anti-Doping Authority
-
 [58](#58).          Regulations
 
 **Notes** 
 
+ 
 
 ## An Act to establish the Australian Sports Commission, and for related purposes
 
@@ -267,8 +285,6 @@ Note:          The _Commonwealth Authorities and Companies Act
              (3)  The Commission may perform any of its functions in co-operation with a State or Territory or any person, association or organisation.
 
              (4)  Subject to section 11, the function of the Commission under paragraph (1)(q) may be performed at the discretion of the Commission.
-
-          (4A)  The function of the Commission under paragraph (1)(r) may only be performed to the extent that it does not overlap any of the functions of the Australian Sports Anti-Doping Authority.
 
              (5)  The Commission may perform its functions to the extent only that they are not in excess of the functions that may be conferred on it by virtue of any of the legislative powers of the Parliament, and, in particular, may perform its functions:
 
@@ -478,7 +494,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (a)  during a vacancy in the office of that member, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when that member is absent from duty or from Australia or is, for any reason (including the reason that the member is acting as the Chairperson or Deputy Chairperson), unable to perform the duties of the office of member;
+                     (b)  during any period, or during all periods, when that member is absent from duty or from   Australia or is, for any reason (including the reason that the member is acting as the Chairperson or Deputy Chairperson), unable to perform the duties of the office of member;
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
@@ -782,6 +798,194 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (3)  The regulations may provide that subsection (1) or (2) does not apply in relation to taxation under a specified law.
 
+## Part VIIA—Disclosure and use of protected etc. information
+
+##### <a id="51A"></a>51A  Definitions
+
+                   In this Part, unless the contrary intention appears:
+
+                    <a name="anti-dope-polici"></a>**_anti-doping policy_** means any current written policy of the Commission or a sporting organisation, in respect of performance enhancing drugs or doping methods.
+
+                    <a name="commiss-offici"></a>**_Commission official_** means:
+
+                     (a)  a member of the Commission; or
+
+                     (b)  a person employed by the Commission under section 41; or
+
+                     (c)  a consultant engaged by the Commission under section 42; or
+
+                     (d)  the Executive Director; or
+
+                     (e)  the Director.
+
+                    <a name="competitor"></a>**_competitor_** has the meaning given by section 2 of the _Australian Sports Drug Agency Act 1990_.
+
+                    <a name="custom-ceo"></a>**_Customs CEO_** means the Chief Executive Officer of the Australian Customs Service referred to in section 4 of the _Customs Administration Act 1985_.
+
+                    <a name="dope-method"></a>**_doping method_**includes:
+
+                     (a)  the manipulation or substitution of any of the following:
+
+                              (i)  any human biological fluid;
+
+                             (ii)  any human biological tissue (whether alive or otherwise);
+
+                            (iii)  any human breath;
+
+                            in a manner that is capable of concealing the use of a performance enhancing drug by the person concerned; and
+
+                     (b)  the use of a substance in a manner that is capable of concealing the use of a performance enhancing drug by the person concerned.
+
+                    <a name="permit-anti-dope-purpos"></a>**_permitted anti-doping purposes_** has the meaning given by section 51AA.
+
+                    <a name="protect-inform"></a>**_protected information_** means information disclosed to the Commission under section 16 of the _Customs Administration Act 1985_.
+
+                    <a name="sport-organis"></a>**_sporting organisation_** means an organisation of a particular country, or a part of a country, or an international organisation, that:
+
+                     (a)  has control of one or more sports or sporting events; or
+
+                     (b)  organises or administers one or more sports or sporting events; or
+
+                     (c)  accredits people to take part in sporting competition; or
+
+                     (d)  provides teams to compete in sporting competition; or
+
+                     (e)  trains, or provides finance for, people to take part in sporting competition.
+
+                    <a name="sport-substanc"></a>**_sports substance_** means a performance enhancing drug or a substance that is capable of concealing the use of a performance enhancing drug.
+
+##### <a id="51AA"></a>51AA  Meaning of _permitted anti-doping purposes_
+
+             (1)  In this Part, **_permitted anti-doping purposes_** of a body, being the Commission or a sporting organisation, means any of the following purposes:
+
+                     (a)  investigating whether an anti-doping policy of the body has been breached;
+
+                     (b)  determining whether to take action under an anti-doping policy of the body;
+
+                     (c)  determining what action to take under an anti-doping policy of the body;
+
+                     (d)  taking action under an anti-doping policy of the body;
+
+                     (e)  taking, or participating in, any proceedings relating to action that has been taken under an anti-doping policy of the body.
+
+             (2)  For the purposes of subsection (1), taking action under the Commission’s anti-doping policy includes taking action, under an agreement, in relation to a person who is bound by the Commission’s anti-doping policy.
+
+##### <a id="51B"></a>51B  Protected information that can be disclosed
+
+                   For the purposes of subsection 16(3A) of the _Customs Administration Act 1985_, the Customs CEO cannot authorise the disclosure of information to the Commission unless the Customs CEO is satisfied that:
+
+                     (a)  the information relates to the importation into Australia, or the attempted importation into Australia, of a sports substance; and
+
+                     (b)  at least one of the following conditions is satisfied:
+
+                              (i)  the importation or attempted importation contravenes a law of the Commonwealth;
+
+                             (ii)  there are reasonable grounds to suspect that a competitor is responsible for the importation or attempted importation;
+
+                            (iii)  there are reasonable grounds to suspect that the substance is for use by one or more competitors.
+
+##### <a id="51C"></a>51C  Disclosure of personal protected information
+
+                   For the purposes of subsection 16(9) of the _Customs Administration Act 1985_, the purpose of the Executive Director determining if information should be used or disclosed for permitted anti-doping purposes is taken to be a permissible purpose referred to in a paragraph of that subsection.
+
+##### <a id="51D"></a>51D  Duty not to disclose protected information
+
+             (1)  A Commission official must not disclose any protected information to a person who is not a Commission official, except:
+
+                     (a)  as authorised by the Executive Director under section 51DA or 51E; or
+
+                     (b)  as required or authorised by any other law; or
+
+                     (c)  if the disclosure is to a person to whom the information relates, or to someone acting on behalf of such a person.
+
+             (2)  For the avoidance of doubt, a Commission official is taken to be a Commonwealth officer for the purposes of section 70 of the _Crimes Act 1914._
+
+Note:          Section 70 of the _Crimes Act 1914_ imposes secrecy obligations on Commonwealth officers.
+
+##### <a id="51DA"></a>51DA  Disclosure for certain permitted anti-doping purposes of the Commission
+
+Executive Director may authorise disclosure
+
+             (1)  The Executive Director may authorise the disclosure of protected information to a person who is not a Commission official if:
+
+                     (a)  the Executive Director is satisfied that the information should be disclosed to the person in the course of a permitted anti-doping purpose of the Commission that is described in paragraph 51AA(1)(d) or (e); and
+
+                     (b)  the Executive Director is satisfied that the disclosure of the information would not contravene any terms of the authorisation under which the protected information was disclosed to the Commission.
+
+Executive Director may specify other conditions etc.
+
+             (2)  The Executive Director may specify the manner in which, or the conditions under which, the disclosure is to be made (including the form in which the information is to be presented and the mode of transmitting that information).
+
+Section does not limit internal use and disclosure of information
+
+             (3)  This section does not limit the internal use of the information by a Commission official, or the internal disclosure of the information by a Commission official to another Commission official.
+
+##### <a id="51E"></a>51E  Disclosure for permitted anti-doping purposes of a sporting organisation
+
+Executive Director may authorise disclosure
+
+             (1)  The Executive Director may authorise the disclosure of protected information to a sporting organisation if:
+
+                     (a)  the Executive Director is satisfied that the information should be disclosed to the organisation for permitted anti-doping purposes of the organisation; and
+
+                     (b)  the organisation has given a written undertaking that:
+
+                              (i)  the organisation will use or disclose the information only for permitted anti-doping purposes of the organisation; and
+
+                             (ii)  the organisation will take reasonable steps to satisfy itself that the information will not be used or disclosed, by a person to whom the organisation has disclosed the information, in a way that would be unfairly prejudicial to the interests of the person to whom the information relates; and
+
+                     (c)  the Executive Director is satisfied that the disclosure of the information would not contravene any terms of the authorisation under which the protected information was disclosed to the Commission; and
+
+                     (d)  the requirements of subsections (2) to (5) are satisfied.
+
+If the information relates to more than one person, the information cannot be disclosed unless the requirements of subsections (2) to (5), as they apply in relation to each of those persons, are satisfied.
+
+Notice to be given to person to whom the information relates
+
+             (2)  Before authorising the disclosure of the information to the organisation, the Executive Director must:
+
+                     (a)  give written notice of the proposed disclosure to the person to whom the information relates; and
+
+                     (b)  invite the person to make a written submission to the Executive Director about the proposed disclosure within a period (the **_submission period_**) that is the specified number of days after the day on which the person receives the notice.
+
+The notice must also advise the person of the effect of subsection (5).
+
+             (3)  For the purpose of paragraph (2)(b), the specified number of days must be:
+
+                     (a)  unless paragraph (b) applies—14 days; or
+
+                     (b)  if the Executive Director considers it appropriate in the circumstances to specify a lesser number of days—that lesser number of days.
+
+             (4)  The information must not be disclosed unless:
+
+                     (a)  the submission period has ended; and
+
+                     (b)  the Executive Director has considered any submission that has been made within the submission period.
+
+             (5)  If the Executive Director receives a submission from the person before the end of the submission period, the Executive Director may, for the purposes of subsection (4), take the submission period to have ended immediately after the receipt of the submission.
+
+Executive Director may specify other conditions etc.
+
+             (6)  The Executive Director may specify the manner in which, or the conditions under which, the disclosure is to be made (including the form in which the information is to be presented and the mode of transmitting the information).
+
+##### <a id="51F"></a>51F  Disclosure of other information by the Commission
+
+             (1)  If the Executive Director is satisfied that:
+
+                     (a)  an anti-doping policy is likely to have been breached by a competitor or other person reasonably believed to be covered by the anti-doping policy (the **_sporting person_**); and
+
+                     (b)  information about the sporting person is likely to assist the Customs CEO in determining whether the importation or attempted importation of a sports substance relates to a matter set out in paragraph 51B(b);
+
+then the Executive Director may authorise the disclosure of information to the Australian Customs Service to assist in making that determination.
+
+Note:          Information Privacy Principle 11 set out in section 14 of the _Privacy Act 1988_ limits the disclosure of personal information.
+
+             (2)  The Executive Director may specify the manner in which, or the conditions under which, the disclosure is to be made (including the form in which the information is to be presented and the mode of transmitting that information).
+
+##### <a id="51G"></a>51G  Operation of _Privacy Act 1988_ is not affected
+
+                   Nothing in this Part limits the operation of the _Privacy Act 1988_.
+
 ## Part VIII—Miscellaneous
 
 ##### <a id="52"></a>52  Trust money
@@ -846,16 +1050,6 @@ all or any of the Minister’s powers under this Act, other than the Minister’
 
                    A member, the Executive Director or the Director is not liable to an action or other proceeding for damages for or in relation to an act done or omitted to be done in good faith in the performance or purported performance of any function, or in the exercise or purported exercise of any power, of the Commission.
 
-##### <a id="57A"></a>57A  Disclosure of information to the Australian Sports Anti-Doping Authority
-
-             (1)  The Commission may disclose information to the Australian Sports Anti-Doping Authority if the information:
-
-                     (a)  relates to a sports drug and safety matter (within the meaning of the _Australian Sports Anti-Doping Authority_ _Act 2006_); or
-
-                     (b)  is otherwise relevant to the performance of the functions of the Australian Sports Anti-Doping Authority.
-
-             (2)  If information disclosed under subsection (1) is personal information (within the meaning of the _Privacy Act 1988_), the information is taken to be NAD scheme personal information for the purposes of the _Australian Sports Anti-Doping Authority_ _Act 2006_.
-
 ##### <a id="58"></a>58  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
@@ -871,7 +1065,6 @@ and, in particular, may make regulations:
                      (d)  prohibiting or regulating the use of any emblem, logo, design, mark, symbol or name that is associated with the Commission; and
 
                      (e)  prescribing penalties not exceeding a fine of $500 for offences against the regulations. 
-
 
 # Notes to the _Australian Sports Commission Act 1989_
 
@@ -899,13 +1092,11 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year 
- </div>
+and year</div>
     </td>
     <td>
       <div>Date 
-of Assent 
- </div>
+of Assent</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -915,266 +1106,245 @@ of Assent
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Australian Sports Commission Act 1989</div>
-    </td>
-    <td>
-      <div>12, 1989</div>
-    </td>
-    <td>
-      <div>16 Mar 1989</div>
-    </td>
-    <td>
-      <div>1 May 1989 ( <i>see Gazette</i>1989, No. S143)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991</div>
-    </td>
-    <td>
-      <div>33, 1991</div>
-    </td>
-    <td>
-      <div>21 Mar 1991</div>
-    </td>
-    <td>
-      <div>S. 5: 1 July 1991 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>S. 2(2)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
-    </td>
-    <td>
-      <div>179, 1991</div>
-    </td>
-    <td>
-      <div>25 Nov 1991</div>
-    </td>
-    <td>
-      <div>25 Nov 1991</div>
-    </td>
-    <td>
-      <div>S. 3(2)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Sales Tax Amendment (Transitional) Act 1992</div>
-    </td>
-    <td>
-      <div>118, 1992</div>
-    </td>
-    <td>
-      <div>30 Sept 1992</div>
-    </td>
-    <td>
-      <div>28 Oct 1992</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Environment, Sport and Territories Legislation Amendment Act 1995</div>
-    </td>
-    <td>
-      <div>25, 1995</div>
-    </td>
-    <td>
-      <div>6 Apr 1995</div>
-    </td>
-    <td>
-      <div>6 Apr 1995</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>as amended by</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
-    </td>
-    <td>
-      <div>118, 1997</div>
-    </td>
-    <td>
-      <div>7 July 1997</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 36): 6 Apr 1995 <i>(a)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 1996</div>
-    </td>
-    <td>
-      <div>43, 1996</div>
-    </td>
-    <td>
-      <div>25 Oct 1996</div>
-    </td>
-    <td>
-      <div>Schedule 4 (items 41–43): Royal Assent <i>(b)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-    </td>
-    <td>
-      <div>152, 1997</div>
-    </td>
-    <td>
-      <div>24 Oct 1997</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 496–512): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Australian Sports Commission Amendment Act 1999</div>
-    </td>
-    <td>
-      <div>106, 1999</div>
-    </td>
-    <td>
-      <div>31 Aug 1999</div>
-    </td>
-    <td>
-      <div>3 Nov 1999 <i>(d)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-    </td>
-    <td>
-      <div>146, 1999</div>
-    </td>
-    <td>
-      <div>11 Nov 1999</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 260–263): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Corporate Law Economic Reform Program Act 1999</div>
-    </td>
-    <td>
-      <div>156, 1999</div>
-    </td>
-    <td>
-      <div>24 Nov 1999</div>
-    </td>
-    <td>
-      <div>Schedule 10 (items 56–58): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-    </td>
-    <td>
-      <div>159, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>29 Oct 2001</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Australian Sports Commission Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>40, 2005</div>
-    </td>
-    <td>
-      <div>1 Apr 2005</div>
-    </td>
-    <td>
-      <div>1 Apr 2005</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 8) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006</div>
-    </td>
-    <td>
-      <div>7, 2006</div>
-    </td>
-    <td>
-      <div>7 Mar 2006</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 4–6) and Schedule 2 (items 20, 21): 13 Mar 2006 ( <i>see</i>s. 2(1) and F2006L00764)</div>
-    </td>
-    <td>
-      <div>Sch. 2 (items 20, 21) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-</tbody></table>
-
+<tr>
+  <td>
+    <div>Australian Sports Commission Act 1989</div>
+  </td>
+  <td>
+    <div>12, 1989</div>
+  </td>
+  <td>
+    <div>16 Mar 1989</div>
+  </td>
+  <td>
+    <div>1 May 1989 ( <i>see Gazette</i>1989, No. S143)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991</div>
+  </td>
+  <td>
+    <div>33, 1991</div>
+  </td>
+  <td>
+    <div>21 Mar 1991</div>
+  </td>
+  <td>
+    <div>S. 5: 1 July 1991 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 2(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
+  </td>
+  <td>
+    <div>179, 1991</div>
+  </td>
+  <td>
+    <div>25 Nov 1991</div>
+  </td>
+  <td>
+    <div>25 Nov 1991</div>
+  </td>
+  <td>
+    <div>S. 3(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Sales Tax Amendment (Transitional) Act 1992</div>
+  </td>
+  <td>
+    <div>118, 1992</div>
+  </td>
+  <td>
+    <div>30 Sept 1992</div>
+  </td>
+  <td>
+    <div>28 Oct 1992</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Environment, Sport and Territories Legislation Amendment Act 1995</div>
+  </td>
+  <td>
+    <div>25, 1995</div>
+  </td>
+  <td>
+    <div>6 Apr 1995</div>
+  </td>
+  <td>
+    <div>6 Apr 1995</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
+  </td>
+  <td>
+    <div>118, 1997</div>
+  </td>
+  <td>
+    <div>7 July 1997</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 36): 6 Apr 1995 <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
+  </td>
+  <td>
+    <div>43, 1996</div>
+  </td>
+  <td>
+    <div>25 Oct 1996</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 41–43): Royal Assent <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+  </td>
+  <td>
+    <div>152, 1997</div>
+  </td>
+  <td>
+    <div>24 Oct 1997</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 496–512): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Sports Commission Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>106, 1999</div>
+  </td>
+  <td>
+    <div>31 Aug 1999</div>
+  </td>
+  <td>
+    <div>3 Nov 1999 <i>(d)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>146, 1999</div>
+  </td>
+  <td>
+    <div>11 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 260–263): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporate Law Economic Reform Program Act 1999</div>
+  </td>
+  <td>
+    <div>156, 1999</div>
+  </td>
+  <td>
+    <div>24 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 10 (items 56–58): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+  </td>
+  <td>
+    <div>159, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>29 Oct 2001</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Sports Commission Amendment Act 2005</div>
+  </td>
+  <td>
+    <div>40, 2005</div>
+  </td>
+  <td>
+    <div>1 Apr 2005</div>
+  </td>
+  <td>
+    <div>1 Apr 2005</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 8) \[ <i>see</i>Table A]</div>
+  </td>
+</tr></table>
 
 _(a)_     The _Environment, Sport and Territories Legislation Amendment Act 1995_ was amended by Schedule 1 (item 36) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
@@ -1210,7 +1380,6 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
 
                               (c)   the items in Schedules 10, 11 and 12\. 
 
-
 ## Table of Amendments
 
 <table>
@@ -1234,497 +1403,422 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b>Part I</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>am. No. 25, 1995</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part II</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 106, 1999; No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8</div>
-    </td>
-    <td>
-      <div>am. No. 25, 1995 (as am. by No. 118, 1997)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part III</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13</div>
-    </td>
-    <td>
-      <div>am. No. 179, 1991; No. 25, 1995</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14</div>
-    </td>
-    <td>
-      <div>rs. No. 179, 1991</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 15</div>
-    </td>
-    <td>
-      <div>am. No. 25, 1995</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 17</div>
-    </td>
-    <td>
-      <div>am. No. 25, 1995; No. 43, 1996</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 18</div>
-    </td>
-    <td>
-      <div>rep. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19</div>
-    </td>
-    <td>
-      <div>am. No. 25, 1995; No. 152, 1997; No. 156, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 20</div>
-    </td>
-    <td>
-      <div>am. No. 25, 1995</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21</div>
-    </td>
-    <td>
-      <div>am. No. 25, 1995; No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22</div>
-    </td>
-    <td>
-      <div>am. No. 43, 1996; No. 152, 1997; No. 156, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part V</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 28</div>
-    </td>
-    <td>
-      <div>am. No. 159, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 30</div>
-    </td>
-    <td>
-      <div>am. No. 159, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 33</div>
-    </td>
-    <td>
-      <div>am. No. 43, 1996</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 35</div>
-    </td>
-    <td>
-      <div>rs. No. 179, 1991</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part VI</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 41</div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part VII</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 44</div>
-    </td>
-    <td>
-      <div>rep. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 45</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 47</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 48</div>
-    </td>
-    <td>
-      <div>rs. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 48</div>
-    </td>
-    <td>
-      <div>am. No. 33, 1991; No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 49</div>
-    </td>
-    <td>
-      <div>rep. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 50, 51</div>
-    </td>
-    <td>
-      <div>am. No. 118, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part VIIA</div>
-    </td>
-    <td>
-      <div>ad. No. 106, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 51A</div>
-    </td>
-    <td>
-      <div>ad. No. 106, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 40, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 51AA</div>
-    </td>
-    <td>
-      <div>ad. No. 40, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 51B</div>
-    </td>
-    <td>
-      <div>ad. No. 106, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 51C, 51D</div>
-    </td>
-    <td>
-      <div>ad. No. 106, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 40, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 51DA</div>
-    </td>
-    <td>
-      <div>ad. No. 40, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 51E</div>
-    </td>
-    <td>
-      <div>ad. No. 106, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rs. No. 40, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 51F</div>
-    </td>
-    <td>
-      <div>ad. No. 106, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 51G</div>
-    </td>
-    <td>
-      <div>ad. No. 40, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part VIII</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 52</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 53</div>
-    </td>
-    <td>
-      <div>rep. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 56</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 57A</div>
-    </td>
-    <td>
-      <div>ad. No. 7, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part IX</div>
-    </td>
-    <td>
-      <div>rep. No. 25, 1995</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 59–69</div>
-    </td>
-    <td>
-      <div>rep. No. 25, 1995</div>
-    </td>
-  </tr>
-</tbody></table>
-
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 25, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 106, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 25, 1995 (as am. by No. 118, 1997)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 179, 1991; No. 25, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>rs. No. 179, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>am. No. 25, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>am. No. 25, 1995; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18</div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>am. No. 25, 1995; No. 152, 1997; No. 156, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 25, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 25, 1995; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 152, 1997; No. 156, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 159, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30</div>
+  </td>
+  <td>
+    <div>am. No. 159, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>rs. No. 179, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 146, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 48</div>
+  </td>
+  <td>
+    <div>rs. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>am. No. 33, 1991; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50, 51</div>
+  </td>
+  <td>
+    <div>am. No. 118, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIIA</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51A</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 40, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51AA</div>
+  </td>
+  <td>
+    <div>ad. No. 40, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51B</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 51C, 51D</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 40, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51DA</div>
+  </td>
+  <td>
+    <div>ad. No. 40, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51E</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 40, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51F</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51G</div>
+  </td>
+  <td>
+    <div>ad. No. 40, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53</div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IX</div>
+  </td>
+  <td>
+    <div>rep. No. 25, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 59–69</div>
+  </td>
+  <td>
+    <div>rep. No. 25, 1995</div>
+  </td>
+</tr></table>
 
 ## Table A
 
@@ -1738,9 +1832,7 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
+* * *
 
 _Australian Sports Commission Amendment Act 2005 (No. 40, 2005)_
 
@@ -1749,41 +1841,6 @@ _Australian Sports Commission Amendment Act 2005 (No. 40, 2005)_
 ## 8  Application
 
 The amendments made by this Schedule apply in relation to protected information, whether disclosed to the Commission before, on or after the commencement of this item.
-
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
-
-_Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006 (No. 7, 2006)_
-
-## Schedule 2
-
-## 20  Continued application of non-disclosure provisions—ASC officials
-
-(1)        This item applies in relation to any protected information (within the meaning of Part VIIA of the _Australian Sports Commission Act 1989_) disclosed to the ASC before the transition time.
-
-(2)        Despite the repeal of that Part by this Act, Part VIIA of that Act continues to have effect after the transition time, in relation to the protected information, as if that repeal had not happened.
-
-## 21  Disclosure of ASC information to the ASADA
-
-(1)        This item applies to information held by the ASC if the information was obtained before the transition time, and the information:
-
-                     (a)  relates to a sports drug and safety matter; or
-
-                     (b)  is otherwise relevant to the performance of the functions of the ASADA.
-
-(2)        The ASADA may, by writing, request the ASC to disclose to the ASADA specified information.
-
-_Note:       For specification by class, see subsection 46(3) of the Acts Interpretation Act 1901._
-
-(3)        The ASC must comply with a request under subitem (2).
-
-(4)        Repealed Part VIIA of the _Australian Sports Commission Act 1989_ (as that Part continues to have effect because of item 20) does not apply to a disclosure of protected information (within the meaning of that Part) in compliance with a request under subitem (2).
-
-(5)        A request under subitem (2) is not a legislative instrument _._
-
-(6)        If information disclosed in compliance with a request under subitem (2) is personal information, the information is taken to be NAD scheme personal information for the purposes of the ASADA Act.
-
 
  
 
