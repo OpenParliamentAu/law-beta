@@ -1,7 +1,7 @@
 
 Public Lending Right Act 1985
 Act No. 200 of 1985 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 22 February 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -32,11 +32,11 @@ Contents
 20	Review of certain decisions of Committee	12
 21	Statements to accompany notification of decisions	13
 22	Offences	14
-23	Recovery of overpayments	14
+23	Recovery of overpayments	15
 24	Evidence of payment	15
 25	Payments inalienable	15
 26	Payment to personal representative	15
-27	Regulations	15
+27	Regulations	16
 Notes		17
 An Act to provide for payments in respect of Australian books held in Australian libraries
 1  Short title [see Note 1]
@@ -233,8 +233,16 @@ under subsection (5).
 	(2)	A notice given to a claimant under subsection 20(6) in relation to a reconsideration of a decision shall include a statement to the effect that, subject to the Administrative Appeals Tribunal Act 1975, if a person whose interests are affected by the decision resulting from the reconsideration is dissatisfied with that last‑mentioned decision, the person may make application to the Administrative Appeals Tribunal for review of that last‑mentioned decision.
 	(3)	A failure to comply with the requirements of subsection (1) or (2) does not affect the validity of the decision.
 22  Offences
-	(2)	Where a person is convicted of an offence against section 137.1 or 137.2 of the Criminal Code that relates to this Act, the court may, in addition to imposing a penalty, order the person to repay to the Commonwealth the amount of any payment under the scheme paid to the person in consequence of the making of the statement or the presentation of the document.
+	(1)	A person shall not, in or in connection with a claim, knowingly:
+	(a)	make to the Committee, or to a delegate of the Committee, a statement, whether oral or in writing; or
+	(b)	present to the Committee or to such a delegate a document;
+that is false or misleading in a material particular.
+Penalty:	$2,000 or imprisonment for 12 months, or both.
+	(2)	Where a person is convicted of an offence against subsection (1), the court may, in addition to imposing a penalty under that subsection, order the person to repay to the Commonwealth the amount of any payment under the scheme paid to the person in consequence of the making of the statement or the presentation of the document.
 	(3)	Where a court has made an order under subsection (2), a certificate signed by the appropriate officer of the court specifying the amount ordered to be repaid and the person by whom the amount is payable may be filed in a court having civil jurisdiction to the extent of that amount and is thereupon enforceable in all respects as a final judgment of that court.
+	(4)	For the purposes of the application of this section in relation to a corporation, but without prejudice to the liability of any person other than the corporation:
+	(a)	a statement made, or a document presented, by a person acting on behalf of the corporation shall be deemed to be made or presented by the corporation; and
+	(b)	the knowledge of any employee or agent of the corporation shall be deemed to be knowledge of the corporation.
 23  Recovery of overpayments
 		Where an amount by way of a payment under the scheme has been paid to a person in consequence of the making of a statement, or the presentation of a document, by or on behalf of the person, being a statement or document that was, whether to the knowledge of the person or not, false or misleading in a material particular, an amount equal to the amount of the payment is recoverable from the person by the Commonwealth in a court of competent jurisdiction as a debt due to the Commonwealth.
 24  Evidence of payment
@@ -251,8 +259,7 @@ under subsection (5).
 Notes to the Public Lending Right Act 1985
 Note 1
 The Public Lending Right Act 1985 as shown in this compilation comprises Act No. 200, 1985 amended as indicated in the Tables below. 
-For relevant information pertaining to application, saving or transitional provisions see Table A.
-The Public Lending Right Act 1985 was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations as amended see Table B.
+The Public Lending Right Act 1985 was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations as amended. [see Table A]
 Table of Acts
 Act
 Number  and year
@@ -279,11 +286,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (item 753): 5 Dec 1999 (see Gazette 1999, No. S584) (c)
 —
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
-Sch. 2 (items 418, 419) [see Table A]
 
 (a)	The Public Lending Right Act 1985 was amended by Part 8 (sections 24‑26) only of the Arts, Environment, Tourism and Territories Legislation Amendment Act 1990, subsection 2(1) of which provides as follows:
 	(1)	Parts 1, 4, 5, 6, 7 and 8 commence on the day on which this Act receives the Royal Assent.
@@ -292,6 +294,7 @@ Sch. 2 (items 418, 419) [see Table A]
 (c)	The Public Lending Right Act 1985 was amended by Schedule 1 (item 753) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
+
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -304,29 +307,11 @@ Ss. 16A, 16B
 ad. No. 88, 1990
 S. 18	
 am. No. 146, 1999
-S. 22	
-am. No. 137, 2000
 
 Table A
-Application, saving or transitional provisions
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-Table B
 Modifications
 Section 8—The Public Lending Right Act 1985 was modified by regulation 2 and Schedule 1 of the A.C.T. Self‑Government (Consequential Provisions) Regulations as amended. The modification of Schedule 1 is set out below and is not incorporated in this compilation.
 Subsection 8(2):
 After “a State, by” insert “the Australian Capital Territory or”.
+
 
