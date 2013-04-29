@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00767/Html/e89a56e4-377b-45e7-85a8-f7a68307224a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00720/Html/23818885-443b-40ec-a5fa-88c05cf2a2ec_files/image001.gif)
 
 # Crimes Act 1914
 
 **Act No. 12 of 1914 as amended**
 
-This compilation was prepared on 19 October 2012
+This compilation was prepared on 22 September 2012
  taking into account amendments up to Act No. 136 of 2012
 
 **Volume 1**includes:  Table of Contents
@@ -30,7 +30,7 @@ Act Notes
 
 Table of Amendments
 
-Notes 2–4
+Notes 2–5
 
 Table A
 
@@ -74,7 +74,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [3J](#3J).          Specific powers available to constables executing warrant
 
-[3JA](#3JA).       Extension of time to re‑enter premises in emergency situations
+[3JA](#3JA).       Extension of time to re‑enter premises in emergency 
+ situations
 
 [3K](#3K).         Use of equipment to examine or process things
 
@@ -178,7 +179,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [3ZO](#3ZO).       Identification by means of photographs
 
-[3ZP](#3ZP).       Identification procedures where there is more than one suspect
+[3ZP](#3ZP).       Identification procedures where there is more than one 
+ suspect
 
 [3ZQ](#3ZQ).       Descriptions
 
@@ -512,7 +514,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [15KM](#15KM).    Return of evidence of assumed identity
 
-[15KN](#15KN).    Protection from criminal liability—officers of issuing agencies
+[15KN](#15KN).    Protection from criminal liability—officers of issuing 
+ agencies
 
 [15KO](#15KO).    Indemnity for issuing agencies and officers
 
@@ -768,11 +771,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 5—Conditional release on parole or licence**
 
-[19AL](#19AL).     Release on parole—making of parole order
+[19AL](#19AL).     Release on parole
 
-[19AM](#19AM).   Release on parole—when is a person released
-
-19AMA Release on parole—parole period
+[19AM](#19AM).   Person not to be released on parole if still serving State or Territory sentence
 
 [19AN](#19AN).    Parole order is subject to conditions
 
@@ -910,7 +911,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [23C](#23C).       Period of investigation if arrested for a non‑terrorism offence
 
-[23D](#23D).       Application may be made for extension of investigation period
+[23D](#23D).       Application may be made for extension of investigation 
+ period
 
 [23DA](#23DA).    Magistrate may extend investigation period
 
@@ -922,7 +924,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [23DD](#23DD).    Time during which suspension or delay of questioning may be disregarded—time specified by magistrate
 
-[23DE](#23DE).     Application may be made for extension of investigation period
+[23DE](#23DE).     Application may be made for extension of investigation 
+ period
 
 [23DF](#23DF).     Magistrate may extend investigation period
 
@@ -932,7 +935,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 3—Obligations of investigating officials**
 
-[23F](#23F).        Cautioning persons who are under arrest or protected suspects
+[23F](#23F).        Cautioning persons who are under arrest or protected 
+ suspects
 
 [23G](#23G).       Right to communicate with friend, relative and legal practitioner
 
@@ -4108,7 +4112,7 @@ and includes a regulation made under such an ordinance.
 
              (2)  Where a natural person is convicted of an offence against a law of the Commonwealth punishable by imprisonment only, the court may, if the contrary intention does not appear and the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a pecuniary penalty not exceeding the number of penalty units calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00767/Html/e89a56e4-377b-45e7-85a8-f7a68307224a_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00720/Html/23818885-443b-40ec-a5fa-88c05cf2a2ec_files/image002.gif)
 
 where:
 
@@ -4660,7 +4664,7 @@ subsection (1) operates to require that law to apply and be applied in the sam
 
                      (e)  in relation to the Australian Commission for Law Enforcement Integrity—the Integrity Commissioner.
 
-                    <a name="civilian-particip"></a>**_civilian participant_** in a controlled operation means a participant in the controlled operation who is not a law enforcement officer.
+                    <a name=""></a><a name="civilian-particip"></a>**_civilian participant_** in a controlled operation means a participant in the controlled operation who is not a law enforcement officer.
 
                     <a name="conduct"></a>**_conduct_** has the same meaning as in the _Criminal Code_.
 
@@ -7472,7 +7476,7 @@ Note:          The chief officer may delegate functions under 
 
              (7)  Subsection (6) does not limit the court’s powers, including, but not limited to, the court’s power to punish for contempt.
 
-##### <a id="15ML"></a>15ML  Disclosure of operative’s identity to presiding officer
+##### <a id="15ML"></a>15ML  Disclosure of operative’s identity to presiding officer
 
              (1)  This section applies if a witness identity protection certificate for an operative in relation to a proceeding is filed in a court.
 
@@ -7928,7 +7932,7 @@ Note:          The chief officer may delegate functions under 
 
 ### Division 3—Cross‑examination
 
-##### <a id="15YE"></a>15YE  Disallowing inappropriate or aggressive cross‑examination
+##### <a id="15YE"></a>15YE  Disallowing inappropriate or aggressive cross‑examination
 
              (1)  The court may disallow a question put to a child witness in cross‑examination in a proceeding if the question is inappropriate or unnecessarily aggressive.
 
@@ -8548,15 +8552,15 @@ _Example 3:_ The aggregate of a one year unserved portion of a sentence, a 2 yea
 
                     <a name="licenc"></a>**_licence_** means a licence granted under section 19AP.
 
-                    <a name="licenc-period"></a>**_licence period_**, for a person who is released on licence for a federal sentence, means the period starting on the day of release on licence and ending:
+                    <a name="licenc-period"></a>**_licence period_**, in relation to a person who is released on licence, means:
 
-                     (a)  if a recognizance release order has been made for the federal sentence—at the end of the day before the person is eligible for release in accordance with the recognizance release order; and
+                     (a)  where the person has not been given a federal life sentence—the period commencing on the day of release on licence and ending:
 
-                     (b)  in any other case:
+                              (i)  if the last day of any federal sentence that is, on the day of the release, being served or to be served, after deducting any remission or reduction that is applicable, occurs earlier than 5 years after the day of release on licence—at the end of that last day; or
 
-                              (i)  at the end of the last day of any federal sentence that is, on the day of the release, being served or to be served (after deducting any remission or reduction that is applicable); or
+                             (ii)  in any other case—at the end of the day that occurs 5 years after the day of release on licence; and
 
-                             (ii)  if the person has been given a federal life sentence—at the end of the day specified in the licence as the day on which the licence period ends.
+                     (b)  where the person has been given a federal life sentence—the period commencing on the day of release on licence and ending at the end of the day specified in the licence as the day on which the licence period ends.
 
                     <a name="maximum-penalti"></a>**_maximum penalty_**, in relation to an offence at common law, means imprisonment for life.
 
@@ -8578,9 +8582,17 @@ _Example 3:_ The aggregate of a one year unserved portion of a sentence, a 2 yea
 
                      (b)  a person appointed or engaged under the _Public Service Act 1999_ in respect of whom an appointment under subsection 21F(3) is in force.
 
-                    <a name="parol-order"></a>**_parole order_** means an order made under subsection 19AL(1) or (2) directing that a person be released from prison on parole.
+                    <a name="parol-order"></a>**_parole order_** means an order under subsection 19AL(1) or (2).
 
-                    <a name="parol-period"></a>**_parole period_**, for a person for whom a parole order has been made, has the meaning given by section 19AMA.
+                    <a name="parol-period"></a>**_parole period_**, in relation to a person who is released on parole under section 19AL, means:
+
+                     (a)  where the person has not been given a federal life sentence—the period commencing on the day of release on parole and ending:
+
+                              (i)  if the last day of any federal sentence that is, on the day of the release, being served or to be served, after deducting any remission or reduction that is applicable, occurs earlier than 5 years after the day of release on parole—at the end of that last day; or
+
+                             (ii)  in any other case—at the end of the day that occurs 5 years after the day of release on parole; and
+
+                     (b)  where the person has been given a federal life sentence—the period commencing on the day of release on parole and ending at the end of the day specified in the parole order as the day on which the parole period ends.
 
                     <a name="pre-releas-period"></a>**_pre‑release period_**, in relation to a recognizance release order made in respect of a federal sentence or sentences, means the period of imprisonment specified in that order as the period of imprisonment in respect of that sentence or those sentences after service of which the offender may be released on the giving of security in accordance with that order.
 
@@ -8598,7 +8610,7 @@ _Example 3:_ The aggregate of a one year unserved portion of a sentence, a 2 yea
 
                     <a name="releas-licenc"></a>**_released on licence_** means released from prison under section 19AP.
 
-                    <a name="releas-parol"></a>**_released on parole_** means released from prison under a parole order in accordance with section 19AM.
+                    <a name="releas-parol"></a>**_released on parole_** means released from prison under section 19AL.
 
                     <a name="sentenc"></a>**_sentence_**, in sections 16B to 19AZD, means a sentence of imprisonment.
 
@@ -8610,15 +8622,15 @@ _Example 3:_ The aggregate of a one year unserved portion of a sentence, a 2 yea
 
                     <a name="state-sentenc"></a>**_State sentence_** means a sentence imposed for a State offence.
 
-                    <a name="supervis-period"></a>**_supervision period_**, in relation to a person who is released on parole or on licence, means the period:
+                    <a name="supervis-period"></a>**_supervision period_**, in relation to a person who is released on parole or on licence, means:
 
-                     (a)  starting when the person is released from prison on parole or licence; and
+                     (a)  where the person has not been given a federal life sentence—the period commencing on the day of release on parole or licence and ending at the end of a day specified in the parole order or licence as the day on which the supervision period ends, being a day not later than:
 
-                     (b)  ending at the earlier of the following times:
+                              (i)  if the last day of any federal sentence of imprisonment that is, on the day of the release, being served or to be served, after deducting any remission or reduction that is applicable, occurs earlier than 3 years after the day of release on parole or licence—that last day; or
 
-                              (i)  the end of the person’s parole period or licence period;
+                             (ii)  in any other case—the day that occurs 3 years after the day of release on parole or licence; and
 
-                             (ii)  if the parole order or licence specifies an earlier time at which the supervision period is to end—that earlier time.
+                     (b)  where the person has been given a federal life sentence—the period commencing on the day of release on parole or licence and ending at the end of the day specified in the parole order or licence as the day on which the supervision ends, being a day not later than the day on which the parole period or licence period ends.
 
                     <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory or the Northern Territory.
 
@@ -9196,95 +9208,63 @@ Note:          The effects of this include preventing a court 
 
 ### Division 5—Conditional release on parole or licence
 
-##### <a id="19AL"></a>19AL  Release on parole—making of parole order
+##### <a id="19AL"></a>19AL  Release on parole
 
-             (1)  The Attorney‑General must, before the end of a non‑parole period fixed for one or more federal sentences imposed on a person, either make, or refuse to make, an order directing that the person be released from prison on parole (a **_parole order_**).
+             (1)  Subject to section 19AM, where there has been imposed on a person a federal sentence of, or federal sentences aggregating, more than 3 years but less than 10 years and a non‑parole period has been fixed in relation to the sentence or sentences, the Attorney‑General must, by order in writing, direct that the person be released from prison on parole:
 
-Note 1:       For when a person is released on parole in accordance with a parole order, see section 19AM.
+                     (a)  at the end of the non‑parole period; or
 
-Note 2:       A person released on parole must comply with any conditions of the parole order during the parole period (see sections 19AMA, 19AN and 19AU).
+                     (b)  if the Attorney‑General considers that in all the circumstances it would be appropriate to do so, on a specified day, not being earlier than 30 days before the end of the non‑parole period.
 
-Note 3:       Subsection (4) of this section affects the operation of subsection (1) if the person will be serving a State or Territory sentence at the end of the non‑parole period.
+             (2)  Subject to section 19AM, where there has been imposed on a person a federal life sentence or a federal sentence of, or federal sentences aggregating, 10 years or more and a non‑parole period has been fixed in relation to the person in respect of the sentence or sentences, the Attorney‑General must, by order in writing:
 
-             (2)  If the Attorney‑General refuses to make a parole order for a person under subsection (1) or paragraph (b) of this subsection, the Attorney‑General must:
+                     (a)  direct that the person be released from prison on parole:
 
-                     (a)  give the person a written notice, within 14 days after the refusal, that:
+                              (i)  at the end of the non‑parole period; or
 
-                              (i)  informs the person of the refusal; and
+                             (ii)  if the Attorney‑General considers that in all the circumstances it would be appropriate to do so, on a specified day, not being earlier than 30 days before the end of the non‑parole period; or
 
-                             (ii)  includes a statement of reasons for the refusal; and
+                     (b)  direct that the person is not to be released on parole at, or at any time before, the end of the non‑parole period.
 
-                            (iii)  sets out the effect of paragraph (b) of this subsection; and
+             (3)  An order directing that a person not be released at, or at any time before, the end of the non‑parole period:
 
-                     (b)  reconsider the making of a parole order for the person and either make, or refuse to make, such an order, within 12 months after the refusal.
+                     (a)  must not be made later than 3 months before the end of the non‑parole period; and
 
-             (3)  A parole order must:
+                     (b)  must include a statement of reasons why the order was made; and
 
-                     (a)  be in writing; and
+                     (c)  if the Attorney‑General proposes to reconsider, at a later time, the question of the release of the person on parole—must indicate when the Attorney‑General proposes to reconsider the question;
 
-                     (b)  specify whether or not the person is to be released subject to supervision; and
+and a copy of the order must be given to the person within 14 days after it was made.
 
-                     (c)  if it is proposed that the supervision period for a person released on parole subject to supervision should end before the end of the person’s parole period—specify the day on which the supervision period ends.
+             (4)  A parole order in relation to a federal sentence:
 
-             (4)  Despite subsection (1), if the person will be serving a State or Territory sentence on the day after the end of the non‑parole period, the requirement under that subsection to make, or refuse to make, a parole order does not apply:
+                     (a)  if the sentence is imprisonment for life in respect of that federal offence or any of those federal offences—must specify the day on which the parole period ends, being a day not earlier than 5 years after the person is released on parole; and
 
-                     (a)  for a federal sentence, or federal sentences, that do not include a life sentence—if the parole period would end while the person would still be imprisoned for the State or Territory offence; and
+                     (b)  if it is proposed that, for any part of the parole period, the person should be subject to supervision—must specify the day on which the supervision period ends, being a day fixed in accordance with the requirements of the definition of **_supervision period_** in subsection 16(1).
 
-                     (b)  for a federal sentence, or federal sentences, that include a life sentence—until the release of the person from prison for the State or Territory offence (but a decision may be made under that subsection at any time during the 3 month period before the person’s expected release); and
+             (5)  A parole order directing that a person be released from prison is sufficient authority for the release if, and only if, the person indicates, in writing, his or her acceptance of the conditions to which the order is subject by certifying to that effect either on the original parole order or on a copy of that order.
 
-                     (c)  in any case—if the State or Territory sentence is a life sentence for which a non‑parole period has not been fixed.
+##### <a id="19AM"></a>19AM  Person not to be released on parole if still serving State or Territory sentence
 
-Note:          The effect of this subsection and subsection 19AM(2) is that a parole order may sometimes still be made for a person while the person is serving a State or Territory sentence, but the person will not be released in accordance with the parole order until the person is released from prison for the State or Territory sentence.
+             (1)  Where:
 
-##### <a id="19AM"></a>19AM  Release on parole—when is a person released
+                     (a)  at the time when a federal non‑parole period (not being in respect of a life sentence) ends, the offender is serving, or is to serve, a State or Territory sentence (other than a life sentence for which a non‑parole period has not been fixed); and
 
-             (1)  A person must be released from prison on parole in accordance with a parole order on whichever of the following days is applicable (subject to subsections (2) and (3) and 19AZD(2)):
+                     (b)  if a federal parole order were made at that time, the parole period would end while the offender would still be imprisoned in respect of the State or Territory offence;
 
-                     (a)  for a parole order made before the end of the non‑parole period—the earlier of the following days:
+the parole order must not be made.
 
-                              (i)  the last day of the non‑parole period;
+             (2)  Where:
 
-                             (ii)  an earlier day (if any) specified in the parole order for the purposes of this subparagraph (not being earlier than 30 days before the end of the non‑parole period);
+                     (a)  at the time when a federal non‑parole period (not being in respect of a life sentence) ends, the offender is serving, or is to serve, a State or Territory sentence (other than a life sentence for which a non‑parole period has not been fixed); and
 
-                     (b)  for a parole order made after the end of the non‑parole period—the later of the following days:
+                     (b)  if a federal parole order were made at that time, the parole period would end after the offender was released, or released on parole, in respect of the State or Territory offence;
 
-                              (i)  the day after the parole order is made;
+the Attorney‑General must make the parole order, but it does not take effect before the offender is eligible to be so released.
 
-                             (ii)  a later day (if any) specified in the parole order for the purposes of this subparagraph (not being later than 30 days after the order is made).
+             (3)  Where, at the time when a federal non‑parole period in respect of a life sentence, or sentences that include a life sentence, ends, the offender is serving, or is to serve, a State or Territory sentence (other than a life sentence for which a non‑parole period has not been fixed), the Attorney‑General must not make a parole order such that the parole period would end while the offender would still be imprisoned in respect of the State or Territory offence.
 
-Note 1:       Subsection (2) of this section provides a different release day if the person is imprisoned for a State or Territory offence on the release day that would otherwise apply under this subsection.
-
-Note 2:       Subsection (3) requires the person to certify his or her acceptance of the parole order conditions before he or she may be released.
-
-Note 3:       Subsection 19AZD(2) may allow a person to be released slightly earlier than the day that would otherwise apply under this subsection (for example if the release day would otherwise fall on a weekend or public holiday).
-
-             (2)  However, if the person is imprisoned for a State or Territory offence on the day he or she would otherwise be eligible for release under subsection (1), the person must be released from prison on parole in accordance with the parole order on the same day he or she is released from prison (including on parole) for the State or Territory offence.
-
-             (3)  Despite subsections (1) and (2), the person must not be released from prison on parole in accordance with the parole order unless, before, on or after the release day provided by subsection (1) or (2), the person certifies on the parole order (or a copy of the order) that he or she accepts the conditions to which the order is subject.
-
-Note:          A person released on parole must comply with any conditions of the parole order during the parole period (see sections 19AN and 19AU).
-
-##### <a id="19AMA"></a>19AMA  Release on parole—parole period
-
-             (1)  For the purposes of this Part, the **_parole period_** for a person for whom a parole order has been made is the period starting in accordance with subsection (2) and ending in accordance with subsection (3).
-
-Note:          A person released on parole must comply with any conditions of the parole order during the parole period (see sections 19AN and 19AU).
-
-             (2)  The person’s parole period starts at the earlier of the following times:
-
-                     (a)  when the person is released from prison on parole;
-
-                     (b)  if the person is serving a State or Territory sentence at the time the parole order is made—when the person certifies on the parole order (or a copy of the order) that he or she accepts the conditions to which the order is subject.
-
-             (3)  The person’s parole period ends:
-
-                     (a)  at the end of the last day of any federal sentence that is, on the day of the release, being served or to be served (after deducting any remission or reduction that is applicable); or
-
-                     (b)  if the person has been given a federal life sentence—at the later of the following times:
-
-                              (i)  5 years after the person is released from prison on parole in accordance with section 19AM;
-
-                             (ii)  the end of a later day (if any) specified in the parole order for the purposes of this subparagraph (not being a day earlier than 5 years after the person’s expected release from prison in accordance with the order).
+             (4)  Where, at the time when a federal non‑parole period ends, the offender is serving, or is to serve, a State or Territory life sentence for which a non‑parole period has not been fixed, a federal parole order must not be made.
 
 ##### <a id="19AN"></a>19AN  Parole order is subject to conditions
 
@@ -9292,17 +9272,11 @@ Note:          A person released on parole must comply with an
 
                      (a)  is subject to the condition that the offender must, during the parole period, be of good behaviour and not violate any law; and
 
-                     (b)  if the parole order specifies in accordance with subsection 19AL(3) that the person is to be released subject to supervision—is subject to the condition that the offender must, during the supervision period, be subject to the supervision of a parole officer or other person specified in the order and obey all reasonable directions of that officer or other person; and
+                     (b)  if, under subsection 19AL(4), the day on which a supervision period ends is fixed in the parole order—is subject to the condition that the offender must, during the supervision period, be subject to the supervision of a parole officer or other person specified in the order and obey all reasonable directions of that officer or other person; and
 
                      (c)  is subject to such other conditions (if any) as the Attorney‑General specifies in the order.
 
-             (2)  The Attorney‑General may, at any time before the end of the parole period, by order in writing, amend a parole order by doing any or all of the following:
-
-                     (a)  varying or revoking a condition of the parole order;
-
-                     (b)  imposing additional conditions on the parole order;
-
-                     (c)  changing the day on which the supervision period ends.
+             (2)  The Attorney‑General may, at any time before the end of the parole period, by order in writing, amend a parole order by varying or revoking a condition of the parole order or by imposing additional conditions in the parole order.
 
              (3)  An amendment of the parole order does not have effect until notice in writing of the amendment is given to the offender, being notice given before the end of the parole period.
 
@@ -9326,25 +9300,17 @@ Note:          A person released on parole must comply with an
 
                      (a)  if the person is subject to a federal life sentence—must specify the day on which the licence period ends, being a day not earlier than 5 years after the person is released on licence; and
 
-                     (b)  specify whether or not the person is to be released subject to supervision; and
-
-                     (c)  if it is proposed that the supervision period for a person released on licence subject to supervision should end before the end of the person’s licence period—specify the day on which the supervision period ends.
+                     (b)  if it is proposed that, for any part of the licence period, the person should be subject to supervision—must specify the day on which the supervision period ends, being a day fixed in accordance with the requirements of the definition of **_supervision period_** in subsection 16(1).
 
              (7)  A licence:
 
                      (a)  is subject to the condition that the offender must, during the licence period, be of good behaviour and not violate any law; and
 
-                     (b)  if the licence specifies in accordance with subsection (6) that the person is to be released subject to supervision—is subject to the condition that the offender must, during the supervision period, be subject to the supervision of a person specified in the licence and obey all reasonable directions of that person; and
+                     (b)  if, under subsection (6), the day on which a supervision period ends is fixed in the licence—is subject to the condition that the offender must, during the supervision period, be subject to the supervision of a person specified in the licence and obey all reasonable directions of that person; and
 
                      (c)  is subject to such other conditions (if any) as the Attorney‑General specifies in the licence.
 
-             (8)  The Attorney‑General may, at any time before the end of the licence period, by order in writing, amend a licence by doing any or all of the following:
-
-                     (a)  varying or revoking a condition of the licence;
-
-                     (b)  imposing additional conditions on the licence;
-
-                     (c)  changing the day on which the supervision period ends.
+             (8)  The Attorney‑General may, at any time before the end of the licence period, by order in writing, amend a licence by varying or revoking a condition of a licence or by imposing additional conditions on a licence or by any or all of those means.
 
              (9)  An amendment of a licence does not have effect until notice of the amendment is given to the offender, being notice given before the end of the licence period.
 
@@ -11754,7 +11720,7 @@ the investigating official must offer the services of another legal practitioner
 
              (2)  In any proceedings, the burden lies on the prosecution to prove whether it was practicable to tape record the giving of that information and the person’s responses (if any).
 
-##### <a id="23V"></a>23V  Tape recording of confessions and admissions
+##### <a id="23V"></a>23V  Tape recording of confessions and admissions
 
              (1)  If a person who is being questioned as a suspect (whether under arrest or not) makes a confession or admission to an investigating official, the confession or admission is inadmissible as evidence against the person in proceedings for any Commonwealth offence unless:
 
