@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00069/Html/MedicareAustraliaAct1973_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00460/Html/MedicareAustraliaAct1973_WD02_image001.gif)
 
 # Medicare Australia Act 1973
 
 **Act No. 41 of 1974 as amended**
 
-This compilation was prepared on 1 March 2008
+This compilation was prepared on 3 July 2007
  taking into account amendments up to Act No. 88 of 2007
 
 The text of any of those amendments not in force
@@ -101,7 +101,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8T](#8T).         Exemption
 
-    **Division 3—Searches in relation to possible relevant offences and relevant civil contraventions**
+    **Division 3—Searches in relation to possible offences**
 
 [8U](#8U).         Authorised officers may conduct searches for the purpose of monitoring compliance
 
@@ -111,7 +111,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Warrants for searches and seizures**
 
-[8X](#8X).         Relevant offence and relevant civil contravention related searches and seizures
+[8X](#8X).         Offence related searches and seizures
 
 [8Y](#8Y).         Search warrants
 
@@ -215,7 +215,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="employe"></a>**_employee_** means a member of the staff of Medicare Australia referred to in subsection 20(1).
 
-                    <a name="evidenti-materi"></a>**_evidential material_** means a thing relevant to a relevant offence or relevant civil contravention, including such a thing in an electronic form.
+                    <a name="evidenti-materi"></a>**_evidential material_** means a thing relevant to a relevant offence, including such a thing in an electronic form.
 
                     <a name="micar-benefit"></a>**_medicare benefit_** means a medicare benefit under Part II of the _Health Insurance Act 1973_.
 
@@ -242,8 +242,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (a)  in relation to a Department of State—the Secretary of the Department; or
 
                      (b)  in relation to any other Commonwealth authority—the person identified by the regulations as the principal officer of the authority.
-
-                    <a name="relev-civil-contravent"></a>**_relevant civil contravention_** has the same meaning as in subsection 124B(1) of the _Health Insurance Act 1973_.
 
                     <a name="relev-offenc"></a>**_relevant offence_** is defined in section 3A.
 
@@ -273,7 +271,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  For the purposes of Division 2 of Part IID, a relevant offence is:
 
-                     (a)  an offence against Division 3 of Part IIBA or section 128A, 128B, 129 or 129AA of the _Health Insurance Act 1973_; or
+                     (a)  an offence against section 128A, 128B, 129, 129AA or 129AAA of the _Health Insurance Act 1973_; or
 
                      (b)  an offence against subsection 84L(1) or (2) or section 103 of the _National Health Act 1953_; or
 
@@ -289,7 +287,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
           (2A)  For the purposes of Division 3 of Part IID, a relevant offence is:
 
-                     (a)  an offence against Division 3 of Part IIBA or section 128A, 128B, 129 or 129AA of the _Health Insurance Act 1973_; or
+                     (a)  an offence against section 128A, 128B, 129, 129AA or 129AAA of the _Health Insurance Act 1973_; or
 
                      (b)  an offence against subsection 84L(1) or (2) or section 103 of the _National Health Act 1953_; or
 
@@ -435,7 +433,7 @@ Note:          See also section 19 of the _Public Service Ac
 
                      (c)  ensuring that Medicare Australia performs its function in a proper, efficient and effective manner.
 
-##### <a id="8AC"></a>8AC  Delegation
+##### <a id="8AC"></a>8AC  Delegation
 
              (1)  The Chief Executive Officer may, by writing, delegate to an employee all or any of the powers or functions of the Chief Executive Officer under this Act or any other Act.
 
@@ -445,7 +443,7 @@ Note:          See also section 19 of the _Public Service Ac
 
              (4)  However, the Chief Executive Officer must not delegate powers or functions delegated to him or her under another Act if the delegation by the Chief Executive Officer would be inconsistent with the express provisions of that Act.
 
-##### <a id="8AD"></a>8AD  Commonwealth consent to conferral of powers etc. on Chief Executive Officer by State and Territory laws
+##### <a id="8AD"></a>8AD   Commonwealth consent to conferral of powers etc. on Chief Executive Officer by State and Territory laws
 
              (1)  A law of a State or Territory may confer powers or functions, or impose duties, on the Chief Executive Officer.
 
@@ -491,7 +489,7 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
              (6)  Subsections (1) to (5) do not limit section 8AD.
 
-##### <a id="8AF"></a>8AF  When State and Territory laws impose a duty on Chief Executive Officer
+##### <a id="8AF"></a>8AF  When  State and Territory laws impose a duty on Chief Executive Officer
 
                    For the purposes of sections 8AD and 8AE, a law of a State or Territory **_imposes a duty_** on the Chief Executive Officer if:
 
@@ -627,9 +625,9 @@ Note:          For strict liability, see section 6.1 of the 
 
              (1)  An authorised officer may require a person to give information or produce a document that is in the person’s custody, or under the person’s control, to the Chief Executive Officer if the authorised officer has reasonable grounds for believing that:
 
-                     (a)  a relevant offence or relevant civil contravention has been or is being committed; and
+                     (a)  a relevant offence has been or is being committed; and
 
-                     (b)  the information or document is relevant to the offence or contravention.
+                     (b)  the information or document is relevant to the offence.
 
              (2)  The requirement must be by notice in writing given to the person.
 
@@ -707,23 +705,23 @@ cannot be used against the person. However, this subsection does not apply to a 
 
                    This Division does not require a person to give information or produce a document to the extent that, in doing so, the person would contravene a law of the Commonwealth (other than a law of a Territory).
 
-### Division 3—Searches in relation to possible relevant offences and relevant civil contraventions
+### Division 3—Searches in relation to possible offences
 
 ##### <a id="8U"></a>8U  Authorised officers may conduct searches for the purpose of monitoring compliance
 
-             (1)  Subject to this Division, if an authorised officer has reasonable grounds for believing that a relevant offence or relevant civil contravention is being committed, or has been committed within the previous 60 days, he or she may:
+             (1)  Subject to this Division, if an authorised officer has reasonable grounds for believing that a relevant offence is being committed, or has been committed within the previous 60 days, he or she may:
 
                      (a)  with the consent of the occupier, enter, at any reasonable time of the day or night, any premises that the authorised officer has reasonable grounds to believe are premises to which this section applies; and
 
                      (b)  exercise his or her powers under section 8V;
 
-to the extent that it is reasonably necessary for the purpose of ascertaining whether the relevant offence or relevant civil contravention has been or is being committed.
+to the extent that it is reasonably necessary for the purpose of ascertaining whether the relevant offence has been or is being committed.
 
              (2)  If the occupier does not consent to entry under subsection (1), an authorised officer must not enter the premises without a search warrant.
 
              (3)  The authorised officer must not under subsection (1) enter premises that are a residence unless the occupier of the premises has consented to the entry.
 
-             (4)  In deciding the extent to which it is reasonably necessary to enter premises under subsection (1), an authorised officer must consider whether it is practicable to ascertain whether the relevant offence or relevant civil contravention in question has been or is being committed by:
+             (4)  In deciding the extent to which it is reasonably necessary to enter premises under subsection (1), an authorised officer must consider whether it is practicable to ascertain whether the relevant offence in question has been or is being committed by:
 
                      (a)  the authorised officer entering the premises with the occupier’s consent; or
 
@@ -735,7 +733,7 @@ to the extent that it is reasonably necessary for the purpose of ascertaining wh
 
 ##### <a id="8V"></a>8V  Powers on entering premises
 
-             (1)  Subject to subsection (4), having entered the premises, the authorised officer may, for the purpose of ascertaining whether the relevant offence or relevant civil contravention is being committed, or has been committed within the previous 60 days, exercise any one or more of the following powers:
+             (1)  Subject to subsection (4), having entered the premises, the authorised officer may, for the purpose of ascertaining whether the relevant offence is being committed, or has been committed within the previous 60 days, exercise any one or more of the following powers:
 
                      (a)  to search the premises;
 
@@ -759,7 +757,7 @@ to the extent that it is reasonably necessary for the purpose of ascertaining wh
 
                              (ii)  can be used with or is associated with the equipment;
 
-contains information that is relevant to determining whether the relevant offence or relevant civil contravention has been or is being committed.
+contains information that is relevant to determining whether the relevant offence has been or is being committed.
 
              (3)  If the authorised officer, after operating equipment at the premises, finds that the equipment, or that a disk, tape or other storage device at the premises, contains information of that kind, he or she has power, under paragraph (1)(f):
 
@@ -783,7 +781,7 @@ contains information that is relevant to determining whether the relevant offenc
 
 ### Division 4—Warrants for searches and seizures
 
-##### <a id="8X"></a>8X  Relevant offence and relevant civil contravention related searches and seizures
+##### <a id="8X"></a>8X  Offence related searches and seizures
 
              (1)  Subject to this Division, if an authorised officer has reasonable grounds for suspecting that there may be on or in any premises evidential material, the authorised officer and an officer assisting may:
 
@@ -833,7 +831,7 @@ the magistrate may issue a search warrant in respect of the premises.
 
              (5)  There must be stated in the warrant:
 
-                     (a)  the purpose for which the warrant is issued, and the nature of the relevant offence or relevant civil contravention in relation to which the entry and search are authorised; and
+                     (a)  the purpose for which the warrant is issued, and the nature of the offence in relation to which the entry and search are authorised; and
 
                      (b)  whether entry is authorised to be made at any time of the day or night or during specified hours of the day or night; and
 
@@ -1053,11 +1051,11 @@ compensation for the damage is payable to the owner of the equipment.
 
                      (a)  in the course of searching, in accordance with a warrant, for particular evidential material, an authorised officer or an officer assisting finds evidential material that the authorised officer or officer assisting believes on reasonable grounds to be:
 
-                              (i)  evidential material in relation to the relevant offence or relevant civil contravention to which the warrant relates, although not the evidential material specified in the warrant; or
+                              (i)  evidential material in relation to the offence to which the warrant relates, although not the evidential material specified in the warrant; or
 
-                             (ii)  evidential material in relation to another relevant offence or relevant civil contravention; and
+                             (ii)  evidential material in relation to another relevant offence; and
 
-                     (b)  the authorised officer or officer assisting believes, on reasonable grounds, that it is necessary to seize that evidential material in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the relevant offence or relevant civil contravention or the other relevant offence or relevant civil contravention;
+                     (b)  the authorised officer or officer assisting believes, on reasonable grounds, that it is necessary to seize that evidential material in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence or the other relevant offence;
 
 the warrant is taken to authorise the authorised officer or officer assisting to seize that evidential material.
 
@@ -2340,8 +2338,7 @@ Remainder: Royal Assent</div>
     <div>21 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Mar 2008 
-Remainder: Royal Assent</div>
+    <div>Schedule 1: (items 98–109): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2737,7 +2734,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services L
     <div>S. 3 .....................................</div>
   </td>
   <td colspan="2">
-    <div>am. Nos. 91 and 100, 1976; No. 134, 1978; No. 54, 1983; No. 136, 1992; Nos. 80 and 85, 1994; No. 149, 1995; No. 159, 1997; Nos. 83 and 146, 1999; No. 71, 2002; No. 50, 2003; No. 111, 2005; No. 88, 2007</div>
+    <div>am. Nos. 91 and 100, 1976; No. 134, 1978; No. 54, 1983; No. 136, 1992; Nos. 80 and 85, 1994; No. 149, 1995; No. 159, 1997; Nos. 83 and 146, 1999; No. 71, 2002; No. 50, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2753,7 +2750,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services L
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 132, 1995; No. 137, 2000; No. 111, 2001; No. 133, 2002; No. 88, 2007</div>
+    <div>am. No. 132, 1995; No. 137, 2000; No. 111, 2001; No. 133, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3614,23 +3611,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services L
 </tr>
 <tr>
   <td>
-    <div>S. 8P....................................</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 85, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 111, 2005; No. 88, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8Q...................................</div>
+    <div>Ss. 8P, 8Q...........................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3694,15 +3675,6 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services L
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of............. 
-Part IID</div>
-  </td>
-  <td colspan="2">
-    <div>rs. No. 88, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8U...................................</div>
   </td>
   <td colspan="2">
@@ -3714,28 +3686,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005; No. 88, 2007</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8V...................................</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 85, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 88, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8W..................................</div>
+    <div>Ss. 8V, 8W..........................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3747,14 +3703,6 @@ Part IID</div>
   </td>
   <td colspan="2">
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8X..................</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 88, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3778,7 +3726,7 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005; No. 88, 2007</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -3799,31 +3747,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 8ZB–8ZH......................</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 85, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8ZI...................................</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 85, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 88, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8ZJ–8ZL.......................</div>
+    <div>Ss. 8ZB–8ZL.......................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -5035,6 +4959,72 @@ Part IID</div>
   <td></td>
 </tr></table>
 
+### Note 2
+
+_Health Insurance Amendment (Inappropriate and Prohibited Practices and Other Measures) Act 2007 (No. 88, 2007)_
+
+The following amendments commence on 1 March 2008:
+
+## Schedule 1
+
+## 98  Section 3 (definition of _evidential material_)
+
+After “relevant offence”, insert “or relevant civil contravention”.
+
+## 99  Section 3
+
+Insert:
+
+                    <a name="relev-civil-contravent"></a>**_relevant civil contravention_** has the same meaning as in subsection 124B(1) of the _Health Insurance Act 1973_.
+
+## 100  Paragraphs 3A(2)(a) and (2A)(a)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  an offence against Division 3 of Part IIBA or section 128A, 128B, 129 or 129AA of the _Health Insurance Act 1973_; or
+
+## 101  Paragraph 8P(1)(a)
+
+After “offence”, insert “or relevant civil contravention”.
+
+## 102  At the end of paragraph 8P(1)(b)
+
+Add “or contravention”.
+
+## 103  Division 3 of Part IID (heading)
+
+Repeal the heading, substitute:
+
+### Division 3—Searches in relation to possible relevant offences and relevant civil contraventions
+
+## 104  Subsection 8U(1)
+
+After “relevant offence” (wherever occurring), insert “or relevant civil contravention”.
+
+## 105  Subsections 8U(4) and 8V(1) and (2)
+
+After “relevant offence”, substitute “or relevant civil contravention”.
+
+_Note:       The heading to section 8X is altered by omitting “Offence” and substituting “Relevant offence and relevant civil contravention”._
+
+## 106  Paragraph 8Y(5)(a)
+
+Omit “offence”, substitute “relevant offence or relevant civil contravention”.
+
+## 107  Subparagraph 8ZI(a)(i)
+
+Omit “offence”, substitute “relevant offence or relevant civil contravention”.
+
+## 108  Subparagraph 8ZI(a)(ii)
+
+After “relevant offence”, insert “or relevant civil contravention”.
+
+## 109  Paragraph 8ZI(b)
+
+Omit “offence or the other relevant offence”, substitute “relevant offence or relevant civil contravention or the other relevant offence or relevant civil contravention”.
+
+As at 3 July 2007 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5538,5 +5528,7 @@ the Commonwealth must pay that person:
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
 (2)        In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
+
+ 
 
  
