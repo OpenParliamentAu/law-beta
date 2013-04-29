@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00566/Html/TelecomCPSS1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00192/Html/TelecomCPSS1999_WD02_image001.gif)
 
 # Telecommunications (Consumer Protection and Service Standards) Act 1999
 
 **Act No. 50 of 1999 as amended**
 
-This compilation was prepared on 13 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2446,7 +2446,7 @@ Note:          The levy contribution factor is used to work ou
 
              (2)  The **_levy contribution factor_** for an eligible revenue period is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00566/Html/TelecomCPSS1999_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00192/Html/TelecomCPSS1999_WD02_image002.gif)
 
 where:
 
@@ -2552,7 +2552,7 @@ Note:          The assessment may be included in the same docu
 
              (2)  The **_levy debit_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00566/Html/TelecomCPSS1999_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00192/Html/TelecomCPSS1999_WD02_image003.gif)
 
 where:
 
@@ -2566,7 +2566,7 @@ Note:          The Minister may, for example, increase the amo
 
              (4)  A determination under subsection (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="20S"></a>20S  Levy debit balance
+##### <a id="20S"></a>20S  Levy debit balance
 
                    If a person’s levy debit (if any) under section 20R for a claim period exceeds the person’s assessed levy credit (if any) under section 20N for the claim period, then:
 
@@ -3130,7 +3130,7 @@ Note:          The **_most recent eligible revenue assessment_
 
              (2)  Each taxpayer’s NRS contribution amount for the current quarter is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2010C00566/Html/TelecomCPSS1999_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00192/Html/TelecomCPSS1999_WD02_image004.gif)
 
 Note:          Levy is imposed on the NRS contribution amount by the _NRS Levy Imposition Act 1998_.
 
@@ -4562,9 +4562,9 @@ Part regulates the prefixes of numbers used by telephone sex services.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
-supply of other goods and services must not be tied to the supply of a
+supply of other goods and services must not be tied to the supply of a telephone
 
-telephone sex service.</li>
+sex service.</li>
 
 * * *
 
@@ -5458,23 +5458,6 @@ Schedule 3: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 5 (item 137(a)): <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 139): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -8935,25 +8918,6 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>rep. No. 111, 2009</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendment commences on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Telecommunications (Consumer Protection and Service Standards) Act 1999</h9>
-
-## 139  Subsection 158C(3)
-
-As at 13 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
