@@ -1,290 +1,292 @@
-![](http://www.comlaw.gov.au/Details/C2007C00495/Html/InteractGamb2001WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00372/Html/1A7FF4CD844AAD3DCA25702600029F0C/$FILE/image001.gif)
 
 # Interactive Gambling Act 2001
 
 **Act No. 84 of 2001 as amended**
 
-This compilation was prepared on 27 July 2007
- taking into account amendments up to Act No. 124 of 2007
+This compilation was prepared on 1 July 2005
+taking into account amendments up to Act No. 45 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title _see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement _see_ Note 1]                                                               1
 
-[3](#3).            Simplified outline
+[3](#3).            Simplified outline                                                                                 1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           3
 
-[5](#5).            Interactive gambling services
+[5](#5).            Interactive gambling services                                                               6
 
-[6](#6).            Prohibited Internet gambling services
+[6](#6).            Prohibited Internet gambling services                                                  7
 
-[8](#8).            Australian-customer link
+[8](#8).            Australian-customer link                                                                     8
 
-[8A](#8A).         Excluded wagering service
+[8A](#8A).         Excluded wagering service                                                                    8
 
-[8B](#8B).         Excluded gaming service
+[8B](#8B).         Excluded gaming service                                                                       9
 
-[8C](#8C).         Designated broadcasting link and designated datacasting link
+[8C](#8C).         Designated broadcasting link and designated datacasting link           10
 
-[8D](#8D).         Excluded lottery service
+[8D](#8D).         Excluded lottery service                                                                     11
 
-[9A](#9A).         Designated country
+[9A](#9A).         Designated country                                                                            11
 
-[9B](#9B).         Designated country-customer link
+[9B](#9B).         Designated country-customer link                                                     12
 
-[10](#10).          Exempt services
+[10](#10).          Exempt services                                                                                 12
 
-[11](#11).          Extended meaning of _use_
+[11](#11).          Extended meaning of _use_                                                                    12
 
-[12](#12).          Crown to be bound
+[12](#12).          Crown to be bound                                                                            13
 
-[13](#13).          Extension to external Territories
+[13](#13).          Extension to external Territories                                                        13
 
-[14](#14).          Extra-territorial application
+[14](#14).          Extra-territorial application                                                               13
 
 **Part 2—Offence of providing an interactive gambling service to customers in Australia**
 
-[15](#15).          Offence of providing an interactive gambling service to customers in Australia
+[15](#15).          Offence of providing an interactive gambling service to customers in Australia     14
 
 **Part 2A—Offence of providing an Australian-based interactive gambling service to customers in designated countries**
 
-[15A](#15A).       Offence of providing an Australian-based interactive gambling service to customers in designated countries
+[15A](#15A).       Offence of providing an Australian-based interactive gambling service to customers in designated countries        16
 
 **Part 3—Complaints system: prohibited Internet gambling content** 
 
     **Division 1—Making of complaints to the ACMA**
 
-[16](#16).          Complaints about prohibited Internet gambling content
+[16](#16).          Complaints about prohibited Internet gambling content                   18
 
-[17](#17).          Complaints about breaches of online provider rules etc 
+[17](#17).          Complaints about breaches of online provider rules etc                    18
 
-[18](#18).          Form of complaint
+[18](#18).          Form of complaint                                                                             18
 
-[19](#19).          Residency etc  of complainant
+[19](#19).          Residency etc  of complainant                                                           19
 
     **Division 2—Investigations by the ACMA**
 
-[20](#20).          Investigation of complaints by the ACMA
+[20](#20).          Investigation of complaints by the ACMA                                      20
 
-[21](#21).          ACMA may investigate matters on its own initiative
+[21](#21).          ACMA may investigate matters on its own initiative                      21
 
-[22](#22).          Conduct of investigations
+[22](#22).          Conduct of investigations                                                                  21
 
-[23](#23).          Protection from civil proceedings
+[23](#23).          Protection from civil proceedings                                                      22
 
     **Division 3—Action to be taken in relation to a complaint about prohibited Internet gambling content hosted outside Australia**
 
-[24](#24).          Action to be taken in relation to a complaint about prohibited Internet gambling content hosted outside Australia
+[24](#24).          Action to be taken in relation to a complaint about prohibited Internet gambling content hosted outside Australia                                                                                                           23
 
-[25](#25).          Deferral of action in order to avoid prejudicing a criminal investigation
+[25](#25).          Deferral of action in order to avoid prejudicing a criminal investigation  25
 
-[26](#26).          Anti-avoidance—notified Internet content
+[26](#26).          Anti-avoidance—notified Internet content                                        25
 
-[27](#27).          Anti-avoidance—special access-prevention notice
+[27](#27).          Anti-avoidance—special access-prevention notice                           26
 
-[28](#28).          Compliance with access-prevention notices
+[28](#28).          Compliance with access-prevention notices                                      27
 
-[29](#29).          Notification of Internet content
+[29](#29).          Notification of Internet content                                                         27
 
-[30](#30).          Application of notifications under this Division
+[30](#30).          Application of notifications under this Division                               27
 
-[31](#31).          ACMA may be taken to have issued access-prevention notices
+[31](#31).          ACMA may be taken to have issued access-prevention notices      27
 
 **Part 4—Complaints system: industry code and industry standard** 
 
     **Division 1—Simplified outline**
 
-[32](#32).          Simplified outline
+[32](#32).          Simplified outline                                                                               29
 
     **Division 2—Interpretation**
 
-[33](#33).          Industry code
+[33](#33).          Industry code                                                                                     30
 
-[34](#34).          Industry standard
+[34](#34).          Industry standard                                                                              30
 
-[35](#35).          Designated Internet gambling matters
+[35](#35).          Designated Internet gambling matters                                                30
 
     **Division 3—General principles relating to industry code and industry standard**
 
-[36](#36).          Statement of regulatory policy
+[36](#36).          Statement of regulatory policy                                                          31
 
-[37](#37).          Matters that must be dealt with by industry code and industry standard
+[37](#37).          Matters that must be dealt with by industry code and industry standard              31
 
     **Division 4—Industry code**
 
-[38](#38).          Registration of industry code
+[38](#38).          Registration of industry code                                                            34
 
-[39](#39).          ACMA may request code
+[39](#39).          ACMA may request code                                                                 35
 
-[40](#40).          Publication of notice where no body or association represents Internet service providers
+[40](#40).          Publication of notice where no body or association represents Internet service providers     35
 
-[41](#41).          Replacement of industry code
+[41](#41).          Replacement of industry code                                                           36
 
-[42](#42).          Compliance with industry code
+[42](#42).          Compliance with industry code                                                         36
 
-[43](#43).          Formal warnings—breach of industry code
+[43](#43).          Formal warnings—breach of industry code                                       36
 
     **Division 5—Industry standard**
 
-[44](#44).          ACMA may determine an industry standard if a request for an industry code is not complied with
+[44](#44).          ACMA may determine an industry standard if a request for an industry code is not complied with    37
 
-[45](#45).          ACMA may determine industry standard where no industry body or association formed
+[45](#45).          ACMA may determine industry standard where no industry body or association formed    38
 
-[46](#46).          ACMA may determine industry standard—total failure of industry code
+[46](#46).          ACMA may determine industry standard—total failure of industry code             38
 
-[47](#47).          ACMA may determine industry standard—partial failure of industry code
+[47](#47).          ACMA may determine industry standard—partial failure of industry code          39
 
-[48](#48).          Compliance with industry standard
+[48](#48).          Compliance with industry standard                                                  41
 
-[49](#49).          Formal warnings—breach of industry standard
+[49](#49).          Formal warnings—breach of industry standard                                41
 
-[50](#50).          Variation of industry standard
+[50](#50).          Variation of industry standard                                                           41
 
-[51](#51).          Revocation of industry standard
+[51](#51).          Revocation of industry standard                                                       41
 
-[52](#52).          Public consultation on industry standard
+[52](#52).          Public consultation on industry standard                                          42
 
     **Division 6—Industry code and industry standard to be included on a Register**
 
-[53](#53).          Industry code and industry standard to be included on a Register
+[53](#53).          Industry code and industry standard to be included on a Register    43
 
 **Part 5—Complaints system: online provider rules**
 
-[54](#54).          Online provider rules
+[54](#54).          Online provider rules                                                                         44
 
-[55](#55).          Compliance with online provider rules
+[55](#55).          Compliance with online provider rules                                              44
 
-[56](#56).          Remedial directions—breach of online provider rules
+[56](#56).          Remedial directions—breach of online provider rules                       44
 
-[57](#57).          Continuing offences
+[57](#57).          Continuing offences                                                                           45
 
-[58](#58).          Formal warnings—breach of online provider rules
+[58](#58).          Formal warnings—breach of online provider rules                            45
 
-[59](#59).          Federal Court may order a person to cease supplying Internet carriage services
+[59](#59).          Federal Court may order a person to cease supplying Internet carriage services    45
 
 **Part 6—Complaints system: protection from civil proceedings**
 
-[60](#60).          Protection from civil proceedings
+[60](#60).          Protection from civil proceedings                                                      46
 
 **Part 7—Complaints system: review of decisions**
 
-[61](#61).          Review of decisions
+[61](#61).          Review of decisions                                                                           47
 
 **Part 7A—Prohibition of advertising of interactive gambling services** 
 
     **Division 1—Interpretation: definitions**
 
-[61AA](#61AA).    Definitions
+[61AA](#61AA).    Definitions                                                                                         49
 
     **Division 2—Interpretation: interactive gambling service advertisement**
 
-[61BA](#61BA).    Basic meaning of _interactive gambling service advertisement_
+[61BA](#61BA).    Basic meaning of _interactive gambling service advertisement_           51
 
-[61BB](#61BB).     Exception—political communication
+[61BB](#61BB).     Exception—political communication                                                 51
 
-[61BC](#61BC).     Exception—Internet sites etc  and business documents
+[61BC](#61BC).     Exception—Internet sites etc  and business documents                    52
 
-[61BD](#61BD).    Exception—premises of providers
+[61BD](#61BD).    Exception—premises of providers                                                    52
 
-[61BE](#61BE).     Exceptions—management advertisements etc 
+[61BE](#61BE).     Exceptions—management advertisements etc                                   52
 
-[61BF](#61BF).     Exception—products or services having the same name as an interactive gambling service
+[61BF](#61BF).     Exception—products or services having the same name as an interactive gambling service    53
 
-[61BG](#61BG).    Exception—anti-gambling advertisements
+[61BG](#61BG).    Exception—anti-gambling advertisements                                         54
 
-[61BGA](#61BGA). Exception—advertisements of a kind specified in the regulations
+[61BGA](#61BGA). Exception—advertisements of a kind specified in the regulations    54
 
-[61BH](#61BH).    Definition
+[61BH](#61BH).    Definition                                                                                           54
 
     **Division 3—Interpretation: publication of interactive gambling service advertisement**
 
-[61CA](#61CA).    Basic meaning of _publish_ an interactive gambling service advertisement
+[61CA](#61CA).    Basic meaning of _publish_ an interactive gambling service advertisement 55
 
-[61CB](#61CB).     Publish does not include broadcast or datacast
+[61CB](#61CB).     Publish does not include broadcast or datacast                                 56
 
-[61CC](#61CC).     Exception—trade communications
+[61CC](#61CC).     Exception—trade communications                                                    56
 
-[61CD](#61CD).    Exception—advertisements in telephone directories
+[61CD](#61CD).    Exception—advertisements in telephone directories                         56
 
-[61CE](#61CE).     Exception—ordinary activities of exempt libraries
+[61CE](#61CE).     Exception—ordinary activities of exempt libraries                           56
 
-[61CF](#61CF).     Exception—acknowledgments of assistance or support
+[61CF](#61CF).     Exception—acknowledgments of assistance or support                   57
 
     **Division 4—Broadcasting or datacasting of interactive gambling service advertisements in Australia**
 
-[61DA](#61DA).    Interactive gambling service advertisements not to be broadcast or datacast in Australia
+[61DA](#61DA).    Interactive gambling service advertisements not to be broadcast or datacast in Australia       58
 
-[61DB](#61DB).    Accidental or incidental broadcast or datacast permitted
+[61DB](#61DB).    Accidental or incidental broadcast or datacast permitted                  58
 
-[61DC](#61DC).    Broadcast or datacast of advertisements during flights of aircraft
+[61DC](#61DC).    Broadcast or datacast of advertisements during flights of aircraft     59
 
     **Division 5—Publication of interactive gambling service advertisements in Australia**
 
-[61EA](#61EA).     Interactive gambling service advertisements not to be published in Australia
+[61EA](#61EA).     Interactive gambling service advertisements not to be published in Australia         60
 
-[61EB](#61EB).     Periodicals distributed outside Australia—acts of publication permitted
+[61EB](#61EB).     Periodicals distributed outside Australia—acts of publication permitted               61
 
-[61EC](#61EC).     Australian sporting and cultural events of international significance—acts of publication permitted
+[61EC](#61EC).     Australian sporting and cultural events of international significance—acts of publication permitted    61
 
-[61ED](#61ED).     Accidental or incidental publication permitted
+[61ED](#61ED).     Accidental or incidental publication permitted                                  62
 
-[61EE](#61EE).     Publication by person not receiving any benefit permitted
+[61EE](#61EE).     Publication by person not receiving any benefit permitted               63
 
-[61EF](#61EF).     Publication of advertisements during flights of aircraft
+[61EF](#61EF).     Publication of advertisements during flights of aircraft                     63
 
-[61EG](#61EG).     Defence—advertising under existing contracts or arrangements
+[61EG](#61EG).     Defence—advertising under existing contracts or arrangements        63
 
-[61EH](#61EH).     Defence—display of signs before 1 July 2003
+[61EH](#61EH).     Defence—display of signs before 1 July 2003                                  64
 
     **Division 6—Miscellaneous**
 
-[61FA](#61FA).     Failure to broadcast, datacast or publish advertisement not actionable if this Part would be contravened
+[61FA](#61FA).     Failure to broadcast, datacast or publish advertisement not actionable if this Part would be contravened             66
 
-[61FB](#61FB).     Applications for the purposes of section 61EC
+[61FB](#61FB).     Applications for the purposes of section 61EC                                66
 
-[61FC](#61FC).     Review of decisions
+[61FC](#61FC).     Review of decisions                                                                           67
 
-[61FD](#61FD).     Additional conditions for licences under the _Broadcasting Services Act 1992_
+[61FD](#61FD).     Additional conditions for licences under the _Broadcasting Services Act 1992_        67
 
-[61FE](#61FE).     Reports to Parliament
+[61FE](#61FE).     Reports to Parliament                                                                        68
 
 **Part 8—Miscellaneous**
 
-[62](#62).          Application of _Criminal Code_
+[62](#62).          Application of _Criminal Code_                                                           70
 
-[63](#63).          Conduct by directors, employees and agents
+[63](#63).          Conduct by directors, employees and agents                                    70
 
-[64](#64).          Service of summons or process on foreign corporations—criminal proceedings
+[64](#64).          Service of summons or process on foreign corporations—criminal proceedings     72
 
-[65](#65).          Service of notices
+[65](#65).          Service of notices                                                                               72
 
-[66](#66).          Application of the _Broadcasting Services Act 1992_
+[66](#66).          Application of the _Broadcasting Services Act 1992_                          72
 
-[67](#67).          Additional ACMA function—monitoring compliance with codes and standards
+[67](#67).          Additional ACMA function—monitoring compliance with codes and standards   73
 
-[68](#68).          Review before 1 July 2003
+[68](#68).          Review before 1 July 2003                                                                73
 
-[69](#69).          Operation of State and Territory laws
+[69](#69).          Operation of State and Territory laws                                              74
 
-[69A](#69A).       Regulations about unenforceability of agreements relating to illegal interactive gambling services
+[69A](#69A).       Regulations about unenforceability of agreements relating to illegal interactive gambling services         74
 
-[70](#70).          Regulations
+[70](#70).          Regulations                                                                                        75
 
 **Notes** 
+
 
 ## An Act about interactive gambling, and for related purposes
 
@@ -322,11 +324,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      This
-
-Act regulates interactive gambling services by:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      This Act regulates interactive gambling services by:</li>
 
                (a)     prohibiting interactive gambling services from being provided to customers in Australia; and
 
@@ -334,43 +334,21 @@ Act regulates interactive gambling services by:</li>
 
                (b)     establishing a complaints-based system to deal with Internet gambling services where the relevant content (**_prohibited Internet gambling content_**) is available for access by customers in Australia.
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person may complain to
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A person may complain to the ACMA about **_prohibited Internet gambling content_**.</li>
 
-the ACMA about **_prohibited Internet gambling content_**.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      If prohibited Internet gambling content is **_hosted in_****_Australia_** and the ACMA considers that the complaint should be referred to an Australian police force, the ACMA must refer the complaint to a member of an Australian police force.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      If prohibited Internet
-
-gambling content is **_hosted in_****_Australia_** and the ACMA
-
-considers that the complaint should be referred to an Australian police force,
-
-the ACMA must refer the complaint to a member of an Australian police force.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      If prohibited Internet
-
-gambling content is **_hosted outside_****_Australia_**, the ACMA
-
-must:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      If prohibited Internet gambling content is **_hosted outside_****_Australia_**, the ACMA must:</li>
 
                (a)     if the ACMA considers that the content should be referred to a law enforcement agency—notify the content to a member of an Australian police force; and
 
                (b)     notify the content to Internet service providers so that the providers can deal with the content in accordance with procedures specified in an industry code or industry standard (for example, procedures relating to the provision of regularly updated Internet content filtering software to subscribers).
 
-<li class="BoxList" style="margin-left:21.25pt">•      Bodies and associations
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Bodies and associations that represent Internet service providers may develop an industry code.</li>
 
-that represent Internet service providers may develop an industry code.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The ACMA has a reserve power to make an industry standard if there is no industry code or if an industry code is deficient.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The ACMA has a reserve power
-
-to make an industry standard if there is no industry code or if an industry
-
-code is deficient.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      This Act prohibits the
-
-advertising of interactive gambling services.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      This Act prohibits the advertising of interactive gambling services.</li></div>
 
 ##### <a id="4"></a>4  Definitions
 
@@ -1152,35 +1130,17 @@ Note:          For example, it is not sufficient for the ACMA 
 
                    The following is a simplified outline of this Part.
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      A body or association that
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A body or association that represents Internet service providers may develop an industry code that deals with the **_designated Internet gambling matters_** (see section 35).</li>
 
-represents Internet service providers may develop an industry code that deals
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      An industry code may be registered by the ACMA.</li>
 
-with the **_designated Internet gambling matters_** (see section 35).</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Compliance with an industry code is voluntary unless the ACMA directs a particular Internet service provider to comply with the code.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      An industry code may be
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The ACMA has a reserve power to make an industry standard if there is no industry code or if an industry code is deficient.</li>
 
-registered by the ACMA.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Compliance with an industry
-
-code is voluntary unless the ACMA directs a particular Internet service
-
-provider to comply with the code.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The ACMA has a reserve
-
-power to make an industry standard if there is no industry code or if an
-
-industry code is deficient.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Compliance with an industry
-
-standard is mandatory.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Compliance with an industry standard is mandatory.</li></div>
 
 ### Division 2—Interpretation
 
@@ -1552,7 +1512,7 @@ the industry standard is revoked when the code is registered.
 
              (5)  In this section:
 
-                    <a name="state"></a>**_State_** includes the Northern Territory and the   Australian Capital Territory.
+                    <a name="state"></a>**_State_** includes the Northern Territory and the Australian Capital Territory.
 
 ### Division 6—Industry code and industry standard to be included on a Register
 
@@ -2006,7 +1966,7 @@ then, despite section 61BA, the advertisement is not an interactive gambling s
 
                              (ii)  the way the site is advertised or promoted;
 
-                            it would be concluded that it is likely that a majority of persons who access the site are physically present in   Australia.
+                            it would be concluded that it is likely that a majority of persons who access the site are physically present in Australia.
 
 ##### <a id="61EB"></a>61EB  Periodicals distributed outside Australia—acts of publication permitted
 
@@ -2324,7 +2284,7 @@ Ancillary offence relating to this Act
 
                      (b)  the body corporate does not have a registered office or a principal office in Australia; and
 
-                     (c)  the body corporate has an agent in   Australia.
+                     (c)  the body corporate has an agent in Australia.
 
              (2)  Service of the summons or process may be effected by serving it on the agent.
 
@@ -2434,6 +2394,7 @@ Definition
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Interactive Gambling Act 2001_
 
 ### Note 1
@@ -2462,11 +2423,13 @@ For application, saving or transitional provisions made by the _Australian Commu
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -2476,111 +2439,100 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Interactive Gambling Act 2001</div>
-  </td>
-  <td>
-    <div>84, 2001</div>
-  </td>
-  <td>
-    <div>11 July 2001</div>
-  </td>
-  <td>
-    <div>Ss. 15, 15A, 61AA–61FE: 8 Aug 2001 
+<tbody>
+  <tr>
+    <td>
+      <div>Interactive Gambling Act 2001</div>
+    </td>
+    <td>
+      <div>84, 2001</div>
+    </td>
+    <td>
+      <div>11 July 2001</div>
+    </td>
+    <td>
+      <div>Ss. 15, 15A, 61AA–61FE: 8 Aug 2001 
 Ss. 16–31, 42, 43, 48, 49, 54–59: 12 Jan 2002 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 296–302): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Services Reform (Consequential Provisions) Act 2001</div>
-  </td>
-  <td>
-    <div>123, 2001</div>
-  </td>
-  <td>
-    <div>27 Sept 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 250–256): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Interactive Gambling Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>139, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
-  </td>
-  <td>
-    <div>45, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 68–70) and Schedule 4: 1 July 2005 <i>(c)</i> 
-Schedule 2: <i>(c)</i></div>
-  </td>
-  <td>
-    <div>Sch. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Communications Legislation Amendment (Content Services) Act 2007</div>
-  </td>
-  <td>
-    <div>124, 2007</div>
-  </td>
-  <td>
-    <div>20 July 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 95): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (items 296–302): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Services Reform (Consequential Provisions) Act 2001</div>
+    </td>
+    <td>
+      <div>123, 2001</div>
+    </td>
+    <td>
+      <div>27 Sept 2001</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 250–256): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Interactive Gambling Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>139, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
+    </td>
+    <td>
+      <div>45, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 68–70) and Schedule 4: 1 July 2005 <i>(c)</i> 
+Schedule 2: <i>(c)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 4</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_ The _Interactive Gambling Act 2001_ was amended by Schedule 3 (items 296–302) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(7)(a) of which provides as follows:
 
@@ -2666,60 +2618,63 @@ _(c)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as section 6 of the
-        <i>Australian Communications and Media Authority Act 2005</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 2.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      10\. Schedule 4
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as section 6 of the
-        <i>Australian Communications and Media Authority Act 2005</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedule 1
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2005
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 2
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of the provision(s) covered by table
+          item 2.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2005
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        10\. Schedule 4
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -2744,492 +2699,480 @@ _(c)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. Nos. 55 and 123, 2001; No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5, 6</div>
-  </td>
-  <td>
-    <div>am. Nos. 55 and 123, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rs. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 123, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 3 .</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16–18</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 3 .</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 20</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 21</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 21–23</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 24(1)</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 25–27</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 27(1)</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 31(2)</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36, 37</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 39</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39, 40</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 42, 43</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 44</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 45</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 46</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 47</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 49–52</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 58, 59</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BA</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BGA</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 67</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. Nos. 55 and 123, 2001; No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 5, 6</div>
+    </td>
+    <td>
+      <div>am. Nos. 55 and 123, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>rs. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 123, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part 3 .</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 16–18</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 2 of Part 3 .</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 20</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 21</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 21–23</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 2 to s. 24(1)</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 25–27</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 27(1)</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 31</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 31(2)</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 36, 37</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 39</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 39, 40</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 42, 43</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 44</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 45</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 46</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 47</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 49–52</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 58, 59</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61BA</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61BGA</div>
+    </td>
+    <td>
+      <div>ad. No. 139, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 67</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67</div>
+    </td>
+    <td>
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Communications Legislation Amendment (Content Services) Act 2007 
- (No. 124, 2007)_
-
-The following amendment commences on 20 January 2008 unless proclaimed earlier:
-
-## Schedule 1
-
-## 95  Subsections 36(2) and (3)
-
-After “Schedule 5”, insert “or 7”.
-
-As at 27 July 2007 the amendment is not incorporated in this compilation.
 
  
