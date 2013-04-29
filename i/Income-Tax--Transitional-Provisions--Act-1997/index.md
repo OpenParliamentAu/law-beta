@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image001.gif)
 
 # Income Tax (Transitional Provisions) Act 1997
 
 **Act No. 40 of 1997 as amended**
 
-This compilation was prepared on 31 August 2012
- taking into account amendments up to Act No. 58 of 2012
+This compilation was prepared on 2 April 2012
+ taking into account amendments up to Act No. 23 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -610,17 +610,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision 165‑CC—Change of ownership or control of company that has an unrealised net loss** 
 
-165‑115EChoice to use global method to work out unrealised net loss
+165‑115E  Choice to use global method to work out unrealised net loss
 
-        **Subdivision 165‑CD—Reductions after alterations in ownership or control of loss company**
+        **Subdivision 165‑CD—Reductions after alterations in ownership or control of loss company** 
 
-165‑115UChoice to use global method to work out adjusted unrealised 
- loss
+165‑115U  Choice to use global method to work out adjusted unrealised loss
 
-165‑115ZCWhen certain notices to be given
+165‑115ZC  When certain notices to be given
 
-165‑115ZDAdjustment (or further adjustment) for interest realised at a 
- loss after global method has been used
+165‑115ZD  Adjustment (or further adjustment) for interest realised at a loss after global method has been used
 
         **Subdivision 165‑C—Deducting bad debts**
 
@@ -924,7 +922,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [295‑467](#295‑467). Complying funds—deductions for self‑insurance for disability superannuation benefits
 
-295‑485AMeaning of _spouse_ and _child_ for 2008‑2009 income year
+295‑485A  Meaning of _spouse_ and _child_ for 2008‑2009 income year
 
 [295‑485](#295‑485). Deductions for increased amount of superannuation lump sum death benefit
 
@@ -944,8 +942,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [302‑195](#302‑195). Extended meaning of _death benefits dependant_ for superannuation income stream
 
-302‑195AMeaning of _death benefits dependant_ for 2008‑2009 income 
- year
+302‑195A  Meaning of _death benefits dependant_ for 2008‑2009 income year
 
     **Division 303—Superannuation benefits paid in special circumstances**
 
@@ -1257,7 +1254,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision 707‑A—Transfer of previously unutilised losses to head company**
 
-[707‑145](#707‑145). Certain choices to cancel the transfer of a loss may be revoked
+[707‑145](#707‑145). Certain choices to cancel the transfer of a loss may be 
+ revoked
 
         **Subdivision 707‑C—Amount of transferred losses that can be utilised**
 
@@ -1269,8 +1267,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [707‑328](#707‑328). Income year and conditions for possible transfer under Division 170 of the _Income Tax Assessment Act 1997_
 
-707‑328ASome events involving only group members not covered by 
- rule against inflation of modified market value
+707‑328A  Some events involving only group members not covered by rule against inflation of modified market value
 
 [707‑329](#707‑329). Modified market value at a time before 8 December 2004
 
@@ -1462,7 +1459,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [770‑220](#770‑220). Converting excess foreign tax credits into pre‑commencement excess foreign income tax
 
-[770‑225](#770‑225). Pre‑commencement excess foreign income tax generated for a company by excess foreign tax credits relating to other income
+[770‑225](#770‑225). Pre‑commencement excess foreign income tax generated for a company by excess foreign tax credits relating to other 
+ income
 
 [770‑230](#770‑230). Increase in the foreign income tax offset
 
@@ -1472,7 +1470,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [770‑290](#770‑290). Transferring subsidiary member’s pre‑commencement excess foreign income tax to head company
 
-[770‑295](#770‑295). Where entity not subsidiary member for whole of income year
+[770‑295](#770‑295). Where entity not subsidiary member for whole of income 
+ year
 
 [770‑300](#770‑300). Pre‑commencement excess foreign income tax lost on joining consolidated group
 
@@ -1503,10 +1502,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [840‑805](#840‑805). Managed investment trust amounts
 
 [840‑810](#840‑810). Payment of tax under section 840‑805
-
-        **Subdivision 840‑S—Seasonal Labour Mobility Program withholding tax**
-
-[840‑905](#840‑905). Application of Subdivision 840‑S of the _Income Tax Assessment Act 1997_
 
 **Chapter 5—Administration** 
 
@@ -1932,7 +1927,7 @@ Note 2:       The depreciation provisions were in Subdivision A of D
 
 ##### <a id="20‑110"></a>20‑110  The termination value of a car disposed of in the 1996‑97 income year or an earlier income year
 
-                   If:
+                   If:
 
                      (a)  in the 1997‑98 income year or a later income year you dispose of a car that was leased to you or your associate; and
 
@@ -3199,7 +3194,7 @@ However, the amount included is reduced to the extent (if any) that it is also i
 
              (1)  This section applies to you if:
 
-                     (a)  you incur expenditure after 30 Jun e 2001 under a contract entered into before that day; and
+                     (a)  you incur expenditure after 30 June 2001 under a contract entered into before that day; and
 
                      (b)  the expenditure would have been transport capital expenditure in respect of a transport facility, and you could have deducted an amount for it, under Subdivision 330‑H of the former Act if you had incurred it before 1 July 2001 and you had started to use the facility for a qualifying purpose before 1 July 2001; and
 
@@ -3703,7 +3698,7 @@ you must use as the car limit the car depreciation limit under section 42‑80
 
              (6)  The reduction is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image002.gif)
 
 where:
 
@@ -3767,7 +3762,7 @@ where:
 
 ##### <a id="40‑289"></a>40‑289  Surrendered firearms
 
-                   If a balancing adjustment event for a firearm that you hold occurs because you surrender it after the commencement of this section under firearms surrender arrangements, any amount by which its termination value exceeds its adjustable value is not included in your assessable income under subsection 40‑285(1) of the _Income Tax Assessment Act 1997_.
+                   If a balancing adjustment event for a firearm that you hold occurs because you surrender it after the commencement of this section under firearms surrender arrangements, any amount by which its termination value exceeds its adjustable value is not included in your assessable income under subsection 40‑285(1) of the _Income Tax Assessment Act 1997_.
 
 ##### <a id="40‑290"></a>40‑290  Reduction of deductions under former Act etc.
 
@@ -3815,7 +3810,7 @@ Increase in amounts deductible or assessable under section 40‑285
 
 is taken to be increased under section 40‑292 of the new Act by the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image003.gif)
 
 where:
 
@@ -3881,7 +3876,7 @@ Increase in amounts deductible or assessable under section 40‑285
 
 is taken to be increased under section 40‑293 of the new Act by the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image004.gif)
 
 where:
 
@@ -4044,7 +4039,7 @@ Meaning of average turnover
 
              (8)  An entity’s **_average turnover_** for an income year (the **_current year_**) is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image005.gif)
 
 where:
 
@@ -5023,7 +5018,7 @@ Note:          The remaining part is taxed at the top marginal
 
                      (b)  does not exceed the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image006.gif)
 
 Note:          If you have received another life benefit termination payment in the same income year (or in an earlier income year) that is not a transitional termination payment, your entitlement to a tax offset under this section is not affected by your entitlement (if any) to a tax concession for the other payment (under section 82‑10 of the _Income Tax Assessment Act 1997_).
 
@@ -5849,7 +5844,7 @@ Note:          The full list of CGT events is in section 104
 
 124‑142    ASGE licence etc.—cost base of aquifer access licence etc.
 
-##### <a id="124‑140"></a>124‑140  New statutory licence—ASGE licence etc.
+##### <a id="124‑140"></a>124‑140  New statutory licence—ASGE licence etc.
 
              (1)  Sections 124‑141 and 124‑142 apply if:
 
@@ -5885,7 +5880,7 @@ Note:          The full list of CGT events is in section 104
 
              (1)  For an original licence that has an ineligible part, the cost base of the ineligible part is the cost base of the original licence multiplied by the amount worked out under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image007.gif)
 
 where:
 
@@ -5945,7 +5940,7 @@ Note:          For the purposes of this section, the cost base
 
 ##### <a id="125‑75"></a>125‑75  Employee share schemes
 
-                   Despite the amendment of section 125‑75 of the _Income Tax Assessment Act 1997_ made by Schedule 1 to the _Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009_, subsection (1) of that section continues to apply, from the commencement of that Schedule, to each ownership interest that it applied to just before that commencement.
+                   Despite the amendment of section 125‑75 of the _Income Tax Assessment Act 1997_ made by Schedule 1 to the _Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009_, subsection (1) of that section continues to apply, from the commencement of that Schedule, to each ownership interest that it applied to just before that commencement.
 
 ### Division 126—Roll‑overs
 
@@ -6105,9 +6100,9 @@ the other asset cannot become trading stock of the recipient company just after 
 
 Example:    Examples of the operation of this provision include:
 
-(a)    CGT event J1 may happen if the recipient company stops being a 100% subsidiary of a member of a company group after a roll‑over under this Subdivision; and
+(a)           CGT event J1 may happen if the recipient company stops being a 100% subsidiary of a member of a company group after a roll‑over under this Subdivision; and
 
-(c)    an allocable cost amount may be affected under section 705‑93 because of a roll‑over under this Subdivision.
+(c)           an allocable cost amount may be affected under section 705‑93 because of a roll‑over under this Subdivision.
 
 ### Division 128—Effect of death
 
@@ -6749,7 +6744,7 @@ Note 2:       If the company is covered by subsection (6), the old
 
              (4)  For the purpose of subsection (3), the **_tax‑paid‑basis franking debit amount_**, in relation to an old Division 7B tainting amount component, is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image008.gif)
 
 where:
 
@@ -6789,7 +6784,7 @@ Note:          In relation to amounts described in paragraph�
 
            (10)  For the purpose of the notionally substituted paragraph, and of subsection (9) of this section, the **_tax‑paid‑basis franking debit amount_**, in relation to an old Division 7B tainting amount component, is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image008.gif)
 
 where:
 
@@ -6936,7 +6931,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class A franking surplus</div>
   </td>
   <td>
-    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image009.gif"></div>
+    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image009.gif"></div>
   </td>
 </tr>
 <tr>
@@ -6947,7 +6942,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class B franking surplus</div>
   </td>
   <td>
-    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image010.gif"></div>
+    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image010.gif"></div>
   </td>
 </tr>
 <tr>
@@ -6958,7 +6953,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class C franking surplus</div>
   </td>
   <td>
-    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image011.gif"></div>
+    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image011.gif"></div>
   </td>
 </tr></table>
 
@@ -7017,7 +7012,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class A</div>
   </td>
   <td>
-    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image012.gif"></div>
+    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image012.gif"></div>
   </td>
 </tr>
 <tr>
@@ -7028,7 +7023,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class B</div>
   </td>
   <td>
-    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image013.gif"></div>
+    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image013.gif"></div>
   </td>
 </tr>
 <tr>
@@ -7039,7 +7034,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class C</div>
   </td>
   <td>
-    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image014.gif"></div>
+    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image014.gif"></div>
   </td>
 </tr></table>
 
@@ -7094,7 +7089,7 @@ The amount of the franking debit is worked out under subsection (5).
     <div>class A</div>
   </td>
   <td>
-    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image015.gif"></div>
+    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image015.gif"></div>
   </td>
 </tr>
 <tr>
@@ -7105,7 +7100,7 @@ The amount of the franking debit is worked out under subsection (5).
     <div>class B</div>
   </td>
   <td>
-    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image016.gif"></div>
+    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image016.gif"></div>
   </td>
 </tr>
 <tr>
@@ -7116,7 +7111,7 @@ The amount of the franking debit is worked out under subsection (5).
     <div>class C</div>
   </td>
   <td>
-    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image017.gif"></div>
+    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image017.gif"></div>
   </td>
 </tr></table>
 
@@ -7392,7 +7387,7 @@ Class A exempting surplus at the end of 30 June 2002
 
                      (b)  an exempting credit of the amount worked out using the formula is taken to have arisen at the start of 1 July 2002 in the exempting account that the company has under section 208‑110 of the _Income Tax Assessment Act 1997_:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image018.gif)
 
 Note:          Section 205‑5 (with former sections 160APU and 160AQCNM of the _Income Tax Assessment Act 1936_) may affect whether the company had such a surplus at the end of 30 June 2002 and the amount of that surplus, but this section does not (because this section affects the company’s exempting account balance only after then).
 
@@ -7404,7 +7399,7 @@ Class C exempting surplus at the end of 30 June 2002
 
                      (b)  an exempting credit of the amount worked out using the formula is taken to have arisen at the start of 1 July 2002 in the exempting account that the company has under section 208‑110 of the _Income Tax Assessment Act 1997_:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image019.gif)
 
 Note:          Section 205‑5 (with former sections 160APU and 160AQCNM of the _Income Tax Assessment Act 1936_) may affect whether the company had such a surplus at the end of 30 June 2002 and the amount of that surplus, but this section does not (because this section affects the company’s exempting account balance only after then).
 
@@ -7416,13 +7411,13 @@ Class A exempting deficit at end of 30 June 2002
 
                      (b)  an exempting debit of the amount worked out using the formula is taken to have arisen at the start of 1 July 2002 in the exempting account that the company has under section 208‑110 of the _Income Tax Assessment Act 1997_:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image020.gif)
 
 Note:          If the company’s 2001‑02 franking year ended at the end of 30 June 2002 and it would have had a class A exempting deficit at that time apart from former section 160AQCNO of the _Income Tax Assessment Act 1936_, that section will have eliminated the deficit and either:
 
-(a)    increased the company’s liability for franking deficit tax; or
+(a)           increased the company’s liability for franking deficit tax; or
 
-(b)    reduced the franking credit arising under section 205‑10 of this Act in the franking account the company has under the _Income Tax Assessment Act 1997_.
+(b)           reduced the franking credit arising under section 205‑10 of this Act in the franking account the company has under the _Income Tax Assessment Act 1997_.
 
 Class C exempting deficit at end of 30 June 2002
 
@@ -7432,13 +7427,13 @@ Class C exempting deficit at end of 30 June 2002
 
                      (b)  an exempting debit of the amount worked out using the formula is taken to have arisen at the start of 1 July 2002 in the exempting account that the company has under section 208‑110 of the _Income Tax Assessment Act 1997_:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image021.gif)
 
 Note:          If the company’s 2001‑02 franking year ended at the end of 30 June 2002 and it would have had a class C exempting deficit at that time apart from former section 160AQCNO of the _Income Tax Assessment Act 1936_, that section will have eliminated the deficit and either:
 
-(a)    increased the company’s liability for franking deficit tax; or
+(a)           increased the company’s liability for franking deficit tax; or
 
-(b)    reduced the franking credit arising under section 205‑10 of this Act in the franking account the company has under the _Income Tax Assessment Act 1997_.
+(b)           reduced the franking credit arising under section 205‑10 of this Act in the franking account the company has under the _Income Tax Assessment Act 1997_.
 
 ### Division 210—Venture capital franking
 
@@ -7480,7 +7475,7 @@ Note:          If the company’s 2001‑02 franking year ende
 
              (3)  The amount of the venture capital credit is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image022.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image022.gif)
 
 ##### <a id="210‑15"></a>210‑15  Converting the venture capital sub‑account balance to a tax paid basis—PDFs whose 2001‑02 franking year ends before 30 June 2002
 
@@ -7494,7 +7489,7 @@ Note:          If the company’s 2001‑02 franking year ende
 
              (3)  The amount of the venture capital credit is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image023.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image023.gif)
 
              (4)  If, but for this subsection, the PDF would have a venture capital deficit under former Part IIIAA of the 1936 Act at the end of 30 June 2002 (the **_original deficit_**):
 
@@ -7504,7 +7499,7 @@ Note:          If the company’s 2001‑02 franking year ende
 
              (5)  The amount of the venture capital debit is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image024.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image024.gif)
 
 ### Division 214—Administering the imputation system
 
@@ -7862,7 +7857,7 @@ Note:          The general interest charge is worked out under
 
              (2)  A franking debit of the amount worked out in accordance with the following formula is taken to have arisen in the new franking account on the assessment day:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image025.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image025.gif)
 
 where:
 
@@ -7876,7 +7871,7 @@ Note:          On the assessment day, the franking credit ment
 
 ·<span style="font:7.0pt " new="">      </span>replaced with a franking credit arising under subsection (3).
 
-##### <a id="219‑45"></a>219‑45  Reversing (on tax paid basis) certain franking debits that arose before 1 July 2002
+##### <a id="219‑45"></a>219‑45  Reversing (on tax paid basis) certain franking debits that arose before 1 July 2002
 
              (1)  This section applies if:
 
@@ -7888,7 +7883,7 @@ Note:          On the assessment day, the franking credit ment
 
              (2)  A franking credit of the amount worked out in accordance with the following formula is taken to have arisen in the new franking account on 1 July 2002:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image026.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image026.gif)
 
 where:
 
@@ -8846,7 +8841,7 @@ and those rights or options are 30 June 1988 assets of the entity.
 
 295‑390    Fixed interest complying ADFs—exemption of income attributable to certain 25 May 1988 deposits
 
-##### <a id="295‑390"></a>295‑390  Fixed interest complying ADFs—exemption of income attributable to certain 25 May 1988 deposits
+##### <a id="295‑390"></a>295‑390  Fixed interest complying ADFs—exemption of income attributable to certain 25 May 1988 deposits
 
              (1)  A proportion of the ordinary income and statutory income of a continuously complying fixed interest ADF of an income year that would otherwise be assessable income is exempt from income tax under this section. The proportion is worked out under subsection (3).
 
@@ -8858,7 +8853,7 @@ and those rights or options are 30 June 1988 assets of the entity.
 
              (3)  The proportion is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image027.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image027.gif)
 
 where:
 
@@ -9924,7 +9919,7 @@ Amount to be included in assessable income
 
 is taken to be included in the R&amp;D entity’s assessable income for the event year under subsection 355‑315(3) of the new Act:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image003.gif)
 
 where:
 
@@ -10081,7 +10076,7 @@ Amount to be included in assessable income
 
 is taken to be included in the partner’s assessable income for the event year under subsection 355‑525(3) of the new Act:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image004.gif)
 
 where:
 
@@ -10565,7 +10560,7 @@ Head company adjusted allocable amount
 
                      (b)  only the following proportion of each of the step 2 to step 7 amounts in the table in section 705‑60 of the _Income Tax Assessment Act 1997_ was taken into account:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image028.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image028.gif)
 
                             where:
 
@@ -10585,7 +10580,7 @@ Sub‑group’s notional allocable cost amount
 
                      (d)  only the following proportion of each of the step 2 to step 7 amounts in the table in section 705‑60 of the _Income Tax Assessment Act 1997_ was taken into account:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image029.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image029.gif)
 
                             where:
 
@@ -10907,9 +10902,9 @@ Note 1:       As originally enacted, Division 58 of the _Income Ta
 
 Note 2:       Division 58 of the _Income Tax Assessment Act 1997_ may, for example, have _indirectly_ affected how much the chosen transitional entity could deduct for the asset because:
 
-(a)    that Division affected the amount that could be deducted by an entity that held the asset before the chosen transitional entity; and
+(a)           that Division affected the amount that could be deducted by an entity that held the asset before the chosen transitional entity; and
 
-(b)    that effect extended to the chosen transitional entity because of roll‑over relief.
+(b)           that effect extended to the chosen transitional entity because of roll‑over relief.
 
 ### Division 701A—Modified application of provisions of Income Tax Assessment Act 1997 for entities with continuing majority ownership from 27 June 2002 until joining a consolidated group
 
@@ -11359,11 +11354,11 @@ apply, for the purposes of setting the tax cost of an asset of the transitional 
 
 Note 1:       This section means that references in those provisions to matters internal to the group operate as if transitional foreign‑held subsidiaries in the group were parts of the head company of the group. For example:
 
-(a)    provisions operating if the head company holds (whether directly or indirectly) membership interests in another entity operate even if a transitional foreign‑held subsidiary actually holds those interests; and
+(a)           provisions operating if the head company holds (whether directly or indirectly) membership interests in another entity operate even if a transitional foreign‑held subsidiary actually holds those interests; and
 
-(b)    provisions operating if the head company owns or controls another entity operate even if one or more transitional foreign‑held subsidiaries actually own or control that other entity; and
+(b)           provisions operating if the head company owns or controls another entity operate even if one or more transitional foreign‑held subsidiaries actually own or control that other entity; and
 
-(c)    provisions operating if an entity is interposed between the head company and another entity operate even if the first entity is actually interposed between a transitional foreign‑held subsidiary and the other entity.
+(c)           provisions operating if an entity is interposed between the head company and another entity operate even if the first entity is actually interposed between a transitional foreign‑held subsidiary and the other entity.
 
 Note 2:       If the transitional foreign‑held joining entity is a transitional foreign‑held subsidiary, this section means the assets of the entity do not have their tax cost reset at the formation time. This is because Subdivision 705‑A of the _Income Tax Assessment Act 1997_, in its application in accordance with Subdivision 705‑B of that Act, resets the tax cost of assets of _subsidiary_ members of a group, but not assets of the head company.
 
@@ -11653,9 +11648,9 @@ Earlier deductions for decline in value of asset
 
 Example:    Such deductions include:
 
-(a)    deductions under former Subdivision 330‑A, 330‑C or 330‑H of the _Income Tax Assessment Act 1997_, or a corresponding previous law, for the expenditure; and
+(a)           deductions under former Subdivision 330‑A, 330‑C or 330‑H of the _Income Tax Assessment Act 1997_, or a corresponding previous law, for the expenditure; and
 
-(b)    deductions under Division 40 of that Act for the decline in value of a notional asset that section 40‑35, 40‑37, 40‑40 or 40‑43 of this Act treated an entity as holding because of the expenditure.
+(b)           deductions under Division 40 of that Act for the decline in value of a notional asset that section 40‑35, 40‑37, 40‑40 or 40‑43 of this Act treated an entity as holding because of the expenditure.
 
 Effective life of asset
 
@@ -11807,7 +11802,7 @@ Adding to the modified market value of the real loss‑maker
 
              (3)  Work out the available fraction for the bundle of losses as if there were added to the modified market value of the real loss‑maker at the initial transfer time the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00650/Html/079b775b-eade-4173-a5a8-3aa019e1a2c4_files/image030.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00409/Html/6e622c6b-4418-485d-8489-3f76a79c55cc_files/image030.gif)
 
 Note:          The amount worked out using the formula will be nil if the value donor’s modified market value at the initial transfer time is nil. Even if the amount is nil, section 707‑327 may treat losses transferred by the value donor to the transferee as if they were included in the bundle of losses transferred by the real loss‑maker to the transferee.
 
@@ -11851,9 +11846,9 @@ This section does not affect utilisation of overall foreign losses
 
 Note:          If a bundle of losses includes an overall foreign loss and a loss of another sort:
 
-(a)    utilisation of the overall foreign loss is limited by the available fraction for the bundle worked out apart from this section; and
+(a)           utilisation of the overall foreign loss is limited by the available fraction for the bundle worked out apart from this section; and
 
-(b)    utilisation of the loss of the other sort is limited by the available fraction for the bundle as affected by this section, if applicable.
+(b)           utilisation of the loss of the other sort is limited by the available fraction for the bundle as affected by this section, if applicable.
 
 ##### <a id="707‑326"></a>707‑326  Events involving only value donor and real loss‑maker not covered by rule against inflation of modified market value
 
@@ -12007,9 +12002,9 @@ Disregarding events for purposes of anti‑inflation rule
 
 Note:          Disregarding such an event could have a direct or indirect effect on the real loss‑maker’s modified market value for the purposes of working out the available fraction for the bundle in one of these ways:
 
-(a)    it could directly affect the real loss‑maker’s modified market value calculated under section 707‑325 of the _Income Tax Assessment Act 1997_, if the real loss‑maker was involved in the event;
+(a)           it could directly affect the real loss‑maker’s modified market value calculated under section 707‑325 of the _Income Tax Assessment Act 1997_, if the real loss‑maker was involved in the event;
 
-(b)    it could have an indirect effect by affecting the value donor’s modified market value calculated under that section and used under section 707‑325 of this Act to add an amount to the real loss‑maker’s modified market value for those purposes.
+(b)           it could have an indirect effect by affecting the value donor’s modified market value calculated under that section and used under section 707‑325 of this Act to add an amount to the real loss‑maker’s modified market value for those purposes.
 
 Choice
 
@@ -12037,9 +12032,9 @@ Scope of this section
 
 Note:          If the bundle includes an overall foreign loss and a loss of another sort:
 
-(a)    utilisation of the overall foreign loss is limited by the available fraction for the bundle worked out apart from this section; and
+(a)           utilisation of the overall foreign loss is limited by the available fraction for the bundle worked out apart from this section; and
 
-(b)    utilisation of the loss of the other sort is limited by the available fraction for the bundle as affected by this section, if applicable.
+(b)           utilisation of the loss of the other sort is limited by the available fraction for the bundle as affected by this section, if applicable.
 
              (7)  This section can operate in relation to only one bundle of losses transferred to the transferee under Subdivision 707‑A of the _Income Tax Assessment Act 1997._
 
@@ -13722,8 +13717,6 @@ FIF—foreign tax paid by taxpayer
 
 840‑M   Managed investment trust amounts
 
-840‑S    Seasonal Labour Mobility Program withholding tax
-
 #### Subdivision 840‑M—Managed investment trust amounts
 
 **Table of sections**
@@ -13767,16 +13760,6 @@ Note:          The tax is imposed by the _Income Tax (Managed 
                      (b)  if subsection 840‑805(4) of that Act would so apply to you—the end of the month in which you become presently entitled to the relevant amount.
 
              (2)  Subsections 840‑810(2) to (5) of the _Income Tax Assessment Act 1997_ apply to income tax payable under this section.
-
-#### Subdivision 840‑S—Seasonal Labour Mobility Program withholding tax
-
-**Table of sections**
-
-840‑905    Application of Subdivision 840‑S of the Income Tax Assessment Act 1997
-
-##### <a id="840‑905"></a>840‑905  Application of Subdivision 840‑S of the _Income Tax Assessment Act 1997_
-
-                   Subdivision 840‑S of the _Income Tax Assessment Act 1997_ applies to income derived on or after 1 July 2012.
 
 # Chapter 5—Administration
 
@@ -14059,7 +14042,7 @@ Schedule 5 (items 1, 2), Schedule 6
     <div>Schedule 10 (items 64, 68(1)): 1 July 2000 <i>(f)</i></div>
   </td>
   <td>
-    <div>Sch. 10 (item 68(1)) 
+    <div>Sch. 10 (item 68(1)) 
 S. 2(2) (am. by 172, 1999, Sch. 2 \[item 1])</div>
   </td>
 </tr>
@@ -14111,7 +14094,7 @@ S. 2(2) (am. by 172, 1999, Sch. 2 \[item 1])</div>
     <div>Schedule 3 (items 25, 33(1)): Royal Assent <i>(g)</i></div>
   </td>
   <td>
-    <div>Sch. 3 (item 33(1))</div>
+    <div>Sch. 3 (item 33(1))</div>
   </td>
 </tr>
 <tr>
@@ -14232,7 +14215,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 4 (items 60–64, 65(1)): Royal Assent <i>(m)</i></div>
   </td>
   <td>
-    <div>Sch. 4 (item 65(1))</div>
+    <div>Sch. 4 (item 65(1))</div>
   </td>
 </tr>
 <tr>
@@ -14354,7 +14337,7 @@ Schedules 7–9, Schedule 14 (items 16, 19) and Schedule 15 (item 2): <i
   </td>
   <td>
     <div>Sch. 14 (item 19) 
-S. 4 (rep. by 75, 2010, Sch. 6 \[item 15])</div>
+S. 4 (rep. by 75, 2010, Sch. 6 \[item 15])</div>
   </td>
 </tr>
 <tr>
@@ -14481,7 +14464,7 @@ Schedule 28 (item 13): <i>(t)</i></div>
   <td>
     <div>Sch. 26 (item 8) 
 S. 2(1) (items 
-1A–1C) (ad. by 56, 2010, Sch. 5 \[item 137])</div>
+1A–1C) (ad. by 56, 2010, Sch. 5 \[item 137])</div>
   </td>
 </tr>
 <tr>
@@ -14515,7 +14498,7 @@ S. 2(1) (items
     <div>Schedule 5 (items 137–140): ( <i>see</i>56, 2010 below)</div>
   </td>
   <td>
-    <div>Sch. 5 (items 139, 140)</div>
+    <div>Sch. 5 (items 139, 140)</div>
   </td>
 </tr>
 <tr>
@@ -14659,7 +14642,7 @@ Schedule 5: <i>(x)</i>
 Schedule 7 (item 9): <i>(x)</i></div>
   </td>
   <td>
-    <div>S. 4 (rep. by 75, 2010, Sch. 6 \[item 36])</div>
+    <div>S. 4 (rep. by 75, 2010, Sch. 6 \[item 36])</div>
   </td>
 </tr>
 <tr>
@@ -14712,7 +14695,7 @@ Schedule 12 (items 7, 8, 10): 1 July 2000
 Schedule 12 (item 9): 1 July 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (item 1) and Sch. 12 (item 11)</div>
+    <div>Sch. 1 (item 1) and Sch. 12 (item 11)</div>
   </td>
 </tr>
 <tr>
@@ -14729,7 +14712,7 @@ Schedule 12 (item 9): 1 July 2001</div>
     <div>S. 4, Schedule 2 (items 10, 11), Schedule 6 (items 1, 4, 16, 29–35) and Schedule 10 (items 222, 223, 274): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4, Sch. 2 (item 11) and Sch. 6 (item 1)</div>
+    <div>S. 4, Sch. 2 (item 11) and Sch. 6 (item 1)</div>
   </td>
 </tr>
 <tr>
@@ -14832,7 +14815,7 @@ Schedule 5 (item 16): <i>(y)</i></div>
     <div>6 Apr 2006</div>
   </td>
   <td>
-    <div>Sch. 2 (item 51(2))</div>
+    <div>Sch. 2 (item 51(2))</div>
   </td>
 </tr>
 <tr>
@@ -14903,7 +14886,7 @@ Schedule 5 (items 4, 5): 1 July 2002</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 6 (items 1, 4, 6–11)</div>
+    <div>Sch. 6 (items 1, 4, 6–11)</div>
   </td>
 </tr>
 <tr>
@@ -14921,7 +14904,7 @@ Remainder: Royal Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (item 8) and Sch. 4 (item 112)</div>
+    <div>Sch. 2 (item 8) and Sch. 4 (item 112)</div>
   </td>
 </tr>
 <tr>
@@ -14993,7 +14976,7 @@ Schedule 4 (item 10): <i>(z)</i></div>
 Schedule 3 (item 12): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 3 (item 12)</div>
+    <div>Sch. 3 (item 12)</div>
   </td>
 </tr>
 <tr>
@@ -15010,7 +14993,7 @@ Schedule 3 (item 12): Royal Assent</div>
     <div>12 Apr 2007</div>
   </td>
   <td>
-    <div>Sch. 1 (item 68) and Sch. 7 (item 5)</div>
+    <div>Sch. 1 (item 68) and Sch. 7 (item 5)</div>
   </td>
 </tr>
 <tr>
@@ -15063,7 +15046,7 @@ Schedule 5: Royal Assent</div>
 Schedule 1 (item 227): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
-    <div>Sch. 1 (items 222,225, 226) and Sch. 5 (item 48(1), (2))</div>
+    <div>Sch. 1 (items 222,225, 226) and Sch. 5 (item 48(1), (2))</div>
   </td>
 </tr>
 <tr>
@@ -15337,7 +15320,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 1 (items 77, 83–87) and Schedule 2 (items 14, 15(b)): 14 Dec 2009</div>
   </td>
   <td>
-    <div>Sch. 1 (items 86, 87) and Sch. 2 (item 15(b))</div>
+    <div>Sch. 1 (items 86, 87) and Sch. 2 (item 15(b))</div>
   </td>
 </tr>
 <tr>
@@ -15355,7 +15338,7 @@ Remainder: Royal Assent</div>
 Schedule 5 (items 73–78): <i>(ze)</i></div>
   </td>
   <td>
-    <div>S. 4(2), Sch. 3 (item 10(1)), Sch. 5 (items 55, 78, 131, 193) and Sch. 6 (item 158)</div>
+    <div>S. 4(2), Sch. 3 (item 10(1)), Sch. 5 (items 55, 78, 131, 193) and Sch. 6 (item 158)</div>
   </td>
 </tr>
 <tr>
@@ -15528,7 +15511,7 @@ Schedule 3 (item 12): \[ <i>see</i>Note 6]</div>
     <div>29 June 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 13, 14): Royal Assent</div>
+    <div>Schedule 1 (items 13, 14): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 14)</div>
@@ -15545,10 +15528,10 @@ Schedule 3 (item 12): \[ <i>see</i>Note 6]</div>
     <div>8 Sept 2011</div>
   </td>
   <td>
-    <div>Schedule 3 (item 108) and Schedule 4 (items 1–6, 10–15): Royal Assent</div>
+    <div>Schedule 3 (item 108) and Schedule 4 (items 1–6, 10–15): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 4 (items 1–6)</div>
+    <div>Sch. 4 (items 1–6)</div>
   </td>
 </tr>
 <tr>
@@ -15562,7 +15545,7 @@ Schedule 3 (item 12): \[ <i>see</i>Note 6]</div>
     <div>18 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 72, 72A): 2 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 72, 72A): 2 Apr 2012 ( <i>see</i>s 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -15579,11 +15562,11 @@ Schedule 3 (item 12): \[ <i>see</i>Note 6]</div>
     <div>21 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 2 (items 24, 25) and Schedule 6 (items 21, 32, 149, 150): Royal Assent 
+    <div>Schedule 2 (items 24, 25) and Schedule 6 (items 21, 32, 149, 150): Royal Assent 
 Schedule 6 (items 151, 152): <i>(zh)</i></div>
   </td>
   <td>
-    <div>Sch. 6 (items 150, 152)</div>
+    <div>Sch. 6 (items 150, 152)</div>
   </td>
 </tr>
 <tr>
@@ -15601,24 +15584,7 @@ Schedule 6 (items 151, 152): <i>(zh)</i></div>
 Schedule 2 (items 65, 66): 29 Mar 2012</div>
   </td>
   <td>
-    <div>Sch. 1 (item 10) and Sch. 2 (item 66)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2012 Measures No. 3) Act 2012</div>
-  </td>
-  <td>
-    <div>58, 2012</div>
-  </td>
-  <td>
-    <div>21 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 7): 21 June 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (item 10) and Sch. 2 (item 66)</div>
   </td>
 </tr></table>
 
@@ -28681,30 +28647,6 @@ _(zh)_   Subsection 2(1) (items 24 and 25) of the _Tax Laws Amendment (2011 
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision 840-S</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdivision 840-S</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 840-905</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Chapter 5</b></div>
   </td>
   <td>
@@ -28892,7 +28834,7 @@ The following amendment commences on 30 June 2014:
 
 Repeal the Division.
 
-As at 31 August 2012 the amendment is not incorporated in this compilation.
+As at 2 April 2012 the amendment is not incorporated in this compilation.
 
 ### Note 3
 
@@ -28918,7 +28860,7 @@ The following amendment commences on 1 January 2017:
 
 Repeal the section.
 
-As at 31 August 2012 the amendment is not incorporated in this compilation.
+As at 2 April 2012 the amendment is not incorporated in this compilation.
 
 ### Note 5
 
@@ -28932,7 +28874,7 @@ The following amendment commences on 1 July 2016:
 
 Repeal the section.
 
-As at 31 August 2012 the amendment is not incorporated in this compilation.
+As at 2 April 2012 the amendment is not incorporated in this compilation.
 
 ### Note 6
 
@@ -28946,7 +28888,7 @@ The following amendment commences on 1 January 2017:
 
 Repeal the section.
 
-As at 31 August 2012 the amendment is not incorporated in this compilation.
+As at 2 April 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
