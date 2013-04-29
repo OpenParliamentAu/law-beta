@@ -1,7 +1,7 @@
 
 Termination Payments Tax (Assessment and Collection) Act 1997
 Act No. 73 of 1997 as amended 
-This compilation was prepared on 12 July 2000  taking into account amendments up to Act No. 91 of 2000
+This compilation was prepared on 31 May 2000  taking into account amendments up to Act No. 44 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -44,7 +44,7 @@ Part 6—Miscellaneous	21
 30  Regulations	25
 Part 7—Interpretation	26
 31  Definitions	26
-Notes		29
+Notes to the Termination Payments Tax (Assessment and Collection) Act 1997	29
 An Act relating to the assesment and collection of termination payments tax, and for related purposes
 Part 1—Preliminary
   
@@ -337,7 +337,7 @@ Proof of authority to be produced
 	(2)	An authorised officer is not entitled to enter or remain on any land or premises if, on being requested by the occupier of the land or premises for proof of authority, the officer does not produce a written authority signed by the Commissioner stating that the officer is authorised to exercise powers under this section.
 Occupier to help authorised officer
 	(3)	The occupier of land or premises entered or proposed to be entered by an authorised officer under subsection (1) must, for the purpose of enabling the effective exercise of the officer’s powers under this section, provide the officer with all reasonable facilities and assistance that the occupier is reasonably capable of providing.
-Penalty:	30 penalty units.
+Penalty:	10 penalty units.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 27  Obtaining information and evidence
 Power of Commissioner to obtain information or documents
@@ -459,11 +459,6 @@ A New Tax System (Tax Administration) Act (No. 1) 2000
 3 May 2000
 Schedule 3 (item 69): (h)
 —
-A New Tax System (Tax Administration) Act (No. 2) 2000
-91, 2000
-30 June 2000
-Schedule 2 (items 124, 129): (i)
-Sch. 2 (item 129)
 (a)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 1 (Item 44) only of the Taxation Laws Amendment Act (No. 3) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (aa)	The Taxation Laws Amendment Act (No. 3) 1997 was amended by Schedule 6 only of the Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999, subsection 2(4) of which provides as follows:
@@ -487,9 +482,6 @@ Sch. 2 (item 129)
 (h)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 3 (item 69) only of the A New Tax System (Tax Administration) Act (No. 1) 2000, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the A New Tax System (Tax Administration) Act 1999.
 	Section 1 commenced on 22 December 1999.
-(i)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 2 (item 124) only of the A New Tax System (Tax Administration) Act (No. 2) 2000, subsection 3(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1-1 of the A New Tax System (Goods and Services Tax) Act 1999.
-	Section 1-1 of the A New Tax System (Goods and Services Tax) Act 1999 commenced on 1 July 2000.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -540,8 +532,6 @@ S. 24
 am. No. 191, 1997; No. 146, 1999
 S. 25	
 am. No. 11, 1999
-S. 26	
-am. No. 91, 2000
 S. 28	
 am. No. 191, 1997
 S. 28A	
@@ -631,11 +621,6 @@ section 28A
 
 Wool Tax (Administration) Act 1964
 section 54
-
-A New Tax System (Tax Administration) Act (No. 2) 2000 (No. 91, 2000)
-Schedule 2  
-129  Transitional—existing RBAs
-Although the A New Tax System (Pay As You Go) Act 1999 repealed subsection 8AAZL(3) of the Taxation Administration Act 1953, special priority credits referred to in that subsection are to continue to be applied in accordance with that subsection.
 
       
 
