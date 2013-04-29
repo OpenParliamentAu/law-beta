@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00062/Html/6fb4db15-6067-4bf8-8b7d-50df7a4d83f9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00008/Html/d8924d31-d5f2-45a5-9746-8091362fedeb_files/image001.gif)
 
 # Australian Federal Police Act 1979
 
 **Act No. 58 of 1979 as amended**
 
-This compilation was prepared on 5 January 2012
- taking into account amendments up to Act No. 174 of 2011
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1830,7 +1830,7 @@ after the day on which the notice is given to the Commissioner.
 
              (3)  Paragraph (1)(a) is subject to section 30A.
 
-##### <a id="30A"></a>30A  Resignation in anticipation of termination of employment
+##### <a id="30A"></a>30A  Resignation in anticipation of termination of employment
 
              (1)  This section applies if:
 
@@ -2604,7 +2604,7 @@ is not admissible in evidence against the employee, special member or AFP appoin
 
 #### Subdivision A—Objects and simplified outline of Part
 
-##### <a id="40RA"></a>40RA  Object of this Part
+##### <a id="40RA"></a>40RA  Object of this Part
 
                    The object of this Part is to establish the procedures by which:
 
@@ -4333,7 +4333,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00062/Html/6fb4db15-6067-4bf8-8b7d-50df7a4d83f9_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00008/Html/d8924d31-d5f2-45a5-9746-8091362fedeb_files/image002.gif)
 
 where:
 
@@ -4397,7 +4397,7 @@ regard may be had to:
 
 ##### <a id="42J"></a>42J  Crown bound
 
-             (1)  This Part binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+             (1)  This Part binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the   Northern Territory and of Norfolk Island.
 
              (2)  Nothing in this Part renders the Crown liable to be prosecuted for an offence.
 
@@ -4521,7 +4521,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00062/Html/6fb4db15-6067-4bf8-8b7d-50df7a4d83f9_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00008/Html/d8924d31-d5f2-45a5-9746-8091362fedeb_files/image003.gif)
 
                             where:
 
@@ -4583,7 +4583,7 @@ the court must:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00062/Html/6fb4db15-6067-4bf8-8b7d-50df7a4d83f9_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00008/Html/d8924d31-d5f2-45a5-9746-8091362fedeb_files/image004.gif)
 
 where:
 
@@ -5409,10 +5409,6 @@ Note:          The Commissioner may, under section 35A, auth
 
              (2)  The Commissioner may, in writing, delegate to a senior executive AFP employee the Commissioner’s power under section 35A (payments in special circumstances).
 
-             (3)  The Commissioner may, in writing, delegate to the Deputy Commissioner or  a senior executive AFP employee all or any of the Commissioner’s powers, functions or duties as a proceeds of crime authority under the _Proceeds of Crime Act 2002_ or any other Act.
-
-Note:          As a proceeds of crime authority, the Commissioner may conduct proceedings under the _Proceeds of Crime Act 2002_, and has related powers, functions and duties under that Act and other Acts (see the definitions of **_proceeds of crime authority_** and **_responsible authority_** in section 338 of that Act).
-
 ##### <a id="69D"></a>69D  Secondment of persons to assist the Australian Federal Police
 
              (1)  The Commissioner may, by written agreement with a body or organisation, whether within or outside Australia, arrange for a person who:
@@ -5531,7 +5527,7 @@ that had accrued to him or her as a member of an existing Police Force or as a m
 
 ##### <a id="80"></a>80  Powers and duties in relation to Commonwealth places
 
-                   Until an arrangement is made between the Commissioner and the Commissioner of Police (however designated) of a State for the purposes of subsection 8(2), members of the Australian Federal Police may, under this Act, exercise and perform, in relation to a Commonwealth place in that State within the meaning of the _Commonwealth Places (Application of Laws) Act 1970_, powers and duties equivalent to the powers and duties that were, before the commencing date, exercised and performed in relation to those places under the _Commonwealth Police Act 1957._
+                   Until an arrangement is made between the Commissioner and the Commissioner of Police (however designated) of a State for the purposes of subsection 8(2), members of the Australian Federal Police may, under this Act, exercise and perform, in relation to a Commonwealth place in that State within the meaning of the _Commonwealth Places (Application of Laws) Act 1970_, powers and duties equivalent to the powers and duties that were, before the commencing date, exercised and performed in relation to those places under the _Commonwealth Police Act 1957._ 
 
 # Notes to the _Australian Federal Police Act 1979_
 
@@ -6743,7 +6739,7 @@ Remainder: Royal Assent</div>
     <div>23 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 23–28): Royal Assent</div>
+    <div>Schedule 1 (items 23–28): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -6760,7 +6756,7 @@ Remainder: Royal Assent</div>
     <div>1 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): <i>(y)</i></div>
+    <div>Schedule 1 (item 1): <i>(y)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -6934,23 +6930,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>174, 2011</div>
-  </td>
-  <td>
-    <div>5 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1, 2): 1 Jan 2012</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -7144,7 +7123,7 @@ _(w)_    Subsection 2(1) (item 5) of the _Crimes Legislation Enhancement
   </td>
 </tr></table>
 
-_(x)_ Subsection 2(1) (items 2 and 3) of the _Australian Federal Police and Other Legislation Amendment Act 2004_ provides as follows:
+_(x)_ Subsection 2(1) (item 3) of the _Australian Federal Police and Other Legislation Amendment Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -11307,7 +11286,7 @@ rep. No. 152, 2004</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 2 and 174, 2011</div>
+    <div>am. No. 2, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11893,19 +11872,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)_
-
-## Schedule 2
-
-## 2  Application of amendment—the _Australian Federal Police Act 1979_
-
-(1)       The amendment of the _Australian Federal Police Act 1979_ made by item 1 of this Schedule applies as set out in this item.
-
-(2)       The amendment applies in relation to the Commissioner’s powers, functions or duties as a proceeds of crime authority in relation to orders (or applications or proceedings for orders) under the _Proceeds of Crime Act 2002_ made or (in the case of proceedings) started before, at or after the commencement of item 1.
-
-(3)       The amendments apply under subitem (2) of this item regardless of whether the conduct giving rise to those orders (or applications or proceedings for orders) occurred, or is suspected to have occurred, before, at or after the commencement of item 1.
 
  
