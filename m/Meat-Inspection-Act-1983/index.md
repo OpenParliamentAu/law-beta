@@ -1,7 +1,7 @@
 
 Meat Inspection Act 1983
 Act No. 71 of 1983 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 4 October 2000  taking into account amendments up to Act No. 17 of 1992
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -14,7 +14,7 @@ Part I—Preliminary	1
 3	Interpretation	1
 4	Object and application of Act	5
 5	Act to bind Crown	6
-6	Modification of provisions of Act	6
+6	Modification of provisions of Act	7
 7	Saving of other laws	7
 Part II—The inspection of meat	8
 Division 1—Abattoirs and meat processing plants	8
@@ -33,22 +33,23 @@ Division 2—Knackeries and animal food processing plants	12
 19	Dealing with condemned and rejected animals and meat	15
 Division 3—General	16
 20	Regulations with respect to inspection of meat	16
-Part III—Transport of meat to and from certain States and Territories	17
-21	Taking meat out of State or Territory to which Act extends etc.	17
+Part III—Transport of meat to and from certain states and territories	17
+21  Taking meat out of State or Territory to which Act extends etc.	17
 22	Inspection of meat brought into State or Territory to which Act extends	17
-Part IV—Official marks and trade descriptions	19
+Part IV—Official Marks and Trade Descriptions	19
 23	Contravention of regulations relating to official marks	19
 24	False trade descriptions	19
 Part V—Additional powers of authorized officers	20
 25	Powers of authorised officers to ascertain compliance with Act	20
 26	Seizure	21
+27	Obstructing authorised officers	22
 28	Persons to assist authorised officers	22
 Part VI—Miscellaneous	23
 29	Indictable offences	23
 30	Forfeiture of meat	24
 31	Delegation	24
 32	Authorised officers	24
-33	Identity cards	24
+33	Identity cards	25
 34	Protection of authorised officers and other persons	25
 35	Supply of any goods or services to authorised officers	25
 36	Regulations	26
@@ -260,7 +261,7 @@ Division 3—General
 	(e)	the manner in which directions and instructions may be issued or given under the regulations.
 	(3)	The regulations may make different provision with respect to different States and Territories.
 
-Part III—Transport of meat to and from certain States and Territories
+Part III—Transport of meat to and from certain states and territories
   
 21  Taking meat out of State or Territory to which Act extends etc.
 	(1)	A person shall not, in trade or commerce:
@@ -277,7 +278,7 @@ if the meat is, under the regulations, unfit for use as animal food.
 	(2)	Subject to the regulations, where, in trade or commerce, a person brings meat included in a class of meat prescribed for the purposes of this subsection, being meat that is intended for use as animal food, into a State or Territory to which this Act extends, the person shall forthwith take the meat, together with any covering in which the meat is contained, to a knackery or animal food processing plant, being a knackery or animal food processing plant prescribed for the purposes of this subsection, for inspection by an authorized officer.
 	(3)	A person who contravenes subsection (1) or (2) is guilty of an offence.
 
-Part IV—Official marks and trade descriptions
+Part IV—Official Marks and Trade Descriptions
   
 23  Contravention of regulations relating to official marks
 	(1)	A person shall not, in contravention of the regulations:
@@ -294,7 +295,6 @@ Part IV—Official marks and trade descriptions
 	(3)	A person who contravenes subsection (1) is guilty of an offence.
 
 Part V—Additional powers of authorized officers
-  
 25  Powers of authorised officers to ascertain compliance with Act
 	(1)	The function of an authorized officer under this section is to ascertain whether the provisions of this Act have been complied with.
 	(2)	A reference in subsection (1) to ascertaining whether the provisions of this Act have been complied with includes a reference to ascertaining whether an offence against this Act has been committed.
@@ -321,6 +321,9 @@ Part V—Additional powers of authorized officers
 and may retain the meat, or the matter or thing, until the expiration of a period of 60 days after the seizure or, if proceedings for such an offence in respect of the meat, or in respect of which the matter or thing may afford evidence, are instituted within that period, until the proceedings (including any appeal to a court in relation to those proceedings) are terminated.
 	(2)	The power under subsection (1) to seize meat includes a power to seize any covering in which the meat is contained.
 	(3)	The Secretary may authorize any meat, or any matter or thing, seized under subsection (1) to be released to the owner, or to the person from whose possession the meat, matter or thing was seized, either unconditionally or on such conditions as the Secretary thinks fit, including, in the case of meat, conditions as to the giving of security for payment of the value of the meat if it is forfeited under section 30.
+27  Obstructing authorised officers
+		A person shall not, without reasonable excuse, obstruct or hinder an authorized officer in the exercise of the authorized officer’s powers, or the performance of the authorised officer’s functions, under this Act.
+Penalty:	Imprisonment for 6 months.
 28  Persons to assist authorised officers
 	(1)	Subject to subsection (2), the owner, or person in charge, of any vehicle, ship or aircraft boarded or entered by an authorized officer, and the owner or occupier of any premises entered by an authorized officer, under section 25 shall, if requested by an authorized officer to do so, provide reasonable assistance to the authorized officer for the purpose of the exercise of the authorized officer’s powers under that section or section 26 in relation to that vehicle, ship or aircraft or those premises.
 Penalty:	Imprisonment for 6 months.
@@ -395,7 +398,6 @@ Notes to the Meat Inspection Act 1983
 Note 1
 The Meat Inspection Act 1983 as shown in this compilation comprises Act No. 71, 1983 amended as indicated in the Tables below.
 The Meat Inspection Act 1983 was modified by the Meat Inspection (Modification) Regulations (Statutory Rules 1984 No. 116; 1986 No. 355; 1987 No. 125; 1988 Nos. 34 and 227 and 1990 No. 247) as amended. The amendments are not incorporated in this compilation.
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -437,11 +439,6 @@ Primary Industries and Energy Legislation Amendment Act 1992
 10 Apr 1992
 10 Apr 1992
 S. 11
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
-Sch. 2 (items 418, 419) [see Table A]
 (a)	The Meat Inspection Act 1983 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1984, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 (b)	The Meat Inspection Act 1983 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(1) of which provides as follows:
@@ -468,11 +465,7 @@ S. 25
 am. No. 65, 1985; No. 111, 1988
 S. 26	
 am. No. 65, 1985
-S. 27	
-am. No. 65, 1985; No. 17, 1992
-
-rep. No. 137, 2000
-S. 28	
+Ss. 27, 28	
 am. No. 65, 1985; No. 17, 1992
 S. 29	
 am. No. 17, 1992
@@ -486,21 +479,4 @@ S. 35
 am. No. 65, 1985; No. 141, 1987; No. 17, 1992
 S. 37	
 am. No. 65, 1985; Nos. 99 and 111, 1988
-Table A
-Application, saving or transitional provisions
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
