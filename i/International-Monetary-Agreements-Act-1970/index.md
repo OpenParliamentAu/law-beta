@@ -1,62 +1,50 @@
-![](http://www.comlaw.gov.au/Details/C2004C00526/Html/internatmonetaryagree70_image001.gif)
+**<b>
 
-# International Monetary Agreements Act 1970
+### <center><name>INTERNATIONAL MONETARY AGREEMENTS ACT 1970 - Assented to 17 June 1970 (HISTACT2 CHAP 109 #DATE 17:06:1970) </name></center>
+</b>** 
+**<b>
 
-**Act No. 25 of 1970**
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1970 - TABLE OF PROVISIONS </name>
+</b>** 
 
-This Act was prepared on 30 November 2001 
+## TABLE
+<tables> <tt><lf>                  INTERNATIONAL  MONETARY  AGREEMENTS  ACT  1970<lf> <lf>                              TABLE  OF  PROVISIONS<lf> Section<lf>   1\.        Short title<lf>   2\.        Commencement<lf>   3\.        Consent to increase in quota<lf>   4\.        Appropriation<lf>   5\.        Issue of securities<lf> <lf>                                -----------------<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1970 - SECT. 1\. Short title. </name>
+</b>** 
 
-# Contents
+## SECT
+<sect> International Monetary Fund.<lf> WHEREAS the International Monetary Fund has proposed an adjustment of the quotas of members of the Fund and, in particular, has proposed that the quota of Australia be increased from Five hundred million United States dollars to Six hundred and sixty-five million United States dollars:<lf> <lf>   BE it therefore enacted by the Queen's Most Excellent Majesty, the Senate, and the House of Representatives of the Commonwealth of Australia, as follows:-<lf>   1\. This Act may be cited as the International Monetary Agreements Act 1970.*<lf> </lf></lf></lf></lf></lf></sect>
+**<b>
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1970 - SECT. 2\. Commencement. </name>
+</b>** 
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*<lf> </lf></sect>
+**<b>
 
-[3](#3).            Consent to increase in quota                                                                1
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1970 - SECT. 3\. Consent to increase in quota. </name>
+</b>** 
 
-[4](#4).            Appropriation                                                                                     1
+## SECT
+<sect>   3\. Approval is given to Australia consenting to Australia's quota in the International Monetary Fund being increased from Five hundred million United States dollars to Six hundred and sixty-five million United States dollars.<lf> </lf></sect>
+**<b>
 
-[5](#5).            Issue of securities                                                                                2
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1970 - SECT. 4\. Appropriation. </name>
+</b>** 
 
-**Notes** 
+## SECT
+<sect>   4\. The moneys required for the purposes of the making of any payment required to be made by Australia to the International Monetary Fund by reason of the increase in Australia's quota in that Fund referred to in the last preceding section are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.<lf> </lf></sect>
+**<b>
 
- 
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1970 - SECT. 5\. Issue of securities. </name>
+</b>** 
 
-## An Act relating to a proposed Adjustment of the Quotas of Members of the International Monetary Fund 
+## SECT
+<sect>   5\. Section 7 of the International Monetary Agreements Act 1947-1968 applies to any payment to the International Monetary Fund, being a payment referred to in the last preceding section, as it applies to payments under that Act.<lf> ------------------------------------------------------------------------------ -- <lf> </lf></lf></sect>
+**<b>
 
-                   WHEREAS the International Monetary Fund has proposed an adjustment of the quotas of members of the Fund and, in particular, has proposed that the quota of Australia be increased from Five hundred million United States dollars to Six hundred and sixty-five million United States dollars: 
-
-                   BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and the House of Representatives of the Commonwealth of Australia, as follows: 
-
-##### <a id="1"></a>1  Short title [_see_ Note 1]
-
-                   This Act may be cited as the _International Monetary Agreements Act 1970_.
-
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
-
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
-
-##### <a id="3"></a>3  Consent to increase in quota
-
-                   Approval is given to Australia consenting to Australia’s quota in the International Monetary Fund being increased from Five hundred million United States dollars to Six hundred and sixty-five million United States dollars. 
-
-##### <a id="4"></a>4  Appropriation
-
-                   The moneys required for the purposes of the making of any payment required to be made by Australia to the International Monetary Fund by reason of the increase in Australia’s quota in that Fund referred to in the last preceding section are payable out of the Consolidated Revenue Fund, which is appropriated accordingly. 
-
-##### <a id="5"></a>5  Issue of securities
-
-                   Section 7 of the _International Monetary Agreements Act 1947-1968_ applies to any payment to the International Monetary Fund, being a payment referred to in the last preceding section, as it applies to payments under that Act. 
-
-# Notes to the _International Monetary Agreements Act 1970_
-
-### Note 1
-
-Act No. 25, 1970, assented to and commenced 17 June 1970.
-
- 
-
- 
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1970 - NOTE </name>
+</b>** <lf>                                       NOTE<lf> 1\.  Act No. 25, 1970; assented to 17 June 1970\. </lf></lf>
