@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00192/Html/TelecomCPSS1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00528/Html/TelecomCPSS1999_WD02_image001.gif)
 
 # Telecommunications (Consumer Protection and Service Standards) Act 1999
 
 **Act No. 50 of 1999 as amended**
 
-This compilation was prepared on 5 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 20 November 2009
+ taking into account amendments up to Act No. 111 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2396,7 +2396,7 @@ Note:          It is an offence to make a false or misleading 
 
              (4)  A copy of a determination under subsection (2) must be published in the _Gazette_.
 
-##### <a id="20E"></a>20E  ACMA may inquire into correctness of return
+##### <a id="20E"></a>20E  ACMA may inquire into correctness of return
 
                    The ACMA may make whatever inquiries it thinks necessary or desirable in order to determine whether or not a participating person’s eligible revenue return for an eligible revenue period correctly states the person’s eligible revenue for that period.
 
@@ -2446,7 +2446,7 @@ Note:          The levy contribution factor is used to work ou
 
              (2)  The **_levy contribution factor_** for an eligible revenue period is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00192/Html/TelecomCPSS1999_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00528/Html/TelecomCPSS1999_WD02_image002.gif)
 
 where:
 
@@ -2498,7 +2498,7 @@ Note:          It is an offence to make a false or misleading 
 
 ##### <a id="20L"></a>20L  ACMA to publish claims or a summary of claims
 
-             (1)  Within 14 days after the end of the period for making claims for levy credit for a claim period, the ACMA must publish on the internet or by any other means that the ACMA considers appropriate:
+             (1)  Within 14 days after the end of the period for making claims for levy credit for a claim period, the ACMA must publish on the Internet or by any other means that the ACMA considers appropriate:
 
                      (a)  a copy of each claim made under section 20J in respect of the claim period; or
 
@@ -2552,7 +2552,7 @@ Note:          The assessment may be included in the same docu
 
              (2)  The **_levy debit_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00192/Html/TelecomCPSS1999_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00528/Html/TelecomCPSS1999_WD02_image003.gif)
 
 where:
 
@@ -3130,7 +3130,7 @@ Note:          The **_most recent eligible revenue assessment_
 
              (2)  Each taxpayer’s NRS contribution amount for the current quarter is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2010C00192/Html/TelecomCPSS1999_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00528/Html/TelecomCPSS1999_WD02_image004.gif)
 
 Note:          Levy is imposed on the NRS contribution amount by the _NRS Levy Imposition Act 1998_.
 
@@ -3828,7 +3828,7 @@ and carriage service providers must comply with the scheme.</li>
 
                              (ii)  a public mobile telecommunications service; or
 
-                            (iii)  a carriage service that enables end-users to access the internet; or
+                            (iii)  a carriage service that enables end-users to access the Internet; or
 
                      (b)  a carriage service intermediary who arranges for the supply of a service referred to in subparagraph (a)(i), (ii) or (iii).
 
@@ -4562,9 +4562,9 @@ Part regulates the prefixes of numbers used by telephone sex services.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
-supply of other goods and services must not be tied to the supply of a telephone
+supply of other goods and services must not be tied to the supply of a
 
-sex service.</li>
+telephone sex service.</li>
 
 * * *
 
@@ -5231,7 +5231,7 @@ Remainder: 21 Dec 2001</div>
     <div>20 Mar 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 163–165): <i>(b)</i></div>
+    <div>S. 4 and Schedule 1 (items 163–165): <i>(b)</i></div>
   </td>
   <td>
     <div>S. 4</div>
@@ -5300,7 +5300,7 @@ Remainder: 28 Nov 2003</div>
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 429–437, 496): Royal Assent</div>
+    <div>S. 4 and Schedule 1 (items 429–437, 496): Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 496)</div>
@@ -5335,7 +5335,7 @@ Remainder: Royal Assent</div>
     <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 161–165) and Schedule 4: 1 July 2005 <i>(e)</i> 
+    <div>Schedule 1 (items 161–165) and Schedule 4: 1 July 2005 <i>(e)</i> 
 Schedule 2: <i>(e)</i></div>
   </td>
   <td>
@@ -5387,7 +5387,7 @@ Schedule 2: <i>(e)</i></div>
     <div>20 July 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (items 3–11): 20 July 2008 
+    <div>Schedule 2 (items 3–11): 20 July 2008 
 Schedule 3: Royal Assent</div>
   </td>
   <td>
@@ -5444,23 +5444,6 @@ Schedule 3: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 
 98–102)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 137(a)): <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -5668,77 +5651,6 @@ _(e)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   <td>
     <div>
       1 July 2005
-    </div>
-  </td>
-</tr></table>
-
-_(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
     </div>
   </td>
 </tr></table>
@@ -7139,7 +7051,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 8, 2010</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -8508,14 +8420,6 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 127</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
