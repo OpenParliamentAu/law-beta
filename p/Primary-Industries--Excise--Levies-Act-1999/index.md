@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00642/Html/11d8c097-2f9d-4fb0-80a8-a4ad6fc34b48_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00575/Html/7be7e0c2-a4fa-4e47-a69b-48cdd3b522b0_files/image001.gif)
 
 # Primary Industries (Excise) Levies Act 1999
 
 **Act No. 31 of 1999 as amended**
 
-This compilation was prepared on 12 August 2011
- taking into account amendments up to Act No. 89 of 2011
+This compilation was prepared on 26 July 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1171,6 +1171,8 @@ the Minister must take into consideration any relevant recommendation made to th
 ##### <a id="1"></a>1  Definitions
 
                    In this Schedule:
+
+                    <a name="australian-bureau-agricultur-resourc-econom"></a>**_Australian Bureau of Agricultural and Resource Economics_** means the organisation established within the Department under that name.
 
                     <a name="council"></a>**_Council_** means the association by the name of the Australian Dairy Industry Council Inc. that is incorporated under the _Associations Incorporation Act 1981_ of Victoria.
 
@@ -4364,23 +4366,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>89, 2011</div>
-  </td>
-  <td>
-    <div>4 Aug 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Primary Industries (Excise) Levies Act 1999_ was amended by the _Primary Industries (Excise) Levies (GST Consequential Amendments) Act 2000_, section 2 of which provides as follows:
@@ -4656,7 +4641,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 89, 2011</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5072,7 +5057,7 @@ The following amendment commences on 27 December 2011 unless proclaimed earlier:
 
 Repeal the subclause.
 
-As at 12 August 2011 the amendment is not incorporated in this compilation.
+As at 26 July 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
