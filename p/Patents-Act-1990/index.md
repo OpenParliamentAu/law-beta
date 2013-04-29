@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image001.gif)
 
 # Patents Act 1990
 
 **Act No. 83 of 1990 as amended**
 
-This compilation was prepared on 4 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 27 March 2007
+ taking into account amendments up to Act No. 106 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Exclusive rights given by patent
 
-[14](#14).          Assignment of patent
+[14](#14).           Assignment of patent
 
 **Part 2—Ownership**
 
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16](#16).          Co-ownership of patents
 
-[17](#17).          Directions to co-owners
+[17](#17).           Directions to co-owners
 
 **Part 3—Validity** 
 
@@ -122,7 +122,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Specifications
 
-[41](#41).          Specifications: micro-organisms
+[41](#41).           Specifications: micro-organisms
 
 [42](#42).          Micro-organisms ceasing to be reasonably available
 
@@ -162,7 +162,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Chapter 4—Publication**
 
-[53](#53).          Publication of certain information about applicants etc                        
+[53](#53).          Publication of certain information about applicants etc 
  [_see also_ Table B]
 
 [54](#54).          Notice of publication
@@ -273,7 +273,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [95](#95).          Manner of making Convention application
 
-[96](#96).          Withdrawn, abandoned or refused applications
+[96](#96).           Withdrawn, abandoned or refused applications
 
 **Chapter 9—Re-examination of standard patents**
 
@@ -343,7 +343,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [106](#106).        Amendments directed by Commissioner: patents
 
-[107](#107).        Amendments directed by Commissioner: applications for standard patents
+[107](#107).         Amendments directed by Commissioner: applications for standard patents
 
 [109](#109).        Appeal
 
@@ -667,7 +667,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [236](#236).        Micro-organisms
 
-[237](#237).        Orders, directions etc  under 1952 Act
+[237](#237).         Orders, directions etc  under 1952 Act
 
 [238](#238).        The Commissioner and Deputy Commissioner
 
@@ -675,7 +675,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [240](#240).        Registered patent attorneys
 
-**Schedule 1—Dictionary [_see also_ Table B]** 
+**Schedule 1—Dictionary** 
 
 **Schedule 2—Consequential Amendments** 
 
@@ -695,7 +695,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  If this Act does not commence under subsection (1) within the period of 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period.
 
-##### <a id="3"></a>3  Definitions  
+##### <a id="3"></a>3  Definitions  
 
                    The following expressions are defined, for the purposes of this Act or of a particular Chapter of this Act, in the dictionary in Schedule 1: 
 
@@ -895,7 +895,7 @@ work
 
                    The following diagram shows most of the typical steps involved in getting and maintaining a standard patent. The diagram is intended for use only as a general introductory illustration and is not intended to have any other effect. If there is an inconsistency between any matter contained in the diagram and a provision of this Act or the regulations, the provision prevails.
 
-![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
+![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -915,7 +915,7 @@ work
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image003.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image003.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1072,7 +1072,7 @@ done so ( <i>see section 44</i>)</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image004.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image003.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image010.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image011.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image004.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image007.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image009.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image003.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image010.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image011.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1095,7 +1095,7 @@ continuation fees are not paid
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image012.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image012.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1201,7 +1201,7 @@ stage are not published.</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image015.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image018.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image019.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image020.gif)
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image014.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image015.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image017.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image018.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image019.gif)![](http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image020.gif)
 
   <table align="left">
 <colgroup>
@@ -1219,7 +1219,7 @@ stage are not published.</span></div>
 <tr>
   <td height="162"></td>
   <td rowspan="3" align="left">
-    <img width="401" height="704" src="http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image021.gif">
+    <img width="401" height="704" src="http://www.comlaw.gov.au/Details/C2007C00128/Html/Patents1990WD02_image021.gif">
   </td>
 </tr>
 <tr>
@@ -1357,7 +1357,7 @@ the application is to be taken, for the purposes of this Act, to have been given
 
 ##### <a id="12"></a>12  Application of Act
 
-                   This Act extends to:
+This Act extends to:
 
                      (a)  each external Territory; and
 
@@ -1385,7 +1385,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  A patent has effect throughout the patent area.
 
-##### <a id="14"></a>14  Assignment of patent
+##### <a id="14"></a>14   Assignment of patent
 
              (1)  An assignment of a patent must be in writing signed by or on behalf of the assignor and assignee.
 
@@ -1421,7 +1421,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  This section does not affect the rights or obligations of a trustee or of the legal representative of a deceased person, or rights or obligations arising out of either of those relationships.
 
-##### <a id="17"></a>17  Directions to co-owners
+##### <a id="17"></a>17   Directions to co-owners
 
              (1)  Where there are 2 or more patentees, the Commissioner may, on the application of any of them, give such directions in accordance with the application as the Commissioner thinks fit, being directions about:
 
@@ -1789,7 +1789,7 @@ the Commissioner may declare in writing that the persons who the Commissioner is
 
              (4)  The claim or claims must relate to one invention only.
 
-##### <a id="41"></a>41  Specifications: micro-organisms
+##### <a id="41"></a>41   Specifications: micro-organisms
 
              (1)  To the extent that an invention is a micro-organism, the complete specification is to be taken to comply with paragraph 40(2)(a), so far as it requires a description of the micro-organism, if the deposit requirements are satisfied in relation to the micro-organism.
 
@@ -2688,7 +2688,7 @@ is _prima facie_ evidence of the matters contained in the certificate.
 
              (3)  In addition to the complete specification, the prescribed documents must be filed within the prescribed period.
 
-##### <a id="96"></a>96  Withdrawn, abandoned or refused applications
+##### <a id="96"></a>96   Withdrawn, abandoned or refused applications
 
              (1)  Where, at the time when a Convention application is made in respect of an invention:
 
@@ -3142,7 +3142,7 @@ the Commissioner may, in accordance with the regulations, direct the patentee to
 
              (5)  On the allowance of an amendment, the amendment is to be taken to have been made.
 
-##### <a id="107"></a>107  Amendments directed by Commissioner: applications for standard patents
+##### <a id="107"></a>107   Amendments directed by Commissioner: applications for standard patents
 
              (1)  Where:
 
@@ -3420,7 +3420,7 @@ whichever period ends later.
 
 ##### <a id="124"></a>124  Interpretation
 
-                   In this Part:
+In this Part:
 
                     <a name="patente"></a>**_patentee_** includes an exclusive licensee.
 
@@ -4568,7 +4568,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
 ##### <a id="204"></a>204  Time for starting prosecutions 
 
-                   Despite section 15B of the _Crimes Act 1914_, a prosecution for an offence against subsection 201(1), (2), (3), (4) or (5), or section 202, 202A or 203, may be started at any time within 5 years after the offence was committed.
+                   Despite section 15B of the _Crimes Act 1914_, a prosecution for an offence against subsection 201(1), (2), (3), (4) or (5), or section 202, 202A or 203, may be started at any time within 5 years after the offence was committed.
 
 # Chapter 21—Administration
 
@@ -4580,7 +4580,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
 ##### <a id="206"></a>206  Patent Office seal
 
-                   There is to be a seal of the Patent Office and impressions of the seal must be judicially noticed.
+There is to be a seal of the Patent Office and impressions of the seal must be judicially noticed.
 
 ##### <a id="207"></a>207  Commissioner of Patents
 
@@ -4626,7 +4626,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
 ##### <a id="212"></a>212  Copies of examination reports to be communicated
 
-                   A copy of each report relating to an examination or a re-examination under this Act must, subject to Chapters 15 and 17, be given to the applicant or patentee, as the case requires.
+                   A copy of each report relating to an examination or a re-examination under this Act must, subject to Chapters 15 and 17, be given to the applicant or patentee, as the case requires.
 
 ##### <a id="213"></a>213  Making and signing applications etc.  
 
@@ -4652,7 +4652,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
              (2)  Subsection (1) does not apply in relation to the Commissioner’s power to direct an applicant to request an examination.
 
-##### <a id="217"></a>217  Assessors
+##### <a id="217"></a>217  Assessors
 
                    A prescribed court may, if it thinks fit, call in the aid of an assessor to assist it in the hearing and trial or determination of any proceedings under this Act.
 
@@ -4662,7 +4662,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
 ##### <a id="219"></a>219  Security for costs
 
-                   If a person who neither resides nor carries on business in Australia:
+If a person who neither resides nor carries on business in   Australia:
 
                      (a)  gives notice of opposition under this Act; or
 
@@ -5108,7 +5108,7 @@ and such a patent is not invalid, so far as the invention is claimed in any clai
 
                    Sections 41 and 42 of this Act do not apply in relation to a specification lodged before 7 July 1987.
 
-##### <a id="237"></a>237  Orders, directions etc. under 1952 Act
+##### <a id="237"></a>237   Orders, directions etc. under 1952 Act
 
                    Any report, order or direction made or given under the 1952 Act and in force immediately before the commencing day continues to have effect on and after that day as if it had been made or given under a corresponding provision of this Act.
 
@@ -5126,7 +5126,7 @@ and such a patent is not invalid, so far as the invention is claimed in any clai
 
                    This Act applies, on and after the commencing day, in relation to a person who was, immediately before that day, a registered patent attorney under the 1952 Act as if the person had been registered as a patent attorney under this Act.
 
-# Schedule 1—Dictionary <span style="font-size:9.0pt;font-weight:normal">[_see also_ Table B]</span>
+# Schedule 1—Dictionary 
 
 _Section 3_
 
@@ -5457,14 +5457,16 @@ Jurisdiction of Courts (Cross-vesting) Act 1987
 Nuclear Non-Proliferation (Safeguards) Act 1987 
 
 Sales Tax Assessment Act (No. 1) 1930
- <span style="font-size:9.0pt;font-style:normal">\[repealed by Act No. 101, 2006, Sch. 5]</span>
+ <span style="font-size:9.0pt;font-style:normal">\[repealed by Act No. 101, 2006,  Sch. 5]</span>
 
 Trade Marks Act 1955
- <span style="font-size:9.0pt;font-style:normal">\[repealed by Act No. 156, 1994, s. 241]</span>
+ <span style="font-size:9.0pt;font-style:normal">\[repealed by Act No. 156, 1994,  s.241]</span>
 
 For access to the wording of the amendments made by this Schedule, _see_ Act No. 83, 1990.
 
 * * *
+
+ 
 
 # Notes to the _Patents Act 1990_
 
@@ -5476,7 +5478,7 @@ For application, saving or transitional provisions made by the _Corporations (Re
 
 All relevant information pertaining to application, saving or transitional provisions prior to 27 July 1998 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Patents Act 1990_ was modified by the _Patents Regulations 1991_(1991 No. 71 as amended by 1995 No. 16; 1999 No. 261; 2001 No. 98; 2003 No. 316; 2004 Nos. 193 and 395; SLI 2007 No. 40) _see_ Table B.
+The _Patents Act 1990_ was modified by the _Patents Regulations 1991_(1991 No. 71 as amended by 1995 No. 16; 1999 No. 261; 2001 No. 98; 2003 No. 316; 2004 Nos. 193 and 395) _see_ Table B.
 
 ### Table of Acts
 
@@ -5555,7 +5557,7 @@ of Assent</div>
     <div>9 Apr 1994</div>
   </td>
   <td>
-    <div>29 June 1994 ( <i>see Gazette</i>1994, No. S211)</div>
+    <div>29 June 1994 ( <i>see Gazette</i>1994, No. S211)</div>
   </td>
   <td>
     <div>—</div>
@@ -5572,8 +5574,8 @@ of Assent</div>
     <div>12 July 1994</div>
   </td>
   <td>
-    <div>Div. 2 of Part 2 (ss. 4–6): 9 Aug 1994 
-Div. 5 of Part 2 (ss. 13–15): 13 July 1994 
+    <div>Div. 2 of Part 2 (ss. 4–6): 9 Aug 1994 
+Div. 5 of Part 2 (ss. 13–15): 13 July 1994 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -5629,7 +5631,7 @@ Sch. 3 (item 4) \[ <i>see</i>Table A]</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 728–730): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+    <div>Schedule 1 (items 728–730): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5649,10 +5651,7 @@ Sch. 3 (item 4) \[ <i>see</i>Table A]</div>
     <div>24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (items 1, 2 (1), 
-2(3)–2(6), 
-3–6, 8) 
-Sch. 2 \[items 2(2), 7] (am. by 99, 2001, Sch. 2 \[items 1, 2]) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (am. by 99, 2001, Sch. 2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5700,7 +5699,7 @@ Sch. 2 \[items 2(2), 7] (am. by 99, 2001, Sch. 2 \[items 1, 2]) \[ <i>see</i>Tab
     <div>26 June 2003</div>
   </td>
   <td>
-    <div>Schedule 2 (item 8): <i>(d)</i></div>
+    <div>Schedule 2 (item 8): <i>(ca)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5717,7 +5716,7 @@ Sch. 2 \[items 2(2), 7] (am. by 99, 2001, Sch. 2 \[items 1, 2]) \[ <i>see</i>Tab
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 401): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(e)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (item 401): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -5752,7 +5751,7 @@ Sch. 2 \[items 2(2), 7] (am. by 99, 2001, Sch. 2 \[items 1, 2]) \[ <i>see</i>Tab
   </td>
   <td>
     <div>Schedule 1: 1 Apr 2002 
-Schedule 2: <i>(f) 
+Schedule 2: <i>(e) 
  </i>Remainder: Royal Assent</div>
   </td>
   <td>
@@ -5771,7 +5770,7 @@ Schedule 2: <i>(f)
   </td>
   <td>
     <div>Schedule 1 (item 2): 24 July 2003 
-Schedule 2 (items 1–5): 26 Aug 2003</div>
+Schedule 2 (items 1–5): 26 Aug 2003</div>
   </td>
   <td>
     <div>Sch. 2 (item 5) \[ <i>see</i>Table A]</div>
@@ -5805,7 +5804,7 @@ Schedule 2 (items 1–5): 26 Aug 2003</div>
     <div>6 July 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 31–37): <i>(g)</i></div>
+    <div>Schedule 1 (items 31–37): <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5824,28 +5823,11 @@ Schedule 2 (items 1–5): 26 Aug 2003</div>
   <td>
     <div>Schedules 5, 6, 8 and 9: 28 Sept 2006 
 Schedule 7: 25 Oct 2006 
-Schedules 10 and 12 (item 4): 27 Mar 2007 
+Schedule 10 and Schedule 12 (item 4): 27 Mar 2007 
 Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>Sch. 5 (item 2), Sch. 6 (item 2), Sch. 7 (item 4), Sch. 8 (item 9), Sch. 9 (item 2) and Sch. 10 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>131, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 8–15): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 15) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -5865,7 +5847,7 @@ _(c)_ The _Patents Amendment (Innovation Patents) Act 2000_ was amended by Sched
 
          The _Patents Amendment (Innovation Patents) Act 2000_ came into operation on 24 May 2001.
 
-_(d)_ Subsection 2(1) (item 5) of the _Intellectual Property Laws Amendment Act 2003_ provides as follows:
+_(ca)_ Subsection 2(1) (item 5) of the _Intellectual Property Laws Amendment Act 2003_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -5945,17 +5927,17 @@ _(d)_ Subsection 2(1) (item 5) of the _Intellectual Property Laws Amendment Ac
   </td>
 </tr></table>
 
-_(e)_ The _Patents Act 1990_ was amended by Schedule 3 (item 401) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(d)_ The _Patents Act 1990_ was amended by Schedule 3 (item 401) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(f)_ Subsection 2(4) of  the _Patents Amendment Act 2001_ provides as follows:
+_(e)_ Subsection 2(4) of  the _Patents Amendment Act 2001_ provides as follows:
 
                  (4)   Schedule 2 is taken to have commenced immediately after the commencement of the _Patents Amendment (Innovation Patents) Act 2000_.
 
          The _Patents Amendment (Innovation Patents) Act 2000_ came into operation on 24 May 2001.
 
-_(g)_ Subsection 2(1) (item 20) of the _Statute Law Revision Act 2005_ provides as follows:
+_(f)_ Subsection 2(1) (item 20) of the _Statute Law Revision Act 2005_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -7778,81 +7760,6 @@ of Chapt. 6</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Personal Property Securities (Consequential Amendments) Act 2009
- (No. 131, 2009)_
-
-The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 2
-
-## 8  Section 3 (list of definitions)
-
-Insert “PPSA security interest”.
-
-## 9  After subsection 189(2)
-
-Insert:
-
-          (2A)  Despite subsection (1), the recording in the Register of a right that is a PPSA security interest does not affect a dealing with a patent.
-
-## 10  At the end of section 189
-
-Add:
-
-             (4)  Subsection (3) does not apply in relation to an equity that is a PPSA security interest.
-
-Note:          The _Personal Property Securities Act 2009_ deals with the rights of purchasers of personal property (including intellectual property such as patents) that is subject to PPSA security interests. That Act also provides for the priority and enforcement of PPSA security interests. See the following provisions of that Act:
-
-(a)    Part 2.5 (taking personal property free of security interests);
-
-(b)    Part 2.6 (priority between security interests);
-
-(c)    Chapter 4 (enforcement of security interests).
-
-## 11  At the end of section 195
-
-Add:
-
-             (3)  This section does not apply in relation to any particulars registered in the Register in relation to a PPSA security interest.
-
-Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
-
-## 12  Section 196
-
-Before “A document”, insert “(1)”.
-
-## 13  At the end of section 196
-
-Add:
-
-             (2)  However, subsection (1) does not restrict the admissibility in any proceedings of a document in relation to a PPSA security interest.
-
-Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
-
-## 14  Schedule 1 (Dictionary)
-
-Insert:
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means:
-
-                     (a)  a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies (other than a transitional security interest within the meaning of that Act); or
-
-                     (b)  a transitional security interest within the meaning of that Act, and to which Division 4 of Part 9.4 of that Act applies.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
-
-As at 4 February 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -8119,25 +8026,6 @@ The amendment of paragraph 40(2)(c) of the _Patents Act 1990_ made by this Sched
 
 The amendments made by this Schedule apply to the making of a complete application on or after the commencement of this Schedule, whether the first patent concerned was granted before, on or after that commencement.
 
-* * *
-
-_Personal Property Securities (Consequential Amendments) Act 2009
- (No. 131, 2009)_
-
-The following provision commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 2
-
-## 15  Application of amendments of the _Patents Act 1990_
-
-(1)        The amendment of the _Patents Act 1990_ made by item 9 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
-
-(2)        The amendment of the _Patents Act 1990_ made by item 10 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
-
-(3)        The amendments of the _Patents Act 1990_ made by items 11, 12 and 13 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to patents (or interests in patents) that are commenced before the time the items commence.
-
-_Note:       Items 9 to 13 commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
-
 ## Table B
 
 ### Modifications
@@ -8296,21 +8184,29 @@ insert
 
                (2)    For a PCT application, the prescribed information is taken to have been published under subsection (1) when the application is published by the International Bureau of the World Intellectual Property Organization.
 
-    (1BA)   Subsection 89 (5):
+    (1BA)   Paragraph 89 (5) (a):
 
-substitute
+omit
 
-         (5)   If:
+PCT;
 
-                (a)    a PCT application has been amended under Article 19 of the PCT before the applicant meets the requirements of subsection (3); or
+insert
 
-               (b)    a PCT application has been rectified under Rule 91 of the Regulations mentioned in the definition of **_PCT_** in Schedule 1 before the applicant meets the requirements of subsection (3);
+PCT before the applicant meets the requirements of subsection (3);
 
-then the description, drawings and claims contained in the application are, for the purposes of this Act, to be taken to have been amended:
+    (1BB)   Paragraph 89 (5) (b):
 
-                (c)    on the day the amendment was made; or
+omit
 
-               (d)    unless the Commissioner disregards the rectification under Rule 91.3 (f) — on the day the rectification was effective.
+    (1BC)   Paragraph 89 (5) (c):
+
+omit
+
+Schedule 1;
+
+insert
+
+Schedule 1 before the applicant meets the requirements of subsection (3);
 
     (1BD)   After subsection 89 (5):
 
@@ -8404,19 +8300,7 @@ After subsection (1) insert:
 
 ‘(1A)           If, because of an error or omission by the receiving Office or the International Bureau, a relevant act that is required to be done within a certain time is not, or cannot be, done within that time, the Commissioner must extend the time for doing the act.’.
 
-         (5)   Schedule 1, definition of **_international filing date_**, including the cross-reference to section 10:
-
-substitute
-
-‘**_international filing date_**, in relation to an international application, means:
-
-                (a)    the date given to the international application as its international filing date under Article 11 of the PCT; or
-
-               (b)    if that date is revised under Article 14 of the PCT — that international filing date as so revised; or
-
-                (c)    if the Commissioner has treated another date as the international filing date under Rule 82 _ter_ — that international filing date as so treated.
-
-_\[See also section 10]_’.
+ 
 
  
 * * *
