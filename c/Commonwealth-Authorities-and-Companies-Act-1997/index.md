@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00874/Html/CwlthAuthCompanies1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00340/Html/CwlthAuthCompanies1997_WD02_image001.gif)
 
 # Commonwealth Authorities and Companies Act 1997
 
 **Act No. 153 of 1997 as amended**
 
-This compilation was prepared on 24 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 16 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1684,7 +1684,7 @@ Note:          This is a civil penalty provision (see Schedule
 
                     <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
-##### <a id="47"></a>47  Regulations may deal with how this Act applies if body stops being a Commonwealth authority
+##### <a id="47"></a>47  Regulations may deal with how this Act applies if body stops being a Commonwealth authority
 
              (1)  The regulations may make provision dealing with how this Act applies in relation to a financial year of a body that ceases to be a Commonwealth authority during the financial year.
 
@@ -2544,23 +2544,6 @@ Schedule 1 (items 51, 52): <i>(f)</i></div>
   </td>
   <td>
     <div>Schedule 10 (item 3): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -3759,142 +3742,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
     <div>ad. No. 156, 1999</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Financial Framework Legislation Amendment Act 2010 (No. 148, 2010)_
-
-The following amendments commence on 17 December 2011 unless proclaimed earlier:
-
-## Schedule 5
-
-## 1  Section 5
-
-Insert:
-
-                    <a name="gener-law"></a>**_general law_** means the principles and rules of the common law and equity.
-
-## 2  At the end of paragraph 9(2)(a)
-
-Add:
-
-Note:       The deadline will be 15 October if the financial year ends on 30 June. Financial year is defined in section 5.
-
-## 3  Subsections 15(2) and (3)
-
-Repeal the subsections, substitute:
-
-             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered bysubsection (1).
-
-## 4  Subsection 18(4A)
-
-Repeal the subsection.
-
-## 5  Subsection 22(2)
-
-Omit “at common law and in equity”, substitute “under the general law”.
-
-## 6  Subsection 22(2) (note)
-
-Omit “at common law or in equity”, substitute “under the general law”.
-
-## 7  Subsection 27A(1)
-
-Omit “at common law or in equity”, substitute “under the general law”.
-
-## 8  Subsection 27A(1) (note)
-
-Omit “at common law and in equity”, substitute “under the general law”.
-
-## 9  Section 27B
-
-Omit “at common law and in equity”, substitute “under the general law”.
-
-_Note:       The heading to section 27E is altered by inserting “directors’” before “delegate”._
-
-## 10  After Part 3
-
-Insert:
-
-## Part 3A—Interjurisdictional authorities
-
-##### <a id="33A"></a>33A  Interjurisdictional authorities
-
-             (1)  The regulations may prescribe:
-
-                     (a)  a Commonwealth authority to be an interjurisdictional authority for the purposes of this section; and
-
-                     (b)  persons who comprise an interjurisdictional authority (including directors and employees, for example); and
-
-                     (c)  a Minister of a State, the Australian Capital Territory, or the Northern Territory to be a State/Territory Minister for an interjurisdictional authority.
-
-             (2)  The regulations may provide for the following:
-
-                     (a)  the directors of an interjurisdictional authority to give an interim report, for a period mentioned in subsection 13(1), to a State/Territory Minister;
-
-                     (b)  the directors of an interjurisdictional authority to give written particulars of a proposal mentioned in subsection 15(1) to a State/Territory Minister;
-
-                     (c)  a State/Territory Minister to give written guidelines under subsection 15(2) to the directors of an interjurisdictional authority;
-
-                     (d)  the directors of an interjurisdictional authority:
-
-                              (i)  to keep a State/Territory Minister informed of the operations of the authority and its subsidiaries; or
-
-                             (ii)  to give a State/Territory Minister the reports, documents and information in relation to those operations that the State/Territory Minister requires, within the time limits set by the State/Territory Minister;
-
-                     (e)  the application of section 27A, with necessary modifications, to an officer or employee of a State or Territory;
-
-                      (f)  anything that is necessary or convenient to be prescribed to give effect to paragraphs (a) to (e).
-
-## 11  Subsections 40(2) and (3)
-
-Repeal the subsections, substitute:
-
-             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered bysubsection (1).
-
-## 12  Section 45
-
-Repeal the section.
-
-## 13  After subsection 47A(6)
-
-Insert:
-
-          (6A)  The Finance Minister’s directions are legislative instruments, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ apply to the directions.
-
-## 14  Subsection 47A(7)
-
-Omit “the _Financial Management and Accountability Regulations 1997_”, substitute “regulations made under the _Financial Management and Accountability Act 1997_”.
-
-## 15  Subsection 48A(5)
-
-Omit “nor Part 6”, substitute “(disallowance) nor Part 6 (sunsetting)”.
-
-## 16  After section 48A
-
-Insert:
-
-##### <a id="48B"></a>48B  Delegation by Minister
-
-             (1)  A Minister may, by written instrument, delegate any of the Minister’s powers or functions under the following provisions of this Act to a Secretary of a Department within the meaning of the _Public Service Act 1999_:
-
-                     (a)  section 14 (Estimates);
-
-                     (b)  paragraphs 16(1)(b) and (c) (Keeping responsible Minister and Finance Minister informed);
-
-                     (c)  subsection 16(2) (Keeping responsible Minister and Finance Minister informed);
-
-                     (d)  paragraph 18(3)(d) (Banking and investment (authorities other than GBEs and SMAs));
-
-                     (e)  section 39 (Estimates);
-
-                      (f)  paragraphs 41(1)(b) and (c) (Keeping responsible Minister and Finance Minister informed);
-
-                     (g)  subsection 41(2) (Keeping responsible Minister and Finance Minister informed).
-
-             (2)  In exercising powers or functions under a delegation, the Secretary must comply with the Minister’s directions.
-
-As at 24 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
