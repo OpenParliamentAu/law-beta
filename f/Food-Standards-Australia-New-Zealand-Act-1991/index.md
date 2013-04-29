@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00117/Html/43d0d824-a25d-46d4-951c-0be06b910fb7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00020/Html/FoodStandAusNZ1991_image001.gif)
 
 # Food Standards Australia New Zealand Act 1991
 
 **Act No. 118 of 1991 as amended**
 
-This compilation was prepared on 1 March 2011
+This compilation was prepared on 1 January 2011
  taking into account amendments up to Act No. 121 of 2010
 
 The text of any of those amendments not in force
@@ -219,15 +219,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [79](#79).          Notifying the Council
 
-    **Division 2A—Variations by APVMA of the Maximum Residue Limits Standard**
+        **Subdivision H—Variations of the Maximum Residue Limits Standard**
 
-[80](#80).          Application of Division
+[80](#80).          Application of Subdivision
 
-[81](#81).          Authority to give notice of APVMA notification
+[81](#81).          Authority must prepare a proposal to vary the Maximum Residue Limits Standard and adopt the general procedure to consider it
 
-[82](#82).          APVMA may vary the Maximum Residue Limits Standard
+[82](#82).          Section 58 notice to be given within 10 business days
 
-[83](#83).          No limit on the Authority’s power to vary the Maximum Residue Limits Standard
+[83](#83).          Authority to complete its consideration of the proposal within prescribed period
 
     **Division 3—Council review of draft standards and draft variations of standards**
 
@@ -393,13 +393,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act establishing a body to be known as Food Standards Australia New Zealand with functions relating to the development of food regulatory measures, and for related purposes
+## An Act establishing a body to be known as Food Standards Australia   New Zealand with functions relating to the development of food regulatory measures, and for related purposes
 
 ## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Food Standards Australia New Zealand Act 1991_.
+                   This Act may be cited as the _Food Standards__Australia__New Zealand__Act 1991_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -431,15 +431,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the CEO of the National Health and Medical Research Council; or
 
-                   (ba)  the Gene Technology Regulator; or
+                    (ba)  the Gene Technology Regulator; or
 
                      (c)  the Department of State of each State and Territory that is primarily responsible for public health in that State or Territory; or
 
                      (d)  a State or Territory authority that is prescribed for the purposes of this paragraph; or
 
-                     (e)  a Department of State of New Zealand that is nominated by the government of New Zealand; or
+                     (e)  a Department of State of New   Zealand that is nominated by the government of New Zealand; or
 
-                      (f)  the Department of State of New Zealand that is primarily responsible for public health; or
+                      (f)  the Department of State of New   Zealand that is primarily responsible for public health; or
 
                      (g)  a New Zealand authority that is prescribed for the purposes of this paragraph.
 
@@ -463,7 +463,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a Sunday; or
 
-                     (c)  a public holiday in the Australian Capital Territory or in Wellington, New Zealand.
+                     (c)  a public holiday in the Australian   Capital Territory or in Wellington, New Zealand.
 
                     <a name="chief-offic"></a>**_Chief Officer_** means:
 
@@ -541,7 +541,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  a member of the Council; and
 
-                     (b)  nominated by the government of New Zealand to be the New Zealand lead Minister on the Council.
+                     (b)  nominated by the government of New   Zealand to be the New Zealand lead Minister on the Council.
 
                     <a name="nutrition-health-relat-claim-standard"></a>**_Nutrition, Health and Related Claims Standard_** means the Nutrition, Health and Related Claims Standard as in force from time to time, or any standard in force in substitution for that standard.
 
@@ -715,7 +715,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                       (i)  in co-operation with the States and Territories, to develop food education initiatives, including the publication of information to increase public awareness of food standards and food labels; and
 
-                    (ia)  to provide information, on request by a member of the public, about the Australia New Zealand Food Standards Code; and
+                     (ia)  to provide information, on request by a member of the public, about the Australia New Zealand Food Standards Code; and
 
                       (j)  in co-operation with the Department administering Part 3-3 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth, to co-ordinate the recall of food under that Part; and
 
@@ -733,7 +733,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (q)  at the request of New Zealand, to perform functions for New Zealand similar to the other functions that the Authority may perform; and
 
-                   (qa)  such other functions as are conferred on the Authority by this Act; and
+                    (qa)  such other functions as are conferred on the Authority by this Act; and
 
                       (r)  any functions incidental to any of the foregoing functions.
 
@@ -957,15 +957,15 @@ and includes:
 
 * * *
 
-Step 1.   An application is made.
+Step 1.    An application is made.
 
-Step 2.   The Authority decides whether to accept or reject the application. If the application is accepted, the Authority proceeds to step 3.
+Step 2.    The Authority decides whether to accept or reject the application. If the application is accepted, the Authority proceeds to step 3.
 
-Step 3.   The Authority notifies the applicant of acceptance.
+Step 3.    The Authority notifies the applicant of acceptance.
 
-Step 4.   The Authority gives public notice of the application, indicating when the Authority proposes to undertake key steps in considering it.
+Step 4.    The Authority gives public notice of the application, indicating when the Authority proposes to undertake key steps in considering it.
 
-Step 5.   The Authority assesses the application.
+Step 5.    The Authority assesses the application.
 
               The Authority may, after assessing the application, either reject it or proceed to the next step.
 
@@ -973,19 +973,19 @@ Step 5.   The Authority assesses the application.
 
               In any other case, it is step 7.
 
-Step 6.   The Authority calls for public submissions.
+Step 6.    The Authority calls for public submissions.
 
-Step 7.   The Authority prepares a draft food regulatory measure or a draft variation of a food regulatory measure, as the case requires. If the Authority has called for submissions under step 6, the Authority must have regard to the submissions in doing so.
+Step 7.    The Authority prepares a draft food regulatory measure or a draft variation of a food regulatory measure, as the case requires. If the Authority has called for submissions under step 6, the Authority must have regard to the submissions in doing so.
 
-Step 8.   If the application is for a minor variation, the Authority calls for submissions from the applicant and appropriate government agencies.
+Step 8.    If the application is for a minor variation, the Authority calls for submissions from the applicant and appropriate government agencies.
 
               In any other case, the Authority calls for public submissions.
 
-Step 9.   If the draft is a draft standard or a draft variation of a standard, the Authority must decide whether to approve or reject it and prepare a report, having regard to any submissions made. If approved, the Authority notifies the Council and the public of the approval and proceeds to step 10.
+Step 9.    If the draft is a draft standard or a draft variation of a standard, the Authority must decide whether to approve or reject it and prepare a report, having regard to any submissions made. If approved, the Authority notifies the Council and the public of the approval and proceeds to step 10.
 
               If the draft is a draft code of practice or a draft variation of a code of practice, the Authority must revoke or vary any existing code or practice and give public notice of its decision. No further steps are taken in relation to measures of this kind.
 
-Step 10 _._ The standard or variation comes into effect after it has been considered by the Council and published.
+Step 10 _._  The standard or variation comes into effect after it has been considered by the Council and published.
 
 * * *
 
@@ -1657,15 +1657,15 @@ Note:          The process followed by the Council after recei
 
 * * *
 
-Step 1.   A proposal is prepared.
+Step 1.    A proposal is prepared.
 
 Step 2\. As the Authority prepares the proposal, there is no equivalent to step 2 of the applications procedure in which the application is accepted or rejected.
 
-Step 3 _._   As the Authority prepares the proposal, there is no equivalent to step 3 of the applications procedure in which the Authority notifies the applicant of acceptance.
+Step 3 _._    As the Authority prepares the proposal, there is no equivalent to step 3 of the applications procedure in which the Authority notifies the applicant of acceptance.
 
-Step 4 _._   The Authority gives public notice of the proposal, indicating when the Authority proposes to undertake key steps in considering it.
+Step 4 _._    The Authority gives public notice of the proposal, indicating when the Authority proposes to undertake key steps in considering it.
 
-Step 5 _._   The Authority assesses the proposal.
+Step 5 _._    The Authority assesses the proposal.
 
               The Authority may, after assessing the proposal, either abandon it or proceed to the next step.
 
@@ -1673,23 +1673,21 @@ Step 5 _._   The Authority assesses the proposal.
 
               In any other case, it is step 7.
 
-Step 6 _._   The Authority calls for public submissions.
+Step 6 _._    The Authority calls for public submissions.
 
-Step 7 _._   The Authority prepares a draft food regulatory measure or a draft variation of a food regulatory measure, as the case requires. If the Authority has called for submissions under step 6, the Authority must have regard to the submissions in doing so.
+Step 7 _._    The Authority prepares a draft food regulatory measure or a draft variation of a food regulatory measure, as the case requires. If the Authority has called for submissions under step 6, the Authority must have regard to the submissions in doing so.
 
-Step 8 _._   If the proposal is for a minor variation, the Authority calls for submissions from the applicant and appropriate government agencies.
+Step 8 _._    If the proposal is for a minor variation, the Authority calls for submissions from the applicant and appropriate government agencies.
 
               In any other case, the Authority calls for public submissions.
 
-Step 9 _._   If the draft is a draft standard or a draft variation of a standard, the Authority must decide whether to approve or reject it and prepare a report, having regard to any submissions made. If approved, the Authority notifies the Council and the public of the approval and proceeds to step 10.
+Step 9 _._    If the draft is a draft standard or a draft variation of a standard, the Authority must decide whether to approve or reject it and prepare a report, having regard to any submissions made. If approved, the Authority notifies the Council and the public of the approval and proceeds to step 10.
 
               If the draft is a draft code of practice or a draft variation of a code of practice, the Authority must revoke or vary any existing code of practice and give public notice of its decision. No further steps are taken in relation to measures of this kind.
 
-Step 10 _._ The standard or variation comes into effect after it has been considered by the Council and published.
+Step 10 _._  The standard or variation comes into effect after it has been considered by the Council and published.
 
 * * *
-
-Note:          Division 2A deals with variations by the APVMA of the Maximum Residue Limits Standard.
 
 #### Subdivision B—Proposals
 
@@ -1722,6 +1720,8 @@ Note:          Division 2A deals with variations by the APVM
                      (b)  the proposal is one to which Subdivision F applies (proposal for the development of a new food regulatory measure, or a major variation of a food regulatory measure); or
 
                      (c)  the proposal is one to which Subdivision G  applies (proposal for a high level health claims variation); or
+
+                     (d)  the proposal is one to which Subdivision H applies (proposal for a variation of the Maximum Residue Limits Standard); or
 
                      (e)  the proposal is declared to be an urgent proposal for the purposes of this Part under section 95.
 
@@ -1889,9 +1889,9 @@ Note:          The Board must not delegate its powers to act o
 
 ##### <a id="66"></a>66  Application of Subdivision
 
-                   This Subdivision applies to a proposal for the variation of a food regulatory measure that, if made, would not directly or indirectly:
+             (1)  Subject to subsection (2), this Subdivision applies to a proposal for the variation of a food regulatory measure that, if made, would not directly or indirectly:
 
-                     (a)  impose, vary or remove an obligation on any person; or
+                     (a)  impose, vary or remove an obligation on a person; or
 
                      (b)  create, vary or remove a right of any person; or
 
@@ -1906,6 +1906,10 @@ Note:          For example, a variation would fall within this
 (c)    to change a cross-reference within a food regulatory measure; or
 
 (d)    to omit provisions of a food regulatory measure that have ceased to have effect.
+
+             (2)  This Subdivision does not apply to a proposal made in compliance with Subdivision H.
+
+Note:          Subdivision H requires the Authority to propose a variation of the Maximum Residue Limits Standard if the APVMA notifies the Authority that it is considering the registration of a chemical product and the product is likely to be present in food at a level that is not already permitted under the Maximum Residue Limits Standard.
 
 ##### <a id="67"></a>67  Adopt the general procedure with the modifications set out in this Subdivision
 
@@ -1985,7 +1989,7 @@ Note:          The process followed by the Council after recei
 
 ##### <a id="70"></a>70  Application of Subdivision
 
-                   This Subdivision applies to:
+             (1)  Subject to subsection (2), this Subdivision applies to:
 
                      (a)  a proposal for the development of a new food regulatory measure; and
 
@@ -1994,6 +1998,10 @@ Note:          The process followed by the Council after recei
                               (i)  involves such scientific or technical complexity that it is necessary to adopt this procedure in considering it; or
 
                              (ii)  involves such a significant change to the scope of the food regulatory measure that it is necessary to adopt this procedure in considering it.
+
+             (2)  This Subdivision does not apply to a proposal made in compliance with Subdivision H.
+
+Note:          Subdivision H requires the Authority to propose a variation of the Maximum Residue Limits Standard if the APVMA notifies the Authority that it is considering the registration of a chemical product and the product is likely to be present in food at a level that is not already permitted under the Maximum Residue Limits Standard.
 
 ##### <a id="71"></a>71  Adopt the general procedure with the modifications set out in this Subdivision
 
@@ -2127,71 +2135,31 @@ Note:          The Board must not delegate its powers to act o
 
 Note:          The process followed by the Council after receiving notification under this section is set out in Division 3.
 
-### Division 2A—Variations by APVMA of the Maximum Residue Limits Standard
+#### Subdivision H—Variations of the Maximum Residue Limits Standard
 
-##### <a id="80"></a>80  Application of Division
+##### <a id="80"></a>80  Application of Subdivision
 
-                   This Division applies if the APVMA notifies the Authority under section 13A  of the Agvet Code of an application or variation in relation to a chemical product.
+                   This Subdivision applies if:
 
-##### <a id="81"></a>81  Authority to give notice of APVMA notification
+                     (a)  the APVMA notifies the Authority under section 13A  of the Agvet Code of an application to register a chemical product; and
 
-             (1)  The Authority must give public notice of the following matters:
+                     (b)  it is likely that the chemical product would, if used, be present in foods at a level that is not already permitted  under the Maximum Residue Limits Standard.
 
-                     (a)  that the Authority has been notified under section 13A of the Agvet Code of an application or variation;
+##### <a id="81"></a>81  Authority must prepare a proposal to vary the Maximum Residue Limits Standard and adopt the general procedure to consider it
 
-                     (b)  the particulars referred to in subparagraph 13A(2)(b)(i) of the Agvet Code that were set out in the notice under section 13A of the Agvet Code;
+                   The Authority must:
 
-                     (c)  any other matters that the Authority thinks appropriate.
+                     (a)  prepare a proposal to vary the Maximum Residue Limits Standard to include or change a permitted maximum residue limit to cover the chemical product; and
 
-             (2)  The Authority must give the notice as soon as practicable after the notification under section 13A of the Agvet Code.
+                     (b)  adopt the general procedure in considering the proposal, with the modifications set out in this Subdivision.
 
-##### <a id="82"></a>82  APVMA may vary the Maximum Residue Limits Standard
+##### <a id="82"></a>82  Section 58 notice to be given within 10 business days
 
-             (1)  The APVMA may vary the Maximum Residue Limits Standard to include or change a permitted maximum residue limit to cover the chemical product.
+                   The Authority must give notice in compliance with section 58 within 10 business days after receiving the notice from the APVMA mentioned in paragraph 80(a).
 
-Variation is a legislative instrument
+##### <a id="83"></a>83  Authority to complete its consideration of the proposal within prescribed period
 
-             (2)  A variation made under subsection (1) is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to the variation.
-
-Proposed variation
-
-             (3)  Before making a variation under subsection (1), the APVMA must notify the Authority of a proposed variation.
-
-Dietary exposure assessment
-
-             (4)  The Authority must:
-
-                     (a)  prepare a dietary exposure assessment of the proposed variation and give a copy of the assessment to the APVMA and the Council; or
-
-                     (b)  if, with the Authority’s agreement, a dietary exposure assessment of the proposed variation is prepared by another person or body:
-
-                              (i)  review the assessment and prepare comments on the assessment (including comments relating to the dietary exposure risk of the proposed variation); and
-
-                             (ii)  give a copy of the assessment to the Council and, if the assessment is not prepared by the APVMA, give a copy of the assessment to the APVMA; and
-
-                            (iii)  give a copy of the comments on the assessment to the APVMA and the Council.
-
-             (5)  Before making a variation under subsection (1), the APVMA must:
-
-                     (a)  if paragraph (4)(a) applies—consider the assessment; or
-
-                     (b)  if paragraph (4)(b) applies—consider the assessment and the comments on the assessment referred to in that paragraph.
-
-APVMA to give the Authority a copy of the variation
-
-             (6)  The APVMA must give a copy of a variation made under subsection (1) to the Authority.
-
-Gazettal
-
-             (7)  In addition to the requirement under the _Legislative Instruments Act 2003_ for a variation made under subsection (1) to be registered, the APVMA must cause a copy of the variation to be published in the _Gazette_.
-
-When variation takes effect
-
-             (8)  A variation made under subsection (1) takes effect on the day a copy of the variation is published as mentioned in subsection (7), despite subsections 12(1) and (2) of the _Legislative Instruments Act 2003_.
-
-##### <a id="83"></a>83  No limit on the Authority’s power to vary the Maximum Residue Limits Standard
-
-                   This Division does not limit the Authority’s power to vary the Maximum Residue Limits Standard.
+                   The Authority must complete the general procedure within the prescribed period.
 
 ### Division 3—Council review of draft standards and draft variations of standards
 
@@ -2383,7 +2351,7 @@ if:
 
                      (a)  Subdivisions C to G of Division 1 of this Part;
 
-                     (b)  Subdivisions C to G of Division 2 of this Part;
+                     (b)  Subdivisions C to H of Division 2 of this Part;
 
                      (c)  Division 3 of this Part.
 
@@ -2889,7 +2857,7 @@ the Authority must comply with the notice requirements set out in subsection (
 
                      (b)  to the Secretary of a Department of the Public Service of a State or Territory or the Chief Officer of a State or Territory authority for the purpose of enabling the Department or authority to perform any arrangements made with the Authority in accordance with paragraph 137(b); or
 
-                   (ba)  to the chief executive of a Department of State of New Zealand or the Chief Officer of a New Zealand authority for the purpose of enabling the Department or authority to perform any arrangements made with the Authority in accordance with paragraph 137(c); or
+                    (ba)  to the chief executive of a Department of State of New Zealand or the Chief Officer of a New Zealand authority for the purpose of enabling the Department or authority to perform any arrangements made with the Authority in accordance with paragraph 137(c); or
 
                      (c)  to the Chief Officer of any other authority or body for the purpose of enabling that authority or body to perform any arrangements made with the Authority in accordance with paragraph 137(d).
 
@@ -2925,9 +2893,9 @@ the Authority must comply with the notice requirements set out in subsection (
 
                      (b)  the Chief Executive Officer; and
 
-                     (c)  2 members nominated by the New Zealand lead Minister on the Council for the purposes of this paragraph; and
+                     (c)  2 members nominated by the New   Zealand lead Minister on the Council for the purposes of this paragraph; and
 
-                    (ca)  one member nominated by the New Zealand lead Minister on the Council for the purposes of this paragraph; and
+                    (ca)  one member nominated by the New   Zealand lead Minister on the Council for the purposes of this paragraph; and
 
                      (d)  a member nominated by consumer organisations; and
 
@@ -3037,7 +3005,7 @@ Note:          See Division 2 for the appointment, and terms
 
                            (vii)  microbiology;
 
-                          (viii)  food safety;
+                           (viii)  food safety;
 
                             (ix)  biotechnology;
 
@@ -3425,7 +3393,7 @@ for:
 
                      (a)  money paid to the Authority under section 138; and
 
-                   (ab)  money paid to the Authority under section 145; and
+                    (ab)  money paid to the Authority under section 145; and
 
                     (ac)  money paid to the Authority under section 146 or 147; and
 
@@ -3537,11 +3505,15 @@ that notice must include a statement to the effect that:
 
              (5)  Charge under this section may be recovered by the Authority as a debt due to the Authority.
 
-             (6)  A charge may be fixed in relation to an application to develop or vary a standard only if:
+             (6)  A charge may only be fixed if:
 
-                     (a)  the development or variation of the standard would confer an exclusive capturable commercial benefit on the applicant; or
+                     (a)  it relates to an application to develop or vary a standard; and
 
-                     (b)  the applicant has elected to have the consideration of the application expedited.
+                     (b)  either of the following apply:
+
+                              (i)  the development or variation of the standard would confer an exclusive capturable commercial benefit on the applicant;
+
+                             (ii)  the applicant has elected to have the consideration of the application expedited.
 
              (7)  The consideration of an application in relation to which a charge is fixed under subsection (6) must not displace the development of, or variation to, any other food regulatory measure in a three year plan.
 
@@ -3657,75 +3629,51 @@ in respect of that food and that the food complies with the standard.
 
 ##### <a id="152"></a>152  Annual report
 
-             (1)  The members must include in each report on the Authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_ for a financial year (the **_current year_**) particulars of:
+                   The members must include in each report on the Authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_ for a financial year particulars of:
 
-                    (aa)  the number of applications that were made under section 22 during the current year; and
+                     (a)  the number of applications that were considered under Subdivision D of Division 1 of Part 3 during that year; and
 
-                   (ab)  the number of applications accepted under subsection 26(1) during the current year; and
+                     (b)  the number of applications that were considered under Subdivision E of Division 1 of Part 3 during that year; and
 
-                    (ac)  the number of applications rejected under subsection 26(1) during the current year and the reasons for the rejections; and
+                     (c)  the number of applications that were considered under Subdivision F of Division 1 of Part 3 during that year; and
 
-                   (ad)  the number of applications withdrawn under subsection 24(1) during the current year; and
+                     (d)  the number of applications that were considered under Subdivision G of Division 1 of Part 3 during that year; and
 
-                    (ae)  the number of applications accepted under subsection 26(1) during the current year that the Authority had not begun to assess under section 29 during the current year; and
+                     (e)  for each of those Subdivisions, the number of applications considered under that Subdivision that were disposed of during that year and the manner of their disposal; and
 
-                    (af)  the number of applications accepted under subsection 26(1) during a previous financial year that the Authority had not begun to assess under section 29 before the end of the current year; and
+                      (f)  for each of those Subdivisions, the average time taken to dispose of applications during that year; and
 
-                     (a)  the number of applications that were considered under Subdivision D of Division 1 of Part 3 during the current year; and
+                     (g)  the number of applications made during that year in relation to which a charge fixed under section 146 was payable; and
 
-                     (b)  the number of applications that were considered under Subdivision E of Division 1 of Part 3 during the current year; and
+                     (h)  the number of applications made during that year in relation to which no charge fixed under section 146 was payable; and
 
-                     (c)  the number of applications that were considered under Subdivision F of Division 1 of Part 3 during the current year; and
+                      (i)  the average number of days that elapsed between the acceptance or rejection under section 26 of an application made during that year in relation to which no charge fixed under section 146 was payable, and the commencement of the assessment of the application under section 29; and
 
-                     (d)  the number of applications that were considered under Subdivision G of Division 1 of Part 3 during the current year; and
+                      (j)  each occasion during that year on which the consideration period under section 109 elapsed without the Authority completing the procedure that the Authority must, under Subdivision C of Division 1, adopt in considering the application; and
 
-                     (e)  for each of those Subdivisions, the number of applications considered under that Subdivision that were disposed of during the current year and the manner of their disposal; and
+                     (k)  each occasion during that year on which the Authority extended the consideration period under subsection 109(4), and the reasons for that extension; and
 
-                      (f)  for each of those Subdivisions, the average time taken to dispose of applications during the current year; and
+                      (l)  the number of proposals made by the Authority under section 55 during that year; and
 
-                    (fa)  the number of applications accepted under subsection 26(1) during a previous financial year that the Authority had begun to assess under section 29 before the end of the current year, but that the Authority had not disposed of before the end of the current year; and
+                    (m)  the number of proposals made by the Authority under section 81 during that year; and
 
-                    (fb)  for an application covered by paragraph (fa), the period that has elapsed since the application was accepted under subsection 26(1); and
+                     (n)  the number of proposals so made that were disposed of during that year and the manner of their disposal; and
 
-                     (g)  the number of applications made during the current year in relation to which a charge fixed under section 146 was payable; and
+                     (o)  the average time taken to dispose of proposals under each of Subdivisions D, E, F, G and H of Division 2 of Part 3 during that year; and
 
-                     (h)  the number of applications made during the current year in relation to which no charge fixed under section 146 was payable; and
+                     (p)  the average number of days that have elapsed:
 
-                      (i)  the average number of days that elapsed between the acceptance or rejection under section 26 of an application made during the current year in relation to which no charge fixed under section 146 was payable, and the commencement of the assessment of the application under section 29; and
+                              (i)  between the preparation of a proposal under section 55 to which Subdivision G of Division 1 of Part 3 does not apply and the commencement of the assessment of the proposal under section 59; and
 
-                      (j)  each occasion during the current year on which the consideration period under section 109 elapsed without the Authority completing the procedure that the Authority must, under Subdivision C of Division 1, adopt in considering the application; and
+                             (ii)  between the preparation of a proposal under section 81 and the commencement of the assessment of the proposal under section 59; and
 
-                     (k)  each occasion during the current year on which the Authority extended the consideration period under subsection 109(4), and the reasons for that extension; and
+                     (q)  the number of applications made to the Administrative Appeals Tribunal during that year for review of decisions of the Authority; and
 
-                   (ka)  the number of applications declared under section 95 to be urgent applications during the current year; and
+                      (r)  the results of the applications made to the Administrative Appeals Tribunal that were determined during that year; and
 
-                      (l)  the number of proposals prepared by the Authority under section 55 during the current year; and
+                      (s)  the number of standards made during that year; and
 
-                    (la)  the number of proposals prepared under section 55 during the current year that the Authority had not begun to assess under section 59 during that year; and
-
-                    (lb)  the number of proposals prepared under section 55 during a previous financial year that the Authority had not begun to assess under section 59 before the end of the current year; and
-
-                     (n)  the number of proposals that were disposed of during the current year and the manner of their disposal; and
-
-                     (o)  the average time taken to dispose of proposals under each of Subdivisions D, E, F and G of Division 2 of Part 3 during the current year; and
-
-                     (p)  the average number of days that have elapsed between the preparation of a proposal under section 55 to which Subdivision G of Division 1 of Part 3 does not apply and the commencement of the assessment of the proposal under section 59; and
-
-                   (pa)  the number of proposals prepared under section 55 during a previous financial year that the Authority had begun to assess under section 59 before the end of the current year, but that the Authority had not disposed of before the end of the current year; and
-
-                   (pb)  for a proposal covered by paragraph (pa), the period that has elapsed since the proposal was prepared under section 55; and
-
-                   (pc)  the number of proposals declared under section 95 to be urgent proposals during the current year; and
-
-                   (pd)  the number of occasions during the current year when the 12 month period referred to in subsection 101(1) ended with no decision having been made under that subsection and the reasons for no decision having been made; and
-
-                     (q)  the number of applications made to the Administrative Appeals Tribunal during the current year for review of decisions of the Authority; and
-
-                      (r)  the results of the applications made to the Administrative Appeals Tribunal that were determined during the current year; and
-
-                      (s)  the number of standards made during the current year; and
-
-                      (t)  the number of draft standards and draft variations approved during the current year under each of the following:
+                      (t)  the number of draft standards and draft variations approved during that year under each of the following:
 
                               (i)  section 33;
 
@@ -3733,21 +3681,17 @@ in respect of that food and that the food complies with the standard.
 
                             (iii)  section 52; and
 
-                    (ta)  the number of variations given to the Authority under subsection 82(6) during the current year; and
+                     (u)  the number of occasions during that year when requests were made by the Council under Division 3 of Part 3 for a review of a draft standard or draft variation; and
 
-                     (u)  the number of occasions during the current year when requests were made by the Council under Division 3 of Part 3 for a review of a draft standard or draft variation; and
+                     (v)  the number of occasions during that year when a draft standard or draft variation was rejected by the Council under Division 3 of Part 3; and
 
-                     (v)  the number of occasions during the current year when a draft standard or draft variation was rejected by the Council under Division 3 of Part 3; and
+                    (w)  the number of occasions during that year when requests were made by the Council under Division 3 of Part 3 for a review of a standard or variation; and
 
-                    (w)  the number of occasions during the current year when requests were made by the Council under Division 3 of Part 3 for a review of a standard or variation; and
+                     (x)  the number of occasions during that year when a standard or variation was revoked or amended by the Council under Division 3 of Part 3; and
 
-                     (x)  the number of occasions during the current year when a standard or variation was revoked or amended by the Council under Division 3 of Part 3; and
+                     (y)  a summary of policy guidelines notified to the Authority during that year; and
 
-                     (y)  a summary of policy guidelines notified to the Authority during the current year; and
-
-                     (z)  such other matters (if any) as are specified in the regulations.
-
-             (2)  The report may include any other matters that the members consider relevant.
+                      (z)  such other matters (if any) as are specified in the regulations.
 
 ##### <a id="153"></a>153  Regulations
 
@@ -3761,11 +3705,11 @@ in respect of that food and that the food complies with the standard.
 
 ### Note 1
 
-The _Food Standards Australia New Zealand Act 1991_ as shown in this compilation comprises Act No. 118, 1991 amended as indicated in the Tables below. 
+The _Food Standards__Australia__New   Zealand__Act 1991_ as shown in this compilation comprises Act No. 118, 1991 amended as indicated in the Tables below. 
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-The _Food Standards Australia New Zealand Act 1991_ was modified by the _National Food Authority Regulations 1994_(1994 No. 286 as amended). The modifications made by the Regulations are not incorporated in this compilation.
+The _Food Standards__Australia__New   Zealand__Act 1991_ was modified by the _National Food Authority Regulations 1994_(1994 No. 286 as amended). The modifications made by the Regulations are not incorporated in this compilation.
 
 ### Table of Acts
 
@@ -4155,7 +4099,7 @@ Schedule 5 (item 137(a)): <i>(h)</i></div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 162, 163): 1 Jan 2011</div>
+    <div>Schedule 6 (items 162, 163): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -4172,18 +4116,18 @@ Schedule 5 (item 137(a)): <i>(h)</i></div>
     <div>17 Nov 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 7–39): 1 Mar 2011 ( <i>see</i>F2011L00312)</div>
+    <div>Schedule 1 (items 7–39): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 20, 39)</div>
   </td>
 </tr></table>
 
-_(a)_     The _Food Standards Australia New Zealand Act 1991_ was amended by Schedule 2 (items 191–200) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(a)_     The _Food Standards__Australia__New Zealand__Act 1991_ was amended by Schedule 2 (items 191–200) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_     Subsection 2(4) of the _Australia__New Zealand Food Authority Amendment Act (No. 2) 1997_ provides as follows:
+_(b)_    Subsection 2(4) of the _Australia__New__Zealand__Food Authority Amendment Act (No. 2) 1997_ provides as follows:
 
                  (4)   Item 41 of Schedule 1 commences immediately after the commencement of the _Public Service Act 1999_, if that Act commences after this Act receives the Royal Assent. If that Act commences before this Act receives the Royal Assent, item 41 does not commence.
 
@@ -4195,17 +4139,17 @@ _(c)_     The _Food Standards Australia New Zealand Act 1991_ was amende
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(d)_     The _Food Standards Australia New Zealand Act 1991_ was amended by Schedule 10 (item 17) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(d)_     The _Food Standards__Australia__New Zealand__Act 1991_ was amended by Schedule 10 (item 17) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12\. 
 
-_(e)_     Subsections 2(3) and (4) of the _Australia__New Zealand Food Authority Amendment Act 2001_ provide as follows:
+_(e)_     Subsections 2(3) and (4) of the _Australia__New Zealand__Food Authority Amendment Act 2001_ provide as follows:
 
                  (2)   Part 1 of Schedule 1 (other than item 120A), and Schedule 3, commence on the first day after the commencement of this section on which an amendment of the Australia New Zealand Joint Food Standards Agreement comes into force in accordance with Article 10 of that Agreement. 
 
-                 (3)   Part 2 of Schedule 1 is taken to have commenced on 23 December 1999, immediately after the commencement of item 10 of Schedule 1 to the _Australia__New Zealand Food Authority Amendment Act 1999_.
+                 (3)   Part 2 of Schedule 1 is taken to have commenced on 23 December 1999, immediately after the commencement of item 10 of Schedule 1 to the _Australia__New   Zealand__Food Authority Amendment Act 1999_.
 
 _(ea)_   The _Australia New Zealand Food Authority Amendment Act 2001_ was amended by Schedule 2 (item 2) only of the _Statute Law Revision Act 2002_, subsection 2(1) (item 31) of which provides as follows:
 
@@ -4340,8 +4284,16 @@ _(f)_      Subsection 2(1) (item 10) of the _Statute Law Revision Ac
   <td>
     <div>
       Immediately after the commencement of item 37 of Schedule 1 to the
-        <i>Australia</i>
-        <i>New Zealand Food Authority Amendment Act 2001</i>.
+      <i>
+        Australia
+      </i>
+      <i>
+        New Zealand
+      </i>
+      <i>
+        Food Authority Amendment Act 2001
+      </i>
+      .
     </div>
   </td>
   <td>
@@ -4351,7 +4303,7 @@ _(f)_      Subsection 2(1) (item 10) of the _Statute Law Revision Ac
   </td>
 </tr></table>
 
-_(g)_     Subsection 2(1) (items 2–6, 8 and 9) of the _Food Standards Australia New Zealand Amendment Act 2007_ provides as follows:
+_(g)_     Subsection 2(1) (items 2–6, 8 and 9) of the _Food Standards__Australia__New__Zealand__Amendment Act 2007_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -4622,7 +4574,7 @@ _(h)_     Subsection 2(1) (items 31, 32 and 38) of the _Statute Law Revi
   </td>
 </tr></table>
 
-The amendment history of the _Food Standards Australia New Zealand Act 1991_ appears in the Table below. For repealed provisions up to and including Act No. 98, 2007 see the Repeal Table.
+The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ appears in the Table below. For repealed provisions up to and including Act No. 98, 2007 see the Repeal Table.
 
 ## Table of Amendments
 
@@ -5581,14 +5533,6 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 54</div>
-  </td>
-  <td>
-    <div>ad. No. 121, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision B</b></div>
   </td>
   <td>
@@ -5640,7 +5584,7 @@ No. 81, 2001</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 98, 2007; No. 121, 2010</div>
+    <div>am. No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5703,23 +5647,7 @@ No. 98, 2007</div>
 </tr>
 <tr>
   <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 121, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 67–69</div>
+    <div>Ss. 66–69</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
@@ -5735,23 +5663,7 @@ No. 98, 2007</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 121, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 71–73</div>
+    <div>Ss. 70–73</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
@@ -5775,27 +5687,10 @@ No. 98, 2007</div>
 </tr>
 <tr>
   <td>
-    <div>Subdiv. H of Div. 2 of 
-Part 3</div>
-  </td>
-  <td>
-    <div>rep. No. 121, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
+    <div><b>Subdivision H</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 121, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5804,14 +5699,6 @@ Part 3</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 121, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5979,7 +5866,7 @@ Part 3</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 98, 2007; No. 121, 2010</div>
+    <div>am. No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -6477,7 +6364,7 @@ No. 81, 2001</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 81, 2001; No. 98, 2007; No. 121, 2010</div>
+    <div>am. No. 81, 2001; No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -6541,11 +6428,11 @@ No. 81, 2001</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 98, 2007; No. 121, 2010</div>
+    <div>am. No. 98, 2007</div>
   </td>
 </tr></table>
 
-Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as amended, were repealed either prior to renumbering by the _Food Standards Australia New Zealand Amendment Act 2007_ (No. 98, 2007) or by that Act. The amendment history of the repealed provisions appears in the Table below. 
+Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as amended, were repealed either prior to renumbering by the _Food Standards__Australia__New Zealand__Amendment Act 2007_ (No. 98, 2007) or by that Act. The amendment history of the repealed provisions appears in the Table below. 
 
 ### Repeal Table
 
@@ -6572,7 +6459,7 @@ Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as am
 </thead>
 <tr>
   <td>
-    <div>S. 11A (second occurring)</div>
+    <div>S. 11A (second occurring).</div>
   </td>
   <td>
     <div>ad. No. 81, 2001</div>
@@ -7587,6 +7474,251 @@ Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as am
   </td>
 </tr></table>
 
+### Note 2
+
+_Food Standards Australia New Zealand Amendment Act 2010
+ (No. 121, 2010)_
+
+The following amendments commence on 17 May 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 7  At the end of section 54
+
+Add:
+
+Note:          Division 2A deals with variations by the APVMA of the Maximum Residue Limits Standard.
+
+## 8  Paragraph 57(d)
+
+Repeal the paragraph.
+
+## 9  Subsection 66(1)
+
+Omit “(1) Subject to subsection (2), this”, substitute “This”.
+
+## 10  Subsection 66(2)
+
+Repeal the subsection.
+
+## 11  Subsection 70(1)
+
+Omit “(1) Subject to subsection (2), this”, substitute “This”.
+
+## 12  Subsection 70(2)
+
+Repeal the subsection.
+
+## 13  Subdivision H of Division 2 of Part 3
+
+Repeal the Subdivision.
+
+## 14  After Division 2 of Part 3
+
+Insert:
+
+### Division 2A—Variations by APVMA of the Maximum Residue Limits Standard
+
+##### <a id="80"></a>80  Application of Division
+
+                   This Division applies if the APVMA notifies the Authority under section 13A  of the Agvet Code of an application or variation in relation to a chemical product.
+
+##### <a id="81"></a>81  Authority to give notice of APVMA notification
+
+             (1)  The Authority must give public notice of the following matters:
+
+                     (a)  that the Authority has been notified under section 13A of the Agvet Code of an application or variation;
+
+                     (b)  the particulars referred to in subparagraph 13A(2)(b)(i) of the Agvet Code that were set out in the notice under section 13A of the Agvet Code;
+
+                     (c)  any other matters that the Authority thinks appropriate.
+
+             (2)  The Authority must give the notice as soon as practicable after the notification under section 13A of the Agvet Code.
+
+##### <a id="82"></a>82  APVMA may vary the Maximum Residue Limits Standard
+
+             (1)  The APVMA may vary the Maximum Residue Limits Standard to include or change a permitted maximum residue limit to cover the chemical product.
+
+Variation is a legislative instrument
+
+             (2)  A variation made under subsection (1) is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to the variation.
+
+Proposed variation
+
+             (3)  Before making a variation under subsection (1), the APVMA must notify the Authority of a proposed variation.
+
+Dietary exposure assessment
+
+             (4)  The Authority must:
+
+                     (a)  prepare a dietary exposure assessment of the proposed variation and give a copy of the assessment to the APVMA and the Council; or
+
+                     (b)  if, with the Authority’s agreement, a dietary exposure assessment of the proposed variation is prepared by another person or body:
+
+                              (i)  review the assessment and prepare comments on the assessment (including comments relating to the dietary exposure risk of the proposed variation); and
+
+                             (ii)  give a copy of the assessment to the Council and, if the assessment is not prepared by the APVMA, give a copy of the assessment to the APVMA; and
+
+                            (iii)  give a copy of the comments on the assessment to the APVMA and the Council.
+
+             (5)  Before making a variation under subsection (1), the APVMA must:
+
+                     (a)  if paragraph (4)(a) applies—consider the assessment; or
+
+                     (b)  if paragraph (4)(b) applies—consider the assessment and the comments on the assessment referred to in that paragraph.
+
+APVMA to give the Authority a copy of the variation
+
+             (6)  The APVMA must give a copy of a variation made under subsection (1) to the Authority.
+
+Gazettal
+
+             (7)  In addition to the requirement under the _Legislative Instruments Act 2003_ for a variation made under subsection (1) to be registered, the APVMA must cause a copy of the variation to be published in the _Gazette_.
+
+When variation takes effect
+
+             (8)  A variation made under subsection (1) takes effect on the day a copy of the variation is published as mentioned in subsection (7), despite subsections 12(1) and (2) of the _Legislative Instruments Act 2003_.
+
+##### <a id="83"></a>83  No limit on the Authority’s power to vary the Maximum Residue Limits Standard
+
+                   This Division does not limit the Authority’s power to vary the Maximum Residue Limits Standard.
+
+## 15  Paragraph 95(6)(b)
+
+Omit “H”, substitute “G”.
+
+## 16  Paragraph 152(m)
+
+Repeal the paragraph.
+
+## 17  Paragraph 152(o)
+
+Omit “, G and H”, substitute “and G”.
+
+## 18  Paragraph 152(p)
+
+Repeal the paragraph, substitute:
+
+                     (p)  the average number of days that have elapsed between the preparation of a proposal under section 55 to which Subdivision G of Division 1 of Part 3 does not apply and the commencement of the assessment of the proposal under section 59; and
+
+## 19  After paragraph 152(t)
+
+Insert:
+
+                    (ta)  the number of variations given to the Authority under subsection 82(6) during the current year; and
+
+## 21  Paragraph 66(1)(a)
+
+Omit “a”, substitute “any”.
+
+## 22  Subsection 146(6)
+
+Repeal the subsection, substitute:
+
+             (6)  A charge may be fixed in relation to an application to develop or vary a standard only if:
+
+                     (a)  the development or variation of the standard would confer an exclusive capturable commercial benefit on the applicant; or
+
+                     (b)  the applicant has elected to have the consideration of the application expedited.
+
+## 23  Section 152
+
+Before “The members”, insert “(1)”.
+
+## 24  Section 152
+
+After “for a financial year”, insert “(the **_current year_**)”.
+
+## 25  Before paragraph 152(a)
+
+Insert:
+
+                    (aa)  the number of applications that were made under section 22 during the current year; and
+
+                    (ab)  the number of applications accepted under subsection 26(1) during the current year; and
+
+                    (ac)  the number of applications rejected under subsection 26(1) during the current year and the reasons for the rejections; and
+
+                    (ad)  the number of applications withdrawn under subsection 24(1) during the current year; and
+
+                    (ae)  the number of applications accepted under subsection 26(1) during the current year that the Authority had not begun to assess under section 29 during the current year; and
+
+                    (af)  the number of applications accepted under subsection 26(1) during a previous financial year that the Authority had not begun to assess under section 29 before the end of the current year; and
+
+## 26  Paragraphs 152(a) to (f)
+
+Omit “that year”, substitute “the current year”.
+
+## 27  After paragraph 152(f)
+
+Insert:
+
+                    (fa)  the number of applications accepted under subsection 26(1) during a previous financial year that the Authority had begun to assess under section 29 before the end of the current year, but that the Authority had not disposed of before the end of the current year; and
+
+                    (fb)  for an application covered by paragraph (fa), the period that has elapsed since the application was accepted under subsection 26(1); and
+
+## 28  Paragraphs 152(g) to (k)
+
+Omit “that year”, substitute “the current year”.
+
+## 29  After paragraph 152(k)
+
+Insert:
+
+                    (ka)  the number of applications declared under section 95 to be urgent applications during the current year; and
+
+## 30  Paragraph 152(l)
+
+Omit “made”, substitute “prepared”.
+
+## 31  Paragraph 152(l)
+
+Omit “that year”, substitute “the current year”.
+
+## 32  After paragraph 152(l)
+
+Insert:
+
+                     (la)  the number of proposals prepared under section 55 during the current year that the Authority had not begun to assess under section 59 during that year; and
+
+                     (lb)  the number of proposals prepared under section 55 during a previous financial year that the Authority had not begun to assess under section 59 before the end of the current year; and
+
+## 33  Paragraph 152(n)
+
+Omit “so made”.
+
+## 34  Paragraph 152(n)
+
+Omit “that year”, substitute “the current year”.
+
+## 35  Paragraph 152(o)
+
+Omit “that year”, substitute “the current year”.
+
+## 36  After paragraph 152(p)
+
+Insert:
+
+                    (pa)  the number of proposals prepared under section 55 during a previous financial year that the Authority had begun to assess under section 59 before the end of the current year, but that the Authority had not disposed of before the end of the current year; and
+
+                    (pb)  for a proposal covered by paragraph (pa), the period that has elapsed since the proposal was prepared under section 55; and
+
+                    (pc)  the number of proposals declared under section 95 to be urgent proposals during the current year; and
+
+                    (pd)  the number of occasions during the current year when the 12 month period referred to in subsection 101(1) ended with no decision having been made under that subsection and the reasons for no decision having been made; and
+
+## 37  Paragraphs 152(q) to (y)
+
+Omit “that year”, substitute “the current year”.
+
+## 38  At the end of section 152
+
+Add:
+
+             (2)  The report may include any other matters that the members consider relevant.
+
+As at 1 January 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7602,15 +7734,15 @@ The amendment made by item 35 applies to the members of the Authority (includi
 
 ## 49  General transitional provisions
 
-(1)       Things done before the CEO commencement in, or in relation to, the exercise of the Chairperson’s powers, or the Authority’s powers, referred to in a pre-CEO provision have effect, after the CEO commencement, as if they were done in, or in relation to, the exercise of the Chief Executive Officer’s powers referred to in the corresponding amended CEO provision.
+(1)        Things done before the CEO commencement in, or in relation to, the exercise of the Chairperson’s powers, or the Authority’s powers, referred to in a pre-CEO provision have effect, after the CEO commencement, as if they were done in, or in relation to, the exercise of the Chief Executive Officer’s powers referred to in the corresponding amended CEO provision.
 
-(2)       A member of the Food Advisory Committee who held office as such a member immediately before the CEO commencement because of an appointment under paragraph 42(4)(e) of the old Act continues to hold office after that commencement as if the appointment were under that paragraph of the amended Act.
+(2)        A member of the Food Advisory Committee who held office as such a member immediately before the CEO commencement because of an appointment under paragraph 42(4)(e) of the old Act continues to hold office after that commencement as if the appointment were under that paragraph of the amended Act.
 
-(3)       An agreement referred to in subsection 65A(1) of the old Act that was in force immediately before the CEO commencement continues to have effect after that commencement as if it were an agreement referred to in that subsection of the amended Act.
+(3)        An agreement referred to in subsection 65A(1) of the old Act that was in force immediately before the CEO commencement continues to have effect after that commencement as if it were an agreement referred to in that subsection of the amended Act.
 
-(4)       For this purpose:
+(4)        For this purpose:
 
-                    <a name="amended-act"></a>**_amended Act_**means the _Australia__New Zealand Food Authority Act 1991_ as in force after the CEO commencement.
+                    <a name="amended-act"></a>**_amended Act_**means the _Australia__New   Zealand__Food Authority Act 1991_ as in force after the CEO commencement.
 
                     <a name="amended-ceo-provision"></a>**_amended CEO provision_** means any of the following provisions of the amended Act:
 
@@ -7622,7 +7754,7 @@ The amendment made by item 35 applies to the members of the Authority (includi
 
                     <a name="ceo-commenc"></a>**_CEO commencement_** means the commencement of item 36.
 
-                    <a name="old-act"></a>**_Old Act_** means the _Australia__New Zealand Food Authority Act 1991_ as in force before the CEO commencement.
+                    <a name="old-act"></a>**_Old Act_** means the _Australia__New   Zealand__Food Authority Act 1991_ as in force before the CEO commencement.
 
                     <a name="pre-ceo-provision"></a>**_pre-CEO provision_** means any of the following provisions of the old Act:
 
@@ -7658,7 +7790,7 @@ To the extent that the amendments made by this Schedule relate to draft standard
 
 In this Part:
 
-                    <a name="princip-act"></a>**_Principal Act_** means the _Australia__New Zealand Food Authority Act 1991_.
+                    <a name="princip-act"></a>**_Principal Act_** means the _Australia__New   Zealand__Food Authority Act 1991_.
 
 * * *
 
@@ -7674,15 +7806,15 @@ _Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
 
 ## 33  Transitional—validity of food regulatory measures
 
-To avoid doubt, the amendments of section 9 of the _Australia__New Zealand Food Authority Act 1991_ made by this Part do not affect the validity of a food regulatory measure in force immediately before the commencement of this item.
+To avoid doubt, the amendments of section 9 of the _Australia__New Zealand__Food Authority Act 1991_ made by this Part do not affect the validity of a food regulatory measure in force immediately before the commencement of this item.
 
 ## 120A  Transitional—making of regulations for the nomination of Board members
 
-(1)       A power conferred by paragraph 40(3)(b) or 40(4)(b) of the _Australia New Zealand Food Authority Act 1991_ as amended by this Schedule to make regulations in relation to the nomination of persons for selection as members of the Board may be exercised before the commencement of those provisions as if those provisions had come into operation.
+(1)        A power conferred by paragraph 40(3)(b) or 40(4)(b) of the _Australia New Zealand Food Authority Act 1991_ as amended by this Schedule to make regulations in relation to the nomination of persons for selection as members of the Board may be exercised before the commencement of those provisions as if those provisions had come into operation.
 
-(2)       Subitem (1) has effect despite anything in the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) has effect despite anything in the _Acts Interpretation Act 1901_.
 
-(3)       Subitem (1) has effect in addition to section 4 of the _Acts Interpretation Act 1901_.
+(3)        Subitem (1) has effect in addition to section 4 of the _Acts Interpretation Act 1901_.
 
 ## Schedule 1
 
@@ -7692,13 +7824,13 @@ If a person held office as a member (other than the Chief Executive Officer) imm
 
 ## 133  Transitional—abolition of existing committees
 
-If a committee established under section 43 of the _Australia__New Zealand Food Authority Act 1991_ was in existence immediately before the commencement of this item, the committee is abolished at the commencement of this item.
+If a committee established under section 43 of the _Australia__New Zealand__Food Authority Act 1991_ was in existence immediately before the commencement of this item, the committee is abolished at the commencement of this item.
 
 ## 147  Transitional—appointment of Chief Executive Officer
 
-(1)       This item applies if a person held office as the Chief Executive Officer immediately before the commencement of this item because of an appointment under subsection 52A(2) of the _Australia__New Zealand Food Authority Act 1991_.
+(1)        This item applies if a person held office as the Chief Executive Officer immediately before the commencement of this item because of an appointment under subsection 52A(2) of the _Australia__New   Zealand__Food Authority Act 1991_.
 
-(2)       The person continues to hold that office, as if that appointment were an appointment under the corresponding provision of the _Food Standards Australia New Zealand Act 1991_, until:
+(2)        The person continues to hold that office, as if that appointment were an appointment under the corresponding provision of the _Food Standards__Australia__New Zealand__Act 1991_, until:
 
                      (a)  the end of the period of 6 months beginning at the commencement of this item; or
 
@@ -7710,29 +7842,29 @@ whichever first happens.
 
 ## 153  Transitional—determination of terms and conditions for Chief Executive Officer
 
-(1)       This item applies if a determination was in force under section 52F of the _Australia__New Zealand Food Authority Act 1991_ immediately before the commencement of this item.
+(1)        This item applies if a determination was in force under section 52F of the _Australia__New Zealand__Food Authority Act 1991_ immediately before the commencement of this item.
 
-(2)       The _Food Standards Australia New Zealand Act 1991_ has effect, after the commencement of this item, as if the determination had been made by the Board under section 52F of that Act.
+(2)        The _Food Standards__Australia__New   Zealand__Act 1991_ has effect, after the commencement of this item, as if the determination had been made by the Board under section 52F of that Act.
 
 ## 155  Transitional—appointment of acting Chief Executive Officer during a vacancy
 
-(1)       This item applies if a person was acting as the Chief Executive Officer immediately before the commencement of this item because of an appointment under paragraph 52G(1)(a) of the _Australia New Zealand Food Authority Act 1991_.
+(1)        This item applies if a person was acting as the Chief Executive Officer immediately before the commencement of this item because of an appointment under paragraph 52G(1)(a) of the _Australia New Zealand Food Authority Act 1991_.
 
-(2)       The person continues to act as the Chief Executive Officer, as if that appointment were an appointment under the corresponding provision of the _Food Standards Australia New Zealand Act 1991_, until:
+(2)        The person continues to act as the Chief Executive Officer, as if that appointment were an appointment under the corresponding provision of the _Food Standards__Australia__New Zealand__Act 1991_, until:
 
                      (a)  the end of the period of 6 months beginning at the commencement of this item; or
 
                      (b)  the Board terminates the person’s appointment; or
 
-                     (c)  the Board appoints the person, or another person, to the office of Chief Executive Officer under subsection 52A(2) of the _Food Standards Australia New Zealand Act 1991_;
+                     (c)  the Board appoints the person, or another person, to the office of Chief Executive Officer under subsection 52A(2) of the _Food Standards__Australia__New Zealand__Act 1991_;
 
 whichever first happens.
 
 ## 156  Transitional—appointment of acting Chief Executive Officer during temporary absence etc.
 
-(1)       This item applies if a person was acting as the Chief Executive Officer immediately before the commencement of this item because of an appointment under paragraph 52G(1)(b) of the _Australia New Zealand Food Authority Act 1991_.
+(1)        This item applies if a person was acting as the Chief Executive Officer immediately before the commencement of this item because of an appointment under paragraph 52G(1)(b) of the _Australia New Zealand Food Authority Act 1991_.
 
-(2)       The person continues to act as the Chief Executive Officer, as if that appointment were an appointment under the corresponding provision of the _Food Standards Australia New Zealand Act 1991_, until:
+(2)        The person continues to act as the Chief Executive Officer, as if that appointment were an appointment under the corresponding provision of the _Food Standards__Australia__New Zealand__Act 1991_, until:
 
                      (a)  the end of the period of 6 months beginning at the commencement of this item; or
 
@@ -7742,15 +7874,15 @@ whichever first happens.
 
 whichever first happens.
 
-## 163  Transitional—agreement under section 65A of the _Australia__New Zealand Food Authority Act 1991_
+## 163  Transitional—agreement under section 65A of the _Australia__New Zealand__Food Authority Act 1991_
 
-(1)       This item applies to an agreement in force under section 65A of the _Australia__New Zealand Food Authority Act 1991_ immediately before the commencement of this item.
+(1)        This item applies to an agreement in force under section 65A of the _Australia__New Zealand__Food Authority Act 1991_ immediately before the commencement of this item.
 
-(2)       The agreement has effect, after the commencement of this item, as if it had been entered into between the Authority and the lead New Zealand Minister on the Council under section 65A of the _Food Standards Australia New Zealand Act 1991_.
+(2)        The agreement has effect, after the commencement of this item, as if it had been entered into between the Authority and the lead New   Zealand Minister on the Council under section 65A of the _Food Standards__Australia__New Zealand__Act 1991_.
 
 ## 168  Transitional—exemption from suit
 
-Despite the amendments of section 68 of the _Australia__New Zealand Food Authority Act 1991_ made by this Part, that section continues to apply, after the commencement of this item, in relation to a member of the Authority, as if those amendments had not been made.
+Despite the amendments of section 68 of the _Australia__New Zealand__Food Authority Act 1991_ made by this Part, that section continues to apply, after the commencement of this item, in relation to a member of the Authority, as if those amendments had not been made.
 
 ## 172  Transitional—annual report in the course of preparation immediately before this item commenced
 
@@ -7762,21 +7894,21 @@ To avoid doubt, if, immediately before the commencement of this item, the member
 
 ## 173  Transitional—annual report for the financial year in which this item commenced
 
-(1)       To avoid doubt, the obligations imposed on the members of the Board by:
+(1)        To avoid doubt, the obligations imposed on the members of the Board by:
 
                      (a)  section 9 of the _Commonwealth Authorities and Companies Act 1997_; and
 
-                     (b)  section 69 of the _Food Standards Australia New Zealand Act 1991_;
+                     (b)  section 69 of the _Food Standards__Australia__New Zealand__Act 1991_;
 
 to prepare an annual report on the Authority for the financial year in which this item commenced extends to so much of the financial year as occurred before this item commenced (when the Authority was known as the Australia New Zealand Food Authority).
 
-(2)       Despite the amendments of section 69 of the _Australia__New Zealand Food Authority Act 1991_ made by this Part, that section continues to apply, after the commencement of this item, in relation to so much of that financial year as occurred before this item commenced, as if those amendments had not been made.
+(2)        Despite the amendments of section 69 of the _Australia__New Zealand__Food Authority Act 1991_ made by this Part, that section continues to apply, after the commencement of this item, in relation to so much of that financial year as occurred before this item commenced, as if those amendments had not been made.
 
 ## 174  Transitional—certain draft standards etc. deemed to be notified to Council
 
-(1)       This item applies if, before the commencement of this item:
+(1)        This item applies if, before the commencement of this item:
 
-                     (a)  ANZFA made a recommendation to the old Council under section 18 or 26 of the _Australia__New Zealand Food Authority Act 1991_:
+                     (a)  ANZFA made a recommendation to the old Council under section 18 or 26 of the _Australia__New   Zealand__Food Authority Act 1991_:
 
                               (i)  that the old Council adopt a draft standard or a draft variation of a standard; or
 
@@ -7784,7 +7916,7 @@ to prepare an annual report on the Authority for the financial year in which thi
 
                      (b)  the old Council had not made a decision under section 20 or 28 of that Act in relation to that recommendation.
 
-(2)       The _Food Standards Australia New Zealand Act 1991_ has effect after the commencement of this item, in relation to the draft, as if:
+(2)        The _Food Standards__Australia__New   Zealand__Act 1991_ has effect after the commencement of this item, in relation to the draft, as if:
 
                      (a)  in a case where subparagraph (1)(a)(i) applies—FSANZ had approved the draft under section 18 of that Act; and
 
@@ -7794,13 +7926,13 @@ to prepare an annual report on the Authority for the financial year in which thi
 
                      (d)  paragraphs 20(1)(b), (c), (d), (e) and (f) of that Act had not been enacted.
 
-(3)       As soon as practicable after the commencement of this item, FSANZ must:
+(3)        As soon as practicable after the commencement of this item, FSANZ must:
 
                      (a)  prepare a written list of the drafts covered by subitem (1); and
 
                      (b)  give a copy of that list to the new Council.
 
-(4)       In this item:
+(4)        In this item:
 
 **_ANZFA_** means the Australia New Zealand Food Authority.
 
@@ -7812,7 +7944,7 @@ to prepare an annual report on the Authority for the financial year in which thi
 
 ## 175  Transitional—applications pending immediately before this item commenced
 
-(1)       For the purposes of this item, an application for the development or variation of a food regulatory measure is an **_eligible application_** if:
+(1)        For the purposes of this item, an application for the development or variation of a food regulatory measure is an **_eligible application_** if:
 
                      (a)  the application was made under section 12 of the old Act before the commencement of this item; and
 
@@ -7836,13 +7968,13 @@ to prepare an annual report on the Authority for the financial year in which thi
 
                             before that commencement.
 
-(2)       The eligible application lapses at the commencement of this item and, except as provided by this item, FSANZ is not to take any action under the new Act after that commencement in relation to:
+(2)        The eligible application lapses at the commencement of this item and, except as provided by this item, FSANZ is not to take any action under the new Act after that commencement in relation to:
 
                      (a)  the eligible application; or
 
                      (b)  any draft prepared as a result of the eligible application.
 
-(3)       For the purposes of the new Act:
+(3)        For the purposes of the new Act:
 
                      (a)  the eligible applicant is taken to have made an application (the **_fresh application_**) under section 12 of that Act in the same terms as the eligible application; and
 
@@ -7852,19 +7984,19 @@ to prepare an annual report on the Authority for the financial year in which thi
 
                      (d)  if, under subsection 12(3) of the old Act, the applicant had provided a sample of the food to which the eligible application relates—the applicant is taken to have provided that sample in relation to the fresh application under subsection 12(3) of the new Act.
 
-(4)       The applicant may, within 28 days after the commencement of this item, request FSANZ, in writing, to defer making a decision under section 13A of the new Act in relation to the application until the applicant gives FSANZ additional information to support the application. FSANZ must comply with that request.
+(4)        The applicant may, within 28 days after the commencement of this item, request FSANZ, in writing, to defer making a decision under section 13A of the new Act in relation to the application until the applicant gives FSANZ additional information to support the application. FSANZ must comply with that request.
 
-(5)       If the applicant makes a request under subitem (4), the time taken by the applicant to provide the information is not to be included in the period set or prescribed for the purpose of subsection 35(1) of the new Act or set for the purposes of subsection 35(1A) or (3) of the new Act.
+(5)        If the applicant makes a request under subitem (4), the time taken by the applicant to provide the information is not to be included in the period set or prescribed for the purpose of subsection 35(1) of the new Act or set for the purposes of subsection 35(1A) or (3) of the new Act.
 
-(6)       Subsections 35(1) and (1A) of the new Act have effect, in relation to the fresh application, as if a reference in those subsections to 12 months were a reference to 15 months.
+(6)        Subsections 35(1) and (1A) of the new Act have effect, in relation to the fresh application, as if a reference in those subsections to 12 months were a reference to 15 months.
 
-(7)       If ANZFA made a preliminary assessment of the eligible application before the commencement of this item, FSANZ is taken to have made an initial assessment of the fresh application.
+(7)        If ANZFA made a preliminary assessment of the eligible application before the commencement of this item, FSANZ is taken to have made an initial assessment of the fresh application.
 
-(8)       If, before the commencement of this item, any submissions had been made to ANZFA about the eligible application in response to a notice given under section 13A or 14 of the old Act, those submissions have effect as if they had been made to FSANZ about the fresh application in response to a notice given under section 13A or 14 of the new Act.
+(8)        If, before the commencement of this item, any submissions had been made to ANZFA about the eligible application in response to a notice given under section 13A or 14 of the old Act, those submissions have effect as if they had been made to FSANZ about the fresh application in response to a notice given under section 13A or 14 of the new Act.
 
-(9)       If notice is given under section 13A or 14 of the new Act in relation to the fresh application, the notice must set out an explanation of the effect of subitem (8).
+(9)        If notice is given under section 13A or 14 of the new Act in relation to the fresh application, the notice must set out an explanation of the effect of subitem (8).
 
-(10)     If:
+(10)      If:
 
                      (a)  FSANZ accepts the fresh application under section 13A of the new Act; and
 
@@ -7880,23 +8012,23 @@ FSANZ is taken to have made a draft assessment of the fresh application if it re
 
                      (d)  the matter set out in paragraph 10(2)(e) of the new Act.
 
-(11)     If, before the commencement of this item, any submissions had been made to ANZFA in response to a notice given under section 16 or 17 of the old Act in relation to the eligible application, those submissions have effect as if they had been made to FSANZ in response to a notice given under section 16 or 17 of the new Act in relation to the fresh application.
+(11)      If, before the commencement of this item, any submissions had been made to ANZFA in response to a notice given under section 16 or 17 of the old Act in relation to the eligible application, those submissions have effect as if they had been made to FSANZ in response to a notice given under section 16 or 17 of the new Act in relation to the fresh application.
 
-(12)     If notice is given under section 16 or 17 of the new Act in relation to the fresh application, the notice must set out an explanation of the effect of subitem (11).
+(12)      If notice is given under section 16 or 17 of the new Act in relation to the fresh application, the notice must set out an explanation of the effect of subitem (11).
 
-(13)     If ANZFA held an inquiry in relation to the eligible application before the commencement of this item, FSANZ is taken to have made a final assessment in relation to the draft that resulted from the fresh application if it reviews the inquiry having regard to:
+(13)      If ANZFA held an inquiry in relation to the eligible application before the commencement of this item, FSANZ is taken to have made a final assessment in relation to the draft that resulted from the fresh application if it reviews the inquiry having regard to:
 
                      (a)  any submissions made to it in response to a notice given under section 16 or 17 of the new Act in relation to the draft that resulted from the fresh application, being submissions that were not considered in holding the inquiry; and
 
                      (b)  the matter set out in paragraph 10(2)(e) of the new Act.
 
-(14)     If, before the commencement of this item, the applicant paid ANZFA a charge fixed under section 66 of the old Act for a service provided in relation to the eligible application:
+(14)      If, before the commencement of this item, the applicant paid ANZFA a charge fixed under section 66 of the old Act for a service provided in relation to the eligible application:
 
                      (a)  if the service was provided before the commencement of this item—the applicant is taken to have paid FSANZ the charge fixed under section 66 of the new Act for the corresponding service in relation to the fresh application; and
 
                      (b)  if the service was not provided before the commencement of this item—FSANZ must refund the charge unless the applicant elects to treat the payment as fully discharging the applicant’s liability to pay FSANZ the charge fixed under section 66 of the new Act for the corresponding service in relation to the fresh application.
 
-(15)     For the purposes of subitem (14):
+(15)      For the purposes of subitem (14):
 
                      (a)  the service of making an initial assessment in relation to the fresh application corresponds to the service of making a preliminary assessment in relation to the eligible application; and
 
@@ -7908,33 +8040,33 @@ FSANZ is taken to have made a draft assessment of the fresh application if it re
 
                      (e)  the service of the preparation of a draft food regulatory measure, or a draft variation of a food regulatory measure, in relation to the fresh application corresponds to the service of the preparation of a draft food regulatory measure, or a draft variation of a food regulatory measure, as the case requires, in relation to the eligible application.
 
-(16)     If, under subitem (14), the applicant is taken to have paid FSANZ a charge referred to in subparagraph 12(2)(c)(i) or (ii) of the new Act in relation to the fresh application, the requirements of paragraph 12(2)(c) of the new Act are taken to have been met in relation to that charge.
+(16)      If, under subitem (14), the applicant is taken to have paid FSANZ a charge referred to in subparagraph 12(2)(c)(i) or (ii) of the new Act in relation to the fresh application, the requirements of paragraph 12(2)(c) of the new Act are taken to have been met in relation to that charge.
 
-(17)     If, under subitem (14), the applicant elects to treat a payment as fully discharging the applicant’s liability to pay FSANZ a charge referred to in subparagraph 12(2)(c)(i) or (ii) of the new Act in relation to the fresh application, the requirements of paragraph 12(2)(c) of the new Act are taken to have been met in relation to that charge.
+(17)      If, under subitem (14), the applicant elects to treat a payment as fully discharging the applicant’s liability to pay FSANZ a charge referred to in subparagraph 12(2)(c)(i) or (ii) of the new Act in relation to the fresh application, the requirements of paragraph 12(2)(c) of the new Act are taken to have been met in relation to that charge.
 
-(18)     If the eligible application was made before 23 December 1999:
+(18)      If the eligible application was made before 23 December 1999:
 
                      (a)  the applicant is not liable to pay FSANZ a charge fixed under section 66 of the new Act for a service in relation to the fresh application; and
 
                      (b)  the new Act has effect, in relation to the fresh application, as if paragraph 12(2)(c) and subsections 15(2) and 16(4) had not been enacted.
 
-(19)     If the eligible application was in a particular year of a 3 year plan, the fresh application is taken to be in the same year of the plan.
+(19)      If the eligible application was in a particular year of a 3 year plan, the fresh application is taken to be in the same year of the plan.
 
-(20)     In this item:
+(20)      In this item:
 
 **_ANZFA_** means the Australia New Zealand Food Authority.
 
 **_FSANZ_** means Food Standards Australia New Zealand.
 
-**_new Act_** means the _Food Standards Australia New Zealand Act 1991_, as in force at or after the commencement of this item.
+**_new Act_** means the _Food Standards__Australia__New Zealand__Act 1991_, as in force at or after the commencement of this item.
 
-**_old Act_** means the _Australia__New Zealand Food Authority Act 1991_, as in force before the commencement of this item.
+**_old Act_** means the _Australia__New   Zealand__Food Authority Act 1991_, as in force before the commencement of this item.
 
 **_old Council_** means the Australia New Zealand Food Standards Council.
 
 ## 176  Transitional—proposals pending immediately before this item commenced
 
-(1)       For the purposes of this item, a proposal for the development or variation of a food regulatory measure is an **_eligible proposal_** if:
+(1)        For the purposes of this item, a proposal for the development or variation of a food regulatory measure is an **_eligible proposal_** if:
 
                      (a)  the proposal was prepared under section 21 of the old Act before the commencement of this item; and
 
@@ -7956,23 +8088,23 @@ FSANZ is taken to have made a draft assessment of the fresh application if it re
 
                             before that commencement.
 
-(2)       The eligible proposal lapses at the commencement of this item and, except as provided by this item, FSANZ is not to take any action under the new Act after that commencement in relation to:
+(2)        The eligible proposal lapses at the commencement of this item and, except as provided by this item, FSANZ is not to take any action under the new Act after that commencement in relation to:
 
                      (a)  the eligible proposal; or
 
                      (b)  any draft prepared as a result of the eligible proposal.
 
-(3)       For the purposes of the new Act:
+(3)        For the purposes of the new Act:
 
                      (a)  FSANZ is taken to have prepared a proposal (the **_fresh proposal_**) under section 12AA of that Act in the same terms as the eligible proposal; and
 
                      (b)  the fresh proposal is taken to have been prepared immediately after the commencement of this item.
 
-(4)       If, before the commencement of this item, any submissions had been made to ANZFA about the eligible proposal in response to a notice given under section 22 of the old Act, those submissions have effect as if they had been made to FSANZ about the fresh proposal in response to a notice given under section 14A of the new Act.
+(4)        If, before the commencement of this item, any submissions had been made to ANZFA about the eligible proposal in response to a notice given under section 22 of the old Act, those submissions have effect as if they had been made to FSANZ about the fresh proposal in response to a notice given under section 14A of the new Act.
 
-(5)       If notice is given under section 14A of the new Act in relation to the fresh proposal, the notice must set out an explanation of the effect of subitem (4).
+(5)        If notice is given under section 14A of the new Act in relation to the fresh proposal, the notice must set out an explanation of the effect of subitem (4).
 
-(6)       If ANZFA had:
+(6)        If ANZFA had:
 
                      (a)  made a full assessment of the eligible proposal before the commencement of this item; and
 
@@ -7984,35 +8116,35 @@ FSANZ is taken to have made a draft assessment of the fresh proposal if it revie
 
                      (d)  the matter set out in paragraph 10(2)(e) of the new Act.
 
-(7)       If, before the commencement of this item, any submissions had been made to ANZFA in response to a notice given under section 24 of the old Act in relation to the eligible proposal, those submissions have effect as if they had been made to FSANZ in response to a notice given under section 17AA of the new Act in relation to the fresh proposal.
+(7)        If, before the commencement of this item, any submissions had been made to ANZFA in response to a notice given under section 24 of the old Act in relation to the eligible proposal, those submissions have effect as if they had been made to FSANZ in response to a notice given under section 17AA of the new Act in relation to the fresh proposal.
 
-(8)       If notice is given under section 17AA of the new Act in relation to the fresh proposal, the notice must set out an explanation of the effect of subitem (7).
+(8)        If notice is given under section 17AA of the new Act in relation to the fresh proposal, the notice must set out an explanation of the effect of subitem (7).
 
-(9)       If ANZFA held an inquiry in relation to the draft that resulted from the eligible proposal before the commencement of this item, FSANZ is taken to have made a final assessment of the fresh proposal if it reviews the inquiry having regard to.
+(9)        If ANZFA held an inquiry in relation to the draft that resulted from the eligible proposal before the commencement of this item, FSANZ is taken to have made a final assessment of the fresh proposal if it reviews the inquiry having regard to.
 
                      (a)  any submissions made to it in response to a notice given under section 17AA of the new Act in relation to the draft that resulted from the fresh proposal, being submissions that were not considered in holding the inquiry; and
 
                      (b)  the matter set out in paragraph 10(2)(e) of the new Act.
 
-(10)     If the eligible proposal was in a particular year of a 3 year plan, the fresh proposal is taken to be in the same year of the plan.
+(10)      If the eligible proposal was in a particular year of a 3 year plan, the fresh proposal is taken to be in the same year of the plan.
 
-(11)     In this item:
+(11)      In this item:
 
 **_ANZFA_** means the Australia New Zealand Food Authority.
 
 **_FSANZ_** means Food Standards Australia New Zealand.
 
-**_new Act_** means the _Food Standards Australia New Zealand Act 1991_, as in force at or after the commencement of this item.
+**_new Act_** means the _Food Standards__Australia__New Zealand__Act 1991_, as in force at or after the commencement of this item.
 
-**_old Act_** means the _Australia__New Zealand Food Authority Act 1991_, as in force before the commencement of this item.
+**_old Act_** means the _Australia__New   Zealand__Food Authority Act 1991_, as in force before the commencement of this item.
 
 **_old Council_** means the Australia New Zealand Food Standards Council.
 
 ## 177  Transitional—regulations
 
-(1)       The regulations may make provision for matters of a transitional nature relating to the amendments made by this Part.
+(1)        The regulations may make provision for matters of a transitional nature relating to the amendments made by this Part.
 
-(2)       The Governor-General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -8026,7 +8158,7 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
 
 * * *
 
-_Food Standards Australia New Zealand Amendment Act 2007 (No. 98, 2007)_
+_Food Standards Australia   New Zealand Amendment Act 2007 (No. 98, 2007)_
 
 ## Schedule 1
 
@@ -8048,30 +8180,32 @@ To avoid doubt, if, during a financial year to which a report on the Authority u
 
 the members must include in the report:
 
-                     (c)  in relation to the earlier applications—particulars of the matters mentioned in section 69 of the _Food Standards Australia New Zealand Act 1991_, as in force immediately before the commencement of Part 3 of this Schedule; and
+                     (c)  in relation to the earlier applications—particulars of the matters mentioned in section 69 of the _Food Standards__Australia__New Zealand__Act 1991_, as in force immediately before the commencement of Part 3 of this Schedule; and
 
                      (d)  in relation to the later applications—particulars of the matters mentioned in section 152 of that Act, as in force on commencement of item 71 of this Schedule.
 
 * * *
 
-_Food Standards Australia New Zealand Amendment Act 2010 
+_Food Standards Australia   New Zealand Amendment Act 2010 
  (No. 121, 2010)_
+
+The following provisions commence on 17 May 2011 unless proclaimed earlier:
 
 ## Schedule 1
 
 ## 20  Application and transitional
 
-(1)       Despite the amendments made by items 10 and 12, subsections 66(2) and 70(2) of the _Food Standards Australia New Zealand Act 1991_, as in force immediately before the commencement of those items, continue to apply on and after that commencement in relation to proposals made in compliance with Subdivision H of Division 2 of Part 3 of that Act before, on or after the commencement of those items.
+(1)        Despite the amendments made by items 10 and 12, subsections 66(2) and 70(2) of the _Food Standards Australia New Zealand Act 1991_, as in force immediately before the commencement of those items, continue to apply on and after that commencement in relation to proposals made in compliance with Subdivision H of Division 2 of Part 3 of that Act before, on or after the commencement of those items.
 
-(2)       The amendments made by items 13 and 14 apply in relation to a notification under section 13A of the Agvet Code occurring on or after the commencement of those items (where the application or variation that is the subject of the notification is also made on or after that commencement).
+(2)        The amendments made by items 13 and 14 apply in relation to a notification under section 13A of the Agvet Code occurring on or after the commencement of those items (where the application or variation that is the subject of the notification is also made on or after that commencement).
 
-(3)       Despite the amendments made by items 16 to 18, paragraphs 152(m), (o) and (p) of the _Food Standards Australia New Zealand Act 1991_, as in force immediately before the commencement of those items, continue to apply on and after that commencement for the financial year in which those items commence and the following financial year.
+(3)        Despite the amendments made by items 16 to 18, paragraphs 152(m), (o) and (p) of the _Food Standards Australia New Zealand Act 1991_, as in force immediately before the commencement of those items, continue to apply on and after that commencement for the financial year in which those items commence and the following financial year.
 
 ## 39  Application
 
 The amendments made by items 23 to 38 apply in relation to financial years ending on or after the commencement of those items.
 
-Table showing Sections of the _Food Standards Australia New Zealand Act 1991_ after renumbering by the _Food Standards Australia New Zealand Amendment Act 2007_ (No. 98, 2007).
+Table showing Sections of the _Food Standards Australia New Zealand Act 1991_ after renumbering by the _Food Standards__Australia__New Zealand__Amendment Act 2007_ (No. 98, 2007).
 
 ### Renumbering Table
 
