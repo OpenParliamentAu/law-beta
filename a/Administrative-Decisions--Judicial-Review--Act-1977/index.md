@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00515/Html/a7076336-34af-40cf-8712-3352b7edaa62_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00513/Html/b5108659-2f19-40fd-b48d-59aeeedf9ae1_files/image001.gif)
 
 # Administrative Decisions (Judicial Review) Act 1977
 
 **Act No. 59 of 1977 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 29 June 2012
  taking into account amendments up to Act No. 77 of 2012
 
 The text of any of those amendments not in force
@@ -844,13 +844,13 @@ Note:          Schedule 3 identifies Acts of the States, the
 
 ##### <a id="20"></a>20  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
+                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
 # Schedule 1—Classes of decisions that are not decisions to which this Act applies
 
 _Section 3_
 
-             (a)  decisions under the _Fair Work Act 2009_, the _Fair Work (Registered Organisations) Act 2009_, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, the _Road Safety Remuneration Act 2012_, the _Workplace Relations Act 1996_, the _Building and Construction Industry Improvement Act 2005_ or the _Fair Work (Building Industry) Act 2012_;
+             (a)  decisions under the _Fair Work Act 2009_, the _Fair Work (Registered Organisations) Act 2009_, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, the _Workplace Relations Act 1996_, the _Building and Construction Industry Improvement Act 2005_ or the _Fair Work (Building Industry) Act 2012_;
 
              (c)  decisions under the _Coal Industry Act 1946_, other than decisions of the Joint Coal Board;
 
@@ -900,13 +900,11 @@ _Income Tax Assessment Act 1936_
 
 _Income Tax Assessment Act 1997_
 
-_Minerals Resource Rent Tax Act 2012_
-
 _Petroleum Resource Rent Tax Assessment Act 1987_
 
 _Superannuation Guarantee (Administration) Act 1992_
 
-_Taxation Administration Act 1953,_but only so far as the decisions are made under Part 3‑10, 3‑15 or 4‑1 in Schedule 1 to that Act
+_Taxation Administration Act 1953,_but only so far as the decisions are made under Part 3‑10 in Schedule 1 to that Act
 
 _Training Guarantee (Administration) Act 1990_
 
@@ -1181,10 +1179,6 @@ Note:          This Schedule can be amended by the regulations
                  (dab)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time, as that Law applies as a law of Western Australia;
 
                    (da)  the _National Electricity (South Australia) Act 1996_ of South Australia, or an Act of another State or of the Australian Capital Territory or the Northern Territory that applies the Schedule to that South Australian Act as a law of that other State or of that Territory;
-
-                   (db)  the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of South Australia;
-
-                   (dc)  if an Act of another State or of the Australian Capital Territory or the Northern Territory applies the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of that other State or of that Territory—the National Energy Retail Law as so applied;
 
                      (e)  an Act of a State, the Australian Capital Territory or the Northern Territory that applies, as a law of the State or Territory, the text set out in Part 1 of Schedule 1 to the _Competition and Consumer Act 2010_ of the Commonwealth (which forms part of what is commonly known as the Competition Code);
 
@@ -3622,7 +3616,7 @@ Schedule 5 (items 1, 2): 19 Apr 2011</div>
     <div>14 Oct 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 1 July 2012 ( <i>see</i>s. 2(1) and South Australia <i>Gazette</i>28 June 2012 p2923)</div>
+    <div>Schedule 2 (item 1): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -3657,8 +3651,8 @@ Schedule 5 (items 1, 2): 19 Apr 2011</div>
   </td>
   <td>
     <div>Schedule 2 (item 10): <i>(r)</i> 
-Schedule 3 (item 1): 1 July 2012 ( <i>see</i>s. 2(1)) 
-Schedule 3 (item 90): <i>(r)</i></div>
+Schedule 3 (item 1): \[ <i>see</i>s. 2(1) and Note 3] 
+Schedule 3 (item 90): \[ <i>see (r)</i>and Note 3]</div>
   </td>
   <td>
     <div>S. 2(1) (item 6) (am. by 39, 2012, Sch. 1 \[items 267, 268])</div>
@@ -3727,7 +3721,7 @@ Schedule 1 (items 269, 270): <i>(s)</i></div>
     <div>15 Apr 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (items 30, 239): 1 July 2012</div>
+    <div>Schedule 1 (items 30, 239): \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 239) \[ <i>see</i>Table A]</div>
@@ -3744,7 +3738,7 @@ Schedule 1 (items 269, 270): <i>(s)</i></div>
     <div>16 Apr 2012</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1: \[ <i>see</i>s. 2(1) and Note 5]</div>
   </td>
   <td>
     <div>—</div>
@@ -4228,7 +4222,8 @@ _(r)_ Subsection 2(1) (items 4 and 6) of the _Minerals Resource Rent Tax (Cons
   </td>
   <td>
     <div>
-      1 July 2012
+      \[
+        <i>see</i>Note 3]
     </div>
   </td>
 </tr></table>
@@ -4648,7 +4643,7 @@ _(s)_ Subsection 2(1) (items 4–6) of the _Indirect Tax Laws Amendment (Asses
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011; No. 29, 2012; SLI 2012 No. 80; Nos. 14, 39, 47 and 77, 2012</div>
+    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011; No. 29, 2012; SLI 2012 No. 80; No. 77, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4680,9 +4675,83 @@ _(s)_ Subsection 2(1) (items 4–6) of the _Indirect Tax Laws Amendment (Asses
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 108, 2004; Nos. 7, 17 and 60, 2006; No. 45, 2007; No. 60, 2008; Nos. 17 and 102, 2009; Nos. 44 and 103, 2010; Nos. 5 and 119, 2011</div>
+    <div>am. No. 55, 2001; No. 108, 2004; Nos. 7, 17 and 60, 2006; No. 45, 2007; No. 60, 2008; Nos. 17 and 102, 2009; Nos. 44 and 103, 2010; No. 5, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Australian Energy Market Amendment (National Energy Retail Law) Act 2011 (No. 119, 2011)_
+
+The following amendment commences on the time, or the earliest time, that the National Energy Retail Law as set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia starts to apply under an Act of a State or of the Australian Capital Territory or the Northern Territory. However, the amendment may not commence (_see_ subsection 2(1) (item 3)):
+
+## Schedule 2
+
+## 1  After paragraph 2(da) of Schedule 3
+
+Insert:
+
+                   (db)  the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of South Australia;
+
+                   (dc)  if an Act of another State or of the Australian Capital Territory or the Northern Territory applies the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of that other State or of that Territory—the National Energy Retail Law as so applied;
+
+As at 29 June 2012 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012 (No. 14, 2012)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 3
+
+## 1  Paragraph (e) of Schedule 1
+
+After:
+
+_Income Tax Assessment Act 1997_
+
+insert:
+
+_Minerals Resource Rent Tax Act 2012_
+
+The following amendment commences immediately after 1 July 2012:
+
+## Schedule 3
+
+## 90  Paragraph (e) of Schedule 1
+
+After “Part 3‑10”, insert “, 3‑15”.
+
+As at 29 June 2012 the amendments are not incorporated in this compilation.
+
+### Note 4
+
+_Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 1
+
+## 30  Paragraph (e) of Schedule 1
+
+Before “in Schedule 1 to that Act”, insert “or 4‑1”.
+
+As at 29 June 2012 the amendment is not incorporated in this compilation.
+
+### Note 5
+
+_Road Safety Remuneration (Consequential Amendments and Related Provisions) Act 2012 (No. 47, 2012)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 1
+
+## 1  Paragraph (a) of Schedule 1
+
+After “_Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_,”, insert “the _Road Safety Remuneration Act 2012_,”.
+
+As at 29 June 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -5181,6 +5250,8 @@ The amendment made by item 210 applies in relation to decisions made on or aft
 * * *
 
 _Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
+
+The following provision commences on 1 July 2012:
 
 ## Schedule 1
 
