@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00750/Html/46f8b061-a4e7-45f8-9ae7-046b1eef5345_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00399/Html/3f7d1ecd-783a-4ce2-97d8-7e33bf9892ea_files/image001.gif)
 
 # Copyright Act 1968
 
 **Act No. 63 of 1968 as amended**
 
-This compilation was prepared on 15 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 June 2011
+ taking into account amendments up to Act No. 39 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,1751 +20,1749 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[4](#4).            Extension to external Territories
+[4](#4).            Extension to external Territories                                                           1
 
-[5](#5).            Exclusion of Imperial Copyright Act, 1911
+[5](#5).            Exclusion of Imperial Copyright Act, 1911                                         1
 
-[6](#6).            Repeal of Copyright Acts
+[6](#6).            Repeal of Copyright Acts                                                                     1
 
-[7](#7).            Act to bind the Crown
+[7](#7).            Act to bind the Crown                                                                          2
 
-[8](#8).            Copyright not to subsist except by virtue of this Act
+[8](#8).            Copyright not to subsist except by virtue of this Act                           2
 
-[8A](#8A).         Prerogative rights of the Crown in the nature of copyright
+[8A](#8A).         Prerogative rights of the Crown in the nature of copyright                  2
 
-[9](#9).            Operation of other laws
+[9](#9).            Operation of other laws                                                                        2
 
-[9A](#9A).         Application of the _Criminal Code_
+[9A](#9A).         Application of the _Criminal Code_                                                        3
 
 **Part II—Interpretation**
 
-[10](#10).          Interpretation
+[10](#10).          Interpretation                                                                                        4
 
-[10AA](#10AA).    _Non‑infringing copy_ of a sound recording
+[10AA](#10AA).    _Non‑infringing copy_ of a sound recording                                         24
 
-[10AB](#10AB).    _Non‑infringing copy_ of a computer program
+[10AB](#10AB).    _Non‑infringing copy_ of a computer program                                      25
 
-[10AC](#10AC).    _Non‑infringing copy_ of an electronic literary or music item
+[10AC](#10AC).    _Non‑infringing copy_ of an electronic literary or music item                26
 
-[10AD](#10AD).    Accessories to imported articles
+[10AD](#10AD).    Accessories to imported articles                                                         26
 
-[10A](#10A).       Declarations and notices relating to certain bodies and institutions
+[10A](#10A).       Declarations and notices relating to certain bodies and institutions    27
 
-[11](#11).          Residence in a country not affected by temporary absence
+[11](#11).          Residence in a country not affected by temporary absence                 28
 
-[12](#12).          References to Parliament
+[12](#12).          References to Parliament                                                                    28
 
-[13](#13).          Acts comprised in copyright
+[13](#13).          Acts comprised in copyright                                                              28
 
-[14](#14).          Acts done in relation to substantial part of work or other subject‑matter deemed to be done in relation to the whole
+[14](#14).          Acts done in relation to substantial part of work or other subject‑matter deemed to be done in relation to the whole                                                                                                           28
 
-[15](#15).          References to acts done with licence of owner of copyright
+[15](#15).          References to acts done with licence of owner of copyright               29
 
-[16](#16).          References to partial assignment of copyright
+[16](#16).          References to partial assignment of copyright                                    29
 
-[17](#17).          Statutory employment
+[17](#17).          Statutory employment                                                                        29
 
-[18](#18).          Libraries established or conducted for profit
+[18](#18).          Libraries established or conducted for profit                                      29
 
-[19](#19).          References to Copyright Act, 1911
+[19](#19).          References to Copyright Act, 1911                                                    29
 
-[20](#20).          Names under which work is published
+[20](#20).          Names under which work is published                                              30
 
-[21](#21).          Reproduction and copying of works and other subject‑matter
+[21](#21).          Reproduction and copying of works and other subject‑matter           30
 
-[22](#22).          Provisions relating to the making of a work or other subject‑matter
+[22](#22).          Provisions relating to the making of a work or other subject‑matter  31
 
-[23](#23).          Sound recordings and records
+[23](#23).          Sound recordings and records                                                            34
 
-[24](#24).          References to sounds and visual images embodied in an 
- article
+[24](#24).          References to sounds and visual images embodied in an article         34
 
-[25](#25).          Provisions relating to broadcasting
+[25](#25).          Provisions relating to broadcasting                                                    34
 
-[27](#27).          Performance
+[27](#27).          Performance                                                                                       35
 
-[28](#28).          Performance and communication of works or other subject‑matter in the course of educational instruction
+[28](#28).          Performance and communication of works or other subject‑matter in the course of educational instruction            36
 
-[29](#29).          Publication
+[29](#29).          Publication                                                                                         38
 
-[30](#30).          Ownership of copyright for particular purposes
+[30](#30).          Ownership of copyright for particular purposes                                40
 
-[30A](#30A).       Commercial rental arrangement
+[30A](#30A).       Commercial rental arrangement                                                          40
 
 **Part III—Copyright in original literary, dramatic, musical and artistic works** 
 
     **Division 1—Nature, duration and ownership of copyright in works**
 
-[31](#31).          Nature of copyright in original works
+[31](#31).          Nature of copyright in original works                                                42
 
-[32](#32).          Original works in which copyright subsists
+[32](#32).          Original works in which copyright subsists                                       44
 
-[33](#33).          Duration of copyright in original works
+[33](#33).          Duration of copyright in original works                                             44
 
-[34](#34).          Duration of copyright in anonymous and pseudonymous works
+[34](#34).          Duration of copyright in anonymous and pseudonymous works       45
 
-[35](#35).          Ownership of copyright in original works
+[35](#35).          Ownership of copyright in original works                                         45
 
     **Division 2—Infringement of copyright in works**
 
-[36](#36).          Infringement by doing acts comprised in the copyright
+[36](#36).          Infringement by doing acts comprised in the copyright                      48
 
-[37](#37).          Infringement by importation for sale or hire
+[37](#37).          Infringement by importation for sale or hire                                       48
 
-[38](#38).          Infringement by sale and other dealings
+[38](#38).          Infringement by sale and other dealings                                             49
 
-[39](#39).          Infringement by permitting place of public entertainment to be used for performance of work
+[39](#39).          Infringement by permitting place of public entertainment to be used for performance of work                50
 
-[39A](#39A).       Infringing copies made on machines installed in libraries and archives
+[39A](#39A).       Infringing copies made on machines installed in libraries and archives 50
 
-[39B](#39B).       Communication by use of certain facilities
+[39B](#39B).       Communication by use of certain facilities                                         51
 
     **Division 3—Acts not constituting infringements of copyright in works**
 
-[40](#40).          Fair dealing for purpose of research or study
+[40](#40).          Fair dealing for purpose of research or study                                     52
 
-[41](#41).          Fair dealing for purpose of criticism or review
+[41](#41).          Fair dealing for purpose of criticism or review                                  54
 
-[41A](#41A).       Fair dealing for purpose of parody or satire
+[41A](#41A).       Fair dealing for purpose of parody or satire                                       54
 
-[42](#42).          Fair dealing for purpose of reporting news
+[42](#42).          Fair dealing for purpose of reporting news                                        54
 
-[43](#43).          Reproduction for purpose of judicial proceedings or professional advice
+[43](#43).          Reproduction for purpose of judicial proceedings or professional advice                55
 
-[43A](#43A).       Temporary reproductions made in the course of communication
+[43A](#43A).       Temporary reproductions made in the course of communication       55
 
-[43B](#43B).       Temporary reproductions of works as part of a technical process of use
+[43B](#43B).       Temporary reproductions of works as part of a technical process of use 55
 
-[43C](#43C).       Reproducing works in books, newspapers and periodical publications in different form for private use
+[43C](#43C).       Reproducing works in books, newspapers and periodical publications in different form for private use 56
 
-[44](#44).          Inclusion of works in collections for use by places of education
+[44](#44).          Inclusion of works in collections for use by places of education       58
 
-[44A](#44A).       Importation etc  of books
+[44A](#44A).       Importation etc  of books                                                                   58
 
-[44B](#44B).       Reproduction of writing on approved label for containers for chemical product
+[44B](#44B).       Reproduction of writing on approved label for containers for chemical product      61
 
-[44BA](#44BA).    Acts done in relation to certain medicine
+[44BA](#44BA).    Acts done in relation to certain medicine                                            62
 
-[44C](#44C).       Copyright subsisting in accessories etc  to imported articles
+[44C](#44C).       Copyright subsisting in accessories etc  to imported articles              63
 
-[44D](#44D).       Import of non‑infringing copy of sound recording does not infringe copyright in works recorded
+[44D](#44D).       Import of non‑infringing copy of sound recording does not infringe copyright in works recorded         63
 
-[44E](#44E).        Importation and sale etc  of copies of computer programs
+[44E](#44E).        Importation and sale etc  of copies of computer programs                 64
 
-[44F](#44F).        Importation and sale etc  of copies of electronic literary or music items
+[44F](#44F).        Importation and sale etc  of copies of electronic literary or music items 64
 
     **Division 4—Acts not constituting infringements of copyright in literary, dramatic and musical works**
 
-[45](#45).          Reading or recitation in public or for a broadcast
+[45](#45).          Reading or recitation in public or for a broadcast                               66
 
-[46](#46).          Performance at premises where persons reside or sleep
+[46](#46).          Performance at premises where persons reside or sleep                     66
 
-[47](#47).          Reproduction for purpose of broadcasting
+[47](#47).          Reproduction for purpose of broadcasting                                         66
 
-[47AA](#47AA).    Reproduction for the purpose of simulcasting
+[47AA](#47AA).    Reproduction for the purpose of simulcasting                                    68
 
-[47A](#47A).       Sound broadcasts by holders of print disability radio licences
+[47A](#47A).       Sound broadcasts by holders of print disability radio licences           68
 
     **Division 4A—Acts not constituting infringements of copyright in computer programs**
 
-[47AB](#47AB).    Meaning of _computer program_
+[47AB](#47AB).    Meaning of _computer program_                                                         72
 
-[47B](#47B).       Reproduction for normal use or study of computer programs
+[47B](#47B).       Reproduction for normal use or study of computer programs            72
 
-[47C](#47C).       Back‑up copy of computer programs
+[47C](#47C).       Back‑up copy of computer programs                                                 73
 
-[47D](#47D).       Reproducing computer programs to make interoperable products
+[47D](#47D).       Reproducing computer programs to make interoperable products      74
 
-[47E](#47E).        Reproducing computer programs to correct errors
+[47E](#47E).        Reproducing computer programs to correct errors                             75
 
-[47F](#47F).        Reproducing computer programs for security testing
+[47F](#47F).        Reproducing computer programs for security testing                         76
 
-[47G](#47G).       Unauthorised use of copies or information
+[47G](#47G).       Unauthorised use of copies or information                                        77
 
-[47H](#47H).       Agreements excluding operation of certain provisions
+[47H](#47H).       Agreements excluding operation of certain provisions                       77
 
     **Division 4B—Acts not constituting infringements of copyright in artistic works**
 
-[47J](#47J).        Reproducing photograph in different format for private use
+[47J](#47J).        Reproducing photograph in different format for private use              78
 
     **Division 5—Copying of works in libraries or archives**
 
-[48](#48).          Interpretation
+[48](#48).          Interpretation                                                                                      80
 
-[48A](#48A).       Copying by Parliamentary libraries for members of Parliament
+[48A](#48A).       Copying by Parliamentary libraries for members of Parliament         80
 
-[49](#49).          Reproducing and communicating works by libraries and archives for users
+[49](#49).          Reproducing and communicating works by libraries and archives for users            80
 
-[50](#50).          Reproducing and communicating works by libraries or archives for other libraries or archives
+[50](#50).          Reproducing and communicating works by libraries or archives for other libraries or archives               85
 
-[51](#51).          Reproducing and communicating unpublished works in libraries or archives
+[51](#51).          Reproducing and communicating unpublished works in libraries or archives          90
 
-[51AA](#51AA).    Reproducing and communicating works in care of National Archives of Australia
+[51AA](#51AA).    Reproducing and communicating works in care of National Archives of Australia 91
 
-[51A](#51A).       Reproducing and communicating works for preservation and other purposes
+[51A](#51A).       Reproducing and communicating works for preservation and other purposes         92
 
-[51B](#51B).       Making preservation copies of significant works in key cultural institutions’ collections
+[51B](#51B).       Making preservation copies of significant works in key cultural institutions’ collections        94
 
-[52](#52).          Publication of unpublished works kept in libraries or archives
+[52](#52).          Publication of unpublished works kept in libraries or archives          96
 
-[53](#53).          Application of Division to illustrations accompanying articles and other works
+[53](#53).          Application of Division to illustrations accompanying articles and other works      97
 
     **Division 6—Recording of musical works**
 
-[54](#54).          Interpretation
+[54](#54).          Interpretation                                                                                      98
 
-[55](#55).          Conditions upon which manufacturer may make records of musical work
+[55](#55).          Conditions upon which manufacturer may make records of musical work              99
 
-[57](#57).          Provisions relating to royalty where 2 or more works are on the one record
+[57](#57).          Provisions relating to royalty where 2 or more works are on the one record            101
 
-[59](#59).          Conditions upon which manufacturer may include part of a literary or dramatic work in a record of a musical work
+[59](#59).          Conditions upon which manufacturer may include part of a literary or dramatic work in a record of a musical work                                                                                                         101
 
-[60](#60).          Records made partly for retail sale and partly for gratuitous disposal
+[60](#60).          Records made partly for retail sale and partly for gratuitous disposal 103
 
-[61](#61).          Making inquiries in relation to previous records
+[61](#61).          Making inquiries in relation to previous records                              104
 
-[64](#64).          Sections 55 and 59 to be disregarded in determining whether an infringement has been committed by the importation of records
+[64](#64).          Sections 55 and 59 to be disregarded in determining whether an infringement has been committed by the importation of records                                                                                             105
 
     **Division 7—Acts not constituting infringements of copyright in artistic works**
 
-[65](#65).          Sculptures and certain other works in public places
+[65](#65).          Sculptures and certain other works in public places                         106
 
-[66](#66).          Buildings and models of buildings
+[66](#66).          Buildings and models of buildings                                                   106
 
-[67](#67).          Incidental filming or televising of artistic works
+[67](#67).          Incidental filming or televising of artistic works                              106
 
-[68](#68).          Publication of artistic works
+[68](#68).          Publication of artistic works                                                             106
 
-[70](#70).          Reproduction for purpose of including work in television broadcast
+[70](#70).          Reproduction for purpose of including work in television broadcast 107
 
-[72](#72).          Reproduction of part of work in later work
+[72](#72).          Reproduction of part of work in later work                                      108
 
-[73](#73).          Reconstruction of buildings
+[73](#73).          Reconstruction of buildings                                                             108
 
     **Division 8—Designs**
 
-[74](#74).          Corresponding design
+[74](#74).          Corresponding design                                                                      109
 
-[75](#75).          Copyright protection where corresponding design registered
+[75](#75).          Copyright protection where corresponding design registered          109
 
-[76](#76).          False registration of industrial designs under the _Designs Act 2003_
+[76](#76).          False registration of industrial designs under the _Designs Act 2003_ 109
 
-[77](#77).          Application of artistic works as industrial designs without registration of the designs
+[77](#77).          Application of artistic works as industrial designs without registration of the designs             110
 
-[77A](#77A).       Certain reproductions of an artistic work do not infringe copyright
+[77A](#77A).       Certain reproductions of an artistic work do not infringe copyright 112
 
     **Division 9—Works of joint authorship**
 
-[78](#78).          References to all of joint authors
+[78](#78).          References to all of joint authors                                                      114
 
-[79](#79).          References to any one or more of joint authors
+[79](#79).          References to any one or more of joint authors                                114
 
-[80](#80).          References to whichever of joint authors died last
+[80](#80).          References to whichever of joint authors died last                           114
 
-[81](#81).          Works of joint authorship published under pseudonyms
+[81](#81).          Works of joint authorship published under pseudonyms                 114
 
-[82](#82).          Copyright to subsist in joint works without regard to any author who is an unqualified person
+[82](#82).          Copyright to subsist in joint works without regard to any author who is an unqualified person              115
 
-[83](#83).          Inclusion of joint works in collections for use in places of education
+[83](#83).          Inclusion of joint works in collections for use in places of education 115
 
 **Part IV—Copyright in subject‑matter other than works** 
 
     **Division 1—Preliminary**
 
-[84](#84).          Definitions
+[84](#84).          Definitions                                                                                       116
 
     **Division 2—Nature of copyright in subject‑matter other than works**
 
-[85](#85).          Nature of copyright in sound recordings
+[85](#85).          Nature of copyright in sound recordings                                          118
 
-[86](#86).          Nature of copyright in cinematograph films
+[86](#86).          Nature of copyright in cinematograph films                                     118
 
-[87](#87).          Nature of copyright in television broadcasts and sound broadcasts
+[87](#87).          Nature of copyright in television broadcasts and sound broadcasts 119
 
-[88](#88).          Nature of copyright in published editions of works
+[88](#88).          Nature of copyright in published editions of works                         119
 
     **Division 3—Subject‑matter, other than works, in which copyright subsists**
 
-[89](#89).          Sound recordings in which copyright subsists
+[89](#89).          Sound recordings in which copyright subsists                                 120
 
-[90](#90).          Cinematograph films in which copyright subsists
+[90](#90).          Cinematograph films in which copyright subsists                            120
 
-[91](#91).          Television broadcasts and sound broadcasts in which copyright subsists
+[91](#91).          Television broadcasts and sound broadcasts in which copyright subsists                120
 
-[92](#92).          Published editions of works in which copyright subsists
+[92](#92).          Published editions of works in which copyright subsists                121
 
     **Division 4—Duration of copyright in subject‑matter other than works**
 
-[93](#93).          Duration of copyright in sound recordings
+[93](#93).          Duration of copyright in sound recordings                                      122
 
-[94](#94).          Duration of copyright in cinematograph films
+[94](#94).          Duration of copyright in cinematograph films                                  122
 
-[95](#95).          Duration of copyright in television broadcasts and sound broadcasts
+[95](#95).          Duration of copyright in television broadcasts and sound broadcasts 122
 
-[96](#96).          Duration of copyright in published editions of works
+[96](#96).          Duration of copyright in published editions of works                      123
 
     **Division 5—Ownership of copyright in subject‑matter other than works** 
 
         **Subdivision A—Ownership of copyright in subject‑matter other than works**
 
-[97](#97).          Ownership of copyright in sound recordings
+[97](#97).          Ownership of copyright in sound recordings                                   124
 
-[98](#98).          Ownership of copyright in cinematograph films
+[98](#98).          Ownership of copyright in cinematograph films                              124
 
-[99](#99).          Ownership of copyright in television broadcasts and sound broadcasts
+[99](#99).          Ownership of copyright in television broadcasts and sound broadcasts   125
 
-[100](#100).        Ownership of copyright in published editions of works
+[100](#100).        Ownership of copyright in published editions of works                  126
 
         **Subdivision B—Specific provisions relating to the ownership of copyright in pre‑commencement sound recordings of live performances**
 
-[100AA](#100AA).  Application
+[100AA](#100AA).  Application                                                                                       126
 
-[100AB](#100AB).  Definitions
+[100AB](#100AB).  Definitions                                                                                       126
 
-[100AC](#100AC).  Application of sections 100AD and 100AE
+[100AC](#100AC).  Application of sections 100AD and 100AE                                     126
 
-[100AD](#100AD).  Makers of pre‑commencement sound recordings of live performances
+[100AD](#100AD).  Makers of pre‑commencement sound recordings of live performances 127
 
-[100AE](#100AE).   Ownership of pre‑commencement copyright in sound recordings of live performances
+[100AE](#100AE).   Ownership of pre‑commencement copyright in sound recordings of live performances          127
 
-[100AF](#100AF).   Former owners may continue to do any act in relation to the copyright
+[100AF](#100AF).   Former owners may continue to do any act in relation to the copyright 128
 
-[100AG](#100AG).  Actions by new owners of copyright
+[100AG](#100AG).  Actions by new owners of copyright                                               129
 
-[100AH](#100AH).  References to the owner of the copyright in a sound recording
+[100AH](#100AH).  References to the owner of the copyright in a sound recording        129
 
     **Division 6—Infringement of copyright in subject‑matter other than works**
 
-[100A](#100A).     Interpretation
+[100A](#100A).     Interpretation                                                                                    131
 
-[101](#101).        Infringement by doing acts comprised in copyright
+[101](#101).        Infringement by doing acts comprised in copyright                         131
 
-[102](#102).        Infringement by importation for sale or hire
+[102](#102).        Infringement by importation for sale or hire                                     132
 
-[103](#103).        Infringement by sale and other dealings
+[103](#103).        Infringement by sale and other dealings                                           132
 
-[103A](#103A).     Fair dealing for purpose of criticism or review
+[103A](#103A).     Fair dealing for purpose of criticism or review                                133
 
-[103AA](#103AA).  Fair dealing for purpose of parody or satire
+[103AA](#103AA).  Fair dealing for purpose of parody or satire                                     133
 
-[103B](#103B).     Fair dealing for purpose of reporting news
+[103B](#103B).     Fair dealing for purpose of reporting news                                      133
 
-[103C](#103C).     Fair dealing for purpose of research or study
+[103C](#103C).     Fair dealing for purpose of research or study                                   134
 
-[104](#104).        Acts done for purposes of judicial proceeding
+[104](#104).        Acts done for purposes of judicial proceeding                                 134
 
-[104A](#104A).     Acts done by Parliamentary libraries for members of Parliament
+[104A](#104A).     Acts done by Parliamentary libraries for members of Parliament     135
 
-[104B](#104B).     Infringing copies made on machines installed in libraries and archives
+[104B](#104B).     Infringing copies made on machines installed in libraries and archives 135
 
-[105](#105).        Copyright in certain recordings not infringed by causing recordings to be heard in public or broadcast
+[105](#105).        Copyright in certain recordings not infringed by causing recordings to be heard in public or broadcast  135
 
-[106](#106).        Causing sound recording to be heard at guest house or club
+[106](#106).        Causing sound recording to be heard at guest house or club            136
 
-[107](#107).        Making of a copy of the sound recording for purpose of broadcasting
+[107](#107).        Making of a copy of the sound recording for purpose of broadcasting 136
 
-[108](#108).        Copyright in published recording not infringed by public performance if equitable remuneration paid
+[108](#108).        Copyright in published recording not infringed by public performance if equitable remuneration paid    138
 
-[109](#109).        Copyright in published sound recording not infringed by broadcast in certain circumstances
+[109](#109).        Copyright in published sound recording not infringed by broadcast in certain circumstances  139
 
-[109A](#109A).     Copying sound recordings for private and domestic use
+[109A](#109A).     Copying sound recordings for private and domestic use                  140
 
-[110](#110).        Provisions relating to cinematograph films
+[110](#110).        Provisions relating to cinematograph films                                      141
 
-[110AA](#110AA).  Copying cinematograph film in different format for private use
+[110AA](#110AA).  Copying cinematograph film in different format for private use       142
 
-[110A](#110A).     Copying and communicating unpublished sound recordings and cinematograph films in libraries or archives
+[110A](#110A).     Copying and communicating unpublished sound recordings and cinematograph films in libraries or archives        143
 
-[110B](#110B).     Copying and communicating sound recordings and cinematograph films for preservation and other purposes
+[110B](#110B).     Copying and communicating sound recordings and cinematograph films for preservation and other purposes       144
 
-[110BA](#110BA).  Making preservation copies of significant recordings and films in key cultural institutions’ collections
+[110BA](#110BA).  Making preservation copies of significant recordings and films in key cultural institutions’ collections  146
 
-[110C](#110C).     Making of a copy of a sound recording or cinematograph film for the purpose of simulcasting
+[110C](#110C).     Making of a copy of a sound recording or cinematograph film for the purpose of simulcasting              148
 
-[111](#111).        Recording broadcasts for replaying at more convenient time
+[111](#111).        Recording broadcasts for replaying at more convenient time           148
 
-[111A](#111A).     Temporary copy made in the course of communication
+[111A](#111A).     Temporary copy made in the course of communication                   149
 
-[111B](#111B).     Temporary copy of subject‑matter as part of a technical process of use
+[111B](#111B).     Temporary copy of subject‑matter as part of a technical process of use 150
 
-[112](#112).        Reproductions of editions of work
+[112](#112).        Reproductions of editions of work                                                   150
 
-[112A](#112A).     Importation and sale etc  of books
+[112A](#112A).     Importation and sale etc  of books                                                    151
 
-[112AA](#112AA).  Making preservation copies of significant published editions in key cultural institutions’ collections
+[112AA](#112AA).  Making preservation copies of significant published editions in key cultural institutions’ collections      154
 
-[112B](#112B).     Reproduction of writing on approved label for containers for chemical product
+[112B](#112B).     Reproduction of writing on approved label for containers for chemical product      155
 
-[112C](#112C).     Copyright subsisting in accessories etc  to imported articles
+[112C](#112C).     Copyright subsisting in accessories etc  to imported articles            155
 
-[112D](#112D).     Import of non‑infringing copy of a sound recording does not infringe copyright in the sound recording
+[112D](#112D).     Import of non‑infringing copy of a sound recording does not infringe copyright in the sound recording                156
 
-[112DA](#112DA).  Importation and sale etc  of copies of electronic literary or music items
+[112DA](#112DA).  Importation and sale etc  of copies of electronic literary or music items 157
 
-[112E](#112E).      Communication by use of certain facilities
+[112E](#112E).      Communication by use of certain facilities                                       157
 
     **Division 7—Miscellaneous**
 
-[113](#113).        Copyrights to subsist independently
+[113](#113).        Copyrights to subsist independently                                                159
 
-[113A](#113A).     Agents may act on behalf of groups of performers
+[113A](#113A).     Agents may act on behalf of groups of performers                          159
 
-[113B](#113B).     Consent to the use of a sound recording of a live performance
+[113B](#113B).     Consent to the use of a sound recording of a live performance        159
 
-[113C](#113C).     Use of published sound recordings when owners cannot be found etc 
+[113C](#113C).     Use of published sound recordings when owners cannot be found etc  160
 
 **Part V—Remedies and offences** 
 
     **Division 1—Preliminary**
 
-[114](#114).        Interpretation
+[114](#114).        Interpretation                                                                                    161
 
     **Division 2—Actions by owner of copyright**
 
-[115](#115).        Actions for infringement
+[115](#115).        Actions for infringement                                                                  162
 
-[116](#116).        Rights of owner of copyright in respect of infringing copies
+[116](#116).        Rights of owner of copyright in respect of infringing copies           164
 
-116AAA  Compensation for acquisition of property
+[116AAACompensation for acquisition of property](#116AAACompensation for acquisition of property).                                       165
 
     **Division 2AA—Limitation on remedies available against carriage service providers** 
 
         **Subdivision A—Preliminary**
 
-[116AA](#116AA).  Purpose of this Division
+[116AA](#116AA).  Purpose of this Division                                                                  167
 
-[116AB](#116AB).  Definitions
+[116AB](#116AB).  Definitions                                                                                       167
 
         **Subdivision B—Relevant activities**
 
-[116AC](#116AC).  Category A activity
+[116AC](#116AC).  Category A activity                                                                          168
 
-[116AD](#116AD).  Category B activity
+[116AD](#116AD).  Category B activity                                                                           168
 
-[116AE](#116AE).   Category C activity
+[116AE](#116AE).   Category C activity                                                                           168
 
-[116AF](#116AF).   Category D activity
+[116AF](#116AF).   Category D activity                                                                          168
 
         **Subdivision C—Limitations on remedies**
 
-[116AG](#116AG).  Limitations on remedies
+[116AG](#116AG).  Limitations on remedies                                                                   169
 
         **Subdivision D—Conditions**
 
-[116AH](#116AH).  Conditions
+[116AH](#116AH).  Conditions                                                                                        170
 
-[116AI](#116AI).    Evidence of compliance with conditions
+[116AI](#116AI).    Evidence of compliance with conditions                                          174
 
         **Subdivision E—Regulations**
 
-[116AJ](#116AJ).   Regulations
+[116AJ](#116AJ).   Regulations                                                                                      174
 
     **Division 2A—Actions in relation to technological protection measures and electronic rights management information** 
 
         **Subdivision A—Technological protection measures**
 
-[116AK](#116AK).  Definitions
+[116AK](#116AK).  Definitions                                                                                       175
 
-[116AL](#116AL).   Interaction of this Subdivision with Part VAA
+[116AL](#116AL).   Interaction of this Subdivision with Part VAA                                175
 
-[116AM](#116AM). Geographical application
+[116AM](#116AM). Geographical application                                                                  175
 
-[116AN](#116AN).  Circumventing an access control technological protection measure
+[116AN](#116AN).  Circumventing an access control technological protection measure  175
 
-[116AO](#116AO).  Manufacturing etc  a circumvention device for a technological protection measure
+[116AO](#116AO).  Manufacturing etc  a circumvention device for a technological protection measure  179
 
-[116AP](#116AP).   Providing etc  a circumvention service for a technological protection measure
+[116AP](#116AP).   Providing etc  a circumvention service for a technological protection measure         182
 
-[116AQ](#116AQ).  Remedies in actions under this Subdivision
+[116AQ](#116AQ).  Remedies in actions under this Subdivision                                     185
 
         **Subdivision B—Electronic rights management information**
 
-[116B](#116B).     Removal or alteration of electronic rights management information
+[116B](#116B).     Removal or alteration of electronic rights management information 186
 
-[116C](#116C).     Distribution to the public etc  of works whose electronic rights management information has been removed or altered
+[116C](#116C).     Distribution to the public etc  of works whose electronic rights management information has been removed or altered                                                                                                         186
 
-[116CA](#116CA).  Distribution and importation of electronic rights management information that has been removed or altered
+[116CA](#116CA).  Distribution and importation of electronic rights management information that has been removed or altered           187
 
-[116CB](#116CB).   Exception relating to national security and law enforcement
+[116CB](#116CB).   Exception relating to national security and law enforcement            188
 
-[116D](#116D).     Remedies in actions under this Subdivision
+[116D](#116D).     Remedies in actions under this Subdivision                                     189
 
     **Division 3—Proceedings where copyright is subject to exclusive licence**
 
-[117](#117).        Interpretation
+[117](#117).        Interpretation                                                                                    190
 
-[118](#118).        Application
+[118](#118).        Application                                                                                       190
 
-[119](#119).        Rights of exclusive licensee
+[119](#119).        Rights of exclusive licensee                                                             190
 
-[120](#120).        Joinder of owner or exclusive licensee as a party
+[120](#120).        Joinder of owner or exclusive licensee as a party                             191
 
-[121](#121).        Defences available against exclusive licensee
+[121](#121).        Defences available against exclusive licensee                                   191
 
-[122](#122).        Assessment of damages where exclusive licence granted
+[122](#122).        Assessment of damages where exclusive licence granted                191
 
-[123](#123).        Apportionment of profits between owner and exclusive licensee
+[123](#123).        Apportionment of profits between owner and exclusive licensee     192
 
-[124](#124).        Separate actions in relation to the same infringement
+[124](#124).        Separate actions in relation to the same infringement                       192
 
-[125](#125).        Liability for costs
+[125](#125).        Liability for costs                                                                             193
 
     **Division 4—Proof of facts in civil actions**
 
-[126](#126).        Presumptions as to subsistence and ownership of copyright
+[126](#126).        Presumptions as to subsistence and ownership of copyright           194
 
-[126A](#126A).     Presumptions relating to subsistence of copyright
+[126A](#126A).     Presumptions relating to subsistence of copyright                           194
 
-[126B](#126B).     Presumptions relating to ownership of copyright
+[126B](#126B).     Presumptions relating to ownership of copyright                             195
 
-[127](#127).        Presumptions in relation to authorship of work
+[127](#127).        Presumptions in relation to authorship of work                               196
 
-[128](#128).        Presumptions in relation to publisher of work
+[128](#128).        Presumptions in relation to publisher of work                                 197
 
-[129](#129).        Presumptions where author has died
+[129](#129).        Presumptions where author has died                                                198
 
-[129A](#129A).     Presumptions relating to computer programs
+[129A](#129A).     Presumptions relating to computer programs                                   198
 
-[130](#130).        Presumptions relating to sound recordings
+[130](#130).        Presumptions relating to sound recordings                                      199
 
-[130A](#130A).     Acts relating to imported copies of sound recordings
+[130A](#130A).     Acts relating to imported copies of sound recordings                      200
 
-[130B](#130B).     Acts relating to imported copies of computer programs
+[130B](#130B).     Acts relating to imported copies of computer programs                   200
 
-[130C](#130C).     Acts relating to imported copies of electronic literary or music items
+[130C](#130C).     Acts relating to imported copies of electronic literary or music items 201
 
-[131](#131).        Presumptions relating to films
+[131](#131).        Presumptions relating to films                                                          201
 
     **Division 4A—Jurisdiction and appeals**
 
-[131A](#131A).     Exercise of jurisdiction
+[131A](#131A).     Exercise of jurisdiction                                                                     203
 
-[131B](#131B).     Appeals
+[131B](#131B).     Appeals                                                                                            203
 
-[131C](#131C).     Jurisdiction of Federal Court of Australia
+[131C](#131C).     Jurisdiction of Federal Court of Australia                                        203
 
-[131D](#131D).     Jurisdiction of Federal Magistrates Court
+[131D](#131D).     Jurisdiction of Federal Magistrates Court                                        203
 
     **Division 5—Offences and summary proceedings** 
 
         **Subdivision A—Preliminary**
 
-[132AA](#132AA).  Definitions
+[132AA](#132AA).  Definitions                                                                                       204
 
-[132AB](#132AB).  Geographical application
+[132AB](#132AB).  Geographical application                                                                  204
 
         **Subdivision B—Substantial infringement on a commercial scale**
 
-[132AC](#132AC).  Commercial‑scale infringement prejudicing copyright owner
+[132AC](#132AC).  Commercial‑scale infringement prejudicing copyright owner          205
 
         **Subdivision C—Infringing copies**
 
-[132AD](#132AD).  Making infringing copy commercially
+[132AD](#132AD).  Making infringing copy commercially                                             207
 
-[132AE](#132AE).   Selling or hiring out infringing copy
+[132AE](#132AE).   Selling or hiring out infringing copy                                                208
 
-[132AF](#132AF).   Offering infringing copy for sale or hire
+[132AF](#132AF).   Offering infringing copy for sale or hire                                          210
 
-[132AG](#132AG).  Exhibiting infringing copy in public commercially
+[132AG](#132AG).  Exhibiting infringing copy in public commercially                           212
 
-[132AH](#132AH).  Importing infringing copy commercially
+[132AH](#132AH).  Importing infringing copy commercially                                          214
 
-[132AI](#132AI).    Distributing infringing copy
+[132AI](#132AI).    Distributing infringing copy                                                             216
 
-[132AJ](#132AJ).   Possessing infringing copy for commerce
+[132AJ](#132AJ).   Possessing infringing copy for commerce                                       218
 
-[132AK](#132AK).  Aggravated offence—work etc  converted to digital form
+[132AK](#132AK).  Aggravated offence—work etc  converted to digital form                220
 
-[132AL](#132AL).   Making or possessing device for making infringing copy
+[132AL](#132AL).   Making or possessing device for making infringing copy               221
 
-[132AM](#132AM). Advertising supply of infringing copy
+[132AM](#132AM). Advertising supply of infringing copy                                             223
 
         **Subdivision D—Airing of works, sound recordings and films**
 
-[132AN](#132AN).  Causing work to be performed publicly
+[132AN](#132AN).  Causing work to be performed publicly                                           223
 
-[132AO](#132AO).  Causing recording or film to be heard or seen in public
+[132AO](#132AO).  Causing recording or film to be heard or seen in public                   224
 
         **Subdivision E—Technological protection measures**
 
-132APA Definitions
+[132APA Definitions](#132APA Definitions).                                                                                      225
 
-132APB Interaction of this Subdivision with Part VAA
+[132APB Interaction of this Subdivision with Part VAA](#132APB Interaction of this Subdivision with Part VAA).                               226
 
-132APC Circumventing an access control technological protection measure
+[132APC Circumventing an access control technological protection measure](#132APC Circumventing an access control technological protection measure). 226
 
-[132APD Manufacturing etc](#132APD Manufacturing etc). a circumvention device for a technological protection measure
+[132APD Manufacturing etc](#132APD Manufacturing etc). a circumvention device for a technological protection measure  230
 
-[132APE Providing etc](#132APE Providing etc). a circumvention service for a technological protection measure
+[132APE Providing etc](#132APE Providing etc). a circumvention service for a technological protection measure         234
 
         **Subdivision F—Electronic rights management information**
 
-[132AQ](#132AQ).  Removing or altering electronic rights management information
+[132AQ](#132AQ).  Removing or altering electronic rights management information      238
 
-[132AR](#132AR).  Distributing, importing or communicating copies after removal or alteration of electronic rights management information
+[132AR](#132AR).  Distributing, importing or communicating copies after removal or alteration of electronic rights management information                                                                                                         240
 
-[132AS](#132AS).   Distributing or importing electronic rights management information
+[132AS](#132AS).   Distributing or importing electronic rights management information 242
 
-[132AT](#132AT).   Defences
+[132AT](#132AT).   Defences                                                                                          245
 
         **Subdivision G—Evidence**
 
-[132AU](#132AU).  Prosecution to prove profit
+[132AU](#132AU).  Prosecution to prove profit                                                               246
 
-[132A](#132A).     Presumptions in relation to subsistence and ownership of copyright
+[132A](#132A).     Presumptions in relation to subsistence and ownership of copyright 246
 
-132AAA  Presumptions relating to computer programs
+[132AAAPresumptions relating to computer programs](#132AAAPresumptions relating to computer programs).                                  247
 
-[132B](#132B).     Presumptions relating to sound recordings
+[132B](#132B).     Presumptions relating to sound recordings                                      248
 
-[132C](#132C).     Presumptions relating to films
+[132C](#132C).     Presumptions relating to films                                                          249
 
         **Subdivision H—Extra court orders**
 
-[133](#133).        Destruction or delivery up of infringing copies etc 
+[133](#133).        Destruction or delivery up of infringing copies etc                          250
 
         **Subdivision I—Procedure and jurisdiction**
 
-[133A](#133A).     Courts in which offences may be prosecuted
+[133A](#133A).     Courts in which offences may be prosecuted                                   251
 
-[133B](#133B).     Infringement notices
+[133B](#133B).     Infringement notices                                                                         251
 
     **Division 6—Miscellaneous**
 
-[134](#134).        Limitation of actions in respect of infringement of copyright
+[134](#134).        Limitation of actions in respect of infringement of copyright           252
 
-[134A](#134A).     Affidavit evidence
+[134A](#134A).     Affidavit evidence                                                                            252
 
     **Division 7—Seizure of imported copies of copyright material**
 
-[134B](#134B).     Interpretation
+[134B](#134B).     Interpretation                                                                                    254
 
-[135](#135).        Restriction of importation of copies of works etc 
+[135](#135).        Restriction of importation of copies of works etc                             255
 
-[135AA](#135AA).  Decision not to seize unless expenses are covered
+[135AA](#135AA).  Decision not to seize unless expenses are covered                           257
 
-[135AB](#135AB).  Secure storage of seized copies
+[135AB](#135AB).  Secure storage of seized copies                                                        257
 
-[135AC](#135AC).  Notice of seizure
+[135AC](#135AC).  Notice of seizure                                                                              257
 
-[135AD](#135AD).  Inspection, release etc  of seized copies
+[135AD](#135AD).  Inspection, release etc  of seized copies                                            259
 
-[135AE](#135AE).   Forfeiture of seized copies by consent
+[135AE](#135AE).   Forfeiture of seized copies by consent                                             260
 
-[135AF](#135AF).   Compulsory release of seized copies to the importer
+[135AF](#135AF).   Compulsory release of seized copies to the importer                        260
 
-[135AG](#135AG).  Provision relating to actions for infringement of copyright
+[135AG](#135AG).  Provision relating to actions for infringement of copyright              261
 
-[135AH](#135AH).  Retention of control of seized copies
+[135AH](#135AH).  Retention of control of seized copies                                                262
 
-[135AI](#135AI).    Disposal of seized copies ordered to be forfeited
+[135AI](#135AI).    Disposal of seized copies ordered to be forfeited                             262
 
-[135AJ](#135AJ).   Failure to meet Commonwealth’s expenses of seizure
+[135AJ](#135AJ).   Failure to meet Commonwealth’s expenses of seizure                     262
 
-[135AK](#135AK).  Immunity of the Commonwealth
+[135AK](#135AK).  Immunity of the Commonwealth                                                      263
 
 **Part VAA—Unauthorised access to encoded broadcasts** 
 
     **Division 1—Preliminary**
 
-[135AL](#135AL).   Definitions
+[135AL](#135AL).   Definitions                                                                                       264
 
-[135AM](#135AM). Counterclaim
+[135AM](#135AM). Counterclaim                                                                                    265
 
-[135AN](#135AN).  This Part does not apply to law enforcement activity etc 
+[135AN](#135AN).  This Part does not apply to law enforcement activity etc                  265
 
     **Division 2—Actions** 
 
-        **Subdivision A—Actions relating to unauthorised decoders** 
+        **Subdivision A—Actions relating to unauthorised decoders**
 
-135AOA  Making or dealing with unauthorised decoder
+[135AOAMaking or dealing with unauthorised decoder](#135AOAMaking or dealing with unauthorised decoder).                                266
 
-        **Subdivision B—Actions relating to decoders for subscription broadcasts** 
+        **Subdivision B—Actions relating to decoders for subscription broadcasts**
 
-135AOB  Making decoder available online
+[135AOBMaking decoder available online](#135AOBMaking decoder available online).                                                     267
 
-        **Subdivision C—Actions for unauthorised access to encoded broadcasts** 
+        **Subdivision C—Actions for unauthorised access to encoded broadcasts**
 
-135AOC  Causing unauthorised access
+[135AOCCausing unauthorised access](#135AOCCausing unauthorised access).                                                           268
 
-135AOD  Unauthorised commercial use of subscription broadcast
+[135AODUnauthorised commercial use of subscription broadcast](#135AODUnauthorised commercial use of subscription broadcast).                 269
 
-        **Subdivision D—Court orders** 
+        **Subdivision D—Court orders**
 
-135AOE Relief
+[135AOE Relief](#135AOE Relief).                                                                                               270
 
-135AOF Destruction of decoder
+[135AOF Destruction of decoder](#135AOF Destruction of decoder).                                                                    270
 
         **Subdivision E—Jurisdiction and appeals**
 
-[135AP](#135AP).   Exercise of jurisdiction
+[135AP](#135AP).   Exercise of jurisdiction                                                                     270
 
-[135AQ](#135AQ).  Appeals
+[135AQ](#135AQ).  Appeals                                                                                            270
 
-[135AR](#135AR).  Jurisdiction of Federal Court of Australia
+[135AR](#135AR).  Jurisdiction of Federal Court of Australia                                        271
 
-[135AS](#135AS).   Jurisdiction of Federal Magistrates Court
+[135AS](#135AS).   Jurisdiction of Federal Magistrates Court                                        271
 
     **Division 3—Offences** 
 
         **Subdivision A—Offences**
 
-135ASA Making unauthorised decoder
+[135ASA Making unauthorised decoder](#135ASA Making unauthorised decoder).                                                         272
 
-135ASB Selling or hiring unauthorised decoder
+[135ASB Selling or hiring unauthorised decoder](#135ASB Selling or hiring unauthorised decoder).                                            272
 
-135ASC Offering unauthorised decoder for sale or hire
+[135ASC Offering unauthorised decoder for sale or hire](#135ASC Offering unauthorised decoder for sale or hire).                                272
 
-135ASD Commercially exhibiting unauthorised decoder in public
+[135ASD Commercially exhibiting unauthorised decoder in public](#135ASD Commercially exhibiting unauthorised decoder in public).                273
 
-135ASE Importing unauthorised decoder commercially
+[135ASE Importing unauthorised decoder commercially](#135ASE Importing unauthorised decoder commercially).                                274
 
-135ASF Distributing unauthorised decoder
+[135ASF Distributing unauthorised decoder](#135ASF Distributing unauthorised decoder).                                                  274
 
-135ASG Making unauthorised decoder available online
+[135ASG Making unauthorised decoder available online](#135ASG Making unauthorised decoder available online).                                275
 
-135ASH Making decoder available online for subscription broadcast
+[135ASH Making decoder available online for subscription broadcast](#135ASH Making decoder available online for subscription broadcast).           275
 
-[135ASI](#135ASI). Unauthorised access to subscription broadcast etc 
+[135ASI](#135ASI). Unauthorised access to subscription broadcast etc                           276
 
-[135ASJ](#135ASJ). Causing unauthorised access to encoded broadcast etc 
+[135ASJ](#135ASJ). Causing unauthorised access to encoded broadcast etc                    277
 
-        **Subdivision B—Prosecutions** 
+        **Subdivision B—Prosecutions**
 
-135ATA Courts in which offences may be prosecuted
+[135ATA Courts in which offences may be prosecuted](#135ATA Courts in which offences may be prosecuted).                                  278
 
         **Subdivision C—Further orders by court**
 
-[135AU](#135AU).  Destruction etc  of unauthorised decoders
+[135AU](#135AU).  Destruction etc  of unauthorised decoders                                        279
 
 **Part VA—Copying and communication of broadcasts by educational and other institutions** 
 
     **Division 1—Preliminary**
 
-[135A](#135A).     Interpretation
+[135A](#135A).     Interpretation                                                                                    280
 
-[135B](#135B).     Copies and communications of broadcasts
+[135B](#135B).     Copies and communications of broadcasts                                       281
 
-[135C](#135C).     Extended operation of this Part
+[135C](#135C).     Extended operation of this Part                                                        281
 
-[135D](#135D).     Operation of collecting society rules
+[135D](#135D).     Operation of collecting society rules                                                282
 
     **Division 2—Copying and communication of broadcasts**
 
-[135E](#135E).      Copying and communication of broadcasts by educational institutions etc 
+[135E](#135E).      Copying and communication of broadcasts by educational institutions etc               283
 
-[135F](#135F).      Making and communication of preview copies
+[135F](#135F).      Making and communication of preview copies                                284
 
-[135G](#135G).     Remuneration notices
+[135G](#135G).     Remuneration notices                                                                       286
 
-[135H](#135H).     Records notices
+[135H](#135H).     Records notices                                                                                287
 
-[135J](#135J).      Sampling notices
+[135J](#135J).      Sampling notices                                                                              288
 
-135JAA Determination of questions relating to this Division or the collecting society’s rules
+135JAA Determination of questions relating to this Division or the collecting society’s rules               290
 
-[135JA](#135JA).   Agreed notice
+[135JA](#135JA).   Agreed notice                                                                                   291
 
-[135K](#135K).     Marking and record keeping requirements
+[135K](#135K).     Marking and record keeping requirements                                       293
 
-[135KA](#135KA).  Notice requirements in respect of communications
+[135KA](#135KA).  Notice requirements in respect of communications                          294
 
-[135L](#135L).      Inspection of records etc 
+[135L](#135L).      Inspection of records etc                                                                  295
 
-[135M](#135M).    Revocation of remuneration notice
+[135M](#135M).    Revocation of remuneration notice                                                   296
 
-[135N](#135N).     Request for payment of equitable remuneration
+[135N](#135N).     Request for payment of equitable remuneration                               296
 
     **Division 3—The collecting society**
 
-[135P](#135P).      Declaration of the collecting society
+[135P](#135P).      Declaration of the collecting society                                                 297
 
-[135Q](#135Q).     Revocation of declaration
+[135Q](#135Q).     Revocation of declaration                                                                 298
 
-[135R](#135R).     Annual report and accounts
+[135R](#135R).     Annual report and accounts                                                              299
 
-[135S](#135S).      Amendment of rules
+[135S](#135S).      Amendment of rules                                                                         299
 
-[135SA](#135SA).   Applying to Tribunal for review of distribution arrangement
+[135SA](#135SA).   Applying to Tribunal for review of distribution arrangement           300
 
     **Division 4—Interim copying**
 
-[135T](#135T).      Appointment of notice holder
+[135T](#135T).      Appointment of notice holder                                                           301
 
-[135U](#135U).     Copying before declaration of collecting society
+[135U](#135U).     Copying before declaration of collecting society                              301
 
-[135V](#135V).     Preview copies
+[135V](#135V).     Preview copies                                                                                 302
 
-[135W](#135W).    Notices by administering bodies
+[135W](#135W).    Notices by administering bodies                                                      302
 
-[135X](#135X).     Marking and record keeping requirements
+[135X](#135X).     Marking and record keeping requirements                                       303
 
-[135Y](#135Y).     Effect of declaration of collecting society
+[135Y](#135Y).     Effect of declaration of collecting society                                         303
 
     **Division 5—Miscellaneous**
 
-[135Z](#135Z).      Relevant right holder may authorise copying etc 
+[135Z](#135Z).      Relevant right holder may authorise copying etc                              304
 
-[135ZA](#135ZA).   Copyright not to vest in copier
+[135ZA](#135ZA).   Copyright not to vest in copier                                                         304
 
 **Part VB—Reproducing and communicating works etc. by educational and other institutions** 
 
     **Division 1—Preliminary**
 
-[135ZB](#135ZB).   Interpretation
+[135ZB](#135ZB).   Interpretation                                                                                    305
 
-[135ZC](#135ZC).   Eligible items and photographic versions
+[135ZC](#135ZC).   Eligible items and photographic versions                                         306
 
-[135ZE](#135ZE).   Part does not apply to computer programs
+[135ZE](#135ZE).   Part does not apply to computer programs                                       307
 
-[135ZF](#135ZF).   Operation of collecting society rules
+[135ZF](#135ZF).   Operation of collecting society rules                                                307
 
-135ZFA Licensed communications
+[135ZFA Licensed communications](#135ZFA Licensed communications).                                                               307
 
     **Division 2—Reproduction by educational institutions of works that are in hardcopy form**
 
-135ZGA Application of Division
+[135ZGA Application of Division](#135ZGA Application of Division).                                                                   308
 
-[135ZG](#135ZG).   Multiple reproduction of insubstantial parts of works that are in hardcopy form
+[135ZG](#135ZG).   Multiple reproduction of insubstantial parts of works that are in hardcopy form     308
 
-[135ZH](#135ZH).   Copying of printed published editions by educational institutions
+[135ZH](#135ZH).   Copying of printed published editions by educational institutions   309
 
-[135ZJ](#135ZJ).    Multiple reproduction of printed periodical articles by educational institutions
+[135ZJ](#135ZJ).    Multiple reproduction of printed periodical articles by educational institutions        309
 
-[135ZK](#135ZK).   Multiple reproduction of works published in printed anthologies
+[135ZK](#135ZK).   Multiple reproduction of works published in printed anthologies    310
 
-[135ZL](#135ZL).   Multiple reproduction of works that are in hardcopy form by educational institutions
+[135ZL](#135ZL).   Multiple reproduction of works that are in hardcopy form by educational institutions             310
 
-[135ZM](#135ZM).  Application of Division to certain illustrations that are in hardcopy form
+[135ZM](#135ZM).  Application of Division to certain illustrations that are in hardcopy form 311
 
-    **Division 2A—Reproduction and communication of works that are in electronic form** 
+    **Division 2A—Reproduction and communication of works that are in electronic form**
 
-135ZMA  Application of Division
+[135ZMAApplication of Division](#135ZMAApplication of Division).                                                                   313
 
-135ZMB  Multiple reproduction and communication of insubstantial parts of works that are in electronic form
+[135ZMBMultiple reproduction and communication of insubstantial  parts of works that are in electronic form](#135ZMBMultiple reproduction and communication of insubstantial  parts of works that are in electronic form).                                        313
 
-135ZMC  Multiple reproduction and communication of periodical articles that are in electronic form by education institutions
+[135ZMCMultiple reproduction and communication of periodical  articles that are in electronic form by education institutions](#135ZMCMultiple reproduction and communication of periodical  articles that are in electronic form by education institutions).             315
 
-135ZMD  Multiple reproduction and communication of works that are in electronic form by educational institutions
+[135ZMDMultiple reproduction and communication of works that are  in electronic form by educational institutions](#135ZMDMultiple reproduction and communication of works that are  in electronic form by educational institutions).                                  315
 
-135ZMDA  Reproduction and communication of works from electronic anthologies by educational institutions
+[135ZMDAReproduction and communication of works from electronic  anthologies by educational institutions](#135ZMDAReproduction and communication of works from electronic  anthologies by educational institutions).                                            316
 
-135ZME Application of Division to certain illustrations in electronic form
+[135ZME Application of Division to certain illustrations in electronic form](#135ZME Application of Division to certain illustrations in electronic form).   317
 
     **Division 3—Reproduction and communication of works by institutions assisting persons with a print disability**
 
-[135ZN](#135ZN).   Copying published editions by institutions assisting persons with a print disability
+[135ZN](#135ZN).   Copying published editions by institutions assisting persons with a print disability                319
 
-[135ZP](#135ZP).   Multiple reproduction and communication of works by institutions assisting persons with a print disability
+[135ZP](#135ZP).   Multiple reproduction and communication of works by institutions assisting persons with a print disability          319
 
-[135ZQ](#135ZQ).   Making of relevant reproductions and relevant communications by institutions assisting persons with a print disability
+[135ZQ](#135ZQ).   Making of relevant reproductions and relevant communications by institutions assisting persons with a print disability                                                                                                         321
 
     **Division 4—Reproduction and communication of works etc. by institutions assisting persons with an intellectual disability**
 
-[135ZR](#135ZR).   Copying of published editions by institutions assisting persons with an intellectual disability
+[135ZR](#135ZR).   Copying of published editions by institutions assisting persons with an intellectual disability 324
 
-[135ZS](#135ZS).   Copying and communication of eligible items by institutions assisting persons with an intellectual disability
+[135ZS](#135ZS).   Copying and communication of eligible items by institutions assisting persons with an intellectual disability         324
 
-[135ZT](#135ZT).   Making of copies etc  for use in making copies or communications for a person with an intellectual disability
+[135ZT](#135ZT).   Making of copies etc  for use in making copies or communications for a person with an intellectual disability       325
 
     **Division 5—Equitable remuneration**
 
-[135ZU](#135ZU).   Remuneration notices
+[135ZU](#135ZU).   Remuneration notices                                                                       327
 
-[135ZV](#135ZV).   Records notices
+[135ZV](#135ZV).   Records notices                                                                                327
 
-[135ZW](#135ZW).  Sampling notices
+[135ZW](#135ZW).  Sampling notices                                                                              328
 
-135ZWAA  Determination of questions relating to this Part or a collecting society’s rules
+[135ZWAADetermination of questions relating to this Part or a  collecting society’s rules](#135ZWAADetermination of questions relating to this Part or a  collecting society’s rules).                                                                 329
 
-135ZWA  Electronic use notices
+[135ZWAElectronic use notices](#135ZWAElectronic use notices).                                                                      330
 
-[135ZX](#135ZX).   Records notices and sampling notices: marking and record‑keeping requirements
+[135ZX](#135ZX).   Records notices and sampling notices: marking and record‑keeping requirements   332
 
-[135ZXA Electronic use notices: notice requirements etc](#135ZXA Electronic use notices: notice requirements etc).
+[135ZXA Electronic use notices: notice requirements etc](#135ZXA Electronic use notices: notice requirements etc).                                333
 
-[135ZY](#135ZY).   Inspection of records etc 
+[135ZY](#135ZY).   Inspection of records etc                                                                  334
 
-[135ZZ](#135ZZ).   Revocation of remuneration notice
+[135ZZ](#135ZZ).   Revocation of remuneration notice                                                   335
 
-135ZZA Request for payment of equitable remuneration
+[135ZZA Request for payment of equitable remuneration](#135ZZA Request for payment of equitable remuneration).                              335
 
     **Division 6—Collecting societies**
 
-[135ZZB](#135ZZB). Collecting societies
+[135ZZB](#135ZZB). Collecting societies                                                                           336
 
-[135ZZC](#135ZZC). Revocation of declaration
+[135ZZC](#135ZZC). Revocation of declaration                                                                 338
 
-135ZZD Annual report and accounts
+[135ZZD Annual report and accounts](#135ZZD Annual report and accounts).                                                             338
 
-[135ZZE](#135ZZE). Amendment of rules
+[135ZZE](#135ZZE). Amendment of rules                                                                         339
 
-135ZZEA  Applying to Tribunal for review of distribution arrangement
+[135ZZEAApplying to Tribunal for review of distribution arrangement](#135ZZEAApplying to Tribunal for review of distribution arrangement).         339
 
     **Division 7—Miscellaneous**
 
-[135ZZF](#135ZZF). Rights of copyright owners
+[135ZZF](#135ZZF). Rights of copyright owners                                                              340
 
-135ZZG Copyright not to vest in copier
+[135ZZG Copyright not to vest in copier](#135ZZG Copyright not to vest in copier).                                                        340
 
-135ZZH Unauthorised use of copies
+[135ZZH Unauthorised use of copies](#135ZZH Unauthorised use of copies).                                                             340
 
 **Part VC—Retransmission of free‑to‑air broadcasts** 
 
     **Division 1—Preliminary**
 
-[135ZZI](#135ZZI).  Definitions
+[135ZZI](#135ZZI).  Definitions                                                                                       342
 
-[135ZZJ](#135ZZJ).  Operation of collecting society rules
+[135ZZJ](#135ZZJ).  Operation of collecting society rules                                                343
 
-135ZZJA  Application of Part
+[135ZZJAApplication of Part](#135ZZJAApplication of Part).                                                                          343
 
     **Division 2—Retransmission of free‑to‑air broadcasts**
 
-[135ZZK](#135ZZK). Retransmission of free‑to‑air broadcasts
+[135ZZK](#135ZZK). Retransmission of free‑to‑air broadcasts                                          344
 
-[135ZZL](#135ZZL). Remuneration notices
+[135ZZL](#135ZZL). Remuneration notices                                                                       344
 
-135ZZM Amount of equitable remuneration
+[135ZZM Amount of equitable remuneration](#135ZZM Amount of equitable remuneration).                                                  345
 
-135ZZN Record system
+[135ZZN Record system](#135ZZN Record system).                                                                                 345
 
-[135ZZP](#135ZZP). Inspection of records etc 
+[135ZZP](#135ZZP). Inspection of records etc                                                                  346
 
-135ZZQ Identity cards
+[135ZZQ Identity cards](#135ZZQ Identity cards).                                                                                   347
 
-[135ZZR](#135ZZR). Revocation of remuneration notice
+[135ZZR](#135ZZR). Revocation of remuneration notice                                                   347
 
-[135ZZS](#135ZZS). Request for payment of equitable remuneration
+[135ZZS](#135ZZS). Request for payment of equitable remuneration                               348
 
     **Division 3—Collecting societies**
 
-[135ZZT](#135ZZT). Collecting societies
+[135ZZT](#135ZZT). Collecting societies                                                                           349
 
-135ZZU Revocation of declaration
+[135ZZU Revocation of declaration](#135ZZU Revocation of declaration).                                                                351
 
-135ZZV Annual report and accounts
+[135ZZV Annual report and accounts](#135ZZV Annual report and accounts).                                                             351
 
-135ZZW Amendment of rules
+[135ZZW Amendment of rules](#135ZZW Amendment of rules).                                                                        352
 
-135ZZWA  Applying to Tribunal for review of distribution arrangement
+[135ZZWAApplying to Tribunal for review of distribution arrangement](#135ZZWAApplying to Tribunal for review of distribution arrangement).       352
 
     **Division 4—Interim retransmissions**
 
-135ZZX Appointment of notice holder
+[135ZZX Appointment of notice holder](#135ZZX Appointment of notice holder).                                                          353
 
-135ZZY Retransmitting before declaration of collecting society
+[135ZZY Retransmitting before declaration of collecting society](#135ZZY Retransmitting before declaration of collecting society).                    353
 
-[135ZZZ](#135ZZZ). Notices by retransmitters
+[135ZZZ](#135ZZZ). Notices by retransmitters                                                                  353
 
-135ZZZA  Record keeping requirements
+[135ZZZARecord keeping requirements](#135ZZZARecord keeping requirements).                                                         354
 
-135ZZZB  Effect of declaration of collecting society
+[135ZZZBEffect of declaration of collecting society](#135ZZZBEffect of declaration of collecting society).                                       354
 
-    **Division 5—Miscellaneous** 
+    **Division 5—Miscellaneous**
 
-135ZZZC  Relevant copyright owner may authorise retransmitting
+[135ZZZCRelevant copyright owner may authorise retransmitting](#135ZZZCRelevant copyright owner may authorise retransmitting).                 356
 
-135ZZZD  Copyright not to vest under this Part
+[135ZZZDCopyright not to vest under this Part](#135ZZZDCopyright not to vest under this Part).                                              356
 
-135ZZZE  Licence to retransmit does not authorise copyright infringements
+[135ZZZELicence to retransmit does not authorise copyright  infringements](#135ZZZELicence to retransmit does not authorise copyright  infringements).                                                                                  356
 
 **Part VD—Re‑broadcasts by satellite BSA licensees** 
 
-    **Division 1—Preliminary** 
+    **Division 1—Preliminary**
 
-135ZZZF  Definitions
+[135ZZZFDefinitions](#135ZZZFDefinitions).                                                                                      357
 
-135ZZZG  Eligible program and original broadcaster
+[135ZZZGEligible program and original broadcaster](#135ZZZGEligible program and original broadcaster).                                      358
 
-135ZZZH  Operation of collecting society rules
+[135ZZZHOperation of collecting society rules](#135ZZZHOperation of collecting society rules).                                              358
 
-    **Division 2—Re‑broadcasts by satellite BSA licensees** 
+    **Division 2—Re‑broadcasts by satellite BSA licensees**
 
-135ZZZI Re‑broadcasts by satellite BSA licensees
+[135ZZZI Re‑broadcasts by satellite BSA licensees](#135ZZZI Re‑broadcasts by satellite BSA licensees).                                        359
 
-135ZZZJ  Remuneration notices
+[135ZZZJRemuneration notices](#135ZZZJRemuneration notices).                                                                      361
 
-135ZZZK  Amount of equitable remuneration
+[135ZZZKAmount of equitable remuneration](#135ZZZKAmount of equitable remuneration).                                                 362
 
-135ZZZL  Record system
+[135ZZZLRecord system](#135ZZZLRecord system).                                                                                362
 
-135ZZZM  Revocation of remuneration notice
+[135ZZZMRevocation of remuneration notice](#135ZZZMRevocation of remuneration notice).                                                363
 
-135ZZZN  Request for payment of equitable remuneration
+[135ZZZNRequest for payment of equitable remuneration](#135ZZZNRequest for payment of equitable remuneration).                             363
 
-    **Division 3—Collecting societies** 
+    **Division 3—Collecting societies**
 
-135ZZZO  Collecting societies
+[135ZZZOCollecting societies](#135ZZZOCollecting societies).                                                                         364
 
-135ZZZP  Revocation of declaration
+[135ZZZPRevocation of declaration](#135ZZZPRevocation of declaration).                                                                366
 
-135ZZZQ  Annual report and accounts
+[135ZZZQAnnual report and accounts](#135ZZZQAnnual report and accounts).                                                            366
 
-135ZZZR  Amendment of rules
+[135ZZZRAmendment of rules](#135ZZZRAmendment of rules).                                                                       367
 
-135ZZZS  Applying to Tribunal for review of distribution arrangement
+[135ZZZSApplying to Tribunal for review of distribution arrangement](#135ZZZSApplying to Tribunal for review of distribution arrangement).         368
 
-    **Division 4—Interim re‑broadcasts** 
+    **Division 4—Interim re‑broadcasts**
 
-135ZZZT  Appointment of notice holder
+[135ZZZTAppointment of notice holder](#135ZZZTAppointment of notice holder).                                                         369
 
-135ZZZU  Re‑broadcast before declaration of collecting society
+[135ZZZURe‑broadcast before declaration of collecting society](#135ZZZURe‑broadcast before declaration of collecting society).                     369
 
-135ZZZV  Notices by satellite BSA licensees
+[135ZZZVNotices by satellite BSA licensees](#135ZZZVNotices by satellite BSA licensees).                                                 369
 
-135ZZZW  Record keeping requirements
+[135ZZZWRecord keeping requirements](#135ZZZWRecord keeping requirements).                                                        370
 
-135ZZZX  Effect of declaration of collecting society
+[135ZZZXEffect of declaration of collecting society](#135ZZZXEffect of declaration of collecting society).                                       370
 
-    **Division 5—Miscellaneous** 
+    **Division 5—Miscellaneous**
 
-135ZZZY  Relevant copyright owner may authorise re‑broadcast
+[135ZZZYRelevant copyright owner may authorise re‑broadcast](#135ZZZYRelevant copyright owner may authorise re‑broadcast).                   372
 
-135ZZZZ  Copyright not to vest under this Part
+[135ZZZZCopyright not to vest under this Part](#135ZZZZCopyright not to vest under this Part).                                              372
 
-135ZZZZA  Licence to re‑broadcast does not authorise copyright infringements
+[135ZZZZALicence to re‑broadcast does not authorise copyright  infringements](#135ZZZZALicence to re‑broadcast does not authorise copyright  infringements).                                                                                  372
 
 **Part VI—Copyright Tribunal of Australia** 
 
     **Division 1—Preliminary**
 
-[136](#136).        Interpretation
+[136](#136).        Interpretation                                                                                    373
 
-[137](#137).        Cases to which licence schemes apply
+[137](#137).        Cases to which licence schemes apply                                             375
 
     **Division 2—Constitution of the Tribunal**
 
-[138](#138).        Constitution of Tribunal
+[138](#138).        Constitution of Tribunal                                                                   376
 
-[139](#139).        Appointment of members of Tribunal
+[139](#139).        Appointment of members of Tribunal                                              376
 
-[140](#140).        Qualifications of members
+[140](#140).        Qualifications of members                                                               376
 
-[141](#141).        Tenure of office
+[141](#141).        Tenure of office                                                                                377
 
-[141A](#141A).     Seniority of Deputy Presidents
+[141A](#141A).     Seniority of Deputy Presidents                                                        377
 
-[142](#142).        Acting President
+[142](#142).        Acting President                                                                               377
 
-[143](#143).        Remuneration and allowances
+[143](#143).        Remuneration and allowances                                                          378
 
-[144](#144).        Oath or affirmation of office
+[144](#144).        Oath or affirmation of office                                                            378
 
-[144A](#144A).     Disclosure of interests by members
+[144A](#144A).     Disclosure of interests by members                                                 378
 
-[144B](#144B).     Removal from office for failure to disclose interest
+[144B](#144B).     Removal from office for failure to disclose interest                          379
 
-[145](#145).        Resignation
+[145](#145).        Resignation                                                                                      379
 
-[146](#146).        Sittings of the Tribunal
+[146](#146).        Sittings of the Tribunal                                                                     379
 
-[147](#147).        President to arrange business of Tribunal
+[147](#147).        President to arrange business of Tribunal                                        380
 
     **Division 3—Applications and references to the Tribunal** 
 
         **Subdivision A—Preliminary**
 
-[148](#148).        Interpretation
+[148](#148).        Interpretation                                                                                    381
 
         **Subdivision B—Applications relating to Parts III and IV**
 
-[149](#149).        Applications to Tribunal for determination of remuneration payable for making recording or film of a work
+[149](#149).        Applications to Tribunal for determination of remuneration payable for making recording or film of a work          381
 
-[149A](#149A).     Applications to Tribunal under section 47A
+[149A](#149A).     Applications to Tribunal under section 47A                                     381
 
-[150](#150).        Applications to Tribunal for determination of remuneration payable to owner of copyright in recording for making of a copy of the sound recording
+[150](#150).        Applications to Tribunal for determination of remuneration payable to owner of copyright in recording for making of a copy of the sound recording                                                             382
 
-[151](#151).        Applications to Tribunal for determination of remuneration payable to owner of copyright in recording in respect of public playing of the recording
+[151](#151).        Applications to Tribunal for determination of remuneration payable to owner of copyright in recording in respect of public playing of the recording                                                         382
 
-[152](#152).        Applications to Tribunal for determination of amounts payable for broadcasting published sound recordings
+[152](#152).        Applications to Tribunal for determination of amounts payable for broadcasting published sound recordings        383
 
-[152A](#152A).     Applications to Tribunal for determination of amount of royalty payable for recording musical works
+[152A](#152A).     Applications to Tribunal for determination of amount of royalty payable for recording musical works   389
 
-[152B](#152B).     Applications to Tribunal for determination of manner of paying royalty
+[152B](#152B).     Applications to Tribunal for determination of manner of paying royalty  390
 
-[153](#153).        Applications to Tribunal for apportionment of royalty in respect of a record
+[153](#153).        Applications to Tribunal for apportionment of royalty in respect of a record           391
 
         **Subdivision C—Applications and references relating to Part VA**
 
-[153A](#153A).     Applications to Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1)
+[153A](#153A).     Applications to Tribunal under section 135H, subsection 135J(1) or subsection 135JA(1)     391
 
-[153B](#153B).     Applications to Tribunal under subsection 135J(3)
+[153B](#153B).     Applications to Tribunal under subsection 135J(3)                          392
 
-153BAAA  Application to the Tribunal under subsection 135JAA(2)
+[153BAAAApplication to the Tribunal under subsection 135JAA(2)](#153BAAAApplication to the Tribunal under subsection 135JAA(2)).            393
 
-[153BA](#153BA).  Application to the Tribunal under subsection 135JA(3)
+[153BA](#153BA).  Application to the Tribunal under subsection 135JA(3)                   393
 
-153BAA  Application to the Tribunal under subsection 135K(2A)
+[153BAAApplication to the Tribunal under subsection 135K(2A)](#153BAAApplication to the Tribunal under subsection 135K(2A)).                 393
 
-153BAB References relating to declaration of collecting society
+[153BAB References relating to declaration of collecting society](#153BAB References relating to declaration of collecting society).                    394
 
-153BAC References relating to revocation of declaration of collecting society
+153BAC References relating to revocation of declaration of collecting society 395
 
-153BAD  Review of collecting society’s distribution arrangement
+[153BADReview of collecting society’s distribution arrangement](#153BADReview of collecting society’s distribution arrangement).                  395
 
         **Subdivision D—Applications and references relating to Part VB**
 
-[153BB](#153BB).   Application to the Tribunal under subsection 135ZME(3)
+[153BB](#153BB).   Application to the Tribunal under subsection 135ZME(3)               396
 
-[153C](#153C).     Applications to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1)
+[153C](#153C).     Applications to the Tribunal under section 135ZV or subsection 135ZW(1) or 135ZWA(1)  397
 
-[153D](#153D).     Applications to Tribunal under subsection 135ZW(3)
+[153D](#153D).     Applications to Tribunal under subsection 135ZW(3)                     397
 
-153DAA  Application to the Tribunal under subsection 135ZWAA(2)
+[153DAAApplication to the Tribunal under subsection 135ZWAA(2)](#153DAAApplication to the Tribunal under subsection 135ZWAA(2)).          398
 
-[153DA](#153DA).  Applications to the Tribunal under subsection 135ZWA(2)
+[153DA](#153DA).  Applications to the Tribunal under subsection 135ZWA(2)             398
 
-[153DB](#153DB).  Application to the Tribunal under subsection 135ZX(2A)
+[153DB](#153DB).  Application to the Tribunal under subsection 135ZX(2A)               399
 
-[153DC](#153DC).  References relating to declaration of collecting society
+[153DC](#153DC).  References relating to declaration of collecting society                     399
 
-[153DD](#153DD).  References relating to revocation of declaration of collecting society
+[153DD](#153DD).  References relating to revocation of declaration of collecting society 400
 
-[153DE](#153DE).   Review of collecting society’s distribution arrangement
+[153DE](#153DE).   Review of collecting society’s distribution arrangement                  401
 
         **Subdivision E—Applications relating to Part VII**
 
-[153E](#153E).      Applications to Tribunal under subsection 183(5)
+[153E](#153E).      Applications to Tribunal under subsection 183(5)                           401
 
-[153F](#153F).      Applications to Tribunal to declare collecting society for government copies
+[153F](#153F).      Applications to Tribunal to declare collecting society for government copies           402
 
-[153G](#153G).     Applications to Tribunal to revoke a declaration of a collecting society
+[153G](#153G).     Applications to Tribunal to revoke a declaration of a collecting society 403
 
-[153H](#153H).     Time limit for deciding applications under section 153F or 153G
+[153H](#153H).     Time limit for deciding applications under section 153F or 153G    405
 
-[153J](#153J).      Amendment and revocation of a declaration on the declaration of another collecting society
+[153J](#153J).      Amendment and revocation of a declaration on the declaration of another collecting society   405
 
-[153K](#153K).     Applications to Tribunal for method of working out payment for government copies
+[153K](#153K).     Applications to Tribunal for method of working out payment for government copies             406
 
-[153KA](#153KA).  Review of collecting society’s distribution arrangement
+[153KA](#153KA).  Review of collecting society’s distribution arrangement                  406
 
         **Subdivision F—Applications relating to declarations of institutions**
 
-[153L](#153L).      Applications to Tribunal for review of declarations of certain educational institutions
+[153L](#153L).      Applications to Tribunal for review of declarations of certain educational institutions             407
 
         **Subdivision G—Applications and references relating to Part VC**
 
-[153M](#153M).    Applications to the Tribunal under subsection 135ZZM(1)
+[153M](#153M).    Applications to the Tribunal under subsection 135ZZM(1)             408
 
-[153N](#153N).     Applications to Tribunal under subsection 135ZZN(3)
+[153N](#153N).     Applications to Tribunal under subsection 135ZZN(3)                    409
 
-[153P](#153P).      References relating to declaration of collecting society
+[153P](#153P).      References relating to declaration of collecting society                     409
 
-[153Q](#153Q).     References relating to revocation of declaration of collecting society
+[153Q](#153Q).     References relating to revocation of declaration of collecting society 410
 
-[153R](#153R).     Review of collecting society’s distribution arrangement
+[153R](#153R).     Review of collecting society’s distribution arrangement                  410
 
         **Subdivision GA—Applications and references relating to Part VD**
 
-[153RA](#153RA).  Application to the Tribunal to determine amount payable to owner of copyright in a broadcast
+[153RA](#153RA).  Application to the Tribunal to determine amount payable to owner of copyright in a broadcast               411
 
-[153S](#153S).      Applications to the Tribunal under paragraph 135ZZZK(1)(b)—equitable remuneration
+[153S](#153S).      Applications to the Tribunal under paragraph 135ZZZK(1)(b)—equitable remuneration         412
 
-[153T](#153T).      Applications to Tribunal under paragraph 135ZZZL(3)(b)—record system
+[153T](#153T).      Applications to Tribunal under paragraph 135ZZZL(3)(b)—record system             413
 
-[153U](#153U).     References relating to declaration of collecting society
+[153U](#153U).     References relating to declaration of collecting society                     413
 
-[153V](#153V).     References relating to revocation of declaration of collecting society
+[153V](#153V).     References relating to revocation of declaration of collecting society 414
 
-[153W](#153W).    Review of collecting society’s distribution arrangement
+[153W](#153W).    Review of collecting society’s distribution arrangement                  415
 
         **Subdivision H—References and applications relating to licences and licence schemes**
 
-[154](#154).        Reference of proposed licence schemes to Tribunal
+[154](#154).        Reference of proposed licence schemes to Tribunal                         415
 
-[155](#155).        Reference of existing licence schemes to Tribunal
+[155](#155).        Reference of existing licence schemes to Tribunal                           417
 
-[156](#156).        Further reference of licence schemes to Tribunal
+[156](#156).        Further reference of licence schemes to Tribunal                             419
 
-[157](#157).        Application to Tribunal in relation to licences
+[157](#157).        Application to Tribunal in relation to licences                                  420
 
-[157A](#157A).     Tribunal must have regard to ACCC guidelines on request
+[157A](#157A).     Tribunal must have regard to ACCC guidelines on request             423
 
-[157B](#157B).     Tribunal may make ACCC party to reference or application
+[157B](#157B).     Tribunal may make ACCC party to reference or application            424
 
-[158](#158).        Effect of licence scheme being continued in operation pending order of the Tribunal
+[158](#158).        Effect of licence scheme being continued in operation pending order of the Tribunal              424
 
-[159](#159).        Effect of order of Tribunal in relation to licences
+[159](#159).        Effect of order of Tribunal in relation to licences                             425
 
         **Subdivision I—General provisions**
 
-[160](#160).        Interim orders
+[160](#160).        Interim orders                                                                                   427
 
-[161](#161).        Reference of questions of law to Federal Court of Australia
+[161](#161).        Reference of questions of law to Federal Court of Australia            428
 
-[162](#162).        Agreements or awards not affected
+[162](#162).        Agreements or awards not affected                                                  429
 
     **Division 4—Procedure and evidence**
 
-[163](#163).        Proceedings to be in public except in special circumstances
+[163](#163).        Proceedings to be in public except in special circumstances             430
 
-[163A](#163A).     Application may be made to Tribunal by the agent of the copyright owner
+[163A](#163A).     Application may be made to Tribunal by the agent of the copyright owner              430
 
-[164](#164).        Procedure
+[164](#164).        Procedure                                                                                         430
 
-[165](#165).        Mistakes or errors in orders of the Tribunal
+[165](#165).        Mistakes or errors in orders of the Tribunal                                     431
 
-[166](#166).        Regulations as to procedure
+[166](#166).        Regulations as to procedure                                                             431
 
-[167](#167).        Power to take evidence on oath
+[167](#167).        Power to take evidence on oath                                                        432
 
-[168](#168).        Evidence in form of written statement
+[168](#168).        Evidence in form of written statement                                              432
 
-[169](#169).        Representation
+[169](#169).        Representation                                                                                  432
 
     **Division 4A—Alternative dispute resolution processes**
 
-[169A](#169A).     Referral of proceeding for alternative dispute resolution process
+[169A](#169A).     Referral of proceeding for alternative dispute resolution process     433
 
-[169B](#169B).     Directions by President or Deputy President
+[169B](#169B).     Directions by President or Deputy President                                   434
 
-[169C](#169C).     Agreement about the terms of a decision etc 
+[169C](#169C).     Agreement about the terms of a decision etc                                    434
 
-[169D](#169D).     Evidence not admissible
+[169D](#169D).     Evidence not admissible                                                                   435
 
-[169E](#169E).      Eligibility of person conducting alternative dispute resolution process to sit as a member of the Tribunal
+[169E](#169E).      Eligibility of person conducting alternative dispute resolution process to sit as a member of the Tribunal               436
 
-[169F](#169F).      Participation by telephone etc 
+[169F](#169F).      Participation by telephone etc                                                           436
 
-[169G](#169G).     Engagement of persons to conduct alternative dispute resolution processes
+[169G](#169G).     Engagement of persons to conduct alternative dispute resolution processes             436
 
     **Division 5—Miscellaneous**
 
-[170](#170).        Registrar
+[170](#170).        Registrar                                                                                           438
 
-[170A](#170A).     Other staff of the Tribunal
+[170A](#170A).     Other staff of the Tribunal                                                                439
 
-[171](#171).        Protecting persons connected with Tribunal proceedings
+[171](#171).        Protecting persons connected with Tribunal proceedings                 439
 
-[172](#172).        Offences by witnesses
+[172](#172).        Offences by witnesses                                                                     440
 
-[173](#173).        Offences relating to the Tribunal
+[173](#173).        Offences relating to the Tribunal                                                      441
 
-[174](#174).        Costs of proceedings
+[174](#174).        Costs of proceedings                                                                        443
 
-[175](#175).        Proof of orders of Tribunal
+[175](#175).        Proof of orders of Tribunal                                                              443
 
 **Part VII—The Crown** 
 
     **Division 1—Crown copyright**
 
-[176](#176).        Crown copyright in original works made under direction of Crown
+[176](#176).        Crown copyright in original works made under direction of Crown 444
 
-[177](#177).        Crown copyright in original works first published in Australia under direction of Crown
+[177](#177).        Crown copyright in original works first published in Australia under direction of Crown      444
 
-[178](#178).        Crown copyright in recordings and films made under direction of Crown
+[178](#178).        Crown copyright in recordings and films made under direction of Crown               444
 
-[179](#179).        Provisions relating to ownership of copyright may be modified by agreement
+[179](#179).        Provisions relating to ownership of copyright may be modified by agreement        445
 
-[180](#180).        Duration of Crown copyright in original works
+[180](#180).        Duration of Crown copyright in original works                               445
 
-[181](#181).        Duration of Crown copyright in recordings and films
+[181](#181).        Duration of Crown copyright in recordings and films                     446
 
-[182](#182).        Application of Parts III and IV to copyright subsisting by virtue of this Part
+[182](#182).        Application of Parts III and IV to copyright subsisting by virtue of this Part          446
 
-[182A](#182A).     Copyright in statutory instruments and judgments etc 
+[182A](#182A).     Copyright in statutory instruments and judgments etc                      446
 
     **Division 2—Use of copyright material for the Crown**
 
-[182B](#182B).     Definitions
+[182B](#182B).     Definitions                                                                                       448
 
-[182C](#182C).     Relevant collecting society
+[182C](#182C).     Relevant collecting society                                                               448
 
-[183](#183).        Use of copyright material for the services of the Crown
+[183](#183).        Use of copyright material for the services of the Crown                  449
 
-[183A](#183A).     Special arrangements for copying for services of government
+[183A](#183A).     Special arrangements for copying for services of government         450
 
-[183B](#183B).     Payment and recovery of equitable remuneration payable for government copies
+[183B](#183B).     Payment and recovery of equitable remuneration payable for government copies    451
 
-[183C](#183C).     Powers of collecting society to carry out sampling
+[183C](#183C).     Powers of collecting society to carry out sampling                          452
 
-[183D](#183D).     Annual report and accounts of collecting society
+[183D](#183D).     Annual report and accounts of collecting society                             453
 
-[183E](#183E).      Alteration of rules of collecting society
+[183E](#183E).      Alteration of rules of collecting society                                            454
 
-[183F](#183F).      Applying to Tribunal for review of distribution arrangement
+[183F](#183F).      Applying to Tribunal for review of distribution arrangement           454
 
 **Part VIII—Extension or restriction of operation of Act**
 
-[184](#184).        Application of Act to countries other than Australia
+[184](#184).        Application of Act to countries other than Australia                        455
 
-[185](#185).        Denial of copyright to citizens of countries not giving adequate protection to Australian works
+[185](#185).        Denial of copyright to citizens of countries not giving adequate protection to Australian works              457
 
-[186](#186).        Application of Act to international organizations
+[186](#186).        Application of Act to international organizations                             458
 
-[187](#187).        Original works made or first published by international organizations
+[187](#187).        Original works made or first published by international organizations 458
 
-[188](#188).        Subject‑matter, other than original works, made or first published by international organizations
+[188](#188).        Subject‑matter, other than original works, made or first published by international organizations           459
 
 **Part IX—Moral rights of performers and of authors of literary, dramatic, musical or artistic works and cinematograph films** 
 
     **Division 1—Preliminary**
 
-[189](#189).        Definitions
+[189](#189).        Definitions                                                                                       461
 
-[190](#190).        Moral rights conferred on individuals
+[190](#190).        Moral rights conferred on individuals                                              465
 
-[191](#191).        Director, producer and screenwriter of cinematograph film
+[191](#191).        Director, producer and screenwriter of cinematograph film             465
 
-[191A](#191A).     Staging a performance
+[191A](#191A).     Staging a performance                                                                      466
 
-[191B](#191B).     Conductor to be treated as a performer
+[191B](#191B).     Conductor to be treated as a performer                                             466
 
-[192](#192).        Rights to be additional to other rights
+[192](#192).        Rights to be additional to other rights                                               467
 
     **Division 2—Right of attribution of authorship**
 
-[193](#193).        Author’s right of attribution of authorship
+[193](#193).        Author’s right of attribution of authorship                                       468
 
-[194](#194).        Acts giving rise to right of attribution of authorship
+[194](#194).        Acts giving rise to right of attribution of authorship                        468
 
-[195](#195).        Nature of the identification of author
+[195](#195).        Nature of the identification of author                                                469
 
-[195AA](#195AA).  Identification of author to be clear and reasonably prominent
+[195AA](#195AA).  Identification of author to be clear and reasonably prominent          469
 
-[195AB](#195AB).  What is a reasonably prominent identification
+[195AB](#195AB).  What is a reasonably prominent identification                                  469
 
-    **Division 2A—Right of attribution of performership** 
+    **Division 2A—Right of attribution of performership**
 
-195ABA  Performer’s right of attribution of performership
+[195ABAPerformer’s right of attribution of performership](#195ABAPerformer’s right of attribution of performership).                            470
 
-195ABB Acts giving rise to right of attribution of performership
+[195ABB Acts giving rise to right of attribution of performership](#195ABB Acts giving rise to right of attribution of performership).                  470
 
-195ABC Nature of the identification of performer
+[195ABC Nature of the identification of performer](#195ABC Nature of the identification of performer).                                         470
 
-195ABD  Identification of performer to be clear and reasonably prominent or audible
+[195ABDIdentification of performer to be clear and reasonably  prominent or audible](#195ABDIdentification of performer to be clear and reasonably  prominent or audible).                                                                       471
 
-195ABE What is a reasonably prominent identification
+[195ABE What is a reasonably prominent identification](#195ABE What is a reasonably prominent identification).                                 471
 
     **Division 3—Right not to have authorship of a work falsely attributed**
 
-[195AC](#195AC).  Author’s right not to have authorship falsely attributed
+[195AC](#195AC).  Author’s right not to have authorship falsely attributed                   472
 
-[195AD](#195AD).  Acts of false attribution of authorship of a literary, dramatic or musical work
+[195AD](#195AD).  Acts of false attribution of authorship of a literary, dramatic or musical work         472
 
-[195AE](#195AE).   Acts of false attribution of authorship of artistic work
+[195AE](#195AE).   Acts of false attribution of authorship of artistic work                     473
 
-[195AF](#195AF).   Acts of false attribution of authorship of cinematograph film
+[195AF](#195AF).   Acts of false attribution of authorship of cinematograph film          473
 
-[195AG](#195AG).  Acts of false attribution of authorship of altered literary, dramatic, musical or artistic work
+[195AG](#195AG).  Acts of false attribution of authorship of altered literary, dramatic, musical or artistic work    474
 
-[195AH](#195AH).  Act of false attribution of authorship of altered cinematograph film
+[195AH](#195AH).  Act of false attribution of authorship of altered cinematograph film 474
 
     **Division 3A—Right not to have performership falsely attributed**
 
-195AHA  Performer’s right not to have performership falsely 
- attributed
+[195AHAPerformer’s right not to have performership falsely attributed](#195AHAPerformer’s right not to have performership falsely attributed).        475
 
-195AHB  Acts of false attribution of performership
+[195AHBActs of false attribution of performership](#195AHBActs of false attribution of performership).                                        475
 
-195AHC  Act of false attribution of performership of altered recorded performance
+[195AHCAct of false attribution of performership of altered recorded  performance](#195AHCAct of false attribution of performership of altered recorded  performance).                                                                                    477
 
     **Division 4—Right of integrity of authorship of a work**
 
-[195AI](#195AI).    Author’s right of integrity of authorship
+[195AI](#195AI).    Author’s right of integrity of authorship                                          479
 
-[195AJ](#195AJ).   Derogatory treatment of literary, dramatic or musical work
+[195AJ](#195AJ).   Derogatory treatment of literary, dramatic or musical work             479
 
-[195AK](#195AK).  Derogatory treatment of artistic work
+[195AK](#195AK).  Derogatory treatment of artistic work                                               479
 
-[195AL](#195AL).   Derogatory treatment of cinematograph film
+[195AL](#195AL).   Derogatory treatment of cinematograph film                                    480
 
-    **Division 4A—Right of integrity of performership** 
+    **Division 4A—Right of integrity of performership**
 
-195ALA Performer’s right of integrity of performership
+[195ALA Performer’s right of integrity of performership](#195ALA Performer’s right of integrity of performership).                               481
 
-195ALB Derogatory treatment of performance
+[195ALB Derogatory treatment of performance](#195ALB Derogatory treatment of performance).                                              481
 
     **Division 5—Duration and exercise of moral rights** 
 
         **Subdivision A—Duration and exercise of moral rights of authors**
 
-[195AM](#195AM). Duration of author’s moral rights
+[195AM](#195AM). Duration of author’s moral rights                                                     482
 
-[195AN](#195AN).  Exercise of author’s moral rights
+[195AN](#195AN).  Exercise of author’s moral rights                                                     482
 
-        **Subdivision B—Duration and exercise of moral rights of performers** 
+        **Subdivision B—Duration and exercise of moral rights of performers**
 
-195ANA  Duration of performer’s moral rights for recorded performances
+[195ANADuration of performer’s moral rights for recorded  performances](#195ANADuration of performer’s moral rights for recorded  performances).                                                                                   483
 
-195ANB  Exercise of performer’s moral rights
+[195ANBExercise of performer’s moral rights](#195ANBExercise of performer’s moral rights).                                               483
 
     **Division 6—Infringement of moral rights** 
 
         **Subdivision A—Infringement of moral rights of authors**
 
-[195AO](#195AO).  Infringement of right of attribution of authorship
+[195AO](#195AO).  Infringement of right of attribution of authorship                             485
 
-[195AP](#195AP).   Infringement of right not to have authorship falsely attributed
+[195AP](#195AP).   Infringement of right not to have authorship falsely attributed         485
 
-[195AQ](#195AQ).  Infringement of right of integrity of authorship
+[195AQ](#195AQ).  Infringement of right of integrity of authorship                                485
 
-[195AR](#195AR).  No infringement of right of attribution of authorship if it was reasonable not to identify the author
+[195AR](#195AR).  No infringement of right of attribution of authorship if it was reasonable not to identify the author        486
 
-[195AS](#195AS).   No infringement of right of integrity of authorship if derogatory treatment or other action was reasonable
+[195AS](#195AS).   No infringement of right of integrity of authorship if derogatory treatment or other action was reasonable             488
 
-[195AT](#195AT).   Certain treatment of works not to constitute an infringement of the author’s right of integrity of authorship
+[195AT](#195AT).   Certain treatment of works not to constitute an infringement of the author’s right of integrity of authorship           489
 
-[195AU](#195AU).  Infringement by importation for sale or other dealing
+[195AU](#195AU).  Infringement by importation for sale or other dealing                      493
 
-[195AV](#195AV).  Infringement by sale and other dealings
+[195AV](#195AV).  Infringement by sale and other dealings                                           493
 
-195AVA  Matters to be taken into account
+[195AVAMatters to be taken into account](#195AVAMatters to be taken into account).                                                      493
 
-195AVB  Communication by use of certain facilities
+[195AVBCommunication by use of certain facilities](#195AVBCommunication by use of certain facilities).                                      494
 
-[195AW](#195AW). Author’s consent to act or omission—films or works in films
+[195AW](#195AW). Author’s consent to act or omission—films or works in films        494
 
-195AWA  Author’s consent to act or omission—work that is not a film or included in a film
+[195AWAAuthor’s consent to act or omission—work that is not a film  or included in a film](#195AWAAuthor’s consent to act or omission—work that is not a film  or included in a film).                                                                        495
 
-195AWB  Consent invalidated by duress or false or misleading statements
+[195AWBConsent invalidated by duress or false or misleading  statements](#195AWBConsent invalidated by duress or false or misleading  statements).                                                                                        496
 
-[195AX](#195AX).  Acts or omissions outside Australia
+[195AX](#195AX).  Acts or omissions outside Australia                                                 496
 
         **Subdivision B—Infringement of moral rights of performers**
 
-195AXA  Infringement of right of attribution of performership
+[195AXAInfringement of right of attribution of performership](#195AXAInfringement of right of attribution of performership).                      496
 
-195AXB  Infringement of right not to have performership falsely attributed
+[195AXBInfringement of right not to have performership falsely  attributed](#195AXBInfringement of right not to have performership falsely  attributed).                                                                                         497
 
-195AXC  Infringement of right of integrity of performership
+[195AXCInfringement of right of integrity of performership](#195AXCInfringement of right of integrity of performership).                         497
 
-195AXD  No infringement of right of attribution of performership if it was reasonable not to identify the performer
+[195AXDNo infringement of right of attribution of performership if it  was reasonable not to identify the performer](#195AXDNo infringement of right of attribution of performership if it  was reasonable not to identify the performer).                                   497
 
-195AXE No infringement of right of integrity of performership if derogatory treatment or other action was reasonable
+195AXE No infringement of right of integrity of performership if derogatory treatment or other action was reasonable       498
 
-195AXF Infringement by importation for sale or other dealing
+[195AXF Infringement by importation for sale or other dealing](#195AXF Infringement by importation for sale or other dealing).                     499
 
-195AXG  Infringement by sale and other dealings
+[195AXGInfringement by sale and other dealings](#195AXGInfringement by sale and other dealings).                                          500
 
-195AXH  Matters to be taken into account
+[195AXHMatters to be taken into account](#195AXHMatters to be taken into account).                                                      500
 
-[195AXI](#195AXI). Communication by use of certain facilities
+[195AXI](#195AXI). Communication by use of certain facilities                                       500
 
-195AXJ Performer’s consent to act or omission
+[195AXJ Performer’s consent to act or omission](#195AXJ Performer’s consent to act or omission).                                           501
 
-195AXK  Consent invalidated by duress or false or misleading statements
+[195AXKConsent invalidated by duress or false or misleading  statements](#195AXKConsent invalidated by duress or false or misleading  statements).                                                                                        501
 
-195AXL Acts or omissions outside Australia
+[195AXL Acts or omissions outside Australia](#195AXL Acts or omissions outside Australia).                                                502
 
     **Division 7—Remedies for infringements of moral rights** 
 
         **Subdivision A—Remedies for infringement of moral rights of authors**
 
-[195AY](#195AY).  Definition etc 
+[195AY](#195AY).  Definition etc                                                                                    503
 
-[195AZ](#195AZ).   Actions for infringement of author’s moral rights
+[195AZ](#195AZ).   Actions for infringement of author’s moral rights                            503
 
-195AZA Remedies for infringements of author’s moral rights
+[195AZA Remedies for infringements of author’s moral rights](#195AZA Remedies for infringements of author’s moral rights).                      503
 
-195AZD Presumption as to subsistence of copyright
+[195AZD Presumption as to subsistence of copyright](#195AZD Presumption as to subsistence of copyright).                                    505
 
-195AZE Presumption as to subsistence of author’s moral rights
+[195AZE Presumption as to subsistence of author’s moral rights](#195AZE Presumption as to subsistence of author’s moral rights).                  505
 
-195AZF Presumptions in relation to authorship of work
+[195AZF Presumptions in relation to authorship of work](#195AZF Presumptions in relation to authorship of work).                              506
 
-195AZG Other presumptions in relation to literary, dramatic, musical or artistic work
+195AZG Other presumptions in relation to literary, dramatic, musical or artistic work           506
 
         **Subdivision B—Remedies for infringement of moral rights of performers**
 
-[195AZGA  Definition etc](#195AZGA  Definition etc).
+[195AZGADefinition etc](#195AZGADefinition etc).                                                                                506
 
-195AZGB  Actions for infringement of performer’s moral rights
+[195AZGBActions for infringement of performer’s moral rights](#195AZGBActions for infringement of performer’s moral rights).                   506
 
-195AZGC  Remedies for infringements of performer’s moral rights
+[195AZGCRemedies for infringements of performer’s moral rights](#195AZGCRemedies for infringements of performer’s moral rights).              507
 
-195AZGD  Presumption as to subsistence of copyright
+[195AZGDPresumption as to subsistence of copyright](#195AZGDPresumption as to subsistence of copyright).                                  508
 
-195AZGE  Presumption as to subsistence of performer’s moral rights
+[195AZGEPresumption as to subsistence of performer’s moral rights](#195AZGEPresumption as to subsistence of performer’s moral rights).           508
 
-195AZGF  Presumptions in relation to performership
+[195AZGFPresumptions in relation to performership](#195AZGFPresumptions in relation to performership).                                     508
 
-        **Subdivision C—Miscellaneous** 
+        **Subdivision C—Miscellaneous**
 
-195AZGG  Saving of other rights and remedies
+[195AZGGSaving of other rights and remedies](#195AZGGSaving of other rights and remedies).                                              509
 
-195AZGH  Jurisdiction of courts
+[195AZGHJurisdiction of courts](#195AZGHJurisdiction of courts).                                                                    509
 
     **Division 8—Miscellaneous** 
 
         **Subdivision A—Miscellaneous provisions about moral rights of authors**
 
-195AZH Parts of works
+[195AZH Parts of works](#195AZH Parts of works).                                                                                 510
 
-[195AZI](#195AZI). Works of joint authorship
+[195AZI](#195AZI). Works of joint authorship                                                                510
 
-[195AZJ](#195AZJ). Cinematograph films that have more than one principal director
+[195AZJ](#195AZJ). Cinematograph films that have more than one principal director      510
 
-195AZK Cinematograph films that have more than one principal producer
+[195AZK Cinematograph films that have more than one principal producer](#195AZK Cinematograph films that have more than one principal producer).   511
 
-195AZL Cinematograph films that have more than one principal screenwriter
+195AZL Cinematograph films that have more than one principal screenwriter 511
 
-195AZM  Application—right of attribution of authorship
+[195AZMApplication—right of attribution of authorship](#195AZMApplication—right of attribution of authorship).                               512
 
-195AZN Application—right not to have authorship falsely attributed
+[195AZN Application—right not to have authorship falsely attributed](#195AZN Application—right not to have authorship falsely attributed).           512
 
-195AZO Application—right of integrity of authorship
+[195AZO Application—right of integrity of authorship](#195AZO Application—right of integrity of authorship).                                  513
 
-        **Subdivision B—Miscellaneous provisions about moral rights of performers** 
+        **Subdivision B—Miscellaneous provisions about moral rights of performers**
 
-195AZP Parts of performances
+[195AZP Parts of performances](#195AZP Parts of performances).                                                                     513
 
-195AZQ Performances that have more than one performer
+[195AZQ Performances that have more than one performer](#195AZQ Performances that have more than one performer).                           513
 
-195AZR Application
+[195AZR Application](#195AZR Application).                                                                                      514
 
 **Part X—Miscellaneous**
 
-[195A](#195A).     Interpretation
+[195A](#195A).     Interpretation                                                                                    515
 
-[195B](#195B).     Review of certain decisions
+[195B](#195B).     Review of certain decisions                                                              516
 
-[196](#196).        Assignments and licences in respect of copyright
+[196](#196).        Assignments and licences in respect of copyright                            517
 
-[197](#197).        Prospective ownership of copyright
+[197](#197).        Prospective ownership of copyright                                                 518
 
-[198](#198).        Copyright to pass under will with unpublished work
+[198](#198).        Copyright to pass under will with unpublished work                      518
 
-[198A](#198A).     Non‑infringement of trade mark in relation to the importation of copyright material
+[198A](#198A).     Non‑infringement of trade mark in relation to the importation of copyright material                518
 
-[199](#199).        Reception of broadcasts
+[199](#199).        Reception of broadcasts                                                                   519
 
-[200](#200).        Use of works and broadcasts for educational purposes
+[200](#200).        Use of works and broadcasts for educational purposes                   520
 
-200AAA  Proxy web caching by educational institutions
+[200AAAProxy web caching by educational institutions](#200AAAProxy web caching by educational institutions).                                521
 
-[200AA](#200AA).  Use of broadcasts by institutions assisting persons with an intellectual disability
+[200AA](#200AA).  Use of broadcasts by institutions assisting persons with an intellectual disability    522
 
-[200AB](#200AB).  Use of works and other subject‑matter for certain purposes
+[200AB](#200AB).  Use of works and other subject‑matter for certain purposes            522
 
-[201](#201).        Delivery of library material to the National Library
+[201](#201).        Delivery of library material to the National Library                          525
 
-[202](#202).        Groundless threats of legal proceedings in relation to copyright infringement
+[202](#202).        Groundless threats of legal proceedings in relation to copyright infringement         526
 
-[202A](#202A).     Groundless threats of legal proceedings in relation to technological protection measures
+[202A](#202A).     Groundless threats of legal proceedings in relation to technological protection measures        527
 
-[203](#203).        Limitation on power of courts to grant relief in proceedings under this Act
+[203](#203).        Limitation on power of courts to grant relief in proceedings under this Act             528
 
-[203A](#203A).     Offence—failing to keep declarations relating to copying in library or archives
+[203A](#203A).     Offence—failing to keep declarations relating to copying in library or archives       528
 
-[203D](#203D).     Offence—not arranging declarations chronologically
+[203D](#203D).     Offence—not arranging declarations chronologically                      529
 
-[203E](#203E).      Inspection of records and declarations retained by libraries, archives or institutions
+[203E](#203E).      Inspection of records and declarations retained by libraries, archives or institutions                530
 
-[203F](#203F).      False and misleading declarations
+[203F](#203F).      False and misleading declarations                                                    532
 
-[203G](#203G).     Offence—disposing of or destroying certain declarations
+[203G](#203G).     Offence—disposing of or destroying certain declarations                532
 
-[203H](#203H).     Notation of certain copies etc 
+[203H](#203H).     Notation of certain copies etc                                                           533
 
 **Part XI—Transitional** 
 
     **Division 1—Preliminary**
 
-[204](#204).        Interpretation
+[204](#204).        Interpretation                                                                                    536
 
-[205](#205).        References to making of works, recordings and films
+[205](#205).        References to making of works, recordings and films                     537
 
-[206](#206).        References in other laws or instruments to copyright
+[206](#206).        References in other laws or instruments to copyright                       537
 
-[207](#207).        Application
+[207](#207).        Application                                                                                       538
 
-[208](#208).        Authorship of photographs
+[208](#208).        Authorship of photographs                                                              538
 
-[209](#209).        Publication
+[209](#209).        Publication                                                                                       538
 
     **Division 2—Original works**
 
-[210](#210).        Expired copyright not to revive
+[210](#210).        Expired copyright not to revive                                                        540
 
-[211](#211).        Original works in which copyright subsists
+[211](#211).        Original works in which copyright subsists                                     540
 
-[213](#213).        Ownership of copyright
+[213](#213).        Ownership of copyright                                                                   540
 
-[214](#214).        Infringement by importation, sale and other dealings
+[214](#214).        Infringement by importation, sale and other dealings                       542
 
-[215](#215).        Recording of musical works
+[215](#215).        Recording of musical works                                                            542
 
-[216](#216).        Publication of artistic works
+[216](#216).        Publication of artistic works                                                             542
 
-[217](#217).        Reconstruction of buildings
+[217](#217).        Reconstruction of buildings                                                             543
 
-[218](#218).        Industrial designs
+[218](#218).        Industrial designs                                                                             543
 
-[219](#219).        Reproduction of work upon payment of royalties
+[219](#219).        Reproduction of work upon payment of royalties                            543
 
     **Division 3—Subject‑matter other than works**
 
-[220](#220).        Sound recordings
+[220](#220).        Sound recordings                                                                             546
 
-[221](#221).        Cinematograph films
+[221](#221).        Cinematograph films                                                                        546
 
-[222](#222).        Application of Act to dramatic works and photographs comprised in cinematograph films
+[222](#222).        Application of Act to dramatic works and photographs comprised in cinematograph films     546
 
-[223](#223).        Television broadcasts and sound broadcasts
+[223](#223).        Television broadcasts and sound broadcasts                                    546
 
-[224](#224).        Published editions of works
+[224](#224).        Published editions of works                                                             547
 
-[225](#225).        Infringement by importation, sale and other dealings
+[225](#225).        Infringement by importation, sale and other dealings                       547
 
     **Division 4—Miscellaneous**
 
-[226](#226).        Actions for infringement
+[226](#226).        Actions for infringement                                                                  548
 
-[227](#227).        Infringing copies
+[227](#227).        Infringing copies                                                                              548
 
-[228](#228).        Actions where copyright subject to exclusive licence
+[228](#228).        Actions where copyright subject to exclusive licence                       548
 
-[229](#229).        Offences and summary proceedings
+[229](#229).        Offences and summary proceedings                                                548
 
-[230](#230).        Limitation of actions
+[230](#230).        Limitation of actions                                                                         548
 
-[231](#231).        Restriction of importation of printed copies of works
+[231](#231).        Restriction of importation of printed copies of works                      549
 
-[232](#232).        References and applications to Tribunal in relation to licence schemes
+[232](#232).        References and applications to Tribunal in relation to licence schemes 549
 
-[233](#233).        Duration of Crown copyright in photographs
+[233](#233).        Duration of Crown copyright in photographs                                  549
 
-[234](#234).        Duration of Crown copyright in recordings
+[234](#234).        Duration of Crown copyright in recordings                                     549
 
-[235](#235).        Crown copyright in films
+[235](#235).        Crown copyright in films                                                                 550
 
-[236](#236).        Works made or published by international organizations
+[236](#236).        Works made or published by international organizations                 550
 
-[237](#237).        Subject‑matter, other than original works, made or published by international organizations
+[237](#237).        Subject‑matter, other than original works, made or published by international organizations   550
 
-[239](#239).        Assignments and licences
+[239](#239).        Assignments and licences                                                                550
 
-[240](#240).        Bequests
+[240](#240).        Bequests                                                                                           552
 
-[241](#241).        Delivery of library material to National Library
+[241](#241).        Delivery of library material to National Library                               553
 
-[242](#242).        Groundless threats of legal proceedings
+[242](#242).        Groundless threats of legal proceedings                                           553
 
     **Division 5—Works made before 1 July, 1912**
 
-[243](#243).        Interpretation
+[243](#243).        Interpretation                                                                                    554
 
-[244](#244).        Application
+[244](#244).        Application                                                                                       554
 
-[245](#245).        Rights conferred by Copyright Act, 1911
+[245](#245).        Rights conferred by Copyright Act, 1911                                        554
 
-[246](#246).        Performing rights
+[246](#246).        Performing rights                                                                             554
 
-[247](#247).        Contributions to periodicals
+[247](#247).        Contributions to periodicals                                                             555
 
-[248](#248).        Assignments and licences
+[248](#248).        Assignments and licences                                                                555
 
 **Part XIA—Performers’ protection** 
 
     **Division 1—Preliminary**
 
-[248A](#248A).     Interpretation
+[248A](#248A).     Interpretation                                                                                    557
 
-[248B](#248B).     Educational purposes
+[248B](#248B).     Educational purposes                                                                       562
 
-[248C](#248C).     Exempt recordings cease to be exempt recordings in certain circumstances
+[248C](#248C).     Exempt recordings cease to be exempt recordings in certain circumstances             562
 
-[248CA](#248CA).  Protection period
+[248CA](#248CA).  Protection period                                                                              563
 
-[248D](#248D).     Private and domestic use
+[248D](#248D).     Private and domestic use                                                                  563
 
-[248F](#248F).      Application
+[248F](#248F).      Application                                                                                       564
 
     **Division 2—Actions by performers**
 
-[248G](#248G).     What constitutes unauthorised use
+[248G](#248G).     What constitutes unauthorised use                                                   565
 
-[248H](#248H).     Copying sound recordings for broadcasting
+[248H](#248H).     Copying sound recordings for broadcasting                                    566
 
-[248J](#248J).      Actions for unauthorised use
+[248J](#248J).      Actions for unauthorised use                                                           567
 
-[248K](#248K).     Exercise of jurisdiction
+[248K](#248K).     Exercise of jurisdiction                                                                     568
 
-[248L](#248L).      Appeals
+[248L](#248L).      Appeals                                                                                            569
 
-[248M](#248M).    Jurisdiction of Federal Court
+[248M](#248M).    Jurisdiction of Federal Court                                                            569
 
-[248MA](#248MA). Jurisdiction of Federal Magistrates Court
+[248MA](#248MA). Jurisdiction of Federal Magistrates Court                                        569
 
-[248N](#248N).     Right to bring an action not assignable
+[248N](#248N).     Right to bring an action not assignable                                             569
 
     **Division 3—Offences** 
 
         **Subdivision A—General offences**
 
-[248P](#248P).      Scope of this Subdivision
+[248P](#248P).      Scope of this Subdivision                                                                570
 
-[248PA](#248PA).   Unauthorised direct recording during protection period
+[248PA](#248PA).   Unauthorised direct recording during protection period                   570
 
-[248PB](#248PB).   Unauthorised indirect recording during protection period
+[248PB](#248PB).   Unauthorised indirect recording during protection period                571
 
-[248PC](#248PC).   Unauthorised communication to public during 20‑year protection period
+[248PC](#248PC).   Unauthorised communication to public during 20‑year protection period                572
 
-[248PD](#248PD).   Playing unauthorised recording publicly during 20‑year protection period
+[248PD](#248PD).   Playing unauthorised recording publicly during 20‑year protection period              573
 
-[248PE](#248PE).   Possessing equipment to make or copy unauthorised recording
+[248PE](#248PE).   Possessing equipment to make or copy unauthorised recording      574
 
-[248PF](#248PF).   Copying unauthorised recording
+[248PF](#248PF).   Copying unauthorised recording                                                      576
 
-[248PG](#248PG).   Unauthorised copying of exempt recording
+[248PG](#248PG).   Unauthorised copying of exempt recording                                     577
 
-[248PH](#248PH).   Unauthorised copying of authorised sound recording
+[248PH](#248PH).   Unauthorised copying of authorised sound recording                      578
 
-[248PI](#248PI).    Selling etc  unauthorised recording
+[248PI](#248PI).    Selling etc  unauthorised recording                                                  580
 
-[248PJ](#248PJ).    Distributing unauthorised recording
+[248PJ](#248PJ).    Distributing unauthorised recording                                                 581
 
-[248PK](#248PK).   Commercial possession or import of unauthorised recording
+[248PK](#248PK).   Commercial possession or import of unauthorised recording          583
 
-[248PL](#248PL).   Exhibiting unauthorised recording in public by way of trade
+[248PL](#248PL).   Exhibiting unauthorised recording in public by way of trade           585
 
-[248PM](#248PM).  Importing unauthorised recording for exhibition by way of trade
+[248PM](#248PM).  Importing unauthorised recording for exhibition by way of trade    586
 
         **Subdivision B—Acts relating to sound recordings of performances given before 1 July 1995**
 
-[248QA](#248QA).  Scope of this Subdivision
+[248QA](#248QA).  Scope of this Subdivision                                                                587
 
-[248QB](#248QB).  Possessing equipment for copying unauthorised sound recording
+[248QB](#248QB).  Possessing equipment for copying unauthorised sound recording   588
 
-[248QC](#248QC).  Copying unauthorised sound recording
+[248QC](#248QC).  Copying unauthorised sound recording                                           589
 
-[248QD](#248QD).  Selling etc  unauthorised sound recording
+[248QD](#248QD).  Selling etc  unauthorised sound recording                                        590
 
-[248QE](#248QE).   Distributing unauthorised sound recording
+[248QE](#248QE).   Distributing unauthorised sound recording                                      591
 
-[248QF](#248QF).   Commercial possession or import of unauthorised sound recording
+[248QF](#248QF).   Commercial possession or import of unauthorised sound recording 593
 
-[248QG](#248QG).  Exhibiting unauthorised sound recording in public by way of trade
+[248QG](#248QG).  Exhibiting unauthorised sound recording in public by way of trade 594
 
-[248QH](#248QH).  Importing unauthorised sound recording for exhibition by way of trade
+[248QH](#248QH).  Importing unauthorised sound recording for exhibition by way of trade  596
 
         **Subdivision C—Prosecution and infringement notices**
 
-[248R](#248R).     Courts in which offences may be prosecuted
+[248R](#248R).     Courts in which offences may be prosecuted                                   597
 
-[248S](#248S).      Protection against multiple proceedings for same act
+[248S](#248S).      Protection against multiple proceedings for same act                       597
 
-[248SA](#248SA).   Infringement notices
+[248SA](#248SA).   Infringement notices                                                                         597
 
         **Subdivision D—Destruction or delivery up of unauthorised recordings**
 
-[248T](#248T).      Destruction or delivery up of unauthorised recordings
+[248T](#248T).      Destruction or delivery up of unauthorised recordings                    598
 
     **Division 4—Extension of protection to foreign countries**
 
-[248U](#248U).     Application to foreign countries
+[248U](#248U).     Application to foreign countries                                                       599
 
-[248V](#248V).     Denial of protection to citizens of countries not giving adequate protection to Australian performances
+[248V](#248V).     Denial of protection to citizens of countries not giving adequate protection to Australian performances  600
 
 **Part XII—Regulations**
 
-[249](#249).        Regulations
+[249](#249).        Regulations                                                                                      601
 
 **The Schedule** 
 
@@ -3549,7 +3547,7 @@ Note:          Section 130C deals with the burden of proof a
 
                     <a name="broadcast"></a>**_broadcasting_** does not include simulcasting.
 
-##### <a id="47AA"></a>47AA  Reproduction for the purpose of simulcasting
+##### <a id="47AA"></a>47AA  Reproduction for the purpose of simulcasting
 
              (1)  If the broadcasting of a literary, dramatic or musical work, or of an adaptation of such a work, would not for any reason constitute an infringement of the copyright in the work, but the making of a sound recording or a cinematograph film of the work or adaptation would, apart from this subsection, constitute such an infringement, the copyright in the work is not infringed by the making of such a recording or film solely for the purpose of simulcasting the work or adaptation in digital form.
 
@@ -4385,7 +4383,7 @@ be taken to have been previously made in, or imported into, Australia with the l
 
 ##### <a id="64"></a>64  Sections 55 and 59 to be disregarded in determining whether an infringement has been committed by the importation of records
 
-                   For the purpose of any provision of this Act relating to imported articles, in determining whether the making of a record made outside Australia would have constituted an infringement of copyright if the record had been made in   Australia by the importer, sections 55 and 59 shall be disregarded.
+                   For the purpose of any provision of this Act relating to imported articles, in determining whether the making of a record made outside Australia would have constituted an infringement of copyright if the record had been made in Australia by the importer, sections 55 and 59 shall be disregarded.
 
 ### Division 7—Acts not constituting infringements of copyright in artistic works
 
@@ -4556,7 +4554,7 @@ by embodying that, or any other, corresponding design in a product.
 
 ##### <a id="78"></a>78  References to all of joint authors
 
-                   Subject to this Division, a reference in this Act to the author of a work shall, unless otherwise expressly provided by this Act, be read, in relation to a work of joint authorship, as a reference to all the authors of the work.
+                   Subject to this Division, a reference in this Act to the author of a work shall, unless otherwise expressly provided by this Act, be read, in relation to a work of joint authorship, as a reference to all the authors of the work.
 
 ##### <a id="79"></a>79  References to any one or more of joint authors
 
@@ -5414,7 +5412,7 @@ Relationship with the rest of this Division
 
              (4)  For the purposes of subsection (3), the regulations may specify different dates in relation to different classes of sound recordings or cinematograph films.
 
-##### <a id="111"></a>111  Recording broadcasts for replaying at more convenient time
+##### <a id="111"></a>111  Recording broadcasts for replaying at more convenient time
 
              (1)  This section applies if a person makes a cinematograph film or sound recording of a broadcast solely for private and domestic use by watching or listening to the material broadcast at a time more convenient than the time when the broadcast is made.
 
@@ -9255,7 +9253,7 @@ the court may order the objector to pay to that defendant such amount as the cou
 
 ##### <a id="135AK"></a>135AK  Immunity of the Commonwealth
 
-                   The Commonwealth is not liable for any loss or damage suffered by a person:
+                   The Commonwealth is not liable for any loss or damage suffered by a person:
 
                      (a)  because of the seizure of copies, or the failure of the CEO to seize copies, under this Division; or
 
@@ -11235,7 +11233,7 @@ with the consent of the administering body by whom, or on whose behalf, it is ma
 
 Note:          A corporation may be fined up to 5 times the amount of the maximum fine. See subsection 4B(3) of the _Crimes Act 1914_.
 
-##### <a id="135ZZQ"></a>135ZZQ  Identity cards
+##### <a id="135ZZQ"></a>135ZZQ  Identity cards
 
              (1)  The chief executive officer (however described) of a collecting society must issue an identity card in the prescribed form to each person authorised by the society for the purposes of subsection 135ZZP(2). The identity card must contain a recent photograph of the authorised person.
 
@@ -12538,7 +12536,7 @@ the Tribunal may so treat the amount or the part of the amount, as the case may 
 
                     <a name="collect-societi"></a>**_collecting society_** has the same meaning as in Part VB.
 
-##### <a id="153DA"></a>153DA  Applications to the Tribunal under subsection 135ZWA(2)
+##### <a id="153DA"></a>153DA  Applications to the Tribunal under subsection 135ZWA(2)
 
              (1)  The parties to an application to the Tribunal under subsection 135ZWA(2) for the determination of an electronic use system to be used in relation to licensed copies or licensed communications made by, or on behalf of, an administering body, or any other relevant matters, are the relevant collecting society and the body.
 
@@ -15401,7 +15399,7 @@ Note:          Subsection (4) does not apply in relation to 
 
              (2)  This section has effect subject to subsection 195ANA(3).
 
-##### <a id="195AZGF"></a>195AZGF  Presumptions in relation to performership
+##### <a id="195AZGF"></a>195AZGF  Presumptions in relation to performership
 
              (1)  If a name purporting to be the name of a performer appears on a record embodying a performance so as to indicate that the person was a performer in the performance, then, in an action brought under this Part, the person whose name so appeared is, if it was his or her true name or a name by which he or she was commonly known, presumed, unless the contrary is established, to be a performer in the performance.
 
@@ -16879,7 +16877,7 @@ the amount of any damages referred to in paragraph (b) that, apart from this s
 
                    Jurisdiction is conferred on the Federal Court of Australia with respect to actions under section 248J.
 
-##### <a id="248MA"></a>248MA  Jurisdiction of Federal Magistrates Court
+##### <a id="248MA"></a>248MA  Jurisdiction of Federal Magistrates Court
 
                    Jurisdiction is conferred on the Federal Magistrates Court with respect to actions under section 248J.
 
@@ -17785,7 +17783,7 @@ Strict liability offence
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="248QE"></a>248QE  Distributing unauthorised sound recording
+##### <a id="248QE"></a>248QE  Distributing unauthorised sound recording
 
 Indictable offences
 
@@ -19363,23 +19361,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 2, 3) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 445, 446) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Copyright Act 1968_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
@@ -19476,6300 +19457,4 @@ _(o)_     The _Copyright Act 1968_ was amended by Schedules 1 and 2 of
 
                  (2)   However, this Act commences immediately after the commencement of item 1 of Schedule 3 to the _Copyright Amendment Act (No. 1) 1998_ if that Act receives the Royal Assent on a day that is the same as, or later than, the day on which this Act receives the Royal Assent.
 
-         The _Copyright Amendment Act (No. 1) 1998_ received the Royal Assent on 30 July 1998.
-
-_(p)_     The _Copyright Act 1968_ was amended by Schedule 1 (item 338) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                 (2)   Subject to this section, this Act commences at the commencing time.
-
-_(q)_     Subsection 2(1) (items 33 and 34) of the _Statute Law Revision Act 2002_ provide as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      33\. Schedule 2, item 4
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Copyright Amendment (Digital Agenda) Act 2000</i>for the commencement
-        of item 41 of Schedule 1 to that Act
-    </div>
-  </td>
-  <td>
-    <div>
-      4 March 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      34\. Schedule 2, item 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Copyright Amendment (Digital Agenda) Act 2000</i>for the commencement
-        of item 224 of Schedule 1 to that Act
-    </div>
-  </td>
-  <td>
-    <div>
-      4 March 2001
-    </div>
-  </td>
-</tr></table>
-
-_(r)_     The _Copyright Act 1968_ was amended by Schedule 9 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences at the later of the following times:
-
-                              (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
-
-         Item 15 commenced on 24 May 2001.
-
-_(s)_     Subsection 2(1) (items 4–9) of the _Copyright Amendment (Parallel Importation) Act 2003_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 3, items 1 to 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the
-        <i>Copyright Amendment (Digital Agenda) Act 2000</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      4 March 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 3, item 4
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to this Act
-    </div>
-  </td>
-  <td>
-    <div>
-      15 April 2003
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 3, item 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the
-        <i>Copyright Amendment (Digital Agenda) Act 2000</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      4 March 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      7\. Schedule 3, item 6
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to this Act
-    </div>
-  </td>
-  <td>
-    <div>
-      15 April 2003
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 3, item 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the
-        <i>Copyright Amendment (Digital Agenda) Act 2000</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      4 March 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 3, items 8 and 9
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to this Act
-    </div>
-  </td>
-  <td>
-    <div>
-      15 April 2003
-    </div>
-  </td>
-</tr></table>
-
-_(t)_      Subsection 2(1) (item 2) of the _Designs (Consequential Amendments) Act 2003_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 4 of the
-        <i>Designs Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      17 June 2004
-    </div>
-  </td>
-</tr></table>
-
-_(u)_     Subsection 2(1) (items 2, 12, 15 and 17) of the _US__Free Trade Agreement Implementation Act 2004_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) 1 January 2005; and
-    </div>
-    <div>
-      (b) the day on which the Australia‑United States Free Trade Agreement,
-        done at Washington DC on 18 May 2004, comes into force for Australia.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-    <div>
-      The Minister for Trade must announce by notice in the
-        <i>Gazette</i>the day on which the Agreement comes into force for Australia.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-    <div>
-      (paragraph (a) applies)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      12\. Schedule 9, items 107 to 112
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      15\. Schedule 9, item 120
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as the provisions covered by table item 2\. However, if
-        that time is the same time as the time at which the provisions covered
-        by table item 12 commence, then item 120 commences immediately after those
-        provisions commence.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      17\. Schedule 9, item 122
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as the provisions covered by table item 2\. However, if
-        that time is the same time as the time at which the provisions covered
-        by table item 12 commence, then item 122 commences immediately after those
-        provisions commence.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
-
-_(v)_     Subsection 2(1) (item 2) of the _Copyright Legislation Amendment Act 2004_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) the start of the day on which this Act receives the Royal Assent;
-        and
-    </div>
-    <div>
-      (b) immediately after the commencement of the provisions covered by table
-        item 2 in the table in section 2 of the
-        <i>US</i>
-        <i>Free Trade Agreement Implementation Act 2004</i>.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-
-      (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
-
-_(w)_    Subsection 2(1) (item 6) of the _Statute Law Revision Act 2006_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 1, items 8 and 9
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 191 of Schedule 9 to the
-        <i>US</i>
-        <i>Free Trade Agreement Implementation Act 2004</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
-
-_(x)_     Subsection 2(1) (items 2, 3 and 7–10) of the _Copyright Amendment Act 2006_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1, Part 1
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2007.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 1, Part 2
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) immediately after the commencement of Part 1 of Schedule 1 to this
-        Act; and
-    </div>
-    <div>
-      (b) the time the
-        <i>Archives Amendment Act 2006</i>commences.</div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      Does not commence
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      7\. Schedule 10
-    </div>
-  </td>
-  <td>
-    <div>
-      The day on which this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      11 December 2006
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 11
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 10.
-    </div>
-  </td>
-  <td>
-    <div>
-      11 December 2006
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 12, Part 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provisions covered by table
-        item 2.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      10\. Schedule 12, Part 2
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) immediately after the commencement of Part 1 of Schedule 12 to this
-        Act; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Schedule 1 to the
-        <i>Archives Amendment Act 2006</i>.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      Does not commence
-    </div>
-  </td>
-</tr></table>
-
-_(y)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 42, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 67, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 160, 1977; No. 154, 1980; No. 113, 1981; No. 154, 1982; Nos. 7 and 136, 1983; Nos. 43 and 165, 1984; No. 67, 1985; Nos. 78 and 168, 1986; No. 146, 1988; No. 28, 1989; No. 32, 1989 (as am. by No. 107, 1993); Nos. 174 and 180, 1991; No. 105, 1992; Nos. 37 and 141, 1994; Nos. 104 and 105, 1998; No. 110, 2000; Nos. 34 and 148, 2003; No. 120, 2004; No. 158, 2006; am. Nos. 21 and 28, 2007; No. 113, 2008; No. 94, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10AA</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10AB, 10AC</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10AD</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 78, 1986; No. 32, 1989 (as am. by No. 107, 1993); No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 21</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 22(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 22(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 22(4), (5).</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1986; No. 32, 1989 (as am. by No. 107, 1993); No. 110, 2000; No. 120, 2004; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 32, 1989 (as am. by No. 107, 1993); No. 141, 1994; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30A</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 149, 1994; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994; No. 21, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 110, 2000; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994; No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1991; No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1991; No. 141, 1994; No. 104, 1998; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39A</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000 (as am. by No. 63, 2002); No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39B</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 32, 1989 (as am. by No. 107, 1993); No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41A</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 100, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43A</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 105, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 43B</div>
-  </td>
-  <td>
-    <div>am. No. 154, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43C</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44A</div>
-  </td>
-  <td>
-    <div>ad. No. 174, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44B</div>
-  </td>
-  <td>
-    <div>ad. No. 37, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44BA</div>
-  </td>
-  <td>
-    <div>ad. No. 39, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44C</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 44C(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44D</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 34, 2003; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 44E, 44F</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 80, 1983; No. 141, 1994; No. 110, 2000; No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47AA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 47A</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47A</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 105 and 167, 1992; No. 104, 1998; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4A of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47AB</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47B–47D</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47E–47H</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4B of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47J</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 5 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>rs. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48A</div>
-  </td>
-  <td>
-    <div>ad. No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 49</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>rs. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 165, 1984; No. 141, 1994; No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 49(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 49(2C)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 49</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 50</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>rs. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 165, 1984; No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 50(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 50</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 51</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994; No. 110, 2000; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 51AA</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000; No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51AA</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000; No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 51A</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51A</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 78, 1986; No. 141, 1994; No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 51A(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51B</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 52</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 91, 1983; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5A of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53A</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53B</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53C</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 91, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5B of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53D</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 32, 1989 (as am. by No. 107, 1993); No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 61, 1981; No. 32, 1989 (as am. by No. 107, 1993); No. 159, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 62, 63</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 80, 1983; No. 141, 1994; No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>rep. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 8 of Part III</div>
-  </td>
-  <td>
-    <div>am. No. 42, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 42, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>am. No. 42, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 42, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 148, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 42, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77A</div>
-  </td>
-  <td>
-    <div>ad. No. 148, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 79, 80</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>rs. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 149, 1994; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>am. No. 160, 1977; Nos. 7 and 136, 1983; No. 78, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 146, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 180, 1991; No. 167, 1992; No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91A</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 93, 94</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 95, 96</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. A of 
-Div. 5 of Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>am. No. 130, 2005; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>am. No. 160, 1977; No. 154, 1980; No. 7, 1983; No. 78, 1986; No. 146, 1988; No. 180, 1991; No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. B of Div. 5 of Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 100AA–100AF</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100AG</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100AH</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 100AH</div>
-  </td>
-  <td>
-    <div>am. No. 94, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100A</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 102</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1991; Nos. 104 and 105, 1998; No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1991; No. 141, 1994; No. 104 and 105, 1998; No. 34, 2003; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103A</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103AA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103B</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103C</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>rs. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 100, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104A</div>
-  </td>
-  <td>
-    <div>ad. No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104B</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 107</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 80, 1983; No. 141, 1994; No. 110, 2000; No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 108</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 109</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994; No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 109A</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110AA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 110A</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110A</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 110B</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110B</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 110B(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110BA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110C</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111A</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 111B</div>
-  </td>
-  <td>
-    <div>am. No. 154, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112</div>
-  </td>
-  <td>
-    <div>rs. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 78, 1986; No. 32, 1989 (as am. by No. 107, 1993); No. 104, 1998; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112A</div>
-  </td>
-  <td>
-    <div>ad. No. 174, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112AA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112B</div>
-  </td>
-  <td>
-    <div>ad. No. 37, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112C</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 112C(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112D</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112DA</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112E</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 113</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 113A–113C</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part V</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 115</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000; No. 34, 2003; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994; No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2AA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2AA of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116AA</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116AB</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2004; No. 9, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 116AC–116AF</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116AG</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116AH</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116AI</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116AJ</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2A of Part V</div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116A</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. A of Div. 2A of 
-Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 116AK–116AQ</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. B of 
-Div. 2A of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116B</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 116C</div>
-  </td>
-  <td>
-    <div>rs. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116C</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 116CA, 116CB</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 116D</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116D</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 119</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 120</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 122</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 123</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 123</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 124</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 124</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 125</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of Part V</div>
-  </td>
-  <td>
-    <div>rs. No. 78, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 126</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 126A</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 126A</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 126B</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 126B</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 127</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 128</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 129</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 129A</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 130</div>
-  </td>
-  <td>
-    <div>am. No. 34, 2003; No. 154, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 130A</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 130B, 130C</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 131</div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 141, 1994; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4A of Part V</div>
-  </td>
-  <td>
-    <div>rs. No. 23, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4A of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131A</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131B</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 23, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131C</div>
-  </td>
-  <td>
-    <div>ad. No. 23, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131D</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 132(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 132(5), 
-(5AA), (5A)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004 
-rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 132(5E)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 132(5F)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 132(6), 
-(6AA)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004 
-rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 132(7)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 132(9)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 43, 1984; No. 78, 1986; Nos. 104 and 105, 1998; No. 110, 2000; No. 34, 2003; Nos. 120 and 154, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 132(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. A of Div. 5 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 132AA, 132AB</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. B of Div. 5 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132AC</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. C of Div. 5 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 132AD–132AM</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. D of Div. 5 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 132AN, 132AO</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. E of Div. 5 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 132APA, 132APB</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 132APC–132APE</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision F</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. F of Div. 5 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 132AQ–132AS</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132AT</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision G</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. G of Div. 5 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132AU</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132A</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132B</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132C</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision H</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. H of Div. 5 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 133</div>
-  </td>
-  <td>
-    <div>rs. No. 105, 1998; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 133</div>
-  </td>
-  <td>
-    <div>am. No. 154, 1980; No. 91, 1983; No. 78, 1986; Nos. 104 and 105, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. I of Div. 5 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 133A</div>
-  </td>
-  <td>
-    <div>am. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 133A</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 78, 1986; No. 105, 1998; No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 133B</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 134</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 134A</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 149, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 7 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 134B</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 91, 1976; No. 19, 1979; No. 154, 1980; No. 80, 1982; No. 65, 1985; No. 32, 1989 (as am. by No.107, 1993); Nos. 141 and 149, 1994; Nos. 104 and 105, 1998; No. 34, 2003; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AA</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135AB–135AI</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AJ</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AK</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VAA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VAA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AL</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AM</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 135AN(1), 
-(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004 
-rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135AN(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 135AN(7), 
-(8)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004 
-rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AN</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ANA</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 135ANA(1), 
-(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004 
-rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135ANA(4).</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135ANA(7).</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ANA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AOA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AOB</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135AOC, 135AOD</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AOE, 135AOF</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135AP–135AR</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ARA</div>
-  </td>
-  <td>
-    <div>ad. No. 34, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135AS(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 135AS(2), 
-(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004 
-rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135AS(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AS</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 120 and 154, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 135AS(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ASA–35ASJ</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ATA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AT</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135AU</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VA</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VA</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135A</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135B</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135B</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135C</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 28, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135D</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part VA</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135E</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135E</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135F</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135F</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135G</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135H</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135J</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135JAA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135JA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135K(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135K(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135K</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135KA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135L</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135M</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135N</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135P</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135P</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135Q</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135R, 135S</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135SA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135T</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135U–135W</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135X, 135Y</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135Z</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135Z</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZA</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VB</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VB</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VB</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZB</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZD</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZE, 135ZF</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZFA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part VB</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZGA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZG</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZG</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZH</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZJ</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZJ</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZK</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZL</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZL</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZM</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZM</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part VB</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZMA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135ZMB(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135ZMB(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135ZMB(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZMB</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZMC, 135ZMD</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZMDA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZME</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part VB</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZN</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZN</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZP</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZP</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZQ</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZQ</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of Part VB</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZR</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZR</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZS</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZS</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZT</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZT</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZU</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZV</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZW</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZWAA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZWA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135ZX</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 135ZX(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 135ZX(3), 
-(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZX</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZXA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZY</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZ</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZA</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZB</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZC–135ZZE</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZEA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZF, 135ZZG</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1998; No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZH</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as am. by No. 107, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VC</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VC</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as rep. by No. 107, 1993); No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZI</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004; No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZJ</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as rep. by No. 107, 1993); No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZJA</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 8 and 94, 2010; No. 36, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZK–135ZZN</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as rep. by No. 107, 1993); No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZP–135ZZS</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as rep. by No. 107, 1993); No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZT–135ZZW</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as rep. by No. 107, 1993); No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZWA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZX–135ZZZ</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as rep. by No. 107, 1993); No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZZA, 135ZZZB</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1989 (as rep. by No. 107, 1993); No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZZC–135ZZZE</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VD</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VD</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZZF–135ZZZH</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZZI–135ZZZN</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZZO–135ZZZS</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZZT–135ZZZX</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 135ZZZY, 135ZZZZ</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135ZZZZA</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div>
+         The _Copyright Amendment Act (No. 1) 1998_ received the 
