@@ -1,919 +1,989 @@
-![](http://www.comlaw.gov.au/Details/C2006C00249/Html/69D64E9385A428ACCA25716A002597C1/$FILE/image001.gif)
+**
 
-# Law Officers Act 1964
+###  LAW OFFICERS ACT 1964 
+**
 
-**Act No. 91 of 1964 as amended**
 
-This compilation was prepared on 10 May 2006
-taking into account amendments up to Act No. 40 of 2006
+**
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
 
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[4](#4).            Interpretation
 
-[5](#5).            Office of Solicitor-General
 
-[6](#6).            Appointment of Solicitor-General
 
-[7](#7).            Remuneration and allowances of Solicitor-General
+**
 
-[8](#8).            Resignation
+###  Long Title 
+**
 
-[9](#9).            Solicitor-General not to undertake other work
+###  LAW OFFICERS ACT 1964- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[10](#10).          Vacation of office
+		This Act may be cited as the _Law Officers Act 1964_.
 
-[11](#11).          Acting Solicitor-General
+ </dl>
+###  LAW OFFICERS ACT 1964- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[12](#12).          Functions of Solicitor-General
+		This Act shall come into operation on the day on which it receives the Royal
 
-[13](#13).          Solicitor-General entitled to rights and privileges as a barrister
+Assent.
 
-[14](#14).          Commonwealth officer appointed as Solicitor-General
+ </dl>
+###  LAW OFFICERS ACT 1964- SECT 4  Interpretation 
+<dl compact="">
 
-[16](#16).          Pension of Solicitor-General
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears,
 
-[16A](#16A).       Payment to Solicitor-General in lieu of long leave
+_Solicitor-General_ means a person holding office as
 
-[17](#17).          Delegation by Attorney-General
+Solicitor-General of the Commonwealth in pursuance of this Act.</dd> <dt>(2)</dt><dd>In sections&#160;7, 8, 12, 13, 15 and 17, _Solicitor-General_ includes a person acting in the office of Solicitor-General of the Commonwealth in pursuance of this Act. </dd> </dl>
+###  LAW OFFICERS ACT 1964- SECT 5  Office of Solicitor-General 
+<dl compact="">
 
-[18](#18).          References in laws to Solicitor-General
+		There shall be a Solicitor-General of the Commonwealth, who shall be the
 
-[19](#19).          Regulations
+second Law Officer of the Commonwealth.
 
-**Notes** 
+ </dl>
+###  LAW OFFICERS ACT 1964- SECT 6  Appointment of Solicitor-General 
+<dl compact="">
 
- 
+<dt>(1)</dt><dd>A person appointed as Solicitor-General shall be appointed by the
 
+Governor-General for such period, not exceeding 7 years, as the
 
-## An Act relating to the Law Officers of the Commonwealth
+Governor-General determines, but is eligible for re-appointment.</dd> <dt>(2)</dt><dd>A person is not eligible for appointment as Solicitor-General unless he or she is or has been a barrister or solicitor of the High Court or of the Supreme Court of a State of not less than 5 years' standing.</dd> <dt>(3)</dt><dd>A person appointed as Solicitor-General holds office, subject to this Act, for the term of his or her appointment, on such terms and conditions as the Governor-General determines. </dd> </dl>
+###  LAW OFFICERS ACT 1964- SECT 7  Remuneration and allowances of Solicitor-General 
+<dl compact="">
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+<dt>(1)</dt><dd>The Solicitor-General shall be paid such remuneration as is determined by
 
-                   This Act may be cited as the _Law Officers Act 1964_.
+the Remuneration Tribunal.</dd> <dt>(2)</dt><dd>The Solicitor-General shall be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_ and section&#160;7 of the _Judicial and Statutory Officers (Remuneration and Allowances) Act 1984_. </dd> </dl>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+Back to Top
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+###  LAW OFFICERS ACT 1964- SECT 8  Resignation 
+<dl compact="">
 
-##### <a id="4"></a>4  Interpretation
+		The Solicitor-General may resign the office of Solicitor-General by giving a
 
-             (1)  In this Act, unless the contrary intention appears, **_Solicitor-General_** means a person holding office as Solicitor-General of the Commonwealth in pursuance of this Act.
+signed notice of resignation to the Governor-General.
 
-             (2)  In sections 7, 8, 12, 13, 15 and 17, **_Solicitor-General_** includes a person acting in the office of Solicitor-General of the Commonwealth in pursuance of this Act.
+ </dl>
+###  LAW OFFICERS ACT 1964- SECT 9  Solicitor-General not to undertake other work 
+<dl compact="">
 
-##### <a id="5"></a>5  Office of Solicitor-General
+<dt>(1)</dt><dd>Except in the performance of the duties of his or her office or with the
 
-                   There shall be a Solicitor-General of the Commonwealth, who shall be the second Law Officer of the Commonwealth.
+consent of the Attorney-General, the Solicitor-General shall not engage in the
 
-##### <a id="6"></a>6  Appointment of Solicitor-General
+practice of a barrister or solicitor or engage in paid employment.</dd> <dt>(2)</dt><dd>Where the Attorney-General gives consent to the engaging by the Solicitor-General in the practice of a barrister or solicitor, the Attorney-General is to lay before each House of the Parliament within 15 sitting days of that House after the day on which the consent is given a written statement of the reasons for the giving of the consent. </dd> </dl>
+###  LAW OFFICERS ACT 1964- SECT 10  Vacation of office 
+<dl compact="">
 
-             (1)  A person appointed as Solicitor-General shall be appointed by the Governor-General for such period, not exceeding 7 years, as the Governor-General determines, but is eligible for re-appointment.
+		The Governor-General shall remove the Solicitor-General from office if the
 
-             (2)  A person is not eligible for appointment as Solicitor-General unless he or she is or has been a barrister or solicitor of the High Court or of the Supreme Court of a State of not less than 5 years’ standing.
+Solicitor-General:
 
-             (3)  A person appointed as Solicitor-General holds office, subject to this Act, for the term of his or her appointment, on such terms and conditions as the Governor-General determines.
+ </dl>
 
-##### <a id="7"></a>7  Remuneration and allowances of Solicitor-General
 
-             (1)  The Solicitor-General shall be paid such remuneration as is determined by the Remuneration Tribunal.
+###  LAW OFFICERS ACT 1964- SECT 11  Acting Solicitor-General 
+<dl compact="">
 
-             (2)  The Solicitor-General shall be paid such allowances as are prescribed.
+<dt>(1)</dt><dd>The Governor-General may appoint a person to act as Solicitor-General:
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_ and section 7 of the _Judicial and Statutory Officers (Remuneration and Allowances) Act 1984_.
+</dd> </dl>
 
-##### <a id="8"></a>8  Resignation
+<dl compact="">
 
-                   The Solicitor-General may resign the office of Solicitor-General by giving a signed notice of resignation to the Governor-General.
+<dt>(2)</dt><dd>A person who is appointed to act in the Office of Solicitor-General must
 
-##### <a id="9"></a>9  Solicitor-General not to undertake other work
+be eligible for appointment to that office.</dd> <dt>(3)</dt><dd>The Governor-General may: </dd> </dl>
 
-             (1)  Except in the performance of the duties of his or her office or with the consent of the Attorney-General, the Solicitor-General shall not engage in the practice of a barrister or solicitor or engage in paid employment.
+<dl compact="">
 
-             (2)  Where the Attorney-General gives consent to the engaging by the Solicitor-General in the practice of a barrister or solicitor, the Attorney-General is to lay before each House of the Parliament within 15 sitting days of that House after the day on which the consent is given a written statement of the reasons for the giving of the consent.
+<dt>(4)</dt><dd>The validity of anything done by or in relation to a person purporting to
 
-##### <a id="10"></a>10  Vacation of office
+act under subsection&#160;(1) must not be called into question on the ground
 
-                   The Governor-General shall remove the Solicitor-General from office if the Solicitor-General:
+that:
 
-                     (a)  except by reason of temporary illness, becomes incapable of performing the duties of his or her office;
+</dd> </dl>
 
-                     (b)  is guilty of misbehaviour; or
 
-                     (c)  becomes bankrupt or insolvent, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit.
 
-##### <a id="11"></a>11  Acting Solicitor-General
+<dl compact="">
 
-             (1)  The Governor-General may appoint a person to act as Solicitor-General:
+Note:	See section&#160;33A of the _Acts Interpretation Act 1901_ for further provisions relating to acting appointments.
 
-                     (a)  during a vacancy in the Office of Solicitor-General whether or not an appointment has previously been made to the office; or
+ </dl>
+###  LAW OFFICERS ACT 1964- SECT 12  Functions of Solicitor-General 
+<dl compact="">
 
-                     (b)  during any period, or during all periods, when the Solicitor-General is absent from duty or from Australia or is, for any reason, unable to perform the functions of the office.
+		The functions of the Solicitor-General are:
 
-             (2)  A person who is appointed to act in the Office of Solicitor-General must be eligible for appointment to that office.
+ </dl>
 
-             (3)  The Governor-General may:
 
-                     (a)  determine the terms and conditions of appointment of a person acting as Solicitor-General; and
 
-                     (b)  at any time terminate such an appointment.
 
-             (4)  The validity of anything done by or in relation to a person purporting to act under subsection (1) must not be called into question on the ground that:
 
-                     (a)  the occasion for the appointment had not arisen; or
 
-                     (b)  there is a defect or irregularity in or in connection with the appointment; or
+Back to Top
 
-                     (c)  the appointment has ceased to have effect; or
 
-                     (d)  the occasion for him or her to act had not arisen or had ceased.
 
-Note:          See section 33A of the _Acts Interpretation Act 1901_ for further provisions relating to acting appointments.
 
-##### <a id="12"></a>12  Functions of Solicitor-General
 
-                   The functions of the Solicitor-General are:
 
-                     (a)  to act as counsel for:
 
-                              (i)  the Crown in right of the Commonwealth;
 
-                             (ii)  the Commonwealth;
+###  LAW OFFICERS ACT 1964- SECT 13  Solicitor-General entitled to rights and privileges as a barrister 
+<dl compact="">
 
-                            (iii) a person suing or being sued on behalf of the Commonwealth;
+		The Solicitor-General, in his or her official capacity:
 
-                            (iv)  a Minister;
+ </dl>
 
-                             (v)  an officer of the Commonwealth;
 
-                            (vi)  a person holding office under an Act or a law of a Territory;
 
-                           (vii)  a body established by an Act or a law of a Territory; or
+###  LAW OFFICERS ACT 1964- SECT 14  Commonwealth officer appointed as Solicitor-General 
+<dl compact="">
 
-                           (viii)  any other person or body for whom the Attorney-General requests him or her to act;
+<dt>(1)</dt><dd>The _Judges&apos; Pensions Act 1968_ does not apply in relation to the
 
-                     (b)  to furnish his or her opinion to the Attorney-General on questions of law referred to him or her by the Attorney-General; and
+Solicitor-General if:
 
-                     (c)  to carry out such other functions ordinarily performed by counsel as the Attorney-General requests.
+</dd> </dl>
 
-##### <a id="13"></a>13  Solicitor-General entitled to rights and privileges as a barrister
+Superannuation Act 1976
 
-                   The Solicitor-General, in his or her official capacity:
+Superannuation Act 1990
 
-                     (a)  is entitled to practise as a barrister:
+<dl compact="">
 
-                              (i)  in a federal court or in a court of a State or Territory; or
+<dt>(2)</dt><dd>The Solicitor-General may elect to cease to be:
 
-                             (ii)  in a tribunal of the Commonwealth, a State or a Territory; and
+</dd> </dl>
+Superannuation Act 1976
 
-                     (b)  is entitled to all the rights and privileges of a barrister in that court or tribunal;
+Superannuation Act 1990
+<dl compact="">
 
-whether or not he or she would, but for this section, be entitled to practise in that court or tribunal.
+<dt>(2A)</dt><dd>The election must be made:
 
-##### <a id="14"></a>14  Commonwealth officer appointed as Solicitor-General
+</dd> </dl>
 
-             (1)  The _Judges’ Pensions Act 1968_ does not apply in relation to the Solicitor-General if:
+<dl compact="">
 
-                     (a)  immediately before being appointed as the Solicitor-General, he or she was:
+<dt>(2B)</dt><dd>If the Solicitor-General makes the election:
 
-                              (i)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
+</dd> </dl>
+Judges&apos; Pensions Act 1968
 
-                             (ii)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; and
 
-                     (b)  he or she does not make an election under subsection (2).
+Superannuation Act 1976
 
-             (2)  The Solicitor-General may elect to cease to be:
+Superannuation Act 1990
 
-                     (a)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
+###  LAW OFFICERS ACT 1964- SECT 16  Pension of Solicitor-General 
+<dl compact="">
 
-                     (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_.
+<dt>(1AA)</dt><dd>This section does not apply in relation to a person appointed as
 
-          (2A)  The election must be made:
+Solicitor-General after 31&#160;December 1997.</dd> <dt>(1)</dt><dd>Subject to this section, the provisions of the _Judges&apos; Pensions Act 1968_ other than subsection 6(3) (including the provisions relating to widows and children) apply to and in relation to a person who is or has been a Solicitor-General as though the Solicitor-General were or had been a Judge and as though his or her service (whether in continuous periods or not) as Solicitor-General were service as a Judge.</dd> <dt>(2)</dt><dd>If a person becomes a Judge and, at any time before his or her appointment as a Judge, he or she held office as Solicitor-General, the period of his or her service as Solicitor-General shall, for the purposes of sections&#160;6 and 7 of the _Judges&apos; Pensions Act 1968,_ be added to, and be deemed to be part of, his or her period of service as a Judge and: </dd> </dl>
 
-                     (a)  within 3 months of the Solicitor-General’s appointment; and
+Back to Top
 
-                     (b)  by notice in writing to the Minister.
 
-          (2B)  If the Solicitor-General makes the election:
+<dl compact="">
 
-                     (a)  the _Judges’ Pensions Act 1968_ applies in relation to him or her and is taken to have so applied immediately after he or she was appointed as the Solicitor-General; and
+<dt>(3)</dt><dd>If a person is appointed as Solicitor-General and, at the time of his or
 
-                     (b)  he or she is taken to have ceased to be:
+her appointment, he or she is in receipt of a pension under the _Judges&apos; Pensions Act 1968_ by virtue of subsection&#160;(1), that pension ceases to
 
-                              (i)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
+be payable.</dd> <dt>(4)</dt><dd>Where: </dd> </dl>
 
-                             (ii)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_;
 
-                            immediately before being appointed as the Solicitor-General.
+<dl compact="">
 
-##### <a id="16"></a>16  Pension of Solicitor-General
+<dt>(4A)</dt><dd>If a person is appointed as Solicitor-General and, at the time of the
 
-       (1AA)  This section does not apply in relation to a person appointed as Solicitor-General after 31 December 1997.
+appointment, is receiving a pension because of the application of
 
-             (1)  Subject to this section, the provisions of the _Judges’ Pensions Act 1968_ other than subsection 6(3) (including the provisions relating to widows and children) apply to and in relation to a person who is or has been a Solicitor-General as though the Solicitor-General were or had been a Judge and as though his or her service (whether in continuous periods or not) as Solicitor-General were service as a Judge.
+subsection&#160;(8), that pension ceases to be payable.</dd> <dt>(5)</dt><dd>For the purpose of the application of subsections&#160;(6), (7) and (8) in relation to the person, a reference to the relevant discounted rate of pension is a reference to whichever is the lesser of: </dd> </dl>
 
-             (2)  If a person becomes a Judge and, at any time before his or her appointment as a Judge, he or she held office as Solicitor-General, the period of his or her service as Solicitor-General shall, for the purposes of sections 6 and 7 of the _Judges’ Pensions Act 1968,_ be added to, and be deemed to be part of, his or her period of service as a Judge and:
 
-                     (a)  if, at the time of so becoming a Judge, he or she is in receipt of a pension by virtue of subsection (1)—that pension ceases to be payable; or
 
-                     (b)  if, at that time, he or she is not so in receipt of a pension—no pension becomes payable by virtue of that subsection by reason of his having held office as Solicitor-General.
+<dl compact="">
 
-             (3)  If a person is appointed as Solicitor-General and, at the time of his or her appointment, he or she is in receipt of a pension under the _Judges’ Pensions Act 1968_ by virtue of subsection (1), that pension ceases to be payable.
+<dt>(6)</dt><dd>If the Attorney-General certifies that the person became, at a particular
 
-             (4)  Where:
+date before attaining the age of 60 years, permanently disabled or permanently
 
-                     (a)  a person has at any time, whether before or after the commencement of this subsection, served in the office of Solicitor-General for a period of at least 7 years, whether continuous or not; and
+infirm, the relevant provisions of the _Judges&apos; Pensions Act 1968_ apply
 
-                     (b)  the person ceases to hold that office after that commencement, otherwise than under paragraph 10(b); and
+in relation to the person as if the person had held office as Solicitor-General
 
-                     (c) the person is not entitled to payment of a pension under subsection (1);
+at that date and the certificate were given under subsection 6(2) of that Act,
 
-subsections (5) to (9), inclusive, apply in relation to the person.
+but the rate of the pension payable to the person is the relevant discounted
 
-          (4A)  If a person is appointed as Solicitor-General and, at the time of the appointment, is receiving a pension because of the application of subsection (8), that pension ceases to be payable.
+rate of pension.</dd> <dt>(7)</dt><dd>If the person dies before attaining the age of 60 years and was not entitled to a pension under subsection&#160;(6) immediately before his or her death, the relevant provisions of the _Judges&apos; Pensions Act 1968_ apply in relation to the person as if the person had held office as Solicitor-General at the time of his or her death, but a reference in any of those provisions as so applying to the relevant pension is a reference to pension at a rate equal to the relevant discounted rate of pension.</dd> <dt>(8)</dt><dd>If the person attains the age of 60 years and was not entitled to a pension under subsection&#160;(6) immediately before attaining that age, the relevant provisions of the _Judges&apos; Pensions Act 1968_ apply in relation to the person as if the person's period of appointment as Solicitor-General had expired upon his or her attaining that age after having served for not less than 10 years, but the rate of the pension payable to the person is the relevant discounted rate of pension.</dd> <dt>(9)</dt><dd>The person may, at any time before attaining the age of 60 years, apply to the Attorney-General for a certificate under subsection&#160;(6) and, upon receipt of the application, the Attorney-General shall: </dd> </dl>
 
-             (5)  For the purpose of the application of subsections (6), (7) and (8) in relation to the person, a reference to the relevant discounted rate of pension is a reference to whichever is the lesser of:
+<dl compact="">
 
-                     (a)  0.5% of the appropriate current salary for each completed month of the person’s actual service as Solicitor-General; or
+<dt>(10)</dt><dd>In the application of the relevant provisions of the _Judges&apos; Pensions Act 1968_ by virtue of this section, a reference in section&#160;6 of that
 
-                     (b)  60% of the appropriate current salary;
+Act to a Judge retiring includes a reference to a Solicitor-General not being
 
-reduced by 2.5% for each whole year between:
+re-appointed.</dd> <dt>(11)</dt><dd>An application may be made to the Administrative Appeals Tribunal for review of a refusal of the Attorney-General, on application under subsection&#160;(9), to give a certificate under subsection&#160;(6).</dd> <dt>(11A)</dt><dd>For the purposes of this section, the _appropriate current salary_ in relation to a person at a particular time (the _calculation time_) is calculated as follows: </dd> </dl>
 
-                     (c)  in the case of the application of subsection (6)—the date on which the person actually ceased to hold office as Solicitor-General and the date that the Attorney-General certified under that subsection was the date on which the person became permanently disabled or permanently infirm;
+Back to Top
 
-                     (d)  in the case of the application of subsection (7)—the date on which the person actually ceased to hold office as Solicitor-General and the date on which the person died; or
+ ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00045/Html/FC24F7295FE55557CA256F71004C5E2B/$FILE/1202.gif)
+<dl compact=""><dl compact="">
 
-                     (e)  in the case of the application of subsection (8)—the date on which the person actually ceased to hold office as Solicitor-General and the date on which the person attained the age of 60 years.
+_Judge&apos;s 1997 salary_ means salary at the rate that was payable on
 
-             (6)  If the Attorney-General certifies that the person became, at a particular date before attaining the age of 60 years, permanently disabled or permanently infirm, the relevant provisions of the _Judges’ Pensions Act 1968_ apply in relation to the person as if the person had held office as Solicitor-General at that date and the certificate were given under subsection 6(2) of that Act, but the rate of the pension payable to the person is the relevant discounted rate of pension.
+31&#160;December 1997 to a Judge (other than the Chief Justice) of the Federal
 
-             (7)  If the person dies before attaining the age of 60 years and was not entitled to a pension under subsection (6) immediately before his or her death, the relevant provisions of the _Judges’ Pensions Act 1968_ apply in relation to the person as if the person had held office as Solicitor-General at the time of his or her death, but a reference in any of those provisions as so applying to the relevant pension is a reference to pension at a rate equal to the relevant discounted rate of pension.
+Court of Australia. _Judge&apos;s salary at the calculation time_ means salary at the rate that is payable at the calculation time to a Judge (other than the Chief Justice) of the Federal Court of Australia. _Solicitor-General&apos;s 1997 salary_ means salary at the rate that was payable on 31&#160;December 1997 to the Solicitor-General.  </dl></dl>
 
-             (8)  If the person attains the age of 60 years and was not entitled to a pension under subsection (6) immediately before attaining that age, the relevant provisions of the _Judges’ Pensions Act 1968_ apply in relation to the person as if the person’s period of appointment as Solicitor-General had expired upon his or her attaining that age after having served for not less than 10 years, but the rate of the pension payable to the person is the relevant discounted rate of pension.
+<dl compact=""><dl compact="">
 
-             (9)  The person may, at any time before attaining the age of 60 years, apply to the Attorney-General for a certificate under subsection (6) and, upon receipt of the application, the Attorney-General shall:
+<dt>(12)</dt><dd>In this section:
 
-                     (a)  if satisfied that the person became, at a particular time before attaining the age of 60 years, permanently disabled or permanently infirm—so certify under subsection (6); or
+</dd> </dl></dl>
 
-                     (b)  otherwise—refuse to certify under that subsection.
+<def><dl compact=""><dl compact="">
 
-           (10)  In the application of the relevant provisions of the _Judges’ Pensions Act 1968_ by virtue of this section, a reference in section 6 of that Act to a Judge retiring includes a reference to a Solicitor-General not being re-appointed.
+_Judge_ means a Judge within the meaning of the _Judges&apos; Pensions Act 1968._ _relevant provisions of the Judges&apos; Pensions Act 1968_ means the provisions of that Act referred to in subsection&#160;(1).  </dl></dl>
 
-           (11)  An application may be made to the Administrative Appeals Tribunal for review of a refusal of the Attorney-General, on application under subsection (9), to give a certificate under subsection (6).
+<dl compact=""><dl compact="">
 
-        (11A)  For the purposes of this section, the **_appropriate current salary_** in relation to a person at a particular time (the **_calculation time_**) is calculated as follows:
+<dt>(13)</dt><dd>Pensions under or by virtue of this section are payable out of the
 
-![](http://www.comlaw.gov.au/Details/C2006C00249/Html/69D64E9385A428ACCA25716A002597C1/$FILE/image002.gif)
+Consolidated Revenue Fund, which is appropriated accordingly.
 
-For the purposes of the calculation:
+</dd> </dl></dl>
 
-                    <a name="judg-1997-salari"></a>**_Judge’s 1997 salary_** means salary at the rate that was payable on 31 December 1997 to a Judge (other than the Chief Justice) of the Federal Court of Australia.
+**
 
-                    <a name="judg-salari-calcul-time"></a>**_Judge’s salary at the calculation time_** means salary at the rate that is payable at the calculation time to a Judge (other than the Chief Justice) of the Federal Court of Australia.
+###  LAW OFFICERS ACT 1964- SECT 16A  Payment to Solicitor-General in lieu of long leave 
+**
 
-                    <a name="solicitor-gener-1997-salari"></a>**_Solicitor-General’s 1997 salary_** means salary at the rate that was payable on 31 December 1997 to the Solicitor-General.
+ <dl compact=""><dl compact="">
 
-           (12)  In this section:
+<dt>(1AA)</dt><dd>This section does not apply in relation to a person appointed as
 
-                    <a name="judg"></a>**_Judge_** means a Judge within the meaning of the _Judges’ Pensions Act 1968._
+Solicitor-General after 31&#160;December 1997.</dd> <dt>(1)</dt><dd>On: </dd> </dl></dl>
 
-                    <a name="relev-provision-judg-pension-act-1968"></a>**_relevant provisions of the Judges’ Pensions Act 1968_** means the provisions of that Act referred to in subsection (1).
+	(a)	the retirement of the Solicitor-General after having completed a period of service of 10 years or more; or
+ 	(b)	the death of the Solicitor-General, whether or not he or she has completed a period of service of 10 years;
 
-           (13)  Pensions under or by virtue of this section are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
+an amount calculated in accordance with subsection&#160;(2) is payable in accordance with this section.
 
-##### <a id="16A"></a>16A  Payment to Solicitor-General in lieu of long leave
+<dl compact=""><dl compact="">
 
-       (1AA)  This section does not apply in relation to a person appointed as Solicitor-General after 31 December 1997.
+<dt>(2)</dt><dd>The amount payable under subsection&#160;(1) in respect of the
 
-             (1)  On:
+Solicitor-General is an amount equal to his or her salary as Solicitor-General
 
-                     (a)  the retirement of the Solicitor-General after having completed a period of service of 10 years or more; or
+for:
 
-                     (b)  the death of the Solicitor-General, whether or not he or she has completed a period of service of 10 years;
+</dd> </dl></dl>
 
-an amount calculated in accordance with subsection (2) is payable in accordance with this section.
-
-             (2)  The amount payable under subsection (1) in respect of the Solicitor-General is an amount equal to his or her salary as Solicitor-General for:
-
-                     (a)  a period of 52 weeks; or
-
-                     (b)  a period of weeks calculated at the rate of 5.2 weeks for each completed year of his or her qualifying service;
+	(a)	a period of 52 weeks; or
+ 	 (b)	a period of weeks calculated at the rate of 5.2 weeks for each completed year of his or her qualifying service;
 
 whichever is the lesser period.
 
-             (3)  An amount payable under paragraph (1)(a) is payable to the Solicitor-General.
+<dl compact=""><dl compact="">
 
-             (4)  An amount payable under paragraph (1)(b) is payable to:
+<dt>(3)</dt><dd>An amount payable under paragraph&#160;(1)(a) is payable to the
 
-                     (a)  where the Solicitor-General leaves a person or persons determined by the Attorney-General in writing to be a dependant or dependants—the person or persons; or
+Solicitor-General.</dd> <dt>(4)</dt><dd>An amount payable under paragraph&#160;(1)(b) is payable to: </dd> </dl></dl>
 
-                     (b)  in any other case—the legal personal representative of the Solicitor-General.
+	(a)	where the Solicitor-General leaves a person or persons determined by the Attorney-General in writing to be a dependant or dependants&#151;the person or persons; or
+ 	(b)	in any other case&#151;the legal personal representative of the Solicitor-General.
 
-             (5)  An application may be made to the Administrative Appeals Tribunal for review of a refusal of the Attorney-General to determine a person to be a dependant for the purposes of paragraph (4)(a).
+<dl compact=""><dl compact="">
 
-             (6)  Where an amount is payable under paragraph (4)(a) to 2 or more dependants of the Solicitor-General, the Attorney-General may give a direction in writing as to the distribution of the amount between or among those dependants.
+<dt>(5)</dt><dd>An application may be made to the Administrative Appeals Tribunal for
 
-             (7)  Where an amount is payable under this section to a person who is under a legal disability, the Attorney-General may, instead of authorizing payment of the amount to the person, authorize payment of the amount to such trustee or trustees as the Attorney-General appoints to be held by the trustee or trustees upon such trusts for the benefit of the person as the Attorney-General directs in writing.
+review of a refusal of the Attorney-General to determine a person to be a
 
-             (8)  For the purposes of this section, a period of service does not include any period in respect of which the Solicitor-General has exercised a right of election under subsection 10(4) of the _Long Service Leave (Commonwealth Employees) Act 1976_.
+dependant for the purposes of paragraph&#160;(4)(a).</dd> <dt>(6)</dt><dd>Where an amount is payable under paragraph&#160;(4)(a) to 2 or more dependants of the Solicitor-General, the Attorney-General may give a direction in writing as to the distribution of the amount between or among those dependants.</dd> <dt>(7)</dt><dd>Where an amount is payable under this section to a person who is under a legal disability, the Attorney-General may, instead of authorizing payment of the amount to the person, authorize payment of the amount to such trustee or trustees as the Attorney-General appoints to be held by the trustee or trustees upon such trusts for the benefit of the person as the Attorney-General directs in writing.</dd> <dt>(8)</dt><dd>For the purposes of this section, a period of service does not include any period in respect of which the Solicitor-General has exercised a right of election under subsection 10(4) of the _Long Service Leave (Commonwealth Employees) Act 1976_.</dd> <dt>(9)</dt><dd>Subject to subsection&#160;(8), the period of service of the Solicitor-General includes any prior period (whether continuous or not) during which he or she acted as Solicitor-General under section&#160;11.</dd> <dt>(10)</dt><dd>An entitlement to payment under this section commences to accrue from the commencement of the period of service in respect of which the amount of the entitlement is calculated.</dd> <dt>(11)</dt><dd>In this section, unless the contrary intention appears: </dd> </dl></dl>
 
-             (9)  Subject to subsection (8), the period of service of the Solicitor-General includes any prior period (whether continuous or not) during which he or she acted as Solicitor-General under section 11.
+<center>Back to Top</center>
 
-           (10)  An entitlement to payment under this section commences to accrue from the commencement of the period of service in respect of which the amount of the entitlement is calculated.
+<def><dl compact=""><dl compact="">
 
-           (11)  In this section, unless the contrary intention appears:
+_period of service_ means a period (whether continuous or not) of
 
-                    <a name="period-servic"></a>**_period of service_** means a period (whether continuous or not) of service as Solicitor-General.
+service as Solicitor-General. _qualifying service_, in relation to the Solicitor-General, means his or her period of service, other than any period of service in respect of which he or she has taken long leave or has been paid in lieu of such leave. _retirement_, in relation to the Solicitor-General, means ceasing to be the Solicitor-General otherwise than by death or by removal from office under section&#160;10\. _salary as Solicitor-General_ means salary at a weekly rate equal to one fifty-second of the annual rate of salary that was payable to the Solicitor-General immediately before his or her retirement or death.  </dl></dl>
 
-                    <a name="qualifi-servic"></a>**_qualifying service_**, in relation to the Solicitor-General, means his or her period of service, other than any period of service in respect of which he or she has taken long leave or has been paid in lieu of such leave.
+**
 
-                    <a name="retir"></a>**_retirement_**, in relation to the Solicitor-General, means ceasing to be the Solicitor-General otherwise than by death or by removal from office under section 10.
+###  LAW OFFICERS ACT 1964- SECT 17  Delegation by Attorney-General 
+**
 
-                    <a name="salari-solicitor-gener"></a>**_salary as Solicitor-General_** means salary at a weekly rate equal to one fifty-second of the annual rate of salary that was payable to the Solicitor-General immediately before his or her retirement or death.
+ <dl compact=""><dl compact="">
 
-##### <a id="17"></a>17  Delegation by Attorney-General
+<dt>(1)</dt><dd>The Attorney-General may, either generally or otherwise as provided by the
 
-             (1)  The Attorney-General may, either generally or otherwise as provided by the instrument of delegation, by writing under his or her hand, delegate to the Solicitor-General all or any of his or her powers and functions under all or any of the laws of the Commonwealth or of a Territory, except this power of delegation.
+instrument of delegation, by writing under his or her hand, delegate to the
 
-             (2)  The Attorney-General may, either generally or otherwise as provided by the instrument of delegation, by writing under his or her hand, delegate to the Secretary to the Attorney-General’s Department or to the person for the time being holding or performing the duties of the office specified in the instrument of delegation all or any of his or her powers and functions under all or any of the laws of the Commonwealth or of a Territory, except this power of delegation.
+Solicitor-General all or any of his or her powers and functions under all or
 
-             (3)  A power or function delegated under either subsection (1) or subsection (2) may be exercised or performed by the delegate in accordance with the instrument of delegation.
-
-             (4)  A delegation may be given under subsection (1) or subsection (2) notwithstanding that a delegation is in force under the other of those subsections.
-
-             (5)  A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Attorney-General.
-
-             (6)  This section does not apply to the powers and functions of the Attorney-General under the _Telecommunications (Interception) Act 1979_.
-
-##### <a id="18"></a>18  References in laws to Solicitor-General
-
-                   A reference in a law of the Commonwealth other than this Act, or in a law of a Territory, as in force at the commencement of this Act, to the Solicitor-General of the Commonwealth or to the Solicitor-General shall be read as a reference to the Secretary to the Attorney-General’s Department.
-
-##### <a id="19"></a>19  Regulations
-
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-
-# Notes to the _Law Officers Act 1964_
-
-### Note 1
-
-The _Law Officers Act 1964_ as shown in this compilation comprises Act No. 91, 1964 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Law Officers Act 1964</div>
-    </td>
-    <td>
-      <div>91, 1964</div>
-    </td>
-    <td>
-      <div>5 Nov 1964</div>
-    </td>
-    <td>
-      <div>5 Nov 1964</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law Officers Act 1968</div>
-    </td>
-    <td>
-      <div>152, 1968</div>
-    </td>
-    <td>
-      <div>10 Dec 1968</div>
-    </td>
-    <td>
-      <div>10 Dec 1968</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 1973</div>
-    </td>
-    <td>
-      <div>216, 1973</div>
-    </td>
-    <td>
-      <div>19 Dec 1973</div>
-    </td>
-    <td>
-      <div>31 Dec 1973</div>
-    </td>
-    <td>
-      <div>Ss. 9(1) and 10</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
-    </td>
-    <td>
-      <div>91, 1983</div>
-    </td>
-    <td>
-      <div>22 Nov 1983</div>
-    </td>
-    <td>
-      <div>Ss. 3 and 4 <i>(a)</i></div>
-    </td>
-    <td>
-      <div>Ss. 2(14) and 6(1), (3)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-    </td>
-    <td>
-      <div>65, 1985</div>
-    </td>
-    <td>
-      <div>5 June 1985</div>
-    </td>
-    <td>
-      <div>S. 3: 3 July 1985 <i>(b)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law and Justice Legislation Amendment Act 1988</div>
-    </td>
-    <td>
-      <div>120, 1988</div>
-    </td>
-    <td>
-      <div>14 Dec 1988</div>
-    </td>
-    <td>
-      <div>Part XIV (ss. 42, 43): Royal Assent <i>(c)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law and Justice Legislation Amendment Act 1991</div>
-    </td>
-    <td>
-      <div>136, 1991</div>
-    </td>
-    <td>
-      <div>12 Sept 1991</div>
-    </td>
-    <td>
-      <div>Schedule: 10 Oct 1991 <i>(d)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law and Justice Legislation Amendment Act 1992</div>
-    </td>
-    <td>
-      <div>22, 1992</div>
-    </td>
-    <td>
-      <div>13 Apr 1992</div>
-    </td>
-    <td>
-      <div>S. 3: Royal Assent <i>(e)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992</div>
-    </td>
-    <td>
-      <div>94, 1992</div>
-    </td>
-    <td>
-      <div>30 June 1992</div>
-    </td>
-    <td>
-      <div>S. 3: 1 July 1990 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law and Justice Legislation Amendment Act (No. 2) 1994</div>
-    </td>
-    <td>
-      <div>141, 1994</div>
-    </td>
-    <td>
-      <div>28 Nov 1994</div>
-    </td>
-    <td>
-      <div>S. 3 (item 11) and s. 4 (items 
-151–173): Royal Assent <i>(f)</i> 
-</div>
-    </td>
-    <td>
-      <div>S. 5</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law Officers Amendment Act 1998</div>
-    </td>
-    <td>
-      <div>39, 1998</div>
-    </td>
-    <td>
-      <div>4 June 1998</div>
-    </td>
-    <td>
-      <div>4 June 1998</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Act (No. 1) 2003</div>
-    </td>
-    <td>
-      <div>64, 2003</div>
-    </td>
-    <td>
-      <div>30 June 2003</div>
-    </td>
-    <td>
-      <div>1 July 2003</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law and Justice Legislation Amendment Act 2004</div>
-    </td>
-    <td>
-      <div>62, 2004</div>
-    </td>
-    <td>
-      <div>26 May 2004</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 44, 45): 27 May 2004</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Telecommunications (Interception) Amendment Act 2006</div>
-    </td>
-    <td>
-      <div>40, 2006</div>
-    </td>
-    <td>
-      <div>3 May 2006</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 21): \[ <i>see</i>Note 2]</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</tbody></table>
-
- 
-
-
-_(a)_     The _Law Officers Act 1964_ was amended by sections 3 and 4 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsections 2(1) and (9) of which provide as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
-
-                 (9)   Section 16A of the _Law Officers Act 1964_, as inserted by this Act, shall come into operation on the day on which this Act receives the Royal Assent.
-
-_(b)_    The _Law Officers Act 1964_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
-
-_(c)_     The _Law Officers Act 1964_ was amended by Part XIV (sections 42 and 43) only of the _Law and Justice Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows: 
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(d)_     The _Law Officers Act 1964_ was amended by the Schedule only of the _Law and Justice Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
-
-(1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent.
-
-_(e)_     The _Law Officers Act 1964_ was amended by section 3 only of the _Law and Justice Legislation Amendment Act 1992_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(f)_      The _Law Officers Act 1964_ was amended by section 3 (item 11) and section 4 (items 151-173) only of the _Law and Justice Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>rep. No. 216, 1973</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td>
-      <div>am. No. 91, 1983</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6</div>
-    </td>
-    <td>
-      <div>am. No. 91, 1983; No. 141, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>rs. No. 65, 1985</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 141, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8</div>
-    </td>
-    <td>
-      <div>rs. No. 141, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 9</div>
-    </td>
-    <td>
-      <div>am. No. 22, 1992; No. 141, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 10</div>
-    </td>
-    <td>
-      <div>am. No. 141, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11</div>
-    </td>
-    <td>
-      <div>am. No. 91, 1983; No. 141, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rs. No. 141, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12</div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973; No. 141, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13</div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973; No. 141, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rs. No. 62, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14</div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973; No. 91, 1983</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rs. No. 65, 1985</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 94, 1992; No. 64, 2003</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 15</div>
-    </td>
-    <td>
-      <div>rep. No. 216, 1973</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1968; No. 91, 1983; No. 65, 1985; No. 120,1988; No. 136, 1991; No. 141, 1994; No. 39, 1998</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16A</div>
-    </td>
-    <td>
-      <div>ad. No. 91, 1983</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 141, 1994; No. 39, 1998</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 17</div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973; No. 91, 1983; No. 141, 1994; No. 62, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 18</div>
-    </td>
-    <td>
-      <div>am. No. 216, 1973</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19</div>
-    </td>
-    <td>
-      <div>ad. No. 65, 1985</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-### Note 2
-
-_Telecommunications (Interception) Amendment Act 2006 (No. 40, 2006)_
-
-The following amendment commences on 3 November 2006 unless proclaimed earlier:
-
-## Schedule 1
-
-## 21  Subsection 17(6)
-
-Omit “_Telecommunications (Interception) Act 1979_”, substitute “_Telecommunications (Interception and Access) Act 1979_”.
-
-As at 10 May 2006 the amendment is not incorporated in this compilation.
-
-
- 
-
- 
+any of the laws of the Commonwealth or of a Territory, except this power of
+
+delegation.</dd> <dt>(2)</dt><dd>The Attorney-General may, either generally or otherwise as provided by the instrument of delegation, by writing under his or her hand, delegate to the Secretary to the Attorney-General's Department or to the person for the time being holding or performing the duties of the office specified in the instrument of delegation all or any of his or her powers and functions under all or any of the laws of the Commonwealth or of a Territory, except this power of delegation.</dd> <dt>(3)</dt><dd>A power or function delegated under either subsection&#160;(1) or subsection&#160;(2) may be exercised or performed by the delegate in accordance with the instrument of delegation.</dd> <dt>(4)</dt><dd>A delegation may be given under subsection&#160;(1) or subsection&#160;(2) notwithstanding that a delegation is in force under the other of those subsections.</dd> <dt>(5)</dt><dd>A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Attorney-General.</dd> <dt>(6)</dt><dd>This section does not apply to the powers and functions of the Attorney-General under the _Telecommunications (Interception) Act 1979_. </dd> </dl></dl>
+
+**
+
+###  LAW OFFICERS ACT 1964- SECT 18  References in laws to Solicitor-General 
+**
+
+ <dl compact=""><dl compact="">
+
+		A reference in a law of the Commonwealth other than this Act, or in a law of
+
+a Territory, as in force at the commencement of this Act, to the
+
+Solicitor-General of the Commonwealth or to the Solicitor-General shall be read
+
+as a reference to the Secretary to the Attorney-General's Department.
+
+ </dl></dl>
+
+**
+
+###  LAW OFFICERS ACT 1964- SECT 19  Regulations 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing matters:
+
+ </dl></dl>
+
+	(a)	required or permitted by this Act to be prescribed; or
+ 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
+
+<center>**
+
+###  LAW OFFICERS ACT 1964<centreit>Notes to the _Law Officers Act 1964_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Law Officers Act 1964_ as shown in this compilation comprises Act No.&#160;91, 1964 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law Officers Act 1964</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>91, 1964</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5 Nov 1964</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5 Nov 1964</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law Officers Act 1968</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>152, 1968</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>10 Dec 1968</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>10 Dec 1968</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1973</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>216, 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>19 Dec 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>31 Dec 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 9(1) and 10</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Provisions) Act (No.&#160;2) 1983</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>91, 1983</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>22 Nov 1983</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 3 and 4 <i>(a)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 2(14) and 6(1), (3)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Provisions) Act (No.&#160;1) 1985</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>65, 1985</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5&#160;June 1985</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3: 3&#160;July 1985 <i>(b)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law and Justice Legislation Amendment Act 1988</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>120, 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>14 Dec 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Part&#160;XIV (ss. 42, 43): Royal Assent <i>(c)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law and Justice Legislation Amendment Act 1991</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>136, 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>12 Sept 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule: 10 Oct 1991 <i>(d)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law and Justice Legislation Amendment Act 1992</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>22, 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>13 Apr 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3: Royal Assent <i>(e)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>94, 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>30&#160;June 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3: 1&#160;July 1990 
+Remainder: Royal Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law and Justice Legislation Amendment Act (No.&#160;2) 1994</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>141, 1994</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>28 Nov 1994</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3 (item&#160;11) and s. 4 (items 
+151-173): Royal Assent <i>(f)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 5</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law Officers Amendment Act 1998</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>39, 1998</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>4&#160;June 1998</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>4&#160;June 1998</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Act (No.&#160;1) 2003</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>64, 2003</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>30&#160;June 2003</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1&#160;July 2003</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law and Justice Legislation Amendment Act 2004</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>62, 2004</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>26 May 2004</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (items&#160;44, 45): 27&#160;May 2004</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr></table>
+
+<center>Back to Top</center>
+
+_(a)_	The _Law Officers Act 1964_ was amended by sections&#160;3 and 4 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsections 2(1) and (9) of which provide as follows:
+
+	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+ 	(9)	Section&#160;16A of the _Law Officers Act 1964_, as inserted by this Act, shall come into operation on the day on which this Act receives the Royal Assent.
+
+_(b)_	The _Law Officers Act 1964_ was amended by section&#160;3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+
+_(c)_	The _Law Officers Act 1964_ was amended by Part&#160;XIV (sections&#160;42 and 43) only of the _Law and Justice Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows: 
+
+	(1) 	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(d)_	The _Law Officers Act 1964_ was amended by the Schedule only of the _Law and Justice Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
+
+(1)	Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent.
+
+_(e)_	The _Law Officers Act 1964_ was amended by section&#160;3 only of the _Law and Justice Legislation Amendment Act 1992_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(f)_	The _Law Officers Act 1964_ was amended by section&#160;3 (item&#160;11) and section&#160;4 (items&#160;151-173) only of the _Law and Justice Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 3</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;216, 1973</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;91, 1983</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 6</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;91, 1983; No.&#160;141, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 7</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;65, 1985</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;141, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 8</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;141, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 9</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;22, 1992; No.&#160;141, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 10</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;141, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 11</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;91, 1983; No.&#160;141, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;141, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 12</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973; No.&#160;141, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 13</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973; No.&#160;141, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 62, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 14</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973; No.&#160;91, 1983</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;65, 1985</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;94, 1992; No.&#160;64, 2003</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 15</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;216, 1973</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 16</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;152, 1968; No.&#160;91, 1983; No.&#160;65, 1985; No.&#160;120,1988; No.&#160;136, 1991; No.&#160;141, 1994; No.&#160;39, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 16A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;91, 1983</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;141, 1994; No.&#160;39, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 17</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973; No.&#160;91, 1983; No.&#160;141, 1994; No. 62, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 18</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 19</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;65, 1985</div>
+
+  </td>
+</tr></table>
+
+</def>
+
+</def>
+
+
+
+
+
+
+
+
