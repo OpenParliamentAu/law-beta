@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00416/Html/FinanSectorColectData2001_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00142/Html/FinanSectorColectData2001_WD02_image001.gif)
 
 # Financial Sector (Collection of Data) Act 2001
 
 **Act No. 104 of 2001 as amended**
 
-This compilation was prepared on 4 September 2009
- taking into account amendments up to Act No. 75 of 2009
+This compilation was prepared on 4 June 2008
+ taking into account amendments up to Act No. 25 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1092,23 +1092,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 4 (item 43)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009</div>
-  </td>
-  <td>
-    <div>75, 2009</div>
-  </td>
-  <td>
-    <div>27 Aug 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 203): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedule 3 (item 191) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
@@ -1275,20 +1258,6 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
   </td>
 </tr></table>
 
-### Note 2
-
-_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
-
-The following amendment commences on 27 February 2010 unless proclaimed earlier:
-
-## Schedule 1
-
-## 203  Paragraph 7(2)(e)
-
-After “under”, insert “section 21 of”.
-
-As at 4 September 2009 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1300,5 +1269,7 @@ _Financial Sector Legislation Amendment (Review of Prudential Decisions) Act 200
 ## 43  Application
 
 The amendments made by this Schedule apply to decisions made on or after the day on which this Schedule commences.
+
+ 
 
  
