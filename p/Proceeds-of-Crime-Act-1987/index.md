@@ -1,7 +1,7 @@
 
 Proceeds of Crime Act 1987
 Act No. 87 of 1987 as amended
-This compilation was prepared on 8 January 2003 taking into account amendments up to Act No. 125 of 2002
+This compilation was prepared on 16 October 2002 taking into account amendments up to Act No. 86 of 2002
 The text of any of those amendments not in force  on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
@@ -14,133 +14,144 @@ Part I—Preliminary	1
 2	Commencement [see Note 1]	1
 3	Principal objects	1
 4	Interpretation	2
-5	Meaning of conviction etc. of offence	11
+5	Meaning of conviction etc. of offence	12
 6	Meaning of absconding	13
 7	Meaning of public fraud offence and serious offence	14
-8	Related offences	15
-9	Meaning of dealing with property	15
+8	Related offences	16
+9	Meaning of dealing with property	16
 9A	Effective control of property	16
-10	Appropriate court in relation to indictable offence	16
-11	Act to bind Crown	16
+10	Appropriate court in relation to indictable offence	17
+11	Act to bind Crown	17
 12	Act to apply both within and outside Australia	17
 13	Application	17
-13A	Application of the Criminal Code	17
-Part II—Confiscation	18
-Division 1—Application for confiscation order	18
-14	Application for confiscation order	18
-15	Notice of application	19
-16	Amendment of application	20
-17	Making of confiscation order where person has absconded	21
-18	Procedure on application	21
-Division 2—Forfeiture orders	23
-19	Forfeiture orders	23
-20	Effects of forfeiture order	24
-21	Effect of forfeiture order on third parties	27
-22	Discharge of forfeiture order on appeal or by quashing of conviction	28
-Division 2A—Registered foreign and international forfeiture orders	31
-23	Registered foreign and international forfeiture orders	31
-23A	Effect on third parties of registration of foreign or international forfeiture order	31
-Division 3—Pecuniary penalty orders	35
-24	Application of Division	35
-25	Special provisions in relation to serious offences	35
-26	Pecuniary penalty orders	35
-27	Assessment of pecuniary penalty	37
-28	Court may lift corporate veil etc.	41
-29	Amounts paid in respect of registered foreign pecuniary penalty orders	42
-Division 4—Forfeiture in case of serious offence	43
-30	Forfeiture of all restrained property if person convicted of serious offence	43
-30A	Extension of waiting period	46
-31	Recovery of property to which section 30 applies	47
-32	Effect of quashing of conviction	49
-Division 5—Miscellaneous	52
-33	Person with interest in forfeited property may buy back the interest	52
-34	Buying out other interests in forfeited property	53
-Part IIA—Confiscated Assets Reserve	54
-34A	Establishment of Reserve	54
-34B	Payments into Reserve	54
-34C	Payments out of Reserve	55
-34D	Transfer of balance of distributable funds to Consolidated Revenue Fund	56
-34E	Determinations by Official Trustee about suspended and distributable funds	56
-Part III—Control of property liable to confiscation	58
-Division 1—Search powers	58
-35	Powers to search for, and seize, tainted property	58
-36	Search warrants in relation to tainted property	59
-37	Search warrants may be granted by telephone	62
-38	Searches in emergencies	64
-39	Responsibility for seized property	65
-40	Return of seized property	66
-41	Issue of search warrants by Territory courts in relation to interstate indictable offences	69
-42	Search for and seizure of tainted property in relation to foreign offences	70
-Division 2—Restraining orders	75
-43	Restraining orders	75
-44	Grounds for making restraining order	77
-45	Notice of application for restraining order	80
-45A	Extension of certain restraining orders	80
-46	Persons who may appear and adduce evidence	81
-47	Notice of restraining orders	81
-48	Court may make further orders	81
-48A	Order for taxation of legal expenses to be met out of restrained property	87
-49	Official Trustee to discharge pecuniary penalty	88
-50	Charge on property subject to restraining order	91
-51	Registration of restraining orders	93
-52	Contravention of restraining orders	93
-54	Protection of Official Trustee from personal liability in certain cases	94
-55	Costs etc. payable to Official Trustee	96
-56	Court may revoke restraining orders	96
-57	When restraining order ceases to be in force	96
-58	Notice of applications under this Division	100
-59	Interim restraining order may be made in respect of foreign offence	101
-60	Registered foreign restraining orders—general	103
-61	Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property	103
-62	Registered foreign restraining orders—undertakings	105
-63	Discharge of certain registered foreign pecuniary penalty orders	105
-64	Registered foreign restraining orders—charge on property subject to order	107
-65	Registered foreign restraining orders—time when order ceases to be in force	108
-Part IV—Information gathering powers	109
-Division 1—Production orders	109
-66	Production orders	109
-67	Variation of production orders	112
-68	Failure to comply with production order	113
-69	Production orders in relation to foreign offences	113
-Division 2—Search powers	115
-70	Powers to search for, and seize, documents relevant to locating etc. property	115
-71	Search warrant for location etc. of property	115
-72	Search warrants in relation to foreign offences	118
-Division 3—Monitoring orders	120
-73	Monitoring orders	120
-74	Existence and operation of monitoring order not to be disclosed	121
-75	Monitoring orders in relation to foreign offences	123
-Part V—Offences	125
-Division 3—Miscellaneous	125
-84	Prosecution of offences	125
-85	Conduct by directors, servants or agents	125
-Part VI—Enforcement of State orders in Territories	127
-Division 1—Interstate restraining orders	127
-86	Registration of interstate restraining orders	127
-87	Effect of registration	127
-88	Duration of registration	128
-89	Cancellation of registration	128
-90	Charge on property subject to registered interstate restraining order	128
-91	Powers of Official Trustee in relation to interstate restraining orders	130
-Division 2—Interstate forfeiture orders	131
-92	Registration of interstate forfeiture orders	131
-93	Effect of registration	131
-94	Duration of registration	131
-95	Cancellation of registration	132
-Division 3—Miscellaneous	133
-96	Interim registration of facsimile copies	133
-Part VII—Miscellaneous	134
-96A	Organised fraud orders	134
-97	Dealings with forfeited property	135
-98	State and Territory courts to have jurisdiction	136
-99	Standard of proof	137
-100	Appeals	137
-101	Costs	138
-102	Legal assistance	139
-102A	Indemnification of Official Trustee	139
-103	Operation of other laws not affected	140
-104	Regulations	140
-Notes	141
+13A	Application of the Criminal Code	18
+Part II—Confiscation	19
+Division 1—Application for confiscation order	19
+14	Application for confiscation order	19
+15	Notice of application	20
+16	Amendment of application	21
+17	Making of confiscation order where person has absconded	22
+18	Procedure on application	22
+Division 2—Forfeiture orders	24
+19	Forfeiture orders	24
+20	Effects of forfeiture order	25
+21	Effect of forfeiture order on third parties	28
+22	Discharge of forfeiture order on appeal or by quashing of conviction	30
+Division 2A—Registered foreign and international forfeiture orders	32
+23	Registered foreign and international forfeiture orders	32
+23A	Effect on third parties of registration of foreign or international forfeiture order	32
+Division 3—Pecuniary penalty orders	36
+24	Application of Division	36
+25	Special provisions in relation to serious offences	36
+26	Pecuniary penalty orders	36
+27	Assessment of pecuniary penalty	38
+28	Court may lift corporate veil etc.	43
+29	Amounts paid in respect of registered foreign pecuniary penalty orders	44
+Division 4—Forfeiture in case of serious offence	45
+30	Forfeiture of all restrained property if person convicted of serious offence	45
+30A	Extension of waiting period	48
+31	Recovery of property to which section 30 applies	49
+32	Effect of quashing of conviction	52
+Division 5—Miscellaneous	54
+33	Person with interest in forfeited property may buy back the interest	54
+34	Buying out other interests in forfeited property	55
+Part IIA—Confiscated Assets Reserve	56
+34A	Establishment of Reserve	56
+34B	Payments into Reserve	56
+34C	Payments out of Reserve	57
+34D	Transfer of balance of distributable funds to Consolidated Revenue Fund	58
+34E	Determinations by Official Trustee about suspended and distributable funds	58
+Part III—Control of property liable to confiscation	60
+Division 1—Search powers	60
+35	Powers to search for, and seize, tainted property	60
+36	Search warrants in relation to tainted property	61
+37	Search warrants may be granted by telephone	63
+38	Searches in emergencies	65
+39	Responsibility for seized property	66
+40	Return of seized property	67
+41	Issue of search warrants by Territory courts in relation to interstate indictable offences	70
+42	Search for and seizure of tainted property in relation to foreign offences	71
+Division 2—Restraining orders	76
+43	Restraining orders	76
+44	Grounds for making restraining order	78
+45	Notice of application for restraining order	81
+45A	Extension of certain restraining orders	81
+46	Persons who may appear and adduce evidence	82
+47	Notice of restraining orders	82
+48	Court may make further orders	83
+48A	Order for taxation of legal expenses to be met out of restrained property	88
+49	Official Trustee to discharge pecuniary penalty	89
+50	Charge on property subject to restraining order	93
+51	Registration of restraining orders	94
+52	Contravention of restraining orders	95
+53	Duties of Official Trustee	95
+54	Protection of Official Trustee from personal liability in certain cases	96
+55	Costs etc. payable to Official Trustee	98
+56	Court may revoke restraining orders	98
+57	When restraining order ceases to be in force	99
+58	Notice of applications under this Division	103
+59	Interim restraining order may be made in respect of foreign offence	103
+60	Registered foreign restraining orders—general	105
+61	Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property	105
+62	Registered foreign restraining orders—undertakings	107
+63	Discharge of certain registered foreign pecuniary penalty orders	107
+64	Registered foreign restraining orders—charge on property subject to order	109
+65	Registered foreign restraining orders—time when order ceases to be in force	111
+Part IV—Information gathering powers	112
+Division 1—Production orders	112
+66	Production orders	112
+67	Variation of production orders	115
+68	Failure to comply with production order	116
+69	Production orders in relation to foreign offences	116
+Division 2—Search powers	118
+70	Powers to search for, and seize, documents relevant to locating etc. property	118
+71	Search warrant for location etc. of property	118
+72	Search warrants in relation to foreign offences	121
+Division 3—Monitoring orders	123
+73	Monitoring orders	123
+74	Existence and operation of monitoring order not to be disclosed	124
+75	Monitoring orders in relation to foreign offences	126
+Division 4—Obligations of financial institutions	127
+76	Interpretation	127
+77	Retention of records by financial institutions	128
+78	Register of original documents	129
+78A	Active ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	130
+78B	Closed ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	131
+Part V—Offences	134
+Division 1—Money laundering	134
+81	Money laundering	134
+82	Possession etc. of property suspected of being proceeds of crime	135
+Division 3—Miscellaneous	136
+84	Prosecution of offences	136
+85	Conduct by directors, servants or agents	136
+Part VI—Enforcement of State orders in Territories	138
+Division 1—Interstate restraining orders	138
+86	Registration of interstate restraining orders	138
+87	Effect of registration	138
+88	Duration of registration	139
+89	Cancellation of registration	139
+90	Charge on property subject to registered interstate restraining order	139
+91	Powers of Official Trustee in relation to interstate restraining orders	141
+Division 2—Interstate forfeiture orders	142
+92	Registration of interstate forfeiture orders	142
+93	Effect of registration	142
+94	Duration of registration	142
+95	Cancellation of registration	143
+Division 3—Miscellaneous	144
+96	Interim registration of facsimile copies	144
+Part VII—Miscellaneous	145
+96A	Organised fraud orders	145
+97	Dealings with forfeited property	146
+98	State and Territory courts to have jurisdiction	147
+99	Standard of proof	148
+100	Appeals	148
+101	Costs	149
+102	Legal assistance	150
+102A	Indemnification of Official Trustee	150
+103	Operation of other laws not affected	151
+104	Regulations	151
+Notes		153
+
 An Act to provide for confiscation of the proceeds of crime, and for related purposes
 Part I—Preliminary
   
@@ -159,7 +170,6 @@ Part I—Preliminary
 	(c)	assisting foreign countries, pursuant to the Mutual Assistance Act, to trace the proceeds of, benefits derived from and property used in or in connection with the commission of foreign serious offences.
 4  Interpretation
 	(1)	In this Act, unless the contrary intention appears:
-ACC means the Australian Crime Commission.
 account means any facility or arrangement through which a financial institution accepts deposits or allows withdrawals and includes a facility or arrangement for:
 	(a)	a fixed term deposit; and
 	(b)	a safety deposit box.
@@ -174,7 +184,6 @@ approved means approved by the Minister in writing for the purposes of the provi
 Australia, when used in a geographical sense, includes the external Territories.
 Bankruptcy Act means the Bankruptcy Act 1966.
 benefit includes service or advantage.
-commencement of the Proceeds of Crime Act 2002 means the commencement of sections 3 to 338 of the Proceeds of Crime Act 2002.
 Commissioner means the Commissioner of the Australian Federal Police.
 confiscation order means a forfeiture order or a pecuniary penalty order.
 co‑operative housing society means a society registered or incorporated as a co‑operative housing society or similar society under a law of a State or Territory.
@@ -219,7 +228,7 @@ interstate forfeiture order means an order that is made under a corresponding la
 interstate indictable offence means an offence against a law of a State, being an offence in relation to which an interstate forfeiture order or an interstate pecuniary penalty order may be made under a corresponding law of that State.
 interstate pecuniary penalty order means an order that is made under a corresponding law and is of a kind declared by the regulations to be within this definition.
 interstate restraining order means an order that is made under a corresponding law and is of a kind declared by the regulations to be within this definition.
-law enforcement authority means the Australian Federal Police or the ACC.
+law enforcement authority means the Australian Federal Police or the National Crime Authority.
 magistrate includes a justice of the peace.
 magistrate’s court means a court of summary jurisdiction constituted by a Stipendiary Magistrate, a Police Magistrate or a Special Magistrate.
 Mutual Assistance Act means the Mutual Assistance in Criminal Matters Act 1987.
@@ -262,6 +271,11 @@ proceeds of confiscated assets means the following:
 	(o)	the remainder of the proceeds referred to in paragraph 49(6)(b);
 	(p)	the remainder of the money referred to in paragraph 63(4)(a);
 	(q)	the remainder of the proceeds referred to in paragraph 63(4)(b).
+proceeds of crime means:
+	(a)	proceeds of an indictable offence; or
+	(b)	any property that is derived or realised, directly or indirectly, by any person from acts or omissions that:
+	(i)	occurred outside Australia; and
+	(iii)	would, if they had occurred in Australia, have constituted an indictable offence or a State indictable offence.
 production order means an order under section 66.
 property means real or personal property of every description, whether situated in Australia or elsewhere and whether tangible or intangible and includes an interest in any such real or personal property.
 property‑tracking document, in relation to an offence, means:
@@ -412,9 +426,7 @@ Division 1—Application for confiscation order
 	(1)	Where a person is convicted of an indictable offence, the DPP may, subject to subsections (2), (3) and (4) apply to an appropriate court for one or both of the following orders:
 	(a)	a forfeiture order against property that is tainted property in respect of the offence;
 	(b)	a pecuniary penalty order against the person in respect of benefits derived by the person from the commission of the offence.
-	(2)	The DPP:
-	(a)	is not empowered to make an application after the end of the relevant application period in relation to the conviction; and
-	(b)	is not empowered to make an application after the commencement of the Proceeds of Crime Act 2002 unless some or all of the property which could be used to satisfy the order is property in respect of which a restraining order is in force.
+	(2)	The DPP is not empowered to make an application after the end of the relevant application period in relation to the conviction.
 	(3)	The DPP is not empowered to make an application to a court under subsection (1) for a forfeiture order against property in respect of a person’s conviction of an offence if:
 	(a)	an application has previously been made:
 	(i)	under that subsection;
@@ -563,8 +575,6 @@ the court shall make an order:
 	(a)	a court makes a forfeiture order against property in reliance on a person’s conviction of an offence; and
 	(b)	the conviction is subsequently quashed;
 the quashing of the conviction discharges the order.
-	(1A)	This section does not apply if the conviction is quashed after the commencement of the Proceeds of Crime Act 2002.
-Note:	Division 6 of Part 2‑2 of the Proceeds of Crime Act 2002 applies in relation to convictions quashed after that commencement: see subitem 21(1) of Schedule 7 to the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002.
 	(2)	Where a forfeiture order against property is discharged as provided by subsection (1) or by a court hearing an appeal against the making of the order, the DPP shall:
 	(a)	as soon as practicable after the discharge of the order, give written notice of the discharge of the forfeiture order to any person the DPP has reason to believe may have had an interest in the property immediately before the making of the forfeiture order; and
 	(b)	if required to do so by a court—give or publish notice of the discharge of the forfeiture order to a specified person or class of persons in the manner and within the time that the court considers appropriate.
@@ -723,7 +733,7 @@ Division 4—Forfeiture in case of serious offence
 30  Forfeiture of all restrained property if person convicted of serious offence
 	(1)	If:
 	(a)	a person (in this subsection called the defendant) is convicted of a serious offence (otherwise than by reason of paragraph 5(1)(d));
-	(b)	before the commencement of the Proceeds of Crime Act 2002, a restraining order is or was granted in respect of property (whether property of the defendant or of some other person) in reliance on:
+	(b)	a restraining order is or was granted in respect of property (whether property of the defendant or of some other person) in reliance on:
 	(i)	the defendant’s conviction of that offence; or
 	(ii)	the charging or proposed charging of the defendant with that offence or a related offence;
 	(c)	the restraining order, to the extent to which it relates to the property, is not the subject of a declaration under subsection 48(4); and
@@ -824,8 +834,6 @@ relevant restraining order, in relation to property forfeited to the Commonwealt
 the DPP shall:
 	(c)	as soon as practicable after the quashing of the conviction, give notice of the quashing of the conviction to any person the DPP has reason to believe may have had an interest in the property immediately before the property was forfeited; and
 	(d)	if required to do so by a court—give or publish notice of the quashing of the conviction to a specified person or class of persons in the manner and within the time that the court considers appropriate.
-	(1A)	This section does not apply if the conviction is quashed after the commencement of the Proceeds of Crime Act 2002.
-Note:	Division 4 of Part 2‑3 of the Proceeds of Crime Act 2002 applies in relation to convictions quashed after that commencement: see subitem 21(2) of Schedule 7 to the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002.
 	(2)	A notice under subsection (1) shall include a statement to the effect that a person claiming an interest in the property may apply under subsection (3) for the transfer of the interest to the person.
 	(3)	Where subsection (1) applies to property, any person who claims to have had an interest in the property immediately before it was forfeited may apply to the Minister, in writing, for the transfer of the interest to the person and, on receipt of an application from a person who had an interest in the property immediately before it was forfeited:
 	(a)	if the interest is still vested in the Commonwealth—the Minister shall arrange for the interest to be transferred to the person; or
@@ -914,7 +922,6 @@ but only if the entry, search or seizure, as the case requires, is made:
 	(d)	with the consent of the occupier of the land or premises;
 	(e)	under a warrant issued under section 36; or
 	(f)	under section 38.
-	(2A)	A police officer is not empowered to do anything under this section after the commencement of the Proceeds of Crime Act 2002 unless it is done under a warrant issued under section 36 of this Act for which an application was made under that section before that commencement.
 	(3)	Where a police officer may search a person under this Division, the police officer may also search:
 	(a)	the clothing that is being worn by the person; and
 	(b)	any property in, or apparently in, the person’s immediate control.
@@ -989,10 +996,10 @@ and the police officer believes, on reasonable grounds, that it is necessary to 
 	(1)	Subject to subsection (2), where property is seized under this Division, the Commissioner shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act, and shall ensure that all reasonable steps are taken to preserve the property while it is so kept.
 	(2)	Where:
 	(a)	a police officer seizes property under this Division; and
-	(b)	the officer believes on reasonable grounds that the property will afford evidence as to the commission of an offence that is the subject of a special ACC operation/investigation;
-the Chief Executive Officer of the ACC shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act, and shall ensure that all reasonable steps are taken to preserve the property while it is so kept.
+	(b)	the officer believes on reasonable grounds that the property will afford evidence as to the commission of an offence that is the subject of a special investigation being conducted by the National Crime Authority;
+the Chair of the National Crime Authority shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act, and shall ensure that all reasonable steps are taken to preserve the property while it is so kept.
 	(3)	In this section:
-special ACC operation/investigation has the same meaning as in the Australian Crime Commission Act 2002.
+special investigation has the same meaning as in the National Crime Authority Act 1984.
 40  Return of seized property
 	(1)	Where property has been seized under this Division (otherwise than because it may afford evidence of the commission of an offence), a person who claims an interest in the property may apply to the relevant Supreme Court for an order that the property be returned to the person.
 	(2)	Where a person makes an application under subsection (1) and the court is satisfied that:
@@ -1038,7 +1045,7 @@ the responsible custodian shall deal with the property as required by the order.
 	(10)	In this section:
 responsible custodian, in relation to property seized under this Division, means:
 	(a)	if subsection 39(1) applies to the property—the Commissioner; or
-	(b)	if subsection 39(2) applies to the property—to the Chief Executive Officer of the ACC.
+	(b)	if subsection 39(2) applies to the property—to the Chair of the National Crime Authority.
 41  Issue of search warrants by Territory courts in relation to interstate indictable offences
 	(1)	This Division (other than section 40) applies to the issue of search warrants in a Territory as if:
 	(a)	a reference in this Division to an offence included a reference to an interstate indictable offence; and
@@ -1117,7 +1124,6 @@ the DPP may apply to the relevant Supreme Court for an order under subsection (
 	(2)	Where the DPP applies to a court for an order under this subsection against property, the court may, subject to section 44, by order:
 	(a)	direct that the property, or such part of the property as is specified in the order, is not to be disposed of, or otherwise dealt with, by any person, except in such manner and in such circumstances (if any) as are specified in the order; and
 	(b)	if the court is satisfied that the circumstances so require—direct the Official Trustee to take custody and control of the property, or of such part of the property as is specified in the order.
-	(2A)	The DPP is not empowered to make an application under this section after the commencement of the Proceeds of Crime Act 2002.
 	(3)	A restraining order against a person’s property may be made subject to such conditions as the court thinks fit and, without limiting the generality of this, may make provision for meeting, out of the property or a specified part of the property, all or any of the following:
 	(a)	the person’s reasonable living expenses (including the reasonable living expenses of the person’s dependants (if any)) and reasonable business expenses;
 	(b)	the person’s reasonable expenses in defending a criminal charge;
@@ -1351,6 +1357,7 @@ then, upon the making of the later of the orders, there is created, by force of 
 	(a)	upon the quashing of the conviction in reliance on which the pecuniary penalty order was made;
 	(b)	upon the discharge of the pecuniary penalty order or the restraining order by a court hearing an appeal against the making of the order;
 	(c)	upon payment to the Commonwealth of the penalty amount in satisfaction of the pecuniary penalty order;
+	(d)	upon the person becoming a bankrupt;
 	(e)	upon the sale or other disposition of the property:
 	(i)	under an order under section 49;
 	(ii)	by the owner of the property with the consent of the court that made the pecuniary penalty order; or
@@ -1376,6 +1383,21 @@ the DPP may apply to the court that made the restraining order for an order that
 	(3)	Where the DPP makes an application under subsection (2) in relation to a disposition or dealing, the court may make an order:
 	(a)	setting the disposition or dealing aside as from the day on which the disposition or dealing took place; or
 	(b)	setting the disposition or dealing aside as from the day of the order under this subsection and declaring the respective rights of any persons who acquired interests in the property on or after the day on which the disposition or dealing took place and before the day of the order under this subsection.
+53  Duties of Official Trustee
+	(1)	Where, after the Official Trustee has been directed by an order under subsection 49(1), (2) or (2A) to pay an amount to the Commonwealth out of property of a person, the Official Trustee is given notice in writing of the presentation of a creditor’s petition against the person, the Official Trustee:
+	(a)	shall refrain from taking action to sell the property under any direction to do so contained in an order under section 49; and
+	(b)	shall not pay any money pursuant to the direction to do so contained in the first‑mentioned order;
+until the petition has been dealt with by a bankruptcy court, has been withdrawn or has lapsed.
+	(2)	Where, after the Official Trustee has been directed by an order under subsection 49(1), (2) or (2A) to pay an amount to the Commonwealth out of property of a person, the Official Trustee is given notice in writing of the reference to a bankruptcy court of a debtor’s petition against the person, the Official Trustee:
+	(a)	shall refrain from taking action to sell the property under any direction to do so contained in an order under section 49; and
+	(b)	shall not pay any money pursuant to the direction to do so contained in the first‑mentioned order;
+until the petition has been dealt with by a bankruptcy court.
+	(3)	Where:
+	(a)	property of a person is in the custody and control of the Official Trustee in accordance with this Division;
+	(b)	the person becomes a bankrupt; and
+	(c)	by virtue of section 58 of the Bankruptcy Act, the property vests in the Official Trustee or a registered trustee;
+the property shall be deemed to be in the possession, or under the control, of the Official Trustee as, or on behalf of, the trustee of the estate of the bankrupt, and not otherwise.
+	(4)	In this section, bankruptcy court means a court having jurisdiction in bankruptcy under the Bankruptcy Act.
 54  Protection of Official Trustee from personal liability in certain cases
 	(1)	Where:
 	(a)	a court has made a restraining order directing the Official Trustee to take custody and control of all the property of a person or of all the property of a person other than specified property;
@@ -1408,10 +1430,7 @@ the performance or exercise by the Official Trustee of functions, duties or powe
 	(b)	a restraining order is made in reliance on the proposed charging of a person with an offence and the person is, within the succeeding period of 48 hours, charged with the offence or a related indictable offence;
 the following provisions have effect:
 	(c)	if, within the relevant period in relation to the restraining order, the charge is withdrawn and the person is not charged with a related indictable offence by the time the charge is withdrawn, the restraining order ceases to be in force when the charge is withdrawn;
-	(d)	if, within the relevant period in relation to the restraining order, the person is acquitted of the charge and the person is not charged with a related indictable offence by the time of the acquittal, the restraining order ceases to be in force:
-	(i)	in a case where the acquittal occurs after the commencement of the Proceeds of Crime Act 2002—at the end of the period of 28 days after the day of the acquittal; or
-	(ii)	otherwise—when the acquittal occurs;
-Note:	After the commencement of the Proceeds of Crime Act 2002, an application can be made under that Act (but not section 17) for a restraining order in relation to the offence, despite the acquittal.
+	(d)	if, within the relevant period in relation to the restraining order, the person is acquitted of the charge and the person is not charged with a related indictable offence by the time of the acquittal, the restraining order ceases to be in force when the acquittal occurs;
 	(e)	if:
 	(i)	a court makes a confiscation order that is a pecuniary penalty order in reliance on the person’s conviction of the offence or a related indictable offence;
 	(ii)	the pecuniary penalty order is satisfied or otherwise ceases to be in force; and
@@ -1465,7 +1484,7 @@ extend includes further extend.
 	(d)	the reference in paragraph 43(3)(b) to a person’s reasonable expenses in defending a criminal charge included a reference to the person’s reasonable expenses in being represented in a criminal proceeding in a foreign country; and
 	(da)	a reference in subsection 44(4) to the proposed charging of a person with an offence were a reference to the proposed commencement of a criminal proceeding in a foreign country against a person in respect of a foreign serious offence; and
 	(e)	a reference in this Division to a serious offence were a reference to the foreign serious offence; and
-	(f)	subsections 44(2), (5) and (6) and 48(3) and (4) and sections 49, 50, 56 and 57 were omitted.
+	(f)	subsections 44(2), (5) and (6) and 48(3) and (4) and sections 49, 50, 53, 56 and 57 were omitted.
 	(2)	Where:
 	(a)	a person (in this subsection referred to as the defendant) has been alleged, in a criminal proceeding in a foreign country, to have committed a serious foreign offence;
 	(b)	a court makes a restraining order under section 43 against property in respect of the offence; and
@@ -1574,7 +1593,6 @@ the police officer may:
 	(ii)	a State or Territory in which the document is, or some or all of the documents are, believed to be located;
 		an information on oath setting out those grounds; and
 	(d)	apply to the Judge for an order under subsection (4) against the person suspected of having possession or control of the document or documents.
-	(1A)	A police officer is not empowered to make an application under this section after the commencement of the Proceeds of Crime Act 2002.
 	(2)	Where a police officer applying for an order under this section in respect of an offence includes in the information under subsection (1) information on oath that the officer has reasonable grounds to believe that:
 	(a)	if the offence is an ordinary indictable offence:
 	(i)	the person who was convicted of the offence, or who is believed to have committed the offence, derived a benefit, directly or indirectly, from the commission of the offence; and
@@ -1634,14 +1652,13 @@ Note:	A defendant bears an evidential burden in relation to the matter in subsec
 
 Division 2—Search powers
 70  Powers to search for, and seize, documents relevant to locating etc. property
-	(1)	A police officer may:
+		A police officer may:
 	(a)	enter upon land, or upon or into premises;
 	(b)	search the land or premises for any property‑tracking document in relation to an indictable offence; and
 	(c)	seize any document found in the course of the search that the police officer believes, on reasonable grounds, to be a property‑tracking document in relation to an indictable offence;
 but only if the entry, search or seizure, as the case may be, is made:
 	(d) 	with the consent of the occupier of the land or premises; or
 	(e)	under a warrant issued under section 71.
-	(2)	A police officer is not empowered to do anything under this section after the commencement of the Proceeds of Crime Act 2002 unless it is done under a search warrant issued under section 71 of this Act for which an application was made under that section before that commencement.
 71  Search warrant for location etc. of property
 	(1)	Where:
 	(a)	a person has been convicted of an indictable offence and a police officer has reasonable grounds for suspecting that there is, or may be within the next following 72 hours, upon any land, or upon or in any premises, in a State or Territory a property‑tracking document in relation to the offence; or
@@ -1700,7 +1717,6 @@ and the police officer believes, on reasonable grounds, that it is necessary to 
 Division 3—Monitoring orders
 73  Monitoring orders
 	(1)	A police officer may apply to a Judge of the Supreme Court of a State or Territory for an order (in this section called a monitoring order) directing a financial institution to give information to a law enforcement authority.
-	(1A)	A police officer is not empowered to make an application under this section after the commencement of the Proceeds of Crime Act 2002.
 	(2)	A monitoring order shall direct a financial institution to give information obtained by the institution about transactions conducted through an account held by a particular person with the institution.
 	(3)	A monitoring order shall apply in relation to transactions conducted during the period specified in the order (being a period commencing not earlier than the day on which notice of the order is given to the financial institution and ending not later than 3 months after the date of the order).
 	(4)	A Judge shall not make a monitoring order unless he or she is satisfied that there are reasonable grounds for suspecting that the person in respect of whose account the information is sought:
@@ -1724,13 +1740,13 @@ the institution is guilty of an offence against this subsection punishable, upon
 	(b)	in relation to a fixed term deposit—the transfer of the amount deposited, or any part of it, at the end of the term.
 74  Existence and operation of monitoring order not to be disclosed
 	(1)	A financial institution that is, or has been, subject to a monitoring order shall not disclose the existence or the operation of the order to any person except:
-	(a)	if the order specifies the Australian Federal Police as the law enforcement authority to which information is to be given—the Commissioner or an AFP member; or
-	(b)	if the order specifies the ACC as the law enforcement authority to which information is to be given—the Chief Executive Officer of the ACC, an examiner (within the meaning of the Australian Crime Commission Act 2002) or a member of the staff of the ACC (within the meaning of that Act); or
+	(a)	if the order specifies the Australian Federal Police as the law enforcement authority to which information is to be given—the Commissioner or an AFP member;
+	(b)	if the order specifies the National Crime Authority as the law enforcement authority to which information is to be given—a member, or member of staff, of the National Crime Authority;
 	(c)	an officer or agent of the institution, for the purpose of ensuring that the order is complied with; or
 	(d)	a barrister or solicitor, for the purpose of obtaining legal advice or representation in relation to the order.
 	(2)	A person of a kind referred to in paragraph (1)(a), (b), (c) or (d) to whom a disclosure of the existence or operation of a monitoring order has been made (whether in accordance with subsection (1) or a previous application of this subsection or otherwise) shall not:
 	(a)	while he or she is such a person—disclose the existence or operation of the order except to another person of a kind referred to in paragraph (1)(a), (b), (c) or (d) for the purposes of:
-	(i)	if the disclosure is made by the Commissioner, an AFP member, or the Chief Executive Officer of the ACC, an examiner (within the meaning of the Australian Crime Commission Act 2002) or a member of the staff of the ACC (within the meaning of that Act)—the performance of that person’s duties;
+	(i)	if the disclosure is made by the Commissioner, an AFP member, or a member, or member of staff, of the National Crime Authority—the performance of that person’s duties;
 	(ii)	if the disclosure is made by an officer or agent of the institution—ensuring that the order is complied with or obtaining legal advice or representation in relation to the order; or
 	(iii)	if the disclosure is made by a barrister or solicitor—giving legal advice or making representations in relation to the order; or
 	(b)	when he or she is no longer such a person—make a record of, or disclose, the existence or the operation of the order in any circumstances.
@@ -1748,7 +1764,111 @@ the institution is guilty of an offence against this subsection punishable, upon
 	(b)	a reference in this Division to the Supreme Court of a State or Territory were a reference to the court specified in the police officer’s authorisation under the Mutual Assistance Act.
 	(2)	Where a law enforcement authority is given information pursuant to a monitoring order made in relation to a foreign serious offence, the authority shall, as soon as practicable after receiving the information, pass the information on to the Attorney‑General or to an officer of the Attorney‑General’s Department specified by the Attorney‑General by written notice to the authority.
 
+Division 4—Obligations of financial institutions
+76  Interpretation
+		In this Division:
+customer generated financial transaction document, in relation to a financial institution, means a financial transaction document of the institution:
+	(a)	that relates to:
+	(i)	the opening or closing by a person of an account with the institution;
+	(ii)	the operation by a person of an account with the institution;
+	(iii)	the opening or use by a person of a deposit box held by the institution;
+	(iv)	the telegraphic or electronic transfer of funds by the institution on behalf of a person to another person;
+	(v)	the transmission of funds between Australia and a foreign country or between foreign countries on behalf of a person; or
+	(vi)	an application by a person for a loan from the institution (where a loan is made to the person pursuant to the application); and
+	(b)	that is given to the institution by or on behalf of the person (whether or not the document is signed by or on behalf of the person).
+essential customer‑generated financial transaction document, in relation to a financial institution, means a customer generated financial transaction document other than a document that relates to the operation of an account held with the institution.
+financial transaction document, in relation to a financial institution, means any document that relates to a financial transaction carried out by the institution in its capacity as a financial institution and, without limiting the generality of this, includes a document relating to:
+	(a)	the opening, operating or closing of an account held with the institution; and
+	(b)	the opening or use of a deposit box held by the institution;
+but does not include a cheque or payment order.
+minimum retention period, in relation to a financial transaction document of a financial institution, means:
+	(a)	if the document relates to the opening of an account with the institution—the period of 7 years after the day on which the account is closed;
+	(b)	if the document relates to the opening by a person of a deposit box held by the institution—the period of 7 years after the day on which the deposit box ceases to be used by the person; or
+	(c)	in any other case—the period of 7 years after the day on which the transaction takes place.
+77  Retention of records by financial institutions
+	(1)	A financial institution shall, subject to section 78, retain each essential customer generated financial transaction document in its original form for the minimum retention period applicable to the document.
+	(2)	Subject to subsection (4), a financial institution shall retain, or retain a copy of, each customer generated financial transaction document that is not an essential customer generated financial transaction document for the minimum retention period applicable to the document.
+	(3)	Subject to subsection (4), a financial institution shall retain, or retain a copy of, each financial transaction document:
+	(a)	that is not a customer generated financial transaction document; and
+	(b)	whose retention is necessary to preserve a record of the financial transaction concerned;
+for the minimum retention period applicable to the document.
+	(4)	Subsections (2) and (3) do not apply to a financial transaction document that relates to a single deposit, credit, withdrawal, debit or transfer of an amount of money that does not exceed $200 or such higher amount as is prescribed by the regulations for the purposes of this subsection.
+	(5)	A financial institution required to retain documents under this section shall retain and store them in a way that makes retrieval of the documents reasonably practicable.
+	(6)	A financial institution that contravenes subsection (1), (2), (3) or (5) is guilty of an offence against this section punishable, upon conviction, by a fine not exceeding $10,000.
+	(6A)	An offence against this section (as referred to in subsection (6)) is an offence of strict liability.
+Note:	For strict liability, see section 6.1 of the Criminal Code.
+	(7)	This section does not limit any other obligation of a financial institution to retain documents.
+78  Register of original documents
+	(1)	Where a financial institution is required by law to release an original of an essential customer‑generated financial transaction document before the end of the minimum retention period applicable to the document, the institution shall retain a complete copy of the document until the period has ended or the original is returned, whichever occurs first.
+	(2)	The financial institution shall maintain a register of documents released under subsection (1).
+	(3)	A financial institution that contravenes subsection (1) or (2) is guilty of an offence against this section punishable, upon conviction, by a fine not exceeding $10,000.
+	(4)	An offence against this section (as referred to in subsection (3)) is an offence of strict liability.
+Note:	For strict liability, see section 6.1 of the Criminal Code.
+78A  Active ADI accounts transferred to another ADI—obligations of ADIs in relation to documents
+When section applies
+	(1)	This section applies to a document if:
+	(a)	the document is in the possession of an ADI (the transferor ADI) in fulfilment of an obligation imposed on the transferor ADI by subsection 77(1), (2) or (3) or 78(1); and
+	(b)	the document relates to an account (the transferred account) that has been, or is proposed to be, transferred to another ADI (the transferee ADI) under:
+	(i)	a law of the Commonwealth or of a State or Territory; or
+	(ii)	an arrangement between the transferor ADI and the transferee ADI.
+Transferor ADI to give documents to transferee ADI
+	(2)	The transferor ADI must give the document to the transferee ADI within the 120‑day period beginning 30 days before the transfer.
+Offence
+	(3)	A person who intentionally contravenes subsection (2) is guilty of an offence punishable on conviction by a fine not exceeding 10 penalty units.
+Transferor ADI released from obligations under sections 77 and 78
+	(4)	If the transferor ADI complies with subsection (2) of this section in relation to the document, the transferor bank does not contravene section 77 or 78 in relation to the document. 
+Obligations of transferee ADI—sections 77 and 78
+	(5)	If the transferee ADI is given a document under subsection (2) of this section, this division applies to the transferee ADI in relation to the document as follows: 
+	(a)	if the document was covered by subsection 77(1) or 78(1)—as if the document were an essential customer generated financial transaction document in relation to the transferee ADI;
+	(b)	if the document was covered by subsection 77(2)—as if the document were a customer generated financial transaction document in relation to the transferee ADI and were not an essential customer generated financial transaction document;
+	(c)	if the document was covered by subsection 77(3)—as if the document were a financial transaction document in relation to the transferee ADI and were a document:
+	(i)	that is not a customer generated financial transaction document; and
+	(ii)	whose retention is necessary to preserve a record of the financial transaction concerned;
+	(d)	in any case—as if the minimum retention period applicable to the document were the period of 7 years after the day on which the transferred account is closed.
+Definition
+	(6)	In this section: 
+document includes a copy of a document.
+78B  Closed ADI accounts transferred to another ADI—obligations of ADIs in relation to documents
+When section applies
+	(1)	This section applies to a document if:
+	(a)	the document is in the possession of an ADI (the transferor ADI) in fulfilment of an obligation imposed on the transferor ADI by subsection 77(1), (2) or (3) or 78(1); and
+	(b)	the document relates to a closed account; and
+	(c)	the transferor ADI complies with an obligation imposed on it under subsection 78A(2) in relation to another ADI (the transferee ADI) during the 120‑day period mentioned in that subsection; and
+	(d)	the transferor ADI and the transferee ADI agree in writing that the document should be transferred by the transferor ADI to the transferee ADI during that 120‑day period.
+Transferor ADI may give documents to transferee ADI
+	(2)	The transferor ADI may give the document to the transferee ADI within that 120‑day period. 
+Transferor ADI released from obligations under sections 77 and 78
+	(3)	If the transferor ADI gives a document to the transferee ADI under subsection (2) of this section, the transferor ADI does not contravene section 77 or 78 in relation to the document. 
+Obligations of transferee ADI—sections 77 and 78
+	(4)	If the transferee ADI is given a document under subsection (2) of this section, this division applies to the transferee ADI in relation to the document as follows: 
+	(a)	if the document was covered by subsection 77(1) or 78(1)—as if the document were an essential customer generated financial transaction document in relation to the transferee ADI;
+	(b)	if the document was covered by subsection 77(2)—as if the document were a customer generated financial transaction document in relation to the transferee ADI and were not an essential customer generated financial transaction document;
+	(c)	if the document was covered by subsection 77(3)—as if the document were a financial transaction document in relation to the transferee ADI and were a document:
+	(i)	that is not a customer generated financial transaction document; and
+	(ii)	whose retention is necessary to preserve a record of the financial transaction concerned;
+	(d)	in any case—as if the minimum retention period applicable to the document were the period of 7 years after the day on which the closed account was closed.
+Definition
+	(5)	In this section: 
+document includes a copy of a document.
+
 Part V—Offences
+Division 1—Money laundering
+81  Money laundering
+	(1)	In this section:
+transaction includes the receiving or making of a gift.
+	(2)	A person who, after the commencement of this Act, engages in money laundering is guilty of an offence against this section punishable, upon conviction, by:
+	(a)	if the offender is a natural person—a fine not exceeding $200,000 or imprisonment for a period not exceeding 20 years, or both; or
+	(b)	if the offender is a body corporate—a fine not exceeding $600,000.
+	(3)	A person shall be taken to engage in money laundering if, and only if:
+	(a)	the person engages, directly or indirectly, in a transaction that involves money, or other property, that is proceeds of crime; or
+	(b)	the person receives, possesses, conceals, disposes of or brings into Australia any money, or other property, that is proceeds of crime;
+and the person knows, or ought reasonably to know, that the money or other property is derived or realised, directly or indirectly, from some form of unlawful activity.
+82  Possession etc. of property suspected of being proceeds of crime
+	(1)	A person who, after the commencement of this Act, receives, possesses, conceals, disposes of or brings into Australia any money, or other property, that may reasonably be suspected of being proceeds of crime is guilty of an offence against this section punishable, upon conviction, by:
+	(a)	if the offender is a natural person—a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both; or
+	(b)	if the offender is a body corporate—a fine not exceeding $15,000.
+	(2)	Where a person is charged with an offence against this section, it is a defence to the charge if the person satisfies the court that he or she had no reasonable grounds for suspecting that the property referred to in the charge was derived or realised, directly or indirectly, from some form of unlawful activity.
+
 Division 3—Miscellaneous
 84  Prosecution of offences
 	(1)	An offence against section 52, 68, 73, 74, 81, 82 or 97 is an indictable offence.
@@ -1772,7 +1892,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 Part VI—Enforcement of State orders in Territories
 Division 1—Interstate restraining orders
 86  Registration of interstate restraining orders
-	(1)	If an interstate restraining order made before the commencement of the Proceeds of Crime Act 2002 expressly applies to:
+	(1)	If an interstate restraining order expressly applies to:
 	(a)	specified property in a Territory;
 	(b)	all property in a Territory of a specified person; or
 	(c)	all property (other than specified property) in a Territory of a specified person;
@@ -1803,6 +1923,7 @@ then, upon the registration referred to in paragraph (c) or the registration re
 	(a)	upon the quashing of the conviction in reliance on which the interstate pecuniary penalty order was made;
 	(b)	upon the discharge of the interstate pecuniary penalty order by a court hearing an appeal against the making of the order;
 	(c)	upon payment of the amount due under the interstate pecuniary penalty order;
+	(d)	upon the person becoming bankrupt;
 	(e)	upon the sale or other disposition of the property:
 	(i)	under an order made by a court under the corresponding law of the State in which the interstate pecuniary penalty order was made;
 	(ii)	by the owner of the property with the consent of the court that made the interstate pecuniary penalty order; or
@@ -1822,7 +1943,7 @@ the Official Trustee may, in accordance with an agreement between the Official T
 
 Division 2—Interstate forfeiture orders
 92  Registration of interstate forfeiture orders
-	(1)	If an interstate forfeiture order made before the commencement of the Proceeds of Crime Act 2002 expressly applies to property in a Territory, a copy of the order, sealed by the court making the order, may be registered in the Supreme Court of the Territory by the person on whose application the order was made or by an appropriate officer.
+	(1)	If an interstate forfeiture order expressly applies to property in a Territory, a copy of the order, sealed by the court making the order, may be registered in the Supreme Court of the Territory by the person on whose application the order was made or by an appropriate officer.
 	(2)	A copy of any amendments made to an interstate forfeiture order (before or after registration), sealed by the court making the amendments, may be registered in the same way, and the amendments do not, for the purposes of this Act, have effect until they are registered.
 	(3)	Registration of an interstate forfeiture order may be refused to the extent that the order would not, on registration, be capable of enforcement in the Territory.
 	(4)	Registration shall be effected in accordance with the rules of the Supreme Court of the Territory.
@@ -1944,7 +2065,7 @@ authorise the provision by the Commonwealth to the applicant of such legal or fi
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 Notes to the Proceeds of Crime Act 1987
-Note1
+Note 1
 The Proceeds of Crime Act 1987 as shown in this compilation comprises Act No. 87, 1987 amended as indicated in the Tables below.
 The Proceeds of Crime Act 1987 is affected by section 45 of the CSL Sale Act 1993.
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information see Table A.
@@ -2072,13 +2193,8 @@ Schedules 1‑7, 9‑12: 12 Oct 2001 (see Gazette 2001, No. S428) Schedule 8: 
 Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002
 86, 2002
 11 Oct 2002
-Ss. 1-3: Royal Assent Remainder: 1 Jan 2003 (see s. 2(1) and Gazette 2002, No. GN44)
+Schedule 1 (items 2 and 3), Schedule 3 (item 7), Schedule 4 (items 30‑33) and Schedule 7 (items 1-16): [see (l) and Note 2]
 Sch. 7 (items 14‑16) [see Table A]
-Australian Crime Commission Establishment Act 2002
-125, 2002
-10 Dec 2002
-Schedule 2 (items 107–115 and 226): 1 Jan 2003
-Sch. 2 (item 226) [see Table A]
 (a)	The Proceeds of Crime Act 1987 was amended by sections 34-50 only of the Crimes Legislation Amendment Act 1987, subsections 2(1) and (2) of which provide as follows: 
 	(1)	Sections 11, 14, 16, 17, 18, 47, 70, 71, 72, 73, 74 and 75 and paragraph 69(b) shall come into operation on a day or days to be fixed by Proclamation. 
 	(2)	Parts II, VI, VII, VIII (other than section 47) and IX and Schedule 4 shall come into operation on the day on which this Act receives the Royal Assent.
@@ -2114,12 +2230,28 @@ Sch. 2 (item 226) [see Table A]
 	(1)	Subject to this section, this Act commences at the later of the following times:
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
 	Item 15 commenced on 24 May 2001.
+(l)	The Proceeds of Crime Act 1987 was amended by the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002, subsection 2(1) (items 2 and 5) of which provides as follows:
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+Commencement information
+Column 1
+Column 2
+Column 3
+Provision(s)
+Commencement
+Date/Details
+2.  Schedules 1 to 4
+At the same time as sections 3 to 338 of the Proceeds of Crime Act 2002 commence
+TBP or 11 April 2003 [see Note 2]
+5.  Schedules 6 and 7
+At the same time as sections 3 to 338 of the Proceeds of Crime Act 2002 commence
+TBP or 11 April 2003 [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 4 	
-am. No. 120, 1987; Nos. 28 and 120, 1991; No. 164, 1992; No.182, 1994; Nos. 8 and 152, 1997; No. 48, 1998; Nos. 44 and 146, 1999; No. 137, 2000; Nos. 86 and 125, 2002
+am. No. 120, 1987; Nos. 28 and 120, 1991; No. 164, 1992; No.182, 1994; Nos. 8 and 152, 1997; No. 48, 1998; Nos. 44 and 146, 1999; No. 137, 2000
 Heading to s. 7 	
 am. No. 137, 2000
 S. 7 	
@@ -2128,16 +2260,12 @@ S. 9A
 ad. No. 120, 1988 
 S. 13A 	
 ad. No. 24, 2001
-S. 14	
-am. No. 86, 2002
 S. 18 	
 am. No. 123, 1991 
 S. 20 	
 am. No. 120, 1991; No. 164, 1992; No. 152, 1997
 S. 21 	
 am. No. 120 1988; No. 120, 1991 
-S. 22	
-am. No. 86, 2002
 Heading to Div. 2A of Part II 	
 ad. No. 120, 1988 
 
@@ -2159,13 +2287,11 @@ am. No. 120, 1988; No. 123, 1991
 S. 28 	
 am. No. 120, 1988 
 S. 30 	
-am. No. 120, 1987; Nos. 120 and 123, 1991; No. 164, 1992; Nos. 20 and 152, 1997; No. 86, 2002
+am. No. 120, 1987; Nos. 120 and 123, 1991; No. 164, 1992; Nos. 20 and 152, 1997
 S. 30A	
 ad. No. 20, 1997
 S. 31 	
 am. No. 120, 1987; No. 120, 1988; No. 120, 1991 
-S. 32	
-am. No. 86, 2002
 S. 34 	
 am. No. 120, 1988 
 Heading to Part IIA	
@@ -2196,18 +2322,16 @@ S. 34E
 ad. No. 120, 1991
 
 am. No. 152, 1997
-S. 35	
-am. No. 86, 2002
 S. 36 	
 am. No. 120, 1987 
 S. 38 	
 am. No. 120, 1987 
 S. 39 	
-am. No. 135, 2001; No. 125, 2002
+am. No. 135, 2001
 S. 40 	
-am. No. 120, 1987; No. 135, 2001; No. 125, 2002 
+am. No. 120, 1987; No. 135, 2001 
 S. 43 	
-am. No. 120, 1987; No. 120, 1988; No. 123, 1991; No. 86, 2002 
+am. No. 120, 1987; No. 120, 1988; No. 123, 1991 
 S. 44 	
 am. No. 120, 1987; No. 120, 1988 
 S. 45 	
@@ -2221,97 +2345,63 @@ ad. No. 120, 1988
 S. 49 	
 am. No. 120, 1988; No. 120, 1991; No. 164, 1992; No. 152, 1997
 S. 50 	
-am. No. 28, 1991; No. 86, 2002 
+am. No. 28, 1991 
 S. 51 	
 am. No. 120, 1988 
 S. 52 	
 am. No. 24, 2001
 S. 53 	
 am. No. 120, 1987; No. 120, 1988; No. 120, 1991; No. 164, 1992 
-
-rep. No. 86, 2002
 S. 55 	
 rs. No. 120, 1988 
 S. 57 	
-am. No. 120, 1988; No. 123, 1991; No. 86, 2002 
+am. No. 120, 1988; No. 123, 1991 
 S. 59 	
-am. No. 182, 1994; No. 40, 1996; No. 86, 2002 
+am. No. 182, 1994; No. 40, 1996 
 S. 60 	
 am. No. 164, 1992 
 S. 63 	
 am. No. 120, 1991; No. 152, 1997
 S. 66 	
-am. No. 120, 1987; No. 120, 1988; No. 123, 1991; No. 48, 1998; No. 86, 2002  
+am. No. 120, 1987; No. 120, 1988; No. 123, 1991; No. 48, 1998 
 S. 67 	
 rs. No. 120, 1987 
 S. 68 	
 am. No. 24, 2001
-S. 70	
-am. No. 86, 2002
 S. 71 	
 am. No. 120, 1987; No. 120, 1988 
 S. 73 	
-am. No. 120, 1987; No. 137, 2000; No. 24, 2001; No. 86, 2002 
+am. No. 120, 1987; No. 137, 2000; No. 24, 2001 
 S. 74 	
-am. No. 120, 1987; No. 125, 2002 
-Div. 4 of Part IV	 (ss. 76–78, 78A, 78B)
-rep. No. 86, 2002
-S. 76	
-rep. No. 86, 2002
+am. No. 120, 1987 
 Ss. 77, 78 	
 am. No. 24, 2001
-
-rep. No. 86, 2002
 Heading to s. 78A	
 rs. No. 48, 1998
-
-rep. No. 86, 2002
 Subhead to s. 78A(2)	
 am. No. 48, 1998
-
-rep. No. 86, 2002
 Subhead to s. 78A(4)	
 am. No. 48, 1998
-
-rep. No. 86, 2002
 Subhead to s. 78A(5)	
 am. No. 48, 1998
-
-rep. No. 86, 2002
 S. 78A	
 ad. No. 69, 1994
 
 am. No. 48, 1998; No. 24, 2001
-
-rep. No. 86, 2002
 Heading to s. 78B	
 rs. No. 48, 1998
-
-rep. No. 86, 2002
 Subhead to s. 78B(2)	
 am. No. 48, 1998
-
-rep. No. 86, 2002
 Subhead to s. 78B(3)	
 am. No. 48, 1998
-
-rep. No. 86, 2002
 Subhead to s. 78B(4)	
 am. No. 48, 1998
-
-rep. No. 86, 2002
 S. 78B 	
 ad. No. 69, 1994;
 
 am. No. 48, 1998
-
-rep. No. 86, 2002
 Ss. 79, 80 	
 rep. No. 120, 1987 
-Div. 1 of Part V (ss. 81, 82)	
-rep. No. 86, 2002
-Ss. 81, 82	
-rep. No. 86, 2002
 Div. 2 of Part V (s. 83)	
 rep. No. 137, 2000
 S. 83 	
@@ -2320,14 +2410,10 @@ S. 84
 am. No. 120, 1987; No. 137, 2000 
 S. 85 	
 am. No. 120, 1988; No. 20, 1997 
-S. 86	
-am. No. 86, 2002
 S. 88 	
 am. No. 120, 1987 
 S. 90 	
-am. No. 166, 1992; No. 86, 2002 
-S. 92	
-am. No. 86, 2002
+am. No. 166, 1992 
 S. 96A 	
 ad. No. 137, 2000
 S. 98 	
@@ -2336,6 +2422,71 @@ S. 102A
 ad. No. 120, 1987  
 
 
+Note 2
+Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002)
+The following amendments commence on 11 April 2003 unless proclaimed earlier:
+Schedule 1
+2  Subsection 4(1) (definition of proceeds of crime)
+Repeal the definition.
+3  Division 1 of Part V
+Repeal the Division.
+Schedule 3
+7  Division 4 of Part IV
+Repeal the Division.
+Schedule 4
+30  Paragraph 50(2)(d)
+Repeal the paragraph.
+31  Section 53
+Repeal the section.
+32  Paragraph 59(1)(f)
+Omit “53,”.
+33  Paragraph 90(2)(d)
+Repeal the paragraph.
+Schedule 7
+1  Subsection 4(1)
+Insert:
+commencement of the Proceeds of Crime Act 2002 means the commencement of sections 3 to 338 of the Proceeds of Crime Act 2002.
+2  Subsection 14(2)
+Repeal the subsection, substitute:
+	(2)	The DPP:
+	(a)	is not empowered to make an application after the end of the relevant application period in relation to the conviction; and
+	(b)	is not empowered to make an application after the commencement of the Proceeds of Crime Act 2002 unless some or all of the property which could be used to satisfy the order is property in respect of which a restraining order is in force.
+3  After subsection 22(1)
+Insert:
+	(1A)	This section does not apply if the conviction is quashed after the commencement of the Proceeds of Crime Act 2002.
+Note:	Division 6 of Part 2‑2 of the Proceeds of Crime Act 2002 applies in relation to convictions quashed after that commencement: see subitem 21(1) of Schedule 7 to the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002.
+4  Paragraph 30(1)(b)
+Before “a restraining order”, insert “before the commencement of the Proceeds of Crime Act 2002,”.
+5  After subsection 32(1)
+Insert:
+	(1A)	This section does not apply if the conviction is quashed after the commencement of the Proceeds of Crime Act 2002.
+Note:	Division 4 of Part 2‑3 of the Proceeds of Crime Act 2002 applies in relation to convictions quashed after that commencement: see subitem 21(2) of Schedule 7 to the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002.
+6  After subsection 35(2)
+Insert:
+	(2A)	A police officer is not empowered to do anything under this section after the commencement of the Proceeds of Crime Act 2002 unless it is done under a warrant issued under section 36 of this Act for which an application was made under that section before that commencement.
+7  After subsection 43(2)
+Insert:
+	(2A)	The DPP is not empowered to make an application under this section after the commencement of the Proceeds of Crime Act 2002.
+8  Paragraph 57(2)(d)
+Repeal the paragraph, substitute:
+	(d)	if, within the relevant period in relation to the restraining order, the person is acquitted of the charge and the person is not charged with a related indictable offence by the time of the acquittal, the restraining order ceases to be in force:
+	(i)	in a case where the acquittal occurs after the commencement of the Proceeds of Crime Act 2002—at the end of the period of 28 days after the day of the acquittal; or
+	(ii)	otherwise—when the acquittal occurs;
+Note:	After the commencement of the Proceeds of Crime Act 2002, an application can be made under that Act (but not section 17) for a restraining order in relation to the offence, despite the acquittal.
+9  After subsection 66(1)
+Insert:
+	(1A)	A police officer is not empowered to make an application under this section after the commencement of the Proceeds of Crime Act 2002.
+10  At the end of section 70
+Add:
+	(2)	A police officer is not empowered to do anything under this section after the commencement of the Proceeds of Crime Act 2002 unless it is done under a search warrant issued under section 71 of this Act for which an application was made under that section before that commencement.
+11  After subsection 73(1)
+Insert:
+	(1A)	A police officer is not empowered to make an application under this section after the commencement of the Proceeds of Crime Act 2002.
+12  Subsection 86(1)
+After “interstate restraining order”, insert “made before the commencement of the Proceeds of Crime Act 2002”.
+13  Subsection 92(1)
+After “interstate forfeiture order”, insert “made before the commencement of the Proceeds of Crime Act 2002”.
+As at 16 October 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
@@ -2360,6 +2511,7 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
 Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002)
+The following provisions commence on 11 April 2003 unless proclaimed earlier:
 Schedule 7
 14  Effect on existing applications and orders
 The amendments made by this Part of this Schedule do not affect:
@@ -2374,11 +2526,4 @@ does not prevent the property, documents or information being used for the purpo
 Despite the repeal of Division 4 of Part IV of the Proceeds of Crime Act 1987 by Schedule 3 to this Act:
 	(a)	that Division continues to apply in relation to any document in relation to which it applied immediately before the commencement of sections 3 to 338 of the Proceeds of Crime Act 2002; and
 	(b)	Part VIA of the Financial Transaction Reports Act 1988 does not apply to any such document.
-
-Australian Crime Commission Establishment Act 2002  (No. 125, 2002)
-Schedule 2
-226  Transitional regulations
-(1)	The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
-(2)	Despite subsection 48(2) of the Acts Interpretation Act 1901, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
-
 
