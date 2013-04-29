@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00341/Html/FederalMagis1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00105/Html/FederalMagis1999WD02_image001.gif)
 
 # Federal Magistrates Act 1999
 
 **Act No. 193 of 1999 as amended**
 
-This compilation was prepared on 16 July 2009
- taking into account amendments up to Act No. 55 of 2009
+This compilation was prepared on 1 March 2009
+ taking into account amendments up to Act No. 134 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -46,8 +46,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Part 3—Jurisdiction of the Federal Magistrates Court**
 
 [10](#10).          Jurisdiction
-
-[10A](#10A).       General and Fair Work Divisions of the Federal Magistrates Court
 
 [11](#11).          Exercise of jurisdiction by single Federal Magistrate
 
@@ -333,8 +331,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [1](#1).            Appointment of Federal Magistrates
 
-[1A](#1A).         Assignment of Federal Magistrates to Divisions
-
 [2](#2).            Style
 
 [3](#3).            Oath or affirmation of office
@@ -455,12 +451,6 @@ Court consists of a Chief Federal Magistrate and other Federal Magistrates.</li>
 
 on the Federal Magistrates Court by other laws of the Commonwealth.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Jurisdiction is to be
-
-exercised in the General Division or the Fair Work Division of the Federal
-
-Magistrates Court.</li>
-
 <li class="BoxList" style="margin-left:21.25pt">•      The Federal Magistrates
 
 Court is to promote the use of dispute resolution processes that are likely to
@@ -530,8 +520,6 @@ for the Federal Magistrates Court to share facilities with other courts.</li>
                      (a)  a complying superannuation fund (within the meaning of section 45 of the _Superannuation Industry (Supervision) Act 1993_); or
 
                      (b)  a retirement savings account (within the meaning of section 8 of the _Retirement Savings Accounts Act 1997_).
-
-                    <a name="division"></a>**_Division_** means the General Division or the Fair Work Division of the Federal Magistrates Court.
 
                     <a name="elig-child"></a>**_eligible child_** has the meaning given by clause 9F of Schedule 1.
 
@@ -651,38 +639,6 @@ Note:          The Parliament may create federal courts under 
 
              (3)  The process of the Federal Magistrates Court runs, and the judgments of the Federal Magistrates Court have effect and may be executed, throughout Australia.
 
-##### <a id="10A"></a>10A  General and Fair Work Divisions of the Federal Magistrates Court
-
-             (1)  For the purpose of the organisation and conduct of the business of the Federal Magistrates Court, the Federal Magistrates Court comprises 2 Divisions:
-
-                     (a)  the General Division; and
-
-                     (b)  the Fair Work Division.
-
-             (2)  Every proceeding in the Federal Magistrates Court must be instituted, heard and determined in a Division.
-
-Fair Work Division
-
-             (3)  The following jurisdiction of the Federal Magistrates Court is to be exercised in the Fair Work Division:
-
-                     (a)  jurisdiction that is required by any other Act to be exercised in the Fair Work Division;
-
-                     (b)  jurisdiction that is incidental to such jurisdiction.
-
-Note:          Under section 566 of the _Fair Work Act 2009_, jurisdiction is required to be exercised in the Fair Work Division of the Federal Magistrates Court in relation to matters arising under that Act.
-
-General Division
-
-             (4)  The following jurisdiction of the Federal Magistrates Court is to be exercised in the General Division:
-
-                     (a)  jurisdiction that is not required by any other Act to be exercised in the Fair Work Division;
-
-                     (b)  jurisdiction that is incidental to such jurisdiction (including jurisdiction that is required by any other Act to be exercised in the Fair Work Division).
-
-Jurisdiction that is required to be exercised in both Divisions
-
-             (5)  If the Court’s jurisdiction is required to be exercised in both Divisions in relation to particular proceedings or proceedings of a particular kind, the Chief Federal Magistrate may, at any time (whether before or after the proceedings are instituted), give a direction about the allocation to one or other Division of those proceedings or proceedings of that kind.
-
 ##### <a id="11"></a>11  Exercise of jurisdiction by single Federal Magistrate
 
              (1)  For the purposes of the exercise of the jurisdiction of the Federal Magistrates Court, the Federal Magistrates Court is to be constituted by a single Federal Magistrate.
@@ -691,33 +647,17 @@ Jurisdiction that is required to be exercised in both Divisions
 
 ##### <a id="12"></a>12  Arrangement of business of the Federal Magistrates Court
 
-Responsibility of Chief Federal Magistrate
-
              (1)  The Chief Federal Magistrate is responsible for ensuring the orderly and expeditious discharge of the business of the Federal Magistrates Court.
 
              (2)  In discharging his or her responsibility under subsection (1), the Chief Federal Magistrate must promote the objects of this Act.
 
              (3)  Subject to such consultation with the Federal Magistrates as is appropriate and practicable, the Chief Federal Magistrate may make arrangements as to the Federal Magistrate who is to constitute the Federal Magistrates Court in particular matters or classes of matters.
 
-Exercise of powers of General and Fair Work Divisions of the Federal Magistrates Court
-
-          (3A)  A Federal Magistrate who is assigned to a Division of the Federal Magistrates Court must exercise, or participate in exercising, the powers of the Federal Magistrates Court only in that Division, except as set out in subsection (3B).
-
-          (3B)  The Chief Federal Magistrate may arrange for a Federal Magistrate who is assigned to a particular Division of the Federal Magistrates Court to exercise, or participate in exercising, the powers of the Federal Magistrates Court in the other Division if the Chief Federal Magistrate considers that circumstances make it desirable to do so.
-
-          (3C)  To avoid doubt, a Federal Magistrate who is not assigned to either Division of the Federal Magistrates Court may exercise, or participate in exercising, the powers of the Federal Magistrates Court in either Division.
-
-          (3D)  Subsection (3A) does not affect the validity of any exercise of powers by the Federal Magistrates Court otherwise than in accordance with that subsection.
-
-Assignment of Federal Magistrates to locations or registries
-
              (4)  The Chief Federal Magistrate may, by written instrument, assign a particular Federal Magistrate to a particular location or registry.
 
              (5)  An instrument under subsection (4) has no effect unless it is approved, in writing, by the Minister.
 
              (6)  Subsection (4) does not prevent a Federal Magistrate from performing his or her duties at one or more other locations or registries on a temporary basis (whether on circuit or otherwise).
-
-Functions and powers of the Chief Federal Magistrate
 
              (7)  In addition to the powers and functions conferred on the Chief Federal Magistrate by this Act, the Chief Federal Magistrate has such other functions and powers in relation to the Federal Magistrates Court as are specified in the regulations.
 
@@ -931,7 +871,7 @@ about the dispute resolution processes that could be used to resolve any matter 
 
              (1)  A designated officer of the Federal Magistrates Court must, as far as practicable, on request by:
 
-                     (a)  a party to proceedings in the Federal   Magistrates Court; or
+                     (a)  a party to proceedings in the Federal Magistrates Court; or
 
                      (b)  a person considering instituting proceedings in the Federal Magistrates Court;
 
@@ -1891,9 +1831,9 @@ Note:          See Division 13A of Part VII, and Parts XII
 
 ##### <a id="79"></a>79  Costs
 
-             (1)  This section does not apply to family law or child support proceedings or proceedings in relation to a matter arising under the _Fair Work Act 2009_.
+             (1)  This section does not apply to family law or child support proceedings.
 
-Note:          See section 117 of the _Family Law Act 1975_ in relation to family law or child support proceedings. See section 570 of the _Fair Work Act 2009_ for proceedings in relation to matters arising under that Act.
+Note:          See section 117 of the _Family Law Act 1975_ in relation to family law or child support proceedings.
 
              (2)  The Federal Magistrates Court or a Federal Magistrate has jurisdiction to award costs in all proceedings before the Federal Magistrates Court (including proceedings dismissed for want of jurisdiction) other than proceedings in respect of which any other Act provides that costs must not be awarded.
 
@@ -2663,20 +2603,6 @@ for at least 5 years.
 
 Note:          Section 72 of the Constitution sets out requirements relating to the appointment and tenure of Federal Magistrates.
 
-##### <a id="1A"></a>1A  Assignment of Federal Magistrates to Divisions
-
-                   The Governor-General may:
-
-                     (a)  assign a Federal Magistrate (other than the Chief Federal Magistrate) to one of the Divisions either:
-
-                              (i)  in the commission of appointment of the Federal Magistrate; or
-
-                             (ii)  at a later time, with the consent of the Federal Magistrate; and
-
-                     (b)  vary any such assignment, with the consent of the Federal Magistrate.
-
-Note:          A Federal Magistrate (including the Chief Federal Magistrate) who is not assigned to either Division of the Federal Magistrates Court may exercise the powers of the Federal Magistrates Court in either Division (see subsection 12(3C)).
-
 ##### <a id="2"></a>2  Style
 
 Chief Federal Magistrate
@@ -3057,10 +2983,6 @@ Note:          See also section 33A of the _Acts Interpretat
 
                      (d)  the occasion to act had not arisen or had ceased.
 
-             (3)  For the purposes of this Act, a person who is acting as Chief Federal Magistrate under subclause (1) is taken not to be assigned to either Division of the Federal Magistrates Court.
-
-Note:          A Federal Magistrate who is not assigned to either Division of the Federal Magistrates Court may exercise the powers of the Federal Magistrates Court in either Division (see subsection 12(3C)).
-
 # Schedule 2—Personnel provisions relating to the Chief Executive Officer of the Federal Magistrates Court
 
 _Note:       See section 95._
@@ -3169,8 +3091,7 @@ The _Federal Magistrates Act 1999_ was amended by the _Public Employment (Conseq
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
-  <col width="1%">
+  <col width="18%">
   <col width="22%">
   <col width="14%">
 </colgroup>
@@ -3184,7 +3105,7 @@ The _Federal Magistrates Act 1999_ was amended by the _Public Employment (Conseq
       <div>Number 
 and year</div>
     </td>
-    <td colspan="2">
+    <td>
       <div>Date 
 of Assent</div>
     </td>
@@ -3203,7 +3124,7 @@ of Assent</div>
   <td>
     <div>193, 1999</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>23 Dec 1999</div>
   </td>
   <td>
@@ -3220,7 +3141,7 @@ of Assent</div>
   <td>
     <div>146, 1999</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>11 Nov 1999</div>
   </td>
   <td>
@@ -3237,7 +3158,7 @@ of Assent</div>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
   <td>
@@ -3254,7 +3175,7 @@ of Assent</div>
   <td>
     <div>63, 2002</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>3 July 2002</div>
   </td>
   <td>
@@ -3271,7 +3192,7 @@ of Assent</div>
   <td>
     <div>143, 2000</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>29 Nov 2000</div>
   </td>
   <td>
@@ -3289,7 +3210,7 @@ Schedule 3 (items 118, 119): 27 Dec 2000 <i>(b)</i></div>
   <td>
     <div>140, 2003</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>17 Dec 2003</div>
   </td>
   <td>
@@ -3306,7 +3227,7 @@ Schedule 3 (items 118, 119): 27 Dec 2000 <i>(b)</i></div>
   <td>
     <div>137, 2005</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>15 Nov 2005</div>
   </td>
   <td>
@@ -3324,7 +3245,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>46, 2006</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>22 May 2006</div>
   </td>
   <td>
@@ -3341,7 +3262,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>8, 2007</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>15 Mar 2007</div>
   </td>
   <td>
@@ -3358,7 +3279,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>163, 2007</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>25 Sept 2007</div>
   </td>
   <td>
@@ -3375,7 +3296,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>115, 2008</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>21 Nov 2008</div>
   </td>
   <td>
@@ -3392,7 +3313,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>134, 2008</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>4 Dec 2008</div>
   </td>
   <td>
@@ -3403,31 +3324,6 @@ Schedule 2 (items
   <td>
     <div>S. 4 and Sch. 2 (item 12)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>55, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 17 (items 10–17, 20): 1 July 2009 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>Sch. 17 (item 20)</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
 _(a)_     The _Federal Magistrates Act 1999_ was amended by Schedule 1 (items 472-479) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsection 2(3) of which provides as follows:
@@ -3707,7 +3603,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 137, 2005; No. 46, 2006; No. 55, 2009</div>
+    <div>am. No. 137, 2005; No. 46, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3715,7 +3611,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 46, 2006; No. 163, 2007; No. 134, 2008; No. 55, 2009</div>
+    <div>am. No. 46, 2006; No. 163, 2007; No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3732,46 +3628,6 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 12(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 12(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 12(7)</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4012,30 +3868,6 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
   </td>
   <td>
     <div>am. No. 143, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 79(1)</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4288,8 +4120,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 1 
-of Sch. 1</div>
+    <div>Heading to Part 1 of Sch. 1.</div>
   </td>
   <td>
     <div>ad. No. 163, 2007</div>
@@ -4297,16 +4128,7 @@ of Sch. 1</div>
 </tr>
 <tr>
   <td>
-    <div>C. 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2 
-of Sch. 1</div>
+    <div>Heading to Part 2 of Sch. 1.</div>
   </td>
   <td>
     <div>ad. No. 163, 2007</div>
@@ -4402,19 +4224,10 @@ of Sch. 1</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 3 
-of Sch. 1</div>
+    <div>Heading to Part 3 of Sch. 1.</div>
   </td>
   <td>
     <div>ad. No. 163, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 10</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4622,23 +4435,5 @@ The amendments of the _Federal Magistrates Act 1999_ made by this Schedule apply
                      (a)  held office as a Federal Magistrate; or
 
                      (b)  was a retired disabled Federal Magistrate.
-
-* * *
-
-_Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (No. 55, 2009)_
-
-## Schedule 17
-
-## 20  Application of Part 2
-
-(1)        The amendments made by Part 2 of this Schedule apply:
-
-                     (a)  in relation to proceedings commenced after the Part commences; and
-
-                     (b)  in relation to proceedings that are pending in the Federal Magistrates Court immediately before that Part commences, as if the reference in subsection 10A(2) of the _Federal Magistrates Act 1999_ (as inserted by item 12 of this Schedule) to “be instituted, heard and determined” were a reference to “, after item 12 of Schedule 17 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ commences, be heard and determined”.
-
-(2)        A person who is a Federal Magistrate (other than the Chief Federal Magistrate) of the Federal Magistrates Court immediately before Part 2 of this Schedule commences, is taken, for all purposes, not to have been assigned under clause 1A of Schedule 1 to the _Federal Magistrates Act 1999_ (as inserted by item 16 of this Schedule) to either Division of the Federal Magistrates Court.
-
-_Note:       A Federal Magistrate (including the Chief Federal Magistrate) who is not assigned to either Division of the Federal Magistrates Court may exercise the powers of the Federal Magistrates Court in either Division (see subsection 12(3C) of the Federal Magistrates Act 1999, as inserted by item 13 of this Schedule)._
 
  
