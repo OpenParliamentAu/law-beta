@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00030/Html/a6eeee06-bbd9-4bbc-bae4-343b58d381a1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00851/Html/4205fe07-054b-4a7c-8627-b1ccb938835a_files/image001.gif)
 
 # Spam Act 2003
 
 **Act No. 129 of 2003 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 20 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -563,7 +563,7 @@ where the production of the list, collection or compilation is, to any extent, d
 
 Express references in this Act to organisations do not imply that references in this Act to persons do not include bodies politic or corporate.
 
-Note:          Subsection 2C(1) of the _Acts Interpretation Act 1901_ provides that **_person_** includes a body politic or corporate as well as an individual.
+Note:          Paragraph 22(1)(a) of the _Acts Interpretation Act 1901_ provides that **_person_** includes a body politic or corporate as well as an individual.
 
                     <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
 
@@ -1045,9 +1045,7 @@ must not be supplied, acquired or used.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      An electronic address list
 
-produced using address‑harvesting software must not be supplied, acquired or
-
-used.</li>
+produced using address‑harvesting software must not be supplied, acquired or used.</li>
 
 * * *
 
@@ -1317,7 +1315,7 @@ Maximum penalty payable by a person other than a body corporate—prior record
 
                              (ii)  in any other case—1,000 penalty units.
 
-##### <a id="26"></a>26  Civil action for recovery of pecuniary penalties
+##### <a id="26"></a>26  Civil action for recovery of pecuniary penalties
 
              (1)  The ACMA may institute a proceeding in the Federal Court for the recovery on behalf of the Commonwealth of a pecuniary penalty referred to in section 24.
 
@@ -2257,7 +2255,7 @@ Schedule 2: <i>(a)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1059) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 1059) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2505,7 +2503,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>S. 4</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005; Nos. 8 and 103, 2010; No. 46, 2011</div>
+    <div>am. No. 45, 2005; Nos. 8 and 103, 2010</div>
   </td>
   <td>
     <div></div>
@@ -2688,11 +2686,27 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
   <td></td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1059  Section 4 (note at the end of the definition of _organisation_)
+
+Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
+
+As at 20 October 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
