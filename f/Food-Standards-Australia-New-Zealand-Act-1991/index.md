@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00020/Html/FoodStandAusNZ1991_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00763/Html/FoodStandAusNZ1991_image001.gif)
 
 # Food Standards Australia New Zealand Act 1991
 
 **Act No. 118 of 1991 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 23 November 2010
  taking into account amendments up to Act No. 121 of 2010
 
 The text of any of those amendments not in force
@@ -717,7 +717,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (ia)  to provide information, on request by a member of the public, about the Australia New Zealand Food Standards Code; and
 
-                      (j)  in co-operation with the Department administering Part 3-3 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth, to co-ordinate the recall of food under that Part; and
+                      (j)  in co-operation with the Department administering Division 1A of Part V of the _Trade Practices Act 1974_, to co-ordinate the recall of food under that Division; and
 
                      (k)  at the request of the States and Territories, to co-ordinate action by the States and Territories to recall food under State and Territory laws; and
 
@@ -1447,7 +1447,7 @@ Note:          This does not limit the other matters to which 
 
 #### Subdivision G—Procedure for certain variations of the Nutrition, Health and Related Claims Standard
 
-##### <a id="46"></a>46  Application of Subdivision
+##### <a id="46"></a>46  Application of Subdivision
 
                    This Subdivision applies to an application if:
 
@@ -2145,7 +2145,7 @@ Note:          The process followed by the Council after recei
 
                      (b)  it is likely that the chemical product would, if used, be present in foods at a level that is not already permitted  under the Maximum Residue Limits Standard.
 
-##### <a id="81"></a>81  Authority must prepare a proposal to vary the Maximum Residue Limits Standard and adopt the general procedure to consider it
+##### <a id="81"></a>81  Authority must prepare a proposal to vary the Maximum Residue Limits Standard and adopt the general procedure to consider it
 
                    The Authority must:
 
@@ -4099,7 +4099,7 @@ Schedule 5 (item 137(a)): <i>(h)</i></div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 162, 163): 1 Jan 2011</div>
+    <div>Schedule 6 (items 162, 163): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4116,7 +4116,7 @@ Schedule 5 (item 137(a)): <i>(h)</i></div>
     <div>17 Nov 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 7–39): \[ <i>see</i>Note 2 and Table A]</div>
+    <div>Schedule 1 (items 7–39): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 20, 39)</div>
@@ -4748,7 +4748,7 @@ The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ 
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 152, 1995; No. 201, 1997; No. 200, 1999; No. 81, 2001; No. 98, 2007; No. 103, 2010</div>
+    <div>am. No. 152, 1995; No. 201, 1997; No. 200, 1999; No. 81, 2001; No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -7476,6 +7476,25 @@ Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as am
 
 ### Note 2
 
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 162  Paragraph 13(1)(j)
+
+Omit “Division 1A of Part V of the _Trade Practices Act 1974_”, substitute “Part 3-3 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth”.
+
+## 163  Paragraph 13(1)(j)
+
+Omit “that Division”, substitute “that Part”.
+
+As at 23 November 2010 the amendments are not incorporated in this compilation.
+
+### Note 3
+
 _Food Standards Australia New Zealand Amendment Act 2010
  (No. 121, 2010)_
 
@@ -7523,7 +7542,7 @@ Insert:
 
                    This Division applies if the APVMA notifies the Authority under section 13A  of the Agvet Code of an application or variation in relation to a chemical product.
 
-##### <a id="81"></a>81  Authority to give notice of APVMA notification
+##### <a id="81"></a>81  Authority to give notice of APVMA notification
 
              (1)  The Authority must give public notice of the following matters:
 
@@ -7717,7 +7736,7 @@ Add:
 
              (2)  The report may include any other matters that the members consider relevant.
 
-As at 1 January 2011 the amendments are not incorporated in this compilation.
+As at 23 November 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
