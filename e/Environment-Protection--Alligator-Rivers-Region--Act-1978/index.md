@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00071/Html/EnvPrnAlligRivRgn1978_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00052/Html/EnvPrnAlligRivRgn1978_image001.gif)
 
 # Environment Protection (Alligator Rivers Region) Act 1978
 
 **Act No. 28 of 1978 as amended**
 
-This compilation was prepared on 19 February 2007
+This compilation was prepared on 8 January 2007
  taking into account amendments up to Act No. 165 of 2006
 
 The text of any of those amendments not in force 
@@ -116,6 +116,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
 ## An Act to provide for the appointment of a Supervising Scientist for the purpose of protecting the environment in the Alligator Rivers Region of the Northern Territory from the effects of mining operations, and for other purposes
 
 ## Part I—Preliminary
@@ -210,7 +212,9 @@ but does not include the construction or use of:
 
                              (ii)  an authority under section 41 of the _Atomic Energy Act 1953_; and
 
-                            (iii)  an agreement under Part IV of the _Aboriginal__Land__Rights (__Northern   Territory__) Act_ _1976_.
+                            (iii)  an agreement under Part IV of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_; and
+
+                            (iv)  an instrument giving the approval of the Governor-General under paragraph 355(1)(a) of the _Environment Protection and Biodiversity Conservation Act 1999_.
 
                     <a name="ranger-inquiri-report"></a>**_Ranger Inquiry report_** means the report known as the Ranger Uranium Environmental Inquiry Second Report that was presented to the Minister for Environment, Housing and Community Development and the Minister for Aboriginal Affairs on 17 May 1977.
 
@@ -386,7 +390,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (4)  Subject to subsection (5), an appointed member holds office during the pleasure of the Minister.
 
-             (5)  Where a person is appointed as an appointed member on the nomination of the Administrator of the Northern Territory or the appropriate Aboriginal Land Council, or on the nomination of a Department, authority, incorporated company or other body, the Minister shall not terminate the appointment unless:
+             (5)  Where a person is appointed as an appointed member on the nomination of the Administrator of the Northern   Territory or the appropriate Aboriginal Land Council, or on the nomination of a Department, authority, incorporated company or other body, the Minister shall not terminate the appointment unless:
 
                      (a)  he or she is required to do so by subsection 20(1); or
 
@@ -734,7 +738,7 @@ Note:          The defendant bears an evidential burden in rel
 
 _Section 3_
 
-![](http://www.comlaw.gov.au/Details/C2007C00071/Html/EnvPrnAlligRivRgn1978_image002.jpg)
+![](http://www.comlaw.gov.au/Details/C2007C00052/Html/EnvPrnAlligRivRgn1978_image002.jpg)
 
  
 
@@ -1019,7 +1023,7 @@ Remainder: 24 May 2001</div>
     <div>12 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 848, 849): 19 Feb 2007 ( <i>see</i>F2007L00411)</div>
+    <div>Schedule 1 (items 848, 849): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1091,7 +1095,7 @@ _(g)_     The _Environment Protection (Alligator Rivers Region) Act 1978
 </tr>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b>Part I</b></div>
   </td>
   <td>
     <div></div>
@@ -1102,7 +1106,7 @@ _(g)_     The _Environment Protection (Alligator Rivers Region) Act 1978
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 17, 1987; No. 17, 1994; No. 92, 1999; No. 165, 2006</div>
+    <div>am. No. 72, 1984; No. 17, 1987; No. 17, 1994; No. 92, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1115,7 +1119,7 @@ _(g)_     The _Environment Protection (Alligator Rivers Region) Act 1978
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
+    <div><b>Part II</b></div>
   </td>
   <td>
     <div></div>
@@ -1235,7 +1239,7 @@ _(g)_     The _Environment Protection (Alligator Rivers Region) Act 1978
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
+    <div><b>Part III</b></div>
   </td>
   <td>
     <div></div>
@@ -1251,7 +1255,7 @@ _(g)_     The _Environment Protection (Alligator Rivers Region) Act 1978
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -1307,7 +1311,7 @@ _(g)_     The _Environment Protection (Alligator Rivers Region) Act 1978
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -1355,7 +1359,7 @@ _(g)_     The _Environment Protection (Alligator Rivers Region) Act 1978
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
     <div></div>
@@ -1395,7 +1399,7 @@ _(g)_     The _Environment Protection (Alligator Rivers Region) Act 1978
 </tr>
 <tr>
   <td>
-    <div><b>Part V</b></div>
+    <div><b>Part V</b></div>
   </td>
   <td>
     <div></div>
@@ -1505,6 +1509,25 @@ _(g)_     The _Environment Protection (Alligator Rivers Region) Act 1978
     <div>am. No. 17, 1987; No. 17, 1994</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Environment and Heritage Legislation Amendment Act (No. 1) 2006 
+ (No. 165, 2006)_
+
+The following amendments commence on 12 June 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 848  Subsection 3(1) (subparagraph (b)(iii) of the definition of _prescribed instrument_)
+
+Omit “_1976_; and”, substitute “_1976_.”.
+
+## 849  Subsection 3(1) (subparagraph (b)(iv) of the definition of _prescribed instrument_)
+
+Repeal the subparagraph.
+
+As at 8 January 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
