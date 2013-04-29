@@ -1,119 +1,121 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C02163/Html/AusLanTraDev88_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02162/Html/AusLanTraDev88_image001.jpg)
 
 # Australian Land Transport Development Act 1988
 
 **Act No. 154 of 1988 as amended**
 
-This compilation was prepared on 17 February 2000
- taking into account amendments up to Act No.146 of 1999
+Consolidated as in force on 5 October 1999
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+(includes amendments up to Act No. 118 of 1999)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
+
+ 
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+1             Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement                                                                                   1
+2             Commencement                                                                                   1
 
-[3](#3).            Interpretation                                                                                       1
+3             Interpretation                                                                                       1
 
-[4](#4).            Declaration of national highways                                                        7
+4             Declaration of national highways                                                        7
 
-[5](#5).            Declaration of national arterial roads                                                   7
+5             Declaration of national arterial roads                                                   7
 
-[6](#6).            Declaration of State arterial roads                                                        8
+6             Declaration of State arterial roads                                                        8
 
-[7](#7).            Declaration of interstate mainline railways and approved railway authorities        9
+7             Declaration of interstate mainline railways and approved railway authorities        9
 
-[7A](#7A).         Provincial cities and rural highways projects                                    10
+7A          Provincial cities and rural highways projects                                    10
 
-[7B](#7B).         Black spot projects and road safety measures                                  10
+7B          Black spot projects and road safety measures                                  10
 
-[7C](#7C).         Urban public transport projects                                                        11
+7C          Urban public transport projects                                                        11
 
-[8](#8).            Declaration of approved research organisations and approved road safety organisations      11
+8             Declaration of approved research organisations and approved road safety organisations      11
 
-[9](#9).            Indexation factor                                                                                12
+9             Indexation factor                                                                                12
 
-[10](#10).          Determination in relation to charge rate                                             13
+10           Determination in relation to charge rate                                             13
 
 **Part 2—Australian Land Transport Development Reserve**
 
-[11](#11).          Establishment of Reserve                                                                  15
+11           Establishment of Reserve                                                                  15
 
-[12](#12).          Money to be paid into Reserve                                                         15
+12           Money to be paid into Reserve                                                         15
 
-[14](#14).          Indexation of charge rate                                                                    16
+14           Indexation of charge rate                                                                    16
 
-[15](#15).          Application of Reserve                                                                      17
+15           Application of Reserve                                                                      17
 
-[17](#17).          Limitation of allocations made after 30 June 1989                            19
+17           Limitation of allocations made after 30 June 1989                            19
 
-[18](#18).          Use of funds allocated to projects etc  commenced before the commencement of Act           19
+[18           Use of funds allocated to projects etc](#18           Use of funds allocated to projects etc). commenced before the commencement of Act           19
 
-[19](#19).          Reallocation of funds                                                                         20
+19           Reallocation of funds                                                                         20
 
-[20](#20).          Funds for State arterial roads reallocated for expenditure on capital railway projects            21
+20           Funds for State arterial roads reallocated for expenditure on capital railway projects            21
 
-[21](#21).          Funds for State arterial roads reallocated for expenditure on urban public transport projects                22
+21           Funds for State arterial roads reallocated for expenditure on urban public transport projects                22
 
-[22](#22).          Time for payments                                                                            23
+22           Time for payments                                                                            23
 
-[23](#23).          Statement accompanying payment                                                    23
+23           Statement accompanying payment                                                    23
 
-[24](#24).          Condition of payment                                                                       23
+24           Condition of payment                                                                       23
 
 **Part III—Approval of projects and programs**
 
-[26](#26).          Approval of projects and programs                                                  24
+26           Approval of projects and programs                                                  24
 
-[27](#27).          Variation of projects etc                                                                    26
+[27           Variation of projects etc](#27           Variation of projects etc).                                                                   26
 
-[28](#28).          Allocations of Reserve to local government bodies                           27
+28           Allocations of Reserve to local government bodies                           27
 
 **Part IV—Conditions of payments**
 
-[28A](#28A).       Manner of application of this Part to different payments from Reserve                28
+28A        Manner of application of this Part to different payments from Reserve                28
 
-[29](#29).          Minister may require information to be furnished                            28
+29           Minister may require information to be furnished                            28
 
-[30](#30).          Statements of expenditure etc  to be furnished                                  29
+[30           Statements of expenditure etc](#30           Statements of expenditure etc). to be furnished                                  29
 
-[31](#31).          Condition relating to expenditure of moneys paid out of Reserve    30
+31           Condition relating to expenditure of moneys paid out of Reserve    30
 
-[32](#32).          Additional conditions with respect to approved projects and programs                30
+32           Additional conditions with respect to approved projects and programs                30
 
-**Part V—Miscellaneous**
+**Part V—Miscellaneous** 
 
-[33](#33).          Deduction of amounts repayable                                                       36
+33           Deduction of amounts repayable                                                       36
 
-[34](#34).          Money repaid to Commonwealth                                                     36
+34           Money repaid to Commonwealth                                                     36
 
-[36](#36).          Money deemed to have been expended on national highway projects 36
+36           Money deemed to have been expended on national highway projects 36
 
-[37](#37).          Minister may issue guidelines                                                           37
+37           Minister may issue guidelines                                                           37
 
-[38](#38).          Standards for national highways                                                        37
+38           Standards for national highways                                                        37
 
-[39](#39).          Delegations                                                                                        38
+39           Delegations                                                                                        38
 
-[41](#41).          Report by Minister                                                                           38
+41           Report by Minister                                                                           38
 
 **Schedule 2—Limitation of allocations made after 30 June 1989** 
 
-**Notes to the _Australian Land Transport Development Act 1988_** 
-
- 
+**Notes** 
 
 ## An Act to establish a reserve for the purposes of the development and maintenance of land transport systems, and for related purposes
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part I—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -248,8 +250,6 @@ but does not include the maintenance of the railway or road.
 associated with a road.
 
                     <a name="road-user-charg"></a>**_road user charge_** means so much of each amount paid to the Commonwealth as duty of Excise, or duty of Customs, in respect of motor spirit, or diesel fuel, entered for home consumption as is ascertained by multiplying that amount by the amount represented by the formula:
-
-<sub>![](http://www.comlaw.gov.au/Details/C2004C02163/Html/AusLanTraDev88_image002.gif)</sub>
 
 where:
 
@@ -541,6 +541,8 @@ the Minister may declare the road or proposed road to be a provincial cities and
 
 ## Part 2—Australian Land Transport Development Reserve
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="11"></a>11  Establishment of Reserve
 
              (1)  There is established a reserve to be known as the Australian Land Transport Development Reserve.
@@ -552,8 +554,6 @@ the Minister may declare the road or proposed road to be a provincial cities and
              (1)  Subject to subsection (2), there shall be paid into the Reserve out of the Consolidated Revenue Fund amounts equal to the amounts of road user charge received by the Commonwealth after the commencement of this Act.
 
              (2)  Where the whole or a part of an amount (which whole or part in this subsection is called the **_refunded amount_**) paid as duty of Excise, or duty of Customs, in respect of motor spirit, or diesel fuel, entered for home consumption is, after the commencement of this Act, repaid to a person by the Commonwealth by way of rebate or otherwise, there shall be deducted from the sum of the amounts that would, but for this subsection, be paid into the Reserve under subsection (1) an amount ascertained in accordance with the formula:
-
-<sub>![](http://www.comlaw.gov.au/Details/C2004C02163/Html/AusLanTraDev88_image003.gif)</sub>
 
 where:
 
@@ -753,6 +753,8 @@ the Minister may, on or after approving the project under subsection 26(3), de
 
 ## Part III—Approval of projects and programs
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="26"></a>26  Approval of projects and programs
 
              (1)  The Minister may, from time to time:
@@ -852,6 +854,8 @@ the Minister may, on or after approving the project under subsection 26(3), de
              (4)  The Minister may vary principles determined by the Minister for the purposes of subsection (1).
 
 ## Part IV—Conditions of payments
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="28A"></a>28A  Manner of application of this Part to different payments from Reserve
 
@@ -1011,6 +1015,8 @@ in accordance with subclause 5(5) of the Agreement set out in the Schedule to th
 
 ## Part V—Miscellaneous
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="33"></a>33  Deduction of amounts repayable
 
                    The Minister may deduct from an amount payable out of the Reserve to a State, authority or organisation any amount repayable by the State, authority or organisation under this Act.
@@ -1057,7 +1063,7 @@ in accordance with subclause 5(5) of the Agreement set out in the Schedule to th
 
 ##### <a id="39"></a>39  Delegations
 
-                   The Minister may, by signed instrument, delegate to a person appointed or engaged under the _Public Service Act 1999_ all or any of his or her powers or functions under sections 22, 26, 27 and 29, paragraphs 32(1)(d), (e), (h) and (j), subsection 32(2) and section 38.
+                   The Minister may, by signed instrument, delegate to an officer of the Australian Public Service all or any of his or her powers or functions under sections 22, 26, 27 and 29, paragraphs 32(1)(d), (e), (h) and (j), subsection 32(2) and section 38.
 
 ##### <a id="41"></a>41  Report by Minister
 
@@ -1073,7 +1079,9 @@ in accordance with subclause 5(5) of the Agreement set out in the Schedule to th
 
                      (e)  the principles on which the allocation of funds for local roads were made.
 
-             (2)  The report referred to in subsection (1) is to provide details of all payments made during each year in respect of each land transport project and the total cumulative amount of payments made in respect of each land transport project irrespective of when such payments were made. 
+            (2)        The report referred to in subsection (1) is to provide details of all payments made during each year in respect of each land transport project and the total cumulative amount of payments made in respect of each land transport project irrespective of when such payments were made. 
+
+ 
 
 # Schedule 2—Limitation of allocations made after 30 June 1989
 
@@ -1089,36 +1097,36 @@ _Section 17_
 
 <tr>
   <td>
-    <div>Column 1 
+    <div> <span style="font-size:10.0pt">Column 1 
 
-Item No.</div>
+Item No.</span> </div>
   </td>
   <td>
-    <div>Column 2 
+    <div> <span style="font-size:10.0pt">Column 2 
 
-States</div>
+States</span> </div>
   </td>
   <td>
-    <div>Column 3 
-Amount State arterial roads</div>
+    <div> <span style="font-size:10.0pt">Column 3 
+Amount State arterial roads</span> </div>
   </td>
   <td>
-    <div>Column 4 Percentage 
-local roads</div>
+    <div> <span style="font-size:10.0pt">Column 4 Percentage 
+local roads</span> </div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div> <span style="font-size:10.0pt"> </span> </div>
   </td>
   <td>
-    <div></div>
+    <div> <span style="font-size:10.0pt"> </span> </div>
   </td>
   <td>
     <div>($)</div>
   </td>
   <td>
-    <div></div>
+    <div> <span style="font-size:10.0pt"> </span> </div>
   </td>
 </tr>
 <tr>
@@ -1126,7 +1134,7 @@ local roads</div>
     <div>1</div>
   </td>
   <td>
-    <div>New South Wales .......................................</div>
+    <div> <span style="font-size:10.0pt">New South Wales ...........................</span> </div>
   </td>
   <td>
     <div>58,400,000</div>
@@ -1140,7 +1148,7 @@ local roads</div>
     <div>2</div>
   </td>
   <td>
-    <div>Victoria ..........................................................</div>
+    <div> <span style="font-size:10.0pt">Victoria ..............................................</span> </div>
   </td>
   <td>
     <div>47,100,000</div>
@@ -1154,7 +1162,7 @@ local roads</div>
     <div>3</div>
   </td>
   <td>
-    <div>Queensland ..................................................</div>
+    <div> <span style="font-size:10.0pt">Queensland ......................................</span> </div>
   </td>
   <td>
     <div>41,300,000</div>
@@ -1168,7 +1176,7 @@ local roads</div>
     <div>4</div>
   </td>
   <td>
-    <div>Western Australia .......................................</div>
+    <div> <span style="font-size:10.0pt">Western Australia ...........................</span> </div>
   </td>
   <td>
     <div>25,000,000</div>
@@ -1182,7 +1190,7 @@ local roads</div>
     <div>5</div>
   </td>
   <td>
-    <div>South Australia ...........................................</div>
+    <div> <span style="font-size:10.0pt">South Australia ...............................</span> </div>
   </td>
   <td>
     <div>14,700,000</div>
@@ -1196,7 +1204,7 @@ local roads</div>
     <div>6</div>
   </td>
   <td>
-    <div>Tasmania ......................................................</div>
+    <div> <span style="font-size:10.0pt">Tasmania ..........................................</span> </div>
   </td>
   <td>
     <div>6,900,000</div>
@@ -1210,7 +1218,7 @@ local roads</div>
     <div>7</div>
   </td>
   <td>
-    <div>Northern Territory .......................................</div>
+    <div> <span style="font-size:10.0pt">Northern Territory ...........................</span> </div>
   </td>
   <td>
     <div>1,900,000</div>
@@ -1224,7 +1232,7 @@ local roads</div>
     <div>8</div>
   </td>
   <td>
-    <div>Australian Capital Territory .......................</div>
+    <div>Australian Capital Territory ....</div>
   </td>
   <td>
     <div>5,900,000</div>
@@ -1234,11 +1242,13 @@ local roads</div>
   </td>
 </tr></table>
 
+ 
+
 # Notes to the _Australian Land Transport Development Act 1988_
 
 ### Note 1
 
-The _Australian Land Transport Development Act 1988_ as shown in this compilation comprises Act No. 154, 1988 amended as indicated in the Tables below.
+The _Australian Land Transport Development Act 1988_ as shown in this Consolidation  comprises Act No. 154, 1988 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -1388,28 +1398,11 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 200): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
 
-_(a)_     The _Australian Land Transport Development Act 1988_ was amended by the Schedule (items 4-8) only of the _Transport and Communications Amendment Act (No. 2) 1993_, subsections 2(1) and (9) of which provide as follows:
+_(a)_     The _Australian Land Transport Development Act 1988_ was amended by the Schedule (items 4-8) only of the _Transport and Communications Amendment Act (No. 2) 1993_, subsections 2(1) and (9) of which provides as follows:
 
                   (1)   Subject to subsections (2) to (10) (inclusive), this Act commences on the day on which it receives the Royal Assent.
 
@@ -1418,12 +1411,6 @@ _(a)_     The _Australian Land Transport Development Act 1988_ was amend
 _(b)_    The _Australian Land Transport Development Act 1988_ was amended by Schedule 2 (items 347-367) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                   (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(c)_     The _Australian Land Transport Development Act 1988_ was amended by Schedule  (item 200) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provides as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
 
  
 
@@ -1738,14 +1725,6 @@ _(c)_     The _Australian Land Transport Development Act 1988_ was amend
 </tr>
 <tr>
   <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 40</div>
   </td>
   <td>
@@ -1794,7 +1773,5 @@ _(c)_     The _Australian Land Transport Development Act 1988_ was amend
 </tr></table>
 
  
-
-      
 
  
