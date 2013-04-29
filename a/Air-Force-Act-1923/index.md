@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2012C00218/Html/9b21547e-769a-413a-91a5-f5621be96869_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00053/Html/EDDE908F62AC446ECA25712B00146D16/$FILE/image001.gif)
 
 # Air Force Act 1923
 
 **Act No. 33 of 1923 as amended**
 
-This compilation was prepared on 6 February 2012
- taking into account amendments up to Act No. 183 of 2011
+This compilation was prepared on 6 March 2006
+taking into account amendments up to Act No. 3 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney
+-General’s Department, Canberra
+
 
 # Contents
 
@@ -46,13 +48,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to Air Defence
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Air Force Act 1923_.
 
-##### <a id="2"></a>2  Interpretation
+##### <a id="2"></a>2  Interpretation
 
                    In this Act unless the contrary intention appears:
 
@@ -108,15 +111,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4F"></a>4F  Territorial limits of service
 
-                   Members of the Air Force may be required to render air‑force service on land or sea or in the air, and either within or beyond the territorial limits of Australia. 
+                   Members of the Air Force may be required to render air-force service on land or sea or in the air, and either within or beyond the territorial limits of Australia. 
 
 ##### <a id="4G"></a>4G  Service of the Permanent Air Force
 
-             (1)  Members of the Permanent Air Force are bound to render continuous full time air‑force service. 
+             (1)  Members of the Permanent Air Force are bound to render continuous full time air-force service. 
 
 ##### <a id="4J"></a>4J  Service of the Air Force Reserve
 
-             (1)  A member of the Air Force Reserve is not bound to render continuous full time air‑force service otherwise than:
+             (1)  A member of the Air Force Reserve is not bound to render continuous full time air-force service otherwise than:
 
                      (a)  as provided in this section; or
 
@@ -126,13 +129,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Note:          Different training periods may be set for different parts of the Air Force Reserve or for different classes of members of the Air Force Reserve: see subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
-          (2A)  A member of the Air Force Reserve is bound to render, in each training period, air‑force service (other than continuous full time air‑force service) for such periods as are set by or under the regulations. However, a member may be exempted by or under the regulations from the obligation to render all, or a specified part, of that service.
+          (2A)  A member of the Air Force Reserve is bound to render, in each training period, air-force service (other than continuous full time air-force service) for such periods as are set by or under the regulations. However, a member may be exempted by or under the regulations from the obligation to render all, or a specified part, of that service.
 
 Note:          Different service may be required of different parts of the Air Force Reserve, or of different classes of members of the Air Force Reserve, or in different periods: see subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
-             (3)  A member of the Air Force Reserve may, at any time, voluntarily undertake to render continuous full time air‑force service for a period specified by him and, if that undertaking is accepted, he is bound to render that form of service for that specified period, or for such period or periods within that specified period, as the Chief of Air Force directs. 
+             (3)  A member of the Air Force Reserve may, at any time, voluntarily undertake to render continuous full time air-force service for a period specified by him and, if that undertaking is accepted, he is bound to render that form of service for that specified period, or for such period or periods within that specified period, as the Chief of Air Force directs. 
 
-             (4)  A member of the Air Force Reserve may at any time voluntarily undertake to render air‑force service, other than continuous full time air‑force service, for a period or periods specified by him, and, if that undertaking is accepted, the member is bound to render air‑force service in accordance with that undertaking or for such period or periods within that specified period, or within those specified periods, as the case may be, as the Chief of Air Force directs. 
+             (4)  A member of the Air Force Reserve may at any time voluntarily undertake to render air-force service, other than continuous full time air-force service, for a period or periods specified by him, and, if that undertaking is accepted, the member is bound to render air-force service in accordance with that undertaking or for such period or periods within that specified period, or within those specified periods, as the case may be, as the Chief of Air Force directs. 
 
 ##### <a id="8"></a>8  Australian Air Force Cadets
 
@@ -186,15 +189,16 @@ Note:          Different service may be required of different 
 
 ##### <a id="9"></a>9  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for securing the good government of the Air Force and the members thereof, whether within or beyond the limits of Australia, or for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for securing the good government of the Air Force and the members thereof, whether within or beyond the limits of Australia, or for carrying out or giving effect to this Act.
+
 
 # Notes to the _Air Force Act 1923_
 
 ### Note 1
 
-The _Air Force Act 1923_ as shown in this compilation comprises Act No. 33, 1923 amended as indicated in the Tables below.
+The _Air Force Act 1923_ as shown in this compilation comprises Act No. 33, 1923 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -214,11 +218,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -228,449 +234,446 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Air Force Act 1923</div>
-  </td>
-  <td>
-    <div>33, 1923</div>
-  </td>
-  <td>
-    <div>1 Sept 1923</div>
-  </td>
-  <td>
-    <div>1 Sept 1923</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Air Force Act 1939</div>
-  </td>
-  <td>
-    <div>74, 1939</div>
-  </td>
-  <td>
-    <div>15 Dec 1939</div>
-  </td>
-  <td>
-    <div>15 Dec 1939</div>
-  </td>
-  <td>
-    <div>S. 7</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Air Force Act 1941</div>
-  </td>
-  <td>
-    <div>12, 1941</div>
-  </td>
-  <td>
-    <div>7 Apr 1941</div>
-  </td>
-  <td>
-    <div>5 May 1941</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1950</div>
-  </td>
-  <td>
-    <div>80, 1950</div>
-  </td>
-  <td>
-    <div>16 Dec 1950</div>
-  </td>
-  <td>
-    <div>31 Dec 1950</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Air Force Act 1952</div>
-  </td>
-  <td>
-    <div>15, 1952</div>
-  </td>
-  <td>
-    <div>30 May 1952</div>
-  </td>
-  <td>
-    <div>30 May 1952</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Air Force Act 1956</div>
-  </td>
-  <td>
-    <div>73, 1956</div>
-  </td>
-  <td>
-    <div>29 Oct 1956</div>
-  </td>
-  <td>
-    <div>29 Oct 1956</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Air Force Act 1964</div>
-  </td>
-  <td>
-    <div>94, 1964</div>
-  </td>
-  <td>
-    <div>6 Nov 1964</div>
-  </td>
-  <td>
-    <div>6 Nov 1964</div>
-  </td>
-  <td>
-    <div>Ss. 4(2), 5 and 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Air Force Act 1965</div>
-  </td>
-  <td>
-    <div>50, 1965</div>
-  </td>
-  <td>
-    <div>7 June 1965</div>
-  </td>
-  <td>
-    <div>S. 3: 17 Sept 1970 ( <i>see Gazette</i>1970, p. 5690) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 2(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force 
-Re‑organization Act 1975</div>
-  </td>
-  <td>
-    <div>96, 1975</div>
-  </td>
-  <td>
-    <div>9 Sept 1975</div>
-  </td>
-  <td>
-    <div>Ss. 90–92 and 96: 28 Oct 1975 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
-Ss. 93 and 95: 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
-S. 94: 8 Sept 1980 ( <i>see Gazette</i>1980, No. G34, p. 2) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 95(1), (2), (4) and (5) 
-S. 95(3) (am. by 164, 1984, s. 120)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>164, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>S. 120: Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Air Force Amendment Act 1976</div>
-  </td>
-  <td>
-    <div>138, 1976</div>
-  </td>
-  <td>
-    <div>2 Dec 1976</div>
-  </td>
-  <td>
-    <div>Ss. 3 and 4: 29 July 1977 ( <i>see Gazette</i>1977, No. S151) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 4 and 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Air Force Amendment Act 1979</div>
-  </td>
-  <td>
-    <div>134, 1979</div>
-  </td>
-  <td>
-    <div>23 Nov 1979</div>
-  </td>
-  <td>
-    <div>Ss. 4(1) and 6: 1 Jan 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S273, p. 2) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1981</div>
-  </td>
-  <td>
-    <div>61, 1981</div>
-  </td>
-  <td>
-    <div>12 June 1981</div>
-  </td>
-  <td>
-    <div>Part III (ss. 5–13): 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force (Miscellaneous Provisions) Act 1982</div>
-  </td>
-  <td>
-    <div>153, 1982</div>
-  </td>
-  <td>
-    <div>31 Dec 1982</div>
-  </td>
-  <td>
-    <div>3 July 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1985, No. S255)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>164, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>Part II (ss. 3–7): 22 Nov 1984 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>65, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>Ss. 3 and 9: Royal Assent <i>(e)</i> 
-Ss. 4–8: 1 July 1988 ( <i>see Gazette</i>1988, No. S173) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 2) 1988</div>
-  </td>
-  <td>
-    <div>104, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>Part II (ss. 3, 4): Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1997</div>
-  </td>
-  <td>
-    <div>1, 1997</div>
-  </td>
-  <td>
-    <div>19 Feb 1997</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Aid to Civilian Authorities) Act 2000</div>
-  </td>
-  <td>
-    <div>119, 2000</div>
-  </td>
-  <td>
-    <div>12 Sept 2000</div>
-  </td>
-  <td>
-    <div>12 Sept 2000</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
-  </td>
-  <td>
-    <div>10, 2001</div>
-  </td>
-  <td>
-    <div>22 Mar 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–6, 94, 95): 
-19 Apr 2001 <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 
-94, 95) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–8): 17 June 2004</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 8) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Aid to Civilian Authorities) Act 2006</div>
-  </td>
-  <td>
-    <div>3, 2006</div>
-  </td>
-  <td>
-    <div>1 Mar 2006</div>
-  </td>
-  <td>
-    <div>2 Mar 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>183, 2011</div>
-  </td>
-  <td>
-    <div>6 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–16): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Air Force Act 1923</div>
+    </td>
+    <td>
+      <div>33, 1923</div>
+    </td>
+    <td>
+      <div>1 Sept 1923</div>
+    </td>
+    <td>
+      <div>1 Sept 1923</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Air Force Act 1939</div>
+    </td>
+    <td>
+      <div>74, 1939</div>
+    </td>
+    <td>
+      <div>15 Dec 1939</div>
+    </td>
+    <td>
+      <div>15 Dec 1939</div>
+    </td>
+    <td>
+      <div>S. 7</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Air Force Act 1941</div>
+    </td>
+    <td>
+      <div>12, 1941</div>
+    </td>
+    <td>
+      <div>7 Apr 1941</div>
+    </td>
+    <td>
+      <div>5 May 1941</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1950</div>
+    </td>
+    <td>
+      <div>80, 1950</div>
+    </td>
+    <td>
+      <div>16 Dec 1950</div>
+    </td>
+    <td>
+      <div>31 Dec 1950</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Air Force Act 1952</div>
+    </td>
+    <td>
+      <div>15, 1952</div>
+    </td>
+    <td>
+      <div>30 May 1952</div>
+    </td>
+    <td>
+      <div>30 May 1952</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Air Force Act 1956</div>
+    </td>
+    <td>
+      <div>73, 1956</div>
+    </td>
+    <td>
+      <div>29 Oct 1956</div>
+    </td>
+    <td>
+      <div>29 Oct 1956</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Air Force Act 1964</div>
+    </td>
+    <td>
+      <div>94, 1964</div>
+    </td>
+    <td>
+      <div>6 Nov 1964</div>
+    </td>
+    <td>
+      <div>6 Nov 1964</div>
+    </td>
+    <td>
+      <div>Ss. 4(2), 5 and 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Air Force Act 1965</div>
+    </td>
+    <td>
+      <div>50, 1965</div>
+    </td>
+    <td>
+      <div>7 June 1965</div>
+    </td>
+    <td>
+      <div>S. 3: 17 Sept 1970 ( <i>see Gazette</i>1970, p. 5690) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 2(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force 
+Re-organization Act 1975 
+</div>
+    </td>
+    <td>
+      <div>96, 1975</div>
+    </td>
+    <td>
+      <div>9 Sept 1975</div>
+    </td>
+    <td>
+      <div>Ss. 90–92 and 96: 28 Oct 1975 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
+Ss. 93 and 95: 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
+S. 94: 8 Sept 1980 ( <i>see Gazette</i>1980, No. G34, p. 2) <i>(a)</i> 
+
+</div>
+    </td>
+    <td>
+      <div>S. 95(1), (2), (4) and (5) 
+S. 95(3) (am. by 164, 1984, s. 120) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>164, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>S. 120: Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Air Force Amendment Act 1976</div>
+    </td>
+    <td>
+      <div>138, 1976</div>
+    </td>
+    <td>
+      <div>2 Dec 1976</div>
+    </td>
+    <td>
+      <div>Ss. 3 and 4: 29 July 1977 ( <i>see Gazette</i>1977, No. S151) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Ss. 4 and 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Air Force Amendment Act 1979</div>
+    </td>
+    <td>
+      <div>134, 1979</div>
+    </td>
+    <td>
+      <div>23 Nov 1979</div>
+    </td>
+    <td>
+      <div>Ss. 4(1) and 6: 1 Jan 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S273, p. 2) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1981</div>
+    </td>
+    <td>
+      <div>61, 1981</div>
+    </td>
+    <td>
+      <div>12 June 1981</div>
+    </td>
+    <td>
+      <div>Part III (ss. 5–13): 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 13</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force (Miscellaneous Provisions) Act 1982</div>
+    </td>
+    <td>
+      <div>153, 1982</div>
+    </td>
+    <td>
+      <div>31 Dec 1982</div>
+    </td>
+    <td>
+      <div>3 July 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1985, No. S255)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>164, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>Part II (ss. 3–7): 22 Nov 1984 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>65, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>Ss. 3 and 9: Royal Assent <i>(e)</i> 
+Ss. 4–8: 1 July 1988 ( <i>see Gazette</i>1988, No. S173) <i>(e)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 2) 1988</div>
+    </td>
+    <td>
+      <div>104, 1988</div>
+    </td>
+    <td>
+      <div>6 Dec 1988</div>
+    </td>
+    <td>
+      <div>Part II (ss. 3, 4): Royal Assent <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 1) 1997</div>
+    </td>
+    <td>
+      <div>1, 1997</div>
+    </td>
+    <td>
+      <div>19 Feb 1997</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Aid to Civilian Authorities) Act 2000</div>
+    </td>
+    <td>
+      <div>119, 2000</div>
+    </td>
+    <td>
+      <div>12 Sept 2000</div>
+    </td>
+    <td>
+      <div>12 Sept 2000</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
+    </td>
+    <td>
+      <div>10, 2001</div>
+    </td>
+    <td>
+      <div>22 Mar 2001</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1–6, 94, 95): 
+19 Apr 2001 <i>(g)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 
+94, 95) \[ <i>see</i>Table A] 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>135, 2003</div>
+    </td>
+    <td>
+      <div>17 Dec 2003</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1–8): 17 June 2004</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 8) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Aid to Civilian Authorities) Act 2006</div>
+    </td>
+    <td>
+      <div>3, 2006</div>
+    </td>
+    <td>
+      <div>1 Mar 2006</div>
+    </td>
+    <td>
+      <div>2 Mar 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Air Force Act 1923_ was amended by sections 90–96 only of the _Defence Force_
- _Re‑organization Act 1975_, section 2 of which provides as follows:
+_Re-organization Act 1975_, section 2 of which provides as follows:
 
                     2   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
-_(b)_     The _Defence Force Re‑organization Act 1975_ was amended by section 120 only of the _Defence Legislation Amendment Act 1984_, subsection 2(2) of which provides as follows:
+_(b)_    The _Defence Force Re-organization Act 1975_ was amended by section 120 only of the _Defence Legislation Amendment Act 1984_, subsection 2(2) of which provides as follows:
 
                  (2)   Section 1, this section and sections 16, 17, 18, 19 and 120 and Part XIV shall come into operation on the day on which this Act receives the Royal Assent.
 
@@ -680,7 +683,7 @@ _(c)_     The _Air Force Act 1923_ was amended by Part III (sections�
 
 _(d)_     The _Air Force Act 1923_ was amended by Part II (sections 3–7) only of the _Defence Legislation Amendment Act 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(e)_     The _Air Force Act 1923_ was amended by sections 3–9 only of the _Defence Legislation Amendment Act 1987_, subsections 2(1) and (6) of which provide as follows:
 
@@ -692,9 +695,10 @@ _(f)_      The _Air Force Act 1923_ was amended by Part II (sections
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1–6) only of the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
+_(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1–6) only of the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
+
 
 ## Table of Amendments
 
@@ -719,602 +723,513 @@ _(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1–6) only 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>rs. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 74, 1939</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 1979; No. 153, 1982; No. 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 74, 1939; No. 15, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 50, 1965; No. 96, 1975; No. 134, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>ad. No. 74, 1939</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 15, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 134, 1979; No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 4B, 4C</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4D</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 65, 1987; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4E</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 50, 1965</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4F</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4G</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 61, 1981; No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4H</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 1979; No. 61, 1981; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997; No. 119, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4HA</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 4J</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4J</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 119, 2000; No. 10, 2001; No. 3, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>ad. No. 74, 1939</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 73, 1956</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 74, 1939</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>ad. No. 74, 1939</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8</div>
-  </td>
-  <td>
-    <div>rs. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>ad. No. 74, 1939</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 12, 1941</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 1950</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 138, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 1979; No. 1, 1997; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 65, 1987; No. 1, 1997; No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 74, 1939</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 153, 1982</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>rs. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 74, 1939</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 134, 1979; No. 153, 1982; No. 104, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 74, 1939; No. 15, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 50, 1965; No. 96, 1975; No. 134, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 153, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>ad. No. 74, 1939</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 15, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 134, 1979; No. 61, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 4B, 4C</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 61, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4D</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 61, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 65, 1987; No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4E</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 50, 1965</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 134, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4F</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4G</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 61, 1981; No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4H</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 134, 1979; No. 61, 1981; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997; No. 119, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4HA</div>
+    </td>
+    <td>
+      <div>ad. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 4J</div>
+    </td>
+    <td>
+      <div>am. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4J</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 119, 2000; No. 10, 2001; No. 3, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>ad. No. 74, 1939</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 73, 1956</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 153, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>ad. No. 74, 1939</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>ad. No. 74, 1939</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 8</div>
+    </td>
+    <td>
+      <div>rs. No. 135, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>ad. No. 74, 1939</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 12, 1941</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 80, 1950</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 138, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 134, 1979; No. 1, 1997; No. 135, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 65, 1987; No. 1, 1997; No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>ad. No. 74, 1939</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 153, 1982</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Defence Legislation Amendment Act 2011 (No. 183, 2011)_
-
-The following amendments commence on 6 June 2012 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Subsection 4G(1)
-
-Omit “(1)”.
-
-## 2  Before subsection 8(2)
-
-Insert:
-
-Constitution of the Australian Air Force Cadets
-
-## 3  Before subsection 8(3)
-
-Insert:
-
-Relationship to the Air Force
-
-## 4  Before subsection 8(5)
-
-Insert:
-
-Age requirements for cadets
-
-## 5  Subsections 8(5) and (6)
-
-After “he”, insert “or she”.
-
-## 6  Before subsection 8(7)
-
-Insert:
-
-Regulations about the Australian Air Force Cadets
-
-## 7  Before subsection 8(9)
-
-Insert:
-
-Administration of the Australian Air Force Cadets
-
-## 8  Subsection 8(9)
-
-Omit “and to the directions of the Minister, the Chief of Air Force shall”, substitute “, to any directions of the Minister and to any directions of the Chief of the Defence Force, the Chief of Air Force is to”.
-
-## 9  At the end of section 8
-
-Add:
-
-           (10)  A direction of the Chief of the Defence Force under subsection (9) is subject to, and must be in accordance with, any directions of the Minister.
-
-## 10  Before subsection 8A(1)
-
-Insert:
-
-Delegation by the Chief of Air Force
-
-## 11  Subsection 8A(1)
-
-After “his”, insert “or her”.
-
-## 12  After subsection 8A(1)
-
-Insert:
-
-Delegation by the Chief of the Defence Force
-
-          (1A)  The Chief of the Defence Force may, by instrument in writing, delegate to the Vice Chief of the Defence Force his or her power under subsection 8(9).
-
-## 13  Before subsection 8A(2)
-
-Insert:
-
-General provisions about delegations
-
-## 14  Subsections 8A(3), (3A) and (4)
-
-Omit “Chief of Air Force”, substitute “person who made the delegation”.
-
-## 15  Subsection 8A(5)
-
-Omit “Chief of Air Force”, substitute “the person who made the delegation”.
-
-## 16  Subsection 8A(6)
-
-Omit “Chief of Air Force”, substitute “person who made the delegation”.
-
-As at 6 February 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)_
+_Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)_
 
-## Schedule 2
+## Schedule 2
 
 ## 94  Saving—old regulations
 
-(1)       Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
+(1)        Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
 
 _Example: Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve._
 
-(2)       However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
+(2)        However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
 
 ## 95  Regulations about transitional matters
 
-(1)       The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
+(1)        The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 
-(2)       In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
+(2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
-(3)       Subitem (2) does not limit the scope of subitem (1).
+(3)        Subitem (2) does not limit the scope of subitem (1).
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Defence Legislation Amendment Act 2003 (No. 135, 2003)_
+ </div>
 
-## Schedule 2
+_Defence Legislation Amendment Act 2003 (No. 135, 2003)_
+
+## Schedule 2
 
 ## 8  Transitional—Australian Air Force Cadets
 
@@ -1323,5 +1238,8 @@ To avoid doubt:
                      (a)  appointments to the Air Training Corps in force under paragraph 8(2)(a) or (b) of the _Air Force Act 1923_ immediately before the commencement of item 1 of this Schedule continue to have effect after that commencement as if they were appointments to the Australian Air Force Cadets; and
 
                      (b)  persons who are cadets in the Air Training Corps under section 8 of the _Air Force Act 1923_ immediately before the commencement of item 1 of this Schedule continue as cadets in the Australian Air Force Cadets after that commencement, subject to the limitations imposed by that section (as amended).
+
+
+ 
 
  
