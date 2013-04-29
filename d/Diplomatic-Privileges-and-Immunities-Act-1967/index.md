@@ -1,42 +1,38 @@
 
 Diplomatic Privileges and Immunities Act 1967
 Act No. 16 of 1967 as amended
-This compilation was prepared on 3 May 2000  taking into account amendments up to Act No. 177 of 1999
-The text of any of those amendments not in force on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 19 January 1998
+(includes amendments up to Act No. 39 of 1997)
+Prepared by the Office of Legislative Drafting,  Attorney-General’s Department, Canberra
 Contents
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Repeal	1
-4	Interpretation	1
-5	Extension to Territories	2
-5A	Application of Act in relation to certain international organizations	2
-6	Exclusion of other laws	3
-7	Vienna Convention on Diplomatic Relations to have force of law	3
-8	Limitation on exemption from customs duties	5
-9	Exemption from excise duty	6
-10	Exemption from sales tax on excisable goods	7
-10A	Exemption from sales tax for prescribed overseas mission	8
-11	Privileges and immunities of certain members of the staff of a mission and of private servants of members of a mission	9
-12	Withdrawal of privileges and immunities	9
-14	Certificates by Minister	9
-14A	Delegation	10
-15	Regulations	10
-Schedule—Vienna Convention on Diplomatic Relations	11
-Notes		29
-10B	Indirect tax concession scheme	34
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Repeal	
+4	Interpretation	
+5	Extension to Territories	
+5A	Application of Act in relation to certain international organizations	
+6	Exclusion of other laws	
+7	Vienna Convention on Diplomatic Relations to have force of law	
+8	Limitation on exemption from customs duties	
+9	Exemption from excise duty	
+10	Exemption from sales tax on excisable goods	
+10A	Exemption from sales tax for prescribed overseas mission	
+11	Privileges and immunities of certain members of the staff of a mission and of private servants of members of a mission	
+12	Withdrawal of privileges and immunities	
+14	Certificates by Minister	
+14A	Delegation	
+15	Regulations	
+Schedule—Vienna Convention on Diplomatic Relations	
 An Act relating to Diplomatic Privileges and Immunities, and for other purposes
-  
-  
+Do not delete : Chapter placeholder
+Do not delete : Part placeholder
+Do not delete : Division placeholder
 1  Short title [see Note 1]
-		This Act may be cited as the Diplomatic Privileges and Immunities Act 1967.
+This Act may be cited as the Diplomatic Privileges and Immunities Act 1967.
 2  Commencement [see Note 1]
-		This Act shall come into operation on the day on which it receives the Royal Assent.
+This Act shall come into operation on the day on which it receives the Royal Assent.
 3  Repeal
-		The Diplomatic Immunities Act 1952 and the Diplomatic Immunities Act 1958 are repealed.
+The Diplomatic Immunities Act 1952 and the Diplomatic Immunities Act 1958 are repealed.
 4  Interpretation
 	(1)	In this Act, unless the contrary intention appears:
 Australian citizen includes a person who, by virtue of regulations in force under the Australian Citizenship Act 1948, is, for the purposes of that Act, under the protection of the Australian Government.
@@ -46,7 +42,7 @@ overseas country means a country other than Australia or an external Territory.
 prescribed overseas country means an overseas country prescribed by the regulations for the purposes of this definition.
 	(2)	In this Act, expressions defined by the Convention have the same respective meanings as they have in the Convention.
 5  Extension to Territories
-		This Act extends to every external Territory.
+This Act extends to every external Territory.
 5A  Application of Act in relation to certain international organizations
 	(1)	 In this section, international organization means:
 	(a)	an organization the members of which are overseas countries in a particular geographical region;
@@ -63,7 +59,7 @@ being an organization or a group of organizations that is declared by the regula
 	(i)	“a mission of Australia to an international organization (as defined by subsection 5A(1)), being a mission that exercises functions substantially corresponding to functions exercised by a diplomatic mission” were substituted for “a mission of Australia in an overseas country”; and
 	(ii)	“the mission in Australia of that international organization” were substituted for “the mission of that country”.
 6  Exclusion of other laws
-		It is hereby declared to be the intention of the Parliament that this Act shall operate to the exclusion of:
+It is hereby declared to be the intention of the Parliament that this Act shall operate to the exclusion of:
 	(a)	any Imperial Act, law of the Commonwealth or rule of the common law in force in a State or in a Territory immediately before the commencement of this Act; or
 	(b)	any law of a State or of a Territory made after the commencement of this Act;
 that deals with a matter dealt with by this Act.
@@ -86,7 +82,7 @@ that deals with a matter dealt with by this Act.
 	(2)	The exemption does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the Customs Act 1901, intended for the use of the mission or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other articles.
 	(3)	The exemption does not apply unless:
 	(a)	the person for whose use the articles are intended, or, if the articles are intended for the use of a mission, the head of the mission, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the Customs Act 1901, he will pay to the Commonwealth an amount equal to so much (if any) as the Minister for Industry, Technology and Commerce determines of the customs duties, taxes and related charges that, but for paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention, as the case may be, would have been payable in respect of the articles; and
-	(b)	where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last‑mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he will comply with the first‑mentioned agreement).
+	(b)	where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last-mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he will comply with the first-mentioned agreement).
 	(4)	In subsection (3), motor vehicle means a vehicle with a motor engine, being a vehicle ordinarily for use on land.
 9  Exemption from excise duty
 	(1)	Subject to this section, duties of excise imposed by the Excise Tariff Act 1921 are not payable in respect of goods that are, at the time when they are entered for home consumption under an Act relating to duties of excise, intended for:
@@ -99,13 +95,13 @@ that deals with a matter dealt with by this Act.
 	(2)	Subsection (1) does not apply in respect of goods that are intended for the use of a mission or person referred to in that subsection where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the mission or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other goods.
 	(3)	Subsection (1) does not apply in respect of any goods unless:
 	(a)	the person for whose use the goods are intended, or, if the goods are intended for the use of a mission, the head of the mission, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he will, unless the Minister for Industry, Technology and Commerce otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
-	(b)	where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last‑mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he will comply with the first‑mentioned agreement).
+	(b)	where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he will comply with the first-mentioned agreement).
 10  Exemption from sales tax on excisable goods
 	(1)	Subject to this section, sales tax is not payable on goods that are freed from duties of excise by section 9.
 	(2)	Subsection (1) does not apply in respect of goods that are intended for the use of a mission or person referred to in subsection 9(1) where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the mission or person and the Treasurer, by instrument in writing, declares that, in his opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other goods.
 	(3)	Subsection (1) does not apply in respect of any goods unless:
 	(a)	the person for whose use the goods are intended, or, if the goods are intended for the use of a mission, the head of the mission agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he will, unless the Treasurer otherwise determines, pay to the Commonwealth an amount equal to the sales tax that, but for this section, would have been payable in respect of the goods; and
-	(b)	where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last‑mentioned agreement—the person complies with such conditions, if any, as the Treasurer, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to the Treasurer, that he will comply with the first‑mentioned agreement).
+	(b)	where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions, if any, as the Treasurer, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to the Treasurer, that he will comply with the first-mentioned agreement).
 10A  Exemption from sales tax for prescribed overseas mission
 	(1)	Subject to this section, sales tax imposed under a law relating to sales tax is not payable in respect of goods that are:
 	(a)	purchased, by or on behalf of the head of a mission of a prescribed overseas country, directly from a person who is registered under the law relating to sales tax;
@@ -116,7 +112,7 @@ that deals with a matter dealt with by this Act.
 	(a)	the head of the mission will, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of purchase, pay to the Commonwealth, unless the Treasurer otherwise determines, an amount equal to the sales tax that, but for subsection (1), would have been payable in respect of the goods; and
 	(b)	the head of the mission will, if the head or a former head of the mission has agreed to the condition set out in paragraph (a) in relation to other goods and has not fulfilled that condition—comply with such further conditions if any, as the Treasurer, by instrument in writing, determines (which may include a condition that the head of the mission gives security, satisfactory to the Treasurer, that he or she will comply with the agreement).
 11  Privileges and immunities of certain members of the staff of a mission and of private servants of members of a mission
-		In respect of acts performed in the course of their duties:
+In respect of acts performed in the course of their duties:
 	(a)	members of the administrative and technical staff, and members of the service staff, of the mission of an overseas country who are Australian citizens or are ordinarily resident in Australia or in an external Territory; and
 	(b)	private servants of members of such a mission;
 are entitled to the immunity from jurisdiction, and inviolability, to which persons referred to in paragraph 1 of Article 38 of the Convention as having the force of law by virtue of this Act are entitled.
@@ -131,9 +127,11 @@ are entitled to the immunity from jurisdiction, and inviolability, to which pers
 	(2)	A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister for Industry, Technology and Commerce.
 	(3)	A delegation under this section does not prevent the exercise of a power by the Minister for Industry, Technology and Commerce.
 15  Regulations
-		The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 Schedule—Vienna Convention on Diplomatic Relations
 Section 4
+
 The States Parties to the present Convention,
 Recalling that peoples of all nations from ancient times have recognized the status of diplomatic agents, 
 Having in mind the purposes and principles of the Charter of the United Nations concerning the sovereign equality of States, the maintenance of international peace and security, and the promotion of friendly relations among nations, 
@@ -154,7 +152,7 @@ For the purpose of the present Convention, the following expressions shall have 
 	(i)	the “premises of the mission” are the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used for the purposes of the mission including the residence of the head of the mission.
 Article 2 
 The establishment of diplomatic relations between States, and of permanent diplomatic missions, takes place by mutual consent.
-Article 3 ‑
+Article 3 -
 1.	The functions of a diplomatic mission consist inter alia in:
 	(a)	representing the sending State in the receiving State;
 	(b)	protecting in the receiving State the interests of the sending State and of its nationals, within the limits permitted by international law;
@@ -184,12 +182,12 @@ Article 10
 1.	The Ministry for Foreign Affairs of the receiving State, or such other ministry as may be agreed, shall be notified of:
 	(a)	the appointment of members of the mission, their arrival and their final departure or the termination of their functions with the mission; 
 	(b)	the arrival and final departure of a person belonging to the family of a member of the mission and, where appropriate, the fact that a person becomes or ceases to be a member of the family of a member of the mission;
-	(c)	the arrival and final departure of private servants in the employ of persons referred to in sub‑paragraph (a) of this paragraph and, where appropriate, the fact that they are leaving the employ of such persons;
+	(c)	the arrival and final departure of private servants in the employ of persons referred to in sub-paragraph (a) of this paragraph and, where appropriate, the fact that they are leaving the employ of such persons;
 	(d)	the engagement and discharge of persons resident in the receiving State as members of the mission or private servants entitled to privileges and immunities. 
 2.	Where possible, prior notification of arrival and final departure shall also be given.
 Article 11 
 1.	In the absence of specific agreement as to the size of the mission, the receiving State may require that the size of a mission be kept within limits considered by it to be reasonable and normal, having regard to circumstances and conditions in the receiving State and to the needs of the particular mission. 
-2.	The receiving State may equally, within similar bounds and on a non‑discriminatory basis, refuse to accept officials of a particular category. 
+2.	The receiving State may equally, within similar bounds and on a non-discriminatory basis, refuse to accept officials of a particular category. 
 Article 12 
 The sending State may not, without the prior express consent of the receiving State, establish offices forming part of the mission in localities other than those in which the mission itself is established.
 Article 13 
@@ -253,12 +251,12 @@ Article 31
 	(b)	an action relating to succession in which the diplomatic agent is involved as executor, administrator, heir or legatee as a private person and not on behalf of the sending State;
 	(c)	an action relating to any professional or commercial activity exercised by the diplomatic agent in the receiving State outside his official functions. 
 2.	A diplomatic agent is not obliged to give evidence as a witness. 
-3.	No measures of execution may be taken in respect of a diplomatic agent except in the cases coming under sub‑paragraphs (a), (b) and (c) of paragraph 1 of this Article, and provided that the measures concerned can be taken without infringing the inviolability of his person or of his residence. 
+3.	No measures of execution may be taken in respect of a diplomatic agent except in the cases coming under sub-paragraphs (a), (b) and (c) of paragraph 1 of this Article, and provided that the measures concerned can be taken without infringing the inviolability of his person or of his residence. 
 4.	The immunity of a diplomatic agent from the jurisdiction of the receiving State does not exempt him from the jurisdiction of the sending State. 
 Article 32 
 1.	The immunity from jurisdiction of diplomatic agents and of persons enjoying immunity under Article 37 may be waived by the sending State. 
 2.	Waiver must always be express. 
-3.	The initiation of proceedings by a diplomatic agent or by a person enjoying immunity from jurisdiction under Article 37 shall preclude him from invoking immunity from jurisdiction in respect of any counter‑claim directly connected with the principal claim. 
+3.	The initiation of proceedings by a diplomatic agent or by a person enjoying immunity from jurisdiction under Article 37 shall preclude him from invoking immunity from jurisdiction in respect of any counter-claim directly connected with the principal claim. 
 4.	Waiver of immunity from jurisdiction in respect of civil or administrative proceedings shall not be held to imply waiver of immunity in respect of the execution of the judgment, for which a separate waiver shall be necessary.
 Article 33 
 1.	Subject to the provisions of paragraph 3 of this Article, a diplomatic agent shall with respect to services rendered for the sending State be exempt from social security provisions which may be in force in the receiving State. 
@@ -328,30 +326,33 @@ Article 47
 Article 48 
 The present Convention shall be open for signature by all State Members of the United Nations or of any of the specialized agencies or Parties to the Statute of the International Court of Justice, and by any other State invited by the General Assembly of the United Nations to become a Party to the Convention, as follows: until 31 October 1961 at the Federal Ministry for Foreign Affairs of Austria and subsequently, until 31 March 1962, at the United Nations Headquarters in New York.
 Article 49 
-The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary‑General of the United Nations.
+The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 Article 50 
-The present Convention shall remain open for accession by any State belonging to any of the four categories mentioned in Article 48. The instruments of accession shall be deposited with the Secretary‑General of the United Nations.
+The present Convention shall remain open for accession by any State belonging to any of the four categories mentioned in Article 48. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
 Article 51 
-1.	The present Convention shall enter into force on the thirtieth day following the date of deposit of the twenty‑second instrument of ratification or accession with the Secretary‑General of the United Nations. 
-2.	For each State ratifying or acceding to the Convention after the deposit of the twenty‑second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
+1.	The present Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations. 
+2.	For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
 Article 52 
-The Secretary‑General of the United Nations shall inform all States belonging to any of the four categories mentioned in Article 48:
+The Secretary-General of the United Nations shall inform all States belonging to any of the four categories mentioned in Article 48:
 	(a)	of signatures to the present Convention and of the deposit of instruments of ratification or accession, in accordance with Articles 48, 49 and 50;
 	(b)	of the date on which the present Convention will enter into force, in accordance with Article 51.
 Article 53 
-The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 48. 
+The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 48. 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized thereto by their respective Governments, have signed the present Convention. 
-DONE AT VIENNA, this eighteenth day of April one thousand nine hundred and sixty‑one. 
+DONE AT VIENNA, this eighteenth day of April one thousand nine hundred and sixty-one. 
 (Here follow the signatures of the Plenipotentiaries of the States on behalf of which the Convention was signed.) 
-Notes to the Diplomatic Privileges and Immunities Act 1967
-Note 1
-The Diplomatic Privileges and Immunities Act 1967 as shown in this compilation comprises Act No. 16, 1967 amended as indicated in the Tables below. 
+
+NOTE
+1. 	The Diplomatic Privileges and Immunities Act 1967 as shown in this reprint comprises Act No. 16, 1967 amended as indicated in the Tables below. 
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
+
 Diplomatic Privileges and Immunities Act 1967
 16, 1967
 12 May 1967
@@ -417,25 +418,20 @@ Income Tax (Consequential Amendments) Act 1997
 17 Apr 1997
 1 July 1997
 —
-A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999
-177, 1999
-22 Dec 1999
-Schedule 7 (items 10‑18): [see (e) and Note 2]
-—
 
 (a)	The Diplomatic Privileges and Immunities Act 1967 was amended by section 3 only of the Administrative Changes (Consequential Provisions) Act 1976, subsection 2(7) of which provides as follows:
-	(7)	The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
+	“(7)	The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.”
 (b)	The Diplomatic Privileges and Immunities Act 1967 was amended by Part XX (sections 148 and 149) only of the Statute Law (Miscellaneous Amendments) Act (No. 1) 1982, subsection 2(12) of which provides as follows:
-	(12)	The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+	“(12)	The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.”
 (c)	The Diplomatic Privileges and Immunities Act 1967 was amended by Part LXXVII (section 280) only of the Statute Law (Miscellaneous Amendments) Act (No. 2) 1982, subsection 2(1) of which provides as follows:
-	(1)	Sections 1, 2, 166 and 195 and Parts III, VI, VII, XVI, XXXVI, XLIV, LI, LIII, LIV, LXI and LXXVII shall come into operation on the day on which this Act receives the Royal Assent.
+	“ (1)	Sections 1, 2, 166 and 195 and Parts III, VI, VII, XVI, XXXVI, XLIV, LI, LIII, LIV, LXI and LXXVII shall come into operation on the day on which this Act receives the Royal Assent.”
 (d)	The Diplomatic Privileges and Immunities Act 1967 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No.1) 1985, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
-(e)	The Diplomatic Privileges and Immunities Act 1967 was amended by Schedule 7 (items 10‑18) only of the A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999, subsection 2(9) of which provides as follows:
-	(9)	Schedules 7 and 8 (other than items 1 to 6 of Schedule 8) commence immediately after the commencement of the A New Tax System (Goods and Services Tax) Act 1999. [see Note 2]
+	“(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.” 
 
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+
 Provision affected
 How affected
 S. 4	
@@ -466,61 +462,4 @@ S. 14A
 ad. No. 65, 1985
 Heading to the Schedule	
 rs. No. 65, 1985 
-
-Note 2
-A New Tax System (Indirect Tax and Consequential Amendmentst) Act (No. 2)1999 (No. 177, 1999)
-The following amendments commence on 1 July 2000, immediately after Act No. 55, 1999:
-Schedule 7
-10  Subsection 4(1)
-Insert:
-acquisition has the meaning given by section 195-1 of the GST Act.
-11  Subsection 4(1)
-Insert:
-approved form has the meaning given by section 995-1 of the Income Tax Assessment Act 1997.
-12  Subsection 4(1)
-Insert:
-Commissioner means the Commissioner of Taxation.
-13  Subsection 4(1)
-Insert:
-GST Act means the A New Tax System (Goods and Services Tax) Act 1999.
-14  Subsection 3(1)
-Insert:
-indirect tax means:
-	(a)	GST within the meaning of section 195-1 of the GST Act; or
-	(b)	luxury car tax within the meaning of section 27-1 of the Luxury Car Tax Act; or
-	(c)	wine equalisation tax within the meaning of section 33-1 of the Wine Equalisation Tax Act.
-15  Subsection 4(1)
-Insert:
-Luxury Car Tax Act means the A New Tax System (Luxury Car Tax) Act 1999.
-16  Subsection 4(1)
-Insert:
-Wine Equalisation Tax Act means the A New Tax System (Wine Equalisation Tax) Act 1999.
-17  After subsection 8(1)
-Insert:
-	(1A)	Despite:
-	(a)	section 177-5 of the GST Act; and
-	(b)	section 21-5 of the Luxury Car Tax Act; and
-	(c)	section 27-25 of the Wine Equalisation Tax Act;
-indirect tax that would be payable on an importation under one of those Acts is not payable on an importation covered by the exemption from customs duties, taxes and related charges provided for by paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention and section 7 of this Act.
-18  After section 10A
-Insert:
-10B  Indirect tax concession scheme
-	(1)	If:
-	(a)	an acquisition covered by a determination of the Minister is made:
-	(i)	by or on behalf of the head of a mission; or
-	(ii)	by a member of the mission, a member of the family of such a person or another person, who is;
-		covered by a determination of the Minister; and
-	(b)	at the time of the acquisition, it was intended for:
-	(i)	the official use of the mission; or
-	(ii)	a use covered by a determination of the Minister;
-the Commissioner must, on behalf of the Commonwealth and subject to subsection (3), pay to the head of the mission (or a person in a class of persons determined by the Minister) an amount equal to the amount of indirect tax payable (if any) in respect of the supply of that acquisition.
-	(2)	A claim for an amount covered by subsection (1) must be in the approved form.
-	(3)	The amount is payable:
-	(a)	in accordance with the conditions and limitations; and
-	(b)	within the period and in the manner;
-determined by the Minister.
-	(4)	A determination under this section is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
-	(5)	In this section:
-mission includes an international organisation that has been declared by the regulations for the purposes of section 5A.
-As at 3 May 2000 the amendments are not incorporated in this compilation.
 
