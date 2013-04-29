@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00041/Html/DoNotCallReg2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00535/Html/DoNotCallReg2006_image001.gif)
 
 # Do Not Call Register Act 2006
 
 **Act No. 88 of 2006 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 3 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
@@ -420,7 +420,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                     <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
 
-                    <a name="acquir"></a>**_acquire_**, when used in relation to goods or services, has the same meaning as in the _Competition and Consumer Act 2010_.
+                    <a name="acquir"></a>**_acquire_**, when used in relation to goods or services, has the same meaning as in the _Trade Practices Act 1974_.
 
                     <a name="agenc"></a>**_agency_** includes:
 
@@ -552,7 +552,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="good"></a>**_goods_** has the same meaning as in the _Competition and Consumer Act 2010_.
+                    <a name="good"></a>**_goods_** has the same meaning as in the _Trade Practices Act 1974_.
 
                     <a name="govern-bodi"></a>**_government body_** means:
 
@@ -628,11 +628,11 @@ Note:          For treatment of partnerships, see section 58
 
                     <a name="send"></a>**_send_** includes attempt to send.
 
-                    <a name="servic"></a>**_services_** has the same meaning as in the _Competition and Consumer Act 2010_.
+                    <a name="servic"></a>**_services_** has the same meaning as in the _Trade Practices Act 1974_.
 
                     <a name="suppli"></a>**_supply_**:
 
-                     (a)  when used in relation to goods or services—has the same meaning as in the _Competition and Consumer Act 2010_; or
+                     (a)  when used in relation to goods or services—has the same meaning as in the _Trade Practices Act 1974_; or
 
                      (b)  when used in relation to land—includes transfer; or
 
@@ -2650,7 +2650,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 51–54): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 51–54): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2812,7 +2812,7 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 8, 46 and 103, 2010</div>
+    <div>am. Nos. 8 and 46, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3087,6 +3087,31 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>am. No. 46, 2010</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Do Not Call Register Act 2006</h9>
+
+## 51  Section 4 (definition of _acquire_)
+
+## 52  Section 4 (definition of _goods_)
+
+## 53  Section 4 (definition of _services_)
+
+## 54  Section 4 (paragraph (a) of the definition of _supply_)
+
+As at 3 August 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
