@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00851/Html/4205fe07-054b-4a7c-8627-b1ccb938835a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00080/Html/SpamAct03WD02_image001.gif)
 
 # Spam Act 2003
 
-**Act No. 129 of 2003 as amended**
+**Act No. 129 of 2003 as amended**
 
-This compilation was prepared on 20 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 14 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -46,7 +46,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Extension to external Territories
 
-[14](#14).          Extra‑territorial application
+[14](#14).          Extra-territorial application
 
 **Part 2—Rules about sending commercial electronic messages**
 
@@ -58,15 +58,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Commercial electronic messages must contain a functional unsubscribe facility
 
-**Part 3—Rules about address‑harvesting software and harvested‑address lists**
+**Part 3—Rules about address-harvesting software and harvested-address lists**
 
 [19](#19).          Simplified outline
 
-[20](#20).          Address‑harvesting software and harvested‑address lists must not be supplied
+[20](#20).          Address-harvesting software and harvested-address lists must not be supplied
 
-[21](#21).          Address‑harvesting software and harvested‑address lists must not be acquired
+[21](#21).          Address-harvesting software and harvested-address lists must not be acquired
 
-[22](#22).          Address‑harvesting software and harvested‑address lists must not be used
+[22](#22).          Address-harvesting software and harvested-address lists must not be used
 
 **Part 4—Civil penalties**
 
@@ -144,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [2](#2).            Basic definition
 
-[3](#3).            Users of account authorised to consent on behalf of relevant electronic account‑holder
+[3](#3).            Users of account authorised to consent on behalf of relevant electronic account-holder
 
 [4](#4).            When consent may be inferred from publication of an electronic address
 
@@ -247,7 +247,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
     <div>The day on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>12 December 2003</div>
+    <div>12 December 2003</div>
   </td>
 </tr>
 <tr>
@@ -258,7 +258,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
     <div>The day on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>12 December 2003</div>
+    <div>12 December 2003</div>
   </td>
 </tr>
 <tr>
@@ -270,7 +270,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
       on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>10 April 2004</div>
+    <div>10 April 2004</div>
   </td>
 </tr>
 <tr>
@@ -282,7 +282,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
       on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>10 April 2004</div>
+    <div>10 April 2004</div>
   </td>
 </tr>
 <tr>
@@ -293,7 +293,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
     <div>The day on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>12 December 2003</div>
+    <div>12 December 2003</div>
   </td>
 </tr>
 <tr>
@@ -305,7 +305,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
       on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>10 April 2004</div>
+    <div>10 April 2004</div>
   </td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
     <div>The day on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>12 December 2003</div>
+    <div>12 December 2003</div>
   </td>
 </tr>
 <tr>
@@ -328,7 +328,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
       on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>10 April 2004</div>
+    <div>10 April 2004</div>
   </td>
 </tr>
 <tr>
@@ -339,7 +339,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
     <div>The day on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>12 December 2003</div>
+    <div>12 December 2003</div>
   </td>
 </tr>
 <tr>
@@ -351,7 +351,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
       on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>10 April 2004</div>
+    <div>10 April 2004</div>
   </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ Note:          This table relates only to the provisions of th
 
 <li class="BoxList" style="margin-left:21.25pt">•      This Act sets up a scheme
 
-for regulating commercial e‑mail and other types of commercial electronic
+for regulating commercial e-mail and other types of commercial electronic
 
 messages.</li>
 
@@ -385,15 +385,15 @@ authorised the sending of the message.</li>
 
 messages must contain a functional unsubscribe facility.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Address‑harvesting software
+<li class="BoxList" style="margin-left:21.25pt">•      Address-harvesting
 
-must not be supplied, acquired or used.</li>
+software must not be supplied, acquired or used.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      An electronic address list
 
-produced using address‑harvesting software must not be supplied, acquired or
+produced using address-harvesting software must not be supplied, acquired
 
-used.</li>
+or used.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The main remedies for
 
@@ -401,7 +401,7 @@ breaches of this Act are civil penalties and injunctions.</li>
 
 * * *
 
-Note:          The _Telecommunications Act 1997_ contains additional provisions about commercial electronic messages. Those provisions include Part 6 (industry codes and standards), Part 26 (investigations), Part 27 (information‑gathering powers) and Part 28 (enforcement).
+Note:          The _Telecommunications Act 1997_ contains additional provisions about commercial electronic messages. Those provisions include Part 6 (industry codes and standards), Part 26 (investigations), Part 27 (information-gathering powers) and Part 28 (enforcement).
 
 ##### <a id="4"></a>4  Definitions
 
@@ -411,7 +411,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                      (a)  a free account; and
 
-                     (b)  a pre‑paid account; and
+                     (b)  a pre-paid account; and
 
                      (c)  anything that may reasonably be regarded as the equivalent of an account.
 
@@ -419,7 +419,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                     <a name="acquir"></a>**_acquire_**, when used in relation to goods or services, has the same meaning as in the _Competition and Consumer Act 2010_.
 
-                    <a name=""></a><a name="address-harvest-softwar"></a>**_address‑harvesting software_** means  software that is specifically designed or marketed for use for:
+                    <a name=""></a><a name="address-harvest-softwar"></a>**_address-harvesting software_** means  software that is specifically designed or marketed for use for:
 
                      (a)  searching the internet for electronic addresses; and
 
@@ -477,7 +477,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                     <a name="educ-institut"></a>**_educational institution_** includes:
 
-                     (a)  a pre‑school; and
+                     (a)  a pre-school; and
 
                      (b)  a school; and
 
@@ -509,7 +509,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                       (f)  an agency, authority or instrumentality of the government of a part of a foreign country.
 
-                    <a name="harvest-address-list"></a>**_harvested‑address list_** means:
+                    <a name="harvest-address-list"></a>**_harvested-address list_** means:
 
                      (a)  a list of electronic addresses; or
 
@@ -517,7 +517,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                      (c)  a compilation of electronic addresses;
 
-where the production of the list, collection or compilation is, to any extent, directly or indirectly attributable to the use of address‑harvesting software.
+where the production of the list, collection or compilation is, to any extent, directly or indirectly attributable to the use of address-harvesting software.
 
                     <a name="intern-convent"></a>**_international convention_** means:
 
@@ -525,7 +525,7 @@ where the production of the list, collection or compilation is, to any extent, d
 
                      (b)  an agreement between Australia and a foreign country.
 
-                    <a name="internet-carriag-servic"></a>**_internet carriage service_**means a listed carriage service that enables end‑users to access the internet.
+                    <a name="internet-carriag-servic"></a>**_internet carriage service_**means a listed carriage service that enables end-users to access the internet.
 
                     <a name="invest"></a>**_investment_** means any mode of application of money or other property for the purpose of gaining a return (whether by way of income, capital gain or any other form of return).
 
@@ -583,9 +583,9 @@ Note:          For treatment of partnerships, see section 58
 
                      (b)  a law of a State or Territory that deals with electoral matters.
 
-                    <a name="relev-electron-account-holder"></a>**_relevant electronic account‑holder_**, in relation to the sending of an electronic message to an electronic address, means:
+                    <a name="relev-electron-account-holder"></a>**_relevant electronic account-holder_**, in relation to the sending of an electronic message to an electronic address, means:
 
-                     (a)  if the electronic address is an e‑mail address—the individual or organisation who is responsible for the relevant e‑mail account; or
+                     (a)  if the electronic address is an e-mail address—the individual or organisation who is responsible for the relevant e-mail account; or
 
                      (b)  if the message is sent to an electronic address in connection with an instant messaging service—the individual or organisation who is responsible for the relevant instant messaging account; or
 
@@ -637,7 +637,7 @@ Basic definition
 
                      (b)  to an electronic address in connection with:
 
-                              (i)  an e‑mail account; or
+                              (i)  an e-mail account; or
 
                              (ii)  an instant messaging account; or
 
@@ -645,7 +645,7 @@ Basic definition
 
                             (iv)  a similar account.
 
-Note:          E‑mail addresses and telephone numbers are examples of electronic addresses.
+Note:          E-mail addresses and telephone numbers are examples of electronic addresses.
 
              (2)  For the purposes of subsection (1), it is immaterial whether the electronic address exists.
 
@@ -741,7 +741,7 @@ Interpretation
 
                      (c)  the computer, server or device that is used to access the message is located in Australia; or
 
-                     (d)  the relevant electronic account‑holder is:
+                     (d)  the relevant electronic account-holder is:
 
                               (i)  an individual who is physically present in Australia when the message is accessed; or
 
@@ -765,7 +765,7 @@ then:
 
                      (d)  the individual is taken not to authorise the sending of the electronic message.
 
-Self‑authorisation
+Self-authorisation
 
              (2)  For the purposes of this Act, if:
 
@@ -773,7 +773,7 @@ Self‑authorisation
 
                      (b)  the sending of the message is not authorised by any other individual or organisation;
 
-the first‑mentioned individual or organisation is taken to authorise the sending of the message.
+the first-mentioned individual or organisation is taken to authorise the sending of the message.
 
 ##### <a id="9"></a>9  Sending of electronic messages—carriage service providers
 
@@ -805,7 +805,7 @@ the first‑mentioned individual or organisation is taken to authorise the sendi
 
                    This Act extends to every external Territory.
 
-##### <a id="14"></a>14  Extra‑territorial application
+##### <a id="14"></a>14  Extra-territorial application
 
                    Unless the contrary intention appears, this Act extends to acts, omissions, matters and things outside Australia.
 
@@ -845,7 +845,7 @@ Note 1:       For **_Australian link_**, see section 7.
 
 Note 2:       For **_designated commercial electronic message_**, see Schedule 1.
 
-             (2)  Subsection (1) does not apply if the relevant electronic account‑holder consented to the sending of the message.
+             (2)  Subsection (1) does not apply if the relevant electronic account-holder consented to the sending of the message.
 
 Note:          For the meaning of **_consent_**, see Schedule 2.
 
@@ -861,9 +861,9 @@ that the message had an Australian link.
 
              (5)  A person who wishes to rely on subsection (2), (3) or (4) bears an evidential burden in relation to that matter.
 
-Message must not be sent to a non‑existent electronic address
+Message must not be sent to a non-existent electronic address
 
-             (6)  A person must not send, or cause to be sent, a commercial electronic message to a non‑existent electronic address if:
+             (6)  A person must not send, or cause to be sent, a commercial electronic message to a non-existent electronic address if:
 
                      (a)  the person did not have reason to believe that the electronic address existed; and
 
@@ -961,7 +961,7 @@ unless:
 
                      (c)  the message includes:
 
-                              (i)  a statement to the effect that the recipient may use an electronic address set out in the message to send an unsubscribe message to the individual or organisation who authorised the sending of the first‑mentioned message; or
+                              (i)  a statement to the effect that the recipient may use an electronic address set out in the message to send an unsubscribe message to the individual or organisation who authorised the sending of the first-mentioned message; or
 
                              (ii)  a statement to similar effect; and
 
@@ -995,9 +995,9 @@ that the message had an Australian link.
 
              (3)  Subsection (1) does not apply to the extent (if any) to which it is inconsistent with the terms of a contract or other agreement between:
 
-                     (a)  the individual or organisation who authorised the sending of the first‑mentioned message; and
+                     (a)  the individual or organisation who authorised the sending of the first-mentioned message; and
 
-                     (b)  the relevant electronic account‑holder.
+                     (b)  the relevant electronic account-holder.
 
              (4)  Subsection (1) does not apply if the person sent the message, or caused the message to be sent, by mistake.
 
@@ -1027,11 +1027,11 @@ Unsubscribe message
 
              (9)  For the purposes of the application of this section to a commercial electronic message, where the sending of the message is authorised by an individual or organisation, an **_unsubscribe message_** is:
 
-                     (a)  an electronic message to the effect that the relevant electronic account‑holder does not want to receive any further commercial electronic messages from or authorised by that individual or organisation; or
+                     (a)  an electronic message to the effect that the relevant electronic account-holder does not want to receive any further commercial electronic messages from or authorised by that individual or organisation; or
 
                      (b)  an electronic message to similar effect.
 
-## Part 3—Rules about address‑harvesting software and harvested‑address lists
+## Part 3—Rules about address-harvesting software and harvested-address lists
 
 ##### <a id="19"></a>19  Simplified outline
 
@@ -1039,27 +1039,29 @@ Unsubscribe message
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      Address‑harvesting software
+<li class="BoxList" style="margin-left:21.25pt">•      Address-harvesting
 
-must not be supplied, acquired or used.</li>
+software must not be supplied, acquired or used.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      An electronic address list
 
-produced using address‑harvesting software must not be supplied, acquired or used.</li>
+produced using address-harvesting software must not be supplied, acquired
+
+or used.</li>
 
 * * *
 
-##### <a id="20"></a>20  Address‑harvesting software and harvested‑address lists must not be supplied
+##### <a id="20"></a>20  Address-harvesting software and harvested-address lists must not be supplied
 
              (1)  A person (the **_supplier_**) must not supply or offer to supply:
 
-                     (a)  address‑harvesting software; or
+                     (a)  address-harvesting software; or
 
-                     (b)  a right to use address‑harvesting software; or
+                     (b)  a right to use address-harvesting software; or
 
-                     (c)  a harvested‑address list; or
+                     (c)  a harvested-address list; or
 
-                     (d)  a right to use a harvested‑address list;
+                     (d)  a right to use a harvested-address list;
 
 to another person (the **_customer_**) if:
 
@@ -1077,7 +1079,7 @@ to another person (the **_customer_**) if:
 
 Note:          For treatment of partnerships, see section 585 of the _Telecommunications Act 1997_.
 
-             (2)  Subsection (1) does not apply if the supplier had no reason to suspect that the customer, or another person, intended to use the address‑harvesting software or the harvested‑address list, as the case may be, in connection with sending commercial electronic messages in contravention of section 16.
+             (2)  Subsection (1) does not apply if the supplier had no reason to suspect that the customer, or another person, intended to use the address-harvesting software or the harvested-address list, as the case may be, in connection with sending commercial electronic messages in contravention of section 16.
 
              (3)  Subsection (1) does not apply if the supplier:
 
@@ -1111,17 +1113,17 @@ Civil penalty provisions
 
 Note:          Part 4 provides for pecuniary penalties for breaches of civil penalty provisions.
 
-##### <a id="21"></a>21  Address‑harvesting software and harvested‑address lists must not be acquired
+##### <a id="21"></a>21  Address-harvesting software and harvested-address lists must not be acquired
 
              (1)  A person must not acquire:
 
-                     (a)  address‑harvesting software; or
+                     (a)  address-harvesting software; or
 
-                     (b)  a right to use address‑harvesting software; or
+                     (b)  a right to use address-harvesting software; or
 
-                     (c)  a harvested‑address list; or
+                     (c)  a harvested-address list; or
 
-                     (d)  a right to use a harvested‑address list;
+                     (d)  a right to use a harvested-address list;
 
 if the person is:
 
@@ -1131,7 +1133,7 @@ if the person is:
 
 Note:          For treatment of partnerships, see section 585 of the _Telecommunications Act 1997_.
 
-             (2)  Subsection (1) does not apply if the person did not intend to use the address‑harvesting software or the harvested‑address list, as the case may be, in connection with sending commercial electronic messages in contravention of section 16.
+             (2)  Subsection (1) does not apply if the person did not intend to use the address-harvesting software or the harvested-address list, as the case may be, in connection with sending commercial electronic messages in contravention of section 16.
 
 Ancillary contraventions
 
@@ -1151,13 +1153,13 @@ Civil penalty provisions
 
 Note:          Part 4 provides for pecuniary penalties for breaches of civil penalty provisions.
 
-##### <a id="22"></a>22  Address‑harvesting software and harvested‑address lists must not be used
+##### <a id="22"></a>22  Address-harvesting software and harvested-address lists must not be used
 
              (1)  A person must not use:
 
-                     (a)  address‑harvesting software; or
+                     (a)  address-harvesting software; or
 
-                     (b)  a harvested‑address list;
+                     (b)  a harvested-address list;
 
 if the person is:
 
@@ -1167,7 +1169,7 @@ if the person is:
 
 Note:          For treatment of partnerships, see section 585 of the _Telecommunications Act 1997_.
 
-             (2)  Subsection (1) does not apply in relation to the use of address‑harvesting software or a harvested‑address list, if the use was not in connection with sending commercial electronic messages in contravention of section 16.
+             (2)  Subsection (1) does not apply in relation to the use of address-harvesting software or a harvested-address list, if the use was not in connection with sending commercial electronic messages in contravention of section 16.
 
 Ancillary contraventions
 
@@ -1209,7 +1211,7 @@ ancillary orders:</li>
 
                (a)     directing the payment of compensation to a victim of a contravention of a civil penalty provision; and
 
-              (b)     directing the payment to the Commonwealth of an amount up to the amount of any financial benefit that is attributable to a contravention of a civil penalty provision.
+               (b)     directing the payment to the Commonwealth of an amount up to the amount of any financial benefit that is attributable to a contravention of a civil penalty provision.
 
 * * *
 
@@ -1455,7 +1457,7 @@ an enforceable undertaking in connection with a matter relating to:</li>
 
                (a)     commercial electronic messages; or
 
-              (b)     address‑harvesting software.
+               (b)     address-harvesting software.
 
 * * *
 
@@ -1465,7 +1467,7 @@ an enforceable undertaking in connection with a matter relating to:</li>
 
                      (a)  commercial electronic messages; or
 
-                     (b)  address‑harvesting software.
+                     (b)  address-harvesting software.
 
              (2)  The person may withdraw or vary the undertaking at any time, but only with the consent of the ACMA.
 
@@ -1509,11 +1511,11 @@ an enforceable undertaking in connection with a matter relating to:</li>
 
                    The ACMA has the following functions:
 
-                     (a)  to conduct and/or co‑ordinate community education programs about either or both of the following:
+                     (a)  to conduct and/or co-ordinate community education programs about either or both of the following:
 
                               (i)  unsolicited commercial electronic messages;
 
-                             (ii)  address‑harvesting software;
+                             (ii)  address-harvesting software;
 
                             in consultation with relevant industry and consumer groups and government agencies;
 
@@ -1521,13 +1523,13 @@ an enforceable undertaking in connection with a matter relating to:</li>
 
                               (i)  unsolicited commercial electronic messages;
 
-                             (ii)  address‑harvesting software;
+                             (ii)  address-harvesting software;
 
-                     (c)  to liaise with regulatory and other relevant bodies overseas about co‑operative arrangements for the prohibition or regulation of either or both of the following:
+                     (c)  to liaise with regulatory and other relevant bodies overseas about co-operative arrangements for the prohibition or regulation of either or both of the following:
 
                               (i)  unsolicited commercial electronic messages;
 
-                             (ii)  address‑harvesting software.
+                             (ii)  address-harvesting software.
 
 ##### <a id="43"></a>43  Operation of State and Territory laws
 
@@ -1543,7 +1545,7 @@ an enforceable undertaking in connection with a matter relating to:</li>
 
                      (a)  commercial electronic messages;
 
-                     (b)  address‑harvesting software.
+                     (b)  address-harvesting software.
 
              (2)  Regulations made for the purposes of subsection (1) may:
 
@@ -1563,7 +1565,7 @@ an enforceable undertaking in connection with a matter relating to:</li>
 
                      (c)  Part 6 of the _Telecommunications Act 1997_ to the extent to which that Part:
 
-                              (i)  relates to e‑marketing activities (within the meaning of that Part); and
+                              (i)  relates to e-marketing activities (within the meaning of that Part); and
 
                              (ii)  relates to activities that consist of carrying on business as an electronic messaging service provider (within the meaning of that Part); and
 
@@ -1575,7 +1577,7 @@ an enforceable undertaking in connection with a matter relating to:</li>
 
 ##### <a id="47"></a>47  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed by this Act; or
 
@@ -1597,7 +1599,7 @@ Note 2:       Designated commercial electronic messages are exempt f
 
              (1)  For the purposes of this Act, an electronic message is a **_designated commercial_** **_electronic message_** if:
 
-                     (a)  the message consists of no more than factual information (with or without directly‑related comment) and any or all of the following additional information:
+                     (a)  the message consists of no more than factual information (with or without directly-related comment) and any or all of the following additional information:
 
                               (i)  the name, logo and contact details of the individual or organisation who authorised the sending of the message;
 
@@ -1613,7 +1615,7 @@ Note 2:       Designated commercial electronic messages are exempt f
 
                            (vii)  information required to be included by section 17;
 
-                          (viii)  information that would have been required to be included by section 18 if that section had applied to the message; and
+                           (viii)  information that would have been required to be included by section 18 if that section had applied to the message; and
 
                      (b)  assuming that none of that additional information had been included in the message, the message would not have been a commercial electronic message; and
 
@@ -1645,9 +1647,9 @@ Note 2:       Designated commercial electronic messages are exempt f
 
                      (b)  either or both of the following subparagraphs applies:
 
-                              (i)  the relevant electronic account‑holder is, or has been, enrolled as a student in that institution;
+                              (i)  the relevant electronic account-holder is, or has been, enrolled as a student in that institution;
 
-                             (ii)  a member or former member of the household of the relevant electronic account‑holder is, or has been, enrolled as a student in that institution; and
+                             (ii)  a member or former member of the household of the relevant electronic account-holder is, or has been, enrolled as a student in that institution; and
 
                      (c)  the message relates to goods or services; and
 
@@ -1665,7 +1667,7 @@ _Note:       See section 4._
 
                    The object of this Schedule is to define the expression **_consent_**, when used in relation to the sending of an electronic message.
 
-Note:          The concept of consent is relevant to section 16 (unsolicited commercial electronic messages must not be sent). Subsection 16(2) provides that a contravention of subsection 16(1) does not happen if the relevant electronic account‑holder consented to the sending of the message.
+Note:          The concept of consent is relevant to section 16 (unsolicited commercial electronic messages must not be sent). Subsection 16(2) provides that a contravention of subsection 16(1) does not happen if the relevant electronic account-holder consented to the sending of the message.
 
 ##### <a id="2"></a>2  Basic definition
 
@@ -1681,9 +1683,9 @@ Note:          The concept of consent is relevant to section�
 
                             of the individual or organisation concerned.
 
-##### <a id="3"></a>3  Users of account authorised to consent on behalf of relevant electronic account‑holder
+##### <a id="3"></a>3  Users of account authorised to consent on behalf of relevant electronic account-holder
 
-             (1)  For the purposes of this Act, if a person other than the relevant electronic account‑holder uses the relevant account to send an electronic message about:
+             (1)  For the purposes of this Act, if a person other than the relevant electronic account-holder uses the relevant account to send an electronic message about:
 
                      (a)  consent; or
 
@@ -1691,9 +1693,9 @@ Note:          The concept of consent is relevant to section�
 
                      (c)  refusal of consent;
 
-that person is taken to have been authorised to send that message on behalf of the relevant electronic account‑holder.
+that person is taken to have been authorised to send that message on behalf of the relevant electronic account-holder.
 
-             (2)  Subclause (1) does not, by implication, limit the circumstances in which a person other than the relevant electronic account‑holder may:
+             (2)  Subclause (1) does not, by implication, limit the circumstances in which a person other than the relevant electronic account-holder may:
 
                      (a)  consent; or
 
@@ -1701,11 +1703,11 @@ that person is taken to have been authorised to send that message on behalf of t
 
                      (c)  refuse consent;
 
-on behalf of the relevant electronic account‑holder.
+on behalf of the relevant electronic account-holder.
 
 ##### <a id="4"></a>4  When consent may be inferred from publication of an electronic address
 
-             (1)  For the purposes of this Act, the consent of the relevant electronic account‑holder may not be inferred from the mere fact that the relevant electronic address has been published.
+             (1)  For the purposes of this Act, the consent of the relevant electronic account-holder may not be inferred from the mere fact that the relevant electronic address has been published.
 
 Exception—conspicuous publication
 
@@ -1721,7 +1723,7 @@ Exception—conspicuous publication
 
                             (iv)  a particular holder of a statutory or other office; or
 
-                             (v)  a particular self‑employed individual; or
+                             (v)  a particular self-employed individual; or
 
                             (vi)  an individual from time to time holding, occupying or performing the duties of, a particular office or position within the operations of an organisation; or
 
@@ -1731,19 +1733,19 @@ Exception—conspicuous publication
 
                      (c)  it would be reasonable to assume that the publication occurred with the agreement of:
 
-                              (i)  if subparagraph (a)(i), (ii), (iii), (iv) or (v) applies—the employee, director, officer, partner, office‑holder or self‑employed individual concerned; or
+                              (i)  if subparagraph (a)(i), (ii), (iii), (iv) or (v) applies—the employee, director, officer, partner, office-holder or self-employed individual concerned; or
 
                              (ii)  if subparagraph (a)(vi) or (vii) applies—the organisation concerned; and
 
                      (d)  the publication is not accompanied by:
 
-                              (i)  a statement to the effect that the relevant electronic account‑holder does not want to receive unsolicited commercial electronic messages at that electronic address; or
+                              (i)  a statement to the effect that the relevant electronic account-holder does not want to receive unsolicited commercial electronic messages at that electronic address; or
 
                              (ii)  a statement to similar effect;
 
-the relevant electronic account‑holder is taken, for the purposes of this Act, to have consented to the sending of commercial electronic messages to that address, so long as the messages are relevant to:
+the relevant electronic account-holder is taken, for the purposes of this Act, to have consented to the sending of commercial electronic messages to that address, so long as the messages are relevant to:
 
-                     (e)  if subparagraph (a)(i), (ii), (iii), (iv) or (v) applies—the work‑related business, functions or duties of the employee, director, officer, partner, office‑holder or self‑employed individual concerned; or
+                     (e)  if subparagraph (a)(i), (ii), (iii), (iv) or (v) applies—the work-related business, functions or duties of the employee, director, officer, partner, office-holder or self-employed individual concerned; or
 
                       (f)  if subparagraph (a)(vi) applies—the office or position concerned; or
 
@@ -1751,23 +1753,23 @@ the relevant electronic account‑holder is taken, for the purposes of this Act,
 
 ##### <a id="5"></a>5  Regulations about consent
 
-             (1)  The regulations may provide that, for the purposes of this Act, the consent of a relevant electronic account‑holder may not be inferred in the circumstances specified in the regulations.
+             (1)  The regulations may provide that, for the purposes of this Act, the consent of a relevant electronic account-holder may not be inferred in the circumstances specified in the regulations.
 
-             (2)  The regulations may provide that, for the purposes of this Act, the consent of a relevant electronic account‑holder may be inferred in the circumstances specified in the regulations.
+             (2)  The regulations may provide that, for the purposes of this Act, the consent of a relevant electronic account-holder may be inferred in the circumstances specified in the regulations.
 
 ##### <a id="6"></a>6  When withdrawal of consent takes effect
 
              (1)  For the purposes of this Act, if:
 
-                     (a)  one or more electronic messages have been sent to the relevant electronic account‑holder’s electronic address; and
+                     (a)  one or more electronic messages have been sent to the relevant electronic account-holder’s electronic address; and
 
-                     (b)  the relevant electronic account‑holder has consented to the sending of those commercial electronic messages to that electronic address; and
+                     (b)  the relevant electronic account-holder has consented to the sending of those commercial electronic messages to that electronic address; and
 
                      (c)  an individual or organisation authorised the sending of those commercial electronic messages to that electronic address; and
 
-                     (d)  the relevant electronic account‑holder, or a user of the relevant account, sends the individual or organisation:
+                     (d)  the relevant electronic account-holder, or a user of the relevant account, sends the individual or organisation:
 
-                              (i)  a message to the effect that the account‑holder does not want to receive any further commercial electronic messages at that electronic address from or authorised by that individual or organisation; or
+                              (i)  a message to the effect that the account-holder does not want to receive any further commercial electronic messages at that electronic address from or authorised by that individual or organisation; or
 
                              (ii)  a message to similar effect;
 
@@ -2105,7 +2107,7 @@ the Commonwealth is liable to refund the penalty.
 
              (2)  Any liability of the person for the alleged civil contraventions is discharged.
 
-             (3)  Proceedings under Part 4 may not be brought against the person for the alleged civil contraventions.
+             (3)  Proceedings under Part 4 may not be brought against the person for the alleged civil contraventions.
 
 ##### <a id="8"></a>8  Effect of this Schedule on civil proceedings
 
@@ -2135,11 +2137,9 @@ the Commonwealth is liable to refund the penalty.
 
 ### Note 1
 
-The _Spam Act 2003_ as shown in this compilation comprises Act No. 129, 2003 amended as indicated in the Tables below.
+The _Spam Act 2003_ as shown in this compilation comprises Act No. 129, 2003 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
-
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -2185,7 +2185,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 15–41, 
-43–46, Schedules 1 and 3: 10 Apr 2004Remainder: Royal Assent</div>
+43–46, Schedules 1 and 3: 10 Apr 2004Remainder: Royal Assent</div>
   </td>
   <td>
     <div></div>
@@ -2202,11 +2202,11 @@ of Assent</div>
     <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 121–123) and Schedule 4: 1 July 2005 <i>(a)</i> 
-Schedule 2: <i>(a)</i></div>
+    <div>Schedule 1 (items 121–123) and Schedule 4: 1 July 2005 <i>(a)</i> 
+Schedule 2: <i>(a)</i></div>
   </td>
   <td>
-    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 4</div>
   </td>
 </tr>
 <tr>
@@ -2220,7 +2220,7 @@ Schedule 2: <i>(a)</i></div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 137(a), (c)): <i>(b)</i></div>
+    <div>Schedule 5 (item 137(a), (c)): <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2234,35 +2234,17 @@ Schedule 2: <i>(a)</i></div>
     <div>103, 2010</div>
   </td>
   <td>
-    <div>13 July 2010</div>
+    <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 
-100–103): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 100–103): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1059) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
-_(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
+_(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2344,7 +2326,7 @@ _(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
   <td>
     <div>
-      1 July 2005
+      1 July 2005
     </div>
   </td>
 </tr>
@@ -2362,7 +2344,7 @@ _(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
   <td>
     <div>
-      1 July 2005
+      1 July 2005
     </div>
   </td>
 </tr>
@@ -2380,12 +2362,12 @@ _(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
   <td>
     <div>
-      1 July 2005
+      1 July 2005
     </div>
   </td>
 </tr></table>
 
-_(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
+_(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2460,7 +2442,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
 
 <table>
 <colgroup>
-  <col width="33%">
+  <col width="32%">
   <col width="0%">
   <col width="67%">
   <col width="0%">
@@ -2489,7 +2471,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -2503,7 +2485,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>S. 4</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005; Nos. 8 and 103, 2010</div>
+    <div>am. No. 45, 2005; Nos. 8 and 103, 2010</div>
   </td>
   <td>
     <div></div>
@@ -2522,7 +2504,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
+    <div><b>Part 4</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -2536,7 +2518,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>S. 26</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
   <td>
     <div></div>
@@ -2547,7 +2529,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>Ss. 28, 29</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
   <td>
     <div></div>
@@ -2555,7 +2537,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
+    <div><b>Part 5</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -2569,7 +2551,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>S. 32</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
   <td>
     <div></div>
@@ -2577,7 +2559,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
 </tr>
 <tr>
   <td>
-    <div><b>Part 6</b></div>
+    <div><b>Part 6</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -2591,7 +2573,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>Ss. 37–39</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
   <td>
     <div></div>
@@ -2599,7 +2581,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
 </tr>
 <tr>
   <td>
-    <div><b>Part 7</b></div>
+    <div><b>Part 7</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -2613,7 +2595,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>S. 41</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
   <td>
     <div></div>
@@ -2624,7 +2606,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>Heading to s. 42</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
   <td>
     <div></div>
@@ -2635,7 +2617,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>S. 42</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
   <td>
     <div></div>
@@ -2643,7 +2625,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 3</b></div>
+    <div><b>Schedule 3</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -2657,7 +2639,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>C. 2</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
   <td>
     <div></div>
@@ -2668,7 +2650,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>C. 4</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2676,7 +2658,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
     <div>C. 9</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr height="0">
@@ -2685,37 +2667,5 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
   <td></td>
   <td></td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1059  Section 4 (note at the end of the definition of _organisation_)
-
-Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
-
-As at 20 October 2011 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
