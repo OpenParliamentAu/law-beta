@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00445/Html/ProtectionSeaCivilLiability1981WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00397/Html/ProtectionSeaCivilLiability1981WD02_image001.gif)
 
 # Protection of the Sea (Civil Liability) Act 1981
 
 **Act No. 31 of 1981 as amended**
 
-This compilation was prepared on 25 July 2008
- taking into account amendments up to Act No. 77 of 2008
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1783,23 +1783,6 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008</div>
-    </td>
-    <td>
-      <div>77, 2008</div>
-    </td>
-    <td>
-      <div>12 July 2008</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 5): \[ <i>see</i>s. 2(1) and Note 2]</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_ The _Protection of the Sea (Civil Liability) Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
@@ -2224,22 +2207,6 @@ _(h)_     Subsection 2(1) (items 27) of the _Statute Law Revision Act 20
     <div>ad. No. 7, 2003</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008 (No. 77, 2008)_
-
-The following amendment commences on the day on which the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, done at London on 23 March 2001, enters into force for Australia. However, the amendment may not commence at all, _see_ section 2(1) (item 2):
-
-## Schedule 1
-
-## 5  At the end of subsection 19B(1)
-
-Add:
-
-             ; and (d)  to which Part 3 of the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_ does not apply.
-
-As at 25 July 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
