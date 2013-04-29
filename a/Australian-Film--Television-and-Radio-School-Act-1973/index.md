@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00175/Html/AusFilmTelRadSchool73WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00109/Html/AusFilmTelRadSchool73WD02_image001.gif)
 
 # Australian Film, Television and Radio School Act 1973
 
 **Act No. 95 of 1973 as amended**
 
-This compilation was prepared on 1 July 2008
+This compilation was prepared on 28 March 2008
  taking into account amendments up to Act No. 13 of 2008
 
 The text of any of those amendments not in force 
@@ -95,8 +95,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [34](#34).          Employment of staff of School
 
 [35](#35).          Terms and conditions of employment of staff
-
-[35A](#35A).       Long service leave for the School’s employees
 
 **Part VII—Finance**
 
@@ -520,10 +518,6 @@ the Governor-General shall remove the Director from office.
 
              (2)  In subsection (1), **_terms and conditions_** include conditions with respect to the duration of employment or with respect to dismissal from employment.
 
-##### <a id="35A"></a>35A  Long service leave for the School’s employees
-
-                   The _Long Service Leave (Commonwealth Employees) Act 1976_ applies to a person employed by the School under section 34 of this Act as if the person were engaged under the _Public Service Act 1999_.
-
 ## Part VII—Finance
 
 ##### <a id="36"></a>36  Moneys payable to School
@@ -916,7 +910,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L01863)</div>
+    <div>Schedule 1 (item 2): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1316,22 +1310,6 @@ _(g)_     The _Australian Film, Television and Radio School Act 1973_ wa
 </tr>
 <tr>
   <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part VII</b></div>
   </td>
   <td>
@@ -1466,6 +1444,24 @@ _(g)_     The _Australian Film, Television and Radio School Act 1973_ wa
     <div>am. No. 76, 1986; No. 32, 1995; No. 152, 1997</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Screen Australia and the National Film and Sound Archive (Consequential and Transitional Provisions) Act 2008 (No. 13, 2008)_
+
+The following amendment commences on 20 September 2008 unless proclaimed earlier:
+
+## Schedule 1
+
+## 2  At the end of Part VI
+
+Add:
+
+##### <a id="35A"></a>35A  Long service leave for the School’s employees
+
+                   The _Long Service Leave (Commonwealth Employees) Act 1976_ applies to a person employed by the School under section 34 of this Act as if the person were engaged under the _Public Service Act 1999_.
+
+As at 28 March 2008 the amendment is not incorporated in this compilation.
 
 Table A
 
