@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00122/Html/537E007711EF4A79CA25714C00834662/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00503/Html/6C0E815986722C9BCA257049001FE2DF/$FILE/image001.gif)
 
 # Hearing Services and AGHS Reform Act 1997
 
 **Act No. 82 of 1997 as amended**
 
-This compilation was prepared on 4 April 2006
-taking into account amendments up to Act No. 9 of 2006
+This compilation was prepared on 18 July 2005
+taking into account amendments up to Act No. 100 of 2005
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -209,7 +209,7 @@ Privacy Act 1988                     �
 
                    This Part extends to all the external Territories.
 
-##### <a id="9"></a>9  Extra-territorial operation
+##### <a id="9"></a>9  Extra-territorial operation
 
                    This Part extends to acts, omissions, matters and things outside Australia, whether or not in a foreign country.
 
@@ -434,9 +434,9 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
 ###### Schedule 1—Amendment of the Hearing Services Act 1991
 
-<h9 class="ActHead9">Hearing Services Act 1991</h9>
+Hearing Services Act 1991
 
-<h7 class="ActHead7">Part 1—Amendments commencing on Royal Assent</h7>
+Part 1—Amendments commencing on Royal Assent
 
 ## 1  Paragraph 5(1)(a)
 
@@ -468,7 +468,7 @@ Omit “Commission for the Safety, Rehabilitation and Compensation of Commonweal
 
 Omit “_Commonwealth Employees’ Rehabilitation and Compensation Act 1988_”, substitute “_Safety, Rehabilitation and Compensation Act 1988_”.
 
-<h7 class="ActHead7">Part 2—Amendments commencing on 1 July 1997</h7>
+Part 2—Amendments commencing on 1 July 1997
 
 ## 6  Section 1
 
@@ -684,7 +684,7 @@ _Note:       The heading to section 16 of the Hearing Services Act 1
 
 Omit “member”, substitute “Director”.
 
-## 34  Subsection 16(3)
+## 34  Subsection 16(3)
 
 Omit “member” (wherever occurring), substitute “Director”.
 
@@ -766,7 +766,7 @@ Omit “member”, substitute “Director”.
 
 Omit “member” (wherever occurring), substitute “Director”.
 
-## 53  Section 30
+## 53  Section 30
 
 Omit “member”, substitute “Director”.
 
@@ -868,7 +868,7 @@ Repeal the subsections, substitute:
 
              (2)  The terms and conditions of employment of persons engaged under subsection (1) are as determined by the Board in writing.
 
-## 73  Subsection 49(3)
+## 73  Subsection 49(3)
 
 Omit “General Manager”, substitute “Managing Director”.
 
@@ -1029,7 +1029,7 @@ _Note:       A liability or instrument may be specified by name, by 
 
 ###### Schedule 2—Amendment of the Social Security Act 1991
 
-<h9 class="ActHead9">Social Security Act 1991</h9>
+Social Security Act 1991
 
 ## 1  Section 1061ZB (note 2)
 
@@ -1038,7 +1038,7 @@ Omit “and hearing aid concessions under the _Hearing Services Act 1991_”.
 
 ###### Schedule 3—Amendment of the Veterans’ Entitlements Act 1986
 
-<h9 class="ActHead9">Veterans’ Entitlements Act 1986</h9>
+Veterans’ Entitlements Act 1986
 
 ## 1  Section 118W (note 2)
 
@@ -1049,7 +1049,7 @@ Omit “and hearing aid concessions under the _Hearing Services Act 1991_”.
 
 ###### Schedule 4—Amendment of the Privacy Act 1988
 
-<h9 class="ActHead9">Privacy Act 1988</h9>
+Privacy Act 1988
 
 ## 1  Subsection 6(1)
 
@@ -1095,7 +1095,7 @@ Insert:
 
 6  Paragraph 7(1)(a)
 
-After “other than an eligible case manager”, insert “or an eligible hearing service provider”.
+After “other than” (first occurring), insert “an eligible hearing service provider or”.
 
 ## 7  After paragraph 7(1)(cb)
 
@@ -1254,10 +1254,10 @@ Remainder: Royal Assent
       <div>28 June 2001</div>
     </td>
     <td>
-      <div>Ss. 4–14 and Schedule 3 (item 216): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285 <i>(b)</i></div>
+      <div>Ss. 4-14 and Schedule 3 (item 216): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285 <i>(b)</i></div>
     </td>
     <td>
-      <div>Ss. 4-14 \[ <i>see</i>Note 1]</div>
+      <div>Ss. 4-14</div>
     </td>
   </tr>
   <tr>
@@ -1272,23 +1272,6 @@ Remainder: Royal Assent
     </td>
     <td>
       <div>Schedule 2 (item 20): <i>(c)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2006</div>
-    </td>
-    <td>
-      <div>9, 2006</div>
-    </td>
-    <td>
-      <div>23 Mar 2006</div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 19): <i>(d)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1397,64 +1380,6 @@ _(c)_ Subsection 2(1) (item 38) of the _Statute Law Revision Act 2005_ provide
   </tr>
 </tbody></table>
 
-_(d)_     Subsection 2(1) (item 34) of the _Statute Law Revision Act 2006_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        34\. Schedule 2, item 19
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the time specified in the
-          <i>Hearing Services and AGHS Reform Act 1997</i>for the commencement of item 6
-          of Schedule 4 to that Act.
-      </div>
-    </td>
-    <td>
-      <div>
-        18 June 1997
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
  
 
 
@@ -1495,7 +1420,7 @@ _(d)_     Subsection 2(1) (item 34) of the _Statute Law Revision Act 2
       <div>Schedule 4 (item 6)</div>
     </td>
     <td>
-      <div>rs. No. 100, 2005; No. 9, 2006</div>
+      <div>am. No. 100, 2005</div>
     </td>
   </tr>
 </tbody></table>
