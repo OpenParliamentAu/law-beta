@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00600/Html/LocalGovtFinanAssis1995WD02_image001.gif)
 
 # Local Government (Financial Assistance) Act 1995
 
 **Act No. 86 of 1995 as amended**
 
-This compilation was prepared on 1 June 2009
- taking into account amendments up to Act No. 36 of 2009
+This compilation was prepared on 10 October 2006
+ taking into account amendments up to Act No. 109 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -141,6 +141,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="base-figur"></a>**_base figure_** means:
 
                      (a)  in relation to the year beginning on 1 July 1995, the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2006C00600/Html/LocalGovtFinanAssis1995WD02_image002.gif)
 
                     where:
 
@@ -310,7 +312,7 @@ the following apply:
 
                      (a)  calculating, to 4 decimal places, the factor using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00600/Html/LocalGovtFinanAssis1995WD02_image004.gif)
 
                             where:
 
@@ -348,11 +350,11 @@ the following apply:
 
                      (a)  if the current year is the year beginning on 1 July 1995, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00600/Html/LocalGovtFinanAssis1995WD02_image005.gif)
 
                      (b)  if the current year is a later year, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00600/Html/LocalGovtFinanAssis1995WD02_image006.gif)
 
                             where:
 
@@ -384,7 +386,7 @@ Note:     For **_estimated initial amount_** and **_estimated factor_** se
 
                      (a)  if the current year is the year beginning on 1 July 1995, the amount (the **_final grant amount_**) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00600/Html/LocalGovtFinanAssis1995WD02_image007.gif); or
 
                      (b)  if the current year is a later year, the amount (the **_final grant amount_**) worked out using the formula:
 
@@ -407,12 +409,6 @@ Note 2:    For **_base figure_** see subsection 4(1).
              (5)  In addition to any other conditions to which a payment under this Act is subject, payment of an amount to a State under this Act is subject to the condition that if the final grant amount for the State in respect of a year is less than the preliminary grant amount for the State in respect of the year, the State will pay to the Commonwealth an amount equal to the difference.
 
              (6)  If an amount is payable to a State under subsection (4) in respect of a year, the amount is to be paid to the State in the following year by equal quarterly instalments at the times when instalments to which the State is entitled under section 9 in respect of the following year are paid.
-
-          (6A)  Despite subsection (6), if the Minister considers that it is appropriate, the Minister may decide that an amount payable to a State under subsection (4) is to be paid at such times, and in such instalments, as the Minister decides. The Minister cannot decide that an amount is to be paid later than it would be paid under subsection (6).
-
-Example:    The Minister may decide that an amount payable to a State in respect of a year be paid in one payment during that year.
-
-          (6B)  If the Minister makes a decision under subsection (6A) in relation to a State, the Minister must, as soon as practicable, notify the Treasurer of the State in writing of the decision.
 
              (7)  If a State is liable to pay an amount to the Commonwealth under subsection (5) in respect of a year, one-quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 9 in respect of the following year.
 
@@ -487,12 +483,6 @@ Note:          For **_additional previous year funding amount_**
              (3)  In addition to any other conditions to which a payment under this Act is subject, payment of an amount to a State under this Act is subject to the condition that, if the final additional grant amount for the State in respect of a year is less than the preliminary additional grant amount for the State in respect of the year, the State will pay to the Commonwealth an amount equal to the difference.
 
              (4)  If an amount is payable to a State under subsection (2) in respect of a year, the amount is to be paid to the State in the following year by equal quarterly instalments at the times when instalments to which the State is entitled under section 12 in respect of that following year are paid.
-
-          (4A)  Despite subsection (4), if the Minister considers that it is appropriate, the Minister may decide that an amount payable to a State under subsection (2) is to be paid at such times, and in such instalments, as the Minister decides. The Minister cannot decide that an amount is to be paid later than it would be paid under subsection (4).
-
-Example:    The Minister may decide that an amount payable to a State in respect of a year be paid in one payment during that year.
-
-          (4B)  If the Minister makes a decision under subsection (4A) in relation to a State, the Minister must, as soon as practicable, notify the Treasurer of the State in writing of the decision.
 
              (5)  If a State is liable to pay an amount to the Commonwealth under subsection (3), one-quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 12 in respect of the following year.
 
@@ -726,7 +716,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006</div>
+    <div>Maritime Transport and Offshorre Facilities Security Amendment (Security Plans and Other Measures) Act 2006</div>
   </td>
   <td>
     <div>109, 2006</div>
@@ -736,24 +726,6 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 2 (items 33–35): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Assistance Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>36, 2009</div>
-  </td>
-  <td>
-    <div>27 May 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2, 3): 
-Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -817,34 +789,10 @@ Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 7–9</div>
+    <div>Ss. 7–11</div>
   </td>
   <td>
     <div>am. No. 71, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2000; No. 36, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2009</div>
   </td>
 </tr>
 <tr>
@@ -877,5 +825,7 @@ _Local Government (Financial Assistance) Amendment Act 2000 (No. 71, 2000)_
 For the purpose of causing a factor to be worked out under subsection 8(1) of the _Local Government (Financial Assistance) Act 1995_ as amended by this Schedule in relation to the year beginning on 1 July 2000, the definition of **_previous population of_****_Australia_** in the formula in that subsection is replaced by the following definition:
 
 **_previous population of_****_Australia_** means the population of Australia used in applying section 10 of this Act, as in force immediately before its amendment by the _Local Government (Financial Assistance) Amendment Act 2000_, in respect of the year beginning on 1 July 1999.
+
+ 
 
  
