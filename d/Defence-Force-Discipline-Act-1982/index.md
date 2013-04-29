@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00586/Html/DefenceForceDiscipline1982_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00736/Html/DefenceForceDiscipline1982_WD02_image001.gif)
 
 # Defence Force Discipline Act 1982
 
 **Act No. 152 of 1982 as amended**
 
-This compilation was prepared on 1 October 2007
+This compilation was prepared on 19 December 2006
  taking into account amendments up to Act No. 159 of 2006
 
 The text of any of those amendments not in force
@@ -436,31 +436,47 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [113](#113).        Powers of officer in command of detachment
 
-    **Division 3—Australian Military Court**
+    **Division 3—Courts martial**
 
-[114](#114).        Creation of the Australian Military Court
+[114](#114).        Types of court martial
 
-[115](#115).        Jurisdiction
+[115](#115).        Jurisdiction of court martial
 
-[116](#116).        Exercise of jurisdiction
+[116](#116).        Eligibility to be member of court martial
 
-[117](#117).        Venue
+[117](#117).        Eligibility to be judge advocate
 
-[118](#118).        Referral of cases to the Australian Military Court and nomination of Military Judges
+[119](#119).        Convening order
 
-[119](#119).        Seal of the Australian Military Court
+[120](#120).        Convening order to be notified to accused person
 
-[120](#120).        Stamp of the Australian Military Court
+[121](#121).        Objection on ground of ineligibility etc 
 
-[121](#121).        Staff of the Australian Military Court
+[122](#122).        Notification of belief of bias
 
-    **Division 4—Military jury**
+[123](#123).        Substitution of members etc 
 
-[122](#122).        Constitution of a military jury
+[124](#124).        Replacement of members etc 
 
-[123](#123).        Eligibility to be a member of a military jury
+[125](#125).        Dissolution of court martial
 
-[124](#124).        Determination of questions by a military jury
+[126](#126).        Inability to attend after plea
+
+    **Division 4—Defence Force magistrates**
+
+[127](#127).        Appointment of Defence Force magistrates
+
+[128](#128).        Oath or affirmation of Defence Force magistrate
+
+[129](#129).        Jurisdiction and powers of Defence Force magistrate
+
+[129A](#129A).     Discontinuance of proceedings before Defence Force magistrate etc 
+
+    **Division 5—Nomination of Defence Force magistrates and members of courts martial**
+
+[129B](#129B).     Appointment of members of courts martial
+
+[129C](#129C).     Judge Advocate General to nominate Defence Force magistrates
 
 **Part VIII—Procedure of service tribunals** 
 
@@ -474,33 +490,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [131A](#131A).     Reference of charge to Director of Military Prosecutions
 
-    **Division 2—Trial by the Australian Military Court**
+    **Division 2—Trial by court martial or Defence Force magistrate**
 
-[132A](#132A).     Trial of class 1, class 2 and class 3 offences
+[132](#132).        Trial by court martial
 
-[132B](#132B).     Trial by Military Judge and military jury
+[133](#133).        Determination of questions by court martial
 
-[132C](#132C).     Powers of the Military Judge in trial by Military Judge and military jury
+[134](#134).        Powers of judge advocate
 
-[132D](#132D).     Trial by Military Judge alone
+[135](#135).        Trial by Defence Force magistrate
 
-[132E](#132E).      Additional matters about trials by Military Judge alone or with a military jury
+[136](#136).        Representatives of parties before court martial or Defence Force magistrate
 
-[132F](#132F).      Australian Military Court to take action against convicted persons
+[137](#137).        Representation of accused person
 
-[136](#136).        Representatives of parties before Australian Military Court
-
-[137](#137).        Representation of accused person before Australian Military Court
-
-    **Division 3—General** 
-
-        **Subdivision A—General**
+    **Division 3—General**
 
 [138](#138).        Procedural powers
 
 [139](#139).        Accused person to be present at hearing
 
-[140](#140).        Public hearings by the Australian Military Court
+[140](#140).        Public hearings
 
 [141](#141).        Applications and objections
 
@@ -522,27 +532,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [148](#148).        Record of proceedings to be kept
 
-        **Subdivision B—Use of video and audio links in the Australian Military Court**
+[149](#149).        Rules of procedure
 
-[148A](#148A).     Testimony by video link or audio link
-
-[148B](#148B).     Appearance of persons or submissions made by video link or audio link
-
-[148C](#148C).     Conditions for use of video links and audio links
-
-[148D](#148D).     Putting documents to a person by video link or audio link
-
-[148E](#148E).      Administration of oaths and affirmations
-
-[148F](#148F).      New Zealand proceedings
-
-        **Subdivision C—Rules of procedure for service tribunals**
-
-[149](#149).        The Summary Authority Rules
-
-[149A](#149A).     The Australian Military Court Rules
-
-**Part IX—Review of proceedings of summary authorities** 
+**Part IX—Review of proceedings of service tribunals** 
 
     **Division 1—Appointment of reviewing authorities**
 
@@ -562,6 +554,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [155](#155).        Further review
 
+[156](#156).        Effect on reviews of appeals to Defence Force Discipline Appeal Tribunal
+
     **Division 3—Action on review of proceedings that have resulted in a conviction**
 
 [157](#157).        Interpretation
@@ -575,6 +569,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [161](#161).        Substitution of conviction of alternative offence
 
 [162](#162).        Review of action under Part IV
+
+    **Division 4—Action on review of proceedings that have resulted in an acquittal on the ground of unsoundness of mind**
+
+[163](#163).        Interpretation
+
+[164](#164).        Quashing of prescribed acquittal etc 
+
+[165](#165).        Person deemed to have been acquitted
+
+[166](#166).        New trial
 
     **Division 5—Action on review of certain punishments and orders that are subject to approval by reviewing authority**
 
@@ -636,7 +640,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [178D](#178D).     Regulations relating to detention centres
 
-**Part XI—Judge Advocate General, Deputy Judge Advocates General, Chief Military Judge, Military Judges and Registrar** 
+**Part XI—Judge Advocate General, Deputy Judge Advocates General, Chief Judge Advocate and Registrar of Military Justice** 
 
     **Division 1—Judge Advocate General and Deputy Judge Advocates General**
 
@@ -660,69 +664,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [188](#188).        Acting Judge Advocate General or Deputy Judge Advocate General
 
-    **Division 2—Chief Military Judge**
+    **Division 2—Chief Judge Advocate**
 
-[188AA](#188AA).  Chief Military Judge
+[188A](#188A).     Chief Judge Advocate
 
-[188AB](#188AB).  Role of the Chief Military Judge
+[188B](#188B).     Role of the Chief Judge Advocate
 
-[188AC](#188AC).  Appointment of Chief Military Judge
+[188C](#188C).     Eligibility requirements
 
-[188AD](#188AD).  Qualifications for Chief Military Judge
+[188D](#188D).     Resignation
 
-[188AE](#188AE).   Selection of Chief Military Judge
+[188E](#188E).      Remuneration
 
-[188AF](#188AF).   Oath or affirmation
+    **Division 3—The Registrar of Military Justice**
 
-[188AG](#188AG).  Remuneration
+[188F](#188F).      Registrar of Military Justice
 
-[188AH](#188AH).  Leave of absence
+[188FA](#188FA).   Functions of the Registrar of Military Justice
 
-[188AI](#188AI).    No outside employment
-
-[188AJ](#188AJ).   No promotion other than automatic mid-term promotion
-
-[188AK](#188AK).  Resignation
-
-[188AL](#188AL).   Termination of appointment
-
-[188AN](#188AN).  Acting Chief Military Judge
-
-    **Division 2A—Military Judges**
-
-[188AO](#188AO).  Military Judges
-
-[188AP](#188AP).   Appointment of Military Judges
-
-[188AQ](#188AQ).  Appointment of part-time Military Judge not to affect tenure etc 
-
-[188AR](#188AR).  Qualifications for Military Judges
-
-[188AS](#188AS).   Selection of Military Judges
-
-[188AT](#188AT).  Oath or affirmation
-
-[188AU](#188AU).  Remuneration
-
-[188AV](#188AV).  Leave of absence
-
-[188AW](#188AW). Outside employment
-
-[188AX](#188AX).  No promotion other than automatic mid-term promotion
-
-[188AY](#188AY).  Resignation
-
-[188AZ](#188AZ).  Termination of appointment
-
-[188BB](#188BB).   Acting Military Judges
-
-    **Division 3—The Registrar of the Australian Military Court**
-
-[188F](#188F).      Registrar of the Australian Military Court
-
-[188FA](#188FA).   Functions of the Registrar
-
-[188FB](#188FB).   Appointment of the Registrar
+[188FB](#188FB).   Appointment of the Registrar of Military Justice
 
 [188FC](#188FC).   Qualifications for appointment
 
@@ -802,7 +762,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [192](#192).        Evidence of warrant of commitment
 
-[193](#193).        Protection of members of military juries etc 
+[193](#193).        Protection of members of courts martial etc 
 
 [194](#194).        Persons found to be of unsound mind
 
@@ -810,17 +770,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [195](#195).        Supply of record of proceedings
 
+[196](#196).        Judge advocates’ panel
+
 [196A](#196A).     Annual report relating to Defence Force discipline law
 
 [196B](#196B).     Annual report relating to the operations of the Director of Military Prosecutions
-
-[196C](#196C).     Annual report relating to the operations of the Australian Military Court
 
 [197](#197).        Regulations
 
 **Schedule 1—Corresponding punishments** 
 
-**Schedule 2—Punishments that may be imposed by the Australian Military Court** 
+**Schedule 2—Punishments that may be imposed by a court martial or a Defence Force magistrate** 
 
 **Schedule 3—Punishments that may be imposed by a summary authority** 
 
@@ -828,17 +788,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 4** 
 
+**Schedule 5** 
+
 **Schedule 6—Alternative offences** 
-
-**Schedule 7—Class 1, class 2 and class 3 offences**
-
-[1](#1).            Classes of offences
-
-[2](#2).            Section 61 offences that are class 1 offences
-
-[3](#3).            Section 61 offences that are class 2 offences
-
-[4](#4).            Section 61 offences that are class 3 offences
 
 **Notes** 
 
@@ -904,23 +856,27 @@ that relates to the first Territory offence.
 
                     <a name="appropri-author"></a>**_appropriate authority_**:
 
-                     (a)  in relation to proceedings before the Australian Military Court, means the Australian Military Court.
+                     (a)  in relation to proceedings before a court martial, means:
+
+                              (i)  the Registrar of Military Justice; or
+
+                             (ii)  the President of the court martial;
+
+                     (b)  in relation to proceedings before a Defence Force magistrate, means:
+
+                              (i)  the Registrar of Military Justice; or
+
+                             (ii)  the Defence Force magistrate; or
 
                      (c)  in relation to proceedings before a summary authority, means the summary authority.
 
-                    <a name="audio-link"></a>**_audio link_** means facilities (for example, telephone facilities) that enable audio communication between persons in different places.
-
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
-
-                    <a name="australian-militari-court"></a>**_Australian Military Court_** means the court created under section 114.
-
-                    <a name="australian-militari-court-rule"></a>**_Australian Military Court Rules_** means the rules made under section 149A.
 
                     <a name="authorized-offic"></a>**_authorized officer_** means an officer, or an officer included in a class of officers, authorized, in writing, by the Chief of the Defence Force or a service chief for the purposes of the provision in which the expression occurs.
 
                     <a name="charg"></a>**_charge_** means a charge of a service offence.
 
-                    <a name="chief-militari-judg"></a>**_Chief Military Judge_** means the person appointed under section 188AC.
+                    <a name="chief-judg-advoc"></a>**_Chief Judge Advocate_** means the Chief Judge Advocate appointed under section 188A.
 
                     <a name="civil-court"></a>**_civil court_** means a federal court or a court of a State or Territory.
 
@@ -931,24 +887,6 @@ that relates to the first Territory offence.
                      (b)  an offence against a law of a State or Territory.
 
                     <a name="civil-detent-facil"></a>**_civil detention facility_** means a police station or any other premises in which persons in custody awaiting trial in a civil court may lawfully be detained.
-
-                    <a name="class-offenc"></a>**_class 1 offence_** means a service offence that is specified to be a class 1 offence in the table in clause 1 of Schedule 7.
-
-                    <a name="class-offenc"></a>**_class 2 offence_** means a service offence that is:
-
-                     (a)  specified to be a class 2 offence in the table in clause 1 of Schedule 7; or
-
-                     (b)  neither a class 1 offence nor a class 3 offence.
-
-                    <a name="class-offenc"></a>**_class 3 offence_** means a service offence that:
-
-                     (a)  is specified to be a class 3 offence in the table in clause 1 of Schedule 7; or
-
-                     (b)  both:
-
-                              (i)  has a maximum penalty of not greater than 5 years imprisonment or is not punishable by imprisonment; and
-
-                             (ii)  is not specified to be a class 1 offence or a class 2 offence in the table in clause 1 of Schedule 7.
 
                     <a name="compet-review-author"></a>**_competent reviewing authority_** has the meaning given by section 150A.
 
@@ -981,6 +919,8 @@ that relates to the first Territory offence.
                      (b)  has consented, in writing, to subject himself or herself to Defence Force discipline while so accompanying that part of the Defence Force.
 
                     <a name="defenc-forc-disciplin-appeal-tribun"></a>**_Defence Force Discipline Appeal Tribunal_** means the Defence Force Discipline Appeal Tribunal constituted under the _Defence Force Discipline Appeals Act 1955_.
+
+                    <a name="defenc-forc-magistr"></a>**_Defence Force magistrate_** means a Defence Force magistrate appointed under section 127.
 
                     <a name="defenc-member"></a>**_defence member_** means:
 
@@ -1030,7 +970,11 @@ that relates to the first Territory offence.
 
                     <a name="institut"></a>**_institution_**, in relation to the Defence Force or an allied force, means a mess, club, band, canteen or other institution of the Defence Force or of the allied force, as the case may be.
 
+                    <a name="judg-advoc"></a>**_judge advocate_**, in relation to a court martial, means the judge advocate of the court martial.
+
                     <a name="judg-advoc-gener"></a>**_Judge Advocate General_** means the Judge Advocate General appointed under section 179.
+
+                    <a name="judg-advoc-panel"></a>**_judge advocates’ panel_** means the panel referred to in subsection 196(1).
 
                     <a name="legal-offic"></a>**_legal officer_** means an officer who is a legal practitioner.
 
@@ -1039,16 +983,6 @@ that relates to the first Territory offence.
                     <a name="mical-practition"></a>**_medical practitioner_** means a person who is registered or licensed as a medical practitioner under a law of a State or Territory that provides for the registration or licensing of medical practitioners.
 
                     <a name="member-below-non-commiss-rank"></a>**_member below non-commissioned rank_** means a member of the Defence Force who is not an officer, a warrant officer or a non-commissioned officer.
-
-                    <a name="militari-judg"></a>**_Military Judge_** means:
-
-                     (a)  a person appointed under section 188AP; and
-
-                    (aa)  except in Divisions 2 and 2A of Part XI, a person appointed as an acting Military Judge under section 188BB; and
-
-                     (b)  except in section 188AN and Division 2A of Part XI, the Chief Military Judge.
-
-                    <a name="militari-juri"></a>**_military jury_** means a jury constituted in accordance with this Act (including the Australian Military Court Rules) for the trial of a charge of a service offence that is to be tried by a Military Judge and military jury.
 
                     <a name="mutini"></a>**_mutiny_** means a combination between persons who are, or of whom at least 2 are, members of the Defence Force:
 
@@ -1094,7 +1028,9 @@ that relates to the first Territory offence.
 
                      (b)  a sailor, soldier or airman who is a member of a police corps or service.
 
-                    <a name="prescrib-acquitt"></a>**_prescribed acquittal_** means an acquittal of a service offence by the Australian Military Court on the ground of unsoundness of mind.
+                    <a name="prescrib-acquitt"></a>**_prescribed acquittal_** means an acquittal of a service offence by a court martial or a Defence Force magistrate on the ground of unsoundness of mind.
+
+                    <a name="presid"></a>**_President_**, in relation to a court martial, means the President of the court martial.
 
                     <a name="previou-servic-law"></a>**_previous service law_** means the following laws as in force at any time during the period of 3 years that ended on the day immediately before the proclaimed date:
 
@@ -1148,7 +1084,7 @@ that relates to the first Territory offence.
 
                     <a name="receiv"></a>**_receive_**, in relation to property, includes handle, retain, remove, dispose of or realize the property.
 
-                    <a name="registrar"></a>**_Registrar_** means the Registrar of the Australian   Military Court appointed under section 188FB.
+                    <a name="registrar-militari-justic"></a>**_Registrar of Military Justice_** means the Registrar of Military Justice appointed under section 188FB.
 
                     <a name="relev-territori-offenc"></a>**_relevant Territory offence_**, in relation to an offence against section 61, means the Territory offence on which the offence against section 61 is based.
 
@@ -1162,7 +1098,7 @@ that relates to the first Territory offence.
 
                     <a name="review-author"></a>**_reviewing authority_** means a reviewing authority appointed under section 150.
 
-                    <a name="rule-procur"></a>**_rules of procedure_** means the Australian Military Court Rules and the Summary Authority Rules.
+                    <a name="rule-procur"></a>**_rules of procedure_** means rules of procedure in force under section 149.
 
                     <a name="sailor"></a>**_sailor_** means a member of the Australian Navy, not being an officer.
 
@@ -1200,7 +1136,7 @@ that relates to the first Territory offence.
 
 and **_service aircraft_**, **_service armoured vehicle_**, **_service missile_**,**_service ship_**, **_service vehicle_** and **_service weapon_** have corresponding meanings.
 
-                    <a name="servic-tribun"></a>**_service tribunal_** means the Australian   Military Court or a summary authority.
+                    <a name="servic-tribun"></a>**_service tribunal_** means a court martial, a Defence Force magistrate or a summary authority.
 
                     <a name="ship"></a>**_ship_** means a vessel or boat of any description, and includes:
 
@@ -1219,8 +1155,6 @@ and **_service aircraft_**, **_service armoured vehicle_**, **_service missile_*
                      (b)  a commanding officer; or
 
                      (c)  a subordinate summary authority.
-
-                    <a name="summari-author-rule"></a>**_Summary Authority Rules_** means the rules made under section 149.
 
                     <a name="superior-author"></a>**_superior authority_** means a superior authority appointed under section 5A.
 
@@ -1241,8 +1175,6 @@ Note 2:       Paragraph (b) of this definition includes an offence
 Note 3:       The laws of the Australian Capital Territory in force in the Jervis Bay Territory apply, and Chapter 2 of the _Criminal Code_ does not apply, for the purpose of determining criminal liability for offences referred to in paragraph (b) of this definition.
 
                     <a name="enemi"></a>**_the enemy_** means a body politic or an armed force engaged in operations of war against Australia or an allied force and includes any force (including mutineers and pirates) engaged in armed hostilities against the Defence Force or an allied force.
-
-                    <a name="video-link"></a>**_video link_** means facilities (for example, closed-circuit television facilities) that enable audio and visual communication between persons in different places.
 
                     <a name="warrant-offic"></a>**_warrant officer_** means a sailor, soldier or airman who holds the rank of warrant officer.
 
@@ -1346,7 +1278,7 @@ the detainee shall be taken, for the purposes of this Act, to have escaped from 
 
                    The Chief of the Defence Force or a service chief may, by instrument in writing, appoint an officer, or each officer included in a class of officers, to be a superior authority for the purpose of:
 
-                     (a)  representing the interests of the Defence Force in relation to charges that are being considered by the Director of Military Prosecutions for possible trial by the Australian Military Court; and
+                     (a)  representing the interests of the Defence Force in relation to charges that are being considered by the Director of Military Prosecutions for possible trial by a Defence Force magistrate or a court martial; and
 
                      (b)  exercising the powers and performing the functions conferred on superior authorities by or under this Act or the regulations.
 
@@ -2882,23 +2814,19 @@ Note:          The defendant bears a legal burden in relation 
 
              (4)  A person who is a defence member or a defence civilian is guilty of an offence if the person:
 
-                     (a)  insults a member of a military jury, a Military Judge or a summary authority in, or in relation to, the exercise of his or her powers or functions as such a member, Judge or authority; or
+                     (a)  insults a member of a court martial, a judge advocate, a Defence Force magistrate or a summary authority in or in relation to the exercise of his or her powers or functions as such a member, judge advocate, magistrate or authority; or
 
                      (b)  interrupts the proceedings of a service tribunal; or
 
                      (c)  creates a disturbance or takes part in creating or continuing a disturbance in or near a place where a service tribunal is sitting; or
 
-                     (d)  engages in any other conduct that:
-
-                              (i)  in the case of the Australian   Military Court—constitutes a contempt of that court; and
-
-                             (ii)  in the case of a service tribunal other than the Australian Military Court—would, if the service tribunal were a court of record, constitute a contempt of that court.
+                     (d)  engages in any other conduct that would, if a service tribunal were a court of record, constitute a contempt of that court.
 
                     Maximum punishment:        Imprisonment for 6 months.
 
-             (5)  If an offence under subsection (4) is committed by a person in relation to the Australian Military Court during proceedings before the Court, the Court, if it considers it expedient to do so, may then and there order that the person be taken into custody and call on the person to show cause why the person should not be convicted of the offence.
+             (5)  If an offence under subsection (4) is committed by a person in relation to a service tribunal that is a court martial or a Defence Force magistrate, during proceedings before the tribunal, the tribunal, if it considers it expedient to do so, may then and there order that the person be taken into custody and call on the person to show cause why the person should not be convicted of the offence.
 
-             (6)  If the Australian Military Court convicts a person under subsection (5), the maximum punishment for the offence is detention for 21 days.
+             (6)  If a service tribunal convicts a person under subsection (5), the maximum punishment for the offence is detention for 21 days.
 
              (7)  An offence under this section is an offence of strict liability.
 
@@ -3326,9 +3254,9 @@ then, notwithstanding anything contained in the _Crimes Act 1914_, the punishmen
 
              (2)  In this section, **_order_** means a restitution order, a reparation order or an order under subsection 75(1).
 
-##### <a id="67"></a>67  Authorised punishments
+##### <a id="67"></a>67  Authorised punishments
 
-             (1)  The Australian Military Court must not impose a punishment in respect of a conviction except in accordance with this Part and Schedule 2.
+             (1)  A court martial or a Defence Force magistrate shall not impose a punishment in respect of a conviction except in accordance with this Part and Schedule 2.
 
              (2)  A summary authority shall not impose a punishment in respect of a conviction except in accordance with this Part, Schedule 3 and Schedule 3A.
 
@@ -3602,25 +3530,29 @@ the tribunal may, subject to section 131, if it is satisfied that, by reason o
 
 ##### <a id="77"></a>77  Taking other offences into consideration
 
-             (1)  Where a convicted person requests the Australian   Military Court to take into consideration, for the purposes of this Part, any other service offence:
+             (1)  Where a convicted person requests a court martial or a Defence Force magistrate to take into consideration, for the purposes of this Part, any other service offence:
 
                      (a)  that is similar to the service offence of which the person has been convicted;
 
-                     (b)  that the Court has jurisdiction to try; and
+                     (b)  that the tribunal has jurisdiction to try; and
 
                      (c)  that the person admits having committed;
 
-the Court, with the consent of the prosecution, may take the other service offence into consideration.
+the court martial or the Defence Force magistrate, with the consent of the prosecution, may take the other service offence into consideration.
 
-             (2)  The Australian Military Court must not impose a separate punishment or make a separate order under subsection 75(1) in respect of a service offence that it has taken into consideration under subsection (1).
+             (2)  A court martial or a Defence Force magistrate shall not impose a separate punishment or make a separate order under subsection 75(1) in respect of a service offence that it has taken into consideration under subsection (1).
 
-             (3)  If the Australian Military Court does not take a service offence into consideration under subsection (1) because:
+             (3)  Where:
 
-                     (a)  the prosecution did not give its consent; or
+                     (a)  a court martial or a Defence Force magistrate does not take a service offence into consideration under subsection (1) by reason of:
 
-                     (b)  the Court rejected the convicted person’s request;
+                              (i)  the withholding of consent by the prosecution; or
 
-an admission for the purposes of paragraph (1)(c) in relation to that service offence is not admissible as evidence in:
+                             (ii)  the rejection of the convicted person’s request; or
+
+                     (b)  a reviewing authority, under subsection 162(2), annuls the taking into consideration by a court martial or a Defence Force magistrate of a service offence;
+
+                   an admission under and for the purposes of paragraph (1)(c) in relation to that service offence is not admissible as evidence in:
 
                      (c)  any other proceeding before a service tribunal in respect of that service offence; or
 
@@ -3644,13 +3576,13 @@ an admission for the purposes of paragraph (1)(c) in relation to that service 
 
 ##### <a id="80"></a>80  Revocation of suspension of punishment
 
-             (1)  Subject to subsection (2), where a person convicted of a service offence by a service tribunal is already subject to a punishment that is suspended, the tribunal may revoke the suspension and, in that event, the punishment that was suspended shall, subject to subsection 172(2), take effect as if it had been imposed at the time of the revocation.
+             (1)  Subject to subsection (2), where a person convicted of a service offence by a service tribunal is already subject to a punishment that is suspended, the tribunal may revoke the suspension and, in that event, the punishment that was suspended shall, subject to subsections 172(1) and (2), take effect as if it had been imposed at the time of the revocation.
 
              (2)  A service tribunal shall not revoke the suspension of a punishment if the tribunal would not have had power to impose the punishment if it had convicted the person of the service offence for which the punishment was imposed.
 
              (3)  Where, by virtue of subsection (2), a service tribunal is not empowered to revoke a suspension that it considers should be revoked, the tribunal may recommend to a reviewing authority that the suspension be revoked by that authority.
 
-             (4)  Where, under subsection (3), a service tribunal recommends to a reviewing authority that a suspension of a punishment be revoked, the authority may revoke the suspension and, in that event, the punishment that was suspended shall, subject to subsection 172(2), take effect as if it had been imposed at the time of the revocation.
+             (4)  Where, under subsection (3), a service tribunal recommends to a reviewing authority that a suspension of a punishment be revoked, the authority may revoke the suspension and, in that event, the punishment that was suspended shall, subject to subsections 172(1) and (2), take effect as if it had been imposed at the time of the revocation.
 
 ##### <a id="81"></a>81  Remission of suspended punishment
 
@@ -3758,7 +3690,11 @@ the service tribunal may order that, on the restitution by the other person of t
 
                               (i)  if the charge is a charge that is within the jurisdiction of a superior summary authority or a commanding officer to try—refer the charge to a superior summary authority or a commanding officer for trial under section 106 or 107;
 
-                             (ii)  request the Registrar to refer the charge to the Australian Military Court for trial;
+                             (ii)  request the Registrar of Military Justice to refer the charge to a Defence Force magistrate for trial;
+
+                            (iii)  request the Registrar of Military Justice to convene a court martial to try the charge.
+
+Note:          A charge referred to a Defence Force magistrate must be referred to the magistrate nominated by the Judge Advocate General: see subsection 129C(1).
 
           (1A)  To avoid doubt, the powers of the Director of Military Prosecutions under paragraph (1)(c) are in addition to, and not in substitution for, his or her powers under paragraphs (1)(a) and (b).
 
@@ -3780,7 +3716,7 @@ the service tribunal may order that, on the restitution by the other person of t
 
 ##### <a id="88"></a>88  Arrest, summons etc. where accused person not present at hearing before service tribunal
 
-             (1)  Where an accused person is not present at a hearing before a service tribunal (otherwise than by reason of an order under subsection 139(2)), an authorized officer or the Registrar may:
+             (1)  Where an accused person is not present at a hearing before a service tribunal (otherwise than by reason of an order under subsection 139(2)), an authorized officer or the Registrar of Military Justice may:
 
                      (a)  if the accused person is a defence member—order the accused person to appear before the service tribunal for any purpose relating to the charge against the person; or
 
@@ -3790,7 +3726,7 @@ the service tribunal may order that, on the restitution by the other person of t
 
                              (ii)  issue a warrant for the arrest of the accused person.
 
-          (1A)  The Registrar may carry out an action under subsection (1) only if the Australian Military Court directs the Registrar to carry out the action.
+          (1A)  The Registrar of Military Justice may carry out an action under subsection (1) only if a judge advocate or a Defence Force magistrate directs the Registrar of Military Justice to carry out the action.
 
              (2)  A summons under paragraph (1)(b) shall be served on the person to whom it is directed in a manner specified in the regulations.
 
@@ -4296,7 +4232,7 @@ and the investigating officer must defer the questioning for a reasonable time t
 
              (5)  A reference in this section to a person in custody in respect of a service offence shall be read:
 
-                     (a)  as not including a reference to a person who is undergoing a punishment of detention or imprisonment in respect of the service offence or is in custody under subsection 172(5) in respect of the service offence; and
+                     (a)  as not including a reference to a person who is undergoing a punishment of detention or imprisonment in respect of the service offence or is in custody under subsection 172(3A), (4) or (5) in respect of the service offence; and
 
                      (b)  as including a reference to a person (other than a person referred to in paragraph (a)) who is being, or will be, interviewed by an investigating officer in connection with the investigation of the service offence and has been given a caution of a kind referred to in subsection 101C(2).
 
@@ -4368,7 +4304,7 @@ the member of the Defence Force shall, forthwith, take such reasonable action as
 
 ##### <a id="101J"></a>101J  Admissibility of confessional evidence
 
-             (1)  Evidence of a confession made by a person in the presence of an investigating officer is not admissible in proceedings against the person for a service offence unless the service tribunal is satisfied that the confession was made voluntarily.
+             (1)  Evidence of a confession made by a person in the presence of an investigating officer is not admissible in proceedings against the person for a service offence unless the service tribunal, or, in the case of a court martial, the judge advocate of the court martial, is satisfied that the confession was made voluntarily.
 
              (2)  For the purposes of subsection (1), a confession that is obtained from a person in consequence of:
 
@@ -4404,19 +4340,11 @@ shall be deemed not to be made voluntarily.
 
                      (c)  if a transcript of the tape recording is prepared—make a copy of the transcript available to the person or his or her legal representative within 7 days after the preparation of the transcript.
 
-             (3)  In proceedings for a service offence, evidence to which this section applies may be admitted even if the requirements of this section have not been complied with, or there is insufficient evidence of compliance with those requirements, if, having regard to the nature of and the reasons for the non-compliance or insufficiency of evidence and any other relevant matters, the service tribunal is satisfied that, in the special circumstances of the case, admission of the evidence would not be contrary to the interests of justice.
+             (3)  In proceedings for a service offence, evidence to which this section applies may be admitted even if the requirements of this section have not been complied with, or there is insufficient evidence of compliance with those requirements, if, having regard to the nature of and the reasons for the non-compliance or insufficiency of evidence and any other relevant matters, the service tribunal, or, in the case of a court martial, the judge advocate of the court martial, is satisfied that, in the special circumstances of the case, admission of the evidence would not be contrary to the interests of justice.
 
-             (4)  In proceedings for a service offence, evidence to which this section applies may be admitted even if a provision of subsection (2) has not been complied with if, having regard to the reasons for the non-compliance and any other relevant matters, the service tribunal is satisfied that it was not practicable to comply with that provision.
+             (4)  In proceedings for a service offence, evidence to which this section applies may be admitted even if a provision of subsection (2) has not been complied with if, having regard to the reasons for the non-compliance and any other relevant matters, the service tribunal, or, in the case of a court martial, the judge advocate of the court martial, is satisfied that it was not practicable to comply with that provision.
 
-             (5)  If proceedings are before a military jury and the Military Judge permits evidence to be given under subsection (3) or (4), the Judge must:
-
-                     (a)  inform the members of the military jury of:
-
-                              (i)  the non-compliance with the requirements of this section; or
-
-                             (ii)  the absence of sufficient evidence of compliance with the requirements of this section; and
-
-                     (b)  give the members such warning about the evidence as he or she thinks appropriate in the circumstances.
+             (5)  If the judge advocate of a court martial permits evidence to be given under subsection (3) or (4), the judge advocate must inform the members of the court martial of the non-compliance with the requirements of this section, or of the absence of sufficient evidence of compliance with those requirements, as the case may be, and give the members such warning about the evidence as he or she thinks appropriate in the circumstances.
 
              (6)  The explanation referred to in subparagraph (1)(b)(v) is to be in accordance with the following form:
 
@@ -4480,9 +4408,9 @@ and the requirements of subsections (5) and (6) are observed in respect of the
 
              (7)  For the purposes of subsection (1), the requirements of subsection (4) shall be taken to be complied with in respect of an interview if, where the explanation referred to in paragraph (4)(e) is given to the accused after paragraph (4)(a) has been complied with in respect of the interview, the actions of the accused prevent the following of the procedure that would, but for this subsection, be required to be followed for the purposes of compliance with paragraphs (4)(b), (c) and (d).
 
-             (8)  In proceedings against a person before a service tribunal, the burden of satisfying the service tribunal that, in relation to evidence to which this section applies, the requirements of this section have been complied with lies on the prosecution.
+             (8)  In proceedings against a person before a service tribunal, the burden of satisfying the service tribunal, or, in the case of a court martial, the judge advocate of the court martial, that, in relation to evidence to which this section applies, the requirements of this section have been complied with lies on the prosecution.
 
-             (9)  Subject to the power of a service tribunal to exclude evidence:
+             (9)  Subject to the power of a service tribunal, or, in the case of a court martial, the judge advocate of the court martial, to exclude evidence:
 
                      (a)  on the ground of unfairness to the accused;
 
@@ -4490,19 +4418,11 @@ and the requirements of subsections (5) and (6) are observed in respect of the
 
                      (c)  otherwise in the interests of justice;
 
-the prosecution is not prevented from leading evidence of a confession by reason only of anything said by the accused, during, or at the end of, the reading to the accused of a record in writing containing the confession, concerning the accuracy of the record, but, in proceedings before a military jury, this subsection does not prevent the Military Judge from giving directions to the members of the jury about the weight to be accorded to the statement as evidence.
+the prosecution is not prevented from leading evidence of a confession by reason only of anything said by the accused, during, or at the end of, the reading to the accused of a record in writing containing the confession, concerning the accuracy of the record, but this subsection does not prevent a judge advocate from directing the members of a court martial with respect to the weight to be accorded to the statement as evidence.
 
-           (10)  A service tribunal may admit evidence of a confession notwithstanding that the requirements of this section have not been complied with, or that there is insufficient evidence of compliance with those requirements, if, having regard to the nature of, and the reasons for, the non-compliance or insufficiency of evidence and any other relevant matters, the service tribunal is satisfied that, in the special circumstances of the case, admission of the evidence would not be contrary to the interests of justice.
+           (10)  A service tribunal, or, in the case of a court martial, the judge advocate of the court martial, may admit evidence of a confession notwithstanding that the requirements of this section have not been complied with, or that there is insufficient evidence of compliance with those requirements, if, having regard to the nature of, and the reasons for, the non-compliance or insufficiency of evidence and any other relevant matters, the service tribunal or the judge advocate, as the case may be, is satisfied that, in the special circumstances of the case, admission of the evidence would not be contrary to the interests of justice.
 
-           (11)  If proceedings are before a military jury and the Military Judge permits evidence to be given under subsection (10), the Judge must:
-
-                     (a)  inform the members of the jury of:
-
-                              (i)  the non-compliance with the requirements of this section; or
-
-                             (ii)  the absence of sufficient evidence of compliance with the requirements of this section; and
-
-                     (b)  give the members such warning about the evidence as he or she thinks appropriate in the circumstances.
+           (11)  Where the judge advocate of a court martial, in pursuance of subsection (10), permits evidence to be given before the members of the court martial, the judge advocate shall, if he or she considers that the interests of justice so require, inform the members of the court martial of the non-compliance with the requirements of this section, or of the absence of sufficient evidence of compliance with those requirements, and give the members of the court martial such warning concerning the evidence as he or she thinks appropriate in the circumstances.
 
            (12)  A reference in this section to a multiple sound recording apparatus is a reference to a sound recording apparatus:
 
@@ -4742,7 +4662,7 @@ the person having the custody of the report of the examination or the report of 
 
                      (a)  prevents a medical practitioner from examining, or taking a specimen from, a person at the request of the person or for the purpose of treating the person for illness or an injury; or
 
-                     (b)  affects the power of a service tribunal to exclude evidence obtained through unreasonable force or inhuman treatment.
+                     (b)  affects the power of a service tribunal, or, in the case of a court martial, the judge advocate of the court martial, to exclude evidence obtained through unreasonable force or inhuman treatment.
 
            (14)  In this section, **_specimen_**, in relation to a person, includes a sample of, or taken from, the body of the person.
 
@@ -5088,13 +5008,13 @@ and may seize any such thing found in the course of the search if:
 
 ##### <a id="101ZB"></a>101ZB  Exclusion of evidence illegally obtained
 
-             (1)  Where, in proceedings before a service tribunal in respect of a service offence, upon objection being taken to the admission of evidence on the ground that the evidence was obtained in contravention of, or in consequence of a contravention of, a provision of this Part, the service tribunal is satisfied, on the balance of probabilities but having regard to any provision of this Act or the regulations relating to proof of particular matters, that the evidence was so obtained, the service tribunal must not admit the evidence unless the service tribunal is of the opinion that:
+             (1)  Where, in proceedings before a service tribunal in respect of a service offence, upon objection being taken to the admission of evidence on the ground that the evidence was obtained in contravention of, or in consequence of a contravention of, a provision of this Part, the service tribunal, or, in the case of a court martial, the judge advocate of the court martial, is satisfied, on the balance of probabilities but having regard to any provision of this Act or the regulations relating to proof of particular matters, that the evidence was so obtained, the service tribunal or judge advocate, as the case may be, shall not admit the evidence unless the service tribunal or judge advocate, as the case may be, is of the opinion that:
 
                      (a)  admission of the evidence would substantially benefit the public interest in the administration of justice; and
 
                      (b)  this benefit would outweigh any prejudice to the rights and freedoms of any person, including the accused person, that has occurred, or is likely to occur, as a result of the contravention or the admission of the evidence.
 
-             (2)  The matters that the service tribunal may have regard to in deciding whether to admit the evidence include:
+             (2)  The matters that the service tribunal or judge advocate, as the case may be, may have regard to in deciding whether to admit the evidence include:
 
                      (a)  the seriousness of the service offence, the urgency and difficulty of detecting the offender and the need to preserve evidence of the facts;
 
@@ -5106,9 +5026,9 @@ and may seize any such thing found in the course of the search if:
 
                      (e)  the extent to which the evidence might have been obtainable lawfully.
 
-             (3)  This section is in addition to, and not in substitution for, any other law or rule under which a service tribunal may refuse to admit evidence.
+             (3)  This section is in addition to, and not in substitution for, any other law or rule under which a service tribunal, or, in the case of a court martial, the judge advocate of the court martial, may refuse to admit evidence.
 
-             (4)  Subsection (3) shall not be taken to authorize a service tribunal, in proceedings in respect of a service offence, to refuse to admit a statement in evidence on the ground that an investigating officer contravened the rules known as the Judge’s Rules.
+             (4)  Subsection (3) shall not be taken to authorize a service tribunal or judge advocate, in proceedings in respect of a service offence, to refuse to admit a statement in evidence on the ground that an investigating officer contravened the rules known as the Judge’s Rules.
 
              (5)  Nothing in this section derogates from the application of section 101J or 101K.
 
@@ -5128,33 +5048,41 @@ and may seize any such thing found in the course of the search if:
 
 ##### <a id="103"></a>103  Courses open to Director of Military Prosecutions
 
-             (1)  Where a charge is referred to the Director of Military Prosecutions under subsection 105A(2), paragraph 109(b) or 110(1)(d), subsection 130(5) or 131(4), section 131A or subsection 141(8), 145(1) or (3) or 194(7), the Director of Military Prosecutions may:
+             (1)  Where a charge is referred to the Director of Military Prosecutions under subsection 105A(2), paragraph 109(b) or 110(1)(d), subsection 129A(3), 130(5) or 131(4), section 131A or subsection 141(8), 145(1) or (3) or 194(7), the Director of Military Prosecutions may:
 
                      (a)  direct that the charge be not proceeded with;
 
                      (b)  if the charge is a charge that is within the jurisdiction of a superior summary authority or a commanding officer to try (other than a charge referred under subsection 145(1) or (3))—refer the charge to the superior summary authority or the commanding officer for trial;
 
-                     (c)  request the Registrar to refer the charge to the Australian Military Court for trial.
+                     (c)  request the Registrar of Military Justice to refer the charge to a Defence Force magistrate for trial; or
 
-Note:          See also paragraph 87(1)(c) for additional powers that may be exercised by the Director of Military Prosecutions in relation to a charge.
+                     (d)  request the Registrar of Military Justice to convene a general court martial or a restricted court martial to try the charge.
+
+Note 1:       See also paragraph 87(1)(c) for additional powers that may be exercised by the Director of Military Prosecutions in relation to a charge.
+
+Note 2:       A charge referred to a Defence Force magistrate must be referred to the magistrate nominated by the Judge Advocate General: see subsection 129C(1).
 
              (2)  Where:
 
-                     (a)  a reviewing authority under section 160 orders a new trial of a person; or
+                     (a)  a reviewing authority under section 160 or 166 orders a new trial of a person; or
 
                      (b)  the Defence Force Discipline Appeal Tribunal or the Federal Court of Australia, under the _Defence Force Discipline Appeals Act 1955_ orders a new trial of a person;
 
 the Director of Military Prosecutions may:
 
-                     (c)  if the charge is a charge that is within the jurisdiction of a superior summary authority or a commanding officer to try—refer the charge to the superior summary authority or the commanding officer for trial;
+                     (c)  if the charge is a charge that is within the jurisdiction of a superior summary authority or a commanding officer to try (other than a charge to which an order under section 166 relates)—refer the charge to the superior summary authority or the commanding officer for trial;
 
-                     (d)  request the Registrar to refer the charge to the Australian Military Court for trial.
+                     (d)  request the Registrar of Military Justice to refer the charge to a Defence Force magistrate for trial; or
+
+                     (e)  request the Registrar of Military Justice to convene a general court martial or a restricted court martial to try the charge.
+
+Note:          A charge referred to a Defence Force magistrate must be referred to the magistrate nominated by the Judge Advocate General: see subsection 129C(1).
 
              (3)  Nothing in subsection (2) requires the Director of Military Prosecutions to proceed with a new trial of a person unless the Director of Military Prosecutions is satisfied that there is sufficient cogent evidence to justify a new trial of the person.
 
              (4)  Where under section 131:
 
-                     (a)  an accused person elects to be tried by the Australian Military Court; and
+                     (a)  an accused person elects to be tried by a Defence Force magistrate; and
 
                      (b)  the summary authority refers the charge to the Director of Military Prosecutions;
 
@@ -5162,15 +5090,45 @@ the Director of Military Prosecutions may:
 
                      (c)  direct that the charge be not proceeded with;
 
-                     (d)  request the Registrar to refer the charge to the Australian Military Court for trial.
+                     (d)  request the Registrar of Military Justice to refer the charge to a Defence Force magistrate for trial; or
 
-             (5)  If, under section 131:
+                     (e)  if no Defence Force magistrate is available or if the Director of Military Prosecutions considers that it would be more appropriate for the charge to be dealt with by a court martial—request the Registrar of Military Justice to convene a general court martial or a restricted court martial to try the charge.
 
-                     (a)  a convicted person elects to be punished by the Australian Military Court; and
+Note:          A charge referred to a Defence Force magistrate must be referred to the magistrate nominated by the Judge Advocate General: see subsection 129C(1).
+
+             (5)  Where under section 131:
+
+                     (a)  an accused person elects to be tried by a court martial; and
+
+                     (b)  the summary authority refers the charge to the Director of Military Prosecutions;
+
+the Director of Military Prosecutions may:
+
+                     (c)  direct that the charge be not proceeded with; or
+
+                     (d)  request the Registrar of Military Justice to convene a general court martial or a restricted court martial to try the charge.
+
+             (6)  Where under section 131:
+
+                     (a)  a convicted person elects to be punished by a Defence Force magistrate; and
 
                      (b)  the summary authority refers the conviction to the Director of Military Prosecutions;
 
-the Director of Military Prosecutions must request the Registrar to refer the conviction to the Court to take action under Part IV in relation to the convicted person.
+the Director of Military Prosecutions may:
+
+                     (c)  request the Registrar of Military Justice to refer the case to a Defence Force magistrate to take action under Part IV in relation to the convicted person; or
+
+                     (d)  if no Defence Force magistrate is available or if the Director of Military Prosecutions considers that it would be more appropriate for the matter to be dealt with by a court martial—request the Registrar of Military Justice to convene a general court martial or a restricted court martial to take action under Part IV in relation to the convicted person.
+
+Note:          A case referred to a Defence Force magistrate must be referred to the magistrate nominated by the Judge Advocate General: see subsection 129C(2).
+
+             (7)  Where under section 131:
+
+                     (a)  a convicted person elects to be punished by a court martial; and
+
+                     (b)  the summary authority refers the conviction to the Director of Military Prosecutions;
+
+the Director of Military Prosecutions must request the Registrar of Military Justice to convene a general court martial or a restricted court martial to take action under Part IV in relation to the convicted person.
 
 ### Division 2—Summary authorities
 
@@ -5312,159 +5270,255 @@ a summary authority who subsequently deals with the charge shall deal with the c
 
              (2)  In this section, **_detachment_** means an organized body of members of the Defence Force that is declared by an authorized officer, by instrument in writing, to be a detachment for the purposes of this section, and includes an organized body of members of the Defence Force that is so separated from the unit of the Defence Force to which it belongs that the commanding officer of the unit could not effectively exercise disciplinary powers with respect to that body of members.
 
-### Division 3—Australian Military Court
+### Division 3—Courts martial
 
-##### <a id="114"></a>114  Creation of the Australian Military Court
+##### <a id="114"></a>114  Types of court martial
 
-             (1)  A court, to be known as the Australian   Military Court, is created by this Act.
+             (1)  A court martial shall be either a general court martial or a restricted court martial.
 
-Note 1:       The Australian Military Court is not a court for the purposes of Chapter III of the Constitution.
+             (2)  A general court martial shall consist of a President and not less than 4 other members.
 
-Note 2:       The Australian Military Court is a service tribunal for the purposes of this Act: see the definition of **_service tribunal_** in subsection 3(1).
+             (3)  A restricted court martial shall consist of a President and not less than 2 other members.
 
-          (1A)  The Australian Military Court is a court of record.
+##### <a id="115"></a>115  Jurisdiction of court martial
 
-             (2)  The Australian Military Court consists of:
+             (1)  A court martial has, subject to section 63 and to subsection (1A) of this section, jurisdiction to try any charge against any person.
 
-                     (a)  the Chief Military Judge; and
+          (1A)  A court martial does not have jurisdiction to try a charge of a custodial offence.
 
-                     (b)  such other Military Judges as from time to time hold office in accordance with this Act.
+             (2)  A court martial has jurisdiction to take action under Part IV in relation to a convicted person if it has been convened under subsection 103(6) or (7) or 125(6) or 129A(4) for that purpose.
 
-##### <a id="115"></a>115  Jurisdiction
+             (3)  A court martial, before taking action under subsection (2), shall hear evidence relevant to the determination of what action should be taken.
 
-             (1)  Subject to section 63, the Australian   Military Court has jurisdiction to try any charge against any person.
+##### <a id="116"></a>116  Eligibility to be member of court martial
 
-             (2)  However, the Australian Military Court does not have jurisdiction to try a charge of a custodial offence.
+             (1)  For the purposes of this Act, a person is eligible to be a member, or a reserve member, of a court martial if, and only if:
 
-             (3)  The Australian Military Court has jurisdiction to take action under Part IV in relation to a convicted person if the conviction had been referred to the Court under subsection 103(5) for that purpose.
+                     (a)  the person is an officer;
 
-             (4)  Before taking action under subsection (3), the Australian Military Court must hear evidence relevant to the determination of what action should be taken.
+                     (b)  the person has been an officer for a continuous period of not less than 3 years or for periods amounting in the aggregate to not less than 3 years; and
 
-##### <a id="116"></a>116  Exercise of jurisdiction
+                     (c)  the person holds a rank that is not lower than the rank held by the accused person (being a member of the Defence Force) or by any of the accused persons (being members of the Defence Force).
 
-             (1)  For the purposes of the exercise of the jurisdiction of the Australian Military Court, the Court is to be constituted by a single Military Judge.
+             (2)  For the purposes of this Act, an officer is eligible to be President of a court martial if, and only if, the officer holds a rank that is not lower than:
 
-             (2)  The Australian Military Court constituted by a Military Judge may sit and exercise the jurisdiction of the Court even if the Court constituted by another Military Judge is at the same time sitting and exercising the jurisdiction of the Court.
+                     (a)  in the case of a general court martial—the naval rank of captain or the rank of colonel or group captain; or
 
-##### <a id="117"></a>117  Venue
+                     (b)  in the case of a restricted court martial—the rank of commander, lieutenant-colonel or wing commander.
 
-             (1)  The Australian Military Court may sit at any place in or outside Australia.
+          (2A)  Subsection (2) does not apply in relation to a person who becomes President of a court martial in pursuance of:
 
-             (2)  The Australian Military Court may, at any stage of proceedings in the Court, order that:
+                     (a)  an appointment made by virtue of paragraph 124(1)(e); or
 
-                     (a)  the proceedings; or
+                     (b)  subsection 126(1).
 
-                     (b)  a part of the proceedings;
+             (3)  The requirements set out in paragraph (1)(c) and subsection (2) apply only if, and to the extent that, the exigencies of service permit.
 
-be conducted or continued at a place specified in the order, subject to such conditions (if any) as the Court imposes.
+##### <a id="117"></a>117  Eligibility to be judge advocate
 
-##### <a id="118"></a>118  Referral of cases to the Australian Military Court and nomination of Military Judges
+                   For the purposes of this Act, a person is eligible to be the judge advocate of a court martial if, and only if, the person is a member of the judge advocates’ panel.
 
-Referral of charges
+##### <a id="119"></a>119  Convening order
 
-             (1)  The Registrar must refer a charge to the Australian   Military Court if the Director of Military Prosecutions requests the Registrar to do so.
+             (1)  The Registrar of Military Justice must, in an order convening a court martial:
 
-             (2)  The Chief Military Judge must nominate the Military Judge who is to try the charge.
+                     (a)  appoint:
 
-Referral of convictions
+                              (i)  the President and the other members;
 
-             (3)  The Registrar must refer a conviction to the Australian Military Court to take action under Part IV in relation to a convicted person if the Director of Military Prosecutions requests the Registrar to do so.
+                             (ii)  an adequate number of reserve members; and
 
-             (4)  The Chief Military Judge must nominate the Military Judge who is to take action in relation to the person.
+                            (iii)  the judge advocate; and
 
-##### <a id="119"></a>119  Seal of the Australian Military Court
+                     (b)  fix, or provide for the fixing of, the time and place for the assembling of the court martial.
 
-             (1)  The Australian Military Court is to have a seal, and the design of the seal is to be determined in writing by the Minister.
+Note:          The Registrar of Military Justice must not appoint a person as the judge advocate of a court martial unless the person has been nominated by the Judge Advocate General: see section 129B.
 
-             (2)  The seal of the Australian Military Court must be kept in such custody as the Chief Military Judge directs.
+             (2)  At any time before a court martial assembles to try a charge, the Registrar of Military Justice may:
 
-             (3)  The seal of the Australian Military Court must be affixed to documents as provided by this or any other Act or by the Australian Military Court Rules.
+                     (a)  vary the order convening the court martial; or
 
-             (4)  A determination made under subsection (1) is not a legislative instrument.
+                     (b)  make an order under subsection (1) convening a new court martial.
 
-##### <a id="120"></a>120  Stamp of the Australian Military Court
+##### <a id="120"></a>120  Convening order to be notified to accused person
 
-             (1)  There are to be one or more Australian   Military Court stamps. For this purpose, an **_Australian Military Court_****_stamp_** is a stamp the design of which is, as nearly as practicable, the same as the design of the seal of the Australian Military Court.
+             (1)  The Registrar of Military Justice must, as soon as practicable after he or she makes an order convening a court martial for the purpose of trying an accused person (including an order made by virtue of subsection 119(2)), cause a copy of that order to be given to the accused person.
 
-             (2)  A document or a copy of a document marked with an Australian Military Court stamp is as valid and effectual as if it had been sealed with the seal of the Australian Military Court.
+             (2)  If an order convening a court martial is subsequently varied, the Registrar of Military Justice must notify the accused person accordingly.
 
-             (3)  An Australian Military Court stamp must be affixed to documents as provided by this or any other Act or by the Australian Military Court Rules.
+##### <a id="121"></a>121  Objection on ground of ineligibility etc.
 
-##### <a id="121"></a>121  Staff of the Australian Military Court
+                   At any time before a court martial is sworn or affirmed, the accused person may lodge an objection with the Registrar of Military Justice to any member or reserve member of the court martial or to the judge advocate on the ground that the member or judge advocate:
 
-                   The staff necessary to assist the Australian   Military Court are to be the following:
+                     (a)  is ineligible;
 
-                     (a)  defence members made available for the purpose by the appropriate service chief;
+                     (b)  is, or is likely to be, biased; or
 
-                     (b)  persons engaged under the _Public Service Act 1999_ and made available for the purpose by the Secretary of the Department.
+                     (c)  is likely to be thought, on reasonable grounds, to be biased.
 
-### Division 4—Military jury
+##### <a id="122"></a>122  Notification of belief of bias
 
-##### <a id="122"></a>122  Constitution of a military jury
+                   A member or reserve member, or the judge advocate, of a court martial who believes himself or herself:
 
-             (1)  There are to be:
+                     (a)  to be biased, or likely to be biased; or
 
-                     (a)  12 members on a military jury for a trial of a class 1 offence; and
+                     (b)  likely to be thought, on reasonable grounds, to be biased;
 
-                     (b)  6 members on a military jury for a trial of a class 2 offence or class 3 offence.
+shall notify the Registrar of Military Justice forthwith.
 
-             (2)  At least one member of the jury must hold a rank that is not lower than the naval rank of commander or the rank of lieutenant-colonel or wing commander.
+##### <a id="123"></a>123  Substitution of members etc.
 
-             (3)  The requirements of subsection (2) apply only if, and to the extent that, the exigencies of service permit.
+                   At any time before a court martial is sworn or affirmed, the Registrar of Military Justice may revoke the appointment of an officer to be a member or reserve member of the court martial or the judge advocate and appoint an officer to be a member or reserve member or the judge advocate, as the case may be, in the place of that first-mentioned officer.
 
-##### <a id="123"></a>123  Eligibility to be a member of a military jury
+Note:          The Registrar of Military Justice must not appoint a person as the judge advocate of a court martial unless the person has been nominated by the Judge Advocate General: see section 129B.
 
-Eligibility where accused is an officer or a defence civilian
+##### <a id="124"></a>124  Replacement of members etc.
 
-             (1)  Where the accused person is an officer or a defence civilian, a person is eligible to be a member, or a reserve member _,_ of a military jury for the trial of the accused person if:
+             (1)  Where, after a court martial has assembled but before it is sworn or affirmed, the judge advocate:
 
-                     (a)  the person is an officer; and
+                     (a)  finds that a member of the court martial who has not appeared at the place of assembly is not, or is not likely to be, available;
 
-                     (b)  the person has been an officer for a continuous period of not less than 3 years or for periods that total no less than 3 years; and
+                     (b)  upholds an objection entered under subsection 141(2) to a member of the court martial; or
 
-                     (c)  if the accused person is an officer—the person holds a rank that is not lower than the rank held by the accused person.
+                     (c)  finds that, for some other reason, a member of the court martial should be excused from further attendance as such a member;
 
-Eligibility where accused is not an officer or a defence civilian
+the judge advocate shall:
 
-             (2)  Where the accused person is not an officer or a defence civilian, a person is eligible to be a member, or a reserve member, of a military jury for the trial of the accused person if:
+                     (d)  where the member concerned is not the President—appoint a reserve member in the place of that member;
 
-                     (a)  the person:
+                     (e)  where the member concerned is the President and the next senior member is not more than one rank junior to the President—appoint that next senior member to be the President in the place of the member concerned; or
 
-                              (i)  is an officer; or
+                      (f)  where the member concerned is the President and the next senior member is more than one rank junior to the President—report the situation to the Registrar of Military Justice and request the Registrar of Military Justice to appoint a President in the place of the member concerned.
 
-                             (ii)  holds a rank not lower than the naval rank of warrant officer, the army rank of warrant officer class 1, or the air force rank of warrant officer; and
+             (2)  Where, after a court martial has assembled but before it is sworn or affirmed, the judge advocate finds that there are insufficient members and reserve members properly to constitute the court martial, the judge advocate shall report the situation to the Registrar of Military Justice and request the Registrar of Military Justice to appoint as many new members or new reserve members, or both, as the Registrar of Military Justice considers necessary.
 
-                     (b)  the person has been an officer, or held a rank not lower than warrant officer or warrant officer class 1, for a continuous period of not less than 3 years or for periods that total no less than 3 years.
+             (3)  Where the judge advocate upholds an objection entered under subsection 141(3) to himself or herself, he or she shall report the situation to the Registrar of Military Justice and request the Registrar of Military Justice to appoint another judge advocate in his or her place.
 
-             (3)  The requirements of this section apply only if, and to the extent that, the exigencies of service permit.
+Note:          The Registrar of Military Justice must not appoint a person as a judge advocate of a court martial unless the person has been nominated by the Judge Advocate General: see section 129B.
 
-##### <a id="124"></a>124  Determination of questions by a military jury
+##### <a id="125"></a>125  Dissolution of court martial
 
-             (1)  In a trial of a charge of a service offence that is to be tried by Military Judge and military jury, the military jury is responsible for deciding the questions whether the accused person:
+             (1)  Where, after a court martial has assembled but before it is sworn or affirmed, the judge advocate considers that by reason of the exigencies of service or for any other reason it is desirable to do so, he or she may direct the Registrar of Military Justice to dissolve the court martial.
 
-                     (a)  is guilty or not guilty of the offence; and
+             (2)  Where:
 
-                     (b)  at the time of the act or omission the subject of the charge, was suffering from such unsoundness of mind as not to be responsible, in accordance with law, for that act or omission.
+                     (a)  at any time after a court martial is sworn or affirmed, there is an insufficient number of members properly to constitute the court martial; or
 
-             (2)  A decision of a military jury on the questions in subsection (1) is to be made by:
+                     (b)  at any time after the accused person’s plea of guilty or not guilty has been recorded by a court martial, the judge advocate is unable to attend;
 
-                     (a)  unanimous agreement of the jury members; or
+the Registrar of Military Justice must dissolve the court martial.
 
-                     (b)  if the conditions in subsection (3) are met—five-sixths majority agreement of the jury members.
+             (3)  Where, at any time after a court martial is sworn or affirmed, the judge advocate considers that, in the interests of justice, the court martial should be dissolved, the judge advocate must direct the Registrar of Military Justice to dissolve the court martial.
 
-             (3)  The conditions are:
+             (4)  Where:
 
-                     (a)  the jury has deliberated for at least 8 hours; and
+                     (a)  a court martial has adjourned the hearing of the proceedings before it; and
 
-                     (b)  the jury does not have unanimous agreement after that time but does have five-sixths majority agreement; and
+                     (b)  the judge advocate considers that, by reason of the exigencies of service, it will not be practicable to continue the hearing of the proceedings at a later date;
 
-                     (c)  the Australian Military Court is satisfied that:
+the judge advocate must direct the Registrar of Military Justice to dissolve the court martial.
 
-                              (i)  the period of time for deliberation is reasonable, having regard to the nature and complexity of the case; and
+             (5)  Where a court martial is dissolved under subsection (1), (2), (3) or (4), the Director of Military Prosecutions may request the Registrar of Military Justice to convene another court martial in its stead.
 
-                             (ii)  after examination on oath or affirmation of one or more of the jurors, it is unlikely that the jurors would reach unanimous agreement after further deliberation.
+             (6)  Where a court martial is dissolved as mentioned in subsection (2), (3) or (4) after it has convicted a person but before it has taken action under Part IV in relation to the convicted person, the Registrar of Military Justice may convene another court martial for the purpose of taking such action.
 
-             (4)  A military jury must sit without any other person present when deciding the questions in subsection (1).
+             (7)  A court martial, before taking action under subsection (6), shall hear evidence relevant to the determination of what action should be taken.
+
+             (8)  For the purposes of this Part, a member of a court martial convened under subsection (6) shall not be taken to be biased by reason only of his or her having been a member of the court martial that was dissolved as mentioned in that subsection.
+
+##### <a id="126"></a>126  Inability to attend after plea
+
+             (1)  Where the President is unable to attend at any time after the accused person’s plea of not guilty or guilty has been recorded by a court martial, the next senior member shall become the President of the court martial and the first-mentioned President shall take no further part in the proceedings.
+
+             (2)  Where a member of a court martial is unable to attend at any time after the accused person’s plea of not guilty or guilty has been recorded by a court martial, that member shall take no further part in the proceedings.
+
+### Division 4—Defence Force magistrates
+
+##### <a id="127"></a>127  Appointment of Defence Force magistrates
+
+             (1)  The Judge Advocate General may, by instrument in writing, appoint officers to be Defence Force magistrates.
+
+             (2)  An officer is not eligible to be a Defence Force magistrate unless the officer is a member of the judge advocates’ panel.
+
+Note:          A member of the judge advocates’ panel is appointed for a maximum period of 3 years but is eligible for reappointment: see subsection 196(2A).
+
+##### <a id="128"></a>128  Oath or affirmation of Defence Force magistrate
+
+             (1)  A Defence Force magistrate shall, before proceeding to discharge the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
+
+             (2)  An oath or affirmation under this section shall be made before the Judge Advocate General or an officer authorized, in writing, by the Judge Advocate General for the purpose.
+
+##### <a id="129"></a>129  Jurisdiction and powers of Defence Force magistrate
+
+             (1)  A Defence Force magistrate has the same jurisdiction and powers as a restricted court martial (including the powers of the judge advocate of a restricted court martial).
+
+             (2)  A Defence Force magistrate has jurisdiction to take action under Part IV in relation to a convicted person if the case has been referred to the magistrate under subsection 103(6) or 129A(4) for that purpose.
+
+             (3)  A Defence Force magistrate, before taking action under subsection (2), shall hear evidence relevant to the determination of what action should be taken.
+
+##### <a id="129A"></a>129A  Discontinuance of proceedings before Defence Force magistrate etc.
+
+             (1)  If a charge or case has been referred to a Defence Force magistrate under subparagraph 87(1)(c)(ii), section 103 or subsection (4) of this section, the Registrar of Military Justice must terminate the reference if:
+
+                     (a)  at a time before the Defence Force magistrate commences to try the charge or hear the case, it appears to the Registrar of Military Justice that, by reason of the exigencies of service, or for any other reason, it is desirable to terminate the reference; or
+
+                     (b)  at a time after the Defence Force magistrate commences to try the charge or hear the case:
+
+                              (i)  it appears to the Defence Force magistrate that it would not be in the interests of justice for the Defence Force magistrate to continue; and
+
+                             (ii)  the Defence Force magistrate directs the Registrar of Military Justice to terminate the reference.
+
+             (2)  Where:
+
+                     (a)  a charge or case has been referred to a Defence Force magistrate under subparagraph 87(1)(c)(ii), section 103 or subsection (4) of this section; and
+
+                     (b)  at a time after the Defence Force magistrate commences to try the charge or hear the case, the Defence Force magistrate is unable to conclude the trial of the charge or the hearing of the case because of death, illness, the exigencies of service or other circumstances;
+
+the Registrar of Military Justice must terminate the reference.
+
+             (3)  Where a reference of a charge is terminated by the Registrar of Military Justice under subsection (1) or (2) at a time before the dismissal of the charge or the acquittal or conviction of the accused person, the charge shall, by virtue of the termination of the reference, be taken to have been referred to the Director of Military Prosecutions.
+
+             (4)  Where:
+
+                     (a)  a reference of a charge is terminated under subsection (1) or (2) after the conviction of the accused person and before action has been taken under Part IV in relation to the person; or
+
+                     (b)  a reference of a case is terminated under subsection (1) or (2) before action has been taken under Part IV in relation to the convicted person;
+
+the Registrar of Military Justice may:
+
+                     (c)  refer the charge or case, as the case may be, to a Defence Force magistrate to take action under Part IV in relation to the person; or
+
+                     (d)  if no Defence Force magistrate is available or the Director of Military Prosecutions considers that it would be more appropriate for the matter to be dealt with by a court martial—convene a general court martial or a restricted court martial to take action under Part IV in relation to the person.
+
+Note:          A charge or case referred to a Defence Force magistrate must be referred to the magistrate nominated by the Judge Advocate General: see section 129C.
+
+### Division 5—Nomination of Defence Force magistrates and members of courts martial
+
+##### <a id="129B"></a>129B  Appointment of members of courts martial
+
+             (1)  The Registrar of Military Justice must not appoint a person as:
+
+                     (a)  the President of a court martial; or
+
+                     (b)  a member or reserve member of a court martial; or
+
+                     (c)  a judge advocate of a court martial;
+
+if the Registrar of Military Justice believes the person to be:
+
+                     (d)  biased or likely to be biased; or
+
+                     (e)  likely to be thought, on reasonable grounds, to be biased.
+
+             (2)  The Registrar of Military Justice must not appoint a person as a judge advocate of a court martial unless the Judge Advocate General has nominated that person for that position.
+
+             (3)  The appropriate service chief must make available, for the purposes of a court martial, a defence member who is appointed to be a member of that court martial.
+
+##### <a id="129C"></a>129C  Judge Advocate General to nominate Defence Force magistrates
+
+             (1)  The Registrar of Military Justice must not refer a charge to a Defence Force magistrate unless the Judge Advocate General has nominated the magistrate to try the charge.
+
+             (2)  The Registrar of Military Justice must not refer a case to a Defence Force magistrate to take action under Part IV in relation to a convicted person unless the Judge Advocate General has nominated the magistrate to take action in relation to the person.
 
 ## Part VIII—Procedure of service tribunals
 
@@ -5512,7 +5566,7 @@ Eligibility where accused is not an officer or a defence civilian
 
 ##### <a id="130A"></a>130A  Special proceedings before examining officers
 
-             (1)  Subject to the Summary Authority Rules, a commanding officer may, at any stage of dealing with or trying a charge, direct an officer to hear evidence in relation to the charge.
+             (1)  Subject to the rules of procedure, a commanding officer may, at any stage of dealing with or trying a charge, direct an officer to hear evidence in relation to the charge.
 
              (2)  An officer directed under subsection (1) to hear evidence in relation to a charge shall be a legal officer.
 
@@ -5530,13 +5584,13 @@ Eligibility where accused is not an officer or a defence civilian
 
                      (b)  that, in the event of his or her convicting the accused person, he or she is likely to impose an elective punishment;
 
-the summary authority shall give the accused person an opportunity to elect to be tried by the Australian Military Court.
+the summary authority shall give the accused person an opportunity to elect to be tried by a court martial or by a Defence Force magistrate.
 
              (2)  Where:
 
-                     (a)  an accused person is given an opportunity, in accordance with subsection (1), to elect to be tried by the Australian Military Court but fails to do so; or
+                     (a)  an accused person is given an opportunity, in accordance with subsection (1), to elect to be tried by a court martial or by a Defence Force magistrate but fails to do so; or
 
-                     (b)  an accused person elects to be tried by the Australian Military Court but the summary authority considers that the exigencies of service do not permit such a trial without undue delay;
+                     (b)  an accused person elects to be tried by a court martial or by a Defence Force magistrate but the summary authority considers that the exigencies of service do not permit such a trial without undue delay;
 
 the summary authority shall proceed with the trial of the accused person.
 
@@ -5546,33 +5600,33 @@ the summary authority shall proceed with the trial of the accused person.
 
                      (b)  the summary authority is of the opinion that an elective punishment should be imposed on the person for the offence;
 
-the summary authority shall give the person an opportunity to elect to be punished by the Australian Military Court for the offence.
+the summary authority shall give the person an opportunity to elect to be punished by a court martial or by a Defence Force magistrate for the offence.
 
           (2B)  Where:
 
-                     (a)  a person convicted of an offence by a summary authority is given an opportunity, in accordance with subsection (2A), to elect to be punished by the Australian Military Court for the offence but fails to do so; or
+                     (a)  a person convicted of an offence by a summary authority is given an opportunity, in accordance with subsection (2A), to elect to be punished by a court martial or by a Defence Force magistrate for the offence but fails to do so; or
 
-                     (b)  a person convicted of an offence by a summary authority elects under subsection (2A) to be punished by the Australian Military Court for the offence but the summary authority considers that the exigencies of service do not permit the reference of the conviction to the Court;
+                     (b)  a person convicted of an offence by a summary authority elects under subsection (2A) to be punished by a court martial or by a Defence Force magistrate for the offence but the summary authority considers that the exigencies of service do not permit the convening of a court martial or the reference of the conviction to a Defence Force magistrate;
 
 the summary authority shall take action under Part IV in relation to the convicted person.
 
-             (3)  Where a summary authority proposes, in accordance with section 76, to impose on a person an elective punishment for a service offence in relation to which an undertaking was given by the person under subsection 75(2), the summary authority shall give the person an opportunity to elect to be punished by the Australian Military Court for that service offence and for the other service offence of which the person has been convicted by the summary authority.
+             (3)  Where a summary authority proposes, in accordance with section 76, to impose on a person an elective punishment for a service offence in relation to which an undertaking was given by the person under subsection 75(2), the summary authority shall give the person an opportunity to elect to be punished by a court martial or by a Defence Force magistrate for that service offence and for the other service offence of which the person has been convicted by the summary authority.
 
              (4)  Where an accused person makes an election under subsection (1), (2A) or (3), then, subject to paragraph (2)(b), the summary authority shall refer the charge or the conviction, as the case may be, to the Director of Military Prosecutions.
 
-             (5)  A person who has elected to be tried or punished by the Australian Military Court may, by notice to the Registrar, withdraw his or her election at any time before a date is fixed for hearing by the Court.
+             (5)  A person who has elected to be tried or punished by a court martial or by a Defence Force magistrate may, by notice to the Registrar of Military Justice, withdraw his or her election at any time before the order convening the court martial is signed or before a date is fixed for hearing by a Defence Force magistrate.
 
-             (6)  Where, in accordance with subsection (5), a person withdraws an election to be tried by the Australian Military Court, the summary authority shall proceed with the trial of the person.
+             (6)  Where, in accordance with subsection (5), a person withdraws an election to be tried by a court martial or by a Defence Force magistrate, the summary authority shall proceed with the trial of the person.
 
              (7)  Where:
 
                      (a)  a summary authority proceeds with the trial of a person in accordance with subsection (2) or (6) and convicts the person;
 
-                     (b)  a person convicted by a summary authority is given an opportunity, in accordance with subsection (2A) or (3), to elect to be punished by the Australian Military Court but fails to do so;
+                     (b)  a person convicted by a summary authority is given an opportunity, in accordance with subsection (2A) or (3), to elect to be punished by a court martial or by a Defence Force magistrate but fails to do so;
 
-                    (ba)  a person convicted of an offence by a summary authority elects under subsection (2A) to be punished by the Australian Military Court for the offence but the summary authority considers that the exigencies of service do not permit the reference of the conviction to the Court; or
+                    (ba)  a person convicted by a summary authority elects under subsection (2A) to be punished by a court martial or by a Defence Force magistrate but the summary authority considers that the exigencies of service do not permit the convening of a court martial or the reference of the conviction to a Defence Force magistrate; or
 
-                     (c)  in accordance with subsection (5), a person convicted by a summary authority withdraws an election to be punished by the Australian Military Court;
+                     (c)  in accordance with subsection (5), a person convicted by a summary authority withdraws an election to be punished by a court martial or by a Defence Force magistrate;
 
 the summary authority may proceed to impose an elective punishment on the convicted person.
 
@@ -5588,115 +5642,145 @@ the summary authority may proceed to impose an elective punishment on the convic
 
 the superior summary authority or commanding officer, as the case may be, shall terminate the trial and refer the charge to the Director of Military Prosecutions.
 
-### Division 2—Trial by the Australian   Military Court
+### Division 2—Trial by court martial or Defence Force magistrate
 
-##### <a id="132A"></a>132A  Trial of class 1, class 2 and class 3 offences
+##### <a id="132"></a>132  Trial by court martial
 
-             (1)  A class 1 offence is to be tried by a Military Judge and military jury.
+             (1)  A court martial shall try a charge in accordance with the following provisions:
 
-             (2)  A class 2 offence is to be tried by a Military Judge and military jury, unless the accused person elects to be tried by a Military Judge alone.
+                     (a)  before the court martial commences to hear the evidence on the charge, the judge advocate shall ask the accused person whether he or she pleads guilty or not guilty to the charge and, if the accused person pleads guilty and the judge advocate is satisfied that the accused person understands the effect of that plea, the court martial shall convict the accused person;
 
-             (3)  A class 3 offence is to be tried by a Military Judge alone, unless the accused person elects to be tried by a Military Judge and military jury.
+                     (b)  if the accused person pleads not guilty or if the judge advocate is not satisfied that the accused person, in pleading guilty, understands the effect of that plea, the court martial shall record a plea of not guilty and proceed to hear the evidence on the charge;
 
-##### <a id="132B"></a>132B  Trial by Military Judge and military jury
+                     (c)  if the judge advocate, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is insufficient to support the charge, the court martial shall dismiss the charge;
 
-             (1)  Subject to section 132E, the trial of a charge of a service offence that is to be tried by a Military Judge and military jury is to be in accordance with the following subsections.
+                     (d)  if the judge advocate, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is sufficient to support the charge, the court martial shall proceed with the trial;
 
-             (2)  Before evidence on the charge is heard, the Military Judge must ask the accused person whether he or she pleads guilty or not guilty to the charge.
+                     (e)  if the court martial finds the accused person not guilty, the court martial shall acquit the accused person;
 
-             (3)  If the accused person pleads guilty and the Military Judge is satisfied that the person understands the effect of that plea, the Military Judge must convict the person.
+                      (f)  if the court martial finds the accused person guilty, the court martial shall convict the accused person;
 
-             (4)  If:
+                     (g)  if the court martial convicts the accused person, the court martial shall take action under Part IV in relation to the convicted person.
 
-                     (a)  the accused person pleads not guilty, refuses to plead or does not plead intelligibly; or
+             (2)  Where an accused person:
 
-                     (b)  the Military Judge is not satisfied that the accused person, in pleading guilty, understands the effect of that plea;
+                     (a)  refuses to plead; or
 
-the Military Judge must record a plea of not guilty and the Military Judge and the military jury must proceed to hear the evidence on the charge.
+                     (b)  does not plead intelligibly;
 
-             (5)  If the Military Judge, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is insufficient to support the charge, the Military Judge must dismiss the charge.
+                   the court martial shall record a plea of not guilty and proceed accordingly in accordance with subsection (1).
 
-             (6)  If the Military Judge, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is sufficient to support the charge, the Military Judge and military jury must proceed with the trial.
+             (3)  Where, under paragraph (1)(a), an accused person pleads guilty to a service offence that is one (other than the first) of 2 or more charges stated in the charge sheet in the alternative, the court martial shall:
 
-             (7)  If the military jury finds the accused person not guilty, the Military Judge must acquit the person.
+                     (a)  if the Director of Military Prosecutions notifies the court martial that he or she does not object to the acceptance of the plea—accept the plea and proceed accordingly in accordance with subsection (1); or
 
-             (8)  If the military jury finds the accused person guilty, the Military Judge must convict the person.
+                     (b)  in any other case—record a plea of not guilty and proceed accordingly in accordance with subsection (1).
 
-##### <a id="132C"></a>132C  Powers of the Military Judge in trial by Military Judge and military jury
+             (4)  Where an accused person who has pleaded not guilty withdraws his or her plea and pleads guilty, the court martial shall, if the judge advocate is satisfied that the accused person understands the effect of that plea, substitute a plea of guilty for the plea of not guilty and proceed accordingly in accordance with subsection (1).
 
-             (1)  In the trial of a charge of a service offence that is to be tried by a Military Judge and military jury, the Military Judge must give any ruling, and exercise any discretion, that, in accordance with the law in force in the Jervis Bay Territory, would be given or exercised by a judge in a trial by jury.
+          (4A)  Nothing in subsection (1) shall be taken to require the judge advocate to give either a ruling of the kind referred to in paragraph (1)(c) or a ruling of the kind referred to in paragraph (1)(d) unless:
 
-             (2)  If, in a trial by jury in the Jervis Bay Territory, the judge would, in accordance with the law in force in that Territory, sit in the absence of the jury for any purpose in connection with:
+                     (a)  the accused person has submitted that the judge advocate should give a ruling of the first-mentioned kind; or
 
-                     (a)  the giving of a ruling; or
+                     (b)  the interests of justice require that the judge advocate should give a ruling of the first-mentioned kind.
 
-                     (b)  the exercise of a discretion;
+             (5)  A court martial, before taking action under paragraph (1)(g), shall hear evidence relevant to the determination of what action should be taken.
 
-the Military Judge must, for any purpose in connection with the giving of such a ruling, or the exercise of such a discretion, sit without the members of the military jury.
+##### <a id="133"></a>133  Determination of questions by court martial
 
-             (3)  A ruling given by the Military Judge in accordance with subsection (1) and a decision made by the Military Judge under subsection 141(5) or (6) is binding on the military jury.
+             (1)  Subject to section 134, in any proceeding before a court martial:
 
-             (4)  The powers conferred on the Military Judge by this section are in addition to any other powers conferred on the Military Judge by any other provision of this Act, the regulations or the Australian Military Court Rules.
+                     (a)  the President shall preside; and
 
-##### <a id="132D"></a>132D  Trial by Military Judge alone
+                     (b)  every question shall be determined by the members of the court martial.
 
-             (1)  Subject to section 132E, the trial of a charge of a service offence that is to be tried by a Military Judge alone is to be in accordance with the following subsections.
+             (2)  Every question determined by the members of the court martial shall be decided by a majority of the votes of the members.
 
-             (2)  Before evidence on the charge is heard, the Military Judge must ask the accused person whether he or she pleads guilty or not guilty to the charge.
+             (3)  Subject to subsections (4) and (5), in the case of an equality of votes on any question referred to in subsection (2), the President has a casting vote.
 
-             (3)  If the accused person pleads guilty and the Military Judge is satisfied that the person understands the effect of that plea, the Military Judge must convict the person.
+             (4)  In the case of an equality of votes on the question whether an accused person is guilty or not guilty of a service offence, the court martial shall find the accused person not guilty.
 
-             (4)  If:
+             (5)  In the case of an equality of votes on the question whether an accused person, at the time of the act or omission the subject of the charge, was suffering from such unsoundness of mind as not to be responsible, in accordance with law, for that act or omission, the court martial shall find that the person was, at that time, suffering from such unsoundness of mind.
 
-                     (a)  the accused person pleads not guilty, refuses to plead or does not plead intelligibly; or
+             (6)  Notwithstanding anything contained in this Act, the members of a court martial:
 
-                     (b)  the Military Judge is not satisfied that the accused person, in pleading guilty, understands the effect of that plea;
+                     (a)  in determining the question whether an accused person:
 
-the Military Judge must record a plea of not guilty and proceed to hear the evidence on the charge.
+                              (i)  is guilty or not guilty of a service offence; or
 
-             (5)  If the Military Judge, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is insufficient to support the charge, the Military Judge must dismiss the charge.
+                             (ii)  at the time of the act or omission the subject of the charge, was suffering from such unsoundness of mind as not to be responsible, in accordance with law, for that act or omission; or
 
-             (6)  If the Military Judge, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is sufficient to support the charge, the Military Judge must proceed with the trial.
+                     (b)  in determining what action shall be taken under Part IV in relation to a convicted person;
 
-             (7)  If the Military Judge finds the accused person not guilty, the Military Judge must acquit the person.
+shall sit without any other person present.
 
-             (8)  If the Military Judge finds the accused person guilty, the Military Judge must convict the person.
+##### <a id="134"></a>134  Powers of judge advocate
 
-##### <a id="132E"></a>132E  Additional matters about trials by Military Judge alone or with a military jury
+             (1)  In proceedings before a court martial, the judge advocate shall give any ruling, and exercise any discretion, that, in accordance with the law in force in the Jervis Bay Territory, would be given or exercised by a judge in a trial by jury.
 
-             (1)  If, under subsection 132B(2) or 132D(2), an accused person pleads guilty to a service offence that is one (other than the first) of 2 or more charges stated in the charge sheet in the alternative, the Military Judge must:
+             (2)  Where, for any purpose in connection with the giving of a ruling, or the exercise of a discretion, by a judge in a trial by jury in the Jervis Bay Territory, the judge would, in accordance with the law in force in that Territory, sit in the absence of the jury, the judge advocate shall, for any purpose in connection with the giving of such a ruling, or the exercise of such a discretion, by the judge advocate, sit without the members of the court martial.
 
-                     (a)  if the Director of Military Prosecutions notifies the Judge that he or she does not object to the acceptance of the plea—accept the plea and proceed in accordance with section 132B or 132D; or
+             (3)  Notwithstanding subsections (1) and (2), in a proceeding before a court martial, the members of the court martial shall determine what action shall be taken under Part IV in relation to a convicted person, but the judge advocate shall give a ruling on any question of law arising in connection with the making of such a determination.
 
-                     (b)  in any other case—record a plea of not guilty and proceed in accordance with section 132B or 132D.
+             (4)  A ruling given by the judge advocate in accordance with subsection (1) or (3) and a decision made by the judge advocate under subsection 141(5) or (6) is binding on the court martial.
 
-             (2)  If an accused person who has pleaded not guilty withdraws his or her plea and pleads guilty, the Military Judge must, if the Judge is satisfied that the person understands the effect of that plea, substitute a plea of guilty for the plea of not guilty and proceed in accordance with section 132B or 132D.
+             (5)  The judge advocate when sitting without the members of a court martial may exercise such of the powers of the court martial or the President as are necessary for the performance of his or her duties.
 
-             (3)  A Military Judge is not required to give a ruling of the kind referred to in subsection 132B(5) or 132D(5) unless:
+             (6)  The powers conferred on the judge advocate by this section are in addition to any other powers conferred on the judge advocate by any other provision of this Act, the regulations or the rules of procedure.
 
-                     (a)  the accused person has submitted that the Judge should give the ruling; or
+##### <a id="135"></a>135  Trial by Defence Force magistrate
 
-                     (b)  the interests of justice require that the Judge should give the ruling.
+             (1)  A Defence Force magistrate shall try a charge in accordance with the following provisions:
 
-             (4)  A Military Judge is not required to give a ruling of the kind referred to in subsection 132B(6) or 132D(6).
+                     (a)  before the Defence Force magistrate commences to hear the evidence on the charge, the Defence Force magistrate shall ask the accused person whether he or she pleads guilty or not guilty to the charge and, if the accused person pleads guilty and the Defence Force magistrate is satisfied that the accused person understands the effect of that plea, the Defence Force magistrate shall convict the accused person;
 
-##### <a id="132F"></a>132F  Australian   Military Court to take action against convicted persons
+                     (b)  if the accused person pleads not guilty or if the Defence Force magistrate is not satisfied that the accused person, in pleading guilty, understands the effect of that plea, the Defence Force magistrate shall record a plea of not guilty and proceed to hear the evidence on the charge;
 
-             (1)  If an accused person is convicted under section 132B or 132D, the Australian Military Court must take action under Part IV in relation to the convicted person.
+                     (c)  if the Defence Force magistrate, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is insufficient to support the charge, the Defence Force magistrate shall dismiss the charge;
 
-             (2)  Before taking action, the Court must hear evidence relevant to determining what action should be taken.
+                     (d)  if the Defence Force magistrate, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is sufficient to support the charge, the Defence Force magistrate shall proceed with the trial;
 
-##### <a id="136"></a>136  Representatives of parties before Australian Military Court
+                     (e)  if the Defence Force magistrate finds the accused person not guilty, the Defence Force magistrate shall acquit the accused person;
 
-                   A person shall not represent a party before the Australian Military Court unless the person is:
+                      (f)  if the Defence Force magistrate finds the accused person guilty, the Defence Force magistrate shall convict the accused person;
+
+                     (g)  if the Defence Force magistrate convicts the accused person, the Defence Force magistrate shall take action under Part IV in relation to the convicted person.
+
+             (2)  Where an accused person:
+
+                     (a)  refuses to plead; or
+
+                     (b)  does not plead intelligibly;
+
+                   the Defence Force magistrate shall record a plea of not guilty and proceed accordingly in accordance with subsection (1).
+
+             (3)  Where, under paragraph (1)(a), an accused person pleads guilty to a service offence that is one (other than the first) of 2 or more charges stated in the charge sheet in the alternative, the Defence Force magistrate shall:
+
+                     (a)  if the Director of Military Prosecutions notifies the Defence Force magistrate that he or she does not object to the acceptance of the plea—accept the plea and proceed accordingly in accordance with subsection (1); or
+
+                     (b)  in any other case—record a plea of not guilty and proceed accordingly in accordance with subsection (1).
+
+             (4)  Where an accused person who has pleaded not guilty withdraws his or her plea and pleads guilty, the Defence Force magistrate shall, if the Defence Force magistrate is satisfied that the accused person understands the effect of that plea, substitute a plea of guilty for the plea of not guilty and proceed accordingly in accordance with subsection (1).
+
+          (4A)  Nothing in subsection (1) shall be taken to require the Defence Force magistrate to give either a ruling of the kind referred to in paragraph (1)(c) or a ruling of the kind referred to in paragraph (1)(d) unless:
+
+                     (a)  the accused person has submitted that the Defence Force magistrate should give a ruling of the first-mentioned kind; or
+
+                     (b)  the interests of justice require that the Defence Force magistrate should give a ruling of the first-mentioned kind.
+
+             (5)  A Defence Force magistrate, before taking action under paragraph (1)(g), shall hear evidence relevant to the determination of what action should be taken.
+
+##### <a id="136"></a>136  Representatives of parties before court martial or Defence Force magistrate
+
+                   A person shall not represent a party before a court martial or a Defence Force magistrate unless the person is:
 
                      (a)  where the trial is held in Australia—a member of the Defence Force or a legal practitioner; or
 
                      (b)  where the trial is held in a place outside Australia—a person referred to in paragraph (a) or a person qualified to practise before the courts of that place.
 
-##### <a id="137"></a>137  Representation of accused person before Australian Military Court
+##### <a id="137"></a>137  Representation of accused person
 
-             (1)  The Chief of the Defence Force must if, and to the extent that, the exigencies of service permit, cause an accused person awaiting trial by the Australian Military Court to be afforded the opportunity to be represented at the trial, and to be advised before the trial, by a legal officer.
+             (1)  The Chief of the Defence Force must if, and to the extent that, the exigencies of service permit, cause an accused person awaiting trial by a court martial or by a Defence Force magistrate to be afforded the opportunity to be represented at the trial, and to be advised before the trial, by a legal officer.
 
              (2)  An accused person who is advised or represented in accordance with subsection (1) shall be so advised or represented without expense to the accused person.
 
@@ -5705,8 +5789,6 @@ the Military Judge must record a plea of not guilty and proceed to hear the evid
              (4)  The Chief of the Defence Force may delegate his or her powers under subsection (1) to a member of the Defence Force who holds a rank that is not lower than the naval rank of captain, or the rank of colonel or group captain.
 
 ### Division 3—General
-
-#### Subdivision A—General
 
 ##### <a id="138"></a>138  Procedural powers
 
@@ -5720,7 +5802,7 @@ the Military Judge must record a plea of not guilty and proceed to hear the evid
 
              (3)  For the purposes of the hearing of a proceeding before a service tribunal, a superior officer may order a defence member to appear before the tribunal to give evidence and to produce such documents (if any) as are referred to in the order.
 
-             (4)  A service tribunal:
+             (4)  A service tribunal or, if the service tribunal is a court martial, the President of the court martial:
 
                      (a)  may require a person appearing before the tribunal to give evidence either to take an oath or to make an affirmation; and
 
@@ -5732,23 +5814,25 @@ the Military Judge must record a plea of not guilty and proceed to hear the evid
 
              (1)  Subject to subsection (2), a hearing before a service tribunal shall be held in the presence of the accused person.
 
-             (2)  If a service tribunal considers that, by reason of the disorderly behaviour of the accused person, it is impossible to continue the hearing in his or her presence, the tribunal may order that the accused person be removed from the place of hearing and be held in custody elsewhere.
+             (2)  Where a service tribunal or, in the case of a court martial, the President, considers that, by reason of the disorderly behaviour of the accused person, it is impossible to continue the hearing in his or her presence, the tribunal or, in the case of a court martial, the President may order that the accused person be removed from the place of hearing and held in custody elsewhere.
 
-##### <a id="140"></a>140  Public hearings by the Australian Military Court
+             (3)  The President shall not make an order under subsection (2) unless the President has first consulted the judge advocate.
 
-             (1)  The hearing of proceedings before the Australian   Military Court must be in public.
+##### <a id="140"></a>140  Public hearings
 
-             (2)  However, the Court may, if it considers it necessary in the interests of the security or defence of Australia, the proper administration of justice or public morals:
+             (1)  Subject to this section, the hearing of proceedings before a court martial or a Defence Force magistrate shall be in public.
 
-                     (a)  order that some or all of the members of the public are to be excluded during the whole or a specified part of the proceedings; or
+             (2)  In proceedings before a court martial or a Defence Force magistrate, the President of the court martial or the Defence Force magistrate may, if the President considers it necessary in the interests of the security or defence of Australia, the proper administration of justice or public morals:
 
-                     (b)  order that no report of, or relating to, the whole or a specified part of the proceedings is to be published.
+                     (a)  order that some or all of the members of the public shall be excluded during the whole or a specified part of the proceedings; or
 
-             (3)  If proceedings before the Court are held in a secure place, then, subject to an order (if any) in force under subsection (2), the appropriate service chief must cause such steps to be taken as will permit the public to have reasonable access to the proceedings.
+                     (b)  order that no report of, or relating to, the whole or a specified part of the proceedings shall be published.
 
-             (4)  In subsection (3):
+             (3)  The President of a court martial shall not make an order under subsection (2) unless the President has first consulted the judge advocate.
 
-                    <a name="secur-place"></a>**_secure place_** means a place the entry to which is controlled by guards who are constables or members of the Defence Force.
+             (4)  Where proceedings before a court martial or a Defence Force magistrate are held in a secure place, the appropriate service chief shall cause such steps to be taken as will permit the public to have reasonable access, subject to an order (if any) in force under subsection (2), to the proceedings.
+
+             (5)  In subsection (4), **_secure place_** means a place the entry to which is controlled by guards who are constables or members of the Defence Force.
 
 ##### <a id="141"></a>141  Applications and objections
 
@@ -5778,7 +5862,7 @@ the Military Judge must record a plea of not guilty and proceed to hear the evid
 
                              (v)  that the service tribunal does not have jurisdiction.
 
-             (2)  At any time before a military jury is sworn or affirmed, the accused person may enter an objection to any member or reserve member of the military jury on the ground that the member:
+             (2)  At any time before a court martial is sworn or affirmed, the accused person may enter an objection to any member or reserve member of the court martial on the ground that the member:
 
                      (a)  is ineligible;
 
@@ -5786,7 +5870,15 @@ the Military Judge must record a plea of not guilty and proceed to hear the evid
 
                      (c)  is likely to be thought, on reasonable grounds, to be biased.
 
-             (4)  At any time before an accused person is asked to plead at a trial by a service tribunal, the accused person may:
+             (3)  At any time before an accused person is asked to plead at a trial by a court martial, the accused person may enter an objection to the judge advocate on the ground that the judge advocate:
+
+                     (a)  is ineligible;
+
+                     (b)  is, or is likely to be, biased; or
+
+                     (c)  is likely to be thought, on reasonable grounds, to be biased.
+
+             (4)  At any time before an accused person is asked to plead at a trial by a service tribunal other than a court martial, the accused person may:
 
                      (a)  enter an objection to the service tribunal on the ground that the service tribunal is ineligible; or
 
@@ -5816,21 +5908,21 @@ in relation to the trial of an accused person merely because the summary authori
 
                      (a)  an accused person makes an application under paragraph (1)(a); and
 
-                     (b)  the service tribunal is satisfied that the interests of justice require that the application be granted;
+                     (b)  in the case of a court martial, the judge advocate, or in any other case, the service tribunal is satisfied that the interests of justice require that the application be granted;
 
-the service tribunal must grant the application.
+the service tribunal or the judge advocate, as the case may be, shall grant the application.
 
              (6)  Where:
 
-                     (a)  an accused person enters an objection under paragraph (1)(b) or subsection (2) or (4); and
+                     (a)  an accused person enters an objection under paragraph (1)(b) or subsection (2), (3) or (4); and
 
-                     (b)  the service tribunal is satisfied that the accused person has substantiated his or her objection;
+                     (b)  in the case of a court martial, the judge advocate, or in any other case, the service tribunal is satisfied that the accused person has substantiated his or her objection;
 
-the service tribunal must allow the objection.
+the service tribunal or the judge advocate, as the case may be, shall allow the objection.
 
-             (7)  If an application or objection under subsection (1) or (2) is made and the trial is by a Military Judge and military jury, the Military Judge must sit without the members of the military jury for a hearing of that application or objection.
+             (7)  An application or objection under subsection (1), (2) or (3) with respect to a trial by a court martial may be notified to the judge advocate of the court martial at any time after the making of the order convening the court martial and, on the notification of such an application or objection, the judge advocate shall sit without the members of the court martial for a hearing of that application or objection.
 
-             (8)  If the Australian Military Court grants an application or allows an objection under this section, the Court may refer the charge against the accused person to the Director of Military Prosecutions.
+             (8)  Where a Defence Force magistrate or a judge advocate grants an application, or allows an objection, under this section, the Defence Force magistrate or the judge advocate may refer the charge against the accused person to the Director of Military Prosecutions.
 
              (9)  Where a summary authority grants an application, or allows an objection, under this section, the summary authority may refer the charge against the accused person to another summary authority.
 
@@ -5842,9 +5934,11 @@ the service tribunal must allow the objection.
 
                      (b)  the Director of Military Prosecutions, at any stage when a charge is before him or her under section 103;
 
-                     (c)  the Australian Military Court, before trying a charge or at any stage of trying a charge;
+                     (c)  the judge advocate of a court martial, before the court martial tries a charge or at any stage of the trial of a charge; or
 
-that, for any reason, the charge should be amended, the summary authority, Director of Military Prosecutions or Court must make such amendment of the charge as he, she or it thinks necessary unless the amendment cannot be made without injustice to the accused person.
+                     (d)  a Defence Force magistrate, before trying a charge or at any stage of trying a charge;
+
+that, for any reason, the charge should be amended, the summary authority, Director of Military Prosecutions, judge advocate or Defence Force magistrate, as the case may be, shall make such amendment of the charge as he or she thinks necessary unless the amendment cannot be made without injustice to the accused person.
 
              (2)  In subsection (1), **_amendment_** includes the addition of a charge or the substitution of a charge for another charge.
 
@@ -5890,7 +5984,7 @@ the trial shall proceed as if the person:
 
              (1)  Where a person has been acquitted or convicted of a service offence, the person is not liable to be tried by a service tribunal for the same offence or for an offence that is substantially the same offence.
 
-             (2)  Where, under section 77, the Australian Military Court has taken a service offence into consideration in relation to a convicted person, the person is not liable to be tried by a service tribunal for the same offence or for an offence that is substantially the same offence.
+             (2)  Where, under section 77, a court martial or a Defence Force magistrate has taken a service offence into consideration in relation to a convicted person, the person is not liable to be tried by a service tribunal for the same offence or for an offence that is substantially the same offence.
 
              (3)  Where:
 
@@ -5906,7 +6000,7 @@ the person is not liable to be tried by a service tribunal for a service offence
 
              (4)  For the purposes of this section:
 
-                     (a)  the dismissal of a charge under section 130, 132B or 132D shall be deemed to be an acquittal of the service offence the subject of the charge;
+                     (a)  the dismissal of a charge under section 130, 132 or 135 shall be deemed to be an acquittal of the service offence the subject of the charge;
 
                      (b)  the dismissal of a charge under previous service law shall be deemed to be an acquittal of the service offence the subject of the charge;
 
@@ -5918,43 +6012,43 @@ the person is not liable to be tried by a service tribunal for a service offence
 
              (1)  Where a summary authority considers that an accused person, by reason of mental impairment, may not be able to understand the proceedings against him or her and accordingly may be unfit to stand trial, the authority shall refer the charge to the Director of Military Prosecutions.
 
-             (2)  Where the Australian Military Court is satisfied that an accused person, by reason of mental impairment, is not able to understand the proceedings against him or her and accordingly is unfit to stand trial, the Court shall so find and shall direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
+             (2)  Where a court martial or a Defence Force magistrate is satisfied that an accused person, by reason of mental impairment, is not able to understand the proceedings against him or her and accordingly is unfit to stand trial, the court martial or the Defence Force magistrate shall so find and shall direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
 
              (3)  Where, in a trial of a charge by a summary authority of an accused person, evidence is adduced that shows, or tends to show, that the accused person, at the time of the act or omission the subject of the charge, was suffering from such mental impairment as not to be responsible, in accordance with law, for that act or omission, the authority shall refer the charge to the Director of Military Prosecutions.
 
-             (4)  Where, in a trial of a charge of a service offence that is to be tried by Military Judge and military jury, the jury finds that the accused person, at the time of the act or omission the subject of the charge, was suffering from such mental impairment as not to be responsible, in accordance with law, for that act or omission, the jury shall find the accused person not guilty on the ground of mental impairment and the Judge shall acquit the person of the charge on the ground of mental impairment.
+             (4)  Where, in a trial of a charge by a court martial or a Defence Force magistrate, the court martial or the Defence Force magistrate finds that the accused person, at the time of the act or omission the subject of the charge, was suffering from such mental impairment as not to be responsible, in accordance with law, for that act or omission, the court martial or the Defence Force magistrate shall find the accused person not guilty on the ground of mental impairment and shall acquit the person of the charge on the ground of mental impairment.
 
-             (5)  Where an accused person is acquitted by the Australian Military Court of a charge on the ground of mental impairment, the Court shall record the ground of the acquittal and shall direct that the accused person be kept in strict custody until the pleasure of the Governor-General is known.
+             (5)  Where an accused person is acquitted by a court martial or a Defence Force magistrate of a charge on the ground of mental impairment, the court martial or the Defence Force magistrate shall record the ground of the acquittal and shall direct that the accused person be kept in strict custody until the pleasure of the Governor-General is known.
 
 ##### <a id="145A"></a>145A  Notice of alibi
 
-             (1)  If the Registrar refers a charge to the Australian   Military Court for trial, the Registrar must:
+             (1)  Where the Registrar of Military Justice:
 
-                     (a)  inform the accused person of the requirements of subsections (2), (3) and (5); and
+                     (a)  convenes a court martial to try a charge; or
 
-                     (b)  give a copy of this section to the accused person.
+                     (b)  refers a charge to a Defence Force magistrate for trial;
 
-             (2)  In a trial of a charge by the Australian   Military Court, the accused person must not, without the leave of the Court:
+the Registrar of Military Justice must:
 
-                     (a)  adduce evidence in support of an alibi; or
+                     (c)  inform the accused person of the requirements of subsections (2), (3) and (5); and
 
-                     (b)  assert in any statement made by him or her otherwise than on oath or affirmation that he or she has an alibi;
+                     (d)  give a copy of this section to the accused person.
 
-unless, before the end of the period of 14 days commencing on the day the charge is referred to the Court, he or she gives notice of particulars of the alibi.
+             (2)  In a trial of a charge by a court martial or Defence Force magistrate, the accused person shall not, without the leave of the judge advocate of the court martial or the Defence Force magistrate, as the case requires, adduce evidence in support of an alibi or assert in any statement made by him or her otherwise than on oath or affirmation that he or she has an alibi unless, before the end of the period of 14 days commencing on the day of the making of the order convening the court martial or the referring of the charge to the Defence Force magistrate, as the case requires, he or she gives notice of particulars of the alibi.
 
-             (3)  In a trial of a charge by the Australian   Military Court, the accused person must not, without the leave of the Court, call a person to give evidence in support of an alibi unless:
+             (3)  In a trial of a charge by a court martial or Defence Force magistrate, the accused person shall not, without the leave of the judge advocate of the court martial or the Defence Force magistrate, as the case requires, call a person to give evidence in support of an alibi unless:
 
                      (a)  the notice given under subsection (2) includes the name and address of the person or, if the name or address of the person is not known to the accused person at the time he or she gives the notice, all information then in his or her possession that may be of material assistance in ascertaining the identity of, or in locating, the person;
 
-                     (b)  if the name or address of the person is not included in the notice—the Court is satisfied that, before giving notice, the accused person took, and, after giving the notice, the accused person continued to take, all reasonable steps to ascertain the name and address of the person;
+                     (b)  if the name or address of the person is not included in the notice—the judge advocate of the court martial or the Defence Force magistrate, as the case may be, is satisfied that, before giving notice, the accused person took, and, after giving the notice, the accused person continued to take, all reasonable steps to ascertain the name and address of the person;
 
                      (c)  if the name or address of the person is not included in the notice, but the accused person subsequently ascertains the name or address of the person or receives information that may be of material assistance in ascertaining the identity of, or in locating, the person—the accused person forthwith gives notice of the name, address or other information, as the case may be; and
 
                      (d)  if the accused person is notified by or on behalf of the prosecution that the person has not been found by the name, or at the address, given by the accused person—the accused person forthwith gives notice of all information that is then in his or her possession that may be of material assistance in ascertaining the identity of, or in locating, the person and, if the accused person subsequently receives any such information, the accused person forthwith gives notice of the information.
 
-             (4)  Evidence to disprove an alibi may, subject to any direction by the Court, be adduced before or after evidence is adduced in respect of the alibi.
+             (4)  Evidence to disprove an alibi may, subject to any direction by the judge advocate of a court martial or a Defence Force magistrate, be adduced before or after evidence is adduced in respect of the alibi.
 
-             (5)  A notice under this section shall be given in writing to the Director of Military Prosecutions and the Registrar.
+             (5)  A notice under this section shall be given in writing to the Director of Military Prosecutions and the Registrar of Military Justice.
 
              (6)  In this section, **_evidence in support of an alibi_** means evidence tending to show that by reason only of the presence of the accused person at a particular place, or in a particular area, at a particular time the accused person was not, or was unlikely to have been, at the place where the service offence is alleged to have been committed at the time of the alleged commission of the service offence.
 
@@ -5970,173 +6064,15 @@ unless, before the end of the period of 14 days commencing on the day the charge
 
 ##### <a id="147"></a>147  Judicial notice of service matters
 
-                   In addition to the matters of which judicial notice may be taken by a court under the rules of evidence referred to in section 146, a service tribunal must take judicial notice of all matters within the general service knowledge of:
-
-                     (a)  the tribunal; or
-
-                     (b)  if the proceedings are before a military jury—the jury.
+                   In addition to the matters of which judicial notice may be taken by a court under the rules of evidence referred to in section 146, a service tribunal shall take judicial notice of all matters within the general service knowledge of the tribunal or of its members.
 
 ##### <a id="148"></a>148  Record of proceedings to be kept
 
-             (1)  A service tribunal shall keep a record of its proceedings and shall include in that record such particulars as are provided for by the rules of procedure.
+                   A service tribunal shall keep a record of its proceedings and shall include in that record such particulars as are provided for by the rules of procedure.
 
-             (2)  The Australian Military Court may order that the whole or a specified part of a record under subsection (1) that relates to proceedings before the Court is not to be published if the Court considers that such a publication would be inappropriate, taking account of the interests of the security or defence of Australia, the proper administration of justice, public morals or any other matter it considers relevant.
+##### <a id="149"></a>149  Rules of procedure
 
-#### Subdivision B—Use of video and audio links in the Australian Military Court
-
-##### <a id="148A"></a>148A  Testimony by video link or audio link
-
-             (1)  The Australian Military Court may, for the purposes of proceedings before it, direct or allow testimony to be given by video link or audio link.
-
-             (2)  The testimony must be given on oath or affirmation unless:
-
-                     (a)  the person giving the testimony is in a foreign country; and
-
-                     (b)  either:
-
-                              (i)  the law in force in that country does not permit the person to give testimony on oath or affirmation for the purposes of the proceedings; or
-
-                             (ii)  the law in force in that country would make it inconvenient for the person to give testimony on oath or affirmation for the purposes of the proceedings; and
-
-                     (c)  the Court is satisfied that it is appropriate for the testimony to be given otherwise than on oath or affirmation.
-
-             (3)  If the testimony is given otherwise than on oath or affirmation, the Court is to give the testimony such weight as the Court thinks fit in the circumstances.
-
-             (4)  The power conferred on the Court by subsection (1) may be exercised:
-
-                     (a)  on the application of the accused person or the Director of Military Prosecutions; or
-
-                     (b)  on the Court’s own initiative.
-
-             (5)  This section applies whether the person giving testimony is in or outside Australia, but does not apply if the person giving testimony is in New Zealand.
-
-Note:          See the _Evidence and Procedure (__New   Zealand__) Act 1994_.
-
-##### <a id="148B"></a>148B  Appearance of persons or submissions made by video link or audio link
-
-             (1)  The Australian Military Court may, for the purposes of proceedings before it, direct or allow a person:
-
-                     (a)  to appear before the Court; or
-
-                     (b)  to make a submission to the Court;
-
-by way of video link or audio link.
-
-             (2)  The power conferred on the Court by subsection (1) may be exercised:
-
-                     (a)  on the application of the accused person or the Director of Military Prosecutions; or
-
-                     (b)  on the Court’s own initiative.
-
-             (3)  This section applies whether the person appearing is in or outside Australia, but does not apply if the person appearing is in New Zealand.
-
-Note:          See the _Evidence and Procedure (__New   Zealand__) Act 1994_.
-
-##### <a id="148C"></a>148C  Conditions for use of video links and audio links
-
-Video link
-
-             (1)  The Australian Military Court must not exercise the power conferred by subsection 148A(1) or 148B(1) in relation to a video link unless the Court is satisfied that the following conditions are met in relation to the video link:
-
-                     (a)  the courtroom or other place where the Court is sitting is equipped with facilities (for example, television monitors) that enable all eligible persons present in that courtroom or place to see and hear the person (the **_remote person_**) who is:
-
-                              (i)  giving the testimony; or
-
-                             (ii)  appearing; or
-
-                            (iii)  making the submission;
-
-                            by way of the video link;
-
-                     (b)  the place at which the remote person is located is equipped with facilities (for example, television monitors) that enable all eligible persons present in that place to see and hear each eligible person who is present in the courtroom or other place where the Court is sitting;
-
-                     (c)  such other conditions (if any) as are prescribed by the Australian Military Court Rules in relation to the video link;
-
-                     (d)  such other conditions (if any) as are imposed by the Court.
-
-             (2)  The conditions that may be prescribed by the Australian Military Court Rules in accordance with paragraph (1)(c) include conditions relating to:
-
-                     (a)  the form of the video link; and
-
-                     (b)  the equipment, or class of equipment, used to establish the link; and
-
-                     (c)  the layout of cameras; and
-
-                     (d)  the standard of transmission; and
-
-                     (e)  the speed of transmission; and
-
-                      (f)  the quality of communication.
-
-Audio link
-
-             (3)  The Court must not exercise the power conferred by subsection 148A(1) or 148B(1) in relation to an audio link unless the Court is satisfied that the following conditions are met in relation to the audio link:
-
-                     (a)  the courtroom or other place where the Court is sitting is equipped with facilities (for example, loudspeakers) that enable all eligible persons present in that courtroom or place to hear the person (the **_remote person_**) who is:
-
-                              (i)  giving the testimony; or
-
-                             (ii)  appearing; or
-
-                            (iii)  making the submission;
-
-                            by way of the audio link;
-
-                     (b)  the place at which the remote person is located is equipped with facilities (for example, loudspeakers) that enable all eligible persons present in that place to hear each eligible person who is present in the courtroom or other place where the Court is sitting;
-
-                     (c)  such other conditions (if any) as are prescribed by the Australian Military Court Rules in relation to the audio link;
-
-                     (d)  such other conditions (if any) as are imposed by the Court.
-
-             (4)  The conditions that may be prescribed by the Australian Military Court Rules in accordance with paragraph (3)(c) include conditions relating to:
-
-                     (a)  the form of the audio link; and
-
-                     (b)  the equipment, or class of equipment, used to establish the audio link; and
-
-                     (c)  the standard of transmission; and
-
-                     (d)  the speed of transmission; and
-
-                     (e)  the quality of communication.
-
-Eligible persons
-
-             (5)  For the purposes of the application of this section to particular proceedings, **_eligible persons_** are such persons as the Australian Military Court considers should be treated as eligible persons for the purposes of the proceedings.
-
-##### <a id="148D"></a>148D  Putting documents to a person by video link or audio link
-
-                   If, in the course of an examination or appearance of a person by video link or audio link in accordance with this Subdivision, it is necessary to put a document to the person, the Australian   Military Court may direct or allow the document to be put to the person:
-
-                     (a)  if the document is physically present in the courtroom or other place where the Court is sitting:
-
-                              (i)  by causing a copy of the document to be transmitted to the place where the person is located; and
-
-                             (ii)  by causing the transmitted copy to be put to the person; or
-
-                     (b)  if the document is physically present in the place where the person is located:
-
-                              (i)  by causing the document to be put to the person; and
-
-                             (ii)  by causing a copy of the document to be transmitted to the courtroom or other place where the Court is sitting.
-
-##### <a id="148E"></a>148E  Administration of oaths and affirmations
-
-                   An oath to be sworn, or an affirmation to be made, by a person (the **_remote person_**) who is to give testimony by video link or audio link in accordance with this Subdivision may be administered:
-
-                     (a)  by means of the video link or audio link, as the case may be, in a way that, as nearly as practicable, corresponds to the way in which the oath or affirmation would be administered if the remote person were to give testimony in the courtroom or other place where the Australian Military Court is sitting; or
-
-                     (b)  if the Australian Military Court allows another person who is present at the place where the remote person is located to administer the oath or affirmation—by that other person.
-
-##### <a id="148F"></a>148F  New   Zealand proceedings
-
-                   This Subdivision does not affect the operation of the _Evidence and Procedure (__New Zealand__) Act 1994_.
-
-#### Subdivision C—Rules of procedure for service tribunals
-
-##### <a id="149"></a>149  The Summary Authority Rules
-
-                   The Judge Advocate General may, by legislative instrument, make rules, to be known as the Summary Authority Rules, providing for the practice and procedure to be followed by summary authorities and, in particular, providing for:
+                   The Judge Advocate General may, by legislative instrument, make rules of procedure, not inconsistent with this Act (including the regulations), providing for or in relation to the practice and procedure to be followed by service tribunals and, in particular, providing for or in relation to:
 
                      (a)  the attendance of witnesses; and
 
@@ -6144,63 +6080,31 @@ Eligible persons
 
                      (c)  the administration of oaths and affirmations; and
 
-                     (d)  the forms to be used in relation to proceedings before a summary authority; and
+                     (d)  the forms to be used for or in relation to the purposes of proceedings before a service tribunal; and
 
-                     (e)  the service of any process of a summary authority; and
+                     (e)  the service of any process of a service tribunal; and
 
-                      (f)  charge sheets in proceedings before a summary authority; and
+                      (f)  charge sheets in proceedings before a service tribunal; and
 
-                     (g)  the manner and form of charges brought before a summary authority; and
+                    (fa)  the manner of taking the votes of the members of a court martial; and
 
-                     (h)  the recording of proceedings of a summary authority.
+                     (g)  the manner and form of charges brought before a service tribunal; and
 
-##### <a id="149A"></a>149A  The Australian Military Court Rules
+                     (h)  the recording of proceedings of a service tribunal; and
 
-                   The Chief Military Judge may, by legislative instrument, make rules, to be known as the Australian Military Court Rules, providing for:
+                      (i)  the duties of the Registrar of Military Justice.
 
-                     (a)  the practice and procedure to be followed by the Court and, in particular, providing for:
-
-                              (i)  pre-trial hearings and directions; and
-
-                             (ii)  the attendance of witnesses; and
-
-                            (iii)  the manner and timing of elections in relation to trial by military jury; and
-
-                            (iv)  the giving of testimony and other evidence; and
-
-                             (v)  the production of documents; and
-
-                            (vi)  the administration of oaths and affirmations; and
-
-                           (vii)  the forms to be used in relation to proceedings before the Court; and
-
-                           (viii)  the service of any process of the Court; and
-
-                            (ix)  charge sheets in proceedings before the Court; and
-
-                             (x)  the manner and form of charges brought before the Court; and
-
-                            (xi)  the recording of proceedings of the Court; and
-
-                           (xii)  the duties of the Registrar in respect of the practice and procedure of the Court; and
-
-                           (xiii)  the maintenance of the customs and traditions of the Defence Force in proceedings before the Court; and
-
-                     (b)  matters concerning a military jury, including the summoning, attendance, empanelling of, the right of challenge, polling and the discharge of the jury; and
-
-                     (c)  any matter required or permitted by this Act to be prescribed by the Rules.
-
-## Part IX—Review of proceedings of summary authorities
+## Part IX—Review of proceedings of service tribunals
 
 ### Division 1—Appointment of reviewing authorities
 
 ##### <a id="150"></a>150  Appointment of reviewing authorities
 
-                   The Chief of the Defence Force or a service chief may, by instrument in writing, appoint an officer, or each officer included in a class of officers, to be a reviewing authority for the purpose of reviewing proceedings of summary authorities and exercising any other powers and functions that are conferred on reviewing authorities by this Act or the regulations.
+                   The Chief of the Defence Force or a service chief may, by instrument in writing, appoint an officer, or each officer included in a class of officers, to be a reviewing authority for the purpose of reviewing proceedings of service tribunals (whether all service tribunals or service tribunals of a specified kind) and exercising any other powers and functions that are conferred on reviewing authorities by this Act or the regulations.
 
 ##### <a id="150A"></a>150A  Meaning of _competent reviewing authority_
 
-                   A reviewing authority is a **_competent reviewing authority_** for the purposes of reviewing the proceedings of a summary authority that relate to a particular charge only if the reviewing authority did not exercise any of the powers or perform any of the functions of a superior authority in relation to the charge.
+                   A reviewing authority is a **_competent reviewing authority_** for the purposes of reviewing the proceedings of a service tribunal that relate to a particular charge only if the reviewing authority did not exercise any of the powers or perform any of the functions of a superior authority in relation to the charge.
 
 ### Division 2—Automatic and other reviews
 
@@ -6220,19 +6124,19 @@ Eligible persons
 
 ##### <a id="152"></a>152  Automatic review by reviewing authority
 
-             (1)  As soon as practicable after a summary authority (other than a subordinate summary authority) convicts a person of a service offence, the summary authority must transmit the record of the proceedings to a competent reviewing authority.
+             (1)  As soon as practicable after a service tribunal (other than a subordinate summary authority) convicts a person of a service offence or gives a direction in relation to a person under subsection 145(2) or (5), the service tribunal shall transmit the record of the proceedings to a competent reviewing authority.
 
              (2)  A reviewing authority shall, as soon as practicable after receiving a record of proceedings under subsection (1) or subsection 151(5), review the proceedings in accordance with this Part.
 
-             (3)  After reviewing the proceedings, the reviewing authority must give the person who was convicted of the service offence written notice of the results of the review.
+             (3)  After reviewing the proceedings, the reviewing authority must give the person who was convicted of the service offence, or who was the person in relation to whom a direction under subsection 145(2) or (5) was given, written notice of the results of the review.
 
 ##### <a id="153"></a>153  Review on petition to reviewing authority
 
-             (1)  If a summary authority convicts a person of a service offence, the person may lodge with a competent reviewing authority a petition for review of the proceedings concerned.
+             (1)  Where a service tribunal convicts a person of a service offence or gives a direction in relation to a person under subsection 145(2) or (5), the person may lodge with a competent reviewing authority a petition for a review of the proceedings concerned.
 
           (1A)  The person must lodge the petition within 30 days after:
 
-                     (a)  if a commanding officer reviews the proceedings of the summary authority under section 151 and gives the person notice of the results of the review under subsection 151(6)—the notice is given; or
+                     (a)  if a commanding officer reviews the proceedings of the service tribunal under section 151 and gives the person notice of the results of the review under subsection 151(6)—the notice is given; or
 
                      (b)  in any other case—the person is given notice of the results of the review under subsection 152(3);
 
@@ -6240,17 +6144,35 @@ unless the reviewing authority extends the period during which the petition may 
 
           (1B)  If the reviewing authority extends the period during which the petition may be lodged, the petition must be lodged within that extended period.
 
-             (3)  A petition under subsection (1) shall set out the grounds on which the petitioner relies for the exercise of the power of review in accordance with this Part.
+             (2)  Where:
 
-             (4)  On receipt of a petition under subsection (1), a reviewing authority shall, as soon as practicable and, in any event, within 30 days after the receipt:
+                     (a)  a person appeals, or applies for leave to appeal, to the Defence Force Discipline Appeal Tribunal; and
+
+                     (b)  the Tribunal dismisses the appeal or the application for leave to appeal;
+
+the person may, within 60 days after that dismissal or such further period as a competent reviewing authority allows, lodge with the reviewing authority a petition for a review of the proceedings of the service tribunal the subject of that appeal or application for leave to appeal.
+
+             (3)  A petition under subsection (1) or (2) shall set out the grounds on which the petitioner relies for the exercise of the power of review in accordance with this Part.
+
+             (4)  On receipt of a petition under subsection (1) or (2), a reviewing authority shall, as soon as practicable and, in any event, within 30 days after the receipt:
 
                      (a)  review the proceedings in accordance with this Part having regard to the grounds set out in the petition; and
 
                      (b)  notify the petitioner, in writing, of the result of that review.
 
+             (5)  Notwithstanding anything in subsection (4), a reviewing authority shall not, in a review of proceedings referred to in subsection (2), exercise any of his or her powers under Division 3 or 4 other than his or her powers under section 162.
+
 ##### <a id="154"></a>154  Report to be obtained before commencement of review
 
-             (1)  A reviewing authority must not commence a review without first obtaining a report on the proceedings from a legal officer.
+             (1)  A reviewing authority shall not commence a review without first obtaining a report on the proceedings from:
+
+                     (a)  in the case of a conviction, or a direction given under subsection 145(2) or (5), by a court martial or Defence Force magistrate—a legal officer appointed, by instrument in writing, for the purposes of this section by the Chief of the Defence Force or a service chief on the recommendation of the Judge Advocate General; or
+
+                     (b)  in any other case—a legal officer.
+
+          (1A)  An appointment under paragraph (1)(a) is for the period, not exceeding 3 years, specified in the instrument of appointment.
+
+          (1B)  A legal officer appointed under paragraph (1)(a) may be reappointed for a further period or periods.
 
              (2)  Subject to subsection (4), a reviewing authority, in making a review, is bound by any opinion on a question of law set out in a report obtained under subsection (1).
 
@@ -6268,11 +6190,19 @@ unless the reviewing authority extends the period during which the petition may 
 
              (4)  The Chief of the Defence Force or a service chief, in making a review, is bound by any opinion on a question of law set out in a report obtained under subsection (3).
 
+##### <a id="156"></a>156  Effect on reviews of appeals to Defence Force Discipline Appeal Tribunal
+
+             (1)  Subject to subsection (2), where, at any time before or after a reviewing authority commences to review proceedings of a service tribunal that have resulted in a conviction or a prescribed acquittal, the convicted person or the prescribed acquitted person, as the case may be, lodges an appeal, or an application for leave to appeal, to the Defence Force Discipline Appeal Tribunal, the reviewing authority shall not exercise any of his or her powers under Division 3 or 4 in relation to that review.
+
+             (2)  Where the Defence Force Discipline Appeal Tribunal dismisses the appeal, or the application for leave to appeal, the reviewing authority may proceed with a review, not being a review under section 153, but shall not exercise any of his or her powers under Division 3 or 4 other than his or her powers under section 162.
+
+             (3)  In this section, **_prescribed acquitted person_** means a person who has been acquitted of a service offence by a court martial or a Defence Force magistrate on the ground of unsoundness of mind.
+
 ### Division 3—Action on review of proceedings that have resulted in a conviction
 
 ##### <a id="157"></a>157  Interpretation
 
-                   In this Division, **_review_** means a review under this Part of proceedings of a summary authority that have resulted in a conviction.
+                   In this Division, **_review_** means a review under this Part of proceedings of a service tribunal that have resulted in a conviction.
 
 ##### <a id="158"></a>158  Quashing of conviction etc.
 
@@ -6306,7 +6236,9 @@ the reviewing authority shall receive and consider that evidence and, if the rev
 
                      (c)  direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
 
-             (5)  A reviewing authority shall not quash a conviction under subsection (3) if there are grounds for quashing the conviction under subsection (1) or (2).
+             (4)  Where in a review it appears to the reviewing authority that the court martial or the Defence Force magistrate should have found that the convicted person, by reason of unsoundness of mind, was not able to understand the proceedings against him or her and accordingly was unfit to stand trial, the reviewing authority shall quash the conviction and direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
+
+             (5)  A reviewing authority shall not quash a conviction under subsection (3) or (4) if there are grounds for quashing the conviction under subsection (1) or (2).
 
 ##### <a id="159"></a>159  Person deemed to have been acquitted
 
@@ -6330,17 +6262,17 @@ the reviewing authority may order a new trial of the person for that offence.
 
              (1)  Where in a review the reviewing authority quashes the conviction of a person of a service offence (in this section referred to as **_the original offence_**) but considers:
 
-                     (a)  that the summary authority could in the proceedings have found the person guilty of another offence, being:
+                     (a)  that the service tribunal could in the proceedings have found the person guilty of another offence, being:
 
                               (i)  a service offence that is an alternative offence, within the meaning of section 142, in relation to the original offence; or
 
-                             (ii)  a service offence with which the person was charged in the alternative and in respect of which the summary authority did not record a finding; and
+                             (ii)  a service offence with which the person was charged in the alternative and in respect of which the service tribunal did not record a finding; and
 
-                     (b)  that the summary authority, by reason of the finding of the summary authority finding that the person was guilty of the original offence, must have been satisfied beyond reasonable doubt of facts that prove that the person was guilty of the other offence;
+                     (b)  that the service tribunal, by reason of the finding of the service tribunal finding that the person was guilty of the original offence, must have been satisfied beyond reasonable doubt of facts that prove that the person was guilty of the other offence;
 
 the reviewing authority may substitute for the conviction of the original offence a conviction of the other offence.
 
-             (2)  Where under subsection (1) a reviewing authority substitutes for the conviction of the original offence a conviction of another service offence, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the summary authority that convicted the convicted person of the original offence if that summary authority had convicted him or her of that other service offence, but the reviewing authority:
+             (2)  Where under subsection (1) a reviewing authority substitutes for the conviction of the original offence a conviction of another service offence, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the service tribunal that convicted the convicted person of the original offence if that service tribunal had convicted him or her of that other service offence, but the reviewing authority:
 
                      (a)  shall not impose a punishment for that other service offence or make a reparation order with respect to that other service offence unless a punishment was imposed for the original offence or a reparation order was made with respect to the original offence, as the case may be; and
 
@@ -6348,7 +6280,7 @@ the reviewing authority may substitute for the conviction of the original offenc
 
 ##### <a id="162"></a>162  Review of action under Part IV
 
-             (1)  Where in a review it appears to the reviewing authority that the action taken by a summary authority under Part IV (whether by the imposition of a punishment or the making of an order or both) in relation to a convicted person:
+             (1)  Where in a review it appears to the reviewing authority that the action taken by a service tribunal under Part IV (whether by the imposition of a punishment or the making of an order or both) in relation to a convicted person:
 
                      (a)  is wrong in law; or
 
@@ -6356,31 +6288,95 @@ the reviewing authority may substitute for the conviction of the original offenc
 
 the reviewing authority shall quash the punishment or revoke the order or both quash the punishment and revoke the order, as the case may be.
 
+             (2)  Where:
+
+                     (a)  a court martial or a Defence Force magistrate has taken a service offence into consideration in relation to a convicted person under section 77 and the conviction of the convicted person is quashed; or
+
+                     (b)  a reviewing authority considers that a court martial or a Defence Force magistrate, in purporting to take a service offence into consideration in relation to a convicted person under section 77, exceeded the powers conferred by that section;
+
+the reviewing authority shall annul the taking into consideration of that service offence and, thereupon, that service offence shall be deemed not to have been taken into consideration by the court martial or Defence Force magistrate.
+
              (3)  Where in a review it appears to the reviewing authority that a summary authority has imposed an elective punishment on a convicted person otherwise than in accordance with section 131, the reviewing authority shall quash the punishment.
 
              (4)  Where in a review it appears to the reviewing authority that a summary authority:
 
-                     (a)  has continued a trial of a person under paragraph 131(2)(b) in circumstances where the exigencies of service would have permitted trial by the Australian Military Court without undue delay; and
+                     (a)  has continued a trial of a person under paragraph 131(2)(b) in circumstances where the exigencies of service would have permitted trial by a court martial or by a Defence Force magistrate without undue delay; and
 
                      (b)  as a result of that trial, has convicted the person of a service offence and imposed an elective punishment;
 
 the reviewing authority shall quash that punishment.
 
-          (4A)  Where in a review it appears to the reviewing authority that a summary authority has imposed an elective punishment on a convicted person by virtue of paragraph 131(2B)(b) in circumstances where the exigencies of service would have permitted the reference of the conviction to the Australian Military Court, the reviewing authority shall quash that punishment.
+          (4A)  Where in a review it appears to the reviewing authority that a summary authority has imposed an elective punishment on a convicted person by virtue of paragraph 131(2B)(b) in circumstances where the exigencies of service would have permitted the convening of a court martial or the reference of the conviction to a Defence Force magistrate, the reviewing authority shall quash that punishment.
 
-             (5)  Where a reviewing authority quashes a punishment or revokes an order under subsection (1), (3), (4) or (4A) in relation to a convicted person, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the summary authority that convicted the convicted person of the service offence of which he or she was convicted, but the reviewing authority shall not:
+             (5)  Where a reviewing authority quashes a punishment or revokes an order under subsection (1), (3), (4) or (4A) in relation to a convicted person, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the service tribunal that convicted the convicted person of the service offence of which he or she was convicted, but the reviewing authority shall not:
 
-                     (a)  impose a punishment that is more severe than the punishment that was imposed by the summary authority;
+                     (a)  impose a punishment that is more severe than the punishment that was imposed by the service tribunal;
 
-                     (b)  if the punishment imposed by the summary authority was a custodial punishment—impose a punishment other than a custodial punishment;
+                     (b)  if the punishment imposed by the service tribunal was a custodial punishment—impose a punishment other than a custodial punishment;
 
-                     (c)  if the punishment imposed by the summary authority was not a custodial punishment—impose a custodial punishment; or
+                     (c)  if the punishment imposed by the service tribunal was not a custodial punishment—impose a custodial punishment; or
 
-                     (d)  if the summary authority made a reparation order—make a reparation order for an amount that exceeds the amount of the reparation order that was made by the summary authority.
+                     (d)  if the service tribunal made a reparation order—make a reparation order for an amount that exceeds the amount of the reparation order that was made by the service tribunal.
 
-             (8)  Where in a review it appears to the reviewing authority that a summary authority that has imposed a punishment of detention on a convicted person should have made an order under subsection 78(1) suspending that punishment, the reviewing authority may, if he or she thinks fit, make an order suspending that punishment or such part of that punishment as has not been served.
+             (6)  Where in a review it appears to the reviewing authority that a service tribunal has imposed a punishment of imprisonment on a convicted person and has not fixed a non-parole period during which the person is not to be eligible to be released on parole under the provisions of the _Crimes Act 1914_ in their application, by virtue of subsection 72(1) of this Act, to the service tribunal, the reviewing authority may fix such a non-parole period.
+
+             (7)  Section 72 applies in relation to the fixing of a non-parole period under subsection (6) as if the reviewing authority were the service tribunal concerned.
+
+             (8)  Where in a review it appears to the reviewing authority that a service tribunal that has imposed a punishment of detention on a convicted person should have made an order under subsection 78(1) suspending that punishment, the reviewing authority may, if he or she thinks fit, make an order suspending that punishment or such part of that punishment as has not been served.
 
              (9)  Where a reviewing authority makes an order suspending a punishment of detention or such part of a punishment of detention as has not been served, the punishment, or that part of the punishment, does not begin, and shall not be put into execution, while the suspension is in force.
+
+### Division 4—Action on review of proceedings that have resulted in an acquittal on the ground of unsoundness of mind
+
+##### <a id="163"></a>163  Interpretation
+
+                   In this Division, **_review_** means a review under this Part of proceedings before a court martial or a Defence Force magistrate that have resulted in a prescribed acquittal.
+
+##### <a id="164"></a>164  Quashing of prescribed acquittal etc.
+
+             (1)  Subject to subsection (4), where in a review it appears to the reviewing authority:
+
+                     (a)  that the prescribed acquittal is unreasonable, or cannot be supported, having regard to the evidence;
+
+                     (b)  that, as a result of a wrong decision on a question of law, or of mixed law and fact, the prescribed acquittal was wrong in law and that a substantial miscarriage of justice has occurred;
+
+                     (c)  that there was a material irregularity in the course of the proceedings and that a substantial miscarriage of justice has occurred; or
+
+                     (d)  that, in all the circumstances of the case, the prescribed acquittal is unsafe or unsatisfactory;
+
+the reviewing authority shall quash the prescribed acquittal.
+
+             (2)  Subject to subsection (4), where in a review it appears to the reviewing authority that there is evidence that:
+
+                     (a)  was not reasonably available during the proceedings;
+
+                     (b)  is likely to be credible; and
+
+                     (c)  would have been admissible in the proceedings;
+
+the reviewing authority shall receive and consider that evidence and, if the reviewing authority considers that the prescribed acquittal cannot be supported having regard to that evidence, the reviewing authority shall quash the prescribed acquittal.
+
+             (3)  Where in a review it appears to the reviewing authority that the service tribunal should have found that the person, by reason of unsoundness of mind, was unable to understand the proceedings against him or her and accordingly was unfit to stand trial, the reviewing authority shall quash the prescribed acquittal and direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
+
+             (4)  A reviewing authority shall not quash a prescribed acquittal under subsection (1) or (2) if there are grounds for quashing the prescribed acquittal under subsection (3).
+
+##### <a id="165"></a>165  Person deemed to have been acquitted
+
+                   For the purposes of this Act, where a reviewing authority quashes a prescribed acquittal of a person of a service offence and does not give a direction under subsection 164(3) with respect to the person or order a new trial of the person for the offence, the person shall be deemed to have been acquitted of the offence without qualification.
+
+##### <a id="166"></a>166  New trial
+
+             (1)  Where in a review the reviewing authority:
+
+                     (a)  quashes a prescribed acquittal that was recorded within the preceding 6 months; and
+
+                     (b)  considers that, in the interests of justice, the person who was acquitted should be tried again for the service offence of which the person was acquitted;
+
+the reviewing authority may order a new trial of the person for that offence.
+
+             (2)  An order under subsection (1) lapses unless the new trial commences within a period of 6 months commencing on the day on which the order is made.
+
+             (3)  Where a reviewing authority makes an order under subsection (1) for a new trial of a person, the reviewing authority may make such further orders for the custody of the person pending the new trial as the authority thinks appropriate.
 
 ### Division 5—Action on review of certain punishments and orders that are subject to approval by reviewing authority
 
@@ -6396,15 +6392,15 @@ the reviewing authority shall quash that punishment.
 
              (1)  Where in a review the reviewing authority does not approve a punishment or an order, the reviewing authority shall quash the punishment or revoke the order, as the case may be.
 
-             (2)  Where a reviewing authority quashes a punishment or revokes an order under subsection (1) in relation to a convicted person, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the summary authority that convicted the convicted person of the service offence of which he or she was convicted, but the reviewing authority shall not:
+             (2)  Where a reviewing authority quashes a punishment or revokes an order under subsection (1) in relation to a convicted person, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the service tribunal that convicted the convicted person of the service offence of which he or she was convicted, but the reviewing authority shall not:
 
-                     (a)  impose a punishment that is more severe than the punishment that was imposed by the summary authority;
+                     (a)  impose a punishment that is more severe than the punishment that was imposed by the service tribunal;
 
-                     (b)  if the punishment imposed by the summary authority was a custodial punishment—impose a punishment other than a custodial punishment;
+                     (b)  if the punishment imposed by the service tribunal was a custodial punishment—impose a punishment other than a custodial punishment;
 
-                     (c)  if the punishment imposed by the summary authority was not a custodial punishment—impose a custodial punishment; or
+                     (c)  if the punishment imposed by the service tribunal was not a custodial punishment—impose a custodial punishment; or
 
-                     (d)  if the summary authority made a reparation order—make a reparation order for an amount that exceeds the amount of the reparation order that was made by the summary authority.
+                     (d)  if the service tribunal made a reparation order—make a reparation order for an amount that exceeds the amount of the reparation order that was made by the service tribunal.
 
 ## Part IXA—Special procedures relating to certain minor disciplinary infringements
 
@@ -6572,6 +6568,22 @@ a relevant officer may refer the matter to an authorised member of the Defence F
 
 ##### <a id="172"></a>172  Punishments and orders subject to approval
 
+             (1)  The following punishments imposed by a service tribunal do not take effect unless approved by a reviewing authority:
+
+                     (a)  imprisonment for life;
+
+                     (b)  imprisonment for a specific period;
+
+                     (c)  dismissal from the Defence Force;
+
+                     (d)  segregated confinement for a period exceeding 3 days;
+
+                     (e)  confinement to cell for a period exceeding 3 days;
+
+                      (f)  extra drill for a period exceeding 3 days;
+
+                     (g)  restriction of custodial privileges for a period exceeding 7 days.
+
              (2)  The following punishments when imposed by a summary authority do not take effect unless approved by a reviewing authority:
 
                      (a)  detention;
@@ -6580,29 +6592,25 @@ a relevant officer may refer the matter to an authorised member of the Defence F
 
                      (c)  forfeiture of seniority;
 
-                     (d)  a fine imposed on a member of the Defence Force that exceeds the amount of his or her pay for 14 days;
+                     (d)  a fine imposed on a member of the Defence Force that exceeds the amount of his or her pay for 14 days.
 
-                     (e)  segregated confinement for a period exceeding 3 days;
+             (3)  A restitution order or a reparation order imposed by a service tribunal does not take effect unless approved by a reviewing authority.
 
-                      (f)  confinement to cell for a period exceeding 3 days;
+          (3A)  A person on whom a punishment of imprisonment for life or imprisonment for a specific period is imposed may be kept in custody pending approval under subsection (1) of the punishment and, if the punishment is approved, any day on which the person was so kept in custody counts as a day of that imprisonment.
 
-                     (g)  extra drill for a period exceeding 3 days;
-
-                     (h)  restriction of custodial privileges for a period exceeding 7 days.
-
-             (3)  A restitution order or a reparation order imposed by a summary authority does not take effect unless approved by a reviewing authority.
+             (4)  A person on whom a punishment of dismissal from the Defence Force is imposed may be kept in custody pending approval under subsection (1) of the punishment.
 
              (5)  A person on whom a punishment of detention is imposed by a summary authority may be kept in custody pending approval under subsection (2) of the punishment and, if the punishment is approved, any day on which the person was so kept in custody counts as a day of that detention.
 
 ##### <a id="173"></a>173  Suspension of operation of restitution orders and reparation orders
 
-             (1)  The operation of a restitution order or a reparation order made by the Australian Military Court is suspended:
+             (1)  Subject to subsection (2), the operation of a restitution order or a reparation order, being a restitution order or a reparation order made by a court martial or a Defence Force magistrate, is suspended:
 
                      (a)  until the expiration of the period during which, under the _Defence Force Discipline Appeals Act 1955_, an application for leave to appeal, or an appeal, against the conviction in relation to which the order was made may be lodged, but not in any case beyond the time specified in paragraph (b); and
 
                      (b)  if an application for leave to appeal, or an appeal, against the conviction is duly lodged—until the application is finally dismissed or is withdrawn or the appeal is finally determined or abandoned.
 
-             (2)  Where the Court is satisfied that the title to the property in relation to which a restitution order is made is not in dispute, the Court may direct that subsection (1) shall not apply in relation to the order.
+             (2)  Where a reviewing authority is satisfied that the title to the property in relation to which a restitution order is made is not in dispute, the reviewing authority may direct that subsection (1) shall not apply in relation to the order.
 
              (3)  Where the operation of a restitution order or a reparation order is suspended by virtue of subsection (1), the order does not take effect if the conviction in relation to which the order is made is quashed on appeal.
 
@@ -6636,21 +6644,13 @@ a relevant officer may refer the matter to an authorised member of the Defence F
 
 ##### <a id="176"></a>176  Stay of execution of punishment
 
-             (1)  If:
+                   Where a service tribunal has imposed a punishment on a convicted person and the convicted person:
 
-                     (a)  a summary authority has imposed a punishment on a convicted person; and
+                     (a)  lodges a petition under section 153 with respect to the conviction or punishment; or
 
-                     (b)  the convicted person lodges a petition under section 153 with respect to the conviction or punishment;
+                     (b)  notifies a reviewing authority that he or she has appealed, or applied for leave to appeal, under the _Defence Force Discipline Appeals Act 1955_ against the conviction;
 
-the reviewing authority may order that the execution of the punishment is to be stayed in whole or in part pending the determination of the petition.
-
-             (2)  If:
-
-                     (a)  the Australian Military Court has imposed a punishment on a convicted person; and
-
-                     (b)  the convicted person or the Director or Military Prosecutions notifies the Court that he or she has appealed, or applied for leave to appeal, under the _Defence Force Discipline Appeals Act 1955_ against the conviction or punishment;
-
-the Court may order that the execution of the punishment is to be stayed in whole or in part pending the determination of the appeal.
+the reviewing authority may order that the execution of the punishment shall be stayed in whole or in part pending the determination of the appeal or petition.
 
 ##### <a id="177"></a>177  Unlawful absence
 
@@ -6706,7 +6706,7 @@ the Court may order that the execution of the punishment is to be stayed in whol
 
                      (b)  the conduct and administration of detention centres.
 
-## Part XI—Judge Advocate General, Deputy Judge Advocates General, Chief Military Judge, Military Judges and Registrar
+## Part XI—Judge Advocate General, Deputy Judge Advocates General, Chief Judge Advocate and Registrar of Military Justice
 
 ### Division 1—Judge Advocate General and Deputy Judge Advocates General
 
@@ -6818,425 +6818,79 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (8)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the person’s appointment had not arisen, that there is a defect or irregularity in or in connection with the person’s appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
-### Division 2—Chief Military Judge
+### Division 2—Chief Judge Advocate
 
-##### <a id="188AA"></a>188AA  Chief Military Judge
+##### <a id="188A"></a>188A  Chief Judge Advocate
 
-                   There is to be a Chief Military Judge of the Australian Military Court.
+             (1)  The Judge Advocate General may, by instrument in writing, appoint an officer to be the Chief Judge Advocate.
 
-##### <a id="188AB"></a>188AB  Role of the Chief Military Judge
+             (2)  The appointment is for the period, not exceeding 5 years, specified in the instrument of appointment.
 
-                   The Chief Military Judge is responsible for:
+             (3)  A Chief Judge Advocate may be reappointed for a further period or periods, but must not hold office for a total of more than 10 years.
 
-                     (a)  ensuring the orderly and expeditious discharge of the business of the Australian Military Court; and
+##### <a id="188B"></a>188B  Role of the Chief Judge Advocate
 
-                     (b)  managing the administrative affairs of the Australian Military Court; and
+             (1)  The Chief Judge Advocate is to provide administrative assistance to the Judge Advocate General.
 
-                     (c)  matters conferred on the Chief Military Judge by or under this Act.
+             (2)  Subject to subsection (3), the Judge Advocate General may, by signed instrument, delegate all or any of his or her powers to the Chief Judge Advocate.
 
-##### <a id="188AC"></a>188AC  Appointment of Chief Military Judge
+             (3)  The Judge Advocate General must not delegate his or her powers under any of the following provisions to the Chief Judge Advocate:
 
-             (1)  The Chief Military Judge is to be appointed by the Governor-General by written instrument.
+                     (a)  subsection 127(1);
 
-             (2)  The Chief Military Judge holds office for 10 years.
+                     (b)  subsection 154(4);
 
-Note:          If, before the expiration of the term of appointment, the Chief Military Judge retires from the Australian Defence Force, he or she ceases to be the Chief Military Judge on retirement: see paragraph 188AL(2)(b).
+                     (c)  subsection 196(2).
 
-             (3)  A person must not be appointed as the Chief Military Judge if the person has been a Chief Military Judge.
+             (4)  The Chief Judge Advocate is, in the exercise of a delegated power or function, subject to the direction and control of the Judge Advocate General.
 
-Note:          However, the person may be appointed as an acting Military Judge under section 188BB.
+##### <a id="188C"></a>188C  Eligibility requirements
 
-             (4)  The Chief Military Judge holds office on a full-time basis.
+                   A person is not eligible to be the Chief Judge Advocate unless the person is:
 
-##### <a id="188AD"></a>188AD  Qualifications for Chief Military Judge
+                     (a)  an officer holding a rank not lower than the naval rank of commodore or the rank of brigadier or air commodore; and
 
-                   A person must not be appointed as the Chief Military Judge unless:
+                     (b)  a member of the judge advocates’ panel.
 
-                     (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
+##### <a id="188D"></a>188D  Resignation
 
-                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force, or is a member of the Reserves who is rendering continuous full-time service; and
+                   The Chief Judge Advocate may resign his or her office by giving to the Judge Advocate General a signed notice of resignation.
 
-                     (c)  the person holds a rank not lower than the naval rank of commodore or the rank of brigadier or air commodore; and
+##### <a id="188E"></a>188E  Remuneration
 
-                     (d)  the person meets the person’s individual service deployment requirements.
+             (1)  The Chief Judge Advocate is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, he or she is to be paid the remuneration that is prescribed.
 
-##### <a id="188AE"></a>188AE  Selection of Chief Military Judge
-
-             (1)  The Minister may, by notice in writing given to the Chief of the Defence Force, request the Chief of the Defence Force to establish an independent selection committee to give to the Minister, within the period specified in the notice:
-
-                     (a)  the name of a person, or the names of persons, the committee considers suitable for appointment as the Chief Military Judge; and
-
-                     (b)  all the applications made for the office; and
-
-                     (c)  any other thing specified by the Minister in the notice.
-
-             (2)  If the Chief of the Defence Force receives such a notice, the Chief of the Defence Force must establish the committee.
-
-             (3)  The committee must invite all persons who satisfy, or who are capable of satisfying, the qualification requirements in section 188AD to apply for appointment as the Chief Military Judge within the period specified in the notice under subsection (1).
-
-             (4)  The appointment of a person as the Chief Military Judge is not invalid because:
-
-                     (a)  of a defect or irregularity in the process for selecting the person for appointment; or
-
-                     (b)  the committee did not comply with subsection (3).
-
-##### <a id="188AF"></a>188AF  Oath or affirmation
-
-             (1)  The Chief Military Judge must, before proceeding to discharge the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
-
-             (2)  An oath or affirmation under this section is to be made before:
-
-                     (a)  in the case of the first Chief Military Judge—the Judge Advocate General; or
-
-                     (b)  in any other case—a Military Judge.
-
-##### <a id="188AG"></a>188AG  Remuneration
-
-             (1)  Subject to this section, the Chief Military Judge is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, he or she is to be paid the remuneration that is prescribed.
-
-             (2)  The Chief Military Judge is to be paid the allowances that are prescribed.
+             (2)  The Chief Judge Advocate is to be paid the allowances that are prescribed.
 
              (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="188AH"></a>188AH  Leave of absence
+### Division 3—The Registrar of Military Justice
 
-             (1)  The Chief Military Judge has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+##### <a id="188F"></a>188F  Registrar of Military Justice
 
-             (2)  The Governor-General may grant the Chief Military Judge leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Governor-General determines.
+                   There is to be a Registrar of Military Justice.
 
-##### <a id="188AI"></a>188AI  No outside employment
+##### <a id="188FA"></a>188FA  Functions of the Registrar of Military Justice
 
-                   The Chief Military Judge must not engage in employment outside the duties of his or her office.
+             (1)  The function of the Registrar of Military Justice is to assist the Judge Advocate General and the Chief Judge Advocate by providing administrative and management services in connection with charges and trials under this Act.
 
-##### <a id="188AJ"></a>188AJ  No promotion other than automatic mid-term promotion
+             (2)  In addition to his or her functions under subsection (1), the Registrar of Military Justice also has:
 
-             (1)  Subject to subsection (2), the Chief Military Judge is not eligible for a promotion in rank during the period he or she is the Chief Military Judge.
-
-             (2)  The Chief Military Judge is, by force of this subsection, promoted to the next rank on the 5 year anniversary of his or her appointment as Chief Military Judge.
-
-             (3)  However, subsection (2) does not apply if the Chief Military Judge already holds the naval rank of Rear Admiral or the rank of Major-General or Air Vice-Marshal.
-
-##### <a id="188AK"></a>188AK  Resignation
-
-             (1)  The Chief Military Judge may resign his or her appointment by giving the Governor-General a written resignation.
-
-             (2)  The resignation takes effect 3 months, or such shorter period agreed to by the Governor-General, after it is given.
-
-##### <a id="188AL"></a>188AL  Termination of appointment
-
-             (1)  The Governor-General may terminate the appointment of the Chief Military Judge:
-
-                     (a)  for misbehaviour; or
-
-                     (b)  for physical or mental incapacity; or
-
-                     (c)  if the Chief Military Judge no longer meets his or her individual service deployment requirements.
-
-             (2)  The Chief Military Judge ceases to hold office if he or she:
-
-                     (a)  ceases to be enrolled as a legal practitioner; or
-
-                     (b)  is neither:
-
-                              (i)  a member of the Permanent Navy, the Regular Army or the Permanent Air Force; nor
-
-                             (ii)  a member of the Reserves who is rendering continuous full-time service; or
-
-                     (c)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
-
-                     (d)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months.
-
-##### <a id="188AN"></a>188AN  Acting Chief Military Judge
-
-             (1)  The Governor-General may appoint a full-time Military Judge to act as the Chief Military Judge:
-
-                     (a)  during a vacancy in the office, whether or not an appointment has previously been made to that office; or
-
-                     (b)  during any period, or during all periods, when the Chief Military Judge is absent from duty, or is, for any other reason, unable to perform the functions of his or her office.
-
-             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
-
-                     (a)  the occasion for the appointment had not arisen; or
-
-                     (b)  there was a defect or irregularity in connection with the appointment; or
-
-                     (c)  the appointment had ceased to have effect; or
-
-                     (d)  the occasion to act had not arisen or had ceased.
-
-### Division 2A—Military Judges
-
-##### <a id="188AO"></a>188AO  Military Judges
-
-                   There are to be Military Judges of the Australian   Military Court.
-
-##### <a id="188AP"></a>188AP  Appointment of Military Judges
-
-             (1)  A Military Judge is to be appointed by the Governor-General by written instrument.
-
-             (2)  A Military Judge must be appointed either as a full-time Military Judge or as a part-time Military Judge.
-
-             (3)  There are to be 2 full-time Military Judges and no more than 8 part-time Military Judges. (To avoid doubt, this subsection does not require there to be 8 part-time Military Judges at any one time.)
-
-Note:          This subsection does not prevent the appointment of additional acting Military Judges: see section 188BB.
-
-             (4)  A Military Judge holds office for 10 years.
-
-Note:          If, before the expiration of the term of appointment, a Military Judge retires from the Australian Defence Force, he or she ceases to be a Military Judge on retirement: see paragraphs 188AZ(2)(b) and (c).
-
-          (4A)  A person must not be appointed as a Military Judge if the person has been a Chief Military Judge or a Military Judge.
-
-Note:          However, the person may be appointed as the Chief Military Judge under section 188AC or as an acting Military Judge under section 188BB.
-
-             (5)  A full-time Military Judge holds office on a full-time basis and a part-time Military Judge holds office on a part-time basis.
-
-##### <a id="188AQ"></a>188AQ  Appointment of part-time Military Judge not to affect tenure etc.
-
-                   If a person:
-
-                     (a)  holds the judicial office of justice, judge or magistrate of a federal court; and
-
-                     (b)  is appointed, or serves, as a part-time Military Judge;
-
-the appointment or service does not affect his or her:
-
-                     (c)  tenure of that judicial office; or
-
-                     (d)  rank, title, status, precedence, salary, annual or other allowances or other rights or privileges as the holder of that judicial office;
-
-and, for all purposes, his or her service as a part-time Military Judge is taken to be service as the holder of that judicial office.
-
-##### <a id="188AR"></a>188AR  Qualifications for Military Judges
-
-Full-time Military Judges
-
-             (1)  A person must not be appointed as a full-time Military Judge unless:
-
-                     (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
-
-                     (b)  the person is a member of:
-
-                              (i)  the Permanent Navy, the Regular Army or the Permanent Air Force; or
-
-                             (ii)  is a member of the Reserves and is rendering continuous full-time service; and
-
-                     (c)  the person holds a rank not lower than the naval rank of commander or the rank of lieutenant colonel or wing commander; and
-
-                     (d)  the person meets the person’s individual service deployment requirements.
-
-Part-time Military Judges
-
-             (2)  A person must not be appointed as a part-time Military Judge unless:
-
-                     (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
-
-                     (b)  the person is a member of the Reserves and is not rendering continuous full-time service; and
-
-                     (c)  the person holds a rank not lower than the naval rank of commander or the rank of lieutenant colonel or wing commander; and
-
-                     (d)  the person meets the person’s individual service deployment requirements.
-
-##### <a id="188AS"></a>188AS  Selection of Military Judges
-
-             (1)  The Minister may, by notice in writing given to the Chief of the Defence Force, request the Chief of the Defence Force to establish an independent selection committee to give to the Minister, within the period specified in the notice:
-
-                     (a)  the name of a person, or the names of persons, the committee considers suitable for appointment as a Military Judge; and
-
-                     (b)  all the applications made for the office; and
-
-                     (c)  any other thing specified by the Minister in the notice.
-
-             (2)  If the Chief of the Defence Force receives such a notice, the Chief of the Defence Force must establish the committee.
-
-             (3)  The committee must invite all persons who satisfy, or who are capable of satisfying, the qualification requirements in section 188AR to apply for nomination for appointment as a Military Judge within the period specified in the notice under subsection (1).
-
-             (4)  The appointment of a person as a Military Judge is not invalid because:
-
-                     (a)  of a defect or irregularity in the process for selecting the person for appointment; or
-
-                     (b)  the committee did not comply with subsection (3).
-
-##### <a id="188AT"></a>188AT  Oath or affirmation
-
-             (1)  A Military Judge must, before proceeding to discharge the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
-
-             (2)  An oath or affirmation under this section is to be made before the Chief Military Judge or a Military Judge.
-
-##### <a id="188AU"></a>188AU  Remuneration
-
-             (1)  Subject to this section, a Military Judge is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, he or she is to be paid the remuneration that is prescribed.
-
-             (2)  A Military Judge is to be paid the allowances that are prescribed.
-
-             (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
-
-Special rules for part-time Military Judges
-
-             (4)  If a person:
-
-                     (a)  is a justice, judge or magistrate of a federal court, or of a State or Territory court; and
-
-                     (b)  is appointed as a part-time Military Judge; and
-
-                     (c)  receives salary or annual allowance as such a justice, judge or magistrate for the period of the appointment as a part-time Military Judge;
-
-then he or she is not entitled to remuneration under this Act for that period.
-
-             (5)  If a person is a justice, judge or magistrate of a State or Territory court, the Minister may, for the purpose of appointing the person as a part-time Military Judge, enter into such arrangement with the appropriate State or Territory Minister as is necessary to secure the person’s services.
-
-             (6)  An arrangement under subsection (5) with a State or Territory Minister may provide for the Commonwealth to reimburse the State or Territory with respect to the services of the person to whom the arrangement relates.
-
-##### <a id="188AV"></a>188AV  Leave of absence
-
-             (1)  A Military Judge has the recreation leave entitlements that are determined by the Remuneration Tribunal.
-
-             (2)  The Governor-General may grant a Military Judge leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Governor-General determines.
-
-##### <a id="188AW"></a>188AW  Outside employment
-
-Full-time Military Judges
-
-             (1)  A full-time Military Judge must not engage in employment outside the duties of his or her office.
-
-Part-time Military Judges
-
-             (2)  A part-time Military Judge must not engage in employment outside the duties of his or her office as Military Judge if to do so would conflict with his or her duties as Military Judge.
-
-##### <a id="188AX"></a>188AX  No promotion other than automatic mid-term promotion
-
-             (1)  Subject to subsection (2), a Military Judge is not eligible for a promotion in rank during the period he or she is a Military Judge.
-
-             (2)  A Military Judge is, by force of this subsection, promoted to the next rank on the 5 year anniversary of his or her appointment as a Military Judge.
-
-             (3)  However, subsection (2) does not apply if the Military Judge already holds the naval rank of Commodore or the rank of Brigadier or Air Commodore.
-
-##### <a id="188AY"></a>188AY  Resignation
-
-             (1)  A Military Judge may resign his or her appointment by giving the Governor-General a written resignation.
-
-             (2)  The resignation takes effect 3 months, or such shorter period agreed to by the Governor-General, after it is given.
-
-##### <a id="188AZ"></a>188AZ  Termination of appointment
-
-             (1)  The Governor-General may terminate the appointment of a Military Judge:
-
-                     (a)  for misbehaviour; or
-
-                     (b)  for physical or mental incapacity; or
-
-                     (c)  if the Military Judge no longer meets his or her individual service deployment requirements.
-
-             (2)  A Military Judge ceases to hold office if:
-
-                     (a)  he or she ceases to be enrolled as a legal practitioner; or
-
-                     (b)  if he or she is a full-time Military Judge—he or she is neither:
-
-                              (i)  a member of the Permanent Navy, the Regular Army or the Permanent Air Force; nor
-
-                             (ii)  a member of the Reserves who is rendering continuous full-time service; or
-
-                     (c)  if he or she is a part-time Military Judge—he or she is not a member of the Reserves who is not rendering continuous full-time service; or
-
-                     (d)  he or she becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
-
-                     (e)  he or she is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months.
-
-##### <a id="188BB"></a>188BB  Acting Military Judges
-
-Recommendation to appoint an acting Military Judge
-
-             (1)  If _,_ after receiving advice from the Chief Military Judge, the Minister considers that a charge that has been, or will be, referred to the Australian Military Court requires the experience or expertise of a person who:
-
-                     (a)  has been a Chief Military Judge or Military Judge; or
-
-                     (b)  is, or has been, a justice, judge or magistrate of a federal court, or of a State or Territory court;
-
-the Minister may make a recommendation to the Governor-General that the person be appointed to act as a Military Judge to try the charge and, in the case of a conviction, take action under Part IV.
-
-Appointment
-
-             (2)  If the Minister makes such a recommendation, the Governor-General may, by written instrument, appoint the person as an acting Military Judge.
-
-Qualifications
-
-             (3)  However, the Governor-General must not appoint the person unless:
-
-                     (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
-
-                     (b)  the person is a member of:
-
-                              (i)  the Permanent Navy, the Regular Army or the Permanent Air Force; or
-
-                             (ii)  the Reserves; and
-
-                     (c)  the person holds a rank not lower than the naval rank of commander or the rank of lieutenant colonel or wing commander; and
-
-                     (d)  the person meets the person’s individual service deployment requirements.
-
-Term of appointment
-
-             (4)  An acting Military Judge holds office for the period specified in the instrument of appointment. The instrument must provide that the period ends on:
-
-                     (a)  if the proceedings for the charge are terminated without the accused person being acquitted or convicted—the day of the termination; or
-
-                     (b)  if the accused person is acquitted—the day of the acquittal; or
-
-                     (c)  if the accused person is convicted—the day that action is taken under Part IV.
-
-Appointment to be part-time
-
-             (5)  An acting Military Judge holds office on a part-time basis.
-
-Resignation
-
-             (6)  An acting Military Judge may resign his or her appointment by giving the Governor-General a written resignation. The resignation takes effect 2 weeks after it is given.
-
-Terms and conditions etc.
-
-             (7)  The following provisions apply to an acting Military Judge as if a reference to “Military Judge” in those provisions included a reference to “acting Military Judge”:
-
-                     (a)  section 188AQ (appointment not to affect tenure etc.);
-
-                     (b)  section 188AT (oath or affirmation);
-
-                     (c)  section 188AU (remuneration);
-
-                     (d)  section 188AV (leave of absence);
-
-                     (e)  subsection 188AW(2) (outside employment);
-
-                      (f)  subsection 188AX(1) (no promotion);
-
-                     (g)  section 188AZ, other than paragraph 188AZ(2)(b) (termination of appointment).
-
-### Division 3—The Registrar of the Australian   Military Court
-
-##### <a id="188F"></a>188F  Registrar of the Australian Military Court
-
-                   There is to be a Registrar of the Australian   Military Court.
-
-##### <a id="188FA"></a>188FA  Functions of the Registrar
-
-             (1)  The function of the Registrar is to assist the Chief Military Judge by providing administrative and management services in connection with proceedings before the Australian Military Court under this Act.
-
-             (2)  In addition to his or her functions under subsection (1), the Registrar also has:
-
-                     (a)  the functions conferred on the Registrar by or under this Act or any other law of the Commonwealth; and
+                     (a)  the functions conferred on the Registrar of Military Justice by or under this Act or any other law of the Commonwealth; and
 
                      (b)  such other functions as are prescribed by the regulations.
 
-##### <a id="188FB"></a>188FB  Appointment of the Registrar
+##### <a id="188FB"></a>188FB  Appointment of the Registrar of Military Justice
 
-             (1)  The Registrar is to be appointed by the Minister by written instrument.
+             (1)  The Registrar of Military Justice is to be appointed by the Minister by written instrument.
 
-             (2)  The Registrar holds office on a full-time basis.
+             (2)  The Registrar of Military Justice holds office on a full-time basis.
 
-             (3)  The Registrar holds office on the terms and conditions (if any) in respect of matters not provided for by this Act that are determined by the Minister.
+             (3)  The Registrar of Military Justice holds office on the terms and conditions (if any) in respect of matters not provided for by this Act that are determined by the Minister.
 
 ##### <a id="188FC"></a>188FC  Qualifications for appointment
 
-                   A person must not be appointed as the Registrar unless:
+                   A person must not be appointed as the Registrar of Military Justice unless:
 
                      (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
 
@@ -7246,37 +6900,43 @@ Terms and conditions etc.
 
 ##### <a id="188FD"></a>188FD  Tenure
 
-             (1)  The Registrar holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
+             (1)  The Registrar of Military Justice holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
-             (2)  The Registrar is eligible for reappointment.
+             (2)  The Registrar of Military Justice is eligible for reappointment.
 
 ##### <a id="188FE"></a>188FE  Resignation
 
-                   The Registrar may resign his or her appointment by giving the Minister a written resignation.
+                   The Registrar of Military Justice may resign his or her appointment by giving the Minister a written resignation.
 
 ##### <a id="188FF"></a>188FF  Oath or affirmation
 
-             (1)  The Registrar must, before proceeding to discharge the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
+             (1)  The Registrar of Military Justice must, before proceeding to discharge the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
 
-             (2)  An oath or affirmation under this section is to be made before a Military Judge.
+             (2)  An oath or affirmation under this section is to be made before:
+
+                     (a)  the Judge Advocate General; or
+
+                     (b)  a Deputy Judge Advocate General; or
+
+                     (c)  the Chief Judge Advocate.
 
 ##### <a id="188FG"></a>188FG  Remuneration
 
-             (1)  Subject to this section, the Registrar is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, he or she is to be paid the remuneration that is prescribed.
+             (1)  Subject to this section, the Registrar of Military Justice is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, he or she is to be paid the remuneration that is prescribed.
 
-             (2)  The Registrar is to be paid the allowances that are prescribed.
+             (2)  The Registrar of Military Justice is to be paid the allowances that are prescribed.
 
              (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="188FH"></a>188FH  Leave of absence
 
-             (1)  The Registrar has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  The Registrar of Military Justice has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant the Registrar leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (2)  The Minister may grant the Registrar of Military Justice leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
 ##### <a id="188FI"></a>188FI  Outside employment
 
-                   The Registrar must not:
+                   The Registrar of Military Justice must not:
 
                      (a)  engage in practice as a legal practitioner outside the duties of his or her office; or
 
@@ -7284,13 +6944,13 @@ Terms and conditions etc.
 
 ##### <a id="188FJ"></a>188FJ  Termination of appointment
 
-             (1)  The Minister may terminate the appointment of the Registrar for:
+             (1)  The Minister may terminate the appointment of the Registrar of Military Justice for:
 
                      (a)  misbehaviour; or
 
                      (b)  physical or mental incapacity.
 
-             (2)  The Minister must terminate the appointment of the Registrar if the Registrar:
+             (2)  The Minister must terminate the appointment of the Registrar of Military Justice if the Registrar of Military Justice:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
@@ -7302,7 +6962,7 @@ Terms and conditions etc.
 
                      (e)  fails, without reasonable excuse, to comply with his or her obligations under section 188FK.
 
-             (3)  The Registrar ceases to hold office if:
+             (3)  The Registrar of Military Justice ceases to hold office if:
 
                      (a)  he or she ceases to be enrolled as a legal practitioner; or
 
@@ -7314,7 +6974,7 @@ Terms and conditions etc.
 
 ##### <a id="188FK"></a>188FK  Standing obligation to disclose interests
 
-             (1)  The Registrar must disclose any interest that the Registrar has if that interest could conflict with the proper performance of the functions of his or her office. Disclosure is required whether or not there is any particular matter under consideration that gives rise to an actual conflict of interest.
+             (1)  The Registrar of Military Justice must disclose any interest that the Registrar of Military Justice has if that interest could conflict with the proper performance of the functions of his or her office. Disclosure is required whether or not there is any particular matter under consideration that gives rise to an actual conflict of interest.
 
              (2)  Subsection (1) applies to interests:
 
@@ -7322,15 +6982,15 @@ Terms and conditions etc.
 
                      (b)  whether acquired before or after the person’s appointment.
 
-             (3)  The disclosure must be by notice in writing given to the Minister as soon as practicable after the Registrar becomes aware of the potential for conflict of interest.
+             (3)  The disclosure must be by notice in writing given to the Minister as soon as practicable after the Registrar of Military Justice becomes aware of the potential for conflict of interest.
 
 ##### <a id="188FL"></a>188FL  Acting appointments
 
-             (1)  The Minister may appoint a person to act as the Registrar:
+             (1)  The Minister may appoint a person to act as the Registrar of Military Justice:
 
                      (a)  during a vacancy in the office, whether or not an appointment has previously been made to that office; or
 
-                     (b)  during any period, or during all periods, when the Registrar is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the Registrar of Military Justice is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office.
 
              (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
 
@@ -7342,7 +7002,7 @@ Terms and conditions etc.
 
                      (d)  the occasion to act had not arisen or had ceased.
 
-             (3)  The Minister must not appoint a person to act as the Registrar unless:
+             (3)  The Minister must not appoint a person to act as the Registrar of Military Justice unless:
 
                      (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
 
@@ -7352,7 +7012,7 @@ Terms and conditions etc.
 
 ##### <a id="188FM"></a>188FM  Delegation
 
-                   The Registrar may delegate all or any of his or her powers and functions to:
+                   The Registrar of Military Justice may delegate all or any of his or her powers and functions to:
 
                      (a)  a defence member holding the rank of lieutenant commander, major or squadron leader; or
 
@@ -7372,7 +7032,7 @@ Terms and conditions etc.
 
              (1)  The Director of Military Prosecutions has the following functions:
 
-                     (a)  to carry on prosecutions for service offences in proceedings before the Australian Military Court, whether or not instituted by the Director of Military Prosecutions;
+                     (a)  to carry on prosecutions for service offences in proceedings before a Defence Force magistrate or a court martial, whether or not instituted by the Director of Military Prosecutions;
 
                      (b)  to seek the consent of the Director of Public Prosecutions as required by section 63;
 
@@ -7390,7 +7050,7 @@ Terms and conditions etc.
 
 ##### <a id="188GB"></a>188GB  Appearances by and on behalf of Director of Military Prosecutions
 
-                   In a trial of a charge by the Australian   Military Court, the Director of Military Prosecutions:
+                   In a trial of a charge by a court martial or a Defence Force magistrate, the Director of Military Prosecutions:
 
                      (a)  may appear in person; or
 
@@ -7494,7 +7154,13 @@ Note:          The annual report prepared by the Director of M
 
              (1)  The Director of Military Prosecutions must, before proceeding to discharge the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
 
-             (2)  An oath or affirmation under this section is to be made before a Military Judge.
+             (2)  An oath or affirmation under this section is to be made before:
+
+                     (a)  the Judge Advocate General; or
+
+                     (b)  a Deputy Judge Advocate General; or
+
+                     (c)  the Chief Judge Advocate.
 
 ##### <a id="188GK"></a>188GK  Remuneration
 
@@ -7624,7 +7290,7 @@ Note:          The annual report prepared by the Director of M
 
                      (a)  the acquittal or conviction of a person of a service offence;
 
-                     (b)  the dismissal of a charge of a service offence against a person under section 130, 132B or 132D;
+                     (b)  the dismissal of a charge of a service offence against a person under section 130, 132 or 135;
 
                      (c)  the dismissal of a charge of an offence against a person under previous service law; or
 
@@ -7636,9 +7302,9 @@ Note:          The annual report prepared by the Director of M
 
                    An instrument purporting to be a warrant of commitment under section 170 and purporting to be signed by an authorized officer shall be received in evidence in any civil court without further proof and is _prima facie_ evidence of the facts stated in it.
 
-##### <a id="193"></a>193  Protection of members of military juries etc.
+##### <a id="193"></a>193  Protection of members of courts martial etc.
 
-             (1)  A member of a military jury, a Military Judge, a summary authority or a reviewing authority has, in the performance of his or her duties as such a member, Judge or authority, the same protection and immunity as a Justice of the High Court.
+             (1)  A member of a court martial, a judge advocate, a Defence Force magistrate, a summary authority or a reviewing authority has, in the performance of his or her duties as such a member, judge advocate, magistrate or authority, as the case may be, the same protection and immunity as a Justice of the High Court.
 
           (1A)  The Judge Advocate General has, in the performance of his or her duties as the Judge Advocate General, the same protection and immunity as a Justice of the High Court.
 
@@ -7650,13 +7316,13 @@ Note:          The annual report prepared by the Director of M
 
                      (a)  the Director of Military Prosecutions or a person assisting the Director of Military Prosecution; or
 
-                     (b)  the Registrar or a person assisting the Registrar;
+                     (b)  the Registrar of Military Justice or a person assisting the Registrar of Military Justice;
 
 in relation to an act done or omitted to be done in good faith in the exercise or purported exercise of a power, or the performance or purported performance of a function, conferred by or under this Act or any other law of the Commonwealth.
 
 ##### <a id="194"></a>194  Persons found to be of unsound mind
 
-             (1)  Where a direction has been given under section 145 or 158 that a person be kept in strict custody until the pleasure of the Governor-General is known, the Governor-General may, by writing signed by him or her, order that the person be detained in safe custody in such place and in accordance with such directions, if any, as the Governor-General specifies in the order.
+             (1)  Where a direction has been given under section 145, 158 or 164 that a person be kept in strict custody until the pleasure of the Governor-General is known, the Governor-General may, by writing signed by him or her, order that the person be detained in safe custody in such place and in accordance with such directions, if any, as the Governor-General specifies in the order.
 
              (2)  The Governor-General may, from time to time, by writing signed by him or her, vary an order made under subsection (1), either as to the place specified in the order or the directions so specified, or as to both, in such manner as the person thinks fit.
 
@@ -7694,9 +7360,9 @@ then:
 
 ##### <a id="195"></a>195  Supply of record of proceedings
 
-             (1)  Subject to this section, a person who has been tried by the Australian Military Court is, upon application made to the Attorney-General before the expiration of a period of 10 years commencing on the date of the delivery of the verdict in the trial and upon the payment of the prescribed fee (if any), entitled to be supplied with a copy of the record of the proceedings of the trial.
+             (1)  Subject to this section, a person who has been tried by a court martial or a Defence Force magistrate is, upon application made to the Attorney-General before the expiration of a period of 10 years commencing on the date of the delivery of the verdict in the trial and upon the payment of the prescribed fee (if any), entitled to be supplied with a copy of the record of the proceedings of the trial.
 
-             (2)  Subject to this section, where a person tried by the Australian Military Court has died before the expiration of a period of 10 years commencing on the date of the delivery of the verdict in the trial, his or her legal personal representative or, subject to subsection (3), a person approved by the Attorney-General as that person’s representative is, upon application made to the Attorney-General before the expiration of a period of 1 year commencing on the date of the death of the deceased person and upon the payment of the prescribed fee (if any), entitled to be supplied with a copy of the record of the proceedings of the trial.
+             (2)  Subject to this section, where a person tried by a court martial or a Defence Force magistrate has died before the expiration of a period of 10 years commencing on the date of the delivery of the verdict in the trial, his or her legal personal representative or, subject to subsection (3), a person approved by the Attorney-General as that person’s representative is, upon application made to the Attorney-General before the expiration of a period of 1 year commencing on the date of the death of the deceased person and upon the payment of the prescribed fee (if any), entitled to be supplied with a copy of the record of the proceedings of the trial.
 
              (3)  If there is a legal personal representative of a deceased person, the Attorney-General shall not approve a person as a representative of a deceased person unless the Attorney-General is satisfied that the legal personal representative has declined to take action in relation to the making of the application under subsection (2).
 
@@ -7706,11 +7372,27 @@ then:
 
              (6)  Where the record of the proceedings of a trial to which an application under subsection (1) or (2) relates is held by the Chief of the Defence Force or a service chief, the Attorney-General may make arrangements with the Chief of the Defence Force or the service chief for the supply of a copy of the record to the applicant.
 
+##### <a id="196"></a>196  Judge advocates’ panel
+
+             (1)  There shall be a panel of officers to be known as the judge advocates’ panel.
+
+             (2)  The Chief of the Defence Force or a service chief may, by writing signed by the Chief of the Defence Force or the service chief, appoint officers nominated by the Judge Advocate General to be members of the judge advocates’ panel.
+
+          (2A)  An appointment under subsection (2) is for the period specified in the instrument of appointment. However, if the specified period exceeds 3 years, the appointment is for a period of 3 years.
+
+          (2B)  An officer appointed under subsection (2) may be reappointed for a further period or periods.
+
+             (3)  An officer is not eligible for appointment to the judge advocates’ panel unless the officer is enrolled as a legal practitioner and has been so enrolled for not less than 5 years.
+
+             (4)  The Judge Advocate General shall require an officer appointed under subsection (2) to make and subscribe an oath or affirmation in accordance with the form in Schedule 5.
+
+             (5)  An oath or affirmation under subsection (4) shall be made before the Judge Advocate General or an officer authorized, in writing, by the Judge Advocate General for the purpose.
+
 ##### <a id="196A"></a>196A  Annual report relating to Defence Force discipline law
 
              (1)  The Judge Advocate General shall, as soon as practicable after each 31 December, prepare and furnish to the Minister a report relating to:
 
-                     (a)  the operation of this Act, the regulations, the Procedural Rules and the Summary Authority Rules; and
+                     (a)  the operation of this Act, the regulations and the rules of procedure; and
 
                      (b)  the operation of any other law of the Commonwealth or of the Australian Capital Territory in so far as that law relates to the discipline of the Defence Force;
 
@@ -7721,10 +7403,6 @@ during the year ending on that 31 December.
              (3)  A report under subsection (1) shall set out such statistical information as the Judge Advocate General considers appropriate.
 
              (4)  The first report under subsection (1) shall relate to the period commencing on the proclaimed date and expiring on the next succeeding 31 December.
-
-             (5)  In this section:
-
-                    <a name="procur-rule"></a>**_Procedural Rules_** means the rules made under section 149 of this Act as that section was in force immediately before the commencement of Schedule 1 to the _Defence Legislation Amendment Act 2006_.
 
 ##### <a id="196B"></a>196B  Annual report relating to the operations of the Director of Military Prosecutions
 
@@ -7741,20 +7419,6 @@ during the year ending on that 31 December.
                              (ii)  a copy of each such direction or guideline as in force at the end of that year.
 
              (3)  The first report under subsection (1) is to relate to the period beginning on the day on which this section commences and ending on the next 31 December.
-
-##### <a id="196C"></a>196C  Annual report relating to the operations of the Australian Military Court
-
-             (1)  The Chief Military Judge must, as soon as practicable after each 31 December, prepare and give to the Minister, for presentation to the Parliament, a report relating to:
-
-                     (a)  the operations of the Australian   Military Court; and
-
-                     (b)  the operations of the Australian Military Court Rules;
-
-during the year ending on that 31 December.
-
-             (2)  The report must set out such statistical information as the Chief Military Judge considers appropriate.
-
-             (3)  The first report is to relate to the period beginning on the day on which this section commences and ending on the next 31 December.
 
 ##### <a id="197"></a>197  Regulations
 
@@ -7849,11 +7513,19 @@ Dismissal from Her Majesty’s Service</div>
   </td>
 </tr></table>
 
-# Schedule 2—Punishments that may be imposed by the Australian   Military Court
+# Schedule 2—Punishments that may be imposed by a court martial or a Defence Force magistrate
 
 _Section 67_
 
-              1.  Subject to clause 2, the Australian   Military Court may impose punishments on convicted persons in accordance with the table in this Schedule.
+              1.  Subject to clause 2, a court martial or a Defence Force magistrate may impose punishments on convicted persons in accordance with the table in this Schedule.
+
+              2.  A restricted court martial or a Defence Force magistrate shall not impose any of the following punishments:
+
+                     (a)  imprisonment for life;
+
+                     (b)  imprisonment for a period exceeding 6 months;
+
+                     (c)  detention for a period exceeding 6 months.
 
 TABLE OF PUNISHMENTS
 
@@ -8375,7 +8047,7 @@ TABLE B—SUBORDINATE SUMMARY AUTHORITY
 
 # Schedule 4  
 
-_Sections 184, 188AF, 188AT, 188FF and 188GJ_
+_Sections 128, 184, 188FF and 188GJ_
 
 OATH
 
@@ -8384,6 +8056,18 @@ I, _A.B.,_ do swear that I will well and truly serve Her Majesty in the office o
 AFFIRMATION
 
 I, A.B., do solemnly and sincerely promise and declare that I will well and truly serve Her Majesty in the office of       and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will.
+
+# Schedule 5  
+
+_Section 196_
+
+OATH
+
+I, _A.B.,_ do swear that I will well and truly serve Her Majesty in the office of judge advocate and I will do right to all manner of people according to law, without fear or favour, affection or ill-will: So help me God!
+
+AFFIRMATION
+
+I, _A.B.,_ do solemnly and sincerely promise and declare that I will well and truly serve Her Majesty in the office of judge advocate and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will.
 
 # Schedule 6—Alternative offences
 
@@ -8813,7 +8497,5208 @@ _Section 142_
   </td>
 </tr></table>
 
+# Notes to the _Defence Force Discipline Act 1982_
+
+### Note 1
+
+The _Defence Force Discipline Act 1982_ as shown in this compilation comprises Act No. 152, 1982 amended as indicated in the Tables below.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information _see_ Table A.
+
+The _Defence Force Discipline Act 1982_ was modified by the _Defence Force Discipline Regulations 1985_ (1985 No. 125) _see_ Table B.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="31%">
+  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Defence Force Discipline Act 1982</div>
+  </td>
+  <td>
+    <div>152, 1982</div>
+  </td>
+  <td>
+    <div>31 Dec 1982</div>
+  </td>
+  <td>
+    <div>Parts I (ss. 1–9) and XI (ss. 
+179–188): Royal Assent 
+Remainder: 3 July 1985 ( <i>see Gazette</i>1985, No. S255)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act 1984</div>
+  </td>
+  <td>
+    <div>164, 1984</div>
+  </td>
+  <td>
+    <div>25 Oct 1984</div>
+  </td>
+  <td>
+    <div>Ss. 1, 2, 16–19, Part XIV (ss. 115, 116) and s.120: Royal Assent 
+Ss. 23–70 and 
+72–78: 3 July 1985 ( <i>see</i>s. 2(4) and <i>Gazette</i>1985, No. S255) 
+S. 71: 31 Dec 1982 ( <i>see</i>s. 2(3)) 
+Ss. 82, 83, 85 and 87–89: 1 July 1983 
+Ss. 84 and 86: 1 Oct 1972 
+Part XI (ss. 108, 109): 1 Jan 1985 
+Part XV (ss.117–119): 1 Aug 1984 ( <i>see</i>s. 2(8) and <i>Gazette</i>1984, No. S292) 
+S. 121: 1 Jan 1982 
+Remainder: 22 Nov 1984</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+  </td>
+  <td>
+    <div>65, 1985</div>
+  </td>
+  <td>
+    <div>5 June 1985</div>
+  </td>
+  <td>
+    <div>S. 3: 3 July 1985 <i>(a)</i></div>
+  </td>
+  <td>
+    <div>S. 7</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
+  </td>
+  <td>
+    <div>193, 1985</div>
+  </td>
+  <td>
+    <div>16 Dec 1985</div>
+  </td>
+  <td>
+    <div>S. 3: Royal Assent <i>(b)</i></div>
+  </td>
+  <td>
+    <div>S. 16</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986</div>
+  </td>
+  <td>
+    <div>28, 1986</div>
+  </td>
+  <td>
+    <div>19 May 1985</div>
+  </td>
+  <td>
+    <div>S. 61: Royal Assent 
+Remainder: 22 May 1986 ( <i>see Gazette</i>1986, No. S225)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+  </td>
+  <td>
+    <div>76, 1986</div>
+  </td>
+  <td>
+    <div>24 June 1986</div>
+  </td>
+  <td>
+    <div>S. 3: <i>(c)</i></div>
+  </td>
+  <td>
+    <div>S. 9</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act 1987</div>
+  </td>
+  <td>
+    <div>65, 1987</div>
+  </td>
+  <td>
+    <div>5 June 1987</div>
+  </td>
+  <td>
+    <div>Ss. 1–3, 9, 10, 13(1), 23–25, 26(1), 27, 29, 31, 33–36, 42–45, 48, 49, 52–58, 61(1), 62, 69(1), Parts IX and X (ss. 71–78): Royal Assent 
+S. 37(1) and Part IV (ss. 50, 51): 10 Nov 1977 ( <i>see</i>s. 2(3)) 
+Ss. 37(2) and 
+38–41: 3 July 1985 
+Ss. 46 and 47: 19 June 1973 ( <i>see</i>s. 2(2)) 
+Remainder: 1 July 1988 ( <i>see Gazette</i>1988, No. S173)</div>
+  </td>
+  <td>
+    <div>S. 34(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+  </td>
+  <td>
+    <div>99, 1988</div>
+  </td>
+  <td>
+    <div>2 Dec 1988</div>
+  </td>
+  <td>
+    <div>2 Dec 1988</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act (No. 2) 1988</div>
+  </td>
+  <td>
+    <div>104, 1988</div>
+  </td>
+  <td>
+    <div>6 Dec 1988</div>
+  </td>
+  <td>
+    <div>Part IV (ss. 20–23): Royal Assent <i>(d)</i></div>
+  </td>
+  <td>
+    <div>S. 23(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Crimes Legislation Amendment Act (No. 2) 1989</div>
+  </td>
+  <td>
+    <div>4, 1990</div>
+  </td>
+  <td>
+    <div>17 Jan 1990</div>
+  </td>
+  <td>
+    <div>S. 34: 17 July 1990 <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act 1990</div>
+  </td>
+  <td>
+    <div>75, 1990</div>
+  </td>
+  <td>
+    <div>22 Oct 1990</div>
+  </td>
+  <td>
+    <div>S. 3: Royal Assent <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Crimes Legislation Amendment Act 1991</div>
+  </td>
+  <td>
+    <div>28, 1991</div>
+  </td>
+  <td>
+    <div>4 Mar 1991</div>
+  </td>
+  <td>
+    <div>S. 74(1): Royal Assent <i>(g)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act 1995</div>
+  </td>
+  <td>
+    <div>43, 1995</div>
+  </td>
+  <td>
+    <div>15 June 1995</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 1–28, 31–34) and Schedule 7: Royal Assent <i>(h)</i> 
+Schedule 2 (items 29, 30): 1 Nov 1995 ( <i>see Gazette</i>1995, No. S361) <i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
+  </td>
+  <td>
+    <div>43, 1996</div>
+  </td>
+  <td>
+    <div>25 Oct 1996</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 21–23): 15 June 1995 <i>(ha)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
+  </td>
+  <td>
+    <div>43, 1996</div>
+  </td>
+  <td>
+    <div>25 Oct 1996</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 50, 51): <i>(I)</i> 
+Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act (No. 1) 1996</div>
+  </td>
+  <td>
+    <div>56, 1996</div>
+  </td>
+  <td>
+    <div>8 Nov 1996</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–3): 28 May 1992 Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 4)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act (No. 1) 1997</div>
+  </td>
+  <td>
+    <div>1, 1997</div>
+  </td>
+  <td>
+    <div>19 Feb 1997</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 120–126, 138, 139): Royal Assent <i>(j)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act (No. 1) 1999</div>
+  </td>
+  <td>
+    <div>116, 1999</div>
+  </td>
+  <td>
+    <div>22 Sept 1999</div>
+  </td>
+  <td>
+    <div>Schedule 6 (item 2): <i>(ja)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act (No. 1) 1999</div>
+  </td>
+  <td>
+    <div>116, 1999</div>
+  </td>
+  <td>
+    <div>22 Sept 1999</div>
+  </td>
+  <td>
+    <div>Schedule 4: Royal Assent <i>(k)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>146, 1999</div>
+  </td>
+  <td>
+    <div>11 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 368): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
+  </td>
+  <td>
+    <div>10, 2001</div>
+  </td>
+  <td>
+    <div>22 Mar 2001</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 35–39, 94, 95): 19 Apr 2001 <i>(m)</i></div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 
+94, 95) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td>
+    <div>141, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–111): 15 Dec 2001 Schedule 1 (item 112): <i>(n) 
+ </i>Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i>see</i>Table A] 
+S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2002</div>
+  </td>
+  <td>
+    <div>63, 2002</div>
+  </td>
+  <td>
+    <div>3 July 2002</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 10): <i>(na)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>135, 2003</div>
+  </td>
+  <td>
+    <div>17 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 28): <i>(nb)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+  </td>
+  <td>
+    <div>159, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>29 Oct 2001</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>135, 2003</div>
+  </td>
+  <td>
+    <div>17 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 1: 14 Jan 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 48) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act (No. 1) 2005</div>
+  </td>
+  <td>
+    <div>121, 2005</div>
+  </td>
+  <td>
+    <div>6 Oct 2005</div>
+  </td>
+  <td>
+    <div>Schedule 5: <i>(o) 
+ </i>Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act (No. 2) 2005</div>
+  </td>
+  <td>
+    <div>142, 2005</div>
+  </td>
+  <td>
+    <div>12 Dec 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1, 3–99, 106, 107, 109–114): 12 June 2006 
+Schedule 1 (items 2, 100–105, 108, 115): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 114, 115) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment Act 2006</div>
+  </td>
+  <td>
+    <div>159, 2006</div>
+  </td>
+  <td>
+    <div>11 Dec 2006</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–19, 36–202, 255–264): \[ <i>see</i>Note 2 and Table A] 
+Schedule 2 (items 1–5): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 255–264) and Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
+  </td>
+</tr></table>
+
  
+
+_(a)_     The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(16) of which provides as follows:
+
+               (16)   Section 7 and the amendments of the _Defence Force Discipline Act 1982_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent or, if Part II of that first-mentioned Act is not in force on the day immediately before the day on which this Act receives the Royal Assent, immediately after that Part comes into operation.
+
+_(b)_    The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(c)_     The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsections 2(1) and (8) of which provide as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+                 (8)   The amendments of sections 86A and 101AA of the _Defence Force Discipline Act 1982_ made by this Act shall be deemed to have come into operation on 3 July 1985.
+
+_(d)_     The _Defence Force Discipline Act 1982_ was amended by Part IV (sections 20–23) only of the _Defence Legislation Amendment Act (No. 2) 1988_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_     The _Defence Force Discipline Act 1982_ was amended by section 34 only of the _Crimes Legislation Amendment Act (No. 2) 1989_, subsections 2(13) and (14) of which provide as follows:
+
+               (13)   Subject to subsection (14), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
+
+               (14)   If a provision referred to in subsection (13) does not commence under that subsection within the period of 6 months beginning on the day it receives the Royal Assent, it commences on the first day after the end of that period.
+
+_(f)_      The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Defence Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(g)_     The _Defence Force Discipline Act 1982_ was amended by subsection 74(1) only of the _Crimes Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(h)_     The _Defence Force Discipline Act 1982_ was amended by the _Defence Legislation Amendment Act 1995_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   Except as indicated in subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
+
+                 (2)   Schedule 1 (except items 3 and 11.3), items 29 and 30 of Schedule 2, and Schedule 5 commence on a day to be fixed by Proclamation.
+
+_(ha)_   The _Defence Legislation Amendment Act 1995_ was amended by Schedule 3 (items 21–23) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+
+                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+
+_(i)_      The _Defence Force Discipline Act 1982_ was amended by Schedule 2 (items 50, 51), Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+
+         Items 50 and 51 are taken to have commenced immediately after the commencement of section 179 of the _Defence Force Discipline Act 1982_.
+
+         Section 179 commenced on 31 December 1982.
+
+_(j)_      The _Defence Force Discipline Act 1982_ was amended by Schedule 2 (items 120–126, 138 and 139) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(ja)_ The _Defence Legislation Amendment Act (No. 1) 1997_ was amended by Schedule 6 (item 2) only of the _Defence Legislation Amendment Act (No. 1) 1999_, subsection 2(5) of which provides as follows:
+
+                 (5)   Item 2 in Schedule 6 is taken to have commenced immediately after the commencement of Schedule 2 to the _Defence Legislation Amendment Act (No. 1) 1997._
+
+_(k)_     The _Defence Force Discipline Act 1982_ was amended by Schedule 4 only of the _Defence Legislation Amendment Act (No. 1) 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(l)_      The _Defence Force Discipline Act 1982_ was amended by Schedule 1 (item 368) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_ subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(m)_ The _Defence Force Discipline Act 1982_ was amended by Schedule 2 (items 35–39) only of the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
+
+_(n)_ Subsection 2(3) of the _Defence Legislation Amendment (Application of Criminal Code) Act 2001_ provides as follows:
+
+                 (3)   Part 2 of Schedule 1 is taken to have commenced immediately after the commencement of item 35 of Schedule 2 to the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_.
+
+         Schedule 2 (item 35) commenced on 19 April 2001.
+
+_(na)_   Subsection 2(1) (item 39) of the _Statute Law Revision Act 2002_provides as follows:
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      39\. Schedule 2, item 10
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>for
+        the commencement of item 41 of Schedule 1 to that Act
+    </div>
+  </td>
+  <td>
+    <div>
+      15 December 2001
+    </div>
+  </td>
+</tr></table>
+
+_(nb)_  Subsection 2(1) (item 9) of the _Defence Legislation Amendment Act 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      9\. Schedule 2, item 28
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      1 October 2001
+    </div>
+  </td>
+</tr></table>
+
+_(o)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendment Act (No. 1) 2005_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 5
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 3 of the
+        <i>Legislative Instruments Act 2003</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2005
+    </div>
+  </td>
+</tr></table>
+
+ 
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="35%">
+  <col width="65%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 28, 1986; No. 65, 1987; No. 104, 1988; No. 28, 1991; No. 43, 1995; No. 56, 1996; No. 1, 1997; Nos. 10 and 141, 2001; No. 135, 2003; Nos. 121 and 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5A</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 6, 7</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 141, 2001 (as am. by No. 63, 2002)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 28, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1 of Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 15A–15G</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 16A, 16B</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 20, 21</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 23, 24</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 26–29</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 31</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 34</div>
+  </td>
+  <td>
+    <div>am. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001; No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36A</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001; No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36B</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 37, 38</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5 of Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40A</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40B</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 40C, 40D</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5A of Part III</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 47A–47H</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 47J–47N, 47P</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 6 of Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49A</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 52–54</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 6A of Part III</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 54A(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 7 of Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 55–57</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 8 of Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61</div>
+  </td>
+  <td>
+    <div>am. No. 28, 1991; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 9</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62</div>
+  </td>
+  <td>
+    <div>rs. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63</div>
+  </td>
+  <td>
+    <div>am. No. 75, 1990; No. 28, 1991; No. 43, 1995; No. 56, 1996; No. 121, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64</div>
+  </td>
+  <td>
+    <div>am. No. 121, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 67</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 1, 1997; No. 121, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 1, 1997; No. 121, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68B</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 193, 1985; Nos. 99 and 104, 1988</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 121, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68C</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 72</div>
+  </td>
+  <td>
+    <div>rs. No. 4, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 28, 1991; No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 75–77</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 80</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 83</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 84</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 99, 1988</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86A</div>
+  </td>
+  <td>
+    <div>ad. No. 65, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 88</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 89</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 92, 93</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 94</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 95</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 1, 1997; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 95A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 96</div>
+  </td>
+  <td>
+    <div>am. No. 28, 1991; No. 43, 1995; No. 116, 1999; No. 141, 2001; No. 121, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 97</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 1, 1997; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 99, 100</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VI</div>
+  </td>
+  <td>
+    <div>rs. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101</div>
+  </td>
+  <td>
+    <div>rs. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101AA</div>
+  </td>
+  <td>
+    <div>ad. No. 65, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101B</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 101C</div>
+  </td>
+  <td>
+    <div>rs. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101C</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 101D</div>
+  </td>
+  <td>
+    <div>rs. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101D</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101E</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101F</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 159, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101G</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101H</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101J</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101JA</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101K</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 101L–101N</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 101P, 101Q</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101QA</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 101QA(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101R</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 101S–101U</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 101V, 101W</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101X</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995 (as am. by No. 43, 1996)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 101Y, 101Z</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part VII</div>
+  </td>
+  <td>
+    <div>rs. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 102</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 103</div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 135, 2003; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 103(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 2 to s. 103(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 103(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 103(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 103(6)</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 104</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 75, 1990; No. 43, 1995; No. 56, 1996; No. 121, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105A</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 106, 107</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 108</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 65, 1985; No. 65, 1987; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995 (as am. by No. 43, 1996)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 113</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 118</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 119</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 119(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 120</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 121</div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 123</div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 123</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 124</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 124(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 125</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 127</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 127</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 128</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 129</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 129A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 129A(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5 of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 129B</div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 129B, 129C</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 130</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 130A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131</div>
+  </td>
+  <td>
+    <div>am. No. 65, 1987; No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 131A</div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 133</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 134</div>
+  </td>
+  <td>
+    <div>am. No. 28, 1991; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 136</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 137</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 138, 139</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 140</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 141</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 141A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 142</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 28, 1991; No. 141, 2001; No. 121, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 144</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 145</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 141, 2001; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 145A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995 (as am. by No. 43, 1996); No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 146</div>
+  </td>
+  <td>
+    <div>am. No. 28, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 99, 1988; Nos. 121 and 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IX</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 150</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 150A</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 151</div>
+  </td>
+  <td>
+    <div>am. No. 65, 1985; No. 43, 1995; No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 152</div>
+  </td>
+  <td>
+    <div>am. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 153</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 154</div>
+  </td>
+  <td>
+    <div>am. No. 65, 1985; No. 43, 1995; No. 1, 1997; No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 155</div>
+  </td>
+  <td>
+    <div>am. No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 1, 1997 (as am. by No. 116, 1999); No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 156</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 158</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 160, 161</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 162</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 65, 1987; No. 4, 1990; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 164</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 166</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IXA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IXA</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169A</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169B</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 169C, 169D</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169E</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169F</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169FA</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 169G, 169H</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169J</div>
+  </td>
+  <td>
+    <div>ad. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part X</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 170</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 171</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 172</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 175</div>
+  </td>
+  <td>
+    <div>am. No. 65, 1985; No. 146, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 176, 177</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XA</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 178</div>
+  </td>
+  <td>
+    <div>rs. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 178A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 178B</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 178C</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 178D</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part XI</div>
+  </td>
+  <td>
+    <div>rs. No. 135, 2003; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part XI</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 179</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 180</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 181</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 182</div>
+  </td>
+  <td>
+    <div>am. No. 104, 1988</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 183</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 159, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 184</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185</div>
+  </td>
+  <td>
+    <div>am. No. 65, 1985; No. 43, 1995; No. 43, 1996; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186–188</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part XI</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188A</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188B</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188C</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188D</div>
+  </td>
+  <td>
+    <div>ad. No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188E</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part XI</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188F</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 188FA–188FM</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XIA</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1 of Part XIA</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188G</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 188GA–188GE</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part XIA</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 188GF–188GQ</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part XIA</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188GR</div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 190</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 135, 2003; No. 121, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 191</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 193</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 194</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 194A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 195</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 196</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 1, 1997 (as am. by No. 116, 1999); No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 196A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 196B</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1995; No. 43, 1996; No. 1, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 116, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 3</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 135, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 3A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 3A</div>
+  </td>
+  <td>
+    <div>ad. No. 164, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 4</div>
+  </td>
+  <td>
+    <div>am. No. 142, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 6</div>
+  </td>
+  <td>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 141, 2001</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Defence Legislation Amendment Act 2006 (No. 159, 2006)_
+
+The following amendments commence on 1 October 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsection 3(1)
+
+Insert:
+
+                    <a name="audio-link"></a>**_audio link_** means facilities (for example, telephone facilities) that enable audio communication between persons in different places.
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="australian-militari-court"></a>**_Australian Military Court_** means the court created under section 114.
+
+## 3  Subsection 3(1)
+
+Insert:
+
+                    <a name="australian-militari-court-rule"></a>**_Australian Military Court Rules_** means the rules made under section 149A.
+
+## 4  Subsection 3(1)
+
+Insert:
+
+                    <a name="chief-militari-judg"></a>**_Chief Military Judge_** means the person appointed under section 188AC.
+
+## 5  Subsection 3(1)
+
+Insert:
+
+                    <a name="class-offenc"></a>**_class 1 offence_** means a service offence that is specified to be a class 1 offence in the table in clause 1 of Schedule 7.
+
+## 6  Subsection 3(1)
+
+Insert:
+
+                    <a name="class-offenc"></a>**_class 2 offence_** means a service offence that is:
+
+                     (a)  specified to be a class 2 offence in the table in clause 1 of Schedule 7; or
+
+                     (b)  neither a class 1 offence nor a class 3 offence.
+
+## 7  Subsection 3(1)
+
+Insert:
+
+                    <a name="class-offenc"></a>**_class 3 offence_** means a service offence that:
+
+                     (a)  is specified to be a class 3 offence in the table in clause 1 of Schedule 7; or
+
+                     (b)  both:
+
+                              (i)  has a maximum penalty of not greater than 5 years imprisonment or is not punishable by imprisonment; and
+
+                             (ii)  is not specified to be a class 1 offence or a class 2 offence in the table in clause 1 of Schedule 7.
+
+## 8  Subsection 3(1)
+
+Insert:
+
+                    <a name="militari-judg"></a>**_Military Judge_** means:
+
+                     (a)  a person appointed under section 188AP; and
+
+                    (aa)  except in Divisions 2 and 2A of Part XI, a person appointed as an acting Military Judge under section 188BB; and
+
+                     (b)  except in section 188AN and Division 2A of Part XI, the Chief Military Judge.
+
+## 9  Subsection 3(1)
+
+Insert:
+
+                    <a name="militari-juri"></a>**_military jury_** means a jury constituted in accordance with this Act (including the Australian Military Court Rules) for the trial of a charge of a service offence that is to be tried by a Military Judge and military jury.
+
+## 10  Subsection 3(1)
+
+Insert:
+
+                    <a name="video-link"></a>**_video link_** means facilities (for example, closed-circuit television facilities) that enable audio and visual communication between persons in different places.
+
+## 11  Divisions 3, 4 and 5 of Part VII
+
+Repeal the Divisions, substitute:
+
+### Division 3—Australian Military Court
+
+##### <a id="114"></a>114  Creation of the Australian Military Court
+
+             (1)  A court, to be known as the Australian Military Court, is created by this Act.
+
+Note 1:       The Australian Military Court is not a court for the purposes of Chapter III of the Constitution.
+
+Note 2:       The Australian Military Court is a service tribunal for the purposes of this Act: see the definition of **_service tribunal_** in subsection 3(1).
+
+          (1A)  The Australian Military Court is a court of record.
+
+             (2)  The Australian Military Court consists of:
+
+                     (a)  the Chief Military Judge; and
+
+                     (b)  such other Military Judges as from time to time hold office in accordance with this Act.
+
+##### <a id="115"></a>115  Jurisdiction
+
+             (1)  Subject to section 63, the Australian Military Court has jurisdiction to try any charge against any person.
+
+             (2)  However, the Australian Military Court does not have jurisdiction to try a charge of a custodial offence.
+
+             (3)  The Australian Military Court has jurisdiction to take action under Part IV in relation to a convicted person if the conviction had been referred to the Court under subsection 103(5) for that purpose.
+
+             (4)  Before taking action under subsection (3), the Australian Military Court must hear evidence relevant to the determination of what action should be taken.
+
+##### <a id="116"></a>116  Exercise of jurisdiction
+
+             (1)  For the purposes of the exercise of the jurisdiction of the Australian Military Court, the Court is to be constituted by a single Military Judge.
+
+             (2)  The Australian Military Court constituted by a Military Judge may sit and exercise the jurisdiction of the Court even if the Court constituted by another Military Judge is at the same time sitting and exercising the jurisdiction of the Court.
+
+##### <a id="117"></a>117  Venue
+
+             (1)  The Australian Military Court may sit at any place in or outside Australia.
+
+             (2)  The Australian Military Court may, at any stage of proceedings in the Court, order that:
+
+                     (a)  the proceedings; or
+
+                     (b)  a part of the proceedings;
+
+be conducted or continued at a place specified in the order, subject to such conditions (if any) as the Court imposes.
+
+##### <a id="118"></a>118  Referral of cases to the Australian Military Court and nomination of Military Judges
+
+Referral of charges
+
+             (1)  The Registrar must refer a charge to the Australian   Military Court if the Director of Military Prosecutions requests the Registrar to do so.
+
+             (2)  The Chief Military Judge must nominate the Military Judge who is to try the charge.
+
+Referral of convictions
+
+             (3)  The Registrar must refer a conviction to the Australian Military Court to take action under Part IV in relation to a convicted person if the Director of Military Prosecutions requests the Registrar to do so.
+
+             (4)  The Chief Military Judge must nominate the Military Judge who is to take action in relation to the person.
+
+##### <a id="119"></a>119  Seal of the Australian Military Court
+
+             (1)  The Australian Military Court is to have a seal, and the design of the seal is to be determined in writing by the Minister.
+
+             (2)  The seal of the Australian Military Court must be kept in such custody as the Chief Military Judge directs.
+
+             (3)  The seal of the Australian Military Court must be affixed to documents as provided by this or any other Act or by the Australian Military Court Rules.
+
+             (4)  A determination made under subsection (1) is not a legislative instrument.
+
+##### <a id="120"></a>120  Stamp of the Australian Military Court
+
+             (1)  There are to be one or more Australian   Military Court stamps. For this purpose, an **_Australian Military Court_****_stamp_** is a stamp the design of which is, as nearly as practicable, the same as the design of the seal of the Australian Military Court.
+
+             (2)  A document or a copy of a document marked with an Australian Military Court stamp is as valid and effectual as if it had been sealed with the seal of the Australian Military Court.
+
+             (3)  An Australian Military Court stamp must be affixed to documents as provided by this or any other Act or by the Australian Military Court Rules.
+
+##### <a id="121"></a>121  Staff of the Australian Military Court
+
+                   The staff necessary to assist the Australian   Military Court are to be the following:
+
+                     (a)  defence members made available for the purpose by the appropriate service chief;
+
+                     (b)  persons engaged under the _Public Service Act 1999_ and made available for the purpose by the Secretary of the Department.
+
+### Division 4—Military jury
+
+##### <a id="122"></a>122  Constitution of a military jury
+
+             (1)  There are to be:
+
+                     (a)  12 members on a military jury for a trial of a class 1 offence; and
+
+                     (b)  6 members on a military jury for a trial of a class 2 offence or class 3 offence.
+
+             (2)  At least one member of the jury must hold a rank that is not lower than the naval rank of commander or the rank of lieutenant-colonel or wing commander.
+
+             (3)  The requirements of subsection (2) apply only if, and to the extent that, the exigencies of service permit.
+
+##### <a id="123"></a>123  Eligibility to be a member of a military jury
+
+Eligibility where accused is an officer or a defence civilian
+
+             (1)  Where the accused person is an officer or a defence civilian, a person is eligible to be a member, or a reserve member _,_ of a military jury for the trial of the accused person if:
+
+                     (a)  the person is an officer; and
+
+                     (b)  the person has been an officer for a continuous period of not less than 3 years or for periods that total no less than 3 years; and
+
+                     (c)  if the accused person is an officer—the person holds a rank that is not lower than the rank held by the accused person.
+
+Eligibility where accused is not an officer or a defence civilian
+
+             (2)  Where the accused person is not an officer or a defence civilian, a person is eligible to be a member, or a reserve member, of a military jury for the trial of the accused person if:
+
+                     (a)  the person:
+
+                              (i)  is an officer; or
+
+                             (ii)  holds a rank not lower than the naval rank of warrant officer, the army rank of warrant officer class 1, or the air force rank of warrant officer; and
+
+                     (b)  the person has been an officer, or held a rank not lower than warrant officer or warrant officer class 1, for a continuous period of not less than 3 years or for periods that total no less than 3 years.
+
+             (3)  The requirements of this section apply only if, and to the extent that, the exigencies of service permit.
+
+##### <a id="124"></a>124  Determination of questions by a military jury
+
+             (1)  In a trial of a charge of a service offence that is to be tried by Military Judge and military jury, the military jury is responsible for deciding the questions whether the accused person:
+
+                     (a)  is guilty or not guilty of the offence; and
+
+                     (b)  at the time of the act or omission the subject of the charge, was suffering from such unsoundness of mind as not to be responsible, in accordance with law, for that act or omission.
+
+             (2)  A decision of a military jury on the questions in subsection (1) is to be made by:
+
+                     (a)  unanimous agreement of the jury members; or
+
+                     (b)  if the conditions in subsection (3) are met—five-sixths majority agreement of the jury members.
+
+             (3)  The conditions are:
+
+                     (a)  the jury has deliberated for at least 8 hours; and
+
+                     (b)  the jury does not have unanimous agreement after that time but does have five-sixths majority agreement; and
+
+                     (c)  the Australian Military Court is satisfied that:
+
+                              (i)  the period of time for deliberation is reasonable, having regard to the nature and complexity of the case; and
+
+                             (ii)  after examination on oath or affirmation of one or more of the jurors, it is unlikely that the jurors would reach unanimous agreement after further deliberation.
+
+             (4)  A military jury must sit without any other person present when deciding the questions in subsection (1).
+
+## 12  Division 2 of Part VIII (heading)
+
+Repeal the heading, substitute:
+
+### Division 2—Trial by the Australian   Military Court
+
+## 13  Sections 132 to 135
+
+Repeal the sections, substitute:
+
+##### <a id="132A"></a>132A  Trial of class 1, class 2 and class 3 offences
+
+             (1)  A class 1 offence is to be tried by a Military Judge and military jury.
+
+             (2)  A class 2 offence is to be tried by a Military Judge and military jury, unless the accused person elects to be tried by a Military Judge alone.
+
+             (3)  A class 3 offence is to be tried by a Military Judge alone, unless the accused person elects to be tried by a Military Judge and military jury.
+
+##### <a id="132B"></a>132B  Trial by Military Judge and military jury
+
+             (1)  Subject to section 132E, the trial of a charge of a service offence that is to be tried by a Military Judge and military jury is to be in accordance with the following subsections.
+
+             (2)  Before evidence on the charge is heard, the Military Judge must ask the accused person whether he or she pleads guilty or not guilty to the charge.
+
+             (3)  If the accused person pleads guilty and the Military Judge is satisfied that the person understands the effect of that plea, the Military Judge must convict the person.
+
+             (4)  If:
+
+                     (a)  the accused person pleads not guilty, refuses to plead or does not plead intelligibly; or
+
+                     (b)  the Military Judge is not satisfied that the accused person, in pleading guilty, understands the effect of that plea;
+
+the Military Judge must record a plea of not guilty and the Military Judge and the military jury must proceed to hear the evidence on the charge.
+
+             (5)  If the Military Judge, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is insufficient to support the charge, the Military Judge must dismiss the charge.
+
+             (6)  If the Military Judge, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is sufficient to support the charge, the Military Judge and military jury must proceed with the trial.
+
+             (7)  If the military jury finds the accused person not guilty, the Military Judge must acquit the person.
+
+             (8)  If the military jury finds the accused person guilty, the Military Judge must convict the person.
+
+##### <a id="132C"></a>132C  Powers of the Military Judge in trial by Military Judge and military jury
+
+             (1)  In the trial of a charge of a service offence that is to be tried by a Military Judge and military jury, the Military Judge must give any ruling, and exercise any discretion, that, in accordance with the law in force in the Jervis Bay Territory, would be given or exercised by a judge in a trial by jury.
+
+             (2)  If, in a trial by jury in the Jervis Bay Territory, the judge would, in accordance with the law in force in that Territory, sit in the absence of the jury for any purpose in connection with:
+
+                     (a)  the giving of a ruling; or
+
+                     (b)  the exercise of a discretion;
+
+the Military Judge must, for any purpose in connection with the giving of such a ruling, or the exercise of such a discretion, sit without the members of the military jury.
+
+             (3)  A ruling given by the Military Judge in accordance with subsection (1) and a decision made by the Military Judge under subsection 141(5) or (6) is binding on the military jury.
+
+             (4)  The powers conferred on the Military Judge by this section are in addition to any other powers conferred on the Military Judge by any other provision of this Act, the regulations or the Australian Military Court Rules.
+
+##### <a id="132D"></a>132D  Trial by Military Judge alone
+
+             (1)  Subject to section 132E, the trial of a charge of a service offence that is to be tried by a Military Judge alone is to be in accordance with the following subsections.
+
+             (2)  Before evidence on the charge is heard, the Military Judge must ask the accused person whether he or she pleads guilty or not guilty to the charge.
+
+             (3)  If the accused person pleads guilty and the Military Judge is satisfied that the person understands the effect of that plea, the Military Judge must convict the person.
+
+             (4)  If:
+
+                     (a)  the accused person pleads not guilty, refuses to plead or does not plead intelligibly; or
+
+                     (b)  the Military Judge is not satisfied that the accused person, in pleading guilty, understands the effect of that plea;
+
+the Military Judge must record a plea of not guilty and proceed to hear the evidence on the charge.
+
+             (5)  If the Military Judge, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is insufficient to support the charge, the Military Judge must dismiss the charge.
+
+             (6)  If the Military Judge, after hearing the evidence on the charge adduced by the prosecution, rules that that evidence is sufficient to support the charge, the Military Judge must proceed with the trial.
+
+             (7)  If the Military Judge finds the accused person not guilty, the Military Judge must acquit the person.
+
+             (8)  If the Military Judge finds the accused person guilty, the Military Judge must convict the person.
+
+##### <a id="132E"></a>132E  Additional matters about trials by Military Judge alone or with a military jury
+
+             (1)  If, under subsection 132B(2) or 132D(2), an accused person pleads guilty to a service offence that is one (other than the first) of 2 or more charges stated in the charge sheet in the alternative, the Military Judge must:
+
+                     (a)  if the Director of Military Prosecutions notifies the Judge that he or she does not object to the acceptance of the plea—accept the plea and proceed in accordance with section 132B or 132D; or
+
+                     (b)  in any other case—record a plea of not guilty and proceed in accordance with section 132B or 132D.
+
+             (2)  If an accused person who has pleaded not guilty withdraws his or her plea and pleads guilty, the Military Judge must, if the Judge is satisfied that the person understands the effect of that plea, substitute a plea of guilty for the plea of not guilty and proceed in accordance with section 132B or 132D.
+
+             (3)  A Military Judge is not required to give a ruling of the kind referred to in subsection 132B(5) or 132D(5) unless:
+
+                     (a)  the accused person has submitted that the Judge should give the ruling; or
+
+                     (b)  the interests of justice require that the Judge should give the ruling.
+
+             (4)  A Military Judge is not required to give a ruling of the kind referred to in subsection 132B(6) or 132D(6).
+
+##### <a id="132F"></a>132F  Australian   Military Court to take action against convicted persons
+
+             (1)  If an accused person is convicted under section 132B or 132D, the Australian Military Court must take action under Part IV in relation to the convicted person.
+
+             (2)  Before taking action, the Court must hear evidence relevant to determining what action should be taken.
+
+## 13A  Section 148
+
+Before “A service”, insert “(1)”.
+
+## 13B  At the end of section 148
+
+Add:
+
+             (2)  The Australian Military Court may order that the whole or a specified part of a record under subsection (1) that relates to proceedings before the Court is not to be published if the Court considers that such a publication would be inappropriate, taking account of the interests of the security or defence of Australia, the proper administration of justice, public morals or any other matter it considers relevant.
+
+## 14  After section 148
+
+Insert:
+
+#### Subdivision B—Use of video and audio links in the Australian Military Court
+
+##### <a id="148A"></a>148A  Testimony by video link or audio link
+
+             (1)  The Australian Military Court may, for the purposes of proceedings before it, direct or allow testimony to be given by video link or audio link.
+
+             (2)  The testimony must be given on oath or affirmation unless:
+
+                     (a)  the person giving the testimony is in a foreign country; and
+
+                     (b)  either:
+
+                              (i)  the law in force in that country does not permit the person to give testimony on oath or affirmation for the purposes of the proceedings; or
+
+                             (ii)  the law in force in that country would make it inconvenient for the person to give testimony on oath or affirmation for the purposes of the proceedings; and
+
+                     (c)  the Court is satisfied that it is appropriate for the testimony to be given otherwise than on oath or affirmation.
+
+             (3)  If the testimony is given otherwise than on oath or affirmation, the Court is to give the testimony such weight as the Court thinks fit in the circumstances.
+
+             (4)  The power conferred on the Court by subsection (1) may be exercised:
+
+                     (a)  on the application of the accused person or the Director of Military Prosecutions; or
+
+                     (b)  on the Court’s own initiative.
+
+             (5)  This section applies whether the person giving testimony is in or outside Australia, but does not apply if the person giving testimony is in New Zealand.
+
+Note:          See the _Evidence and Procedure (__New   Zealand__) Act 1994_.
+
+##### <a id="148B"></a>148B  Appearance of persons or submissions made by video link or audio link
+
+             (1)  The Australian Military Court may, for the purposes of proceedings before it, direct or allow a person:
+
+                     (a)  to appear before the Court; or
+
+                     (b)  to make a submission to the Court;
+
+by way of video link or audio link.
+
+             (2)  The power conferred on the Court by subsection (1) may be exercised:
+
+                     (a)  on the application of the accused person or the Director of Military Prosecutions; or
+
+                     (b)  on the Court’s own initiative.
+
+             (3)  This section applies whether the person appearing is in or outside Australia, but does not apply if the person appearing is in New Zealand.
+
+Note:          See the _Evidence and Procedure (__New   Zealand__) Act 1994_.
+
+##### <a id="148C"></a>148C  Conditions for use of video links and audio links
+
+Video link
+
+             (1)  The Australian Military Court must not exercise the power conferred by subsection 148A(1) or 148B(1) in relation to a video link unless the Court is satisfied that the following conditions are met in relation to the video link:
+
+                     (a)  the courtroom or other place where the Court is sitting is equipped with facilities (for example, television monitors) that enable all eligible persons present in that courtroom or place to see and hear the person (the **_remote person_**) who is:
+
+                              (i)  giving the testimony; or
+
+                             (ii)  appearing; or
+
+                            (iii)  making the submission;
+
+                            by way of the video link;
+
+                     (b)  the place at which the remote person is located is equipped with facilities (for example, television monitors) that enable all eligible persons present in that place to see and hear each eligible person who is present in the courtroom or other place where the Court is sitting;
+
+                     (c)  such other conditions (if any) as are prescribed by the Australian Military Court Rules in relation to the video link;
+
+                     (d)  such other conditions (if any) as are imposed by the Court.
+
+             (2)  The conditions that may be prescribed by the Australian Military Court Rules in accordance with paragraph (1)(c) include conditions relating to:
+
+                     (a)  the form of the video link; and
+
+                     (b)  the equipment, or class of equipment, used to establish the link; and
+
+                     (c)  the layout of cameras; and
+
+                     (d)  the standard of transmission; and
+
+                     (e)  the speed of transmission; and
+
+                      (f)  the quality of communication.
+
+Audio link
+
+             (3)  The Court must not exercise the power conferred by subsection 148A(1) or 148B(1) in relation to an audio link unless the Court is satisfied that the following conditions are met in relation to the audio link:
+
+                     (a)  the courtroom or other place where the Court is sitting is equipped with facilities (for example, loudspeakers) that enable all eligible persons present in that courtroom or place to hear the person (the **_remote person_**) who is:
+
+                              (i)  giving the testimony; or
+
+                             (ii)  appearing; or
+
+                            (iii)  making the submission;
+
+                            by way of the audio link;
+
+                     (b)  the place at which the remote person is located is equipped with facilities (for example, loudspeakers) that enable all eligible persons present in that place to hear each eligible person who is present in the courtroom or other place where the Court is sitting;
+
+                     (c)  such other conditions (if any) as are prescribed by the Australian Military Court Rules in relation to the audio link;
+
+                     (d)  such other conditions (if any) as are imposed by the Court.
+
+             (4)  The conditions that may be prescribed by the Australian Military Court Rules in accordance with paragraph (3)(c) include conditions relating to:
+
+                     (a)  the form of the audio link; and
+
+                     (b)  the equipment, or class of equipment, used to establish the audio link; and
+
+                     (c)  the standard of transmission; and
+
+                     (d)  the speed of transmission; and
+
+                     (e)  the quality of communication.
+
+Eligible persons
+
+             (5)  For the purposes of the application of this section to particular proceedings, **_eligible persons_** are such persons as the Australian Military Court considers should be treated as eligible persons for the purposes of the proceedings.
+
+##### <a id="148D"></a>148D  Putting documents to a person by video link or audio link
+
+                   If, in the course of an examination or appearance of a person by video link or audio link in accordance with this Subdivision, it is necessary to put a document to the person, the Australian   Military Court may direct or allow the document to be put to the person:
+
+                     (a)  if the document is physically present in the courtroom or other place where the Court is sitting:
+
+                              (i)  by causing a copy of the document to be transmitted to the place where the person is located; and
+
+                             (ii)  by causing the transmitted copy to be put to the person; or
+
+                     (b)  if the document is physically present in the place where the person is located:
+
+                              (i)  by causing the document to be put to the person; and
+
+                             (ii)  by causing a copy of the document to be transmitted to the courtroom or other place where the Court is sitting.
+
+##### <a id="148E"></a>148E  Administration of oaths and affirmations
+
+                   An oath to be sworn, or an affirmation to be made, by a person (the **_remote person_**) who is to give testimony by video link or audio link in accordance with this Subdivision may be administered:
+
+                     (a)  by means of the video link or audio link, as the case may be, in a way that, as nearly as practicable, corresponds to the way in which the oath or affirmation would be administered if the remote person were to give testimony in the courtroom or other place where the Australian Military Court is sitting; or
+
+                     (b)  if the Australian Military Court allows another person who is present at the place where the remote person is located to administer the oath or affirmation—by that other person.
+
+##### <a id="148F"></a>148F  New   Zealand proceedings
+
+                   This Subdivision does not affect the operation of the _Evidence and Procedure (__New Zealand__) Act 1994_.
+
+## 15  Before section 149
+
+Insert:
+
+#### Subdivision C—Rules of procedure for service tribunals
+
+## 16  Section 149
+
+Repeal the section, substitute:
+
+##### <a id="149"></a>149  The Summary Authority Rules
+
+                   The Judge Advocate General may, by legislative instrument, make rules, to be known as the Summary Authority Rules, providing for the practice and procedure to be followed by summary authorities and, in particular, providing for:
+
+                     (a)  the attendance of witnesses; and
+
+                     (b)  the production of documents; and
+
+                     (c)  the administration of oaths and affirmations; and
+
+                     (d)  the forms to be used in relation to proceedings before a summary authority; and
+
+                     (e)  the service of any process of a summary authority; and
+
+                      (f)  charge sheets in proceedings before a summary authority; and
+
+                     (g)  the manner and form of charges brought before a summary authority; and
+
+                     (h)  the recording of proceedings of a summary authority.
+
+##### <a id="149A"></a>149A  The Australian Military Court Rules
+
+                   The Chief Military Judge may, by legislative instrument, make rules, to be known as the Australian Military Court Rules, providing for:
+
+                     (a)  the practice and procedure to be followed by the Court and, in particular, providing for:
+
+                              (i)  pre-trial hearings and directions; and
+
+                             (ii)  the attendance of witnesses; and
+
+                            (iii)  the manner and timing of elections in relation to trial by military jury; and
+
+                            (iv)  the giving of testimony and other evidence; and
+
+                             (v)  the production of documents; and
+
+                            (vi)  the administration of oaths and affirmations; and
+
+                           (vii)  the forms to be used in relation to proceedings before the Court; and
+
+                           (viii)  the service of any process of the Court; and
+
+                            (ix)  charge sheets in proceedings before the Court; and
+
+                             (x)  the manner and form of charges brought before the Court; and
+
+                            (xi)  the recording of proceedings of the Court; and
+
+                           (xii)  the duties of the Registrar in respect of the practice and procedure of the Court; and
+
+                           (xiii)  the maintenance of the customs and traditions of the Defence Force in proceedings before the Court; and
+
+                     (b)  matters concerning a military jury, including the summoning, attendance, empanelling of, the right of challenge, polling and the discharge of the jury; and
+
+                     (c)  any matter required or permitted by this Act to be prescribed by the Rules.
+
+## 17  Division 2 of Part XI
+
+Repeal the Division, substitute:
+
+### Division 2—Chief Military Judge
+
+##### <a id="188AA"></a>188AA  Chief Military Judge
+
+                   There is to be a Chief Military Judge of the Australian Military Court.
+
+##### <a id="188AB"></a>188AB  Role of the Chief Military Judge
+
+                   The Chief Military Judge is responsible for:
+
+                     (a)  ensuring the orderly and expeditious discharge of the business of the Australian Military Court; and
+
+                     (b)  managing the administrative affairs of the Australian Military Court; and
+
+                     (c)  matters conferred on the Chief Military Judge by or under this Act.
+
+##### <a id="188AC"></a>188AC  Appointment of Chief Military Judge
+
+             (1)  The Chief Military Judge is to be appointed by the Governor-General by written instrument.
+
+             (2)  The Chief Military Judge holds office for 10 years.
+
+Note:          If, before the expiration of the term of appointment, the Chief Military Judge retires from the Australian Defence Force, he or she ceases to be the Chief Military Judge on retirement: see paragraph 188AL(2)(b).
+
+             (3)  A person must not be appointed as the Chief Military Judge if the person has been a Chief Military Judge.
+
+Note:          However, the person may be appointed as an acting Military Judge under section 188BB.
+
+             (4)  The Chief Military Judge holds office on a full-time basis.
+
+##### <a id="188AD"></a>188AD  Qualifications for Chief Military Judge
+
+                   A person must not be appointed as the Chief Military Judge unless:
+
+                     (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
+
+                     (b)  the person is a member of the Permanent Navy, the Regular Army or the Permanent Air Force, or is a member of the Reserves who is rendering continuous full-time service; and
+
+                     (c)  the person holds a rank not lower than the naval rank of commodore or the rank of brigadier or air commodore; and
+
+                     (d)  the person meets the person’s individual service deployment requirements.
+
+##### <a id="188AE"></a>188AE  Selection of Chief Military Judge
+
+             (1)  The Minister may, by notice in writing given to the Chief of the Defence Force, request the Chief of the Defence Force to establish an independent selection committee to give to the Minister, within the period specified in the notice:
+
+                     (a)  the name of a person, or the names of persons, the committee considers suitable for appointment as the Chief Military Judge; and
+
+                     (b)  all the applications made for the office; and
+
+                     (c)  any other thing specified by the Minister in the notice.
+
+             (2)  If the Chief of the Defence Force receives such a notice, the Chief of the Defence Force must establish the committee.
+
+             (3)  The committee must invite all persons who satisfy, or who are capable of satisfying, the qualification requirements in section 188AD to apply for appointment as the Chief Military Judge within the period specified in the notice under subsection (1).
+
+             (4)  The appointment of a person as the Chief Military Judge is not invalid because:
+
+                     (a)  of a defect or irregularity in the process for selecting the person for appointment; or
+
+                     (b)  the committee did not comply with subsection (3).
+
+##### <a id="188AF"></a>188AF  Oath or affirmation
+
+             (1)  The Chief Military Judge must, before proceeding to discharge the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
+
+             (2)  An oath or affirmation under this section is to be made before:
+
+                     (a)  in the case of the first Chief Military Judge—the Judge Advocate General; or
+
+                     (b)  in any other case—a Military Judge.
+
+##### <a id="188AG"></a>188AG  Remuneration
+
+             (1)  Subject to this section, the Chief Military Judge is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, he or she is to be paid the remuneration that is prescribed.
+
+             (2)  The Chief Military Judge is to be paid the allowances that are prescribed.
+
+             (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
+
+##### <a id="188AH"></a>188AH  Leave of absence
+
+             (1)  The Chief Military Judge has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+
+             (2)  The Governor-General may grant the Chief Military Judge leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Governor-General determines.
+
+##### <a id="188AI"></a>188AI  No outside employment
+
+                   The Chief Military Judge must not engage in employment outside the duties of his or her office.
+
+##### <a id="188AJ"></a>188AJ  No promotion other than automatic mid-term promotion
+
+             (1)  Subject to subsection (2), the Chief Military Judge is not eligible for a promotion in rank during the period he or she is the Chief Military Judge.
+
+             (2)  The Chief Military Judge is, by force of this subsection, promoted to the next rank on the 5 year anniversary of his or her appointment as Chief Military Judge.
+
+             (3)  However, subsection (2) does not apply if the Chief Military Judge already holds the naval rank of Rear Admiral or the rank of Major-General or Air Vice-Marshal.
+
+##### <a id="188AK"></a>188AK  Resignation
+
+             (1)  The Chief Military Judge may resign his or her appointment by giving the Governor-General a written resignation.
+
+             (2)  The resignation takes effect 3 months, or such shorter period agreed to by the Governor-General, after it is given.
+
+##### <a id="188AL"></a>188AL  Termination of appointment
+
+             (1)  The Governor-General may terminate the appointment of the Chief Military Judge:
+
+                     (a)  for misbehaviour; or
+
+                     (b)  for physical or mental incapacity; or
+
+                     (c)  if the Chief Military Judge no longer meets his or her individual service deployment requirements.
+
+             (2)  The Chief Military Judge ceases to hold office if he or she:
+
+                     (a)  ceases to be enrolled as a legal practitioner; or
+
+                     (b)  is neither:
+
+                              (i)  a member of the Permanent Navy, the Regular Army or the Permanent Air Force; nor
+
+                             (ii)  a member of the Reserves who is rendering continuous full-time service; or
+
+                     (c)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
+
+                     (d)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months.
+
+##### <a id="188AN"></a>188AN  Acting Chief Military Judge
+
+             (1)  The Governor-General may appoint a full-time Military Judge to act as the Chief Military Judge:
+
+                     (a)  during a vacancy in the office, whether or not an appointment has previously been made to that office; or
+
+                     (b)  during any period, or during all periods, when the Chief Military Judge is absent from duty, or is, for any other reason, unable to perform the functions of his or her office.
+
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+### Division 2A—Military Judges
+
+##### <a id="188AO"></a>188AO  Military Judges
+
+                   There are to be Military Judges of the Australian   Military Court.
+
+##### <a id="188AP"></a>188AP  Appointment of Military Judges
+
+             (1)  A Military Judge is to be appointed by the Governor-General by written instrument.
+
+             (2)  A Military Judge must be appointed either as a full-time Military Judge or as a part-time Military Judge.
+
+             (3)  There are to be 2 full-time Military Judges and no more than 8 part-time Military Judges. (To avoid doubt, this subsection does not require there to be 8 part-time Military Judges at any one time.)
+
+Note:          This subsection does not prevent the appointment of additional acting Military Judges: see section 188BB.
+
+             (4)  A Military Judge holds office for 10 years.
+
+Note:          If, before the expiration of the term of appointment, a Military Judge retires from the Australian Defence Force, he or she ceases to be a Military Judge on retirement: see paragraphs 188AZ(2)(b) and (c).
+
+          (4A)  A person must not be appointed as a Military Judge if the person has been a Chief Military Judge or a Military Judge.
+
+Note:          However, the person may be appointed as the Chief Military Judge under section 188AC or as an acting Military Judge under section 188BB.
+
+             (5)  A full-time Military Judge holds office on a full-time basis and a part-time Military Judge holds office on a part-time basis.
+
+##### <a id="188AQ"></a>188AQ  Appointment of part-time Military Judge not to affect tenure etc.
+
+                   If a person:
+
+                     (a)  holds the judicial office of justice, judge or magistrate of a federal court; and
+
+                     (b)  is appointed, or serves, as a part-time Military Judge;
+
+the appointment or service does not affect his or her:
+
+                     (c)  tenure of that judicial office; or
+
+                     (d)  rank, title, status, precedence, salary, annual or other allowances or other rights or privileges as the holder of that judicial office;
+
+and, for all purposes, his or her service as a part-time Military Judge is taken to be service as the holder of that judicial office.
+
+##### <a id="188AR"></a>188AR  Qualifications for Military Judges
+
+Full-time Military Judges
+
+             (1)  A person must not be appointed as a full-time Military Judge unless:
+
+                     (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
+
+                     (b)  the person is a member of:
+
+                              (i)  the Permanent Navy, the Regular Army or the Permanent Air Force; or
+
+                             (ii)  is a member of the Reserves and is rendering continuous full-time service; and
+
+                     (c)  the person holds a rank not lower than the naval rank of commander or the rank of lieutenant colonel or wing commander; and
+
+                     (d)  the person meets the person’s individual service deployment requirements.
+
+Part-time Military Judges
+
+             (2)  A person must not be appointed as a part-time Military Judge unless:
+
+                     (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
+
+                     (b)  the person is a member of the Reserves and is not rendering continuous full-time service; and
+
+                     (c)  the person holds a rank not lower than the naval rank of commander or the rank of lieutenant colonel or wing commander; and
+
+                     (d)  the person meets the person’s individual service deployment requirements.
+
+##### <a id="188AS"></a>188AS  Selection of Military Judges
+
+             (1)  The Minister may, by notice in writing given to the Chief of the Defence Force, request the Chief of the Defence Force to establish an independent selection committee to give to the Minister, within the period specified in the notice:
+
+                     (a)  the name of a person, or the names of persons, the committee considers suitable for appointment as a Military Judge; and
+
+                     (b)  all the applications made for the office; and
+
+                     (c)  any other thing specified by the Minister in the notice.
+
+             (2)  If the Chief of the Defence Force receives such a notice, the Chief of the Defence Force must establish the committee.
+
+             (3)  The committee must invite all persons who satisfy, or who are capable of satisfying, the qualification requirements in section 188AR to apply for nomination for appointment as a Military Judge within the period specified in the notice under subsection (1).
+
+             (4)  The appointment of a person as a Military Judge is not invalid because:
+
+                     (a)  of a defect or irregularity in the process for selecting the person for appointment; or
+
+                     (b)  the committee did not comply with subsection (3).
+
+##### <a id="188AT"></a>188AT  Oath or affirmation
+
+             (1)  A Military Judge must, before proceeding to discharge the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
+
+             (2)  An oath or affirmation under this section is to be made before the Chief Military Judge or a Military Judge.
+
+##### <a id="188AU"></a>188AU  Remuneration
+
+             (1)  Subject to this section, a Military Judge is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, he or she is to be paid the remuneration that is prescribed.
+
+             (2)  A Military Judge is to be paid the allowances that are prescribed.
+
+             (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
+
+Special rules for part-time Military Judges
+
+             (4)  If a person:
+
+                     (a)  is a justice, judge or magistrate of a federal court, or of a State or Territory court; and
+
+                     (b)  is appointed as a part-time Military Judge; and
+
+                     (c)  receives salary or annual allowance as such a justice, judge or magistrate for the period of the appointment as a part-time Military Judge;
+
+then he or she is not entitled to remuneration under this Act for that period.
+
+             (5)  If a person is a justice, judge or magistrate of a State or Territory court, the Minister may, for the purpose of appointing the person as a part-time Military Judge, enter into such arrangement with the appropriate State or Territory Minister as is necessary to secure the person’s services.
+
+             (6)  An arrangement under subsection (5) with a State or Territory Minister may provide for the Commonwealth to reimburse the State or Territory with respect to the services of the person to whom the arrangement relates.
+
+##### <a id="188AV"></a>188AV  Leave of absence
+
+             (1)  A Military Judge has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+
+             (2)  The Governor-General may grant a Military Judge leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Governor-General determines.
+
+##### <a id="188AW"></a>188AW  Outside employment
+
+Full-time Military Judges
+
+             (1)  A full-time Military Judge must not engage in employment outside the duties of his or her office.
+
+Part-time Military Judges
+
+             (2)  A part-time Military Judge must not engage in employment outside the duties of his or her office as Military Judge if to do so would conflict with his or her duties as Military Judge.
+
+##### <a id="188AX"></a>188AX  No promotion other than automatic mid-term promotion
+
+             (1)  Subject to subsection (2), a Military Judge is not eligible for a promotion in rank during the period he or she is a Military Judge.
+
+             (2)  A Military Judge is, by force of this subsection, promoted to the next rank on the 5 year anniversary of his or her appointment as a Military Judge.
+
+             (3)  However, subsection (2) does not apply if the Military Judge already holds the naval rank of Commodore or the rank of Brigadier or Air Commodore.
+
+##### <a id="188AY"></a>188AY  Resignation
+
+             (1)  A Military Judge may resign his or her appointment by giving the Governor-General a written resignation.
+
+             (2)  The resignation takes effect 3 months, or such shorter period agreed to by the Governor-General, after it is given.
+
+##### <a id="188AZ"></a>188AZ  Termination of appointment
+
+             (1)  The Governor-General may terminate the appointment of a Military Judge:
+
+                     (a)  for misbehaviour; or
+
+                     (b)  for physical or mental incapacity; or
+
+                     (c)  if the Military Judge no longer meets his or her individual service deployment requirements.
+
+             (2)  A Military Judge ceases to hold office if:
+
+                     (a)  he or she ceases to be enrolled as a legal practitioner; or
+
+                     (b)  if he or she is a full-time Military Judge—he or she is neither:
+
+                              (i)  a member of the Permanent Navy, the Regular Army or the Permanent Air Force; nor
+
+                             (ii)  a member of the Reserves who is rendering continuous full-time service; or
+
+                     (c)  if he or she is a part-time Military Judge—he or she is not a member of the Reserves who is not rendering continuous full-time service; or
+
+                     (d)  he or she becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
+
+                     (e)  he or she is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months.
+
+##### <a id="188BB"></a>188BB  Acting Military Judges
+
+Recommendation to appoint an acting Military Judge
+
+             (1)  If _,_ after receiving advice from the Chief Military Judge, the Minister considers that a charge that has been, or will be, referred to the Australian Military Court requires the experience or expertise of a person who:
+
+                     (a)  has been a Chief Military Judge or Military Judge; or
+
+                     (b)  is, or has been, a justice, judge or magistrate of a federal court, or of a State or Territory court;
+
+the Minister may make a recommendation to the Governor-General that the person be appointed to act as a Military Judge to try the charge and, in the case of a conviction, take action under Part IV.
+
+Appointment
+
+             (2)  If the Minister makes such a recommendation, the Governor-General may, by written instrument, appoint the person as an acting Military Judge.
+
+Qualifications
+
+             (3)  However, the Governor-General must not appoint the person unless:
+
+                     (a)  the person is enrolled as a legal practitioner and has been so enrolled for not less than 5 years; and
+
+                     (b)  the person is a member of:
+
+                              (i)  the Permanent Navy, the Regular Army or the Permanent Air Force; or
+
+                             (ii)  the Reserves; and
+
+                     (c)  the person holds a rank not lower than the naval rank of commander or the rank of lieutenant colonel or wing commander; and
+
+                     (d)  the person meets the person’s individual service deployment requirements.
+
+Term of appointment
+
+             (4)  An acting Military Judge holds office for the period specified in the instrument of appointment. The instrument must provide that the period ends on:
+
+                     (a)  if the proceedings for the charge are terminated without the accused person being acquitted or convicted—the day of the termination; or
+
+.                    (b)  if the accused person is acquitted—the day of the acquittal; or
+
+                     (c)  if the accused person is convicted—the day that action is taken under Part IV.
+
+Appointment to be part-time
+
+             (5)  An acting Military Judge holds office on a part-time basis.
+
+Resignation
+
+             (6)  An acting Military Judge may resign his or her appointment by giving the Governor-General a written resignation. The resignation takes effect 2 weeks after it is given.
+
+Terms and conditions etc.
+
+             (7)  The following provisions apply to an acting Military Judge as if a reference to “Military Judge” in those provisions included a reference to “acting Military Judge”:
+
+                     (a)  section 188AQ (appointment not to affect tenure etc.);
+
+                     (b)  section 188AT (oath or affirmation);
+
+                     (c)  section 188AU (remuneration);
+
+                     (d)  section 188AV (leave of absence);
+
+                     (e)  subsection 188AW(2) (outside employment);
+
+                      (f)  subsection 188AX(1) (no promotion);
+
+                     (g)  section 188AZ, other than paragraph 188AZ(2)(b) (termination of appointment).
+
+## 18  After section 196B
+
+Insert:
+
+##### <a id="196C"></a>196C  Annual report relating to the operations of the Australian Military Court
+
+             (1)  The Chief Military Judge must, as soon as practicable after each 31 December, prepare and give to the Minister, for presentation to the Parliament, a report relating to:
+
+                     (a)  the operations of the Australian   Military Court; and
+
+                     (b)  the operations of the Australian Military Court Rules;
+
+during the year ending on that 31 December.
+
+             (2)  The report must set out such statistical information as the Chief Military Judge considers appropriate.
+
+             (3)  The first report is to relate to the period beginning on the day on which this section commences and ending on the next 31 December.
+
+## 19  At the end of the Act
+
+Add:
 
 # Schedule 7—Class 1, class 2 and class 3 offences
 
@@ -10060,5092 +14945,861 @@ _Note:       See subsection 3(1) for definitions of class 1 offence,
 
                             (iii)  the offence may be heard and determined by a civil court of summary jurisdiction.
 
-# Notes to the _Defence Force Discipline Act 1982_
+## 36  Subsection 3(1) (paragraphs (a) and (b) of the definition of _appropriate authority_)
 
-### Note 1
+Repeal the paragraphs, substitute:
 
-The _Defence Force Discipline Act 1982_ as shown in this compilation comprises Act No. 152, 1982 amended as indicated in the Tables below.
+                     (a)  in relation to proceedings before the Australian Military Court, means the Australian Military Court.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information _see_ Table A.
+## 37  Subsection 3(1) (definition of _Chief Judge Advocate_)
 
-The _Defence Force Discipline Act 1982_ was modified by the _Defence Force Discipline Regulations 1985_ (1985 No. 125) _see_ Table B.
+Repeal the definition.
 
-### Table of Acts
+## 38  Subsection 3(1) (definition of _Defence Force magistrate_)
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="15%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+Repeal the definition.
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Defence Force Discipline Act 1982</div>
-  </td>
-  <td>
-    <div>152, 1982</div>
-  </td>
-  <td>
-    <div>31 Dec 1982</div>
-  </td>
-  <td>
-    <div>Parts I (ss. 1–9) and XI (ss. 
-179–188): Royal Assent 
-Remainder: 3 July 1985 ( <i>see Gazette</i>1985, No. S255)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>164, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2, 16–19, Part XIV (ss. 115, 116) and s.120: Royal Assent 
-Ss. 23–70 and 
-72–78: 3 July 1985 ( <i>see</i>s. 2(4) and <i>Gazette</i>1985, No. S255) 
-S. 71: 31 Dec 1982 ( <i>see</i>s. 2(3)) 
-Ss. 82, 83, 85 and 87–89: 1 July 1983 
-Ss. 84 and 86: 1 Oct 1972 
-Part XI (ss. 108, 109): 1 Jan 1985 
-Part XV (ss.117–119): 1 Aug 1984 ( <i>see</i>s. 2(8) and <i>Gazette</i>1984, No. S292) 
-S. 121: 1 Jan 1982 
-Remainder: 22 Nov 1984</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 7</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
-  </td>
-  <td>
-    <div>193, 1985</div>
-  </td>
-  <td>
-    <div>16 Dec 1985</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 16</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986</div>
-  </td>
-  <td>
-    <div>28, 1986</div>
-  </td>
-  <td>
-    <div>19 May 1985</div>
-  </td>
-  <td>
-    <div>S. 61: Royal Assent 
-Remainder: 22 May 1986 ( <i>see Gazette</i>1986, No. S225)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td>
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>65, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>Ss. 1–3, 9, 10, 13(1), 23–25, 26(1), 27, 29, 31, 33–36, 42–45, 48, 49, 52–58, 61(1), 62, 69(1), Parts IX and X (ss. 71–78): Royal Assent 
-S. 37(1) and Part IV (ss. 50, 51): 10 Nov 1977 ( <i>see</i>s. 2(3)) 
-Ss. 37(2) and 
-38–41: 3 July 1985 
-Ss. 46 and 47: 19 June 1973 ( <i>see</i>s. 2(2)) 
-Remainder: 1 July 1988 ( <i>see Gazette</i>1988, No. S173)</div>
-  </td>
-  <td>
-    <div>S. 34(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 2) 1988</div>
-  </td>
-  <td>
-    <div>104, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>Part IV (ss. 20–23): Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 23(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 1989</div>
-  </td>
-  <td>
-    <div>4, 1990</div>
-  </td>
-  <td>
-    <div>17 Jan 1990</div>
-  </td>
-  <td>
-    <div>S. 34: 17 July 1990 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>75, 1990</div>
-  </td>
-  <td>
-    <div>22 Oct 1990</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>28, 1991</div>
-  </td>
-  <td>
-    <div>4 Mar 1991</div>
-  </td>
-  <td>
-    <div>S. 74(1): Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>43, 1995</div>
-  </td>
-  <td>
-    <div>15 June 1995</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–28, 31–34) and Schedule 7: Royal Assent <i>(h)</i> 
-Schedule 2 (items 29, 30): 1 Nov 1995 ( <i>see Gazette</i>1995, No. S361) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 21–23): 15 June 1995 <i>(ha)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 50, 51): <i>(I)</i> 
-Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1996</div>
-  </td>
-  <td>
-    <div>56, 1996</div>
-  </td>
-  <td>
-    <div>8 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–3): 28 May 1992 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1997</div>
-  </td>
-  <td>
-    <div>1, 1997</div>
-  </td>
-  <td>
-    <div>19 Feb 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 120–126, 138, 139): Royal Assent <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>116, 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 2): <i>(ja)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>116, 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>Schedule 4: Royal Assent <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 368): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
-  </td>
-  <td>
-    <div>10, 2001</div>
-  </td>
-  <td>
-    <div>22 Mar 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 35–39, 94, 95): 19 Apr 2001 <i>(m)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 
-94, 95) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>141, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–111): 15 Dec 2001 Schedule 1 (item 112): <i>(n) 
- </i>Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A] 
-S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 10): <i>(na)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 28): <i>(nb)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1: 14 Jan 2004</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 48) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 2005</div>
-  </td>
-  <td>
-    <div>121, 2005</div>
-  </td>
-  <td>
-    <div>6 Oct 2005</div>
-  </td>
-  <td>
-    <div>Schedule 5: <i>(o) 
- </i>Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 2) 2005</div>
-  </td>
-  <td>
-    <div>142, 2005</div>
-  </td>
-  <td>
-    <div>12 Dec 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 3–99, 106, 107, 109–114): 12 June 2006 
-Schedule 1 (items 2, 100–105, 108, 115): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 114, 115) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>159, 2006</div>
-  </td>
-  <td>
-    <div>11 Dec 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Oct 2007 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 255–264) and Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+## 39  Subsection 3(1) (definition of _judge advocate_)
 
-_(a)_     The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(16) of which provides as follows:
+Repeal the definition.
 
-               (16)   Section 7 and the amendments of the _Defence Force Discipline Act 1982_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent or, if Part II of that first-mentioned Act is not in force on the day immediately before the day on which this Act receives the Royal Assent, immediately after that Part comes into operation.
+## 40  Subsection 3(1) (definition of _judge advocates’ panel_)
 
-_(b)_    The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
+Repeal the definition.
 
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+## 41  Subsection 3(1) (definition of _prescribed acquittal_)
 
-_(c)_     The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsections 2(1) and (8) of which provide as follows:
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
 
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+## 42  Subsection 3(1) (definition of _President_)
 
-                 (8)   The amendments of sections 86A and 101AA of the _Defence Force Discipline Act 1982_ made by this Act shall be deemed to have come into operation on 3 July 1985.
+Repeal the definition.
 
-_(d)_     The _Defence Force Discipline Act 1982_ was amended by Part IV (sections 20–23) only of the _Defence Legislation Amendment Act (No. 2) 1988_, subsection 2(1) of which provides as follows:
+## 43  Subsection 3(1)
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+Insert:
 
-_(e)_     The _Defence Force Discipline Act 1982_ was amended by section 34 only of the _Crimes Legislation Amendment Act (No. 2) 1989_, subsections 2(13) and (14) of which provide as follows:
+                    <a name="registrar"></a>**_Registrar_** means the Registrar of the Australian   Military Court appointed under section 188FB.
 
-               (13)   Subject to subsection (14), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
+## 44  Subsection 3(1) (definition of _Registrar of Military Justice_)
 
-               (14)   If a provision referred to in subsection (13) does not commence under that subsection within the period of 6 months beginning on the day it receives the Royal Assent, it commences on the first day after the end of that period.
+Repeal the definition.
 
-_(f)_      The _Defence Force Discipline Act 1982_ was amended by section 3 only of the _Defence Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
+## 45  Subsection 3(1) (definition of _rules of procedure_)
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+Omit “rules of procedure in force under section 149”, substitute “the Australian Military Court Rules and the Summary Authority Rules”.
 
-_(g)_     The _Defence Force Discipline Act 1982_ was amended by subsection 74(1) only of the _Crimes Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
+## 46  Subsection 3(1) (definition of _service tribunal_)
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+Omit “a court martial, a Defence Force magistrate”, substitute “the Australian Military Court”.
 
-_(h)_     The _Defence Force Discipline Act 1982_ was amended by the _Defence Legislation Amendment Act 1995_, subsections 2(1) and (2) of which provide as follows:
+## 47  Subsection 3(1)
 
-                 (1)   Except as indicated in subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
+Insert:
 
-                 (2)   Schedule 1 (except items 3 and 11.3), items 29 and 30 of Schedule 2, and Schedule 5 commence on a day to be fixed by Proclamation.
+                    <a name="summari-author-rule"></a>**_Summary Authority Rules_** means the rules made under section 149.
 
-_(ha)_   The _Defence Legislation Amendment Act 1995_ was amended by Schedule 3 (items 21–23) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+## 48  Paragraph 5A(a)
 
-                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+Omit “a Defence Force magistrate or a court martial”, substitute “the Australian Military Court”.
 
-_(i)_      The _Defence Force Discipline Act 1982_ was amended by Schedule 2 (items 50, 51), Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
+## 49  Paragraph 53(4)(a)
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+Repeal the paragraph, substitute:
 
-                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+                     (a)  insults a member of a military jury, a Military Judge or a summary authority in, or in relation to, the exercise of his or her powers or functions as such a member, Judge or authority; or
 
-         Items 50 and 51 are taken to have commenced immediately after the commencement of section 179 of the _Defence Force Discipline Act 1982_.
+## 49A  Paragraph 53(4)(d)
 
-         Section 179 commenced on 31 December 1982.
+Repeal the paragraph, substitute:
 
-_(j)_      The _Defence Force Discipline Act 1982_ was amended by Schedule 2 (items 120–126, 138 and 139) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+                     (d)  engages in any other conduct that:
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                              (i)  in the case of the Australian   Military Court—constitutes a contempt of that court; and
 
-_(ja)_ The _Defence Legislation Amendment Act (No. 1) 1997_ was amended by Schedule 6 (item 2) only of the _Defence Legislation Amendment Act (No. 1) 1999_, subsection 2(5) of which provides as follows:
+                             (ii)  in the case of a service tribunal other than the Australian Military Court—would, if the service tribunal were a court of record, constitute a contempt of that court.
 
-                 (5)   Item 2 in Schedule 6 is taken to have commenced immediately after the commencement of Schedule 2 to the _Defence Legislation Amendment Act (No. 1) 1997._
+## 50  Subsection 53(5)
 
-_(k)_     The _Defence Force Discipline Act 1982_ was amended by Schedule 4 only of the _Defence Legislation Amendment Act (No. 1) 1999_, subsection 2(1) of which provides as follows:
+Omit “a service tribunal that is a court martial or a Defence Force magistrate, during proceedings before the tribunal, the tribunal”, substitute “the Australian Military Court during proceedings before the Court, the Court”.
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+## 51  Subsection 53(6)
 
-_(l)_      The _Defence Force Discipline Act 1982_ was amended by Schedule 1 (item 368) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_ subsections 2(1) and (2) of which provide as follows:
+Omit “a service tribunal”, substitute “the Australian Military   Court”.
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+## 52  Subsection 67(1)
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
+Omit “A court martial or a Defence Force magistrate shall”, substitute “The Australian Military Court must”.
 
-_(m)_ The _Defence Force Discipline Act 1982_ was amended by Schedule 2 (items 35–39) only of the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
+## 53  Subsection 77(1)
 
-                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
 
-_(n)_ Subsection 2(3) of the _Defence Legislation Amendment (Application of Criminal Code) Act 2001_ provides as follows:
+## 54  Paragraph 77(1)(b)
 
-                 (3)   Part 2 of Schedule 1 is taken to have commenced immediately after the commencement of item 35 of Schedule 2 to the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_.
+Omit “tribunal”, substitute “Court”.
 
-         Schedule 2 (item 35) commenced on 19 April 2001.
+## 55  Subsection 77(1)
 
-_(na)_   Subsection 2(1) (item 39) of the _Statute Law Revision Act 2002_provides as follows:
+Omit “the court martial or the Defence Force magistrate”, substitute “the Court”.
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
+## 56  Subsection 77(2)
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      39\. Schedule 2, item 10
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>for
-        the commencement of item 41 of Schedule 1 to that Act
-    </div>
-  </td>
-  <td>
-    <div>
-      15 December 2001
-    </div>
-  </td>
-</tr></table>
+Omit “A court martial or a Defence Force magistrate shall”, substitute “The Australian Military Court must”.
 
-_(nb)_  Subsection 2(1) (item 9) of the _Defence Legislation Amendment Act 2003_ provides as follows:
+## 57  Subsection 77(3)
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+Repeal the subsection, substitute:
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
+             (3)  If the Australian Military Court does not take a service offence into consideration under subsection (1) because:
 
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 2, item 28
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>
+                     (a)  the prosecution did not give its consent; or
 
-    </div>
-  </td>
-  <td>
-    <div>
-      1 October 2001
-    </div>
-  </td>
-</tr></table>
+                     (b)  the Court rejected the convicted person’s request;
 
-_(o)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendment Act (No. 1) 2005_ provides as follows:
+an admission for the purposes of paragraph (1)(c) in relation to that service offence is not admissible as evidence in:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                     (c)  any other proceeding before a service tribunal in respect of that service offence; or
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
+                     (d)  any proceeding in a civil court in respect of a civil court offence that is substantially the same offence as that service offence.
 
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Legislative Instruments Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
+## 58  Subsections 80(1) and (4)
 
- 
+Omit “subsections 172(1) and (2)”, substitute “subsection 172(2)”.
 
-## Table of Amendments
+## 59  Subparagraphs 87(1)(c)(ii) and (iii)
 
-<table>
-<colgroup>
-  <col width="35%">
-  <col width="65%">
-</colgroup>
+Repeal the subparagraphs, substitute:
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 28, 1986; No. 65, 1987; No. 104, 1988; No. 28, 1991; No. 43, 1995; No. 56, 1996; No. 1, 1997; Nos. 10 and 141, 2001; No. 135, 2003; Nos. 121 and 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6, 7</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 141, 2001 (as am. by No. 63, 2002)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15A–15G</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16A, 16B</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 20, 21</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23, 24</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 26–29</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 34</div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36A</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36B</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 37, 38</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40A</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40B</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40C, 40D</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5A of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47A–47H</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47J–47N, 47P</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 6 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49A</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 6A of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 54A(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 7 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 55–57</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 8 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 75, 1990; No. 28, 1991; No. 43, 1995; No. 56, 1996; No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 1, 1997; No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997; No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68B</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 193, 1985; Nos. 99 and 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68C</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>rs. No. 4, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 75, 76</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86A</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 87(1)</div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 92, 93</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 1, 1997; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 96</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991; No. 43, 1995; No. 116, 1999; No. 141, 2001; No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 1, 1997; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 99, 100</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI</div>
-  </td>
-  <td>
-    <div>rs. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101</div>
-  </td>
-  <td>
-    <div>rs. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101AA</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101B</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 101C</div>
-  </td>
-  <td>
-    <div>rs. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101C</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 101D</div>
-  </td>
-  <td>
-    <div>rs. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101D</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101E</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101F</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101G</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101H</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101J</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101JA</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101K</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 101L–101N</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101P</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101Q</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101QA</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 101QA(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101R</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 101S–101U</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 101V, 101W</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101X</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995 (as am. by No. 43, 1996)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 101Y, 101Z</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101ZA</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101ZB</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part VII</div>
-  </td>
-  <td>
-    <div>rs. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 102</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 103</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 135, 2003; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 103(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 103(1) 
-Renumbered Note</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005 
-No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 103(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 103(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 103(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 103(6)</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 75, 1990; No. 43, 1995; No. 56, 1996; No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105A</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 106, 107</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 108</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 109</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 65, 1985; No. 65, 1987; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995 (as am. by No. 43, 1996)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 113</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part VII</div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 114</div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 115</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 117</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 118</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 119</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 119(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 120</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 121</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part VII</div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 122</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 123</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 123</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 124</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 124(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 125</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 126</div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 127</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 127</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 128</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 129</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 129A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 129A(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5 of Part VII</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 129B</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 129B, 129C</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 130</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 130A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1987; No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 131A</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part VIII</div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 132A–132F</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 133</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 134</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 136</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 136</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 137</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 137</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. A of Div. 2 
-of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 138, 139</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 140</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 141</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 141A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 142</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 28, 1991; No. 141, 2001; No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 144</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 145</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 141, 2001; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 145A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995 (as am. by No. 43, 1996); No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 146</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 147</div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 148</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. B of Div. 3 of Part VIII.</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 148A–148F</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. C of 
-Div. 3 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 149</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 99, 1988; Nos. 121 and 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 149A</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IX</div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 150</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 150A</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 151</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 43, 1995; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 152</div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 153</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 135, 2003; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 154</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 43, 1995; No. 1, 1997; No. 135, 2003; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 155</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 155</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 1, 1997 (as am. by No. 116, 1999); No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 156</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 157</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 158</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 160</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 161</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 162</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 65, 1987; No. 4, 1990; No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part IX</div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 163</div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 164</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 165</div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 166</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IXA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IXA</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169A</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169B</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 169C, 169D</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169E</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169F</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169FA</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 169G, 169H</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169J</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part X</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 170</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 171</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 172</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 173</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 175</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 176</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 177</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XA</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 178</div>
-  </td>
-  <td>
-    <div>rs. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 178A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 178B</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 178C</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 178D</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part XI</div>
-  </td>
-  <td>
-    <div>rs. No. 135, 2003; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 179</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 180</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 181</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 182</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 183</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 184</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 43, 1995; No. 43, 1996; No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 186–188</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188A</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 188AA–188AL</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188AN</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 188AO–188AZ</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188B</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188BB</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188C</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188D</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188E</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part XI</div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 188F</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188F</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 188FA</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188FA</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 188FB</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 188FB–188FM</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XIA</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part XIA</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188G</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 188GA, 188GB</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 188GC–188GE</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part XIA</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 188GF–188GI</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188GJ</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 188GK–188GQ</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part XIA</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188GR</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 190</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 135, 2003; No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 191</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 193</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 193</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 194</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 194A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 195</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 1, 1997; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 196</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 1, 1997 (as am. by No. 116, 1999); No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 196A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 196B</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 43, 1996; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 116, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 196C</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Schedule 2</div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 4</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 5</div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 6</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 7</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 2006</div>
-  </td>
-</tr></table>
+                             (ii)  request the Registrar to refer the charge to the Australian Military Court for trial;
+
+## 60  Subsection 87(1) (note)
+
+Repeal the note.
+
+## 61  Subsection 88(1)
+
+Omit “of Military Justice”.
+
+## 62  Subsection 88(1A)
+
+Repeal the subsection, substitute:
+
+          (1A)  The Registrar may carry out an action under subsection (1) only if the Australian Military Court directs the Registrar to carry out the action.
+
+## 63  Subsection 101F(5)
+
+Omit “172(3A), (4) or (5)”, substitute “172(5)”.
+
+## 64  Subsection 101J(1)
+
+Omit “, or, in the case of a court martial, the judge advocate of the court martial,”.
+
+## 65  Subsections 101JA(3) and (4)
+
+Omit “, or, in the case of a court martial, the judge advocate of the court martial,”.
+
+## 66  Subsection 101JA(5)
+
+Repeal the subsection, substitute:
+
+             (5)  If proceedings are before a military jury and the Military Judge permits evidence to be given under subsection (3) or (4), the Judge must:
+
+                     (a)  inform the members of the military jury of:
+
+                              (i)  the non-compliance with the requirements of this section; or
+
+                             (ii)  the absence of sufficient evidence of compliance with the requirements of this section; and
+
+                     (b)  give the members such warning about the evidence as he or she thinks appropriate in the circumstances.
+
+## 67  Subsections 101K(8) and (9)
+
+Omit “, or, in the case of a court martial, the judge advocate of the court martial,”.
+
+## 68  Subsection 101K(9)
+
+Omit “but this subsection does not prevent a judge advocate from directing the members of a court martial with respect to”, substitute “but, in proceedings before a military jury, this subsection does not prevent the Military Judge from giving directions to the members of the jury about”.
+
+## 69  Subsection 101K(10)
+
+Omit “, or, in the case of a court martial, the judge advocate of the court martial,”.
+
+## 70  Subsection 101K(10)
+
+Omit “or the judge advocate, as the case may be,”.
+
+## 71  Subsection 101K(11)
+
+Repeal the subsection, substitute:
+
+           (11)  If proceedings are before a military jury and the Military Judge permits evidence to be given under subsection (10), the Judge must:
+
+                     (a)  inform the members of the jury of:
+
+                              (i)  the non-compliance with the requirements of this section; or
+
+                             (ii)  the absence of sufficient evidence of compliance with the requirements of this section; and
+
+                     (b)  give the members such warning about the evidence as he or she thinks appropriate in the circumstances.
+
+## 72  Paragraph 101Q(13)(b)
+
+Omit “, or, in the case of a court martial, the judge advocate of the court martial,”.
+
+## 73  Subsection 101ZB(1)
+
+Omit “, or, in the case of a court martial, the judge advocate of the court martial,”.
+
+## 74  Subsection 101ZB(1)
+
+Omit “or judge advocate, as the case may be, shall not admit the evidence unless the service tribunal or judge advocate, as the case may be,”, substitute “must not admit the evidence unless the service tribunal”.
+
+## 75  Subsection 101ZB(2)
+
+Omit “or judge advocate, as the case may be,”.
+
+## 76  Subsection 101ZB(3)
+
+Omit “, or, in the case of a court martial, the judge advocate of the court martial,”.
+
+## 77  Subsection 101ZB(4)
+
+Omit “or judge advocate”.
+
+## 78  Subsection 103(1)
+
+Omit “129A(3),”.
+
+## 79  Paragraphs 103(1)(c) and (d)
+
+Repeal the paragraphs, substitute:
+
+                     (c)  request the Registrar to refer the charge to the Australian Military Court for trial.
+
+## 80  Subsection 103(1) (note 1)
+
+Omit “Note 1”, substitute “Note”.
+
+## 81  Subsection 103(1) (note 2)
+
+Repeal the note.
+
+## 82  Paragraph 103(2)(a)
+
+Omit “or 166”.
+
+## 83  Paragraph 103(2)(c)
+
+Omit “(other than a charge to which an order under section 166 relates)”.
+
+## 84  Paragraphs 103(2)(d) and (e)
+
+Repeal the paragraphs, substitute:
+
+                     (d)  request the Registrar to refer the charge to the Australian Military Court for trial.
+
+## 85  Subsection 103(2) (note)
+
+Repeal the note.
+
+## 86  Paragraph 103(4)(a)
+
+Omit “a Defence Force magistrate”, substitute “the Australian   Military Court”.
+
+## 87  Paragraphs 103(4)(d) and (e)
+
+Repeal the paragraphs, substitute:
+
+                     (d)  request the Registrar to refer the charge to the Australian Military Court for trial.
+
+## 88  Subsection 103(4) (note)
+
+Repeal the note.
+
+## 89  Subsections 103(5), (6) and (7)
+
+Repeal the subsections, substitute:
+
+             (5)  If, under section 131:
+
+                     (a)  a convicted person elects to be punished by the Australian Military Court; and
+
+                     (b)  the summary authority refers the conviction to the Director of Military Prosecutions;
+
+the Director of Military Prosecutions must request the Registrar to refer the conviction to the Court to take action under Part IV in relation to the convicted person.
+
+## 90  Subsection 130A(1)
+
+Omit “rules of procedure”, substitute “Summary Authority Rules”.
+
+## 91  Subsection 131(1)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 92  Paragraphs 131(2)(a) and (b)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 93  Subsection 131(2A)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 94  Paragraph 131(2B)(a)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 95  Paragraph 131(2B)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  a person convicted of an offence by a summary authority elects under subsection (2A) to be punished by the Australian Military Court for the offence but the summary authority considers that the exigencies of service do not permit the reference of the conviction to the Court;
+
+## 96  Subsection 131(3)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 97  Subsection 131(5)
+
+Repeal the subsection, substitute:
+
+             (5)  A person who has elected to be tried or punished by the Australian Military Court may, by notice to the Registrar, withdraw his or her election at any time before a date is fixed for hearing by the Court.
+
+## 98  Subsection 131(6)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 99  Paragraph 131(7)(b)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 100  Paragraph 131(7)(ba)
+
+Repeal the paragraph, substitute:
+
+                    (ba)  a person convicted of an offence by a summary authority elects under subsection (2A) to be punished by the Australian Military Court for the offence but the summary authority considers that the exigencies of service do not permit the reference of the conviction to the Court; or
+
+## 101  Paragraph 131(7)(c)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 102  Section 136
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+_Note:       The heading to section 136 is altered by omitting “court martial or Defence Force magistrate” and substituting “Australian   Military Court”._
+
+## 103  Subsection 137(1)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+_Note:       The heading to section 137 is altered by adding at the end “before Australian Military Court”._
+
+## 104  Before section 138
+
+Insert:
+
+#### Subdivision A—General
+
+## 105  Subsection 138(4)
+
+Omit “or, if the service tribunal is a court martial, the President of the court martial”.
+
+## 106  Subsections 139(2) and (3)
+
+Repeal the subsections, substitute:
+
+             (2)  If a service tribunal considers that, by reason of the disorderly behaviour of the accused person, it is impossible to continue the hearing in his or her presence, the tribunal may order that the accused person be removed from the place of hearing and be held in custody elsewhere.
+
+## 107  Section 140
+
+Repeal the section, substitute:
+
+##### <a id="140"></a>140  Public hearings by the Australian Military Court
+
+             (1)  The hearing of proceedings before the Australian   Military Court must be in public.
+
+             (2)  However, the Court may, if it considers it necessary in the interests of the security or defence of Australia, the proper administration of justice or public morals:
+
+                     (a)  order that some or all of the members of the public are to be excluded during the whole or a specified part of the proceedings; or
+
+                     (b)  order that no report of, or relating to, the whole or a specified part of the proceedings is to be published.
+
+             (3)  If proceedings before the Court are held in a secure place, then, subject to an order (if any) in force under subsection (2), the appropriate service chief must cause such steps to be taken as will permit the public to have reasonable access to the proceedings.
+
+             (4)  In subsection (3):
+
+                    <a name="secur-place"></a>**_secure place_** means a place the entry to which is controlled by guards who are constables or members of the Defence Force.
+
+## 108  Subsection 141(2)
+
+Omit “court martial” (wherever occurring), substitute “military jury”.
+
+## 109  Subsection 141(3)
+
+Repeal the subsection.
+
+## 110  Subsection 141(4)
+
+Omit “other than a court martial”.
+
+## 111  Paragraph 141(5)(b)
+
+Omit “in the case of a court martial, the judge advocate, or in any other case,”.
+
+## 112  Subsection 141(5)
+
+Omit “or the judge advocate, as the case may be, shall”, substitute “must”.
+
+## 113  Paragraph 141(6)(a)
+
+Omit “(2), (3)”, substitute “(2)”.
+
+## 114  Paragraph 141(6)(b)
+
+Omit “in the case of a court martial, the judge advocate, or in any other case,”.
+
+## 115  Subsection 141(6)
+
+Omit “or the judge advocate, as the case may be, shall”, substitute “must”.
+
+## 116  Subsections 141(7) and (8)
+
+Repeal the subsections, substitute:
+
+             (7)  If an application or objection under subsection (1) or (2) is made and the trial is by a Military Judge and military jury, the Military Judge must sit without the members of the military jury for a hearing of that application or objection.
+
+             (8)  If the Australian Military Court grants an application or allows an objection under this section, the Court may refer the charge against the accused person to the Director of Military Prosecutions.
+
+## 117  Paragraphs 141A(1)(c) and (d)
+
+Repeal the paragraphs, substitute:
+
+                     (c)  the Australian Military Court, before trying a charge or at any stage of trying a charge;
+
+## 118  Subsection 141A(1)
+
+Omit “, judge advocate or Defence Force magistrate, as the case may be, shall make such amendment of the charge as he or she”, substitute “or Court must make such amendment of the charge as he, she or it”.
+
+## 119  Subsection 144(2)
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 120  Paragraph 144(4)(a)
+
+Omit “132 or 135”, substitute “132B or 132D”.
+
+## 121  Subsection 145(2)
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 122  Subsection 145(2)
+
+Omit “the court martial or the Defence Force magistrate”, substitute “the Court”.
+
+## 123  Subsection 145(4)
+
+Omit “by a court martial or a Defence Force magistrate, the court martial or the Defence Force magistrate”, substitute “of a service offence that is to be tried by Military Judge and military jury, the jury”.
+
+## 124  Subsection 145(4)
+
+Omit “court martial or the Defence Force magistrate”, substitute “jury”.
+
+## 125  Subsection 145(4)
+
+After “mental impairment and”, insert “the Judge”.
+
+## 126  Subsection 145(5)
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 127  Subsection 145(5)
+
+Omit “the court martial or the Defence Force magistrate”, substitute “the Court”.
+
+## 128  Subsections 145A(1) and (2)
+
+Repeal the subsections, substitute:
+
+             (1)  If the Registrar refers a charge to the Australian   Military Court for trial, the Registrar must:
+
+                     (a)  inform the accused person of the requirements of subsections (2), (3) and (5); and
+
+                     (b)  give a copy of this section to the accused person.
+
+             (2)  In a trial of a charge by the Australian   Military Court, the accused person must not, without the leave of the Court:
+
+                     (a)  adduce evidence in support of an alibi; or
+
+                     (b)  assert in any statement made by him or her otherwise than on oath or affirmation that he or she has an alibi;
+
+unless, before the end of the period of 14 days commencing on the day the charge is referred to the Court, he or she gives notice of particulars of the alibi.
+
+## 129  Subsection 145A(3)
+
+Omit “a court martial or Defence Force magistrate, the accused person shall not, without the leave of the judge advocate of the court martial or the Defence Force magistrate, as the case requires,”, substitute “the Australian Military Court, the accused person must not, without the leave of the Court,”.
+
+## 130  Paragraph 145A(3)(b)
+
+Omit “judge advocate of the court martial or the Defence Force magistrate, as the case may be,”, substitute “Court”.
+
+## 131  Subsection 145A(4)
+
+Omit “judge advocate of a court martial or a Defence Force magistrate”, substitute “Court”.
+
+## 132  Subsection 145A(5)
+
+Omit “of Military Justice”.
+
+## 133  Section 147
+
+Repeal the section, substitute:
+
+##### <a id="147"></a>147  Judicial notice of service matters
+
+                   In addition to the matters of which judicial notice may be taken by a court under the rules of evidence referred to in section 146, a service tribunal must take judicial notice of all matters within the general service knowledge of:
+
+                     (a)  the tribunal; or
+
+                     (b)  if the proceedings are before a military jury—the jury.
+
+## 134  Part IX (heading)
+
+Repeal the heading, substitute:
+
+## Part IX—Review of proceedings of summary authorities
+
+## 135  Section 150
+
+Omit “service tribunals (whether all service tribunals or service tribunals of a specified kind)”, substitute “summary authorities”.
+
+## 136  Section 150A
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 137  Subsection 152(1)
+
+Repeal the subsection, substitute:
+
+             (1)  As soon as practicable after a summary authority (other than a subordinate summary authority) convicts a person of a service offence, the summary authority must transmit the record of the proceedings to a competent reviewing authority.
+
+## 138  Subsection 152(3)
+
+Omit “, or who was the person in relation to whom a direction under subsection 145(2) or (5) was given,”.
+
+## 139  Subsection 153(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If a summary authority convicts a person of a service offence, the person may lodge with a competent reviewing authority a petition for review of the proceedings concerned.
+
+## 140  Paragraph 153(1A)(a)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 141  Subsection 153(2)
+
+Repeal the subsection.
+
+## 142  Subsections 153(3) and (4)
+
+Omit “or (2)”.
+
+## 143  Subsection 153(5)
+
+Repeal the subsection.
+
+## 144  Subsections 154(1), (1A) and (1B)
+
+Repeal the subsections, substitute:
+
+             (1)  A reviewing authority must not commence a review without first obtaining a report on the proceedings from a legal officer.
+
+## 145  Section 156
+
+Repeal the section.
+
+## 146  Section 157
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 147  Subsection 158(4)
+
+Repeal the subsection.
+
+## 148  Subsection 158(5)
+
+Omit “or (4)”.
+
+## 149  Paragraph 161(1)(a)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 150  Subparagraph 161(1)(a)(ii)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 151  Paragraph 161(1)(b)
+
+Omit “service tribunal” (wherever occurring), substitute “summary authority”.
+
+## 152  Subsection 161(2)
+
+Omit “service tribunal” (wherever occurring), substitute “summary authority”.
+
+## 153  Subsection 162(1)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 154  Subsection 162(2)
+
+Repeal the subsection.
+
+## 155  Paragraph 162(4)(a)
+
+Omit “a court martial or by a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 156  Subsection 162(4A)
+
+Omit “convening of a court martial or the reference of the conviction to a Defence Force magistrate”, substitute “reference of the conviction to the Australian Military Court”.
+
+## 157  Subsection 162(5)
+
+Omit “service tribunal” (wherever occurring), substitute “summary authority”.
+
+## 158  Subsections 162(6) and (7)
+
+Repeal the subsections.
+
+## 159  Subsection 162(8)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 160  Division 4 of Part IX
+
+Repeal the Division.
+
+## 161  Subsection 169(2)
+
+Omit “service tribunal” (wherever occurring), substitute “summary authority”.
+
+## 162  Subsection 172(1)
+
+Repeal the subsection.
+
+## 163  At the end of subsection 172(2)
+
+Add:
+
+                   ; (e)  segregated confinement for a period exceeding 3 days;
+
+                      (f)  confinement to cell for a period exceeding 3 days;
+
+                     (g)  extra drill for a period exceeding 3 days;
+
+                     (h)  restriction of custodial privileges for a period exceeding 7 days.
+
+## 164  Subsection 172(3)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 165  Subsections 172(3A) and (4)
+
+Repeal the subsections.
+
+## 166  Subsection 173(1)
+
+Omit “Subject to subsection (2), the operation of a restitution order or a reparation order, being a restitution order or a reparation order made by a court martial or a Defence Force magistrate,”, substitute “The operation of a restitution order or a reparation order made by the Australian Military Court”.
+
+## 167  Subsection 173(2)
+
+Omit “a reviewing authority”, substitute “the Court”.
+
+## 168  Subsection 173(2)
+
+Omit “the reviewing authority”, substitute “the Court”.
+
+## 169  Section 176
+
+Repeal the section, substitute:
+
+             (1)  If:
+
+                     (a)  a summary authority has imposed a punishment on a convicted person; and
+
+                     (b)  the convicted person lodges a petition under section 153 with respect to the conviction or punishment;
+
+the reviewing authority may order that the execution of the punishment is to be stayed in whole or in part pending the determination of the petition.
+
+             (2)  If:
+
+                     (a)  the Australian Military Court has imposed a punishment on a convicted person; and
+
+                     (b)  the convicted person or the Director or Military Prosecutions notifies the Court that he or she has appealed, or applied for leave to appeal, under the _Defence Force Discipline Appeals Act 1955_ against the conviction or punishment;
+
+the Court may order that the execution of the punishment is to be stayed in whole or in part pending the determination of the appeal.
+
+## 170  Part XI (heading)
+
+Repeal the heading, substitute:
+
+## Part XI—Judge Advocate General, Deputy Judge Advocates General, Chief Military Judge, Military Judges and Registrar
+
+## 171  Division 3 of Part XI (heading)
+
+Repeal the heading, substitute:
+
+### Division 3—The Registrar of the Australian   Military Court
+
+## 172  Section 188F
+
+Omit “Military Justice”, substitute “the Australian Military   Court”.
+
+_Note:       The heading to section 188F is altered by omitting “Military Justice” and substituting “the Australian   Military Court”._
+
+## 173  Subsection 188FA(1)
+
+Repeal the subsection, substitute:
+
+             (1)  The function of the Registrar is to assist the Chief Military Judge by providing administrative and management services in connection with proceedings before the Australian Military Court under this Act.
+
+_Note:       The heading to section 188FA is altered by omitting “of Military Justice”._
+
+## 174  Subsection 188FA(2)
+
+Omit “of Military Justice” (wherever occurring).
+
+## 175  Section 188FB
+
+Omit “of Military Justice” (wherever occurring).
+
+_Note:       The heading to section 188FB is altered by omitting “of Military Justice”._
+
+## 176  Section 188FC
+
+Omit “of Military Justice”.
+
+## 177  Section 188FD
+
+Omit “of Military Justice” (wherever occurring).
+
+## 178  Section 188FE
+
+Omit “of Military Justice”.
+
+## 179  Subsection 188FF(1)
+
+Omit “of Military Justice”.
+
+## 180  Subsection 188FF(2)
+
+Repeal the subsection, substitute:
+
+             (2)  An oath or affirmation under this section is to be made before a Military Judge.
+
+## 181  Sections 188FG and 188FH
+
+Omit “of Military Justice” (wherever occurring).
+
+## 182  Section 188FI
+
+Omit “of Military Justice”.
+
+## 183  Sections 188FJ and 188FK
+
+Omit “of Military Justice” (wherever occurring).
+
+## 184  Subsection 188FL(1)
+
+Omit “of Military Justice” (wherever occurring).
+
+## 185  Subsection 188FL(3)
+
+Omit “of Military Justice”.
+
+## 186  Section 188FM
+
+Omit “of Military Justice”.
+
+## 187  Paragraph 188GA(1)(a)
+
+Omit “a Defence Force magistrate or a court martial”, substitute “the Australian Military Court”.
+
+## 188  Section 188GB
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 189  Subsection 188GJ(2)
+
+Repeal the subsection, substitute:
+
+             (2)  An oath or affirmation under this section is to be made before a Military Judge.
+
+## 190  Paragraph 191(1)(b)
+
+Omit “132 or 135”, substitute “132B or 132D”.
+
+## 191  Subsection 193(1)
+
+Repeal the subsection, substitute:
+
+             (1)  A member of a military jury, a Military Judge, a summary authority or a reviewing authority has, in the performance of his or her duties as such a member, Judge or authority, the same protection and immunity as a Justice of the High Court.
+
+_Note:       The heading to section 193 is altered by omitting “courts martial” and substituting “military juries”._
+
+## 192  Paragraph 193(4)(b)
+
+Omit “of Military Justice” (wherever occurring).
+
+## 193  Subsection 194(1)
+
+Omit “, 158 or 164”, substitute “or 158”.
+
+## 194  Subsections 195(1) and (2)
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 195  Section 196
+
+Repeal the section.
+
+## 196  Paragraph 196A(1)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  the operation of this Act, the regulations, the Procedural Rules and the Summary Authority Rules; and
+
+## 197  At the end of section 196A
+
+Add:
+
+             (5)  In this section:
+
+                    <a name="procur-rule"></a>**_Procedural Rules_** means the rules made under section 149 of this Act as that section was in force immediately before the commencement of Schedule 1 to the _Defence Legislation Amendment Act 2006_.
+
+## 198  Schedule 2 (heading)
+
+Repeal the heading (not including the note), substitute:
+
+# Schedule 2—Punishments that may be imposed by the Australian   Military Court
+
+## 199  Clause 1 of Schedule 2
+
+Omit “a court martial or a Defence Force magistrate”, substitute “the Australian Military Court”.
+
+## 200  Clause 2 of Schedule 2
+
+Repeal the clause.
+
+## 201  Schedule 4 (note to heading)
+
+Omit “Sections 128, 184, 188FF and 188GJ”, substitute “Sections 184, 188AF, 188AT, 188FF and 188GJ”.
+
+## 202  Schedule 5
+
+Repeal the Schedule.
+
+As at 19 December 2006 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -15259,6 +15913,20 @@ The Governor-General may make regulations in relation to transitional matters ar
 * * *
 
 _Defence Legislation Amendment Act 2006 (No. 159, 2006)_
+
+## Schedule 2
+
+## 2  Transitional provision
+
+Despite the amendment of subsection 101F(2) of the _Defence Force Discipline Act 1982_ made by item 1 of this Schedule, a list that:
+
+                     (a)  was made under that subsection before the commencement of this item; and
+
+                     (b)  that is in force immediately before the commencement;
+
+continues in force, and may be dealt with, after the commencement as if it had been made under that subsection as amended.
+
+The following provisions commence on 1 October 2007 unless proclaimed earlier:
 
 ## Schedule 1
 
@@ -15621,18 +16289,6 @@ then, when the person makes and subscribes an oath or affirmation before a Milit
 ## 264  Regulations prescribing transitional matters
 
 The Governor-General may make regulations in relation to transitional matters arising out of the amendments made by this Schedule.
-
-## Schedule 2
-
-## 2  Transitional provision
-
-Despite the amendment of subsection 101F(2) of the _Defence Force Discipline Act 1982_ made by item 1 of this Schedule, a list that:
-
-                     (a)  was made under that subsection before the commencement of this item; and
-
-                     (b)  that is in force immediately before the commencement;
-
-continues in force, and may be dealt with, after the commencement as if it had been made under that subsection as amended.
 
 ## Table B
 
