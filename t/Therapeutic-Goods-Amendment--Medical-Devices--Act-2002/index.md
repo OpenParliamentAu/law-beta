@@ -1,3536 +1,7933 @@
-![](http://www.comlaw.gov.au/Details/C2006C00261/Html/D4F6675EB11626BFCA257170000895D4/$FILE/image001.gif)
+**
 
-# Therapeutic Goods Amendment (Medical Devices) Act 2002
-
-**Act No. 24 of 2002 as amended**
-
-This compilation was prepared on 11 May 2006
-
-**\[This Act was amended by Act No. 56 of 2002]**
-
-**Amendment from Act No. 56 of 2002**
-
-\[Schedule 3 (item 22) repealed item 7 of Schedule 1
-
-Schedule 3 (item 22) commenced immediately after 4 October 2002]
-
-**\[This Act is to be amended by Act No. 39 of 2006]**
-
-**Amendment from Act No. 39 of 2006**
-
-\[Schedule 1 (item 158) repeals and substitutes item 12 of Schedule 2
-
-Schedule 1 (item 158) commences on 4 October 2007, the amendment has not been incorporated]
-
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-Canberra
+###  THERAPEUTIC GOODS AMENDMENT (MEDICAL DEVICES) ACT 2002 
+**
 
 
-# Contents
+**
 
-[1](#1).            Short title
-
-[2](#2).            Commencement
-
-[3](#3).            Schedule(s)
-
-**Schedule 1—Principal amendments relating to medical devices** 
-
-Therapeutic Goods Act 1989                                                                                     3
-
-**Schedule 2—Amendments commencing 5 years after Schedule 1** 
-
-Therapeutic Goods Act 1989                                                                                   94
+###  Compilation Information 
+**
 
 
-## An Act to amend the _Therapeutic Goods Act 1989_, and for related purposes
-
-[_Assented to__4 April 2002_]
-
-The Parliament of Australia enacts:
-
-##### <a id="1"></a>1  Short title
-
-                   This Act may be cited as the _Therapeutic Goods Amendment (Medical Devices) Act 2002._
-
-##### <a id="2"></a>2  Commencement
-
-             (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Commencement information</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 3</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Provision(s)</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Commencement</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Date/Details</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
-        table</div>
-    </td>
-    <td>
-      <div>The day on which this Act receives the Royal Assent</div>
-    </td>
-    <td>
-      <div>4 April 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2\. Schedule 1</div>
-    </td>
-    <td>
-      <div>A single day to be fixed by Proclamation, subject to subsection (3)</div>
-    </td>
-    <td>
-      <div>4 October 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3\. Schedule 2</div>
-    </td>
-    <td>
-      <div>The fifth anniversary of the commencement of the provisions covered by
-        item 2 of this table</div>
-    </td>
-    <td>
-      <div>4 October 2007</div>
-    </td>
-  </tr>
-</tbody></table>
-
-Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
-
-             (2)  Column 3 of the table is for additional information that is not part of this Act. This information may be included in any published version of this Act.
-
-             (3)  If a provision covered by item 2 of the table does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
-
-##### <a id="3"></a>3  Schedule(s)
-
-                   Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
 
-###### Schedule 1—Principal amendments relating to medical devices
 
-<h9 class="ActHead9">Therapeutic Goods Act 1989</h9>
+**
 
-## 1  Part 1 (heading)
+###  Long Title 
+**
+Therapeutic Goods Act 1989
+Assented to 4 April 2002
 
-Repeal the heading, substitute:
+###  THERAPEUTIC GOODS AMENDMENT (MEDICAL DEVICES) ACT 2002- SECT 1   Short title 
+<dl compact="">
 
-# Chapter 1—Preliminary
+		This Act may be cited as the _Therapeutic Goods Amendment (Medical Devices) Act 2002._
 
-## 2  Subsection 3(1)
+ </dl>
+###  THERAPEUTIC GOODS AMENDMENT (MEDICAL DEVICES) ACT 2002- SECT 2  Commencement 
+<dl compact="">
+
+<dt>(1)</dt><dd>Each provision of this Act specified in column 1 of the table commences,
+
+or is taken to have commenced, on the day or at the time specified in column 2
+
+of the table.
+
+</dd> </dl>
+
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Commencement information</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Column 1</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Column 2</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Column 3</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision(s)</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date/Details</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>1\. Sections&#160;1 to 3 and anything in this Act not elsewhere covered by this table</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The day on which this Act receives the Royal Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>4&#160;April 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>2\. Schedule&#160;1</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>A single day to be fixed by Proclamation, subject to subsection&#160;(3)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>TBP or 4 Oct 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>3\. Schedule&#160;2</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The fifth anniversary of the commencement of the provisions covered by item&#160;2 of this table</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>TBP or 4 Oct 2002 plus 5 years</div>
+
+  </td>
+</tr>
+<dl compact="">
+
+Note:	This table relates only to the provisions of this Act as
+
+originally passed by the Parliament and assented to. It will not be expanded to
+
+deal with provisions inserted in this Act after assent.
+
+ </dl>
+
+Back to Top
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Column 3 of the table is for additional information that is not part of
+
+this Act. This information may be included in any published version of this
+
+Act.</dd> <dt>(3)</dt><dd>If a provision covered by item&#160;2 of the table does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. </dd> </dl>
+###  THERAPEUTIC GOODS AMENDMENT (MEDICAL DEVICES) ACT 2002- SECT 3  Schedule(s) 
+<dl compact="">
+
+		Each Act that is specified in a Schedule to this Act is amended or repealed
+
+as set out in the applicable items in the Schedule concerned, and any other
+
+item in a Schedule to this Act has effect according to its terms.
+
+ </dl>
+**
+
+###  THERAPEUTIC GOODS AMENDMENT (MEDICAL DEVICES) ACT 2002Schedule&#160;1&#151;Principal amendments relating to medical devices 
+**
+Therapeutic Goods Act 1989
+<dl compact=""><dl compact="">
+
+_accessory_ means an article that its manufacturer specifically
+
+intended to be used together with a medical device to enable the device to be
+
+used as the manufacturer of the device intended.
+
+ </dl></dl>
+
+3  Subsection 3(1)
 
 Insert:
 
-                    <a name="accessori"></a>**_accessory_** means an article that its manufacturer specifically intended to be used together with a medical device to enable the device to be used as the manufacturer of the device intended.
+<def><dl compact=""><dl compact="">
 
-## 3  Subsection 3(1)
+_application audit assessment fee_ means a fee payable under
 
-Insert:
+subsection 41LA(3).
 
-                    <a name="applic-audit-assess-fee"></a>**_application audit assessment fee_** means a fee payable under subsection 41LA(3).
+ </dl></dl>
 
-## 4  Subsection 3(1)
-
-Insert:
-
-                    <a name="assess-fee"></a>**_assessment fee_** means:
-
-                     (a)  a conformity assessment fee; or
-
-                     (b)  an application audit assessment fee;
-
-payable under Part 4-10.
-
-## 5  Subsection 3(1) (paragraph (b) of the definition of _authorised person_)
-
-Omit “Part 5A”, substitute “Part 6-2”.
-
-## 6  Subsection 3(1)
+4  Subsection 3(1)
 
 Insert:
 
-                    <a name="composit-pack"></a>**_composite pack_** has the meaning given by subsection 7B(2).
+<def><dl compact=""><dl compact="">
 
-## 8  Subsection 3(1)
+_assessment fee_ means:
 
-Insert:
+ </dl></dl>
 
-                    <a name="conform-assess-fee"></a>**_conformity assessment fee_** means a fee payable under subsection 41LA(1).
+<dl compact=""><dl compact=""><dl compact="">
 
-## 9  Subsection 3(1)
+<dt>(a)</dt><dd>a conformity assessment fee; or</dd>
 
-Insert:
+<dt>(b)</dt><dd>an application audit assessment fee;
 
-                    <a name="conform-assess-procur"></a>**_conformity assessment procedures_** has the meaning given by section 41DA.
+</dd>
 
-## 10  Subsection 3(1)
+</dl></dl></dl>
 
-Insert:
+payable under Part&#160;4-10.
 
-                    <a name="conform-assess-standard"></a>**_conformity assessment standard_** means a conformity assessment standard specified in an order under section 41DC.
+5  Subsection 3(1) (paragraph&#160;(b) of the definition of authorised person)
 
-## 11  Subsection 3(1)
+Omit "Part&#160;5A", substitute "Part&#160;6-2".
 
-Insert:
-
-                    <a name="devic-number"></a>**_device number_**, in relation to a medical device, means any combination of numbers, symbols and letters assigned to the device under section 41FL.
-
-## 12  Subsection 3(1)
+6  Subsection 3(1)
 
 Insert:
 
-                    <a name="essenti-principl"></a>**_essential principles_** has the meaning given by section 41CA.
+<def><dl compact=""><dl compact="">
 
-## 13  Subsection 3(1)
+_composite pack_ has the meaning given by subsection 7B(2).
 
-Insert:
+ </dl></dl>
 
-                    <a name="exempt-devic"></a>**_exempt device_** means a medical device that is of a kind that is exempted from Division 3 of Part 4-11 by the regulations.
-
-## 14  Subsection 3(1) (first definition of _exempt goods_)
-
-Omit “Part 3”, substitute “Part 3-2”.
-
-## 15  Subsection 3(1) (second definition of _exempt goods_)
-
-Omit “Part 4”, substitute “Part 3-3”.
-
-## 16  Subsection 3(1) (definition of _exempt person_)
-
-Omit “Part 4”, substitute “Part 3-3”.
-
-## 17  Subsection 3(1)
+8  Subsection 3(1)
 
 Insert:
 
-                    <a name="included-regist"></a>**_included in the Register_**, in relation to a medical device to which Chapter 4 applies, means included in the Register under Chapter 4.
+<def><dl compact=""><dl compact="">
 
-Note:          For medical devices to which Chapter 4 applies, see section 41BJ.
+_conformity assessment fee_ means a fee payable under subsection
 
-## 18  Subsection 3(1)
+41LA(1).
 
-Insert:
+ </dl></dl>
 
-                    <a name="kind"></a>**_kind_**, in relation to a medical device, has the meaning given by section 41BE.
-
-## 19  Subsection 3(1) (definition of _licence_)
-
-Omit “Part 4”, substitute “Part 3-3”.
-
-## 20  Subsection 3(1) (definition of _manufacture_)
-
-After “therapeutic goods”, insert “that are not medical devices”.
-
-## 21  Subsection 3(1)
+9  Subsection 3(1)
 
 Insert:
 
-                    <a name="manufactur"></a>**_manufacturer_**, of a medical device, has the meaning given by section 41BG.
+<def><dl compact=""><dl compact="">
 
-## 22  Subsection 3(1)
+_conformity assessment procedures_ has the meaning given by
 
-Insert:
+section&#160;41DA.
 
-                    <a name="mical-devic"></a>**_medical device_** has the meaning given by section 41BD.
+ </dl></dl>
 
-## 23  Subsection 3(1)
+<center>Back to Top</center>
 
-Insert:
-
-                    <a name="mical-devic-classif"></a>**_medical device classification_** means a classification specified in the regulations made for the purposes of section 41DB.
-
-## 24  Subsection 3(1)
+10  Subsection 3(1)
 
 Insert:
 
-                    <a name="mical-devic-standard"></a>**_medical device standard_**, in relation to a kind of medical device, means a medical device standard, specified in an order under section 41CB, that is applicable to that kind of medical device.
+<def><dl compact=""><dl compact="">
 
-## 25  Subsection 3(1)
+_conformity assessment standard_ means a conformity assessment
 
-Insert:
+standard specified in an order under section&#160;41DC.
 
-                    <a name="refurbish"></a>**_refurbishment_** has the meaning given by the regulations.
+ </dl></dl>
 
-## 26  Subsection 3(1) (definition of _Register_)
-
-Omit “section 17”, substitute “section 9A”.
-
-## 27  Subsection 3(1)
+11  Subsection 3(1)
 
 Insert:
 
-                    <a name="system-procur-pack"></a>**_system or procedure pack_** has the meaning given by section 41BF.
+<def><dl compact=""><dl compact="">
 
-## 28  Subsection 3(1) (definition of _therapeutic goods_)
+_device number_, in relation to a medical device, means any
 
-After “and includes”, insert “medical devices and”.
+combination of numbers, symbols and letters assigned to the device under
 
-## 29  Subsection 3(6)
+section&#160;41FL.
 
-Omit “or an annual licensing charge”, substitute “, an annual charge for inclusion in the Register or an annual licensing charge”.
+ </dl></dl>
 
-## 30  After subsection 4(1)
+12  Subsection 3(1)
 
 Insert:
 
-          (1A)  The reference in paragraph (1)(a) to the efficacy of therapeutic goods is a reference, if the goods are medical devices, to the performance of the devices as the manufacturer intended.
+<def><dl compact=""><dl compact="">
 
-## 31  Subsection 6A(5)
+_essential principles_ has the meaning given by section&#160;41CA.
 
-Omit “Part 5”, substitute “Part 6-1”.
+ </dl></dl>
 
-## 32  At the end of subsection 6A(8)
+13  Subsection 3(1)
+
+Insert:
+
+<def><dl compact=""><dl compact="">
+
+_exempt device_ means a medical device that is of a kind that is
+
+exempted from Division&#160;3 of Part&#160;4-11 by the regulations.
+
+ </dl></dl>
+
+14  Subsection 3(1) (first definition of exempt goods)
+
+Omit "Part&#160;3", substitute "Part&#160;3-2".
+
+15  Subsection 3(1) (second definition of exempt goods)
+
+Omit "Part&#160;4", substitute "Part&#160;3-3".
+
+16  Subsection 3(1) (definition of exempt person)
+
+Omit "Part&#160;4", substitute "Part&#160;3-3".
+
+17  Subsection 3(1)
+
+Insert:
+
+<def><dl compact=""><dl compact="">
+
+_included in the Register_, in relation to a medical device to
+
+which Chapter&#160;4 applies, means included in the Register under
+
+Chapter&#160;4.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	For medical devices to which Chapter&#160;4 applies, see
+
+section&#160;41BJ.
+
+ </dl></dl>
+
+18  Subsection 3(1)
+
+Insert:
+
+<def><dl compact=""><dl compact="">
+
+_kind_, in relation to a medical device, has the meaning given by
+
+section&#160;41BE.
+
+ </dl></dl>
+
+19  Subsection 3(1) (definition of licence)
+
+Omit "Part&#160;4", substitute "Part&#160;3-3".
+
+20  Subsection 3(1) (definition of manufacture)
+
+After "therapeutic goods", insert "that are not medical devices".
+
+21  Subsection 3(1)
+
+Insert:
+
+<def><dl compact=""><dl compact="">
+
+_manufacturer_, of a medical device, has the meaning given by
+
+section&#160;41BG.
+
+ </dl></dl>
+
+22  Subsection 3(1)
+
+Insert:
+
+<def><dl compact=""><dl compact="">
+
+_medical device_ has the meaning given by section&#160;41BD.
+
+ </dl></dl>
+
+23  Subsection 3(1)
+
+Insert:
+
+<def><dl compact=""><dl compact="">
+
+_medical device classification_ means a classification specified in
+
+the regulations made for the purposes of section&#160;41DB.
+
+ </dl></dl>
+
+24  Subsection 3(1)
+
+Insert:
+
+<center>Back to Top</center>
+
+<def><dl compact=""><dl compact="">
+
+_medical device standard_, in relation to a kind of medical device,
+
+means a medical device standard, specified in an order under section&#160;41CB,
+
+that is applicable to that kind of medical device.
+
+ </dl></dl>
+
+25  Subsection 3(1)
+
+Insert:
+
+<def><dl compact=""><dl compact="">
+
+_refurbishment_ has the meaning given by the regulations.
+
+ </dl></dl>
+
+26  Subsection 3(1) (definition of Register)
+
+Omit "section&#160;17", substitute "section&#160;9A".
+
+27  Subsection 3(1)
+
+Insert:
+
+<def><dl compact=""><dl compact="">
+
+_system or procedure pack_ has the meaning given by
+
+section&#160;41BF.
+
+ </dl></dl>
+
+28  Subsection 3(1) (definition of therapeutic goods)
+
+After "and includes", insert "medical devices and".
+
+29  Subsection 3(6)
+
+Omit "or an annual licensing charge", substitute ", an annual charge for inclusion in the Register or an annual licensing charge".
+
+30  After subsection 4(1)
+
+Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(1A)</dt><dd>The reference in paragraph&#160;(1)(a) to the efficacy of therapeutic
+
+goods is a reference, if the goods are medical devices, to the performance of
+
+the devices as the manufacturer intended.
+
+</dd> </dl></dl>
+
+31  Subsection 6A(5)
+
+Omit "Part&#160;5", substitute "Part&#160;6-1".
+
+32  At the end of subsection 6A(8)
 
 Add:
 
-               ; or (c)  in the part of the Register for medical devices included under Chapter 4.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 33  At the end of section 7
+	; or (c)	in the part of the Register for medical devices included under
+
+Chapter&#160;4.
+
+</dl></dl></dl>
+
+33  At the end of section&#160;7
 
 Add:
 
-             (4)  If a declaration under this section:
+<dl compact=""><dl compact="">
 
-                     (a)  is a declaration that particular goods or classes of goods are not therapeutic goods; and
+<dt>(4)</dt><dd>If a declaration under this section:
 
-                     (b)  applies wholly or partly to goods that, apart from this section, would be medical devices;
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is a declaration that particular goods or classes of goods are not
+
+therapeutic goods; and</dd>
+
+<dt>(b)</dt><dd>applies wholly or partly to goods that, apart from this section, would be
+
+medical devices;
+
+</dd>
+
+</dl></dl></dl>
 
 the goods are not medical devices, or are not medical devices when used, advertised, or presented for supply in the way specified in the declaration.
 
-## 34  Paragraph 7B(1)(b)
+34  Paragraph 7B(1)(b)
 
-Omit “Part 3”, substitute “Part 3-2”.
+Omit "Part&#160;3", substitute "Part&#160;3-2".
 
-## 35  Paragraph 7B(1)(c)
+35  Paragraph 7B(1)(c)
 
-After “composite pack”, insert “or a system or procedure pack”.
+After "composite pack", insert "or a system or procedure pack".
 
-## 36  Paragraph 7B(2)(b)
+36  Paragraph 7B(2)(b)
 
-After “contain any”, insert “medical devices or”.
+After "contain any", insert "medical devices or".
 
-## 37  After section 9
+37  After section&#160;9
 
-Insert:
+Insert: 
 
-# Chapter 2—Australian Register of Therapeutic Goods
+Chapter&#160;2&#151;Australian Register of Therapeutic Goods
 
-##### <a id="9A"></a>9A  Australian Register of Therapeutic Goods
+9A  Australian Register of Therapeutic Goods
 
-             (1)  The Secretary is to cause to be maintained a register, to be known as the Australian Register of Therapeutic Goods, for the purpose of compiling information in relation to, and providing for evaluation of, therapeutic goods for use in humans.
+<dl compact=""><dl compact="">
 
-             (2)  Subject to subsection (3), the Register is to be kept in such form as the Secretary determines.
+<dt>(1)</dt><dd>The Secretary is to cause to be maintained a register, to be known as the
 
-             (3)  The Register is to contain these 3 parts:
+Australian Register of Therapeutic Goods, for the purpose of compiling
 
-                     (a)  a part for goods to be known as registered goods; and
+information in relation to, and providing for evaluation of, therapeutic goods
 
-                     (b)  a part for goods to be known as listed goods; and
+for use in humans.</dd> <dt>(2)</dt><dd>Subject to subsection&#160;(3), the Register is to be kept in such form as the Secretary determines.</dd> <dt>(3)</dt><dd>The Register is to contain these 3 parts: </dd> </dl></dl>
 
-                     (c)  a part for medical devices included in the Register under Chapter 4.
+<center>Back to Top</center>
 
-             (4)  The regulations may prescribe:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the therapeutic goods, or the classes of therapeutic goods, that are required to be included in each part of the Register; and
+<dt>(a)</dt><dd>a part for goods to be known as registered goods; and</dd>
 
-                     (b)  the ways in which:
+<dt>(b)</dt><dd>a part for goods to be known as listed goods; and</dd>
 
-                              (i)  goods that are included in the part of the Register relating to registered goods may be transferred, or may be required to be transferred, to the part of the Register for listed goods; and
+<dt>(c)</dt><dd>a part for medical devices included in the Register under Chapter&#160;4.
 
-                             (ii)  goods that are included in the part of the Register relating to listed goods may be transferred, or may be required to be transferred, to the part of the Register for registered goods; and
+</dd>
 
-                     (c)  the ways in which goods that have been assigned a registration or listing number may be assigned a different registration or listing number; and
+</dl></dl></dl>
 
-                     (d)  the ways in which medical devices that have been assigned a device number may be assigned a different device number.
+<dl compact=""><dl compact="">
 
-             (5)  The Minister may, by notice published in the _Gazette_, require that specified therapeutic goods be included in the part of the Register for listed goods.
+<dt>(4)</dt><dd>The regulations may prescribe:
 
-             (6)  If the regulations are amended to require any of those goods to be included in the part of the Register for listed or registered goods, then the _Gazette_ notice ceases to have effect in respect of the goods included in the regulations.
+</dd> </dl></dl>
 
-##### <a id="9B"></a>9B  When registrations or listings of medical devices are taken to be cancelled
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  The registration or listing of a medical device to which subsection 15A(5) applied is taken to be cancelled:
+<dt>(a)</dt><dd>the therapeutic goods, or the classes of therapeutic goods, that are
 
-                     (a)  on the second anniversary of the day on which Chapter 4 commences; or
+required to be included in each part of the Register; and</dd>
 
-                     (b)  if the medical device is of a kind included in the Register under Chapter 4 before that second anniversary—when that inclusion takes effect.
+<dt>(b)</dt><dd>the ways in which:
 
-             (2)  The registration or listing of any other medical device is taken to be cancelled:
+</dd>
 
-                     (a)  on the fifth anniversary of the day on which Chapter 4 commences; or
+</dl></dl></dl>
 
-                     (b)  if the medical device is of a kind included in the Register under Chapter 4 before that fifth anniversary—when that inclusion takes effect.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (3)  This section does not prevent the Secretary from taking action under section 30.
+<dt>(i)</dt><dd>goods that are included in the part of the Register relating to registered
 
-##### <a id="9C"></a>9C  Inspection of entries in Register
+goods may be transferred, or may be required to be transferred, to the part of
 
-             (1)  The Register is not open for public inspection, but a person in relation to whom therapeutic goods are entered on the Register may make a written request to the Secretary for a copy of the entry in the Register in relation to the goods.
+the Register for listed goods; and</dd>
 
-             (2)  If the person makes such a request, the Secretary must send to the person a copy of so much (if any) of that entry as is contained in any computer database maintained by the Department for purposes connected with the administration of this Act (other than any part of that entry that was supplied in confidence by another person).
+<dt>(ii)</dt><dd>goods that are included in the part of the Register relating to listed
 
-             (3)  If the person makes such a request, then, instead of providing a copy of an entry to the person, the Secretary may, if the request is for the provision of an electronic copy, provide the information contained in the entry:
+goods may be transferred, or may be required to be transferred, to the part of
 
-                     (a)  on a data processing device; or
+the Register for registered goods; and
 
-                     (b)  by way of electronic transmission.
+</dd>
 
-##### <a id="9D"></a>9D  Variation of entries in Register
+</dl></dl></dl></dl>
 
-             (1)  The Secretary may:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  following a request by a person in relation to whom therapeutic goods are entered on the Register; or
+<dt>(c)</dt><dd>the ways in which goods that have been assigned a registration or listing
 
-                     (b)  on the Secretary’s own initiative;
+number may be assigned a different registration or listing number; and</dd>
+
+<dt>(d)</dt><dd>the ways in which medical devices that have been assigned a device number
+
+may be assigned a different device number.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The Minister may, by notice published in the _Gazette_, require that
+
+specified therapeutic goods be included in the part of the Register for listed
+
+goods.</dd> <dt>(6)</dt><dd>If the regulations are amended to require any of those goods to be included in the part of the Register for listed or registered goods, then the _Gazette_ notice ceases to have effect in respect of the goods included in the regulations. </dd> </dl></dl>
+
+9B  When registrations or listings of medical devices are taken to be cancelled
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The registration or listing of a medical device to which subsection 15A(5)
+
+applied is taken to be cancelled:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on the second anniversary of the day on which Chapter&#160;4 commences;
+
+or</dd>
+
+<dt>(b)</dt><dd>if the medical device is of a kind included in the Register under
+
+Chapter&#160;4 before that second anniversary&#151;when that inclusion takes effect.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The registration or listing of any other medical device is taken to be
+
+cancelled:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on the fifth anniversary of the day on which Chapter&#160;4 commences;
+
+or</dd>
+
+<dt>(b)</dt><dd>if the medical device is of a kind included in the Register under
+
+Chapter&#160;4 before that fifth anniversary&#151;when that inclusion takes effect.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>This section does not prevent the Secretary from taking action under
+
+section&#160;30.
+
+</dd> </dl></dl>
+
+9C  Inspection of entries in Register
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Register is not open for public inspection, but a person in relation
+
+to whom therapeutic goods are entered on the Register may make a written
+
+request to the Secretary for a copy of the entry in the Register in relation to
+
+the goods.</dd> <dt>(2)</dt><dd>If the person makes such a request, the Secretary must send to the person a copy of so much (if any) of that entry as is contained in any computer database maintained by the Department for purposes connected with the administration of this Act (other than any part of that entry that was supplied in confidence by another person).</dd> <dt>(3)</dt><dd>If the person makes such a request, then, instead of providing a copy of an entry to the person, the Secretary may, if the request is for the provision of an electronic copy, provide the information contained in the entry: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on a data processing device; or</dd>
+
+<dt>(b)</dt><dd>by way of electronic transmission.
+
+</dd>
+
+</dl></dl></dl>
+
+9D  Variation of entries in Register
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>following a request by a person in relation to whom therapeutic goods are
+
+entered on the Register; or</dd>
+
+<dt>(b)</dt><dd>on the Secretary's own initiative;
+
+</dd>
+
+</dl></dl></dl>
 
 vary the entry in the Register in relation to the goods if the entry contains information that is incomplete or incorrect.
 
-             (2)  If:
+<dl compact=""><dl compact="">
 
-                     (a)  the person in relation to whom therapeutic goods are registered or listed has requested the Secretary to vary product information included in the entry in the Register that relates to the goods; and
+<dt>(2)</dt><dd>If:
 
-                     (b)  the only effect of the variation would be:
+</dd> </dl></dl>
 
-                              (i)  to reduce the class of persons for whom the goods are suitable; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  to add a warning, or precaution, that does not include any comparison of the goods with any other therapeutic goods by reference to quality, safety or efficacy;
+<dt>(a)</dt><dd>the person in relation to whom therapeutic goods are registered or listed
+
+has requested the Secretary to vary product information included in the entry
+
+in the Register that relates to the goods; and</dd>
+
+<dt>(b)</dt><dd>the only effect of the variation would be:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>to reduce the class of persons for whom the goods are suitable; or</dd>
+
+<dt>(ii)</dt><dd>to add a warning, or precaution, that does not include any comparison of
+
+the goods with any other therapeutic goods by reference to quality, safety or
+
+efficacy;
+
+</dd>
+
+</dl></dl></dl></dl>
 
 the Secretary must vary the entry in accordance with the request.
 
-             (3)  If:
+<dl compact=""><dl compact="">
 
-                     (a)  the person in relation to whom therapeutic goods are registered or listed has requested the Secretary to vary information included in the entry in the Register that relates to the goods; and
+<dt>(3)</dt><dd>If:
 
-                     (b)  subsection (2) does not apply to the request; and
+</dd> </dl></dl>
 
-                     (c)  the Secretary is satisfied that the variation requested does not indicate any reduction in the quality, safety or efficacy of the goods for the purposes for which they are to be used;
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person in relation to whom therapeutic goods are registered or listed
+
+has requested the Secretary to vary information included in the entry in the
+
+Register that relates to the goods; and</dd>
+
+<dt>(b)</dt><dd>subsection&#160;(2) does not apply to the request; and</dd>
+
+<dt>(c)</dt><dd>the Secretary is satisfied that the variation requested does not indicate
+
+any reduction in the quality, safety or efficacy of the goods for the purposes
+
+for which they are to be used;
+
+</dd>
+
+</dl></dl></dl>
 
 the Secretary may vary the entry in accordance with the request.
 
-             (4)  If:
+<dl compact=""><dl compact="">
 
-                     (a)  particular therapeutic goods cease to be medical devices because of a declaration under subsection 41BD(3); and
+<dt>(4)</dt><dd>If:
 
-                     (b)  those goods are included in the Register under Chapter 4 as a kind of medical device;
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>particular therapeutic goods cease to be medical devices because of a
+
+declaration under subsection 41BD(3); and</dd>
+
+<dt>(b)</dt><dd>those goods are included in the Register under Chapter&#160;4 as a kind of
+
+medical device;
+
+</dd>
+
+</dl></dl></dl>
 
 the Secretary must move the entry relating to the goods from the part of the Register for medical devices to the part for goods to be known as registered goods or to the part for goods to be known as listed goods (whichever is applicable).
 
-             (5)  In this section:
+<dl compact=""><dl compact="">
 
-                    <a name="product-inform"></a>**_product information_**, in relation to therapeutic goods, means information relating to the safe and effective use of the goods, including information regarding the usefulness and limitations of the goods.
+<dt>(5)</dt><dd>In this section:
 
-Note:          Variations to the Register also occur to give effect to limited cancellations of entries of kinds of medical devices from the Register: see subsection 41GO(2).
+</dd> </dl></dl>
 
-##### <a id="9E"></a>9E  Publication of list of goods on Register
+<def><dl compact=""><dl compact="">
 
-                   The Secretary must, at least once every 12 months, publish a list of the therapeutic goods included in the Register.
+_product information_, in relation to therapeutic goods, means
 
-## 38  Transitional for publication of list of goods on Register
+information relating to the safe and effective use of the goods, including
 
-The first list published under section 9E of the _Therapeutic Goods Act 1989_ after the commencement of this Schedule must be published within 12 months after the last list published under section 33 of the _Therapeutic Goods Act 1989_.
+information regarding the usefulness and limitations of the goods.
 
-## 39  Part 2 (heading)
+ </dl></dl>
 
-Repeal the heading, substitute:
+<dl compact=""><dl compact="">
 
-# Chapter 3—Medicines and other therapeutic goods that are not medical devices
+Note:	Variations to the Register also occur to give effect to
 
-_Note:       For 5 years following the commencement of Chapter 4 (Medical devices), this Chapter will still apply to medical devices that are registered or listed goods._
+limited cancellations of entries of kinds of medical devices from the Register:
 
-## Part 3-1—Standards
+see subsection 41GO(2).
 
-## 40  Subparagraph 10(2)(a)(vii)
+ </dl></dl>
 
-Omit “Standards Association of Australia”, substitute “Standards Australia International Limited”.
+<center>Back to Top</center>
 
-## 41  After section 10
+9E  Publication of list of goods on Register
+
+<dl compact=""><dl compact="">
+
+		The Secretary must, at least once every 12 months, publish a list of the
+
+therapeutic goods included in the Register.
+
+ </dl></dl>
+
+38  Transitional for publication of list of goods on Register
+
+The first list published under section&#160;9E of the _Therapeutic Goods Act 1989_ after the commencement of this Schedule must be published within 12 months after the last list published under section&#160;33 of the _Therapeutic Goods Act 1989_.
+
+39  Part&#160;2 (heading)
+
+Repeal the heading, substitute: 
+
+Chapter&#160;3&#151;Medicines and other therapeutic goods that are not medical devices
+
+Note:	For 5 years following the commencement of Chapter&#160;4 (Medical devices), this Chapter will still apply to medical devices that are registered or listed goods.
+
+Part&#160;3-1&#151;Standards
+ 40  Subparagraph 10(2)(a)(vii)
+
+Omit "Standards Association of Australia", substitute "Standards Australia International Limited".
+
+41  After section&#160;10
 
 Insert:
 
-##### <a id="10A"></a>10A  Application of standards to medical devices
+10A  Application of standards to medical devices
 
-                   A standard under section 10 does not apply to a medical device unless Part 3-2 applies to the device.
+<dl compact=""><dl compact="">
 
-Note:          Section 15A sets out when Part 3-2 applies to a medical device.
+		A standard under section&#160;10 does not apply to a medical device unless
 
-## 42  Part 3 (heading)
+Part&#160;3-2 applies to the device.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Section&#160;15A sets out when Part&#160;3-2 applies to a
+
+medical device.
+
+ </dl></dl>
+
+42  Part&#160;3 (heading)
 
 Repeal the heading, substitute:
 
-## Part 3-2—Registration and listing of therapeutic goods
-
-## 43  Before section 16
+Part&#160;3-2&#151;Registration and listing of therapeutic goods
+ 43  Before section&#160;16
 
 Insert:
 
-##### <a id="15A"></a>15A  Application of this Part to medical devices
+15A  Application of this Part to medical devices
 
-The general rule
+_The general rule_
 
-             (1)  This Part does not apply to a medical device unless this section provides otherwise.
+<dl compact=""><dl compact="">
 
-Previously registered or listed devices
+<dt>(1)</dt><dd>This Part does not apply to a medical device unless this section provides
 
-             (2)  If a medical device is registered goods or listed goods before the commencement of this section, this Part continues to apply to the device unless the registration or listing is cancelled.
+otherwise.
 
-Note:          A registration or listing can be cancelled under section 30, or can be taken to be cancelled under section 9B.
+</dd> </dl></dl>
 
-Pending applications
+_Previously registered or listed devices_
 
-             (3)  This Part continues to apply to a medical device if:
+<dl compact=""><dl compact="">
 
-                     (a)  before the commencement of this section, an application was made under Part 3 for registration or listing of therapeutic goods that include that medical device; and
+<dt>(2)</dt><dd>If a medical device is registered goods or listed goods before the
 
-                     (b)  immediately before that commencement, the application was not yet finally determined; and
+commencement of this section, this Part continues to apply to the device unless
 
-                     (c)  the application has not been, and is not, withdrawn either before or after that commencement.
+the registration or listing is cancelled.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A registration or listing can be cancelled under
+
+section&#160;30, or can be taken to be cancelled under section&#160;9B.
+
+ </dl></dl>
+
+_Pending applications_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>This Part continues to apply to a medical device if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>before the commencement of this section, an application was made under
+
+Part&#160;3 for registration or listing of therapeutic goods that include that
+
+medical device; and</dd>
+
+<dt>(b)</dt><dd>immediately before that commencement, the application was not yet finally
+
+determined; and</dd>
+
+<dt>(c)</dt><dd>the application has not been, and is not, withdrawn either before or after
+
+that commencement.
+
+</dd>
+
+</dl></dl></dl>
 
 However, this Part ceases to apply to the device if, having been registered goods or listed goods, the registration or listing is cancelled.
 
-             (4)  For the purposes of paragraph (3)(b), an application is **_finally determined_** when the application, and any applications for review or appeals arising out of it, have been finally determined or otherwise disposed of.
+<dl compact=""><dl compact="">
 
-Applications made within 2 years relating to certain medical devices
+<dt>(4)</dt><dd>For the purposes of paragraph&#160;(3)(b), an application is _finally determined_ when the application, and any applications for review or
 
-             (5)  This Part applies to a medical device if:
+appeals arising out of it, have been finally determined or otherwise disposed
 
-                     (a)  regulations made for the purposes of this section specified either:
+of.
 
-                              (i)  the medical device classification applying to the kind of medical device that includes that device; or
+</dd> </dl></dl>
 
-                             (ii)  medical devices of that kind; and
+<center>Back to Top</center>
 
-                     (b)  during the period of 2 years after the commencement of this section, an application was made under Part 3-2 for registration or listing of therapeutic goods that include that medical device.
+_Applications made within 2 years relating to certain medical devices_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>This Part applies to a medical device if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>regulations made for the purposes of this section specified either:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the medical device classification applying to the kind of medical device
+
+that includes that device; or</dd>
+
+<dt>(ii)</dt><dd>medical devices of that kind; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>during the period of 2 years after the commencement of this section, an
+
+application was made under Part&#160;3-2 for registration or listing of
+
+therapeutic goods that include that medical device.
+
+</dd>
+
+</dl></dl></dl>
 
 However, this Part ceases to apply to the device if, having been registered goods or listed goods, the registration or listing is cancelled.
 
-Note:          Medical devices that are registered or listed because of this subsection are taken to be cancelled 2 years after Chapter 4 commences, or before then if medical devices of that kind are included in the Register under Chapter 4: see subsection 9B(1).
+<dl compact=""><dl compact="">
 
-Medical devices that are exempt goods
+Note:	Medical devices that are registered or listed because of
 
-             (6)  This Part applies to a medical device, during the period of 2 years after the commencement of this section, if the device is exempt goods.
+this subsection are taken to be cancelled 2 years after Chapter&#160;4
 
-Existing approvals under section 19
+commences, or before then if medical devices of that kind are included in the
 
-             (7)  This Part continues to apply to a medical device if:
+Register under Chapter&#160;4: see subsection 9B(1).
 
-                     (a)  an approval or authorisation in force under section 19 applies to the device; and
+ </dl></dl>
 
-                     (b)  that approval or authorisation was in force immediately before the commencement of this section.
+_Medical devices that are exempt goods_
 
-New approvals under section 19
+<dl compact=""><dl compact="">
 
-             (8)  This Part applies to a medical device if:
+<dt>(6)</dt><dd>This Part applies to a medical device, during the period of 2 years after
 
-                     (a)  subsection (7) does not apply to the device; and
+the commencement of this section, if the device is exempt goods.
 
-                     (b)  during the period of 2 years after the commencement of this section, an approval is granted or an authorisation is given under section 19 that applies to the device.
+</dd> </dl></dl>
+
+_Existing approvals under section 19_
+
+<dl compact=""><dl compact="">
+
+<dt>(7)</dt><dd>This Part continues to apply to a medical device if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an approval or authorisation in force under section&#160;19 applies to the
+
+device; and</dd>
+
+<dt>(b)</dt><dd>that approval or authorisation was in force immediately before the
+
+commencement of this section.
+
+</dd>
+
+</dl></dl></dl>
+
+_New approvals under section 19_
+
+<dl compact=""><dl compact="">
+
+<dt>(8)</dt><dd>This Part applies to a medical device if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>subsection&#160;(7) does not apply to the device; and</dd>
+
+<dt>(b)</dt><dd>during the period of 2 years after the commencement of this section, an
+
+approval is granted or an authorisation is given under section&#160;19 that
+
+applies to the device.
+
+</dd>
+
+</dl></dl></dl>
 
 However, this subsection does not apply after the end of that period.
 
-## 44  Subsection 16(2)
+44  Subsection 16(2)
 
-After “not being”, insert “medical devices or”.
+After "not being", insert "medical devices or".
 
-## 45  Section 17
+45  Section&#160;17
 
 Repeal the section.
 
-## 46  Saving of existing registrations and listings
+46  Saving of existing registrations and listings
 
-(1)        Despite the repeal of section 17 of the _Therapeutic Goods Act 1989_ by item 45, any therapeutic goods that, immediately before the commencement of this Schedule, were included in the Register are taken to be included in the Register after that commencement.
+(1)	Despite the repeal of section&#160;17 of the _Therapeutic Goods Act 1989_ by item&#160;45, any therapeutic goods that, immediately before the commencement of this Schedule, were included in the Register are taken to be included in the Register after that commencement.
+ (2)	Despite the repeal of subsection 17(5) of the _Therapeutic Goods Act 1989_, any notices that were in force immediately before the commencement of this Schedule, are taken to have been made under section&#160;9A after that commencement.
 
-(2)        Despite the repeal of subsection 17(5) of the _Therapeutic Goods Act 1989_, any notices that were in force immediately before the commencement of this Schedule, are taken to have been made under section 9A after that commencement.
-
-## 47  Subsection 24B(2)
+47  Subsection 24B(2)
 
 Repeal the subsection, substitute:
 
-             (2)  Regulations made for the purposes of subsection (1) may provide that a person is not allowed to pay an evaluation fee under section 24 by instalments if any part of an instalment of:
+<dl compact=""><dl compact="">
 
-                     (a)  that or any other evaluation fee under section 24 payable by the person; or
+<dt>(2)</dt><dd>Regulations made for the purposes of subsection&#160;(1) may provide that
 
-                     (b)  any assessment fee under section 41LA payable by the person;
+a person is not allowed to pay an evaluation fee under section&#160;24 by
+
+instalments if any part of an instalment of:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that or any other evaluation fee under section&#160;24 payable by the
+
+person; or</dd>
+
+<dt>(b)</dt><dd>any assessment fee under section&#160;41LA payable by the person;
+
+</dd>
+
+</dl></dl></dl>
 
 was unpaid immediately after the time when it became due for payment.
 
-## 48  Paragraphs 25(1)(h) and (2D)(b)
+48  Paragraphs 25(1)(h) and (2D)(b)
 
-Omit “Part 4”, substitute “Part 3-3”.
+Omit "Part&#160;4", substitute "Part&#160;3-3".
 
-## 49  Subsections 25(2B), (2C) and (2G)
+49  Subsections 25(2B), (2C) and (2G)
 
-Omit “Part 4” (wherever occurring), substitute “Part 3-3”.
+Omit "Part&#160;4" (wherever occurring), substitute "Part&#160;3-3".
 
-## 50  Paragraphs 26(1)(h) and (2C)(b)
+50  Paragraphs 26(1)(h) and (2C)(b)
 
-Omit “Part 4”, substitute “Part 3-3”.
+Omit "Part&#160;4", substitute "Part&#160;3-3".
 
-## 51  Subsections 26(2A), (2B) and (2F)
+51  Subsections 26(2A), (2B) and (2F)
 
-Omit “Part 4” (wherever occurring), substitute “Part 3-3”.
+Omit "Part&#160;4" (wherever occurring), substitute "Part&#160;3-3".
 
-## 52  Subsections 26A(5) and (6)
+52  Subsections 26A(5) and (6)
 
-Omit “Part 4” (wherever occurring), substitute “Part 3-3”.
+Omit "Part&#160;4" (wherever occurring), substitute "Part&#160;3-3".
 
-## 53  Paragraph 26A(7)(b)
+53  Paragraph 26A(7)(b)
 
-Omit “Part 4”, substitute “Part 3-3”.
+Omit "Part&#160;4", substitute "Part&#160;3-3".
 
-## 54  Sections 32 and 33
+54  Sections&#160;32 and 33
 
 Repeal the sections.
 
-## 55  Saving of existing requests for inspection or variation of the Register
+55  Saving of existing requests for inspection or variation of the Register
 
-(1)        A request for a copy of an entry in the Register under section 32 of the _Therapeutic Goods Act 1989_:
+(1)	A request for a copy of an entry in the Register under section&#160;32 of the _Therapeutic Goods Act 1989_:
 
-                     (a)  that was made before the commencement of this Schedule; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  that was not dealt with before that commencement;
+<dt>(a)</dt><dd>that was made before the commencement of this Schedule; and</dd>
 
-is taken, after that commencement, to be a request made under section 9C of the _Therapeutic Goods Act 1989_ as in force after that commencement.
+<dt>(b)</dt><dd>that was not dealt with before that commencement;
 
-(2)        A request for a variation of an entry in the Register under section 32 of the _Therapeutic Goods Act 1989_:
+</dd>
 
-                     (a)  that was made before the commencement of this Schedule; and
+</dl></dl></dl>
 
-                     (b)  that was not dealt with before that commencement;
+is taken, after that commencement, to be a request made under section&#160;9C of the _Therapeutic Goods Act 1989_ as in force after that commencement.
 
-is taken, after that commencement, to be a request made under section 9D of the _Therapeutic Goods Act 1989_ as in force after that commencement.
+(2)	A request for a variation of an entry in the Register under section&#160;32 of the _Therapeutic Goods Act 1989_:
 
-## 56  Part 4 (heading)
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that was made before the commencement of this Schedule; and</dd>
+
+<dt>(b)</dt><dd>that was not dealt with before that commencement;
+
+</dd>
+
+</dl></dl></dl>
+
+is taken, after that commencement, to be a request made under section&#160;9D of the _Therapeutic Goods Act 1989_ as in force after that commencement.
+
+56  Part&#160;4 (heading)
 
 Repeal the heading, substitute:
 
-## Part 3-3—Manufacturing of therapeutic goods
+Part&#160;3-3&#151;Manufacturing of therapeutic goods
 
-_Note:       The heading to section 68 is altered by omitting “Part 4” and substituting “Part 3-3”._
+Note:	The heading to section&#160;68 is altered by omitting "Part&#160;4" and substituting "Part&#160;3-3".
 
-## 57  Before section 34
-
-Insert:
-
-##### <a id="33A"></a>33A  Application of this Part to medical devices
-
-                   This Part does not apply to a medical device unless Part 3-2 applies to the device.
-
-Note:          Section 15A sets out when Part 3-2 applies to a medical device.
-
-## 58  Section 42
-
-Renumber as section 41A.
-
-## 59  After section 41A (as renumbered)
+57  Before section&#160;34
 
 Insert:
 
-# Chapter 4—Medical devices
+33A  Application of this Part to medical devices
 
-_Note:       For 5 years following the commencement of this Chapter, this Chapter will not apply, and Chapter 3 (Medicines and other therapeutic goods that are not medical devices) will still apply, to medical devices that are registered or listed goods._
+<dl compact=""><dl compact="">
 
-## Part 4-1—Introduction
+		This Part does not apply to a medical device unless Part&#160;3-2 applies to
 
-### Division 1—Overview of this Chapter
+the device.
 
-##### <a id="41B"></a>41B  General
+ </dl></dl>
 
-                   The purpose of this Chapter is to ensure the safety and satisfactory performance of medical devices. It does this by:
+<dl compact=""><dl compact="">
 
-                     (a)  setting out particular requirements for medical devices; and
+Note:	Section&#160;15A sets out when Part&#160;3-2 applies to a
 
-                     (b)  establishing administrative processes principally aimed at ensuring those requirements are met; and
+medical device.
 
-                     (c)  providing for enforcement through a series of offences.
+ </dl></dl>
 
-##### <a id="41BA"></a>41BA  Requirements for medical devices (Parts 4-2 and 4-3)
+58  Section&#160;42
 
-                   The requirements for medical devices are:
+Renumber as section&#160;41A.
 
-                     (a)  essential principles (that are about the safety and performance characteristics of medical devices); and
+59  After section&#160;41A (as renumbered)
 
-                     (b)  conformity assessment procedures (that are mainly about the application of quality management systems).
+Insert: 
 
-Note:          Medical device standards may be made under Division 2 of Part 4-2, and conformity assessment standards may be made under Division 2 of Part 4-3, but they are not requirements.
+Chapter&#160;4&#151;Medical devices
 
-##### <a id="41BB"></a>41BB  Administrative processes (Parts 4-4 to 4-10)
+Note:	For 5 years following the commencement of this Chapter, this Chapter will not apply, and Chapter&#160;3 (Medicines and other therapeutic goods that are not medical devices) will still apply, to medical devices that are registered or listed goods.
 
-                   The administrative processes under this Chapter are:
+Part&#160;4-1&#151;Introduction
+ Division&#160;1&#151;Overview of this Chapter
+ 41B  General
 
-                     (a)  issuing conformity assessment certificates for some manufacturers of medical devices; and
+<dl compact=""><dl compact="">
 
-                     (b)  including medical devices in the Register; and
+		The purpose of this Chapter is to ensure the safety and satisfactory
 
-                     (c)  suspending or cancelling entries of medical devices from the Register; and
+performance of medical devices. It does this by:
 
-                     (d)  exempting medical devices from the requirement to be included in the Register; and
+ </dl></dl>
 
-                     (e)  obtaining information about medical devices; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                      (f)  requiring public notification of problems with medical devices, and recovery of such devices.
+<dt>(a)</dt><dd>setting out particular requirements for medical devices; and</dd>
 
-Note:          Part 4-10 provides for assessment fees to be payable in some circumstances.
+<dt>(b)</dt><dd>establishing administrative processes principally aimed at ensuring those
 
-##### <a id="41BC"></a>41BC  Enforcement (Part 4-11)
+requirements are met; and</dd>
 
-                   Part 4-11 contains offences that are aimed at ensuring that:
+<dt>(c)</dt><dd>providing for enforcement through a series of offences.
 
-                     (a)  the requirements for medical devices are complied with; and
+</dd>
 
-                     (b)  the administrative processes under this Chapter (particularly the inclusion of medical devices in the Register) are followed.
+</dl></dl></dl>
 
-Note:          There are some offences in Parts 4-4 to 4-9\. They generally relate to matters ancillary to administrative processes in those Parts (e.g. false or misleading statements in applications).
+<center>Back to Top</center>
 
-### Division 2—Interpretation
+41BA  Requirements for medical devices (Parts&#160;4-2 and 4-3)
 
-##### <a id="41BD"></a>41BD  What is a _medical device_
+<dl compact=""><dl compact="">
 
-             (1)  A **_medical device_** is:
+		The requirements for medical devices are:
 
-                     (a)  any instrument, apparatus, appliance, material or other article (whether used alone or in combination, and including the software necessary for its proper application) intended, by the person under whose name it is or is to be supplied, to be used for human beings for the purpose of one or more of the following:
+ </dl></dl>
 
-                              (i)  diagnosis, prevention, monitoring, treatment or alleviation of disease;
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  diagnosis, monitoring, treatment, alleviation of or compensation for an injury or handicap;
+<dt>(a)</dt><dd>essential principles (that are about the safety and performance
 
-                            (iii)  investigation, replacement or modification of the anatomy or of a physiological process;
+characteristics of medical devices); and</dd>
 
-                            (iv)  control of conception;
+<dt>(b)</dt><dd>conformity assessment procedures (that are mainly about the application of
 
-                            and that does not achieve its principal intended action in or on the human body by pharmacological, immunological or metabolic means, but that may be assisted in its function by such means; or
+quality management systems).
 
-                     (b)  an accessory to such an instrument, apparatus, appliance, material or other article.
+</dd>
 
-Note:          Declarations under subsection (3) exclude articles from the scope of this definition. Declarations under section 7 can also have this effect: see subsection 7(4).
+</dl></dl></dl>
 
-             (2)  For the purposes of paragraph (1)(a), the purpose for which an article is to be used is to be ascertained from the information supplied, by the person under whose name the article is or is to be supplied, on or in any one or more of the following:
+<dl compact=""><dl compact="">
 
-                     (a)  the labelling on the article;
+Note:	Medical device standards may be made under Division&#160;2
 
-                     (b)  the instructions for using the article;
+of Part&#160;4-2, and conformity assessment standards may be made under
 
-                     (c)  any advertising material relating to the article.
+Division&#160;2 of Part&#160;4-3, but they are not requirements.
 
-             (3)  The Secretary may, by order published in the _Gazette_, declare that a particular instrument, apparatus, appliance, material or other article, or that a particular class of instruments, apparatus, appliances, materials or other articles, are not, for the purposes of this Act, medical devices.
+ </dl></dl>
 
-Note:          A declaration under this section does not stop articles from being therapeutic goods.
+41BB  Administrative processes (Parts&#160;4-4 to 4-10)
 
-             (4)  A declaration under this section takes effect on the day on which the declaration is published in the _Gazette_ or on such later day as is specified in the order.
+<dl compact=""><dl compact="">
 
-##### <a id="41BE"></a>41BE  Kinds of medical devices
+		The administrative processes under this Chapter are:
 
-General
+ </dl></dl>
 
-             (1)  For the purposes of this Chapter, a medical device is taken to be of the same kind as another medical device if they:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  have the same sponsor; and
+<dt>(a)</dt><dd>issuing conformity assessment certificates for some manufacturers of
 
-                     (b)  have the same manufacturer; and
+medical devices; and</dd>
 
-                     (c)  have the same device nomenclature system code (see subsection (3)); and
+<dt>(b)</dt><dd>including medical devices in the Register; and</dd>
 
-                     (d)  have the same medical device classification; and
+<dt>(c)</dt><dd>suspending or cancelling entries of medical devices from the Register;
 
-                     (e)  are the same in relation to such other characteristics as the regulations prescribe, either generally or in relation to medical devices of the kind in question.
+and</dd>
 
-Unique medical devices
+<dt>(d)</dt><dd>exempting medical devices from the requirement to be included in the
 
-             (2)  If a medical device is not of the same kind as any other medical device:
+Register; and</dd>
 
-                     (a)  this Chapter applies in relation to the device as if it were a kind of medical device; and
+<dt>(e)</dt><dd>obtaining information about medical devices; and</dd>
 
-                     (b)  references in this Chapter to delivering a reasonable number of samples of the kind of device are taken to be references to delivering the device.
+<dt>(f)</dt><dd>requiring public notification of problems with medical devices, and
 
-Device nomenclature codes
+recovery of such devices.
 
-             (3)  The regulations may specify device nomenclature codes for medical devices.
+</dd>
 
-##### <a id="41BF"></a>41BF  System or procedure packs
+</dl></dl></dl>
 
-             (1)  A package and therapeutic goods in the package are a **_system or procedure pack_** if:
+<dl compact=""><dl compact="">
 
-                     (a)  the package and the therapeutic goods are for use as a unit, either in combination as a system or in a medical or surgical procedure; and
+Note:	Part&#160;4-10 provides for assessment fees to be payable
 
-                     (b)  the package contains at least one medical device; and
+in some circumstances.
 
-                     (c)  the package and the therapeutic goods do not constitute a composite pack.
+ </dl></dl>
 
-             (2)  To avoid doubt, a system or procedure pack is a medical device.
+41BC  Enforcement (Part&#160;4-11)
 
-##### <a id="41BG"></a>41BG  Manufacturers of medical devices
+<dl compact=""><dl compact="">
 
-             (1)  The **_manufacturer_** of a medical device is the person who is responsible for the design, production, packaging and labelling of the device before it is supplied under the person’s name, whether or not it is the person, or another person acting on the person’s behalf, who carries out those operations.
+		Part&#160;4-11 contains offences that are aimed at ensuring that:
 
-             (2)  If subsection (1) does not apply to a medical device, the **_manufacturer_** of the device is the person who, with a view to supplying the device under the person’s name, does one or more of the following using ready-made products:
+ </dl></dl>
 
-                     (a)  assembles the device;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  packages the device;
+<dt>(a)</dt><dd>the requirements for medical devices are complied with; and</dd>
 
-                     (c)  processes the device;
+<dt>(b)</dt><dd>the administrative processes under this Chapter (particularly the
 
-                     (d)  fully refurbishes the device;
+inclusion of medical devices in the Register) are followed.
 
-                     (e)  labels the device;
+</dd>
 
-                      (f)  assigns to the device its purpose by means of information supplied, by the person, on or in any one or more of the following:
+</dl></dl></dl>
 
-                              (i)  the labelling on the device;
+<dl compact=""><dl compact="">
 
-                             (ii)  the instructions for using the device;
+Note:	There are some offences in Parts&#160;4-4 to 4-9\. They
 
-                            (iii)  any advertising material relating to the device.
+generally relate to matters ancillary to administrative processes in those
 
-             (3)  However, a person is not the manufacturer of a medical device if:
+Parts (e.g. false or misleading statements in applications).
 
-                     (a)  the person assembles or adapts the device for an individual patient; and
+ </dl></dl>
 
-                     (b)  the device has already been supplied by another person; and
+Division&#160;2&#151;Interpretation
+ 41BD  What is a medical device
 
-                     (c)  the assembly or adaptation does not change the purpose intended for the device by means of information supplied by that other person, on or in any one or more of the following:
+<dl compact=""><dl compact="">
 
-                              (i)  the labelling on the device;
+<dt>(1)</dt><dd>A _medical device_ is:
 
-                             (ii)  the instructions for using the device;
+</dd> </dl></dl>
 
-                            (iii)  any advertising material relating to the device.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41BH"></a>41BH  Meaning of compliance with essential principles
+<dt>(a)</dt><dd>any instrument, apparatus, appliance, material or other article (whether
 
-             (1)  A medical device complies, for the purposes of this Chapter (including Part 4-11), with the essential principles if and only if it does not contravene any of the essential principles.
+used alone or in combination, and including the software necessary for its
 
-             (2)  However, a medical device is also taken, for the purposes of this Chapter (other than Part 4-11), to comply with the essential principles if:
+proper application) intended, by the person under whose name it is or is to be
 
-                     (a)  the medical device complies with one or more medical device standards that apply to it; and
+supplied, to be used for human beings for the purpose of one or more of the
 
-                     (b)  the medical device contravenes the essential principles only in respect of a part or parts of the essential principles to which that medical device standard, or one or more of those medical device standards, relate.
+following:
 
-             (3)  For the purposes of this section, a medical device standard relates to a part or parts of the essential principles only if the standard specifies that part or parts.
+</dd>
 
-##### <a id="41BI"></a>41BI  Meaning of non-application of conformity assessment procedures
+</dl></dl></dl>
 
-             (1)  A conformity assessment procedure is taken, for the purposes of this Chapter, not to have been applied to a medical device if:
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  there has been a contravention of the conformity assessment procedures; and
+<dt>(i)</dt><dd>diagnosis, prevention, monitoring, treatment or alleviation of disease;</dd>
 
-                     (b)  the contravention relates, wholly or partly, to that device or its manufacture.
+<dt>(ii)</dt><dd>diagnosis, monitoring, treatment, alleviation of or compensation for an
 
-             (2)  However, for the purposes of this Chapter (other than Part 4-11), subsection (1) does not apply if:
+injury or handicap;</dd>
 
-                     (a)  the quality management system applied in the manufacture of the medical device complies with one or more conformity assessment standards that apply to it; and
+<dt>(iii)</dt><dd>investigation, replacement or modification of the anatomy or of a
 
-                     (b)  the contravention is only in respect of a part or parts of the conformity assessment procedures to which that conformity assessment standard, or one or more of those conformity assessment standards, relate.
+physiological process;</dd>
 
-             (3)  For the purposes of this section, a conformity assessment standard relates to a part or parts of the conformity assessment procedures only if the standard specifies that part or parts.
+<dt>(iv)</dt><dd>control of conception;
 
-### Division 3—Application provisions
+</dd>
 
-##### <a id="41BJ"></a>41BJ  Application of this Chapter to medical devices covered by Part 3-2
+</dl></dl></dl></dl>
 
-             (1)  This Chapter does not apply to a medical device if section 15A applies to the device, except for purposes connected with:
+<center>Back to Top</center>
 
-                     (a)  applications for including the medical device in the Register under this Chapter; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  including the medical device in the Register under this Chapter.
+		and that does not achieve its principal intended action in or on the human
 
-Note:          Section 15A sets out the circumstances in which Part 3-2 applies or continues to apply to medical devices.
+body by pharmacological, immunological or metabolic means, but that may be
 
-             (2)  However, if an exemption under section 34 applied to a medical device, or the manufacturer of the device, immediately before the commencement of this Chapter:
+assisted in its function by such means; or
 
-                     (a)  Parts 4-3 and 4-4, and Division 2 of Part 4-11, apply in relation to the device after the end of the period of 2 years after that commencement; and
+<dt>(b)</dt><dd>an accessory to such an instrument, apparatus, appliance, material or
 
-                     (b)  Parts 4-8, 4-9 and 4-10, and Divisions 3 and 4 of Part 4-11, apply in relation to the device, to the extent that they relate to any of the provisions referred to in paragraph (a), after the end of that period.
+other article.
 
-##### <a id="41BK"></a>41BK  Application of the _Criminal Code_
+</dd>
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Chapter.
+</dl></dl></dl>
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+<dl compact=""><dl compact="">
 
-## Part 4-2—Essential principles and medical device standards
+Note:	Declarations under subsection&#160;(3) exclude articles
 
-##### <a id="41C"></a>41C  What this Part is about
+from the scope of this definition. Declarations under section&#160;7 can also
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+have this effect: see subsection 7(4).
 
-The essential principles set out the requirements relating to the safety and performance characteristics of medical devices. Compliance with applicable medical device standards is not required, but it is one way to establish compliance with essential principles.</div>
+ </dl></dl>
 
-Note:          Dealing in medical devices that do not comply with the essential principles may be an offence: see Division 1 of Part 4-11.
+<dl compact=""><dl compact="">
 
-### Division 1—Essential principles
+<dt>(2)</dt><dd>For the purposes of paragraph&#160;(1)(a), the purpose for which an
 
-##### <a id="41CA"></a>41CA  Essential principles
+article is to be used is to be ascertained from the information supplied, by
 
-             (1)  The regulations may set out requirements for medical devices.
+the person under whose name the article is or is to be supplied, on or in any
 
-             (2)  These requirements are to be known as the **_essential principles_**.
+one or more of the following:
 
-### Division 2—Medical device standards
+</dd> </dl></dl>
 
-##### <a id="41CB"></a>41CB  Medical device standards
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  The Minister may, by order published in the _Gazette_, determine that:
+<dt>(a)</dt><dd>the labelling on the article;</dd>
 
-                     (a)  matters specified in the order constitute a medical device standard for kinds of medical devices identified in the order; and
+<dt>(b)</dt><dd>the instructions for using the article;</dd>
 
-                     (b)  medical devices of those kinds that comply with the standard are to be treated as complying with those parts of the essential principles specified in the standard.
+<dt>(c)</dt><dd>any advertising material relating to the article.
 
-             (2)  A medical device standard takes effect on the day on which the order establishing the medical device standard is published in the _Gazette_ or on such later day as is specified in the order.
+</dd>
 
-             (3)  A medical device standard is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+</dl></dl></dl>
 
-##### <a id="41CC"></a>41CC  Content of medical device standards
+<dl compact=""><dl compact="">
 
-             (1)  Without limiting the scope of section 41CB, an order establishing a medical device standard for kinds of medical devices may be specified by reference to:
+<dt>(3)</dt><dd>The Secretary may, by order published in the _Gazette_, declare that
 
-                     (a)  the safety or performance characteristics of the devices; or
+a particular instrument, apparatus, appliance, material or other article, or
 
-                     (b)  a monograph in the British Pharmacopoeia, the European Pharmacopoeia or the United States Pharmacopoeia; or
+that a particular class of instruments, apparatus, appliances, materials or
 
-                     (c)  a monograph in a publication approved by the Minister for the purposes of this subsection; or
+other articles, are not, for the purposes of this Act, medical devices.
 
-                     (d)  such a monograph as modified in a manner specified in the order; or
+</dd> </dl></dl>
 
-                     (e)  a standard published by a standards organisation; or
+<dl compact=""><dl compact="">
 
-                      (f)  such other matters as the Minister thinks fit.
+Note:	A declaration under this section does not stop articles
 
-             (2)  For the purposes of paragraph (1)(e), these are standards organisations:
+from being therapeutic goods.
 
-                     (a)  Standards Australia International Limited;
+ </dl></dl>
 
-                     (b)  the International Organisation for Standardization;
+<dl compact=""><dl compact="">
 
-                     (c)  the International Electrotechnical Commission;
+<dt>(4)</dt><dd>A declaration under this section takes effect on the day on which the
 
-                     (d)  the European Committee for Standardization;
+declaration is published in the _Gazette_ or on such later day as is
 
-                     (e)  the European Committee for Electrotechnical Standardization;
+specified in the order.
 
-                      (f)  any other organisation declared by the Minister by notice published in the _Gazette_.
+</dd> </dl></dl>
 
-##### <a id="41CD"></a>41CD  Inconsistencies between medical device standards
+41BE  Kinds of medical devices
 
-             (1)  A medical device standard that:
+_General_
 
-                     (a)  applies to a kind of medical device; and
+<dl compact=""><dl compact="">
 
-                     (b)  is inconsistent with another medical device standard that applies only to some of the devices of that kind;
+<dt>(1)</dt><dd>For the purposes of this Chapter, a medical device is taken to be of the
 
-is, to the extent of the inconsistency, of no effect in relation to the devices referred to in paragraph (b).
+same kind as another medical device if they:
 
-             (2)  A medical device standard that applies to a kind of medical device that consists of a combination of component parts takes precedence over any medical device standard that applies to the component parts.
+</dd> </dl></dl>
 
-## Part 4-3—Conformity assessment procedures
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41D"></a>41D  What this Part is about
+<dt>(a)</dt><dd>have the same sponsor; and</dd>
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+<dt>(b)</dt><dd>have the same manufacturer; and</dd>
+
+<dt>(c)</dt><dd>have the same device nomenclature system code (see subsection&#160;(3));
+
+and</dd>
+
+<dt>(d)</dt><dd>have the same medical device classification; and</dd>
+
+<dt>(e)</dt><dd>are the same in relation to such other characteristics as the regulations
+
+prescribe, either generally or in relation to medical devices of the kind in
+
+question.
+
+</dd>
+
+</dl></dl></dl>
+
+_Unique medical devices_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If a medical device is not of the same kind as any other medical device:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>this Chapter applies in relation to the device as if it were a kind of
+
+medical device; and</dd>
+
+<dt>(b)</dt><dd>references in this Chapter to delivering a reasonable number of samples of
+
+the kind of device are taken to be references to delivering the device.
+
+</dd>
+
+</dl></dl></dl>
+
+_Device nomenclature codes_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The regulations may specify device nomenclature codes for medical devices.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+41BF  System or procedure packs
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A package and therapeutic goods in the package are a _system or procedure pack_ if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the package and the therapeutic goods are for use as a unit, either in
+
+combination as a system or in a medical or surgical procedure; and</dd>
+
+<dt>(b)</dt><dd>the package contains at least one medical device; and</dd>
+
+<dt>(c)</dt><dd>the package and the therapeutic goods do not constitute a composite pack.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>To avoid doubt, a system or procedure pack is a medical device.
+
+</dd> </dl></dl>
+
+41BG  Manufacturers of medical devices
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The _manufacturer_ of a medical device is the person who is
+
+responsible for the design, production, packaging and labelling of the device
+
+before it is supplied under the person's name, whether or not it is the person,
+
+or another person acting on the person's behalf, who carries out those
+
+operations.</dd> <dt>(2)</dt><dd>If subsection&#160;(1) does not apply to a medical device, the _manufacturer_ of the device is the person who, with a view to supplying the device under the person's name, does one or more of the following using ready-made products: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>assembles the device;</dd>
+
+<dt>(b)</dt><dd>packages the device;</dd>
+
+<dt>(c)</dt><dd>processes the device;</dd>
+
+<dt>(d)</dt><dd>fully refurbishes the device;</dd>
+
+<dt>(e)</dt><dd>labels the device;</dd>
+
+<dt>(f)</dt><dd>assigns to the device its purpose by means of information supplied, by the
+
+person, on or in any one or more of the following:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the labelling on the device;</dd>
+
+<dt>(ii)</dt><dd>the instructions for using the device;</dd>
+
+<dt>(iii)</dt><dd>any advertising material relating to the device.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>However, a person is not the manufacturer of a medical device if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person assembles or adapts the device for an individual patient; and</dd>
+
+<dt>(b)</dt><dd>the device has already been supplied by another person; and</dd>
+
+<dt>(c)</dt><dd>the assembly or adaptation does not change the purpose intended for the
+
+device by means of information supplied by that other person, on or in any one
+
+or more of the following:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the labelling on the device;</dd>
+
+<dt>(ii)</dt><dd>the instructions for using the device;</dd>
+
+<dt>(iii)</dt><dd>any advertising material relating to the device.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+41BH  Meaning of compliance with essential principles
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A medical device complies, for the purposes of this Chapter (including
+
+Part&#160;4-11), with the essential principles if and only if it does not
+
+contravene any of the essential principles.</dd> <dt>(2)</dt><dd>However, a medical device is also taken, for the purposes of this Chapter (other than Part&#160;4-11), to comply with the essential principles if: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the medical device complies with one or more medical device standards that
+
+apply to it; and</dd>
+
+<dt>(b)</dt><dd>the medical device contravenes the essential principles only in respect of
+
+a part or parts of the essential principles to which that medical device
+
+standard, or one or more of those medical device standards, relate.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of this section, a medical device standard relates to a
+
+part or parts of the essential principles only if the standard specifies that
+
+part or parts.
+
+</dd> </dl></dl>
+
+41BI  Meaning of non-application of conformity assessment procedures
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A conformity assessment procedure is taken, for the purposes of this
+
+Chapter, not to have been applied to a medical device if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>there has been a contravention of the conformity assessment procedures;
+
+and</dd>
+
+<dt>(b)</dt><dd>the contravention relates, wholly or partly, to that device or its
+
+manufacture.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>However, for the purposes of this Chapter (other than Part&#160;4-11),
+
+subsection&#160;(1) does not apply if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the quality management system applied in the manufacture of the medical
+
+device complies with one or more conformity assessment standards that apply to
+
+it; and</dd>
+
+<dt>(b)</dt><dd>the contravention is only in respect of a part or parts of the conformity
+
+assessment procedures to which that conformity assessment standard, or one or
+
+more of those conformity assessment standards, relate.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of this section, a conformity assessment standard relates
+
+to a part or parts of the conformity assessment procedures only if the standard
+
+specifies that part or parts.
+
+</dd> </dl></dl>
+
+Division&#160;3&#151;Application provisions
+ 41BJ  Application of this Chapter to medical devices covered by Part&#160;3-2
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This Chapter does not apply to a medical device if section&#160;15A
+
+applies to the device, except for purposes connected with:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>applications for including the medical device in the Register under this
+
+Chapter; or</dd>
+
+<dt>(b)</dt><dd>including the medical device in the Register under this Chapter.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Section&#160;15A sets out the circumstances in which
+
+Part&#160;3-2 applies or continues to apply to medical devices.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>However, if an exemption under section&#160;34 applied to a medical
+
+device, or the manufacturer of the device, immediately before the commencement
+
+of this Chapter:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>Parts&#160;4-3 and 4-4, and Division&#160;2 of Part&#160;4-11, apply in
+
+relation to the device after the end of the period of 2 years after that
+
+commencement; and</dd>
+
+<dt>(b)</dt><dd>Parts&#160;4-8, 4-9 and 4-10, and Divisions&#160;3 and 4 of
+
+Part&#160;4-11, apply in relation to the device, to the extent that they relate
+
+to any of the provisions referred to in paragraph&#160;(a), after the end of
+
+that period.
+
+</dd>
+
+</dl></dl></dl>
+
+41BK  Application of the Criminal Code
+
+<dl compact=""><dl compact="">
+
+		Chapter&#160;2 of the _Criminal Code_ applies to all offences against
+
+this Chapter.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
+
+general principles of criminal responsibility.
+
+ </dl></dl>
+
+Part&#160;4-2&#151;Essential principles and medical device standards
+ 41C  What this Part is about
+
+The essential principles set out the requirements relating to the safety and performance characteristics of medical devices. Compliance with applicable medical device standards is not required, but it is one way to establish compliance with essential principles.
+
+<dl compact=""><dl compact="">
+
+Note:	Dealing in medical devices that do not comply with the
+
+essential principles may be an offence: see Division&#160;1 of Part&#160;4-11.
+
+ </dl></dl>
+
+Division&#160;1&#151;Essential principles
+ 41CA  Essential principles
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The regulations may set out requirements for medical devices.</dd> <dt>(2)</dt><dd>These requirements are to be known as the _essential principles_. </dd> </dl></dl>
+
+Division&#160;2&#151;Medical device standards
+ 41CB  Medical device standards
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Minister may, by order published in the _Gazette_, determine that:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>matters specified in the order constitute a medical device standard for
+
+kinds of medical devices identified in the order; and</dd>
+
+<dt>(b)</dt><dd>medical devices of those kinds that comply with the standard are to be
+
+treated as complying with those parts of the essential principles specified in
+
+the standard.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A medical device standard takes effect on the day on which the order
+
+establishing the medical device standard is published in the _Gazette_ or
+
+on such later day as is specified in the order.</dd> <dt>(3)</dt><dd>A medical device standard is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl></dl>
+
+41CC  Content of medical device standards
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Without limiting the scope of section&#160;41CB, an order establishing a
+
+medical device standard for kinds of medical devices may be specified by
+
+reference to:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the safety or performance characteristics of the devices; or</dd>
+
+<dt>(b)</dt><dd>a monograph in the British Pharmacopoeia, the European Pharmacopoeia or
+
+the United States Pharmacopoeia; or</dd>
+
+<dt>(c)</dt><dd>a monograph in a publication approved by the Minister for the purposes of
+
+this subsection; or</dd>
+
+<dt>(d)</dt><dd>such a monograph as modified in a manner specified in the order; or</dd>
+
+<dt>(e)</dt><dd>a standard published by a standards organisation; or</dd>
+
+<dt>(f)</dt><dd>such other matters as the Minister thinks fit.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of paragraph&#160;(1)(e), these are standards
+
+organisations:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>Standards Australia International Limited;</dd>
+
+<dt>(b)</dt><dd>the International Organisation for Standardization;</dd>
+
+<dt>(c)</dt><dd>the International Electrotechnical Commission;</dd>
+
+<dt>(d)</dt><dd>the European Committee for Standardization;</dd>
+
+<dt>(e)</dt><dd>the European Committee for Electrotechnical Standardization;</dd>
+
+<dt>(f)</dt><dd>any other organisation declared by the Minister by notice published in the
+
+_Gazette_.
+
+</dd>
+
+</dl></dl></dl>
+
+41CD  Inconsistencies between medical device standards
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A medical device standard that:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>applies to a kind of medical device; and</dd>
+
+<dt>(b)</dt><dd>is inconsistent with another medical device standard that applies only to
+
+some of the devices of that kind;
+
+</dd>
+
+</dl></dl></dl>
+
+is, to the extent of the inconsistency, of no effect in relation to the devices referred to in paragraph&#160;(b).
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A medical device standard that applies to a kind of medical device that
+
+consists of a combination of component parts takes precedence over any medical
+
+device standard that applies to the component parts.
+
+</dd> </dl></dl>
+
+Part&#160;4-3&#151;Conformity assessment procedures
+ 41D  What this Part is about
 
 The conformity assessment procedures set out the requirements relating to the application of quality management systems for medical devices, and other requirements imposed on manufacturers.
+ Compliance with applicable conformity assessment standards is not required, but it is one way to establish that one or more parts of the conformity assessment procedures have been applied to medical devices.
 
-Compliance with applicable conformity assessment standards is not required, but it is one way to establish that one or more parts of the conformity assessment procedures have been applied to medical devices.</div>
+<dl compact=""><dl compact="">
 
-Note 1:       Dealing in medical devices that have not had the conformity assessment procedures applied may be an offence: see Division 2 of Part 4-11.
+Note 1:	Dealing in medical devices that have not had the
 
-Note 2:       See section 41BI on applying the conformity assessment procedures.
+conformity assessment procedures applied may be an offence: see Division&#160;2
 
-### Division 1—Conformity assessment procedures
+of Part&#160;4-11\. Note 2:	See section&#160;41BI on applying the conformity assessment procedures.  </dl></dl>
 
-##### <a id="41DA"></a>41DA  Conformity assessment procedures
+Division&#160;1&#151;Conformity assessment procedures
+ 41DA  Conformity assessment procedures
 
-             (1)  The regulations may set out requirements relating to the obligations of manufacturers of medical devices.
+<dl compact=""><dl compact="">
 
-             (2)  These requirements are to be known as the **_conformity assessment procedures_**.
+<dt>(1)</dt><dd>The regulations may set out requirements relating to the obligations of
 
-             (3)  The conformity assessment procedures, or any part of the conformity assessment procedures, may:
+manufacturers of medical devices.</dd> <dt>(2)</dt><dd>These requirements are to be known as the _conformity assessment procedures_.</dd> <dt>(3)</dt><dd>The conformity assessment procedures, or any part of the conformity assessment procedures, may: </dd> </dl></dl>
 
-                     (a)  be limited in their application to one or more medical device classifications; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  apply differently to different medical device classifications, different kinds of medical devices or different manufacturers.
+<dt>(a)</dt><dd>be limited in their application to one or more medical device
 
-             (4)  Without limiting subsection (1), the regulations may relate to all or any of the following:
+classifications; or</dd>
 
-                     (a)  application of quality management systems for the manufacture of medical devices;
+<dt>(b)</dt><dd>apply differently to different medical device classifications, different kinds of medical devices or different manufacturers.
 
-                     (b)  certification of compliance with the essential principles, or the quality management systems for the manufacture of medical devices;
+</dd>
 
-                     (c)  notification of, and assessment of, changes to a manufacturer’s product range, product design or quality management systems;
+</dl></dl></dl>
 
-                     (d)  declarations to be made by manufacturers of medical devices that conformity assessment procedures have been applied to the devices;
+<dl compact=""><dl compact="">
 
-                     (e)  marks to be affixed to medical devices indicating the application of the conformity assessment procedures to the devices;
+<dt>(4)</dt><dd>Without limiting subsection&#160;(1), the regulations may relate to all or
 
-                      (f)  monitoring and inspecting the design of medical devices or the manufacturing processes  for medical devices;
+any of the following:
 
-                     (g)  monitoring the performance of medical devices;
+</dd> </dl></dl>
 
-                     (h)  corrective action required in relation to the design, manufacture, packaging, labelling and supply of medical devices;
+<dl compact=""><dl compact=""><dl compact="">
 
-                      (i)  keeping records of the manufacture of medical devices, the design of medical devices or the manufacturing processes for medical devices.
+<dt>(a)</dt><dd>application of quality management systems for the manufacture of medical
 
-##### <a id="41DB"></a>41DB  Medical device classifications
+devices;</dd>
 
-                   The regulations may specify:
+<dt>(b)</dt><dd>certification of compliance with the essential principles, or the quality
 
-                     (a)  classifications, to be known as **_medical device classifications_**, applying to medical devices or kinds of medical devices; and
+management systems for the manufacture of medical devices;</dd>
 
-                     (b)  matters in relation to the classification of medical devices or kinds of medical devices.
+<dt>(c)</dt><dd>notification of, and assessment of, changes to a manufacturer's product
 
-### Division 2—Conformity assessment standards
+range, product design or quality management systems;</dd>
 
-##### <a id="41DC"></a>41DC  Conformity assessment standards
+<dt>(d)</dt><dd>declarations to be made by manufacturers of medical devices that
 
-             (1)  The Minister may, by order published in the _Gazette_, determine that:
+conformity assessment procedures have been applied to the devices;</dd>
 
-                     (a)  matters specified in the order constitute a conformity assessment standard for quality management systems identified in the order; and
+<dt>(e)</dt><dd>marks to be affixed to medical devices indicating the application of the
 
-                     (b)  a quality management system that complies with the standard is to be treated as having had applied to it those parts of the conformity assessment procedures specified in the standard.
+conformity assessment procedures to the devices;</dd>
 
-             (2)  A conformity assessment standard may be limited to particular kinds of medical devices.
+<dt>(f)</dt><dd>monitoring and inspecting the design of medical devices or the
 
-             (3)  A conformity assessment standard takes effect on the day on which the order establishing the conformity assessment standard is published in the _Gazette_ or on such later day as is specified in the order.
+manufacturing processes  for medical devices;</dd>
 
-             (4)  A conformity assessment standard is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+<dt>(g)</dt><dd>monitoring the performance of medical devices;</dd>
 
-##### <a id="41DD"></a>41DD  Content of conformity assessment standards
+<dt>(h)</dt><dd>corrective action required in relation to the design, manufacture,
 
-             (1)  Without limiting the scope of section 41DC, an order establishing a conformity assessment standard for a kind of medical device may be specified by reference to:
+packaging, labelling and supply of medical devices;</dd>
 
-                     (a)  procedures to be carried out under the quality management systems for the design, manufacture and final inspection of the devices; or
+<dt>(i)</dt><dd>keeping records of the manufacture of medical devices, the design of
 
-                     (b)  a standard published by a standards organisation; or
+medical devices or the manufacturing processes for medical devices.
 
-                     (c)  such other matters as the Minister thinks fit.
+</dd>
 
-             (2)  For the purposes of paragraph (1)(b), these are standards organisations:
+</dl></dl></dl>
 
-                     (a)  Standards Australia International Limited;
+41DB  Medical device classifications
 
-                     (b)  the International Organisation for Standardization;
+<dl compact=""><dl compact="">
 
-                     (c)  the European Committee for Standardization;
+		The regulations may specify:
 
-                     (d)  any other organisation declared by the Minister by notice published in the _Gazette_.
+ </dl></dl>
 
-##### <a id="41DE"></a>41DE  Inconsistencies between conformity assessment standards
+<center>Back to Top</center>
 
-                   A conformity assessment standard that:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  identifies quality management systems to which it applies; and
+<dt>(a)</dt><dd>classifications, to be known as _medical device classifications_, applying to medical devices or kinds of medical
 
-                     (b)  is inconsistent with another conformity assessment standard that applies only to particular kinds of medical devices;
+devices; and</dd>
 
-is, to the extent of the inconsistency, of no effect in relation to the devices referred to in paragraph (b).
+<dt>(b)</dt><dd>matters in relation to the classification of medical devices or kinds of
 
-## Part 4-4—Conformity assessment certificates
+medical devices.
 
-##### <a id="41E"></a>41E  What this Part is about
+</dd>
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+</dl></dl></dl>
+
+Division&#160;2&#151;Conformity assessment standards
+ 41DC  Conformity assessment standards
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Minister may, by order published in the _Gazette_, determine that:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>matters specified in the order constitute a conformity assessment standard
+
+for quality management systems identified in the order; and</dd>
+
+<dt>(b)</dt><dd>a quality management system that complies with the standard is to be
+
+treated as having had applied to it those parts of the conformity assessment
+
+procedures specified in the standard.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A conformity assessment standard may be limited to particular kinds of
+
+medical devices.</dd> <dt>(3)</dt><dd>A conformity assessment standard takes effect on the day on which the order establishing the conformity assessment standard is published in the _Gazette_ or on such later day as is specified in the order.</dd> <dt>(4)</dt><dd>A conformity assessment standard is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl></dl>
+
+41DD  Content of conformity assessment standards
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Without limiting the scope of section&#160;41DC, an order establishing a
+
+conformity assessment standard for a kind of medical device may be specified by
+
+reference to:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>procedures to be carried out under the quality management systems for the
+
+design, manufacture and final inspection of the devices; or</dd>
+
+<dt>(b)</dt><dd>a standard published by a standards organisation; or</dd>
+
+<dt>(c)</dt><dd>such other matters as the Minister thinks fit.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of paragraph&#160;(1)(b), these are standards
+
+organisations:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>Standards Australia International Limited;</dd>
+
+<dt>(b)</dt><dd>the International Organisation for Standardization;</dd>
+
+<dt>(c)</dt><dd>the European Committee for Standardization;</dd>
+
+<dt>(d)</dt><dd>any other organisation declared by the Minister by notice published in the
+
+_Gazette_.
+
+</dd>
+
+</dl></dl></dl>
+
+41DE  Inconsistencies between conformity assessment standards
+
+<dl compact=""><dl compact="">
+
+		A conformity assessment standard that:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>identifies quality management systems to which it applies; and</dd>
+
+<dt>(b)</dt><dd>is inconsistent with another conformity assessment standard that applies
+
+only to particular kinds of medical devices;
+
+</dd>
+
+</dl></dl></dl>
+
+is, to the extent of the inconsistency, of no effect in relation to the devices referred to in paragraph&#160;(b).
+
+Part&#160;4-4&#151;Conformity assessment certificates
+ 41E  What this Part is about
 
 The Secretary can issue a conformity assessment certificate (which may be limited to some medical devices) in respect of a manufacturer of medical devices, signifying one or more of these:
 
-               (a)     that relevant quality management systems have been applied to the device;
+	(a)	that relevant quality management systems have been applied to the device;
+ 	(b)	the essential principles for the device have been complied with;
 
-               (b)     the essential principles for the device have been complied with;
+<center>Back to Top</center>
+ 	(c)	other certification requirements of the conformity assessment procedures have been met.
 
-               (c)     other certification requirements of the conformity assessment procedures have been met.</div>
+<dl compact=""><dl compact="">
 
-Note:          A conformity assessment certificate may be required before a valid application can be made for including a kind of medical device in the Register under this Chapter: see subsection 41FC(2).
+Note:	A conformity assessment certificate may be required before
 
-### Division 1—Issuing conformity assessment certificates
+a valid application can be made for including a kind of medical device in the
 
-##### <a id="41EA"></a>41EA  When conformity assessment certificates are required
+Register under this Chapter: see subsection 41FC(2).
 
-                   The regulations may prescribe:
+ </dl></dl>
 
-                     (a)  kinds of manufacturers in respect of whom a conformity assessment certificate must be issued before valid applications can be made for kinds of medical devices, manufactured by those manufacturers, to be included in the Register; or
+Division&#160;1&#151;Issuing conformity assessment certificates
+ 41EA  When conformity assessment certificates are required
 
-                     (b)  kinds of medical devices in respect of which a conformity assessment certificate must be issued before valid applications can be made for those kinds of medical devices to be included in the Register.
+<dl compact=""><dl compact="">
 
-Note:          The regulations may prescribe different levels of fees for different kinds of manufacturers and medical devices: see subsection 41LA(2).
+		The regulations may prescribe:
 
-##### <a id="41EB"></a>41EB  Applications
+ </dl></dl>
 
-             (1)  An application for a conformity assessment certificate must:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  be made in accordance with a form approved, in writing, by the Secretary or in such other manner as is approved, in writing, by the Secretary; and
+<dt>(a)</dt><dd>kinds of manufacturers in respect of whom a conformity assessment
 
-                     (b)  be delivered to an office of the Department specified by the Secretary.
+certificate must be issued before valid applications can be made for kinds of
 
-Note:          A conformity assessment fee is payable under section 41LA for consideration of the application.
+medical devices, manufactured by those manufacturers, to be included in the
 
-             (2)  An application is not effective if:
+Register; or</dd>
 
-                     (a)  the prescribed application fee has not been paid; or
+<dt>(b)</dt><dd>kinds of medical devices in respect of which a conformity assessment
 
-                     (b)  the application contains information that is false or misleading in a material particular.
+certificate must be issued before valid applications can be made for those
 
-Note:          A person might also be guilty of an offence if the person makes a statement in an application that is false or misleading in a material particular: see section 41EI.
+kinds of medical devices to be included in the Register.
 
-             (3)  An approval of a form may require or permit an application or information to be given in accordance with specified software requirements:
+</dd>
 
-                     (a)  on a specified kind of data processing device; or
+</dl></dl></dl>
 
-                     (b)  by way of a specified kind of electronic transmission.
+<dl compact=""><dl compact="">
 
-             (4)  The Secretary may, by written notice given to an applicant for a conformity assessment certificate, require the applicant to allow an authorised person, at any reasonable time specified in the notice, to inspect:
+Note:	The regulations may prescribe different levels of fees for
 
-                     (a)  the premises (including premises outside Australia) and equipment, processes and facilities that are being or will be used to manufacture medical devices of the kind in question; and
+different kinds of manufacturers and medical devices: see subsection 41LA(2).
 
-                     (b)  any other kinds of medical devices on those premises.
+ </dl></dl>
 
-##### <a id="41EC"></a>41EC  Considering applications
+41EB  Applications
 
-             (1)  If the application is made in accordance with section 41EB, the Secretary must decide whether to issue the conformity assessment certificate.
+<dl compact=""><dl compact="">
 
-             (2)  In deciding whether to issue the certificate, the Secretary must consider some or all aspects of whether the conformity assessment procedures relating to one or more of the following have been applied to the medical device:
+<dt>(1)</dt><dd>An application for a conformity assessment certificate must:
 
-                     (a)  the application of quality management systems for the manufacture of medical devices;
+</dd> </dl></dl>
 
-                     (b)  the certification of compliance with the essential principles;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  any other requirement of the conformity assessment procedures specified in regulations made for the purposes of this subsection.
+<dt>(a)</dt><dd>be made in accordance with a form approved, in writing, by the Secretary
 
-##### <a id="41ED"></a>41ED  Time for making decisions on applications
+or in such other manner as is approved, in writing, by the Secretary; and</dd>
 
-             (1)  If the application relates to the issuing of a conformity assessment certificate in relation to which a period has been prescribed under paragraph 63(2)(dc), a decision on the application must be made within that period, unless the application lapses under section 41EG.
+<dt>(b)</dt><dd>be delivered to an office of the Department specified by the Secretary.
 
-             (2)  A failure to make a decision on the application within that period does not render the Commonwealth, the Secretary or a delegate of the Secretary liable to a person in respect of loss, damage or injury of any kind caused by, or arising out of, the failure.
+</dd>
 
-##### <a id="41EE"></a>41EE  Procedure following making a decision whether to issue certificate
+</dl></dl></dl>
 
-             (1)  After making a decision whether to issue a conformity assessment certificate, the Secretary must:
+<dl compact=""><dl compact="">
 
-                     (a)  notify the applicant in writing of his or her decision within 20 working days; and
+Note:	A conformity assessment fee is payable under
 
-                     (b)  if the decision is not to issue the certificate—state in the notice the reasons for the decision; and
+section&#160;41LA for consideration of the application.
 
-                     (c)  if the decision is to issue the certificate and all assessment fees that are due and payable  for the application have been paid:
+ </dl></dl>
 
-                              (i)  issue the certificate to the manufacturer in relation to whom the application was made; and
+<dl compact=""><dl compact="">
 
-                             (ii)  give the applicant a copy of the certificate (if the applicant is not the manufacturer).
+<dt>(2)</dt><dd>An application is not effective if:
 
-             (2)  A conformity assessment certificate must specify whether it covers:
+</dd> </dl></dl>
 
-                     (a)  all medical devices manufactured by the manufacturer; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  only specified medical devices manufactured by the manufacturer.
+<dt>(a)</dt><dd>the prescribed application fee has not been paid; or</dd>
 
-##### <a id="41EF"></a>41EF  Duration of certificate
+<dt>(b)</dt><dd>the application contains information that is false or misleading in a
 
-             (1)  The conformity assessment certificate commences on the day specified for the purpose in the certificate.
+material particular.
 
-             (2)  A conformity assessment certificate has effect at all times:
+</dd>
 
-                     (a)  unless the certificate is suspended under Division 3; or
+</dl></dl></dl>
 
-                     (b)  until the end of the period (if any) specified in the certificate; or
+<dl compact=""><dl compact="">
 
-                     (c)  until the certificate is revoked under Division 4.
+Note:	A person might also be guilty of an offence if the person
 
-##### <a id="41EG"></a>41EG  Lapsing of applications
+makes a statement in an application that is false or misleading in a material
 
-                   An application for a conformity assessment certificate lapses if:
+particular: see section&#160;41EI.
 
-                     (a)  the applicant does not deliver to the office to which the application was made such information (in a form approved in writing by the Secretary) as will allow the certificate to be issued; or
+ </dl></dl>
 
-                     (b)  the applicant does not comply with a requirement by the Secretary to deliver to the office to which the application was made a reasonable number of samples of the kind of medical device to which the application relates; or
+<dl compact=""><dl compact="">
 
-                     (c)  the applicant fails to comply with a notice under section 41JA to give to the Secretary information relating to a kind of medical device to which the application relates within a further 10 working days from the day specified in the notice; or
+<dt>(3)</dt><dd>An approval of a form may require or permit an application or information
 
-                     (d)  information given to the Secretary by, or on behalf of, the applicant in connection with the application, including information given for the purpose of a notice under section 41JA, is false or misleading in a material particular; or
+to be given in accordance with specified software requirements:
 
-                     (e)  the applicant fails to allow an authorised person to carry out any inspection as required under subsection 41EB(4); or
+</dd> </dl></dl>
 
-                      (f)  the applicant fails to pay an assessment fee for the application within the period, specified in the regulations, after being notified of the decision to issue a conformity assessment certificate under section 41EE.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41EH"></a>41EH  Treating applications as having been refused
+<dt>(a)</dt><dd>on a specified kind of data processing device; or</dd>
 
-             (1)  The applicant for an application for a conformity assessment certificate may give the Secretary written notice that the applicant wishes to treat the application as having been refused if:
+<dt>(b)</dt><dd>by way of a specified kind of electronic transmission.
 
-                     (a)  a period is prescribed under paragraph 63(2)(dc) for making a decision on the application; and
+</dd>
 
-                     (b)  at the end of the period, the applicant has not been notified of a decision whether to issue the certificate.
+</dl></dl></dl>
 
-             (2)  The notice may be given at any time before the applicant is notified of the decision.
+<dl compact=""><dl compact="">
 
-             (3)  If a notice has been given, this Act (except for subsection 60(5)) has effect as if:
+<dt>(4)</dt><dd>The Secretary may, by written notice given to an applicant for a
 
-                     (a)  the Secretary had decided not to issue the certificate; and
+conformity assessment certificate, require the applicant to allow an authorised
 
-                     (b)  the Minister had made a decision under subsection 60(3) confirming the decision of the Secretary; and
+person, at any reasonable time specified in the notice, to inspect:
 
-                     (c)  the Minister’s decision had been made on the day on which notice was given to the Secretary.
+</dd> </dl></dl>
 
-##### <a id="41EI"></a>41EI  False statements
+<dl compact=""><dl compact=""><dl compact="">
 
-                   A person is guilty of an offence if:
+<dt>(a)</dt><dd>the premises (including premises outside Australia) and equipment,
 
-                     (a)  the person makes a statement (whether orally, in a document or in any other way); and
+processes and facilities that are being or will be used to manufacture medical
 
-                     (b)  the person knows that the statement is false or misleading in a material particular; and
+devices of the kind in question; and</dd>
 
-                     (c)  the statement is in or in connection with an application for a conformity assessment certificate.
+<dt>(b)</dt><dd>any other kinds of medical devices on those premises.
 
-                    Maximum penalty:    60 penalty units.
+</dd>
 
-### Division 2—Conditions
+</dl></dl></dl>
 
-_Note:       Breaching conditions of the conformity assessment certificate may lead to suspension or revocation of the certificate (see Divisions 3 and 4), and may be an offence (see subsection 41MN(2))._
+<center>Back to Top</center>
 
-##### <a id="41EJ"></a>41EJ  Automatic conditions on conformity assessment certificates
+41EC  Considering applications
 
-Entry and inspection powers
+<dl compact=""><dl compact="">
 
-             (1)  A conformity assessment certificate is subject to the conditions that the manufacturer in respect of whom the certificate is issued will:
+<dt>(1)</dt><dd>If the application is made in accordance with section&#160;41EB, the
 
-                     (a)  allow an authorised person:
+Secretary must decide whether to issue the conformity assessment certificate.</dd> <dt>(2)</dt><dd>In deciding whether to issue the certificate, the Secretary must consider some or all aspects of whether the conformity assessment procedures relating to one or more of the following have been applied to the medical device: </dd> </dl></dl>
 
-                              (i)  to enter, at any reasonable time, premises (including premises outside Australia) at which the person or any other person deals with medical devices of a kind covered by the certificate; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  while on those premises, to inspect those premises and medical devices of that kind at those premises and to take samples of devices of that kind; and
+<dt>(a)</dt><dd>the application of quality management systems for the manufacture of
 
-                            (iii)  to carry out tests, or require tests to be carried out, on the premises on medical devices of a kind covered by the certificate; and
+medical devices;</dd>
 
-                     (b)  if requested to do so by an authorised person:
+<dt>(b)</dt><dd>the certification of compliance with the essential principles;</dd>
 
-                              (i)  produce to the person such documents relating to devices of that kind, or to the manufacturer’s quality management system, as the person requires; and
+<dt>(c)</dt><dd>any other requirement of the conformity assessment procedures specified in
 
-                             (ii)  allow the person to copy the documents.
+regulations made for the purposes of this subsection.
 
-Review
+</dd>
 
-             (2)  A conformity assessment certificate is subject to the condition that the manufacturer in respect of whom the certificate is issued will cooperate in any review by the Secretary of the certificate to determine whether the conformity assessment procedures relating to the following matters have been applied to the kinds of medical devices covered by the certificate:
+</dl></dl></dl>
 
-                     (a)  the application of quality management systems for the manufacture of medical devices;
+41ED  Time for making decisions on applications
 
-                     (b)  the certification of compliance with the essential principles;
+<dl compact=""><dl compact="">
 
-                     (c)  any other requirement of the conformity assessment procedures specified in the regulations made for the purposes of subsection 41EC(2).
+<dt>(1)</dt><dd>If the application relates to the issuing of a conformity assessment
 
-Notification of substantial changes
+certificate in relation to which a period has been prescribed under paragraph
 
-             (3)  A conformity assessment certificate is subject to the condition that the person in respect of whom the certificate is issued will notify the Secretary, in writing, of any plan for substantial changes to:
+63(2)(dc), a decision on the application must be made within that period,
 
-                     (a)  quality management systems; or
+unless the application lapses under section&#160;41EG.</dd> <dt>(2)</dt><dd>A failure to make a decision on the application within that period does not render the Commonwealth, the Secretary or a delegate of the Secretary liable to a person in respect of loss, damage or injury of any kind caused by, or arising out of, the failure. </dd> </dl></dl>
 
-                     (b)  the product range covered by those systems; or
+41EE  Procedure following making a decision whether to issue certificate
 
-                     (c)  the product design of kinds of medical devices;
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>After making a decision whether to issue a conformity assessment
+
+certificate, the Secretary must:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>notify the applicant in writing of his or her decision within 20 working
+
+days; and</dd>
+
+<dt>(b)</dt><dd>if the decision is not to issue the certificate&#151;state in the notice the
+
+reasons for the decision; and</dd>
+
+<dt>(c)</dt><dd>if the decision is to issue the certificate and all assessment fees that
+
+are due and payable  for the application have been paid:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>issue the certificate to the manufacturer in relation to whom the
+
+application was made; and</dd>
+
+<dt>(ii)</dt><dd>give the applicant a copy of the certificate (if the applicant is not the
+
+manufacturer).
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A conformity assessment certificate must specify whether it covers:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>all medical devices manufactured by the manufacturer; or</dd>
+
+<dt>(b)</dt><dd>only specified medical devices manufactured by the manufacturer.
+
+</dd>
+
+</dl></dl></dl>
+
+41EF  Duration of certificate
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The conformity assessment certificate commences on the day specified for
+
+the purpose in the certificate.</dd> <dt>(2)</dt><dd>A conformity assessment certificate has effect at all times: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>unless the certificate is suspended under Division&#160;3; or</dd>
+
+<dt>(b)</dt><dd>until the end of the period (if any) specified in the certificate; or</dd>
+
+<dt>(c)</dt><dd>until the certificate is revoked under Division&#160;4.
+
+</dd>
+
+</dl></dl></dl>
+
+41EG  Lapsing of applications
+
+<dl compact=""><dl compact="">
+
+		An application for a conformity assessment certificate lapses if:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the applicant does not deliver to the office to which the application was
+
+made such information (in a form approved in writing by the Secretary) as will
+
+allow the certificate to be issued; or</dd>
+
+<dt>(b)</dt><dd>the applicant does not comply with a requirement by the Secretary to
+
+deliver to the office to which the application was made a reasonable number of
+
+samples of the kind of medical device to which the application relates; or</dd>
+
+<dt>(c)</dt><dd>the applicant fails to comply with a notice under section&#160;41JA to
+
+give to the Secretary information relating to a kind of medical device to which
+
+the application relates within a further 10 working days from the day specified
+
+in the notice; or</dd>
+
+<dt>(d)</dt><dd>information given to the Secretary by, or on behalf of, the applicant in
+
+connection with the application, including information given for the purpose of
+
+a notice under section&#160;41JA, is false or misleading in a material
+
+particular; or</dd>
+
+<dt>(e)</dt><dd>the applicant fails to allow an authorised person to carry out any
+
+inspection as required under subsection 41EB(4); or</dd>
+
+<dt>(f)</dt><dd>the applicant fails to pay an assessment fee for the application within
+
+the period, specified in the regulations, after being notified of the decision
+
+to issue a conformity assessment certificate under section&#160;41EE.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+41EH  Treating applications as having been refused
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The applicant for an application for a conformity assessment certificate
+
+may give the Secretary written notice that the applicant wishes to treat the
+
+application as having been refused if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a period is prescribed under paragraph 63(2)(dc) for making a decision on
+
+the application; and</dd>
+
+<dt>(b)</dt><dd>at the end of the period, the applicant has not been notified of a
+
+decision whether to issue the certificate.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The notice may be given at any time before the applicant is notified of
+
+the decision.</dd> <dt>(3)</dt><dd>If a notice has been given, this Act (except for subsection 60(5)) has effect as if: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Secretary had decided not to issue the certificate; and</dd>
+
+<dt>(b)</dt><dd>the Minister had made a decision under subsection 60(3) confirming the
+
+decision of the Secretary; and</dd>
+
+<dt>(c)</dt><dd>the Minister's decision had been made on the day on which notice was given
+
+to the Secretary.
+
+</dd>
+
+</dl></dl></dl>
+
+41EI  False statements
+
+<dl compact=""><dl compact="">
+
+		A person is guilty of an offence if:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person makes a statement (whether orally, in a document or in any
+
+other way); and</dd>
+
+<dt>(b)</dt><dd>the person knows that the statement is false or misleading in a material
+
+particular; and</dd>
+
+<dt>(c)</dt><dd>the statement is in or in connection with an application for a conformity
+
+assessment certificate.
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	60 penalty units.
+
+Division&#160;2&#151;Conditions
+
+Note:	Breaching conditions of the conformity assessment certificate may lead to suspension or revocation of the certificate (see Divisions&#160;3 and 4), and may be an offence (see subsection 41MN(2)).
+
+41EJ  Automatic conditions on conformity assessment certificates
+
+_Entry and inspection powers_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A conformity assessment certificate is subject to the conditions that the
+
+manufacturer in respect of whom the certificate is issued will:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>allow an authorised person:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>to enter, at any reasonable time, premises (including premises outside
+
+Australia) at which the person or any other person deals with medical devices
+
+of a kind covered by the certificate; and</dd>
+
+<dt>(ii)</dt><dd>while on those premises, to inspect those premises and medical devices of
+
+that kind at those premises and to take samples of devices of that kind; and</dd>
+
+<dt>(iii)</dt><dd>to carry out tests, or require tests to be carried out, on the premises
+
+on medical devices of a kind covered by the certificate; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>if requested to do so by an authorised person:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>produce to the person such documents relating to devices of that kind, or
+
+to the manufacturer's quality management system, as the person requires; and</dd>
+
+<dt>(ii)</dt><dd>allow the person to copy the documents.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+_Review_
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A conformity assessment certificate is subject to the condition that the
+
+manufacturer in respect of whom the certificate is issued will cooperate in any
+
+review by the Secretary of the certificate to determine whether the conformity
+
+assessment procedures relating to the following matters have been applied to
+
+the kinds of medical devices covered by the certificate:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the application of quality management systems for the manufacture of
+
+medical devices;</dd>
+
+<dt>(b)</dt><dd>the certification of compliance with the essential principles;</dd>
+
+<dt>(c)</dt><dd>any other requirement of the conformity assessment procedures specified in
+
+the regulations made for the purposes of subsection 41EC(2).
+
+</dd>
+
+</dl></dl></dl>
+
+_Notification of substantial changes_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>A conformity assessment certificate is subject to the condition that the
+
+person in respect of whom the certificate is issued will notify the Secretary,
+
+in writing, of any plan for substantial changes to:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>quality management systems; or</dd>
+
+<dt>(b)</dt><dd>the product range covered by those systems; or</dd>
+
+<dt>(c)</dt><dd>the product design of kinds of medical devices;
+
+</dd>
+
+</dl></dl></dl>
 
 in respect of which the certificate is issued.
 
-Fees
+_Fees_
 
-             (4)  A conformity assessment certificate is subject to the condition that the applicant for the certificate will pay a fee, prescribed in the regulations, for a review under subsection (2), when the fee becomes due and payable.
+<dl compact=""><dl compact="">
 
-             (5)  The regulations may prescribe different levels of fees for different kinds of manufacturers and medical devices.
+<dt>(4)</dt><dd>A conformity assessment certificate is subject to the condition that the
 
-Conditions do not limit other conditions
+applicant for the certificate will pay a fee, prescribed in the regulations,
 
-             (6)  A condition imposed under this section is in addition to any conditions imposed under this Division.
+for a review under subsection&#160;(2), when the fee becomes due and payable.</dd> <dt>(5)</dt><dd>The regulations may prescribe different levels of fees for different kinds of manufacturers and medical devices. </dd> </dl></dl>
 
-##### <a id="41EK"></a>41EK  Conditions imposed when conformity assessment certificates are issued
+_Conditions do not limit other conditions_
 
-                   If the Secretary issues a conformity assessment certificate in respect of a manufacturer, the Secretary may, in writing, impose conditions on the certificate in respect of:
+<dl compact=""><dl compact="">
 
-                     (a)  one or more kinds of medical devices covered by the certificate; or
+<dt>(6)</dt><dd>A condition imposed under this section is in addition to any conditions
 
-                     (b)  the manufacturer’s quality management system.
+imposed under this Division.
 
-##### <a id="41EL"></a>41EL  Conditions imposed after issuing a conformity assessment certificate
+</dd> </dl></dl>
 
-             (1)  The Secretary may, by written notice given to a manufacturer in respect of whom a conformity assessment certificate has been issued:
+41EK  Conditions imposed when conformity assessment certificates are issued
 
-                     (a)  impose new conditions on the certificate in respect of:
+<dl compact=""><dl compact="">
 
-                              (i)  one or more kinds of medical devices covered by the certificate; or
+		If the Secretary issues a conformity assessment certificate in respect of a
 
-                             (ii)  the manufacturer’s quality management system; or
+manufacturer, the Secretary may, in writing, impose conditions on the
 
-                     (b)  vary or remove existing conditions.
+certificate in respect of:
 
-The power may be exercised at the request of the applicant for the certificate or on the Secretary’s own initiative.
+ </dl></dl>
 
-             (2)  The imposition or variation of a condition under this section takes effect:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  if the notice states that the action is necessary to prevent imminent risk of death, serious illness or serious injury—on the day on which the notice is given to the person; or
+<dt>(a)</dt><dd>one or more kinds of medical devices covered by the certificate; or</dd>
 
-                     (b)  in any other case—on the day specified for the purpose in the notice, being a day not earlier than 20 working days after the notice is given to the person.
+<dt>(b)</dt><dd>the manufacturer's quality management system.
 
-### Division 3—Suspension of conformity assessment certificates
+</dd>
 
-_Note:       Suspension of a conformity assessment certificate leads to suspension from the Register of the kinds of medical devices to which the certificate applied (see subsection 41GF(1)). Applications to include such devices in the Register are not effective (see paragraph 41FC(2)(c))._
+</dl></dl></dl>
 
-##### <a id="41EM"></a>41EM  Suspension of conformity assessment certificates
+41EL  Conditions imposed after issuing a conformity assessment certificate
 
-             (1)  The Secretary may, by written notice given to the person in relation to whom a conformity assessment certificate is issued, suspend the certificate if the Secretary is satisfied that it is likely that there are grounds for revoking the certificate under section 41ET.
+<dl compact=""><dl compact="">
 
-             (2)  The suspension may be limited to some medical devices of that kind, as specified in the notice.
+<dt>(1)</dt><dd>The Secretary may, by written notice given to a manufacturer in respect of
 
-             (3)  The notice must specify the period of the suspension. The period must not exceed 6 months.
+whom a conformity assessment certificate has been issued:
 
-Note:          The period of the suspension may be extended under section 41EO.
+</dd> </dl></dl>
 
-##### <a id="41EN"></a>41EN  Notice of proposed suspension
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  However, before suspending a conformity assessment certificate, the Secretary must:
+<dt>(a)</dt><dd>impose new conditions on the certificate in respect of:
 
-                     (a)  inform the person in writing that the Secretary proposes the suspension and set out the reasons for it; and
+</dd>
 
-                     (b)  give the person a reasonable opportunity to make submissions to the Secretary in relation to the proposed suspension.
+</dl></dl></dl>
 
-             (2)  The Secretary is not to make a decision relating to the proposed suspension until the Secretary has had regard to any submissions the person makes under paragraph (1)(b).
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (3)  This section does not apply if the notice under section 41EM states that the suspension is necessary to prevent imminent risk of death, serious illness or serious injury.
+<dt>(i)</dt><dd>one or more kinds of medical devices covered by the certificate; or</dd>
 
-##### <a id="41EO"></a>41EO  Duration of suspension
+<dt>(ii)</dt><dd>the manufacturer's quality management system; or
 
-             (1)  The suspension takes effect:
+</dd>
 
-                     (a)  if the notice under section 41EM states that the suspension is necessary to prevent imminent risk of death, serious illness or serious injury—on the day on which the notice is given to the person; or
+</dl></dl></dl></dl>
 
-                     (b)  in any other case—on the day specified for the purpose in the notice, being a day not earlier than 20 working days after the notice is given to the person.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The suspension has effect until:
+<dt>(b)</dt><dd>vary or remove existing conditions.
 
-                     (a)  the Secretary revokes it under section 41EP; or
+</dd>
 
-                     (b)  the expiry of:
+</dl></dl></dl>
 
-                              (i)  the period specified in the notice under section 41EM; or
+The power may be exercised at the request of the applicant for the certificate or on the Secretary's own initiative.
 
-                             (ii)  if the period is extended under subsection (3) of this section, the period as so extended.
+<center>Back to Top</center>
 
-Note:          Unless a suspension of a conformity assessment certificate has been revoked, the certificate is automatically revoked: see section 41ER.
+<dl compact=""><dl compact="">
 
-             (3)  If a person in relation to whom a kind of medical device is included in the Register shows that he or she has taken steps to address the grounds for revoking the certificate under section 41ET, the Secretary may, by written notice given to the person, extend the period specified in the notice under section 41EM by a further specified period not exceeding 6 months.
+<dt>(2)</dt><dd>The imposition or variation of a condition under this section takes effect:
 
-##### <a id="41EP"></a>41EP  Revocation of suspension
+</dd> </dl></dl>
 
-             (1)  The Secretary must revoke the suspension if the Secretary is satisfied that:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the ground on which the conformity assessment certificate was suspended no longer applies; and
+<dt>(a)</dt><dd>if the notice states that the action is necessary to prevent imminent risk
 
-                     (b)  there are no other grounds for suspending the certificate.
+of death, serious illness or serious injury&#151;on the day on which the notice is
 
-             (2)  The Secretary’s power to revoke the suspension may be exercised:
+given to the person; or</dd>
 
-                     (a)  if:
+<dt>(b)</dt><dd>in any other case&#151;on the day specified for the purpose in the notice,
 
-                              (i)  the manufacturer in relation to whom the conformity assessment certificate was issued; or
+being a day not earlier than 20 working days after the notice is given to the
 
-                             (ii)  the person who applied for the certificate (if the applicant was not the manufacturer);
+person.
 
-                            applies in writing to the Secretary; or
+</dd>
 
-                     (b)  on the Secretary’s own initiative.
+</dl></dl></dl>
 
-             (3)  After revoking the suspension, the Secretary must, within 20 working days after the revocation, give written notice of the revocation to the person in relation to whom the conformity assessment certificate was issued.
+Division&#160;3&#151;Suspension of conformity assessment certificates
 
-             (4)  If the Secretary decides, after an application is made under paragraph (2)(a), not to revoke the suspension, the Secretary must:
+Note:	Suspension of a conformity assessment certificate leads to suspension from the Register of the kinds of medical devices to which the certificate applied (see subsection 41GF(1)). Applications to include such devices in the Register are not effective (see paragraph 41FC(2)(c)).
 
-                     (a)  notify the applicant in writing of his or her decision within 20 working days after the decision is made; and
+41EM  Suspension of conformity assessment certificates
 
-                     (b)  state in the notice the reasons for the decision.
+<dl compact=""><dl compact="">
 
-##### <a id="41EQ"></a>41EQ  Powers of revocation of conformity assessment certificates unaffected
+<dt>(1)</dt><dd>The Secretary may, by written notice given to the person in relation to
 
-             (1)  This Division does not affect the Secretary’s powers to revoke a conformity assessment certificate under Division 4.
+whom a conformity assessment certificate is issued, suspend the certificate if
 
-             (2)  To the extent that a suspension under this Division relates to a conformity assessment certificate  to which such a revocation relates, the suspension ceases to have effect.
+the Secretary is satisfied that it is likely that there are grounds for
 
-### Division 4—Revocation of conformity assessment certificates
+revoking the certificate under section&#160;41ET.</dd> <dt>(2)</dt><dd>The suspension may be limited to some medical devices of that kind, as specified in the notice.</dd> <dt>(3)</dt><dd>The notice must specify the period of the suspension. The period must not exceed 6 months. </dd> </dl></dl>
 
-_Note:       Revocation of a conformity assessment certificate leads to cancellation of the entry from the Register of the kinds of medical devices to which the certificate applied (see paragraph 41GK(b)). Applications to include such devices in the Register are not effective (see paragraph 41FC(2)(c))._
+<dl compact=""><dl compact="">
 
-##### <a id="41ER"></a>41ER  Automatic revocation of conformity assessment certificates
+Note:	The period of the suspension may be extended under
 
-                   The Secretary must, by written notice given to the person in relation to whom a conformity assessment certificate is issued, revoke the certificate if:
+section&#160;41EO.
 
-                     (a)  the certificate has been suspended under section 41EM; and
+ </dl></dl>
 
-                     (b)  the period applying to the suspension under subsection 41EM(3) or 41EO(3) (as the case requires) expires before the suspension is revoked under section 41EP.
+41EN  Notice of proposed suspension
 
-##### <a id="41ES"></a>41ES  Immediate revocation of conformity assessment certificates
+<dl compact=""><dl compact="">
 
-                   The Secretary may, by written notice given to the manufacturer in relation to whom a conformity assessment certificate is issued, revoke the certificate if the manufacturer requests in writing the revocation of the certificate.
+<dt>(1)</dt><dd>However, before suspending a conformity assessment certificate, the
 
-##### <a id="41ET"></a>41ET  Revocation of conformity assessment certificates after notice of proposed revocation
+Secretary must:
 
-             (1)  The Secretary may, by written notice given to the person in relation to whom a conformity assessment certificate is issued, revoke the certificate if:
+</dd> </dl></dl>
 
-                     (a)  the conformity assessment procedures have not been applied to medical devices of a kind to which the certificate applies; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the manufacturer in relation to whom the certificate is issued refuses or fails to comply with a condition to which the certificate is subject; or
+<dt>(a)</dt><dd>inform the person in writing that the Secretary proposes the suspension
 
-                     (c)  the Secretary gives to the person a notice under section 41JA that requires the person to give to the Secretary information or documents relating to:
+and set out the reasons for it; and</dd>
 
-                              (i)  a kind of medical device; or
+<dt>(b)</dt><dd>give the person a reasonable opportunity to make submissions to the
 
-                             (ii)  a quality management system to which the certificate applies;
+Secretary in relation to the proposed suspension.
 
-                            and the person fails to comply with that notice within a further 10 working days from the day specified in that notice; or
+</dd>
 
-                     (d)  the manufacturer in respect of whom the certificate is issued no longer manufactures any of the kinds of medical devices to which the certificate applies.
+</dl></dl></dl>
 
-             (2)  However, before revoking the certificate, the Secretary must:
+<dl compact=""><dl compact="">
 
-                     (a)  inform the person in writing that the Secretary proposes the revocation and set out the reasons for it; and
+<dt>(2)</dt><dd>The Secretary is not to make a decision relating to the proposed
 
-                     (b)  give the person a reasonable opportunity to make submissions to the Secretary in relation to the proposed revocation.
+suspension until the Secretary has had regard to any submissions the person
 
-             (3)  The Secretary is not to make a decision relating to the proposed revocation until the Secretary has had regard to any submissions the person makes under paragraph (2)(b).
+makes under paragraph&#160;(1)(b).</dd> <dt>(3)</dt><dd>This section does not apply if the notice under section&#160;41EM states that the suspension is necessary to prevent imminent risk of death, serious illness or serious injury. </dd> </dl></dl>
 
-##### <a id="41EU"></a>41EU  Limiting revocation of conformity assessment certificates to some medical devices of a particular kind
+41EO  Duration of suspension
 
-             (1)  If the Secretary is satisfied that the ground for revoking a conformity assessment certificate applies only to:
+<dl compact=""><dl compact="">
 
-                     (a)  some of the kinds of medical devices to which the certificate applies; or
+<dt>(1)</dt><dd>The suspension takes effect:
 
-                     (b)  some medical devices of the kinds to which the certificate applies;
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the notice under section&#160;41EM states that the suspension is
+
+necessary to prevent imminent risk of death, serious illness or serious
+
+injury&#151;on the day on which the notice is given to the person; or</dd>
+
+<dt>(b)</dt><dd>in any other case&#151;on the day specified for the purpose in the notice,
+
+being a day not earlier than 20 working days after the notice is given to the
+
+person.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The suspension has effect until:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Secretary revokes it under section&#160;41EP; or</dd>
+
+<dt>(b)</dt><dd>the expiry of:
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the period specified in the notice under section&#160;41EM; or</dd>
+
+<dt>(ii)</dt><dd>if the period is extended under subsection&#160;(3) of this section, the
+
+period as so extended.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Unless a suspension of a conformity assessment certificate
+
+has been revoked, the certificate is automatically revoked: see
+
+section&#160;41ER.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If a person in relation to whom a kind of medical device is included in
+
+the Register shows that he or she has taken steps to address the grounds for
+
+revoking the certificate under section&#160;41ET, the Secretary may, by written
+
+notice given to the person, extend the period specified in the notice under
+
+section&#160;41EM by a further specified period not exceeding 6 months.
+
+</dd> </dl></dl>
+
+41EP  Revocation of suspension
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary must revoke the suspension if the Secretary is satisfied
+
+that:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the ground on which the conformity assessment certificate was suspended no
+
+longer applies; and</dd>
+
+<dt>(b)</dt><dd>there are no other grounds for suspending the certificate.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Secretary's power to revoke the suspension may be exercised:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the manufacturer in relation to whom the conformity assessment certificate
+
+was issued; or</dd>
+
+<dt>(ii)</dt><dd>the person who applied for the certificate (if the applicant was not the
+
+manufacturer);
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		applies in writing to the Secretary; or
+
+<dt>(b)</dt><dd>on the Secretary's own initiative.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>After revoking the suspension, the Secretary must, within 20 working days
+
+after the revocation, give written notice of the revocation to the person in
+
+relation to whom the conformity assessment certificate was issued.</dd> <dt>(4)</dt><dd>If the Secretary decides, after an application is made under paragraph&#160;(2)(a), not to revoke the suspension, the Secretary must: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>notify the applicant in writing of his or her decision within 20 working
+
+days after the decision is made; and</dd>
+
+<dt>(b)</dt><dd>state in the notice the reasons for the decision.
+
+</dd>
+
+</dl></dl></dl>
+
+41EQ  Powers of revocation of conformity assessment certificates unaffected
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This Division does not affect the Secretary's powers to revoke a
+
+conformity assessment certificate under Division&#160;4.</dd> <dt>(2)</dt><dd>To the extent that a suspension under this Division relates to a conformity assessment certificate  to which such a revocation relates, the suspension ceases to have effect. </dd> </dl></dl>
+
+Division&#160;4&#151;Revocation of conformity assessment certificates
+
+Note:	Revocation of a conformity assessment certificate leads to cancellation of the entry from the Register of the kinds of medical devices to which the certificate applied (see paragraph 41GK(b)). Applications to include 
+<center>Back to Top</center>
+ such devices in the Register are not effective (see paragraph 41FC(2)(c)).
+
+41ER  Automatic revocation of conformity assessment certificates
+
+<dl compact=""><dl compact="">
+
+		The Secretary must, by written notice given to the person in relation to whom
+
+a conformity assessment certificate is issued, revoke the certificate if:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the certificate has been suspended under section&#160;41EM; and</dd>
+
+<dt>(b)</dt><dd>the period applying to the suspension under subsection 41EM(3) or 41EO(3)
+
+(as the case requires) expires before the suspension is revoked under
+
+section&#160;41EP.
+
+</dd>
+
+</dl></dl></dl>
+
+41ES  Immediate revocation of conformity assessment certificates
+
+<dl compact=""><dl compact="">
+
+		The Secretary may, by written notice given to the manufacturer in relation to
+
+whom a conformity assessment certificate is issued, revoke the certificate if
+
+the manufacturer requests in writing the revocation of the certificate.
+
+ </dl></dl>
+
+41ET  Revocation of conformity assessment certificates after notice of proposed revocation
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may, by written notice given to the person in relation to
+
+whom a conformity assessment certificate is issued, revoke the certificate if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the conformity assessment procedures have not been applied to medical
+
+devices of a kind to which the certificate applies; or</dd>
+
+<dt>(b)</dt><dd>the manufacturer in relation to whom the certificate is issued refuses or
+
+fails to comply with a condition to which the certificate is subject; or</dd>
+
+<dt>(c)</dt><dd>the Secretary gives to the person a notice under section&#160;41JA that
+
+requires the person to give to the Secretary information or documents relating
+
+to:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a kind of medical device; or</dd>
+
+<dt>(ii)</dt><dd>a quality management system to which the certificate applies;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		and the person fails to comply with that notice within a further 10 working
+
+days from the day specified in that notice; or
+
+<dt>(d)</dt><dd>the manufacturer in respect of whom the certificate is issued no longer
+
+manufactures any of the kinds of medical devices to which the certificate
+
+applies.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>However, before revoking the certificate, the Secretary must:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>inform the person in writing that the Secretary proposes the revocation
+
+and set out the reasons for it; and</dd>
+
+<dt>(b)</dt><dd>give the person a reasonable opportunity to make submissions to the
+
+Secretary in relation to the proposed revocation.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Secretary is not to make a decision relating to the proposed
+
+revocation until the Secretary has had regard to any submissions the person
+
+makes under paragraph&#160;(2)(b).
+
+</dd> </dl></dl>
+
+41EU  Limiting revocation of conformity assessment certificates to some medical devices of a particular kind
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If the Secretary is satisfied that the ground for revoking a conformity
+
+assessment certificate applies only to:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>some of the kinds of medical devices to which the certificate applies;
+
+or</dd>
+
+<dt>(b)</dt><dd>some medical devices of the kinds to which the certificate applies;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
 
 the Secretary must limit the revocation to the medical devices to which that ground or any other ground for revocation applies.
 
-             (2)  If the revocation of the certificate is so limited, the Secretary must vary the certificate so that it no longer applies to the medical devices referred to in subsection (1).
+<dl compact=""><dl compact="">
 
-##### <a id="41EV"></a>41EV  Publication of revocation etc. of conformity assessment certificates
+<dt>(2)</dt><dd>If the revocation of the certificate is so limited, the Secretary must
 
-                   The Secretary must cause to be published in the _Gazette_, as soon as practicable after revoking a conformity assessment certificate, or varying a conformity assessment certificate under subsection 41EU(2), a notice setting out particulars of the revocation or variation.
+vary the certificate so that it no longer applies to the medical devices
 
-##### <a id="41EW"></a>41EW  Date of effect of revocation etc. of conformity assessment certificates
+referred to in subsection&#160;(1).
 
-                   If the Secretary revokes a conformity assessment certificate, or varies a conformity assessment certificate under subsection 41EU(2), the revocation or variation has effect:
+</dd> </dl></dl>
 
-                     (a)  if the revocation is under section 41ER or 41ES, or the variation relates to a ground of revocation in section 41ER or 41ES—on the day on which the notice of revocation or variation is given to the person in relation to whom the certificate was issued; or
+41EV  Publication of revocation etc. of conformity assessment certificates
 
-                     (b)  in any other case—on such later day as is specified in the notice.
+<dl compact=""><dl compact="">
 
-## Part 4-5—Including medical devices in the Register
+		The Secretary must cause to be published in the _Gazette_, as soon as
 
-##### <a id="41F"></a>41F  What this Part is about
+practicable after revoking a conformity assessment certificate, or varying a
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+conformity assessment certificate under subsection 41EU(2), a notice setting
+
+out particulars of the revocation or variation.
+
+ </dl></dl>
+
+41EW  Date of effect of revocation etc. of conformity assessment certificates
+
+<dl compact=""><dl compact="">
+
+		If the Secretary revokes a conformity assessment certificate, or varies a
+
+conformity assessment certificate under subsection 41EU(2), the revocation or
+
+variation has effect:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the revocation is under section&#160;41ER or 41ES, or the variation
+
+relates to a ground of revocation in section&#160;41ER or 41ES&#151;on the day on
+
+which the notice of revocation or variation is given to the person in relation
+
+to whom the certificate was issued; or</dd>
+
+<dt>(b)</dt><dd>in any other case&#151;on such later day as is specified in the notice.
+
+</dd>
+
+</dl></dl></dl>
+
+Part&#160;4-5&#151;Including medical devices in the Register
+ 41F  What this Part is about
 
 Kinds of medical devices can be included in the Register if they comply with the essential principles, and conformity assessment procedures have been applied to the kinds of devices (and certain other requirements are complied with).
+ Inclusions in the Register are subject to certain automatic conditions and the Secretary may impose further conditions.
 
-Inclusions in the Register are subject to certain automatic conditions and the Secretary may impose further conditions.</div>
+Division&#160;1&#151;Including medical devices in the Register
+ 41FA  What this Division is about
 
-### Division 1—Including medical devices in the Register
+Kinds of medical devices are usually included in the Register automatically once a proper application is made, together with the required certification. However, applications may be selected for audit, which involves checking some or all aspects of the application and certification.
 
-##### <a id="41FA"></a>41FA  What this Division is about
+<dl compact=""><dl compact="">
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+Note 1:	In some cases, an application relating to a kind of
 
-Kinds of medical devices are usually included in the Register automatically once a proper application is made, together with the required certification. However, applications may be selected for audit, which involves checking some or all aspects of the application and certification.</div>
+medical device will not be effective unless that kind of device is covered by a
 
-Note 1:       In some cases, an application relating to a kind of medical device will not be effective unless that kind of device is covered by a conformity assessment certificate under Part 4-4: see paragraph 41FC(2)(c).
+conformity assessment certificate under Part&#160;4-4: see paragraph
 
-Note 2:       Dealing in medical devices of a kind not included in the Register may be an offence: see Division 3 of Part 4-11.
+41FC(2)(c). Note 2:	Dealing in medical devices of a kind not included in the Register may be an offence: see Division&#160;3 of Part&#160;4-11\.  </dl></dl>
 
-##### <a id="41FB"></a>41FB  How this Division works
+41FB  How this Division works
 
-                   This diagram shows how this Division applies to an application for a kind of medical device to be included in the Register.
+<dl compact=""><dl compact="">
 
-            ![](http://www.comlaw.gov.au/Details/C2006C00261/Html/D4F6675EB11626BFCA257170000895D4/$FILE/image002.gif)
+		This diagram shows how this Division applies to an application for a kind of
 
-#### Subdivision A—Applications
+medical device to be included in the Register.
 
-##### <a id="41FC"></a>41FC  Applications
+ </dl></dl>
 
-             (1)  An application for a kind of medical device to be included in the Register must:
+ ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01261/Html/1097E3E9FA9BFD3DCA256F7100569649/$FILE/1202.gif)
+ Subdivision A&#151;Applications
+ 41FC  Applications
 
-                     (a)  be made in accordance with a form approved, in writing, by the Secretary or in such other manner as is approved, in writing, by the Secretary; and
+<dl compact=""><dl compact="">
 
-                     (b)  be delivered to an office of the Department specified by the Secretary.
+<dt>(1)</dt><dd>An application for a kind of medical device to be included in the Register
 
-             (2)  An application is not effective if:
+must:
 
-                     (a)  the application is not made in accordance with subsection (1); or
+</dd> </dl></dl>
 
-                     (b)  the prescribed application fee has not been paid; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  regulations made for the purposes of section 41EA require the manufacturer of the kind of device to have a conformity assessment certificate relating to the kind of medical device before an application under this section can be made, and no such certificate is in force; or
+<dt>(a)</dt><dd>be made in accordance with a form approved, in writing, by the Secretary
 
-                     (d)  the application contains information that is false or misleading in a material particular.
+or in such other manner as is approved, in writing, by the Secretary; and</dd>
 
-Note:          A person might also be guilty of an offence if the person makes a statement in an application that is false or misleading in a material particular: see section 41FE.
+<dt>(b)</dt><dd>be delivered to an office of the Department specified by the Secretary.
 
-             (3)  An approval of a form may require or permit an application or information to be given in accordance with specified software requirements:
+</dd>
 
-                     (a)  on a specified kind of data processing device; or
+</dl></dl></dl>
 
-                     (b)  by way of a specified kind of electronic transmission.
+<dl compact=""><dl compact="">
 
-##### <a id="41FD"></a>41FD  Matters to be certified
+<dt>(2)</dt><dd>An application is not effective if:
 
-                   The applicant must certify that:
+</dd> </dl></dl>
 
-                     (a)  devices of the kind in question are medical devices; and
+<center>Back to Top</center>
 
-                     (b)  devices of that kind are intended for a specified purpose, as ascertained under subsection 41BD(2); and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  the kind of device is correctly classified according to the medical device classifications; and
+<dt>(a)</dt><dd>the application is not made in accordance with subsection&#160;(1); or</dd>
 
-                     (d)  devices of that kind comply with the essential principles; and
+<dt>(b)</dt><dd>the prescribed application fee has not been paid; or</dd>
 
-                     (e)  the applicant:
+<dt>(c)</dt><dd>regulations made for the purposes of section&#160;41EA require the
 
-                              (i)  has available sufficient information to substantiate that compliance with the essential principles; or
+manufacturer of the kind of device to have a conformity assessment certificate
 
-                             (ii)  has procedures in place, including a written agreement with the manufacturer of the kind of devices setting out the matters required by the regulations, to ensure that such information can be obtained from the manufacturer within the period specified in the regulations; and
+relating to the kind of medical device before an application under this section
 
-                      (f)  an appropriate conformity assessment procedure has been applied to devices of that kind; and
+can be made, and no such certificate is in force; or</dd>
 
-                     (g)  the applicant:
+<dt>(d)</dt><dd>the application contains information that is false or misleading in a
 
-                              (i)  has available sufficient information to substantiate the application of those conformity assessment procedures; or
+material particular.
 
-                             (ii)  has procedures in place, including a written agreement with the manufacturer of the kind of devices setting out the matters required by the regulations, to ensure that such information can be obtained from the manufacturer within the period specified in the regulations; and
+</dd>
 
-                     (h)  devices of that kind comply with every requirement (if any) relating to advertising applicable under the regulations; and
+</dl></dl></dl>
 
-                      (i)  devices of that kind do not contain substances that are prohibited imports for the purposes of the _Customs Act 1901_; and
+<dl compact=""><dl compact="">
 
-                      (j)  the information included in or with the application is complete and correct.
+Note:	A person might also be guilty of an offence if the person
 
-Note:          See section 41BH on compliance with the essential principles and section 41BI on applying the conformity assessment procedures.
+makes a statement in an application that is false or misleading in a material
 
-##### <a id="41FE"></a>41FE  False statements
+particular: see section&#160;41FE.
 
-                   A person is guilty of an offence if:
+ </dl></dl>
 
-                     (a)  the person makes a statement (whether orally, in a document or in any other way); and
+<dl compact=""><dl compact="">
 
-                     (b)  the person knows that the statement is false or misleading in a material particular; and
+<dt>(3)</dt><dd>An approval of a form may require or permit an application or information
 
-                     (c)  the statement is in or in connection with:
+to be given in accordance with specified software requirements:
 
-                              (i)  an application for including a kind of medical device in the Register under this Chapter; or
+</dd> </dl></dl>
 
-                             (ii)  a certification or purported certification under section 41FD.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    Maximum penalty:    400 penalty units.
+<dt>(a)</dt><dd>on a specified kind of data processing device; or</dd>
 
-#### Subdivision B—Including kinds of medical devices in the Register
+<dt>(b)</dt><dd>by way of a specified kind of electronic transmission.
 
-##### <a id="41FF"></a>41FF  Obligation to include kinds of medical devices in the Register
+</dd>
 
-             (1)  If:
+</dl></dl></dl>
 
-                     (a)  an application is made in accordance with section 41FC for a kind of medical device to be included in the Register in relation to a person; and
+41FD  Matters to be certified
 
-                     (b)  the requirements of section 41FD have been complied with;
+<dl compact=""><dl compact="">
 
-the Secretary must include the kind of device in the Register in relation to the person, unless the  application has been selected under section 41FH for audit.
+		The applicant must certify that:
 
-             (2)  As soon as practicable after the kind of device has been included in the Register, the Secretary must give to the applicant a certificate of the inclusion of the kind of device in the Register.
+ </dl></dl>
 
-             (3)  The certificate must specify the day on which the inclusion of the kind of device in the Register commences.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41FG"></a>41FG  Notification of unsuccessful applications
+<dt>(a)</dt><dd>devices of the kind in question are medical devices; and</dd>
 
-                   The Secretary must notify the applicant in writing, within 20 working days after receiving an application under subsection 41FC(1), if an application for a kind of medical device to be included in the Register is unsuccessful.
+<dt>(b)</dt><dd>devices of that kind are intended for a specified purpose, as ascertained
 
-#### Subdivision C—Auditing of applications
+under subsection 41BD(2); and</dd>
 
-##### <a id="41FH"></a>41FH  Selecting applications for auditing
+<dt>(c)</dt><dd>the kind of device is correctly classified according to the medical device
 
-             (1)  The Secretary:
+classifications; and</dd>
 
-                     (a)  must select for auditing any application for a kind of medical device to be included in the Register that is an application of the kind prescribed by the regulations; and
+<dt>(d)</dt><dd>devices of that kind comply with the essential principles; and</dd>
 
-                     (b)  may select for auditing any other application for a kind of medical device to be included in the Register.
+<dt>(e)</dt><dd>the applicant:
 
-Note:          An application audit assessment fee is payable in respect of any application that the Secretary must select for auditing: see Part 4-10.
+</dd>
 
-             (2)  If an application is selected for auditing:
+</dl></dl></dl>
 
-                     (a)  the Secretary must, within 20 working days after the application is made, give the applicant a written notice that:
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  informs the applicant of the selection; and
+<dt>(i)</dt><dd>has available sufficient information to substantiate that compliance with
 
-                             (ii)  requests the applicant to provide any further information necessary for the auditing of the application; and
+the essential principles; or</dd>
 
-                     (b)  the application must be dealt with under this Subdivision and not under Subdivision B.
+<dt>(ii)</dt><dd>has procedures in place, including a written agreement with the
 
-##### <a id="41FI"></a>41FI  Auditing of applications
+manufacturer of the kind of devices setting out the matters required by the
 
-             (1)  In auditing the application, the Secretary may consider all or some aspects of one or both of the following matters:
+regulations, to ensure that such information can be obtained from the
 
-                     (a)  whether the application is in accordance with Subdivision A;
+manufacturer within the period specified in the regulations; and
 
-                     (b)  whether matters as to which the applicant has certified under section 41FD are correct.
+</dd>
 
-             (2)  The Secretary must decide to include the kind of device to which the application relates in the Register, in relation to the person to whom the application relates, if the Secretary is satisfied as to all such aspects considered in the audit.
+</dl></dl></dl></dl>
 
-             (3)  The Secretary must decide not to include the kind of device to which the application relates in the Register if the Secretary is not so satisfied.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41FJ"></a>41FJ  Procedure following audits
+<dt>(f)</dt><dd>an appropriate conformity assessment procedure has been applied to devices
 
-                   After auditing the application, the Secretary must:
+of that kind; and</dd>
 
-                     (a)  notify the applicant in writing of his or her decision within 20 working days after the decision is made; and
+<dt>(g)</dt><dd>the applicant:
 
-                     (b)  if the decision is not to include the kind of device to which the application relates in the Register—state in the notice the reasons for the decision; and
+</dd>
 
-                     (c)  if the decision is to include the kind of device in the Register and all assessment fees for the application that are due and payable have been paid:
+</dl></dl></dl>
 
-                              (i)  include the kind of device in the Register, in relation to the person in relation to whom the application was made; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  give the applicant a certificate of the inclusion of the kind of device in the Register.
+<dt>(i)</dt><dd>has available sufficient information to substantiate the application of
 
-##### <a id="41FK"></a>41FK  Lapsing of applications
+those conformity assessment procedures; or</dd>
 
-                   An application that has been selected for auditing lapses if:
+<dt>(ii)</dt><dd>has procedures in place, including a written agreement with the
 
-                     (a)  the applicant does not deliver to the office to which the application was made such information (in a form approved in writing by the Secretary) as will allow the audit of the application; or
+manufacturer of the kind of devices setting out the matters required by the
 
-                     (b)  the applicant does not comply with a requirement by the Secretary to deliver to the office to which the application was made a reasonable number of samples of the kind of medical device to which the application relates; or
+regulations, to ensure that such information can be obtained from the
 
-                     (c)  the applicant fails to comply with a notice under section 41JA to give information relating to devices of that kind to the Secretary within a further 10 working days from the day specified in the notice; or
+manufacturer within the period specified in the regulations; and
 
-                     (d)  information given to the Secretary by, or on behalf of, the applicant in connection with the application, including information given for the purpose of a requirement under section 41JA, is false or misleading in a material particular; or
+</dd>
 
-                     (e)  the applicant fails to pay an assessment fee for the application within the period, specified in the regulations, after being notified of the decision to include the kind of medical device in the Register under section 41FJ.
+</dl></dl></dl></dl>
 
-#### Subdivision D—Miscellaneous
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41FL"></a>41FL  Device number
+<dt>(h)</dt><dd>devices of that kind comply with every requirement (if any) relating to
 
-                   If a kind of medical device is included in the Register, the Secretary is to assign a unique device number to it.
+advertising applicable under the regulations; and</dd>
 
-##### <a id="41FM"></a>41FM  Duration of inclusion in the Register
+<dt>(i)</dt><dd>devices of that kind do not contain substances that are prohibited imports
 
-             (1)  The inclusion of a kind of medical device in the Register commences on the day specified for the purpose in the certificate under section 41FF.
+for the purposes of the _Customs Act 1901_; and</dd>
 
-             (2)  The inclusion of a kind of medical device in the Register has effect at all times:
+<dt>(j)</dt><dd>the information included in or with the application is complete and
 
-                     (a)  unless the kind of device is suspended from the Register under Division 1 of Part 4-6; or
+correct.
 
-                     (b)  until entry of the kind of device is cancelled from the Register under Division 2 of Part 4-6.
+</dd>
 
-### Division 2—Conditions
+</dl></dl></dl>
 
-_Note:       Breaching conditions of the inclusion of a kind of medical device in the Register may lead to suspension or cancellation of the entry of the kind of device from the Register (see Part 4-6), and may be an offence (see subsection 41MN(1))._
+<dl compact=""><dl compact="">
 
-##### <a id="41FN"></a>41FN  Conditions applying automatically
+Note:	See section&#160;41BH on compliance with the essential
 
-Entry and inspection powers
+principles and section&#160;41BI on applying the conformity assessment
 
-             (1)  The inclusion of a kind of medical device in the Register is subject to the conditions that the person in relation to whom the kind of device is included in the Register:
+procedures.
 
-                     (a)  allow an authorised person:
+ </dl></dl>
 
-                              (i)  to enter, at any reasonable time, any premises (including premises outside Australia) at which that person or any other person deals with medical devices of that kind; and
+<center>Back to Top</center>
 
-                             (ii)  while on those premises, to inspect those premises and medical devices of that kind at those premises and to take samples of medical devices of that kind; and
+41FE  False statements
 
-                     (b)  if requested to do so by an authorised person, produce to the person such documents relating to devices of that kind as the person requires and allow the person to copy the documents.
+<dl compact=""><dl compact="">
 
-Delivery of samples
+		A person is guilty of an offence if:
 
-             (2)  The inclusion of a kind of medical device in the Register is subject to a condition that the person in relation to whom the kind of device is included in the Register will deliver a reasonable number of samples of the kind of device if the Secretary so requests:
+ </dl></dl>
 
-                     (a)  within the period specified in the request; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  in accordance with any other requirements specified in the request.
+<dt>(a)</dt><dd>the person makes a statement (whether orally, in a document or in any
+
+other way); and</dd>
+
+<dt>(b)</dt><dd>the person knows that the statement is false or misleading in a material
+
+particular; and</dd>
+
+<dt>(c)</dt><dd>the statement is in or in connection with:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an application for including a kind of medical device in the Register
+
+under this Chapter; or</dd>
+
+<dt>(ii)</dt><dd>a certification or purported certification under section&#160;41FD.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+Maximum penalty:	400 penalty units.
+
+Subdivision B&#151;Including kinds of medical devices in the Register
+ 41FF  Obligation to include kinds of medical devices in the Register
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an application is made in accordance with section&#160;41FC for a kind of
+
+medical device to be included in the Register in relation to a person; and</dd>
+
+<dt>(b)</dt><dd>the requirements of section&#160;41FD have been complied with;
+
+</dd>
+
+</dl></dl></dl>
+
+the Secretary must include the kind of device in the Register in relation to the person, unless the  application has been selected under section&#160;41FH for audit.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>As soon as practicable after the kind of device has been included in the
+
+Register, the Secretary must give to the applicant a certificate of the
+
+inclusion of the kind of device in the Register.</dd> <dt>(3)</dt><dd>The certificate must specify the day on which the inclusion of the kind of device in the Register commences. </dd> </dl></dl>
+
+41FG  Notification of unsuccessful applications
+
+<dl compact=""><dl compact="">
+
+		The Secretary must notify the applicant in writing, within 20 working days
+
+after receiving an application under subsection 41FC(1), if an application for
+
+a kind of medical device to be included in the Register is unsuccessful.
+
+ </dl></dl>
+
+Subdivision C&#151;Auditing of applications
+ 41FH  Selecting applications for auditing
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>must select for auditing any application for a kind of medical device to
+
+be included in the Register that is an application of the kind prescribed by
+
+the regulations; and</dd>
+
+<dt>(b)</dt><dd>may select for auditing any other application for a kind of medical device
+
+to be included in the Register.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	An application audit assessment fee is payable in respect
+
+of any application that the Secretary must select for auditing: see
+
+Part&#160;4-10.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If an application is selected for auditing:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Secretary must, within 20 working days after the application is made,
+
+give the applicant a written notice that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>informs the applicant of the selection; and</dd>
+
+<dt>(ii)</dt><dd>requests the applicant to provide any further information necessary for
+
+the auditing of the application; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>the application must be dealt with under this Subdivision and not under
+
+Subdivision B.
+
+</dd>
+
+</dl></dl></dl>
+
+41FI  Auditing of applications
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>In auditing the application, the Secretary may consider all or some
+
+aspects of one or both of the following matters:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>whether the application is in accordance with Subdivision A;</dd>
+
+<dt>(b)</dt><dd>whether matters as to which the applicant has certified under
+
+section&#160;41FD are correct.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Secretary must decide to include the kind of device to which the
+
+application relates in the Register, in relation to the person to whom the
+
+application relates, if the Secretary is satisfied as to all such aspects
+
+considered in the audit.</dd> <dt>(3)</dt><dd>The Secretary must decide not to include the kind of device to which the application relates in the Register if the Secretary is not so satisfied. </dd> </dl></dl>
+
+41FJ  Procedure following audits
+
+<dl compact=""><dl compact="">
+
+		After auditing the application, the Secretary must:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>notify the applicant in writing of his or her decision within 20 working
+
+days after the decision is made; and</dd>
+
+<dt>(b)</dt><dd>if the decision is not to include the kind of device to which the
+
+application relates in the Register&#151;state in the notice the reasons for the
+
+decision; and</dd>
+
+<dt>(c)</dt><dd>if the decision is to include the kind of device in the Register and all
+
+assessment fees for the application that are due and payable have been paid:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>include the kind of device in the Register, in relation to the person in
+
+relation to whom the application was made; and</dd>
+
+<dt>(ii)</dt><dd>give the applicant a certificate of the inclusion of the kind of device
+
+in the Register.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+41FK  Lapsing of applications
+
+<dl compact=""><dl compact="">
+
+		An application that has been selected for auditing lapses if:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the applicant does not deliver to the office to which the application was
+
+made such information (in a form approved in writing by the Secretary) as will
+
+allow the audit of the application; or</dd>
+
+<dt>(b)</dt><dd>the applicant does not comply with a requirement by the Secretary to
+
+deliver to the office to which the application was made a reasonable number of
+
+samples of the kind of medical device to which the application relates; or</dd>
+
+<dt>(c)</dt><dd>the applicant fails to comply with a notice under section&#160;41JA to
+
+give information relating to devices of that kind to the Secretary within a
+
+further 10 working days from the day specified in the notice; or</dd>
+
+<dt>(d)</dt><dd>information given to the Secretary by, or on behalf of, the applicant in
+
+connection with the application, including information given for the purpose of
+
+a requirement under section&#160;41JA, is false or misleading in a material
+
+particular; or</dd>
+
+<dt>(e)</dt><dd>the applicant fails to pay an assessment fee for the application within
+
+the period, specified in the regulations, after being notified of the decision
+
+to include the kind of medical device in the Register under section&#160;41FJ.
+
+</dd>
+
+</dl></dl></dl>
+
+Subdivision D&#151;Miscellaneous
+ 41FL  Device number
+
+<dl compact=""><dl compact="">
+
+		If a kind of medical device is included in the Register, the Secretary is to
+
+assign a unique device number to it.
+
+ </dl></dl>
+
+41FM  Duration of inclusion in the Register
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The inclusion of a kind of medical device in the Register commences on the
+
+day specified for the purpose in the certificate under section&#160;41FF.</dd> <dt>(2)</dt><dd>The inclusion of a kind of medical device in the Register has effect at all times: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>unless the kind of device is suspended from the Register under
+
+Division&#160;1 of Part&#160;4-6; or</dd>
+
+<dt>(b)</dt><dd>until entry of the kind of device is cancelled from the Register under
+
+Division&#160;2 of Part&#160;4-6.
+
+</dd>
+
+</dl></dl></dl>
+
+Division&#160;2&#151;Conditions
+
+Note:	Breaching conditions of the inclusion of a kind of medical device in the Register may lead to suspension or cancellation of the entry of the kind of device from the Register (see Part&#160;4-6), and may be an offence (see subsection 41MN(1)).
+
+41FN  Conditions applying automatically
+
+_Entry and inspection powers_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The inclusion of a kind of medical device in the Register is subject to
+
+the conditions that the person in relation to whom the kind of device is
+
+included in the Register:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>allow an authorised person:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>to enter, at any reasonable time, any premises (including premises outside
+
+Australia) at which that person or any other person deals with medical devices
+
+of that kind; and</dd>
+
+<dt>(ii)</dt><dd>while on those premises, to inspect those premises and medical devices of
+
+that kind at those premises and to take samples of medical devices of that
+
+kind; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>if requested to do so by an authorised person, produce to the person such
+
+documents relating to devices of that kind as the person requires and allow the
+
+person to copy the documents.
+
+</dd>
+
+</dl></dl></dl>
+
+_Delivery of samples_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The inclusion of a kind of medical device in the Register is subject to a
+
+condition that the person in relation to whom the kind of device is included in
+
+the Register will deliver a reasonable number of samples of the kind of device
+
+if the Secretary so requests:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>within the period specified in the request; and</dd>
+
+<dt>(b)</dt><dd>in accordance with any other requirements specified in the request.
+
+</dd>
+
+</dl></dl></dl>
 
 The period specified in the request must include at least 10 working days.
 
-Availability etc. of information
+_Availability etc. of information_
 
-             (3)  The inclusion of a kind of medical device in the Register is subject to conditions that:
+<dl compact=""><dl compact="">
 
-                     (a)  at all times while the inclusion in the Register has effect, the person in relation to whom the kind of device is included in the Register:
+<dt>(3)</dt><dd>The inclusion of a kind of medical device in the Register is subject to
 
-                              (i)  has available sufficient information to substantiate compliance with the essential principles; or
+conditions that:
 
-                             (ii)  has procedures in place, including a written agreement with the manufacturer of the kind of devices setting out the matters required by the regulations, to ensure that such information can be obtained from the manufacturer within the period specified in the regulations; and
+</dd> </dl></dl>
 
-                     (b)  at all times while the inclusion in the Register has effect, the person in relation to whom the kind of device is included in the Register:
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  has available sufficient information to substantiate that the conformity assessment procedures have been applied to the kind of medical device; or
+<dt>(a)</dt><dd>at all times while the inclusion in the Register has effect, the person in
 
-                             (ii)  has available information relating to changes to the kind of medical device, the product range, and quality management system, of the manufacturer of the device; or
+relation to whom the kind of device is included in the Register:
 
-                            (iii)  has procedures in place, including a written agreement with the manufacturer of the kind of devices setting out the matters required by the regulations, to ensure that such information can be obtained from the manufacturer within the period specified in the regulations; and
+</dd>
 
-                     (c)  at any time while the inclusion in the Register has effect, the person in relation to whom the kind of device is included in the Register will, if asked to do so by the Secretary, give the information to the Secretary; and
+</dl></dl></dl>
 
-                     (d)  the person in relation to whom the kind of device is included in the Register will give information of a kind mentioned in subsection 41MP(2) to the Secretary within the period specified in the regulations; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  the person in relation to whom the kind of device is included in the Register will give the manufacturer of the kind of medical device information relevant to:
+<dt>(i)</dt><dd>has available sufficient information to substantiate compliance with the
 
-                              (i)  the manufacturer’s obligations under the conformity assessment procedures; and
+essential principles; or</dd>
 
-                             (ii)  whether medical devices of that kind comply with the essential principles.
+<dt>(ii)</dt><dd>has procedures in place, including a written agreement with the
 
-             (4)  The regulations may prescribe the amount, standard or kind of information or evidence required for the purposes of paragraphs (3)(c), (d) and (e).
+manufacturer of the kind of devices setting out the matters required by the
 
-Advertising material
+regulations, to ensure that such information can be obtained from the
 
-             (5)  The inclusion of a kind of medical device in the Register is subject to a condition that advertising material relating to medical devices of that kind is consistent with the intended purpose as certified under section 41FD.
+manufacturer within the period specified in the regulations; and
 
-Conditions do not limit other conditions
+</dd>
 
-             (6)  A condition imposed under this section is in addition to any conditions imposed under this Division.
+</dl></dl></dl></dl>
 
-##### <a id="41FO"></a>41FO  Conditions imposed when kinds of medical devices are included in the Register
+<center>Back to Top</center>
 
-             (1)  If the Secretary includes a kind of medical device in the Register in relation to a person, the Secretary may, in writing, impose conditions on the inclusion of the kind of device in the Register.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Conditions referred to in subsection (1) may relate to:
+<dt>(b)</dt><dd>at all times while the inclusion in the Register has effect, the person in
 
-                     (a)  manufacture of devices of that kind; or
+relation to whom the kind of device is included in the Register:
 
-                     (b)  custody, intended purpose, supply, disposal or destruction of devices of that kind; or
+</dd>
 
-                     (c)  keeping of records relating to devices of that kind, including records relating to the tracking and location of devices of that kind after their supply; or
+</dl></dl></dl>
 
-                     (d)  matters dealt with in, or matters additional to matters dealt with in, the essential principles; or
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  such other matters relating to devices of that kind as the Secretary thinks appropriate.
+<dt>(i)</dt><dd>has available sufficient information to substantiate that the conformity
 
-##### <a id="41FP"></a>41FP  Conditions imposed after kinds of medical devices are included in the Register
+assessment procedures have been applied to the kind of medical device; or</dd>
 
-             (1)  The Secretary may, by written notice given to the person in relation to whom a kind of medical device is included in the Register:
+<dt>(ii)</dt><dd>has available information relating to changes to the kind of medical
 
-                     (a)  impose new conditions on including the kind of device in the Register under this Chapter; or
+device, the product range, and quality management system, of the manufacturer
 
-                     (b)  vary or remove existing conditions.
+of the device; or</dd>
 
-The power may be exercised at the person’s request or on the Secretary’s own initiative.
+<dt>(iii)</dt><dd>has procedures in place, including a written agreement with the
 
-             (2)  The imposition or variation of a condition under this section takes effect:
+manufacturer of the kind of devices setting out the matters required by the
 
-                     (a)  if the notice states that the action is necessary to prevent imminent risk of death, serious illness or serious injury—on the day on which the notice is given to the person; or
+regulations, to ensure that such information can be obtained from the
 
-                     (b)  in any other case—on the day specified for the purpose in the notice, being a day not earlier than 20 working days after the notice is given to the person.
+manufacturer within the period specified in the regulations; and
 
-## Part 4-6—Suspension and cancellation from the Register
+</dd>
 
-### Division 1—Suspension from the Register
+</dl></dl></dl></dl>
 
-#### Subdivision A—General power of suspension
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41G"></a>41G  What this Part is about
+<dt>(c)</dt><dd>at any time while the inclusion in the Register has effect, the person in
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+relation to whom the kind of device is included in the Register will, if asked
+
+to do so by the Secretary, give the information to the Secretary; and</dd>
+
+<dt>(d)</dt><dd>the person in relation to whom the kind of device is included in the
+
+Register will give information of a kind mentioned in subsection 41MP(2) to the
+
+Secretary within the period specified in the regulations; and</dd>
+
+<dt>(e)</dt><dd>the person in relation to whom the kind of device is included in the
+
+Register will give the manufacturer of the kind of medical device information
+
+relevant to:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the manufacturer's obligations under the conformity assessment procedures;
+
+and</dd>
+
+<dt>(ii)</dt><dd>whether medical devices of that kind comply with the essential principles.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>The regulations may prescribe the amount, standard or kind of information
+
+or evidence required for the purposes of paragraphs&#160;(3)(c), (d) and (e).
+
+</dd> </dl></dl>
+
+_Advertising material_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The inclusion of a kind of medical device in the Register is subject to a
+
+condition that advertising material relating to medical devices of that kind is
+
+consistent with the intended purpose as certified under section&#160;41FD.
+
+</dd> </dl></dl>
+
+_Conditions do not limit other conditions_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>A condition imposed under this section is in addition to any conditions
+
+imposed under this Division.
+
+</dd> </dl></dl>
+
+41FO  Conditions imposed when kinds of medical devices are included in the Register
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If the Secretary includes a kind of medical device in the Register in
+
+relation to a person, the Secretary may, in writing, impose conditions on the
+
+inclusion of the kind of device in the Register.</dd> <dt>(2)</dt><dd>Conditions referred to in subsection&#160;(1) may relate to: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>manufacture of devices of that kind; or</dd>
+
+<dt>(b)</dt><dd>custody, intended purpose, supply, disposal or destruction of devices of
+
+that kind; or</dd>
+
+<dt>(c)</dt><dd>keeping of records relating to devices of that kind, including records
+
+relating to the tracking and location of devices of that kind after their
+
+supply; or</dd>
+
+<dt>(d)</dt><dd>matters dealt with in, or matters additional to matters dealt with in, the
+
+essential principles; or</dd>
+
+<dt>(e)</dt><dd>such other matters relating to devices of that kind as the Secretary
+
+thinks appropriate.
+
+</dd>
+
+</dl></dl></dl>
+
+41FP  Conditions imposed after kinds of medical devices are included in the Register
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may, by written notice given to the person in relation to
+
+whom a kind of medical device is included in the Register:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>impose new conditions on including the kind of device in the Register
+
+under this Chapter; or</dd>
+
+<dt>(b)</dt><dd>vary or remove existing conditions.
+
+</dd>
+
+</dl></dl></dl>
+
+The power may be exercised at the person's request or on the Secretary's own initiative.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The imposition or variation of a condition under this section takes effect:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the notice states that the action is necessary to prevent imminent risk
+
+of death, serious illness or serious injury&#151;on the day on which the notice is
+
+given to the person; or</dd>
+
+<dt>(b)</dt><dd>in any other case&#151;on the day specified for the purpose in the notice,
+
+being a day not earlier than 20 working days after the notice is given to the
+
+person.
+
+</dd>
+
+</dl></dl></dl>
+
+Part&#160;4-6&#151;Suspension and cancellation from the Register
+ Division&#160;1&#151;Suspension from the Register
+ Subdivision A&#151;General power of suspension
+ 41G  What this Part is about
 
 Inclusions in the Register may be suspended in certain circumstances, such as when a conformity assessment certificate is suspended. A kind of medical device that is suspended is taken not to be included in the Register for most purposes.
+ Inclusions in the Register may also be cancelled in certain circumstances.
 
-Inclusions in the Register may also be cancelled in certain circumstances.</div>
+41GA  Suspension of kinds of medical devices from the Register
 
-##### <a id="41GA"></a>41GA  Suspension of kinds of medical devices from the Register
+<dl compact=""><dl compact="">
 
-             (1)  The Secretary may, by written notice given to the person in relation to whom a kind of medical device is included in the Register, suspend the kind of device from the Register if:
+<dt>(1)</dt><dd>The Secretary may, by written notice given to the person in relation to
 
-                     (a)  the Secretary is satisfied that:
+whom a kind of medical device is included in the Register, suspend the kind of
 
-                              (i)  there is  a potential risk of death, serious illness or serious injury if the kind of device continues to be included in the Register; and
+device from the Register if:
 
-                             (ii)  it is likely that the person will, within the period of the suspension, be able to take the action necessary to ensure that the kind of device would not cause a potential risk of death, serious illness or serious injury if it were to continue to be included in the Register; or
+</dd> </dl></dl>
 
-                     (b)  the Secretary is satisfied that it is likely that there are grounds for cancelling the entry of the kind of device from the Register under Division 2 (other than under paragraph 41GL(a) or (d) or section 41GM).
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The suspension may be limited to some medical devices of that kind, as specified in the notice.
+<dt>(a)</dt><dd>the Secretary is satisfied that:
 
-             (3)  The notice must specify the period of the suspension. The period must not exceed 6 months.
+</dd>
 
-Note:          The period of the suspension may be extended under section 41GC.
+</dl></dl></dl>
 
-             (4)  The Secretary must cause to be published in the _Gazette_, as soon as practicable after the suspension, a notice setting out particulars of the suspension.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41GB"></a>41GB  Notice of proposed suspension must be given in certain cases
+<dt>(i)</dt><dd>there is  a potential risk of death, serious illness or serious
 
-             (1)  However, before suspending a kind of medical device from the Register because it is likely that there are grounds for cancelling the entry of the kind of device from the Register under section 41GN, the Secretary must:
+injury if the kind of device continues to be included in the Register; and</dd>
 
-                     (a)  inform the person by written notice that the Secretary proposes the suspension and set out the reasons for it; and
+<dt>(ii)</dt><dd>it is likely that the person will, within the period of the suspension,
 
-                     (b)  give the person a reasonable opportunity to make submissions to the Secretary in relation to the proposed suspension.
+be able to take the action necessary to ensure that the kind of device would
 
-             (2)  The Secretary is not to make a decision relating to the proposed suspension until the Secretary has had regard to any submissions the person makes under paragraph (1)(b).
+not cause a potential risk of death, serious illness or serious injury if it
 
-##### <a id="41GC"></a>41GC  Duration of suspension
+were to continue to be included in the Register; or
 
-             (1)  The suspension takes effect:
+</dd>
 
-                     (a)  if the notice under subsection 41GA(1) states that the suspension is necessary to prevent a potential risk of death, serious illness or serious injury—on the day on which the notice is given to the person; or
+</dl></dl></dl></dl>
 
-                     (b)  in any other case—on the day specified for the purpose in the notice, being a day not earlier than 20 working days after the notice is given to the person.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The suspension has effect until:
+<dt>(b)</dt><dd>the Secretary is satisfied that it is likely that there are grounds for
 
-                     (a)  the Secretary revokes it under section 41GD; or
+cancelling the entry of the kind of device from the Register under
 
-                     (b)  the end of:
+Division&#160;2 (other than under paragraph 41GL(a) or (d) or
 
-                              (i)  the period specified in the notice under subsection 41GA(3); or
+section&#160;41GM).
 
-                             (ii)  if the period is extended under subsection (3) of this section, the period as so extended.
+</dd>
 
-Note:          Unless a suspension of a kind of medical device has been revoked, the entry of the kind of medical device is automatically cancelled from the Register: see section 41GK.
+</dl></dl></dl>
 
-             (3)  If a person in relation to whom a kind of medical device is included in the Register shows that he or she has taken steps to remove the grounds for cancelling the entry of the kind of device from the Register under section 41GN, the Secretary may, by written notice given to the person, extend the period specified in the notice under subsection 41GA(1) by a further specified period not exceeding 6 months.
+<dl compact=""><dl compact="">
 
-             (4)  The Secretary must cause to be published in the _Gazette_, as soon as practicable after the extension, a notice setting out particulars of the extension.
+<dt>(2)</dt><dd>The suspension may be limited to some medical devices of that kind, as
 
-##### <a id="41GD"></a>41GD  Revocation of suspension
+specified in the notice.</dd> <dt>(3)</dt><dd>The notice must specify the period of the suspension. The period must not exceed 6 months. </dd> </dl></dl>
 
-             (1)  The Secretary must revoke the suspension if the Secretary is satisfied that:
+<dl compact=""><dl compact="">
 
-                     (a)  the ground on which the kind of medical device concerned was suspended from the Register no longer applies; and
+Note:	The period of the suspension may be extended under
 
-                     (b)  there are no other grounds for suspending the kind of device from the Register.
+section&#160;41GC.
 
-             (2)  The Secretary’s power to revoke the suspension may be exercised:
+ </dl></dl>
 
-                     (a)  if the person in relation to whom the kind of medical device concerned is included in the Register applies in writing to the Secretary; or
+<dl compact=""><dl compact="">
 
-                     (b)  on the Secretary’s own initiative.
+<dt>(4)</dt><dd>The Secretary must cause to be published in the _Gazette_, as soon as
 
-             (3)  After revoking the suspension, the Secretary must:
+practicable after the suspension, a notice setting out particulars of the
 
-                     (a)  within 20 working days after the revocation, give written notice of the revocation to the person in relation to whom the kind of medical device concerned is included in the Register; and
+suspension.
 
-                     (b)  as soon as practicable after the revocation, cause to be published in the _Gazette_ a notice setting out particulars of the revocation.
+</dd> </dl></dl>
 
-             (4)  If the Secretary decides, after an application is made under paragraph (2)(a), not to revoke the suspension, the Secretary must:
+41GB  Notice of proposed suspension must be given in certain cases
 
-                     (a)  notify the applicant in writing of his or her decision within 20 working  days after the decision is made; and
+<dl compact=""><dl compact="">
 
-                     (b)  state in the notice the reasons for the decision.
+<dt>(1)</dt><dd>However, before suspending a kind of medical device from the Register
 
-##### <a id="41GE"></a>41GE  Treating applications for revocation as having been refused
+because it is likely that there are grounds for cancelling the entry of the
 
-             (1)  The applicant for the suspension to be revoked may give the Secretary written notice that the applicant wishes to treat the application as having been refused if:
+kind of device from the Register under section&#160;41GN, the Secretary must:
 
-                     (a)  a period is prescribed under paragraph 63(2)(dd) for the Secretary to make a decision on the application; and
+</dd> </dl></dl>
 
-                     (b)  at the end of the period, the Secretary has not made a decision.
+<center>Back to Top</center>
 
-             (2)  The notice may be given at any time before the Secretary makes a decision on the application.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  If a notice has been given, this Act (except for subsection 60(5)) has effect as if:
+<dt>(a)</dt><dd>inform the person by written notice that the Secretary proposes the
 
-                     (a)  the Secretary had decided not to revoke the suspension; and
+suspension and set out the reasons for it; and</dd>
 
-                     (b)  the Minister had made a decision under subsection 60(3) confirming the decision of the Secretary; and
+<dt>(b)</dt><dd>give the person a reasonable opportunity to make submissions to the
 
-                     (c)  the Minister’s decision had been made on the day on which notice was given to the Secretary.
+Secretary in relation to the proposed suspension.
 
-#### Subdivision B—Suspension as a result of suspension under Part 4-4
+</dd>
 
-##### <a id="41GF"></a>41GF  Suspension of kinds of medical devices from the Register
+</dl></dl></dl>
 
-             (1)  The Secretary may, by written notice given to the person in relation to whom a kind of medical device is included in the Register, suspend the kind of device from the Register if the conformity assessment certificate applying to that kind of device is suspended under Division 3 of Part 4-4.
+<dl compact=""><dl compact="">
 
-             (2)  If the suspension under Division 3 of Part 4-4 is limited to some medical devices of that kind, the suspension under this section is taken to be limited to the same extent.
+<dt>(2)</dt><dd>The Secretary is not to make a decision relating to the proposed
 
-             (3)  The Secretary must cause to be published in the _Gazette_, as soon as practicable after the suspension, a notice setting out particulars of the suspension.
+suspension until the Secretary has had regard to any submissions the person
 
-##### <a id="41GG"></a>41GG  Duration of suspension
+makes under paragraph&#160;(1)(b).
 
-             (1)  The suspension takes effect on the day on which the notice is given to the person.
+</dd> </dl></dl>
 
-             (2)  The suspension has effect until the Secretary revokes it under section 41GH.
+41GC  Duration of suspension
 
-##### <a id="41GH"></a>41GH  Revocation of suspension
+<dl compact=""><dl compact="">
 
-             (1)  The Secretary must revoke the suspension if:
+<dt>(1)</dt><dd>The suspension takes effect:
 
-                     (a)  the suspension under Division 3 of Part 4-4 ceases to have effect; and
+</dd> </dl></dl>
 
-                     (b)  the Secretary is satisfied that there are no other grounds for suspending the kind of device from the Register.
+<dl compact=""><dl compact=""><dl compact="">
 
-.            (2)  After revoking the suspension, the Secretary must:
+<dt>(a)</dt><dd>if the notice under subsection 41GA(1) states that the suspension is
 
-                     (a)  within 20 working days after the revocation, give written notice of the revocation to the person in relation to whom the kind of medical device concerned is included in the Register; and
+necessary to prevent a potential risk of death, serious illness or serious
 
-                     (b)  as soon as practicable after the revocation, cause to be published in the _Gazette_ a notice setting out particulars of the revocation.
+injury&#151;on the day on which the notice is given to the person; or</dd>
 
-#### Subdivision C—Effect of suspension
+<dt>(b)</dt><dd>in any other case&#151;on the day specified for the purpose in the notice,
 
-##### <a id="41GI"></a>41GI  Effect of suspension
+being a day not earlier than 20 working days after the notice is given to the
 
-                   If all or some medical devices of a particular kind are suspended, they are taken, for the purposes of this Act (other than Division 2 of Part 4-5, this Division and Part 4-8), not to be included in the Register while the suspension has effect.
+person.
 
-Note:          Dealing in medical devices that are not included in the Register may be an offence: see Division 3 of Part 4-11.
+</dd>
 
-##### <a id="41GJ"></a>41GJ  Powers of cancellation from Register unaffected
+</dl></dl></dl>
 
-             (1)  This Subdivision does not affect the Secretary’s powers to cancel the entry of kinds of medical devices from the Register under Division 2.
+<dl compact=""><dl compact="">
 
-             (2)  To the extent that a suspension under this Division relates to medical devices to which such a cancellation relates, the suspension ceases to have effect.
+<dt>(2)</dt><dd>The suspension has effect until:
 
-### Division 2—Cancellation of entries from the Register
+</dd> </dl></dl>
 
-##### <a id="41GK"></a>41GK  Automatic cancellation of entries of kinds of medical devices from the Register
+<dl compact=""><dl compact=""><dl compact="">
 
-                   The Secretary must, by written notice given to the person in relation to whom a kind of medical device is included in the Register, cancel the entry of the kind of device from the Register if:
+<dt>(a)</dt><dd>the Secretary revokes it under section&#160;41GD; or</dd>
 
-                     (a)  the kind of device has been suspended from the Register under section 41GA, and the period applying to the suspension under subsection 41GA(3) or 41GC(3) (as the case requires) expires before the suspension is revoked under section 41GD; or
+<dt>(b)</dt><dd>the end of:
 
-                     (b)  a conformity assessment certificate applying to that kind of device is revoked under Division 4 of Part 4-4.
+</dd>
 
-##### <a id="41GL"></a>41GL  Immediate cancellation of entries of kinds of medical devices from the Register
+</dl></dl></dl>
 
-                   The Secretary may, by written notice given to the person in relation to whom a kind of medical device is included in the Register, cancel the entry of the kind of device from the Register if:
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the Secretary is satisfied that there would be an imminent risk of death, serious illness or serious injury if the kind of device continues to be included in the Register; or
+<dt>(i)</dt><dd>the period specified in the notice under subsection 41GA(3); or</dd>
 
-                     (b)  devices of that kind are no longer therapeutic goods; or
+<dt>(ii)</dt><dd>if the period is extended under subsection&#160;(3) of this section, the
 
-                     (c)  devices of that kind are no longer medical devices; or
+period as so extended.
 
-                     (d)  the person requests in writing the cancellation of the entry of the kind of device from the Register; or
+</dd>
 
-                     (e)  the Secretary is satisfied that a statement made in or in connection with:
+</dl></dl></dl></dl>
 
-                              (i)  the application for including the kind of device in the Register; or
+<dl compact=""><dl compact="">
 
-                             (ii)  the certification or purported certification under section 41FD relating to the application;
+Note:	Unless a suspension of a kind of medical device has been
 
-                            was false or misleading in a material particular; or
+revoked, the entry of the kind of medical device is automatically cancelled
 
-                      (f)  the annual charge payable under subsection 4(1B) of the _Therapeutic Goods (Charges) Act 1989_ in respect of the inclusion of the kind of device in the Register is not paid within 20 working days after it becomes payable; or
+from the Register: see section&#160;41GK.
 
-                     (g)  both of the following apply:
+ </dl></dl>
 
-                              (i)  under the regulations, an authority constituted by or under the regulations gives a direction to, or makes a requirement of, the person in relation to an advertisement of the kind of device to ensure that advertising complies with the Therapeutic Goods Advertising Code;
+<dl compact=""><dl compact="">
 
-                             (ii)  the person does not comply with the direction or requirement; or
+<dt>(3)</dt><dd>If a person in relation to whom a kind of medical device is included in
 
-                     (h)  there is a serious breach, involving the kind of device, of the requirements relating to advertising applicable under the regulations, and the Secretary is satisfied that:
+the Register shows that he or she has taken steps to remove the grounds for
 
-                              (i)  the breach is significant; and
+cancelling the entry of the kind of device from the Register under
 
-                             (ii)  as a result of the breach, the presentation of devices of that kind is misleading to a significant extent.
+section&#160;41GN, the Secretary may, by written notice given to the person,
 
-##### <a id="41GM"></a>41GM  Cancellation of entries of kinds of medical devices from the Register after section 41JA notice
+extend the period specified in the notice under subsection 41GA(1) by a further
 
-             (1)  The Secretary may, by written notice given to the person in relation to whom a kind of medical device is included in the Register, cancel the entry of the kind of device from the Register if:
+specified period not exceeding 6 months.</dd> <dt>(4)</dt><dd>The Secretary must cause to be published in the _Gazette_, as soon as practicable after the extension, a notice setting out particulars of the extension. </dd> </dl></dl>
 
-                     (a)  the Secretary gives to the person a notice under section 41JA requiring the person to give to the Secretary information or documents relating to the kind of device; and
+41GD  Revocation of suspension
 
-                     (b)  the notice under section 41JA is given for the purposes of ascertaining whether the kind of device should have been included in the Register; and
+<dl compact=""><dl compact="">
 
-                     (c)  the person fails to comply with the notice under section 41JA within a further 10 working days from the day specified in that notice.
+<dt>(1)</dt><dd>The Secretary must revoke the suspension if the Secretary is satisfied
 
-             (2)  The Secretary may, by written notice given to the person in relation to whom a kind of medical device is included in the Register, cancel the entry of the kind of device from the Register if:
+that:
 
-                     (a)  the Secretary gives to the person a notice under section 41JA requiring the person to give to the Secretary information or documents relating to whether medical devices of that kind are being:
+</dd> </dl></dl>
 
-                              (i)  supplied in Australia; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  imported into Australia; or
+<dt>(a)</dt><dd>the ground on which the kind of medical device concerned was suspended
 
-                            (iii)  exported from Australia; and
+from the Register no longer applies; and</dd>
 
-                     (b)  either:
+<dt>(b)</dt><dd>there are no other grounds for suspending the kind of device from the
 
-                              (i)  the information or documents given are to the effect that medical devices of that kind are not being supplied in Australia, imported into Australia or exported from Australia; or
+Register.
 
-                             (ii)  the person fails to comply with the notice under section 41JA within a further 10 working days from the day specified in that notice.
+</dd>
 
-##### <a id="41GN"></a>41GN  Cancellation of entries of kinds of medical devices from the Register after notice of proposed cancellation
+</dl></dl></dl>
 
-             (1)  The Secretary may, by written notice given to the person in relation to whom a kind of medical device is included in the Register, cancel the entry of the kind of device from the Register if:
+<dl compact=""><dl compact="">
 
-                     (a)  medical devices that were devices of that kind when the kind of device was included in the Register have changed so those medical devices are no longer devices of that kind; or
+<dt>(2)</dt><dd>The Secretary's power to revoke the suspension may be exercised:
 
-                     (b)  the person in relation to whom the kind of medical device is included in the Register refuses or fails to comply with a condition to which that inclusion is subject; or
+</dd> </dl></dl>
 
-                     (c)  the Secretary gives to the person a notice under section 41JA:
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  that requires the person to give to the Secretary information or documents relating to the kind of device; and
+<dt>(a)</dt><dd>if the person in relation to whom the kind of medical device concerned is
 
-                             (ii)  in respect of which section 41GM does not apply;
+included in the Register applies in writing to the Secretary; or</dd>
 
-                            and the person fails to comply with that notice within a further 10 working days from the day specified in that notice; or
+<dt>(b)</dt><dd>on the Secretary's own initiative.
 
-                     (d)  the person contravenes subsection 41MP(1) in relation to the kind of device; or
+</dd>
 
-                     (e)  the Secretary is satisfied that the safety or performance of the kind of device is unacceptable; or
+</dl></dl></dl>
 
-                      (f)  the Secretary is satisfied that any certification, or part of a certification, under section 41FD in relation to the application for inclusion of the kind of device in the Register is incorrect, or is no longer correct, in a material particular.
+<center>Back to Top</center>
 
-Note:       The matters that must be certified under section 41FD include compliance with the essential principles and the application of conformity assessment procedures, being able to substantiate the compliance and application, and compliance with advertising requirements.
+<dl compact=""><dl compact="">
 
-             (2)  However, before cancelling the entry of the kind of device from the Register, the Secretary must:
+<dt>(3)</dt><dd>After revoking the suspension, the Secretary must:
 
-                     (a)  inform the person in writing that the Secretary proposes the cancellation and set out the reasons for it; and
+</dd> </dl></dl>
 
-                     (b)  give the person a reasonable opportunity to make submissions to the Secretary in relation to the proposed cancellation.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  The Secretary is not to make a decision relating to the proposed cancellation until the Secretary has had regard to any submissions the person makes under paragraph (2)(b).
+<dt>(a)</dt><dd>within 20 working days after the revocation, give written notice of the
 
-##### <a id="41GO"></a>41GO  Limiting cancellation of entries from Register to some medical devices of a particular kind
+revocation to the person in relation to whom the kind of medical device
 
-             (1)  If the Secretary is satisfied that the ground for cancelling the entry of a kind of medical device from the Register applies only to some medical devices of that kind, the Secretary must limit the cancellation to the medical devices to which that ground or any other ground for cancellation applies.
+concerned is included in the Register; and</dd>
 
-             (2)  If the cancellation of the entry of a kind of medical device from the Register is limited to some medical devices of that kind, the Secretary:
+<dt>(b)</dt><dd>as soon as practicable after the revocation, cause to be published in the
 
-                     (a)  must vary the entry in the Register accordingly; and
+_Gazette_ a notice setting out particulars of the revocation.
 
-                     (b)  must not delete the entry from the Register because of the cancellation.
+</dd>
 
-##### <a id="41GP"></a>41GP  Publication of cancellation of entry from Register
+</dl></dl></dl>
 
-                   The Secretary must cause to be published in the _Gazette_, as soon as practicable after cancelling an entry from the Register of a kind of medical device, or of some devices of a particular kind, a notice setting out particulars of the cancellation.
+<dl compact=""><dl compact="">
 
-##### <a id="41GQ"></a>41GQ  Date of effect of cancellation of entries from Register
+<dt>(4)</dt><dd>If the Secretary decides, after an application is made under
 
-                   If the Secretary cancels an entry of a kind of medical device, or some devices of a particular kind, from the Register, the cancellation has effect:
+paragraph&#160;(2)(a), not to revoke the suspension, the Secretary must:
 
-                     (a)  if the cancellation is under section 41GK or 41GL—on the day on which the notice of cancellation is given to the person in relation to whom the kind of device was included in the Register; or
+</dd> </dl></dl>
 
-                     (b)  in any other case—on such later day as is specified in the notice, being a day not earlier than 20 working days after the notice is given to the person.
+<dl compact=""><dl compact=""><dl compact="">
 
-## Part 4-7—Exempting medical devices from inclusion in the Register
+<dt>(a)</dt><dd>notify the applicant in writing of his or her decision within 20
 
-##### <a id="41H"></a>41H  What this Part is about
+working  days after the decision is made; and</dd>
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+<dt>(b)</dt><dd>state in the notice the reasons for the decision.
 
-There are 3 kinds of exemptions from the prohibitions in Division 3 of Part 4-11 on dealing in medical devices that are not included in the Register:
+</dd>
 
-               (a)     medical devices exempted under the regulations;
+</dl></dl></dl>
 
-               (b)     approval for medical devices to be used for special treatment of individuals or for experimental purposes;
+41GE  Treating applications for revocation as having been refused
 
-               (c)     authorisation of particular medical practitioners to supply specified medical devices.</div>
+<dl compact=""><dl compact="">
 
-##### <a id="41HA"></a>41HA  Devices exempted from inclusion in the Register
+<dt>(1)</dt><dd>The applicant for the suspension to be revoked may give the Secretary
 
-             (1)  The regulations may exempt from the operation of Division 3 of Part 4-11:
+written notice that the applicant wishes to treat the application as having
 
-                     (a)  all medical devices, except those medical devices of the kinds prescribed for the purposes of this paragraph; or
+been refused if:
 
-                     (b)  specified kinds of medical devices.
+</dd> </dl></dl>
 
-Note:          Division 3 of Part 4-11 contains offences relating to dealing in medical devices that are not included in the Register _._
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  An exemption may be subject to conditions that are prescribed in the regulations.
+<dt>(a)</dt><dd>a period is prescribed under paragraph 63(2)(dd) for the Secretary to make
 
-Note:          Breach of the conditions may be an offence: see subsection 41MN(3).
+a decision on the application; and</dd>
 
-             (3)  An exemption under paragraph (1)(a) has effect only for classes of persons prescribed in the regulations for the purposes of this subsection.
+<dt>(b)</dt><dd>at the end of the period, the Secretary has not made a decision.
 
-             (4)  If the regulations revoke an exemption, the revocation takes effect on the day specified. The day must not be earlier than 20 working days after the day on which the regulations are made.
+</dd>
 
-##### <a id="41HB"></a>41HB  Exemptions for special and experimental uses
+</dl></dl></dl>
 
-             (1)  The Secretary may grant a written approval to a person for:
+<dl compact=""><dl compact="">
 
-                     (a)  the importation into Australia; or
+<dt>(2)</dt><dd>The notice may be given at any time before the Secretary makes a decision
 
-                     (b)  the exportation from Australia; or
+on the application.</dd> <dt>(3)</dt><dd>If a notice has been given, this Act (except for subsection 60(5)) has effect as if: </dd> </dl></dl>
 
-                     (c)  the supply in Australia;
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Secretary had decided not to revoke the suspension; and</dd>
+
+<dt>(b)</dt><dd>the Minister had made a decision under subsection 60(3) confirming the
+
+decision of the Secretary; and</dd>
+
+<dt>(c)</dt><dd>the Minister's decision had been made on the day on which notice was given
+
+to the Secretary.
+
+</dd>
+
+</dl></dl></dl>
+
+Subdivision B&#151;Suspension as a result of suspension under Part&#160;4-4
+ 41GF  Suspension of kinds of medical devices from the Register
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may, by written notice given to the person in relation to
+
+whom a kind of medical device is included in the Register, suspend the kind of
+
+device from the Register if the conformity assessment certificate applying to
+
+that kind of device is suspended under Division&#160;3 of Part&#160;4-4.</dd> <dt>(2)</dt><dd>If the suspension under Division&#160;3 of Part&#160;4-4 is limited to some medical devices of that kind, the suspension under this section is taken to be limited to the same extent.</dd> <dt>(3)</dt><dd>The Secretary must cause to be published in the _Gazette_, as soon as practicable after the suspension, a notice setting out particulars of the suspension. </dd> </dl></dl>
+
+41GG  Duration of suspension
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The suspension takes effect on the day on which the notice is given to the
+
+person.</dd> <dt>(2)</dt><dd>The suspension has effect until the Secretary revokes it under section&#160;41GH. </dd> </dl></dl>
+
+41GH  Revocation of suspension
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary must revoke the suspension if:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the suspension under Division&#160;3 of Part&#160;4-4 ceases to have
+
+effect; and</dd>
+
+<dt>(b)</dt><dd>the Secretary is satisfied that there are no other grounds for suspending
+
+the kind of device from the Register.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+.	(2)	After revoking the suspension, the Secretary must:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>within 20 working days after the revocation, give written notice of the
+
+revocation to the person in relation to whom the kind of medical device
+
+concerned is included in the Register; and</dd>
+
+<dt>(b)</dt><dd>as soon as practicable after the revocation, cause to be published in the
+
+_Gazette_ a notice setting out particulars of the revocation.
+
+</dd>
+
+</dl></dl></dl>
+
+Subdivision C&#151;Effect of suspension
+ 41GI  Effect of suspension
+
+<dl compact=""><dl compact="">
+
+		If all or some medical devices of a particular kind are suspended, they are
+
+taken, for the purposes of this Act (other than Division&#160;2 of
+
+Part&#160;4-5, this Division and Part&#160;4-8), not to be included in the
+
+Register while the suspension has effect.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Dealing in medical devices that are not included in the
+
+Register may be an offence: see Division&#160;3 of Part&#160;4-11.
+
+ </dl></dl>
+
+41GJ  Powers of cancellation from Register unaffected
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This Subdivision does not affect the Secretary's powers to cancel the
+
+entry of kinds of medical devices from the Register under Division&#160;2.</dd> <dt>(2)</dt><dd>To the extent that a suspension under this Division relates to medical devices to which such a cancellation relates, the suspension ceases to have effect. </dd> </dl></dl>
+
+Division&#160;2&#151;Cancellation of entries from the Register
+ 41GK  Automatic cancellation of entries of kinds of medical devices from the Register
+
+<dl compact=""><dl compact="">
+
+		The Secretary must, by written notice given to the person in relation to whom
+
+a kind of medical device is included in the Register, cancel the entry of the
+
+kind of device from the Register if:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the kind of device has been suspended from the Register under
+
+section&#160;41GA, and the period applying to the suspension under subsection
+
+41GA(3) or 41GC(3) (as the case requires) expires before the suspension is
+
+revoked under section&#160;41GD; or</dd>
+
+<dt>(b)</dt><dd>a conformity assessment certificate applying to that kind of device is
+
+revoked under Division&#160;4 of Part&#160;4-4.
+
+</dd>
+
+</dl></dl></dl>
+
+41GL  Immediate cancellation of entries of kinds of medical devices from the Register
+
+<dl compact=""><dl compact="">
+
+		The Secretary may, by written notice given to the person in relation to whom
+
+a kind of medical device is included in the Register, cancel the entry of the
+
+kind of device from the Register if:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Secretary is satisfied that there would be an imminent risk of death,
+
+serious illness or serious injury if the kind of device continues to be
+
+included in the Register; or</dd>
+
+<dt>(b)</dt><dd>devices of that kind are no longer therapeutic goods; or</dd>
+
+<dt>(c)</dt><dd>devices of that kind are no longer medical devices; or</dd>
+
+<dt>(d)</dt><dd>the person requests in writing the cancellation of the entry of the kind
+
+of device from the Register; or</dd>
+
+<dt>(e)</dt><dd>the Secretary is satisfied that a statement made in or in connection with:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the application for including the kind of device in the Register; or</dd>
+
+<dt>(ii)</dt><dd>the certification or purported certification under section&#160;41FD
+
+relating to the application;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		was false or misleading in a material particular; or
+
+<dt>(f)</dt><dd>the annual charge payable under subsection 4(1B) of the _Therapeutic Goods (Charges) Act 1989_ in respect of the inclusion of the kind of device
+
+in the Register is not paid within 20 working days after it becomes payable;
+
+or</dd>
+
+<dt>(g)</dt><dd>both of the following apply:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>under the regulations, an authority constituted by or under the
+
+regulations gives a direction to, or makes a requirement of, the person in
+
+relation to an advertisement of the kind of device to ensure that advertising
+
+complies with the Therapeutic Goods Advertising Code;</dd>
+
+<dt>(ii)</dt><dd>the person does not comply with the direction or requirement; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(h)</dt><dd>there is a serious breach, involving the kind of device, of the
+
+requirements relating to advertising applicable under the regulations, and the
+
+Secretary is satisfied that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the breach is significant; and</dd>
+
+<dt>(ii)</dt><dd>as a result of the breach, the presentation of devices of that kind is
+
+misleading to a significant extent.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+41GM  Cancellation of entries of kinds of medical devices from the Register after section&#160;41JA notice
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may, by written notice given to the person in relation to
+
+whom a kind of medical device is included in the Register, cancel the entry of
+
+the kind of device from the Register if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Secretary gives to the person a notice under section&#160;41JA
+
+requiring the person to give to the Secretary information or documents relating
+
+to the kind of device; and</dd>
+
+<dt>(b)</dt><dd>the notice under section&#160;41JA is given for the purposes of
+
+ascertaining whether the kind of device should have been included in the
+
+Register; and</dd>
+
+<dt>(c)</dt><dd>the person fails to comply with the notice under section&#160;41JA within
+
+a further 10 working days from the day specified in that notice.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Secretary may, by written notice given to the person in relation to
+
+whom a kind of medical device is included in the Register, cancel the entry of
+
+the kind of device from the Register if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Secretary gives to the person a notice under section&#160;41JA
+
+requiring the person to give to the Secretary information or documents relating
+
+to whether medical devices of that kind are being:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>supplied in Australia; or</dd>
+
+<dt>(ii)</dt><dd>imported into Australia; or</dd>
+
+<dt>(iii)</dt><dd>exported from Australia; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>either:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the information or documents given are to the effect that medical devices
+
+of that kind are not being supplied in Australia, imported into Australia or
+
+exported from Australia; or</dd>
+
+<dt>(ii)</dt><dd>the person fails to comply with the notice under section&#160;41JA within
+
+a further 10 working days from the day specified in that notice.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+41GN  Cancellation of entries of kinds of medical devices from the Register after notice of proposed cancellation
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may, by written notice given to the person in relation to
+
+whom a kind of medical device is included in the Register, cancel the entry of
+
+the kind of device from the Register if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>medical devices that were devices of that kind when the kind of device was
+
+included in the Register have changed so those medical devices are no longer
+
+devices of that kind; or</dd>
+
+<dt>(b)</dt><dd>the person in relation to whom the kind of medical device is included in
+
+the Register refuses or fails to comply with a condition to which that
+
+inclusion is subject; or</dd>
+
+<dt>(c)</dt><dd>the Secretary gives to the person a notice under section&#160;41JA:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>that requires the person to give to the Secretary information or documents
+
+relating to the kind of device; and</dd>
+
+<dt>(ii)</dt><dd>in respect of which section&#160;41GM does not apply;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		and the person fails to comply with that notice within a further 10 working
+
+days from the day specified in that notice; or
+
+<dt>(d)</dt><dd>the person contravenes subsection 41MP(1) in relation to the kind of
+
+device; or</dd>
+
+<dt>(e)</dt><dd>the Secretary is satisfied that the safety or performance of the kind of
+
+device is unacceptable; or</dd>
+
+<dt>(f)</dt><dd>the Secretary is satisfied that any certification, or part of a
+
+certification, under section&#160;41FD in relation to the application for
+
+inclusion of the kind of device in the Register is incorrect, or is no longer
+
+correct, in a material particular.
+
+</dd>
+
+</dl></dl></dl>
+
+Note:	The matters that must be certified under section&#160;41FD include compliance with the essential principles and the application of conformity assessment procedures, being able to substantiate the compliance and application, and compliance with advertising requirements.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>However, before cancelling the entry of the kind of device from the
+
+Register, the Secretary must:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>inform the person in writing that the Secretary proposes the cancellation
+
+and set out the reasons for it; and</dd>
+
+<dt>(b)</dt><dd>give the person a reasonable opportunity to make submissions to the
+
+Secretary in relation to the proposed cancellation.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Secretary is not to make a decision relating to the proposed
+
+cancellation until the Secretary has had regard to any submissions the person
+
+makes under paragraph&#160;(2)(b).
+
+</dd> </dl></dl>
+
+41GO  Limiting cancellation of entries from Register to some medical devices of a particular kind
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If the Secretary is satisfied that the ground for cancelling the entry of
+
+a kind of medical device from the Register applies only to some medical devices
+
+of that kind, the Secretary must limit the cancellation to the medical devices
+
+to which that ground or any other ground for cancellation applies.</dd> <dt>(2)</dt><dd>If the cancellation of the entry of a kind of medical device from the Register is limited to some medical devices of that kind, the Secretary: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>must vary the entry in the Register accordingly; and</dd>
+
+<dt>(b)</dt><dd>must not delete the entry from the Register because of the cancellation.
+
+</dd>
+
+</dl></dl></dl>
+
+41GP  Publication of cancellation of entry from Register
+
+<dl compact=""><dl compact="">
+
+		The Secretary must cause to be published in the _Gazette_, as soon as
+
+practicable after cancelling an entry from the Register of a kind of medical
+
+device, or of some devices of a particular kind, a notice setting out
+
+particulars of the cancellation.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+41GQ  Date of effect of cancellation of entries from Register
+
+<dl compact=""><dl compact="">
+
+		If the Secretary cancels an entry of a kind of medical device, or some
+
+devices of a particular kind, from the Register, the cancellation has effect:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the cancellation is under section&#160;41GK or 41GL&#151;on the day on
+
+which the notice of cancellation is given to the person in relation to whom the
+
+kind of device was included in the Register; or</dd>
+
+<dt>(b)</dt><dd>in any other case&#151;on such later day as is specified in the notice, being
+
+a day not earlier than 20 working days after the notice is given to the person.
+
+</dd>
+
+</dl></dl></dl>
+
+Part&#160;4-7&#151;Exempting medical devices from inclusion in the Register
+
+41H  What this Part is about
+
+There are 3 kinds of exemptions from the prohibitions in Division&#160;3 of Part&#160;4-11 on dealing in medical devices that are not included in the Register:
+
+	(a)	medical devices exempted under the regulations;
+ 	(b)	approval for medical devices to be used for special treatment of individuals or for experimental purposes;
+ 	(c)	authorisation of particular medical practitioners to supply specified medical devices.
+
+41HA  Devices exempted from inclusion in the Register
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The regulations may exempt from the operation of Division&#160;3 of
+
+Part&#160;4-11:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>all medical devices, except those medical devices of the kinds prescribed
+
+for the purposes of this paragraph; or</dd>
+
+<dt>(b)</dt><dd>specified kinds of medical devices.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Division&#160;3 of Part&#160;4-11 contains offences
+
+relating to dealing in medical devices that are not included in the
+
+Register _._
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>An exemption may be subject to conditions that are prescribed in the
+
+regulations.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Breach of the conditions may be an offence: see subsection
+
+41MN(3).
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>An exemption under paragraph&#160;(1)(a) has effect only for classes of
+
+persons prescribed in the regulations for the purposes of this subsection.</dd> <dt>(4)</dt><dd>If the regulations revoke an exemption, the revocation takes effect on the day specified. The day must not be earlier than 20 working days after the day on which the regulations are made. </dd> </dl></dl>
+
+41HB  Exemptions for special and experimental uses
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may grant a written approval to a person for:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the importation into Australia; or</dd>
+
+<dt>(b)</dt><dd>the exportation from Australia; or</dd>
+
+<dt>(c)</dt><dd>the supply in Australia;
+
+</dd>
+
+</dl></dl></dl>
 
 of a specified medical device or kind of medical device (other than medical devices included in the Register or exempt devices):
 
-                     (d)  for use in the treatment of another person; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  for use solely for experimental purposes in humans.
+<dt>(d)</dt><dd>for use in the treatment of another person; or</dd>
 
-             (2)  The approval may be given subject to conditions specified in the approval, including a condition relating to charging for medical devices of the kinds in question.
+<dt>(e)</dt><dd>for use solely for experimental purposes in humans.
 
-Note:          Breach of the conditions may be an offence: see subsection 41MN(3).
+</dd>
 
-             (3)  In addition, the regulations may prescribe conditions that apply to a person’s approval to use specified kinds of medical devices solely for experimental purposes in humans. The conditions may relate to one or more of the following:
+</dl></dl></dl>
 
-                     (a)  the preconditions on another person’s use of devices of those kinds for those purposes;
+<center>Back to Top</center>
 
-                     (b)  the principles to be followed in another person’s use of devices of those kinds for those purposes;
+<dl compact=""><dl compact="">
 
-                     (c)  the monitoring of another person’s use, and the results of that use, of devices of those kinds for those purposes;
+<dt>(2)</dt><dd>The approval may be given subject to conditions specified in the approval,
 
-                     (d)  the circumstances in which that other person must cease using devices of those kinds for those purposes.
+including a condition relating to charging for medical devices of the kinds in
 
-             (4)  An application to use specified medical devices in the treatment of another person must be accompanied by any information about the devices that is required by the Secretary.
+question.
 
-             (5)  An application to use specified kinds of medical devices solely for experimental purposes in humans must:
+</dd> </dl></dl>
 
-                     (a)  be made in writing; and
+<dl compact=""><dl compact="">
 
-                     (b)  be accompanied by any information about the kinds of devices that is required by the Secretary; and
+Note:	Breach of the conditions may be an offence: see subsection
 
-                     (c)  be accompanied by the prescribed fee.
+41MN(3).
 
-             (6)  The Secretary must:
+ </dl></dl>
 
-                     (a)  consider any application under this section; and
+<dl compact=""><dl compact="">
 
-                     (b)  assess any information submitted with the application; and
+<dt>(3)</dt><dd>In addition, the regulations may prescribe conditions that apply to a
 
-                     (c)  notify the applicant, within 20 working days of making the decision:
+person's approval to use specified kinds of medical devices solely for
 
-                              (i)  of the decision; and
+experimental purposes in humans. The conditions may relate to one or more of
 
-                             (ii)  in the case of a decision not to grant the approval—of the reasons for the decision.
+the following:
 
-             (7)  The use by a person for experimental purposes in humans of specified kinds of medical devices that are the subject of an approval granted to someone else under paragraph (1)(e) is subject to the conditions (if any) specified in the regulations relating to one or more of the following:
+</dd> </dl></dl>
 
-                     (a)  the preconditions on the use of devices of those kinds for those purposes;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the principles to be followed in the use of devices of those kinds for those purposes;
+<dt>(a)</dt><dd>the preconditions on another person's use of devices of those kinds for
 
-                     (c)  the monitoring of the use, and the results of the use, of devices of those kinds for those purposes;
+those purposes;</dd>
 
-                     (d)  the circumstances in which the person must cease the use of devices of those kinds for those purposes.
+<dt>(b)</dt><dd>the principles to be followed in another person's use of devices of those
 
-Note:          Breach of the conditions may be an offence: see subsection 41MN(3).
+kinds for those purposes;</dd>
 
-##### <a id="41HC"></a>41HC  Exemptions for medical practitioners
+<dt>(c)</dt><dd>the monitoring of another person's use, and the results of that use, of
 
-             (1)  The Secretary may authorise, in writing, a specified medical practitioner to supply specified kinds of medical devices for use in the treatment of humans to a specified class of recipients.
+devices of those kinds for those purposes;</dd>
 
-             (2)  An authority may be given subject to conditions specified in the authority.
+<dt>(d)</dt><dd>the circumstances in which that other person must cease using devices of
 
-             (3)  The Secretary may impose conditions (or further conditions) on a person’s authority by giving the person written notice of the conditions.
+those kinds for those purposes.
 
-             (4)  An authority may only be given:
+</dd>
 
-                     (a)  to a medical practitioner included in a class of medical practitioners prescribed by the regulations for the purposes of this paragraph; and
+</dl></dl></dl>
 
-                     (b)  to a medical practitioner who has the approval of an ethics committee to supply the specified kinds of medical devices or the specified class of such devices; and
+<dl compact=""><dl compact="">
 
-                     (c)  in relation to a class or classes of recipients prescribed by the regulations for the purposes of this paragraph.
+<dt>(4)</dt><dd>An application to use specified medical devices in the treatment of
 
-However, the regulations may prescribe exceptional circumstances in which paragraph (b) does not apply.
+another person must be accompanied by any information about the devices that is
 
-             (5)  The regulations may prescribe circumstances in which medical devices may be supplied under an authority.
+required by the Secretary.</dd> <dt>(5)</dt><dd>An application to use specified kinds of medical devices solely for experimental purposes in humans must: </dd> </dl></dl>
 
-             (6)  The giving of an authority in respect of kinds of medical devices does not render the Commonwealth, the Secretary or a delegate of the Secretary liable to a person for loss, damage or injury of any kind suffered by the person as a result of, or arising out of, the use of devices of those kinds by that person or another person.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (7)  In this section:
+<dt>(a)</dt><dd>be made in writing; and</dd>
 
-                    <a name="mical-practition"></a>**_medical practitioner_** means a person who is registered, in a State or internal Territory, as a medical practitioner.
+<dt>(b)</dt><dd>be accompanied by any information about the kinds of devices that is
 
-## Part 4-8—Obtaining information
+required by the Secretary; and</dd>
 
-##### <a id="41J"></a>41J  What this Part is about
+<dt>(c)</dt><dd>be accompanied by the prescribed fee.
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>The Secretary must:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>consider any application under this section; and</dd>
+
+<dt>(b)</dt><dd>assess any information submitted with the application; and</dd>
+
+<dt>(c)</dt><dd>notify the applicant, within 20 working days of making the decision:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>of the decision; and</dd>
+
+<dt>(ii)</dt><dd>in the case of a decision not to grant the approval&#151;of the reasons for
+
+the decision.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(7)</dt><dd>The use by a person for experimental purposes in humans of specified kinds
+
+of medical devices that are the subject of an approval granted to someone else
+
+under paragraph&#160;(1)(e) is subject to the conditions (if any) specified in
+
+the regulations relating to one or more of the following:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the preconditions on the use of devices of those kinds for those
+
+purposes;</dd>
+
+<dt>(b)</dt><dd>the principles to be followed in the use of devices of those kinds for
+
+those purposes;</dd>
+
+<dt>(c)</dt><dd>the monitoring of the use, and the results of the use, of devices of those
+
+kinds for those purposes;</dd>
+
+<dt>(d)</dt><dd>the circumstances in which the person must cease the use of devices of
+
+those kinds for those purposes.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Breach of the conditions may be an offence: see subsection
+
+41MN(3).
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+41HC  Exemptions for medical practitioners
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may authorise, in writing, a specified medical practitioner
+
+to supply specified kinds of medical devices for use in the treatment of humans
+
+to a specified class of recipients.</dd> <dt>(2)</dt><dd>An authority may be given subject to conditions specified in the authority.</dd> <dt>(3)</dt><dd>The Secretary may impose conditions (or further conditions) on a person's authority by giving the person written notice of the conditions.</dd> <dt>(4)</dt><dd>An authority may only be given: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to a medical practitioner included in a class of medical practitioners
+
+prescribed by the regulations for the purposes of this paragraph; and</dd>
+
+<dt>(b)</dt><dd>to a medical practitioner who has the approval of an ethics committee to
+
+supply the specified kinds of medical devices or the specified class of such
+
+devices; and</dd>
+
+<dt>(c)</dt><dd>in relation to a class or classes of recipients prescribed by the
+
+regulations for the purposes of this paragraph.
+
+</dd>
+
+</dl></dl></dl>
+
+However, the regulations may prescribe exceptional circumstances in which paragraph&#160;(b) does not apply.
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The regulations may prescribe circumstances in which medical devices may
+
+be supplied under an authority.</dd> <dt>(6)</dt><dd>The giving of an authority in respect of kinds of medical devices does not render the Commonwealth, the Secretary or a delegate of the Secretary liable to a person for loss, damage or injury of any kind suffered by the person as a result of, or arising out of, the use of devices of those kinds by that person or another person.</dd> <dt>(7)</dt><dd>In this section: </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_medical practitioner_ means a person who is registered, in a State
+
+or internal Territory, as a medical practitioner.
+
+ </dl></dl>
+
+Part&#160;4-8&#151;Obtaining information
+ 41J  What this Part is about
 
 The Secretary may seek information or documents relating to:
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      the application of conformity assessment procedures;</li>
+*	the application of conformity assessment procedures;
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      compliance with the essential principles;</li>
+*	compliance with the essential principles;
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      compliance with other requirements;</li>
+*	compliance with other requirements;
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      distribution of, and other matters relating to, medical devices covered by exemptions under Part 4-7.</li></div>
+*	distribution of, and other matters relating to, medical devices covered by exemptions under Part&#160;4-7.
 
-Note:          There are additional obligations relating to notifying defects in medical devices: see sections 41MP and 41MQ.
+<dl compact=""><dl compact="">
 
-### Division 1—Information relating to compliance with requirements and other matters
+Note:	There are additional obligations relating to notifying
 
-##### <a id="41JA"></a>41JA  Secretary may require information
+defects in medical devices: see sections&#160;41MP and 41MQ.
 
-             (1)  The Secretary may, by written notice given to a person:
+ </dl></dl>
 
-                     (a)  who is an applicant for a conformity assessment certificate that would relate to a kind of medical device; or
+Division&#160;1&#151;Information relating to compliance with requirements and other matters
+ 41JA  Secretary may require information
 
-                     (b)  who holds a conformity assessment certificate that relates to a kind of medical device; or
+<dl compact=""><dl compact="">
 
-                     (c)  who is an applicant for the inclusion of a kind of medical device in the Register; or
+<dt>(1)</dt><dd>The Secretary may, by written notice given to a person:
 
-                     (d)  in relation to whom a kind of medical device is, or was at any time during the notice period under subsection (2), included in the Register;
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>who is an applicant for a conformity assessment certificate that would
+
+relate to a kind of medical device; or</dd>
+
+<dt>(b)</dt><dd>who holds a conformity assessment certificate that relates to a kind of
+
+medical device; or</dd>
+
+<dt>(c)</dt><dd>who is an applicant for the inclusion of a kind of medical device in the
+
+Register; or</dd>
+
+<dt>(d)</dt><dd>in relation to whom a kind of medical device is, or was at any time during
+
+the notice period under subsection&#160;(2), included in the Register;
+
+</dd>
+
+</dl></dl></dl>
 
 require the person to give to the Secretary information or documents, relating to devices of that kind, that are relevant to one or more of the following:
 
-                     (e)  whether the devices comply with the essential principles;
+<dl compact=""><dl compact=""><dl compact="">
 
-                      (f)  whether the conformity assessment procedures have been applied to the devices;
+<dt>(e)</dt><dd>whether the devices comply with the essential principles;</dd>
 
-                     (g)  whether the devices comply with conditions (if any) imposed on a conformity assessment certificate issued in respect of the device or the inclusion of the device in the Register;
+<dt>(f)</dt><dd>whether the conformity assessment procedures have been applied to the
 
-                     (h)  whether the devices comply with every requirement (if any) relating to advertising applicable under the regulations;
+devices;</dd>
 
-                      (i)  if the kind of medical device is included in the Register in relation to the person—whether medical devices of that kind are being:
+<dt>(g)</dt><dd>whether the devices comply with conditions (if any) imposed on a
 
-                              (i)  supplied in Australia; or
+conformity assessment certificate issued in respect of the device or the
 
-                             (ii)  imported into Australia; or
+inclusion of the device in the Register;</dd>
 
-                            (iii)  exported from Australia;
+<dt>(h)</dt><dd>whether the devices comply with every requirement (if any) relating to
 
-                      (j)  any other matter prescribed by the regulations for the purposes of this paragraph.
+advertising applicable under the regulations;</dd>
 
-             (2)  For the purposes of paragraph (1)(d), the notice period is the period:
+<dt>(i)</dt><dd>if the kind of medical device is included in the Register in relation to
 
-                     (a)  of the length specified in the regulations; and
+the person&#151;whether medical devices of that kind are being:
 
-                     (b)  ending on the day before the Secretary gives the notice under subsection (1).
+</dd>
 
-##### <a id="41JB"></a>41JB  Complying with the Secretary’s requirements
+</dl></dl></dl>
 
-             (1)  The person must give the information or documents to the Secretary:
+<center>Back to Top</center>
 
-                     (a)  within such reasonable time, being not less than 10 working days from the day on which the notice is given, as is specified in the notice; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  in such form as is specified in the notice.
+<dt>(i)</dt><dd>supplied in Australia; or</dd>
 
-             (2)  The form may require or permit information to be given in accordance with specified software requirements:
+<dt>(ii)</dt><dd>imported into Australia; or</dd>
 
-                     (a)  on a specified kind of data processing device; or
+<dt>(iii)</dt><dd>exported from Australia;
 
-                     (b)  by way of a specified kind of electronic transmission.
+</dd>
 
-             (3)  A person is guilty of an offence if the person:
+</dl></dl></dl></dl>
 
-                     (a)  is a person in relation to whom a notice is given under section 41JA; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  fails to comply with the notice.
+<dt>(j)</dt><dd>any other matter prescribed by the regulations for the purposes of this
 
-                    Maximum penalty:    30 penalty units.
+paragraph.
 
-Note:          Failure to comply with the notice might also lead to suspension or revocation of a conformity assessment certificate (see Divisions 3 and 4 of Part 4-4) or suspension or cancellation of the entry of a kind of medical device in the Register (see Part 4-6).
+</dd>
 
-             (4)  A person is guilty of an offence if:
+</dl></dl></dl>
 
-                     (a)  the person is a person in relation to whom a notice is given under section 41JA; and
+<dl compact=""><dl compact="">
 
-                     (b)  the person gives information in purported compliance with the notice; and
+<dt>(2)</dt><dd>For the purposes of paragraph&#160;(1)(d), the notice period is the period:
 
-                     (c)  the information is false or misleading in a material particular.
+</dd> </dl></dl>
 
-                    Maximum penalty:    60 penalty units.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41JC"></a>41JC  Self-incrimination
+<dt>(a)</dt><dd>of the length specified in the regulations; and</dd>
 
-             (1)  A person is not excused from giving information or a document under section 41JB on the ground that to do so would tend to incriminate the person or expose the person to a penalty.
+<dt>(b)</dt><dd>ending on the day before the Secretary gives the notice under
 
-             (2)  However, in the case of an individual:
+subsection&#160;(1).
 
-                     (a)  the information given; or
+</dd>
 
-                     (b)  the giving of the document; or
+</dl></dl></dl>
 
-                     (c)  any information, document or thing obtained as a direct or indirect consequence of giving the information or document;
+41JB  Complying with the Secretary's requirements
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The person must give the information or documents to the Secretary:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>within such reasonable time, being not less than 10 working days from the
+
+day on which the notice is given, as is specified in the notice; and</dd>
+
+<dt>(b)</dt><dd>in such form as is specified in the notice.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The form may require or permit information to be given in accordance with
+
+specified software requirements:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on a specified kind of data processing device; or</dd>
+
+<dt>(b)</dt><dd>by way of a specified kind of electronic transmission.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>A person is guilty of an offence if the person:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is a person in relation to whom a notice is given under section&#160;41JA;
+
+and</dd>
+
+<dt>(b)</dt><dd>fails to comply with the notice.
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	30 penalty units.
+
+<dl compact=""><dl compact="">
+
+Note:	Failure to comply with the notice might also lead to
+
+suspension or revocation of a conformity assessment certificate (see
+
+Divisions&#160;3 and 4 of Part&#160;4-4) or suspension or cancellation of the
+
+entry of a kind of medical device in the Register (see Part&#160;4-6).
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>A person is guilty of an offence if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person is a person in relation to whom a notice is given under
+
+section&#160;41JA; and</dd>
+
+<dt>(b)</dt><dd>the person gives information in purported compliance with the notice;
+
+and</dd>
+
+<dt>(c)</dt><dd>the information is false or misleading in a material particular.
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	60 penalty units.
+
+41JC  Self-incrimination
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person is not excused from giving information or a document under
+
+section&#160;41JB on the ground that to do so would tend to incriminate the
+
+person or expose the person to a penalty.</dd> <dt>(2)</dt><dd>However, in the case of an individual: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the information given; or</dd>
+
+<dt>(b)</dt><dd>the giving of the document; or</dd>
+
+<dt>(c)</dt><dd>any information, document or thing obtained as a direct or indirect
+
+consequence of giving the information or document;
+
+</dd>
+
+</dl></dl></dl>
 
 is not admissible in evidence in criminal proceedings against the individual, except proceedings under, or arising out of, subsection 41JB(4).
 
-### Division 2—Information relating to medical devices covered by exemptions
+Division&#160;2&#151;Information relating to medical devices covered by exemptions
+ 41JD  Secretary may require information etc. about devices exempted under section&#160;41HA from inclusion in the Register
 
-##### <a id="41JD"></a>41JD  Secretary may require information etc. about devices exempted under section 41HA from inclusion in the Register
+<dl compact=""><dl compact="">
 
-             (1)  The Secretary may give the sponsor of kinds of medical devices exempted under subsection 41HA(1) from Division 3 of Part 4-11, a written notice requiring the sponsor to give to the Secretary specified information or documents relating to one or more of the following:
+<dt>(1)</dt><dd>The Secretary may give the sponsor of kinds of medical devices exempted
 
-                     (a)  the supply of devices of those kinds;
+under subsection 41HA(1) from Division&#160;3 of Part&#160;4-11, a written
 
-                     (b)  the handling of devices of those kinds;
+notice requiring the sponsor to give to the Secretary specified information or
 
-                     (c)  the monitoring of the supply of devices of those kinds;
+documents relating to one or more of the following:
 
-                     (d)  the results of the supply of devices of those kinds;
+</dd> </dl></dl>
 
-                     (e)  any other matter prescribed by the regulations for the purposes of this paragraph in relation to devices of those kinds.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  If a medical device is exempt under subsection 41HA(1) because a medical practitioner has signed a statement in accordance with regulations made for the purposes of this section, the Secretary may give the medical practitioner a written notice requiring the medical practitioner to give to the Secretary specified information or documents relating to one or more of the following:
+<dt>(a)</dt><dd>the supply of devices of those kinds;</dd>
 
-                     (a)  the condition of the person to whom the medical device is to be given or is given;
+<dt>(b)</dt><dd>the handling of devices of those kinds;</dd>
 
-                     (b)  the supply of the device;
+<dt>(c)</dt><dd>the monitoring of the supply of devices of those kinds;</dd>
 
-                     (c)  the handling of the device;
+<dt>(d)</dt><dd>the results of the supply of devices of those kinds;</dd>
 
-                     (d)  the monitoring of the supply of the device;
+<dt>(e)</dt><dd>any other matter prescribed by the regulations for the purposes of this
 
-                     (e)  the results of the supply of the device;
+paragraph in relation to devices of those kinds.
 
-                      (f)  any other matter prescribed by the regulations for the purposes of this paragraph in relation to medical devices of that kind.
+</dd>
 
-             (3)  A notice under this section must specify a reasonable period within which the person must comply. The period must be at least 10 working days starting on the day on which the notice is given.
+</dl></dl></dl>
 
-##### <a id="41JE"></a>41JE  Secretary may require information relating to approvals under section 41HB
+<dl compact=""><dl compact="">
 
-Approval under subsection 41HB(1)
+<dt>(2)</dt><dd>If a medical device is exempt under subsection 41HA(1) because a medical
 
-             (1)  The Secretary may give to a person granted an approval under subsection 41HB(1) (special and experimental uses), in relation to specified kinds of medical devices, a written notice requiring the person to give to the Secretary specified information or documents relating to one or more of the following:
+practitioner has signed a statement in accordance with regulations made for the
 
-                     (a)  the supply of devices of those kinds;
+purposes of this section, the Secretary may give the medical practitioner a
 
-                     (b)  the handling of devices of those kinds;
+written notice requiring the medical practitioner to give to the Secretary
 
-                     (c)  the monitoring of the supply of devices of those kinds;
+specified information or documents relating to one or more of the following:
 
-                     (d)  the results of the supply of devices of those kinds;
+</dd> </dl></dl>
 
-                     (e)  any other matter prescribed by the regulations for the purposes of this paragraph in relation to devices of those kinds.
+<dl compact=""><dl compact=""><dl compact="">
 
-Approval under subsection 41HB(1)—use by another person
+<dt>(a)</dt><dd>the condition of the person to whom the medical device is to be given or
 
-             (2)  The Secretary may give to a person using specified kinds of medical devices, that are the subject of an approval granted to someone else under paragraph 41HB(1)(e) (use solely for experimental purposes in humans), a written notice requiring the person to give to the Secretary specified information or documents relating to either of both of the following:
+is given;</dd>
 
-                     (a)  the use of devices of those kinds;
+<dt>(b)</dt><dd>the supply of the device;</dd>
 
-                     (b)  any other matter prescribed by the regulations for the purposes of this paragraph in relation to devices of those kinds.
+<dt>(c)</dt><dd>the handling of the device;</dd>
 
-Compliance period
+<dt>(d)</dt><dd>the monitoring of the supply of the device;</dd>
 
-             (3)  A notice under this section must specify a reasonable period within which the person to whom the notice is given must comply. The period must be at least 10 working days starting on the day on which the notice is given.
+<dt>(e)</dt><dd>the results of the supply of the device;</dd>
 
-##### <a id="41JF"></a>41JF  Secretary may require information relating to authorities under section 41HC
+<dt>(f)</dt><dd>any other matter prescribed by the regulations for the purposes of this
 
-             (1)  The Secretary may give to a person who is granted an authority under section 41HC (exemptions for medical practitioners), in relation to specified kinds of medical devices, a written notice requiring the person to give to the Secretary specified information or documents relating to one or more of the following:
+paragraph in relation to medical devices of that kind.
 
-                     (a)  the supply of devices of those kinds;
+</dd>
 
-                     (b)  the handling of devices of those kinds;
+</dl></dl></dl>
 
-                     (c)  the monitoring of the supply of devices of those kinds;
+<dl compact=""><dl compact="">
 
-                     (d)  the results of the supply of devices of those kinds;
+<dt>(3)</dt><dd>A notice under this section must specify a reasonable period within which
 
-                     (e)  any other matter prescribed by the regulations for the purposes of this paragraph in relation to devices of those kinds.
+the person must comply. The period must be at least 10 working days starting on
 
-             (2)  The notice must specify a reasonable period within which the person to whom the notice is given must comply. The period must be at least 10 working days starting on the day on which the notice is given.
+the day on which the notice is given.
 
-##### <a id="41JG"></a>41JG  Requirements in relation to information or documents sought under this Division
+</dd> </dl></dl>
 
-When information or documents must be given etc.
+41JE  Secretary may require information relating to approvals under section&#160;41HB
 
-             (1)  A person to whom a notice is given under section 41JD, 41JE or 41JF must give to the Secretary, within the period specified in the notice:
+_Approval under subsection 41HB(1)_
 
-                     (a)  the information specified in the notice; and
+<dl compact=""><dl compact="">
 
-                     (b)  the documents specified in the notice in the form (if any) specified in the notice.
+<dt>(1)</dt><dd>The Secretary may give to a person granted an approval under subsection
 
-Way in which information given
+41HB(1) (special and experimental uses), in relation to specified kinds of
 
-             (2)  The notice may require information to be given in accordance with specified software requirements:
+medical devices, a written notice requiring the person to give to the Secretary
 
-                     (a)  on a specified kind of data processing device; or
+specified information or documents relating to one or more of the following:
 
-                     (b)  by way of a specified kind of electronic transmission.
+</dd> </dl></dl>
 
-Offence
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  A person is guilty of an offence if the person fails to comply with subsection (1).
+<dt>(a)</dt><dd>the supply of devices of those kinds;</dd>
 
-Note:          The privilege against self incrimination is not a reasonable excuse for the purposes of this subsection. However, section 41JJ limits the use in prosecutions of information etc. obtained under sections 41JD, 41JE and 41JF.
+<dt>(b)</dt><dd>the handling of devices of those kinds;</dd>
 
-             (4)  An offence against subsection (3) is punishable on conviction by a fine of not more than 30 penalty units.
+<dt>(c)</dt><dd>the monitoring of the supply of devices of those kinds;</dd>
 
-##### <a id="41JH"></a>41JH  False or misleading information
+<dt>(d)</dt><dd>the results of the supply of devices of those kinds;</dd>
 
-                   A person to whom a notice is given under section 41JD, 41JE or 41JF is guilty of an offence if:
+<dt>(e)</dt><dd>any other matter prescribed by the regulations for the purposes of this
 
-                     (a)  the person gives information to the Secretary; and
+paragraph in relation to devices of those kinds.
 
-                     (b)  the person knows that the information:
+</dd>
 
-                              (i)  is false or misleading; or
+</dl></dl></dl>
 
-                             (ii)  omits any matter or thing without which the information is misleading; and
+_Approval under subsection 41HB(1)use by another person_
 
-                     (c)  the information is given in compliance or purported compliance with subsection 41JG(1).
+<dl compact=""><dl compact="">
 
-                    Maximum penalty:    60 penalty units.
+<dt>(2)</dt><dd>The Secretary may give to a person using specified kinds of medical
 
-##### <a id="41JI"></a>41JI  False or misleading documents
+devices, that are the subject of an approval granted to someone else under
 
-             (1)  A person is guilty of an offence if:
+paragraph 41HB(1)(e) (use solely for experimental purposes in humans), a
 
-                     (a)  the person produces a document to the Secretary; and
+written notice requiring the person to give to the Secretary specified
 
-                     (b)  the person knows that the document is false or misleading; and
+information or documents relating to either of both of the following:
 
-                     (c)  the document is produced in compliance or purported compliance with subsection 41JG(1).
+</dd> </dl></dl>
 
-                    Maximum penalty:    60 penalty units.
+<center>Back to Top</center>
 
-             (2)  Subsection (1) does not apply to a person who produces a document if the document is accompanied by a written statement signed by the person or, in the case of a body corporate, by a competent officer of the body corporate:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  stating that the document is, to the knowledge of the first-mentioned person, false or misleading in a material particular; and
+<dt>(a)</dt><dd>the use of devices of those kinds;</dd>
 
-                     (b)  setting out, or referring to, the material particular in which the document is, to the knowledge of the first-mentioned person, false or misleading.
+<dt>(b)</dt><dd>any other matter prescribed by the regulations for the purposes of this
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+paragraph in relation to devices of those kinds.
 
-##### <a id="41JJ"></a>41JJ  Self-incrimination
+</dd>
 
-             (1)  A person is not excused from giving information or a document under section 41JG on the ground that to do so would tend to incriminate the person or expose the person to a penalty.
-
-             (2)  However, in the case of an individual:
-
-                     (a)  the information given; or
-
-                     (b)  the giving of the document; or
-
-                     (c)  any information, document or thing obtained as a direct or indirect consequence of giving the information or document;
-
-is not admissible in evidence in criminal proceedings against the individual, except proceedings under, or arising out of, section 41JH or 41JI.
-
-## Part 4-9—Public notification and recovery of medical devices
-
-##### <a id="41K"></a>41K  What this Part is about
-
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
-
-The Secretary can require action to recover medical devices, or to inform the public about medical devices, that do not comply with requirements or cannot lawfully be supplied.</div>
-
-##### <a id="41KA"></a>41KA  Public notification and recovery of medical devices
-
-             (1)  The Secretary may, in writing, impose requirements, relating to a kind of medical device, on a person if:
-
-                     (a)  any of the circumstances referred to in the second column of an item in the following table occur in relation to the kind of device; and
-
-                     (b)  the person is referred to in the third column of that item of the table.
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="55%">
-  <col width="35%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Circumstances in which requirements may be imposed</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Circumstance relating to a kind of medical device</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Person subject to requirements</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1.</div>
-    </td>
-    <td>
-      <div>It is supplied while it is included in the Register, but medical devices
-        of that kind do not comply with the essential principles</div>
-    </td>
-    <td>
-      <div>The person in relation to whom it is included in the Register</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2.</div>
-    </td>
-    <td>
-      <div>It is supplied while it is included in the Register, but the conformity
-        assessment procedures have not been applied to medical devices of that
-        kind</div>
-    </td>
-    <td>
-      <div>The person in relation to whom it is included in the Register</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3.</div>
-    </td>
-    <td>
-      <div>It is supplied while:</div>
-      <div>(a) medical devices of that kind are exempt devices; or</div>
-      <div>(b) there is an approval under section 41HB relating to devices of that
-        kind; or</div>
-      <div>(c) there is an authority under section 41HC relating to devices of that
-        kind;</div>
-      <div>but medical devices of that kind do not comply with the essential principles</div>
-    </td>
-    <td>
-      <div>The person supplying the kind of medical device</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4.</div>
-    </td>
-    <td>
-      <div>It is supplied while:</div>
-      <div>(a) medical devices of that kind are exempt devices; or</div>
-      <div>(b) there is an approval under section 41HB relating to devices of that
-        kind; or</div>
-      <div>(c) there is an authority under section 41HC relating to devices of that
-        kind;</div>
-      <div>but the conformity assessment procedures have not been applied to medical
-        devices of that kind</div>
-    </td>
-    <td>
-      <div>The person supplying the kind of medical device</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>5.</div>
-    </td>
-    <td>
-      <div>It is supplied while:</div>
-      <div>(a) it is not included in the Register; and</div>
-      <div>(b) it is not an exempt device; and</div>
-      <div>(c) there is not an approval under section 41HB relating to devices of
-        that kind; and</div>
-      <div>(d) there is not an authority under section 41HC relating to devices of
-        that kind.</div>
-    </td>
-    <td>
-      <div>The person supplying the kind of medical device</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>6.</div>
-    </td>
-    <td>
-      <div>It has been suspended from the Register</div>
-    </td>
-    <td>
-      <div>The person in relation to whom it was included in the Register</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>7.</div>
-    </td>
-    <td>
-      <div>Its entry has been cancelled from the Register</div>
-    </td>
-    <td>
-      <div>The person in relation to whom it was included in the Register</div>
-    </td>
-  </tr>
-</tbody></table>
+</dl></dl></dl>
 
-             (2)  The requirements may be one or both of the following:
+_Compliance period_
 
-                     (a)  to take specified steps, in the specified manner and within such reasonable period as is specified, to recover medical devices of that kind that have been distributed;
+<dl compact=""><dl compact="">
 
-                     (b)  to inform the public or a specified class of persons, in the specified manner and within such reasonable period as is specified, to the effect that the circumstances referred to in paragraph (1)(a) have occurred in relation to medical devices of that kind.
+<dt>(3)</dt><dd>A notice under this section must specify a reasonable period within which
 
-             (3)  If the circumstances referred to in paragraph (1)(a) apply only to some medical devices of that kind, the Secretary may limit the imposition of the requirements to the medical devices of that kind to which those circumstances apply.
+the person to whom the notice is given must comply. The period must be at least
 
-             (4)  A requirement to recover medical devices under this section does not apply to a medical device that cannot be recovered because it has been administered to, or applied in the treatment of, a person.
+10 working days starting on the day on which the notice is given.
 
-##### <a id="41KB"></a>41KB  Publication of requirements
+</dd> </dl></dl>
 
-                   The Secretary must cause to be published in the _Gazette_, as soon as practicable after imposing a requirement under section 41KA, a notice setting out particulars of the requirement.
+41JF  Secretary may require information relating to authorities under section&#160;41HC
 
-##### <a id="41KC"></a>41KC  Non-compliance with requirements
+<dl compact=""><dl compact="">
 
-                   A person is guilty of an offence if:
+<dt>(1)</dt><dd>The Secretary may give to a person who is granted an authority under
 
-                     (a)  the person does an act, or omits to do an act; and
+section&#160;41HC (exemptions for medical practitioners), in relation to
 
-                     (b)  the act or omission constitutes a contravention of a requirement imposed on the person under section 41KA.
+specified kinds of medical devices, a written notice requiring the person to
 
-                    Maximum penalty:    60 penalty units.
+give to the Secretary specified information or documents relating to one or
 
-##### <a id="41KD"></a>41KD  Powers of suspension and cancellation unaffected
+more of the following:
 
-                   Imposition of a requirement under section 41KA does not affect the Secretary’s powers to:
+</dd> </dl></dl>
 
-                     (a)  suspend the entry of a kind of medical device, or some medical devices of a particular kind, from the Register under Part 4-6; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  cancel the entry of a kind of medical device, or some medical devices of a particular kind, in the Register under Part 4-6.
+<dt>(a)</dt><dd>the supply of devices of those kinds;</dd>
 
-## Part 4-10—Assessment fees
+<dt>(b)</dt><dd>the handling of devices of those kinds;</dd>
 
-##### <a id="41L"></a>41L  What this Part is about
+<dt>(c)</dt><dd>the monitoring of the supply of devices of those kinds;</dd>
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+<dt>(d)</dt><dd>the results of the supply of devices of those kinds;</dd>
 
-Conformity assessment fees must be paid for consideration of applications for conformity assessment certificates. Application audit assessment fees must be paid for auditing applications that are required to be selected for auditing under paragraph 41FH(1)(a).</div>
+<dt>(e)</dt><dd>any other matter prescribed by the regulations for the purposes of this
 
-##### <a id="41LA"></a>41LA  Assessment fees
+paragraph in relation to devices of those kinds.
 
-             (1)  A conformity assessment fee specified in or determined in accordance with the regulations is payable by a person in respect of consideration of an application for a conformity assessment certificate under Part 4-4.
+</dd>
 
-             (2)  The regulations may prescribe different levels of conformity assessment fees in relation to any one or more of the following:
+</dl></dl></dl>
 
-                     (a)  different kinds of manufacturers;
+<dl compact=""><dl compact="">
 
-                     (b)  different kinds of medical devices;
+<dt>(2)</dt><dd>The notice must specify a reasonable period within which the person to
 
-                     (c)  different parts of the conformity assessment procedures that are considered in relation to an application for a conformity assessment certificate under Part 4-4.
+whom the notice is given must comply. The period must be at least 10 working
 
-             (3)  An application audit assessment fee specified in or determined in accordance with the regulations is payable by a person in respect of the auditing of an application for inclusion of a kind of medical device in the Register under Part 4-5, if paragraph 41FH(1)(a) required the Secretary to select the application for audit.
+days starting on the day on which the notice is given.
 
-             (4)  The regulations may prescribe different levels of application audit assessment fees in relation to any one or more of the following:
+</dd> </dl></dl>
 
-                     (a)  different kinds of manufacturers;
+41JG  Requirements in relation to information or documents sought under this Division
 
-                     (b)  different kinds of medical devices;
+_When information or documents must be given etc._
 
-                     (c)  different levels of assessment of kinds of medical devices.
+<dl compact=""><dl compact="">
 
-             (5)  The application audit assessment fee payable because of subsection (3) is payable only in respect of considering the matters set out in subsection 41FI(1).
+<dt>(1)</dt><dd>A person to whom a notice is given under section&#160;41JD, 41JE or 41JF
 
-##### <a id="41LB"></a>41LB  When assessment fee due for payment
+must give to the Secretary, within the period specified in the notice:
 
-                   Subject to sections 41LC and 41LE, an assessment fee payable by an applicant is due and payable on the day, and in the manner, specified in the regulations.
+</dd> </dl></dl>
 
-##### <a id="41LC"></a>41LC  Payment of assessment fee by instalments
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  The regulations may provide for the payment of an assessment fee to be made by such instalments and at such times as are ascertained in accordance with the regulations, and the assessment fee is due and payable accordingly.
+<dt>(a)</dt><dd>the information specified in the notice; and</dd>
 
-             (2)  Regulations made for the purposes of subsection (1) may provide that a person is not allowed to pay an assessment fee by instalments if any part of an instalment of:
+<dt>(b)</dt><dd>the documents specified in the notice in the form (if any) specified in
 
-                     (a)  that or any other assessment fee payable by the person; or
+the notice.
 
-                     (b)  any evaluation fee under section 24 payable by the person;
+</dd>
+
+</dl></dl></dl>
+
+_Way in which information given_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The notice may require information to be given in accordance with
+
+specified software requirements:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on a specified kind of data processing device; or</dd>
+
+<dt>(b)</dt><dd>by way of a specified kind of electronic transmission.
+
+</dd>
+
+</dl></dl></dl>
+
+_Offence_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>A person is guilty of an offence if the person fails to comply with
+
+subsection&#160;(1).
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	The privilege against self incrimination is not a
+
+reasonable excuse for the purposes of this subsection. However,
+
+section&#160;41JJ limits the use in prosecutions of information etc. obtained
+
+under sections&#160;41JD, 41JE and 41JF.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>An offence against subsection&#160;(3) is punishable on conviction by a
+
+fine of not more than 30 penalty units.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+41JH  False or misleading information
+
+<dl compact=""><dl compact="">
+
+		A person to whom a notice is given under section&#160;41JD, 41JE or 41JF is
+
+guilty of an offence if:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person gives information to the Secretary; and</dd>
+
+<dt>(b)</dt><dd>the person knows that the information:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>is false or misleading; or</dd>
+
+<dt>(ii)</dt><dd>omits any matter or thing without which the information is misleading; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>the information is given in compliance or purported compliance with
+
+subsection 41JG(1).
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	60 penalty units.
+
+41JI  False or misleading documents
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person is guilty of an offence if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person produces a document to the Secretary; and</dd>
+
+<dt>(b)</dt><dd>the person knows that the document is false or misleading; and</dd>
+
+<dt>(c)</dt><dd>the document is produced in compliance or purported compliance with
+
+subsection 41JG(1).
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	60 penalty units.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection&#160;(1) does not apply to a person who produces a document if
+
+the document is accompanied by a written statement signed by the person or, in
+
+the case of a body corporate, by a competent officer of the body corporate:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>stating that the document is, to the knowledge of the first-mentioned
+
+person, false or misleading in a material particular; and</dd>
+
+<dt>(b)</dt><dd>setting out, or referring to, the material particular in which the
+
+document is, to the knowledge of the first-mentioned person, false or
+
+misleading.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matter in subsection&#160;(2) (see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+41JJ  Self-incrimination
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person is not excused from giving information or a document under
+
+section&#160;41JG on the ground that to do so would tend to incriminate the
+
+person or expose the person to a penalty.</dd> <dt>(2)</dt><dd>However, in the case of an individual: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the information given; or</dd>
+
+<dt>(b)</dt><dd>the giving of the document; or</dd>
+
+<dt>(c)</dt><dd>any information, document or thing obtained as a direct or indirect
+
+consequence of giving the information or document;
+
+</dd>
+
+</dl></dl></dl>
+
+is not admissible in evidence in criminal proceedings against the individual, except proceedings under, or arising out of, section&#160;41JH or 41JI.
+
+Part&#160;4-9&#151;Public notification and recovery of medical devices
+
+41K  What this Part is about
+
+The Secretary can require action to recover medical devices, or to inform the public about medical devices, that do not comply with requirements or cannot lawfully be supplied.
+
+41KA  Public notification and recovery of medical devices
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may, in writing, impose requirements, relating to a kind of
+
+medical device, on a person if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any of the circumstances referred to in the second column of an item in
+
+the following table occur in relation to the kind of device; and</dd>
+
+<dt>(b)</dt><dd>the person is referred to in the third column of that item of the table.
+
+</dd>
+
+</dl></dl></dl>
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Circumstances in which requirements may be imposed</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Item</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Circumstance relating to a kind of medical device</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Person subject to requirements</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>1.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>It is supplied while it is included in the Register, but medical devices of that kind do not comply with the essential principles</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The person in relation to whom it is included in the Register</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>2.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>It is supplied while it is included in the Register, but the conformity assessment procedures have not been applied to medical devices of that kind</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The person in relation to whom it is included in the Register</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>3.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>It is supplied while:</div>
+    <div>(a) medical devices of that kind are exempt devices; or 
+(b) there is an approval under section&#160;41HB relating to devices of that kind; or 
+(c) there is an authority under section&#160;41HC relating to devices of that kind;</div>
+    <div>but medical devices of that kind do not comply with the essential principles</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The person supplying the kind of medical device</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>4.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>It is supplied while:</div>
+    <div>(a) medical devices of that kind are exempt devices; or 
+(b) there is an approval under section&#160;41HB relating to devices of that kind; or 
+(c) there is an authority under section&#160;41HC relating to devices of that kind;</div>
+    <div>but the conformity assessment procedures have not been applied to medical devices of that kind</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The person supplying the kind of medical device</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>5.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>It is supplied while:</div>
+    <div>(a) it is not included in the Register; and 
+(b) it is not an exempt device; and 
+(c) there is not an approval under section&#160;41HB relating to devices of that kind; and 
+(d) there is not an authority under section&#160;41HC relating to devices of that kind.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The person supplying the kind of medical device</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>6.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>It has been suspended from the Register</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The person in relation to whom it was included in the Register</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>7.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Its entry has been cancelled from the Register</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The person in relation to whom it was included in the Register</div>
+
+  </td>
+</tr></table><dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The requirements may be one or both of the following:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to take specified steps, in the specified manner and within such
+
+reasonable period as is specified, to recover medical devices of that kind that
+
+have been distributed;</dd>
+
+<dt>(b)</dt><dd>to inform the public or a specified class of persons, in the specified
+
+manner and within such reasonable period as is specified, to the effect that
+
+the circumstances referred to in paragraph&#160;(1)(a) have occurred in
+
+relation to medical devices of that kind.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If the circumstances referred to in paragraph&#160;(1)(a) apply only to
+
+some medical devices of that kind, the Secretary may limit the imposition of
+
+the requirements to the medical devices of that kind to which those
+
+circumstances apply.</dd> <dt>(4)</dt><dd>A requirement to recover medical devices under this section does not apply to a medical device that cannot be recovered because it has been administered to, or applied in the treatment of, a person. </dd> </dl></dl>
+
+41KB  Publication of requirements
+
+<dl compact=""><dl compact="">
+
+		The Secretary must cause to be published in the _Gazette_, as soon as
+
+practicable after imposing a requirement under section&#160;41KA, a notice
+
+setting out particulars of the requirement.
+
+ </dl></dl>
+
+41KC  Non-compliance with requirements
+
+<dl compact=""><dl compact="">
+
+		A person is guilty of an offence if:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person does an act, or omits to do an act; and</dd>
+
+<dt>(b)</dt><dd>the act or omission constitutes a contravention of a requirement imposed
+
+on the person under section&#160;41KA.
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	60 penalty units.
+
+41KD  Powers of suspension and cancellation unaffected
+
+<dl compact=""><dl compact="">
+
+		Imposition of a requirement under section&#160;41KA does not affect the
+
+Secretary's powers to:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>suspend the entry of a kind of medical device, or some medical devices of
+
+a particular kind, from the Register under Part&#160;4-6; or</dd>
+
+<dt>(b)</dt><dd>cancel the entry of a kind of medical device, or some medical devices of a
+
+particular kind, in the Register under Part&#160;4-6.
+
+</dd>
+
+</dl></dl></dl>
+
+Part&#160;4-10&#151;Assessment fees
+
+41L  What this Part is about
+
+Conformity assessment fees must be paid for consideration of applications for conformity assessment certificates. Application audit assessment fees must be paid for auditing applications that are required to be selected for auditing under paragraph 41FH(1)(a).
+
+41LA  Assessment fees
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A conformity assessment fee specified in or determined in accordance with
+
+the regulations is payable by a person in respect of consideration of an
+
+application for a conformity assessment certificate under Part&#160;4-4.</dd> <dt>(2)</dt><dd>The regulations may prescribe different levels of conformity assessment fees in relation to any one or more of the following: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>different kinds of manufacturers;</dd>
+
+<dt>(b)</dt><dd>different kinds of medical devices;</dd>
+
+<dt>(c)</dt><dd>different parts of the conformity assessment procedures that are
+
+considered in relation to an application for a conformity assessment
+
+certificate under Part&#160;4-4.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>An application audit assessment fee specified in or determined in
+
+accordance with the regulations is payable by a person in respect of the
+
+auditing of an application for inclusion of a kind of medical device in the
+
+Register under Part&#160;4-5, if paragraph 41FH(1)(a) required the Secretary to
+
+select the application for audit.</dd> <dt>(4)</dt><dd>The regulations may prescribe different levels of application audit assessment fees in relation to any one or more of the following: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>different kinds of manufacturers;</dd>
+
+<dt>(b)</dt><dd>different kinds of medical devices;</dd>
+
+<dt>(c)</dt><dd>different levels of assessment of kinds of medical devices.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The application audit assessment fee payable because of
+
+subsection&#160;(3) is payable only in respect of considering the matters set
+
+out in subsection 41FI(1).
+
+</dd> </dl></dl>
+
+41LB  When assessment fee due for payment
+
+<dl compact=""><dl compact="">
+
+		Subject to sections&#160;41LC and 41LE, an assessment fee payable by an
+
+applicant is due and payable on the day, and in the manner, specified in the
+
+regulations.
+
+ </dl></dl>
+
+41LC  Payment of assessment fee by instalments
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The regulations may provide for the payment of an assessment fee to be
+
+made by such instalments and at such times as are ascertained in accordance
+
+with the regulations, and the assessment fee is due and payable accordingly.</dd> <dt>(2)</dt><dd>Regulations made for the purposes of subsection&#160;(1) may provide that a person is not allowed to pay an assessment fee by instalments if any part of an instalment of: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that or any other assessment fee payable by the person; or</dd>
+
+<dt>(b)</dt><dd>any evaluation fee under section&#160;24 payable by the person;
+
+</dd>
+
+</dl></dl></dl>
 
 was unpaid immediately after the time when it became due for payment.
 
-             (3)  Subsection (2) does not limit the generality of subsection (1).
+<dl compact=""><dl compact="">
 
-##### <a id="41LD"></a>41LD  Recovery of assessment fee
+<dt>(3)</dt><dd>Subsection&#160;(2) does not limit the generality of subsection&#160;(1).
 
-                   An assessment fee may be recovered by the Commonwealth as a debt due to the Commonwealth.
+</dd> </dl></dl>
 
-##### <a id="41LE"></a>41LE  Reduction of conformity assessment fee where decision not made within prescribed period
+41LD  Recovery of assessment fee
 
-             (1)  Nothing in section 41LA, 41LB or 41LC requires the applicant to pay more than 3/4 of the conformity assessment fee before the making of the decision if:
+<dl compact=""><dl compact="">
 
-                     (a)  the application is for the issuing of a conformity assessment certificate under Part 4-4; and
+		An assessment fee may be recovered by the Commonwealth as a debt due to the
 
-                     (b)  consideration of the application will involve an examination of the design of medical devices; and
+Commonwealth.
 
-                     (c)  a period is prescribed under paragraph 63(2)(dc) for making a decision on the application.
+ </dl></dl>
 
-             (2)  If the decision is not made within that period, the conformity assessment fee is 3/4 of the fee that, apart from this subsection, would have been the conformity assessment fee.
+41LE  Reduction of conformity assessment fee where decision not made within prescribed period
 
-             (3)  If:
+<dl compact=""><dl compact="">
 
-                     (a)  the decision is made within that period; and
+<dt>(1)</dt><dd>Nothing in section&#160;41LA, 41LB or 41LC requires the applicant to pay
 
-                     (b)  part of the conformity assessment fee under section 41LA is, because of subsection (1) of this section, unpaid when the decision is made;
+more than <sup>3</sup>/4 of the conformity assessment fee before the making of
+
+the decision if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the application is for the issuing of a conformity assessment certificate
+
+under Part&#160;4-4; and</dd>
+
+<dt>(b)</dt><dd>consideration of the application will involve an examination of the design
+
+of medical devices; and</dd>
+
+<dt>(c)</dt><dd>a period is prescribed under paragraph 63(2)(dc) for making a decision on
+
+the application.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If the decision is not made within that period, the conformity assessment
+
+fee is <sup>3</sup>/4 of the fee that, apart from this subsection, would have
+
+been the conformity assessment fee.</dd> <dt>(3)</dt><dd>If: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the decision is made within that period; and</dd>
+
+<dt>(b)</dt><dd>part of the conformity assessment fee under section&#160;41LA is, because
+
+of subsection&#160;(1) of this section, unpaid when the decision is made;
+
+</dd>
+
+</dl></dl></dl>
 
 that part becomes due and payable on the making of the decision.
 
-             (4)  For the purposes of this section, a decision is taken to be made on the application when the applicant is notified under subsection 41EE(1) of the Secretary’s decision on the application.
+<dl compact=""><dl compact="">
 
-## Part 4-11—Offences relating to medical devices
+<dt>(4)</dt><dd>For the purposes of this section, a decision is taken to be made on the
 
-##### <a id="41M"></a>41M  What this Part is about
+application when the applicant is notified under subsection 41EE(1) of the
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+Secretary's decision on the application.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+Part&#160;4-11&#151;Offences relating to medical devices
+ 41M  What this Part is about
 
 This Part contains offences that are aimed at ensuring that:
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      the essential principles are complied with (see Division 1);</li>
+*	the essential principles are complied with (see Division&#160;1);
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      the conformity assessment procedures have been applied to kinds of medical devices (see Division 2);</li>
+*	the conformity assessment procedures have been applied to kinds of medical devices (see Division&#160;2);
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      administrative processes put in place by Parts 4-4 to 4-9 are followed (see Divisions 3 and 4).</li></div>
+*	administrative processes put in place by Parts&#160;4-4 to 4-9 are followed (see Divisions&#160;3 and 4).
 
-Note:          There are also some offences in the earlier Parts of this Chapter. They generally relate to matters ancillary to administrative processes in those Parts (e.g. false or misleading statements in applications).
+<dl compact=""><dl compact="">
 
-### Division 1—Non-compliance with essential principles
+Note:	There are also some offences in the earlier Parts of this
 
-##### <a id="41MA"></a>41MA  Non-compliance with essential principles
+Chapter. They generally relate to matters ancillary to administrative processes
 
-             (1)  A person is guilty of an offence if:
+in those Parts (e.g. false or misleading statements in applications).
 
-                     (a)  the person imports a medical device into Australia; and
+ </dl></dl>
 
-                     (b)  the medical device does not comply with the essential principles relating to matters other than the labelling of the device; and
+Division&#160;1&#151;Non-compliance with essential principles
+ 41MA  Non-compliance with essential principles
 
-                     (c)  the Secretary has not consented to the importation.
+<dl compact=""><dl compact="">
 
-                    Maximum penalty:    240 penalty units.
+<dt>(1)</dt><dd>A person is guilty of an offence if:
 
-             (2)  A person is guilty of an offence if:
+</dd> </dl></dl>
 
-                     (a)  the person supplies a medical device for use in Australia; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the medical device does not comply with the essential principles; and
+<dt>(a)</dt><dd>the person imports a medical device into Australia; and</dd>
 
-                     (c)  the Secretary has not consented to the supply.
+<dt>(b)</dt><dd>the medical device does not comply with the essential principles relating
 
-                    Maximum penalty:    240 penalty units.
+to matters other than the labelling of the device; and</dd>
 
-             (3)  A person is guilty of an offence if:
+<dt>(c)</dt><dd>the Secretary has not consented to the importation.
 
-                     (a)  the person exports a medical device from Australia; and
+</dd>
 
-                     (b)  the medical device does not comply with the essential principles; and
+</dl></dl></dl>
 
-                     (c)  the Secretary has not consented to the exportation.
+Maximum penalty:	240 penalty units.
 
-                    Maximum penalty:    240 penalty units.
+<dl compact=""><dl compact="">
 
-             (4)  Paragraph (3)(b) does not apply to the extent that the essential principles in question relate to labelling medical devices for supply in Australia.
+<dt>(2)</dt><dd>A person is guilty of an offence if:
 
-Note:          A defendant bears an evidential burden in relation to the matters in this subsection (see subsection 13.3(3) of the _Criminal Code_).
+</dd> </dl></dl>
 
-             (5)  The Secretary must not give consent relating to an exportation unless satisfied that there are exceptional circumstances that justify giving the consent.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41MB"></a>41MB  Exceptions
+<dt>(a)</dt><dd>the person supplies a medical device for use in Australia; and</dd>
 
-             (1)  Section 41MA does not apply if:
+<dt>(b)</dt><dd>the medical device does not comply with the essential principles; and</dd>
 
-                     (a)  the medical device complies with one or more medical device standards that apply to it; and
+<dt>(c)</dt><dd>the Secretary has not consented to the supply.
 
-                     (b)  the medical device fails to comply with the essential principles only in respect of a part or parts of the essential principles to which that medical device standard, or one or more of those medical device standards, relate.
+</dd>
 
-Note:          Medical device standards are determined under Division 2 of Part 4-2.
+</dl></dl></dl>
 
-             (2)  For the purposes of this section, a medical device standard relates to a part or parts of the essential principles only if the standard specifies that part or parts.
+Maximum penalty:	240 penalty units.
 
-Note:          A defendant bears an evidential burden in relation to the matters in this section (see subsection 13.3(3) of the _Criminal Code_).
+<dl compact=""><dl compact="">
 
-##### <a id="41MC"></a>41MC  Consent may be subject to conditions etc.
+<dt>(3)</dt><dd>A person is guilty of an offence if:
 
-             (1)  The consent of the Secretary under section 41MA may be given:
+</dd> </dl></dl>
 
-                     (a)  unconditionally or subject to conditions; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  in respect of particular medical devices or kinds of medical devices.
+<dt>(a)</dt><dd>the person exports a medical device from Australia; and</dd>
 
-             (2)  A person is guilty of an offence if:
+<dt>(b)</dt><dd>the medical device does not comply with the essential principles; and</dd>
 
-                     (a)  the person does an act, or omits to do an act; and
+<dt>(c)</dt><dd>the Secretary has not consented to the exportation.
 
-                     (b)  the act or omission constitutes a breach of a condition of such a consent.
+</dd>
 
-                    Maximum penalty:    120 penalty units.
+</dl></dl></dl>
 
-##### <a id="41MD"></a>41MD  Treating medical devices as prohibited imports or exports
+Maximum penalty:	240 penalty units.
 
-                   If:
+<dl compact=""><dl compact="">
 
-                     (a)  the importation or exportation of a medical device is prohibited under subsection 41MA(1) or (3); and
+<dt>(4)</dt><dd>Paragraph&#160;(3)(b) does not apply to the extent that the essential
 
-                     (b)  the Secretary notifies the Chief Executive Officer of Customs in writing that the Secretary wishes the _Customs Act 1901_ to apply to that importation or exportation;
+principles in question relate to labelling medical devices for supply in
 
-the _Customs Act 1901_ has effect as if the device included in that importation or exportation were goods described as forfeited to the Crown under section 229 of that Act because they were:
+Australia.
 
-                     (c)  prohibited imports within the meaning of that Act; or
+</dd> </dl></dl>
 
-                     (d)  prohibited exports within the meaning of that Act;
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matters in this subsection&#160;(see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The Secretary must not give consent relating to an exportation unless
+
+satisfied that there are exceptional circumstances that justify giving the
+
+consent.
+
+</dd> </dl></dl>
+
+41MB  Exceptions
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Section&#160;41MA does not apply if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the medical device complies with one or more medical device standards that
+
+apply to it; and</dd>
+
+<dt>(b)</dt><dd>the medical device fails to comply with the essential principles only in
+
+respect of a part or parts of the essential principles to which that medical
+
+device standard, or one or more of those medical device standards, relate.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+Note:	Medical device standards are determined under
+
+Division&#160;2 of Part&#160;4-2.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of this section, a medical device standard relates to a
+
+part or parts of the essential principles only if the standard specifies that
+
+part or parts.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matters in this section (see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+41MC  Consent may be subject to conditions etc.
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The consent of the Secretary under section&#160;41MA may be given:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>unconditionally or subject to conditions; or</dd>
+
+<dt>(b)</dt><dd>in respect of particular medical devices or kinds of medical devices.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A person is guilty of an offence if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person does an act, or omits to do an act; and</dd>
+
+<dt>(b)</dt><dd>the act or omission constitutes a breach of a condition of such a consent.
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	120 penalty units.
+
+41MD  Treating medical devices as prohibited imports or exports
+
+<dl compact=""><dl compact="">
+
+		If:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the importation or exportation of a medical device is prohibited under
+
+subsection 41MA(1) or (3); and</dd>
+
+<dt>(b)</dt><dd>the Secretary notifies the Chief Executive Officer of Customs in writing
+
+that the Secretary wishes the _Customs Act 1901_ to apply to that
+
+importation or exportation;
+
+</dd>
+
+</dl></dl></dl>
+
+the _Customs Act 1901_ has effect as if the device included in that importation or exportation were goods described as forfeited to the Crown under section&#160;229 of that Act because they were:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>prohibited imports within the meaning of that Act; or</dd>
+
+<dt>(d)</dt><dd>prohibited exports within the meaning of that Act;
+
+</dd>
+
+</dl></dl></dl>
 
 as the case requires.
 
-### Division 2—Failure to apply conformity assessment procedures
+Division&#160;2&#151;Failure to apply conformity assessment procedures
+ 41ME  Failure to apply conformity assessment procedures&#151;manufacturers
 
-##### <a id="41ME"></a>41ME  Failure to apply conformity assessment procedures—manufacturers
+<dl compact=""><dl compact="">
 
-             (1)  A person is guilty of an offence if:
+<dt>(1)</dt><dd>A person is guilty of an offence if:
 
-                     (a)  the person supplies in Australia a medical device that the person has manufactured; and
+</dd> </dl></dl>
 
-                     (b)  the conformity assessment procedures have not been applied to the device.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    Maximum penalty:    240 penalty units.
+<dt>(a)</dt><dd>the person supplies in Australia a medical device that the person has
 
-             (2)  A person is guilty of an offence if:
+manufactured; and</dd>
 
-                     (a)  the person exports from Australia a medical device that the person has manufactured; and
+<dt>(b)</dt><dd>the conformity assessment procedures have not been applied to the device.
 
-                     (b)  the conformity assessment procedures have not been applied to the device.
+</dd>
 
-                    Maximum penalty:    240 penalty units.
+</dl></dl></dl>
 
-##### <a id="41MF"></a>41MF  Failure to apply conformity assessment procedures—sponsors
+Maximum penalty:	240 penalty units.
 
-             (1)  A person is guilty of an offence if:
+<dl compact=""><dl compact="">
 
-                     (a)  the person supplies a medical device in Australia; and
+<dt>(2)</dt><dd>A person is guilty of an offence if:
 
-                     (b)  the conformity assessment procedures have not been applied to the device.
+</dd> </dl></dl>
 
-                    Maximum penalty:    240 penalty units.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  A person is guilty of an offence if:
+<dt>(a)</dt><dd>the person exports from Australia a medical device that the person has
 
-                     (a)  the person exports a medical device from Australia; and
+manufactured; and</dd>
 
-                     (b)  the conformity assessment procedures have not been applied to the device.
+<dt>(b)</dt><dd>the conformity assessment procedures have not been applied to the device.
 
-                    Maximum penalty:    240 penalty units.
+</dd>
 
-             (3)  This section does not apply if the defendant was not the sponsor of the device at the time of the supply or export, as the case may be.
+</dl></dl></dl>
 
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+<center>Back to Top</center>
 
-##### <a id="41MG"></a>41MG  Exceptions
+Maximum penalty:	240 penalty units.
 
-             (1)  Sections 41ME and 41MF do not apply to the extent that:
+41MF  Failure to apply conformity assessment procedures&#151;sponsors
 
-                     (a)  the quality management systems applied to the medical device comply with one or more conformity assessment standards that apply to them; and
+<dl compact=""><dl compact="">
 
-                     (b)  the conformity assessment procedures have not been applied to the device only in respect of a part or parts of the conformity assessment procedures to which one or more of those conformity assessment standards relate.
+<dt>(1)</dt><dd>A person is guilty of an offence if:
 
-Note:          Conformity assessment standards are determined under Division 2 of Part 4-3.
+</dd> </dl></dl>
 
-             (2)  For the purposes of this section, a conformity assessment standard relates to a part or parts of the conformity assessment procedures only if the standard specifies that part or parts.
+<dl compact=""><dl compact=""><dl compact="">
 
-Note:          A defendant bears an evidential burden in relation to the matters in this section (see subsection 13.3(3) of the _Criminal Code_).
+<dt>(a)</dt><dd>the person supplies a medical device in Australia; and</dd>
 
-##### <a id="41MH"></a>41MH  False statements in declarations
+<dt>(b)</dt><dd>the conformity assessment procedures have not been applied to the device.
 
-                   A person is guilty of an offence if:
+</dd>
 
-                     (a)  the person makes a statement in or in connection with a declaration, relating to the application of conformity assessment procedures to a medical device that the person has manufactured; and
+</dl></dl></dl>
 
-                     (b)  the statement is false or misleading in a material particular.
+Maximum penalty:	240 penalty units.
 
-                    Maximum penalty:    400 penalty units.
+<dl compact=""><dl compact="">
 
-### Division 3—Medical devices not included in the Register and related matters
+<dt>(2)</dt><dd>A person is guilty of an offence if:
 
-##### <a id="41MI"></a>41MI  Importation, exportation, supply or manufacture of medical devices not included in the Register
+</dd> </dl></dl>
 
-             (1)  A person is guilty of an offence if:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the person:
+<dt>(a)</dt><dd>the person exports a medical device from Australia; and</dd>
 
-                              (i)  imports a medical device into Australia; or
+<dt>(b)</dt><dd>the conformity assessment procedures have not been applied to the device.
 
-                             (ii)  exports a medical device from Australia; or
+</dd>
 
-                            (iii)  supplies a medical device in Australia; or
+</dl></dl></dl>
 
-                            (iv)  manufactures a medical device in Australia; and
+Maximum penalty:	240 penalty units.
 
-                     (b)  none of the following subparagraphs applies in relation to the device:
+<dl compact=""><dl compact="">
 
-                              (i)  the device is of a kind included in the Register in relation to the person;
+<dt>(3)</dt><dd>This section does not apply if the defendant was not the sponsor of the
 
-                             (ii)  the device is an exempt device;
+device at the time of the supply or export, as the case may be.
 
-                            (iii)  the device is the subject of an approval under section 41HB or an authority under section 41HC.
+</dd> </dl></dl>
 
-                    Maximum penalty:    240 penalty units.
+<dl compact=""><dl compact="">
 
-             (2)  Strict liability applies to paragraph (1)(b).
+Note:	A defendant bears an evidential burden in relation to the
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+matters in subsection&#160;(3) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (3)  Subsection (1) does not apply if the defendant proves that the defendant was not the sponsor of the device at the time of the importation, export, supply, or manufacture, as the case may be.
+ </dl></dl>
 
-Note:          A defendant bears a legal burden in relation to the matters in subsection (3) (see section 13.4 of the _Criminal Code_).
+41MG  Exceptions
 
-##### <a id="41MJ"></a>41MJ  Treating medical devices as prohibited imports or exports
+<dl compact=""><dl compact="">
 
-                   If:
+<dt>(1)</dt><dd>Sections&#160;41ME and 41MF do not apply to the extent that:
 
-                     (a)  the importation or exportation of a medical device is prohibited under subsection 41MI(1); and
+</dd> </dl></dl>
 
-                     (b)  the Secretary notifies the Chief Executive Officer of Customs in writing that the Secretary wishes the _Customs Act 1901_ to apply to that importation or exportation;
+<dl compact=""><dl compact=""><dl compact="">
 
-the _Customs Act 1901_ has effect as if the device included in that importation or exportation were goods described as forfeited to the Crown under section 229 of that Act because they were:
+<dt>(a)</dt><dd>the quality management systems applied to the medical device comply with
 
-                     (c)  prohibited imports within the meaning of that Act; or
+one or more conformity assessment standards that apply to them; and</dd>
 
-                     (d)  prohibited exports within the meaning of that Act;
+<dt>(b)</dt><dd>the conformity assessment procedures have not been applied to the device
+
+only in respect of a part or parts of the conformity assessment procedures to
+
+which one or more of those conformity assessment standards relate.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Conformity assessment standards are determined under
+
+Division&#160;2 of Part&#160;4-3.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of this section, a conformity assessment standard relates
+
+to a part or parts of the conformity assessment procedures only if the standard
+
+specifies that part or parts.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matters in this section (see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+41MH  False statements in declarations
+
+<dl compact=""><dl compact="">
+
+		A person is guilty of an offence if:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person makes a statement in or in connection with a declaration,
+
+relating to the application of conformity assessment procedures to a medical
+
+device that the person has manufactured; and</dd>
+
+<dt>(b)</dt><dd>the statement is false or misleading in a material particular.
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	400 penalty units.
+
+Division&#160;3&#151;Medical devices not included in the Register and related matters
+ 41MI  Importation, exportation, supply or manufacture of medical devices not included in the Register
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person is guilty of an offence if:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>imports a medical device into Australia; or</dd>
+
+<dt>(ii)</dt><dd>exports a medical device from Australia; or</dd>
+
+<dt>(iii)</dt><dd>supplies a medical device in Australia; or</dd>
+
+<dt>(iv)</dt><dd>manufactures a medical device in Australia; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>none of the following subparagraphs applies in relation to the device:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the device is of a kind included in the Register in relation to the
+
+person;</dd>
+
+<dt>(ii)</dt><dd>the device is an exempt device;</dd>
+
+<dt>(iii)</dt><dd>the device is the subject of an approval under section&#160;41HB or an
+
+authority under section&#160;41HC.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+Maximum penalty:	240 penalty units.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Strict liability applies to paragraph&#160;(1)(b).
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	For _strict liability_, see section&#160;6.1 of
+
+the _Criminal Code_.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Subsection&#160;(1) does not apply if the defendant proves that the
+
+defendant was not the sponsor of the device at the time of the importation,
+
+export, supply, or manufacture, as the case may be.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears a legal burden in relation to the matters
+
+in subsection&#160;(3) (see section&#160;13.4 of the _Criminal Code_).
+
+ </dl></dl>
+
+41MJ  Treating medical devices as prohibited imports or exports
+
+<dl compact=""><dl compact="">
+
+		If:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the importation or exportation of a medical device is prohibited under
+
+subsection 41MI(1); and</dd>
+
+<dt>(b)</dt><dd>the Secretary notifies the Chief Executive Officer of Customs in writing
+
+that the Secretary wishes the _Customs Act 1901_ to apply to that
+
+importation or exportation;
+
+</dd>
+
+</dl></dl></dl>
+
+the _Customs Act 1901_ has effect as if the device included in that importation or exportation were goods described as forfeited to the Crown under section&#160;229 of that Act because they were:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>prohibited imports within the meaning of that Act; or</dd>
+
+<dt>(d)</dt><dd>prohibited exports within the meaning of that Act;
+
+</dd>
+
+</dl></dl></dl>
 
 as the case requires.
 
-##### <a id="41MK"></a>41MK  Wholesale supply of medical devices not included in the Register
+41MK  Wholesale supply of medical devices not included in the Register
 
-                   A person is guilty of an offence if:
+<dl compact=""><dl compact="">
 
-                     (a)  the person supplies a medical device in Australia; and
+		A person is guilty of an offence if:
 
-                     (b)  none of the following subparagraphs applies in relation to the device:
+ </dl></dl>
 
-                              (i)  the device is of a kind included in the Register;
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  the device is an exempt device;
+<dt>(a)</dt><dd>the person supplies a medical device in Australia; and</dd>
 
-                            (iii)  the device is the subject of an approval under section 41HB or an authority under section 41HC; and
+<dt>(b)</dt><dd>none of the following subparagraphs applies in relation to the device:
 
-                     (c)  the person to whom the device is supplied is not the ultimate consumer of the device.
+</dd>
 
-                    Maximum penalty:    120 penalty units.
+</dl></dl></dl>
 
-##### <a id="41ML"></a>41ML  Misrepresentations etc. about medical devices
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (1)  A person is guilty of an offence if:
+<dt>(i)</dt><dd>the device is of a kind included in the Register;</dd>
 
-                     (a)  the person makes a representation of a kind referred to in subsection (2); and
+<dt>(ii)</dt><dd>the device is an exempt device;</dd>
 
-                     (b)  the representation is false or misleading.
+<dt>(iii)</dt><dd>the device is the subject of an approval under section&#160;41HB or an
 
-                    Maximum penalty:    60 penalty units.
+authority under section&#160;41HC; and
 
-             (2)  Subsection (1) applies to these representations:
+</dd>
 
-                     (a)  representations that medical devices are of a kind included in the Register;
+</dl></dl></dl></dl>
 
-                     (b)  representations that medical devices are exempt devices;
+<center>Back to Top</center>
 
-                     (c)  representations that medical devices are the subject of an approval under section 41HB or an authority under section 41HC.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  A person is guilty of an offence if:
+<dt>(c)</dt><dd>the person to whom the device is supplied is not the ultimate consumer of
 
-                     (a)  a kind of medical device is included in the Register in respect of a person; and
+the device.
 
-                     (b)  the person, by any means, advertises the goods as being for a purpose other than that accepted in relation to that inclusion.
+</dd>
 
-                    Maximum penalty:    60 penalty units.
+</dl></dl></dl>
 
-##### <a id="41MM"></a>41MM  Claims about arranging supplies of medical devices not included in the Register
+Maximum penalty:	120 penalty units.
 
-                   A person is guilty of an offence if:
+41ML  Misrepresentations etc. about medical devices
 
-                     (a)  the person claims, by any means, that the person or another person can arrange the supply of medical devices; and
+<dl compact=""><dl compact="">
 
-                     (b)  the devices are not:
+<dt>(1)</dt><dd>A person is guilty of an offence if:
 
-                              (i)  medical devices of a kind included in the Register; or
+</dd> </dl></dl>
 
-                             (ii)  exempt devices.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    Maximum penalty:    60 penalty units.
+<dt>(a)</dt><dd>the person makes a representation of a kind referred to in
 
-##### <a id="41MN"></a>41MN  Breaches of conditions
+subsection&#160;(2); and</dd>
 
-             (1)  A person is guilty of an offence if:
+<dt>(b)</dt><dd>the representation is false or misleading.
 
-                     (a)  a kind of medical device is included in the Register in relation to the person; and
+</dd>
 
-                     (b)  the person does an act, or omits to do an act; and
+</dl></dl></dl>
 
-                     (c)  the act or omission constitutes a breach of a condition of the inclusion of the kind of device in the Register.
+Maximum penalty:	60 penalty units.
 
-                    Maximum penalty:    60 penalty units.
+<dl compact=""><dl compact="">
 
-             (2)  A person is guilty of an offence if:
+<dt>(2)</dt><dd>Subsection&#160;(1) applies to these representations:
 
-                     (a)  a conformity assessment certificate is issued in respect of a person; and
+</dd> </dl></dl>
 
-                     (b)  the person does an act, or omits to do an act; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  the act or omission constitutes a breach of a condition of the conformity assessment certificate.
+<dt>(a)</dt><dd>representations that medical devices are of a kind included in the
 
-                    Maximum penalty:    60 penalty units.
+Register;</dd>
 
-             (3)  A person is guilty of an offence if:
+<dt>(b)</dt><dd>representations that medical devices are exempt devices;</dd>
 
-                     (a)  the person does an act, or omits to do an act; and
+<dt>(c)</dt><dd>representations that medical devices are the subject of an approval under
 
-                     (b)  the act or omission constitutes a breach of:
+section&#160;41HB or an authority under section&#160;41HC.
 
-                              (i)  a condition of an exemption applicable under regulations made for the purposes of section 41HA; or
+</dd>
 
-                             (ii)  a condition of an approval under section 41HB; or
+</dl></dl></dl>
 
-                            (iii)  a condition applicable under regulations made for the purposes of subsection 41HB(7).
+<dl compact=""><dl compact="">
 
-                    Maximum penalty:    60 penalty units.
+<dt>(3)</dt><dd>A person is guilty of an offence if:
 
-### Division 4—Other offences
+</dd> </dl></dl>
 
-##### <a id="41MO"></a>41MO  Misuse of medical devices exempted for special or experimental uses
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  A person is guilty of an offence if he or she:
+<dt>(a)</dt><dd>a kind of medical device is included in the Register in respect of a
 
-                     (a)  has been granted an authority under section 41HC relating to a specified kind of medical device; and
+person; and</dd>
 
-                     (b)  supplies a medical device of that kind:
+<dt>(b)</dt><dd>the person, by any means, advertises the goods as being for a purpose
 
-                              (i)  other than in accordance with the authority; or
+other than that accepted in relation to that inclusion.
 
-                             (ii)  other than  in accordance with any conditions to which the authority is subject; or
+</dd>
 
-                            (iii)  other than  in accordance with any regulations made for the purpose of subsection 41HC(5).
+</dl></dl></dl>
 
-                    Maximum penalty:    60 penalty units.
+Maximum penalty:	60 penalty units.
 
-             (2)  A person is guilty of an offence if:
+41MM  Claims about arranging supplies of medical devices not included in the Register
 
-                     (a)  he or she has been granted an approval under section 41HB relating to a specified medical device or specified kind of medical device; and
+<dl compact=""><dl compact="">
 
-                     (b)  he or she uses a medical device of that kind:
+		A person is guilty of an offence if:
 
-                              (i)  in the treatment of another person; or
+ </dl></dl>
 
-                             (ii)  solely for experimental purposes in humans;
+<dl compact=""><dl compact=""><dl compact="">
 
-                            in a way that is not in accordance with the approval.
+<dt>(a)</dt><dd>the person claims, by any means, that the person or another person can
 
-                    Maximum penalty:    60 penalty units.
+arrange the supply of medical devices; and</dd>
 
-##### <a id="41MP"></a>41MP  Notification of adverse events etc.
+<dt>(b)</dt><dd>the devices are not:
 
-             (1)  A person is guilty of an offence if:
+</dd>
 
-                     (a)  the person is a person in relation to whom a kind of medical device is included in the Register; and
+</dl></dl></dl>
 
-                     (b)  the person knows that particular information is information of a kind mentioned in subsection (2); and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  the person fails to give that information to the Secretary within the period specified in the regulations (whether or not the person has already given to the Secretary other information relating to the same matter).
+<dt>(i)</dt><dd>medical devices of a kind included in the Register; or</dd>
 
-                    Maximum penalty:    400 penalty units.
+<dt>(ii)</dt><dd>exempt devices.
 
-             (2)  The information with which subsection (1) is concerned is information of the following kinds:
+</dd>
 
-                     (a)  information relating to:
+</dl></dl></dl></dl>
 
-                              (i)  any malfunction or deterioration in the characteristics or performance of a kind of device; or
+Maximum penalty:	60 penalty units.
 
-                             (ii)  any inadequacy in the design, production, labelling, instructions for use or advertising materials of a kind of device; or
+41MN  Breaches of conditions
 
-                            (iii)  any use in accordance with, or contrary to, the use intended by the manufacturer of the kind of device;
+<dl compact=""><dl compact="">
 
-                            that might lead, or might have led, to the death of a patient or a user of the device, or to a serious deterioration in his or her state of health;
+<dt>(1)</dt><dd>A person is guilty of an offence if:
 
-                     (b)  information relating to any technical or medical reason for a malfunction or deterioration of a kind referred to in subparagraph (a)(i) that has led the manufacturer to take steps to recover devices of that kind that have been distributed;
+</dd> </dl></dl>
 
-                     (c)  information that indicates that a device of that kind does not comply with the essential principles;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  information that indicates that a certificate (other than one issued under this Act) used for the purpose of an application under subsection 41FC(1) to signify:
+<dt>(a)</dt><dd>a kind of medical device is included in the Register in relation to the
 
-                              (i)  compliance with the essential principles; or
+person; and</dd>
 
-                             (ii)  the application of relevant conformity assessment procedures to a particular device;
+<dt>(b)</dt><dd>the person does an act, or omits to do an act; and</dd>
 
-                            has been restricted, suspended, revoked or is no longer in effect.
+<dt>(c)</dt><dd>the act or omission constitutes a breach of a condition of the inclusion
 
-##### <a id="41MQ"></a>41MQ  Notification of adverse events etc. where application withdrawn or lapses
+of the kind of device in the Register.
 
-             (1)  If an application for inclusion of a kind of medical device in the Register is withdrawn or lapses, the Secretary may give the applicant written notice requiring the applicant:
+</dd>
 
-                     (a)  to inform the Secretary in writing whether the applicant is aware of any information of a kind mentioned in subsection 41MP(2) relating to the kind of device; and
+</dl></dl></dl>
 
-                     (b)  if the applicant is aware of such information, to give the information to the Secretary in writing.
+Maximum penalty:	60 penalty units.
 
-             (2)  Notice under subsection (1) may only be given within 10 working days after an application is withdrawn or lapses.
+<dl compact=""><dl compact="">
 
-             (3)  A person is guilty of an offence if the person fails to comply with the requirements of a notice under subsection (1) within 20 working days after the notice is given to the person.
+<dt>(2)</dt><dd>A person is guilty of an offence if:
 
-                    Maximum penalty:    400 penalty units.
+</dd> </dl></dl>
 
-             (4)  A person is guilty of an offence if:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the person gives information in purported compliance with a notice under this section; and
+<dt>(a)</dt><dd>a conformity assessment certificate is issued in respect of a person;
 
-                     (b)  the information is false or misleading in a material particular.
+and</dd>
 
-                    Maximum penalty:    400 penalty units.
+<dt>(b)</dt><dd>the person does an act, or omits to do an act; and</dd>
 
-## 60  Part 4A (heading)
+<dt>(c)</dt><dd>the act or omission constitutes a breach of a condition of the conformity
+
+assessment certificate.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+Maximum penalty:	60 penalty units.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>A person is guilty of an offence if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person does an act, or omits to do an act; and</dd>
+
+<dt>(b)</dt><dd>the act or omission constitutes a breach of:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a condition of an exemption applicable under regulations made for the
+
+purposes of section&#160;41HA; or</dd>
+
+<dt>(ii)</dt><dd>a condition of an approval under section&#160;41HB; or</dd>
+
+<dt>(iii)</dt><dd>a condition applicable under regulations made for the purposes of
+
+subsection 41HB(7).
+
+</dd>
+
+</dl></dl></dl></dl>
+
+Maximum penalty:	60 penalty units.
+
+Division&#160;4&#151;Other offences
+ 41MO  Misuse of medical devices exempted for special or experimental uses
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person is guilty of an offence if he or she:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>has been granted an authority under section&#160;41HC relating to a
+
+specified kind of medical device; and</dd>
+
+<dt>(b)</dt><dd>supplies a medical device of that kind:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>other than in accordance with the authority; or</dd>
+
+<dt>(ii)</dt><dd>other than  in accordance with any conditions to which the
+
+authority is subject; or</dd>
+
+<dt>(iii)</dt><dd>other than  in accordance with any regulations made for the
+
+purpose of subsection 41HC(5).
+
+</dd>
+
+</dl></dl></dl></dl>
+
+Maximum penalty:	60 penalty units.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A person is guilty of an offence if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>he or she has been granted an approval under section&#160;41HB relating to
+
+a specified medical device or specified kind of medical device; and</dd>
+
+<dt>(b)</dt><dd>he or she uses a medical device of that kind:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>in the treatment of another person; or</dd>
+
+<dt>(ii)</dt><dd>solely for experimental purposes in humans;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		in a way that is not in accordance with the approval.
+
+</dl></dl></dl>
+
+Maximum penalty:	60 penalty units.
+
+41MP  Notification of adverse events etc.
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person is guilty of an offence if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person is a person in relation to whom a kind of medical device is
+
+included in the Register; and</dd>
+
+<dt>(b)</dt><dd>the person knows that particular information is information of a kind
+
+mentioned in subsection&#160;(2); and</dd>
+
+<dt>(c)</dt><dd>the person fails to give that information to the Secretary within the
+
+period specified in the regulations (whether or not the person has already
+
+given to the Secretary other information relating to the same matter).
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	400 penalty units.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The information with which subsection&#160;(1) is concerned is information
+
+of the following kinds:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>information relating to:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>any malfunction or deterioration in the characteristics or performance of
+
+a kind of device; or</dd>
+
+<dt>(ii)</dt><dd>any inadequacy in the design, production, labelling, instructions for use
+
+or advertising materials of a kind of device; or</dd>
+
+<dt>(iii)</dt><dd>any use in accordance with, or contrary to, the use intended by the
+
+manufacturer of the kind of device;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		that might lead, or might have led, to the death of a patient or a user of
+
+the device, or to a serious deterioration in his or her state of health;
+
+<dt>(b)</dt><dd>information relating to any technical or medical reason for a malfunction
+
+or deterioration of a kind referred to in subparagraph&#160;(a)(i) that has led
+
+the manufacturer to take steps to recover devices of that kind that have been
+
+distributed;</dd>
+
+<dt>(c)</dt><dd>information that indicates that a device of that kind does not comply with
+
+the essential principles;</dd>
+
+<dt>(d)</dt><dd>information that indicates that a certificate (other than one issued under
+
+this Act) used for the purpose of an application under subsection 41FC(1) to signify:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>compliance with the essential principles; or</dd>
+
+<dt>(ii)</dt><dd>the application of relevant conformity assessment procedures to a
+
+particular device;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		has been restricted, suspended, revoked or is no longer in effect.
+
+</dl></dl></dl>
+
+41MQ  Notification of adverse events etc. where application withdrawn or lapses
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If an application for inclusion of a kind of medical device in the
+
+Register is withdrawn or lapses, the Secretary may give the applicant written
+
+notice requiring the applicant:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to inform the Secretary in writing whether the applicant is aware of any
+
+information of a kind mentioned in subsection 41MP(2) relating to the kind of
+
+device; and</dd>
+
+<dt>(b)</dt><dd>if the applicant is aware of such information, to give the information to
+
+the Secretary in writing.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Notice under subsection&#160;(1) may only be given within 10 working days
+
+after an application is withdrawn or lapses.</dd> <dt>(3)</dt><dd>A person is guilty of an offence if the person fails to comply with the requirements of a notice under subsection&#160;(1) within 20 working days after the notice is given to the person. </dd> </dl></dl>
+
+Maximum penalty:	400 penalty units.
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>A person is guilty of an offence if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person gives information in purported compliance with a notice under
+
+this section; and</dd>
+
+<dt>(b)</dt><dd>the information is false or misleading in a material particular.
+
+</dd>
+
+</dl></dl></dl>
+
+Maximum penalty:	400 penalty units.
+
+60  Part&#160;4A (heading)
+
+Repeal the heading, substitute: 
+
+Chapter&#160;5&#151;Advertising, counterfeit therapeutic goods and product tampering
+ Part&#160;5-1&#151;Advertising
+ 61  Part&#160;4B (heading)
+
+<center>Back to Top</center>
 
 Repeal the heading, substitute:
 
-# Chapter 5—Advertising, counterfeit therapeutic goods and product tampering
-
-## Part 5-1—Advertising
-
-## 61  Part 4B (heading)
+Part&#160;5-2&#151;Counterfeit therapeutic goods
+ 62  Part&#160;4C (heading)
 
 Repeal the heading, substitute:
 
-## Part 5-2—Counterfeit therapeutic goods
+Part&#160;5-3&#151;Product tampering
+ 63  At the end of subsection 42V(7)
 
-## 62  Part 4C (heading)
+Add "or Division&#160;1 or 2 of Part&#160;4-6".
 
-Repeal the heading, substitute:
+64  Part&#160;5 (heading)
 
-## Part 5-3—Product tampering
+Repeal the heading, substitute: 
 
-## 63  At the end of subsection 42V(7)
+Chapter&#160;6&#151;Administration
+ Part&#160;6-1&#151;Payment of charges
+ 65  Subsection 43(1)
 
-Add “or Division 1 or 2 of Part 4-6”.
+Omit "or annual listing charge", substitute ", annual listing charge or annual charge for inclusion in the Register".
 
-## 64  Part 5 (heading)
+66  Subsection 43(1)
 
-Repeal the heading, substitute:
+Omit "or listed", substitute ", listed or included in the Register".
 
-# Chapter 6—Administration
+67  Subsection 44(1)
 
-## Part 6-1—Payment of charges
+Omit "or annual listing charge", substitute ", annual listing charge or annual charge for inclusion in the Register".
 
-## 65  Subsection 43(1)
+68  Subparagraph 44(1)(b)(i)
 
-Omit “or annual listing charge”, substitute “, annual listing charge or annual charge for inclusion in the Register”.
+Omit "or listing", substitute ", listing or inclusion in the Register".
 
-## 66  Subsection 43(1)
+69  Subparagraph 44(1)(b)(ii)
 
-Omit “or listed”, substitute “, listed or included in the Register”.
+Omit "or listed", substitute ", listed or included in the Register".
 
-## 67  Subsection 44(1)
+70  Subsection 44(3)
 
-Omit “or annual listing charge”, substitute “, annual listing charge or annual charge for inclusion in the Register”.
+After "annual listing charge", insert ", an annual charge for inclusion in the Register".
 
-## 68  Subparagraph 44(1)(b)(i)
+71  Paragraph 45(4)(b)
 
-Omit “or listing”, substitute “, listing or inclusion in the Register”.
+After "annual listing charge", insert ", annual charge for inclusion in the Register".
 
-## 69  Subparagraph 44(1)(b)(ii)
-
-Omit “or listed”, substitute “, listed or included in the Register”.
-
-## 70  Subsection 44(3)
-
-After “annual listing charge”, insert “, an annual charge for inclusion in the Register”.
-
-## 71  Paragraph 45(4)(b)
-
-After “annual listing charge”, insert “, annual charge for inclusion in the Register”.
-
-## 72  Part 5A (heading)
+72  Part&#160;5A (heading)
 
 Repeal the heading, substitute:
 
-## Part 6-2—Entry, searches and warrants
-
-## 73  After subparagraph 46A(4)(a)(ii)
+Part&#160;6-2&#151;Entry, searches and warrants
+ 73  After subparagraph 46A(4)(a)(ii)
 
 Insert:
 
-                           (iia)  who has been granted an approval or authority under section 41HB or 41HC; or
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 74  Subparagraph 46A(4)(a)(iii)
+<dt>(iia)</dt><dd>who has been granted an approval or authority under section&#160;41HB or
 
-Omit “or listed”, substitute “, listed or included in the Register”.
+41HC; or
 
-## 75  Paragraph 46A(4)(b)
+</dd>
 
-Omit “or listed”, substitute “, listed or included in the Register”.
+</dl></dl></dl></dl>
 
-## 76  Paragraph 46A(4)(c)
+74  Subparagraph 46A(4)(a)(iii)
 
-Omit “Part 4 for”, substitute “Part 3-3 for, or a conformity assessment certificate issued under Part 4-4, in relation to”.
+Omit "or listed", substitute ", listed or included in the Register".
 
-## 77  Part 5B (heading)
+75  Paragraph 46A(4)(b)
 
-Repeal the heading, substitute:
+Omit "or listed", substitute ", listed or included in the Register".
 
-## Part 6-3—National Drugs and Poisons Schedule Committee
+76  Paragraph 46A(4)(c)
 
-## 78  Part 5C (heading)
+Omit "Part&#160;4 for", substitute "Part&#160;3-3 for, or a conformity assessment certificate issued under Part&#160;4-4, in relation to".
 
-Repeal the heading, substitute:
-
-## Part 6-4—Complementary medicines
-
-## 79  Part 6 (heading)
+77  Part&#160;5B (heading)
 
 Repeal the heading, substitute:
 
-# Chapter 7—Miscellaneous
+Part&#160;6-3&#151;National Drugs and Poisons Schedule Committee
+ 78  Part&#160;5C (heading)
 
-## 80  Section 53
+Repeal the heading, substitute:
+
+Part&#160;6-4&#151;Complementary medicines
+ 79  Part&#160;6 (heading)
+
+Repeal the heading, substitute: 
+
+Chapter&#160;7&#151;Miscellaneous
+ 80  Section&#160;53
 
 Repeal the section, substitute:
 
-##### <a id="53"></a>53  Retention of material on withdrawal of application
+53  Retention of material on withdrawal of application
 
-                   Where a person withdraws an application for:
+<dl compact=""><dl compact="">
 
-                     (a)  registration; or
+		Where a person withdraws an application for:
 
-                     (b)  listing; or
+ </dl></dl>
 
-                     (c)  a conformity assessment certificate; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  inclusion of a kind of medical device in the Register; or
+<dt>(a)</dt><dd>registration; or</dd>
 
-                     (e)  a licence;
+<dt>(b)</dt><dd>listing; or</dd>
+
+<dt>(c)</dt><dd>a conformity assessment certificate; or</dd>
+
+<dt>(d)</dt><dd>inclusion of a kind of medical device in the Register; or</dd>
+
+<dt>(e)</dt><dd>a licence;
+
+</dd>
+
+</dl></dl></dl>
 
 the Department may retain the application and any material submitted in connection with the application.
 
-## 81  Subsection 54(1)
+81  Subsection 54(1)
 
-Omit “or 29B”, substitute “, 29B, 41FE, 41MP or 41MQ”.
+Omit "or 29B", substitute ", 29B, 41FE, 41MP or 41MQ".
 
-## 82  Section 56
+82  Section&#160;56
 
-After “all courts”, insert “(except in proceedings under Chapter 4)”.
+After "all courts", insert "(except in proceedings under Chapter&#160;4)".
 
-## 83  After paragraph 56A(1)(a)
+83  After paragraph 56A(1)(a)
 
-Insert:
-
-                    (aa)  particular medical devices were not exempt devices;
-
-## 84  After paragraph 56A(1)(b)
+<center>Back to Top</center>
 
 Insert:
 
-                    (ba)  there was no approval or authority in effect under section 41HB or 41HC granted to a particular person in relation to particular medical devices;
+<dl compact=""><dl compact=""><dl compact="">
 
-## 85  After paragraph 56A(1)(e)
+<dt>(aa)</dt><dd>particular medical devices were not exempt devices;
+
+</dd>
+
+</dl></dl></dl>
+
+84  After paragraph 56A(1)(b)
 
 Insert:
 
-                    (ea)  particular medical devices were or were not medical devices of a kind included in the Register; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                    (eb)  particular medical devices were suspended from the Register; or
+<dt>(ba)</dt><dd>there was no approval or authority in effect under section&#160;41HB or
 
-## 86  Paragraph 56A(1)(g)
+41HC granted to a particular person in relation to particular medical devices;
 
-Omit “or listing”, substitute “, listing or inclusion in the Register”.
+</dd>
 
-## 87  Paragraph 56A(1)(i)
+</dl></dl></dl>
 
-Omit “Part 4”, substitute “Part 3-3”.
+85  After paragraph 56A(1)(e)
 
-## 88  At the end of subsection 56A(1)
+Insert:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(ea)</dt><dd>particular medical devices were or were not medical devices of a kind
+
+included in the Register; or</dd>
+
+<dt>(eb)</dt><dd>particular medical devices were suspended from the Register; or
+
+</dd>
+
+</dl></dl></dl>
+
+86  Paragraph 56A(1)(g)
+
+Omit "or listing", substitute ", listing or inclusion in the Register".
+
+87  Paragraph 56A(1)(i)
+
+Omit "Part&#160;4", substitute "Part&#160;3-3".
+
+88  At the end of subsection 56A(1)
 
 Add:
 
-              ; or (m)  a conformity assessment certificate has been issued relating to a particular kind of medical device; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (n)  a conformity assessment certificate was subject to conditions including those specified in the certificate under this section; or
+	; or (m)	a conformity assessment certificate has been issued relating to a
 
-                     (o)  a conformity assessment certificate was suspended.
+particular kind of medical device; or
 
-## 89  Subsection 56A(2)
+<dt>(n)</dt><dd>a conformity assessment certificate was subject to conditions including
 
-Omit “paragraphs (1)(a) to (l)”, substitute “paragraphs (1)(a) to (o)”.
+those specified in the certificate under this section; or</dd>
 
-## 90  Subsection 56A(4)
+<dt>(o)</dt><dd>a conformity assessment certificate was suspended.
 
-After “section 14”, insert “or 41MA”.
+</dd>
 
-## 91  Subsections 57(2) and (3)
+</dl></dl></dl>
 
-After “paragraph 19(1)(a)”, insert “or 41HB(1)(d)”.
+89  Subsection 56A(2)
 
-## 92  Paragraph 57(5)(b)
+Omit "paragraphs&#160;(1)(a) to (l)", substitute "paragraphs&#160;(1)(a) to (o)".
 
-After “paragraph 19(1)(a)”, insert “or 41HB(1)(d)”.
+90  Subsection 56A(4)
 
-## 93  Subsections 57(6) and (7)
+After "section&#160;14", insert "or 41MA".
 
-After “subsection 19(5)”, insert “or 41HC(1)”.
+91  Subsections 57(2) and (3)
 
-## 94  Subsection 60(1) (paragraph (a) of the definition of _initial decision_)
+After "paragraph 19(1)(a)", insert "or 41HB(1)(d)".
 
-After “subsection 7(1)”, insert “or 41BD(3)”.
+92  Paragraph 57(5)(b)
 
-## 95  Subsection 60(1) (after paragraph (a) of the definition of _initial decision_)
+After "paragraph 19(1)(a)", insert "or 41HB(1)(d)".
+
+93  Subsections 57(6) and (7)
+
+After "subsection 19(5)", insert "or 41HC(1)".
+
+94  Subsection 60(1) (paragraph&#160;(a) of the definition of initial decision)
+
+After "subsection 7(1)", insert "or 41BD(3)".
+
+95  Subsection 60(1) (after paragraph&#160;(a) of the definition of initial decision)
 
 Insert:
 
-                    (ab)  under section 9C or 9D; or
+<dl compact=""><dl compact=""><dl compact="">
 
-## 96  Subsection 60(1) (paragraph (c) of the definition of _initial decision_)
+<dt>(ab)</dt><dd>under section&#160;9C or 9D; or
+
+</dd>
+
+</dl></dl></dl>
+
+96  Subsection 60(1) (paragraph&#160;(c) of the definition of initial decision)
 
 Repeal the paragraph, substitute:
 
-                     (c)  under Part 3-2 (registration and listing of therapeutic goods); or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  under Part 3-3 (manufacturing of therapeutic goods); or
+<dt>(c)</dt><dd>under Part&#160;3-2 (registration and listing of therapeutic goods); or</dd>
 
-                     (e)  under Part 4-4 (conformity assessment certificates); or
+<dt>(d)</dt><dd>under Part&#160;3-3 (manufacturing of therapeutic goods); or</dd>
 
-                      (f)  under Part 4-5 (including medical devices in the Register), other than:
+<dt>(e)</dt><dd>under Part&#160;4-4 (conformity assessment certificates); or</dd>
 
-                              (i)  a decision under section 41FH (selecting applications for auditing); or
+<dt>(f)</dt><dd>under Part&#160;4-5 (including medical devices in the Register), other
 
-                             (ii)  a decision about which aspects of the matters referred to in paragraphs 41FI(1)(a) and (b) to consider in auditing an application under Subdivision C of Division 1 of Part 4-5; or
+than:
 
-                     (g)  under Part 4-6 (suspension and cancellation from the Register); or
+</dd>
 
-                     (h)  under Part 4-7 (exempting medical devices from inclusion in the Register); or
+</dl></dl></dl>
 
-                      (i)  under Part 4-8 (obtaining information); or
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                      (j)  under Part 4-9 (public notification and recovery of medical devices); or
+<dt>(i)</dt><dd>a decision under section&#160;41FH (selecting applications for auditing);
 
-                     (k)  refusing to grant, or imposing conditions on a grant of, a consent for the purposes of section 41MA (non-compliance with essential principles).
+or</dd>
 
-## 97  After subsection 60(1)
+<dt>(ii)</dt><dd>a decision about which aspects of the matters referred to in paragraphs
 
-Insert:
+41FI(1)(a) and (b) to consider in auditing an application under Subdivision C
 
-          (1A)  For the avoidance of doubt, the following are not initial decisions for the purposes of this section or section 60A:
+of Division&#160;1 of Part&#160;4-5; or
 
-                     (a)  a proposal to suspend a conformity assessment certificate under section 41EM;
+</dd>
 
-                     (b)  a proposal to revoke a conformity assessment certificate under section 41ET;
+</dl></dl></dl></dl>
 
-                     (c)  a proposal to suspend a kind of medical device from the Register under section 41GA;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  a proposal to cancel the entry of a kind of medical device on the Register under section 41GN.
+<dt>(g)</dt><dd>under Part&#160;4-6 (suspension and cancellation from the Register); or</dd>
 
-## 98  Subsection 60A(1)
+<dt>(h)</dt><dd>under Part&#160;4-7 (exempting medical devices from inclusion in the
 
-After “section 25”, insert “or 41EC”.
+Register); or</dd>
 
-## 99  Before paragraph 60A(6)(a)
+<dt>(i)</dt><dd>under Part&#160;4-8 (obtaining information); or</dd>
 
-Insert:
+<dt>(j)</dt><dd>under Part&#160;4-9 (public notification and recovery of medical devices);
 
-                    (aa)  the matter relates to a decision under section 25; and
+or</dd>
 
-## 100  After subsection 60A(6)
+<dt>(k)</dt><dd>refusing to grant, or imposing conditions on a grant of, a consent for the
 
-Insert:
+purposes of section&#160;41MA (non-compliance with essential principles).
 
-          (6A)  If:
+</dd>
 
-                     (a)  the matter relates to a decision under section 41EC; and
+</dl></dl></dl>
 
-                     (b)  the Minister or the Tribunal remits the matter; and
+<center>Back to Top</center>
 
-                     (c)  the appellant has paid, as a further conformity assessment fee, the conformity assessment fee that the appellant would have to pay under section 41LA on making a new application for a conformity assessment certificate;
-
-the authorised delegate must make a decision under section 41EC, taking into account the new information, as if a fresh application for a conformity assessment certificate had been made.
-
-## 101  Subsection 60A(7)
-
-Omit “Part 3”, substitute “Part 3-2 or 4-4”.
-
-## 102  After subparagraph 61(2)(a)(iii)
+97  After subsection 60(1)
 
 Insert:
 
-                        or (iv)  the issue of, imposition of conditions on, or revocation of, conformity assessment certificates;
+<dl compact=""><dl compact="">
 
-## 103  After paragraph 61(3)(e)
+<dt>(1A)</dt><dd>For the avoidance of doubt, the following are not initial decisions for
+
+the purposes of this section or section&#160;60A:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a proposal to suspend a conformity assessment certificate under
+
+section&#160;41EM;</dd>
+
+<dt>(b)</dt><dd>a proposal to revoke a conformity assessment certificate under
+
+section&#160;41ET;</dd>
+
+<dt>(c)</dt><dd>a proposal to suspend a kind of medical device from the Register under
+
+section&#160;41GA;</dd>
+
+<dt>(d)</dt><dd>a proposal to cancel the entry of a kind of medical device on the Register
+
+under section&#160;41GN.
+
+</dd>
+
+</dl></dl></dl>
+
+98  Subsection 60A(1)
+
+After "section&#160;25", insert "or 41EC".
+
+99  Before paragraph 60A(6)(a)
 
 Insert:
 
-                  or (f)  the issue of, imposition of conditions on, or revocation of, conformity assessment certificates;
+<dl compact=""><dl compact=""><dl compact="">
 
-## 104  Subsection 61(3A)
+<dt>(aa)</dt><dd>the matter relates to a decision under section&#160;25; and
 
-Omit “or 31B”, substitute “, 31B, 41JD, 41JE or 41JF”.
+</dd>
 
-## 105  After paragraph 61(4)(b)
+</dl></dl></dl>
 
-Insert:
-
-                    (ba)  decisions on the inclusion of kinds of medical devices in the Register, or the cancellation of the inclusion of kinds of medical devices in the Register; or
-
-## 106  After paragraph 61(4)(e)
+100  After subsection 60A(6)
 
 Insert:
 
-                  or (f)  the issue of, imposition of conditions on, or revocation of, conformity assessment certificates;
+<dl compact=""><dl compact="">
 
-## 107  Paragraphs 61(4A)(d) and (e)
+<dt>(6A)</dt><dd>If:
 
-Omit “Part 4C”, substitute “Part 5-3”.
+</dd> </dl></dl>
 
-## 108  Paragraph 61(6)(b)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “registration or listing”, substitute “registration, listing or inclusion in the Register”.
+<dt>(a)</dt><dd>the matter relates to a decision under section&#160;41EC; and</dd>
 
-## 109  After paragraph 63(2)(da)
+<dt>(b)</dt><dd>the Minister or the Tribunal remits the matter; and</dd>
+
+<dt>(c)</dt><dd>the appellant has paid, as a further conformity assessment fee, the
+
+conformity assessment fee that the appellant would have to pay under
+
+section&#160;41LA on making a new application for a conformity assessment
+
+certificate;
+
+</dd>
+
+</dl></dl></dl>
+
+the authorised delegate must make a decision under section&#160;41EC, taking into account the new information, as if a fresh application for a conformity assessment certificate had been made.
+
+101  Subsection 60A(7)
+
+Omit "Part&#160;3", substitute "Part&#160;3-2 or 4-4".
+
+102  After subparagraph 61(2)(a)(iii)
 
 Insert:
 
-           ; and (db)  provide for the periods within which decisions under section 41EP to revoke suspensions of conformity assessment certificates are to be made, in cases where applications for revocation have been made under paragraph 41EP(2)(a); and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                    (dc)  provide for the periods within which decisions on applications for the issuing of conformity assessment certificates under Part 4-4 are to be made if considering the applications involves examining the design of medical devices; and
+	or (iv)	the issue of, imposition of conditions on, or revocation of,
 
-                    (dd)  provide for the periods within which decisions under section 41GD to revoke suspensions of entries on the Register are to be made, in cases where applications for revocation have been made under paragraph 41GD(2)(a); and
+conformity assessment certificates;
 
-## 110  Paragraph 63(2)(f)
+</dl></dl></dl></dl>
 
-Omit “or listing”, substitute “, listing or inclusion in the Register”.
+103  After paragraph 61(3)(e)
 
-## 111  Subparagraph 63(3)(a)(ii)
+Insert:
 
-Omit “Part 4”, substitute “Part 3-3”.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 112  Part 7 (heading)
+	or (f)	the issue of, imposition of conditions on, or revocation of, conformity
 
-Repeal the heading, substitute:
+assessment certificates;
 
-# Chapter 8—Repeal and transitional provisions
+</dl></dl></dl>
 
-## 113  Section 69
+104  Subsection 61(3A)
 
-Omit “Part 2” (last occurring), substitute “Part 3-1”.
+Omit "or 31B", substitute ", 31B, 41JD, 41JE or 41JF".
 
-###### Schedule 2—Amendments commencing 5 years after Schedule 1
+105  After paragraph 61(4)(b)
 
-<h9 class="ActHead9">Therapeutic Goods Act 1989</h9>
+Insert:
 
-## 1  Subsection 3(1) (definition of _gazetted therapeutic devices group_)
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(ba)</dt><dd>decisions on the inclusion of kinds of medical devices in the Register,
+
+or the cancellation of the inclusion of kinds of medical devices in the
+
+Register; or
+
+</dd>
+
+</dl></dl></dl>
+
+106  After paragraph 61(4)(e)
+
+Insert:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+	or (f)	the issue of, imposition of conditions on, or revocation of, conformity
+
+assessment certificates;
+
+</dl></dl></dl>
+
+107  Paragraphs 61(4A)(d) and (e)
+
+Omit "Part&#160;4C", substitute "Part&#160;5-3".
+
+108  Paragraph 61(6)(b)
+
+<center>Back to Top</center>
+
+Omit "registration or listing", substitute "registration, listing or inclusion in the Register".
+
+109  After paragraph 63(2)(da)
+
+Insert:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+	; and (db)	provide for the periods within which decisions under
+
+section&#160;41EP to revoke suspensions of conformity assessment certificates
+
+are to be made, in cases where applications for revocation have been made under
+
+paragraph 41EP(2)(a); and
+
+<dt>(dc)</dt><dd>provide for the periods within which decisions on applications for the
+
+issuing of conformity assessment certificates under Part&#160;4-4 are to be
+
+made if considering the applications involves examining the design of medical
+
+devices; and</dd>
+
+<dt>(dd)</dt><dd>provide for the periods within which decisions under section&#160;41GD to
+
+revoke suspensions of entries on the Register are to be made, in cases where
+
+applications for revocation have been made under paragraph 41GD(2)(a); and
+
+</dd>
+
+</dl></dl></dl>
+
+110  Paragraph 63(2)(f)
+
+Omit "or listing", substitute ", listing or inclusion in the Register".
+
+111  Subparagraph 63(3)(a)(ii)
+
+Omit "Part&#160;4", substitute "Part&#160;3-3".
+
+112  Part&#160;7 (heading)
+
+Repeal the heading, substitute: 
+
+Chapter&#160;8&#151;Repeal and transitional provisions
+ 113  Section&#160;69
+
+Omit "Part&#160;2" (last occurring), substitute "Part&#160;3-1".
+
+<center>**
+
+###  THERAPEUTIC GOODS AMENDMENT (MEDICAL DEVICES) ACT 2002Schedule&#160;2&#151;Amendments commencing 5 years after Schedule&#160;1 
+**</center>
+
+_Therapeutic Goods Act 1989_
+
+1  Subsection 3(1) (definition of gazetted therapeutic devices group)
 
 Repeal the definition.
 
-## 2  Subsection 3(1) (paragraph (b) of the definition of _grouped therapeutic goods_)
+2  Subsection 3(1) (paragraph&#160;(b) of the definition of grouped therapeutic goods)
 
 Repeal the paragraph.
 
-## 3  Subsection 3(1) (definition of _listable devices_)
+3  Subsection 3(1) (definition of listable devices)
 
 Repeal the definition.
 
-## 4  Subsection 3(1) (definition of _medicine_)
+4  Subsection 3(1) (definition of medicine)
 
 Repeal the definition, substitute:
 
-                    <a name="micin"></a>**_medicine_** means therapeutic goods that are represented to achieve, or are likely to achieve, their principal intended action by pharmacological, chemical, immunological or metabolic means in or on the body of a human or animal.
+<def><dl compact=""><dl compact="">
 
-## 5  Subsection 3(1) (definition of _therapeutic device_)
+_medicine_ means therapeutic goods that are represented to achieve,
+
+or are likely to achieve, their principal intended action by pharmacological,
+
+chemical, immunological or metabolic means in or on the body of a human or
+
+animal.
+
+ </dl></dl>
+
+5  Subsection 3(1) (definition of therapeutic device)
 
 Repeal the definition.
 
-## 6  Paragraph 7B(2)(b)
+6  Paragraph 7B(2)(b)
 
-Omit “or therapeutic devices”.
+Omit "or therapeutic devices".
 
-## 7  Chapter 3 (note following the heading)
+7  Chapter&#160;3 (note following the heading)
 
 Repeal the note.
 
-## 8  Section 10A
+8  Section&#160;10A
 
-Omit “unless Part 3-2 applies to the device”.
+Omit "unless Part&#160;3-2 applies to the device".
 
-## 9  Section 15A
+9  Section&#160;15A
 
 Repeal the section, substitute:
 
-##### <a id="15A"></a>15A  Application of this Part to medical devices
+15A  Application of this Part to medical devices
 
-                   This Part does not apply to a medical device.
+<dl compact=""><dl compact="">
 
-## 10  Subsection 16(2)
+		This Part does not apply to a medical device.
 
-Omit “or therapeutic devices”.
+ </dl></dl>
 
-## 11  Subsection 16(3)
+10  Subsection 16(2)
+
+Omit "or therapeutic devices".
+
+11  Subsection 16(3)
 
 Repeal the subsection.
 
-## 12  Paragraphs 20(2)(a) and (b)
+12  Paragraphs 20(2)(a) and (b)
 
 Repeal the paragraphs, substitute:
 
-                     (a)  the registration number or listing number of the goods is set out on the label of the goods in the prescribed manner; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  in the case of an importation, that number is so set out, or is to be so set out before the goods are supplied in Australia.
+<dt>(a)</dt><dd>the registration number or listing number of the goods is set out on the
 
-## 13  Section 21
+label of the goods in the prescribed manner; or</dd>
 
-Omit “(other than listable devices)”.
+<dt>(b)</dt><dd>in the case of an importation, that number is so set out, or is to be so
 
-## 14  Subparagraph 25(2)(a)(i)
+set out before the goods are supplied in Australia.
 
-Omit “if the goods are not therapeutic devices”, substitute “if the goods are medicines”.
+</dd>
 
-## 15  Paragraph 25A(2)(a)
+</dl></dl></dl>
+
+13  Section&#160;21
+
+Omit "(other than listable devices)".
+
+14  Subparagraph 25(2)(a)(i)
+
+Omit "if the goods are not therapeutic devices", substitute "if the goods are medicines".
+
+15  Paragraph 25A(2)(a)
 
 Repeal the paragraph, substitute:
 
-                     (a)  the information was given to the Secretary in relation to an application to register therapeutic goods (the **_new goods_**) consisting of, or containing, an active component; and
+<dl compact=""><dl compact=""><dl compact="">
 
-## 16  Section 25B
+<dt>(a)</dt><dd>the information was given to the Secretary in relation to an application
 
-Repeal the section.
+to register therapeutic goods (the _new goods_) consisting of, or
 
-## 17  Subsection 26(1)
+containing, an active component; and
 
-Omit “, subject to section 26AA,”.
+</dd>
 
-## 18  Paragraph 26(1)(g)
+</dl></dl></dl>
 
-Omit “not being therapeutic devices other than devices”, substitute “being medicines or other therapeutic goods”.
-
-## 19  Subparagraph 26(2)(a)(i)
-
-Omit “if the goods are not therapeutic devices”, substitute “if the goods are medicines”.
-
-## 20  Section 26AA
+16  Section&#160;25B
 
 Repeal the section.
 
-## 21  Chapter 4 (note following the heading)
+17  Subsection 26(1)
+
+Omit ", subject to section&#160;26AA,".
+
+18  Paragraph 26(1)(g)
+
+Omit "not being therapeutic devices other than devices", substitute "being medicines or other therapeutic goods".
+
+19  Subparagraph 26(2)(a)(i)
+
+Omit "if the goods are not therapeutic devices", substitute "if the goods are medicines".
+
+20  Section&#160;26AA
+
+Repeal the section.
+
+21  Chapter&#160;4 (note following the heading)
 
 Repeal the note.
 
-## 22  Section 41BJ
+22  Section&#160;41BJ
 
 Repeal the section.
 
-## 23  Subsection 60(1) (paragraph (a) of the definition of _initial decision_)
+23  Subsection 60(1) (paragraph&#160;(a) of the definition of initial decision)
 
-Omit “under the definition of **_therapeutic devices_** in subsection 3(1) or”.
+Omit "under the definition of _therapeutic devices_ in subsection 3(1) or".
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; PADDING-TOP: 1pt; BORDER-BOTTOM: medium none">
+  <center>**
 
- </div>
+###  Note 
+**</center>  [_Minister&apos;s second reading speech made in_
+ _House of Representatives on 14 February 2002_
+ _Senate on 20 March 2002_] 
 
-[_Minister’s second reading speech made in—_
+</def>
 
-_House of Representatives on__14 February 2002_
+</def>
 
-_Senate on__20 March 2002_]
+</def>
+
+</def></def></def>
+
+</def></def></def></def></def></def></def></def></def>
+
+</def></def></def></def></def>
 
 
-![Text Box: (7/02)](http://www.comlaw.gov.au/Details/C2006C00261/Html/D4F6675EB11626BFCA257170000895D4/$FILE/image003.gif)
 
- 
+
