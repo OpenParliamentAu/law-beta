@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00389/Html/SexDiscrimination84_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00328/Html/SexDiscrimination84_WD02_image001.gif)
 
 # Sex Discrimination Act 1984
 
 **Act No. 4 of 1984 as amended**
 
-This compilation was prepared on 5 August 2009
- taking into account amendments up to Act No. 70 of 2009
+This compilation was prepared on 10 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -142,6 +142,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Acts done under statutory authority
 
+[40A](#40A).       Review of operation of subsections 40(2) and (3)
+
 [41](#41).          Insurance
 
 [41A](#41A).       New superannuation fund conditions
@@ -160,11 +162,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [47](#47).          Effect of exemptions
 
-**Part III—Functions of the Australian Human Rights Commission** 
+**Part III—Functions of Human Rights and Equal Opportunity Commission** 
 
     **Division 1—Preliminary**
 
-[48](#48).          Functions of the Commission
+[48](#48).          Functions of Human Rights and Equal Opportunity Commission
 
 **Part IV—Offences**
 
@@ -288,7 +290,7 @@ but does not include:
 
                      (b)  sells or supplies liquor for consumption on its premises.
 
-                    <a name="commiss"></a>**_Commission_** means the Australian Human Rights Commission.
+                    <a name="commiss"></a>**_Commission_** means the Human Rights and Equal Opportunity Commission established by the _Human Rights and Equal Opportunity Commission Act 1986_.
 
                     <a name="commiss-agent"></a>**_commission agent_** means a person who does work for another person as the agent of that other person and who is remunerated, whether in whole or in part, by commission.
 
@@ -346,7 +348,7 @@ but does not include:
 
                     <a name="employ-agenc"></a>**_employment agency_** means any person who or body that, whether for payment or not, assists persons to find employment or other work or assists employers to find employees or workers, and includes the Commonwealth Employment Service.
 
-                    <a name="enact"></a>**_enactment_** has the same meaning as in the _Australian Human Rights Commission Act 1986_.
+                    <a name="enact"></a>**_enactment_** has the same meaning as in the _Human Rights and Equal Opportunity Commission Act 1986_.
 
                     <a name="famili-respons"></a>**_family responsibilities_** has the meaning given by section 4A.
 
@@ -390,7 +392,7 @@ but does not include:
 
                     <a name="princip-execut"></a>**_principal executive_**, in relation to a Commonwealth agency, has the same meaning as in Part V of the _Privacy Act 1988_.
 
-                    <a name="propos-enact"></a>**_proposed enactment_** has the same meaning as in the _Australian Human Rights Commission Act 1986_.
+                    <a name="propos-enact"></a>**_proposed enactment_** has the same meaning as in the _Human Rights and Equal Opportunity Commission Act 1986_.
 
                     <a name="public-author-commonwealth"></a>**_public authority of the Commonwealth_** means:
 
@@ -564,7 +566,7 @@ the discriminator treats the aggrieved woman less favourably than, in circumstan
 
                      (c)  whether the disadvantage is proportionate to the result sought by the person who imposes, or proposes to impose, the condition, requirement or practice.
 
-##### <a id="7C"></a>7C  Burden of proof
+##### <a id="7C"></a>7C  Burden of proof
 
                    In a proceeding under this Act, the burden of proving that an act does not constitute discrimination because of section 7B lies on the person who did the act.
 
@@ -640,11 +642,11 @@ a power conferred by a law of the Commonwealth or a law of a Territory, being ac
 
         (10A)  Subsection 14(3A) has effect in relation to discrimination involving dismissal of employees on the ground of family responsibilities, to the extent that the subsection gives effect to any of the following instruments:
 
-                     (a)  the International Covenant on Civil and Political Rights done at New York on 16 December 1966 \[1980] ATS 23 (a copy of the English text of which is set out in Schedule 2 to the _Australian Human Rights Commission Act 1986_);
+                     (a)  the International Covenant on Civil and Political Rights done at New York on 16 December 1966 \[1980] ATS 23 (a copy of the English text of which is set out in Schedule 2 to the _Human Rights and Equal Opportunity Commission Act 1986_);
 
                      (b)  the International Covenant on Economic, Social and Cultural Rights done at New York on 16 December 1966 \[1976] ATS 5;
 
-                     (c)  ILO Convention (No. 111) concerning Discrimination in respect of Employment and Occupation done at Geneva on 25 June 1958 \[1974] ATS 12 (a copy of the English text of which is set out in Schedule 1 to the _Australian Human Rights Commission Act 1986_);
+                     (c)  ILO Convention (No. 111) concerning Discrimination in respect of Employment and Occupation done at Geneva on 25 June 1958 \[1974] ATS 12 (a copy of the English text of which is set out in Schedule 1 to the _Human Rights and Equal Opportunity Commission Act 1986_);
 
                      (d)  the Convention on the Rights of the Child done at New York on 20 November 1989 \[1991] ATS 4.
 
@@ -706,9 +708,9 @@ Note:       In 2008, the text of international agreements in the Aus
 
                      (a)  a law of a State or Territory deals with a matter dealt with by this Act; and
 
-                     (b)  a person has made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II of this Act;
+                     (b)  a person has made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II of this Act;
 
-the person is not entitled to make a complaint or institute a proceeding under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II of this Act.
+the person is not entitled to make a complaint or institute a proceeding under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II of this Act.
 
              (5)  Where:
 
@@ -730,9 +732,9 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (a)  a law of a State or Territory that furthers the objects of the Convention deals with a matter dealt with by this Act; and
 
-                     (b)  a person has made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II of this Act;
+                     (b)  a person has made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II of this Act;
 
-the person is not entitled to make a complaint or institute a proceeding under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II of this Act.
+the person is not entitled to make a complaint or institute a proceeding under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II of this Act.
 
              (5)  Where:
 
@@ -754,9 +756,9 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (a)  a law of a State or Territory that furthers the objects of a relevant instrument deals with a matter dealt with by this Act; and
 
-                     (b)  a person has made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under subsection 14(3A) of this Act;
+                     (b)  a person has made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under subsection 14(3A) of this Act;
 
-the person is not entitled to make a complaint or institute a proceeding under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under that subsection.
+the person is not entitled to make a complaint or institute a proceeding under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under that subsection.
 
              (5)  If:
 
@@ -1370,6 +1372,14 @@ Note:          A person does not comply with an industrial ins
 
 Note:          See also subsection 98(6A) of the _Civil Aviation Act 1988_, which allows regulations made under that Act to contain provisions relating to medical standards that are inconsistent with this Act if the inconsistency is necessary for the safety of air navigation.
 
+##### <a id="40A"></a>40A  Review of operation of subsections 40(2) and (3)
+
+             (1)  The Minister must review the operation of subsections 40(2) and (3) before 1 June 1996.
+
+             (2)  The review must include, but need not be limited to, a recommendation as to whether subsections 40(2) and (3) should be repealed.
+
+             (3)  The Minister must cause copies of the review to be laid before each House of the Parliament within 15 sitting days of that House after the completion of the review.
+
 ##### <a id="41"></a>41  Insurance
 
              (1)  Nothing in Division 1 or 2 makes discrimination by one person (in this subsection called the **_insurer_**) against another person (in this subsection called the **_client_**) unlawful if:
@@ -1552,11 +1562,11 @@ by instrument in writing, grant to the person, persons or class of persons, as t
 
                    Nothing in Division 1 or 2 renders it unlawful for a person who has been granted an exemption from a provision of that Division, or a person in the employment or under the direction or control of a person who has been granted such an exemption, to do an act in accordance with the provisions of the instrument by which the exemption was granted.
 
-## Part III—Functions of the Australian Human Rights Commission
+## Part III—Functions of Human Rights and Equal Opportunity Commission
 
 ### Division 1—Preliminary
 
-##### <a id="48"></a>48  Functions of the Commission
+##### <a id="48"></a>48  Functions of Human Rights and Equal Opportunity Commission
 
              (1)  The following functions are hereby conferred on the Commission:
 
@@ -1576,7 +1586,7 @@ by instrument in writing, grant to the person, persons or class of persons, as t
 
                      (h)  to do anything incidental or conducive to the performance of any of the preceding functions.
 
-Note:          For the provisions about inquiries into complaints of discrimination and conciliation of those complaints: see Part IIB of the _Australian Human Rights Commission Act 1986_.
+Note:          For the provisions about inquiries into complaints of discrimination and conciliation of those complaints: see Part IIB of the _Human Rights and Equal Opportunity Commission Act 1986_.
 
              (2)  The Commission shall not regard an enactment or proposed enactment as being inconsistent with or contrary to the objects of this Act for the purposes of paragraph (1)(f) by reason of a provision of the enactment or proposed enactment that is included for the purpose referred to in subsection 7D(1).
 
@@ -1590,7 +1600,9 @@ Note:          For the provisions about inquiries into complai
 
              (1)  A person shall not publish or display an advertisement or notice that indicates, or could reasonably be understood as indicating, an intention to do an act that is unlawful by reason of a provision of Part II.
 
-                    Penalty:  10 penalty units.
+                    Penalty:  
+ (a)     in the case of a natural person—$1,000; or
+ (b)     in the case of a body corporate—$5,000.
 
              (2)  For the purposes of subsection (1),**_advertisement_** includes every form of advertisement or notice, whether to the public or not, and whether in a newspaper or other publication, by television or radio, by display of notices, signs, labels, showcards or goods, by distribution of samples, circulars, catalogues, price lists or other material, by exhibition of pictures, models or films, or in any other way, and the reference in that subsection to publish or display, in relation to an advertisement, shall be construed accordingly.
 
@@ -1598,7 +1610,9 @@ Note:          For the provisions about inquiries into complai
 
              (1)  Where a person has engaged in an act of discrimination that would, apart from subsection 41(1), be unlawful, the President or the Commission may, by notice in writing served on the person as prescribed, require the person, within 28 days after service of the notice on the person, to disclose to the President or to the Commission, as the case may be, the source of the actuarial or statistical data on which the act of discrimination was based and, where the President or the Commission, as the case may be, makes such a requirement of a person, the person shall not fail to comply with the requirement.
 
-                    Penalty:  10 penalty units.
+                    Penalty:  
+ (a)     in the case of a natural person—$1,000; or
+ (b)     in the case of a body corporate—$5,000.
 
              (2)  Subsection (1) does not apply if the person has a reasonable excuse.
 
@@ -1610,15 +1624,17 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="92"></a>92  Particulars of complaints not to be communicated
 
-             (1)  Subject to subsection (2), where a complaint alleging that a person has done an act that is unlawful under Division 3 of Part II is lodged with the Commission under section 46P of the _Australian Human Rights Commission Act 1986_, a person shall not make a record of, or divulge or communicate to any other person, any particulars of that complaint until:
+             (1)  Subject to subsection (2), where a complaint alleging that a person has done an act that is unlawful under Division 3 of Part II is lodged with the Commission under section 46P of the _Human Rights and Equal Opportunity Commission Act 1986_, a person shall not make a record of, or divulge or communicate to any other person, any particulars of that complaint until:
 
-                     (a)  the President has commenced to inquire into the act; or
+                     (a)  the President has commenced to inquire into the act;
 
-                    (ab)  the complaint is withdrawn under section 46PG of the _Australian Human Rights Commission Act 1986_; or
+                    (ab)  the complaint is withdrawn under section 46PG of the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
-                     (b)  the President terminates the complaint under section 46PE or 46PH of the _Australian Human Rights Commission Act 1986_.
+                     (b)  the President terminates the complaint under section 46PE or 46PH of the _Human Rights and Equal Opportunity Commission Act 1986_.
 
-                    Penalty:  10 penalty units.
+                    Penalty:  
+ (a)     in the case of a natural person—$1,000; or
+ (b)     in the case of a body corporate—$5,000.
 
           (1A)  Subsection (1) is an offence of strict liability.
 
@@ -1626,35 +1642,35 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  Nothing in subsection (1) prohibits:
 
-                     (a)  the President, a member of the Commission, a member of the staff assisting the Commission or a person acting under the direction or authority of the Commission or of the President or pursuant to a delegation under section 104 from making a record of, or divulging or communicating, any particulars of a complaint in the performance of a duty under or in connection with this Act or in the performance or exercise of a function or power under this Act; or
+                     (a)  the President, a member of the Commission, a member of the staff assisting the Commission or a person acting under the direction or authority of the Commission or of the President or pursuant to a delegation under section 104 from making a record of, or divulging or communicating, any particulars of a complaint in the performance of a duty under or in connection with this Act or in the performance or exercise of a function or power under this Act;
 
-                     (b)  a person from divulging or communicating any particulars of a complaint to any person in accordance with an arrangement in force under section 16 of the _Australian Human Rights Commission Act 1986_; or
+                     (b)  a person from divulging or communicating any particulars of a complaint to any person in accordance with an arrangement in force under section 16 of the _Human Rights and Equal Opportunity Commission Act 1986_;
 
                      (c)  a person from divulging or communicating any particulars of a complaint to:
 
-                              (i)  the complainant or a person on whose behalf the complaint was made; or
+                              (i)  the complainant or a person on whose behalf the complaint was made;
 
-                             (ii)  the person alleged to have done the act to which the complaint relates; or
+                             (ii)  the person alleged to have done the act to which the complaint relates;
 
                             (iii)  the legal representative of a person referred to in subparagraph (i) or (ii); or
 
-                            (iv)  the employer or principal of the person referred to in subparagraph (i) or (ii); or
+                            (iv)  the employer or principal of the person referred to in subparagraph (i) or (ii);
 
                      (d)  a person who has made a complaint in respect of a particular matter from divulging or communicating any particulars of the complaint to:
 
-                              (i)  a person to whom, or an officer of a body to which, the complainant is making a complaint or application in respect of the same matter; or
+                              (i)  a person to whom, or an officer of a body to which, the complainant is making a complaint or application in respect of the same matter;
 
-                             (ii)  an officer of a tribunal in which the complainant is instituting proceedings, or to which the complainant is making an application, in respect of the same matter; or
+                             (ii)  an officer of a tribunal in which the complainant is instituting proceedings, or to which the complainant is making an application, in respect of the same matter;
 
                             (iii)  a near relative of the complainant; or
 
-                            (iv)  a person from whom the complainant is seeking or receiving professional treatment, counselling or advice; or
+                            (iv)  a person from whom the complainant is seeking or receiving professional treatment, counselling or advice;
 
                      (e)  a person (in this paragraph referred to as the **_relevant person_**) on whose behalf a complaint has been made in respect of a particular matter from divulging or communicating any particulars of the complaint to:
 
-                              (i)  a person to whom, or an officer of a body to which, the relevant person is making a complaint or application in respect of the same matter; or
+                              (i)  a person to whom, or an officer of a body to which, the relevant person is making a complaint or application in respect of the same matter;
 
-                             (ii)  an officer of a tribunal in which the relevant person is instituting proceedings, or to which the relevant person is making an application, in respect of the same matter; or
+                             (ii)  an officer of a tribunal in which the relevant person is instituting proceedings, or to which the relevant person is making an application, in respect of the same matter;
 
                             (iii)  a near relative of the relevant person; or
 
@@ -1666,25 +1682,25 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  A person shall not commit an act of victimization against another person.
 
-                    Penalty:
+                    Penalty:       
 
-                                   (a)     in the case of a natural person—25 penalty units or imprisonment for 3 months, or both; or
+                                   (a)     in the case of a natural person—$2,500 or imprisonment for 3 months, or both; or
 
-                                   (b)     in the case of a body corporate—100 penalty units.
+                                   (b)     in the case of a body corporate—$10,000.
 
              (2)  For the purposes of subsection (1), a person shall be taken to commit an act of victimization against another person if the first-mentioned person subjects, or threatens to subject, the other person to any detriment on the ground that the other person:
 
-                     (a)  has made, or proposes to make, a complaint under this Act or the _Australian Human Rights Commission Act 1986_; or
+                     (a)  has made, or proposes to make, a complaint under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_;
 
-                     (b)  has brought, or proposes to bring, proceedings under this Act or the _Australian Human Rights Commission Act 1986_ against any person; or
+                     (b)  has brought, or proposes to bring, proceedings under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_ against any person;
 
-                     (c)  has furnished, or proposes to furnish, any information, or has produced, or proposes to produce, any documents to a person exercising or performing any power or function under this Act or the _Australian Human Rights Commission Act 1986_; or
+                     (c)  has furnished, or proposes to furnish, any information, or has produced, or proposes to produce, any documents to a person exercising or performing any power or function under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_;
 
-                     (d)  has attended, or proposes to attend, a conference held under this Act or the _Australian Human Rights Commission Act 1986_; or
+                     (d)  has attended, or proposes to attend, a conference held under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_;
 
-                     (e)  has appeared, or proposes to appear, as a witness in a proceeding under this Act or the _Australian Human Rights Commission Act 1986_; or
+                     (e)  has appeared, or proposes to appear, as a witness in a proceeding under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_;
 
-                      (f)  has reasonably asserted, or proposes to assert, any rights of the person or the rights of any other person under this Act or the _Australian Human Rights Commission Act 1986_; or
+                      (f)  has reasonably asserted, or proposes to assert, any rights of the person or the rights of any other person under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
                      (g)  has made an allegation that a person has done an act that is unlawful by reason of a provision of Part II;
 
@@ -1696,7 +1712,11 @@ or on the ground that the first-mentioned person believes that the other person 
 
              (1)  A person shall not insult, hinder, obstruct, molest or interfere with a person exercising a power or performing a function under this Act.
 
-                    Penalty:  10 penalty units.
+                    Penalty:       
+
+                                   (a)     in the case of a natural person—$1,000; or
+
+                                   (b)     in the case of a body corporate—$5,000.
 
              (2)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of circumstance, that a person is exercising a power or performing a function under this Act.
 
@@ -1708,7 +1728,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  There shall be a Sex Discrimination Commissioner, who shall be appointed by the Governor-General.
 
-             (2)  A person is not qualified to be appointed as the Sex Discrimination Commissioner unless the Minister is satisfied that the person has appropriate qualifications, knowledge or experience.
+             (2)  A person is not qualified to be appointed as the Sex Discrimination Commissioner unless the Governor-General is satisfied that the person has appropriate qualifications, knowledge or experience.
 
 ##### <a id="97"></a>97  Terms and conditions of appointment
 
@@ -1804,21 +1824,7 @@ this Act applies in relation to that person as if that person had also done the 
 
 ##### <a id="111"></a>111  Protection from civil actions
 
-          (1A)  Subsection (1) applies in relation to any of the following persons:
-
-                     (a)  the Commission;
-
-                     (b)  the Commissioner or another member of the Commission;
-
-                     (c)  a person acting under the direction or authority of:
-
-                              (i)  the Commission; or
-
-                             (ii)  the Commissioner or another member of the Commission;
-
-                     (d)  a person acting under a delegation under section 104.
-
-             (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission, the Commissioner or the other member of the Commission.
+             (1)  The Commission, a member of the Commission, the Commissioner or a person acting under the direction or authority of the Commission or of the Commissioner or pursuant to a delegation under section 104 is not liable to an action or other proceeding for damages for or in relation to an act done or omitted to be done in good faith in the performance or purported performance of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission or the Commissioner.
 
              (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Commissioner, a person is not liable to an action, suit or other proceeding in respect of loss, damage or injury of any kind suffered by another person by reason only that submission was made, the document or information was furnished or the evidence was given.
 
@@ -1826,13 +1832,13 @@ this Act applies in relation to that person as if that person had also done the 
 
              (1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorized to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not, either directly or indirectly:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; or
+                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized;
 
                      (b)  make use of any such information as is mentioned in paragraph (a); or
 
                      (c)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act.
 
-                    Penalty:  50 penalty units or imprisonment for 1 year, or both.
+                    Penalty:  $5,000 or imprisonment for 1 year, or both.
 
              (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorized to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not be required:
 
@@ -1844,9 +1850,9 @@ except where it is necessary to do so for the purposes of this Act.
 
              (3)  Nothing in this section prohibits a person from:
 
-                     (a)  making a record of information that is, or is included in a class of information that is, required or permitted by an Act to be recorded, if the record is made for the purposes of or pursuant to that Act; or
+                     (a)  making a record of information that is, or is included in a class of information that is, required or permitted by an Act to be recorded, if the record is made for the purposes of or pursuant to that Act;
 
-                     (b)  divulging or communicating information, or producing a document, to any person in accordance with an arrangement in force under section 16 of the _Australian Human Rights Commission Act 1986_; or
+                     (b)  divulging or communicating information, or producing a document, to any person in accordance with an arrangement in force under section 16 of the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
                      (c)  divulging or communicating information, or producing a document, that is, or is included in a class of information that is or class of documents that are, required or permitted by an Act to be divulged, communicated or produced, as the case may be, if the information is divulged or communicated, or the document is produced, for the purposes of or pursuant to that Act.
 
@@ -3033,7 +3039,7 @@ Remainder: Royal Assent</div>
     <div>21 Apr 2004</div>
   </td>
   <td colspan="3">
-    <div>Schedule 2 (item 28): <i>(r)</i></div>
+    <div>Schedule 2 (item 28): \[ <i>see (r)</i>and Note 2]</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -3099,26 +3105,6 @@ Schedule 5 (items 52–59,
   </td>
   <td colspan="2">
     <div>S. 4 and Sch. 5 (items 87, 88) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Disability Discrimination and Other Human Rights Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>70, 2009</div>
-  </td>
-  <td colspan="2">
-    <div>8 July 2009</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 3 (items 74–92, 115, 116, 179, 180) and Schedule 4 (items 6–14): 5 Aug 2009</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
   </td>
   <td>
     <div></div>
@@ -3319,12 +3305,11 @@ _(r)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
   </td>
   <td>
     <div>
-      (paragraph (b) applies)
+      \[
+        <i>see</i>Note 2] (paragraph (b) applies)
     </div>
   </td>
 </tr></table>
-
-_The Australian Human Rights Commission Legislation Bill 2004_ was not enacted. Therefore the amendment made by Schedule 2 (item 28) did not commence.
 
 _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
 
@@ -3472,7 +3457,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009</div>
+    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3552,7 +3537,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 179, 1992; No. 165, 1995; No. 144, 2008; No. 70, 2009</div>
+    <div>am. No. 179, 1992; No. 165, 1995; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3560,7 +3545,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 133, 1999; No. 144, 2008; No. 70, 2009</div>
+    <div>am. No. 165, 1995; No. 133, 1999; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3568,7 +3553,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 165, 1995; No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -3577,14 +3562,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>ad. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3789,14 +3766,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 41</div>
   </td>
   <td>
@@ -3848,7 +3817,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>Heading to Part III</div>
   </td>
   <td>
-    <div>rs. No. 133, 1999; No. 70, 2009</div>
+    <div>rs. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -3877,14 +3846,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 48</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 48</div>
   </td>
   <td>
@@ -3897,14 +3858,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>ad. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4528,7 +4481,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 86</div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 70, 2009</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4536,7 +4489,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 87</div>
   </td>
   <td>
-    <div>am. No. 165, 1992; No. 133, 1999; No. 24, 2001; No. 70, 2009</div>
+    <div>am. No. 165, 1992; No. 133, 1999; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4552,7 +4505,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 92</div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 126, 1986; No. 38, 1988; No. 165, 1992; No. 133, 1999; No. 24, 2001; No. 70, 2009</div>
+    <div>am. No. 72, 1984; No. 126, 1986; No. 38, 1988; No. 165, 1992; No. 133, 1999; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4576,7 +4529,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 94</div>
   </td>
   <td>
-    <div>am. No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -4600,7 +4553,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 96</div>
   </td>
   <td>
-    <div>am. No. 59, 1995; No. 70, 2009</div>
+    <div>am. No. 59, 1995</div>
   </td>
 </tr>
 <tr>
@@ -4688,7 +4641,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 111</div>
   </td>
   <td>
-    <div>am. No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -4696,7 +4649,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 112</div>
   </td>
   <td>
-    <div>am. No. 126, 1986; No. 24, 2001; No. 70, 2009</div>
+    <div>am. No. 126, 1986; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4715,6 +4668,32 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>rep. No. 133, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Age Discrimination (Consequential Provisions) Act 2004 (No. 40, 2004)_
+
+The following amendment commences immediately after the commencement of Schedule 1 to the _Australian Human Rights Commission Legislation Act 2004_:
+
+## Schedule 2
+
+## 28  Paragraph 48(3)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  whether, in the Attorney-General’s opinion, the proceedings have significant implications for the administration of any of the following Acts:
+
+                              (i)  this Act;
+
+                             (ii)  the _Age Discrimination Act 2004_;
+
+                            (iii)  the _Australian Human Rights Commission Act 1986_;
+
+                            (iv)  the _Disability Discrimination Act 1992_;
+
+                             (v)  the _Racial Discrimination Act 1975_;
+
+As at 10 July 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
