@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00644/Html/e2fbaf13-10f3-41b8-9586-e3a803d9396b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00623/Html/516c1bed-684b-4364-a3d4-f55f31d5ea8a_files/image001.gif)
 
 # Water Efficiency Labelling and Standards Act 2005
 
 **Act No. 4 of 2005 as amended**
 
-This compilation was prepared on 28 August 2012
+This compilation was prepared on 22 July 2012
  taking into account amendments up to Act No. 108 of 2012
 
 The text of any of those amendments not in force
@@ -94,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [31](#31).          Cancelling or suspending registration
 
-**Part 7—Offences and civil penalties relating to the WELS scheme** 
+**Part 7—Offences relating to the supply of WELS products** 
 
     **Division 1—Applicable WELS standards**
 
@@ -102,23 +102,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Registration and labelling**
 
-[32A](#32A).       False or misleading information or documents
+[33](#33).          Registration requirement
 
-[33](#33).          Supply of unregistered WELS products
-
-[34](#34).          Supply of WELS products that are not WELS‑labelled
+[34](#34).          Labelling registered products
 
     **Division 3—Minimum efficiency and performance requirements**
 
-[35](#35).          Minimum water efficiency
+[35](#35).          Minimum water efficiency—products required to be registered
 
-[36](#36).          Minimum general performance
+[36](#36).          Minimum general performance—products required to be registered
 
     **Division 4—Misuse of WELS standards etc.**
 
 [37](#37).          Misuse of WELS standards and information
-
-[37A](#37A).       WELS‑labelling products that are not WELS products
 
 [38](#38).          Information inconsistent with WELS standards
 
@@ -140,55 +136,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [43](#43).          Enforcement of undertakings
 
-    **Division 3A—Compliance audits**
-
-[43A](#43A).       Compliance audits
-
-    **Division 3B—Remedial action**
-
-[43B](#43B).       Remedial action
-
     **Division 4—Injunctions**
 
 [44](#44).          Injunctions
-
-**Part 8A—Civil penalty orders** 
-
-    **Division 1—Obtaining a civil penalty order**
-
-[44A](#44A).       Civil penalty orders
-
-[44B](#44B).       Civil enforcement of penalty
-
-[44C](#44C).       Conduct contravening more than one civil penalty provision
-
-[44D](#44D).       Multiple contraventions
-
-[44E](#44E).        Proceedings may be heard together
-
-[44F](#44F).        Civil evidence and procedure rules for civil penalty orders
-
-[44G](#44G).       Contravening a civil penalty provision is not an offence
-
-    **Division 2—Civil proceedings and criminal proceedings**
-
-[44H](#44H).       Civil proceedings after criminal proceedings
-
-[44J](#44J).        Criminal proceedings during civil proceedings
-
-[44K](#44K).       Criminal proceedings after civil proceedings
-
-[44L](#44L).        Evidence given in civil proceedings not admissible in criminal proceedings
-
-    **Division 3—Miscellaneous**
-
-[44M](#44M).      Ancillary contravention of civil penalty provisions
-
-[44N](#44N).       Continuing contraventions of civil penalty provisions
-
-[44P](#44P).        Mistake of fact
-
-[44Q](#44Q).       State of mind
 
 **Part 9—WELS inspectors** 
 
@@ -384,7 +334,7 @@ Note:          This table relates only to the provisions of th
 
              (1)  This Act binds the Crown in each of its capacities.
 
-             (2)  This Act does not make the Crown liable to a pecuniary penalty or to be prosecuted for an offence.
+             (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
 ##### <a id="5"></a>5  External Territories
 
@@ -422,22 +372,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="applic-wel-standard"></a>**_applicable WELS standard_** has the meaning given by section 32.
 
-                    <a name="civil-penalti-order"></a>**_civil penalty order_** has the meaning given by subsection 44A(4).
-
-                    <a name="civil-penalti-provision"></a><a name="civil-penalti-provision"></a>**_civil penalty provision_**: a provision of this Act is a **_civil penalty provision_** if:
-
-                     (a)  either:
-
-                              (i)  the provision sets out at its foot a pecuniary penalty, or penalties, indicated by the words “Civil penalty”; or
-
-                             (ii)  another provision of this Act provides that the provision is a civil penalty provision; and
-
-                     (b)  the provision is of one of the following kinds:
-
-                              (i)  a subsection, or a section that is not divided into subsections;
-
-                             (ii)  a subregulation, or a regulation that is not divided into subregulations.
-
                     <a name="commonwealth-depart"></a>**_Commonwealth Department_** means the Department of State of the Commonwealth that deals with the matters to which this Act relates.
 
                     <a name="commonwealth-minist"></a>**_Commonwealth Minister_** means the Minister appointed to administer the Department of State of the Commonwealth that deals with the matters to which this Act relates.
@@ -448,25 +382,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="damag"></a>**_damage_**, in relation to data, includes damage by erasure of data or addition of other data.
 
-                    <a name="evidenti-burden"></a>**_evidential burden_**, in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist.
-
-                    <a name="evidenti-materi"></a>**_evidential material_** means:
-
-                     (a)  in respect of an offence against this Act:
-
-                              (i)  any thing with respect to which the offence has been committed or is suspected, on reasonable grounds, to have been committed; or
-
-                             (ii)  any thing as to which there are reasonable grounds for suspecting that it will afford evidence as to the commission of the offence; or
-
-                            (iii)  any thing as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of committing the offence; and
-
-                     (b)  in respect of a contravention of a civil penalty provision:
-
-                              (i)  any thing with respect to which the civil penalty provision has been contravened or is suspected, on reasonable grounds, of having been contravened; or
-
-                             (ii)  any thing as to which there are reasonable grounds for suspecting that it will afford evidence as to the contravention of the civil penalty provision; or
-
-                            (iii)  any thing as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of contravening the civil penalty provision.
+                    <a name="evidenti-materi"></a>**_evidential material_** means any thing that may be relevant to the investigation or prosecution of an offence against this Act.
 
                     <a name="execut-agenc"></a>**_Executive Agency_** has the same meaning as in the _Public Service Act 1999_.
 
@@ -491,14 +407,6 @@ that relates to this Act.
                     <a name="regist"></a>**_registered_** means registered under a WELS standard.
 
                     <a name="regul"></a>**_Regulator_** has the meaning given by section 21.
-
-                    <a name="relev-court"></a>**_relevant court_** means:
-
-                     (a)  the Federal Court; or
-
-                     (b)  the Federal Magistrates Court; or
-
-                     (c)  a court of a State or Territory that has jurisdiction in relation to matters arising under this Act.
 
                     <a name="review-decision"></a>**_reviewable decision_** has the meaning given by subsection 69(1).
 
@@ -896,7 +804,7 @@ the product remains registered under the first WELS standard until the first of 
 
                      (b)  the manufacturer on whose application the product was registered makes a written request to the Regulator for the registration to be cancelled.
 
-## Part 7—Offences and civil penalties relating to the WELS scheme
+## Part 7—Offences relating to the supply of WELS products
 
 ### Division 1—Applicable WELS standards
 
@@ -908,73 +816,41 @@ the product remains registered under the first WELS standard until the first of 
 
 ### Division 2—Registration and labelling
 
-##### <a id="32A"></a>32A  False or misleading information or documents
+##### <a id="33"></a>33  Registration requirement
 
-                   A person must not provide information or a document with an application for registration of a WELS product if the person knows, or is reckless as to whether, the information or document is false or misleading in a material particular.
-
-                    Civil penalty:          60 penalty units.
-
-Note:          Part 7.4 of the _Criminal Code_ provides offences in relation to false or misleading statements.
-
-##### <a id="33"></a>33  Supply of unregistered WELS products
-
-             (1)  A person contravenes this subsection if:
+             (1)  A person commits an offence if:
 
                      (a)  the person supplies a WELS product; and
 
-                     (b)  the applicable WELS standard requires the product to be registered for the purposes of the supply.
+                     (b)  the applicable WELS standard requires the product to be registered for the purposes of the supply; and
 
-             (2)  Subsection (1) does not apply if the WELS product is registered at the time of the supply.
-
-Strict liability offence
-
-             (3)  A person commits an offence of strict liability if the person contravenes subsection (1).
+                     (c)  the product is not registered.
 
                     Penalty:  60 penalty units.
 
-Note 1:       For strict liability, see section 6.1 of the _Criminal Code_.
+             (2)  Subsection (1) is an offence of strict liability.
 
-Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
+##### <a id="34"></a>34  Labelling registered products
 
-Civil penalty provision
-
-             (4)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-             (5)  A person who wishes to rely on subsection (2) in proceedings for a civil penalty order bears an evidential burden in relation to the matter in that subsection.
-
-##### <a id="34"></a>34  Supply of WELS products that are not WELS‑labelled
-
-             (1)  A person contravenes this subsection if:
+             (1)  A person commits an offence if:
 
                      (a)  the person supplies a WELS product; and
 
-                     (b)  the applicable WELS standard requires the WELS product to be WELS‑labelled for the purposes of the supply; and
+                     (b)  the product is registered; and
 
-                     (c)  the product is not WELS‑labelled.
+                     (c)  the applicable WELS standard requires registered products to be WELS‑labelled for the purposes of the supply; and
 
-Note:          For **_WELS‑labelled_**, see subsection 20(1).
-
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
+                     (d)  the product is not WELS‑labelled.
 
                     Penalty:  60 penalty units.
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
+             (2)  Subsection (1) is an offence of strict liability.
 
 ### Division 3—Minimum efficiency and performance requirements
 
-##### <a id="35"></a>35  Minimum water efficiency
+##### <a id="35"></a>35  Minimum water efficiency—products required to be registered
 
-             (1)  A person contravenes this subsection if:
+             (1)  A person commits an offence if:
 
                      (a)  the person supplies a WELS product; and
 
@@ -986,23 +862,13 @@ Civil penalty provision
 
                      (c)  the product does not comply with those minimum water efficiency requirements.
 
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
                     Penalty:  60 penalty units.
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+             (2)  Subsection (1) is an offence of strict liability.
 
-Civil penalty provision
+##### <a id="36"></a>36  Minimum general performance—products required to be registered
 
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-##### <a id="36"></a>36  Minimum general performance
-
-             (1)  A person contravenes this subsection if:
+             (1)  A person commits an offence if:
 
                      (a)  the person supplies a WELS product; and
 
@@ -1014,25 +880,15 @@ Civil penalty provision
 
                      (c)  the product does not comply with those minimum general performance requirements.
 
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
                     Penalty:  60 penalty units.
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
+             (2)  Subsection (1) is an offence of strict liability.
 
 ### Division 4—Misuse of WELS standards etc.
 
 ##### <a id="37"></a>37  Misuse of WELS standards and information
 
-             (1)  A person contravenes this subsection if the person:
+             (1)  A person commits an offence if the person:
 
                      (a)  supplies a WELS product; and
 
@@ -1040,65 +896,25 @@ Civil penalty provision
 
                      (c)  uses the standard, or information, in a manner that is inconsistent with the standard.
 
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
                     Penalty:  60 penalty units.
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+             (2)  Subsection (1) is an offence of strict liability.
 
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-##### <a id="37A"></a>37A  WELS‑labelling products that are not WELS products
-
-             (1)  A person contravenes this subsection if:
-
-                     (a)  the person supplies a product; and
-
-                     (b)  the product is, or purports to be, WELS‑labelled; and
-
-                     (c)  the product is not a WELS product.
-
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
-                    Penalty:  60 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
+Note:          Section 39 sets out circumstances in which information is used for, or in relation to, the supply of a product.
 
 ##### <a id="38"></a>38  Information inconsistent with WELS standards
 
-             (1)  A person contravenes this subsection if:
+             (1)  A person commits an offence if:
 
                      (a)  the person uses information for, or in relation to, the supply of a WELS product; and
 
                      (b)  the information is inconsistent with the information contained in the applicable WELS standard for the product.
 
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
                     Penalty:  60 penalty units.
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+             (2)  Subsection (1) is an offence of strict liability.
 
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
+Note:          Section 39 sets out circumstances in which information is used for, or in relation to, the supply of a product.
 
 ##### <a id="39"></a>39  Using information in the supply of products
 
@@ -1120,11 +936,9 @@ Civil penalty provision
 
 ##### <a id="40"></a>40  Infringement notices
 
-             (1)  The regulations may provide for a person who is alleged to have committed an offence against this Act to pay a penalty to the Commonwealth as an alternative to prosecution.
+             (1)  The regulations may provide for a person who is alleged to have committed an offence against Part 7 to pay a penalty to the Commonwealth as an alternative to prosecution.
 
-          (1A)  The regulations may provide for a person who is alleged to have contravened a civil penalty provision to pay a penalty to the Commonwealth as an alternative to proceedings for a civil penalty order.
-
-             (2)  The penalty must not exceed one‑fifth of the maximum fine that a court could impose on the person as a penalty for that offence or that contravention.
+             (2)  The penalty must not exceed one‑fifth of the maximum fine that a court could impose on the person as a penalty for that offence.
 
 ### Division 2—Publicising offences
 
@@ -1166,101 +980,17 @@ Civil penalty provision
 
                      (d)  any other order that the Court considers appropriate.
 
-### Division 3A—Compliance audits
-
-##### <a id="43A"></a>43A  Compliance audits
-
-             (1)  This section applies if the Regulator:
-
-                     (a)  suspects, on reasonable grounds, that a person has engaged, is engaging or is proposing to engage in conduct that constituted, constitutes or would constitute:
-
-                              (i)  an offence against this Act; or
-
-                             (ii)  a contravention of a civil penalty provision; and
-
-                     (b)  is satisfied that it would be in the public interest to give the person a notice under this section.
-
-             (2)  The Regulator may, by written notice given to the person, require the person:
-
-                     (a)  to undertake, or arrange for another person to undertake, an audit of whichever of the following is specified in the notice:
-
-                              (i)  the person’s compliance with this Act;
-
-                             (ii)  one or more specified aspects of the person’s compliance with this Act; and
-
-                     (b)  to give the Regulator a written report setting out the results of the audit.
-
-             (3)  The notice must specify:
-
-                     (a)  if the notice requires the person to arrange another person to undertake the audit—requirements relating to the qualifications and independence of the other person; and
-
-                     (b)  the matters to be covered by the audit; and
-
-                     (c)  the period within which the audit must be undertaken; and
-
-                     (d)  the form and content of the report; and
-
-                     (e)  the period within which the report must be given to the Regulator.
-
-             (4)  A person contravenes this subsection if the person is subject to a requirement under subsection (2) and the person fails to comply with the requirement.
-
-             (5)  A person commits an offence of strict liability if the person contravenes subsection (4).
-
-                    Penalty:  30 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (6)  A person is liable to a civil penalty if the person contravenes subsection (4).
-
-                    Civil penalty:          30 penalty units.
-
-             (7)  A notice under subsection (2) is not a legislative instrument.
-
-### Division 3B—Remedial action
-
-##### <a id="43B"></a>43B  Remedial action
-
-             (1)  This section applies if the Regulator:
-
-                     (a)  suspects, on reasonable grounds, that a person has engaged, is engaging or is proposing to engage in conduct that constituted, constitutes or would constitute:
-
-                              (i)  an offence against this Act; or
-
-                             (ii)  a contravention of a civil penalty provision; and
-
-                     (b)  is satisfied that it would be in the public interest to give the person a notice under this section.
-
-             (2)  The Regulator may give the person a written notice requiring the person, within a specified period, to take specified action directed toward either or both of the following:
-
-                     (a)  remedying the conduct;
-
-                     (b)  ensuring that the person does not engage, or continue to engage, in such conduct in the future.
-
-             (3)  A person contravenes this subsection if the person is subject to a requirement under subsection (2) and the person fails to comply with the requirement.
-
-             (4)  A person commits an offence of strict liability if the person contravenes subsection (3).
-
-                    Penalty:  30 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (5)  A person is liable to a civil penalty if the person contravenes subsection (3).
-
-                    Civil penalty:          30 penalty units.
-
-             (6)  A notice under subsection (2) is not a legislative instrument.
-
 ### Division 4—Injunctions
 
 ##### <a id="44"></a>44  Injunctions
 
-             (1)  If a person has engaged, is engaging or is proposing to engage in conduct that constituted, constitutes or would constitute, an offence against this Act or a contravention of a civil penalty provision, the Federal Court may, on the application of the Regulator, grant an injunction:
+             (1)  If a person has engaged, is engaging or is proposing to engage in conduct that constituted, constitutes or would constitute, an offence against this Act, the Federal Court may, on the application of the Regulator, grant an injunction:
 
                      (a)  restraining the person from engaging in the conduct; or
 
                      (b)  requiring the person to do an act or thing.
 
-             (2)  On an application, the Court may, if it thinks it appropriate, grant an injunction by consent of all parties to the proceedings, whether or not the Court is satisfied that the person has engaged, is engaging or is proposing to engage in any conduct that constituted, constitutes or would constitute, an offence against this Act or a contravention of a civil penalty provision.
+             (2)  On an application, the Court may, if it thinks it appropriate, grant an injunction by consent of all parties to the proceedings, whether or not the Court is satisfied that the person has engaged, is engaging or is proposing to engage in any conduct that constituted, constitutes or would constitute, an offence against this Act.
 
              (3)  The Court may, if it thinks it desirable, grant an interim injunction pending its determination of an application.
 
@@ -1279,186 +1009,6 @@ Note:          For strict liability, see section 6.1 of the 
                      (a)  whether or not it appears to the Court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing; and
 
                      (b)  whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the person refuses or fails to do that act or thing.
-
-## Part 8A—Civil penalty orders
-
-### Division 1—Obtaining a civil penalty order
-
-##### <a id="44A"></a>44A  Civil penalty orders
-
-Application for order
-
-             (1)  The Regulator may apply to a relevant court for an order that a person, who is alleged to have contravened a civil penalty provision, pay the Commonwealth a pecuniary penalty.
-
-             (2)  The Regulator must make the application within 4 years of the alleged contravention.
-
-Court may order person to pay pecuniary penalty
-
-             (3)  If the relevant court is satisfied that the person has contravened the civil penalty provision, the court may order the person to pay to the Commonwealth such pecuniary penalty for the contravention as the court determines to be appropriate.
-
-Note:          Subsection (5) sets out the maximum penalty that the court may order the person to pay.
-
-             (4)  An order under subsection (3) is a **_civil penalty order_**.
-
-Determining pecuniary penalty
-
-             (5)  The pecuniary penalty must not be more than:
-
-                     (a)  if the person is a body corporate—5 times the pecuniary penalty specified for the civil penalty provision; and
-
-                     (b)  otherwise—the pecuniary penalty specified for the civil penalty provision.
-
-             (6)  In determining the pecuniary penalty, the relevant court may take into account all relevant matters, including:
-
-                     (a)  the nature and extent of the contravention; and
-
-                     (b)  the nature and extent of any loss or damage suffered because of the contravention; and
-
-                     (c)  the circumstances in which the contravention took place; and
-
-                     (d)  whether the person has previously been found by a court  to have engaged in any similar conduct.
-
-##### <a id="44B"></a>44B  Civil enforcement of penalty
-
-             (1)  A pecuniary penalty is a debt payable to the Commonwealth.
-
-             (2)  The Commonwealth may enforce a civil penalty order as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgement debt.
-
-##### <a id="44C"></a>44C  Conduct contravening more than one civil penalty provision
-
-             (1)  If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Part against a person in relation to the contravention of any one or more of those provisions.
-
-             (2)  However, the person is not liable to more than one pecuniary penalty under this Part in relation to the same conduct.
-
-##### <a id="44D"></a>44D  Multiple contraventions
-
-             (1)  A relevant court may make a single civil penalty order against a person for multiple contraventions of a civil penalty provision if proceedings for the contraventions are founded on the same facts, or if the contraventions form, or are part of, a series of contraventions of the same or a similar character.
-
-Note:          For continuing contraventions of civil penalty provisions, see section 44N.
-
-             (2)  However, the penalty must not exceed the sum of the maximum penalties that could be ordered if a separate penalty were ordered for each of the contraventions.
-
-##### <a id="44E"></a>44E  Proceedings may be heard together
-
-                   A relevant court may direct that 2 or more proceedings for civil penalty orders are to be heard together.
-
-##### <a id="44F"></a>44F  Civil evidence and procedure rules for civil penalty orders
-
-                   A relevant court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
-
-##### <a id="44G"></a>44G  Contravening a civil penalty provision is not an offence
-
-                   A contravention of a civil penalty provision is not an offence.
-
-### Division 2—Civil proceedings and criminal proceedings
-
-##### <a id="44H"></a>44H  Civil proceedings after criminal proceedings
-
-                   A relevant court may not make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is the same, or substantially the same, as the conduct constituting the contravention.
-
-##### <a id="44J"></a>44J  Criminal proceedings during civil proceedings
-
-             (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
-
-                     (a)  criminal proceedings are commenced or have already been commenced against the person for an offence; and
-
-                     (b)  the offence is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention.
-
-             (2)  The proceedings for the order (the **_civil proceedings_**) may be resumed if the person is not convicted of the offence. Otherwise:
-
-                     (a)  the civil proceedings are dismissed; and
-
-(b)  costs must not be awarded in relation to the civil proceedings.
-
-##### <a id="44K"></a>44K  Criminal proceedings after civil proceedings
-
-                   Criminal proceedings may be commenced against a person for conduct that is the same, or substantially the same, as conduct that would constitute a contravention of a civil penalty provision regardless of whether a civil penalty order has been made against the person in relation to the contravention.
-
-##### <a id="44L"></a>44L  Evidence given in civil proceedings not admissible in criminal proceedings
-
-             (1)  Evidence of information given, or evidence of production of documents by an individual, is not admissible in criminal proceedings against the individual if:
-
-                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a civil penalty order against the individual for an alleged contravention of a civil penalty provision (whether or not the order was made); and
-
-                     (b)  the conduct alleged to constitute the offence is the same, or substantially the same, as the conduct alleged to constitute the contravention.
-
-             (2)  However, subsection (1) does not apply to criminal proceedings in relation to the falsity of the evidence given by the individual in the proceedings for the civil penalty order.
-
-### Division 3—Miscellaneous
-
-##### <a id="44M"></a>44M  Ancillary contravention of civil penalty provisions
-
-             (1)  A person must not:
-
-                     (a)  attempt to contravene a civil penalty provision; or
-
-                     (b)  aid, abet, counsel or procure a contravention of a civil penalty provision; or
-
-                     (c)  induce (by threats, promises or otherwise) a contravention of a civil penalty provision; or
-
-                     (d)  be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of a civil penalty provision; or
-
-                     (e)  conspire with others to effect a contravention of a civil penalty provision.
-
-Note:          Section 44Q (which provides that a person’s state of mind does not need to be proven in relation to a civil penalty provision) does not apply to subsection (1) of this section.
-
-Civil penalty
-
-             (2)  A person who contravenes subsection (1) in relation to a civil penalty provision is taken to have contravened the provision.
-
-##### <a id="44N"></a>44N  Continuing contraventions of civil penalty provisions
-
-             (1)  If an act or thing is required under a civil penalty provision to be done:
-
-                     (a)  within a particular period; or
-
-                     (b)  before a particular time;
-
-then the obligation to do that act or thing continues until the act or thing is done (even if the period has expired or the time has passed).
-
-             (2)  A person who contravenes a civil penalty provision that requires an act or thing to be done:
-
-                     (a)  within a particular period; or
-
-                     (b)  before a particular time;
-
-commits a separate contravention of that provision in respect of each day during which the contravention occurs (including the day the relevant civil penalty order is made or any later day).
-
-##### <a id="44P"></a>44P  Mistake of fact
-
-             (1)  A person is not liable to have a civil penalty order made against the person for a contravention of a civil penalty provision if:
-
-                     (a)  at or before the time of the conduct constituting the contravention, the person:
-
-                              (i)  considered whether or not facts existed; and
-
-                             (ii)  was under a mistaken but reasonable belief about those facts; and
-
-                     (b)  had those facts existed, the conduct would not have constituted a contravention of the civil penalty provision.
-
-             (2)  For the purposes of subsection (1), a person may be regarded as having considered whether or not facts existed if:
-
-                     (a)  the person had considered, on a previous occasion, whether those facts existed in the circumstances surrounding that occasion; and
-
-                     (b)  the person honestly and reasonably believed that the circumstances surrounding the present occasion were the same, or substantially the same, as those surrounding the previous occasion.
-
-             (3)  A person who wishes to rely on subsection (1) or (2) in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
-
-##### <a id="44Q"></a>44Q  State of mind
-
-             (1)  In proceedings for a civil penalty order against a person for a contravention of a civil penalty provision (other than section 32A or subsection 44M(1)), it is not necessary to prove:
-
-                     (a)  the person’s intention; or
-
-                     (b)  the person’s knowledge; or
-
-                     (c)  the person’s recklessness; or
-
-                     (d)  the person’s negligence; or
-
-                     (e)  any other state of mind of the person.
-
-             (2)  Subsection (1) does not affect the operation of section 44P (which is about mistake of fact).
 
 ## Part 9—WELS inspectors
 
@@ -1514,11 +1064,7 @@ Note:          Part 7.8 of the _Criminal Code_ provides offe
 
                      (a)  determining whether a person is complying with this Act;
 
-                     (b)  investigating:
-
-                              (i)  a possible contravention of a civil penalty provision; or
-
-                             (ii)  a possible offence against this Act.
+                     (b)  investigating a possible offence against this Act or the regulations.
 
 ##### <a id="48"></a>48  Inspection powers—public areas of WELS business premises
 
@@ -1668,11 +1214,7 @@ Issue of warrant
 
                      (a)  determining whether a person is complying with this Act;
 
-                     (b)  investigating:
-
-                              (i)  a possible contravention of a civil penalty provision; or
-
-                             (ii)  a possible offence against this Act.
+                     (b)  investigating a possible offence against this Act or the regulations.
 
              (3)  However, the magistrate must not issue the warrant unless the WELS inspector or some other person has given to the magistrate, either orally or by affidavit, such further information (if any) as the magistrate requires concerning the grounds on which the issue of the warrant is being sought.
 
@@ -1762,7 +1304,7 @@ the court must assume, unless the contrary is proved, that the exercise of the p
 
 ##### <a id="60"></a>60  Meaning of _person who has_ _WELS information_
 
-                   A person is a **_person who has WELS information_** if the Regulator believes, on reasonable grounds, that the person is capable of giving information, or producing books, records or documents, relevant for the purposes of investigating or preventing an offence against this Act or a contravention of a civil penalty provision.
+                   A person is a **_person who has WELS information_** if the Regulator believes, on reasonable grounds, that the person is capable of giving information, or producing books, records or documents, relevant for the purposes of investigating or preventing an offence against this Act.
 
 ##### <a id="61"></a>61  Regulator may require a person to provide information
 
@@ -2022,13 +1564,7 @@ then the Commonwealth is liable to pay compensation of a reasonable amount to th
 
                      (a)  prescribe fees in respect of matters under this Act; and
 
-                     (b)  prescribe penalties of not more than 50 penalty units for offences against the regulations; and
-
-                     (c)  declare that specified provisions of the regulations are civil penalty provisions for the purposes of this Act, and prescribe penalties for contraventions of such provisions that do not exceed:
-
-                              (i)  for a body corporate—250 penalty units; or
-
-                             (ii)  in any other case—50 penalty units.
+                     (b)  prescribe penalties of not more than 50 penalty units for offences against the regulations.
 
 # Notes to the _Water Efficiency Labelling and Standards Act 2005_
 
@@ -2081,7 +1617,7 @@ of Assent</div>
     <div>18 Feb 2005</div>
   </td>
   <td>
-    <div>Ss. 3–77: 18 Mar 2005 
+    <div>Ss. 3–77: 18 Mar 2005 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2135,13 +1671,13 @@ Remainder: Royal Assent</div>
     <div>22 July 2012</div>
   </td>
   <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
-Schedule 2: 23 July 2012 
-Schedule 3 (item 20): \[ <i>see</i>Note 2] 
+    <div>Schedule 1: \[ <i>see</i>Note 2] 
+Schedule 2: \[ <i>see</i>Note 2 and Table A] 
+Schedule 3 (item 20): \[ <i>see</i>Note 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 5–7), Sch. 2 (item 33) and Sch. 3 (items 21, 22)</div>
+    <div>Sch. 1 (items 5–7), Sch. 2 (item 33) and Sch. 3 (items 21, 22)</div>
   </td>
 </tr></table>
 
@@ -2236,8 +1772,8 @@ _(a)_ Subsection 2(1) (item 3) of the _Environment and Heritage Legislation Am
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2255,22 +1791,6 @@ _(a)_ Subsection 2(1) (item 3) of the _Environment and Heritage Legislation Am
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div><b>Part 2</b></div>
@@ -2361,382 +1881,6 @@ _(a)_ Subsection 2(1) (item 3) of the _Environment and Heritage Legislation Am
 </tr>
 <tr>
   <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 7</div>
-  </td>
-  <td>
-    <div>rs. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part 7</div>
-  </td>
-  <td>
-    <div>rs. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32A</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>rs. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>rs. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 35</div>
-  </td>
-  <td>
-    <div>rs. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 36</div>
-  </td>
-  <td>
-    <div>rs. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37A</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3A of Part 8</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43A</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3B of Part 8</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43B</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44A</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44B</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44C</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44D</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44E</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44F</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44G</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44H</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44J</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44K</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44L</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44M</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44N</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44P</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44Q</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 9</b></div>
   </td>
   <td>
@@ -2770,22 +1914,6 @@ _(a)_ Subsection 2(1) (item 3) of the _Environment and Heritage Legislation Am
 <tr>
   <td>
     <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
   </td>
   <td>
     <div>am. No. 108, 2012</div>
@@ -2976,7 +2104,611 @@ Repeal the section, substitute:
 
              (3)  A person in relation to whom a WELS product is registered is the **_affected person_** for the purposes of a decision referred to in paragraph (1)(b).
 
-The following amendment commences on 1 November 2013:
+The following amendments commence on 23 July 2012:
+
+## Schedule 2
+
+## 1  Subsection 4(2)
+
+After “Crown liable”, insert “to a pecuniary penalty or”.
+
+## 2  Section 7
+
+Insert:
+
+                    <a name="civil-penalti-order"></a>**_civil penalty order_** has the meaning given by subsection 44A(4).
+
+## 3  Section 7
+
+Insert:
+
+                    <a name="civil-penalti-provision"></a><a name="civil-penalti-provision"></a>**_civil penalty provision_**: a provision of this Act is a **_civil penalty provision_** if:
+
+                     (a)  either:
+
+                              (i)  the provision sets out at its foot a pecuniary penalty, or penalties, indicated by the words “Civil penalty”; or
+
+                             (ii)  another provision of this Act provides that the provision is a civil penalty provision; and
+
+                     (b)  the provision is of one of the following kinds:
+
+                              (i)  a subsection, or a section that is not divided into subsections;
+
+                             (ii)  a subregulation, or a regulation that is not divided into subregulations.
+
+## 4  Section 7
+
+Insert:
+
+                    <a name="evidenti-burden"></a>**_evidential burden_**, in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist.
+
+## 5  Section 7 (definition of _evidential material_)
+
+Repeal the definition, substitute:
+
+                    <a name="evidenti-materi"></a>**_evidential material_** means:
+
+                     (a)  in respect of an offence against this Act:
+
+                              (i)  any thing with respect to which the offence has been committed or is suspected, on reasonable grounds, to have been committed; or
+
+                             (ii)  any thing as to which there are reasonable grounds for suspecting that it will afford evidence as to the commission of the offence; or
+
+                            (iii)  any thing as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of committing the offence; and
+
+                     (b)  in respect of a contravention of a civil penalty provision:
+
+                              (i)  any thing with respect to which the civil penalty provision has been contravened or is suspected, on reasonable grounds, of having been contravened; or
+
+                             (ii)  any thing as to which there are reasonable grounds for suspecting that it will afford evidence as to the contravention of the civil penalty provision; or
+
+                            (iii)  any thing as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of contravening the civil penalty provision.
+
+## 6  Section 7
+
+Insert:
+
+                    <a name="relev-court"></a>**_relevant court_** means:
+
+                     (a)  the Federal Court; or
+
+                     (b)  the Federal Magistrates Court; or
+
+                     (c)  a court of a State or Territory that has jurisdiction in relation to matters arising under this Act.
+
+## 7  Part 7 (heading)
+
+Repeal the heading, substitute:
+
+## Part 7—Offences and civil penalties relating to the WELS scheme
+
+## 8  Division 2 of Part 7
+
+Repeal the Division, substitute:
+
+### Division 2—Registration and labelling
+
+##### <a id="32A"></a>32A  False or misleading information or documents
+
+                   A person must not provide information or a document with an application for registration of a WELS product if the person knows, or is reckless as to whether, the information or document is false or misleading in a material particular.
+
+                    Civil penalty:          60 penalty units.
+
+Note:          Part 7.4 of the _Criminal Code_ provides offences in relation to false or misleading statements.
+
+##### <a id="33"></a>33  Supply of unregistered WELS products
+
+             (1)  A person contravenes this subsection if:
+
+                     (a)  the person supplies a WELS product; and
+
+                     (b)  the applicable WELS standard requires the product to be registered for the purposes of the supply.
+
+             (2)  Subsection (1) does not apply if the WELS product is registered at the time of the supply.
+
+Strict liability offence
+
+             (3)  A person commits an offence of strict liability if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+Note 1:       For strict liability, see section 6.1 of the _Criminal Code_.
+
+Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
+
+Civil penalty provision
+
+             (4)  A person is liable to a civil penalty if the person contravenes subsection (1).
+
+                    Civil penalty:          60 penalty units.
+
+             (5)  A person who wishes to rely on subsection (2) in proceedings for a civil penalty order bears an evidential burden in relation to the matter in that subsection.
+
+##### <a id="34"></a>34  Supply of WELS products that are not WELS‑labelled
+
+             (1)  A person contravenes this subsection if:
+
+                     (a)  the person supplies a WELS product; and
+
+                     (b)  the applicable WELS standard requires the WELS product to be WELS‑labelled for the purposes of the supply; and
+
+                     (c)  the product is not WELS‑labelled.
+
+Note:          For **_WELS‑labelled_**, see subsection 20(1).
+
+Strict liability offence
+
+             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Civil penalty provision
+
+             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
+
+                    Civil penalty:          60 penalty units.
+
+## 9  Section 35 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="35"></a>35  Minimum water efficiency
+
+## 10  Subsection 35(1)
+
+Omit “commits an offence”, substitute “contravenes this subsection”.
+
+## 11  Subsection 35(1) (penalty)
+
+Repeal the penalty.
+
+## 12  Subsection 35(2)
+
+Repeal the subsection, substitute:
+
+Strict liability offence
+
+             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Civil penalty provision
+
+             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
+
+                    Civil penalty:          60 penalty units.
+
+## 13  Section 36 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="36"></a>36  Minimum general performance
+
+## 14  Subsection 36(1)
+
+Omit “commits an offence”, substitute “contravenes this subsection”.
+
+## 15  Subsection 36(1) (penalty)
+
+Repeal the penalty.
+
+## 16  Subsection 36(2)
+
+Repeal the subsection, substitute:
+
+Strict liability offence
+
+             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Civil penalty provision
+
+             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
+
+                    Civil penalty:          60 penalty units.
+
+## 17  Subsection 37(1)
+
+Omit “commits an offence”, substitute “contravenes this subsection”.
+
+## 18  Subsection 37(1) (penalty)
+
+Repeal the penalty.
+
+## 19  Subsection 37(2)
+
+Repeal the subsection, substitute:
+
+Strict liability offence
+
+             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Civil penalty provision
+
+             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
+
+                    Civil penalty:          60 penalty units.
+
+## 20  After section 37
+
+Insert:
+
+##### <a id="37A"></a>37A  WELS‑labelling products that are not WELS products
+
+             (1)  A person contravenes this subsection if:
+
+                     (a)  the person supplies a product; and
+
+                     (b)  the product is, or purports to be, WELS‑labelled; and
+
+                     (c)  the product is not a WELS product.
+
+Strict liability offence
+
+             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Civil penalty provision
+
+             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
+
+                    Civil penalty:          60 penalty units.
+
+## 21  Subsection 38(1)
+
+Omit “commits an offence”, substitute “contravenes this subsection”.
+
+## 22  Subsection 38(1) (penalty)
+
+Repeal the penalty.
+
+## 23  Subsection 38(2)
+
+Repeal the subsection, substitute:
+
+Strict liability offence
+
+             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Civil penalty provision
+
+             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
+
+                    Civil penalty:          60 penalty units.
+
+## 24  Subsection 40(1)
+
+Omit “Part 7”, substitute “this Act”.
+
+## 25  After subsection 40(1)
+
+Insert:
+
+          (1A)  The regulations may provide for a person who is alleged to have contravened a civil penalty provision to pay a penalty to the Commonwealth as an alternative to proceedings for a civil penalty order.
+
+## 26  At the end of subsection 40(2)
+
+Add “or that contravention”.
+
+## 27  After Division 3 of Part 8
+
+Insert:
+
+### Division 3A—Compliance audits
+
+##### <a id="43A"></a>43A  Compliance audits
+
+             (1)  This section applies if the Regulator:
+
+                     (a)  suspects, on reasonable grounds, that a person has engaged, is engaging or is proposing to engage in conduct that constituted, constitutes or would constitute:
+
+                              (i)  an offence against this Act; or
+
+                             (ii)  a contravention of a civil penalty provision; and
+
+                     (b)  is satisfied that it would be in the public interest to give the person a notice under this section.
+
+             (2)  The Regulator may, by written notice given to the person, require the person:
+
+                     (a)  to undertake, or arrange for another person to undertake, an audit of whichever of the following is specified in the notice:
+
+                              (i)  the person’s compliance with this Act;
+
+                             (ii)  one or more specified aspects of the person’s compliance with this Act; and
+
+                     (b)  to give the Regulator a written report setting out the results of the audit.
+
+             (3)  The notice must specify:
+
+                     (a)  if the notice requires the person to arrange another person to undertake the audit—requirements relating to the qualifications and independence of the other person; and
+
+                     (b)  the matters to be covered by the audit; and
+
+                     (c)  the period within which the audit must be undertaken; and
+
+                     (d)  the form and content of the report; and
+
+                     (e)  the period within which the report must be given to the Regulator.
+
+             (4)  A person contravenes this subsection if the person is subject to a requirement under subsection (2) and the person fails to comply with the requirement.
+
+             (5)  A person commits an offence of strict liability if the person contravenes subsection (4).
+
+                    Penalty:  30 penalty units.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (6)  A person is liable to a civil penalty if the person contravenes subsection (4).
+
+                    Civil penalty:          30 penalty units.
+
+             (7)  A notice under subsection (2) is not a legislative instrument.
+
+### Division 3B—Remedial action
+
+##### <a id="43B"></a>43B  Remedial action
+
+             (1)  This section applies if the Regulator:
+
+                     (a)  suspects, on reasonable grounds, that a person has engaged, is engaging or is proposing to engage in conduct that constituted, constitutes or would constitute:
+
+                              (i)  an offence against this Act; or
+
+                             (ii)  a contravention of a civil penalty provision; and
+
+                     (b)  is satisfied that it would be in the public interest to give the person a notice under this section.
+
+             (2)  The Regulator may give the person a written notice requiring the person, within a specified period, to take specified action directed toward either or both of the following:
+
+                     (a)  remedying the conduct;
+
+                     (b)  ensuring that the person does not engage, or continue to engage, in such conduct in the future.
+
+             (3)  A person contravenes this subsection if the person is subject to a requirement under subsection (2) and the person fails to comply with the requirement.
+
+             (4)  A person commits an offence of strict liability if the person contravenes subsection (3).
+
+                    Penalty:  30 penalty units.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (5)  A person is liable to a civil penalty if the person contravenes subsection (3).
+
+                    Civil penalty:          30 penalty units.
+
+             (6)  A notice under subsection (2) is not a legislative instrument.
+
+## 28  Subsections 44(1) and (2)
+
+After “against this Act”, insert “or a contravention of a civil penalty provision”.
+
+## 29  After Part 8
+
+Insert:
+
+## Part 8A—Civil penalty orders
+
+### Division 1—Obtaining a civil penalty order
+
+##### <a id="44A"></a>44A  Civil penalty orders
+
+Application for order
+
+             (1)  The Regulator may apply to a relevant court for an order that a person, who is alleged to have contravened a civil penalty provision, pay the Commonwealth a pecuniary penalty.
+
+             (2)  The Regulator must make the application within 4 years of the alleged contravention.
+
+Court may order person to pay pecuniary penalty
+
+             (3)  If the relevant court is satisfied that the person has contravened the civil penalty provision, the court may order the person to pay to the Commonwealth such pecuniary penalty for the contravention as the court determines to be appropriate.
+
+Note:          Subsection (5) sets out the maximum penalty that the court may order the person to pay.
+
+             (4)  An order under subsection (3) is a **_civil penalty order_**.
+
+Determining pecuniary penalty
+
+             (5)  The pecuniary penalty must not be more than:
+
+                     (a)  if the person is a body corporate—5 times the pecuniary penalty specified for the civil penalty provision; and
+
+                     (b)  otherwise—the pecuniary penalty specified for the civil penalty provision.
+
+             (6)  In determining the pecuniary penalty, the relevant court may take into account all relevant matters, including:
+
+                     (a)  the nature and extent of the contravention; and
+
+                     (b)  the nature and extent of any loss or damage suffered because of the contravention; and
+
+                     (c)  the circumstances in which the contravention took place; and
+
+                     (d)  whether the person has previously been found by a court  to have engaged in any similar conduct.
+
+##### <a id="44B"></a>44B  Civil enforcement of penalty
+
+             (1)  A pecuniary penalty is a debt payable to the Commonwealth.
+
+             (2)  The Commonwealth may enforce a civil penalty order as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgement debt.
+
+##### <a id="44C"></a>44C  Conduct contravening more than one civil penalty provision
+
+             (1)  If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Part against a person in relation to the contravention of any one or more of those provisions.
+
+             (2)  However, the person is not liable to more than one pecuniary penalty under this Part in relation to the same conduct.
+
+##### <a id="44D"></a>44D  Multiple contraventions
+
+             (1)  A relevant court may make a single civil penalty order against a person for multiple contraventions of a civil penalty provision if proceedings for the contraventions are founded on the same facts, or if the contraventions form, or are part of, a series of contraventions of the same or a similar character.
+
+Note:          For continuing contraventions of civil penalty provisions, see section 44N.
+
+             (2)  However, the penalty must not exceed the sum of the maximum penalties that could be ordered if a separate penalty were ordered for each of the contraventions.
+
+##### <a id="44E"></a>44E  Proceedings may be heard together
+
+                   A relevant court may direct that 2 or more proceedings for civil penalty orders are to be heard together.
+
+##### <a id="44F"></a>44F  Civil evidence and procedure rules for civil penalty orders
+
+                   A relevant court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
+
+##### <a id="44G"></a>44G  Contravening a civil penalty provision is not an offence
+
+                   A contravention of a civil penalty provision is not an offence.
+
+### Division 2—Civil proceedings and criminal proceedings
+
+##### <a id="44H"></a>44H  Civil proceedings after criminal proceedings
+
+                   A relevant court may not make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is the same, or substantially the same, as the conduct constituting the contravention.
+
+##### <a id="44J"></a>44J  Criminal proceedings during civil proceedings
+
+             (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
+
+                     (a)  criminal proceedings are commenced or have already been commenced against the person for an offence; and
+
+                     (b)  the offence is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention.
+
+             (2)  The proceedings for the order (the **_civil proceedings_**) may be resumed if the person is not convicted of the offence. Otherwise:
+
+                     (a)  the civil proceedings are dismissed; and
+
+(b)  costs must not be awarded in relation to the civil proceedings.
+
+##### <a id="44K"></a>44K  Criminal proceedings after civil proceedings
+
+                   Criminal proceedings may be commenced against a person for conduct that is the same, or substantially the same, as conduct that would constitute a contravention of a civil penalty provision regardless of whether a civil penalty order has been made against the person in relation to the contravention.
+
+##### <a id="44L"></a>44L  Evidence given in civil proceedings not admissible in criminal proceedings
+
+             (1)  Evidence of information given, or evidence of production of documents by an individual, is not admissible in criminal proceedings against the individual if:
+
+                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a civil penalty order against the individual for an alleged contravention of a civil penalty provision (whether or not the order was made); and
+
+                     (b)  the conduct alleged to constitute the offence is the same, or substantially the same, as the conduct alleged to constitute the contravention.
+
+             (2)  However, subsection (1) does not apply to criminal proceedings in relation to the falsity of the evidence given by the individual in the proceedings for the civil penalty order.
+
+### Division 3—Miscellaneous
+
+##### <a id="44M"></a>44M  Ancillary contravention of civil penalty provisions
+
+             (1)  A person must not:
+
+                     (a)  attempt to contravene a civil penalty provision; or
+
+                     (b)  aid, abet, counsel or procure a contravention of a civil penalty provision; or
+
+                     (c)  induce (by threats, promises or otherwise) a contravention of a civil penalty provision; or
+
+                     (d)  be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of a civil penalty provision; or
+
+                     (e)  conspire with others to effect a contravention of a civil penalty provision.
+
+Note:          Section 44Q (which provides that a person’s state of mind does not need to be proven in relation to a civil penalty provision) does not apply to subsection (1) of this section.
+
+Civil penalty
+
+             (2)  A person who contravenes subsection (1) in relation to a civil penalty provision is taken to have contravened the provision.
+
+##### <a id="44N"></a>44N  Continuing contraventions of civil penalty provisions
+
+             (1)  If an act or thing is required under a civil penalty provision to be done:
+
+                     (a)  within a particular period; or
+
+                     (b)  before a particular time;
+
+then the obligation to do that act or thing continues until the act or thing is done (even if the period has expired or the time has passed).
+
+             (2)  A person who contravenes a civil penalty provision that requires an act or thing to be done:
+
+                     (a)  within a particular period; or
+
+                     (b)  before a particular time;
+
+commits a separate contravention of that provision in respect of each day during which the contravention occurs (including the day the relevant civil penalty order is made or any later day).
+
+##### <a id="44P"></a>44P  Mistake of fact
+
+             (1)  A person is not liable to have a civil penalty order made against the person for a contravention of a civil penalty provision if:
+
+                     (a)  at or before the time of the conduct constituting the contravention, the person:
+
+                              (i)  considered whether or not facts existed; and
+
+                             (ii)  was under a mistaken but reasonable belief about those facts; and
+
+                     (b)  had those facts existed, the conduct would not have constituted a contravention of the civil penalty provision.
+
+             (2)  For the purposes of subsection (1), a person may be regarded as having considered whether or not facts existed if:
+
+                     (a)  the person had considered, on a previous occasion, whether those facts existed in the circumstances surrounding that occasion; and
+
+                     (b)  the person honestly and reasonably believed that the circumstances surrounding the present occasion were the same, or substantially the same, as those surrounding the previous occasion.
+
+             (3)  A person who wishes to rely on subsection (1) or (2) in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
+
+##### <a id="44Q"></a>44Q  State of mind
+
+             (1)  In proceedings for a civil penalty order against a person for a contravention of a civil penalty provision (other than section 32A or subsection 44M(1)), it is not necessary to prove:
+
+                     (a)  the person’s intention; or
+
+                     (b)  the person’s knowledge; or
+
+                     (c)  the person’s recklessness; or
+
+                     (d)  the person’s negligence; or
+
+                     (e)  any other state of mind of the person.
+
+             (2)  Subsection (1) does not affect the operation of section 44P (which is about mistake of fact).
+
+## 30  Paragraphs 47(b) and 58(2)(b)
+
+Repeal the paragraphs, substitute:
+
+                     (b)  investigating:
+
+                              (i)  a possible contravention of a civil penalty provision; or
+
+                             (ii)  a possible offence against this Act.
+
+## 31  At the end of section 60
+
+Add “or a contravention of a civil penalty provision”.
+
+## 32  At the end of subsection 77(2)
+
+Add:
+
+             ; and (c)  declare that specified provisions of the regulations are civil penalty provisions for the purposes of this Act, and prescribe penalties for contraventions of such provisions that do not exceed:
+
+                              (i)  for a body corporate—250 penalty units; or
+
+                             (ii)  in any other case—50 penalty units.
+
+The following amendments commence on 1 November 2013:
 
 ## Schedule 3
 
@@ -2998,21 +2730,13 @@ Repeal the subsections, substitute:
 
                      (e)  that the products be WELS‑labelled for the purposes of specified supplies of the product.
 
-As at 28 August 2012 the amendments are not incorporated in this compilation.
+As at 22 July 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Water Efficiency Labelling and Standards Amendment (Scheme Enhancements) Act 2012 (No. 108, 2012)_
-
-## Schedule 2
-
-## 33  Application provisions
-
-(1)       Section 32A of the _Water Efficiency Labelling and Standards Act 2005_, as inserted by item 8 of this Schedule, applies in relation to applications made after the commencement of this item.
-
-(2)       Sections 43A and 43B of the _Water Efficiency Labelling and Standards Act 2005_, as inserted by item 27 of this Schedule, apply in relation to conduct engaged in after the commencement of this item.
 
 ## Schedule 3
 
@@ -3086,7 +2810,7 @@ Refund of fees paid under old WELS Act
 
 (5)       If a fee accompanied the application that was made under the old WELS Act for registration of the WELS product, the Regulator must pay the person in relation to whom the product is registered an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00644/Html/e2fbaf13-10f3-41b8-9586-e3a803d9396b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00623/Html/516c1bed-684b-4364-a3d4-f55f31d5ea8a_files/image002.gif)
 
 where:
 
@@ -3099,5 +2823,15 @@ where:
 Regulations
 
 (8)       The Governor‑General may make regulations prescribing additional matters of a transitional nature (including any saving or application provisions) relating to Part 6 of the new WELS Act.
+
+The following provisions commence on 23 July 2012:
+
+## Schedule 2
+
+## 33  Application provisions
+
+(1)       Section 32A of the _Water Efficiency Labelling and Standards Act 2005_, as inserted by item 8 of this Schedule, applies in relation to applications made after the commencement of this item.
+
+(2)       Sections 43A and 43B of the _Water Efficiency Labelling and Standards Act 2005_, as inserted by item 27 of this Schedule, apply in relation to conduct engaged in after the commencement of this item.
 
  
