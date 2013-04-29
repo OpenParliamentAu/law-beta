@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00762/Html/AgrVetChemCode1994_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00508/Html/AgrVetChemCode1994_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals Code Act 1994
 
 **Act No. 47 of 1994 as amended**
 
-This compilation was prepared on 23 November 2010
- taking into account amendments up to Act No. 121 of 2010
+This compilation was prepared on 19 July 2010
+ taking into account amendments up to Act No. 113 of 2010
 
 The text of any of those amendments not in force on that date is appended in the Notes section
 
@@ -7012,7 +7012,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                              (ii)  an unintended effect that is harmful to animals, plants or things or to the environment;
 
-                            if the person refuses or fails to do that thing.
+                            if the person refuses or fails to do that thing.
 
 ### Division 3—Powers of entry, search and seizure
 
@@ -7280,7 +7280,7 @@ the court may order that the inspector may keep the thing for a period stated in
 
              (3)  If the court thinks that notice of the application should be given to any person, it may require such a notice to be given before it hears the application.
 
-##### <a id="142"></a>142  Certain expenses to be recoverable by APVMA
+##### <a id="142"></a>142  Certain expenses to be recoverable by APVMA
 
              (1)  Any expense incurred by the APVMA under paragraph 131(1)(i) in respect of the destruction or making harmless of a chemical product is a debt due to the APVMA by the owner of the product.
 
@@ -7562,7 +7562,7 @@ that the APVMA has directed.
 
              (3)  The applicant must pay to the APVMA the amount that the APVMA notifies the applicant in writing to be the cost of the analysis referred to in subsection (1), including the cost of packaging and transporting the sample or samples for analysis.
 
-##### <a id="159"></a>159  APVMA or other authority may require, or require additional, information, report or sample in certain circumstances
+##### <a id="159"></a>159  APVMA or other authority may require, or require additional, information, report or sample in certain circumstances
 
              (1)  For the purposes of:
 
@@ -8064,7 +8064,7 @@ the disclosing person:
 
              (4)  If an individual is convicted of an indictable offence against this Code, the court may, if the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a monetary penalty not greater than the number of penalty units worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00762/Html/AgrVetChemCode1994_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00508/Html/AgrVetChemCode1994_WD02_image002.gif)
 
 where:
 
@@ -8559,41 +8559,43 @@ of Assent</div>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>115, 2001</div>
-  </td>
-  <td>
-    <div>18 Sept 2001</div>
-  </td>
-  <td>
-    <div>16 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>13, 2003</div>
-  </td>
-  <td>
-    <div>8 Apr 2003</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedules 1, 2 and 3: 8 Oct 2003 
+<thead>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>115, 2001</div>
+    </td>
+    <td>
+      <div>18 Sept 2001</div>
+    </td>
+    <td>
+      <div>16 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>13, 2003</div>
+    </td>
+    <td>
+      <div>8 Apr 2003</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedules 1, 2 and 3: 8 Oct 2003 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>as amended by</div>
@@ -8628,145 +8630,130 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004</div>
-  </td>
-  <td>
-    <div>79, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 132–446): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30) 
+<thead>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004</div>
+    </td>
+    <td>
+      <div>79, 2004</div>
+    </td>
+    <td>
+      <div>23 June 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 132–446): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30) 
 Schedule 2 (item 1): 24 June 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>US Free Trade Agreement Implementation Act 2004</div>
-  </td>
-  <td>
-    <div>120, 2004</div>
-  </td>
-  <td>
-    <div>16 Aug 2004</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1, 3–14): 1 Jan 2005 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>US Free Trade Agreement Implementation Act 2004</div>
+    </td>
+    <td>
+      <div>120, 2004</div>
+    </td>
+    <td>
+      <div>16 Aug 2004</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1, 3–14): 1 Jan 2005 
 Schedule 2 (items 15–21): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005</div>
-  </td>
-  <td>
-    <div>42, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 43–47): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 46)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2005</div>
-  </td>
-  <td>
-    <div>100, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 4): <i>(h)</i> 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005</div>
+    </td>
+    <td>
+      <div>42, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 43–47): Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 46)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2005</div>
+    </td>
+    <td>
+      <div>100, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 4): <i>(h)</i> 
 Schedule 1 (item 5): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Food Standards Australia New Zealand Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>98, 2007</div>
-  </td>
-  <td>
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 72, 73, 77, 78): <i>(i)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 77, 78)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 3, 153): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Code Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>113, 2010</div>
-  </td>
-  <td>
-    <div>14 July 2010</div>
-  </td>
-  <td>
-    <div>15 July 2010</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 7B, 8)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Food Standards Australia New Zealand Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>121, 2010</div>
-  </td>
-  <td>
-    <div>17 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2–6): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 6)</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Food Standards Australia New Zealand Amendment Act 2007</div>
+    </td>
+    <td>
+      <div>98, 2007</div>
+    </td>
+    <td>
+      <div>28 June 2007</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 72, 73, 77, 78): <i>(i)</i></div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 77, 78)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
+    </td>
+    <td>
+      <div>103, 2010</div>
+    </td>
+    <td>
+      <div>13 July 2010</div>
+    </td>
+    <td>
+      <div>Schedule 6 (items 1, 3, 153): \[ <i>see</i>Note 2]</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Code Amendment Act 2010</div>
+    </td>
+    <td>
+      <div>113, 2010</div>
+    </td>
+    <td>
+      <div>14 July 2010</div>
+    </td>
+    <td>
+      <div>15 July 2010</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 7B, 8)</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(2) of which provides as follows:
 
@@ -11897,74 +11884,7 @@ Omit “Section 65R of the _Trade Practices Act 1974_”, substitute “Sectio
 
 _Note:       The heading to section 106 is altered by omitting “Trade Practices Act” and substituting “Competition and Consumer Act”._
 
-As at 23 November 2010 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Food Standards Australia New Zealand Amendment Act 2010 
- (No. 121, 2010)_
-
-The following amendments commence on 17 May 2011 unless proclaimed earlier:
-
-## Schedule 1
-
-## 2  Subsection 13A(1) of the Code set out in the Schedule
-
-Repeal the subsection, substitute:
-
-             (1)  If:
-
-                     (a)  an application under section 10 or 27 is made in relation to a chemical product; and
-
-                     (b)  the application is acknowledged; and
-
-                     (c)  it is likely that, if the application were granted, a variation would be required to the Maximum Residue Limits Standard;
-
-the APVMA must notify Food Standards Australia New Zealand of the application.
-
-          (1A)  If:
-
-                     (a)  either:
-
-                              (i)  a variation under subsection 34(5) relates to the registration of a chemical product; or
-
-                             (ii)  a variation under subsection 34(5) or 34A(3) relates to the approval of a label for containers for a chemical product; and
-
-                     (b)  it is likely that, as a result of the variation, a variation will be required to the Maximum Residue Limits Standard;
-
-the APVMA must notify Food Standards Australia New Zealand of the variation mentioned in paragraph (a).
-
-          (1B)  If:
-
-                     (a)  an application under section 110 is made for a permit in respect of a chemical product and the application is in accordance with subsection 110(2); and
-
-                     (b)  it is likely that, if the application were granted, a variation would be required to the Maximum Residue Limits Standard;
-
-the APVMA must notify Food Standards Australia New Zealand of the application.
-
-## 3  Subsection 13A(2) of the Code set out in the Schedule
-
-Omit “The notice”, substitute “A notice under this section”.
-
-## 4  Paragraph 13A(2)(c) of the Code set out in the Schedule
-
-Repeal the paragraph, substitute:
-
-                     (c)  be given to Food Standards Australia New Zealand:
-
-                              (i)  if subsection (1) applies—as soon as practicable after the application is acknowledged; or
-
-                             (ii)  if subsection (1A) applies—as soon as practicable after the variation is made; or
-
-                            (iii)  if subsection (1B) applies—as soon as practicable after the application is made.
-
-## 5  After paragraph 14(5)(e) of the Code set out in the Schedule
-
-Insert:
-
-                    (ea)  any dietary exposure assessment prepared under subsection 82(4) of the _Food Standards Australia New Zealand Act 1991_ as a result of any proposed variation notified under subsection 82(3) of that Act in relation to the product, and any comments on the assessment given to the APVMA under subsection 82(4) of that Act;
-
-As at 23 November 2010 the amendments are not incorporated in this compilation.
+As at 19 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -12124,17 +12044,6 @@ _Agricultural and Veterinary Chemicals Code Amendment Act 2010
 
 **_variations_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_.
 
-* * *
-
-_Food Standards Australia New Zealand Amendment Act 2010
- (No. 121, 2010)_
-
-The following provision commences on 17 May 2011 unless proclaimed earlier:
-
-## Schedule 1
-
-## 6  Application
-
-The amendments made by items 2 to 4 apply in relation to applications or variations made on or after the commencement of those items.
+ 
 
  
