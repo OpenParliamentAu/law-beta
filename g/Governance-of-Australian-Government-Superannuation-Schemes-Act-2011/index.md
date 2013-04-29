@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00806/Html/d6c3d8fa-01e1-4e50-a814-a061fac54d35_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00009/Html/4c3733ea-f9d5-4535-887d-1cc3b80dfa3f_files/image001.gif)
 
 # Governance of Australian Government Superannuation Schemes Act 2011
 
 **Act No. 59 of 2011 as amended**
 
-This compilation was prepared on 12 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -503,8 +504,6 @@ Consent to termination
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
-
              (2)  A person is not eligible for appointment to act as a director if the person’s appointment would result in a contravention of a SIS fitness and propriety standard.
 
              (3)  In the case of an appointment under subsection (1), the Minister must consult the Defence Minister before appointing a person to act as a director.
@@ -534,6 +533,18 @@ the Minister must:
                      (c)  appoint the person who has been nominated to act as a director; and
 
                      (d)  appoint the person for the period specified in the nomination.
+
+             (7)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See the _Acts Interpretation Act 1901_.
 
 #### Subdivision C—Meetings of the Board
 
@@ -1113,28 +1124,11 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 653, 654): <i>(a)</i> 
-Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 653, 654): <i>(a)</i> 
+Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 15, 16, 50): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 50)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1286,46 +1280,6 @@ _(a)_     Subsection 2(1) (items 2 and 4) of the _Acts Interpretation Am
 </thead>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 18(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -1364,15 +1318,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 4
-
-## 50  Saving—appointments
-
-The amendments made by this Part do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
  
