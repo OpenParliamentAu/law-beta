@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00609/Html/42dac656-96f2-49d0-9550-15ab33279218_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00406/Html/728db3f7-97c8-4082-91a0-97ae16b120e6_files/image001.gif)
 
 # Ombudsman Act 1976
 
 **Act No. 181 of 1976 as amended**
 
-This compilation was prepared on 2 August 2012
+This compilation was prepared on 12 April 2012
  taking into account amendments up to Act No. 9 of 2012
 
 The text of any of those amendments not in force 
@@ -2429,7 +2429,7 @@ Note:          For information, documents or other records giv
 
              (4)  A PPO is taken to be registered for the purposes of this Part from the time when the Postal Industry Ombudsman includes that PPO on the Register.
 
-##### <a id="19ZB"></a>19ZB  Information to be included in Register
+##### <a id="19ZB"></a>19ZB  Information to be included in Register
 
              (1)  The Postal Industry Ombudsman must include the following information in the register:
 
@@ -2571,7 +2571,7 @@ Note:          In certain circumstances, a PPO that is no long
 
                      (b)  may, on his or her own initiative, investigate action that he or she is authorised by this Act to investigate.
 
-             (3)  The Overseas Students Ombudsman is authorised by this Act to investigate action taken by a private registered provider in connection with an overseas student, an intending overseas student, an accepted student, or a former accepted student, within the meaning of the Overseas Students Act.
+             (3)  The Overseas Students Ombudsman is authorised by this Act to investigate action taken by a private registered provider in connection with an overseas student, an intending overseas student, or an accepted student, within the meaning of the Overseas Students Act.
 
 ##### <a id="19ZK"></a>19ZK  Transfer of complaints
 
@@ -2605,7 +2605,7 @@ Note:          In certain circumstances, a PPO that is no long
 
              (5)  In this section:
 
-                    <a name="statutori-complaint-handler"></a>**_statutory complaint handler_** means a person, prescribed under the regulations, who has a function of investigating action taken by a private registered provider in connection with an overseas student, an intending overseas student, an accepted student, or a former accepted student, within the meaning of the Overseas Students Act.
+                    <a name="statutori-complaint-handler"></a>**_statutory complaint handler_** means a person, prescribed under the regulations, who has a function of investigating action taken by a private registered provider in connection with an overseas student, an intending overseas student, or an accepted student, within the meaning of the Overseas Students Act.
 
                     <a name="statutori-offic-holder"></a>**_statutory office‑holder_** means a person who holds any office or appointment under a law of the Commonwealth, or under a law of a State or Territory.
 
@@ -3488,7 +3488,7 @@ of Assent</div>
     <div>13 Dec 1976</div>
   </td>
   <td>
-    <div>1 July 1977 ( <i>see Gazette</i>1977, No. S115)</div>
+    <div>1 July 1977 ( <i>see Gazette</i>1977, No. S115)</div>
   </td>
   <td>
     <div></div>
@@ -3539,7 +3539,7 @@ of Assent</div>
     <div>28 Nov 1979</div>
   </td>
   <td>
-    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
+    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
   </td>
   <td>
     <div>—</div>
@@ -3730,7 +3730,7 @@ Remainder: 1 July 1989 ( <i>see Gazette</i>1989, No. S230)</div>
   </td>
   <td>
     <div>Part 1 (ss. 1, 2): Royal Assent 
-S. 24 and Part 5 (s. 26): 1 Feb 1992 ( <i>see</i>s. 2(3) and <i>Gazette</i>1992, No. S32) Remainder: 1 July 1991</div>
+S. 24 and Part 5 (s. 26): 1 Feb 1992 ( <i>see</i>s. 2(3) and <i>Gazette</i>1992, No. S32) Remainder: 1 July 1991</div>
   </td>
   <td>
     <div>—</div>
@@ -3801,8 +3801,8 @@ Remainder: Royal Assent</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(g)</i> 
-Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(g)</i></div>
+    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(g)</i> 
+Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(g)</i></div>
   </td>
   <td>
     <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, Sch. \[item 17])</div>
@@ -3907,7 +3907,7 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472)</div
   </td>
   <td>
     <div>Schedule 1 (item 58): 23 Nov 1994 ( <i>see</i>s. 2(2)) 
-Schedule 2 (items 8–13): 1 July 1994 
+Schedule 2 (items 8–13): 1 July 1994 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3926,7 +3926,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 2 (item 78): <i>(j)</i> 
-Schedule 4 (item 117) and Schedule 5 (items 109–111): Royal Assent <i>(j)</i></div>
+Schedule 4 (item 117) and Schedule 5 (items 109–111): Royal Assent <i>(j)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3943,7 +3943,7 @@ Schedule 4 (item 117) and Schedule 5 (items 109–111): Royal Assent <i>(j
     <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
+    <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3961,7 +3961,7 @@ Remainder: Royal Assent</div>
     <div>3 May 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 40–42): 1 July 1997 <i>(k)</i></div>
+    <div>Schedule 1 (items 40–42): 1 July 1997 <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3978,7 +3978,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 711–717): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
+    <div>Schedule 1 (items 711–717): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4012,7 +4012,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -4069,7 +4069,7 @@ Remainder: Royal Assent</div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -4100,7 +4100,7 @@ Remainder: Royal Assent</div>
     <div>10 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 2 (items 84–98, 226): 1 Jan 2003</div>
+    <div>Schedule 2 (items 84–98, 226): 1 Jan 2003</div>
   </td>
   <td>
     <div>Sch. 2 (item 226) \[ <i>see</i>Table A]</div>
@@ -4117,14 +4117,14 @@ Remainder: Royal Assent</div>
     <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>Schedule 3 (items 3, 4): <i>(o)</i> 
-Schedule 3 (items 5, 6, 8) and Schedule 4: 1 July 2005( <i>see</i>s. 2(1)) 
+    <div>Schedule 3 (items 3, 4): <i>(o)</i> 
+Schedule 3 (items 5, 6, 8) and Schedule 4: 1 July 2005 <i>(see</i>s. 2(1)) 
 Schedule 3 (item 7): <i>(o)</i> 
-Schedule 3 (items 9–11): <i>(o)</i></div>
+Schedule 3 (items 9–11): <i>(o)</i></div>
   </td>
   <td>
     <div>Sch. 4 \[ <i>see</i>Note 1] 
-S. 2(1) (items 5, 7, 9) (am. by 8, 2007, Sch. 2 \[items 
+S. 2(1) (items 5, 7, 9) (am. by 8, 2007, Sch. 1 \[items 
 2–4])</div>
   </td>
 </tr>
@@ -4156,7 +4156,7 @@ S. 2(1) (items 5, 7, 9) (am. by 8, 2007, Sch. 2 \[items
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2–4): <i>(oa)</i></div>
+    <div>Schedule 2 (items 2–4): <i>(oa)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4173,8 +4173,8 @@ S. 2(1) (items 5, 7, 9) (am. by 8, 2007, Sch. 2 \[items
     <div>12 Dec 2005</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2–25): Royal Assent 
-Schedule 2 (items 28–31): <i>(p)</i></div>
+    <div>Schedule 2 (items 2–25): Royal Assent 
+Schedule 2 (items 28–31): <i>(p)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4191,7 +4191,7 @@ Schedule 2 (items 28–31): <i>(p)</i></div>
     <div>6 Apr 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–14, 20(1), 21): 6 Oct 2006 
+    <div>Schedule 1 (items 1–14, 20(1), 21): 6 Oct 2006 
 Schedule 2 (item 1): <i>(q)</i> 
 Schedule 2 (item 2): <i>(q)</i> 
 Schedule 2 (item 3): <i>(q)</i> 
@@ -4199,7 +4199,7 @@ Schedule 2 (item 4): <i>(q)</i>
 Schedule 2 (item 5): <i>(q)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (items 20(1), 21) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 20(1), 21) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -4213,7 +4213,7 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 3 (items 46–64): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (items 46–64): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -4230,7 +4230,7 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 41–47): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 41–47): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -4247,7 +4247,7 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>23 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 98–101): Royal Assent</div>
+    <div>Schedule 1 (items 98–101): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -4281,7 +4281,7 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 4 (items 59–64, 66, 67) and Schedule 7: <i>(s)</i></div>
+    <div>Schedule 4 (items 59–64, 66, 67) and Schedule 7: <i>(s)</i></div>
   </td>
   <td>
     <div>Sch. 4 (items 66, 67) \[ <i>see</i>Table A] 
@@ -4299,7 +4299,7 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
     <div>10 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 241, 242): 10 June 2011</div>
+    <div>Schedule 1 (items 241, 242): 10 June 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -4316,7 +4316,7 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 70–86): Royal Assent 
+    <div>Schedule 1 (items 70–86): Royal Assent 
 Schedule 6 (item 130): 19 Apr 2011</div>
   </td>
   <td>
@@ -4334,10 +4334,10 @@ Schedule 6 (item 130): 19 Apr 2011</div>
     <div>8 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–4, 8, 9): 9 Apr 2011</div>
+    <div>Schedule 2 (items 1–4, 8, 9): 9 Apr 2011</div>
   </td>
   <td>
-    <div>Sch. 2 (items 8, 9) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 8, 9) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -4351,7 +4351,7 @@ Schedule 6 (item 130): 19 Apr 2011</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 894–900) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 894–900) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -4368,7 +4368,7 @@ Schedule 6 (item 130): 19 Apr 2011</div>
     <div>28 June 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 123, 124): <i>(t)</i></div>
+    <div>Schedule 1 (items 123, 124): <i>(t)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4385,10 +4385,10 @@ Schedule 6 (item 130): 19 Apr 2011</div>
     <div>20 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 5 (items 6, 7, 8(2)): 1 July 2012</div>
+    <div>Schedule 5 (items 6, 7, 8(2)): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 5 (item 8(2)) \[ <i>see</i>Table A]</div>
+    <div>Sch. 5 (item 8(2)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -5572,15 +5572,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 199, 1991; No. 33, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
+    <div>Ss. 16, 17</div>
   </td>
   <td>
     <div>am. No. 199, 1991; No. 33, 1994</div>
@@ -5748,7 +5740,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19G</div>
+    <div>Ss. 19G, 19H</div>
   </td>
   <td>
     <div>ad. No. 25, 2006</div>
@@ -5756,23 +5748,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19H</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19J</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19K</div>
+    <div>Ss. 19J, 19K</div>
   </td>
   <td>
     <div>ad. No. 25, 2006</div>
@@ -5820,15 +5796,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19P</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19Q</div>
+    <div>Ss. 19P, 19Q</div>
   </td>
   <td>
     <div>ad. No. 25, 2006</div>
@@ -5860,63 +5828,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19S</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19T</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19U</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19V</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19W</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19X</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19Y</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19Z</div>
+    <div>Ss. 19S–19Z</div>
   </td>
   <td>
     <div>ad. No. 25, 2006</div>
@@ -5932,23 +5844,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19ZA</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZB</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZC</div>
+    <div>Ss. 19ZA–19ZC</div>
   </td>
   <td>
     <div>ad. No. 25, 2006</div>
@@ -6020,23 +5916,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19ZF</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZG</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZH</div>
+    <div>Ss. 19ZF–19ZH</div>
   </td>
   <td>
     <div>ad. No. 11, 2011</div>
@@ -6052,47 +5932,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19ZI</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZJ</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 9, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZK</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 9, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZL</div>
+    <div>Ss. 19ZI–19ZL</div>
   </td>
   <td>
     <div>ad. No. 11, 2011</div>
@@ -6108,71 +5948,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19ZM</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZN</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZO</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZP</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZQ</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZR</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZS</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZT</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19ZU</div>
+    <div>Ss. 19ZM–19ZU</div>
   </td>
   <td>
     <div>ad. No. 11, 2011</div>
@@ -6488,13 +6264,6 @@ No. 49, 2001</div>
   </td>
   <td>
     <div>ad. Statutory Rules 1978 No. 104</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
     <div>rep. No. 168, 1986</div>
   </td>
 </tr>
@@ -6515,11 +6284,29 @@ No. 49, 2001</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 (No. 9, 2012)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 5
+
+## 6  Subsection 19ZJ(3)
+
+Omit “or an accepted student,”, substitute “an accepted student, or a former accepted student,”.
+
+## 7  Subsection 19ZK(5) (definition of _statutory complaint handler_)
+
+Omit “or an accepted student, “, substitute “an accepted student, or a former accepted student,”.
+
+As at 12 April 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -6654,6 +6441,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 * * *
 
 _Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 (No. 9, 2012)_
+
+The following provision commences on 1 July 2012:
 
 ## Schedule 5
 
