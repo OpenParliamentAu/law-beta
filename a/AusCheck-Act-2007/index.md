@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00523/Html/0e8b1c82-0e01-49bc-a235-6dddfa872b5d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00137/Html/AusCheck2007_image001.gif)
 
 # AusCheck Act 2007
 
 **Act No. 53 of 2007 as amended**
 
-This compilation was prepared on 12 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -78,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _AusCheck Act 2007_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act commences on the day after it receives the Royal Assent.
 
@@ -126,11 +126,11 @@ Note:          For the definition of **_APS employee_**, see s
 
                      (c)  whose presence in Australia is not subject to any limitation as to time imposed by law; and
 
-                     (d)  who is not an unlawful non‑citizen.
+                     (d)  who is not an unlawful non-citizen.
 
                     <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
 
-                    <a name="unlaw-non-citizen"></a>**_unlawful non‑citizen_** has the same meaning as in the _Migration Act 1958_.
+                    <a name="unlaw-non-citizen"></a>**_unlawful non-citizen_** has the same meaning as in the _Migration Act 1958_.
 
              (2)  To avoid doubt:
 
@@ -150,7 +150,7 @@ Note:          For the definition of **_APS employee_**, see s
 
                      (b)  matters relevant to a security assessment (as defined in subsection 35(1) of the _Australian Security Intelligence Organisation Act 197__9_) of the individual;
 
-                     (c)  the individual’s citizenship status, residency status or the individual’s entitlement to work in Australia, including but not limited to, whether the person is an Australian citizen, a permanent resident or an unlawful non‑citizen;
+                     (c)  the individual’s citizenship status, residency status or the individual’s entitlement to work in Australia, including but not limited to, whether the person is an Australian citizen, a permanent resident or an unlawful non-citizen;
 
                      (d)  the identity of the individual.
 
@@ -228,7 +228,7 @@ Note:          For the definition of **_APS employee_**, see s
 
                      (b)  a specified class of background checks.
 
-             (3)  Without limiting the way in which a class of background checks may be described for the purposes of subsection (2), a class may be described by reference to a specified legislative or non‑legislative scheme, a specified law of the Commonwealth, specified provisions of a law of the Commonwealth or specified purposes.
+             (3)  Without limiting the way in which a class of background checks may be described for the purposes of subsection (2), a class may be described by reference to a specified legislative or non-legislative scheme, a specified law of the Commonwealth, specified provisions of a law of the Commonwealth or specified purposes.
 
              (4)  For the purposes of paragraph (1)(b), an individual is taken to have given consent to another person making an application for a background check in relation to the individual if:
 
@@ -324,11 +324,11 @@ Use and disclosure of AusCheck personal information other than identity verifica
 
 Use and disclosure of AusCheck scheme personal information that is identity verification information
 
-       (2AB)  AusCheck scheme personal information about an individual that is identity verification information may be used or disclosed for the purpose of verifying the identity of the individual if a subsequent background check is being conducted in respect of the individual under the AusCheck scheme.
+        (2AB)  AusCheck scheme personal information about an individual that is identity verification information may be used or disclosed for the purpose of verifying the identity of the individual if a subsequent background check is being conducted in respect of the individual under the AusCheck scheme.
 
           (2B)  AusCheck scheme personal information used or disclosed for the purpose mentioned in subsection (2A) or (2AB) must be limited to personal information of a kind directly necessary for that purpose, and must only be used or disclosed to the extent necessary for that purpose.
 
-             (3)  AusCheck scheme personal information included in the AusCheck database may be used in such a way that de‑identified information derived from the AusCheck scheme personal information can be used and disclosed for the following purposes:
+             (3)  AusCheck scheme personal information included in the AusCheck database may be used in such a way that de-identified information derived from the AusCheck scheme personal information can be used and disclosed for the following purposes:
 
                      (a)  research;
 
@@ -432,7 +432,7 @@ For this purpose, **_court_** includes any tribunal, authority or person having 
 
 ##### <a id="18"></a>18  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -535,27 +535,10 @@ of Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 3, 4): Royal Assent</div>
+    <div>Schedule 1 (items 3, 4): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 84, 85) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -672,7 +655,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 14(1), (2).</div>
+    <div>Subheads. to s. 14(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 123, 2009</div>
@@ -729,24 +712,6 @@ No. 8, 2010</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 84  Subsection 4(1) (note at the end of the definition of _AusCheck staff member_)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-## 85  Subsection 12(1) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-As at 12 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -758,21 +723,5 @@ _AusCheck Amendment Act 2009 (No. 123, 2009)_
 ## 7  Saving of regulations
 
 Despite the amendment made by item 6, regulations in force for the purposes of section 8 of the _AusCheck Act 2007_ immediately before the commencement of this item continue in effect, after that commencement, as if they had been made for the purposes of that section, as in force after that commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
