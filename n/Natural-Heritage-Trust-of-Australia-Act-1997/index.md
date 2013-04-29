@@ -1,15 +1,11 @@
 
 Natural Heritage Trust of Australia Act 1997
-Act No. 76 of 1997 as amended
-This compilation was prepared on 17 July 2000 taking into account amendments up to Act No. 146 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
+Act No. 76 of 1997 as amended 
+Consolidated as in force on 16 August 1999
+(includes amendments up to Act No. 92 of 1999)
+This Act has uncommenced amendments For uncommenced amendments, see the endnotes
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
 Contents
-Preamble	1
-Part 1—Introduction	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Simplified outline	1
@@ -49,7 +45,7 @@ Part 5—Natural Heritage Trust Advisory Committee	16
 32	Appointment of Committee members	17
 33	Procedures	17
 34	Disclosure of interests	17
-35	Remuneration and allowances	17
+35	Remuneration and allowances	18
 36	Leave of absence	18
 37	Resignation	18
 38	Termination of appointment	18
@@ -70,9 +66,12 @@ Part 6—Miscellaneous	20
 52	Transitional—expenses of investment	27
 53	External Territories	27
 54	Interpretation	27
-Notes		31
+Notes 		31
 
 An Act to establish the Natural Heritage Trust of Australia Reserve, and for related purposes
+Do not delete : Chapter placeholder
+Do not delete : Part placeholder
+Do not delete : Division placeholder
 Preamble
 		The Parliament of Australia recognises the need for urgent action to redress the current decline, and to prevent further decline, in the quality of Australia’s natural environment.
 		There is a national crisis in land and water degradation and in the loss of biodiversity.
@@ -85,7 +84,9 @@ Preamble
 		Australia’s natural environment is central to Australia’s and Australians’ health and non-material well-being and to Australia’s present and future economic prosperity. Accordingly, present and future generations of Australians will benefit from the ecologically sustainable management of the natural environment.
 		A comprehensive, integrated response to these matters is necessary. 
 		The above considerations are taken into account by the Parliament of Australia in enacting the law that follows.
-Part 1—Introduction
+Do not delete : Chapter placeholder
+Do not delete : Part placeholder
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Natural Heritage Trust of Australia Act 1997.
 2  Commencement [see Note 1]
@@ -96,10 +97,9 @@ Part 1—Introduction
 •	The main source of money for the Reserve is $1.35 billion from the partial sale of Telstra.
 •	The main objective of the establishment of the Reserve is to conserve, repair and replenish Australia’s natural capital infrastructure.
 •	Money in the Reserve will be spent on the environment, sustainable agriculture and natural resources management.
-•	The Natural Heritage Trust Advisory Committee is established.
-
+The Natural Heritage Trust Advisory Committee is established.
 Part 2—The Natural Heritage Trust of Australia Reserve
-  
+Do not delete : Division placeholder
 4  Establishment of the Natural Heritage Trust of Australia Reserve
 		The Natural Heritage Trust of Australia Reserve is established.
 5  Nature of the Reserve
@@ -133,9 +133,9 @@ exceeds:
 there is to be transferred to the Consolidated Revenue Fund from the Reserve an amount equal to the excess.
 7  Money and investments not held on trust
 		Money and investments of the Reserve are not held on trust (within the ordinary meaning of that expression).
-
+
 Part 3—Purposes of the Reserve
-  
+Do not delete : Division placeholder
 8  Purposes of the Reserve
 		The purposes of the Reserve are as follows:
 	(a)	the National Vegetation Initiative;
@@ -264,9 +264,9 @@ Note:	State is given an extended meaning by section 54.
 	(vi)	cost-effective and flexible measures should be adopted;
 	(vii)	decisions and actions should provide for broad community involvement on issues which affect the community.
 Note:	The principles of ecologically sustainable development that are set out in this subsection are based on the core objectives and guiding principles that were endorsed by the Council of Australian Governments in December 1992.
-
+
 Part 4—Crediting of amounts to the Reserve
-  
+Do not delete : Division placeholder
 22  $1.1 billion derived from the initial partial sale of Telstra 
 	(1)	For each $1 that is received by the Commonwealth, in a particular month beginning before the date of commencement of section 22A, by way of proceeds of the sale of shares in Telstra, $1 is to be transferred to the Reserve from the Consolidated Revenue Fund before the end of the next following month.
 	(2)	The total amount transferred to the Reserve under this section is not to exceed $1.1 billion.
@@ -305,9 +305,9 @@ Part 4—Crediting of amounts to the Reserve
 	(a)	money in the Reserve is spent in carrying out a project; and
 	(b)	income is received by the Commonwealth from the project or from activities carried out in relation to the project.
 	(2)	An amount equal to the receipt is to be transferred to the Reserve from the Consolidated Revenue Fund.
-
+
 Part 5—Natural Heritage Trust Advisory Committee
-  
+Do not delete : Division placeholder
 30  Establishment of Committee
 	(1)	There is to be a Natural Heritage Trust Advisory Committee, which is to consist of the following members:
 	(a)	a Chairman;
@@ -357,9 +357,10 @@ Part 5—Natural Heritage Trust Advisory Committee
 the Natural Heritage Ministerial Board may terminate the appointment of the Committee member.
 39  Other terms and conditions
 		A Committee member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Natural Heritage Ministerial Board.
-
+
+
 Part 6—Miscellaneous
-  
+Do not delete : Division placeholder
 40  Natural Heritage Ministerial Board
 	(1)	There is to be a Natural Heritage Ministerial Board, which is to consist of:
 	(a)	the Minister; and
@@ -424,8 +425,8 @@ If the Auditor-General is not of that opinion, the Auditor‑General must state 
 45  Delegation by Minister
 	(1)	The Minister may, by writing, delegate to:
 	(a)	the Secretary to the Department; or
-	(b)	the Director of National Parks (within the meaning of the Environment Protection and Biodiversity Conservation Act 1999); or
-	(c)	an SES employee or acting SES employee (whether or not in the Department);
+	(b)	the Director of National Parks and Wildlife; or
+	(c)	a person holding or performing the duties of a Senior Executive Service office (whether or not in the Department);
 all or any of the Minister’s powers under:
 	(d)	this Act (other than section 40 or 41); or
 	(e)	any other law of the Commonwealth, to the extent that that law relates to the Reserve.
@@ -433,7 +434,7 @@ all or any of the Minister’s powers under:
 46  Delegation by Minister for Primary Industries and Energy
 	(1)	The Minister for Primary Industries and Energy may, by writing, delegate to:
 	(a)	the Secretary to the Department of Primary Industries and Energy; or
-	(b)	an SES employee or acting SES employee (whether or not in the Department of Primary Industries and Energy);
+	(b)	a person holding or performing the duties of a Senior Executive Service office (whether or not in the Department of Primary Industries and Energy);
 all or any of the powers conferred on the Minister for Primary Industries and Energy by:
 	(c)	this Act (other than section 40 or 41); or
 	(d)	any other law of the Commonwealth, to the extent that that law relates to the Reserve.
@@ -498,13 +499,14 @@ proceeds of the sale of shares in Telstra includes:
 		under a Telstra sale scheme (within the meaning of that Act); and 
 	(b)	an amount received by the Commonwealth by way of the redemption of redeemable preference shares in Telstra held by the Commonwealth, where the redemption was in accordance with a Telstra sale scheme (within the meaning of the Telstra Corporation Act 1991).
 Reserve means the Natural Heritage Trust of Australia Reserve established by this Act.
+Senior Executive Service office has the same meaning as in the Public Service Act 1922.
 State includes the Australian Capital Territory and the Northern Territory.
 sustainable agriculture has the meaning given by section 16.
 Telstra has the same meaning as in the Telstra Corporation Act 1991.
 waste minimisation includes reduction of use, re-use and recycling.
 Notes to the Natural Heritage Trust of Australia Act 1997
 Note 1
-The Natural Heritage Trust of Australia Act 1997 as shown in this compilation comprises Act No. 76, 1997 amended as indicated in the Tables below.
+The Natural Heritage Trust of Australia Act 1997 as shown in this consolidation comprises Act No. 76, 1997 amended as indicated in the Tables below.
 Table of Acts
 Act
 Number  and year
@@ -529,23 +531,12 @@ Telstra(Further Dilution of Public Ownership) Act 1999
 Environmental Reform (Consequential Provisions) Act 1999
 92, 1999
 16 July 1999
-Schedule 4 (item 73): 16 July 2000 (b) 
+Schedule 4 (item 73): [see (b) and Note 2]
 —
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (items 683‑685): 5 Dec 1999 (see Gazette 1999, No. S584) (c)
-—
-
 (a)	The Natural Heritage Trust of Australia Act 1997 was amended by Schedule 2 (item 1055) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
 (b)	The Natural Heritage Trust of Australia Act 1997 was amended by Schedule 4 (item 73) only of the Environmental Reform (Consequential Provisions) Act 1999, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences when the Environment Protection and Biodiversity Conservation Act 1999 commences.
-(c)	The Natural Heritage Trust of Australia Act 1997 was amended by Schedule 1 (items 683‑685) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
-
-
+	(1)	Subject to this section, this Act commences when the Environment Protection and Biodiversity Conservation Act 1999 commences. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -558,15 +549,15 @@ S. 22
 am. No. 53, 1999
 S. 22A	
 ad. No. 53, 1999
-S. 45	
-am. Nos. 92 and 146, 1999
-S. 46	
-am. No. 146, 1999
 Note to s. 52	
 am. No. 152, 1997
-S. 54	
-am. No. 146, 1999
 
 
-
+Note 2
+Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)
+The following amendments commence when No. 91 of 1999 comes into operation (16 July 2000 if not proclaimed earlier):
+Schedule 4
+73  Paragraph 45(1)(b)
+Omit “and Wildlife”, substitute “(within the meaning of the Environment Protection and Biodiversity Conservation Act 1999)”.
+As at 16 August 1999 no date had been fixed and the amendments are not incorporated in this consolidation.
 
