@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00094/Html/f6a21733-8c22-46dd-9509-3c4d0d9b9ad8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00537/Html/d8049802-1168-49f0-93aa-37340ab29540_files/image001.gif)
 
 # Family Law Act 1975
 
 **Act No. 53 of 1975 as amended**
 
-This compilation was prepared on 23 December 2011
- taking into account amendments up to Act No. 189 of 2011
+This compilation was prepared on 15 July 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -104,7 +104,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11E](#11E).        Courts to consider seeking advice from family consultants
 
-[11F](#11F).        Court may order parties to attend, or arrange for child to attend, appointments with a family consultant
+[11F](#11F).        Court may order parties to attend appointments with a family consultant
 
 [11G](#11G).       Consequences of failure to comply with order under section 11F
 
@@ -249,8 +249,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [37](#37).          Officers of Court
 
 [37A](#37A).       Delegation of powers to Registrars
-
-[37AA](#37AA).    Delegation to Registrars of powers exercisable by court as constituted in a particular way
 
 [37B](#37B).       Independence of Registrars
 
@@ -862,6 +860,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [69ZT](#69ZT).     Rules of evidence not to apply unless court decides
 
+[69ZU](#69ZU).     Evidence of family consultants
+
 [69ZV](#69ZV).     Evidence of children
 
 [69ZW](#69ZW).    Evidence relating to child abuse or family violence
@@ -943,8 +943,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [70NEB](#70NEB).  Powers of court
 
 [70NEC](#70NEC).  Bonds
-
-70NECA  Procedure for enforcing bonds
 
 [70NED](#70NED).  Duties of provider of post‑separation parenting program
 
@@ -1378,8 +1376,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [96](#96).          Appeals from courts of summary jurisdiction
 
-[96AA](#96AA).    Appeal may be dismissed if no reasonable prospect of 
- success
+[96AA](#96AA).    Power to dismiss appeal
 
 [96A](#96A).       Part does not apply to section 111C jurisdiction
 
@@ -1390,10 +1387,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [97](#97).          Procedure
 
 [98](#98).          Evidence by affidavit
-
-[98AA](#98AA).    Oaths and affirmations
-
-[98AB](#98AB).    Swearing of affidavits etc 
 
 [98A](#98A).       Proceedings in absence of parties
 
@@ -3207,7 +3200,7 @@ unless, in the opinion of the court, there is sufficient evidence of the admissi
 
                    An **_arbitrator_** is a person who meets the requirements prescribed in the regulations to be an arbitrator.
 
-##### <a id="10N"></a>10N  Arbitrators may charge fees for their services
+##### <a id="10N"></a>10N  Arbitrators may charge fees for their services
 
              (1)  An arbitrator conducting arbitration may charge the parties to the arbitration fees for conducting it.
 
@@ -3317,13 +3310,9 @@ the court:
 
                      (b)  the nature of the advice the court is seeking.
 
-##### <a id="11F"></a>11F  Court may order parties to attend, or arrange for child to attend, appointments with a family consultant
+##### <a id="11F"></a>11F  Court may order parties to attend appointments with a family consultant
 
-             (1)  A court exercising jurisdiction in proceedings under this Act may make either or both of the following kinds of order:
-
-                     (a)  an order directing one or more parties to the proceedings to attend an appointment (or a series of appointments) with a family consultant;
-
-                     (b)  an order directing one or more parties to the proceedings to arrange for a child to attend an appointment (or a series of appointments) with a family consultant.
+             (1)  A court exercising jurisdiction in proceedings under this Act may order one or more parties to the proceedings to attend an appointment (or a series of appointments) with a family consultant.
 
 Note:          Before exercising this power, the court must consider seeking the advice of a family consultant about the services appropriate to the parties’ needs (see section 11E).
 
@@ -3349,15 +3338,7 @@ Note:          Before exercising this power, the court must co
 
 the consultant must report the failure to the court.
 
-          (1A)  If:
-
-                     (a)  a person fails to comply with an order under section 11F that he or she arrange for a child to attend an appointment with a family consultant; or
-
-                     (b)  a child fails to attend an appointment with a family consultant as arranged in compliance with an order under section 11F;
-
-the consultant must report the failure to the court.
-
-             (2)  On receiving a report under subsection (1) or (1A), the court may make any further orders it considers appropriate.
+             (2)  On receiving the report, the court may make any further orders it considers appropriate.
 
              (3)  The court may make orders under subsection (2):
 
@@ -3529,7 +3510,7 @@ Note:          Before advising the parties, the court must con
 
 Note 1:       Before making an order under this section, the court must consider seeking the advice of a family consultant about the services appropriate to the parties’ needs (see section 11E).
 
-Note 2:       The court can also order parties to attend, or arrange for a child to attend, appointments with a family consultant (see section 11F).
+Note 2:       The court can also order parties to attend appointments with a family consultant (see section 11F).
 
              (2)  The court may suggest a particular purpose for the attendance or participation.
 
@@ -3841,7 +3822,7 @@ the day of appointment of the person as a Judge of that kind is, for the purpose
 
                      (b)  there is a vacancy in the office of Chief Judge;
 
-the Deputy Chief Judge or, if the Deputy Chief Judge is unavailable, the next senior Judge who is in Australia and is available and willing to do so shall perform the duties and may exercise the powers of the Chief Judge.
+the Deputy Chief Judge or, if the Deputy Chief Judge is unavailable, the senior Judge Administrator who is in Australia and is available and willing to do so shall perform the duties and may exercise the powers of the Chief Judge.
 
              (2)  A Judge who is, under subsection (1), performing the duties and exercising the powers of the Chief Judge shall be called the Acting Chief Justice of the Court.
 
@@ -4253,8 +4234,6 @@ To avoid doubt, the court’s jurisdiction under this subsection is not subject 
 
                     (m)  the power to make an order exempting a party to proceedings under this Act from compliance with a provision of the regulations or Rules of Court.
 
-Note:          For how this section applies in relation to powers of the Court under certain provisions, see section 37AA.
-
              (2)  The powers of the Court that may be delegated under subsection (1) do not include the power to make:
 
                      (a)  a divorce order in proceedings that are defended; or
@@ -4344,20 +4323,6 @@ a Judge may, on application by a person who would be a party to the proceedings 
            (15)  In this section, **_Registrar_** means the Principal Registrar, a Registrar or a Deputy Registrar of the Court.
 
 Note:          Powers to make Rules of Court are also contained in sections 26B, 109A and 123.
-
-##### <a id="37AA"></a>37AA  Delegation to Registrars of powers exercisable by court as constituted in a particular way
-
-             (1)  Without limiting subsection 37A(1), the powers that may be delegated to a Registrar under that subsection include:
-
-                     (a)  the powers of the Court, constituted in any way mentioned in subsection 94(2D), to hear and determine applications to which that subsection applies; and
-
-                     (b)  the powers of the Court, constituted in any way mentioned in subsection 94AAA(10), to hear and determine applications to which that subsection applies.
-
-             (2)  If Rules of Court under subsection 37A(1) delegate powers referred to in paragraph (1)(a) or (b) of this section to a Registrar, those Rules may specify modifications of section 37A that are to have effect in relation to the exercise by a Registrar of the delegated powers.
-
-             (3)  In this section:
-
-                    <a name="registrar"></a>**_Registrar_** has the same meaning as in section 37A.
 
 ##### <a id="37B"></a>37B  Independence of Registrars
 
@@ -5333,43 +5298,13 @@ whichever is the later.
 
                     <a name="appeal"></a>**_appeal_**, in relation to a divorce order, means:
 
-                     (a)  an appeal, or an application for leave to appeal, against:
+                     (a)  an appeal or application for leave to appeal against, or an intervention or application for a re‑hearing relating to:
 
                               (i)  the divorce order; or
 
-                             (ii)  an order under section 55A in relation to the proceedings in which the divorce order was made; or
+                             (ii)  an order under section 55A in relation to the proceedings in which the divorce order  was made; or
 
-                     (b)  an intervention, or an application for a re‑hearing, relating to:
-
-                              (i)  the divorce order; or
-
-                             (ii)  an order under section 55A in relation to the proceedings in which the divorce order was made; or
-
-                     (c)  an application under section 57 or 58 for rescission of the divorce order, or an appeal or application for leave to appeal arising out of such an application; or
-
-                     (d)  a review by the Family Court of Australia of the making, by a Registrar or a Judicial Registrar of that Court, of:
-
-                              (i)  the divorce order; or
-
-                             (ii)  an order under section 55A in relation to the proceedings in which the divorce order was made; or
-
-                            (iii)  an order determining an application under section 57 or 58 for rescission of the divorce order; or
-
-                     (e)  a review by the Federal Magistrates Court of the making, by a Registrar of that Court, of:
-
-                              (i)  the divorce order; or
-
-                             (ii)  an order under section 55A in relation to the proceedings in which the divorce order was made; or
-
-                            (iii)  an order determining an application under section 57 or 58 for rescission of the divorce order; or
-
-                      (f)  a review by the Family Court of Western Australia of the making, by the Principal Registrar, a Registrar, or a Deputy Registrar, of that Court of:
-
-                              (i)  the divorce order; or
-
-                             (ii)  an order under section 55A in relation to the proceedings in which the divorce order was made; or
-
-                            (iii)  an order determining an application under section 57 or 58 for rescission of the divorce order.
+                     (b)  an application under section 57 or 58 for rescission of the divorce order or an appeal or application for leave to appeal arising out of such an application.
 
              (6)  For the purposes of this section, where an application for leave to appeal, or for a re‑hearing, is granted, the application shall be deemed not to have been determined or discontinued so long as:
 
@@ -5431,9 +5366,7 @@ whichever is the later.
 
                      (b)  provisions relevant to the interpretation and application of this Part (Subdivision C); and
 
-                     (c)  provisions relevant to how this Act applies to certain children (Subdivision D); and
-
-                     (d)  provisions about the use of family dispute resolution before applying for an order under this Part (Subdivision E).
+                     (c)  provisions relevant to how this Act applies to certain children (Subdivision D).
 
 Note:          The extension and application of this Part is also dealt with in Subdivision F of Division 12.
 
@@ -5524,10 +5457,6 @@ Note:          The extension and application of this Part is a
       ·
         <span style="font:7.0pt " new=""></span>
       how this Act applies to certain children</div>
-    <div>
-      ·
-        <span style="font:7.0pt " new=""></span>
-      family dispute resolution</div>
     <div>Note: The extension and application of this Part is also dealt with in Subdivision F of Division 12.</div>
   </td>
 </tr>
@@ -5648,15 +5577,7 @@ Note:          The extension and application of this Part is a
     <div>
       ·
         <span style="font:7.0pt " new=""></span>
-      varying the maintenance of certain children</div>
-    <div>
-      ·
-        <span style="font:7.0pt " new=""></span>
       when child maintenance orders stop being in force</div>
-    <div>
-      ·
-        <span style="font:7.0pt " new=""></span>
-      recovery of amounts paid under maintenance orders</div>
   </td>
 </tr>
 <tr>
@@ -5765,19 +5686,9 @@ Note:          The extension and application of this Part is a
     <div>
       <b>Division 12A—Principles for conducting child‑related proceedings</b>
     </div>
-    <div>
-      ·
-        <span style="font:7.0pt " new=""></span>
-      principles for conducting proceedings under this Part and certain other
+    <div>principles for conducting proceedings under this Part and certain other
       incidental proceedings</div>
-    <div>
-      ·
-        <span style="font:7.0pt " new=""></span>
-      duties and powers of the court related to giving effect to the principles</div>
-    <div>
-      ·
-        <span style="font:7.0pt " new=""></span>
-      matters relating to evidence</div>
+    <div>duties and powers of the court related to giving effect to the principles</div>
   </td>
 </tr>
 <tr>
@@ -6475,17 +6386,11 @@ Note:          A person cannot require a child to express his 
 
              (4)  The family consultant may include in the report, in addition to the matters required to be included in it, any other matters that relate to the care, welfare or development of the child.
 
-             (5)  For the purposes of the preparation of the report, the court may make any other orders, or give any other directions, that the court considers appropriate (including orders or directions that one or more parties to the proceedings attend, or arrange for the child to attend, an appointment or a series of appointments with a family consultant).
+             (5)  For the purposes of the preparation of the report, the court may make any other orders, or give any other directions, that the court considers appropriate (including orders or directions that a party to proceedings, or the child, attend an appointment or a series of appointments with a family consultant).
 
 Note:          Before making orders under this section, the court must consider seeking the advice of a family consultant about the services appropriate to the parties’ needs (see section 11E).
 
-             (6)  If:
-
-                     (a)  a person fails to comply with an order or direction under subsection (5); or
-
-                     (b)  a child fails to attend an appointment with a family consultant as arranged in compliance with an order or direction under subsection (5);
-
-the family consultant must report the failure to the court.
+             (6)  If a person fails to comply with an order or direction under subsection (5), the family consultant must report the failure to the court.
 
              (7)  On receiving a report under subsection (6), the court may give such further directions in relation to the preparation of the report as it considers appropriate.
 
@@ -6818,8 +6723,6 @@ Note:          Sections 60CB to 60CG deal with how a court d
                      (a)  an order under this Part (including an order until further order) dealing with a matter mentioned in subsection (2); or
 
                      (b)  an order under this Part discharging, varying, suspending or reviving an order, or part of an order, described in paragraph (a).
-
-However, a declaration or order under Subdivision E of Division 12 is not a **_parenting order_**.
 
              (2)  A parenting order may deal with one or more of the following:
 
@@ -7611,9 +7514,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    (da)  deals with varying the maintenance of certain children (Subdivision EA); and
 
-                     (e)  deals with when child maintenance orders stop being in force (Subdivision F); and
-
-                      (f)  deals with the recovery of amounts paid under maintenance orders (Subdivision G).
+                     (e)  deals with when child maintenance orders stop being in force (Subdivision F).
 
 #### Subdivision B—Objects and principles
 
@@ -8385,7 +8286,7 @@ Note 1:       Section 122AA authorises the use of reasonable force
 
 Note 2:       If a recovery order authorises a person to recover a child, the person is authorised to recover the child on each occasion that it is necessary to do so while the order remains in force: see subsection 67W(3).
 
-##### <a id="67R"></a>67R  How recovery orders authorise or direct people
+##### <a id="67R"></a>67R  How recovery orders authorise or direct people
 
              (1)  An authorisation or direction described in paragraph 67Q(b), (c) or (d) may be addressed to:
 
@@ -8725,7 +8626,7 @@ Disclosure of information
 
              (6)  Subject to subsection (7), the independent children’s lawyer:
 
-                     (a)  is not under an obligation to disclose to the court; and
+                     (a)  is not under an obligation to disclose to the court;
 
                      (b)  cannot be required to disclose to the court;
 
@@ -9101,7 +9002,7 @@ Note:          Under section 39A of the _Judiciary Act 1903_
 
                      (d)  the Federal Magistrates Court.
 
-             (4)  Before transferring the proceedings, the court may make such orders (including an order under subsection 13C(1)) as it considers necessary pending the disposal of the proceedings by the court to which they are transferred.
+             (4)  Before transferring the proceedings, the court may make such orders (including an order under subsection 62F(2)) as it considers necessary pending the disposal of the proceedings by the court to which they are transferred.
 
              (5)  If the parties consent to the court hearing and determining the proceedings:
 
@@ -9459,7 +9360,7 @@ Note:          This section preserves the effect of subsection
 
 ##### <a id="69ZG"></a>69ZG  Application of Part in, and in relation to, Territories
 
-                   This Part applies in and in relation to the Territories.
+                   This Part applies in and in relation to the Territories.
 
 ##### <a id="69ZH"></a>69ZH  Additional application of Part
 
@@ -9651,7 +9552,7 @@ Note:          For example, the court may choose to use this p
 
 Note 1:       Family consultants have the functions described in section 11A. These include assisting and advising people involved in proceedings, and this assistance and advice may involve helping people to better understand the effect of things on the child concerned. Family consultants can also inform people about other services available to help them.
 
-Note 2:       The court may also order parties to proceedings to attend, or arrange for a child to attend, appointments with a family consultant. See section 11F.
+Note 2:       The court may also order parties to proceedings to attend appointments with a family consultant. See section 11F.
 
 #### Subdivision D—Matters relating to evidence
 
@@ -9692,6 +9593,10 @@ Note:       Section 26 is about the court’s control over questio
                      (b)  a law of a State or a Territory;
 
 that, but for subsection (1), would have been prevented from operating because of a provision of a Division or Part mentioned in that subsection.
+
+##### <a id="69ZU"></a>69ZU  Evidence of family consultants
+
+                   The court must not, without the consent of the parties to the proceedings, take into account an opinion expressed by a family consultant, unless the consultant gave the opinion as sworn evidence.
 
 ##### <a id="69ZV"></a>69ZV  Evidence of children
 
@@ -10075,10 +9980,6 @@ Note:          Parenting orders may be subject to any subseque
 
              (3)  The court may only make an order under:
 
-                    (aa)  paragraph 70NEB(1)(da); or
-
-                   (ab)  paragraph 70NECA(3)(a); or
-
                      (a)  paragraph 70NFB(2)(a), (d) or (e); or
 
                      (b)  paragraph 70NFF(3)(a);
@@ -10265,8 +10166,6 @@ and, if the primary order is an order for the maintenance of a child, this Subdi
 
                      (d)  make an order requiring the person who committed the current contravention to enter into a bond in accordance with section 70NEC;
 
-                   (da)  if the person who committed the current contravention fails, without reasonable excuse, to enter into a bond as required by an order under paragraph (d)—impose a fine not exceeding 10 penalty units on the person;
-
                      (e)  if:
 
                               (i)  the current contravention is a contravention of a parenting order in relation to a child; and
@@ -10354,30 +10253,6 @@ the court must consider making an order under paragraph (1)(b) to compensate t
                               (i)  fails to enter into the bond; or
 
                              (ii)  having entered into the bond—fails to act in accordance with the bond.
-
-##### <a id="70NECA"></a>70NECA  Procedure for enforcing bonds
-
-             (1)  If a court has made an order under paragraph 70NEB(1)(d) requiring a person to enter into a bond in accordance with section 70NEC, the following provisions have effect.
-
-             (2)  If the court (whether or not constituted by the judge, Federal Magistrate or magistrate who required the bond to be entered into in accordance with section 70NEC) is satisfied that the person has, without reasonable excuse, failed to comply with the bond, the court may take action under subsection (3).
-
-             (3)  The court may:
-
-                     (a)  without prejudice to the continuance of the bond entered into in accordance with section 70NEC, impose a fine not exceeding 10 penalty units on the person; or
-
-                     (b)  revoke the bond entered into in accordance with section 70NEC and, subject to subsection (4), deal with the person, for the contravention in respect of which the bond was entered into, in any manner in which the person could have been dealt with for the contravention if:
-
-                              (i)  the bond had not been entered into; and
-
-                             (ii)  the person was before the court under section 70NEB in respect of the contravention.
-
-             (4)  In dealing with the person as mentioned in paragraph (3)(b), the court must, in addition to any other matters that it considers should be taken into account, take into account:
-
-                     (a)  the fact that the bond was entered into; and
-
-                     (b)  anything done pursuant to the bond; and
-
-                     (c)  any fine imposed, and any other order made, for or in respect of the contravention.
 
 ##### <a id="70NED"></a>70NED  Duties of provider of post‑separation parenting program
 
@@ -10593,7 +10468,7 @@ Note:          Before imposing a condition under this subsecti
 
              (1)  If a court makes a community service order under paragraph 70NFB(2)(a) in respect of a person, or an order under paragraph 70NFB(2)(b) requiring a person to enter into a bond in accordance with section 70NFE, the following provisions have effect.
 
-             (2)  If the court (whether or not constituted by the judge, Federal Magistrate or magistrate who made the community service order or required the bond to be entered into in accordance with section 70NFE) is satisfied that the person has, without reasonable excuse, failed to comply with the order or bond, the court may take action under subsection (3).
+             (2)  If the court (whether or not constituted by the judge or magistrate who made the community service order or required the bond to be entered into in accordance with section 70NFE) is satisfied that the person has, without reasonable excuse, failed to comply with the order or bond, the court may take action under subsection (3).
 
              (3)  The court may:
 
@@ -15305,17 +15180,9 @@ Note:          Appeals from these decrees are dealt with in se
 
                      (d)  make such other decrees as it considers appropriate, including a decree affirming, reversing or varying the decree the subject of the appeal.
 
-##### <a id="96AA"></a>96AA  Appeal may be dismissed if no reasonable prospect of success
+##### <a id="96AA"></a>96AA  Power to dismiss appeal
 
-             (1)  If:
-
-                     (a)  an appeal has been instituted in a court under this Part; and
-
-                     (b)  having regard to the grounds of appeal as disclosed in the notice of appeal, it appears to the court that the appeal has no reasonable prospect of success (whether generally or in relation to a particular ground of appeal);
-
-the court may, at any time, order that the proceedings on the appeal be dismissed (either generally or in relation to that ground).
-
-             (2)  This section does not limit any powers that the court has apart from this section.
+                   If it appears to a court hearing an appeal under this Part that the notice of the appeal does not disclose proper grounds of appeal (whether generally, or in relation to a particular ground of appeal), the court may order that the proceedings on the appeal be stayed or dismissed (either generally or in relation to that ground).
 
 ##### <a id="96A"></a>96A  Part does not apply to section 111C jurisdiction
 
@@ -15356,74 +15223,6 @@ _Note:       Division 12A of Part VII has provisions about proce
              (2)  This section does not apply to proceedings in the Federal Magistrates Court.
 
 Note:          For provisions relating to the Federal Magistrates Court, see the _Federal Magistrates Act 1999_.
-
-##### <a id="98AA"></a>98AA  Oaths and affirmations
-
-             (1)  A Judge of the Family Court may require and administer all necessary oaths and affirmations for the purposes of the Family Court.
-
-             (2)  A Judge of the Family Court may cause to be administered all necessary oaths and affirmations for the purposes of the Family Court. For this purpose, the Family Court may, either orally or in writing, authorise any person (whether in or outside Australia) to administer oaths and affirmations.
-
-             (3)  The Chief Executive Officer may, in writing, authorise:
-
-                     (a)  a Registrar of the Family Court; or
-
-                     (b)  a staff member of the Family Court;
-
-to administer oaths and affirmations for the purposes of the Family Court.
-
-##### <a id="98AB"></a>98AB  Swearing of affidavits etc.
-
-             (1)  An affidavit to be used in a proceeding in the Family Court may be sworn or affirmed in Australia before:
-
-                     (a)  a Judge of the Family Court; or
-
-                     (b)  a Registrar of the Family Court; or
-
-                     (c)  a justice of the peace; or
-
-                     (d)  a commissioner for affidavits; or
-
-                     (e)  a commissioner for declarations; or
-
-                      (f)  a person who is authorised to administer oaths or affirmations for the purposes of:
-
-                              (i)  the Family Court; or
-
-                             (ii)  the High Court; or
-
-                            (iii)  the Federal Court of Australia; or
-
-                            (iv)  the Supreme Court of a State or Territory; or
-
-                             (v)  the Federal Magistrates Court; or
-
-                     (g)  a person before whom affidavits can be sworn or affirmed under the _Evidence Act 1995_.
-
-             (2)  An affidavit to be used in a proceeding in the Family Court may be sworn or affirmed at a place outside Australia before:
-
-                     (a)  an Australian Diplomatic Officer or an Australian Consular Officer, as defined by the _Consular Fees Act 1955_, who is exercising his or her function in that place; or
-
-                     (b)  an employee of the Commonwealth who is:
-
-                              (i)  authorised under paragraph 3(c) of the _Consular Fees Act 1955_; and
-
-                             (ii)  exercising his or her function in that place; or
-
-                     (c)  an employee of the Australian Trade Commission who is:
-
-                              (i)  authorised under paragraph 3(d) of the _Consular Fees Act 1955_; and
-
-                             (ii)  exercising his or her function in that place; or
-
-                     (d)  a notary public who is exercising his or her function in that place; or
-
-                     (e)  a person who is:
-
-                              (i)  qualified to administer an oath or affirmation in that place; and
-
-                             (ii)  certified by a person mentioned in any of paragraphs (a), (b), (c) and (d), or by the superior court of that place, to be so qualified.
-
-             (3)  An affidavit sworn or affirmed outside Australia otherwise than before a person referred to in subsection (2) may be used in a proceeding in the Family Court in circumstances provided by the standard Rules of Court.
 
 ##### <a id="98A"></a>98A  Proceedings in absence of parties
 
@@ -17265,7 +17064,7 @@ a court exercising jurisdiction in the State or Territory may, pursuant to parag
 
                      (b)  made an order directed to a person.
 
-             (2)  If the court (whether or not constituted by the judge, Federal Magistrate or magistrate who imposed the sentence or made the order) is satisfied that the person has, without reasonable excuse, failed to comply with:
+             (2)  If the court (whether or not constituted by the judge or magistrate who imposed the sentence or made the order) is satisfied that the person has, without reasonable excuse, failed to comply with:
 
                      (a)  the sentence or order; or
 
@@ -17673,7 +17472,7 @@ Note:          For other powers of delegation, see section 5
 
 ## Part XV—Miscellaneous
 
-##### <a id="115"></a>115  Family Law Council
+##### <a id="115"></a>115  Family Law Council
 
              (1)  The Attorney‑General may establish a Family Law Council consisting of persons appointed by the Attorney‑General in accordance with subsection (2).
 
@@ -20599,45 +20398,6 @@ Schedule 2 (items 2, 3): <i>(zi)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>174, 2011</div>
-  </td>
-  <td>
-    <div>5 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 155–194): \[ <i>see</i>Note 4 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 194) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Law Legislation Amendment (Family Violence and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>189, 2011</div>
-  </td>
-  <td>
-    <div>7 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 5 and Table A] 
-Schedule 2 (items 3–29, 
-31–38): Royal Assent 
-Schedule 2 (item 30): \[ <i>see</i>Note 5]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-44–48) and Sch. 2 (items 
-31–38) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Family Law Act 1975_ was amended by subsection 152(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
@@ -21460,7 +21220,7 @@ _(zh)_ Subsection 2(1) (item 5) of the _Families, Community Services and Indig
   </td>
 </tr></table>
 
-_(zi)_ Subsection 2(1) (item 6) of the _Statute Law Revision Act 2010_ provides as follows:
+_(zi)_ Subsection 2(1) (item 6) of the _Statute Law Revision Act 20__10_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -22153,43 +21913,10 @@ rs. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 11E</div>
+    <div>Ss. 11E–11G</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 11F</div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 11F, 11G</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -22712,17 +22439,6 @@ ad. No. 46, 2006</div>
   </td>
   <td>
     <div>rs. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 13C(1)</div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -24287,7 +24003,7 @@ Part IV</div>
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 8, 1988; No. 189, 2011</div>
+    <div>am. No. 8, 1988</div>
   </td>
   <td>
     <div></div>
@@ -24836,32 +24552,10 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 37A(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 37A</div>
   </td>
   <td>
     <div>ad. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37AA</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -25755,7 +25449,7 @@ Part V</div>
     <div>S. 55</div>
   </td>
   <td>
-    <div>am. No. 181, 1987; No. 98, 2005; No. 189, 2011</div>
+    <div>am. No. 181, 1987; No. 98, 2005</div>
   </td>
   <td>
     <div></div>
@@ -25994,17 +25688,6 @@ Part V</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 60AA</div>
   </td>
   <td>
@@ -26085,7 +25768,7 @@ Part V</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 143, 2000; No. 138, 2003; No. 46, 2006; No. 189, 2011</div>
+    <div>am. No. 143, 2000; No. 138, 2003; No. 46, 2006</div>
   </td>
   <td>
     <div></div>
@@ -26860,7 +26543,7 @@ rs. No. 167, 1995; No. 46, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 46, 2006; No. 189, 2011</div>
+    <div>am. No. 46, 2006</div>
   </td>
   <td>
     <div></div>
@@ -27511,7 +27194,7 @@ rs. No. 167, 1995</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 194, 1999; No. 46, 2006; No. 189, 2011</div>
+    <div>am. No. 194, 1999; No. 46, 2006</div>
   </td>
   <td>
     <div></div>
@@ -28568,7 +28251,7 @@ Div. 6 of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 143, 2000; No. 189, 2011</div>
+    <div>am. No. 143, 2000</div>
   </td>
   <td>
     <div></div>
@@ -30371,21 +30054,10 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 68LA</div>
+    <div>S. 68LA</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -30895,7 +30567,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 34, 1997; No. 98, 2005; No. 22, 2006; No. 189, 2011</div>
+    <div>am. No. 34, 1997; No. 98, 2005; No. 22, 2006</div>
   </td>
   <td>
     <div></div>
@@ -31343,17 +31015,6 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>Note 2 to s. 69ZS</div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision D</b></div>
   </td>
   <td>
@@ -31365,40 +31026,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69ZT</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69ZU</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 69ZV, 69ZW</div>
+    <div>Ss. 69ZT–69ZW</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -31970,32 +31598,10 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 70NAA–70NAE</div>
+    <div>Ss. 70NAA–70NAF</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NAF</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -32258,40 +31864,7 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NEC</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NECA</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NED</div>
+    <div>Ss. 70NEC, 70NED</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -32357,40 +31930,7 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 70NFA–70NFE</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NFF</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 70NFG–70NFJ</div>
+    <div>Ss. 70NFA–70NFJ</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -33557,4 +33097,5361 @@ rep. No. 46, 2006</div>
 <tr>
   <td>
     <div>Heading to s. 90D</div>
-  
+  </td>
+  <td>
+    <div>am. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90D</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2005; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90DA</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90DB</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90E</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90F</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90G</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003; No. 115, 2008; No. 122, 2009</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90H</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90J</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003; No. 115, 2008; No. 122, 2009</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90K</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 61, 2001; No. 138, 2003; No. 46, 2006; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90KA</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90L</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90M, 90N</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90P, 90Q</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIIIAB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIIIAB</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90RA, 90RB</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90RC</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90RD–90RH</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90SA–90SC</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90SD–90SJ</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90SK–90SN</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90SO–90SR</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90SS, 90ST</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90TA</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90UA–90UI</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90UJ</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2009</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90UK</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90UL, 90UM</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2009</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90UN</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90VA–90VD</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90WA</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIIIB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIIIB</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MA</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MB</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 114, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 90MC</div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MC</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MD</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2002; No. 153, 2004; No. 15, 2007; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MDA</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90ME</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 114, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MF</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MG</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 90MH</div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MH</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MHA</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MI</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2005; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MJ</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MK</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2005; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90ML</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MLA</div>
+  </td>
+  <td>
+    <div>ad. No. 121, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90MM, 90MN</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 90MO</div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MO</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MP</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 90MQ</div>
+  </td>
+  <td>
+    <div>am. No. 15, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MQ</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 15, 2007; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MR</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 90MS</div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MS</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 1 to s. 90MS</div>
+  </td>
+  <td>
+    <div>rs. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 3 to s. 90MS</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MT</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MU</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MUA</div>
+  </td>
+  <td>
+    <div>ad. No. 121, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MV</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MW</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MX</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2002; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MY</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MZ</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2002; No. 15, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MZA</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MZB</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MZC</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MZD</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 121, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90MZE, 90MZF</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MZG</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90MZH</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IX</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91</div>
+  </td>
+  <td>
+    <div>am. No. 95, 1976; No. 181, 1987; No. 167, 1995; No. 98, 2005; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91A</div>
+  </td>
+  <td>
+    <div>ad. No. 95, 1976</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91B</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 92</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987; No. 167, 1995; No. 98, 2005; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 92A</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 167, 1995; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part X</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 93</div>
+  </td>
+  <td>
+    <div>am. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 93</div>
+  </td>
+  <td>
+    <div>am. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 93A</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 194, 1999; No. 138, 2003; No. 22, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 94</div>
+  </td>
+  <td>
+    <div>am. No. 194, 1999; No. 22, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 94</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976; No. 23, 1979; No. 72, 1983; Nos. 141 and 181, 1987; No. 8, 1988; No. 115, 1990; No. 194, 1999; No. 143, 2000; No. 138, 2003; No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 94(2A)</div>
+  </td>
+  <td>
+    <div>rep. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 94AAA</div>
+  </td>
+  <td>
+    <div>am. No. 22, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 94AAA</div>
+  </td>
+  <td>
+    <div>ad. No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003; No. 98, 2005; No. 22, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 94AAB</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 94AA</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 1990</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 167, 1995; No. 194, 1999; No. 143, 2000; No. 98, 2005; No. 22, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 94A</div>
+  </td>
+  <td>
+    <div>ad. No. 63, 1976</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 23, 1979; No. 141, 1987; No. 194, 1999; No. 22, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 95</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 96</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976; No. 23, 1979; No. 72, 1983; No. 181, 1987; No. 8, 1988; No. 194, 1999; No. 22, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 96AA</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 96A</div>
+  </td>
+  <td>
+    <div>ad. No. 89, 1998</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part XI</div>
+  </td>
+  <td>
+    <div>rs. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to heading to Part XI</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of 
+Part XI</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 97</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 8, 1988; No. 194, 1999; No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 98</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 194, 1999; No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 98A</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987; No. 194, 1999; No. 143, 2000; No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 99</div>
+  </td>
+  <td>
+    <div>rep. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 99A</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100A</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100B</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100C</div>
+  </td>
+  <td>
+    <div>ad. No. 116, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 21, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101</div>
+  </td>
+  <td>
+    <div>am. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 102</div>
+  </td>
+  <td>
+    <div>rs. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 102A</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 167, 1995; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 102A</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 102B</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part XI</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 102C–102H</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 102J–102L</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part XI</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 102M, 102N</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 104</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 72, 1984; No. 181, 1987; No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 104A</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2005; No. 22, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105</div>
+  </td>
+  <td>
+    <div>am. No. 95, 1976; No. 72, 1983; No. 181, 1987; No. 194, 1999; No. 143, 2000; No, 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 105(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976; No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106A</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106B</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003; Nos. 20 and 98, 2005; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 107</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987; No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 108</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976; No. 23, 1979; No. 72, 1983; No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109</div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109A</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109B</div>
+  </td>
+  <td>
+    <div>ad. No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIIIAA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part XIIIAA</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of 
+Part XIIIAA</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976; No. 72, 1983; No. 72, 1984; No. 168, 1986; No. 181, 1987; No. 182, 1989; No. 34, 1997; No. 73, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 110A, 110B</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111A</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 111AA, 111AB</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2 of 
+Part XIIIAA</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111B</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 167, 1995; No. 143, 2000; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 111B(4)</div>
+  </td>
+  <td>
+    <div>rs. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of 
+Part XIIIAA</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 111C</div>
+  </td>
+  <td>
+    <div>rs. No. 89, 1998</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111C</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 89, 1998; No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part XIIIAA</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 111CA, 111CB</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 111CC–111CI</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 111CJ–111CP</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 111CQ–111CS</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111CT</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111CU</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111CV</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111CW</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 111CX, 111CY</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision G</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111CZ</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 5 of 
+Part XIIIAA</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111D</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIIIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part XIIIA</div>
+  </td>
+  <td>
+    <div>rs. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XIIIA</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AA</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 23, 1992; No. 167, 1995; No. 143, 2000; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 112AB, 112AC</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 167, 1995; No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AD</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 37, 1991; No. 167, 1995; No. 34, 1997; No. 143, 2000; No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AE</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000; No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AF</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AG</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000; No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 112AH</div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AH</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000; No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 112AH(8)</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AJ</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AK</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AL</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AM</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 112AN, 112AO</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of 
+Part XIIIA</div>
+  </td>
+  <td>
+    <div>rep. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIIIB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part XIIIB</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112AP</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 194, 1999; No. 143, 2000; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112A</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 72, 1984; No. 181, 1987; No. 182, 1989; No. 20, 2005; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114AA</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 182, 1989; No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 114AA(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114AB</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 37, 1991; No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIVA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part XIVA</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XIVA</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114A</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1986; No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114B</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 76, 1986; No. 182, 1989; No. 152, 1997; No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114BA</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 114BA(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 152, 1997</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114BB</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 114C, 114D</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114E</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 159, 2001</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114F</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 43, 1996</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114G</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 229, 1992</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114H</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114J</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 229, 1992; No. 152, 1997; No. 156, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114K</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114L</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 114LA–114LD</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114M</div>
+  </td>
+  <td>
+    <div>ad. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 65 and 166, 1985; No. 182, 1989; No. 199, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 1999; No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114MA</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114MB</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114MC</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114MD</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 152, 1997</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114ME</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114MF</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 82, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XIVB</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 151, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 114MG–114MP</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 151, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114N</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1986</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976; No. 72, 1983; No. 181, 1987; No. 182, 1989; No. 167, 1995; No. 43, 1996; Nos. 146 and 194, 1999; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 116A, 116B</div>
+  </td>
+  <td>
+    <div>ad. No. 67, 1973</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 23, 1992</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116C</div>
+  </td>
+  <td>
+    <div>ad. No. 67, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 165, 1984; No. 181, 1987; No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987; No. 167, 1995; No. 194, 1999; No. 143, 2000; No. 138, 2003; No. 98, 2005; No. 46, 2006; No. 82, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117AA</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117AB</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117AC</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117A</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 182, 1989; No. 167, 1995; No. 138, 2003; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117B</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117C</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987; No. 22, 1992; No. 167, 1995; No. 194, 1999; No. 143, 2000; No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 118</div>
+  </td>
+  <td>
+    <div>rs. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 121</div>
+  </td>
+  <td>
+    <div>rs. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 37, 1991; No. 194, 1999; No. 143, 2000; No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 121(10)</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122</div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122AA</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122A</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122B</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 123</div>
+  </td>
+  <td>
+    <div>am. Nos. 63 and 95, 1976; No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 193, 1985; No. 99, 1988; No. 182, 1989; No. 113, 1991; No. 23, 1992; No. 167, 1995; No. 34, 1997; No. 194, 1999; No. 143, 2000; Nos. 138 and 140, 2003; No. 98, 2005; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 123</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 124</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 124A</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 125</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 113, 1991; No. 167, 1995; No. 25, 1997; No. 143, 2000; No. 140, 2003; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 1</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Trans‑Tasman Proceedings (Transitional and Consequential Provisions) Act 2010 (No. 36, 2010)_
+
+The following amendments commence at the same time as section 3 of the _Trans‑Tasman Proceedings Act 2010_:
+
+## Schedule 2
+
+## 13  Subsection 102C(5) (note)
+
+Repeal the note, substitute:
+
+Note:          See Part 6 of the _Trans‑Tasman Proceedings Act 2010_.
+
+## 14  Subsection 102D(3) (note)
+
+Repeal the note, substitute:
+
+Note:          See Part 6 of the _Trans‑Tasman Proceedings Act 2010_.
+
+## 15  Subsection 102E(3) (note)
+
+Repeal the note, substitute:
+
+Note:          See Part 6 of the _Trans‑Tasman Proceedings Act 2010_.
+
+## 16  Section 102L
+
+Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans‑Tasman Proceedings Act 2010_”.
+
+As at 15 July 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 584  Subsection 38M(1)
+
+Omit “(1)”.
+
+## 585  At the end of subsection 38M(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 586  Subsections 38M(2) and (3)
+
+Repeal the subsections.
+
+## 587  Paragraph 60EA(a)
+
+Omit “section 22B”, substitute “section 2E”.
+
+## 588  Section 90MD (definition of _business day_)
+
+Repeal the definition.
+
+## 589  Subsection 114D(1) (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 590  Subsection 114F(1)
+
+Omit “(1)”.
+
+## 591  At the end of subsection 114F(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 592  Subsection 114F(2)
+
+Repeal the subsection.
+
+As at 15 July 2011 the amendments are not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Family Law Amendment Act 2000 (No. 143, 2000)_
+
+## Schedule 1
+
+## 31  Saving
+
+The amendments made by the previous items in this Schedule do not affect any act or thing done by a court under Division 2 of Part XIIIA of the _Family Law Act 1975_ before the commencement of this Schedule, and any such act or thing continues to have effect according to its terms after that commencement as if those amendments had not been made.
+
+## Schedule 3
+
+## 20  Application of amendments
+
+The amendments of section 19F of the _Family Law Act 1975_ made by this Schedule apply in relation to applications for review that are made after the commencement of this item (even if the award concerned was registered before that time).
+
+## 24  Application of amendment
+
+The amendment made by item 23 applies to arbitration that begins after the commencement of that item.
+
+## 40  Validation of past transfers
+
+To avoid doubt, a purported transfer of proceedings under subsection 45(2) of the _Family Law Act 1975_ before the commencement of item 39 is taken not to have been invalid or ineffective merely because it was done on the court’s own initiative.
+
+## 56  Application of amendment
+
+The amendment made by item 55 applies to child maintenance orders made after the commencement of that item.
+
+## 56B  Application of amendment
+
+Section 66W of the _Family Law Act 1975_, as amended by item 56A, applies to arrears that are outstanding on or after the commencement of that item.
+
+## 75  Transitional
+
+After the commencement of this item:
+
+                     (a)  anything done before that commencement under section 84 or 85 of the _Family Law Act 1975_ is taken to have been done under section 106A or 106B respectively of that Act; and
+
+                     (b)  a reference in an order made under that Act to section 84 or 85 of that Act is taken to be a reference to section 106A or 106B respectively of that Act.
+
+## 83  Saving
+
+Any regulations made for the purposes of paragraph 89(b) of the _Family Law Act 1975_ and in force immediately before the commencement of item 82 have effect as if they were made for the purposes of section 110B inserted in that Act by that item.
+
+* * *
+
+_Jurisdiction of Courts (Miscellaneous Amendments) Act 2000 (No. 161, 2000)_
+
+## Schedule 1
+
+## 16  Pre‑commencement jurisdiction of the Federal Magistrates Court
+
+The enactment of this Schedule does not imply that the Parliament did not intend that the Federal Magistrates Court was to have jurisdiction, at a time before the commencement of this item, to hear and determine:
+
+                     (a)  a proceeding arising under the _Administrative Decisions (Judicial Review) Act 1977_ that was transferred to the Federal Magistrates Court under section 32AB of the _Federal Court of Australia Act 1976_; or
+
+                     (b)  a proceeding arising under the _Family Law Act 1975_ that was transferred to the Federal Magistrates Court under section 33B of the _Family Law Act 1975_.
+
+* * *
+
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+
+##### <a id="4"></a>4  Application of amendments
+
+             (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+
+             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+* * *
+
+_Family Law Legislation Amendment (Superannuation) Act 2001
+ (No. 61, 2001)_
+
+##### <a id="4"></a>4  Definitions
+
+                   In this Act, unless the contrary intention appears:
+
+                    <a name="famili-law-act"></a>**_Family Law Act_** means the _Family Law Act 1975_.
+
+                    <a name="marriag"></a>**_marriage_** includes a void marriage.
+
+                    <a name="section-79-order"></a>**_section 79 order_** means an order (other than an interim order) made under section 79 of the Family Law Act.
+
+                    <a name="section-87-agreem"></a>**_section 87 agreement_** means an agreement approved under section 87 of the Family Law Act.
+
+                    <a name="startup-time"></a>**_startup time_** means the time when Schedule 1 commences.
+
+                    <a name="superannu-amend"></a>**_superannuation amendments_** means the amendments made by Schedule 1.
+
+##### <a id="5"></a>5  Application of superannuation amendments
+
+             (1)  Subject to this section, the superannuation amendments apply to all marriages, including those that were dissolved before the startup time.
+
+             (2)  Subject to subsections (3) and (4), the superannuation amendments do not apply to a marriage if a section 79 order, or a section 87 agreement, is in force in relation to the marriage at the startup time.
+
+             (3)  If a section 79 order that is in force at the startup time is later set aside under paragraph 79A(1)(a), (b), (c), (d) or (e) of the Family Law Act, then the superannuation amendments apply to the marriage from the time the order is set aside.
+
+             (4)  If an approval of a section 87 agreement that is in force at the startup time is later revoked on a ground specified in paragraph 87(8)(a), (c) or (d) of the Family Law Act, then the superannuation amendments apply to the marriage from the time the approval is revoked.
+
+             (5)  Part VIIIB of the Family Law Act does not apply in relation to a financial agreement that was made before the startup time.
+
+* * *
+
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+
+## Schedule 1
+
+## 97  Application of amendments
+
+The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
+
+* * *
+
+_Family Law Amendment Act 2003 (No. 138, 2003)_
+
+## Schedule 2
+
+## 9  Application of amendments
+
+(1)       The amendments made by Part 1 of this Schedule, other than the split court amendments, apply in relation to proceedings instituted in the court before, on or after the commencement of this item.
+
+(2)       The split court amendments made by Part 1 of this Schedule apply in relation to proceedings instituted in the Family Court after the commencement of this item.
+
+(3)       In this item:
+
+**_electronic communication_** means:
+
+                     (a)  video link; or
+
+                     (b)  audio link; or
+
+                     (c)  other appropriate means of communication.
+
+**_split court amendments_** means the amendments that relate to the use of electronic communication to facilitate:
+
+                     (a)  proceedings being heard by a split court; and
+
+                     (b)  a split court:
+
+                              (i)  hearing testimony; or
+
+                             (ii)  taking submissions; or
+
+                            (iii)  have persons appear before it; or
+
+                            (iv)  having a submission put to a person or to the court.
+
+## Schedule 3
+
+## 29  Regulations
+
+(1)       The Governor‑General may make regulations dealing with matters of a transitional or saving nature arising out of the enactment of this Schedule.
+
+(2)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made for the purposes of this item may be expressed to take effect from a date before the regulations are notified in the _Gazette_.
+
+## Schedule 4A
+
+## 6  Application of amendments
+
+The amendments made by this Schedule apply to financial agreements made at any time, whether before or after the commencement of this Schedule. However, the amendments do not apply to proceedings that were instituted before the commencement of this Schedule.
+
+## Schedule 6
+
+## 2  Application of amendments
+
+(1)       Subject to this item, the amendments made by Part 1 of this Schedule apply to all marriages, including those that were dissolved before the commencement time.
+
+(2)       Subject to subitems (3) and (4), the amendments made by this Schedule do not apply to a marriage if a section 79 order, or a section 87 agreement, is in force in relation to the marriage at the commencement time.
+
+(3)       If a section 79 order that is in force at the commencement time is later set aside under paragraph 79A(1)(a), (b), (c) or (d) of the Family Law Act, then the amendments made by this Schedule apply to the marriage from the time the order is set aside.
+
+(4)       If an approval of a section 87 agreement that is in force at the commencement time is later revoked on a ground specified in paragraph 87(8)(a), (c) or (d) of the Family Law Act, then the amendments made by this Schedule apply to the marriage from the time the approval is revoked.
+
+(5)       In this item, unless the contrary intention appears:
+
+**_commencement time_** means the time when this Schedule commences.
+
+**_Family Law Act_** means the _Family Law Act 1975_.
+
+**_marriage_** includes a void marriage.
+
+**_section 79 order_** means an order (other than an interim order or a partial order) made under section 79 of the Family Law Act.
+
+**_section 87 agreement_** means an agreement approved under section 87 of the Family Law Act.
+
+## Schedule 7
+
+## 35  Application of amendments
+
+(1)       The amendments made by items 7, 13 and 19 of Part 1 of this Schedule apply to admissions or disclosures made after the commencement of this item.
+
+(2)       Items 29 and 29A apply to proceedings instituted in the court after the commencement of this item.
+
+* * *
+
+_Family Law Amendment (Annuities) Act 2004 (No. 153, 2004)_
+
+##### <a id="4"></a>4  Application of annuity amendments
+
+             (1)  Subject to this section, the annuity amendments apply to all marriages, including those that were dissolved before the startup time.
+
+             (2)  Subject to subsections (3) and (4), the annuity amendments do not apply to a marriage if a section 79 order, or a section 87 agreement, is in force in relation to the marriage at the startup time.
+
+             (3)  If a section 79 order that is in force at the startup time is later set aside under paragraph 79A(1)(a), (b), (c) or (d) of the Family Law Act, then the annuity amendments apply to the marriage from the time the order is set aside.
+
+             (4)  If an approval of a section 87 agreement that is in force at the startup time is later revoked on a ground specified in paragraph 87(8)(a), (c) or (d) of the Family Law Act, then the annuity amendments apply to the marriage from the time the approval is revoked.
+
+             (5)  The annuity amendments do not apply in relation to a financial agreement that was made before the startup time.
+
+             (6)  In this section, unless the contrary intention appears:
+
+                    <a name="annuiti-amend"></a>**_annuity amendments_** means the amendments made by Schedule 2.
+
+                    <a name="famili-law-act"></a>**_Family Law Act_** means the _Family Law Act 1975_.
+
+                    <a name="marriag"></a>**_marriage_** includes a void marriage.
+
+                    <a name="section-79-order"></a>**_section 79 order_** means an order (other than an interim order) made under section 79 of the Family Law Act.
+
+                    <a name="section-87-agreem"></a>**_section 87 agreement_** means an agreement approved under section 87 of the Family Law Act.
+
+                    <a name="startup-time"></a>**_startup time_** means the time when Schedule 2 commences.
+
+* * *
+
+_Bankruptcy and Family Law Legislation Amendment Act 2005 (No. 20, 2005)_
+
+## Schedule 1
+
+## 60  Application of amendments
+
+(1)       Subject to subitems (2) and (3), the amendments of the _Family Law Act 1975_ made by this Schedule _,_ to the extent to which they relate to bankruptcies or  personal insolvency agreements, apply in relation to:
+
+                     (a)  bankruptcies for which the date of the bankruptcy is after the commencement of this item; and
+
+                     (b)  personal insolvency agreements executed before, at or after the commencement of this item.
+
+(2)       The following provisions:
+
+                     (a)  subsections 74(2), (3) and (4) of the _Family Law Act 1975_ as amended by this Schedule;
+
+                     (b)  subsection 74(8) of the _Family Law Act 1975_ as amended by this Schedule, to the extent to which that subsection relates to subsection 74(2) of the _Family Law Act 1975_ as amended by this Schedule;
+
+                     (c)  the definitions inserted in subsection 4(1) of the _Family Law Act 1975_ by this Schedule, to the extent to which those definitions relate to subsections 74(2), (3) and (4) of the _Family Law Act 1975_ as amended by this Schedule;
+
+apply to proceedings instituted after the commencement of this item, whether the date of the bankruptcy is before, on or after the date of commencement of this item.
+
+(3)       The following provisions:
+
+                     (a)  subsections 79(11), (12) and (13) of the _Family Law Act 1975_ as amended by this Schedule;
+
+                     (b)  subsection 79(17) of the _Family Law Act 1975_ as amended by this Schedule, to the extent to which that subsection relates to subsection 79(11) of the _Family Law Act 1975_ as amended by this Schedule;
+
+                     (c)  the definitions inserted in subsection 4(1) of the _Family Law Act 1975_ by this Schedule, to the extent to which those definitions relate to subsections 79(11), (12) and (13) of the _Family Law Act 1975_ as amended by this Schedule;
+
+apply to proceedings instituted after the commencement of this item, whether the date of the bankruptcy is before, on or after the date of commencement of this item.
+
+* * *
+
+_Family Law Amendment Act 2005 (No. 98, 2005)_
+
+## Schedule 1
+
+## 4  Application
+
+The amendments made by this Part apply to:
+
+                     (a)  contraventions, and alleged contraventions, of parenting orders (whether occurring before, at or after the commencement of this Part); and
+
+                     (b)  proceedings in which it is alleged that a person committed a contravention of a parenting order (whether those proceedings are commenced before, at or after the commencement of this Part).
+
+## 7  Application
+
+The amendments made by this Part apply to offers to settle proceedings that are made on or after the commencement of this Part.
+
+## 14  Application
+
+The amendments made by this Part apply to failures to comply with orders, bonds or sentences that occur on or after the commencement of this Part.
+
+## 22  Application
+
+The amendments made by this Part apply to dispositions that occur on or after the commencement of this Part.
+
+## 35  Application
+
+The amendments made by this Part apply to proceedings initiated before or after the commencement of this Part.
+
+## 129  Transitional arrangements in relation to decrees nisi made before the commencement of this Part
+
+(1)       A decree nisi of the dissolution of a marriage under this Act that:
+
+                     (a)  was made before the commencement of this Part; and
+
+                     (b)  had become final before the commencement of this Part;
+
+has effect on and after the commencement of this Part as if it were a divorce order that had taken effect on the day on which the decree nisi became absolute.
+
+(2)       A decree nisi of the dissolution of a marriage under this Act that:
+
+                     (a)  was made before the commencement of this Part; and
+
+                     (b)  had not become final before the commencement of this Part;
+
+has effect on and after the commencement of this Part as if it were a divorce order that had been made on the day on which the decree nisi was made.
+
+## 131  Application
+
+The amendment made by this Part applies to applications for leave to appeal made on or after the commencement of this Part.
+
+## 133  Application
+
+The amendment made by this Part applies to appeals that are initiated before or after this Part commences.
+
+## 135  Application
+
+The amendment made by this Part applies to appeals in relation to proceedings whether initiated before or after this Part commences.
+
+* * *
+
+_Jurisdiction of Courts (Family Law) Act 2006 (No. 22, 2006)_
+
+## Schedule 1
+
+## 27  Application
+
+(1)       The amendments made by items 3, 5, 8, 10 to 18 and 25 apply to proceedings instituted before or after the commencement of this Part in the Magistrates Court of Western Australia constituted by a Family Law Magistrate of Western Australia.
+
+(2)       The amendments made by items 1, 2, 4, 6, 7, 9, 19, 20 to 24 and 26 apply to proceedings instituted after the commencement of this Part in the Magistrates Court of Western Australia constituted by a Family Law Magistrate of Western Australia.
+
+* * *
+
+_Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006 (No. 82, 2006)_
+
+## Schedule 8
+
+## 12  Definitions
+
+(1)       In this Part:
+
+**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+**_amend_** includes repeal and remake.
+
+**_asset_** means:
+
+                     (a)  any legal or equitable estate or interest in real or personal property, whether actual, contingent or prospective; and
+
+                     (b)  any right, power, privilege or immunity, whether actual, contingent or prospective.
+
+**_assets official_**, in relation to an asset other than land, means the person or authority who, under a law of the Commonwealth, a State or a Territory, under a trust instrument or otherwise, has responsibility for keeping a register in relation to assets of the kind concerned.
+
+**_Board_** means the Board of Management of the old Institute.
+
+**_commencement time_** means the time when this Part commences.
+
+**_instrument_**:
+
+                     (a)  includes:
+
+                              (i)  a contract, deed, undertaking or agreement; and
+
+                             (ii)  a notice, authority, order or instruction; and
+
+                            (iii)  an instrument made under an Act or regulations; and
+
+                            (iv)  regulations; but
+
+                     (b)  does not include an Act.
+
+**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+**_land_** means any legal or equitable estate or interest in real property, whether actual, contingent or prospective.
+
+**_land registration official_**, in relation to land, means the Registrar of Titles or other proper officer of the State or Territory in which the land is situated.
+
+**_liability_** means any liability, duty or obligation, whether actual, contingent or prospective.
+
+**_new Institute_** means the Australian Institute of Family Studies established by the new law.
+
+**_new law_** means the _Family Law Act 1975_ as in force immediately after the commencement time.
+
+**_old Institute_** means the Australian Institute of Family Studies established by the old law.
+
+**_old law_** means the _Family Law Act 1975_ as in force immediately before the commencement time.
+
+ (2)      Subject to subitem (1), an expression used in this Part that is also used in the new law has the same meaning in this Part as it has in the new law.
+
+## 13  Vesting of assets of old Institute
+
+(1)       This item applies to the assets of the old Institute immediately before the commencement time.
+
+(2)       At the commencement time, the assets to which this item applies cease to be assets of the old Institute and become assets of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these assets.
+
+## 14  Vesting of liabilities of old Institute
+
+(1)       This item applies to the liabilities of the old Institute immediately before the commencement time.
+
+(2)       At the commencement time, the liabilities to which this item applies cease to be liabilities of the old Institute and become liabilities of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these liabilities.
+
+## 15  Certificates relating to vesting of land
+
+(1)       This item applies if:
+
+                     (a)  any land vests in the Commonwealth under this Division; and
+
+                     (b)  there is lodged with a land registration official a certificate that:
+
+                              (i)  is signed by the Minister; and
+
+                             (ii)  identifies the land, whether by reference to a map or otherwise; and
+
+                            (iii)  states that the land has become vested in the Commonwealth under this Division.
+
+_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 27._
+
+(2)       The land registration official may:
+
+                     (a)  register the matter in a way that is the same as, or similar to, the way in which dealings in land of that kind are registered; and
+
+                     (b)  deal with, and give effect to, the certificate.
+
+## 16  Certificates relating to vesting of assets other than land
+
+(1)       This item applies if:
+
+                     (a)  any asset other than land vests in the Commonwealth under this Division; and
+
+                     (b)  there is lodged with an assets official a certificate that:
+
+                              (i)  is signed by the Minister; and
+
+                             (ii)  identifies the asset; and
+
+                            (iii)  states that the asset has become vested in the Commonwealth under this Division.
+
+_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 27._
+
+(2)       The assets official may:
+
+                     (a)  deal with, and give effect to, the certificate as if it were a proper and appropriate instrument for transactions in relation to assets of that kind; and
+
+                     (b)  make such entries in the register as are necessary having regard to the effect of this Part.
+
+## 17  Substitution of Commonwealth as a party to pending proceedings
+
+If any proceedings to which the old Institute was a party were pending in any court or tribunal immediately before the commencement time, the Commonwealth is substituted for the old Institute, from the commencement time, as a party to the proceedings.
+
+## 18  Transfer of custody of old Institute records
+
+(1)       This item applies to any records or documents that, immediately before the commencement time, were in the custody of the old Institute.
+
+(2)       The records and documents are to be transferred into the custody of the Director at or after the commencement time.
+
+## 19  Access by Board members to records
+
+For the purposes of the operation of subsection 27L(4) of the _Commonwealth Authorities and Companies Act 1997_ in relation to the books of the old Institute, the reference in that subsection to a Commonwealth authority is to be read, after the commencement time, as a reference to the Director.
+
+## 20  References in instruments
+
+References to old Institute taken to be references to Director or Commonwealth
+
+(1)       If:
+
+                     (a)  an instrument is in force immediately before the commencement time; and
+
+                     (b)  the instrument contains a reference to the old Institute (including a reference to the Board);
+
+the instrument has effect from the commencement time as if the reference were a reference to the Director.
+
+(2)       However, if:
+
+                     (a)  an instrument is in force immediately before the commencement time; and
+
+                     (b)  the instrument relates to assets or liabilities covered by item 13 or 14; and
+
+                     (c)  the instrument refers to the old Institute (including a reference to the Board);
+
+the reference is to be read as a reference to the Commonwealth as necessary to give effect to item 13 or 14, as the case requires.
+
+References to staff of old Institute taken to be references to staff of new Institute
+
+(3)       If:
+
+                     (a)  an instrument is in force immediately before the commencement time; and
+
+                     (b)  the instrument contains a reference to a member of the staff of the old Institute;
+
+the instrument has effect from the commencement time as if the reference to the member of the staff of the old Institute were a reference to a member of the staff of the new Institute.
+
+Minister and regulations may provide otherwise
+
+(4)       The Minister may, by legislative instrument, determine that subitem (1), (2) or (3):
+
+                     (a)  does not apply in relation to a specified reference; or
+
+                     (b)  applies as if:
+
+                              (i)  in the case of subitem (1)—the reference in that subitem to the Director were a reference to the Commonwealth; or
+
+                             (ii)  in the case of subitem (2)—the reference in that subitem to the Commonwealth were a reference to the Director; or
+
+                            (iii)  in the case of subitem (3)—the reference in that subitem to a member of the staff of the new Institute were a reference to the Director.
+
+A determination under this subitem has effect accordingly.
+
+(5)       The regulations may provide that an instrument containing a reference specified in a determination under paragraph (4)(a) has effect from the commencement time as if:
+
+                     (a)  in the case of an instrument covered by subitem (1) or (2)—the reference were a reference to a specified person or body other than the Commonwealth or the Director; or
+
+                     (b)  in the case of an instrument covered by subitem (3)—the reference were a reference to a specified person or body other than the Director or a member of the staff of the new Institute.
+
+## 21  Operation of laws
+
+Things done by old Institute taken to be done by Director
+
+(1)       If, before the commencement time, a thing was done by, or in relation to, the old Institute (including the Board), then, for the purposes of the operation of any law of the Commonwealth after the commencement time, the thing is taken to have been done by, or in relation to, the Director.
+
+(2)       For the purposes of subitem (1), a thing done before the commencement time under a provision that is amended by this Schedule has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
+
+Minister and regulations may provide otherwise
+
+(3)       The Minister may, by legislative instrument, determine that subitem (1):
+
+                     (a)  does not apply in relation to a specified thing done by, or in relation to, the old Institute; or
+
+                     (b)  applies as if the reference in that subitem to the Director were a reference to the Commonwealth.
+
+A determination under this subitem has effect accordingly.
+
+(4)       The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a specified person or body other than the Commonwealth or the Director.
+
+Meaning of **doing**
+
+(5)       To avoid doubt, for the purposes of this item, **_doing_** a thing includes making an instrument.
+
+## 22  Financial statements and other reporting requirements
+
+Reporting requirements
+
+(1)       If:
+
+                     (a)  immediately before the commencement time, a law required the old Institute (including the Director) to provide a report (whether financial statements or otherwise) for a period; and
+
+                     (b)  the period ends after the commencement time;
+
+the Director must provide the report, as required, for so much of the period as occurs before the commencement time.
+
+(2)       If:
+
+                     (a)  under subitem (1), the Director is required to provide a report for a part of a period; and
+
+                     (b)  the Director is also required to provide a similar report for the remainder of the period;
+
+the Director may meet the requirements in a single report for the period.
+
+Outstanding reporting requirements
+
+(3)       If:
+
+                     (a)  a law required the old Institute (including the Director) to provide a report (whether financial statements or otherwise) for a period that ended before the commencement time; and
+
+                     (b)  the report has not been provided by the commencement time;
+
+the Director must provide the report as required.
+
+## 23  Director
+
+(1)       The person holding office as Director under subsection 114C(4) of the old law immediately before the commencement time continues, on and after that time, by force of this item, to hold office as the Director.
+
+(2)       The person referred to in subitem (1):
+
+                     (a)  is taken to have been duly appointed by the Minister under subsection 114D(1) of the new law for the balance of the term of appointment under section 114E of the old law; and
+
+                     (b)  is taken to have been so appointed on the same terms and conditions as applied to the person immediately before the commencement time.
+
+## 24  Appropriation of money
+
+(1)       For the purposes of the operation of an Appropriation Act after the commencement time, references to the old Institute are to be read as references to the new Institute.
+
+(2)       If an amount of money (the **_original amount_**) becomes an asset of the Commonwealth under item 13 of this Schedule, an amount equal to the original amount may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, for the purposes of the new Institute.
+
+(3)       In this item:
+
+**_Appropriation Act_** means an Act appropriating money for expenditure out of the Consolidated Revenue Fund.
+
+## 25  Exemption from stamp duty and other State or Territory taxes
+
+No stamp duty or other tax is payable under a law of a State or Territory in respect of, or in respect of anything connected with:
+
+                     (a)  the transfer of an asset or liability under this Part; or
+
+                     (b)  the operation of this Part in any other respect.
+
+## 26  Constitutional safety net—acquisition of property
+
+(1)       If the operation of this Part would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+
+(2)       If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+
+## 27  Certificates taken to be authentic
+
+A document that appears to be a certificate made or issued under a particular provision of this Part:
+
+                     (a)  is taken to be such a certificate; and
+
+                     (b)  is taken to have been properly given;
+
+unless the contrary is established.
+
+## 28  Delegation by Minister
+
+(1)       The Minister may delegate all or any of his or her powers and functions under this Part to the Secretary of the Department or to the Director. The delegation must be in writing.
+
+(2)       In exercising or performing powers or functions under a delegation, the delegate must comply with any directions of the Minister.
+
+(3)       A power or function delegated to the Director under subitem (1) must not be sub‑delegated under subsection 114LD(1) of the new law.
+
+## 29  Regulations
+
+(1)       The Governor‑General may make regulations prescribing matters:
+
+                     (a)  required or permitted by this Part to be prescribed; or
+
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Part.
+
+(2)       In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
+
+* * *
+
+_Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006 (No. 146, 2006)_
+
+## Schedule 2
+
+## 115  Application
+
+(1)       The amendments made by Schedule 1 to this Act, and this Schedule (other than items 1 and 2 and 92 to 96 of this Schedule), apply in relation to a day in a child support period, being a day that is, or is after, the day on which this item commences.
+
+(2)       The amounts referred to in subsections 65A(2) and 66(5) of the Assessment Act (as inserted by Schedule 1 to this Act) are to be indexed in accordance with section 153A of that Act on and after 1 January 2007 as if item 1 of Schedule 1 had commenced on that day.
+
+* * *
+
+_Superannuation Legislation Amendment (Simplification) Act 2007
+ (No. 15, 2007)_
+
+## Schedule 1
+
+## 406  Application
+
+(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+
+(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+
+(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+
+                     (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
+
+                     (b)  Divisions 301 to 307 of that Act.
+
+* * *
+
+_Family Law Amendment (De Facto Financial Matters and Other Measures)
+ Act 2008 (No. 115, 2008)_
+
+## Schedule 1
+
+## 85  Interpretation
+
+In this Part:
+
+**_commencement_** means the commencement of this Schedule.
+
+**_designated agreed matters_**, in relation to 2 persons, means the following:
+
+                     (a)  how all or any of the:
+
+                              (i)  property; or
+
+                             (ii)  financial resources;
+
+                            of either person, or both persons, at the time when the agreement is made, or at a later time and during a de facto relationship between them, is to be distributed;
+
+                     (b)  the maintenance of either of the persons;
+
+in the event of the breakdown of a de facto relationship between them, or in relation to a de facto relationship between them that has broken down, as the case requires.
+
+**_designated State/Territory financial agreement_**, in relation to 2 persons, means a written agreement:
+
+                     (a)  signed by both of them with respect to matters that include any designated agreed matters; and
+
+                     (b)  made under a preserved law of a State or Territory; and
+
+                     (c)  in relation to which, either:
+
+                              (i)  a court could not, because of that preserved law, make an order under that law that is inconsistent with the agreement w
