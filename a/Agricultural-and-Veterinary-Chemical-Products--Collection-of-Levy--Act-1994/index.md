@@ -1,14 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01702/Html/AgriVetChemProdCollLevy94_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01701/Html/AgVetChemPCL94_image001.gif)
 
 # Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994
 
 **Act No. 41 of 1994 as amended**
 
-This compilation was prepared on 16 October 2001 
- taking into account amendments up to Act No. 115 of 2001
-
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+This compilation was prepared on 20 October 2000 
+ taking into account amendments up to Act No. 36 of 1995
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -26,8 +23,6 @@ Prepared by the Office of Legislative Drafting,
 [4](#4).            Extension to certain external Territories                                              7
 
 [5](#5).            Act to bind Crown                                                                               7
-
-[5A](#5A).         Application of the _Criminal Code_                                                       7
 
 [6](#6).            Power of NRA to make certain determinations                                   7
 
@@ -53,7 +48,7 @@ Prepared by the Office of Legislative Drafting,
 
 [17](#17).          Fresh assessments                                                                             15
 
-[18](#18).          Reconsideration and review of assessments                                      16
+[18](#18).          Reconsideration and review of assessments                                      15
 
 **Part 4—Enforcement**
 
@@ -65,7 +60,7 @@ Prepared by the Office of Legislative Drafting,
 
 [22](#22).          Offence-related searches and seizures                                               20
 
-[23](#23).          Power of inspector to require information or documents                  21
+[23](#23).          Power of inspector to require information or documents                  20
 
 [24](#24).          Offence-related warrants                                                                   21
 
@@ -73,9 +68,9 @@ Prepared by the Office of Legislative Drafting,
 
 [26](#26).          Details of warrant to be given to occupier                                         22
 
-[27](#27).          Use of equipment to examine or process things                                23
+[27](#27).          Use of equipment to examine or process things                                22
 
-[28](#28).          Use of electronic equipment at premises                                           24
+[28](#28).          Use of electronic equipment at premises                                           23
 
 [29](#29).          Compensation for damage to electronic equipment                           25
 
@@ -83,7 +78,7 @@ Prepared by the Office of Legislative Drafting,
 
 [31](#31).          Return of things that are seized                                                         26
 
-[32](#32).          Court of summary jurisdiction may permit a thing to be kept          27
+[32](#32).          Court of summary jurisdiction may permit a thing to be kept          26
 
 **Part 5—Miscellaneous**
 
@@ -95,13 +90,13 @@ Prepared by the Office of Legislative Drafting,
 
 [36](#36).          Applicant for registration of chemical product to keep records        29
 
+[37](#37).          False or misleading information or document                                    29
+
 [38](#38).          Exemptions from liability for damages                                              29
 
-[39](#39).          Regulations                                                                                        29
+[39](#39).          Regulations                                                                                        30
 
 **Notes** 
-
- 
 
 ## An Act to provide for the collection of a levy on agricultural and veterinary chemical products, and for related purposes
 
@@ -197,9 +192,9 @@ in respect of the product if, at that time, the product had been sold by the man
 
                     <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against:
 
-                     (a)  section 6 of the _Crimes Act 1914_; or
+                     (a)  section 6, 7 or 7A of the _Crimes Act 1914_; or
 
-                     (b)  section 11.1, 11.4 or 11.5 of the _Criminal Code_;
+                     (b)  subsection 86(1) of that Act because of paragraph (a) of that subsection;
 
 that relates to an offence against this Act.
 
@@ -285,12 +280,6 @@ the product is taken, for the purposes of this Act, not to have been registered 
 
              (2)  Nothing in this Act renders the Crown in any capacity liable to be prosecuted for an offence.
 
-##### <a id="5A"></a>5A  Application of the _Criminal Code_
-
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
 ##### <a id="6"></a>6  Power of NRA to make certain determinations
 
              (1)  The NRA may do any one or more of the following:
@@ -335,7 +324,7 @@ then, subject to subsection (2), levy is payable in respect of leviable disposal
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under section 8 in respect of leviable disposals of a particular chemical product during a particular calendar year is the amount worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01702/Html/AgriVetChemProdCollLevy94_image002.gif)</sub>where:
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01701/Html/AgVetChemPCL94_image002.gif)</sub>where:
 
                     <a name="rate-levi"></a>**_rate of levy_** means the percentage prescribed by the regulations for the purposes of this section in respect of that year.
 
@@ -349,7 +338,7 @@ then, subject to subsection (2), levy is payable in respect of leviable disposal
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under section 9 in respect of leviable disposals of a particular chemical product during the first 6 months of a particular calendar year is the amount worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01702/Html/AgriVetChemProdCollLevy94_image003.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01701/Html/AgVetChemPCL94_image003.gif)</sub>
 
 where:
 
@@ -393,17 +382,9 @@ Note:          If any late payment penalty payable in respect 
 
                              (ii)  within a period of not less than one month that is stated in the notice, to notify the NRA in writing of the results of the calculations and the basis on which the calculations were made.
 
-             (2)  A person must not refuse or fail to comply with a requirement made under subsection (1).
+             (2)  A person must not, without reasonable excuse, refuse or fail to comply with a requirement made under subsection (1).
 
                     Penalty:  30 penalty units.
-
-          (2A)  Subsection (2) does not apply if the person has a reasonable excuse.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (2A). See subsection 13.3(3) of the _Criminal Code_.
-
-          (2B)  An offence under subsection (2) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
              (3)  Subject to subsection (6), a person who has given to the NRA, under subparagraph (1)(b)(ii) or this subsection, a notification in writing in respect of the total leviable value (if any) in respect of a chemical product for a period and the amount of the levy (if any) that is payable may make a further calculation of that value and amount in substitution for the value and amount last so calculated and notify the NRA of the results of the further calculations and the basis on which the further calculations were made.
 
@@ -509,17 +490,9 @@ requiring the person to whom the notice is given to give to the NRA, within a pe
 
 requiring the person to whom the notice is given to give to the NRA, within a period stated in the notice that is not less than one month after the notice is given, any information relating to the importation, manufacture or disposal of the product during those 6 months that is necessary to work out the total leviable value in respect of the product for those 6 months.
 
-             (3)  A person must not refuse or fail to comply with a requirement made under subsection (1) or (2).
+             (3)  A person must not, without reasonable excuse, refuse or fail to comply with a requirement made under subsection (1) or (2).
 
                     Penalty:  30 penalty units.
-
-             (4)  Subsection (3) does not apply if the person has a reasonable excuse.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (4). See subsection 13.3(3) of the _Criminal Code_.
-
-             (5)  An offence under subsection (3) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="21"></a>21  Searches to monitor compliance with Act
 
@@ -567,17 +540,9 @@ and the inspector believes, on reasonable grounds, that it is necessary to seize
 
              (2)  An inspector is not entitled to make a requirement of a person under subsection (1) unless the inspector produces his or her identity card for inspection by the person.
 
-             (3)  A person must not refuse or fail to comply with a requirement made under subsection (1).
+             (3)  A person must not, without reasonable excuse, refuse or fail to comply with a requirement made under subsection (1).
 
                     Penalty:  30 penalty units.
-
-             (4)  Subsection (3) does not apply if the person has a reasonable excuse.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (4). See subsection 13.3(3) of the _Criminal Code_.
-
-             (5)  An offence under subsection (3) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="24"></a>24  Offence-related warrants
 
@@ -775,7 +740,7 @@ the court may order that the inspector may keep the thing for a period stated in
 
 ##### <a id="36"></a>36  Applicant for registration of chemical product to keep records
 
-             (1)  A person who applies for registration, or the renewal of registration, of a chemical product, or imports a chemical product into, or manufactures a chemical product in, Australia must:
+                   A person who applies for registration, or the renewal of registration, of a chemical product, or imports a chemical product into, or manufactures a chemical product in, Australia must:
 
                      (a)  keep any records relating to the importation, manufacture or disposal of the product that may be necessary to work out the total leviable value in respect of the product for any period in respect of which levy may be payable in respect of leviable disposals of the product; and
 
@@ -783,9 +748,19 @@ the court may order that the inspector may keep the thing for a period stated in
 
                     Penalty:  30 penalty units.
 
-             (2)  An offence under subsection (1) is an offence of strict liability.
+##### <a id="37"></a>37  False or misleading information or document
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+                   A person must not, in compliance or purported compliance with a requirement made under this Act, do either or both of the following:
+
+                     (a)  give information, whether orally or in writing, that the person knows to be false or misleading in a material particular;
+
+                     (b)  produce a document that the person knows to be false or misleading in a material particular without:
+
+                              (i)  indicating to the person to whom the document is produced that it is false or misleading and the respect in which it is false or misleading; and
+
+                             (ii)  providing correct information to that person if the person producing the document is in possession of, or can reasonably acquire, the correct information.
+
+                    Penalty:  30 penalty units.
 
 ##### <a id="38"></a>38  Exemptions from liability for damages
 
@@ -809,16 +784,13 @@ and, in particular, prescribing the way in which notices may be given by or to t
 
 The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ as shown in this compilation comprises Act No. 41, 1994 amended as indicated in the Tables below.
 
-For relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
-  <col width="1%">
+  <col width="18%">
   <col width="22%">
   <col width="14%">
 </colgroup>
@@ -832,7 +804,7 @@ For relevant information pertaining to application, saving or transitional provi
       <div>Number 
 and year</div>
     </td>
-    <td colspan="2">
+    <td>
       <div>Date 
 of Assent</div>
     </td>
@@ -851,7 +823,7 @@ of Assent</div>
   <td>
     <div>41, 1994</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>15 Mar 1994</div>
   </td>
   <td>
@@ -869,7 +841,7 @@ of Assent</div>
   <td>
     <div>72, 1994</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>21 June 1994</div>
   </td>
   <td>
@@ -886,7 +858,7 @@ of Assent</div>
   <td>
     <div>94, 1994</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>29 June 1994</div>
   </td>
   <td>
@@ -903,7 +875,7 @@ of Assent</div>
   <td>
     <div>36, 1995</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>12 Apr 1995</div>
   </td>
   <td>
@@ -912,51 +884,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419)</div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>115, 2001</div>
-    </td>
-    <td>
-      <div>18 Sept 2001</div>
-    </td>
-    <td colspan="2">
-      <div>16 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4</div>
-    </td>
-  </tr>
-</thead>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
  
@@ -1003,15 +930,7 @@ _(c)_     The _Agricultural and Veterinary Chemical Products (Collection
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 72 and 94, 1994; No. 36, 1995; No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
+    <div>am. Nos. 72 and 94, 1994; No. 36, 1995</div>
   </td>
 </tr>
 <tr>
@@ -1048,42 +967,10 @@ _(c)_     The _Agricultural and Veterinary Chemical Products (Collection
 </tr>
 <tr>
   <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 72, 1994; No. 36, 1995; No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
+    <div>am. No. 72, 1994; No. 36, 1995</div>
   </td>
 </tr>
 <tr>
@@ -1094,50 +981,6 @@ _(c)_     The _Agricultural and Veterinary Chemical Products (Collection
     <div>am. No. 72, 1994</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
-
-## Schedule 2
-
-## 418  Transitional—pre-commencement offences
-
-(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-
-                     (a)  an offence committed before the commencement of this item; or
-
-                     (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or
-
-                     (c)  any matter connected with, or arising out of, such proceedings;
-
-as if the amendment or repeal had not been made.
-
-(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-## 419  Transitional—pre-commencement notices
-
-If:
-
-                     (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-
-                     (b)  any or all of those other provisions are repealed by this Schedule; and
-
-                     (c)  the first-mentioned provision is amended by this Schedule;
-
-the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-* * *
-
-_Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)_
-
-##### <a id="4"></a>4  Application of amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
       
 
