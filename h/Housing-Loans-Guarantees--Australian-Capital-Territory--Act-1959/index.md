@@ -1,74 +1,71 @@
-![](http://www.comlaw.gov.au/Details/C2004C00512/Html/B9E7337142A71739CA25716300214E79/$FILE/image001.gif)
+**<b>
 
-# Housing Loans Guarantees (Australian Capital Territory) Act 1959
+### <center><name>HOUSING LOANS GUARANTEES (AUSTRALIAN CAPITAL TERRITORY) ACT 1959 - Reprinted as at 31 July 1983 (HISTACT CHAP 316 #DATE 31:07:1983) </name></center>
+</b>** *1* Act No. 46, 1959; assented to and commenced 22 May 1959.<lf> </lf>
+**<b>
 
-**Act No. 46 of 1959**
+### <name>HOUSING LOANS GUARANTEES (AUSTRALIAN CAPITAL TERRITORY) ACT 1959 - TABLE OF PROVISIONS </name>
+</b>** 
 
-This Act was prepared on 15 November 2000
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS<lf> 
 
-Prepared by the Office of Legislative Drafting,
-Attorney-General’s Department, Canberra
+Section<lf> <p>  1\.       Short title<lf> <p>  2\.       Commencement<lf> <p>  3\.       Interpretation<lf> <p>  4\.       Treasurer may guarantee loans<lf> <p>  5\.       Delegation by Treasurer<lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></tt></tables>
+**<b>
 
+### <name>HOUSING LOANS GUARANTEES (AUSTRALIAN CAPITAL TERRITORY) ACT 1959 - LONG TITLE </name>
+</b>** 
 
-# Contents
+## SECT
+<sect> An Act to facilitate the Borrowing of Money by Co-operative Building Societies and the Commissioner for Housing of the Australian Capital Territory<lf> </lf></sect>
+**<b>
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+### <name>HOUSING LOANS GUARANTEES (AUSTRALIAN CAPITAL TERRITORY) ACT 1959 - SECT 1 Short title </name>
+</b>** 
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+## SECT
+<sect>   1\. This Act may be cited as the Housing Loans Guarantees (Australian Capital Territory) Act 1959.*1* 
 
-[3](#3).            Interpretation                                                                                       1
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</sect>
+**<b>
 
-[4](#4).            Treasurer may guarantee loans                                                            1
+### <name>HOUSING LOANS GUARANTEES (AUSTRALIAN CAPITAL TERRITORY) ACT 1959 - SECT 2 Commencement </name>
+</b>** 
 
-[5](#5).            Delegation by Treasurer                                                                      2
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* 
 
-**Notes** 
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</sect>
+**<b>
 
+### <name>HOUSING LOANS GUARANTEES (AUSTRALIAN CAPITAL TERRITORY) ACT 1959 - SECT 3 Interpretation </name>
+</b>** 
 
-## An Act to facilitate the Borrowing of Money by Co-operative Building Societies and the Commissioner for Housing of the Australian Capital Territory
+## SECT
+<sect>   3\. (1) In this Act, "loan" includes an advance by way of overdraft. 
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+  (2) The reference in the next succeeding section to the Housing Ordinance 1928-1957 of the Australian Capital Territory shall be deemed-<lf>   (a)  if that Ordinance is amended-to be a reference to that Ordinance as amended; or<lf>          (b)  if that Ordinance is repealed and remade, with or without modifications, by another Ordinance-to be a reference to that other Ordinance. <p></p></lf></lf>
+</sect>
+**<b>
 
-                   This Act may be cited as the _Housing Loans Guarantees (Australian Capital Territory) Act 1959_. 
+### <name>HOUSING LOANS GUARANTEES (AUSTRALIAN CAPITAL TERRITORY) ACT 1959 - SECT 4 Treasurer may guarantee loans </name>
+</b>** 
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+## SECT
+<sect>   4\. (1) The Treasurer may, on behalf of the Commonwealth, guarantee the repayment to the lender of a loan (including interest on the loan) made to-<lf>   (a)  a co-operative building society registered under a law of the Australian Capital Territory relating to co-operative societies; or<lf>          (b)  the Commissioner for Housing holding office under the Housing Ordinance 1928-1957 of the Australian Capital Territory. 
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent. 
+  (2) The terms and conditions of the guarantee shall be as agreed to between the Treasurer and the lender. 
+</lf></lf></sect>
+**<b>
 
-##### <a id="3"></a>3  Interpretation
+### <name>HOUSING LOANS GUARANTEES (AUSTRALIAN CAPITAL TERRITORY) ACT 1959 - SECT 5 Delegation by Treasurer </name>
+</b>** 
 
-             (1)  In this Act:
+## SECT
+<sect>   5\. (1) The Treasurer may, by instrument in writing, delegate to a person, either generally or otherwise as provided in the instrument of delegation, all or any of his powers and functions under this Act (except this power of delegation) so that the delegated powers and functions may be exercised and performed by the delegate in accordance with the instrument of delegation. 
 
-                    <a name="loan"></a>**_loan_** includes an advance by way of overdraft. 
-
-             (2)  The reference in the next succeeding section to the _Housing Ordinance 1928-1957_ of the Australian Capital Territory shall be deemed:
-
-                     (a)  if that Ordinance is amended—to be a reference to that Ordinance as amended; or
-
-                     (b)  if that Ordinance is repealed and remade, with or without modifications, by another Ordinance—to be a reference to that other Ordinance.
-
-##### <a id="4"></a>4  Treasurer may guarantee loans  
-
-             (1)  The Treasurer may, on behalf of the Commonwealth, guarantee the repayment to the lender of a loan (including interest on the loan) made to:
-
-                     (a)  a co-operative building society registered under a law of the Australian Capital Territory relating to co-operative societies; or
-
-                     (b)  the Commissioner for Housing holding office under the _Housing Ordinance 1928-1957_ of the Australian Capital Territory.
-
-             (2)  The terms and conditions of the guarantee shall be as agreed to between the Treasurer and the lender. 
-
-##### <a id="5"></a>5  Delegation by Treasurer
-
-             (1)  The Treasurer may, by instrument in writing, delegate to a person, either generally or otherwise as provided in the instrument of delegation, all or any of his powers and functions under this Act (except this power of delegation) so that the delegated powers and functions may be exercised and performed by the delegate in accordance with the instrument of delegation. 
-
-             (2)  A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Treasurer. 
-
-
-# Notes to the _Housing Loans Guarantees (Australian Capital Territory) Act 1959_
-
-### Note 1
-
-Act No. 46, 1959; assented to and commenced 22 May 1959.
-
-
- 
+  (2) A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Treasurer. 
+</sect>
