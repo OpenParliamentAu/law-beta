@@ -1,418 +1,420 @@
-![](http://www.comlaw.gov.au/Details/C2006C00553/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="842E151CF54BC19FCA256FBF0022AC93/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Primary Industries and Energy Research and Development Act 1989
 
-**Act No. 17 of 1990 as amended**
+**Act No. 17 of 1990 as amended**
 
-This compilation was prepared on 28 September 2006
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 7 March 2005
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Objects                                                                                                 1
+[3](#3).            Objects<span style="mso-tab-count: 1 dotted">                                                                                                 </span>
 
-[4](#4).            Definitions                                                                                           2
+[4](#4).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[5](#5).            Levies attached to R&amp;D Corporations or R&amp;D Funds                       7
+[5](#5).            Levies attached to R&amp;D Corporations or R&amp;D Funds<span style="mso-tab-count: 1 dotted">                       </span>
 
-[6](#6).            Redirecting levies                                                                                 8
+[6](#6).            Redirecting levies<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[7](#7).            Representative organisations                                                               9
+[7](#7).            Representative organisations<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-**Part 2—Research and Development Corporations** 
+**Part 2—Research and Development Corporations<span style="mso-tab-count: 1">                                           </span>** 
 
-    **Division 1—Establishment, functions and powers of Research and Development Corporations**
+    **Division 1—Establishment, functions and powers of Research and Development Corporations<span style="mso-tab-count: 1">           </span>**
 
-[8](#8).            Establishment of Research and Development Corporations             10
+[8](#8).            Establishment of Research and Development Corporations<span style="mso-tab-count: 1 dotted">             </span>
 
-[9](#9).            Establishment of the Rural Industries Research and Development Corporation    10
+[9](#9).            Establishment of the Rural Industries Research and Development Corporation<span style="mso-tab-count: 1">    </span>
 
-[10](#10).          R&amp;D Corporation is body corporate etc                                           10
+[10](#10).          R&amp;D Corporation is body corporate etc <span style="mso-tab-count: 1 dotted">                                          </span>
 
-[11](#11).          Functions                                                                                           11
+[11](#11).          Functions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[12](#12).          Powers                                                                                               12
+[12](#12).          Powers<span style="mso-tab-count: 1 dotted">                                                                                               </span>
 
-[13](#13).          Agreements for carrying out R&amp;D activities by other persons         12
+[13](#13).          Agreements for carrying out R&amp;D activities by other persons<span style="mso-tab-count: 1 dotted">         </span>
 
-[14](#14).          Agreements for carrying out R&amp;D activities with other persons      13
+[14](#14).          Agreements for carrying out R&amp;D activities with other persons<span style="mso-tab-count: 1 dotted">      </span>
 
-[15](#15).          Consultations with persons and organisations                                  14
+[15](#15).          Consultations with persons and organisations<span style="mso-tab-count: 1 dotted">                                  </span>
 
-    **Division 2—Constitution of Research and Development Corporations**
+    **Division 2—Constitution of Research and Development Corporations<span style="mso-tab-count: 1">                </span>**
 
-[16](#16).          Constitution                                                                                       15
+[16](#16).          Constitution<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[17](#17).          Appointment of directors                                                                  15
+[17](#17).          Appointment of directors<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[18](#18).          Members of executive of representative organisation not eligible for appointment etc          15
+[18](#18).          Members of executive of representative organisation not eligible for appointment etc <span style="mso-tab-count: 1">         </span>
 
-    **Division 3—R&amp;D plans and annual operational plans**
+    **Division 3—R&amp;D plans and annual operational plans<span style="mso-tab-count: 1">                              </span>**
 
-[19](#19).          R&amp;D plans                                                                                         17
+[19](#19).          R&amp;D plans<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[20](#20).          Approval of R&amp;D plans                                                                    17
+[20](#20).          Approval of R&amp;D plans<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[21](#21).          Variation of R&amp;D plans                                                                     18
+[21](#21).          Variation of R&amp;D plans<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[22](#22).          Approval for varied R&amp;D plans to run for 4 years from next 1 July 19
+[22](#22).          Approval for varied R&amp;D plans to run for 4 years from next 1 July<span style="mso-tab-count: 1 dotted"> </span>
 
-[23](#23).          When variations of R&amp;D plans take effect                                        20
+[23](#23).          When variations of R&amp;D plans take effect<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[24](#24).          Consultation                                                                                      20
+[24](#24).          Consultation<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[25](#25).          Annual operational plans                                                                   20
+[25](#25).          Annual operational plans<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[26](#26).          Approval of annual operational plans                                               22
+[26](#26).          Approval of annual operational plans<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[27](#27).          Compliance with R&amp;D plans and annual operational plans              24
+[27](#27).          Compliance with R&amp;D plans and annual operational plans<span style="mso-tab-count: 1 dotted">              </span>
 
-    **Division 4—Accountability**
+    **Division 4—Accountability<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[28](#28).          Annual report                                                                                    25
+[28](#28).          Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[29](#29).          Accountability to representative organisations                                 26
+[29](#29).          Accountability to representative organisations<span style="mso-tab-count: 1 dotted">                                 </span>
 
-    **Division 5—Finance**
+    **Division 5—Finance<span style="mso-tab-count: 1">                                                                                                    </span>**
 
-[30](#30).          Payments to R&amp;D Corporation—general                                         28
+[30](#30).          Payments to R&amp;D Corporation—general<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[30A](#30A).       Payments to an R&amp;D Corporation established in respect of the fishing industry  29
+[30A](#30A).       Payments to an R&amp;D Corporation established in respect of the fishing industry<span style="mso-tab-count: 1">  </span>
 
-[31](#31).          Government matching payments not to exceed levy and certain other payments  31
+[31](#31).          Government matching payments not to exceed levy and certain other payments<span style="mso-tab-count: 1">  </span>
 
-[32](#32).          Commonwealth’s matching payments not to exceed certain proportion of production         31
+[32](#32).          Commonwealth’s matching payments not to exceed certain proportion of production<span style="mso-tab-count: 1">         </span>
 
-[33](#33).          Expenditure of money of R&amp;D Corporations                                   32
+[33](#33).          Expenditure of money of R&amp;D Corporations<span style="mso-tab-count: 1 dotted">                                   </span>
 
-[33A](#33A).       Expenditure of money by an R&amp;D Corporation established in respect of forest industries   33
+[33A](#33A).       Expenditure of money by an R&amp;D Corporation established in respect of forest industries<span style="mso-tab-count: 1">   </span>
 
-[34](#34).          Commonwealth to be paid levy expenses from R&amp;D Corporations 33
+[34](#34).          Commonwealth to be paid levy expenses from R&amp;D Corporations<span style="mso-tab-count: 1 dotted"> </span>
 
-[35](#35).          Commonwealth to be reimbursed for refunds of levy [_see_ Note 2]  33
+[35](#35).          Commonwealth to be reimbursed for refunds of levy [_see_ Note 2]<span style="mso-tab-count: 1 dotted">  </span>
 
-[36](#36).          Transfers of money where levies redirected                                      34
+[36](#36).          Transfers of money where levies redirected<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[37](#37).          Payment of amounts of levy where levies redirected                        35
+[37](#37).          Payment of amounts of levy where levies redirected<span style="mso-tab-count: 1 dotted">                        </span>
 
-[38](#38).          Payment of matching contributions where levies redirected             35
+[38](#38).          Payment of matching contributions where levies redirected<span style="mso-tab-count: 1 dotted">             </span>
 
-[39](#39).          Treatment of amounts received, after levies redirected, as a result of earlier expenditure       36
+[39](#39).          Treatment of amounts received, after levies redirected, as a result of earlier expenditure<span style="mso-tab-count: 1">       </span>
 
-[40](#40).          Separate accounting records                                                               37
+[40](#40).          Separate accounting records<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[41](#41).          Borrowing from Commonwealth                                                       37
+[41](#41).          Borrowing from Commonwealth<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[42](#42).          Borrowing from persons other than the Commonwealth                  38
+[42](#42).          Borrowing from persons other than the Commonwealth<span style="mso-tab-count: 1 dotted">                  </span>
 
-[43](#43).          Guarantee of borrowing                                                                     38
+[43](#43).          Guarantee of borrowing<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[44](#44).          Borrowing not otherwise permitted                                                  38
+[44](#44).          Borrowing not otherwise permitted<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[45](#45).          R&amp;D Corporations may give security                                               38
+[45](#45).          R&amp;D Corporations may give security<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[46](#46).          Liability to taxation                                                                           39
+[46](#46).          Liability to taxation<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[46A](#46A).       Delegation by Finance Minister                                                        39
+[46A](#46A).       Delegation by Finance Minister<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-    **Division 6—Meetings of Research and Development Corporations**
+    **Division 6—Meetings of Research and Development Corporations<span style="mso-tab-count: 1"> </span>**
 
-[47](#47).          Times and places of meetings                                                            40
+[47](#47).          Times and places of meetings<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[48](#48).          Presiding at meetings                                                                         40
+[48](#48).          Presiding at meetings<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[49](#49).          Quorum                                                                                              40
+[49](#49).          Quorum<span style="mso-tab-count: 1 dotted">                                                                                              </span>
 
-[50](#50).          Voting at meetings                                                                             40
+[50](#50).          Voting at meetings<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[51](#51).          Conduct of meetings                                                                          41
+[51](#51).          Conduct of meetings<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[52](#52).          Resolutions without meetings                                                           41
+[52](#52).          Resolutions without meetings<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[53](#53).          Minutes                                                                                             41
+[53](#53).          Minutes<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[55](#55).          Persons may be invited to attend meetings                                       41
+[55](#55).          Persons may be invited to attend meetings<span style="mso-tab-count: 1 dotted">                                       </span>
 
-    **Division 7—Annual general meetings**
+    **Division 7—Annual general meetings<span style="mso-tab-count: 1">                                                               </span>**
 
-[56](#56).          Application of Division                                                                     42
+[56](#56).          Application of Division<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[57](#57).          List of levy payers                                                                            42
+[57](#57).          List of levy payers<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[58](#58).          R&amp;D Corporation to convene annual general meetings                     43
+[58](#58).          R&amp;D Corporation to convene annual general meetings<span style="mso-tab-count: 1 dotted">                     </span>
 
-[59](#59).          Notice of the convening of an annual general meeting                       43
+[59](#59).          Notice of the convening of an annual general meeting<span style="mso-tab-count: 1 dotted">                       </span>
 
-[60](#60).          Purpose of annual general meeting                                                     43
+[60](#60).          Purpose of annual general meeting<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[61](#61).          Regulations may provide for certain matters                                     44
+[61](#61).          Regulations may provide for certain matters<span style="mso-tab-count: 1 dotted">                                     </span>
 
-[62](#62).          Conduct of annual general meetings                                                   45
+[62](#62).          Conduct of annual general meetings<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[63](#63).          Motions of no confidence                                                                  45
+[63](#63).          Motions of no confidence<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[64](#64).          Notification of motions passed                                                         46
+[64](#64).          Notification of motions passed<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-    **Division 8—Provisions relating to directors other than Executive Directors**
+    **Division 8—Provisions relating to directors other than Executive Directors<span style="mso-tab-count: 1">   </span>**
 
-[65](#65).          Definition                                                                                           47
+[65](#65).          Definition<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[66](#66).          Term of office                                                                                    47
+[66](#66).          Term of office<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[67](#67).          Directors hold office on part-time basis                                            47
+[67](#67).          Directors hold office on part-time basis<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[68](#68).          Remuneration and allowances of directors                                        47
+[68](#68).          Remuneration and allowances of directors<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[69](#69).          Terms and conditions of appointment not provided for by Act       48
+[69](#69).          Terms and conditions of appointment not provided for by Act<span style="mso-tab-count: 1 dotted">       </span>
 
-[70](#70).          Outside employment                                                                         48
+[70](#70).          Outside employment<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[71](#71).          Leave of absence                                                                                48
+[71](#71).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[72](#72).          Resignation                                                                                        48
+[72](#72).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[73](#73).          Termination of appointment                                                             48
+[73](#73).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[74](#74).          Deputy Chairperson                                                                          49
+[74](#74).          Deputy Chairperson<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-    **Division 9—Executive Director**
+    **Division 9—Executive Director<span style="mso-tab-count: 1">                                                                            </span>**
 
-[75](#75).          Executive Director                                                                             51
+[75](#75).          Executive Director<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[76](#76).          Duties                                                                                                51
+[76](#76).          Duties<span style="mso-tab-count: 1 dotted">                                                                                                </span>
 
-[77](#77).          Appointment                                                                                     51
+[77](#77).          Appointment<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[78](#78).          Term of appointment etc                                                                   51
+[78](#78).          Term of appointment etc <span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[79](#79).          Executive Director holds office on full-time or part-time basis         52
+[79](#79).          Executive Director holds office on full-time or part-time basis<span style="mso-tab-count: 1 dotted">         </span>
 
-[80](#80).          Executive Director not to engage in other paid employment             52
+[80](#80).          Executive Director not to engage in other paid employment<span style="mso-tab-count: 1 dotted">             </span>
 
-[81](#81).          Terms and conditions of appointment                                              52
+[81](#81).          Terms and conditions of appointment<span style="mso-tab-count: 1 dotted">                                              </span>
 
-[82](#82).          Leave of absence                                                                                52
+[82](#82).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[83](#83).          Resignation                                                                                        52
+[83](#83).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[84](#84).          Disclosure of interests                                                                       53
+[84](#84).          Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[85](#85).          Acting Executive Director                                                                  53
+[85](#85).          Acting Executive Director<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[86](#86).          Exclusion of Executive Director etc  from certain deliberations        53
+[86](#86).          Exclusion of Executive Director etc  from certain deliberations<span style="mso-tab-count: 1 dotted">        </span>
 
-    **Division 10—Employees and consultants**
+    **Division 10—Employees and consultants<span style="mso-tab-count: 1">                                                        </span>**
 
-[87](#87).          Employees                                                                                         55
+[87](#87).          Employees<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[88](#88).          Consultants                                                                                        55
+[88](#88).          Consultants<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-    **Division 11—Miscellaneous**
+    **Division 11—Miscellaneous<span style="mso-tab-count: 1">                                                                                   </span>**
 
-[89](#89).          Committees                                                                                        56
+[89](#89).          Committees<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[90](#90).          Delegation by R&amp;D Corporation                                                      56
+[90](#90).          Delegation by R&amp;D Corporation<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[91](#91).          Delegation by Executive Director                                                      57
+[91](#91).          Delegation by Executive Director<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-**Part 3—Research and Development Councils and Research and Development Funds** 
+**Part 3—Research and Development Councils and Research and Development Funds<span style="mso-tab-count: 1">    </span>** 
 
-    **Division 1—Establishment, functions and powers of Research and Development Councils**
+    **Division 1—Establishment, functions and powers of Research and Development Councils<span style="mso-tab-count: 1">     </span>**
 
-[92](#92).          Establishment                                                                                    58
+[92](#92).          Establishment<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[93](#93).          Functions                                                                                           58
+[93](#93).          Functions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[94](#94).          Powers                                                                                               59
+[94](#94).          Powers<span style="mso-tab-count: 1 dotted">                                                                                               </span>
 
-[95](#95).          Consultations with persons and organisations                                  59
+[95](#95).          Consultations with persons and organisations<span style="mso-tab-count: 1 dotted">                                  </span>
 
-[96](#96).          Additional functions of the RIR&amp;D Corporation                             59
+[96](#96).          Additional functions of the RIR&amp;D Corporation<span style="mso-tab-count: 1 dotted">                             </span>
 
-    **Division 2—Constitution and meetings of R&amp;D Councils**
+    **Division 2—Constitution and meetings of R&amp;D Councils<span style="mso-tab-count: 1">                     </span>**
 
-[97](#97).          Constitution of R&amp;D Councils                                                          61
+[97](#97).          Constitution of R&amp;D Councils<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[98](#98).          Appointment of members                                                                 61
+[98](#98).          Appointment of members<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[99](#99).          Members of executive of representative organisation not eligible for appointment etc          61
+[99](#99).          Members of executive of representative organisation not eligible for appointment etc <span style="mso-tab-count: 1">         </span>
 
-[100](#100).        Applied provisions                                                                            62
+[100](#100).        Applied provisions<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-    **Division 3—R&amp;D plans and annual operational plans**
+    **Division 3—R&amp;D plans and annual operational plans<span style="mso-tab-count: 1">                              </span>**
 
-[101](#101).        R&amp;D plans                                                                                         63
+[101](#101).        R&amp;D plans<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[102](#102).        Annual operational plans                                                                   63
+[102](#102).        Annual operational plans<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[103](#103).        Approval etc  of annual operational plans                                        64
+[103](#103).        Approval etc  of annual operational plans<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[104](#104).        Compliance with R&amp;D plans and annual operational plans              65
+[104](#104).        Compliance with R&amp;D plans and annual operational plans<span style="mso-tab-count: 1 dotted">              </span>
 
-    **Division 4—Accountability**
+    **Division 4—Accountability<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[105](#105).        Annual report                                                                                    66
+[105](#105).        Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[106](#106).        Accountability to representative organisations                                 67
+[106](#106).        Accountability to representative organisations<span style="mso-tab-count: 1 dotted">                                 </span>
 
-    **Division 5—Research and Development Funds**
+    **Division 5—Research and Development Funds<span style="mso-tab-count: 1">                                          </span>**
 
-[107](#107).        Establishment of Research and Development Funds                        69
+[107](#107).        Establishment of Research and Development Funds<span style="mso-tab-count: 1 dotted">                        </span>
 
-[108](#108).        Money to be paid into R&amp;D Funds                                                  69
+[108](#108).        Money to be paid into R&amp;D Funds<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[109](#109).        Government matching payments not to exceed levy payments        70
+[109](#109).        Government matching payments not to exceed levy payments<span style="mso-tab-count: 1 dotted">        </span>
 
-[110](#110).        Commonwealth’s matching payments not to exceed certain proportion of production         70
+[110](#110).        Commonwealth’s matching payments not to exceed certain proportion of production<span style="mso-tab-count: 1">         </span>
 
-[111](#111).        Additional money payable into R&amp;D Funds                                    70
+[111](#111).        Additional money payable into R&amp;D Funds<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[112](#112).        Expenditure of money in R&amp;D Funds                                               71
+[112](#112).        Expenditure of money in R&amp;D Funds<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[113](#113).        Commonwealth to be paid levy expenses from R&amp;D Funds            72
+[113](#113).        Commonwealth to be paid levy expenses from R&amp;D Funds<span style="mso-tab-count: 1 dotted">            </span>
 
-[114](#114).        Commonwealth to be reimbursed for refunds of levy                       72
+[114](#114).        Commonwealth to be reimbursed for refunds of levy<span style="mso-tab-count: 1 dotted">                       </span>
 
-[115](#115).        Transfers of money where levies redirected                                      73
+[115](#115).        Transfers of money where levies redirected<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[116](#116).        Payment of amounts of levy where levies redirected                        74
+[116](#116).        Payment of amounts of levy where levies redirected<span style="mso-tab-count: 1 dotted">                        </span>
 
-[117](#117).        Payment of matching contributions where levies redirected             74
+[117](#117).        Payment of matching contributions where levies redirected<span style="mso-tab-count: 1 dotted">             </span>
 
-[118](#118).        Treatment of amounts received, after levies redirected, as a result of earlier expenditure       75
+[118](#118).        Treatment of amounts received, after levies redirected, as a result of earlier expenditure<span style="mso-tab-count: 1">       </span>
 
-    **Division 6—Employees, consultants and administrative agreements**
+    **Division 6—Employees, consultants and administrative agreements<span style="mso-tab-count: 1"> </span>**
 
-[119](#119).        Employees                                                                                         77
+[119](#119).        Employees<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[120](#120).        Consultants                                                                                        77
+[120](#120).        Consultants<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[121](#121).        Administrative agreements                                                                77
+[121](#121).        Administrative agreements<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-**Part 4—Selection Committees** 
+**Part 4—Selection Committees<span style="mso-tab-count: 1">                                                                                       </span>** 
 
-    **Division 1—Establishment etc. of Selection Committees**
+    **Division 1—Establishment etc. of Selection Committees<span style="mso-tab-count: 1">                      </span>**
 
-[122](#122).        Presiding Members of Selection Committees                                    78
+[122](#122).        Presiding Members of Selection Committees<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[123](#123).        Minister may request the establishment of a Selection Committee  78
+[123](#123).        Minister may request the establishment of a Selection Committee<span style="mso-tab-count: 1 dotted">  </span>
 
-[124](#124).        Establishment of Selection Committees—R&amp;D Corporations         79
+[124](#124).        Establishment of Selection Committees—R&amp;D Corporations<span style="mso-tab-count: 1 dotted">         </span>
 
-[125](#125).        Establishment of Selection Committees—predominantly Commonwealth funded R&amp;D Corporations 80
+[125](#125).        Establishment of Selection Committees—predominantly Commonwealth funded R&amp;D Corporations<span style="mso-tab-count: 1"> </span>
 
-[126](#126).        Establishment of Selection Committees—R&amp;D Councils                 82
+[126](#126).        Establishment of Selection Committees—R&amp;D Councils<span style="mso-tab-count: 1 dotted">                 </span>
 
-[127](#127).        Function of Selection Committees                                                     83
+[127](#127).        Function of Selection Committees<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[128](#128).        Powers of Selection Committees                                                       83
+[128](#128).        Powers of Selection Committees<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[129](#129).        Presiding Member to abolish Selection Committee                           83
+[129](#129).        Presiding Member to abolish Selection Committee<span style="mso-tab-count: 1 dotted">                           </span>
 
-    **Division 2—The selection process**
+    **Division 2—The selection process<span style="mso-tab-count: 1">                                                                     </span>**
 
-[130](#130).        Nominations to be made by Selection Committees                           85
+[130](#130).        Nominations to be made by Selection Committees<span style="mso-tab-count: 1 dotted">                           </span>
 
-[131](#131).        Selecting persons for nomination                                                       85
+[131](#131).        Selecting persons for nomination<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[132](#132).        Selection Committee to make only one nomination                          86
+[132](#132).        Selection Committee to make only one nomination<span style="mso-tab-count: 1 dotted">                          </span>
 
-[133](#133).        Minister may request further information                                         87
+[133](#133).        Minister may request further information<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[134](#134).        Minister may reject nomination                                                        87
+[134](#134).        Minister may reject nomination<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-    **Division 3—Preliminary selection arrangements**
+    **Division 3—Preliminary selection arrangements<span style="mso-tab-count: 1">                                        </span>**
 
-[135](#135).        Selection arrangements for proposed R&amp;D Corporations                 88
+[135](#135).        Selection arrangements for proposed R&amp;D Corporations<span style="mso-tab-count: 1 dotted">                 </span>
 
-[136](#136).        Selection arrangements for the RIR&amp;D Corporation before its establishment        89
+[136](#136).        Selection arrangements for the RIR&amp;D Corporation before its establishment<span style="mso-tab-count: 1">        </span>
 
-[137](#137).        Selection arrangements for proposed R&amp;D Councils                        90
+[137](#137).        Selection arrangements for proposed R&amp;D Councils<span style="mso-tab-count: 1 dotted">                        </span>
 
-    **Division 4—Other provisions relating to Selection Committees**
+    **Division 4—Other provisions relating to Selection Committees<span style="mso-tab-count: 1">       </span>**
 
-[138](#138).        Applied provisions and disclosure of interest provisions                 92
+[138](#138).        Applied provisions and disclosure of interest provisions<span style="mso-tab-count: 1 dotted">                 </span>
 
-[139](#139).        Employees                                                                                         93
+[139](#139).        Employees<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[140](#140).        Consultants                                                                                        93
+[140](#140).        Consultants<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[141](#141).        Annual reports of Selection Committees                                           94
+[141](#141).        Annual reports of Selection Committees<span style="mso-tab-count: 1 dotted">                                           </span>
 
-**Part 5—Miscellaneous**
+**Part 5—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[142](#142).        Co-ordination meetings                                                                      95
+[142](#142).        Co-ordination meetings<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[143](#143).        Minister may give directions                                                             95
+[143](#143).        Minister may give directions<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[144](#144).        Transfer of assets etc  on the establishment of an R&amp;D Corporation or R&amp;D Council         96
+[144](#144).        Transfer of assets etc  on the establishment of an R&amp;D Corporation or R&amp;D Council<span style="mso-tab-count: 1">         </span>
 
-[145](#145).        Transfer of assets etc  on cessation of an R&amp;D Corporation or R&amp;D Council       96
+[145](#145).        Transfer of assets etc  on cessation of an R&amp;D Corporation or R&amp;D Council<span style="mso-tab-count: 1">       </span>
 
-[146](#146).        Alteration of agreements and instruments on establishment of an R&amp;D Corporation or R&amp;D Council 97
+[146](#146).        Alteration of agreements and instruments on establishment of an R&amp;D Corporation or R&amp;D Council<span style="mso-tab-count: 1"> </span>
 
-[147](#147).        Alteration of agreements and instruments on cessation of an R&amp;D Corporation or R&amp;D Council        98
+[147](#147).        Alteration of agreements and instruments on cessation of an R&amp;D Corporation or R&amp;D Council<span style="mso-tab-count: 1">        </span>
 
-[148](#148).        Renaming of R&amp;D Corporations and R&amp;D Councils                        99
+[148](#148).        Renaming of R&amp;D Corporations and R&amp;D Councils<span style="mso-tab-count: 1 dotted">                      </span>
 
-[149](#149).        Regulations                                                                                        99
+[149](#149).        Regulations<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[150](#150).        Orders                                                                                              100
+[150](#150).        Orders<span style="mso-tab-count: 1 dotted">                                                                                              </span>
 
-**Part 6—Transitional provisions and consequential amendments**
+**Part 6—Transitional provisions and consequential amendments<span style="mso-tab-count: 1">            </span>**
 
-[151](#151).        Transitional—Research Funds under the _Rural Industries Research Act 1985_       101
+[151](#151).        Transitional—Research Funds under the _Rural Industries Research Act 1985_<span style="mso-tab-count: 1">       </span>
 
-[152](#152).        Transitional—Research Councils and State Research Committees under the _Rural Industries Research Act 1985_                                                                                                         104
+[152](#152).        Transitional—Research Councils and State Research Committees under the _Rural Industries Research Act 1985_<span style="mso-tab-count: 1 dotted">                                                                                                         </span>
 
-[153](#153).        Transitional—Coal Research Trust Account                                  105
+[153](#153).        Transitional—Coal Research Trust Account<span style="mso-tab-count: 1 dotted">                                  </span>
 
-[154](#154).        Other Trust Accounts                                                                     106
+[154](#154).        Other Trust Accounts<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[155](#155).        Closure of Trust Accounts etc                                                        107
+[155](#155).        Closure of Trust Accounts etc <span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[156](#156).        Abolition of Special Research Council and Special Research Fund 107
+[156](#156).        Abolition of Special Research Council and Special Research Fund<span style="mso-tab-count: 1 dotted"> </span>
 
-[157](#157).        Amendments of other Acts                                                             108
+[157](#157).        Amendments of other Acts<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-**Schedule 1—Abolition of Special Research Council and Special Research Fund** 
+**Schedule 1—Abolition of Special Research Council and Special Research Fund<span style="mso-tab-count: 1"> </span>** 
 
-**Part 1—Amendments of the Rural Industries Research Act 1985** 
+**Part 1—Amendments of the Rural Industries Research Act 1985<span style="mso-tab-count: 1">         </span>** 
 
-**Part 2—Amendments of other Acts** 
+**Part 2—Amendments of other Acts<span style="mso-tab-count: 1">                                                                          </span>** 
 
-**Schedule 2—Amendments of other Acts** 
+**Schedule 2—Amendments of other Acts<span style="mso-tab-count: 1">                                                               </span>** 
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                          </span>** 
+
 
 ## An Act to provide for the undertaking of research and development relating to primary industries, energy and natural resources, and for related purposes
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Primary Industries and Energy Research and Development Act 1989_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
 
-             (1)  Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+             (1)  Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-             (2)  Section 9, subsections 26(2), 31(2), 36(2) and 39(2), Part 3, section 156 and Schedule 1 commence on 1 July 1990.
+             (2)  Section 9, subsections 26(2), 31(2), 36(2) and 39(2), Part 3, section 156 and Schedule 1 commence on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="1" month="7">1 July 1990</st1:date>.
 
 ##### <a id="3"></a>3  Objects
 
@@ -430,13 +432,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="annual-gener-meet"></a>**_annual general meeting_**, in relation to an R&amp;D Corporation, means an annual general meeting that the Corporation is required to convene under section 58.
+                    <a name="annual-gener-meet"></a>**_annual general meeting_**, in relation to an R&amp;D Corporation, means an annual general meeting that the Corporation is required to convene under section 58.
 
                     <a name="annual-oper-plan"></a>**_annual operational plan_** means:
 
-                     (a)  an annual operational plan of an R&amp;D Corporation in force under Division 3 of Part 2; or
+                     (a)  an annual operational plan of an R&amp;D Corporation in force under Division 3 of Part 2; or
 
-                     (b)  an annual operational plan of an R&amp;D Council in force under Division 3 of Part 3.
+                     (b)  an annual operational plan of an R&amp;D Council in force under Division 3 of Part 3.
 
                     <a name="borrow"></a>**_borrowing_** includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of an R&amp;D Corporation.
 
@@ -464,9 +466,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 of the Corporation.
 
-                    <a name="elig-levi-payer"></a>**_eligible levy payer_**, in relation to an R&amp;D Corporation, means a person (within the meaning of section 57) who is included in a list of levy payers prepared by the Corporation under section 57.
+                    <a name="elig-levi-payer"></a>**_eligible levy payer_**, in relation to an R&amp;D Corporation, means a person (within the meaning of section 57) who is included in a list of levy payers prepared by the Corporation under section 57.
 
-                    <a name="execut-director"></a>**_Executive Director_**, in relation to an R&amp;D Corporation, means the Executive Director of the Corporation appointed under Division 9 of Part 2.
+                    <a name="execut-director"></a>**_Executive Director_**, in relation to an R&amp;D Corporation, means the Executive Director of the Corporation appointed under Division 9 of Part 2.
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
@@ -482,7 +484,7 @@ of the Corporation.
 
                      (c)  an import charge.
 
-                    <a name="list-levi-payer"></a>**_list of levy payers_**, in relation to an R&amp;D Corporation, means a list prepared by the Corporation under section 57 for a particular financial year.
+                    <a name="list-levi-payer"></a>**_list of levy payers_**, in relation to an R&amp;D Corporation, means a list prepared by the Corporation under section 57 for a particular financial year.
 
                     <a name="member"></a>**_member_** means:
 
@@ -500,15 +502,15 @@ of the Corporation.
 
                     <a name="nomin-member"></a>**_nominated member_** means a member of an R&amp;D Council other than the Chairperson or government member of the Council.
 
-                    <a name="order"></a>**_order_** means an order made under section 150.
+                    <a name="order"></a>**_order_** means an order made under section 150.
 
                     <a name="prescrib"></a>**_prescribed_** includes prescribed by an order.
 
                     <a name="presid-member"></a>**_Presiding Member_** means a person appointed under section 122 as the Presiding Member of Selection Committees for an R&amp;D Corporation and:
 
-                     (a)  in relation to a Selection Committee for an R&amp;D Corporation—means the Presiding Member who established the Selection Committee under section 124 or 125; or
+                     (a)  in relation to a Selection Committee for an R&amp;D Corporation—means the Presiding Member who established the Selection Committee under section 124 or 125; or
 
-                     (b)  in relation to a Selection Committee for an R&amp;D Council—means the Presiding Member who established the Selection Committee under section 126.
+                     (b)  in relation to a Selection Committee for an R&amp;D Council—means the Presiding Member who established the Selection Committee under section 126.
 
                     <a name="primari-industri"></a>**_primary industry_** means any field of endeavour (other than the wool industry) whose objective is:
 
@@ -544,25 +546,25 @@ of the Corporation.
 
                     <a name="corpor"></a>**_R&amp;D Corporation_** means:
 
-                     (a)  a Research and Development Corporation established under section 8; or
+                     (a)  a Research and Development Corporation established under section 8; or
 
-                     (b)  the Rural Industries Research and Development Corporation established under section 9.
+                     (b)  the Rural Industries Research and Development Corporation established under section 9.
 
-                    <a name="council"></a>**_R&amp;D Council_** means a Research and Development Council established under section 92.
+                    <a name="council"></a>**_R&amp;D Council_** means a Research and Development Council established under section 92.
 
-                    <a name="fund"></a>**_R&amp;D Fund_** means a Research and Development Fund established under section 107.
+                    <a name="fund"></a>**_R&amp;D Fund_** means a Research and Development Fund established under section 107.
 
                     <a name="plan"></a>**_R&amp;D plan_** means:
 
-                     (a)  an R&amp;D plan of an R&amp;D Corporation in force under Division 3 of Part 2; or
+                     (a)  an R&amp;D plan of an R&amp;D Corporation in force under Division 3 of Part 2; or
 
-                     (b)  an R&amp;D plan of an R&amp;D Council in force under Division 3 of Part 3.
+                     (b)  an R&amp;D plan of an R&amp;D Council in force under Division 3 of Part 3.
 
                     <a name="project"></a>**_R&amp;D project_**, in relation to a primary industry or class of primary industries, means a project for research and development in respect of that industry or class.
 
                     <a name="refund"></a>**_refund_**, in relation to a levy, means the amount of refund required to be paid by the Commonwealth in respect of an amount:
 
-                     (a)  paid to an R&amp;D Corporation under paragraph 30(1)(a) or 30A(1)(a); or
+                     (a)  paid to an R&amp;D Corporation under paragraph 30(1)(a) or 30A(1)(a); or
 
                      (b)  paid into an R&amp;D Fund under paragraph 108(1)(a);
 
@@ -572,9 +574,9 @@ in respect of the levy.
 
                     <a name="repres-organis"></a>**_representative organisation_** means:
 
-                     (a)  in relation to an R&amp;D Corporation, an organisation declared under section 7 to be a representative organisation in relation to the Corporation; and
+                     (a)  in relation to an R&amp;D Corporation, an organisation declared under section 7 to be a representative organisation in relation to the Corporation; and
 
-                     (b)  in relation to an R&amp;D Council, an organisation declared under section 7 to be a representative organisation in relation to the Council.
+                     (b)  in relation to an R&amp;D Council, an organisation declared under section 7 to be a representative organisation in relation to the Council.
 
                     <a name="research-develop"></a>**_research and development_**, in relation to a primary industry or class of primary industries, means systematic experimentation and analysis in any field of science, technology or economics (including the study of the social or environmental consequences of the adoption of new technology) carried out with the object of:
 
@@ -584,9 +586,9 @@ in respect of the levy.
 
                     <a name="research-compon"></a>**_research component_** means:
 
-                    (aa)  in relation to the levy imposed by Schedule 25 to the _Primary Industries (Excise) Levies Act 1999_—the whole of the levy; and
+                    (aa)  in relation to the levy imposed by Schedule 25 to the _Primary Industries (Excise) Levies Act 1999_—the whole of the levy; and
 
-                     (a)  in relation to the levy imposed by the repealed _Wheat Levy Act 1989_ during a season (within the meaning of the _Wheat Marketing Act 1989_) that began before 1 July 1999—the proportion of the levy referred to in subsection 5(5); and
+                     (a)  in relation to the levy imposed by the repealed _Wheat Levy Act 1989_ during a season (within the meaning of the _Wheat Marketing Act 1989_) that began before 1 July 1999—the proportion of the levy referred to in subsection 5(5); and
 
                      (b)  in relation to any other levy—so much of the levy as the regulations declare to be the research component of the levy under paragraph 5(3)(a).
 
@@ -594,19 +596,21 @@ in respect of the levy.
 
                     <a name="research-fund"></a>**_Research Fund_** has the same meaning as in the _Rural Industries Research Act 1985_.
 
-                    <a name="rir-corpor"></a>**_RIR&amp;D Corporation_** means the Rural Industries Research and Development Corporation established under section 9.
+                    <a name="rir-corpor"></a>**_RIR&amp;D Corporation_** means the Rural Industries Research and Development Corporation established under section 9.
 
                     <a name="select-committe"></a>**_Selection Committee_** means:
 
-                     (a)  a Selection Committee for an R&amp;D Corporation established under section 124 or 125; or
+                     (a)  a Selection Committee for an R&amp;D Corporation established under section 124 or 125; or
 
-                     (b)  a Selection Committee for an R&amp;D Council established under section 126.
+                     (b)  a Selection Committee for an R&amp;D Council established under section 126.
 
-                    <a name="special-research-fund"></a>**_Special Research Fund_** means the Australian Special Research Fund that was, prior to the commencement of section 156, established under section 32 of the _Rural Industries Research Act 1985_.
+                    <a name="special-research-fund"></a>**_Special Research Fund_** means the Australian Special Research Fund that was, prior to the commencement of section 156, established under section 32 of the _Rural Industries Research Act 1985_.
 
                     <a name="state-research-committe"></a>**_State Research Committee_** has the same meaning as in the _Rural Industries Research Act 1985_.
 
                     <a name="act"></a>**_this Act_** includes the regulations.
+
+                    <a name="tobacco-levi"></a>**_tobacco levy_** means a charge imposed by the _Tobacco Charge Act (No. 1) 1955_, the _Tobacco Charge Act (No. 2) 1955_ or the _Tobacco Charge Act (No. 3) 1955_.
 
              (2)  A reference in this Act to expenses incurred by a Selection Committee includes a reference to the remuneration and allowances payable to the Presiding Member and other members of the Selection Committee and persons employed or engaged by the Selection Committee.
 
@@ -618,15 +622,15 @@ in respect of the levy.
 
                      (a)  been declared by the regulations to be attached to the Corporation or the Fund, as the case may be; and
 
-                     (b)  not ceased, because of section 6, to be attached to the Corporation or the Fund, as the case may be.
+                     (b)  not ceased, because of section 6, to be attached to the Corporation or the Fund, as the case may be.
 
              (2)  For the purposes of this Act, a class of levies is attached to an R&amp;D Corporation or an R&amp;D Fund if, and only if, the class:
 
                      (a)  has been declared by the regulations to be attached to the Corporation or the Fund, as the case may be; and
 
-                     (b)  has not ceased, because of section 6, to be attached to the Corporation or the Fund, as the case may be.
+                     (b)  has not ceased, because of section 6, to be attached to the Corporation or the Fund, as the case may be.
 
-             (3)  Subject to subsection (4), where a levy or class of levies is declared by the regulations to be so attached, the regulations must declare:
+             (3)  Subject to subsection (4), where a levy or class of levies is declared by the regulations to be so attached, the regulations must declare:
 
                      (a)  the whole or a specified proportion of the levy, or of each levy included in the class, as the case may be, to be the research component of the levy; and
 
@@ -636,11 +640,11 @@ in respect of the levy.
 
                              (ii)  if the levy is attached to an R&amp;D Fund—in respect of which is established the R&amp;D Council in respect of which the Fund is established.
 
-             (4)  Paragraph (3)(a) does not apply to the levy imposed by the repealed _Wheat Levy Act 1989_ during a season that began before 1 July 1999.
+             (4)  Paragraph (3)(a) does not apply to the levy imposed by the repealed _Wheat Levy Act 1989_ during a season that began before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date>.
 
-             (5)  If the levy imposed by the repealed _Wheat Levy Act 1989_ during a season that began before 1 July 1999  is declared by the regulations to be attached to an R&amp;D Corporation or an R&amp;D Fund, the research component of the levy, in relation to each season, is the proportion of the levy that represents the percentage of the value of leviable wheat on which levy is imposed during that season determined by the Grains Council under subsection 85(3) of the _Wheat Marketing Act 1989_.
+             (5)  If the levy imposed by the repealed _Wheat Levy Act 1989_ during a season that began before 1 July 1999  is declared by the regulations to be attached to an R&amp;D Corporation or an R&amp;D Fund, the research component of the levy, in relation to each season, is the proportion of the levy that represents the percentage of the value of leviable wheat on which levy is imposed during that season determined by the Grains Council under subsection 85(3) of the _Wheat Marketing Act 1989_.
 
-             (6)  In subsection (5), the expressions **_Grains Council_**, **_leviable wheat_** and **_season_** have the same meaning as in Part 7 of the _Wheat Marketing Act 1989_.
+             (6)  In subsection (5), the expressions **_Grains Council_**, **_leviable wheat_** and **_season_** have the same meaning as in Part 7 of the _Wheat Marketing Act 1989_.
 
 ##### <a id="6"></a>6  Redirecting levies
 
@@ -672,13 +676,15 @@ then, for the purposes of this Act, the levy or class:
 
              (1)  The Minister may, by notice published in the _Gazette_, declare one or more specified organisations to be representative organisations in relation to an R&amp;D Corporation or an R&amp;D Council.
 
-             (2)  A declaration may be made in respect of an R&amp;D Corporation or an R&amp;D Council at any time after the making of regulations under section 8 or 92 establishing the Corporation or Council, even if the regulations concerned are not in force at that time.
+             (2)  A declaration may be made in respect of an R&amp;D Corporation or an R&amp;D Council at any time after the making of regulations under section 8 or 92 establishing the Corporation or Council, even if the regulations concerned are not in force at that time.
 
              (3)  The Minister must, in relation to each R&amp;D Corporation and each R&amp;D Council, declare at least one organisation to be a representative organisation.
 
-## Part 2—Research and Development Corporations
+<o:p> </o:p>
 
-### Division 1—Establishment, functions and powers of Research and Development Corporations
+## Part 2—Research and Development Corporations
+
+### Division 1—Establishment, functions and powers of Research and Development Corporations
 
 ##### <a id="8"></a>8  Establishment of Research and Development Corporations
 
@@ -722,11 +728,11 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  to investigate and evaluate the requirements for research and development in relation to the primary industry or class of primary industries in respect of which it was established and, on the basis of such investigation and evaluation:
 
-                              (i)  to prepare an R&amp;D plan under section 19; and
+                              (i)  to prepare an R&amp;D plan under section 19; and
 
                              (ii)  to review and revise the plan; and
 
-                     (b)  to prepare an annual operational plan under section 25 for each financial year; and
+                     (b)  to prepare an annual operational plan under section 25 for each financial year; and
 
                      (c)  to co-ordinate or fund the carrying out of R&amp;D activities that are consistent with the annual operational plan prepared by the Corporation and in force at the time; and
 
@@ -748,9 +754,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (1)  An R&amp;D Corporation has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions and, in particular, may:
 
-                     (a)  enter into agreements under section 13 for the carrying out of R&amp;D activities by other persons; and
+                     (a)  enter into agreements under section 13 for the carrying out of R&amp;D activities by other persons; and
 
-                     (b)  enter into agreements under section 14 for the carrying out of R&amp;D activities by the Corporation and other persons; and
+                     (b)  enter into agreements under section 14 for the carrying out of R&amp;D activities by the Corporation and other persons; and
 
                      (c)  make applications, including joint applications, for patents; and
 
@@ -766,7 +772,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                       (j)  do anything incidental to any of its powers.
 
-##### <a id="13"></a>13  Agreements for carrying out R&amp;D activities by other persons
+##### <a id="13"></a>13<span style="FONT-WEIGHT: normal"><span style="mso-spacerun: yes">  </span></span>Agreements for carrying out R&amp;D activities by other persons
 
              (1)  Without limiting the generality of subsection 12(1), an R&amp;D Corporation may enter into an agreement with a person for the carrying out of R&amp;D activities by the person.
 
@@ -774,7 +780,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  provide for the money provided under the agreement, and any property acquired or goods produced with that money, or with money that includes that money, to be used for the purposes specified in the agreement; and
 
-                     (b)  provide for the payment by the person to the Corporation of an amount equal to the whole, or such part as the Corporation determines, of the money provided under the agreement if any of the money, property or goods referred to in paragraph (a) is or are used for a purpose not specified in the agreement; and
+                     (b)  provide for the payment by the person to the Corporation of an amount equal to the whole, or such part as the Corporation determines, of the money provided under the agreement if any of the money, property or goods referred to in paragraph (a) is or are used for a purpose not specified in the agreement; and
 
                      (c)  make provision with respect to:
 
@@ -788,11 +794,11 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                             being inventions made in the course of undertaking R&amp;D activities or doing anything else with that money or with money that includes that money; and
 
-                     (d)  provide for the payment by the person to the Corporation of an amount equal to the whole, or such part as the Corporation determines, of any net income derived by the person from the money, property or goods referred to in paragraph (a) or patents or interests referred to in paragraph (c); and
+                     (d)  provide for the payment by the person to the Corporation of an amount equal to the whole, or such part as the Corporation determines, of any net income derived by the person from the money, property or goods referred to in paragraph (a) or patents or interests referred to in paragraph (c); and
 
-                     (e)  provide for the assignment by the person to the Corporation of any money, property, goods, patents or interests referred to in paragraph (d); and
+                     (e)  provide for the assignment by the person to the Corporation of any money, property, goods, patents or interests referred to in paragraph (d); and
 
-                      (f)  provide for the payment by the person to the Corporation of an amount of money determined by the Corporation in accordance with the agreement in the event of the disposal (otherwise than to the Corporation) of any property, goods, patents or interests referred to in paragraph (d).
+                      (f)  provide for the payment by the person to the Corporation of an amount of money determined by the Corporation in accordance with the agreement in the event of the disposal (otherwise than to the Corporation) of any property, goods, patents or interests referred to in paragraph (d).
 
 ##### <a id="14"></a>14  Agreements for carrying out R&amp;D activities with other persons
 
@@ -816,13 +822,15 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  Commonwealth, State and Territory authorities concerned with that primary industry or class of primary industries.
 
-             (2)  Arrangements made by an R&amp;D Corporation under subsection (1) may provide for:
+             (2)  Arrangements made by an R&amp;D Corporation under subsection (1) may provide for:
 
                      (a)  the Corporation agreeing to meet travel expenses reasonably incurred by a person in connection with consultations with the Corporation; and
 
                      (b)  subject to written guidelines given to the Corporation by the Minister, the Corporation agreeing to meet expenses (other than travel expenses) reasonably incurred by a representative organisation of the Corporation, or a member of a representative organisation of the Corporation, in connection with consultations with the Corporation.
 
-### Division 2—Constitution of Research and Development Corporations
+<o:p> </o:p>
+
+### Division 2—Constitution of Research and Development Corporations
 
 ##### <a id="16"></a>16  Constitution
 
@@ -844,7 +852,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  The Minister must not appoint a person as the government director of an R&amp;D Corporation unless the Minister is satisfied that the person has experience in, and knowledge of, government policy processes and public administration.
 
-             (3)  The nominated directors of an R&amp;D Corporation are to be appointed from persons nominated by a Selection Committee under Part 4.
+             (3)  The nominated directors of an R&amp;D Corporation are to be appointed from persons nominated by a Selection Committee under Part 4.
 
              (5)  The appointment of a person as a director of an R&amp;D Corporation is not invalid because of a defect or irregularity in connection with the person’s nomination or appointment.
 
@@ -854,11 +862,13 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  A director of an R&amp;D Corporation who becomes a member of the executive of a representative organisation of the Corporation ceases to hold office as a director of the Corporation.
 
-### Division 3—R&amp;D plans and annual operational plans
+<o:p> </o:p>
+
+### Division 3—R&amp;D plans and annual operational plans
 
 ##### <a id="19"></a>19  R&amp;D plans
 
-             (1)  An R&amp;D Corporation must prepare, in written form, an R&amp;D plan for each successive period referred to in subsections (3) and (4).
+             (1)  An R&amp;D Corporation must prepare, in written form, an R&amp;D plan for each successive period referred to in subsections (3) and (4).
 
              (2)  An R&amp;D Corporation’s R&amp;D plan is to include:
 
@@ -870,7 +880,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  if the R&amp;D Corporation is established in the first 9 months of a financial year—that financial year and the 4 subsequent financial years; or
 
-                     (b)  if the R&amp;D Corporation is established in the last 3 months of a financial year—the next financial year and the 4 subsequent financial years.
+                     (b)  if the R&amp;D Corporation is established in the last 3 months of a financial year—the next financial year and the 4 subsequent financial years.
 
              (4)  Each subsequent R&amp;D plan is to be expressed to relate to the period of 5 years commencing at the end of the period to which the immediately preceding R&amp;D plan relates.
 
@@ -878,7 +888,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (1)  An R&amp;D plan is to be submitted to the Minister for approval no later than 2 months, or such shorter period as the Minister, in special circumstances, allows, before the intended day of commencement of the period to which the plan relates.
 
-             (2)  Where the Minister is of the opinion that an R&amp;D Corporation’s R&amp;D plan, submitted under subsection (1) or (3) for his or her approval, should be revised in some respect, the Minister may give to the Corporation a written notice:
+             (2)  Where the Minister is of the opinion that an R&amp;D Corporation’s R&amp;D plan, submitted under subsection (1) or (3) for his or her approval, should be revised in some respect, the Minister may give to the Corporation a written notice:
 
                      (a)  requesting the Corporation to make such a revision; and
 
@@ -892,7 +902,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  submit the plan, as so revised, to the Minister for approval.
 
-             (4)  Where a copy of an R&amp;D plan is submitted to the Minister for approval under subsection (1) or (3), a copy of the plan is at the same time also to be provided to the Presidents (or the holders of the equivalent office) within each of the representative organisations of the Corporation.
+             (4)  Where a copy of an R&amp;D plan is submitted to the Minister for approval under subsection (1) or (3), a copy of the plan is at the same time also to be provided to the Presidents (or the holders of the equivalent office) within each of the representative organisations of the Corporation.
 
              (5)  Where the Minister approves an R&amp;D plan, the Corporation is, no later than one month after the day on which it is approved by the Minister, to notify each of its representative organisations of the Minister’s approval.
 
@@ -908,9 +918,9 @@ whichever is the later.
 
              (1)  An R&amp;D Corporation must:
 
-                     (a)  as soon as practicable after 30 June next following the day on which its R&amp;D plan comes into operation; and
+                     (a)  as soon as practicable after 30 June next following the day on which its R&amp;D plan comes into operation; and
 
-                     (b)  as soon as practicable after each subsequent 30 June occurring before the day of expiration of the plan;
+                     (b)  as soon as practicable after each subsequent 30 June occurring before the day of expiration of the plan;
 
 review the plan and consider whether a variation of it is necessary.
 
@@ -932,7 +942,7 @@ it may vary the plan with the Minister’s approval.
 
                      (b)  such other information as the Minister requests.
 
-             (6)  The Minister may, after considering the request (together with the material (if any) provided under subsection (5)):
+             (6)  The Minister may, after considering the request (together with the material (if any) provided under subsection (5)):
 
                      (a)  approve the requested variation; or
 
@@ -944,9 +954,9 @@ it may vary the plan with the Minister’s approval.
 
 ##### <a id="22"></a>22  Approval for varied R&amp;D plans to run for 4 years from next 1 July
 
-             (1)  Where an R&amp;D Corporation requests the Minister’s approval for a variation of its R&amp;D plan, and that plan is in force, the Corporation may also request the Minister’s approval for the plan as varied to be in force until the end of 4 years beginning on the next 1 July after the day on which the variation takes effect.
+             (1)  Where an R&amp;D Corporation requests the Minister’s approval for a variation of its R&amp;D plan, and that plan is in force, the Corporation may also request the Minister’s approval for the plan as varied to be in force until the end of 4 years beginning on the next 1 July after the day on which the variation takes effect.
 
-             (2)  When making a request under subsection (1), the Corporation must provide the Minister with:
+             (2)  When making a request under subsection (1), the Corporation must provide the Minister with:
 
                      (a)  a statement of its reasons for making the request; and
 
@@ -954,19 +964,19 @@ it may vary the plan with the Minister’s approval.
 
              (3)  Where:
 
-                     (a)  a request is made under subsection (1); and
+                     (a)  a request is made under subsection (1); and
 
                      (b)  the Minister approves a variation of the plan under subsection 21(6); and
 
-                     (c)  the Minister is satisfied that it is appropriate for the request under subsection (1) to be granted;
+                     (c)  the Minister is satisfied that it is appropriate for the request under subsection (1) to be granted;
 
-the Minister may, by notice in writing given to the Corporation, give his or her approval for the plan as varied to be in force until the end of 4 years beginning on the next 1 July after the day on which the variation takes effect.
+the Minister may, by notice in writing given to the Corporation, give his or her approval for the plan as varied to be in force until the end of 4 years beginning on the next 1 July after the day on which the variation takes effect.
 
 ##### <a id="23"></a>23  When variations of R&amp;D plans take effect
 
              (1)  Where the Minister approves a variation of an R&amp;D plan, the variation takes effect on:
 
-                     (a)  if the Minister also gives his or her approval under section 22 for the plan as varied to be in force as mentioned in that section—the day specified by the Minister in giving the approval under that section, or, where no such day is specified, the next 1 July after the day of approval of the variation; or
+                     (a)  if the Minister also gives his or her approval under section 22 for the plan as varied to be in force as mentioned in that section—the day specified by the Minister in giving the approval under that section, or, where no such day is specified, the next 1 July after the day of approval of the variation; or
 
                      (b)  in any other case—the day of approval of the variation.
 
@@ -998,15 +1008,15 @@ the Minister may, by notice in writing given to the Corporation, give his or her
 
                               (i)  the total amounts likely to be spent by the Corporation in respect of each broad grouping of R&amp;D activities the Corporation proposes to fund during the financial year; and
 
-                             (ii)  the total of the amounts likely to be spent by the Corporation under section 33, other than paragraph 33(1)(a), during the financial year; and
+                             (ii)  the total of the amounts likely to be spent by the Corporation under section 33, other than paragraph 33(1)(a), during the financial year; and
 
-                            (iii)  the total of the amounts referred to in subparagraphs (i) and (ii); and
+                            (iii)  the total of the amounts referred to in subparagraphs (i) and (ii); and
 
-                            (iv)  the total of the amounts that are likely to be paid to the Corporation during the financial year (other than the amounts paid under section 30 or 30A).
+                            (iv)  the total of the amounts that are likely to be paid to the Corporation during the financial year (other than the amounts paid under section 30 or 30A).
 
              (3)  A reference in this section to R&amp;D activities that an R&amp;D Corporation proposes to fund includes a reference to R&amp;D activities that the Corporation is prepared, subject to its examination of specific proposals, to fund.
 
-             (4)  If charge imposed on forest products under Schedule 8 to the _Primary Industries (Customs) Charges Act 1999_ or under the repealed _Forest Industries Research Import Charge Act 1993_ is attached as a levy to an R&amp;D Corporation established in respect of forest industries, the R&amp;D Corporation’s annual operational plan must include, in the broad groupings of R&amp;D activities that the R&amp;D Corporation proposes to fund, R&amp;D activities that are relevant to forest products of a kind that are imported.
+             (4)  If charge imposed on forest products under Schedule 8 to the _Primary Industries (Customs) Charges Act 1999_ or under the repealed _Forest Industries Research Import Charge Act 1993_ is attached as a levy to an R&amp;D Corporation established in respect of forest industries, the R&amp;D Corporation’s annual operational plan must include, in the broad groupings of R&amp;D activities that the R&amp;D Corporation proposes to fund, R&amp;D activities that are relevant to forest products of a kind that are imported.
 
 ##### <a id="26"></a>26  Approval of annual operational plans
 
@@ -1014,7 +1024,7 @@ the Minister may, by notice in writing given to the Corporation, give his or her
 
              (2)  An annual operational plan of the RIR&amp;D Corporation is to be submitted to the Minister for approval no later than one month, or such shorter period as the Minister in special circumstances allows, before the intended day of commencement of the period to which the plan relates.
 
-             (3)  Where the Minister is of the opinion that an R&amp;D Corporation’s annual operational plan, submitted under subsection (1), (2) or (4) for his or her approval, is inconsistent with the provisions of an R&amp;D plan of the Corporation, being an R&amp;D plan that relates to a period overlapping with the period of the annual operational plan, the Minister may give to the Corporation his or her written notice:
+             (3)  Where the Minister is of the opinion that an R&amp;D Corporation’s annual operational plan, submitted under subsection (1), (2) or (4) for his or her approval, is inconsistent with the provisions of an R&amp;D plan of the Corporation, being an R&amp;D plan that relates to a period overlapping with the period of the annual operational plan, the Minister may give to the Corporation his or her written notice:
 
                      (a)  requesting the Corporation to revise the annual operational plan; and
 
@@ -1042,17 +1052,17 @@ the Corporation must, when submitting the variation of the R&amp;D plan for appr
 
              (7)  Where:
 
-                     (a)  an annual operational plan is submitted to the Minister for approval under subsection (1), (2) or (4); or
+                     (a)  an annual operational plan is submitted to the Minister for approval under subsection (1), (2) or (4); or
 
-                     (b)  a variation of an annual operational plan is submitted to the Minister for approval under subsection (5) or (6);
+                     (b)  a variation of an annual operational plan is submitted to the Minister for approval under subsection (5) or (6);
 
 a copy of the plan or the variation of the plan (as the case may be) is at the same time also to be provided to the Presidents (or the holders of the equivalent office) within each of the representative organisations of the Corporation.
 
              (8)  Where:
 
-                     (a)  an annual operational plan is submitted to the Minister for approval under subsection (1), (2) or (4); or
+                     (a)  an annual operational plan is submitted to the Minister for approval under subsection (1), (2) or (4); or
 
-                     (b)  a variation of an annual operational plan is submitted to the Minister for approval under subsection (5) or (6);
+                     (b)  a variation of an annual operational plan is submitted to the Minister for approval under subsection (5) or (6);
 
 the Minister must approve the plan or the variation of the plan (as the case may be) unless the Minister is of the opinion that it is inconsistent with the provisions of an R&amp;D plan that relates to a period that overlaps with that of the annual operational plan.
 
@@ -1078,7 +1088,9 @@ whichever is the later.
 
 are consistent with, and designed to give effect to, any R&amp;D plan, and any annual operational plan, prepared by it and in force at the time.
 
-### Division 4—Accountability
+<o:p> </o:p>
+
+### Division 4—Accountability
 
 ##### <a id="28"></a>28  Annual report
 
@@ -1094,7 +1106,7 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                             (iii)  revisions of its R&amp;D plan or annual operational plan approved by the Minister during the period; and
 
-                            (iv)  the entering into of agreements under sections 13 and 14 during the period and its activities during the period in relation to agreements entered into under that section during or prior to the period; and
+                            (iv)  the entering into of agreements under sections 13 and 14 during the period and its activities during the period in relation to agreements entered into under that section during or prior to the period; and
 
                              (v)  its activities during the period in relation to applying for patents for inventions, commercially exploiting patented inventions and granting licences under patented inventions; and
 
@@ -1110,7 +1122,7 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                              (ii)  implemented the annual operational plan applicable to the period; and
 
-                     (c)  an assessment of the extent to which the Corporation has, during the period, contributed to the attainment of the objects of this Act as set out in section 3; and
+                     (c)  an assessment of the extent to which the Corporation has, during the period, contributed to the attainment of the objects of this Act as set out in section 3; and
 
                      (d)  in respect of the grain industry or such other primary industry or class of primary industries as is prescribed in the regulations, particulars of sources and expenditure of funds, including:
 
@@ -1118,13 +1130,13 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                              (ii)  funds derived from transfer of:
 
-                                        (A)  assets, debts, liabilities and obligations under section 144; and
+                                        (A)  assets, debts, liabilities and obligations under section 144; and
 
-                                        (B)  levies attached to Research Funds under the _Rural Industries Research Act 1985_ under section 151 of this Act.
+                                        (B)  levies attached to Research Funds under the _Rural Industries Research Act 1985_ under section 151 of this Act.
 
 ##### <a id="29"></a>29  Accountability to representative organisations
 
-                   The Chairperson of an R&amp;D Corporation (other than an R&amp;D Corporation to which Division 7 applies) must, as soon as practicable after the Corporation’s annual report has been submitted to the Minister, provide copies of the report to each of the Corporation’s representative organisations, and make arrangements with each of those organisations to attend the organisation’s annual conference, or a meeting of the organisation’s executive, for the purpose of enabling:
+                   The Chairperson of an R&amp;D Corporation (other than an R&amp;D Corporation to which Division 7 applies) must, as soon as practicable after the Corporation’s annual report has been submitted to the Minister, provide copies of the report to each of the Corporation’s representative organisations, and make arrangements with each of those organisations to attend the organisation’s annual conference, or a meeting of the organisation’s executive, for the purpose of enabling:
 
                      (a)  the annual report to be considered; and
 
@@ -1138,13 +1150,15 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                                         (A)  commodity, cross commodity and regional classifications; and
 
-                                        (B)  funds derived from transfer of assets, debts, liabilities and obligations under section 144; and
+                                        (B)  funds derived from transfer of assets, debts, liabilities and obligations under section 144; and
 
-                                        (C)  funds derived from the transfer, under section 151 of this Act, of levies attached to Research Funds under the _Rural Industries Research Act 1985_; and
+                                        (C)  funds derived from the transfer, under section 151 of this Act, of levies attached to Research Funds under the _Rural Industries Research Act 1985_; and
 
                      (c)  the Chairperson to be questioned in relation to those activities.
 
-### Division 5—Finance
+<o:p> </o:p>
+
+### Division 5—Finance
 
 ##### <a id="30"></a>30  Payments to R&amp;D Corporation—general
 
@@ -1158,13 +1172,13 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                             (iii)  amounts of penalty for non-payment of that levy, to the extent that the penalty is attributable to the non-payment of the research component of that levy; and
 
-                     (b)  subject to subsection (2) and sections 31 and 32, amounts equal to one-half of the amounts required to be spent by the Corporation under section 33 (other than paragraph 33 (1)(d)).
+                     (b)  subject to subsection (2) and sections 31 and 32, amounts equal to one-half of the amounts required to be spent by the Corporation under section 33 (other than paragraph 33 (1)(d)).
 
-Note:          See also subsection 7(3) of the _Plant Health__Australia__(Plant Industries) Funding Act 2002_, which provides that this Act applies to certain amounts of levy or charge (and related late payment penalty) to which that Act applies.
+Note:          See also subsection 7(3) of the _Plant Health_<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Australia_</st1:place></st1:country-region>_(Plant Industries) Funding Act 2002_, which provides that this Act applies to certain amounts of levy or charge (and related late payment penalty) to which that Act applies.
 
-             (2)  No amounts are payable under paragraph (1)(b) to an R&amp;D Corporation established in respect of the coal industry.
+             (2)  No amounts are payable under paragraph (1)(b) to an R&amp;D Corporation established in respect of the coal industry.
 
-             (3)  Amounts payable under subsection (1), or under section 37 or 38, are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+             (3)  Amounts payable under subsection (1), or under section 37 or 38, are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
              (4)  There are to be paid to an R&amp;D Corporation to which no levy is attached the amounts from time to time appropriated for the purpose by the Parliament.
 
@@ -1182,11 +1196,11 @@ Note:          See also subsection 7(3) of the _Plant Health__
 
                             (iii)  amounts of penalty for non-payment of that levy, to the extent that the penalty is attributable to the non-payment of the research component of that levy; and
 
-                     (b)  amounts worked out under subsection (2).
+                     (b)  amounts worked out under subsection (2).
 
-             (2)  Subject to subsection (2A), the amounts to be paid to the Corporation under paragraph(1)(b), during a particular financial year, are as follows:
+             (2)  Subject to subsection (2A), the amounts to be paid to the Corporation under paragraph(1)(b), during a particular financial year, are as follows:
 
-                     (a)  an amount equal to 0.5% of total GVP for that year or, if the amount spent or required to be spent by the Corporation under section 33 (other than paragraph 33(1)(d)) for that financial year is less than 0.5% of that total GVP, an amount equal to that lesser amount;
+                     (a)  an amount equal to 0.5% of total GVP for that year or, if the amount spent or required to be spent by the Corporation under section 33 (other than paragraph 33(1)(d)) for that financial year is less than 0.5% of that total GVP, an amount equal to that lesser amount;
 
                      (b)  where the amount so spent or required to be spent by the Corporation for that financial year is more than 0.5% of total GVP for that year:
 
@@ -1194,7 +1208,7 @@ Note:          See also subsection 7(3) of the _Plant Health__
 
                              (ii)  if that amount is more than 0.5%, but less than 1%, of that total GVP—half of the amount equal to the percentage of Commonwealth GVP for that year by which the amount so required to be spent was more than 0.5% of that total GVP;
 
-                            reduced by the amount (if any) by which the amount worked out under subparagraph (i) or (ii) (as the case may be) exceeds the total of the amounts paid to the Corporation during the year under subparagraphs (1)(a)(i) and (ii) (less the sum of any refunds in relation to levies attached to the Corporation):
+                            reduced by the amount (if any) by which the amount worked out under subparagraph (i) or (ii) (as the case may be) exceeds the total of the amounts paid to the Corporation during the year under subparagraphs (1)(a)(i) and (ii) (less the sum of any refunds in relation to levies attached to the Corporation):
 
                      (c)  where the amount so spent or required to be spent by the Corporation for that financial year is more than 0.5% of total GVP for that year and a State or Territory has made a payment to the Corporation or to the Commonwealth in respect of research and development in respect of the fishing industry:
 
@@ -1202,11 +1216,11 @@ Note:          See also subsection 7(3) of the _Plant Health__
 
                              (ii)  if that amount is more than 0.5%, but less than 1%, of that total GVP—half of the amount equal to the percentage of that State or Territory GVP for that year by which the amount so required to be spent was more than 0.5% of that total GVP;
 
-                            reduced by the amount (if any) by which the amount worked out under subparagraph (i) or (ii) (as the case may be) exceeds the amount of the payment made by the State or Territory to the Corporation or to the Commonwealth in respect of research and development in respect of the fishing industry.
+                            reduced by the amount (if any) by which the amount worked out under subparagraph (i) or (ii) (as the case may be) exceeds the amount of the payment made by the State or Territory to the Corporation or to the Commonwealth in respect of research and development in respect of the fishing industry.
 
-          (2A)  The amounts to be paid to the Corporation under paragraph (1)(b) during the 1997-98 financial year are the amounts worked out under subsection (2) reduced by $3,612,000.
+          (2A)  The amounts to be paid to the Corporation under paragraph (1)(b) during the 1997-98 financial year are the amounts worked out under subsection (2) reduced by $3,612,000.
 
-             (3)  Amounts payable under subsection (1) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+             (3)  Amounts payable under subsection (1) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
              (4)  In this section:
 
@@ -1226,21 +1240,23 @@ Note:          See also subsection 7(3) of the _Plant Health__
 
                      (b)  the Corporation is not a Corporation declared by the regulations to be an R&amp;D Corporation to which this section does not apply;
 
-the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not to exceed the sum of:
+the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not to exceed the sum of:
 
-                     (c)  the amounts paid to the Corporation under subparagraphs 30(1)(a)(i) and (ii) (less the sum of any refunds in relation to research components of levies attached to the Corporation); and
+                     (c)  the amounts paid to the Corporation under subparagraphs 30(1)(a)(i) and (ii) (less the sum of any refunds in relation to research components of levies attached to the Corporation); and
 
-                     (d)  amounts in relation to which subsection (2) applies.
+                     (d)  amounts in relation to which subsection (2) applies.
 
-             (2)  Where an R&amp;D Corporation is established in respect of the dairy industry, and that Corporation accepts an amount paid to it by way of gift or grant from a co-operative company (as defined by sections 117 and 118 of the _Income Tax Assessment Act 1936_) in the dairy industry, for the purposes of research and development, the Corporation may, subject to the regulations, determine that this subsection applies in relation to the amount.
+             (2)  Where an R&amp;D Corporation is established in respect of the dairy industry, and that Corporation accepts an amount paid to it by way of gift or grant from a co-operative company (as defined by sections 117 and 118 of the _Income Tax Assessment Act 1936_) in the dairy industry, for the purposes of research and development, the Corporation may, subject to the regulations, determine that this subsection applies in relation to the amount.
 
              (3)  This section does not apply in relation to the RIR&amp;D Corporation.
 
 ##### <a id="32"></a>32  Commonwealth’s matching payments not to exceed certain proportion of production
 
-             (1)  If a levy is attached to an R&amp;D Corporation, the sum of the amounts that, during a particular financial year, are paid to the Corporation under paragraph 30(1)(b), in respect of amounts spent by the Corporation under section 33 for R&amp;D activities in respect of the goods that are the produce of the primary industry or class of primary industries to which the levy relates, is not to exceed an amount equal to 0.5% of the amount that the Minister determines to be the gross value of production, for that financial year, of those goods.
+             (1)  Subject to subsection (3), where a levy is attached to an R&amp;D Corporation, the sum of the amounts that, during a particular financial year, are paid to the Corporation under paragraph 30(1)(b), in respect of amounts spent by the Corporation under section 33 for R&amp;D activities in respect of the goods that are the produce of the primary industry or class of primary industries to which the levy relates, is not to exceed an amount equal to 0.5% of the amount that the Minister determines to be the gross value of production, for that financial year, of those goods.
 
              (2)  The regulations may provide for the manner in which the Minister is to determine the amount of the gross value of production of goods for a financial year.
+
+             (3)  Where tobacco levies are attached to an R&amp;D Corporation, the sum of the amounts that, during a particular financial year beginning at any time before 1 July 1991, are paid to the Corporation under paragraph 30(1)(b), in respect of amounts spent by the Corporation under section 33 for R&amp;D activities in respect of tobacco leaf to which the levies relate, is not to exceed an amount equal to 3.5 cents per kilogram for the tobacco leaf in respect of which those levies are imposed in that financial year.
 
 ##### <a id="33"></a>33  Expenditure of money of R&amp;D Corporations
 
@@ -1252,15 +1268,15 @@ the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not t
 
                      (c)  in payment of remuneration and allowances payable:
 
-                              (i)  under sections 68 and 81 to the Corporation’s directors; or
+                              (i)  under sections 68 and 81 to the Corporation’s directors; or
 
-                             (ii)  under section 89 to members of committees established by the Corporation under that section; and
+                             (ii)  under section 89 to members of committees established by the Corporation under that section; and
 
-                     (d)  in payment to the Commonwealth of amounts payable under section 34; and
+                     (d)  in payment to the Commonwealth of amounts payable under section 34; and
 
                     (da)  in payment to the Commonwealth of amounts payable under subsection 18(3) of the _Primary Industries Levies and Charges Collection Act 1991_; and
 
-                    (db)  if the Corporation is established in respect of forest industries—in payment of amounts for which the R&amp;D Corporation is liable under subsections 10(8) and 11(9) of the _Primary Industries Levies and Charges Collection Act 1991_; and
+                    (db)  if the Corporation is established in respect of forest industries—in payment of amounts for which the R&amp;D Corporation is liable under subsections 10(8) and 11(9) of the _Primary Industries Levies and Charges Collection Act 1991_; and
 
                      (e)  in payment of amounts in respect of expenses (including the payment of remuneration and allowances) incurred by a Selection Committee in performing its function, and exercising its powers, in relation to the selection of directors for appointment to the Corporation; and
 
@@ -1270,11 +1286,11 @@ the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not t
 
 ##### <a id="33A"></a>33A  Expenditure of money by an R&amp;D Corporation established in respect of forest industries 
 
-                   If charge under Schedule 8 to the _Primary Industries (Customs) Charges Act 1999_ or under the repealed _Forest__Industries Research Import Charge Act 1993_ is attached to an R&amp;D Corporation established in respect of forest industries:
+                   If charge under Schedule 8 to the _Primary Industries (Customs) Charges Act 1999_ or under the repealed <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Forest_</st1:place>_Industries Research Import Charge Act 1993_ is attached to an R&amp;D Corporation established in respect of forest industries:
 
                      (a)  the proportion of the research component of the charge that is spent on R&amp;D activities must be spent on R&amp;D activities that are relevant to forest products of the kind on which charge under that Act is imposed; and
 
-                     (b)  the proportion referred to in paragraph (a) must be not less than the proportion of the total amounts of all the research components of levies attached to the Corporation and spent by the Corporation on R&amp;D activities.
+                     (b)  the proportion referred to in paragraph (a) must be not less than the proportion of the total amounts of all the research components of levies attached to the Corporation and spent by the Corporation on R&amp;D activities.
 
 ##### <a id="34"></a>34  Commonwealth to be paid levy expenses from R&amp;D Corporations
 
@@ -1284,7 +1300,7 @@ the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not t
 
                      (b)  the administration of paragraph 30(1)(a) or 30A(1)(a) in respect of that levy.
 
-##### <a id="35"></a>35  Commonwealth to be reimbursed for refunds of levy [_see_ Note 2]
+##### <a id="35"></a>35  Commonwealth to be reimbursed for refunds of levy <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 2]</span><o:p></o:p>
 
                    Where a levy is attached to an R&amp;D Corporation, the Corporation must pay to the Commonwealth amounts equal to the amounts of any refunds paid by the Commonwealth in respect of amounts of levy of the kind referred to in paragraph 30(1)(a).
 
@@ -1330,13 +1346,13 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (b)  immediately before becoming so attached, the levy was attached to another R&amp;D Corporation (in this section called the **_other Corporation_**) or to an R&amp;D Fund; and
 
-                     (c)  while the levy was attached to the other Corporation, or to the R&amp;D Fund, the Commonwealth was obliged to pay money to the other Corporation under paragraph 30(1)(a) or 30A(1)(a) or into the Fund under paragraph 108(1)(a); and
+                     (c)  while the levy was attached to the other Corporation, or to the R&amp;D Fund, the Commonwealth was obliged to pay money to the other Corporation under paragraph 30(1)(a) or 30A(1)(a) or into the Fund under paragraph 108(1)(a); and
 
                      (d)  the Commonwealth had not so paid the money before the levy became attached to the first-mentioned Corporation;
 
 then:
 
-                     (e)  the Commonwealth must pay the money to the first mentioned Corporation; and
+                     (e)  the Commonwealth must pay the money to the first mentioned Corporation; and
 
                       (f)  notwithstanding paragraph 30(1)(a), 30A(1)(a) or 108(1)(a), as the case may be, the Commonwealth ceases, from the time the levy becomes so attached, to be obliged to pay the money to the other Corporation, or into the Fund, as the case may be.
 
@@ -1348,7 +1364,7 @@ then:
 
                      (b)  immediately before becoming so attached, the levy was attached to another R&amp;D Corporation (in this section called the **_other Corporation_**) or to an R&amp;D Fund; and
 
-                     (c)  while the levy was attached to the other Corporation, or to the R&amp;D Fund, the other Corporation spent money under section 33, or money in the Fund was spent under section 112, in connection with:
+                     (c)  while the levy was attached to the other Corporation, or to the R&amp;D Fund, the other Corporation spent money under section 33, or money in the Fund was spent under section 112, in connection with:
 
                               (i)  research and development relating to the primary industry or class of primary industries to which the levy relates; or
 
@@ -1380,7 +1396,7 @@ then:
 
                             (iii)  in respect of work paid for;
 
-                            by the spending of money under section 33 in connection with research and development relating to the primary industry or class of primary industries to which the levy relates;
+                            by the spending of money under section 33 in connection with research and development relating to the primary industry or class of primary industries to which the levy relates;
 
 the other Corporation must pay the amount to the first-mentioned Corporation.
 
@@ -1398,7 +1414,7 @@ the other Corporation must pay the amount to the first-mentioned Corporation.
 
                             (iii)  in respect of work paid for;
 
-                            by the spending of money under section 112 in connection with research and development relating to the primary industry or class of primary industries to which the levy relates;
+                            by the spending of money under section 112 in connection with research and development relating to the primary industry or class of primary industries to which the levy relates;
 
 the RIR&amp;D Corporation must pay the amount to the first-mentioned R&amp;D Corporation.
 
@@ -1432,13 +1448,13 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
 ##### <a id="43"></a>43  Guarantee of borrowing
 
-             (1)  The Finance Minister may, on behalf of the Commonwealth, enter into a contract guaranteeing the performance by an R&amp;D Corporation of obligations incurred by it under section 42.
+             (1)  The Finance Minister may, on behalf of the Commonwealth, enter into a contract guaranteeing the performance by an R&amp;D Corporation of obligations incurred by it under section 42.
 
              (2)  If the Finance Minister determines in writing that obligations incurred by the Corporation under that section are guaranteed by the Commonwealth, the obligations are so guaranteed by force of this subsection.
 
-             (3)  A contract may be entered into under subsection (1), and a determination may be made under subsection (2), in relation to a particular transaction or class of transactions.
+             (3)  A contract may be entered into under subsection (1), and a determination may be made under subsection (2), in relation to a particular transaction or class of transactions.
 
-             (4)  A contract under subsection (1) may include either or both of the following provisions:
+             (4)  A contract under subsection (1) may include either or both of the following provisions:
 
                      (a)  a provision agreeing that proceedings under the contract may be taken in courts of a foreign country;
 
@@ -1452,17 +1468,17 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                    An R&amp;D Corporation may give security over the whole or part of its assets for:
 
-                     (a)  the performance by the Corporation of any obligation incurred under section 41 or 42; or
+                     (a)  the performance by the Corporation of any obligation incurred under section 41 or 42; or
 
-                     (b)  the payment to the Commonwealth of amounts equal to amounts paid by the Commonwealth under a guarantee under section 43.
+                     (b)  the payment to the Commonwealth of amounts equal to amounts paid by the Commonwealth under a guarantee under section 43.
 
 ##### <a id="46"></a>46  Liability to taxation
 
              (1)  An R&amp;D Corporation is subject to taxation (other than income tax) under the laws of the Commonwealth.
 
-             (2)  Subject to subsections (3) and (4), an R&amp;D Corporation is not subject to taxation under a law of a State or Territory.
+             (2)  Subject to subsections (3) and (4), an R&amp;D Corporation is not subject to taxation under a law of a State or Territory.
 
-             (3)  The regulations may provide that subsection (2) does not apply in relation to:
+             (3)  The regulations may provide that subsection (2) does not apply in relation to:
 
                      (a)  a specified law of a State or Territory; or
 
@@ -1476,13 +1492,15 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (2)  In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
 
-### Division 6—Meetings of Research and Development Corporations
+<o:p> </o:p>
+
+### Division 6—Meetings of Research and Development Corporations
 
 ##### <a id="47"></a>47  Times and places of meetings
 
              (1)  An R&amp;D Corporation must hold such meetings as is necessary for the efficient performance of its functions.
 
-             (2)  Subject to subsections (3) and (4), meetings are to be held at such times and places as the Corporation from time to time determines.
+             (2)  Subject to subsections (3) and (4), meetings are to be held at such times and places as the Corporation from time to time determines.
 
              (3)  The Chairperson may call a meeting at any time.
 
@@ -1510,9 +1528,9 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (1)  An R&amp;D Corporation may, subject to this Division, regulate proceedings at its meetings as it considers appropriate.
 
-             (2)  Without limiting subsection (1), an R&amp;D Corporation may permit a director to participate in a meeting by telephone or any other means of communication.
+             (2)  Without limiting subsection (1), an R&amp;D Corporation may permit a director to participate in a meeting by telephone or any other means of communication.
 
-             (3)  A director who is permitted to participate in a meeting under subsection (2) is to be regarded as being present at that meeting.
+             (3)  A director who is permitted to participate in a meeting under subsection (2) is to be regarded as being present at that meeting.
 
 ##### <a id="52"></a>52  Resolutions without meetings
 
@@ -1520,7 +1538,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (a)  without meeting, a majority of the number of directors indicate agreement with the resolution in accordance with the method determined by the Corporation; and
 
-                     (b)  that majority would, if present at a meeting of the Corporation and entitled to vote on the resolution at that meeting, have constituted a quorum under section 49.
+                     (b)  that majority would, if present at a meeting of the Corporation and entitled to vote on the resolution at that meeting, have constituted a quorum under section 49.
 
 ##### <a id="53"></a>53  Minutes
 
@@ -1530,7 +1548,9 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                    An R&amp;D Corporation may invite a person to attend a meeting for the purpose of advising or informing it on any matter.
 
-### Division 7—Annual general meetings
+<o:p> </o:p>
+
+### Division 7—Annual general meetings
 
 ##### <a id="56"></a>56  Application of Division
 
@@ -1550,7 +1570,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (b)  no later than 30 days after that day.
 
-             (3)  The Corporation must not include in the list for the financial year persons whose applications to be entered on the list are received by the Corporation after the day referred to in paragraph (2)(a).
+             (3)  The Corporation must not include in the list for the financial year persons whose applications to be entered on the list are received by the Corporation after the day referred to in paragraph (2)(a).
 
              (4)  The Corporation must not use such a list otherwise than for the purposes of this Division.
 
@@ -1562,7 +1582,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (1)  Where an R&amp;D Corporation is required by the representative organisation to hold an annual general meeting, the Corporation must cause the meeting to be held in each financial year at a time and place determined by the Corporation.
 
-             (2)  The Corporation must ensure that a period of not more than 15 months elapses between each annual general meeting.
+             (2)  The Corporation must ensure that a period of not more than 15 months elapses between each annual general meeting.
 
 ##### <a id="59"></a>59  Notice of the convening of an annual general meeting
 
@@ -1572,11 +1592,11 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (b)  the day (not being earlier than 14 days after the notice is published) before which applications from persons seeking to be entered on the list of levy payers for the financial year must be received by the Corporation.
 
-             (2)  In addition to publishing a notice under subsection (1), the Corporation:
+             (2)  In addition to publishing a notice under subsection (1), the Corporation:
 
                      (a)  must give copies of the notice to each of its representative organisations; and
 
-                     (b)  may cause particulars of the annual general meeting to be made public in such a way as the Corporation determines at any time before the day referred to in paragraph (1)(b).
+                     (b)  may cause particulars of the annual general meeting to be made public in such a way as the Corporation determines at any time before the day referred to in paragraph (1)(b).
 
 ##### <a id="60"></a>60  Purpose of annual general meeting
 
@@ -1652,17 +1672,17 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (2)  Where a motion of no confidence in the Corporation is passed at the meeting:
 
-                     (a)  the office of each of the directors (other than the Executive Director) is to be taken to be vacant for the purposes of Part 4 immediately after the meeting; and
+                     (a)  the office of each of the directors (other than the Executive Director) is to be taken to be vacant for the purposes of Part 4 immediately after the meeting; and
 
                      (b)  the Minister must:
 
                               (i)  within one month after the meeting, by notice published in the _Gazette_, terminate the appointment of each of the directors (other than the Executive Director) with effect from a day specified in the notice; and
 
-                             (ii)  under section 17, appoint a different Chairperson and a different government director; and
+                             (ii)  under section 17, appoint a different Chairperson and a different government director; and
 
-                            (iii)  under section 17, appoint persons, in accordance with Part 4, in the place of the nominated directors whose appointments have been so terminated.
+                            (iii)  under section 17, appoint persons, in accordance with Part 4, in the place of the nominated directors whose appointments have been so terminated.
 
-             (3)  The fact that a person’s appointment as a director has been terminated under subparagraph (2)(b)(i) does not prevent the person being re-appointed under subparagraph (2)(b)(iii).
+             (3)  The fact that a person’s appointment as a director has been terminated under subparagraph (2)(b)(i) does not prevent the person being re-appointed under subparagraph (2)(b)(iii).
 
              (4)  Where a motion of no confidence in the Chairperson is passed at the meeting, the Minister must:
 
@@ -1674,7 +1694,9 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (1)  An R&amp;D Corporation must, within one month after the holding of an annual general meeting, provide to each of its representative organisations a copy of the text of all motions passed at the meeting.
 
-### Division 8—Provisions relating to directors other than Executive Directors
+<o:p> </o:p>
+
+### Division 8—Provisions relating to directors other than Executive Directors
 
 ##### <a id="65"></a>65  Definition
 
@@ -1706,7 +1728,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (2)  A director is to be paid such allowances as are prescribed.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="69"></a>69  Terms and conditions of appointment not provided for by Act
 
@@ -1748,11 +1770,11 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                             (iv)  makes an assignment of his or her remuneration for the benefit of such creditors; or
 
-                     (c)  if the Chairperson or nominated director, without reasonable excuse, contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_.
+                     (c)  if the Chairperson or nominated director, without reasonable excuse, contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_.
 
              (2)  The Minister may terminate the appointment of the Chairperson if the Chairperson is absent, except with the leave of the Minister, from 3 consecutive meetings.
 
-             (3)  The Minister may terminate the appointment of a nominated director of an R&amp;D Corporation if the nominated director is absent, except with the leave of the Chairperson, from 3 consecutive meetings.
+             (3)  The Minister may terminate the appointment of a nominated director of an R&amp;D Corporation if the nominated director is absent, except with the leave of the Chairperson, from 3 consecutive meetings.
 
 ##### <a id="74"></a>74  Deputy Chairperson
 
@@ -1760,7 +1782,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (2)  The Minister must, before making the appointment, consult with the Chairperson.
 
-             (3)  The Minister may at any time terminate an appointment made under subsection (1).
+             (3)  The Minister may at any time terminate an appointment made under subsection (1).
 
              (4)  A person appointed as Deputy Chairperson ceases to hold the office if the person ceases to be a nominated director of the Corporation.
 
@@ -1774,7 +1796,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (7)  The Deputy Chairperson has, when acting as Chairperson, all the powers, duties, rights and entitlements of the Chairperson.
 
-             (8)  Anything done by or in relation to a person purporting to act as the Chairperson under subsection (6) is not invalid merely because:
+             (8)  Anything done by or in relation to a person purporting to act as the Chairperson under subsection (6) is not invalid merely because:
 
                      (a)  there was a defect or irregularity in connection with the appointment of the person as the Deputy Chairperson; or
 
@@ -1782,7 +1804,9 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (c)  the occasion for the person to act as the Chairperson had not arisen or had ceased.
 
-### Division 9—Executive Director
+<o:p> </o:p>
+
+### Division 9—Executive Director
 
 ##### <a id="75"></a>75  Executive Director
 
@@ -1856,9 +1880,9 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (a)  during a vacancy in the office of Executive Director; or
 
-                     (b)  during any period, or during all periods, when the Executive Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Executive Director is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the duties of the office.
 
-             (2)  In its application in relation to a person appointed to act as the Executive Director, section 33A of the _Acts Interpretation Act 1901_ is modified as follows:
+             (2)  In its application in relation to a person appointed to act as the Executive Director, section 33A of the _Acts Interpretation Act 1901_ is modified as follows:
 
                      (b)  a resignation by the person under paragraph 33A(d) is to be delivered to the Chairperson.
 
@@ -1894,7 +1918,9 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (d)  the giving or refusing of approval for the Executive Director, or a person acting as Executive Director, to engage in paid employment outside the duties of the office.
 
-### Division 10—Employees and consultants
+<o:p> </o:p>
+
+### Division 10—Employees and consultants
 
 ##### <a id="87"></a>87  Employees
 
@@ -1914,7 +1940,9 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (2)  The terms and conditions of engagement are to be determined by the Corporation.
 
-### Division 11—Miscellaneous
+<o:p> </o:p>
+
+### Division 11—Miscellaneous
 
 ##### <a id="89"></a>89  Committees
 
@@ -1922,7 +1950,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (2)  The Corporation may fix the number of members of a committee required to constitute a quorum at a meeting of the committee.
 
-             (3)  Section 54 applies in relation to a member of a committee established by the Corporation as if:
+             (3)  Section 54 applies in relation to a member of a committee established by the Corporation as if:
 
                      (a)  a reference to a director of the Corporation were a reference to a member of the committee (whether or not the member of the committee is also a director); and
 
@@ -1932,11 +1960,11 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (5)  Such a member is to be paid such allowances as are prescribed.
 
-             (6)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (6)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="90"></a>90  Delegation by R&amp;D Corporation
 
-             (1)  An R&amp;D Corporation may, by writing under its common seal, delegate all or any of its powers under this Act (except its powers under section 81) to:
+             (1)  An R&amp;D Corporation may, by writing under its common seal, delegate all or any of its powers under this Act (except its powers under section 81) to:
 
                      (a)  a committee of the Corporation; or
 
@@ -1952,9 +1980,11 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (2)  In the exercise of a power delegated by the Executive Director, the delegate is subject to the directions of the Executive Director.
 
-## Part 3—Research and Development Councils and Research and Development Funds
+<o:p> </o:p>
 
-### Division 1—Establishment, functions and powers of Research and Development Councils
+## Part 3—Research and Development Councils and Research and Development Funds
+
+### Division 1—Establishment, functions and powers of Research and Development Councils
 
 ##### <a id="92"></a>92  Establishment
 
@@ -1970,13 +2000,13 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (a)  to investigate and evaluate the requirements for research and development in relation to the primary industry or class of primary industries in respect of which it was established and, on the basis of such investigation and evaluation:
 
-                              (i)  to prepare an R&amp;D plan under section 101; and
+                              (i)  to prepare an R&amp;D plan under section 101; and
 
                              (ii)  to review and revise the plan; and
 
-                     (b)  to prepare an annual operational plan under section 102 for each financial year; and
+                     (b)  to prepare an annual operational plan under section 102 for each financial year; and
 
-                     (c)  to approve, under section 112, the payment of money from the Council’s R&amp;D Fund; and
+                     (c)  to approve, under section 112, the payment of money from the Council’s R&amp;D Fund; and
 
                      (d)  to:
 
@@ -1998,13 +2028,13 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
 ##### <a id="95"></a>95  Consultations with persons and organisations
 
-             (1)  Without limiting the generality of section 94, an R&amp;D Council may make arrangements for consulting:
+             (1)  Without limiting the generality of section 94, an R&amp;D Council may make arrangements for consulting:
 
                      (a)  persons and bodies representative of the primary industry or class of primary industries in respect of which the Council was established (including any of the Council’s representative organisations); and
 
                      (b)  Commonwealth, State and Territory authorities concerned with that primary industry or class of primary industries.
 
-             (2)  Arrangements made by an R&amp;D Council under subsection (1) may provide for:
+             (2)  Arrangements made by an R&amp;D Council under subsection (1) may provide for:
 
                      (a)  the RIR&amp;D Corporation agreeing to meet travel expenses reasonably incurred by a person in connection with consultations with the Council; and
 
@@ -2016,11 +2046,13 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (a)  to administer each R&amp;D Fund;
 
-                     (b)  where the Chairperson of an R&amp;D Council has entered into an agreement with the Corporation under section 121—to perform administrative and clerical services for the Council in accordance with the agreement;
+                     (b)  where the Chairperson of an R&amp;D Council has entered into an agreement with the Corporation under section 121—to perform administrative and clerical services for the Council in accordance with the agreement;
 
-                     (c)  where it considers it appropriate to do so—to enter into agreements, under sections 13 and 14, on behalf of R&amp;D Councils.
+                     (c)  where it considers it appropriate to do so—to enter into agreements, under sections 13 and 14, on behalf of R&amp;D Councils.
 
-### Division 2—Constitution and meetings of R&amp;D Councils
+<o:p> </o:p>
+
+### Division 2—Constitution and meetings of R&amp;D Councils
 
 ##### <a id="97"></a>97  Constitution of R&amp;D Councils
 
@@ -2040,7 +2072,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (2)  The Minister must not appoint a person as the government member of an R&amp;D Council unless the Minister is satisfied that the person has experience in, and knowledge of, government policy processes and public administration.
 
-             (3)  The nominated members of an R&amp;D Council are to be appointed from persons nominated by a Selection Committee under Part 4.
+             (3)  The nominated members of an R&amp;D Council are to be appointed from persons nominated by a Selection Committee under Part 4.
 
              (5)  The appointment of a person as a member of an R&amp;D Council is not invalid because of a defect or irregularity in connection with the person’s nomination or appointment.
 
@@ -2052,7 +2084,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
 ##### <a id="100"></a>100  Applied provisions
 
-             (1)  Divisions 6 and 8 of Part 2 (other than section 65) apply in relation to an R&amp;D Council, the Chairperson of the R&amp;D Council and the members of the R&amp;D Council as if:
+             (1)  Divisions 6 and 8 of Part 2 (other than section 65) apply in relation to an R&amp;D Council, the Chairperson of the R&amp;D Council and the members of the R&amp;D Council as if:
 
                      (a)  references in those Divisions to an R&amp;D Corporation were references to the R&amp;D Council; and
 
@@ -2062,19 +2094,21 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (d)  references in those Divisions to the Deputy Chairperson of an R&amp;D Corporation were references to the Deputy Chairperson of the R&amp;D Council; and
 
-                     (e)  references in Division 8 to the government director of an R&amp;D Corporation were references to the government member of the R&amp;D Council; and
+                     (e)  references in Division 8 to the government director of an R&amp;D Corporation were references to the government member of the R&amp;D Council; and
 
-                      (f)  references in Division 8 to a nominated member of an R&amp;D Corporation were references to a nominated member of the R&amp;D Council.
+                      (f)  references in Division 8 to a nominated member of an R&amp;D Corporation were references to a nominated member of the R&amp;D Council.
 
-             (2)  Sections 27F to 27L of the _Commonwealth Authorities and Companies Act 1997_ apply to members of an R&amp;D Council as if the Council were a Commonwealth authority and the members were directors of the authority.
+             (2)  Sections 27F to 27L of the _Commonwealth Authorities and Companies Act 1997_ apply to members of an R&amp;D Council as if the Council were a Commonwealth authority and the members were directors of the authority.
 
-### Division 3—R&amp;D plans and annual operational plans
+<o:p> </o:p>
+
+### Division 3—R&amp;D plans and annual operational plans
 
 ##### <a id="101"></a>101  R&amp;D plans
 
              (1)  An R&amp;D Council must prepare R&amp;D plans.
 
-             (2)  Subject to subsection (3), sections 19 to 24 (inclusive) apply in relation to an R&amp;D plan prepared by an R&amp;D Council as if:
+             (2)  Subject to subsection (3), sections 19 to 24 (inclusive) apply in relation to an R&amp;D plan prepared by an R&amp;D Council as if:
 
                      (a)  references in those sections to an R&amp;D Corporation were references to the R&amp;D Council; and
 
@@ -2112,17 +2146,17 @@ unless:
 
                               (i)  the total amounts likely to be spent from the Council’s R&amp;D Fund in respect of each broad grouping of R&amp;D activities the Council proposes to be funded during the financial year; and
 
-                             (ii)  the total of the amounts likely to be spent from the Council’s R&amp;D Fund under section 112 (other than paragraph 112(1)(a)), during the financial year; and
+                             (ii)  the total of the amounts likely to be spent from the Council’s R&amp;D Fund under section 112 (other than paragraph 112(1)(a)), during the financial year; and
 
-                            (iii)  the total of the amounts referred to in subparagraphs (i) and (ii); and
+                            (iii)  the total of the amounts referred to in subparagraphs (i) and (ii); and
 
-                            (iv)  the total of the amounts that are likely to be paid into the Council’s R&amp;D Fund during the financial year (other than amounts paid under section 108).
+                            (iv)  the total of the amounts that are likely to be paid into the Council’s R&amp;D Fund during the financial year (other than amounts paid under section 108).
 
              (3)  A reference in this section to R&amp;D activities that an R&amp;D Council proposes to be funded from its R&amp;D Fund includes a reference to R&amp;D activities that the Council is prepared, subject to its examination of specific proposals, to have funded from its R&amp;D Fund.
 
 ##### <a id="103"></a>103  Approval etc. of annual operational plans
 
-             (1)  Subject to subsection (2), section 26 (other than subsection 26(1)) applies in relation to an annual operational plan prepared by an R&amp;D Council as if:
+             (1)  Subject to subsection (2), section 26 (other than subsection 26(1)) applies in relation to an annual operational plan prepared by an R&amp;D Council as if:
 
                      (a)  the reference in subsection 26(2) to the RIR&amp;D Corporation were a reference to the R&amp;D Council; and
 
@@ -2144,7 +2178,9 @@ unless:
 
 are consistent with, and designed to give effect to, any R&amp;D plan, and any annual operational plan, prepared by it and in force at the time.
 
-### Division 4—Accountability
+<o:p> </o:p>
+
+### Division 4—Accountability
 
 ##### <a id="105"></a>105  Annual report
 
@@ -2160,7 +2196,7 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                             (iii)  revisions of its R&amp;D plan or annual operational plan approved by the Minister during the period; and
 
-                            (iv)  agreements that the RIR&amp;D Corporation entered into under section 14 on the Council’s behalf during the period and the RIR&amp;D Corporation’s activities during the period in relation to agreements entered into under that section by the RIR&amp;D Corporation during or prior to the period; and
+                            (iv)  agreements that the RIR&amp;D Corporation entered into under section 14 on the Council’s behalf during the period and the RIR&amp;D Corporation’s activities during the period in relation to agreements entered into under that section by the RIR&amp;D Corporation during or prior to the period; and
 
                              (v)  the RIR&amp;D Corporation’s activities on the Council’s behalf during the period in relation to applying for patents for inventions, commercially exploiting patented inventions and granting licences under patented inventions; and
 
@@ -2172,7 +2208,7 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                              (ii)  implemented the annual operational plan applicable to the period; and
 
-                     (c)  an assessment of the extent to which the Council has, during the period, contributed to the attainment of the objects of the Act as set out in section 3.
+                     (c)  an assessment of the extent to which the Council has, during the period, contributed to the attainment of the objects of the Act as set out in section 3.
 
              (3)  An R&amp;D Council must not give its annual report to the Minister unless:
 
@@ -2180,13 +2216,13 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                      (b)  if the RIR&amp;D Corporation has indicated to the Council that it wishes to have its comments accompany the report—the report is accompanied by the written comments that the Corporation has provided to the Council for the purpose.
 
-             (4)  If an R&amp;D Council is not established at the beginning of a financial year, this section has effect in relation to the period commencing on the day the Council is established and ending on the next 30 June as if:
+             (4)  If an R&amp;D Council is not established at the beginning of a financial year, this section has effect in relation to the period commencing on the day the Council is established and ending on the next 30 June as if:
 
                      (a)  where the period is less than 3 months—the period were included in the next financial year; or
 
                      (b)  in any other case—the period were a financial year.
 
-             (5)  The Minister must cause a copy of an R&amp;D Council’s annual report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the annual report.
+             (5)  The Minister must cause a copy of an R&amp;D Council’s annual report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the annual report.
 
 ##### <a id="106"></a>106  Accountability to representative organisations
 
@@ -2202,11 +2238,13 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                      (c)  the Chairperson to be questioned in relation to those activities.
 
-### Division 5—Research and Development Funds
+<o:p> </o:p>
+
+### Division 5—Research and Development Funds
 
 ##### <a id="107"></a>107  Establishment of Research and Development Funds
 
-             (1)  Where, as a result of the making of regulations, an R&amp;D Council is established under section 92 on a particular day:
+             (1)  Where, as a result of the making of regulations, an R&amp;D Council is established under section 92 on a particular day:
 
                      (a)  a Research and Development Fund is established in respect of the Council on that day; and
 
@@ -2226,11 +2264,11 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                             (iii)  amounts of penalty for non-payment of that levy, to the extent that the penalty is attributable to the non-payment of the research component of that levy; and
 
-                     (b)  subject to sections 109 and 110, amounts equal to one-half of the amounts required to be paid out of the fund under section 112 (other than paragraph 112(1)(d)).
+                     (b)  subject to sections 109 and 110, amounts equal to one-half of the amounts required to be paid out of the fund under section 112 (other than paragraph 112(1)(d)).
 
-Note:          See also subsection 7(3) of the _Plant Health__Australia__(Plant Industries) Funding Act 2002_, which provides that this Act applies to certain amounts of levy or charge (and related late payment penalty) to which that Act applies.
+Note:          See also subsection 7(3) of the _Plant Health_<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Australia_</st1:place></st1:country-region>_(Plant Industries) Funding Act 2002_, which provides that this Act applies to certain amounts of levy or charge (and related late payment penalty) to which that Act applies.
 
-             (2)  Amounts paid into an R&amp;D Fund under subsection (1), or under section 116 or 117, are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
+             (2)  Amounts paid into an R&amp;D Fund under subsection (1), or under section 116 or 117, are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
              (3)  There are to be paid into an R&amp;D Fund to which no levy is attached the amounts from time to time appropriated for the purpose by the Parliament.
 
@@ -2242,17 +2280,19 @@ Note:          See also subsection 7(3) of the _Plant Health__
 
                      (b)  the Fund is not a Fund declared by the regulations to be an R&amp;D Fund to which this section does not apply;
 
-the sum of the amounts paid into the Fund under paragraph 108(1)(b) is not to exceed the sum of the amounts paid into the Fund under subparagraphs 108(1)(a)(i) and (ii) (less the sum of any refunds in relation to levies attached to the Fund).
+the sum of the amounts paid into the Fund under paragraph 108(1)(b) is not to exceed the sum of the amounts paid into the Fund under subparagraphs 108(1)(a)(i) and (ii) (less the sum of any refunds in relation to levies attached to the Fund).
 
 ##### <a id="110"></a>110  Commonwealth’s matching payments not to exceed certain proportion of production
 
-             (1)  If a levy is attached to an R&amp;D Council, the sum of the amounts that, during a particular financial year, are paid into the Fund under paragraph 108(1)(b), in respect of payments out of the Fund under section 112 for R&amp;D activities in respect of the goods that are the produce of the primary industry or class of primary industries to which the levy relates, is not to exceed an amount equal to 0.5% of the amount that the Minister determines to be the gross value of production, for that financial year, of those goods.
+             (1)  Subject to subsection (3), where a levy is attached to an R&amp;D Council, the sum of the amounts that, during a particular financial year, are paid into the Fund under paragraph 108(1)(b), in respect of payments out of the Fund under section 112 for R&amp;D activities in respect of the goods that are the produce of the primary industry or class of primary industries to which the levy relates, is not to exceed an amount equal to 0.5% of the amount that the Minister determines to be the gross value of production, for that financial year, of those goods.
 
              (2)  The regulations may provide for the manner in which the Minister is to determine the amount of the gross value of production of goods for a financial year.
 
+             (3)  Where tobacco levies are attached to an R&amp;D Fund, the sum of the amounts that, during a particular financial year (beginning at any time before 1 July 1991), are paid into the Fund under paragraph 108(1)(b), in respect of payments out of the Fund under section 112 for R&amp;D activities in respect of tobacco leaf to which the levies relate, is not to exceed an amount equal to 3.5 cents per kilogram for the tobacco leaf in respect of which those levies are imposed in that financial year.
+
 ##### <a id="111"></a>111  Additional money payable into R&amp;D Funds
 
-             (1)  In addition to money paid into an R&amp;D Fund under section 108 and subsection (2) of this section, the RIR&amp;D Corporation must pay into the Fund:
+             (1)  In addition to money paid into an R&amp;D Fund under section 108 and subsection (2) of this section, the RIR&amp;D Corporation must pay into the Fund:
 
                      (a)  money paid to the Corporation for the purposes of the Fund; and
 
@@ -2266,7 +2306,7 @@ the sum of the amounts paid into the Fund under paragraph 108(1)(b) is not to ex
 
                      (c)  amounts received by the Corporation as interest from the investment of money standing to the credit of the Fund.
 
-             (2)  In addition to money paid into an R&amp;D Fund under section 108 and subsection (1) of this section, the Commonwealth must pay into the Fund amounts paid to the Commonwealth for the purposes of the Fund.
+             (2)  In addition to money paid into an R&amp;D Fund under section 108 and subsection (1) of this section, the Commonwealth must pay into the Fund amounts paid to the Commonwealth for the purposes of the Fund.
 
 ##### <a id="112"></a>112  Expenditure of money in R&amp;D Funds
 
@@ -2278,25 +2318,25 @@ the sum of the amounts paid into the Fund under paragraph 108(1)(b) is not to ex
 
                      (c)  in payment of remuneration and allowances payable under this Act to the members of the Council; and
 
-                     (d)  in payment to the Commonwealth of amounts payable under section 113 or 114; and
+                     (d)  in payment to the Commonwealth of amounts payable under section 113 or 114; and
 
                      (e)  in payment or discharge of liabilities incurred by the RIR&amp;D Corporation as a result of entering into agreements on the Council’s behalf; and
 
                       (f)  in making payments, in accordance with arrangements made between the Council and the RIR&amp;D Corporation, for services provided by the RIR&amp;D Corporation for the Council at the Council’s request.
 
-             (2)  The RIR&amp;D Corporation must pay out of an R&amp;D Fund amounts (if any) that the Corporation is obliged to pay to an R&amp;D Corporation under subsection 36(2) or to pay into another R&amp;D Fund under section 115 in relation to a levy that, having previously been attached to the first-mentioned Fund, has now become attached to the R&amp;D Corporation or the other R&amp;D Fund.
+             (2)  The RIR&amp;D Corporation must pay out of an R&amp;D Fund amounts (if any) that the Corporation is obliged to pay to an R&amp;D Corporation under subsection 36(2) or to pay into another R&amp;D Fund under section 115 in relation to a levy that, having previously been attached to the first-mentioned Fund, has now become attached to the R&amp;D Corporation or the other R&amp;D Fund.
 
              (3)  The RIR&amp;D Corporation is liable to pay, from an R&amp;D Fund, amounts necessary to meet the expenses, and discharge the liabilities, incurred by a Selection Committee in connection with the performance of its function, and the exercise of its powers, in relation to the selection of members for appointment to the R&amp;D Council in respect of which the Fund was established.
 
              (4)  The RIR&amp;D Corporation is liable to pay, from an R&amp;D Fund, amounts necessary to meet the expenses, and discharge the liabilities, incurred by the R&amp;D Council in respect of which the Fund was established:
 
-                     (a)  in employing persons under section 119; or
+                     (a)  in employing persons under section 119; or
 
-                     (b)  in engaging persons as consultants under section 120; or
+                     (b)  in engaging persons as consultants under section 120; or
 
-                     (c)  under an agreement made under section 121.
+                     (c)  under an agreement made under section 121.
 
-             (5)  The reference in paragraph (1)(a) to an annual operational plan prepared by an R&amp;D Council and in force when payments are made with the Council’s approval includes a reference to such a plan, prepared by the Council and in force at that time, that had not yet been prepared, or was not yet in force, when the approval was given.
+             (5)  The reference in paragraph (1)(a) to an annual operational plan prepared by an R&amp;D Council and in force when payments are made with the Council’s approval includes a reference to such a plan, prepared by the Council and in force at that time, that had not yet been prepared, or was not yet in force, when the approval was given.
 
 ##### <a id="113"></a>113  Commonwealth to be paid levy expenses from R&amp;D Funds
 
@@ -2338,9 +2378,9 @@ the R&amp;D Corporation must pay to the RIR&amp;D Corporation, for the purposes 
 
              (3)  Where the RIR&amp;D Corporation and another R&amp;D Corporation are unable to agree on:
 
-                     (a)  whether the other Corporation is required to pay money to the RIR&amp;D Corporation under subsection (2); or
+                     (a)  whether the other Corporation is required to pay money to the RIR&amp;D Corporation under subsection (2); or
 
-                     (b)  the amount of money that the other Corporation is required to pay to the RIR&amp;D Corporation under subsection (2);
+                     (b)  the amount of money that the other Corporation is required to pay to the RIR&amp;D Corporation under subsection (2);
 
 the amount (if any) that is required to be paid is an amount determined by the Minister.
 
@@ -2370,13 +2410,13 @@ then:
 
                      (b)  immediately before becoming so attached, the levy was attached to an R&amp;D Corporation or to another R&amp;D Fund (in this subsection called the **_other Fund_**); and
 
-                     (c)  while the levy was attached to the R&amp;D Corporation, or to the other Fund, the Corporation spent money under section 33, or money in the other Fund was spent under section 112, in connection with:
+                     (c)  while the levy was attached to the R&amp;D Corporation, or to the other Fund, the Corporation spent money under section 33, or money in the other Fund was spent under section 112, in connection with:
 
                               (i)  research and development relating to the primary industry or class of primary industries to which the levy relates; or
 
                              (ii)  administering the funding of such research and development; and
 
-                     (d)  as a result of the expenditure, the Commonwealth was obliged to pay money to the Corporation under paragraph 30(1)(b) or into the other Fund under paragraph 108(1)(b); and
+                     (d)  as a result of the expenditure, the Commonwealth was obliged to pay money to the Corporation under paragraph 30(1)(b) or into the other Fund under paragraph 108(1)(b); and
 
                      (e)  the Commonwealth had not so paid the money before the levy became attached to the first-mentioned Fund;
 
@@ -2402,7 +2442,7 @@ then:
 
                             (iii)  in respect of work paid for;
 
-                            by the spending of money under section 112 in connection with research and development relating to the primary industry or class of primary industries to which the levy relates;
+                            by the spending of money under section 112 in connection with research and development relating to the primary industry or class of primary industries to which the levy relates;
 
 the RIR&amp;D Corporation must pay the amount into the first-mentioned R&amp;D Fund.
 
@@ -2420,7 +2460,7 @@ the RIR&amp;D Corporation must pay the amount into the first-mentioned R&amp;D F
 
                             (iii)  in respect of work paid for;
 
-                            by the spending of money under section 33 in connection with research and development relating to the primary industry to which the levy relates;
+                            by the spending of money under section 33 in connection with research and development relating to the primary industry to which the levy relates;
 
 then:
 
@@ -2430,13 +2470,15 @@ then:
 
              (3)  Where the RIR&amp;D Corporation and another R&amp;D Corporation are unable to agree on:
 
-                     (a)  whether the other Corporation is required to pay money to the RIR&amp;D Corporation under this subsection (2); or
+                     (a)  whether the other Corporation is required to pay money to the RIR&amp;D Corporation under this subsection (2); or
 
-                     (b)  the amount of money that the other Corporation is required to pay to the RIR&amp;D Corporation under subsection (2);
+                     (b)  the amount of money that the other Corporation is required to pay to the RIR&amp;D Corporation under subsection (2);
 
 the amount (if any) that is required to be paid is an amount determined by the Minister.
 
-### Division 6—Employees, consultants and administrative agreements
+<o:p> </o:p>
+
+### Division 6—Employees, consultants and administrative agreements
 
 ##### <a id="119"></a>119  Employees
 
@@ -2454,9 +2496,11 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                    The Chairperson of an R&amp;D Council may, on behalf of the Council, enter into an agreement with another body under which the other body is to perform the administrative and clerical services necessary for the Council to perform its functions and exercise its powers.
 
-## Part 4—Selection Committees
+<o:p> </o:p>
 
-### Division 1—Establishment etc. of Selection Committees
+## Part 4—Selection Committees
+
+### Division 1—Establishment etc. of Selection Committees
 
 ##### <a id="122"></a>122  Presiding Members of Selection Committees
 
@@ -2464,7 +2508,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (2)  A Presiding Member is to be appointed on a part-time basis.
 
-             (3)  A Presiding Member holds office for the period, not exceeding 3 years, specified in the instrument of appointment but is eligible for re-appointment.
+             (3)  A Presiding Member holds office for the period, not exceeding 3 years, specified in the instrument of appointment but is eligible for re-appointment.
 
 ##### <a id="123"></a>123  Minister may request the establishment of a Selection Committee
 
@@ -2494,11 +2538,11 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                      (e)  specifying the period within which the Selection Committee must nominate persons, or a person, for appointment.
 
-             (3)  If the Minister believes on reasonable grounds that a vacancy of a kind referred to in subsection (1) or (2) is about to arise, the Minister may give a notice under subsection (1) or (2), as the case may be, before the vacancy arises.
+             (3)  If the Minister believes on reasonable grounds that a vacancy of a kind referred to in subsection (1) or (2) is about to arise, the Minister may give a notice under subsection (1) or (2), as the case may be, before the vacancy arises.
 
 ##### <a id="124"></a>124  Establishment of Selection Committees—R&amp;D Corporations
 
-             (1)  Where the Presiding Member of Selection Committees for an R&amp;D Corporation (other than an R&amp;D Corporation to which section 125 applies) receives a request under subsection 123(1), the Presiding Member must:
+             (1)  Where the Presiding Member of Selection Committees for an R&amp;D Corporation (other than an R&amp;D Corporation to which section 125 applies) receives a request under subsection 123(1), the Presiding Member must:
 
                      (a)  establish a Selection Committee for the Corporation for the purpose of nominating a person or persons for appointment to the Corporation; and
 
@@ -2518,11 +2562,11 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                              (ii)  where the Corporation has more than one representative organisation—all of those organisations acting jointly.
 
-             (3)  Subject to subsections (4) and (5), the Minister must appoint the persons nominated by the representative organisation or representative organisations.
+             (3)  Subject to subsections (4) and (5), the Minister must appoint the persons nominated by the representative organisation or representative organisations.
 
              (4)  Where the Minister is not satisfied that a person nominated for appointment should be appointed, the Minister may reject the nomination and request another nomination.
 
-             (5)  Where the Minister is satisfied that nominations for membership of a Selection Committee, as provided for under paragraph (2)(b) or subsection (4), will not be made within a reasonable time, the Minister may appoint persons to be members of the Selection Committee as if they had been so nominated.
+             (5)  Where the Minister is satisfied that nominations for membership of a Selection Committee, as provided for under paragraph (2)(b) or subsection (4), will not be made within a reasonable time, the Minister may appoint persons to be members of the Selection Committee as if they had been so nominated.
 
              (6)  The performance of the function, and the exercise of the powers, of a Selection Committee for an R&amp;D Corporation are not affected merely because of vacancies in the Selection Committee’s membership.
 
@@ -2540,7 +2584,7 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
              (3)  Where the Minister has not appointed 6 persons under paragraph (2)(b), the Presiding Member must give to each of the Corporation’s representative organisations written notice:
 
-                     (a)  informing the organisation of any appointments made under paragraph (2)(b); and
+                     (a)  informing the organisation of any appointments made under paragraph (2)(b); and
 
                      (b)  requesting the organisation:
 
@@ -2554,19 +2598,19 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                      (b)  up to 6 other members, being:
 
-                              (i)  the members (if any) appointed by the Minister under paragraph (2)(b); and
+                              (i)  the members (if any) appointed by the Minister under paragraph (2)(b); and
 
-                             (ii)  unless the Minister has appointed 6 members under paragraph (2)(b)—such other members appointed by the Minister on the nomination of:
+                             (ii)  unless the Minister has appointed 6 members under paragraph (2)(b)—such other members appointed by the Minister on the nomination of:
 
                                         (A)  where the Corporation has only one representative organisation—that organisation; or
 
                                         (B)  where the Corporation has more than one representative organisation—all of those organisations acting jointly.
 
-             (5)  Subject to subsections (6) and (7), the Minister must appoint the persons nominated by the representative organisation or representative organisations.
+             (5)  Subject to subsections (6) and (7), the Minister must appoint the persons nominated by the representative organisation or representative organisations.
 
              (6)  Where the Minister is not satisfied that a person nominated for appointment should be appointed, the Minister may reject the nomination and request another nomination.
 
-             (7)  Where the Minister is satisfied that nominations for membership of a Selection Committee, as provided for under subparagraph (4)(b)(ii) or subsection (6), will not be made within a reasonable time, the Minister may appoint persons to be members of the Selection Committee as if they had been so nominated.
+             (7)  Where the Minister is satisfied that nominations for membership of a Selection Committee, as provided for under subparagraph (4)(b)(ii) or subsection (6), will not be made within a reasonable time, the Minister may appoint persons to be members of the Selection Committee as if they had been so nominated.
 
              (8)  The performance of the function, and the exercise of the powers, of a Selection Committee for an R&amp;D Corporation to which this section applies are not affected merely because of vacancies in the Selection Committee’s membership.
 
@@ -2594,19 +2638,19 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                              (ii)  where the Council has more than one representative organisation—all of those organisations acting jointly.
 
-             (3)  The Minister must not appoint a person for the purpose of paragraph (2)(b) unless the Minister is satisfied that the person has a knowledge of, and experience in, research and development, scientific matters or marketing.
+             (3)  The Minister must not appoint a person for the purpose of paragraph (2)(b) unless the Minister is satisfied that the person has a knowledge of, and experience in, research and development, scientific matters or marketing.
 
-             (4)  A person appointed for the purpose of paragraph (2)(b):
+             (4)  A person appointed for the purpose of paragraph (2)(b):
 
                      (a)  is to be appointed on a part-time basis; and
 
                      (b)  holds office for the period, not exceeding 3 years, specified in the instrument of appointment, but is eligible for re-appointment.
 
-             (5)  Subject to subsections (6) and (7), the Minister must appoint the person or persons nominated by the representative organisation or representative organisations.
+             (5)  Subject to subsections (6) and (7), the Minister must appoint the person or persons nominated by the representative organisation or representative organisations.
 
              (6)  Where the Minister is not satisfied that a person nominated for appointment should be appointed, the Minister may reject the nomination and request another nomination.
 
-             (7)  Where the Minister is satisfied that nominations for membership of a Selection Committee, as provided for under paragraph (2)(c) or subsection (6), will not be made within a reasonable time, the Minister may appoint persons to be members of the Selection Committee as if they had been so nominated.
+             (7)  Where the Minister is satisfied that nominations for membership of a Selection Committee, as provided for under paragraph (2)(c) or subsection (6), will not be made within a reasonable time, the Minister may appoint persons to be members of the Selection Committee as if they had been so nominated.
 
              (8)  The performance of the function, and the exercise of the powers, of a Selection Committee for an R&amp;D Council are not affected merely because of vacancies in the Selection Committee’s membership.
 
@@ -2626,25 +2670,27 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                      (b)  the Selection Committee has not made any nominations for appointment that have yet to be accepted or rejected by the Minister; and
 
-                     (c)  there are no outstanding matters in a request by the Minister under section 123 or 134 that are still to be dealt with by the Selection Committee;
+                     (c)  there are no outstanding matters in a request by the Minister under section 123 or 134 that are still to be dealt with by the Selection Committee;
 
 the Presiding Member of the Selection Committee must abolish the Selection Committee.
 
-### Division 2—The selection process
+<o:p> </o:p>
+
+### Division 2—The selection process
 
 ##### <a id="130"></a>130  Nominations to be made by Selection Committees
 
-             (1)  A Selection Committee for an R&amp;D Corporation or an R&amp;D Council must, within the period specified by the Minister in a request under section 123, give to the Minister a written notice nominating the person or persons it considers suitable for appointment to the R&amp;D Corporation or R&amp;D Council.
+             (1)  A Selection Committee for an R&amp;D Corporation or an R&amp;D Council must, within the period specified by the Minister in a request under section 123, give to the Minister a written notice nominating the person or persons it considers suitable for appointment to the R&amp;D Corporation or R&amp;D Council.
 
              (2)  For the purpose of enabling it to make a nomination, the Selection Committee:
 
-                     (a)  must invite nomination of persons for appointment by advertisements placed in a newspaper that circulates throughout   Australia; and
+                     (a)  must invite nomination of persons for appointment by advertisements placed in a newspaper that circulates throughout <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and
 
                      (b)  must invite nomination of persons for appointment from the representative organisation or representative organisations of the R&amp;D Corporation or R&amp;D Council; and
 
                      (c)  may invite nomination of persons for appointment in any other way it considers appropriate.
 
-             (3)  A notice under subsection (1) is to include a statement:
+             (3)  A notice under subsection (1) is to include a statement:
 
                      (a)  containing, in respect of each nominee:
 
@@ -2684,7 +2730,7 @@ the Presiding Member of the Selection Committee must abolish the Selection Commi
 
                      (o)  sociology.
 
-             (2)  In making a nomination, the Selection Committee must choose from the available candidates the person who will best ensure that the directors of the R&amp;D Corporation concerned, or the members of the R&amp;D Council concerned, collectively possess an appropriate balance of expertise in as many as possible of the fields referred to in subsection (1), having regard to the particular primary industry or class of primary industries in respect of which the R&amp;D Corporation or R&amp;D Council is established.
+             (2)  In making a nomination, the Selection Committee must choose from the available candidates the person who will best ensure that the directors of the R&amp;D Corporation concerned, or the members of the R&amp;D Council concerned, collectively possess an appropriate balance of expertise in as many as possible of the fields referred to in subsection (1), having regard to the particular primary industry or class of primary industries in respect of which the R&amp;D Corporation or R&amp;D Council is established.
 
              (3)  A person may be nominated by a Selection Committee even if, on one or more previous occasions:
 
@@ -2694,7 +2740,7 @@ the Presiding Member of the Selection Committee must abolish the Selection Commi
 
 ##### <a id="132"></a>132  Selection Committee to make only one nomination
 
-                   Subject to section 134, the Selection Committee is to nominate only one person in respect of each appointment to be made by the Minister.
+                   Subject to section 134, the Selection Committee is to nominate only one person in respect of each appointment to be made by the Minister.
 
 ##### <a id="133"></a>133  Minister may request further information
 
@@ -2708,25 +2754,27 @@ the Presiding Member of the Selection Committee must abolish the Selection Commi
 
                      (b)  requesting another nomination within a specified period.
 
-             (2)  For the purposes of this Part (other than sections 124, 125 and 126):
+             (2)  For the purposes of this Part (other than sections 124, 125 and 126):
 
-                     (a)  such a notice is to be taken to be a notice under section 123; and
+                     (a)  such a notice is to be taken to be a notice under section 123; and
 
-                     (b)  the period specified in the notice is to be taken to be the period specified in a notice under section 123.
+                     (b)  the period specified in the notice is to be taken to be the period specified in a notice under section 123.
 
-### Division 3—Preliminary selection arrangements
+<o:p> </o:p>
+
+### Division 3—Preliminary selection arrangements
 
 ##### <a id="135"></a>135  Selection arrangements for proposed R&amp;D Corporations
 
              (1)  Where:
 
-                     (a)  regulations declaring the establishment of an R&amp;D Corporation (in this section called the **_proposed Corporation_**) under section 8 have been made but are not yet in force; and
+                     (a)  regulations declaring the establishment of an R&amp;D Corporation (in this section called the **_proposed Corporation_**) under section 8 have been made but are not yet in force; and
 
-                     (b)  the Minister has declared under section 7 one or more specified organisations to be representative organisations in relation to the proposed Corporation;
+                     (b)  the Minister has declared under section 7 one or more specified organisations to be representative organisations in relation to the proposed Corporation;
 
 then:
 
-                     (c)  the Minister may appoint a person under section 122 to be the Presiding Member of Selection Committees for the proposed Corporation; and
+                     (c)  the Minister may appoint a person under section 122 to be the Presiding Member of Selection Committees for the proposed Corporation; and
 
                      (d)  the Minister may appoint persons to be directors of the proposed Corporation, but such appointments are only to take effect when the regulations declaring the establishment of the proposed Corporation come into force; and
 
@@ -2736,45 +2784,45 @@ then:
 
              (3)  When the regulations come into force:
 
-                     (a)  the R&amp;D Corporation thus established is liable to reimburse the Commonwealth for any amounts the Commonwealth has paid as a result of a liability arising under subsection (2); and
+                     (a)  the R&amp;D Corporation thus established is liable to reimburse the Commonwealth for any amounts the Commonwealth has paid as a result of a liability arising under subsection (2); and
 
-                     (b)  any liability arising under subsection (2) in respect of which the Commonwealth has yet to make payments is to be taken to be transferred to the R&amp;D Corporation and to be a liability incurred by the Corporation in the performance of its functions.
+                     (b)  any liability arising under subsection (2) in respect of which the Commonwealth has yet to make payments is to be taken to be transferred to the R&amp;D Corporation and to be a liability incurred by the Corporation in the performance of its functions.
 
 ##### <a id="136"></a>136  Selection arrangements for the RIR&amp;D Corporation before its establishment
 
-             (1)  Where the Minister has, before the commencement of section 9, declared under section 7 one or more specified organisations to be representative organisations in relation to the RIR&amp;D Corporation:
+             (1)  Where the Minister has, before the commencement of section 9, declared under section 7 one or more specified organisations to be representative organisations in relation to the RIR&amp;D Corporation:
 
-                     (a)  the Minister may, before the commencement of section 9, appoint a person under section 122 to be the Presiding Member of Selection Committees for the RIR&amp;D Corporation; and
+                     (a)  the Minister may, before the commencement of section 9, appoint a person under section 122 to be the Presiding Member of Selection Committees for the RIR&amp;D Corporation; and
 
-                     (b)  the Minister may appoint persons to be directors of the RIR&amp;D Corporation, but such appointments are only to take effect on the commencement of section 9; and
+                     (b)  the Minister may appoint persons to be directors of the RIR&amp;D Corporation, but such appointments are only to take effect on the commencement of section 9; and
 
-                     (c)  this Part applies, before the commencement of section 9, in relation to appointments of nominated directors of the RIR&amp;D Corporation as if that section had commenced.
+                     (c)  this Part applies, before the commencement of section 9, in relation to appointments of nominated directors of the RIR&amp;D Corporation as if that section had commenced.
 
              (2)  The Commonwealth is liable to pay the expenses, and discharge the liabilities, incurred by a Selection Committee in connection with the performance of its function, and the exercise of its powers, in relation to the selection of directors for appointment to the RIR&amp;D Corporation before the commencement of section 9.
 
-             (3)  When section 9 commences:
+             (3)  When section 9 commences:
 
-                     (a)  the RIR&amp;D Corporation is liable to reimburse the Commonwealth for any amounts the Commonwealth has paid as a result of a liability arising under subsection (2); and
+                     (a)  the RIR&amp;D Corporation is liable to reimburse the Commonwealth for any amounts the Commonwealth has paid as a result of a liability arising under subsection (2); and
 
-                     (b)  any liability arising under subsection (2) in respect of which the Commonwealth has yet to make payments is to be taken to be transferred to the RIR&amp;D Corporation and to be a liability incurred by the RIR&amp;D Corporation in the performance of its functions.
+                     (b)  any liability arising under subsection (2) in respect of which the Commonwealth has yet to make payments is to be taken to be transferred to the RIR&amp;D Corporation and to be a liability incurred by the RIR&amp;D Corporation in the performance of its functions.
 
              (4)  In this section:
 
                     <a name="rir-corpor"></a>**_RIR&amp;D Corporation_** means:
 
-                     (a)  if section 9 has not commenced—the Rural Industries Research and Development Corporation that will be established when that section commences; and
+                     (a)  if section 9 has not commenced—the Rural Industries Research and Development Corporation that will be established when that section commences; and
 
-                     (b)  if section 9 has commenced—the Rural Industries Research and Development Corporation that is established under that section.
+                     (b)  if section 9 has commenced—the Rural Industries Research and Development Corporation that is established under that section.
 
 ##### <a id="137"></a>137  Selection arrangements for proposed R&amp;D Councils
 
              (1)  Where:
 
-                     (a)  regulations declaring the establishment of an R&amp;D Council (in this section called the **_proposed Council_**) under section 92 have been made but are not yet in force; and
+                     (a)  regulations declaring the establishment of an R&amp;D Council (in this section called the **_proposed Council_**) under section 92 have been made but are not yet in force; and
 
-                     (b)  the Minister has declared under section 7 one or more specified organisations to be representative organisations in relation to the proposed Council; and
+                     (b)  the Minister has declared under section 7 one or more specified organisations to be representative organisations in relation to the proposed Council; and
 
-                     (c)  the Minister has appointed a person under section 122 to be the Presiding Member of Selection Committees for the RIR&amp;D Corporation (whether or not section 9 has commenced);
+                     (c)  the Minister has appointed a person under section 122 to be the Presiding Member of Selection Committees for the RIR&amp;D Corporation (whether or not section 9 has commenced);
 
 then:
 
@@ -2782,27 +2830,29 @@ then:
 
                      (e)  this Part applies in relation to appointments of nominated members of the proposed Council as if the proposed Council were an R&amp;D Council.
 
-             (2)  Where section 9 has not commenced, the Commonwealth is liable to pay the expenses, and discharge the liabilities, incurred by a Selection Committee in connection with the performance of its function, and the exercise of its powers, in relation to the selection of members for appointment to the proposed Council before the regulations declaring the establishment of the proposed Council as an R&amp;D Council come into force.
+             (2)  Where section 9 has not commenced, the Commonwealth is liable to pay the expenses, and discharge the liabilities, incurred by a Selection Committee in connection with the performance of its function, and the exercise of its powers, in relation to the selection of members for appointment to the proposed Council before the regulations declaring the establishment of the proposed Council as an R&amp;D Council come into force.
 
-             (3)  When section 9 commences:
+             (3)  When section 9 commences:
 
-                     (a)  the RIR&amp;D Corporation is liable to reimburse the Commonwealth for any amounts the Commonwealth has paid as a result of a liability arising under subsection (2); and
+                     (a)  the RIR&amp;D Corporation is liable to reimburse the Commonwealth for any amounts the Commonwealth has paid as a result of a liability arising under subsection (2); and
 
-                     (b)  any liability arising under subsection (2) in respect of which the Commonwealth has yet to make payments is to be taken to be transferred to the RIR&amp;D Corporation and to be a liability incurred by a Selection Committee for the R&amp;D Council concerned in the performance of its function in relation to the selection of members for appointment to the Council.
+                     (b)  any liability arising under subsection (2) in respect of which the Commonwealth has yet to make payments is to be taken to be transferred to the RIR&amp;D Corporation and to be a liability incurred by a Selection Committee for the R&amp;D Council concerned in the performance of its function in relation to the selection of members for appointment to the Council.
 
              (4)  In this section:
 
                     <a name="rir-corpor"></a>**_RIR&amp;D Corporation_** means:
 
-                     (a)  if section 9 has not commenced—the Rural Industries Research and Development Corporation that will be established when that section commences; and
+                     (a)  if section 9 has not commenced—the Rural Industries Research and Development Corporation that will be established when that section commences; and
 
-                     (b)  if section 9 has commenced—the Rural Industries Research and Development Corporation that is established under that section.
+                     (b)  if section 9 has commenced—the Rural Industries Research and Development Corporation that is established under that section.
 
-### Division 4—Other provisions relating to Selection Committees
+<o:p> </o:p>
+
+### Division 4—Other provisions relating to Selection Committees
 
 ##### <a id="138"></a>138  Applied provisions and disclosure of interest provisions
 
-             (1)  Divisions 6 and 8 of Part 2 (other than subsection 48(2) and sections 53, 65, 66 and 74) apply in relation to a Selection Committee, the Presiding Member of the Selection Committee and the members of the Selection Committee as if:
+             (1)  Divisions 6 and 8 of Part 2 (other than subsection 48(2) and sections 53, 65, 66 and 74) apply in relation to a Selection Committee, the Presiding Member of the Selection Committee and the members of the Selection Committee as if:
 
                      (a)  references in those Divisions to an R&amp;D Corporation were references to the Selection Committee; and
 
@@ -2814,9 +2864,9 @@ then:
 
                      (e)  the reference in subsection 48(3) to the Deputy Chairperson of an R&amp;D Corporation were omitted; and
 
-                      (f)  the references in section 73 to a nominated director of an R&amp;D Corporation were references to a member of the Selection Committee; and
+                      (f)  the references in section 73 to a nominated director of an R&amp;D Corporation were references to a member of the Selection Committee; and
 
-                     (g)  the reference in paragraph 73(1)(c) of this Act to section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_ were a reference to subsections (2), (3), (4) and (5) of this section.
+                     (g)  the reference in paragraph 73(1)(c) of this Act to section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_ were a reference to subsections (2), (3), (4) and (5) of this section.
 
              (2)  If:
 
@@ -2836,7 +2886,7 @@ the member must disclose the nature of the interest at a meeting of the Committe
 
              (5)  A member who has a direct or indirect pecuniary interest in a matter to which a disclosure relates must not:
 
-                     (a)  be present during any deliberation of the Committee for the purpose of making a determination under subsection (4); or
+                     (a)  be present during any deliberation of the Committee for the purpose of making a determination under subsection (4); or
 
                      (b)  take part in the Committee’s making of the determination.
 
@@ -2858,13 +2908,13 @@ the member must disclose the nature of the interest at a meeting of the Committe
 
 ##### <a id="141"></a>141  Annual reports of Selection Committees
 
-             (1)  The Presiding Member of Selection Committees for an R&amp;D Corporation must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report of the operations, during the immediately preceding financial year, of Selection Committees (if any) established by the Presiding Member or another person who was the Presiding Member of Selection Committees for the R&amp;D Corporation.
+             (1)  The Presiding Member of Selection Committees for an R&amp;D Corporation must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report of the operations, during the immediately preceding financial year, of Selection Committees (if any) established by the Presiding Member or another person who was the Presiding Member of Selection Committees for the R&amp;D Corporation.
 
           (1A)  A report for a financial year may, subject to agreement between the Presiding Member and the Chairperson of the R&amp;D Corporation concerned, be included, as a discrete part, in the Corporation’s annual report for that financial year.
 
-             (2)  If subsection (1A) does not apply to a report under this section, the Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister has received the report.
+             (2)  If subsection (1A) does not apply to a report under this section, the Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister has received the report.
 
-             (3)  Where the first appointment of a Presiding Member of Selection Committees for an R&amp;D Corporation does not commence on 1 July, subsection (1) has effect in relation to the period commencing on the day the appointment commences and ending on the next 30 June as if:
+             (3)  Where the first appointment of a Presiding Member of Selection Committees for an R&amp;D Corporation does not commence on 1 July, subsection (1) has effect in relation to the period commencing on the day the appointment commences and ending on the next 30 June as if:
 
                      (a)  where the period is less than 3 months—the period were included in the next financial year; or
 
@@ -2872,9 +2922,11 @@ the member must disclose the nature of the interest at a meeting of the Committe
 
              (4)  In this section:
 
-                    <a name="corpor"></a>**_R&amp;D Corporation_** includes a proposed Corporation within the meaning of section 135.
+                    <a name="corpor"></a>**_R&amp;D Corporation_** includes a proposed Corporation within the meaning of section 135.
 
-## Part 5—Miscellaneous
+<o:p> </o:p>
+
+## Part 5—Miscellaneous
 
 ##### <a id="142"></a>142  Co-ordination meetings
 
@@ -2904,9 +2956,9 @@ the member must disclose the nature of the interest at a meeting of the Committe
 
              (1)  The Minister may give to an R&amp;D Corporation or an R&amp;D Council written directions as to the performance of its functions and the exercise of its powers.
 
-             (2)  Subject to subsection (3), particulars of any directions given in a financial year must be included in the annual report of the R&amp;D Corporation or R&amp;D Council concerned in that year.
+             (2)  Subject to subsection (3), particulars of any directions given in a financial year must be included in the annual report of the R&amp;D Corporation or R&amp;D Council concerned in that year.
 
-             (3)  Subsection (2) does not apply if:
+             (3)  Subsection (2) does not apply if:
 
                      (a)  the Minister, on the recommendation of the R&amp;D Corporation or R&amp;D Council concerned, determines, in writing, that compliance with the subsection would, or would be likely to, prejudice commercial activities carried on by or on behalf of the Corporation or Council; or
 
@@ -2916,17 +2968,17 @@ the member must disclose the nature of the interest at a meeting of the Committe
 
              (1)  Where an R&amp;D Corporation is established, the Minister may cause to be transferred to the Corporation any assets held by the Commonwealth that the Minister considers appropriate to be transferred to the Corporation for the performance of its functions and the exercise of its powers.
 
-             (2)  Where an R&amp;D Council is established, the Minister may cause to be transferred to the RIR&amp;D Corporation any assets held by the Commonwealth that the Minister considers appropriate to be transferred to the RIR&amp;D Corporation for the performance of its additional functions under section 96, and the exercise of its powers in connection with those additional functions, for purposes connected with the R&amp;D Council and its R&amp;D Fund.
+             (2)  Where an R&amp;D Council is established, the Minister may cause to be transferred to the RIR&amp;D Corporation any assets held by the Commonwealth that the Minister considers appropriate to be transferred to the RIR&amp;D Corporation for the performance of its additional functions under section 96, and the exercise of its powers in connection with those additional functions, for purposes connected with the R&amp;D Council and its R&amp;D Fund.
 
              (3)  Where an asset held by the Commonwealth is transferred to an R&amp;D Corporation under this section, the Corporation becomes liable to pay and discharge all debts, liabilities and obligations of the Commonwealth (if any) that existed in respect of the asset immediately before the transfer.
 
 ##### <a id="145"></a>145  Transfer of assets etc. on cessation of an R&amp;D Corporation or R&amp;D Council
 
-             (1)  Where an R&amp;D Corporation ceases to exist as a result of the repeal of regulations made under section 8 declaring the establishment of the Corporation, all the assets held by the Corporation immediately before the cessation are, on the cessation, to be taken to have been transferred to the Commonwealth.
+             (1)  Where an R&amp;D Corporation ceases to exist as a result of the repeal of regulations made under section 8 declaring the establishment of the Corporation, all the assets held by the Corporation immediately before the cessation are, on the cessation, to be taken to have been transferred to the Commonwealth.
 
              (2)  Before disposing of any of the assets so transferred, the Commonwealth must have regard to the views of each of the representative organisations concerning the disposal.
 
-             (3)  Where an R&amp;D Council ceases to exist as a result of the repeal of regulations made under section 92 declaring the establishment of the Council, the Minister may cause to be transferred to the Commonwealth any assets owned by the RIR&amp;D Corporation immediately before the cessation, being assets that the Minister considers were held by the RIR&amp;D Corporation in connection with the performance of its additional functions under section 96, and the exercise of its powers in connection with those additional functions, for purposes connected with the R&amp;D Council and its R&amp;D Fund.
+             (3)  Where an R&amp;D Council ceases to exist as a result of the repeal of regulations made under section 92 declaring the establishment of the Council, the Minister may cause to be transferred to the Commonwealth any assets owned by the RIR&amp;D Corporation immediately before the cessation, being assets that the Minister considers were held by the RIR&amp;D Corporation in connection with the performance of its additional functions under section 96, and the exercise of its powers in connection with those additional functions, for purposes connected with the R&amp;D Council and its R&amp;D Fund.
 
              (4)  Where an asset held by an R&amp;D Corporation is transferred to the Commonwealth under this section, the Commonwealth becomes liable to pay and discharge all debts, liabilities and obligations of the Corporation (if any) that existed in respect of the asset immediately before the transfer.
 
@@ -2962,13 +3014,13 @@ and, where the Minister makes such a declaration, the agreements or instruments 
 
 ##### <a id="147"></a>147  Alteration of agreements and instruments on cessation of an R&amp;D Corporation or R&amp;D Council
 
-             (1)  Where an R&amp;D Corporation ceases to exist as a result of the repeal of regulations made under section 8 declaring the establishment of the Corporation, all the agreements and instruments to which the Corporation was a party immediately before the cessation have effect, after the cessation, as if:
+             (1)  Where an R&amp;D Corporation ceases to exist as a result of the repeal of regulations made under section 8 declaring the establishment of the Corporation, all the agreements and instruments to which the Corporation was a party immediately before the cessation have effect, after the cessation, as if:
 
                      (a)  the Commonwealth were substituted for the Corporation as a party to the agreement or instrument; and
 
                      (b)  any reference in the agreement or instrument to the Corporation were (except in relation to matters that occurred before the cessation) a reference to the Commonwealth.
 
-             (2)  Where an R&amp;D Council ceases to exist as a result of the repeal of regulations made under section 92 declaring the establishment of the Council, the Minister may, by writing signed by him or her, declare that specified agreements or specified instruments:
+             (2)  Where an R&amp;D Council ceases to exist as a result of the repeal of regulations made under section 92 declaring the establishment of the Council, the Minister may, by writing signed by him or her, declare that specified agreements or specified instruments:
 
                      (a)  to which the RIR&amp;D Corporation is a party; and
 
@@ -2982,7 +3034,7 @@ have effect, after the cessation, as if:
 
 and, where the Minister makes such a declaration, the agreements or instruments have effect accordingly.
 
-##### <a id="148"></a>148  Renaming of R&amp;D Corporations and R&amp;D Councils
+##### <a id="148"></a>148  Renaming of R&amp;D Corporations and R&amp;D Councils
 
                    The regulations may change the name of an R&amp;D Corporation or R&amp;D Council, and, when such regulations come into operation, subsection 25B(1) of the _Acts Interpretation Act 1901_ applies as if the regulations were an Act.
 
@@ -2994,9 +3046,9 @@ and, where the Minister makes such a declaration, the agreements or instruments 
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  Before making a regulation for the purposes of section 8 or section 92 establishing an R&amp;D Corporation or R&amp;D Council in respect of a primary industry or class of primary industries, the Governor-General is to take into consideration any relevant recommendation made to the Minister by any of the organisations that, in the Minister’s opinion, represent that primary industry or class of primary industries.
+             (2)  Before making a regulation for the purposes of section 8 or section 92 establishing an R&amp;D Corporation or R&amp;D Council in respect of a primary industry or class of primary industries, the Governor-General is to take into consideration any relevant recommendation made to the Minister by any of the organisations that, in the Minister’s opinion, represent that primary industry or class of primary industries.
 
-             (3)  Before making a regulation for the purposes of section 56 declaring that Division 7 of Part 2 applies to an R&amp;D Corporation, the Governor-General is to take into consideration any relevant recommendation made to the Minister by any of the Corporation’s representative organisations.
+             (3)  Before making a regulation for the purposes of section 56 declaring that Division 7 of Part 2 applies to an R&amp;D Corporation, the Governor-General is to take into consideration any relevant recommendation made to the Minister by any of the Corporation’s representative organisations.
 
 ##### <a id="150"></a>150  Orders
 
@@ -3006,15 +3058,17 @@ and, where the Minister makes such a declaration, the agreements or instruments 
 
              (3)  An order is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-## Part 6—Transitional provisions and consequential amendments
+<o:p> </o:p>
+
+## Part 6—Transitional provisions and consequential amendments
 
 ##### <a id="151"></a>151  Transitional—Research Funds under the _Rural Industries Research Act 1985_
 
              (1)  Where:
 
-                     (a)  at a particular time, a levy becomes attached to an R&amp;D Corporation or R&amp;D Fund under section 5; and
+                     (a)  at a particular time, a levy becomes attached to an R&amp;D Corporation or R&amp;D Fund under section 5; and
 
-                     (b)  immediately before that time, the levy was attached to a Research Fund under section 6 of the _Rural Industries Research Act 1985_;
+                     (b)  immediately before that time, the levy was attached to a Research Fund under section 6 of the _Rural Industries Research Act 1985_;
 
 then:
 
@@ -3026,9 +3080,9 @@ and that Act and the regulations made under that Act have effect accordingly.
 
              (2)  Where:
 
-                     (a)  a levy becomes attached to an R&amp;D Corporation under section 5; and
+                     (a)  a levy becomes attached to an R&amp;D Corporation under section 5; and
 
-                     (b)  as a result, the levy ceases under subsection (1) to be attached to a Research Fund;
+                     (b)  as a result, the levy ceases under subsection (1) to be attached to a Research Fund;
 
 then:
 
@@ -3052,9 +3106,9 @@ then:
 
              (3)  Where:
 
-                     (a)  a levy becomes attached to an R&amp;D Fund under section 5; and
+                     (a)  a levy becomes attached to an R&amp;D Fund under section 5; and
 
-                     (b)  as a result, the levy ceases under subsection (1) to be attached to a Research Fund;
+                     (b)  as a result, the levy ceases under subsection (1) to be attached to a Research Fund;
 
 then:
 
@@ -3078,25 +3132,25 @@ then:
 
              (4)  Where:
 
-                     (a)  a levy becomes attached to an R&amp;D Corporation or R&amp;D Fund under section 5; and
+                     (a)  a levy becomes attached to an R&amp;D Corporation or R&amp;D Fund under section 5; and
 
-                     (b)  as a result, the levy ceases under subsection (1) to be attached to a Research Fund; and
+                     (b)  as a result, the levy ceases under subsection (1) to be attached to a Research Fund; and
 
-                     (c)  the amount (in this subsection called the **_matched amount_**) equal to the sum of the amounts of money that had been paid or were payable into the Research Fund under paragraph 7(1)(b) of the _Rural Industries Research Act 1985_ in respect of the levy immediately before the levy becomes so attached is less than the amount (in this subsection called the **_maximum matching amount_**) equal to the difference between:
+                     (c)  the amount (in this subsection called the **_matched amount_**) equal to the sum of the amounts of money that had been paid or were payable into the Research Fund under paragraph 7(1)(b) of the _Rural Industries Research Act 1985_ in respect of the levy immediately before the levy becomes so attached is less than the amount (in this subsection called the **_maximum matching amount_**) equal to the difference between:
 
-                              (i)  the sum of the Fund credits (within the meaning of section 39A of the _Rural Industries Research Act 1985_) in relation to the levy immediately before the levy becomes so attached; and
+                              (i)  the sum of the Fund credits (within the meaning of section 39A of the _Rural Industries Research Act 1985_) in relation to the levy immediately before the levy becomes so attached; and
 
                              (ii)  the sum of the refunds (within the meaning of that section) in relation to the levy immediately before the levy becomes so attached;
 
-an amount equal to the difference between the maximum matching amount and the matched amount is to be taken, for the purposes of sections 31 and 109, to be an amount paid to the Corporation under subparagraph 30(1)(a)(i), or an amount paid into the Fund under subparagraph 108(1)(a)(i), as the case may be.
+an amount equal to the difference between the maximum matching amount and the matched amount is to be taken, for the purposes of sections 31 and 109, to be an amount paid to the Corporation under subparagraph 30(1)(a)(i), or an amount paid into the Fund under subparagraph 108(1)(a)(i), as the case may be.
 
 ##### <a id="152"></a>152  Transitional—Research Councils and State Research Committees under the _Rural Industries Research Act 1985_
 
              (1)  Where:
 
-                     (a)  at a particular time, a levy becomes attached to an R&amp;D Corporation or R&amp;D Fund under section 5; and
+                     (a)  at a particular time, a levy becomes attached to an R&amp;D Corporation or R&amp;D Fund under section 5; and
 
-                     (b)  immediately before that time, the levy was attached to a Research Council under section 11 of the _Rural Industries Research Act 1985_;
+                     (b)  immediately before that time, the levy was attached to a Research Council under section 11 of the _Rural Industries Research Act 1985_;
 
 then:
 
@@ -3110,13 +3164,13 @@ and that Act and the regulations made under that Act have effect accordingly.
 
                      (a)  at a particular time, a levy or class of levies becomes attached to an R&amp;D Corporation or R&amp;D Fund under section 5; and
 
-                     (b)  immediately before that time, a State Research Committee was in existence as a result of the levy or class being declared by regulations made for the purposes of section 12 of the _Rural Industries Research Act 1985_ to be a prescribed levy or class of levies;
+                     (b)  immediately before that time, a State Research Committee was in existence as a result of the levy or class being declared by regulations made for the purposes of section 12 of the _Rural Industries Research Act 1985_ to be a prescribed levy or class of levies;
 
 the State Research Committee is abolished and that Act and the regulations made under that Act have effect accordingly.
 
              (3)  Where, under this section, a Research Council or State Research Committee is abolished as a result of a levy becoming attached to an R&amp;D Corporation or an R&amp;D Fund:
 
-                     (a)  the outstanding obligations of the Research Council or State Research Committee under section 30 of the _Rural Industries Research Act 1985_ continue until those obligations are met in relation to the report prepared in respect of the financial year in which the Research Council or State Research Committee is abolished; and
+                     (a)  the outstanding obligations of the Research Council or State Research Committee under section 30 of the _Rural Industries Research Act 1985_ continue until those obligations are met in relation to the report prepared in respect of the financial year in which the Research Council or State Research Committee is abolished; and
 
                      (b)  the obligations are to be met:
 
@@ -3126,13 +3180,13 @@ the State Research Committee is abolished and that Act and the regulations made 
 
                      (c)  the persons who were members of the Research Council or State Research Committee concerned must give to the R&amp;D Corporation or R&amp;D Council, as the case requires, such information as is necessary to enable the Corporation or Council to meet those obligations; and
 
-                     (d)  section 30 of the _Rural Industries Research Act 1985_ has effect as if things done by the R&amp;D Corporation or R&amp;D Council, as the case requires, in meeting those obligations were done by the Research Council or State Research Committee concerned.
+                     (d)  section 30 of the _Rural Industries Research Act 1985_ has effect as if things done by the R&amp;D Corporation or R&amp;D Council, as the case requires, in meeting those obligations were done by the Research Council or State Research Committee concerned.
 
-##### <a id="153"></a>153  Transitional—Coal Research Trust Account
+##### <a id="153"></a>153  Transitional—Coal Research Trust Account
 
                    If the levy on the production of coal imposed by the _Excise Tariff Act 1921_ becomes attached to an R&amp;D Corporation, at the time it becomes so attached:
 
-                     (a)  the Coal Research Trust Account established by section 4 of the _Coal Research Assistance Act 1977_ is abolished; and
+                     (a)  the Coal Research Trust Account established by section 4 of the _Coal Research Assistance Act 1977_ is abolished; and
 
                      (b)  amounts (if any) standing to the credit of the Account are payable to the R&amp;D Corporation; and
 
@@ -3142,15 +3196,15 @@ the State Research Committee is abolished and that Act and the regulations made 
 
                      (e)  the _Coal Research Assistance Act 1977_ has effect as if:
 
-                              (i)  the definition of **_Research Account_** in section 3 of that Act were omitted; and
+                              (i)  the definition of **_Research Account_** in section 3 of that Act were omitted; and
 
-                             (ii)  sections 4, 5, 6 and 8 of that Act were repealed.
+                             (ii)  sections 4, 5, 6 and 8 of that Act were repealed.
 
 ##### <a id="154"></a>154  Other Trust Accounts
 
              (1)  Where:
 
-                     (a)  a Trust Account has been established under section 62A of the _Audit Act 1901_ for the purposes of funding research and development in relation to a primary industry or class of primary industries; and
+                     (a)  a Trust Account has been established under section 62A of the _Audit Act 1901_ for the purposes of funding research and development in relation to a primary industry or class of primary industries; and
 
                      (b)  an R&amp;D Corporation has been established for that primary industry or class of primary industries;
 
@@ -3158,7 +3212,7 @@ the Minister may make a determination, in writing, to the effect that:
 
                      (c)  amounts (if any) standing to the credit of the Account are payable to the Corporation; and
 
-                     (d)  the Account is to be taken to be closed under subsection 62A(4) of the _Audit Act 1901_;
+                     (d)  the Account is to be taken to be closed under subsection 62A(4) of the _Audit Act 1901_;
 
 and, where the Minister does so:
 
@@ -3170,7 +3224,7 @@ and, where the Minister does so:
 
              (2)  Where:
 
-                     (a)  a Trust Account has been established under section 62A of the _Audit Act 1901_ for the purposes of funding research and development in relation to more than one primary industry or class of primary industries; and
+                     (a)  a Trust Account has been established under section 62A of the _Audit Act 1901_ for the purposes of funding research and development in relation to more than one primary industry or class of primary industries; and
 
                      (b)  R&amp;D Corporations have been established for each of those primary industries or classes of primary industries;
 
@@ -3196,15 +3250,15 @@ and, where the Minister does so:
 
                      (b)  the Coal Research Trust Account is abolished under section 153;
 
-the Trust Account that, for the purposes of section 62A of the _Audit Act 1901_, constitutes the Research Fund or Coal Research Trust Account, as the case may be, is to be taken to have been closed under subsection 62A(4) of that Act.
+the Trust Account that, for the purposes of section 62A of the _Audit Act 1901_, constitutes the Research Fund or Coal Research Trust Account, as the case may be, is to be taken to have been closed under subsection 62A(4) of that Act.
 
-             (2)  Amounts payable to an R&amp;D Corporation under section 151, 153 or 154 are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
+             (2)  Amounts payable to an R&amp;D Corporation under section 151, 153 or 154 are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ##### <a id="156"></a>156  Abolition of Special Research Council and Special Research Fund
 
-             (1)  The _Rural Industries Research Act 1985_ is amended as set out in Part 1 of Schedule 1.
+             (1)  The _Rural Industries Research Act 1985_ is amended as set out in Part 1 of Schedule 1.
 
-             (2)  The Acts specified in Part 2 of Schedule 1 are amended as set out in that Part of that Schedule.
+             (2)  The Acts specified in Part 2 of Schedule 1 are amended as set out in that Part of that Schedule.
 
              (3)  On the commencement of this section:
 
@@ -3214,130 +3268,121 @@ the Trust Account that, for the purposes of section 62A of the _Audit Act 1901
 
                      (c)  any present and future liabilities of the Special Research Fund existing immediately before that commencement become liabilities of the RIR&amp;D Corporation; and
 
-                     (d)  the Trust Account that, for the purposes of section 62A of the _Audit Act 1901_, constitutes the Special Research Fund is to be taken to have been closed under subsection 62A(4) of that Act; and
+                     (d)  the Trust Account that, for the purposes of section 62A of the _Audit Act 1901_, constitutes the Special Research Fund is to be taken to have been closed under subsection 62A(4) of that Act; and
 
-                     (e)  if an amount was payable by the Commonwealth into the Special Research Fund under section 34 of the _Rural Industries Research Act 1985_ but has yet to be paid, the amount is payable to the RIR&amp;D Corporation.
+                     (e)  if an amount was payable by the Commonwealth into the Special Research Fund under section 34 of the _Rural Industries Research Act 1985_ but has yet to be paid, the amount is payable to the RIR&amp;D Corporation.
 
              (4)  Amounts payable to the RIR&amp;D Corporation under paragraph (3)(a) or (e) are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ##### <a id="157"></a>157  Amendments of other Acts 
 
-                   The Acts specified in Schedule 2 are amended as set out in that Schedule.
+                   The Acts specified in Schedule 2 are amended as set out in that Schedule.
 
- 
+<o:p> </o:p>
 
-# Schedule 1—Abolition of Special Research Council and Special Research Fund
 
-_Section 156_
+# Schedule 1—Abolition of Special Research Council and Special Research Fund
 
-## Part 1—Amendments of the Rural Industries Research Act 1985
+_Section 156_
 
-* * *
+## Part 1—Amendments of the Rural Industries Research Act 1985
 
-**Note:**
+<o:p></o:p>
 
-The amendments made by this Schedule are incorporated in the compilation on ComLaw.
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 1pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 2pt; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-_Rural Industries Research  Act 1985_\[repealed by Act No. 59, 1996, Sch. 1]
+**Note:<o:p></o:p>**
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 17, 1990.
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 
-* * *
+_Rural Industries Research  Act 1985_\[repealed by No. 59, 1996]
 
-## Part 2—Amendments of other Acts
+For access to the wording of the amendments made by this Schedule, click here [_Primary Industries and Energy Research and Development Act 1989_ No. 17, 1990].</div>
 
-* * *
+<o:p> </o:p>
 
-**Note:**
+## Part 2—Amendments of other Acts<o:p></o:p>
 
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 1pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-_Cotton Levy Collection Act 1982_\[incorrectly cited and repealed by No. 26, 1991, Sch. 2]
+**Note:<o:p></o:p>**
 
-_Dairy Produce Act 1986_
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 
-_Grain Legumes Levy Collection Act 1985_\[repealed by No. 26, 1991, Sch. 2]
-
-_Grape Research Levy Collection Act 1986_\[repealed by No. 26, 1991, Sch. 2]
-
-_Sugar Cane Levy Collection Act 1987_\[repealed by No. 26, 1991, Sch. 2]
-
-_Triticale Levy Collection Act 1988_\[repealed by No. 26, 1991, Sch. 2]
-
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 17, 1990.
-
-* * *
-
-# Schedule 2—Amendments of other Acts
-
-_Section 157_
-
-* * *
-
-**Note:**
-
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
-
-_Barley Research Levy Collection Act 1980_\[repealed by Act No. 26, 1991, Sch. 2]
-
-_Cotton Levy Collection Act 1982_\[repealed by Act No. 26, 1991, Sch. 2]
-
-_Dairying Industry Research and Promotion Levy Act 1972_
- repealed by Act No. 26, 1991, Sch. 2]
+_Cotton Levy Collection Act 1982_\[incorrectly cited and repealed by No. 26, 1991]
 
 _Dairy Produce Act 1986_
 
-_Dried Fruits Levy Act 1971_\[repealed by Act No. 32, 1999, Sch. 1]
+_Grain Legumes Levy Collection Act 1985_\[repealed by No. 26, 1991]
 
-_Egg Industry Research (Hen Quota) Levy Collection Act 1987_\[repealed by Act No. 26, 1991, Sch. 2]
+_Grape Research Levy Collection Act 1986_\[repealed by No. 26, 1991]
 
-_Grain Legumes Levy Collection Act 1985_\[repealed by Act No. 26, 1991, Sch. 2]
+_Sugar Cane Levy Collection Act 1987_\[repealed by No. 26, 1991]
 
-_Grape Research Levy Act 1986_ \[repealed by No. 32, 1999, Sch. 1]
+_Triticale Levy Collection Act 1988_\[repealed by No. 26, 1991]
 
-_Grape Research Levy Collection Act 1986_\[repealed by Act No. 26, 1991, Sch. 2]
+For access to the wording of the amendments made by this Schedule, click here [_Primary Industries and Energy Research and Development Act 1989_ No. 17, 1990].</div>
 
-_Honey Export Charge Act 1973_\[repealed by Act No. 32, 1999, Sch. 1]
+# Schedule 2—Amendments of other Acts
 
-_Honey Levy Act (No. 1) 1962_\[repealed by Act No. 32, 1999, Sch. 1]
+_Section 157_
 
-_Honey Levy Act (No. 2) 196_\[repealed by Act No. 32, 1999, Sch. 1]
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 1pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-_Laying Chicken Levy Collection Act 1988_\[repealed by Act No. 26, 1991, Sch. 2]
+**Note:<o:p></o:p>**
 
-_Meat Chicken Levy Act 1969_\[repealed by Act No. 32, 1999, Sch. 1]
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 
-_Oilseeds Levy Collection Act 1977_
- \[repealed by Act No. 26, 1991, Sch. 2]
+_Barley Research Levy Collection Act 1980_\[repealed by No. 26, 1991]
 
-_Pig Slaughter Levy Act 1971_\[repealed by Act No. 32, 1999, Sch. 1]
+_Cotton Levy Collection Act 1982_\[repealed by No. 26, 1991]
 
-_Poultry Industry Assistance Act 1965_\[repealed by Act No. 18, 1996, Sch. 8]
+_Dairying Industry Research and Promotion Levy Act 1972_\[repealed by No. 26, 1991]
 
-_Sugar Cane Levy Collection Act 1987_\[repealed by Act No. 26, 1991, Sch. 2]
+_Dairy Produce Act 1986_
 
-* * *
+_Dried Fruits Levy Act 1971_\[repealed by No. 32, 1999]
 
-* * *
+_Egg Industry Research (Hen Quota) Levy Collection Act 1987_\[repealed by No. 26, 1991]
 
-_Triticale Levy Collection Act 1988_ \[repealed by Act No. 26, 1991, Sch. 2]
+_Grain Legumes Levy Collection Act 1985_\[repealed by No. 26, 1991]
 
-_Wheat Industry Fund Levy Collection Act 1988_
- \[repealed by Act No. 26, 1991, Sch. 2] \[see Note 2]
+_Grape Research Levy Act 1986_\[repealed by No. 32, 1999]
 
-For access to the wording of the amendments made by this Schedule, see Act No. 17, 1990
+_Grape Research Levy Collection Act 1986_\[repealed by No. 26, 1991]
 
-* * *
+_Honey Export Charge Act 1973_\[repealed by No. 32, 1999]
 
-.
+_Honey Levy Act (No. 1) 1962_\[repealed by No. 32, 1999]
 
-# Notes to the _Primary Industries and Energy Research and Development Act 1989_
+_Honey Levy Act (No. 2) 1962_\[repealed by No. 32, 1999]
+
+_Laying Chicken Levy Collection Act 1988_\[repealed by No. 26, 1991]
+
+_Meat Chicken Levy Act 1969_\[repealed by No. 32, 1999]
+
+_Oilseeds Levy Collection Act 1977_\[repealed by No. 26, 1991]
+
+_Pig Slaughter Levy Act 1971_\[repealed by No. 32, 1999]
+
+_Poultry Industry Assistance Act 1965_\[repealed by No. 18, 1996]
+
+_Sugar Cane Levy Collection Act 1987_\[repealed by No. 26, 1991]
+
+_Triticale Levy Collection Act 1988_\[repealed by No. 26, 1991]
+
+_Wheat Industry Fund Levy Collection Act 1988_\[repealed by No. 26, 1991] [_see_ Note 2]</div>
+
+For access to the wording of the amendments made by this Schedule, click here [_Primary Industries and Energy Research and Development Act 1989_ No. 17, 1990].
+
+
+# Notes to the _<span style="mso-no-proof: yes">Primary Industries and Energy Research and Development Act 1989</span>_
 
 ### Note 1
 
-The _Primary Industries and Energy Research and Development Act 1989_ as shown in this compilation comprises Act No. 17, 1990 amended as indicated in the Tables below. 
+The _Primary Industries and Energy Research and Development Act 1989_ as shown in this compilation comprises Act No. 17, 1990 amended as indicated in the Tables below. 
 
-All relevant information pertaining to application, saving or transitional provisions prior to 14 May 1999 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="14" month="5">14 May 1999</st1:date> is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -3350,18 +3395,20 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="16%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td>
       <div>Act</div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -3370,476 +3417,472 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Research and Development Act 1989</div>
-  </td>
-  <td>
-    <div>17, 1990</div>
-  </td>
-  <td>
-    <div>17 Jan 1990</div>
-  </td>
-  <td>
-    <div>Ss. 9, 26(2), 31(2), 36(2), 39(2), 92–121, 156 and Schedule1: 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>134, 1990</div>
-  </td>
-  <td>
-    <div>28 Dec 1990</div>
-  </td>
-  <td>
-    <div>Part 7 (ss. 34–37): 1 Oct 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 36(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries Levies and Charges Collection (Consequential Provisions) Act 1991</div>
-  </td>
-  <td>
-    <div>26, 1991</div>
-  </td>
-  <td>
-    <div>1 Mar 1991</div>
-  </td>
-  <td>
-    <div>1 July 1991 
-( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>S. 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>31, 1991</div>
-  </td>
-  <td>
-    <div>20 Mar 1991</div>
-  </td>
-  <td>
-    <div>20 Mar 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Research and Development Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>109, 1991</div>
-  </td>
-  <td>
-    <div>27 June 1991</div>
-  </td>
-  <td>
-    <div>1 July 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries Legislation Amendment Act (No. 2) 1991</div>
-  </td>
-  <td>
-    <div>125, 1991</div>
-  </td>
-  <td>
-    <div>27 Aug 1991</div>
-  </td>
-  <td>
-    <div>Part 5 (ss. 10–12): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation (Consequential Provisions) Act 1991</div>
-  </td>
-  <td>
-    <div>163, 1991</div>
-  </td>
-  <td>
-    <div>10 Nov 1991</div>
-  </td>
-  <td>
-    <div>Ss. 3–22: 3 Feb 1992 ( <i>see Gazette</i>1992, No. GN1) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 25): 10 Nov 1991 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No.2) 1992</div>
-  </td>
-  <td>
-    <div>59, 1992</div>
-  </td>
-  <td>
-    <div>22 June 1992</div>
-  </td>
-  <td>
-    <div>22 June 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Wool Legislation (Repeals and Consequential Provisions) Act 1993</div>
-  </td>
-  <td>
-    <div>65, 1993</div>
-  </td>
-  <td>
-    <div>12 Nov 1993</div>
-  </td>
-  <td>
-    <div>1 Dec 1993 ( <i>see 
- </i>s. 2 and <i>Gazette</i>1993, No. GN46)</div>
-  </td>
-  <td>
-    <div>Ss. 31–42</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>94, 1993</div>
-  </td>
-  <td>
-    <div>16 Dec 1993</div>
-  </td>
-  <td>
-    <div>Parts 11 and 12 (ss. 47–65): 1 Jan 1994 
-S. 69(1)(b): 1 July 1989 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
-  </td>
-  <td>
-    <div>129, 1994</div>
-  </td>
-  <td>
-    <div>21 Oct 1994</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 88): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1997</div>
-  </td>
-  <td>
-    <div>22, 1997</div>
-  </td>
-  <td>
-    <div>7 Apr 1997</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 4): 17 Jan 1990 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1088–1096): 1 Jan 1998 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Wheat Marketing Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>194, 1997</div>
-  </td>
-  <td>
-    <div>8 Dec 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (Part 1 \[items 1–3]): Royal Assent <i>(g) 
- </i>Schedule 1 (Part 3 \[items 138, 139]):1 July 1999 <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
-  </td>
-  <td>
-    <div>102, 1998</div>
-  </td>
-  <td>
-    <div>30 July 1998</div>
-  </td>
-  <td>
-    <div>30 July 1998</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries Levies and Charges (Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>32, 1999</div>
-  </td>
-  <td>
-    <div>14 May 1999</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1–7): 1 July 1999 <i>(h) 
- </i>Schedule 3 (item 8): 1 Jan 2000</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 7, 8) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 110–113): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Research and Development Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>62, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>1 July 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 3, 6) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Plant Health Australia (Plant Industries) Funding Act 2002</div>
-  </td>
-  <td>
-    <div>80, 2002</div>
-  </td>
-  <td>
-    <div>8 Oct 2002</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Jan 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 151–156, 174): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 132–136) and Schedule 6 (items 5–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 
-5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Research and Development Act 1989</div>
+    </td>
+    <td>
+      <div>17, 1990</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="17" month="1">17 Jan 1990</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 9, 26(2), 31(2), 36(2), 39(2), 92–121, 156 and Schedule1: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="1" month="7">1 July 1990</st1:date> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>134, 1990</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="28" month="12">28 Dec 1990</st1:date></div>
+    </td>
+    <td>
+      <div>Part 7 (ss. 34–37): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="1" month="10">1 Oct 1990</st1:date> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 36(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries Levies and Charges Collection (Consequential Provisions) Act 1991</div>
+    </td>
+    <td>
+      <div>26, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="3">1 Mar 1991</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="7">1 July 1991</st1:date> 
+( <i style="mso-bidi-font-style: normal">see</i>s. 2) 
+</div>
+    </td>
+    <td>
+      <div>S. 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>31, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="20" month="3">20 Mar 1991</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="20" month="3">20 Mar 1991</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Research and Development Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>109, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="27" month="6">27 June 1991</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="7">1 July 1991</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries Legislation Amendment Act (No. 2) 1991</div>
+    </td>
+    <td>
+      <div>125, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="27" month="8">27 Aug 1991</st1:date></div>
+    </td>
+    <td>
+      <div>Part 5 (ss. 10–12): Royal Assent <i style="mso-bidi-font-style: normal">(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fisheries Legislation (Consequential Provisions) Act 1991</div>
+    </td>
+    <td>
+      <div>163, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="10" month="11">10 Nov 1991</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 3–22: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="3" month="2">3 Feb 1992</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1992, No. GN1) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="25" month="10">25 Oct 1996</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 25): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="10" month="11">10 Nov 1991</st1:date> <i style="mso-bidi-font-style: normal">(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No.2) 1992</div>
+    </td>
+    <td>
+      <div>59, 1992</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="22" month="6">22 June 1992</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="22" month="6">22 June 1992</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Wool Legislation (Repeals and Consequential Provisions) Act 1993</div>
+    </td>
+    <td>
+      <div>65, 1993</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="12" month="11">12 Nov 1993</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="1" month="12">1 Dec 1993</st1:date>( <i style="mso-bidi-font-style: normal">see 
 
-_(a)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Part 5 (sections 10–12) only of the _Primary Industries Legislation Amendment Act (No. 2) 1991_, subsection 2(1) of which provides as follows:
+ </i>s. 2 and <i style="mso-bidi-font-style: normal">Gazette</i>1993, No. GN46)</div>
+    </td>
+    <td>
+      <div>Ss. 31–42</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>94, 1993</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="16" month="12">16 Dec 1993</st1:date></div>
+    </td>
+    <td>
+      <div>Parts 11 and 12 (ss. 47–65): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="1" month="1">1 Jan 1994</st1:date> 
+S. 69(1)(b): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="1" month="7">1 July 1989</st1:date> 
+Remainder: Royal Assent 
 
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
+    </td>
+    <td>
+      <div>129, 1994</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="21" month="10">21 Oct 1994</st1:date></div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i style="mso-bidi-font-style: normal">(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="25" month="10">25 Oct 1996</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 88): <i style="mso-bidi-font-style: normal">(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1997</div>
+    </td>
+    <td>
+      <div>22, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="7" month="4">7 Apr 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 5 (item 4): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="17" month="1">17 Jan 1990</st1:date> <i style="mso-bidi-font-style: normal">(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1088–1096): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date> <i style="mso-bidi-font-style: normal">(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Wheat Marketing Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>194, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="8" month="12">8 Dec 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (Part 1 \[items 1–3]): Royal Assent <i style="mso-bidi-font-style: normal">(g) 
 
-_(b)_    The _Fisheries Legislation (Consequential Provisions) Act 1991_ was amended by Schedule 3 (item 25) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+ </i>Schedule 1 (Part 3 \[items 138, 139]): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date> <i style="mso-bidi-font-style: normal">(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
+    </td>
+    <td>
+      <div>102, 1998</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="30" month="7">30 July 1998</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="30" month="7">30 July 1998</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries Levies and Charges (Consequential Amendments) Act 1999</div>
+    </td>
+    <td>
+      <div>32, 1999</div>
+    </td>
+    <td>
+      <div>14 May 1999</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1–7): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date> <i style="mso-bidi-font-style: normal">(h) 
 
-                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+ </i>Schedule 3 (item 8): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="1">1 Jan 2000</st1:date></div>
+    </td>
+    <td>
+      <div>Sch. 3 (items 7, 8) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td>
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="24" month="11">24 Nov 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 10 (items 110–113): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="13" month="3">13 Mar 2000</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>2000, No. S114) <i style="mso-bidi-font-style: normal">(i)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Research and Development Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>62, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="28" month="6">28 June 2001</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="7">1 July 2001</st1:date></div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 3, 6) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Plant Health <st1:country-region> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place> </st1:country-region>(Plant Industries) Funding Act 2002</div>
+    </td>
+    <td>
+      <div>80, 2002</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="8" month="10">8 Oct 2002</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="1">1 Jan 2003</st1:date> <o:p></o:p> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 151–156, 174): Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 174) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(c)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No 2) 1994_, subsection 2(1) of which provides as follows:
+
+_(a)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Part 5 (sections 10–12) only of the _Primary Industries Legislation Amendment Act (No. 2) 1991_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+
+_(b)_    The _Fisheries Legislation (Consequential Provisions) Act 1991_ was amended by Schedule 3 (item 25) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+
+                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+
+_(c)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No 2) 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 2 (item 88) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+_(d)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 2 (item 88) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
 
-                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
- Item 88 is taken to have commenced immediately after the commencement of section 20 of the _Fisheries Legislation (Consequential Provisions) Act 1991_.
+ Item 88 is taken to have commenced immediately after the commencement of section 20 of the _Fisheries Legislation (Consequential Provisions) Act 1991_.
 
- Section 20 commenced on 3 February 1992 (_see Gazette_ 1992, No. GN1). 
+ Section 20 commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="3" month="2">3 February 1992</st1:date> (_see Gazette_ 1992, No. GN1). 
 
-_(e)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 5 (item 4) only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1997_, subsection 2(4) of which provides as follows:
+_(e)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 5 (item 4) only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1997_, subsection 2(4) of which provides as follows:
 
-                 (4)   Items 4 of Schedule 5 is taken to have commenced on the day on which the _Primary Industries and Energy Research and Development Act 1989_ received the Royal Assent.
+                 (4)   Items 4 of Schedule 5 is taken to have commenced on the day on which the _Primary Industries and Energy Research and Development Act 1989_ received the Royal Assent.
 
- The _Primary Industries and Energy Research and Development Act 1989_ received the Royal Assent on 17 January 1990.
+ The _Primary Industries and Energy Research and Development Act 1989_ received the Royal Assent on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="17" month="1">17 January 1990</st1:date>.
 
-_(f)_      The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 2 (items 1088–1096) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997,_ subsection 2(2) of which provides as follows:
+_(f)_      The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 2 (items 1088–1096) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997,_ subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(g)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 1 (Part 1 \[items 1–3] and Part 3 \[items 138, 139]) only of the _Wheat Marketing Amendment Act 1997_ subsections 2(1) and (5) of which provide as follows:
+_(g)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 1 (Part 1 \[items 1–3] and Part 3 \[items 138, 139]) only of the _Wheat Marketing Amendment Act 1997_ subsections 2(1) and (5) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                 (5)   Part 3 of Schedule 1 commences on 1 July 1999.
+                 (5)   Part 3 of Schedule 1 commences on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date>.
 
-_(h)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 3 (items 1–6) only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(h)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 3 (items 1–6) only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                 (1)   Subject to this section, this Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
+                 (1)   Subject to this section, this Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
 
-                 (2)   The following provisions commence on 1 January 2000:
+                 (2)   The following provisions commence on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="1">1 January 2000</st1:date>:
 
-                              (c)   Part 3 of Schedule 3; 
+                              (c)   Part 3 of Schedule 3; 
 
-_(i)_      The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 10 (items 110–113) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(i)_      The _Primary Industries and Energy Research and Development Act 1989_ was amended by Schedule 10 (items 110–113) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-                              (c)   the items in Schedules 10, 11 and 12\. 
+                              (c)   the items in Schedules 10, 11 and 12\. 
+
+<o:p> </o:p>
+
 
 ## Table of Amendments
 
@@ -3849,748 +3892,745 @@ _(i)_      The _Primary Industries and Energy Research and Development
   <col width="66%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 134, 1990; Nos. 109 and 163, 1991; No. 59, 1992; Nos. 65 and 94, 1993; No. 194, 1997; No. 32, 1999; No. 8, 2005; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 134, 1990; No. 194, 1997; No. 32, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S.12</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16, 17</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1991; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 31, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 163, 1991 (as am. by No. 43, 1996); No. 94, 1993; No. 32, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 31, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1993; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 31, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. Nos. 109 and 163, 1991; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 30(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30A</div>
-  </td>
-  <td>
-    <div>ad. No. 163, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 129, 1994; No. 102, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30B</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 134, 1990; No. 94, 1993; No. 32, 1999; No. 62, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1993; No. 62, 2001; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33A</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 32, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 163, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 163, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 163, 1991; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 41–43</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46A</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>rs. No. 109, 1991; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1991; No. 59, 1992; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1991; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1991; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1992; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1991; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 9 of Part 2</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1991; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>rs. No. 109, 1991; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 102, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 77, 78</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 102, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1991; No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89A</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 89B, 89C</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>am. No. 102, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101</div>
-  </td>
-  <td>
-    <div>am. No. 31, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>am. No. 31, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 108(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110</div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116</div>
-  </td>
-  <td>
-    <div>am. No. 163, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 138</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 138</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 141</div>
-  </td>
-  <td>
-    <div>am. No. 31, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 142</div>
-  </td>
-  <td>
-    <div>am. No. 31, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 147A</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1997</div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3 </div>
+    </td>
+    <td>
+      <div>am. No. 94, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4 </div>
+    </td>
+    <td>
+      <div>am. No. 134, 1990; Nos. 109 and 163, 1991; No. 59, 1992; Nos. 65 and 94, 1993; No. 194, 1997; No. 32, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5 </div>
+    </td>
+    <td>
+      <div>am. No. 134, 1990; No. 194, 1997; No. 32, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 10 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S.12 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 16, 17 </div>
+    </td>
+    <td>
+      <div>am. No. 109, 1991; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20 </div>
+    </td>
+    <td>
+      <div>am. No. 31, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 1991 (as am. by No. 43, 1996); No. 94, 1993; No. 32, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26 </div>
+    </td>
+    <td>
+      <div>am. No. 31, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 4 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28 </div>
+    </td>
+    <td>
+      <div>am. No. 94, 1993; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29 </div>
+    </td>
+    <td>
+      <div>am. No. 31, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 5 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30 </div>
+    </td>
+    <td>
+      <div>am. Nos. 109 and 163, 1991; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 30(1) </div>
+    </td>
+    <td>
+      <div>ad. No. 80, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30A </div>
+    </td>
+    <td>
+      <div>ad. No. 163, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 129, 1994; No. 102, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30B </div>
+    </td>
+    <td>
+      <div>ad. No. 109, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 125, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31 </div>
+    </td>
+    <td>
+      <div>am. No. 134, 1990; No. 94, 1993; No. 32, 1999; No. 62, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32 </div>
+    </td>
+    <td>
+      <div>am. No. 94, 1993; No. 62, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33 </div>
+    </td>
+    <td>
+      <div>am. No. 94, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33A </div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 32, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 1991; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 41–43 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46A </div>
+    </td>
+    <td>
+      <div>ad. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 6 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54 </div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 7 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56 </div>
+    </td>
+    <td>
+      <div>rs. No. 109, 1991; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 57 </div>
+    </td>
+    <td>
+      <div>am. No. 109, 1991; No. 59, 1992; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58 </div>
+    </td>
+    <td>
+      <div>am. No. 109, 1991; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 60 </div>
+    </td>
+    <td>
+      <div>am. No. 109, 1991; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61 </div>
+    </td>
+    <td>
+      <div>am. No. 59, 1992; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64 </div>
+    </td>
+    <td>
+      <div>am. No. 109, 1991; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 8 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66 </div>
+    </td>
+    <td>
+      <div>am. No. 109, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 9 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 9 of Part 2 </div>
+    </td>
+    <td>
+      <div>am. No. 109, 1991; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 75 </div>
+    </td>
+    <td>
+      <div>rs. No. 109, 1991; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 81 </div>
+    </td>
+    <td>
+      <div>am. No. 102, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 77, 78 </div>
+    </td>
+    <td>
+      <div>am. No. 109, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 85 </div>
+    </td>
+    <td>
+      <div>am. No. 102, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 10 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 87 </div>
+    </td>
+    <td>
+      <div>am. No. 109, 1991; No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 11 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 89A </div>
+    </td>
+    <td>
+      <div>ad. No. 109, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 89B, 89C </div>
+    </td>
+    <td>
+      <div>ad. No. 125, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 90 </div>
+    </td>
+    <td>
+      <div>am. No. 102, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98 </div>
+    </td>
+    <td>
+      <div>am. No. 94, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 100 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 101 </div>
+    </td>
+    <td>
+      <div>am. No. 31, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 103 </div>
+    </td>
+    <td>
+      <div>am. No. 31, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 5 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 108(1) </div>
+    </td>
+    <td>
+      <div>ad. No. 80, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 116 </div>
+    </td>
+    <td>
+      <div>am. No. 163, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 4 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 131 </div>
+    </td>
+    <td>
+      <div>am. No. 94, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 4 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 138 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 138 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 141 </div>
+    </td>
+    <td>
+      <div>am. No. 31, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 5 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 142 </div>
+    </td>
+    <td>
+      <div>am. No. 31, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 147A </div>
+    </td>
+    <td>
+      <div>ad. No. 109, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Schedule 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 2 </div>
+    </td>
+    <td>
+      <div>am. No. 22, 1997</div>
+    </td>
+  </tr>
+</tbody></table>
+
+<o:p> </o:p>
+
 
 ### Note 2
 
-Section 35—Section 3 of the _Primary Industries Levies and Charges Collection (Consequential Provisions) Act 1991_ provides as follows:
+Section 35—Section 3 of the _Primary Industries Levies and Charges Collection (Consequential Provisions) Act 1991_ provides as follows:
 
-<h9 class="ActHead9">Primary Industries and Energy Research and Development Act 1990</h9>
+Primary Industries and Energy Research and Development Act 1990
 
-## Section 35:
+## Section 35:
 
 Repeal the section.
 
 The _Primary Industries and Energy Research and Development Act 1989_ was cited incorrectly and the proposed amendment is not incorporated in this compilation.
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Primary Industries Levies and Charges (Consequential Amendments) Act 1999 
- (No. 32, 1999)_
+(No. 32, 1999)
+_
 
-## Schedule 3
+## Schedule 3
 
 ## 7  Transitional—regulations
 
 Unless the contrary intention appears, regulations made for the purposes of the _Primary Industries and Energy Research and Development Act 1989_ apply, in relation to:
 
-                     (a)  a charge imposed by any of Schedules 1 to 13 to the _Primary Industries (Customs) Charges Act 1999_; or
+                     (a)  a charge imposed by any of Schedules 1 to 13 to the _Primary Industries (Customs) Charges Act 1999_; or
 
-                     (b)  a levy imposed by any of Schedules 1 to 25 to the _Primary Industries (Excise) Levies Act 1999_;
+                     (b)  a levy imposed by any of Schedules 1 to 25 to the _Primary Industries (Excise) Levies Act 1999_;
 
 in a corresponding way to the way in which those regulations apply in relation to:
 
-                     (c)  in the case of a charge (other than charge imposed by Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_)—the corresponding charge imposed by an Act repealed by Part 1 of Schedule 1 to this Act; or
+                     (c)  in the case of a charge (other than charge imposed by Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_)—the corresponding charge imposed by an Act repealed by Part 1 of Schedule 1 to this Act; or
 
-                     (d)  in the case of a charge imposed by Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_—the corresponding levy imposed by the repealed _Dairy Produce Levy (No. 2) Act 1986_; or
+                     (d)  in the case of a charge imposed by Schedule 4 to the _Primary Industries (Customs) Charges Act 1999_—the corresponding levy imposed by the repealed _Dairy Produce Levy (No. 2) Act 1986_; or
 
-                     (e)  in the case of a levy—the corresponding levy imposed by an Act repealed by Part 1 of Schedule 1 to this Act.
+                     (e)  in the case of a levy—the corresponding levy imposed by an Act repealed by Part 1 of Schedule 1 to this Act.
 
 ## 8  Transitional—regulations
 
-Unless the contrary intention appears, regulations made for the purposes of the _Primary Industries and Energy Research and Development Act 1989_ apply, in relation to levy imposed by Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_, in a corresponding way to the way in which those regulations apply in relation to levy imposed by the repealed _Wine Grapes Levy Act 1979_.
+Unless the contrary intention appears, regulations made for the purposes of the _Primary Industries and Energy Research and Development Act 1989_ apply, in relation to levy imposed by Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_, in a corresponding way to the way in which those regulations apply in relation to levy imposed by the repealed _Wine Grapes Levy Act 1979_.
 
 * * *
 
-_Primary Industries and Energy Research and Development Amendment Act 2001 (No. 62, 2001)_
+_Primary Industries and Energy Research and Development Amendment Act 2001 (No. 62, 2001)_
 
-## Schedule 1
+## Schedule 1
 
 ## 3  Saving
 
@@ -4598,13 +4638,13 @@ The amendments of section 31 of the _Primary Industries and Energy Research an
 
 ## 6  Application
 
-The amendments of section 32 of the _Primary Industries and Energy Research and Development Act 1989_ by this Schedule apply to each financial year starting on or after 1 July 2001.
+The amendments of section 32 of the _Primary Industries and Energy Research and Development Act 1989_ by this Schedule apply to each financial year starting on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="7">1 July 2001</st1:date>.
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
-## Schedule 2
+## Schedule 2<o:p></o:p>
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
@@ -4624,81 +4664,5 @@ continues to have effect after the commencing time as if it had been done by the
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
-* * *
 
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 5  Application of Schedule 5 amendments
-
-The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
- 
-
- 
+<o:p> </o:p>
