@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00059/Html/5a628da0-e4ac-4756-9278-03829106401c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00320/Html/MatLveCwlthEmploy73_image001.gif)
 
 # Maternity Leave (Commonwealth Employees) Act 1973
 
 **Act No. 72 of 1973 as amended**
 
-This compilation was prepared on 8 February 2010
+This compilation was prepared on 15 July 2009
  taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -80,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="prescrib-author"></a>**_prescribed authority_** means:
 
-                     (a)  a body corporate (other than an incorporated company, society or association) that is incorporated for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern Territory) and is declared by the regulations to be a body corporate in relation to which this Act applies;
+                     (a)  a body corporate (other than an incorporated company, society or association) that is incorporated for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern   Territory) and is declared by the regulations to be a body corporate in relation to which this Act applies;
 
                      (b)  an unincorporated body that is established for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern Territory) and is declared by the regulations to be an unincorporated body in relation to which this Act applies; or
 
@@ -106,13 +106,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  a person who is employed by the Commonwealth under the _Public Service Act 1999_; and
 
-                     (b)  such other persons employed by the Commonwealth, and such persons employed by a prescribed authority, whether so employed under a law of the Commonwealth or of a Territory (other than an enactment as defined by section 3 of the _Australian Capital Territory (Self‑Government) Act 1988_ or a law of the Northern Territory) or under a contract of service or apprenticeship, as are prescribed.
+                     (b)  such other persons employed by the Commonwealth, and such persons employed by a prescribed authority, whether so employed under a law of the Commonwealth or of a Territory (other than an enactment as defined by section 3 of the _Australian Capital Territory (Self-Government) Act 1988_ or a law of the Northern Territory) or under a contract of service or apprenticeship, as are prescribed.
 
              (2)  Without limiting by implication the generality of subsection (1), but subject to subsection (3):
 
                      (a)  a member of the Australian Federal Police;
 
-                     (b)  a person who is the holder of an office that is established by a law of the Commonwealth or of a Territory (other than an enactment as defined by section 3 of the _Australian Capital Territory (Self‑Government) Act 1988_ or a law of the Northern Territory); and
+                     (b)  a person who is the holder of an office that is established by a law of the Commonwealth or of a Territory (other than an enactment as defined by section 3 of the _Australian Capital Territory (Self-Government) Act 1988_ or a law of the Northern Territory); and
 
                      (c)  a person who constitutes, or is a member of, a prescribed authority;
 
@@ -122,11 +122,11 @@ shall, for the purposes of this Act, be deemed to be employed by the Commonwealt
 
                      (a)  a member of the Parliament or a Minister of State;
 
-                    (aa)  a person who holds an office defined by section 73 of the _Australian Capital Territory (Self‑Government) Act 1988_ or an office established by or under an enactment as defined by section 3 of that Act;
+                    (aa)  a person who holds an office defined by section 73 of the _Australian Capital Territory (Self-Government) Act 1988_ or an office established by or under an enactment as defined by section 3 of that Act;
 
                      (b)  a person who is a Judge as defined by section 4 of the _Judges’ Pensions Act 1968_;
 
-                   (ba)  a person who is a Federal Magistrate;
+                    (ba)  a person who is a Federal Magistrate;
 
                      (c)  a member of the Defence Force;
 
@@ -208,13 +208,13 @@ shall, for the purposes of this Act, be deemed to be employed by the Commonwealt
 
                      (a)  the other provisions of this Act do not apply to her in connection with her expected confinement, or with her confinement, as the case may be;
 
-                     (b)  she shall absent herself from duty during that first‑mentioned period, but, subject to subsection (4D), is not entitled to pay in respect of the period while she is so absent; and
+                     (b)  she shall absent herself from duty during that first-mentioned period, but, subject to subsection (4D), is not entitled to pay in respect of the period while she is so absent; and
 
-                     (c)  if, upon the expiration of that first‑mentioned period, she remains absent from duty on unauthorized absence, her unauthorized absence before the commencement of that period shall be deemed to be continuous with her unauthorized absence after the expiration of that period.
+                     (c)  if, upon the expiration of that first-mentioned period, she remains absent from duty on unauthorized absence, her unauthorized absence before the commencement of that period shall be deemed to be continuous with her unauthorized absence after the expiration of that period.
 
           (4D)  Subsection (4C) does not affect an employee’s entitlement to pay for any period of long service leave or leave of absence for recreation or on account of illness that is granted to her.
 
-          (4E)  Where a female employee who is granted leave of absence without pay has become pregnant before, or becomes pregnant after, the commencement of that leave, her absence from duty in accordance with the grant during any part of the period of 52 weeks commencing 6 weeks before the expected birth of her child or, if she is confined earlier than 6 weeks before the expected birth of her child, commencing on the date of her confinement, shall be deemed, for the purposes of paragraph (1)(c) and subsection (3), to be absence from duty in accordance with a permission granted under paragraph (1)(a).
+           (4E)  Where a female employee who is granted leave of absence without pay has become pregnant before, or becomes pregnant after, the commencement of that leave, her absence from duty in accordance with the grant during any part of the period of 52 weeks commencing 6 weeks before the expected birth of her child or, if she is confined earlier than 6 weeks before the expected birth of her child, commencing on the date of her confinement, shall be deemed, for the purposes of paragraph (1)(c) and subsection (3), to be absence from duty in accordance with a permission granted under paragraph (1)(a).
 
            (4F)  Notwithstanding subsection (4E), where a female employee who is granted leave of absence from her employment without pay for a period (in this subsection referred to as **_the relevant period_**), being a period exceeding 6 weeks, has become pregnant before, or becomes pregnant after, the commencement of that leave, unless the Agency Head otherwise determines:
 
@@ -342,7 +342,7 @@ that authority shall give to the woman preference over all other persons (other 
 
 ##### <a id="15"></a>15  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # Notes to the _Maternity Leave (Commonwealth Employees) Act 1973_
 
@@ -352,11 +352,9 @@ The _Maternity Leave (Commonwealth Employees) Act 1973_ as shown in this compila
 
 The _Maternity Leave (Commonwealth Employees) Act 1973_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendment is incorporated in this compilation.
 
-The _Maternity Leave (Commonwealth Employees) Act 1973_ was amended by the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ (No. 54, 2009) as amended by the _Fair Work (State Referral and Consequential and Other Amendments) Regulations 2009_ (SLI 2009 No. 165 as amended by SLI 2009 No. 364). The amendment is incorporated in this compilation.
+The _Maternity Leave (Commonwealth Employees) Act 1973_ was modified by the _A.C.T. Self-Government (Consequential Provisions) Act 1988_ (No. 109, 1988), _see_ Table B.
 
-The _Maternity Leave (Commonwealth Employees) Act 1973_ was modified by the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_ (No. 109, 1988), _see_ Table B.
-
-The _Maternity Leave (Commonwealth Employees) Act 1973_ is affected by sections 39 and 40 of the _CSL Sale Act 1993_ and sections 26–28 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
+The _Maternity Leave (Commonwealth Employees) Act 1973_ is affected by sections 39 and 40 of the _CSL__Sale__Act 1993_ and sections 26–28 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 6 December 1988 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -446,7 +444,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -456,7 +454,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 24: 11 May 1989 ( <i>see Gazette</i>1989, No. S164) 
-S. 32: <i>(a)</i></div>
+S. 32 : <i>(a)</i></div>
   </td>
   <td>
     <div>S. 24 \[ <i>see</i>Table A]</div>
@@ -545,7 +543,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent 
-Parts 9–11 (ss. 
+Parts 9-11 (ss. 
 34–40): 18 Feb 1991 
 Remainder: 21 Jan 1993</div>
   </td>
@@ -586,7 +584,7 @@ Remainder: 19 Jan 1994</div>
   </td>
   <td>
     <div>Schedule 2 (item 72): <i>(b)</i> 
-Schedule 5 (items 80–83): Royal Assent <i>(b)</i></div>
+Schedule 5 (items 80-83): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -691,15 +689,15 @@ Schedule 5 (items 80–83): Royal Assent <i>(b)</i></div>
     <div>Schedule 8 (item 101): <i>(g)</i></div>
   </td>
   <td>
-    <div>Sch. 8 (item 159A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 6]) \[ <i>see</i>Note 1 and Table A]</div>
+    <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     The _Maternity Leave (Commonwealth Employees) Act 1973_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+_(a)_     The _Maternity Leave (Commonwealth Employees) Act 1973_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
-         Section 21 of the _Australian Capital   Territory Government Service (Consequential Provisions) Act 1994_ provides as follows:
+         Section 21 of the _Australian Capital   Territory__Government Service (Consequential Provisions) Act 1994_ provides as follows:
 
     21(1)   Items in Schedule 5 to the Principal Act, as amended by this Act, that have not commenced under section 2 of the Principal Act commence immediately after the commencement of this Act.
 
@@ -707,7 +705,7 @@ _(a)_     The _Maternity Leave (Commonwealth Employees) Act 1973_ was am
 
          The _Australian Capital Territory__Government Service (Consequential Provisions) Act 1994_ came into operation on 1 July 1994 (_see Gazette_ 1994, No. S256).
 
-_(b)_     The _Maternity Leave (Commonwealth Employees) Act 1973_ was amended by Schedule 2 (item 72) and Schedule 5 (items 80–83) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Maternity Leave (Commonwealth Employees) Act 1973_ was amended by Schedule 2 (item 72) and Schedule 5 (items 80–83) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -817,7 +815,7 @@ _(g)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -1031,7 +1029,7 @@ _(g)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 
 ## Table A
 
-_A.C.T. Self‑Government (Consequential Provisions) Act 1988 (No. 109, 1988)_
+_A.C.T. Self-Government (Consequential Provisions) Act 1988 (No. 109, 1988)_
 
 ## 24  Transitional application of Maternity Leave (Commonwealth Employees) Act
 
@@ -1059,33 +1057,23 @@ _A.C.T. Self‑Government (Consequential Provisions) Act 1988 (No. 109, 1988)_
 
              (3)  Decisions for the purposes of the Act made in relation to Territory staff by the Public Service Commissioner that were in effect at the commencement of this section continue in effect as if made by the Head of Administration.
 
-* * *
-
-_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
-
-## Schedule 8
-
-## 159A  Application of Maternity Leave (Commonwealth Employees) Act 1973—item 101
-
-Section 8 of the _Maternity Leave (Commonwealth Employees) Act 1973_ applies as if a reference in that section to section 84 of the _Fair Work Act 2009_ includes a reference to sections 280 and 281 of the _Workplace Relations Act 1996_, to the extent that those sections continue to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
 ## Table B
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Act 1988 (No. 109, 1988)_
+_A.C.T. Self-Government (Consequential Provisions) Act 1988 (No. 109, 1988)_
 
 ## After subsection 3(1):
 
 Insert the following subsection:
 
-          (1A)  References in this Act to the Public Service Board or to the Public Service Commissioner shall be read as references to the Head of Administration as defined by section 3 of the Self‑Government Act.
+          (1A)  References in this Act to the Public Service Board or to the Public Service Commissioner shall be read as references to the Head of Administration as defined by section 3 of the Self-Government Act.
 
 ## Subsection 3(1):
 
 Insert the following definition:
 
-                    <a name="self-govern-act"></a>**_Self‑Government Act_** means the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                    <a name="self-govern-act"></a>**_Self-Government Act_** means the _Australian   Capital Territory__(Self-Government) Act 1988_.
 
 ## Paragraph 5(1)(a):
 
@@ -1103,15 +1091,15 @@ Omit the subsection.
 
 Insert the following paragraph:
 
-           (ab)  a member of the Legislative Assembly for the Australian Capital Territory or a Minister as defined by section 3 of the Self‑Government Act;
+           (ab)  a member of the Legislative Assembly for the Australian Capital Territory or a Minister as defined by section 3 of the Self-Government Act;
 
 ## Section 7B:
 
-After “other Act” (wherever occurring) insert “, or other enactment as defined by section 3 of the Self‑Government Act”.
+After “other Act” (wherever occurring) insert “, or other enactment as defined by section 3 of the Self-Government Act”.
 
 ## Paragraph 8(1)(a):
 
-Omit “a Department of the Public Service of the Commonwealth”, substitute “the branch of the Australian Public Service comprising transitional staff as defined by section 3 of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.”.
+Omit “a Department of the Public Service of the Commonwealth”, substitute “the branch of the Australian Public Service comprising transitional staff as defined by section 3 of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.”.
 
 ## Subsection 8(3):
 
