@@ -1,14 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2010C00546/Html/AgVetChemAdmin1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00385/Html/AgVetChemAdmin1992_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals (Administration) Act 1992
 
 **Act No. 262 of 1992 as amended**
 
-This compilation was prepared on 2 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 7 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+The text of any of those amendments not in force on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
@@ -1050,7 +1049,7 @@ under which the Government, authority, organisation or person may make officers 
 
              (2)  A corporate plan is to relate to a period beginning on the 1 July immediately following the end of the period to which the previous plan related.
 
-##### <a id="51"></a>51  Approval of corporate plan
+##### <a id="51"></a>51  Approval of corporate plan
 
              (1)  The APVMA must give a copy of the corporate plan to the Minister for approval on or before:
 
@@ -1546,7 +1545,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ### Division 3—Powers of entry, search and seizure
 
-##### <a id="69EB"></a>69EB  Searches to monitor compliance with Part
+##### <a id="69EB"></a>69EB  Searches to monitor compliance with Part
 
              (1)  Subject to this section, to the extent that it is reasonably necessary to do so for the purpose of finding out whether this Part has been complied with, an inspector, with any necessary help, may enter, at any time during ordinary working hours on any day, any premises that the inspector has reasonable cause to believe are premises at which active constituents for proposed or existing chemical products, or chemical products, or records relating to any such constituents or products, are kept and may do any one or more of the following:
 
@@ -2276,7 +2275,7 @@ then, to the extent to which the proceedings so relate, they may be continued by
 
 ##### <a id="80"></a>80  Delegations
 
-                   A delegation made by the Australian Agricultural and Veterinary Chemicals Council to a person of all or any of its powers or functions under the _Agricultural and Veterinary Chemicals Act 1988_ that was in force immediately before the commencement of this Act is taken to be a delegation duly made by the APVMA to that person under section 11 of this Act of the corresponding powers or functions of the APVMA.
+                   A delegation made by the Australian Agricultural and Veterinary Chemicals Council to a person of all or any of its powers or functions under the _Agricultural and Veterinary Chemicals Act 1988_ that was in force immediately before the commencement of this Act is taken to be a delegation duly made by the APVMA to that person under section 11 of this Act of the corresponding powers or functions of the APVMA.
 
 # Notes to the _Agricultural and Veterinary Chemicals (Administration) Act 1992_
 
@@ -2561,181 +2560,166 @@ Remainder: 24 May 2001</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>115, 2001</div>
-  </td>
-  <td>
-    <div>18 Sept 2001</div>
-  </td>
-  <td>
-    <div>16 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>13, 2003</div>
-  </td>
-  <td>
-    <div>8 Apr 2003</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedules 1, 2 and 3: 8 October 2003 
+<thead>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>115, 2001</div>
+    </td>
+    <td>
+      <div>18 Sept 2001</div>
+    </td>
+    <td>
+      <div>16 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>13, 2003</div>
+    </td>
+    <td>
+      <div>8 Apr 2003</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedules 1, 2 and 3: 8 October 2003 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 6, 8)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals (Administration) Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>12, 2004</div>
-  </td>
-  <td>
-    <div>11 Mar 2004</div>
-  </td>
-  <td>
-    <div>12 Mar 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004</div>
-  </td>
-  <td>
-    <div>79, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 7–131): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>US Free Trade Agreement Implementation Act 2004</div>
-  </td>
-  <td>
-    <div>120, 2004</div>
-  </td>
-  <td>
-    <div>16 Aug 2004</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 2): 1 Jan 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4, Schedule 1 (items 72, 73, 496) and Schedule 2 (items 13–20, 174): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4, Sch. 1 (item 496) and Sch. 2 (item 174)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005</div>
-  </td>
-  <td>
-    <div>42, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 41, 42): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals (Administration) Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>90, 2007</div>
-  </td>
-  <td>
-    <div>22 June 2007</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 1 July 2007 
+    </td>
+    <td>
+      <div>Sch. 2 (items 6, 8)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals (Administration) Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>12, 2004</div>
+    </td>
+    <td>
+      <div>11 Mar 2004</div>
+    </td>
+    <td>
+      <div>12 Mar 2004</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004</div>
+    </td>
+    <td>
+      <div>79, 2004</div>
+    </td>
+    <td>
+      <div>23 June 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 7–131): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>US Free Trade Agreement Implementation Act 2004</div>
+    </td>
+    <td>
+      <div>120, 2004</div>
+    </td>
+    <td>
+      <div>16 Aug 2004</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 2): 1 Jan 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4, Schedule 1 (items 72, 73, 496) and Schedule 2 (items 13–20, 174): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4, Sch. 1 (item 496) and Sch. 2 (item 174)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005</div>
+    </td>
+    <td>
+      <div>42, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 41, 42): Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals (Administration) Amendment Act 2007</div>
+    </td>
+    <td>
+      <div>90, 2007</div>
+    </td>
+    <td>
+      <div>22 June 2007</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 2: 1 July 2007 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 
+    </td>
+    <td>
+      <div>Sch. 2 (items 
 1–21)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 4): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 152): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2008</div>
+    </td>
+    <td>
+      <div>73, 2008</div>
+    </td>
+    <td>
+      <div>3 June 2008</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 4): <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</thead></table>
 
-_(a)_    The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by section 11 only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
+_(a)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by section 11 only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
 
                  (3)   The amendment of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_ made by the Schedule commences or is taken to have commenced immediately after the commencement of the _Agricultural and Veterinary Chemicals (Consequential Amendments) Act 1994_.
 
@@ -4744,20 +4728,6 @@ _(g)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
   </td>
 </tr></table>
 
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 (No. 103, 2010)_
-
-The following amendment commences on the start of 1 January 2011:
-
-## Schedule 6
-
-## 152  Subsection 69H(3)
-
-Omit “section 75AL of the _Trade Practices Act 1974_”, substitute “section 148 of Schedule 2 to the _Competition and Consumer Act 2010_, as that section applies as a law of the Commonwealth”.
-
-As at 2 August 2010 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5041,7 +5011,7 @@ A determination under this subitem has effect accordingly.
 
 (6)        A determination made under subitem (3) is not a legislative instrument.
 
-## 12  References in instruments
+## 12  References in instruments
 
 (1)        If:
 
