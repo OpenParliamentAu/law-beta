@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image001.gif)
 
-# Clean Energy (Household Assistance Amendments) Act 2011
+# **Clean Energy (Household Assistance Amendments) Act 2011** 
 
 **Act No. 141 of 2011 as amended**
 
-This compilation was prepared on 1 January 2013
- taking into account amendments up to Act No. 98 of 2012
+This compilation was prepared on 15 May 2012
+ taking into account amendments up to Act No. 12 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -79,7 +80,7 @@ Part 1—Clean energy advances for individuals          �
 
 A New Tax System (Family Assistance) Act 1999                                                53
 
-A New Tax System (Family Assistance) (Administration) Act 1999                 63
+A New Tax System (Family Assistance) (Administration) Act 1999                 62
 
 Part 2—Clean energy supplement for individuals                                        67
 
@@ -149,35 +150,35 @@ Social Security (Administration) Act 1999             
 
 Part 2—Application and transitional provisions                                          158
 
-Part 3—Other amendments                                                                                    160
+Part 3—Other amendments                                                                                    159
 
-Income Tax Assessment Act 1936                                                                          160
+Income Tax Assessment Act 1936                                                                          159
 
-Taxation Administration Act 1953                                                                       160
+Taxation Administration Act 1953                                                                       159
 
 **Schedule 7—Essential medical equipment payment** 
 
-Part 1—Amendment of the social security law                                           161
+Part 1—Amendment of the social security law                                           160
 
-Social Security Act 1991                                                                                        161
+Social Security Act 1991                                                                                        160
 
-Social Security (Administration) Act 1999                                                         168
+Social Security (Administration) Act 1999                                                         167
 
-Part 2—Amendment of the Veterans’ Entitlements Act                        169
+Part 2—Amendment of the Veterans’ Entitlements Act                        168
 
-Veterans’ Entitlements Act 1986                                                                          169
+Veterans’ Entitlements Act 1986                                                                          168
 
-Part 3—Application and transitional provisions                                          186
+Part 3—Application and transitional provisions                                          185
 
 **Schedule 8—Single income family supplement** 
 
-A New Tax System (Family Assistance) Act 1999                                              187
+A New Tax System (Family Assistance) Act 1999                                              186
 
-A New Tax System (Family Assistance) (Administration) Act 1999               197
+A New Tax System (Family Assistance) (Administration) Act 1999               196
 
 **Schedule 9—Aged care amendments** 
 
-Aged Care Act 1997                                                                                                215
+Aged Care Act 1997                                                                                                214
 
 **Schedule 10—Other amendments** 
 
@@ -698,7 +699,7 @@ Note:          The advance will be paid in a lump sum as soon 
 
              (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image002.gif)
 
 ##### <a id="914E"></a>914E  _Clean energy advance daily rate_
 
@@ -3075,7 +3076,7 @@ Repeal the subsection, substitute:
 
              (8)  For the purposes of the definition of **_income cut‑out amount_** in subsection (1), the formula is as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image003.gif)
 
 where:
 
@@ -4505,6 +4506,16 @@ Note:          This section applies in relation to the quarter
 
 (3)       The amendments made by items 29 to 32 apply in relation to the indexation day that is 1 July 2014 and all later indexation days.
 
+## 35  Saving
+
+(1)       This item applies if:
+
+                     (a)  under subitem 6(2) of Schedule 1 to the _Family Assistance and Other Legislation Amendment Act 2011_, the amendments made by that Schedule do not affect the payability to an individual (the **_adult_**) of family tax benefit for another individual (the **_child_**) for a day in the period (the **_transitional period_**) described in subitem 6(4) of that Schedule; and
+
+                     (b)  immediately before 1 July 2013, that period had not ended.
+
+(2)       For the purposes of working out if item 5 of the table in subclause 38AA(1) of Schedule 1 to the _A New Tax System (Family Assistance) Act 1999_ applies in relation to the adult and the child on or after 1 July 2013 and before the end of the transitional period, the reference in that item to 22 is taken to be a reference to 25.
+
 <h7 class="ActHead7">Part 3—Clean energy advances for approved care organisations</h7>
 
 ## 36  Administrative scheme for paying clean energy advances to approved care organisations
@@ -4912,7 +4923,7 @@ Note:          The advance will be paid in a lump sum as soon 
 
              (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image004.gif)
 
 where:
 
@@ -5498,7 +5509,7 @@ Repeal the subsection.
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image005.gif)
 
 ## 20  Paragraph 59Q(7)(b)
 
@@ -6310,7 +6321,7 @@ Insert:
 
                     <a name="brought-forward-cpi-index-amount"></a>**_brought‑forward CPI indexation amount_** for a relevant period means 0.007 less any reduction made under paragraph (5)(c) in relation to an earlier relevant period.
 
-## 52  At the end of subsection 198(5)
+## 52  At the end of subsection 198(5)
 
 Add:
 
@@ -6342,7 +6353,7 @@ the rate worked out by multiplying the appropriate rate immediately before that 
 
                      (b)  1 if the result of paragraph (a) is less than 1.
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image006.gif)
 
 where:
 
@@ -6354,7 +6365,7 @@ where:
 
                     <a name="refer-quarter"></a>**_reference quarter_** means June quarter or December quarter.
 
-## 54  At the end of section 198
+## 54  At the end of section 198
 
 Add:
 
@@ -6752,7 +6763,7 @@ Note:          The advance will be paid in a lump sum as soon 
 
              (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image004.gif)
 
 where:
 
@@ -7050,7 +7061,7 @@ Repeal the subsection, substitute:
 
              (2)  The dollar amount or rate mentioned in the provision, for an indexation year in which the indexation factor is greater than 1, is replaced by the amount or rate worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image007.gif)
 
 <h7 class="ActHead7">Part 3—Indexation</h7>
 
@@ -7308,7 +7319,7 @@ Note:          The advance will be paid in a lump sum as soon 
 
              (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image002.gif)
 
              (3)  However, no amount is payable under this section for the qualification if:
 
@@ -7511,7 +7522,7 @@ Adjusted amount for the earliest change day
 
              (3)  For the purposes of subsection (1), round up to the nearest multiple of $10 the result of the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image008.gif)
 
 where:
 
@@ -7875,7 +7886,7 @@ LIS threshold amount
 
              (4)  The **_LIS threshold amount_** for a person for an income year is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image009.gif)
 
 where:
 
@@ -7917,7 +7928,7 @@ where:
 
                    The amount of a low income supplement for an income year is $300.
 
-<h9 class="ActHead9" style="page-break-after:avoid">Social Security (Administration) Act 1999</h9>
+<h9 class="ActHead9">Social Security (Administration) Act 1999</h9>
 
 ## 4  Subsection 16(3)
 
@@ -7989,15 +8000,13 @@ For the purposes of applying subsections 916C(6) and 916E(3) of the _Social Secu
 
                      (a)  subsection 916E(1) of the _Social Security Act 1991_, as inserted by this Schedule, does not apply in relation to the claim; and
 
-                     (b)  the person is taken to satisfy the tax requirement referred to in subparagraph 916B(1)(a)(iii) of that Act (as inserted by this Schedule) for the 2011‑12 income year if the person satisfies the requirement in subitem (2).
+                     (b)  the person is taken to satisfy the tax requirement referred to in subparagraph 916B(a)(iii) of that Act (as inserted by this Schedule) for the 2011‑12 income year if the person satisfies the requirement in subitem (2).
 
 (2)       A person satisfies this subitem if:
 
                      (a)  the person has an accepted taxable income (within the meaning of subsection 916E(2) of the _Social Security Act 1991_, as inserted by this Schedule) for the 2011‑12 income year; and
 
                      (b)  the amount of income tax owed by the person for that year, as worked out under subsection 4‑10(3) of the _Income Tax Assessment Act 1997_ by reference to the person’s accepted taxable income, is less than $300.
-
-(3)       This item does not apply to a person if item 12 or 13 of Schedule 6 to the _Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012_ applies in relation to the person.
 
 <h7 class="ActHead7">Part 3—Other amendments</h7>
 
@@ -8342,7 +8351,7 @@ Add:
 
              (9)  The first indexation of amounts under item 42 of the CPI Indexation Table in subsection 1191(1) is to take place on 1 July 2013.
 
-<h9 class="ActHead9" style="page-break-after:avoid">Social Security (Administration) Act 1999</h9>
+<h9 class="ActHead9">Social Security (Administration) Act 1999</h9>
 
 ## 10  After section 18
 
@@ -8997,11 +9006,11 @@ Insert:
 
              (2)  That dollar amount, for an indexation day on which the indexation factor is greater than 1, is replaced by the amount that is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image010.gif)
 
              (3)  The **_indexation factor_** for an indexation day is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00026/Html/0e5a82d7-4475-4f0d-b6fd-2af7886d6487_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image011.gif)
 
              (4)  The indexation factor is to be calculated to 3 decimal places, but increased by 0.001 if the fourth decimal place is more than 4.
 
@@ -10491,8 +10500,6 @@ Insert:
 
 The **_Clean Energy (Household Assistance Amendments) Act 2011_** as shown in this compilation comprises Act No. 141, 2011 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
@@ -10536,7 +10543,7 @@ of Assent</div>
     <div>29 Nov 2011</div>
   </td>
   <td>
-    <div><i>See</i>s. 2(1)</div>
+    <div><i>See</i>s. 2(1)</div>
   </td>
   <td>
     <div></div>
@@ -10557,23 +10564,6 @@ of Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>98, 2012</div>
-  </td>
-  <td>
-    <div>29 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 24) and Schedule 6 (items 1, 2, 11): 1 Jan 2013</div>
-  </td>
-  <td>
-    <div>Sch. 6 (item 11)</div>
   </td>
 </tr></table>
 
@@ -10711,38 +10701,6 @@ _(a)_     Subsection 2(1) (items 21 and 22) of the _Tax Laws Amendment
 </thead>
 <tr>
   <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 35</div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 10</div>
-  </td>
-  <td>
-    <div>am. No. 98, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 10</b></div>
   </td>
   <td>
@@ -10773,17 +10731,5 @@ _(a)_     Subsection 2(1) (items 21 and 22) of the _Tax Laws Amendment
     <div>am. No. 12, 2012</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)_
-
-## Schedule 6
-
-## 11  Application provision
-
-The amendments made by this Schedule apply in relation to claims for low income supplement made on or after 1 January 2013.
 
  
