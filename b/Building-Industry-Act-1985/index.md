@@ -1,51 +1,49 @@
-![](http://www.comlaw.gov.au/Details/C2004C00212/Html/863e3a45-e881-45fd-ad6b-febd8f580bb8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02607/Html/BuildingInd85_image001.gif)
 
 # Building Industry Act 1985
 
 **Act No. 92 of 1985 as amended**
 
-This compilation was prepared on 31 October 2001
- taking into account amendments up to Act No. 142 of 2001
+This compilation was prepared on 11 October 2000
+ taking into account amendments up to Act No. 193 of 1985
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
 Prepared by the Office of Legislative Drafting,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation                                                                                        1
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         Application of _Criminal Code_                                                              3
+[4](#4).            Application to Commission for declaration in relation to Federation 3
 
-[4](#4).            Application to Commission for declaration in relation to Federation    3
-
-[5](#5).            Orders by Minister in relation to Federation                                        6
+[5](#5).            Orders by Minister in relation to Federation                                      5
 
 [6](#6).            Powers and procedure of Commission                                                8
 
-[7](#7).            Effect on Federation of cancellation of registration                              9
+[7](#7).            Effect on Federation of cancellation of registration                             9
 
-[8](#8).            Limitation on coverage of work by Federation                                   10
+[8](#8).            Limitation on coverage of work by Federation                                    9
 
-[9](#9).            Minister may allocate coverage of Federation work to other organizations              11
+[9](#9).            Minister may allocate coverage of Federation work to other organizations 11
 
-[10](#10).          Commission may allocate coverage of Federation work to other organizations        12
+[10](#10).          Commission may allocate coverage of Federation work to other organizations       12
 
-[11](#11).          Proceedings under subsection 139(1) of the Conciliation and Arbitration Act         13
+[11](#11).          Proceedings under subsection 139 (1) of the Conciliation and Arbitration Act        13
 
-[12](#12).          Evidence of declaration                                                                      14
+[12](#12).          Evidence of declaration                                                                      13
 
-[13](#13).          Orders by the Minister                                                                       14
+[13](#13).          Orders by the Minister                                                                      14
 
 [14](#14).          Regulations                                                                                        14
 
-[15](#15).          Cessation of Act                                                                                 14
+[15](#15).          Cessation of Act                                                                                14
 
 **Notes** 
 
@@ -109,12 +107,6 @@ but does not include the performance of work in a manner, the adoption of a prac
 
              (3)  A reference in this Act to industrial action shall be read as including a reference to a course of conduct consisting of a series of industrial actions.
 
-##### <a id="3A"></a>3A  Application of _Criminal Code_
-
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
 ##### <a id="4"></a>4  Application to Commission for declaration in relation to Federation
 
              (1)  If, on application by the Minister, the Commission is satisfied that:
@@ -171,7 +163,7 @@ the Commission shall make a declaration that it is so satisfied and cause the de
 
                      (b)  by order in writing, terminate, or suspend to the extent specified in the order, any of the rights, privileges or capacities of the Federation or of all or any of its members, as such members, under the Conciliation and Arbitration Act or under the rules of the Federation (other than rules relating to the industry in or in connection with which the Federation is registered under the Conciliation and Arbitration Act or rules relating to the conditions of eligibility for membership of the Federation).
 
-             (2)  Where the Minister makes an order under paragraph (1)(b) in relation to the Federation, the Minister may make such further order or orders in writing as is or are necessary to give effect to the first‑mentioned order.
+             (2)  Where the Minister makes an order under paragraph (1)(b) in relation to the Federation, the Minister may make such further order or orders in writing as is or are necessary to give effect to the first-mentioned order.
 
              (3)  Where the Minister makes an order or orders under paragraph (1)(b), or under that paragraph and under subsection (2):
 
@@ -183,7 +175,7 @@ the Commission shall make a declaration that it is so satisfied and cause the de
 
                              (ii)  no further alterations to those rules may be made if the making of those alterations would be inconsistent with the order or orders made by the Minister.
 
-             (4)  Except for the purposes of the application of the provisions of paragraph (1)(b) or of subsection (2) or (3) in or in relation to a Territory, a reference in those provisions to the Federation shall be construed as a reference to the organization registered under the Conciliation and Arbitration Act by the name ‘_The Australian Building Construction Employees’ and Builders Labourers’ Federation_’ or, if the name of that organization is changed, that organization under the new name.
+             (4)  Except for the purposes of the application of the provisions of paragraph (1)(b) or of subsection (2) or (3) in or in relation to a Territory, a reference in those provisions to the Federation shall be construed as a reference to the organization registered under the Conciliation and Arbitration Act by the name ‘_The Australian Building Construction Employees’ and Builders Labourers’ Federation’_ or, if the name of that organization is changed, that organization under the new name.
 
              (5)  The making of an order or orders by the Minister in relation to the Federation under paragraph (1)(b) does not prevent the Minister from making an order in relation to the Federation under paragraph (1)(a).
 
@@ -323,7 +315,7 @@ the Minister may, by order in writing, declare that it is desirable that those e
 
 ##### <a id="14"></a>14  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -338,8 +330,6 @@ the Minister may, by order in writing, declare that it is desirable that those e
 ### Note 1
 
 The _Building Industry Act 1985_ as shown in this compilation comprises Act No. 92, 1985 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -420,36 +410,15 @@ of Assent</div>
   <td>
     <div>S. 16</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>142, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): 2 Oct 2001 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Building Industry Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(4) of which provides as follows:
 
-                 (4)   The amendment of the _Building Industry Act 1985_ made by this Act shall be deemed to have come into operation on 26 August 1985.
-
-_(b)_ The _Building Industry Act 1985_ was amended by Schedule 1 (item 1) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day after the day on which it receives the Royal Assent.
-
- 
+                “(4)   The amendment of the _Building Industry Act 1985_ made by this Act shall be deemed to have come into operation on 26 August 1985.”
 
 ## Table of Amendments
+
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 
 <table>
 <colgroup>
@@ -457,29 +426,25 @@ _(b)_ The _Building Industry Act 1985_ was amended by Schedule 1 (item 1) only o
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
 <tr>
   <td>
-    <div>S. 3A</div>
+    <div>Provision affected</div>
   </td>
   <td>
-    <div>ad. No. 142, 2001</div>
+    <div>How affected</div>
   </td>
-</tr>
+</tr></table>
+
+<div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
+
+</div>
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
 <tr>
   <td>
     <div>S. 5</div>
@@ -488,21 +453,5 @@ _(b)_ The _Building Industry Act 1985_ was amended by Schedule 1 (item 1) only o
     <div>am. No. 193, 1985</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001  (No. 142, 2001)_
-
-## 4  Application of amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
- 
-
- 
 
  
