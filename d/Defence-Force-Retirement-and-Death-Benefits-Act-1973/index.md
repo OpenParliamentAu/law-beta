@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image001.gif)
 
 # Defence Force Retirement and Death Benefits Act 1973
 
 **Act No. 81 of 1973 as amended**
 
-This compilation was prepared on 1 January 2009
- taking into account amendments up to Act No. 134 of 2008
+This compilation was prepared on 26 June 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -418,21 +418,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  is an ex-nuptial child of the member; or
 
-                             (ii)  is, immediately before the member’s death, a stepchild, an adopted child, a foster child or a ward, of the member; or
-
-                            (iii)  was, immediately before the member’s death, someone who would have been the stepchild of the member except that the member was not legally married to a spouse who survives the member; or
-
-                            (iv)  is a child of the member within the meaning of the _Family Law Act 1975_; and
+                             (ii)  is, immediately before the member’s death, a stepchild, an adopted child, a foster child or a ward, of the member; and
 
                      (b)  a person who:
 
                               (i)  is a child or ex-nuptial child of a spouse who survives the member; and
-
-                             (ii)  was wholly or substantially dependent upon the member at the time of the member’s death; and
-
-                     (c)  a person who:
-
-                              (i)  is, within the meaning of the _Family Law Act 1975_, a child of a spouse who survives the member; and
 
                              (ii)  was wholly or substantially dependent upon the member at the time of the member’s death.
 
@@ -484,7 +474,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (e)  a person who has ceased, or is taken to have ceased, under section 134 or 138 to be an eligible member of the Defence Force.
 
-                    <a name="elig-orphan"></a>**_eligible orphan_** means an eligible child who is an orphan, and includes an eligible child who is not an orphan but who is in the custody, care and control of, and is wholly or substantially dependent on, a person other than a person to whom widow’s pension or spouse pension is, or was at any time, payable.
+                    <a name="elig-orphan"></a>**_eligible orphan_** means an eligible child who is an orphan, and includes an eligible child who is not an orphan but who is in the custody, care and control of, and is wholly or substantially dependent on, a person other than a person to whom widow’s pension is, or was at any time, payable.
 
                     <a name="existing-contributor"></a>**_existing contributor_** means a person who:
 
@@ -494,15 +484,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="fortnightli-rate-pai"></a>**_fortnightly rate of pay_**, in relation to a member of the Defence Force on a particular day, means an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image002.gif)
 
 where **_A_** is the annual rate of pay applicable to him on that day.
 
                     <a name="invalid-benefit"></a>**_invalidity benefit_** means invalidity benefit under section 26.
 
                     <a name="invalid-pai"></a>**_invalidity pay_** means invalidity benefit consisting of invalidity pay.
-
-                    <a name="marit-coupl-relatship"></a>**_marital or couple relationship_** has the meaning given by section 6A.
 
                     <a name="member"></a><a name="member-defenc-forc"></a>**_member of the Defence Force_** does not include a person who is a **_member_** as defined by subsection 3(1) of the _Defence Force (__Papua New Guinea__) Retirement Benefits Act 1973_.
 
@@ -512,9 +500,7 @@ where **_A_** is the annual rate of pay applicable to him on that day.
 
                     <a name="offic"></a>**_officer_** means a member of the Defence Force who is an officer for the purposes of the _Defence Act 1903-1970_.
 
-                    <a name="partner"></a><a name="partner"></a>**_partner_**: a person is the **_partner_** of another person if the two persons have a relationship as a couple (whether the persons are the same sex or different sexes).
-
-                    <a name="pension-benefit"></a>**_pension benefit_** means retirement pay, invalidity pay, widow’s pension, spouse pension or child’s pension.
+                    <a name="pension-benefit"></a>**_pension benefit_** means retirement pay, invalidity pay, widow’s pension or child’s pension.
 
                     <a name="period-effect-servic"></a>**_period of effective service_**, in relation to a member of the scheme, means:
 
@@ -569,8 +555,6 @@ where **_A_** is the annual rate of pay applicable to him on that day.
                     <a name="servic"></a>**_service_** means service as a member of the Defence Force.
 
                     <a name="servic-offenc"></a>**_service offence_** has the same meaning as in the _Defence Force Discipline Act 1982_.
-
-                    <a name="spous"></a>**_spouse_** has a meaning affected by section 6B.
 
                     <a name="spous-pension"></a>**_spouse pension_** means pension payable under Division 1 of Part VI.
 
@@ -731,19 +715,19 @@ the period shall be deemed to be a period of non-effective service in relation t
 
 the period shall be deemed to be a period of non-effective service in relation to the member.
 
-##### <a id="6A"></a>6A  Marital or couple relationship
+##### <a id="6A"></a>6A  Marital relationship
 
-             (1)  For the purposes of this Act, a person had a **_marital or couple relationship_** with another person at a particular time if the person ordinarily lived with that other person as that other person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time.
+             (1)  For the purposes of this Act, a person had a **marital relationship** with another person at a particular time if the person ordinarily lived with that other person as that other person’s husband or wife on a permanent and _bona fide_ domestic basis at that time.
 
-             (2)  For the purpose of subsection (1), a person is to be regarded as ordinarily living with another person as that other person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at a particular time only if:
+             (2)  For the purpose of subsection (1), a person is to be regarded as ordinarily living with another person as that other person’s husband or wife on a permanent and _bona fide_ domestic basis at a particular time only if:
 
-                     (a)  the person had been living with that other person as that other person’s husband or wife or partner for a continuous period of at least 3 years up to that time; or
+                     (a)  the person had been living with that other person as that other person’s husband or wife for a continuous period of at least 3 years up to that time; or
 
-                     (b)  the person had been living with that other person as that other person’s husband or wife or partner for a continuous period of less than 3 years up to that time and the Authority, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with that other person as that other person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time;
+                     (b)  the person had been living with that other person as that other person’s husband or wife for a continuous period of less than 3 years up to that time and the Authority, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with that other person as that other person’s husband or wife on a permanent and _bona fide_ domestic basis at that time;
 
 whether or not the person was legally married to that other person.
 
-             (3)  For the purposes of this Act, a marital or couple relationship is taken to have begun at the beginning of the continuous period mentioned in paragraph (2)(a) or (b).
+             (3)  For the purposes of this Act, a marital relationship is taken to have begun at the beginning of the continuous period mentioned in paragraph (2)(a) or (b).
 
              (4)  For the purpose of subsection (2), relevant evidence includes, but is not limited to, evidence establishing any of the following:
 
@@ -751,15 +735,11 @@ whether or not the person was legally married to that other person.
 
                      (b)  the persons were legally married to each other at the time;
 
-                    (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_, as a kind of relationship prescribed for the purposes of that section;
-
                      (c)  the persons had a child who was:
 
                               (i)  born of the relationship between the persons; or
 
-                             (ii)  adopted by the persons during the period of the relationship; or
-
-                            (iii)  a child of both of the persons for the purposes of the _Family Law Act 1975_;
+                             (ii)  adopted by the persons during the period of the relationship;
 
                      (d)  the persons jointly owned a home which was their usual residence.
 
@@ -775,23 +755,23 @@ whether or not the person was legally married to that other person.
 
                     <a name="deceas-person"></a>**_deceased person_** means a person who was, at the time of his or her death, a contributing member, a recipient member or a person in respect of whom deferred benefits were applicable.
 
-             (2)  For the purposes of this Act, a person is a spouse who survives a deceased person if the person had a marital or couple relationship with the deceased person at the time of the death of the deceased person.
+             (2)  For the purposes of this Act, a person is a spouse who survives a deceased person if the person had a marital relationship with the deceased person at the time of the death of the deceased person.
 
              (3)  In spite of subsection (2), a person is taken to be a spouse who survives a deceased person if:
 
-                     (a)  the person had previously had a marital or couple relationship with the deceased person; and
+                     (a)  the person had previously had a marital relationship with the deceased person; and
 
-                     (b)  the person did not, at the time of the death, have a marital or couple relationship with the deceased person but was legally married to the deceased person; and
+                     (b)  the person did not, at the time of the death, have a marital relationship with the deceased person but was legally married to the deceased person; and
 
                      (d)  in the Authority’s opinion, the person was wholly or substantially dependent upon the deceased person at the time of the death.
 
-##### <a id="6BA"></a>6BA  Benefits for certain spouses in post-retirement marital or couple relationships
+##### <a id="6BA"></a>6BA  Benefits for certain spouses in post-retirement marriages
 
              (1)  This section applies if:
 
                      (a)  a spouse survives a deceased person (within the meaning of section 6B); and
 
-                     (b)  the spouse’s marital or couple relationship with the deceased person:
+                     (b)  the spouse’s marital relationship with the deceased person:
 
                               (i)  began after the recipient member became a recipient member; and
 
@@ -801,7 +781,7 @@ whether or not the person was legally married to that other person.
 
              (2)  The rate of the spouse pension to which the spouse is entitled is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image003.gif)
 
              (3)  If the rate worked out under subsection (2) is less than or equal to  the rate prescribed by the regulations for the purposes of this section, the spouse is instead entitled to a lump sum payment worked out in accordance with the regulations.
 
@@ -1049,7 +1029,7 @@ the rate at which retirement pay is payable to him is the amount per annum that,
 
              (6)  If the member of the scheme makes an election under subsection 124(1), the rate at which retirement pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image004.gif)
 
 where:
 
@@ -1092,7 +1072,7 @@ exceeds the amount per annum of the retirement pay to which the person was or wi
 
           (2B)  For the purposes of subsection (2A), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image005.gif)
 
 where **_A_** is:
 
@@ -1134,7 +1114,7 @@ then, subject to subsection (7), subsection (3) applies to the person as if:
 
                      (b)  if the previous election made by the person had specified a lesser amount than the previous maximum amount—an amount calculated by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image006.gif)
 
              (7)  Where, because of subsection (5), subsection (3) applies to a person (in this subsection called the **_recipient member_**), there must be deducted from the amount that, apart from this subsection, would be payable to the recipient member under paragraph (3)(a) an amount equal to the sum of:
 
@@ -1164,7 +1144,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -1190,7 +1170,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the retirement pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
                             where:
 
@@ -1397,7 +1377,7 @@ the Authority must:
 
              (4)  If the member of the scheme makes an election under subsection 124(1), the rate at which invalidity pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image004.gif)
 
 where:
 
@@ -1407,7 +1387,7 @@ where:
 
                     <a name="surcharg-duction-amount"></a>**_surcharge deduction amount_** means the member’s surcharge deduction amount.
 
-##### <a id="32"></a>32  Class C invalidity benefit
+##### <a id="32"></a>32  Class C invalidity benefit
 
              (1)  Subject to section 33, where a member of the scheme who is entitled to invalidity benefit and is classified as Class C under section 30 (whether on his retirement or by reason of his having been reclassified under subsection 34(1)) would, if at the time when he was retired on the ground of invalidity or of physical or mental incapacity to perform his duties, he had retired on other grounds, have been entitled to retirement pay, the member is entitled:
 
@@ -1461,7 +1441,7 @@ exceeds the amount per annum of the invalidity pay to which the member of the sc
 
           (4A)  For the purposes of subsection (4), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image005.gif)
 
 where **_A_** is:
 
@@ -1507,7 +1487,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -1533,7 +1513,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the invalidity pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -1839,7 +1819,7 @@ the person (in this section called the **_elector_**) may, by notice in writing 
 
              (3)  The amount referred to in subsection (2) must not exceed an amount calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image008.gif)
 
 where:
 
@@ -1871,7 +1851,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the commuted amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -1907,7 +1887,7 @@ where:
 
 then, subject to subsection (2A), there is payable to the orphan or each of the orphans, instead of the pensions described in subsection (2), a pension at the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image004.gif)
 
 where:
 
@@ -2226,7 +2206,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image009.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image009.gif)
 
 ### Division 2—Benefits for non-member spouse
 
@@ -2266,7 +2246,7 @@ Note:          If standard pension is not payable at the opera
 
 then the annual rate of that standard pension is reduced to the amount calculated under the Orders.
 
-Note:          If the member spouse dies before becoming entitled to standard pension, then subsection (1) will nevertheless result in an indirect reduction of any widow’s pension or spouse pension that becomes payable. This happens because the amount of the widow’s pension or spouse pension is based on the amount of invalidity pay (a standard pension) that would have become payable to the member spouse at the time of death.
+Note:          If the member spouse dies before becoming entitled to standard pension, then subsection (1) will nevertheless result in an indirect reduction of any widow’s pension that becomes payable. This happens because the amount of the widow’s pension is based on the amount of invalidity pay (a standard pension) that would have become payable to the member spouse at the time of death.
 
              (2)  A reduction under subsection (1) is to be disregarded in calculating the amount of any non-standard pension that later becomes payable.
 
@@ -2438,7 +2418,7 @@ he may elect, by notice in writing given to the Authority before the date of his
 
                      (b)  any period of service served by him under that short service commission that is a period of effective service in relation to him for the purposes of this Act shall be disregarded as such a period.
 
-##### <a id="58"></a>58  Certain previous periods of effective service to be disregarded
+##### <a id="58"></a>58  Certain previous periods of effective service to be disregarded
 
                    Where:
 
@@ -2456,7 +2436,7 @@ then, subject to sections 62, 63 and 64, upon his again becoming such an eligi
 
              (2)  The amount of a fortnightly instalment of pension benefit shall be an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image010.gif)
 
 where **_P_** is the amount per annum of the pension benefit.
 
@@ -2917,7 +2897,7 @@ the amount of the transfer value is the difference between:
 
 the rate at which retirement pay is payable to the person is (instead of the rate provided for in section 23) an amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -2951,7 +2931,7 @@ then, subject to subsection (4A), the rate at which retirement pay is payable 
 
 the rate at which retirement pay is payable to the person is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -2961,7 +2941,7 @@ where:
 
                     <a name="excess"></a>**_excess_** means the amount by which the person’s surcharge deduction amount exceeds the amount of the person’s productivity superannuation benefit.
 
-             (5)  Where, upon the death of a person to whom paragraph 78(2)(b) applies, a person becomes entitled, by virtue of subsection (1) of this section, to spouse pension under section 39 or to child’s pension under subsection 42(3) or subsection 43(3), then, for the purposes of section 39, subsection 42(3) or subsection 43(3), as the case may be, the person in relation to whom paragraph 78(2)(b) applies shall be deemed to have been in receipt of retirement pay immediately before his death at such rate as would have been payable to him if he were a person to whom paragraph 78(2)(a) applies.
+             (5)  Where, upon the death of a person to whom paragraph 78(2)(b) applies, a person becomes entitled, by virtue of subsection (1) of this section, to widow’s pension under section 39 or to child’s pension under subsection 42(3) or subsection 43(3), then, for the purposes of section 39, subsection 42(3) or subsection 43(3), as the case may be, the person in relation to whom paragraph 78(2)(b) applies shall be deemed to have been in receipt of retirement pay immediately before his death at such rate as would have been payable to him if he were a person to whom paragraph 78(2)(a) applies.
 
              (6)  A reference in this section to the actual retirement of a person from the Defence Force, being a person who has made an election under section 76, shall be read as a reference to the retirement by virtue of which, upon his ceasing to be an eligible member of the Defence Force, he made the election.
 
@@ -3201,7 +3181,7 @@ by notice in writing to the Authority revoke the election and, in that case, par
 
            (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Minister for Finance under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
 
-           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image011.gif), where:
+           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image011.gif), where:
 
 **_a_** is the amount of the annual premium, or the sum of the amounts of the annual premiums, applicable at that time under the life policy or life policies assigned by him to the Commonwealth in accordance with subsection (3) or issued in relation to him in accordance with subsection (4).
 
@@ -3453,7 +3433,7 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
              (2)  The increase provided for by subsection (1) in the rate at which a pension benefit was payable to a pensioner immediately before the commencement of a prescribed half-year (in this section referred to as the **_relevant prescribed half-year_**) is the prescribed percentage, ascertained in accordance with subsection (3), of the rate of pension benefit that, under subsection (4), is the relevant rate of pension in relation to the pensioner.
 
-             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half-year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2009C00004/Html/DefForRetDeathBen1973_WD02_image012.gif) expressed as a percentage of **_B_**, where:
+             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half-year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image012.gif) expressed as a percentage of **_B_**, where:
 
                     <a name=""></a>**_A_** is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half-year immediately preceding the prescribed half-year; and
 
@@ -3463,13 +3443,13 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
                      (a)  in relation to a pensioner who is a recipient member to whom invalidity pay is payable—the rate at which invalidity pay was payable to the pensioner immediately before the commencement of the relevant prescribed half-year or, if a notional rate of invalidity pay is applicable to the pensioner in accordance with subsection (5) and the notional rate of invalidity pay so applicable immediately before the commencement of that half-year is lower than the rate at which invalidity pay was payable to the pensioner immediately before the commencement of that half-year, the notional rate of invalidity pay so applicable immediately before the commencement of that half-year;
 
-                    (ab)  in relation to a pensioner who is the spouse of a recipient member to whom, immediately before his death, invalidity pay was payable—a rate equal to five-eighths of the rate at which invalidity pay would have been payable to the deceased recipient member immediately before the commencement of the relevant prescribed half-year if he had not died or, if a notional rate of invalidity pay is applicable to the deceased recipient member in accordance with subsection (5) and the notional rate of invalidity pay so applicable immediately before the commencement of that half-year is lower than the rate at which invalidity pay would have been payable to the deceased recipient member before the commencement of that half-year if he had not died, a rate equal to five-eighths of the notional rate of invalidity pay so applicable immediately before the commencement of that half-year;
+                    (ab)  in relation to a pensioner who is the widow of a recipient member to whom, immediately before his death, invalidity pay was payable—a rate equal to five-eighths of the rate at which invalidity pay would have been payable to the deceased recipient member immediately before the commencement of the relevant prescribed half-year if he had not died or, if a notional rate of invalidity pay is applicable to the deceased recipient member in accordance with subsection (5) and the notional rate of invalidity pay so applicable immediately before the commencement of that half-year is lower than the rate at which invalidity pay would have been payable to the deceased recipient member before the commencement of that half-year if he had not died, a rate equal to five-eighths of the notional rate of invalidity pay so applicable immediately before the commencement of that half-year;
 
-                    (ac)  in relation to a pensioner who is the spouse of a person who, immediately before his death, was a contributing member—the rate at which pension benefit was payable to the pensioner immediately before the commencement of the relevant prescribed half-year;
+                    (ac)  in relation to a pensioner who is the widow of a person who, immediately before his death, was a contributing member—the rate at which pension benefit was payable to the pensioner immediately before the commencement of the relevant prescribed half-year;
 
                      (b)  in relation to a pensioner who is a recipient member to whom retirement pay is payable—the rate at which retirement pay was payable to the pensioner immediately before the commencement of the relevant prescribed half-year or, if a notional rate of retirement pay is applicable to the pensioner in accordance with subsection (5) and the notional rate of retirement pay so applicable immediately before the commencement of that half-year is lower than the rate at which retirement pay was payable to the pensioner immediately before the commencement of that half-year, the notional rate of retirement pay so applicable immediately before the commencement of that half-year;
 
-                     (c)  in relation to a pensioner who is the spouse of a recipient member to whom, immediately before his death, retirement pay was payable—a rate equal to five-eighths of the rate at which retirement pay would have been payable to the deceased recipient member immediately before the commencement of the relevant prescribed half-year if he had not died or, if a notional rate of retirement pay is applicable to the deceased recipient member in accordance with subsection (5) and the notional rate of retirement pay so applicable immediately before the commencement of that half-year is lower than the rate at which retirement pay would have been payable to the deceased recipient member immediately before the commencement of that half-year if he had not died, a rate equal to five-eighths of the notional rate of retirement pay so applicable immediately before the commencement of that half-year;
+                     (c)  in relation to a pensioner who is the widow of a recipient member to whom, immediately before his death, retirement pay was payable—a rate equal to five-eighths of the rate at which retirement pay would have been payable to the deceased recipient member immediately before the commencement of the relevant prescribed half-year if he had not died or, if a notional rate of retirement pay is applicable to the deceased recipient member in accordance with subsection (5) and the notional rate of retirement pay so applicable immediately before the commencement of that half-year is lower than the rate at which retirement pay would have been payable to the deceased recipient member immediately before the commencement of that half-year if he had not died, a rate equal to five-eighths of the notional rate of retirement pay so applicable immediately before the commencement of that half-year;
 
                      (d)  in relation to a pensioner to whom subsection 42(2) or 43(2) applies—the rate at which pension benefit referred to as additional pension was payable immediately before the commencement of the relevant prescribed half-year to the pensioner under whichever of those subsections is applicable;
 
@@ -3537,11 +3517,11 @@ there were substituted, on the first day of that prescribed half-year, an amount
 
              (1)  Where a person to whom pension benefit has become payable (whether or not it has become payable to the person by virtue of section 78) would, but for this section, be entitled to an increase in the rate at which the pension benefit was payable to the person immediately before the commencement of the prescribed half-year and:
 
-                     (a)  if the pension benefit became payable to the person otherwise than as a spouse or as an eligible child—the pension benefit became payable to the person during the half-year (in this section referred to as the **_preceding half-year_**) immediately preceding the prescribed half-year;
+                     (a)  if the pension benefit became payable to the person otherwise than as a widow or as an eligible child—the pension benefit became payable to the person during the half-year (in this section referred to as the **_preceding half-year_**) immediately preceding the prescribed half-year;
 
-                     (b)  if the pension benefit became payable to the person as the spouse of a member of the scheme and pension benefit in accordance with that section was not payable to the member immediately before his death—the pension benefit became payable to the spouse during the preceding half-year;
+                     (b)  if the pension benefit became payable to the person as the widow of a member of the scheme and pension benefit in accordance with that section was not payable to the member immediately before his death—the pension benefit became payable to the widow during the preceding half-year;
 
-                     (c)  if the pension benefit became payable to the person as the spouse of a member of the scheme and pension benefit was payable to the member immediately preceding his death—the member’s pension benefit became payable during the half-year;
+                     (c)  if the pension benefit became payable to the person as the widow of a member of the scheme and pension benefit was payable to the member immediately preceding his death—the member’s pension benefit became payable during the half-year;
 
                      (d)  if the pension benefit became payable to the person as an eligible child and pension benefit was not payable to the member of the scheme in relation to whom the person is an eligible child—the pension benefit became payable to the child during the preceding half-year; and
 
@@ -3551,9 +3531,9 @@ this section applies to the first-mentioned pension benefit.
 
              (2)  Where a pension benefit is, under section 43A or 44, payable to a person immediately before the commencement of a prescribed half-year:
 
-                     (a)  in a case where the pension benefit became so payable by virtue of the retirement and death, during the preceding half-year, of a member of the scheme who was, at the time of his death, a recipient member—this section applies to the pension benefit as if it were a pension benefit payable to the person otherwise than as a spouse or as an eligible child from the day following the date of retirement of the member of the scheme;
+                     (a)  in a case where the pension benefit became so payable by virtue of the retirement and death, during the preceding half-year, of a member of the scheme who was, at the time of his death, a recipient member—this section applies to the pension benefit as if it were a pension benefit payable to the person otherwise than as a widow or as an eligible child from the day following the date of retirement of the member of the scheme;
 
-                     (b)  in a case where the pension benefit became so payable by virtue of the death, during the preceding half-year, of a member of the scheme who was, at the time of his death, a contributing member—this section applies to the pension benefit as if it were a pension benefit payable to the person otherwise than as a spouse or as an eligible child from the day following the date of death of the member of the scheme; or
+                     (b)  in a case where the pension benefit became so payable by virtue of the death, during the preceding half-year, of a member of the scheme who was, at the time of his death, a contributing member—this section applies to the pension benefit as if it were a pension benefit payable to the person otherwise than as a widow or as an eligible child from the day following the date of death of the member of the scheme; or
 
                      (c)  in any other case—this section does not apply to the pension benefit.
 
@@ -3561,7 +3541,7 @@ this section applies to the first-mentioned pension benefit.
 
                      (a)  the pension benefit;
 
-                     (b)  where paragraph (1)(c) applies—the pension benefit that was payable to the member of the scheme in relation to whom the person is a spouse; or
+                     (b)  where paragraph (1)(c) applies—the pension benefit that was payable to the member of the scheme in relation to whom the person is a widow; or
 
                      (c)  where paragraph (1)(e) applies—the pension benefit that was payable to the member of the scheme in relation to whom the person was an eligible child;
 
@@ -3571,7 +3551,7 @@ became payable after 16 June or 16 December (as the case requires) in the pr
 
                      (a)  the pension benefit;
 
-                     (b)  where paragraph (1)(c) applies—the pension benefit that was payable to the member of the scheme in relation to whom the person is a spouse; or
+                     (b)  where paragraph (1)(c) applies—the pension benefit that was payable to the member of the scheme in relation to whom the person is a widow; or
 
                      (c)  where paragraph (1)(e) applies—the pension benefit that was payable to the member of the scheme in relation to whom the person was an eligible child;
 
@@ -3657,7 +3637,7 @@ that member or the personal representative of that member, as the case requires,
 
                               (i)  invalidity pay payable to a member classified as Class A or Class B under section 30;
 
-                             (ii)  a spouse pension under section 38;
+                             (ii)  a widow’s pension under section 38;
 
                             (iii)  a child’s pension under subsection 42(2) or 43(2); or
 
@@ -6002,23 +5982,6 @@ Schedule 6: 1 Jan 2008 ( <i>see</i>F2007L04119)</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
-    </td>
-    <td>
-      <div>134, 2008</div>
-    </td>
-    <td>
-      <div>4 Dec 2008</div>
-    </td>
-    <td>
-      <div>Schedule 3 (items 1–24): 1 Jan 2009</div>
-    </td>
-    <td>
-      <div>Sch. 3 (item 24) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Defence Force Retirement and Death Benefits Act 1973_ was amended by sections
@@ -6329,7 +6292,7 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 33, 1976; No. 161, 1977; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 104, 1988; Nos. 126 and 135, 1991; No. 185, 1992; No. 187, 1997; No. 10, 2001; Nos. 26 and 134, 2008</div>
+    <div>am. No. 96, 1975; No. 33, 1976; No. 161, 1977; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 104, 1988; Nos. 126 and 135, 1991; No. 185, 1992; No. 187, 1997; No. 10, 2001; No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6366,26 +6329,10 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 6A</div>
-  </td>
-  <td>
-    <div>rs. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6A</div>
   </td>
   <td>
     <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6401,15 +6348,7 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div></div>
   </td>
   <td>
-    <div>am. No. 165, 2007; No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6BA</div>
-  </td>
-  <td>
-    <div>am. No. 134, 2008</div>
+    <div>am. No. 165, 2007</div>
   </td>
 </tr>
 <tr>
@@ -6418,14 +6357,6 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
   </td>
   <td>
     <div>ad. No. 165, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7022,14 +6953,6 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
 </tr>
 <tr>
   <td>
-    <div>Note to s. 49D(1)</div>
-  </td>
-  <td>
-    <div>am. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 49E</div>
   </td>
   <td>
@@ -7305,7 +7228,7 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 75</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 187, 1997; No. 134, 2008</div>
+    <div>am. No. 164, 1984; No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -7481,7 +7404,7 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div></div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 135, 1979; No. 164, 1984; No. 65, 1987; No. 21, 1991; No. 148, 2001; No. 165, 2007; No. 134, 2008</div>
+    <div>am. No. 161, 1977; No. 135, 1979; No. 164, 1984; No. 65, 1987; No. 21, 1991; No. 148, 2001; No. 165, 2007</div>
   </td>
 </tr>
 <tr>
@@ -7521,7 +7444,7 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div></div>
   </td>
   <td>
-    <div>am. No. 148, 2001; No. 165, 2007; No. 134, 2008</div>
+    <div>am. No. 148, 2001; No. 165, 2007</div>
   </td>
 </tr>
 <tr>
@@ -7646,23 +7569,7 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
 </tr>
 <tr>
   <td>
-    <div>S. 98J</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 98K, 98L</div>
+    <div>Ss. 98J–98L</div>
   </td>
   <td>
     <div>ad. No. 144, 1981</div>
@@ -7985,22 +7892,6 @@ The amendments made by this Part apply in respect of any spouse who survives a d
 ## 6  Application
 
 The amendment made by this Part applies in relation to a later pension, or a lump sum amount, that is paid as a result of a period of effective service that begins on or after the day on which this Part commences.
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
-
-## Schedule 3
-
-## 24  Application of amendments of the _Defence Force Retirement and Death Benefits Act 1973_
-
-The amendments of the _Defence Force Retirement and Death Benefits Act 1973_ made by this Schedule apply in relation to a benefit payable under that Act in respect of a person who dies on or after the commencement of this Schedule, if, at the time of his or her death, the deceased person was:
-
-                     (a)  a contributing member (within the meaning of that Act); or
-
-                     (b)  a recipient member (within the meaning of that Act); or
-
-                     (c)  a person in respect of whom deferred benefits were applicable under section 78 of that Act.
 
  
 
