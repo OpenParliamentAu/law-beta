@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00804/Html/7396e27d-f883-400d-bda2-c2c4283a323b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00672/Html/a7cbc784-5915-4afe-9efd-6cf76235ce9d_files/image001.gif)
 
 # Surveillance Devices Act 2004
 
 **Act No. 152 of 2004 as amended**
 
-This compilation was prepared on 9 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 20 September 2012
+ taking into account amendments up to Act No. 24 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -185,7 +186,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 Australian Federal Police Act 1979                                                                      77
 
-Customs Act 1901                                                                                                      78
+Criminal Code Act 1995                                                                                          78
+
+Customs Act 1901                                                                                                      79
+
+Mutual Assistance in Criminal Matters Act 1987                                               80
 
 **Notes** 
 
@@ -2185,6 +2190,20 @@ Despite the repeal of Division 2 of Part II of the _Australian Federal Polic
 
                              (ii)  references in section 12L of the _Australian Federal Police Act 1979_ to general offences, class 1 general offences or class 2 general offences were to be construed as if limited to offences against the law of the Australian Capital Territory.
 
+<h9 class="ActHead9">Criminal Code Act 1995</h9>
+
+## 4  Paragraph 476.2(4)(b) of the _Criminal Code_
+
+Repeal the paragraph, substitute:
+
+                     (b)  the person does so:
+
+                              (i)  under a warrant issued under the law of the Commonwealth, a State or a Territory; or
+
+                             (ii)  under an emergency authorisation given to the person under Part 3 of the _Surveillance Devices Act 2004_ or under a law of a State or Territory that makes provision to similar effect; or
+
+                            (iii)  under a tracking device authorisation given to the person under section 39 of that Act;
+
 <h9 class="ActHead9" style="page-break-after:avoid">Customs Act 1901</h9>
 
 ## 5  Division 1A of Part XII
@@ -2202,6 +2221,52 @@ Despite the repeal of Division 1A of Part XII of the _Customs Act 1901_ by i
                      (c)  any nomination by the Minister of a Judge of a court created by the Parliament as a Judge who may issue warrants under that Division, being a nomination that was in force immediately before the day of that repeal, is to be treated, with effect from that day, as if it were a nomination of that Judge as an eligible Judge for the purposes of section 12 of the _Surveillance Devices Act 2004_; and
 
                      (d)  any nomination by the Minister of a person holding an appointment referred to in subsection 219AB(1) of the _Customs Act 1901_, being a nomination that was in force immediately before the day of that repeal, is taken, with effect from that day, to be a nomination of that person for the purposes of section 13 of the _Surveillance Devices Act 2004_.
+
+<h9 class="ActHead9" style="page-break-after:avoid">Mutual Assistance in Criminal Matters Act 1987</h9>
+
+## 7  At the end of Part II
+
+Add:
+
+## <a id="13A"></a>13A  Requests by foreign countries for provision of material lawfully obtained
+
+             (1)  If:
+
+                     (a)  a foreign country (the **_requesting country_**) has commenced an investigation into, or proceedings in relation to, a serious offence against the laws of that country; and
+
+                     (b)  that foreign country requests the provision of material relevant to that investigation or those proceedings; and
+
+                     (c)  the Attorney‑General is satisfied that the material requested is:
+
+                              (i)  material lawfully obtained by an enforcement agency in Australia; and
+
+                             (ii)  material lawfully in the possession of that enforcement agency;
+
+the Attorney‑General may, by writing in accordance with the approved form, authorise the provision of that material to the requesting country.
+
+             (2)  Subsection (1) does not permit the Attorney‑General to authorise the provision to the requesting country of material obtained through the use of a surveillance device unless the request relates to an investigation into, or proceedings in relation to, a serious offence against the laws of that country that is punishable by a maximum term of imprisonment of 3 years or more, by imprisonment for life or by the death penalty.
+
+             (3)  An authorisation by the Attorney‑General under subsection (1) may include a direction to an authorised officer of the enforcement agency having possession of the material about how the material is to be provided to that foreign country.
+
+             (4)  In authorising the provision of material to a foreign country, the Attorney‑General may specify the uses to which that material can be put.
+
+             (5)  An authorisation by the Attorney‑General under subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+
+             (6)  In this section:
+
+                    <a name="authorised-offic"></a>**_authorised officer_** includes a law enforcement officer within the meaning of section 6 of the _Surveillance Devices Act 2004_.
+
+                    <a name="enforc-agenc"></a>**_enforcement agency_** includes a law enforcement agency within the meaning of section 6 of the _Surveillance Devices Act 2004_.
+
+                    <a name="materi-lawfulli-obtained-enforc-agenc-australia"></a>**_material lawfully obtained by an enforcement agency in Australia_** includes:
+
+                     (a)  material obtained from individuals or entities by consent; and
+
+                     (b)  material obtained by warrant or the exercise of a coercive power by a court in Australia for the purposes of a domestic investigation or prosecution;
+
+but does not include material obtained under the _Telecommunications (Interception) Act 1979_.
+
+_Note:       The heading to section 13 is altered by inserting “for the taking of evidence or the production of documents” after “countries”._
 
 # Notes to the _Surveillance Devices Act 2004_
 
@@ -2599,23 +2664,6 @@ Schedule 3 (item 53): <i>(d)</i></div>
   </td>
   <td>
     <div>Schedule 4 (item 53): 5 Apr 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 76–79): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -3176,22 +3224,6 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
   <td>
     <div>am. No. 86, 2006</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
 </tr></table>
 
 ## Table A
@@ -3323,7 +3355,7 @@ _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 ## Schedule 3
 
-## 10  Saving—appointments
+## 10  Saving—appointments
 
 The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
