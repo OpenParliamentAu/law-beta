@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00259/Html/f38fd6b3-7c02-4d3c-bcef-8f9ed9dcfd41_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00300/Html/SeatGovAdmin1910_image001.gif)
 
 # Seat of Government (Administration) Act 1910
 
 **Act No. 25 of 1910 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 7 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -50,13 +50,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12](#12).          Ordinances
 
-[12AA](#12AA).    Ordinance not to be re‑made while required to be tabled
+[12AA](#12AA).    Ordinance not to be re-made while required to be tabled
 
-[12AB](#12AB).    Ordinance not to be re‑made while subject to disallowance
+[12AB](#12AB).    Ordinance not to be re-made while subject to disallowance
 
-[12AC](#12AC).    Disallowed Ordinance not to be re‑made unless resolution rescinded or House approves
+[12AC](#12AC).    Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
 
-[12AD](#12AD).    Regulations, rules and by‑laws
+[12AD](#12AD).    Regulations, rules and by-laws
 
 [12AE](#12AE).     Determinations of fees or charges
 
@@ -86,19 +86,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="enact"></a>**_enactment_** has the same meaning in the _Australian Capital Territory (Self‑Government) Act 1988_.
+                    <a name="enact"></a>**_enactment_** has the same meaning in the _Australian   Capital Territory__(Self-Government) Act 1988_.
 
 ## Part II—Application of State Laws
 
 ##### <a id="3"></a>3  Certain State laws not to continue in Territory
 
-                   Notwithstanding anything in section six of the _Seat of Government Acceptance Act 1909_, the laws of the State of New South Wales described in the Schedule to this Act shall not continue in force in the Territory.
+                   Notwithstanding anything in section six of the _Seat of Government Acceptance Act 1909_, the laws of the State of New   South Wales described in the Schedule to this Act shall not continue in force in the Territory.
 
 ##### <a id="4"></a>4  Effect of continuance of State laws
 
-                   Where any law of the State of New South Wales continues in force in the Territory by virtue of section six of the _Seat of Government Acceptance Act 1909_, it shall, subject to any Ordinance made by the Governor‑General, have effect in the Territory as if it were a law of the Territory:
+                   Where any law of the State of New South Wales continues in force in the Territory by virtue of section six of the _Seat of Government Acceptance Act 1909_, it shall, subject to any Ordinance made by the Governor-General, have effect in the Territory as if it were a law of the Territory:
 
-Provided that, with respect to any such law (other than such law that is an enactment), the Governor‑General may by Ordinance declare that it shall, while the Ordinance remains in force, but subject to the provisions of the Ordinance, have effect in the Territory, and continue to be administered by the authorities of the State, as if the Territory continued to form part of the State.
+Provided that, with respect to any such law (other than such law that is an enactment), the Governor-General may by Ordinance declare that it shall, while the Ordinance remains in force, but subject to the provisions of the Ordinance, have effect in the Territory, and continue to be administered by the authorities of the State, as if the Territory continued to form part of the State.
 
 ## Part III—Application of Commonwealth Acts
 
@@ -114,7 +114,7 @@ Provided that, with respect to any such law (other than such law that is an enac
 
 ##### <a id="8"></a>8  Postal and telegraphic rates and charges
 
-                   The rates and charges for postal articles and telegrams in the Territory and to and from the Territory shall be the same as if the Territory continued to be part of the State of New South Wales.
+                   The rates and charges for postal articles and telegrams in the Territory and to and from the Territory shall be the same as if the Territory continued to be part of the State of New South   Wales.
 
 ## Part IV—Disposal of Crown lands
 
@@ -136,7 +136,7 @@ Provided that, with respect to any such law (other than such law that is an enac
 
 ##### <a id="12"></a>12  Ordinances 
 
-             (1)  Subject to subsection, (1B) the Governor‑General may make Ordinances for the peace, order and good government of the Territory with respect to:
+             (1)  Subject to subsection, (1B) the Governor-General may make Ordinances for the peace, order and good government of the Territory with respect to:
 
                      (a)  the jurisdiction, practice and procedure of the Supreme Court of the Territory;
 
@@ -144,7 +144,7 @@ Provided that, with respect to any such law (other than such law that is an enac
 
                      (c)  evidence;
 
-                     (d)  National Land as defined by the _Australian Capital Territory__(Planning and Land Management) Act 1988_;
+                     (d)  National Land as defined by the _Australian   Capital Territory__(Planning and Land Management) Act 1988_;
 
                      (e)  companies;
 
@@ -156,7 +156,7 @@ Provided that, with respect to any such law (other than such law that is an enac
 
                       (j)  the regulation of the securities industry and the futures industry; and
 
-                     (k)  the subject matter of laws specified in Schedule 3 to the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                     (k)  the subject matter of laws specified in Schedule 3 to the _Australian Capital Territory__(Self-Government) Act 1988_.
 
           (1A)  An Ordinance made under paragraph (1)(d) has no effect to the extent that it is inconsistent with the National Capital Plan in effect under the _Australian Capital Territory (Planning and Land Management) Act 1988_, but an Ordinance shall be taken to be consistent with the Plan to the extent that it is capable of operating concurrently with the Plan.
 
@@ -164,11 +164,11 @@ Provided that, with respect to any such law (other than such law that is an enac
 
                      (a)  on or after 1 July 1992; or
 
-                     (b)  after regulations made for the purposes of subsection 34(6) of the _Australian Capital Territory (Self‑Government) Act 1988_ have amended Schedule 3 to that Act by omitting all the laws in that Schedule, other than those referred to in Schedule 5 to that Act;
+                     (b)  after regulations made for the purposes of subsection 34(6) of the _Australian Capital Territory (Self-Government) Act 1988_ have amended Schedule 3 to that Act by omitting all the laws in that Schedule, other than those referred to in Schedule 5 to that Act;
 
 whichever occurs sooner.
 
-          (1C)  Paragraph (1)(k) does not cease to have effect on and after 1 July 1992 in regard to any matter referred to in Schedule 5 to the _Australian Capital Territory (Self‑Government) Act 1988_.
+          (1C)  Paragraph (1)(k) does not cease to have effect on and after 1 July 1992 in regard to any matter referred to in Schedule 5 to the _Australian Capital Territory (Self-Government) Act 1988_.
 
              (2)  Every such Ordinance shall:
 
@@ -188,7 +188,7 @@ whichever occurs sooner.
 
           (2B)  Where a notice of an Ordinance having been made is published in accordance with subsection (2A), copies of the Ordinance shall, at the time of publication of the notice or as soon as practicable thereafter, be made available for purchase at the place, or at each of the places, specified in the notice.
 
-          (2C)  Where, on the date of publication of a notice referred to in subsection (2B), there are no copies of the Ordinance to which the notice relates available for purchase at the place, or at one or more of the places, specified in the notice, the Minister shall cause to be laid before each House of the Parliament, within 15 sitting days of that House after that date, a statement that copies of the Ordinance were not so available and the reason why they were not so available.
+          (2C)  Where, on the date of publication of a notice referred to in subsection (2B), there are no copies of the Ordinance to which the notice relates available for purchase at the place, or at one or more of the places, specified in the notice, the Minister for Sport, Recreation and Tourism shall cause to be laid before each House of the Parliament, within 15 sitting days of that House after that date, a statement that copies of the Ordinance were not so available and the reason why they were not so available.
 
           (2D)  Failure to comply with a requirement of subsection (2B) or (2C) shall not be taken to constitute a failure to comply with paragraph (2)(a) or subsection (2A).
 
@@ -214,7 +214,7 @@ the Ordinance or part, as the case may be, specified in the motion shall thereup
 
                              (ii)  the motion has been called on, moved and seconded and has not been withdrawn or otherwise disposed of;
 
-the Ordinance shall, for the purposes of the last two preceding subsections, be deemed to have been laid before that first‑mentioned House on the first sitting day of that first‑mentioned House after the dissolution, expiry or prorogation, as the case may be.
+the Ordinance shall, for the purposes of the last two preceding subsections, be deemed to have been laid before that first-mentioned House on the first sitting day of that first-mentioned House after the dissolution, expiry or prorogation, as the case may be.
 
              (6)  Where an Ordinance is disallowed, or is deemed to have been disallowed, under this section or ceases to have effect by virtue of the operation of subsection (3), the disallowance of the Ordinance or the operation of subsection (3) in relation to the Ordinance, as the case may be, has the same effect as a repeal of the Ordinance.
 
@@ -228,7 +228,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (3) 
 
           (6B)  A reference in subsection (6) or (6A) to an Ordinance shall be read as including a reference to a part of an Ordinance, and a reference in subsection (6A) to a law has a corresponding meaning.
 
-##### <a id="12AA"></a>12AA  Ordinance not to be re‑made while required to be tabled
+##### <a id="12AA"></a>12AA  Ordinance not to be re-made while required to be tabled
 
              (1)  Where an Ordinance (in this section called the **_original Ordinance_**) has been made, no Ordinance containing a provision being the same in substance as a provision of the original Ordinance shall be made during the period defined by subsection (2) unless both Houses of the Parliament by resolution approve the making of an Ordinance containing a provision the same in substance as that provision of the original Ordinance.
 
@@ -242,9 +242,9 @@ the disallowance of the relevant Ordinance or the operation of subsection (3) 
 
              (3)  If a provision of an Ordinance is made in contravention of this section, the provision has no effect.
 
-##### <a id="12AB"></a>12AB  Ordinance not to be re‑made while subject to disallowance
+##### <a id="12AB"></a>12AB  Ordinance not to be re-made while subject to disallowance
 
-             (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the Ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first‑mentioned Ordinance shall be made unless:
+             (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the Ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
                      (a)  the notice has been withdrawn;
 
@@ -260,7 +260,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (3) 
 
                      (b)  notice of a motion to disallow the Ordinance has been given in that House within 15 sitting days after that day;
 
-no Ordinance containing a provision being the same in substance as a provision of the first‑mentioned Ordinance shall be made unless:
+no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
                      (c)  the notice has been withdrawn;
 
@@ -278,7 +278,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                     <a name="ordin"></a>**_Ordinance_** includes a part of an Ordinance.
 
-##### <a id="12AC"></a>12AC  Disallowed Ordinance not to be re‑made unless resolution rescinded or House approves
+##### <a id="12AC"></a>12AC  Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
 
                    If an Ordinance or a part of an Ordinance is disallowed, or is deemed to have been disallowed, under section 12, and an Ordinance containing a provision being the same in substance as a provision so disallowed, or deemed to have been disallowed, is made within 6 months after the date of the disallowance, that provision has no effect, unless:
 
@@ -286,13 +286,13 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                      (b)  in the case of an Ordinance, or a part of an Ordinance, deemed to have been disallowed—the House of the Parliament in which notice of the motion to disallow the Ordinance or part was given has approved, by resolution, the making of a provision the same in substance as the provision deemed to have been disallowed.
 
-##### <a id="12AD"></a>12AD  Regulations, rules and by‑laws
+##### <a id="12AD"></a>12AD  Regulations, rules and by-laws
 
              (1)  All regulations made under an Ordinance shall be laid before each House of the Parliament within 15 sitting days of that House after the day on which the regulations are made and, if they are not so laid before each House of the Parliament, have no effect.
 
              (2)  Subsections 12(4) to (6B), inclusive, and sections 12AA, 12AB and 12AC apply in relation to regulations laid before a House of the Parliament as if, in those provisions, references to an Ordinance were references to regulations and references to a provision of an Ordinance were references to a regulation.
 
-             (3)  In this section, **_regulations_** includes rules and by‑laws.
+             (3)  In this section, **_regulations_** includes rules and by-laws.
 
 ##### <a id="12AE"></a>12AE  Determinations of fees or charges
 
@@ -314,7 +314,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
 ##### <a id="12D"></a>12D  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act  
 
 # Schedule—Laws of the State of New   South Wales which are not to continue in force in the Territory 
 
@@ -344,9 +344,9 @@ The _Seat of Government (Administration) Act 1910_ as shown in this compilation 
 
 The _Seat of Government (Administration) Act 1910_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+The _Seat of Government (Administration) Act 1910_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
 
-The _Seat of Government (Administration) Act 1910_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
+All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -929,7 +929,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -946,7 +946,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
 </tr>
 <tr>
   <td>
-    <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
+    <div>Lands Acquisition (Repeal and Consequential Provisions) Act1989</div>
   </td>
   <td>
     <div>21, 1989</div>
@@ -955,7 +955,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>20 Apr 1989</div>
   </td>
   <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No.S185)</div>
   </td>
   <td>
     <div>—</div>
@@ -1064,32 +1064,15 @@ Remainder: 24 May 2001</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 190): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Seat of Government (Administration) Act 1928_ was repealed by section 4 of the _Seat of Government (Administration) Act 1930_. Section 12 of which provides as follows:
 
-                  12   The repeal of the _Seat of Government (Administration) Act 1924‑1929_ shall not affect any agreement, licence or permit made, granted or preserved thereunder and existing at the commencement of this Act, or any right, title, interest, power, duty, obligation or liability created by, acquired under, or at any time existing under, or by virtue or in respect of, any such agreement, licence or permit, and all such agreements, licences and permits shall continue to be of the same force and effect as if this Act had not been passed.
+                  12   The repeal of the _Seat of Government (Administration) Act 1924-1929_ shall not affect any agreement, licence or permit made, granted or preserved thereunder and existing at the commencement of this Act, or any right, title, interest, power, duty, obligation or liability created by, acquired under, or at any time existing under, or by virtue or in respect of, any such agreement, licence or permit, and all such agreements, licences and permits shall continue to be of the same force and effect as if this Act had not been passed.
 
-_(b)_     The _Seat of Government (Administration) Act 1910_ was amended by sections 205 and 206 only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
+_(b)_    The _Seat of Government (Administration) Act 1910_ was amended by sections 205 and 206 only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
-               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_ was amended by Part LXXI (sections 262 and 263) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(11) of which provides as follows:
 
@@ -1097,7 +1080,7 @@ _(c)_     The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982
 
 _(d)     The Seat of Government (Administration) Act 1910_ was amended by sections 256 and 257 only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982,_ subsection 2(16) of which provides as follows _:_
 
-               (16)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (16)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(e)_     The _Seat of Government (Administration) Act 1910_ was amended by section 41 only of the _Conciliation and Arbitration Amendment Act (No. 2) 1983_, subsection 2(2) of which provides as follows:
 
@@ -1105,7 +1088,7 @@ _(e)_     The _Seat of Government (Administration) Act 1910_ was amended
 
 _(f)_      The _Seat of Government (Administration) Act 1910_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(g_)     The _Seat of Government (Administration) Act 1910_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
@@ -1131,13 +1114,13 @@ _(j)_      The _Seat of Government (Administration) Act 1910_ was amen
 
          The date fixed in pursuance of subsection 2(3) for sections 25, 26, 28–33, 51 and 52 was 11 May 1989 (_see Gazette_ 1989, No. S164), for the remaining sections the date fixed was 31 January 1989 (_see Gazette_ 1989, No. S39).
 
-_(k)_     The _Seat of Government (Administration) Act 1910_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+_(k)_     The _Seat of Government (Administration) Act 1910_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
 _(l)_      The _Seat of Government (Administration) Act 1910_ was amended by sections 27 and 28 only of the _Arts, Environment, Tourism and Territories Legislation Amendment Act 1990_, subsections 2(4) and (5) of which provide as follows:
 
-                 (4)   Part 9, other than paragraph 28(a), is taken to have commenced immediately after the commencement of section 32 of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.
+                 (4)   Part 9, other than paragraph 28(a), is taken to have commenced immediately after the commencement of section 32 of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.
 
                  (5)   Section 28(a) is taken to have commenced on 1 July 1990.
 
@@ -1223,7 +1206,7 @@ _(n)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act</i>
         <i>2009</i>.
     </div>
@@ -1258,15 +1241,15 @@ _(n)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
       <div>How affected</div>
     </td>
   </tr>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>Heading preceding s. 1</div>
@@ -1544,7 +1527,7 @@ _(n)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 8, 1924 (as am. by No. 44, 1928); No. 86, 1939; No. 14, 1940; No. 90, 1959; No. 24, 1963; No. 90, 1970; No. 40,1978; Nos. 26 and 80, 1982; No. 65, 1985; No. 168, 1986; Nos. 99 and 109, 1988; No. 88, 1990; No. 5, 2011</div>
+    <div>am. No. 8, 1924 (as am. by No. 44, 1928); No. 86, 1939; No.14, 1940; No. 90, 1959; No. 24, 1963; No. 90, 1970; No. 40,1978; Nos. 26 and 80, 1982; No. 65, 1985; No. 168, 1986; Nos. 99 and 109, 1988; No. 88, 1990</div>
   </td>
 </tr>
 <tr>
@@ -1676,9 +1659,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1688,9 +1671,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1698,15 +1681,15 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 ## Table B
 
 ### Modifications
 
-### A.C.T. Self‑Government (Consequential Provisions) Regulations
+### A.C.T. Self-Government (Consequential Provisions) Regulations
 
 ## Paragraph 12(2)(b):
 
@@ -1716,12 +1699,12 @@ Before “take” insert “subject to subsection (2AA).”.
 
 Insert the following subsection:
 
-     “(2AA)  An Ordinance that:
+      “(2AA)  An Ordinance that:
 
                      (a)  makes provision in relation to a matter arising from, connected with or consequential upon the establishment of the Territory as a body politic under the Crown; and
 
-                     (b)  is made on or before Self‑Government Day within the meaning of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_;
+                     (b)  is made on or before Self-Government Day within the meaning of the A.C.T. _Self-Government (Consequential Provisions) Act 1988_;
 
-may be expressed to take effect from the date of commencement of a provision of the _Australian Capital Territory__(Self‑Government) Act 1988_.”
+may be expressed to take effect from the date of commencement of a provision of the _Australian Capital Territory__(Self-Government) Act 1988_.”
 
  
