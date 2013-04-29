@@ -1,9 +1,8 @@
 
 International Transfer of Prisoners Act 1997
 Act No. 75 of 1997 as amended
-This compilation was prepared on 27 March 2003 taking into account amendments up to Act No. 141 of 2002
+This compilation was prepared on 13 June 2002 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -25,7 +24,7 @@ Part 2—Transfers generally	13
 12	Eligibility for transfer from Australia of prisoners (other than Tribunal prisoners)	14
 13	Eligibility for transfer to Australia of prisoners (other than Tribunal prisoners)	14
 14	Transfer conditions—transfer from Australia	14
-15	Transfer conditions—transfer to Australia	16
+15	Transfer conditions—transfer to Australia	15
 Part 3—Transfers from Australia	18
 16	Applications for transfer from Australia	18
 17	Preliminary consideration of application for transfer	18
@@ -72,9 +71,10 @@ Part 7—Miscellaneous	38
 54	Notification of countries as transfer countries	39
 55	Transit of prisoners	39
 56	Arrest of persons escaping from custody	40
-57	Consent of the Immigration Minister	40
+57	Consultation with Minister for Immigration and Multicultural Affairs	40
 58	Regulations	40
-Notes	43
+Notes		43
+
 An Act relating to the transfer of prisoners to and from Australia
 Part 1—Preliminary
   
@@ -107,7 +107,6 @@ foreign law means a law of a foreign country or of a part of, or in force in a p
 Former Yugoslavia Tribunal:
 	(a)	means the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991, established by Resolution 827 (1993) of the Security Council of the United Nations, a copy of the English text of which is set out in Schedule 1 to the International War Crimes Tribunals Act 1995; and
 	(b)	includes any of the organs referred to in Article 11 of the Statute of the Tribunal.
-Immigration Minister means the Minister administering the Migration Act 1958.
 joint prisoner means a prisoner who is:
 	(a)	both a State prisoner or a Territory prisoner (or both) and a federal prisoner; or
 	(b)	both a State prisoner and a Territory prisoner.
@@ -247,13 +246,10 @@ Part 2—Transfers generally
 	(b)	has community ties with the transfer country.
 Note:	Community ties with a transfer country is defined in subsection 4(4).
 13  Eligibility for transfer to Australia of prisoners (other than Tribunal prisoners)
-	(1)	A prisoner (other than a Tribunal prisoner) is eligible for transfer to Australia from a transfer country under this Act if the prisoner:
+		A prisoner (other than a Tribunal prisoner) is eligible for transfer to Australia from a transfer country under this Act if the prisoner:
 	(a)	is an Australian citizen; or
 	(b)	is permitted to travel to, enter and remain in Australia indefinitely pursuant to the Migration Act 1958 and has community ties with a State or a Territory.
 Note:	Community ties with a State or Territory is defined in subsection 4(5).
-	(2)	If a request is made for the transfer of a prisoner (other than a Tribunal prisoner) to Australia, the Attorney‑General must consult with the Immigration Minister about whether the prisoner:
-	(a)	is eligible under subsection (1) for a transfer to Australia; or
-	(b)	is likely to be eligible under subsection (1) for a transfer to Australia at a future time specified by the Attorney‑General for the purposes of the consultation.
 14  Transfer conditions—transfer from Australia
 	(1)	The conditions for transfer from Australia of a prisoner (other than a mentally impaired prisoner) are satisfied if:
 	(a)	neither the sentence of imprisonment imposed by the Australian court nor the conviction on which it is based is subject to appeal; and
@@ -522,8 +518,8 @@ Part 7—Miscellaneous
 	(1)	A police officer may, without warrant, arrest a person if the officer has reasonable grounds to believe that the person has escaped from custody authorised by this Act.
 	(2)	The police officer must, as soon as practicable, take the person before a magistrate.
 	(3)	If the magistrate is satisfied that the person has escaped from custody authorised by this Act, the magistrate may issue a warrant authorising any police officer to return the person to the custody from which the person escaped.
-57  Consent of the Immigration Minister
-		If the Attorney‑General proposes to consent to the transfer to Australia of a Tribunal prisoner, the Attorney‑General must first obtain the consent of the Immigration Minister.
+57  Consultation with Minister for Immigration and Multicultural Affairs
+		The Attorney‑General must not make any decision under this Act affecting a prisoner who is not an Australian citizen without the consent of the Minister for Immigration and Multicultural Affairs.
 58  Regulations
 	(1)	The Governor‑General may make regulations prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
@@ -549,11 +545,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (item 551): (a) 
 —
-Crimes Legislation Amendment (People Smuggling, Firearms Trafficking and Other Measures) Act 2002
-141, 2002
-19 Dec 2002
-Schedule 3 (items 24–26): 16 Jan 2003
-—
 (a)	The International Transfer of Prisoners Act 1997 was amended by Schedule 1 (item 551) only of the Public Employment (Consequential and Transitional) Amendment Act 1999 subsection 2(4)of which provides as follows:
 	(4)	If:
 	(a)	an item (the amending item) of a Schedule to this Act is expressed to amend, or to amend a part of, a section (the amended section) of another Act; and
@@ -565,13 +556,9 @@ Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 4	
-am. No. 141, 2002
-S. 13	
-am. No. 141, 2002
 S. 53 	
 am. No. 146, 1999
-S. 57	
-rs. No. 141, 2002
+
+
 
 
