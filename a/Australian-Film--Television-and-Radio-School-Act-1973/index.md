@@ -1,126 +1,128 @@
-![](http://www.comlaw.gov.au/Details/C2008C00109/Html/AusFilmTelRadSchool73WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00555/Html/F961FC39E243B741CA257070001A3658/$FILE/image001.gif)
 
 # Australian Film, Television and Radio School Act 1973
 
 **Act No. 95 of 1973 as amended**
 
-This compilation was prepared on 28 March 2008
- taking into account amendments up to Act No. 13 of 2008
+This compilation was prepared on 2 September 2005
+taking into account amendments up to Act No. 110 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
 **Part II—The Australian Film, Television and Radio School**
 
-[4](#4).            Establishment of School
+[4](#4).            Establishment of School                                                                      3
 
-[5](#5).            Functions of School
+[5](#5).            Functions of School                                                                             3
 
-[6](#6).            Powers of School
+[6](#6).            Powers of School                                                                                 4
 
-[6A](#6A).         School may determine degrees, diplomas and certificates
+[6A](#6A).         School may determine degrees, diplomas and certificates                   5
 
 **Part III—The Council of the School**
 
-[7](#7).            The Council
+[7](#7).            The Council                                                                                         6
 
-[8](#8).            Constitution of Council
+[8](#8).            Constitution of Council                                                                       6
 
-[9](#9).            Members elected by members of staff of School
+[9](#9).            Members elected by members of staff of School                                7
 
-[10](#10).          Members elected by students
+[10](#10).          Members elected by students                                                              7
 
-[11](#11).          Eligibility for appointment as member
+[11](#11).          Eligibility for appointment as member                                                8
 
-[12](#12).          Delegation by Council
+[12](#12).          Delegation by Council                                                                         8
 
-[13](#13).          Chair and Deputy Chair of Council
+[13](#13).          Chair and Deputy Chair of Council                                                     9
 
-[14](#14).          Resignation of members
+[14](#14).          Resignation of members                                                                       9
 
-[15](#15).          Dismissal of members
+[15](#15).          Dismissal of members                                                                        10
 
-[16](#16).          Fees and allowances
+[16](#16).          Fees and allowances                                                                           10
 
-[17](#17).          Leave of absence
+[17](#17).          Leave of absence                                                                                10
 
-[18](#18).          Vacation of office
+[18](#18).          Vacation of office                                                                               10
 
-[20](#20).          Meetings of Council
+[20](#20).          Meetings of Council                                                                          11
 
 **Part IV—Convocation**
 
-[21](#21).          Constitution of Convocation
+[21](#21).          Constitution of Convocation                                                             12
 
-[22](#22).          Roll of members
+[22](#22).          Roll of members                                                                                 12
 
-[23](#23).          Meetings of Convocation
+[23](#23).          Meetings of Convocation                                                                  13
 
 **Part V—The Director**
 
-[24](#24).          Director of School
+[24](#24).          Director of School                                                                              14
 
-[25](#25).          Tenure of office
+[25](#25).          Tenure of office                                                                                 14
 
-[26](#26).          Functions of Director
+[26](#26).          Functions of Director                                                                        14
 
-[27](#27).          Remuneration and allowances of Director
+[27](#27).          Remuneration and allowances of Director                                         14
 
-[28](#28).          Resignation
+[28](#28).          Resignation                                                                                        14
 
-[29](#29).          Vacation of office of Director
+[29](#29).          Vacation of office of Director                                                            14
 
-[30](#30).          Director not to undertake any other work
+[30](#30).          Director not to undertake any other work                                         15
 
-[31](#31).          Acting Director
+[31](#31).          Acting Director                                                                                  15
 
 **Part VI—Staff**
 
-[34](#34).          Employment of staff of School
+[34](#34).          Employment of staff of School                                                         17
 
-[35](#35).          Terms and conditions of employment of staff
+[35](#35).          Terms and conditions of employment of staff                                  17
 
 **Part VII—Finance**
 
-[36](#36).          Moneys payable to School
+[36](#36).          Moneys payable to School                                                                18
 
-[39](#39).          Application of moneys
+[39](#39).          Application of moneys                                                                      18
 
-[40](#40).          Power to purchase and dispose of assets
+[40](#40).          Power to purchase and dispose of assets                                          18
 
-[44](#44).          Exemption from taxation
+[44](#44).          Exemption from taxation                                                                   19
 
 **Part VIII—Miscellaneous**
 
-[46](#46).          Application of Air Accidents (Commonwealth Liability) Act
+[46](#46).          Application of Air Accidents (Commonwealth Liability) Act         20
 
-[47](#47).          Inventions etc  of employees
+[47](#47).          Inventions etc  of employees                                                             20
 
-[48](#48).          Bonuses for discoveries by employees
+[48](#48).          Bonuses for discoveries by employees                                             20
 
-[49](#49).          Fees and agreements
+[49](#49).          Fees and agreements                                                                          20
 
-[50](#50).          Fees payable by students
+[50](#50).          Fees payable by students                                                                  21
 
-[51](#51).          Regulations
+[51](#51).          Regulations                                                                                        21
 
 **Notes** 
+
 
 ## An Act to establish a Film, Television and Radio School
 
@@ -508,7 +510,7 @@ the Governor-General shall remove the Director from office.
 
 ## Part VI—Staff
 
-##### <a id="34"></a>34  Employment of staff of School
+##### <a id="34"></a>34  Employment of staff of School
 
                    The School may employ such persons as are necessary for the purposes of this Act.
 
@@ -602,6 +604,7 @@ the Governor-General shall remove the Director from office.
 
                       (f)  penalties not exceeding a fine of 1 penalty unit for offences against the regulations.
 
+
 # Notes to the _Australian Film, Television and Radio School Act 1973_
 
 ### Note 1
@@ -628,11 +631,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -642,280 +647,268 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Film and Television School Act 1973</div>
-  </td>
-  <td>
-    <div>95, 1973</div>
-  </td>
-  <td>
-    <div>31 Aug 1973</div>
-  </td>
-  <td>
-    <div>31 Aug 1973</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Film and Television School Amendment Act 1976</div>
-  </td>
-  <td>
-    <div>110, 1976</div>
-  </td>
-  <td>
-    <div>29 Oct 1976</div>
-  </td>
-  <td>
-    <div>29 Oct 1976</div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-  </td>
-  <td>
-    <div>36, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td>
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts, Territories and Environment Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>60, 1989</div>
-  </td>
-  <td>
-    <div>19 June 1989</div>
-  </td>
-  <td>
-    <div>Ss. 11 and 13: 7 Dec 1988 
-Part 5 (ss.14, 15): 11 May 1989 ( <i>see</i>s. 2(3) and <i>Gazette</i>1989, No. S164) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
-  </td>
-  <td>
-    <div>179, 1991</div>
-  </td>
-  <td>
-    <div>25 Nov 1991</div>
-  </td>
-  <td>
-    <div>25 Nov 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Communications and the Arts Legislation Amendment Act (No. 1) 1995</div>
-  </td>
-  <td>
-    <div>32, 1995</div>
-  </td>
-  <td>
-    <div>12 Apr 1995</div>
-  </td>
-  <td>
-    <div>Schedule (items 2–5): Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 22, 23): Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 238–246): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 173): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 24, 25): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts Legislation Amendment (Maritime Museum and Film, Television and Radio School) Act 2005</div>
-  </td>
-  <td>
-    <div>110, 2005</div>
-  </td>
-  <td>
-    <div>31 Aug 2005</div>
-  </td>
-  <td>
-    <div>31 Aug 2005</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Screen Australia and the National Film and Sound Archive (Consequential and Transitional Provisions) Act 2008</div>
-  </td>
-  <td>
-    <div>13, 2008</div>
-  </td>
-  <td>
-    <div>20 Mar 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 2): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Film and Television School Act 1973</div>
+    </td>
+    <td>
+      <div>95, 1973</div>
+    </td>
+    <td>
+      <div>31 Aug 1973</div>
+    </td>
+    <td>
+      <div>31 Aug 1973</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Film and Television School Amendment Act 1976</div>
+    </td>
+    <td>
+      <div>110, 1976</div>
+    </td>
+    <td>
+      <div>29 Oct 1976</div>
+    </td>
+    <td>
+      <div>29 Oct 1976</div>
+    </td>
+    <td>
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+    </td>
+    <td>
+      <div>36, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+    </td>
+    <td>
+      <div>76, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts, Territories and Environment Legislation Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>60, 1989</div>
+    </td>
+    <td>
+      <div>19 June 1989</div>
+    </td>
+    <td>
+      <div>Ss. 11 and 13: 7 Dec 1988 
+Part 5 (ss.14 and 15): 11 May 1989 ( <i>see</i>s. 2(3) and <i>Gazette</i>1989, No. S164) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
+    </td>
+    <td>
+      <div>179, 1991</div>
+    </td>
+    <td>
+      <div>25 Nov 1991</div>
+    </td>
+    <td>
+      <div>25 Nov 1991</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Communications and the Arts Legislation Amendment Act (No. 1) 1995</div>
+    </td>
+    <td>
+      <div>32, 1995</div>
+    </td>
+    <td>
+      <div>12 Apr 1995</div>
+    </td>
+    <td>
+      <div>Schedule (items 2–5): Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 22, 23): Royal Assent <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 238–246): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 173): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td>
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (items 24, 25): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts Legislation Amendment (Maritime Museum and Film, Television and Radio School) Act 2005</div>
+    </td>
+    <td>
+      <div>110, 2005</div>
+    </td>
+    <td>
+      <div>31 Aug 2005</div>
+    </td>
+    <td>
+      <div>31 Aug 2005</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Australian Film, Television and Radio School Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
@@ -949,6 +942,7 @@ _(g)_     The _Australian Film, Television and Radio School Act 1973_ wa
 
                               (c)   the items in Schedules 10, 11 and 12.
 
+
 ## Table of Amendments
 
 <table>
@@ -972,496 +966,481 @@ _(g)_     The _Australian Film, Television and Radio School Act 1973_ wa
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976; No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976; No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976; No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976; No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 152,1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976; No. 110, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976; No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 60, 1989; No. 179, 1991; No. 32, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9, 10</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 60, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>rs. No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 60, 1989; No. 32, 1995; No. 152, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976; No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976; No. 76, 1986; No. 179, 1991; No, 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976; No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>rep. No. 110, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 37, 38</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rep. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rep. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 110, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 32, 1995; No. 152, 1997</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976; No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976; No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976; No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976; No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 4(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 152,1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976; No. 110, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 110, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976; No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 60, 1989; No. 179, 1991; No. 32, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 9, 10</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 60, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 179, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>rs. No. 110, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>rs. No. 179, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 60, 1989; No. 32, 1995; No. 152, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976; No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976; No. 76, 1986; No. 179, 1991; No, 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976; No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 159, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>rep. No. 110, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 37, 38</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 179, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>rep. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>rep. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 110, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 32, 1995; No. 152, 1997</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Screen Australia and the National Film and Sound Archive (Consequential and Transitional Provisions) Act 2008 (No. 13, 2008)_
-
-The following amendment commences on 20 September 2008 unless proclaimed earlier:
-
-## Schedule 1
-
-## 2  At the end of Part VI
-
-Add:
-
-##### <a id="35A"></a>35A  Long service leave for the School’s employees
-
-                   The _Long Service Leave (Commonwealth Employees) Act 1976_ applies to a person employed by the School under section 34 of this Act as if the person were engaged under the _Public Service Act 1999_.
-
-As at 28 March 2008 the amendment is not incorporated in this compilation.
 
 Table A
 
@@ -1475,7 +1454,9 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Arts Legislation Amendment (Maritime Museum and Film, Television and Radio School) Act 2005 (No. 110, 2005)_
 
@@ -1484,5 +1465,6 @@ _Arts Legislation Amendment (Maritime Museum and Film, Television and Radio Scho
 ## 3  Saving provision
 
 Despite the amendment made by item 1, regulations in force for the purposes of paragraph 5(1)(g) of the _Australian Film, Television and Radio School Act 1973_ immediately before the commencement of this item continue in effect, after that commencement, until the first determination made under section 6A of that Act is registered under the _Legislative Instruments Act 2003_.
+
 
  
