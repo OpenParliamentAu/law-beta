@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00536/Html/569838f4-d2be-4c67-8dd0-6d8c370655f5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00428/Html/CorporationsReviewFees2003_image001.gif)
 
 # Corporations (Review Fees) Act 2003
 
 **Act No. 23 of 2003 as amended**
 
-This compilation was prepared on 1 September 2007
+This compilation was prepared on 4 July 2007
  taking into account amendments up to Act No. 103 of 2007
 
 The text of any of those amendments not in force 
@@ -14,25 +14,25 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1  Short title \[see Note 1]](#1  Short title \[see Note 1]).                                                                                  1
 
-[2](#2).            Commencement
+[2  Commencement](#2  Commencement).                                                                                             1
 
-[3](#3).            Application to the Crown
+[3  Application to the Crown](#3  Application to the Crown).                                                                             1
 
-[4](#4).            Definitions
+[4  Definitions](#4  Definitions).                                                                                                     1
 
-[5](#5).            Imposition of review fees
+[5  Imposition of review fees](#5  Imposition of review fees).                                                                              1
 
-[6](#6).            Matters relating to amount of fees
+[6  Matters relating to amount of fees](#6  Matters relating to amount of fees).                                                                2
 
-[7](#7).            Who is liable to pay a review fee, and time that liability is incurred
+[7  Who is liable to pay a review fee, and time that liability is incurred](#7  Who is liable to pay a review fee, and time that liability is incurred).             2
 
-[8](#8).            Regulations
+[8  Regulations](#8  Regulations).                                                                                                    3
 
 **Notes** 
 
@@ -79,8 +79,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (e)  natural persons registered as liquidators under Part 9.2 of the _Corporations Act 2001_;
 
                       (f)  persons holding an Australian financial services licence under Part 7.6 of the _Corporations Act 2001_.
-
-Note:          The regulations may prescribe a fee to be paid in one year in relation to the review date of a later year (see paragraph 1351(4)(b) of the _Corporations Act 2001_).
 
              (2)  The fees prescribed by the regulations are imposed, and are so imposed as taxes.
 
@@ -205,7 +203,7 @@ Note:          The regulations may prescribe a fee to be paid 
 
 ##### <a id="8"></a>8  Regulations
 
-                   The Governor‑General may make regulations for the purposes of this Act and section 1351 of the _Corporations Act 2001_.
+                   The Governor-General may make regulations for the purposes of this Act.
 
 # Notes to the _Corporations (Review Fees) Act 2003_
 
@@ -273,50 +271,31 @@ of Assent</div>
     <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Sept 2007 ( <i>see</i>s. 2(1) and F2007L02629) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1: \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Corporations (Review Fees) Amendment Act 2007 (No. 103, 2007)_
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2007</div>
-  </td>
-</tr></table>
+The following amendments commence on 28 December 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  At the end of subsection 5(1)
+
+Add:
+
+Note:          The regulations may prescribe a fee to be paid in one year in relation to the review date of a later year (see paragraph 1351(4)(b) of the _Corporations Act 2001_).
+
+## 2  Section 8
+
+After “this Act”, insert “and section 1351 of the _Corporations Act 2001_”.
+
+As at 4 July 2007 the amendments are not incorporated in this compilation.
 
  
