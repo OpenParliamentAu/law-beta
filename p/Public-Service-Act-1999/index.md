@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00324/Html/PublicService1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00130/Html/PublicService1999WD02_image001.gif)
 
 # Public Service Act 1999
 
 **Act No. 147 of 1999 as amended**
 
-This compilation was prepared on 13 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 20 March 2009
+ taking into account amendments up to Act No. 90 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -36,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Interpretation
 
-[8](#8).            Relationship with Fair Work Acts
+[8](#8).            Workplace Relations Act
 
 **Part 3—The Australian Public Service**
 
@@ -268,7 +268,7 @@ Note:          See also the _Public Employment (Consequential 
 
 ##### <a id="7"></a>7  Interpretation
 
-                   In this Act, unless the contrary intention appears:
+                   In this Act, unless the contrary intention appears:
 
                     <a name="acting-se-employe"></a>**_acting SES employee_** means a non-SES employee who is acting in a position usually occupied by an SES employee.
 
@@ -296,6 +296,8 @@ Note:          See also the _Public Employment (Consequential 
 
                      (c)  in relation to a Statutory Agency—the Minister who administers the provision of the Act that provides for the appointment of the Head of the Agency.
 
+                    <a name="apc"></a>**_APCS_**has the meaning given by the _Workplace Relations Act 1996_.
+
                     <a name="ap"></a>**_APS_** means the Australian Public Service established by section 9.
 
                     <a name="ap-employe"></a>**_APS employee_** means:
@@ -308,9 +310,11 @@ Note:          See also the _Public Employment (Consequential 
 
                     <a name="ap-valu"></a>**_APS Values_** means the values in section 10.
 
-                    <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+                    <a name="awa"></a>**_AWA_** has the meaning given by Schedule 7A to the _Workplace Relations Act 1996_.
 
-Note:          See Schedules 4 and 9 of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ in relation to the application of the Australian Fair Pay and Conditions Standard.
+                    <a name="award"></a>**_award_** has the same meaning as in the _Workplace Relations Act 1996_.
+
+                    <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the meaning given by the _Workplace Relations Act 1996_.
 
                     <a name="categori-ap-employe"></a>**_category of APS employee_** means one of the following categories:
 
@@ -324,17 +328,15 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
 
                     <a name="code-conduct"></a>**_Code of Conduct_** means the rules in section 13.
 
+                    <a name="collect-agreem"></a>**_collective agreement_** has the meaning given by the _Workplace Relations Act 1996_.
+
                     <a name="commission"></a>**_Commissioner_** means the Public Service Commissioner appointed under this Act.
 
                     <a name="commission-direct"></a>**_Commissioner’s Directions_** means directions issued by the Commissioner under section 11, 15 or 36.
 
                     <a name="depart"></a>**_Department_** means a Department of State, excluding any part that is itself an Executive Agency or Statutory Agency.
 
-                    <a name="enterpris-agreem"></a>**_enterprise agreement_** has the same meaning as in the _Fair Work Act 2009_.
-
                     <a name="execut-agenc"></a>**_Executive Agency_** means an Executive Agency established under section 65.
-
-                    <a name="fair-work-instrum"></a>**_fair work instrument_** has the same meaning as in the _Fair Work Act 2009_.
 
                     <a name="head"></a>**_Head_**:
 
@@ -352,10 +354,6 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
 
                     <a name="merit-protect-commission"></a>**_Merit Protection Commissioner_** means the Merit Protection Commissioner appointed under this Act.
 
-                    <a name="modern-award"></a>**_modern award_** has the same meaning as in the _Fair Work Act 2009_.
-
-                    <a name="nation-employ-standard"></a>**_National Employment Standards_** has the same meaning as in the _Fair Work Act 2009_.
-
                     <a name="non-ongoing-ap-employe"></a>**_non-ongoing APS employee_** means an APS employee who is not an ongoing APS employee. 
 
                     <a name="non-se-employe"></a>**_non-SES employee_** means an APS employee other than an SES employee.
@@ -363,6 +361,10 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
                     <a name="ongoing-ap-employe"></a>**_ongoing APS employee_** means a person engaged as an ongoing APS employee, as mentioned in paragraph 22(2)(a).
 
                     <a name="oversea"></a>**_overseas_** means outside Australia and the Territories.
+
+                    <a name="pre-reform-awa"></a>**_pre-reform AWA_** has the meaning given by the _Workplace Relations Act 1996_.
+
+                    <a name="pre-reform-certifi-agreem"></a>**_pre-reform certified agreement_** has the meaning given by the _Workplace Relations Act 1996_.
 
                     <a name="presid-offic"></a>**_Presiding Officer_** means the President of the Senate or the Speaker of the House of Representatives.
 
@@ -378,15 +380,13 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
 
                     <a name="statutori-agenc"></a>**_Statutory Agency_** means a body or group of persons declared by an Act to be a Statutory Agency for the purposes of this Act.
 
-                    <a name="wr-act-collect-transition-instrum"></a>**_WR Act collective transitional instrument_** means an award, a collective agreement or a pre-reform certified agreement (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+                    <a name="workplac-agreem"></a>**_workplace agreement_** has the meaning given by the _Workplace Relations Act 1996_.
 
-                    <a name="wr-act-transition-instrum"></a>**_WR Act transitional instrument_** means an award, a workplace agreement, a pre-reform certified agreement, an AWA or a pre-reform AWA (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+##### <a id="8"></a>8  Workplace Relations Act
 
-##### <a id="8"></a>8  Relationship with Fair Work Acts
+             (1)  This Act has effect subject to the _Workplace Relations Act 1996_.
 
-             (1)  This Act has effect subject to the _Fair Work Act 2009_ and the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-             (2)  Subsection (1) is not intended to imply anything about the relationship between this Act and any Act other than the _Fair Work Act 2009_ or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+             (2)  Subsection (1) is not intended to imply anything about the relationship between this Act and any Act other than the _Workplace Relations Act 1996_.
 
 ## Part 3—The Australian Public Service
 
@@ -614,11 +614,7 @@ must do so without patronage or favouritism.
 
              (1)  The Public Service Minister may, by notice in the _Gazette_, make rules about classifications of APS employees.
 
-             (2)  The Classification Rules may apply, adopt or incorporate, with or without modification, any of the provisions of:
-
-                     (a)  a modern award, as in force at a particular time or as in force from time to time; or
-
-                     (b)  a transitional APCS, as in force at a particular time or as in force from time to time.
+             (2)  The Classification Rules may apply, adopt or incorporate, with or without modification, any of the provisions of an APCS, as in force at a particular time or as in force from time to time.
 
              (3)  Agency Heads must comply with the Classification Rules.
 
@@ -638,63 +634,19 @@ must do so without patronage or favouritism.
 
                      (g)  in other circumstances prescribed by the regulations.
 
-             (5)  If a relevant industrial instrument contains procedures to be followed when reducing the classification, then a reduction is of no effect unless those procedures are followed.
-
-             (6)  In this section:
-
-                    <a name="industri-instrum"></a>**_industrial instrument_** means:
-
-                     (a)  a modern award; or
-
-                     (b)  an enterprise agreement; or
-
-                     (c)  a workplace determination; or
-
-                     (d)  a WR Act transitional instrument; or
-
-                     (e)  a transitional APCS.
-
-                    <a name="transition-apc"></a>**_transitional APCS_** has the meaning given by Schedule 2 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-                    <a name="workplac-determin"></a>**_workplace determination_** has the same meaning as in the _Fair Work Act 2009_.
+             (5)  If a relevant APCS, workplace agreement, pre-reform certified agreement, AWA or pre-reform AWA contains procedures to be followed when reducing the classification, then a reduction is of no effect unless those procedures are followed.
 
 ##### <a id="24"></a>24  Remuneration and other conditions
 
-             (1)  An Agency Head may from time to time determine in writing the remuneration and other terms and conditions of employment applying to an APS employee or APS employees in the Agency.
+             (1)  An Agency Head may from time to time determine in writing the remuneration and other terms and conditions of employment applying to an APS employee or employees in the Agency.  A determination is of no effect to the extent that it would reduce the benefit to an employee of any individual term or condition applicable to the employee under the Australian Fair Pay and Conditions Standard or an award, workplace agreement, pre-reform certified agreement, AWA or pre-reform AWA.
 
-Note 1:       Certain terms and conditions of employment are applicable to an APS employee under the Australian Fair Pay and Conditions Standard or the National Employment Standards.
+Note:          Other Commonwealth laws deal with matters such as superannuation, compensation, long-service leave and maternity leave.
 
-Note 2:       Other Commonwealth laws deal with matters such as superannuation, compensation, long service leave and maternity leave.
-
-          (1A)  A determination under subsection (1) is of no effect to the extent that it would reduce the benefit to an APS employee of an individual term or condition applicable to the employee under:
-
-                     (a)  a fair work instrument; or
-
-                     (b)  a WR Act transitional instrument.
-
-Note:          A determination under subsection (1) would also be of no effect to the extent that it would reduce the benefit to an APS employee of a term or condition applicable to the employee under the Australian Fair Pay and Conditions Standard or the National Employment Standards.
-
-             (2)  A determination under subsection (1) may apply, adopt or incorporate, with or without modification, any of the provisions of:
-
-                     (a)  a fair work instrument; or
-
-                     (b)  a WR Act collective transitional instrument;
-
-as in force from time to time.
-
-Note:          A determination under subsection (1) may apply, adopt or incorporate, with or without modification, any of the provisions of the Australian Fair Pay and Conditions Standard or the National Employment Standards. However, any modification of the provisions of those Standards by a determination under subsection (1) would be of no effect to the extent that it would reduce the benefit to an APS employee of a term or condition applicable to the employee under those Standards.
+             (2)  A determination under subsection (1) may apply, adopt or incorporate, with or without modification, any of the provisions of the Australian Fair Pay and Conditions Standard or an award, collective agreement or pre-reform certified agreement, as in force at a particular time or as in force from time to time.
 
              (3)  The Public Service Minister may, by notice in the _Gazette_, determine the remuneration and other terms and conditions of employment applying to APS employees, if the Public Service Minister is of the opinion that it is desirable to do so because of exceptional circumstances.
 
-             (4)  The limitation in subsection (1A) does not apply in relation to a determination under subsection (3).
-
-             (5)  A determination under subsection (3) overrides the following, to the extent of any inconsistency:
-
-                     (a)  a determination under subsection (1);
-
-                     (b)  the Australian Fair Pay and Conditions Standard;
-
-                     (c)  the National Employment Standards.
+             (4)  A determination under subsection (3) overrides any determination under subsection (1), to the extent of any inconsistency.
 
 ##### <a id="25"></a>25  Assignment of duties
 
@@ -720,7 +672,7 @@ Note:          A determination under subsection (1) may appl
 
              (1)  An Agency Head may at any time, by notice in writing, terminate the employment of an APS employee in the Agency.
 
-Note:          The _Fair Work Act 2009_ has rules and entitlements that apply to termination of employment.
+Note:          The _Workplace Relations Act 1996_ has rules and entitlements that apply to termination of employment.
 
              (2)  For an ongoing APS employee, the notice must specify the ground or grounds that are relied on for the termination.
 
@@ -1156,7 +1108,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
                    At any time after the appointment of a Secretary is terminated under section 56 or 59, the Prime Minister, on behalf of the Commonwealth, may engage the former Secretary to perform specified duties (otherwise than as an APS employee), on terms and conditions determined by the Prime Minister.
 
-##### <a id="61"></a>61  Remuneration and other conditions
+##### <a id="61"></a>61  Remuneration and other conditions
 
              (1)  The remuneration and other conditions of appointment of a Secretary are as determined in writing by the Prime Minister.
 
@@ -1308,19 +1260,19 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (3)  If an APS employee (the **_transferred employee_**) becomes an employee of a Commonwealth authority under paragraph (1)(b), the employee is entitled to remuneration and other conditions of employment that are not less favourable than the terms and conditions to which the employee was entitled as an APS employee, immediately before ceasing to be an APS employee, under:
 
-                     (a)  a fair work instrument; or
+                     (a)  the Australian Fair Pay and Conditions Standard or an award, workplace agreement, pre-reform certified agreement, AWA or pre-reform AWA; or
 
-                     (b)  a WR Act transitional instrument; or
-
-                     (c)  a determination under this Act.
+                     (b)  a determination under this Act.
 
              (4)  Subsection (3) ceases to have effect on the next occasion when there is a relevant change in remuneration and conditions in the Commonwealth authority. For this purpose, **_relevant change_** means a change that:
 
                      (a)  results from:
 
-                              (i)  the making, variation or termination of a modern award, an enterprise agreement or a workplace determination; or
+                              (i)  the making or variation of an award or workplace agreement; or
 
-                             (ii)  the variation, termination or replacement of a WR Act transitional instrument; and
+                             (ii)  an adjustment or variation of the Australian Fair Pay and Conditions Standard; or 
+
+                            (iii)  the termination or replacement of a pre-reform certified agreement, AWA or pre-reform AWA; and
 
                      (b)  applies to the transferred employee, or to a class of employees that includes the transferred employee.
 
@@ -1337,8 +1289,6 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** includes a company in which the Commonwealth has a controlling interest.
 
                     <a name="non-ap-employe"></a>**_non-APS employee_** means a person who is employed by the Commonwealth or by a Commonwealth authority, but does not include an APS employee.
-
-                    <a name="workplac-determin"></a>**_workplace determination_** has the same meaning as in the _Fair Work Act 2009_.
 
 ## Part 11—Miscellaneous
 
@@ -1645,26 +1595,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 16 (items 4–28): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>Sch. 16 (item 28)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1837,62 +1767,6 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
   </td>
 </tr></table>
 
-_(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      39\. Schedule 16
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -1929,23 +1803,7 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1969,15 +1827,7 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
     <div>Ss. 23, 24</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 29(1)</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2065,7 +1915,7 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
     <div>S. 72</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2194,15 +2044,5 @@ the enabling legislation has effect, on and after the commencing day, as if:
              (5)  In this section:
 
                     <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._
-
-* * *
-
-_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
-
-## Schedule 16
-
-## 28  Saving provision—determinations under subsection 24(1)
-
-If a determination made by an Agency Head under subsection 24(1) of the _Public Service Act 1999_ was in force immediately before the commencement of this Schedule, the determination continues in force on and after that commencement as if it had been made under subsection 24(1) of that Act, as amended by this Schedule.
 
  
