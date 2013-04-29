@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image001.gif)
 
 # A New Tax System (Commonwealth-State Financial Arrangements) Act 1999
 
 **Act No. 110 of 1999 as amended**
 
-This compilation was prepared on 7 April 2009
- taking into account amendments up to Act No. 12 of 2009
+This compilation was prepared on 20 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -226,21 +226,21 @@ These are described by a figure referring to 2 years (for example, the 2000-01 t
 
 * * *
 
-Step 1\. Add together all of the actual amounts determined for matters covered by subsection (3) for the period from 1 July to 31 May in the GST year.
+_Step 1._ Add together all of the actual amounts determined for matters covered by subsection (3) for the period from 1 July to 31 May in the GST year.
 
-Step 2\. Add together all of the estimates for June in the GST year for matters covered by subsection (3).
+_Step 2._ Add together all of the estimates for June in the GST year for matters covered by subsection (3).
 
-Step 3\. Add the result of Step 1 to the result of Step 2.
+_Step 3._ Add the result of Step 1 to the result of Step 2.
 
-Step 4\. Add together all of the actual amounts determined for matters covered by subsection (4) for the period from 1 July to 31 May in the GST year.
+_Step 4._ Add together all of the actual amounts determined for matters covered by subsection (4) for the period from 1 July to 31 May in the GST year.
 
-Step 5\. Add together all of the estimates for June in the GST year for matters covered by subsection (4).
+_Step 5._ Add together all of the estimates for June in the GST year for matters covered by subsection (4).
 
-Step 6\. Add the result of Step 4 to the result of Step 5.
+_Step 6._ Add the result of Step 4 to the result of Step 5.
 
-Step 7\. Subtract the result of Step 6 from the result of Step 3.
+_Step 7._ Subtract the result of Step 6 from the result of Step 3.
 
-Step 8\. Adjust the result worked out in Step 7 for the GST year by the amount necessary to take account of the difference between the estimates made in relation to June in the previous GST year and the actual amounts determined for that month.
+_Step 8._ Adjust the result worked out in Step 7 for the GST year by the amount necessary to take account of the difference between the estimates made in relation to June in the previous GST year and the actual amounts determined for that month.
 
 * * *
 
@@ -282,7 +282,7 @@ Note:          The capacity for new GST refund provisions to b
 
              (1)  A **_hospital grant_** for a State for a GST year is the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image002.gif)
 
 where:
 
@@ -332,7 +332,7 @@ where:
 
              (1)  The index factor for a GST year is the factor worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image003.gif)
 
 where:
 
@@ -402,7 +402,7 @@ Note:          Paragraph B3(ii) of Appendix B to the agreement
 
                    Subject to this Act, each State is entitled to the payment, by way of financial assistance, for a GST year, of a grant worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image004.gif)
 
 where:
 
@@ -440,7 +440,7 @@ the maximum competition payment amount worked out under whichever of subsection�
 
              (2)  The **_maximum competition payment amount_** for a State for the 2000-01 GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image005.gif)
 
 where:
 
@@ -454,7 +454,7 @@ where:
 
              (3)  The **_maximum competition payment amount_** for a State for the 2001-02 GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image006.gif)
 
 where:
 
@@ -468,7 +468,7 @@ where:
 
              (4)  The **_maximum competition payment amount_** for a State for a later GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image005.gif)
 
 where:
 
@@ -558,7 +558,7 @@ _Note:       See section 13_
 
              (4)  The amount of the increase for the GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image007.gif)
 
 where:
 
@@ -588,7 +588,7 @@ where:
 
              (4)  The amount of the increase for the GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image007.gif)
 
 where:
 
@@ -606,7 +606,7 @@ where:
 
              (2)  If, apart from this subclause, the amount to which a State would be entitled under section 13 is more than the guaranteed minimum amount for that State for the GST year, the amount to which the State is entitled under that section is instead worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00173/Html/ANTSCwlthStatFinArr1999_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00507/Html/ANTSCwlthStatFinArr1999_WD02_image008.gif)
 
 where:
 
@@ -1810,23 +1810,6 @@ Royal Assent</div>
   <td>
     <div>Sch. 6 (items 1, 6–11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Financial Relations (Consequential Amendments and Transitional Provisions) Act 2009</div>
-  </td>
-  <td>
-    <div>12, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 and Schedule 4 (items 1, 2): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 4 (items 1, 2)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ was amended by Schedule 1 (item 95) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -2031,106 +2014,6 @@ _Schedule 3—Commonwealth-State financial arrangements_
   </td>
 </tr></table>
 
-### Note 2
-
-_Federal Financial Relations (Consequential Amendments and Transitional Provisions) Act 2009 (No. 12, 2009)_
-
-The following amendments commence on 1 July 2009:
-
-## Schedule 1
-
-## 1  Section 1
-
-Omit “_(Commonwealth-State Financial Arrangements)_”, substitute “_(Managing the GST Rate and Base)_”.
-
-_Note:       This item amends the short title of the Act. If another amendment of the Act is described by reference to the Act’s previous short title, that other amendment has effect after the commencement of this item as an amendment of the Act under its amended short title (see section 10 of the Acts Interpretation Act 1901)._
-
-## 2  Section 3
-
-Repeal the section, substitute:
-
-##### <a id="3"></a>3  Outline of Act
-
-* * *
-
-This Act deals with circumstances in which the rate of the GST and the GST base can be altered.
-
-* * *
-
-## 3  Section 4 (definition of _estimated population_)
-
-Repeal the definition.
-
-## 4  Section 4 (definition of _general interest charge_)
-
-Repeal the definition.
-
-## 5  Section 4 (definition of _GST law_)
-
-Repeal the definition.
-
-## 6  Section 4 (definition of _GST revenue_)
-
-Repeal the definition.
-
-## 7  Section 4 (definition of _GST year_)
-
-Repeal the definition.
-
-## 8  Section 4 (definition of _guaranteed minimum amount_)
-
-Repeal the definition.
-
-## 9  Section 4 (definition of _Health Minister_)
-
-Repeal the definition.
-
-## 10  Section 4 (definition of _hospital grant_)
-
-Repeal the definition.
-
-## 11  Section 4 (definition of _index factor_)
-
-Repeal the definition.
-
-## 12  Section 4 (definition of _index number_)
-
-Repeal the definition.
-
-## 13  Section 4 (definition of _luxury car tax law_)
-
-Repeal the definition.
-
-## 14  Section 4 (definition of _relativities factor_)
-
-Repeal the definition.
-
-## 15  Section 4 (definition of _Torres Strait Treaty_)
-
-Repeal the definition.
-
-## 16  Section 4 (definition of _transitional GST year_)
-
-Repeal the definition.
-
-## 17  Section 4 (definition of _wine equalisation tax law_)
-
-Repeal the definition.
-
-## 18  Sections 5, 6, 7, 8 and 9
-
-Repeal the sections.
-
-## 19  Parts 2, 4 and 5
-
-Repeal the Parts.
-
-## 20  Schedules 1 and 2
-
-Repeal the Schedules.
-
-As at 7 April 2009 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2239,33 +2122,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Federal Financial Relations (Consequential Amendments and Transitional Provisions) Act 2009 (No. 12, 2009)_
-
-The following provisions commence on 1 July 2009:
-
-## Schedule 4
-
-## 1  Payments for the 2008-09 GST year
-
-Despite the amendments to the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ made by this Act, that Act continues to apply, in relation to the 2008-09 GST year (within the meaning of that Act), as if those amendments had not been made.
-
-## 2  Overpayments and underpayments for the 2008-09 GST year
-
-(1)        If a State has been paid an amount in excess of the amount that, under a provision of the Financial Arrangements Act, it was entitled to receive by way of financial assistance for the 2008-09 GST year, the Minister must deduct an amount equal to the excess from any amount that the State is entitled to receive by way of financial assistance under section 5 of the _Federal Financial Relations Act 2009_ for the financial year starting on 1 July 2009.
-
-(2)        If a State has been paid less than the amount that, under a provision of the Financial Arrangements Act, it was entitled to receive by way of financial assistance for the 2008-09 GST year, the Minister must add an amount equal to the shortfall to any amount that the State is entitled to receive by way of financial assistance under section 5 of the _Federal Financial Relations Act 2009_ for the financial year starting on 1 July 2009.
-
-(3)        Payments made under subitem (2) are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-(4)        In this item:
-
-**_Financial Arrangements Act_** means the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.
-
-**_GST year_** has the same meaning as in the Financial Arrangements Act.
-
-**_State_** includes the Australian Capital Territory and the Northern Territory.
 
  
