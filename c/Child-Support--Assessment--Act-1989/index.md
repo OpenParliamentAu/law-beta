@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image001.gif)
 
 # Child Support (Assessment) Act 1989
 
 **Act No. 124 of 1989 as amended**
 
-This compilation was prepared on 19 July 2011
- taking into account amendments up to Act No. 53 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -280,15 +280,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [55J](#55J).        Simplified outline
 
-        **Subdivision B—Adjusted taxable income determined by reference to taxable income etc.**
+        **Subdivision B—Adjusted taxable income determined by reference to taxable income for last relevant year of income**
 
 [56](#56).          Taxable income is as assessed under Income Tax Assessment Act
 
 [57](#57).          Taxable income for child support purposes where taxable income determined to be nil under Income Tax Assessment Act
 
-[58](#58).          Determination by the Registrar of a parent’s adjusted taxable income
-
-[58AA](#58AA).    _ATI indexation factor_ for determinations under section 58
+[58](#58).          Registrar determination of adjusted taxable income
 
 [58A](#58A).       Subsequently ascertaining components of a parent’s adjusted taxable income
 
@@ -722,6 +720,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [150B](#150B).     Registrar’s power to request tax file numbers
 
+[150C](#150C).     Effect of failure by person to satisfy request for person’s tax file number
+
 [150D](#150D).     Registrar may require Commissioner to provide information
 
 [150DA](#150DA).  Registrar’s jurisdiction to cease in certain circumstances
@@ -893,8 +893,6 @@ Sections 199, 200
                      (a)  for an election made under subsection 60(1)—subsection 61(1A); and
 
                      (b)  for an election made under subsection 62A(1)—subsection 63(2).
-
-                    <a name="ati-index-factor"></a>**_ATI indexation factor_** has the meaning given by subsection 58AA(1).
 
                     <a name="bind-child-support-agreem"></a>**_binding child support agreement_** has the meaning given by section 80C.
 
@@ -1172,11 +1170,7 @@ to the extent to which the payment:
 
                      (h)  is exempt from income tax; and
 
-                      (i)  is not a payment by way of bereavement payment, pharmaceutical allowance, rent assistance, language, literacy and numeracy supplement or remote area allowance; and
-
-                      (j)  if the payment is a payment under the _Social Security Act 1991_—does not include tax‑exempt pension supplement (within the meaning of subsection 20A(6) of that Act); and
-
-                     (k)  if the payment is a payment under the _Veterans’ Entitlements Act 1986_—does not include tax‑exempt pension supplement (within the meaning of subsection 5GA(5) of that Act).
+                      (i)  is not a payment by way of bereavement payment, pharmaceutical allowance, rent assistance, language, literacy and numeracy supplement or remote area allowance.
 
                     <a name="termin-agreem"></a>**_termination agreement_** has the meaning given by section 80D.
 
@@ -1227,14 +1221,6 @@ then the annualised MTAWE figure is to be calculated in accordance with subsecti
 were references to the new headings and/or the new document, as the case requires.
 
              (4)  For the purposes of this section, the **_reference period_** in a particular quarter is the period described by the Australian Statistician as the pay period ending on or before a specified day that is the third Friday of the middle month of that quarter.
-
-             (5)  If:
-
-                     (a)  the Australian Statistician publishes the amount (the **_later amount_**) referred to in subsection (1) for a relevant September quarter; and
-
-                     (b)  the later amount is published in substitution for such an amount for that quarter that was previously published by the Australian Statistician;
-
-the publication of the later amount is to be disregarded for the purposes of this Act.
 
 ##### <a id="5B"></a>5B  Definition of _target foreign income_
 
@@ -1334,7 +1320,7 @@ Example—child support period for child support agreement setting child support
 
              (8)  If the child support agreement set the rate of child support payable for the next 2 years (so section 34A did not require the Registrar to make an administrative assessment on 20 October 2000 as described in subsection (5)), the child support period that started on 15 September 2000 would end 15 months later at the end of 14 December 2001 (unless Mary and Peter made another child support agreement to affect the rate of child support payable for a day before 15 December 2001).
 
-##### <a id="7B"></a>7B  Meaning of _eligible carer_
+##### <a id="7B"></a>7B  Meaning of _eligible carer_
 
              (1)  In this Act, **_eligible carer_**, in relation to a child, means a person who has at least shared care of the child.
 
@@ -2012,7 +1998,7 @@ Note 3:       If a child support agreement has effect for the purpos
 
 ##### <a id="35A"></a>35A  Simplified outline
 
-                   The following is a simplified outline of this Part:
+                   The following is a simplified outline of this Part:
 
 * * *
 
@@ -2174,7 +2160,7 @@ Step 7.   Work out the costs of the child for the day under sections 55G a
 
 Step 8.   If a parent has a positive child support percentage under step 6, the **_annual rate of child support_** payable by the parent for the child for the day is worked out using the formula:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image002.gif)
 
 * * *
 
@@ -2242,7 +2228,7 @@ Step 1A. Work out the costs of the child for the day under section 55HA.
 
 Step 1B. If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image002.gif)
 
 Step 2.   Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2266,7 +2252,7 @@ Note:          If a parent’s percentage of care for a child 
 
           (2B)  If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image003.gif)
 
              (3)  Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2326,7 +2312,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image004.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image004.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2364,7 +2350,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image005.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image005.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2404,7 +2390,7 @@ child support is payable to:
 
 then, the annual rate of child support for the child for a day in the child support period that each parent or non‑parent carer (as the case requires) is, subject to section 40B, entitled to be paid is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image006.gif)
 
 Note:          Under section 40B, a non‑parent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
 
@@ -2496,7 +2482,7 @@ Single child support case—no relevant dependent children
 
 the parent’s **_child support income_** for the child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image007.gif)
 
 Single child support case—relevant dependent children
 
@@ -2508,7 +2494,7 @@ Single child support case—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image008.gif)
 
 Multiple child support cases—no relevant dependent children
 
@@ -2522,7 +2508,7 @@ Multiple child support cases—no relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image009.gif)
 
 Multiple child support cases—relevant dependent children
 
@@ -2536,7 +2522,7 @@ Multiple child support cases—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image010.gif)
 
 Negative result taken to be nil
 
@@ -2576,7 +2562,7 @@ Note 2:       The components of the definition of **_adjusted taxabl
 
              (2)  If the Registrar amends an assessment under section 44, then for the purposes of the assessment, the person’s **_adjusted taxable income_** for a child to whom the assessment relates, for a day in the child support period, is the amount determined by the Registrar.
 
-##### <a id="44"></a>44  Post‑separation costs
+##### <a id="44"></a>44  Post‑separation costs
 
 Application for post‑separation income to be excluded
 
@@ -2628,7 +2614,7 @@ Note:          This section does not limit the power under sec
 
                    A parent’s **_self‑support amount_** for a day in a child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image011.gif)
 
 Note:          A parent’s self‑support amount can be varied by a determination or order under section 98S or 118.
 
@@ -2656,7 +2642,7 @@ Step 4.   Work out the costs of the child for the day under sections 55G a
 
 Step 5.   Work out the following amount for the child for a day in the child support period:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image012.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image012.gif)
 
 * * *
 
@@ -2672,7 +2658,7 @@ _Method statement_
 
 Step 1.   Work out the following amount:
 
-              ![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image013.gif)
+              ![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image013.gif)
 
 Step 2.   If the parent has a relevant dependent child, take the parent’s relevant dependent child amount (see section 46) for the day from the amount worked out under step 1.
 
@@ -2700,11 +2686,11 @@ Step 4.   The parent’s **_multi‑case allowance_** for the particular chi
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      A responsible person’s
+<li class="BoxList" style="margin-left:21.25pt">•      A responsible person’s percentage
 
-percentage of care for a child during a care period is the percentage of care
+of care for a child during a care period is the percentage of care determined
 
-determined by the Registrar under Subdivision B of this Division.</li>
+by the Registrar under Subdivision B of this Division.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A responsible person’s
 
@@ -3140,7 +3126,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
                    Work out each parent’s **_income percentage_** for a child for a day in a child support period using the formula (worked out to 2 decimal places, rounding up if the third decimal place is 5 or more):
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image014.gif)
 
 ##### <a id="55C"></a>55C  Working out cost percentages
 
@@ -3267,7 +3253,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (1)  Work out each parent’s **_child support percentage_** for a child for a day in the child support period using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image015.gif)
 
              (2)  A parent’s **_child support percentage_** for a day in a child support period is taken to be nil if the amount worked out using the formula is negative.
 
@@ -3283,7 +3269,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (2)  The parent’s **_multi‑case cap_** for the particular child for the day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image016.gif)
 
              (3)  For the purposes of paragraph (1)(c), a parent is taken to be assessed for a day in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child for the day under an administrative assessment under the law of a reciprocating jurisdiction.
 
@@ -3405,9 +3391,11 @@ is generally the amount of taxable income that is assessed under an Income Tax
 
 Assessment Act.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Registrar may determine
+<li class="BoxList" style="margin-left:21.25pt">•      The Registrar might make a
 
-a parent’s adjusted taxable income in certain circumstances.</li>
+determination of a parent’s adjusted taxable income if the parent has not
+
+lodged a tax return.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      There are limits on the
 
@@ -3421,7 +3409,7 @@ amount of his or her adjusted taxable income for a year of income.</li>
 
 * * *
 
-#### Subdivision B—Adjusted taxable income determined by reference to taxable income etc.
+#### Subdivision B—Adjusted taxable income determined by reference to taxable income for last relevant year of income
 
 ##### <a id="56"></a>56  Taxable income is as assessed under Income Tax Assessment Act
 
@@ -3531,93 +3519,61 @@ Section not to affect determinations, court orders or consent orders
 
                      (c)  the making, and acceptance by the Registrar, of a child support agreement that includes provisions that have effect for the purposes of this Part as if they were such an order made by consent.
 
-##### <a id="58"></a>58  Determination by the Registrar of a parent’s adjusted taxable income
+##### <a id="58"></a>58  Registrar determination of adjusted taxable income
 
-             (1)  This section applies if a parent is to be assessed in respect of the costs of a child in relation to a child support period and either of the following apply:
+             (1)  For the purposes of assessing a parent in respect of the costs of a child in relation to a child support period, the Registrar may determine, in accordance with this section, that an amount that he or she considers appropriate is the parent’s adjusted taxable income for a year of income.
 
-                     (a)  the parent’s taxable income for the last relevant year of income in relation to the period has not been assessed under an Income Tax Assessment Act;
+Note:          The Registrar is required to amend an administrative assessment made on the basis of such a determination if the parent’s adjusted taxable income is subsequently ascertained or the Registrar makes a later determination under this section (see section 58A).
 
-                     (b)  the Registrar is unable to ascertain whether or not the parent’s taxable income for that year has been so assessed.
+Determinations where parent fails to comply with requirement
 
-Information or document in the possession of the Registrar etc.
+             (2)  The Registrar may make a determination if:
 
-             (2)  If:
+                     (a)  a parent has not, under an Income Tax Assessment Act, lodged a tax return for the year of income; and
 
-                     (a)  the Registrar or the Commissioner of Taxation has information (whether oral or written) or a document in his or her possession; and
+                     (b)  the Registrar or the Commissioner of Taxation is unable to readily ascertain the parent’s adjusted taxable income for the year of income on the basis of the documents and information in his or her possession; and
 
-                     (b)  either:
+                     (c)  the Registrar or the Commissioner has, for the purposes of ascertaining that adjusted taxable income, required the parent:
 
-                              (i)  an amount is specified in that information or document as the parent’s adjusted taxable income for the last relevant year of income; or
+                              (i)  to give a return; or
 
-                             (ii)  that information or document allows the amount of the parent’s adjusted taxable income for the last relevant year of income to be worked out; and
+                             (ii)  to give information (whether orally or in writing); or
 
-                     (c)  the Registrar is satisfied that the specified amount, or the amount so worked out, is a reasonable approximation of the parent’s adjusted taxable income for that year;
+                            (iii)  to produce a document; and
 
-the Registrar may determine that the specified amount, or the amount so worked out, is the parent’s adjusted taxable income for that year.
+                     (d)  the parent has refused or failed to comply with the requirement.
 
-Parent’s taxable income assessed for the previous year of income
+             (3)  If the parent also has not lodged a tax return for the year of income before the year of income referred to in subsection (1), the amount determined for the parent’s adjusted taxable income for the year of income must be determined to be at least two‑thirds of the annualised MTAWE figure for the relevant September quarter.
 
-             (3)  If:
+Determination if tax return lodged 2 years ago
 
-                     (a)  the parent’s taxable income for a year of income has been assessed under an Income Tax Assessment Act; and
+          (3A)  The Registrar may make a determination if:
 
-                     (b)  that year (the **_previous year_**) is the year of income before the last relevant year of income;
+                     (a)  a parent has not, under an Income Tax Assessment Act, lodged a tax return for the year of income; and
 
-the Registrar may determine that the parent’s adjusted taxable income for the last relevant year of income is the amount worked out by multiplying the parent’s adjusted taxable income for the previous year by the ATI indexation factor.
+                     (b)  the parent lodged a tax return under that Act for the previous year of income; and
 
-Parent’s taxable income assessed for an earlier year of income
+                     (c)  the amount determined by the Registrar under subsection (1) is the amount based on the tax return for the previous year of income multiplied by a factor specified in the regulations for the purposes of this subsection.
 
-             (4)  If:
+Determination if Registrar given taxable income or total
 
-                     (a)  the parent’s taxable income for the previous year has not been assessed under an Income Tax Assessment Act; but
+             (4)  The Registrar may make a determination if:
 
-                     (b)  the parent’s taxable income for an earlier year of income has been so assessed;
+                     (a)  a parent has not, under an Income Tax Assessment Act, lodged a tax return for the year of income; and
 
-the Registrar may determine that the parent’s adjusted taxable income for the last relevant year of income is the greater of the following amounts:
+                     (c)  the Registrar or the Commissioner has, for the purposes of ascertaining that adjusted taxable income, been given:
 
-                     (c)  the amount worked out by multiplying the parent’s adjusted taxable income for the earlier year of income (or, if the parent’s taxable income has been so assessed for more than one earlier year of income, the most recent of those years) by the ATI indexation factor;
+                              (i)  information (whether orally or in writing); or
 
-                     (d)  the amount that is equal to two‑thirds of the annualised MTAWE figure for the relevant September quarter in relation to the child support period.
+                             (ii)  a document; and
 
-Other circumstances
+                     (d)  either:
 
-             (5)  If:
+                              (i)  an amount was specified in that information or document as the parent’s adjusted taxable income for the last relevant year of income; or
 
-                     (a)  subsections (2), (3) and (4) do not apply in relation to the parent; or
+                             (ii)  that information or document allowed the parent’s adjusted taxable income for the last relevant year of income to be worked out; and
 
-                     (b)  the Registrar decides not to make a determination in relation to the parent under one of those subsections;
-
-the Registrar may determine that the parent’s adjusted taxable income for the last relevant year of income is an amount that is at least two‑thirds of the annualised MTAWE figure for the relevant September quarter in relation to the child support period.
-
-##### <a id="58AA"></a>58AA  _ATI indexation factor_ for determinations under section 58
-
-             (1)  The **_ATI indexation factor_** is:
-
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image017.gif)
-
-where:
-
-                    <a name="aw-amount"></a>**_AWE amount_** for a September quarter of a year of income means the amount published for the reference period in the quarter by the Australian Statistician in a document titled “Average Weekly Earnings, Australia” (or, if that title changes, in a replacement document) under the headings “Average Weekly Earnings—Trend—Persons—All employees total earnings” (or, if any of those headings change, under any replacement headings).
-
-                    <a name="refer-period"></a>**_reference period_** in a September quarter of a year of income means the period described by the Australian Statistician as the last pay period ending on or before the third Friday of the middle month of the quarter.
-
-                    <a name="septemb-quarter"></a>**_September quarter_** of a year of income means the quarter ending on 30 September of that year.
-
-                    <a name="tax-return-year"></a>**_tax return year_** means:
-
-                     (a)  if subsection 58(3) applies—the year of income before the last relevant year of income in relation to a child support period; or
-
-                     (b)  if subsection 58(4) applies—the earlier year of income that applies under paragraph 58(4)(c).
-
-             (2)  The ATI indexation factor is to be calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
-
-             (3)  If:
-
-                     (a)  the Australian Statistician publishes an AWE amount (the **_later amount_**) for a September quarter of a year of income; and
-
-                     (b)  the later amount is published in substitution for an AWE amount for that quarter that was previously published by the Australian Statistician;
-
-the publication of the later amount is to be disregarded for the purposes of this section.
+                     (e)  the amount determined by the Registrar under subsection (1) was the amount specified or worked out under paragraph (d) of this subsection.
 
 ##### <a id="58A"></a>58A  Subsequently ascertaining components of a parent’s adjusted taxable income
 
@@ -4569,7 +4525,7 @@ Note:          The annual rate of child support specified in s
 
              (4)  If an annual rate of child support is payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for more than 3 children for a day in a child support period, then the annual rate of child support payable by the parent for each child for a day in the child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image017.gif)
 
           (4A)  For the purposes of subsection (4), if a parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction, then that child support is taken to be payable by the parent for those children under subsection (1).
 
@@ -4647,7 +4603,7 @@ Note:          The minimum annual rate of child support specif
 
 then the **_annual rate of child support_** payable by the parent for a day in the child support period for a particular child support case is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image018.gif)
 
           (6A)  For the purposes of subsection (6), if a parent is liable to pay child support for one or more children for a day under an administrative assessment under the law of a reciprocating jurisdiction, then the parent is taken to be assessed for the day in respect of the costs of children in a child support case.
 
@@ -4707,11 +4663,11 @@ Note:          If the Registrar refuses to grant an applicatio
 
              (3)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image019.gif)
 
           (3A)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image020.gif)
 
           (3B)  For the purposes of subsection (3A), a parent is taken to have a child support case if the parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction.
 
@@ -5027,15 +4983,17 @@ agreement must have received legal advice before entering the agreement, and
 
 must also receive legal advice before terminating the agreement.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The second sort of agreement
+<li class="BoxList" style="margin-left:21.25pt">•      The second sort of
 
-is a limited child support agreement. An administrative assessment must be in
+agreement is a limited child support agreement. An administrative assessment
 
-place before a limited child support agreement can be accepted by the
+must be in place before a limited child support agreement can be accepted by
 
-Registrar. The annual rate of child support payable under the agreement must be
+the Registrar. The annual rate of child support payable under the agreement
 
-at least the annual rate of child support otherwise payable under this Act.</li>
+must be at least the annual rate of child support otherwise payable under this
+
+Act.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Agreements may include
 
@@ -5105,7 +5063,7 @@ Note:          A binding child support agreement can be termin
 
              (2)  However, subsection (1) does not prevent a binding child support agreement between parties from incorporating by reference the provisions of a previous child support agreement between the parties.
 
-##### <a id="80D"></a>80D  Terminating binding child support agreements
+##### <a id="80D"></a>80D  Terminating binding child support agreements
 
              (1)  A binding child support agreement (the **_previous agreement_**) may be terminated only by:
 
@@ -5395,7 +5353,7 @@ the document may be treated as if it contained separate agreements made in relat
 
 ##### <a id="88"></a>88  Application requirements generally
 
-                   An application for acceptance by the Registrar of an agreement made in relation to a child is properly made if:
+                   An application for acceptance by the Registrar of an agreement made in relation to a child is properly made if:
 
                      (a)  either:
 
@@ -5577,9 +5535,9 @@ Registrar making the determination.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Under section 80 of
 
-the Registration and Collection Act, certain persons can object to a decision
+the Registration and Collection Act, certain persons can object to a decision to
 
-to make or refuse to make a determination under this Part.</li>
+make or refuse to make a determination under this Part.</li>
 
 * * *
 
@@ -8055,6 +8013,42 @@ Note:          Strict compliance with the form is not required
 
                      (b)  if the person does not have a tax file number—to apply to the Commissioner for a tax file number and to give to the Registrar a written statement of the person’s tax file number after the Commissioner has issued it.
 
+##### <a id="150C"></a>150C  Effect of failure by person to satisfy request for person’s tax file number
+
+             (1)  If the Registrar makes a request under subsection 150B(2) of a person, and the person does not, within 28 days of the making of the request:
+
+                     (a)  comply with the request; or
+
+                     (b)  give to the Registrar a statement of a kind mentioned in subsection (2) or (3) of this section;
+
+section 58 applies to the person as if the request under subsection 150B(2) were a requirement with which the person has refused or failed to comply.
+
+Note:          Section 58 provides that where the Registrar has required a person to give information, and the person has refused or failed to comply with the requirement, the Registrar may determine the person’s adjusted taxable income under section 58.
+
+             (2)  The person may give to the Registrar a statement that the person:
+
+                     (a)  has a tax file number but does not know what it is; and
+
+                     (b)  has asked the Commissioner to inform the person of the person’s tax file number; and
+
+                     (c)  authorises the Commissioner to tell the Registrar:
+
+                              (i)  whether the person has a tax file number; and
+
+                             (ii)  if the person has a tax file number—that number.
+
+             (3)  The person may give to the Registrar a statement that the person:
+
+                     (a)  has an application for a tax file number pending; and
+
+                     (b)  authorises the Commissioner to tell the Registrar:
+
+                              (i)  if a tax file number is issued to the person—that number; or
+
+                             (ii)  if the application is refused—that the application has been refused; or
+
+                            (iii)  if the application is withdrawn—that the application has been withdrawn.
+
 ##### <a id="150D"></a>150D  Registrar may require Commissioner to provide information
 
              (1)  The Registrar may require the Commissioner to provide the Registrar with information about people, including tax file numbers, being information that is in the possession of the Commissioner.
@@ -8333,7 +8327,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
              (2)  For the purposes of this Act, the amount specified in those provisions in relation to a child support period that begins in a particular calendar year is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00551/Html/da531329-d9ae-4448-ab2b-d7be4bc47db9_files/image022.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00478/Html/bd65bb57-b0e7-476d-b976-de4ad9a5e389_files/image021.gif)
 
 where:
 
@@ -8365,9 +8359,7 @@ where:
 
                              (ii)  any other amounts in items in the table that can be worked out using the annualised MTAWE figure.
 
-          (2A)  Before the end of each calendar year, the Secretary must publish in the _Gazette_ the AWE amount (within the meaning of subsection 58AA(1)) for the quarter ending on 30 September of that year.
-
-             (3)  The instruments published under subsections (1), (2) and (2A) are not legislative instruments.
+             (3)  The instruments published under subsections (1) and (2) are not legislative instruments.
 
 ##### <a id="156"></a>156  Rounding of amounts
 
@@ -10037,40 +10029,6 @@ Schedule 3 (items 32–49): 10 Dec 2008</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 325–333) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>53, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 3 and Schedule 5 (item 32): 1 July 2011</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 9–11)</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -11081,7 +11039,7 @@ _(sb)_   Subsection 2(1) (items 10 and 11) of the _Statute Law Revision Ac
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 151, 1992; Nos. 39 and 140, 1995; Nos. 39, 84 and 197, 1997; Nos. 93 and 120, 1998; Nos. 83 and 194, 1999; No. 75, 2001; Nos. 46, 53 and 146, 2006; No. 82, 2007; No. 144, 2008; No. 27, 2009; No. 65, 2010; No. 53, 2011</div>
+    <div>am. No. 151, 1992; Nos. 39 and 140, 1995; Nos. 39, 84 and 197, 1997; Nos. 93 and 120, 1998; Nos. 83 and 194, 1999; No. 75, 2001; Nos. 46, 53 and 146, 2006; No. 82, 2007; No. 144, 2008; No. 27, 2009; No. 65, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11090,14 +11048,6 @@ _(sb)_   Subsection 2(1) (items 10 and 11) of the _Statute Law Revision Ac
   </td>
   <td>
     <div>ad. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12990,7 +12940,7 @@ Div. 3 of Part 5</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 65, 2010; No. 53, 2011</div>
+    <div>am. No. 65, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12999,15 +12949,6 @@ Div. 3 of Part 5</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. B of 
-Div. 7 of Part 5</div>
-  </td>
-  <td>
-    <div>rs. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
@@ -13063,7 +13004,7 @@ Div. 7 of Part 5</div>
     <div>Heading to s. 58</div>
   </td>
   <td>
-    <div>rs. No. 120, 1998; No. 146, 2006; No. 53, 2011</div>
+    <div>rs. No. 120, 1998; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
@@ -13088,22 +13029,6 @@ Div. 7 of Part 5</div>
   </td>
   <td>
     <div>am. No. 82, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 53, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58AA</div>
-  </td>
-  <td>
-    <div>ad. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
@@ -16795,26 +16720,10 @@ Div. 6 of Part 7</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 53, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 150C(1)</div>
   </td>
   <td>
     <div>am. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
@@ -17091,14 +17000,6 @@ Div. 6 of Part 7</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 53, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 157, 158</div>
   </td>
   <td>
@@ -17290,52 +17191,6 @@ Schedule 1</div>
     <div>am. No. 82, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 325  Subsection 5(1) (paragraph (c) of the definition of _member of a couple_)
-
-Omit “section 22B”, substitute “section 2E”.
-
-## 326  Subsection 5(1) (definition of _named month_)
-
-Repeal the definition.
-
-## 327  Subsection 7A(1) (note)
-
-Omit “Subsections (6), (7), (8) and (9)”, substitute “Subsections (5) to (8)”.
-
-## 328  Subsection 7A(1) (note)
-
-Omit “or definitive”.
-
-## 329  Paragraph 7A(3)(b)
-
-Omit “named month”, substitute “calendar month”.
-
-## 330  Subsection 34A(2)
-
-Omit “named month” (wherever occurring), substitute “calendar month”.
-
-## 331  Paragraphs 34A(3)(b) and (c)
-
-Omit “named month”, substitute “calendar month”.
-
-## 332  Section 78
-
-Omit “month” (wherever occurring), substitute “calendar month”.
-
-## 333  Subsection 163A(5) (paragraph (b) of the definition of _de facto relationship_)
-
-Omit “section 22B”, substitute “section 2E”.
-
-As at 19 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -19213,46 +19068,6 @@ _Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
                      (b)  an election to work out a parent’s adjusted taxable income under section 60 of the _Child Support (Assessment) Act 1989_ if the remaining period (within the meaning of subsection 60(5) of that Act) concerned starts before 1 July 2009;
 
                      (c)  working out a parent’s real remaining period adjusted taxable income under section 64 of the _Child Support (Assessment) Act 1989_ in relation to an election covered by paragraph (b) of this subitem.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011 (No. 53, 2011)_
-
-## Schedule 3
-
-## 9  Application—subsection 5A(5) of the _Child Support (Assessment) Act 1989_
-
-Subsection 5A(5) of the _Child Support (Assessment) Act 1989_, as inserted by this Schedule, applies in relation to the amount referred to in subsection 5A(1) of that Act that is published before or after the commencement of this item.
-
-## 10  Application—subsection 58AA(3) of the _Child Support (Assessment) Act 1989_
-
-Subsection 58AA(3) of the _Child Support (Assessment) Act 1989_, as inserted by this Schedule, applies in relation to an AWE amount (within the meaning of subsection 58AA(1) of that Act, as inserted by this Schedule) that is published before or after the commencement of this item.
-
-## 11  Saving provision
-
-If:
-
-                     (a)  a determination was made under section 58 of the _Child Support (Assessment) Act 1989_ before the commencement of this item; and
-
-                     (b)  the determination was in force immediately before that commencement;
-
-the determination has effect, after that commencement, as if it had been made under section 58 of that Act as inserted by this Schedule.
 
 ## Table B
 
