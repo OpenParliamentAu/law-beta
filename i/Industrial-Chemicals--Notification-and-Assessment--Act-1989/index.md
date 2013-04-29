@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00811/Html/80378097-4784-4674-bba5-5be5c5b3c7e4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00762/Html/9cc80169-b568-45d6-add8-aa2fef354cac_files/image001.gif)
 
 # Industrial Chemicals (Notification and Assessment) Act 1989
 
 **Act No. 8 of 1990 as amended**
 
-This compilation was prepared on 8 November 2012
- taking into account amendments up to Act No. 147 of 2012
+This compilation was prepared on 30 October 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -393,7 +393,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 9—Access to Assessment Information**
 
-[78](#78).          Safety Data Sheets to be available
+[78](#78).          Material Safety Data Sheets to be available
 
 [79](#79).          Disclosure of exempt information in certain circumstances
 
@@ -845,6 +845,22 @@ but does not include a chemical whose production has commercial value for a pers
 
                     <a name="manufactur"></a>**_manufacturer_**, in relation to an industrial chemical, means a person who manufactures or proposes to manufacture the chemical in Australia.
 
+                    <a name="materi-safeti-data-sheet"></a>**_Material Safety Data Sheet_**, in relation to a chemical or to a product or substance containing a chemical, means a written statement that:
+
+                     (a)  identifies the chemical; and
+
+                     (b)  specifies the health hazards that could be caused by the chemical; and
+
+                     (c)  specifies the manner of handling the chemical, product or substance in a way that minimises hazards; and
+
+                     (d)  specifies the procedures to be adopted in the event of any emergency involving the chemical, product or substance; and
+
+                     (e)  contains information about the chemical and physical properties of the chemical, not being exempt matter or matter referred to in subsection 46(2); and
+
+                      (f)  contains prescribed information;
+
+being, if there are in force guidelines approved by the Minister by notice in the Chemical Gazette for the purposes of this definition, a statement prepared in accordance with those guidelines.
+
                     <a name="modif"></a>**_modifications_** includes additions, substitutions and omissions.
 
                     <a name="monom"></a>**_monomer_** means a chemical the molecules of which are capable of forming covalent bonds with 2 or more like or unlike molecules under the conditions of the relevant polymer‑forming reactions used for a particular process of polymer formation.
@@ -986,22 +1002,6 @@ but does not include the following:
                     <a name="relev-industri-chemic"></a>**_relevant industrial chemical_** has the meaning given by section 7A.
 
                     <a name="research"></a>**_research_** does not include research for the purpose of determining market acceptance or consumer preferences.
-
-                    <a name="safeti-data-sheet"></a>**_Safety Data Sheet_**, in relation to a chemical or to a product or substance containing a chemical, means a written statement that:
-
-                     (a)  identifies the chemical; and
-
-                     (b)  specifies the health hazards that could be caused by the chemical; and
-
-                     (c)  specifies the manner of handling the chemical, product or substance in a way that minimises hazards; and
-
-                     (d)  specifies the procedures to be adopted in the event of any emergency involving the chemical, product or substance; and
-
-                     (e)  contains information about the chemical and physical properties of the chemical, not being exempt matter or matter referred to in subsection 46(2); and
-
-                      (f)  contains prescribed information; and
-
-                     (g)  if there are in force guidelines approved by the Minister by notice in the Chemical Gazette for the purposes of this definition—is prepared in accordance with those guidelines.
 
                     <a name="secondari-notif"></a>**_secondary notification_** means notification required by section 65.
 
@@ -1205,7 +1205,7 @@ but does not include a substance or mixture of substances of a kind that is decl
 
              (2)  The value of relevant industrial chemicals imported by a person during a particular period (whether a financial year or a registration year) is the amount, worked out to the nearest whole dollar, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00811/Html/80378097-4784-4674-bba5-5be5c5b3c7e4_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00762/Html/9cc80169-b568-45d6-add8-aa2fef354cac_files/image002.gif)
 
 where:
 
@@ -2031,7 +2031,7 @@ Material to accompany application for permit
 
              (2)  An application for a commercial evaluation permit must be accompanied by:
 
-                     (a)  in any case—a Safety Data Sheet in relation to the chemical; and
+                     (a)  in any case—a Material Safety Data Sheet in relation to the chemical; and
 
                     (aa)  in any case—a written explanation why the quantity of the chemical that the applicant seeks to introduce under the permit is reasonably needed for effective commercial evaluation of the chemical; and
 
@@ -3179,7 +3179,7 @@ of the chemical.
 
 ##### <a id="33"></a>33  Contents of non‑self‑assessed assessment report
 
-                   An assessment report (other than an assessment report referred to in section 33B (self‑assessment)) must include a Safety Data Sheet, a summary of health, safety and environmental matters considered in the assessment and such recommendations as may reasonably be made in relation to each of the following matters:
+                   An assessment report (other than an assessment report referred to in section 33B (self‑assessment)) must include a Material Safety Data Sheet, a summary of health, safety and environmental matters considered in the assessment and such recommendations as may reasonably be made in relation to each of the following matters:
 
                      (a)  the precautions and restrictions to be observed during the importation, manufacture, handling, storage, use or disposal of the chemical to protect persons exposed to the chemical;
 
@@ -4051,7 +4051,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  An assessment report (whether it is a draft assessment report made under section 60C or a final assessment report made under section 60F) must include a summary of health, safety and environmental matters considered in the assessment and such recommendations as may reasonably be made in relation to each of the following matters:
 
-                     (a)  the content of a Safety Data Sheet in respect of the chemical;
+                     (a)  the content of a Material Safety Data Sheet in respect of the chemical;
 
                      (b)  the precautions and restrictions to be observed during the importation, manufacture, handling, storage, use or disposal of the chemical to protect persons exposed to the chemical;
 
@@ -4327,7 +4327,7 @@ the person ought reasonably to have become aware of the circumstances.
 
              (7)  Where the Minister extends the period for assessment and report in relation to a new industrial chemical, the Minister is to notify the applicant of the extension immediately.
 
-##### <a id="68A"></a>68A  Assessment of existing chemicals of which secondary notification required
+##### <a id="68A"></a>68A  Assessment of existing chemicals of which secondary notification required
 
              (1)  If a secondary notification of an existing chemical has been given, the Director must cause the chemical to be assessed in accordance with section 60A and a report of the assessment to be prepared.
 
@@ -4461,9 +4461,9 @@ the information is to be treated as exempt information for the purposes of this 
 
 ### Division 9—Access to Assessment Information
 
-##### <a id="78"></a>78  Safety Data Sheets to be available
+##### <a id="78"></a>78  Material Safety Data Sheets to be available
 
-                   Where a chemical for which an assessment certificate has been given under section 46 has been introduced, the Director must ensure that copies of the Safety Data Sheet (if any) for the chemical current on the giving of the certificate are available for inspection by the public at the prescribed times and on payment of the prescribed fee (if any).
+                   Where a chemical for which an assessment certificate has been given under section 46 has been introduced, the Director must ensure that copies of the Material Safety Data Sheet (if any) for the chemical current on the giving of the certificate are available for inspection by the public at the prescribed times and on payment of the prescribed fee (if any).
 
 ##### <a id="79"></a>79  Disclosure of exempt information in certain circumstances
 
@@ -5875,7 +5875,7 @@ being data obtained from tests:
 
             11.  Particulars of the labels in the presented form to be fixed to products consisting of or containing the chemical. 
 
-            12.  Particulars of the proposed Safety Data Sheet in the prescribed form for the chemical and for all commercially available products, or substances used in the workplace, containing the chemical. 
+            12.  Particulars of the proposed Material Safety Data Sheet in the prescribed form for the chemical and for all commercially available products, or substances used in the workplace, containing the chemical. 
 
             13.  (a) a full description of procedures for making the chemical harmless in an emergency in the workplace; and 
 
@@ -6597,24 +6597,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Industrial Chemicals (Notification and Assessment) Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>147, 2012</div>
-  </td>
-  <td>
-    <div>6 Nov 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
-Schedule 2 (items 2–10): Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 1 (item 14) and Sch. 2 (item 10) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -6952,7 +6934,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007; No. 111, 2009; Nos. 5 and 103, 2011; Nos. 136 and 147, 2012</div>
+    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007; No. 111, 2009; Nos. 5 and 103, 2011; No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -7424,7 +7406,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 99, 1997; No. 110, 2004; No. 147, 2012</div>
+    <div>am. No. 99, 1997; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -8216,7 +8198,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 214, 1992; No. 110, 2004; No. 147, 2012</div>
+    <div>am. No. 214, 1992; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -8673,31 +8655,7 @@ Div. 5 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>S. 60A</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60B</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 147, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60C</div>
+    <div>Ss. 60A–60C</div>
   </td>
   <td>
     <div>ad. No. 99, 1997</div>
@@ -8892,7 +8850,7 @@ Div. 5 of Part 3</div>
     <div>Heading to s. 78</div>
   </td>
   <td>
-    <div>rs. No. 103, 2011; No. 147, 2012</div>
+    <div>rs. No. 103, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8900,7 +8858,7 @@ Div. 5 of Part 3</div>
     <div>S. 78</div>
   </td>
   <td>
-    <div>am. No. 103, 2011; No. 147, 2012</div>
+    <div>am. No. 103, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9900,208 +9858,9 @@ Div. 5 of Part 3</div>
     <div>Schedule</div>
   </td>
   <td>
-    <div>am. No. 99, 1997; No. 110, 2004; No. 103, 2011; No. 147, 2012</div>
+    <div>am. No. 99, 1997; No. 110, 2004; No. 103, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Industrial Chemicals (Notification and Assessment) Amendment Act 2012 
- (No. 147, 2012)_
-
-The following amendments commence on 1 July 2013:
-
-## Schedule 1
-
-## 1  Subsection 5(1) (definition of _threshold value_)
-
-Omit “$500,000”, substitute “$100,000”.
-
-## 2  Subsection 80A(3)
-
-Omit “this financial year”, substitute “the registration year”.
-
-## 3  Paragraph 80F(e)
-
-Repeal the paragraph, substitute:
-
-                     (d)  if the person is a chargeable person in relation to that registration year—be accompanied by:
-
-                              (i)  the amount prescribed for the purposes of item 1 of the table in subsection 80T(2), paid on account of any registration charge payable in relation to that registration year; or
-
-                             (ii)  the amount prescribed for the purposes of item 2 of the table in subsection 80T(2), paid on account of any registration charge payable in relation to that registration year; or
-
-                            (iii)  a registration charge in relation to that registration year in the amount prescribed for the purposes of item 3 of the table in subsection 80T(2).
-
-## 4  Paragraph 80KA(1)(e)
-
-Repeal the paragraph, substitute:
-
-                     (e)  if the person is a chargeable person in relation to that registration year—be accompanied by:
-
-                              (i)  the amount prescribed for the purposes of item 1 of the table in subsection 80T(2), paid on account of any registration charge payable in relation to that registration year; or
-
-                             (ii)  the amount prescribed for the purposes of item 2 of the table in subsection 80T(2), paid on account of any registration charge payable in relation to that registration year; or
-
-                            (iii)  a registration charge in relation to that registration year in the amount prescribed for the purposes of item 3 of the table in subsection 80T(2).
-
-## 5  Paragraph 80KB(2)(c)
-
-Repeal the paragraph, substitute:
-
-                     (c)  if the person is a chargeable person in relation to that registration year—be accompanied by:
-
-                              (i)  the amount prescribed for the purposes of item 1 of the table in subsection 80T(2), paid on account of any registration charge payable in relation to that registration year; or
-
-                             (ii)  the amount prescribed for the purposes of item 2 of the table in subsection 80T(2), paid on account of any registration charge payable in relation to that registration year; or
-
-                            (iii)  a registration charge in relation to that registration year in the amount prescribed for the purposes of item 3 of the table in subsection 80T(2).
-
-## 6  Subsection 80Q(1)
-
-Omit “subparagraph 80F(e)(ii), 80KA(1)(e)(ii) or 80KB(2)(c)(ii)”, substitute “subparagraph 80F(d)(i) or (ii), 80KA(1)(e)(i) or (ii) or 80KB(2)(c)(i) or (ii)”.
-
-## 7  Subsection 80QD(1)
-
-Omit “paragraph 80T(2)(a) or (b)”, substitute “section 80T”.
-
-## 8  Subsection 80T(1)
-
-After “in accordance with”, insert “the table in”.
-
-## 9  Subsection 80T(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The following table has effect:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="30%">
-  <col width="30%">
-  <col width="30%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="4">
-      <div>
-        <b>Registration charge payable</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If this case applies:</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>and the value of chemicals introduced in the registration year:</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>then the amount is:</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>the chargeable person has paid an amount on account of registration in
-      relation to the registration year under subparagraph 80F(d)(i) or (ii),
-      80KA(1)(e)(i) or (ii) or 80KB(2)(c)(i) or (ii)</div>
-  </td>
-  <td>
-    <div>is equal to or exceeds $100,000 but is less than $500,000</div>
-  </td>
-  <td>
-    <div>the amount prescribed by regulation for the purposes of this table item.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>the chargeable person has paid an amount on account of registration in
-      relation to the registration year under subparagraph 80F(d)(i) or (ii),
-      80KA(1)(e)(i) or (ii) or 80KB(2)(c)(i) or (ii)</div>
-  </td>
-  <td>
-    <div>is equal to or exceeds $500,000 but is less than $5,000,000</div>
-  </td>
-  <td>
-    <div>the amount prescribed by regulation for the purposes of this table item.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>the chargeable person has paid an amount on account of registration in
-      relation to the registration year under subparagraph 80F(d)(i) or (ii),
-      80KA(1)(e)(i) or (ii) or 80KB(2)(c)(i) or (ii)</div>
-  </td>
-  <td>
-    <div>is equal to or exceeds $5,000,000</div>
-  </td>
-  <td>
-    <div>the amount prescribed by regulation for the purposes of this table item.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>any other case</div>
-  </td>
-  <td>
-    <div>is any value</div>
-  </td>
-  <td>
-    <div>the amount prescribed by regulation for the purposes of table item 3.</div>
-  </td>
-</tr></table>
-
-## 10  Paragraph 110(1)(c)
-
-Repeal the paragraph.
-
-## 11  Paragraph 110(1)(ub)
-
-Omit “80KB(2).”, substitute “80KB(2);”.
-
-## 12  At the end of subsection 110(1)
-
-Add:
-
-                     (v)  if a regulation made for the purposes of subsection 106(1) provides for approvals to be given in relation to the introduction or export of an industrial chemical that is subject to the Convention (within the meaning of Part 5A)—an application for the approval.
-
-## 13  Subsection 110(1A)
-
-Repeal the subsection, substitute:
-
-          (1A)  For the purposes of paragraph (1)(v), the regulations may prescribe different fees, or different methods of calculating fees, for an application for an approval in respect of different countries or different classes of countries.
-
-          (1B)  Subsection (1A) does not limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Note:          For example, subsection 33(3A) of the _Acts Interpretation Act 1901_ allows regulations to prescribe different fees for applications in relation to different chemicals, or different classes of chemicals.
-
-As at 8 November 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -10487,63 +10246,5 @@ The amendments made by items 11, 40 and 55 of this Schedule apply to applicati
 ## 58  Application provision—amendments about summary reports
 
 The amendments made by items 1, 3, 4, 12 to 35 and 39 of this Schedule apply to assessment reports (within the meaning of subsection 5(1) of the _Industrial Chemicals (Notification and Assessment) Act 1989_) published on or after the day this Schedule commences.
-
-* * *
-
-_Industrial Chemicals (Notification and Assessment) Amendment Act 2012 (No. 147, 2012)_
-
-## Schedule 2
-
-## 10  Material Safety Data Sheets—transitional provisions
-
-(1)       A regulation that:
-
-                     (a)  was made for the purposes of paragraph (f) of the definition of **_Material Safety Data Sheet_** in subsection 5(1) of the _Industrial Chemicals (Notification and Assessment) Act 1989_, as in force before the commencement of this Schedule; and
-
-                     (b)  was in force immediately before that commencement;
-
-has effect after that commencement as if it had been made for the purposes of paragraph (f) of the definition of **_Safety Data Sheet_** in subsection 5(1) of that Act as inserted by this Schedule.
-
-(2)       Guidelines that:
-
-                     (a)  were approved for the purposes of the definition of **_Material Safety Data Sheet_** in subsection 5(1) of the _Industrial Chemicals (Notification and Assessment) Act 1989_, as in force before the commencement of this Schedule; and
-
-                     (b)  were in force immediately before that commencement;
-
-have effect, after that commencement, as if they had been approved under paragraph (g) of the definition of **_Safety Data Sheet_** in subsection 5(1) of that Act as inserted by this Schedule.
-
-(3)       A regulation that:
-
-                     (a)  prescribed a form for the purposes of clause 12 of Part B of the Schedule to the _Industrial Chemicals (Notification and Assessment) Act 1989_, as in force before the commencement of this Schedule; and
-
-                     (b)  was in force immediately before that commencement;
-
-has effect after that commencement as if a reference to the proposed Material Data Safety Sheet were a reference to the proposed Safety Data Sheet.
-
-(4)       A regulation that:
-
-                     (a)  was made under the _Industrial Chemicals (Notification and Assessment) Act 1989_, as in force immediately before the commencement of this Schedule; and
-
-                     (b)  was in force immediately before that commencement; and
-
-                     (c)  contained a reference to a Material Safety Data Sheet;
-
-has effect after that commencement as if the reference to a Material Safety Data Sheet were a reference to a Safety Data Sheet.
-
-The following provision commences on 1 July 2013:
-
-## Schedule 1
-
-## 14  Application of amendments
-
-(1)       The amendment made by item 1 applies in relation to registration years starting on or after 1 September 2013.
-
-(2)       The amendment made by item 3 applies in relation to applications for registration made in relation to registration years starting on or after 1 September 2013, whether the applications were made before, on or after that date.
-
-(3)       The amendment made by item 4 applies in relation to renewal applications made in relation to registration years starting on or after 1 September 2013, whether the applications were made before, on or after that date.
-
-(4)       The amendment made by item 5 applies in relation to late renewal applications made in relation to registration years starting on or after 1 September 2013.
-
-(5)       The amendments made by items 6 to 9 apply in relation to registration charges payable in relation to registration years starting on or after 1 September 2013.
 
  
