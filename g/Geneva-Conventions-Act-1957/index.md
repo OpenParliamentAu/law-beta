@@ -1,41 +1,13 @@
 
 Geneva Conventions Act 1957
 Act No. 103 of 1957 as amended
-This compilation was prepared on 24 May 2001  taking into account amendments up to Act No. 24 of 2001
+This compilation was prepared on 27 April 2000  taking into account amendments up to Act No. 43 of 1996
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
   
 Contents
-Part I—Preliminary	1
-1	Short title [See Note 1]	1
-2	Commencement [See Note 1]	1
-5	Interpretation	1
-6	Application of Act	3
-6A	Application of the Criminal Code	3
-Part II—Punishment of offenders against the Conventions and Protocol I	4
-7	Punishment of grave breaches of Conventions and Protocol I	4
-8	Proof of application of Convention or Protocol	5
-10	Jurisdiction of courts	5
-Part III—Legal proceedings in respect of protected persons	7
-10A	Court may determine whether person is a protected prisoner of war	7
-11	Notice of trial of protected prisoners of war and internees to be served on protecting power etc.	7
-12	Legal representation of prisoners of war	8
-13	Appeals by protected prisoners of war and internees	10
-14	Reduction of sentence and custody of protected prisoners of war and internees	11
-Part IV—Abuse of the Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms	12
-15	Use of Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms	12
-Part V—Regulations	15
-16	Regulations	15
-The Schedules	16
-Schedule 1—Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949	16
-Schedule 2—Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea of August 12, 1949	41
-Schedule 3—Geneva Convention Relative to the Treatment of Prisoners of War of August 12, 1949	63
-Schedule 4—Geneva Convention Relative to the Protection of Civilian Persons in Time of War of August 12, 1949	124
-Schedule 5—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)	185
-Notes		263
-
 An Act to enable effect to be given to certain Conventions done at Geneva on 12 August 1949 and to a Protocol additional to those Conventions done at Geneva on 10 June 1977, and for related purposes
 Part I—Preliminary
 1  Short title [See Note 1]
@@ -63,13 +35,10 @@ the protecting power, in relation to a protected prisoner of war or a protected 
 6  Application of Act
 	(1)	This Act extends to every Territory.
 	(2)	This Act has extra‑territorial operation according to its tenor.
-6A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part II—Punishment of offenders against the Conventions and Protocol I
 7  Punishment of grave breaches of Conventions and Protocol I
-	(1)	A person who, in Australia or elsewhere, commits a grave breach of any of the Conventions or of Protocol I is guilty of an indictable offence.
+	(1)	A person who, in Australia or elsewhere, commits, or aids, abets or procures the commission by another person of, a grave breach of any of the Conventions or of Protocol I is guilty of an indictable offence.
 	(2)	For the purposes of this section:
 	(a)	a grave breach of the First Convention is a breach of that Convention involving an act referred to in Article 50 of that Convention committed against persons or property protected by that Convention;
 	(b)	a grave breach of the Second Convention is a breach of that Convention involving an act referred to in Article 51 of that Convention committed against persons or property protected by that Convention;
@@ -82,7 +51,7 @@ Part II—Punishment of offenders against the Conventions and Protocol I
 	(iv)	an act referred to in paragraph 4 of Article 85 of that Protocol.
 	(3)	This section applies to persons regardless of their nationality or citizenship.
 	(4)	The punishment for an offence against this section is:
-	(a)	where the offence involves the intentional killing of a person protected by the relevant Convention or by Protocol I—imprisonment for life or for any less term; and
+	(a)	where the offence involves the wilful killing of a person protected by the relevant Convention or by Protocol I—imprisonment for life or for any less term; and
 	(b)	in any other case—imprisonment for a term not exceeding 14 years.
 	(6)	An offence against this section shall not be prosecuted in a court except by indictment in the name of the Attorney‑General or of the Director of Public Prosecutions.
 	(7)	The provisions of section 12 (other than subsection 12(2)) apply in relation to the trial of a person for an offence against this section in like manner as they apply in relation to the trial of a protected prisoner of war.
@@ -156,8 +125,6 @@ Part IV—Abuse of the Red Cross and other emblems, signs, signals, identity car
 	(e)	a design or wording so nearly resembling any of the emblems or designations specified in paragraph (a), (b), (c) or (d) as to be capable of being mistaken for, or, as the case may be, understood as referring to, one of those emblems;
 	(f)	such other emblems, identity cards, signs, signals, insignia or uniforms as are prescribed for the purpose of giving effect to Protocol I.
 Penalty:	$1,000
-	(1A)	Subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(2)	The Minister or a person authorized by the Minister to give consents under this section shall not refuse to give such a consent, and shall not withdraw such a consent, except for the purpose of giving effect to the provisions of the Conventions or of Protocol I.
 	(3)	An authority given under section 4 of the Geneva Convention Act 1938 and in force immediately before the commencement of this section shall be deemed to be a consent to the like effect given by the Minister under this section.
 	(4)	Where a court convicts a person of an offence against subsection (1), the court may order the forfeiture to the Commonwealth of:
@@ -176,6 +143,7 @@ Part V—Regulations
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 The Schedules
+
 Schedule 1—Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949
 Section 5
   
@@ -2782,15 +2750,9 @@ Article 16—International special sign
 Fig. 5: International special sign for works and installations containing dangerous forces
 ANNEX II
 	IDENTITY CARD FOR JOURNALISTS ON DANGEROUS PROFESSIONAL MISSIONS
-
-
-
-
-
 Notes to the Geneva Conventions Act 1957
 Note 1
 The Geneva Conventions Act 1957 as shown in this compilation comprises Act No. 103, 1957 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -2800,7 +2762,7 @@ Application, saving or transitional provisions
 Geneva Conventions Act 1957
 103, 1957
 18 Dec 1957
-1 Sept 1959 (see Gazette 1959, p. 3001) 
+1 Sept 1959 (see Gazette 1959,  p. 3001) 
 
 Statute Law Revision (Decimal Currency) Act 1966
 93, 1966
@@ -2811,21 +2773,21 @@ Statute Law Revision Act 1973
 216, 1973
 19 Dec 1973
 31 Dec 1973
-Ss. 9(1) and 10 
+Ss. 9 (1) and 10 
 Defence Force (Miscellaneous Provisions) Act 1982
 153, 1982
 31 Dec 1982
-3 July 1985 (see s. 2 and Gazette 1985, No. S255)
+3 July 1985 (see s. 2 and Gazette 1985, No.S255)
 — 
 Director of Public Prosecutions (Consequential Amendments)Act 1983
 114, 1983
 14 Dec 1983
-Part IX (ss. 18, 19): 5 Mar 1984 (see Gazette 1984, No. S55) (a)
+Part IX (ss. 18, 19): 5 Mar 1984 (see Gazette 1984, No. S55)(a)
 —
 Geneva Conventions Amendment Act 1991
 27, 1991
 4 Mar 1991
-28 Mar 1991 (see Gazette 1991, No. S81)
+28 Mar 1991 (see Gazette 1991, No. S81)
 —
 as amended by
 
@@ -2837,20 +2799,11 @@ Statute Law Revision Act 1996
 25 Oct 1996
 Schedule 3 (item 27): 4 Mar 1991 (b)
 — 
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
-24, 2001
-6 Apr 2001
-S. 4(1), (2) and Schedule 30: (c)
-S. 4(1), (2) [see Table A]
 
-(a)	The Geneva Conventions Act 1957 was amended by Part IX (sections 18 and 19) only of the Director of Public Prosecutions (Consequential Amendments) Act 1983, subsection 2(1) of which provides as follows:
+(a)	The Geneva Conventions Act 1957 was amended by Part IX (sections 18 and 19) only of the Director of Public Prosecutions (Consequential Amendments) Act 1983, subsection 2 (1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which the Director of Public Prosecutions Act 1983 comes into operation.
 (b)	The Geneva Conventions Amendment Act 1991 was amended by Schedule 3 (item 27) only of the Statute Law Revision Act 1996, subsection 2(3) of which provides as follows:
 	(3)	Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
-(c)	The Geneva Conventions Act 1957 was amended by Schedule 30 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
-	(1)	Subject to this section, this Act commences at the later of the following times:
-	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
-	Item 15 commenced on 24 May 2001.
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -2866,12 +2819,10 @@ S. 5
 am. No. 216, 1973; No. 153, 1982; No. 27, 1991 
 S. 6	
 am. No. 216, 1973
-S. 6A	
-ad. No. 24, 2001
 Heading to Part II	
 am. No. 27, 1991 
 S. 7	
-am. No. 216, 1973; No. 153, 1982; No. 114, 1983; No. 27, 1991; No. 24, 2001 
+am. No. 216, 1973; No. 153, 1982; No. 114, 1983; No. 27, 1991 
 S. 8	
 am. No. 216, 1973
 
@@ -2893,7 +2844,7 @@ am. No. 27, 1991
 Heading to Part IV	
 am. No. 27, 1991
 S. 15	
-am. No. 93, 1966; No. 27, 1991; No. 24, 2001
+am. No. 93, 1966; No. 27, 1991
 S. 16	
 rs. No. 27, 1991
 Heading to First Schedule	
@@ -2914,10 +2865,4 @@ Heading to Schedule 4
 ad. No. 27, 1991
 Schedule 5	
 ad. No. 27, 1991  
-Table A
-Application, saving or transitional provisions
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
-4  Application of amendments
-	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
