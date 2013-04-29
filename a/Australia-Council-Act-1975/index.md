@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00023/Html/1b456c15-2620-4507-adab-7cda89eabb78_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00524/Html/ae476871-0d65-4e5d-9c14-7ee2e13d9772_files/image001.gif)
 
 # Australia Council Act 1975
 
 **Act No. 11 of 1975 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 12 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -386,9 +386,9 @@ the appropriate authority shall terminate the appointment of that member.
 
 ##### <a id="15"></a>15  Acting Chairperson
 
-             (1)  The Minister may appoint a person (who may be a member of the Council) to act as Chairperson of the Council during a vacancy in the office of Chairperson.
+             (1)  Subject to subsection (2), the Minister may appoint a person (who may be a member of the Council) to act as Chairperson of the Council during a vacancy in the office of Chairperson.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  A person appointed under subsection (1) to act as Chairperson shall not continue so to act for more than 12 months.
 
              (3)  During any period when there is neither a Chairperson nor a person appointed under subsection (1) or when the Chairperson or the person appointed under subsection (1) is absent from duty or from Australia or is, for any reason, unable to perform the functions of the office of Chairperson:
 
@@ -396,9 +396,17 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  if there is no Deputy Chairperson or the Deputy Chairperson is not available to act as Chairperson, the Minister may appoint a member of the Council to act as Chairperson, but any such appointment ceases to have effect when the circumstances giving rise to that appointment cease.
 
-Note:          For rules that apply to persons acting as the Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
+             (4)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed under this section; and
+
+                     (b)  at any time terminate such an appointment.
+
+             (5)  The appointment of a person under this section ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
 
              (6)  At any time when a person is acting as Chairperson in accordance with this section, the person has, and may exercise, all the powers and shall perform all the functions of the Chairperson and, if the person is not a member of the Council, shall be deemed to be a member of the Council for the purposes of subsections 17(4) and (7) of this Act and sections 27F to 27L of the _Commonwealth Authorities and Companies Act 1997_.
+
+             (7)  The validity of anything done by a person acting as Chairperson in accordance with this section shall not be called in question on the grounds that the occasion for the person’s appointment had not arisen or that the appointment had ceased to have effect.
 
 ##### <a id="16"></a>16  Deputies
 
@@ -496,13 +504,27 @@ Note:          For rules that apply to persons acting as the C
 
 ##### <a id="19E"></a>19E  Acting General Manager
 
-                   The Minister may appoint a person to act as General Manager:
+             (1)  The Minister may appoint a person to act as General Manager:
 
                      (a)  during a vacancy in the office of General Manager, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the General Manager is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of General Manager.
+                     (b)  during any period, or during all periods, when the General Manager is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of General Manager;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of an acting General Manager; and
+
+                     (b)  at any time terminate such an appointment.
+
+             (3)  Where a person is acting as General Manager in accordance with paragraph (1)(b) and the office of General Manager becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled, or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (4)  The appointment of an acting General Manager ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
+
+             (5)  At any time when a person is acting as General Manager in accordance with this section, the person has, and may exercise, all the powers and shall perform all the functions of the General Manager.
+
+             (6)  The validity of anything done by a person appointed under this section shall not be called in question on the ground that the occasion for the person’s appointment had not arisen or that the appointment had ceased to have effect.
 
 ##### <a id="19F"></a>19F  Termination of office
 
@@ -622,9 +644,19 @@ and name those Boards as he or she thinks fit.
 
                      (a)  during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or, for any reason, unable to perform the functions of the office of Chairperson.
+                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or, for any reason, unable to perform the functions of the office of Chairperson;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of an Acting Chairperson; and
+
+                     (b)  at any time terminate such an appointment.
+
+             (3)  Where a person is acting as Chairperson in accordance with paragraph (1)(b) and the office of Chairperson becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (4)  The appointment of an acting Chairperson ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
 
              (5)  At any time when a person is acting as Chairperson of a Board:
 
@@ -633,6 +665,8 @@ Note:          For rules that apply to acting appointments, se
                      (b)  if the person is not a member of that Board, the person shall be deemed to be a member of that Board for the purposes of subsections 29(4) and (7) and section 31; and
 
                      (c)  if the Chairperson is a member of the Council by virtue of an appointment under paragraph 9(2)(b)—the person acting as Chairperson shall be deemed to be such a member.
+
+             (7)  The validity of anything done by the Acting Chairperson shall not be called in question on the grounds that the occasion for the person’s appointment had not arisen or that the appointment had ceased to have effect.
 
 ##### <a id="29"></a>29  Meetings
 
@@ -762,7 +796,7 @@ Note:          For rules that apply to acting appointments, se
 
              (2)  A person to whom this section applies shall be paid such allowances as are prescribed.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
              (4)  In this section, **_person to whom this section applies_** means:
 
@@ -887,7 +921,8 @@ S. 26: 27 July 1981 ( <i>see Gazette</i>1981, No. S150) <i>(a)</i>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Ss. 6(a), (c), (e) and (f), 25(1), 25(2), 26(1)–(3), 26(4), 27(1), 27(2), 28(1), and 28(2)(a)</div>
+    <div>Ss. 6(a), (c), (e) and (f), 
+25(1), 25(2), 26(1)–(3), 26(4), 27(1), 27(2) 28(1), and 28(2)(a)</div>
   </td>
 </tr>
 <tr>
@@ -1124,7 +1159,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 86–99) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 86–99) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1419,23 +1454,7 @@ _(g)_     The _Australia__Council Act 1975_ was amended by Schedule 10
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1991; No. 152, 1997; No. 156, 1999; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 24, 1991; No. 152, 1997; No. 156, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1603,15 +1622,7 @@ _(g)_     The _Australia__Council Act 1975_ was amended by Schedule 10
     <div></div>
   </td>
   <td>
-    <div>am. No. 114, 1980; No. 24, 1991; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 19E</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 114, 1980; No. 24, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1715,15 +1726,7 @@ _(g)_     The _Australia__Council Act 1975_ was amended by Schedule 10
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 113, 1976; No. 114, 1980; No. 24, 1991; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 28(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 113, 1976; No. 114, 1980; No. 24, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1951,11 +1954,85 @@ _(g)_     The _Australia__Council Act 1975_ was amended by Schedule 10
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 86  Subsection 15(1)
+
+Omit “Subject to subsection (2), the”, substitute “The”.
+
+## 87  At the end of subsection 15(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 88  Subsection 15(2)
+
+Repeal the subsection.
+
+## 89  At the end of subsection 15(3)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 90  Subsections 15(4), (5) and (7)
+
+Repeal the subsections.
+
+## 91  Subsection 19E(1)
+
+Omit “(1)”.
+
+## 92  Paragraph 19E(1)(b)
+
+Omit “General Manager;”, substitute “General Manager.”.
+
+## 93  Subsection 19E(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 94  At the end of subsection 19E(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 95  Subsections 19E(2) to (6)
+
+Repeal the subsections.
+
+## 96  Paragraph 28(1)(b)
+
+Omit “Chairperson;”, substitute “Chairperson.”.
+
+## 97  Subsection 28(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 98  At the end of subsection 28(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 99  Subsections 28(2) to (4) and (7)
+
+Repeal the subsections.
+
+As at 12 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
 
 ## Schedule 1
 
@@ -1966,6 +2043,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
