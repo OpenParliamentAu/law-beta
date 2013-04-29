@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00827/Html/e0bdecff-87c0-4f08-96da-421006b47064_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00435/Html/IntstateRdTransptCh1985_image001.gif)
 
 # Interstate Road Transport Charge Act 1985
 
 **Act No. 131 of 1985 as amended**
 
-This compilation was prepared on 14 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 2 July 2010
+ taking into account amendments up to Act No. 57 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -26,7 +26,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3A](#3A).         Definitions
 
-[3B](#3B).         Close‑spaced axles
+[3B](#3B).         Close-spaced axles
 
 [3C](#3C).         Determination of number of trailers
 
@@ -42,7 +42,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Interstate Road__Transport Charge Act 1985_.
+                   This Act may be cited as the _Interstate   Road__Transport Charge Act 1985_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -50,7 +50,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  Subsection 3 (2) shall come into operation on the day on which section 5 of the _Interstate Road__Transport Act 1985_ comes into operation.
 
-             (3)  The remaining provisions of this Act shall come into operation on the day on which Part III of the _Interstate Road__Transport Act 1985_ comes into operation.
+             (3)  The remaining provisions of this Act shall come into operation on the day on which Part III of the _Interstate   Road__Transport Act 1985_ comes into operation.
 
 ##### <a id="3"></a>3    Interstate Road Transport Act
 
@@ -68,17 +68,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="axl"></a>**_axle_** means one or more shafts positioned in a line across a vehicle, on which one or more wheels intended to support the vehicle turn.
 
-                    <a name="axl-group"></a>**_axle group_** means a single axle group, tandem axle group, twinsteer axle group, tri‑axle group or quad‑axle group.
+                    <a name="axl-group"></a>**_axle group_** means a single axle group, tandem axle group, twinsteer axle group, tri-axle group or quad-axle group.
 
-                    <a name="doubl-combin"></a>**_B‑double combination_** means a combination consisting of a prime mover towing 2 semi trailers.
+                    <a name="doubl-combin"></a>**_B-double combination_** means a combination consisting of a prime mover towing 2 semi trailers.
 
-                    <a name="doubl-lead-trailer"></a>**_B‑double lead trailer_** means a semi trailer that is nominated for use as the lead trailer in a B‑double combination.
+                    <a name="doubl-lead-trailer"></a>**_B-double lead trailer_** means a semi trailer that is nominated for use as the lead trailer in a B-double combination.
 
-                    <a name="tripl-combin"></a>**_B‑triple combination_** means a combination consisting of a prime mover towing 3 semi trailers.
+                    <a name="tripl-combin"></a>**_B-triple combination_** means a combination consisting of a prime mover towing 3 semi trailers.
 
-                    <a name="tripl-lead-trailer"></a>**_B‑triple lead trailer_** means a semi trailer that is nominated for use as the lead trailer in a B‑triple combination.
+                    <a name="tripl-lead-trailer"></a>**_B-triple lead trailer_** means a semi trailer that is nominated for use as the lead trailer in a B-triple combination.
 
-                    <a name="tripl-middl-trailer"></a>**_B‑triple middle trailer_** means a semi trailer that is nominated for use as the second trailer in a B‑triple combination.
+                    <a name="tripl-middl-trailer"></a>**_B-triple middle trailer_** means a semi trailer that is nominated for use as the second trailer in a B-triple combination.
 
                     <a name="bu"></a>**_bus_** means a motor vehicle, built mainly to carry people, that seats more than 9 adults (including the driver).
 
@@ -116,7 +116,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="low-loader"></a>**_low loader_** means a gooseneck semi trailer with a loading deck no more than one metre above the ground.
 
-                    <a name="low-loader-dolli"></a>**_low loader dolly_** means a mass‑distributing device that:
+                    <a name="low-loader-dolli"></a>**_low loader dolly_** means a mass-distributing device that:
 
                      (a)  is usually coupled between a prime mover and low loader; and
 
@@ -134,13 +134,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  in relation to a vehicle for which there is no compliance plate—its operating mass.
 
-                    <a name="multi-combin-prime-mover"></a>**_multi‑combination prime mover_** means a prime mover nominated to haul 2 or more trailers.
+                    <a name="multi-combin-prime-mover"></a>**_multi-combination prime mover_** means a prime mover nominated to haul 2 or more trailers.
 
                     <a name="nomin"></a>**_nominated_** means nominated by the person applying for registration.
 
                     <a name="operating-mass"></a>**_operating mass_**, in relation to a vehicle, means the maximum mass of the vehicle, including any load, as determined by the Registration Authority having regard to the design and construction of the vehicle or of any of its components.
 
-                    <a name="pig-trailer"></a>**_pig trailer_** means a trailer with a single axle group or single axle near the middle of its load‑carrying surface, and connected to the towing vehicle by a drawbar.
+                    <a name="pig-trailer"></a>**_pig trailer_** means a trailer with a single axle group or single axle near the middle of its load-carrying surface, and connected to the towing vehicle by a drawbar.
 
                     <a name="pole-type-trailer"></a>**_pole type trailer_** means a trailer that:
 
@@ -150,7 +150,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="prime-mover"></a>**_prime mover_** means a motor vehicle designed to haul a semi trailer.
 
-                    <a name="quad-axl-group"></a>**_quad‑axle group_** means a group of 4 axles, in which the horizontal distance between the centre‑lines of the outermost axles is more than 3.2 metres but not more than 4.9 metres.
+                    <a name="quad-axl-group"></a>**_quad-axle group_** means a group of 4 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 3.2 metres but not more than 4.9 metres.
 
                     <a name="registr-author"></a>**_Registration Authority_** means the authority that is responsible for registering vehicles.
 
@@ -170,13 +170,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="singl-axl"></a>**_single axle_** means an axle not forming part of an axle group.
 
-                    <a name="singl-axl-group"></a>**_single axle group_** means a group of 2 or more axles, in which the horizontal distance between the centre‑lines of the outermost axles is less than one metre.
+                    <a name="singl-axl-group"></a>**_single axle group_** means a group of 2 or more axles, in which the horizontal distance between the centre-lines of the outermost axles is less than one metre.
 
-                    <a name="tandem-axl-group"></a>**_tandem axle group_** means a group of at least 2 axles, in which the horizontal distance between the centre‑lines of the outermost axles is at least one metre but not more than 2 metres.
+                    <a name="tandem-axl-group"></a>**_tandem axle group_** means a group of at least 2 axles, in which the horizontal distance between the centre-lines of the outermost axles is at least one metre but not more than 2 metres.
 
                     <a name="trailer"></a>**_trailer_** means a vehicle that is built to be towed, or is towed, by a motor vehicle, but does not include a motor vehicle that is being towed.
 
-                    <a name="tri-axl-group"></a>**_tri‑axle group_** means a group of at least 3 axles, in which the horizontal distance between the centre‑lines of the outermost axles is more than 2 metres, but not more than 3.2 metres.
+                    <a name="tri-axl-group"></a>**_tri-axle group_** means a group of at least 3 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 2 metres, but not more than 3.2 metres.
 
                     <a name="truck"></a>**_truck_** means a rigid motor vehicle that is principally constructed as a load carrying vehicle.
 
@@ -204,13 +204,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  connected to the same steering mechanism; and
 
-                     (d)  the horizontal distance between the centre‑lines of which is at least one metre, but not more than 2 metres.
+                     (d)  the horizontal distance between the centre-lines of which is at least one metre, but not more than 2 metres.
 
                     <a name="vehicl"></a>**_vehicle_** includes a trailer.
 
-##### <a id="3B"></a>3B  Close‑spaced axles
+##### <a id="3B"></a>3B  Close-spaced axles
 
-             (1)  For the purposes of this Act (other than the definitions of **_single axle group_**, **_tandem axle group_**, **_twinsteer axle group_**, **_tri‑axle group_** and **_quad‑axle group_**):
+             (1)  For the purposes of this Act (other than the definitions of **_single axle group_**, **_tandem axle group_**, **_twinsteer axle group_**, **_tri-axle group_** and **_quad-axle group_**):
 
                      (a)  2 axles less than one metre apart are to be regarded as one axle; and
 
@@ -218,7 +218,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  4 axles not more than 3.2 metres apart are to be regarded as 3 axles.
 
-             (2)  A reference to a distance in subsection (1) is a reference to the horizontal distance between the centre‑lines of:
+             (2)  A reference to a distance in subsection (1) is a reference to the horizontal distance between the centre-lines of:
 
                      (a)  in the case of paragraph (1)(a)—the 2 axles; and
 
@@ -252,7 +252,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                       (f)  a short combination prime mover;
 
-                     (g)  a multi‑combination prime mover;
+                     (g)  a multi-combination prime mover;
 
                      (h)  a pig trailer;
 
@@ -260,11 +260,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                       (j)  a semi trailer;
 
-                     (k)  a B‑double lead trailer;
+                     (k)  a B-double lead trailer;
 
-                      (l)  a B‑triple lead trailer;
+                      (l)  a B-triple lead trailer;
 
-                    (m)  a B‑triple middle trailer;
+                    (m)  a B-triple middle trailer;
 
                      (n)  a converter dolly;
 
@@ -292,7 +292,7 @@ Note:          For the definition of **_financial year_**, see
 
              (4)  If the registration is for less than a full year, the amount of the charge is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00827/Html/e0bdecff-87c0-4f08-96da-421006b47064_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00435/Html/IntstateRdTransptCh1985_image002.gif)
 
 where:
 
@@ -304,7 +304,7 @@ where:
 
 ##### <a id="7"></a>7  Regulations
 
-                   The Governor‑General may make regulations for the purposes of subsection 4(2) and section 5.
+                   The Governor-General may make regulations for the purposes of subsection 4(2) and section 5.
 
 # Notes to the _Interstate Road Transport Charge Act 1985_
 
@@ -504,23 +504,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (item 742) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -675,7 +658,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Note to Schedule heading.</div>
+    <div>Note to Schedule heading</div>
   </td>
   <td>
     <div>am. No. 18, 2002</div>
@@ -714,20 +697,6 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 742  Subsection 5(2) (note)
-
-Omit “paragraph 22(1)(e)”, substitute “section 2B”.
-
-As at 14 October 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -753,24 +722,8 @@ _Interstate Road Transport Charge Amendment Act (No. 2) 2008
 
 ## 10  Application of amendments
 
-(1)       Despite the repeal of section 5 of the _Interstate Road Transport Charge Act 1985_ made by item 6 of this Schedule, the amount of the charge under that section, immediately before this Schedule commences, continues to apply in relation to registrations of vehicles that come into force after this Schedule commences until regulations made for the purposes of section 5 of that Act, as in force immediately after this Schedule commences, take effect.
+(1)        Despite the repeal of section 5 of the _Interstate Road Transport Charge Act 1985_ made by item 6 of this Schedule, the amount of the charge under that section, immediately before this Schedule commences, continues to apply in relation to registrations of vehicles that come into force after this Schedule commences until regulations made for the purposes of section 5 of that Act, as in force immediately after this Schedule commences, take effect.
 
-(2)       Once those regulations take effect, the amendments made by this Schedule apply in relation to registrations of vehicles in a category referred to in subsection 4(1A) of the _Interstate Road Transport Charge Act 1985_ (as inserted by item 3 of this Schedule) that come into force after this Schedule commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        Once those regulations take effect, the amendments made by this Schedule apply in relation to registrations of vehicles in a category referred to in subsection 4(1A) of the _Interstate Road Transport Charge Act 1985_ (as inserted by item 3 of this Schedule) that come into force after this Schedule commences.
 
  
