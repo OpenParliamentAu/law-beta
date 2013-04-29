@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00705/Html/71e22c12-ad40-4518-82b2-94e82fbbf345_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00657/Html/e7bb53a8-af33-411c-8aea-321d0b632cc3_files/image001.gif)
 
 # Financial Management and Accountability Act 1997
 
 **Act No. 154 of 1997 as amended**
 
-This compilation was prepared on 1 September 2011
+This compilation was prepared on 16 August 2011
  taking into account amendments up to Act No. 89 of 2011
 
 The text of any of those amendments not in force 
@@ -18,31 +18,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Reader’s guide
 
-                   This Guide aims to give you a general overview of the matters covered by this Act. It also gives you some information about the way this Act is organised.
+                   This Guide aims to give you a general overview of the matters covered by this Act. It also gives you some information about the way this Act is organised.
 
 Overview of this Act
 
-                   The main purpose of this Act is to provide a framework for the proper management of public money and public property. **_Public money_** and **_public property_** are defined in section 5\. Broadly, those terms refer to money or property that is owned or held by the Commonwealth, including money or property held on trust.
+                   The main purpose of this Act is to provide a framework for the proper management of public money and public property. **_Public money_** and **_public property_** are defined in section 5\. Broadly, those terms refer to money or property that is owned or held by the Commonwealth, including money or property held on trust.
 
-                   This Act contains rules about how public money and property are to be dealt with. Many of the detailed rules are in regulations made under section 65.
+                   This Act contains rules about how public money and property are to be dealt with. Many of the detailed rules are in regulations made under section 65.
 
-                   Many of the rules in this Act apply to officials of Agencies and to Chief Executives of Agencies. **_Agency_**, **_official_** and **_Chief Executive_** are defined in section 5.
+                   Many of the rules in this Act apply to officials of Agencies and to Chief Executives of Agencies. **_Agency_**, **_official_** and **_Chief Executive_** are defined in section 5.
 
 Summary of this Act
 
         Part 1 _Preliminary_: This Part deals with the commencement of this Act, its application to things outside Australia and its application to the Crown.
 
-        Part 2 _General provisions about definitions_: This Part contains definitions of terms that are frequently used throughout this Act and general provisions about notional payments and receipts by Agencies.
+        Part 2 _General provisions about definitions and notional payments and receipts by Agencies_: This Part contains definitions of terms that are frequently used throughout this Act and general provisions about notional payments and receipts by Agencies.
 
         Part 3 _Collection, custody etc. of public money_: This Part deals with the collection and custody of public money. It deals with matters such as banking and liability for loss of public money.
 
         Part 4 _Accounting, appropriations and payments_: This Part establishes an accounting framework for public money that involves the Consolidated Revenue Fund and Special Accounts. This Part has a number of rules that apply to the adjustment of appropriations in certain circumstances. It also deals with miscellaneous matters such as act of grace payments by the Commonwealth and waiver of debts owing to the Commonwealth.
 
-        Part 5 _Borrowing, investment and involvement in companies_: This Part gives the Finance Minister limited powers to borrow money on behalf of the Commonwealth. It also deals with the investment of public money, and a Minister’s obligation to inform the Parliament of the Commonwealth or a prescribed body’s involvement in a company.
+        Part 5 _Borrowing and investment_: This Part gives the Finance Minister limited powers to borrow money on behalf of the Commonwealth. It also deals with the investment of public money.
 
         Part 6 _Control and management of public property_: This Part has rules about the control and management of public property. It deals with matters such as misapplication of public property and liability for loss of public property.
-
-     Part 6A _Interjurisdictional agencies_: This Part sets out that the regulations may prescribe a Commonwealth agency as an interjurisdictional agency. An interjurisdictional agency involves, jointly, the Commonwealth and participating State and/or Territory jurisdictions in the governance of that agency. This Part also provides that the regulations may set out the obligations on Chief Executives of interjurisdictional agencies.
 
         Part 7 _Special responsibilities of Chief Executives_: The rules in this Part apply to Chief Executives of Agencies. The rules deal generally with the control and management of public money and public property for which Chief Executives have a management responsibility.
 
@@ -52,17 +50,17 @@ Summary of this Act
 
 Related legislation
 
-                   The following Acts are directly relevant to the operation or interpretation of this Act:
+                   The following Acts are directly relevant to the operation or interpretation of this Act:
 
-                   The Annual Appropriation Acts appropriate money out of the Consolidated Revenue Fund.
+                   The _Auditor‑General Act 1997_ establishes the office of Auditor‑General and sets out the functions of the Auditor‑General. It also provides for the appointment of an Independent Auditor to audit the Australian National Audit Office.
 
-                   The _Auditor‑General Act 1997_ establishes the office of Auditor‑General and sets out the functions of the Auditor‑General. It also provides for the appointment of an Independent Auditor to audit the Australian National Audit Office.
+                   The _Acts Interpretation Act 1901_ contains many general rules about the meaning or effect of many terms and provisions that are commonly used in Commonwealth Acts.
 
-                   The _Acts Interpretation Act 1901_ contains many general rules about the meaning or effect of many terms and provisions that are commonly used in Commonwealth Acts.
+                   The Annual Appropriation Acts appropriate money out of the Consolidated Revenue Fund.
 
-                   The _Commonwealth Authorities and Companies Act 1997_ contains reporting, accountability and other rules that apply to Commonwealth authorities and Commonwealth companies (which are separate legal entities to the Commonwealth).
+                   This list is not exhaustive. Acts other than those listed above might also affect the operation or interpretation of this Act.
 
-                   This list is not exhaustive. Acts other than those listed above might also affect the operation or interpretation of this Act.
+                   Another related Act is the _Commonwealth Authorities and Companies Act 1997_. It contains reporting rules, accountability rules and other rules that apply to Commonwealth authorities and Commonwealth companies (which are separate legal entities to the Commonwealth).
 
 # Contents
 
@@ -537,14 +535,6 @@ Note:          An Appropriation Act provides for amounts to be
 Note:          This subsection applies to transactions that do not actually involve payments because the parties to the transaction are merely parts of the Commonwealth or acting as agents for the Commonwealth. For example, Agency 1 “pays” Agency 2 for services provided by Agency 2.
 
              (5)  Whenever an amount is debited against the appropriation in subsection (4), the amount is taken to be also debited from the Special Account.
-
-Sunsetting and disallowance
-
-             (6)  A determination made under subsection (1) or (2) is a legislative instrument, but Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ does not apply to the determination.
-
-Note:          See section 22 for tabling and disallowance of a determination made under subsection (1) or (2).
-
-             (7)  A determination made under subsection (3) is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to the determination.
 
 ##### <a id="21"></a>21  Special Accounts established by other Acts
 
@@ -1024,7 +1014,7 @@ Note:          A Chief Executive has the power to enter into c
 
                      (a)  helping the Agency to comply with obligations under this Act, the regulations and Finance Minister’s Orders; and
 
-                     (b)  providing a forum for communication between the Chief Executive, the senior managers of the Agency, the internal auditors of the Agency and the Auditor‑General.
+                     (b)  providing a forum for communication between the Chief Executive, the senior managers of the Agency and the internal and external auditors of the Agency.
 
              (2)  The committee must be constituted in accordance with the regulations (if any).
 
@@ -1079,8 +1069,6 @@ Transfer of Agency functions
              (1)  The regulations may authorise Chief Executives to give instructions to officials in their Agencies on any matter on which regulations may be made under this Act.
 
              (2)  An instruction cannot create offences or impose penalties.
-
-             (3)  An instruction is not a legislative instrument.
 
 ##### <a id="53"></a>53  Chief Executive may delegate powers
 
@@ -1244,7 +1232,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  A guideline cannot create offences or impose penalties.
 
-             (3)  A guideline is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to the guideline.
+             (3)  A guideline is a legislative instrument.
 
 ##### <a id="65"></a>65  Regulations
 
@@ -1405,7 +1393,7 @@ of Assent</div>
 Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419)</div>
+    <div>Sch. 2 (items 418, 419)</div>
   </td>
 </tr>
 <tr>
@@ -1458,7 +1446,7 @@ Remainder: 7 Apr 2006</div>
     <div>Schedule 1 (items 1–8, 10, 13–16, 19, 21): 1 Jan 2008 ( <i>see</i>F2007L04788) Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 13(2), 14–18)</div>
+    <div>Sch. 1 (items 13(2), 14–18)</div>
   </td>
 </tr>
 <tr>
@@ -1475,7 +1463,7 @@ Remainder: 7 Apr 2006</div>
     <div>Schedule 1 (items 6–9, 15): 13 July 2008</div>
   </td>
   <td>
-    <div>Sch. 1 (item 15)</div>
+    <div>Sch. 1 (item 15)</div>
   </td>
 </tr>
 <tr>
@@ -1557,7 +1545,7 @@ Remainder: 7 Apr 2006</div>
     <div>4 Aug 2011</div>
   </td>
   <td>
-    <div>Schedule 2: 1 Sept 2011 ( <i>see</i>F2011L01793)</div>
+    <div>Schedule 2: \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -1770,7 +1758,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 89, 2011</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2215,14 +2203,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 89, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 50</div>
   </td>
   <td>
@@ -2243,14 +2223,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
   </td>
   <td>
     <div>rs. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2367,23 +2339,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008; No. 89, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
+    <div>Ss. 63–65</div>
   </td>
   <td>
     <div>am. No. 90, 2008</div>
@@ -2410,7 +2366,46 @@ The following amendment commences on 27 December 2011 unless proclaimed earlier:
 
 Repeal the definition.
 
-As at 1 September 2011 the amendment is not incorporated in this compilation.
+As at 16 August 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Financial Framework Legislation Amendment Act (No. 1) 2011
+ (No. 89, 2011)_
+
+The following amendments commence on 4 August 2012 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1  At the end of section 20
+
+Add:
+
+Sunsetting and disallowance
+
+             (6)  A determination made under subsection (1) or (2) is a legislative instrument, but Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ does not apply to the determination.
+
+Note:          See section 22 for tabling and disallowance of a determination made under subsection (1) or (2).
+
+             (7)  A determination made under subsection (3) is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to the determination.
+
+## 2  Paragraph 46(1)(b)
+
+Omit “and the internal and external auditors of the Agency”, substitute “, the internal auditors of the Agency and the Auditor‑General”.
+
+## 3  At the end of section 52
+
+Add:
+
+             (3)  An instruction is not a legislative instrument.
+
+## 4  Subsection 64(3)
+
+Repeal the subsection, substitute:
+
+             (3)  A guideline is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to the guideline.
+
+As at 16 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2598,8 +2593,7 @@ continues to have effect after the commencing time as if it had been done by the
 
 * * *
 
-_Financial Framework Legislation Amendment Act (No. 1) 2007 
- (No. 166, 2007)_
+_Financial Framework Legislation Amendment Act (No. 1) 2007 (No. 166, 2007)_
 
 ## Schedule 1
 
@@ -2611,7 +2605,7 @@ _Financial Framework Legislation Amendment Act (No. 1) 2007
 
 The amendment made by item 4 applies in relation to amounts received by the Commonwealth before or after the commencement of that item.
 
-## 15  Application—repayments to the Commonwealth
+## 15  Application—repayments to the Commonwealth
 
 The amendment made by item 6 applies in relation to amounts paid by the Commonwealth before or after the commencement of that item.
 
