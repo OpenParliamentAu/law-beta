@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00844/Html/fa721331-28ae-4300-bab7-9fb97bd20290_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00208/Html/48fe1c4a-6c80-47f7-8af8-bb5affcd9c2f_files/image001.gif)
 
 # Law Officers Act 1964
 
 **Act No. 91 of 1964 as amended**
 
-This compilation was prepared on 19 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -284,7 +284,7 @@ reduced by 2.5% for each whole year between:
 
         (11A)  For the purposes of this section, the **_appropriate current salary_** in relation to a person at a particular time (the **_calculation time_**) is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00844/Html/fa721331-28ae-4300-bab7-9fb97bd20290_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00208/Html/48fe1c4a-6c80-47f7-8af8-bb5affcd9c2f_files/image002.gif)
 
 For the purposes of the calculation:
 
@@ -693,23 +693,6 @@ Schedule 2 (items 27, 28): 1 Jan 2009 ( <i>see</i>F2008L04609)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 752–754) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Law Officers Act 1964_ was amended by sections 3 and 4 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsections 2(1) and (9) of which provide as follows:
@@ -962,30 +945,6 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 752  At the end of subsection 11(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 753  Subsection 11(3)
-
-Repeal the subsection.
-
-## 754  Subsection 11(4)
-
-Repeal the subsection.
-
-As at 19 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1055,21 +1014,5 @@ The amendments of the _Law Officers Act 1964_ made by this Schedule apply in rel
                      (a)  was appointed as Solicitor‑General before 1 January 1998; and
 
                      (b)  dies on or after the commencement of this Schedule.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
