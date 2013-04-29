@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00808/Html/HistoricShipwrecks1976_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00103/Html/HistoricShipwrecks1976_image001.gif)
 
 # Historic Shipwrecks Act 1976
 
 **Act No. 190 of 1976 as amended**
 
-This compilation was prepared on 14 December 2010
- taking into account amendments up to Act No. 139 of 2010
+This compilation was prepared on 24 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -362,7 +362,7 @@ the declaration continues to apply in relation to that article.
 
                      (b)  a reference to a Minister of a State shall, in relation to the Northern Territory, be read as a reference to a person holding an office referred to in section 34 of the _Northern Territory (Self-Government Act) 1978_; and 
 
-                     (c)  a reference to a Minister of a State shall, in relation to Norfolk Island, be read as a reference to a Minister of Norfolk Island.
+                     (c)  a reference to a Minister of a State shall, in relation to Norfolk Island, be read as a reference to a person holding office under section 13 of the _Norfolk Island__Act 1979_. 
 
 ##### <a id="5"></a>5  Certain shipwrecks and relics may be declared to be historic
 
@@ -954,7 +954,7 @@ In its deliberations the Committee will have, as its general aim, the purpose of
 
 Most material so far recovered from the vessels are samples capable of statistical treatment.
 
-A representative collection of the contents of each statistical sample should be made available to a museum of the Netherlands Government and a museum of the Commonwealth Government. Thus, in the case of coin, for example, both the Netherlands and Commonwealth Governments would receive as complete a series as possible representing the mintings and values contained within each of the wrecks. These will provide their museums with ample material of this class of objects for display purposes and sufficient to enable a scholar to make the initial qualitative studies which would possibly lead him to a more detailed statistical treatment of the bulk sample retained in the Western Australian Museum. 
+A representative collection of the contents of each statistical sample should be made available to a museum of the Netherlands Government and a museum of the Commonwealth Government. Thus, in the case of coin, for example, both the Netherlands and Commonwealth Governments would receive as complete a series as possible representing the mintings and values contained within each of the wrecks. These will provide their museums with ample material of this class of objects for display purposes and sufficient to enable a scholar to make the initial qualitative studies which would possibly lead him to a more detailed statistical treatment of the bulk sample retained in the   Western Australian Museum. 
 
 **Less common or rare objects**
 
@@ -1209,7 +1209,7 @@ Remainder: 15 Feb 1985 (see s. 2(1) and <i>Gazette</i>1985, No. S38)</div>
 Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1258,23 +1258,6 @@ Remainder: 24 May 2001</div>
   </td>
   <td colspan="2">
     <div>Schedule 10 (item 21): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 2010</div>
-  </td>
-  <td>
-    <div>139, 2010</div>
-  </td>
-  <td>
-    <div>10 Dec 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 68): 11 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -1400,14 +1383,6 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
   </td>
   <td>
     <div>ad. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1606,5 +1581,7 @@ _Environment and Heritage Legislation Amendment (Application of Criminal Code) A
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+ 
 
  
