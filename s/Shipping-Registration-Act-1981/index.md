@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00108/Html/93a89d02-cfec-4e25-88a5-7019a36c2331_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00848/Html/3727e1a9-5d77-4236-af90-fffd0fbbb350_files/image001.gif)
 
 # Shipping Registration Act 1981
 
 **Act No. 8 of 1981 as amended**
 
-This compilation was prepared on 13 January 2012
+This compilation was prepared on 20 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -1184,13 +1184,21 @@ has applied for the registration of any dealing with the ship or share.
 
 ##### <a id="51"></a>51  Acting Registrar and Deputy Registrars
 
-                   The Authority may appoint a person to act as Registrar, or as a Deputy Registrar:
+             (1)  The Authority may appoint a person to act as Registrar, or as a Deputy Registrar:
 
                      (a)  during a vacancy in the office of Registrar or an office of Deputy Registrar, as the case may be, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Registrar or a Deputy Registrar, as the case may be, is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the Registrar or a Deputy Registrar, as the case may be, is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+and may at any time terminate such an appointment.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  Where a person is acting in an office in accordance with paragraph (1)(b), and the office becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Authority otherwise directs or the vacancy is filled.
+
+             (4)  While a person is acting as the Registrar or as a Deputy Registrar under this section, he or she has and may exercise all the powers, and shall perform all the functions and duties, of the Registrar or a Deputy Registrar, as the case may be, under this Act or any other law.
+
+             (5)  The validity of anything done by a person purporting to act under this section shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for him or her to act had not arisen or had ceased.
 
 ##### <a id="52"></a>52  Delegation by Minister
 
@@ -1608,7 +1616,7 @@ knowing it to be false or misleading in a material particular.
 
                      (b)  if the offender is a body corporate—a fine not exceeding $5,000.
 
-##### <a id="76"></a>76  Joinder of charges and penalties for certain offences
+##### <a id="76"></a>76  Joinder of charges and penalties for certain offences
 
              (1)  Charges against the same person for any number of offences against subsection 26(2) or 65(8) may be joined in the same information or complaint if those offences relate to a failure to do the same act or thing.
 
@@ -1733,6 +1741,8 @@ knowing it to be false or misleading in a material particular.
                      (x)  any matter incidental to or connected with any of the foregoing.
 
              (3)  The regulations may provide that a specified provision of this Act does not apply, or applies with specified modifications, in relation to Government ships.
+
+             (4)  The power conferred by subsection (3) to make modifications by regulation includes the power to omit any matter or add any new matter.
 
              (5)  The regulations may provide, in respect of an offence against the regulations, for the imposition of a fine not exceeding $500.
 
@@ -2202,7 +2212,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 815–817): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(i)</i></div>
+    <div>Schedule 1 (items 815–817): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2272,7 +2282,7 @@ Schedule 4 (item 6): 6 Oct 2006</div>
     <div>19 Feb 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 11 (item 16): 20 Feb 2010</div>
+    <div>Schedule 11 (item 16): 20 Feb 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -2289,7 +2299,7 @@ Schedule 4 (item 6): 6 Oct 2006</div>
     <div>1 Mar 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 5 (item 137(a)): <i>(j)</i></div>
+    <div>Schedule 5 (item 137(a)): <i>(j)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2306,10 +2316,10 @@ Schedule 4 (item 6): 6 Oct 2006</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 1038–1043) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1038–1043) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -2866,15 +2876,7 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 51</div>
   </td>
   <td>
-    <div>am. No. 78, 1990; No. 43, 1996; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 51</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 78, 1990; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -3071,14 +3073,6 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part VII</b></div>
   </td>
   <td>
@@ -3139,7 +3133,7 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 _Personal Property Securities (Consequential Amendments) Act 2009 
  (No. 131, 2009)_
 
-The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 3
 
@@ -3275,7 +3269,43 @@ Omit “, 66”.
 
 Omit “, 66”.
 
-As at 13 January 2012 the amendments are not incorporated in this compilation.
+As at 20 October 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1038  Subsection 51(1)
+
+Omit “(1)”.
+
+## 1039  Paragraph 51(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 1040  Subsection 51(1)
+
+Omit “and may at any time terminate such an appointment.”.
+
+## 1041  At the end of subsection 51(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1042  Subsections 51(2) to (5)
+
+Repeal the subsections.
+
+## 1043  Subsection 83(4)
+
+Repeal the subsection.
+
+As at 20 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3294,7 +3324,7 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 _Personal Property Securities (Consequential Amendments) Act 2009 
  (No. 131, 2009)_
 
-The following provisions commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following provisions commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 3
 
@@ -3329,6 +3359,8 @@ _Note:       The items in this Schedule commence at the registration
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
