@@ -1,7 +1,7 @@
 
 Imported Food Control Act 1992
 Act No. 221 of 1992 as amended
-This compilation was prepared on 4 July 2002  taking into account amendments up to Act No. 115 of 2001
+This compilation was prepared on 8 August 2001  taking into account amendments up to Act No. 81 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -14,8 +14,7 @@ Part 1—Preliminary	1
 3	Interpretation	1
 4	Application of Act to certain external Territories	5
 5	Crown to be bound	5
-6	Saving of other laws	5
-6A	Application of the Criminal Code	6
+6	Saving of other laws	6
 7	Food to which Act applies	6
 Part 2—Control	8
 Division 1—Controls on the importation and movement of food	8
@@ -44,27 +43,27 @@ Part 3—Enforcement	24
 26	Offence‑related warrants	29
 27	Warrants may be granted by telephone etc.	31
 28	Seizures without offence‑related warrant in emergency situations	33
-29	Discovery of evidence	34
-30	Power to require persons to answer questions etc.	35
-31	Consent	36
-32	Persons to assist authorised officers	36
-33	Conduct by directors, servants and agents	37
-34	Evidence of analyst	38
+29	Discovery of evidence	33
+30	Power to require persons to answer questions etc.	34
+31	Consent	35
+32	Persons to assist authorised officers	35
+33	Conduct by directors, servants and agents	36
+34	Evidence of analyst	37
 35	Publishing of information	39
-Part 4—Miscellaneous	41
-36	Fees for certain services	41
-37	Certain moneys are a debt due to the Commonwealth	43
-38	Exemption from suit	43
-39	Compensation for destroyed food	44
-40	Authorised officers	45
-41	Delegation by Secretary	45
-42	Review of decisions	45
-43	Regulations	48
-Part 5—Consequential amendments of other Acts	49
-Division 1—Amendments of the Customs Act 1901	49
-Sections 44 and 45	49
-Division 2—Amendments of the Customs Administration Act 1985	50
-Sections 46 and 47	50
+Part 4—Miscellaneous	40
+36	Fees for certain services	40
+37	Certain moneys are a debt due to the Commonwealth	42
+38	Exemption from suit	42
+39	Compensation for destroyed food	43
+40	Authorised officers	44
+41	Delegation by Secretary	44
+42	Review of decisions	44
+43	Regulations	47
+Part 5—Consequential amendments of other Acts	48
+Division 1—Amendments of the Customs Act 1901	48
+Sections 44 and 45	48
+Division 2—Amendments of the Customs Administration Act 1985	49
+Sections 46 and 47	49
 Notes		51
 
 An Act to provide for the inspection and control of food imported into Australia, and for related purposes
@@ -79,7 +78,9 @@ Part 1—Preliminary
 	(1)	In this Act, unless the contrary intention appears:
 applicable standard, in relation to particular food, or a particular matter affecting food, at a particular time, means the national standard in force in relation to that food or matter at that time.
 AQIS means the operating group within the Department having responsibility in relation to the administration of this Act and of the Quarantine Act 1908.
-Australia New Zealand Food Standards Code has the same meaning as in the Food Standards Australia New Zealand Act 1991.
+Australia New Zealand Food Standards Code means the code published under the name “Food Standards Code” in the Gazette on 27 August 1987 together with any amendments of the standards in that code:
+	(a)	approved by the National Food Standards Council before the commencement of the Australia New Zealand Food Authority Act 1991 and published in the Gazette as forming part of that code; or
+	(b)	made under that Act.
 authorised officer means:
 	(a)	the Secretary; or
 	(b)	an officer of AQIS appointed by the Secretary under subsection 40(1); or
@@ -136,9 +137,8 @@ treatment, in relation to food, includes repackaging or relabelling.
 	(b)	it has been manufactured or transported under conditions which render it dangerous or unfit for human consumption.
 	(3)	In subsection (2):
 	(a)	a reference to approved chemicals, approved chemical residues or approved additives is a reference to chemicals, chemical residues or additives approved in a standard:
-	(i)	made under the Food Standards Australia New Zealand Act 1991 after the commencement of Part 1 of Schedule 1 to the Australia New Zealand Food Authority Amendment Act 2001; or
-	(ia)	adopted by the Australia New Zealand Food Standards Council under Australia New Zealand Food Authority Act 1991 before the commencement of Part 1 of Schedule 1 to the Australia New Zealand Food Authority Amendment Act 2001; or
-	(ii)	included in the Australia New Zealand Food Standards Code; and
+	(i)	adopted by the Australia New Zealand Food Standards Council under the Australia New Zealand Food Authority Act 1991; or
+	(ii)	included in the Australia New Zealand Food Standards Code within the meaning of that Act; and
 	(b)	a reference to permitted levels in relation to such approved standards, approved chemical residues, or approved additives is a reference to levels of those chemicals, chemical residues or additives permitted in such a standard; and
 	(c)	a reference to non‑approved chemicals, non‑approved chemical residues or non‑approved additives is a reference to chemicals, chemical residues or additives that are not approved in such a standard.
 4  Application of Act to certain external Territories
@@ -152,9 +152,6 @@ treatment, in relation to food, includes repackaging or relabelling.
 	(a)	the Quarantine Act 1908; or
 	(b)	any other law of the Commonwealth, or any law of a State, whether passed or made before or after the commencement of this Act, that can operate concurrently with this Act; or
 	(c)	any law of an external Territory to which this Act extends because of regulations made for the purpose of section 4, whether passed or made before or after the making of those regulations, that can operate concurrently with this Act.
-6A  Application of the Criminal Code
-		Chapter 2 (other than Part 2.5) of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 7  Food to which Act applies
 	(1)	This Act applies to all food imported into Australia other than:
 	(aa)	food that is imported from New Zealand and is of a kind that is specified by the regulations to be food to which this Act does not apply; or
@@ -370,10 +367,8 @@ Division 3—Treatment, destruction or re‑exportation of failing food
 	(5)	A permission to treat or a requirement to destroy or re‑export failing food in a notice under subsection (2), (3) or (4) must specify a period (having regard to the reasons why the food has been identified as failing food and to any difficulties associated with arranging for its treatment, destruction or re‑exportation) within which that treatment, destruction or re‑exportation is to be completed.
 	(6)	If the owner of food arranges for a treatment, destruction or re‑exportation in accordance with a notice under subsection (2), (3) or (4), that treatment, destruction or re‑exportation may be supervised by an authorised officer.
 	(7)	If the owner of food that is required in a notice under subsection (2), (3) or (4) to be destroyed or re‑exported refuses or fails to arrange for the destruction or re‑exportation of the food in accordance with the notice, the food to which the notice relates is forfeited to the Commonwealth.
-	(8)	The owner of food that is required in a notice under subsection (2), (3) or (4) to be destroyed or re‑exported must not intentionally refuse or fail to comply with the requirement to destroy or re‑export that food.
+	(8)	The owner of food that is required in a notice under subsection (2), (3) or (4) to be destroyed or re‑exported must not, without reasonable excuse, knowingly refuse or fail to comply with the requirement to destroy or re‑export that food.
 Penalty:	$20,000.
-	(8A)	Subsection (8) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (8A). See subsection 13.3(3) of the Criminal Code.
 	(9)	If the food is forfeited to the Commonwealth under subsection (7), an authorised officer may:
 	(a)	enter the premises at which the food is held; and
 	(b)	seize the food and arrange for its destruction or other disposal.
@@ -423,11 +418,7 @@ contains information that is relevant to determining whether there has been comp
 	(a)	be in a form approved in writing by the Secretary; and
 	(b)	incorporate a recent photograph of the person.
 	(3)	A person who ceases to be an authorised officer must, as soon as practicable after so ceasing, return his or her identity card to the Secretary.
-	(4)	A person who fails to return his or her identity card, as provided for in subsection (3), is guilty of an offence punishable, on conviction, by a fine not exceeding $100.
-	(5)	Subsection (4) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (5). See subsection 13.3(3) of the Criminal Code.
-	(6)	An offence under subsection (4) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+	(4)	A person who, without reasonable excuse, fails to return his or her identity card, as provided for in subsection (3), is guilty of an offence punishable, on conviction, by a fine not exceeding $100.
 23  Searches to monitor compliance with Act etc. with occupier’s consent
 	(1)	Subject to subsections (2) and (3), an authorised officer may, to the extent that it is reasonably necessary for the purpose of ascertaining whether this Act has been complied with, enter any premises and exercise monitoring powers at any time during the day or night.
 	(2)	An authorised officer may not, under subsection (1), enter any premises unless the occupier of the premises has consented to the entry.
@@ -566,13 +557,9 @@ subsection (1) applies to the thing as if it were the evidence mentioned in tha
 	(3)	The Secretary may, by written notice, require any person whom he or she believes, on reasonable grounds, to be capable of giving information relevant to the operation of this Act to attend before an authorised officer specified in the notice, at a time and place specified in the notice:
 	(a)	to answer any questions put by the specified officer; and
 	(b)	to produce to the specified officer such documents as are referred to in the notice.
-	(4)	A person must not fail to comply with a requirement under subsection (2) or (3).
+	(4)	A person must not, without reasonable excuse, fail to comply with a requirement under subsection (2) or (3).
 Penalty:	Imprisonment for 6 months.
-	(4A)	Subsection (4) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (4A). See subsection 13.3(3) of the Criminal Code.
 	(5)	It is a reasonable excuse for a person to refuse or fail to answer a question or produce a book, record or document on the ground that to do so would tend to incriminate the person.
-	(5A)	An offence under subsection (4) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 31  Consent
 	(1)	Before obtaining the consent of a person for the purposes of section 23 or 25, the authorised officer must inform the person that he or she may refuse to give consent.
 	(2)	An entry by an authorised officer by virtue of the consent of a person is not lawful unless the person voluntarily consented to the entry.
@@ -581,13 +568,9 @@ Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(a)	by the officer under section 23 or 25; or
 	(b)	under a warrant under section 24 or 26;
 to provide reasonable assistance to the officer, at any time while the officer is entitled to remain on the premises, for the purpose of the exercise of the officer’s powers under those sections in relation to the premises.
-	(2)	A person mentioned in subsection (1) must not fail to comply with an authorised officer’s request.
+	(2)	A person mentioned in subsection (1) must not, without reasonable excuse, fail to comply with an authorised officer’s request.
 Penalty:	$3,000.
-	(2A)	Subsection (2) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (2A). See subsection 13.3(3) of the Criminal Code.
 	(3)	It is a reasonable excuse for a person whose premises are being searched under a warrant issued under section 26 to refuse to assist an authorised officer on the ground that to do so would tend to incriminate the person.
-	(4)	An offence under subsection (2) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 33  Conduct by directors, servants and agents
 	(1)	If, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a body corporate in relation to particular conduct, it is sufficient to show:
 	(a)	that the conduct was engaged in by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority; and
@@ -773,14 +756,11 @@ Note 1
 The Imported Food Control Act 1992 as shown in this compilation comprises Act No. 221, 1992 amended as indicated in the Tables below.
 For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
-
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
-
-
 Imported Food Control Act 1992 
 221, 1992 
 24 Dec 1992 
@@ -814,13 +794,8 @@ Sch. 2 (items 418, 419)
 Australia New Zealand Food Authority Amendment Act 2001
 81, 2001
 10 July 2001
-S. 2(6): Royal Assent (c) Schedule 3 (items 3‑5): 1 July 2002 (see Gazette 2002, No. GN30)
+S. 2(6): Royal Assent (c) Schedule 3 (items 3‑5): [see (c) and Note 2]
 S. 2(6)
-Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001
-115, 2001
-18 Sept 2001
-16 Oct 2001
-S. 4
 (a)	The Imported Food Control Act 1992 was amended by Schedule 6 (items 1 and 2) only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1996, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Imported Food Control Act 1992 was amended by Schedule 4 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1997, subsection 2(4) of which provides as follows:
@@ -828,20 +803,18 @@ S. 4
 (c)	The Imported Food Control Act 1992 was amended by Schedule 3 (items 3‑5) only of the Australia New Zealand Food Authority Amendment Act 2001, subsections 2(1)(a), (2) and (5) of which provide as follows:
 	(1)	The following provisions commence on the day on which this Act receives the Royal Assent:
 	(a)	sections 1, 2 and 3;
-	(2)	Part 1 of Schedule 1 (other than item 120A), and Schedule 3, commence on the first day after the commencement of this section on which an amendment of the Australia New Zealand Joint Food Standards Agreement comes into force in accordance with Article 10 of that Agreement.
+	(2)	Part 1 of Schedule 1 (other than item 120A), and Schedule 3, commence on the first day after the commencement of this section on which an amendment of the Australia New Zealand Joint Food Standards Agreement comes into force in accordance with Article 10 of that Agreement. [see Note 2]
 	(5)	As soon as practicable after the commencement of the following provisions:
 	(a)	Part 1 of Schedule 1 (other than item 120A);
 	(b)	Schedule 3;
-		the Minister must cause to be published in the Gazette a notice specifying the day on which those provisions commenced.
+		the Minister must cause to be published in the Gazette a notice specifying the day on which those provisions commenced. [see Note 2]
 
 Table of Amendments
 ad. = added or inserted    am. = amended    rep. = repealed    rs. = repealed and substituted
 Provision affected
 How affected
 S. 3	
-am. No. 152, 1995; No. 59, 1996; No. 4, 1999; No. 137, 2000; No. 81, 2001
-S. 6A	
-ad. No. 115, 2001
+am. No. 152, 1995; No. 59, 1996; No. 4, 1999; No. 137, 2000
 S. 7	
 am. No. 94, 1997; No. 4, 1999
 S. 9	
@@ -856,14 +829,8 @@ Note to s. 19
 rep. No. 137, 2000
 S. 19A	
 ad. No. 137, 2000
-S. 20	
-am. No. 115, 2001
-S. 22	
-am. No. 115, 2001
 S. 30	
-am. No. 137, 2000; No. 115, 2001
-S. 32	
-am. No. 115, 2001
+am. No. 137, 2000
 S. 35	
 am. No. 4, 1999
 S. 39	
@@ -874,6 +841,20 @@ S. 42
 am. No. 4, 1999
 
 
+Note 2
+Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)
+The following amendments are dependent on the commencement of an amendment of the Australia New Zealand Joint Food Standards Agreement which comes into force in accordance with Article 10 of that Agreement:
+Schedule 3
+3  Subsection 3(1) (definition of Australia New Zealand Food Standards Code)
+Repeal the definition, substitute:
+Australia New Zealand Food Standards Code has the same meaning as in the Food Standards Australia New Zealand Act 1991.
+4  Subparagraph 3(3)(a)(i)
+Repeal the subparagraph, substitute:
+	(i)	made under the Food Standards Australia New Zealand Act 1991 after the commencement of Part 1 of Schedule 1 to the Australia New Zealand Food Authority Amendment Act 2001; or
+	(ia)	adopted by the Australia New Zealand Food Standards Council under Australia New Zealand Food Authority Act 1991 before the commencement of Part 1 of Schedule 1 to the Australia New Zealand Food Authority Amendment Act 2001; or
+5  Subparagraph 3(3)(a)(ii)
+Omit “within the meaning of that Act”.
+As at 8 August 2001 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
@@ -896,9 +877,4 @@ Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)
 2  Commencement
 	2(6)	In this section:
 Australia New Zealand Joint Food Standards Agreement means the Agreement between the Government of Australia and the Government of New Zealand Establishing a System for the Development of Joint Food Standards, signed at Wellington on 5 December 1995.
-
-Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
