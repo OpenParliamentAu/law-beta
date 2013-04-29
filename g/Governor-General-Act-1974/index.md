@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00540/Html/e3e758e2-fb8f-4ff0-a93b-85124d42f565_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00011/Html/GovernorGeneral74_WD02_image001.gif)
 
-# Governor‑General Act 1974
+# Governor-General Act 1974
 
 **Act No. 16 of 1974 as amended**
 
-This compilation was prepared on 15 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 1 January 2009
+ taking into account amendments up to Act No. 134 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -28,13 +27,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [2C](#2C).         Spouse of a deceased person
 
-[3](#3).            Salary of Governor‑General
+[3](#3).            Salary of Governor-General
 
 [4](#4).            Allowances
 
 [4A](#4A).         Allowance payable when there is more than one spouse
 
-[4AA](#4AA).      Benefit payable where Governor‑General or surviving spouse dies on or after 1 July 2006
+[4AA](#4AA).      Benefit payable where Governor-General or surviving spouse dies on or after 1 July 2006
 
 [4B](#4B).         Application for review
 
@@ -58,43 +57,39 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Termination of employment
 
-[16](#16).          Delegation by the Finance Secretary
-
 [19](#19).          Annual Report
 
 [20](#20).          Regulations
 
 **Notes** 
 
-## An Act to make provision in relation to the Salary of the Governor‑General, and the Payment of Allowances to persons, and to the spouses of persons, who have held the office of Governor‑General, to establish the office of Official Secretary to the Governor‑General, to provide for the employment of staff of the Governor‑General, and for related purposes
+## An Act to make provision in relation to the Salary of the Governor-General, and the Payment of Allowances to persons, and to the spouses of persons, who have held the office of Governor-General, to establish the office of Official Secretary to the Governor-General, to provide for the employment of staff of the Governor-General, and for related purposes
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Governor‑General Act 1974_.
+                   This Act may be cited as the _Governor-General Act 1974_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+                   This Act shall come into operation on the day on which it receives the Royal Assent.
 
 ##### <a id="2A"></a>2A  Interpretation
 
-             (1)  References in sections 6, 7, 11, 12 and 18 to the Governor‑General shall be construed as references to the Governor‑General acting with the advice of the Executive Council.
+             (1)  References in sections 6, 7, 11, 12 and 18 to the Governor-General shall be construed as references to the Governor-General acting with the advice of the Executive Council.
 
              (2)  In this Act:
-
-                    <a name="financ-depart"></a>**_Finance Department_** means the Department administered by the Minister administering the _Financial Management and Accountability Act 1997_.
-
-                    <a name="financ-secretari"></a>**_Finance Secretary_** means the Secretary of the Finance Department.
 
                     <a name="marit-coupl-relatship"></a>**_marital or couple relationship_** has the meaning given by section 2B.
 
                     <a name="spous"></a>**_spouse_** has a meaning affected by section 2C.
 
+                    <a name="commission"></a>**_the Commissioner_** means the person who holds, or performs the functions of, the office of Commissioner for Superannuation under the _Superannuation Act 1976_.
+
 ##### <a id="2B"></a>2B  Marital or couple relationship
 
              (1)  In this section and section 2C:
 
-                    <a name="deceas-person"></a>**_deceased person_** means a person who was, at the time of his or her death, the Governor‑General or a person who has at any time after the commencement of this Act held that office.
+                    <a name="deceas-person"></a>**_deceased person_** means a person who was, at the time of his or her death, the Governor-General or a person who has at any time after the commencement of this Act held that office.
 
              (2)  For the purposes of this Act, a person had a **_marital or couple relationship_** with a deceased person at a particular time if the person ordinarily lived with the deceased person as the deceased person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time.
 
@@ -102,7 +97,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  the person had been living with the deceased person as the deceased person’s husband or wife or partner for a continuous period of at least 3 years up to that time; or
 
-                     (b)  the person had been living with the deceased person as the deceased person’s husband or wife or partner for a continuous period of less than 3 years up to that time and the Finance Secretary, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with the deceased person as the deceased person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time;
+                     (b)  the person had been living with the deceased person as the deceased person’s husband or wife or partner for a continuous period of less than 3 years up to that time and the Commissioner, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with the deceased person as the deceased person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time;
 
 whether or not the person was legally married to the deceased person.
 
@@ -112,7 +107,7 @@ whether or not the person was legally married to the deceased person.
 
                      (b)  the persons were legally married to each other at the time;
 
-                   (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section;
+                    (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section;
 
                      (c)  the persons had a child who was:
 
@@ -124,7 +119,7 @@ whether or not the person was legally married to the deceased person.
 
                      (d)  the persons jointly owned a home which was their usual residence.
 
-             (5)  For the purposes of this section, a person is taken to be living with the deceased person if the Finance Secretary is satisfied that the person would have been living with the deceased person except for a period of:
+             (5)  For the purposes of this section, a person is taken to be living with the deceased person if the Commissioner is satisfied that the person would have been living with the deceased person except for a period of:
 
                      (a)  temporary absence; or
 
@@ -144,33 +139,33 @@ whether or not the person was legally married to the deceased person.
 
                              (ii)  did not, at the time of the death, have a marital or couple relationship with the deceased person but was legally married to the deceased person; and
 
-                            (iii)  in the Finance Secretary’s opinion, was wholly or substantially dependent on the deceased person at the time of the death.
+                            (iii)  in the Commissioner’s opinion, was wholly or substantially dependent on the deceased person at the time of the death.
 
-##### <a id="3"></a>3  Salary of Governor‑General
+##### <a id="3"></a>3  Salary of Governor-General
 
-                   The annual sum payable out of the Consolidated Revenue Fund for the salary of the Governor‑General shall be $394,000.
+                   The annual sum payable out of the Consolidated Revenue Fund for the salary of the Governor-General shall be $394,000.
 
 ##### <a id="4"></a>4  Allowances
 
-             (1)  Subject to subsection (4), where, after the commencement of this Act, a person ceases to hold office as Governor‑General, an allowance is payable under this section to him or her during his or her life‑time at such rate as is from time to time payable under paragraph (3)(a).
+             (1)  Subject to subsection (4), where, after the commencement of this Act, a person ceases to hold office as Governor-General, an allowance is payable under this section to him or her during his or her life-time at such rate as is from time to time payable under paragraph (3)(a).
 
-             (2)  Subject to subsection (4) and section 4A, where, after the commencement of this Act, a person who is Governor‑General dies, or a person who has at any time after the commencement of this Act held office as Governor‑General dies, an allowance is payable under this section to a spouse of the person during the life‑time of the spouse at such rate as is from time to time payable under paragraph (3)(b).
+             (2)  Subject to subsection (4) and section 4A, where, after the commencement of this Act, a person who is Governor-General dies, or a person who has at any time after the commencement of this Act held office as Governor-General dies, an allowance is payable under this section to a spouse of the person during the life-time of the spouse at such rate as is from time to time payable under paragraph (3)(b).
 
              (3)  The rate of the allowance payable to a person under this section at any time is:
 
-                     (a)  in the case of a person who has held office as Governor‑General—60% of the rate of the salary payable to the Chief Justice of the High Court of Australia at that time; or
+                     (a)  in the case of a person who has held office as Governor-General—60% of the rate of the salary payable to the Chief Justice of the High Court of Australia at that time; or
 
-                     (b)  in the case of a person who is a spouse of a deceased person who held office as Governor‑General—five‑eighths of the rate applicable under paragraph (a) at that time to a person who has held office as Governor‑General.
+                     (b)  in the case of a person who is a spouse of a deceased person who held office as Governor-General—five-eighths of the rate applicable under paragraph (a) at that time to a person who has held office as Governor-General.
 
              (4)  The amount of the allowance that, but for this subsection, would be payable to a person under this section in respect of any period is reduced by the amount of any pension or retiring allowance payable to that person, whether by virtue of a law or otherwise, in respect of that period out of money provided in whole or in part by the Commonwealth, a State or a Territory.
 
 ##### <a id="4A"></a>4A  Allowance payable when there is more than one spouse
 
-             (1)  If a person who held office or had held office as the Governor‑General (**_deceased person_**) dies leaving more than one spouse, the Finance Secretary must allocate any allowance payable to a spouse of the deceased person under this Act among the spouses.
+             (1)  If a person who held office or had held office as the Governor-General (**_deceased person_**) dies leaving more than one spouse, the Commissioner must allocate any allowance payable to a spouse of the deceased person under this Act among the spouses.
 
              (2)  Subject to subsection (3), an allowance is only payable to each spouse in accordance with the allocation.
 
-             (3)  In making the allocation, the Finance Secretary must:
+             (3)  In making the allocation, the Commissioner must:
 
                      (a)  have regard to the respective needs of each of the spouses; and
 
@@ -178,21 +173,21 @@ whether or not the person was legally married to the deceased person.
 
                      (c)  ensure that the rate of allowance applicable to each spouse will not exceed the rate specified in paragraph 4(3)(b).
 
-##### <a id="4AA"></a>4AA  Benefit payable where Governor‑General or surviving spouse dies on or after 1 July 2006
+##### <a id="4AA"></a>4AA  Benefit payable where Governor-General or surviving spouse dies on or after 1 July 2006
 
 Scope
 
              (1)  This section applies if:
 
-                     (a)  a person who is, or has previously been, the Governor‑General dies on or after 1 July 2006 without leaving a spouse; or
+                     (a)  a person who is, or has previously been, the Governor-General dies on or after 1 July 2006 without leaving a spouse; or
 
-                     (b)  a person who is, or has previously been, the Governor‑General has died leaving a spouse or spouses and:
+                     (b)  a person who is, or has previously been, the Governor-General has died leaving a spouse or spouses and:
 
                               (i)  if there was only one spouse—that spouse dies on or after 1 July 2006; or
 
                              (ii)  if there was more than one spouse—both or all of the spouses have died and the death of the last surviving spouse occurs on or after 1 July 2006;
 
-and, on the last day on which the person held office as Governor‑General, the person was not a qualified employee (within the meaning of the _Superannuation (Productivity Benefit) Act 1988_).
+and, on the last day on which the person held office as Governor-General, the person was not a qualified employee (within the meaning of the _Superannuation (Productivity Benefit) Act 1988_).
 
 Benefit
 
@@ -200,7 +195,7 @@ Benefit
 
                      (a)  the total of the minimum amounts that the Commonwealth would have had to contribute to a complying superannuation fund or scheme for the benefit of the person in order to avoid having any individual superannuation guarantee shortfalls in respect of the person if it were assumed that:
 
-                              (i)  the person was an employee of the Commonwealth (within the meaning of the _Superannuation Guarantee (Administration) Act 1992_) in his or her capacity as the Governor‑General and had never been an employee of the Commonwealth (within the meaning of that Act) in any other capacity; and
+                              (i)  the person was an employee of the Commonwealth (within the meaning of the _Superannuation Guarantee (Administration) Act 1992_) in his or her capacity as the Governor-General and had never been an employee of the Commonwealth (within the meaning of that Act) in any other capacity; and
 
                              (ii)  section 4 of this Act had not been enacted; and
 
@@ -244,7 +239,7 @@ Definitions
 
 ##### <a id="4B"></a>4B  Application for review
 
-                   Applications may be made to the Administrative Appeals Tribunal for the review of a decision of the Finance Secretary made under:
+                   Applications may be made to the Administrative Appeals Tribunal for the review of a decision of the Commissioner made under:
 
                      (a)  paragraph 2B(3)(b); or
 
@@ -260,15 +255,15 @@ Definitions
 
 ##### <a id="6"></a>6  Official Secretary
 
-             (1)  There shall be an Official Secretary, who shall be appointed by the Governor‑General.
+             (1)  There shall be an Official Secretary, who shall be appointed by the Governor-General.
 
-             (2)  The Official Secretary, together with the staff employed under section 13, constitute the Office of Official Secretary to the Governor‑General.
+             (2)  The Official Secretary, together with the staff employed under section 13, constitute the Office of Official Secretary to the Governor-General.
 
-             (3)  The function of the Office is to assist the Governor‑General.
+             (3)  The function of the Office is to assist the Governor-General.
 
 ##### <a id="7"></a>7  Terms and conditions of appointment
 
-                   The Official Secretary holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+                   The Official Secretary holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="8"></a>8  Remuneration of Official Secretary
 
@@ -280,15 +275,15 @@ Definitions
 
 ##### <a id="10"></a>10  Resignation
 
-                   The Official Secretary may resign from the office of Official Secretary by writing delivered to the Governor‑General.
+                   The Official Secretary may resign from the office of Official Secretary by writing delivered to the Governor-General.
 
 ##### <a id="11"></a>11  Termination of appointment
 
-                   The Governor‑General may at any time terminate the appointment of a person as Official Secretary.
+                   The Governor-General may at any time terminate the appointment of a person as Official Secretary.
 
 ##### <a id="12"></a>12  Acting Official Secretary
 
-             (1)  The Governor‑General may appoint a person to act as Official Secretary:
+             (1)  The Governor-General may appoint a person to act as Official Secretary:
 
                      (a)  during a vacancy in the office of Official Secretary, whether or not an appointment has previously been made to the office; or
 
@@ -298,15 +293,15 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
-             (3)  The Governor‑General may:
+             (3)  The Governor-General may:
 
                      (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Official Secretary; and
 
                      (b)  terminate such an appointment at any time.
 
-             (4)  Where a person is acting as Official Secretary in circumstances referred to in paragraph (1)(b) and the office of Official Secretary becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Governor‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+             (4)  Where a person is acting as Official Secretary in circumstances referred to in paragraph (1)(b) and the office of Official Secretary becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Governor-General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
-             (5)  The appointment of a person to act as Official Secretary ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Governor‑General.
+             (5)  The appointment of a person to act as Official Secretary ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Governor-General.
 
              (6)  While a person is acting as Official Secretary, the person has and may exercise all the powers and shall perform all the functions of the Official Secretary under this Act.
 
@@ -314,7 +309,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="13"></a>13  Official Secretary may employ staff
 
-                   The Official Secretary may, on behalf of the Commonwealth, employ, under an agreement in writing, a person as a member of the Governor‑General’s staff.
+                   The Official Secretary may, on behalf of the Commonwealth, employ, under an agreement in writing, a person as a member of the Governor-General’s staff.
 
 ##### <a id="14"></a>14  Remuneration and other conditions of employees
 
@@ -326,12 +321,6 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (2)  A person employed by the Official Secretary under section 13 may at any time, by notice in writing given to the Official Secretary, terminate the person’s employment.
 
-##### <a id="16"></a>16  Delegation by the Finance Secretary
-
-             (1)  The Finance Secretary may delegate, in writing, all or any of the Finance Secretary’s powers under this Act to an SES employee or acting SES employee in the Finance Department.
-
-             (2)  In exercising powers under a delegation, the delegate must comply with any written directions of the Finance Secretary.
-
 ##### <a id="19"></a>19  Annual Report
 
              (1)  The Official Secretary shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report on the performance of the functions and duties of the Official Secretary during that year.
@@ -340,7 +329,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="20"></a>20  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -350,7 +339,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ### Note 1
 
-The _Governor‑General Act 1974_ as shown in this compilation comprises Act No. 16, 1974 amended as indicated in the Tables below.
+The _Governor-General Act 1974_ as shown in this compilation comprises Act No. 16, 1974 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 28 June 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -389,7 +378,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Governor‑General Act 1974</div>
+    <div>Governor-General Act 1974</div>
   </td>
   <td>
     <div>16, 1974</div>
@@ -406,7 +395,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Governor‑General Amendment Act 1977</div>
+    <div>Governor-General Amendment Act 1977</div>
   </td>
   <td>
     <div>118, 1977</div>
@@ -423,7 +412,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Governor‑General Amendment Act 1982</div>
+    <div>Governor-General Amendment Act 1982</div>
   </td>
   <td>
     <div>44, 1982</div>
@@ -509,7 +498,7 @@ Ss. 139–141: 24 Dec 1984 ( <i>see Gazette</i>1984, No. S539) <i>(b)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Governor‑General Amendment Act 1988</div>
+    <div>Governor-General Amendment Act 1988</div>
   </td>
   <td>
     <div>83, 1988</div>
@@ -578,7 +567,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Governor‑General Amendment Act 1995</div>
+    <div>Governor-General Amendment Act 1995</div>
   </td>
   <td>
     <div>122, 1995</div>
@@ -646,7 +635,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Governor‑General Legislation Amendment Act 2001</div>
+    <div>Governor-General Legislation Amendment Act 2001</div>
   </td>
   <td>
     <div>57, 2001</div>
@@ -663,7 +652,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Governor‑General Amendment Act 2003</div>
+    <div>Governor-General Amendment Act 2003</div>
   </td>
   <td>
     <div>68, 2003</div>
@@ -697,7 +686,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Governor‑General Amendment (Salary and Superannuation) Act 2008</div>
+    <div>Governor-General Amendment (Salary and Superannuation) Act 2008</div>
   </td>
   <td>
     <div>62, 2008</div>
@@ -714,7 +703,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
   </td>
   <td>
     <div>134, 2008</div>
@@ -730,40 +719,6 @@ Schedule 5: 1 Jan 2009 ( <i>see</i>F2008L04609)</div>
     <div>S. 4 and Sch. 5 (item 9) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 655–660) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 94–101): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -773,11 +728,11 @@ Schedule 5: 1 Jan 2009 ( <i>see</i>F2008L04609)</div>
   <td></td>
 </tr></table>
 
-_(a)_     The _Governor‑General Act 1974_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(10) of which provides as follows:
+_(a)_     The _Governor-General Act 1974_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(10) of which provides as follows:
 
-               (10)   The amendment of the _Governor‑General Act 1974_ made by this Act shall be deemed to have come into operation on 9 June 1982.
+               (10)   The amendment of the _Governor-General Act 1974_ made by this Act shall be deemed to have come into operation on 9 June 1982.
 
-_(b)_     The _Governor‑General Act 1974_ was amended by sections 138–141 only of the _Public Service Reform Act 1984_, subsections 2(1) and (4) of which provides as follows:
+_(b)_    The _Governor-General Act 1974_ was amended by sections 138–141 only of the _Public Service Reform Act 1984_, subsections 2(1) and (4) of which provides as follows:
 
                  (1)   Sections 1, 2, 3, 4 and 7, subsections 29(1) and (3), sections 107 and 108, Parts III and IV and sections 125, 138, 142, 144 and 149 shall come into operation on the day on which this Act receives the Royal Assent.
 
@@ -785,114 +740,27 @@ _(b)_     The _Governor‑General Act 1974_ was amended by sections 13
 
 _(c)_     The _Public Service Reform Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsections 2(1) and (21) of which provide as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
                (21)   The amendments of the _Public Service Reform Act 1984_ made by this Act shall:
 
-                              (a)   in the case of the amendments of paragraph 5(5)(a), subsections 5(8), 11(1) and 12(1) and (4), paragraph 18(b), sections 19 and 21, paragraph 67(j), subsection 130(3), section 141 and subsections 151(5) and 152(2), (3), (4) and (5) of the first‑mentioned Act—come into operation, or be deemed to have come into operation, as the case requires, on the commencement of, or on the respective days of commencement of, those provisions of that Act; and
+                              (a)   in the case of the amendments of paragraph 5(5)(a), subsections 5(8), 11(1) and 12(1) and (4), paragraph 18(b), sections 19 and 21, paragraph 67(j), subsection 130(3), section 141 and subsections 151(5) and 152(2), (3), (4) and (5) of the first-mentioned Act—come into operation, or be deemed to have come into operation, as the case requires, on the commencement of, or on the respective days of commencement of, those provisions of that Act; and
 
-                              (b)   in the case of the amendments of Items 1 and 3 of Schedule 4 to the first‑mentioned Act—be deemed to have come into operation on 1 July 1984.
+                              (b)   in the case of the amendments of Items 1 and 3 of Schedule 4 to the first-mentioned Act—be deemed to have come into operation on 1 July 1984.
 
-_(d)_     The _Governor‑General Act 1974_ was amended by Schedule 4 (item 79) and Schedule 5 (items 65‑67) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(d)_     The _Governor-General Act 1974_ was amended by Schedule 4 (item 79) and Schedule 5 (items 65-67) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_     The _Governor‑General Act 1974_ was amended by Schedule 4 only of the _Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997_, subsection 2(1) of which provides as follows _:_
+_(e)_     The _Governor-General Act 1974_ was amended by Schedule 4 only of the _Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997_, subsection 2(1) of which provides as follows _:_
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(f)_      The _Governor‑General Act 1974_ was amended by Schedule 1 (items 496–499) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(f)_      The _Governor-General Act 1974_ was amended by Schedule 1 (items 496–499) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
-
-_(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -938,7 +806,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 185, 1992; No. 187, 1997; No. 57, 2001; Nos. 62 and 134, 2008; No. 58, 2011</div>
+    <div>am. No. 185, 1992; No. 187, 1997; No. 57, 2001; Nos. 62 and 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -962,7 +830,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 134, 2008; No. 58, 2011</div>
+    <div>am. No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -978,7 +846,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 134, 2008; No. 58, 2011</div>
+    <div>am. No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1034,7 +902,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 187, 1997; No. 62, 2008; No. 58, 2011</div>
+    <div>am. No. 187, 1997; No. 62, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1051,14 +919,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
   <td>
     <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1175,31 +1035,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
+    <div>Ss. 16, 17</div>
   </td>
   <td>
     <div>ad. No. 63, 1984</div>
@@ -1246,78 +1082,42 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 655  Paragraph 2B(4)(ba)
-
-Omit “section 22B”, substitute “section 2E”.
-
-## 656  Subsection 12(1)
-
-Omit “(1)”.
-
-## 657  Paragraph 12(1)(b)
-
-Omit “Official Secretary;”, substitute “Official Secretary.”.
-
-## 658  Subsection 12(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 659  At the end of subsection 12(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 660  Subsections 12(2) to (7)
-
-Repeal the subsections.
-
-As at 15 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Governor‑General Legislation Amendment Act 2001 (No. 57, 2001)_
+_Governor-General Legislation Amendment Act 2001 (No. 57, 2001)_
 
 ## Schedule 1
 
 ## 2  Transitional provision
 
-The amendment made by this Part does not have effect during the continuance in office of the person holding office as Governor‑General immediately before the commencement of this Act.
+The amendment made by this Part does not have effect during the continuance in office of the person holding office as Governor-General immediately before the commencement of this Act.
 
 ## 14  Application provision
 
-The repeals and amendments made by this Schedule do not apply to a person who held office as Governor‑General before 20 August 1996.
+The repeals and amendments made by this Schedule do not apply to a person who held office as Governor-General before 20 August 1996.
 
 * * *
 
-_Governor‑General Amendment (Salary and Superannuation) Act 2008 
+_Governor-General Amendment (Salary and Superannuation) Act 2008 
  (No. 62, 2008)_
 
 ## Schedule 1
 
 ## 2  Transitional
 
-The amendment made by this Part does not have effect during the continuance in office of the person holding office as Governor‑General immediately before the commencement of this Part.
+The amendment made by this Part does not have effect during the continuance in office of the person holding office as Governor-General immediately before the commencement of this Part.
 
 ## 17  Application
 
-The repeals and amendments made by this Part do not apply in relation to a person who held office as Governor‑General at any time after 29 June 2001 and before the commencement of this Part.
+The repeals and amendments made by this Part do not apply in relation to a person who held office as Governor-General at any time after 29 June 2001 and before the commencement of this Part.
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
 
-##### <a id="4"></a>4  Entitlements from 1 July 2008
+##### <a id="4"></a>4  Entitlements from 1 July 2008
 
              (1)  If:
 
@@ -1373,24 +1173,10 @@ the Finance Minister must make a determination, in accordance with subsection 
 
 ## Schedule 5
 
-## 9  Application of amendments of the _Governor‑General Act 1974_
+## 9  Application of amendments of the _Governor-General Act 1974_
 
-The amendments of the _Governor‑General Act 1974_ made by this Schedule apply in relation to a person who is appointed as Governor‑General on or after the commencement of this Schedule.
+The amendments of the _Governor-General Act 1974_ made by this Schedule apply in relation to a person who is appointed as Governor-General on or after the commencement of this Schedule.
 
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+ 
 
  
