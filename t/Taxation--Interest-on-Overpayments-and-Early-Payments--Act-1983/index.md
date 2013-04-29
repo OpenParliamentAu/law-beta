@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00478/Html/c7121e54-1310-4ae9-8a51-1cfd11b80e81_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00369/Html/f078dc9c-304b-4b47-bbc1-cc22c9c1f384_files/image001.gif)
 
 # Taxation (Interest on Overpayments and Early Payments) Act 1983
 
 **Act No. 12 of 1983 as amended**
 
-This compilation was prepared on 4 June 2012
- taking into account amendments up to Act No. 26 of 2012
+This compilation was prepared on 28 March 2012
+ taking into account amendments up to Act No. 12 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -775,7 +775,7 @@ interest is payable by the Commissioner to the person in accordance with this Pa
 
 ## Part IID—Interest on overpayments resulting from certain amendments of assessments made under the Termination Payments Tax (Assessment and Collection) Act 1997
 
-##### <a id="8Q"></a>8Q  Interpretation
+##### <a id="8Q"></a>8Q  Interpretation
 
                    Expressions used in this Part that are defined in the _Termination Payments Tax (Assessment and Collection) Act 1997_ have the same meanings as in that Act.
 
@@ -2460,40 +2460,6 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
   <td>
     <div>Sch. 6 (item 248) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012</div>
-  </td>
-  <td>
-    <div>14, 2012</div>
-  </td>
-  <td>
-    <div>29 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 86–89): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fairer Private Health Insurance Incentives Act 2012</div>
-  </td>
-  <td>
-    <div>26, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 43–47, 48(1)): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 48(1)) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Taxation Laws Amendment Act 1984_ provides as follows:
@@ -3824,130 +3790,6 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
 </tr></table>
 
-### Note 2
-
-_Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012 (No. 14, 2012)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 3
-
-## 86  Subsection 3(1) (paragraph (d) of the definition of _decision to which this Act applies_)
-
-After “item 120”, insert “or 160”.
-
-## 87  Section 3C
-
-Before “In”, insert “(1)”.
-
-## 88  Section 3C (at the end of the table)
-
-Add:
-
-<table>
-<colgroup>
-  <col width="9%">
-  <col width="91%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>160</div>
-  </td>
-  <td>
-    <div>assessed MRRT within the meaning of the
-      <i>Minerals Resource Rent Tax Act 2012</i>
-    </div>
-  </td>
-</tr></table>
-
-## 89  At the end of section 3C
-
-Add:
-
-             (2)  Without limiting subsection (1), a reference in item 160 of the table to assessed MRRT includes:
-
-                     (a)  any general interest charge due and payable in relation to such an amount; and
-
-                     (b)  a quarterly MRRT instalment that is due under section 115‑25 in Schedule 1 to the _Taxation Administration Act 1953_; and
-
-                     (c)  any general interest charge due and payable in relation to such an instalment.
-
-As at 4 June 2012 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Fairer Private Health Insurance Incentives Act 2012 (No. 26, 2012)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 1
-
-## 43  Subsection 3(1) (after paragraph (ca) of the definition of _decision to which this Act applies_)
-
-Insert:
-
-                (caaa)  in a case where the expression is used in relation to relevant tax of a kind referred to in item 60 of the table in section 3C—a decision of the Commissioner to give a notice under subsection 282‑18(4) of the _Private Health Insurance Act 2007_; or
-
-## 44  Section 3C (after item 55 of the table)
-
-Insert:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="90%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>60</div>
-  </td>
-  <td>
-    <div>Liabilities under section 282‑18 of the
-      <i>Private Health Insurance Act 2007</i>
-    </div>
-  </td>
-</tr></table>
-
-## 45  After subparagraph 8E(1)(d)(iv)
-
-Insert:
-
-                          (iva)  a liability under section 282‑18 of the _Private Health Insurance Act 2007_ that is notified in the notice of assessment;
-
-## 46  After subparagraph 8E(2)(d)(iv)
-
-Insert:
-
-                          (iva)  a liability under section 282‑18 of the _Private Health Insurance Act 2007_, payable by the person immediately before the post‑notice crediting;
-
-## 47  At the end of section 9
-
-Add:
-
-Liabilities under section 282‑18 of the Private Health Insurance Act 2007
-
-             (8)  For the purposes of this section, if:
-
-                     (a)  the Commissioner gives a notice to a person under subsection 282‑18(4) of the _Private Health Insurance Act 2007_; and
-
-                     (b)  the notice states that the person is liable to pay an amount to the Commonwealth under section 282‑18 of that Act; and
-
-                     (c)  the person pays the stated amount to the Commissioner; and
-
-                     (d)  the stated amount exceeds the amount the person is liable to pay under that section; and
-
-                     (e)  the excess is refunded to the person or applied against any liability of the person to the Commonwealth;
-
-treat the excess as being overpaid by the person, and so refunded or applied, as a result of the decision of the Commissioner to give the notice.
-
-Note 1:       The decision of the Commissioner to give the notice is a decision to which this Act applies. See section 3.
-
-Note 2:       Liabilities under section 282‑18 of the _Private Health Insurance Act 2007_ are relevant tax. See section 3C.
-
-As at 4 June 2012 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4110,8 +3952,7 @@ The amendments made by this Division apply in relation to the 2004‑05 year of 
 
 * * *
 
-_International Tax Agreements Amendment Act (No. 1) 2006 
- (No. 100, 2006)_
+_International Tax Agreements Amendment Act (No. 1) 2006 (No. 100, 2006)_
 
 ## Schedule 1  
 
@@ -4292,17 +4133,5 @@ _Tax Laws Amendment (2011 Measures No. 9) Act 2012 (No. 12, 2012)_
 ## 248  Application of amendments
 
 The amendments made by this Part apply to income years starting on or after 1 July 2008.
-
-* * *
-
-_Fairer Private Health Insurance Incentives Act 2012 (No. 26, 2012)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 1
-
-## 48  Application
-
-(1)       The amendments made by this Schedule apply in relation to premiums, and amounts in respect of premiums, paid on and after 1 July 2012.
 
  
