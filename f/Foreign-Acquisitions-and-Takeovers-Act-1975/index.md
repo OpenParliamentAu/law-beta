@@ -1,7 +1,7 @@
 
 Foreign Acquisitions and Takeovers Act 1975
 Act No. 92 of 1975 as amended
-This compilation was prepared on 15 December 2001  taking into account amendments up to Act No. 31 of 2001
+This compilation was prepared on 22 December 2000  taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -45,20 +45,22 @@ Part II—Control of takeovers and other transactions	27
 23	Revocation of orders	38
 24	Publication of orders	38
 25	Effect of notification of transactions	39
-26	Compulsory notification of certain section 18 transactions	42
+26	Compulsory notification of certain section 18 transactions	41
 26A	Compulsory notification of certain section 21A transactions	44
 27	Form of notification	46
 28	Notification of options	46
 Part III—Miscellaneous	47
 30	Offences	47
 31	Offences by officers of corporations	47
-35	Powers of court to enforce Treasurer’s orders	47
-36	Treasurer may require information	50
-37	Effect of Act on other laws	51
-38	Validity of acts done in contravention of Act	51
-38A	Anti‑avoidance	51
-39	Regulations	52
-Notes		53
+32	Defence to prosecutions	48
+35	Powers of court to enforce Treasurer’s orders	48
+36	Treasurer may require information	51
+36A	False or misleading statements etc.	51
+37	Effect of Act on other laws	52
+38	Validity of acts done in contravention of Act	52
+38A	Anti‑avoidance	52
+39	Regulations	53
+Notes		55
 An Act relating to the foreign acquisition of certain land interests and to the foreign control of certain business enterprises and mineral rights
 Part I—Preliminary
   
@@ -533,19 +535,16 @@ directing that that person shall not, or none of those persons shall, whether al
 	(c)	a notice from a corporation stating that it is proposed to alter a constituent document of the corporation.
 	(1A)	Where the Treasurer is empowered to make an order under subsection 18(2), 19(2), 20(2), 21(2) or 21A(2) in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice, the Treasurer may, instead of making such an order, decide that the Commonwealth Government has no objection to the proposal specified in the notice, provided that the person or corporation complies with conditions that the Treasurer, when making the decision, considers necessary in order that the proposal, if carried out, will not be contrary to the national interest.
 	(1B)	Where the Treasurer makes a decision under subsection (1A), the person or corporation shall be given advice in writing of the decision, being advice that includes a statement of the conditions to be complied with, before the end of 10 days after the day on which the decision is made.
-	(1C)	If the person or corporation:
-	(a)	is given an advice under subsection (1B) of a decision; and
-	(b)	carries out the proposal to which the decision relates; and
-	(c)	does or fails to do an act, resulting in a contravention of a condition set out in the advice;
-the person or corporation is guilty of an offence punishable on conviction, by:
-	(d)	in the case of a natural person—a fine not exceeding 500 penalty units, or imprisonment for a period not exceeding 2 years, or both; or
-	(e)	in the case of a corporation—a fine not exceeding 2,500 penalty units.
-	(1D)	If the person or corporation:
-	(a)	is given advice under subsection (1B) of a decision; and
-	(b)	carries out the proposal to which the decision relates:
-the Treasurer may only make an order under subsection 18(4), 19(4), 20(3), 21(3) or 21A(4) in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice if:
-	(c)	the person or corporation is convicted of an offence against subsection (1C) in relation to a condition; or
-	(d)	an order is made under section 19B of the Crimes Act 1914 in relation to the person or corporation in respect of such an offence.
+	(1C)	Where:
+	(a)	the person or corporation is given advice in writing of the decision within the period of 10 days; and
+	(b)	the person or corporation carries out the proposal;
+the following provisions have effect:
+	(c)	if the person or corporation does not comply with the conditions—the person or corporation is guilty of an offence punishable, on conviction, by:
+	(i)	in the case of a natural person—a fine not exceeding $50,000 or imprisonment for a period not exceeding 2 years, or both; or
+	(ii)	in the case of a corporation—a fine not exceeding $250,000;
+	(d)	the Treasurer may only make an order under subsection 18(4), 19(4), 20(3), 21(3) or 21A(4) in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice if:
+	(i)	the person or corporation is convicted of an offence against paragraph (c) of this subsection in relation to the conditions; or
+	(ii)	an order is made under section 19B of the Crimes Act 1914 in relation to the person or corporation in respect of an offence against paragraph (c) of this subsection in relation to the conditions.
 	(2)	If 30 days pass after the day on which the Treasurer receives the notice and by the end of that period:
 	(a)	the Treasurer has not:
 	(i)	made a decision under subsection (1A) in relation to the proposal specified in the notice, being a decision of which advice is given in writing to the person or corporation before the end of 10 days after the day on which the decision is made; or
@@ -581,7 +580,9 @@ the Treasurer is not empowered:
 	(i)	the expiration of 40 days after the date on which the notice was received by the Treasurer; or
 	(ii)	the date on which advice is given that the Commonwealth Government does not object to the person entering into that agreement (whether or not the advice is subject to conditions imposed under subsection 25(1A));
 		whichever first occurs;
-the person is guilty of an offence and is punishable, on conviction, by a fine not exceeding 500 penalty units or imprisonment for a period not exceeding 2 years, or both.
+the person is guilty of an offence and is punishable, on conviction, by:
+	(c)	if the person is a natural person—a fine not exceeding $50,000 or imprisonment for a period not exceeding 2 years, or both; or
+	(d)	if the person is a corporation—a fine not exceeding $250,000.
 	(3)	Where:
 	(a)	a person enters into an agreement of a kind mentioned in subsection (2); and
 	(b)	the provisions of the agreement that relate to the acquisition of the interests in the shares concerned do not become binding until the fulfilment of a condition or conditions set out in the agreement;
@@ -608,7 +609,9 @@ the person shall not be taken, for the purposes of that subsection, to have ente
 	(i)	the end of 40 days after the day on which the notice was received by the Treasurer; or
 	(ii)	the day on which advice is given that the Commonwealth Government does not object to the person entering into that agreement (whether or not the advice is subject to conditions imposed under subsection 25(1A));
 		whichever first occurs;
-the person is guilty of an offence and is punishable, on conviction, by a fine not exceeding 500 penalty units or imprisonment for a period not exceeding 2 years, or both.
+the person is guilty of an offence and is punishable, on conviction, by:
+	(c)	if the person is a natural person—a fine not exceeding $50,000 or imprisonment for a period not exceeding 2 years, or both; or
+	(d)	if the person is a corporation—a fine not exceeding $250,000.
 	(3)	Where:
 	(a)	a person enters into an agreement by virtue of which he or she acquires an interest in Australian urban land; and
 	(b)	the provisions of the agreement that relate to the acquisition of the interest do not become binding until the fulfilment of a condition or conditions set out in the agreement;
@@ -630,10 +633,15 @@ Part III—Miscellaneous
 	(1)	A person who contravenes or fails to comply with an order made under Part II is guilty of an offence against this section.
 	(2)	Where a person has been convicted of an offence consisting of a contravention, or failure to comply with, an order made under Part II and the contravention or failure continues after he has been so convicted, the person is guilty of a further offence against this section.
 	(3)	Where an order made under Part II requires a person to do anything within a particular time and the person fails to do that thing within that time, the person shall be deemed to continue to fail to comply with the order until he does that thing.
-	(4)	A person who is convicted of an offence against this section is punishable by a fine not exceeding 500 penalty units or imprisonment for a period not exceeding 2 years, or both.
+	(4)	A person who is convicted of an offence against this section is punishable by:
+	(a)	if the person is a natural person—a fine not exceeding $50,000 or imprisonment for a period not exceeding 2 years, or both; or
+	(b)	if the person is a corporation—a fine not exceeding $250,000.
 31  Offences by officers of corporations
 	(1)	Where an offence against a provision of this Act is committed by a corporation, an officer of the corporation who is in default is guilty of an offence against this section and is punishable on conviction by the penalty provided in that provision.
 	(2)	A reference in subsection (1) to an officer who is in default, in relation to an offence committed by a corporation, includes a reference to an officer who authorizes or permits the commission of the offence.
+32  Defence to prosecutions
+	(1)	Subject to subsection (2), in any proceedings against a natural person for an offence against section 30 or 31, it is a defence if the defendant proves that, at all relevant times, he was not aware, and could not have been reasonably expected to be aware, of a fact the existence of which was necessary to constitute the offence.
+	(2)	For the purposes of subsection (1), a person shall be conclusively presumed to have been aware at a particular time of a fact of which a servant or agent of the person, being a servant or agent having duties or acting on behalf of his master or principal in relation to any matter referred to in section 18, 19, 20, 21 or 21A, whichever is applicable, was aware at that time.
 35  Powers of court to enforce Treasurer’s orders
 	(1)	Where a person (in this section referred to as the offender) has contravened or failed to comply with an order in force under Part II, the Supreme Court of a State or Territory may, on the application of the Treasurer, whether or not that contravention of failure still continues, and whether or not other proceedings in respect of that contravention or failure have been or are to be instituted, make such order or orders as it thinks fit for the attainment of the purpose for which the order was made by the Treasurer.
 	(2)	The orders that may be made under subsection (1) in relation to a change in the control of a corporation other than a foreign corporation (in this section referred to as the corporation concerned) or a change in the control of an Australian business (in this section referred to as the business concerned) include, but are not limited to:
@@ -670,10 +678,19 @@ Part III—Miscellaneous
 	(1)	Where the Treasurer has reason to believe that a person is capable of giving information or producing documents relating to matters that are relevant to the exercise by the Treasurer of his powers under this Act, he may, by notice in writing served on that person, require that person:
 	(a)	to furnish, within the time and in the manner specified in the notice, any such information to him by writing signed by that person or, in the case of a corporation, by a competent officer of the corporation; or
 	(b)	to produce, in accordance with the notice, any such documents to him or to a person specified in the notice acting on his behalf.
-	(2)	A person who does not comply with a notice under subsection (1) is guilty of an offence punishable, on conviction, by a fine not exceeding 20 penalty units or imprisonment for 12 months, or both.
-	(2A)	Subsection (2) does not apply if the person complies with the notice to the extent to which the person is capable of complying with it.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (2A), (see subsection 13.3(3) of the Criminal Code).
+	(2)	A person shall not refuse or fail to comply with a notice under this section to the extent that the person is capable of complying with it.
+Penalty:
+	(a)	in the case of a natural person—$2,000 or imprisonment for 12 months, or both; or
+	(b)	in the case of a corporation—$10,000.
 	(3)	A person is not excused from furnishing information or producing a document in pursuance of this section on the ground that the information or document might tend to incriminate him, but his answer to any question asked in the notice, or his furnishing of any other information in pursuance of the notice, is not admissible in evidence against him in any criminal proceedings other than proceedings under this Act.
+36A  False or misleading statements etc.
+		A person shall not knowingly or recklessly, in connection with the operation of this Act:
+	(a)	make a statement, either orally or in writing, to the Treasurer or to an officer of the Department that is false or misleading in a material particular;
+	(b)	omit from a statement made, either orally or in writing, to the Treasurer or to an officer of the Department any matter or thing without which the statement is misleading in a material particular; or
+	(c)	give a document to the Treasurer or to an officer of the Department that contains information that is false or misleading in a material particular.
+Penalty:
+	(d)	in the case of a natural person—$10,000 or imprisonment for 12 months, or both; or
+	(e)	in the case of a corporation—$50,000.
 37  Effect of Act on other laws
 		It is the intention of the Parliament that this Act shall not apply to the exclusion of any law of a State or Territory to the extent that that law is capable of operating concurrently with this Act.
 38  Validity of acts done in contravention of Act
@@ -743,13 +760,8 @@ Schedule 4 (item 10): 1 July 1998 (see Gazette 1998, No. S317) (d)
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
+Schedule 2 (items 210, 418, 419): [see (e), Note 2 and Table A]
 Sch. 2 (items 418, 419) [see Table A]
-Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001
-31, 2001
-28 Apr 2001
-Ss. 1‑3, Schedule 1 (items 1‑4) and Schedule 2: Royal Assent Schedule 1 (items 171, 172): 18 Jan 2001 (see s. 2(2)) Remainder: 15 Dec 2001 (see s. 2(4))
-—
 
 (a)	The Foreign Acquisitions and Takeovers Act 1975  was amended by Part XII (sections 185‑187) only of the Commonwealth Functions (Statutes Review) Act 1981, subsection 2(1) of which provides as follows:
 	(1)	Parts I, IV, IX, X, XI, XII, XIII, XVII (other than sections 220, 221, 222, 223, 225, 226, 227, 228, and 230), XX, XXI, XXII and XXIII shall come into operation on the day on which this Act receives the Royal Assent.
@@ -760,6 +772,9 @@ Ss. 1‑3, Schedule 1 (items 1‑4) and Schedule 2: Royal Assent Schedule 1 (i
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 (d)	The Foreign Acquisitions and Takeovers Act 1975 was amended by Schedule 4 (item 10) only of the Company Law Review Act 1998, subsection 2(2) of which provides as follows:
 	(2)	Subject to subsection (3), section 3 and Schedules 1, 2, 3 and 4 commence on a day to be fixed by Proclamation.
+(e)	The Foreign Acquisitions and Takeovers Act 1975 was amended by Schedule 2 (item 210) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
+	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
+	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -798,18 +813,14 @@ Heading to Part II
 am. No. 14, 1989
 S. 21A	
 ad. No. 14, 1989
-Ss. 22‑24	
+Ss. 22‑25	
 am. No. 14, 1989
-S. 25	
-am. No. 14, 1989; No. 31, 2001
 S. 26	
 rs. No. 93, 1976
 
-am. No. 74, 1981; No. 14, 1989; No. 31, 2001
+am. No. 74, 1981; No. 14, 1989
 S. 26A	
 ad. No. 14, 1989
-
-am. No. 31, 2001
 S. 27	
 am. No. 14, 1989
 S. 28	
@@ -817,31 +828,33 @@ rs. No. 93, 1976
 S. 29	
 rep. No. 93, 1976
 S. 30	
-am. No. 14, 1989; No. 31, 2001
+am. No. 14, 1989
 S. 32	
 am. No. 14, 1989
-
-rep. No. 31, 2001
 S. 33	
 rep. No. 20, 1997
 S. 34	
 rep. No. 14, 1989
-S. 35	
+Ss. 35, 36	
 am. No. 14, 1989
-S. 36	
-am. No. 14, 1989; No. 31, 2001
 S. 36A	
 ad. No. 14, 1989
-
-rep. No. 137, 2000
 S. 38	
 rs. No. 93, 1976
 S. 38A	
 ad. No. 14, 1989
 
+Note 2
+Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following amendment commences on 24 May 2001 unless proclaimed earlier:
+Schedule 2
+210  Section 36A
+Repeal the section.
+As at 22 December 2000 the amendment is not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following provisions commence on 24 May 2001 unless proclaimed earlier:
 Schedule 2
 418  Transitional—pre‑commencement offences
 (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
