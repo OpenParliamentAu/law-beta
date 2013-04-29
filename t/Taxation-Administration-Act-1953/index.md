@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00234/Html/524b13a9-4b6f-47c6-9a3b-a38b7f28c4bc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00921/Html/beb83c08-9c8c-4c44-bed9-a07f95dd2961_files/image001.gif)
 
 # Taxation Administration Act 1953
 
 **Act No. 1 of 1953 as amended**
 
-This compilation was prepared on 1 January 2012
- taking into account amendments up to Act No. 147 of 2011
+This compilation was prepared on 1 December 2011
+ taking into account amendments up to Act No. 132 of 2011
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1–18
@@ -22,7 +22,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2–8
+                                     Notes 2–7
                                      Tables A and B
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -481,6 +481,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="offic"></a>**_officer_** means a person appointed or engaged under the _Public Service Act 1999_.
 
+                    <a name="privat-ancillari-fund"></a>**_private ancillary fund_** has the meaning given by section 426‑105 in Schedule 1.
+
                     <a name="privat-indirect-tax-rule"></a>**_private indirect tax ruling_** means a private ruling, to the extent that it relates to an indirect tax law (other than the fuel tax law).
 
                     <a name="privat-rule"></a>**_private ruling_** has the meaning given by section 359‑5 in Schedule 1.
@@ -617,21 +619,33 @@ Note:          An effect of this provision is that people who 
 
                      (b)  during any period, or during all periods, when the person holding that office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of that office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act in an office of Second Commissioner of Taxation:
 
                      (a)  during a vacancy in that office; or
 
                      (b)  during any period, or during all periods, when the person holding the office of Second Commissioner of Taxation is absent from duty or from Australia, is acting in the office of Commissioner of Taxation or is, for any other reason, unable to perform the functions of the office of Second Commissioner of Taxation.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  An appointment of a person under subsection (1) or (2) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (4)  A person appointed under subsection (1) or (2) to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (5)  Where a person is acting in the office of Commissioner of Taxation in accordance with paragraph (1)(b) or in an office of Second Commissioner of Taxation in accordance with paragraph (2)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (3), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurs expires, whichever first happens.
 
              (6)  While a person is acting in the office of Commissioner of Taxation, the person has and may exercise all the powers, and shall perform all the functions, of the Commissioner under this Act or any other law.
 
           (6A)  For the purposes of subsection (6), the Commissioner’s powers and functions include powers and functions given to the Commissioner in his or her capacity as Registrar of the Australian Business Register.
 
              (7)  While a person is acting in an office of Second Commissioner of Taxation, the person has and may exercise all the powers, and shall perform all the functions, of the Second Commissioner under this Act or any other law.
+
+             (8)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting in the office of Commissioner of Taxation or in an office of Second Commissioner of Taxation; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (9)  A person appointed under subsection (1) or (2) may resign the appointment by writing signed by the person and delivered to the Minister.
+
+           (10)  The validity of anything done by or in relation to a person purporting to act in the office of Commissioner of Taxation or in an office of Second Commissioner of Taxation shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="6C"></a>6C  Suspension and removal from office of Commissioner or Second Commissioner
 
@@ -1767,7 +1781,7 @@ Note:          For provisions about collection and recovery of
 
                              (ii)  in a case to which paragraph (1)(b) applies—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00234/Html/524b13a9-4b6f-47c6-9a3b-a38b7f28c4bc_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00921/Html/beb83c08-9c8c-4c44-bed9-a07f95dd2961_files/image002.gif)
 
 ## Part IIB—Running balance accounts, application of payments and credits, and related matters
 
@@ -2791,7 +2805,7 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
           (1C)  If the conditions in section 705‑315 of the _Income Tax Assessment Act 1997_ are satisfied, then for the purposes of any application of subsection (1) of this section in relation to the errors mentioned in that section that were made in a statement that was made before the Commissioner became aware of the errors, the references in paragraphs (1)(c) and (d) of this section to the excess are taken instead to be references to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00234/Html/524b13a9-4b6f-47c6-9a3b-a38b7f28c4bc_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00921/Html/beb83c08-9c8c-4c44-bed9-a07f95dd2961_files/image003.gif)
 
 where:
 
