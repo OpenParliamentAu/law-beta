@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00292/Html/c187aa7d-7450-4f25-a72d-c4c265bfd382_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00413/Html/RegistDeathsAbroad_WD02_image001.gif)
 
 # Registration of Deaths Abroad Act 1984
 
 **Act No. 169 of 1984 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 14 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -102,7 +102,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="aircraft"></a>**_aircraft_** includes any machine that can derive support in the atmosphere from the reactions of the air.
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="australian-aircraft"></a>**_Australian aircraft_** means:
 
@@ -174,17 +174,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (vi)  Counsellor, Secretary or Attache of an Embassy, High Commission, Legation or other post;
 
-                           (vii)  Consul‑General;
+                           (vii)  Consul-General;
 
-                          (viii)  Consul;
+                           (viii)  Consul;
 
-                            (ix)  Vice‑Consul;
+                            (ix)  Vice-Consul;
 
-                             (x)  Honorary Consul‑General;
+                             (x)  Honorary Consul-General;
 
                             (xi)  Honorary Consul; or
 
-                           (xii)  Honorary Vice‑Consul; or
+                           (xii)  Honorary Vice-Consul; or
 
                      (c)  a person (including a person holding an office of a foreign country) authorized by, or on behalf of, the Government of Australia to be a consular representative of Australia in a country or place outside Australia.
 
@@ -196,7 +196,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a structure that is able to float or be floated and is able to move or be moved as an entity from one place to another; and
 
-                     (c)  an air‑cushion vehicle, or other similar craft, used wholly or primarily in navigation by water.
+                     (c)  an air-cushion vehicle, or other similar craft, used wholly or primarily in navigation by water.
 
              (2)  If a flight of a flying craft between 2 places forms part of a longer flight of the flying craft, that longer flight shall be deemed to be the flight of the flying craft for the purposes of this Act.
 
@@ -530,11 +530,11 @@ that person is entitled to have refunded to him or her the amount of the fee for
 
 ##### <a id="20"></a>20  Correction of errors in Register
 
-             (1)  Subject to subsection (4), where the Registrar is satisfied that there is an error or mis‑statement in, or an omission from, any particulars entered in the Register, he or she may correct the Register by causing the true particulars, or the particulars omitted from the Register, as the case may be, to be entered in the Register on the page of the Register containing the entry in relation to the death to which the particulars relate.
+             (1)  Subject to subsection (4), where the Registrar is satisfied that there is an error or mis-statement in, or an omission from, any particulars entered in the Register, he or she may correct the Register by causing the true particulars, or the particulars omitted from the Register, as the case may be, to be entered in the Register on the page of the Register containing the entry in relation to the death to which the particulars relate.
 
              (2)  Where the Registrar causes particulars to be entered in the Register under subsection (1), he or she shall sign his or her name immediately under the particulars and write the date on which those particulars were so entered.
 
-             (3)  Where a person believes that there is an error or mis‑statement in, or an omission from, any particulars entered in the Register, he or she may apply, in writing, to the Registrar for the correction in accordance with subsection (1) of the Register in relation to those particulars, specifying the error, mis‑statement or omission that he or she believes exists and the reasons for his or her belief.
+             (3)  Where a person believes that there is an error or mis-statement in, or an omission from, any particulars entered in the Register, he or she may apply, in writing, to the Registrar for the correction in accordance with subsection (1) of the Register in relation to those particulars, specifying the error, mis-statement or omission that he or she believes exists and the reasons for his or her belief.
 
              (4)  Where the Registrar intends to exercise his or her powers under subsection (1) in respect of an entry in relation to a death, otherwise than on the application of the person who applied for the registration of the death, he or she shall, unless he or she is satisfied that it is impracticable to do so, give that person notice, in writing, of his or her intention specifying the particulars that he or she intends to cause to be entered in the Register and, where he or she gives such notice, he or she shall not cause those particulars to be entered in the Register unless and until he or she has considered any objection made by that person, within 14 days after the giving of the notice, to the entry of those particulars.
 
@@ -542,17 +542,17 @@ that person is entitled to have refunded to him or her the amount of the fee for
 
 ##### <a id="21"></a>21  Correction of errors in Certificate of Death Abroad
 
-             (1)  Subject to subsection (4), where the Registrar is satisfied that there is an error or mis‑statement in, or an omission from, any particulars entered in a Certificate of Death Abroad, he or she may correct the Certificate by causing the true particulars, or the particulars omitted from the Certificate, as the case may be, to be entered in the certificate.
+             (1)  Subject to subsection (4), where the Registrar is satisfied that there is an error or mis-statement in, or an omission from, any particulars entered in a Certificate of Death Abroad, he or she may correct the Certificate by causing the true particulars, or the particulars omitted from the Certificate, as the case may be, to be entered in the certificate.
 
              (2)  Where the Registrar causes particulars to be entered in a Certificate of Death Abroad under subsection (1), he or she shall sign his or her name immediately under the particulars and write the date on which those particulars were so entered.
 
-             (3)  Where a person believes that there is an error or mis‑statement in, or an omission from, any particulars entered in a Certificate of Death Abroad, he or she may apply, in writing, to the Registrar for the correction in accordance with subsection (1) of the Certificate in relation to those particulars, specifying the error, mis‑statement or omission that he or she believes exists and the reasons for his or her belief.
+             (3)  Where a person believes that there is an error or mis-statement in, or an omission from, any particulars entered in a Certificate of Death Abroad, he or she may apply, in writing, to the Registrar for the correction in accordance with subsection (1) of the Certificate in relation to those particulars, specifying the error, mis-statement or omission that he or she believes exists and the reasons for his or her belief.
 
              (4)  Where the Registrar intends to exercise his or her powers under subsection (1) in respect of a Certificate of Death Abroad, otherwise than on the application of the person who applied for the registration of the death to which the Certificate relates, he or she shall, unless he or she is satisfied that it is impracticable to do so, give that person notice in writing of his or her intention specifying the particulars that he or she intends to cause to be entered in the Certificate and, where he or she gives such notice, he or she shall not cause those particulars to be entered in the Certificate unless and until he or she has considered any objection made by that person, within 14 days after the giving of the notice, to the entry of those particulars.
 
              (5)  Any failure by the Registrar to comply with the requirements of subsection (4) shall not be taken to affect the validity of any entry of particulars in a Certificate of Death Abroad under subsection (1).
 
-             (6)  Where the Registrar is satisfied that there is an error or mis‑statement in, or an omission from, any particulars entered in a Certificate of Death Abroad, he or she may require the person who holds the Certificate to surrender the Certificate to him or her so that the Certificate may be corrected in accordance with subsection (1) but, after the Registrar has corrected the Certificate, he or she shall return the Certificate to that person.
+             (6)  Where the Registrar is satisfied that there is an error or mis-statement in, or an omission from, any particulars entered in a Certificate of Death Abroad, he or she may require the person who holds the Certificate to surrender the Certificate to him or her so that the Certificate may be corrected in accordance with subsection (1) but, after the Registrar has corrected the Certificate, he or she shall return the Certificate to that person.
 
              (7)  A person who holds a Certificate of Death Abroad who is required by the Registrar under subsection (6) to surrender the Certificate shall comply with the requirement.
 
@@ -624,7 +624,7 @@ and a document purporting to be a Certificate of Death Abroad shall, unless the 
 
 ##### <a id="25"></a>25  Delegation by Minister
 
-             (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to the person holding or performing the duties of the office of Secretary of the Department all or any of his or her powers under this Act, other than this power of delegation.
+             (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to the person holding or performing the duties of the office of Secretary to the Department all or any of his or her powers under this Act, other than this power of delegation.
 
              (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister.
 
@@ -638,7 +638,7 @@ and a document purporting to be a Certificate of Death Abroad shall, unless the 
 
                      (b)  who:
 
-                              (i)  performs duties in relation to the keeping of a register of deaths under the law of the Australian Capital Territory; or
+                              (i)  performs duties in relation to the keeping of a register of deaths under the law of the Australian   Capital Territory; or
 
                              (ii)  has been approved by the Minister for the purposes of this section;
 
@@ -674,7 +674,7 @@ all or any of his or her powers under this Act, other than this power of delegat
 
 ##### <a id="28"></a>28  Regulations
 
-The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -750,7 +750,7 @@ of Assent</div>
     <div>15 June 1988</div>
   </td>
   <td>
-    <div>Part III (ss. 17‑32), s. 98, Parts IX and X (ss. 99–103): 
+    <div>Part III (ss. 17-32), s. 98, Parts IX and X (ss. 99–103): 
 1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
 Remainder: Royal Assent</div>
   </td>
@@ -872,23 +872,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 4 (items 436–439): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 118): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1035,7 +1018,7 @@ _(d)_     The _Registration of Deaths Abroad Act 1984_ was amended by Sc
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
