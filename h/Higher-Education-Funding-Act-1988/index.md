@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image001.gif)
 
 # Higher Education Funding Act 1988
 
 **Act No. 2 of 1989 as amended**
 
-This compilation was prepared on 25 October 2007
+This compilation was prepared on 1 July 2007
  taking into account amendments up to Act No. 72 of 2007
 
 The text of any of those amendments not in force
@@ -1757,11 +1757,11 @@ the Minister may, for the purposes of this Chapter, give directions to the insti
 
              (3)  If the actual enrolment number in relation to a relevant higher education institution in a State in respect of the year 1988 is less than the estimated enrolment number in relation to the institution in respect of that year, there is payable to the State in relation to the institution the amount ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image002.gif)
 
              (4)  Payment of an amount to a State under Part 2.2 in relation to a relevant higher education institution in respect of the year 1989 is subject to the additional condition that, if the estimated enrolment number in relation to the institution in respect of the year 1988 is less than the actual enrolment number in relation to the institution in respect of that year, the State will pay to the Commonwealth the amount ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image002.gif)
 
              (5)  For the purposes of the formulae in subsections (3) and (4):
 
@@ -1971,7 +1971,7 @@ Amount of contribution for pre-1997 student
 
              (3)  The contribution for a pre-1997 student is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image003.gif)
 
 where:
 
@@ -1991,7 +1991,7 @@ Amount of contribution for other students
 
              (6)  The amount for a Band is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image004.gif)
 
 where:
 
@@ -2099,7 +2099,7 @@ For this purpose, **_relevant unit of study_** means any unit of study that may 
 
                                         (A)  to lend to the student an amount (the **_formula amount_**) worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image005.gif)
 
                                         (B)  to apply the money lent in paying to the institution, in discharge of the student’s liability to pay the remainder of the assessed contribution (see subsection (1B)), the amount of that assessed contribution outstanding after deducting from that assessed contribution the amount of the student payment; and
 
@@ -2113,17 +2113,17 @@ For this purpose, **_relevant unit of study_** means any unit of study that may 
 
 Example:    If the student’s assessed contribution for the course of study is $2,350 and the student makes a payment of $1,000, the amount that the Commonwealth will lend to the student is $1,017, ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image006.gif)
 
                    This amount is the **_formula amount_**(see sub-subparagraph (1A)(c)(i)(A)).
 
                    The amount that the Commonwealth will pay to the institution to discharge the student’s liability is $1350, ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image007.gif)
 
                    The value to the student of the discount for making the student payment of $1,000 is $333 (this amount forms part of the amount the Commonwealth pays to the institution to discharge the student’s liability), ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image008.gif)
 
           (1B)  For the purposes of subsection (1A):
 
@@ -2299,7 +2299,7 @@ the institution must cancel the student’s enrolment and must not permit the st
 
              (2)  Where a student gives notice under subsection (1), the Commissioner shall be taken, for the purposes of sections 50 and 51, to have refused the application for a tax file number on the day on which the notice was given.
 
-##### <a id="47"></a>47  Cancellation of tax file numbers
+##### <a id="47"></a>47  Cancellation of tax file numbers
 
              (1)  Where the Commissioner concludes that a tax file number was issued to a student under an identity that is not the student’s true identity, the Commissioner may, by written notice given to the student, cancel the tax file number.
 
@@ -2589,23 +2589,23 @@ the Commonwealth must, as a benefit to the student:
 
                       (f)  pay to the institution, in discharge of the remainder of the student’s liability, an amount (the **_discount amount_**) worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image009.gif)
 
 Example: If the student’s contribution for the course of study is $2,350 and the student makes a payment of $1,000, the amount that the Commonwealth will lend to the student is $1,017, ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image010.gif)
 
                 This amount is the**_formula amount_**(seeparagraph (3A)(e)).
 
                 The amount that the Commonwealth will pay to the institution to discharge the student’s liability is $1,350, ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image007.gif)
 
                 The amount that the Commonwealth will pay to the institution comprises the sum of the amount the Commonwealth will lend to the student, ie $1,017 (the formula amount) and the student discount that the student receives for making the student payment ($333).
 
                 The value of the discount to the student for making the student payment is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image008.gif)
 
                 This amount is the **_discount amount_** (see paragraph (3A)(f)).
 
@@ -4046,7 +4046,7 @@ the Agency must not permit the client, as an eligible client, to continue to be 
 
 ##### <a id="106AB"></a>106AB   Commonwealth not liable where client does not have a tax file number
 
-                   If the circumstances mentioned in paragraphs 106AA(1)(a) and (b) apply, the Commonwealth is not liable, and is taken never to have been liable:
+                   If the circumstances mentioned in paragraphs  106AA(1)(a) and (b) apply, the Commonwealth is not liable, and is taken never to have been liable:
 
                      (a)  to lend an amount to the client under paragraph 106D(1)(a); or
 
@@ -4612,7 +4612,7 @@ Note:          A person’s accumulated HELP debt, worked out 
 
              (3)  For the purposes of paragraph (2)(c), the **adjusted accumulated HEC debt of the person at the earlier date** is the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image011.gif)
 
 where:
 
@@ -4684,11 +4684,11 @@ by the sum of:
 
              (3)  The debtor is taken to pay off the total debt if he or she pays in respect of the debt an amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image012.gif)
 
              (4)  Subject to subsection (5), if a person pays an amount of $500 or more in part settlement of a debt, the outstanding amount of the debt is to be reduced by the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image013.gif)
 
 Example:    If a person owes a semester debt of $1,700, and the person makes a payment of $600, the debt is to be reduced by an amount of $660 (i.e. $600 x 1.1), leaving a balance of $1,040 ($1,700 – $660) to be paid.
 
@@ -4744,7 +4744,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                      (b)  in the case of a subsequent year of income—the number of whole dollars of the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image014.gif)
 
                             where:
 
@@ -4919,7 +4919,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income (other than the 2004-05 year of income)—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image015.gif); or
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image015.gif); or
 
                             (iii)  for the 2004-05 year of income—$35,000;
 
@@ -4929,7 +4929,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image016.gif)
 
                      (c)  the **_second intermediate prescribed amount_** for a year of income is:
 
@@ -4937,7 +4937,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image017.gif)
 
                      (d)  the **_third intermediate prescribed amount_** for a year of income is:
 
@@ -4945,7 +4945,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image018.gif)
 
                      (e)  the **_fourth intermediate prescribed amount_** for a year of income is:
 
@@ -4953,7 +4953,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image019.gif)
 
                       (f)  the **_fifth intermediate prescribed amount_** for a year of income is:
 
@@ -4961,7 +4961,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image020.gif)
 
                      (g)  the **_maximum prescribed amount_** for a year of income is:
 
@@ -4969,7 +4969,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00673/Html/HighEdFund1988_WD02HYP_image021.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image021.gif)
 
 (4A)  For the purposes of paragraph (4)(a), **_AWE_** for a year of income is the number of dollars in the sum of:
 
@@ -10986,28 +10986,6 @@ Sydney College of Divinity Ltd;
 Tabor College Tasmania;
 
 Tabor College Victoria.
-
-##### Declaration under subsection 4(2) of the Act (_see_ F2007L03921)
-
-Australian College of Applied Psychology Pty Ltd
-
-Australian Guild of Music Education Incorporated
-
-Australian Institute of Public Safety Pty Ltd
-
-Blue Mountains International Hotel Management School Pty Ltd
-
-Box Hill Institute of Technical and Further Education 
-
-East Coast Gestalt Training Incorporated
-
-Institute of Counselling Incorporated
-
-International College of Management Sydney Pty Ltd 
-
-JMC Pty Ltd
-
-North Melbourne Institute of TAFE
 
 ## Table A
 
