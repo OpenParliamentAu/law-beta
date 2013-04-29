@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00675/Html/0dd19957-100e-48bb-a036-b15737d97681_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00538/Html/9b0e9afe-889a-43a2-9f7a-a841d1c4121a_files/image001.gif)
 
 # Mutual Assistance in Criminal Matters Act 1987
 
 **Act No. 85 of 1987 as amended**
 
-This compilation was prepared on 20 September 2012
+This compilation was prepared on 16 April 2012
  taking into account amendments up to Act No. 7 of 2012
 
 The text of any of those amendments not in force
@@ -44,19 +44,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11](#11).          Request by foreign country
 
-**Part II—Assistance in relation to taking of evidence and production of documents or other articles** 
-
-    **Division 1—Requests by Australia**
+**Part II—Assistance in relation to taking of evidence and production of documents or other articles**
 
 [12](#12).          Requests by Australia
 
-    **Division 2—Requests by foreign countries**
-
 [13](#13).          Requests by foreign countries for the taking of evidence or the production of documents
-
-[13AA](#13AA).    Enforcement of orders
-
-[13AB](#13AB).    Commonwealth and State and Territory laws apply in relation to taking evidence and producing documents etc 
 
 [13A](#13A).       Requests by foreign countries for provision of material lawfully obtained
 
@@ -65,12 +57,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [14](#14).          Requests by Australia for search and seizure
 
 [15](#15).          Requests by foreign countries for search and seizure—action by Attorney‑General
-
-**Part IIIBA—Assistance in relation to use of surveillance devices**
-
-[15C](#15C).       Requests by Australia for surveillance devices
-
-[15CA](#15CA).    Requests by foreign countries for surveillance devices
 
 **Part IV—Arrangements for persons to give evidence or assist investigations** 
 
@@ -103,18 +89,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [27](#27).          Requests for assistance in relation to investigations in foreign countries
 
 [28](#28).          Effect of removal to foreign country on prisoner’s term of imprisonment
-
-**Part IVA—Forensic procedures** 
-
-    **Division 1—Requests by Australia**
-
-[28A](#28A).       Requests by Australia for forensic procedures
-
-    **Division 2—Requests by foreign countries**
-
-[28B](#28B).       Requests by foreign countries for forensic procedures
-
-[28C](#28C).       Providing forensic evidence to foreign countries
 
 **Part V—Custody of persons in transit**
 
@@ -150,7 +124,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34E](#34E).        Enforcement of foreign restraining orders
 
-[34F](#34F).        Copies of foreign orders sent by fax, email or other electronic means
+[34F](#34F).        Faxed copies of foreign orders
 
 [34G](#34G).       Cancelling registration
 
@@ -167,6 +141,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [34M](#34M).      Cessation of restraining orders
 
         **Subdivision C—Production orders relating to foreign serious offences**
+
+[34N](#34N).       Requests for production orders
 
 [34P](#34P).        Applying for and making production orders
 
@@ -188,11 +164,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision E—Monitoring orders relating to foreign serious offences**
 
+[34X](#34X).       Requests for monitoring orders
+
 [34Y](#34Y).       Applying for and making monitoring orders
 
 [34Z](#34Z).        Passing on information given under monitoring orders
 
         **Subdivision F—Search warrants relating to foreign serious offences**
+
+[34ZA](#34ZA).     Requests for search warrants
 
 [34ZB](#34ZB).     Applying for and issuing search warrants
 
@@ -203,10 +183,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [34ZE](#34ZE).     Dealing with seized property (other than property‑tracking documents)
 
 [34ZF](#34ZF).     Dealing with seized property‑tracking documents
-
-        **Subdivision G—Authorisation of authorised officers**
-
-[34ZG](#34ZG).     Attorney‑General may authorise authorised officers
 
     **Division 3—Provisions relating to registered foreign restraining orders**
 
@@ -306,10 +282,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part VIII—Miscellaneous**
 
-[38ZC](#38ZC).     Federal Magistrates—consent to nomination
-
-[38ZD](#38ZD).     Magistrates—personal capacity
-
 [39](#39).          Arrangements with Governors of States and Administrator of Norfolk Island
 
 [39A](#39A).       Requests by Attorney‑General on behalf of a defendant
@@ -329,8 +301,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [43B](#43B).       Restriction on use of information etc 
 
 [43C](#43C).       Requests for international assistance not to be disclosed
-
-[43D](#43D).       Collection, use or disclosure of personal information for international assistance purposes—the _Privacy Act 1988_
 
 [44](#44).          Regulations
 
@@ -426,10 +396,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="authorised-offic"></a>**_authorised officer_** has the same meaning as in the Proceeds of Crime Act.
 
-                    <a name="cartel-offenc"></a>**_cartel offence_** means an offence by a corporation involving cartel conduct.
-
-                    <a name="child"></a>**_child_** has the same meaning as in Part ID of the _Crimes Act 1914_.
-
                     <a name="committ-proceing"></a>**_committal proceeding_**, in relation to a foreign offence, includes:
 
                      (a)  any proceeding to determine whether a person should be tried for the offence (whether or not a particular person is specified at the commencement of that proceeding as the person in relation to whom the determination is to be made); and
@@ -471,8 +437,6 @@ whether arising under Australian law or a law of a foreign country.
                     <a name="facsimil-copi"></a>**_facsimile copy_** means a copy obtained or sent by fax.
 
                     <a name="fax"></a>**_fax_** means facsimile transmission.
-
-                    <a name="feral-magistr"></a>**_Federal Magistrate_**, other than in section 38ZC, means a Federal Magistrate in relation to whom a consent under subsection 38ZC(1) and a nomination under subsection 38ZC(2) are in force.
 
                     <a name="feral-prison"></a>**_federal prisoner_** means a person who is being held in custody pending trial for or sentence for, or is under a sentence of imprisonment for, an offence against a law of the Commonwealth or of a Territory, but does not include a person who is at large after having escaped from lawful custody.
 
@@ -522,12 +486,6 @@ whether arising under Australian law or a law of a foreign country.
 
                     <a name="foreign-seriou-offenc"></a>**_foreign serious offence_** means a serious offence against a law of a foreign country.
 
-                    <a name="forens-evid"></a>**_forensic evidence_** has the same meaning as in Part ID of the _Crimes Act 1914_.
-
-                    <a name="forens-materi"></a>**_forensic material_** has the same meaning as in Part ID of the _Crimes Act 1914_.
-
-                    <a name="forens-procur"></a>**_forensic procedure_** has the same meaning as in Part ID of the _Crimes Act 1914_.
-
                     <a name="frisk-search"></a>**_frisk search_** means:
 
                      (a)  a search of a person conducted by quickly running the hands over the person’s outer clothes; and
@@ -540,21 +498,11 @@ whether arising under Australian law or a law of a foreign country.
 
                      (b)  in relation to the Northern Territory—the Administrator of the Territory.
 
-                    <a name="incap-person"></a>**_incapable person_** has the same meaning as in Part ID of the _Crimes Act 1914_.
-
                     <a name="instrum"></a>**_instrument_**, in relation to an offence, has the same meaning as in the Proceeds of Crime Act.
-
-                    <a name="intercept-warrant-inform"></a>**_interception warrant information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
 
                     <a name="interest"></a>**_interest_**, in relation to property, has the same meaning as in the Proceeds of Crime Act.
 
-                    <a name="lawfulli-accessed-inform"></a>**_lawfully accessed information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
-
-                    <a name="lawfulli-intercepted-inform"></a>**_lawfully intercepted information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
-
                     <a name="magistr"></a>**_Magistrate_**means:
-
-                    (aa)  except in Division 2 of Part VI—a Federal Magistrate; or
 
                      (a)  a Magistrate of a State in respect of whom an arrangement under section 39 is in force; or
 
@@ -596,8 +544,6 @@ when the person knows that, or is reckless of whether or not, the money or other
 
                      (b)  an examination of those items.
 
-                    <a name="parent"></a>**_parent_** has the same meaning as in the _Crimes Act 1914_.
-
                     <a name="polic-offic"></a>**_police officer_** means a member or special member of the Australian Federal Police or a member of the police force of a State or Territory.
 
                     <a name="polit-offenc"></a>**_political offence_** has the same meaning as in the _Extradition Act 1988_, but does not include an offence constituted by conduct that, by a mutual assistance treaty (not being a bilateral treaty) in relation to the relevant country or any country, may be the subject of a request for mutual assistance, being an offence declared by regulations for the purposes of this paragraph not to be a political offence in relation to the country or all countries.
@@ -638,8 +584,6 @@ Note:          Under that Act, the proceeds of crime authority
 
                     <a name="properti-track-docum"></a>**_property‑tracking document_** has the same meaning as in the Proceeds of Crime Act.
 
-                    <a name="protect-inform"></a>**_protected information_** means information that is protected information within the meaning of paragraph 44(1)(a), (b) or (c) of the _Surveillance Devices Act 2004_.
-
                     <a name="public-author-foreign-countri"></a>**_public authority of a foreign country_** means any authority or body constituted by or under a law of a foreign country.
 
                     <a name="recent-used-vehicl"></a>**_recently used vehicle_**, in relation to a search of a person, means a vehicle that the person has operated or occupied at any time within 24 hours before the search commenced.
@@ -654,17 +598,7 @@ Note:          Under that Act, the proceeds of crime authority
 
                     <a name="seizabl-item"></a>**_seizable item_** means anything that would present a danger to a person or that could be used to assist a person to escape from lawful custody.
 
-                    <a name="seriou-offenc"></a>**_serious offence_** means an offence the maximum penalty for which is:
-
-                     (a)  death; or
-
-                     (b)  imprisonment for a period exceeding 12 months; or
-
-                     (c)  a fine exceeding 300 penalty units.
-
-Note 1:       See section 4AA of the _Crimes Act 1914_ for the current value of a penalty unit.
-
-Note 2:       Paragraph (c)—see also subsection (1A) of this section.
+                    <a name="seriou-offenc"></a>**_serious offence_** means an offence the maximum penalty for which is death, or imprisonment for not less than 12 months. 
 
                     <a name="state"></a>**_State_** includes:
 
@@ -680,15 +614,11 @@ Note 2:       Paragraph (c)—see also subsection (1A) of this s
 
                     <a name="state-prison"></a>**_State prisoner_** means a person who is being held in custody pending trial for or sentence for, or under a sentence of imprisonment for, an offence against a law of a State, but does not include a person who is at large after having escaped from lawful custody.
 
-                    <a name="store-commun-warrant-inform"></a>**_stored communications warrant information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
-
                     <a name="strip-search"></a>**_strip search_** means a search of a person or of articles in the possession of a person that may include:
 
                      (a)  requiring the person to remove all of his or her clothes; and
 
                      (b)  an examination of the person’s body (but not of the person’s body cavities) and of those clothes.
-
-                    <a name="tape-record"></a>**_tape recording_** means audio recording, video recording or recording by other electronic means.
 
                     <a name="territori"></a>**_Territory_**does not include:
 
@@ -703,12 +633,6 @@ Note 2:       Paragraph (c)—see also subsection (1A) of this s
                     <a name="vehicl"></a>**_vehicle_** includes any means of transport.
 
                     <a name="video-link"></a>**_video link_** means a video and sound system that enables persons assembled in a place in a country to see, hear and talk to persons assembled in a place in another country.
-
-          (1A)  In determining, for the purpose of a request by a foreign country, the Australian dollar equivalent of a fine (whether expressed as an amount or by way of penalty units) or pecuniary penalty (however described) that may be imposed on a person for an offence to which the request relates, the fine or penalty is to be translated to Australian currency:
-
-                     (a)  in relation to a country for which the Australian Tax Office publishes exchange rates—at the daily exchange rate listed on the Australian Tax Office website that applies on the day on which the request is received; and
-
-                     (b)  in relation to any other country—at the exchange rate that applies at the time when the request is received.
 
              (2)  For the purposes of this Act:
 
@@ -742,7 +666,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    The objects of this Act are:
 
-                     (a)  to regulate the provision by Australia of international assistance in criminal matters when a request is made by a foreign country in respect of which powers may be exercised under this Act (whether or not in conjunction with other Australian laws); and
+                     (a)  to regulate the provision by Australia of international assistance in criminal matters when a request is made by a foreign country for any of the following:
+
+                              (i)  the taking of evidence, or the production of any document or other article, for the purposes of a proceeding in the foreign country;
+
+                             (ii)  the issue of a search warrant and the seizure of any thing relevant to a proceeding or investigation in the foreign country;
+
+                            (iii)  the forfeiture or confiscation of property in respect of a foreign serious offence;
+
+                            (iv)  the recovery of pecuniary penalties in respect of a foreign serious offence;
+
+                             (v)  the restraining of dealings in property that may be forfeited or confiscated, or that may be needed to satisfy pecuniary penalties imposed, because of the commission of a foreign serious offence; and
+
+                     (b)  to facilitate the provision by Australia of international assistance in criminal matters when a request is made by a foreign country for the making of arrangements for a person who is in Australia to travel to the foreign country to give evidence in a proceeding or to give assistance in relation to an investigation; and
 
                      (c)  to facilitate the obtaining by Australia of international assistance in criminal matters.
 
@@ -770,37 +706,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  A request by a foreign country for assistance under this Act shall be refused if, in the opinion of the Attorney‑General:
 
-                     (a)  the request relates to the investigation, prosecution or punishment of a person for an offence that is, or is by reason of the circumstances in which it is alleged to have been committed or was committed, a political offence; or
+                     (a)  the request relates to the prosecution or punishment of a person for an offence that is, or is by reason of the circumstances in which it is alleged to have been committed or was committed, a political offence; or
 
-                     (b)  there are substantial grounds for believing that the request has been made with a view to investigating, prosecuting or punishing a person for a political offence; or
+                     (b)  there are substantial grounds for believing that the request has been made with a view to prosecuting or punishing a person for a political offence; or
 
-                   (ba)  the request relates to a foreign order in relation to an offence that is, or is by reason of the circumstances in which it is alleged to have been committed or was committed, a political offence; or
+                     (c)  there are substantial grounds for believing that the request was made for the purpose of prosecuting, punishing or otherwise causing prejudice to a person on account of the person’s race, sex, religion, nationality or political opinions; or
 
-                     (c)  there are substantial grounds for believing that the request was made for the purpose of investigating, prosecuting, punishing or otherwise causing prejudice to a person on account of the person’s race, sex, sexual orientation, religion, nationality or political opinions; or
+                     (d)  the request relates to the prosecution or punishment of a person in respect of an act or omission that if it had occurred in Australia, would have constituted an offence under the military law of Australia but not also under the ordinary criminal law of Australia; or
 
-                    (ca)  there are substantial grounds for believing that, if the request was granted, the person would be in danger of being subjected to torture; or
+                     (e)  the granting of the request would prejudice the sovereignty, security or national interest of Australia or the essential interests of a State or Territory; or
 
-                     (d)  the request relates to the investigation, prosecution or punishment of a person in respect of an act or omission that if it had occurred in Australia, would have constituted an offence under the military law of Australia but not also under the ordinary criminal law of Australia; or
+                      (f)  the request relates to the prosecution of a person for an offence in a case where the person has been acquitted or pardoned by a competent tribunal or authority in the foreign country, or has undergone the punishment provided by the law of that country, in respect of that offence or of another offence constituted by the same act or omission as that offence.
 
-                   (da)  both of the following subparagraphs are satisfied:
-
-                              (i)  the request relates to a foreign order in relation to an offence;
-
-                             (ii)  an act or omission constituting the offence, had the act or omission occurred in Australia, would have constituted an offence under the military law of Australia but not also under the ordinary criminal law of Australia; or
-
-                     (e)  the granting of the request would prejudice the sovereignty, security or national interest of Australia or the essential interests of a State or Territory.
-
-          (1A)  A request by a foreign country for assistance under this Act must be refused if:
-
-                     (a)  the request relates to the investigation, prosecution or punishment of:
-
-                              (i)  a person arrested or detained on suspicion of having committed an offence; or
-
-                             (ii)  a person charged with, or convicted of, an offence; and
-
-                     (b)  the offence is one in respect of which the death penalty may be imposed in the foreign country;
-
-unless the Attorney‑General is of the opinion, having regard to the special circumstances of the case, that the assistance requested should be granted.
+          (1A)  A request by a foreign country for assistance under this Act must be refused if it relates to the prosecution or punishment of a person charged with, or convicted of, an offence in respect of which the death penalty may be imposed in the foreign country, unless the Attorney‑General is of the opinion, having regard to the special circumstances of the case, that the assistance requested should be granted.
 
           (1B)  A request by a foreign country for assistance under this Act may be refused if the Attorney‑General:
 
@@ -810,21 +728,11 @@ unless the Attorney‑General is of the opinion, having regard to the special ci
 
              (2)  A request by a foreign country for assistance under this Act may be refused if, in the opinion of the Attorney‑General:
 
-                     (a)  the request relates to the investigation, prosecution or punishment of a person in respect of an act or omission that, if it had occurred in Australia, would not have constituted an offence against Australian law at the time at which the request was received; or
+                     (a)  the request relates to the prosecution or punishment of a person in respect of an act or omission that, if it had occurred in Australia, would not have constituted an offence against Australian law; or
 
-                     (b)  both of the following subparagraphs are satisfied:
+                     (b)  the request relates to the prosecution or punishment of a person in respect of an act or omission that occurred, or is alleged to have occurred, outside the foreign country and a similar act or omission occurring outside Australia in similar circumstances would not have constituted an offence against Australian law; or
 
-                              (i)  the request relates to a foreign order in relation to an offence;
-
-                             (ii)  an act or omission constituting the offence, had the act or omission occurred in Australia, would not have constituted an offence against Australian law at the time at which the request was received; or
-
-                     (c)  the request relates to the investigation, prosecution or punishment of a person for an offence in a case where:
-
-                              (i)  the person has been acquitted or pardoned by a competent tribunal or authority in the foreign country, or in Australia or another country; or
-
-                             (ii)  the person has undergone the punishment provided by the law of the foreign country, or of Australia or another country;
-
-                            in respect of that offence or of another offence constituted by the same act or omission as that offence; or
+                     (c)  the request relates to the prosecution or punishment of a person in respect of an act or omission where, if it had occurred in Australia at the same time and had constituted an offence against Australian law, the person responsible could no longer be prosecuted by reason of lapse of time or any other reason; or
 
                      (d)  the provision of the assistance could prejudice an investigation or proceeding in relation to a criminal matter in Australia; or
 
@@ -870,23 +778,19 @@ However, a failure to comply with this subsection is not a ground for refusing t
 
 ## Part II—Assistance in relation to taking of evidence and production of documents or other articles
 
-### Division 1—Requests by Australia
-
 ##### <a id="12"></a>12  Requests by Australia
 
              (1)  Australia may request the appropriate authority of a foreign country:
 
                      (a)  to arrange for:
 
-                              (i)  evidence to be taken in the foreign country; or
+                              (i)  evidence to be taken in the foreign country in accordance with the law of that country; or
 
-                             (ii)  a document or other article in the foreign country to be produced;
+                             (ii)  a document or other article in the foreign country to be produced in accordance with the law of that country;
 
                             for the purposes of a proceeding or investigation relating to a criminal matter in Australia; and
 
-                    (aa)  if subparagraph (a)(i) applies—to arrange for a tape recording to be made of the evidence to be taken; and
-
-                     (b)  to arrange for the evidence (and if paragraph (aa) applies, the tape recording or a copy of it), document or other article to be sent to Australia.
+                     (b)  to arrange for the evidence, document or other article to be sent to Australia.
 
              (2)  To remove any doubt, it is stated that:
 
@@ -902,77 +806,31 @@ in the foreign country even though, under Australian law:
 
 by using in the circumstances processes similar to those used in the foreign country.
 
-             (3)  When making a request under subsection (1),   Australia may also request that an opportunity be given for the person giving evidence, or producing the document or other article, to be examined or cross‑examined in person, or through a video link from Australia, by:
+             (3)  When making a request under subsection (1),   Australia may also request that an opportunity be given for the person giving evidence, or producing the document or other article, to be examined or cross‑examined, through a video link, from Australia by:
 
                      (a)  any party to the proceeding or that party’s legal representative; or
 
                      (b)  any person being investigated or that person’s legal representative.
 
-### Division 2—Requests by foreign countries
-
 ##### <a id="13"></a>13  Requests by foreign countries for the taking of evidence or the production of documents
 
-             (1)  This section applies if a foreign country (the **_requesting country_**) requests:
+             (1)  Where a request is made by a foreign country (**_requesting country_**) that:
 
-                     (a)  any of the following:
+                     (a)  evidence be taken in Australia; or
 
-                              (i)  that evidence be taken in Australia;
+                     (b)  documents or other articles in Australia be produced;
 
-                             (ii)  that evidence be taken in Australia and a tape recording be made of the evidence taken;
+for the purposes of a proceeding in relation to a criminal matter in the requesting country or another foreign country, the Attorney‑General may, in his or her discretion, by writing in accordance with the approved form, authorise the taking of the evidence or the production of the documents or other articles, and the transmission of the evidence, documents or other articles to the requesting country.
 
-                            (iii)  that evidence be taken in Australia for live transmission by means of video link to a courtroom or other place in the requesting country; or
+             (2)  Where the Attorney‑General authorises the taking of evidence or the production of documents or other articles under subsection (1):
 
-                     (b)  that documents or other articles in Australia be produced;
+                     (a)  in the case of the taking of evidence—a Magistrate may take the evidence on oath of each witness appearing before the Magistrate to give evidence in relation to the matter, and a Magistrate who takes any such evidence shall:
 
-for the purposes of a proceeding in relation to a criminal matter in that country or another foreign country (the **_foreign proceeding_**).
+                              (i)  cause the evidence to be put in writing and certify that the evidence was taken by the Magistrate; and
 
-          (1A)  The Attorney‑General may, by writing in accordance with the approved form, authorise:
+                             (ii)  cause the writing so certified to be sent to the Attorney‑General; or
 
-                     (a)  the taking of the evidence and its transmission to the requesting country; or
-
-                     (b)  the production of the documents or other articles and their transmission to the requesting country.
-
-             (2)  If the Attorney‑General gives an authorisation under subsection (1A):
-
-                     (a)  in the case of the taking of evidence—a Magistrate may do all or any of the following:
-
-                              (i)  take evidence on oath or affirmation of the witness appearing before the Magistrate to give evidence in relation to the matter;
-
-                             (ii)  direct that all or part of the proceeding be conducted in private;
-
-                            (iii)  require a person to leave the place in Australia where the giving of evidence is taking place or going to take place;
-
-                            (iv)  prohibit or restrict the publication of evidence given in the proceeding or of the name of a party to, or a witness in, the foreign proceeding;
-
-                             (v)  subject to subsection 13AB(1), require the production of documents or other articles;
-
-                            (vi)  take such action as the Magistrate considers appropriate to facilitate the foreign proceeding;
-
-                           (vii)  perform any other function required by the regulations; or
-
-                     (b)  in the case of the production of documents or other articles—a Magistrate may, subject to subsection 13AB(1), require the production of the documents or other articles and, where the documents or other articles are produced, the Magistrate shall send the documents, or copies of the documents certified by the Magistrate to be true copies, or the other articles, to the Attorney‑General.
-
-Note 1:       Subparagraph (2)(a)(i)—see also subsection (2C).
-
-Note 2:       Subparagraphs (2)(a)(ii), (iii) and (iv)—see also subsection (2B).
-
-          (2A)  However, a Magistrate may not make a ruling about the admissibility of evidence in a foreign proceeding.
-
-          (2B)  If a Magistrate is taking evidence for live transmission by means of video link to a courtroom or other place in the requesting country, the Magistrate:
-
-                     (a)  may only exercise the powers mentioned in subparagraphs (2)(a)(ii), (iii) and (iv) at the request of the foreign court; and
-
-                     (b)  may, at the request of the foreign court, assist with the administering by the foreign court of an oath or affirmation; and
-
-                     (c)  may administer an oath or affirmation.
-
-          (2C)  If a Magistrate takes evidence as mentioned in subparagraph (2)(a)(i) but not for live transmission by means of video link to a courtroom, or other place, in the requesting country, the Magistrate must:
-
-                     (a)  if the requesting country requests that a tape recording be made of the evidence taken—cause a tape recording to be made of the evidence, certify that the evidence on the tape recording was taken by the Magistrate and cause the tape recording, or a copy of it, to be sent to the Attorney‑General; and
-
-                     (b)  in any other case—cause the evidence to be put in writing, certify that the evidence was taken by the Magistrate and cause the writing so certified to be sent to the Attorney‑General.
-
-          (2D)  If, in taking evidence as mentioned in paragraph (2)(a), a Magistrate requires the production of documents or other articles under subparagraph (2)(a)(v), the Magistrate must send the documents, or copies of the documents certified by the Magistrate to be true copies, or the other articles, to the Attorney‑General.
+                     (b)  in the case of the production of documents or other articles—a Magistrate may, subject to subsection (6), require the production of the documents or other articles and, where the documents or other articles are produced, the Magistrate shall send the documents, or copies of the documents certified by the Magistrate to be true copies, or the other articles, to the Attorney‑General.
 
              (3)  The evidence of such a witness may be taken in the presence or absence of the person to whom the proceeding in the requesting country relates or of his or her legal representative (if any).
 
@@ -992,13 +850,7 @@ to have legal representation at the proceeding before the Magistrate.
 
                      (b)  the legal representative of the relevant authority of the requesting country;
 
-to examine or cross‑examine in person, or through a video link from the requesting country, any person giving evidence or producing a document or other article, at the proceeding.
-
-          (4B)  For the purposes of Part III of the _Crimes Act 1914_:
-
-                     (a)  the proceeding before the Magistrate is a judicial proceeding; and
-
-                     (b)  evidence taken from a witness on oath or affirmation is testimony given in a judicial proceeding.
+to examine or cross‑examine, through a video link, from the requesting country any person giving evidence or producing a document or other article, at the proceeding.
 
              (5)  The certificate by the Magistrate under subsection (2) shall state whether, when the evidence was taken or the documents or other articles were produced, any of the following persons were present:
 
@@ -1006,35 +858,15 @@ to examine or cross‑examine in person, or through a video link from the reques
 
                      (b)  any other person giving evidence or producing documents or other articles or his or her legal representative (if any).
 
-##### <a id="13AA"></a>13AA  Enforcement of orders
+             (6)  Subject to subsections (7) and (8), the laws of each State or Territory with respect to the compelling of persons to attend before a Magistrate, and to give evidence, answer questions and produce documents or other articles, upon the hearing of a charge against a person for an offence against the law of that State or Territory apply, so far as they are capable of application, with respect to the compelling of persons to attend before a Magistrate, and to give evidence, answer questions and produce documents or other articles, for the purposes of this section.
 
-             (1)  If a Magistrate is conducting a proceeding under subsection 13(2) and makes an order relating to the conduct of the proceeding, the order must be complied with.
+             (7)  For the purposes of this section, the person to whom the proceeding in the requesting country relates is competent but not compellable to give evidence.
 
-             (2)  If the Magistrate is a Federal Magistrate, subject to the Rules of Court made under the _Federal Magistrates Act 1999_, the order may be enforced as if the order were an order of the Federal Magistrates Court.
+             (8)  For the purposes of this section, a person who is required to give evidence, or produce documents or other articles, for the purposes of a proceeding in relation to a criminal matter in the requesting country or another foreign country, is not compellable to answer a question, or produce a document or article, that the person is not compellable to answer or produce, as the case may be, in the proceeding in that country.
 
-             (3)  In any other case, subject to the rules of the court of which the Magistrate is a member, the order may be enforced as if the order were an order of that court.
+             (9)  A duly authenticated foreign law immunity certificate is admissible in proceedings under this section as _prima facie_ evidence of the matters stated in the certificate.
 
-##### <a id="13AB"></a>13AB  Commonwealth and State and Territory laws apply in relation to taking evidence and producing documents etc.
-
-             (1)  Subject to subsection (2), the following laws apply, so far as they are capable of application, for the purposes of a proceeding under section 13 in a State or Territory:
-
-                     (a)  laws of the Commonwealth with respect to the compelling of persons to attend before a Federal Magistrate;
-
-                     (b)  laws of the Commonwealth with respect to giving evidence, answering questions and producing documents or other articles before a Federal Magistrate;
-
-                     (c)  laws of a State or Territory with respect to the compelling of persons to attend before a Magistrate (other than a Federal Magistrate);
-
-                     (d)  laws of that State or Territory with respect to giving evidence, answering questions and producing documents or other articles before a Magistrate (other than a Federal Magistrate).
-
-             (2)  For the purposes of section 13:
-
-                     (a)  the person to whom the proceeding in the requesting country relates is competent but not compellable to give evidence; and
-
-                     (b)  a person who is required to give evidence, or produce documents or other articles, for the purposes of a proceeding in relation to a criminal matter in the requesting country or another foreign country, is not compellable to answer a question, or produce a document or article, that the person is not compellable to answer or produce, as the case may be, in the proceeding in that country.
-
-             (3)  Paragraph (2)(b) does not apply if its application would be inconsistent with a provision of a mutual assistance treaty between Australia and the requesting country concerned.
-
-             (4)  A duly authenticated foreign law immunity certificate is admissible in proceedings under section 13 as prima facie evidence of the matters stated in the certificate.
+           (10)  Subsection (8) does not apply in a case where its application would be inconsistent with a provision of a mutual assistance treaty between Australia and the requesting country concerned.
 
 ##### <a id="13A"></a>13A  Requests by foreign countries for provision of material lawfully obtained
 
@@ -1052,83 +884,7 @@ to examine or cross‑examine in person, or through a video link from the reques
 
 the Attorney‑General may, by writing in accordance with the approved form, authorise the provision of that material to the requesting country.
 
-             (2)  The Attorney‑General may only authorise the provision to the requesting country of material specified in column 1 of the following table if the request relates to a serious offence against the laws of that country specified in column 2 of the table:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Offences for which provision of particular material may be authorised</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>material that is or includes protected information</div>
-  </td>
-  <td>
-    <div>a serious offence punishable by a maximum penalty of imprisonment for
-      3 years or more, imprisonment for life or the death penalty</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>material that is or includes lawfully accessed information or stored communications
-      warrant information</div>
-  </td>
-  <td>
-    <div>a serious offence punishable by a maximum penalty of:</div>
-    <div>(a) imprisonment for 3 years or more, imprisonment for life or the death
-      penalty; or</div>
-    <div>(b) a fine of an amount that is at least equivalent to 900 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>material that is or includes lawfully intercepted information or interception
-      warrant information</div>
-  </td>
-  <td>
-    <div>(a) a serious offence punishable by a maximum penalty of imprisonment
-      for 7 years or more, imprisonment for life or the death penalty; or</div>
-    <div>(b) a cartel offence punishable by a maximum penalty of a fine of an amount
-      that is at least equivalent to $10,000,000</div>
-  </td>
-</tr></table>
+             (2)  Subsection (1) does not permit the Attorney‑General to authorise the provision to the requesting country of material obtained through the use of a surveillance device unless the request relates to an investigation into, or proceedings in relation to, a serious offence against the laws of that country that is punishable by a maximum term of imprisonment of 3 years or more, by imprisonment for life or by the death penalty.
 
              (3)  An authorisation by the Attorney‑General under subsection (1) may include a direction to an authorised officer of the enforcement agency having possession of the material about how the material is to be provided to that foreign country.
 
@@ -1146,7 +902,9 @@ the Attorney‑General may, by writing in accordance with the approved form, aut
 
                      (a)  material obtained from individuals or entities by consent; and
 
-                     (b)  material obtained by warrant or the exercise of a coercive power by a court in Australia for the purposes of a domestic investigation or prosecution.
+                     (b)  material obtained by warrant or the exercise of a coercive power by a court in Australia for the purposes of a domestic investigation or prosecution;
+
+but does not include material obtained under the _Telecommunications (Interception and Access) Act 1979_.
 
 ## Part III—Assistance in relation to search and seizure
 
@@ -1174,7 +932,7 @@ on the ground alone that it was obtained otherwise than in accordance with the r
 
 ##### <a id="15"></a>15  Requests by foreign countries for search and seizure—action by Attorney‑General
 
-                   Where:
+             (1)  Where:
 
                      (a)  a proceeding or investigation relating to a criminal matter involving a serious offence has commenced in a foreign country;
 
@@ -1182,65 +940,9 @@ on the ground alone that it was obtained otherwise than in accordance with the r
 
                      (c)  the foreign country requests the Attorney‑General to arrange for the evidential material to be obtained;
 
-the Attorney‑General may, in his or her discretion, authorise a police officer, in writing, to apply to a Magistrate for one or more search warrants in respect of the evidential material.
+the Attorney‑General may, in his or her discretion, authorise a police officer, in writing, to apply to a Magistrate of the State or Territory in which the evidential material is believed to be located for a search warrant in respect of the evidential material.
 
 Note:          Divisions 2 and 3 of Part VIIA make provision relating to applications for, and the issue and execution of, search warrants requested by foreign countries.
-
-## Part IIIBA—Assistance in relation to use of surveillance devices
-
-##### <a id="15C"></a>15C  Requests by Australia for surveillance devices
-
-             (1)  This section applies if:
-
-                     (a)  an investigation in relation to an offence punishable by a maximum penalty of imprisonment for 3 years or more has commenced in Australia; and
-
-                     (b)  the use of a surveillance device (however described) is reasonably necessary for the purpose of obtaining information relevant to:
-
-                              (i)  the commission of the offence; or
-
-                             (ii)  the identity or location of the offenders.
-
-             (2)  Australia may request an appropriate authority of a foreign country:
-
-                     (a)  to authorise the use of a surveillance device (however described), in accordance with the law of that country, to obtain the information referred to in paragraph (1)(b); and
-
-                     (b)  to arrange for any such information that has been obtained to be sent to Australia.
-
-             (3)  Subsection (4) applies if:
-
-                     (a)  Australia makes a request under this section; and
-
-                     (b)  the foreign country obtains any information referred to in paragraph (1)(b) by means of a process authorised by the law of that country other than the use (as requested by Australia) of a surveillance device.
-
-             (4)  The information obtained by the foreign country:
-
-                     (a)  is not inadmissible in evidence in a proceeding that relates to the investigation; or
-
-                     (b)  is not precluded from being used for the purposes of the investigation;
-
-on the ground alone that it was obtained otherwise than in accordance with the request.
-
-##### <a id="15CA"></a>15CA  Requests by foreign countries for surveillance devices
-
-             (1)  The Attorney‑General may, in his or her discretion, authorise an eligible law enforcement officer, in writing, to apply for a surveillance device warrant under section 14 of the _Surveillance Devices Act 2004_ if the Attorney‑General is satisfied that:
-
-                     (a)  an investigation, or investigative proceeding, relating to a criminal matter involving an offence against the law of a foreign country (the **_requesting country_**) that is punishable by a maximum penalty of imprisonment for 3 years or more, imprisonment for life or the death penalty has commenced in the requesting country; and
-
-                     (b)  the requesting country requests the Attorney‑General to arrange for the use of a surveillance device; and
-
-                     (c)  the requesting country has given appropriate undertakings in relation to:
-
-                              (i)  ensuring that the information obtained as a result of the use of the surveillance device will only be used for the purpose for which it is communicated to the requesting country; and
-
-                             (ii)  the destruction of a document or other thing containing information obtained as a result of the use of the surveillance device; and
-
-                            (iii)  any other matter the Attorney‑General considers appropriate.
-
-             (2)  In this section:
-
-                    <a name="law-enforc-offic"></a><a name="elig-law-enforc-offic"></a>**_eligible law enforcement officer_** means a person referred to in paragraph (a) or (c) of the definition of **_law enforcement officer_** set out in subsection 6(1) of the _Surveillance Devices Act 2004._
-
-                    <a name="proceing"></a><a name="investig-proceing"></a>**_investigative proceeding_** means a proceeding covered by paragraph (a) or (b) of the definition of **_proceeding_**.
 
 ## Part IV—Arrangements for persons to give evidence or assist investigations
 
@@ -1252,7 +954,7 @@ on the ground alone that it was obtained otherwise than in accordance with the r
 
                      (a)  a proceeding relating to a criminal matter has commenced in Australia; and
 
-                     (b)  a person who is in a foreign country:
+                     (b)  the Attorney‑General is of the opinion that a person who is in a foreign country:
 
                               (i)  is a foreign prisoner;
 
@@ -1266,7 +968,7 @@ Australia may request the foreign country to authorise the attendance of the per
 
                      (a)  an investigation relating to a criminal matter has commenced in Australia; and
 
-                     (b)  a person who is in a foreign country:
+                     (b)  the Attorney‑General is of the opinion that a person who is in a foreign country:
 
                               (i)  is a foreign prisoner;
 
@@ -1582,96 +1284,6 @@ the Attorney‑General may, in his or her discretion, make arrangements for the 
 
                    Where a prisoner who is serving a term of imprisonment for an offence against a law of the Commonwealth or of a Territory is released from a prison pursuant to a request by a foreign country under section 26 or 27, the prisoner shall, while in custody in connection with the request (including custody outside Australia), be deemed to be continuing to serve that term of imprisonment.
 
-## Part IVA—Forensic procedures
-
-### Division 1—Requests by Australia
-
-##### <a id="28A"></a>28A  Requests by Australia for forensic procedures
-
-             (1)  If:
-
-                     (a)  a proceeding relating to a criminal matter has commenced in Australia; and
-
-                     (b)  there are reasonable grounds to believe carrying out a forensic procedure on a person in a foreign country may result in evidence relevant to the proceeding;
-
-Australia may request the foreign country to authorise the carrying out of a forensic procedure on the person for the purpose of giving assistance in connection with the proceeding.
-
-             (2)  If:
-
-                     (a)  an investigation relating to a criminal matter has commenced in Australia; and
-
-                     (b)  carrying out a forensic procedure on a person in a foreign country may result in evidence relevant to the investigation;
-
-Australia may request the foreign country to authorise the carrying out of a forensic procedure on the person for the purpose of giving assistance in relation to the investigation.
-
-             (3)  To avoid doubt, Australia may request that a forensic procedure be carried out in the foreign country even if, under Australian law, the forensic procedure could not have been carried out by using processes similar to those used in the foreign country.
-
-             (4)  Subsection (5) applies if:
-
-                     (a)  Australia makes a request under this section; and
-
-                     (b)  the foreign country obtains any thing relevant to the proceeding or investigation by means of a process authorised by the law of that country other than the carrying out (as requested by Australia) of a forensic procedure on a particular person.
-
-             (5)  The thing obtained by the foreign country:
-
-                     (a)  is not inadmissible in evidence in the proceeding; or
-
-                     (b)  is not precluded from being used for the purposes of the investigation;
-
-on the ground alone that it was obtained otherwise than in accordance with the request.
-
-### Division 2—Requests by foreign countries
-
-##### <a id="28B"></a>28B  Requests by foreign countries for forensic procedures
-
-             (1)  If a foreign country requests that a forensic procedure be carried out on a person, the Attorney‑General may authorise a constable to apply, in accordance with Part ID of the _Crimes Act 1914_, to a magistrate for an order for the carrying out of the forensic procedure on the person, so long as, if the person is a suspect within the meaning of subsection 23WA(1) of that Act, the constable is an authorised applicant within the meaning of that subsection.
-
-             (2)  The Attorney‑General must not authorise a constable under subsection (1) unless the Attorney‑General is satisfied of the following matters:
-
-                     (a)  a request has been made by a foreign country that a forensic procedure be carried out on a person;
-
-                     (b)  unless the person is a child or an incapable person—the foreign country has:
-
-                              (i)  started investigating whether the person has committed a foreign serious offence against its laws; or
-
-                             (ii)  started proceedings against the person for a foreign serious offence;
-
-                     (c)  the person is, or is believed to be, in Australia;
-
-                     (d)  the foreign country has given:
-
-                              (i)  appropriate undertakings in relation to the retention, use and destruction of forensic material, or of information obtained from analysis of that forensic material; and
-
-                             (ii)  any other undertakings that the Attorney‑General considers necessary;
-
-                     (e)  unless the person is a child or an incapable person—the person has been given an opportunity to consent to the forensic procedure and has not consented to it;
-
-                      (f)  if the person is a child or an incapable person, the matters specified in subsection (3).
-
-             (3)  If the person is a child or an incapable person, the Attorney‑General must:
-
-                     (a)  be satisfied that either of the following applies:
-
-                              (i)  the consent of the parent or guardian cannot reasonably be obtained or has been withdrawn;
-
-                             (ii)  the parent or guardian is a suspect in relation to the foreign serious offence; and
-
-                     (b)  believe that, having regard to the best interests of the child or incapable person, it is appropriate to make the authorisation.
-
-##### <a id="28C"></a>28C  Providing forensic evidence to foreign countries
-
-             (1)  If:
-
-                     (a)  a foreign country requests that a forensic procedure be carried out on a person; and
-
-                     (b)  the Attorney‑General authorises a constable to make an application of the kind mentioned in subsection 28B(1); and
-
-                     (c)  a forensic procedure is carried out on the person;
-
-the Attorney‑General may direct the constable as to how the forensic evidence is to be provided to the foreign country.
-
-             (2)  A direction by the Attorney‑General under subsection (1) is not a legislative instrument.
-
 ## Part V—Custody of persons in transit
 
 ##### <a id="29"></a>29  Transit
@@ -1760,9 +1372,9 @@ if the order was made in respect of a serious offence.
 
                              (ii)  the conviction and the order are not subject to further appeal in the foreign country;
 
-the Attorney‑General may authorise a proceeds of crime authority, in writing, to apply for the registration of the order.
+the Attorney‑General may authorise a proceeds of crime authority, in writing, to apply for the registration of the order in a specified court.
 
-             (2)  If a foreign country requests the Attorney‑General to make arrangements for the enforcement of:
+             (2)  If a foreign country that is specified in regulations made for the purposes of this subsection requests the Attorney‑General to make arrangements for the enforcement of:
 
                      (a)  a foreign forfeiture order that:
 
@@ -1776,21 +1388,21 @@ the Attorney‑General may authorise a proceeds of crime authority, in writing, 
 
                              (ii)  some or all of the property available to satisfy the order is reasonably suspected of being located in Australia;
 
-the Attorney‑General may authorise a proceeds of crime authority, in writing, to apply for the registration of the order.
+the Attorney‑General may authorise a proceeds of crime authority, in writing, to apply for the registration of the order in a specified court.
 
              (3)  If a foreign country requests the Attorney‑General to make arrangements for the enforcement of a foreign restraining order, against property that is reasonably suspected of being located in Australia, that is:
 
-                     (a)  made in respect of a foreign serious offence for which a person has been convicted or charged; or
+                     (a)  in any case—made in respect of a foreign serious offence for which a person has been convicted; or
 
-                     (b)  made in respect of the alleged commission of a foreign serious offence (whether or not the identity of the person who committed the offence is known);
+                     (b)  if the foreign country is specified in regulations made for the purposes of subsection (2)—made in respect of the alleged commission of a foreign serious offence (whether or not the identity of the person who committed the offence is known);
 
-the Attorney‑General may authorise a proceeds of crime authority, in writing, to apply for the registration of the order.
+the Attorney‑General may authorise a proceeds of crime authority, in writing, to apply for the registration of the order in a specified court.
+
+             (4)  The court that the Attorney‑General specifies under subsection (1), (2) or (3) must be a court with proceeds jurisdiction in a State or Territory in which the property, or some or all of the property, is reasonably suspected of being located.
 
 ##### <a id="34A"></a>34A  Registration of foreign orders
 
-          (1A)  An application to a court for registration of a foreign order in accordance with an authorisation under this Subdivision must be to a court with proceeds jurisdiction.
-
-             (1)  If a proceeds of crime authority applies to a court with proceeds jurisdiction for registration of a foreign order in accordance with an authorisation under this Subdivision, the court must register the order accordingly, unless the court is satisfied that it would be contrary to the interests of justice to do so.
+             (1)  If a proceeds of crime authority applies to a court for registration of a foreign order in accordance with an authorisation under this Subdivision, the court must register the order accordingly, unless the court is satisfied that it would be contrary to the interests of justice to do so.
 
              (2)  The proceeds of crime authority must give notice of the application:
 
@@ -1920,17 +1532,11 @@ Procedural matters
 
 Note:          Division 3 of this Part contains further provisions relating to registered foreign restraining orders.
 
-##### <a id="34F"></a>34F  Copies of foreign orders sent by fax, email or other electronic means
+##### <a id="34F"></a>34F  Faxed copies of foreign orders
 
-             (1)  If a copy of a sealed or authenticated copy of:
+             (1)  A faxed copy of a sealed or authenticated copy of a foreign order or an amendment of a foreign order is to be regarded for the purposes of this Act as the same as the sealed or authenticated copy.
 
-                     (a)  a foreign order; or
-
-                     (b)  an amendment of a foreign order;
-
-is sent by fax, email or other electronic means, the copy is to be regarded, for the purposes of this Act, as the same as the sealed or authenticated copy.
-
-             (2)  However, if registration of the order under this Subdivision is effected by means of the copy, the registration ceases to have effect at the end of 45 days unless the sealed or authenticated copy has been filed by then in the court that registered the order.
+             (2)  However, if registration of the order under this Subdivision is effected by means of the faxed copy, the registration ceases to have effect at the end of 21 days unless the sealed or authenticated copy has been filed by then in the court that registered the order.
 
 ##### <a id="34G"></a>34G  Cancelling registration
 
@@ -1958,19 +1564,21 @@ has been registered under this Subdivision for cancellation of the registration.
 
 ##### <a id="34J"></a>34J  Requests for restraining orders
 
-                   If:
+             (1)  If:
 
 (a)  either:
 
                               (i)  a criminal proceeding has commenced, or there are reasonable grounds to suspect that a criminal proceeding is about to commence, in a foreign country in respect of a foreign serious offence; or
 
-                             (ii)  foreign confiscation proceedings have commenced, or there are reasonable grounds to suspect that such proceedings are about to commence, in a foreign country; and
+                             (ii)  a foreign country is specified in regulations made for the purposes of subsection 34(2), and foreign confiscation proceedings have commenced, or there are reasonable grounds to suspect that such proceedings are about to commence, in the foreign country; and
 
                      (b)  there are reasonable grounds to believe that property that may be made or is about to be made the subject of a foreign restraining order is located in Australia; and
 
                      (c)  the foreign country requests the Attorney‑General to obtain the issue of a restraining order against the property;
 
-the Attorney‑General may authorise a proceeds of crime authority to apply for a restraining order against that property in respect of the offence.
+the Attorney‑General may authorise a proceeds of crime authority to apply to a specified court for a restraining order against that property in respect of the offence.
+
+             (2)  The court specified must be a court with proceeds jurisdiction in a State or Territory in which the property, or some or all of the property, is reasonably suspected of being located.
 
 ##### <a id="34K"></a>34K  Applying for and making restraining orders
 
@@ -1982,7 +1590,9 @@ the Attorney‑General may authorise a proceeds of crime authority to apply for 
 
                      (a)  references in that Part to an indictable offence were references to the foreign serious offence; and
 
-                     (c)  in a case to which subparagraph 34J(a)(i) applies:
+                     (b)  references in that Part to a court with proceeds jurisdiction were references to the court specified in the authorisation under section 34J of this Act; and
+
+                     (c)  in a case to which subparagraph 34J(1)(a)(i) applies:
 
                               (i)  references in that Part to a person charged with an indictable offence were references to a person against whom a criminal proceeding in respect of a foreign  serious offence has commenced in a foreign country; and
 
@@ -1990,9 +1600,9 @@ the Attorney‑General may authorise a proceeds of crime authority to apply for 
 
                             (iii)  paragraphs 17(1)(e) and (f), subsections 17(3) and (4) and sections 18 to 20, 29, 44 and 45 of that Act were omitted; and
 
-                     (d)  in a case to which subparagraph 34J(a)(ii) applies in relation to a foreign country:
+                     (d)  in a case to which subparagraph 34J(1)(a)(ii) applies in relation to a foreign country:
 
-                              (i)  references in that Part to reasonable grounds to suspect that a person has committed a serious offence were references to reasonable grounds to suspect that foreign confiscation proceedings have commenced, or are about to commence, in the foreign country; and
+                              (i)  references in that Part to reasonable grounds to suspect that a person has committed a serious offence were references to reasonable grounds to suspect that such proceedings have commenced, or are about to commence, in the foreign country; and
 
                              (ii)  section 17, paragraphs 18(1)(e) and (f), subsection 18(3) and sections 19, 20, 29, 44 and 45 of that Act were omitted.
 
@@ -2028,9 +1638,23 @@ the court must grant the application if the court is satisfied that:
 
 #### Subdivision C—Production orders relating to foreign serious offences
 
+##### <a id="34N"></a>34N  Requests for production orders
+
+             (1)  If:
+
+                     (a)  a criminal proceeding or criminal investigation has commenced in a foreign country in respect of a foreign serious offence; and
+
+                     (b)  a property‑tracking document in relation to the offence is reasonably suspected of being located in Australia; and
+
+                     (c)  the foreign country requests the Attorney‑General to obtain the issue of a production order requiring that the document be produced or made available for inspection in accordance with Australian law;
+
+the Attorney‑General may authorise an authorised officer of an enforcement agency to apply to a magistrate of a specified State or Territory for a production order under the Proceeds of Crime Act in respect of the offence for the purpose of obtaining possession of the property‑tracking document.
+
+             (2)  The State or Territory specified must be a State or Territory in which the document is, or some or all of the documents are, reasonably suspected of being located.
+
 ##### <a id="34P"></a>34P  Applying for and making production orders
 
-             (1)  If an authorised officer has been authorised under section 34ZG of this Act in relation to a request by a foreign country, the authorised officer may apply for a production order under the Proceeds of Crime Act in relation to the foreign serious offence that is the subject of the request.
+             (1)  If so authorised, the authorised officer may apply for such a production order against that property in respect of the offence.
 
              (2)  Part 3‑2 of the Proceeds of Crime Act applies to the application, and to any production order made as a result.
 
@@ -2038,19 +1662,21 @@ the court must grant the application if the court is satisfied that:
 
                      (a)  references in that Part to an indictable offence or to a serious offence were references to the foreign serious offence; and
 
+                     (b)  references in that Part to a magistrate were references to a magistrate of the State or Territory specified in the authorised officer’s authorisation under subsection 34N(1); and
+
                      (c)  subparagraphs 202(5)(a)(ii) and (iii) and (c)(ii) and (iii), paragraph 202(5)(e) and subsection 205(1) of that Act were omitted.
 
 ##### <a id="34Q"></a>34Q  Retaining produced documents
 
              (1)  An authorised officer who takes possession of a document under a production order made in respect of a foreign serious offence may retain the document pending a written direction from the Attorney‑General as to how to deal with the document.
 
-             (2)  Directions from the Attorney‑General may include a direction that the document be sent to an authority of the foreign country that requested assistance in respect of the foreign serious offence.
+             (2)  Directions from the Attorney‑General may include a direction that the document be sent to an authority of the foreign country that requested the obtaining of the production order.
 
 #### Subdivision D—Notices to financial institutions
 
 ##### <a id="34R"></a>34R  Giving notices to financial institutions
 
-             (1)  An officer mentioned in paragraph 213(3)(a), (b) or (c) of the Proceeds of Crime Act may give a written notice to a financial institution requiring the institution to provide to an authorised officer any information or documents relevant to any one or more of the following:
+             (1)  The Attorney‑General or a senior Departmental officer may give a written notice to a financial institution requiring the institution to provide to an authorised officer any information or documents relevant to any one or more of the following:
 
                      (a)  determining whether an account is held by a specified person with the financial institution;
 
@@ -2064,11 +1690,15 @@ the court must grant the application if the court is satisfied that:
 
                       (f)  a transaction conducted by the financial institution on behalf of a specified person.
 
-             (2)  The officer must not issue the notice unless he or she reasonably believes that giving the notice is required:
+             (2)  The Attorney‑General or the senior Departmental officer must not issue the notice unless he or she reasonably believes that giving the notice is required:
 
                      (a)  to determine whether to take any action under this Division, or under the Proceeds of Crime Act in connection with the operation of this Division; or
 
                      (b)  in relation to proceedings under this Division, or under the Proceeds of Crime Act in connection with the operation of this Division.
+
+             (3)  In this section:
+
+                    <a name="senior-department-offic"></a>**_senior Departmental officer_** has the same meaning as in the Proceeds of Crime Act.
 
 ##### <a id="34S"></a>34S  Contents of notices to financial institutions
 
@@ -2148,9 +1778,19 @@ Note:          Sections 137.1 and 137.2 of the _Criminal Cod
 
 #### Subdivision E—Monitoring orders relating to foreign serious offences
 
-##### <a id="34Y"></a>34Y  Applying for and making monitoring orders
+##### <a id="34X"></a>34X  Requests for monitoring orders
 
-             (1)  If an authorised officer has been authorised under section 34ZG of this Act in relation to a request by a foreign country, the authorised officer may apply for a monitoring order under the Proceeds of Crime Act in relation to the foreign serious offence that is the subject of the request, so long as the foreign serious offence is:
+             (1)  If:
+
+                     (a)  a criminal proceeding or criminal investigation has commenced in a foreign country in respect of a foreign serious offence referred to in subsection (2); and
+
+                     (b)  information about transactions conducted through an account with a financial institution in Australia is reasonably suspected of being relevant to the proceeding or investigation; and
+
+                     (c)  the foreign country requests the Attorney‑General to obtain the issue of an order directing the financial institution to give information about transactions conducted through the account;
+
+the Attorney‑General may authorise an authorised officer of an enforcement agency to apply to a judge of a specified court for a monitoring order under the Proceeds of Crime Act in respect of the offence for the purpose of obtaining the information requested by the foreign country.
+
+             (2)  These are foreign serious offences to which paragraph (1)(a) applies:
 
                      (a)  an offence punishable by imprisonment for 3 or more years that:
 
@@ -2160,23 +1800,25 @@ Note:          Sections 137.1 and 137.2 of the _Criminal Cod
 
                             (iii)  involves unlawful conduct by a person that causes, or is intended to cause, a benefit to the value of at least $10,000 for that person or another person; or
 
-                            (iv)  involves unlawful conduct by a person that causes, or is intended to cause, a loss to the foreign country in question or another person of at least $10,000; or
+                            (iv)  involves unlawful conduct by a person that causes, or is intended to cause, a loss to the foreign country in question or another person of at least $10,000;
 
-                     (b)  an offence involving the smuggling of migrants; or
+                     (b)  an offence involving the smuggling of migrants;
 
-                     (c)  an offence involving failure to report financial transactions; or
+                     (c)  an offence involving failure to report financial transactions;
 
-                     (d)  a cartel offence; or
+                     (d)  an ancillary offence in respect of an offence referred to in paragraph (a), (b) or (c).
 
-                     (e)  an offence involving terrorism; or
+             (3)  The court specified must be a court of a State or Territory that has jurisdiction to deal with criminal matters on indictment.
 
-                      (f)  an ancillary offence in respect of an offence referred to in paragraph (a), (b), (c), (d) or (e).
+##### <a id="34Y"></a>34Y  Applying for and making monitoring orders
+
+             (1)  If so authorised, the authorised officer may apply for such a monitoring order against that property in respect of the offence.
 
              (2)  Part 3‑4 of the Proceeds of Crime Act applies to the application, and to any monitoring order made as a result.
 
              (3)  It applies as if:
 
-                     (a)  references in that Part to a serious offence were references to an offence of the kind referred to in paragraph (1)(a), (b), (c), (d), (e) or (f); and
+                     (a)  references in that Part to a serious offence were references to an offence of the kind referred to in paragraph 34X(1)(a); and
 
                      (b)  disclosing the existence or the operation of the order for the purpose of complying with a person’s obligations under section 34Z of this Act were a purpose specified in subsection 223(4) of the Proceeds of Crime Act.
 
@@ -2190,15 +1832,37 @@ Note:          Sections 137.1 and 137.2 of the _Criminal Cod
 
 #### Subdivision F—Search warrants relating to foreign serious offences
 
+##### <a id="34ZA"></a>34ZA  Requests for search warrants
+
+             (1)  If:
+
+                     (a)  a criminal proceeding or criminal investigation has commenced in a foreign country in respect of a foreign serious offence; and
+
+                     (b)  proceeds or an instrument of the offence, or a property‑tracking document in relation to the offence, is reasonably suspected of being located in Australia; and
+
+                     (c)  the foreign country requests the Attorney‑General to obtain the issue of a search warrant relating to the proceeds, instrument or document;
+
+the Attorney‑General may authorise an authorised officer of an enforcement agency to apply to a magistrate of a specified State or Territory for a search warrant under the Proceeds of Crime Act in relation to the proceeds, instrument or document.
+
+             (2)  The State or Territory specified must be a State or Territory in which:
+
+                     (a)  the proceeds, or some or all of the proceeds, are reasonably suspected of being located; or
+
+                     (b)  the instrument is, or some or all of the instruments are, reasonably suspected of being located; or
+
+                     (c)  the document is, or some or all of the documents are, reasonably suspected of being located.
+
 ##### <a id="34ZB"></a>34ZB  Applying for and issuing search warrants
 
-             (1)  If an authorised officer has been authorised under section 34ZG of this Act in relation to a request by a foreign country, the authorised officer may apply for a search warrant under the Proceeds of Crime Act in relation to the foreign serious offence that is the subject of the request.
+             (1)  If so authorised, the authorised officer may apply for such a search warrant, in relation to those proceeds, that instrument or that document, in respect of the offence.
 
              (2)  Part 3‑5 of the Proceeds of Crime Act applies to the application, and to any search warrant issued as a result.
 
              (3)  It applies as if:
 
                      (a)  references in that Part to a property‑tracking document were references to a property‑tracking document relating to the offence; and
+
+                     (b)  references in that Part to a magistrate were references to a magistrate of the State or Territory specified in the authorised officer’s authorisation under subsection 34ZA(1); and
 
                      (c)  paragraph 228(1)(d) and sections 256 to 258 of that Act were omitted.
 
@@ -2300,20 +1964,6 @@ Effect of foreign forfeiture orders being registered or obtained
 
              (2)  Directions from the Attorney‑General may include a direction that the document be sent to an authority of the foreign country that requested the issue of the warrant.
 
-#### Subdivision G—Authorisation of authorised officers
-
-##### <a id="34ZG"></a>34ZG  Attorney‑General may authorise authorised officers
-
-                   If:
-
-                     (a)  a proceeding or investigation relating to a criminal matter involving a foreign serious offence has commenced in a foreign country; and
-
-                     (b)  the foreign country requests assistance in relation to the proceeding or investigation; and
-
-                     (c)  such assistance may be obtained under the Proceeds of Crime Act in the form of a production order, search warrant or monitoring order;
-
-then, the Attorney‑General may authorise an authorised officer of an enforcement agency to make any applications under that Act that are necessary to respond to the request by the foreign country.
-
 ### Division 3—Provisions relating to registered foreign restraining orders
 
 ##### <a id="35"></a>35  Court may order Official Trustee to take custody and control of property
@@ -2348,7 +1998,7 @@ then, the Attorney‑General may authorise an authorised officer of an enforceme
 
                      (b)  an order determining any question relating to the property, including a question relating to the liabilities of the owner of the property or the exercise of the powers or the performance of the duties of the Official Trustee in relation to the property;
 
-                     (c)  an order directing the owner to give to the Official Trustee, within a specified period, a statement, verified on oath or affirmation by the owner, setting out such particulars of the property as the court considers appropriate.
+                     (c)  an order directing the owner to give to the Official Trustee, within a specified period, a statement, verified by the oath of the owner, setting out such particulars of the property as the court considers appropriate.
 
 ##### <a id="35C"></a>35C  Dealing with restrained property
 
@@ -2514,7 +2164,7 @@ Note:       The _Personal Property Securities Act 2009_ provides for
 
 ##### <a id="38B"></a>38B  Application for search warrant
 
-             (1)  This section applies if a police officer has been authorised under section 15 to apply for a search warrant in respect of evidential material relating to an investigation or proceeding in a foreign country that relates to a criminal matter involving a serious offence.
+             (1)  This section applies if a police officer has been authorised under subsection 15(1) to apply for a search warrant in respect of evidential material relating to an investigation or proceeding in a foreign country that relates to a criminal matter involving a serious offence.
 
              (2)  If the police officer has reasonable grounds for suspecting that the evidential material:
 
@@ -2522,7 +2172,7 @@ Note:       The _Personal Property Securities Act 2009_ provides for
 
                      (b)  will, within the applicable period, be on any particular premises;
 
-the police officer may, by an information on oath or affirmation setting out the grounds for that suspicion, apply for a warrant to search those premises for the evidential material.
+the police officer may, by an information on oath setting out the grounds for that suspicion, apply for a warrant to search those premises for the evidential material.
 
 Note:          For **_applicable period_** see subsection (4).
 
@@ -2532,7 +2182,7 @@ Note:          For **_applicable period_** see subsection (4
 
                      (b)  will, within the applicable period, be in possession of the evidential material;
 
-the police officer may, by an information on oath or affirmation setting out the grounds for that suspicion, apply for a warrant to search that person for the evidential material.
+the police officer may, by an information on oath setting out the grounds for that suspicion, apply for a warrant to search that person for the evidential material.
 
 Note:          For **_applicable period_** see subsection (4).
 
@@ -2595,8 +2245,6 @@ the police officer must state the particulars, and the outcome, of those applica
                      (c)  issue a warrant in relation to premises or a person in another State or internal Territory (including the Jervis Bay Territory) if the Magistrate is satisfied that there are special circumstances that make the issue of the warrant appropriate; or
 
                      (d)  issue a warrant in relation to a person wherever the person is in Australia or in an external Territory if the Magistrate is satisfied that it is not possible to predict where the person may be.
-
-             (8)  To avoid doubt, subsections (6) and (7) do not apply if the Magistrate is a Federal Magistrate.
 
 ##### <a id="38D"></a>38D  Content of warrants
 
@@ -3082,26 +2730,6 @@ the police officer may, without warrant, arrest the person.
 
 ## Part VIII—Miscellaneous
 
-##### <a id="38ZC"></a>38ZC  Federal Magistrates—consent to nomination
-
-             (1)  A Federal Magistrate may, by writing, consent to be nominated by the Attorney‑General under subsection (2).
-
-             (2)  The Attorney‑General may, by writing, nominate a Federal Magistrate in relation to whom a consent is in force under subsection (1) to be a Magistrate for the purposes of this Act.
-
-             (3)  A nomination under subsection (2) is not a legislative instrument.
-
-##### <a id="38ZD"></a>38ZD  Magistrates—personal capacity
-
-             (1)  A function or power conferred on a Magistrate by this Act is conferred on the Magistrate:
-
-                     (a)  in a personal capacity; and
-
-                     (b)  not as a court or a member of a court.
-
-             (2)  A Magistrate (other than a Federal Magistrate) need not accept a function or power conferred.
-
-             (3)  A Magistrate has, in relation to the performance or exercise of a function or power conferred on the Magistrate by this Act, the same protection and immunity as if he or she were exercising that function or power as, or as a member of, the court of which the Magistrate is a member.
-
 ##### <a id="39"></a>39  Arrangements with Governors of States and Administrator of Norfolk Island
 
              (1)  The Governor‑General may make arrangements with the Governor of a State with respect to the administration of this Act, including arrangements for the performance of the functions of a Magistrate under this Act by a Magistrate of that State.
@@ -3116,7 +2744,7 @@ the police officer may, without warrant, arrest the person.
 
 ##### <a id="39A"></a>39A  Requests by Attorney‑General on behalf of a defendant
 
-             (1)  If a defendant in a proceeding relating to a criminal matter thinks that it is necessary for the purposes of the proceeding that:
+             (1)  If a defendant in a proceeding (**_original proceeding_**) relating to a criminal matter thinks that it is necessary for the purposes of the proceeding that:
 
                      (a)  evidence should be taken in a foreign country; or
 
@@ -3144,7 +2772,7 @@ the defendant may apply to the relevant court (see subsection (1A)) for a cert
 
              (2)  Before making a decision on the application, the court must give an opportunity to:
 
-                     (a)  all parties to the proceeding; and
+                     (a)  all parties to the originalproceeding; and
 
                      (b)  the Attorney‑General;
 
@@ -3156,7 +2784,7 @@ to appear before the court and be heard on the merits of the application.
 
                      (b)  the extent to which the material (whether it is evidence, a document, an article or a thing) that the defendant seeks to obtain from the foreign country would not otherwise be available;
 
-                     (c)  whether the court hearing the proceeding would be likely to admit the material into evidence in the proceeding;
+                     (c)  whether the court hearing the original proceeding would be likely to admit the material into evidence in the proceeding;
 
                      (d)  the likely probative value of the material, if it were admitted into evidence in the proceeding, with respect to any issue likely to be determined in the proceeding;
 
@@ -3200,7 +2828,11 @@ is, for the purpose of any proceedings under this Act,_prima facie_ evidence of 
 
              (1)  In a proceeding under this Act or a proceeding under or pursuant to a proceeds of crime law arising directly or indirectly from a request made under this Act, any document that is duly authenticated is admissible in evidence.
 
-             (2)  A document is duly authenticated for the purposes of subsection (1) if it purports to be signed or certified by a Judge, Magistrate or officer in or of a foreign country.
+             (2)   A document is duly authenticated for the purposes of subsection (1) if:
+
+                     (a)  it purports to be signed or certified by a Judge, Magistrate or officer in or of a foreign country; and
+
+                     (b)  it purports to be sealed with an official or public seal of the foreign country or of a Minister of State, or of a Department or officer of the Government, of the foreign country.
 
              (3)  Nothing in this section prevents the proof of any matter, or the admission in evidence of any document, in accordance with any other law of the Commonwealth or any law of a State or Territory.
 
@@ -3250,18 +2882,6 @@ must not intentionally disclose those contents or that fact except if:
 
 Note:          Under subsection 4D(1) of the _Crimes Act 1914_, this penalty is the maximum penalty for anyoffence under this section. Subsection 4B(2) of that Act allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment.
 
-##### <a id="43D"></a>43D  Collection, use or disclosure of personal information for international assistance purposes—the _Privacy Act 1988_
-
-             (1)  The collection, use or disclosure of personal information about an individual is taken to be authorised by law for the purposes of the _Privacy Act 1988_ if the collection, use or disclosure is reasonably necessary for the purposes of:
-
-                     (a)  the provision, or proposed provision, of international assistance in criminal matters by the Attorney‑General, or an officer of his or her Department, to a foreign country; or
-
-                     (b)  the obtaining, or proposed obtaining, of international assistance in criminal matters by the Attorney‑General, or an officer of his or her Department, from a foreign country.
-
-             (2)  In this section:
-
-                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
-
 ##### <a id="44"></a>44  Regulations
 
                    The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
@@ -3272,9 +2892,9 @@ Note:          Under subsection 4D(1) of the _Crimes Act 1914_
 
 and, in particular:
 
-                     (c)  prescribing the practice and procedure in relation to the performance by Magistrates of functions under this Act, including the summoning of witnesses, the production of documents, the taking of evidence on oath or affirmation, the administering of oaths or affirmations, the payment of expenses and allowances of witnesses and the protection and immunity of barristers and solicitors appearing before Magistrates and of witnesses; and
+                     (c)  prescribing the practice and procedure in relation to the performance by Magistrates of functions under this Act, including the summoning of witnesses, the production of documents, the taking of evidence on oath, the administering of oaths, the payment of expenses and allowances of witnesses and the protection and immunity of Magistrates, of barristers and solicitors appearing before Magistrates and of witnesses; and
 
-                     (d)  prescribing penalties not exceeding 10 penalty units for offences against the regulations.
+                     (d)  prescribing penalties not exceeding a fine of $1,000 for offences against the regulations. 
 
 # Notes to the _Mutual Assistance in Criminal Matters Act 1987_
 
@@ -3290,11 +2910,11 @@ The _Mutual Assistance in Criminal Matters Act 1987_ was modified by the A.C.T. 
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -3732,12 +3352,13 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44
     <div>20 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (items 7–11, 14) and Schedule 3 (items 1–41, 49, 69, 106–168) and Schedule 4 (item 2): 20 Sept 2012 
-Schedule 3 (item 50): <i>(c)</i> 
+    <div>Schedule 1 (items 7–11, 14) and Schedule 3 (items 1–41, 49, 69, 
+106–168): \[ <i>see</i>Note 2 and Table A] 
+Schedule 3 (item 50) and Schedule 4 (item 2): \[ <i>see</i>Note 2] 
 Schedule 4 (item 3): \[ <i>see</i> <i>(c)</i>and Note 2]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 15, 24, 33, 49, 69, 113, 135, 140, 144, 148, 152, 168) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 15, 24, 33, 49, 69, 113, 135, 140, 144, 148, 152, 168) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -3753,7 +3374,7 @@ _(b)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 
          Item 15 commenced on 24 May 2001.
 
-_(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012_ provides as follows:
+_(c)_     Subsection 2(1) (item 13) of the _Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -3820,28 +3441,6 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
       </div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>
-        7\. Schedule 3, item 50
-      </div>
-    </td>
-    <td>
-      <div>
-        At the same time as the provision(s) covered by table item 2.
-      </div>
-      <div>
-        However, if item 2 of Schedule 2 to the
-          <i>Cybercrime Legislation Amendment Act 2012</i>has not commenced before
-          that time, the provision(s) do not commence at all.
-      </div>
-    </td>
-    <td>
-      <div>
-        Does not commence
-      </div>
-    </td>
-  </tr>
 </thead>
 <tr>
   <td>
@@ -3872,8 +3471,8 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -3904,7 +3503,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 66, 1988; No. 164, 1992; No. 40, 1996; No. 22, 2001; No. 86, 2002; No. 174, 2011; No. 7, 2012</div>
+    <div>am. No. 66, 1988; No. 164, 1992; No. 40, 1996; No. 22, 2001; No. 86, 2002; No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3921,14 +3520,6 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
   </td>
   <td>
     <div>rs. No. 40, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3960,7 +3551,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 66, 1988; No. 40, 1996; No. 7, 2012</div>
+    <div>am. No. 66, 1988; No. 40, 1996</div>
   </td>
 </tr>
 <tr>
@@ -3989,50 +3580,10 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12</div>
   </td>
   <td>
     <div>rs. No. 40, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4048,39 +3599,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. Nos. 66 and 120, 1988; No. 40, 1996; No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 13(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 13(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13AA</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13AB</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
+    <div>am. Nos. 66 and 120, 1988; No. 40, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4096,7 +3615,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div></div>
   </td>
   <td>
-    <div>am. No. 40, 2006; No. 7, 2012</div>
+    <div>am. No. 40, 2006</div>
   </td>
 </tr>
 <tr>
@@ -4128,39 +3647,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 40, 1996; No. 127, 2004; No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IIIBA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIIBA</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15C</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15CA</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
+    <div>am. No. 40, 1996; No. 127, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4184,7 +3671,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 40, 1996; No. 7, 2012</div>
+    <div>am. No. 40, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4273,62 +3760,6 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
   </td>
   <td>
     <div>am. No. 66, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IVA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IVA</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28B</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28C</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4464,7 +3895,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div></div>
   </td>
   <td>
-    <div>am. No. 174, 2011; No. 7, 2012</div>
+    <div>am. No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4480,7 +3911,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 83 and 174, 2011; No. 7, 2012</div>
+    <div>am. Nos. 83 and 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4533,26 +3964,10 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 34F</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34F</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4600,7 +4015,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div></div>
   </td>
   <td>
-    <div>am. No. 174, 2011; No. 7, 2012</div>
+    <div>am. No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4616,7 +4031,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div></div>
   </td>
   <td>
-    <div>am. No. 174, 2011; No. 7, 2012</div>
+    <div>am. No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4661,14 +4076,6 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34P</div>
   </td>
   <td>
@@ -4677,26 +4084,10 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34Q</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4713,14 +4104,6 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4781,26 +4164,10 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34Y</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4829,26 +4196,10 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34ZB</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4881,31 +4232,6 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision G</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. G of Div. 2 
-of Part VI</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34ZG</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4970,14 +4296,6 @@ of Part VI</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5222,26 +4540,10 @@ of Part VI</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 38C</div>
   </td>
   <td>
     <div>ad. No. 40, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5486,22 +4788,6 @@ of Part VI</div>
 </tr>
 <tr>
   <td>
-    <div>S. 38ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38ZD</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 39</div>
   </td>
   <td>
@@ -5529,7 +4815,7 @@ of Part VI</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 106, 2009; No. 7, 2012</div>
+    <div>am. No. 106, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5553,7 +4839,7 @@ of Part VI</div>
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 40, 1996; No. 7, 2012</div>
+    <div>am. No. 40, 1996</div>
   </td>
 </tr>
 <tr>
@@ -5587,29 +4873,993 @@ of Part VI</div>
   <td>
     <div>ad. No. 40, 1996</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43D</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
 </tr></table>
 
 ### Note 2
 
 _Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012 (No. 7, 2012)_
 
-The following amendment commences immediately after 10 October 2012:
+The following amendments commence on 20 September 2012 unless proclaimed earlier:
+
+## Schedule 1
+
+## 7  Subsection 3(1)
+
+Insert:
+
+                    <a name="feral-magistr"></a>**_Federal Magistrate_**, other than in section 38ZC, means a Federal Magistrate in relation to whom a consent under subsection 38ZC(1) and a nomination under subsection 38ZC(2) are in force.
+
+## 8  Subsection 3(1) (before paragraph (a) of the definition of _Magistrate_)
+
+Insert:
+
+                    (aa)  except in Division 2 of Part VI—a Federal Magistrate; or
+
+## 9  At the end of section 38C
+
+Add:
+
+             (8)  To avoid doubt, subsections (6) and (7) do not apply if the Magistrate is a Federal Magistrate.
+
+## 10  Before section 39
+
+Insert:
+
+##### <a id="38ZC"></a>38ZC  Federal Magistrates—consent to nomination
+
+             (1)  A Federal Magistrate may, by writing, consent to be nominated by the Attorney‑General under subsection (2).
+
+             (2)  The Attorney‑General may, by writing, nominate a Federal Magistrate in relation to whom a consent is in force under subsection (1) to be a Magistrate for the purposes of this Act.
+
+             (3)  A nomination under subsection (2) is not a legislative instrument.
+
+##### <a id="38ZD"></a>38ZD  Magistrates—personal capacity
+
+             (1)  A function or power conferred on a Magistrate by this Act is conferred on the Magistrate:
+
+                     (a)  in a personal capacity; and
+
+                     (b)  not as a court or a member of a court.
+
+             (2)  A Magistrate (other than a Federal Magistrate) need not accept a function or power conferred.
+
+             (3)  A Magistrate has, in relation to the performance or exercise of a function or power conferred on the Magistrate by this Act, the same protection and immunity as if he or she were exercising that function or power as, or as a member of, the court of which the Magistrate is a member.
+
+## 11  Paragraph 44(c)
+
+Omit “of Magistrates,”.
+
+## 14  After section 43C
+
+Insert:
+
+##### <a id="43D"></a>43D  Collection, use or disclosure of personal information for international assistance purposes—the _Privacy Act 1988_
+
+             (1)  The collection, use or disclosure of personal information about an individual is taken to be authorised by law for the purposes of the _Privacy Act 1988_ if the collection, use or disclosure is reasonably necessary for the purposes of:
+
+                     (a)  the provision, or proposed provision, of international assistance in criminal matters by the Attorney‑General, or an officer of his or her Department, to a foreign country; or
+
+                     (b)  the obtaining, or proposed obtaining, of international assistance in criminal matters by the Attorney‑General, or an officer of his or her Department, from a foreign country.
+
+             (2)  In this section:
+
+                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
+
+## Schedule 3
+
+## 1  Paragraph 8(1)(a)
+
+After “relates to the”, insert “investigation,”.
+
+## 2  Paragraph 8(1)(b)
+
+After “with a view to”, insert “investigating,”.
+
+## 3  After paragraph 8(1)(b)
+
+Insert:
+
+                   (ba)  the request relates to a foreign order in relation to an offence that is, or is by reason of the circumstances in which it is alleged to have been committed or was committed, a political offence; or
+
+## 4  Paragraph 8(1)(c)
+
+After “for the purpose of”, insert “investigating,”.
+
+## 5  Paragraph 8(1)(c)
+
+After “sex,”, insert “sexual orientation,”.
+
+## 6  After paragraph 8(1)(c)
+
+Insert:
+
+                    (ca)  there are substantial grounds for believing that, if the request was granted, the person would be in danger of being subjected to torture; or
+
+## 7  Paragraph 8(1)(d)
+
+After “relates to the”, insert “investigation,”.
+
+## 8  After paragraph 8(1)(d)
+
+Insert:
+
+                   (da)  both of the following subparagraphs are satisfied:
+
+                              (i)  the request relates to a foreign order in relation to an offence;
+
+                             (ii)  an act or omission constituting the offence, had the act or omission occurred in Australia, would have constituted an offence under the military law of Australia but not also under the ordinary criminal law of Australia; or
+
+## 9  Paragraph 8(1)(e)
+
+Omit “Territory; or”, substitute “Territory.”.
+
+## 10  Paragraph 8(1)(f)
+
+Repeal the paragraph.
+
+## 11  Subsection 8(1A)
+
+Repeal the subsection, substitute:
+
+          (1A)  A request by a foreign country for assistance under this Act must be refused if:
+
+                     (a)  the request relates to the investigation, prosecution or punishment of:
+
+                              (i)  a person arrested or detained on suspicion of having committed an offence; or
+
+                             (ii)  a person charged with, or convicted of, an offence; and
+
+                     (b)  the offence is one in respect of which the death penalty may be imposed in the foreign country;
+
+unless the Attorney‑General is of the opinion, having regard to the special circumstances of the case, that the assistance requested should be granted.
+
+## 12  Paragraph 8(2)(a)
+
+After “relates to the”, insert “investigation,”.
+
+## 13  Paragraph 8(2)(a)
+
+After “Australian law”, insert “at the time at which the request was received”.
+
+## 14  Paragraphs 8(2)(b) and (c)
+
+Repeal the paragraphs, substitute:
+
+                     (b)  both of the following subparagraphs are satisfied:
+
+                              (i)  the request relates to a foreign order in relation to an offence;
+
+                             (ii)  an act or omission constituting the offence, had the act or omission occurred in Australia, would not have constituted an offence against Australian law at the time at which the request was received; or
+
+                     (c)  the request relates to the investigation, prosecution or punishment of a person for an offence in a case where:
+
+                              (i)  the person has been acquitted or pardoned by a competent tribunal or authority in the foreign country, or in Australia or another country; or
+
+                             (ii)  the person has undergone the punishment provided by the law of the foreign country, or of Australia or another country;
+
+                            in respect of that offence or of another offence constituted by the same act or omission as that offence; or
+
+## 16  Subsection 3(1)
+
+Insert:
+
+                    <a name="tape-record"></a>**_tape recording_** means audio recording, video recording or recording by other electronic means.
+
+## 17  Before section 12
+
+Insert:
+
+### Division 1—Requests by Australia
+
+## 18  Subparagraphs 12(1)(a)(i) and (ii)
+
+Omit “in accordance with the law of that country”.
+
+## 19  After paragraph 12(1)(a)
+
+Insert:
+
+                    (aa)  if subparagraph (a)(i) applies—to arrange for a tape recording to be made of the evidence to be taken; and
+
+## 20  Paragraph 12(1)(b)
+
+After “evidence”, insert “(and if paragraph (aa) applies, the tape recording or a copy of it)”.
+
+## 21  Subsection 12(3)
+
+Omit “, through a video link, from Australia”, substitute “in person, or through a video link from Australia,”.
+
+## 22  After section 12
+
+Insert:
+
+### Division 2—Requests by foreign countries
+
+## 23  Subsection 13(1)
+
+Repeal the subsection, substitute:
+
+             (1)  This section applies if a foreign country (the **_requesting country_**) requests:
+
+                     (a)  any of the following:
+
+                              (i)  that evidence be taken in Australia;
+
+                             (ii)  that evidence be taken in Australia and a tape recording be made of the evidence taken;
+
+                            (iii)  that evidence be taken in Australia for live transmission by means of video link to a courtroom or other place in the requesting country; or
+
+                     (b)  that documents or other articles in Australia be produced;
+
+for the purposes of a proceeding in relation to a criminal matter in that country or another foreign country (the **_foreign proceeding_**).
+
+          (1A)  The Attorney‑General may, by writing in accordance with the approved form, authorise:
+
+                     (a)  the taking of the evidence and its transmission to the requesting country; or
+
+                     (b)  the production of the documents or other articles and their transmission to the requesting country.
+
+## 25  Subsection 13(2)
+
+Omit all the words before paragraph (b), substitute:
+
+             (2)  If the Attorney‑General gives an authorisation under subsection (1A):
+
+                     (a)  in the case of the taking of evidence—a Magistrate may do all or any of the following:
+
+                              (i)  take evidence on oath or affirmation of the witness appearing before the Magistrate to give evidence in relation to the matter;
+
+                             (ii)  direct that all or part of the proceeding be conducted in private;
+
+                            (iii)  require a person to leave the place in Australia where the giving of evidence is taking place or going to take place;
+
+                            (iv)  prohibit or restrict the publication of evidence given in the proceeding or of the name of a party to, or a witness in, the foreign proceeding;
+
+                             (v)  subject to subsection 13AB(1), require the production of documents or other articles;
+
+                            (vi)  take such action as the Magistrate considers appropriate to facilitate the foreign proceeding;
+
+                           (vii)  perform any other function required by the regulations; or
+
+## 26  Paragraph 13(2)(b)
+
+Omit “subsection (6)”, substitute “subsection 13AB(1)”.
+
+## 27  At the end of subsection 13(2)
+
+Add:
+
+Note 1:       Subparagraph (2)(a)(i)—see also subsection (2C).
+
+Note 2:       Subparagraphs (2)(a)(ii), (iii) and (iv)—see also subsection (2B).
+
+## 28  After subsection 13(2)
+
+Insert:
+
+          (2A)  However, a Magistrate may not make a ruling about the admissibility of evidence in a foreign proceeding.
+
+          (2B)  If a Magistrate is taking evidence for live transmission by means of video link to a courtroom or other place in the requesting country, the Magistrate:
+
+                     (a)  may only exercise the powers mentioned in subparagraphs (2)(a)(ii), (iii) and (iv) at the request of the foreign court; and
+
+                     (b)  may, at the request of the foreign court, assist with the administering by the foreign court of an oath or affirmation; and
+
+                     (c)  may administer an oath or affirmation.
+
+          (2C)  If a Magistrate takes evidence as mentioned in subparagraph (2)(a)(i) but not for live transmission by means of video link to a courtroom, or other place, in the requesting country, the Magistrate must:
+
+                     (a)  if the requesting country requests that a tape recording be made of the evidence taken—cause a tape recording to be made of the evidence, certify that the evidence on the tape recording was taken by the Magistrate and cause the tape recording, or a copy of it, to be sent to the Attorney‑General; and
+
+                     (b)  in any other case—cause the evidence to be put in writing, certify that the evidence was taken by the Magistrate and cause the writing so certified to be sent to the Attorney‑General.
+
+          (2D)  If, in taking evidence as mentioned in paragraph (2)(a), a Magistrate requires the production of documents or other articles under subparagraph (2)(a)(v), the Magistrate must send the documents, or copies of the documents certified by the Magistrate to be true copies, or the other articles, to the Attorney‑General.
+
+## 29  Subsection 13(4A)
+
+Omit “, through a video link, from the requesting country”, substitute “in person, or through a video link from the requesting country,”.
+
+## 30  After subsection 13(4A)
+
+Insert:
+
+          (4B)  For the purposes of Part III of the _Crimes Act 1914_:
+
+                     (a)  the proceeding before the Magistrate is a judicial proceeding; and
+
+                     (b)  evidence taken from a witness on oath or affirmation is testimony given in a judicial proceeding.
+
+## 31  Subsections 13(6) to (10)
+
+Repeal the subsections.
+
+## 32  After section 13
+
+Insert:
+
+##### <a id="13AA"></a>13AA  Enforcement of orders
+
+             (1)  If a Magistrate is conducting a proceeding under subsection 13(2) and makes an order relating to the conduct of the proceeding, the order must be complied with.
+
+             (2)  If the Magistrate is a Federal Magistrate, subject to the Rules of Court made under the _Federal Magistrates Act 1999_, the order may be enforced as if the order were an order of the Federal Magistrates Court.
+
+             (3)  In any other case, subject to the rules of the court of which the Magistrate is a member, the order may be enforced as if the order were an order of that court.
+
+##### <a id="13AB"></a>13AB  Commonwealth and State and Territory laws apply in relation to taking evidence and producing documents etc.
+
+             (1)  Subject to subsection (2), the following laws apply, so far as they are capable of application, for the purposes of a proceeding under section 13 in a State or Territory:
+
+                     (a)  laws of the Commonwealth with respect to the compelling of persons to attend before a Federal Magistrate;
+
+                     (b)  laws of the Commonwealth with respect to giving evidence, answering questions and producing documents or other articles before a Federal Magistrate;
+
+                     (c)  laws of a State or Territory with respect to the compelling of persons to attend before a Magistrate (other than a Federal Magistrate);
+
+                     (d)  laws of that State or Territory with respect to giving evidence, answering questions and producing documents or other articles before a Magistrate (other than a Federal Magistrate).
+
+             (2)  For the purposes of section 13:
+
+                     (a)  the person to whom the proceeding in the requesting country relates is competent but not compellable to give evidence; and
+
+                     (b)  a person who is required to give evidence, or produce documents or other articles, for the purposes of a proceeding in relation to a criminal matter in the requesting country or another foreign country, is not compellable to answer a question, or produce a document or article, that the person is not compellable to answer or produce, as the case may be, in the proceeding in that country.
+
+             (3)  Paragraph (2)(b) does not apply if its application would be inconsistent with a provision of a mutual assistance treaty between Australia and the requesting country concerned.
+
+             (4)  A duly authenticated foreign law immunity certificate is admissible in proceedings under section 13 as prima facie evidence of the matters stated in the certificate.
+
+## 34  Subsection 3(1)
+
+Insert:
+
+                    <a name="intercept-warrant-inform"></a>**_interception warrant information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
+
+## 35  Subsection 3(1)
+
+Insert:
+
+                    <a name="lawfulli-accessed-inform"></a>**_lawfully accessed information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
+
+## 36  Subsection 3(1)
+
+Insert:
+
+                    <a name="lawfulli-intercepted-inform"></a>**_lawfully intercepted information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
+
+## 37  Subsection 3(1)
+
+Insert:
+
+                    <a name="protect-inform"></a>**_protected information_** means information that is protected information within the meaning of paragraph 44(1)(a), (b) or (c) of the _Surveillance Devices Act 2004_.
+
+## 38  Subsection 3(1)
+
+Insert:
+
+                    <a name="store-commun-warrant-inform"></a>**_stored communications warrant information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
+
+## 39  Subsection 13A(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The Attorney‑General may only authorise the provision to the requesting country of material specified in column 1 of the following table if the request relates to a serious offence against the laws of that country specified in column 2 of the table:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="45%">
+  <col width="45%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Offences for which provision of particular material may be authorised</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>material that is or includes protected information</div>
+  </td>
+  <td>
+    <div>a serious offence punishable by a maximum penalty of imprisonment for
+      3 years or more, imprisonment for life or the death penalty</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>material that is or includes lawfully accessed information or stored communications
+      warrant information</div>
+  </td>
+  <td>
+    <div>a serious offence punishable by a maximum penalty of:</div>
+    <div>(a) imprisonment for 3 years or more, imprisonment for life or the death
+      penalty; or</div>
+    <div>(b) a fine of an amount that is at least equivalent to 900 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>material that is or includes lawfully intercepted information or interception
+      warrant information</div>
+  </td>
+  <td>
+    <div>(a) a serious offence punishable by a maximum penalty of imprisonment
+      for 7 years or more, imprisonment for life or the death penalty; or</div>
+    <div>(b) a cartel offence punishable by a maximum penalty of a fine of an amount
+      that is at least equivalent to $10,000,000</div>
+  </td>
+</tr></table>
+
+## 40  Subsection 13A(6) (paragraph (b) of the definition of _material lawfully obtained by an enforcement agency in Australia_)
+
+Omit “prosecution;”, substitute “prosecution.”.
+
+## 41  Subsection 13A(6) (definition of _material lawfully obtained by an enforcement agency in Australia_)
+
+Omit all the words after paragraph (b).
+
+## 106  Subsection 3(1)
+
+Insert:
+
+                    <a name="child"></a>**_child_** has the same meaning as in Part ID of the _Crimes Act 1914_.
+
+## 107  Subsection 3(1)
+
+Insert:
+
+                    <a name="forens-evid"></a>**_forensic evidence_** has the same meaning as in Part ID of the _Crimes Act 1914_.
+
+## 108  Subsection 3(1)
+
+Insert:
+
+                    <a name="forens-materi"></a>**_forensic material_** has the same meaning as in Part ID of the _Crimes Act 1914_.
+
+## 109  Subsection 3(1)
+
+Insert:
+
+                    <a name="forens-procur"></a>**_forensic procedure_** has the same meaning as in Part ID of the _Crimes Act 1914_.
+
+## 110  Subsection 3(1)
+
+Insert:
+
+                    <a name="incap-person"></a>**_incapable person_** has the same meaning as in Part ID of the _Crimes Act 1914_.
+
+## 111  Subsection 3(1)
+
+Insert:
+
+                    <a name="parent"></a>**_parent_** has the same meaning as in the _Crimes Act 1914_.
+
+## 112  After Part IV
+
+Insert:
+
+## Part IVA—Forensic procedures
+
+### Division 1—Requests by Australia
+
+##### <a id="28A"></a>28A  Requests by Australia for forensic procedures
+
+             (1)  If:
+
+                     (a)  a proceeding relating to a criminal matter has commenced in Australia; and
+
+                     (b)  there are reasonable grounds to believe carrying out a forensic procedure on a person in a foreign country may result in evidence relevant to the proceeding;
+
+Australia may request the foreign country to authorise the carrying out of a forensic procedure on the person for the purpose of giving assistance in connection with the proceeding.
+
+             (2)  If:
+
+                     (a)  an investigation relating to a criminal matter has commenced in Australia; and
+
+                     (b)  carrying out a forensic procedure on a person in a foreign country may result in evidence relevant to the investigation;
+
+Australia may request the foreign country to authorise the carrying out of a forensic procedure on the person for the purpose of giving assistance in relation to the investigation.
+
+             (3)  To avoid doubt, Australia may request that a forensic procedure be carried out in the foreign country even if, under Australian law, the forensic procedure could not have been carried out by using processes similar to those used in the foreign country.
+
+             (4)  Subsection (5) applies if:
+
+                     (a)  Australia makes a request under this section; and
+
+                     (b)  the foreign country obtains any thing relevant to the proceeding or investigation by means of a process authorised by the law of that country other than the carrying out (as requested by Australia) of a forensic procedure on a particular person.
+
+             (5)  The thing obtained by the foreign country:
+
+                     (a)  is not inadmissible in evidence in the proceeding; or
+
+                     (b)  is not precluded from being used for the purposes of the investigation;
+
+on the ground alone that it was obtained otherwise than in accordance with the request.
+
+### Division 2—Requests by foreign countries
+
+##### <a id="28B"></a>28B  Requests by foreign countries for forensic procedures
+
+             (1)  If a foreign country requests that a forensic procedure be carried out on a person, the Attorney‑General may authorise a constable to apply, in accordance with Part ID of the _Crimes Act 1914_, to a magistrate for an order for the carrying out of the forensic procedure on the person, so long as, if the person is a suspect within the meaning of subsection 23WA(1) of that Act, the constable is an authorised applicant within the meaning of that subsection.
+
+             (2)  The Attorney‑General must not authorise a constable under subsection (1) unless the Attorney‑General is satisfied of the following matters:
+
+                     (a)  a request has been made by a foreign country that a forensic procedure be carried out on a person;
+
+                     (b)  unless the person is a child or an incapable person—the foreign country has:
+
+                              (i)  started investigating whether the person has committed a foreign serious offence against its laws; or
+
+                             (ii)  started proceedings against the person for a foreign serious offence;
+
+                     (c)  the person is, or is believed to be, in Australia;
+
+                     (d)  the foreign country has given:
+
+                              (i)  appropriate undertakings in relation to the retention, use and destruction of forensic material, or of information obtained from analysis of that forensic material; and
+
+                             (ii)  any other undertakings that the Attorney‑General considers necessary;
+
+                     (e)  unless the person is a child or an incapable person—the person has been given an opportunity to consent to the forensic procedure and has not consented to it;
+
+                      (f)  if the person is a child or an incapable person, the matters specified in subsection (3).
+
+             (3)  If the person is a child or an incapable person, the Attorney‑General must:
+
+                     (a)  be satisfied that either of the following applies:
+
+                              (i)  the consent of the parent or guardian cannot reasonably be obtained or has been withdrawn;
+
+                             (ii)  the parent or guardian is a suspect in relation to the foreign serious offence; and
+
+                     (b)  believe that, having regard to the best interests of the child or incapable person, it is appropriate to make the authorisation.
+
+##### <a id="28C"></a>28C  Providing forensic evidence to foreign countries
+
+             (1)  If:
+
+                     (a)  a foreign country requests that a forensic procedure be carried out on a person; and
+
+                     (b)  the Attorney‑General authorises a constable to make an application of the kind mentioned in subsection 28B(1); and
+
+                     (c)  a forensic procedure is carried out on the person;
+
+the Attorney‑General may direct the constable as to how the forensic evidence is to be provided to the foreign country.
+
+             (2)  A direction by the Attorney‑General under subsection (1) is not a legislative instrument.
+
+## 114  Subsection 3(1)
+
+Insert:
+
+                    <a name="cartel-offenc"></a>**_cartel offence_** means an offence by a corporation involving cartel conduct.
+
+## 115  Subsection 34(1)
+
+Omit “in a specified court”.
+
+## 116  Subsection 34(2)
+
+Omit “that is specified in regulations made for the purposes of this subsection”.
+
+## 117  Subsection 34(2)
+
+Omit “in a specified court”.
+
+## 118  Paragraphs 34(3)(a) and (b)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  made in respect of a foreign serious offence for which a person has been convicted or charged; or
+
+                     (b)  made in respect of the alleged commission of a foreign serious offence (whether or not the identity of the person who committed the offence is known);
+
+## 119  Subsection 34(3)
+
+Omit “in a specified court”.
+
+## 120  Subsection 34(4)
+
+Repeal the subsection.
+
+## 121  Before subsection 34A(1)
+
+Insert:
+
+          (1A)  An application to a court for registration of a foreign order in accordance with an authorisation under this Subdivision must be to a court with proceeds jurisdiction.
+
+## 122  Subsection 34A(1)
+
+After “a court”, insert “with proceeds jurisdiction”.
+
+## 123  Subsection 34F(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If a copy of a sealed or authenticated copy of:
+
+                     (a)  a foreign order; or
+
+                     (b)  an amendment of a foreign order;
+
+is sent by fax, email or other electronic means, the copy is to be regarded, for the purposes of this Act, as the same as the sealed or authenticated copy.
+
+_Note:       The heading to section 34F is replaced by the heading “Copies of foreign orders sent by fax, email or other electronic means”._
+
+## 124  Subsection 34F(2)
+
+Omit “faxed”.
+
+## 125  Subsection 34F(2)
+
+Omit “21”, substitute “45”.
+
+## 126  Subsection 34J(1)
+
+Omit “(1)”.
+
+## 127  Subparagraph 34J(1)(a)(ii)
+
+Repeal the subparagraph, substitute:
+
+                             (ii)  foreign confiscation proceedings have commenced, or there are reasonable grounds to suspect that such proceedings are about to commence, in a foreign country; and
+
+## 128  Subsection 34J(1)
+
+Omit “to a specified court”.
+
+## 129  Subsection 34J(2)
+
+Repeal the subsection.
+
+## 130  Paragraph 34K(3)(b)
+
+Repeal the paragraph.
+
+## 131  Paragraph 34K(3)(c)
+
+Omit “subparagraph 34J(1)(a)(i)”, substitute “subparagraph 34J(a)(i)”.
+
+## 132  Paragraph 34K(3)(d)
+
+Omit “subparagraph 34J(1)(a)(ii)”, substitute “subparagraph 34J(a)(ii)”.
+
+## 133  Subparagraph 34K(3)(d)(i)
+
+Omit “such proceedings”, substitute “foreign confiscation proceedings”.
+
+## 134  Section 34N
+
+Repeal the section.
+
+## 136  Subsection 34P(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If an authorised officer has been authorised under section 34ZG of this Act in relation to a request by a foreign country, the authorised officer may apply for a production order under the Proceeds of Crime Act in relation to the foreign serious offence that is the subject of the request.
+
+## 137  Paragraph 34P(3)(b)
+
+Repeal the paragraph.
+
+## 138  Subsection 34Q(2)
+
+Omit “the obtaining of the production order”, substitute “assistance in respect of the foreign serious offence”.
+
+## 139  Subsection 34R(1)
+
+Omit “The Attorney‑General or a senior Departmental officer”, substitute “An officer mentioned in paragraph 213(3)(a), (b) or (c) of the Proceeds of Crime Act”.
+
+## 141  Subsection 34R(2)
+
+Omit “Attorney‑General or the senior Departmental”.
+
+## 142  Subsection 34R(3)
+
+Repeal the subsection.
+
+## 143  Section 34X
+
+Repeal the section.
+
+## 145  Subsection 34Y(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If an authorised officer has been authorised under section 34ZG of this Act in relation to a request by a foreign country, the authorised officer may apply for a monitoring order under the Proceeds of Crime Act in relation to the foreign serious offence that is the subject of the request, so long as the foreign serious offence is:
+
+                     (a)  an offence punishable by imprisonment for 3 or more years that:
+
+                              (i)  involves unlawful conduct relating to a narcotic substance; or
+
+                             (ii)  is a money laundering offence; or
+
+                            (iii)  involves unlawful conduct by a person that causes, or is intended to cause, a benefit to the value of at least $10,000 for that person or another person; or
+
+                            (iv)  involves unlawful conduct by a person that causes, or is intended to cause, a loss to the foreign country in question or another person of at least $10,000; or
+
+                     (b)  an offence involving the smuggling of migrants; or
+
+                     (c)  an offence involving failure to report financial transactions; or
+
+                     (d)  a cartel offence; or
+
+                     (e)  an offence involving terrorism; or
+
+                      (f)  an ancillary offence in respect of an offence referred to in paragraph (a), (b), (c), (d) or (e).
+
+## 146  Paragraph 34Y(3)(a)
+
+Omit “paragraph 34X(1)(a)”, substitute “paragraph (1)(a), (b), (c), (d), (e) or (f)”.
+
+## 147  Section 34ZA
+
+Repeal the section.
+
+## 149  Subsection 34ZB(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If an authorised officer has been authorised under section 34ZG of this Act in relation to a request by a foreign country, the authorised officer may apply for a search warrant under the Proceeds of Crime Act in relation to the foreign serious offence that is the subject of the request.
+
+## 150  Paragraph 34ZB(3)(b)
+
+Repeal the paragraph.
+
+## 151  At the end of Division 2 of Part VI
+
+Add:
+
+#### Subdivision G—Authorisation of authorised officers
+
+##### <a id="34ZG"></a>34ZG  Attorney‑General may authorise authorised officers
+
+                   If:
+
+                     (a)  a proceeding or investigation relating to a criminal matter involving a foreign serious offence has commenced in a foreign country; and
+
+                     (b)  the foreign country requests assistance in relation to the proceeding or investigation; and
+
+                     (c)  such assistance may be obtained under the Proceeds of Crime Act in the form of a production order, search warrant or monitoring order;
+
+then, the Attorney‑General may authorise an authorised officer of an enforcement agency to make any applications under that Act that are necessary to respond to the request by the foreign country.
+
+## 153  Subsection 3(1) (definition of _serious offence_)
+
+Repeal the definition, substitute:
+
+                    <a name="seriou-offenc"></a>**_serious offence_** means an offence the maximum penalty for which is:
+
+                     (a)  death; or
+
+                     (b)  imprisonment for a period exceeding 12 months; or
+
+                     (c)  a fine exceeding 300 penalty units.
+
+Note 1:       See section 4AA of the _Crimes Act 1914_ for the current value of a penalty unit.
+
+Note 2:       Paragraph (c)—see also subsection (1A) of this section.
+
+## 154  After subsection 3(1)
+
+Insert:
+
+          (1A)  In determining, for the purpose of a request by a foreign country, the Australian dollar equivalent of a fine (whether expressed as an amount or by way of penalty units) or pecuniary penalty (however described) that may be imposed on a person for an offence to which the request relates, the fine or penalty is to be translated to Australian currency:
+
+                     (a)  in relation to a country for which the Australian Tax Office publishes exchange rates—at the daily exchange rate listed on the Australian Tax Office website that applies on the day on which the request is received; and
+
+                     (b)  in relation to any other country—at the exchange rate that applies at the time when the request is received.
+
+## 155  Paragraphs 5(a) and (b)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  to regulate the provision by Australia of international assistance in criminal matters when a request is made by a foreign country in respect of which powers may be exercised under this Act (whether or not in conjunction with other Australian laws); and
+
+## 156  Subsection 15(1)
+
+Omit “(1)”.
+
+## 157  Subsection 15(1)
+
+Omit all the words after “Magistrate”, substitute “for one or more search warrants in respect of the evidential material”.
+
+## 158  Paragraph 16(1)(b)
+
+Omit “the Attorney‑General is of the opinion that”.
+
+## 159  Paragraph 16(2)(b)
+
+Omit “the Attorney‑General is of the opinion that”.
+
+## 160  Paragraph 35B(c)
+
+Omit “by the oath of”, substitute “on oath or affirmation by”.
+
+## 161  Subsection 38B(1)
+
+Omit “subsection 15(1)”, substitute “section 15”.
+
+## 162  Subsections 38B(2) and (3)
+
+After “oath”, insert “or affirmation”.
+
+## 163  Subsection 39A(1)
+
+Omit “(**_original proceeding_**)”.
+
+## 164  Paragraphs 39A(2)(a) and (3)(c)
+
+Omit “original”.
+
+## 165  Subsection 43(2)
+
+Repeal the subsection, substitute:
+
+             (2)  A document is duly authenticated for the purposes of subsection (1) if it purports to be signed or certified by a Judge, Magistrate or officer in or of a foreign country.
+
+## 166  Paragraph 44(c)
+
+Omit “oath, the administering of oaths”, substitute “oath or affirmation, the administering of oaths or affirmations”.
+
+## 167  Paragraph 44(d)
+
+Omit “a fine of $1,000”, substitute “10 penalty units”.
+
+The following amendments commence on 20 September 2012 unless proclaimed earlier. However, the amendments may not commence, _see_ subsection 2(1) (items 7 and 12):
+
+## Schedule 3
+
+## 50  After Part IIIB
+
+Insert:
+
+## Part IIIC—Assistance in relation to use of surveillance devices
+
+##### <a id="15E"></a>15E  Requests by Australia for surveillance devices
+
+             (1)  This section applies if:
+
+                     (a)  an investigation in relation to an offence punishable by a maximum penalty of imprisonment for 3 years or more has commenced in Australia; and
+
+                     (b)  the use of a surveillance device (however described) is reasonably necessary for the purpose of obtaining information relevant to:
+
+                              (i)  the commission of the offence; or
+
+                             (ii)  the identity or location of the offenders.
+
+             (2)  Australia may request an appropriate authority of a foreign country:
+
+                     (a)  to authorise the use of a surveillance device (however described), in accordance with the law of that country, to obtain the information referred to in paragraph (1)(b); and
+
+                     (b)  to arrange for any such information that has been obtained to be sent to Australia.
+
+             (3)  Subsection (4) applies if:
+
+                     (a)  Australia makes a request under this section; and
+
+                     (b)  the foreign country obtains any information referred to in paragraph (1)(b) by means of a process authorised by the law of that country other than the use (as requested by Australia) of a surveillance device.
+
+             (4)  The information obtained by the foreign country:
+
+                     (a)  is not inadmissible in evidence in a proceeding that relates to the investigation; or
+
+                     (b)  is not precluded from being used for the purposes of the investigation;
+
+on the ground alone that it was obtained otherwise than in accordance with the request.
+
+##### <a id="15F"></a>15F  Requests by foreign countries for surveillance devices
+
+             (1)  The Attorney‑General may, in his or her discretion, authorise an eligible law enforcement officer, in writing, to apply for a surveillance device warrant under section 14 of the _Surveillance Devices Act 2004_ if the Attorney‑General is satisfied that:
+
+                     (a)  an investigation, or investigative proceeding, relating to a criminal matter involving an offence against the law of a foreign country (the **_requesting country_**) that is punishable by a maximum penalty of imprisonment for 3 years or more, imprisonment for life or the death penalty has commenced in the requesting country; and
+
+                     (b)  the requesting country requests the Attorney‑General to arrange for the use of a surveillance device; and
+
+                     (c)  the requesting country has given appropriate undertakings in relation to:
+
+                              (i)  ensuring that the information obtained as a result of the use of the surveillance device will only be used for the purpose for which it is communicated to the requesting country; and
+
+                             (ii)  the destruction of a document or other thing containing information obtained as a result of the use of the surveillance device; and
+
+                            (iii)  any other matter the Attorney‑General considers appropriate.
+
+             (2)  In this section:
+
+                    <a name="law-enforc-offic"></a><a name="elig-law-enforc-offic"></a>**_eligible law enforcement officer_** means a person referred to in paragraph (a) or (c) of the definition of **_law enforcement officer_** set out in subsection 6(1) of the _Surveillance Devices Act 2004._
+
+## Schedule 4
+
+## 2  Before Part IV
+
+Insert:
+
+## Part IIIBA—Assistance in relation to use of surveillance devices
+
+##### <a id="15C"></a>15C  Requests by Australia for surveillance devices
+
+             (1)  This section applies if:
+
+                     (a)  an investigation in relation to an offence punishable by a maximum penalty of imprisonment for 3 years or more has commenced in Australia; and
+
+                     (b)  the use of a surveillance device (however described) is reasonably necessary for the purpose of obtaining information relevant to:
+
+                              (i)  the commission of the offence; or
+
+                             (ii)  the identity or location of the offenders.
+
+             (2)  Australia may request an appropriate authority of a foreign country:
+
+                     (a)  to authorise the use of a surveillance device (however described), in accordance with the law of that country, to obtain the information referred to in paragraph (1)(b); and
+
+                     (b)  to arrange for any such information that has been obtained to be sent to Australia.
+
+             (3)  Subsection (4) applies if:
+
+                     (a)  Australia makes a request under this section; and
+
+                     (b)  the foreign country obtains any information referred to in paragraph (1)(b) by means of a process authorised by the law of that country other than the use (as requested by Australia) of a surveillance device.
+
+             (4)  The information obtained by the foreign country:
+
+                     (a)  is not inadmissible in evidence in a proceeding that relates to the investigation; or
+
+                     (b)  is not precluded from being used for the purposes of the investigation;
+
+on the ground alone that it was obtained otherwise than in accordance with the request.
+
+##### <a id="15CA"></a>15CA  Requests by foreign countries for surveillance devices
+
+             (1)  The Attorney‑General may, in his or her discretion, authorise an eligible law enforcement officer, in writing, to apply for a surveillance device warrant under section 14 of the _Surveillance Devices Act 2004_ if the Attorney‑General is satisfied that:
+
+                     (a)  an investigation, or investigative proceeding, relating to a criminal matter involving an offence against the law of a foreign country (the **_requesting country_**) that is punishable by a maximum penalty of imprisonment for 3 years or more, imprisonment for life or the death penalty has commenced in the requesting country; and
+
+                     (b)  the requesting country requests the Attorney‑General to arrange for the use of a surveillance device; and
+
+                     (c)  the requesting country has given appropriate undertakings in relation to:
+
+                              (i)  ensuring that the information obtained as a result of the use of the surveillance device will only be used for the purpose for which it is communicated to the requesting country; and
+
+                             (ii)  the destruction of a document or other thing containing information obtained as a result of the use of the surveillance device; and
+
+                            (iii)  any other matter the Attorney‑General considers appropriate.
+
+             (2)  In this section:
+
+                    <a name="law-enforc-offic"></a><a name="elig-law-enforc-offic"></a>**_eligible law enforcement officer_** means a person referred to in paragraph (a) or (c) of the definition of **_law enforcement officer_** set out in subsection 6(1) of the _Surveillance Devices Act 2004._
+
+                    <a name="proceing"></a><a name="investig-proceing"></a>**_investigative proceeding_** means a proceeding covered by paragraph (a) or (b) of the definition of **_proceeding_**.
+
+The following amendment commences immediately after the commencement of item 2 of Schedule 2 to the _Cybercrime Legislation Amendment Act 2012_(still a Bill). However, the amendment may not commence, _see_ subsection 2(1) (item 13):
 
 ## Schedule 4
 
@@ -5617,7 +5867,7 @@ The following amendment commences immediately after 10 October 2012:
 
 Repeal the definition.
 
-As at 20 September 2012 the amendment is not incorporated in this compilation.
+As at 16 April 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -5679,13 +5929,15 @@ _Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)_
 
 _Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012 (No. 7, 2012)_
 
+The following provisions commence on 20 September 2012 unless proclaimed earlier:
+
 ## Schedule 3
 
 ## 15  Application of amendments made by this Part
 
 The amendments made by this Part apply in relation to a request by a foreign country that is under consideration on or after the commencement of this item, whether the request was made before or after that commencement.
 
-## 24  Saving of existing authorisations
+## 24  Saving of existing authorisations
 
 Despite the amendment of subsection 13(1) of the _Mutual Assistance in Criminal Matters Act 1987_ made by item 23 of this Schedule, authorisations given by the Attorney‑General under that subsection that were in force immediately before the commencement of this item continue in force on and after that commencement as if they had been given by the Attorney‑General under subsection 13(1A) of that Act as inserted by item 23 of this Schedule.
 
