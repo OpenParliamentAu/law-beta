@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00734/Html/76b25c93-cac4-4b90-910d-d90d7ee2928e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00653/Html/a33e23f5-8181-4d17-95eb-334ee00d0820_files/image001.gif)
 
 # Tobacco Advertising Prohibition Act 1992
 
 **Act No. 218 of 1992 as amended**
 
-This compilation was prepared on 4 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 6 September 2012
+ taking into account amendments up to Act No. 5 of 2012
 
 [**Note**: Subsections 17(2)–(5) and Division 3 of Part 3 (sections 23–25) of 
  this Act are not in force, _see_ s. 2(2) and Note 1]
@@ -16,7 +16,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -86,7 +87,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 3—Other regulated conduct**
 
-[23](#23).          Periodicals specified under subsection 17(2) that contain tobacco advertisements not to be imported [_see_ Note 1]
+[23](#23).          Periodicals specified under subsection 17(2) that contain tobacco advertisements not to be imported [_see_ Note 1]
 
 [24](#24).          Defence—importing for private use
 
@@ -116,6 +117,18 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [34A](#34A).       Reports to Parliament
 
+**Part 5—Repeal and amendment of other Acts** 
+
+    **Division 1—Repeal of the Smoking and Tobacco Products Advertisements (Prohibition) Act 1989**
+
+[35](#35).          Repeal
+
+    **Division 2—Amendment of the Broadcasting Services Act 1992**
+
+[36](#36).          Principal Act
+
+[37](#37).          Schedule 2
+
 **Notes** 
 
 ## An Act to limit the exposure of the public to advertisements for smoking and tobacco products, and for related purposes
@@ -144,7 +157,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
              (2)  The object is to improve public health.
 
-##### <a id="4"></a>4  Act extends to external Territories
+##### <a id="4"></a>4  Act extends to external Territories
 
                    This Act extends to all the external Territories.
 
@@ -944,7 +957,7 @@ if, and only if, the Minister is satisfied, having regard to the guidelines in f
 
                      (c)  the individual does not receive any direct or indirect benefit (whether financial or not) for publishing the advertisement.
 
-##### <a id="21"></a>21  Defence—advertising pursuant to pre‑1 April 1992 contracts or arrangements
+##### <a id="21"></a>21  Defence—advertising pursuant to pre‑1 April 1992 contracts or arrangements
 
              (1)  It is a defence to a prosecution of a person for an offence against subsection 15(1), (2) or (3) in respect of the publication of a tobacco advertisement if the person proves that:
 
@@ -992,7 +1005,7 @@ the other person is taken to have published the advertisement under the contract
 
 ### Division 3—Other regulated conduct
 
-##### <a id="23"></a>23  Periodicals specified under subsection 17(2) that contain tobacco advertisements not to be imported [_see_ Note 1]
+##### <a id="23"></a>23  Periodicals specified under subsection 17(2) that contain tobacco advertisements not to be imported [_see_ Note 1]
 
                    A person must not, on or after 1 July 1993, knowingly or recklessly, import into Australia a periodical:
 
@@ -1096,7 +1109,7 @@ the other person is taken to have published the advertisement under the contract
 
 ##### <a id="30"></a>30  Review of decisions
 
-                   Subject to the _Administrative Appeals Tribunal Act 1975_, an application may be made to the Administrative Appeals Tribunal for a review of a decision made under subsection 9(5), 17(2), 18(2) or 18(3).
+                   Subject to the _Administrative Appeals Tribunal Act 1975_, an application may be made to the Administrative Appeals Tribunal for a review of a decision made under subsection 9(5), 17(2), 18(2) or 18(3).
 
 ##### <a id="31"></a>31  Offences by partnerships and unincorporated bodies
 
@@ -1185,6 +1198,32 @@ being an offence that relates to this Act.
              (2)  A person who prepares a report under subsection (1) must give a copy to the Minister.
 
              (3)  The Minister must cause copies of the report to be laid before each House of the Parliament within 15 sitting days of that House after receiving it.
+
+## Part 5—Repeal and amendment of other Acts
+
+### Division 1—Repeal of the Smoking and Tobacco Products Advertisements (Prohibition) Act 1989
+
+##### <a id="35"></a>35  Repeal
+
+                   The _Smoking and Tobacco Products Advertisements (Prohibition) Act 1989_ is repealed.
+
+### Division 2—Amendment of the Broadcasting Services Act 1992
+
+##### <a id="36"></a>36  Principal Act
+
+                   In this Division, **_Principal Act_** means the _Broadcasting Services Act 1992_.
+
+##### <a id="37  "></a>37  Schedule 2
+
+                   Schedule 2 to the Principal Act is amended:
+
+                     (a)  by inserting in subclause 2(1) “(other than paragraphs 7(1)(a), 8(1)(a), 9(1)(a), 10(1)(a) and 11(1)(a))” after “Schedule”;
+
+                     (b)  by inserting in subclause 2(2) “(other than paragraph 9(1)(a))” after “Schedule”;
+
+                     (c)  by omitting paragraphs 7(1)(a), 8(1)(a), 9(1)(a), 10(1)(a) and 11(1)(a) and substituting the following paragraph:
+
+                    “(a)  the licensee will not, in contravention of the _Tobacco Advertising Prohibition Act 1992_, broadcast a tobacco advertisement within the meaning of that Act;”.
 
 # Notes to the _Tobacco Advertising Prohibition Act 1992_
 
@@ -1388,23 +1427,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 16)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 89): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -1804,38 +1826,6 @@ _(c)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
   </td>
   <td>
     <div>ad. No. 135, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 5</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr></table>
 
