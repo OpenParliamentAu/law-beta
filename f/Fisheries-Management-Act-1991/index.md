@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00764/Html/3e1d0f8b-2441-454f-90cb-cc3dbdda5074_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00061/Html/FishMangmtAct1991_WD02_image001.gif)
 
 # Fisheries Management Act 1991
 
 **Act No. 162 of 1991 as amended**
 
-This compilation was prepared on 21 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 12 January 2011
+ taking into account amendments up to Act No. 137 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -72,7 +72,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16A](#16A).       AFMA to meet international fisheries management organisation and Fish Stocks Agreement obligations
 
-[16B](#16B).       Australian‑flagged boats that have previously undermined conservation and management measures
+[16B](#16B).       Australian-flagged boats that have previously undermined conservation and management measures
 
     **Division 2—Plans of management**
 
@@ -176,7 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [42A](#42A).       Fishing concession condition to facilitate boarding
 
-[42B](#42B).       Regulation‑making power for conditions
+[42B](#42B).       Regulation-making power for conditions
 
 [43](#43).          Temporary orders
 
@@ -234,7 +234,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [57L](#57L).        Offence
 
-**Part 5—Co‑operation with States and Northern Territory in management of fisheries** 
+**Part 5—Co-operation with States and Northern Territory in management of fisheries** 
 
     **Division 1—Preliminary**
 
@@ -328,7 +328,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [87](#87).          Officers’ powers at place outside AFZ following pursuit
 
-[87G](#87G).       Officers’ powers: Australian‑flagged boat beyond AFZ
+[87G](#87G).       Officers’ powers: Australian-flagged boat beyond AFZ
 
 [87H](#87H).       Officers’ powers: boat on high seas without nationality
 
@@ -396,19 +396,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 5A—Offences in places beyond the AFZ** 
 
-        **Subdivision A—Australian‑flagged boats beyond the AFZ**
+        **Subdivision A—Australian-flagged boats beyond the AFZ**
 
-[105A](#105A).     Australian‑flagged boat with fish on high seas
+[105A](#105A).     Australian-flagged boat with fish on high seas
 
 [105AA](#105AA).  Person fishing for conserved fish stock on high seas without a concession—strict liability
 
 [105AB](#105AB).  Person fishing for conserved fish stock on high seas without a concession
 
-[105B](#105B).     Australian‑flagged boat on high seas equipped for fishing
+[105B](#105B).     Australian-flagged boat on high seas equipped for fishing
 
-[105C](#105C).     Australian‑flagged boat fishing in foreign waters
+[105C](#105C).     Australian-flagged boat fishing in foreign waters
 
-[105D](#105D).     Authorising foreign officials’ action affecting Australian‑flagged boats
+[105D](#105D).     Authorising foreign officials’ action affecting Australian-flagged boats
 
         **Subdivision B—Using foreign boat to contravene international fisheries management measure**
 
@@ -416,7 +416,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [105EA](#105EA).   Contravention on high seas
 
-[105EB](#105EB).   Attorney‑General’s consent required for prosecution
+[105EB](#105EB).   Attorney-General’s consent required for prosecution
 
 [105F](#105F).      Australian national on foreign boat in foreign waters—strict liability
 
@@ -428,7 +428,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [105I](#105I).       Unauthorised fishing
 
-[105J](#105J).      Attorney‑General’s consent required for prosecution
+[105J](#105J).      Attorney-General’s consent required for prosecution
 
     **Division 5B—Provisions relating to detention of suspected illegal foreign fishers**
 
@@ -522,7 +522,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [111](#111).        Payment by instalments
 
-[112](#112).        Penalty for non‑payment
+[112](#112).        Penalty for non-payment
 
 [113](#113).        Recovery of levy and other amounts
 
@@ -534,7 +534,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [116](#116).        When is levy due?
 
-[117](#117).        Penalty for non‑payment
+[117](#117).        Penalty for non-payment
 
 [118](#118).        Recovery of levy and other amounts
 
@@ -546,7 +546,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [121](#121).        Payment by instalments
 
-[122](#122).        Penalty for non‑payment
+[122](#122).        Penalty for non-payment
 
 [123](#123).        Recovery of charge and other amounts
 
@@ -670,11 +670,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 9—Miscellaneous** 
 
-    **Division 1—Electronic decision‑making**
+    **Division 1—Electronic decision-making**
 
 [163A](#163A).     What this Division is about
 
-[163B](#163B).     Electronic decision‑making
+[163B](#163B).     Electronic decision-making
 
 [163C](#163C).     Replacing an electronic decision
 
@@ -820,7 +820,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34](#34).          Authorised officer may get help to carry out identification tests
 
-[35](#35).          Identification tests to be carried out by authorised officer of same sex as non‑citizen
+[35](#35).          Identification tests to be carried out by authorised officer of same sex as non-citizen
 
 [36](#36).          Independent person to be present
 
@@ -918,9 +918,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  The following objectives must be pursued by the Minister in the administration of this Act and by AFMA in the performance of its functions:
 
-                     (a)  implementing efficient and cost‑effective fisheries management on behalf of the Commonwealth; and
+                     (a)  implementing efficient and cost-effective fisheries management on behalf of the Commonwealth; and
 
-                     (b)  ensuring that the exploitation of fisheries resources and the carrying on of any related activities are conducted in a manner consistent with the principles of ecologically sustainable development (which include the exercise of the precautionary principle), in particular the need to have regard to the impact of fishing activities on non‑target species and the long term sustainability of the marine environment; and
+                     (b)  ensuring that the exploitation of fisheries resources and the carrying on of any related activities are conducted in a manner consistent with the principles of ecologically sustainable development (which include the exercise of the precautionary principle), in particular the need to have regard to the impact of fishing activities on non-target species and the long term sustainability of the marine environment; and
 
                      (c)  maximising the net economic returns to the Australian community from the management of Australian fisheries; and
 
@@ -930,7 +930,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  In addition to the objectives mentioned in subsection (1), or in section 78 of this Act, the Minister, AFMA and Joint Authorities are to have regard to the objectives of:
 
-                     (a)  ensuring, through proper conservation and management measures, that the living resources of the AFZ are not endangered by over‑exploitation; and
+                     (a)  ensuring, through proper conservation and management measures, that the living resources of the AFZ are not endangered by over-exploitation; and
 
                      (b)  achieving the optimum utilisation of the living resources of the AFZ; and
 
@@ -942,7 +942,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  under the Compliance Agreement or any other international agreement;
 
-                            in relation to fishing activities by Australian‑flagged boats on the high seas that are additional to the obligations referred to in paragraph (c)—ensuring that Australia implements those first‑mentioned obligations;
+                            in relation to fishing activities by Australian-flagged boats on the high seas that are additional to the obligations referred to in paragraph (c)—ensuring that Australia implements those first-mentioned obligations;
 
 but must ensure, as far as practicable, that measures adopted in pursuit of those objectives must not be inconsistent with the preservation, conservation and protection of all species of whales.
 
@@ -950,13 +950,13 @@ but must ensure, as far as practicable, that measures adopted in pursuit of thos
 
                    The following principles are **_principles of ecologically sustainable development_**:
 
-                     (a)  decision‑making processes should effectively integrate both long‑term and short‑term economic, environmental, social and equity considerations;
+                     (a)  decision-making processes should effectively integrate both long-term and short-term economic, environmental, social and equity considerations;
 
                      (b)  if there are threats of serious or irreversible environmental damage, lack of full scientific certainty should not be used as a reason for postponing measures to prevent environmental degradation;
 
-                     (c)  the principle of inter‑generational equity—that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
+                     (c)  the principle of inter-generational equity—that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
 
-                     (d)  the conservation of biological diversity and ecological integrity should be a fundamental consideration in decision‑making;
+                     (d)  the conservation of biological diversity and ecological integrity should be a fundamental consideration in decision-making;
 
                      (e)  improved valuation, pricing and incentive mechanisms should be promoted.
 
@@ -980,7 +980,7 @@ but must ensure, as far as practicable, that measures adopted in pursuit of thos
 
                               (i)  the operations of which are based on a place in Australia or an external Territory; and
 
-                             (ii)  that is wholly‑owned by a natural person who is a resident of, or by a company incorporated in, Australia or an external Territory; and
+                             (ii)  that is wholly-owned by a natural person who is a resident of, or by a company incorporated in, Australia or an external Territory; and
 
                             (iii)  that was built in Australia or an external Territory; or
 
@@ -992,7 +992,7 @@ but must ensure, as far as practicable, that measures adopted in pursuit of thos
 
                     <a name="australian-fish-zone"></a>**_Australian fishing zone_** means:
 
-                     (a)  the waters adjacent to Australia within the outer limits of the exclusive economic zone adjacent to the coast of Australia; and
+                     (a)  the waters adjacent to Australia within the outer limits of the exclusive economic zone adjacent to the coast of   Australia; and
 
                      (b)  the waters adjacent to each external territory within the outer limits of the exclusive economic zone adjacent to the coast of the external Territory;
 
@@ -1002,7 +1002,7 @@ but does not include:
 
                      (d)  waters that are excepted waters.
 
-                    <a name="australian-flag-boat"></a>**_Australian‑flagged boat_** means a boat that:
+                    <a name="australian-flag-boat"></a>**_Australian-flagged boat_** means a boat that:
 
                      (a)  is an Australian ship as defined in the _Shipping Registration Act 1981_; or
 
@@ -1148,7 +1148,7 @@ but does not include:
 
                     <a name="fish-right"></a>**_fishing right_** means a statutory fishing right.
 
-                    <a name="fish-vessel-united-state"></a>**_fishing vessel of the United States_** has the same meaning as in the Treaty.
+                    <a name="united-state"></a><a name="fish-vessel"></a>**_fishing vessel of the_****_United States_** has the same meaning as in the Treaty.
 
                     <a name="fish-stock-agreem"></a>**_Fish Stocks Agreement_** means the Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks, a copy of the English text of which is set out in Schedule 2.
 
@@ -1230,7 +1230,7 @@ Note:          The English text of the United Nations Conventi
 
                     <a name="pacif-island-parti"></a>**_Pacific Island party_**, in relation to the Treaty, has the same meaning as in the Treaty.
 
-                    <a name="offic"></a><a name="parti-offic"></a><a name="island"></a><a name="pacif"></a>**_Pacific_****_Island_****_party officer_** means a person (other than a person mentioned in paragraph (a), (b) or (c) of the definition of **_officer_**) who is authorised by or under the law of a Pacific Island party to perform the functions and duties of an observer on Treaty boats.
+                    <a name="offic"></a><a name="parti-offic"></a><a name="island"></a><a name=""></a><a name="pacif"></a>**_Pacific_****_Island_****_party officer_** means a person (other than a person mentioned in paragraph (a), (b) or (c) of the definition of **_officer_**) who is authorised by or under the law of a Pacific Island party to perform the functions and duties of an observer on Treaty boats.
 
                     <a name="panel"></a>**_Panel_** means the Statutory Fishing Rights Allocation Review Panel.
 
@@ -1290,7 +1290,7 @@ Note:          The English text of the United Nations Conventi
 
                     <a name="warrant-premis"></a>**_warrant premises_** means premises in relation to which a warrant is in force.
 
-                    <a name="whale"></a>**_whale_** means any member of the sub‑order _Mysticeti_ or _Odontoceti_ of the order _Cetacea_.
+                    <a name="whale"></a>**_whale_** means any member of the sub-order _Mysticeti_ or _Odontoceti_ of the order _Cetacea_.
 
              (2)  Where:
 
@@ -1356,19 +1356,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="7"></a>7  Application
 
-             (1)  This Act extends to all of the Territories and has extra‑territorial operation.
+             (1)  This Act extends to all of the Territories and has extra-territorial operation.
 
              (2)  In relation to the AFZ and to fishing for sedentary organisms outside the AFZ, this Act applies to all persons, including foreigners, and to all boats, including foreign boats.
 
              (3)  In relation to fishing activities on waters outside the AFZ, this Act applies:
 
-                     (a)  to Australian boats and to Australian‑flagged boats that are not Australian boats; and
+                     (a)  to Australian boats and to Australian-flagged boats that are not Australian boats; and
 
                      (b)  to all persons (including foreigners) on boats to which paragraph (a) applies.
 
 This subsection does not limit subsection (2) or express provisions that extend the application of this Act.
 
-             (4)  Subsections (2) and (3) do not limit the extra‑territorial operation of this Act.
+             (4)  Subsections (2) and (3) do not limit the extra-territorial operation of this Act.
 
 ##### <a id="8"></a>8  Application of Act to areas outside the AFZ
 
@@ -1378,7 +1378,7 @@ This subsection does not limit subsection (2) or express provisions that exten
 
                      (b)  bodies corporate that are incorporated in Australia or carry on activities mainly in Australia; and
 
-                     (c)  Australian boats and Australian‑flagged boats that are not Australian boats; and
+                     (c)  Australian boats and Australian-flagged boats that are not Australian boats; and
 
                      (d)  persons on board boats to which paragraph (c) applies.
 
@@ -1386,7 +1386,7 @@ This subsection does not limit subsection (2) or express provisions that exten
 
              (3)  When a provision of this Act applies in relation to such an area, then, subject to the regulations, references in that provision to the AFZ are to be read as references to that area.
 
-             (4)  This section does not limit the extra‑territorial operation of this Act.
+             (4)  This section does not limit the extra-territorial operation of this Act.
 
 ##### <a id="8A"></a>8A  Regulations may provide for placement of observers on foreign fishing boats operating outside the AFZ
 
@@ -1480,11 +1480,11 @@ it is the Parliament’s intention that the provision is not to have the invalid
 
 ##### <a id="11"></a>11  Excepted waters
 
-                   The Governor‑General may, by Proclamation, declare any waters to be excepted waters for the purposes of this Act.
+                   The Governor-General may, by Proclamation, declare any waters to be excepted waters for the purposes of this Act.
 
 ##### <a id="12"></a>12  Sedentary organisms—Australian continental shelf
 
-             (1)  If the Governor‑General is satisfied that a marine organism of any kind is, for the purposes of international law, part of the living natural resources of the Australian continental shelf because it is, for the purposes of international law, an organism belonging to a sedentary species, the Governor‑General may, by Proclamation, declare the organism to be a sedentary organism to which this Act applies.
+             (1)  If the Governor-General is satisfied that a marine organism of any kind is, for the purposes of international law, part of the living natural resources of the Australian continental shelf because it is, for the purposes of international law, an organism belonging to a sedentary species, the Governor-General may, by Proclamation, declare the organism to be a sedentary organism to which this Act applies.
 
              (2)  Where by this Act (other than Part 5), or the regulations, provision is made in relation to fishing in the AFZ or a fishery, such provision, to the extent that it is capable of doing so, extends by force of this section to fishing for sedentary organisms, in or on any part of the Australian continental shelf not within the AFZ or the fishery as if they were within the AFZ or the fishery.
 
@@ -1540,7 +1540,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (d)  aircraft use relating to the activities described in this definition except for flights in emergencies involving the health or safety of crew members or the safety of a boat; or
 
-                     (e)  transporting, transhipping and processing any driftnet catch, and co‑operation in the provision of food, fuel and other supplies for boats equipped for or engaged in driftnet fishing.
+                     (e)  transporting, transhipping and processing any driftnet catch, and co-operation in the provision of food, fuel and other supplies for boats equipped for or engaged in driftnet fishing.
 
 ##### <a id="14"></a>14  Regulation etc. of certain practices
 
@@ -1556,7 +1556,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  the use of specified fishing equipment; and
 
-                     (c)  the taking, and treatment of, by‑catches, and the making of returns in relation to by‑catches taken; and
+                     (c)  the taking, and treatment of, by-catches, and the making of returns in relation to by-catches taken; and
 
                      (d)  littering at sea.
 
@@ -1616,7 +1616,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 Boat involved in contravening international fisheries management measure
 
-             (1)  AFMA must not authorise under this Part the use of an Australian‑flagged boat for fishing on the high seas for a conserved fish stock during the period specified in subsection (2), if:
+             (1)  AFMA must not authorise under this Part the use of an Australian-flagged boat for fishing on the high seas for a conserved fish stock during the period specified in subsection (2), if:
 
                      (a)  a court has convicted a person of an offence described in subsection (3) involving the use of the boat; and
 
@@ -1654,7 +1654,7 @@ Offences that prevent AFMA authorising use of boat
 
                      (b)  an offence against section 105A involving a fish from a conserved fish stock and a boat;
 
-                   (ba)  an offence against section 105AA or 105AB;
+                    (ba)  an offence against section 105AA or 105AB;
 
                      (c)  an offence against section 105B involving a boat equipped for fishing for a conserved fish stock;
 
@@ -1662,21 +1662,21 @@ Offences that prevent AFMA authorising use of boat
 
                      (e)  an offence against a prescribed provision of this Act or the regulations that is constituted by a prescribed act or omission relating to a conserved fish stock.
 
-##### <a id="16B"></a>16B  Australian‑flagged boats that have previously undermined conservation and management measures
+##### <a id="16B"></a>16B  Australian-flagged boats that have previously undermined conservation and management measures
 
-             (1)  Subject to subsection (5), AFMA must not, under this Part, grant a fishing concession authorising the use for fishing activities on the high seas of an Australian‑flagged boat that was previously registered in a foreign country and authorised by that country for such fishing activities if:
+             (1)  Subject to subsection (5), AFMA must not, under this Part, grant a fishing concession authorising the use for fishing activities on the high seas of an Australian-flagged boat that was previously registered in a foreign country and authorised by that country for such fishing activities if:
 
                      (a)  AFMA believes, on reasonable grounds, that the boat is a boat to which subsection (2) or (3) applies; and
 
                      (b)  subsection (4) does not apply.
 
-             (2)  This subsection applies to an Australian‑flagged boat that was previously registered in a foreign country that is a party to the Compliance Agreement if:
+             (2)  This subsection applies to an Australian-flagged boat that was previously registered in a foreign country that is a party to the Compliance Agreement if:
 
                      (a)  that foreign country has, because the owner or operator of that boat has undermined international conservation and management measures, suspended the authority to use that boat on the high seas for a period and that period has not expired; or
 
                      (b)  that foreign country has, because the owner or operator of that boat has undermined international conservation and management measures, cancelled the authority to use that boat on the high seas and a period of 3 years has not elapsed since that cancellation.
 
-             (3)  This subsection applies to an Australian‑flagged boat that was previously registered in a foreign country that is not a party to the Compliance Agreement if, on the basis of information available to it, AFMA is satisfied that:
+             (3)  This subsection applies to an Australian-flagged boat that was previously registered in a foreign country that is not a party to the Compliance Agreement if, on the basis of information available to it, AFMA is satisfied that:
 
                      (a)  the foreign country has, because the owner or operator of that boat has undermined international conservation and management measures, suspended the authority to use that boat on the high seas for a period and that period has not expired; or
 
@@ -1684,9 +1684,9 @@ Offences that prevent AFMA authorising use of boat
 
              (4)  If the person seeking the grant of a fishing concession authorising the use of a boat to which subsection (2) or (3) applies for fishing activities on the high seas satisfies AFMA that the owner or operator of the boat at the time the authority to use it was suspended or cancelled has no present legal, beneficial or financial interest in, or control of, the boat, AFMA may grant such a fishing concession authorising the use of the boat despite the application of subsection (2) or (3).
 
-             (5)  Despite subsection (1), AFMA may grant a fishing concession authorising the use of an Australian‑flagged boat to which subsection (2) or (3) applies for fishing activities on the high seas if, having regard to the circumstances in which a foreign country’s authorisation for the use of that boat for fishing activities on the high seas was suspended or cancelled, AFMA is satisfied that the grant of that fishing concession will not be likely to undermine international conservation and management measures.
+             (5)  Despite subsection (1), AFMA may grant a fishing concession authorising the use of an Australian-flagged boat to which subsection (2) or (3) applies for fishing activities on the high seas if, having regard to the circumstances in which a foreign country’s authorisation for the use of that boat for fishing activities on the high seas was suspended or cancelled, AFMA is satisfied that the grant of that fishing concession will not be likely to undermine international conservation and management measures.
 
-             (6)  Nothing in this section implies that AFMA may not take other matters into consideration when deciding whether or not to grant a fishing concession authorising the use of an Australian‑flagged boat for fishing activities on the high seas.
+             (6)  Nothing in this section implies that AFMA may not take other matters into consideration when deciding whether or not to grant a fishing concession authorising the use of an Australian-flagged boat for fishing activities on the high seas.
 
 ### Division 2—Plans of management
 
@@ -1696,7 +1696,7 @@ Offences that prevent AFMA authorising use of boat
 
           (1A)  If, in all the circumstances, AFMA is of the view that a plan of management is not warranted for a particular fishery, AFMA may make a determination accordingly, including in the determination its reasons for making the determination. While a determination under this subsection is in force, AFMA is not required to determine a plan of management for a fishery.
 
-       (1AB)  If, at any time after making a determination under subsection (1A) that a plan of management is not warranted for a particular fishery, AFMA ceases to be of the view, AFMA may make a further determination revoking the determination under subsection (1A).
+        (1AB)  If, at any time after making a determination under subsection (1A) that a plan of management is not warranted for a particular fishery, AFMA ceases to be of the view, AFMA may make a further determination revoking the determination under subsection (1A).
 
           (1B)  A determination under subsection (1A) must be notified:
 
@@ -1738,7 +1738,7 @@ Offences that prevent AFMA authorising use of boat
 
        (5AA)  The objectives to be set out under paragraph (5)(a) must be consistent with, but are not limited to, the objectives set out in section 3.
 
-          (5C)  A plan of management for a fishery affecting straddling fish stocks, highly migratory fish stocks or ecologically related fish stocks (within the meaning of the Fish Stocks Agreement) must set out stock‑specific reference points (within the meaning of that Agreement) for the stocks.
+          (5C)  A plan of management for a fishery affecting straddling fish stocks, highly migratory fish stocks or ecologically related fish stocks (within the meaning of the Fish Stocks Agreement) must set out stock-specific reference points (within the meaning of that Agreement) for the stocks.
 
              (6)  Without limiting the operation of subsection (5), a plan of management for a fishery may:
 
@@ -1809,7 +1809,7 @@ Offences that prevent AFMA authorising use of boat
 
                      (a)  the CEO; or
 
-                     (b)  a primary stakeholder who is to assist AFMA to manage the fishery under a co‑management arrangement (within the meaning of the _Fisheries Administration Act 1991_).
+                     (b)  a primary stakeholder who is to assist AFMA to manage the fishery under a co-management arrangement (within the meaning of the _Fisheries Administration Act 1991_).
 
 ##### <a id="17A"></a>17A  Register of persons concerned about plans of management
 
@@ -2023,7 +2023,7 @@ Note:          Sections 42 and 42A also impose conditions on
 
              (5)  AFMA may, by written notice given to the holder of a fishing right, whether or not at the request of the holder, vary or revoke a condition of the fishing right (not being a condition mentioned in subsection (3)) or specify a condition or a further condition to which the fishing right is to be subject.
 
-          (5A)  After the commencement of this subsection and without limiting the generality of subsection (5), if a statutory fishing right authorises an Australian‑flagged boat to fish on the high seas, AFMA may attach a further condition to that right to the effect that another boat may not be substituted for the first‑mentioned boat without AFMA’s prior written agreement to the substitution.
+          (5A)  After the commencement of this subsection and without limiting the generality of subsection (5), if a statutory fishing right authorises an Australian-flagged boat to fish on the high seas, AFMA may attach a further condition to that right to the effect that another boat may not be substituted for the first-mentioned boat without AFMA’s prior written agreement to the substitution.
 
              (6)  A fishing right ceases to be in force if the holder of the fishing right surrenders it by written notice given to AFMA.
 
@@ -2207,7 +2207,7 @@ the following provisions of this section apply.
 
              (2)  If a person holds a statutory fishing rights option in respect of statutory fishing rights under the new plan, the option entitles the person, subject to subsections (3) and (4), to be granted under the new plan, to the extent to which the person exercises the option in accordance with subsection 31D(1), the number of statutory fishing rights of the relevant class worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00764/Html/3e1d0f8b-2441-454f-90cb-cc3dbdda5074_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00061/Html/FishMangmtAct1991_WD02_image002.gif)
 
 where:
 
@@ -2235,7 +2235,7 @@ under the former plan immediately before it was revoked.
 
                      (b)  the new plan applies to a geographical area that consists of or includes the whole or a part of the geographical area to which the former plan applied; and
 
-                     (c)  at least one of the species of fish in respect of which statutory fishing rights are available to be granted under the new plan (except any species that is a by‑catch) was also a species of fish in respect of which statutory fishing rights were granted under the former plan immediately before it was revoked.
+                     (c)  at least one of the species of fish in respect of which statutory fishing rights are available to be granted under the new plan (except any species that is a by-catch) was also a species of fish in respect of which statutory fishing rights were granted under the former plan immediately before it was revoked.
 
              (2)  If a person holds a statutory fishing rights option in respect of statutory fishing rights under the new plan, the option entitles the person to be granted such number of such classes of statutory fishing rights under the new plan as AFMA determines to be fair and equitable having particular regard to the number and classes of statutory fishing rights:
 
@@ -2323,7 +2323,7 @@ under the former plan immediately before it was revoked.
 
                      (a)  the assignee is taken to hold a new statutory fishing rights option in respect of the statutory fishing rights assigned to the assignee; and
 
-                     (b)  the assignor continues to hold the first‑mentioned option in respect of such of the statutory fishing rights as have not been assigned.
+                     (b)  the assignor continues to hold the first-mentioned option in respect of such of the statutory fishing rights as have not been assigned.
 
              (7)  AFMA may only refuse to register a dealing if the registration of the dealing would be contrary to the requirements of the new plan or a condition of statutory fishing rights in respect of which the option is held.
 
@@ -2403,7 +2403,7 @@ AFMA must not register the dealing unless:
 
 ##### <a id="31L"></a>31L  Administrative provisions
 
-                   Sections 52 to 57 apply to the Register of Statutory Fishing Rights Options and documents subject to inspection under this Division in the same way as those sections apply to the Register of Statutory Fishing Rights and documents subject to inspection under Part 4.
+                   Sections 52 to 57 apply to the Register of Statutory Fishing Rights Options and documents subject to inspection under this Division in the same way as those sections apply to the Register of Statutory Fishing Rights and documents subject to inspection under Part 4.
 
 ### Division 5—Fishing permits
 
@@ -2419,7 +2419,7 @@ AFMA must not register the dealing unless:
 
           (1B)  Subject to subsections (1C) and (1D), if no Australian boat is specified in the permit, the permit authorises the use as mentioned in subsection (1) of such Australian boat (if any) as the person to whom the permit is granted, from time to time, by written notice given to AFMA, nominates for the purposes of the permit.
 
-       (1BA)  After the commencement of this subsection, a boat may be nominated under subsection (1A) or (1B) only if:
+        (1BA)  After the commencement of this subsection, a boat may be nominated under subsection (1A) or (1B) only if:
 
                      (a)  either:
 
@@ -2433,7 +2433,7 @@ AFMA must not register the dealing unless:
 
                              (ii)  the regulations; and
 
-                     (c)  for the purposes of a permit to fish in a specified fishery on the high seas—the boat is an Australian‑flagged boat.
+                     (c)  for the purposes of a permit to fish in a specified fishery on the high seas—the boat is an Australian-flagged boat.
 
           (1C)  The permit does not authorise the use of an Australian boat unless the boat complies with any conditions to which the permit is subject.
 
@@ -2537,7 +2537,7 @@ it is a condition of the permit that the holder of the permit comply with the te
 
              (5)  Subsection (4) applies despite the fact that a requirement in a plan of management relating to the transfer has not been satisfied.
 
-             (6)  This section does not apply to a fishing permit that is stated to be non‑transferable.
+             (6)  This section does not apply to a fishing permit that is stated to be non-transferable.
 
 ### Division 6—Scientific permits
 
@@ -2767,7 +2767,7 @@ Note:          Section 98 authorises a court in certain circ
 
 Note:          Section 98 authorises a court in certain circumstances to cancel a fishing concession.
 
-             (2)  If a fishing concession authorises the use of an Australian‑flagged boat for fishing activities in waters wholly or partly beyond the AFZ—the concession is taken, by force of this subsection, to have been cancelled if the boat ceases to be an Australian‑flagged boat.
+             (2)  If a fishing concession authorises the use of an Australian-flagged boat for fishing activities in waters wholly or partly beyond the AFZ—the concession is taken, by force of this subsection, to have been cancelled if the boat ceases to be an Australian-flagged boat.
 
 ### Division 9—Foreign master fishing licences
 
@@ -2815,14 +2815,14 @@ it is a condition of the licence that the holder of the licence comply with the 
 
              (7)  A licence under this section is to be in the approved form.
 
-             (8)  AFMA may, by written notice given to the holder of a licence, cancel the licence if the holder of the licence is convicted of an offence against this Act, the regulations or any other law of the Commonwealth relating to fishing or against a law of New Zealand, Papua New Guinea or a State or Territory relating to fishing.
+             (8)  AFMA may, by written notice given to the holder of a licence, cancel the licence if the holder of the licence is convicted of an offence against this Act, the regulations or any other law of the Commonwealth relating to fishing or against a law of New Zealand, Papua New   Guinea or a State or Territory relating to fishing.
 
 ### Division 10—Miscellaneous
 
 ##### <a id="41"></a>41  Authority to extend to tender boats
 
                    Where the use by a person of a specified boat is authorised by a fishing concession or scientific permit, the authority to use that boat extends to the use of any tender boat carried by the
- first‑mentioned boat.
+ first-mentioned boat.
 
 ##### <a id="41A"></a>41A  AFMA may give directions in relation to closure or partial closure of fishery
 
@@ -2848,7 +2848,7 @@ AFMA may direct that fishing not be engaged in any part of the fishery, or in a 
 
                      (a)  the CEO; or
 
-                     (b)  a primary stakeholder who is to assist AFMA to manage the fishery under a co‑management arrangement (within the meaning of the _Fisheries Administration Act 1991_).
+                     (b)  a primary stakeholder who is to assist AFMA to manage the fishery under a co-management arrangement (within the meaning of the _Fisheries Administration Act 1991_).
 
              (3)  AFMA may, at any time, by a further direction in writing, vary or revoke a direction given under subsection (2).
 
@@ -2894,15 +2894,15 @@ AFMA may direct that fishing not be engaged in any part of the fishery, or in a 
 
 ##### <a id="42A"></a>42A  Fishing concession condition to facilitate boarding
 
-                   It is a condition of a fishing concession, or scientific permit, authorising the use of an Australian‑flagged boat outside the AFZ that the master of the boat:
+                   It is a condition of a fishing concession, or scientific permit, authorising the use of an Australian-flagged boat outside the AFZ that the master of the boat:
 
                      (a)  facilitate boarding of the boat; and
 
-                     (b)  co‑operate with inspection of the boat;
+                     (b)  co-operate with inspection of the boat;
 
 by officials of a foreign country acting in accordance with the Fish Stocks Agreement or a measure established by an international fisheries management organisation.
 
-##### <a id="42B"></a>42B  Regulation‑making power for conditions
+##### <a id="42B"></a>42B  Regulation-making power for conditions
 
              (1)  The regulations may prescribe conditions that apply to fishing concessions or foreign master fishing licences.
 
@@ -2958,7 +2958,7 @@ whichever is soonest.
 
              (5)  Subject to subsections (6) and (7), AFMA must not make an order the same in substance as a previous order within 6 months after the previous order has ceased to have effect.
 
-             (6)  While an order is in force, AFMA may make one, and only one, further order the same in substance as the first‑mentioned order.
+             (6)  While an order is in force, AFMA may make one, and only one, further order the same in substance as the first-mentioned order.
 
              (7)  Nothing in subsections (5) and (6) prevents AFMA from making a further order the same in substance as a previous order to deal with a different emergency.
 
@@ -3083,7 +3083,7 @@ AFMA must not register the dealing unless:
 
                      (d)  other circumstances that are prescribed under the regulations exist.
 
-          (4E)  Subsection (4D) applies despite the fact that any requirement in a plan of management relating to the lease, or transfer, has not been satisfied.
+           (4E)  Subsection (4D) applies despite the fact that any requirement in a plan of management relating to the lease, or transfer, has not been satisfied.
 
              (5)  If a dealing is registered:
 
@@ -3139,7 +3139,7 @@ AFMA must give the person written notification of what it has done.
 
              (1)  The Register and all instruments and documents subject to inspection under this Part must be available for inspection, in accordance with the regulations and upon payment of the prescribed fee, by any person during the hours that AFMA is open for business.
 
-             (2)  If the Register is kept wholly or partly by use of a computer, subsection (1) is taken to be complied with, to the extent that the Register is so kept, by giving members of the public access to a computer terminal that they can use to inspect the Register, either on a screen or in the form of a computer print‑out.
+             (2)  If the Register is kept wholly or partly by use of a computer, subsection (1) is taken to be complied with, to the extent that the Register is so kept, by giving members of the public access to a computer terminal that they can use to inspect the Register, either on a screen or in the form of a computer print-out.
 
 ##### <a id="53"></a>53  Evidentiary provisions
 
@@ -3191,7 +3191,7 @@ may apply to a prescribed court for an order to rectify the Register.
 
              (6)  In this section:
 
-                    <a name="prescrib-court"></a>**_prescribed court_** means the Federal Court of Australia, the Supreme Court of a State, the Supreme Court of the Australian Capital Territory, the Supreme Court of the Northern Territory or the Supreme Court of Norfolk Island.
+                    <a name="prescrib-court"></a>**_prescribed court_** means the Federal Court of Australia, the Supreme Court of a State, the Supreme Court of the Australian   Capital Territory, the Supreme Court of the Northern Territory or the Supreme Court of Norfolk Island.
 
 ##### <a id="55"></a>55  Correction of clerical errors etc. in Register
 
@@ -3213,7 +3213,7 @@ may apply to a prescribed court for an order to rectify the Register.
 
                              (ii)  a copy of or extract from an entry in the Register.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -3223,7 +3223,7 @@ Note 2:       Subsections 137.1(1) and 137.2(1) of the _Criminal Cod
 
 ##### <a id="57A"></a>57A  The High Seas Register
 
-             (1)  AFMA must establish and must maintain a separate register, to be called the High Seas Register, containing particulars of all Australian‑flagged boats that are authorised from time to time to engage in fishing activities on the high seas.
+             (1)  AFMA must establish and must maintain a separate register, to be called the High Seas Register, containing particulars of all Australian-flagged boats that are authorised from time to time to engage in fishing activities on the high seas.
 
              (2)  The Register may be kept wholly or partly by use of a computer.
 
@@ -3239,13 +3239,13 @@ Note 2:       Subsections 137.1(1) and 137.2(1) of the _Criminal Cod
 
              (1)  AFMA must include in the Register:
 
-                     (a)  the identifying particulars of each Australian‑flagged boat that is authorised by a fishing concession to be used for fishing activities on the high seas; and
+                     (a)  the identifying particulars of each Australian-flagged boat that is authorised by a fishing concession to be used for fishing activities on the high seas; and
 
                      (b)  the name and address of the owner or owners of the boat; and
 
                      (c)  the nature of the fishing concession, how it covers fishing activities on the high seas and the period for which it is granted.
 
-             (2)  For the purposes of paragraph (1)(a), the identifying particulars of an Australian‑flagged boat are:
+             (2)  For the purposes of paragraph (1)(a), the identifying particulars of an Australian-flagged boat are:
 
                      (a)  its name and any previous name or names (if known to AFMA); and
 
@@ -3265,9 +3265,9 @@ Note 2:       Subsections 137.1(1) and 137.2(1) of the _Criminal Cod
 
                       (i)  such other particulars (if any) as are prescribed.
 
-             (3)  Subject to subsections (4) and (5), if any of the particulars required to be recorded under subsection (1) or (2) in relation to an Australian‑flagged boat changes, AFMA must, as soon as it becomes aware of that change, alter the Register to record that change.
+             (3)  Subject to subsections (4) and (5), if any of the particulars required to be recorded under subsection (1) or (2) in relation to an Australian-flagged boat changes, AFMA must, as soon as it becomes aware of that change, alter the Register to record that change.
 
-             (4)  If, in relation to an Australian‑flagged boat that is included in the Register:
+             (4)  If, in relation to an Australian-flagged boat that is included in the Register:
 
                      (a)  the fishing concession covering that boat is suspended or the suspension is revoked; or
 
@@ -3277,9 +3277,9 @@ AFMA must record in the Register the fact of that suspension, revocation, cancel
 
              (5)  If, because of a decision made by AFMA, a Joint Authority, the Administrative Appeals Tribunal or a court, a record made by AFMA under subsection (4) is no longer correct, AFMA must rectify the Register accordingly.
 
-             (6)  If an Australian‑flagged boat that is included in the Register:
+             (6)  If an Australian-flagged boat that is included in the Register:
 
-                     (a)  ceases to be an Australian‑flagged boat; or
+                     (a)  ceases to be an Australian-flagged boat; or
 
                      (b)  is decommissioned or lost;
 
@@ -3301,9 +3301,9 @@ AFMA must record that fact in the Register.
 
                             notify the FAO of that addition, change, record or rectification and of the reason for it.
 
-             (2)  If the reason for suspending or cancelling a fishing concession authorising the use of an Australian‑flagged boat for fishing activities on the high seas is that AFMA is satisfied that the boat has been used in any activities that undermine international conservation and management measures—the notification to the FAO must specify particulars of the activities giving rise to AFMA’s action.
+             (2)  If the reason for suspending or cancelling a fishing concession authorising the use of an Australian-flagged boat for fishing activities on the high seas is that AFMA is satisfied that the boat has been used in any activities that undermine international conservation and management measures—the notification to the FAO must specify particulars of the activities giving rise to AFMA’s action.
 
-             (3)  If AFMA grants a fishing concession authorising the use of an Australian‑flagged boat to fish on the high seas in the circumstances set out in subsection 16B(5), AFMA must notify the FAO:
+             (3)  If AFMA grants a fishing concession authorising the use of an Australian-flagged boat to fish on the high seas in the circumstances set out in subsection 16B(5), AFMA must notify the FAO:
 
                      (a)  of the fact that the concession has been granted, despite the prior suspension or cancellation of an authority granted by a foreign country; and
 
@@ -3321,7 +3321,7 @@ AFMA must record that fact in the Register.
 
              (1)  The High Seas Register must be available for inspection in accordance with the regulations and on payment of the prescribed fee by any person during the hours that AFMA is open for business.
 
-             (2)  If the High Seas Register is kept wholly or partly by use of a computer, subsection (1) is taken to have been complied with, to the extent that the Register is so kept, by giving members of the public access to a computer terminal so that they can inspect the Register, either on a screen or in the form of a computer print‑out.
+             (2)  If the High Seas Register is kept wholly or partly by use of a computer, subsection (1) is taken to have been complied with, to the extent that the Register is so kept, by giving members of the public access to a computer terminal so that they can inspect the Register, either on a screen or in the form of a computer print-out.
 
 ##### <a id="57E"></a>57E  Application of sections 53 to 56
 
@@ -3339,7 +3339,7 @@ AFMA must record that fact in the Register.
 
                              (ii)  a copy of or extract from an entry in the High Seas Register.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -3391,7 +3391,7 @@ AFMA must record in the Fishing Permits Register the fact of that suspension, re
 
              (1)  The Fishing Permits Register must be available for inspection in accordance with the regulations and on payment of the prescribed fee by any person during the hours that AFMA is open for business.
 
-             (2)  If the Fishing Permits Register is kept wholly or partly by use of a computer, subsection (1) is taken to have been complied with, to the extent that the Register is so kept, by giving members of the public access to a computer terminal so that they can inspect the Register, either on a screen or in the form of a computer print‑out.
+             (2)  If the Fishing Permits Register is kept wholly or partly by use of a computer, subsection (1) is taken to have been complied with, to the extent that the Register is so kept, by giving members of the public access to a computer terminal so that they can inspect the Register, either on a screen or in the form of a computer print-out.
 
 ##### <a id="57K"></a>57K  Application of sections 53 to 56
 
@@ -3409,13 +3409,13 @@ AFMA must record in the Fishing Permits Register the fact of that suspension, re
 
                              (ii)  a copy of or extract from an entry in the Fishing Permits Register.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 Note 2:       Subsections 137.1(1) and 137.2(1) of the _Criminal Code_ create offences for the provision of false or misleading documents or information in purported compliance with Commonwealth legislation.
 
-## Part 5—Co‑operation with States and Northern Territory in management of fisheries
+## Part 5—Co-operation with States and Northern Territory in management of fisheries
 
 ### Division 1—Preliminary
 
@@ -3433,7 +3433,7 @@ Note 2:       Subsections 137.1(1) and 137.2(1) of the _Criminal Cod
 
 ##### <a id="59"></a>59  Application of Part in relation to Northern Territory
 
-             (1)  This Part has effect as if the Northern Territory were a State.
+             (1)  This Part has effect as if the Northern   Territory were a State.
 
              (2)  A reference in this Part to the Governor of a State is to be read, in relation to the Northern Territory, as a reference to the Administrator of the Territory.
 
@@ -3449,7 +3449,7 @@ Note 2:       Subsections 137.1(1) and 137.2(1) of the _Criminal Cod
 
              (1)  The Commonwealth may make an arrangement with a State or States for the establishment of a Joint Authority consisting of the Commonwealth Minister together with the appropriate Minister or Ministers of that State or those States.
 
-             (2)  Each arrangement is to be made by instrument approved by the Governor‑General and the Governor or Governors of the State or States represented on the Joint Authority.
+             (2)  Each arrangement is to be made by instrument approved by the Governor-General and the Governor or Governors of the State or States represented on the Joint Authority.
 
              (3)  A Joint Authority may be abolished by a further such instrument, but such an instrument does not take effect while there is in operation an arrangement under Division 3 providing that the Joint Authority is to have the management of a particular fishery.
 
@@ -3785,7 +3785,7 @@ to be an officer for the purposes of this Act.
 
                               (i)  require the master to stop the boat at such a place to allow the officer to board it; and
 
-                             (ii)  if the master does not stop the boat as required and the boat is not an Australian‑flagged boat, use any reasonable means consistent with international law to stop the boat (including firing at or into the boat after firing a warning shot, and using a device to prevent or impede use of the system for propelling the boat); and
+                             (ii)  if the master does not stop the boat as required and the boat is not an Australian-flagged boat, use any reasonable means consistent with international law to stop the boat (including firing at or into the boat after firing a warning shot, and using a device to prevent or impede use of the system for propelling the boat); and
 
                      (a)  board a boat in the AFZ or in Australia or an external Territory or a boat that the officer has reasonable grounds to believe has been used, is being used, or is intended to be used, for fishing in the AFZ and may:
 
@@ -3849,7 +3849,7 @@ to be an officer for the purposes of this Act.
 
                             (iii)  fish; and
 
-                   (gb)  seize all or any of the following that are forfeited to the Commonwealth under section 106AA or that the officer has reasonable grounds to believe are forfeited under that section:
+                    (gb)  seize all or any of the following that are forfeited to the Commonwealth under section 106AA or that the officer has reasonable grounds to believe are forfeited under that section:
 
                               (i)  a net, trap or other equipment;
 
@@ -3857,7 +3857,7 @@ to be an officer for the purposes of this Act.
 
                     (gc)  seize any fish that are the property of the Commonwealth because of the operation of section 106AC or that the officer has reasonable grounds to believe are the property of the Commonwealth because of the operation of that section; and
 
-                   (gd)  seize anything:
+                    (gd)  seize anything:
 
                               (i)  that is on, in or attached to a boat and that forms part of the boat; and
 
@@ -3916,7 +3916,7 @@ Note:          Schedule 1A gives officers powers relating to
 
                      (b)  the obtaining of a warrant under section 85 or 86 authorising the exercise of those powers.
 
-       (1AB)  If:
+        (1AB)  If:
 
                      (a)  the owner or person in charge of a vehicle or aircraft referred to in subsection (1AA) refuses to consent to the exercise by an officer of powers under paragraph (1)(e); and
 
@@ -3950,7 +3950,7 @@ Note:          Subdivision C of Division 6 deals with notice
 
                      (b)  the boat had to travel on the high seas to reach the place.
 
-       (1BA)  If there is a restraint on the liberty of a person on a boat resulting from an officer’s exercise of a power under paragraph (1)(g), (k), (l) or (m) (applying of its own force or because of another provision of this Act) in relation to a boat:
+        (1BA)  If there is a restraint on the liberty of a person on a boat resulting from an officer’s exercise of a power under paragraph (1)(g), (k), (l) or (m) (applying of its own force or because of another provision of this Act) in relation to a boat:
 
                      (a)  the restraint is not unlawful; and
 
@@ -4174,7 +4174,7 @@ if the executing officer or a person helping believes on reasonable grounds that
 
                      (b)  paragraph (3)(e) referred to 48 hours rather than 7 days.
 
-             (7)  A magistrate in New South Wales or the Australian Capital Territory may issue a warrant in relation to premises in the Jervis Bay Territory.
+             (7)  A magistrate in New South Wales or the Australian   Capital Territory may issue a warrant in relation to premises in the Jervis Bay  Territory.
 
              (8)  A magistrate in a State or internal Territory may:
 
@@ -4472,13 +4472,13 @@ Foreign boat outside AFZ supporting foreign boat in AFZ
 
              (7)  Paragraph 84(1)(a) applies, for the purposes of subsection (1), in relation to a support boat to which subsection (1B) or (1C) applies, as if the support boat were in the AFZ.
 
-##### <a id="87G"></a>87G  Officers’ powers: Australian‑flagged boat beyond AFZ
+##### <a id="87G"></a>87G  Officers’ powers: Australian-flagged boat beyond AFZ
 
-             (1)  Section 84 applies in relation to an Australian‑flagged boat that is outside the AFZ (and the master of the boat, a person on the boat and a thing on the boat) in the same way as that section applies to a boat that is in the AFZ, Australia or an external Territory (and the master of the boat, a person on the boat and a thing on the boat).
+             (1)  Section 84 applies in relation to an Australian-flagged boat that is outside the AFZ (and the master of the boat, a person on the boat and a thing on the boat) in the same way as that section applies to a boat that is in the AFZ, Australia or an external Territory (and the master of the boat, a person on the boat and a thing on the boat).
 
              (2)  This section does not limit:
 
-                     (a)  the extra‑territorial operation that section 84 has apart from this section; or
+                     (a)  the extra-territorial operation that section 84 has apart from this section; or
 
                      (b)  section 87.
 
@@ -4590,11 +4590,11 @@ Regulations may prescribe procedural requirements
 
                      (c)  boats covered by the Fish Stocks Agreement.
 
-Extra‑territorial operation of Act
+Extra-territorial operation of Act
 
              (7)  This section does not limit:
 
-                     (a)  the extra‑territorial operation that section 84 has apart from this section; or
+                     (a)  the extra-territorial operation that section 84 has apart from this section; or
 
                      (b)  section 87.
 
@@ -4887,7 +4887,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  under regulations made for the relevant fishery; or
 
-                     (c)  in relation to a by‑catch under regulations made for the purposes of paragraph 14(2)(c).
+                     (c)  in relation to a by-catch under regulations made for the purposes of paragraph 14(2)(c).
 
              (2)  A person who contravenes paragraph (1)(a) or (b) with the use of, or in relation to, a foreign boat or in relation to a foreign fishing licence is guilty of an offence punishable on conviction by a fine not exceeding 500 penalty units.
 
@@ -4911,7 +4911,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="97"></a>97  Persons not to receive fish in certain circumstances
 
-             (1)  A person who is not the holder of a fish receiver permit that is in force must not, otherwise than for the person’s private or domestic use, receive fish from a person whom the first‑mentioned person knows, or has reason to suspect, to be engaged in fishing in a fishery in relation to which a declaration under subsection 91(1) is in force.
+             (1)  A person who is not the holder of a fish receiver permit that is in force must not, otherwise than for the person’s private or domestic use, receive fish from a person whom the first-mentioned person knows, or has reason to suspect, to be engaged in fishing in a fishery in relation to which a declaration under subsection 91(1) is in force.
 
                     Penalty:  125 penalty units.
 
@@ -4921,11 +4921,11 @@ Note:          For strict liability, see section 6.1 of the 
 
              (1)  Where a court convicts a person of an offence arising out of a contravention of paragraph 95(1)(d), (e) or (f), the court may, in addition to imposing a penalty in respect of that offence, order that the person must not, during such period as the court determines, be on a boat in the AFZ with the intention of engaging in commercial fishing.
 
-          (1A)  A court may order a person (including a foreigner) not to be on any Australian‑flagged boat outside the AFZ for the purposes of commercial fishing during a period specified by the court if the court convicted the person of an offence:
+          (1A)  A court may order a person (including a foreigner) not to be on any Australian-flagged boat outside the AFZ for the purposes of commercial fishing during a period specified by the court if the court convicted the person of an offence:
 
-                     (a)  involving an Australian‑flagged boat and a contravention of paragraph 95(1)(d), (e) or (f); or
+                     (a)  involving an Australian-flagged boat and a contravention of paragraph 95(1)(d), (e) or (f); or
 
-                     (b)  against section 105A, 105AA, 105AB, 105B or 105C (which deal with an Australian‑flagged boat beyond the AFZ); or
+                     (b)  against section 105A, 105AA, 105AB, 105B or 105C (which deal with an Australian-flagged boat beyond the AFZ); or
 
                      (c)  against section 105E, 105EA, 105F, 105FA, 105H or 105I.
 
@@ -5302,15 +5302,15 @@ Note:          For strict liability, see section 6.1 of the 
 
 ### Division 5A—Offences in places beyond the AFZ
 
-#### Subdivision A—Australian‑flagged boats beyond the AFZ
+#### Subdivision A—Australian-flagged boats beyond the AFZ
 
-##### <a id="105A"></a>105A  Australian‑flagged boat with fish on high seas
+##### <a id="105A"></a>105A  Australian-flagged boat with fish on high seas
 
              (1)  A person is guilty of an offence if:
 
                      (a)  the person intentionally has a fish in his or her possession or control; and
 
-                     (b)  the fish is on an Australian‑flagged boat on the high seas and the person is reckless as to that fact; and
+                     (b)  the fish is on an Australian-flagged boat on the high seas and the person is reckless as to that fact; and
 
                      (c)  the taking of the fish is not authorised by a fishing concession or scientific permit and the person is reckless as to that fact.
 
@@ -5324,7 +5324,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  the fishing is for a conserved fish stock; and
 
-                     (c)  the boat is an Australian‑flagged boat; and
+                     (c)  the boat is an Australian-flagged boat; and
 
                      (d)  the boat is on the high seas in a part of the conservation area for the fish stock; and
 
@@ -5344,7 +5344,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  the fishing is for a conserved fish stock; and
 
-                     (c)  the boat is an Australian‑flagged boat; and
+                     (c)  the boat is an Australian-flagged boat; and
 
                      (d)  the boat is on the high seas in a part of the conservation area for the fish stock; and
 
@@ -5352,11 +5352,11 @@ Note:          For strict liability, see section 6.1 of the 
 
              (2)  The offence is punishable on conviction by a fine of not more than 500 penalty units.
 
-##### <a id="105B"></a>105B  Australian‑flagged boat on high seas equipped for fishing
+##### <a id="105B"></a>105B  Australian-flagged boat on high seas equipped for fishing
 
              (1)  A person is guilty of an offence if:
 
-                     (a)  a person intentionally has in his or her possession or charge an Australian‑flagged boat; and
+                     (a)  a person intentionally has in his or her possession or charge an Australian-flagged boat; and
 
                      (b)  the boat is equipped with nets, traps or other equipment for fishing and the person is reckless as to that fact; and
 
@@ -5386,11 +5386,11 @@ Note:          Even if subsection (1) does not apply because
 
              (4)  The only burden of proof that a defendant bears in respect of subsection (3) is the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter in question existed.
 
-##### <a id="105C"></a>105C  Australian‑flagged boat fishing in foreign waters
+##### <a id="105C"></a>105C  Australian-flagged boat fishing in foreign waters
 
              (1)  A person is guilty of an offence if:
 
-                     (a)  the person intentionally uses an Australian‑flagged boat for fishing; and
+                     (a)  the person intentionally uses an Australian-flagged boat for fishing; and
 
                      (b)  the boat is in the exclusive economic zone, territorial sea, archipelagic waters (as defined in the United Nations Convention on the Law of the Sea) or internal waters of a foreign country and the person is reckless as to that fact; and
 
@@ -5404,11 +5404,11 @@ Note:          Even if subsection (1) does not apply because
 
              (5)  If the person has been convicted or acquitted in the foreign country of an offence involving the fishing, the person cannot be convicted of an offence under this section involving the fishing.
 
-##### <a id="105D"></a>105D  Authorising foreign officials’ action affecting Australian‑flagged boats
+##### <a id="105D"></a>105D  Authorising foreign officials’ action affecting Australian-flagged boats
 
 Boarding boats suspected of illegal fishing in foreign waters
 
-             (1)  On behalf of Australia, AFMA may authorise officials of a foreign country that is party to the Fish Stocks Agreement or that participates in an international fisheries management organisation to board and inspect an Australian‑flagged boat on the high seas if:
+             (1)  On behalf of Australia, AFMA may authorise officials of a foreign country that is party to the Fish Stocks Agreement or that participates in an international fisheries management organisation to board and inspect an Australian-flagged boat on the high seas if:
 
                      (a)  AFMA or Australia has received a request from the appropriate authority of the foreign country for that country’s officials to board and inspect the boat; and
 
@@ -5418,7 +5418,7 @@ Boarding boats suspected of illegal fishing in foreign waters
 
 Investigating breach of international fisheries management measures
 
-             (2)  On behalf of Australia, AFMA may authorise an authority of a foreign country that is party to the Fish Stocks Agreement or that participates in an international fisheries management organisation to investigate an alleged contravention of an international fisheries management measure involving an Australian‑flagged boat if:
+             (2)  On behalf of Australia, AFMA may authorise an authority of a foreign country that is party to the Fish Stocks Agreement or that participates in an international fisheries management organisation to investigate an alleged contravention of an international fisheries management measure involving an Australian-flagged boat if:
 
                      (a)  an official of the foreign country has boarded the boat on the high seas in an area covered by the international fisheries management organisation; and
 
@@ -5436,17 +5436,17 @@ Form of authorisation or revocation by AFMA
 
 Enforcement action for breach of international fisheries management measures
 
-             (5)  On behalf of Australia, the Attorney‑General may authorise in writing an authority of a foreign country to take specified action to enforce a law of the foreign country against a contravention of an international fisheries management measure on the high seas involving an Australian‑flagged boat if:
+             (5)  On behalf of Australia, the Attorney-General may authorise in writing an authority of a foreign country to take specified action to enforce a law of the foreign country against a contravention of an international fisheries management measure on the high seas involving an Australian-flagged boat if:
 
                      (a)  AFMA has authorised an authority of the foreign country under subsection (2) to investigate the alleged contravention; and
 
                      (b)  the appropriate authority of the foreign country has communicated the results of the investigation to Australia; and
 
-                     (c)  the Attorney‑General is satisfied that the action will be taken in accordance with the Fish Stocks Agreement or measures established by the international fisheries management organisation.
+                     (c)  the Attorney-General is satisfied that the action will be taken in accordance with the Fish Stocks Agreement or measures established by the international fisheries management organisation.
 
-Revocation of authorisation by Attorney‑General
+Revocation of authorisation by Attorney-General
 
-             (6)  The Attorney‑General may revoke in writing an authorisation he or she has given under this section.
+             (6)  The Attorney-General may revoke in writing an authorisation he or she has given under this section.
 
 #### Subdivision B—Using foreign boat to contravene international fisheries management measure
 
@@ -5494,13 +5494,13 @@ Note:          For strict liability, see section 6.1 of the 
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
 
-##### <a id="105EB"></a>105EB  Attorney‑General’s consent required for prosecution
+##### <a id="105EB"></a>105EB  Attorney-General’s consent required for prosecution
 
-             (1)  The Attorney‑General’s written consent is required before a charge of an offence against section 105E or 105EA, alleged to have been committed by a person other than an Australian national, can proceed to hearing or determination.
+             (1)  The Attorney-General’s written consent is required before a charge of an offence against section 105E or 105EA, alleged to have been committed by a person other than an Australian national, can proceed to hearing or determination.
 
-             (2)  Before granting such a consent, the Attorney‑General must take into account any views expressed by the government of the country of nationality of the boat alleged to be involved in the offence.
+             (2)  Before granting such a consent, the Attorney-General must take into account any views expressed by the government of the country of nationality of the boat alleged to be involved in the offence.
 
-             (3)  Even though the Attorney‑General has not granted such a consent, the absence of consent is not to prevent or delay:
+             (3)  Even though the Attorney-General has not granted such a consent, the absence of consent is not to prevent or delay:
 
                      (a)  the arrest of the suspected offender or proceedings related to arrest (such as proceedings for the issue and execution of a warrant); or
 
@@ -5510,9 +5510,9 @@ Note:          A defendant bears an evidential burden in relat
 
                      (d)  proceedings for remanding the suspected offender in custody or on bail.
 
-             (4)  If the Attorney‑General declines to grant consent, the court in which the suspected offender has been charged with the offence must permanently stay proceedings on the charge.
+             (4)  If the Attorney-General declines to grant consent, the court in which the suspected offender has been charged with the offence must permanently stay proceedings on the charge.
 
-             (5)  In any proceedings, an apparently genuine document purporting to be a copy of a written consent granted by the Attorney‑General in accordance with this section will be accepted, in the absence of proof to the contrary, as proof of such consent.
+             (5)  In any proceedings, an apparently genuine document purporting to be a copy of a written consent granted by the Attorney-General in accordance with this section will be accepted, in the absence of proof to the contrary, as proof of such consent.
 
 ##### <a id="105F"></a>105F  Australian national on foreign boat in foreign waters—strict liability
 
@@ -5600,13 +5600,13 @@ Note:          For strict liability, see section 6.1 of the 
 
                     Penalty:  500 penalty units.
 
-##### <a id="105J"></a>105J  Attorney‑General’s consent required for prosecution
+##### <a id="105J"></a>105J  Attorney-General’s consent required for prosecution
 
-             (1)  The Attorney‑General’s written consent is required before a charge of an offence against this Subdivision, alleged to have been committed by a person other than an Australian national, can proceed to hearing or determination.
+             (1)  The Attorney-General’s written consent is required before a charge of an offence against this Subdivision, alleged to have been committed by a person other than an Australian national, can proceed to hearing or determination.
 
-             (2)  Before granting such a consent, the Attorney‑General must take into account any views expressed by the government of the country of nationality of the boat alleged to be involved in the offence.
+             (2)  Before granting such a consent, the Attorney-General must take into account any views expressed by the government of the country of nationality of the boat alleged to be involved in the offence.
 
-             (3)  Even though the Attorney‑General has not granted such a consent, the absence of consent is not to prevent or delay:
+             (3)  Even though the Attorney-General has not granted such a consent, the absence of consent is not to prevent or delay:
 
                      (a)  the arrest of the suspected offender or proceedings related to arrest (such as proceedings for the issue and execution of a warrant); or
 
@@ -5616,9 +5616,9 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (d)  proceedings for remanding the suspected offender in custody or on bail.
 
-             (4)  If the Attorney‑General declines to grant consent, the court in which the suspected offender has been charged with the offence must permanently stay proceedings on the charge.
+             (4)  If the Attorney-General declines to grant consent, the court in which the suspected offender has been charged with the offence must permanently stay proceedings on the charge.
 
-             (5)  In any proceedings, an apparently genuine document purporting to be a copy of a written consent granted by the Attorney‑General in accordance with this section will be accepted, in the absence of proof to the contrary, as proof of such consent.
+             (5)  In any proceedings, an apparently genuine document purporting to be a copy of a written consent granted by the Attorney-General in accordance with this section will be accepted, in the absence of proof to the contrary, as proof of such consent.
 
 ### Division 5B—Provisions relating to detention of suspected illegal foreign fishers
 
@@ -5752,7 +5752,7 @@ the court may order the forfeiture of the additional things.
 
                            (vii)  section 101A; or
 
-                          (viii)  section 101AA;
+                           (viii)  section 101AA;
 
                      (b)  a boat used in an offence against section 101B as a support boat (as defined in that section);
 
@@ -6162,7 +6162,7 @@ and, without limiting the generality of the above, includes:
 
              (4)  Costs payable by an owner of a foreign boat to the Commonwealth under this Subdivision may be recovered by the Commonwealth as a debt due to the Commonwealth in a court of competent jurisdiction.
 
-##### <a id="106M"></a>106M  Preliminary notice of debt
+##### <a id="106M"></a>106M  Preliminary notice of debt
 
              (1)  As soon as practicable after bringing a foreign boat to which this Subdivision applies to its processing place and after notice of seizure of the boat has been given under section 106C, an AFMA staff member must give written notice to the person:
 
@@ -6354,7 +6354,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 the whole of the amount of levy unpaid becomes due and payable at that time.
 
-##### <a id="112"></a>112  Penalty for non‑payment
+##### <a id="112"></a>112  Penalty for non-payment
 
                    If an amount of levy remains unpaid after the day on which it becomes due for payment, there is payable to the Commonwealth by way of penalty, in addition to that amount of levy, an amount calculated at the rate of 20% per annum upon the amount of levy from time to time remaining unpaid, to be calculated from the time when the amount of levy became payable.
 
@@ -6380,7 +6380,7 @@ AFMA may, on behalf of the Commonwealth, by written notice given to the holder o
 
 ### Division 2—Collection of levy imposed by the Foreign Fishing Licences Levy Act 1991
 
-##### <a id="114"></a>114  Interpretation
+##### <a id="114"></a>114  Interpretation
 
                    In this Division:
 
@@ -6404,7 +6404,7 @@ of the amount of levy or any part of that amount.
 
                      (b)  in any other case—at the end of the period of 30 days after the grant of the licence.
 
-##### <a id="117"></a>117  Penalty for non‑payment
+##### <a id="117"></a>117  Penalty for non-payment
 
                    Where a person who is liable to pay an amount of levy fails to pay that amount or any part of that amount to the Commonwealth at or before the time when that amount becomes due and payable, the person is liable to pay to the Commonwealth, by way of penalty, in addition to that amount of levy, an amount calculated at the rate of 10% per month upon the amount of levy from time to time remaining unpaid, computed for the period commencing on the day on which that amount of levy became due and payable and ending on the day specified in the licence as being the day until which the licence is to remain in force.
 
@@ -6444,7 +6444,7 @@ of the amount of levy or any part of that amount.
 
 the whole of the amount of the charge unpaid becomes due and payable at that time.
 
-##### <a id="122"></a>122  Penalty for non‑payment
+##### <a id="122"></a>122  Penalty for non-payment
 
                    If an amount of charge remains unpaid after the day on which it becomes due for payment, there is payable to the Commonwealth, by way of penalty, in addition to that amount of charge, an amount calculated at the rate of 20% per annum upon the amount of charge from time to time remaining unpaid, to be calculated from the time when the amount of charge became payable.
 
@@ -6480,9 +6480,9 @@ the whole of the amount of the charge unpaid becomes due and payable at that tim
 
              (3)  Members of the Panel, other than the Principal Member, are to be appointed from persons nominated under Division 2.
 
-             (4)  Subject to this Part, a member holds office for such term (not exceeding 4 years) as is specified in the instrument of appointment, but is eligible for re‑appointment in accordance with this Part.
+             (4)  Subject to this Part, a member holds office for such term (not exceeding 4 years) as is specified in the instrument of appointment, but is eligible for re-appointment in accordance with this Part.
 
-             (5)  A member is to be appointed as a part‑time member.
+             (5)  A member is to be appointed as a part-time member.
 
              (6)  The appointment of a person as a member is not invalid because of a defect or irregularity in connection with the person’s nomination or appointment.
 
@@ -6544,9 +6544,9 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
                      (a)  is a member of the Parliament of a State, but subsection (3) does not apply in relation to the person; or
 
-                     (b)  is in the service or employment of a State, or an authority of a State, on a full‑time basis; or
+                     (b)  is in the service or employment of a State, or an authority of a State, on a full-time basis; or
 
-                     (c)  holds or performs the duties of an office or position established by or under a law of a State on a full‑time basis;
+                     (c)  holds or performs the duties of an office or position established by or under a law of a State on a full-time basis;
 
 it is a condition of the person’s holding office under this Act that the person pay to the State, within one month of receiving an amount of remuneration under this Act, an amount equal to the amount of the remuneration.
 
@@ -6558,9 +6558,9 @@ it is a condition of the person’s holding office under this Act that the perso
 
                     <a name="parliam"></a>**_Parliament_** means:
 
-                     (a)  in relation to the Australian Capital Territory—the Legislative Assembly for the Australian Capital Territory; and
+                     (a)  in relation to the Australian   Capital Territory—the Legislative Assembly for the Australian Capital   Territory; and
 
-                     (b)  in relation to the Northern Territory—the Legislative Assembly of the Northern Territory.
+                     (b)  in relation to the Northern   Territory—the Legislative Assembly of the Northern Territory.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
@@ -6642,9 +6642,9 @@ it is a condition of the person’s holding office under this Act that the perso
 
              (1)  The Minister is to appoint a person to be the Presiding Member of Australian Fisheries Management Authority Selection Committees.
 
-             (2)  The Presiding Member is to be appointed on a part‑time basis.
+             (2)  The Presiding Member is to be appointed on a part-time basis.
 
-             (3)  Subject to this Division, the Presiding Member holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but is eligible to be re‑appointed once in accordance with this Act.
+             (3)  Subject to this Division, the Presiding Member holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but is eligible to be re-appointed once in accordance with this Act.
 
 ##### <a id="140"></a>140  Acting Presiding Member
 
@@ -6708,7 +6708,7 @@ Note:          See section 33A of the _Acts Interpretation A
 
                      (d)  a member nominated by the Ministerial Council.
 
-             (2)  A Selection Committee member referred to in paragraph (1)(b), (c) or (d) is to be appointed by the Minister in writing and holds office on a part‑time basis.
+             (2)  A Selection Committee member referred to in paragraph (1)(b), (c) or (d) is to be appointed by the Minister in writing and holds office on a part-time basis.
 
 ##### <a id="141C"></a>141C  Selection of nominees
 
@@ -6794,7 +6794,7 @@ Note:          See section 33A of the _Acts Interpretation A
 
              (8)  The procedure of a Committee is to be as determined by the Committee.
 
-##### <a id="141G"></a>141G  Remuneration and allowances
+##### <a id="141G"></a>141G  Remuneration and allowances
 
              (1)  The Presiding Member of a Selection Committee is to be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination is in operation, the Presiding Member is to be paid such remuneration as is prescribed.
 
@@ -6966,7 +6966,7 @@ may, within 14 days after being notified by AFMA or by the Joint Authority of th
 
                      (a)  to be represented before the Panel by any other person; or
 
-                     (b)  to examine or cross‑examine any other person appearing before the Panel to give evidence.
+                     (b)  to examine or cross-examine any other person appearing before the Panel to give evidence.
 
              (5)  Despite anything else contained in this section, the Panel may accept from a person, instead of oral evidence, a written statement verified by statutory declaration.
 
@@ -7104,7 +7104,7 @@ should not be published, or should not be published except in a particular manne
 
                      (a)  excuse the Panel from its obligations under section 160; or
 
-                     (b)  prevent a person from communicating to another person a matter contained in the evidence, information or document if the first‑mentioned person has knowledge of the matter otherwise than because of the evidence or information having been given or the document having been produced to the Panel.
+                     (b)  prevent a person from communicating to another person a matter contained in the evidence, information or document if the first-mentioned person has knowledge of the matter otherwise than because of the evidence or information having been given or the document having been produced to the Panel.
 
 ##### <a id="156"></a>156  Failure of witness to attend
 
@@ -7210,13 +7210,13 @@ Note:          For strict liability, see section 6.1 of the 
 
 ## Part 9—Miscellaneous
 
-### Division 1—Electronic decision‑making
+### Division 1—Electronic decision-making
 
 ##### <a id="163A"></a>163A  What this Division is about
 
                    This Division is about AFMA using a computer program to make certain decisions.
 
-##### <a id="163B"></a>163B  Electronic decision‑making
+##### <a id="163B"></a>163B  Electronic decision-making
 
              (1)  AFMA may approve a computer program, which is under AFMA’s control, to be used to make a decision under:
 
@@ -7300,7 +7300,7 @@ Example:    A computer program may not be functioning correctly because of
 
                      (b)  the CEO; or
 
-                   (ba)  an AFMA staff member; or
+                    (ba)  an AFMA staff member; or
 
                      (c)  an officer of the Department;
 
@@ -7322,7 +7322,7 @@ any of the Minister’s powers and functions under this Act other than powers an
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  Where:
 
@@ -7426,7 +7426,7 @@ is prima facie evidence of the matter averred.
 
                      (b)  that, at a time or during a period specified in the certificate, an area of waters specified in the certificate was part of the AFZ; or
 
-                   (ba)  that, at a time or during a period specified in the certificate, an area of waters specified in the certificate:
+                    (ba)  that, at a time or during a period specified in the certificate, an area of waters specified in the certificate:
 
                               (i)  was part of the territorial sea of Australia that was, at the time or during the period, in the AFZ; and
 
@@ -7524,7 +7524,7 @@ is prima facie evidence of the matter averred.
 
 ##### <a id="168"></a>168  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -7548,7 +7548,7 @@ is prima facie evidence of the matter averred.
 
                             (iii)  the lodging and registration of documents; and
 
-                          (iiia)  the giving of a notice to AFMA nominating an Australian boat under paragraph 32(1A)(b) or subsection 32(1B); and
+                           (iiia)  the giving of a notice to AFMA nominating an Australian boat under paragraph 32(1A)(b) or subsection 32(1B); and
 
                             (iv)  the issue of a document mentioned in subsection 53(2); and
 
@@ -7566,9 +7566,9 @@ is prima facie evidence of the matter averred.
 
                      (h)  providing for the marking of boats engaged in commercial fishing in the AFZ and of nets, traps and other equipment used for taking fish; and
 
-                   (ha)  providing for the marking of Australian‑flagged boats in relation to which fishing concessions or scientific permits allowing fishing outside the AFZ are in force; and
+                    (ha)  providing for the marking of Australian-flagged boats in relation to which fishing concessions or scientific permits allowing fishing outside the AFZ are in force; and
 
-                   (hb)  subject to section 8A, providing for the placement of persons as observers on board boats used for commercial fishing; and
+                    (hb)  subject to section 8A, providing for the placement of persons as observers on board boats used for commercial fishing; and
 
                       (i)  enabling a person who is alleged to have contravened section 93, 95 or 100 or a determination made for the purposes of section 42 to pay to AFMA, as an alternative to prosecution, a specified penalty, not exceeding the maximum penalty by which a contravention of that provision is otherwise punishable; and
 
@@ -7586,7 +7586,7 @@ is prima facie evidence of the matter averred.
 
                              (ii)  in relation to which an approval is in force under regulations made for the purposes of paragraph 101(1)(c); and
 
-                   (na)  providing for the use of systems for reporting the position of Australian‑flagged boats when on the high seas in an area covered by an international fisheries management organisation; and
+                    (na)  providing for the use of systems for reporting the position of Australian-flagged boats when on the high seas in an area covered by an international fisheries management organisation; and
 
                      (o)  providing procedures to be followed to facilitate the recognition of foreign boats the use of which is authorised by a foreign fishing licence; and
 
@@ -8116,9 +8116,9 @@ Note:          This clause corresponds closely to section 25
 
                      (a)  causing the detainee to walk, or to be moved, through screening equipment; or
 
-                     (b)  passing hand‑held screening equipment over or around the detainee or around things in the detainee’s possession; or
+                     (b)  passing hand-held screening equipment over or around the detainee or around things in the detainee’s possession; or
 
-                     (c)  passing things in the detainee’s possession through screening equipment or examining such things by X‑ray.
+                     (c)  passing things in the detainee’s possession through screening equipment or examining such things by X-ray.
 
                     <a name="screen-equip"></a>**_screening equipment_** means a metal detector or similar device for detecting objects or particular substances.
 
@@ -8344,9 +8344,9 @@ Note:          This clause corresponds closely to section 25
 
                      (a)  walk through screening equipment;
 
-                     (b)  allow an officer or detention officer to pass hand‑held screening equipment over or around the person or around things in the person’s possession;
+                     (b)  allow an officer or detention officer to pass hand-held screening equipment over or around the person or around things in the person’s possession;
 
-                     (c)  allow things in the person’s possession to pass through screening equipment or to be examined by X‑ray.
+                     (c)  allow things in the person’s possession to pass through screening equipment or to be examined by X-ray.
 
              (2)  **_Screening equipment_** means a metal detector or similar device for detecting objects or particular substances.
 
@@ -8408,15 +8408,15 @@ Note:          This clause corresponds to section 256 of the
 
                     <a name="independ-person"></a>**_independent person_** means a person (other than an officer, detention officer or authorised officer) who:
 
-                     (a)  is capable of representing the interests of a non‑citizen who is providing, or is to provide, a personal identifier; and
+                     (a)  is capable of representing the interests of a non-citizen who is providing, or is to provide, a personal identifier; and
 
-                     (b)  as far as practicable, is acceptable to the non‑citizen who is providing, or is to provide, the personal identifier; and
+                     (b)  as far as practicable, is acceptable to the non-citizen who is providing, or is to provide, the personal identifier; and
 
-                     (c)  if the non‑citizen is a minor—is capable of representing the minor’s best interests.
+                     (c)  if the non-citizen is a minor—is capable of representing the minor’s best interests.
 
                     <a name="minor"></a>**_minor_** means a person who is less than 18 years old.
 
-                    <a name="non-citizen"></a>**_non‑citizen_** means a person who is not an Australian citizen.
+                    <a name="non-citizen"></a>**_non-citizen_** means a person who is not an Australian citizen.
 
                     <a name="person-identifi"></a>**_personal identifier_** has the meaning given by clause 26.
 
@@ -8442,7 +8442,7 @@ Note:          The definitions of expressions in this clause c
 
                      (g)  any other identifier prescribed by the regulations, other than an identifier the obtaining of which would involve the carrying out of an intimate forensic procedure within the meaning of section 23WA of the _Crimes Act 1914_.
 
-             (2)  Before the Governor‑General makes regulations for the purposes of paragraph (1)(g) prescribing an identifier, the Minister must be satisfied that:
+             (2)  Before the Governor-General makes regulations for the purposes of paragraph (1)(g) prescribing an identifier, the Minister must be satisfied that:
 
                      (a)  obtaining the identifier would not involve the carrying out of an intimate forensic procedure within the meaning of section 23WA of the _Crimes Act 1914_; and
 
@@ -8456,13 +8456,13 @@ Note:          The definitions of expressions in this clause c
 
                      (b)  to assist in identifying, in the future, any such person; and
 
-                     (c)  to enhance AFMA’s ability to identify non‑citizens who have a criminal history relating to fisheries; and
+                     (c)  to enhance AFMA’s ability to identify non-citizens who have a criminal history relating to fisheries; and
 
                      (d)  to combat document and identity fraud in fisheries matters; and
 
-                     (e)  to complement anti‑people smuggling measures; and
+                     (e)  to complement anti-people smuggling measures; and
 
-                      (f)  to inform the governments of foreign countries of the identity of non‑citizens who have been detained under, or charged with offences against, this Act; and
+                      (f)  to inform the governments of foreign countries of the identity of non-citizens who have been detained under, or charged with offences against, this Act; and
 
                      (g)  to facilitate international cooperation to combat fishing activities that involve a breach of the laws of Australia or of a foreign country.
 
@@ -8482,9 +8482,9 @@ Note:          This clause corresponds closely to section 5D
 
 ##### <a id="28"></a>28  Detainees must provide personal identifiers
 
-             (1)  A non‑citizen in detention must (other than in the prescribed circumstances) provide to an authorised officer one or more personal identifiers.
+             (1)  A non-citizen in detention must (other than in the prescribed circumstances) provide to an authorised officer one or more personal identifiers.
 
-Note:          A person who is an Australian citizen, or is a non‑citizen but an Australian resident, may be in detention but must be released as soon as an officer or detention officer knows or reasonably believes the person is an Australian citizen or resident.
+Note:          A person who is an Australian citizen, or is a non-citizen but an Australian resident, may be in detention but must be released as soon as an officer or detention officer knows or reasonably believes the person is an Australian citizen or resident.
 
              (2)  An authorised officer must not require, for the purposes of subclause (1), a detainee to provide a personal identifier other than any of the following (including any of the following in digital form):
 
@@ -8510,9 +8510,9 @@ Note 2:       This clause corresponds closely to section 261AA of 
 
              (1)  The authorised officer must, other than in the circumstances prescribed for the purposes of subclause 28(1):
 
-                     (a)  require the non‑citizen to provide one or more personal identifiers, of the type or types prescribed, by way of one or more identification tests carried out by the authorised officer; and
+                     (a)  require the non-citizen to provide one or more personal identifiers, of the type or types prescribed, by way of one or more identification tests carried out by the authorised officer; and
 
-                     (b)  carry out the one or more identification tests on the non‑citizen.
+                     (b)  carry out the one or more identification tests on the non-citizen.
 
              (2)  However:
 
@@ -8520,7 +8520,7 @@ Note 2:       This clause corresponds closely to section 261AA of 
 
                      (b)  each identification test must be carried out in accordance with Subdivision B; and
 
-                     (c)  unless the authorised officer has reasonable grounds to believe that the non‑citizen is not a minor or an incapable person—each identification test must be carried out in accordance with the additional requirements of Division 3.
+                     (c)  unless the authorised officer has reasonable grounds to believe that the non-citizen is not a minor or an incapable person—each identification test must be carried out in accordance with the additional requirements of Division 3.
 
 Note:          Subclauses (1) and (2) correspond closely to section 261AB of the _Migration Act 1958_.
 
@@ -8536,13 +8536,13 @@ paragraph (2)(a) of this clause has effect as if the specified types (except a
 
              (1)  Before carrying out an identification test, the authorised officer must:
 
-                     (a)  inform the non‑citizen that the non‑citizen may ask that an independent person be present while the identification test is carried out and that the test be carried out by a person of the same sex as the non‑citizen; and
+                     (a)  inform the non-citizen that the non-citizen may ask that an independent person be present while the identification test is carried out and that the test be carried out by a person of the same sex as the non-citizen; and
 
-                     (b)  inform the non‑citizen of such other matters as are specified in the regulations.
+                     (b)  inform the non-citizen of such other matters as are specified in the regulations.
 
-             (2)  For the purposes of subclause (1), the authorised officer **_informs_** the non‑citizen of a matter if the authorised officer informs the non‑citizen of the matter, through an interpreter if necessary, in a language (including sign language or braille) in which the non‑citizen is able to communicate with reasonable fluency.
+             (2)  For the purposes of subclause (1), the authorised officer **_informs_** the non-citizen of a matter if the authorised officer informs the non-citizen of the matter, through an interpreter if necessary, in a language (including sign language or braille) in which the non-citizen is able to communicate with reasonable fluency.
 
-             (3)  The authorised officer may comply with this clause by giving to the non‑citizen, in accordance with the regulations, a form setting out the information specified in the regulations. However, the information must be in a language (including braille) in which the non‑citizen is able to communicate with reasonable fluency.
+             (3)  The authorised officer may comply with this clause by giving to the non-citizen, in accordance with the regulations, a form setting out the information specified in the regulations. However, the information must be in a language (including braille) in which the non-citizen is able to communicate with reasonable fluency.
 
 Note:          This clause corresponds closely to section 261AC of the _Migration Act 1958_.
 
@@ -8554,9 +8554,9 @@ Note:          This clause corresponds closely to section 26
 
                    An identification test under this Division:
 
-                     (a)  must be carried out in circumstances affording reasonable privacy to the non‑citizen; and
+                     (a)  must be carried out in circumstances affording reasonable privacy to the non-citizen; and
 
-                     (b)  if the non‑citizen so requests and it is practicable to comply with the request—must not be carried out in the presence or view of a person who is of the opposite sex to the non‑citizen; and
+                     (b)  if the non-citizen so requests and it is practicable to comply with the request—must not be carried out in the presence or view of a person who is of the opposite sex to the non-citizen; and
 
                      (c)  must not be carried out in the presence or view of a person whose presence is not necessary for the purposes of the identification test or is not required or permitted by another provision of this Act; and
 
@@ -8564,7 +8564,7 @@ Note:          This clause corresponds closely to section 26
 
                      (e)  must not involve more visual inspection than is necessary for carrying out the test; and
 
-                      (f)  if the test is one of 2 or more identification tests to be carried out on the non‑citizen—must be carried out at the same time as the other identification tests, if it is practicable to do so.
+                      (f)  if the test is one of 2 or more identification tests to be carried out on the non-citizen—must be carried out at the same time as the other identification tests, if it is practicable to do so.
 
 Note:          This clause corresponds closely to section 261AD of the _Migration Act 1958_.
 
@@ -8582,7 +8582,7 @@ However, this clause does not authorise the use of force against a minor or an i
 
              (2)  The authorised officer or person must not use force unless:
 
-                     (a)  the non‑citizen required to provide the personal identifier in question has refused to allow the identification test to be carried out; and
+                     (a)  the non-citizen required to provide the personal identifier in question has refused to allow the identification test to be carried out; and
 
                      (b)  all reasonable measures to carry out the identification test without the use of force have been exhausted; and
 
@@ -8596,7 +8596,7 @@ Authorisation to use force
 
              (4)  The senior authorising officer may authorise the use of force in carrying out the identification test if he or she is reasonably satisfied that:
 
-                     (a)  the non‑citizen required to provide the personal identifier in question has refused to allow the identification test to be carried out; and
+                     (a)  the non-citizen required to provide the personal identifier in question has refused to allow the identification test to be carried out; and
 
                      (b)  all reasonable measures to carry out the identification test without the use of force have been exhausted.
 
@@ -8638,9 +8638,9 @@ Note:          This clause corresponds closely to section 26
 
 Note:          This clause corresponds closely to section 261AG of the _Migration Act 1958_.
 
-##### <a id="35"></a>35  Identification tests to be carried out by authorised officer of same sex as non‑citizen
+##### <a id="35"></a>35  Identification tests to be carried out by authorised officer of same sex as non-citizen
 
-                   If the non‑citizen requests that the identification test be carried out by an authorised officer of the same sex as the non‑citizen, the test must only be carried out by an authorised officer of the same sex as the non‑citizen.
+                   If the non-citizen requests that the identification test be carried out by an authorised officer of the same sex as the non-citizen, the test must only be carried out by an authorised officer of the same sex as the non-citizen.
 
 Note:          This clause corresponds closely to section 261AH of the _Migration Act 1958_.
 
@@ -8652,9 +8652,9 @@ Note:          This clause corresponds closely to section 26
 
                      (b)  both of the following apply:
 
-                              (i)  the non‑citizen requests that an independent person be present while the identification test is being carried out;
+                              (i)  the non-citizen requests that an independent person be present while the identification test is being carried out;
 
-                             (ii)  an independent person is readily available at the same place as the non‑citizen and is willing to attend the test within a reasonable time.
+                             (ii)  an independent person is readily available at the same place as the non-citizen and is willing to attend the test within a reasonable time.
 
 Note:          This clause corresponds closely to section 261AI of the _Migration Act 1958_.
 
@@ -8672,7 +8672,7 @@ When retesting is permitted
 
              (1)  If:
 
-                     (a)  an authorised officer has carried out an identification test (the **_earlier test_**) on a non‑citizen in accordance with this Division (including a test authorised under subclause (4)); and
+                     (a)  an authorised officer has carried out an identification test (the **_earlier test_**) on a non-citizen in accordance with this Division (including a test authorised under subclause (4)); and
 
                      (b)  either:
 
@@ -8680,13 +8680,13 @@ When retesting is permitted
 
                              (ii)  an authorised officer, officer or detention officer is not satisfied about the integrity of that personal identifier;
 
-the authorised officer who carried out the earlier test or another authorised officer may require the non‑citizen to provide the personal identifier again, and may carry out the test again in accordance with this Division, if:
+the authorised officer who carried out the earlier test or another authorised officer may require the non-citizen to provide the personal identifier again, and may carry out the test again in accordance with this Division, if:
 
                      (c)  the requirement is made while the earlier test is being carried out or immediately after it was carried out; or
 
                      (d)  carrying out the test again is authorised under subclause (4).
 
-             (2)  If the non‑citizen is required under subclause (1) to provide the personal identifier again, the non‑citizen is taken, for the purposes of this Division, not to have provided the personal identifier as a result of the earlier test being carried out.
+             (2)  If the non-citizen is required under subclause (1) to provide the personal identifier again, the non-citizen is taken, for the purposes of this Division, not to have provided the personal identifier as a result of the earlier test being carried out.
 
 Applications for authorisation to retest
 
@@ -8724,7 +8724,7 @@ Note:          See clause 32 on the use of force in carrying
 
 Effect of refusing to authorise retesting
 
-           (10)  If an application for an authorisation to carry out an identification test again on a non‑citizen is refused, the non‑citizen is taken, for the purposes of this Act, to have complied with any requirement under this Act to provide the personal identifier in question.
+           (10)  If an application for an authorisation to carry out an identification test again on a non-citizen is refused, the non-citizen is taken, for the purposes of this Act, to have complied with any requirement under this Act to provide the personal identifier in question.
 
 Definitions
 
@@ -8820,9 +8820,9 @@ Note:          This clause corresponds closely to section 26
 
                      (a)  is for the purpose of administering or managing the storage of video recordings; or
 
-                     (b)  is for the purpose of making the video recording in question available to the non‑citizen to whom it relates; or
+                     (b)  is for the purpose of making the video recording in question available to the non-citizen to whom it relates; or
 
-                     (c)  is for the purpose of a proceeding, before a court or tribunal, relating to the non‑citizen to whom the video recording in question relates; or
+                     (c)  is for the purpose of a proceeding, before a court or tribunal, relating to the non-citizen to whom the video recording in question relates; or
 
                      (d)  is for any purpose connected with determining whether a civil or criminal liability has arisen from a person carrying out or helping to carry out an identification test under this Act; or
 
@@ -8830,7 +8830,7 @@ Note:          This clause corresponds closely to section 26
 
                       (f)  is made to a prescribed body or agency for the purpose of the body or agency inquiring into the operation of provisions of this Act relating to carrying out an identification test; or
 
-                     (g)  takes place with the written consent of the non‑citizen to whom the video recording in question relates; or
+                     (g)  takes place with the written consent of the non-citizen to whom the video recording in question relates; or
 
                      (h)  is a disclosure authorised by clause 59 (about disclosure of information about a person who has been in detention, for the purposes of the immigration detention or removal of the person).
 
@@ -8908,7 +8908,7 @@ Note:          This clause corresponds closely to section 26
 
                    A person commits an offence if:
 
-                     (a)  the person is the person who has day‑to‑day responsibility for the system under which a video recording is stored; and
+                     (a)  the person is the person who has day-to-day responsibility for the system under which a video recording is stored; and
 
                      (b)  the person fails physically to destroy the recording, and all copies of the recording, within 10 years after it was made.
 
@@ -8920,15 +8920,15 @@ Note:          This clause corresponds closely to section 26
 
 Minors less than 15 years old
 
-             (1)  A non‑citizen who is less than 15 years old must not be required under this Act to provide a personal identifier other than a personal identifier consisting of:
+             (1)  A non-citizen who is less than 15 years old must not be required under this Act to provide a personal identifier other than a personal identifier consisting of:
 
-                     (a)  a measurement of the non‑citizen’s height and weight; or
+                     (a)  a measurement of the non-citizen’s height and weight; or
 
-                     (b)  the non‑citizen’s photograph or other image of the non‑citizen’s face and shoulders.
+                     (b)  the non-citizen’s photograph or other image of the non-citizen’s face and shoulders.
 
 Persons present while identification test is carried out
 
-             (2)  If a non‑citizen who is a minor provides a personal identifier, in accordance with a requirement under this Act, by way of an identification test carried out by an authorised officer, the test must be carried out in the presence of:
+             (2)  If a non-citizen who is a minor provides a personal identifier, in accordance with a requirement under this Act, by way of an identification test carried out by an authorised officer, the test must be carried out in the presence of:
 
                      (a)  a parent or guardian of the minor; or
 
@@ -8942,15 +8942,15 @@ Note:          This clause corresponds closely to subsections 
 
 Incapable persons
 
-             (1)  A non‑citizen who is an incapable person must not be required under this Act to provide a personal identifier other than a personal identifier consisting of:
+             (1)  A non-citizen who is an incapable person must not be required under this Act to provide a personal identifier other than a personal identifier consisting of:
 
-                     (a)  a measurement of the non‑citizen’s height and weight; or
+                     (a)  a measurement of the non-citizen’s height and weight; or
 
-                     (b)  the non‑citizen’s photograph or other image of the non‑citizen’s face and shoulders.
+                     (b)  the non-citizen’s photograph or other image of the non-citizen’s face and shoulders.
 
 Persons present while identification test is carried out
 
-             (2)  If a non‑citizen who is an incapable person provides a personal identifier, in accordance with a requirement under this Act, by way of an identification test carried out by an authorised officer, the test must be carried out in the presence of:
+             (2)  If a non-citizen who is an incapable person provides a personal identifier, in accordance with a requirement under this Act, by way of an identification test carried out by an authorised officer, the test must be carried out in the presence of:
 
                      (a)  a parent or guardian of the incapable person; or
 
@@ -9068,19 +9068,19 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  A **_permitted disclosure_** is a disclosure that:
 
-                     (a)  is for the purpose of data‑matching in order to:
+                     (a)  is for the purpose of data-matching in order to:
 
                               (i)  identify, or authenticate the identity of, a person; or
 
                              (ii)  facilitate the processing of persons entering or departing from Australia; or
 
-                            (iii)  identify non‑citizens who have a criminal history, who are of character concern (as defined in the _Migration Act 1958_) or who are of national security concern; or
+                            (iii)  identify non-citizens who have a criminal history, who are of character concern (as defined in the _Migration Act 1958_) or who are of national security concern; or
 
                             (iv)  combat document and identity fraud in immigration matters; or
 
                              (v)  ascertain whether an applicant for a protection visa had sufficient opportunity to avail himself or herself of protection before arriving in Australia; or
 
-                            (vi)  inform the governments of foreign countries of the identity of non‑citizens who are, or are to be, removed from Australia; or
+                            (vi)  inform the governments of foreign countries of the identity of non-citizens who are, or are to be, removed from Australia; or
 
                      (b)  is for the purpose of administering or managing the storage of identifying information; or
 
@@ -9088,13 +9088,13 @@ Note:          A defendant bears an evidential burden in relat
 
                      (d)  is for the purpose of making the identifying information in question available to the person to whom it relates; or
 
-                   (da)  is to an agency of the Commonwealth or of a State or Territory in order to verify that a person is an Australian citizen or holds a visa of a particular class; or
+                    (da)  is to an agency of the Commonwealth or of a State or Territory in order to verify that a person is an Australian citizen or holds a visa of a particular class; or
 
                      (e)  takes place under an arrangement entered into with an agency of the Commonwealth, or with a State or Territory or an agency of a State or Territory, for the exchange of identifying information; or
 
                     (ea)  is reasonably necessary for the enforcement of the criminal law of the Commonwealth or of a State or Territory; or
 
-                   (eb)  is required by or under a law of the Commonwealth or of a State or Territory; or
+                    (eb)  is required by or under a law of the Commonwealth or of a State or Territory; or
 
                       (f)  is for the purpose of a proceeding, before a court or tribunal, relating to the person to whom the identifying information in question relates; or
 
@@ -9106,7 +9106,7 @@ Note:          A defendant bears an evidential burden in relat
 
                              (ii)  requiring the provision of a personal identifier; or
 
-                   (ha)  is a disclosure of an audio or a video recording for the purposes of:
+                    (ha)  is a disclosure of an audio or a video recording for the purposes of:
 
                               (i)  this Act or the regulations; and
 
@@ -9258,7 +9258,7 @@ Note:          This clause corresponds closely to paragraph 33
 
 _Section 4_
 
-The Governments of the Pacific Island States party to this Treaty and the Government of the United States of America:
+The Governments of the Pacific Island States party to this Treaty and the Government of the United   States of America:
 
 ACKNOWLEDGING that in accordance with international law, coastal States have sovereign rights for the purposes of exploring and exploiting, conserving and managing the fisheries resources of their exclusive economic zones or fisheries zones;
 
@@ -9274,7 +9274,7 @@ ARTICLE 1
 
 DEFINITIONS AND INTERPRETATION
 
-1.1  In this Treaty:
+1.1   In this Treaty:
 
        (a)   “Administrator” means that person or organisation designated by the Pacific Island parties to act as such on their behalf pursuant to this Treaty and notified to the Government of the United States;
 
@@ -9286,7 +9286,7 @@ DEFINITIONS AND INTERPRETATION
 
                  (ii)       attempting to search for, catch, take or harvest fish;
 
-                (iii)       engaging in any other activity which can reasonably be expected to result in the locating, catching, taking or harvesting of fish;
+                 (iii)       engaging in any other activity which can reasonably be expected to result in the locating, catching, taking or harvesting of fish;
 
                 (iv)       placing, searching for or recovering fish aggregating devices or associated electronic equipment such as radio beacons;
 
@@ -9302,17 +9302,17 @@ DEFINITIONS AND INTERPRETATION
 
                  (ii)       waters closed to fishing by fishing vessels of the United States in accordance with Annex I;
 
-       (f)   “operator” means any person who is in charge of, directs or controls a vessel, including the owner, charterer and master;
+       (f)    “operator” means any person who is in charge of, directs or controls a vessel, including the owner, charterer and master;
 
-       (g)   “Pacific Island party” means a Pacific Island State party to this Treaty and “Pacific Island parties” means all such States from time to time;
+       (g)   “Pacific  Island party” means a Pacific Island State party to this Treaty and “Pacific Island parties” means all such States from time to time;
 
-       (h)   “Pacific Island State” means a party to the South Pacific Forum Fisheries Agency Convention, 1979;
+       (h)   “Pacific  Island State” means a party to the South Pacific Forum Fisheries Agency Convention, 1979;
 
        (i)    “party” means a State party to this Treaty, and “parties” means all such States, from time to time;
 
        (j)    “this Treaty” means this Treaty, its Annexes and Schedules; and
 
-       (k)   “Treaty Area” means all waters north of 60 degrees South latitude and east of 90 degrees East longitude, subject to the fisheries jurisdiction of Pacific Island parties, and all other waters within rhumb lines connecting the following geographic co‑ordinates, designated for the purposes of this Treaty, except for waters subject to the jurisdiction in accordance with international law of a State which is not a party to this Treaty:
+       (k)   “Treaty Area” means all waters north of 60 degrees South latitude and east of 90 degrees East longitude, subject to the fisheries jurisdiction of Pacific Island parties, and all other waters within rhumb lines connecting the following geographic co-ordinates, designated for the purposes of this Treaty, except for waters subject to the jurisdiction in accordance with international law of a State which is not a party to this Treaty:
 
 <table>
 <colgroup>
@@ -9571,17 +9571,17 @@ DEFINITIONS AND INTERPRETATION
 
 and north along the 152 degrees of East longitude until intersecting the Australian 200 nautical mile limit.
 
-1.2  Nothing in this Treaty shall be deemed to affect the applicability of any provision of a Pacific Island party’s law which is not identified or otherwise described in this Treaty.
+1.2   Nothing in this Treaty shall be deemed to affect the applicability of any provision of a Pacific  Island party’s law which is not identified or otherwise described in this Treaty.
 
 ARTICLE 2
 
-BROADER CO‑OPERATION
+BROADER CO-OPERATION
 
-2.1  The Government of the United States shall, as appropriate, co‑operate with the Pacific Island parties through the provision of technical and economic support to assist the Pacific Island parties to achieve the objective of maximizing benefits from the development of their fisheries resources.
+2.1   The Government of the United States shall, as appropriate, co-operate with the Pacific Island parties through the provision of technical and economic support to assist the Pacific Island parties to achieve the objective of maximizing benefits from the development of their fisheries resources.
 
-2.2  The Government of the United States shall, as appropriate, promote the maximization of benefits generated for the Pacific Island parties from the operations of fishing vessels of the United States licensed pursuant to this Treaty, including:
+2.2   The Government of the United States shall, as appropriate, promote the maximization of benefits generated for the Pacific Island parties from the operations of fishing vessels of the United States licensed pursuant to this Treaty, including:
 
-       (a)   the use of canning, transshipment, slipping and repair facilities located in the Pacific Island parties;
+       (a)   the use of canning, transshipment, slipping and repair facilities located in the Pacific  Island parties;
 
        (b)   the purchase of equipment and supplies, including fuel supplies, from suppliers located in the Pacific Island parties; and
 
@@ -9591,11 +9591,11 @@ ARTICLE 3
 
 ACCESS TO THE TREATY AREA
 
-3.1  Fishing vessels of the United States shall be permitted to engage in fishing in the Licensing Area in accordance with the terms and conditions referred to in Annex I and licences issued in accordance with the procedures set out in Annex II.
+3.1   Fishing vessels of the United States shall be permitted to engage in fishing in the Licensing Area in accordance with the terms and conditions referred to in Annex I and licences issued in accordance with the procedures set out in Annex II.
 
-3.2  It shall be a condition of any licence issued pursuant to this Treaty that the vessel in respect of which the licence is issued is operated in accordance with the requirements of Annex I. No fishing vessel of the United States shall be used for fishing in the Licensing Area without a licence issued in accordance with Annex II or in waters closed to fishing pursuant to Annex I, except in accordance with paragraph 3 of this Article, or unless the vessel is used for fishing albacore tuna by the trolling method in high seas areas of the Treaty Area.
+3.2   It shall be a condition of any licence issued pursuant to this Treaty that the vessel in respect of which the licence is issued is operated in accordance with the requirements of Annex I. No fishing vessel of the United States shall be used for fishing in the Licensing Area without a licence issued in accordance with Annex II or in waters closed to fishing pursuant to Annex I, except in accordance with paragraph 3 of this Article, or unless the vessel is used for fishing albacore tuna by the trolling method in high seas areas of the Treaty Area.
 
-3.3  A Pacific Island party may permit fishing vessels of the United States to engage in fishing in waters under the jurisdiction of that party which are:
+3.3   A Pacific Island party may permit fishing vessels of the United States to engage in fishing in waters under the jurisdiction of that party which are:
 
        (a)   within the Treaty Area but outside the Licensing Area; or
 
@@ -9607,11 +9607,11 @@ ARTICLE 4
 
 FLAG STATE RESPONSIBILITY
 
-4.1  The Government of the United States shall enforce the provisions of this Treaty and licences issued thereunder. The Government of the United States shall take the necessary steps to ensure that nationals and fishing vessels of the United States refrain from fishing in the Licensing Area and in waters closed to fishing pursuant to Annex I, except as authorised in accordance with Article 3.
+4.1   The Government of the United States shall enforce the provisions of this Treaty and licences issued thereunder. The Government of the United States shall take the necessary steps to ensure that nationals and fishing vessels of the United   States refrain from fishing in the Licensing Area and in waters closed to fishing pursuant to Annex I, except as authorised in accordance with Article 3.
 
-4.2  The Government of the United States shall, at the request of the Government of a Pacific Island party, take all reasonable measures to assist that party in the investigation of an alleged breach of this Treaty by a fishing vessel of the United States and promptly communicate all the requested information to that party.
+4.2   The Government of the United States shall, at the request of the Government of a Pacific  Island party, take all reasonable measures to assist that party in the investigation of an alleged breach of this Treaty by a fishing vessel of the United   States and promptly communicate all the requested information to that party.
 
-4.3  The Government of the United States shall ensure that:
+4.3   The Government of the United States shall ensure that:
 
        (a)   each fishing vessel of the United States licensed pursuant to this Treaty is fully insured against all risks and liabilities;
 
@@ -9619,7 +9619,7 @@ FLAG STATE RESPONSIBILITY
 
                      (i)    any claim arising out of the activities of a fishing vessel of the United States, including a claim for the total market value of any fish taken from the Licensing Area without authorisation pursuant to this Treaty, and the prompt settlement of that claim;
 
-                     (ii)   the service of legal process by or on behalf of a national or the Government of a Pacific Island party in any action arising out of the activities of a fishing vessel of the   United States;
+                     (ii)   the service of legal process by or on behalf of a national or the Government of a Pacific  Island party in any action arising out of the activities of a fishing vessel of the United States;
 
                      (iii)  the prompt and full adjudication in the United States of any claim made pursuant to this Treaty;
 
@@ -9629,9 +9629,9 @@ FLAG STATE RESPONSIBILITY
 
        (c)   an amount equivalent to the total value of any forfeiture, fine, penalty or other amount collected by the Government of the United States incurred as a result of any actions, judicial or otherwise, taken pursuant to this Article is paid to the Administrator as soon as possible following the date that the amount is collected.
 
-4.4  The Government of the United States shall, at the request of the Government of a Pacific Island party, fully investigate any alleged infringement of this Treaty involving a vessel of the United States, and report as soon as practicable and in any case within two months to that Government on that investigation and on any action taken or proposed to be taken by the Government of the United States in relation to the alleged infringement.
+4.4   The Government of the United States shall, at the request of the Government of a Pacific Island party, fully investigate any alleged infringement of this Treaty involving a vessel of the United States, and report as soon as practicable and in any case within two months to that Government on that investigation and on any action taken or proposed to be taken by the Government of the United States in relation to the alleged infringement.
 
-4.5  In the event that a report provided pursuant to paragraph 4 of this Article shows that a fishing vessel of the United States:
+4.5   In the event that a report provided pursuant to paragraph 4 of this Article shows that a fishing vessel of the United States:
 
        (a)   while fishing in the Licensing Area did not have a licence to fish in the Licensing Area, except in accordance with paragraph 2 of Article 3; or
 
@@ -9645,7 +9645,7 @@ that there was probable cause to believe that a fishing vessel of the United Sta
 
        (e)   was used for fishing by any method other than the purse seine method, except in accordance with paragraph 2 of Article 3;
 
-       (f)   was used for directed fishing for Southern Bluefin Tuna or for fishing for any kinds of fish other than tunas, except that other kinds of fish may be caught as an incidental by‑catch;
+       (f)    was used for directed fishing for Southern Bluefin Tuna or for fishing for any kinds of fish other than tunas, except that other kinds of fish may be caught as an incidental by-catch;
 
        (g)   used an aircraft for fishing which was not identified on a form provided pursuant to Schedule 1 of Annex II in relation to that vessel; or
 
@@ -9653,17 +9653,17 @@ that there was probable cause to believe that a fishing vessel of the United Sta
 
 and that such vessel has not submitted to the jurisdiction of the Pacific Island party concerned, the Government of the United States shall, at the request of that party, take all necessary measures to ensure that the vessel concerned leaves the Licensing Area and waters closed to fishing pursuant to Annex I immediately and does not return except for the purpose of submitting to the jurisdiction of the party, or after action has been taken by the Government of the United States to the satisfaction of that party.
 
-4.6  In the event that a report provided pursuant to paragraph 4 of this Article shows that a fishing vessel of the United States has been involved in a probable infringement of this Treaty, including an infringement of an applicable national law as identified in Schedule 1 of Annex I, other than an infringement of the kind described in paragraph 5 of this Article, and that the vessel has not submitted to the jurisdiction of the Pacific Island party concerned, the Government of the United States shall, at the request of that party, take all necessary measures to ensure that the vessel concerned:
+4.6   In the event that a report provided pursuant to paragraph 4 of this Article shows that a fishing vessel of the United States has been involved in a probable infringement of this Treaty, including an infringement of an applicable national law as identified in Schedule 1 of Annex I, other than an infringement of the kind described in paragraph 5 of this Article, and that the vessel has not submitted to the jurisdiction of the Pacific Island party concerned, the Government of the United States shall, at the request of that party, take all necessary measures to ensure that the vessel concerned:
 
        (a)   submits to the jurisdiction of that party; or
 
        (b)   is penalised by the Government of the United States at such level as may be provided for like violations in United States law relating to foreign fishing vessels licensed to fish in the exclusive economic zone of the United States but not to exceed the sum of US$250,000.
 
-4.7  Financial assurances provided pursuant to this Treaty may be drawn against by any Pacific Island party to satisfy any civil or criminal judgment or other determination in favour of a national or the Government of a Pacific Island party.
+4.7   Financial assurances provided pursuant to this Treaty may be drawn against by any Pacific  Island party to satisfy any civil or criminal judgment or other determination in favour of a national or the Government of a Pacific Island party.
 
-4.8  Prior to instituting any legal proceedings pursuant to this Article concerning an alleged infringement of this Treaty in waters within the jurisdiction, for any purpose, as recognised by international law, of a Pacific Island party, the Government of the United States shall notify the Government of that Pacific Island party that such proceedings shall be instituted. Such notice shall include a statement of the facts believed to show an infringement of this Treaty and the nature of the proposed proceedings, including the proposed charges and the proposed penalties to be sought. The Government of the United States shall not institute such proceedings if the Government of that Pacific Island party objects within 30 days of the effective date of such notice.
+4.8   Prior to instituting any legal proceedings pursuant to this Article concerning an alleged infringement of this Treaty in waters within the jurisdiction, for any purpose, as recognised by international law, of a Pacific Island party, the Government of the United States shall notify the Government of that Pacific Island party that such proceedings shall be instituted. Such notice shall include a statement of the facts believed to show an infringement of this Treaty and the nature of the proposed proceedings, including the proposed charges and the proposed penalties to be sought. The Government of the United States shall not institute such proceedings if the Government of that Pacific Island party objects within 30 days of the effective date of such notice.
 
-4.9  The Government of the United States shall ensure that an agent is appointed and maintained in accordance with the requirements of subparagraphs (a) and (b) of this paragraph, with authority to receive and respond to any legal process issued by a Pacific Island party in respect of an operator of any fishing vessel of the United States (identified in the form set out in Schedule 1 of Annex II) and shall notify the Administrator of the name and address of such agent, who:
+4.9   The Government of the United States shall ensure that an agent is appointed and maintained in accordance with the requirements of subparagraphs (a) and (b) of this paragraph, with authority to receive and respond to any legal process issued by a Pacific Island party in respect of an operator of any fishing vessel of the United States (identified in the form set out in Schedule 1 of Annex II) and shall notify the Administrator of the name and address of such agent, who:
 
        (a)   shall be located in Port Moresby for the purpose of receiving and responding to any legal process issued in accordance with this Article; and
 
@@ -9673,35 +9673,35 @@ ARTICLE 5
 
 COMPLIANCE POWERS
 
-5.1  It is recognised that the respective Pacific Island parties may enforce the provisions of this Treaty and licences issued thereunder, including arrangements made pursuant to Article 3.3 and licences issued thereunder, in waters under their respective jurisdictions.
+5.1   It is recognised that the respective Pacific Island parties may enforce the provisions of this Treaty and licences issued thereunder, including arrangements made pursuant to Article 3.3 and licences issued thereunder, in waters under their respective jurisdictions.
 
-5.2  The Governments of the Pacific Island parties shall promptly notify the Government of the United States of any arrest of a fishing vessel of the United States or any of its crew and of any charges filed or proceedings instituted following the arrest, in accordance with this Article.
+5.2   The Governments of the Pacific Island parties shall promptly notify the Government of the United States of any arrest of a fishing vessel of the United States or any of its crew and of any charges filed or proceedings instituted following the arrest, in accordance with this Article.
 
-5.3  Fishing vessels of the United States and their crews arrested for breach of this Treaty shall be promptly released upon the posting of a reasonable bond or other security. Penalties applied in accordance with this Treaty for fishing violations shall not be unreasonable in relation to the offence and shall not include imprisonment or corporal punishment.
+5.3   Fishing vessels of the United States and their crews arrested for breach of this Treaty shall be promptly released upon the posting of a reasonable bond or other security. Penalties applied in accordance with this Treaty for fishing violations shall not be unreasonable in relation to the offence and shall not include imprisonment or corporal punishment.
 
-5.4  The Government of the United States shall not apply sanctions of any kind including deductions, however effected, from any amounts which might otherwise have been paid to any Pacific Island party, and restrictions on trade with any Pacific Island party, as a result of any enforcement measure taken by a Pacific Island party in accordance with this Article.
+5.4   The Government of the United States shall not apply sanctions of any kind including deductions, however effected, from any amounts which might otherwise have been paid to any Pacific Island party, and restrictions on trade with any Pacific Island party, as a result of any enforcement measure taken by a Pacific Island party in accordance with this Article.
 
-5.5  The Governments of the parties shall adopt and inform the other parties of such provisions in their national laws as may be necessary to give effect to this Treaty.
+5.5   The Governments of the parties shall adopt and inform the other parties of such provisions in their national laws as may be necessary to give effect to this Treaty.
 
-5.6  Where legal proceedings have been instituted by the Government of the United States pursuant to Article 4, no Pacific Island party shall proceed with any legal action in respect of the same alleged infringement as long as such proceedings are maintained. Where penalties are levied or proceedings are otherwise concluded by the Government of the United States pursuant to Article 4, the Pacific Island party which has received notice of such final determination shall withdraw any legal charges or proceedings in respect of the same alleged infringement.
+5.6   Where legal proceedings have been instituted by the Government of the United States pursuant to Article 4, no Pacific Island party shall proceed with any legal action in respect of the same alleged infringement as long as such proceedings are maintained. Where penalties are levied or proceedings are otherwise concluded by the Government of the United States pursuant to Article 4, the Pacific  Island party which has received notice of such final determination shall withdraw any legal charges or proceedings in respect of the same alleged infringement.
 
-5.7  During any period in which a party is investigating any infringement of this Treaty involving a fishing vessel of the United States, being an infringement which is alleged to have taken place in waters within the jurisdiction, for any purpose, as recognised by international law, of a Pacific Island party, and if that Pacific Island party so notifies the other parties, any licence issued in respect of that vessel shall, for the purposes of Article 3, be deemed not to authorise fishing in the waters of that Pacific Island party.
+5.7   During any period in which a party is investigating any infringement of this Treaty involving a fishing vessel of the United States, being an infringement which is alleged to have taken place in waters within the jurisdiction, for any purpose, as recognised by international law, of a Pacific Island party, and if that Pacific Island party so notifies the other parties, any licence issued in respect of that vessel shall, for the purposes of Article 3, be deemed not to authorise fishing in the waters of that Pacific Island party.
 
-5.8  If full payment of any amount due as a result of a final judgment or other final determination deriving from an occurrence in waters within the jurisdiction, for any purpose, of a Pacific Island party, is not made to that party within sixty (60) days, the licence for the vessel involved shall be suspended at the request of that party and that vessel shall not be authorised to fish in the Licensing Area until that amount is paid to that party.
+5.8   If full payment of any amount due as a result of a final judgment or other final determination deriving from an occurrence in waters within the jurisdiction, for any purpose, of a Pacific Island party, is not made to that party within sixty (60) days, the licence for the vessel involved shall be suspended at the request of that party and that vessel shall not be authorised to fish in the Licensing Area until that amount is paid to that party.
 
 ARTICLE 6
 
 CONSULTATIONS AND DISPUTE SETTLEMENT
 
-6.1  At the request of any party, consultations shall be held with any other party within sixty (60) days of the date of receipt of the request. All other parties shall be notified of the request for consultations and any party shall be permitted to participate in such consultations.
+6.1   At the request of any party, consultations shall be held with any other party within sixty (60) days of the date of receipt of the request. All other parties shall be notified of the request for consultations and any party shall be permitted to participate in such consultations.
 
-6.2  Any dispute between the Government of the United States and the Government of one or more Pacific Island parties in relation to or arising out of this Treaty may be submitted by any such party to an arbitral tribunal for settlement by arbitration no earlier than one hundred and twenty (120) days following a request for consultations under Article 6.1\. Unless the parties to the dispute agree otherwise, the Arbitration Rules of the United Nations Commission on International Trade Law as at present in force, shall be used.
+6.2   Any dispute between the Government of the United States and the Government of one or more Pacific Island parties in relation to or arising out of this Treaty may be submitted by any such party to an arbitral tribunal for settlement by arbitration no earlier than one hundred and twenty (120) days following a request for consultations under Article 6.1\. Unless the parties to the dispute agree otherwise, the Arbitration Rules of the United Nations Commission on International Trade Law as at present in force, shall be used.
 
-6.3  The Government or Governments of the Pacific Island party or parties to the dispute shall appoint one arbitrator and the Government of the United States shall appoint one arbitrator. The third arbitrator, who shall act as presiding arbitrator of the tribunal, shall be appointed by agreement of the parties to the dispute. In the event of a failure to appoint any arbitrator within the time period provided in the Rules, the arbitrator shall be appointed by the Secretary‑General of the Permanent Court of Arbitration at The Hague.
+6.3   The Government or Governments of the Pacific Island party or parties to the dispute shall appoint one arbitrator and the Government of the United States shall appoint one arbitrator. The third arbitrator, who shall act as presiding arbitrator of the tribunal, shall be appointed by agreement of the parties to the dispute. In the event of a failure to appoint any arbitrator within the time period provided in the Rules, the arbitrator shall be appointed by the Secretary-General of the Permanent Court of Arbitration at The Hague.
 
-6.4  Unless the parties to the dispute agree otherwise, the place of arbitration shall be Port Moresby. The tribunal may hold meetings at such other place or places within the territory of a Pacific Island party or elsewhere within the Pacific Islands region as it may determine. An award or other decision shall be final and binding on the parties to the arbitration, and, unless the parties agree otherwise, shall be made public. The parties shall promptly carry out any award or other decision of the tribunal.
+6.4   Unless the parties to the dispute agree otherwise, the place of arbitration shall be Port   Moresby. The tribunal may hold meetings at such other place or places within the territory of a Pacific Island party or elsewhere within the Pacific Islands region as it may determine. An award or other decision shall be final and binding on the parties to the arbitration, and, unless the parties agree otherwise, shall be made public. The parties shall promptly carry out any award or other decision of the tribunal.
 
-6.5  The fees and expenses of the tribunal shall be paid half by the Government or Governments of the Pacific Island party or parties to the arbitration and half by the Government of the United States, unless the parties to the arbitration agree otherwise.
+6.5   The fees and expenses of the tribunal shall be paid half by the Government or Governments of the Pacific Island party or parties to the arbitration and half by the Government of the United States, unless the parties to the arbitration agree otherwise.
 
 ARTICLE 7
 
@@ -9725,7 +9725,7 @@ AMENDMENT OF THE TREATY
 
        (e)   Any amendment to this Treaty shall be adopted by the approval of all the parties, and shall enter into force upon receipt by the depositary of instruments of ratification, acceptance or approval by the parties.
 
-       (f)   The depositary shall promptly notify all parties of the entry into force of the amendment.
+       (f)    The depositary shall promptly notify all parties of the entry into force of the amendment.
 
 ARTICLE 9
 
@@ -9743,13 +9743,13 @@ NOTIFICATION
 
 10.1   The Administrator and each party shall notify the depositary of their current addresses for the receipt of notices given pursuant to this Treaty, and the depositary shall notify the Administrator and each of the parties of such addresses or any changes thereof. Unless otherwise specified in this Treaty, any notice given in accordance with this Treaty shall be in writing and may be served by hand or sent by telex or, where either method cannot readily be effected, by registered airmail to the address of the party or the Administrator as currently listed with the depositary.
 
-10.2   Delivery by hand shall be effective when made. Delivery by telex shall be deemed to be effective on the business day following the day when the “answer back” appears on the sender’s telex machine. Delivery by registered airmail shall be deemed to be effective twenty‑one (21) days after posting.
+10.2   Delivery by hand shall be effective when made. Delivery by telex shall be deemed to be effective on the business day following the day when the “answer back” appears on the sender’s telex machine. Delivery by registered airmail shall be deemed to be effective twenty-one (21) days after posting.
 
 ARTICLE 11
 
 DEPOSITARY
 
-11.  The depositary for this Treaty shall be the Government of Papua New Guinea.
+11.   The depositary for this Treaty shall be the Government of Papua New Guinea.
 
 ARTICLE 12
 
@@ -9773,9 +9773,9 @@ FINAL CLAUSES
 
 12.9   No reservations may be made to this Treaty.
 
-12.10 Paragraph 9 of this Article does not preclude a State, when signing, ratifying or acceding to this Treaty, from making declarations or statements, provided that such declarations or statements do not purport to exclude or modify the legal effect of the provisions of this Treaty in their application to that State.
+12.10  Paragraph 9 of this Article does not preclude a State, when signing, ratifying or acceding to this Treaty, from making declarations or statements, provided that such declarations or statements do not purport to exclude or modify the legal effect of the provisions of this Treaty in their application to that State.
 
-DONE at Port Moresby on the second day of April, 1987.
+DONE at Port   Moresby on the second day of April, 1987.
 
 REPRESENTATIVES OF THE GOVERNMENTS OF: 
 
@@ -9892,7 +9892,7 @@ PART 3
 
 PROHIBITIONS
 
-5.    The vessel shall not be used for directed fishing for Southern Bluefin Tuna, or for fishing for any kinds of fish other than tunas, except that other kinds of fish may be caught as an incidental by‑catch.
+5.    The vessel shall not be used for directed fishing for Southern Bluefin Tuna, or for fishing for any kinds of fish other than tunas, except that other kinds of fish may be caught as an incidental by-catch.
 
 6.    The vessel shall not be used for fishing by any method, except the purse seine method.
 
@@ -9906,7 +9906,7 @@ PART 4
 
 REPORTING
 
-10.  Information relating to the position of and catch on board the vessel, as described in Part 1 of Schedule 4, shall be provided by telex to the Administrator at the following times:
+10.   Information relating to the position of and catch on board the vessel, as described in Part 1 of Schedule 4, shall be provided by telex to the Administrator at the following times:
 
        (a)   before departure from port for the purpose of beginning a fishing trip in the Licensing Area;
 
@@ -9914,7 +9914,7 @@ REPORTING
 
        (c)   before entry into port for the purpose of unloading fish from any trip involving fishing in the Licensing Area.
 
-11.  Information relating to the position of and catch on board the vessel, as described in Part 2 of Schedule 4, shall be provided to each Pacific Island party in the manner notified to the Government of the United States by that party as follows:
+11.   Information relating to the position of and catch on board the vessel, as described in Part 2 of Schedule 4, shall be provided to each Pacific Island party in the manner notified to the Government of the United States by that party as follows:
 
        (a)   at the time of entry into and of departure from waters which are, for any purpose, subject to the jurisdiction of the Pacific Island party;
 
@@ -9922,19 +9922,19 @@ REPORTING
 
        (c)   as otherwise set out in Part 3 of Schedule 4.
 
-12.  At the end of each day that the vessel is in the Licensing Area, an entry or entries for that day shall be completed on the catch report form as set out in Schedule 5, in accordance with the requirements of that form, and such forms shall be posted by registered airmail to the Administrator within fourteen (14) days following the date of the next entry into a port for the purpose of unloading its fish catch.
+12.   At the end of each day that the vessel is in the Licensing Area, an entry or entries for that day shall be completed on the catch report form as set out in Schedule 5, in accordance with the requirements of that form, and such forms shall be posted by registered airmail to the Administrator within fourteen (14) days following the date of the next entry into a port for the purpose of unloading its fish catch.
 
-13.  Immediately following the unloading of any fish from the vessel, a report shall be completed in the form set out in Schedule 6 and shall be posted by registered airmail to the Administrator within fourteen (14) days following the date of the completion of that unloading operation, or, in the case of unloading by transshipment, within fourteen (14) days following unloading of that transshipment at the processing site.
+13.   Immediately following the unloading of any fish from the vessel, a report shall be completed in the form set out in Schedule 6 and shall be posted by registered airmail to the Administrator within fourteen (14) days following the date of the completion of that unloading operation, or, in the case of unloading by transshipment, within fourteen (14) days following unloading of that transshipment at the processing site.
 
 PART 5
 
 ENFORCEMENT
 
-14.  The master and each member of the crew of the vessel shall immediately comply with every instruction and direction given by an authorised and identified officer of a Pacific Island party, including to stop, to move to a specified location, and to facilitate safe boarding and inspection of the vessel, gear, equipment, records, fish and fish products. Such boarding and inspection shall be conducted as much as possible in a manner so as not to interfere unduly with the lawful operation of the vessel. The operator and each member of the crew shall facilitate and assist in any action by an authorised officer of a Pacific Island party and shall not assault, obstruct, resist, delay, refuse boarding to, intimidate or interfere with an authorised officer in the performance of his or her duties.
+14.   The master and each member of the crew of the vessel shall immediately comply with every instruction and direction given by an authorised and identified officer of a Pacific  Island party, including to stop, to move to a specified location, and to facilitate safe boarding and inspection of the vessel, gear, equipment, records, fish and fish products. Such boarding and inspection shall be conducted as much as possible in a manner so as not to interfere unduly with the lawful operation of the vessel. The operator and each member of the crew shall facilitate and assist in any action by an authorised officer of a Pacific  Island party and shall not assault, obstruct, resist, delay, refuse boarding to, intimidate or interfere with an authorised officer in the performance of his or her duties.
 
-15.  The international distress frequency, 2.182 MHz, and 156.8 MHz (Channel 16, VHF) shall be monitored continuously from the vessel for the purpose of facilitating communication with the surveillance and enforcement authorities of the parties.
+15.   The international distress frequency, 2.182 MHz, and 156.8 MHz (Channel 16, VHF) shall be monitored continuously from the vessel for the purpose of facilitating communication with the surveillance and enforcement authorities of the parties.
 
-16.  The international radio call sign of the vessel shall be painted in white on a black background, or in black on a white background, in the following manner:
+16.   The international radio call sign of the vessel shall be painted in white on a black background, or in black on a white background, in the following manner:
 
        (a)   amidships on both sides immediately below the gunwale, and on a horizontal plane on the superstructure, in letters and figures 20 centimetres apart, with each letter and figure being at least one metre high and 50 centimetres wide and with each line at least 12.5 centimetres wide;
 
@@ -9944,15 +9944,15 @@ ENFORCEMENT
 
 and at all times while the vessel is within the Licensing Area or a Closed Area, all parts of these markings shall be clear, distinct and uncovered.
 
-17.  The licence shall be carried on board the vessel and produced at the request of an authorised enforcement official of any of the parties. Prior to receipt of the licence, the correct citation of the licence number shall satisfy this requirement.
+17.   The licence shall be carried on board the vessel and produced at the request of an authorised enforcement official of any of the parties. Prior to receipt of the licence, the correct citation of the licence number shall satisfy this requirement.
 
 PART 6
 
 OBSERVERS
 
-18.  The operator and each member of the crew of the vessel shall allow and assist any person identified as an observer by the Pacific Island parties to:
+18.   The operator and each member of the crew of the vessel shall allow and assist any person identified as an observer by the Pacific Island parties to:
 
-       (a)   board the vessel for scientific, compliance, monitoring and other functions at the point and time notified by the Pacific Island parties to the Government of the United States;
+       (a)   board the vessel for scientific, compliance, monitoring and other functions at the point and time notified by the Pacific Island parties to the Government of the United   States;
 
        (b)   have full access to and the use of facilities and equipment on board the vessel which the observer may determine is necessary to carry out his or her duties; have full access to the bridge, fish on board and areas which may be used to hold, process, weigh and store fish; remove samples; have full access to the vessel’s records, including its log and documentation for the purpose of inspection and copying; and gather any other information relating to fisheries in the Licensing Area; without interfering unduly with the lawful operation of the vessel;
 
@@ -9962,21 +9962,21 @@ OBSERVERS
 
 and no operator or crew member of the vessel shall assault, obstruct, resist, delay, refuse boarding to, intimidate or interfere with an observer in the performance of his or her duties.
 
-19\.  The operator shall provide the observer, while on board the vessel, at no expense to the Pacific Island parties, with food, accommodation and medical facilities of such reasonable standard as may be acceptable to the Pacific Island party whose representative is serving as the observer.
+19\.   The operator shall provide the observer, while on board the vessel, at no expense to the Pacific  Island parties, with food, accommodation and medical facilities of such reasonable standard as may be acceptable to the Pacific Island party whose representative is serving as the observer.
 
-20.  Any operator of the vessel from which any fish taken in the Licensing Area is unloaded shall allow, or arrange for, and assist any person authorised for this purpose by the Pacific Island parties to have full access to any place where such fish is unloaded, to remove samples and to gather any other information relating to fisheries in the Licensing Area.
+20.   Any operator of the vessel from which any fish taken in the Licensing Area is unloaded shall allow, or arrange for, and assist any person authorised for this purpose by the Pacific Island parties to have full access to any place where such fish is unloaded, to remove samples and to gather any other information relating to fisheries in the Licensing Area.
 
-21.  An observer programme shall be conducted in accordance with this Treaty and provisions that may be agreed from time to time.
+21.   An observer programme shall be conducted in accordance with this Treaty and provisions that may be agreed from time to time.
 
 PART 7
 
 MISCELLANEOUS REQUIREMENTS
 
-22.  At all times while the vessel is in a Closed Area, the fishing gear of the vessel shall be stowed in such a manner as not to be readily available for fishing. In particular, the boom shall be lowered as far as possible so that the vessel cannot be used for fishing but so that the skiff is accessible for use in emergency situations; the helicopter, if any, shall be tied down; and launches shall be secured.
+22.   At all times while the vessel is in a Closed Area, the fishing gear of the vessel shall be stowed in such a manner as not to be readily available for fishing. In particular, the boom shall be lowered as far as possible so that the vessel cannot be used for fishing but so that the skiff is accessible for use in emergency situations; the helicopter, if any, shall be tied down; and launches shall be secured.
 
-23.  The vessel shall be operated in such a way that the activities of traditional and locally based fishermen and fishing vessels are not disrupted or in any other way adversely affected.
+23.   The vessel shall be operated in such a way that the activities of traditional and locally based fishermen and fishing vessels are not disrupted or in any other way adversely affected.
 
-24.  Any information required to be recorded, or to be notified, communicated or reported pursuant to a requirement of this Treaty shall be true, complete and correct. Any change in circumstances which has the effect of rendering any such information false, incomplete or misleading shall be notified to the Administrator immediately.
+24.   Any information required to be recorded, or to be notified, communicated or reported pursuant to a requirement of this Treaty shall be true, complete and correct. Any change in circumstances which has the effect of rendering any such information false, incomplete or misleading shall be notified to the Administrator immediately.
 
 SCHEDULE 1
 
@@ -10012,9 +10012,9 @@ Fishing Ordinance, 1950
 
 Territorial Sea and Exclusive Economic Zone Act, 1977
 
-Federated States of Micronesia
+Federated   States of Micronesia
 
-Titles 18 and 24 of the Code of the   Federated States of Micronesia, as amended by Public Law Nos. 2‑28, 2‑31, 3‑9, 3‑10, 3‑34, and 3‑80
+Titles 18 and 24 of the Code of the   Federated States of Micronesia, as amended by Public Law Nos. 2-28, 2-31, 3-9, 3-10, 3-34, and 3-80
 
 Fiji
 
@@ -10036,7 +10036,7 @@ Fisheries (Amendment) Act, 1984
 
 Marine Zones (Declaration) Act, 1983
 
-Marshall Islands
+Marshall   Islands
 
 Marine Resources Jurisdiction Act, 1978
 
@@ -10074,7 +10074,7 @@ Palau
 
 Palau National Code, Title 27
 
-Papua New Guinea
+Papua New   Guinea
 
 Fisheries Act (Cap 214)
 
@@ -10086,7 +10086,7 @@ Tuna Resources Management (National Seas) Act (Cap 224)
 
 Whaling Act (Cap 225)
 
-Solomon Islands
+Solomon   Islands
 
 Delimitation of Marine Waters Act, 1978
 
@@ -10124,7 +10124,7 @@ Fisheries Regulations, 1983
 
 Maritime Zones Act, 1981
 
-Western Samoa
+Western   Samoa
 
 Exclusive Economic Zone Act, 1977
 
@@ -10142,11 +10142,11 @@ Cook Islands. Territorial Sea.
 
 Federated States of Micronesia. Three nautical mile territorial sea and nine nautical mile exclusive fishery zone and on all named banks and reefs as depicted on the following charts:
 
-DMAHTC NO 81019       (2nd. ed., Mar. 1945; revised 7/17/72\. corrected through NM 3/78 of  June 21, 1978).
+DMAHTC NO 81019        (2nd. ed., Mar. 1945; revised 7/17/72\. corrected through NM 3/78 of June 21, 1978).
 
-DMAHTC NO 81023       (3rd. ed., Aug. 7, 1976).
+DMAHTC NO 81023        (3rd. ed., Aug. 7, 1976).
 
-DMAHTC NO 81002       (4th. ed., Jan. 26, 1980; corrected through NM 4/80).
+DMAHTC NO 81002        (4th. ed., Jan. 26, 1980; corrected through NM 4/80).
 
 Fiji. Internal waters, archipelagic waters and territorial seas of Fiji and Rotuma and its Dependencies.
 
@@ -10158,13 +10158,13 @@ Nauru. The territorial waters as defined by Nauru Interpretation Act, 1971, Sect
 
 New Zealand. Territorial waters; waters within 6 nautical miles of outer boundary of territorial waters; all waters to west of New Zealand main islands and south of 39º South latitude; all waters to east of New Zealand main islands south of 40º South latitude; and in respect of Tokelau: areas within 12 nautical miles of all island and reef baselines; twelve and one half nautical miles either side of a line joining Atafu and Nukunonu and Faka’ofo; and coordinates as follows:
 
-Atafu:  8º35´10´´S, 172º29´30´´W
+Atafu:   8º35´10´´S,   172º29´30´´W
 
-Nukunonu: 9º06´25´´S, 171º52´10´´W
+Nukunonu:   9º06´25´´S,    171º52´10´´W
 
-                   9º11´30´´S, 171º47´00´´W
+                   9º11´30´´S,    171º47´00´´W
 
-Faka’ofo:  9º22´30´´S, 171º16´30´´W
+Faka’ofo:   9º22´30´´S,   171º16´30´´W
 
 Niue. Territorial sea and within 3 nautical miles of Beveridge Reef, Antiope Reef and Haran Reef as depicted by appropriate symbols on NZ 225F (chart showing the territorial sea and exclusive economic zone of Niue pursuant to the Niue Territorial Sea and Exclusive Economic Zone Act of 1978).
 
@@ -10172,7 +10172,7 @@ Palau. Within 12 nautical miles of all island baselines in the Palau Islands; wi
 
 Papua New Guinea. In addition to its territorial sea and internal waters, within the area bounded by the following parallels and meridians—from latitude 0º30´ South to latitude 3º30´ South, and from longitude 149º East to longitude 153º East.
 
-Solomon Islands. All waters within the fishery limits of the Solomon Islands (including internal waters, territorial sea and archipelagic waters) except that part of the fishery limits east and north of the following lines: commencing at a point 161º East, 4º20´ South, then extending due south along 161º to a point 6º30´ South, then by a line extending due east to a point 165º East, then by a line due south to a point 8º South, then by a line due east to a point 169º55´ East.
+Solomon   Islands. All waters within the fishery limits of the Solomon Islands (including internal waters, territorial sea and archipelagic waters) except that part of the fishery limits east and north of the following lines: commencing at a point 161º East, 4º20´ South, then extending due south along 161º to a point 6º30´ South, then by a line extending due east to a point 165º East, then by a line due south to a point 8º South, then by a line due east to a point 169º55´ East.
 
 Tonga. All waters with depths of not more than 1,000 metres, within the area bounded by the fifteenth and twenty third and one half degrees of south latitudes and the one hundred and seventy third and the one hundred and seventy seventh degrees of west longitudes; also within a radius of twelve nautical miles from the islands of Teleki Tonga and Teleki Tokelau.
 
@@ -10182,15 +10182,15 @@ Vanuatu. Archipelagic waters and the territorial sea, and internal waters.
 
 Western Samoa. Territorial sea; reefs, banks and areas bounded/enclosed by the following parallels and meridians to the extent such areas are within Western Samoa fisheries jurisdiction:
 
-       1.    From latitude 12º58´ South to latitude 13º11.5´ South and longitude 174º 5.5´ West to longitude 174º 26´ West.
+       1.     From latitude 12º58´ South to latitude 13º11.5´ South and longitude 174º 5.5´ West to longitude 174º 26´ West.
 
-       2.    From latitude 12º 12´ South to latitude 12º 38.5´ South and longitude 173º 47´ West to longitude 174º 25´ West.
+       2.     From latitude 12º 12´ South to latitude 12º 38.5´ South and longitude 173º 47´ West to longitude 174º 25´ West.
 
-       3.    From latitude 13º 7´ South to latitude 13º 19´ South and longitude 172º 59´ West to longitude 173º 38.5´ West.
+       3.     From latitude 13º 7´ South to latitude 13º 19´ South and longitude 172º 59´ West to longitude 173º 38.5´ West.
 
-       4.    From latitude 14º 51´ South to latitude 15º 3.4´ South and longitude 172º 10.7´ West to longitude 172º 19.1´ West.
+       4.     From latitude 14º 51´ South to latitude 15º 3.4´ South and longitude 172º 10.7´ West to longitude 172º 19.1´ West.
 
-       5.    From latitude 14º 20.5´ South to latitude 14º 28´ South and longitude 171º 8´ West to longitude 171º 17´ West.
+       5.     From latitude 14º 20.5´ South to latitude 14º 28´ South and longitude 171º 8´ West to longitude 171º 17´ West.
 
 and within 2 nautical miles of any anchored fish aggregating device within the EEZ for which notification of its location shall be given by geographical coordinates.
 
@@ -10200,9 +10200,9 @@ SCHEDULE 3
 
 LIMITED AREAS
 
-Solomon Islands
+Solomon   Islands
 
-1.    The Solomon Islands Limited Area is all of the Licensing Area within the fishery limits of Solomon Islands as described in the Fishery Limits Act 1977 of Solomon Islands.
+1.    The Solomon   Islands Limited Area is all of the Licensing Area within the fishery limits of Solomon Islands as described in the Fishery Limits Act 1977 of Solomon   Islands.
 
 2.    “Fishing day” means any day or part of a day of the week in which a vessel is used for fishing in the Solomon Islands Limited Area.
 
@@ -10308,7 +10308,7 @@ While in the Kiribati exclusive economic zone, report on entry into or exit from
 
        (d)   24 hours notice of intention to enter the New Zealand exclusive economic zone.
 
-5.    Solomon Islands
+5.    Solomon   Islands
 
 Report on:
 
@@ -10471,7 +10471,7 @@ PURSE SEINE VESSEL CATCH REPORT FORM
 </tr>
 <tr>
   <td>
-    <div>FOR GROUP PURSE‑SEINER_________________________</div>
+    <div>FOR GROUP PURSE-SEINER_________________________</div>
   </td>
   <td>
     <div>YEAR_____________________</div>
@@ -10507,7 +10507,7 @@ PURSE SEINE VESSEL CATCH REPORT FORM
 
 <tr>
   <td>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="313" bgcolor="white"> <span style="position:absolute;left:0pt;z-index:251657216"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" style="margin-bottom:2.0pt;text-align:justify; line-height:7.0pt"> <span style="font-size:6.0pt">Numerical expression of school type, comments, and reason for discard</span> </p> <p class="MsoNormal" style="text-align:justify;line-height:7.0pt"> <span style="font-size:6.0pt;font-family:">SCHOOL TYPE</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">1 Log</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">2 Surface</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">3 Whale</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">4 Porpoise</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">5 Raft</span> </p> <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom: 2.0pt;margin-left:5.95pt;text-align:justify;text-indent:-5.95pt; line-height:7.0pt"> <span style="font-size:6.0pt;font-family:">6 Other</span> </p> <p class="MsoNormal" style="margin-top:1.0pt;text-align:justify;line-height: 7.0pt"> <span style="font-size:6.0pt;font-family:">COMMENTS</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">1 A full day in transit between fishing grounds or to or from fishing grounds.</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">2 A full day not fishing due to breakdown.</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">3 A full day not fishing due to bad weather.</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">4 A full day searching for fish but no sets made.</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">5 Part of day searching for fish but no sets made.</span> </p> <p class="MsoNormal" style="margin-left:5.95pt;text-align:justify; text-indent:-5.95pt;line-height:6.0pt"> <span style="font-size:6.0pt; font-family:">6 Set unsuccessful for any reason, e.g.</span> <span style="font-size:4.0pt;font-family:"></span> <span style="font-size:6.0pt;font-family:">fish dive, roll up.</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="313" bgcolor="white"> <span style="position:absolute;left:0pt;z-index:1"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" style="margin-bottom:2.0pt;text-align:justify; line-height:7.0pt"> <span style="font-size:6.0pt">Numerical expression of school type, comments, and reason for discard</span> </p> <p class="MsoNormal" style="text-align:justify;line-height:7.0pt"> <span style="font-size:6.0pt;font-family:Helvetica">SCHOOL TYPE</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">1 Log</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">2 Surface</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">3 Whale</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">4 Porpoise</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">5 Raft</span> </p> <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom: 2.0pt;margin-left:5.95pt;text-align:justify;text-indent:-5.95pt; line-height:7.0pt"> <span style="font-size:6.0pt;font-family:Helvetica">6 Other</span> </p> <p class="MsoNormal" style="margin-top:1.0pt;text-align:justify;line-height: 7.0pt"> <span style="font-size:6.0pt;font-family:Helvetica">COMMENTS</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">1 A full day in transit between fishing grounds or to or from fishing grounds.</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">2 A full day not fishing due to breakdown.</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">3 A full day not fishing due to bad weather.</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">4 A full day searching for fish but no sets made.</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">5 Part of day searching for fish but no sets made.</span> </p> <p class="MsoNormal" style="margin-left:5.95pt;text-align:justify; text-indent:-5.95pt;line-height:6.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">6 Set unsuccessful for any reason, e.g.</span> <span style="font-size:4.0pt;font-family:Helvetica"></span> <span style="font-size:6.0pt;font-family:Helvetica">fish dive, roll up.</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
   </td>
   <td colspan="4">
     <div>NOON OR SET 
@@ -10664,7 +10664,7 @@ SIZE
   </td>
   <td>
     <div> 
-COM‑ 
+COM- 
 MENTS</div>
   </td>
   <td>
@@ -11455,7 +11455,7 @@ DISCARD</div>
 </tr>
 <tr>
   <td>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="88" bgcolor="white"> <span style="position:absolute;left:0pt;z-index:251658240"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:3.6pt 7.2pt 3.6pt 7.2pt"> <p class="MsoNormal" style="line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">REASON FOR DISCARD</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">1 Undesirable species</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">2 Fish too small</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:">3 Vessel completely loaded</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-indent:-6.0pt; line-height:7.0pt"> <span style="font-size:6.0pt;font-family:">4 Other reason—please specify</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="88" bgcolor="white"> <span style="position:absolute;left:0pt;z-index:2"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:3.6pt 7.2pt 3.6pt 7.2pt"> <p class="MsoNormal" style="line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">REASON FOR DISCARD</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">1 Undesirable species</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">2 Fish too small</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-align:justify; text-indent:-6.0pt;line-height:7.0pt"> <span style="font-size:6.0pt; font-family:Helvetica">3 Vessel completely loaded</span> </p> <p class="MsoNormal" style="margin-left:6.0pt;text-indent:-6.0pt; line-height:7.0pt"> <span style="font-size:6.0pt;font-family:Helvetica">4 Other reason—please specify</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
   </td>
   <td>
     <div> </div>
@@ -11560,37 +11560,37 @@ PURSE SEINE UNLOADING LOGSHEET
 
 Radio Call Sign or
 
-Vessel Name ..................................      Regional Register No. ................ 
+Vessel Name ...................................      Regional Register No. .................. 
 
 (1)   Port .................................................................................................. 
 
-or, If at sea, position: Lat .................................. Long ............................ 
+or, If at sea, position: Lat ..................................... Long ............................. 
 
 (2)   Dates
 
 (a).. At unloading point
 
-...... Arrival ..................................       Departure ............................. 
+...... Arrival ...................................       Departure ............................. 
 
 (b).. At unloading
 
-...... Commencement ....................       Completion .......................... 
+...... Commencement .....................       Completion ............................ 
 
-(3)   Partial or complete unloading ........................................................... 
+(3)   Partial or complete unloading .............................................................. 
 
-(4)   Unloading to .................................................................................... 
+(4)   Unloading to ...................................................................................... 
 
-(5)   (a)   Carrier Vessel Name ................................................................. 
+(5)   (a)   Carrier Vessel Name .................................................................. 
 
-       and Radio call sign or regional Register No. ..................................... 
+       and Radio call sign or regional Register No. ......................................... 
 
        or
 
-(b).. Name and address of company accepting fish .......................... 
+(b).. Name and address of company accepting fish .............................. 
 
 ................................................................................................................. 
 
-(6)   Destination of fish ........................................................................... 
+(6)   Destination of fish .............................................................................. 
 
 ................................................................................................................. 
 
@@ -11729,11 +11729,11 @@ ANNEX II
 
                      (i)    good standing is withdrawn only as a result of:
 
-                                    (A)  the commission of a serious offence against fisheries laws or regulations of a Pacific Island State and the operator has not fully complied with any civil or criminal judgment rendered with respect to such an offence;
+                                    (A)  the commission of a serious offence against fisheries laws or regulations of a Pacific  Island State and the operator has not fully complied with any civil or criminal judgment rendered with respect to such an offence;
 
                                     (B)  evidence existing that gives reasonable cause to believe that the operator has committed a serious offence against the fisheries laws or regulations of any Pacific Island State and that it has not been possible to bring the vessel operator to trial; or
 
-                                    (C)  the vessel operator has failed to comply with information requirements for registration as notified by the Administrator to the Government of the United States;
+                                    (C)  the vessel operator has failed to comply with information requirements for registration as notified by the Administrator to the Government of the United   States;
 
                      (ii)   the Pacific Island party requesting withdrawal of good standing has first consulted the Government of the United States and has made all reasonable efforts to resolve the dispute in question before utilizing the procedures for withdrawal of good standing;
 
@@ -11749,7 +11749,7 @@ ANNEX II
 
                      (ii)   any violation of this Treaty on more than one occasion, providing that the Pacific Island parties, following consultation with the Government of the United States, determine that such multiple violations constitute a serious disregard of this Treaty.
 
-5.    A maximum number of licences may be issued for any Licensing Period as set out in Schedule 2, and, upon request by the Government of the United States, the Pacific Island parties may agree to vary such number.
+5.    A maximum number of licences may be issued for any Licensing Period as set out in Schedule 2, and, upon request by the Government of the United States, the Pacific  Island parties may agree to vary such number.
 
 6.    On receipt of an application for a licence in accordance with this Annex, the Administrator shall take the necessary steps to ensure that:
 
@@ -11771,9 +11771,9 @@ Application is hereby made for a licence authorising the use of the vessel named
 
 2.... RADIO CALL SIGN OF VESSEL: ................................................... 
 
-3.... REGIONAL REGISTER NUMBER OF VESSEL: ............................ 
+3.... REGIONAL REGISTER NUMBER OF VESSEL: ............................. 
 
-4.... FULL NAME AND ADDRESS OF EACH PERSON WHO IS AN OPERATOR OF THE VESSEL, AND STATE WHETHER OWNER, CHARTERER, MASTER OR OTHER. IF OTHER, SPECIFY DETAILS:  
+4.... FULL NAME AND ADDRESS OF EACH PERSON WHO IS AN OPERATOR OF THE VESSEL, AND STATE WHETHER OWNER, CHARTERER, MASTER OR OTHER. IF OTHER, SPECIFY DETAILS:   
 
 .......................................................................................................... 
 
@@ -11783,7 +11783,7 @@ Application is hereby made for a licence authorising the use of the vessel named
 
 .......................................................................................................... 
 
-6.... REGISTRATION NUMBER AND MAKE OF HELICOPTER, IF ANY, TO BE CARRIED ON VESSEL:           
+6.... REGISTRATION NUMBER AND MAKE OF HELICOPTER, IF ANY, TO BE CARRIED ON VESSEL:            
 
 .......................................................................................................... 
 
@@ -11826,9 +11826,9 @@ PART 1
 
        (a)   Annual industry payments shall be made as follows:
 
-                     (i)    for the first annual Licensing Period, a lump sum of US$1.75 million for 35 vessels, with the next five licences to be made available for the same pro‑rata payment as the first 35 licences, and an additional 10 licences to be made available at US$60,000 per vessel;
+                     (i)    for the first annual Licensing Period, a lump sum of US$1.75 million for 35 vessels, with the next five licences to be made available for the same pro-rata payment as the first 35 licences, and an additional 10 licences to be made available at US$60,000 per vessel;
 
-                     (ii)   for subsequent annual Licensing Periods, 40 vessel licences calculated on the same basis as the first 40 vessel licences in sub‑paragraph (i) and indexed to the price of fish as set forth below, with 10 additional licences to be made available at US$60,000 per vessel and indexed to the price of fish as set forth below.
+                     (ii)   for subsequent annual Licensing Periods, 40 vessel licences calculated on the same basis as the first 40 vessel licences in sub-paragraph (i) and indexed to the price of fish as set forth below, with 10 additional licences to be made available at US$60,000 per vessel and indexed to the price of fish as set forth below.
 
        (b)   The indexation shall be applied as follows:
 
@@ -11838,15 +11838,15 @@ PART 1
 
                                     B.    Adjusted Individual Vessel Payment: The Adjusted Individual Vessel Payment is the individual vessel payment of each annual Licensing Period after the first annual Licensing Period. The Adjusted Individual Vessel Payment will always apply to the Licensing Period immediately following its calculation.
 
-                                    C.    Landed Price: The Landed Price is the published standard price per ton (American Tuna Sales Association) for fish delivered to American Samoa prevailing at the time a United States purse seine vessel arrives in port for the purpose of offloading its catch.
+                                    C.    Landed Price: The Landed Price is the published standard price per ton (American Tuna Sales Association) for fish delivered to American Samoa prevailing at the time a United   States purse seine vessel arrives in port for the purpose of offloading its catch.
 
-                                    D.   Average Landed Price: The Average Landed Price is calculated by averaging the established landed price categories for yellowfin and skipjack tuna in American Samoa. The landed price categories to be used are: over 7.5 pounds, 4 to 7.5 pounds and 3 to 4 pounds for skipjack; over 20 pounds, 7.5 to 20 pounds and 4 to 7.5 pounds for yellowfin.
+                                    D.   Average Landed Price: The Average Landed Price is calculated by averaging the established landed price categories for yellowfin and skipjack tuna in American   Samoa. The landed price categories to be used are: over 7.5 pounds, 4 to 7.5 pounds and 3 to 4 pounds for skipjack; over 20 pounds, 7.5 to 20 pounds and 4 to 7.5 pounds for yellowfin.
 
                                     E.    Base Price: The Base Price is the Average Landed Price for the three months prior to the Treaty entering into force.
 
                                     F.    Estimated Landed Value: The Estimated Landed Value is the Average Landed Price in effect at the time of a vessel’s landing weighted by the yellowfin/skipjack mix ratio to be calculated from information on Schedule 6 for that vessel.
 
-                                    G.   Average Estimated Landed Value: The Average Estimated Landed Value is the Estimated Landed Value for all landings by United States purse seine vessels in American Samoa in the four quarters preceding the final quarter of the applicable Licensing Period divided by the total number of those landings for the same period.
+                                    G.    Average Estimated Landed Value: The Average Estimated Landed Value is the Estimated Landed Value for all landings by United States purse seine vessels in American   Samoa in the four quarters preceding the final quarter of the applicable Licensing Period divided by the total number of those landings for the same period.
 
                      (ii)   CALCULATION AND APPLICATION OF INDEXING FACTOR
 
@@ -11864,13 +11864,13 @@ PART 1
 
                             If the established price categories are revised, or if there is a change in the tuna industry structure which makes the price calculations as set forth above inappropriate, the Administrator may consult with representatives of the Government of the United States as necessary to revise the formula.
 
-       (c)   There shall be no pro‑ration of the Base Vessel Payment or the Adjusted Individual Vessel Payment. There shall be no refunds of the Base Vessel Payment or the Adjusted Individual Vessel Payment following licence issuance pursuant to Annex II.
+       (c)   There shall be no pro-ration of the Base Vessel Payment or the Adjusted Individual Vessel Payment. There shall be no refunds of the Base Vessel Payment or the Adjusted Individual Vessel Payment following licence issuance pursuant to Annex II.
 
 2.    Sums payable pursuant to the related Agreement between the South Pacific Forum Fisheries Agency and the Government of the United States.
 
 PART 2
 
-3.    Technical assistance, including provision of assistance by technicians, by the United States tuna industry valued at US$250,000 annually in response to requests co‑ordinated through the Administrator.
+3.    Technical assistance, including provision of assistance by technicians, by the United   States tuna industry valued at US$250,000 annually in response to requests co-ordinated through the Administrator.
 
 SCHEDULE 3
 
@@ -11880,31 +11880,31 @@ LICENCE FORM
 
 The vessel described in this licence is hereby authorised to engage in fishing in the Licensing Area for the period described in this licence, in accordance with the terms and conditions referred to in Annex I.
 
-Full name of vessel: ..................................................................................... 
+Full name of vessel: ....................................................................................... 
 
-Radio call sign of vessel: ............................................................................. 
+Radio call sign of vessel: ................................................................................ 
 
-Regional register number of vessel: ............................................................. 
+Regional register number of vessel: ................................................................. 
 
-Helicopter or other aircraft which may be used in association with the fishing activities of the vessel:           
+Helicopter or other aircraft which may be used in association with the fishing activities of the vessel:          
 
 Period of validity:
 
 The period of validity of this licence shall be no longer than one year:
 
-From ................................... ,  19...... 
+From ................................... ,  19....... 
 
-To ....................................... ,  19...... 
+To ....................................... ,  19....... 
 
 ...................................................... 
 
 For and on behalf of the Pacific Island parties
 
-Date of issue: ............................... 
+Date of issue: ................................ 
 
-Licence number: .......................... 
+Licence number: ............................ 
 
-Warning:       It is an offence against the laws of many nations, including the United States of America, to violate the requirements of Annex I. Penalties may include substantial fines and vessel forfeiture.
+Warning:        It is an offence against the laws of many nations, including the United States of   America, to violate the requirements of Annex I. Penalties may include substantial fines and vessel forfeiture.
 
 # Schedule 2—Fish Stocks Agreement
 
@@ -11916,17 +11916,17 @@ AGREEMENT FOR THE IMPLEMENTATION OF THE PROVISIONS OF THE UNITED NATIONS CONVENT
 
           <u>Recalling</u> the relevant provisions of the United Nations Convention on the Law of the Sea of 10 December 1982,
 
-          <u>Determined</u> to ensure the long‑term conservation and sustainable use of straddling fish stocks and highly migratory fish stocks,
+          <u>Determined</u> to ensure the long-term conservation and sustainable use of straddling fish stocks and highly migratory fish stocks,
 
           <u>Resolved</u> to improve cooperation between States to that end,
 
           <u>Calling</u> for more effective enforcement by flag States, port States and coastal States of the conservation and management measures adopted for such stocks,
 
-          <u>Seeking</u> to address in particular the problems identified in chapter 17, programme area C, of Agenda 21 adopted by the United Nations Conference on Environment and Development, namely, that the management of high seas fisheries is inadequate in many areas and that some resources are overutilized; noting that there are problems of unregulated fishing, over‑capitalization, excessive fleet size, vessel reflagging to escape controls, insufficiently selective gear, unreliable databases and lack of sufficient cooperation between States,
+          <u>Seeking</u> to address in particular the problems identified in chapter 17, programme area C, of Agenda 21 adopted by the United Nations Conference on Environment and Development, namely, that the management of high seas fisheries is inadequate in many areas and that some resources are overutilized; noting that there are problems of unregulated fishing, over-capitalization, excessive fleet size, vessel reflagging to escape controls, insufficiently selective gear, unreliable databases and lack of sufficient cooperation between States,
 
           <u>Committing</u> themselves to responsible fisheries,
 
-          <u>Conscious</u> of the need to avoid adverse impacts on the marine environment, preserve biodiversity, maintain the integrity of marine ecosystems and minimize the risk of long‑term or irreversible effects of fishing operations,
+          <u>Conscious</u> of the need to avoid adverse impacts on the marine environment, preserve biodiversity, maintain the integrity of marine ecosystems and minimize the risk of long-term or irreversible effects of fishing operations,
 
           <u>Recognizing</u> the need for specific assistance, including financial, scientific and technological assistance, in order that developing States can participate effectively in the conservation, management and sustainable use of straddling fish stocks and highly migratory fish stocks,
 
@@ -11960,7 +11960,7 @@ GENERAL PROVISIONS
 
           (i)      to any entity referred to in article 305, paragraph 1(c), (d) and (e), of the Convention and
 
-          (ii)     subject to article 47, to any entity referred to as an “international organization” in Annex IX, article 1, of the Convention
+          (ii)      subject to article 47, to any entity referred to as an “international organization” in Annex IX, article 1, of the Convention
 
 which becomes a Party to this Agreement, and to that extent “States Parties” refers to those entities.
 
@@ -11970,7 +11970,7 @@ which becomes a Party to this Agreement, and to that extent “States Parties”
 
 <u>Objective</u>
 
-          The objective of this Agreement is to ensure the long‑term conservation and sustainable use of straddling fish stocks and highly migratory fish stocks through effective implementation of the relevant provisions of the Convention.
+          The objective of this Agreement is to ensure the long-term conservation and sustainable use of straddling fish stocks and highly migratory fish stocks through effective implementation of the relevant provisions of the Convention.
 
 <u>Article 3</u>
 
@@ -12004,7 +12004,7 @@ STOCKS
 
           In order to conserve and manage straddling fish stocks and highly migratory fish stocks, coastal States and States fishing on the high seas shall, in giving effect to their duty to cooperate in accordance with the Convention:
 
-          (a)     adopt measures to ensure long‑term sustainability of straddling fish stocks and highly migratory fish stocks and promote the objective of their optimum utilization;
+          (a)     adopt measures to ensure long-term sustainability of straddling fish stocks and highly migratory fish stocks and promote the objective of their optimum utilization;
 
           (b)     ensure that such measures are based on the best scientific evidence available and are designed to maintain or restore stocks at levels capable of producing maximum sustainable yield, as qualified by relevant environmental and economic factors, including the special requirements of developing States, and taking into account fishing patterns, the interdependence of stocks and any generally recommended international minimum standards, whether subregional, regional or global;
 
@@ -12014,7 +12014,7 @@ STOCKS
 
           (e)     adopt, where necessary, conservation and management measures for species belonging to the same ecosystem or associated with or dependent upon the target stocks, with a view to maintaining or restoring populations of such species above levels at which their reproduction may become seriously threatened;
 
-          (f)      minimize pollution, waste, discards, catch by lost or abandoned gear, catch of non‑target species, both fish and non‑fish species, (hereinafter referred to as non‑target species) and impacts on associated or dependent species, in particular endangered species, through measures including, to the extent practicable, the development and use of selective, environmentally safe and cost‑effective fishing gear and techniques;
+          (f)      minimize pollution, waste, discards, catch by lost or abandoned gear, catch of non-target species, both fish and non-fish species, (hereinafter referred to as non-target species) and impacts on associated or dependent species, in particular endangered species, through measures including, to the extent practicable, the development and use of selective, environmentally safe and cost-effective fishing gear and techniques;
 
           (g)     protect biodiversity in the marine environment;
 
@@ -12022,7 +12022,7 @@ STOCKS
 
           (i)      take into account the interests of artisanal and subsistence fishers;
 
-          (j)      collect and share, in a timely manner, complete and accurate data concerning fishing activities on, <u>inter alia</u>, vessel position, catch of target and non‑target species and fishing effort, as set out in Annex I, as well as information from national and international research programmes;
+          (j)      collect and share, in a timely manner, complete and accurate data concerning fishing activities on, <u>inter alia</u>, vessel position, catch of target and non-target species and fishing effort, as set out in Annex I, as well as information from national and international research programmes;
 
           (k)     promote and conduct scientific research and develop appropriate technologies in support of fishery conservation and management; and
 
@@ -12038,19 +12038,19 @@ STOCKS
 
 3.       In implementing the precautionary approach, States shall:
 
-          (a)     improve decision‑making for fishery resource conservation and management by obtaining and sharing the best scientific information available and implementing improved techniques for dealing with risk and uncertainty;
+          (a)     improve decision-making for fishery resource conservation and management by obtaining and sharing the best scientific information available and implementing improved techniques for dealing with risk and uncertainty;
 
-          (b)     apply the guidelines set out in Annex II and determine, on the basis of the best scientific information available, stock‑specific reference points and the action to be taken if they are exceeded;
+          (b)     apply the guidelines set out in Annex II and determine, on the basis of the best scientific information available, stock-specific reference points and the action to be taken if they are exceeded;
 
-          (c)     take into account, <u>inter alia</u>, uncertainties relating to the size and productivity of the stocks, reference points, stock condition in relation to such reference points, levels and distribution of fishing mortality and the impact of fishing activities on non‑target and associated or dependent species, as well as existing and predicted oceanic, environmental and socio‑economic conditions; and
+          (c)     take into account, <u>inter alia</u>, uncertainties relating to the size and productivity of the stocks, reference points, stock condition in relation to such reference points, levels and distribution of fishing mortality and the impact of fishing activities on non-target and associated or dependent species, as well as existing and predicted oceanic, environmental and socio-economic conditions; and
 
-          (d)     develop data collection and research programs to assess the impact of fishing on non‑target and associated or dependent species and their environment, and adopt plans which are necessary to ensure the conservation of such species and to protect habitats of special concern.
+          (d)     develop data collection and research programs to assess the impact of fishing on non-target and associated or dependent species and their environment, and adopt plans which are necessary to ensure the conservation of such species and to protect habitats of special concern.
 
 4.       States shall take measures to ensure that, when reference points are approached, they will not be exceeded. In the event that they are exceeded, States shall, without delay, take the action determined under paragraph 3(b) to restore the stocks.
 
-5.       Where the status of target stocks or non‑target or associated or dependent species is of concern, States shall subject such stocks and species to enhanced monitoring in order to review their status and the efficacy of conservation and management measures. They shall revise those measures regularly in the light of new information.
+5.       Where the status of target stocks or non-target or associated or dependent species is of concern, States shall subject such stocks and species to enhanced monitoring in order to review their status and the efficacy of conservation and management measures. They shall revise those measures regularly in the light of new information.
 
-6.       For new or exploratory fisheries, States shall adopt as soon as possible cautious conservation and management measures, including, <u>inter alia</u>, catch limits and effort limits. Such measures shall remain in force until there are sufficient data to allow assessment of the impact of the fisheries on the long‑term sustainability of the stocks, whereupon conservation and management measures based on that assessment shall be implemented. The latter measures shall, if appropriate, allow for the gradual development of the fisheries.
+6.       For new or exploratory fisheries, States shall adopt as soon as possible cautious conservation and management measures, including, <u>inter alia</u>, catch limits and effort limits. Such measures shall remain in force until there are sufficient data to allow assessment of the impact of the fisheries on the long-term sustainability of the stocks, whereupon conservation and management measures based on that assessment shall be implemented. The latter measures shall, if appropriate, allow for the gradual development of the fisheries.
 
 7.       If a natural phenomenon has a significant adverse impact on the status of straddling fish stocks or highly migratory fish stocks, States shall adopt conservation and management measures on an emergency basis to ensure that fishing activity does not exacerbate such adverse impact. States shall also adopt such measures on an emergency basis where fishing activity presents a serious threat to the sustainability of such stocks. Measures taken on an emergency basis shall be temporary and shall be based on the best scientific evidence available.
 
@@ -12106,7 +12106,7 @@ HIGHLY MIGRATORY FISH STOCKS
 
 1.       Coastal States and States fishing on the high seas shall, in accordance with the Convention, pursue cooperation in relation to straddling fish stocks and highly migratory fish stocks either directly or through appropriate subregional or regional fisheries management organizations or arrangements, taking into account the specific characteristics of the subregion or region, to ensure effective conservation and management of such stocks.
 
-2.       States shall enter into consultations in good faith and without delay, particularly where there is evidence that the straddling fish stocks and highly migratory fish stocks concerned may be under threat of over‑exploitation or where a new fishery is being developed for such stocks. To this end, consultations may be initiated at the request of any interested State with a view to establishing appropriate arrangements to ensure conservation and management of the stocks. Pending agreement on such arrangements, States shall observe the provisions of this Agreement and shall act in good faith and with due regard to the rights, interests and duties of other States.
+2.       States shall enter into consultations in good faith and without delay, particularly where there is evidence that the straddling fish stocks and highly migratory fish stocks concerned may be under threat of over-exploitation or where a new fishery is being developed for such stocks. To this end, consultations may be initiated at the request of any interested State with a view to establishing appropriate arrangements to ensure conservation and management of the stocks. Pending agreement on such arrangements, States shall observe the provisions of this Agreement and shall act in good faith and with due regard to the rights, interests and duties of other States.
 
 3.       Where a subregional or regional fisheries management organization or arrangement has the competence to establish conservation and management measures for particular straddling fish stocks or highly migratory fish stocks, States fishing for the stocks on the high seas and relevant coastal States shall give effect to their duty to cooperate by becoming members of such organization or participants in such arrangement, or by agreeing to apply the conservation and management measures established by such organization or arrangement. States having a real interest in the fisheries concerned may become members of such organization or participants in such arrangement. The terms of participation in such organization or arrangement shall not preclude such States from membership or participation; nor shall they be applied in a manner which discriminates against any State or group of States having a real interest in the fisheries concerned.
 
@@ -12128,7 +12128,7 @@ HIGHLY MIGRATORY FISH STOCKS
 
           (a)     the stocks to which conservation and management measures apply, taking into account the biological characteristics of the stocks concerned and the nature of the fisheries involved;
 
-          (b)     the area of application, taking into account article 7, paragraph 1, and the characteristics of the subregion or region, including socio‑economic, geographical and environmental factors;
+          (b)     the area of application, taking into account article 7, paragraph 1, and the characteristics of the subregion or region, including socio-economic, geographical and environmental factors;
 
           (c)     the relationship between the work of the new organization or arrangement and the role, objectives and operations of any relevant existing fisheries management organizations or arrangements; and
 
@@ -12146,13 +12146,13 @@ HIGHLY MIGRATORY FISH STOCKS
 
           In fulfilling their obligation to cooperate through subregional or regional fisheries management organizations or arrangements, States shall:
 
-          (a)     agree on and comply with conservation and management measures to ensure the long‑term sustainability of straddling fish stocks and highly migratory fish stocks;
+          (a)     agree on and comply with conservation and management measures to ensure the long-term sustainability of straddling fish stocks and highly migratory fish stocks;
 
           (b)     agree, as appropriate, on participatory rights such as allocations of allowable catch or levels of fishing effort;
 
           (c)     adopt and apply any generally recommended international minimum standards for the responsible conduct of fishing operations;
 
-          (d)     obtain and evaluate scientific advice, review the status of the stocks and assess the impact of fishing on non‑target and associated or dependent species;
+          (d)     obtain and evaluate scientific advice, review the status of the stocks and assess the impact of fishing on non-target and associated or dependent species;
 
           (e)     agree on standards for collection, reporting, verification and exchange of data on fisheries for the stocks;
 
@@ -12164,7 +12164,7 @@ HIGHLY MIGRATORY FISH STOCKS
 
           (i)      agree on means by which the fishing interests of new members of the organization or new participants in the arrangement will be accommodated;
 
-          (j)      agree on decision‑making procedures which facilitate the adoption of conservation and management measures in a timely and effective manner;
+          (j)      agree on decision-making procedures which facilitate the adoption of conservation and management measures in a timely and effective manner;
 
           (k)     promote the peaceful settlement of disputes in accordance with Part VIII;
 
@@ -12202,9 +12202,9 @@ HIGHLY MIGRATORY FISH STOCKS
 
 <u>fisheries management organizations and arrangements</u>
 
-1.       States shall provide for transparency in the decision‑making process and other activities of subregional and regional fisheries management organizations and arrangements.
+1.       States shall provide for transparency in the decision-making process and other activities of subregional and regional fisheries management organizations and arrangements.
 
-2.       Representatives from other intergovernmental organizations and representatives from non‑governmental organizations concerned with straddling fish stocks and highly migratory fish stocks shall be afforded the opportunity to take part in meetings of subregional and regional fisheries management organizations and arrangements as observers or otherwise, as appropriate, in accordance with the procedures of the organization or arrangement concerned. Such procedures shall not be unduly restrictive in this respect. Such intergovernmental organizations and non‑governmental organizations shall have timely access to the records and reports of such organizations and arrangements, subject to the procedural rules on access to them.
+2.       Representatives from other intergovernmental organizations and representatives from non-governmental organizations concerned with straddling fish stocks and highly migratory fish stocks shall be afforded the opportunity to take part in meetings of subregional and regional fisheries management organizations and arrangements as observers or otherwise, as appropriate, in accordance with the procedures of the organization or arrangement concerned. Such procedures shall not be unduly restrictive in this respect. Such intergovernmental organizations and non-governmental organizations shall have timely access to the records and reports of such organizations and arrangements, subject to the procedural rules on access to them.
 
 <u>Article 13</u>
 
@@ -12244,9 +12244,9 @@ HIGHLY MIGRATORY FISH STOCKS
 
 <u><span style="text-decoration:none"> </span></u>
 
-<u>Enclosed and semi‑enclosed seas</u>
+<u>Enclosed and semi-enclosed seas</u>
 
-          In implementing this Agreement in an enclosed or semi‑enclosed sea, States shall take into account the natural characteristics of that sea and shall also act in a manner consistent with Part IX of the Convention and other relevant provisions thereof.
+          In implementing this Agreement in an enclosed or semi-enclosed sea, States shall take into account the natural characteristics of that sea and shall also act in a manner consistent with Part IX of the Convention and other relevant provisions thereof.
 
 <u>Article 16</u>
 
@@ -12264,15 +12264,15 @@ HIGHLY MIGRATORY FISH STOCKS
 
 PART IV
 
-NON‑MEMBERS AND NON‑PARTICIPANTS
+NON-MEMBERS AND NON-PARTICIPANTS
 
 <u>Article 17</u>
 
 <u><span style="text-decoration:none"> </span></u>
 
-<u>Non‑members of organizations and</u>
+<u>Non-members of organizations and</u>
 
-<u>non‑participants in arrangements</u>
+<u>non-participants in arrangements</u>
 
 1.       A State which is not a member of a subregional or regional fisheries management organization or is not a participant in a subregional or regional fisheries management arrangement, and which does not otherwise agree to apply the conservation and management measures established by such organization or arrangement, is not discharged from the obligation to cooperate, in accordance with the Convention and this Agreement, in the conservation and management of the relevant straddling fish stocks and highly migratory fish stocks.
 
@@ -12304,31 +12304,31 @@ DUTIES OF THE FLAG STATE
 
           (i)      to apply terms and conditions to the licence, authorization or permit sufficient to fulfil any subregional, regional or global obligations of the flag State;
 
-          (ii)     to prohibit fishing on the high seas by vessels which are not duly licensed or authorized to fish, or fishing on the high seas by vessels otherwise than in accordance with the terms and conditions of a licence, authorization or permit;
+          (ii)      to prohibit fishing on the high seas by vessels which are not duly licensed or authorized to fish, or fishing on the high seas by vessels otherwise than in accordance with the terms and conditions of a licence, authorization or permit;
 
-          (iii)    to require vessels fishing on the high seas to carry the licence, authorization or permit on board at all times and to produce it on demand for inspection by a duly authorized person; and
+          (iii)     to require vessels fishing on the high seas to carry the licence, authorization or permit on board at all times and to produce it on demand for inspection by a duly authorized person; and
 
-          (iv)    to ensure that vessels flying its flag do not conduct unauthorized fishing within areas under the national jurisdiction of other States;
+          (iv)     to ensure that vessels flying its flag do not conduct unauthorized fishing within areas under the national jurisdiction of other States;
 
           (c)     establishment of a national record of fishing vessels authorized to fish on the high seas and provision of access to the information contained in that record on request by directly interested States, taking into account any national laws of the flag State regarding release of such information;
 
           (d)     requirements for marking of fishing vessels and fishing gear for identification in accordance with uniform and internationally recognizable vessel and gear marking systems, such as the Food and Agriculture Organization of the United Nations Standard Specifications for the Marking and Identification of Fishing Vessels;
 
-          (e)     requirements for recording and timely reporting of vessel position, catch of target and non‑target species, fishing effort and other relevant fisheries data in accordance with subregional, regional and global standards for collection of such data;
+          (e)     requirements for recording and timely reporting of vessel position, catch of target and non-target species, fishing effort and other relevant fisheries data in accordance with subregional, regional and global standards for collection of such data;
 
-          (f)      requirements for verifying the catch of target and non‑target species through such means as observer programs, inspection schemes, unloading reports, supervision of transshipment and monitoring of landed catches and market statistics;
+          (f)      requirements for verifying the catch of target and non-target species through such means as observer programs, inspection schemes, unloading reports, supervision of transshipment and monitoring of landed catches and market statistics;
 
           (g)     monitoring, control and surveillance of such vessels, their fishing operations and related activities by, <u>inter alia</u>:
 
           (i)      the implementation of national inspection schemes and subregional and regional schemes for cooperation in enforcement pursuant to articles 21 and 22, including requirements for such vessels to permit access by duly authorized inspectors from other States;
 
-          (ii)     the implementation of national observer programs and subregional and regional observer programmes in which the flag State is a participant, including requirements for such vessels to permit access by observers from other States to carry out the functions agreed under the programmes; and
+          (ii)      the implementation of national observer programs and subregional and regional observer programmes in which the flag State is a participant, including requirements for such vessels to permit access by observers from other States to carry out the functions agreed under the programmes; and
 
-          (iii)    the development and implementation of vessel monitoring systems, including, as appropriate, satellite transmitter systems, in accordance with any national programmes and those which have been subregionally, regionally or globally agreed among the States concerned;
+          (iii)     the development and implementation of vessel monitoring systems, including, as appropriate, satellite transmitter systems, in accordance with any national programmes and those which have been subregionally, regionally or globally agreed among the States concerned;
 
           (h)     regulation of transshipment on the high seas to ensure that the effectiveness of conservation and management measures is not undermined; and
 
-          (i)      regulation of fishing activities to ensure compliance with subregional, regional or global measures, including those aimed at minimizing catches of non‑target species.
+          (i)      regulation of fishing activities to ensure compliance with subregional, regional or global measures, including those aimed at minimizing catches of non-target species.
 
 4.       Where there is a subregionally, regionally or globally agreed system of monitoring, control and surveillance in effect, States shall ensure that the measures they impose on vessels flying their flag are compatible with that system.
 
@@ -12390,7 +12390,7 @@ COMPLIANCE AND ENFORCEMENT
 
 1.       In any high seas area covered by a subregional or regional fisheries management organization or arrangement, a State Party which is a member of such organization or a participant in such arrangement may, through its duly authorized inspectors, board and inspect, in accordance with paragraph 2, fishing vessels flying the flag of another State Party to this Agreement, whether or not such State Party is also a member of the organization or a participant in the arrangement, for the purpose of ensuring compliance with conservation and management measures for straddling fish stocks and highly migratory fish stocks established by that organization or arrangement.
 
-2.       States shall establish, through subregional or regional fisheries management organizations or arrangements, procedures for boarding and inspection pursuant to paragraph 1, as well as procedures to implement other provisions of this article. Such procedures shall be consistent with this article and the basic procedures set out in article 22 and shall not discriminate against non‑members of the organization or non‑participants in the arrangement. Boarding and inspection as well as any subsequent enforcement action shall be conducted in accordance with such procedures. States shall give due publicity to procedures established pursuant to this paragraph.
+2.       States shall establish, through subregional or regional fisheries management organizations or arrangements, procedures for boarding and inspection pursuant to paragraph 1, as well as procedures to implement other provisions of this article. Such procedures shall be consistent with this article and the basic procedures set out in article 22 and shall not discriminate against non-members of the organization or non-participants in the arrangement. Boarding and inspection as well as any subsequent enforcement action shall be conducted in accordance with such procedures. States shall give due publicity to procedures established pursuant to this paragraph.
 
 3.       If, within two years of the adoption of this Agreement, any organization or arrangement has not established such procedures, boarding and inspection pursuant to paragraph 1, as well as any subsequent enforcement action, shall, pending the establishment of such procedures, be conducted in accordance with this article and the basic procedures set out in article 22.
 
@@ -12406,7 +12406,7 @@ COMPLIANCE AND ENFORCEMENT
 
 7.       Where the flag State authorizes the inspecting State to investigate an alleged violation, the inspecting State shall, without delay, communicate the results of that investigation to the flag State. The flag State shall, if evidence so warrants, fulfil its obligations to take enforcement action with respect to the vessel. Alternatively, the flag State may authorize the inspecting State to take such enforcement action as the flag State may specify with respect to the vessel, consistent with the rights and obligations of the flag State under this Agreement.
 
-8.       Where, following boarding and inspection, there are clear grounds for believing that a vessel has committed a serious violation, and the flag State has either failed to respond or failed to take action as required under paragraphs 6 or 7, the inspectors may remain on board and secure evidence and may require the master to assist in further investigation including, where appropriate, by bringing the vessel without delay to the nearest appropriate port, or to such other port as may be specified in procedures established in accordance with paragraph 2\. The inspecting State shall immediately inform the flag State of the name of the port to which the vessel is to proceed. The inspecting State and the flag State and, as appropriate, the port State shall take all necessary steps to ensure the well‑being of the crew regardless of their nationality.
+8.       Where, following boarding and inspection, there are clear grounds for believing that a vessel has committed a serious violation, and the flag State has either failed to respond or failed to take action as required under paragraphs 6 or 7, the inspectors may remain on board and secure evidence and may require the master to assist in further investigation including, where appropriate, by bringing the vessel without delay to the nearest appropriate port, or to such other port as may be specified in procedures established in accordance with paragraph 2\. The inspecting State shall immediately inform the flag State of the name of the port to which the vessel is to proceed. The inspecting State and the flag State and, as appropriate, the port State shall take all necessary steps to ensure the well-being of the crew regardless of their nationality.
 
 9.       The inspecting State shall inform the flag State and the relevant organization or the participants in the relevant arrangement of the results of any further investigation.
 
@@ -12416,7 +12416,7 @@ COMPLIANCE AND ENFORCEMENT
 
           (a)     fishing without a valid licence, authorization or permit issued by the flag State in accordance with article 18, paragraph 3(a);
 
-          (b)     failing to maintain accurate records of catch and catch‑related data, as required by the relevant subregional or regional fisheries management organization or arrangement, or serious misreporting of catch, contrary to the catch reporting requirements of such organization or arrangement;
+          (b)     failing to maintain accurate records of catch and catch-related data, as required by the relevant subregional or regional fisheries management organization or arrangement, or serious misreporting of catch, contrary to the catch reporting requirements of such organization or arrangement;
 
           (c)     fishing in a closed area, fishing during a closed season or fishing without, or after attainment of, a quota established by the relevant subregional or regional fisheries management organization or arrangement;
 
@@ -12518,7 +12518,7 @@ REQUIREMENTS OF DEVELOPING STATES
 
           (a)     the vulnerability of developing States which are dependent on the exploitation of living marine resources, including for meeting the nutritional requirements of their populations or parts thereof;
 
-          (b)     the need to avoid adverse impacts on, and ensure access to fisheries by, subsistence, small‑scale and artisanal fishers and women fishworkers, as well as indigenous people in developing States, particularly small island developing States; and
+          (b)     the need to avoid adverse impacts on, and ensure access to fisheries by, subsistence, small-scale and artisanal fishers and women fishworkers, as well as indigenous people in developing States, particularly small island developing States; and
 
           (c)     the need to ensure that such measures do not result in transferring, directly or indirectly, a disproportionate burden of conservation action onto developing States.
 
@@ -12532,9 +12532,9 @@ REQUIREMENTS OF DEVELOPING STATES
 
 1.       States shall cooperate, either directly or through subregional, regional or global organizations:
 
-          (a)     to enhance the ability of developing States, in particular the least‑developed among them and small island developing States, to conserve and manage straddling fish stocks and highly migratory fish stocks and to develop their own fisheries for such stocks;
+          (a)     to enhance the ability of developing States, in particular the least-developed among them and small island developing States, to conserve and manage straddling fish stocks and highly migratory fish stocks and to develop their own fisheries for such stocks;
 
-          (b)     to assist developing States, in particular the least‑developed among them and small island developing States, to enable them to participate in high seas fisheries for such stocks, including facilitating access to such fisheries subject to articles 5 and 11; and
+          (b)     to assist developing States, in particular the least-developed among them and small island developing States, to enable them to participate in high seas fisheries for such stocks, including facilitating access to such fisheries subject to articles 5 and 11; and
 
           (c)     to facilitate the participation of developing States in subregional and regional fisheries management organizations and arrangements.
 
@@ -12546,7 +12546,7 @@ REQUIREMENTS OF DEVELOPING STATES
 
           (b)     stock assessment and scientific research; and
 
-          (c)     monitoring, control, surveillance, compliance and enforcement, including training and capacity‑building at the local level, development and funding of national and regional observer programmes and access to technology and equipment.
+          (c)     monitoring, control, surveillance, compliance and enforcement, including training and capacity-building at the local level, development and funding of national and regional observer programmes and access to technology and equipment.
 
 <u>Article 26</u>
 
@@ -12580,7 +12580,7 @@ PEACEFUL SETTLEMENT OF DISPUTES
 
 <u>Prevention of disputes</u>
 
-          States shall cooperate in order to prevent disputes. To this end, States shall agree on efficient and expeditious decision‑making procedures within subregional and regional fisheries management organizations and arrangements and shall strengthen existing decision‑making procedures as necessary.
+          States shall cooperate in order to prevent disputes. To this end, States shall agree on efficient and expeditious decision-making procedures within subregional and regional fisheries management organizations and arrangements and shall strengthen existing decision-making procedures as necessary.
 
 <u>Article 29</u>
 
@@ -12632,17 +12632,17 @@ PEACEFUL SETTLEMENT OF DISPUTES
 
 PART IX
 
-NON‑PARTIES TO THIS AGREEMENT
+NON-PARTIES TO THIS AGREEMENT
 
 <u>Article 33</u>
 
 <u><span style="text-decoration:none"> </span></u>
 
-<u>Non‑parties to this Agreement</u>
+<u>Non-parties to this Agreement</u>
 
-1.       States Parties shall encourage non‑parties to this Agreement to become parties thereto and to adopt laws and regulations consistent with its provisions.
+1.       States Parties shall encourage non-parties to this Agreement to become parties thereto and to adopt laws and regulations consistent with its provisions.
 
-2.       States Parties shall take measures consistent with this Agreement and international law to deter the activities of vessels flying the flag of non‑parties which undermine the effective implementation of this Agreement.
+2.       States Parties shall take measures consistent with this Agreement and international law to deter the activities of vessels flying the flag of non-parties which undermine the effective implementation of this Agreement.
 
 PART X
 
@@ -12678,7 +12678,7 @@ REVIEW CONFERENCE
 
 <u>Review conference</u>
 
-1.       Four years after the date of entry into force of this Agreement, the Secretary‑General of the United Nations shall convene a conference with a view to assessing the effectiveness of this Agreement in securing the conservation and management of straddling fish stocks and highly migratory fish stocks. The Secretary‑General shall invite to the conference all States Parties and those States and entities which are entitled to become parties to this Agreement as well as those intergovernmental and non‑governmental organizations entitled to participate as observers.
+1.       Four years after the date of entry into force of this Agreement, the Secretary-General of the United Nations shall convene a conference with a view to assessing the effectiveness of this Agreement in securing the conservation and management of straddling fish stocks and highly migratory fish stocks. The Secretary-General shall invite to the conference all States Parties and those States and entities which are entitled to become parties to this Agreement as well as those intergovernmental and non-governmental organizations entitled to participate as observers.
 
 2.       The conference shall review and assess the adequacy of the provisions of this Agreement and, if necessary, propose means of strengthening the substance and methods of implementation of those provisions in order better to address any continuing problems in the conservation and management of straddling fish stocks and highly migratory fish stocks.
 
@@ -12700,7 +12700,7 @@ FINAL PROVISIONS
 
 <u>Ratification</u>
 
-          This Agreement is subject to ratification by States and the other entities referred to in article 1, paragraph 2(b). The instruments of ratification shall be deposited with the Secretary‑General of the United Nations.
+          This Agreement is subject to ratification by States and the other entities referred to in article 1, paragraph 2(b). The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
 <u>Article 39</u>
 
@@ -12708,7 +12708,7 @@ FINAL PROVISIONS
 
 <u>Accession</u>
 
-          This Agreement shall remain open for accession by States and the other entities referred to in article 1, paragraph 2(b). The instruments of accession shall be deposited with the Secretary‑General of the United Nations.
+          This Agreement shall remain open for accession by States and the other entities referred to in article 1, paragraph 2(b). The instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
 <u>Article 40</u>
 
@@ -12764,9 +12764,9 @@ FINAL PROVISIONS
 
 <u>Amendment</u>
 
-1.       A State Party may, by written communication addressed to the Secretary‑General of the United Nations, propose amendments to this Agreement and request the convening of a conference to consider such proposed amendments. The Secretary‑General shall circulate such communication to all States Parties. If, within six months from the date of the circulation of the communication, not less than one half of the States Parties reply favourably to the request, the Secretary‑General shall convene the conference.
+1.       A State Party may, by written communication addressed to the Secretary-General of the United Nations, propose amendments to this Agreement and request the convening of a conference to consider such proposed amendments. The Secretary-General shall circulate such communication to all States Parties. If, within six months from the date of the circulation of the communication, not less than one half of the States Parties reply favourably to the request, the Secretary-General shall convene the conference.
 
-2.       The decision‑making procedure applicable at the amendment conference convened pursuant to paragraph 1 shall be the same as that applicable at the United Nations Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks, unless otherwise decided by the conference. The conference should make every effort to reach agreement on any amendments by way of consensus and there should be no voting on them until all efforts at consensus have been exhausted.
+2.       The decision-making procedure applicable at the amendment conference convened pursuant to paragraph 1 shall be the same as that applicable at the United Nations Conference on Straddling Fish Stocks and Highly Migratory Fish Stocks, unless otherwise decided by the conference. The conference should make every effort to reach agreement on any amendments by way of consensus and there should be no voting on them until all efforts at consensus have been exhausted.
 
 3.       Once adopted, amendments to this Agreement shall be open for signature at United Nations Headquarters by States Parties for twelve months from the date of adoption, unless otherwise provided in the amendment itself.
 
@@ -12788,7 +12788,7 @@ FINAL PROVISIONS
 
 <u>Denunciation</u>
 
-1.       A State Party may, by written notification addressed to the Secretary‑General of the United Nations, denounce this Agreement and may indicate its reasons. Failure to indicate reasons shall not affect the validity of the denunciation. The denunciation shall take effect one year after the date of receipt of the notification, unless the notification specifies a later date.
+1.       A State Party may, by written notification addressed to the Secretary-General of the United Nations, denounce this Agreement and may indicate its reasons. Failure to indicate reasons shall not affect the validity of the denunciation. The denunciation shall take effect one year after the date of receipt of the notification, unless the notification specifies a later date.
 
 2.       The denunciation shall not in any way affect the duty of any State Party to fulfil any obligation embodied in this Agreement to which it would be subject under international law independently of this Agreement.
 
@@ -12812,9 +12812,9 @@ FINAL PROVISIONS
 
           (i)      that it has competence over all the matters governed by this Agreement;
 
-          (ii)     that, for this reason, its member States shall not become States Parties, except in respect of their territories for which the international organization has no responsibility; and
+          (ii)      that, for this reason, its member States shall not become States Parties, except in respect of their territories for which the international organization has no responsibility; and
 
-          (iii)    that it accepts the rights and obligations of States under this Agreement;
+          (iii)     that it accepts the rights and obligations of States under this Agreement;
 
           (b)     participation of such an international organization shall in no case confer any rights under this Agreement on member States of the international organization;
 
@@ -12836,7 +12836,7 @@ FINAL PROVISIONS
 
 <u>Depositary</u>
 
-          The Secretary‑General of the United Nations shall be the depositary of this Agreement and any amendments or revisions thereto.
+          The Secretary-General of the United Nations shall be the depositary of this Agreement and any amendments or revisions thereto.
 
 <u><span style="text-decoration:none"> </span></u>
 
@@ -12850,7 +12850,7 @@ FINAL PROVISIONS
 
 IN WITNESS WHEREOF, the undersigned Plenipotentiaries, being duly authorized thereto, have signed this Agreement.
 
-OPENED FOR SIGNATURE at New York, this fourth day of December, one thousand nine hundred and ninety‑five, in a single original, in the Arabic, Chinese, English, French, Russian and Spanish languages.
+OPENED FOR SIGNATURE at New York, this fourth day of December, one thousand nine hundred and ninety-five, in a single original, in the Arabic, Chinese, English, French, Russian and Spanish languages.
 
 ANNEX I
 
@@ -12864,7 +12864,7 @@ COLLECTION AND SHARING OF DATA
 
 <u>General principles</u>
 
-1.       The timely collection, compilation and analysis of data are fundamental to the effective conservation and management of straddling fish stocks and highly migratory fish stocks. To this end, data from fisheries for these stocks on the high seas and those in areas under national jurisdiction are required and should be collected and compiled in such a way as to enable statistically meaningful analysis for the purposes of fishery resource conservation and management. These data include catch and fishing effort statistics and other fishery‑related information, such as vessel‑related and other data for standardizing fishing effort. Data collected should also include information on non‑target and associated or dependent species. All data should be verified to ensure accuracy. Confidentiality of non‑aggregated data shall be maintained. The dissemination of such data shall be subject to the terms on which they have been provided.
+1.       The timely collection, compilation and analysis of data are fundamental to the effective conservation and management of straddling fish stocks and highly migratory fish stocks. To this end, data from fisheries for these stocks on the high seas and those in areas under national jurisdiction are required and should be collected and compiled in such a way as to enable statistically meaningful analysis for the purposes of fishery resource conservation and management. These data include catch and fishing effort statistics and other fishery-related information, such as vessel-related and other data for standardizing fishing effort. Data collected should also include information on non-target and associated or dependent species. All data should be verified to ensure accuracy. Confidentiality of non-aggregated data shall be maintained. The dissemination of such data shall be subject to the terms on which they have been provided.
 
 2.       Assistance, including training as well as financial and technical assistance, shall be provided to developing States in order to build capacity in the field of conservation and management of living marine resources. Assistance should focus on enhancing capacity to implement data collection and verification, observer programs, data analysis and research projects supporting stock assessments. The fullest possible involvement of developing State scientists and managers in conservation and management of straddling fish stocks and highly migratory fish stocks should be promoted.
 
@@ -12878,13 +12878,13 @@ COLLECTION AND SHARING OF DATA
 
           The following general principles should be considered in defining the parameters for collection, compilation and exchange of data from fishing operations for straddling fish stocks and highly migratory fish stocks:
 
-          (a)     States should ensure that data are collected from vessels flying their flag on fishing activities according to the operational characteristics of each fishing method (e.g., each individual tow for trawl, each set for long‑line and purse‑seine, each school fished for pole‑and‑line and each day fished for troll) and in sufficient detail to facilitate effective stock assessment;
+          (a)     States should ensure that data are collected from vessels flying their flag on fishing activities according to the operational characteristics of each fishing method (e.g., each individual tow for trawl, each set for long-line and purse-seine, each school fished for pole-and-line and each day fished for troll) and in sufficient detail to facilitate effective stock assessment;
 
           (b)     States should ensure that fishery data are verified through an appropriate system;
 
-          (c)     States should compile fishery‑related and other supporting scientific data and provide them in an agreed format and in a timely manner to the relevant subregional or regional fisheries management organization or arrangement where one exists. Otherwise, States should cooperate to exchange data either directly or through such other cooperative mechanisms as may be agreed among them;
+          (c)     States should compile fishery-related and other supporting scientific data and provide them in an agreed format and in a timely manner to the relevant subregional or regional fisheries management organization or arrangement where one exists. Otherwise, States should cooperate to exchange data either directly or through such other cooperative mechanisms as may be agreed among them;
 
-          (d)     States should agree, within the framework of subregional or regional fisheries management organizations or arrangements, or otherwise, on the specification of data and the format in which they are to be provided, in accordance with this Annex and taking into account the nature of the stocks and the fisheries for those stocks in the region. Such organizations or arrangements should request non‑members or non‑participants to provide data concerning relevant fishing activities by vessels flying their flag;
+          (d)     States should agree, within the framework of subregional or regional fisheries management organizations or arrangements, or otherwise, on the specification of data and the format in which they are to be provided, in accordance with this Annex and taking into account the nature of the stocks and the fisheries for those stocks in the region. Such organizations or arrangements should request non-members or non-participants to provide data concerning relevant fishing activities by vessels flying their flag;
 
           (e)     such organizations or arrangements shall compile data and make them available in a timely manner and in an agreed format to all interested States under the terms and conditions established by the organization or arrangement; and
 
@@ -12900,7 +12900,7 @@ COLLECTION AND SHARING OF DATA
 
           (a)     time series of catch and effort statistics by fishery and fleet;
 
-          (b)     total catch in number, nominal weight, or both, by species (both target and non‑target) as is appropriate to each fishery. \[Nominal weight is defined by the Food and Agriculture Organization of the United Nations as the live‑weight equivalent of the landings];
+          (b)     total catch in number, nominal weight, or both, by species (both target and non-target) as is appropriate to each fishery. \[Nominal weight is defined by the Food and Agriculture Organization of the United Nations as the live-weight equivalent of the landings];
 
           (c)     discard statistics, including estimates where necessary, reported as number or nominal weight by species, as is appropriate to each fishery;
 
@@ -12914,7 +12914,7 @@ COLLECTION AND SHARING OF DATA
 
           (b)     other biological information supporting stock assessments such as information on age, growth, recruitment, distribution and stock identity; and
 
-          (c)     other relevant research, including surveys of abundance, biomass surveys, hydro‑acoustic surveys, research on environmental factors affecting stock abundance, and oceanographic and ecological studies.
+          (c)     other relevant research, including surveys of abundance, biomass surveys, hydro-acoustic surveys, research on environmental factors affecting stock abundance, and oceanographic and ecological studies.
 
 <u>Article 4</u>
 
@@ -12922,7 +12922,7 @@ COLLECTION AND SHARING OF DATA
 
 <u>Vessel data and information</u>
 
-1.       States should collect the following types of vessel‑related data for standardizing fleet composition and vessel fishing power and for converting between different measures of effort in the analysis of catch and effort data:
+1.       States should collect the following types of vessel-related data for standardizing fleet composition and vessel fishing power and for converting between different measures of effort in the analysis of catch and effort data:
 
           (a)     vessel identification, flag and port of registry;
 
@@ -12958,7 +12958,7 @@ COLLECTION AND SHARING OF DATA
 
           (a)     position verification through vessel monitoring systems;
 
-          (b)     scientific observer programs to monitor catch, effort, catch composition (target and non‑target) and other details of fishing operations;
+          (b)     scientific observer programs to monitor catch, effort, catch composition (target and non-target) and other details of fishing operations;
 
           (c)     vessel trip, landing and transshipment reports; and
 
@@ -12970,7 +12970,7 @@ COLLECTION AND SHARING OF DATA
 
 <u>Data exchange</u>
 
-1.       Data collected by flag States must be shared with other flag States and relevant coastal States through appropriate subregional or regional fisheries management organizations or arrangements. Such organizations or arrangements shall compile data and make them available in a timely manner and in an agreed format to all interested States under the terms and conditions established by the organization or arrangement, while maintaining confidentiality of non‑aggregated data, and should, to the extent feasible, develop database systems which provide efficient access to data.
+1.       Data collected by flag States must be shared with other flag States and relevant coastal States through appropriate subregional or regional fisheries management organizations or arrangements. Such organizations or arrangements shall compile data and make them available in a timely manner and in an agreed format to all interested States under the terms and conditions established by the organization or arrangement, while maintaining confidentiality of non-aggregated data, and should, to the extent feasible, develop database systems which provide efficient access to data.
 
 2.       At the global level, collection and dissemination of data should be effected through the Food and Agriculture Organization of the United Nations. Where a subregional or regional fisheries management organization or arrangement does not exist, that organization may also do the same at the subregional or regional level by arrangement with the States concerned.
 
@@ -12986,13 +12986,13 @@ FISH STOCKS
 
 2.       Two types of precautionary reference points should be used: conservation, or limit, reference points and management, or target, reference points. Limit reference points set boundaries which are intended to constrain harvesting within safe biological limits within which the stocks can produce maximum sustainable yield. Target reference points are intended to meet management objectives.
 
-3.       Precautionary reference points should be stock‑specific to account, <u>inter alia</u>, for the reproductive capacity, the resilience of each stock and the characteristics of fisheries exploiting the stock, as well as other sources of mortality and major sources of uncertainty.
+3.       Precautionary reference points should be stock-specific to account, <u>inter alia</u>, for the reproductive capacity, the resilience of each stock and the characteristics of fisheries exploiting the stock, as well as other sources of mortality and major sources of uncertainty.
 
-4.       Management strategies shall seek to maintain or restore populations of harvested stocks, and where necessary associated or dependent species, at levels consistent with previously agreed precautionary reference points. Such reference points shall be used to trigger pre‑agreed conservation and management action. Management strategies shall include measures which can be implemented when precautionary reference points are approached.
+4.       Management strategies shall seek to maintain or restore populations of harvested stocks, and where necessary associated or dependent species, at levels consistent with previously agreed precautionary reference points. Such reference points shall be used to trigger pre-agreed conservation and management action. Management strategies shall include measures which can be implemented when precautionary reference points are approached.
 
 5.       Fishery management strategies shall ensure that the risk of exceeding limit reference points is very low. If a stock falls below a limit reference point or is at risk of falling below such a reference point, conservation and management action should be initiated to facilitate stock recovery. Fishery management strategies shall ensure that target reference points are not exceeded on average.
 
-6.       When information for determining reference points for a fishery is poor or absent, provisional reference points shall be set. Provisional reference points may be established by analogy to similar and better‑known stocks. In such situations, the fishery shall be subject to enhanced monitoring so as to enable revision of provisional reference points as improved information becomes available.
+6.       When information for determining reference points for a fishery is poor or absent, provisional reference points shall be set. Provisional reference points may be established by analogy to similar and better-known stocks. In such situations, the fishery shall be subject to enhanced monitoring so as to enable revision of provisional reference points as improved information becomes available.
 
 7.       The fishing mortality rate which generates maximum sustainable yield should be regarded as a minimum standard for limit reference points. For stocks which are not overfished, fishery management strategies shall ensure that fishing mortality does not exceed that which corresponds to maximum sustainable yield, and that the biomass does not fall below a predefined threshold. For overfished stocks, the biomass which would produce maximum sustainable yield can serve as a rebuilding target.
 
@@ -13088,7 +13088,7 @@ For the purposes of this Agreement:
 
 5.         (a)        No Party shall authorize any fishing vessel previously registered in the territory of another Party that has undermined the effectiveness of international conservation and management measures to be used for fishing on the high seas, unless it is satisfied that
 
-(i)                 any period of suspension by another Party of an authorization for such fishing vessel to be used for fishing on the high seas has expired; and
+(i)                  any period of suspension by another Party of an authorization for such fishing vessel to be used for fishing on the high seas has expired; and
 
 (ii)        no authorization for such fishingvessel to be used for fishing on the high seas has been withdrawn by another Party within the last three years.
 
@@ -13158,13 +13158,13 @@ Each Party shall, for the purposes of this Agreement, maintain a record of fishi
 
 4.         FAO shall circulate periodically the information provided under paragraphs 1, 2, and 3 of this Article to all Parties, and, on request, individually to any Party. FAO shall also, subject to any restrictions imposed by the Party concerned regarding the distribution of information, provide such information on request individually to any global, regional or subregional fisheries organization.
 
-5.         Each Party shall also promptly inform FAO of ‑
+5.         Each Party shall also promptly inform FAO of -
 
 (a)        any additions to the record;
 
-(b)        any deletions from the record by reason of ‑
+(b)        any deletions from the record by reason of -
 
-(i)         the voluntary relinquishment or non‑renewal of the fishing authorization by the fishing vessel owner or operator;
+(i)         the voluntary relinquishment or non-renewal of the fishing authorization by the fishing vessel owner or operator;
 
 (ii)        the withdrawal of the fishing authorization issued in respect of the fishing vessel under paragraph 8 of Article III;
 
@@ -13188,9 +13188,9 @@ Each Party shall, for the purposes of this Agreement, maintain a record of fishi
 
 9.         Each Party shall inform FAO of any cases where the Party, pursuant to paragraph 5 (d) of Article III, has granted an authorization notwithstanding the provisions of paragraph 5 (a) or 5 (b) of Article III. The information shall include pertinent data permitting the identification of the fishing vessel and the owner or operator and, as appropriate, any other information relevant to the Party’s decision.
 
-10.       FAO shall circulate promptly the information provided under paragraphs 5, 6, 7, 8 and 9 of this Article to all Parties, and, on request, individually to any Party. FAO shall also, subject to any restrictions imposed by the Party concerned regarding the distribution of information, provide such information promptly on request individually to any global, regional or subregional fisheries organization.
+10.        FAO shall circulate promptly the information provided under paragraphs 5, 6, 7, 8 and 9 of this Article to all Parties, and, on request, individually to any Party. FAO shall also, subject to any restrictions imposed by the Party concerned regarding the distribution of information, provide such information promptly on request individually to any global, regional or subregional fisheries organization.
 
-11.       The Parties shall exchange information relating to the implementation of this Agreement, including through FAO and other appropriate global, regional and subregional fisheries organizations.
+11.        The Parties shall exchange information relating to the implementation of this Agreement, including through FAO and other appropriate global, regional and subregional fisheries organizations.
 
 **Article VII**
 
@@ -13200,13 +13200,13 @@ The Parties shall cooperate, at a global, regional, subregional or bilateral lev
 
 **Article VIII**
 
-**NON‑PARTIES**
+**NON-PARTIES**
 
-1.         The Parties shall encourage any State not party to this Agreement to accept this Agreement and shall encourage any non‑Party to adopt laws and regulations consistent with the provisions of this Agreement.
+1.         The Parties shall encourage any State not party to this Agreement to accept this Agreement and shall encourage any non-Party to adopt laws and regulations consistent with the provisions of this Agreement.
 
-2.         The Parties shall cooperate in a manner consistent with this Agreement and with international law to the end that fishing vessels entitled to fly the flags of non‑Parties do not engage in activities that undermine the effectiveness of international conservation and management measures.
+2.         The Parties shall cooperate in a manner consistent with this Agreement and with international law to the end that fishing vessels entitled to fly the flags of non-Parties do not engage in activities that undermine the effectiveness of international conservation and management measures.
 
-3.         The Parties shall exchange information amongst themselves, either directly or through FAO, with respect to activities of fishing vessels flying the flags of non‑Parties that undermine the effectiveness of international conservation and management measures.
+3.         The Parties shall exchange information amongst themselves, either directly or through FAO, with respect to activities of fishing vessels flying the flags of non-Parties that undermine the effectiveness of international conservation and management measures.
 
 **Article IX**
 
@@ -13222,11 +13222,11 @@ The Parties shall cooperate, at a global, regional, subregional or bilateral lev
 
 **ACCEPTANCE**
 
-1.         This Agreement shall be open to acceptance by any Member or Associate Member of FAO, and to any non‑member State that is a member of the United Nations, or of any of the specialized agencies of the United Nations or of the International Atomic Energy Agency.
+1.         This Agreement shall be open to acceptance by any Member or Associate Member of FAO, and to any non-member State that is a member of the United Nations, or of any of the specialized agencies of the United Nations or of the International Atomic Energy Agency.
 
-2.         Acceptance of this Agreement shall be effected by the deposit of an instrument of acceptance with the Director‑General of FAO, hereinafter referred to as the Director‑General.
+2.         Acceptance of this Agreement shall be effected by the deposit of an instrument of acceptance with the Director-General of FAO, hereinafter referred to as the Director-General.
 
-3.         The Director‑General shall inform all Parties, all Members and Associate Members of FAO and the Secretary‑General of the United Nations of all instruments of acceptance received.
+3.         The Director-General shall inform all Parties, all Members and Associate Members of FAO and the Secretary-General of the United Nations of all instruments of acceptance received.
 
 4.         When a regional economic integration organization becomes a Party to this Agreement, such regional economic integration organization shall, in accordance with the provisions of Article II.7 of the FAO Constitution, as appropriate, notify such modifications or clarifications to its declaration of competence submitted under Article II.5 of the FAO Constitution as may be necessary in light of its acceptance of this Agreement. Any Party to this Agreement may, at any time, request a regional economic integration organization that is a Party to this Agreement to provide information as to which, as between the regional economic integration organization and its Member States, is responsible for the implementation of any particular matter covered by this Agreement. The regional economic integration organization shall provide this information within a reasonable time.
 
@@ -13234,7 +13234,7 @@ The Parties shall cooperate, at a global, regional, subregional or bilateral lev
 
 **ENTRY INTO FORCE**
 
-1.         This Agreement shall enter into force as from the date of receipt by the Director‑General of the twenty‑fifth instrument of acceptance.
+1.         This Agreement shall enter into force as from the date of receipt by the Director-General of the twenty-fifth instrument of acceptance.
 
 2.         For the purpose of this Article, an instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such an organization.
 
@@ -13242,21 +13242,21 @@ The Parties shall cooperate, at a global, regional, subregional or bilateral lev
 
 **RESERVATIONS**
 
-Acceptance of this Agreement may be made subject to reservations which shall become effective only upon unanimous acceptance by all Parties to this Agreement. The Director‑General shall notify forthwith all Parties of any reservation. Parties not having replied within three months from the date of the notification shall be deemed to have accepted the reservation. Failing such acceptance, the State or regional economic integration organization making the reservation shall not become a Party to this Agreement.
+Acceptance of this Agreement may be made subject to reservations which shall become effective only upon unanimous acceptance by all Parties to this Agreement. The Director-General shall notify forthwith all Parties of any reservation. Parties not having replied within three months from the date of the notification shall be deemed to have accepted the reservation. Failing such acceptance, the State or regional economic integration organization making the reservation shall not become a Party to this Agreement.
 
 **Article XIII**
 
 **AMENDMENTS**
 
-1.         Any proposal by a Party for the amendment of this Agreement shall be communicated to the Director‑General.
+1.         Any proposal by a Party for the amendment of this Agreement shall be communicated to the Director-General.
 
-2.         Any proposed amendment of this Agreement received by the Director‑General from a Party shall be presented to a regular or special session of the Conference for approval and, if the amendment involves important technical changes or imposes additional obligations on the Parties, it shall be considered by an advisory committee of specialists convened by FAO prior to the Conference.
+2.         Any proposed amendment of this Agreement received by the Director-General from a Party shall be presented to a regular or special session of the Conference for approval and, if the amendment involves important technical changes or imposes additional obligations on the Parties, it shall be considered by an advisory committee of specialists convened by FAO prior to the Conference.
 
-3.         Notice of any proposed amendment of this Agreement shall be transmitted to the Parties by the Director‑General not later than the time when the agenda of the session of the Conference at which the matter is to be considered is dispatched.
+3.         Notice of any proposed amendment of this Agreement shall be transmitted to the Parties by the Director-General not later than the time when the agenda of the session of the Conference at which the matter is to be considered is dispatched.
 
-4.         Any such proposed amendment of this Agreement shall require the approval of the Conference and shall come into force as from the thirtieth day after acceptance by two‑thirds of the Parties. Amendments involving new obligations for Parties, however, shall come into force in respect of each Party only on acceptance by it and as from the thirtieth day after such acceptance. Any amendment shall be deemed to involve new obligations for Parties unless the Conference, in approving the amendment, decides otherwise by consensus.
+4.         Any such proposed amendment of this Agreement shall require the approval of the Conference and shall come into force as from the thirtieth day after acceptance by two-thirds of the Parties. Amendments involving new obligations for Parties, however, shall come into force in respect of each Party only on acceptance by it and as from the thirtieth day after such acceptance. Any amendment shall be deemed to involve new obligations for Parties unless the Conference, in approving the amendment, decides otherwise by consensus.
 
-5.         The instruments of acceptance of amendments involving new obligations shall be deposited with the Director‑General, who shall inform all Parties of the receipt of acceptance and the entry into force of amendments.
+5.         The instruments of acceptance of amendments involving new obligations shall be deposited with the Director-General, who shall inform all Parties of the receipt of acceptance and the entry into force of amendments.
 
 6.         For the purpose of this Article, an instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such an organization.
 
@@ -13264,19 +13264,19 @@ Acceptance of this Agreement may be made subject to reservations which shall bec
 
 **WITHDRAWAL**
 
-Any Party may withdraw from this Agreement at any time after the expiry of two years from the date upon which the Agreement entered into force with respect to that Party, by giving written notice of such withdrawal to the Director‑General who shall immediately inform all the Parties and the Members and Associate Members of FAO of such withdrawal. Withdrawal shall become effective at the end of the calendar year following that in which the notice of withdrawal has been received by the Director‑General.
+Any Party may withdraw from this Agreement at any time after the expiry of two years from the date upon which the Agreement entered into force with respect to that Party, by giving written notice of such withdrawal to the Director-General who shall immediately inform all the Parties and the Members and Associate Members of FAO of such withdrawal. Withdrawal shall become effective at the end of the calendar year following that in which the notice of withdrawal has been received by the Director-General.
 
 **Article XV**
 
 **DUTIES OF THE DEPOSITARY**
 
-The Director‑General shall be the Depositary of this Agreement. The Depositary shall:
+The Director-General shall be the Depositary of this Agreement. The Depositary shall:
 
-(a)        send certified copies of this Agreement to each Member and Associate Member of FAO and to such non‑member States as may become party to this Agreement;
+(a)        send certified copies of this Agreement to each Member and Associate Member of FAO and to such non-member States as may become party to this Agreement;
 
 (b)        arrange for the registration of this Agreement, upon its entry into force, with the Secretariat of the United Nations in accordance with Article 102 of the Charter of the United Nations;
 
-(c)        inform each Member and Associate Member of FAO and any non‑member States as may become Party to this Agreement of:
+(c)        inform each Member and Associate Member of FAO and any non-member States as may become Party to this Agreement of:
 
 (i)           instruments of acceptance deposited in accordance with Article X;
 
@@ -14025,36 +14025,19 @@ Schedule 3 (items 15–20): 7 Jan 2011</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 619–627) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Fisheries Management Act 1991_ provides as follows:
 
                  (2)   Part 5 commences upon the repeal or the ceasing to have effect (as the case may be) of Part IVA of the _Fisheries Act 1952_.
 
-NOTE:     Subsection 7(3) of the _Fisheries Legislation (Consequential Provisions) Act 1991_, as amended by section 24 of the _Primary Industries and Energy Legislation Amendment Act 1993_, provides as follows:
+NOTE:      Subsection 7(3) of the _Fisheries Legislation (Consequential Provisions) Act 1991_, as amended by section 24 of the _Primary Industries and Energy Legislation Amendment Act 1993_, provides as follows:
 
                               (3)   Part IVA of the _Fisheries Act 1952_ unless sooner repealed, ceases to have effect at the end of the period of 3 years beginning on the day on which this section commences.
 
  Section 7 of the _Fisheries Legislation (Consequential Provisions) Act 1991_ commenced on 3 February 1992 (_see Gazette_ 1992, No. GN1).
 
-_(b)_     The _Fisheries Management Act 1991_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+_(b)_    The _Fisheries Management Act 1991_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -14249,7 +14232,8 @@ _(k)_ Subsection 2(1) (items 3, 5, 7 and 9) of the _Fisheries Legislation Amen
   </td>
   <td>
     <div>
-      Repealed on 6 July 2007
+      Repealed on
+      6 July 2007
     </div>
   </td>
 </tr>
@@ -15813,7 +15797,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
 </tr>
 <tr>
   <td>
-    <div>Note to s. 87H(1)...............</div>
+    <div>Note to s. 87H(1).................</div>
   </td>
   <td>
     <div>rep. No. 36, 2008</div>
@@ -15821,7 +15805,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
 </tr>
 <tr>
   <td>
-    <div>Note to s. 87H(5)...............</div>
+    <div>Note to s. 87H(5).................</div>
   </td>
   <td>
     <div>rep. No. 36, 2008</div>
@@ -18192,7 +18176,7 @@ Repeal the Subdivision, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-As at 21 September 2011 the amendments are not incorporated in this compilation.
+As at 12 January 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -18220,57 +18204,7 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 1 of Schedule 1 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 21 September 2011 the amendment is not incorporated in this compilation.
-
-### Note 4
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 619  Subsection 4(1) (definition of _continental shelf_)
-
-Repeal the definition.
-
-## 620  Subsection 4(1) (definition of _exclusive economic zone_)
-
-Repeal the definition.
-
-## 621  Subsection 4(1) (definition of _territorial sea_)
-
-Repeal the definition.
-
-## 622  Subsection 128(1)
-
-Omit “(1)”.
-
-## 623  At the end of subsection 128(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 624  Subsection 128(2)
-
-Repeal the subsection.
-
-## 625  Subsection 140(1)
-
-Omit “(1)”.
-
-## 626  At the end of subsection 140(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 627  Subsection 140(2)
-
-Repeal the subsection.
-
-As at 21 September 2011 the amendments are not incorporated in this compilation.
+As at 12 January 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -18308,9 +18242,9 @@ _Fisheries Legislation Amendment Act (No. 1) 1999 (No. 143, 1999)_
 
 ## 16  Application
 
-(1)       The amendments made by this Part apply to things occurring after its commencement.
+(1)        The amendments made by this Part apply to things occurring after its commencement.
 
-(2)       Paragraph 101A(4)(c) of the _Fisheries Management Act 1991_ applies whether the regulations mentioned in the paragraph were made or commenced before or after the commencement of this Part.
+(2)        Paragraph 101A(4)(c) of the _Fisheries Management Act 1991_ applies whether the regulations mentioned in the paragraph were made or commenced before or after the commencement of this Part.
 
 ## 25  Application
 
@@ -18324,9 +18258,9 @@ Section 108A of the _Fisheries Management Act 1991_ applies to boats arrested 
 
 ## 23  Application and saving of existing plans
 
-(1)       Subsection 17(5C) of the _Fisheries Management Act 1991_ applies to all plans of management, whether notice relating to them is published in the _Gazette_ under section 19 of that Act before or after the commencement of this Schedule.
+(1)        Subsection 17(5C) of the _Fisheries Management Act 1991_ applies to all plans of management, whether notice relating to them is published in the _Gazette_ under section 19 of that Act before or after the commencement of this Schedule.
 
-(2)       However, in the 12 months immediately after the commencement of this Schedule, a plan of management is not invalid merely because it does not comply with that subsection, if:
+(2)        However, in the 12 months immediately after the commencement of this Schedule, a plan of management is not invalid merely because it does not comply with that subsection, if:
 
                      (a)  the plan is for a fishery affecting straddling fish stocks, highly migratory fish stocks or ecologically related fish stocks (within the meaning of the Fish Stocks Agreement); and
 
@@ -18344,9 +18278,9 @@ _Fisheries Legislation Amendment Act (No. 1) 2000 (No. 50, 2000)_
 
 ## 17  Saving provisions
 
-(1)       For the purposes of any proceedings for a contravention referred to in paragraph 95(1)(d) of the _Fisheries Management Act 1991_ that are commenced, but not completed, before the amendment of that paragraph made by this Act, that paragraph continues in force as if that amendment had not been made.
+(1)        For the purposes of any proceedings for a contravention referred to in paragraph 95(1)(d) of the _Fisheries Management Act 1991_ that are commenced, but not completed, before the amendment of that paragraph made by this Act, that paragraph continues in force as if that amendment had not been made.
 
-(2)       For the purposes of any proceedings for a contravention referred to in paragraph 95(1)(e) or (f) of the _Fisheries Management Act 1991_ that are commenced, but not completed, before the amendments of that paragraph made by this Act, that paragraph continues in force as if those amendments had not been made.
+(2)        For the purposes of any proceedings for a contravention referred to in paragraph 95(1)(e) or (f) of the _Fisheries Management Act 1991_ that are commenced, but not completed, before the amendments of that paragraph made by this Act, that paragraph continues in force as if those amendments had not been made.
 
 * * *
 
@@ -18354,9 +18288,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -18366,9 +18300,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -18376,9 +18310,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -18428,23 +18362,23 @@ _Fisheries Legislation Amendment (Cooperative Fisheries Arrangements and Other M
 
 ## 22  Savings and application provision
 
-(1)       Subject to subitem (2), an arrangement in force under section 71 or 72 of the _Fisheries Management Act 1991_ immediately before the commencement of this item:
+(1)        Subject to subitem (2), an arrangement in force under section 71 or 72 of the _Fisheries Management Act 1991_ immediately before the commencement of this item:
 
                      (a)  continues in force after that commencement as if it had been made under section 71 or 72 (as the case may be) of that Act as amended by this Act; and
 
                      (b)  may be varied or terminated in the same way as an arrangement made under that section after that commencement may be varied or terminated.
 
-(2)       The amendments made by this Schedule do not start to apply to a participating State until the day specified, in relation to the State, in a notice referred to in subitem (5).
+(2)        The amendments made by this Schedule do not start to apply to a participating State until the day specified, in relation to the State, in a notice referred to in subitem (5).
 
-(3)       For the purposes of this item, a State is a **_participating State_** if there is a declaration in force under subitem (4) in relation to the State.
+(3)        For the purposes of this item, a State is a **_participating State_** if there is a declaration in force under subitem (4) in relation to the State.
 
-(4)       The Minister may, in writing, declare in relation to a State that a law of the State corresponds to Division 3 of Part 5 of the _Fisheries Management Act 1991_.
+(4)        The Minister may, in writing, declare in relation to a State that a law of the State corresponds to Division 3 of Part 5 of the _Fisheries Management Act 1991_.
 
-(5)       The Minister must announce by notice in the _Gazette_ the day on which the amendments made by this Schedule start to apply in relation to a participating State specified in the notice.
+(5)        The Minister must announce by notice in the _Gazette_ the day on which the amendments made by this Schedule start to apply in relation to a participating State specified in the notice.
 
-(6)       A declaration under subitem (4) is not a legislative instrument.
+(6)        A declaration under subitem (4) is not a legislative instrument.
 
-(7)       A notice under subitem (5) is not a legislative instrument.
+(7)        A notice under subitem (5) is not a legislative instrument.
 
 * * *
 
@@ -18455,7 +18389,7 @@ _Migration Legislation Amendment (Information and Other Measures) Act 2007
 
 ## 60  Transitional—Authorisations
 
-(1)       This item applies to an authorisation that:
+(1)        This item applies to an authorisation that:
 
                      (a)  is in force under any of the following provisions immediately before this item commences:
 
@@ -18467,7 +18401,7 @@ _Migration Legislation Amendment (Information and Other Measures) Act 2007
 
                      (b)  specifies that access to identifying information is authorised for the purpose of making decisions under that Act.
 
-(2)       The authorisation has effect on and after that commencement as if it were an authorisation in force under that clause that specified that access to identifying information is authorised for the purposes of that Act.
+(2)        The authorisation has effect on and after that commencement as if it were an authorisation in force under that clause that specified that access to identifying information is authorised for the purposes of that Act.
 
 ## 61  Application
 
@@ -18490,7 +18424,7 @@ _Note:       Item 5 commences at the registration commencement tim
 
 ## 18  Transitional—item 15
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  before the time that item 15 of this Schedule commenced, the Australian Fisheries Management Authority was required to give a person written notification under subsection 50(3) of the _Fisheries Management Act 1991_ (as in force at that time); and
 
@@ -18498,7 +18432,7 @@ _Note:       Item 5 commences at the registration commencement tim
 
 _Note:       Item 15 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
-(2)       The Australian Fisheries Management Authority must comply with the requirement as if the repeal of subsection 50(3) of the _Fisheries Management Act 1991_ by item 15 of this Schedule had not happened.
+(2)        The Australian Fisheries Management Authority must comply with the requirement as if the repeal of subsection 50(3) of the _Fisheries Management Act 1991_ by item 15 of this Schedule had not happened.
 
 _\[NOTE]:  Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
 
@@ -18512,22 +18446,6 @@ Repeal the item.
 
 _Note:       The repealed item is redundant because of the amendment in item 2 of this Schedule._
 
-As at 21 September 2011 the amendment is not incorporated in this compilation.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+As at 12 January 2011 the amendment is not incorporated in this compilation.
 
  
