@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00515/Html/PublicService1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00090/Html/PublicService1999WD02_image001.gif)
 
 # Public Service Act 1999
 
 **Act No. 147 of 1999 as amended**
 
-This compilation was prepared on 3 October 2008
- taking into account amendments up to Act No. 90 of 2008
+This compilation was prepared on 28 March 2008
+ taking into account amendments up to Act No. 8 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1184,7 +1184,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (3)  The Head of an Executive Agency is accountable to the government, the Parliament and the public in the same way as the Secretary of a Department.
 
-##### <a id="67"></a>67  Appointment etc. of Head
+##### <a id="67"></a>67  Appointment etc. of Head
 
              (1)  The Agency Minister of an Executive Agency may appoint a person to be the Head of the Agency for a period of up to 5 years specified in the instrument of appointment.
 
@@ -1578,24 +1578,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>90, 2008</div>
-  </td>
-  <td>
-    <div>20 Sept 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 62, 75): 
-\[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 1 (item 75)</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1952,20 +1934,6 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
   </td>
 </tr></table>
 
-### Note 2
-
-_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
-
-The following amendment commences on 20 March 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 62  Subsection 73(5) (note)
-
-Omit “or otherwise relates to the Agency’s outcomes”.
-
-As at 3 October 2008 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2051,17 +2019,5 @@ the enabling legislation has effect, on and after the commencing day, as if:
              (5)  In this section:
 
                     <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._
-
-* * *
-
-_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
-
-The following provision commences on 20 March 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 75  Transitional regulations
-
-The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments made by this Schedule.
 
  
