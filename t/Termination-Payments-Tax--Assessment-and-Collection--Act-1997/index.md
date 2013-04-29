@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00873/Html/TerminationPaymentsTaxAssColl97_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image001.gif)
 
 # Termination Payments Tax (Assessment and Collection) Act 1997
 
 **Act No. 73 of 1997 as amended**
 
-This compilation was prepared on 24 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 29 September 200 6
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -68,6 +68,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22](#22).          Annual report
 
+[23](#23).          Secrecy
+
 **Part 6—Miscellaneous**
 
 [24](#24).          Authorised officers
@@ -104,7 +106,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Act to bind Crown
 
-             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the   Northern Territory and of Norfolk Island.
 
              (2)  Nothing in this Act permits the Crown to be prosecuted for an offence.
 
@@ -142,9 +144,9 @@ termination payments is subject to the surcharge.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     If,
 
-after the assessment of surcharge, the taxpayer’s adjusted taxable income is
+after the assessment of surcharge, the taxpayer’s adjusted taxable income is found
 
-found to be different from the amount that was previously calculated or the
+to be different from the amount that was previously calculated or the
 
 termination payments are found to be different from the amount on which the
 
@@ -216,11 +218,11 @@ Taxpayer liable for surcharge
 
              (2)  In the case of a termination payment made at or before 7.30 pm by legal time in the Australian Capital Territory on 22 May 2001, surcharge is payable only on the part of the termination payment that is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00873/Html/TerminationPaymentsTaxAssColl97_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image002.gif)
 
              (3)  In the case of a termination payment made after 7.30 pm by legal time in the Australian Capital Territory on 22 May 2001, surcharge is payable only on the part of the termination payment that is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00873/Html/TerminationPaymentsTaxAssColl97_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image003.gif)
 
              (4)  For the purposes of this section:
 
@@ -240,7 +242,7 @@ Surcharge threshold for later financial year
 
              (2)  The **_surcharge threshold_** for a later financial year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00873/Html/TerminationPaymentsTaxAssColl97_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image004.gif)
 
 where:
 
@@ -260,7 +262,7 @@ Indexation factor
 
              (4)  The **_indexation factor_** for a financial year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00873/Html/TerminationPaymentsTaxAssColl97_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00560/Html/TerminationPaymentsTaxAssColl97_WD02_image005.gif)
 
 where:
 
@@ -542,11 +544,95 @@ General interest charge period
 
                    The Commissioner has the general administration of this Act.
 
-Note:          An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
-
 ##### <a id="22"></a>22  Annual report
 
                    After the end of each financial year, the Commissioner must give the Treasurer a report on the working of this Act during the year for presentation to the Parliament.
+
+##### <a id="23"></a>23  Secrecy
+
+Definitions
+
+             (1)  In this section:
+
+                    <a name="court"></a>**_court_** includes any tribunal, authority or person having power to require the production of documents or the answering of questions.
+
+                    <a name="person-whom-section-appli"></a>**_person to whom this section applies_** means a person who is or has been:
+
+                     (a)  the Commissioner, a Second Commissioner or a Deputy Commissioner; or
+
+                     (b)  a person engaged under the _Public Service Act 1999_ in the Agency (within the meaning of that Act) of which the Commissioner is the Agency Head; or
+
+                     (c)  otherwise appointed or employed by, or a provider of services for, the Commonwealth.
+
+                    <a name="produc"></a>**_produce_** includes permit access to.
+
+                    <a name="protect-docum"></a>**_protected document_** means a document that:
+
+                     (a)  contains information about a person; and
+
+                     (b)  is obtained or made by a person to whom this section applies in the course of, or because of, the person’s duties under or in relation to this Act.
+
+                    <a name="protect-inform"></a>**_protected information_** means information that:
+
+                     (a)  concerns a person; and
+
+                     (b)  is disclosed to, or obtained by, a person to whom this section applies in the course of, or because of, the person’s duties under or in relation to this Act.
+
+Information may be recorded or divulged only for purposes of Act
+
+             (2)  A person to whom this section applies must not:
+
+                     (a)  make a record of any protected information; or
+
+                     (b)  whether directly or indirectly, divulge or communicate to a person any protected information about another person;
+
+unless the record is made, or the information is divulged or communicated:
+
+                     (c)  under or for the purposes of this Act; or
+
+                     (d)  in the performance of duties, as a person to whom this section applies, under or in relation to this Act.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose in respect of an offence an appropriate fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on an individual is worked out by multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
+
+Information may be divulged to persons performing duties under Acts administered by Commissioner
+
+             (3)  Subsection (2) does not prohibit the Commissioner, a Second Commissioner or a Deputy Commissioner, or a person authorised by the Commissioner, a Second Commissioner or a Deputy Commissioner, from divulging or communicating any protected information to a person performing, as a person to whom this section applies, duties under or in relation to an Act of which the Commissioner has the general administration, or under regulations made under such an Act, for the purpose of enabling the person to perform the duties.
+
+Divulging of information to Minister
+
+             (4)  A person divulges or communicates protected information to a person in contravention of subsection (2) if the person divulges or communicates the information to a Minister.
+
+Court may not require information or documents
+
+             (5)  A person to whom this section applies is not required:
+
+                     (a)  to divulge or communicate protected information to a court; or
+
+                     (b)  to produce a protected document in court;
+
+except where it is necessary to do so for the purpose of carrying into effect the provisions of this Act.
+
+Information may be divulged to persons performing duties under this Act
+
+             (6)  Nothing in this or any other Act of which the Commissioner has the general administration prohibits the Commissioner, a Second Commissioner or a Deputy Commissioner, or a person authorised by the Commissioner, a Second Commissioner or a Deputy Commissioner, from divulging or communicating any information to a person performing, as a person to whom this section applies, duties under or in relation to this Act for the purpose of enabling the person to perform the duties.
+
+Information may be divulged to court for purposes of this Act
+
+             (7)  Nothing in this or any other Act of which the Commissioner has the general administration prohibits the Commissioner, a Second Commissioner, a Deputy Commissioner, or a person authorised by the Commissioner, a Second Commissioner or a Deputy Commissioner, from:
+
+                     (a)  divulging or communicating to a court any information obtained under or for the purposes of such an Act; or
+
+                     (b)  producing in court a document obtained or made under or for the purposes of such an Act;
+
+where it is necessary to do so for the purpose of carrying into effect the provisions of this Act.
+
+Oath or declaration of secrecy
+
+             (8)  A person to whom this section applies must, if and when required by the Commissioner, a Second Commissioner or a Deputy Commissioner to do so, make an oath or declaration, in a manner and form determined by the Commissioner in writing, to maintain secrecy in accordance with this section.
 
 ## Part 6—Miscellaneous
 
@@ -1038,23 +1124,6 @@ Remainder: 18 Jan 2001</div>
     <div>Sch. 6 (items 1, 
  6–11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 120, 121): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Termination Payments Tax (Assessment and Collection) Act 1997_ was amended by Schedule 1 (Item 44) only of the _Taxation Laws Amendment Act (No. 3) 1997_, subsection 2(1) of which provides as follows:
@@ -1370,26 +1439,10 @@ _(j)_      The _Termination Payments Tax (Assessment and Collection) A
 </tr>
 <tr>
   <td>
-    <div>Note to s. 21</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 23</div>
   </td>
   <td>
     <div>am. No.146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1402,26 +1455,10 @@ _(j)_      The _Termination Payments Tax (Assessment and Collection) A
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note 2 to s. 23(2)</div>
   </td>
   <td>
     <div>ad. No. 191, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
