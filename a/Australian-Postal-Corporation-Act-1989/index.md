@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00670/Html/AusPostalCorporation1989WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00599/Html/AusPostalCorporation1989WD02_image001.gif)
 
 # Australian Postal Corporation Act 1989
 
 **Act No. 64 of 1989 as amended**
 
-This compilation was prepared on 17 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 25 November 2008
+ taking into account amendments up to Act No. 117 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2385,8 +2385,6 @@ Disclosure to assist in notification of next of kin
 
              (2)  The person may disclose the information or document to an officer or employee of a police force or service, fire service, ambulance service or other organisation providing emergency services if the person believes, on reasonable grounds, that the disclosure is necessary to assist in the notification of the next of kin of a person who is seriously injured or who has died.
 
-Note:          See also subsection (6).
-
 Disclosure to customs officers 
 
              (3)  The person may disclose the information or document to a customs officer if:
@@ -2421,18 +2419,6 @@ Disclosure for the enforcement of laws or protection of public revenue
 
                             (iii)  the protection of the public revenue.
 
-Next of kin
-
-             (6)  In determining for the purposes of subsection (2) whether a person is next of kin of another person, the following persons are also to be taken into account:
-
-                     (a)  a de facto partner of the person within the meaning of the _Acts Interpretation Act 1901_;
-
-                     (b)  someone who is the child of the person, or of whom the person is the child, because of subsection (7);
-
-                     (c)  anyone else who would be a relative of the person because someone mentioned in paragraph (a) or (b) is taken into account.
-
-             (7)  For the purposes of paragraph (6)(b), someone is the **_child_** of a person because of this subsection if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
-
 ##### <a id="90L"></a>90L  Disclosure of personal information by consent
 
                    If the information relates to the affairs or personal particulars (including name or address) of another person, the person may disclose the information (whether or not it is specially protected) if the disclosure:
@@ -2445,7 +2431,7 @@ Next of kin
 
 #### Subdivision B—Use or disclosure by former employees of Australia Post
 
-##### <a id="90LA"></a>90LA  Application of Subdivision
+##### <a id="90LA"></a>90LA  Application of Subdivision
 
              (1)  This Subdivision applies to a person who was an employee of Australia Post and to information or a document acquired or received by the person if:
 
@@ -3578,23 +3564,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Postal Corporation Act 1989_ was amended by Part 5 (sections 11–13) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1989_, subsection 2(1) of which provides as follows:
@@ -4489,7 +4458,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div></div>
   </td>
   <td>
-    <div>am. No. 101, 2006; No. 156, 2007; No. 144, 2008</div>
+    <div>am. No. 101, 2006; No. 156, 2007</div>
   </td>
 </tr>
 <tr>
