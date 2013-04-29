@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00613/Html/27b7eace-e01a-4060-a21e-4169b4725af2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00262/Html/3adfdcdf-ba73-4a3b-a7ee-509e53aec8a3_files/image001.gif)
 
 # Child Support (Registration and Collection) Act 1988
 
 **Act No. 3 of 1988 as amended**
 
-This compilation was prepared on 10 August 2012
- taking into account amendments up to Act No. 98 of 2012
+This compilation was prepared on 30 January 2012
+ taking into account amendments up to Act No. 88 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -29,8 +29,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [3A](#3A).         Application of the _Criminal Code_
 
 [4](#4).            Interpretation
-
-[4A](#4A).         Use of computer programs to make decisions
 
 [5](#5).            Extension and application of Act in relation to maintenance of exnuptial children
 
@@ -1176,12 +1174,6 @@ to have refused to do that act.
 
                      (c)  anyone else who would be a relative of the person if someone mentioned in paragraph (a) or (b) is taken to be a relative of the person.
 
-##### <a id="4A"></a>4A  Use of computer programs to make decisions
-
-             (1)  The Secretary of the Department of which the Registrar is an employee may arrange for the use, under the Registrar’s control, of computer programs for any purposes for which the Registrar may make decisions under this Act.
-
-             (2)  A decision made by the operation of a computer program under an arrangement made under subsection (1) is taken to be a decision made by the Registrar.
-
 ##### <a id="5"></a>5  Extension and application of Act in relation to maintenance of exnuptial children
 
 Extension of Act to States (except Western Australia)
@@ -1232,9 +1224,9 @@ Note:          See subsections (5A) and (5B) for the extensi
 
 Note:          If this Act is amended by one or more other Acts in relation to the maintenance of exnuptial children, unless and until one of the events mentioned in subsection (5A) occurs, there are effectively 2 versions of this Act that apply in Australia. This Act, as amended, applies:
 
-(a)    in all States and Territories in relation to children of marriages; and
+(a)           in all States and Territories in relation to children of marriages; and
 
-(b)    in all States and Territories, except Western Australia, in relation to exnuptial children.
+(b)           in all States and Territories, except Western Australia, in relation to exnuptial children.
 
                    This Act continues to apply in Western Australia in relation to exnuptial children as if those amendments had not been made.
 
@@ -3529,7 +3521,7 @@ without allocating the amount, or the sum of the amounts, towards the discharge 
 
 ##### <a id="65AA"></a>65AA  Application of this Part to those engaged under a contract for services
 
-                   This Part applies to a person (the **_independent contractor_**) engaged under a contract for services as if:
+                   This Part applies to a person (the **_independent contractor_**) engaged under a contract for services as if:
 
                      (a)  a reference to an employee includes a reference to the independent contractor; and
 
@@ -3711,7 +3703,7 @@ then:
 
              (5)  The remaining lump sum payment, for 1 July in a year of income, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00613/Html/27b7eace-e01a-4060-a21e-4169b4725af2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00262/Html/3adfdcdf-ba73-4a3b-a7ee-509e53aec8a3_files/image002.gif)
 
 where:
 
@@ -3719,7 +3711,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2012C00613/Html/27b7eace-e01a-4060-a21e-4169b4725af2_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00262/Html/3adfdcdf-ba73-4a3b-a7ee-509e53aec8a3_files/image003.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -7894,12 +7886,12 @@ For all other relevant information pertaining to application, saving or transiti
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
   <col width="17%">
   <col width="0%">
-  <col width="19%">
-  <col width="17%">
+  <col width="20%">
+  <col width="16%">
 </colgroup>
 
 <thead>
@@ -8238,7 +8230,7 @@ Schedule 12 (items 6–9): 1 July 1999 <i>(j)
  </i>Schedule 22 (item 9): Royal Assent <i>(j)</i></div>
   </td>
   <td>
-    <div>S. 4(2), Sch. 4 (item 8) and Sch. 19 (item 20)</div>
+    <div>S. 4(2), Sch. 4 (item 8) and Sch. 19 (item 20)</div>
   </td>
 </tr>
 <tr>
@@ -8255,7 +8247,7 @@ Schedule 12 (items 6–9): 1 July 1999 <i>(j)
     <div>Schedule 7 (items 16–18): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(k)</i></div>
   </td>
   <td>
-    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
+    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
   </td>
 </tr>
 <tr>
@@ -8463,7 +8455,7 @@ Schedule 10 (items 29–34): <i>(r)</i></div>
     <div>S. 4 and Schedule 1 (items 111–116, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
+    <div>S. 4 and Sch. 1 (item 496)</div>
   </td>
 </tr>
 <tr>
@@ -8627,14 +8619,15 @@ Schedule 5 (items 30–72): <i>(s)</i>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 3 (items 77(1)–(6), 78(2), (3), 79, 80), Sch. 4 (items 44–46), Sch. 5 (items 74(1), 
-74(3)–(5) 
-75(1)–(5), 76, 77) and Sch. 7 (items 
+    <div>Sch. 3 (items 77(1)–(6), 78(2), (3), 79, 80), 
+Sch. 4 (items 
+44–46), Sch. 5 (items 74(1), 74(3)–(5) 
+75(1)–(5), 76, 77) and Sch. 7 (items 
 13–15) 
 Sch. 2 (item 115) (am. by 82, 2007, Sch. 1 \[item 99]) 
 Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
-Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16]) 
-Sch. 5 (item 74(2)) (am. by 63, 2008, Sch. 6 \[item 17])</div>
+Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16]) 
+Sch. 5 (item 74(2)) (am. by 63, 2008, Sch. 6 \[item 17])</div>
   </td>
 </tr>
 <tr>
@@ -8772,7 +8765,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 3 (items 4, 5, 66(1)): 15 Mar 2007</div>
   </td>
   <td>
-    <div>Sch. 3 (item 66(1))</div>
+    <div>Sch. 3 (item 66(1))</div>
   </td>
 </tr>
 <tr>
@@ -8797,7 +8790,7 @@ Schedule 2 (items 45–100): 19 July 2007</div>
   </td>
   <td>
     <div>S. 4, Sch. 1 (items 
-80–91) and Sch. 4 (item 46) 
+80–91) and Sch. 4 (item 46) 
 S. 2(1) (am. by 73, 2008, Sch. 2 \[item 16])</div>
   </td>
 </tr>
@@ -8851,7 +8844,7 @@ Schedule 6 (items 16, 17): <i>(u)</i>
 Schedule 6 (items 18–20): <i>(u)</i></div>
   </td>
   <td>
-    <div>S. 4 and Sch. 6 (item 20)</div>
+    <div>S. 4 and Sch. 6 (item 20)</div>
   </td>
 </tr>
 <tr>
@@ -9025,7 +9018,7 @@ Schedule 4 (items 2, 3): <i>(v)</i></div>
     <div>Schedule 2 (items 334–348) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -9040,23 +9033,6 @@ Schedule 4 (items 2, 3): <i>(v)</i></div>
   </td>
   <td>
     <div>5 Aug 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>98, 2012</div>
-  </td>
-  <td colspan="2">
-    <div>29 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 17): 30 June 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -9697,14 +9673,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
   </td>
   <td>
     <div>am. No. 124, 1989; No. 216, 1991; Nos. 151 and 210, 1992; Nos. 39 and 140, 1995; Nos. 29 and 152, 1997; No. 120, 1998; Nos. 194 and 179, 1999; Nos. 86 and 143, 2000; Nos. 55 and 75, 2001; No. 8, 2005; Nos. 22, 46 and 146, 2006; Nos. 8, 15 and 82, 2007; Nos. 115 and 144, 2008; Nos. 38, 56, 65 and 105, 2010; Nos. 5, 32 and 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2012</div>
   </td>
 </tr>
 <tr>
@@ -13353,17 +13321,17 @@ _Taxation Laws Amendment Act (No. 3) 1995 (No. 170, 1995)_
 
 The amendments made by this Part do not apply to:
 
-                     (a)  amounts that became payable under section 221F or 221P of the _Income Tax Assessment Act 1936_ (the **_Tax Act_**) before this Part commenced; or
+             (a)  amounts that became payable under section 221F or 221P of the _Income Tax Assessment Act 1936_ (the **_Tax Act_**) before this Part commenced; or
 
-                     (b)  amounts payable under section 221G of the Tax Act in relation to tax deduction sheets that were required to be kept before the 28th day after the day on which this Part commences; or
+             (b)  amounts payable under section 221G of the Tax Act in relation to tax deduction sheets that were required to be kept before the 28th day after the day on which this Part commences; or
 
-                     (c)  amounts credited or applied against income tax under section 221K of the Tax Act as continued in force by subitem 53(1).
+             (c)  amounts credited or applied against income tax under section 221K of the Tax Act as continued in force by subitem 53(1).
 
 * * *
 
 _Child Support Legislation Amendment Act 1998 (No. 120, 1998)_
 
-##### <a id="4"></a>4  Application
+## 4  Application
 
              (2)  The amendments made by Schedules 6 and 19 do not apply to applications for administrative assessment made before the prescribed day.
 
@@ -13465,9 +13433,9 @@ _Child Support Legislation Amendment (Reform of the Child Support Scheme—Initi
 
 Note:          If a Child Support Act is amended by this Act and any other later Act in relation to the maintenance of exnuptial children, unless and until one of the events mentioned in subsection (1) occurs, there are effectively 2 versions of the Child Support Act that apply in Australia. The Child Support Act, as amended, applies:
 
-(a)    in all States and Territories in relation to children of marriages; and
+(a)           in all States and Territories in relation to children of marriages; and
 
-(b)    in all States and Territories, except Western Australia, in relation to exnuptial children.
+(b)           in all States and Territories, except Western Australia, in relation to exnuptial children.
 
                    The Child Support Act continues to apply in Western Australia in relation to exnuptial children as if those amendments had not been made.
 
