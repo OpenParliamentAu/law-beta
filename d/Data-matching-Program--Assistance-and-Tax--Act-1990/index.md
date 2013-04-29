@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00725/Html/DataMatchPrAT1990WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00701/Html/DataMatchPrAT1990WD02_image001.gif)
 
 # Data-matching Program (Assistance and Tax) Act 1990
 
 **Act No. 20 of 1991 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 1 October 2010
  taking into account amendments up to Act No. 105 of 2010
 
 The text of any of those amendments not in force
@@ -60,7 +60,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3—Amendments of the Privacy Act 1988** 
 
+**Schedule—Data-matching Program (Assistance and Tax) Guidelines** 
+
+Scope of Operation
+
+Definitions
+
+Basis of Program
+
+Technical Standards in relation to data quality, integrity and security
+
+Safeguards for individuals affected by the results of programs
+
+Record Controls
+
+No New Databank
+
+Reports and Monitoring by the Privacy Commissioner
+
 **Notes** 
+
+ 
 
 ## An Act to provide for the matching of data in relation to certain assistance and tax and to amend the _Privacy Act 1988_ 
 
@@ -546,7 +566,7 @@ to find out if there are any inconsistencies in the income data of the person.
 
              (5)  In this section:
 
-                    <a name="sampl-procur"></a>**_sampling procedures_** means sampling procedures established by the source agency in consultation with the Information Commissioner in relation to matters that relate to the privacy functions (within the meaning of the _Australian Information Commissioner Act 2010_).
+                    <a name="sampl-procur"></a>**_sampling procedures_** means sampling procedures established by the source agency in consultation with the Privacy Commissioner.
 
 ##### <a id="11"></a>11  Notice of proposed action
 
@@ -606,21 +626,35 @@ any personal assistance of that kind given, or any personal assistance of that k
 
 ##### <a id="12"></a>12  Guidelines relating to privacy
 
-             (1)  The matching agency and the source agencies must comply with guidelines issued under this section.
+             (1)  The matching agency and the source agencies are to comply with the interim guidelines set out in the Schedule until guidelines under subsection (2) come into force and, when those guidelines come into force, those agencies are to comply with those guidelines.
 
-             (2)  The Information Commissioner may, by legislative instrument, issue guidelines relating to the matching of data under this Act.
+             (2)  The Privacy Commissioner must, by legislative instrument, issue guidelines relating to the matching of data under this Act on or before 30 September 1991 and thereafter may, from time to time, issue further guidelines to replace any existing guidelines.
 
-             (3)  The function conferred by subsection (2) is a privacy function for the purposes of the _Australian Information Commissioner Act 2010_.
+          (2A)  In addition to the requirement that the matching agency and each source agency table a comprehensive report in both Houses of Parliament eighteen months after the commencement of the first data matching cycle (as required by Guideline 12 of the Guidelines issued by the Privacy Commissioner on 27 September 1991), the matching agency and each source agency must prepare and present for tabling in each House of the Parliament further comprehensive reports including references to all the matters identified in Guideline 12 of the Privacy Commissioner’s Guidelines:
 
-             (4)  After the end of each financial year, each agency must give the Information Commissioner, and cause to be laid before each House of the Parliament, a report including the matters relating to the data-matching program carried out during the financial year that are specified for the purposes of this subsection in guidelines issued under this section.
+                     (a)  by the end of October 1994; and
 
-             (5)  After the 3-year period ending on 30 June 1998, and after each successive 3-year period, each agency must give the Minister responsible for the agency a report for presentation to the Parliament including all the details relating to the data-matching program carried out during the period that are specified for the purposes of this subsection in guidelines issued under this section.
+                     (b)  by the end of October 1995.
+
+          (2B)  After the end of each financial year, each agency must give the Privacy Commissioner and cause to be laid before each House of the Parliament a report including the matters relating to the data-matching program carried out during the financial year:
+
+                     (a)  that are specified in paragraphs 9(i) and 9(vi) of the guidelines issued by the Privacy Commissioner on 31 October 1994; or
+
+                     (b)  if the guidelines described in paragraph (a) are replaced—that are specified for the purposes of this subsection in the guidelines issued by the Privacy Commissioner as in force from time to time.
+
+          (2C)  After the 3-year period ending on 30 June 1998, and after each successive 3-year period, each agency must give the Minister responsible for the agency a report for presentation to the Parliament including all the details relating to the data-matching program carried out during the period:
+
+                     (a)  that are specified in guideline 12 of the guidelines issued by the Privacy Commissioner on 31 October 1994; or
+
+                     (b)  if the guidelines described in paragraph (a) are replaced—that are specified for the purposes of this subsection in the guidelines issued by the Privacy Commissioner as in force from time to time.
 
 Note:          Section 34C of the _Acts Interpretation Act 1901_ sets time limits for giving reports to Ministers and for presentation of reports to the Parliament.
 
-             (6)  Despite section 12 of the _Legislative Instruments Act 2003_, guidelines issued under this section take effect from:
+             (3)  The Privacy Commissioner must report to the Parliament any failure to issue guidelines in accordance with subsection (2) within 15 sitting days of 30 September 1991.
 
-                     (a)  the first day on which the guidelines are no longer subject to disallowance; or
+             (4)  Guidelines issued under subsection (2) take effect from:
+
+                     (a)  the first day on which the guidelines are no longer liable to be disallowed; or
 
                      (b)  if the guidelines make provision for their commencement after that day—in accordance with that provision.
 
@@ -628,7 +662,7 @@ Note:          Section 34C of the _Acts Interpretation Act 1
 
              (1)  In this section:
 
-                    <a name="commission"></a>**_Commissioner_** means the Information Commissioner acting in the performance of the privacy functions (within the meaning of the _Australian Information Commissioner Act 2010_).
+                    <a name="commission"></a>**_Commissioner_** means the Privacy Commissioner.
 
              (2)  The Commissioner may investigate any act or practice which might be a breach of this Act or the guidelines in the Schedule.
 
@@ -672,7 +706,7 @@ and, where the second report relates to an agency other than an agency administe
 
              (1)  A breach of Part 2 of this Act or a breach of the guidelines referred to in section 12 constitutes an act or practice involving interference with the privacy of an individual for the purposes of section 13 of the _Privacy Act 1988_.
 
-             (2)  An individual may complain to the Information Commissioner about an act or practice in relation to the operation of this Act which may be an interference with the privacy of the individual.
+             (2)  An individual may complain to the Privacy Commissioner about an act or practice in relation to the operation of this Act which may be an interference with the privacy of the individual.
 
              (3)  In the event of a complaint being made by an individual, it shall be dealt with in accordance with the provisions of Part V of the _Privacy Act 1988_, which shall apply _mutatis mutandis_ to this Act.
 
@@ -717,6 +751,152 @@ The amendments made by this Part are incorporated in the compilation on ComLaw.
 For access to the wording of the amendments made by this Part, _see_ Act No. 20, 1991.
 
 * * *
+
+# Schedule—Data-matching Program (Assistance and Tax) Guidelines
+
+_Section 12_
+
+##### Scope of Operation
+
+              1.  These Guidelines apply to, and only to, the matching program referred to in the _Data-matching Program (Assistance and Tax) Act 1990_ (**_the Act_**).
+
+##### Definitions
+
+             2.1  Any term used in these Guidelines has:
+
+                              (i)  where it is defined in the Act, that meaning; or
+
+                             (ii)  where it is not defined in the Act but is defined in the _Privacy Act 1988_, that meaning.
+
+             2.2  In addition the following terms used in these Guidelines have the following meanings:
+
+                     (a)  **_Program_** refers to the data matching program as defined in the Act.
+
+                     (b)  **_Discrepancy_** refers to a result of the program which warrants further action by any relevant data agency for the purposes of giving effect to the program.
+
+                     (c)  **_action_** refers to the actions set out in section 10 of the Act
+
+##### Basis of Program
+
+             3.1  A program protocol must be prepared by the matching agency in consultation with the source agencies before 1 April 1991 and must:
+
+                              (i)  identify the matching agency and the source agencies;
+
+                             (ii)  in the case of each data agency, set out the legal basis for any collection, use or disclosure of personal information involved in the program;
+
+                            (iii)  outline the objectives of the program, the procedures to be employed, the nature and frequency of the matching covered by the program, and the justifications for the program;
+
+                            (iv)  explain what methods other than data-matching were available and why they were rejected;
+
+                             (v)  detail any cost/benefit analysis or other measures of effectiveness which were taken into account in deciding to initiate the program;
+
+                            (vi)  outline the technical controls proposed to ensure data quality, integrity and security in the conduct of the program;
+
+                           (vii)  provide an explanation for any use of identification numbers and, in particular, the tax file numbers;
+
+                           (viii)  outline the nature of the action proposed to be taken in relation to the results of the program including the pro formas of any letters to be used by source agencies when providing notice under section 11 of the Act;
+
+                            (ix)  indicate what form of notice, if any, of the proposed activities in relation to their personal information has been given or is intended to be given to affected individuals; and
+
+                             (x)  specify any time-limits on the conduct of the program.
+
+The Program Protocol must be filed with the Privacy Commissioner and available for public inspection unless the Privacy Commissioner is satisfied that to do so would be or would be likely to be contrary to the public interest (e.g. by prejudicing the integrity of legitimate investigative methods).
+
+             3.2  Agencies must comply with the Program Protocol.
+
+             3.3  Source agencies must take all reasonable steps to ensure that their clients are informed that a Program Protocol which outlines the nature and purposes of the data matching program is available from the Privacy Commissioner.
+
+##### Technical Standards in relation to data quality, integrity and security
+
+             4.1  _Technical Standards Report_: Detailed technical standards must be established by the matching agency to govern the conduct of the program. They should deal with the following matters:
+
+                              (i)  integrity of data supplied by source agencies, referring in particular to: key terms and their definition; relevance, timeliness and completeness;
+
+                             (ii)  matching techniques, referring in particular to: the matching algorithm, any use of identification numbers especially tax file numbers, the nature of the matters being sought to be identified by the matching process, the relevant data definitions and the procedure for recognising matches;
+
+                            (iii)  controls being employed to ensure the continued integrity of the program including the procedures that have been established to confirm the validity of matching results;
+
+                            (iv)  security features included within the program to minimise and audit access to personal information.
+
+             4.2  These matters should be dealt with in a Technical Standards Report to be held by the matching agency and copies held by the source agencies. A draft Report must be finalised before 1 April 1991 and the final report before 1 July 1991, taking account of  initial experience of the operation of the program. Any subsequent variations to the technical standards should be the subject of a Variation Report appended to the original Report.
+
+             4.3  The Privacy Commissioner has the power to require that the content of the draft and final Technical Standards Reports be varied. Non-compliance with the variations will be taken as a breach of the Guidelines and be subject to investigation in accordance with section 13 of the Act.
+
+             4.4  Agencies must comply with the Technical Standards Report.
+
+##### Safeguards for individuals affected by the results of programs
+
+Fairness
+
+             5.1  The source agencies must establish reasonable procedures for confirming the validity of results before relying on them as a basis for administrative action against an individual, unless there are reasonable grounds to believe that such results are not likely to be in error. In forming that view, regard is to be had to the consistency in content and context of data being matched.
+
+             5.2  Where such confirmation procedures do not take the form of checking the results against the source data but instead involve direct communication with the affected individual, the source agency shall notify the affected individual that no check has been made against the records which formed the basis for the data supplied for the program. The notification must include (either in the letter or by way of an attachment) an explanation of the procedures that are involved in the examination of a discrepancy as well as the rights of complaint under the _Privacy Act 1988_.
+
+             5.3  If there is a dispute as to the accuracy of the data or the propsed action which the source agency does not concede, it must inform the individual of the rights of complaint conferred by the _Privacy Act 1988_. Any further action taken by the agency must, unless otherwise provided by law, not interfere with an individual’s opportunity to exercise any rights of appeal or review.
+
+             5.4  Wherever data supplied by a person prior to 1 January 1991, is to be used, or is likely to be used, in a data matching program, the person who has supplied the data shall be notified in writing either before the data is first used or as soon as practicable thereafter that the data is likely to be used for this purpose.
+
+##### Record Controls
+
+             6.1  _No Discrepancy_: Personal information used in a matching cycle that does not lead to a discrepancy must be destroyed by the matching agency as soon as is practicable after the beginning of Step 5 in the cycle. In any case, destruction of the information must not occur later than 24 hours after the beginning of Step 5 of the cycle unless additional time is required because of a computer malfunction or industrial action.
+
+             6.2  _Discrepancy_: In cases where a discrepancy occurs as a result of Steps 1, 4 and 5 in a data matching cycle, the results must be supplied to the relevant source agency within 7 days of completion of the relevant step. Source agencies must deal with the results in accordance with section 10 of the Act. If, during the period referred to in that section or at any later time, a decision not to take further action is made, wherever practicable the information must be destroyed within 14 days.
+
+             6.3  On final completion of the action commenced in accordance with section 10(1) of the Act, all information which gave rise to such action is to be destroyed.
+
+For the purposes of this guideline **_final completion of the action_** means:
+
+                      (i)  in the situation where, at the expiration of twelve months from the commencement of action in accordance with section 10(1), the case is under the control of the Australian Federal Police and is proceeding to the satisfaction of the source agency—when all investigation action, legal proceedings and repayment of debts due to the Commonwealth is finalised;
+
+                      (ii)  in the situation where, at the expiration of twelve months from the commencement of action in accordance with section 10(1), the case is under the control of the Director of Public Prosecutions and is proceeding to the satisfaction of the source agency—when all legal proceedings and repayment of debts due to the Commonwealth are finalised;
+
+                     (iii)  in the situation where, at the expiration of twelve months from the commencement of action in accordance with section 10(1), a debt due to the Commonwealth remains outstanding and action is being taken to recover it—when the debt is fully recovered, waived or written off; and
+
+                     (iv)  in all other situations, within twelve months from the date of commencement of action in accordance with section 10(1).
+
+##### No New Databank
+
+             7.1  Subject to paragraph 7.2 below, source agencies must not permit the information used in the program to be linked or merged in such a way that a new separate permanent register (or databank) of information is created about any, or all of the individuals whose information has been subject to the program.
+
+             7.2  Paragraph 7.1 does not prevent a source agency from maintaining a register of individuals in respect of whom further inquiries are warranted following the decision required by section 10 of the Act.
+
+             7.3  After the completion of action in relation to an individual that is taken in accordance with clause 10, the source agency must delete any information that relates to that action from any register of the type described in paragraph 7.2.
+
+##### Reports and Monitoring by the Privacy Commissioner
+
+              8.  The Privacy Commissioner is to be responsible for monitoring the compliance with these Guidelines and giving advice to the relevant matching and source agencies as to their responsibilities under the Guidelines.
+
+              9.  The matching and source agencies must report to the Privacy Commissioner on a periodic basis as agreed with the Privacy Commissioner. The Commissioner may require an agency to report on any relevant matter, including any of the following matters:
+
+                      (i)  actual costs and benefits flowing from the program;
+
+                      (ii)  any non-financial factors that are considered relevant;
+
+                     (iii)  difficulties in the operation of the program and how these have been overcome;
+
+                     (iv)  the extent to which internal audits or other forms of assessment have been undertaken by agencies and their outcome;
+
+                     (v)  examples of circumstances in which the giving of notice under section 11 would prejudice the effectiveness of an investigation into the possible Commission of an offence; and
+
+                     (vi)  such other matters as: the total number of matches undertaken, the proportion of matches that result in discrepancies, the number of discrepancies, proportion of discrepancies which resulted in action being taken, the number of instances of subsequent action being taken, the number of cases in which action proceeded despite a challenge as to the accuracy of the data, the proportion of discrepancies which did not proceed to action after the individual was contacted; and the number of cases where successful recovery action occurred.
+
+           10.1  The Privacy Commissioner must include in his annual report an assessment of the extent of the program’s compliance with the Act, these Guidelines and the _Privacy Act 1988_; and to that end, may exercise any of the powers as to investigation and audit contained in the _Privacy Act 1988_.
+
+           10.2  Agencies must report their data matching activities under this Act in their annual entry for the Personal Information Digest of the Privacy Commissioner.
+
+             11.  These Guidelines are additional to provisions of the _Privacy Act 1988_ including the Information Privacy Principles.
+
+             12.  The matching agency and each source agency must table a comprehensive report in both Houses of Parliament six months after the commencement of the first data matching cycle. These reports are to include all of the following details:
+
+                      (i)  actual cost and benefits flowing from the program;
+
+                      (ii)  any non-financial factors that are considered relevant;
+
+                     (iii)  difficulties in the operation of the program and how these have been overcome;
+
+                     (iv)  the extent to which internal audits or other forms of assessment have been undertaken by agencies and their outcome; and
+
+                     (v)  such other matters as: the total number of matches undertaken, the proportion of matches that result in discrepancies, the number of discrepancies, the proportion of discrepancies which resulted in action being taken, the number of instances of subsequent action being taken, the number of cases in which action proceeded despite a challenge as to the accuracy of the data, the proportion of discrepancies which did not proceed to action after the individual was contacted; and the number of cases where successful recovery action occurred.
 
 # Notes to the _Data-matching Program (Assistance and Tax) Act 1990_
 
@@ -1499,7 +1679,7 @@ Schedule 2 (items 11-13): 1 Jan 1996 <i>(o)</i></div>
 Schedule 3 (items 1, 2): 1 Sept 2008</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 3 (item 2) \[ <i>see</i>Table A]</div>
+    <div>S. 4 and Sch. 3 (item 2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1530,10 +1710,11 @@ Schedule 3 (items 1, 2): 1 Sept 2008</div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (items 27–31) and Schedule 7: <i>(zb)</i></div>
+    <div>Schedule 5 (items 27–31): \[ <i>see (zb)</i>and Note 2] 
+Schedule 7: <i>(zb)</i></div>
   </td>
   <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -1547,7 +1728,7 @@ Schedule 3 (items 1, 2): 1 Sept 2008</div>
     <div>14 July 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 34, 35) and Schedule 2 (items 1, 2): 1 Oct 2010 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 34, 35) and Schedule 2 (items 1, 2): 1 Oct 2010 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>Sch. 2 (items 1, 2) \[ <i>see</i>Table A]</div>
@@ -1799,7 +1980,8 @@ _(zb)_  Subsection 2(1) (item 7) of the _Freedom of Information Amendment (R
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -1912,7 +2094,7 @@ _(zb)_  Subsection 2(1) (item 7) of the _Freedom of Information Amendment (R
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 81, 1992; No. 121, 1993; No. 29, 1997; No. 51, 2010</div>
+    <div>am. No. 81, 1992; No. 121, 1993; No. 29, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1929,22 +2111,6 @@ _(zb)_  Subsection 2(1) (item 7) of the _Freedom of Information Amendment (R
   </td>
   <td>
     <div>am. No. 205, 1992; No. 121, 1993; No. 143, 1995; No. 108, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13, 14</div>
-  </td>
-  <td>
-    <div>am. No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1986,22 +2152,64 @@ _(zb)_  Subsection 2(1) (item 7) of the _Freedom of Information Amendment (R
   <td>
     <div>rep. No. 111, 1998</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 51, 2010</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendments commence immediately after 1 November 2010:
+
+## Schedule 5
+
+## 27  Subsection 10(5) (definition of _sampling procedures_)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner in relation to matters that relate to the privacy functions (within the meaning of the _Australian Information Commissioner Act 2010_)”.
+
+## 28  Section 12
+
+Repeal the section, substitute:
+
+##### <a id="12"></a>12  Guidelines relating to privacy
+
+             (1)  The matching agency and the source agencies must comply with guidelines issued under this section.
+
+             (2)  The Information Commissioner may, by legislative instrument, issue guidelines relating to the matching of data under this Act.
+
+             (3)  The function conferred by subsection (2) is a privacy function for the purposes of the _Australian Information Commissioner Act 2010_.
+
+             (4)  After the end of each financial year, each agency must give the Information Commissioner, and cause to be laid before each House of the Parliament, a report including the matters relating to the data-matching program carried out during the financial year that are specified for the purposes of this subsection in guidelines issued under this section.
+
+             (5)  After the 3-year period ending on 30 June 1998, and after each successive 3-year period, each agency must give the Minister responsible for the agency a report for presentation to the Parliament including all the details relating to the data-matching program carried out during the period that are specified for the purposes of this subsection in guidelines issued under this section.
+
+Note:          Section 34C of the _Acts Interpretation Act 1901_ sets time limits for giving reports to Ministers and for presentation of reports to the Parliament.
+
+             (6)  Despite section 12 of the _Legislative Instruments Act 2003_, guidelines issued under this section take effect from:
+
+                     (a)  the first day on which the guidelines are no longer subject to disallowance; or
+
+                     (b)  if the guidelines make provision for their commencement after that day—in accordance with that provision.
+
+## 29  Subsection 13(1) (definition of _Commissioner_)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner acting in the performance of the privacy functions (within the meaning of the _Australian Information Commissioner Act 2010_)”.
+
+## 30  Subsection 14(2)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+## 31  Schedule
+
+Repeal the Schedule.
+
+As at 1 October 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Data-matching Program (Assistance and Tax) Amendment Act 1998
- (No. 111, 1998)_
+  (No. 111, 1998)_
 
 ## 2  Application of repeal
 
