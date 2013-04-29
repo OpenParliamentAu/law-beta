@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00065/Html/31f10f74-dc06-4045-8ffd-f31300ad9613_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00738/Html/b2d5c97b-adaf-4a21-bcc4-8514a4d52b90_files/image001.gif)
 
 # Defence Housing Australia Act 1987
 
 **Act No. 101 of 1987 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 12 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -506,19 +506,51 @@ the Minister shall terminate the appointment of the appointed member.
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act as an appointed member referred to in paragraph 12(1)(b), (c) or (f):
 
                      (a)  during a vacancy in the office of such a member (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when such a member is acting as Chairperson, is absent from Australia or is, for any reason, unable to attend meetings of the Board.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
           (2A)  The Finance Minister may appoint a person nominated by the Finance Secretary  to act as the appointed member referred to in paragraph 12(1)(d) during a vacancy in the office of such a member (whether or not an appointment has previously been made to the office).
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  An appointment of a person under subsection (1), (2) or (2A) may be expressed to have effect only in specified circumstances.
+
+             (4)  A person appointed under subsection (1), (2) or (2A) to act during a vacancy in the office of Chairperson or another appointed member shall not continue to act for more than 6 months.
+
+             (5)  Where:
+
+                     (a)  a person is acting as Chairperson under paragraph (1)(b) or is acting as another appointed member under paragraph (2)(b) or subsection (2A); and
+
+                     (b)  the office of Chairperson or other appointed member, as the case may be, becomes vacant;
+
+then, subject to subsection (3) and paragraph (7)(b), the person may continue to act until:
+
+                     (c)  the vacancy is filled; or
+
+                     (d)  a period of 6 months from the day on which the vacancy occurs expires;
+
+whichever happens first.
+
+             (6)  A person acting as Chairperson or another appointed member has all the powers and duties of the Chairperson or other member, as the case may be.
+
+             (7)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as Chairperson or another appointed member; and
+
+                     (b)  terminate the appointment at any time.
+
+             (8)  A person appointed to act as Chairperson or another appointed member may resign the appointment by writing signed by the person and delivered to the Minister.
+
+             (9)  Anything done by or in relation to a person purporting to act as Chairperson or another appointed member is not invalid because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="24"></a>24  Meetings
 
@@ -602,7 +634,7 @@ Note:          For rules that apply to acting appointments, se
 
              (3)  The persons mentioned in paragraphs (2)(c), (d), (e) and (f) are to be appointed in writing. They hold office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          The persons are eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          The persons are eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (4)  The persons mentioned in subsection (2) hold office on a part‑time basis.
 
@@ -826,7 +858,7 @@ shall, to the extent of the amount of that money or of that credit, as the case 
 
                      (b)  holds office during the Board’s pleasure.
 
-##### <a id="49"></a>49  Managing Director not to engage in other paid employment
+##### <a id="49"></a>49  Managing Director not to engage in other paid employment
 
                    The Managing Director shall not engage in paid employment outside the duties of the office except with the approval of the Board.
 
@@ -854,11 +886,45 @@ shall, to the extent of the amount of that money or of that credit, as the case 
 
                      (a)  during a vacancy in the office of Managing Director (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue to act as Managing Director for more than 12 months.
+
+             (2)  The appointment may be expressed to have effect only in specified circumstances:
+
+             (3)  Where:
+
+                     (a)  a person is acting under paragraph (1)(b); and
+
+                     (b)  the office of Managing Director becomes vacant;
+
+then, subject to subsection (2) and paragraph (5)(b), the person may continue to act until:
+
+                     (c)  the vacancy is filled; or
+
+                     (d)  a period of 12 months from the day on which the vacancy occurred expires;
+
+whichever happens first.
+
+             (4)  A person acting as Managing Director has all the powers and duties of the Managing Director.
+
+             (5)  The Board may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as Managing Director; and
+
+                     (b)  terminate the appointment at any time.
 
              (6)  A person appointed to act as Managing Director may resign the appointment by writing signed by the person and delivered to the Chairperson.
+
+             (7)  Anything done by or in relation to a person purporting to act as Managing Director is not invalid because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act as Managing Director had not arisen or had ceased.
 
 ##### <a id="56"></a>56  Terms and conditions of appointment not provided for by Act
 
@@ -1217,7 +1283,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (items 1, 66–68): Royal Assent <i>(b)</i></div>
+    <div>Schedule 4 (items 66–68): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1234,7 +1300,7 @@ Remainder: Royal Assent</div>
     <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 5, 23, 50, 80, 89, 106, 129, 141, 142): Royal Assent <i>(c)</i></div>
+    <div>Schedule 2 (items 23, 80, 106, 129, 141, 142): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1319,7 +1385,7 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 41–44, 97): 29 Oct 2001</div>
+    <div>29 Oct 2001</div>
   </td>
   <td>
     <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
@@ -1404,7 +1470,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 523–529) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 523–529) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1632,7 +1698,7 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
     <div>Heading to s. 5</div>
   </td>
   <td>
-    <div>am. No. 45, 2006</div>
+    <div>rs. No. 45, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1800,23 +1866,7 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 100, 1988; No. 45, 2006; No. 73, 2008; Nos. 5 and 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 23(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 23(2A)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 100, 1988; No. 45, 2006; No. 73, 2008; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1869,18 +1919,10 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
 </tr>
 <tr>
   <td>
-    <div>Note to s. 27(3)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 28</div>
   </td>
   <td>
-    <div>am. No. 152, 1997</div>
+    <div>am No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1896,7 +1938,7 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 152, 1997</div>
+    <div>am No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2160,15 +2202,7 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
     <div>S. 54</div>
   </td>
   <td>
-    <div>am. No. 45, 2006; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 54(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 45, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2348,6 +2382,48 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 523  At the end of subsections 23(1), (2) and (2A)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 524  Subsections 23(3) to (9)
+
+Repeal the subsections.
+
+## 525  Subsection 27(3) (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 526  Paragraph 54(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 527  Subsection 54(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue to act as Managing Director for more than 12 months.”.
+
+## 528  At the end of subsection 54(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 529  Subsections 54(2) to (5) and (7)
+
+Repeal the subsections.
+
+As at 12 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2403,6 +2479,8 @@ The amendment made by Schedule 1 to subsection 47(1) of the _Defence Housing A
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
