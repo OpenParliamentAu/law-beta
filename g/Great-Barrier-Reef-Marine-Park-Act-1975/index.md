@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00109/Html/4c696d1a-50c2-4cf8-b532-7a26dd7cdbf0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00815/Html/1e19148d-58ab-43e6-882b-aa346d128453_files/image001.gif)
 
 # Great Barrier Reef Marine Park Act 1975
 
 **Act No. 85 of 1975 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 4 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -640,6 +640,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="conduct"></a>**_conduct_** has the same meaning as in the _Criminal Code_.
 
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="declar-contravent"></a>**_declaration of contravention_** means a declaration made under section 61AIA.
 
                     <a name="discharg"></a>**_discharge_**, in relation to waste, means release the waste, however the release is caused, and includes any escape, disposal, depositing, spilling, leaking, pumping, emitting or emptying of the waste.
@@ -673,6 +675,8 @@ Note:          A dory might also be known as a tender commerci
                      (c)  park management (including aquarium management and zoo management); or
 
                      (d)  any similar matter.
+
+                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="execut-offic"></a>**_executive officer_**, of a body corporate, means a person, by whatever name called and whether or not a director of the body, who is concerned in, or takes part in, the management of the body.
 
@@ -838,6 +842,8 @@ other than:
 
                     <a name=""></a>**_take_**, in relation to an animal or plant, includes remove, gather, catch, capture, kill, destroy, dredge for, raise, carry away, bring ashore, interfere with and obtain.
 
+                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="act"></a>**_this Act_** includes the regulations.
 
                     <a name="tradition-owner"></a>**_traditional owner_** means an Indigenous person:
@@ -968,7 +974,7 @@ the vessel under tow is to be treated as if it were navigating with a pilot.
 
 ##### <a id="3AA"></a>3AA  Ecologically sustainable use
 
-                   For the purposes of this Act, **_ecologically sustainable use_** of the Great Barrier Reef Region or its natural resources is use of the Region or resources:
+                   For the purposes of this Act, **_ecologically sustainable use_** of the Great Barrier Reef Region or its natural resources is use of the Region or resources:
 
                      (a)  that is consistent with:
 
@@ -1344,19 +1350,31 @@ a person other than a person nominated by the Queensland Government may be appoi
 
                      (a)  during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or, for any other reason, is unable to perform the duties of his or her office.
+                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or, for any other reason, is unable to perform the duties of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  Where a person is acting as Chairperson in accordance with paragraph (1)(b) and the office of Chairperson becomes vacant while that person is so acting, the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
              (3)  The Minister may appoint a person to act as a part‑time member:
 
                      (a)  during a vacancy in an office of part‑time member, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period or during all periods when a part‑time member is acting as Chairperson, is absent from duty or from Australia or, for any other reason, is unable to perform the duties of his or her office.
+                     (b)  during any period or during all periods when a part‑time member is acting as Chairperson, is absent from duty or from Australia or, for any other reason, is unable to perform the duties of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (4)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as Chairperson or as a part‑time member; and
+
+                     (b)  at any time terminate an appointment under this section.
 
              (5)  The appointment of a person to act as Chairperson or as a part‑time member ceases to have effect if he or she resigns the appointment by writing signed by him or her and delivered to the Minister, but the resignation does not have effect until it is accepted by the Minister.
+
+             (6)  While the appointment of a person to act as Chairperson or as a part‑time member remains in force, he or she has, and may exercise, all the powers and shall perform all the functions of the Chairperson or a part‑time member, as the case may be.
+
+             (7)  The validity of anything done by a person appointed under this section shall not be called in question on the ground that the occasion for his or her appointment had not arisen or that the appointment had ceased to have effect.
 
 ##### <a id="16"></a>16  Termination of appointment of members of Authority
 
@@ -2876,7 +2894,7 @@ Note:          Subsection (2) extends by a year the deadline
 
              (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person does not include imprisonment.
 
-##### <a id="38HD"></a>38HD  Conduct in the exclusive economic zone: Division 6 offences
+##### <a id="38HD"></a>38HD  Conduct in the exclusive economic zone: Division 6 offences
 
              (1)  This section applies in relation to an offence (a **_vicarious liability offence_**) committed by a person against a provision of Division 6 of this Part if:
 
@@ -4196,7 +4214,7 @@ Note:          The defendant bears an evidential burden in rel
 
 #### Subdivision A—Vessel monitoring directions
 
-##### <a id="61AAA"></a>61AAA  Making vessel monitoring directions
+##### <a id="61AAA"></a>61AAA  Making vessel monitoring directions
 
 Application of this section
 
@@ -5432,7 +5450,7 @@ a proper officer of the court shall issue to the Minister or the Authority, as t
 
 ## Part IX—Miscellaneous
 
-##### <a id="64"></a>64  Reconsideration of decisions
+##### <a id="64"></a>64  Reconsideration of decisions
 
              (1)  A person who is affected by a reviewable decision made by the Minister may request the Minister, in writing, to reconsider the decision.
 
@@ -6293,7 +6311,7 @@ Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 661–671) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 661–671) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -6487,7 +6505,7 @@ _(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 140, 1978; No. 65, 1985; No. 105, 1988; No. 121, 1991; No. 13, 1993; No. 25, 1995; No. 118, 1997; No. 92, 1999; No. 137, 2000; Nos. 15 and 48, 2001; No. 22, 2004; No. 106, 2007; No. 125, 2008; No. 46, 2011</div>
+    <div>am. No. 140, 1978; No. 65, 1985; No. 105, 1988; No. 121, 1991; No. 13, 1993; No. 25, 1995; No. 118, 1997; No. 92, 1999; No. 137, 2000; Nos. 15 and 48, 2001; No. 22, 2004; No. 106, 2007; No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6684,34 +6702,10 @@ _(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ 
 </tr>
 <tr>
   <td>
-    <div>S. 14</div>
+    <div>Ss. 14, 15</div>
   </td>
   <td>
     <div>am. No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 25, 1995; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9715,6 +9709,64 @@ _(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ 
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 661  Subsection 3(1) (definition of _continental shelf_)
+
+Repeal the definition.
+
+## 662  Subsection 3(1) (definition of _exclusive economic zone_)
+
+Repeal the definition.
+
+## 663  Subsection 3(1) (definition of _territorial sea_)
+
+Repeal the definition.
+
+## 664  Paragraph 15(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 665  Subsection 15(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 666  At the end of subsection 15(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 667  Subsection 15(2)
+
+Repeal the subsection.
+
+## 668  Paragraph 15(3)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 669  Subsection 15(3)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 670  At the end of subsection 15(3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 671  Subsections 15(4), (6) and (7)
+
+Repeal the subsections.
+
+As at 4 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -10128,6 +10180,8 @@ A reference in section 38FD of the _Great Barrier Reef Marine Park Act 1975_, 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
