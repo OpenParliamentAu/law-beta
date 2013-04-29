@@ -1,88 +1,89 @@
-![](http://www.comlaw.gov.au/Details/C2011C00737/Html/7c396edd-2ba9-49b0-8868-c7efe0091868_files/image001.gif)
+ 
 
-# Cross‑Border Insolvency Act 2008
+![](http://www.comlaw.gov.au/Details/C2010C00188/Html/CrossBordInsolAct2008_image001.gif)
+
+# Cross-Border Insolvency Act 2008
 
 **Act No. 24 of 2008 as amended**
 
-This compilation was prepared on 12 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 4 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Crown to be bound
+[3](#3).            Crown to be bound                                                                              2
 
-[4](#4).            Application of Act
+[4](#4).            Application of Act                                                                              2
 
-**Part 2—Model Law on Cross‑Border Insolvency**
+**Part 2—Model Law on Cross-Border Insolvency**
 
-[5](#5).            Definitions
+[5](#5).            Definitions                                                                                           3
 
-[6](#6).            Model Law to have force of law in Australia
+[6](#6).            Model Law to have force of law in Australia                                      3
 
-[7](#7).            References in Model Law to this State
+[7](#7).            References in Model Law to this State                                                3
 
-[8](#8).            Identifying Australian laws relating to insolvency
+[8](#8).            Identifying Australian laws relating to insolvency                              4
 
-[9](#9).            Entities that are not covered by the Model Law
+[9](#9).            Entities that are not covered by the Model Law                                 4
 
-[10](#10).          Courts competent to perform functions under Model Law
+[10](#10).          Courts competent to perform functions under Model Law                4
 
-[11](#11).          Functions of the trustee (in bankruptcy proceedings) and the registered liquidator (in corporate insolvencies)
+[11](#11).          Functions of the trustee (in bankruptcy proceedings) and the registered liquidator (in corporate insolvencies)    5
 
-[12](#12).          Access of foreign creditors to Australian insolvency proceedings
+[12](#12).          Access of foreign creditors to Australian insolvency proceedings      5
 
-[13](#13).          Application for recognition of foreign proceeding
+[13](#13).          Application for recognition of foreign proceeding                               5
 
-[14](#14).          Subsequent information
+[14](#14).          Subsequent information                                                                       6
 
-[15](#15).          Relief that may be granted upon application for recognition of a foreign proceeding
+[15](#15).          Relief that may be granted upon application for recognition of a foreign proceeding             6
 
-[16](#16).          Effects of recognition of a foreign main proceeding
+[16](#16).          Effects of recognition of a foreign main proceeding                             6
 
-[17](#17).          Actions to avoid acts detrimental to creditors
+[17](#17).          Actions to avoid acts detrimental to creditors                                     7
 
-[18](#18).          Forms of cooperation
+[18](#18).          Forms of cooperation                                                                          7
 
-[19](#19).          References to laws/law of this State and courts of this State
+[19](#19).          References to laws/law of this State and courts of this State              7
 
-[20](#20).          Application
+[20](#20).          Application                                                                                          8
 
 **Part 3—Interaction with other Acts**
 
-[21](#21).          Interaction with the _Bankruptcy Act 1966_
+[21](#21).          Interaction with the _Bankruptcy Act 1966_                                           9
 
-[22](#22).          Interaction with the _Corporations Act 2001_
+[22](#22).          Interaction with the _Corporations Act 2001_                                        9
 
 **Part 4—Regulations**
 
-[23](#23).          Regulations
+[23](#23).          Regulations                                                                                        10
 
-**Schedule 1—Model Law on Cross‑Border Insolvency of the United Nations Commission on International Trade Law** 
+**Schedule 1—Model Law on Cross-Border Insolvency of the United Nations Commission on International Trade Law** 
 
 **Notes** 
 
-## An Act to give effect to the Model Law on Cross‑Border Insolvency of the United Nations Commission on International Trade Law, and for related purposes
+## An Act to give effect to the Model Law on Cross-Border Insolvency of the United Nations Commission on International Trade Law, and for related purposes
 
 ## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-                   This Act may be cited as the _Cross‑Border Insolvency Act 2008_.
+                   This Act may be cited as the _Cross-Border Insolvency Act 2008_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -190,15 +191,15 @@ Note:          This table relates only to the provisions of th
 
                    This Act does not extend to the Territory of Christmas Island or the Territory of Cocos (Keeling) Islands.
 
-## Part 2—Model Law on Cross‑Border Insolvency
+## Part 2—Model Law on Cross-Border Insolvency
 
-##### <a id="5"></a>5  Definitions
+##### <a id="5"></a>5  Definitions
 
              (1)  In this Act:
 
                     <a name="australia"></a>**_Australia_** does not include the Territory of Christmas Island or the Territory of Cocos (Keeling) Islands.
 
-                    <a name="model-law"></a>**_Model Law_** means the Model Law on Cross‑Border Insolvency of the United Nations Commission on International Trade Law, set out in the Annex to United Nations General Assembly Resolution A/RES/52/158 (1997), the English text of which is set out in Schedule 1 to this Act.
+                    <a name="model-law"></a>**_Model Law_** means the Model Law on Cross-Border Insolvency of the United Nations Commission on International Trade Law, set out in the Annex to United Nations General Assembly Resolution A/RES/52/158 (1997), the English text of which is set out in Schedule 1 to this Act.
 
 Note:          In 2008, the text of United Nations General Assembly Resolutions was accessible through the United Nations website (www.un.org).
 
@@ -392,25 +393,25 @@ the Model Law or the provision of this Act prevails, and the provision of the _C
 
 ##### <a id="23"></a>23  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Schedule 1—Model Law on Cross‑Border Insolvency of the United Nations Commission on International Trade Law
+# Schedule 1—Model Law on Cross-Border Insolvency of the United Nations Commission on International Trade Law
 
 _Note:       See section 5._
 
 PREAMBLE
 
-The purpose of the present Law is to provide effective mechanisms for dealing with cases of cross‑border insolvency so as to promote the objectives of:
+The purpose of the present Law is to provide effective mechanisms for dealing with cases of cross-border insolvency so as to promote the objectives of:
 
-            (_a_)  Cooperation between the courts and other competent authorities of this State and foreign States involved in cases of cross‑border insolvency;
+            (_a_)  Cooperation between the courts and other competent authorities of this State and foreign States involved in cases of cross-border insolvency;
 
             (_b_)  Greater legal certainty for trade and investment;
 
-            (_c_)  Fair and efficient administration of cross‑border insolvencies that protects the interests of all creditors and other interested persons, including the debtor;
+            (_c_)  Fair and efficient administration of cross-border insolvencies that protects the interests of all creditors and other interested persons, including the debtor;
 
             (_d_) Protection and maximization of the value of the debtor’s assets;
 
@@ -444,13 +445,13 @@ For the purposes of the present Law:
 
             (_b_)  “Foreign main proceeding” means a foreign proceeding taking place in the State where the debtor has the centre of its main interests;
 
-            (_c_)  “Foreign non‑main proceeding” means a foreign proceeding, other than a foreign main proceeding, taking place in a State where the debtor has an establishment within the meaning of subparagraph (_f_) of the present article;
+            (_c_)  “Foreign non-main proceeding” means a foreign proceeding, other than a foreign main proceeding, taking place in a State where the debtor has an establishment within the meaning of subparagraph (_f_) of the present article;
 
             (_d_)  “Foreign representative” means a person or body, including one appointed on an interim basis, authorized in a foreign proceeding to administer the reorganization or the liquidation of the debtor’s assets or affairs or to act as a representative of the foreign proceeding;
 
             (_e_)  “Foreign court” means a judicial or other authority competent to control or supervise a foreign proceeding;
 
-            (_f_)  “Establishment” means any place of operations where the debtor carries out a non‑transitory economic activity with human means and goods or services.
+            (_f_)  “Establishment” means any place of operations where the debtor carries out a non-transitory economic activity with human means and goods or services.
 
 _Article 3_
 
@@ -524,7 +525,7 @@ _Access of foreign creditors to a proceeding under_ \[identify
 
 1.         Subject to paragraph 2 of the present article, foreign creditors have the same rights regarding the commencement of, and participation in, a proceeding under [_identify laws of the enacting State relating to insolvency_] as creditors in this State.
 
-2.         Paragraph 1 of the present article does not affect the ranking of claims in a proceeding under [_identify laws of the enacting State relating to insolvency_], except that the claims of foreign creditors shall not be ranked lower than [_identify the class of general non‑preference claims, while providing that a foreign claim is to be ranked lower than the general non‑preference claims if an equivalent local claim (e.g. claim for a penalty or deferred‑payment claim) has a rank lower than the general non‑preference claims_].<span style="font-size:10.5pt"><span class="MsoFootnoteReference"><span style="font-size:10.5pt;font-family:" new="">\[2]</span></span></span>
+2.         Paragraph 1 of the present article does not affect the ranking of claims in a proceeding under [_identify laws of the enacting State relating to insolvency_], except that the claims of foreign creditors shall not be ranked lower than [_identify the class of general non-preference claims, while providing that a foreign claim is to be ranked lower than the general non-preference claims if an equivalent local claim (e.g. claim for a penalty or deferred-payment claim) has a rank lower than the general non-preference claims_].<span style="font-size:10.5pt"><span class="MsoFootnoteReference"><span style="font-size:10.5pt;font-family:" new="">\[2]</span></span></span>
 
 _Article 14_
 
@@ -591,7 +592,7 @@ _Decision to recognize a foreign proceeding_
 
             (_a_)  As a foreign main proceeding if it is taking place in the State where the debtor has the centre of its main interests; or
 
-            (_b_)  As a foreign non‑main proceeding if the debtor has an establishment within the meaning of subparagraph (_f_) of article 2 in the foreign State.
+            (_b_)  As a foreign non-main proceeding if the debtor has an establishment within the meaning of subparagraph (_f_) of article 2 in the foreign State.
 
 3.         An application for recognition of a foreign proceeding shall be decided upon at the earliest possible time.
 
@@ -647,7 +648,7 @@ _Article 21_
 
 _Relief that may be granted upon recognition of a  foreign proceeding_
 
-1.         Upon recognition of a foreign proceeding, whether main or non‑main, where necessary to protect the assets of the debtor or the interests of the creditors, the court may, at the request of the foreign representative, grant any appropriate relief, including:
+1.         Upon recognition of a foreign proceeding, whether main or non-main, where necessary to protect the assets of the debtor or the interests of the creditors, the court may, at the request of the foreign representative, grant any appropriate relief, including:
 
             (_a_)  Staying the commencement or continuation of individual actions or individual proceedings concerning the debtor’s assets, rights, obligations or liabilities, to the extent they have not been stayed under paragraph 1 (_a_) of article 20;
 
@@ -655,7 +656,7 @@ _Relief that may be granted upon recognition of a  foreign proceeding_
 
             (_c_)  Suspending the right to transfer, encumber or otherwise dispose of any assets of the debtor to the extent this right has not been suspended under paragraph 1 (_c_) of article 20;
 
-            (_d_)  Providing for the examination of witnesses, the taking of evidence or the delivery of information concerning the debtor’s assets, affairs, rights, obligations or liabilities;
+            (_d_)  Providing for the examination of witnesses, the taking of evidence or the delivery of information concerning the debtor’s assets, affairs, rights, obligations or liabilities;
 
             (_e_)  Entrusting the administration or realization of all or part of the debtor’s assets located in this State to the foreign representative or another person designated by the court;
 
@@ -663,9 +664,9 @@ _Relief that may be granted upon recognition of a  foreign proceeding_
 
             (_g_)  Granting any additional relief that may be available to [_insert the title of a person or body administering a reorganization or liquidation under the law of the enacting State_] under the laws of this State.
 
-2.         Upon recognition of a foreign proceeding, whether main or non‑main, the court may, at the request of the foreign representative, entrust the distribution of all or part of the debtor’s assets located in this State to the foreign representative or another person designated by the court, provided that the court is satisfied that the interests of creditors in this State are adequately protected.
+2.         Upon recognition of a foreign proceeding, whether main or non-main, the court may, at the request of the foreign representative, entrust the distribution of all or part of the debtor’s assets located in this State to the foreign representative or another person designated by the court, provided that the court is satisfied that the interests of creditors in this State are adequately protected.
 
-3.         In granting relief under the present article to a representative of a foreign non‑main proceeding, the court must be satisfied that the relief relates to assets that, under the law of this State, should be administered in the foreign non‑main proceeding or concerns information required in that proceeding.
+3.         In granting relief under the present article to a representative of a foreign non-main proceeding, the court must be satisfied that the relief relates to assets that, under the law of this State, should be administered in the foreign non-main proceeding or concerns information required in that proceeding.
 
 _Article 22_
 
@@ -683,7 +684,7 @@ _Actions to avoid acts detrimental to creditors_
 
 1.         Upon recognition of a foreign proceeding, the foreign representative has standing to initiate [_refer to the types of actions to avoid or otherwise render ineffective acts detrimental to creditors that are available in this State to a person or body administering a reorganization or liquidation_].
 
-2.         When the foreign proceeding is a foreign non‑main proceeding, the court must be satisfied that the action relates to assets that, under the law of this State, should be administered in the foreign non‑main proceeding.
+2.         When the foreign proceeding is a foreign non-main proceeding, the court must be satisfied that the action relates to assets that, under the law of this State, should be administered in the foreign non-main proceeding.
 
 _Article 24_
 
@@ -750,15 +751,15 @@ Where a foreign proceeding and a proceeding under [_identify laws of the enactin
 
 (i)  Any relief granted under article 19 or 21 must be consistent with the proceeding in this State;
 
-(ii) If the foreign proceeding is recognized in this State as a foreign main proceeding, article 20 does not apply;
+(ii)  If the foreign proceeding is recognized in this State as a foreign main proceeding, article 20 does not apply;
 
             (_b_)  When the proceeding in this State commences after recognition, or after the filing of the application for recognition, of the foreign proceeding,
 
 (i)  Any relief in effect under article 19 or 21 shall be reviewed by the court and shall be modified or terminated if inconsistent with the proceeding in this State;
 
-(ii) If the foreign proceeding is a foreign main proceeding, the stay and suspension referred to in paragraph 1 of article 20 shall be modified or terminated pursuant to paragraph 2 of article 20 if inconsistent with the proceeding in this State;
+(ii)  If the foreign proceeding is a foreign main proceeding, the stay and suspension referred to in paragraph 1 of article 20 shall be modified or terminated pursuant to paragraph 2 of article 20 if inconsistent with the proceeding in this State;
 
-            (_c_)  In granting, extending or modifying relief granted to a representative of a foreign non‑main proceeding, the court must be satisfied that the relief relates to assets that, under the law of this State, should be administered in the foreign non‑main proceeding or concerns information required in that proceeding.
+            (_c_)  In granting, extending or modifying relief granted to a representative of a foreign non-main proceeding, the court must be satisfied that the relief relates to assets that, under the law of this State, should be administered in the foreign non-main proceeding or concerns information required in that proceeding.
 
 _Article 30_
 
@@ -766,11 +767,11 @@ _Coordination of more than one foreign proceeding_
 
 In matters referred to in article 1, in respect of more than one foreign proceeding regarding the same debtor, the court shall seek cooperation and coordination under articles 25, 26 and 27, and the following shall apply: 
 
-            (_a_)  Any relief granted under article 19 or 21 to a representative of a foreign non‑main proceeding after recognition of a foreign main proceeding must be consistent with the foreign main proceeding;
+            (_a_)  Any relief granted under article 19 or 21 to a representative of a foreign non-main proceeding after recognition of a foreign main proceeding must be consistent with the foreign main proceeding;
 
-            (_b_)  If a foreign main proceeding is recognized after recognition, or after the filing of an application for recognition, of a foreign non‑main proceeding, any relief in effect under article 19 or 21 shall be reviewed by the court and shall be modified or terminated if inconsistent with the foreign main proceeding;
+            (_b_)  If a foreign main proceeding is recognized after recognition, or after the filing of an application for recognition, of a foreign non-main proceeding, any relief in effect under article 19 or 21 shall be reviewed by the court and shall be modified or terminated if inconsistent with the foreign main proceeding;
 
-            (_c_)  If, after recognition of a foreign non‑main proceeding, another foreign non‑main proceeding is recognized, the court shall grant, modify or terminate relief for the purpose of facilitating coordination of the proceedings.
+            (_c_)  If, after recognition of a foreign non-main proceeding, another foreign non-main proceeding is recognized, the court shall grant, modify or terminate relief for the purpose of facilitating coordination of the proceedings.
 
 _Article 31_
 
@@ -788,9 +789,7 @@ Without prejudice to secured claims or rights _in rem_, a creditor who has recei
 
 ### Note 1
 
-The _Cross‑Border Insolvency Act 2008_ as shown in this compilation comprises Act No. 24, 2008 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+The _Cross-Border Insolvency Act 2008_ as shown in this compilation comprises Act No. 24, 2008 amended as indicated in the Tables below. 
 
 ### Table of Acts
 
@@ -800,7 +799,7 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="15%">
   <col width="19%">
   <col width="21%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -826,7 +825,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Cross‑Border Insolvency Act 2008</div>
+    <div>Cross-Border Insolvency Act 2008</div>
   </td>
   <td>
     <div>24, 2008</div>
@@ -858,31 +857,14 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 467) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -916,38 +898,6 @@ Remainder: Royal Assent</div>
     <div>am. No. 8, 2010</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 467  Subsection 7(2) (note)
-
-Omit “Paragraph 17(a)”, substitute “Section 2B”.
-
-As at 12 September 2011 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
 * * *
