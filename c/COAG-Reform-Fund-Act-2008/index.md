@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00718/Html/7f3d28b6-05b7-43ba-9453-19622775a76c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00147/Html/COAGRefFund2008_image001.gif)
 
 # COAG Reform Fund Act 2008
 
 **Act No. 156 of 2008 as amended**
 
-This compilation was prepared on 5 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 6 April 2009
+ taking into account amendments up to Act No. 12 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -92,7 +91,7 @@ between the Commonwealth and the State or Territory.</li>
 
 Note 1:       An Appropriation Act may contain a provision to the effect that, if any of the purposes of a Special Account is a purpose that is covered by an item in the Appropriation Act (whether or not the item expressly refers to the Special Account), then amounts may be debited against the appropriation for that item and credited to that Special Account.
 
-Note 2:       An amount originating in the Building Australia Fund, the Education Investment Fund or the Health and Hospitals Fund may be transferred to the COAG Reform Fund—see the _Nation‑building Funds Act 2008_.
+Note 2:       An amount originating in the Building Australia Fund, the Education Investment Fund or the Health and Hospitals Fund may be transferred to the COAG Reform Fund—see the _Nation-building Funds Act 2008_.
 
 Note 3:       An amount may be credited to the COAG Reform Fund under section 9 or 16 of the _Federal Financial Relations Act 2009_.
 
@@ -116,7 +115,7 @@ Scope
 
                      (a)  an amount is to be debited from the COAG Reform Fund for the purpose of making a grant of financial assistance to a State or Territory; and
 
-                     (b)  the grant is not covered by any of the following provisions of the _Nation‑building Funds Act 2008_:
+                     (b)  the grant is not covered by any of the following provisions of the _Nation-building Funds Act 2008_:
 
                               (i)  subsection 92(2);
 
@@ -140,7 +139,7 @@ Terms and conditions
 
              (3)  An agreement under subsection (2) may be entered into by a Minister on behalf of the Commonwealth.
 
-Note 1:       The provisions referred to in paragraph (1)(b) deal with the channelling of State/Territory grants payments through the COAG Reform Fund. Those grants are made out of money originating in the Building Australia Fund, the Education Investment Fund or the Health and Hospitals Fund. For terms and conditions of those grants, see the _Nation‑building Funds Act 2008_.
+Note 1:       The provisions referred to in paragraph (1)(b) deal with the channelling of State/Territory grants payments through the COAG Reform Fund. Those grants are made out of money originating in the Building Australia Fund, the Education Investment Fund or the Health and Hospitals Fund. For terms and conditions of those grants, see the _Nation-building Funds Act 2008_.
 
 Note 2:       The provision referred to in paragraph (1)(c) deals with the channelling, through the COAG Reform Fund, of State/Territory grants payments from the Interstate Road Transport Account continued in existence by subsection 21(1) of the _Interstate Road Transport Act 1985_. For terms and conditions of those grants, see the _Interstate Road Transport Act 1985_.
 
@@ -163,8 +162,6 @@ Note:          The expressions **_SES employee_** and **_actin
 ### Note 1
 
 The _COAG Reform Fund Act 2008_ as shown in this compilation comprises Act No. 156, 2008 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -231,23 +228,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 370) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -275,26 +255,10 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Notes 3–5 to s. 5</div>
   </td>
   <td>
     <div>ad. No. 12, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -323,37 +287,5 @@ No. 12, 2009</div>
     <div>ad. No. 12, 2009</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 370  Subsection 8(1) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-As at 5 September 2011 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
