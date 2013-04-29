@@ -1,9 +1,8 @@
 
 Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997
 Act No. 184 of 1997 as amended
-This compilation was prepared on 1 July 2003 taking into account amendments up to Act No. 51 of 2002
+This compilation was prepared on 30 July 2002 taking into account amendments up to Act No. 51 of 2002
 The text of any of those amendments not in force  on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -16,8 +15,7 @@ Contents
 5	Rate of superannuation contributions surcharge	1
 6	Surchargeable contributions threshold	3
 7	Indexation	4
-Notes	7
-
+Notes		7
 
 An Act to impose a superannuation contributions tax on members of constitutionally protected superannuation funds and to declare the rate of the tax
 1  Short title [see Note 1]
@@ -56,8 +54,8 @@ Surchargeable contributions for a later financial year
 where:
 previous threshold means the surchargeable contributions threshold for the financial year immediately before the relevant financial year.
 indexation factor means the number worked out under subsections 10(4) and (5) of the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997 for the relevant financial year.
-current charge percentage means the number that is specified in subsection 19(2) of the Superannuation Guarantee (Administration) Act 1992 for the quarter beginning on 1 July of the relevant financial year.
-previous charge percentage means the number that is specified in subsection 19(2) of the Superannuation Guarantee (Administration) Act 1992 for the quarter beginning on 1 July of the financial year immediately before the relevant financial year.
+current charge percentage means the number that is the employer’s charge percentage under the Superannuation Guarantee (Administration) Act 1992 for the relevant financial year.
+previous charge percentage means the number that is the employer’s charge percentage under the Superannuation Guarantee (Administration) Act 1992 for the financial year immediately before the relevant financial year.
 7  Indexation
 Indexation of certain amounts for 1997‑98 financial year and later financial years
 	(1)	Section 5 applies in relation to an indexing financial year as if each indexable amount were replaced by the amount worked out using the formula:
@@ -91,9 +89,9 @@ index number, for a quarter, means the estimate of full‑time adult average wee
 Note:	For the purposes of this section, Australian Statistician means the Australian Statistician referred to in subsection 5(2) of the Australian Bureau of Statistics Act 1975.
 Notes to the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997
 Note 1
-The Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997 as shown in this compilation comprises Act No. 184, 1997 amended as indicated in the Tables below.
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
+The Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997 as shown in this reprint comprises Act No. 184, 1997 amended as indicated in the Tables below. 
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
@@ -108,19 +106,24 @@ Superannuation Contributions Tax (Members of Constitutionally Protected Superann
 Taxation Laws Amendment (Superannuation) Act (No. 2) 2002
 51, 2002
 29 June 2002 
-Schedule 1 (items 191, 192): 1 July 2003 Schedule 1 (item 202(5), (6)): Royal Assent
+Schedule 1 (items 191, 192): [see Note 2] Schedule 1 (item 202(5), (6)): Royal Assent
 Sch. 1 (item 202(5), (6))
-Table of Amendments
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
-Provision affected
-How affected
-S. 6	
-am. No. 51, 2002
-Table A
-Application, saving or transitional provisions
+Note 2
 Taxation Laws Amendment (Superannuation) Act (No. 2) 2002 (No. 51, 2002)
-Schedule 1
+The following amendments commence on 1 July 2003:
+Schedule 1
+191  Subsection 6(2) (definition of current charge percentage)
+Repeal the definition, substitute:
+current charge percentage means the number that is specified in subsection 19(2) of the Superannuation Guarantee (Administration) Act 1992 for the quarter beginning on 1 July of the relevant financial year.
+192  Subsection 6(2) (definition of previous charge percentage)
+Repeal the definition, substitute:
+previous charge percentage means the number that is specified in subsection 19(2) of the Superannuation Guarantee (Administration) Act 1992 for the quarter beginning on 1 July of the financial year immediately before the relevant financial year.
+As at 30 July 2002 the amendments are not incorporated in this compilation.
+Table A
+Taxation Laws Amendment (Superannuation) Act (No. 2) 2002 (No. 51, 2002)
 202  Application of amendments made by Part 2
 (5)	Subject to subitem (6), the amendments made by items 189 to 192 apply in relation to surcharge imposed by the Superannuation Contributions Tax Imposition Act 1997 and the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997 for the 2003‑2004 financial year and later financial years.
 (6)	However, for the 2003‑2004 year, the amount that is the previous charge percentage (which is a number that relates to the 2002‑2003 year) is to be determined as if the amendments made by items 190 and 192 had not been made.
+
+      
 
