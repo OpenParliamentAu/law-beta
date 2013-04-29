@@ -1,7 +1,7 @@
 
 Military Superannuation and Benefits Act 1991
 Act No. 135 of 1991 as amended
-This compilation was prepared on 19 April 2001 taking into account amendments up to Act No. 10 of 2001
+This compilation was prepared on 29 January 2001  taking into account amendments up to Act No. 44 of 1999
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -90,7 +90,7 @@ Division 1—Increases in Maximum Benefit Limits	45
 Division 2—Increases in Pensions and Certain Unfunded Preserved Benefits	45
 Part 7—Candidates at Parliamentary Elections	45
 Part 8—General Provisions Applicable to Contributions and Benefits	45
-Part 9—Reconsideration of Decisions	46
+Part 9—Reconsideration of Decisions	45
 Military Superannuation and Benefits Rules	48
 Part 1—Preliminary	48
 Citation	48
@@ -118,7 +118,7 @@ Establishment of Incapacity Classification Committee	60
 Membership of Committee	60
 Functions of Committee	60
 Proceedings of Committee	60
-Decisions by Committee	61
+Decisions by Committee	60
 Classification in respect of incapacity	61
 Reclassification in respect of incapacity	61
 Decision as to classification or reclassification to be notified to invalidity retiree	63
@@ -132,7 +132,7 @@ Person may be treated as having been retired on ground of invalidity	67
 Subdivision C—Invalidity Benefits Not Payable	68
 Person classified as Class C	68
 Pre-existing condition	68
-Invalidity due to intentional act	69
+Invalidity due to intentional act	68
 Invalidity arising during absence without leave exceeding 21 days	69
 Division 3—Person Rejoining the Scheme	70
 Suspension of pension of retirement pensioner other than invalidity retiree	70
@@ -275,8 +275,8 @@ Part 3—Members of Superannuation Scheme
 6  Membership of Superannuation Scheme
 	(1)	Subject to subsection (2), each of the following persons is, by force of this section, a member of the Scheme:
 	(a)	a member of the Permanent Forces;
-	(b)	a member of the Reserves who is rendering continuous full-time service under an undertaking to serve for a period of not less than 12 months;
-	(c)	a member of the Reserves who is rendering continuous full-time service under an undertaking to serve for a period of less than 12 months unless that member has elected not to become a member of the Scheme under section 61B of the DFRDB Act.
+	(b)	a member of the Emergency Forces or the Reserve Forces who is rendering continuous full-time service under an undertaking to serve for a period of not less than 12 months;
+	(c)	a member of the Emergency Forces or the Reserve Forces who is rendering continuous full-time service under an undertaking to serve for a period of less than 12 months unless that member has elected not to become a member of the Scheme under section 61B of the DFRDB Act.
 	(2)	In spite of subsection (1), a person is not a member of the Scheme if the person is an eligible member of the Defence Force for the purposes of the DFRDB Act.
 8  Cases where person taken not to have ceased to be a member
 		Where a person ceases to be a member and, immediately after so ceasing, again becomes a member, the person is taken, for the purposes of this Act, not to have ceased to be a member.
@@ -2285,7 +2285,6 @@ Rate
 Notes to the Military Superannuation and Benefits Act 1991
 Note 1
 The Military Superannuation and Benefits Act 1991 as shown in this compilation comprises Act No. 135, 1991 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -2362,11 +2361,6 @@ Financial Sector Legislation Amendment Act (No. 1) 2000
 21 Dec 2000
 Schedule 1 (item 21): Royal Assent Remainder: 18 Jan 2001
 —
-Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001
-10, 2001
-22 Mar 2001 
-Schedule 2 (items 66, 94, 95): 19 Apr 2001 (h)
-Sch. 2 (items 94, 95) [see Table A]
 
 (a)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 4 only of the Defence Legislation Amendment Act 1995, subsection 2(1) of which provides as follows:
 	(1)	Except as indicated in subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
@@ -2384,8 +2378,6 @@ Sch. 2 (items 94, 95) [see Table A]
 	(2)	The following provisions commence on the transfer date:
 	(e)	subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act.
-(h)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (item 66) only of the Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -2393,7 +2385,7 @@ How affected
 S. 5 	
 am. No. 82, 1993; No. 43, 1995 
 S. 6 	
-am. No. 92, 1992; No. 10, 2001 
+am. No. 92, 1992 
 S. 7 	
 rep. No. 92, 1992 
 S. 19	
@@ -2428,17 +2420,5 @@ S. 52
 am. No. 43, 1995 
 
 
-Table A
-Application, saving or transitional provisions
-Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)
-Schedule 2
-94  Saving—old regulations
-(1)	Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
-Example:	Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve.
-(2)	However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
-95  Regulations about transitional matters
-(1)	The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
-(2)	In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
-(3)	Subitem (2) does not limit the scope of subitem (1).
       
 
