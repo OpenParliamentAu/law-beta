@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00074/Html/3875480f-5c7e-4d7e-8014-c46d973a05f0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00297/Html/JuryExemptionAct1965_image001.gif)
 
 # Jury Exemption Act 1965
 
 **Act No. 13 of 1965 as amended**
 
-This compilation was prepared on 31 January 2013
- taking into account amendments up to Act No. 174 of 2012
+This compilation was prepared on 6 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -43,7 +44,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
              (1)  A person, or a person included within a class of persons, referred to in the Schedule to this Act is not liable, and shall not be summoned, to serve as a juror in a Federal court, a court of a State or a court of a Territory.
 
-             (2)  The Governor‑General may make regulations for or in relation to:
+             (2)  The Governor-General may make regulations for or in relation to:
 
                      (a)  exempting a Commonwealth employee, or a person included within a class of Commonwealth employees, specified in the regulations from liability to serve as a juror:
 
@@ -78,7 +79,7 @@ _Section 4(1)_
 
 <tr>
   <td>
-    <div>The Governor‑General</div>
+    <div>The Governor-General</div>
   </td>
 </tr>
 <tr>
@@ -103,7 +104,7 @@ _Section 4(1)_
 </tr>
 <tr>
   <td>
-    <div>Members of the Fair Work Commission</div>
+    <div>Members of Fair Work Australia</div>
   </td>
 </tr>
 <tr>
@@ -301,31 +302,13 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
   <td>
     <div>Sch. 5 (item 86) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>174, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 9 (item 1280): 
-1 Jan 2013</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Jury Exemption Act 1965_ was amended by section 116 only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
 
                  (2)   Parts III, X and XV and section 116 shall come into operation on a date to be fixed by Proclamation.
 
-_(b)_     The _Jury Exemption Act 1965_ was amended by Schedule 5 (item 75) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(b)_    The _Jury Exemption Act 1965_ was amended by Schedule 5 (item 75) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -413,7 +396,7 @@ _(e)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -432,7 +415,7 @@ _(e)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -488,7 +471,7 @@ _(e)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and 
     <div>The Schedule</div>
   </td>
   <td>
-    <div>am. No. 61, 1981; No. 87, 1988; No. 125, 1999; No. 10, 2001; SLI 2006 No. 50; No. 54, 2009; No. 174, 2012</div>
+    <div>am. No. 61, 1981; No. 87, 1988; No. 125, 1999; No. 10, 2001; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -510,19 +493,19 @@ _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) A
 
 ## 94  Saving—old regulations
 
-(1)       Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
+(1)        Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
 
 _Example: Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve._
 
-(2)       However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
+(2)        However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
 
 ## 95  Regulations about transitional matters
 
-(1)       The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
+(1)        The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 
-(2)       In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
+(2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
-(3)       Subitem (2) does not limit the scope of subitem (1).
+(3)        Subitem (2) does not limit the scope of subitem (1).
 
 * * *
 
