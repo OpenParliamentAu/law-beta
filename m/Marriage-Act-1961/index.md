@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00342/Html/3D7C85733B0F1F41CA25719C00335E0D/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00280/Html/0EAF28BA9D6238ADCA25717E008255F1/$FILE/image001.gif)
 
 # Marriage Act 1961
 
 **Act No. 12 of 1961 as amended**
 
-This compilation was prepared on 1 July 2006
+This compilation was prepared on 25 May 2006
 taking into account amendments up to Act No. 46 of 2006
 
 The text of any of those amendments not in force
@@ -44,6 +44,8 @@ Attorney-General’s Department, Canberra
 [9B](#9B).         Grants to approved organizations
 
 [9C](#9C).         Approval of voluntary organizations
+
+[9D](#9D).         Approved counselling organisations under Family Law Act
 
 [9E](#9E).          Reports and financial statements of approved organizations
 
@@ -486,7 +488,7 @@ and, in relation to such marriages, applies both within and without Australia.
 
              (4)  Section 73, Part VA and section 111 extend to all the external Territories.
 
-##### <a id="9"></a>9  Arrangements with State
+##### <a id="9"></a>9  Arrangements with State
 
              (1)  The Governor-General may make arrangements with the Governor of a State:
 
@@ -535,6 +537,12 @@ and, in relation to such marriages, applies both within and without Australia.
                      (c)  the Minister is satisfied that the organization is not adequately carrying out programs of marriage education.
 
              (6)  Notice of the approval of an organization under this section, and notice of the revocation of the approval of an approved organization, shall be published in such manner as the Minister considers appropriate.
+
+##### <a id="9D"></a>9D  Approved counselling organisations under Family Law Act
+
+             (1)  An approved counselling organisation as defined in subsection 12(1) of the _Family Law Act 1975_ shall be deemed to be an organization approved under this Part for the purpose of conducting programs of marriage education.
+
+             (2)  The Minister may, by notice in writing to an organization referred to in subsection (1), determine conditions to which the approval of that organization is to be subject. These conditions count as conditions of the organisation’s approval for the purposes of section 13D of the _Family Law Act 1975_(this section deals with revocation of approvals).
 
 ##### <a id="9E"></a>9E  Reports and financial statements of approved organizations
 
@@ -694,9 +702,9 @@ may give consent to the marriage in place of the consent of the person in relati
 
           (2A)  A Judge or magistrate shall not proceed with an inquiry in accordance with subsection (2) unless:
 
-                     (a)  there has been produced to the Judge or magistrate a certificate in the prescribed form signed by a family counsellor certifying that the applicant has received counselling from the family counsellor in relation to the proposed marriage; or
+                     (a)  there has been produced to the Judge or magistrate a certificate in the prescribed form signed by a family and child counsellor certifying that the applicant has received counselling from the family and child counsellor in relation to the proposed marriage; or
 
-                     (b)  the Judge or magistrate is satisfied that counselling by a family counsellor is not reasonably available to the applicant.
+                     (b)  the Judge or magistrate is satisfied that counselling by a family and child counsellor is not reasonably available to the applicant.
 
              (3)  Where a magistrate to whom an application is made under this section is satisfied that the matter could more properly be dealt with by a magistrate sitting at a place nearer the place where the applicant ordinarily resides, the magistrate may, in his or her discretion, refuse to proceed with the hearing of the application, but such a refusal shall not, for the purposes of sections 17 and 19, be deemed to be a refusal of the application.
 
@@ -706,7 +714,7 @@ may give consent to the marriage in place of the consent of the person in relati
 
              (6)  For the purposes of subsection (5), the fact that a person does not reside in, or is absent from, Australia shall not of itself be deemed to make it impracticable to ascertain the views of that person.
 
-             (7)  In this section **_family counsellor_** has the same meaning as in the _Family Law Act 1975_.
+             (7)  In this section **_family and child counsellor_** has the same meaning as in the _Family Law Act 1975_.
 
 ##### <a id="17"></a>17  Re-hearing of applications by a Judge
 
@@ -910,7 +918,7 @@ and not otherwise.
 
              (4)  A person registered in a register so transferred or kept who is, immediately after the commencement of this Act, a minister of religion of a recognized denomination shall be deemed to be so registered in pursuance of this Subdivision, and the Registrar by whom the register is kept shall remove from that register the name of any other person.
 
-##### <a id="29"></a>29  Qualifications for registration under this Subdivision
+##### <a id="29"></a>29  Qualifications for registration under this Subdivision
 
                    Subject to this Subdivision, a person is entitled to registration under this Subdivision if:
 
@@ -3013,7 +3021,7 @@ Remainder: Royal Assent
       <div>22 May 2006</div>
     </td>
     <td>
-      <div>Schedule 4 (items 114–117): 1 July 2006</div>
+      <div>Schedule 4 (items 114–117): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -3269,14 +3277,6 @@ _(h)_     The _Marriage Act 1961_ was amended by Schedule 34 only of t
   </tr>
   <tr>
     <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 46, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 9E</div>
     </td>
     <td>
@@ -3360,7 +3360,7 @@ _(h)_     The _Marriage Act 1961_ was amended by Schedule 34 only of t
       <div>S. 16</div>
     </td>
     <td>
-      <div>am. No. 209, 1976; No. 7, 1985; No. 140, 1995; No. 46, 2006</div>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 140, 1995</div>
     </td>
   </tr>
   <tr>
@@ -4640,6 +4640,35 @@ Div. 1 of Part IV
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Family Law Amendment (Shared Parental Responsibility) Act 2006 
+(No. 46, 2006)
+_
+
+The following amendments commence on 22 November 2006 unless proclaimed earlier:
+
+## Schedule 4
+
+## 114  Section 9D
+
+Repeal the section.
+
+## 115  Paragraph 16(2A)(a)
+
+Omit “and child” (wherever occurring).
+
+## 116  Paragraph 16(2A)(b)
+
+Omit “and child”.
+
+## 117  Subsection 16(7)
+
+Omit “**_and child_**”.
+
+As at 25 May 2006 the amendments are not incorporated in this compilation.
 
 
 ## Table A
