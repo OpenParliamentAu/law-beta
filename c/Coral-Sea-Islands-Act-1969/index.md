@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00598/Html/1f19b5e1-2f57-4adf-8c77-ad3d4e2a2e2c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00192/Html/CoralSea69_WD02_image001.gif)
 
 # Coral Sea Islands Act 1969
 
 **Act No. 58 of 1969 as amended**
 
-This compilation was prepared on 25 November 2008
- taking into account amendments up to Act No. 117 of 2008
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 17 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,33 +14,33 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         2
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Interpretation                                                                                        2
+[2](#2).            Interpretation
 
-[3](#3).            Coral Sea Islands Territory                                                                  2
+[3](#3).            Coral Sea Islands Territory
 
-[4](#4).            Continuance of laws                                                                             2
+[4](#4).            Continuance of laws
 
-[5](#5).            Ordinances                                                                                           2
+[5](#5).            Ordinances
 
-[6](#6).            Application of Commonwealth Acts                                                    3
+[6](#6).            Application of Commonwealth Acts
 
-[7](#7).            Tabling of Ordinances                                                                          3
+[7](#7).            Tabling of Ordinances
 
-[7A](#7A).         Ordinance not to be re‑made while required to be tabled                      4
+[7A](#7A).         Ordinance not to be re-made while required to be tabled
 
-[7B](#7B).         Ordinance not to be re‑made while subject to disallowance                 5
+[7B](#7B).         Ordinance not to be re-made while subject to disallowance
 
-[7C](#7C).         Disallowed Ordinance not to be re‑made unless resolution rescinded or House approves       6
+[7C](#7C).         Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
 
-[7D](#7D).         Regulations, rules and by‑laws                                                            6
+[7D](#7D).         Regulations, rules and by-laws
 
-[8](#8).            Courts having jurisdiction in the Territory                                           7
+[8](#8).            Courts having jurisdiction in the Territory
 
 **Notes** 
 
@@ -52,7 +52,7 @@ Preamble
 
                      (a)  the area the boundary of which commences at the point of the intersection of the line following the outer edge of the Great Barrier Reef by the parallel of Latitude 12° 00´ South and runs:
 
-                              (i)  then south‑easterly along the geodesic to the point of Latitude 16° 00´ South, Longitude 156° 06´ East; and
+                              (i)  then south-easterly along the geodesic to the point of Latitude 16° 00´ South, Longitude 156° 06´ East; and
 
                              (ii)  then south along the meridian of Longitude 156° 06´ East to its intersection by the parallel of Latitude 24° 00´ South; and
 
@@ -60,25 +60,25 @@ Preamble
 
                             (iv)  then north along that meridian to its intersection by the parallel of Latitude 22° 00´ South; and
 
-                             (v)  then west along that parallel to its intersection by the line following the outer edge of the Great Barrier Reef; and
+                             (v)  then west along that parallel to its intersection by the line following the outer edge of the Great  Barrier Reef; and
 
-                            (vi)  then generally north‑westerly along that line to the point of commencement; and
+                            (vi)  then generally north-westerly along that line to the point of commencement; and
 
                      (b)  the area the boundary of which commences at the point of Latitude 29° 21´ South, Longitude 158° 59´ East and runs:
 
                               (i)  then east along the parallel of Latitude 29° 21´ South to its intersection by the meridian of Longitude 159° 14´ East; and
 
-                             (ii)  then south‑westerly along the geodesic to the point of Latitude 30° 3´ South, Longitude 159° 10´ East; and
+                             (ii)  then south-westerly along the geodesic to the point of Latitude 30° 3´ South, Longitude 159° 10´ East; and
 
                             (iii)  then west along the parallel of Latitude 30° 3´ South to its intersection by the meridian of Longitude 158° 55´ East; and
 
-                            (iv)  then north‑easterly along the geodesic to the point of commencement.
+                            (iv)  then north-easterly along the geodesic to the point of commencement.
 
 It is desirable to make provision for the government of those islands as one Territory.
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Coral Sea__Islands__Act 1969_.
+                   This Act may be cited as the _Coral   Sea__Islands__Act 1969_.
 
 ##### <a id="2"></a>2  Interpretation
 
@@ -86,7 +86,7 @@ It is desirable to make provision for the government of those islands as one Ter
 
                     <a name="act"></a>**_Act_** does not include an enactment.
 
-                    <a name="enact"></a>**_enactment_** has the same meaning as in the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                    <a name="enact"></a>**_enactment_** has the same meaning as in the _Australian   Capital Territory__(Self-Government) Act 1988_.
 
                     <a name="ordin"></a>**_Ordinance_** means an Ordinance made under this Act.
 
@@ -94,7 +94,7 @@ It is desirable to make provision for the government of those islands as one Ter
 
              (2)  Where, for the purposes of this Act, it is necessary to determine the position on the surface of the Earth of a point, line or area, that position must be determined by reference to the Geocentric Datum of Australia (GDA) as defined in the _Gazette_ No. GN 35, 6 September 1995.
 
-##### <a id="3"></a>3  Coral Sea Islands Territory
+##### <a id="3"></a>3  Coral   Sea Islands Territory
 
                    The Coral Sea Islands, that is to say, the islands described in the Preamble, are declared to be a Territory by the name of Coral Sea Islands Territory.
 
@@ -104,7 +104,7 @@ It is desirable to make provision for the government of those islands as one Ter
 
 ##### <a id="5"></a>5  Ordinances
 
-             (1)  The Governor‑General may make Ordinances for the peace, order and good government of the Territory.
+             (1)  The Governor-General may make Ordinances for the peace, order and good government of the Territory.
 
              (2)  Notice of the making of an Ordinance shall be published in the _Gazette_, and an Ordinance shall, unless the contrary intention appears in the Ordinance, come into operation on the date of publication of the notice.
 
@@ -138,7 +138,7 @@ the Ordinance or part, as the case may be, specified in the motion shall thereup
 
                              (ii)  the motion has been called on, moved and seconded and has not been withdrawn or otherwise disposed of;
 
-the Ordinance shall, for the purposes of subsections (2) and (3), be deemed to have been laid before that first‑mentioned House on the first sitting day of that first‑mentioned House after the dissolution, expiry or prorogation, as the case may be.
+the Ordinance shall, for the purposes of subsections (2) and (3), be deemed to have been laid before that first-mentioned House on the first sitting day of that first-mentioned House after the dissolution, expiry or prorogation, as the case may be.
 
              (5)  Where an Ordinance is disallowed, or is deemed to have been disallowed, under this section or ceases to have effect by virtue of the operation of subsection (1), the disallowance of the Ordinance or the operation of subsection (1) in relation to the Ordinance, as the case may be, has the same effect as a repeal of the Ordinance.
 
@@ -152,7 +152,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (1) 
 
           (5B)  A reference in subsection (5) or (5A) to an Ordinance shall be read as including a reference to a part of an Ordinance, and a reference in subsection (5A) to a law has a corresponding meaning.
 
-##### <a id="7A"></a>7A  Ordinance not to be re‑made while required to be tabled
+##### <a id="7A"></a>7A  Ordinance not to be re-made while required to be tabled
 
              (1)  Where an Ordinance (in this section called the **_original Ordinance_**) has been made, no Ordinance containing a provision being the same in substance as a provision of the original Ordinance shall be made during the period defined by subsection (2) unless both Houses of the Parliament by resolution approve the making of an Ordinance containing a provision the same in substance as that provision of the original Ordinance.
 
@@ -166,9 +166,9 @@ the disallowance of the relevant Ordinance or the operation of subsection (1) 
 
              (3)  If a provision of an Ordinance is made in contravention of this section, the provision has not effect.
 
-##### <a id="7B"></a>7B  Ordinance not to be re‑made while subject to disallowance
+##### <a id="7B"></a>7B  Ordinance not to be re-made while subject to disallowance
 
-             (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the Ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first‑mentioned Ordinance shall be made unless:
+             (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the Ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
                      (a)  the notice has been withdrawn;
 
@@ -184,7 +184,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (1) 
 
                      (b)  notice of a motion to disallow the Ordinance has been given in that House within 15 sitting days after that day;
 
-no Ordinance containing a provision being the same in substance as a provision of the first‑mentioned Ordinance shall be made unless:
+no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
                      (c)  the notice has been withdrawn;
 
@@ -202,7 +202,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                     <a name="ordin"></a>**_Ordinance_** includes a part of an Ordinance.
 
-##### <a id="7C"></a>7C  Disallowed Ordinance not to be re‑made unless resolution rescinded or House approves
+##### <a id="7C"></a>7C  Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
 
                    If an Ordinance or a part of an Ordinance is disallowed, or is deemed to have been disallowed, under section 7, and an Ordinance containing a provision being the same in substance as a provision so disallowed, or deemed to have been disallowed, is made within 6 months after the date of the disallowance, that provision has no effect, unless:
 
@@ -210,21 +210,21 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                      (b)  in the case of an Ordinance, or a part of an Ordinance, deemed to have been disallowed—the House of the Parliament in which notice of the motion to disallow the Ordinance or part was given has approved, by resolution, the making of a provision the same in substance as the provision deemed to have been disallowed.
 
-##### <a id="7D"></a>7D  Regulations, rules and by‑laws
+##### <a id="7D"></a>7D  Regulations, rules and by-laws
 
              (1)  All regulations made under an Ordinance shall be laid before each House of the Parliament within 15 sitting days of that House after the day on which the regulations are made and, if they are not so laid before each House of the Parliament, have no effect.
 
              (2)  Subsections 7(2) to (5B), inclusive, and sections 7A, 7B and 7C apply in relation to regulations laid before a House of the Parliament as if, in those provisions, references to an Ordinance were references to regulations and references to a provision of an Ordinance were references to a regulation.
 
-             (3)  In this section, **_regulations_** includes rules and by‑laws.
+             (3)  In this section, **_regulations_** includes rules and by-laws.
 
 ##### <a id="8"></a>8  Courts having jurisdiction in the Territory
 
              (1)  Subject to subsection (3), the courts of Norfolk Island have jurisdiction in and in relation to the Territory.
 
-             (2)  In the exercise of its jurisdiction under this section a court of Norfolk Island may sit in the Territory, in Norfolk Island or in Australia.
+             (2)  In the exercise of its jurisdiction under this section a court of Norfolk Island may sit in the Territory, in Norfolk  Island or in Australia.
 
-             (3)  Subsection (1) does not confer jurisdiction on the courts of Norfolk Island in relation to matters arising under or by virtue of the provisions of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+             (3)  Subsection (1) does not confer jurisdiction on the courts of Norfolk Island in relation to matters arising under or by virtue of the provisions of the _Offshore Petroleum Act 2006_.
 
 # Notes to the _Coral Sea Islands Act 1969_
 
@@ -309,7 +309,7 @@ of Assent</div>
     <div>18 June 1981</div>
   </td>
   <td>
-    <div>Parts III and IV (ss. 9–16): 14 Feb 1983 ( <i>see</i> s. 2(2) and <i>Gazette</i>1983, No. S29) 
+    <div>Parts III and IV (ss. 9–16): 14 Feb 1983 ( <i>see</i> s. 2(2) and <i>Gazette</i>1983, No.S29) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -454,7 +454,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -497,24 +497,7 @@ Remainder: Royal Assent</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (item 12): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
-  </td>
-  <td>
-    <div>117, 2008</div>
-  </td>
-  <td>
-    <div>21 Nov 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 4): 22 Nov 2008</div>
+    <div>Schedule 2 (item 12): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
   </td>
   <td>
     <div>—</div>
@@ -523,33 +506,33 @@ Remainder: Royal Assent</div>
 
 _(a)_     The _Coral Sea Islands Act 1969_ was amended by Part XIX (sections 146 and 147) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
-               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
-_(b)_     The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_ was amended by Part LXXI (sections 262 and 263) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(11) of which provides as follows:
+_(b)_    The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_ was amended by Part LXXI (sections 262 and 263) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(11) of which provides as follows:
 
                (11)   Parts LXIX and LXXI shall be deemed to have come into operation on 4 June 1982.
 
 _(c)_     The _Coral Sea__Islands__Act 1969_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(d)_     The _Coral Sea__Islands__Act 1969_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(e)_     The _Coral Sea__Islands__Act 1969_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(f)_      The _Coral Sea__Islands__Act 1969_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(g)_     The _Coral Sea__Islands__Act 1969_ was amended by section 32 (in part) only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+_(g)_     The _Coral Sea__Islands__Act 1969_ was amended by section 32 (in part) only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
-_(h)_     The _Coral Sea__Islands__Act 1969_ was amended by Schedule 1 (items 20 and 21) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+_(h)_     The _Coral Sea__Islands__Act 1969_ was amended by Schedule 1 (items 20, 21) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 
@@ -629,7 +612,7 @@ _(h)_     The _Coral Sea__Islands__Act 1969_ was amended by Schedule 1
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 79, 1981; No. 17, 2006; No. 117, 2008</div>
+    <div>am. No. 79, 1981; No. 17, 2006</div>
   </td>
 </tr></table>
 
