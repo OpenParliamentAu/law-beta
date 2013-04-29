@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2011C00387/Html/9cbe7d9c-5ceb-4559-9bc1-2c9bbb7f0f10_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00587/Html/7861134134910870CA2570890018C0B7/$FILE/image001.gif)
 
 # Health and Other Services (Compensation) Care Charges Act 1995
 
 **Act No. 131 of 1995 as amended**
 
-This compilation was prepared on 30 May 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 1 October 2005
+taking into account amendments up to Act No. 111 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -36,6 +37,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
+
 ## An Act relating to charges in respect of certain compensation payments
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
@@ -50,7 +54,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    Unless the contrary intention appears, expressions used in this Act have the same meanings as in the _Health and Other Services (Compensation) Act 1995_.
 
-##### <a id="4"></a>4  Application of this Act to events occurring before the commencement of the _Health and Other Services (Compensation) Act 1995_
+##### <a id="4"></a>4  Application of this Act to events occurring before the commencement of the _Health and Other Services (Compensation) Act 1995_
 
              (1)  This Act only applies in relation to an amount of compensation fixed by a judgment or settlement if the judgment or settlement is made on or after the day on which the _Health and Other Services (Compensation) Act 1995_ commences.
 
@@ -176,7 +180,7 @@ Note:          So far as this section would not be a law impos
 
                      (b)  nursing home care or residential care has been provided to that person in the course of treatment of, or as a result of, the injury; and
 
-                   (ba)  nursing home benefit or residential care subsidy has already been paid in respect of that nursing home care or residential care; and
+                    (ba)  nursing home benefit or residential care subsidy has already been paid in respect of that nursing home care or residential care; and
 
                      (c)  a liability has not already arisen under section 7 in respect of that payment of nursing home benefit or residential care subsidy;
 
@@ -232,6 +236,7 @@ Note:          So far as this section would not be a law impos
 
 Note:          For **_small amount_** see section 38 of the _Health and Other Services (Compensation) Act 1995_.
 
+
 # Notes to the _Health and Other Services (Compensation) Care Charges Act 1995_
 
 ### Note 1
@@ -258,11 +263,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -272,109 +279,96 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Health and Other Services (Compensation) Care Charges Act 1995</div>
-  </td>
-  <td>
-    <div>131, 1995</div>
-  </td>
-  <td>
-    <div>14 Nov 1995</div>
-  </td>
-  <td>
-    <div>1 Feb 1996 ( <i>see Gazette</i>1996, No. GN2)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aged Care (Compensation Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>113, 1997</div>
-  </td>
-  <td>
-    <div>7 July 1997</div>
-  </td>
-  <td>
-    <div><i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health and Other Services (Compensation) Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>150, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2: 1 Jan 2002 ( <i>see Gazette</i>2001, No. GN49) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Legislation Amendment Act (No. 1) 2003</div>
-  </td>
-  <td>
-    <div>84, 2003</div>
-  </td>
-  <td>
-    <div>23 Sept 2003</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 48)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>111, 2005</div>
-  </td>
-  <td>
-    <div>6 Sept 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 204, 205): 
-1 Oct 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 150, 151): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Health and Other Services (Compensation) Care Charges Act 1995</div>
+    </td>
+    <td>
+      <div>131, 1995</div>
+    </td>
+    <td>
+      <div>14 Nov 1995</div>
+    </td>
+    <td>
+      <div>1 Feb 1996 ( <i>see Gazette</i>1996, No. GN2)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aged Care (Compensation Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>113, 1997</div>
+    </td>
+    <td>
+      <div>7 July 1997</div>
+    </td>
+    <td>
+      <div><i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health and Other Services (Compensation) Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>150, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>Schedule 2: 1 Jan 2002 ( <i>see Gazette</i>2001, No. GN49) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health Legislation Amendment Act (No. 1) 2003</div>
+    </td>
+    <td>
+      <div>84, 2003</div>
+    </td>
+    <td>
+      <div>23 Sept 2003</div>
+    </td>
+    <td>
+      <div>Ss. 1–3 and Schedule 1: Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 48)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Services Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>111, 2005</div>
+    </td>
+    <td>
+      <div>6 Sept 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 204, 205): 
+1 Oct 2005 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     Section 2 of the _Aged Care (Compensation Amendments) Act 1997_ provides as follows:
 
@@ -382,9 +376,10 @@ _(a)_     Section 2 of the _Aged Care (Compensation Amendments) Act 19
 
          The _Aged Care Act 1997_ (other than Division 1) commenced on 1 October 1997 (_see Gazette_ 1997, No. GN37).
 
-_(b)_     The _Health and Other Services (Compensation) Care Charges Act 1995_ was amended by Schedule 2 only of the _Health and Other Services (Compensation) Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
+_(b)_    The _Health and Other Services (Compensation) Care Charges Act 1995_ was amended by Schedule 2 only of the _Health and Other Services (Compensation) Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2), (3), (4) and (5), this Act commences on a day to be fixed by Proclamation.
+
 
 ## Table of Amendments
 
@@ -409,65 +404,51 @@ _(b)_     The _Health and Other Services (Compensation) Care Charges Act
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 7</div>
-  </td>
-  <td>
-    <div>am. No. 113, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 113, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8</div>
-  </td>
-  <td>
-    <div>am. No. 113, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 113, 1997; No. 150, 2001; No. 84, 2003; 
- No. 111, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 7</div>
+    </td>
+    <td>
+      <div>am. No. 113, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 113, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 8</div>
+    </td>
+    <td>
+      <div>am. No. 113, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 113, 1997; No. 150, 2001; No. 84, 2003; 
+ No. 111, 2005 
+</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 150  Paragraph 6(6)(a)
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-## 151  Paragraph 8(6)(a)
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-As at 30 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -480,5 +461,6 @@ _Health Legislation Amendment Act (No. 1) 2003 (No. 84, 2003)_
 ## 48  Application
 
 The amendments made by this Part apply in relation to an amount of compensation fixed by a judgment or settlement if the judgment or settlement is made after the day this item commences.
+
 
  
