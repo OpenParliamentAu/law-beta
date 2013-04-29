@@ -1,7 +1,7 @@
 
 Military Superannuation and Benefits Act 1991
 Act No. 135 of 1991 as amended
-This compilation was prepared on 6 May 2004 taking into account amendments up to Act No. 58 of 2004
+This compilation was prepared on 23 December 2003 taking into account amendments up to Act No. 135 of 2003
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -74,9 +74,12 @@ Part 9—Miscellaneous	27
 52	Regulations	31
 Part 10—Amendments of the Defence Force Retirement and Death Benefits Act 1973	33
 Sections 53–61	33
+Note:	33
+The amendments made by this Part are incorporated in the compilation on SCALEplus.	33
 Schedule—Form of Trust Deed	34
 Military Superannuation and Benefits Rules	43
 Part 1—Preliminary	43
+Rule	43
 Part 2—Contributions	43
 Part 3—Members’ Benefits	43
 Division 3—Person Rejoining the Scheme	45
@@ -94,7 +97,7 @@ Part 8—General Provisions Applicable to Contributions and Benefits	46
 Part 9—Reconsideration of Decisions	47
 Military Superannuation and Benefits Rules	49
 Part 1—Preliminary	49
-Citation		49
+Citation	49
 Definitions and interpretation	49
 Part 2—Contributions	53
 Contributions by members	53
@@ -193,7 +196,6 @@ Reconsideration of decision made by delegate	101
 Reconsideration of decision made by Board	102
 Content of statements of reasons for decisions	103
 Interpretation	103
-Schedule 1—Glossary	104
 Part 1—Definitions	104
 Part 2—Resign to contest an election	109
 Part 3—Retirement	110
@@ -203,17 +205,13 @@ Part 6—Parts of speech and grammatical forms	115
 Part 7—Number	116
 Part 8—Reckoning of time	117
 Part 9—Attainment of particular age	118
-Schedule 2—Prescribed periods for the purposes of rule 4	119
 Part 1—Calculation of employer benefit of person with not less than 7 years’ eligible service or Invalidity Retiree or 1973 Scheme Recipient Member (other than 1973 Scheme Re‑Entrant or 1991 Scheme Re‑Entrant or MBL Member or Foreign Service Member)	128
 Part 2—Calculation of Employer Benefit of Person with less than 7 years’ eligible service (other than Invalidity Retiree or 1973 Scheme Recipient Member or 1973 Scheme Re‑Entrant or 1991 Scheme Re‑Entrant or Foreign Service Member)	130
 Part 3—Calculation of Employer Benefit of 1973 Scheme Re‑Entrant, 1991 Scheme Re‑Entrant or Foreign Service Member, with not less than 7 years’ aggregated service	132
 Part 4—Calculation of Employer Benefit of 1973 Scheme Re‑Entrant or Foreign Service Member, with less than 7 years’ aggregated service (other than Invalidity Retiree)	134
 Part 5—Calculation of employer benefit of MBL Member	136
 Part 6—Interpretation	138
-Schedule 9—Calculation of member benefit	139
-Schedule 10—Transfer value	140
-Schedule 11—Rates of interest applicable in respect of certain unfunded amounts	142
-Notes	145
+Notes	143
 An Act to make provision for and in relation to an occupational superannuation scheme for, and the payment of other benefits to, members of the Defence Force, and for related purposes
   
 Part 1—Preliminary
@@ -2398,11 +2396,7 @@ Superannuation (Government Co‑contribution for Low Income Earners) (Consequent
 12 Nov 2003
 12 Nov 2003
 Sch. 1 (item 25) [see Table A]
-Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004
-58, 2004
-4 May 2004
-S. 4: Royal Assent Schedule 1 (items 8–11): [see Note 2]
-S. 4 [see Table A]
+
 (a)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 4 only of the Defence Legislation Amendment Act 1995, subsection 2(1) of which provides as follows:
 	(1)	Except as indicated in subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 (b)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (item 2) only of  the CFM Sale Act 1996, subsection 2(1) of which provides as follows:
@@ -2491,44 +2485,6 @@ S. 52
 am. No. 43, 1995 
 
 
-Note 2
-Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (No. 58, 2004)
-The following amendments commence on 18 May 2004:
-Schedule 1
-8  Subsection 3(1)
-Insert:
-associate benefit means a benefit that is payable under provisions of the Trust Deed that are authorised by section 5A.
-9  At the end of Part 2
-Add:
-5A  Amendments of Trust Deed to implement family law interest splitting
-	(1)	Without limiting subsection 5(1), amendments under that subsection:
-	(a)	may provide that, when a splitting agreement or splitting order is received by the Board in respect of a superannuation interest under this Act:
-	(i)	the non‑member spouse is entitled to benefits determined in accordance with the Rules; and
-	(ii)	the benefits of the member spouse are reduced in accordance with the Rules; and
-	(b)	may provide that, when a splitting agreement or splitting order is received by the Board in respect of a superannuation interest under:
-	(i)	section 52 of the Defence Act 1903; or
-	(ii)	the Defence Force Retirement and Death Benefits Act 1973;
-		the non‑member spouse is entitled to benefits determined in accordance with the Rules; and
-	(c)	may make any other provision that is related to, or consequential on, provisions referred to in paragraph (a) or (b).
-	(2)	Subparagraph (1)(b)(ii) does not apply in a case covered by subsection 49B(2) of the Defence Force Retirement and Death Benefits Act 1973.
-	(3)	Subsection 48(2) of the Acts Interpretation Act 1901 does not apply to amendments referred to in subsection (1) of this section.
-	(4)	In this section:
-member spouse has the same meaning as in Part VIIIB of the Family Law Act 1975.
-non‑member spouse has the same meaning as in Part VIIIB of the Family Law Act 1975.
-splitting agreement means:
-	(a)	a superannuation agreement (within the meaning of Part VIIIB of the Family Law Act 1975); or
-	(b)	a flag lifting agreement (within the meaning of Part VIIIB of the Family Law Act 1975) that provides for a payment split (within the meaning of Part VIIIB of the Family Law Act 1975).
-splitting order has the same meaning as in Part VIIIB of the Family Law Act 1975.
-superannuation interest has the same meaning as in Part VIIIB of the Family Law Act 1975.
-10  After section 16
-Insert:
-16A  Payments relating to associate benefits
-	(1)	Where an associate benefit becomes payable under the Rules, the Commonwealth must pay the benefit to such person or persons as are appropriate under the Rules.
-	(2)	The Board must pay to the Commonwealth any amount that the Board is required under the Rules to pay to the Commonwealth in respect of an associate benefit.
-11  After subsection 46(1)
-Insert:
-	(1A)	A person who is, or has ceased to be, an associate is subject to the Rules to the extent that they are applicable in relation to the person. For this purpose, associate means a person to whom an associate benefit is payable.
-As at 6 May 2004 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)
@@ -2551,12 +2507,4 @@ Superannuation (Government Co‑contribution for Low Income Earners) (Consequent
 Schedule 1
 25  Application of amendments
 The amendments made by Part 1 of this Schedule apply in relation to contributions made to complying superannuation funds and RSAs on or after 1 July 2003.
-
-Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (No. 58, 2004)
-4  Application of family law interest‑splitting amendments
-	(1)	The family law interest‑splitting amendments apply to:
-	(a)	any splitting agreement, or splitting order, that has an operative time after the commencement of Schedule 1; and
-	(b)	a splitting agreement, or splitting order, with an earlier operative time, if no benefits had become payable before the commencement of Schedule 1 in respect of the superannuation interest to which the agreement or order relates.
-	(2)	In this section:
-family law interest‑splitting amendments means the amendments made by Schedule 1, other than items 24 and 34.
 
