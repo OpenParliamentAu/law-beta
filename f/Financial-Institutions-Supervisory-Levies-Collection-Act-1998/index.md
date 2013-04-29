@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00380/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00351/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
 
 # Financial Institutions Supervisory Levies Collection Act 1998
 
 **Act No. 53 of 1998 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 8 June 2007
  taking into account amendments up to Act No. 74 of 2007
 
 The text of any of those amendments not in force
@@ -93,7 +93,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Financial Institutions Supervisory Levies Collection Act 1998_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
@@ -269,7 +269,9 @@ the levy paying entity is liable to pay, by way of penalty, an amount worked out
 
 ##### <a id="11"></a>11  Payment of levy and late payment penalty
 
-                   Levy and late payment penalty are payable to APRA on behalf of the Commonwealth.
+             (1)  Levy and late payment penalty are payable to APRA on behalf of the Commonwealth.
+
+             (2)  APRA must pay to the Commonwealth any amounts of levy or late payment penalty received by it.
 
 Note:          Levy and late payment penalty may be payable to the Commissioner of Taxation because of section 252G of the _Superannuation Industry (Supervision) Act 1993_.
 
@@ -288,6 +290,8 @@ Note:          For example, if levy is payable by a body corpo
                      (b)  late payment penalty that is due and payable.
 
              (2)  APRA is authorised, as agent of the Commonwealth, to bring proceedings in the name of the Commonwealth for the recovery of a debt due to the Commonwealth of a kind mentioned in subsection (1).
+
+             (3)  If, in proceedings brought by APRA under subsection (2), the Commonwealth is ordered to pay costs, APRA must pay the costs out of APRA’s money and the Commonwealth is not liable to reimburse APRA for the payment.
 
 ##### <a id="14"></a>14  Exempting laws ineffective
 
@@ -363,7 +367,7 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
 the trustee is liable to pay to the Commonwealth, in respect of that levy month, by way of penalty, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00380/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00351/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -684,8 +688,7 @@ Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</di
     <div>5 June 2007</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: 1 July 2007 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 68–70): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -823,14 +826,6 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
 </thead>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
@@ -858,7 +853,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 74, 2007</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -874,15 +869,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 37, 2002; No. 74, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>am. No. 37, 2002</div>
   </td>
 </tr>
 <tr>
@@ -913,6 +900,28 @@ Section 9(2)(a)—Schedule 2 (item 152) of the _Financial Sector (Collection of 
 Omit “lodgement of a return under section 36 of the _Superannuation Industry (Supervision) Act 1993_”, substitute “giving of a copy of a financial statement to APRA under the _Financial Sector (Collection of Data) Act 2001_”.
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
+
+### Note 3
+
+_Governance Review Implementation (Treasury Portfolio Agencies) Act 2007 (No. 74, 2007)_
+
+The following amendments commence on 1 July 2007:
+
+## Schedule 1
+
+## 68  Subsection 11(1)
+
+Omit “(1)”.
+
+## 69  Subsection 11(2)
+
+Repeal the subsection (not including the note).
+
+## 70  Subsection 13(3)
+
+Repeal the subsection.
+
+As at 8 June 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -982,7 +991,7 @@ _Note:       This provision affects the calculation of late payment 
 
 Nothing in this Part or the Validation Acts is taken to make a person criminally liable in respect of acts or omissions of the person before the day on which this Part commences, if the person would not have been so liable had this Part and the Validation Acts not been enacted.
 
-## 10  Application of amendments of superannuation legislation relating to financial assistance to funds
+## 10  Application of amendments of superannuation legislation relating to financial assistance to funds
 
 The amendments made by Schedule 9 only apply in relation to losses incurred by a fund after the commencement of that Schedule.
 
