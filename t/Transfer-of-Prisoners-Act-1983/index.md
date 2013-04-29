@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00437/Html/14746a24-4c60-4c6f-a4a4-13c2f2041cc5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00122/Html/a447ad32-9de3-4816-8433-4c2cad1950d9_files/image001.gif)
 
 # Transfer of Prisoners Act 1983
 
 **Act No. 95 of 1983 as amended**
 
-This compilation was prepared on 15 June 2011
+This compilation was prepared on 4 March 2011
  taking into account amendments up to Act No. 3 of 2011
 
 The text of any of those amendments not in force
@@ -888,7 +888,13 @@ any period of imprisonment served by the prisoner in respect of the sentence of 
 
                               (i)  in a case where the sentence of default imprisonment was imposed under a law of the Commonwealth or a Territory—to the Attorney‑General; and
 
-                             (ii)  in a case where the sentence of default imprisonment was imposed under a law of a State—to the appropriate Minister of that State.
+                             (ii)  in a case where the sentence of default imprisonment was imposed under a law of a State—to the appropriate Minister of that State; and
+
+                            (iii)  in a case where the sentence of default imprisonment was imposed under Part 7 of the _Service and Execution of Process Act 1992_:
+
+                                        (A)  if the sentence was imposed by reason of the non‑payment of the whole or a part of a fine that had been imposed for an offence against a law of the Commonwealth or of a Territory—to the Attorney‑General; or
+
+                                        (B)  if the sentence was imposed by reason of the non‑payment of the whole or a part of a fine that had been imposed for an offence against a law of a State—to the appropriate Minister of that State.
 
 ##### <a id="22"></a>22  Territory sentences cease to have effect on transfer
 
@@ -1182,7 +1188,7 @@ Ss. 69(b) and
     <div>11 Dec 1992</div>
   </td>
   <td>
-    <div>10 Apr 1993 ( <i>see</i>s. 2 and <i>Gazette</i>1993, No. GN13)</div>
+    <div>10 Apr 1993 ( <i>see</i>s. 2 and <i>Gazette</i>1993, No.GN13)</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -1305,7 +1311,7 @@ Schedule 4 (items 492–494): 4 July 2008</div>
     <div>15 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 2 (items 3–5): 15 June 2011</div>
+    <div>Schedule 2 (items 3–5): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 5) \[ <i>see</i>Table A]</div>
@@ -1581,7 +1587,7 @@ _(f)_      The _Transfer of Prisoners Act 1983_ was amended by Schedul
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 166, 1992; No. 73, 2008; No. 143, 2010</div>
+    <div>am. No. 166, 1992; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1665,6 +1671,24 @@ _(f)_      The _Transfer of Prisoners Act 1983_ was amended by Schedul
   </td>
 </tr></table>
 
+### Note 2
+
+_Service and Execution of Process Amendment (Interstate Fine Enforcement) Act 2010 (No. 143, 2010)_
+
+The following amendments commence on 15 June 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 3  Subparagraph 21(b)(ii)
+
+Omit “and”.
+
+## 4  Subparagraph 21(b)(iii)
+
+Repeal the subparagraph.
+
+As at 4 March 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1680,6 +1704,8 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 * * *
 
 _Service and Execution of Process Amendment (Interstate Fine Enforcement) Act 2010 (No. 143, 2010)_
+
+The following provision commences on 15 June 2011 unless proclaimed earlier:
 
 ## Schedule 2
 
