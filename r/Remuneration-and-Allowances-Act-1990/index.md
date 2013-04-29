@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00068/Html/1E1D62F0E5E69061CA25713E001402F3/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00589/Html/574A18D0275A41B6CA25708900814EEB/$FILE/image001.gif)
 
 # Remuneration and Allowances Act 1990
 
 **Act No. 71 of 1990 as amended**
 
-This compilation was prepared on 27 March 2006
-taking into account amendments up to Act No. 111 of 2005 and SLI 2006 No. 50
+This compilation was prepared on 1 October 2005
+taking into account amendments up to Act No. 111 of 2005
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -61,6 +61,8 @@ Canberra
 **Schedule 2—Secretaries of Departments and holders of public offices** 
 
 **Part 1—Secretaries of Departments of State** 
+
+Salaries
 
 **Part 2—Secretaries of Parliamentary Departments** 
 
@@ -161,7 +163,7 @@ Canberra
 
 ##### <a id="6"></a>6  Remuneration and allowances of Senators and Members of the House of Representatives
 
-                   The holders of the offices specified in Schedule 3 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
+                   The holders of the offices specified in Schedule 3 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
 
 ##### <a id="7"></a>7  Ministers and office holders of the Parliament
 
@@ -186,11 +188,9 @@ Canberra
 
 **Note:**
 
-The amendments made by this Part are incorporated in the compilation on ComLaw.
+The amendments made by this Part are incorporated in the compilation on SCALEplus and ComLaw.
 
-Industrial Relations Act 1988  
-\[now cited as<span class="CharPartText"> </span>_Workplace Relations Act 1996_]
-_._
+_Workplace Relations Act 1996._
 
 For access to the wording of the amendments made by this Part, _see_ Act No. 71, 1990.</div>
 
@@ -207,9 +207,9 @@ _Section 4_
 
 <table>
 <colgroup>
-  <col width="46%">
-  <col width="22%">
-  <col width="32%">
+  <col width="49%">
+  <col width="27%">
+  <col width="24%">
 </colgroup>
 
 <thead>
@@ -272,9 +272,9 @@ _Section 4_
 
 <table>
 <colgroup>
-  <col width="46%">
-  <col width="22%">
-  <col width="32%">
+  <col width="49%">
+  <col width="27%">
+  <col width="24%">
 </colgroup>
 
 <thead>
@@ -425,9 +425,9 @@ _Section 4_
 
 <table>
 <colgroup>
-  <col width="47%">
-  <col width="21%">
-  <col width="32%">
+  <col width="50%">
+  <col width="26%">
+  <col width="24%">
 </colgroup>
 
 <thead>
@@ -509,10 +509,10 @@ _Section 4_
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="26%">
-  <col width="22%">
-  <col width="22%">
+  <col width="35%">
+  <col width="24%">
+  <col width="20%">
+  <col width="20%">
 </colgroup>
 
 <thead>
@@ -587,8 +587,8 @@ _Section 4_
 
 <table>
 <colgroup>
-  <col width="74%">
-  <col width="26%">
+  <col width="76%">
+  <col width="24%">
 </colgroup>
 
 <thead>
@@ -654,9 +654,9 @@ An allowance at the rate of $16,524 per annum is payable from 5 December 1989 
 
 The rates and conditions of payment of travelling allowance for holders of offices specified in Parts 1 and 2 of clause 2, President of the Administrative Appeals Tribunal, President of the Australian Competition Tribunal, President of the Law Reform Commission, President of the Australian Industrial Relations Commission and Deputy Presidents of the Australian Industrial Relations Commission are as determined in Determination No. 3 of 1990 of the Remuneration Tribunal. The rates of payment of travelling allowance for Commissioners of the Australian Industrial Relations Commission are as determined in Determination No. 18 of 1989 of the Remuneration Tribunal. Other office holders are to have the same rates and conditions of payment of travelling allowance as are determined in clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
 
-6.    <u>Wage Adjustments</u>
+6.    <u>National Wage Case Adjustments</u>
 
-The rates of salary specified in clause 2 are to be adjusted in accordance with safety net review decisions relating to allowances made by the Australian Industrial Relations Commission after the commencement of this Act.
+The rates of salary specified in clause 2 are to be adjusted in accordance with National Wage Case Decisions made by the Australian Industrial Relations Commission after the commencement of this Act.
 
 7.    <u>Annual Leave Loading</u>
 
@@ -673,34 +673,32 @@ on the same terms and conditions applying to persons engaged under the _Public S
 
 _Section 5_
 
-1.    Subject to clause 2, in respect of the period starting on 1 January 1990 and ending on 30 June 1990, the holders of the offices specified in this Schedule are taken to have been, and to be, entitled to remuneration and allowances at the rates, and subject to the conditions, that would have been applicable to them from 1 January 1990 if Determination No. 12 of the Remuneration Tribunal dated 23 May 1990 had not been made.
+              1.  Subject to clause 2, in respect of the period starting on 1 January 1990 and ending on 30 June 1990, the holders of the offices specified in this Schedule are taken to have been, and to be, entitled to remuneration and allowances at the rates, and subject to the conditions, that would have been applicable to them from 1 January 1990 if Determination No. 12 of the Remuneration Tribunal dated 23 May 1990 had not been made.
 
-2.    (1)  In respect of the period:
+              2.   (1)  In respect of the period:
 
-(a)  starting when a holder of an office specified in this clause was appointed to that office; and
+                     (a)  starting when a holder of an office specified in this clause was appointed to that office; and
 
-(b)  ending on 30 June 1990;
+                     (b)  ending on 30 June 1990;
 
-       the holder of that office is taken to have been, and to be, entitled to salary at the rate set out below.
+the holder of that office is taken to have been, and to be, entitled to salary at the rate set out below.
 
 <table>
 <colgroup>
-  <col width="60%">
-  <col width="40%">
+  <col width="59%">
+  <col width="41%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>Office</b>
-      </div>
+      <div>Office</div>
     </td>
     <td>
-      <div>
-        <b>Rate per annum of salary
-          <i>$</i>
-        </b>
+      <div>Rate per annum of salary
+
+$
+
       </div>
     </td>
   </tr>
@@ -740,15 +738,15 @@ _Section 5_
   </tr>
 </tbody></table>
 
-      (2)  The rates and conditions of payment of travelling allowance for the Chairperson and Executive Commissioner of the Industry Commission are as determined in Clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
+             (2)  The rates and conditions of payment of travelling allowance for the Chairperson and Executive Commissioner of the Industry Commission are as determined in Clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
 
-      (3)  The rates and conditions of payment of travelling allowance for a Commissioner or Associate Commissioner of the Industry Commission are as determined in Clause 4.2 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
+             (3)  The rates and conditions of payment of travelling allowance for a Commissioner or Associate Commissioner of the Industry Commission are as determined in Clause 4.2 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
 
 3.    With effect from 1 July 1990, the holders of the offices specified in this Schedule are entitled to salary at the rates set out below.
 
 ## Part 1—Secretaries of Departments of State
 
-**Salaries**
+##### Salaries 
 
 <table>
 <colgroup>
@@ -759,13 +757,14 @@ _Section 5_
 <thead>
   <tr>
     <td>
-      <div>
-        <b>Departments of State</b>
-      </div>
+      <div>Departments of State</div>
     </td>
     <td>
-      <div>
-        <b>Rate per annum of salary</b>$</div>
+      <div>Rate per annum of salary
+
+$
+
+      </div>
     </td>
   </tr>
 </thead>
@@ -929,13 +928,14 @@ _Section 5_
 <thead>
   <tr>
     <td>
-      <div>
-        <b>Parliamentary Departments</b>
-      </div>
+      <div>Parliamentary Departments</div>
     </td>
     <td>
-      <div>
-        <b>Rate per annum of Salary</b>$</div>
+      <div>Rate per annum of Salary
+
+$
+
+      </div>
     </td>
   </tr>
 </thead>
@@ -969,13 +969,14 @@ _Section 5_
 <thead>
   <tr>
     <td>
-      <div>
-        <b>Office</b>
-      </div>
+      <div>Office</div>
     </td>
     <td>
-      <div>
-        <b>Rate per annum of Salary</b>$</div>
+      <div>Rate per annum of Salary
+
+$
+
+      </div>
     </td>
   </tr>
 </thead>
@@ -1366,11 +1367,7 @@ _Section 5_
   </tr>
 </tbody></table>
 
-4.    The rates of salary specified in clause 3 as applicable from 1 July 1990 are to be adjusted in accordance with:
-
-(a)  wage-setting decisions of the Australian Fair Pay Commission; or
-
-(b)  if the Australian Fair Pay Commission has not yet made its first wage-setting decision—the Statement of Principles enunciated by the Australian Industrial Relations Commission in its 2005 Safety Net Review Decision.
+4.    The rates of salary specified in clause 3 as applicable from 1 July 1990 are to be adjusted in accordance with National Wage Case Decisions made by the Australian Industrial Relations Commission after the commencement of this Act.
 
 5.    An annual leave loading is payable to Secretaries of Departments and holders of full-time Public Offices on the same terms and conditions applying to persons engaged under the _Public Service Act 1999_.
 
@@ -1611,7 +1608,7 @@ before the Commonwealth  makes a contribution as required by subclause (4) in 
 
 ## Part 2—Electorate and other allowances
 
-##### <span style="FONT-SIZE: 8pt"> </span><span style="FONT-SIZE: 8pt"> </span>
+#####   
 
 ##### <a id="2"></a>2  Electorate allowance
 
@@ -1619,18 +1616,21 @@ before the Commonwealth  makes a contribution as required by subclause (4) in 
 
 <table>
 <colgroup>
-  <col width="63%">
-  <col width="37%">
+  <col width="64%">
+  <col width="36%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div></div>
+      <div> </div>
     </td>
     <td>
-      <div>
-        <b>Rate per annum of electorate allowance</b>$</div>
+      <div>Rate per annum of electorate allowance
+
+$
+
+      </div>
     </td>
   </tr>
 </thead>
@@ -1645,9 +1645,7 @@ before the Commonwealth  makes a contribution as required by subclause (4) in 
   </tr>
   <tr>
     <td>
-      <div>Member:
-        electorate of less than 2,000 square kilometres
-      </div>
+      <div>Member: electorate of less than 2,000 square kilometres</div>
     </td>
     <td>
       <div>22,685</div>
@@ -1655,10 +1653,8 @@ before the Commonwealth  makes a contribution as required by subclause (4) in 
   </tr>
   <tr>
     <td>
-      <div>
-        electorate of 2,000 square kilometres or more but less than 5,000 square
-          kilometres
-      </div>
+      <div>electorate of 2,000 square kilometres or more but less than 5,000 square
+        kilometres</div>
     </td>
     <td>
       <div>26,975</div>
@@ -1666,9 +1662,7 @@ before the Commonwealth  makes a contribution as required by subclause (4) in 
   </tr>
   <tr>
     <td>
-      <div>
-        electorate of 5,000 square kilometres or more
-      </div>
+      <div>electorate of 5,000 square kilometers or more</div>
     </td>
     <td>
       <div>32, 895</div>
@@ -1700,13 +1694,16 @@ _Section 7_
 <thead>
   <tr>
     <td>
-      <div>
-        <b>Office</b>
-      </div>
+      <div>Office</div>
     </td>
     <td>
-      <div>
-        <b>Rate per annum of Additional Salary</b>$</div>
+      <div>Rate per annum of Additional
+
+Salary
+
+$
+
+      </div>
     </td>
   </tr>
 </thead>
@@ -2116,9 +2113,9 @@ _Section 7_
 
 5.    Whenever clause 4 operates to increase the rate of additional salary payable to the holders of offices specified in clause 3:
 
-(a)  the increase has effect from the date of the increase in the annual rate of salary payable to Senators and Members of the House of Representatives; and
+                     (a)  the increase has effect from the date of the increase in the annual rate of salary payable to Senators and Members of the House of Representatives; and
 
-(b)  the rate per annum of additional salary as increased is taken to be the rate of additional salary for the purposes of any subsequent operation of that clause.
+                     (b)  the rate per annum of additional salary as increased is taken to be the rate of additional salary for the purposes of any subsequent operation of that clause.
 
 6.    In this Schedule:
 
@@ -2130,8 +2127,6 @@ _Section 7_
 ### Note 1
 
 The _Remuneration and Allowances Act 1990_ as shown in this compilation comprises Act No. 71, 1990 amended as indicated in the Tables below.
-
-The _Remuneration and Allowances Act 1990_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
 
@@ -2461,7 +2456,7 @@ Remainder: Royal Assent
       <div>Schedule 1 (items 119, 120) and Schedule 4: 1 July 2005 ( <i>see</i>s. 2(1))</div>
     </td>
     <td>
-      <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+      <div>Sch. 4</div>
     </td>
   </tr>
   <tr>
@@ -2545,14 +2540,6 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
       <div>How affected</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
 </thead>
 <tbody>
   <tr>
@@ -2592,7 +2579,7 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
       <div>Schedule 1</div>
     </td>
     <td>
-      <div>am. No. 108, 1990; No. 52, 1992; No. 88, 1995; No. 146, 1999; SLI 2006 No. 50</div>
+      <div>am. No. 108, 1990; No. 52, 1992; No. 88, 1995; No. 146, 1999</div>
     </td>
   </tr>
   <tr>
@@ -2600,7 +2587,7 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
       <div>Schedule 2</div>
     </td>
     <td>
-      <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; Nos. 45 and 111, 2005; SLI 2006 No. 50</div>
+      <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; Nos. 45 and 111, 2005</div>
     </td>
   </tr>
   <tr>
