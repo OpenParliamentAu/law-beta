@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00330/Html/USNavalCommunStatCivilEmploy1968_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00395/Html/USNavalCommunStatCivilEmploy1968_WD02_image001.gif)
 
 # United States Naval Communication Station (Civilian Employees) Act 1968
 
 **Act No. 54 of 1968 as amended**
 
-This compilation was prepared on 16 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  is not a citizen, and is not a national, of the United States of America; or
 
-                     (b)  is a citizen, or is a national, of the United States of America but is employed by the Government of the United States of America in accordance with, or by reference to, terms and conditions of employment agreed upon between the Government of the United States of America and any organisation registered under, or association recognised by, the _Fair Work (Registered Organisations) Act 2009_ or any trade union or other body registered, or deemed to be registered, under the _Industrial Relations Act 1979_ of Western Australia, or that Act as amended and in force for the time being.
+                     (b)  is a citizen, or is a national, of the United States of America but is employed by the Government of the United States of America in accordance with, or by reference to, terms and conditions of employment agreed upon between the Government of the United States of America and any organisation within the meaning of Schedule 1B to the _Workplace Relations Act 1996_ or any trade union or other body registered, or deemed to be registered, under the _Industrial Relations Act 1979_ of Western Australia, or that Act as amended and in force for the time being.
 
 ##### <a id="5"></a>5  Application of Commonwealth Employees’ Compensation Act to persons to whom this Act applies
 
@@ -245,23 +245,6 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 8 (item 154): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _United States__Naval Communication Station (Civilian Employees) Act 1971_ was repealed by section 5 of the _United States__Naval Communication Station (Civilian Employees) Act 1988_.
@@ -269,94 +252,6 @@ _(a)_     The _United States__Naval Communication Station (Civilian Empl
 _(b)_    The _United States Naval Communication Station (Civilian Employees) Act 1968_ was amended by Schedule 19 (item 53) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2 (1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(c)_ Subsection 2(1) (item 30) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      30\. Schedule 8, items 140 to 161
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -402,7 +297,7 @@ _(c)_ Subsection 2(1) (item 30) of the _Fair Work (State Referral and Conseque
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 49, 1971; No. 87, 1988; No. 60, 1996; No. 105, 2002; No. 54, 2009</div>
+    <div>am. No. 49, 1971; No. 87, 1988; No. 60, 1996; No. 105, 2002</div>
   </td>
 </tr>
 <tr>
