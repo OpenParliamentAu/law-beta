@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image001.gif)
 
 # Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004
 
 **Act No. 52 of 2004 as amended**
 
-This compilation was prepared on 2 July 2007
+This compilation was prepared on 29 March 2007
 
-**\[This Act was amended by Act No. 100 of 2004; No. 100 of 2005; Nos. 29 and 89 of 2007]**
+**\[This Act was amended by Act No. 100 of 2004; No. 100 of 2005; No. 29 of 2007]**
 
 **Amendments from Act No. 100 of 2004**
 
@@ -28,13 +28,6 @@ Schedule 2 (item 22) commenced immediately after 1 July 2004]
 \[Schedule 3 (item 30) repealed item 28 of Schedule 1
 
 Schedule 3 (item 30) commenced on 16 March 2007]
-
-**Amendment from Act No. 89 of 2007**
-
-\[Schedule 3 (item 1) repealed item 126 of Schedule 1
- Schedule 3 (item 2) repealed item 130 of Schedule 1
-
-Schedule 3 (items 1, 2) commenced immediately after 1 July 2004]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -111,53 +104,53 @@ Part 4—Amendments relating to offsetting permanent impairment payments under
 
 Part 1—Main amendments relating to transitional and application issues  55
 
-Part 2—Defence-related injuries and deaths etc.                                               56
+Part 2—Defence-related injuries and deaths etc.                                               60
 
 **Schedule 3—General consequential amendments** 
 
-Aged Care Act 1997                                                                                                  56
+Aged Care Act 1997                                                                                                  73
 
-Age Discrimination Act 2004                                                                                  56
+Age Discrimination Act 2004                                                                                  74
 
-A New Tax System (Family Assistance) Act 1999                                                56
+A New Tax System (Family Assistance) Act 1999                                                75
 
-A New Tax System (Family Assistance) (Administration) Act 1999                56
+A New Tax System (Family Assistance) (Administration) Act 1999                75
 
-A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999  56
+A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999  75
 
-Data-matching Program (Assistance and Tax) Act 1990                                  56
+Data-matching Program (Assistance and Tax) Act 1990                                  76
 
-Defence Act 1903                                                                                                       56
+Defence Act 1903                                                                                                       76
 
-Defence Force (Home Loans Assistance) Act 1990                                             56
+Defence Force (Home Loans Assistance) Act 1990                                             76
 
-Defence Reserve Service (Protection) Act 2001                                                  56
+Defence Reserve Service (Protection) Act 2001                                                  77
 
-Disability Discrimination Act 1992                                                                       56
+Disability Discrimination Act 1992                                                                       78
 
-Farm Household Support Act 1992                                                                       56
+Farm Household Support Act 1992                                                                       78
 
-Fringe Benefits Tax (Application to the Commonwealth) Act 1986               56
+Fringe Benefits Tax (Application to the Commonwealth) Act 1986               78
 
-Income Tax Rates Act 1986                                                                                      56
+Income Tax Rates Act 1986                                                                                      79
 
-National Health Act 1953                                                                                        56
+National Health Act 1953                                                                                        79
 
-Registration of Deaths Abroad Act 1984                                                              56
+Registration of Deaths Abroad Act 1984                                                              80
 
-Social Security Act 1991                                                                                          56
+Social Security Act 1991                                                                                          80
 
-Superannuation Act 1976                                                                                        56
+Superannuation Act 1976                                                                                        94
 
-Taxation Administration Act 1953                                                                         56
+Taxation Administration Act 1953                                                                         96
 
 **Schedule 4—Consequential amendments of Income Tax Assessment Acts** 
 
-Part 1—Amendment of the Income Tax Assessment Act 1936                   56
+Part 1—Amendment of the Income Tax Assessment Act 1936                   97
 
-Part 2—Amendment of the Income Tax Assessment Act 1997                   56
+Part 2—Amendment of the Income Tax Assessment Act 1997                 100
 
-Part 3—Application and amendment of assessments                                        56
+Part 3—Application and amendment of assessments                                      107
 
 ## An Act to amend laws, and to deal with transitional matters, in connection with the _Military Rehabilitation and Compensation Act 2004_, and for other purposes
 
@@ -1148,7 +1141,7 @@ Note:          This means that amounts of superannuation that 
 
              (2)  The amount is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image002.gif)
 
 where:
 
@@ -1491,7 +1484,7 @@ Insert:
 
                    For the purposes of paragraphs 5H(8)(zr) and 52Z(3A)(i), the amount per fortnight is:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image003.gif)
 
 where:
 
@@ -1673,7 +1666,7 @@ Repeal the subsection, substitute:
 
              (5)  The rate at which pension is payable to a veteran to whom section 115D applies (veterans working under rehabilitation scheme) is the reduced amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image004.gif)
 
 ## 16B  Subsection 24(5)
 
@@ -1681,7 +1674,7 @@ Repeal the subsection, substitute:
 
              (5)  The rate at which pension is payable to a veteran to whom section 115D applies (veterans working under rehabilitation scheme) is the reduced amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image004.gif)
 
 ## 16C  Application of items 16A and 16B
 
@@ -1897,7 +1890,7 @@ Reduced daily pension amount during the initial period
 
              (2)  A veteran’s **_reduced daily pension amount_** for a pension period that occurs within the initial period is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image005.gif)
 
 Note 1:       Expressions used in this subsection are defined in subsection (7).
 
@@ -1907,7 +1900,7 @@ Reduced daily pension amount during the second period
 
              (3)  A veteran’s **_reduced daily pension amount_** for a pension period that occurs within the second period is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image006.gif)
 
 Note 1:       Expressions used in this subsection are defined in subsection (7).
 
@@ -1933,11 +1926,11 @@ Definitions
 
                     <a name="cpi-amount"></a>**_CPI amount_** means the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image007.gif)
 
                     <a name="daili-abov-gener-rate"></a>**_daily above general rate_** for a veteran means the rate worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image008.gif)
 
                     <a name="initi-period"></a>**_initial period_** for a veteran means the period:
 
@@ -1959,7 +1952,7 @@ Definitions
 
                      (b)  otherwise—the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image009.gif)
 
 ## 39B  Subsection 115E(1)
 
@@ -2077,7 +2070,7 @@ Omit “disability pension income” (first and second occurring), substitute �
 
 Omit “**_disability pension income_** **_excess_**”, substitute “**_disability income excess_**”.
 
-## 60  Point SCH6-C13 (step 6 of the method statement)
+## 60  Point SCH6-C13 (step 6 of the method statement)
 
 Omit “disability pension income excess”, substitute “disability income excess”.
 
@@ -2192,7 +2185,7 @@ Insert:
 
                     <a name="wholli-depend-partner"></a>**_wholly dependent partner_** has the meaning given by the MRCA.
 
-## 71  Subsection 5H(1) (after paragraph (c) of the definition of _adjusted income_)
+## 71  Subsection 5H(1) (after paragraph (c) of the definition of _adjusted income_)
 
 Insert:
 
@@ -2512,6 +2505,10 @@ Omit “subsection (5)”, substitute “subsections (5) and (6)”.
 
 Omit “If”, substitute “Subject to subsection (6), if”.
 
+## 126  Subsection 23(5)
+
+Omit “amount specified”, substitute “rate per fortnight specified”.
+
 ## 127  At the end of section 23
 
 Add:
@@ -2525,6 +2522,10 @@ Omit “subsection (5)”, substitute “subsections (5) and (6)”.
 ## 129  Subsection 24(5)
 
 Omit “If”, substitute “Subject to subsection (6), if”.
+
+## 130  Subsection 24(5)
+
+Omit “amount specified”, substitute “rate per fortnight specified”.
 
 ## 131  At the end of section 24
 
@@ -3533,7 +3534,7 @@ Add:
 
            (12)  For the purposes of paragraph 8(8)(zp), the amount per fortnight that is not income for the purposes of this Act is:
 
-![](http://www.comlaw.gov.au/Details/C2007C00466/Html/MilitaryRehabCompenConseqTransProv2004_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image003.gif)
 
 where:
 
