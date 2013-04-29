@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00328/Html/cbee340c-1998-4d1d-b312-3adb9ed0cf4f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00120/Html/87f1ef66-318c-450d-93e9-19a9854ce91c_files/image001.gif)
 
 # Financial Management and Accountability Act 1997
 
 **Act No. 154 of 1997 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 March 2011
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 Reader’s guide
 
@@ -52,7 +52,7 @@ Related legislation
 
                    The following Acts are directly relevant to the operation or interpretation of this Act:
 
-                   The _Auditor‑General Act 1997_ establishes the office of Auditor‑General and sets out the functions of the Auditor‑General. It also provides for the appointment of an Independent Auditor to audit the Australian National Audit Office.
+                   The _Auditor-General Act 1997_ establishes the office of Auditor-General and sets out the functions of the Auditor-General. It also provides for the appointment of an Independent Auditor to audit the Australian National Audit Office.
 
                    The _Acts Interpretation Act 1901_ contains many general rules about the meaning or effect of many terms and provisions that are commonly used in Commonwealth Acts.
 
@@ -88,7 +88,7 @@ Related legislation
 
 [10](#10).          Public money must be promptly banked etc 
 
-[11](#11).          Public money not to be paid into non‑official account
+[11](#11).          Public money not to be paid into non-official account
 
 [12](#12).          Receipt and spending of public money by outsiders
 
@@ -256,7 +256,7 @@ In this Act, unless the contrary intention appears:
 
                              (ii)  not including any part of the Department that is a prescribed Agency;
 
-                     (b)  a Parliamentary Department, including persons who are allocated to the Department (for the purposes of this Act) by regulations made for the purposes of this paragraph;
+                     (b)  a Department of the Parliament, including persons who are allocated to the Department (for the purposes of this Act) by regulations made for the purposes of this paragraph;
 
                      (c)  a prescribed Agency.
 
@@ -295,8 +295,6 @@ In this Act, unless the contrary intention appears:
                     <a name="offici"></a>**_official_** means a person who is in an Agency or is part of an Agency.
 
                     <a name="offici-account"></a>**_official account_** means a bank account referred to in section 9.
-
-                    <a name="parliamentari-depart"></a>**_Parliamentary Department_** means a Department of the Parliament established under the _Parliamentary Service Act 1999_.
 
                     <a name="prescrib-agenc"></a>**_prescribed Agency_** means a body, organisation or group of persons prescribed by the regulations for the purposes of this definition.
 
@@ -384,7 +382,7 @@ Note:          An overdraft drawing consists of the bank meeti
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="11"></a>11  Public money not to be paid into non‑official account
+##### <a id="11"></a>11  Public money not to be paid into non-official account
 
                    An official or Minister must not deposit public money in any account other than an official account. For this purpose, **_money_** includes cheques and similar instruments.
 
@@ -704,9 +702,9 @@ No change in overall appropriation
 
              (4)  A determination under subsection (2) cannot result in a change in the total amount appropriated.
 
-Transfer of function between Parliamentary Departments
+Transfer of function between Departments of the Parliament
 
-             (5)  If the transfer of function is between Parliamentary Departments, the Finance Minister must not make a determination under subsection (2) unless it is in accordance with a written recommendation of the Presiding Officers.
+             (5)  If the transfer of function is between Departments of the Parliament, the Finance Minister must not make a determination under subsection (2) unless it is in accordance with a written recommendation of the Presiding Officers.
 
 No extension of time limits
 
@@ -778,7 +776,7 @@ Note:          See also subparagraph 65(2)(a)(ia) (which allow
 
 ##### <a id="36"></a>36  Presiding Officers may approve expenditure
 
-             (1)  The following persons have authority to approve a proposal to spend public money under an appropriation for a Parliamentary Department:
+             (1)  The following persons have authority to approve a proposal to spend public money under an appropriation for a Department of the Parliament:
 
                      (a)  a Presiding Officer, for expenditure under an appropriation for which he or she alone is responsible;
 
@@ -812,9 +810,9 @@ Note:          See also subparagraph 65(2)(a)(ia) (which allow
 
              (5)  Upon realisation of an investment of an amount debited from a Special Account, the proceeds of the investment must be credited to that Special Account.
 
-             (6)  At any time before an investment matures, the Finance Minister or Treasurer, as the case requires, may, on behalf of the Commonwealth, authorise the re‑investment of the proceeds upon maturity in an authorised investment with the same entity.
+             (6)  At any time before an investment matures, the Finance Minister or Treasurer, as the case requires, may, on behalf of the Commonwealth, authorise the re-investment of the proceeds upon maturity in an authorised investment with the same entity.
 
-Note:          The proceeds of investment of the original investment will not become public money when the investment matures because the proceeds will not be received by or on behalf of the Commonwealth before the proceeds are re‑invested.
+Note:          The proceeds of investment of the original investment will not become public money when the investment matures because the proceeds will not be received by or on behalf of the Commonwealth before the proceeds are re-invested.
 
              (9)  The CRF is appropriated as necessary for the purposes of this section.
 
@@ -1042,7 +1040,7 @@ Note:          A Chief Executive has the power to enter into c
 
 ##### <a id="49"></a>49  Annual financial statements
 
-             (1)  A Chief Executive must give to the Auditor‑General the annual financial statements required by the Finance Minister’s Orders.
+             (1)  A Chief Executive must give to the Auditor-General the annual financial statements required by the Finance Minister’s Orders.
 
              (2)  The financial statements must be prepared in accordance with the Finance Minister’s Orders and must give a true and fair view of the matters that those Orders require to be included in the statements. 
 
@@ -1110,41 +1108,41 @@ the Chief Executive may give directions to the person in relation to the exercis
 
              (1)  As soon as practicable after the end of each financial year, the Finance Minister must prepare the annual financial statements required by the regulations.
 
-             (2)  The Finance Minister must give the statements to the Auditor‑General as soon as practicable after they are prepared.
+             (2)  The Finance Minister must give the statements to the Auditor-General as soon as practicable after they are prepared.
 
-             (3)  If the Finance Minister has not given the statements to the Auditor‑General within 5 months after the end of the financial year, the Finance Minister must cause to be tabled in each House of the Parliament a statement of the reasons why the statements were not given to the Auditor‑General within that period.
+             (3)  If the Finance Minister has not given the statements to the Auditor-General within 5 months after the end of the financial year, the Finance Minister must cause to be tabled in each House of the Parliament a statement of the reasons why the statements were not given to the Auditor-General within that period.
 
 ##### <a id="56"></a>56  Audit of Finance Minister’s annual financial statements
 
-             (1)  As soon as practicable after receiving financial statements under section 55, the Auditor‑General must examine the statements and prepare an audit report in accordance with the regulations.
+             (1)  As soon as practicable after receiving financial statements under section 55, the Auditor-General must examine the statements and prepare an audit report in accordance with the regulations.
 
-             (2)  Instead of preparing a single report, the Auditor‑General may prepare an initial report and one or more later supplementary reports.
+             (2)  Instead of preparing a single report, the Auditor-General may prepare an initial report and one or more later supplementary reports.
 
-             (3)  The Auditor‑General must give a copy of each report to the Finance Minister.
+             (3)  The Auditor-General must give a copy of each report to the Finance Minister.
 
              (4)  The Finance Minister must cause a copy of each report to be tabled in each House of the Parliament as soon as practicable after receipt. Except in the case of a supplementary report, the copy that is tabled must be accompanied by a copy of the annual financial statements.
 
 ##### <a id="57"></a>57  Audit of annual financial statements of Agency
 
-             (1)  As soon as practicable after receiving financial statements under subsection 49(1) for an Agency, the Auditor‑General must examine the statements and report in accordance with this section to the Minister responsible for the Agency.
+             (1)  As soon as practicable after receiving financial statements under subsection 49(1) for an Agency, the Auditor-General must examine the statements and report in accordance with this section to the Minister responsible for the Agency.
 
-             (2)  In the report, the Auditor‑General must state whether, in the Auditor‑General’s opinion, the financial statements:
+             (2)  In the report, the Auditor-General must state whether, in the Auditor-General’s opinion, the financial statements:
 
                      (a)  have been prepared in accordance with the Finance Minister’s Orders; and 
 
                      (b)  give a true and fair view of the matters required by those Orders.
 
-If the Auditor‑General is not of that opinion, the Auditor‑General must state the reasons.
+If the Auditor-General is not of that opinion, the Auditor-General must state the reasons.
 
-             (3)  If the Auditor‑General is of the opinion that failing to prepare the financial statements in accordance with the Finance Minister’s Orders has a quantifiable financial effect, the Auditor‑General must quantify that financial effect and state the amount.
+             (3)  If the Auditor-General is of the opinion that failing to prepare the financial statements in accordance with the Finance Minister’s Orders has a quantifiable financial effect, the Auditor-General must quantify that financial effect and state the amount.
 
-             (4)  If the Auditor‑General is of the opinion that the Chief Executive has contravened section 48, the Auditor‑General must state particulars of the contravention.
+             (4)  If the Auditor-General is of the opinion that the Chief Executive has contravened section 48, the Auditor-General must state particulars of the contravention.
 
-             (5)  If the Auditor‑General is of the opinion that the Auditor‑General did not obtain all necessary information and explanations, the Auditor‑General must state particulars of the shortcomings.
+             (5)  If the Auditor-General is of the opinion that the Auditor-General did not obtain all necessary information and explanations, the Auditor-General must state particulars of the shortcomings.
 
-             (6)  Instead of preparing a single report, the Auditor‑General may prepare an initial report and one or more later supplementary reports.
+             (6)  Instead of preparing a single report, the Auditor-General may prepare an initial report and one or more later supplementary reports.
 
-             (7)  A copy of the financial statements and the Auditor‑General’s report or reports must be included in the Agency’s annual report that is tabled in the Parliament.
+             (7)  A copy of the financial statements and the Auditor-General’s report or reports must be included in the Agency’s annual report that is tabled in the Parliament.
 
 ## Part 9—Miscellaneous
 
@@ -1236,7 +1234,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="65"></a>65  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1499,23 +1497,6 @@ Remainder: 7 Apr 2006</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 125–128): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Financial Management and Accountability Act 1997_ was amended by Schedule 1 (items 1–33) only of the _Financial Management Legislation Amendment Act 1999_, subsection 2(1) of which provides as follows:
@@ -1580,7 +1561,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 146, 1999; Determination No. 1 of 2000; No. 78, 2008; No. 148, 2010; No. 5, 2011</div>
+    <div>am. Nos. 20 and 146, 1999; Determination No. 1 of 2000; No. 78, 2008; No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1897,26 +1878,10 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 32(5)</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 32</div>
   </td>
   <td>
     <div>rs. No. 166, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2013,14 +1978,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
   </td>
   <td>
     <div>rep. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2420,7 +2377,7 @@ Note:          **_Public money_** is defined in the _Financial
 
 ##### 9  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2434,7 +2391,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -2448,7 +2405,7 @@ as if the amendment or repeal had not been made.
 
 (2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -2456,9 +2413,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -2556,7 +2513,7 @@ _Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
 
 (2)       Subsection 12(2) of the _Financial Management and Accountability Act 1997_(as inserted by this Act) applies in relation to agreements or arrangements entered into on or after the commencement of this item.
 
-## 69  Application—drawing rights
+## 69  Application—drawing rights
 
 The amendments made by items 32 and 33 apply in relation to drawing rights issued on or after the commencement of those items.
 
