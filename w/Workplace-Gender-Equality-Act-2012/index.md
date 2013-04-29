@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01672/Html/EqualOppWomWkpl99_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01671/Html/EqualOppWomWkpl99_image001.gif)
 
 # Equal Opportunity for Women in the Workplace Act 1999
 
-**Act No. 91 of 1986 as amended**
+**Act No. 91 of 1986 as amended**
 
-This compilation was prepared on 15 January 2003
- taking into account amendments up to Act No. 127 of 2002
+This compilation was prepared on 2 January 2003
+ taking into account amendments up to Act No. 105 of 2002
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,7 +18,7 @@ Prepared by the Office of Legislative Drafting,
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary**
 
 [1](#1).            Short title [_see_ Note 1]                                                                        1
 
@@ -26,7 +26,7 @@ Prepared by the Office of Legislative Drafting,
 
 [2A](#2A).         Objects of Act                                                                                     1
 
-[3](#3).            Interpretation                                                                                       2
+[3](#3).            Interpretation                                                                                       1
 
 [4](#4).            Extension to Norfolk Island                                                                 5
 
@@ -34,13 +34,13 @@ Prepared by the Office of Legislative Drafting,
 
 [5A](#5A).         Application of _Criminal Code_                                                             7
 
-**Part II—Equal opportunity for women in the workplace programs**
+**Part II—Equal opportunity for women in the workplace programs**
 
 [6](#6).            Employers required to develop equal opportunity for women in the workplace programs   8
 
 [8](#8).            Equal opportunity for women in the workplace program                   8
 
-**Part III—Equal Opportunity for Women in the Workplace Agency**
+**Part III—Equal Opportunity for Women in the Workplace Agency**
 
 [8A](#8A).         Equal Opportunity for Women in the Workplace Agency               10
 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting,
 
 [12](#12).          Agency to submit reports to Minister                                              11
 
-**Part IV—Reports by relevant employers**
+**Part IV—Reports by relevant employers**
 
 [13](#13).          Contents of public report                                                                  12
 
@@ -74,7 +74,7 @@ Prepared by the Office of Legislative Drafting,
 
 [19](#19).          Failure to submit report or further information                                 15
 
-**Part V—Director of Equal Opportunity for Women in the Workplace**
+**Part V—Director of Equal Opportunity for Women in the Workplace**
 
 [20](#20).          Appointment of Director                                                                  17
 
@@ -84,7 +84,7 @@ Prepared by the Office of Legislative Drafting,
 
 [23](#23).          Leave of absence                                                                                17
 
-[24](#24).          Outside employment                                                                         18
+[24](#24).          Outside employment                                                                         17
 
 [25](#25).          Resignation                                                                                        18
 
@@ -92,27 +92,27 @@ Prepared by the Office of Legislative Drafting,
 
 [27](#27).          Disclosure of interest                                                                         18
 
-[28](#28).          Acting appointment                                                                           19
+[28](#28).          Acting appointment                                                                           18
 
-**Part VI—Miscellaneous**
+**Part VI—Miscellaneous**
 
-[29](#29).          Staff                                                                                                   21
+[29](#29).          Staff                                                                                                   20
 
-[30](#30).          Consultants                                                                                        21
+[30](#30).          Consultants                                                                                        20
 
-[31](#31).          Advisory committees                                                                        21
+[31](#31).          Advisory committees                                                                        20
 
-[32](#32).          Non-disclosure of confidential information                                       22
+[32](#32).          Non-disclosure of confidential information                                       21
 
-[33](#33).          Delegation                                                                                          24
+[33](#33).          Delegation                                                                                          23
 
-[34](#34).          Regulations                                                                                        25
+[34](#34).          Regulations                                                                                        24
 
 **Notes** 
 
 ## An Act to require certain employers to promote equal opportunity for women in employment, to establish the Equal Opportunity for Women in the Workplace Agency and the office of the Director of Equal Opportunity for Women in the Workplace, and for related purposes
 
-## Part I—Preliminary
+## Part I—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -144,7 +144,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (b)  the holder of an office established for a public purpose by or under a law of the Commonwealth or of a State or Territory; and
 
-                     (c)  an incorporated company over which the Commonwealth, a State, a Territory or a body referred to in paragraph (a) is in a position to exercise control.
+                     (c)  an incorporated company over which the Commonwealth, a State, a Territory or a body referred to in paragraph (a) is in a position to exercise control.
 
                     <a name="appoint"></a>**_appoint_** includes re-appoint.
 
@@ -154,9 +154,9 @@ Prepared by the Office of Legislative Drafting,
 
                      (b)  sells or supplies liquor for consumption on its premises.
 
-                    <a name="confidenti-report"></a>**_confidential report_** means a confidential report referred to in section 14.
+                    <a name="confidenti-report"></a>**_confidential report_** means a confidential report referred to in section 14.
 
-                    <a name="discrimin"></a>**_discrimination_** means discrimination as defined in section 5, 6 or 7 of the _Sex Discrimination Act 1984_.
+                    <a name="discrimin"></a>**_discrimination_** means discrimination as defined in section 5, 6 or 7 of the _Sex Discrimination Act 1984_.
 
                     <a name="director"></a>**_Director_** means the Director of Equal Opportunity for Women in the Workplace.
 
@@ -166,7 +166,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (b)  under a contract for services; or
 
-                     (c)  as described in subsection (5) or (6).
+                     (c)  as described in subsection (5) or (6).
 
                     <a name="employ-matter"></a>**_employment matters_** includes the following:
 
@@ -190,17 +190,11 @@ Prepared by the Office of Legislative Drafting,
 
                      (b)  measures are taken by the relevant employer to contribute to the achievement of  equal opportunity for women in relation to employment matters.
 
-                    <a name="higher-educ-institut"></a>**_higher education institution_** means a university or other institution of higher education that is included in:
+                    <a name="higher-educ-institut"></a>**_higher education institution_** means a university, college of advanced education or other institution of tertiary education (other than a technical and further education institution within the meaning of the _Employment, Education and Training Act 1988_).
 
-                     (a)  the Australian Qualifications Framework Register of Authorities empowered by Government to Accredit Post-Compulsory Education and Training; or
+                    <a name="potenti-pregnant"></a>**_potentially pregnant_** has the meaning given by section 4B of the _Sex Discrimination Act 1984_.
 
-                     (b)  the Australian Qualifications Framework Register of Bodies with Authority to Issue Qualifications;
-
-as an institution authorised to issue  higher education awards (within the meaning of section 106ZL of the _Higher Education Funding Act 1988_).
-
-                    <a name="potenti-pregnant"></a>**_potentially pregnant_** has the meaning given by section 4B of the _Sex Discrimination Act 1984_.
-
-                    <a name="public-report"></a>**_public report_** means a public report referred to in section 13.
+                    <a name="public-report"></a>**_public report_** means a public report referred to in section 13.
 
                     <a name="relev-employ"></a>**_relevant employer_** means:
 
@@ -222,13 +216,13 @@ but does not include the Commonwealth, a State, a Territory or an authority.
 
                     <a name="workplac-program"></a>**_workplace program_** is short for equal opportunity for women in the workplace program.
 
-             (2)  For the purpose of paragraph (b) of the definition of **_relevant employer_** in subsection (1):
+             (2)  For the purpose of paragraph (b) of the definition of **_relevant employer_** in subsection (1):
 
                      (a)  a corporation employs a person where the person is employed by another corporation which is a subsidiary of the first-mentioned corporation; and
 
                      (b)  the question whether a corporation is a subsidiary of another corporation shall be determined as it would be determined for the purposes of the _Corporations Act 2001_.
 
-             (3)  Where, in accordance with section 4, this Act extends to Norfolk Island, a reference in this Act to Australia includes a reference to Norfolk Island.
+             (3)  Where, in accordance with section 4, this Act extends to Norfolk Island, a reference in this Act to Australia includes a reference to Norfolk Island.
 
              (4)  Nothing in this Act shall be taken to require a relevant employer to take any action incompatible with the principle that employment matters should be dealt with on the basis of merit.
 
@@ -260,7 +254,7 @@ the trainee is taken to be employed by the Scheme and not by the host employer.
 
                      (c)  within a Territory, between a State and a Territory, or between two Territories.
 
-             (3)  By virtue of this subsection, this Act has the effect it would have if each reference in this Act to employment were, by express provision, confined to employment in connection with the provision of a broadcasting service specified in section 11 of the _Broadcasting Services Act 1992_.
+             (3)  By virtue of this subsection, this Act has the effect it would have if each reference in this Act to employment were, by express provision, confined to employment in connection with the provision of a broadcasting service specified in section 11 of the _Broadcasting Services Act 1992_.
 
              (4)  By virtue of this subsection, this Act has the effect it would have if each reference in this Act to a workplace program were, by express provision, confined to a program for the gathering of statistics and related information concerning employment by a relevant employer.
 
@@ -286,7 +280,7 @@ the trainee is taken to be employed by the Scheme and not by the host employer.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-## Part II—Equal opportunity for women in the workplace programs
+## Part II—Equal opportunity for women in the workplace programs
 
 ##### <a id="6"></a>6  Employers required to develop equal opportunity for women in the workplace programs
 
@@ -320,15 +314,15 @@ must develop and implement workplace programs.
 
              (5)  A workplace program of a relevant employer may contain any other provision that the relevant employer thinks fit that is not inconsistent with the objects of this Act.
 
-             (6)  A relevant employer must have a workplace program for each reporting period (see section 13A).
+             (6)  A relevant employer must have a workplace program for each reporting period (see section 13A).
 
-## Part III—Equal Opportunity for Women in the Workplace Agency
+## Part III—Equal Opportunity for Women in the Workplace Agency
 
 ##### <a id="8A"></a>8A  Equal Opportunity for Women in the Workplace Agency
 
              (1)  The Equal Opportunity for Women in the Workplace Agency is established.
 
-             (2)  The Agency consists of the Director of Equal Opportunity for Women in the Workplace and the staff referred to in section 29.
+             (2)  The Agency consists of the Director of Equal Opportunity for Women in the Workplace and the staff referred to in section 29.
 
 ##### <a id="9"></a>9  Director
 
@@ -354,7 +348,7 @@ must develop and implement workplace programs.
 
                      (g)  to review the effectiveness of this Act in achieving its purposes; and
 
-                     (h)  to report to the Minister on such matters in relation to equal opportunity for women in the workplace as the Agency thinks fit (including a review under paragraph (g)).
+                     (h)  to report to the Minister on such matters in relation to equal opportunity for women in the workplace as the Agency thinks fit (including a review under paragraph (g)).
 
              (2)  In addition to any other powers conferred on the Agency by this Act, the Agency has power to do all things necessary or convenient to be done for or in connection with the performance of the functions of the Agency.
 
@@ -362,11 +356,11 @@ must develop and implement workplace programs.
 
              (1)  The Agency is to exercise its powers and perform its functions in accordance with general instructions given by the Minister in writing.
 
-             (2)  Where the Minister gives a direction under subsection (1), the Minister shall cause a copy of the direction to be laid before each House of the Parliament within 15 sitting days of that House after the direction is given.
+             (2)  Where the Minister gives a direction under subsection (1), the Minister shall cause a copy of the direction to be laid before each House of the Parliament within 15 sitting days of that House after the direction is given.
 
 ##### <a id="12"></a>12  Agency to submit reports to Minister
 
-             (1)  The Agency must, as soon as practicable, and in any event within 6 months, after each 31 May, submit to the Minister a report on its operations during the year that ended on that 31 May.
+             (1)  The Agency must, as soon as practicable, and in any event within 6 months, after each 31 May, submit to the Minister a report on its operations during the year that ended on that 31 May.
 
              (2)  The Agency may, from time to time, submit to the Minister:
 
@@ -374,13 +368,13 @@ must develop and implement workplace programs.
 
                      (b)  a report in respect of any matter relating to, or connected with, the exercise of the powers, or the performance of the functions, of the Agency under this Act.
 
-             (3)  Where a report has been submitted to the Minister under subsection (1) or (2), the Minister shall cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
+             (3)  Where a report has been submitted to the Minister under subsection (1) or (2), the Minister shall cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
-## Part IV—Reports by relevant employers
+## Part IV—Reports by relevant employers
 
 ##### <a id="13"></a>13  Contents of public report
 
-             (1)  A relevant employer must prepare, in respect of each reporting period (see section 13A), a public report in writing about the outcomes of the employer’s workplace program.
+             (1)  A relevant employer must prepare, in respect of each reporting period (see section 13A), a public report in writing about the outcomes of the employer’s workplace program.
 
              (2)  The public report must:
 
@@ -392,23 +386,23 @@ must develop and implement workplace programs.
 
                      (d)  describe the actions that the employer plans to take in the next reporting period to address issues in the employer’s workplace relating to employment matters that the employer would need to address to achieve equal opportunity for women in the employer’s workplace.
 
-             (3)  The report may contain an evaluation of the effectiveness of the actions in achieving equal opportunity for women in the employer’s workplace. If the public report does not contain such an evaluation, the evaluation must be submitted in a confidential report under section 14.
+             (3)  The report may contain an evaluation of the effectiveness of the actions in achieving equal opportunity for women in the employer’s workplace. If the public report does not contain such an evaluation, the evaluation must be submitted in a confidential report under section 14.
 
 ##### <a id="13A"></a>13A  Reporting periods for reports
 
-             (1)  A relevant employer must lodge with the Agency public reports in respect of each of the periods set out in this section unless subsection (3) applies to the employer in respect of a reporting period.
+             (1)  A relevant employer must lodge with the Agency public reports in respect of each of the periods set out in this section unless subsection (3) applies to the employer in respect of a reporting period.
 
-             (2)  A relevant employer must prepare a public report in respect of the period of 12 months commencing on 1 April 2000 and after that, in respect of each consecutive period of 12 months.
+             (2)  A relevant employer must prepare a public report in respect of the period of 12 months commencing on 1 April 2000 and after that, in respect of each consecutive period of 12 months.
 
              (3)  If the relevant employer had the status of relevant employer for less than 6 months of a particular reporting period, the employer does not have to comply with an obligation under this section to report in respect of that particular period.
 
 ##### <a id="13B"></a>13B  When public reports are due
 
-                   Unless a relevant employer has received an extension of time in which to lodge a report under section 17, the employer must lodge a public report under section 13A within 2 months after the end of the period to which the report relates.
+                   Unless a relevant employer has received an extension of time in which to lodge a report under section 17, the employer must lodge a public report under section 13A within 2 months after the end of the period to which the report relates.
 
 ##### <a id="13C"></a>13C  Agency may waive public reporting requirements
 
-             (1)  The Agency may waive the reporting requirements set out in sections 13, 13A and 13B in respect of a relevant employer:
+             (1)  The Agency may waive the reporting requirements set out in sections 13, 13A and 13B in respect of a relevant employer:
 
                      (a)  on application in writing made to it by the relevant employer; or
 
@@ -418,7 +412,7 @@ but only if the relevant employer has complied with those requirements for a per
 
              (2)  Before the Agency waives the reporting requirements in respect of a relevant employer, the Agency must be satisfied that the employer has taken all reasonably practicable measures to address the issues relating to employment matters that affect equal opportunity for women in the employer’s workplace.
 
-             (3)  In making a decision under subsection (2), the Agency must have regard to regulations, if any, made for the purposes of subsection (5).
+             (3)  In making a decision under subsection (2), the Agency must have regard to regulations, if any, made for the purposes of subsection (5).
 
              (4)  The waiver must be in writing and specify the period for which the waiver operates.
 
@@ -444,7 +438,7 @@ but only if the relevant employer has complied with those requirements for a per
 
              (1)  The Agency may, in writing, request that information which the relevant employer has included in a confidential report be made available to the public or for use, either in whole or in part, in a report of the Agency under subsection 12(1) or (2).
 
-             (2)  Where a relevant employer has received a request by the Agency under subsection (1), the relevant employer may, in writing, consent to:
+             (2)  Where a relevant employer has received a request by the Agency under subsection (1), the relevant employer may, in writing, consent to:
 
                      (a)  the Agency making that information available to the public; or
 
@@ -454,11 +448,11 @@ subject to such conditions as the relevant employer specifies in the consent.
 
 ##### <a id="17"></a>17  Agency may grant extensions
 
-             (1)  A relevant employer may, before the end of the 2 months within which the relevant employer is required to lodge with the Agency a public report under section 13B, apply to the Agency to extend the period for a further period to enable the employer to lodge the public report or a confidential report.
+             (1)  A relevant employer may, before the end of the 2 months within which the relevant employer is required to lodge with the Agency a public report under section 13B, apply to the Agency to extend the period for a further period to enable the employer to lodge the public report or a confidential report.
 
              (2)  Where the Agency:
 
-                     (a)  has received a request under subsection (1) to extend a period in respect of a report; and
+                     (a)  has received a request under subsection (1) to extend a period in respect of a report; and
 
                      (b)  considers that there are reasonable grounds for extending the period;
 
@@ -480,13 +474,13 @@ the Agency may grant an extension in respect of the report for such period, not 
 
                      (a)  fails to lodge a public report or confidential report as required by this Part; or
 
-                     (b)  fails to provide further information in accordance with a notice given under section 18;
+                     (b)  fails to provide further information in accordance with a notice given under section 18;
 
-the Agency may, subject to subsection (2), name the relevant employer in a report of the Agency under subsection 12(1) or (2) as having failed to provide the report or further information, as the case may be.
+the Agency may, subject to subsection (2), name the relevant employer in a report of the Agency under subsection 12(1) or (2) as having failed to provide the report or further information, as the case may be.
 
              (2)  Where the Agency proposes to name a relevant employer in a report under subsection 12(1) or (2), the Agency shall, not less than 28 days before the day on which the report is submitted to the Minister, furnish the relevant employer with a notice in writing stating that the Agency proposes so to name the employer and specifying the reasons for the proposal.
 
-## Part V—Director of Equal Opportunity for Women in the Workplace
+## Part V—Director of Equal Opportunity for Women in the Workplace
 
 ##### <a id="20"></a>20  Appointment of Director
 
@@ -506,7 +500,7 @@ the Agency may, subject to subsection (2), name the relevant employer in a rep
 
                      (b)  such allowances as are prescribed.
 
-             (2)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (2)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="23"></a>23  Leave of absence
 
@@ -530,9 +524,9 @@ the Agency may, subject to subsection (2), name the relevant employer in a rep
 
                      (b)  engages, except with the approval of the Minister, in paid employment outside the duties of the office of Director;
 
-                     (c)  is absent from duty, except on leave of absence granted by the Minister, for 14 consecutive days or 28 days in any 12 months; or
+                     (c)  is absent from duty, except on leave of absence granted by the Minister, for 14 consecutive days or 28 days in any 12 months; or
 
-                     (d)  without reasonable excuse, contravenes section 27;
+                     (d)  without reasonable excuse, contravenes section 27;
 
 the Governor-General shall terminate the appointment of the Director.
 
@@ -560,13 +554,13 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (b)  terminate such an appointment at any time.
 
-             (5)  Where a person is acting as the Director otherwise than by reason of a vacancy in the office of Director, and the office of Director becomes vacant while the person is so acting, then, subject to subsection (3), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+             (5)  Where a person is acting as the Director otherwise than by reason of a vacancy in the office of Director, and the office of Director becomes vacant while the person is so acting, then, subject to subsection (3), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
              (6)  A person appointed to act as the Director may resign by writing signed and delivered to the Minister.
 
              (7)  The validity of anything done by or in relation to a person purporting to act as the Director shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
-## Part VI—Miscellaneous
+## Part VI—Miscellaneous
 
 ##### <a id="29"></a>29  Staff
 
@@ -582,7 +576,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (1)  The Agency may, on behalf of the Commonwealth, engage as consultants to the Agency persons having suitable qualifications and experience.
 
-             (2)  The terms and conditions of engagement of persons engaged under subsection (1) are such as are determined by the Agency.
+             (2)  The terms and conditions of engagement of persons engaged under subsection (1) are such as are determined by the Agency.
 
 ##### <a id="31"></a>31  Advisory committees
 
@@ -612,15 +606,15 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (8)  A member of an advisory committee shall be paid such allowances as are prescribed.
 
-             (9)  Subsections (7) and (8) have effect subject to the _Remuneration Tribunal Act 1973_.
+             (9)  Subsections (7) and (8) have effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="32"></a>32  Non-disclosure of confidential information
 
-             (1)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not, either directly or indirectly:
+             (1)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not, either directly or indirectly:
 
                      (a)  make a record of, or divulge or communicate to any person, any information relating to a confidential report or confidential information acquired by the first-mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
 
-                     (b)  make use of any such report or information as is mentioned in paragraph (a); or
+                     (b)  make use of any such report or information as is mentioned in paragraph (a); or
 
                      (c)  produce to any person a confidential report or a document relating to confidential information of another person furnished for the purposes of this Act.
 
@@ -638,7 +632,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (2)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not be required:
+             (2)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not be required:
 
                      (a)  to divulge or communicate to a court any information relating to a confidential report or confidential information acquired by the first-mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised; or
 
@@ -648,7 +642,7 @@ except to the extent that the report or information was the subject of a consent
 
              (3)  Nothing in this section prohibits a person from:
 
-                     (a)  divulging or communicating information, or producing a document, to the Agency or an officer of a State, in accordance with an arrangement in force under section 33; or
+                     (a)  divulging or communicating information, or producing a document, to the Agency or an officer of a State, in accordance with an arrangement in force under section 33; or
 
                      (b)  divulging or communicating information, or producing a document, that is required or permitted by an Act to be divulged, communicated or produced, as the case may be.
 
@@ -666,7 +660,7 @@ except to the extent that the report or information was the subject of a consent
 
                      (a)  a person referred to in subsection 29(1); or
 
-                     (b)  an officer in respect of whom an arrangement is in force under subsection (4);
+                     (b)  an officer in respect of whom an arrangement is in force under subsection (4);
 
 all or any of the powers and functions of the Agency under this Act other than this power of delegation.
 
@@ -700,11 +694,11 @@ all or any of the powers and functions of the Agency under this Act other than t
 
 ### Note 1
 
-The _Equal Opportunity for Women in the Workplace Act 1999_ as shown in this compilation comprises Act No. 91, 1986 amended as indicated in the Tables below.
+The _Equal Opportunity for Women in the Workplace Act 1999_ as shown in this compilation comprises Act No. 91, 1986 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 22 December 1999 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 22 December 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -747,7 +741,7 @@ of Assent</div>
     <div>3 Sept 1986</div>
   </td>
   <td>
-    <div>1 Oct 1986 ( <i>see Gazette</i>1986, No. S491)</div>
+    <div>1 Oct 1986 ( <i>see Gazette</i>1986, No. S491)</div>
   </td>
   <td>
     <div></div>
@@ -761,10 +755,10 @@ of Assent</div>
     <div>80, 1988</div>
   </td>
   <td>
-    <div>24 June 1988</div>
+    <div>24 June 1988</div>
   </td>
   <td>
-    <div>1 July 1988 ( <i>see Gazette</i>1988, No. S190)</div>
+    <div>1 July 1988 ( <i>see Gazette</i>1988, No. S190)</div>
   </td>
   <td>
     <div>—</div>
@@ -796,10 +790,10 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>30, 1989</div>
   </td>
   <td>
-    <div>24 May 1989</div>
+    <div>24 May 1989</div>
   </td>
   <td>
-    <div>24 May 1989</div>
+    <div>24 May 1989</div>
   </td>
   <td>
     <div>—</div>
@@ -813,10 +807,10 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>105, 1992</div>
   </td>
   <td>
-    <div>9 July 1992</div>
+    <div>9 July 1992</div>
   </td>
   <td>
-    <div>5 Oct 1992 ( <i>see</i>s. 2)</div>
+    <div>5 Oct 1992 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -850,7 +844,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Schedule (Parts 3 and 6): <i>(a)</i></div>
+    <div>Schedule (Parts 3 and 6): <i>(a)</i></div>
   </td>
   <td>
     <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
@@ -901,7 +895,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>16 Dec 1994</div>
   </td>
   <td>
-    <div>S. 3 (item 17): Royal Assent <i>(b)</i></div>
+    <div>S. 3 (item 17): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -918,7 +912,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (items 6, 7): Royal Assent <i>(c)</i></div>
+    <div>Schedule 4 (items 6, 7): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -935,7 +929,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>25 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 19 (item 4): Royal Assent <i>(d)</i></div>
+    <div>Schedule 19 (item 4): Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -952,7 +946,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 54, 55): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    <div>Schedule 1 (items 54, 55): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -969,7 +963,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedules 1 and 3: 1 Jan 2000 
+    <div>Schedules 1 and 3: 1 Jan 2000 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -984,10 +978,10 @@ Remainder: Royal Assent</div>
     <div>55, 2001</div>
   </td>
   <td>
-    <div>28 June 2001</div>
+    <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4-14 and Schedule 3 (item 173): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(f)</i></div>
+    <div>Ss. 4-14 and Schedule 3 (item 173): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(f)</i></div>
   </td>
   <td>
     <div>Ss. 4-14</div>
@@ -1004,7 +998,7 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 10-14): 2 Oct 2001 <i>(g)</i></div>
+    <div>S. 4 and Schedule 1 (items 10-14): 2 Oct 2001 <i>(g)</i></div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
@@ -1021,8 +1015,8 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): Royal Assent <i>(h)</i> 
-Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
+    <div>Schedule 3 (item 1): Royal Assent <i>(h)</i> 
+Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1042,7 +1036,7 @@ Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1056,24 +1050,7 @@ Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
     <div>14 Nov 2002</div>
   </td>
   <td>
-    <div>Schedule 3 (item 47) \[ <i>see (i)</i>and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations Legislation Amendment Act 2002</div>
-  </td>
-  <td>
-    <div>127, 2002</div>
-  </td>
-  <td>
-    <div>11 Dec 2002</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 19): Royal Assent</div>
+    <div>Schedule 3 (item 47) \[ <i>see (i)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1082,47 +1059,47 @@ Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
 
 _(a)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (5) and (6) of which provide as follows:
 
-                 (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
+                 (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
-                 (5)   If, on the 100% sale day, Part 3 of the Schedule has not commenced, then, on the day on which Part 7 of the Schedule commences, Parts 3 and 6 of the Schedule are taken to have been repealed.
+                 (5)   If, on the 100% sale day, Part 3 of the Schedule has not commenced, then, on the day on which Part 7 of the Schedule commences, Parts 3 and 6 of the Schedule are taken to have been repealed.
 
-                 (6)   If a provision of this Act has not commenced before 31 August 1995, the provision is taken to have been repealed on that day.
+                 (6)   If a provision of this Act has not commenced before 31 August 1995, the provision is taken to have been repealed on that day.
 
-         The Schedule (Parts 3 and 6) are taken to have been repealed on 31 August 1995.
+         The Schedule (Parts 3 and 6) are taken to have been repealed on 31 August 1995.
 
-_(b)_    The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(c)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 4 (items 6, 7) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-
-_(d)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 19 (item 4) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
+_(b)_    The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 54, 55) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(c)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 4 (items 6, 7) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(d)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 19 (item 4) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 54, 55) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(f)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (item 173) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(f)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (item 173) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(g)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 10-14) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
+_(g)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 10-14) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day after the day on which it receives the Royal Assent.
 
-_(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (items 1 and 2) only of the _Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001_, subsections 2(1) and (3) of which provide as follows:
+_(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (items 1 and 2) only of the _Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001_, subsections 2(1) and (3) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
                  (3)   Items 12, 13, 14, 24, 27, 28, 29, 30, 34, 44, 46, 47, 48, 55 and 57 of Schedule 1, items 90, 91 and 101 of Schedule 2, and items 2 and 6 to 11 of Schedule 3 commence 28 days after the day on which this Act receives the Royal Assent.
 
-_(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (item 47) only of the _Workplace Relations Amendment (Registration and Accountability of Organisations) Act 2002_, subsection 2(1) (items 2 and 25) and (3) of which provides as follows:
+_(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (item 47) only of the _Workplace Relations Amendment (Registration and Accountability of Organisations) Act 2002_, subsection 2(1) (items 2 and 25) and (3) of which provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -1198,18 +1175,18 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>A single day to be fixed by Proclamation, subject to subsection (3)</div>
   </td>
   <td>
-    <div>12 May 2003 \[ <i>see Gazette</i>2002, No. GN49]</div>
+    <div>12 May 2003 \[ <i>see Gazette</i>2002, No. GN49]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>25\. Schedule 3, item 47</div>
+    <div>25\. Schedule 3, item 47</div>
   </td>
   <td>
     <div>At the same time as the provisions covered by item 2 of this table</div>
   </td>
   <td>
-    <div>12 May 2003 \[ <i>see</i>Note 2]</div>
+    <div>12 May 2003 \[ <i>see</i>Note 2]</div>
   </td>
 </tr></table>
 
@@ -1219,8 +1196,8 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
 
 <table>
 <colgroup>
-  <col width="33%">
-  <col width="67%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <tr>
@@ -1241,7 +1218,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 181, 1992</div>
+    <div>am. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1249,7 +1226,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div></div>
   </td>
   <td>
-    <div>am. No. 183, 1999</div>
+    <div>am. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1257,7 +1234,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 1</div>
   </td>
   <td>
-    <div>am. No. 183, 1999</div>
+    <div>am. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1265,7 +1242,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 2A</div>
   </td>
   <td>
-    <div>ad. No. 183, 1999</div>
+    <div>ad. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1273,7 +1250,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999; No. 55, 2001; No. 127, 2002</div>
+    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1281,7 +1258,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 105, 1992; No. 183, 1999</div>
+    <div>am. No. 105, 1992; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1289,15 +1266,15 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 5A</div>
   </td>
   <td>
-    <div>ad. No. 142, 2001</div>
+    <div>ad. No. 142, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part II</div>
+    <div>Heading to Part II</div>
   </td>
   <td>
-    <div>rs. No. 183, 1999</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1305,7 +1282,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 6</div>
   </td>
   <td>
-    <div>rs. No. 183, 1999</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1313,7 +1290,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 30, 1989</div>
+    <div>am. No. 30, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1321,7 +1298,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div></div>
   </td>
   <td>
-    <div>rep. No. 183, 1999</div>
+    <div>rep. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1329,15 +1306,15 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 8</div>
   </td>
   <td>
-    <div>rs. No. 183, 1999</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part III</div>
+    <div>Heading to Part III</div>
   </td>
   <td>
-    <div>rs. No. 181, 1992; No. 183, 1999</div>
+    <div>rs. No. 181, 1992; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1345,7 +1322,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>Heading to s. 8A</div>
   </td>
   <td>
-    <div>am. No. 183, 1999</div>
+    <div>am. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1353,7 +1330,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 8A</div>
   </td>
   <td>
-    <div>ad. No. 181, 1992</div>
+    <div>ad. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1361,7 +1338,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div></div>
   </td>
   <td>
-    <div>am. No. 183, 1999</div>
+    <div>am. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1369,7 +1346,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>Ss. 9, 10</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 183, 1999</div>
+    <div>am. No. 181, 1992; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1377,7 +1354,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>Ss. 11, 12</div>
   </td>
   <td>
-    <div>am. No. 181, 1992</div>
+    <div>am. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1385,7 +1362,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 30, 1989; No. 181, 1992</div>
+    <div>am. No. 30, 1989; No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1393,7 +1370,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div></div>
   </td>
   <td>
-    <div>rs. No. 183, 1999</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1401,7 +1378,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 13A</div>
   </td>
   <td>
-    <div>ad. No. 181, 1992</div>
+    <div>ad. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1409,7 +1386,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div></div>
   </td>
   <td>
-    <div>rs. No. 183, 1999</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1417,7 +1394,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>Ss. 13B, 13C</div>
   </td>
   <td>
-    <div>ad. No. 183, 1999</div>
+    <div>ad. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1425,7 +1402,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 181, 1992</div>
+    <div>am. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1433,7 +1410,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div></div>
   </td>
   <td>
-    <div>rs. No. 183, 1999</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1441,7 +1418,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>Ss. 15, 16</div>
   </td>
   <td>
-    <div>am. No. 181, 1992</div>
+    <div>am. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1449,7 +1426,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 183, 1999; No. 144, 2001</div>
+    <div>am. No. 181, 1992; No. 183, 1999; No. 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1457,7 +1434,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 181, 1992</div>
+    <div>am. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1465,7 +1442,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div></div>
   </td>
   <td>
-    <div>rs. No. 183, 1999</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1473,15 +1450,15 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 181, 1992</div>
+    <div>am. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part V</div>
+    <div>Heading to Part V</div>
   </td>
   <td>
-    <div>rs. No. 183, 1999</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1489,7 +1466,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 159, 2001</div>
+    <div>am. No. 159, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1497,7 +1474,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 43, 1996</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -1505,7 +1482,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 146, 1999</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1513,7 +1490,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 181, 1992</div>
+    <div>am. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1521,7 +1498,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 43, 1996; No. 183, 1999</div>
+    <div>am. No. 181, 1992; No. 43, 1996; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1529,7 +1506,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; Nos. 142 and 144, 2001</div>
+    <div>am. No. 181, 1992; Nos. 142 and 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1537,23 +1514,23 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 183, 1999</div>
+    <div>am. No. 181, 1992; No. 183, 1999</div>
   </td>
 </tr></table>
 
 ### Note 2
 
-_Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002 (No. 105, 2002)_
+_Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002 (No. 105, 2002)_
 
-The following amendment commences on 12 May 2003:
+The following amendment commences on 12 May 2003:
 
-## Schedule 3
+## Schedule 3
 
 ## 47  Subsection 3(1) (paragraph (a) of the definition of _trade union_)
 
 Omit “the _Workplace Relations Act 1996_”, substitute “Schedule 1B to the _Workplace Relations Act 1996_”.
 
-As at 15 January 2003 the amendment is not incorporated in this compilation.
+As at 2 January 2003 the amendment is not incorporated in this compilation.
 
  
 
@@ -1562,7 +1539,7 @@ As at 15 January 2003 the amendment is not incorporated in this compilation.
 ### Application, saving or transitional provisions
 
 _Equal Opportunity for Women in the Workplace Amendment Act 1999 
- (No. 183, 1999)_
+ (No. 183, 1999)_
 
 ## 1  Definitions
 
@@ -1570,11 +1547,11 @@ In this Schedule:
 
 **_Agency_** means the Equal Opportunity for Women in the Workplace Agency.
 
-**_amended Equal Opportunity for Women in the Workplace Act_** means the Equal Opportunity for Women in the Workplace Act as in force on and after 1 January 2000.
+**_amended Equal Opportunity for Women in the Workplace Act_** means the Equal Opportunity for Women in the Workplace Act as in force on and after 1 January 2000.
 
 **_Director_** means the Director of Equal Opportunity for Women in the Workplace.
 
-**_old Equal Opportunity for Women in the Workplace Act_** means the Equal Opportunity for Women in the Workplace Act as in force immediately before 1 January 2000.
+**_old Equal Opportunity for Women in the Workplace Act_** means the Equal Opportunity for Women in the Workplace Act as in force immediately before 1 January 2000.
 
 ## 2  Continuity of Agency and Director not affected
 
@@ -1584,15 +1561,15 @@ To avoid doubt:
 
                      (b)  the continuity of the Director’s appointment;
 
-is not affected by the change to the Agency’s name or Director’s title, or by any other amendment, made by Schedule 1 or 2.
+is not affected by the change to the Agency’s name or Director’s title, or by any other amendment, made by Schedule 1 or 2.
 
 ## 3  Waiver of reporting obligations
 
-A waiver given under section 13A of the old Equal Opportunity for Women in the Workplace Act continues in force according to its terms as if it were issued under section 13C of the amended Equal Opportunity for Women in the Workplace Act.
+A waiver given under section 13A of the old Equal Opportunity for Women in the Workplace Act continues in force according to its terms as if it were issued under section 13C of the amended Equal Opportunity for Women in the Workplace Act.
 
 * * *
 
-_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)_
+_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -1602,9 +1579,9 @@ _Employment, Workplace Relations and Small Business Legislation Amendment (Appli
 
 * * *
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
 
-## Schedule 1
+## Schedule 1
 
 ## 97  Application of amendments
 
