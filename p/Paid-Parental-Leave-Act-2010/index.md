@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00464/Html/d2e91241-6e82-4637-b152-986e3c3750db_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00404/Html/ec3f52c5-0d67-48d5-a5ec-548516ca2319_files/image001.gif)
 
 # Paid Parental Leave Act 2010
 
 **Act No. 104 of 2010 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 30 May 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -666,9 +666,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [235](#235).        Notice of application to person affected by SSAT reviewable claimant decision
 
-    **Division 3—Submissions from parties other than PPL agency representatives**
+    **Division 3—Submissions from parties other than PPL agency heads**
 
-[236](#236).        Division does not apply in relation to PPL agency representatives
+[236](#236).        Division does not apply in relation to PPL agency heads
 
 [237](#237).        Submissions to SSAT
 
@@ -676,9 +676,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [239](#239).        SSAT hearings without oral submissions by party
 
-    **Division 4—Submissions from PPL agency representatives**
+    **Division 4—Submissions from PPL agency heads**
 
-[240](#240).        Submissions from PPL agency representatives
+[240](#240).        Submissions from PPL agency heads
 
     **Division 5—Other evidence provisions**
 
@@ -881,7 +881,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [308](#308).        Regulations
 
 **Notes** 
-
 ## An Act to provide for the payment of parental leave pay, and for related purposes
 
 # Chapter 1—Introduction
@@ -890,7 +889,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ### Division 1—Preliminary
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Paid Parental Leave Act 2010_.
 
@@ -952,9 +951,9 @@ The Secretary cannot make that determination if the person is not eligible for p
 
 income test and the Australian residency test; and</li>
 
-<li class="BoxList" style="margin-left:21.25pt">(b)   be the child’s primary
+<li class="BoxList" style="margin-left:21.25pt">(b)   be the child’s primary carer;
 
-carer; and</li>
+and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(c)   not have returned to work;
 
@@ -1096,9 +1095,11 @@ Division 2 has the Dictionary (see section 6). The Dictionary is a list of e
 
                     <a name="calendar-month"></a>**_calendar month_** means one of the 12 months of the year.
 
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+                    <a name="ceo"></a>**_CEO_** means:
 
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+                     (a)  in relation to the Commonwealth Services Delivery Agency—the Chief Executive Officer of the Agency; and
+
+                     (b)  in relation to Medicare Australia—the Chief Executive Officer of Medicare Australia.
 
                     <a name=""></a><a name="civil-penalti-order"></a>**_civil penalty order_**: see subsection 147(2).
 
@@ -1190,8 +1191,6 @@ Division 2 has the Dictionary (see section 6). The Dictionary is a list of e
 
                     <a name="famili-assist-act"></a>**_Family Assistance Act_** means the _A New Tax System (Family Assistance) Act 1999_.
 
-                    <a name="famili-assist-law"></a>**_family assistance law_** has the same meaning as in the _A New Tax System (Family Assistance) (Administration) Act 1999_.
-
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
                     <a name="final-debt-payment-dai"></a>**_final debt payment day_**: see section 175.
@@ -1211,10 +1210,6 @@ Division 2 has the Dictionary (see section 6). The Dictionary is a list of e
                     <a name="garnishe-notic"></a>**_garnishee notice_**: see section 184.
 
                     <a name="holder"></a>**_holder_**, of a visa, has the same meaning as in the _Migration Act 1958_.
-
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
 
                     <a name="incom-test"></a>**_income test_**: see section 37.
 
@@ -1326,13 +1321,17 @@ and, without limiting paragraphs (a), (b) and (c), includes a police reservist
 
                      (a)  the Department; or
 
-                     (b)  the Human Services Department.
+                     (b)  the Commonwealth Services Delivery Agency; or
 
-                    <a name="ppl-agenc-repres"></a>**_PPL agency representative_** means:
+                     (c)  Medicare Australia.
+
+                    <a name="ppl-agenc-head"></a>**_PPL agency head_** means:
 
                      (a)  for the Department—the Secretary; or
 
-                     (b)  for the Human Services Department—the Chief Executive Centrelink or the Chief Executive Medicare.
+                     (b)  for the Commonwealth Services Delivery Agency—the CEO of the Agency; or
+
+                     (c)  for Medicare Australia—the CEO of Medicare Australia.
 
                     <a name=""></a><a name="ppl-dai"></a>**_PPL day_**: see subsection 63(3).
 
@@ -1358,11 +1357,9 @@ and, without limiting paragraphs (a), (b) and (c), includes a police reservist
 
                     <a name="protect-inform"></a>**_protected information_** means:
 
-                    (aa)  information about a person that is or was held in the records of the Department or the Human Services Department; or
+                     (a)  information about a person that is or was held in the records of the Department or the Commonwealth Services Delivery Agency; or
 
-                     (a)  information about a person that was held in the records of the Commonwealth Services Delivery Agency (within the meaning of the _Commonwealth Services Delivery Agency Act 1997_ as in force before 1 July 2011); or
-
-                     (b)  information about a person obtained by an officer under this Act that was held in the records of Medicare Australia (within the meaning of the _Medicare Australia Act 1973_ as in force before 1 July 2011); or
+                     (b)  information about a person obtained by an officer under this Act that is or was held in the records of Medicare Australia; or
 
                      (c)  information to the effect that there is no information about a person held in the records of a PPL agency.
 
@@ -1390,9 +1387,13 @@ and, without limiting paragraphs (a), (b) and (c), includes a police reservist
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
 
-                    <a name="social-secur-act"></a>**_Social Security Act_** means the _Social Security Act 1991_.
+                    <a name="servic-arrang"></a>**_service arrangements_** has the same meaning as in:
 
-                    <a name="social-secur-law"></a>**_social security law_** has the same meaning as in the Social Security Act.
+                     (a)  in relation to the CEO of the Commonwealth Services Delivery Agency—section 3 of the _Commonwealth Services Delivery Agency Act 1997_; and
+
+                     (b)  in relation to the CEO of Medicare Australia—section 3 of the _Medicare Australia Act 1973_.
+
+                    <a name="social-secur-act"></a>**_Social Security Act_** means the _Social Security Act 1991_.
 
                     <a name="special-categori-visa"></a>**_special category visa_** has the same meaning as in the _Migration Act 1958_.
 
@@ -2220,7 +2221,7 @@ Step 4.   Use section 44 to round off the provisional indexed amount: the 
 
              (1)  The **_indexation factor_** is worked out using the following formula and applying subsections (2) and (3):
 
-![](http://www.comlaw.gov.au/Details/C2011C00464/Html/d2e91241-6e82-4637-b152-986e3c3750db_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00404/Html/ec3f52c5-0d67-48d5-a5ec-548516ca2319_files/image002.gif)
 
 where:
 
@@ -2780,7 +2781,7 @@ Note 3:       See section 96 for when the employer is taken to hav
 
                      (c)  the amount of any other instalment that is to be paid to, or in relation to, the person on the payday for the instalment.
 
-##### <a id="74"></a>74  Method of payment of instalment payable by employer
+##### <a id="74"></a>74  Method of payment of instalment payable by employer
 
                    An instalment payable to a person by an employer must be paid in money by one, or a combination, of the following methods:
 
@@ -3930,12 +3931,6 @@ Using protected information
 if the record, disclosure or use of the information by the person is made:
 
                      (d)  for the purposes of this Act; or
-
-                   (da)  for the purposes of the family assistance law; or
-
-                   (db)  for the purposes of the social security law; or
-
-                   (dc)  for the purposes of the _Student Assistance Act 1973_; or
 
                      (e)  for the purposes for which the information was disclosed to the person under section 128; or
 
@@ -5405,7 +5400,7 @@ Working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00464/Html/d2e91241-6e82-4637-b152-986e3c3750db_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00404/Html/ec3f52c5-0d67-48d5-a5ec-548516ca2319_files/image003.gif)
 
 where:
 
@@ -5551,7 +5546,7 @@ Claimant decisions
 
 Application for review
 
-             (4)  A person whose interests are affected by a claimant decision may apply to the Secretary for review of the decision, unless the decision was made personally by a PPL agency representative.
+             (4)  A person whose interests are affected by a claimant decision may apply to the Secretary for review of the decision, unless the decision was made personally by a PPL agency head.
 
              (5)  An application under subsection (4) may only be made:
 
@@ -5585,7 +5580,7 @@ Note 1:       The conditions in paragraphs 101(1)(b) to (e) relate t
 
 Note 2:       Section 109 allows an employer to elect to pay instalments to an employee, a class of employees or all employees of the employer. Subsection 101(2) deals with the application of paragraphs 101(1)(b) and (c) if the employer has made an election under section 109 that applies to the person.
 
-             (4)  However, the employer cannot make an application under subsection (3) for review of an employer determination decision that was made personally by a PPL agency representative.
+             (4)  However, the employer cannot make an application under subsection (3) for review of an employer determination decision that was made personally by a PPL agency head.
 
              (5)  An application under subsection (3) may only be made within the 14 day period referred to in section 103.
 
@@ -5627,7 +5622,7 @@ Application
 
                      (a)  the employer believes that the Secretary has contravened subsection 75(3) in relation to the decision; and
 
-                     (b)  the decision was not made personally by a PPL agency representative.
+                     (b)  the decision was not made personally by a PPL agency head.
 
 Note:          Subsection 75(3) requires the Secretary to pay a PPL funding amount to an employer within a certain time.
 
@@ -5733,7 +5728,7 @@ Notice
 
 * * *
 
-This Part is about the review by the Social Security Appeals Tribunal (SSAT) of decisions that have been reviewed under Part 5‑1, and of decisions made personally by particular PPL agency representatives (which are not subject to internal review).
+This Part is about the review by the Social Security Appeals Tribunal (SSAT) of decisions that have been reviewed under Part 5‑1, and of decisions made personally by particular PPL agency heads (which are not subject to internal review).
 
 Division 2 allows people whose interests are affected by claimant decisions to apply for SSAT review.
 
@@ -5757,7 +5752,7 @@ Division 3 allows employers to apply for SSAT review of employer determination
 
                      (c)  if a claimant decision has been set aside under paragraph 203(4)(c) or subparagraph 205(1)(b)(iii) and substituted with a new decision—the new decision;
 
-                     (d)  a claimant decision made personally by a PPL agency representative.
+                     (d)  a claimant decision made personally by a PPL agency head.
 
              (2)  However, this Division does not apply to any of the following decisions:
 
@@ -5825,7 +5820,9 @@ Note:          See section 217 (which deals with making an a
 
                              (ii)  an office of the Department; or
 
-                            (iii)  if the decision was made by the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department—an office of the Human Services Department; or
+                            (iii)  if the decision was made by the CEO or an employee of the Commonwealth Services Delivery Agency—an office of the Agency; or
+
+                            (iv)  if the decision was made by the CEO or an employee of Medicare Australia—an office of Medicare Australia; or
 
                      (b)  going to an office of the SSAT and making an oral application; or
 
@@ -5849,7 +5846,7 @@ Note:          See section 217 (which deals with making an a
 
                               (i)  substitute a new decision; or
 
-                             (ii)  send the matter back to a PPL agency representative for reconsideration in accordance with any directions or recommendations of the SSAT.
+                             (ii)  send the matter back to a PPL agency head for reconsideration in accordance with any directions or recommendations of the SSAT.
 
 ##### <a id="219"></a>219  SSAT review of claimant decision—powers of the SSAT
 
@@ -5885,9 +5882,9 @@ Note:          See section 217 (which deals with making an a
 
                      (b)  the Secretary; and
 
-                     (c)  if the claimant decision was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink; and
+                     (c)  if the claimant decision was made by the CEO or an employee of the Commonwealth Services Delivery Agency—the CEO of the Agency; and
 
-                     (d)  if the claimant decision was made by the Chief Executive Medicare—the Chief Executive Medicare; and
+                     (d)  if the claimant decision was made by the CEO or an employee of Medicare Australia—the CEO of Medicare Australia; and
 
                      (e)  any other person who has been made a party to the review under subsection (3).
 
@@ -5923,7 +5920,7 @@ Principal Member may remove parties
 
                      (c)  if an employer determination decision or an employer funding amount decision has been set aside and substituted with a new decision under Part 5‑1—the new decision;
 
-                     (d)  an employer determination decision or an employer funding amount decision made personally by a PPL agency representative.
+                     (d)  an employer determination decision or an employer funding amount decision made personally by a PPL agency head.
 
 Note:          Part 5‑1 deals with internal review.
 
@@ -5985,7 +5982,7 @@ Note:          See section 225 (which deals with making an a
 
                               (i)  substitute a new decision; or
 
-                             (ii)  send the matter back to a PPL agency representative for reconsideration in accordance with any directions or recommendations of the SSAT.
+                             (ii)  send the matter back to a PPL agency head for reconsideration in accordance with any directions or recommendations of the SSAT.
 
 ##### <a id="227"></a>227  SSAT review of employer decision—powers of the SSAT
 
@@ -6021,9 +6018,9 @@ Note:          See section 225 (which deals with making an a
 
                      (b)  the Secretary; and
 
-                     (c)  if the relevant decision was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink; and
+                     (c)  if the relevant decision was made by the CEO or an employee of the Commonwealth Services Delivery Agency—the CEO of the Agency; and
 
-                     (d)  if the relevant decision was made by the Chief Executive Medicare—the Chief Executive Medicare.
+                     (d)  if the relevant decision was made by the CEO or an employee of Medicare Australia—the CEO of Medicare Australia.
 
 ## Part 5‑3—Procedures for review by the Social Security Appeals Tribunal
 
@@ -6037,9 +6034,9 @@ This Part is about the procedures to be followed when the Social Security Appeal
 
 Division 2 requires the Secretary and the Principal Member to prepare for the review, arrange for a hearing and notify parties and potential parties.
 
-Division 3 sets out how people other than PPL agency representatives may make submissions to the SSAT.
+Division 3 sets out how people other than PPL agency heads may make submissions to the SSAT.
 
-Division 4 sets out how PPL agency representatives may make submissions to the SSAT.
+Division 4 sets out how PPL agency heads may make submissions to the SSAT.
 
 Division 5 contains other evidentiary provisions, including the Principal Member’s power to obtain information.
 
@@ -6061,7 +6058,7 @@ Division 11 allows a party to an SSAT review of an employer decision to appeal
 
 ##### <a id="232"></a>232  Procedure on receipt of application for review by SSAT
 
-             (1)  If an application for review by the SSAT of a decision is sent or delivered to an office of the Department or of the Human Services Department, the Secretary must send the application to the Principal Member as soon as practicable and, in any case, not later than 7 days after the application is received at the office.
+             (1)  If an application for review by the SSAT of a decision is sent or delivered to an office of the Department, of the Commonwealth Services Delivery Agency or of Medicare Australia, the Secretary must send the application to the Principal Member as soon as practicable and, in any case, not later than 7 days after the application is received at the office.
 
              (2)  If:
 
@@ -6129,7 +6126,7 @@ Offence
 
                     Penalty for contravention of this subsection:        Imprisonment for 2 years.
 
-##### <a id="234"></a>234  Arrangements for hearing of application
+##### <a id="234"></a>234  Arrangements for hearing of application
 
              (1)  If an application is made to the SSAT for review of a decision, the Principal Member must fix a day, time and place for the hearing of the application.
 
@@ -6157,11 +6154,11 @@ the Principal Member must take all reasonable steps to give the person written n
 
              (3)  The Principal Member must give each party to the review a copy of the notice.
 
-### Division 3—Submissions from parties other than PPL agency representatives
+### Division 3—Submissions from parties other than PPL agency heads
 
-##### <a id="236"></a>236  Division does not apply in relation to PPL agency representatives
+##### <a id="236"></a>236  Division does not apply in relation to PPL agency heads
 
-                   This Division does not apply in relation to a party to a review of a decision who is a PPL agency representative.
+                   This Division does not apply in relation to a party to a review of a decision who is a PPL agency head.
 
 ##### <a id="237"></a>237  Submissions to SSAT
 
@@ -6233,15 +6230,15 @@ the Principal Member may authorise the SSAT to proceed to hear the application w
 
              (5)  The Principal Member may revoke an authorisation under subsection (2) or (3).
 
-### Division 4—Submissions from PPL agency representatives
+### Division 4—Submissions from PPL agency heads
 
-##### <a id="240"></a>240  Submissions from PPL agency representatives
+##### <a id="240"></a>240  Submissions from PPL agency heads
 
-             (1)  A PPL agency representative who is a party to a review of a decision may make written submissions to the SSAT.
+             (1)  A PPL agency head who is a party to a review of a decision may make written submissions to the SSAT.
 
-PPL agency representative may request permission to make oral submissions etc.
+PPL agency head may request permission to make oral submissions etc.
 
-             (2)  The PPL agency representative may, by writing, request the Principal Member for permission to make:
+             (2)  The PPL agency head may, by writing, request the Principal Member for permission to make:
 
                      (a)  oral submissions to the SSAT; or
 
@@ -6251,9 +6248,9 @@ The request must explain how such submissions would assist the SSAT.
 
              (3)  The Principal Member may, by writing, grant the request if, in the opinion of the Principal Member taking into account the objective laid down by section 214, such submissions would assist the SSAT.
 
-SSAT may order PPL agency representative to make oral submissions etc.
+SSAT may order PPL agency head to make oral submissions etc.
 
-             (4)  The Principal Member may order the PPL agency representative to make:
+             (4)  The Principal Member may order the PPL agency head to make:
 
                      (a)  oral submissions to the SSAT; or
 
@@ -6263,7 +6260,7 @@ if, in the opinion of the Principal Member taking into account the objective lai
 
 Oral submissions by telephone etc.
 
-             (5)  For the purposes of subsections (3) and (4), the Principal Member may determine that oral submissions to the SSAT by the PPL agency representative are to be made by telephone or by means of other electronic communications equipment.
+             (5)  For the purposes of subsections (3) and (4), the Principal Member may determine that oral submissions to the SSAT by the PPL agency head are to be made by telephone or by means of other electronic communications equipment.
 
              (6)  Subsection (5) does not limit subsection (3) or (4).
 
@@ -6575,9 +6572,9 @@ SSAT affirms decision
 
              (2)  If the SSAT does not give a written statement to a party under subparagraph (1)(c)(ii), the party may, within 14 days after the copy of the initial statement is given to the party, make a written request of the SSAT for such a statement.
 
-             (3)  A PPL agency representative may also make a written request of the SSAT for a written statement referred to in subparagraph (1)(c)(ii) if:
+             (3)  A PPL agency head may also make a written request of the SSAT for a written statement referred to in subparagraph (1)(c)(ii) if:
 
-                     (a)  the SSAT has not given such a statement to the PPL agency representative; and
+                     (a)  the SSAT has not given such a statement to the PPL agency head; and
 
                      (b)  a person applies to the AAT under section 261 for review of the decision of the SSAT on the review referred to in subsection (1).
 
@@ -6605,7 +6602,7 @@ SSAT varies decision or sets decision aside
 
 Notice of further review right
 
-             (6)  When the SSAT determines a review in relation to an SSAT reviewable claimant decision, the Principal Member must give each party to the review (other than a PPL agency representative) a written notice that includes a statement to the effect that, if the party is dissatisfied with the decision of the SSAT, application may, subject to the AAT Act, be made to the AAT for review of the decision.
+             (6)  When the SSAT determines a review in relation to an SSAT reviewable claimant decision, the Principal Member must give each party to the review (other than a PPL agency head) a written notice that includes a statement to the effect that, if the party is dissatisfied with the decision of the SSAT, application may, subject to the AAT Act, be made to the AAT for review of the decision.
 
 ### Division 10—Correction of errors in decisions or statements of reasons
 
@@ -6759,9 +6756,9 @@ the applicant may, instead of proceeding with the application under subsection�
 
              (1)  The AAT Act applies to an application under section 261 for review as if references in section 37 of the AAT Act to the person who made the decision the subject of the application were references to the following person (the **_deemed decision‑maker_**):
 
-                     (a)  if the decision that was reviewed by the SSAT was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink;
+                     (a)  if the decision that was reviewed by the SSAT was made by the CEO or an employee of the Commonwealth Services Delivery Agency—the CEO of the Agency;
 
-                     (b)  if the decision that was reviewed by the SSAT was made by the Chief Executive Medicare—the Chief Executive Medicare;
+                     (b)  if the decision that was reviewed by the SSAT was made by the CEO or an employee of Medicare Australia—the CEO of Medicare Australia;
 
                      (c)  otherwise—the Secretary.
 
@@ -7373,23 +7370,19 @@ Division 4 deals with other miscellaneous matters (such as delegations and reg
 
                             (iii)  an organisation that performs services for the Commonwealth;
 
-                            but not including the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department _._
+                            but does not include the CEO or an employee of the Commonwealth Services Delivery Agency _._
 
-             (2)  The Secretary may, in writing, delegate all or any of his or her powers under this Act (other than Divisions 3 and 5 of Part 4‑2 and paragraph 128(1)(b) (which deal with civil penalty orders, infringement notices and disclosing information to Agency Heads)) to the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department.
+             (2)  The Secretary may, in writing and in accordance with service arrangements, delegate all or any of his or her powers under this Act (other than Divisions 3 and 5 of Part 4‑2 and paragraph 128(1)(b) (which deal with civil penalty orders, infringement notices and disclosing information to Agency Heads)) to the CEO of, or an employee of, the Commonwealth Services Delivery Agency or Medicare Australia.
 
              (3)  The Secretary may, in writing, delegate the Secretary’s powers under Division 3 or 5 of Part 4‑2 (which deal with civil penalty orders and infringement notices) to:
 
-                     (a)  the Chief Executive Centrelink; or
-
-                    (aa)  the Chief Executive Medicare; or
+                     (a)  the CEO of the Commonwealth Services Delivery Agency or Medicare Australia; or
 
                      (b)  an SES employee or an acting SES employee.
 
-             (4)  The Secretary cannot delegate to anyone except the Chief Executive Centrelink or the Chief Executive Medicare the Secretary’s power under paragraph 128(1)(b) to disclose information to an Agency Head (within the meaning of the _Public Service Act 1999_).
+             (4)  The Secretary cannot delegate to anyone except the CEO of the Commonwealth Services Delivery Agency or Medicare Australia the Secretary’s power under paragraph 128(1)(b) to disclose information to an Agency Head (within the meaning of the _Public Service Act 1999_).
 
-             (5)  If the Secretary delegates the power mentioned in subsection (4) to the Chief Executive Centrelink, the Chief Executive Centrelink cannot, despite any other provision in the _Human Services (Centrelink) Act 1997_, delegate that power to a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_).
-
-             (6)  If the Secretary delegates the power mentioned in subsection (4) to the Chief Executive Medicare, the Chief Executive Medicare cannot, despite any other provision in the _Human Services (Medicare) Act 1973_, delegate that power to a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_).
+             (5)  If the Secretary delegates that power to a CEO, the CEO cannot, despite any other provision in the _Commonwealth Services Delivery Agency Act 1997_ or the _Medicare Australia Act 1973_, delegate the power to an employee of the Commonwealth Services Delivery Agency or Medicare Australia.
 
 ##### <a id="304"></a>304  Decisions to be in writing
 
@@ -7546,7 +7539,7 @@ of Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 468–505): 1 July 2011</div>
+    <div>Schedule 4 (items 468–505): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -7575,15 +7568,15 @@ of Assent</div>
       <div>How affected</div>
     </td>
   </tr>
+  <tr>
+    <td>
+      <div><b>Chapter 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Chapter 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
 <tr>
   <td>
     <div><b>Part 1‑2</b></div>
@@ -7605,354 +7598,276 @@ of Assent</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. Nos. 5 and 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4‑1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 127</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5‑1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 206–208</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5‑2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 213</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 215</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 217, 218</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 222</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 223</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 226</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 230</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5‑3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 231</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 232</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of 
-Part 5-3</div>
-  </td>
-  <td>
-    <div>rs. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 236</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 236</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of 
-Part 5-3</div>
-  </td>
-  <td>
-    <div>rs. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 240</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 240(2)</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 240(4)</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 240</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 257</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5‑4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 266</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6‑3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 303</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
+    <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 468  Section 6 (definition of _CEO_)
+
+Repeal the definition.
+
+## 469  Section 6
+
+Insert:
+
+                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+
+## 470  Section 6
+
+Insert:
+
+                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 470A  Section 6
+
+Insert:
+
+                    <a name="famili-assist-law"></a>**_family assistance law_** has the same meaning as in the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+
+## 471  Section 6
+
+Insert:
+
+                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
+
+## 472  Section 6
+
+Insert:
+
+                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
+
+## 473  Section 6 (paragraphs (b) and (c) of the definition of _PPL agency_)
+
+Repeal the paragraphs, substitute:
+
+                     (b)  the Human Services Department.
+
+## 474  Section 6 (definition of _PPL agency head_)
+
+Repeal the definition.
+
+## 475  Section 6
+
+Insert:
+
+                    <a name="ppl-agenc-repres"></a>**_PPL agency representative_** means:
+
+                     (a)  for the Department—the Secretary; or
+
+                     (b)  for the Human Services Department—the Chief Executive Centrelink or the Chief Executive Medicare.
+
+## 476  Section 6 (before paragraph (a) of the definition of _protected information_)
+
+Insert:
+
+                    (aa)  information about a person that is or was held in the records of the Department or the Human Services Department; or
+
+## 477  Section 6 (paragraph (a) of the definition of _protected information_)
+
+Omit “is or was held in the records of the Department or the Commonwealth Services Delivery Agency”, substitute “was held in the records of the Commonwealth Services Delivery Agency (within the meaning of the _Commonwealth Services Delivery Agency Act 1997_ as in force before 1 July 2011)”.
+
+## 478  Section 6 (paragraph (b) of the definition of _protected information_)
+
+Omit “is or was held in the records of Medicare Australia”, substitute “was held in the records of Medicare Australia (within the meaning of the _Medicare Australia Act 1973_ as in force before 1 July 2011)”.
+
+## 479  Section 6 (definition of _service arrangements_)
+
+Repeal the definition.
+
+## 479A  Section 6
+
+Insert:
+
+                    <a name="social-secur-law"></a>**_social security law_** has the same meaning as in the Social Security Act.
+
+## 479B  After paragraph 127(2)(d)
+
+Insert:
+
+                   (da)  for the purposes of the family assistance law; or
+
+                   (db)  for the purposes of the social security law; or
+
+                   (dc)  for the purposes of the _Student Assistance Act 1973_; or
+
+## 480  Subsection 206(4)
+
+Omit “PPL agency head”, substitute “PPL agency representative”.
+
+## 481  Subsection 207(4)
+
+Omit “PPL agency head”, substitute “PPL agency representative”.
+
+## 482  Paragraph 208(4)(b)
+
+Omit “PPL agency head”, substitute “PPL agency representative”.
+
+## 483  Section 213
+
+Omit:
+
+* * *
+
+This Part is about the review by the Social Security Appeals Tribunal (SSAT) of decisions that have been reviewed under Part 5‑1, and of decisions made personally by particular PPL agency heads (which are not subject to internal review).
+
+* * *
+
+substitute:
+
+* * *
+
+This Part is about the review by the Social Security Appeals Tribunal (SSAT) of decisions that have been reviewed under Part 5‑1, and of decisions made personally by particular PPL agency representatives (which are not subject to internal review).
+
+* * *
+
+## 484  Paragraph 215(1)(d)
+
+Omit “PPL agency head”, substitute “PPL agency representative”.
+
+## 485  Subparagraphs 217(1)(a)(iii) and (iv)
+
+Repeal the subparagraphs, substitute:
+
+                            (iii)  if the decision was made by the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department—an office of the Human Services Department; or
+
+## 486  Subparagraph 218(c)(ii)
+
+Omit “PPL agency head”, substitute “PPL agency representative”.
+
+## 487  Paragraphs 222(1)(c) and (d)
+
+Repeal the paragraphs, substitute:
+
+                     (c)  if the claimant decision was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink; and
+
+                     (d)  if the claimant decision was made by the Chief Executive Medicare—the Chief Executive Medicare; and
+
+## 488  Paragraph 223(1)(d)
+
+Omit “PPL agency head”, substitute “PPL agency representative”.
+
+## 489  Subparagraph 226(c)(ii)
+
+Omit “PPL agency head”, substitute “PPL agency representative”.
+
+## 490  Paragraphs 230(c) and (d)
+
+Repeal the paragraphs, substitute:
+
+                     (c)  if the relevant decision was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink; and
+
+                     (d)  if the relevant decision was made by the Chief Executive Medicare—the Chief Executive Medicare.
+
+## 491  Section 231
+
+Omit:
+
+* * *
+
+Division 3 sets out how people other than PPL agency heads may make submissions to the SSAT.
+
+Division 4 sets out how PPL agency heads may make submissions to the SSAT.
+
+* * *
+
+substitute:
+
+* * *
+
+Division 3 sets out how people other than PPL agency representatives may make submissions to the SSAT.
+
+Division 4 sets out how PPL agency representatives may make submissions to the SSAT.
+
+* * *
+
+## 492  Subsection 232(1)
+
+Omit “, of the Commonwealth Services Delivery Agency or of Medicare Australia”, substitute “or of the Human Services Department”.
+
+## 493  Division 3 of Part 5‑3 (heading)
+
+Repeal the heading, substitute:
+
+### Division 3—Submissions from parties other than PPL agency representatives
+
+## 494  Section 236
+
+Omit “PPL agency head”, substitute “PPL agency representative”.
+
+_Note:       The heading to section 236 is altered by omitting “PPL agency heads” and substituting “PPL agency representatives”._
+
+## 495  Division 4 of Part 5‑3 (heading)
+
+Repeal the heading, substitute:
+
+### Division 4—Submissions from PPL agency representatives
+
+## 496  Section 240
+
+Omit “PPL agency head” (wherever occurring), substitute “PPL agency representative”.
+
+_Note 1:    The heading to section 240 is altered by omitting “PPL agency heads” and substituting “PPL agency representatives”._
+
+_Note 2:    The heading to subsection 240(2) is altered by omitting “PPL agency head” and substituting “PPL agency representative”._
+
+_Note 3:    The heading to subsection 240(4) is altered by omitting “PPL agency head” and substituting “PPL agency representative”._
+
+## 497  Subsection 257(3)
+
+Omit “PPL agency head” (wherever occurring), substitute “PPL agency representative”.
+
+## 498  Subsection 257(6)
+
+Omit “PPL agency head”, substitute “PPL agency representative”.
+
+## 499  Paragraphs 266(1)(a) and (b)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  if the decision that was reviewed by the SSAT was made by the Chief Executive Centrelink or an APS employee in the Human Services Department—the Chief Executive Centrelink;
+
+                     (b)  if the decision that was reviewed by the SSAT was made by the Chief Executive Medicare—the Chief Executive Medicare;
+
+## 500  Paragraph 303(1)(b)
+
+Omit “but does not include the CEO or an employee of the Commonwealth Services Delivery Agency”, substitute “but not including the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department”.
+
+## 501  Subsection 303(2)
+
+Omit “and in accordance with service arrangements”.
+
+## 502  Subsection 303(2)
+
+Omit “the CEO of, or an employee of, the Commonwealth Services Delivery Agency or Medicare Australia”, substitute “the Chief Executive Centrelink, the Chief Executive Medicare or an APS employee in the Human Services Department”.
+
+## 503  Paragraph 303(3)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  the Chief Executive Centrelink; or
+
+                    (aa)  the Chief Executive Medicare; or
+
+## 504  Subsection 303(4)
+
+Omit “the CEO of the Commonwealth Services Delivery Agency or Medicare Australia”, substitute “the Chief Executive Centrelink or the Chief Executive Medicare”.
+
+## 505  Subsection 303(5)
+
+Repeal the subsection, substitute:
+
+             (5)  If the Secretary delegates the power mentioned in subsection (4) to the Chief Executive Centrelink, the Chief Executive Centrelink cannot, despite any other provision in the _Human Services (Centrelink) Act 1997_, delegate that power to a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_).
+
+             (6)  If the Secretary delegates the power mentioned in subsection (4) to the Chief Executive Medicare, the Chief Executive Medicare cannot, despite any other provision in the _Human Services (Medicare) Act 1973_, delegate that power to a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_).
+
+As at 30 May 2011 the amendments are not incorporated in this compilation.
 
  
