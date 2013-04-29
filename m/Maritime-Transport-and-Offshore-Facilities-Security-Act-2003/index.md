@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00052/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00602/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
 
 # Maritime Transport and Offshore Facilities Security Act 2003
 
 **Act No. 131 of 2003 as amended**
 
-This compilation was prepared on 6 January 2009
- taking into account amendments up to Act No. 138 of 2008
+This compilation was prepared on 25 November 2008
+ taking into account amendments up to Act No. 117 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1219,7 +1219,7 @@ Part 13 deals with miscellaneous matters.
 
                              (ii)  on or near a foreign ship regulated as an offshore facility.
 
-##### <a id="7"></a>7  Act to bind Crown
+##### <a id="7"></a>7  Act to bind Crown
 
              (1)  This Act binds the Crown in each of its capacities.
 
@@ -3053,7 +3053,7 @@ Note:          The maritime security outcomes are set out in s
 
 ##### <a id="68"></a>68  Form of ship security plans
 
-                   A ship security plan must be:
+                   A ship security plan must be:
 
                      (a)  in writing; and
 
@@ -3465,7 +3465,7 @@ Division 3 provides for the Secretary to give control directions to regulated 
 
 ### Division 2—Obligations on regulated foreign ships
 
-##### <a id="91"></a>91  Regulated foreign ships must have ISSCs
+##### <a id="91"></a>91  Regulated foreign ships must have ISSCs
 
              (1)  The ship operator for a regulated foreign ship must:
 
@@ -3739,7 +3739,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  Subsection (1) is an offence of strict liability.
 
-##### <a id="100D"></a>100D  Offence—failing to comply with offshore security plan
+##### <a id="100D"></a>100D  Offence—failing to comply with offshore security plan
 
              (1)  An offshore industry participant commits an offence if:
 
@@ -4213,7 +4213,7 @@ the ship is no longer **_ISSC verified_**.
 
                      (b)  the ship is no longer ISSC verified.
 
-##### <a id="100ZC"></a>100ZC  Interim ISSCs
+##### <a id="100ZC"></a>100ZC  Interim ISSCs
 
              (1)  If:
 
@@ -7502,7 +7502,7 @@ Remainder: Royal Assent</div>
     <div>27 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1) and Schedule 2: 28 Sept 2006 
+    <div>Schedule 1 (item 1) and Schedule 2: 28 Sept 2006 
 Schedule 1 (items 2–4): 27 Mar 2007 
 Remainder: Royal Assent</div>
   </td>
@@ -7539,27 +7539,10 @@ Schedule 2 (items 36, 37): Royal Assent</div>
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (items 17, 18): 22 Nov 2008</div>
+    <div>Schedule 3 (items 17, 18): 22 Nov 2008</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport Security Amendment (2008 Measures No. 1) Act 2008</div>
-  </td>
-  <td>
-    <div>138, 2008</div>
-  </td>
-  <td>
-    <div>8 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 12–59): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 29, 47)</div>
   </td>
 </tr></table>
 
@@ -9731,247 +9714,6 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
   </td>
 </tr></table>
 
-### Note 2
-
-_Transport Security Amendment (2008 Measures No. 1) Act 2008 
- (No. 138, 2008)_
-
-The following amendments commence on 8 February 2009:
-
-## Schedule 1
-
-## 12  Section 10
-
-Insert:
-
-                    <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
-
-## 13  Section 10 (definition of _port facility_)
-
-Before “ships”, insert “security regulated”.
-
-## 14  Section 42
-
-Before “The”, insert “(1)”.
-
-## 15  At the end of section 42
-
-Add:
-
-             (2)  The Secretary may, by written notice given to a maritime industry participant, permit the participant to have more than one maritime security plan.
-
-             (3)  The notice must specify the operations or locations to be covered by each plan.
-
-             (4)  If the participant has more than one plan, the participant is required to have all of the plans specified in the notice.
-
-## 16  Paragraph 43(1)(c)
-
-Omit “no maritime security”, substitute “not such a”.
-
-## 17  Paragraph 44(1)(b)
-
-Omit “a maritime security”, substitute “such a”.
-
-## 18  Paragraph 47(1)(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  include a security assessment for:
-
-                              (i)  the participant’s operation; or
-
-                             (ii)  if the participant has more than one maritime security plan—the operations or locations covered by the plan; and
-
-## 19  Paragraph 47(1)(b)
-
-After “participant”, insert “under the plan”.
-
-## 20  Subsection 49(2)
-
-Omit “be accompanied by”, substitute “include”.
-
-## 21  Subsection 49(3)
-
-Repeal the subsection, substitute:
-
-             (3)  The maritime security plan for a port operator for a security regulated port must include a map of the whole security regulated port.
-
-## 22  Subsection 52(3)
-
-Omit “until”, substitute “for a period of 5 years or such lesser period as the Secretary specifies in the notice of approval (which must be at least 12 months), unless before the end of that period”.
-
-## 23  Subsection 52A(3)
-
-Omit “be accompanied by”, substitute “include”.
-
-## 24  After subsection 52A(3)
-
-Insert:
-
-          (3A)  The notice must be prepared in accordance with any requirements set out in the regulations.
-
-## 25  Subsection 54(1)
-
-Repeal the subsection, substitute:
-
-             (1)  If a maritime security plan for a maritime industry participant (the **_existing plan_**) is in force, the participant may, by written notice given to the Secretary, request the Secretary to approve another maritime security plan (the **_revised plan_**) in its place.
-
-## 26  Subsection 54(4)
-
-Repeal the subsection, substitute:
-
-             (4)  If the revised plan comes into force, it replaces the existing plan.
-
-## 27  Subsection 55(4)
-
-Repeal the subsection, substitute:
-
-             (4)  If the revised plan comes into force, it replaces the existing plan.
-
-## 28  Section 56
-
-Repeal the section.
-
-## 30  Subsection 71(3)
-
-Omit “until”, substitute “for a period of 5 years or such lesser period as the Secretary specifies in the notice of approval (which must be at least 12 months), unless before the end of that period”.
-
-## 31  After subsection 71A(2)
-
-Insert:
-
-          (2A)  The notice must be prepared in accordance with any requirements set out in the regulations.
-
-## 32  Section 75
-
-Repeal the section.
-
-## 33  Section 100B
-
-Before “The”, insert “(1)”.
-
-## 34  At the end of section 100B
-
-Add:
-
-             (2)  The Secretary may, by written notice given to an offshore industry participant, permit the participant to have more than one offshore security plan.
-
-             (3)  The notice must specify the operations or locations to be covered by each plan.
-
-             (4)  If the participant has more than one plan, the participant is required to have all of the plans specified in the notice.
-
-## 35  Paragraph 100C(1)(b)
-
-Omit “no offshore security”, substitute “not such a”.
-
-## 36  Paragraph 100D(1)(b)
-
-Omit “an offshore security”, substitute “such a”.
-
-## 37  Paragraph 100G(1)(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  include a security assessment for:
-
-                              (i)  the participant’s operation; or
-
-                             (ii)  if the participant has more than one offshore security plan—the operations or locations covered by the plan; and
-
-## 38  Paragraph 100G(1)(b)
-
-After “participant”, insert “under the plan”.
-
-## 39  Subsection 100I(2)
-
-Omit “be accompanied by”, substitute “include”.
-
-## 40  Subsection 100L(3)
-
-Omit “until”, substitute “for a period of 5 years or such lesser period as the Secretary specifies in the notice of approval (which must be at least 12 months), unless before the end of that period”.
-
-## 41  Subsection 100LA(3)
-
-Omit “be accompanied by”, substitute “include”.
-
-## 42  After subsection 100LA(3)
-
-Insert:
-
-          (3A)  The notice must be prepared in accordance with any requirements set out in the regulations.
-
-## 43  Subsection 100N(1)
-
-Repeal the subsection, substitute:
-
-             (1)  If an offshore security plan for an offshore industry participant (the **_existing plan_**) is in force, the participant may, by written notice given to the Secretary, request the Secretary to approve another offshore security plan (the **_revised plan_**) in its place.
-
-## 44  Subsection 100N(4)
-
-Repeal the subsection, substitute:
-
-             (4)  If the revised plan comes into force, it replaces the existing plan.
-
-## 45  Subsection 100O(4)
-
-Repeal the subsection, substitute:
-
-             (4)  If the revised plan comes into force, it replaces the existing plan.
-
-## 46  Section 100P
-
-Repeal the section.
-
-## 48  Paragraph 102(2A)(a)
-
-Omit “is accompanied by”, substitute “includes”.
-
-## 49  Subsection 102(2A)
-
-Omit “accompanying”, substitute “included in”.
-
-## 50  Paragraph 102(2B)(a)
-
-Omit “is accompanied by”, substitute “includes”.
-
-## 51  Subsection 102(2B)
-
-Omit “accompanying”, substitute “included in”.
-
-## 52  Paragraph 113A(2A)(a)
-
-Omit “is accompanied by”, substitute “includes”.
-
-## 53  Subsection 113A(2A)
-
-Omit “accompanying”, substitute “included in”.
-
-## 54  Paragraph 113A(2B)(a)
-
-Omit “is accompanied by”, substitute “includes”.
-
-## 55  Paragraph 113A(2B)(b)
-
-Omit “port”, substitute “offshore facility”.
-
-## 56  Subsection 113A(2B)
-
-Omit “accompanying”, substitute “included in”.
-
-## 57  Subsection 199(1)
-
-Omit “of the”, substitute “of a”.
-
-## 58  Subsection 200A(1)
-
-Omit “of the”, substitute “of an”.
-
-## 59  Paragraph 201(d)
-
-After “cancel”, insert “the approval of”.
-
-As at 6 January 2009 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -10067,38 +9809,5 @@ _Maritime Transport and Offshore Facilities Security Amendment (Security Plans a
 (4)        Subsection 102(2A) of the _Maritime Transport and Offshore Facilities Security Act 2003_ as in force after the commencement of item 39 of this Schedule applies to a maritime security plan in relation to which a notice is given approving the plan under paragraph 51(1)(b) of that Act after the commencement of that item.
 
 (5)        Subsection 113A(2A) of the _Maritime Transport and Offshore Facilities Security Act 2003_ as in force after the commencement of item 40 of this Schedule applies to an offshore security plan in relation to which a notice is given approving the plan under paragraph 100K(1)(b) of that Act after the commencement of that item.
-
-* * *
-
-_Transport Security Amendment (2008 Measures No. 1) Act 2008 
- (No. 139, 2008)_
-
-_The following provisions commence on the 8 February 2009:_
-
-## Schedule 1
-
-## 29  Saving and transitional provisions for multiple plans
-
-Saving
-
-(1)        The _Maritime Transport and Offshore Facilities Security Act 2003_, as in force at any time before the commencement of this Act, is taken not to have prevented more than one maritime security plan from being in force at the same time for a maritime industry participant, so long as those plans covered different operations or locations.
-
-(2)        However, if, because of the operation of subitem (1), there was more than one maritime security plan in force for a maritime industry participant at any time, the _Maritime Transport and Offshore Facilities Security Act 2003_ is taken to have applied, in relation to each of those plans, as if it were the only plan for the participant.
-
-Transitional
-
-(3)        If, at the commencement of this Act, there is more than one maritime security plan in force for a maritime industry participant, then the Secretary is taken, at that time, to have given the participant a notice under subsection 42(2) of the _Maritime Transport and Offshore Facilities Security Act 2003_, that specifies the operation or location covered by each of those plans.
-
-## 47  Saving and transitional provisions for multiple plans
-
-Saving
-
-(1)        The _Maritime Transport and Offshore Facilities Security Act 2003_, as in force at any time before the commencement of this Act, is taken not to have prevented more than one offshore security plan from being in force at the same time for an offshore industry participant, so long as those plans covered different operations or locations.
-
-(2)        However, if, because of the operation of subitem (1), there was more than one offshore security plan in force for an offshore industry participant at any time, the _Maritime Transport and Offshore Facilities Security Act 2003_ is taken to have applied, in relation to each of those plans, as if it were the only plan for the participant.
-
-Transitional
-
-(3)        If, at the commencement of this Act, there is more than one offshore security plan in force for an offshore industry participant, then the Secretary is taken, at that time, to have given the participant a notice under subsection 100B(2) of the _Maritime Transport and Offshore Facilities Security Act 2003_, that specifies the operation or location covered by each of those plans.
 
  
