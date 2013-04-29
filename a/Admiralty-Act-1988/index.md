@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00448/Html/AdmiraltyAct88WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00387/Html/AdmiraltyAct88WD02_image001.gif)
 
 # Admiralty Act 1988
 
 **Act No. 34 of 1988 as amended**
 
-This compilation was prepared on 25 July 2008
- taking into account amendments up to Act No. 77 of 2008
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1152,23 +1152,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>77, 2008</div>
-  </td>
-  <td>
-    <div>12 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–4): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1290,46 +1273,6 @@ of Assent</div>
     <div>am. No. 23, 2006</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008 (No. 77, 2008)_
-
-The following amendments commence on the day on which the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, done at London on 23 March 2001, enters into force for Australia. However, the amendments may not commence at all, _see_ section 2(1) (item 2):
-
-## Schedule 1
-
-## 1  At the end of paragraphs 4(3)(a) and (b)
-
-Add “or”.
-
-## 2  After paragraph 4(3)(b)
-
-Insert:
-
-                    (ba)  a claim under:
-
-                              (i)  the applied provisions (within the meaning of the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_); or
-
-                             (ii)  a law of a State or Territory of a kind referred to in subsection 10(1) of that Act; or
-
-## 3  At the end of paragraphs 4(3)(c), (d), (e), (f), (g), (h), (j), (k), (m), (n), (o), (p), (q), (r), (s), (t) and (u)
-
-Add “or”.
-
-## 4  At the end of Part III
-
-Add:
-
-##### <a id="26A"></a>26A  Proceedings in accordance with the Bunker Oil Convention
-
-             (1)  A proceeding under this Act on a maritime claim referred to in paragraph 4(3)(ba) must not be brought otherwise than in accordance with paragraphs 1 and 2 of Article 9 of the Bunker Oil Convention, whether or not the proceeding also relates to another maritime claim or to a maritime lien or other charge.
-
-             (2)  In this section:
-
-                    <a name="bunker-oil-convent"></a>**_Bunker Oil Convention_** has the same meaning as in the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_.
-
-As at 25 July 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
