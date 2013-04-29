@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00508/Html/68385615-4ff1-4112-a80f-17c70c5ed126_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00118/Html/f4eecb99-6f8c-4987-82ea-9bc9ddff77b3_files/image001.gif)
 
 # Agricultural and Veterinary Chemicals (Administration) Act 1992
 
 **Act No. 262 of 1992 as amended**
 
-This compilation was prepared on 7 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 March 2011
+ taking into account amendments up to Act No. 121 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -212,9 +212,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [69EB](#69EB).     Searches to monitor compliance with Part
 
-[69EC](#69EC).     Offence‑related searches and seizures
+[69EC](#69EC).     Offence-related searches and seizures
 
-[69ED](#69ED).     Offence‑related warrants
+[69ED](#69ED).     Offence-related warrants
 
 [69EE](#69EE).     Announcement before entry
 
@@ -242,7 +242,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [69EP](#69EP).     Hearings
 
-[69EQ](#69EQ).     Self‑incrimination to be a reasonable excuse for non‑compliance with requirement
+[69EQ](#69EQ).     Self-incrimination to be a reasonable excuse for non-compliance with requirement
 
 [69ER](#69ER).     Copying of documents
 
@@ -388,15 +388,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  to assess the suitability for sale in Australia of active constituents for proposed or existing chemical products, chemical products and labels for containers for chemical products;
 
-                     (b)  to provide information to the Governments and authorities of the Commonwealth, the States and the participating Territories about approved active constituents for proposed or existing chemical products, registered chemical products, registered listed chemical products, reserved chemical products and approved labels for containers for chemical products and to co‑operate with those Governments and authorities on matters relating to the management and control of chemical products;
+                     (b)  to provide information to the Governments and authorities of the Commonwealth, the States and the participating Territories about approved active constituents for proposed or existing chemical products, registered chemical products, registered listed chemical products, reserved chemical products and approved labels for containers for chemical products and to co-operate with those Governments and authorities on matters relating to the management and control of chemical products;
 
                      (c)  to keep records and statistics of approvals and registrations granted, and permits and licences issued, by it under the Agvet Codes;
 
                      (d)  to evaluate the effects of the use of chemical products in the States and participating Territories;
 
-                     (e)  to co‑operate with Governments and authorities of the Commonwealth, the States and the participating Territories for the purpose of facilitating a consistent approach to the assessment and control of chemicals;
+                     (e)  to co-operate with Governments and authorities of the Commonwealth, the States and the participating Territories for the purpose of facilitating a consistent approach to the assessment and control of chemicals;
 
-                      (f)  in co‑operation with Governments and authorities of the Commonwealth, the States and the participating Territories, to develop codes of practice, standards and guidelines for, and to recommend precautions to be taken in connection with, the manufacture, export, import, sale, handling, possession, storage, disposal and use of chemical products in the States and participating Territories;
+                      (f)  in co-operation with Governments and authorities of the Commonwealth, the States and the participating Territories, to develop codes of practice, standards and guidelines for, and to recommend precautions to be taken in connection with, the manufacture, export, import, sale, handling, possession, storage, disposal and use of chemical products in the States and participating Territories;
 
                      (g)  to collect, interpret, disseminate and publish information relating to chemical products and their use;
 
@@ -408,7 +408,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (k)  to encourage and facilitate the introduction of uniform national procedures for control of the use of chemical products;
 
-                      (l)  to fund, and co‑operate in, a program designed to ensure that active constituents for proposed or existing chemical products, chemical products, and labels for containers for chemical products, comply with the Agvet Codes and the Agvet Regulations.
+                      (l)  to fund, and co-operate in, a program designed to ensure that active constituents for proposed or existing chemical products, chemical products, and labels for containers for chemical products, comply with the Agvet Codes and the Agvet Regulations.
 
           (1B)  Expressions used in subsection (1A) have the same meanings as in the Code set out in the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_.
 
@@ -648,7 +648,7 @@ all or any of the APVMA’s powers and functions.
 
 ##### <a id="17"></a>17  Appointment
 
-             (1)  A Board member is to be appointed by the Minister by written instrument, on a part‑time basis.
+             (1)  A Board member is to be appointed by the Minister by written instrument, on a part-time basis.
 
              (2)  When appointing Board members, the Minister must ensure that:
 
@@ -692,9 +692,9 @@ Note:          A Board member is eligible for reappointment: s
 
                      (b)  is a candidate for election to the Parliament of a State and, under the law of the State, would not be eligible to be elected as a member of that Parliament if the person were entitled to remuneration or allowances under this Act; or
 
-                     (c)  is in service or employment of a State, or of an authority of a State, on a full‑time basis; or
+                     (c)  is in service or employment of a State, or of an authority of a State, on a full-time basis; or
 
-                     (d)  holds or performs the duties of an office or position established by or under a law of a State on a full‑time basis;
+                     (d)  holds or performs the duties of an office or position established by or under a law of a State on a full-time basis;
 
 the person must not be paid remuneration or allowances under this Act, but is to be reimbursed the expenses that the person reasonably incurs in performing duties under this Act.
 
@@ -770,7 +770,7 @@ Attendance by the Secretary
 
              (6)  The Secretary, or a person authorised by the Secretary, may attend meetings.
 
-Attendance by non‑Board members
+Attendance by non-Board members
 
              (7)  The Chief Executive Officer may invite a person, other than a Board member or the Secretary, to attend a meeting for the purpose of advising or informing it on any matter and may pay expenses incurred by the person in attending the meeting.
 
@@ -860,9 +860,9 @@ Determination not a legislative instrument
 
                      (b)  is a candidate for election to the Parliament of a State and, under the law of the State, would not be eligible to be elected as a member of that Parliament if the person were entitled to remuneration or allowances under this Act; or
 
-                     (c)  is in service or employment of a State, or of an authority of a State, on a full‑time basis; or
+                     (c)  is in service or employment of a State, or of an authority of a State, on a full-time basis; or
 
-                     (d)  holds or performs the duties of an office or position established by or under a law of a State on a full‑time basis;
+                     (d)  holds or performs the duties of an office or position established by or under a law of a State on a full-time basis;
 
 the person must not be paid remuneration or allowances under this Act, but is to be reimbursed the expenses that the person reasonably incurs in performing duties under this Act.
 
@@ -908,7 +908,7 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
 ##### <a id="33"></a>33  Appointment
 
-             (1)  The Chief Executive Officer is to be appointed by the Minister by written instrument, on a full‑time basis.
+             (1)  The Chief Executive Officer is to be appointed by the Minister by written instrument, on a full-time basis.
 
              (2)  A Board member is not eligible for appointment as the Chief Executive Officer.
 
@@ -916,7 +916,7 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
 ##### <a id="34"></a>34  Term of appointment
 
-                   The Chief Executive Officer holds office for such period not exceeding 5 years as is agreed in writing between the Minister and the Chief Executive Officer, but is eligible for re‑appointment.
+                   The Chief Executive Officer holds office for such period not exceeding 5 years as is agreed in writing between the Minister and the Chief Executive Officer, but is eligible for re-appointment.
 
 ##### <a id="35"></a>35  Remuneration and allowances
 
@@ -1208,7 +1208,7 @@ Contents of annual report
 
                    The APVMA is not subject to taxation under the laws of the Commonwealth or of a State or Territory.
 
-Note:          Despite this section, the APVMA may be subject to taxation under certain laws. See, for example, section 177‑5 of the _A New Tax System (Goods and Services Tax) Act 1999_.
+Note:          Despite this section, the APVMA may be subject to taxation under certain laws. See, for example, section 177-5 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
 ## Part 7A—Importation, manufacture and exportation of chemicals
 
@@ -1264,7 +1264,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (a)  the importation of an active constituent for a proposed or existing chemical product, or of a chemical product, is prohibited under subsection (1); and
 
-                     (b)  the APVMA notifies the Comptroller‑General of Customs in writing that the APVMA wishes the _Customs Act 1901_ to apply to that importation;
+                     (b)  the APVMA notifies the Comptroller-General of Customs in writing that the APVMA wishes the _Customs Act 1901_ to apply to that importation;
 
 the _Customs Act 1901_ has effect as if the constituent or product included in that importation were goods described as forfeited to the Crown under section 229 of that Act because they were prohibited imports within the meaning of that Act.
 
@@ -1596,7 +1596,7 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="69EC"></a>69EC  Offence‑related searches and seizures
+##### <a id="69EC"></a>69EC  Offence-related searches and seizures
 
              (1)  If an inspector has reasonable grounds for suspecting that there may be at any premises a particular thing that may be evidence of the commission of an offence against this Part, the inspector, with any necessary help, may:
 
@@ -1612,7 +1612,7 @@ enter the premises and:
 
                      (e)  give any directions for, or with respect to, the detention of a thing that has been seized under paragraph (d).
 
-             (2)  If, in the course of searching, under a warrant issued under section 69ED, for a particular thing in relation to a particular offence, an inspector finds another thing that the inspector believes, on reasonable grounds, to be:
+             (2)  If, in the course of searching, under a warrant issued under section69ED, for a particular thing in relation to a particular offence, an inspector finds another thing that the inspector believes, on reasonable grounds, to be:
 
                      (a)  a thing that may be evidence of the commission of the offence, although not the thing stated in the warrant; or
 
@@ -1620,7 +1620,7 @@ enter the premises and:
 
 and the inspector believes, on reasonable grounds, that it is necessary to seize the other thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence or the other offence, the warrant is taken to authorise the inspector to seize the other thing.
 
-##### <a id="69ED"></a>69ED  Offence‑related warrants
+##### <a id="69ED"></a>69ED  Offence-related warrants
 
              (1)  An inspector may apply to a magistrate for a warrant under this section in relation to particular premises.
 
@@ -1908,7 +1908,7 @@ Note:          The defendant bears an evidential burden in rel
 
              (9)  A hearing is to be conducted with as little formality and technicality as is practicable and the APVMA is not bound by the rules of evidence.
 
-##### <a id="69EQ"></a>69EQ  Self‑incrimination to be a reasonable excuse for non‑compliance with requirement
+##### <a id="69EQ"></a>69EQ  Self-incrimination to be a reasonable excuse for non-compliance with requirement
 
                    It is a reasonable excuse for a person to refuse or fail to give information, produce a document or do any other thing that the person is required to do by or under this Part that the information, the production of the document or the doing of that other thing would tend to incriminate the person.
 
@@ -1992,7 +1992,7 @@ the individual is not liable to be punished by imprisonment for that offence.
 
 ##### <a id="69EW"></a>69EW  Modification of Agvet Codes
 
-             (1)  This Part modifies the Agvet Codes for the purpose of giving effect to Australia’s obligations under paragraph 3 of Article 39 of the Agreement on Trade‑Related Aspects of Intellectual Property Rights set out in Annex 1C to the Marrakesh Agreement establishing the World Trade Organization, done at Marrakesh on 15 April 1994.
+             (1)  This Part modifies the Agvet Codes for the purpose of giving effect to Australia’s obligations under paragraph 3 of Article 39 of the Agreement on Trade-Related Aspects of Intellectual Property Rights set out in Annex 1C to the Marrakesh Agreement establishing the World Trade Organization, done at Marrakesh on 15 April 1994.
 
 Note:          The English text of the Marrakesh Agreement establishing the World Trade Organization is set out in Australian Treaty Series 1995 No. 8.
 
@@ -2166,7 +2166,7 @@ is, upon mere production, receivable as prima facie evidence of the matters stat
 
                      (b)  states that a named person is authorised by the APVMA to sign certificates for the purposes of subsection (1);
 
-is, upon mere production, receivable as prima facie evidence that the person is so authorised.
+is, upon mere production, receivable as _prima facie_ evidence that the person is so authorised.
 
 ##### <a id="71"></a>71  Delegation by Minister
 
@@ -2180,7 +2180,7 @@ is, upon mere production, receivable as prima facie evidence that the person is 
 
 ##### <a id="73"></a>73  Regulations
 
-                   The Governor‑General may make regulations prescribing all matters:
+                   The Governor-General may make regulations prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2252,7 +2252,7 @@ and, if the Minister makes such a declaration, it has effect accordingly.
 
                      (c)  that thing was not done by the Commonwealth before the commencement of this Act;
 
-there is payable to the APVMA by the Commonwealth an amount that the Minister, having regard to all matters that he or she considers relevant, determines in writing as being payable because of the receipt of the first‑mentioned amount.
+there is payable to the APVMA by the Commonwealth an amount that the Minister, having regard to all matters that he or she considers relevant, determines in writing as being payable because of the receipt of the first-mentioned amount.
 
 ##### <a id="79"></a>79  Rights in respect of services and facilities formerly provided by Department
 
@@ -2436,7 +2436,7 @@ Remainder: Royal Assent</div>
     <div>20 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 2: Royal Assent</div>
+    <div>Schedule 2: Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2453,7 +2453,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 142–151): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    <div>Schedule 2 (items 142–151): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2470,7 +2470,7 @@ Remainder: Royal Assent</div>
     <div>30 July 1998</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): 30 July 1998</div>
+    <div>30 July 1998</div>
   </td>
   <td>
     <div>—</div>
@@ -2504,7 +2504,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 58–61): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    <div>Schedule 1 (items 58–61): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2521,7 +2521,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (item 12): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(e)</i></div>
+    <div>Schedule 10 (item 12): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2538,7 +2538,9 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 22, 418, 419): 24 May 2001</div>
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
+9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>Sch. 2 (items 418, 419)</div>
@@ -2589,7 +2591,8 @@ Remainder: Royal Assent</div>
     <div>8 Apr 2003</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 2: 8 Oct 2003</div>
+    <div>S. 4 and Schedules 1, 2 and 3: 8 October 2003 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 2 (items 6, 8)</div>
@@ -2707,10 +2710,10 @@ Remainder: Royal Assent</div>
     <div>73, 2008</div>
   </td>
   <td>
-    <div>3 July 2008</div>
+    <div>3 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 4): <i>(f)</i></div>
+    <div>Schedule 1 (item 4): <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2749,46 +2752,33 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 46–48) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by section 11 only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
 
                  (3)   The amendment of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_ made by the Schedule commences or is taken to have commenced immediately after the commencement of the _Agricultural and Veterinary Chemicals (Consequential Amendments) Act 1994_.
 
-         The _Agricultural and Veterinary Chemicals (Consequential Amendments) Act 1994_ came into operation on 15 March 1995.
+         The _Agricultural and Veterinary Chemicals (Consequential Amendments) Act 199_ 4 came into operation on 15 March 1995.
 
 _(b)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by section 12 only of the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsection 2(5) of which provides as follows:
 
                  (5)   Schedules 2 and 3, items 1, 26 to 45, 49 to 53 and 56 and 67 of Schedule 4, Schedule 6, items 6 to 11 of Schedule 7 and Schedules 8 and 10 commence on 1 July 1995.
 
-_(c)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by Schedule 2 (items 142–151) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(c)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by Schedule 2 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section this Act commences on the day on which it receives the Royal Assent.
+
+_(d)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by Schedule 2 (items 142–151) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(d)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by Schedule 1 (items 58–61) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(e)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by Schedule 1 (items 58–61) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(e)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by Schedule 10 (item 12) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2) of which provides as follows:
+_(f)_      The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by Schedule 10 (item 12) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
@@ -2798,7 +2788,7 @@ _(e)_     The _Agricultural and Veterinary Chemicals (Administration) Ac
 
                               (c)   the items in Schedules 10, 11 and 12\. 
 
-_(f)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides as follows:
+_(g)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -3386,14 +3376,6 @@ _(f)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
   </td>
   <td>
     <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 90, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4781,30 +4763,6 @@ _(f)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 46  Section 18 (note)
-
-Omit “subsection 33(4A)”, substitute “section 33AA”.
-
-## 47  At the end of subsection 43(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 48  Subsection 43(5)
-
-Repeal the subsection.
-
-As at 7 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4813,7 +4771,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -4827,7 +4785,7 @@ as if the amendment or repeal had not been made.
 
 (2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -4835,9 +4793,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -5144,9 +5102,9 @@ Application of law to Chief Executive Officer
 
 (4)       To avoid doubt, if under this item the Chief Executive Officer is required to provide a report under a law, the law applies to the Chief Executive Officer in respect of the report in the same way as the law would have applied to the APVMA or the directors of the APVMA in respect of the report.
 
-## 14  New annual report requirements to apply from 2007‑2008 and later financial years
+## 14  New annual report requirements to apply from 2007-2008 and later financial years
 
-Section 61 of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_, as inserted by Schedule 1 to this Act, applies to the 2007‑2008 financial year and later financial years.
+Section 61 of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_, as inserted by Schedule 1 to this Act, applies to the 2007-2008 financial year and later financial years.
 
 ## 15  Access to records
 
@@ -5188,28 +5146,12 @@ unless the contrary is established.
 
 ## 21  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)       The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Schedule to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
-(2)       The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)       The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
 
  
