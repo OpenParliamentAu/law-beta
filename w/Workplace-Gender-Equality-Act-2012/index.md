@@ -1,14 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2004C01669/Html/EqualOppWomWkpl99_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01668/Html/EqualOppforWWkpl99_image001.jpg)
 
 # Equal Opportunity for Women in the Workplace Act 1999
 
 **Act No. 91 of 1986 as amended**
 
-This compilation was prepared on 26 July 2001
- taking into account amendments up to Act No. 55 of 2001
+Consolidated as in force on 17 January 2000
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+(includes amendments up to Act No. 183 of 1999)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -104,6 +102,8 @@ Prepared by the Office of Legislative Drafting,
 [34](#34).          Regulations                                                                                        24
 
 **Notes** 
+
+ 
 
 ## An Act to require certain employers to promote equal opportunity for women in employment, to establish the Equal Opportunity for Women in the Workplace Agency and the office of the Director of Equal Opportunity for Women in the Workplace, and for related purposes
 
@@ -215,7 +215,7 @@ but does not include the Commonwealth, a State, a Territory or an authority.
 
                      (a)  a corporation employs a person where the person is employed by another corporation which is a subsidiary of the first-mentioned corporation; and
 
-                     (b)  the question whether a corporation is a subsidiary of another corporation shall be determined as it would be determined for the purposes of the _Corporations Act 2001_.
+                     (b)  the question whether a corporation is a subsidiary of another corporation shall be determined as it would be determined for the purposes of the _Companies Act 1981_.
 
              (3)  Where, in accordance with section 4, this Act extends to Norfolk Island, a reference in this Act to Australia includes a reference to Norfolk Island.
 
@@ -675,11 +675,9 @@ all or any of the powers and functions of the Agency under this Act other than t
 
 ### Note 1
 
-The _Equal Opportunity for Women in the Workplace Act 1999_ as shown in this compilation comprises Act No. 91, 1986 amended as indicated in the Tables below.
+The _Equal Opportunity for Women in the Workplace Act 1999_ as shown in this consolidation comprises Act No. 91, 1986 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 22 December 1999 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 22 December 1999 is not included in this consolidation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -687,8 +685,8 @@ All relevant information pertaining to application, saving or transitional provi
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
-  <col width="23%">
+  <col width="18%">
+  <col width="22%">
   <col width="14%">
 </colgroup>
 
@@ -950,56 +948,37 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4-14 and Schedule 3 (item 173): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4-14</div>
-  </td>
 </tr></table>
+
+ 
 
 _(a)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (5) and (6) of which provide as follows:
 
-                 (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
+                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
-                 (5)   If, on the 100% sale day, Part 3 of the Schedule has not commenced, then, on the day on which Part 7 of the Schedule commences, Parts 3 and 6 of the Schedule are taken to have been repealed.
+                  (5)   If, on the 100% sale day, Part 3 of the Schedule has not commenced, then, on the day on which Part 7 of the Schedule commences, Parts 3 and 6 of the Schedule are taken to have been repealed.
 
-                 (6)   If a provision of this Act has not commenced before 31 August 1995, the provision is taken to have been repealed on that day.
+                  (6)   If a provision of this Act has not commenced before 31 August 1995, the provision is taken to have been repealed on that day.
 
          The Schedule (Parts 3 and 6) are taken to have been repealed on 31 August 1995.
 
 _(b)_    The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 _(c)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 4 (items 6, 7) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
 _(d)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 19 (item 4) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 _(e)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 54, 55) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
-
-_(f)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (item 173) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+                  (2)   Subject to this section, this Act commences at the commencing time.
 
 ## Table of Amendments
 
@@ -1059,7 +1038,7 @@ _(f)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999; No. 55, 2001</div>
+    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1311,12 +1290,13 @@ _(f)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
   </td>
 </tr></table>
 
+ 
+
 Table A
 
 ### Application, saving or transitional provisions
 
-_Equal Opportunity for Women in the Workplace Amendment Act 1999 
- (No. 183, 1999)_
+_Equal Opportunity for Women in the Workplace Amendment Act 1999 (No. 183, 1999)_
 
 ## 1  Definitions
 
@@ -1343,5 +1323,7 @@ is not affected by the change to the Agency’s name or Director’s title, or b
 ## 3  Waiver of reporting obligations
 
 A waiver given under section 13A of the old Equal Opportunity for Women in the Workplace Act continues in force according to its terms as if it were issued under section 13C of the amended Equal Opportunity for Women in the Workplace Act.
+
+ 
 
  
