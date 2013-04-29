@@ -1,262 +1,262 @@
-![](http://www.comlaw.gov.au/Details/C2007C00285/Html/AusCapTerPlaLanManAct1988_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00010/Html/AusCapTerPlaLanManAct1988_WD02_files/image002.gif)
 
-# Australian Capital Territory (Planning and Land Management) Act 1988
+# <st1:state><st1:place>Australian Capital Territory</st1:place></st1:state> (Planning and Land Management) Act 1988
 
-**Act No. 108 of 1988 as amended**
+**Act No. 108 of 1988 as amended<o:p></o:p>**
 
-This compilation was prepared on 19 April 2007
- taking into account amendments up to Act No. 59 of 2007
+This compilation was prepared on <st1:date month="1" day="1" year="2005">1 January 2005</st1:date>
+ taking into account amendments up to Act No. 140 of 2003<o:p></o:p>
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+ on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+ affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, <st1:city><st1:place>Canberra</st1:place></st1:city><o:p></o:p>
 
- 
+<o:p> </o:p>
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary<span style="mso-tab-count:1">                                                                                                                </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                               </span>
 
-[3](#3).            Location of definitions
+[3](#3).            Location of definitions<span style="mso-tab-count:1 dotted">                                                                         </span>
 
-[4](#4).            Definitions for whole Act
+[4](#4).            Definitions for whole Act<span style="mso-tab-count:1 dotted">                                                                    </span>
 
-**Part II—Establishment, functions and powers of authority**
+**Part II—Establishment, functions and powers of authority<span style="mso-tab-count:1">                            </span>**
 
-[5](#5).            Establishment and name of Authority
+[5](#5).            Establishment and name of Authority<span style="mso-tab-count:1 dotted">                                                 </span>
 
-[6](#6).            Functions of the Authority
+[6](#6).            Functions of the Authority<span style="mso-tab-count:1 dotted">                                                                 </span>
 
-[7](#7).            Ministerial directions
+[7](#7).            Ministerial directions<span style="mso-tab-count:1 dotted">                                                                           </span>
 
-[8](#8).            Powers of Authority
+[8](#8).            Powers of Authority<span style="mso-tab-count:1 dotted">                                                                           </span>
 
-**Part III—The National Capital Plan** 
+**Part III—The National Capital Plan<span style="mso-tab-count:1">                                                                            </span>** 
 
-    **Division 1—Object and effect of National Capital Plan**
+    **Division 1—Object and effect of National Capital Plan<span style="mso-tab-count:1">                              </span>**
 
-[9](#9).            Object of Plan
+[9](#9).            Object of Plan<span style="mso-tab-count:1 dotted">                                                                                      </span>
 
-[10](#10).          Matters to be covered in Plan
+[10](#10).          Matters to be covered in Plan<span style="mso-tab-count:1 dotted">                                                              </span>
 
-[11](#11).          Effect of Plan
+[11](#11).          Effect of Plan<span style="mso-tab-count:1 dotted">                                                                                       </span>
 
-[12](#12).          Works in Designated Areas to be subject to Plan and approval by the Authority
+[12](#12).          Works in Designated Areas to be subject to Plan and approval by the Authority<span style="mso-tab-count:1"> </span>
 
-[13](#13).          Plan not to have retrospective effect
+[13](#13).          Plan not to have retrospective effect<span style="mso-tab-count:1 dotted">                                                   </span>
 
-    **Division 2—Preparation of National Capital Plan**
+    **Division 2—Preparation of National Capital Plan<span style="mso-tab-count:1">                                          </span>**
 
-[14](#14).          Draft Plan to be prepared
+[14](#14).          Draft Plan to be prepared<span style="mso-tab-count:1 dotted">                                                                    </span>
 
-[15](#15).          Public consultation
+[15](#15).          Public consultation<span style="mso-tab-count:1 dotted">                                                                              </span>
 
-[16](#16).          Certification of draft Plan
+[16](#16).          Certification of draft Plan<span style="mso-tab-count:1 dotted">                                                                    </span>
 
-[17](#17).          Effect of certification of draft Plan
+[17](#17).          Effect of certification of draft Plan<span style="mso-tab-count:1 dotted">                                                    </span>
 
-[18](#18).          Submission to Minister for approval
+[18](#18).          Submission to Minister for approval<span style="mso-tab-count:1 dotted">                                                </span>
 
-[19](#19).          Minister’s powers
+[19](#19).          Minister’s powers<span style="mso-tab-count:1 dotted">                                                                             </span>
 
-[20](#20).          Action on referral by Minister
+[20](#20).          Action on referral by Minister<span style="mso-tab-count:1 dotted">                                                          </span>
 
-[20A](#20A).       Objections to re-submitted draft Plan
+[20A](#20A).       Objections to re-submitted draft Plan<span style="mso-tab-count:1 dotted">                                               </span>
 
-[21](#21).          Publication and commencement of approved Plan
+[21](#21).          Publication and commencement of approved Plan<span style="mso-tab-count:1 dotted">                            </span>
 
-[22](#22).          Parliamentary scrutiny of Plan
+[22](#22).          Parliamentary scrutiny of Plan<span style="mso-tab-count:1 dotted">                                                          </span>
 
-[23](#23).          Amendments of Plan
+[23](#23).          Amendments of Plan<span style="mso-tab-count:1 dotted">                                                                         </span>
 
-[24](#24).          Plan may be prepared in stages or parts
+[24](#24).          Plan may be prepared in stages or parts<span style="mso-tab-count:1 dotted">                                            </span>
 
-**Part IV—The Territory Plan**
+**Part IV—The Territory Plan<span style="mso-tab-count:1">                                                                                           </span>**
 
-[25](#25).          Territory Plan
+[25](#25).          Territory Plan<span style="mso-tab-count:1 dotted">                                                                                    </span>
 
-[26](#26).          Territory Plan not to be inconsistent with National Capital Plan
+[26](#26).          Territory Plan not to be inconsistent with National Capital Plan<span style="mso-tab-count:1 dotted">     </span>
 
-**Part V—Land management**
+**Part V—Land management<span style="mso-tab-count:1">                                                                                             </span>**
 
-[27](#27).          National Land
+[27](#27).          National Land<span style="mso-tab-count:1 dotted">                                                                                    </span>
 
-[28](#28).          Territory Land
+[28](#28).          Territory Land<span style="mso-tab-count:1 dotted">                                                                                   </span>
 
-[29](#29).          Administration of Territory Land
+[29](#29).          Administration of Territory Land<span style="mso-tab-count:1 dotted">                                                     </span>
 
-[30](#30).          Territory liable as manager of Territory Land
+[30](#30).          Territory liable as manager of Territory Land<span style="mso-tab-count:1 dotted">                                   </span>
 
-[31](#31).          Money in respect of land
+[31](#31).          Money in respect of land<span style="mso-tab-count:1 dotted">                                                                  </span>
 
-[31A](#31A).       Minerals in Territory Land
+[31A](#31A).       Minerals in Territory Land<span style="mso-tab-count:1 dotted">                                                                </span>
 
-[32](#32).          Application of Lands Acquisition Act to Territory Land
+[32](#32).          Application of Lands Acquisition Act to Territory Land<span style="mso-tab-count:1 dotted">                 </span>
 
-**Part VI—Constitution and meetings of authority**
+**Part VI—Constitution and meetings of authority<span style="mso-tab-count:1">                                               </span>**
 
-[33](#33).          Constitution of Authority
+[33](#33).          Constitution of Authority<span style="mso-tab-count:1 dotted">                                                                 </span>
 
-[34](#34).          Vacancies not to invalidate actions of Authority
+[34](#34).          Vacancies not to invalidate actions of Authority<span style="mso-tab-count:1 dotted">                              </span>
 
-[35](#35).          Remuneration
+[35](#35).          Remuneration<span style="mso-tab-count:1 dotted">                                                                                     </span>
 
-[36](#36).          Period of appointment of members
+[36](#36).          Period of appointment of members<span style="mso-tab-count:1 dotted">                                                   </span>
 
-[37](#37).          Acting appointments
+[37](#37).          Acting appointments<span style="mso-tab-count:1 dotted">                                                                         </span>
 
-[38](#38).          Leave of absence
+[38](#38).          Leave of absence<span style="mso-tab-count:1 dotted">                                                                                </span>
 
-[39](#39).          Outside employment
+[39](#39).          Outside employment<span style="mso-tab-count:1 dotted">                                                                         </span>
 
-[40](#40).          Resignation of members
+[40](#40).          Resignation of members<span style="mso-tab-count:1 dotted">                                                                     </span>
 
-[41](#41).          Termination of appointments
+[41](#41).          Termination of appointments<span style="mso-tab-count:1 dotted">                                                            </span>
 
-[42](#42).          Disclosure of interests
+[42](#42).          Disclosure of interests<span style="mso-tab-count:1 dotted">                                                                       </span>
 
-[43](#43).          Meetings
+[43](#43).          Meetings<span style="mso-tab-count:1 dotted">                                                                                            </span>
 
-[44](#44).          Advisory committees
+[44](#44).          Advisory committees<span style="mso-tab-count:1 dotted">                                                                        </span>
 
-**Part VII—Administration of authority**
+**Part VII—Administration of authority<span style="mso-tab-count:1">                                                                      </span>**
 
-[45](#45).          Chief Executive
+[45](#45).          Chief Executive<span style="mso-tab-count:1 dotted">                                                                                  </span>
 
-[46](#46).          Functions of Chief Executive
+[46](#46).          Functions of Chief Executive<span style="mso-tab-count:1 dotted">                                                             </span>
 
-[47](#47).          Staff of Authority
+[47](#47).          Staff of Authority<span style="mso-tab-count:1 dotted">                                                                              </span>
 
-[48](#48).          Consultants
+[48](#48).          Consultants<span style="mso-tab-count:1 dotted">                                                                                        </span>
 
-[49](#49).          Delegations
+[49](#49).          Delegations<span style="mso-tab-count:1 dotted">                                                                                        </span>
 
-[50](#50).          Annual report
+[50](#50).          Annual report<span style="mso-tab-count:1 dotted">                                                                                    </span>
 
-**Part VIII—Miscellaneous**
+**Part VIII—Miscellaneous<span style="mso-tab-count: 1">                                                                                                </span>**
 
-[51](#51).          Commonwealth to indemnify Territory
+[51](#51).          Commonwealth to indemnify Territory<span style="mso-tab-count:1 dotted">                                            </span>
 
-[52](#52).          Application of Acts Interpretation Act
+[52](#52).          Application of Acts Interpretation Act<span style="mso-tab-count:1 dotted">                                            </span>
 
-[53](#53).          Regulations
+[53](#53).          Regulations<span style="mso-tab-count:1 dotted">                                                                                        </span>
 
-**Part IX—Repeals and amendments**
+**Part IX—Repeals and amendments<span style="mso-tab-count:1">                                                                           </span>**
 
-[54](#54).          Repeal of National Capital Development Commission Acts
+[54](#54).          Repeal of National Capital Development Commission Acts<span style="mso-tab-count:1 dotted">            </span>
 
-[55](#55).          Consequential amendments
+[55](#55).          Consequential amendments<span style="mso-tab-count:1 dotted">                                                               </span>
 
-**Part X—Transitional provisions** 
+**Part X—Transitional provisions<span style="mso-tab-count:1">                                                                                   </span>** 
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                            </span>**
 
-[56](#56).          Definitions for this Part
+[56](#56).          Definitions for this Part<span style="mso-tab-count:1 dotted">                                                                     </span>
 
-[57](#57).          Declaration of end of transition period
+[57](#57).          Declaration of end of transition period<span style="mso-tab-count:1 dotted">                                              </span>
 
-    **Division 2—Before establishment of Executive and Territory planning authority**
+    **Division 2—Before establishment of Executive and Territory planning authority<span style="mso-tab-count:1">          </span>**
 
-[58](#58).          Interim authority may take preliminary steps to prepare Territory plan
+[58](#58).          Interim authority may take preliminary steps to prepare Territory plan<span style="mso-tab-count:1">               </span>
 
-[59](#59).          Procedures before establishment of Executive
+[59](#59).          Procedures before establishment of Executive<span style="mso-tab-count:1 dotted">                                   </span>
 
-[60](#60).          Procedures before establishment of Territory planning authority
+[60](#60).          Procedures before establishment of Territory planning authority<span style="mso-tab-count:1 dotted">    </span>
 
-[61](#61).          Application of Canberra Water Supply (Googong Dam) Act before establishment of Executive
+[61](#61).          Application of Canberra Water Supply (Googong Dam) Act before establishment of Executive<span style="mso-tab-count:1">          </span>
 
-    **Division 3—Continuation of NCDC policies**
+    **Division 3—Continuation of NCDC policies<span style="mso-tab-count:1">                                                  </span>**
 
-[62](#62).          NCDC policies to continue in effect
+[62](#62).          NCDC policies to continue in effect<span style="mso-tab-count:1 dotted">                                                 </span>
 
-[63](#63).          Administration of NCDC policies
+[63](#63).          Administration of NCDC policies<span style="mso-tab-count:1 dotted">                                                     </span>
 
-[64](#64).          Effect of NCDC policies during transition period
+[64](#64).          Effect of NCDC policies during transition period<span style="mso-tab-count:1 dotted">                             </span>
 
-[65](#65).          Variation or revocation of NCDC policies during transition period
+[65](#65).          Variation or revocation of NCDC policies during transition period<span style="mso-tab-count:1 dotted">  </span>
 
-[66](#66).          NCDC policies after transition period
+[66](#66).          NCDC policies after transition period<span style="mso-tab-count:1 dotted">                                              </span>
 
-    **Division 4—Variation of NCDC policies by Authority**
+    **Division 4—Variation of NCDC policies by Authority<span style="mso-tab-count:1">                              </span>**
 
-[67](#67).          Variation of NCDC policies by Authority during transition period
+[67](#67).          Variation of NCDC policies by Authority during transition period<span style="mso-tab-count:1 dotted"> </span>
 
-[68](#68).          Public consultation
+[68](#68).          Public consultation<span style="mso-tab-count:1 dotted">                                                                            </span>
 
-[69](#69).          Submission to Minister for approval
+[69](#69).          Submission to Minister for approval<span style="mso-tab-count:1 dotted">                                                </span>
 
-[70](#70).          Minister’s powers
+[70](#70).          Minister’s powers<span style="mso-tab-count:1 dotted">                                                                             </span>
 
-[71](#71).          Action on referral by Minister
+[71](#71).          Action on referral by Minister<span style="mso-tab-count:1 dotted">                                                          </span>
 
-[72](#72).          Publication and commencement of approved variation
+[72](#72).          Publication and commencement of approved variation<span style="mso-tab-count:1 dotted">                     </span>
 
-    **Division 5—Variation of NCDC policies by Territory planning authority**
+    **Division 5—Variation of NCDC policies by Territory planning authority<span style="mso-tab-count:1">             </span>**
 
-[73](#73).          NCDC policies may be varied by Territory planning authority
+[73](#73).          NCDC policies may be varied by Territory planning authority<span style="mso-tab-count:1 dotted">       </span>
 
-[74](#74).          Public consultation
+[74](#74).          Public consultation<span style="mso-tab-count:1 dotted">                                                                            </span>
 
-[75](#75).          Submission to Executive for approval
+[75](#75).          Submission to Executive for approval<span style="mso-tab-count:1 dotted">                                               </span>
 
-[76](#76).          Executive’s powers
+[76](#76).          Executive’s powers<span style="mso-tab-count:1 dotted">                                                                            </span>
 
-[77](#77).          Action on referral by Executive
+[77](#77).          Action on referral by Executive<span style="mso-tab-count:1 dotted">                                                         </span>
 
-[78](#78).          Submission to Minister
+[78](#78).          Submission to Minister<span style="mso-tab-count:1 dotted">                                                                     </span>
 
-[79](#79).          Publication and commencement of approved variation
+[79](#79).          Publication and commencement of approved variation<span style="mso-tab-count:1 dotted">                     </span>
 
-    **Division 6—Plan of lay-out of the City of Canberra**
+    **Division 6—Plan of lay-out of the City of Canberra<span style="mso-tab-count:1">                                    </span>**
 
-[80](#80).          Modification of section 12A of _Seat of Government (Administration) Act 1910_
+[80](#80).          Modification of section 12A of _Seat of Government (Administration) Act 1910_<span style="mso-tab-count:1">    </span>
 
-    **Division 7—Transfers following repeal of NCDC Act**
+    **Division 7—Transfers following repeal of NCDC Act<span style="mso-tab-count:1">                              </span>**
 
-[81](#81).          Transfer of persons employed by NCDC
+[81](#81).          Transfer of persons employed by NCDC<span style="mso-tab-count:1 dotted">                                         </span>
 
-[82](#82).          Contracts
+[82](#82).          Contracts<span style="mso-tab-count:1 dotted">                                                                                           </span>
 
-[83](#83).          Assets, rights and liabilities
+[83](#83).          Assets, rights and liabilities<span style="mso-tab-count:1 dotted">                                                               </span>
 
-[84](#84).          Court proceedings
+[84](#84).          Court proceedings<span style="mso-tab-count:1 dotted">                                                                              </span>
 
-[85](#85).          Transfer of appropriated money
+[85](#85).          Transfer of appropriated money<span style="mso-tab-count:1 dotted">                                                       </span>
 
-**Schedule—Consequential amendments** 
+**Schedule—Consequential amendments<span style="mso-tab-count:1">                                                                   </span>** 
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
-## An Act to provide for the planning of the Australian Capital   Territory and the management of land in that Territory, to repeal the _National Capital Development Commission Act 1957_, and for related purposes
+## An Act to provide for the planning of the <st1:state><st1:place>Australian   Capital Territory</st1:place></st1:state> and the management of land in that Territory, to repeal the _National Capital Development Commission Act 1957_, and for related purposes
 
-## Part I—Preliminary
+## Part I<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">Preliminary</span><o:p></o:p>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;mso-bidi-font-size:13.0pt;font-weight:normal">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _Australian   Capital Territory__(Planning and Land Management) Act 1988_. 
+                   This Act may be cited as the <st1:state><st1:place>_Australian Capital Territory_</st1:place></st1:state>_(Planning and Land Management) Act 1988_. 
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt;mso-bidi-font-size:13.0pt;font-weight:normal">[_see_ Note 1]</span>
 
-             (1)  Sections 1, 2 and 55 commence on the day on which this Act receives the Royal Assent.
+             (1)  Sections 1, 2 and 55 commence on the day on which this Act receives the Royal Assent.
 
-             (2)  The amendment of the _Seat of Government (Administration) Act 1910_ contained in the Schedule commences on the day declared under section 57.
+             (2)  The amendment of the _Seat of Government (Administration) Act 1910_ contained in the Schedule commences on the day declared under section 57.
 
              (3)  The remaining provisions of this Act (including the other amendments in the Schedule) commence on a day or days to be fixed by Proclamation.
 
 ##### <a id="3"></a>3  Location of definitions
 
-             (1)  Section 4 contains definitions of expressions used throughout this Act (including Part X).
+             (1)  Section 4 contains definitions of expressions used throughout this Act (including Part X).
 
-             (2)  Section 56 contains definitions of expressions used only in Part X.
+             (2)  Section 56 contains definitions of expressions used only in Part X.
 
              (3)  Some sections also contain, at the end, special definitions for the purposes of those sections.
 
@@ -264,11 +264,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="assembli"></a>**_Assembly_** means the Legislative Assembly for the Australian Capital Territory established by the Self-Government Act.
+                    <a name="assembli"></a>**_Assembly_** means the Legislative Assembly for the <st1:state><st1:place>Australian   Capital Territory</st1:place></st1:state> established by the Self-Government Act.
 
                     <a name="author"></a>**_Authority_** means the National Capital Authority established by this Act.
 
-                    <a name="chief-execut"></a>**_Chief Executive_** means the Chief Executive of the Authority referred to in section 45.
+                    <a name="chief-execut"></a>**_Chief Executive_** means the Chief Executive of the Authority referred to in section 45.
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means:
 
@@ -282,7 +282,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="commonwealth-gazett"></a>**_Commonwealth Gazette_** means the _Commonwealth of Australia Gazette_.
 
-                    <a name="design-area"></a>**_Designated Area_** means an area of land specified in the Plan under section 10.
+                    <a name="design-area"></a>**_Designated Area_** means an area of land specified in the Plan under section 10.
 
                     <a name="enact"></a>**_enactment_** has the same meaning as in the Self-Government Act.
 
@@ -304,11 +304,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="member"></a>**_member_** means a member of the Authority.
 
-                    <a name="land"></a><a name=""></a><a name="nation"></a>**_National_****_Land_** has the meaning given by section 27.
+                    <a name="land"></a><a name=""></a><a name="nation"></a><st1:place><st1:placename>**_National_**</st1:placename><st1:placetype>**_Land_**</st1:placetype></st1:place> has the meaning given by section 27.
 
-                    <a name="plan"></a>**_Plan_** means the National Capital Plan prepared by the Authority under Part III.
+                    <a name="plan"></a>**_Plan_** means the National Capital Plan prepared by the Authority under Part III.
 
-                    <a name="self-govern-act"></a>**_Self-Government Act_** means the _Australian   Capital Territory__(Self-Government) Act 1988_.
+                    <a name="self-govern-act"></a>**_Self-Government Act_** means the <st1:state><st1:place>_Australian Capital Territory_</st1:place></st1:state>_(Self-Government) Act 1988_.
 
                     <a name="self-govern-dai"></a>**_Self-Government Day_** means the day on which the Assembly becomes empowered to make laws.
 
@@ -326,11 +326,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="territori-gazett"></a>**_Territory Gazette_** means the _Australian Capital Territory Gazette_.
 
-                    <a name="territori-plan"></a>**_Territory Plan_** means the plan referred to in section 25, and includes a stage or part of that plan.
+                    <a name="territori-plan"></a>**_Territory Plan_** means the plan referred to in section 25, and includes a stage or part of that plan.
 
-                    <a name="territori-plan-author"></a>**_Territory planning authority_** means the authority referred to in section 25.
+                    <a name="territori-plan-author"></a>**_Territory planning authority_** means the authority referred to in section 25.
 
-                    <a name="land"></a><a name=""></a><a name="territori"></a>**_Territory_****_Land_** has the meaning given by section 28.
+                    <a name="land"></a><a name=""></a><a name="territori"></a><st1:place><st1:placetype>**_Territory_**</st1:placetype><st1:placetype>**_Land_**</st1:placetype></st1:place> has the meaning given by section 28.
 
                     <a name="work"></a>**_works_** includes:
 
@@ -344,13 +344,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 but excludes anything done inside buildings or structures.
 
-## Part II—Establishment, functions and powers of authority
+<o:p> </o:p>
+
+## Part II<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">Establishment, functions and powers of authority</span><o:p></o:p>
 
 ##### <a id="5"></a>5  Establishment and name of Authority
 
                    The body known immediately before the commencement of this section as the National Capital Planning Authority is continued in existence with the new name, National Capital Authority.
 
-Note:          Section 25B of the _Acts Interpretation Act 1901_ deals with the situation where a body changes its name.
+Note:          Section 25B of the _Acts Interpretation Act 1901_ deals with the situation where a body changes its name.
 
 ##### <a id="6"></a>6  Functions of the Authority
 
@@ -364,11 +366,11 @@ Note:          Section 25B of the _Acts Interpretation Act 1
 
                      (d)  to recommend to the Minister the carrying out of works that it considers desirable to maintain or enhance the character of the National Capital;
 
-                     (e)  to foster an awareness of Canberra as the National Capital;
+                     (e)  to foster an awareness of <st1:city><st1:place>Canberra</st1:place></st1:city> as the National Capital;
 
-                      (f)  with the approval of the Minister, to perform planning services for any person or body, whether within Australia or overseas; and
+                      (f)  with the approval of the Minister, to perform planning services for any person or body, whether within <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or overseas; and
 
-                     (g)  with the Minister’s approval, on behalf of the Commonwealth, to manage National Land designated in writing by the Minister as land required for the special purposes of Canberra as the National Capital.
+                     (g)  with the Minister’s approval, on behalf of the Commonwealth, to manage <st1:place><st1:placename>National</st1:placename> <st1:placetype>Land</st1:placetype></st1:place> designated in writing by the Minister as land required for the special purposes of <st1:city><st1:place>Canberra</st1:place></st1:city> as the National Capital.
 
 ##### <a id="7"></a>7  Ministerial directions
 
@@ -380,13 +382,15 @@ Note:          Section 25B of the _Acts Interpretation Act 1
 
                    Subject to this Act, the Authority has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-## Part III—The National Capital Plan
+<o:p> </o:p>
 
-### Division 1—Object and effect of National Capital Plan
+## Part III<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">The National Capital Plan</span><o:p></o:p>
+
+### Division 1<span style="mso-font-kerning:0pt">—</span><span class="CharDivText">Object and effect of National Capital Plan</span><o:p></o:p>
 
 ##### <a id="9"></a>9  Object of Plan
 
-                   The object of the Plan is to ensure that   Canberra and the Territory are planned and developed in accordance with their national significance.
+                   The object of the Plan is to ensure that <st1:city><st1:place>Canberra</st1:place></st1:city> and the Territory are planned and developed in accordance with their national significance.
 
 ##### <a id="10"></a>10  Matters to be covered in Plan
 
@@ -422,13 +426,15 @@ Note:          Section 25B of the _Acts Interpretation Act 1
 
                      (c)  the works are in accordance with the Plan.
 
-             (2)  Subsection (1) does not affect section 5 of the _Parliament Act 1974._
+             (2)  Subsection (1) does not affect section 5 of the _Parliament Act 1974._
 
 ##### <a id="13"></a>13  Plan not to have retrospective effect
 
                    Where, immediately before the Plan comes into effect, it would be lawful to use any land in a particular way in the exercise of a right derived from an estate in that land, the Plan does not prevent the use of that land in that way during the term of that estate. 
 
-### Division 2—Preparation of National Capital Plan
+<o:p> </o:p>
+
+### Division 2<span style="mso-font-kerning:0pt">—</span><span class="CharDivText">Preparation of National Capital Plan</span><o:p></o:p>
 
 ##### <a id="14"></a>14  Draft Plan to be prepared
 
@@ -468,9 +474,9 @@ and, if it thinks fit, may alter the draft Plan.
 
 the Authority may apply to the Minister to certify the draft Plan under this section while it is being further considered.
 
-             (2)  After considering the report by the Authority, the Minister may, subject to subsection (3), declare, by written instrument, that the draft Plan is certified.
+             (2)  After considering the report by the Authority, the Minister may, subject to subsection (3), declare, by written instrument, that the draft Plan is certified.
 
-             (3)  If the Authority reports under subsection (1) that the Territory planning authority objects to the certification of the draft Plan, the Minister shall not act under subsection (2) except after consultation with the Executive.
+             (3)  If the Authority reports under subsection (1) that the Territory planning authority objects to the certification of the draft Plan, the Minister shall not act under subsection (2) except after consultation with the Executive.
 
              (4)  The certification remains in force for 6 months unless sooner revoked, but the Minister may, by written instrument, extend that period for one or more further periods of 6 months.
 
@@ -478,15 +484,15 @@ the Authority may apply to the Minister to certify the draft Plan under this sec
 
 ##### <a id="17"></a>17  Effect of certification of draft Plan
 
-                   So long as the draft Plan is certified, section 11 applies as if the Plan were in effect.
+                   So long as the draft Plan is certified, section 11 applies as if the Plan were in effect.
 
 ##### <a id="18"></a>18  Submission to Minister for approval
 
-                   The Authority shall submit the draft Plan to the Minister for approval, together with a written report on its consultations under section 15.
+                   The Authority shall submit the draft Plan to the Minister for approval, together with a written report on its consultations under section 15.
 
 ##### <a id="19"></a>19  Minister’s powers
 
-             (1)  Subject to subsection (2), on receipt of the draft Plan submitted for approval, the Minister shall, after such consultation, if any, as the Minister thinks necessary:
+             (1)  Subject to subsection (2), on receipt of the draft Plan submitted for approval, the Minister shall, after such consultation, if any, as the Minister thinks necessary:
 
                      (a)  approve the draft Plan without alteration; or
 
@@ -496,7 +502,7 @@ the Authority may apply to the Minister to certify the draft Plan under this sec
 
                              (ii)  suggested alterations.
 
-             (2)  If the Authority reports under section 18 that the Territory planning authority objects to any aspect of the draft Plan, the Minister shall not act under subsection (1) except after consultation with the Executive.
+             (2)  If the Authority reports under section 18 that the Territory planning authority objects to any aspect of the draft Plan, the Minister shall not act under subsection (1) except after consultation with the Executive.
 
 ##### <a id="20"></a>20  Action on referral by Minister
 
@@ -514,19 +520,19 @@ the Authority may apply to the Minister to certify the draft Plan under this sec
 
 and subsection 19(1) and, if necessary, this section, apply again.
 
-##### <a id="20A"></a>20A  Objections to re-submitted draft Plan
+##### <a id="20A"></a>20A  Objections to re-submitted draft Plan
 
              (1)  If the Territory planning authority continues to object to any aspect of the draft Plan re-submitted to the Minister, the Authority must attach to the draft Plan a statement of its reasons for not accommodating the objection.
 
-             (2)  If the Minister receives a statement from the Authority under subsection (1), the Minister, after consultation with the Executive, must give a written direction to the Authority:
+             (2)  If the Minister receives a statement from the Authority under subsection (1), the Minister, after consultation with the Executive, must give a written direction to the Authority:
 
                      (a)  to disregard the objection; or
 
                      (b)  to alter the draft Plan to accommodate the objection wholly or partly.
 
-             (3)  A direction given by the Minister under subsection (2) must be published in the _Gazette_ within 7 days after the Minister gives the direction.
+             (3)  A direction given by the Minister under subsection (2) must be published in the _Gazette_ within 7 days after the Minister gives the direction.
 
-             (4)  The Minister must cause a copy of each direction given under subsection (2) to be laid before each House of the Parliament within 6 sitting days of that House after the Minister gives the direction.
+             (4)  The Minister must cause a copy of each direction given under subsection (2) to be laid before each House of the Parliament within 6 sitting days of that House after the Minister gives the direction.
 
 ##### <a id="21"></a>21  Publication and commencement of approved Plan
 
@@ -550,7 +556,7 @@ and subsection 19(1) and, if necessary, this section, apply again.
 
                              (ii)  the motion has been called on, moved and seconded and has not been withdrawn or otherwise disposed of;
 
-the Plan shall, for the purposes of subsection (2), be taken to have been laid before the first-mentioned House on the first sitting day of that House after the dissolution, expiry or prorogation, as the case may be.
+the Plan shall, for the purposes of subsection (2), be taken to have been laid before the first-mentioned House on the first sitting day of that House after the dissolution, expiry or prorogation, as the case may be.
 
              (4)  If:
 
@@ -562,13 +568,15 @@ the disallowance revives the earlier part from the date of the disallowance as i
 
 ##### <a id="23"></a>23  Amendments of Plan
 
-                   Amendments of the Plan shall be prepared in the same way as the Plan, and sections 14 to 22 (both inclusive) apply to amendments as if references in those sections to the Plan were references to amendments.
+                   Amendments of the Plan shall be prepared in the same way as the Plan, and sections 14 to 22 (both inclusive) apply to amendments as if references in those sections to the Plan were references to amendments.
 
 ##### <a id="24"></a>24  Plan may be prepared in stages or parts
 
-                   The Plan may be prepared in separate stages or parts and, in such a case, sections 14 to 23 (both inclusive) apply as if references in those sections to the Plan were references to such a stage or part of the Plan.
+                   The Plan may be prepared in separate stages or parts and, in such a case, sections 14 to 23 (both inclusive) apply as if references in those sections to the Plan were references to such a stage or part of the Plan.
 
-## Part IV—The Territory Plan
+<o:p> </o:p>
+
+## Part IV<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">The Territory Plan</span><o:p></o:p>
 
 ##### <a id="25"></a>25  Territory Plan
 
@@ -614,47 +622,49 @@ the disallowance revives the earlier part from the date of the disallowance as i
 
                    The Territory Plan has no effect to the extent that it is inconsistent with the National Capital Plan, but the Territory Plan shall be taken to be consistent with the National Capital Plan to the extent that it is capable of operating concurrently with the National Capital Plan.
 
-## Part V—Land management
+<o:p> </o:p>
 
-##### <a id="27"></a>27  National  Land
+## Part V<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">Land management</span><o:p></o:p>
 
-             (1)  The Minister may, by notice published in the _Commonwealth Gazette_ declare specified areas of land in the Territory to be National Land.
+##### <a id="27"></a>27  <st1:place><st1:placename>National</st1:placename> <st1:placetype>Land</st1:placetype></st1:place>
 
-             (2)  The Minister shall not declare an area to be National Land unless the land is, or is intended to be, used by or on behalf of the Commonwealth.
+             (1)  The Minister may, by notice published in the _Commonwealth Gazette_ declare specified areas of land in the Territory to be <st1:place><st1:placename>National</st1:placename>  <st1:placetype>Land</st1:placetype></st1:place>.
 
-             (3)  If an Act vests the management (however described) of specified land in the Territory in a person or body, the land is National  Land for the purposes of this Act.
+             (2)  The Minister shall not declare an area to be <st1:place><st1:placename>National</st1:placename>  <st1:placetype>Land</st1:placetype></st1:place> unless the land is, or is intended to be, used by or on behalf of the Commonwealth.
 
-             (4)  Subsection (3) does not apply to the vesting of an estate in land.
+             (3)  If an Act vests the management (however described) of specified land in the Territory in a person or body, the land is <st1:place><st1:placename>National</st1:placename>  <st1:placetype>Land</st1:placetype></st1:place> for the purposes of this Act.
 
-##### <a id="28"></a>28  Territory  Land
+             (4)  Subsection (3) does not apply to the vesting of an estate in land.
 
-                   At any time when any land in the Territory is not National Land, that land is Territory Land for the purposes of this Act.
+##### <a id="28"></a>28  <st1:place><st1:placetype>Territory</st1:placetype> <st1:placetype>Land</st1:placetype></st1:place>
 
-##### <a id="29"></a>29  Administration of Territory Land
+                   At any time when any land in the Territory is not <st1:place><st1:placename>National</st1:placename>  <st1:placetype>Land</st1:placetype></st1:place>, that land is <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place> for the purposes of this Act.
+
+##### <a id="29"></a>29  Administration of <st1:place><st1:placetype>Territory</st1:placetype> <st1:placetype>Land</st1:placetype></st1:place>
 
              (1)  The Executive, on behalf of the Commonwealth:
 
-                     (a)  has responsibility for the management of Territory Land; and
+                     (a)  has responsibility for the management of <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place>; and
 
-                     (b)  subject to section 9 of the _Seat of Government (Administration) Act 1910_, may grant, dispose of, acquire, hold and administer estates in Territory Land.
+                     (b)  subject to section 9 of the _Seat of Government (Administration) Act 1910_, may grant, dispose of, acquire, hold and administer estates in <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place>.
 
-             (2)  The Executive shall perform its functions under subsection (1) subject to enactment and in accordance with the principles:
+             (2)  The Executive shall perform its functions under subsection (1) subject to enactment and in accordance with the principles:
 
-                     (a)  that new estates in Territory Land shall be granted only in accordance with procedures that are notified to the public; and
+                     (a)  that new estates in <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place> shall be granted only in accordance with procedures that are notified to the public; and
 
-                     (b)  that appropriate classes of decisions relating to the administration of estates in Territory Land shall be subject to just and timely review without unnecessary formality.
+                     (b)  that appropriate classes of decisions relating to the administration of estates in <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place> shall be subject to just and timely review without unnecessary formality.
 
-             (3)  The term of an estate in Territory Land granted on or after Self-Government Day shall not exceed 99 years or such longer period as is prescribed, but the estate may be renewed.
+             (3)  The term of an estate in <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place> granted on or after Self-Government Day shall not exceed 99 years or such longer period as is prescribed, but the estate may be renewed.
 
-             (4)  The Authority may intervene in any proceedings for review of a decision relating to the administration of an estate in Territory Land.
+             (4)  The Authority may intervene in any proceedings for review of a decision relating to the administration of an estate in <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place>.
 
-##### <a id="30"></a>30  Territory liable as manager of Territory Land
+##### <a id="30"></a>30  Territory liable as manager of <st1:place><st1:placetype>Territory</st1:placetype> <st1:placetype>Land</st1:placetype></st1:place>
 
-             (1)  Where, apart from this section, the Commonwealth would be liable in respect of an act done or omitted to be done by the Territory in the performance of its functions under section 29, the liability is vested in the Territory and ceases to be a liability of the Commonwealth.
+             (1)  Where, apart from this section, the Commonwealth would be liable in respect of an act done or omitted to be done by the Territory in the performance of its functions under section 29, the liability is vested in the Territory and ceases to be a liability of the Commonwealth.
 
              (2)  Where:
 
-                     (a)  a liability arises in respect of land at a time when it is Territory Land; and
+                     (a)  a liability arises in respect of land at a time when it is <st1:place><st1:placetype>Territory</st1:placetype> <st1:placetype>Land</st1:placetype></st1:place>; and
 
                      (b)  the liability arises from a covenant given by the Commonwealth at any time in its capacity as owner of the land;
 
@@ -662,43 +672,45 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
 ##### <a id="31"></a>31  Money in respect of land
 
-             (1)  Where any money would, apart from this section, be payable to the Commonwealth in respect of any land in discharge of a liability existing at a time when the land is Territory Land, the money is payable to the Territory instead of the Commonwealth.
+             (1)  Where any money would, apart from this section, be payable to the Commonwealth in respect of any land in discharge of a liability existing at a time when the land is <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place>, the money is payable to the Territory instead of the Commonwealth.
 
              (2)  Where any Territory Land that is not subject to a leasehold interest becomes National Land, the Commonwealth shall pay to the Territory an amount equal to the reasonable compensation that would be payable to the Territory under the Lands Acquisition Act if:
 
-                     (a)  immediately before the land became   National Land, the Territory had been granted a leasehold interest in the land by the Commonwealth for the maximum term allowable under subsection 29(3);
+                     (a)  immediately before the land became <st1:place><st1:placename>National</st1:placename>  <st1:placetype>Land</st1:placetype></st1:place>, the Territory had been granted a leasehold interest in the land by the Commonwealth for the maximum term allowable under subsection 29(3);
 
                      (b)  that interest was granted for any purpose for which a leasehold interest in that land could be granted;
 
-                     (c)  that interest was subject to any estate in the land existing immediately before it became National Land;
+                     (c)  that interest was subject to any estate in the land existing immediately before it became <st1:place><st1:placename>National</st1:placename>  <st1:placetype>Land</st1:placetype></st1:place>;
 
-                     (d)  subject to paragraph (c), the Territory was not bound by any express or implied covenants (including covenants to pay rent or rates) in relation to that interest; and
+                     (d)  subject to paragraph (c), the Territory was not bound by any express or implied covenants (including covenants to pay rent or rates) in relation to that interest; and
 
-                     (e)  when the land became National Land, that interest was acquired by the Commonwealth.
+                     (e)  when the land became <st1:place><st1:placename>National</st1:placename>  <st1:placetype>Land</st1:placetype></st1:place>, that interest was acquired by the Commonwealth.
 
-             (3)  Subsection (2) applies only to Territory  Land that becomes National Land at any time after the first declaration of National  Land.
+             (3)  Subsection (2) applies only to <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place> that becomes <st1:place><st1:placename>National</st1:placename>  <st1:placetype>Land</st1:placetype></st1:place> at any time after the first declaration of <st1:place><st1:placename>National</st1:placename> <st1:placetype>Land</st1:placetype></st1:place>.
 
-##### <a id="31A"></a>31A  Minerals in Territory Land
+##### <a id="31A"></a>31A  Minerals in <st1:place><st1:placetype>Territory</st1:placetype> <st1:placetype>Land</st1:placetype></st1:place>
 
              (1)  In this section:
 
                     <a name="miner"></a>**_mineral_** means a naturally occurring substance or mixture of substances, whether in a solid, liquid or gaseous state.
 
-             (2)  So long as any land in the Territory is Territory  Land, all rights of the Commonwealth in relation to minerals in that land are vested in the Territory.
+             (2)  So long as any land in the Territory is <st1:place><st1:placetype>Territory</st1:placetype>  <st1:placetype>Land</st1:placetype></st1:place>, all rights of the Commonwealth in relation to minerals in that land are vested in the Territory.
 
-##### <a id="32"></a>32  Application of Lands Acquisition Act to Territory Land
+##### <a id="32"></a>32  Application of Lands Acquisition Act to <st1:place><st1:placetype>Territory</st1:placetype> <st1:placetype>Land</st1:placetype></st1:place>
 
              (1)  The Lands Acquisition Act does not apply in relation to:
 
                      (a)  anything done by or on behalf of the Commonwealth or a Commonwealth authority in respect of an interest in Territory Land while the interest is vested in the Commonwealth or a Commonwealth authority; or
 
-                     (b)  the acquisition (compulsory or not) of an estate in Territory Land by the Territory, whether acting on behalf of the Commonwealth or not.
+                     (b)  the acquisition (compulsory or not) of an estate in <st1:place><st1:placetype>Territory</st1:placetype> <st1:placetype>Land</st1:placetype></st1:place> by the Territory, whether acting on behalf of the Commonwealth or not.
 
-             (2)  In subsection (1):
+             (2)  In subsection (1):
 
                     <a name="estat"></a>**_estate_** includes the interest of the Commonwealth in land in which no person other than the Commonwealth holds an estate.
 
-## Part VI—Constitution and meetings of authority
+<o:p> </o:p>
+
+## Part VI<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">Constitution and meetings of authority</span><o:p></o:p>
 
 ##### <a id="33"></a>33  Constitution of Authority
 
@@ -706,11 +718,11 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
              (2)  The Chairperson may be appointed on a full-time or part-time basis.
 
-             (3)  If the Chairperson is appointed on a full-time basis, the Chairperson shall also be the Chief Executive and there shall be 4 non-executive members.
+             (3)  If the Chairperson is appointed on a full-time basis, the Chairperson shall also be the Chief Executive and there shall be 4 non-executive members.
 
              (4)  If the Chairperson is appointed on a part-time basis, there shall be a separate Chief Executive and 3 other non-executive members.
 
-             (5)  The Chief Executive (if any) appointed under subsection (4) shall be appointed on a full-time basis.
+             (5)  The Chief Executive (if any) appointed under subsection (4) shall be appointed on a full-time basis.
 
              (6)  The non-executive members shall be appointed on a part-time basis.
 
@@ -728,7 +740,7 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
              (3)  This section has effect subject to the _Remuneration Tribunals Act 1973._
 
-##### <a id="36"></a>36  Period of appointment of members
+##### <a id="36"></a>36  Period of appointment of members 
 
              (1)  Subject to this Part, a member holds office for the period, not exceeding 5 years, specified in the instrument of appointment.
 
@@ -740,19 +752,19 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
                      (a)  when there is a vacancy in the office of that member, whether or not an appointment has previously been made to the office; or
 
-                     (b)  when that member is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  when that member is absent from duty or from <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the duties of the office.
 
              (2)  Where there is, or is to be, a part-time Chairperson, the Minister may appoint a member to act as the Chairperson during any period, or during all periods:
 
                      (a)  when there is a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  when the Chairperson is absent from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  when the Chairperson is absent from <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the duties of the office.
 
              (3)  The Minister may appoint a person to act as a non-executive member referred to in subsection 33(3) or (4) during any period, or during all periods:
 
                      (a)  when there is a vacancy in the office of a non-executive member, whether or not an appointment has previously been made to the office; or
 
-                     (b)  when a non-executive member is acting as Chairperson, is absent from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  when a non-executive member is acting as Chairperson, is absent from <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the duties of the office.
 
              (4)  A person appointed to act during a vacancy shall not continue so to act for a continuous period of more than 12 months.
 
@@ -794,11 +806,11 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
                      (a)  a member becomes bankrupt, applies to take the benefit of any law for relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
-                     (b)  a full-time member is absent from duty, except on leave of absence, for 14 consecutive days or 28 days in any 12 months;
+                     (b)  a full-time member is absent from duty, except on leave of absence, for 14 consecutive days or 28 days in any 12 months;
 
-                     (c)  a part-time member is absent, except on leave of absence granted under section 38, from 3 consecutive meetings of the Authority; or
+                     (c)  a part-time member is absent, except on leave of absence granted under section 38, from 3 consecutive meetings of the Authority; or
 
-                     (d)  a member fails, without reasonable excuse, to comply with section 42;
+                     (d)  a member fails, without reasonable excuse, to comply with section 42;
 
 the Governor-General may terminate the appointment of the member.
 
@@ -852,11 +864,13 @@ the Governor-General may terminate the appointment of the member.
 
                    On the recommendation of the Authority, the Minister may appoint committees to give advice to the Authority or to assist it in the performance of its functions.
 
-## Part VII—Administration of authority
+<o:p> </o:p>
+
+## Part VII<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">Administration of authority</span><o:p></o:p>
 
 ##### <a id="45"></a>45  Chief Executive
 
-                   There shall be a Chief Executive of the Authority, who shall be appointed as provided by section 33.
+                   There shall be a Chief Executive of the Authority, who shall be appointed as provided by section 33.
 
 ##### <a id="46"></a>46  Functions of Chief Executive
 
@@ -890,15 +904,17 @@ the Governor-General may terminate the appointment of the member.
 
                      (b)  a member of the staff of the Authority; or
 
-                     (c)  a person whose services have been made available under section 47.
+                     (c)  a person whose services have been made available under section 47.
 
 ##### <a id="50"></a>50  Annual report
 
-             (1)  As soon as practicable after each 30 June, the Authority shall prepare and submit to the Minister a report on its operations during the year ended on that date.
+             (1)  As soon as practicable after each 30 June, the Authority shall prepare and submit to the Minister a report on its operations during the year ended on that date.
 
              (2)  The Minister shall cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after receipt of the report by the Minister.
 
-## Part VIII—Miscellaneous
+<o:p> </o:p>
+
+## Part VIII<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">Miscellaneous</span><o:p></o:p>
 
 ##### <a id="51"></a>51  Commonwealth to indemnify Territory
 
@@ -906,7 +922,7 @@ the Governor-General may terminate the appointment of the member.
 
              (2)  The indemnity extends to damages, expenses and costs arising from, connected with or consequential upon such an action, claim or demand.
 
-             (3)  This section does not apply to an action, claim or demand in respect of a liability referred to in section 30.
+             (3)  This section does not apply to an action, claim or demand in respect of a liability referred to in section 30.
 
 ##### <a id="52"></a>52  Application of Acts Interpretation Act
 
@@ -936,7 +952,9 @@ the Governor-General may terminate the appointment of the member.
 
                      (b)  must not be such as to amount to taxation.
 
-## Part IX—Repeals and amendments
+<o:p> </o:p>
+
+## Part IX<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">Repeals and amendments</span><o:p></o:p>
 
 ##### <a id="54"></a>54  Repeal of National Capital Development Commission Acts
 
@@ -952,9 +970,11 @@ _National Capital Development Commission Act 1975._
 
                    The Acts set out in the Schedule are amended as specified in the Schedule, but the amendments commence as provided by section 2.
 
-## Part X—Transitional provisions
+<o:p> </o:p>
 
-### Division 1—Preliminary
+## Part X<span style="mso-font-kerning:0pt">—</span><span class="CharPartText">Transitional provisions</span><o:p></o:p>
+
+### Division 1<span style="mso-font-kerning:0pt">—</span><span class="CharDivText">Preliminary</span><o:p></o:p>
 
 ##### <a id="56"></a>56  Definitions for this Part
 
@@ -962,9 +982,9 @@ _National Capital Development Commission Act 1975._
 
                     <a name="commenc-dai"></a>**_commencing day_** means the day on which this Part commences.
 
-                    <a name="interim-author"></a>**_interim authority_** means the authority established by the _Interim__Territory__Planning Ordinance 1988_ of the Territory.
+                    <a name="interim-author"></a>**_interim authority_** means the authority established by the <st1:place><st1:placename>_Interim_</st1:placename><st1:placetype>_Territory_</st1:placetype></st1:place>_Planning Ordinance 1988_ of the Territory.
 
-                    <a name="nation-capit-plan"></a>**_National Capital Plan_** means the Plan prepared under Part III, and includes a stage or part of that Plan.
+                    <a name="nation-capit-plan"></a>**_National Capital Plan_** means the Plan prepared under Part III, and includes a stage or part of that Plan.
 
                     <a name="ncdc"></a>**_NCDC_** means the National Capital Development Commission established under the NCDC Act.
 
@@ -978,9 +998,9 @@ _National Capital Development Commission Act 1975._
 
 and includes a part of such a policy.
 
-                    <a name="transition-period"></a>**_transition period_** means the period starting on the commencing day and ending on the day declared under section 57.
+                    <a name="transition-period"></a>**_transition period_** means the period starting on the commencing day and ending on the day declared under section 57.
 
-##### <a id="57"></a>57  Declaration of end of transition period
+##### <a id="57"></a>57  Declaration of end of transition period 
 
              (1)  When the Governor-General is satisfied that the National Capital Plan sufficiently covers the Territory, the Governor-General shall, by Proclamation, declare that the transition period ends on a day specified in the Proclamation.
 
@@ -992,11 +1012,13 @@ and includes a part of such a policy.
 
                      (b)  a statement identifying the NCDC policies still in effect at the end of that period.
 
-### Division 2—Before establishment of Executive and Territory planning authority
+<o:p> </o:p>
+
+### Division 2<span style="mso-font-kerning:0pt">—</span><span class="CharDivText">Before establishment of Executive and Territory planning authority</span><o:p></o:p>
 
 ##### <a id="58"></a>58  Interim authority may take preliminary steps to prepare Territory plan
 
-                   Until the Territory planning authority is established, the interim authority may take preliminary steps to prepare the Territory plan in accordance with section 25.
+                   Until the Territory planning authority is established, the interim authority may take preliminary steps to prepare the Territory plan in accordance with section 25.
 
 ##### <a id="59"></a>59  Procedures before establishment of Executive
 
@@ -1008,29 +1030,31 @@ and includes a part of such a policy.
 
                      (c)  references in subsections 74(1) and 79(1) to the _Territory Gazette_ shall be read as references to the _Commonwealth Gazette._
 
-(2)  Section 78 does not apply to a draft variation submitted or re-submitted to the Minister under section 75 or 77 as affected by this section.
+(2)  Section 78 does not apply to a draft variation submitted or re-submitted to the Minister under section 75 or 77 as affected by this section.
 
              (3)  Any steps taken under this Part by the Minister before Self-Government Day have effect on and after that Day as if they had been taken by the Executive.
 
 ##### <a id="60"></a>60  Procedures before establishment of Territory planning authority
 
-             (1)  Until the establishment of the Territory planning authority under section 25, references in this Part to the Territory planning authority shall be read as references to the interim authority.
+             (1)  Until the establishment of the Territory planning authority under section 25, references in this Part to the Territory planning authority shall be read as references to the interim authority.
 
              (2)  Any steps taken under this Part by the interim authority before the establishment of the Territory planning authority have effect after that establishment as if they had been taken by the Territory planning authority.
 
-##### <a id="61"></a>61  Application of Canberra Water Supply (Googong Dam) Act before establishment of Executive
+##### <a id="61"></a>61  Application of <st1:city><st1:place>Canberra</st1:place></st1:city> Water Supply (Googong Dam) Act before establishment of Executive
 
              (1)  Until the establishment of the Executive on Self-Government Day:
 
-                     (a)  references in the _Canberra__Water Supply (Googong Dam) Act 1974_ to the Executive shall be read as references to the Minister;
+                     (a)  references in the <st1:city><st1:place>_Canberra_</st1:place></st1:city>_Water Supply (Googong Dam) Act 1974_ to the Executive shall be read as references to the Minister;
 
                      (b)  references in that Act to the Territory shall be read as references to the Commonwealth or a Commonwealth authority; and
 
-                     (c)  section 6A of that Act has no effect.
+                     (c)  section 6A of that Act has no effect.
 
              (2)  Any steps taken under that Act by the Minister before Self-Government Day have effect on and after that Day as if they had been taken by the Executive.
 
-### Division 3—Continuation of NCDC policies
+<o:p> </o:p>
+
+### Division 3<span style="mso-font-kerning:0pt">—</span><span class="CharDivText">Continuation of NCDC policies</span><o:p></o:p>
 
 ##### <a id="62"></a>62  NCDC policies to continue in effect
 
@@ -1040,7 +1064,7 @@ and includes a part of such a policy.
 
                      (b)  the policy was in operation immediately before that day;
 
-the policy continues in effect, subject to sections 65 and 66.
+the policy continues in effect, subject to sections 65 and 66.
 
 ##### <a id="63"></a>63  Administration of NCDC policies
 
@@ -1050,7 +1074,7 @@ the policy continues in effect, subject to sections 65 and 66.
 
                      (b)  any other functions of the Authority.
 
-             (2)  The Territory planning authority shall administer each NCDC policy to the extent that it does not relate to the matters referred to in subsection (1).
+             (2)  The Territory planning authority shall administer each NCDC policy to the extent that it does not relate to the matters referred to in subsection (1).
 
 ##### <a id="64"></a>64  Effect of NCDC policies during transition period
 
@@ -1062,13 +1086,13 @@ the policy continues in effect, subject to sections 65 and 66.
 
                      (a)  revoked wholly or partly by the National Capital Plan; or
 
-                     (b)  varied under Division 4 or 5.
+                     (b)  varied under Division 4 or 5.
 
              (2)  If:
 
                      (a)  a provision of the National Capital Plan (in this subsection called the **_revoking provision_**) has revoked an NCDC policy or part of such a policy; and
 
-                     (b)  the revoking provision is disallowed under section 22;
+                     (b)  the revoking provision is disallowed under section 22;
 
 the disallowance revives the policy, or the part of the policy, as the case may be, from the date of the disallowance as if the revoking provision had not taken effect.
 
@@ -1084,9 +1108,11 @@ the disallowance revives the policy, or the part of the policy, as the case may 
 
 the policy, or that part of the policy, becomes part of the National Capital Plan, and may be varied or revoked accordingly.
 
-             (2)  On the day after the last day on which a resolution could be passed as described in paragraph (1)(c), an NCDC policy, or part of such a policy, that is still in effect and has not become part of the National Capital Plan under subsection (1) shall be taken to be part of the Territory Plan, and may be varied or revoked accordingly.
+             (2)  On the day after the last day on which a resolution could be passed as described in paragraph (1)(c), an NCDC policy, or part of such a policy, that is still in effect and has not become part of the National Capital Plan under subsection (1) shall be taken to be part of the Territory Plan, and may be varied or revoked accordingly.
 
-### Division 4—Variation of NCDC policies by Authority
+<o:p> </o:p>
+
+### Division 4<span style="mso-font-kerning:0pt">—</span><span class="CharDivText">Variation of NCDC policies by Authority</span><o:p></o:p>
 
 ##### <a id="67"></a>67  Variation of NCDC policies by Authority during transition period
 
@@ -1122,11 +1148,11 @@ and, if it thinks fit, may alter the draft variation.
 
 ##### <a id="69"></a>69  Submission to Minister for approval
 
-                   The Authority shall submit the draft variation to the Minister for approval, together with a written report on its consultations under section 68.
+                   The Authority shall submit the draft variation to the Minister for approval, together with a written report on its consultations under section 68.
 
 ##### <a id="70"></a>70  Minister’s powers
 
-             (1)  Subject to subsection (2), on receipt of the draft variation submitted for approval, the Minister shall, after such consultation, if any, as the Minister thinks necessary:
+             (1)  Subject to subsection (2), on receipt of the draft variation submitted for approval, the Minister shall, after such consultation, if any, as the Minister thinks necessary:
 
                      (a)  approve the draft variation without alteration; or
 
@@ -1136,7 +1162,7 @@ and, if it thinks fit, may alter the draft variation.
 
                              (ii)  suggested alterations.
 
-             (2)  If the Authority reports under section 69 that the Territory planning authority objects to any aspect of the draft variation, the Minister shall not act under subsection (1) except after consultation with the Executive.
+             (2)  If the Authority reports under section 69 that the Territory planning authority objects to any aspect of the draft variation, the Minister shall not act under subsection (1) except after consultation with the Executive.
 
 ##### <a id="71"></a>71  Action on referral by Minister
 
@@ -1160,7 +1186,9 @@ and subsection 70(1) and, if necessary, this section, apply again.
 
              (2)  The variation takes effect on publication of the notice of approval.
 
-### Division 5—Variation of NCDC policies by Territory planning authority
+<o:p> </o:p>
+
+### Division 5<span style="mso-font-kerning:0pt">—</span><span class="CharDivText">Variation of NCDC policies by Territory planning authority</span><o:p></o:p>
 
 ##### <a id="73"></a>73  NCDC policies may be varied by Territory planning authority
 
@@ -1172,7 +1200,7 @@ and subsection 70(1) and, if necessary, this section, apply again.
 
                      (b)  shall be made in accordance with this Division.
 
-             (3)  A variation has no effect to the extent that it is inconsistent with a variation made by the Authority under Division 4.
+             (3)  A variation has no effect to the extent that it is inconsistent with a variation made by the Authority under Division 4.
 
 ##### <a id="74"></a>74  Public consultation
 
@@ -1198,7 +1226,7 @@ and, if it thinks fit, may alter the draft variation.
 
 ##### <a id="75"></a>75  Submission to Executive for approval
 
-                   The Territory planning authority shall submit the draft variation to the Executive for approval, together with a written report on its consultations under section 74.
+                   The Territory planning authority shall submit the draft variation to the Executive for approval, together with a written report on its consultations under section 74.
 
 ##### <a id="76"></a>76  Executive’s powers
 
@@ -1226,7 +1254,7 @@ and, if it thinks fit, may alter the draft variation.
 
                      (e)  re-submit the draft variation to the Executive for approval;
 
-and section 76 and, if necessary, this section, apply again.
+and section 76 and, if necessary, this section, apply again.
 
 ##### <a id="78"></a>78  Submission to Minister
 
@@ -1234,9 +1262,9 @@ and section 76 and, if necessary, this section, apply again.
 
              (2)  Within 14 days after receipt of the draft variation, the Minister may give a certificate in writing that, in the interests of the National Capital, it would be undesirable to approve the variation.
 
-             (3)  If the Minister gives such a certificate within those 14 days, the Executive shall not proceed under section 79.
+             (3)  If the Minister gives such a certificate within those 14 days, the Executive shall not proceed under section 79.
 
-             (4)  If, at the end of those 14 days, the Minister has not given such a certificate, the Executive may proceed under section 79.
+             (4)  If, at the end of those 14 days, the Minister has not given such a certificate, the Executive may proceed under section 79.
 
 ##### <a id="79"></a>79  Publication and commencement of approved variation
 
@@ -1244,37 +1272,41 @@ and section 76 and, if necessary, this section, apply again.
 
              (2)  The variation takes effect on publication of the notice of approval.
 
-### Division 6—Plan of lay-out of the City of Canberra
+<o:p> </o:p>
 
-##### <a id="80"></a>80  Modification of section 12A of _Seat of Government (Administration) Act 1910_
+### Division 6<span style="mso-font-kerning:0pt">—</span><span class="CharDivText">Plan of lay-out of the City of </span><st1:city><st1:place><span class="CharDivText">Canberra</span></st1:place></st1:city><o:p></o:p>
 
-                   Until the repeal of section 12A of the _Seat of Government (Administration) Act 1910_, that section has effect as if:
+##### <a id="80"></a>80  Modification of section 12A of _Seat of Government (Administration) Act 1910_
 
-                     (a)  after subsection (1) the following subsection were inserted:
+                   Until the repeal of section 12A of the _Seat of Government (Administration) Act 1910_, that section has effect as if:
 
-                         “(1A)     The Minister shall not act under subsection (1) except after consultation with the Australian Capital Territory Executive.”;
+                     (a)  after subsection (1) the following subsection were inserted:
 
-                     (b)  after subsection (2) the following subsection were inserted:
+                         “(1A)     The Minister shall not act under subsection (1) except after consultation with the <st1:state><st1:place>Australian Capital   Territory</st1:place></st1:state> Executive.”;
 
-                         “(2A)     The statement laid before each House of the Parliament under subsection (2) shall include any views expressed by the Australian Capital Territory Executive in consultations held under subsection (1A).”;
+                     (b)  after subsection (2) the following subsection were inserted:
 
-                     (c)  subsection (4) were amended by omitting “The Minister” and substituting “A prescribed body”;
+                         “(2A)     The statement laid before each House of the Parliament under subsection (2) shall include any views expressed by the Australian Capital Territory Executive in consultations held under subsection (1A).”;
+
+                     (c)  subsection (4) were amended by omitting “The Minister” and substituting “A prescribed body”;
 
                      (d)  the following subsection were added at the end:
 
-                           “(5)     In subsection (4):
+                           “(5)     In subsection (4):
 
                                                 **_prescribed body_** means:
 
                                          (a)  the Commonwealth;
 
-                                         (b)  a Commonwealth authority as defined by the _Australian Capital Territory__Planning and Land Management Act 1988_;
+                                         (b)  a Commonwealth authority as defined by the <st1:state><st1:place>_Australian Capital Territory_</st1:place></st1:state>_Planning and Land Management Act 1988_;
 
                                          (c)  a Territory authority as defined by that Act; or
 
-                                         (d)  the body politic established by section 7 of the _Australian Capital   Territory__(Self-Government) Act 1988_.”.
+                                         (d)  the body politic established by section 7 of the <st1:state><st1:place>_Australian   Capital Territory_</st1:place></st1:state>_(Self-Government) Act 1988_.”.
 
-### Division 7—Transfers following repeal of NCDC Act
+<o:p> </o:p>
+
+### Division 7<span style="mso-font-kerning:0pt">—</span><span class="CharDivText">Transfers following repeal of NCDC Act</span><o:p></o:p>
 
 ##### <a id="81"></a>81  Transfer of persons employed by NCDC
 
@@ -1286,15 +1318,15 @@ and section 76 and, if necessary, this section, apply again.
 
 shall be taken to have ceased, immediately before that repeal, to be a person appointed or employed under the _Public Service Act 1922._
 
-##### <a id="82"></a>82  Contracts
+##### <a id="82"></a>82  Contracts<o:p></o:p>
 
                    Where, immediately before the repeal of the NCDC Act, a contract was subsisting and the NCDC was a party to the contract, the Commonwealth is substituted for the NCDC as a party to the contract.
 
-##### <a id="83"></a>83  Assets, rights and liabilities
+##### <a id="83"></a>83  Assets, rights and liabilities 
 
-             (1)  Subject to section 82, assets, rights and liabilities of the NCDC existing immediately before the repeal of the NCDC Act vest in a body or bodies specified in writing by the Minister.
+             (1)  Subject to section 82, assets, rights and liabilities of the NCDC existing immediately before the repeal of the NCDC Act vest in a body or bodies specified in writing by the Minister.
 
-             (2)  In specifying a body for the purposes of subsection (1), the Minister shall have regard to which body or bodies will perform the relevant functions of the NCDC after the repeal of the NCDC Act.
+             (2)  In specifying a body for the purposes of subsection (1), the Minister shall have regard to which body or bodies will perform the relevant functions of the NCDC after the repeal of the NCDC Act.
 
              (3)  In this section:
 
@@ -1306,13 +1338,13 @@ shall be taken to have ceased, immediately before that repeal, to be a person ap
 
                      (a)  proceedings in a court by or against the NCDC were pending immediately before the repeal of the NCDC Act; and
 
-                     (b)  the proceedings concern a right or liability vested in the Commonwealth or another body, or both, under section 82 or 83;
+                     (b)  the proceedings concern a right or liability vested in the Commonwealth or another body, or both, under section 82 or 83;
 
 the proceedings may be continued, subject to the direction of the court, by or against the Commonwealth, that other body, or both, as the case requires.
 
 ##### <a id="85"></a>85  Transfer of appropriated money
 
-             (1)  Where any money has been, or is, appropriated by an Appropriation Act for the purposes of the NCDC, the Act shall be taken to have appropriated, or to appropriate, the money for the purposes of the Department of Administrative Services as set out in Subdivision 6 of Division 805 in the relevant Schedule to that Act.
+             (1)  Where any money has been, or is, appropriated by an Appropriation Act for the purposes of the NCDC, the Act shall be taken to have appropriated, or to appropriate, the money for the purposes of the Department of Administrative Services as set out in Subdivision 6 of Division 805 in the relevant Schedule to that Act.
 
              (2)  The money shall be apportioned between any or all of the items of that Subdivision as the Minister for Finance determines in writing.
 
@@ -1324,42 +1356,42 @@ the proceedings may be continued, subject to the direction of the court, by or a
 
              (4)  In this section:
 
-                    <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for expenditure in respect of the financial year ending on 30 June 1989, and includes an Act appropriating money, by way of interim provision, for such expenditure.
+                    <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for expenditure in respect of the financial year ending on <st1:date month="6" day="30" year="1989">30 June 1989</st1:date>, and includes an Act appropriating money, by way of interim provision, for such expenditure.
 
- 
+<o:p> </o:p>
 
-# Schedule—Consequential amendments
+# Schedule<span style="mso-font-kerning:0pt">—</span><span class="CharChapText">Consequential amendments</span>
 
-_Section 55_
+_Section 55_
 
 * * *
 
-**Note:**
+**Note:<o:p></o:p>**
 
 The amendments made by this Schedule are incorporated in the current consolidations on ComLaw.
 
-Canberra Water Supply (Googong Dam) Act 1974
+<st1:city><st1:place>Canberra</st1:place></st1:city> Water Supply (Googong Dam) Act 1974
 
 _Parliament House Construction Authority Act 1979_
- <span style="font-size:9.0pt">\[repealed by Act No. 37, 1992, s. 4]</span>
+ <span style="font-size:9.0pt">\[repealed by Act No. 37, 1992, s. 4]</span><o:p></o:p>
 
 Public Works Committee Act 1969 
 
 Seat of Government (Administration) Act 1910
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 108, 1988.
+For access to the wording of the amendments made by this Schedule _see_ Act No. 108, 1988.
 
 * * *
 
- 
+<o:p> </o:p>
 
-# Notes to the _Australian Capital Territory (Planning and Land Management) Act 1988_
+# Notes to the _<span style="mso-no-proof:yes">Australian Capital Territory (Planning and Land Management) Act 1988</span>_
 
 ### Note 1
 
-The _Australian Capital Territory__(Planning and Land Management) Act 1988_ as shown in this compilation comprises Act No. 108, 1988 amended as indicated in the Tables below.
+The <st1:state><st1:place>_Australian   Capital Territory_</st1:place></st1:state>_(Planning and Land Management) Act 1988_ as shown in this compilation comprises Act No. 108, 1988 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date month="10" day="1" year="2001">1 October  2001</st1:date> is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1376,39 +1408,39 @@ All relevant information pertaining to application, saving or transitional provi
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td colspan="2">
       <div>Number 
-and year</div>
+and year <o:p></o:p> </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>Australian Capital Territory (Planning and Land Management) Act 1988</div>
+    <div><st1:state> <st1:place>Australian Capital Territory</st1:place> </st1:state>(Planning and Land Management) Act 1988</div>
   </td>
   <td colspan="2">
     <div>108, 1988</div>
   </td>
   <td>
-    <div>6 Dec 1988</div>
+    <div><st1:date month="12" day="6" year="1988">6 Dec 1988</st1:date></div>
   </td>
   <td>
-    <div><i>(a)</i></div>
+    <div><i style="mso-bidi-font-style:normal">(a)</i></div>
   </td>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
@@ -1419,10 +1451,10 @@ of Assent</div>
     <div>88, 1990</div>
   </td>
   <td>
-    <div>20 Nov 1990</div>
+    <div><st1:date month="11" day="20" year="1990">20 Nov 1990</st1:date></div>
   </td>
   <td>
-    <div>Part 3 (ss. 5, 6): <i>(b)</i></div>
+    <div>Part 3 (ss. 5, 6): <i style="mso-bidi-font-style:normal">(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1430,16 +1462,16 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Australian Capital Territory (Planning and Land Management) Amendment Act 1990</div>
+    <div>  <st1:state> <st1:place>Australian Capital Territory</st1:place> </st1:state>(Planning and Land Management) Amendment Act 1990</div>
   </td>
   <td colspan="2">
     <div>104, 1990</div>
   </td>
   <td>
-    <div>18 Dec 1990</div>
+    <div><st1:date month="12" day="18" year="1990">18 Dec 1990</st1:date></div>
   </td>
   <td>
-    <div><i>(c)</i></div>
+    <div><i style="mso-bidi-font-style:normal">(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1447,16 +1479,16 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
+    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
   </td>
   <td colspan="2">
     <div>179, 1991</div>
   </td>
   <td>
-    <div>25 Nov 1991</div>
+    <div><st1:date month="11" day="25" year="1991">25 Nov 1991</st1:date></div>
   </td>
   <td>
-    <div>25 Nov 1991</div>
+    <div><st1:date month="11" day="25" year="1991">25 Nov 1991</st1:date></div>
   </td>
   <td>
     <div>S. 3(2)</div>
@@ -1470,10 +1502,10 @@ of Assent</div>
     <div>21, 1992</div>
   </td>
   <td>
-    <div>10 Apr 1992</div>
+    <div><st1:date month="4" day="10" year="1992">10 Apr 1992</st1:date></div>
   </td>
   <td>
-    <div>8 May 1992</div>
+    <div>8 May 1992</div>
   </td>
   <td>
     <div>—</div>
@@ -1487,10 +1519,10 @@ of Assent</div>
     <div>130, 1992</div>
   </td>
   <td>
-    <div>24 Oct 1992</div>
+    <div><st1:date month="10" day="24" year="1992">24 Oct 1992</st1:date></div>
   </td>
   <td>
-    <div>24 Oct 1992</div>
+    <div><st1:date month="10" day="24" year="1992">24 Oct 1992</st1:date></div>
   </td>
   <td>
     <div>—</div>
@@ -1504,10 +1536,10 @@ of Assent</div>
     <div>6, 1994</div>
   </td>
   <td>
-    <div>18 Jan 1994</div>
+    <div><st1:date month="1" day="18" year="1994">18 Jan 1994</st1:date></div>
   </td>
   <td>
-    <div>S. 5: Royal Assent <i>(d)</i></div>
+    <div>S. 5: Royal Assent <i style="mso-bidi-font-style:normal">(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1521,10 +1553,10 @@ of Assent</div>
     <div>118, 1997</div>
   </td>
   <td>
-    <div>7 July 1997</div>
+    <div><st1:date month="7" day="7" year="1997">7 July 1997</st1:date></div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–4): 7 July 1997 <i>(e)</i></div>
+    <div>Schedule 1 (items 1-4): <st1:date month="7" day="7" year="1997">7 July 1997</st1:date> <i style="mso-bidi-font-style: normal">(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1538,10 +1570,10 @@ of Assent</div>
     <div>146, 1999</div>
   </td>
   <td>
-    <div>11 Nov 1999</div>
+    <div><st1:date month="11" day="11" year="1999">11 Nov 1999</st1:date></div>
   </td>
   <td>
-    <div>Schedule 1 (items 141–143): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+    <div>Schedule 1 (items 141-143): <st1:date month="12" day="5" year="1999">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style:normal">(f) <o:p></o:p> </i></div>
   </td>
   <td>
     <div>—</div>
@@ -1555,27 +1587,27 @@ of Assent</div>
     <div>159, 2001</div>
   </td>
   <td colspan="2">
-    <div>1 Oct 2001</div>
+    <div><st1:date month="10" day="1" year="2001">1 Oct 2001</st1:date></div>
   </td>
   <td>
-    <div>29 Oct 2001</div>
+    <div><st1:date month="10" day="29" year="2001">29 Oct 2001</st1:date></div>
   </td>
   <td>
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch 1 (item 97) \[ <i style="mso-bidi-font-style:normal">see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Australian Capital Territory Legislation Amendment Act 2003</div>
+    <div><st1:state> <st1:place>Australian Capital Territory</st1:place> </st1:state>Legislation Amendment Act 2003</div>
   </td>
   <td>
     <div>1, 2003</div>
   </td>
   <td colspan="2">
-    <div>24 Feb 2003</div>
+    <div><st1:date month="2" day="24" year="2003">24 Feb 2003</st1:date></div>
   </td>
   <td>
-    <div>25 Feb 2003</div>
+    <div><st1:date month="2" day="25" year="2003">25 Feb 2003</st1:date></div>
   </td>
   <td>
     <div>—</div>
@@ -1589,30 +1621,13 @@ of Assent</div>
     <div>140, 2003</div>
   </td>
   <td colspan="2">
-    <div>17 Dec 2003</div>
+    <div><st1:date month="12" day="17" year="2003">17 Dec 2003</st1:date></div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (item 10): <i>(g)</i></div>
+    <div>S. 4 and Schedule 1 (item 10): <i style="mso-bidi-font-style: normal">(g)</i> <o:p></o:p></div>
   </td>
   <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Airports Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>59, 2007</div>
-  </td>
-  <td colspan="2">
-    <div>15 Apr 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 169A, 170): \[ <i>see</i> Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>S. 4 \[ <i style="mso-bidi-font-style:normal">see</i>Table A] <o:p></o:p></div>
   </td>
 </tr>
 <tr height="0">
@@ -1624,45 +1639,47 @@ of Assent</div>
   <td></td>
 </tr></table>
 
-_(a)_     Section 2 of the _Australian Capital   Territory__(Planning and Land Management) Act 1988_ provides as follows:
+_(a)_     Section 2 of the <st1:state><st1:place>_Australian Capital Territory_</st1:place></st1:state>_(Planning and Land Management) Act 1988_ provides as follows:
 
-              2.(1)   Sections 1, 2 and 55 commence on the day on which this Act receives the Royal Assent.
+              2.(1)   Sections 1, 2 and 55 commence on the day on which this Act receives the Royal Assent.
 
-                 (2)   The amendment of the _Seat of Government (Administration) Act 1910_ contained in the Schedule commences on the day declared under section 57.
+                 (2)   The amendment of the _Seat of Government (Administration) Act 1910_ contained in the Schedule commences on the day declared under section 57.
 
                  (3)   The remaining provisions of this Act (including the other amendments in the Schedule) commence on a day or days to be fixed by Proclamation.
 
-                The date fixed in pursuance of subsection 2(2) was 12 March 1991 (_see Gazette_ 1991, No. S62).
+                The date fixed in pursuance of subsection 2(2) was <st1:date month="3" day="12" year="1991">12 March 1991</st1:date> (_see Gazette_ 1991, No. S62).
 
-                In pursuance of subsection 2(3) the date fixed for sections 25, 26, 28-32, 51 and 52 was 11 May 1989 (_see Gazette_ 1989, No. S164); for the remaining sections the date fixed was 31 January 1989 (_see Gazette_ 1989, No. S39).
+                In pursuance of subsection 2(3) the date fixed for sections 25, 26, 28-32, 51 and 52 was <st1:date month="5" day="11" year="1989">11 May 1989</st1:date> (_see Gazette_ 1989, No. S164); for the remaining sections the date fixed was <st1:date month="1" day="31" year="1989">31 January 1989</st1:date> (_see Gazette_ 1989, No. S39).
 
-_(b)_    The _Australian Capital Territory__(Planning and Land Management) Act 1988_ was amended by Part 3 (sections 5 and 6) only of the _Arts, Environment, Tourism and Territories Legislation Amendment Act 1990_, subsection 2(3) of which provides as follows:
+_(b)_    The <st1:state><st1:place>_Australian Capital Territory_</st1:place></st1:state>_(Planning and Land Management) Act 1988_ was amended by Part 3 (sections 5 and 6) only of the _Arts, Environment, Tourism and Territories Legislation Amendment Act 1990_, subsection 2(3) of which provides as follows:
 
-                 (3)   Part 3 is taken to have commenced immediately after the commencement of section 55 of the _Australian   Capital Territory__(Planning and Land Management) Act 1989_.
+                 (3)   Part 3 is taken to have commenced immediately after the commencement of section 55 of the <st1:state><st1:place>_Australian Capital Territory_</st1:place></st1:state>_(Planning and Land Management) Act 1989_.
 
-         Section 55 commenced on 31 January 1989 (_see Gazette_ 1989, No. S39). 
+         Section 55 commenced on <st1:date month="1" day="31" year="1989">31 January 1989</st1:date> (_see Gazette_ 1989, No. S39). 
 
-_(c)_     2.   This Act is taken to have commenced immediately after the commencement of section 57 of the Principal Act.
+_(c)_     2.   This Act is taken to have commenced immediately after the commencement of section 57 of the Principal Act.
 
-         Section 57 commenced on 31 January 1989 (_see Gazette_ 1989, No. S39).
+         Section 57 commenced on <st1:date month="1" day="31" year="1989">31 January 1989</st1:date> (_see Gazette_ 1989, No. S39).
 
-_(d)_     The _Australian Capital Territory__(Planning and Land Management) Act 1988_ was amended by section 5 only of the _Arts, Environment and Territories Legislation Amendment Act1993_, subsection 2(1) of which provides as follows:
+_(d)_     The <st1:state><st1:place>_Australian Capital Territory_</st1:place></st1:state>_(Planning and Land Management) Act 1988_ was amended by section 5 only of the _Arts, Environment and Territories Legislation Amendment Act1993_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_ The _Australian Capital Territory__(Planning and Land Management) Act 1988_ was amended by Schedule 1 (items 1–4) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+_(e)_ The <st1:state><st1:place>_Australian Capital Territory_</st1:place></st1:state>_(Planning and Land Management) Act 1988_ was amended by Schedule 1 (items 1-4) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 
-_(f)_ The _Australian Capital Territory (Planning and Land Management) Act 1988_ was amended by Schedule 1 (items 141–143) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(f)_ The <st1:state><st1:place>_Australian Capital Territory_</st1:place></st1:state>_(Planning and Land Management) Act 1988_ was amended by Schedule 1 (items 141-143) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+_(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:<o:p></o:p>
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
@@ -1675,41 +1692,55 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
   <tr>
     <td colspan="3">
       <div>
-        <b>Commencement information</b>
+        <b style="mso-bidi-font-weight: normal">Commencement information
+          <o:p></o:p>
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Column 1</b>
+        <b style="mso-bidi-font-weight: normal">Column 1
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 2</b>
+        <b style="mso-bidi-font-weight: normal">Column 2
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 3</b>
+        <b style="mso-bidi-font-weight: normal">Column 3
+          <o:p></o:p>
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Provision(s)</b>
+        <b style="mso-bidi-font-weight: normal">Provision(s)
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Commencement</b>
+        <b style="mso-bidi-font-weight: normal">Commencement
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Date/Details</b>
+        <b style="mso-bidi-font-weight: normal">Date/Details
+          <o:p></o:p>
+        </b>
       </div>
     </td>
   </tr>
@@ -1717,38 +1748,50 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 <tr>
   <td>
     <div>
-      2\. Sections 4 and 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of sections 3 to 62 of the
-        <i>Legislative Instruments Act 2003</i>
+      2.
+        <span style="mso-spacerun:yes"></span>Sections 4 and 5
+        <o:p></o:p>
 
     </div>
   </td>
   <td>
     <div>
-      1 January 2005
+      Immediately after the commencement of sections 3 to 62 of the
+        <i style="mso-bidi-font-style: normal">Legislative Instruments Act 2003</i>
+        <o:p></o:p>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      <st1:date month="1" day="1" year="2005">
+        1 January 2005
+      </st1:date>
     </div>
   </td>
 </tr>
 <tr>
   <td>
     <div>
-      3\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of sections 3 to 62 of the
-        <i>Legislative Instruments Act 2003</i>
+      3.
+        <span style="mso-spacerun:yes"></span>Schedule 1
+        <o:p></o:p>
 
     </div>
   </td>
   <td>
     <div>
-      1 January 2005
+      Immediately after the commencement of sections 3 to 62 of the
+        <i style="mso-bidi-font-style: normal">Legislative Instruments Act 2003</i>
+        <o:p></o:p>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      <st1:date month="1" day="1" year="2005">
+        1 January 2005
+      </st1:date>
     </div>
   </td>
 </tr></table>
@@ -1764,176 +1807,154 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>S. 4</div>
+    <div>S. 4 </div>
   </td>
   <td>
-    <div>am. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>rs. No. 118, 1997</div>
+    <div>am. No. 118, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
+    <div>S. 5 </div>
   </td>
   <td>
-    <div>am. No. 130, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20A</div>
-  </td>
-  <td>
-    <div>ad. No. 21, 1992</div>
+    <div>rs. No. 118, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 31A</div>
+    <div>S. 6 </div>
   </td>
   <td>
-    <div>ad. No. 6, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001</div>
+    <div>am. No. 130, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 38</div>
+    <div>S. 20A </div>
   </td>
   <td>
-    <div>rs. No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
+    <div>ad. No. 21, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 41</div>
+    <div>S. 31A </div>
   </td>
   <td>
-    <div>am. No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 1, 2003</div>
+    <div>ad. No. 6, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 47</div>
+    <div>S. 36 </div>
   </td>
   <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 140, 2003</div>
+    <div>am. No. 159, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 53</div>
+    <div>S. 38 </div>
   </td>
   <td>
-    <div>am. No. 21, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1990</div>
+    <div>rs. No. 179, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 57</div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div>am. No. 104, 1990</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 74</div>
+    <div>S. 41 </div>
   </td>
   <td>
-    <div>am. No. 118, 1997</div>
+    <div>am. No. 179, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43 </div>
+  </td>
+  <td>
+    <div>am. No. 1, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47 </div>
+  </td>
+  <td>
+    <div>am. No. 146, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52 </div>
+  </td>
+  <td>
+    <div>am. No. 140, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53 </div>
+  </td>
+  <td>
+    <div>am. No. 21, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55 </div>
+  </td>
+  <td>
+    <div>am. No. 88, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57 </div>
+  </td>
+  <td>
+    <div>am. No. 104, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74 </div>
+  </td>
+  <td>
+    <div>am. No. 118, 1997</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Airports Amendment Act 2007 (No. 59, 2007)_
-
-The following amendments commence on 13 May 2007:
-
-## Schedule 1
-
-## 169A  Section 4 (at the end of the definition of _Designated Area_)
-
-Add:
-
-Note:          Canberra Airport is not a Designated Area: see section 112A of the _Airports Act 1996_.
-
-## 170  At the end of section 10
-
-Add:
-
-Note:          This Part does not apply in relation to Canberra  Airport: see section 112A of the _Airports Act 1996_.
-
-As at 19 April 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)<o:p></o:p>_
 
-## Schedule 1
+## Schedule 1
 
 ## 97  Application of amendments
 
@@ -1941,7 +1962,7 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 
 * * *
 
-_Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003 (No. 140, 2003)_
+_Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003 (No. 140, 2003)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Transitional provisions
 
@@ -1989,6 +2010,6 @@ the enabling legislation has effect, on and after the commencing day, as if:
 
              (5)  In this section:
 
-                    <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._
+                    <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._<o:p></o:p>
 
- 
+<o:p> </o:p>
