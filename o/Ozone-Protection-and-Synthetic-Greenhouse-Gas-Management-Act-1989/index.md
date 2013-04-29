@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2010C00125/Html/OzoneProSynthGrnhouseGasMang89_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00522/Html/DDF3A6A53965A316CA2570500017C4B1/$FILE/image001.gif)
 
 # Ozone Protection and Synthetic Greenhouse Gas Management Act 1989
 
 **Act No. 7 of 1989 as amended**
 
-This compilation was prepared on 25 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 3 August 2005
+taking into account amendments up to Act No. 97 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -258,25 +260,26 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 4—Control of manufacture etc. of products containing or using scheduled substances**
 
-[1](#1).            Dry cleaning machinery                                                                   176
+[1](#1).            Dry cleaning machinery                                                                   178
 
-[2](#2).            Automotive air conditioning maintenance kits                                176
+[2](#2).            Automotive air conditioning maintenance kits                                178
 
-[4](#4).            Extruded polystyrene packaging and insulation                              177
+[4](#4).            Extruded polystyrene packaging and insulation                              179
 
-[5](#5).            Aerosol products                                                                             177
+[5](#5).            Aerosol products                                                                             179
 
-[6](#6).            Products containing halon                                                                178
+[6](#6).            Products containing halon                                                                180
 
-[7](#7).            Rigid polyurethane foam product                                                    178
+[7](#7).            Rigid polyurethane foam product                                                    180
 
-[8](#8).            Moulded flexible polyurethane foam                                               178
+[8](#8).            Moulded flexible polyurethane foam                                               180
 
-[9](#9).            Disposable containers of refrigerants                                              178
+[9](#9).            Disposable containers of refrigerants                                              180
 
-[10](#10).          Refrigeration and air conditioning equipment                                  178
+[10](#10).          Refrigeration and air conditioning equipment                                  180
 
 **Notes** 
+
 
 ## An Act to provide for measures to protect the ozone layer and to minimise emissions of SGGs
 
@@ -318,7 +321,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of an internal Territory that has been established as a body politic and of Norfolk Island.
 
-             (2)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of an internal Territory or of Norfolk  Island liable to be prosecuted for an offence.
+             (2)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of an internal Territory or of Norfolk Island liable to be prosecuted for an offence.
 
 ##### <a id="6"></a>6  Extension to external Territories
 
@@ -458,9 +461,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="stage-schuled-substanc"></a>**_stage-1 scheduled substance_** means:
 
-                     (a)   a stage-1 CFC; or
+                     (a)  a stage-1 CFC; or
 
-                     (b)   a halon.
+                     (b)  a halon.
 
                     <a name="stage-schuled-substanc"></a>**_stage-2 scheduled substance_** means:
 
@@ -893,161 +896,163 @@ Note:          Section 18 deals with variation of the condit
   <col width="37%">
 </colgroup>
 
-<tr>
-  <td colspan="3">
-    <div>
-      <b>Table of HCFC industry limits</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>Column 1</b>
-    </div>
-    <div>
-      <b>Item No.</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Column 2</b>
-    </div>
-    <div>
-      <b>Calendar year</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Column 3</b>
-    </div>
-    <div>
-      <b>HCFC industry limit Quantity of HCFCs in ODP tonnes per year</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>1996, 1997, 1998, 1999</div>
-  </td>
-  <td>
-    <div>250</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2000, 2001</div>
-  </td>
-  <td>
-    <div>220</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2002, 2003</div>
-  </td>
-  <td>
-    <div>190</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2004, 2005</div>
-  </td>
-  <td>
-    <div>160</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>2006, 2007</div>
-  </td>
-  <td>
-    <div>130</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>2008, 2009</div>
-  </td>
-  <td>
-    <div>100</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>2010, 2011</div>
-  </td>
-  <td>
-    <div>70</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>2012, 2013</div>
-  </td>
-  <td>
-    <div>40</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>2014, 2015</div>
-  </td>
-  <td>
-    <div>10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027,
-      2028, 2029</div>
-  </td>
-  <td>
-    <div>2.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>2030</div>
-  </td>
-  <td>
-    <div>0</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Table of HCFC industry limits</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+      <div>
+        <b>Item No.</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+      <div>
+        <b>Calendar year</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 3</b>
+      </div>
+      <div>
+        <b>HCFC industry limit Quantity of HCFCs in ODP tonnes per year</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>1996, 1997, 1998, 1999</div>
+    </td>
+    <td>
+      <div>250</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2000, 2001</div>
+    </td>
+    <td>
+      <div>220</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2002, 2003</div>
+    </td>
+    <td>
+      <div>190</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2004, 2005</div>
+    </td>
+    <td>
+      <div>160</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>2006, 2007</div>
+    </td>
+    <td>
+      <div>130</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>2008, 2009</div>
+    </td>
+    <td>
+      <div>100</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>2010, 2011</div>
+    </td>
+    <td>
+      <div>70</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>2012, 2013</div>
+    </td>
+    <td>
+      <div>40</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>2014, 2015</div>
+    </td>
+    <td>
+      <div>10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027,
+        2028, 2029</div>
+    </td>
+    <td>
+      <div>2.5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>2030</div>
+    </td>
+    <td>
+      <div>0</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="25"></a>25  How to work out reserve HCFC quota limits
 
@@ -1060,150 +1065,152 @@ Note:          Section 18 deals with variation of the condit
   <col width="37%">
 </colgroup>
 
-<tr>
-  <td colspan="3">
-    <div>
-      <b>Table of reserve HCFC quota limits</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>Column 1</b>
-    </div>
-    <div>
-      <b>Item No.</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Column 2</b>
-    </div>
-    <div>
-      <b>Calendar year</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Column 3</b>
-    </div>
-    <div>
-      <b>HCFC quota limit Quantity of HCFCs in ODP tonnes per year</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>1996, 1997, 1998, 1999, 2000, 2001</div>
-  </td>
-  <td>
-    <div>50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2002, 2003</div>
-  </td>
-  <td>
-    <div>40</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2004, 2005</div>
-  </td>
-  <td>
-    <div>35</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2006, 2007</div>
-  </td>
-  <td>
-    <div>30</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>2008, 2009</div>
-  </td>
-  <td>
-    <div>20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>2010, 2011</div>
-  </td>
-  <td>
-    <div>15</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>2012, 2013</div>
-  </td>
-  <td>
-    <div>10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>2014, 2015</div>
-  </td>
-  <td>
-    <div>2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027,
-      2028, 2029</div>
-  </td>
-  <td>
-    <div>0.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>2030</div>
-  </td>
-  <td>
-    <div>0</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Table of reserve HCFC quota limits</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+      <div>
+        <b>Item No.</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+      <div>
+        <b>Calendar year</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 3</b>
+      </div>
+      <div>
+        <b>HCFC quota limit Quantity of HCFCs in ODP tonnes per year</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>1996, 1997, 1998, 1999, 2000, 2001</div>
+    </td>
+    <td>
+      <div>50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2002, 2003</div>
+    </td>
+    <td>
+      <div>40</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2004, 2005</div>
+    </td>
+    <td>
+      <div>35</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2006, 2007</div>
+    </td>
+    <td>
+      <div>30</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>2008, 2009</div>
+    </td>
+    <td>
+      <div>20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>2010, 2011</div>
+    </td>
+    <td>
+      <div>15</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>2012, 2013</div>
+    </td>
+    <td>
+      <div>10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>2014, 2015</div>
+    </td>
+    <td>
+      <div>2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027,
+        2028, 2029</div>
+    </td>
+    <td>
+      <div>0.5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>2030</div>
+    </td>
+    <td>
+      <div>0</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="26"></a>26  Start of first HCFC quota period
 
@@ -1281,7 +1288,7 @@ Note:          Section 18 deals with variation of the condit
 
              (1)  The size of an HCFC quota allocated to a licensee for a quota period is to be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00125/Html/OzoneProSynthGrnhouseGasMang89_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00522/Html/DDF3A6A53965A316CA2570500017C4B1/$FILE/image002.gif)
 
 where:
 
@@ -1317,7 +1324,7 @@ where:
 
 ##### <a id="34"></a>34  Quotas cease when licences cease
 
-                   A quota allocated to a licensee stops being in force when the licensee’s licence is cancelled, or stops being in force for any other reason.
+                   A quota allocated to a licensee stops being in force when the licensee’s licence is cancelled, or stops being in force for any other reason.
 
 ##### <a id="35"></a>35  Transfer of quotas
 
@@ -1749,7 +1756,7 @@ enter the premises, and:
 
                      (c)  search the premises for the thing; and
 
-                     (d)   if the inspector finds the thing on or in the premises—seize the thing.
+                     (d)  if the inspector finds the thing on or in the premises—seize the thing.
 
              (2)  Where an information on oath is laid before a Magistrate alleging that there are reasonable grounds for suspecting that there may be upon or in any premises a particular thing that may afford evidence as to the commission of an offence against this Act or the regulations and the information sets out those grounds, the Magistrate may issue a search warrant in accordance with the form prescribed for the purposes of this subsection authorising an inspector named in the warrant, with such assistance, and by such force, as is necessary and reasonable, to enter the premises and exercise the powers referred to in paragraphs (1)(c) and (d) in respect of the thing.
 
@@ -2085,15 +2092,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (a)  an offence created by the regulations; and
 
-                     (b)  an offence:
-
-                              (i)  against section 6 of the _Crimes Act 1914_; or
-
-                             (ii)  that is taken to have been committed because of section 11.2 or 11.2A of the _Criminal Code_; or
-
-                            (iii)  against section 11.1, 11.4 or 11.5 of the _Criminal Code_;
-
-                            being an offence that relates to the regulations.
+                     (b)  an offence created by section 5, 6, 7 or 7A, or subsection 86 (1), of the _Crimes Act 1914_, being an offence that relates to the regulations.
 
 ## Part VIIIA—Ozone Protection and SGG Account
 
@@ -2265,6 +2264,7 @@ and includes any amount payable under either of those Acts as in force before th
 
 including regulations prescribing penalties, not exceeding $1,000 in the case of a natural person or $5,000 in the case of a body corporate, for offences against the regulations.
 
+
 # Schedule 1—Scheduled substances
 
 _Section 7_
@@ -2305,86 +2305,88 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Trichlorofluoromethane</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-11)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dichlorodifluoromethane</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-12)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trichlorotrifluoroethane</div>
-  </td>
-  <td>
-    <div>0.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-113)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dichlorotetrafluoroethane</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-114)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(Mono) chloropentafluoroethane</div>
-  </td>
-  <td>
-    <div>0.6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-115)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Trichlorofluoromethane</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-11)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Dichlorodifluoromethane</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-12)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Trichlorotrifluoroethane</div>
+    </td>
+    <td>
+      <div>0.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-113)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Dichlorotetrafluoroethane</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-114)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(Mono) chloropentafluoroethane</div>
+    </td>
+    <td>
+      <div>0.6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-115)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
 ### Division 2—Stage-2 CFCs
 
@@ -2420,201 +2422,203 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>CF
-      3C
-      l
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-13)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2FCl
-      5
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-111)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2F
-      2Cl
-      4
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-112)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3FCl
-      7
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-211)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      2Cl
-      6
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-212)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      3Cl
-      5
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-213)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      4Cl
-      4
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-214)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      5Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-215)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      6Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-216)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      7Cl</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CFC-217)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>CF
+        3C
+        l
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-13)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2FCl
+        5
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-111)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2F
+        2Cl
+        4
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-112)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3FCl
+        7
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-211)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        2Cl
+        6
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-212)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        3Cl
+        5
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-213)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        4Cl
+        4
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-214)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        5Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-215)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        6Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-216)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        7Cl</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CFC-217)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part II—Halons
 
@@ -2650,54 +2654,56 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Bromochlorodifluoromethane</div>
-  </td>
-  <td>
-    <div>3.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(Halon-1211)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bromotrifluoromethane</div>
-  </td>
-  <td>
-    <div>10.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(Halon-1301)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dibromotetrafluoroethane</div>
-  </td>
-  <td>
-    <div>6.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(Halon-2402)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Bromochlorodifluoromethane</div>
+    </td>
+    <td>
+      <div>3.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(Halon-1211)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Bromotrifluoromethane</div>
+    </td>
+    <td>
+      <div>10.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(Halon-1301)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Dibromotetrafluoroethane</div>
+    </td>
+    <td>
+      <div>6.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(Halon-2402)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part III—Carbon tetrachloride
 
@@ -2733,23 +2739,25 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Carbon tetrachloride</div>
-  </td>
-  <td>
-    <div>1.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(CCl
-      4)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Carbon tetrachloride</div>
+    </td>
+    <td>
+      <div>1.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(CCl
+        4)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part IV—Methyl chloroform
 
@@ -2785,27 +2793,29 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1,1,1-trichloroethane</div>
-  </td>
-  <td>
-    <div>0.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(C
-      2H
-      3Cl
-      3
-        <span style="position:relative;top:-3.0pt">*</span>
-      )</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1,1,1-trichloroethane</div>
+    </td>
+    <td>
+      <div>0.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(C
+        2H
+        3Cl
+        3
+          <span style="POSITION: relative; TOP: -3pt">*</span>
+        )</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
 * This formula does not refer to 1,1,2-trichloroethane
 
@@ -2813,8 +2823,8 @@ _Section 7_
 
 <table>
 <colgroup>
-  <col width="50%">
-  <col width="50%">
+  <col width="33%">
+  <col width="67%">
 </colgroup>
 
 <thead>
@@ -2843,788 +2853,790 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>CHFCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.04</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-21)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHF
-      2Cl</div>
-  </td>
-  <td>
-    <div>0.055</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-22)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH
-      2FCl</div>
-  </td>
-  <td>
-    <div>0.02</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-31)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HFCl
-      4
-    </div>
-  </td>
-  <td>
-    <div>0.04</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-121)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      2Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>0.08</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-122)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      3Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.06</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-123)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHCl
-      2CF
-      3
-    </div>
-  </td>
-  <td>
-    <div>0.02</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-123)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      4Cl</div>
-  </td>
-  <td>
-    <div>0.04</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-124)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHFClCF
-      3
-    </div>
-  </td>
-  <td>
-    <div>0.022</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-124)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2FCl
-      3
-    </div>
-  </td>
-  <td>
-    <div>0.05</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-131)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2F
-      2Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.05</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-132)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2F
-      3Cl</div>
-  </td>
-  <td>
-    <div>0.06</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-133)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      3FCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.07</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-141)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH
-      3CFCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.11</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> (HCFC-141b)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      3F
-      2Cl</div>
-  </td>
-  <td>
-    <div>0.07</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-142)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH
-      3CF
-      2Cl</div>
-  </td>
-  <td>
-    <div>0.065</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-142b)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      4FCl</div>
-  </td>
-  <td>
-    <div>0.005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-151)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HFCl
-      6
-    </div>
-  </td>
-  <td>
-    <div>0.07</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-221)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      2Cl
-      5
-    </div>
-  </td>
-  <td>
-    <div>0.09</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-222)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      3Cl
-      4
-    </div>
-  </td>
-  <td>
-    <div>0.08</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-223)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      4Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>0.09</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-224)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      5Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.07</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-225)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF
-      3CF
-      2CHCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.025</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-225ca)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF
-      2ClCF
-      2CHClF</div>
-  </td>
-  <td>
-    <div>0.033</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-225cb)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      6Cl</div>
-  </td>
-  <td>
-    <div>0.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-226)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2FCl
-      5
-    </div>
-  </td>
-  <td>
-    <div>0.09</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-231)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      2Cl
-      4
-    </div>
-  </td>
-  <td>
-    <div>0.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-232)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      3Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>0.23</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-233)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      4Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.28</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-234)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      5Cl</div>
-  </td>
-  <td>
-    <div>0.52</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-235)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3FCl
-      4
-    </div>
-  </td>
-  <td>
-    <div>0.09</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-241)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      2Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>0.13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-242)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      3Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.12</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-243)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      4Cl</div>
-  </td>
-  <td>
-    <div>0.14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-244)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4FCl
-      3
-    </div>
-  </td>
-  <td>
-    <div>0.01</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-251)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4F
-      2Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.04</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-252)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4F
-      3Cl</div>
-  </td>
-  <td>
-    <div>0.03</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-253)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      5FCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.02</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-261)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      5F
-      2Cl</div>
-  </td>
-  <td>
-    <div>0.02</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-262)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      6FCl</div>
-  </td>
-  <td>
-    <div>0.03</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(HCFC-271)</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>CHFCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.04</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-21)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHF
+        2Cl</div>
+    </td>
+    <td>
+      <div>0.055</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-22)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH
+        2FCl</div>
+    </td>
+    <td>
+      <div>0.02</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-31)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HFCl
+        4
+      </div>
+    </td>
+    <td>
+      <div>0.04</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-121)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        2Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>0.08</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-122)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        3Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.06</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-123)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHCl
+        2CF
+        3
+      </div>
+    </td>
+    <td>
+      <div>0.02</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-123)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        4Cl</div>
+    </td>
+    <td>
+      <div>0.04</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-124)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHFClCF
+        3
+      </div>
+    </td>
+    <td>
+      <div>0.022</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-124)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2FCl
+        3
+      </div>
+    </td>
+    <td>
+      <div>0.05</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-131)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2F
+        2Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.05</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-132)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2F
+        3Cl</div>
+    </td>
+    <td>
+      <div>0.06</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-133)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        3FCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.07</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-141)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH
+        3CFCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.11</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-141b)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        3F
+        2Cl</div>
+    </td>
+    <td>
+      <div>0.07</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-142)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH
+        3CF
+        2Cl</div>
+    </td>
+    <td>
+      <div>0.065</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-142b)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        4FCl</div>
+    </td>
+    <td>
+      <div>0.005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-151)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HFCl
+        6
+      </div>
+    </td>
+    <td>
+      <div>0.07</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-221)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        2Cl
+        5
+      </div>
+    </td>
+    <td>
+      <div>0.09</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-222)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        3Cl
+        4
+      </div>
+    </td>
+    <td>
+      <div>0.08</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-223)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        4Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>0.09</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-224)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        5Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.07</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-225)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF
+        3CF
+        2CHCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.025</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-225ca)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF
+        2ClCF
+        2CHClF</div>
+    </td>
+    <td>
+      <div>0.033</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-225cb)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        6Cl</div>
+    </td>
+    <td>
+      <div>0.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-226)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2FCl
+        5
+      </div>
+    </td>
+    <td>
+      <div>0.09</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-231)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        2Cl
+        4
+      </div>
+    </td>
+    <td>
+      <div>0.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-232)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        3Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>0.23</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-233)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        4Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.28</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-234)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        5Cl</div>
+    </td>
+    <td>
+      <div>0.52</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-235)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3FCl
+        4
+      </div>
+    </td>
+    <td>
+      <div>0.09</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-241)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        2Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>0.13</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-242)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        3Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.12</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-243)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        4Cl</div>
+    </td>
+    <td>
+      <div>0.14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-244)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4FCl
+        3
+      </div>
+    </td>
+    <td>
+      <div>0.01</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-251)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4F
+        2Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.04</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-252)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4F
+        3Cl</div>
+    </td>
+    <td>
+      <div>0.03</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-253)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        5FCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.02</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-261)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        5F
+        2Cl</div>
+    </td>
+    <td>
+      <div>0.02</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-262)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        6FCl</div>
+    </td>
+    <td>
+      <div>0.03</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(HCFC-271)</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part VI—HBFCs
 
 <table>
 <colgroup>
-  <col width="50%">
-  <col width="50%">
+  <col width="33%">
+  <col width="67%">
 </colgroup>
 
 <thead>
@@ -3653,399 +3665,403 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>CHFBr
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHF
-      2Br
+<tbody>
+  <tr>
+    <td>
+      <div>CHFBr
+        2
+      </div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHF
+        2Br
 
-(HBFC-22B1)</div>
-  </td>
-  <td>
-    <div>0.74</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH
-      2FBr</div>
-  </td>
-  <td>
-    <div>0.73</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HFBr
-      4
-    </div>
-  </td>
-  <td>
-    <div>0.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      2Br
-      3
-    </div>
-  </td>
-  <td>
-    <div>1.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      3Br
-      2
-    </div>
-  </td>
-  <td>
-    <div>1.6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      4Br</div>
-  </td>
-  <td>
-    <div>1.2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2FBr
-      3
-    </div>
-  </td>
-  <td>
-    <div>1.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2F
-      2Br
-      2
-    </div>
-  </td>
-  <td>
-    <div>1.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2F
-      3Br</div>
-  </td>
-  <td>
-    <div>1.6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      3FBr
-      2
-    </div>
-  </td>
-  <td>
-    <div>1.7</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      3F
-      2Br</div>
-  </td>
-  <td>
-    <div>1.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      4FBr</div>
-  </td>
-  <td>
-    <div>0.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HFBr
-      6
-    </div>
-  </td>
-  <td>
-    <div>1.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      2Br
-      5
-    </div>
-  </td>
-  <td>
-    <div>1.9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      3Br
-      4
-    </div>
-  </td>
-  <td>
-    <div>1.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      4Br
-      3
-    </div>
-  </td>
-  <td>
-    <div>2.2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      5Br
-      2
-    </div>
-  </td>
-  <td>
-    <div>2.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      6Br</div>
-  </td>
-  <td>
-    <div>3.3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2FBr
-      5
-    </div>
-  </td>
-  <td>
-    <div>1.9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      2Br
-      4
-    </div>
-  </td>
-  <td>
-    <div>2.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      3Br
-      3
-    </div>
-  </td>
-  <td>
-    <div>5.6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      4Br
-      2
-    </div>
-  </td>
-  <td>
-    <div>7.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      5Br</div>
-  </td>
-  <td>
-    <div>1.4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3FBr
-      4
-    </div>
-  </td>
-  <td>
-    <div>1.9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      2Br
-      3
-    </div>
-  </td>
-  <td>
-    <div>3.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      3Br
-      2
-    </div>
-  </td>
-  <td>
-    <div>2.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      4Br</div>
-  </td>
-  <td>
-    <div>4.4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4FBr
-      3
-    </div>
-  </td>
-  <td>
-    <div>0.3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4F
-      2Br
-      2
-    </div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4F
-      3Br</div>
-  </td>
-  <td>
-    <div>0.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      5FBr
-      2
-    </div>
-  </td>
-  <td>
-    <div>0.4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      5F
-      2Br</div>
-  </td>
-  <td>
-    <div>0.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      6FBr</div>
-  </td>
-  <td>
-    <div>0.7</div>
-  </td>
-</tr></table>
+(HBFC-22B1)
+
+      </div>
+    </td>
+    <td>
+      <div>0.74</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH
+        2FBr</div>
+    </td>
+    <td>
+      <div>0.73</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HFBr
+        4
+      </div>
+    </td>
+    <td>
+      <div>0.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        2Br
+        3
+      </div>
+    </td>
+    <td>
+      <div>1.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        3Br
+        2
+      </div>
+    </td>
+    <td>
+      <div>1.6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        4Br</div>
+    </td>
+    <td>
+      <div>1.2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2FBr
+        3
+      </div>
+    </td>
+    <td>
+      <div>1.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2F
+        2Br
+        2
+      </div>
+    </td>
+    <td>
+      <div>1.5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2F
+        3Br</div>
+    </td>
+    <td>
+      <div>1.6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        3FBr
+        2
+      </div>
+    </td>
+    <td>
+      <div>1.7</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        3F
+        2Br</div>
+    </td>
+    <td>
+      <div>1.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        4FBr</div>
+    </td>
+    <td>
+      <div>0.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HFBr
+        6
+      </div>
+    </td>
+    <td>
+      <div>1.5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        2Br
+        5
+      </div>
+    </td>
+    <td>
+      <div>1.9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        3Br
+        4
+      </div>
+    </td>
+    <td>
+      <div>1.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        4Br
+        3
+      </div>
+    </td>
+    <td>
+      <div>2.2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        5Br
+        2
+      </div>
+    </td>
+    <td>
+      <div>2.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        6Br</div>
+    </td>
+    <td>
+      <div>3.3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2FBr
+        5
+      </div>
+    </td>
+    <td>
+      <div>1.9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        2Br
+        4
+      </div>
+    </td>
+    <td>
+      <div>2.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        3Br
+        3
+      </div>
+    </td>
+    <td>
+      <div>5.6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        4Br
+        2
+      </div>
+    </td>
+    <td>
+      <div>7.5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        5Br</div>
+    </td>
+    <td>
+      <div>1.4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3FBr
+        4
+      </div>
+    </td>
+    <td>
+      <div>1.9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        2Br
+        3
+      </div>
+    </td>
+    <td>
+      <div>3.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        3Br
+        2
+      </div>
+    </td>
+    <td>
+      <div>2.5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        4Br</div>
+    </td>
+    <td>
+      <div>4.4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4FBr
+        3
+      </div>
+    </td>
+    <td>
+      <div>0.3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4F
+        2Br
+        2
+      </div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4F
+        3Br</div>
+    </td>
+    <td>
+      <div>0.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        5FBr
+        2
+      </div>
+    </td>
+    <td>
+      <div>0.4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        5F
+        2Br</div>
+    </td>
+    <td>
+      <div>0.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        6FBr</div>
+    </td>
+    <td>
+      <div>0.7</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part VII—Methyl bromide
 
@@ -4055,39 +4071,41 @@ _Section 7_
   <col width="49%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>
-      <b>Column 1</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Column 2</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>Substance</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Ozone depleting potential</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH
-      3Br</div>
-  </td>
-  <td>
-    <div>0.7</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Substance</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Ozone depleting potential</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH
+        3Br</div>
+    </td>
+    <td>
+      <div>0.7</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part VIII—Bromochloromethane
 
@@ -4111,15 +4129,17 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>CH
-      2BrCl</div>
-  </td>
-  <td>
-    <div>0.12</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>CH
+        2BrCl</div>
+    </td>
+    <td>
+      <div>0.12</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part IX—HFCs
 
@@ -4137,104 +4157,106 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>CHF 3 (HFC-23)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH 2 F 2 (HFC-32)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH 3 F  (HFC-41)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHF 2 CF 3 (HFC-125)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHF 2 CHF 2 (HFC-134)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH 2 FCF 3 (HFC-134a)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHF 2 CH 2 F  (HFC-143)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF 3 CH 3 (HFC-143a)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH 2 FCH 2 F  (HFC-152)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH 3 CHF 2 (HFC-152a)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH 3 CH 2 F  (HFC-161)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF 3 CHFCF 3 (HFC-227ea)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH 2 FCF 2 CF 3 (HFC-236cb)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHF 2 CHFCF 3 (HFC-236ea)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF 3 CH 2 CF 3 (HFC-236fa)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH 2 FCF 2 CHF 2 (HFC-245ca)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHF 2 CH 2 CF 3 (HFC-245fa)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF 3 CH 2 CF 2 CH 3 (HFC-365mfc)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF
-      3CHFCHFCF
-      2CF
-      3(HFC-43-10mee)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>CHF 3 (HFC-23)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH 2 F 2 (HFC-32)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH 3 F  (HFC-41)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHF 2 CF 3 (HFC-125)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHF 2 CHF 2 (HFC-134)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH 2 FCF 3 (HFC-134a)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHF 2 CH 2 F  (HFC-143)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF 3 CH 3 (HFC-143a)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH 2 FCH 2 F  (HFC-152)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH 3 CHF 2 (HFC-152a)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH 3 CH 2 F  (HFC-161)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF 3 CHFCF 3 (HFC-227ea)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH 2 FCF 2 CF 3 (HFC-236cb)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHF 2 CHFCF 3 (HFC-236ea)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF 3 CH 2 CF 3 (HFC-236fa)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH 2 FCF 2 CHF 2 (HFC-245ca)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHF 2 CH 2 CF 3 (HFC-245fa)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF 3 CH 2 CF 2 CH 3 (HFC-365mfc)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF
+        3CHFCHFCF
+        2CF
+        3(HFC-43-10mee)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part X—PFCs
 
@@ -4252,67 +4274,70 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>CF
-      4
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2F
-      6
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      8
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      4F
-      10
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>c-C
-      4F
-      8
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      5F
-      12
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      6F
-      14
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>CF
+        4
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2F
+        6
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        8
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        4F
+        10
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>c-C
+        4F
+        8
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        5F
+        12
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        6F
+        14
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 # Schedule 2—Vienna Convention for the Protection of the Ozone Layer
 
 _Section 7_
 
-<span style="font-family:" new="">P</span>r<u>eamble</u>
+<span style="FONT-FAMILY: 'Times New Roman'">P</span>r<u>eamble</u>
 
 The Parties to this Convention,
 
@@ -4544,7 +4569,7 @@ SETTLEMENT OF DISPUTES
 
 SIGNATURE
 
-This Convention shall be open for signature by States and by regional economic integration organizations at the Federal Ministry for Foreign Affairs of the Republic  of Austria in Vienna from 22 March 1985 to 21 September 1985, and at United Nations Headquarters in New York from 22 September 1985 to 21 March 1986.
+This Convention shall be open for signature by States and by regional economic integration organizations at the Federal Ministry for Foreign Affairs of the Republic of Austria in Vienna from 22 March 1985 to 21 September 1985, and at United Nations Headquarters in New York from 22 September 1985 to 21 March 1986.
 
 <u>Article 13</u>
 
@@ -4813,6 +4838,9 @@ This includes information on:
 (b)   International agreements, including bilateral agreements, relevant to the protection of the ozone layer;
 
 (c)   Methods and terms of licensing and availability of patents relevant to the protection of the ozone layer.
+
+ 
+
 
 # Schedule 3—Montreal Protocol on Substances that Deplete the Ozone Layer
 
@@ -5281,149 +5309,151 @@ CONTROLLED SUBSTANCES
   <col width="41%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Group</div>
-  </td>
-  <td>
-    <div>Substance</div>
-  </td>
-  <td>
-    <div>Ozone Depleting Potential
-      */</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Group I</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CFCl
-      3
-    </div>
-  </td>
-  <td>
-    <div>(CFC-11)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF
-      2Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(CFC-12)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2F
-      3Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>(CFC-113)</div>
-  </td>
-  <td>
-    <div>0.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2F
-      4Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(CFC-114)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2F
-      5Cl</div>
-  </td>
-  <td>
-    <div>(CFC-115)</div>
-  </td>
-  <td>
-    <div>0.6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Group II</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF
-      2BrCl</div>
-  </td>
-  <td>
-    <div>(halon-1211)</div>
-  </td>
-  <td>
-    <div>3.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF
-      3Br</div>
-  </td>
-  <td>
-    <div>(halon-1301)</div>
-  </td>
-  <td>
-    <div>10.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2F
-      4Br
-      2
-    </div>
-  </td>
-  <td>
-    <div>(halon-2402)</div>
-  </td>
-  <td>
-    <div>6.0</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Group</div>
+    </td>
+    <td>
+      <div>Substance</div>
+    </td>
+    <td>
+      <div>Ozone Depleting Potential
+        */</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Group I</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CFCl
+        3
+      </div>
+    </td>
+    <td>
+      <div>(CFC-11)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF
+        2Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(CFC-12)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2F
+        3Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>(CFC-113)</div>
+    </td>
+    <td>
+      <div>0.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2F
+        4Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(CFC-114)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2F
+        5Cl</div>
+    </td>
+    <td>
+      <div>(CFC-115)</div>
+    </td>
+    <td>
+      <div>0.6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Group II</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF
+        2BrCl</div>
+    </td>
+    <td>
+      <div>(halon-1211)</div>
+    </td>
+    <td>
+      <div>3.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF
+        3Br</div>
+    </td>
+    <td>
+      <div>(halon-1301)</div>
+    </td>
+    <td>
+      <div>10.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2F
+        4Br
+        2
+      </div>
+    </td>
+    <td>
+      <div>(halon-2402)</div>
+    </td>
+    <td>
+      <div>6.0</div>
+    </td>
+  </tr>
+</tbody></table>
 
 * /  These ozone depleting potentials are estimates based on existing knowledge and will be reviewed and revised periodically.
 
@@ -5451,211 +5481,213 @@ CONTROLLED SUBSTANCES
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Group I</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF
-      3Cl</div>
-  </td>
-  <td>
-    <div>(CFC-13)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2FCl
-      5
-    </div>
-  </td>
-  <td>
-    <div>(CFC-111)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2F
-      2Cl
-      4
-    </div>
-  </td>
-  <td>
-    <div>(CFC-112)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3FCl
-      7
-    </div>
-  </td>
-  <td>
-    <div>(CFC-211)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      2Cl
-      6
-    </div>
-  </td>
-  <td>
-    <div>(CFC-212)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      3Cl
-      5
-    </div>
-  </td>
-  <td>
-    <div>(CFC-213)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      4Cl
-      4
-    </div>
-  </td>
-  <td>
-    <div>(CFC-214)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      5Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>(CFC-215)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      6Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(CFC-216)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3F
-      7Cl</div>
-  </td>
-  <td>
-    <div>(CFC-217)</div>
-  </td>
-  <td>
-    <div>1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Group II</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CCl
-      4
-    </div>
-  </td>
-  <td>
-    <div>carbon tetrachloride</div>
-  </td>
-  <td>
-    <div>1.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Group III</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      3Cl
-      3
-        <span style="position:relative;top:-3.0pt">*</span>
-       </div>
-  </td>
-  <td>
-    <div>1,1,1-trichloroethane (methyl chloroform)</div>
-  </td>
-  <td>
-    <div>0.1</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Group I</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF
+        3Cl</div>
+    </td>
+    <td>
+      <div>(CFC-13)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2FCl
+        5
+      </div>
+    </td>
+    <td>
+      <div>(CFC-111)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2F
+        2Cl
+        4
+      </div>
+    </td>
+    <td>
+      <div>(CFC-112)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3FCl
+        7
+      </div>
+    </td>
+    <td>
+      <div>(CFC-211)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        2Cl
+        6
+      </div>
+    </td>
+    <td>
+      <div>(CFC-212)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        3Cl
+        5
+      </div>
+    </td>
+    <td>
+      <div>(CFC-213)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        4Cl
+        4
+      </div>
+    </td>
+    <td>
+      <div>(CFC-214)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        5Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>(CFC-215)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        6Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(CFC-216)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3F
+        7Cl</div>
+    </td>
+    <td>
+      <div>(CFC-217)</div>
+    </td>
+    <td>
+      <div>1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Group II</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CCl
+        4
+      </div>
+    </td>
+    <td>
+      <div>carbon tetrachloride</div>
+    </td>
+    <td>
+      <div>1.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Group III</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        3Cl
+        3
+          <span style="POSITION: relative; TOP: -3pt">*</span>
+         </div>
+    </td>
+    <td>
+      <div>1,1,1-trichloroethane (methyl chloroform)</div>
+    </td>
+    <td>
+      <div>0.1</div>
+    </td>
+  </tr>
+</tbody></table>
 
 *    This formula does not refer to 1,1,2-trichloroethane.
 
@@ -5689,1334 +5721,1336 @@ CONTROLLED SUBSTANCES
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Group I</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHFCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-21)
-      ** </div>
-  </td>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>0.04</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHF
-      2Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-22)
-      ** </div>
-  </td>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>0.055</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH
-      2FCl</div>
-  </td>
-  <td>
-    <div>(HCFC-31)</div>
-  </td>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>0.02</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HFCl
-      4
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-121)</div>
-  </td>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>0.01—0.04</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      2Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-122)</div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.02—0.08</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      3Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-123)</div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.02—0.06</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHCl
-      2CF
-      3
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-123)
-      ** </div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div>0.02</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      4Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-124)</div>
-  </td>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>0.02—0.04</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHFClCF
-      3
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-124)
-      ** </div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div>0.022</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2FCl
-      3
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-131)</div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.007—0.05</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2F
-      2Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-132)</div>
-  </td>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>0.008—0.05</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2F
-      3Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-133)</div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.02—0.06</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      3FCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-141)</div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.005—0.07</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH
-      3CFCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-141b)
-      ** </div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div>0.11</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      3F
-      2Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-142)</div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.008—0.07</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH
-      3CF
-      2Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-142b)
-      ** </div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div>0.065</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      4FCl</div>
-  </td>
-  <td>
-    <div>(HCFC-151)</div>
-  </td>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>0.003—0.005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HFCl
-      6
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-221)</div>
-  </td>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>0.015—0.07</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      2Cl
-      5
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-222)</div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.01—0.09</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      3Cl
-      4
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-223)</div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.01—0.08</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      4Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-224)</div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.01—0.09</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      5Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-225)</div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.02—0.07</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF
-      3CF
-      2CHCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-225ca)
-      **
-    </div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div>0.025</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CF
-      2ClCF
-      2CHClF</div>
-  </td>
-  <td>
-    <div>(HCFC-225cb)
-      **
-    </div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div>0.033</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      6Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-226)</div>
-  </td>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>0.02—0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2FCl
-      5
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-231)</div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.05—0.09</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      2Cl
-      4
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-232)</div>
-  </td>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>0.008—0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      3Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-233)</div>
-  </td>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>0.007—0.23</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      4Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-234)</div>
-  </td>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>0.01—0.28</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      5Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-235)</div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.03—0.52</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3FCl
-      4
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-241)</div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.004—0.09</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      2Cl
-      3
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-242)</div>
-  </td>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>0.005—0.13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      3Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-243)</div>
-  </td>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>0.007—0.12</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      4Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-244)</div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.009—0.14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4FCl
-      3
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-251)</div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.001—0.01</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4F
-      2Cl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-252)</div>
-  </td>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>0.005—0.04</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4F
-      3Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-253)</div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.003—0.03</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      5FCl
-      2
-    </div>
-  </td>
-  <td>
-    <div>(HCFC-261)</div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.002—0.02</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      5F
-      2Cl</div>
-  </td>
-  <td>
-    <div>(HCFC-262)</div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.002—0.02</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      6FCl</div>
-  </td>
-  <td>
-    <div>(HCFC-271)</div>
-  </td>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>0.001—0.03</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Group II</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHFBr
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>1.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CHF
-      2Br</div>
-  </td>
-  <td>
-    <div>(HBFC-22B1)</div>
-  </td>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>0.74</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH
-      2FBr</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>0.73</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HFBr
-      4
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>0.3—0.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      2Br
-      3
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.5—1.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      3Br
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.4—1.6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2HF
-      4Br</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>0.7—1.2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2FBr
-      3
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.1—1.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2F
-      2Br
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>0.2—1.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      2F
-      3Br</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.7—1.6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      3FBr
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.1—1.7</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      3F
-      2Br</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>0.2—1.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      2H
-      4FBr</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>0.07—0.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HFBr
-      6
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>0.3—1.15</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      2Br
-      5
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.2—1.9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      3Br
-      4
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.3—1.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      4Br
-      3
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.5—2.2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      5Br
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.9—2.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3HF
-      6Br</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>0.7—3.3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2FBr
-      5
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.1—1.9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      2Br
-      4
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>0.2—2.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      3Br
-      3
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>0.2—5.6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      4Br
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>0.3—7.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      2F
-      5Br</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>0.9—1.4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3FBr
-      4
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.08—1.9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      2Br
-      3
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>0.1—3.1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      3Br
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>0.1—2.5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      3F
-      4Br
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.3—4.4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4FBr
-      3
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.03—0.3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4F
-      2Br</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>0.1—1.0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      4F
-      3Br</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>0.07—0.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      5FBr
-      2
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.04—0.4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      5F
-      2Br</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>0.07—0.8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C
-      3H
-      6FBr</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>0.02—0.7</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Group I</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHFCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-21)
+        ** </div>
+    </td>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>0.04</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHF
+        2Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-22)
+        ** </div>
+    </td>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>0.055</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH
+        2FCl</div>
+    </td>
+    <td>
+      <div>(HCFC-31)</div>
+    </td>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>0.02</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HFCl
+        4
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-121)</div>
+    </td>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>0.01—0.04</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        2Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-122)</div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.02—0.08</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        3Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-123)</div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.02—0.06</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHCl
+        2CF
+        3
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-123)
+        ** </div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+    <td>
+      <div>0.02</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        4Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-124)</div>
+    </td>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>0.02—0.04</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHFClCF
+        3
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-124)
+        ** </div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+    <td>
+      <div>0.022</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2FCl
+        3
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-131)</div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.007—0.05</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2F
+        2Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-132)</div>
+    </td>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>0.008—0.05</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2F
+        3Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-133)</div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.02—0.06</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        3FCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-141)</div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.005—0.07</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH
+        3CFCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-141b)
+        ** </div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+    <td>
+      <div>0.11</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        3F
+        2Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-142)</div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.008—0.07</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH
+        3CF
+        2Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-142b)
+        ** </div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+    <td>
+      <div>0.065</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        4FCl</div>
+    </td>
+    <td>
+      <div>(HCFC-151)</div>
+    </td>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>0.003—0.005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HFCl
+        6
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-221)</div>
+    </td>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>0.015—0.07</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        2Cl
+        5
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-222)</div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.01—0.09</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        3Cl
+        4
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-223)</div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.01—0.08</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        4Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-224)</div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.01—0.09</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        5Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-225)</div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.02—0.07</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF
+        3CF
+        2CHCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-225ca)
+        **
+      </div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+    <td>
+      <div>0.025</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CF
+        2ClCF
+        2CHClF</div>
+    </td>
+    <td>
+      <div>(HCFC-225cb)
+        **
+      </div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+    <td>
+      <div>0.033</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        6Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-226)</div>
+    </td>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>0.02—0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2FCl
+        5
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-231)</div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.05—0.09</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        2Cl
+        4
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-232)</div>
+    </td>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>0.008—0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        3Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-233)</div>
+    </td>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>0.007—0.23</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        4Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-234)</div>
+    </td>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>0.01—0.28</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        5Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-235)</div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.03—0.52</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3FCl
+        4
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-241)</div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.004—0.09</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        2Cl
+        3
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-242)</div>
+    </td>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>0.005—0.13</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        3Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-243)</div>
+    </td>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>0.007—0.12</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        4Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-244)</div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.009—0.14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4FCl
+        3
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-251)</div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.001—0.01</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4F
+        2Cl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-252)</div>
+    </td>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>0.005—0.04</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4F
+        3Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-253)</div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.003—0.03</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        5FCl
+        2
+      </div>
+    </td>
+    <td>
+      <div>(HCFC-261)</div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.002—0.02</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        5F
+        2Cl</div>
+    </td>
+    <td>
+      <div>(HCFC-262)</div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.002—0.02</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        6FCl</div>
+    </td>
+    <td>
+      <div>(HCFC-271)</div>
+    </td>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>0.001—0.03</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Group II</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHFBr
+        2
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>1.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CHF
+        2Br</div>
+    </td>
+    <td>
+      <div>(HBFC-22B1)</div>
+    </td>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>0.74</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH
+        2FBr</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>0.73</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HFBr
+        4
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>0.3—0.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        2Br
+        3
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.5—1.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        3Br
+        2
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.4—1.6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2HF
+        4Br</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>0.7—1.2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2FBr
+        3
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.1—1.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2F
+        2Br
+        2
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>0.2—1.5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        2F
+        3Br</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.7—1.6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        3FBr
+        2
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.1—1.7</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        3F
+        2Br</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>0.2—1.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        2H
+        4FBr</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>0.07—0.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HFBr
+        6
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>0.3—1.15</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        2Br
+        5
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.2—1.9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        3Br
+        4
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.3—1.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        4Br
+        3
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.5—2.2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        5Br
+        2
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.9—2.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3HF
+        6Br</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>0.7—3.3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2FBr
+        5
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.1—1.9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        2Br
+        4
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>0.2—2.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        3Br
+        3
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>0.2—5.6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        4Br
+        2
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>0.3—7.5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        2F
+        5Br</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>0.9—1.4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3FBr
+        4
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.08—1.9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        2Br
+        3
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>0.1—3.1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        3Br
+        2
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>0.1—2.5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        3F
+        4Br
+        2
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.3—4.4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4FBr
+        3
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.03—0.3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4F
+        2Br</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>0.1—1.0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        4F
+        3Br</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>0.07—0.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        5FBr
+        2
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.04—0.4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        5F
+        2Br</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>0.07—0.8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C
+        3H
+        6FBr</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>0.02—0.7</div>
+    </td>
+  </tr>
+</tbody></table>
 
 *       Where a range of ODPs is indicated, the highest value in that range shall be used for the purposes of the Protocol. The ODPs listed as a single value have been determined from calculations based on laboratory measurements. Those listed as a range are based on estimates and are less certain. The range pertains to an isomeric group. The upper value is the estimate of the ODP of the isomer with the highest ODP, and the lower value is the estimate of the ODP of the isomer with the lowest ODP.
 
@@ -7025,8 +7059,8 @@ CONTROLLED SUBSTANCES
 <u>Annex D</u><u>* </u>
 
 A LIST OF PRODUCTS** CONTAINING CONTROLLED
- SUBSTANCES SPECIFIED IN ANNEX A (ADOPTED IN 
- ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
+SUBSTANCES SPECIFIED IN ANNEX A (ADOPTED IN 
+ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
 
 <table>
 <colgroup>
@@ -7035,152 +7069,154 @@ A LIST OF PRODUCTS** CONTAINING CONTROLLED
   <col width="38%">
 </colgroup>
 
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>PRODUCTS</div>
-  </td>
-  <td>
-    <div>CUSTOMS CODE NO.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>1.</div>
-  </td>
-  <td>
-    <div>Automobile and truck air conditioning units (whether incorporated in vehicles
-      or not)</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2.</div>
-  </td>
-  <td>
-    <div>Domestic and commercial refrigeration and air conditioning/heat pump equipment
-      ***
-    </div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>e.g. Refrigerators</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>Freezers</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>Dehumidifiers</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>Water coolers</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>Ice machines</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>Air conditioning and heat pump units</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3.</div>
-  </td>
-  <td>
-    <div>Aerosol products, except medical aerosols</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4.</div>
-  </td>
-  <td>
-    <div>Portable fire extinguisher</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5.</div>
-  </td>
-  <td>
-    <div>Insulation boards, panels and pipe covers</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6.</div>
-  </td>
-  <td>
-    <div>Pre-polymers</div>
-  </td>
-  <td>
-    <div>.........................</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>PRODUCTS</div>
+    </td>
+    <td>
+      <div>CUSTOMS CODE NO.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>1.</div>
+    </td>
+    <td>
+      <div>Automobile and truck air conditioning units (whether incorporated in vehicles
+        or not)</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2.</div>
+    </td>
+    <td>
+      <div>Domestic and commercial refrigeration and air conditioning/heat pump equipment
+        ***
+      </div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>e.g. Refrigerators</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>Freezers</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>Dehumidifiers</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>Water coolers</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>Ice machines</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>Air conditioning and heat pump units</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3.</div>
+    </td>
+    <td>
+      <div>Aerosol products, except medical aerosols</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4.</div>
+    </td>
+    <td>
+      <div>Portable fire extinguisher</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5.</div>
+    </td>
+    <td>
+      <div>Insulation boards, panels and pipe covers</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6.</div>
+    </td>
+    <td>
+      <div>Pre-polymers</div>
+    </td>
+    <td>
+      <div>.........................</div>
+    </td>
+  </tr>
+</tbody></table>
 
 *       This Annex was adopted by the Third Meeting of the Parties in Nairobi, 21 June 1991 as required by paragraph 3 of Article 4 of the Protocol.
 
@@ -7199,39 +7235,44 @@ CONTROLLED SUBSTANCE
   <col width="37%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Group</div>
-  </td>
-  <td>
-    <div>Substance</div>
-  </td>
-  <td>
-    <div>Ozone Depleting Potential</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Group I</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CH3Br</div>
-  </td>
-  <td>
-    <div>methyl bromide</div>
-  </td>
-  <td>
-    <div>0.7</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Group</div>
+    </td>
+    <td>
+      <div>Substance</div>
+    </td>
+    <td>
+      <div>Ozone Depleting Potential</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Group I</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CH3Br</div>
+    </td>
+    <td>
+      <div>methyl bromide</div>
+    </td>
+    <td>
+      <div>0.7</div>
+    </td>
+  </tr>
+</tbody></table>
+
+ 
+
 
 # Schedule 3A—Adjustments to the Montreal Protocol on Substances that Deplete the Ozone Layer of 16 September 1987
 
@@ -7313,7 +7354,8 @@ The following paragraph 8 _ter_ shall be inserted after paragraph 8 _bis_ of Art
 
 Annex E:  Methyl bromide
 
-For &quot;0.7&quot; in the third column of Annex E substitute &quot;0.6&quot;.
+For "0.7" in the third column of Annex E substitute "0.6".
+
 
 # Schedule 3B—Adjustments to Annexes A, B and E of the Montreal Protocol on Substances that Deplete the Ozone Layer of 16 September 1987
 
@@ -7396,6 +7438,7 @@ B.  Article 5, paragraph 8ter(d)
             Adopted at the Ninth Meeting of Parties to the Protocol.
 
  
+
 
 # Schedule 3C—Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer of 16 September 1987
 
@@ -7482,6 +7525,7 @@ No State or regional economic integration organization may deposit an instrument
             Adopted at the Ninth Meeting of Parties to the Protocol.
 
  
+
 
 # Schedule 3D—Beijing amendment to the Montreal Protocol
 
@@ -7672,6 +7716,7 @@ No State or regional economic integration organization may deposit an instrument
 2\. For the purposes of paragraph 1, any such instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.
 
 3\. After the entry into force of this Amendment, as provided under paragraph 1, it shall enter into force for any other Party to the Protocol on the ninetieth day following the date of deposit of its instrument of ratification, acceptance or approval.
+
 
 # Schedule 3E—Framework Convention on Climate Change
 
@@ -8279,7 +8324,7 @@ Ukraine <u>a</u>/
 
 United Kingdom of Great Britain and Northern Ireland
 
-United   States of America
+United States of America
 
 ___________
 
@@ -8336,6 +8381,7 @@ Turkey
 United Kingdom of Great Britain and Northern Ireland
 
 United States of America
+
 
 # Schedule 4—Control of manufacture etc. of products containing or using scheduled substances
 
@@ -8447,6 +8493,7 @@ A person must not manufacture or import a rigid polyurethane foam product if the
 
                     <a name="refriger-clip-unit"></a>**_refrigerated clip on unit_** means a refrigeration unit that can be attached to an insulated container where the container does not have an integrated refrigeration system.
 
+
 # Notes to the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
 
 ### Note 1
@@ -8473,11 +8520,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -8487,245 +8536,236 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Ozone Protection Act 1989</div>
-  </td>
-  <td>
-    <div>7, 1989</div>
-  </td>
-  <td>
-    <div>16 Mar 1989</div>
-  </td>
-  <td>
-    <div>16 Mar 1989</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ozone Protection Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>46, 1992</div>
-  </td>
-  <td>
-    <div>11 June 1992</div>
-  </td>
-  <td>
-    <div>9 Nov 1992 ( <i>see Gazette</i>1992, No. S321)</div>
-  </td>
-  <td>
-    <div>Ss. 11(2), 26(2), 27(2), 33(2), 34(2) and 37(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ozone Protection Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>124, 1995</div>
-  </td>
-  <td>
-    <div>2 Nov 1995</div>
-  </td>
-  <td>
-    <div>S. 3 and Schedule 1 (items 1–17, 19–66): 1 Jan 1996 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 3(2)–(5), Sch. 1 (item 61) and Sch. 2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 11–18): 2 Nov 1995 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>118, 1997</div>
-  </td>
-  <td>
-    <div>7 July 1997</div>
-  </td>
-  <td>
-    <div>7 July 1997</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ozone Protection Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>36, 1999</div>
-  </td>
-  <td>
-    <div>31 May 1999</div>
-  </td>
-  <td>
-    <div>31 May 1999</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environmental Reform (Consequential Provisions) Act 1999</div>
-  </td>
-  <td>
-    <div>92, 1999</div>
-  </td>
-  <td>
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 17, 18): 16 July 2000 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Sch. 7 (item 18) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 721–723): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>15, 2001</div>
-  </td>
-  <td>
-    <div>22 Mar 2001</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 106–128): 24 May 2001 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environmental Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>118, 2001</div>
-  </td>
-  <td>
-    <div>18 Sept 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 14): Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>126, 2003</div>
-  </td>
-  <td>
-    <div>5 Dec 2003</div>
-  </td>
-  <td>
-    <div>5 Dec 2003</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment and Heritage Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>97, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1: 3 Aug 2005 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 14): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Ozone Protection Act 1989</div>
+    </td>
+    <td>
+      <div>7, 1989</div>
+    </td>
+    <td>
+      <div>16 Mar 1989</div>
+    </td>
+    <td>
+      <div>16 Mar 1989</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ozone Protection Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>46, 1992</div>
+    </td>
+    <td>
+      <div>11 June 1992</div>
+    </td>
+    <td>
+      <div>9 Nov 1992 ( <i>see Gazette</i>1992, No. S321)</div>
+    </td>
+    <td>
+      <div>Ss. 11(2), 26(2), 27(2), 33(2), 34(2) and 37(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ozone Protection Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>124, 1995</div>
+    </td>
+    <td>
+      <div>2 Nov 1995</div>
+    </td>
+    <td>
+      <div>S. 3 and Schedule 1 (items 1–17, 
+19–66): 1 Jan 1996 Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 3(2)–(5), Sch. 1 (item 61) and Sch. 2 
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 11–18): 2 Nov 1995 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>118, 1997</div>
+    </td>
+    <td>
+      <div>7 July 1997</div>
+    </td>
+    <td>
+      <div>7 July 1997</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ozone Protection Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>36, 1999</div>
+    </td>
+    <td>
+      <div>31 May 1999</div>
+    </td>
+    <td>
+      <div>31 May 1999</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environmental Reform (Consequential Provisions) Act 1999</div>
+    </td>
+    <td>
+      <div>92, 1999</div>
+    </td>
+    <td>
+      <div>16 July 1999</div>
+    </td>
+    <td>
+      <div>Schedule 7 (items 17, 18): 16 July 2000 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>Sch. 7 (item 18) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 721–723): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>15, 2001</div>
+    </td>
+    <td>
+      <div>22 Mar 2001</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 106–128): 24 May 2001 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environmental Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>118, 2001</div>
+    </td>
+    <td>
+      <div>18 Sept 2001</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 14): Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>126, 2003</div>
+    </td>
+    <td>
+      <div>5 Dec 2003</div>
+    </td>
+    <td>
+      <div>5 Dec 2003</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environment and Heritage Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>97, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1: 3 Aug 2005 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Ozone Protection Amendment Act 1995_ was amended by Schedule 3 (items 11–17) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 3(f) of which provides as follows:
 
@@ -8751,6 +8791,7 @@ _(e)_     The _Ozone Protection and Synthetic Greenhouse Gas Management 
 
                  (1)   Sections 1, 2 and 3 and items 1, 4, 5, 6, 7 and 14 of Schedule 2 commence on the day on which this Act receives the Royal Assent.
 
+
 ## Table of Amendments
 
 <table>
@@ -8774,1177 +8815,1175 @@ _(e)_     The _Ozone Protection and Synthetic Greenhouse Gas Management 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8A, 8B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9</div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 12</div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 12B</div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12B</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 36, 1999; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 92, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 36, 1999; No. 15, 2001; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19C</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22A–22C</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 36, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24–25</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27–33</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34, 35</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 118, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 42, 43</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 44</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 45</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIA</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 45A, 45B</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 46</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995; No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 63, 64</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIIIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VIIIA</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1998 (as am. by No. 152, 1997)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIIIA</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 65A, 65B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995 (as am. by No. 152, 1997); No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 65C, 65D</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995; Nos. 36 and 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 69</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 124, 1995; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 69A</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 69A, 69B</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 1992; No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to heading to 
-Schedule 3A</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to heading to 
-Schedule 3B</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3B</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to heading to 
-Schedule 3C</div>
-  </td>
-  <td>
-    <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3C</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3D</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3E</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 4</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 8A, 8B</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 9</div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10A</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 12</div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12A</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 12B</div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12B</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13A</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 36, 1999; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 92, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17A</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 36, 1999; No. 15, 2001; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18A</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19A</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19B</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19C</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IV</div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 22A–22C</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 36, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 24–25</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 27–33</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 34, 35</div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 118, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 42, 43</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 36, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 44</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 45</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIA</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VIA</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 45A, 45B</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 46</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46A</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>rs. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47A</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48A</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995; No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 57</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 60</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 63, 64</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIIIA</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VIIIA</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1998 (as am. by No. 152, 1997)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VIIIA</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 65A, 65B</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1995 (as am. by No. 152, 1997); No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 65C, 65D</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IX</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67A</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995; Nos. 36 and 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 69</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 69</div>
+    </td>
+    <td>
+      <div>am. No. 124, 1995; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 69A</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 69A, 69B</div>
+    </td>
+    <td>
+      <div>ad. No. 46, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3</div>
+    </td>
+    <td>
+      <div>rs. No. 46, 1992; No. 124, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to heading to 
+Schedule 3A 
+</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3A</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to heading to 
+Schedule 3B 
+</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3B</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3C</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to heading to 
+Schedule 3C 
+</div>
+    </td>
+    <td>
+      <div>am. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3C</div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3D</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3D</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3E</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3E</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 4</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -9958,7 +9997,9 @@ _Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)_
 
 The amendment of the _Ozone Protection Act 1989_ made by this Schedule applies in relation to applications for licences under Part III of that Act made after the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001 (No. 15, 2001)_
 
@@ -9968,7 +10009,9 @@ _Environment and Heritage Legislation Amendment (Application of Criminal Code) A
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003 (No. 126, 2003)_
 
@@ -9981,5 +10024,6 @@ _Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003 (N
              (3)  In this section:
 
                     <a name="princip-act"></a>**_Principal Act_** means the _Ozone Protection Act 1989_, as amended by this Act.
+
 
  
