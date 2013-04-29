@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00237/Html/98253f97-6ddc-4fbe-a8db-605a00ce29c4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00888/Html/a06fea22-9169-4d83-9836-f3d9b6645716_files/image001.gif)
 
 # Protection of the Sea (Powers of Intervention) Act 1981
 
 **Act No. 33 of 1981 as amended**
 
-This compilation was prepared on 14 February 2012
+This compilation was prepared on 3 November 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -134,6 +134,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="engag-conduct"></a>**_engage in conduct_** has the same meaning as in the _Criminal Code_.
 
+                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="good"></a>**_goods_** has the same meaning as in the _Competition and Consumer Act 2010_.
 
                     <a name="high-sea"></a>**_high seas_** means all parts of the sea to which Part VII of the UN Convention on the Law of the Sea applies.
@@ -189,6 +191,8 @@ and as amended from time to time.
                              (v)  a tool;
 
                             (vi)  any other article.
+
+                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="un-convent-law-sea"></a>**_UN Convention on the Law of the Sea_** means the United Nations Convention on the Law of the Sea done at Montego Bay on 10 December 1982.
 
@@ -515,6 +519,8 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
                      (b)  an unregistered ship having Australian nationality.
 
                     <a name="australian-water"></a>**_Australian waters_** means the Australian coastal sea and internal waters.
+
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="noxiou-substanc"></a>**_noxious substance_** means a substance other than oil.
 
@@ -3770,7 +3776,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 941–943) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 941–943) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -3817,7 +3823,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001; No. 44, 2006; Nos. 8 and 103, 2010; No. 46, 2011</div>
+    <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001; No. 44, 2006; Nos. 8 and 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3918,15 +3924,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
 </tr>
 <tr>
   <td>
-    <div>S 10</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 44, 2006; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
+    <div>Ss. 10, 11</div>
   </td>
   <td>
     <div>am. No. 78, 1990; No. 44, 2006</div>
@@ -4093,6 +4091,28 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 941  Subsection 3(1) (definition of _exclusive economic zone_)
+
+Repeal the definition.
+
+## 942  Subsection 3(1) (definition of _territorial sea_)
+
+Repeal the definition.
+
+## 943  Subsection 10(8) (definition of _continental shelf_)
+
+Repeal the definition.
+
+As at 3 November 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4108,6 +4128,8 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
