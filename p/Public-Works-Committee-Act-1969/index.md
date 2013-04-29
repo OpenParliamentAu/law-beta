@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00668/Html/PublicWorksCommittee1969_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00647/Html/PublicWorksCommittee1969_image001.gif)
 
 # Public Works Committee Act 1969
 
 **Act No. 92 of 1969 as amended**
 
-This compilation was prepared on 3 October 2007
- taking into account amendments up to Act No. 150 of 2007
+This compilation was prepared on 9 November 2006
+ taking into account amendments up to Act No. 132 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1134,23 +1134,6 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(f)</i><
   <td>
     <div>Sch. 1 (item 6) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Maritime Legislation Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>150, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 23, 24): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Public Works Committee Act 1969_ was amended by Part LXII (sections 233–236) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows: 
@@ -1493,24 +1476,6 @@ _(h)_     The _Public Works Committee Act 1969_ was amended by Schedule�
   </td>
 </tr></table>
 
-### Note 2
-
-_Maritime Legislation Amendment Act 2007 (No. 150, 2007)_
-
-The following amendments commence on 1 January 2008 (_see_ F2007L04141):
-
-## Schedule 1
-
-## 23  At the end of paragraphs 6A(2)(a) and (b)
-
-Add “or”.
-
-## 24  Paragraph 6A(2)(ba)
-
-Repeal the paragraph.
-
-As at 3 October 2007 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1562,5 +1527,7 @@ Before paragraph (a) insert the following paragraph:
                               (i)  that is proposed to be carried out by or for the Australian Capital Territory; and
 
                              (ii)  in respect of the carrying out of which moneys of that Territory are proposed to be expended by that Territory; or.
+
+ 
 
  
