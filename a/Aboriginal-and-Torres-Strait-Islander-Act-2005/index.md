@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image001.gif)
 
 # Aboriginal and Torres Strait Islander Act 2005
 
 **Act No. 150 of 1989 as amended**
 
-This compilation was prepared on 5 November 2011
+This compilation was prepared on 22 September 2011
  taking into account amendments up to Act No. 97 of 2011
 
 The text of any of those amendments not in force
@@ -794,6 +794,8 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
                     <a name="new-hous-fund"></a>**_New Housing Fund_** means the New Housing Fund established under section 181A.
 
+                    <a name="queensland-act"></a>**_Queensland Act_** means the _Community Services (Torres Strait) Act 1984_ of Queensland as amended and in force from time to time, and includes any law of Queensland that replaces that Act.
+
                     <a name="region-council-abolit-dai"></a>**_Regional Councils abolition day_** means the day on which Schedule 3 to the _Aboriginal and Torres Strait Islander Commission Amendment Act 2005_ commences _._
 
                     <a name="region-indigen-land-strategi"></a>**_regional indigenous land strategy_** means a strategy prepared under section 191P.
@@ -1260,7 +1262,7 @@ A member of an advisory committee established under section 142M may resign fr
 
 ##### <a id="142R"></a>142R  Constitution of TSRA
 
-             (1)  Subject to any instrument in force under section 142S, the TSRA consists of the eligible number of members elected in accordance with Division 5 of this Part.
+             (1)  Subject to any notice in force under section 142S, the TSRA consists of the eligible number of members elected in accordance with Division 5 of this Part.
 
           (1A)  The Minister may fix the eligible number for the TSRA by notice in the _Gazette_.
 
@@ -1286,23 +1288,27 @@ A member of an advisory committee established under section 142M may resign fr
 
 ##### <a id="142S"></a>142S  Minister may determine manner of representation on TSRA
 
-             (1)  The Minister may, by legislative instrument, make provision for and in relation to how the TSRA is to be constituted.
+             (1)  The Minister may, by notice in the _Gazette_, declare that he or she is satisfied that the TSRA would best be able to represent the Torres Strait Islanders, and Aboriginal persons, living in the Torres Strait area if it consisted of, or included, persons elected to represent particular communities in that area under the Queensland Act.
 
-             (2)  Without limiting subsection (1), an instrument under that subsection may:
+             (2)  The notice must also set out details of how the TSRA is to be constituted and, without limiting the generality of the foregoing, may make any of the following provisions:
 
-                     (a)  provide for some or all of the members of the TSRA to be elected under this Act to be representatives of a specified kind; and
+                     (a)  provision for some or all of the members of the TSRA to be persons elected under the Queensland Act to represent particular communities in the Torres Strait area;
 
-                     (b)  provide for the method and timing of election of those members; and
+                     (b)  provision for some of the members of the TSRA to be elected under this Act to represent particular communities in the Torres Strait area;
 
-                     (c)  provide for the term of office of those members.
+                     (c)  provision for the method and timing of election of members of the TSRA to whom provisions under paragraph (b) apply;
 
-             (3)  An instrument under subsection (1) may also make provision in relation to the operation of the TSRA.
+                     (d)  provision for the term of office of members of the TSRA holding office under this section.
 
-             (4)  If the eligible number has changed, the Minister may amend an instrument under subsection (1) in connection with the change.
+             (3)  The notice may make such other provisions in relation to the constitution and operation of the TSRA as the Minister thinks necessary.
 
-             (5)  Subsection (4) does not limit the Minister’s power to revoke, amend or vary an instrument under subsection (1).
+          (3A)  If the eligible number has changed, the Minister may amend a notice to change the membership of the TSRA so that the number of members equals the eligible number.
 
-             (6)  An instrument under subsection (1) has effect according to its terms.
+          (3B)  Subsection (3A) does not limit the Minister’s power to revoke, amend or vary a notice.
+
+             (4)  A notice under this section has effect according to its terms.
+
+             (5)  A notice under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ### Division 5—TSRA elections
 
@@ -1336,7 +1342,7 @@ Significance of fixing designated number for a ward
 
 Total of designated numbers for wards
 
-             (3)  The total of the designated numbers for TSRA wards must equal the eligible number for the TSRA less the number of members (if any) who hold office as members under an instrument under section 142S.
+             (3)  The total of the designated numbers for TSRA wards must equal the eligible number for the TSRA less the number of members (if any) who hold office as members under a notice under section 142S.
 
 When rules about wards take effect
 
@@ -1352,7 +1358,7 @@ If no rules in force then Torres Strait area taken to be a single ward
 
                      (a)  the area is taken to be a single ward; and
 
-                     (b)  the designated number for the ward is equal to the eligible number for the TSRA less the number of members (if any) who hold office as members under an instrument under section 142S.
+                     (b)  the designated number for the ward is equal to the eligible number for the TSRA less the number of members (if any) who hold office as members under a notice under section 142S.
 
 ##### <a id="142U"></a>142U  People entitled to vote at TSRA elections
 
@@ -1426,9 +1432,11 @@ If no rules in force then Torres Strait area taken to be a single ward
 
 ##### <a id="142Y"></a>142Y  Timing of TSRA elections
 
-             (1)  TSRA elections must be held every 4 years during periods determined under the TSRA election rules having regard to the day or days fixed for the polling in accordance with this section.
+             (1)  Subject to this section, TSRA elections must be held every 3 years during periods determined under the TSRA election rules having regard to the day or days fixed for the polling in accordance with this section.
 
              (2)  The Minister must, by written notice, fix a day or days for the polling in each TSRA election.
+
+             (3)  The polling day or days for each TSRA election must be not later than the anniversary in the third calendar year, and each later third calendar year, of the day in 1994 on which the triennial election for an Island Council is held under the Queensland Act.
 
 ##### <a id="142Z"></a>142Z  Polling places
 
@@ -1684,7 +1692,7 @@ equivalent to the disclosure of financial interests required to be made by SES e
 
 Members taken to have resigned from TSRA in certain circumstances
 
-             (1)  If the TSRA is satisfied that a member of the TSRA holding office under an instrument under section 142S:
+             (1)  If the TSRA is satisfied that a member of the TSRA holding office under a notice under paragraph 142S(2)(a) or (b):
 
                      (a)  does not live in the Torres Strait area; and
 
@@ -2324,7 +2332,7 @@ Note 2:       The TSRA may declare that a member of the TSRA has bec
 
              (4)  Subsection (3) does not prevent the investment of money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-##### <a id="144X"></a>144X  Borrowing on overdraft to meet temporary deficit
+##### <a id="144X"></a>144X  Borrowing on overdraft to meet temporary deficit
 
              (1)  The TSRA may borrow money on overdraft from a bank for the sole purpose of meeting a temporary deficit in the money of the TSRA.
 
@@ -2884,7 +2892,7 @@ Indigenous Business Australia Directors remaining at the meeting constitute a qu
 
                    The Indigenous Business Australia General Manager holds office during the Indigenous Business Australia Board’s pleasure.
 
-##### <a id="171"></a>171  Remuneration and allowances
+##### <a id="171"></a>171  Remuneration and allowances
 
                    The Indigenous Business Australia General Manager shall be paid such remuneration and allowances as are determined by the Indigenous Business Australia Board in writing.
 
@@ -4174,7 +4182,7 @@ Terms and conditions
 
 ### Division 10—Aboriginal and Torres   Strait Islander Land Account
 
-##### <a id="192W"></a>192W  Aboriginal and Torres Strait Islander Land Account
+##### <a id="192W"></a>192W  Aboriginal and Torres Strait Islander Land Account
 
 Land Account
 
@@ -4196,7 +4204,7 @@ Note:          The Account was established by subsection 5(3) 
 
              (1)  The **_indexation factor_** for a financial year is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image002.gif)
 
 where:
 
@@ -4226,7 +4234,7 @@ Later financial years
 
              (2)  On the first business day in October in a financial year beginning on or after 1 July 2011, there is to be paid to the Indigenous Land Corporation, out of the Land Account, the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image003.gif)
 
 where:
 
@@ -4360,7 +4368,7 @@ Borrowing limit
 
              (3)  For the purposes of this section, the **_borrowing limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image004.gif)
 
 where:
 
@@ -4410,7 +4418,7 @@ Guarantee limit
 
              (2)  For the purposes of this section, the **_guarantee limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00890/Html/fb79fab3-e882-4c64-a5e2-a488c122cef5_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image005.gif)
 
 where:
 
@@ -5358,7 +5366,7 @@ _Section 140_
 
 ##### <a id="11"></a>11  Inquiries by Court
 
-                   The Court shall inquire whether or not an election petition is duly signed, and so far as rolls and voting are concerned may inquire into the identity of persons, and whether their votes were improperly admitted or rejected, assuming the Commonwealth Electoral Roll to be correct, but the Court shall not inquire into the correctness of the Commonwealth Electoral Roll.
+                   The Court shall inquire whether or not an election petition is duly signed, and so far as rolls and voting are concerned may inquire into the identity of persons, and whether their votes were improperly admitted or rejected, assuming the Commonwealth Electoral Roll to be correct, but the Court shall not inquire into the correctness of the Commonwealth Electoral Roll.
 
 ##### <a id="12"></a>12  Voiding election for illegal practices
 
@@ -6212,7 +6220,7 @@ Remainder: Royal Assent</div>
     <div>15 Sept 2011</div>
   </td>
   <td>
-    <div>Schedule 3: 5 Nov 2011 ( <i>see</i>F2011L02238)</div>
+    <div>Schedule 3: \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -6507,7 +6515,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 26 and 37, 1993; Nos. 1 and 100, 1994; No. 20, 1995; No. 35, 1996; No. 152, 1997; Nos. 4 and 55, 2001; Nos. 8 and 32, 2005; Nos. 30 and 125, 2006; No. 89, 2010; No. 97, 2011</div>
+    <div>am. Nos. 26 and 37, 1993; Nos. 1 and 100, 1994; No. 20, 1995; No. 35, 1996; No. 152, 1997; Nos. 4 and 55, 2001; Nos. 8 and 32, 2005; Nos. 30 and 125, 2006; No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9560,23 +9568,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
 </tr>
 <tr>
   <td>
-    <div>S. 142R</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 100, 1994; No. 97, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 142S</div>
+    <div>Ss. 142R, 142S</div>
   </td>
   <td>
     <div>ad. No. 1, 1994</div>
@@ -9588,14 +9580,6 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
   </td>
   <td>
     <div>am. No. 100, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 97, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9620,14 +9604,6 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
   </td>
   <td>
     <div>ad. No. 100, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 97, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9680,26 +9656,10 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
 </tr>
 <tr>
   <td>
-    <div>S. 142X</div>
+    <div>Ss. 142X, 142Y</div>
   </td>
   <td>
     <div>ad. No. 1, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 142Y</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 97, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9907,7 +9867,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div></div>
   </td>
   <td>
-    <div>am. No. 100, 1994; No. 32, 2005; No. 97, 2011</div>
+    <div>am. No. 100, 1994; No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -13499,7 +13459,69 @@ Repeal the subsection.
 
 Omit “section 17AA”, substitute “section 2B”.
 
-As at 5 November 2011 the amendments are not incorporated in this compilation.
+As at 22 September 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Indigenous Affairs Legislation Amendment Act 2011 (No. 97, 2011)_
+
+The following amendments commence on 15 September 2012 unless proclaimed earlier:
+
+## Schedule 3
+
+## 1  Subsection 4(1) (definition of _Queensland Act_)
+
+Repeal the definition.
+
+## 2  Subsection 142R(1)
+
+Omit “notice”, substitute “instrument”.
+
+## 3  Section 142S
+
+Repeal the section, substitute:
+
+##### <a id="142S"></a>142S  Minister may determine manner of representation on TSRA
+
+             (1)  The Minister may, by legislative instrument, make provision for and in relation to how the TSRA is to be constituted.
+
+             (2)  Without limiting subsection (1), an instrument under that subsection may:
+
+                     (a)  provide for some or all of the members of the TSRA to be elected under this Act to be representatives of a specified kind; and
+
+                     (b)  provide for the method and timing of election of those members; and
+
+                     (c)  provide for the term of office of those members.
+
+             (3)  An instrument under subsection (1) may also make provision in relation to the operation of the TSRA.
+
+             (4)  If the eligible number has changed, the Minister may amend an instrument under subsection (1) in connection with the change.
+
+             (5)  Subsection (4) does not limit the Minister’s power to revoke, amend or vary an instrument under subsection (1).
+
+             (6)  An instrument under subsection (1) has effect according to its terms.
+
+## 4  Subsection 142TA(3)
+
+Omit “a notice”, substitute “an instrument”.
+
+## 5  Paragraph 142TA(5)(b)
+
+Omit “a notice”, substitute “an instrument”.
+
+## 6  Subsection 142Y(1)
+
+Omit “Subject to this section, TSRA elections must be held every 3 years”, substitute “TSRA elections must be held every 4 years”.
+
+## 7  Subsection 142Y(3)
+
+Repeal the subsection.
+
+## 8  Subsection 143R(1)
+
+Omit “a notice under paragraph 142S(2)(a) or (b)”, substitute “an instrument under section 142S”.
+
+As at 22 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -14811,7 +14833,7 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
                      (b)  is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
-## 193  Commission instruments
+## 193  Commission instruments
 
 (1)       A Commission instrument (other than a class A or class B exempted instrument) in force immediately before ATSIC abolition day has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commission or to a Commission predecessor were a reference to the Commonwealth.
 
