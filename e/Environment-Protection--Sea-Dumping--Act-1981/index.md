@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00012/Html/0648f563-0680-48d8-a039-d9197cc062bc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00789/Html/7d120d43-d5b6-4578-b3e0-f3b08b0eaa95_files/image001.gif)
 
 # Environment Protection (Sea Dumping) Act 1981
 
 **Act No. 101 of 1981 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 27 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -112,7 +112,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act providing for the protection of the environment by regulating dumping into the sea, incineration at sea and artificial reef placements, and for related purposes
+## An Act providing for the protection of the environment by regulating dumping into the sea, incineration at sea and artificial reef placements, and for related purposes  
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -182,9 +182,9 @@ and includes anything prescribed by the regulations to be an artificial reef for
 
                      (b)  the territorial sea of an external Territory and any sea that is on the landward side of that territorial sea; or
 
-                     (c)  the exclusive economic zone adjacent to the coast of Australia or the coast of an external Territory; or
+                     (c)  the exclusive economic zone, within the meaning of the _Seas and Submerged Lands Act 1973_, adjacent to the coast of Australia or the coast of an external Territory; or
 
-                     (d)  any other area of sea that is above the continental shelf of Australia or above the continental shelf of an external Territory.
+                     (d)  any other area of sea that is above the continental shelf of Australia or above the continental shelf of an external Territory;
 
 and includes any area of sea that is declared by the regulations to be included in Australian waters for the purposes of this Act.
 
@@ -195,6 +195,8 @@ Note:          Section 4A can affect the scope of the defini
                      (a)  in relation to a State—that part of the sea that is included in the coastal waters of the State within the meaning of the _Coastal Waters (State Powers) Act 1980_; or
 
                      (b)  in relation to the Northern Territory—that part of the sea that is included in the coastal waters of the Territory within the meaning of the _Coastal Waters (Northern Territory Powers) Act 1980_.
+
+                    <a name="continent-shelf"></a>**_continental shelf_**, in relation to Australia or to an external Territory, has the same meaning as it has for the purposes of the _Seas and Submerged Lands Act 1973_.
 
                     <a name="control-materi"></a>**_controlled material_** means:
 
@@ -267,6 +269,8 @@ Note:          The English text of the Protocol is set out in 
                      (b)  any other material that is prescribed by the regulations for the purposes of this paragraph.
 
 Note:          Subsection 41(3) places limitations on the making of regulations for the purposes of paragraph (b) of this definition. 
+
+                    <a name="territori-sea"></a>**_territorial sea_**, in relation to Australia or to an external Territory, has the same meaning as it has for the purposes of the _Seas and Submerged Lands Act 1973_.
 
                     <a name="torr-strait-treati"></a>**_Torres Strait Treaty_** means the Treaty between   Australia and the Independent State of Papua New Guinea concerning Sovereignty and Maritime Boundaries in the area between the two Countries, including the area known as Torres Strait, and Related Matters done at Sydney on 18 December 1978.
 
@@ -1010,7 +1014,7 @@ the court must assume, unless the contrary is proved, that the exercise of power
 
                      (b)  furnishes to an officer or other person doing duty in relation to this Act a document that, to the knowledge of the first‑mentioned person, contains information that is false or misleading in a material particular;
 
-is guilty of an offence against this subsection punishable, on conviction, by imprisonment for a term not exceeding 2 years.
+is guilty of an offence against this subsection punishable, on conviction by imprisonment for a term not exceeding 2 years.
 
              (2)  A person who:
 
@@ -1331,7 +1335,7 @@ Remainder: Royal Assent</div>
     <div>7 July 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 27–35): Royal Assent</div>
+    <div>Schedule 1 (items 27–35): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 30)</div>
@@ -1348,7 +1352,7 @@ Remainder: Royal Assent</div>
     <div>16 July 1999</div>
   </td>
   <td>
-    <div>Schedule 3 (items 38–40): 16 July 2000 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (items 38–40): 16 July 2000 <i>(c)</i></div>
   </td>
   <td>
     <div>Sch. 3 (item 40)</div>
@@ -1382,7 +1386,7 @@ Remainder: Royal Assent</div>
     <div>18 Sept 2001</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): Royal Assent</div>
+    <div>Schedule 2 (item 1): Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1467,7 +1471,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 563–565) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 563–565) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1477,6 +1481,18 @@ Remainder: Royal Assent</div>
 _(a)_     The _Arts, Territories and Environment Legislation Amendment Act 1989_ was amended by Schedule 3 (item 3) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+
+_(b)_     The _Environment Protection (Sea Dumping) Act 1981_ was amended by Schedule 1 (items 27–35) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
+
+_(c)_     The _Environment Protection (Sea Dumping) Act 1981_ was amended by Schedule 3 (items 38 and 39) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
+
+_(d)_     The _Environment Protection (Sea Dumping) Act 1981_ was amended by Schedule 2 (item 1) only of the _Environmental Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
+
+                 (1)   Sections 1, 2 and 3 and items 1, 4, 5, 6, 7 and 14 of Schedule 2 commence on the day on which this Act receives the Royal Assent.
 
 ## Table of Amendments
 
@@ -1522,7 +1538,7 @@ _(a)_     The _Arts, Territories and Environment Legislation Amendment A
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 141, 1986; No. 16, 1994; No. 118, 1997; No. 107, 2000; No. 165, 2006; No. 33, 2009; Nos. 4 and 8, 2010; No. 46, 2011</div>
+    <div>am. No. 141, 1986; No. 16, 1994; No. 118, 1997; No. 107, 2000; No. 165, 2006; No. 33, 2009; Nos. 4 and 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2046,6 +2062,28 @@ _(a)_     The _Arts, Territories and Environment Legislation Amendment A
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 563  Subsection 4(1) (paragraph (c) of the definition of _Australian waters_)
+
+Omit “, within the meaning of the _Seas and Submerged Lands Act 1973_,”.
+
+## 564  Subsection 4(1) (definition of _continental shelf_)
+
+Repeal the definition.
+
+## 565  Subsection 4(1) (definition of _territorial sea_)
+
+Repeal the definition.
+
+As at 27 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2105,6 +2143,8 @@ _Environment and Heritage Legislation Amendment Act 2000
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
