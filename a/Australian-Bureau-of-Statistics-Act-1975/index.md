@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00137/Html/ab7b6ff1-d881-4d79-a82d-2e4c3444c6d3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00568/Html/85589b8d-6567-4b68-8691-f1c7c3249dee_files/image001.gif)
 
 # Australian Bureau of Statistics Act 1975
 
 **Act No. 60 of 1975 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 26 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -214,11 +214,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="15"></a>15  Acting appointments
 
-             (1)  The Governor‑General may appoint a person to act in the office of Statistician during any period, or during all periods, when the person holding the office is absent from duty or from Australia or is, for any reason, unable to perform the duties of his or her office or during a vacancy in that office.
+             (1)  The Governor‑General may appoint a person to act in the office of Statistician during any period, or during all periods, when the person holding the office is absent from duty or from Australia or is, for any reason, unable to perform the duties of his or her office or during a vacancy in that office, but a person so appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  The Governor‑General may:
+
+                     (a)  determine the terms and conditions of appointment of a person appointed under this section; and
+
+                     (b)  at any time terminate such an appointment.
+
+             (3)  Where a person is acting in the office of Statistician in pursuance of an appointment under this section otherwise than during a vacancy in that office and the office becomes vacant while that person is so acting, that person may continue to act in the office until the Governor‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
              (4)  Sections 10 and 11 apply in relation to a person appointed under this section in like manner as they apply in relation to the Statistician.
+
+             (5)  While a person is acting in the office of Statistician in pursuance of an appointment under this section, the person has all the functions, powers and duties of the Statistician under this Act or any other law.
+
+             (6)  The validity of anything done by a person appointed under this section shall not be called in question on the ground that the occasion for the appointment had not arisen or that the appointment had ceased to have effect.
 
 ##### <a id="16"></a>16  Staff
 
@@ -326,7 +336,7 @@ but are eligible for re‑appointment.
 
 ## Part IV—Miscellaneous
 
-##### <a id="24"></a>24  Annual reports
+##### <a id="24"></a>24  Annual reports
 
              (1)  The Statistician shall, as soon as practicable after 30 June in each year, prepare and submit to the Minister, for presentation to the Parliament, a report on the operations of the Bureau during the period of 12 months that ended on that date.
 
@@ -427,7 +437,7 @@ of Assent</div>
     <div>25 June 1984</div>
   </td>
   <td colspan="2">
-    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245)</div>
+    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(a)</i></div>
   </td>
   <td>
     <div>S. 151(9)</div>
@@ -444,7 +454,7 @@ of Assent</div>
     <div>5 June 1985</div>
   </td>
   <td colspan="2">
-    <div>S. 3: 3 July 1985</div>
+    <div>S. 3: 3 July 1985 <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -461,7 +471,7 @@ of Assent</div>
     <div>18 Dec 1987</div>
   </td>
   <td colspan="2">
-    <div>S. 3: Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>Ss. 5(1) and (5)</div>
@@ -478,7 +488,7 @@ of Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td colspan="2">
-    <div>Schedule 4 (items 18, 19): Royal Assent</div>
+    <div>Schedule 4 (items 18, 19): Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -495,7 +505,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 113–116): 5 Dec 1999 ( <i>see</i>s. 2(1), (2) and <i>Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (items 113–116): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -515,7 +525,7 @@ of Assent</div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -546,7 +556,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 116–118) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 116–118) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -560,6 +570,28 @@ of Assent</div>
   <td></td>
   <td></td>
 </tr></table>
+
+_(a)_     The _Australian Bureau of Statistics Act 1975_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
+
+                 (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+
+_(b)_     The _Australian Bureau of Statistics Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+
+_(c)_     The _Australian Bureau of Statistics Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(d)_     The _Australian Bureau of Statistics Act 1975_ was amended by Schedule 4 (items 18, 19) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_     The _Australian Bureau of Statistics Act 1975_ was amended by Schedule 1 (items 113–116) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
 
 ## Table of Amendments
 
@@ -685,15 +717,7 @@ of Assent</div>
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 15, 1977; No. 141, 1987; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 15, 1977; No. 141, 1987</div>
   </td>
 </tr>
 <tr>
@@ -769,6 +793,30 @@ of Assent</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 116  Subsection 15(1)
+
+Omit “, but a person so appointed to act during a vacancy shall not continue so to act for more than 12 months”.
+
+## 117  At the end of subsection 15(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 118  Subsections 15(2), (3), (5) and (6)
+
+Repeal the subsections.
+
+As at 26 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -784,6 +832,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
