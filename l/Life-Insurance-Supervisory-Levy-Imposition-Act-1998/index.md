@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00564/Html/LifeInsurSuperLevImpos98_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00078/Html/9024F904E772F34FCA2571310021CAFE/$FILE/image001.gif)
 
 # Life Insurance Supervisory Levy Imposition Act 1998
 
 **Act No. 57 of 1998 as amended**
 
-This compilation was prepared on 27 September 2007
- taking into account amendments up to Act No. 154 of 2007
+This compilation was prepared on 25 February 2005
+taking into account amendments up to Act No. 16 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -38,6 +39,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to impose a levy on companies registered under the _Life Insurance Act 1995_
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
@@ -54,7 +56,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act binds the Crown in each of its capacities.
 
-##### <a id="4"></a>4  External  Territories
+##### <a id="4"></a>4  External Territories
 
                    This Act extends to each external Territory.
 
@@ -106,9 +108,9 @@ Note:          The unrestricted levy percentage is as determin
 
              (2)  If the levy imposition day for the life insurance company for the financial year is later than 1 July in the financial year, the amount of levy payable by the life insurance company for the financial year is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00564/Html/LifeInsurSuperLevImpos98_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00078/Html/9024F904E772F34FCA2571310021CAFE/$FILE/image002.gif)
 
-             (3)  The Treasurer is, by legislative instrument, to determine:
+             (3)  The Treasurer is, in writing, to determine:
 
                      (a)  the **_maximum restricted levy_** **_amount_** for each financial year; and
 
@@ -130,6 +132,8 @@ Note:          The unrestricted levy percentage is as determin
 
              (6)  A determination under subsection (3) may make different provision for different classes of life insurance companies.
 
+             (7)  A determination under subsection (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
 ##### <a id="8"></a>8  Calculation of indexation factor
 
              (1)  The indexation factor for a financial year is the number worked out by:
@@ -149,6 +153,7 @@ Note:          The unrestricted levy percentage is as determin
 ##### <a id="9"></a>9  Regulations
 
                    The Governor-General may make regulations for the purposes of subsection 2(2).
+
 
 # Notes to the _Life Insurance Supervisory Levy Imposition Act 1998_
 
@@ -176,11 +181,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -200,7 +207,7 @@ of Assent</div>
       <div>29 June 1998</div>
     </td>
     <td>
-      <div>1 July 1998 ( <i>see</i>s. 2 and <i>Gazette</i>1998, No. S316)</div>
+      <div>1 July 1998 ( <i>see </i>s. 2 and <i>Gazette</i>1998, No. S316)</div>
     </td>
     <td>
       <div></div>
@@ -217,7 +224,9 @@ of Assent</div>
       <div>17 June 1999</div>
     </td>
     <td>
-      <div>Schedule 6 (item 25) and Schedule 8 (items 22, 23): Royal Assent</div>
+      <div>Schedule 6 (item 25): Royal Assent <i>(a)</i> 
+Schedule 8: Royal Assent <i>(a)</i> 
+</div>
     </td>
     <td>
       <div>Sch. 8 (Items 22, 23)</div>
@@ -240,24 +249,14 @@ of Assent</div>
       <div>Sch. 1 (item 7)</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
-    </td>
-    <td>
-      <div>154, 2007</div>
-    </td>
-    <td>
-      <div>24 Sept 2007</div>
-    </td>
-    <td>
-      <div>Schedule 4 (items 51, 52): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+</thead>
+<tbody></tbody></table>
+
+
+_(a)_     The _Life Insurance Supervisory Levy Imposition Act 1998_ was amended by Schedule 6 (item 25) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(1) of which provides as follows:
+
+             (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
 
 ## Table of Amendments
 
@@ -282,30 +281,33 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 16, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 16, 2005; No. 154, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1999; No. 16, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 16, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 16, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1999; No. 16, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -373,7 +375,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                       (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-                     (g)  the _Friendly Societies (__Western   Australia__) Act 1999_; and
+                     (g)  the _Friendly Societies (__Western Australia__) Act 1999_; and
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
@@ -381,10 +383,13 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
 The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Life Insurance Supervisory Levy Imposition Amendment Act 2005 
- (No. 16, 2005)_
+(No. 16, 2005)
+_
 
 <h7 class="ActHead7">Schedule 1</h7>
 
@@ -395,5 +400,6 @@ The amendments made by this Schedule apply in relation to levy payable for:
                      (a)  the financial year commencing on 1 July 2005; and
 
                      (b)  each succeeding financial year.
+
 
  
