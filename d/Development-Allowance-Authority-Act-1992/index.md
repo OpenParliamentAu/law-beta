@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00821/Html/DevAllowanceAuth92_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00612/Html/DevAllowanceAuth92_image001.gif)
 
 # Development Allowance Authority Act 1992
 
 **Act No. 99 of 1992 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 4 October 2007
+ taking into account amendments up to Act No. 164 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -171,8 +171,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [113](#113).        DAA may revoke declaration
 
 [114](#114).        Commercial-in-confidence information must not be disclosed
-
-[114A](#114A).     Disclosure of commercial-in-confidence information obtained in breach of this Act
 
 **Part 5—Reports by DAA**
 
@@ -1408,6 +1406,8 @@ report in writing to the DAA on things done, during the reporting year concerned
 
                     <a name="review-decision"></a>**_reviewable decision_** means a decision of the DAA under Part 2, 3, 4, 5, 6 or 8 of Chapter 2, Part 3 of Chapter 3 or Part 4 of Chapter 4.
 
+                    <a name="state-taxat-offic-disclosur-provision"></a>**_State taxation officer disclosure provision_** means section 13J of the _Taxation Administration Act 1953_ in so far as that section applies in relation to this Act.
+
 ## Part 2—Development Allowance Authority
 
 ##### <a id="94"></a>94  Creation of single-person statutory office of Development Allowance Authority
@@ -1576,6 +1576,8 @@ a direction under subsection (3) in relation to that matter has no effect unle
 
                      (b)  the document certification provision; or
 
+                     (c)  the State taxation officer disclosure provisions; or
+
                      (d)  the prosecution provisions.
 
 ##### <a id="109"></a>109  Consultants
@@ -1718,34 +1720,6 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  the information is otherwise treated as commercial-in-confidence information for the purposes of this Part.
 
-##### <a id="114A"></a>114A  Disclosure of commercial-in-confidence information obtained in breach of this Act
-
-             (1)  A person commits an offence if the person:
-
-                     (a)  makes a record of, discloses or otherwise makes use of information; and
-
-                     (b)  the information is commercial-in-confidence information for the purposes of section 114; and
-
-                     (c)  the information was disclosed to or obtained by the person in breach of section 114; and
-
-                     (d)  the information was not disclosed to or obtained by the person because of performing duties or functions under this Act.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (2)  Subsection (1) does not apply:
-
-                     (a)  to the extent that the person’s actions are required or permitted by this Act or reasonably necessary in order to comply with an obligation imposed by this Act; or
-
-                     (b)  to a disclosure if the disclosure is:
-
-                              (i)  to the DAA or a person who is performing duties or functions under this Act; and
-
-                             (ii)  for a purpose connected with administering this Act.
-
-Note:          A defendant bears an evidential burden in relation to the matters in this subsection: see subsection 13.3(3) of the _Criminal Code_.
-
-             (3)  Except where it is necessary to do so for the purpose of carrying into effect the provisions of this Act, a person must not be required to disclose to a court or tribunal a matter or thing with respect to information in relation to which subsection (1) applies.
-
 ## Part 5—Reports by DAA
 
 ##### <a id="115"></a>115  Quarterly reports by DAA
@@ -1788,6 +1762,8 @@ Note:          A defendant bears an evidential burden in relat
                    A reference in this Part to the operation of this Act includes a reference to the operation of:
 
                      (a)  the document certification provision; and
+
+                     (b)  the State taxation officer disclosure provisions; and
 
                      (c)  the prosecution provisions.
 
@@ -1866,6 +1842,8 @@ that notice must include a statement to the effect that the person may, subject 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+ 
 
 # Notes to the _Development Allowance Authority Act 1992_
 
@@ -2219,23 +2197,6 @@ Schedule 3 (items 66, 67): ( <i>d</i>)</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 10–13, 123(2)): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 123(2)) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -3743,14 +3704,6 @@ Chapt. 4</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 2</b></div>
   </td>
   <td>
@@ -3829,7 +3782,7 @@ No. 163, 1994</div>
     <div>S. 108 .................................</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 145, 2010</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -3876,14 +3829,6 @@ No. 163, 1994</div>
 </tr>
 <tr>
   <td>
-    <div>S. 114A</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 5</b></div>
   </td>
   <td>
@@ -3914,14 +3859,6 @@ No. 163, 1994</div>
   </td>
   <td>
     <div>am. No. 163, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 118</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4104,17 +4041,6 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010
- (No. 145, 2010)_
-
-## Schedule 2
-
-## 123  Application of amendments
-
-(2)        The amendment made by item 12 of this Schedule applies to records, disclosures and uses made on or after the commencement of that item (whenever the information was obtained).
+This Schedule does not limit the operation of section 8 of the Acts Interpretation Act 1901.
 
  
