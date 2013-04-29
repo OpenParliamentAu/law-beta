@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00732/Html/59513d1b-4085-4fea-b628-65e38e8ea177_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00133/Html/WitnessProtection1994_WD02_image001.gif)
 
 # Witness Protection Act 1994
 
 **Act No. 124 of 1994 as amended**
 
-This compilation was prepared on 3 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 26 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,89 +13,94 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3AA](#3AA).      Declaration of _complementary witness protection law_
+[3AA](#3AA).      Declaration of _complementary witness protection law_                         5
 
-[3AB](#3AB).      _State offence that has a federal aspect_
+[3AB](#3AB).      _State offence that has a federal aspect_                                                  5
 
-[3A](#3A).         Application of the _Criminal Code_
+[3A](#3A).         Application of the _Criminal Code_                                                       6
 
-[4](#4).            Establishment of the National Witness Protection Program
+[4](#4).            Establishment of the National Witness Protection Program               6
 
-[5](#5).            Inclusion in NWPP not to be done as a reward for giving evidence etc 
+[5](#5).            Inclusion in NWPP not to be done as a reward for giving evidence etc   6
 
-[6](#6).            Arrangements with approved authorities
+[6](#6).            Arrangements with approved authorities                                            6
 
-[7](#7).            Witness to disclose certain matters before being included in the NWPP
+[7](#7).            Witness to disclose certain matters before being included in the NWPP 7
 
-[8](#8).            Selection for inclusion in the NWPP
+[8](#8).            Selection for inclusion in the NWPP                                                   9
 
-[9](#9).            Memorandum of understanding
+[9](#9).            Memorandum of understanding                                                         11
 
-[10](#10).          Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies
+[10](#10).          Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies               13
 
-[10A](#10A).       Inclusion of persons in NWPP at the request of International Criminal Court
+[10A](#10A).       Inclusion of persons in NWPP at the request of International Criminal Court       14
 
-[11](#11).          Register of participants
+[11](#11).          Register of participants                                                                     15
 
-[12](#12).          Access to Register
+[12](#12).          Access to Register                                                                             16
 
-[13](#13).          Action to protect witnesses, participants and former participants etc 
+[13](#13).          Action to protect witnesses, participants and former participants etc   17
 
-[14](#14).          Special provision in case of marriage of participant
+[14](#14).          Special provision in case of marriage of participant                          18
 
-[15](#15).          Dealing with rights and obligations of participant
+[15](#15).          Dealing with rights and obligations of participant                             19
 
-[16](#16).          Non‑disclosure of former identity of participant
+[16](#16).          Non-disclosure of former identity of participant                              20
 
-[17](#17).          Special commercial arrangements by Commissioner
+[17](#17).          Special commercial arrangements by Commissioner                         21
 
-[18](#18).          Termination of inclusion in NWPP and other protection and assistance
+[18](#18).          Termination of inclusion in NWPP and other protection and assistance                21
 
-[19](#19).          Restoration of former identity
+[19](#19).          Restoration of former identity                                                           24
 
-[20](#20).          Provision of information to approved authorities
+[20](#20).          Provision of information to approved authorities                             25
 
-[21](#21).          Officers protected from suit in respect of decisions under Act
+[21](#21).          Officers protected from suit in respect of decisions under Act        26
 
-[22](#22).          Offences relating to Commonwealth or Territory participants
+[22](#22).          Offences relating to Commonwealth or Territory participants         26
 
-[22A](#22A).       Offences relating to State participants
+[22A](#22A).       Offences relating to State participants                                              29
 
-[22B](#22B).       Offences relating to disclosure of information about the NWPP
+[22B](#22B).       Offences relating to disclosure of information about the NWPP      32
 
-[22C](#22C).       Disclosures to courts, etc 
+[22C](#22C).       Disclosures to courts, etc                                                                  34
 
-[23](#23).          Payments under NWPP not able to be confiscated
+[23](#23).          Payments under NWPP not able to be confiscated                           34
 
-[24](#24).          Restriction on issue of Commonwealth identity documents
+[24](#24).          Restriction on issue of Commonwealth identity documents             34
 
-[25](#25).          Delegation
+[25](#25).          Delegation                                                                                          35
 
-[26](#26).          Commissioner and members not to be required to disclose information
+[26](#26).          Commissioner and members not to be required to disclose information 35
 
-[27](#27).          Requirement where participant becomes a witness in criminal proceedings
+[27](#27).          Requirement where participant becomes a witness in criminal proceedings           37
 
-[27A](#27A).       Requirement where participant involved in civil proceedings
+[27A](#27A).       Requirement where participant involved in civil proceedings           37
 
-[28](#28).          Identity of participant not to be disclosed in court proceedings etc 
+[28](#28).          Identity of participant not to be disclosed in court proceedings etc  38
 
-[28A](#28A).       Offence of contravening an order under section 28
+[28A](#28A).       Offence of contravening an order under section 28                           39
 
-[29](#29).          Transitional
+[29](#29).          Transitional                                                                                        39
 
-[30](#30).          Reports and information for the Minister
+[30](#30).          Reports and information for the Minister                                         40
 
-[32](#32).          Regulations
+[31](#31).          Amendments of other Acts                                                               40
+
+[32](#32).          Regulations                                                                                        40
+
+**Schedule—Amendments of other Acts** 
 
 **Notes** 
 
@@ -103,7 +108,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Witness Protection Act 1994_.
+                   This Act may be cited as the _Witness Protection Act 1994_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -421,7 +426,7 @@ the Commissioner may require the participant to sign another memorandum of under
 
                     <a name="particip"></a>**_participant_** does not include a former participant.
 
-##### <a id="9"></a>9  Memorandum of understanding
+##### <a id="9"></a>9  Memorandum of understanding
 
              (1)  A memorandum of understanding is to:
 
@@ -589,7 +594,7 @@ the Commissioner is to include the nominated person in the NWPP.
 
              (6)  In this section, **_participant_** and **_former participant_**do not include a person who is a former participant only because of the operation of subsection 13(6).
 
-##### <a id="12"></a>12  Access to Register
+##### <a id="12"></a>12  Access to Register
 
              (1)  Subject to this section, only the Commissioner, and persons who hold or occupy designated positions and who are authorised by the Commissioner, are to have access to the Register and to documents kept in conjunction with the Register.
 
@@ -635,7 +640,7 @@ the Commissioner is to include the nominated person in the NWPP.
 
                      (h)  providing assistance to the witness in obtaining employment or access to education; and
 
-                      (i)  providing other assistance to the witness with a view to ensuring that the witness becomes self-sustaining; and
+                      (i)  providing other assistance to the witness with a view to ensuring that the witness becomes self—sustaining; and
 
                       (j)  doing other things that the Commissioner considers to be necessary to ensure the safety of the witness.
 
@@ -701,7 +706,7 @@ the Commissioner is to give notice in writing to the participant stating that he
 
              (5)  That action may include informing a person who is seeking to enforce rights against the participant of the details of any property (whether real or personal) owned by the participant under his or her original identity or a former NWPP identity.
 
-##### <a id="16"></a>16  Non‑disclosure of former identity of participant
+##### <a id="16"></a>16  Non-disclosure of former identity of participant
 
              (1)  If:
 
@@ -1349,13 +1354,37 @@ the participant must notify the Commissioner that the participant is to be a wit
 
              (2)  In consultation with the Commissioner, the Minister must prepare and cause to be laid before each House of the Parliament, an annual report on the matters referred to in subsection (1) in a manner which does not prejudice the effectiveness or security of the NWPP.
 
+##### <a id="31"></a>31  Amendments of other Acts
+
+                   The Acts specified in the Schedule are amended as set out in the Schedule.
+
 ##### <a id="32"></a>32  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed by this Act; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+# Schedule—Amendments of other Acts
+
+_Section 31_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+_Administrative Decisions (Judicial Review) Act 1977_
+
+_Australian Federal Police Act 1979_
+
+_Marriage Act 1961_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 124, 1994.
+
+* * *
 
 # Notes to the _Witness Protection Act 1994_
 
@@ -1452,7 +1481,7 @@ of Assent</div>
     <div>7 Mar 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 65–78) and Schedule 3 (items 20, 34, 35): 2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
   </td>
   <td>
     <div>Sch. 3 (items 20, 34, 35)</div>
@@ -1492,7 +1521,9 @@ of Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 9: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428)</div>
+    <div>Schedules 1–7 and 9–12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1509,7 +1540,8 @@ of Assent</div>
     <div>27 June 2002</div>
   </td>
   <td>
-    <div>Schedule 7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38)</div>
+    <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
+Remainder: 28 June 2002</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1526,7 +1558,8 @@ of Assent</div>
     <div>11 Oct 2002</div>
   </td>
   <td>
-    <div>Schedule 6 (item 49): 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div>
+    <div>Ss. 1–3: Royal Assent 
+Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1543,7 +1576,7 @@ of Assent</div>
     <div>10 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 2 (item 225): 1 Jan 2003</div>
+    <div>Schedule 2 (item 225): 1 Jan 2003</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1560,7 +1593,7 @@ of Assent</div>
     <div>23 June 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 211–213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
+    <div>Schedule 1 (items 211–213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
   </td>
   <td colspan="2">
     <div>Sch. 1 (items 212, 213, 215)</div>
@@ -1577,7 +1610,7 @@ of Assent</div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 3 (items 65, 66): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (items 65, 66): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1594,7 +1627,7 @@ of Assent</div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (item 97): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 97): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1602,7 +1635,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -1611,7 +1644,7 @@ of Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (item 85): 10 Dec 2008</div>
+    <div>Schedule 2 (item 85): 10 Dec 2008</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1628,28 +1661,11 @@ of Assent</div>
     <div>19 Feb 2010</div>
   </td>
   <td>
-    <div>Schedule 3: 20 Feb 2010</div>
+    <div>Schedule 3: 20 Feb 2010</div>
   </td>
   <td colspan="2">
     <div>Sch. 3 (items 
 69–71)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 90, 91): Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -1657,7 +1673,7 @@ _(a)_     The _Witness Protection Act 1994_ was amended by Schedule 1 
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Witness Protection Act 1994_ was amended by Schedule 50 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+_(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences at the later of the following times:
 
@@ -1669,8 +1685,8 @@ _(b)_     The _Witness Protection Act 1994_ was amended by Schedule 50
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1935,22 +1951,6 @@ _(b)_     The _Witness Protection Act 1994_ was amended by Schedule 50
   <td>
     <div>am. No. 4, 2010</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
 
 ## Table A
@@ -1985,9 +1985,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -2005,13 +2005,13 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## Schedule 1
 
-## 212  Transitional—pre‑commencement deeds and compositions
+## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre‑commencement deed_**.
+(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre‑commencement composition_**.
+(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
-(3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -2019,21 +2019,21 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement deed; and
+                     (c)  a pre-commencement deed; and
 
-                     (d)  a pre‑commencement composition; and
+                     (d)  a pre-commencement composition; and
 
                      (e)  any matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement deed; or
+                              (i)  a pre-commencement deed; or
 
-                             (ii)  a pre‑commencement composition;
+                             (ii)  a pre-commencement composition;
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 213  Transitional—pre‑commencement authorities
+## 213  Transitional—pre-commencement authorities
 
-(1)       For the purposes of this item, if:
+(1)        For the purposes of this item, if:
 
                      (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
 
@@ -2045,9 +2045,9 @@ as if those repeals had not happened and those amendments had not been made.
 
                             (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
 
-the authority is a **_pre‑commencement authority_**.
+the authority is a **_pre-commencement authority_**.
 
-(2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -2055,11 +2055,11 @@ the authority is a **_pre‑commencement authority_**.
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement authority; and
+                     (c)  a pre-commencement authority; and
 
-                     (d)  the control of the debtor’s property following a pre‑commencement authority becoming effective; and
+                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
 
-                     (e)  a meeting of the debtor’s creditors called under a pre‑commencement authority; and
+                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
 
                       (f)  whichever of the following is applicable:
 
@@ -2071,7 +2071,7 @@ continue to apply, in relation to:
 
                      (g)  any other matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement authority; or
+                              (i)  a pre-commencement authority; or
 
                              (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
 
@@ -2083,9 +2083,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 215  Transitional—regulations
 
-(1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -2095,22 +2095,22 @@ _Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010 (
 
 ## 69  Saving provision—declarations of complementary witness protection laws
 
-(1)       A declaration made under paragraph (b) of the definition of **_complementary witness protection law_** in section 3 of the _Witness Protection Act 1994_ before the commencement of this item is not, and is taken never to have been, a legislative instrument.
+(1)        A declaration made under paragraph (b) of the definition of **_complementary witness protection law_** in section 3 of the _Witness Protection Act 1994_ before the commencement of this item is not, and is taken never to have been, a legislative instrument.
 
-(2)       If the declaration was in force just before the commencement of this item, the declaration has effect from that commencement, subject to subitem (1), as if it had been made under section 3AA of that Act as inserted by this Schedule.
+(2)        If the declaration was in force just before the commencement of this item, the declaration has effect from that commencement, subject to subitem (1), as if it had been made under section 3AA of that Act as inserted by this Schedule.
 
 ## 70  Application—action in respect of former participants etc.
 
 The Commissioner may take action under subsection 13(5) of the _Witness Protection Act 1994_, as inserted by this Schedule, on or after the commencement of this item, whether the former participant concerned became a former participant before, on or after that commencement.
 
-## 71  Application—non‑disclosure of former identity
+## 71  Application—non-disclosure of former identity
 
-(1)       Section 16 of the _Witness Protection Act 1994_, as amended by this Act, applies on and after the commencement of this item in relation to a pre‑commencement permission given to a participant for a particular purpose as if it were a post‑commencement permission given for the participant not to disclose his or her original identity for that purpose.
+(1)        Section 16 of the _Witness Protection Act 1994_, as amended by this Act, applies on and after the commencement of this item in relation to a pre-commencement permission given to a participant for a particular purpose as if it were a post-commencement permission given for the participant not to disclose his or her original identity for that purpose.
 
-(2)       In this item:
+(2)        In this item:
 
-**_post‑commencement permission_** means a permission given under paragraph 16(1)(b) of the _Witness Protection Act 1994_, as in force at the commencement of this item.
+**_post-commencement permission_** means a permission given under paragraph 16(1)(b) of the _Witness Protection Act 1994_, as in force at the commencement of this item.
 
-**_pre‑commencement permission_** means a permission given under paragraph 16(1)(b) of the _Witness Protection Act 1994_ before the commencement of this item.
+**_pre-commencement permission_** means a permission given under paragraph 16(1)(b) of the _Witness Protection Act 1994_ before the commencement of this item.
 
  
