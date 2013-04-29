@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00788/Html/27fb5d09-a825-4c2d-832a-1e69ec4ee81a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00186/Html/FutureFundAct2006_image001.gif)
 
 # Future Fund Act 2006
 
 **Act No. 12 of 2006 as amended**
 
-This compilation was prepared on 27 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 4 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -36,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Extension to external Territories
 
-[9](#9).            Extra‑territorial application
+[9](#9).            Extra-territorial application
 
 **Part 2—The Future Fund**
 
@@ -84,7 +84,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30](#30).          Refund of franking credits
 
-[32](#32).          Realisation of non‑financial assets
+[32](#32).          Realisation of non-financial assets
 
 **Part 4—The Future Fund Board of Guardians** 
 
@@ -250,7 +250,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3—Transfers of financial assets to the Future Fund**
 
-[6](#6).            Transfers to the Fund—Commonwealth‑owned financial assets
+[6](#6).            Transfers to the Fund—Commonwealth-owned financial assets
 
 [7](#7).            Transfers of financial assets to the Fund—gifts
 
@@ -266,7 +266,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Board must ensure that there is sufficient money to cover the main purposes of the Fund Account
 
-**Schedule 2A—Inter‑fund transfers**
+**Schedule 2A—Inter-fund transfers**
 
 [1](#1).            Simplified outline
 
@@ -396,7 +396,7 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="3"></a>3  Object
 
-             (1)  The main object of this Act is to strengthen the Commonwealth’s long‑term financial position by establishing the Future Fund.
+             (1)  The main object of this Act is to strengthen the Commonwealth’s long-term financial position by establishing the Future Fund.
 
              (2)  The Future Fund will make provision for unfunded superannuation liabilities that will become payable during a period when an ageing population is likely to place significant pressure on the Commonwealth’s finances.
 
@@ -428,7 +428,7 @@ Agency is responsible for assisting and advising the Board.</li>
 
 * * *
 
-Note:          The Future Fund Board of Guardians has additional functions under the _Nation‑building Funds Act 2008_.
+Note:          The Future Fund Board of Guardians has additional functions under the _Nation-building Funds Act 2008_.
 
 ##### <a id="5"></a>5  Definitions
 
@@ -460,9 +460,9 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="board-member"></a>**_Board member_** means a member of the Board, and includes the Chair.
 
-                    <a name="build-australia-fund"></a>**_Building Australia Fund_** means the Building Australia Fund established by section 12 of the _Nation‑building Funds Act 2008_.
+                    <a name="build-australia-fund"></a>**_Building Australia Fund_** means the Building Australia Fund established by section 12 of the _Nation-building Funds Act 2008_.
 
-                    <a name="build-australia-fund-special-account"></a>**_Building Australia Fund Special Account_** means the Building Australia Fund Special Account established by section 13 of the _Nation‑building Funds Act 2008_.
+                    <a name="build-australia-fund-special-account"></a>**_Building Australia Fund Special Account_** means the Building Australia Fund Special Account established by section 13 of the _Nation-building Funds Act 2008_.
 
                     <a name="busi-entiti"></a>**_business entity_** means:
 
@@ -482,9 +482,9 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="commonwealth-compani"></a>**_Commonwealth company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997._
 
-                    <a name="commonwealth-owned-financi-asset"></a>**_Commonwealth‑owned financial asset_** means a financial asset held by the Commonwealth.
+                    <a name="commonwealth-owned-financi-asset"></a>**_Commonwealth-owned financial asset_** means a financial asset held by the Commonwealth.
 
-                    <a name="commun-minist"></a>**_Communications Minister_** has the same meaning as in the _Nation‑building Funds Act 2008_.
+                    <a name="commun-minist"></a>**_Communications Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
 
                     <a name="deriv"></a>**_derivative_** means a derivative (within the meaning of Chapter 7 of the _Corporations Act 2001_) that is a financial asset.
 
@@ -496,13 +496,13 @@ Note:          The Future Fund Board of Guardians has addition
 
                      (b)  known by the person to be dishonest according to the standards of ordinary people.
 
-                    <a name="educ-invest-fund"></a>**_Education Investment Fund_** means the Education Investment Fund established by section 131 of the _Nation‑building Funds Act 2008_.
+                    <a name="educ-invest-fund"></a>**_Education Investment Fund_** means the Education Investment Fund established by section 131 of the _Nation-building Funds Act 2008_.
 
-                    <a name="educ-invest-fund-special-account"></a>**_Education Investment Fund Special Account_** means the Education Investment Fund Special Account established by section 132 of the _Nation‑building Funds Act 2008_.
+                    <a name="educ-invest-fund-special-account"></a>**_Education Investment Fund Special Account_** means the Education Investment Fund Special Account established by section 132 of the _Nation-building Funds Act 2008_.
 
-                    <a name="educ-minist"></a>**_Education Minister_** has the same meaning as in the _Nation‑building Funds Act 2008_.
+                    <a name="educ-minist"></a>**_Education Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
 
-                    <a name="energi-minist"></a>**_Energy Minister_** has the same meaning as in the _Nation‑building Funds Act 2008_.
+                    <a name="energi-minist"></a>**_Energy Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
 
                     <a name="financ-minist"></a>**_Finance Minister_** has the same meaning as in the _Financial Management and Accountability Act 1997_.
 
@@ -536,13 +536,13 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="gf-system"></a>**_GFS system_** has the same meaning as in GFS Australia.
 
-                    <a name="health-hospit-fund"></a>**_Health and Hospitals Fund_** means the Health and Hospitals Fund established by section 214 of the _Nation‑building Funds Act 2008_.
+                    <a name="health-hospit-fund"></a>**_Health and Hospitals Fund_** means the Health and Hospitals Fund established by section 214 of the _Nation-building Funds Act 2008_.
 
-                    <a name="health-hospit-fund-special-account"></a>**_Health and Hospitals Fund Special Account_** means the Health and Hospitals Fund Special Account established by section 215 of the _Nation‑building Funds Act 2008_.
+                    <a name="health-hospit-fund-special-account"></a>**_Health and Hospitals Fund Special Account_** means the Health and Hospitals Fund Special Account established by section 215 of the _Nation-building Funds Act 2008_.
 
-                    <a name="health-minist"></a>**_Health Minister_** has the same meaning as in the _Nation‑building Funds Act 2008_.
+                    <a name="health-minist"></a>**_Health Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
 
-                    <a name="infrastructur-minist"></a>**_Infrastructure Minister_** has the same meaning as in the _Nation‑building Funds Act 2008_.
+                    <a name="infrastructur-minist"></a>**_Infrastructure Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
 
                     <a name="invest"></a>**_investment_** means any mode of application of money or financial assets for the purpose of gaining a return (whether by way of income, capital gain or any other form of return).
 
@@ -574,7 +574,7 @@ Note:          See also paragraph 22(1)(a) of the _Acts Interp
 
                     <a name="realis"></a>**_realise_** includes redeem or dispose of.
 
-                    <a name="research-minist"></a>**_Research Minister_** has the same meaning as in the _Nation‑building Funds Act 2008_.
+                    <a name="research-minist"></a>**_Research Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
 
                     <a name="respons-minist"></a>**_responsible Ministers_** means:
 
@@ -604,7 +604,7 @@ Note:          See also paragraph 22(1)(a) of the _Acts Interp
 
                      (h)  the _Judges’ Pensions Act 1968_; or
 
-                      (i)  section 4, 4A or 4AA of the _Governor‑General Act 1974_.
+                      (i)  section 4, 4A or 4AA of the _Governor-General Act 1974_.
 
                     <a name="superannu-liabil"></a>**_superannuation liability_** means a liability to make a payment of a superannuation benefit.
 
@@ -622,7 +622,7 @@ Note:          See also paragraph 22(1)(a) of the _Acts Interp
 
                     <a name="valu"></a>**_value_** means market value. For this purpose, disregard anything that would prevent or restrict conversion of a financial asset to money.
 
-                    <a name="water-minist"></a>**_Water Minister_** has the same meaning as in the _Nation‑building Funds Act 2008_.
+                    <a name="water-minist"></a>**_Water Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
 
 ##### <a id="6"></a>6  Financial assets
 
@@ -632,7 +632,7 @@ Note:          See also paragraph 22(1)(a) of the _Acts Interp
 
                      (b)  an asset specified in regulations made for the purposes of this paragraph;
 
-but does not include a reference to an asset that, under the regulations, is taken to be a non‑financial asset for the purposes of this Act.
+but does not include a reference to an asset that, under the regulations, is taken to be a non-financial asset for the purposes of this Act.
 
 Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
 
@@ -646,7 +646,7 @@ Note:          For specification by class, see subsection 13(3
 
                    This Act extends to every external Territory.
 
-##### <a id="9"></a>9  Extra‑territorial application
+##### <a id="9"></a>9  Extra-territorial application
 
                    This Act extends to acts, omissions, matters and things outside Australia (unless the contrary intention appears).
 
@@ -760,7 +760,7 @@ Note:          For acquisition of derivatives, see section 2
 
              (4)  Upon realisation of an investment of the Fund, the proceeds of the investment are to be credited to the Fund Account.
 
-             (5)  At any time before an investment of the Fund matures, the Board may authorise the re‑investment of the proceeds upon maturity in a financial asset investment with the same entity. The new investment is taken to be an investment of the Fund.
+             (5)  At any time before an investment of the Fund matures, the Board may authorise the re-investment of the proceeds upon maturity in a financial asset investment with the same entity. The new investment is taken to be an investment of the Fund.
 
              (6)  Section 39 of the _Financial Management and Accountability Act 1997_ does not apply to an investment of the Fund.
 
@@ -1024,17 +1024,17 @@ unless the Board does so:
 
                      (a)  this Act;
 
-                     (b)  the _Nation‑building Funds Act 2008_;
+                     (b)  the _Nation-building Funds Act 2008_;
 
 prevents the same person from being engaged as an investment manager under 2 or more of the following provisions:
 
                      (c)  subsection (1) of this section;
 
-                     (d)  subsection 45(1) of the _Nation‑building Funds Act 2008_;
+                     (d)  subsection 45(1) of the _Nation-building Funds Act 2008_;
 
-                     (e)  subsection 164(1) of the _Nation‑building Funds Act 2008_;
+                     (e)  subsection 164(1) of the _Nation-building Funds Act 2008_;
 
-                      (f)  subsection 239(1) of the _Nation‑building Funds Act 2008_.
+                      (f)  subsection 239(1) of the _Nation-building Funds Act 2008_.
 
 ##### <a id="29"></a>29  Custody of securities
 
@@ -1054,7 +1054,7 @@ Note 1:       See also section 84B.
 
 Note 2:       For refunds of tax offsets, see Division 63 of the _Income Tax Assessment Act 1997_.
 
-##### <a id="32"></a>32  Realisation of non‑financial assets
+##### <a id="32"></a>32  Realisation of non-financial assets
 
              (1)  If an asset held by the Board as an investment of the Fund ceases to be a financial asset:
 
@@ -1100,7 +1100,7 @@ good faith.</li>
 
 * * *
 
-Note:          The Future Fund Board of Guardians has additional functions under the _Nation‑building Funds Act 2008_.
+Note:          The Future Fund Board of Guardians has additional functions under the _Nation-building Funds Act 2008_.
 
 ### Division 2—Establishment and functions of the Future Fund Board of Guardians
 
@@ -1118,7 +1118,7 @@ Note:          The Future Fund Board of Guardians has addition
 
                               (i)  this Act; or
 
-                             (ii)  the _Nation‑building Funds Act 2008_;
+                             (ii)  the _Nation-building Funds Act 2008_;
 
                      (c)  to do anything incidental to or conducive to the performance of any of the above functions.
 
@@ -1168,7 +1168,7 @@ Note:          Section 18B of the _Acts Interpretation Act 1
 
              (2)  Board members are to be appointed by the responsible Ministers by written instrument.
 
-Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+Note:          For re-appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (3)  A person is not eligible for appointment as a Board member unless the responsible Ministers are satisfied that the person has:
 
@@ -1192,9 +1192,9 @@ in at least one of the following fields:
 
                      (c)  an employee of a Commonwealth company; or
 
-                     (d)  the holder of a full‑time office under a law of the Commonwealth.
+                     (d)  the holder of a full-time office under a law of the Commonwealth.
 
-Note:          A Board member is not an employee of the Commonwealth. A Board member holds a part‑time office under a law of the Commonwealth.
+Note:          A Board member is not an employee of the Commonwealth. A Board member holds a part-time office under a law of the Commonwealth.
 
 ##### <a id="39"></a>39  Application of the _Corporations Act 2001_
 
@@ -1206,11 +1206,11 @@ Note:          A Board member is not an employee of the Common
 
 ##### <a id="40"></a>40  Term of appointment and related matters for Board members
 
-             (1)  A Board member is to be appointed on a part‑time basis.
+             (1)  A Board member is to be appointed on a part-time basis.
 
              (2)  A Board member holds office for the period that is specified in the instrument of appointment. The period must not exceed 5 years.
 
-Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+Note:          For re-appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="41"></a>41  Remuneration and allowances of Board members
 
@@ -1422,7 +1422,7 @@ Reports and documents
 
              (2)  The Board must give the nominated Minister such reports, documents and information in relation to those operations as are appropriate.
 
-             (3)  Subsections (1) and (2) do not apply to the operations of the Board under the _Nation‑building Funds Act 2008_.
+             (3)  Subsections (1) and (2) do not apply to the operations of the Board under the _Nation-building Funds Act 2008_.
 
 ### Division 7—Duties of Board members etc.
 
@@ -1564,7 +1564,7 @@ and fails to exercise his or her powers and discharge his or her duties:
 
                      (a)  another provision of this Act; or
 
-                     (b)  the _Nation‑building Funds Act 2008_;
+                     (b)  the _Nation-building Funds Act 2008_;
 
 requires the Board member to do.
 
@@ -1572,7 +1572,7 @@ requires the Board member to do.
 
                      (a)  another provision of this Act; or
 
-                    (aa)  the _Nation‑building Funds Act 2008_; or
+                    (aa)  the _Nation-building Funds Act 2008_; or
 
                      (b)  the _Financial Management and Accountability Act 1997_; or
 
@@ -1700,7 +1700,7 @@ Effect of contravention by Board member
 
              (4)  A contravention of this section by a Board member does not affect the validity of any transaction or resolution.
 
-##### <a id="69"></a>69  Board member may give other Board members standing notice about an interest
+##### <a id="69"></a>69  Board member may give other Board members standing notice about an interest
 
 Power to give notice
 
@@ -1978,15 +1978,15 @@ Building Australia Fund
 
                      (a)  the performance of the investments of the Building Australia Fund; and
 
-                     (b)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 18(1)(i) of the _Nation‑building Funds Act 2008_; and
+                     (b)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 18(1)(i) of the _Nation-building Funds Act 2008_; and
 
-                     (c)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(d) of the _Nation‑building Funds Act 2008_; and
+                     (c)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(d) of the _Nation-building Funds Act 2008_; and
 
-                     (d)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(e) of the _Nation‑building Funds Act 2008_; and
+                     (d)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(e) of the _Nation-building Funds Act 2008_; and
 
-                     (e)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(f) of the _Nation‑building Funds Act 2008_; and
+                     (e)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(f) of the _Nation-building Funds Act 2008_; and
 
-                      (f)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(g) of the _Nation‑building Funds Act 2008_;
+                      (f)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(g) of the _Nation-building Funds Act 2008_;
 
 during the financial year.
 
@@ -1996,15 +1996,15 @@ Education Investment Fund
 
                      (a)  the performance of the investments of the Education Investment Fund; and
 
-                     (b)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 136(1)(i) of the _Nation‑building Funds Act 2008_; and
+                     (b)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 136(1)(i) of the _Nation-building Funds Act 2008_; and
 
-                     (c)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(d) of the _Nation‑building Funds Act 2008_; and
+                     (c)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(d) of the _Nation-building Funds Act 2008_; and
 
-                     (d)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(e) of the _Nation‑building Funds Act 2008_; and
+                     (d)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(e) of the _Nation-building Funds Act 2008_; and
 
-                     (e)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(f) of the _Nation‑building Funds Act 2008_; and
+                     (e)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(f) of the _Nation-building Funds Act 2008_; and
 
-                      (f)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(g) of the _Nation‑building Funds Act 2008_;
+                      (f)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(g) of the _Nation-building Funds Act 2008_;
 
 during the financial year.
 
@@ -2014,15 +2014,15 @@ Health and Hospitals Fund
 
                      (a)  the performance of the investments of the Health and Hospitals Fund; and
 
-                     (b)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 218(1)(e) of the _Nation‑building Funds Act 2008_; and
+                     (b)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 218(1)(e) of the _Nation-building Funds Act 2008_; and
 
-                     (c)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(d) of the _Nation‑building Funds Act 2008_; and
+                     (c)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(d) of the _Nation-building Funds Act 2008_; and
 
-                     (d)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(e) of the _Nation‑building Funds Act 2008_; and
+                     (d)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(e) of the _Nation-building Funds Act 2008_; and
 
-                     (e)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(f) of the _Nation‑building Funds Act 2008_; and
+                     (e)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(f) of the _Nation-building Funds Act 2008_; and
 
-                      (f)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(g) of the _Nation‑building Funds Act 2008_;
+                      (f)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(g) of the _Nation-building Funds Act 2008_;
 
 during the financial year.
 
@@ -2116,11 +2116,11 @@ Note:          The expressions **_SES employee_** and **_actin
 
                      (a)  subsection 28(1) of this Act; or
 
-                     (b)  subsection 45(1) of the _Nation‑building Funds Act 2008_; or
+                     (b)  subsection 45(1) of the _Nation-building Funds Act 2008_; or
 
-                     (c)  subsection 164(1) of the _Nation‑building Funds Act 2008_; or
+                     (c)  subsection 164(1) of the _Nation-building Funds Act 2008_; or
 
-                     (d)  subsection 239(1) of the _Nation‑building Funds Act 2008_;
+                     (d)  subsection 239(1) of the _Nation-building Funds Act 2008_;
 
 to:
 
@@ -2142,7 +2142,7 @@ Note:          The expressions **_SES employee_** and **_actin
 
                               (i)  another provision of this Act;
 
-                             (ii)  a provision of the _Nation‑building Funds Act 2008_;
+                             (ii)  a provision of the _Nation-building Funds Act 2008_;
 
                             requires the amount to be credited to:
 
@@ -2202,7 +2202,7 @@ the sum of the transfer amounts must not exceed the first amount.
 
 Income tax
 
-             (1)  To avoid doubt, for the purposes of section 50‑25 of the _Income Tax Assessment Act 1997_, the Board is taken to be a public authority constituted under an Australian law.
+             (1)  To avoid doubt, for the purposes of section 50-25 of the _Income Tax Assessment Act 1997_, the Board is taken to be a public authority constituted under an Australian law.
 
 Note:          This means that the Board is exempt from income tax.
 
@@ -2216,7 +2216,7 @@ State/Territory taxes
 
 Note:          See Division 207 of the _Income Tax Assessment Act 1997_ (franked distributions).
 
-             (2)  Subsection (1) has effect despite subsection 207‑115(1) of the _Income Tax Assessment Act 1997._
+             (2)  Subsection (1) has effect despite subsection 207-115(1) of the _Income Tax Assessment Act 1997._
 
              (3)  For the purposes of the _Income Tax Assessment Act 1997_, the Board’s entitlement to a tax offset is to be determined as if any financial assets held by the Board were held by the Board in its own right.
 
@@ -2242,7 +2242,7 @@ Stake
 
                      (b)  the Board may come under an obligation to:
 
-                              (i)  re‑acquire the borrowed financial asset from the borrower at a later time; or
+                              (i)  re-acquire the borrowed financial asset from the borrower at a later time; or
 
                              (ii)  acquire an identical financial asset from the borrower at a later time;
 
@@ -2258,11 +2258,13 @@ Validity of transactions
 
 ##### <a id="85"></a>85  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed by this Act; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+ 
 
 # Schedule 1—Credits of amounts, and transfers of financial assets, to the Future Fund
 
@@ -2290,7 +2292,7 @@ exceeding the target asset level.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The responsible Ministers
 
-may transfer Commonwealth‑owned financial assets to the Fund.</li>
+may transfer Commonwealth-owned financial assets to the Fund.</li>
 
 * * *
 
@@ -2386,11 +2388,11 @@ the determination ceases to be in force at whichever is the earliest of the foll
 
 ## Part 3—Transfers of financial assets to the Future Fund
 
-##### <a id="6"></a>6  Transfers to the Fund—Commonwealth‑owned financial assets
+##### <a id="6"></a>6  Transfers to the Fund—Commonwealth-owned financial assets
 
 Transfer of financial assets
 
-             (1)  If a target asset level declaration is in force for a financial year, the responsible Ministers may cause one or more Commonwealth‑owned financial assets to be transferred to the Board during the financial year.
+             (1)  If a target asset level declaration is in force for a financial year, the responsible Ministers may cause one or more Commonwealth-owned financial assets to be transferred to the Board during the financial year.
 
              (2)  The responsible Ministers must not cause financial assets to be transferred under subclause (1) during a financial year unless the sum of:
 
@@ -2402,19 +2404,19 @@ Transfer of financial assets
 
                      (b)  the value, as at the start of the balance day for the financial assets, of the financial assets; and
 
-                     (c)  the value, as at the start of the balance day for the first‑mentioned financial assets, of any other financial assets that have been transferred to the Board under subclause (1) since the start of the balance day for the first‑mentioned financial assets; and
+                     (c)  the value, as at the start of the balance day for the first-mentioned financial assets, of any other financial assets that have been transferred to the Board under subclause (1) since the start of the balance day for the first-mentioned financial assets; and
 
                      (d)  any amounts that have been credited to the Fund Account under subclause 2(1) or 3(1) during the period:
 
-                              (i)  beginning at the start of the balance day for the first‑mentioned financial assets; and
+                              (i)  beginning at the start of the balance day for the first-mentioned financial assets; and
 
-                             (ii)  ending immediately before the time when the first‑mentioned financial assets are transferred; and
+                             (ii)  ending immediately before the time when the first-mentioned financial assets are transferred; and
 
-                     (e)  if a determination was in force under subclause 2(1) or 3(1) when the first‑mentioned financial assets are transferred—so much of the amount specified in the determination as had not been credited to the Fund Account before the time when the first‑mentioned financial assets are transferred;
+                     (e)  if a determination was in force under subclause 2(1) or 3(1) when the first-mentioned financial assets are transferred—so much of the amount specified in the determination as had not been credited to the Fund Account before the time when the first-mentioned financial assets are transferred;
 
 does not exceed the target asset level specified in the target asset level declaration that:
 
-                      (f)  is in force when the first‑mentioned financial assets are transferred; and
+                      (f)  is in force when the first-mentioned financial assets are transferred; and
 
                      (g)  relates to the financial year.
 
@@ -2540,7 +2542,7 @@ is the earlier of:</li>
 
                (a)     the time when the balance of the Fund is greater than or equal to the target asset level;
 
-              (b)     1 July 2020.
+               (b)     1 July 2020.
 
 * * *
 
@@ -2588,41 +2590,41 @@ Purposes not related exclusively to the Fund
 
                               (i)  paragraph (1)(g); or
 
-                             (ii)  paragraph 18(1)(j) of the _Nation‑building Funds Act 2008_; or
+                             (ii)  paragraph 18(1)(j) of the _Nation-building Funds Act 2008_; or
 
-                            (iii)  paragraph 136(1)(j) of the _Nation‑building Funds Act 2008_; or
+                            (iii)  paragraph 136(1)(j) of the _Nation-building Funds Act 2008_; or
 
-                            (iv)  paragraph 137(e) of the _Nation‑building Funds Act 2008_; or
+                            (iv)  paragraph 137(e) of the _Nation-building Funds Act 2008_; or
 
-                             (v)  paragraph 218(1)(f) of the _Nation‑building Funds Act 2008_;
+                             (v)  paragraph 218(1)(f) of the _Nation-building Funds Act 2008_;
 
                      (b)  paying a premium in respect of a contract of insurance entered into by the Board, where the premium is not covered by:
 
                               (i)  paragraph (1)(h); or
 
-                             (ii)  paragraph 18(1)(k) of the _Nation‑building Funds Act 2008_; or
+                             (ii)  paragraph 18(1)(k) of the _Nation-building Funds Act 2008_; or
 
-                            (iii)  paragraph 136(1)(k) of the _Nation‑building Funds Act 2008_; or
+                            (iii)  paragraph 136(1)(k) of the _Nation-building Funds Act 2008_; or
 
-                            (iv)  paragraph 137(f) of the _Nation‑building Funds Act 2008_; or
+                            (iv)  paragraph 137(f) of the _Nation-building Funds Act 2008_; or
 
-                             (v)  paragraph 218(1)(g) of the _Nation‑building Funds Act 2008_;
+                             (v)  paragraph 218(1)(g) of the _Nation-building Funds Act 2008_;
 
                      (c)  paying or discharging any other costs, expenses, obligations or liabilities incurred by the Board, where the costs, expenses, obligations or liabilities are not covered by:
 
                               (i)  a paragraph of subclause (1); or
 
-                             (ii)  a paragraph of subsection 18(1) of the _Nation‑building Funds Act 2008_; or
+                             (ii)  a paragraph of subsection 18(1) of the _Nation-building Funds Act 2008_; or
 
-                            (iii)  a paragraph of subsection 136(1) of the _Nation‑building Funds Act 2008_; or
+                            (iii)  a paragraph of subsection 136(1) of the _Nation-building Funds Act 2008_; or
 
-                            (iv)  a paragraph of section 137 of the _Nation‑building Funds Act 2008_; or
+                            (iv)  a paragraph of section 137 of the _Nation-building Funds Act 2008_; or
 
-                             (v)  a paragraph of subsection 218(1) of the _Nation‑building Funds Act 2008_;
+                             (v)  a paragraph of subsection 218(1) of the _Nation-building Funds Act 2008_;
 
                      (d)  paying remuneration and allowances of Board members;
 
-                     (e)  paying remuneration, and other employment‑related costs and expenses, in respect of members of the staff of the Agency;
+                     (e)  paying remuneration, and other employment-related costs and expenses, in respect of members of the staff of the Agency;
 
                       (f)  paying or discharging the costs, expenses and other obligations incurred by the Commonwealth under a contract entered into under section 78 or 82;
 
@@ -2636,7 +2638,9 @@ Note:          See section 21 of the _Financial Management a
 
 Note:          This may require the Board to realise an investment of the Fund in accordance with section 17.
 
-# Schedule 2A—Inter‑fund transfers
+ 
+
+# Schedule 2A—Inter-fund transfers
 
 _Note:       See section 13._
 
@@ -2656,7 +2660,7 @@ Fund or the Health and Hospitals Fund.</li>
 
 ##### <a id="2"></a>2  Transfers from the Future Fund to the Building Australia Fund
 
-             (1)  If an amount is debited from the Building Australia Fund Special Account for a purpose mentioned in section 20 of the _Nation‑building Funds Act 2008_, the nominated Minister may, by writing, direct that a specified amount is to be:
+             (1)  If an amount is debited from the Building Australia Fund Special Account for a purpose mentioned in section 20 of the _Nation-building Funds Act 2008_, the nominated Minister may, by writing, direct that a specified amount is to be:
 
                      (a)  debited from the Fund Account; and
 
@@ -2670,7 +2674,7 @@ on a specified day.
 
 ##### <a id="3"></a>3  Transfers from the Future Fund to the Education Investment Fund
 
-             (1)  If an amount is debited from the Education Investment Fund Special Account for a purpose mentioned in section 138 of the _Nation‑building Funds Act 2008_, the nominated Minister may, by writing, direct that a specified amount is to be:
+             (1)  If an amount is debited from the Education Investment Fund Special Account for a purpose mentioned in section 138 of the _Nation-building Funds Act 2008_, the nominated Minister may, by writing, direct that a specified amount is to be:
 
                      (a)  debited from the Fund Account; and
 
@@ -2684,7 +2688,7 @@ on a specified day.
 
 ##### <a id="4"></a>4  Transfers from the Future Fund to the Health and Hospitals Fund
 
-             (1)  If an amount is debited from the Health and Hospitals Fund Special Account for a purpose mentioned in section 219 of the _Nation‑building Funds Act 2008_, the nominated Minister may, by writing, direct that a specified amount is to be:
+             (1)  If an amount is debited from the Health and Hospitals Fund Special Account for a purpose mentioned in section 219 of the _Nation-building Funds Act 2008_, the nominated Minister may, by writing, direct that a specified amount is to be:
 
                      (a)  debited from the Fund Account; and
 
@@ -2831,10 +2835,10 @@ For all relevant information pertaining to application, saving or transitional p
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="19%">
   <col width="21%">
-  <col width="15%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -2889,8 +2893,7 @@ of Assent</div>
 Schedule 6 (items 1, 6–11): Royal Assent</div>
     </td>
     <td>
-      <div>Sch. 6 (items 1, 
-6–11)</div>
+      <div>Sch. 6 (items 1, 6–11)</div>
     </td>
   </tr>
   <tr>
@@ -2914,7 +2917,7 @@ Remainder: Royal Assent</div>
   </tr>
   <tr>
     <td>
-      <div>Nation‑building Funds (Consequential Amendments) Act 2008</div>
+      <div>Nation-building Funds (Consequential Amendments) Act 2008</div>
     </td>
     <td>
       <div>155, 2008</div>
@@ -2923,10 +2926,10 @@ Remainder: Royal Assent</div>
       <div>18 Dec 2008</div>
     </td>
     <td>
-      <div>Schedule 2 (items 1–44) and Schedule 3 (item 7): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
+      <div>Schedule 2 (items 1–44) and Schedule 3 (item 7): 1 Jan 2009 ( <i>see</i> s. 2(1))</div>
     </td>
     <td>
-      <div>Sch. 3 (item 7)</div>
+      <div>Sch. 3 (item 7)</div>
     </td>
   </tr>
   <tr>
@@ -2940,27 +2943,10 @@ Remainder: Royal Assent</div>
       <div>1 Mar 2010</div>
     </td>
     <td>
-      <div>Schedule 5 (item 137(a)): <i>(a)</i></div>
+      <div>Schedule 5 (item 137(a)): <i>(a)</i></div>
     </td>
     <td>
       <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Acts Interpretation Amendment Act 2011</div>
-    </td>
-    <td>
-      <div>46, 2011</div>
-    </td>
-    <td>
-      <div>27 June 2011</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 643–649) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 10, 11)</div>
     </td>
   </tr>
 </thead></table>
@@ -3612,56 +3598,12 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 643  Section 5 (note at the end of the definition of _person_)
-
-Omit “paragraph 22(1)(a)”, substitute “subsection 2C(1)”.
-
-## 644  Subsection 38(2) (note)
-
-Repeal the note, substitute:
-
-Note:          A Board member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
-
-## 645  Subsection 40(2) (note)
-
-Repeal the note, substitute:
-
-Note:          A Board member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
-
-## 646  At the end of subsections 46(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 647  Subsection 46(4)
-
-Repeal the subsection.
-
-## 648  Subsection 83A(1) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-## 649  Subsection 83B(1) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-As at 27 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
- (No. 101, 2006)_
+ (No. 101, 1997)_
 
 ## Schedule 6
 
@@ -3669,7 +3611,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -3695,17 +3637,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -3751,7 +3693,7 @@ _Higher Education Endowment Fund (Consequential Amendments) Act 2007 (No. 161,
 
                      (b)  was in force immediately before the commencement of this item.
 
-(2)       The amendments of subsections 18(1), (3), (6), (10) and (12) of the _Future Fund Act 2006_ made by this Schedule do not affect the continuity of the direction.
+(2)        The amendments of subsections 18(1), (3), (6), (10) and (12) of the _Future Fund Act 2006_ made by this Schedule do not affect the continuity of the direction.
 
 ## 79  Transitional—borrowings
 
@@ -3761,7 +3703,7 @@ _Higher Education Endowment Fund (Consequential Amendments) Act 2007 (No. 161,
 
                      (b)  was in existence immediately before the commencement of this item.
 
-(2)       The _Future Fund Act 2006_ has effect, after the commencement of this item, as if the borrowing had been authorised under subsection 23(2) or (3), as the case requires, of that Act as amended by this Schedule.
+(2)        The _Future Fund Act 2006_ has effect, after the commencement of this item, as if the borrowing had been authorised under subsection 23(2) or (3), as the case requires, of that Act as amended by this Schedule.
 
 ## 80  Transitional—investment policies
 
@@ -3771,37 +3713,37 @@ _Higher Education Endowment Fund (Consequential Amendments) Act 2007 (No. 161,
 
                      (b)  were in force immediately before the commencement of this item.
 
-(2)       The policies have effect, after the commencement of this item, as if they had been formulated under subsection 24(1) of the _Future Fund Act 2006_ as amended by this Schedule.
+(2)        The policies have effect, after the commencement of this item, as if they had been formulated under subsection 24(1) of the _Future Fund Act 2006_ as amended by this Schedule.
 
 ## 81  Transitional—derivatives
 
-(1)       This item applies to a derivative that:
+(1)        This item applies to a derivative that:
 
                      (a)  was acquired under subsection 25(1) of the _Future Fund Act 2006_; and
 
                      (b)  was held by the Board immediately before the commencement of this item.
 
-(2)       The _Future Fund Act 2006_ has effect, after the commencement of this item, as if the derivative had been acquired under subsection 25(1) of that Act as amended by this Schedule.
+(2)        The _Future Fund Act 2006_ has effect, after the commencement of this item, as if the derivative had been acquired under subsection 25(1) of that Act as amended by this Schedule.
 
 ## 82  Transitional—securities lending arrangements
 
-(1)       This item applies to a securities lending arrangement that:
+(1)        This item applies to a securities lending arrangement that:
 
                      (a)  was entered into under subsection 27(1) of the _Future Fund Act 2006_; and
 
                      (b)  was in force immediately before the commencement of this item.
 
-(2)       The _Future Fund Act 2006_ has effect, after the commencement of this item, as if the securities lending arrangement had been entered into under subsection 27(1) of that Act as amended by this Schedule.
+(2)        The _Future Fund Act 2006_ has effect, after the commencement of this item, as if the securities lending arrangement had been entered into under subsection 27(1) of that Act as amended by this Schedule.
 
 ## 83  Transitional—investment managers
 
-(1)       This item applies to an engagement of an investment manager if the engagement:
+(1)        This item applies to an engagement of an investment manager if the engagement:
 
                      (a)  was made under subsection 28(1) of the _Future Fund Act 2006_; and
 
                      (b)  was in force immediately before the commencement of this item.
 
-(2)       The engagement has effect, after the commencement of this item, as if it had been made under subsection 28(1) of the _Future Fund Act 2006_ as amended by this Schedule.
+(2)        The engagement has effect, after the commencement of this item, as if it had been made under subsection 28(1) of the _Future Fund Act 2006_ as amended by this Schedule.
 
 ## 84  Application of amendments—directions under subsection 18(1) of the _Future Fund Act 2006_
 
@@ -3813,7 +3755,7 @@ The amendment made by item 69 applies in relation to a direction under subclau
 
 * * *
 
-_Nation‑building Funds (Consequential Amendments) Act 2008 
+_Nation-building Funds (Consequential Amendments) Act 2008 
  (No. 155, 2008)_
 
 ## Schedule 3
@@ -3821,21 +3763,5 @@ _Nation‑building Funds (Consequential Amendments) Act 2008
 ## 7  Transitional—definition of _acquire_ in section 5 of the _Future Fund Act 2006_
 
 The amendment made by item 2 of Schedule 2 does not imply that, at a time before the commencement of that item, a reference in the _Future Fund Act 2006_ to acquire did not include a reference to acquire by way of issue.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
