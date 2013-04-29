@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00348/Html/d0e011d0-cb90-4120-83c5-684285173d01_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00854/Html/a24dd95b-d4b6-44f5-be76-33a117e83ce7_files/image001.gif)
 
 # Special Broadcasting Service Act 1991
 
 **Act No. 180 of 1991 as amended**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 21 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -434,7 +434,7 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
                    There is to be a Managing Director of the SBS, who is to be appointed and hold office as provided by Division 2 of Part 3.
 
-##### <a id="15"></a>15  Duties of the Managing Director
+##### <a id="15"></a>15  Duties of the Managing Director
 
              (1)  Subject to subsection (2), the affairs of the SBS are to be managed by the Managing Director.
 
@@ -512,15 +512,11 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
 the Deputy Chairperson must act as Chairperson.
 
-Note:          For rules that apply to persons acting as the Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a non‑executive Director to act as Deputy Chairperson:
 
                      (a)  during a vacancy in the office of Deputy Chairperson, whether or not an appointment has previously been made to that office; or
 
                      (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from Australia, is acting as Chairperson or is, for any other reason, unable to perform the duties of his or her office.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  The Minister may appoint a person to act as a non‑executive Director other than the Chairperson or the Deputy Chairperson:
 
@@ -528,11 +524,19 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  during any period, or during all periods, when such a non‑executive Director is acting as Chairperson or as Deputy Chairperson, is absent from duty or from Australia or is, for any other reason, unable to perform the duties of his or her office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (4)  The Minister may determine the terms and conditions, other than terms and conditions relating to remuneration and allowances, applying to a person acting as Chairperson, as Deputy Chairperson or as another non‑executive Director.
 
              (5)  A person acting as Chairperson, as Deputy Chairperson or as another non‑executive Director is to be paid the same remuneration and allowances as are payable to the Chairperson, the Deputy Chairperson or other non‑executive Directors, as the case requires.
+
+             (6)  Anything done by a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="25"></a>25  Leave of absence of non‑executive Directors
 
@@ -616,9 +620,9 @@ the Governor‑General must terminate the appointment of the non‑executive Dir
 
                      (a)  during a vacancy in the office of Managing Director; or
 
-                     (b)  during any period, or during all periods, when the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
 
              (2)  The Board may determine the terms and conditions of appointment, excluding remuneration and allowances, of a person acting as Managing Director.
 
@@ -627,6 +631,16 @@ Note:          For rules that apply to acting appointments, se
                      (a)  remuneration at the same level as would be payable to the Managing Director under subsection 32(1); and
 
                      (b)  such allowances as are determined by the Board.
+
+             (4)  Anything done by a person purporting to act under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="34"></a>34  Leave of absence of Managing Director
 
@@ -1170,7 +1184,7 @@ the Minister may direct the ACMA to conduct an investigation into the matter.
 
              (6)  The obligation imposed by this section on the SBS to retain a record does not apply at any time when the record is in the custody of a court in connection with proceedings instituted in the court.
 
-##### <a id="70C"></a>70C  Broadcasting of election advertisements
+##### <a id="70C"></a>70C  Broadcasting of election advertisements
 
              (1)  If:
 
@@ -1776,7 +1790,7 @@ Schedule 2: <i>(h)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1060–1066) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1060–1066) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -2104,22 +2118,6 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
 </tr>
 <tr>
   <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 24(1)–(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 27</div>
   </td>
   <td>
@@ -2132,22 +2130,6 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 33(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2447,6 +2429,50 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1060  At the end of subsection 24(1)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1061  At the end of subsections 24(2) and (3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1062  Subsection 24(6)
+
+Repeal the subsection.
+
+## 1063  Paragraph 33(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 1064  Subsection 33(1)
+
+Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
+
+## 1065  At the end of subsection 33(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1066  Subsection 33(4)
+
+Repeal the subsection.
+
+As at 21 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2551,6 +2577,8 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
