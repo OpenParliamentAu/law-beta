@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00241/Html/56adc452-db90-4129-9f8e-85b8b307885d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00119/Html/CrimesIPP1976_image001.gif)
 
 # Crimes (Internationally Protected Persons) Act 1976
 
 **Act No. 8 of 1977 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 24 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -46,7 +46,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Evidence of matters relating to Convention
 
-[14](#14).          Certificates by Foreign Affairs Minister
+[14](#14).          Certificates by Minister for Foreign Affairs
 
 [15](#15).          Jurisdiction of courts
 
@@ -96,13 +96,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="convent"></a>**_Convention_** means the Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents, that was opened for signature at New York on 14 December 1973, a copy of the English text of which is set out in the Schedule.
 
-                    <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
-
              (3)  Except so far as the contrary intention appears, an expression that is used in this Act and in the Convention has, in this Act, the same meaning as in the Convention, whether or not a particular meaning is expressly assigned to it by the Convention and whether or not the Convention has entered into force in pursuance of paragraph 1 of article 17 of the Convention.
 
 ##### <a id="3A"></a>3A  Extended meaning of _internationally protected person_
 
-             (1)  For the purposes of this Act, the definition of **_internationally protected person_** in paragraph 1 of article 1 of the Convention has effect as if the reference in that definition to a Head of State included, in relation to Australia, the Governor‑General.
+             (1)  For the purposes of this Act, the definition of **_internationally protected person_** in paragraph 1 of article 1 of the Convention has effect as if the reference in that definition to a Head of State included, in relation to Australia, the Governor-General.
 
              (2)  For the purposes of this Act, the definition of **_internationally protected person_** in paragraph 1 of article 1 of the Convention has effect as if that definition included, in prescribed circumstances, the following persons:
 
@@ -120,7 +118,7 @@ Note 1:       A person may be prescribed by name, by reference to th
 
 Note 2:       A thing may be prescribed by name or by reference to membership of a specified class.
 
-             (3)  The Governor‑General may make regulations for the purposes of this section.
+             (3)  The Governor-General may make regulations for the purposes of this section.
 
              (4)  In this section:
 
@@ -222,7 +220,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
              (5)  For the purposes of this Act, an offence created by section 11.1, 11.2 or 11.2A of the _Criminal Code_ shall, to the extent that it relates to an offence against subsection (1), (2), (3), (3A), (3B), (3C) or (4), be deemed to be an offence against this Act.
 
-             (6)  Where, on the trial of a person for an offence against subsection (1), or for an offence against section 11.1 of the _Criminal Code_ that is related to such an offence, the evidence does not establish the commission by the person of such an offence but establishes the commission by the person of an offence against subsection (2), the person may be found guilty of the last‑mentioned offence.
+             (6)  Where, on the trial of a person for an offence against subsection (1), or for an offence against section 11.1 of the _Criminal Code_ that is related to such an offence, the evidence does not establish the commission by the person of such an offence but establishes the commission by the person of an offence against subsection (2), the person may be found guilty of the last-mentioned offence.
 
              (7)  For the purposes of this section:
 
@@ -238,7 +236,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                              (ii)  in the knowledge or belief that the actions were likely to result in the destruction of, or damage to, those premises or that property; and
 
-                     (e)  a person who destroys or damages any official premises, private accommodation or means of transport or any other premises or property shall be taken to have intended to endanger the life of another person by that destruction or damage if the first‑mentioned person acted:
+                     (e)  a person who destroys or damages any official premises, private accommodation or means of transport or any other premises or property shall be taken to have intended to endanger the life of another person by that destruction or damage if the first-mentioned person acted:
 
                               (i)  with intent to endanger the life of that other person; or
 
@@ -304,7 +302,7 @@ apply, so far as they are capable of application, in relation to persons who are
 
              (2)  Where the law of a State or Territory makes provision for a person who pleads guilty to a charge in proceedings for the person’s commitment for trial on indictment to be committed to a higher court and dealt with otherwise than on indictment, a person charged in that State or Territory with an offence against this Act may be dealt with in accordance with that law.
 
-             (3)  Proceedings for the commitment of a person for trial on indictment for an offence against this Act shall not be instituted except with the consent in writing of the Attorney‑General or a person authorized by the Attorney‑General, by instrument in writing, to give such consents.
+             (3)  Proceedings for the commitment of a person for trial on indictment for an offence against this Act shall not be instituted except with the consent in writing of the Attorney-General or a person authorized by the Attorney-General, by instrument in writing, to give such consents.
 
              (4)  Notwithstanding that a consent has not been given in relation to the offence in accordance with subsection (3):
 
@@ -320,7 +318,7 @@ but no further step in proceedings referred to in subsection (3) shall be take
 
 ##### <a id="13"></a>13  Evidence of matters relating to Convention
 
-             (1)  The Foreign Affairs Minister may give a written certificate stating:
+             (1)  The Minister for Foreign Affairs may give a written certificate stating:
 
                      (a)  that the Convention entered into force for a particular country on a particular day; or
 
@@ -332,15 +330,15 @@ but no further step in proceedings referred to in subsection (3) shall be take
 
              (3)  A certificate given under subsection (1) is admissible in any proceedings as _prima facie_ evidence of the matters stated in the certificate.
 
-##### <a id="14"></a>14  Certificates by Foreign Affairs Minister
+##### <a id="14"></a>14  Certificates by Minister for Foreign Affairs
 
-             (1)  The Foreign Affairs Minister may give a written certificate stating any matter relevant to the question whether a person is, or was at any time or in respect of any period, an internationally protected person.
+             (1)  The Minister for Foreign Affairs may give a written certificate stating any matter relevant to the question whether a person is, or was at any time or in respect of any period, an internationally protected person.
 
              (2)  A certificate given under subsection (1) is admissible in any proceedings as _prima facie_ evidence of the matters stated in the certificate.
 
 ##### <a id="15"></a>15  Jurisdiction of courts
 
-             (1)  A provision of the _Judiciary Act 1903‑1973_ by which a court of a State is invested with jurisdiction with respect to offences against the laws of the Commonwealth has effect, in relation to offences against this Act, as if that jurisdiction were so invested without limitation as to locality other than the limitation imposed by section 80 of the Constitution.
+             (1)  A provision of the _Judiciary Act 1903-1973_ by which a court of a State is invested with jurisdiction with respect to offences against the laws of the Commonwealth has effect, in relation to offences against this Act, as if that jurisdiction were so invested without limitation as to locality other than the limitation imposed by section 80 of the Constitution.
 
              (2)  Subject to section 80 of the Constitution, where a person has committed an offence against this Act outside a Territory and is found in, or brought into, the Territory, a court of the Territory has the same jurisdiction in respect of the offence as it would have if the offence had been committed in the Territory.
 
@@ -348,7 +346,7 @@ but no further step in proceedings referred to in subsection (3) shall be take
 
 ##### <a id="16"></a>16  Section 38 of Judiciary Act
 
-                   A matter arising under this Act, including a question of interpretation of the Convention for the purposes of this Act, shall, for the purposes of section 38 of the _Judiciary Act 1903‑1973_, be deemed not to be a matter arising directly under a treaty.
+                   A matter arising under this Act, including a question of interpretation of the Convention for the purposes of this Act, shall, for the purposes of section 38 of the _Judiciary Act 1903-1973_, be deemed not to be a matter arising directly under a treaty.
 
 # Schedule—Convention on the prevention and punishment of crimes against internationally protected persons, including diplomatic agents
 
@@ -356,9 +354,9 @@ _Section 3_
 
 _The States Parties to this Convention_,
 
-_Having in mind_ the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and the promotion of friendly relations and co‑operation among States,
+_Having in mind_ the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and the promotion of friendly relations and co-operation among States,
 
-_Considering_ that crimes against diplomatic agents and other internationally protected persons jeopardising the safety of these persons create a serious threat to the maintenance of normal international relations which are necessary for co‑operation among States,
+_Considering_ that crimes against diplomatic agents and other internationally protected persons jeopardising the safety of these persons create a serious threat to the maintenance of normal international relations which are necessary for co-operation among States,
 
 _Believing_ that the commission of such crimes is a matter of grave _concern_ to the international community,
 
@@ -414,21 +412,21 @@ _Article 3_
 
 _Article 4_
 
-States Parties shall co‑operate in the prevention of the crimes set forth in article 2, particularly by:
+States Parties shall co-operate in the prevention of the crimes set forth in article 2, particularly by:
 
      (a)   taking all practicable measures to prevent preparations in their respective territories for the commission of those crimes within or outside their territories;
 
-     (b)   exchanging information and co‑ordinating the taking of administrative and other measures as appropriate to prevent the commission of those crimes.
+     (b)   exchanging information and co-ordinating the taking of administrative and other measures as appropriate to prevent the commission of those crimes.
 
 _Article 5_
 
-1.  The State Party in which any of the crimes set forth in article 2 has been committed shall, if it has reason to believe that an alleged offender has fled from its territory, communicate to all other States concerned, directly or through the Secretary‑General of the United Nations, all the pertinent facts regarding the crime committed and all available information regarding the identity of the alleged offender.
+1.  The State Party in which any of the crimes set forth in article 2 has been committed shall, if it has reason to believe that an alleged offender has fled from its territory, communicate to all other States concerned, directly or through the Secretary-General of the United Nations, all the pertinent facts regarding the crime committed and all available information regarding the identity of the alleged offender.
 
 2.  Whenever any of the crimes set forth in article 2 has been committed against an internationally protected person, any State Party which has information concerning the victim and the circumstances of the crime shall endeavour to transmit it, under the conditions provided for in its internal law, fully and promptly to the State Party on whose behalf he was exercising his functions.
 
 _Article 6_
 
-1.  Upon being satisfied that the circumstances so warrant, the State Party in whose territory the alleged offender is present shall take the appropriate measures under its internal law so as to ensure his presence for the purpose of prosecution or extradition. Such measures shall be notified without delay directly or through the Secretary‑General of the United Nations to:
+1.  Upon being satisfied that the circumstances so warrant, the State Party in whose territory the alleged offender is present shall take the appropriate measures under its internal law so as to ensure his presence for the purpose of prosecution or extradition. Such measures shall be notified without delay directly or through the Secretary-General of the United Nations to:
 
      (a)   the State where the crime was committed;
 
@@ -472,7 +470,7 @@ _Article 10_
 
 _Article 11_
 
-The State Party where an alleged offender is prosecuted shall communicate the final outcome of the proceedings to the Secretary‑General of the United Nations, who shall transmit the information to the other States Parties.
+The State Party where an alleged offender is prosecuted shall communicate the final outcome of the proceedings to the Secretary-General of the United Nations, who shall transmit the information to the other States Parties.
 
 _Article 12_
 
@@ -484,7 +482,7 @@ _Article 13_
 
 2.  Each State Party may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by paragraph 1 of this article with respect to any State Party which has made such a reservation.
 
-3.  Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary‑General of the United Nations.
+3.  Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
 
 _Article 14_
 
@@ -492,27 +490,27 @@ This Convention shall be open for signature by all States, until 31 December 1
 
 _Article 15_
 
-This Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary‑General of the United Nations.
+This Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
 _Article 16_
 
-This Convention shall remain open for accession by any State. The instruments of accession shall be deposited with the Secretary‑General of the United Nations.
+This Convention shall remain open for accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
 _Article 17_
 
-1.  This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty‑second instrument of ratification or accession with the Secretary‑General of the United Nations.
+1.  This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations.
 
-2.  For each State ratifying or acceding to the Convention after the deposit of the twenty‑second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
+2.  For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
 
 _Article 18_
 
-1.  Any State Party may denounce this Convention by written notification to the Secretary‑General of the United Nations.
+1.  Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
 
-2.  Denunciation shall take effect six months following the date on which notification is received by the Secretary‑General of the United Nations.
+2.  Denunciation shall take effect six months following the date on which notification is received by the Secretary-General of the United Nations.
 
 _Article 19_
 
-The Secretary‑General of the United Nations shall inform all States, _inter alia_:
+The Secretary-General of the United Nations shall inform all States, _inter alia_:
 
      (a)   of signatures to this Convention, of the deposit of instruments of ratification or accession in accordance with articles 14, 15 and 16 and of notifications made under article 18.
 
@@ -520,7 +518,7 @@ The Secretary‑General of the United Nations shall inform all States, _inter al
 
 _Article 20_
 
-The original of this Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations, who shall send certified copies thereof to all States.
+The original of this Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 14 December 1973.
 
@@ -765,23 +763,6 @@ Remainder: 14 Feb 1990</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (items 69, 70): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -797,7 +778,7 @@ _(a)_     The _Crimes (Internationally Protected Persons) Act 1976_ was 
 
                               (a)   in the case of sections 30, 31, 35, 37, 39, 43 and 50 and Parts 1 and 2 of the Schedule—the day is not earlier than the substantial minority sale day; and
 
-_(b)_     The _Crimes (Internationally Protected Persons) Act 1976_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
+_(b)_    The _Crimes (Internationally Protected Persons) Act 1976_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
 
                  (4)   The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_(other than the amendment made to Schedule 5 to that Act), the _Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections 23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.
 
@@ -837,7 +818,7 @@ _(c)_     The _Crimes (Internationally Protected Persons) Act 1976_ was 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 120, 1987; No. 63, 1988; No. 196, 1992; No. 58, 1995; No. 5, 2011</div>
+    <div>am. No. 120, 1987; No. 63, 1988; No. 196, 1992; No. 58, 1995</div>
   </td>
 </tr>
 <tr>
@@ -898,42 +879,10 @@ _(c)_     The _Crimes (Internationally Protected Persons) Act 1976_ was 
 </tr>
 <tr>
   <td>
-    <div>S. 13</div>
+    <div>Ss. 13, 14</div>
   </td>
   <td>
     <div>rs. No. 182, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 14</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rs. No. 182, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
