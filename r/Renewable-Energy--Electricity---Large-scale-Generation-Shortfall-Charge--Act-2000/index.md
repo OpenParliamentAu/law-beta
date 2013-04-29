@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00447/Html/RenewEnergElectChargAct2000_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00431/Html/RenewEnergElectChargAct2000_image001.gif)
 
 # Renewable Energy (Electricity) (Charge) Act 2000
 
 **Act No. 129 of 2000 as amended**
 
-This compilation was prepared on 5 July 2010
- taking into account amendments up to Act No. 70 of 2010
+This compilation was prepared on 10 September 2009 
+ taking into account amendments up to Act No. 79 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -158,23 +158,6 @@ of Assent</div>
   <td>
     <div>Sch. 1 (item 2)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Renewable Energy (Electricity) (Charge) Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>70, 2010</div>
-  </td>
-  <td>
-    <div>28 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>s. 2(1) <i>,</i>Note 2 and Table A]Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 4)</div>
-  </td>
 </tr></table>
 
 _(a)_ Section 2 of the _Renewable Energy (Electricity) (Charge) Amendment Act 2000_ provides as follows:
@@ -221,34 +204,6 @@ _(a)_ Section 2 of the _Renewable Energy (Electricity) (Charge) Amendment Act 
   </td>
 </tr></table>
 
-### Note 2
-
-_Renewable Energy (Electricity) (Charge) Amendment Act 2010 (No. 70, 2010)_
-
-The following amendments commence on 1 January 2011:
-
-## Schedule 1
-
-## 1  Title
-
-Omit “**renewable energy certificate charge**”, substitute “**large-scale generation shortfall charge**”.
-
-## 2  Section 1
-
-Omit “_Charge_”, substitute “_Large-scale Generation Shortfall Charge_”.
-
-_Note:       This item amends the short title of the Act. If another amendment of the Act is described by reference to the Act’s previous short title, that other amendment has effect after the commencement of this item as an amendment of the Act under its amended short title (see section 10 of the Acts Interpretation Act 1901)._
-
-## 3  Section 5
-
-Repeal the section, substitute:
-
-##### <a id="5"></a>5  Imposition
-
-                   The large-scale generation shortfall charge that is payable under the _Renewable Energy (Electricity) Act 2000_ is imposed by this section.
-
-As at 5 July 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -268,17 +223,5 @@ _Renewable Energy (Electricity) (Charge) Amendment Act 2009 (No. 79, 2009)_
 (2)        In this item:
 
 **_renewable energy certificate shortfall_** has the same meaning as in the _Renewable Energy (Electricity) Act 2000_.
-
-* * *
-
-_Renewable Energy (Electricity) (Charge) Amendment Act 2010 (No. 70, 2010)_
-
-The following provision commences on 1 January 2011:
-
-## Schedule 1
-
-## 4  Application of amendments
-
-The amendments made by this Act apply in relation to liability to large-scale generation shortfall charge under the _Renewable Energy (Electricity) Act 2000_ for the year starting on the commencement of this Schedule and later years.
 
  
