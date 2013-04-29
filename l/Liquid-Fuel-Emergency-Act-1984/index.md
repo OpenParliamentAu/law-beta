@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00016/Html/LiquidFuelEmergAct84_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00593/Html/LiquidFuelEmergAct84_image001.gif)
 
 # Liquid Fuel Emergency Act 1984
 
 **Act No. 5 of 1984 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 16 August 2010 
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
@@ -122,7 +122,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [42](#42).          Consultation between Ministers concerning emergency procedures
 
-[43](#43).          Operation of the _Competition and Consumer Act 2010_
+[43](#43).          Operation of the _Trade Practices Act 1974_
 
 [44](#44).          Reconsideration and review of decisions
 
@@ -1682,11 +1682,11 @@ the court may order the forfeiture to the Commonwealth of any article used or ot
 
              (3)  A certificate purporting to be issued under subsection (2) is _prima facie_ evidence of the facts stated in it.
 
-##### <a id="43"></a>43  Operation of the _Competition and Consumer Act 2010_
+##### <a id="43"></a>43  Operation of the _Trade Practices Act 1974_
 
-                   Anything that is done in compliance with a direction under this Act is authorised for the purposes of subparagraph 51(1)(a)(i) of the _Competition and Consumer Act 2010_.
+                   Anything that is done in compliance with a direction under this Act is authorised for the purposes of subparagraph 51(1)(a)(i) of the _Trade Practices Act 1974_.
 
-Note:          That subparagraph has the effect that anything so done is disregarded in deciding whether a person has contravened Part IV (Restrictive trade practices) of the _Competition and Consumer Act 2010_.
+Note:          That subparagraph has the effect that anything so done is disregarded in deciding whether a person has contravened Part IV (Restrictive trade practices) of the _Trade Practices Act 1974_.
 
 ##### <a id="44"></a>44  Reconsideration and review of decisions
 
@@ -2002,7 +2002,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 6 (items 1, 74): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 74): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2370,14 +2370,6 @@ _(b)_    The _Liquid Fuel Emergency Act 1984_ was amended by the _Evidence
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 43</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 43</div>
   </td>
   <td>
@@ -2390,22 +2382,6 @@ _(b)_    The _Liquid Fuel Emergency Act 1984_ was amended by the _Evidence
   </td>
   <td>
     <div>rs. No. 86, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 43</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2504,6 +2480,26 @@ _(b)_    The _Liquid Fuel Emergency Act 1984_ was amended by the _Evidence
     <div>rep. No. 9, 1987</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 (No. 103, 2010)_
+
+The following amendment commences on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Liquid Fuel Emergency Act 1984</h9>
+
+## 74  Section 43 (including the note) (wherever occurring)
+
+_Note:       The heading to section 43 is altered by omitting “Trade Practices Act 1974” and substituting “Competition and Consumer Act 2010”._
+
+As at 16 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
