@@ -1,26 +1,28 @@
-![](http://www.comlaw.gov.au/Details/C2010C00161/Html/SpamAct03WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00382/Html/1E47A1A6F3B48F3DCA257026001390AA/$FILE/image001.gif)
 
 # Spam Act 2003
 
 **Act No. 129 of 2003 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 1 July 2005
+taking into account amendments up to Act No. 45 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
 **Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title
 
 [2](#2).            Commencement
 
@@ -126,7 +128,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [47](#47).          Regulations
 
-**Schedule 1—Designated commercial electronic messages**
+Schedule 1—Designated commercial electronic messages
 
 [1](#1).            Object
 
@@ -138,7 +140,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Regulations
 
-**Schedule 2—Consent**
+Schedule 2—Consent
 
 [1](#1).            Object
 
@@ -152,7 +154,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            When withdrawal of consent takes effect
 
-**Schedule 3—Infringement notices**
+Schedule 3—Infringement notices
 
 [1](#1).            Object
 
@@ -176,11 +178,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
+
 ## An Act about spam, and for related purposes
 
 ## Part 1—Introduction
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title
 
                    This Act may be cited as the _Spam Act 2003_.
 
@@ -238,122 +243,124 @@ Prepared by the Office of Legislative Drafting and Publishing,
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
-      this table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>12 December 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Sections 3 to 14</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>12 December 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3\. Parts 2 to 6</div>
-  </td>
-  <td>
-    <div>On the day after the end of the period of 120 days beginning on the day
-      on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 April 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4\. Section 41</div>
-  </td>
-  <td>
-    <div>On the day after the end of the period of 120 days beginning on the day
-      on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 April 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5\. Section 42</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>12 December 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6\. Sections 43 to 46</div>
-  </td>
-  <td>
-    <div>On the day after the end of the period of 120 days beginning on the day
-      on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 April 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7\. Section 47</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>12 December 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8\. Schedule 1</div>
-  </td>
-  <td>
-    <div>On the day after the end of the period of 120 days beginning on the day
-      on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 April 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9\. Schedule 2</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>12 December 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10\. Schedule 3</div>
-  </td>
-  <td>
-    <div>On the day after the end of the period of 120 days beginning on the day
-      on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 April 2004</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
+        this table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>12 December 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Sections 3 to 14</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>12 December 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3\. Parts 2 to 6</div>
+    </td>
+    <td>
+      <div>On the day after the end of the period of 120 days beginning on the day
+        on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 April 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4\. Section 41</div>
+    </td>
+    <td>
+      <div>On the day after the end of the period of 120 days beginning on the day
+        on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 April 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5\. Section 42</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>12 December 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6\. Sections 43 to 46</div>
+    </td>
+    <td>
+      <div>On the day after the end of the period of 120 days beginning on the day
+        on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 April 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7\. Section 47</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>12 December 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8\. Schedule 1</div>
+    </td>
+    <td>
+      <div>On the day after the end of the period of 120 days beginning on the day
+        on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 April 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9\. Schedule 2</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>12 December 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10\. Schedule 3</div>
+    </td>
+    <td>
+      <div>On the day after the end of the period of 120 days beginning on the day
+        on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 April 2004</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -363,43 +370,21 @@ Note:          This table relates only to the provisions of th
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      This Act sets up a scheme
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      This Act sets up a scheme for regulating commercial e-mail and other types of commercial electronic messages.</li>
 
-for regulating commercial e-mail and other types of commercial electronic
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Unsolicited commercial electronic messages must not be sent.</li>
 
-messages.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Commercial electronic messages must include information about the individual or organisation who authorised the sending of the message.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Unsolicited commercial
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Commercial electronic messages must contain a functional unsubscribe facility.</li>
 
-electronic messages must not be sent.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Address-harvesting software must not be supplied, acquired or used.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Commercial electronic
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      An electronic address list produced using address-harvesting software must not be supplied, acquired or used.</li>
 
-messages must include information about the individual or organisation who
-
-authorised the sending of the message.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Commercial electronic
-
-messages must contain a functional unsubscribe facility.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Address-harvesting
-
-software must not be supplied, acquired or used.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      An electronic address list
-
-produced using address-harvesting software must not be supplied, acquired
-
-or used.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The main remedies for
-
-breaches of this Act are civil penalties and injunctions.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The main remedies for breaches of this Act are civil penalties and injunctions.</li></div>
 
 Note:          The _Telecommunications Act 1997_ contains additional provisions about commercial electronic messages. Those provisions include Part 6 (industry codes and standards), Part 26 (investigations), Part 27 (information-gathering powers) and Part 28 (enforcement).
 
@@ -421,7 +406,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                     <a name=""></a><a name="address-harvest-softwar"></a>**_address-harvesting software_** means  software that is specifically designed or marketed for use for:
 
-                     (a)  searching the internet for electronic addresses; and
+                     (a)  searching the Internet for electronic addresses; and
 
                      (b)  collecting, compiling, capturing or otherwise harvesting those electronic addresses.
 
@@ -525,7 +510,7 @@ where the production of the list, collection or compilation is, to any extent, d
 
                      (b)  an agreement between Australia and a foreign country.
 
-                    <a name="internet-carriag-servic"></a>**_internet carriage service_**means a listed carriage service that enables end-users to access the internet.
+                    <a name="internet-carriag-servic"></a>**_Internet carriage service_**means a listed carriage service that enables end-users to access the Internet.
 
                     <a name="invest"></a>**_investment_** means any mode of application of money or other property for the purpose of gaining a return (whether by way of income, capital gain or any other form of return).
 
@@ -573,7 +558,7 @@ Note:          For treatment of partnerships, see section 58
 
                     <a name="publish"></a>**_publish_** includes:
 
-                     (a)  publish on the internet; and
+                     (a)  publish on the Internet; and
 
                      (b)  publish to the public or a section of the public.
 
@@ -631,7 +616,7 @@ Basic definition
 
                      (a)  using:
 
-                              (i)  an internet carriage service; or
+                              (i)  an Internet carriage service; or
 
                              (ii)  any other listed carriage service; and
 
@@ -815,23 +800,13 @@ the first-mentioned individual or organisation is taken to authorise the sending
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Unsolicited commercial
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Unsolicited commercial electronic messages must not be sent.</li>
 
-electronic messages must not be sent.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Commercial electronic messages must include information about the individual or organisation who authorised the sending of the message.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Commercial electronic
-
-messages must include information about the individual or organisation who
-
-authorised the sending of the message.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Commercial electronic
-
-messages must contain a functional unsubscribe facility.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Commercial electronic messages must contain a functional unsubscribe facility.</li></div>
 
 ##### <a id="16"></a>16  Unsolicited commercial electronic messages must not be sent
 
@@ -1037,19 +1012,11 @@ Unsubscribe message
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Address-harvesting
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Address-harvesting software must not be supplied, acquired or used.</li>
 
-software must not be supplied, acquired or used.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      An electronic address list
-
-produced using address-harvesting software must not be supplied, acquired
-
-or used.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      An electronic address list produced using address-harvesting software must not be supplied, acquired or used.</li></div>
 
 ##### <a id="20"></a>20  Address-harvesting software and harvested-address lists must not be supplied
 
@@ -1195,25 +1162,17 @@ Note:          Part 4 provides for pecuniary penalties for b
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Pecuniary penalties are
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Pecuniary penalties are payable for contraventions of civil penalty provisions.</li>
 
-payable for contraventions of civil penalty provisions.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Proceedings for the recovery of penalties are to be instituted in the Federal Court.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Proceedings for the
-
-recovery of penalties are to be instituted in the Federal Court.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The Federal Court may make
-
-ancillary orders:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Federal Court may make ancillary orders:</li>
 
                (a)     directing the payment of compensation to a victim of a contravention of a civil penalty provision; and
 
-               (b)     directing the payment to the Commonwealth of an amount up to the amount of any financial benefit that is attributable to a contravention of a civil penalty provision.
-
-* * *
+               (b)     directing the payment to the Commonwealth of an amount up to the amount of any financial benefit that is attributable to a contravention of a civil penalty provision.</div>
 
 Note:          Schedule 3 sets up a system of infringement notices relating to contraventions of civil penalty provisions.
 
@@ -1379,13 +1338,9 @@ the Court may, on the application of the ACMA, make an order directing the perso
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Federal Court may grant
-
-injunctions in relation to contraventions of civil penalty provisions.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Federal Court may grant injunctions in relation to contraventions of civil penalty provisions.</li></div>
 
 ##### <a id="32"></a>32  Injunctions
 
@@ -1449,17 +1404,13 @@ Performance injunctions
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person may give the ACMA
-
-an enforceable undertaking in connection with a matter relating to:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A person may give the ACMA an enforceable undertaking in connection with a matter relating to:</li>
 
                (a)     commercial electronic messages; or
 
-               (b)     address-harvesting software.
-
-* * *
+               (b)     address-harvesting software.</div>
 
 ##### <a id="38"></a>38  Acceptance of undertakings
 
@@ -1582,6 +1533,7 @@ an enforceable undertaking in connection with a matter relating to:</li>
                      (a)  required or permitted to be prescribed by this Act; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 
 # Schedule 1—Designated commercial electronic messages
 
@@ -1894,78 +1846,80 @@ Infringement notice given to a body corporate
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>the notice relates to a single alleged contravention of subsection 16(1),
-      (6) or (9)</div>
-  </td>
-  <td>
-    <div>20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
-      of subsection 16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>the number obtained by multiplying 20 by the number of alleged contraventions</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>the notice relates to 50 or more alleged contraventions of subsection
-      16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>1,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>the notice relates to a single alleged contravention of a civil penalty
-      provision other than subsection 16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
-      of a civil penalty provision other than subsection 16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>the number obtained by multiplying 10 by the number of alleged contraventions</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>the notice relates to 50 or more alleged contraventions of a civil penalty
-      provision other than subsection 16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>500</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>the notice relates to a single alleged contravention of subsection 16(1),
+        (6) or (9)</div>
+    </td>
+    <td>
+      <div>20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
+        of subsection 16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>the number obtained by multiplying 20 by the number of alleged contraventions</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>the notice relates to 50 or more alleged contraventions of subsection
+        16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>1,000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>the notice relates to a single alleged contravention of a civil penalty
+        provision other than subsection 16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
+        of a civil penalty provision other than subsection 16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>the number obtained by multiplying 10 by the number of alleged contraventions</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>the notice relates to 50 or more alleged contraventions of a civil penalty
+        provision other than subsection 16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>500</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Infringement notice given to a person other than a body corporate
 
@@ -2004,78 +1958,80 @@ Infringement notice given to a person other than a body corporate
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>the notice relates to a single alleged contravention of subsection 16(1),
-      (6) or (9)</div>
-  </td>
-  <td>
-    <div>4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
-      of subsection 16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>the number obtained by multiplying 4 by the number of alleged contraventions</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>the notice relates to 50 or more alleged contraventions of subsection
-      16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>200</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>the notice relates to a single alleged contravention of a civil penalty
-      provision other than subsection 16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
-      of a civil penalty provision other than subsection 16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>the number obtained by multiplying 2 by the number of alleged contraventions</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>the notice relates to 50 or more alleged contraventions of a civil penalty
-      provision other than subsection 16(1), (6) or (9)</div>
-  </td>
-  <td>
-    <div>100</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>the notice relates to a single alleged contravention of subsection 16(1),
+        (6) or (9)</div>
+    </td>
+    <td>
+      <div>4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
+        of subsection 16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>the number obtained by multiplying 4 by the number of alleged contraventions</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>the notice relates to 50 or more alleged contraventions of subsection
+        16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>200</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>the notice relates to a single alleged contravention of a civil penalty
+        provision other than subsection 16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>the notice relates to more than 1, but fewer than 50, alleged contraventions
+        of a civil penalty provision other than subsection 16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>the number obtained by multiplying 2 by the number of alleged contraventions</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>the notice relates to 50 or more alleged contraventions of a civil penalty
+        provision other than subsection 16(1), (6) or (9)</div>
+    </td>
+    <td>
+      <div>100</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="6"></a>6  Withdrawal of an infringement notice
 
@@ -2133,6 +2089,7 @@ the Commonwealth is liable to refund the penalty.
 
                    The regulations may make further provision in relation to infringement notices.
 
+
 # Notes to the _Spam Act 2003_
 
 ### Note 1
@@ -2159,11 +2116,13 @@ For application, saving or transitional provisions made by the _Australian Commu
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -2173,59 +2132,45 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Spam Act 2003</div>
-  </td>
-  <td>
-    <div>129, 2003</div>
-  </td>
-  <td>
-    <div>12 Dec 2003</div>
-  </td>
-  <td>
-    <div>Ss. 15–41, 
-43–46, Schedules 1 and 3: 10 Apr 2004Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
-  </td>
-  <td>
-    <div>45, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 121–123) and Schedule 4: 1 July 2005 <i>(a)</i> 
-Schedule 2: <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Sch. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 137(a), (c)): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Spam Act 2003</div>
+    </td>
+    <td>
+      <div>129, 2003</div>
+    </td>
+    <td>
+      <div>12 Dec 2003</div>
+    </td>
+    <td>
+      <div>Ss. 15–41, 43–46, Schedules 1 and 3: 10 Apr 2004Remainder: Royal Assent</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
+    </td>
+    <td>
+      <div>45, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 121–123) and Schedule 4: 1 July 2005 <i>(a)</i> 
+Schedule 2: <i>(a)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 4</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
 
@@ -2295,131 +2240,63 @@ _(a)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as section 6 of the
-        <i>Australian Communications and Media Authority Act 2005</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 2.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      10\. Schedule 4
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as section 6 of the
-        <i>Australian Communications and Media Authority Act 2005</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr></table>
-
-_(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
+<tbody>
   <tr>
     <td>
       <div>
-        <b>
-          Provision(s)
-        </b>
+        2\. Schedule 1
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Commencement
-        </b>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Date/Details
-        </b>
+        1 July 2005
       </div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 2
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of the provision(s) covered by table
+          item 2.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2005
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        10\. Schedule 4
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -2452,203 +2329,195 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005; No. 8, 2010</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 8, 2010</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28, 29</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 37–39</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 42</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 2</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>C. 4</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>C. 9</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 28, 29</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 37–39</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 42</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3</b></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 2</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div>C. 4</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div>C. 9</div>
+    </td>
+    <td colspan="2">
+      <div>am. No. 45, 2005</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
  
