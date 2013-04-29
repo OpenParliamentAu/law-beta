@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00764/Html/988f8c71-ffc8-4e01-bb7e-51da429a3812_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00613/Html/7d5f8815-5789-4ef2-a0de-f620140ac48d_files/image001.gif)
 
 # Remuneration and Allowances Act 1990
 
 **Act No. 71 of 1990 as amended**
 
-This compilation was prepared on 30 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 5 August 2011
+ taking into account amendments up to Act No. 75 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -40,6 +41,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [8](#8).            Appropriation
 
 [8A](#8A).         Regulations
+
+**Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)** 
 
 **Schedule 1—Holders of Judicial and other offices** 
 
@@ -166,6 +169,21 @@ Prepared by the Office of Parliamentary Counsel, Canberra
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+## Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the compilation on ComLaw.
+
+Industrial Relations Act 1988  
+ \[now cited as<span class="CharPartText"> </span>_Workplace Relations Act 1996_]_._
+
+For access to the wording of the amendments made by this Part, _see_ Act No. 71, 1990.
+
+* * *
 
 # Schedule 1—Holders of Judicial and other offices
 
@@ -659,7 +677,9 @@ _Section 5_
     </td>
     <td>
       <div>
-        <b>Rate per annum of salary $</b>
+        <b>Rate per annum of salary
+          <i>$</i>
+        </b>
       </div>
     </td>
   </tr>
@@ -1102,7 +1122,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>Chairperson, Commonwealth Grants Commission</div>
+    <div> Chairperson, Commonwealth Grants Commission</div>
   </td>
   <td>
     <div>111,004</div>
@@ -1596,7 +1616,7 @@ before the Commonwealth  makes a contribution as required by subclause (4) in 
     </div>
   </td>
   <td>
-    <div>32,895</div>
+    <div>32, 895</div>
   </td>
 </tr></table>
 
@@ -2336,7 +2356,7 @@ Remainder: Royal Assent</div>
     <div>29 Oct 2001 ( <i>see</i>s. 2)</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (items 7–9) \[ <i>see</i>Table A]</div>
+    <div>S. 4 and Sch. 1 (items 7–9) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2370,7 +2390,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 1 (items 119, 120) and Schedule 4: 1 July 2005 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
-    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -2440,23 +2460,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 62): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2587,14 +2590,13 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 
 <table>
 <colgroup>
-  <col width="32%">
+  <col width="34%">
   <col width="66%">
-  <col width="2%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="3">
+    <td colspan="2">
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
@@ -2605,16 +2607,10 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <td>
       <div>How affected</div>
     </td>
-    <td>
-      <div></div>
-    </td>
   </tr>
   <tr>
     <td>
       <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
     </td>
     <td>
       <div></div>
@@ -2628,9 +2624,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>am. No. 72, 1990; No. 52, 1992; No. 60, 1996; No. 75, 2011</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -2638,9 +2631,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>ad. No. 158, 1994</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -2650,9 +2640,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>rs. No. 75, 2011</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -2660,9 +2647,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>am. No. 87, 2004</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -2672,42 +2656,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>ad. No. 146, 1999</div>
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -2715,9 +2663,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>am. No. 108, 1990; No. 52, 1992; No. 88, 1995; No. 146, 1999; SLI 2006 No. 50; No. 73, 2008</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -2727,9 +2672,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; Nos. 45 and 111, 2005; SLI 2006 No. 50; No. 73, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -2738,9 +2680,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   <td>
     <div>am. No. 72, 1990; No. 158, 1994; No. 146, 1999; No. 87, 2004; No. 15, 2007; No. 75, 2011</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -2748,9 +2687,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>am. No. 158, 1994; No. 152, 1997; No. 161, 1999; No. 153, 2001</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr></table>
 
