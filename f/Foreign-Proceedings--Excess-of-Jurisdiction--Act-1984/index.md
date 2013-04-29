@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00754/Html/01067e93-fc96-4b1b-9150-b7f538925c7c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00324/Html/ForeignProceEJ1984_WD02_image001.gif)
 
 # Foreign Proceedings (Excess of Jurisdiction) Act 1984
 
 **Act No. 3 of 1984 as amended**
 
-This compilation was prepared on 16 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -54,11 +54,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part III—Actions and decisions of foreign governments affecting Australia**
 
-[13](#13).          Attorney‑General may make orders relating to actions or decisions
+[13](#13).          Attorney-General may make orders relating to actions or decisions
 
 **Part IV—Prohibition on giving effect to certain foreign judgments**
 
-[14](#14).          Attorney‑General may prohibit compliance with foreign judgments etc 
+[14](#14).          Attorney-General may prohibit compliance with foreign judgments etc 
 
 **Part V—Miscellaneous**
 
@@ -152,7 +152,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="substant-proceing"></a>**_substantive proceedings_** means proceedings to which this Part applies by virtue of paragraph 5(a).
 
-             (2)  For the purposes of this Part, where, in proceedings instituted in or before a foreign court, a person makes a cross‑claim, counter‑claim, third‑party claim, or similar claim, for contribution, the person shall be taken to have instituted proceedings in or before that court for contribution.
+             (2)  For the purposes of this Part, where, in proceedings instituted in or before a foreign court, a person makes a cross-claim, counter-claim, third-party claim, or similar claim, for contribution, the person shall be taken to have instituted proceedings in or before that court for contribution.
 
 ##### <a id="5"></a>5  Application of Part
 
@@ -186,19 +186,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="6"></a>6  Exercise of powers under this Part
 
-             (1)  The power of the Attorney‑General to make an order under section 7 may only be exercised in relation to proceedings to which this Part applies.
+             (1)  The power of the Attorney-General to make an order under section 7 may only be exercised in relation to proceedings to which this Part applies.
 
-             (2)  The Attorney‑General shall not exercise his or her power to make an order under section 7 in relation to proceedings to which this Part applies except as provided by subsection (3), (4) or (5).
+             (2)  The Attorney-General shall not exercise his or her power to make an order under section 7 in relation to proceedings to which this Part applies except as provided by subsection (3), (4) or (5).
 
-             (3)  The Attorney‑General may make an order under section 7 in relation to proceedings to which this Part applies, being an order prohibiting the doing of an act or thing, if he or she is satisfied that the making of the order is desirable for the protection of the national interest.
+             (3)  The Attorney-General may make an order under section 7 in relation to proceedings to which this Part applies, being an order prohibiting the doing of an act or thing, if he or she is satisfied that the making of the order is desirable for the protection of the national interest.
 
-             (4)  The Attorney‑General may make an order under section 7 in relation to proceedings to which this Part applies that are constituted by proceedings instituted in or before a foreign court if he or she is satisfied that the assumption of jurisdiction by the foreign court, or the manner of exercise of jurisdiction by the foreign court, is contrary to international law or is inconsistent with international comity or international practice.
+             (4)  The Attorney-General may make an order under section 7 in relation to proceedings to which this Part applies that are constituted by proceedings instituted in or before a foreign court if he or she is satisfied that the assumption of jurisdiction by the foreign court, or the manner of exercise of jurisdiction by the foreign court, is contrary to international law or is inconsistent with international comity or international practice.
 
-             (5)  The Attorney‑General may exercise his or her power to make an order under section 7 in relation to proceedings to which this Part applies that are constituted by action taken by a foreign authority if he or she is satisfied that the taking of that action, or the manner of taking that action, is contrary to international law or is inconsistent with international comity or international practice.
+             (5)  The Attorney-General may exercise his or her power to make an order under section 7 in relation to proceedings to which this Part applies that are constituted by action taken by a foreign authority if he or she is satisfied that the taking of that action, or the manner of taking that action, is contrary to international law or is inconsistent with international comity or international practice.
 
 ##### <a id="7"></a>7  Orders
 
-             (1)  The Attorney‑General may, by order in writing, prohibit any one or more of the following acts or things:
+             (1)  The Attorney-General may, by order in writing, prohibit any one or more of the following acts or things:
 
                      (a)  the production in a foreign court, or to or for the purposes of a foreign authority, of a document that, at the time of the making of the order or at any time while the order is in force, is in Australia;
 
@@ -220,15 +220,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  relate to a particular document or to documents included in a class of documents.
 
-             (3)  Where the Attorney‑General makes an order under subsection (1) that has effect in relation to a document, the order also has effect in relation to any copy of that document that, at the time of the making of the order or at any time while the order remains in force, is in Australia, whether the copy was made before or after the making of the order, as if the copy were the document.
+             (3)  Where the Attorney-General makes an order under subsection (1) that has effect in relation to a document, the order also has effect in relation to any copy of that document that, at the time of the making of the order or at any time while the order remains in force, is in Australia, whether the copy was made before or after the making of the order, as if the copy were the document.
 
-             (4)  Where the Attorney‑General, being satisfied of the matters mentioned in subsection 6(3), (4) or (5), makes an order under subsection (1) prohibiting the doing of a specified act or thing, the Attorney‑General may:
+             (4)  Where the Attorney-General, being satisfied of the matters mentioned in subsection 6(3), (4) or (5), makes an order under subsection (1) prohibiting the doing of a specified act or thing, the Attorney-General may:
 
                      (a)  provide, in the order, that the doing of that act or thing is not prohibited in specified circumstances; or
 
                      (b)  consent in writing to the doing of that act or thing;
 
-and, where the Attorney‑General has consented as mentioned in paragraph (b) to the doing of an act or thing, a person shall not be taken to have contravened the order by reason that he or she has done that act or thing.
+and, where the Attorney-General has consented as mentioned in paragraph (b) to the doing of an act or thing, a person shall not be taken to have contravened the order by reason that he or she has done that act or thing.
 
 ##### <a id="8"></a>8  Injunctions
 
@@ -240,15 +240,15 @@ and, where the Attorney‑General has consented as mentioned in paragraph (b) 
 
              (2)  Where:
 
-                     (a)  there is in force an order made by the Attorney‑General under section 7 that prohibits the doing of a specified act or thing in relation to a specified document, or in relation to documents included in a specified class of documents; and
+                     (a)  there is in force an order made by the Attorney-General under section 7 that prohibits the doing of a specified act or thing in relation to a specified document, or in relation to documents included in a specified class of documents; and
 
-                     (b)  the Court is satisfied, on application by the Attorney‑General, that there are reasonable grounds for believing that the person having possession or control of the specified document or of a document included in the specified class of documents, as the case may be, might contravene the order referred to in paragraph (a);
+                     (b)  the Court is satisfied, on application by the Attorney-General, that there are reasonable grounds for believing that the person having possession or control of the specified document or of a document included in the specified class of documents, as the case may be, might contravene the order referred to in paragraph (a);
 
 the Court may grant an injunction restraining that person from dealing with that document in a manner specified in the injunction, or restraining that person from dealing with that document except in a manner specified in the injunction.
 
              (3)  Where in the opinion of the Court it is appropriate to do so, the Court may, instead of granting an injunction under subsection (2) in relation to the manner in which a person may deal with a document, accept from the person an undertaking in relation to the manner in which that person will deal with the document, but the acceptance by the Court of an undertaking in relation to the manner in which a person will deal with a document does not prevent the Court from subsequently granting an injunction under subsection (2) in relation to the manner in which that person may deal with that document.
 
-             (4)  The Attorney‑General shall not make an application for the purposes of this section to the Federal Court of Australia in relation to any matter that has been the subject of proceedings in the High Court.
+             (4)  The Attorney-General shall not make an application for the purposes of this section to the Federal Court of Australia in relation to any matter that has been the subject of proceedings in the High Court.
 
 ### Division 3—Enforceability of judgments given in foreign antitrust proceedings
 
@@ -258,29 +258,29 @@ the Court may grant an injunction restraining that person from dealing with that
 
                      (a)  a foreign court has, in antitrust proceedings to which this Part applies, given a judgment; and
 
-                     (b)  the Attorney‑General is satisfied that:
+                     (b)  the Attorney-General is satisfied that:
 
                               (i)  the making of an instrument under this subsection in relation to the judgment is desirable for the protection of the national interest; or
 
                              (ii)  the assumption of jurisdiction or the manner of exercise of jurisdiction by the foreign court, or the exercise of a power or the manner of exercise of a power by the foreign court, was contrary to international law or inconsistent with international comity or international practice;
 
-the Attorney‑General may:
+the Attorney-General may:
 
                      (c)  in the case of any judgment—by instrument in writing declare that he or she is satisfied as mentioned in subparagraph (b)(i) or (ii) in relation to the judgment; or
 
                      (d)  in the case of a judgment for a specified amount of money—by instrument in writing declare that he or she is satisfied as mentioned in subparagraph (b)(i) or (ii) in relation to the judgment, and specify in the instrument an amount of money, being an amount that is less than the amount of the judgment, for the purposes of paragraph (2)(b).
 
-             (2)  While an instrument made by the Attorney‑General under subsection (1) in relation to a judgment is in force:
+             (2)  While an instrument made by the Attorney-General under subsection (1) in relation to a judgment is in force:
 
-                     (a)  where the Attorney‑General has not, in the instrument, specified an amount of money for the purposes of paragraph (b)—the judgment shall not be recognized and is not enforceable in Australia; or
+                     (a)  where the Attorney-General has not, in the instrument, specified an amount of money for the purposes of paragraph (b)—the judgment shall not be recognized and is not enforceable in Australia; or
 
-                     (b)  where the Attorney‑General has, in the instrument, specified an amount of money for the purposes of this paragraph—the judgment may be recognized or enforced in Australia as if the amount specified in the instrument were substituted for the amount of the judgment, and not otherwise.
+                     (b)  where the Attorney-General has, in the instrument, specified an amount of money for the purposes of this paragraph—the judgment may be recognized or enforced in Australia as if the amount specified in the instrument were substituted for the amount of the judgment, and not otherwise.
 
              (3)  Nothing in this section enables a judgment to be recognized or enforced in Australia if, apart from this Act, the judgment would not be able to be recognized or enforced in Australia.
 
              (4)  Where:
 
-                     (a)  there is in force an instrument, made by the Attorney‑General under paragraph (1)(d) in relation to a judgment, specifying an amount of money for the purposes of paragraph (2)(b); and
+                     (a)  there is in force an instrument, made by the Attorney-General under paragraph (1)(d) in relation to a judgment, specifying an amount of money for the purposes of paragraph (2)(b); and
 
                      (b)  by virtue of paragraph (2)(b), the judgment may be recognized or enforced in Australia as if the amount specified in the instrument were substituted for the amount of the judgment;
 
@@ -290,15 +290,15 @@ any amounts recovered (whether before or after the making of the instrument) pur
 
                      (a)  a foreign court has, in antitrust proceedings to which this Part applies, given a judgment against 2 or more defendants; and
 
-                     (b)  there is in force an instrument, made by the Attorney‑General under paragraph (1)(d) in relation to the judgment, specifying an amount of money for the purposes of paragraph (2)(b) (in this subsection referred to as the **_specified amount_**);
+                     (b)  there is in force an instrument, made by the Attorney-General under paragraph (1)(d) in relation to the judgment, specifying an amount of money for the purposes of paragraph (2)(b) (in this subsection referred to as the **_specified amount_**);
 
-paragraph (2)(b) has effect, in relation to each defendant, as if the Attorney‑General had, in the instrument, specified for the purposes of paragraph (2)(b) an amount ascertained by dividing the specified amount by the number of defendants against whom the judgment was given.
+paragraph (2)(b) has effect, in relation to each defendant, as if the Attorney-General had, in the instrument, specified for the purposes of paragraph (2)(b) an amount ascertained by dividing the specified amount by the number of defendants against whom the judgment was given.
 
 ##### <a id="10"></a>10  Defendant in antitrust proceedings may recover against person who has enforced judgment
 
              (1)  Subject to subsection (3), where:
 
-                     (a)  there is in force an instrument made by the Attorney‑General under paragraph 9(1)(c) in relation to a foreign judgment; and
+                     (a)  there is in force an instrument made by the Attorney-General under paragraph 9(1)(c) in relation to a foreign judgment; and
 
                      (b)  the plaintiff or any other person has (whether before or after the making of the instrument referred to in paragraph (a)) recovered from a defendant, in Australia or in any other country, an amount pursuant to that foreign judgment;
 
@@ -306,7 +306,7 @@ then (whether or not any liability has arisen previously under this subsection i
 
              (2)  Subject to subsection (3), where:
 
-                     (a)  there is in force an instrument made by the Attorney‑General under paragraph 9(1)(d) in relation to a foreign judgment specifying an amount of money for the purposes of paragraph 9(2)(b) (in this subsection referred to as the **_recoverable amount_**);
+                     (a)  there is in force an instrument made by the Attorney-General under paragraph 9(1)(d) in relation to a foreign judgment specifying an amount of money for the purposes of paragraph 9(2)(b) (in this subsection referred to as the **_recoverable amount_**);
 
                      (b)  the plaintiff or any other person has (whether before or after the making of the instrument referred to in paragraph (a)) recovered from a defendant, in Australia or in any other country, an amount pursuant to that foreign judgment (in this subsection referred to as the **_relevant amount_**);
 
@@ -336,7 +336,7 @@ then (whether or not any liability has arisen previously under this subsection i
 
              (4)  Where a judgment in relation to which an instrument has been made under paragraph 9(1)(d) was given against 2 or more defendants, subsection (2) of this section has effect in relation to each of those defendants as if the references in that subsection to an amount specified in the instrument were references to the amount ascertained by dividing the amount specified in the instrument by the number of defendants against whom the judgment was given.
 
-             (5)  Where a corporation that is the plaintiff in relation to a foreign judgment is, by virtue of this section, liable to pay an amount to the person who is the defendant in relation to that foreign judgment, any corporation that is related to that first‑mentioned corporation is jointly and severally liable with that first‑mentioned corporation to pay that amount to that person.
+             (5)  Where a corporation that is the plaintiff in relation to a foreign judgment is, by virtue of this section, liable to pay an amount to the person who is the defendant in relation to that foreign judgment, any corporation that is related to that first-mentioned corporation is jointly and severally liable with that first-mentioned corporation to pay that amount to that person.
 
              (6)  A reference in this section to a person other than the plaintiff recovering an amount pursuant to a foreign judgment is a reference to any person recovering any amount pursuant to the foreign judgment, whether as the successor to the plaintiff, as an assignee of the rights of the plaintiff under the judgment or otherwise.
 
@@ -362,13 +362,13 @@ then (whether or not any liability has arisen previously under this subsection i
 
                      (c)  under any law that is applicable in relation to those proceedings, only the plaintiff is entitled to recover any amount in respect of his or her costs in the proceedings; and
 
-                     (d)  the Attorney‑General is satisfied that:
+                     (d)  the Attorney-General is satisfied that:
 
                               (i)  the making of an order under this section in relation to those proceedings is desirable for the protection of the national interest; or
 
                              (ii)  the assumption of jurisdiction or the manner of exercise of jurisdiction by that court, or the exercise of a power or the manner of exercise of a power by that court, in those proceedings was contrary to international law or inconsistent with international comity or international practice;
 
-                            the Attorney‑General may make an order that the plaintiff in those proceedings is liable or, if the plaintiff is a corporation, the plaintiff and any related corporation are jointly and severally liable, to pay to a defendant in the proceedings an amount equal to the reasonable costs of, and expenses incidental to, the proceedings (in this section referred to as **_recoverable costs and expenses_**), being costs and expenses incurred by the defendant and including, without limiting the generality of the foregoing, any costs or expenses associated with obtaining legal advice in connection with, or legal representation in or in connection with, the proceedings, and that order has effect accordingly.
+                            the Attorney-General may make an order that the plaintiff in those proceedings is liable or, if the plaintiff is a corporation, the plaintiff and any related corporation are jointly and severally liable, to pay to a defendant in the proceedings an amount equal to the reasonable costs of, and expenses incidental to, the proceedings (in this section referred to as **_recoverable costs and expenses_**), being costs and expenses incurred by the defendant and including, without limiting the generality of the foregoing, any costs or expenses associated with obtaining legal advice in connection with, or legal representation in or in connection with, the proceedings, and that order has effect accordingly.
 
              (2)  Nothing in this section renders a person liable to pay an amount to a defendant in proceedings instituted in or before a court of a country other than Australia or of a part of such a country unless:
 
@@ -390,13 +390,13 @@ then (whether or not any liability has arisen previously under this subsection i
 
                      (a)  an agreement is in force between Australia and another country that makes provision for the enforcement in that other country of judgments obtained in proceedings in respect of certain causes of action arising under section 10, or in respect of all causes of action arising under that section, and also:
 
-                              (i)  makes provision for the enforcement in Australia of judgments obtained in proceedings in respect of causes of action arising under any provision of the law of that country relating to the recovery of sums paid or obtained pursuant to judgments for multiple damages within the meaning of subsection 3(3), whether or not that last‑mentioned provision corresponds to section 10; or
+                              (i)  makes provision for the enforcement in Australia of judgments obtained in proceedings in respect of causes of action arising under any provision of the law of that country relating to the recovery of sums paid or obtained pursuant to judgments for multiple damages within the meaning of subsection 3(3), whether or not that last-mentioned provision corresponds to section 10; or
 
                              (ii)  makes provision for the enforcement in Australia of judgments obtained in proceedings in respect of causes of action arising under any provision of the law of that country that corresponds to section 10; and
 
                      (b)  a person has obtained a judgment in a proceeding instituted under a provision of the law of that other country referred to in subparagraph (a)(i) or (ii);
 
-the Attorney‑General may, by order in writing, declare that the judgment referred to in paragraph (b), to the extent that it has not been satisfied when the order is made, may be enforced in Australia.
+the Attorney-General may, by order in writing, declare that the judgment referred to in paragraph (b), to the extent that it has not been satisfied when the order is made, may be enforced in Australia.
 
              (2)  Where an order made under subsection (1) in relation to a judgment is in force, the judgment creditor may apply to the Court, at any time within 3 years after the date of the making of the order, to have the judgment registered in the Court.
 
@@ -448,11 +448,11 @@ as if the judgment were a final judgment originally given in the Court and enter
 
 ## Part III—Actions and decisions of foreign governments affecting Australia
 
-##### <a id="13"></a>13  Attorney‑General may make orders relating to actions or decisions
+##### <a id="13"></a>13  Attorney-General may make orders relating to actions or decisions
 
              (1)  Where:
 
-                     (a)  under a law of a country other than Australia, being a law that regulates or controls the trade or commerce of that country with another country or other countries, or trade or commerce among other countries, action has been or is proposed to be taken, or a decision has been or is proposed to be made, by or on behalf of the government of that first‑mentioned country or by or on behalf of an agency or instrumentality, whether corporate or unincorporated, of that government;
+                     (a)  under a law of a country other than Australia, being a law that regulates or controls the trade or commerce of that country with another country or other countries, or trade or commerce among other countries, action has been or is proposed to be taken, or a decision has been or is proposed to be made, by or on behalf of the government of that first-mentioned country or by or on behalf of an agency or instrumentality, whether corporate or unincorporated, of that government;
 
                      (b)  the action or decision imposes, or would impose, on:
 
@@ -474,7 +474,7 @@ as if the judgment were a final judgment originally given in the Court and enter
 
                              (v)  constitutes, or would constitute, an external affair;
 
-the Attorney‑General may, if he or she is satisfied that the making of an order under this subsection in relation to the obligation is desirable for the protection of the national interest, by order in writing prohibit the performance of that obligation in Australia by the person or corporation referred to in paragraph (b).
+the Attorney-General may, if he or she is satisfied that the making of an order under this subsection in relation to the obligation is desirable for the protection of the national interest, by order in writing prohibit the performance of that obligation in Australia by the person or corporation referred to in paragraph (b).
 
              (2)  An order made under subsection (1) may prohibit the performance of an obligation:
 
@@ -486,7 +486,7 @@ the Attorney‑General may, if he or she is satisfied that the making of an orde
 
 ## Part IV—Prohibition on giving effect to certain foreign judgments
 
-##### <a id="14"></a>14  Attorney‑General may prohibit compliance with foreign judgments etc.
+##### <a id="14"></a>14  Attorney-General may prohibit compliance with foreign judgments etc.
 
              (1)  A reference in this section to a relevant judgment is a reference to a judgment (including an injunction) that, whether expressly or by necessary implication:
 
@@ -510,25 +510,25 @@ where the doing of the act or thing, the refraining from doing the act or thing 
 
 but does not include a reference to a judgment to the extent (if any) that the judgment expressly requires the payment of an amount of money.
 
-             (2)  Where a foreign court has given a relevant judgment against a person, the Attorney‑General may, if he or she is satisfied that the making of an order under this subsection in relation to the relevant judgment is desirable for the protection of the national interest, by order prohibit the person from complying with the relevant judgment in Australia.
+             (2)  Where a foreign court has given a relevant judgment against a person, the Attorney-General may, if he or she is satisfied that the making of an order under this subsection in relation to the relevant judgment is desirable for the protection of the national interest, by order prohibit the person from complying with the relevant judgment in Australia.
 
-             (3)  Where a foreign court has given a relevant judgment against a person, the Attorney‑General may, if he or she is satisfied that compliance in Australia by any other person with an order, requirement, request, direction or instruction that has been or may be made or given, by or on behalf of that first‑mentioned person:
+             (3)  Where a foreign court has given a relevant judgment against a person, the Attorney-General may, if he or she is satisfied that compliance in Australia by any other person with an order, requirement, request, direction or instruction that has been or may be made or given, by or on behalf of that first-mentioned person:
 
                      (a)  in accordance with the relevant judgment; or
 
-                     (b)  for the purpose of enabling that first‑mentioned person to comply with the relevant judgment;
+                     (b)  for the purpose of enabling that first-mentioned person to comply with the relevant judgment;
 
 would or might be detrimental to the national interest, by order prohibit compliance in Australia with any such order, requirement, request, direction or instruction that has been or may be made or given.
 
              (4)  An order under subsection (3) may be directed to a particular person, to persons included in a class of persons or to persons generally.
 
-             (5)  Where the Attorney‑General makes an order under subsection (2) prohibiting compliance with a relevant judgment or an order under subsection (3) prohibiting compliance with an order, requirement, request, direction or instruction, the Attorney‑General may provide, in the order, that the relevant judgment or the order, requirement, request, direction or instruction, as the case may be, may be complied with in specified circumstances, and the circumstances that may be specified include the circumstance that the Attorney‑General has consented to that compliance.
+             (5)  Where the Attorney-General makes an order under subsection (2) prohibiting compliance with a relevant judgment or an order under subsection (3) prohibiting compliance with an order, requirement, request, direction or instruction, the Attorney-General may provide, in the order, that the relevant judgment or the order, requirement, request, direction or instruction, as the case may be, may be complied with in specified circumstances, and the circumstances that may be specified include the circumstance that the Attorney-General has consented to that compliance.
 
 ## Part V—Miscellaneous
 
 ##### <a id="15"></a>15  Parliamentary disallowance of orders and instruments under this Act
 
-             (1)  Subject to subsection (2), sections 48, 48A, 48B, 49, 49A and 50 of the _Acts Interpretation Act 1901_ apply in relation to orders and instruments made by the Attorney‑General under this Act as if references in those sections to regulations were references to an order or instrument made under this Act and references to a regulation were references to a provision of such an order or instrument.
+             (1)  Subject to subsection (2), sections 48, 48A, 48B, 49, 49A and 50 of the _Acts Interpretation Act 1901_ apply in relation to orders and instruments made by the Attorney-General under this Act as if references in those sections to regulations were references to an order or instrument made under this Act and references to a regulation were references to a provision of such an order or instrument.
 
              (2)  Notwithstanding subsection 48(1) of the _Acts Interpretation Act 1901_ as applied by subsection (1) of this section:
 
@@ -536,9 +536,9 @@ would or might be detrimental to the national interest, by order prohibit compli
 
                      (b)  an order that has been made under section 12 in relation to a judgment comes into force;
 
-on a date fixed by the Attorney‑General by notice in writing published in the _Gazette_.
+on a date fixed by the Attorney-General by notice in writing published in the _Gazette_.
 
-             (3)  The Attorney‑General shall not publish a notice under subsection (2) in relation to an order or instrument unless he or she is satisfied that the order or instrument, as the case may be, is no longer liable to be disallowed by either House of the Parliament, and is no longer liable to be deemed to have been disallowed, pursuant to section 48 of the _Acts Interpretation Act 1901_ as applied by subsection (1) of this section.
+             (3)  The Attorney-General shall not publish a notice under subsection (2) in relation to an order or instrument unless he or she is satisfied that the order or instrument, as the case may be, is no longer liable to be disallowed by either House of the Parliament, and is no longer liable to be deemed to have been disallowed, pursuant to section 48 of the _Acts Interpretation Act 1901_ as applied by subsection (1) of this section.
 
 ##### <a id="16"></a>16  Jurisdiction of Federal Court
 
@@ -548,7 +548,7 @@ on a date fixed by the Attorney‑General by notice in writing published in the 
 
 ##### <a id="17"></a>17  Service of notice of orders
 
-                   Where the Attorney‑General makes an order under this Act that is directed to a particular person, the Attorney‑General shall:
+                   Where the Attorney-General makes an order under this Act that is directed to a particular person, the Attorney-General shall:
 
                      (a)  except in a case to which paragraph (b) applies, cause to be sent to the person by registered post addressed to the person:
 
@@ -558,11 +558,11 @@ on a date fixed by the Attorney‑General by notice in writing published in the 
 
                             a copy of the notice of that order published in the _Gazette_ in accordance with subsection 48(1) of the _Acts Interpretation Act 1901_ as applied by subsection 15(1) of this Act; or
 
-                     (b)  if the person, being a natural person, does not have an address in Australia, or being a body corporate, does not have a registered office or principal place of business in Australia, cause such steps to be taken as are, in the opinion of the Attorney‑General, reasonable and practicable, to bring to the attention of the person the notice of the order published as mentioned in paragraph (a).
+                     (b)  if the person, being a natural person, does not have an address in Australia, or being a body corporate, does not have a registered office or principal place of business in Australia, cause such steps to be taken as are, in the opinion of the Attorney-General, reasonable and practicable, to bring to the attention of the person the notice of the order published as mentioned in paragraph (a).
 
 ##### <a id="18"></a>18  Offences
 
-             (1)  A person who contravenes an order by the Attorney‑General in force under section 7, 13 or 14 that is applicable to him or her is guilty of an offence punishable, on conviction:
+             (1)  A person who contravenes an order by the Attorney-General in force under section 7, 13 or 14 that is applicable to him or her is guilty of an offence punishable, on conviction:
 
                      (a)  in the case of a person who is a natural person—by a fine not exceeding $50,000 or imprisonment for a period not exceeding 12 months, or both; or
 
@@ -576,7 +576,7 @@ on a date fixed by the Attorney‑General by notice in writing published in the 
 
 ##### <a id="19"></a>19  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -626,17 +626,15 @@ The _Foreign Proceedings (Excess of Jurisdiction) Act 1984_ as shown in this com
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
+  <col width="18%">
   <col width="21%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -726,7 +724,7 @@ Remainder: Royal Assent</div>
     <div>Ss. 4–14 and Schedule 3 (item 206): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -761,23 +759,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 634) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -944,37 +925,5 @@ _(a)_ The _Foreign Proceedings (Excess of Jurisdiction) Act 1984_ was amended by
     <div>am. No. 73, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 634  Subsection 3(1) (definition of _document_)
-
-Repeal the definition.
-
-As at 16 September 2011 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
