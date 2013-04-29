@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2008C00366/Html/ad1fe368-a24f-4f43-bed4-ddadcf748fc2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00690/Html/B746B648FE91022DCA2570C900156D1E/$FILE/image001.gif)
 
 # Crimes (Overseas) Act 1964
 
 **Act No. 116 of 1964 as amended**
 
-This compilation was prepared on 8 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 2 December 2005
+taking into account amendments up to Act No. 128 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -44,7 +46,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act relating to Offences committed by certain Persons outside   Australia
+
+## An Act relating to Offences committed by certain Persons outside Australia
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -68,7 +71,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  is not an Australian citizen but is permitted to travel to, enter and remain in Australia indefinitely under the _Migration Act 1958_.
 
-                    <a name="commonwealth-offic"></a>**_Commonwealth officer_** has the same meaning as in the _Crimes Act 1914‑1960_.
+                    <a name="commonwealth-offic"></a>**_Commonwealth officer_** has the same meaning as in the _Crimes Act 1914-1960_.
 
                     <a name="crimin-law"></a>**_criminal laws_** of the Jervis Bay Territory means laws in force in that Territory (including unwritten laws):
 
@@ -238,7 +241,7 @@ Defence Force members and ASIS, DIGO and DSD staff not covered
 
 Note:          Section 14 of the _Intelligence Services Act 2001_:
 
-(a)           authorises the Inspector‑General of Intelligence and Security to give a certificate certifying any fact relevant to the question whether an act was done in the proper performance of a function of ASIS, DIGO or DSD; and
+(a)           authorises the Inspector-General of Intelligence and Security to give a certificate certifying any fact relevant to the question whether an act was done in the proper performance of a function of ASIS, DIGO or DSD; and
 
 (b)           provides for such a certificate to be prima facie evidence of the facts certified in any proceedings.
 
@@ -252,7 +255,7 @@ Note:          Section 14 of the _Intelligence Services Act 
 
              (2)  Without limiting paragraph (1)(b), the regulations may provide that the relevant agreement or arrangement is a declared agreement or arrangement for the purposes of this Act only in relation to persons who undertake specified tasks or projects, or perform specified functions, under the agreement or arrangement.
 
-             (3)  Before the Governor‑General makes regulations for the purposes of subsection (1), the Minister, after consulting the Minister for Foreign Affairs, must be satisfied that it is appropriate to do so having regard to:
+             (3)  Before the Governor-General makes regulations for the purposes of subsection (1), the Minister, after consulting the Minister for Foreign Affairs, must be satisfied that it is appropriate to do so having regard to:
 
                      (a)  whether this Act would apply to Australians in relation to activities engaged in under the relevant agreement or arrangement even if the regulations were not made; and
 
@@ -282,7 +285,7 @@ Note:          Section 14 of the _Intelligence Services Act 
 
                      (b)  the day on which the foreign country (or the part of the foreign country) is to cease being a declared foreign country (or a declared part of a foreign country) for the purposes of this Act.
 
-             (4)  Before the Governor‑General makes regulations for the purposes of subsection (1), the Minister, after consulting the Minister for Foreign Affairs, must be satisfied that it is appropriate to do so having regard to:
+             (4)  Before the Governor-General makes regulations for the purposes of subsection (1), the Minister, after consulting the Minister for Foreign Affairs, must be satisfied that it is appropriate to do so having regard to:
 
                      (a)  whether this Act would apply to Australians in relation to acts in the foreign country (or the part of the foreign country) even if the regulations were not made; and
 
@@ -330,15 +333,15 @@ the person’s ceasing to be a person to whom this Act applies in relation to th
 
              (1)  A Commonwealth officer may, with such assistance as is necessary, arrest without warrant, outside Australia, a person to whom this Act applies in relation to an act if the officer has reasonable grounds for suspecting that the person has committed, is committing, has attempted to commit or is attempting to commit an offence against the laws applied under subsection 4(1).
 
-             (2)  The Commonwealth officer, or a person authorized by him or her, may hold the person so arrested in custody until he or she can be brought before a Justice of the Peace or other proper authority in Australia to be dealt with in accordance with law.
+             (2)  The Commonwealth officer, or a person authorized by him, may hold the person so arrested in custody until he can be brought before a Justice of the Peace or other proper authority in Australia to be dealt with in accordance with law.
 
-             (3)  This section does not authorize the holding of a person in custody for a longer time than is reasonably necessary in the circumstances to enable him or her to be taken to Australia and there brought before a Justice of the Peace or other proper authority.
+             (3)  This section does not authorize the holding of a person in custody for a longer time than is reasonably necessary in the circumstances to enable him to be taken to Australia and there brought before a Justice of the Peace or other proper authority.
 
 ##### <a id="7"></a>7  Trial of offenders
 
              (1)  Subject to the succeeding provisions of this section, jurisdiction is conferred on the several courts of the States and Territories with respect to offences against the laws applied under subsection 4(1).
 
-             (2)  The jurisdiction conferred on courts by the last preceding subsection is conferred within the limits (other than limits having effect by reference to the places at which offences are committed) of their several jurisdictions, but, in the case of a court of a State, subject to the conditions and restrictions specified in paragraphs (a), (b) and (c) of subsection (2) of section thirty‑nine of the _Judiciary Act 1903‑1960_.
+             (2)  The jurisdiction conferred on courts by the last preceding subsection is conferred within the limits (other than limits having effect by reference to the places at which offences are committed) of their several jurisdictions, but, in the case of a court of a State, subject to the conditions and restrictions specified in paragraphs (a), (b) and (c) of subsection (2) of section thirty-nine of the _Judiciary Act 1903-1960_.
 
              (3)  The jurisdiction conferred on a court of summary jurisdiction by this section shall not be judicially exercised except by a Chief, Police, Stipendiary, Resident or Special Magistrate.
 
@@ -360,9 +363,9 @@ the person’s ceasing to be a person to whom this Act applies in relation to th
 
 and for holding accused persons to bail apply, so far as they are applicable, to a person who is charged in that State or Territory with an offence against the laws applied under subsection 4(1).
 
-             (6)  Where a person is convicted of an offence against the laws applied under subsection 4(1) and the laws of the State or Territory in which he or she is convicted make no provision, or insufficient provision, for carrying out the penalty imposed in respect of the offence, the penalty shall be enforced or carried into effect as the Governor‑General directs.
+             (6)  Where a person is convicted of an offence against the laws applied under subsection 4(1) and the laws of the State or Territory in which he is convicted make no provision, or insufficient provision, for carrying out the penalty imposed in respect of the offence, the penalty shall be enforced or carried into effect as the Governor-General directs.
 
-             (7)  Except as provided by this Act, the _Judiciary Act 1903‑1960_ applies in relation to offences against the laws applied under subsection 4(1).
+             (7)  Except as provided by this Act, the _Judiciary Act 1903-1960_ applies in relation to offences against the laws applied under subsection 4(1).
 
 ##### <a id="8"></a>8  Evidence
 
@@ -394,7 +397,7 @@ to issue certificates under this section.
 
 has, at least 14 days before the certificate is sought to be so admitted, been given a copy of the certificate together with reasonable evidence of the intention to produce the certificate as evidence in the proceedings.
 
-             (7)  Subject to subsection (8), if a certificate under subsection (2) or (3) is admitted in evidence in proceedings for an offence against this Act, or against the laws applied under subsection 4(1), the person charged with the offence may require the person who issued the certificate (the **_certificate issuer_**) to be called as a witness for the prosecution and cross‑examined as if the certificate issuer had given evidence of the matters stated in the certificate.
+             (7)  Subject to subsection (8), if a certificate under subsection (2) or (3) is admitted in evidence in proceedings for an offence against this Act, or against the laws applied under subsection 4(1), the person charged with the offence may require the person who issued the certificate (the **_certificate issuer_**) to be called as a witness for the prosecution and cross-examined as if the certificate issuer had given evidence of the matters stated in the certificate.
 
              (8)  Subsection (7) does not entitle the person charged to require the person who issued the certificate (the **_certificate issuer_**) to be called as a witness for the prosecution unless:
 
@@ -406,11 +409,12 @@ has, at least 14 days before the certificate is sought to be so admitted, been g
 
 ##### <a id="9"></a>9  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 
 # Notes to the _Crimes (Overseas) Act 1964_
 
@@ -438,11 +442,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -452,156 +458,145 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Crimes (Overseas) Act 1964</div>
-  </td>
-  <td>
-    <div>116, 1964</div>
-  </td>
-  <td>
-    <div>23 Nov 1964</div>
-  </td>
-  <td>
-    <div>23 Nov 1964</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>28, 1991</div>
-  </td>
-  <td>
-    <div>4 Mar 1991</div>
-  </td>
-  <td>
-    <div>S. 74(1): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes and Other Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>182, 1994</div>
-  </td>
-  <td>
-    <div>19 Dec 1994</div>
-  </td>
-  <td>
-    <div>S. 31: 16 Jan 1994 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes (Overseas) Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>102, 2003</div>
-  </td>
-  <td>
-    <div>15 Oct 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 July 2003 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 25, 26) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Intelligence Services Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>128, 2005</div>
-  </td>
-  <td>
-    <div>4 Nov 2005</div>
-  </td>
-  <td>
-    <div>Schedules 1–8: 2 Dec 2005 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 239–242): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Crimes (Overseas) Act 1964</div>
+    </td>
+    <td>
+      <div>116, 1964</div>
+    </td>
+    <td>
+      <div>23 Nov 1964</div>
+    </td>
+    <td>
+      <div>23 Nov 1964</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>28, 1991</div>
+    </td>
+    <td>
+      <div>4 Mar 1991</div>
+    </td>
+    <td>
+      <div>S. 74(1): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes and Other Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>182, 1994</div>
+    </td>
+    <td>
+      <div>19 Dec 1994</div>
+    </td>
+    <td>
+      <div>S. 31: 16 Jan 1994 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes (Overseas) Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>102, 2003</div>
+    </td>
+    <td>
+      <div>15 Oct 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1: 1 July 2003 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 25, 26) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Intelligence Services Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>128, 2005</div>
+    </td>
+    <td>
+      <div>4 Nov 2005</div>
+    </td>
+    <td>
+      <div>Schedules 1–8: 2 Dec 2005 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Crimes (Overseas) Act 1964_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                “(1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.”
 
-_(b)_     The _Crimes (Overseas) Act 1964_ was amended by section 74(1) only of the _Crimes Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
+_(b)_    The _Crimes (Overseas) Act 1964_ was amended by section 74(1) only of the _Crimes Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
 
-                 (1)    Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                “(1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.”
 
 _(c)_     The _Crimes (Overseas) Act 1964_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
 
-                 (4)   The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_(other than the amendment made to Schedule 5 to that Act), the _Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections 23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.
+                “(4)   The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_(other than the amendment made to Schedule 5 to that Act), the _Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections 23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.”
+
 
 ## Table of Amendments
 
@@ -626,102 +621,105 @@ _(c)_     The _Crimes (Overseas) Act 1964_ was amended by section 31 o
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 65, 1985; No. 102, 2003; No. 128, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 3A(10)</div>
-  </td>
-  <td>
-    <div>am. No. 128, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 102, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 128, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 3A(10)</div>
-  </td>
-  <td>
-    <div>am. No. 128, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3B, 3C</div>
-  </td>
-  <td>
-    <div>ad. No. 102, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991; No. 182, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 102, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991; No. 102, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6, 7</div>
-  </td>
-  <td>
-    <div>am. No. 102, 2003; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rs. No. 102, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 102, 2003</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 65, 1985; No. 102, 2003; No. 128, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 3A(10)</div>
+    </td>
+    <td>
+      <div>am. No. 128, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3A</div>
+    </td>
+    <td>
+      <div>ad. No. 102, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 128, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 3A(10)</div>
+    </td>
+    <td>
+      <div>am. No. 128, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 3B, 3C</div>
+    </td>
+    <td>
+      <div>ad. No. 102, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1991; No. 182, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 102, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1991; No. 102, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6, 7</div>
+    </td>
+    <td>
+      <div>am. No. 102, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>rs. No. 102, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>ad. No. 102, 2003</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -733,25 +731,25 @@ _Crimes (Overseas) Amendment Act 2003 (No. 102, 2003)_
 
 ## 25  Application of amendments
 
-(1)       Subsection 3A(1) of the _Crimes (Overseas) Act 1964_ applies only in relation to acts that occur after the day on which this Act receives the Royal Assent.
+(1)        Subsection 3A(1) of the _Crimes (Overseas) Act 1964_ applies only in relation to acts that occur after the day on which this Act receives the Royal Assent.
 
-(2)       Subsection 3A(3) of the _Crimes (Overseas) Act 1964_ applies only in relation to acts that occur after the day on which this Act receives the Royal Assent.
+(2)        Subsection 3A(3) of the _Crimes (Overseas) Act 1964_ applies only in relation to acts that occur after the day on which this Act receives the Royal Assent.
 
-(3)       The provisions of the _Crimes (Overseas) Act 1964_(as in force immediately before 1 July 2003) continue to apply, after that date, in relation to a person serving in a country outside Australia under arrangements made between the Commonwealth and the United Nations as if the amendments made by this Schedule had not been made.
+(3)        The provisions of the _Crimes (Overseas) Act 1964_(as in force immediately before 1 July 2003) continue to apply, after that date, in relation to a person serving in a country outside Australia under arrangements made between the Commonwealth and the United Nations as if the amendments made by this Schedule had not been made.
 
-(4)       Subitem (3) ceases to have effect at the end of the day on which this Act receives the Royal Assent.
+(4)        Subitem (3) ceases to have effect at the end of the day on which this Act receives the Royal Assent.
 
-(5)       To avoid doubt, sections 7 and 8 of the _Acts Interpretation Act 1901_ apply to the provisions of the _Crimes (Overseas) Act 1964_ (as in force immediately before 1 July 2003) ceasing to have effect under subitem (4) on the day on which this Act receives the Royal Assent as if those provisions had been repealed by this Act on that day.
+(5)        To avoid doubt, sections 7 and 8 of the _Acts Interpretation Act 1901_ apply to the provisions of the _Crimes (Overseas) Act 1964_ (as in force immediately before 1 July 2003) ceasing to have effect under subitem (4) on the day on which this Act receives the Royal Assent as if those provisions had been repealed by this Act on that day.
 
 ## 26  Savings
 
-(1)       A certificate by the Minister in force under section 8 of the _Crimes (Overseas) Act 1964_ immediately before this Act commences continues to have effect after this Act commences as if:
+(1)        A certificate by the Minister in force under section 8 of the _Crimes (Overseas) Act 1964_ immediately before this Act commences continues to have effect after this Act commences as if:
 
                      (a)  the certificate had, immediately after this Act commences, been issued under subsection 8(2) of the _Crimes (Overseas) Act 1964_ by the Secretary of the Department; and
 
                      (b)  the Secretary of the Department had been authorised by the Minister to issue certificates under section 8.
 
-(2)       A certificate that:
+(2)        A certificate that:
 
                      (a)  the Minister gives on or after 1 July 2003 under section 8 of the _Crimes (Overseas) Act 1964_ as it continues to apply under subitem 25(3); and
 
@@ -762,5 +760,6 @@ continues to have effect after this Act receives the Royal Assent as if:
                      (c)  the certificate had, immediately after this Act receives the Royal Assent, been issued under subsection 8(2) or (3) of the _Crimes (Overseas) Act 1964_ by the Secretary of the Department; and
 
                      (d)  the Secretary of the Department had been authorised by the Minister to issue the certificates under section 8.
+
 
  
