@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00719/Html/dba34d47-2e33-4b91-ab26-66bb073b6b49_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00035/Html/fc7ba436-f69e-47e7-a149-39a1206d9966_files/image001.gif)
 
-# Australian   Capital Territory (Planning and Land Management) Act 1988
+# Australian Capital Territory (Planning and Land Management) Act 1988
 
 **Act No. 108 of 1988 as amended**
 
-This compilation was prepared on 10 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -147,6 +148,12 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [53](#53).          Regulations
 
+**Part IX—Repeals and amendments**
+
+[54](#54).          Repeal of National Capital Development Commission Acts
+
+[55](#55).          Consequential amendments
+
 **Part X—Transitional provisions** 
 
     **Division 1—Preliminary**
@@ -222,6 +229,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [84](#84).          Court proceedings
 
 [85](#85).          Transfer of appropriated money
+
+**Schedule—Consequential amendments** 
 
 **Notes** 
 
@@ -713,7 +722,7 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
                    An act done by the Authority is not invalid merely because of a vacancy or vacancies in the membership of the Authority.
 
-##### <a id="35"></a>35  Remuneration
+##### <a id="35"></a>35  Remuneration
 
              (1)  A member shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, shall be paid such remuneration as is prescribed.
 
@@ -922,6 +931,22 @@ the Governor‑General may terminate the appointment of the member.
                      (a)  must be reasonably related to the expenses incurred or to be incurred by the Authority in connection with the proposal in question; and
 
                      (b)  must not be such as to amount to taxation.
+
+## Part IX—Repeals and amendments
+
+##### <a id="54"></a>54  Repeal of National Capital Development Commission Acts
+
+                   The following Acts are repealed:
+
+_National Capital Development Commission Act 1957_
+
+_National Capital Development Commission Act 1960_
+
+_National Capital Development Commission Act 1975._
+
+##### <a id="55"></a>55  Consequential amendments
+
+                   The Acts set out in the Schedule are amended as specified in the Schedule, but the amendments commence as provided by section 2.
 
 ## Part X—Transitional provisions
 
@@ -1299,6 +1324,29 @@ the proceedings may be continued, subject to the direction of the court, by or a
 
                     <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for expenditure in respect of the financial year ending on 30 June 1989, and includes an Act appropriating money, by way of interim provision, for such expenditure.
 
+# Schedule—Consequential amendments
+
+_Section 55_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the current compilations on ComLaw.
+
+_Canberra Water Supply (Googong Dam) Act 1974_
+
+_Parliament House Construction Authority Act 1979_
+ <span style="font-size:9.0pt">\[repealed by Act No. 37, 1992, s. 4]</span>
+
+_Public Works Committee Act 1969_
+
+_Seat of Government (Administration) Act 1910_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 108, 1988.
+
+* * *
+
 # Notes to the _Australian Capital Territory (Planning and Land Management) Act 1988_
 
 ### Note 1
@@ -1507,7 +1555,7 @@ of Assent</div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1596,23 +1644,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td colspan="2">
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 9, 10): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1636,7 +1667,7 @@ _(a)_     Section 2 of the _Australian Capital   Territory__(Planning 
 
 _(b)_     The _Australian Capital Territory__(Planning and Land Management) Act 1988_ was amended by Part 3 (sections 5 and 6) only of the _Arts, Environment, Tourism and Territories Legislation Amendment Act 1990_, subsection 2(3) of which provides as follows:
 
-                 (3)   Part 3 is taken to have commenced immediately after the commencement of section 55 of the _Australian   Capital Territory__(Planning and Land Management) Act 1989_.
+                 (3)   Part 3 is taken to have commenced immediately after the commencement of section 55 of the _Australian Capital Territory__(Planning and Land Management) Act 1989_.
 
          Section 55 commenced on 31 January 1989 (_see Gazette_ 1989, No. S39). 
 
@@ -1644,7 +1675,7 @@ _(c)_     2.   This Act is taken to have commenced immediately after
 
          Section 57 commenced on 31 January 1989 (_see Gazette_ 1989, No. S39).
 
-_(d)_     The _Australian Capital Territory__(Planning and Land Management) Act 1988_ was amended by section 5 only of the _Arts, Environment and Territories Legislation Amendment Act 1993_, subsection 2(1) of which provides as follows:
+_(d)_     The _Australian Capital Territory__(Planning and Land Management) Act 1988_ was amended by section 5 only of the _Arts, Environment and Territories Legislation Amendment Act1993_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -1990,18 +2021,10 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 </tr>
 <tr>
   <td>
-    <div>Part IX</div>
+    <div><b>Part IX</b></div>
   </td>
   <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -2010,14 +2033,6 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
   </td>
   <td>
     <div>am. No. 88, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2083,14 +2098,6 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
   <td>
     <div>am. No. 5, 2011</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
 
 ## Table A
@@ -2109,7 +2116,7 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 
 _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003 (No. 140, 2003)_
 
-##### <a id="4"></a>4  Transitional provisions
+##### <a id="4"></a>4  Transitional provisions
 
              (1)  If legislation introduced into the Parliament before the commencing day but commencing on or after that day:
 
