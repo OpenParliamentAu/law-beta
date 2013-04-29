@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image001.gif)
 
 # Defence Force Retirement and Death Benefits Act 1973
 
 **Act No. 81 of 1973 as amended**
 
-This compilation was prepared on 24 July 2012
- taking into account amendments up to Act No. 82 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -340,12 +340,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [124A](#124A).     Determinations with respect to surcharge deduction amount
 
-[124B](#124B).     Recoverable payments
-
-[124C](#124C).     Recoverable death payments
-
-[124D](#124D).     Reports about recoverable payments and recoverable death payments
-
 [125](#125).        Payments by the Commonwealth
 
 [126](#126).        Recovery of amounts payable to Commonwealth
@@ -516,7 +510,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="fortnightli-rate-pai"></a>**_fortnightly rate of pay_**, in relation to a member of the Defence Force on a particular day, means an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image002.gif)
 
 where **_A_** is the annual rate of pay applicable to him on that day.
 
@@ -823,7 +817,7 @@ whether or not the person was legally married to that other person.
 
              (2)  The rate of the spouse pension to which the spouse is entitled is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image003.gif)
 
              (3)  If the rate worked out under subsection (2) is less than or equal to  the rate prescribed by the regulations for the purposes of this section, the spouse is instead entitled to a lump sum payment worked out in accordance with the regulations.
 
@@ -967,7 +961,7 @@ the rate at which retirement pay is payable to him is the amount per annum that,
 
              (6)  If the member of the scheme makes an election under subsection 124(1), the rate at which retirement pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image004.gif)
 
 where:
 
@@ -1010,7 +1004,7 @@ exceeds the amount per annum of the retirement pay to which the person was or wi
 
           (2B)  For the purposes of subsection (2A), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image005.gif)
 
 where **_A_** is:
 
@@ -1052,7 +1046,7 @@ then, subject to subsection (7), subsection (3) applies to the person as if:
 
                      (b)  if the previous election made by the person had specified a lesser amount than the previous maximum amount—an amount calculated by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image006.gif)
 
              (7)  Where, because of subsection (5), subsection (3) applies to a person (in this subsection called the **_recipient member_**), there must be deducted from the amount that, apart from this subsection, would be payable to the recipient member under paragraph (3)(a) an amount equal to the sum of:
 
@@ -1082,7 +1076,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image007.gif)
 
 where:
 
@@ -1108,7 +1102,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the retirement pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image007.gif)
 
                             where:
 
@@ -1315,7 +1309,7 @@ CSC must:
 
              (4)  If the member of the scheme makes an election under subsection 124(1), the rate at which invalidity pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image004.gif)
 
 where:
 
@@ -1333,7 +1327,7 @@ where:
 
                      (b)  if the member makes an election under subsection 124(1)—to invalidity pay at the rate at which retirement pay would have been payable to the member if the member had made an election under subsection 124(1) in respect of the retirement pay.
 
-            (2)   Where subsection (1) does not apply to a member of the scheme who is entitled to invalidity benefit and is classified as Class C under section 30 (whether on his retirement or by reason of his having been reclassified under subsection 34(1)), the member is entitled to a lump sum payment of an amount worked out under subsection (3). 
+                     (2)  Where subsection (1) does not apply to a member of the scheme who is entitled to invalidity benefit and is classified as Class C under section 30 (whether on his retirement or by reason of his having been reclassified under subsection 34(1)), the member is entitled to a lump sum payment of an amount worked out under subsection (3). 
 
              (3)  The amount of the lump sum payment referred to in subsection (2) is:
 
@@ -1379,7 +1373,7 @@ exceeds the amount per annum of the invalidity pay to which the member of the sc
 
           (4A)  For the purposes of subsection (4), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image005.gif)
 
 where **_A_** is:
 
@@ -1425,7 +1419,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image007.gif)
 
 where:
 
@@ -1451,7 +1445,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the invalidity pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image007.gif)
 
 where:
 
@@ -1757,7 +1751,7 @@ the person (in this section called the **_elector_**) may, by notice in writing 
 
              (3)  The amount referred to in subsection (2) must not exceed an amount calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image008.gif)
 
 where:
 
@@ -1789,7 +1783,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the commuted amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image007.gif)
 
 where:
 
@@ -1825,7 +1819,7 @@ where:
 
 then, subject to subsection (2A), there is payable to the orphan or each of the orphans, instead of the pensions described in subsection (2), a pension at the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image004.gif)
 
 where:
 
@@ -2144,7 +2138,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image009.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image009.gif)
 
 ### Division 2—Benefits for non‑member spouse
 
@@ -2374,7 +2368,7 @@ then, subject to sections 62, 63 and 64, upon his again becoming such an eligi
 
              (2)  The amount of a fortnightly instalment of pension benefit shall be an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image010.gif)
 
 where **_P_** is the amount per annum of the pension benefit.
 
@@ -2835,7 +2829,7 @@ the amount of the transfer value is the difference between:
 
 the rate at which retirement pay is payable to the person is (instead of the rate provided for in section 23) an amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image007.gif)
 
 where:
 
@@ -2869,7 +2863,7 @@ then, subject to subsection (4A), the rate at which retirement pay is payable 
 
 the rate at which retirement pay is payable to the person is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image007.gif)
 
 where:
 
@@ -3119,7 +3113,7 @@ by notice in writing to CSC revoke the election and, in that case, paragraphs 
 
            (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Finance Minister under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
 
-           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image011.gif), where:
+           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image011.gif), where:
 
 **_a_** is the amount of the annual premium, or the sum of the amounts of the annual premiums, applicable at that time under the life policy or life policies assigned by him to the Commonwealth in accordance with subsection (3) or issued in relation to him in accordance with subsection (4).
 
@@ -3265,7 +3259,7 @@ he may, by notice in writing given to CSC, within a period of 90 days after the 
 
 ##### <a id="91"></a>91  Certain periods of previous service deemed to be periods of effective service
 
-             (1)  Subject to subsection (1A), a period that is a period of previous contributory qualifying service in relation to an existing contributor, or a period that is a period of previous non-contributory qualifying service in relation to a member of the scheme, shall, for the purposes of this Act, be deemed to be a period of effective service in relation to him.
+             (1)  Subject to subsection (1A), a period that is a period of previous contributory qualifying service in relation to an existing contributor, or a period that is a period of previous non contributory qualifying service in relation to a member of the scheme, shall, for the purposes of this Act, be deemed to be a period of effective service in relation to him.
 
           (1A)  Where a period would be a period of effective service in relation to a person by virtue of section 63 or 64 if the person were to make an election under subsection 63(1) or 64(1), as the case requires, and comply with subsection 63(2) or 64(2), as the case requires, subsection (1) of this section does not apply in relation to the period unless the period is also a period of effective service in relation to the person by virtue of section 63 or 64.
 
@@ -3369,7 +3363,7 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
              (2)  The increase provided for by subsection (1) in the rate at which a pension benefit was payable to a pensioner immediately before the commencement of a prescribed half‑year (in this section referred to as the **_relevant prescribed half‑year_**) is the prescribed percentage, ascertained in accordance with subsection (3), of the rate of pension benefit that, under subsection (4), is the relevant rate of pension in relation to the pensioner.
 
-             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half‑year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2012C00559/Html/c4c080f0-e545-4d9c-b8ca-33345f449789_files/image012.gif) expressed as a percentage of **_B_**, where:
+             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half‑year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2012C00073/Html/70d5eada-5cf6-4e3b-a5e2-3377facc4f54_files/image012.gif) expressed as a percentage of **_B_**, where:
 
                     <a name=""></a>**_A_** is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half‑year immediately preceding the prescribed half‑year; and
 
@@ -3792,176 +3786,6 @@ may, not earlier than 3 months before, and not later than one year after, that b
 is applicable for the purpose of working out, in relation to the member, the yearly amount that would have to be paid to discharge a liability equal to the member’s surcharge deduction amount.
 
              (2)  A determination under subsection (1) must be published in the _Gazette_.
-
-##### <a id="124B"></a>124B  Recoverable payments
-
-             (1)  If, apart from this subsection, the Commonwealth does not have power, under this Act or the previous legislation, to pay an amount (the **_relevant amount_**) to a person (the **_recipient_**) purportedly as a benefit, then the Commonwealth may pay the relevant amount to the recipient.
-
-Recovery
-
-             (2)  If a payment is made under subsection (1) to the recipient, the relevant amount:
-
-                     (a)  is a debt due to the Commonwealth by the recipient; and
-
-                     (b)  may be recovered by the Chief Executive Officer of ComSuper, on behalf of the Commonwealth, in a court of competent jurisdiction.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-             (3)  If:
-
-                     (a)  a payment is made under subsection (1) to the recipient; and
-
-                     (b)  the recipient is receiving, or is entitled to receive, a benefit;
-
-then:
-
-                     (c)  the relevant amount; or
-
-                     (d)  such part of the relevant amount as the Chief Executive Officer of ComSuper determines;
-
-may, if the Chief Executive Officer of ComSuper so directs, be recovered by deduction from that benefit.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-             (4)  For the purposes of subsections 126(4) and (5), in determining whether an amount is payable, disregard subsection (1) of this section.
-
-             (5)  If the relevant amount is recovered under subsection 126(4) or (5), the relevant amount cannot be recovered under subsection (2) or (3) of this section.
-
-             (6)  If the relevant amount is recovered under subsection (2) or (3) of this section, the relevant amount cannot be recovered under subsection 126(4) or (5).
-
-Benefit
-
-             (7)  For the purposes of this section, **_benefit_** includes pension or other money payable under the previous legislation.
-
-##### <a id="124C"></a>124C  Recoverable death payments
-
-             (1)  If, apart from this subsection, the Commonwealth does not have power, under this Act or the previous legislation, to pay an amount (the **_relevant amount_**) in any of the following circumstances:
-
-                     (a)  the relevant amount is deposited to an account kept in the name of a deceased person;
-
-                     (b)  the relevant amount is deposited to an account kept in the names of a deceased person and another person;
-
-                     (c)  the relevant amount is paid by way of a cheque made out to a deceased person;
-
-the Commonwealth may pay the relevant amount in the circumstances mentioned in paragraph (a), (b) or (c), so long as:
-
-                     (d)  on the last day on which changes could reasonably be made to the payment of the relevant amount, the Chief Executive Officer of ComSuper did not know that the deceased person had died; and
-
-                     (e)  apart from this subsection, the relevant amount would have been payable as a benefit to the deceased person if the deceased person had not died.
-
-             (2)  If a payment is made under subsection (1), the relevant amount is taken to have been paid to the deceased person’s estate.
-
-Recovery
-
-             (3)  If a payment is made under subsection (1), the relevant amount:
-
-                     (a)  is a debt due to the Commonwealth by the legal personal representative of the deceased person; and
-
-                     (b)  may be recovered by the Chief Executive Officer of ComSuper, on behalf of the Commonwealth, in a court of competent jurisdiction.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-             (4)  For the purposes of subsections 126(4) and (5), in determining whether an amount is payable, disregard subsection (1) of this section.
-
-             (5)  If the relevant amount is recovered under subsection 126(4) or (5), the relevant amount cannot be recovered under subsection (3) of this section.
-
-             (6)  If the relevant amount is recovered under subsection (3) of this section, the relevant amount cannot be recovered under subsection 126(4) or (5).
-
-Benefit
-
-             (7)  For the purposes of this section, **_benefit_** includes pension or other money payable under the previous legislation.
-
-##### <a id="124D"></a>124D  Reports about recoverable payments and recoverable death payments
-
-             (1)  During the applicable publication period for a reporting period, the Secretary of the Department must cause to be published, in such manner as the Secretary thinks fit, a report that sets out:
-
-                     (a)  both:
-
-                              (i)  the number of payments made under subsection 124B(1) during the reporting period; and
-
-                             (ii)  the total amount of those payments; and
-
-                     (b)  both:
-
-                              (i)  the number of payments made under subsection 124C(1) during the reporting period; and
-
-                             (ii)  the total amount of those payments.
-
-             (2)  However, a report is not required if:
-
-                     (a)  the number mentioned in subparagraph (1)(a)(i) is zero; and
-
-                     (b)  the number mentioned in subparagraph (1)(b)(i) is zero.
-
-Deferred reporting
-
-             (3)  Paragraph (1)(a) of this section does not require a report to deal with a payment unless, before the preparation of the report, a Departmental official was aware the payment was made under subsection 124B(1).
-
-             (4)  Paragraph (1)(b) of this section does not require a report to deal with a payment unless, before the preparation of the report, a Departmental official was aware the payment was made under subsection 124C(1).
-
-             (5)  For the purposes of this section, if:
-
-                     (a)  a payment was made under subsection 124B(1) or 124C(1) in a reporting period; and
-
-                     (b)  either:
-
-                              (i)  because of subsection (3) of this section, paragraph (1)(a) of this section did not require a report to deal with the payment; or
-
-                             (ii)  because of subsection (4) of this section, paragraph (1)(b) of this section did not require a report to deal with the payment; and
-
-                     (c)  during a later reporting period, a Departmental official becomes aware that the payment was made under subsection 124B(1) or 124C(1), as the case may be;
-
-the payment is subject to a **_deferred reporting obligation_** in relation to the later reporting period.
-
-             (6)  If one or more payments made under subsection 124B(1) during a reporting period are subject to a deferred reporting obligation in relation to a later reporting period, the Secretary of the Department must, during the applicable publication period for the later reporting period:
-
-                     (a)  prepare a report that sets out:
-
-                              (i)  the number of those payments; and
-
-                             (ii)  the total amount of those payments; and
-
-                            (iii)  the reporting period during which the payments were made; and
-
-                     (b)  if a report is required under subsection (1) in relation to the later reporting period—include the paragraph (a) report in the subsection (1) report; and
-
-                     (c)  if paragraph (b) does not apply—publish, in such manner as the Secretary thinks fit, the paragraph (a) report.
-
-             (7)  If one or more payments made under subsection 124C(1) during a reporting period are subject to a deferred reporting obligation in relation to a later reporting period, the Secretary of the Department must, during the applicable publication period for the later reporting period:
-
-                     (a)  prepare a report that sets out:
-
-                              (i)  the number of those payments; and
-
-                             (ii)  the total amount of those payments; and
-
-                            (iii)  the reporting period during which the payments were made; and
-
-                     (b)  if a report is required under subsection (1) in relation to the later reporting period—include the paragraph (a) report in the subsection (1) report; and
-
-                     (c)  if paragraph (b) does not apply—publish, in such manner as the Secretary thinks fit, the paragraph (a) report.
-
-Reporting period
-
-             (8)  For the purposes of this section, a **_reporting period_** is:
-
-                     (a)  a financial year; or
-
-                     (b)  if a shorter recurring period is specified in a legislative instrument made by the Minister—that period.
-
-Applicable publication period
-
-             (9)  For the purposes of this section, the **_applicable publication period_** for a reporting period is the period of:
-
-                     (a)  4 months; or
-
-                     (b)  if a lesser number of months is specified, in relation to the reporting period, in a legislative instrument made by the Minister—that number of months;
-
-beginning immediately after the end of the reporting period.
-
-Departmental official
-
-           (10)  For the purposes of this section, **_Departmental official_** means an official (within the meaning of the _Financial Management and Accountability Act 1997_) who is in the Department or is part of the Department.
 
 ##### <a id="125"></a>125  Payments by the Commonwealth
 
@@ -5252,7 +5076,7 @@ Remainder: Royal Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Ss. 25(2), 30(2)–(5), 35(2) and 49–51 
+    <div>Ss. 25(2), 30(2)–(5) and 49–51 
 Ss. 21(3) and (4) (am. by 65, 1987, s. 51).</div>
   </td>
 </tr>
@@ -5733,7 +5557,7 @@ Schedule (Parts 3 and 6): <i>(f)</i></div>
   </td>
   <td>
     <div>S. 29 
-S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3 \[item 17])</div>
+S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -5764,7 +5588,7 @@ S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3 \[item 17])</div>
     <div>3 Nov 1993</div>
   </td>
   <td>
-    <div>S.4: 10 Mar 1993</div>
+    <div>10 Mar 1993</div>
   </td>
   <td>
     <div>—</div>
@@ -5867,7 +5691,7 @@ Remainder: Royal Assent</div>
     <div>17 June 1999</div>
   </td>
   <td>
-    <div>Schedule 7 (items 28, 29): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(j)</i></div>
+    <div>Schedule 7 (items 28, 29): I July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(j)</i></div>
   </td>
   <td>
     <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
@@ -6252,23 +6076,6 @@ Schedule 6: 1 Jan 2008 ( <i>see</i>F2007L04119)</div>
     <div>Schedule 1 (items 36–58, 246): <i>(o)</i></div>
   </td>
   <td>
-    <div>Sch. 2 (items 15(1), (2))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
-  </td>
-  <td>
-    <div>82, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 43): 29 June 2012</div>
-  </td>
-  <td>
     <div>—</div>
   </td>
 </tr></table>
@@ -6296,17 +6103,13 @@ _(e)_     The _Defence Force Superannuation Legislation Amendment Act 19
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(f)_      The _Defence Force Retirement and Death Benefits Act 1973_ was amended by section 29 and the Schedule (Parts 3 and 6) only of the _Qantas Sale Act 1992_, subsections 2(2), (3)(b), (c), (5) and (6) of which provide as follows: 
+_(f)_      The _Defence Force Retirement and Death Benefits Act 1973_ was amended by section 29 and the Schedule (Parts 3 and 6) only of the _Qantas Sale Act 1992_, subsections 2(2), (3)(b), (5) and (6) of which provide as follows: 
 
                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation. 
 
                  (3)   A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the _Gazette_ but only if: 
 
                               (b)   in the case of sections 22, 23, 26, 27, 29, 32, 33, 34, 42, 45, 46, 47, 48 and 49 and Parts 3 and 4 of the Schedule—the day is not earlier than the 50% sale day; and 
-
-                              (c)   in the case of sections 25, 36, 38, 44 and 51 and Parts 5, 6 and 7 of
-
-the Schedule-the day is not earlier than the 100% sale day
 
                  (5)   If, on the 100% sale day, Part 3 of the Schedule has not commenced, then, on the day on which Part 7 of the Schedule commences, Parts 3 and 6 of the Schedule are taken to have been repealed. 
 
@@ -8374,30 +8177,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>S. 124B</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 124C</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 124D</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 126</div>
   </td>
   <td>
@@ -8703,33 +8482,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011 (No. 58, 2011)_
-
-## Schedule 2
-
-## 15  Rights of review of certain decisions
-
-(1)       Despite the amendment of section 99 of the _Defence Force Retirement and Death Benefits Act 1973_ by Schedule 1 to this Act, an application may be made to CSC under that section for review of a decision by the Authority, or a delegate of the Authority, made before commencement under:
-
-                     (a)  that Act; or
-
-                     (b)  the _Defence Forces Retirement Benefits Act 1948_; or
-
-                     (c)  any other Act that relates to retirement benefits for members of the Defence Force and modifies or affects the provisions of the _Defence Forces Retirement Benefits Act 1948_;
-
-and for this purpose, a reference to the Authority in that section is to be read as a reference to CSC.
-
-(2)       Despite the amendment of section 99 of the _Defence Force Retirement and Death Benefits Act 1973_ by Schedule 1 to this Act, an application may be made to the Administrative Appeals Tribunal under that section for review of a decision by the Authority, or a delegate of the Authority, made before commencement under:
-
-                     (a)  that Act; or
-
-                     (b)  the _Defence Forces Retirement Benefits Act 1948_; or
-
-                     (c)  any other Act that relates to retirement benefits for members of the Defence Force and modifies or affects the provisions of the _Defence Forces Retirement Benefits Act 1948_;
-
-if, at commencement, the period for making an application for review has not ended.
 
  
