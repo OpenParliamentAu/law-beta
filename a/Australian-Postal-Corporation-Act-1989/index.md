@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00007/Html/AusPostalCorporation1989WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00543/Html/AusPostalCorporation1989WD02_image001.gif)
 
 # Australian Postal Corporation Act 1989
 
 **Act No. 64 of 1989 as amended**
 
-This compilation was prepared on 1 January 2011
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 20 July 2010
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -122,7 +122,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32C](#32C).       Terms and conditions—incoming overseas mail service
 
-[32D](#32D).       Exemption from Part IIIA of the Competition and Consumer Act
+[32D](#32D).       Exemption from Part IIIA of the Trade Practices Act
 
 [33](#33).          Certain postage charges subject to Ministerial review
 
@@ -748,7 +748,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                    Australia Post shall perform its functions in a way consistent with:
 
-                     (a)  any General Policy Orders made under section 48A of the _Commonwealth Authorities and Companies Act 1997_ that apply to Australia Post and to its directors under section 28 of that Act;
+                     (a)  any general policies of the Commonwealth Government of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_;
 
                      (b)  any directions given by the Minister under section 49; and
 
@@ -1006,7 +1006,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
              (4)  A contravention of subsection (3) in relation to a determination does not affect the validity of the determination.
 
-             (5)  This section has effect subject to section 33 of this Act and to Part VIIA of the _Competition and Consumer Act 2010_.
+             (5)  This section has effect subject to section 33 of this Act and to Part VIIA of the _Trade Practices Act 1974_.
 
 ##### <a id="32A"></a>32A  Terms and conditions—bulk interconnection service
 
@@ -1042,7 +1042,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (d)  for the provision of information by Australia Post to the ACCC in connection with the exercise of powers conferred on the ACCC under paragraph (a); and
 
-                    (da)  for the ACCC to use for the purposes described in paragraph (a) information obtained under Part VIIA of the _Competition and Consumer Act 2010_;
+                    (da)  for the ACCC to use for the purposes described in paragraph (a) information obtained under Part VIIA of the _Trade Practices Act 1974_;
 
                      (e)  for the matters to be taken into account by the ACCC in exercising powers conferred under paragraph (a); and
 
@@ -1060,9 +1060,9 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
           (1A)  Regulations made under paragraph (1)(f) must not authorise the making of directions that are inconsistent with subsection 32A(2).
 
-             (2)  The regulations may provide as specified in subsection (1) in spite of anything in the _Competition and Consumer Act 2010_.
+             (2)  The regulations may provide as specified in subsection (1) in spite of anything in the _Trade Practices Act 1974_.
 
-##### <a id="32C"></a>32C  Terms and conditions—incoming overseas mail service
+##### <a id="32C"></a>32C  Terms and conditions—incoming overseas mail service
 
              (1)  This section applies to a service supplied by Australia Post (an **_incoming overseas mail service_**) under which letters received by Australia Post from a country or place outside Australia are carried and delivered within Australia.
 
@@ -1074,9 +1074,9 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
              (3)  The terms and conditions of an incoming overseas mail service are not required to be limited to the matters mentioned in this section.
 
-##### <a id="32D"></a>32D  Exemption from Part IIIA of the Competition and Consumer Act
+##### <a id="32D"></a>32D  Exemption from Part IIIA of the Trade Practices Act
 
-                   Part IIIA of the _Competition and Consumer Act 2010_ does not apply in relation to the supply of a service (including a bulk interconnection service and an incoming overseas mail service) by Australia Post.
+                   Part IIIA of the _Trade Practices Act 1974_ does not apply in relation to the supply of a service (including a bulk interconnection service and an incoming overseas mail service) by Australia Post.
 
 ##### <a id="33"></a>33  Certain postage charges subject to Ministerial review
 
@@ -1120,7 +1120,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (c)  whether or not there is imminent danger of substantial damage to Australia Post if the person engages in conduct of that kind.
 
-          (6A)  The following conduct is authorised for the purposes of subsection 51(1) of the _Competition and Consumer Act 2010_:
+          (6A)  The following conduct is authorised for the purposes of subsection 51(1) of the _Trade Practices Act 1974_:
 
                      (a)  making and carrying out an agreement described in subsection (2) of this section;
 
@@ -1174,7 +1174,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (g)  the cost of carrying out Australia Post’s community service obligations;
 
-                     (h)  the cost of performing Australia Post’s functions in a manner consistent with any General Policy Orders made under section 48A of the _Commonwealth Authorities and Companies Act 1997_ that apply to Australia Post and to its directors under section 28 of that Act;
+                     (h)  the cost of performing Australia Post’s functions in a manner consistent with the general policies of the Commonwealth Government of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_;
 
                       (j)  the cost of implementing any directions given by the Minister under section 49; and
 
@@ -1226,7 +1226,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (g)  include particulars of:
 
-                              (i)  any General Policy Orders made under section 48A of the _Commonwealth Authorities and Companies Act 1997_ that apply to Australia Post and to its directors under section 28 of that Act, and are applicable to the year; and
+                              (i)  any general policies of the Commonwealth Government of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_ that are applicable to the year; and
 
                              (ii)  any directions given by the Minister under section 49 that are applicable to the year; and
 
@@ -1288,7 +1288,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                               (i)  the cost of carrying out Australia Post’s community service obligations;
 
-                             (ii)  the cost of performing Australia Post’s functions in a way consistent with any General Policy Orders made under section 48A of the _Commonwealth Authorities and Companies Act 1997_ that apply to Australia Post and to its directors under section 28 of that Act;
+                             (ii)  the cost of performing Australia Post’s functions in a manner consistent with the general policies of the Commonwealth Government of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_;
 
                             (iii)  the cost of implementing any directions given by the Minister under section 49; and
 
@@ -1320,7 +1320,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
 ##### <a id="50"></a>50  Australia Post and Board not otherwise subject to government direction
 
-                   Except as otherwise provided by or under this or any other Act, Australia Post and its Board are not subject to direction by or on behalf of the Australian Government.
+                   Except as otherwise provided by or under this or any other Act, Australia Post and its Board are not subject to direction by or on behalf of the Commonwealth Government.
 
 ## Part 4A—Monitoring of Australia Post
 
@@ -1814,7 +1814,7 @@ the Deputy Chairperson shall act as Chairperson.
 
                    For the purposes of the laws of the Commonwealth, or of a State or Territory, Australia Post is not entitled to any immunity or privilege of the Commonwealth except so far as express provision is made by this Act or any other law of the Commonwealth, or by a law of the State or Territory.
 
-##### <a id="90B"></a>90B  Discriminatory laws do not apply
+##### <a id="90B"></a>90B  Discriminatory laws do not apply
 
                    A law of a State or Territory does not apply to Australia Post if, apart from this section, it would:
 
@@ -1912,7 +1912,7 @@ only applies to Australia Post on and after that day.
 
                     <a name="consum-protect-law"></a>**_consumer protection law_** means:
 
-                     (a)  the _Competition and Consumer Act 2010_; or
+                     (a)  the _Trade Practices Act 1974_; or
 
                      (b)  the _Australian Securities and Investments Commission Act 2001_; or
 
@@ -3625,24 +3625,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 32–37): 1 Jan 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3: 18 Dec 2010</div>
+    <div>Schedule 6 (items 1, 32–37): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -3909,7 +3892,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 148, 2010</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4045,7 +4028,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 142, 1994; No. 134, 2003; No. 103, 2010</div>
+    <div>am. No. 142, 1994; No. 134, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4077,7 +4060,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div></div>
   </td>
   <td>
-    <div>am. No. 88, 1995; No. 134, 2003; No. 69, 2004; No. 103, 2010</div>
+    <div>am. No. 88, 1995; No. 134, 2003; No. 69, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4090,26 +4073,10 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 32D</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 32D</div>
   </td>
   <td>
     <div>ad. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4133,7 +4100,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div></div>
   </td>
   <td>
-    <div>am. No. 88, 1995; No. 103, 2010</div>
+    <div>am. No. 88, 1995</div>
   </td>
 </tr>
 <tr>
@@ -4157,7 +4124,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 38</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 148, 2010</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4213,7 +4180,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 142, 1994; No. 152, 1997; No. 148, 2010</div>
+    <div>am. No. 142, 1994; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4229,7 +4196,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 142, 1994; No. 152, 1997; No. 148, 2010</div>
+    <div>am. No. 142, 1994; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4238,14 +4205,6 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
   </td>
   <td>
     <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4485,7 +4444,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div></div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 101, 2006; No. 156, 2007; No. 33, 2009; No. 103, 2010</div>
+    <div>am. No. 161, 1999; No. 101, 2006; No. 156, 2007; No. 33, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4880,6 +4839,37 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>am. No. 142, 1994; No. 156, 2007</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Australian Postal Corporation Act 1989</h9>
+
+## 32  Subsection 32(5)
+
+## 33  Paragraph 32B(1)(da)
+
+## 34  Subsection 32B(2)
+
+## 35  Section 32D
+
+_Note:       The heading to section 32D is altered by omitting “Trade Practices Act” and substituting “Competition and Consumer Act”._
+
+## 36  Subsection 33A(6A)
+
+## 37  Section 90E (paragraph (a) of the definition of _consumer protection law_)
+
+As at 20 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
