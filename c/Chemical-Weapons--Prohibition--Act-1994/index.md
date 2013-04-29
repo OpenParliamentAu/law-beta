@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00057/Html/0cff7762-a7cb-4966-a26e-7466a77ded5b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00716/Html/277c1472-2cc0-4fd4-a6ed-913c625cdc1e_files/image001.gif)
 
 # Chemical Weapons (Prohibition) Act 1994
 
 **Act No. 26 of 1994 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 2 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -114,7 +114,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35](#35).          Compliance inspections by national inspectors
 
-[36](#36).          Period within which compliance inspection may be carried out
+[36](#36).          Period within which compliance inspection may be carried 
+ out
 
     **Division 2—International compliance inspections**
 
@@ -194,7 +195,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [70](#70).          Compensation for damage to electronic equipment
 
-[71](#71).          Offence of making false statements in applications for warrant
+[71](#71).          Offence of making false statements in applications for 
+ warrant
 
 [72](#72).          Offences relating to telephone warrants
 
@@ -494,7 +496,7 @@ Note:          Extended geographical jurisdiction applies to t
 
              (3)  For the purposes of this Act, the regulations may provide that **_production_**, in relation to a specified chemical, has the meaning prescribed by the regulations.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see section 46 of the _Acts Interpretation Act 1901_.
 
 ##### <a id="9"></a>9  Conduct by directors, servants and agents
 
@@ -570,7 +572,7 @@ any amount of such a chemical that is, or was, subjected to more than one of tho
 
              (9)  Subsection (8) does not limit subsection (3), (4), (5), (6) or (7).
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see section 46 of the _Acts Interpretation Act 1901_.
 
 ##### <a id="11"></a>11  Application of Act
 
@@ -2442,7 +2444,9 @@ and, in particular making provision with respect to:
 
                      (d)  the imposition of penalties, not exceeding a fine of 10 penalty units, for offences against the regulations; and
 
-                     (e)  the making of reports to the Organization in compliance with Australia’s obligations under the Convention.
+                     (e)  the making of reports to the Organization in compliance with Australia’s obligations under the Convention. 
+
+ 
 
 # Schedule—The Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction
 
@@ -2801,7 +2805,7 @@ Article I
 
 General obligations
 
-1.      Each State Party to this Convention undertakes never under any circumstances:
+1.  Each State Party to this Convention undertakes never under any circumstances:
 
 (a)   to develop, produce, otherwise acquire, stockpile or retain chemical weapons, or transfer, directly or indirectly, chemical weapons to anyone;
 
@@ -2811,13 +2815,13 @@ General obligations
 
 (d)   to assist, encourage or induce, in any way, anyone to engage in any activity prohibited to a State Party under this Convention.
 
-2.      Each State Party undertakes to destroy chemical weapons it owns or possesses, or that are located in any place under its jurisdiction or control, in accordance with the provisions of this Convention.
+2.  Each State Party undertakes to destroy chemical weapons it owns or possesses, or that are located in any place under its jurisdiction or control, in accordance with the provisions of this Convention.
 
-3.      Each State Party undertakes to destroy all chemical weapons it abandoned on the territory of another State Party, in accordance with the provisions of this Convention.
+3.  Each State Party undertakes to destroy all chemical weapons it abandoned on the territory of another State Party, in accordance with the provisions of this Convention.
 
-4.      Each State Party undertakes to destroy any chemical weapons production facilities it owns or possesses, or that are located in any place under its jurisdiction or control, in accordance with the provisions of this Convention.
+4.  Each State Party undertakes to destroy any chemical weapons production facilities it owns or possesses, or that are located in any place under its jurisdiction or control, in accordance with the provisions of this Convention.
 
-5.      Each State Party undertakes not to use riot control agents as a method of warfare.
+5.  Each State Party undertakes not to use riot control agents as a method of warfare.
 
 Article II
 
@@ -2825,7 +2829,7 @@ Definitions and criteria
 
 For the purposes of this Convention:
 
-1.      “Chemical Weapons” means the following, together or separately:
+1.  “Chemical Weapons” means the following, together or separately:
 
 (a)   toxic chemicals and their precursors, except where intended for purposes not prohibited under this Convention, as long as the types and quantities are consistent with such purposes;
 
@@ -2833,37 +2837,37 @@ For the purposes of this Convention:
 
 (c)   any equipment specifically designed for use directly in connection with the employment of munitions and devices specified in subparagraph (b).
 
-2.      “Toxic Chemical” means:
+2.  “Toxic Chemical” means:
 
 Any chemical which through its chemical action on life processes can cause death, temporary incapacitation or permanent harm to humans or animals. This includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
 
 (For the purpose of implementing this Convention, toxic chemicals which have been identified for the application of verification measures are listed in Schedules contained in the Annex on Chemicals.)
 
-3.      “Precursor” means:
+3.  “Precursor” means:
 
 Any chemical reactant which takes part at any stage in the production by whatever method of a toxic chemical. This includes any key component of a binary or multicomponent chemical system.
 
 (For the purpose of implementing this Convention, precursors which have been identified for the application of verification measures are listed in Schedules contained in the Annex on Chemicals.)
 
-4.      “Key Component of Binary or Multicomponent Chemical Systems” (hereinafter referred to as “key component”) means:
+4.  “Key Component of Binary or Multicomponent Chemical Systems” (hereinafter referred to as “key component”) means:
 
 The precursor which plays the most important role in determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
 
-5.      “Old Chemical Weapons” means:
+5.  “Old Chemical Weapons” means:
 
 (a)   chemical weapons which were produced before 1925; or 
 
 (b)   chemical weapons produced in the period between 1925 and 1946 that have deteriorated to such extent that they can no longer be used as chemical weapons.
 
-6.      “Abandoned Chemical Weapons” means:
+6.  “Abandoned Chemical Weapons” means:
 
 Chemical weapons, including old chemical weapons, abandoned by a State after 1 January 1925 on the territory of another State without the consent of the latter.
 
-7.      “Riot Control Agent” means:
+7.  “Riot Control Agent” means:
 
 Any chemical not listed in a Schedule, which can produce rapidly in humans sensory irritation or disabling physical effects which disappear within a short time following termination of exposure.
 
-8.      “Chemical Weapons Production Facility”:
+8.  “Chemical Weapons Production Facility”:
 
 (a)   means any equipment, as well as any building housing such equipment, that was designed, constructed or used at any time since 1 January 1946:
 
@@ -2873,7 +2877,7 @@ Any chemical not listed in a Schedule, which can produce rapidly in humans senso
 
 (2)   any other chemical that has no use, above 1 tonne per year on the territory of a State Party or in any other place under the jurisdiction or control of a State Party, for purposes not prohibited under this Convention, but can be used for chemical weapons purposes;
 
-               or
+                or
 
 (ii)   for filling chemical weapons, including, _inter alia_, the filling of chemicals listed in Schedule 1 into munitions, devices or bulk storage containers; the filling of chemicals into containers that form part of assembled binary munitions and devices or into chemical submunitions that form part of assembled unitary munitions and devices, and the loading of the containers and chemical submunitions into the respective munitions and devices;
 
@@ -2885,7 +2889,7 @@ Any chemical not listed in a Schedule, which can produce rapidly in humans senso
 
 (iii)  the single small‑scale facility for production of chemicals listed in Schedule 1 for purposes not prohibited under this Convention as referred to in Part VI of the Verification Annex.
 
-9.      “Purposes Not Prohibited Under this Convention” means:
+9.  “Purposes Not Prohibited Under this Convention” means:
 
 (a)   industrial, agricultural, research, medical, pharmaceutical or other peaceful purposes;
 
@@ -2895,13 +2899,13 @@ Any chemical not listed in a Schedule, which can produce rapidly in humans senso
 
 (d)   law enforcement including domestic riot control purposes.
 
-10.    “Production Capacity” means:
+10.         “Production Capacity” means:
 
 The annual quantitative potential for manufacturing a specific chemical based on the technological process actually used or, if the process is not yet operational, planned to be used at the relevant facility. It shall be deemed to be equal to the nameplate capacity or, if the nameplate capacity is not available, to the design capacity. The nameplate capacity is the product output under conditions optimized for maximum quantity for the production facility, as demonstrated by one or more test‑runs. The design capacity is the corresponding theoretically calculated product output.
 
-11.    “Organization” means the Organization for the Prohibition of Chemical Weapons established pursuant to Article VIII of this Convention.
+11.  “Organization” means the Organization for the Prohibition of Chemical Weapons established pursuant to Article VIII of this Convention.
 
-12.    For the purposes of Article VI:
+12.  For the purposes of Article VI:
 
 (a)   “production” of a chemical means its formation through chemical reaction;
 
@@ -2913,7 +2917,7 @@ Article III
 
 Declarations
 
-1.      Each State Party shall submit to the Organization, not later than 30 days after this Convention enters into force for it, the following declarations, in which it shall:
+1.  Each State Party shall submit to the Organization, not later than 30 days after this Convention enters into force for it, the following declarations, in which it shall:
 
 (a)   With respect to chemical weapons:
 
@@ -2959,25 +2963,25 @@ Declarations
 
        specify the chemical name, structural formula and Chemical Abstracts Service (CAS) registry number, if assigned, of each chemical it holds for riot control purposes. This declaration shall be updated not later than 30 days after any change becomes effective.
 
-2.      The provisions of this Article and the relevant provisions of Part IV of the Verification Annex shall not, at the discretion of a State Party, apply to chemical weapons buried on its territory before 1 January 1977 and which remain buried, or which had been dumped at sea before 1 January 1985.
+2.         The provisions of this Article and the relevant provisions of Part IV of the Verification Annex shall not, at the discretion of a State Party, apply to chemical weapons buried on its territory before 1 January 1977 and which remain buried, or which had been dumped at sea before 1 January 1985.
 
 Article IV
 
 Chemical weapons
 
-1.      The provisions of this Article and the detailed procedures for its implementation shall apply to all chemical weapons owned or possessed by a State Party, or that are located in any place under its jurisdiction or control, except old chemical weapons and abandoned chemical weapons to which Part IV(B) of the Verification Annex applies.
+1.         The provisions of this Article and the detailed procedures for its implementation shall apply to all chemical weapons owned or possessed by a State Party, or that are located in any place under its jurisdiction or control, except old chemical weapons and abandoned chemical weapons to which Part IV(B) of the Verification Annex applies.
 
-2.      Detailed procedures for the implementation of this Article are set forth in the Verification Annex.
+2.         Detailed procedures for the implementation of this Article are set forth in the Verification Annex.
 
-3.      All locations at which chemical weapons specified in paragraph 1 are stored or destroyed shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments, in accordance with Part IV(A) of the Verification Annex.
+3.         All locations at which chemical weapons specified in paragraph 1 are stored or destroyed shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments, in accordance with Part IV(A) of the Verification Annex.
 
-4.      Each State Party shall, immediately after the declaration under Article III, paragraph 1, has been submitted, provide access to chemical weapons specified in paragraph 1 for the purpose of systematic verification of the declaration through on‑site inspection. Thereafter, each State Party shall not remove any of these chemical weapons, except to a chemical weapons destruction facility. It shall provide access to such chemical weapons, for the purpose of systematic on‑site verification.
+4.         Each State Party shall, immediately after the declaration under Article III, paragraph 1, has been submitted, provide access to chemical weapons specified in paragraph 1 for the purpose of systematic verification of the declaration through on‑site inspection. Thereafter, each State Party shall not remove any of these chemical weapons, except to a chemical weapons destruction facility. It shall provide access to such chemical weapons, for the purpose of systematic on‑site verification.
 
-5.      Each State Party shall provide access to any chemical weapons destruction facilities and their storage areas, that it owns or possesses, or that are located in any place under its jurisdiction or control, for the purpose of systematic verification through on‑site inspection and monitoring with on‑site instruments.
+5.         Each State Party shall provide access to any chemical weapons destruction facilities and their storage areas, that it owns or possesses, or that are located in any place under its jurisdiction or control, for the purpose of systematic verification through on‑site inspection and monitoring with on‑site instruments.
 
-6.      Each State Party shall destroy all chemical weapons specified in paragraph 1 pursuant to the Verification Annex and in accordance with the agreed rate and sequence of destruction(hereinafter referred to as “order of destruction”). Such destruction shall begin not later than two years after this Convention enters into force for it and shall finish not later than 10 years after entry into force of this Convention. A State Party is not precluded from destroying such chemical weapons at a faster rate.
+6.         Each State Party shall destroy all chemical weapons specified in paragraph 1 pursuant to the Verification Annex and in accordance with the agreed rate and sequence of destruction(hereinafter referred to as “order of destruction”). Such destruction shall begin not later than two years after this Convention enters into force for it and shall finish not later than 10 years after entry into force of this Convention. A State Party is not precluded from destroying such chemical weapons at a faster rate.
 
-7.      Each State Party shall:
+7.         Each State Party shall:
 
 (a)   submit detailed plans for the destruction of chemical weapons specified in paragraph 1 not later than 60 days before each annual destruction period begins, in accordance with Part IV(A), paragraph 29, of the Verification Annex; the detailed plans shall encompass all stocks to be destroyed during the next annual destruction period;
 
@@ -2985,17 +2989,17 @@ Chemical weapons
 
 (c)   certify, not later than 30 days after the destruction process has been completed, that all chemical weapons specified in paragraph 1 have been destroyed.
 
-8.      If a State ratifies or accedes to this Convention after the 10 year period for destruction set forth in paragraph 6, it shall destroy chemical weapons specified in paragraph 1 as soon as possible. The order of destruction and procedures for stringent verification for such a State Party shall be determined by the Executive Council.
+8.         If a State ratifies or accedes to this Convention after the 10 year period for destruction set forth in paragraph 6, it shall destroy chemical weapons specified in paragraph 1 as soon as possible. The order of destruction and procedures for stringent verification for such a State Party shall be determined by the Executive Council.
 
-9.      Any chemical weapons discovered by a State Party after the initial declaration of chemical weapons shall be reported, secured and destroyed in accordance with Part IV(A) of the Verification Annex.
+9.         Any chemical weapons discovered by a State Party after the initial declaration of chemical weapons shall be reported, secured and destroyed in accordance with Part IV(A) of the Verification Annex.
 
-10.    Each State Party, during transportation, sampling, storage and destruction of chemical weapons, shall assign the highest priority to ensuring the safety of people and to protecting the environment. Each State Party shall transport, sample, store and destroy chemical weapons in accordance with its national standards for safety and emissions.
+10.       Each State Party, during transportation, sampling, storage and destruction of chemical weapons, shall assign the highest priority to ensuring the safety of people and to protecting the environment. Each State Party shall transport, sample, store and destroy chemical weapons in accordance with its national standards for safety and emissions.
 
-11.    Any State Party which has on its territory chemical weapons that are owned or possessed by another State, or that are located in any place under the jurisdiction or control of another State, shall make the fullest efforts to ensure that these chemical weapons are removed from its territory not later than one year after this Convention enters into force for it. If they are not removed within one year, the State Party may request the Organization and other States Parties to provide assistance in the destruction of these chemical weapons.
+11.       Any State Party which has on its territory chemical weapons that are owned or possessed by another State, or that are located in any place under the jurisdiction or control of another State, shall make the fullest efforts to ensure that these chemical weapons are removed from its territory not later than one year after this Convention enters into force for it. If they are not removed within one year, the State Party may request the Organization and other States Parties to provide assistance in the destruction of these chemical weapons.
 
-12.    Each State Party undertakes to cooperate with other States Parties that request information or assistance on a bilateral basis or through the Technical Secretariat regarding methods and technologies for the safe and efficient destruction of chemical weapons.
+12.       Each State Party undertakes to cooperate with other States Parties that request information or assistance on a bilateral basis or through the Technical Secretariat regarding methods and technologies for the safe and efficient destruction of chemical weapons.
 
-13.    In carrying out verification activities pursuant to this Article and Part IV(A) of the Verification Annex, the Organization shall consider measures to avoid unnecessary duplication of bilateral or multilateral agreements on verification of chemical weapons storage and their destruction among States Parties.
+13.       In carrying out verification activities pursuant to this Article and Part IV(A) of the Verification Annex, the Organization shall consider measures to avoid unnecessary duplication of bilateral or multilateral agreements on verification of chemical weapons storage and their destruction among States Parties.
 
 To this end, the Executive Council shall decide to limit verification to measures complementary to those undertaken pursuant to such a bilateral or multilateral agreement, if it considers that:
 
@@ -3005,39 +3009,39 @@ To this end, the Executive Council shall decide to limit verification to measure
 
 (c)   parties to the bilateral or multilateral agreement keep the Organization fully informed about their verification activities.
 
-14.    If the Executive Council takes a decision pursuant to paragraph 13, the Organization shall have the right to monitor the implementation of the bilateral or multilateral agreement.
+14.       If the Executive Council takes a decision pursuant to paragraph 13, the Organization shall have the right to monitor the implementation of the bilateral or multilateral agreement.
 
-15.    Nothing in paragraphs 13 and 14 shall affect the obligation of a State Party to provide declarations pursuant to Article III, this Article and Part IV(A) of the Verification Annex.
+15.       Nothing in paragraphs 13 and 14 shall affect the obligation of a State Party to provide declarations pursuant to Article III, this Article and Part IV(A) of the Verification Annex.
 
-16.    Each State Party shall meet the costs of destruction of chemical weapons it is obliged to destroy. It shall also meet the costs of verification of storage and destruction of these chemical weapons unless the Executive Council decides otherwise. If the Executive Council decides to limit verification measures of the Organization pursuant to paragraph 13, the costs of complementary verification and monitoring by the Organization shall be paid in accordance with the United Nations scale of assessment, as specified in Article VIII, paragraph 7.
+16.       Each State Party shall meet the costs of destruction of chemical weapons it is obliged to destroy. It shall also meet the costs of verification of storage and destruction of these chemical weapons unless the Executive Council decides otherwise. If the Executive Council decides to limit verification measures of the Organization pursuant to paragraph 13, the costs of complementary verification and monitoring by the Organization shall be paid in accordance with the United Nations scale of assessment, as specified in Article VIII, paragraph 7.
 
-17.    The provisions of this Article and the relevant provisions of Part IV of the Verification Annex shall not, at the discretion of a State Party, apply to chemical weapons buried on its territory before 1 January 1977 and which remain buried, or which had been dumped at sea before 1 January 1985.
+17.       The provisions of this Article and the relevant provisions of Part IV of the Verification Annex shall not, at the discretion of a State Party, apply to chemical weapons buried on its territory before 1 January 1977 and which remain buried, or which had been dumped at sea before 1 January 1985.
 
 Article V
 
 Chemical weapons production facilities
 
-1.      The provisions of this Article and the detailed procedures for its implementation shall apply to any and all chemical weapons production facilities owned or possessed by a State Party, or that are located in any place under its jurisdiction or control.
+1.         The provisions of this Article and the detailed procedures for its implementation shall apply to any and all chemical weapons production facilities owned or possessed by a State Party, or that are located in any place under its jurisdiction or control.
 
-2.      Detailed procedures for the implementation of this Article are set forth in the Verification Annex.
+2.         Detailed procedures for the implementation of this Article are set forth in the Verification Annex.
 
-3.      All chemical weapons production facilities specified in paragraph 1 shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments in accordance with Part V of the Verification Annex.
+3.         All chemical weapons production facilities specified in paragraph 1 shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments in accordance with Part V of the Verification Annex.
 
-4.      Each State Party shall cease immediately all activity at chemical weapons production facilities specified in paragraph 1, except activity required for closure.
+4.         Each State Party shall cease immediately all activity at chemical weapons production facilities specified in paragraph 1, except activity required for closure.
 
-5.      No State Party shall construct any new chemical weapons production facilities or modify any existing facilities for the purpose of chemical weapons production or for any other activity prohibited under this Convention.
+5.         No State Party shall construct any new chemical weapons production facilities or modify any existing facilities for the purpose of chemical weapons production or for any other activity prohibited under this Convention.
 
-6.      Each State Party shall, immediately after the declaration under Article III, paragraph 1(c), has been submitted, provide access to chemical weapons production facilities specified in paragraph 1, for the purpose of systematic verification of the declaration through on‑site inspection.
+6.         Each State Party shall, immediately after the declaration under Article III, paragraph 1(c), has been submitted, provide access to chemical weapons production facilities specified in paragraph 1, for the purpose of systematic verification of the declaration through on‑site inspection.
 
-7.      Each State Party shall:
+7.         Each State Party shall:
 
 (a)   close, not later than 90 days after this Convention enters into force for it, all chemical weapons production facilities specified in paragraph 1, in accordance with Part V of the Verification Annex, and give notice thereof; and
 
 (b)   provide access to chemical weapons production facilities specified in paragraph 1, subsequent to closure, for the purpose of systematic verification through on‑site inspection and monitoring with on‑site instruments in order to ensure that the facility remains closed and is subsequently destroyed.
 
-8.      Each State Party shall destroy all chemical weapons production facilities specified in paragraph 1 and related facilities and equipment, pursuant to the Verification Annex and in accordance with an agreed rate and sequence of destruction (hereinafter referred to as “order of destruction”). Such destruction shall begin not later than one year after this Convention enters into force for it, and shall finish not later than 10 years after entry into force of this Convention. A State Party is not precluded from destroying such facilities at a faster rate.
+8.         Each State Party shall destroy all chemical weapons production facilities specified in paragraph 1 and related facilities and equipment, pursuant to the Verification Annex and in accordance with an agreed rate and sequence of destruction (hereinafter referred to as “order of destruction”). Such destruction shall begin not later than one year after this Convention enters into force for it, and shall finish not later than 10 years after entry into force of this Convention. A State Party is not precluded from destroying such facilities at a faster rate.
 
-9.      Each State Party shall:
+9.         Each State Party shall:
 
 (a)   submit detailed plans for destruction of chemical weapons production facilities specified in paragraph 1, not later than 180 days before the destruction of each facility begins;
 
@@ -3045,19 +3049,19 @@ Chemical weapons production facilities
 
 (c)   certify, not later than 30 days after the destruction process has been completed, that all chemical weapons production facilities specified in paragraph 1 have been destroyed.
 
-10.    If a State ratifies or accedes to this Convention after the 10‑year period for destruction set forth in paragraph 8, it shall destroy chemical weapons production facilities specified in paragraph 1 as soon as possible. The order of destruction and procedures for stringent verification for such a State Party shall be determined by the Executive Council.
+10.       If a State ratifies or accedes to this Convention after the 10‑year period for destruction set forth in paragraph 8, it shall destroy chemical weapons production facilities specified in paragraph 1 as soon as possible. The order of destruction and procedures for stringent verification for such a State Party shall be determined by the Executive Council.
 
-11.    Each State Party, during the destruction of chemical weapons production facilities, shall assign the highest priority to ensuring the safety of people and to protecting the environment. Each State Party shall destroy these chemical weapons production facilities in accordance with its national standards for safety and emissions.
+11.       Each State Party, during the destruction of chemical weapons production facilities, shall assign the highest priority to ensuring the safety of people and to protecting the environment. Each State Party shall destroy these chemical weapons production facilities in accordance with its national standards for safety and emissions.
 
-12.    Chemical weapons production facilities specified in paragraph 1 may be temporarily converted for destruction of chemical weapons in accordance with Part V, paragraphs 18 to 25, of the Verification Annex. Such a converted facility must be destroyed as soon as it is no longer in use for destruction of chemical weapons but, in any case, not later than 10 years after entry into force of this Convention.
+12.       Chemical weapons production facilities specified in paragraph 1 may be temporarily converted for destruction of chemical weapons in accordance with Part V, paragraphs 18 to 25, of the Verification Annex. Such a converted facility must be destroyed as soon as it is no longer in use for destruction of chemical weapons but, in any case, not later than 10 years after entry into force of this Convention.
 
-13.    A State Party may request, in exceptional cases of compelling need, permission to use a chemical weapons production facility specified in paragraph 1 for purposes not prohibited under this Convention. Upon the recommendation of the Executive Council, the Conference of the States Parties shall decide whether or not to approve the request and shall establish the conditions upon which approval is contingent in accordance with Part V, Section D, of the Verification Annex.
+13.       A State Party may request, in exceptional cases of compelling need, permission to use a chemical weapons production facility specified in paragraph 1 for purposes not prohibited under this Convention. Upon the recommendation of the Executive Council, the Conference of the States Parties shall decide whether or not to approve the request and shall establish the conditions upon which approval is contingent in accordance with Part V, Section D, of the Verification Annex.
 
-14.    The chemical weapons production facility shall be converted in such a manner that the converted facility is not more capable of being reconverted into a chemical weapons production facility than any other facility used for industrial, agricultural, research, medical, pharmaceutical or other peaceful purposes not involving chemicals listed in Schedule 1.
+14.       The chemical weapons production facility shall be converted in such a manner that the converted facility is not more capable of being reconverted into a chemical weapons production facility than any other facility used for industrial, agricultural, research, medical, pharmaceutical or other peaceful purposes not involving chemicals listed in Schedule 1.
 
-15.    All converted facilities shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments in accordance with Part V, Section D, of the Verification Annex.
+15.       All converted facilities shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments in accordance with Part V, Section D, of the Verification Annex.
 
-16.    In carrying out verification activities pursuant to this Article and Part V of the Verification Annex, the Organization shall consider measures to avoid unnecessary duplication of bilateral or multilateral agreements on verification of chemical weapons production facilities and their destruction among States Parties.
+16.       In carrying out verification activities pursuant to this Article and Part V of the Verification Annex, the Organization shall consider measures to avoid unnecessary duplication of bilateral or multilateral agreements on verification of chemical weapons production facilities and their destruction among States Parties.
 
 To this end, the Executive Council shall decide to limit the verification to measures complementary to those undertaken pursuant to such a bilateral or multilateral agreement, if it considers that:
 
@@ -3067,37 +3071,37 @@ To this end, the Executive Council shall decide to limit the verification to mea
 
 (c)   Parties to the bilateral or multilateral agreement keep the Organization fully informed about their verification activities.
 
-17.    If the Executive Council takes a decision pursuant to paragraph 16, the Organization shall have the right to monitor the implementation of the bilateral or multilateral agreement.
+17.       If the Executive Council takes a decision pursuant to paragraph 16, the Organization shall have the right to monitor the implementation of the bilateral or multilateral agreement.
 
-18.    Nothing in paragraphs 16 and 17 shall affect the obligation of a State Party to make declarations pursuant to Article III, this Article and Part V of the Verification Annex.
+18.       Nothing in paragraphs 16 and 17 shall affect the obligation of a State Party to make declarations pursuant to Article III, this Article and Part V of the Verification Annex.
 
-19.    Each State Party shall meet the costs of destruction of chemical weapons production facilities it is obliged to destroy. It shall also meet the costs of verification under this Article unless the Executive Council decides otherwise. If the Executive Council decides to limit verification measures of the Organization pursuant to paragraph 16, the costs of complementary verification and monitoring by the Organization shall be paid in accordance with the United Nations scale of assessment, as specified in Article VIII, paragraph 7.
+19.       Each State Party shall meet the costs of destruction of chemical weapons production facilities it is obliged to destroy. It shall also meet the costs of verification under this Article unless the Executive Council decides otherwise. If the Executive Council decides to limit verification measures of the Organization pursuant to paragraph 16, the costs of complementary verification and monitoring by the Organization shall be paid in accordance with the United Nations scale of assessment, as specified in Article VIII, paragraph 7.
 
 Article VI
 
 Activities not prohibited under this Convention
 
-1.      Each State Party has the right, subject to the provisions of this Convention, to develop, produce, otherwise acquire, retain, transfer and use toxic chemicals and their precursors for purposes not prohibited under this Convention.
+1.         Each State Party has the right, subject to the provisions of this Convention, to develop, produce, otherwise acquire, retain, transfer and use toxic chemicals and their precursors for purposes not prohibited under this Convention.
 
-2.      Each State Party shall adopt the necessary measures to ensure that toxic chemicals and their precursors are only developed, produced, otherwise acquired, retained, transferred, or used within its territory or in any other place under its jurisdiction or control for purposes not prohibited under this Convention. To this end, and in order to verify that activities are in accordance with obligations under this Convention, each State Party shall subject toxic chemicals and their precursors listed in Schedules 1, 2 and 3 of the Annex on Chemicals, facilities related to such chemicals, and other facilities as specified in the Verification Annex, that are located on its territory or in any other place under its jurisdiction or control, to verification measures as provided in the Verification Annex.
+2.         Each State Party shall adopt the necessary measures to ensure that toxic chemicals and their precursors are only developed, produced, otherwise acquired, retained, transferred, or used within its territory or in any other place under its jurisdiction or control for purposes not prohibited under this Convention. To this end, and in order to verify that activities are in accordance with obligations under this Convention, each State Party shall subject toxic chemicals and their precursors listed in Schedules 1, 2 and 3 of the Annex on Chemicals, facilities related to such chemicals, and other facilities as specified in the Verification Annex, that are located on its territory or in any other place under its jurisdiction or control, to verification measures as provided in the Verification Annex.
 
-3.      Each State Party shall subject chemicals listed in Schedule 1 (hereinafter referred to as “Schedule 1 chemicals”) to the prohibitions on production, acquisition, retention, transfer and use as specified in Part VI of the Verification Annex. It shall subject Schedule 1 chemicals and facilities specified in Part VI of the Verification Annex to systematic verification through on‑site inspection and monitoring with on‑site instruments in accordance with that Part of the Verification Annex.
+3.         Each State Party shall subject chemicals listed in Schedule 1 (hereinafter referred to as “Schedule 1 chemicals”) to the prohibitions on production, acquisition, retention, transfer and use as specified in Part VI of the Verification Annex. It shall subject Schedule 1 chemicals and facilities specified in Part VI of the Verification Annex to systematic verification through on‑site inspection and monitoring with on‑site instruments in accordance with that Part of the Verification Annex.
 
-4.      Each State Party shall subject chemicals listed in Schedule 2 (hereinafter referred to as “Schedule 2 chemicals”) and facilities specified in Part VII of the Verification Annex to data monitoring and on‑site verification in accordance with that Part of the Verification Annex.
+4.         Each State Party shall subject chemicals listed in Schedule 2 (hereinafter referred to as “Schedule 2 chemicals”) and facilities specified in Part VII of the Verification Annex to data monitoring and on‑site verification in accordance with that Part of the Verification Annex.
 
-5.      Each State Party shall subject chemicals listed in Schedule 3 (hereinafter referred to as “Schedule 3 chemicals”) and facilities specified in Part VIII of the Verification Annex to data monitoring and on‑site verification in accordance with that Part of the Verification Annex.
+5.         Each State Party shall subject chemicals listed in Schedule 3 (hereinafter referred to as “Schedule 3 chemicals”) and facilities specified in Part VIII of the Verification Annex to data monitoring and on‑site verification in accordance with that Part of the Verification Annex.
 
-6.      Each State Party shall subject facilities specified in Part IX of the Verification Annex to data monitoring and eventual on‑site verification in accordance with that Part of the Verification Annex unless decided otherwise by the Conference of the States Parties pursuant to Part IX, paragraph 22, of the Verification Annex.
+6.         Each State Party shall subject facilities specified in Part IX of the Verification Annex to data monitoring and eventual on‑site verification in accordance with that Part of the Verification Annex unless decided otherwise by the Conference of the States Parties pursuant to Part IX, paragraph 22, of the Verification Annex.
 
-7.      Not later than 30 days after this Convention enters into force for it, each State Party shall make an initial declaration on relevant chemicals and facilities in accordance with the Verification Annex.
+7.         Not later than 30 days after this Convention enters into force for it, each State Party shall make an initial declaration on relevant chemicals and facilities in accordance with the Verification Annex.
 
-8.      Each State Party shall make annual declarations regarding the relevant chemicals and facilities in accordance with the Verification Annex.
+8.         Each State Party shall make annual declarations regarding the relevant chemicals and facilities in accordance with the Verification Annex.
 
-9.      For the purpose of on‑site verification, each State Party shall grant to the inspectors access to facilities as required in the Verification Annex.
+9.         For the purpose of on‑site verification, each State Party shall grant to the inspectors access to facilities as required in the Verification Annex.
 
-10.    In conducting verification activities, the Technical Secretariat shall avoid undue intrusion into the State Party’s chemical activities for purposes not prohibited under this Convention and, in particular, abide by the provisions set forth in the Annex on the Protection of Confidential Information (hereinafter referred to as “Confidentiality Annex”).
+10.       In conducting verification activities, the Technical Secretariat shall avoid undue intrusion into the State Party’s chemical activities for purposes not prohibited under this Convention and, in particular, abide by the provisions set forth in the Annex on the Protection of Confidential Information (hereinafter referred to as “Confidentiality Annex”).
 
-11.    The Provisions of this Article shall be implemented in a manner which avoids hampering the economic or technological development of States Parties and international cooperation in the field of chemical activities for purposes not prohibited under this Convention, including the international exchange of scientific and technical information and chemicals and equipment for the production, processing or use of chemicals for purposes not prohibited under this Convention.
+11.       The Provisions of this Article shall be implemented in a manner which avoids hampering the economic or technological development of States Parties and international cooperation in the field of chemical activities for purposes not prohibited under this Convention, including the international exchange of scientific and technical information and chemicals and equipment for the production, processing or use of chemicals for purposes not prohibited under this Convention.
 
 Article VII
 
@@ -3105,7 +3109,7 @@ National implementation measures
 
 General undertakings
 
-1.      Each State Party shall, in accordance with its constitutional processes, adopt the necessary measures to implement its obligations under this Convention. In particular, it shall:
+1.         Each State Party shall, in accordance with its constitutional processes, adopt the necessary measures to implement its obligations under this Convention. In particular, it shall:
 
 (a)   prohibit natural and legal persons anywhere on its territory or in any other place under its jurisdiction as recognized by international law from undertaking any activity prohibited to a State Party under this Convention, including enacting penal legislation with respect to such activity;
 
@@ -3113,19 +3117,19 @@ General undertakings
 
 (c)   extend its penal legislation enacted under subparagraph (a) to any activity prohibited to a State Party under this Convention undertaken anywhere by natural persons, possessing its nationality, in conformity with international law.
 
-2.      Each State Party shall cooperate with other States Parties and afford the appropriate form of legal assistance to facilitate the implementation of the obligations under paragraph 1.
+2.         Each State Party shall cooperate with other States Parties and afford the appropriate form of legal assistance to facilitate the implementation of the obligations under paragraph 1.
 
-3.      Each State Party, during the implementation of its obligations under this Convention, shall assign the highest priority to ensuring the safety of people and to protecting the environment, and shall cooperate as appropriate with other States Parties in this regard.
+3.         Each State Party, during the implementation of its obligations under this Convention, shall assign the highest priority to ensuring the safety of people and to protecting the environment, and shall cooperate as appropriate with other States Parties in this regard.
 
 Relations between the State Party and the Organization
 
-4.      In order to fulfil its obligations under this Convention, each State Party shall designate or establish a National Authority to serve as the national focal point for effective liaison with the Organization and other States Parties. Each State Party shall notify the Organization of its National Authority at the time that this Convention enters into force for it.
+4.         In order to fulfil its obligations under this Convention, each State Party shall designate or establish a National Authority to serve as the national focal point for effective liaison with the Organization and other States Parties. Each State Party shall notify the Organization of its National Authority at the time that this Convention enters into force for it.
 
-5.      Each State Party shall inform the Organization of the legislative and administrative measures taken to implement this Convention.
+5.         Each State Party shall inform the Organization of the legislative and administrative measures taken to implement this Convention.
 
-6.      Each State Party shall treat as confidential and afford special handling to information and data that it receives in confidence from the Organization in connection with the implementation of this Convention. It shall treat such information and data exclusively in connection with its rights and obligations under this Convention and in accordance with the provisions set forth in the Confidentiality Annex.
+6.         Each State Party shall treat as confidential and afford special handling to information and data that it receives in confidence from the Organization in connection with the implementation of this Convention. It shall treat such information and data exclusively in connection with its rights and obligations under this Convention and in accordance with the provisions set forth in the Confidentiality Annex.
 
-7.      Each State Party undertakes to cooperate with the Organization in the exercise of all its functions and in particular to provide assistance to the Technical Secretariat.
+7.         Each State Party undertakes to cooperate with the Organization in the exercise of all its functions and in particular to provide assistance to the Technical Secretariat.
 
 Article VIII
 
@@ -3133,33 +3137,33 @@ The Organization
 
 A. GENERAL PROVISIONS
 
-1.      The States Parties to this Convention hereby establish the Organization for the Prohibition of Chemical Weapons to achieve the object and purpose of this Convention, to ensure the implementation of its provisions, including those for international verification of compliance with it, and to provide a forum for consultation and cooperation among States Parties.
+1.         The States Parties to this Convention hereby establish the Organization for the Prohibition of Chemical Weapons to achieve the object and purpose of this Convention, to ensure the implementation of its provisions, including those for international verification of compliance with it, and to provide a forum for consultation and cooperation among States Parties.
 
-2.      All States Parties to this Convention shall be members of the Organization. A State Party shall not be deprived of its membership in the Organization.
+2.         All States Parties to this Convention shall be members of the Organization. A State Party shall not be deprived of its membership in the Organization.
 
-3.      The seat of the Headquarters of the Organization shall be The Hague, Kingdom of the Netherlands.
+3.         The seat of the Headquarters of the Organization shall be The Hague, Kingdom of the Netherlands.
 
-4.      There are hereby established as the organs of the Organization: the Conference of the States Parties, the Executive Council, and the Technical Secretariat.
+4.         There are hereby established as the organs of the Organization: the Conference of the States Parties, the Executive Council, and the Technical Secretariat.
 
-5.      The Organization shall conduct its verification activities provided for under this Convention in the least intrusive manner possible consistent with the timely and efficient accomplishment of their objectives. It shall request only the information and data necessary to fulfil its responsibilities under this Convention. It shall take every precaution to protect the confidentiality of information on civil and military activities and facilities coming to its knowledge in the implementation of this Convention and, in particular, shall abide by the provisions set forth in the Confidentiality Annex.
+5.         The Organization shall conduct its verification activities provided for under this Convention in the least intrusive manner possible consistent with the timely and efficient accomplishment of their objectives. It shall request only the information and data necessary to fulfil its responsibilities under this Convention. It shall take every precaution to protect the confidentiality of information on civil and military activities and facilities coming to its knowledge in the implementation of this Convention and, in particular, shall abide by the provisions set forth in the Confidentiality Annex.
 
-6.      In undertaking its verification activities the Organization shall consider measures to make use of advances in science and technology.
+6.         In undertaking its verification activities the Organization shall consider measures to make use of advances in science and technology.
 
-7.      The costs of the Organization’s activities shall be paid by States Parties in accordance with the United Nations scale of assessment adjusted to take into account differences in membership between the United Nations and this Organization, and subject to the provisions of Articles IV and V. Financial contributions of States Parties to the Preparatory Commission shall be deducted in an appropriate way from their contributions to the regular budget. The budget of the Organization shall comprise two separate chapters, one relating to administrative and other costs, and one relating to verification costs.
+7.         The costs of the Organization’s activities shall be paid by States Parties in accordance with the United Nations scale of assessment adjusted to take into account differences in membership between the United Nations and this Organization, and subject to the provisions of Articles IV and V. Financial contributions of States Parties to the Preparatory Commission shall be deducted in an appropriate way from their contributions to the regular budget. The budget of the Organization shall comprise two separate chapters, one relating to administrative and other costs, and one relating to verification costs.
 
-8.      A member of the Organization which is in arrears in the payment of its financial contribution to the Organization shall have no vote in the Organization if the amount of its arrears equals or exceeds the amount of the contribution due from it for the preceding two full years. The Conference of the States Parties may, nevertheless, permit such a member to vote if it is satisfied that the failure to pay is due to conditions beyond the control of the member.
+8.         A member of the Organization which is in arrears in the payment of its financial contribution to the Organization shall have no vote in the Organization if the amount of its arrears equals or exceeds the amount of the contribution due from it for the preceding two full years. The Conference of the States Parties may, nevertheless, permit such a member to vote if it is satisfied that the failure to pay is due to conditions beyond the control of the member.
 
 B. THE CONFERENCE OF THE STATES PARTIES
 
-Composition, procedures and decision-making
+Composition, procedures and decision‑making
 
-9.      The Conference of the States Parties (hereinafter referred to as “the Conference”) shall be composed of all members of this Organization. Each member shall have one representative in the Conference, who may be accompanied by alternates and advisers.
+9.         The Conference of the States Parties (hereinafter referred to as “the Conference”) shall be composed of all members of this Organization. Each member shall have one representative in the Conference, who may be accompanied by alternates and advisers.
 
-10.    The first session of the Conference shall be convened by the depositary not later than 30 days after the entry into force of this Convention.
+10.       The first session of the Conference shall be convened by the depositary not later than 30 days after the entry into force of this Convention.
 
-11.    The Conference shall meet in regular sessions which shall be held annually unless it decides otherwise.
+11.       The Conference shall meet in regular sessions which shall be held annually unless it decides otherwise.
 
-12.    Special sessions of the Conference shall be convened:
+12.       Special sessions of the Conference shall be convened:
 
 (a)   when decided by the Conference;
 
@@ -3171,25 +3175,25 @@ Composition, procedures and decision-making
 
 Except in the case of subparagraph (d), the special session shall be convened not later than 30 days after receipt of the request by the Director‑General of the Technical Secretariat, unless specified otherwise in the request.
 
-13.    The Conference shall also be convened in the form of an Amendment Conference in accordance with Article XV, paragraph 2.
+13.       The Conference shall also be convened in the form of an Amendment Conference in accordance with Article XV, paragraph 2.
 
-14.    Sessions of the Conference shall take place at the seat of the Organization unless the Conference decides otherwise.
+14.       Sessions of the Conference shall take place at the seat of the Organization unless the Conference decides otherwise.
 
-15.    The Conference shall adopt its rules of procedure. At the beginning of each regular session, it shall elect its Chairman and such other officers as may be required. They shall hold office until a new Chairman and other officers are elected at the next regular session.
+15.       The Conference shall adopt its rules of procedure. At the beginning of each regular session, it shall elect its Chairman and such other officers as may be required. They shall hold office until a new Chairman and other officers are elected at the next regular session.
 
-16.    A majority of the members of the Organization shall constitute a quorum for the Conference.
+16.       A majority of the members of the Organization shall constitute a quorum for the Conference.
 
-17.    Each member of the Organization shall have one vote in the Conference.
+17.       Each member of the Organization shall have one vote in the Conference.
 
-18.    The Conference shall take decisions on questions of procedure by a simple majority of the members present and voting. Decisions on matters of substance should be taken as far as possible by consensus. If consensus is not attainable when an issue comes up for decision, the Chairman shall defer any vote for 24 hours and during this period of deferment shall make every effort to facilitate achievement of consensus, and shall report to the Conference before the end of this period. If consensus is not possible at the end of 24 hours, the Conference shall take the decision by a two‑thirds majority of members present and voting unless specified otherwise in this Convention. When the issue arises as to whether the question is one of substance or not, that question shall be treated as a matter of substance unless otherwise decided by the Conference by the majority required for decisions on matters of substance.
+18.       The Conference shall take decisions on questions of procedure by a simple majority of the members present and voting. Decisions on matters of substance should be taken as far as possible by consensus. If consensus is not attainable when an issue comes up for decision, the Chairman shall defer any vote for 24 hours and during this period of deferment shall make every effort to facilitate achievement of consensus, and shall report to the Conference before the end of this period. If consensus is not possible at the end of 24 hours, the Conference shall take the decision by a two‑thirds majority of members present and voting unless specified otherwise in this Convention. When the issue arises as to whether the question is one of substance or not, that question shall be treated as a matter of substance unless otherwise decided by the Conference by the majority required for decisions on matters of substance.
 
 Powers and functions
 
-19.    The Conference shall be the principal organ of the Organization. It shall consider any questions, matters or issues within the scope of this Convention, including those relating to the powers and functions of the Executive Council and the Technical Secretariat. It may make recommendations and take decisions on any questions, matters or issues related to this Convention raised by a State Party or brought to its attention by the Executive Council.
+19.       The Conference shall be the principal organ of the Organization. It shall consider any questions, matters or issues within the scope of this Convention, including those relating to the powers and functions of the Executive Council and the Technical Secretariat. It may make recommendations and take decisions on any questions, matters or issues related to this Convention raised by a State Party or brought to its attention by the Executive Council.
 
-20.    The Conference shall oversee the implementation of this Convention, and act in order to promote its object and purpose. The Conference shall review compliance with this Convention. It shall also oversee the activities of the Executive Council and the Technical Secretariat and may issue guidelines in accordance with this Convention to either of them in the exercise of their functions.
+20.       The Conference shall oversee the implementation of this Convention, and act in order to promote its object and purpose. The Conference shall review compliance with this Convention. It shall also oversee the activities of the Executive Council and the Technical Secretariat and may issue guidelines in accordance with this Convention to either of them in the exercise of their functions.
 
-21.    The Conference shall:
+21.       The Conference shall:
 
 (a)   consider and adopt at its regular sessions the report, programme and budget of the Organization, submitted by the Executive Council, as well as consider other reports;
 
@@ -3213,13 +3217,13 @@ Powers and functions
 
 (k)   take the necessary measures to ensure compliance with this Convention and to redress and remedy any situation which contravenes the provisions of this Convention, in accordance with Article XII.
 
-22.    The Conference shall not later than one year after the expiry of the fifth and the tenth year after the entry into force of this Convention, and at such other times within that time period as may be decided upon, convene in special sessions to undertake reviews of the operation of this Convention. Such reviews shall take into account any relevant scientific and technological developments. At intervals of five years thereafter, unless otherwise decided upon, further sessions of the Conference shall be convened with the same objective.
+22.       The Conference shall not later than one year after the expiry of the fifth and the tenth year after the entry into force of this Convention, and at such other times within that time period as may be decided upon, convene in special sessions to undertake reviews of the operation of this Convention. Such reviews shall take into account any relevant scientific and technological developments. At intervals of five years thereafter, unless otherwise decided upon, further sessions of the Conference shall be convened with the same objective.
 
 C. THE EXECUTIVE COUNCIL
 
 Composition, procedure and decision‑making
 
-23.    The Executive Council shall consist of 41 members. Each State Party shall have the right, in accordance with the principle of rotation, to serve on the Executive Council. The members of the Executive Council shall be elected by the Conference for a term of two years. In order to ensure the effective functioning of this Convention, due regard being specially paid to equitable geographical distribution, to the importance of chemical industry, as well as to political and security interests, the Executive Council shall be composed as follows:
+23.       The Executive Council shall consist of 41 members. Each State Party shall have the right, in accordance with the principle of rotation, to serve on the Executive Council. The members of the Executive Council shall be elected by the Conference for a term of two years. In order to ensure the effective functioning of this Convention, due regard being specially paid to equitable geographical distribution, to the importance of chemical industry, as well as to political and security interests, the Executive Council shall be composed as follows:
 
 (a)   nine States Parties from Africa to be designated by States Parties located in this region. As a basis for this designation it is understood that, out of these nine States Parties, three members shall, as a rule, be the States Parties with the most significant national chemical industry in the region as determined by internationally reported and published data; in addition, the regional group shall agree also to take into account other regional factors in designating these three members;
 
@@ -3233,25 +3237,25 @@ Composition, procedure and decision‑making
 
 (f)   one further State Party to be designated consecutively by States Parties located in the regions of Asia and Latin America and the Caribbean. As a basis for this designation it is understood that this State Party shall be a rotating member from these regions.
 
-24.    For the first election of the Executive Council 20 members shall be elected for a term of one year, due regard being paid to the established numerical proportions as described in paragraph 23.
+24.       For the first election of the Executive Council 20 members shall be elected for a term of one year, due regard being paid to the established numerical proportions as described in paragraph 23.
 
-25.    After the full implementation of Articles IV and V the Conference may, upon the request of a majority of the members of the Executive Council, review the composition of the Executive Council taking into account developments related to the principles specified in paragraph 23 that are governing its composition.
+25.       After the full implementation of Articles IV and V the Conference may, upon the request of a majority of the members of the Executive Council, review the composition of the Executive Council taking into account developments related to the principles specified in paragraph 23 that are governing its composition.
 
-26.    The Executive Council shall elaborate its rules of procedure and submit them to the Conference for approval.
+26.       The Executive Council shall elaborate its rules of procedure and submit them to the Conference for approval.
 
-27.    The Executive Council shall elect its Chairman from among its members.
+27.       The Executive Council shall elect its Chairman from among its members.
 
-28.    The Executive Council shall meet for regular sessions. Between regular sessions it shall meet as often as may be required for the fulfillment of its powers and functions.
+28.       The Executive Council shall meet for regular sessions. Between regular sessions it shall meet as often as may be required for the fulfillment of its powers and functions.
 
-29.    Each member of the Executive Council shall have one vote. Unless otherwise specified in this Convention, the Executive Council shall take decisions on matters of substance by a two‑thirds majority of all its members. The Executive Council shall take decisions on questions of procedure by a simple majority of all its members. When the issue arises as to whether the question is one of substance or not, that question shall be treated as a matter of substance unless otherwise decided by the Executive Council by the majority required for decisions on matters of substance.
+29.       Each member of the Executive Council shall have one vote. Unless otherwise specified in this Convention, the Executive Council shall take decisions on matters of substance by a two‑thirds majority of all its members. The Executive Council shall take decisions on questions of procedure by a simple majority of all its members. When the issue arises as to whether the question is one of substance or not, that question shall be treated as a matter of substance unless otherwise decided by the Executive Council by the majority required for decisions on matters of substance.
 
 Powers and functions
 
-30.    The Executive Council shall be the executive organ of the Organization. It shall be responsible to the Conference. The Executive Council shall carry out the powers and functions entrusted to it under this Convention, as well as those functions delegated to it by the Conference. In so doing, it shall act in conformity with the recommendations, decisions and guidelines of the Conference and assure their proper and continuous implementation.
+30.       The Executive Council shall be the executive organ of the Organization. It shall be responsible to the Conference. The Executive Council shall carry out the powers and functions entrusted to it under this Convention, as well as those functions delegated to it by the Conference. In so doing, it shall act in conformity with the recommendations, decisions and guidelines of the Conference and assure their proper and continuous implementation.
 
-31.    The Executive Council shall promote the effective implementation of, and compliance with, this Convention. It shall supervise the activities of the Technical Secretariat, cooperate with the National Authority of each State Party and facilitate consultations and cooperation among States Parties at their request.
+31.       The Executive Council shall promote the effective implementation of, and compliance with, this Convention. It shall supervise the activities of the Technical Secretariat, cooperate with the National Authority of each State Party and facilitate consultations and cooperation among States Parties at their request.
 
-32.    The Executive Council shall:
+32.       The Executive Council shall:
 
 (a)   consider and submit to the Conference the draft programme and budget of the Organization;
 
@@ -3259,9 +3263,9 @@ Powers and functions
 
 (c)   make arrangements for the sessions of the Conference including the preparation of the draft agenda.
 
-33.    The Executive Council may request the convening of a special session of the Conference.
+33.       The Executive Council may request the convening of a special session of the Conference.
 
-34.    The Executive Council shall:
+34.       The Executive Council shall:
 
 (a)   conclude agreements or arrangements with States and international organizations on behalf of the Organization, subject to prior approval by the Conference;
 
@@ -3269,9 +3273,9 @@ Powers and functions
 
 (c)   approve agreements or arrangements relating to the implementation of verification activities, negotiated by the Technical Secretariat with States Parties.
 
-35.    The Executive Council shall consider any issue or matter within its competence affecting this Convention and its implementation, including concerns regarding compliance, and cases of non‑compliance, and, as appropriate, inform States Parties and bring the issue or matter to the attention of the Conference.
+35.       The Executive Council shall consider any issue or matter within its competence affecting this Convention and its implementation, including concerns regarding compliance, and cases of non‑compliance, and, as appropriate, inform States Parties and bring the issue or matter to the attention of the Conference.
 
-36.    In its consideration of doubts or concerns regarding compliance and cases of non‑compliance, including, _inter alia_, abuse of the rights provided for under this Convention, the Executive Council shall consult with the States Parties involved and, as appropriate, request the State Party to take measures to redress the situation within a specified time. To the extent that the Executive Council considers further action to be necessary, it shall take, _inter alia_, one or more of the following measures:
+36.       In its consideration of doubts or concerns regarding compliance and cases of non‑compliance, including, _inter alia_, abuse of the rights provided for under this Convention, the Executive Council shall consult with the States Parties involved and, as appropriate, request the State Party to take measures to redress the situation within a specified time. To the extent that the Executive Council considers further action to be necessary, it shall take, _inter alia_, one or more of the following measures:
 
 (a)   inform all States Parties of the issue or matter;
 
@@ -3283,9 +3287,9 @@ The Executive Council shall, in cases of particular gravity and urgency, bring t
 
 D. THE TECHNICAL SECRETARIAT
 
-37.    The Technical Secretariat shall assist the Conference and the Executive Council in the performance of their functions. The Technical Secretariat shall carry out the verification measures provided for in this Convention. It shall carry out the other functions entrusted to it under this Convention as well as those functions delegated to it by the Conference and the Executive Council.
+37.       The Technical Secretariat shall assist the Conference and the Executive Council in the performance of their functions. The Technical Secretariat shall carry out the verification measures provided for in this Convention. It shall carry out the other functions entrusted to it under this Convention as well as those functions delegated to it by the Conference and the Executive Council.
 
-38.    The Technical Secretariat shall:
+38.       The Technical Secretariat shall:
 
 (a)   prepare and submit to the Executive Council the draft programme and budget of the Organization;
 
@@ -3297,7 +3301,7 @@ D. THE TECHNICAL SECRETARIAT
 
 (e)   provide technical assistance and technical evaluation to States Parties in the implementation of the provisions of this Convention, including evaluation of scheduled and unscheduled chemicals.
 
-39.    The Technical Secretariat shall:
+39.       The Technical Secretariat shall:
 
 (a)   negotiate agreements or arrangements relating to the implementation of verification activities with States Parties, subject to approval by the Executive Council;
 
@@ -3305,45 +3309,45 @@ D. THE TECHNICAL SECRETARIAT
 
 (c)   administer the voluntary fund referred to in Article X, compile declarations made by the States Parties and register, when requested, bilateral agreements concluded between States Parties or between a State Party and the Organization for the purposes of Article X.
 
-40.    The Technical Secretariat shall inform the Executive Council of any problem that has arisen with regard to the discharge of its functions, including doubts, ambiguities or uncertainties about compliance with this Convention that have come to its notice in the performance of its verification activities and that it has been unable to resolve or clarify through its consultations with the State Party concerned.
+40.       The Technical Secretariat shall inform the Executive Council of any problem that has arisen with regard to the discharge of its functions, including doubts, ambiguities or uncertainties about compliance with this Convention that have come to its notice in the performance of its verification activities and that it has been unable to resolve or clarify through its consultations with the State Party concerned.
 
-41.    The Technical Secretariat shall comprise a Director‑General, who shall be its head and chief administrative officer, inspectors and such scientific, technical and other personnel as may be required.
+41.       The Technical Secretariat shall comprise a Director‑General, who shall be its head and chief administrative officer, inspectors and such scientific, technical and other personnel as may be required.
 
-42.    The Inspectorate shall be a unit of the Technical Secretariat and shall act under the supervision of the Director‑General.
+42.       The Inspectorate shall be a unit of the Technical Secretariat and shall act under the supervision of the Director‑General.
 
-43.    The Director‑General shall be appointed by the Conference upon the recommendation of the Executive Council for a term of four years, renewable for one further term, but not thereafter.
+43.       The Director‑General shall be appointed by the Conference upon the recommendation of the Executive Council for a term of four years, renewable for one further term, but not thereafter.
 
-44.    The Director‑General shall be responsible to the Conference and the Executive Council for the appointment of the staff and the organization and functioning of the Technical Secretariat. The paramount consideration in the employment of the staff and in the determination of the conditions of service shall be the necessity of securing the highest standards of efficiency, competence and integrity. Only citizens of States Parties shall serve as the Director‑General, as inspectors or as other members of the professional and clerical staff. Due regard shall be paid to the importance of recruiting the staff on as wide a geographical basis as possible. Recruitment shall be guided by the principle that the staff shall be kept to a minimum necessary for the proper discharge of the responsibilities of the Technical Secretariat.
+44.       The Director‑General shall be responsible to the Conference and the Executive Council for the appointment of the staff and the organization and functioning of the Technical Secretariat. The paramount consideration in the employment of the staff and in the determination of the conditions of service shall be the necessity of securing the highest standards of efficiency, competence and integrity. Only citizens of States Parties shall serve as the Director‑General, as inspectors or as other members of the professional and clerical staff. Due regard shall be paid to the importance of recruiting the staff on as wide a geographical basis as possible. Recruitment shall be guided by the principle that the staff shall be kept to a minimum necessary for the proper discharge of the responsibilities of the Technical Secretariat.
 
-45.    The Director‑General shall be responsible for the organization and functioning of the Scientific Advisory Board referred to in paragraph 21(h). The Director‑General shall, in consultation with States Parties, appoint members of the Scientific Advisory Board, who shall serve in their individual capacity. The members of the Board shall be appointed on the basis of their expertise in the particular scientific fields relevant to the implementation of this Convention. The Director‑General may also, as appropriate, in consultation with members of the Board, establish temporary working groups of scientific experts to provide recommendations on specific issues. In regard to the above, States Parties may submit lists of experts to the Director‑General.
+45.       The Director‑General shall be responsible for the organization and functioning of the Scientific Advisory Board referred to in paragraph 21(h). The Director‑General shall, in consultation with States Parties, appoint members of the Scientific Advisory Board, who shall serve in their individual capacity. The members of the Board shall be appointed on the basis of their expertise in the particular scientific fields relevant to the implementation of this Convention. The Director‑General may also, as appropriate, in consultation with members of the Board, establish temporary working groups of scientific experts to provide recommendations on specific issues. In regard to the above, States Parties may submit lists of experts to the Director‑General.
 
-46.    In the performance of their duties, the Director‑General, the inspectors and the other members of the staff shall not seek or receive instructions from any Government or from any other source external to the Organization. They shall refrain from any action that might reflect on their positions as international officers responsible only to the Conference and the Executive Council.
+46.       In the performance of their duties, the Director‑General, the inspectors and the other members of the staff shall not seek or receive instructions from any Government or from any other source external to the Organization. They shall refrain from any action that might reflect on their positions as international officers responsible only to the Conference and the Executive Council.
 
-47.    Each State Party shall respect the exclusively international character of the responsibilities of the Director‑General, the inspectors and the other members of the staff and not seek to influence them in the discharge of their responsibilities.
+47.       Each State Party shall respect the exclusively international character of the responsibilities of the Director‑General, the inspectors and the other members of the staff and not seek to influence them in the discharge of their responsibilities.
 
 E. PRIVILEGES AND IMMUNITIES
 
-48.    The Organization shall enjoy on the territory and in any other place under the jurisdiction or control of a State Party such legal capacity and such privileges and immunities as are necessary for the exercise of its functions.
+48.       The Organization shall enjoy on the territory and in any other place under the jurisdiction or control of a State Party such legal capacity and such privileges and immunities as are necessary for the exercise of its functions.
 
-49.    Delegates of States Parties, together with their alternates and advisers, representatives appointed to the Executive Council together with their alternates and advisers, the Director‑General and the staff of the Organization shall enjoy such privileges and immunities as are necessary in the independent exercise of their functions in connection with the Organization.
+49.       Delegates of States Parties, together with their alternates and advisers, representatives appointed to the Executive Council together with their alternates and advisers, the Director‑General and the staff of the Organization shall enjoy such privileges and immunities as are necessary in the independent exercise of their functions in connection with the Organization.
 
-50.    The legal capacity, privileges, and immunities referred to in this Article shall be defined in agreements between the Organization and the States Parties as well as in an agreement between the Organization and the State in which the headquarters of the Organization is seated. These agreements shall be considered and approved by the Conference pursuant to paragraph 21(i).
+50.       The legal capacity, privileges, and immunities referred to in this Article shall be defined in agreements between the Organization and the States Parties as well as in an agreement between the Organization and the State in which the headquarters of the Organization is seated. These agreements shall be considered and approved by the Conference pursuant to paragraph 21(i).
 
-51.    Notwithstanding paragraphs 48 and 49, the privileges and immunities enjoyed by the Director‑General and the staff of the Technical Secretariat during the conduct of verification activities shall be those set forth in Part II, Section B, of the Verification Annex.
+51.       Notwithstanding paragraphs 48 and 49, the privileges and immunities enjoyed by the Director‑General and the staff of the Technical Secretariat during the conduct of verification activities shall be those set forth in Part II, Section B, of the Verification Annex.
 
 Article IX
 
 Consultations, cooperation and fact‑finding
 
-1.      States Parties shall consult and cooperate, directly among themselves, or through the Organization or other appropriate international procedures, including procedures within the framework of the United Nations and in accordance with its Charter, on any matter which may be raised relating to the object and purpose, or the implementation of the provisions, of this Convention.
+1.         States Parties shall consult and cooperate, directly among themselves, or through the Organization or other appropriate international procedures, including procedures within the framework of the United Nations and in accordance with its Charter, on any matter which may be raised relating to the object and purpose, or the implementation of the provisions, of this Convention.
 
-2.      Without prejudice to the right of any State Party to request a challenge inspection, States Parties should, whenever possible, first make every effort to clarify and resolve, through exchange of information and consultations among themselves, any matter which may cause doubt about compliance with this Convention, or which gives rise to concerns about a related matter which may be considered ambiguous. A State Party which receives a request from another State Party for clarification of any matter which the requesting State Party believes causes such a doubt or concern shall provide the requesting State Party as soon as possible, but in any case not later than 10 days after the request, with information sufficient to answer the doubt or concern raised along with an explanation of how the information provided resolves the matter. Nothing in this Convention shall affect the right of any two or more States Parties to arrange by mutual consent for inspections or any other procedures among themselves to clarify and resolve any matter which may cause doubt about compliance or gives rise to a concern about a related matter which may be considered ambiguous. Such arrangements shall not affect the rights and obligations of any State Party under other provisions of this Convention.
+2.         Without prejudice to the right of any State Party to request a challenge inspection, States Parties should, whenever possible, first make every effort to clarify and resolve, through exchange of information and consultations among themselves, any matter which may cause doubt about compliance with this Convention, or which gives rise to concerns about a related matter which may be considered ambiguous. A State Party which receives a request from another State Party for clarification of any matter which the requesting State Party believes causes such a doubt or concern shall provide the requesting State Party as soon as possible, but in any case not later than 10 days after the request, with information sufficient to answer the doubt or concern raised along with an explanation of how the information provided resolves the matter. Nothing in this Convention shall affect the right of any two or more States Parties to arrange by mutual consent for inspections or any other procedures among themselves to clarify and resolve any matter which may cause doubt about compliance or gives rise to a concern about a related matter which may be considered ambiguous. Such arrangements shall not affect the rights and obligations of any State Party under other provisions of this Convention.
 
 Procedure for requesting clarification
 
-3.      A State Party shall have the right to request the Executive Council to assist in clarifying any situation which may be considered ambiguous or which gives rise to a concern about the possible non‑compliance of another State Party with this Convention. The Executive Council shall provide appropriate information in its possession relevant to such a concern.
+3.         A State Party shall have the right to request the Executive Council to assist in clarifying any situation which may be considered ambiguous or which gives rise to a concern about the possible non‑compliance of another State Party with this Convention. The Executive Council shall provide appropriate information in its possession relevant to such a concern.
 
-4.      A State Party shall have the right to request the Executive Council to obtain clarification from another State Party on any situation which may be considered ambiguous or which gives rise to a concern about its possible non‑compliance with this Convention. In such a case, the following shall apply:
+4.         A State Party shall have the right to request the Executive Council to obtain clarification from another State Party on any situation which may be considered ambiguous or which gives rise to a concern about its possible non‑compliance with this Convention. In such a case, the following shall apply:
 
 (a)   the Executive Council shall forward the request for clarification to the State Party concerned through the Director‑General not later than 24 hours after its receipt;
 
@@ -3357,21 +3361,21 @@ Procedure for requesting clarification
 
 (f)   if the requesting State Party considers the clarification obtained under subparagraphs (d) and (e) to be unsatisfactory, it shall have the right to request a special session of the Executive Council in which States Parties involved that are not members of the Executive Council shall be entitled to take part. In such a special session, the Executive Council shall consider the matter and may recommend any measure it deems appropriate to resolve the situation.
 
-5.      A State Party shall also have the right to request the Executive Council to clarify any situation which has been considered ambiguous or has given rise to a concern about its possible non‑compliance with this Convention. The Executive Council shall respond by providing such assistance as appropriate.
+5.         A State Party shall also have the right to request the Executive Council to clarify any situation which has been considered ambiguous or has given rise to a concern about its possible non‑compliance with this Convention. The Executive Council shall respond by providing such assistance as appropriate.
 
-6.      The Executive Council shall inform the States Parties about any request for clarification provided in this Article.
+6.         The Executive Council shall inform the States Parties about any request for clarification provided in this Article.
 
-7.      If the doubt or concern of a State Party about a possible non‑compliance has not been resolved within 60 days after the submission of the request for clarification to the Executive Council, or it believes its doubts warrant urgent consideration, notwithstanding its right to request a challenge inspection, it may request a special session of the Conference in accordance with Article VIII, paragraph 12(c). At such a special session, the Conference shall consider the matter and may recommend any measure it deems appropriate to resolve the situation.
+7.         If the doubt or concern of a State Party about a possible non‑compliance has not been resolved within 60 days after the submission of the request for clarification to the Executive Council, or it believes its doubts warrant urgent consideration, notwithstanding its right to request a challenge inspection, it may request a special session of the Conference in accordance with Article VIII, paragraph 12(c). At such a special session, the Conference shall consider the matter and may recommend any measure it deems appropriate to resolve the situation.
 
 Procedures for Challenge Inspections
 
-8.      Each State Party has the right to request an on‑site challenge inspection of any facility or location in the territory or in any other place under the jurisdiction or control of any other State Party for the sole purpose of clarifying and resolving any questions concerning possible non‑compliance with the provisions of this Convention, and to have this inspection conducted anywhere without delay by an inspection team designated by the Director‑General and in accordance with the Verification Annex.
+8.         Each State Party has the right to request an on‑site challenge inspection of any facility or location in the territory or in any other place under the jurisdiction or control of any other State Party for the sole purpose of clarifying and resolving any questions concerning possible non‑compliance with the provisions of this Convention, and to have this inspection conducted anywhere without delay by an inspection team designated by the Director‑General and in accordance with the Verification Annex.
 
-9.      Each State Party is under the obligation to keep the inspection request within the scope of this Convention and to provide in the inspection request all appropriate information on the basis of which a concern has arisen regarding possible non‑compliance with this Convention as specified in the Verification Annex. Each State Party shall refrain from unfounded inspection requests, care being taken to avoid abuse. The challenge inspection shall be carried out for the sole purpose of determining facts relating to the possible non‑compliance.
+9.         Each State Party is under the obligation to keep the inspection request within the scope of this Convention and to provide in the inspection request all appropriate information on the basis of which a concern has arisen regarding possible non‑compliance with this Convention as specified in the Verification Annex. Each State Party shall refrain from unfounded inspection requests, care being taken to avoid abuse. The challenge inspection shall be carried out for the sole purpose of determining facts relating to the possible non‑compliance.
 
-10.    For the purpose of verifying compliance with the provisions of this Convention, each State Party shall permit the Technical Secretariat to conduct the on‑site challenge inspection pursuant to paragraph 8.
+10.       For the purpose of verifying compliance with the provisions of this Convention, each State Party shall permit the Technical Secretariat to conduct the on‑site challenge inspection pursuant to paragraph 8.
 
-11.    Pursuant to a request for a challenge inspection of a facility or location, and in accordance with the procedures provided for in the Verification Annex, the inspected State Party shall have:
+11.       Pursuant to a request for a challenge inspection of a facility or location, and in accordance with the procedures provided for in the Verification Annex, the inspected State Party shall have:
 
 (a)   the right and the obligation to make every reasonable effort to demonstrate its compliance with this Convention and, to this end, to enable the inspection team to fulfil its mandate;
 
@@ -3379,7 +3383,7 @@ Procedures for Challenge Inspections
 
 (c)   the right to take measures to protect sensitive installations, and to prevent disclosure of confidential information and data, not related to this Convention.
 
-12.    With regard to an observer, the following shall apply:
+12.       With regard to an observer, the following shall apply:
 
 (a)   The requesting State Party may, subject to the agreement of the inspected State Party, send a representative who may be a national either of the requesting State Party or of a third State Party, to observe the conduct of the challenge inspection.
 
@@ -3387,25 +3391,25 @@ Procedures for Challenge Inspections
 
 (c)   The inspected State Party shall, as a rule, accept the proposed observer, but if the inspected State Party exercises a refusal, that fact shall be recorded in the final report.
 
-13.    The requesting State Party shall present an inspection request for an on‑site challenge inspection to the Executive Council and at the same time to the Director‑General for immediate processing.
+13.       The requesting State Party shall present an inspection request for an on‑site challenge inspection to the Executive Council and at the same time to the Director‑General for immediate processing.
 
-14.    The Director‑General shall immediately ascertain that the inspection request meets the requirements specified in Part X, paragraph 4, of the Verification Annex, and, if necessary, assist the requesting State Party in filing the inspection request accordingly. When the inspection request fulfils the requirements, preparations for the challenge inspection shall begin.
+14.       The Director‑General shall immediately ascertain that the inspection request meets the requirements specified in Part X, paragraph 4, of the Verification Annex, and, if necessary, assist the requesting State Party in filing the inspection request accordingly. When the inspection request fulfils the requirements, preparations for the challenge inspection shall begin.
 
-15.    The Director‑General shall transmit the inspection request to the inspected State Party not less than 12 hours before the planned arrival of the inspection team at the point of entry.
+15.       The Director‑General shall transmit the inspection request to the inspected State Party not less than 12 hours before the planned arrival of the inspection team at the point of entry.
 
-16.    After having received the inspection request, the Executive Council shall take cognizance of the Director‑General’s actions on the request and shall keep the case under its consideration throughout the inspection procedure. However, its deliberations shall not delay the inspection process.
+16.       After having received the inspection request, the Executive Council shall take cognizance of the Director‑General’s actions on the request and shall keep the case under its consideration throughout the inspection procedure. However, its deliberations shall not delay the inspection process.
 
-17.    The Executive Council may, not later than 12 hours after having received the inspection request, decide by a three‑quarter majority of all its members against carrying out the challenge inspection, if it considers the inspection request to be frivolous, abusive or clearly beyond the scope of this Convention as described in paragraph 8\. Neither the requesting nor the inspected State Party shall participate in such a decision. If the Executive Council decides against the challenge inspection, preparations shall be stopped, no further action on the inspection request shall be taken, and the States Parties concerned shall be informed accordingly.
+17.       The Executive Council may, not later than 12 hours after having received the inspection request, decide by a three‑quarter majority of all its members against carrying out the challenge inspection, if it considers the inspection request to be frivolous, abusive or clearly beyond the scope of this Convention as described in paragraph 8\. Neither the requesting nor the inspected State Party shall participate in such a decision. If the Executive Council decides against the challenge inspection, preparations shall be stopped, no further action on the inspection request shall be taken, and the States Parties concerned shall be informed accordingly.
 
-18.    The Director‑General shall issue an inspection mandate for the conduct of the challenge inspection. The inspection mandate shall be the inspection request referred to in paragraphs 8 and 9 put into operational terms, and shall conform with the inspection request.
+18.       The Director‑General shall issue an inspection mandate for the conduct of the challenge inspection. The inspection mandate shall be the inspection request referred to in paragraphs 8 and 9 put into operational terms, and shall conform with the inspection request.
 
-19.    The challenge inspection shall be conducted in accordance with Part X or, in the case of alleged use, in accordance with Part XI of the Verification Annex. The inspection team shall be guided by the principle of conducting the challenge inspection in the least intrusive manner possible, consistent with the effective and timely accomplishment of its mission.
+19.       The challenge inspection shall be conducted in accordance with Part X or, in the case of alleged use, in accordance with Part XI of the Verification Annex. The inspection team shall be guided by the principle of conducting the challenge inspection in the least intrusive manner possible, consistent with the effective and timely accomplishment of its mission.
 
-20.    The inspected State Party shall assist the inspection team throughout the challenge inspection and facilitate its task. If the inspected State Party proposes, pursuant to Part X, Section C, of the Verification Annex, arrangements to demonstrate compliance with this Convention, alternative to full and comprehensive access, it shall make every reasonable effort, through consultations with the inspection team, to reach agreement on the modalities for establishing the facts with the aim of demonstrating its compliance.
+20.       The inspected State Party shall assist the inspection team throughout the challenge inspection and facilitate its task. If the inspected State Party proposes, pursuant to Part X, Section C, of the Verification Annex, arrangements to demonstrate compliance with this Convention, alternative to full and comprehensive access, it shall make every reasonable effort, through consultations with the inspection team, to reach agreement on the modalities for establishing the facts with the aim of demonstrating its compliance.
 
-21.    The final report shall contain the factual findings as well as an assessment by the inspection team of the degree and nature of access and cooperation granted for the satisfactory implementation of the challenge inspection. The Director‑General shall promptly transmit the final report of the inspection team to the requesting State Party, to the inspected State Party, to the Executive Council and to all other States Parties. The Director‑General shall further transmit promptly to the Executive Council the assessments of the requesting and of the inspected States Parties, as well as the views of other States Parties which may be conveyed to the Director‑General for that purpose, and then provide them to all States Parties.
+21.       The final report shall contain the factual findings as well as an assessment by the inspection team of the degree and nature of access and cooperation granted for the satisfactory implementation of the challenge inspection. The Director‑General shall promptly transmit the final report of the inspection team to the requesting State Party, to the inspected State Party, to the Executive Council and to all other States Parties. The Director‑General shall further transmit promptly to the Executive Council the assessments of the requesting and of the inspected States Parties, as well as the views of other States Parties which may be conveyed to the Director‑General for that purpose, and then provide them to all States Parties.
 
-22.    The Executive Council shall, in accordance with its powers and functions, review the final report of the inspection team as soon as it is presented, and address any concerns as to:
+22.       The Executive Council shall, in accordance with its powers and functions, review the final report of the inspection team as soon as it is presented, and address any concerns as to:
 
 (a)   whether any non‑compliance has occurred;
 
@@ -3413,31 +3417,31 @@ Procedures for Challenge Inspections
 
 (c)   whether the right to request a challenge inspection had been abused.
 
-23.    If the Executive Council reaches the conclusion, in keeping with its powers and functions, that further action may be necessary with regard to paragraph 22, it shall take the appropriate measures to redress the situation and to ensure compliance with this Convention, including specific recommendations to the Conference. In the case of abuse, the Executive Council shall examine whether the requesting State Party should bear any of the financial implications of the challenge inspection.
+23.       If the Executive Council reaches the conclusion, in keeping with its powers and functions, that further action may be necessary with regard to paragraph 22, it shall take the appropriate measures to redress the situation and to ensure compliance with this Convention, including specific recommendations to the Conference. In the case of abuse, the Executive Council shall examine whether the requesting State Party should bear any of the financial implications of the challenge inspection.
 
-24.    The requesting State Party and the inspected State Party shall have the right to participate in the review process. The Executive Council shall inform the States Parties and the next session of the Conference of the outcome of the process.
+24.       The requesting State Party and the inspected State Party shall have the right to participate in the review process. The Executive Council shall inform the States Parties and the next session of the Conference of the outcome of the process.
 
-25.    If the Executive Council has made specific recommendations to the Conference, the Conference shall consider action in accordance with Article XII.
+25.       If the Executive Council has made specific recommendations to the Conference, the Conference shall consider action in accordance with Article XII.
 
 Article X
 
 Assistance and protection against chemical weapons
 
-1.      For the purposes of this Article, “Assistance” means the coordination and delivery to State Parties of protection against chemical weapons, including, _inter alia_, the following: detection equipment and alarm systems; protective equipment; decontamination equipment and decontaminants; medical antidotes and treatments; and advice on any of these protective measures.
+1.         For the purposes of this Article, “Assistance” means the coordination and delivery to State Parties of protection against chemical weapons, including, _inter alia_, the following: detection equipment and alarm systems; protective equipment; decontamination equipment and decontaminants; medical antidotes and treatments; and advice on any of these protective measures.
 
-2.      Nothing in this Convention shall be interpreted as impeding the right of any State Party to conduct research into, develop, produce, acquire, transfer or use means of protection against chemical weapons, for purposes not prohibited under this Convention.
+2.         Nothing in this Convention shall be interpreted as impeding the right of any State Party to conduct research into, develop, produce, acquire, transfer or use means of protection against chemical weapons, for purposes not prohibited under this Convention.
 
-3.      Each State Party undertakes to facilitate, and shall have the right to participate in, the fullest possible exchange of equipment, material and scientific and technological information concerning means of protection against chemical weapons.
+3.         Each State Party undertakes to facilitate, and shall have the right to participate in, the fullest possible exchange of equipment, material and scientific and technological information concerning means of protection against chemical weapons.
 
-4.      For the purposes of increasing the transparency of national programmes related to protective purposes, each State Party shall provide annually to the Technical Secretariat information on its programme, in accordance with procedures to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+4.         For the purposes of increasing the transparency of national programmes related to protective purposes, each State Party shall provide annually to the Technical Secretariat information on its programme, in accordance with procedures to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-5.      The Technical Secretariat shall establish, not later than 180 days after entry into force of this Convention and maintain, for the use of any requesting State Party, a data bank containing freely available information concerning various means of protection against chemical weapons as well as such information as may be provided by States Parties. 
+5.         The Technical Secretariat shall establish, not later than 180 days after entry into force of this Convention and maintain, for the use of any requesting State Party, a data bank containing freely available information concerning various means of protection against chemical weapons as well as such information as may be provided by States Parties. 
 
 The Technical Secretariat shall also, within the resources available to it, and at the request of a State Party, provide expert advice and assist the State Party in identifying how its programmes for the development and improvement of a protective capacity against chemical weapons could be implemented.
 
-6.      Nothing in this Convention shall be interpreted as impeding the right of States Parties to request and provide assistance bilaterally and to conclude individual agreements with other States Parties concerning the emergency procurement of assistance.
+6.         Nothing in this Convention shall be interpreted as impeding the right of States Parties to request and provide assistance bilaterally and to conclude individual agreements with other States Parties concerning the emergency procurement of assistance.
 
-7.      Each State Party undertakes to provide assistance through the Organization and to this end to elect to take one or more of the following measures:
+7.         Each State Party undertakes to provide assistance through the Organization and to this end to elect to take one or more of the following measures:
 
 (a)   to contribute to the voluntary fund for assistance to be established by the Conference at its first session;
 
@@ -3445,7 +3449,7 @@ The Technical Secretariat shall also, within the resources available to it, and 
 
 (c)   to declare, not later than 180 days after this Convention enters into force for it, the kind of assistance it might provide in response to an appeal by the Organization. If, however, a State Party subsequently is unable to provide the assistance envisaged in its declaration, it is still under the obligation to provide assistance in accordance with this paragraph.
 
-8.      Each State Party has the right to request and, subject to the procedures set forth in paragraphs 9, 10 and 11, to receive assistance and protection against the use or threat of use of chemical weapons if it considers that:
+8.         Each State Party has the right to request and, subject to the procedures set forth in paragraphs 9, 10 and 11, to receive assistance and protection against the use or threat of use of chemical weapons if it considers that:
 
 (a)   chemical weapons have been used against it;
 
@@ -3453,19 +3457,19 @@ The Technical Secretariat shall also, within the resources available to it, and 
 
 (c)   it is threatened by actions or activities of any State that are prohibited for States Parties by Article I.
 
-9.      The request, substantiated by relevant information, shall be submitted to the Director‑General, who shall transmit it immediately to the Executive Council and to all States Parties. The Director‑General shall immediately forward the request to States Parties which have volunteered, in accordance with paragraphs 7(b) and (c), to dispatch emergency assistance in case of use of chemical weapons or use of riot control agents as a method of warfare, or humanitarian assistance in case of serious threat of use of chemical weapons or serious threat of use of riot control agents as a method of warfare to the State Party concerned not later than 12 hours after receipt of the request. The Director‑General shall initiate, not later than 24 hours after receipt of the request, an investigation in order to provide foundation for further action. He shall complete the investigation within 72 hours and forward a report to the Executive Council. If additional time is required for completion of the investigation, an interim report shall be submitted within the same time‑frame. The additional time required for investigation shall not exceed 72 hours. It may, however, be further extended by similar periods. Reports at the end of each additional period shall be submitted to the Executive Council. The investigation shall, as appropriate and in conformity with the request and the information accompanying the request, establish relevant facts related to the request as well as the type and scope of supplementary assistance and protection needed.
+9.         The request, substantiated by relevant information, shall be submitted to the Director‑General, who shall transmit it immediately to the Executive Council and to all States Parties. The Director‑General shall immediately forward the request to States Parties which have volunteered, in accordance with paragraphs 7(b) and (c), to dispatch emergency assistance in case of use of chemical weapons or use of riot control agents as a method of warfare, or humanitarian assistance in case of serious threat of use of chemical weapons or serious threat of use of riot control agents as a method of warfare to the State Party concerned not later than 12 hours after receipt of the request. The Director‑General shall initiate, not later than 24 hours after receipt of the request, an investigation in order to provide foundation for further action. He shall complete the investigation within 72 hours and forward a report to the Executive Council. If additional time is required for completion of the investigation, an interim report shall be submitted within the same time‑frame. The additional time required for investigation shall not exceed 72 hours. It may, however, be further extended by similar periods. Reports at the end of each additional period shall be submitted to the Executive Council. The investigation shall, as appropriate and in conformity with the request and the information accompanying the request, establish relevant facts related to the request as well as the type and scope of supplementary assistance and protection needed.
 
-10.    The Executive Council shall meet not later than 24 hours after receiving an investigation report to consider the situation and shall take a decision by simple majority within the following 24 hours on whether to instruct the Technical Secretariat to provide supplementary assistance. The Technical Secretariat shall immediately transmit to all States Parties and relevant international organizations the investigation report and the decision taken by the Executive Council. When so decided by the Executive Council, the Director‑General shall provide assistance immediately. For this purpose, the Director‑General may cooperate with the requesting State Party, other States Parties and relevant international organizations. The States Parties shall make the fullest possible efforts to provide assistance.
+10.       The Executive Council shall meet not later than 24 hours after receiving an investigation report to consider the situation and shall take a decision by simple majority within the following 24 hours on whether to instruct the Technical Secretariat to provide supplementary assistance. The Technical Secretariat shall immediately transmit to all States Parties and relevant international organizations the investigation report and the decision taken by the Executive Council. When so decided by the Executive Council, the Director‑General shall provide assistance immediately. For this purpose, the Director‑General may cooperate with the requesting State Party, other States Parties and relevant international organizations. The States Parties shall make the fullest possible efforts to provide assistance.
 
-11.    If the information available from the ongoing investigation or other reliable sources would give sufficient proof that there are victims of use of chemical weapons and immediate action is indispensable, the Director‑General shall notify all States Parties and shall take emergency measures of assistance, using the resources the Conference has placed at his disposal for such contingencies. The Director‑General shall keep the Executive Council informed of actions undertaken pursuant to this paragraph.
+11.       If the information available from the ongoing investigation or other reliable sources would give sufficient proof that there are victims of use of chemical weapons and immediate action is indispensable, the Director‑General shall notify all States Parties and shall take emergency measures of assistance, using the resources the Conference has placed at his disposal for such contingencies. The Director‑General shall keep the Executive Council informed of actions undertaken pursuant to this paragraph.
 
 Article XI
 
 Economic and technological development
 
-1.      The provisions of this Convention shall be implemented in a manner which avoids hampering the economic or technological development of States Parties, and international cooperation in the field of chemical activities for purposes not prohibited under this Convention including the international exchange of scientific and technical information and chemicals and equipment for the production, processing or use of chemicals for purposes not prohibited under this Convention.
+1.         The provisions of this Convention shall be implemented in a manner which avoids hampering the economic or technological development of States Parties, and international cooperation in the field of chemical activities for purposes not prohibited under this Convention including the international exchange of scientific and technical information and chemicals and equipment for the production, processing or use of chemicals for purposes not prohibited under this Convention.
 
-2.      Subject to the provisions of this Convention and without prejudice to the principles and applicable rules of international law, the States Parties shall:
+2.         Subject to the provisions of this Convention and without prejudice to the principles and applicable rules of international law, the States Parties shall:
 
 (a)   have the right, individually or collectively, to conduct research with, to develop, produce, acquire, retain, transfer, and use chemicals;
 
@@ -3481,13 +3485,13 @@ Article XII
 
 Measures to redress a situation and to ensure compliance, including sanctions
 
-1.      The Conference shall take the necessary measures, as set forth in paragraphs 2, 3 and 4, to ensure compliance with this Convention and to redress and remedy any situation which contravenes the provisions of this Convention. In considering action pursuant to this paragraph, the Conference shall take into account all information and recommendations on the issues submitted by the Executive Council.
+1.         The Conference shall take the necessary measures, as set forth in paragraphs 2, 3 and 4, to ensure compliance with this Convention and to redress and remedy any situation which contravenes the provisions of this Convention. In considering action pursuant to this paragraph, the Conference shall take into account all information and recommendations on the issues submitted by the Executive Council.
 
-2.      In cases where a State Party has been requested by the Executive Council to take measures to redress a situation raising problems with regard to its compliance, and where the State Party fails to fulfil the request within the specified time, the Conference may, _inter alia_, upon the recommendation of the Executive Council, restrict or suspend the State Party’s rights and privileges under this Convention until it undertakes the necessary action to conform with its obligations under this Convention.
+2.         In cases where a State Party has been requested by the Executive Council to take measures to redress a situation raising problems with regard to its compliance, and where the State Party fails to fulfil the request within the specified time, the Conference may, _inter alia_, upon the recommendation of the Executive Council, restrict or suspend the State Party’s rights and privileges under this Convention until it undertakes the necessary action to conform with its obligations under this Convention.
 
-3.      In cases where serious damage to the object and purpose of this Convention may result from activities prohibited under this Convention, in particular by Article I, the Conference may recommend collective measures to States Parties in conformity with international law.
+3.         In cases where serious damage to the object and purpose of this Convention may result from activities prohibited under this Convention, in particular by Article I, the Conference may recommend collective measures to States Parties in conformity with international law.
 
-4.      The Conference shall in cases of particular gravity, bring the issue, including relevant information and conclusions, to the attention of the United Nations General Assembly and the United Nations Security Council.
+4.         The Conference shall in cases of particular gravity, bring the issue, including relevant information and conclusions, to the attention of the United Nations General Assembly and the United Nations Security Council.
 
 Article XIII
 
@@ -3499,35 +3503,35 @@ Article XIV
 
 Settlement of disputes
 
-1.      Disputes that may arise concerning the application or the interpretation of this Convention shall be settled in accordance with the relevant provisions of this Convention and in conformity with the provisions of the Charter of the United Nations.
+1.         Disputes that may arise concerning the application or the interpretation of this Convention shall be settled in accordance with the relevant provisions of this Convention and in conformity with the provisions of the Charter of the United Nations.
 
-2.      When a dispute arises between two or more States Parties, or between one or more States Parties and the Organization, relating to the interpretation or application of this Convention, the parties concerned shall consult together with a view to the expeditious settlement of the dispute by negotiation or by other peaceful means of the parties’ choice, including recourse to appropriate organs of this Convention and, by mutual consent, referral to the International Court of Justice in conformity with the Statute of the Court. The States Parties involved shall keep the Executive Council informed of actions being taken.
+2.         When a dispute arises between two or more States Parties, or between one or more States Parties and the Organization, relating to the interpretation or application of this Convention, the parties concerned shall consult together with a view to the expeditious settlement of the dispute by negotiation or by other peaceful means of the parties’ choice, including recourse to appropriate organs of this Convention and, by mutual consent, referral to the International Court of Justice in conformity with the Statute of the Court. The States Parties involved shall keep the Executive Council informed of actions being taken.
 
-3.      The Executive Council may contribute to the settlement of a dispute by whatever means it deems appropriate, including offering its good offices, calling upon the States Parties to a dispute to start the settlement process of their choice and recommending a time‑limit for any agreed procedure.
+3.         The Executive Council may contribute to the settlement of a dispute by whatever means it deems appropriate, including offering its good offices, calling upon the States Parties to a dispute to start the settlement process of their choice and recommending a time‑limit for any agreed procedure.
 
-4.      The Conference shall consider questions related to disputes raised by States Parties or brought to its attention by the Executive Council. The Conference shall, as it finds necessary, establish or entrust organs with tasks related to the settlement of these disputes in conformity with Article VIII, paragraph 21(f).
+4.         The Conference shall consider questions related to disputes raised by States Parties or brought to its attention by the Executive Council. The Conference shall, as it finds necessary, establish or entrust organs with tasks related to the settlement of these disputes in conformity with Article VIII, paragraph 21(f).
 
-5.      The Conference and the Executive Council are separately empowered, subject to authorization from the General Assembly of the United Nations, to request the International Court of Justice to give an advisory opinion on any legal question arising within the scope of the activities of the Organization. An agreement between the Organization and the United Nations shall be concluded for this purpose in accordance with Article VIII, paragraph 34(a).
+5.         The Conference and the Executive Council are separately empowered, subject to authorization from the General Assembly of the United Nations, to request the International Court of Justice to give an advisory opinion on any legal question arising within the scope of the activities of the Organization. An agreement between the Organization and the United Nations shall be concluded for this purpose in accordance with Article VIII, paragraph 34(a).
 
-6.      This Article is without prejudice to Article IX or to the provisions on measures to redress a situation and to ensure compliance, including sanctions.
+6.         This Article is without prejudice to Article IX or to the provisions on measures to redress a situation and to ensure compliance, including sanctions.
 
 Article XV
 
 Amendments
 
-1.      Any State Party may propose amendments to this Convention. Any State Party may also propose changes, as specified in paragraph 4, to the Annexes of this Convention. Proposals for amendments shall be subject to the procedures in paragraphs 2 and 3\. Proposals for changes, as specified in paragraph 4, shall be subject to the procedures in paragraph 5.
+1.         Any State Party may propose amendments to this Convention. Any State Party may also propose changes, as specified in paragraph 4, to the Annexes of this Convention. Proposals for amendments shall be subject to the procedures in paragraphs 2 and 3\. Proposals for changes, as specified in paragraph 4, shall be subject to the procedures in paragraph 5.
 
-2.      The text of a proposed amendment shall be submitted to the Director‑General for circulation to all States Parties and to the Depositary. The proposed amendment shall be considered only by an Amendment Conference. Such an Amendment Conference shall be convened if one third or more of the States Parties notify the Director‑General not later than 30 days after its circulation that they support further consideration of the proposal. The Amendment Conference shall be held immediately following a regular session of the Conference unless the requesting States Parties ask for an earlier meeting. In no case shall an Amendment Conference be held less than 60 days after the circulation of the proposed amendment.
+2.         The text of a proposed amendment shall be submitted to the Director‑General for circulation to all States Parties and to the Depositary. The proposed amendment shall be considered only by an Amendment Conference. Such an Amendment Conference shall be convened if one third or more of the States Parties notify the Director‑General not later than 30 days after its circulation that they support further consideration of the proposal. The Amendment Conference shall be held immediately following a regular session of the Conference unless the requesting States Parties ask for an earlier meeting. In no case shall an Amendment Conference be held less than 60 days after the circulation of the proposed amendment.
 
-3.      Amendments shall enter into force for all States Parties 30 days after deposit of the instruments of ratification or acceptance by all the States Parties referred to under subparagraph (b) below:
+3.         Amendments shall enter into force for all States Parties 30 days after deposit of the instruments of ratification or acceptance by all the States Parties referred to under subparagraph (b) below:
 
 (a)   when adopted by the Amendment Conference by a positive vote of a majority of all States Parties with no State Party casting a negative vote; and
 
 (b)   ratified or accepted by all those States Parties casting a positive vote at the Amendment Conference.
 
-4.      In order to ensure the viability and the effectiveness of this Convention, provisions in the Annexes shall be subject to changes in accordance with paragraph 5, if proposed changes are related only to matters of an administrative or technical nature. All changes to the Annex on Chemicals shall be made in accordance with paragraph 5\. Sections A and C of the Confidentiality Annex, Part X of the Verification Annex, and those definitions in Part I of the Verification Annex which relate exclusively to challenge inspections, shall not be subject to changes in accordance with paragraph 5.
+4.         In order to ensure the viability and the effectiveness of this Convention, provisions in the Annexes shall be subject to changes in accordance with paragraph 5, if proposed changes are related only to matters of an administrative or technical nature. All changes to the Annex on Chemicals shall be made in accordance with paragraph 5\. Sections A and C of the Confidentiality Annex, Part X of the Verification Annex, and those definitions in Part I of the Verification Annex which relate exclusively to challenge inspections, shall not be subject to changes in accordance with paragraph 5.
 
-5.      Proposed changes referred to in paragraph 4 shall be made in accordance with the following procedures:
+5.         Proposed changes referred to in paragraph 4 shall be made in accordance with the following procedures:
 
 (a)   the text of the proposed changes shall be transmitted together with the necessary information to the Director‑General. Additional information for the evaluation of the proposal may be provided by any State Party and the Director‑General. The Director‑General shall promptly communicate any such proposals and information to all States Parties, the Executive Council and the Depositary;
 
@@ -3547,11 +3551,11 @@ Article XVI
 
 Duration and withdrawal
 
-1.      This Convention shall be of unlimited duration.
+1.         This Convention shall be of unlimited duration.
 
-2.      Each State Party shall, in exercising its national sovereignty, have the right to withdraw from this Convention if it decides that extraordinary events, related to the subject‑matter of this Convention, have jeopardized the supreme interests of its country. It shall give notice of such withdrawal 90 days in advance to all other States Parties, the Executive Council, the Depositary and the United Nations Security Council. Such notice shall include a statement of the extraordinary events it regards as having jeopardized its supreme interests.
+2.         Each State Party shall, in exercising its national sovereignty, have the right to withdraw from this Convention if it decides that extraordinary events, related to the subject‑matter of this Convention, have jeopardized the supreme interests of its country. It shall give notice of such withdrawal 90 days in advance to all other States Parties, the Executive Council, the Depositary and the United Nations Security Council. Such notice shall include a statement of the extraordinary events it regards as having jeopardized its supreme interests.
 
-3.      The withdrawal of a State Party from this Convention shall not in any way effect the duty of States to continue fulfilling the obligations assumed under any relevant rules of international law, particularly the Geneva Protocol of 1925.
+3.         The withdrawal of a State Party from this Convention shall not in any way effect the duty of States to continue fulfilling the obligations assumed under any relevant rules of international law, particularly the Geneva Protocol of 1925.
 
 Article XVII
 
@@ -3581,9 +3585,9 @@ Article XXI
 
 Entry into force
 
-1.      This Convention shall enter into force 180 days after the date of the deposit of the 65th instrument of ratification, but in no case earlier than two years after its opening for signature.
+1.         This Convention shall enter into force 180 days after the date of the deposit of the 65th instrument of ratification, but in no case earlier than two years after its opening for signature.
 
-2.      For States whose instruments of ratification or accession are deposited subsequent to the entry into force of this Convention, it shall enter into force on the 30th day following the date of deposit of their instrument of ratification or accession.
+2.         For States whose instruments of ratification or accession are deposited subsequent to the entry into force of this Convention, it shall enter into force on the 30th day following the date of deposit of their instrument of ratification or accession.
 
 Article XXII
 
@@ -3627,7 +3631,7 @@ A. GUIDELINES FOR SCHEDULES OF CHEMICALS
 
 Guidelines for Schedule 1
 
-1.      The following criteria shall be taken into account in considering whether a toxic chemical or precursor should be included in Schedule 1:
+1.         The following criteria shall be taken into account in considering whether a toxic chemical or precursor should be included in Schedule 1:
 
 (a)   it has been developed, produced, stockpiled or used as a chemical weapon as defined in Article II;
 
@@ -3643,7 +3647,7 @@ Guidelines for Schedule 1
 
 Guidelines for Schedule 2
 
-2.      The following criteria shall be taken into account in considering whether a toxic chemical not listed in Schedule 1 or a precursor to a Schedule 1 chemical or to a chemical listed in Schedule 2, part A, should be included in Schedule 2:
+2.         The following criteria shall be taken into account in considering whether a toxic chemical not listed in Schedule 1 or a precursor to a Schedule 1 chemical or to a chemical listed in Schedule 2, part A, should be included in Schedule 2:
 
 (a)   it poses a significant risk to the object and purpose of this Convention because it possesses such lethal or incapacitating toxicity as well as other properties that could enable it to be used as a chemical weapon;
 
@@ -3655,7 +3659,7 @@ Guidelines for Schedule 2
 
 Guidelines for Schedule 3
 
-3.      The following criteria shall be taken into account in considering whether a toxic chemical or precursor, not listed in other Schedules, should be included in Schedule 3:
+3.         The following criteria shall be taken into account in considering whether a toxic chemical or precursor, not listed in other Schedules, should be included in Schedule 3:
 
 (a)   it has been produced, stockpiled or used as a chemical weapon;
 
@@ -3669,7 +3673,7 @@ B. SCHEDULES OF CHEMICALS
 
 The following Schedules list toxic chemicals and their precursors. For the purpose of implementing this Convention, these Schedules identify chemicals for the application of verification measures according to the provisions of the Verification Annex. Pursuant to Article II, subparagraph 1(a), these Schedules do not constitute a definition of chemical weapons.
 
-         (Whenever reference is made to groups of dialkylated chemicals, followed by a list of alkyl groups in parentheses, all chemicals possible by all possible combinations of alkyl groups listed in the parentheses are considered as listed in the respective Schedule as long as they are not explicitly exempted. A chemical marked “* ” on Schedule 2, part A, is subject to special thresholds for declaration and verification, as specified in Part VII of the Verification Annex.)
+            (Whenever reference is made to groups of dialkylated chemicals, followed by a list of alkyl groups in parentheses, all chemicals possible by all possible combinations of alkyl groups listed in the parentheses are considered as listed in the respective Schedule as long as they are not explicitly exempted. A chemical marked “* ” on Schedule 2, part A, is subject to special thresholds for declaration and verification, as specified in Part VII of the Verification Annex.)
 
 <u>Schedule 1</u>
 
@@ -3680,34 +3684,27 @@ number)
 A.   Toxic chemicals:
 
 (1)   O‑Alkyl (≤ C10, incl. cycloalkyl) alkyl
-
-       (Me, Et, n‑Pr or i‑Pr)‑ phosphonofluoridates
+ (Me, Et, n‑Pr or i‑Pr)‑ phosphonofluoridates
 
        e.g. Sarin:           O‑Isopropyl methylphosphonofluoridate     (107‑44‑8)
 
               Soman:        O‑Pinacolyl methylphosphonofluoridate       (96‑64‑0)
 
 (2)   O‑Alkyl (≤ C10, incl. cycloalkyl) N,N‑dialkyl
-
-       (Me, Et, n‑Pr or i‑Pr) phosphoramidocyanidates
+ (Me, Et, n‑Pr or i‑Pr) phosphoramidocyanidates
 
        e.g. Tabun:         O‑Ethyl N,N‑dimethyl 
-
-                                 phosphoramidocyanidate                               (77‑81‑6)
+                           phosphoramidocyanidate                               (77‑81‑6)
 
 (3)   O‑Alkyl (H or ≤ C10, incl. cycloalkyl) S‑2‑dialkyl
-
-       (Me, Et, n‑Pr or i‑Pr)‑aminoethyl alkyl
-
-       (Me, Et, n‑Pr or i‑Pr) phosphonothiolates and corresponding
- alkylated or protonated salts
+ (Me, Et, n‑Pr or i‑Pr)‑aminoethyl alkyl
+ (Me, Et, n‑Pr or i‑Pr) phosphonothiolates and corresponding alkylated or protonated salts
 
        e.g. VX:             O‑Ethyl S‑2‑diisopropylaminoethyl methyl
                            phosphonothiolate                                   (50782‑69‑9)
 
 (4)   Sulfur mustards:
-
-       2‑Chloroethylchloromethylsulfide                                       (2625‑76‑5)
+ 2‑Chloroethylchloromethylsulfide                                       (2625‑76‑5)
 
        Mustard gas: Bis(2‑chloroethyl) sulfide                                 (505‑60‑2)
 
@@ -3752,11 +3749,8 @@ B.    Precursors:
        e.g. DF:              Methylphosphonyldifluoride                       (676‑99‑3)
 
 (10) O‑Alkyl (H or ≤ C10, incl. cycloalkyl) O‑2‑dialkyl
-
-       (Me, Et, n‑Pr or i‑Pr)‑aminoethyl alkyl
-
-       (Me, Et, N‑Pr or i‑Pr) phosphonites and corresponding
- alkylated or protonated salts
+ (Me, Et, n‑Pr or i‑Pr)‑aminoethyl alkyl                                                    
+ (Me, Et, N‑Pr or i‑Pr) phosphonites and corresponding alkylated or protonated salts
 
        e.g. QL:              O‑Ethyl O‑2‑diisopropylaminoethyl
                            methylphosphonite                                  (57856‑11‑8)
@@ -3776,17 +3770,17 @@ A.   Toxic chemicals:
 (2)   PFIB:                 1,1,3,3,3‑Pentafluoro‑2‑(trifluoromethyl)‑
                            1‑propene                                                    (382‑21‑8)
 
-(3)   BZ:                    3‑Quinuclidinyl benzilate (*)                     (6581‑06‑2)
+(3)   BZ:                    3‑Quinuclidinyl benzilate (* )                      (6581‑06‑2)
 
 B.    Precursors:
 
 (4)   Chemicals, except for those listed in Schedule 1, containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms,
 
-       e.g.                     Methylphosphonyl dichloride                      (676‑97‑1)
+e.g.                     Methylphosphonyl dichloride                      (676‑97‑1)
 
                                  Dimethyl methylphosphonate                      (756‑79‑6)
 
-       Exemption:        Fonofos: O‑Ethyl S‑phenyl 
+Exemption:        Fonofos: O‑Ethyl S‑phenyl 
                            ethylphosphonothiolothionate                      (944‑22‑9)
 
 (5)   N,N‑Dialkyl (Me, Et, n‑Pr or i‑Pr) phosphoramidic dihalides
@@ -3819,6 +3813,8 @@ Exemptions:       N,N‑Dimethylaminoethanol and
 
 (14)Pinacolyl 
  alcohol:              3,3‑Dimethylbutane‑2‑ol                              (464‑07‑3)
+
+<u> </u>
 
 <u>Schedule 3</u>
 
@@ -3880,7 +3876,7 @@ Page
     <div><b>Part I:</b></div>
   </td>
   <td>
-    <div>Definitions.............................................................</div>
+    <div>Definitions.........................................................</div>
   </td>
   <td>
     <div>40</div>
@@ -3891,7 +3887,7 @@ Page
     <div><b>Part II:</b></div>
   </td>
   <td>
-    <div>General Rules of Verification................................</div>
+    <div>General Rules of Verification............................</div>
   </td>
   <td>
     <div>43</div>
@@ -3902,7 +3898,7 @@ Page
     <div>A.</div>
   </td>
   <td>
-    <div>Designation of inspectors and inspection assistants</div>
+    <div>Designation of inspectors and inspection assistants...........................................................................</div>
   </td>
   <td>
     <div>43</div>
@@ -3913,7 +3909,7 @@ Page
     <div>B.</div>
   </td>
   <td>
-    <div>Privileges and immunities.......................................</div>
+    <div>Privileges and immunities...................................</div>
   </td>
   <td>
     <div>44</div>
@@ -3924,7 +3920,7 @@ Page
     <div>C.</div>
   </td>
   <td>
-    <div>Standing arrangements...........................................</div>
+    <div>Standing arrangements.......................................</div>
   </td>
   <td>
     <div>45</div>
@@ -3935,7 +3931,7 @@ Page
     <div></div>
   </td>
   <td>
-    <div>Points of entry.................................................</div>
+    <div>Points of entry.............................................</div>
   </td>
   <td>
     <div>45</div>
@@ -3946,12 +3942,10 @@ Page
     <div></div>
   </td>
   <td>
-    <div>Arrangements for use of non‑scheduled 
-aircraft.............................................................</div>
+    <div>Arrangements for use of non‑scheduled aircraft</div>
   </td>
   <td>
-    <div>
-46</div>
+    <div>46</div>
   </td>
 </tr>
 <tr>
@@ -3959,7 +3953,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Administrative arrangements...........................</div>
+    <div>Administrative arrangements.......................</div>
   </td>
   <td>
     <div>47</div>
@@ -3970,7 +3964,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Approved equipment.......................................</div>
+    <div>Approved equipment...................................</div>
   </td>
   <td>
     <div>47</div>
@@ -3981,7 +3975,7 @@ aircraft.............................................................</div>
     <div>D.</div>
   </td>
   <td>
-    <div>Pre‑inspection activities..........................................</div>
+    <div>Pre‑inspection activities......................................</div>
   </td>
   <td>
     <div>47</div>
@@ -3992,7 +3986,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Notification.....................................................</div>
+    <div>Notification.................................................</div>
   </td>
   <td>
     <div>47</div>
@@ -4003,12 +3997,11 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Entry into the territory of the inspected State Party or Host State and transfer to the inspection site..................................................</div>
+    <div>Entry into the territory of the inspected 
+State Party or Host State and transfer to the inspection site..............................................</div>
   </td>
   <td>
-    <div>
-
-48</div>
+    <div>48</div>
   </td>
 </tr>
 <tr>
@@ -4016,7 +4009,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Pre‑inspection briefing.....................................</div>
+    <div>Pre‑inspection briefing.................................</div>
   </td>
   <td>
     <div>48</div>
@@ -4027,7 +4020,7 @@ aircraft.............................................................</div>
     <div>E.</div>
   </td>
   <td>
-    <div>Conduct of inspections..........................................</div>
+    <div>Conduct of inspections......................................</div>
   </td>
   <td>
     <div>48</div>
@@ -4038,7 +4031,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>General rules...................................................</div>
+    <div>General rules...............................................</div>
   </td>
   <td>
     <div>48</div>
@@ -4049,7 +4042,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Safety..............................................................</div>
+    <div>Safety..........................................................</div>
   </td>
   <td>
     <div>49</div>
@@ -4060,7 +4053,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Communications..............................................</div>
+    <div>Communications..........................................</div>
   </td>
   <td>
     <div>49</div>
@@ -4071,7 +4064,8 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Inspection team and inspected State Party rights</div>
+    <div>Inspection team and inspected State 
+Party rights...................................................</div>
   </td>
   <td>
     <div>49</div>
@@ -4082,7 +4076,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Collection, handling and analysis of samples..</div>
+    <div>Collection, handling and analysis of samples</div>
   </td>
   <td>
     <div>50</div>
@@ -4093,7 +4087,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Extension of inspection duration.....................</div>
+    <div>Extension of inspection duration.................</div>
   </td>
   <td>
     <div>51</div>
@@ -4104,7 +4098,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Debriefing.......................................................</div>
+    <div>Debriefing...................................................</div>
   </td>
   <td>
     <div>51</div>
@@ -4115,7 +4109,7 @@ aircraft.............................................................</div>
     <div>F.</div>
   </td>
   <td>
-    <div>Departure...............................................................</div>
+    <div>Departure...........................................................</div>
   </td>
   <td>
     <div>51</div>
@@ -4126,7 +4120,7 @@ aircraft.............................................................</div>
     <div>G.</div>
   </td>
   <td>
-    <div>Reports...................................................................</div>
+    <div>Reports...............................................................</div>
   </td>
   <td>
     <div>51</div>
@@ -4137,7 +4131,7 @@ aircraft.............................................................</div>
     <div>H.</div>
   </td>
   <td>
-    <div>Application of general provisions..........................</div>
+    <div>Application of general provisions......................</div>
   </td>
   <td>
     <div>51</div>
@@ -4148,11 +4142,10 @@ aircraft.............................................................</div>
     <div><b>Part III:</b></div>
   </td>
   <td>
-    <div>General provisions for verification measures pursuant to Articles IV, V and VI, paragraph 3......</div>
+    <div>General provisions for verification measures pursuant to Articles IV, V and VI, paragraph 3..</div>
   </td>
   <td>
-    <div>
-52</div>
+    <div>52</div>
   </td>
 </tr>
 <tr>
@@ -4160,7 +4153,7 @@ aircraft.............................................................</div>
     <div>A.</div>
   </td>
   <td>
-    <div>Initial inspections and facility agreements..............</div>
+    <div>Initial inspections and facility agreements..........</div>
   </td>
   <td>
     <div>52</div>
@@ -4171,7 +4164,7 @@ aircraft.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Standing arrangements...........................................</div>
+    <div>Standing arrangements.......................................</div>
   </td>
   <td>
     <div>53</div>
@@ -4182,7 +4175,7 @@ aircraft.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Pre‑inspection activities..........................................</div>
+    <div>Pre‑inspection activities......................................</div>
   </td>
   <td>
     <div>53</div>
@@ -4193,11 +4186,10 @@ aircraft.............................................................</div>
     <div><b>Part IV (A):</b></div>
   </td>
   <td>
-    <div>Destruction of Chemical Weapons and its verification pursuant to Article IV..........................</div>
+    <div>Destruction of Chemical Weapons and its verification pursuant to Article IV......................</div>
   </td>
   <td>
-    <div>
-54</div>
+    <div>54</div>
   </td>
 </tr>
 <tr>
@@ -4205,7 +4197,7 @@ aircraft.............................................................</div>
     <div>A.</div>
   </td>
   <td>
-    <div>Declarations...........................................................</div>
+    <div>Declarations.......................................................</div>
   </td>
   <td>
     <div>54</div>
@@ -4216,7 +4208,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Chemical weapons...........................................</div>
+    <div>Chemical weapons.......................................</div>
   </td>
   <td>
     <div>54</div>
@@ -4227,19 +4219,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Declarations of chemical weapons pursuant to Article III, paragraph 1(a)(iii)...........................</div>
-  </td>
-  <td>
-    <div>
-55</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Declarations of past transfers and receipts.......</div>
+    <div>Declarations of chemical weapons pursuant to Article III, paragraph 1(a)(iii).......................</div>
   </td>
   <td>
     <div>55</div>
@@ -4250,11 +4230,21 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Submission of the general plan for destruction of chemical weapons.......................................</div>
+    <div>Declarations of past transfers and receipts...</div>
   </td>
   <td>
-    <div>
-56</div>
+    <div>55</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Submission of the general plan for destruction of chemical weapons...................................</div>
+  </td>
+  <td>
+    <div>56</div>
   </td>
 </tr>
 <tr>
@@ -4262,11 +4252,10 @@ aircraft.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Measures to secure the storage facility and storage facility preparation.................................................</div>
+    <div>Measures to secure the storage facility and storage facility preparation.............................................</div>
   </td>
   <td>
-    <div>
-56</div>
+    <div>56</div>
   </td>
 </tr>
 <tr>
@@ -4274,7 +4263,7 @@ aircraft.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Destruction.............................................................</div>
+    <div>Destruction.........................................................</div>
   </td>
   <td>
     <div>57</div>
@@ -4285,19 +4274,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Principles and methods for destruction of chemical weapons...........................................</div>
-  </td>
-  <td>
-    <div>
-57</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Order of destruction........................................</div>
+    <div>Principles and methods for destruction of chemical weapons.......................................</div>
   </td>
   <td>
     <div>57</div>
@@ -4308,23 +4285,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Modification of intermediate destruction deadlines.........................................................</div>
+    <div>Order of destruction....................................</div>
   </td>
   <td>
-    <div>
-58</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Extension of the deadline for completion of destruction.......................................................</div>
-  </td>
-  <td>
-    <div>
-59</div>
+    <div>57</div>
   </td>
 </tr>
 <tr>
@@ -4332,7 +4296,18 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Detailed annual plans for destruction..............</div>
+    <div>Modification of intermediate destruction deadlines.....................................................</div>
+  </td>
+  <td>
+    <div>58</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Extension of the deadline for completion of destruction...................................................</div>
   </td>
   <td>
     <div>59</div>
@@ -4343,7 +4318,18 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Annual reports on destruction..........................</div>
+    <div>Detailed annual plans for destruction..........</div>
+  </td>
+  <td>
+    <div>59</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Annual reports on destruction......................</div>
   </td>
   <td>
     <div>61</div>
@@ -4354,7 +4340,7 @@ aircraft.............................................................</div>
     <div>D.</div>
   </td>
   <td>
-    <div>Verification............................................................</div>
+    <div>Verification........................................................</div>
   </td>
   <td>
     <div>61</div>
@@ -4365,19 +4351,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Verification of declarations of chemical weapons through on‑site inspection.................</div>
-  </td>
-  <td>
-    <div>
-61</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Systematic verification of storage facilities......</div>
+    <div>Verification of declarations of chemical weapons through on‑site inspection.............</div>
   </td>
   <td>
     <div>61</div>
@@ -4388,7 +4362,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Inspections and visits.......................................</div>
+    <div>Systematic verification of storage facilities..</div>
   </td>
   <td>
     <div>61</div>
@@ -4399,23 +4373,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Systematic verification of the destruction of chemical weapons...........................................</div>
+    <div>Inspections and visits...................................</div>
   </td>
   <td>
-    <div>
-62</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Chemical weapons storage facilities at chemical weapons destruction facilities..........................</div>
-  </td>
-  <td>
-    <div>
-64</div>
+    <div>61</div>
   </td>
 </tr>
 <tr>
@@ -4423,11 +4384,32 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Systematic on‑site verification measures at chemical weapons destruction facilities...........</div>
+    <div>Systematic verification of the destruction of chemical weapons.......................................</div>
   </td>
   <td>
-    <div>
-64</div>
+    <div>62</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Chemical weapons storage facilities at chemical weapons destruction facilities......................</div>
+  </td>
+  <td>
+    <div>64</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Systematic on‑site verification measures at chemical weapons destruction facilities.......</div>
+  </td>
+  <td>
+    <div>64</div>
   </td>
 </tr>
 <tr>
@@ -4435,11 +4417,10 @@ aircraft.............................................................</div>
     <div><b>Part IV (B):</b></div>
   </td>
   <td>
-    <div>Old chemical weapons and abandoned chemical weapons.................................................................</div>
+    <div>Old chemical weapons and abandoned chemical weapons.............................................................</div>
   </td>
   <td>
-    <div>
-65</div>
+    <div>65</div>
   </td>
 </tr>
 <tr>
@@ -4447,7 +4428,7 @@ aircraft.............................................................</div>
     <div>A.</div>
   </td>
   <td>
-    <div>General..................................................................</div>
+    <div>General..............................................................</div>
   </td>
   <td>
     <div>65</div>
@@ -4458,7 +4439,7 @@ aircraft.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Regime for old chemical weapons.........................</div>
+    <div>Regime for old chemical weapons.....................</div>
   </td>
   <td>
     <div>65</div>
@@ -4469,7 +4450,7 @@ aircraft.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Regime for abandoned chemical weapons.............</div>
+    <div>Regime for abandoned chemical weapons.........</div>
   </td>
   <td>
     <div>66</div>
@@ -4480,11 +4461,10 @@ aircraft.............................................................</div>
     <div><b>Part V:</b></div>
   </td>
   <td>
-    <div>Destruction of chemical weapons production facilities and its verification pursuant to Article V.</div>
+    <div>Destruction of chemical weapons production facilities and its verification pursuant to Article V...........................................................................</div>
   </td>
   <td>
-    <div>
-68</div>
+    <div>68</div>
   </td>
 </tr>
 <tr>
@@ -4492,7 +4472,7 @@ aircraft.............................................................</div>
     <div>A.</div>
   </td>
   <td>
-    <div>Declarations...........................................................</div>
+    <div>Declarations.......................................................</div>
   </td>
   <td>
     <div>68</div>
@@ -4503,25 +4483,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Declarations of chemical weapons production facilities...........................................................</div>
+    <div>Declarations of chemical weapons production facilities.......................................................</div>
   </td>
   <td>
-    <div>
-68</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Declarations of chemical weapons production facilities pursuant to Article III, paragraph 1(c)(iii)............................................................</div>
-  </td>
-  <td>
-    <div>
-
-</div>
-    <div>69</div>
+    <div>68</div>
   </td>
 </tr>
 <tr>
@@ -4529,7 +4494,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Declarations of past transfers and receipts.......</div>
+    <div>Declarations of chemical weapons production facilities pursuant to Article III, paragraph 1(c)(iii)........................................................</div>
   </td>
   <td>
     <div>69</div>
@@ -4540,7 +4505,18 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Submission of general plans for destruction....</div>
+    <div>Declarations of past transfers and receipts...</div>
+  </td>
+  <td>
+    <div>69</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Submission of general plans for destruction</div>
   </td>
   <td>
     <div>70</div>
@@ -4551,11 +4527,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Submission of annual plans for destruction and annual reports on destruction ..........................</div>
+    <div>Submission of annual plans for destruction and annual reports on destruction ......................</div>
   </td>
   <td>
-    <div>7 
-0</div>
+    <div>70</div>
   </td>
 </tr>
 <tr>
@@ -4563,7 +4538,7 @@ aircraft.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Destruction.............................................................</div>
+    <div>Destruction.........................................................</div>
   </td>
   <td>
     <div>70</div>
@@ -4574,23 +4549,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>General principles for destruction of chemical weapons production facilities..........................</div>
+    <div>General principles for destruction of chemical weapons production facilities......................</div>
   </td>
   <td>
-    <div>
-70</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Principles and methods for closure of a chemical weapons production facility.............</div>
-  </td>
-  <td>
-    <div>
-70</div>
+    <div>70</div>
   </td>
 </tr>
 <tr>
@@ -4598,24 +4560,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Technical maintenance of chemical weapons production facilities prior to their destruction..</div>
+    <div>Principles and methods for closure of a chemical weapons production facility.........</div>
   </td>
   <td>
-    <div>
-71</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Principles and methods for temporary conversion of chemical weapons production facilities into chemical weapons destruction facilities...........................................................</div>
-  </td>
-  <td>
-    <div>
-
-71</div>
+    <div>70</div>
   </td>
 </tr>
 <tr>
@@ -4623,11 +4571,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Principles and methods related to destruction of a chemical weapons production facility...........</div>
+    <div>Technical maintenance of chemical weapons production facilities prior to their destruction</div>
   </td>
   <td>
-    <div>
-72</div>
+    <div>71</div>
   </td>
 </tr>
 <tr>
@@ -4635,7 +4582,29 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Order of destruction........................................</div>
+    <div>Principles and methods for temporary conversion of chemical weapons production facilities into chemical weapons destruction facilities.......................................................</div>
+  </td>
+  <td>
+    <div>71</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Principles and methods related to destruction of a chemical weapons production facility.......</div>
+  </td>
+  <td>
+    <div>72</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Order of destruction....................................</div>
   </td>
   <td>
     <div>73</div>
@@ -4646,7 +4615,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Detailed plans for destruction..........................</div>
+    <div>Detailed plans for destruction......................</div>
   </td>
   <td>
     <div>73</div>
@@ -4657,7 +4626,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Review of detailed plans.................................</div>
+    <div>Review of detailed plans.............................</div>
   </td>
   <td>
     <div>74</div>
@@ -4668,7 +4637,7 @@ aircraft.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Verification............................................................</div>
+    <div>Verification........................................................</div>
   </td>
   <td>
     <div>75</div>
@@ -4679,12 +4648,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Verification of declarations of chemical weapons production facilities through on‑site inspection........................................................</div>
+    <div>Verification of declarations of chemical weapons production facilities through on‑site inspection....................................................</div>
   </td>
   <td>
-    <div>
-
-75</div>
+    <div>75</div>
   </td>
 </tr>
 <tr>
@@ -4692,12 +4659,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Systematic verification of chemical weapons production facilities and cessation of their activities..........................................................</div>
+    <div>Systematic verification of chemical weapons production facilities and cessation of their activities......................................................</div>
   </td>
   <td>
-    <div>
-
-76</div>
+    <div>76</div>
   </td>
 </tr>
 <tr>
@@ -4705,11 +4670,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Verification of destruction of chemical weapons production facilities..........................</div>
+    <div>Verification of destruction of chemical weapons production facilities......................</div>
   </td>
   <td>
-    <div>
-76</div>
+    <div>76</div>
   </td>
 </tr>
 <tr>
@@ -4717,12 +4681,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Verification of temporary conversion of a chemical weapons production facility into a chemical weapons destruction facility.............</div>
+    <div>Verification of temporary conversion of a chemical weapons production facility into a chemical weapons destruction facility.........</div>
   </td>
   <td>
-    <div>
-
-77</div>
+    <div>77</div>
   </td>
 </tr>
 <tr>
@@ -4730,20 +4692,7 @@ aircraft.............................................................</div>
     <div>D.</div>
   </td>
   <td>
-    <div>Conversion of chemical weapons production facilities to purposes not prohibited under this Convention............................................................</div>
-  </td>
-  <td>
-    <div>
-
-77</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Procedures for requesting conversion..............</div>
+    <div>Conversion of chemical weapons production facilities to purposes not prohibited under this Convention........................................................</div>
   </td>
   <td>
     <div>77</div>
@@ -4754,7 +4703,18 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Actions pending a decision..............................</div>
+    <div>Procedures for requesting conversion..........</div>
+  </td>
+  <td>
+    <div>77</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Actions pending a decision..........................</div>
   </td>
   <td>
     <div>79</div>
@@ -4765,7 +4725,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Conditions for conversion...............................</div>
+    <div>Conditions for conversion...........................</div>
   </td>
   <td>
     <div>79</div>
@@ -4776,11 +4736,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Decisions by the Executive Council and the Conference......................................................</div>
+    <div>Decisions by the Executive Council and the Conference..................................................</div>
   </td>
   <td>
-    <div>
-79</div>
+    <div>79</div>
   </td>
 </tr>
 <tr>
@@ -4788,7 +4747,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Detailed plans for conversion..........................</div>
+    <div>Detailed plans for conversion......................</div>
   </td>
   <td>
     <div>80</div>
@@ -4799,7 +4758,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Review of detailed plans.................................</div>
+    <div>Review of detailed plans.............................</div>
   </td>
   <td>
     <div>80</div>
@@ -4810,11 +4769,10 @@ aircraft.............................................................</div>
     <div><b>Part VI:</b></div>
   </td>
   <td>
-    <div>Activities not prohibited under this Convention in accordance with Article VI:.............................</div>
+    <div>Activities not prohibited under this Convention in accordance with Article VI:.........................</div>
   </td>
   <td>
-    <div>
-82</div>
+    <div>82</div>
   </td>
 </tr>
 <tr>
@@ -4822,11 +4780,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Regime for Schedule 1 chemicals and facilities related to such chemicals.................................</div>
+    <div>Regime for Schedule 1 chemicals and facilities related to such chemicals.............................</div>
   </td>
   <td>
-    <div>
-82</div>
+    <div>82</div>
   </td>
 </tr>
 <tr>
@@ -4834,7 +4791,7 @@ aircraft.............................................................</div>
     <div>A.</div>
   </td>
   <td>
-    <div>General provisions.................................................</div>
+    <div>General provisions.............................................</div>
   </td>
   <td>
     <div>82</div>
@@ -4845,7 +4802,7 @@ aircraft.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Transfers................................................................</div>
+    <div>Transfers............................................................</div>
   </td>
   <td>
     <div>82</div>
@@ -4856,7 +4813,7 @@ aircraft.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Production..............................................................</div>
+    <div>Production..........................................................</div>
   </td>
   <td>
     <div>82</div>
@@ -4867,7 +4824,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>General principles for production....................</div>
+    <div>General principles for production................</div>
   </td>
   <td>
     <div>82</div>
@@ -4878,7 +4835,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Single small‑scale facility................................</div>
+    <div>Single small‑scale facility............................</div>
   </td>
   <td>
     <div>82</div>
@@ -4889,7 +4846,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Other facilities.................................................</div>
+    <div>Other facilities.............................................</div>
   </td>
   <td>
     <div>83</div>
@@ -4900,7 +4857,7 @@ aircraft.............................................................</div>
     <div>D.</div>
   </td>
   <td>
-    <div>Declarations...........................................................</div>
+    <div>Declarations.......................................................</div>
   </td>
   <td>
     <div>83</div>
@@ -4911,7 +4868,7 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Single small‑scale facility................................</div>
+    <div>Single small‑scale facility............................</div>
   </td>
   <td>
     <div>83</div>
@@ -4922,12 +4879,10 @@ aircraft.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Other facilities referred to in paragraphs 10 
-and 11.............................................................</div>
+    <div>Other facilities referred to in paragraphs 10 and 11</div>
   </td>
   <td>
-    <div>
-84</div>
+    <div>84</div>
   </td>
 </tr>
 <tr>
@@ -4935,7 +4890,7 @@ and 11.............................................................</div>
     <div>E.</div>
   </td>
   <td>
-    <div>Verification............................................................</div>
+    <div>Verification........................................................</div>
   </td>
   <td>
     <div>85</div>
@@ -4946,7 +4901,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Single small‑scale facility................................</div>
+    <div>Single small‑scale facility............................</div>
   </td>
   <td>
     <div>85</div>
@@ -4958,11 +4913,10 @@ and 11.............................................................</div>
   </td>
   <td>
     <div>Other facilities referred to in paragraphs 
-10 and 11........................................................</div>
+10 and 11....................................................</div>
   </td>
   <td>
-    <div>
-85</div>
+    <div>85</div>
   </td>
 </tr>
 <tr>
@@ -4970,31 +4924,7 @@ and 11.............................................................</div>
     <div><b>Part VII:</b></div>
   </td>
   <td>
-    <div>Activities not prohibited under this Convention in accordance with Article VI:....................................</div>
-  </td>
-  <td>
-    <div>
-86</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Regime for Schedule 2 chemicals and facilities related to such chemicals.......................................</div>
-  </td>
-  <td>
-    <div>
-86</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A.</div>
-  </td>
-  <td>
-    <div>Declarations...........................................................</div>
+    <div>Activities not prohibited under this Convention in accordance with Article VI:................................</div>
   </td>
   <td>
     <div>86</div>
@@ -5005,7 +4935,29 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Declarations of aggregate national data............</div>
+    <div>Regime for Schedule 2 chemicals and facilities related to such chemicals...................................</div>
+  </td>
+  <td>
+    <div>86</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A.</div>
+  </td>
+  <td>
+    <div>Declarations.......................................................</div>
+  </td>
+  <td>
+    <div>86</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Declarations of aggregate national data........</div>
   </td>
   <td>
     <div>86</div>
@@ -5019,8 +4971,7 @@ and 11.............................................................</div>
     <div>Declarations of plant sites producing, processing or consuming Schedule 2 chemicals</div>
   </td>
   <td>
-    <div>
-86</div>
+    <div>86</div>
   </td>
 </tr>
 <tr>
@@ -5028,11 +4979,10 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Declarations on past production of Schedule 2 chemicals for chemical weapons purposes......</div>
+    <div>Declarations on past production of Schedule 2 chemicals for chemical weapons purposes..</div>
   </td>
   <td>
-    <div>
-88</div>
+    <div>88</div>
   </td>
 </tr>
 <tr>
@@ -5040,7 +4990,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Information to States Parties...................................</div>
+    <div>Information to States Parties...............................</div>
   </td>
   <td>
     <div>88</div>
@@ -5051,7 +5001,7 @@ and 11.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Verification............................................................</div>
+    <div>Verification........................................................</div>
   </td>
   <td>
     <div>88</div>
@@ -5062,7 +5012,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>General............................................................</div>
+    <div>General........................................................</div>
   </td>
   <td>
     <div>88</div>
@@ -5073,7 +5023,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Inspection aims................................................</div>
+    <div>Inspection aims............................................</div>
   </td>
   <td>
     <div>89</div>
@@ -5084,7 +5034,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Initial inspections.............................................</div>
+    <div>Initial inspections.........................................</div>
   </td>
   <td>
     <div>89</div>
@@ -5095,7 +5045,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Inspections......................................................</div>
+    <div>Inspections..................................................</div>
   </td>
   <td>
     <div>89</div>
@@ -5106,7 +5056,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Inspection procedures......................................</div>
+    <div>Inspection procedures..................................</div>
   </td>
   <td>
     <div>90</div>
@@ -5117,7 +5067,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Notification of Inspection................................</div>
+    <div>Notification of Inspection............................</div>
   </td>
   <td>
     <div>90</div>
@@ -5128,7 +5078,7 @@ and 11.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Transfers to States not Party to this Convention.....</div>
+    <div>Transfers to States not Party to this Convention.</div>
   </td>
   <td>
     <div>90</div>
@@ -5139,11 +5089,10 @@ and 11.............................................................</div>
     <div><b>Part VIII:</b></div>
   </td>
   <td>
-    <div>Activities not prohibited under this Convention in accordance with Article VI:....................................</div>
+    <div>Activities not prohibited under this Convention in accordance with Article VI:................................</div>
   </td>
   <td>
-    <div>
-91</div>
+    <div>91</div>
   </td>
 </tr>
 <tr>
@@ -5151,11 +5100,10 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Regime for Schedule 3 chemicals and facilities related to such chemicals.................................</div>
+    <div>Regime for Schedule 3 chemicals and facilities related to such chemicals.............................</div>
   </td>
   <td>
-    <div>
-91</div>
+    <div>91</div>
   </td>
 </tr>
 <tr>
@@ -5163,7 +5111,7 @@ and 11.............................................................</div>
     <div>A.</div>
   </td>
   <td>
-    <div>Declarations...........................................................</div>
+    <div>Declarations.......................................................</div>
   </td>
   <td>
     <div>91</div>
@@ -5174,7 +5122,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Declarations of aggregate national data............</div>
+    <div>Declarations of aggregate national data........</div>
   </td>
   <td>
     <div>91</div>
@@ -5185,23 +5133,10 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Declarations of plant sites producing Schedule 3 chemicals......................................</div>
+    <div>Declarations of plant sites producing Schedule 3 chemicals..................................</div>
   </td>
   <td>
-    <div>
-91</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Declarations on past production of Schedule 3 chemicals for chemical weapons purposes......</div>
-  </td>
-  <td>
-    <div>
-92</div>
+    <div>91</div>
   </td>
 </tr>
 <tr>
@@ -5209,7 +5144,18 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Information to States Parties............................</div>
+    <div>Declarations on past production of Schedule 3 chemicals for chemical weapons purposes..</div>
+  </td>
+  <td>
+    <div>92</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Information to States Parties........................</div>
   </td>
   <td>
     <div>93</div>
@@ -5220,7 +5166,7 @@ and 11.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Verification............................................................</div>
+    <div>Verification........................................................</div>
   </td>
   <td>
     <div>93</div>
@@ -5231,7 +5177,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>General............................................................</div>
+    <div>General........................................................</div>
   </td>
   <td>
     <div>93</div>
@@ -5242,7 +5188,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Inspection aims................................................</div>
+    <div>Inspection aims............................................</div>
   </td>
   <td>
     <div>93</div>
@@ -5253,7 +5199,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Inspection procedures......................................</div>
+    <div>Inspection procedures..................................</div>
   </td>
   <td>
     <div>93</div>
@@ -5264,7 +5210,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Notification of inspection................................</div>
+    <div>Notification of inspection............................</div>
   </td>
   <td>
     <div>94</div>
@@ -5275,7 +5221,7 @@ and 11.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Transfers to States not Party to this Convention.....</div>
+    <div>Transfers to States not Party to this Convention.</div>
   </td>
   <td>
     <div>94</div>
@@ -5286,11 +5232,10 @@ and 11.............................................................</div>
     <div><b>Part IX:</b></div>
   </td>
   <td>
-    <div>Activities not prohibited under this Convention in accordance with Article VI:....................................</div>
+    <div>Activities not prohibited under this Convention in accordance with Article VI:................................</div>
   </td>
   <td>
-    <div>
-94</div>
+    <div>94</div>
   </td>
 </tr>
 <tr>
@@ -5298,7 +5243,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Regime for other chemical production facilities.....</div>
+    <div>Regime for other chemical production facilities.</div>
   </td>
   <td>
     <div>94</div>
@@ -5309,7 +5254,7 @@ and 11.............................................................</div>
     <div>A.</div>
   </td>
   <td>
-    <div>Declarations...........................................................</div>
+    <div>Declarations.......................................................</div>
   </td>
   <td>
     <div>94</div>
@@ -5320,7 +5265,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>List of other chemical production facilities......</div>
+    <div>List of other chemical production facilities..</div>
   </td>
   <td>
     <div>94</div>
@@ -5331,7 +5276,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Assistance by the Technical Secretariat...........</div>
+    <div>Assistance by the Technical Secretariat.......</div>
   </td>
   <td>
     <div>95</div>
@@ -5342,7 +5287,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Information to States Parties............................</div>
+    <div>Information to States Parties........................</div>
   </td>
   <td>
     <div>95</div>
@@ -5353,7 +5298,7 @@ and 11.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Verification............................................................</div>
+    <div>Verification........................................................</div>
   </td>
   <td>
     <div>95</div>
@@ -5364,7 +5309,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>General............................................................</div>
+    <div>General........................................................</div>
   </td>
   <td>
     <div>95</div>
@@ -5375,7 +5320,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Inspection aims................................................</div>
+    <div>Inspection aims............................................</div>
   </td>
   <td>
     <div>96</div>
@@ -5386,7 +5331,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Inspection procedures......................................</div>
+    <div>Inspection procedures..................................</div>
   </td>
   <td>
     <div>96</div>
@@ -5397,7 +5342,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Notification of inspection................................</div>
+    <div>Notification of inspection............................</div>
   </td>
   <td>
     <div>97</div>
@@ -5408,7 +5353,7 @@ and 11.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Implementation and review of Section B...............</div>
+    <div>Implementation and review of Section B...........</div>
   </td>
   <td>
     <div>97</div>
@@ -5419,7 +5364,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Implementation................................................</div>
+    <div>Implementation............................................</div>
   </td>
   <td>
     <div>97</div>
@@ -5430,7 +5375,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Review............................................................</div>
+    <div>Review........................................................</div>
   </td>
   <td>
     <div>97</div>
@@ -5441,7 +5386,7 @@ and 11.............................................................</div>
     <div><b>Part X:</b></div>
   </td>
   <td>
-    <div>Challenge inspections pursuant to Article IX..........</div>
+    <div>Challenge inspections pursuant to Article IX......</div>
   </td>
   <td>
     <div>97</div>
@@ -5452,11 +5397,10 @@ and 11.............................................................</div>
     <div>A.</div>
   </td>
   <td>
-    <div>Designation and selection of inspectors and inspection assistants...............................................</div>
+    <div>Designation and selection of inspectors and inspection assistants...........................................</div>
   </td>
   <td>
-    <div>
-97</div>
+    <div>97</div>
   </td>
 </tr>
 <tr>
@@ -5464,7 +5408,7 @@ and 11.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Pre‑inspection activities..........................................</div>
+    <div>Pre‑inspection activities......................................</div>
   </td>
   <td>
     <div>98</div>
@@ -5475,7 +5419,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Notification.....................................................</div>
+    <div>Notification.................................................</div>
   </td>
   <td>
     <div>98</div>
@@ -5486,19 +5430,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Entry into the territory of the inspected State Party or the Host State.....................................</div>
-  </td>
-  <td>
-    <div>
-99</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Alternative determination of final perimeter....</div>
+    <div>Entry into the territory of the inspected State Party or the Host State.................................</div>
   </td>
   <td>
     <div>99</div>
@@ -5509,7 +5441,18 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Verification of location...................................</div>
+    <div>Alternative determination of final perimeter</div>
+  </td>
+  <td>
+    <div>99</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Verification of location...............................</div>
   </td>
   <td>
     <div>100</div>
@@ -5520,7 +5463,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Securing the site, exit monitoring.....................</div>
+    <div>Securing the site, exit monitoring.................</div>
   </td>
   <td>
     <div>100</div>
@@ -5531,7 +5474,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Pre‑inspection briefing and inspection plan.....</div>
+    <div>Pre‑inspection briefing and inspection plan.</div>
   </td>
   <td>
     <div>101</div>
@@ -5542,7 +5485,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Perimeter activities.................................................</div>
+    <div>Perimeter activities.............................................</div>
   </td>
   <td>
     <div>102</div>
@@ -5553,7 +5496,7 @@ and 11.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Conduct of inspections..........................................</div>
+    <div>Conduct of inspections......................................</div>
   </td>
   <td>
     <div>102</div>
@@ -5564,7 +5507,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>General rules...................................................</div>
+    <div>General rules...............................................</div>
   </td>
   <td>
     <div>102</div>
@@ -5575,7 +5518,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Managed access...............................................</div>
+    <div>Managed access...........................................</div>
   </td>
   <td>
     <div>103</div>
@@ -5586,7 +5529,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Observer..........................................................</div>
+    <div>Observer......................................................</div>
   </td>
   <td>
     <div>104</div>
@@ -5597,7 +5540,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Duration of inspection.....................................</div>
+    <div>Duration of inspection.................................</div>
   </td>
   <td>
     <div>104</div>
@@ -5608,7 +5551,7 @@ and 11.............................................................</div>
     <div>D.</div>
   </td>
   <td>
-    <div>Post‑inspection activities........................................</div>
+    <div>Post‑inspection activities....................................</div>
   </td>
   <td>
     <div>104</div>
@@ -5619,7 +5562,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Departure.........................................................</div>
+    <div>Departure.....................................................</div>
   </td>
   <td>
     <div>104</div>
@@ -5630,7 +5573,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Reports............................................................</div>
+    <div>Reports........................................................</div>
   </td>
   <td>
     <div>105</div>
@@ -5641,11 +5584,10 @@ and 11.............................................................</div>
     <div><b>Part XI:</b></div>
   </td>
   <td>
-    <div>Investigations in cases of alleged use of chemical weapons.................................................................</div>
+    <div>Investigations in cases of alleged use of chemical weapons.............................................................</div>
   </td>
   <td>
-    <div>
-105</div>
+    <div>105</div>
   </td>
 </tr>
 <tr>
@@ -5653,7 +5595,7 @@ and 11.............................................................</div>
     <div>A.</div>
   </td>
   <td>
-    <div>General..................................................................</div>
+    <div>General..............................................................</div>
   </td>
   <td>
     <div>105</div>
@@ -5664,7 +5606,7 @@ and 11.............................................................</div>
     <div>B.</div>
   </td>
   <td>
-    <div>Pre‑inspection activities..........................................</div>
+    <div>Pre‑inspection activities......................................</div>
   </td>
   <td>
     <div>105</div>
@@ -5675,7 +5617,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Request for an investigation............................</div>
+    <div>Request for an investigation........................</div>
   </td>
   <td>
     <div>105</div>
@@ -5686,7 +5628,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Notification.....................................................</div>
+    <div>Notification.................................................</div>
   </td>
   <td>
     <div>106</div>
@@ -5697,7 +5639,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Assignment of inspection team........................</div>
+    <div>Assignment of inspection team....................</div>
   </td>
   <td>
     <div>106</div>
@@ -5708,7 +5650,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Dispatch of inspection team............................</div>
+    <div>Dispatch of inspection team........................</div>
   </td>
   <td>
     <div>106</div>
@@ -5719,7 +5661,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Briefings..........................................................</div>
+    <div>Briefings......................................................</div>
   </td>
   <td>
     <div>106</div>
@@ -5730,7 +5672,7 @@ and 11.............................................................</div>
     <div>C.</div>
   </td>
   <td>
-    <div>Conduct of inspections..........................................</div>
+    <div>Conduct of inspections......................................</div>
   </td>
   <td>
     <div>107</div>
@@ -5741,7 +5683,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Access.............................................................</div>
+    <div>Access.........................................................</div>
   </td>
   <td>
     <div>107</div>
@@ -5752,7 +5694,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Sampling..........................................................</div>
+    <div>Sampling......................................................</div>
   </td>
   <td>
     <div>107</div>
@@ -5763,7 +5705,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Extension of inspection site.............................</div>
+    <div>Extension of inspection site.........................</div>
   </td>
   <td>
     <div>107</div>
@@ -5774,7 +5716,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Extension of inspection duration.....................</div>
+    <div>Extension of inspection duration.................</div>
   </td>
   <td>
     <div>107</div>
@@ -5785,7 +5727,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Interviews........................................................</div>
+    <div>Interviews....................................................</div>
   </td>
   <td>
     <div>107</div>
@@ -5796,7 +5738,7 @@ and 11.............................................................</div>
     <div>D.</div>
   </td>
   <td>
-    <div>Reports...................................................................</div>
+    <div>Reports...............................................................</div>
   </td>
   <td>
     <div>108</div>
@@ -5807,7 +5749,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Procedures.......................................................</div>
+    <div>Procedures...................................................</div>
   </td>
   <td>
     <div>108</div>
@@ -5818,7 +5760,7 @@ and 11.............................................................</div>
     <div></div>
   </td>
   <td>
-    <div>Contents..........................................................</div>
+    <div>Contents......................................................</div>
   </td>
   <td>
     <div>108</div>
@@ -5829,7 +5771,7 @@ and 11.............................................................</div>
     <div>E.</div>
   </td>
   <td>
-    <div>States not Party to this Convention.........................</div>
+    <div>States not Party to this Convention.....................</div>
   </td>
   <td>
     <div>108</div>
@@ -5840,9 +5782,9 @@ PART I
 
 DEFINITIONS
 
-1.      “Approved Equipment” means the devices and instruments necessary for the performance of the inspection team’s duties that have been certified by the Technical Secretariat in accordance with regulations prepared by the Technical Secretariat pursuant to Part II, paragraph 27 of this Annex. Such equipment may also refer to the administrative supplies or recording materials that would be used by the inspection team.
+1.         “Approved Equipment” means the devices and instruments necessary for the performance of the inspection team’s duties that have been certified by the Technical Secretariat in accordance with regulations prepared by the Technical Secretariat pursuant to Part II, paragraph 27 of this Annex. Such equipment may also refer to the administrative supplies or recording materials that would be used by the inspection team.
 
-2.      “Building” as referred to in the definition of chemical weapons production facility in Article II comprises specialized buildings and standard buildings.
+2.         “Building” as referred to in the definition of chemical weapons production facility in Article II comprises specialized buildings and standard buildings.
 
 (a)   “Specialized Building” means:
 
@@ -5852,11 +5794,11 @@ DEFINITIONS
 
 (b)   “Standard Building” means any building, including underground structures, constructed to prevailing industry standards for facilities not producing any chemical specified in Article II, paragraph 8(a)(i), or corrosive chemicals.
 
-3.      “Challenge Inspection” means the inspection of any facility or location in the territory or in any other place under the jurisdiction or control of a State Party requested by another State Party pursuant to Article IX, paragraphs 8 to 25.
+3.         “Challenge Inspection” means the inspection of any facility or location in the territory or in any other place under the jurisdiction or control of a State Party requested by another State Party pursuant to Article IX, paragraphs 8 to 25.
 
-4.      “Discrete Organic Chemical” means any chemical belonging to the class of chemical compounds consisting of all compounds of carbon except for its oxides, sulfides and metal carbonates, identifiable by chemical name, by structural formula, if known, and by Chemical Abstracts Service registry number, if assigned.
+4.         “Discrete Organic Chemical” means any chemical belonging to the class of chemical compounds consisting of all compounds of carbon except for its oxides, sulfides and metal carbonates, identifiable by chemical name, by structural formula, if known, and by Chemical Abstracts Service registry number, if assigned.
 
-5.      “Equipment” as referred to in the definition of chemical weapons production facility in Article II comprises specialized equipment and standard equipment.
+5.         “Equipment” as referred to in the definition of chemical weapons production facility in Article II comprises specialized equipment and standard equipment.
 
 (a)   “Specialized Equipment” means:
 
@@ -5872,7 +5814,7 @@ DEFINITIONS
 
 (ii)   other equipment commonly used in the chemical industry, such as: fire‑fighting equipment; guard and security/safety surveillance equipment; medical facilities, laboratory facilities; or communications equipment.
 
-6.      “Facility” in the context of Article VI means any of the industrial sites as defined below (“plant site”, “plant” and “unit”).
+6.         “Facility” in the context of Article VI means any of the industrial sites as defined below (“plant site”, “plant” and “unit”).
 
 (a)   “Plant Site” (Works, Factory) means the local integration of one or more plants, with any intermediate administrative levels, which are under one operational control, and includes common infrastructure, such as:
 
@@ -5908,35 +5850,35 @@ DEFINITIONS
 
 (c)   “Unit” (Production unit, Process unit) means the combination of those items of equipment, including vessels and vessel set up, necessary for the production, processing or consumption of a chemical.
 
-7.      “Facility Agreement” means an agreement or arrangement between a State Party and the Organization relating to a specific facility subject to on‑site verification pursuant to Articles IV, V and VI.
+7.         “Facility Agreement” means an agreement or arrangement between a State Party and the Organization relating to a specific facility subject to on‑site verification pursuant to Articles IV, V and VI.
 
-8.      “Host State” means the State on whose territory lie facilities or areas of another State, Party to this Convention, which are subject to inspection under this Convention.
+8.         “Host State” means the State on whose territory lie facilities or areas of another State, Party to this Convention, which are subject to inspection under this Convention.
 
-9.      “In‑Country Escort” means individuals specified by the inspected State Party and, if appropriate, by the Host State, if they so wish, to accompany and assist the inspection team during the in‑country period.
+9.         “In‑Country Escort” means individuals specified by the inspected State Party and, if appropriate, by the Host State, if they so wish, to accompany and assist the inspection team during the in‑country period.
 
-10.    “In‑Country Period” means the period from the arrival of the inspection team at a point of entry until its departure from the State at a point of entry.
+10.       “In‑Country Period” means the period from the arrival of the inspection team at a point of entry until its departure from the State at a point of entry.
 
-11.    “Initial Inspection” means the first on‑site inspection of facilities to verify declarations submitted pursuant to Articles III, IV, V and VI and this Annex.
+11.       “Initial Inspection” means the first on‑site inspection of facilities to verify declarations submitted pursuant to Articles III, IV, V and VI and this Annex.
 
-12.    “Inspected State Party” means the State Party on whose territory or in any other place under its jurisdiction or control an inspection pursuant to this Convention takes place, or the State Party whose facility or area on the territory of a Host State is subject to such an inspection; it does not, however, include the State Party specified in Part II, paragraph 21 of this Annex.
+12.       “Inspected State Party” means the State Party on whose territory or in any other place under its jurisdiction or control an inspection pursuant to this Convention takes place, or the State Party whose facility or area on the territory of a Host State is subject to such an inspection; it does not, however, include the State Party specified in Part II, paragraph 21 of this Annex.
 
-13.    “Inspection Assistant” means an individual designated by the Technical Secretariat as set forth in Part II, Section A, of this Annex to assist inspectors in an inspection or visit, such as medical, security and administrative personnel and interpreters.
+13.       “Inspection Assistant” means an individual designated by the Technical Secretariat as set forth in Part II, Section A, of this Annex to assist inspectors in an inspection or visit, such as medical, security and administrative personnel and interpreters.
 
-14.    “Inspection Mandate” means the instructions issued by the Director‑General to the inspection team for the conduct of a particular inspection.
+14.       “Inspection Mandate” means the instructions issued by the Director‑General to the inspection team for the conduct of a particular inspection.
 
-15.    “Inspection Manual” means the compilation of additional procedures for the conduct of inspections developed by the Technical Secretariat.
+15.       “Inspection Manual” means the compilation of additional procedures for the conduct of inspections developed by the Technical Secretariat.
 
-16.    “Inspection Site” means any facility or area at which an inspection is carried out and which is specifically defined in the respective facility agreement or inspection request or mandate or inspection request as expanded by the alternative or final perimeter.
+16.       “Inspection Site” means any facility or area at which an inspection is carried out and which is specifically defined in the respective facility agreement or inspection request or mandate or inspection request as expanded by the alternative or final perimeter.
 
-17.    “Inspection Team” means the group of inspectors and inspection assistants assigned by the Director‑General to conduct a particular inspection.
+17.       “Inspection Team” means the group of inspectors and inspection assistants assigned by the Director‑General to conduct a particular inspection.
 
-18.    “Inspector” means an individual designated by the Technical Secretariat according to the precedures as set forth in Part II, Section A, of this Annex, to carry out an inspection or visit in accordance with this Convention.
+18.       “Inspector” means an individual designated by the Technical Secretariat according to the precedures as set forth in Part II, Section A, of this Annex, to carry out an inspection or visit in accordance with this Convention.
 
-19.    “Model Agreement” means a document specifying the general form and content for an agreement concluded between a State Party and the Organization for fulfilling the verification provisions specified in this Annex.
+19.       “Model Agreement” means a document specifying the general form and content for an agreement concluded between a State Party and the Organization for fulfilling the verification provisions specified in this Annex.
 
-20.    “Observer” means a representative of a requesting State Party or a third State Party to observe a challenge inspection.
+20.       “Observer” means a representative of a requesting State Party or a third State Party to observe a challenge inspection.
 
-21.    “Perimeter” in case of challenge inspection means the external boundary of the inspection site, defined by either geographic coordinates or description on a map.
+21.       “Perimeter” in case of challenge inspection means the external boundary of the inspection site, defined by either geographic coordinates or description on a map.
 
 (a)   “Requested Perimeter” means the inspection site perimeter as specified in conformity with Part X, paragraph 8, of this Annex;
 
@@ -5946,47 +5888,47 @@ DEFINITIONS
 
 (d)   “Declared Perimeter” means the external boundary of the facility declared pursuant to Articles III, IV, V and VI.
 
-22.    “Period of Inspection”, for the purposes of Article IX, means the period of time from provision of access to the inspection team to the inspection site until its departure from the inspection site, exclusive of time spent on briefings before and after the verification activities.
+22.       “Period of Inspection”, for the purposes of Article IX, means the period of time from provision of access to the inspection team to the inspection site until its departure from the inspection site, exclusive of time spent on briefings before and after the verification activities.
 
-23.    “Period of Inspection”, for the purposes of Articles IV, V and VI, means the period of time from arrival of the inspection team at the inspection site until its departure from the inspection site, exclusive of time spent on briefings before and after the verification activities.
+23.       “Period of Inspection”, for the purposes of Articles IV, V and VI, means the period of time from arrival of the inspection team at the inspection site until its departure from the inspection site, exclusive of time spent on briefings before and after the verification activities.
 
-24.    “Point of Entry” / “Point of Exit” means a location designated for the in‑country arrival of inspection teams for inspections pursuant to this Convention or for their departure after completion of their mission.
+24.       “Point of Entry” / “Point of Exit” means a location designated for the in‑country arrival of inspection teams for inspections pursuant to this Convention or for their departure after completion of their mission.
 
-25.    “Requesting State Party” means a State Party which has requested a challenge inspection pursuant to Article IX.
+25.       “Requesting State Party” means a State Party which has requested a challenge inspection pursuant to Article IX.
 
-26.    “Tonne” means metric ton, i.e. 1,000 kg.
+26.       “Tonne” means metric ton, i.e. 1,000 kg.
 
 PART II
 
 GENERAL RULES OF VERIFICATION
 
-A.  DESIGNATION OF INSPECTORS AND INSPECTION ASSISTANTS
+A.     DESIGNATION OF INSPECTORS AND INSPECTION ASSISTANTS
 
-1.      Not later than 30 days after entry into force of this Convention the Technical Secretariat shall communicate, in writing, to all States Parties the names, nationalities and ranks of the inspectors and inspection assistants proposed for designation, as well as a description of their qualifications and professional experiences.
+1.         Not later than 30 days after entry into force of this Convention the Technical Secretariat shall communicate, in writing, to all States Parties the names, nationalities and ranks of the inspectors and inspection assistants proposed for designation, as well as a description of their qualifications and professional experiences.
 
-2.      Each State Party shall immediately acknowledge receipt of the list of inspectors and inspection assistants, proposed for designation communicated to it. The State Party shall inform the Technical Secretariat in writing of its acceptance of each inspector and inspection assistant, not later than 30 days after acknowledgement of receipt of the list. Any inspector and inspection assistant included in this list shall be regarded as designated unless a State Party, not later than 30 days after acknowledgement of receipt of the list, declares its non‑acceptance in writing. The State Party may include the reason for the objection.
+2.         Each State Party shall immediately acknowledge receipt of the list of inspectors and inspection assistants, proposed for designation communicated to it. The State Party shall inform the Technical Secretariat in writing of its acceptance of each inspector and inspection assistant, not later than 30 days after acknowledgement of receipt of the list. Any inspector and inspection assistant included in this list shall be regarded as designated unless a State Party, not later than 30 days after acknowledgement of receipt of the list, declares its non‑acceptance in writing. The State Party may include the reason for the objection.
 
 In the case of non‑acceptance, the proposed inspector or inspection assistant shall not undertake or participate in verification activities on the territory or in any other place under the jurisdiction or control of the State Party which has declared its non‑acceptance. The Technical Secretariat shall, as necessary, submit further proposals in addition to the original list.
 
-3.      Verification activities under this Convention shall only be performed by designated inspectors and inspection assistants.
+3.         Verification activities under this Convention shall only be performed by designated inspectors and inspection assistants.
 
-4.      Subject to the provisions of paragraph 5, a State Party has the right at any time to object to an inspector or inspection assistant who has already been designated. It shall notify the Technical Secretariat of its objection in writing and may include the reason for the objection. Such objection shall come into effect 30 days after receipt by the Technical Secretariat. The Technical Secretariat shall immediately inform the State Party concerned of the withdrawal of the designation of the inspector or inspection assistant.
+4.         Subject to the provisions of paragraph 5, a State Party has the right at any time to object to an inspector or inspection assistant who has already been designated. It shall notify the Technical Secretariat of its objection in writing and may include the reason for the objection. Such objection shall come into effect 30 days after receipt by the Technical Secretariat. The Technical Secretariat shall immediately inform the State Party concerned of the withdrawal of the designation of the inspector or inspection assistant.
 
-5.      A State Party that has been notified of an inspection shall not seek to have removed from the inspection team for that inspection any of the designated inspectors or inspection assistants named in the inspection team list.
+5.         A State Party that has been notified of an inspection shall not seek to have removed from the inspection team for that inspection any of the designated inspectors or inspection assistants named in the inspection team list.
 
-6.      The number of inspectors or inspection assistants accepted by and designated to a State Party must be sufficient to allow for availability and rotation of appropriate numbers of inspectors and inspection assistants.
+6.         The number of inspectors or inspection assistants accepted by and designated to a State Party must be sufficient to allow for availability and rotation of appropriate numbers of inspectors and inspection assistants.
 
-7.      If, in the opinion of the Director‑General, the non‑acceptance of proposed inspectors or inspection assistants impedes the designation of a sufficient number of inspectors or inspection assistants or otherwise hampers the effective fulfilment of the tasks of the Technical Secretariat, the Director‑General shall refer the issue to the Executive Council.
+7.         If, in the opinion of the Director‑General, the non‑acceptance of proposed inspectors or inspection assistants impedes the designation of a sufficient number of inspectors or inspection assistants or otherwise hampers the effective fulfilment of the tasks of the Technical Secretariat, the Director‑General shall refer the issue to the Executive Council.
 
-8.      Whenever amendments to the above‑mentioned lists of inspectors and inspection assistants are necessary or requested, replacement inspectors and inspection assistants shall be designated in the same manner as set forth with respect to the initial list.
+8.         Whenever amendments to the above‑mentioned lists of inspectors and inspection assistants are necessary or requested, replacement inspectors and inspection assistants shall be designated in the same manner as set forth with respect to the initial list.
 
-9.      The members of the inspection team carrying out an inspection of a facility of a State Party located on the territory of another State Party shall be designated in accordance with the procedures set forth in this Annex as applied both to the inspected State Party and the Host State Party.
+9.         The members of the inspection team carrying out an inspection of a facility of a State Party located on the territory of another State Party shall be designated in accordance with the procedures set forth in this Annex as applied both to the inspected State Party and the Host State Party.
 
-B.   PRIVILEGES AND IMMUNITIES
+B.     PRIVILEGES AND IMMUNITIES
 
-10.    Each State Party shall, not later than 30 days after acknowledgement of receipt of the list of inspectors and inspection assistants or of changes thereto, provide multiple entry/exit and/or transit visas and other such documents to enable each inspector or inspection assistant to enter and to remain on the territory of that State Party for the purpose of carrying out inspection activities. These documents shall be valid for at least two years after their provision to the Technical Secretariat.
+10.       Each State Party shall, not later than 30 days after acknowledgement of receipt of the list of inspectors and inspection assistants or of changes thereto, provide multiple entry/exit and/or transit visas and other such documents to enable each inspector or inspection assistant to enter and to remain on the territory of that State Party for the purpose of carrying out inspection activities. These documents shall be valid for at least two years after their provision to the Technical Secretariat.
 
-11.    To exercise their functions effectively, inspectors and inspection assistants shall be accorded privileges and immunities as set forth in subparagraphs (a) to (i). Privileges and immunities shall be granted to members of the inspection team for the sake of this Convention and not for the personal benefit of the individuals themselves. Such privileges and immunities shall be accorded to them for the entire period between arrival on and departure from the territory of the inspected State Party or Host State, and thereafter with respect to acts previously performed in the exercise of their official functions.
+11.       To exercise their functions effectively, inspectors and inspection assistants shall be accorded privileges and immunities as set forth in subparagraphs (a) to (i). Privileges and immunities shall be granted to members of the inspection team for the sake of this Convention and not for the personal benefit of the individuals themselves. Such privileges and immunities shall be accorded to them for the entire period between arrival on and departure from the territory of the inspected State Party or Host State, and thereafter with respect to acts previously performed in the exercise of their official functions.
 
 (a)   the members of the inspection team shall be accorded the inviolability enjoyed by diplomatic agents pursuant to Article 29 of the Vienna Convention on Diplomatic Relations of 18 April 1961.
 
@@ -6006,61 +5948,61 @@ B.   PRIVILEGES AND IMMUNITIES
 
 (i)    the members of the inspection team shall not engage in any professional or commercial activity for personal profit on the territory of the inspected State Party or the Host State.
 
-12.    When transiting the territory of non‑inspected States Parties, the members of the inspection team shall be accorded the privileges and immunities enjoyed by diplomatic agents pursuant to Article 40, paragraph 1, of the Vienna Convention on Diplomatic Relations. Papers and correspondence, including records, and samples and approved equipment, carried by them, shall be accorded the privileges and immunities set forth in paragraph 11(c) and (d).
+12.       When transiting the territory of non‑inspected States Parties, the members of the inspection team shall be accorded the privileges and immunities enjoyed by diplomatic agents pursuant to Article 40, paragraph 1, of the Vienna Convention on Diplomatic Relations. Papers and correspondence, including records, and samples and approved equipment, carried by them, shall be accorded the privileges and immunities set forth in paragraph 11(c) and (d).
 
-13.    Without prejudice to their privileges and immunities the members of the inspection team shall be obliged to respect the laws and regulations of the inspected State Party or Host State and, to the extent that is consistent with the inspection mandate, shall be obliged not to interfere in the internal affairs of that State. If the inspected State Party or Host State Party considers that there has been an abuse of privileges and immunities specified in this Annex, consultations shall be held between the State Party and the Director‑General to determine whether such an abuse has occurred and, if so determined, to prevent a repetition of such an abuse.
+13.       Without prejudice to their privileges and immunities the members of the inspection team shall be obliged to respect the laws and regulations of the inspected State Party or Host State and, to the extent that is consistent with the inspection mandate, shall be obliged not to interfere in the internal affairs of that State. If the inspected State Party or Host State Party considers that there has been an abuse of privileges and immunities specified in this Annex, consultations shall be held between the State Party and the Director‑General to determine whether such an abuse has occurred and, if so determined, to prevent a repetition of such an abuse.
 
-14.    The immunity from jurisdiction of members of the inspection team may be waived by the Director‑General in those cases when the Director‑General is of the opinion that immunity would impede the course of justice and that it can be waived without prejudice to the implementation of the provisions of this Convention. Waiver must always be express.
+14.       The immunity from jurisdiction of members of the inspection team may be waived by the Director‑General in those cases when the Director‑General is of the opinion that immunity would impede the course of justice and that it can be waived without prejudice to the implementation of the provisions of this Convention. Waiver must always be express.
 
-15.    Observers shall be accorded the same privileges and immunities accorded to inspectors pursuant to this section, except for those accorded pursuant to paragraph 11(d).
+15.       Observers shall be accorded the same privileges and immunities accorded to inspectors pursuant to this section, except for those accorded pursuant to paragraph 11(d).
 
-C.   STANDING ARRANGEMENTS
+C.     STANDING ARRANGEMENTS
 
 Points of entry
 
-16.    Each State Party shall designate the points of entry and shall supply the required information to the Technical Secretariat not later than 30 days after this Convention enters into force for it. These points of entry shall be such that the inspection team can reach any inspection site from at least one point of entry within 12 hours. Locations of points of entry shall be provided to all States Parties by the Technical Secretariat.
+16.       Each State Party shall designate the points of entry and shall supply the required information to the Technical Secretariat not later than 30 days after this Convention enters into force for it. These points of entry shall be such that the inspection team can reach any inspection site from at least one point of entry within 12 hours. Locations of points of entry shall be provided to all States Parties by the Technical Secretariat.
 
-17.    Each State Party may change the points of entry by giving notice of such change to the Technical Secretariat. Changes shall become effective 30 days after the Technical Secretariat receives such notification to allow appropriate notification to all States Parties.
+17.       Each State Party may change the points of entry by giving notice of such change to the Technical Secretariat. Changes shall become effective 30 days after the Technical Secretariat receives such notification to allow appropriate notification to all States Parties.
 
-18.    If the Technical Secretariat considers that there are insufficient points of entry for the timely conduct of inspections or that changes to the points of entry proposed by a State Party would hamper such timely conduct of inspections, it shall enter into consultations with the State Party concerned to resolve the problem.
+18.       If the Technical Secretariat considers that there are insufficient points of entry for the timely conduct of inspections or that changes to the points of entry proposed by a State Party would hamper such timely conduct of inspections, it shall enter into consultations with the State Party concerned to resolve the problem.
 
-19.    In cases where facilities or areas of an inspected State Party are located on the territory of a Host State Party or where the access from the point of entry to the facilities or areas subject to inspection requires transit through the territory of another State Party, the inspected State Party shall exercise the rights and fulfil the obligations concerning such inspections in accordance with this Annex. The Host State Party shall facilitate the inspection of those facilities or areas and shall provide for the necessary support to enable the inspection team to carry out its tasks in a timely and effective manner. States Parties through whose territory transit is required to inspect facilities or areas of an inspected State Party shall facilitate such transit.
+19.       In cases where facilities or areas of an inspected State Party are located on the territory of a Host State Party or where the access from the point of entry to the facilities or areas subject to inspection requires transit through the territory of another State Party, the inspected State Party shall exercise the rights and fulfil the obligations concerning such inspections in accordance with this Annex. The Host State Party shall facilitate the inspection of those facilities or areas and shall provide for the necessary support to enable the inspection team to carry out its tasks in a timely and effective manner. States Parties through whose territory transit is required to inspect facilities or areas of an inspected State Party shall facilitate such transit.
 
-20.    In cases where facilities or areas of an inspected State Party are located on the territory of a State not Party to this Convention, the inspected State Party shall take all necessary measures to ensure that inspections of those facilities or areas can be carried out in accordance with the provisions of this Annex. A State Party that has one or more facilities or areas on the territory of a State not Party to this Convention shall take all necessary measures to ensure acceptance by the Host State of inspectors and inspection assistants designated to that State Party. If an inspected State Party is unable to ensure access, it shall demonstrate that it took all necessary measures to ensure access.
+20.       In cases where facilities or areas of an inspected State Party are located on the territory of a State not Party to this Convention, the inspected State Party shall take all necessary measures to ensure that inspections of those facilities or areas can be carried out in accordance with the provisions of this Annex. A State Party that has one or more facilities or areas on the territory of a State not Party to this Convention shall take all necessary measures to ensure acceptance by the Host State of inspectors and inspection assistants designated to that State Party. If an inspected State Party is unable to ensure access, it shall demonstrate that it took all necessary measures to ensure access.
 
-21.    In cases where the facilities or areas sought to be inspected are located on the territory of a State Party, but in a place under the jurisdiction or control of a State not Party to this Convention, the State Party shall take all necessary measures as would be required of an inspected State Party and a Host State Party to ensure that inspections of such facilities or areas can be carried out in accordance with the provisions of this Annex. If the State Party is unable to ensure access to those facilities or areas, it shall demonstrate that it took all necessary measures to ensure access. This paragraph shall not apply where the facilities or areas sought to be inspected are those of the State Party.
+21.       In cases where the facilities or areas sought to be inspected are located on the territory of a State Party, but in a place under the jurisdiction or control of a State not Party to this Convention, the State Party shall take all necessary measures as would be required of an inspected State Party and a Host State Party to ensure that inspections of such facilities or areas can be carried out in accordance with the provisions of this Annex. If the State Party is unable to ensure access to those facilities or areas, it shall demonstrate that it took all necessary measures to ensure access. This paragraph shall not apply where the facilities or areas sought to be inspected are those of the State Party.
 
 Arrangements for use of non‑scheduled aircraft
 
-22.    For inspections pursuant to Article IX and for other inspections where timely travel is not feasible using scheduled commercial transport, an inspection team may need to utilize aircraft owned or chartered by the Technical Secretariat. Not later than 30 days after this Convention enters into force for it, each State Party shall inform the Technical Secretariat of the standing diplomatic clearance number for non‑scheduled aircraft transporting inspection teams and equipment necessary for inspection into and out of the territory in which an inspection site is located. Aircraft routings to and from the designated point of entry shall be along established international airways that are agreed upon between the States Parties and the Technical Secretariat as the basis for such diplomatic clearance.
+22.       For inspections pursuant to Article IX and for other inspections where timely travel is not feasible using scheduled commercial transport, an inspection team may need to utilize aircraft owned or chartered by the Technical Secretariat. Not later than 30 days after this Convention enters into force for it, each State Party shall inform the Technical Secretariat of the standing diplomatic clearance number for non‑scheduled aircraft transporting inspection teams and equipment necessary for inspection into and out of the territory in which an inspection site is located. Aircraft routings to and from the designated point of entry shall be along established international airways that are agreed upon between the States Parties and the Technical Secretariat as the basis for such diplomatic clearance.
 
-23.    When a non‑scheduled aircraft is used, the Technical Secretariat shall provide the inspected State Party with a flight plan, through the National Authority, for the aircraft's flight from the last airfield prior to entering the airspace of the State in which the inspection site is located to the point of entry, not less than six hours before the scheduled departure time from that airfield. Such a plan shall be filed in accordance with the procedures of the International Civil Aviation Organization applicable to civil aircraft. For its owned or chartered flights, the Technical Secretariat shall include in the remarks section of each flight plan the standing diplomatic clearance number and the appropriate notation identifying the aircraft as an inspection aircraft.
+23.       When a non‑scheduled aircraft is used, the Technical Secretariat shall provide the inspected State Party with a flight plan, through the National Authority, for the aircraft's flight from the last airfield prior to entering the airspace of the State in which the inspection site is located to the point of entry, not less than six hours before the scheduled departure time from that airfield. Such a plan shall be filed in accordance with the procedures of the International Civil Aviation Organization applicable to civil aircraft. For its owned or chartered flights, the Technical Secretariat shall include in the remarks section of each flight plan the standing diplomatic clearance number and the appropriate notation identifying the aircraft as an inspection aircraft.
 
-24.    Not less than three hours before the scheduled departure of the inspection team from the last airfield prior to entering the airspace of the State in which the inspection is to take place, the inspected State Party or Host State Party shall ensure that the flight plan filed in accordance with paragraph 23 is approved so that the inspection team may arrive at the point of entry by the estimated arrival time.
+24.       Not less than three hours before the scheduled departure of the inspection team from the last airfield prior to entering the airspace of the State in which the inspection is to take place, the inspected State Party or Host State Party shall ensure that the flight plan filed in accordance with paragraph 23 is approved so that the inspection team may arrive at the point of entry by the estimated arrival time.
 
-25.    The inspected State Party shall provide parking, security protection, servicing and fuel as required by the Technical Secretariat for the aircraft of the inspection team at the point of entry when such aircraft is owned or chartered by the Technical Secretariat. Such aircraft shall not be liable for landing fees, departure tax, and similar charges. The Technical Secretariat shall bear the cost of such fuel, security protection and servicing.
+25.       The inspected State Party shall provide parking, security protection, servicing and fuel as required by the Technical Secretariat for the aircraft of the inspection team at the point of entry when such aircraft is owned or chartered by the Technical Secretariat. Such aircraft shall not be liable for landing fees, departure tax, and similar charges. The Technical Secretariat shall bear the cost of such fuel, security protection and servicing.
 
 Administrative arrangements
 
-26.    The inspected State Party shall provide or arrange for the amenities necessary for the inspection team such as communication means, interpretation services to the extent necessary for the performance of interviewing and other tasks, transportation, working space, lodging, meals and medical care. In this regard, the inspected State Party shall be reimbursed by the Organization for such costs incurred by the inspection team.
+26.       The inspected State Party shall provide or arrange for the amenities necessary for the inspection team such as communication means, interpretation services to the extent necessary for the performance of interviewing and other tasks, transportation, working space, lodging, meals and medical care. In this regard, the inspected State Party shall be reimbursed by the Organization for such costs incurred by the inspection team.
 
 Approved equipment
 
-27.    Subject to paragraph 29, there shall be no restriction by the inspected State Party on the inspection team bringing onto the inspection site such equipment, approved in accordance with paragrah 28, which the Technical Secretariat has determined to be necessary to fulfil the inspection requirements. The Technical Secretariat shall prepare and, as appropriate, update a list of approved equipment, which may be needed for the purposes described above, and regulations governing such equipment which shall be in accordance with this Annex. In establishing the list of approved equipment and these regulations, the Technical Secretariat shall ensure that safety considerations for all the types of facilities at which such equipment is likely to be used, are taken fully into account. A list of approved equipment shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+27.       Subject to paragraph 29, there shall be no restriction by the inspected State Party on the inspection team bringing onto the inspection site such equipment, approved in accordance with paragrah 28, which the Technical Secretariat has determined to be necessary to fulfil the inspection requirements. The Technical Secretariat shall prepare and, as appropriate, update a list of approved equipment, which may be needed for the purposes described above, and regulations governing such equipment which shall be in accordance with this Annex. In establishing the list of approved equipment and these regulations, the Technical Secretariat shall ensure that safety considerations for all the types of facilities at which such equipment is likely to be used, are taken fully into account. A list of approved equipment shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-28.    The equipment shall be in the custody of the Technical Secretariat and be designated, calibrated and approved by the Technical Secretariat. The Technical Secretariat shall, to the extent possible, select that equipment which is specifically designed for the specific kind of inspection required. Designated and approved equipment shall be specifically protected against unauthorized alteration.
+28.       The equipment shall be in the custody of the Technical Secretariat and be designated, calibrated and approved by the Technical Secretariat. The Technical Secretariat shall, to the extent possible, select that equipment which is specifically designed for the specific kind of inspection required. Designated and approved equipment shall be specifically protected against unauthorized alteration.
 
-29.    The inspected State Party shall have the right, without prejudice to the prescribed time‑frames, to inspect the equipment in the presence of inspection team members at the point of entry, i.e., to check the identity of the equipment brought in or removed from the territory of the inspected State Party or the Host State. To facilitate such identification, the Technical Secretariat shall attach documents and devices to authenticate its designation and approval of the equipment. The inspection of the equipment shall also ascertain to the satisfaction of the inspected State Party that the equipment meets the description of the approved equipment for the particular type of inspection. The inspected State Party may exclude equipment not meeting that description or equipment without the above‑mentioned authentication documents and devices. Procedures for the inspection of equipment shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+29.       The inspected State Party shall have the right, without prejudice to the prescribed time‑frames, to inspect the equipment in the presence of inspection team members at the point of entry, i.e., to check the identity of the equipment brought in or removed from the territory of the inspected State Party or the Host State. To facilitate such identification, the Technical Secretariat shall attach documents and devices to authenticate its designation and approval of the equipment. The inspection of the equipment shall also ascertain to the satisfaction of the inspected State Party that the equipment meets the description of the approved equipment for the particular type of inspection. The inspected State Party may exclude equipment not meeting that description or equipment without the above‑mentioned authentication documents and devices. Procedures for the inspection of equipment shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-30.    In cases where the inspection team finds it necessary to use equipment available on site not belonging to the Technical Secretariat and requests the inspected State Party to enable the team to use such equipment, the inspected State Party shall comply with the request to the extent it can.
+30.       In cases where the inspection team finds it necessary to use equipment available on site not belonging to the Technical Secretariat and requests the inspected State Party to enable the team to use such equipment, the inspected State Party shall comply with the request to the extent it can.
 
-D.  PRE‑INSPECTION ACTIVITIES
+D.     PRE‑INSPECTION ACTIVITIES
 
 Notification
 
-31.    The Director‑General shall notify the State Party before the planned arrival of the inspection team at the point of entry and within the prescribed time‑frames, where specified, of its intention to carry out an inspection.
+31.       The Director‑General shall notify the State Party before the planned arrival of the inspection team at the point of entry and within the prescribed time‑frames, where specified, of its intention to carry out an inspection.
 
-32.    Notifications made by the Director‑General shall include the following information:
+32.       Notifications made by the Director‑General shall include the following information:
 
 (a)   the type of inspection;
 
@@ -6076,69 +6018,69 @@ Notification
 
 (g)   if appropriate, aircraft clearance for special flights.
 
-33.    The inspected State Party shall acknowledge the receipt of a notification by the Technical Secretariat of an intention to conduct an inspection, not later than one hour after receipt of such notification.
+33.       The inspected State Party shall acknowledge the receipt of a notification by the Technical Secretariat of an intention to conduct an inspection, not later than one hour after receipt of such notification.
 
-34.    In the case of an inspection of a facility of a State Party located on the territory of another State Party, both States Parties shall be simultaneously notified in accordance with paragraphs 31 and 32.
+34.       In the case of an inspection of a facility of a State Party located on the territory of another State Party, both States Parties shall be simultaneously notified in accordance with paragraphs 31 and 32.
 
 Entry into the territory of the inspected State Party or Host State and transfer to the inspection site
 
-35.    The inspected State Party or Host State Party which has been notified of the arrival of an inspection team, shall ensure its immediate entry into the territory and shall through an in‑country escort or by other means do everything in its power to ensure the safe conduct of the inspection team and its equipment and supplies, from its point of entry to the inspection site(s) and to a point of exit.
+35.       The inspected State Party or Host State Party which has been notified of the arrival of an inspection team, shall ensure its immediate entry into the territory and shall through an in‑country escort or by other means do everything in its power to ensure the safe conduct of the inspection team and its equipment and supplies, from its point of entry to the inspection site(s) and to a point of exit.
 
-36.    The inspected State Party or Host State Party shall, as necessary, assist the inspection team in reaching the inspection site not later than 12 hours after the arrival at the point of entry.
+36.       The inspected State Party or Host State Party shall, as necessary, assist the inspection team in reaching the inspection site not later than 12 hours after the arrival at the point of entry.
 
 Pre‑inspection briefing
 
-37.    Upon arrival at the inspection site and before the commencement of the inspection, the inspection team shall be briefed by facility representatives, with the aid of maps and other documentation as appropriate, on the facility, the activities carried out there, safety measures and administrative and logistic arrangements necessary for the inspection. The time spent for the briefing shall be limited to the minimum necessary and in any event not exceed three hours.
+37.       Upon arrival at the inspection site and before the commencement of the inspection, the inspection team shall be briefed by facility representatives, with the aid of maps and other documentation as appropriate, on the facility, the activities carried out there, safety measures and administrative and logistic arrangements necessary for the inspection. The time spent for the briefing shall be limited to the minimum necessary and in any event not exceed three hours.
 
-E.   CONDUCT OF INSPECTIONS
+E.     CONDUCT OF INSPECTIONS
 
 General rules
 
-38.    The members of the inspection team shall discharge their functions in accordance with the provisions of this Convention, as well as rules established by the Director‑General and facility agreements concluded between States Parties and the Organization.
+38.       The members of the inspection team shall discharge their functions in accordance with the provisions of this Convention, as well as rules established by the Director‑General and facility agreements concluded between States Parties and the Organization.
 
-39.    The inspection team shall strictly observe the inspection mandate issued by the Director‑General. It shall refrain from activities going beyond this mandate.
+39.       The inspection team shall strictly observe the inspection mandate issued by the Director‑General. It shall refrain from activities going beyond this mandate.
 
-40.    The activities of the inspection team shall be so arranged as to ensure the timely and effective discharge of its functions and the least possible inconvenience to the inspected State Party or Host State and disturbance to the facility or area inspected. The inspection team shall avoid unnecessarily hampering or delaying the operation of a facility and avoid affecting its safety. In particular, the inspection team shall not operate any facility. If inspectors consider that, to fulfil their mandate, particular operations should be carried out in a facility, they shall request the designated representative of the inspected facility to have them performed. The representative shall carry out the request to the extent possible.
+40.       The activities of the inspection team shall be so arranged as to ensure the timely and effective discharge of its functions and the least possible inconvenience to the inspected State Party or Host State and disturbance to the facility or area inspected. The inspection team shall avoid unnecessarily hampering or delaying the operation of a facility and avoid affecting its safety. In particular, the inspection team shall not operate any facility. If inspectors consider that, to fulfil their mandate, particular operations should be carried out in a facility, they shall request the designated representative of the inspected facility to have them performed. The representative shall carry out the request to the extent possible.
 
-41.    In the performance of their duties on the territory of an inspected State Party or Host State, the members of the inspection team shall, if the inspected State Party so requests, be accompanied by representatives of the inspected State Party, but the inspection team must not thereby be delayed or otherwise hindered in the exercise of its functions.
+41.       In the performance of their duties on the territory of an inspected State Party or Host State, the members of the inspection team shall, if the inspected State Party so requests, be accompanied by representatives of the inspected State Party, but the inspection team must not thereby be delayed or otherwise hindered in the exercise of its functions.
 
-42.    Detailed procedures for the conduct of inspections shall be developed for inclusion in the inspection manual by the Technical Secretariat, taking into account guidelines to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+42.       Detailed procedures for the conduct of inspections shall be developed for inclusion in the inspection manual by the Technical Secretariat, taking into account guidelines to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
 Safety
 
-43.    In carrying out their activities, inspectors and inspection assistants shall observe safety regulations established at the inspection site, including those for the protection of controlled environments within a facility and for personal safety. In order to implement these requirements, appropriate detailed procedures shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+43.       In carrying out their activities, inspectors and inspection assistants shall observe safety regulations established at the inspection site, including those for the protection of controlled environments within a facility and for personal safety. In order to implement these requirements, appropriate detailed procedures shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
 Communications
 
-44.    Inspectors shall have the right throughout the in‑country period to communicate with the Headquarters of the Technical Secretariat. For this purpose they may use their own, duly certified, approved equipment and may request that the inspected State Party or Host Party provide them with access to other telecommunications. The inspection team shall have the right to use its own two‑way system of radio communications between personnel patrolling the perimeter and other members of the inspection team.
+44.       Inspectors shall have the right throughout the in‑country period to communicate with the Headquarters of the Technical Secretariat. For this purpose they may use their own, duly certified, approved equipment and may request that the inspected State Party or Host Party provide them with access to other telecommunications. The inspection team shall have the right to use its own two‑way system of radio communications between personnel patrolling the perimeter and other members of the inspection team.
 
 Inspection team and inspected State Party rights
 
-45.    The inspection team shall, in accordance with the relevant Articles and Annexes of this Convention as well as with facility agreements and procedures set forth in the inspection manual, have the right to unimpeded access to the inspection site. The items to be inspected will be chosen by the inspectors.
+45.       The inspection team shall, in accordance with the relevant Articles and Annexes of this Convention as well as with facility agreements and procedures set forth in the inspection manual, have the right to unimpeded access to the inspection site. The items to be inspected will be chosen by the inspectors.
 
-46.    Inspectors shall have the right to interview any facility personnel in the presence of representatives of the inspected State Party with the purpose of establishing relevant facts. Inspectors shall only request information and data which are necessary for the conduct of the inspection, and the inspected State Party shall furnish such information upon request. The inspected State Party shall have the right to object to questions posed to the facility personnel if those questions are deemed not relevant to the inspection. If the head of the inspection team objects and states their relevance, the questions shall be provided in writing to the inspected State Party for reply. The inspection team may note any refusal to permit interviews or to allow questions to be answered and any explanations given, in that part of the inspection report that deals with the cooperation of the inspected State Party.
+46.       Inspectors shall have the right to interview any facility personnel in the presence of representatives of the inspected State Party with the purpose of establishing relevant facts. Inspectors shall only request information and data which are necessary for the conduct of the inspection, and the inspected State Party shall furnish such information upon request. The inspected State Party shall have the right to object to questions posed to the facility personnel if those questions are deemed not relevant to the inspection. If the head of the inspection team objects and states their relevance, the questions shall be provided in writing to the inspected State Party for reply. The inspection team may note any refusal to permit interviews or to allow questions to be answered and any explanations given, in that part of the inspection report that deals with the cooperation of the inspected State Party.
 
-47.    Inspectors shall have the right to inspect documentation and records they deem relevant to the conduct of their mission.
+47.       Inspectors shall have the right to inspect documentation and records they deem relevant to the conduct of their mission.
 
-48.    Inspectors shall have the right to have photographs taken at their request by representatives of the inspected State Party or of the inspected facility. The capability to take instant development photographic prints shall be available. The inspection team shall determine whether photographs conform to those requested and, if not, repeat photographs shall be taken. The inspection team and the inspected State Party shall each retain one copy of every photograph.
+48.       Inspectors shall have the right to have photographs taken at their request by representatives of the inspected State Party or of the inspected facility. The capability to take instant development photographic prints shall be available. The inspection team shall determine whether photographs conform to those requested and, if not, repeat photographs shall be taken. The inspection team and the inspected State Party shall each retain one copy of every photograph.
 
-49.    The representatives of the inspected State Party shall have the right to observe all verification activities carried out by the inspection team.
+49.       The representatives of the inspected State Party shall have the right to observe all verification activities carried out by the inspection team.
 
-50.    The inspected State Party shall receive copies, at its request, of the information and data gathered about its facility(ies) by the Technical Secretariat.
+50.       The inspected State Party shall receive copies, at its request, of the information and data gathered about its facility(ies) by the Technical Secretariat.
 
-51.    Inspectors shall have the right to request clarifications in connection with ambiguities that arise during an inspection. Such requests shall be made promptly through the representative of the inspected State Party. The representative of the inspected State Party shall provide the inspection team, during the inspection, with such clarification as may be necessary to remove the ambiguity. If questions relating to an object or a building located within the inspection site are not resolved, the object or building shall, if requested, be photographed for the purpose of clarifying its nature and function. If the ambiguity cannot be removed during the inspection, the inspectors shall notify the Technical Secretariat immediately. The inspectors shall include in the inspection report any such unresolved question, relevant clarifications, and a copy of any photographs taken.
+51.       Inspectors shall have the right to request clarifications in connection with ambiguities that arise during an inspection. Such requests shall be made promptly through the representative of the inspected State Party. The representative of the inspected State Party shall provide the inspection team, during the inspection, with such clarification as may be necessary to remove the ambiguity. If questions relating to an object or a building located within the inspection site are not resolved, the object or building shall, if requested, be photographed for the purpose of clarifying its nature and function. If the ambiguity cannot be removed during the inspection, the inspectors shall notify the Technical Secretariat immediately. The inspectors shall include in the inspection report any such unresolved question, relevant clarifications, and a copy of any photographs taken.
 
 Collection, handling and analysis of samples
 
-52.    Representatives of the inspected State Party or of the inspected facility shall take samples at the request of the inspection team in the presence of inspectors. If so agreed in advance with the representatives of the inspected State Party or of the inspected facility, the inspection team may take samples itself.
+52.       Representatives of the inspected State Party or of the inspected facility shall take samples at the request of the inspection team in the presence of inspectors. If so agreed in advance with the representatives of the inspected State Party or of the inspected facility, the inspection team may take samples itself.
 
-53.    Where possible, the analysis of samples shall be performed on‑site. The inspection team shall have the right to perform on‑site analysis of samples using approved equipment brought by it. At the request of the inspection team, the inspected State Party shall, in accordance with agreed procedures, provide assistance for the analysis of samples on‑site. Alternatively, the inspection team may request that appropriate analysis on‑site be performed in its presence.
+53.       Where possible, the analysis of samples shall be performed on‑site. The inspection team shall have the right to perform on‑site analysis of samples using approved equipment brought by it. At the request of the inspection team, the inspected State Party shall, in accordance with agreed procedures, provide assistance for the analysis of samples on‑site. Alternatively, the inspection team may request that appropriate analysis on‑site be performed in its presence.
 
-54.    The inspected State Party has the right to retain portions of all samples taken or take duplicate samples and be present when samples are analysed on‑site.
+54.       The inspected State Party has the right to retain portions of all samples taken or take duplicate samples and be present when samples are analysed on‑site.
 
-55.    The inspection team shall, if it deems it necessary, transfer samples for analysis off‑site at laboratories designated by the Organization.
+55.       The inspection team shall, if it deems it necessary, transfer samples for analysis off‑site at laboratories designated by the Organization.
 
-56.    The Director‑General shall have the primary responsibility for the security, integrity and preservation of samples and for ensuring that the confidentiality of samples transferred for analysis off‑site is protected. The Director‑General shall do so in accordance with procedures, to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i), for inclusion in the inspection manual. He shall:
+56.       The Director‑General shall have the primary responsibility for the security, integrity and preservation of samples and for ensuring that the confidentiality of samples transferred for analysis off‑site is protected. The Director‑General shall do so in accordance with procedures, to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i), for inclusion in the inspection manual. He shall:
 
 (a)   establish a stringent regime governing the collection, handling, transport and analysis of samples;
 
@@ -6148,91 +6090,91 @@ Collection, handling and analysis of samples
 
 (d)   select from among the designated laboratories those which shall perform analytical or other functions in relation to specific investigations.
 
-57.    When off‑site analysis is to be performed, samples shall be analysed in at least two designated laboratories. The Technical Secretariat shall ensure the expeditious processing of the analysis. The samples shall be accounted for by the Technical Secretariat and any unused samples or portions thereof shall be returned to the Technical Secretariat.
+57.       When off‑site analysis is to be performed, samples shall be analysed in at least two designated laboratories. The Technical Secretariat shall ensure the expeditious processing of the analysis. The samples shall be accounted for by the Technical Secretariat and any unused samples or portions thereof shall be returned to the Technical Secretariat.
 
-58.    The Technical Secretariat shall compile the results of the laboratory analysis of samples relevant to compliance with this Convention and include them in the final inspection report. The Technical Secretariat shall include in the report detailed information concerning the equipment and methodology employed by the designated laboratories.
+58.       The Technical Secretariat shall compile the results of the laboratory analysis of samples relevant to compliance with this Convention and include them in the final inspection report. The Technical Secretariat shall include in the report detailed information concerning the equipment and methodology employed by the designated laboratories.
 
 Extension of inspection duration
 
-59.    Periods of inspection may be extended by agreement with the representative of the inspected State Party.
+59.       Periods of inspection may be extended by agreement with the representative of the inspected State Party.
 
 Debriefing
 
-60.    Upon completion of an inspection the inspection team shall meet with representatives of the inspected State Party and the personnel responsible for the inspection site to review the preliminary findings of the inspection team and to clarify any ambiguities. The inspection team shall provide to the representatives of the inspected State Party its preliminary findings in written form according to a standardized format, together with a list of any samples and copies of written information and data gathered and other material to be taken off site. The document shall be signed by the head of the inspection team. In order to indicate that he has taken notice of the contents of the document, the representative of the inspected State Party shall countersign the document. This meeting shall be completed not later than 24 hours after the completion of the inspection.
+60.       Upon completion of an inspection the inspection team shall meet with representatives of the inspected State Party and the personnel responsible for the inspection site to review the preliminary findings of the inspection team and to clarify any ambiguities. The inspection team shall provide to the representatives of the inspected State Party its preliminary findings in written form according to a standardized format, together with a list of any samples and copies of written information and data gathered and other material to be taken off site. The document shall be signed by the head of the inspection team. In order to indicate that he has taken notice of the contents of the document, the representative of the inspected State Party shall countersign the document. This meeting shall be completed not later than 24 hours after the completion of the inspection.
 
-F.   DEPARTURE
+F.     DEPARTURE
 
-61.    Upon completion of the post‑inspection procedures, the inspection team shall leave, as soon as possible, the territory of the inspected State Party or the Host State.
+61.       Upon completion of the post‑inspection procedures, the inspection team shall leave, as soon as possible, the territory of the inspected State Party or the Host State.
 
-G.  REPORTS
+G.     REPORTS
 
-62.    Not later than 10 days after the inspection, the inspectors shall prepare a factual, final report on the activities conducted by them and on their findings. It shall only contain facts relevant to compliance with this Convention, as provided for under the inspection mandate. The report shall also provide information as to the manner in which the State Party inspected cooperated with the inspection team. Differing observations made by inspectors may be attached to the report. The report shall be kept confidential.
+62.       Not later than 10 days after the inspection, the inspectors shall prepare a factual, final report on the activities conducted by them and on their findings. It shall only contain facts relevant to compliance with this Convention, as provided for under the inspection mandate. The report shall also provide information as to the manner in which the State Party inspected cooperated with the inspection team. Differing observations made by inspectors may be attached to the report. The report shall be kept confidential.
 
-63.    The final report shall immediately be submitted to the inspected State Party. Any written comments, which the inspected State Party may immediately make on its findings shall be annexed to it. The final report together with annexed comments made by the inspected State Party shall be submitted to the Director‑General not later than 30 days after the inspection.
+63.       The final report shall immediately be submitted to the inspected State Party. Any written comments, which the inspected State Party may immediately make on its findings shall be annexed to it. The final report together with annexed comments made by the inspected State Party shall be submitted to the Director‑General not later than 30 days after the inspection.
 
-64.    Should the report contain uncertainties, or should cooperation between the National Authority and the inspectors not measure up to the standards required, the Director‑General shall approach the State Party for clarification.
+64.       Should the report contain uncertainties, or should cooperation between the National Authority and the inspectors not measure up to the standards required, the Director‑General shall approach the State Party for clarification.
 
-65.    If the uncertainties cannot be removed or the facts established are of a nature to suggest that obligations undertaken under this Convention have not been met, the Director‑General shall inform the Executive Council without delay.
+65.       If the uncertainties cannot be removed or the facts established are of a nature to suggest that obligations undertaken under this Convention have not been met, the Director‑General shall inform the Executive Council without delay.
 
-H.  APPLICATION OF GENERAL PROVISIONS
+H.     APPLICATION OF GENERAL PROVISIONS
 
-66.    The provisions of this Part shall apply to all inspections conducted pursuant to this Convention, except where the provisions of this Part differ from the provisions set forth for specific types of inspections in Parts III to XI of this Annex, in which case the latter provisions shall take precedence.
+66.       The provisions of this Part shall apply to all inspections conducted pursuant to this Convention, except where the provisions of this Part differ from the provisions set forth for specific types of inspections in Parts III to XI of this Annex, in which case the latter provisions shall take precedence.
 
 PART III
 
 GENERAL PROVISIONS FOR VERIFICATION MEASURES PURSUANT TO ARTICLES IV, V and VI, PARAGRAPH 3
 
-A.  INITIAL INSPECTIONS AND FACILITY AGREEMENTS
+A.     INITIAL INSPECTIONS AND FACILITY AGREEMENTS
 
-1.      Each declared facility subject to on‑site inspection pursuant to Articles IV, V, and VI, paragraph 3, shall receive an initial inspection promptly after the facility is declared. The purpose of this inspection of the facility shall be to verify information provided and to obtain any additional information needed for planning future verification activities at the facility, including on‑site inspections and continuous monitoring with on‑site instruments, and to work on the facility agreements.
+1.         Each declared facility subject to on‑site inspection pursuant to Articles IV, V, and VI, paragraph 3, shall receive an initial inspection promptly after the facility is declared. The purpose of this inspection of the facility shall be to verify information provided and to obtain any additional information needed for planning future verification activities at the facility, including on‑site inspections and continuous monitoring with on‑site instruments, and to work on the facility agreements.
 
-2.      States Parties shall ensure that the verification of declarations and the initiation of the systematic verification measures can be accomplished by the Technical Secretariat at all facilities within the established time‑frames after this Convention enters into force for them.
+2.         States Parties shall ensure that the verification of declarations and the initiation of the systematic verification measures can be accomplished by the Technical Secretariat at all facilities within the established time‑frames after this Convention enters into force for them.
 
-3.      Each State Party shall conclude a facility agreement with the Organization for each facility declared and subject to on‑site inspection pursuant to Articles IV, V, and VI, paragraph 3.
+3.         Each State Party shall conclude a facility agreement with the Organization for each facility declared and subject to on‑site inspection pursuant to Articles IV, V, and VI, paragraph 3.
 
-4.      Facility agreements shall be completed not later than 180 days after this Convention enters into force for the State Party or after the facility has been declared for the first time, except for a chemical weapons destruction facility to which paragraphs 5 to 7 shall apply.
+4.         Facility agreements shall be completed not later than 180 days after this Convention enters into force for the State Party or after the facility has been declared for the first time, except for a chemical weapons destruction facility to which paragraphs 5 to 7 shall apply.
 
-5.      In the case of a chemical weapons destruction facility that begins operations more than one year after this Convention enters into force for the State Party, the facility agreement shall be completed not less than 180 days before the facility begins operation.
+5.         In the case of a chemical weapons destruction facility that begins operations more than one year after this Convention enters into force for the State Party, the facility agreement shall be completed not less than 180 days before the facility begins operation.
 
-6.      In the case of a chemical weapons destruction facility that is in operation when this Convention enters into force for the State Party, or begins operation not later than one year thereafter, the facility agreement shall be completed not later than 210 days after this Convention enters into force for the State Party, except that the Executive Council may decide that transitional verification arrangements, approved in accordance with Part IV(A), paragraph 51, of this Annex and including a transitional facility agreement, provisions for verification through on‑site inspection and monitoring with on‑site instruments, and the time‑frame for application of the arrangements, are sufficient.
+6.         In the case of a chemical weapons destruction facility that is in operation when this Convention enters into force for the State Party, or begins operation not later than one year thereafter, the facility agreement shall be completed not later than 210 days after this Convention enters into force for the State Party, except that the Executive Council may decide that transitional verification arrangements, approved in accordance with Part IV(A), paragraph 51, of this Annex and including a transitional facility agreement, provisions for verification through on‑site inspection and monitoring with on‑site instruments, and the time‑frame for application of the arrangements, are sufficient.
 
-7.      In the case of a facility, referred to in paragraph 6, that will cease operations not later than two years after this Convention enters into force for the State Party, the Executive Council may decide that transitional verification arrangements, approved in accordance with Part IV(A), paragraph 51, of this Annex and including a transitional facility agreement, provisions for verification through on‑site inspection and monitoring with on‑site instruments, and the time‑frame for application of the arrangements, are sufficient.
+7.         In the case of a facility, referred to in paragraph 6, that will cease operations not later than two years after this Convention enters into force for the State Party, the Executive Council may decide that transitional verification arrangements, approved in accordance with Part IV(A), paragraph 51, of this Annex and including a transitional facility agreement, provisions for verification through on‑site inspection and monitoring with on‑site instruments, and the time‑frame for application of the arrangements, are sufficient.
 
-8.      Facility agreements shall be based on models for such agreements and provide for detailed arrangements which shall govern inspections at each facility. The model agreements shall include provisions to take into account future technological developments and shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+8.         Facility agreements shall be based on models for such agreements and provide for detailed arrangements which shall govern inspections at each facility. The model agreements shall include provisions to take into account future technological developments and shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-9.      The Technical Secretariat may retain at each site a sealed container for photographs, plans and other information that it may wish to refer to in the course of subsequent inspections.
+9.         The Technical Secretariat may retain at each site a sealed container for photographs, plans and other information that it may wish to refer to in the course of subsequent inspections.
 
-B.   STANDING ARRANGEMENTS
+B.     STANDING ARRANGEMENTS
 
-10.    Where applicable, the Technical Secretariat shall have the right to have continuous monitoring instruments and systems and seals installed and to use them, in conformity with the relevant provisions in this Convention and the facility agreements between States Parties and the Organization.
+10.       Where applicable, the Technical Secretariat shall have the right to have continuous monitoring instruments and systems and seals installed and to use them, in conformity with the relevant provisions in this Convention and the facility agreements between States Parties and the Organization.
 
-11.    The inspected State Party shall, in accordance with agreed procedures, have the right to inspect any instrument used or installed by the inspection team and to have it tested in the presence of representatives of the inspected State Party. The inspection team shall have the right to use the instruments that were installed by the inspected State Party for its own monitoring of the technological process of the destruction of chemical weapons. To this end, the inspection team shall have the right to inspect those instruments that it intends to use for purposes of verification of the destruction of chemical weapons and to have them tested in its presence.
+11.       The inspected State Party shall, in accordance with agreed procedures, have the right to inspect any instrument used or installed by the inspection team and to have it tested in the presence of representatives of the inspected State Party. The inspection team shall have the right to use the instruments that were installed by the inspected State Party for its own monitoring of the technological process of the destruction of chemical weapons. To this end, the inspection team shall have the right to inspect those instruments that it intends to use for purposes of verification of the destruction of chemical weapons and to have them tested in its presence.
 
-12.    The inspected State Party shall provide the necessary preparation and support for the establishment of continuous monitoring instruments and systems.
+12.       The inspected State Party shall provide the necessary preparation and support for the establishment of continuous monitoring instruments and systems.
 
-13.    In order to implement paragraphs 11 and 12, appropriate detailed procedures shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+13.       In order to implement paragraphs 11 and 12, appropriate detailed procedures shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-14.    The inspected State Party shall immediately notify the Technical Secretariat if an event occurs or may occur at a facility where monitoring instruments are installed which may have an impact on the monitoring system. The inspected State Party shall coordinate subsequent actions with the Technical Secretariat with a view to restoring the operation of the monitoring system and establishing interim measures, if necessary, as soon as possible.
+14.       The inspected State Party shall immediately notify the Technical Secretariat if an event occurs or may occur at a facility where monitoring instruments are installed which may have an impact on the monitoring system. The inspected State Party shall coordinate subsequent actions with the Technical Secretariat with a view to restoring the operation of the monitoring system and establishing interim measures, if necessary, as soon as possible.
 
-15.    The inspection team shall verify during each inspection that the monitoring system functions correctly and that emplaced seals have not been tampered with. In addition, visits to service the monitoring system may be required to perform any necessary maintenance or replacement of equipment, or to adjust the coverage of the monitoring system as required.
+15.       The inspection team shall verify during each inspection that the monitoring system functions correctly and that emplaced seals have not been tampered with. In addition, visits to service the monitoring system may be required to perform any necessary maintenance or replacement of equipment, or to adjust the coverage of the monitoring system as required.
 
-16.    If the monitoring system indicates any anomaly, the Technical Secretariat shall immediately take action to determine whether this resulted from equipment malfunction or activities at the facility. If, after this examination, the problem remains unresolved, the Technical Secretariat shall immediately ascertain the actual situation, including through immediate on‑site inspection of, or visit to, the facility if necessary. The Technical Secretariat shall report any such problem immediately after its detection to the inspected State Party which shall assist in its resolution.
+16.       If the monitoring system indicates any anomaly, the Technical Secretariat shall immediately take action to determine whether this resulted from equipment malfunction or activities at the facility. If, after this examination, the problem remains unresolved, the Technical Secretariat shall immediately ascertain the actual situation, including through immediate on‑site inspection of, or visit to, the facility if necessary. The Technical Secretariat shall report any such problem immediately after its detection to the inspected State Party which shall assist in its resolution.
 
-C.   PRE‑INSPECTION ACTIVITIES
+C.     PRE‑INSPECTION ACTIVITIES
 
-17.    The inspected State Party shall, except as specified in paragraph 18, be notified of inspections not less than 24 hours in advance of the planned arrival of the inspection team at the point of entry.
+17.       The inspected State Party shall, except as specified in paragraph 18, be notified of inspections not less than 24 hours in advance of the planned arrival of the inspection team at the point of entry.
 
-18.    The inspected State Party shall be notified of initial inspections not less than 72 hours in advance of the estimated time of arrival of the inspection team at the point of entry.
+18.       The inspected State Party shall be notified of initial inspections not less than 72 hours in advance of the estimated time of arrival of the inspection team at the point of entry.
 
 PART IV(A)
 
 DESTRUCTION OF CHEMICAL WEAPONS AND ITS VERIFICATION PURSUANT TO ARTICLE IV
 
-A.  DECLARATIONS
+A.     DECLARATIONS
 
 Chemical Weapons
 
-1.      The declaration of chemical weapons by a State Party pursuant to Article III, paragraph 1(a)(ii), shall include the following:
+1.         The declaration of chemical weapons by a State Party pursuant to Article III, paragraph 1(a)(ii), shall include the following:
 
 (a)   the aggregate quantity of each chemical declared;
 
@@ -6254,7 +6196,7 @@ Chemical Weapons
 
 (iv)  chemicals specifically designed for use directly in connection with the employment of munitions, sub‑munitions, devices or equipment specified in sub-subparagraph (ii).
 
-2.      For the declaration of chemicals referred to in paragraph 1(c)(i) the following shall apply:
+2.         For the declaration of chemicals referred to in paragraph 1(c)(i) the following shall apply:
 
 (a)   chemicals shall be declared in accordance with the Schedules specified in the Annex on Chemicals;
 
@@ -6292,7 +6234,7 @@ Chemical Weapons
 
 (i)    in addition, for chemicals stored in bulk, the percentage purity shall be declared, if known.
 
-3.      For each type of unfilled munitions, sub‑munitions, devices or equipment, referred to in paragraph 1(c)(ii), the information shall include:
+3.         For each type of unfilled munitions, sub‑munitions, devices or equipment, referred to in paragraph 1(c)(ii), the information shall include:
 
 (a)   the number of items;
 
@@ -6302,15 +6244,15 @@ Chemical Weapons
 
 Declarations of chemical weapons pursuant to Article III, paragraph 1(a)(iii)
 
-4.      The declaration of chemical weapons pursuant to Article III, paragraph 1(a)(iii), shall contain all information specified in paragraphs 1 to 3 above. It is the responsibility of the State Party on whose territory the chemical weapons are located to make appropriate arrangements with the other State to ensure that the declarations are made. If the State Party on whose territory the chemical weapons are located is not able to fulfil its obligations under this paragraph, it shall state the reasons therefor.
+4.         The declaration of chemical weapons pursuant to Article III, paragraph 1(a)(iii), shall contain all information specified in paragraphs 1 to 3 above. It is the responsibility of the State Party on whose territory the chemical weapons are located to make appropriate arrangements with the other State to ensure that the declarations are made. If the State Party on whose territory the chemical weapons are located is not able to fulfil its obligations under this paragraph, it shall state the reasons therefor.
 
 Declarations of past transfers and receipts
 
-5.      A State Party that has transferred or received chemical weapons since 1 January 1946 shall declare these transfers or receipts pursuant to Article III, paragraph 1(a)(iv), provided the amount transferred or received exceeded 1 tonne per chemical per year in bulk and/or munition form. This declaration shall be made according to the inventory format specified in paragraphs 1 and 2\. This declaration shall also indicate the supplier and recipient countries, the dates of the transfers or receipts and, as precisely as possible, the current location of the transferred items. When not all the specified information is available for transfers or receipts of chemical weapons for the period between 1 January 1946 and 1 January 1970, the State Party shall declare whatever information is still available to it and provide an explanation as to why it cannot submit a full declaration.
+5.         A State Party that has transferred or received chemical weapons since 1 January 1946 shall declare these transfers or receipts pursuant to Article III, paragraph 1(a)(iv), provided the amount transferred or received exceeded 1 tonne per chemical per year in bulk and/or munition form. This declaration shall be made according to the inventory format specified in paragraphs 1 and 2\. This declaration shall also indicate the supplier and recipient countries, the dates of the transfers or receipts and, as precisely as possible, the current location of the transferred items. When not all the specified information is available for transfers or receipts of chemical weapons for the period between 1 January 1946 and 1 January 1970, the State Party shall declare whatever information is still available to it and provide an explanation as to why it cannot submit a full declaration.
 
 Submission of the general plan for destruction of chemical weapons
 
-6.      The general plan for destruction of chemical weapons submitted pursuant to Article III, paragraph 1(a)(v), shall provide an overview of the entire national chemical weapons destruction programme of the State Party and information on the efforts of the State Party to fulfil the destruction requirements contained in this Convention. The plan shall specify:
+6.         The general plan for destruction of chemical weapons submitted pursuant to Article III, paragraph 1(a)(v), shall provide an overview of the entire national chemical weapons destruction programme of the State Party and information on the efforts of the State Party to fulfil the destruction requirements contained in this Convention. The plan shall specify:
 
 (a)   a general schedule for destruction, giving types and approximate quantities of chemical weapons planned to be destroyed in each annual destruction period for each existing chemical weapons destruction facility and, if possible, for each planned chemical weapons destruction facility;
 
@@ -6332,44 +6274,42 @@ Submission of the general plan for destruction of chemical weapons
 
 (h)   any issues which could adversely impact on the national destruction programme.
 
-B.   MEASURES TO SECURE THE STORAGE FACILITY AND STORAGE FACILITY PREPARATION
+B.     MEASURES TO SECURE THE STORAGE FACILITY AND STORAGE FACILITY PREPARATION
 
-7.      Not later than when submitting its declaration of chemical weapons, a State Party shall take such measures as it considers appropriate to secure its storage facilities and shall prevent any movement of its chemical weapons out of the facilities, except their removal for destruction.
+7.         Not later than when submitting its declaration of chemical weapons, a State Party shall take such measures as it considers appropriate to secure its storage facilities and shall prevent any movement of its chemical weapons out of the facilities, except their removal for destruction.
 
-8.      A State Party shall ensure that chemical weapons at its storage facilities are configured to allow ready access for verification in accordance with paragraphs 37 to 49.
+8.         A State Party shall ensure that chemical weapons at its storage facilities are configured to allow ready access for verification in accordance with paragraphs 37 to 49.
 
-9.      While a storage facility remains closed for any movement of chemical weapons out of the facility other than their removal for destruction, a State Party may continue at the facility standard maintenance activities, including standard maintenance of chemical weapons; safety monitoring and physical security activities; and preparation of chemical weapons for destruction.
+9.         While a storage facility remains closed for any movement of chemical weapons out of the facility other than their removal for destruction, a State Party may continue at the facility standard maintenance activities, including standard maintenance of chemical weapons; safety monitoring and physical security activities; and preparation of chemical weapons for destruction.
 
-10.    Maintenance activities of chemical weapons shall not include:
+10.       Maintenance activities of chemical weapons shall not include:
 
 (a)   replacement of agent or of munition bodies;
 
 (b)   modification of the original characteristics of munitions, or parts or components thereof.
 
-11.    All maintenance activities shall be subject to monitoring by the Technical Secretariat.
+11.       All maintenance activities shall be subject to monitoring by the Technical Secretariat.
 
-C.   DESTRUCTION
+C.     DESTRUCTION
 
 Principles and methods for destruction of chemical weapons
 
-12.    “Destruction of chemical weapons” means a process by which chemicals are converted in an essentially irreversible way to a form unsuitable for production of chemical weapons, and which in an irreversible manner renders munitions and other devices unusable as such.
+12.       “Destruction of chemical weapons” means a process by which chemicals are converted in an essentially irreversible way to a form unsuitable for production of chemical weapons, and which in an irreversible manner renders munitions and other devices unusable as such.
 
-13.    Each State Party shall determine how it shall destroy chemical weapons, except that the following processes may not be used: dumping in any body of water, land burial or open‑pit burning. It shall destroy chemical weapons only at specifically designated and appropriately designed and equipped facilities.
+13.       Each State Party shall determine how it shall destroy chemical weapons, except that the following processes may not be used: dumping in any body of water, land burial or open‑pit burning. It shall destroy chemical weapons only at specifically designated and appropriately designed and equipped facilities.
 
-14.    Each State Party shall ensure that its chemical weapons destruction facilities are constructed and operated in a manner to ensure the destruction of the chemical weapons; and that the destruction process can be verified under the provisions of this Convention.
+14.       Each State Party shall ensure that its chemical weapons destruction facilities are constructed and operated in a manner to ensure the destruction of the chemical weapons; and that the destruction process can be verified under the provisions of this Convention.
 
 Order of destruction
 
-15.    The order of destruction of chemical weapons is based on the obligations specified in Article I and the other Articles, including obligations regarding systematic on‑site verification. It takes into account interests of States Parties for undiminished security during the destruction period; confidence‑building in the early part of the destruction stage; gradual acquisition of experience in the course of destroying chemical weapons; and applicability irrespective of the actual composition of the stockpiles and the methods chosen for the destruction of the chemical weapons. The order of destruction is based on the principle of levelling out.
+15.       The order of destruction of chemical weapons is based on the obligations specified in Article I and the other Articles, including obligations regarding systematic on‑site verification. It takes into account interests of States Parties for undiminished security during the destruction period; confidence‑building in the early part of the destruction stage; gradual acquisition of experience in the course of destroying chemical weapons; and applicability irrespective of the actual composition of the stockpiles and the methods chosen for the destruction of the chemical weapons. The order of destruction is based on the principle of levelling out.
 
-16.    For the purpose of destruction, chemical weapons declared by each State Party shall be divided into three categories:
-
-<div align="center">
+16.       For the purpose of destruction, chemical weapons declared by each State Party shall be divided into three categories:
 
 <table>
 <colgroup>
-  <col width="22%">
-  <col width="78%">
+  <col width="24%">
+  <col width="76%">
 </colgroup>
 
 <tr>
@@ -6397,9 +6337,7 @@ Order of destruction
   </td>
 </tr></table>
 
-</div>
-
-17.    A State Party shall start:
+17.       A State Party shall start:
 
 (a)   the destruction of Category 1 chemical weapons not later than two years after this Convention enters into force for it, and shall complete the destruction not later than 10 years after entry into force of this Convention. A State Party shall destroy chemical weapons in accordance with the following destruction deadlines:
 
@@ -6415,7 +6353,7 @@ Order of destruction
 
 (c)   the destruction of Category 3 chemical weapons not later than one year after this Convention enters into force for it, and shall complete the destruction not later than five years after the entry into force of this Convention. Category 3 chemical weapons shall be destroyed in equal annual increments throughout the destruction period. The comparison factor for unfilled munitions and devices is expressed in nominal fill volume (m3) and for equipment in number of items.
 
-18.    For the destruction of binary chemical weapons the following shall apply:
+18.       For the destruction of binary chemical weapons the following shall apply:
 
 (a)   for the purposes of the order of destruction, a declared quantity (in tonnes) of the key component intended for a specific toxic end‑product shall be considered equivalent to the quantity (in tonnes) of this toxic end‑product calculated on a stoichiometric basis assuming 100 per cent yield.
 
@@ -6425,23 +6363,23 @@ Order of destruction
 
 (d)   at the end of each subsequent operational year a State Party may retain an amount of the other declared component that is determined on the basis of the actual weight ratio of the components in the relevant type of binary chemical munition/device.
 
-19.    For multicomponent chemical weapons the order of destruction shall be analogous to that envisaged for binary chemical weapons.
+19.       For multicomponent chemical weapons the order of destruction shall be analogous to that envisaged for binary chemical weapons.
 
-Modification of intermediate destruction deadlines
+_Modification of intermediate destruction deadlines_
 
-20.    The Executive Council shall review the general plans for destruction of chemical weapons, submitted pursuant to Article III, paragraph 1(a)(v), and in accordance with paragraph 6, _inter alia_, to assess their conformity with the order of destruction set forth in paragraphs 15 to 19\. The Executive Council shall consult with any State Party whose plan does not conform, with the objective of bringing the plan into conformity.
+20.       The Executive Council shall review the general plans for destruction of chemical weapons, submitted pursuant to Article III, paragraph 1(a)(v), and in accordance with paragraph 6, _inter alia_, to assess their conformity with the order of destruction set forth in paragraphs 15 to 19\. The Executive Council shall consult with any State Party whose plan does not conform, with the objective of bringing the plan into conformity.
 
-21.    If a State Party, due to exceptional circumstances beyond its control, believes that it cannot achieve the level of destruction specified for Phase 1, Phase 2 or Phase 3 of the order of destruction of Category 1 chemical weapons, it may propose changes in those levels. Such a proposal must be made not later than 120 days after the entry into force of this Convention and shall contain a detailed explanation of the reasons for the proposal.
+21.       If a State Party, due to exceptional circumstances beyond its control, believes that it cannot achieve the level of destruction specified for Phase 1, Phase 2 or Phase 3 of the order of destruction of Category 1 chemical weapons, it may propose changes in those levels. Such a proposal must be made not later than 120 days after the entry into force of this Convention and shall contain a detailed explanation of the reasons for the proposal.
 
-22.    Each State Party shall take all necessary measures to ensure destruction of Category 1 chemical weapons in accordance with the destruction deadlines set forth in paragraph 17(a) as changed pursuant to paragraph 21\. However, if a State Party believes that it will be unable to ensure the destruction of the percentage of Category 1 chemical weapons required by an intermediate destruction deadline, it may request the Executive Council to recommend to the Conference to grant an extension of its obligation to meet that deadline. Such a request must be made not less than 180 days before the intermediate destruction deadline and shall contain a detailed explanation of the reasons for the request and the plans of the State Party for ensuring that it will be able to fulfil its obligation to meet the next intermediate destruction deadline.
+22.       Each State Party shall take all necessary measures to ensure destruction of Category 1 chemical weapons in accordance with the destruction deadlines set forth in paragraph 17(a) as changed pursuant to paragraph 21\. However, if a State Party believes that it will be unable to ensure the destruction of the percentage of Category 1 chemical weapons required by an intermediate destruction deadline, it may request the Executive Council to recommend to the Conference to grant an extension of its obligation to meet that deadline. Such a request must be made not less than 180 days before the intermediate destruction deadline and shall contain a detailed explanation of the reasons for the request and the plans of the State Party for ensuring that it will be able to fulfil its obligation to meet the next intermediate destruction deadline.
 
-23.    If an extension is granted, the State Party shall still be under the obligation to meet the cumulative destruction requirements set forth for the next destruction deadline. Extensions granted pursuant to this Section shall not, in any way, modify the obligation of the State Party to destroy all Category 1 chemical weapons not later than 10 years after the entry into force of this Convention.
+23.       If an extension is granted, the State Party shall still be under the obligation to meet the cumulative destruction requirements set forth for the next destruction deadline. Extensions granted pursuant to this Section shall not, in any way, modify the obligation of the State Party to destroy all Category 1 chemical weapons not later than 10 years after the entry into force of this Convention.
 
-Extension of the deadline for completion of destruction
+_Extension of the deadline for completion of destruction_
 
-24.    If a State Party believes that it will be unable to ensure the destruction of all Category 1 chemical weapons not later than 10 years after the entry into force of this Convention, it may submit a request to the Executive Council for an extension of the deadline for completing the destruction of such chemical weapons. Such a request must be made not later than nine years after the entry into force of this Convention.
+24.       If a State Party believes that it will be unable to ensure the destruction of all Category 1 chemical weapons not later than 10 years after the entry into force of this Convention, it may submit a request to the Executive Council for an extension of the deadline for completing the destruction of such chemical weapons. Such a request must be made not later than nine years after the entry into force of this Convention.
 
-25.    The request shall contain:
+25.       The request shall contain:
 
  (a)   the duration of the porposed extension;
 
@@ -6449,15 +6387,15 @@ Extension of the deadline for completion of destruction
 
 (c)   a detailed plan for destruction during the proposed extension and the remaining portion of the original 10‑year period for destruction.
 
-26.    A decision on the request shall be taken by the Conference at its next session, on the recommendation of the Executive Council. Any extension shall be the minimum necessary, but in no case shall the deadline for a State Party to complete its destruction of all chemical weapons be extended beyond 15 years after the entry into force of this Convention. The Executive Council shall set conditions for the granting of the extension, including the specific verification measures deemed necessary as well as specific actions to be taken by the State Party to overcome problems in its destruction programme. Costs of verification during the extension period shall be allocated in accordance with Article IV, paragraph 16.
+26.       A decision on the request shall be taken by the Conference at its next session, on the recommendation of the Executive Council. Any extension shall be the minimum necessary, but in no case shall the deadline for a State Party to complete its destruction of all chemical weapons be extended beyond 15 years after the entry into force of this Convention. The Executive Council shall set conditions for the granting of the extension, including the specific verification measures deemed necessary as well as specific actions to be taken by the State Party to overcome problems in its destruction programme. Costs of verification during the extension period shall be allocated in accordance with Article IV, paragraph 16.
 
-27.    If an extension is granted, the State Party shall take appropriate measures to meet all subsequent deadlines.
+27.       If an extension is granted, the State Party shall take appropriate measures to meet all subsequent deadlines.
 
-28.    The State Party shall continue to submit detailed annual plans for destruction in accordance with paragraph 29 and annual reports on the destruction of Category 1 chemical weapons in accordance with paragraph 36, until all Category 1 chemical weapons are destroyed. In addition, not later than at the end of each 90 days of the extension period, the State Party shall report to the Executive Council on its destruction activity. The Executive Council shall review progress towards completion of destruction and take the necessary measures to document this progress. All information concerning the destruction activities during the extension period shall be provided by the Executive Council to States Parties, upon request.
+28.       The State Party shall continue to submit detailed annual plans for destruction in accordance with paragraph 29 and annual reports on the destruction of Category 1 chemical weapons in accordance with paragraph 36, until all Category 1 chemical weapons are destroyed. In addition, not later than at the end of each 90 days of the extension period, the State Party shall report to the Executive Council on its destruction activity. The Executive Council shall review progress towards completion of destruction and take the necessary measures to document this progress. All information concerning the destruction activities during the extension period shall be provided by the Executive Council to States Parties, upon request.
 
-Detailed annual plans for destruction
+_Detailed annual plans for destruction_
 
-29.    The detailed annual plans for destruction shall be submitted to the Technical Secretariat not less than 60 days before each annual destruction period begins pursuant to Article IV, paragraph 7(a), and shall specify:
+29.       The detailed annual plans for destruction shall be submitted to the Technical Secretariat not less than 60 days before each annual destruction period begins pursuant to Article IV, paragraph 7(a), and shall specify:
 
 (a)   the quantity of each specific type of chemical weapon to be destroyed at each destruction facility and the inclusive dates when the destruction of each specific type of chemical weapon will be accomplished;
 
@@ -6465,9 +6403,9 @@ Detailed annual plans for destruction
 
 (c)   the detailed schedule of activities for each chemical weapons destruction facility for the upcoming year, identifying time required for design, construction or modification of the facility, installation of equipment, equipment check‑out and operator training, destruction operations for each specific type of chemical weapon, and scheduled periods of inactivity.
 
-30.    A State Party shall provide, for each of its chemical weapons destruction facilities, detailed facility information to assist the Technical Secretariat in developing preliminary inspection procedures for use at the facility.
+30.       A State Party shall provide, for each of its chemical weapons destruction facilities, detailed facility information to assist the Technical Secretariat in developing preliminary inspection procedures for use at the facility.
 
-31.    The detailed facility information for each destruction facility shall include the following information:
+31.       The detailed facility information for each destruction facility shall include the following information:
 
 (a)   name, address and location;
 
@@ -6493,47 +6431,47 @@ Detailed annual plans for destruction
 
 (l)    Suggested measures for international verification.
 
-32.    A State Party shall provide, for each of its chemical weapons destruction facilities, the plant operations manuals, the safety and medical plans, the laboratory operations and quality assurance and control manuals, and the environmental permits that have been obtained, except that this shall not include material previously provided.
+32.       A State Party shall provide, for each of its chemical weapons destruction facilities, the plant operations manuals, the safety and medical plans, the laboratory operations and quality assurance and control manuals, and the environmental permits that have been obtained, except that this shall not include material previously provided.
 
-33.    A State Party shall promptly notify the Technical Secretariat of any developments that could affect inspection activities at its destruction facilities.
+33.       A State Party shall promptly notify the Technical Secretariat of any developments that could affect inspection activities at its destruction facilities.
 
-34.    Deadlines for submission of the information specified in paragraphs 30 to 32 shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+34.       Deadlines for submission of the information specified in paragraphs 30 to 32 shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-35.    After a review of the detailed facility information for each destruction facility, the Technical Secretariat, if the need arises, shall enter into consultation with the State Party concerned in order to ensure that its chemical weapons destruction facilities are designed to assure the destruction of chemical weapons, to allow advanced planning on how verification measures may be applied and to ensure that the application of verification measures is consistent with proper facility operation, and that the facility operation allows appropriate verification.
+35.       After a review of the detailed facility information for each destruction facility, the Technical Secretariat, if the need arises, shall enter into consultation with the State Party concerned in order to ensure that its chemical weapons destruction facilities are designed to assure the destruction of chemical weapons, to allow advanced planning on how verification measures may be applied and to ensure that the application of verification measures is consistent with proper facility operation, and that the facility operation allows appropriate verification.
 
-Annual reports on destruction
+_Annual reports on destruction_
 
-36.    Information regarding the implementation of plans for destruction of chemical weapons shall be submitted to the Technical Secretariat pursuant to Article IV, paragraph 7(b), not later than 60 days after the end of each annual destruction period and shall specify the actual amounts of chemical weapons which were destroyed during the previous year at each destruction facility. If appropriate, reasons for not meeting destruction goals should be stated.
+36.       Information regarding the implementation of plans for destruction of chemical weapons shall be submitted to the Technical Secretariat pursuant to Article IV, paragraph 7(b), not later than 60 days after the end of each annual destruction period and shall specify the actual amounts of chemical weapons which were destroyed during the previous year at each destruction facility. If appropriate, reasons for not meeting destruction goals should be stated.
 
-D.  VERIFICATION
+D.     VERIFICATION
 
-Verification of declarations of chemical weapons through on‑site inspection
+_Verification of declarations of chemical weapons through on‑site inspection_
 
-37.    The purpose of the verification of declarations of chemical weapons shall be to confirm through on‑site inspection the accuracy of the relevant declarations made pursuant to Article III.
+37.       The purpose of the verification of declarations of chemical weapons shall be to confirm through on‑site inspection the accuracy of the relevant declarations made pursuant to Article III.
 
-38.    The inspectors shall conduct this verification promptly after a declaration is submitted. They shall, _inter alia_, verify the quantity and identity of chemicals, types and number of munitions, devices and other equipment.
+38.       The inspectors shall conduct this verification promptly after a declaration is submitted. They shall, _inter alia_, verify the quantity and identity of chemicals, types and number of munitions, devices and other equipment.
 
-39.    The inspectors shall employ, as appropriate, agreed seals, markers or other inventory control procedures to facilitate an accurate inventory of the chemical weapons at each storage facility.
+39.       The inspectors shall employ, as appropriate, agreed seals, markers or other inventory control procedures to facilitate an accurate inventory of the chemical weapons at each storage facility.
 
-40.    As the inventory progresses, inspectors shall install such agreed seals as may be necessary to clearly indicate if any stocks are removed, and to ensure the securing of the storage facility during the inventory. After completion of the inventory, such seals will be removed unless otherwise agreed.
+40.       As the inventory progresses, inspectors shall install such agreed seals as may be necessary to clearly indicate if any stocks are removed, and to ensure the securing of the storage facility during the inventory. After completion of the inventory, such seals will be removed unless otherwise agreed.
 
-Systematic verification of storage facilities
+_Systematic verification of storage facilities_
 
-41.    The purpose of the systematic verification of storage facilities shall be to ensure that no undetected removal of chemical weapons from such facilities takes place.
+41.       The purpose of the systematic verification of storage facilities shall be to ensure that no undetected removal of chemical weapons from such facilities takes place.
 
-42.    The systematic verification shall be initiated as soon as possible after the declaration of chemical weapons is submitted and shall continue until all chemical weapons have been removed from the storage facility. It shall in accordance with the facility agreement, combine on‑site inspection and monitoring with on‑site instruments.
+42.       The systematic verification shall be initiated as soon as possible after the declaration of chemical weapons is submitted and shall continue until all chemical weapons have been removed from the storage facility. It shall in accordance with the facility agreement, combine on‑site inspection and monitoring with on‑site instruments.
 
-43.    When all chemical weapons have been removed from the storage facility, the Technical Secretariat shall confirm the declaration of the State Party to that effect. After this confirmation, the Technical Secretariat shall terminate the systematic verification of the storage facility and shall promptly remove any monitoring instruments installed by the inspectors.
+43.       When all chemical weapons have been removed from the storage facility, the Technical Secretariat shall confirm the declaration of the State Party to that effect. After this confirmation, the Technical Secretariat shall terminate the systematic verification of the storage facility and shall promptly remove any monitoring instruments installed by the inspectors.
 
-Inspections and visits
+_Inspections and visits_
 
-44.    The particular storage facility to be inspected shall be chosen by the Technical Secretariat in such a way as to preclude the prediction of precisely when the facility is to be inspected. The guidelines for determining the frequency of systematic on‑site inspections shall be elaborated by the Technical Secretariat, taking into account the recommendations to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+44.       The particular storage facility to be inspected shall be chosen by the Technical Secretariat in such a way as to preclude the prediction of precisely when the facility is to be inspected. The guidelines for determining the frequency of systematic on‑site inspections shall be elaborated by the Technical Secretariat, taking into account the recommendations to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-45.    The Technical Secretariat shall notify the inspected State Party of its decision to inspect or visit the storage facility 48 hours before the planned arrival of the inspection team at the facility for systematic inspections or visits. In cases of inspections or visits to resolve urgent problems, this period may be shortened. The Technical Secretariat shall specify the purpose of the inspection or visit.
+45.       The Technical Secretariat shall notify the inspected State Party of its decision to inspect or visit the storage facility 48 hours before the planned arrival of the inspection team at the facility for systematic inspections or visits. In cases of inspections or visits to resolve urgent problems, this period may be shortened. The Technical Secretariat shall specify the purpose of the inspection or visit.
 
-46.    The inspected State Party shall make any necessary preparations for the arrival of the inspectors and shall ensure their expeditious transportation from their point of entry to the storage facility. The facility agreement will specify administrative arrangements for inspectors.
+46.       The inspected State Party shall make any necessary preparations for the arrival of the inspectors and shall ensure their expeditious transportation from their point of entry to the storage facility. The facility agreement will specify administrative arrangements for inspectors.
 
-47.    The inspected State Party shall provide the inspection team upon its arrival at the chemical weapons storage facility to carry out an inspection, with the following data on the facility:
+47.       The inspected State Party shall provide the inspection team upon its arrival at the chemical weapons storage facility to carry out an inspection, with the following data on the facility:
 
 (a)   the number of storage buildings and storage locations;
 
@@ -6541,7 +6479,7 @@ Inspections and visits
 
 (c)   for each storage building and storage location at the facility, the number of items of each specific type of chemical weapon, and, for containers that are not part of binary munitions, the actual quantity of chemical fill in each container.
 
-48.    In carrying out an inventory, within the time available, inspectors shall have the right:
+48.       In carrying out an inventory, within the time available, inspectors shall have the right:
 
 (a)   To use any of the following inspection techniques:
 
@@ -6553,59 +6491,59 @@ Inspections and visits
 
 (b)   To check all items inventoried against agreed records.
 
-49.    Inspectors shall, in accordance with facility agreements:
+49.       Inspectors shall, in accordance with facility agreements:
 
 (a)   have unimpeded access to all parts of the storage facilities including any munitions, devices, bulk containers, or other containers therein. While conducting their activity, inspectors shall comply with the safety regulations at the facility. The items to be inspected will be chosen by the inspectors; and
 
 (b)   have the right, during the first and any subsequent inspection of each chemical weapons storage facility, to designate munitions, devices, and containers from which samples are to be taken, and to affix to such munitions, devices, and containers a unique tag that will indicate an attempt to remove or alter the tag. A sample shall be taken from a tagged item at a chemical weapons storage facility or a chemical weapons destruction facility as soon as it is practically possible in accordance with the corresponding destruction programmes, and, in any case, not later than by the end of the destruction operations.
 
-Systematic verification of the destruction of chemical weapons
+_Systematic verification of the destruction of chemical weapons_
 
-50.    The purpose of verification of destruction of chemical weapons shall be:
+50.       The purpose of verification of destruction of chemical weapons shall be:
 
 (a)   to confirm the identity and quantity of the chemical weapons stocks to be destroyed; and
 
 (b)   to confirm that these stocks have been destroyed.
 
-51.    Chemical weapons destruction operations during the first 390 days after the entry into force of this Convention shall be governed by transitional verification arrangements. Such arrangements, including a transitional facility agreement, provisions for verification through on‑site inspection and monitoring with on‑site instruments, and the time‑frame for application of the arrangements, shall be agreed between the Organization and the inspected State Party. These arrangements shall be approved by the Executive Council not later than 60 days after this Convention enters into force for the State Party, taking into account the recommendations of the Technical Secretariat, which shall be based on an evaluation of the detailed facility information provided in accordance with paragraph 31 and a visit to the facility. The Executive Council shall, at its first session, establish the guidelines for such transitional verification arrangements, based on the recommendations to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i). The transitional verification arrangements shall be designed to verify, throughout the entire transitional period, the destruction of chemical weapons in accordance with the purposes set forth in paragraph 50, and to avoid hampering ongoing destruction operations.
+51.       Chemical weapons destruction operations during the first 390 days after the entry into force of this Convention shall be governed by transitional verification arrangements. Such arrangements, including a transitional facility agreement, provisions for verification through on‑site inspection and monitoring with on‑site instruments, and the time‑frame for application of the arrangements, shall be agreed between the Organization and the inspected State Party. These arrangements shall be approved by the Executive Council not later than 60 days after this Convention enters into force for the State Party, taking into account the recommendations of the Technical Secretariat, which shall be based on an evaluation of the detailed facility information provided in accordance with paragraph 31 and a visit to the facility. The Executive Council shall, at its first session, establish the guidelines for such transitional verification arrangements, based on the recommendations to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i). The transitional verification arrangements shall be designed to verify, throughout the entire transitional period, the destruction of chemical weapons in accordance with the purposes set forth in paragraph 50, and to avoid hampering ongoing destruction operations.
 
-52.    The provisions of paragraphs 53 to 61 shall apply to chemical weapons destruction operations that are to begin not earlier than 390 days after the entry into force of this Convention.
+52.       The provisions of paragraphs 53 to 61 shall apply to chemical weapons destruction operations that are to begin not earlier than 390 days after the entry into force of this Convention.
 
-53.    On the basis of this Convention and the detailed destruction facility information, and as the case may be, on experience from previous inspections, the Technical Secretariat shall prepare a draft plan for inspecting the destruction of chemical weapons at each destruction facility. The plan shall be completed and provided to the inspected State Party for comment not less than 270 days before the facility begins destruction operations pursuant to this Convention. Any differences between the Technical Secretariat and the inspected State Party should be resolved through consultations. Any unresolved matter shall be forwarded to the Executive Council for appropriate action with a view to facilitating the full implementation of this Convention.
+53.       On the basis of this Convention and the detailed destruction facility information, and as the case may be, on experience from previous inspections, the Technical Secretariat shall prepare a draft plan for inspecting the destruction of chemical weapons at each destruction facility. The plan shall be completed and provided to the inspected State Party for comment not less than 270 days before the facility begins destruction operations pursuant to this Convention. Any differences between the Technical Secretariat and the inspected State Party should be resolved through consultations. Any unresolved matter shall be forwarded to the Executive Council for appropriate action with a view to facilitating the full implementation of this Convention.
 
-54.    The Technical Secretariat shall conduct an initial visit to each chemical weapons destruction facility of the inspected State Party not less than 240 days before each facility begins destruction operations pursuant to this Convention, to allow it to familiarize itself with the facility and assess the adequacy of the inspection plan.
+54.       The Technical Secretariat shall conduct an initial visit to each chemical weapons destruction facility of the inspected State Party not less than 240 days before each facility begins destruction operations pursuant to this Convention, to allow it to familiarize itself with the facility and assess the adequacy of the inspection plan.
 
-55.    In the case of an existing facility where chemical weapons destruction operations have already been initiated, the inspected State Party shall not be required to decontaminate the facility before the Technical Secretariat conducts an initial visit. The duration of the visit shall not exceed five days and the number of visiting personnel shall not exceed 15.
+55.       In the case of an existing facility where chemical weapons destruction operations have already been initiated, the inspected State Party shall not be required to decontaminate the facility before the Technical Secretariat conducts an initial visit. The duration of the visit shall not exceed five days and the number of visiting personnel shall not exceed 15.
 
-56.    The agreed detailed plans for verification, with an appropriate recommendation by the Technical Secretariat, shall be forwarded to the Executive Council for review. The Executive Council shall review the plans with a view to approving them, consistent with verification objectives and obligations under this Convention. It should also confirm that verification schemes for destruction are consistent with verification aims and are efficient and practical. This review should be completed not less than 180 days before the destruction period begins.
+56.       The agreed detailed plans for verification, with an appropriate recommendation by the Technical Secretariat, shall be forwarded to the Executive Council for review. The Executive Council shall review the plans with a view to approving them, consistent with verification objectives and obligations under this Convention. It should also confirm that verification schemes for destruction are consistent with verification aims and are efficient and practical. This review should be completed not less than 180 days before the destruction period begins.
 
-57.    Each member of the Executive Council may consult with the Technical Secretariat on any issues regarding the adequacy of the plan for verification. If there are no objections by any member of the Executive Council, the plan shall be put into action.
+57.       Each member of the Executive Council may consult with the Technical Secretariat on any issues regarding the adequacy of the plan for verification. If there are no objections by any member of the Executive Council, the plan shall be put into action.
 
-58.    If there are any difficulties, the Executive Council shall enter into consultations with the State Party to reconcile them. If any difficulties remain unresolved they shall be referred to the Conference.
+58.       If there are any difficulties, the Executive Council shall enter into consultations with the State Party to reconcile them. If any difficulties remain unresolved they shall be referred to the Conference.
 
-59.    The detailed facility agreements for chemical weapons destruction facilities shall specify, taking into account the specific characteristics of the destruction facility and its mode of operation:
+59.       The detailed facility agreements for chemical weapons destruction facilities shall specify, taking into account the specific characteristics of the destruction facility and its mode of operation:
 
 (a)   detailed on‑site inspection procedures; and
 
 (b)   provisions for verification through continuous monitoring with on‑site instruments and physical presence of inspectors.
 
-60.    Inspectors shall be granted access to each chemical weapons destruction facility not less than 60 days before the commencement of the destruction, pursuant to this Convention, at the facility. Such access shall be for the purpose of supervising the installation of the inspection equipment, inspecting this equipment and testing its operation, as well as for the purpose of carrying out a final engineering review of the facility. In the case of an existing facility where chemical weapons destruction operations have already been initiated, destruction operations shall be stopped for the minimum amount of time required, not to exceed 60 days, for installation and testing of the inspection equipment. Depending on the results of the testing and review, the State Party and the Technical Secretariat may agree on additions or changes to the detailed facility agreement for the facility.
+60.       Inspectors shall be granted access to each chemical weapons destruction facility not less than 60 days before the commencement of the destruction, pursuant to this Convention, at the facility. Such access shall be for the purpose of supervising the installation of the inspection equipment, inspecting this equipment and testing its operation, as well as for the purpose of carrying out a final engineering review of the facility. In the case of an existing facility where chemical weapons destruction operations have already been initiated, destruction operations shall be stopped for the minimum amount of time required, not to exceed 60 days, for installation and testing of the inspection equipment. Depending on the results of the testing and review, the State Party and the Technical Secretariat may agree on additions or changes to the detailed facility agreement for the facility.
 
-61.    The inspected State Party shall notify, in writing, the inspection team leader at a chemical weapons destruction facility not less than four hours before the departure of each shipment of chemical weapons from a chemical weapons storage facility to that destruction facility. This notification shall specify the name of the storage facility, the estimated times of departure and arrival, the specific types and quantities of chemical weapons being transported, whether any tagged items are being moved, and the method of transportation. This notification may include notification of more than one shipment. The inspection team leader shall be promptly notified, in writing, of any changes in this information.
+61.       The inspected State Party shall notify, in writing, the inspection team leader at a chemical weapons destruction facility not less than four hours before the departure of each shipment of chemical weapons from a chemical weapons storage facility to that destruction facility. This notification shall specify the name of the storage facility, the estimated times of departure and arrival, the specific types and quantities of chemical weapons being transported, whether any tagged items are being moved, and the method of transportation. This notification may include notification of more than one shipment. The inspection team leader shall be promptly notified, in writing, of any changes in this information.
 
-Chemical weapons storage facilities at chemical weapons destruction facilities
+_Chemical weapons storage facilities at chemical weapons destruction facilities_
 
-62.    The inspectors shall verify the arrival of the chemical weapons at the destruction facility and the storing of these chemical weapons. The inspectors shall verify the inventory of each shipment, using agreed procedures consistent with facility safety regulations, prior to the destruction of the chemical weapons. They shall employ, as appropriate, agreed seals, markers or other inventory control procedures to facilitate an accurate inventory of the chemical weapons prior to destruction.
+62.       The inspectors shall verify the arrival of the chemical weapons at the destruction facility and the storing of these chemical weapons. The inspectors shall verify the inventory of each shipment, using agreed procedures consistent with facility safety regulations, prior to the destruction of the chemical weapons. They shall employ, as appropriate, agreed seals, markers or other inventory control procedures to facilitate an accurate inventory of the chemical weapons prior to destruction.
 
-63.    As soon and as long as chemical weapons are stored at chemical weapons storage facilities located at chemical weapons destruction facilities, these storage facilities shall be subject to systematic verification in conformity with the relevant facility agreements.
+63.       As soon and as long as chemical weapons are stored at chemical weapons storage facilities located at chemical weapons destruction facilities, these storage facilities shall be subject to systematic verification in conformity with the relevant facility agreements.
 
-64.    At the end of an active destruction phase, inspectors shall make an inventory of the chemical weapons, that have been removed from the storage facility, to be destroyed. They shall verify the accuracy of the inventory of the chemical weapons remaining, employing inventory control procedures as referred to in paragraph 62.
+64.       At the end of an active destruction phase, inspectors shall make an inventory of the chemical weapons, that have been removed from the storage facility, to be destroyed. They shall verify the accuracy of the inventory of the chemical weapons remaining, employing inventory control procedures as referred to in paragraph 62.
 
-Systematic on‑site verification measures at chemical weapons destruction facilities
+_Systematic on‑site verification measures at chemical weapons destruction facilities_
 
-65.    The inspectors shall be granted access to conduct their activities at the chemical weapons destruction facilities and the chemical weapons storage facilities located at such facilities during the entire active phase of destruction.
+65.       The inspectors shall be granted access to conduct their activities at the chemical weapons destruction facilities and the chemical weapons storage facilities located at such facilities during the entire active phase of destruction.
 
-66.    At each chemical weapons destruction facility, to provide assurance that no chemical weapons are diverted and that the destruction process has been completed, inspectors shall have the right to verify through their physical presence and monitoring with on‑site instruments:
+66.       At each chemical weapons destruction facility, to provide assurance that no chemical weapons are diverted and that the destruction process has been completed, inspectors shall have the right to verify through their physical presence and monitoring with on‑site instruments:
 
 (a)   the receipt of chemical weapons at the facility;
 
@@ -6621,13 +6559,13 @@ Systematic on‑site verification measures at chemical weapons destruction facil
 
 (g)   the integrity of the destruction process and of the facility as a whole.
 
-67.    Inspectors shall have the right to tag, for sampling, munitions, devices, or containers located in the temporary holding areas at the chemical weapons destruction facilities.
+67.       Inspectors shall have the right to tag, for sampling, munitions, devices, or containers located in the temporary holding areas at the chemical weapons destruction facilities.
 
-68.    To the extent that it meets inspection requirements, information from routine facility operations, with appropriate data authentication, shall be used for inspection purposes.
+68.       To the extent that it meets inspection requirements, information from routine facility operations, with appropriate data authentication, shall be used for inspection purposes.
 
-69.    After the completion of each period of destruction, the Technical Secretariat shall confirm the declaration of the State Party, reporting the completion of destruction of the designated quantity of chemical weapons.
+69.       After the completion of each period of destruction, the Technical Secretariat shall confirm the declaration of the State Party, reporting the completion of destruction of the designated quantity of chemical weapons.
 
-70.    Inspectors shall, in accordance with facility agreements:
+70.       Inspectors shall, in accordance with facility agreements:
 
 (a)   have unimpeded access to all parts of the chemical weapons destruction facilities and the chemical weapons storage facilities located at such facilities, including any munitions, devices, bulk containers, or other containers, therein. The items to be inspected shall be chosen by the inspectors in accordance with the verification plan that has been agreed to by the inspected State Party and approved by the Executive Council;
 
@@ -6639,59 +6577,59 @@ PART IV(B)
 
 OLD CHEMICAL WEAPONS AND ABANDONED CHEMICAL WEAPONS
 
-A    GENERAL
+A.     GENERAL
 
-1.      Old chemical weapons shall be destroyed as provided for in Section B.
+1.         Old chemical weapons shall be destroyed as provided for in Section B.
 
-2.      Abandoned chemical weapons, including those which also meet the definition of Article II, paragraph 5(b), shall be destroyed as provided for in Section C.
+2.         Abandoned chemical weapons, including those which also meet the definition of Article II, paragraph 5(b), shall be destroyed as provided for in Section C.
 
-B.   REGIME FOR OLD CHEMICAL WEAPONS
+B.     REGIME FOR OLD CHEMICAL WEAPONS
 
-3.      A State Party which has on its territory old chemical weapons as defined in Article II, paragraph 5(a), shall, not later than 30 days after this Convention enters into force for it, submit to the Technical Secretariat all available relevant information, including, to the extent possible, the location, type, quantity and the present condition of these old chemical weapons.
+3.         A State Party which has on its territory old chemical weapons as defined in Article II, paragraph 5(a), shall, not later than 30 days after this Convention enters into force for it, submit to the Technical Secretariat all available relevant information, including, to the extent possible, the location, type, quantity and the present condition of these old chemical weapons.
 
 In the case of old chemical weapons as defined in Article II, paragraph 5(b), the State Party shall submit to the Technical Secretariat a declaration pursuant to Article III, paragraph 1(b)(i), including, to the extent possible, the information specified in Part IV(A), paragraphs 1 to 3, of this Annex.
 
-4.      A State Party which discovers old chemical weapons after this Convention enters into force for it shall submit to the Technical Secretariat the information specified in paragraph 3 not later than 180 days after the discovery of the old chemical weapons.
+4.         A State Party which discovers old chemical weapons after this Convention enters into force for it shall submit to the Technical Secretariat the information specified in paragraph 3 not later than 180 days after the discovery of the old chemical weapons.
 
-5.      The Technical Secretariat shall conduct an initial inspection, and any further inspections as may be necessary, in order to verify the information submitted pursuant to paragraphs 3 and 4 and in particular to determine whether the chemical weapons meet the definition of old chemical weapons as specified in Article II, paragraph 5\. Guidelines to determine the usability of chemical weapons produced between 1925 and 1946 shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+5.         The Technical Secretariat shall conduct an initial inspection, and any further inspections as may be necessary, in order to verify the information submitted pursuant to paragraphs 3 and 4 and in particular to determine whether the chemical weapons meet the definition of old chemical weapons as specified in Article II, paragraph 5\. Guidelines to determine the usability of chemical weapons produced between 1925 and 1946 shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-6.      A State Party shall treat old chemical weapons that have been confirmed by the Technical Secretariat as meeting the definition in Article II, paragraph 5(a), as toxic waste. It shall inform the Technical Secretariat of the steps being taken to destroy or otherwise dispose of such old chemical weapons as toxic waste in accordance with its national legislation.
+6.         A State Party shall treat old chemical weapons that have been confirmed by the Technical Secretariat as meeting the definition in Article II, paragraph 5(a), as toxic waste. It shall inform the Technical Secretariat of the steps being taken to destroy or otherwise dispose of such old chemical weapons as toxic waste in accordance with its national legislation.
 
-7.      Subject to paragraphs 3 to 5, a State Party shall destroy old chemical weapons that have been confirmed by the Technical Secretariat as meeting the definition in Article II, paragraph 5(b), in accordance with Article IV and Part IV(A) of this Annex. Upon request of a State Party, the Executive Council may, however, modify the provisions on time‑limit and order of destruction of these old chemical weapons, if it determines that doing so would not pose a risk to the object and purpose of this Convention. The request shall contain specific proposals for modification of the provisions and a detailed explanation of the reasons for the proposed modification.
+7.         Subject to paragraphs 3 to 5, a State Party shall destroy old chemical weapons that have been confirmed by the Technical Secretariat as meeting the definition in Article II, paragraph 5(b), in accordance with Article IV and Part IV(A) of this Annex. Upon request of a State Party, the Executive Council may, however, modify the provisions on time‑limit and order of destruction of these old chemical weapons, if it determines that doing so would not pose a risk to the object and purpose of this Convention. The request shall contain specific proposals for modification of the provisions and a detailed explanation of the reasons for the proposed modification.
 
-C.   REGIME FOR ABANDONED CHEMICAL WEAPONS
+C.     REGIME FOR ABANDONED CHEMICAL WEAPONS
 
-8.      A State Party on whose territory there are abandoned chemical weapons (hereinafter referred to as the “Territorial State Party”) shall, not later than 30 days after this Convention enters into force for it, submit to the Technical Secretariat all available relevant information concerning the abandoned chemical weapons. This information shall include, to the extent possible, the location, type, quantity and the present condition of the abandoned chemical weapons as well as information on the abandonment.
+8.         A State Party on whose territory there are abandoned chemical weapons (hereinafter referred to as the “Territorial State Party”) shall, not later than 30 days after this Convention enters into force for it, submit to the Technical Secretariat all available relevant information concerning the abandoned chemical weapons. This information shall include, to the extent possible, the location, type, quantity and the present condition of the abandoned chemical weapons as well as information on the abandonment.
 
-9.      A State Party which discovers abandoned chemical weapons after this Convention enters into force for it shall, not later than 180 days after the discovery, submit to the Technical Secretariat all available relevant information concerning the discovered abandoned chemical weapons. This information shall include, to the extent possible, the location, type, quantity and the present condition of the abandoned chemical weapons as well as the information on the abandonment.
+9.         A State Party which discovers abandoned chemical weapons after this Convention enters into force for it shall, not later than 180 days after the discovery, submit to the Technical Secretariat all available relevant information concerning the discovered abandoned chemical weapons. This information shall include, to the extent possible, the location, type, quantity and the present condition of the abandoned chemical weapons as well as the information on the abandonment.
 
-10.    A State Party which has abandoned chemical weapons on the territory of another State Party (hereinafter referred to as the “Abandoning State Party”) shall, not later than 30 days after this Convention enters into force for it, submit to the Technical Secretariat all available relevant information concerning the abandoned chemical weapons. This information shall include, to the extent possible, the location, type, quantity as well as information on the abandonment, and the condition of the abandoned chemical weapons.
+10.       A State Party which has abandoned chemical weapons on the territory of another State Party (hereinafter referred to as the “Abandoning State Party”) shall, not later than 30 days after this Convention enters into force for it, submit to the Technical Secretariat all available relevant information concerning the abandoned chemical weapons. This information shall include, to the extent possible, the location, type, quantity as well as information on the abandonment, and the condition of the abandoned chemical weapons.
 
-11.    The Technical Secretariat shall conduct an initial inspection, and any further inspections as may be necessary, in order to verify all available relevant information submitted pursuant to paragraphs 8 to 10 and determine whether systematic verification in accordance with Part IV(A), paragraphs 41 to 43, of this Annex is required. It shall, if necessary, verify the origin of the abandoned chemical weapons and establish evidence concerning the abandonment and the identity of the Abandoning State.
+11.       The Technical Secretariat shall conduct an initial inspection, and any further inspections as may be necessary, in order to verify all available relevant information submitted pursuant to paragraphs 8 to 10 and determine whether systematic verification in accordance with Part IV(A), paragraphs 41 to 43, of this Annex is required. It shall, if necessary, verify the origin of the abandoned chemical weapons and establish evidence concerning the abandonment and the identity of the Abandoning State.
 
-12.    The report of the Technical Secretariat shall be submitted to the Executive Council, the Territorial State Party, and to the Abandoning State Party or the State Party declared by the Territorial State Party or identified by the Technical Secretariat as having abandoned the chemical weapons. If one of the States Parties directly concerned is not satisfied with the report it shall have the right to settle the matter in accordance with provisions of this Convention or bring the issue to the Executive Council with a view to settling the matter expeditiously.
+12.       The report of the Technical Secretariat shall be submitted to the Executive Council, the Territorial State Party, and to the Abandoning State Party or the State Party declared by the Territorial State Party or identified by the Technical Secretariat as having abandoned the chemical weapons. If one of the States Parties directly concerned is not satisfied with the report it shall have the right to settle the matter in accordance with provisions of this Convention or bring the issue to the Executive Council with a view to settling the matter expeditiously.
 
-13.    Pursuant to Article I, paragraph 3, the Territorial State Party shall have the right to request the State Party which has been established as the Abandoning State Party pursuant to paragraphs 8 to 12 to enter into consultations for the purpose of destroying the abandoned chemical weapons in cooperation with the Territorial State Party. It shall immediately inform the Technical Secretariat of this request.
+13.       Pursuant to Article I, paragraph 3, the Territorial State Party shall have the right to request the State Party which has been established as the Abandoning State Party pursuant to paragraphs 8 to 12 to enter into consultations for the purpose of destroying the abandoned chemical weapons in cooperation with the Territorial State Party. It shall immediately inform the Technical Secretariat of this request.
 
-14.    Consultations between the Territorial State Party and the Abandoning State Party with a view to establishing a mutually agreed plan for destruction shall begin not later than 30 days after the Technical Secretariat has been informed of the request referred to in paragraph 13\. The mutually agreed plan for destruction shall be transmitted to the Technical Secretariat not later than 180 days after the Technical Secretariat has been informed of the request referred to in paragraph 13\. Upon the request of the Abandoning State Party and the Territorial State Party, the Executive Council may extend the time‑limit for transmission of the mutually agreed plan for destruction.
+14.       Consultations between the Territorial State Party and the Abandoning State Party with a view to establishing a mutually agreed plan for destruction shall begin not later than 30 days after the Technical Secretariat has been informed of the request referred to in paragraph 13\. The mutually agreed plan for destruction shall be transmitted to the Technical Secretariat not later than 180 days after the Technical Secretariat has been informed of the request referred to in paragraph 13\. Upon the request of the Abandoning State Party and the Territorial State Party, the Executive Council may extend the time‑limit for transmission of the mutually agreed plan for destruction.
 
-15.    For the purpose of destroying abandoned chemical weapons, the Abandoning State Party shall provide all necessary financial, technical, expert, facility as well as other resources. The Territorial State Party shall provide appropriate cooperation.
+15.       For the purpose of destroying abandoned chemical weapons, the Abandoning State Party shall provide all necessary financial, technical, expert, facility as well as other resources. The Territorial State Party shall provide appropriate cooperation.
 
-16.    If the Abandoning State cannot be identified or is not a State Party, the Territorial State Party, in order to ensure the destruction of these abandoned chemical weapons, may request the Organization and other States Parties to provide assistance in the destruction of these abandoned chemical weapons.
+16.       If the Abandoning State cannot be identified or is not a State Party, the Territorial State Party, in order to ensure the destruction of these abandoned chemical weapons, may request the Organization and other States Parties to provide assistance in the destruction of these abandoned chemical weapons.
 
-17.    Subject to paragraphs 8 to 16, Article IV and Part IV(A) of this Annex shall also apply to the destruction of abandoned chemical weapons. In the case of abandoned chemical weapons which also meet the definition of old chemical weapons in Article II, paragraph 5(b), the Executive Council, upon the request of the Territorial State Party, individually or together with the Abandoning State Party, may modify or in exceptional cases suspend the application of provisions on destruction, if it determines that doing so would not pose a risk to the object and purpose of this Convention. In the case of abandoned chemical weapons which do not meet the definition of old chemical weapons in Article II, paragraph 5(b), the Executive Council, upon the request of the Territorial State Party, individually or together with the Abandoning State Party, may in exceptional circumstances modify the provisions on the time‑limit and the order of destruction, if it determines that doing so would not pose a risk to the object and purpose of this Convention. Any request as referred to in this paragraph shall contain specific proposals for modification of the provisions and a detailed explanation of the reasons for the proposed modification.
+17.       Subject to paragraphs 8 to 16, Article IV and Part IV(A) of this Annex shall also apply to the destruction of abandoned chemical weapons. In the case of abandoned chemical weapons which also meet the definition of old chemical weapons in Article II, paragraph 5(b), the Executive Council, upon the request of the Territorial State Party, individually or together with the Abandoning State Party, may modify or in exceptional cases suspend the application of provisions on destruction, if it determines that doing so would not pose a risk to the object and purpose of this Convention. In the case of abandoned chemical weapons which do not meet the definition of old chemical weapons in Article II, paragraph 5(b), the Executive Council, upon the request of the Territorial State Party, individually or together with the Abandoning State Party, may in exceptional circumstances modify the provisions on the time‑limit and the order of destruction, if it determines that doing so would not pose a risk to the object and purpose of this Convention. Any request as referred to in this paragraph shall contain specific proposals for modification of the provisions and a detailed explanation of the reasons for the proposed modification.
 
-18.    States Parties may conclude between themselves agreements or arrangements concerning the destruction of abandoned chemical weapons. The Executive Council may, upon request of the Territorial State Party, individually or together with the Abandoning State Party, decide that selected provisions of such agreements or arrangements take precedence over provisions of this Section, if it determines that the agreement or arrangement ensures the destruction of the abandoned chemical weapons in accordance with paragraph 17.
+18.       States Parties may conclude between themselves agreements or arrangements concerning the destruction of abandoned chemical weapons. The Executive Council may, upon request of the Territorial State Party, individually or together with the Abandoning State Party, decide that selected provisions of such agreements or arrangements take precedence over provisions of this Section, if it determines that the agreement or arrangement ensures the destruction of the abandoned chemical weapons in accordance with paragraph 17.
 
 PART V
 
 DESTRUCTION OF CHEMICAL WEAPONS PRODUCTION FACILITIES AND ITS VERIFICATION PURSUANT TO ARTICLE V
 
-A.  DECLARATIONS
+A.     DECLARATIONS
 
-Declarations of chemical weapons production facilities
+_Declarations of chemical weapons production facilities_
 
-1.      The declaration of chemical weapons production facilities by a State Party pursuant to Article III, paragraph 1(c)(ii), shall contain for each facility:
+1.         The declaration of chemical weapons production facilities by a State Party pursuant to Article III, paragraph 1(c)(ii), shall contain for each facility:
 
 (a)   the name of the facility, the names of the owners, and the names of the companies or enterprises operating the facility since 1 January 1946;
 
@@ -6737,13 +6675,13 @@ Declarations of chemical weapons production facilities
 
 Declarations of chemical weapons production facilities pursuant to Article III, paragraph 1(c)(iii)
 
-2.      The declaration of chemical weapons production facilities pursuant to Article III, paragraph 1(c)(iii), shall contain all information specified in paragraph 1 above. It is the responsibility of the State Party on whose territory the facility is or has been located to make appropriate arrangements with the other State to ensure that the declarations are made. If the State Party on whose territory the facility is or has been located is not able to fulfil this obligation, it shall state the reasons therefor.
+2.         The declaration of chemical weapons production facilities pursuant to Article III, paragraph 1(c)(iii), shall contain all information specified in paragraph 1 above. It is the responsibility of the State Party on whose territory the facility is or has been located to make appropriate arrangements with the other State to ensure that the declarations are made. If the State Party on whose territory the facility is or has been located is not able to fulfil this obligation, it shall state the reasons therefor.
 
-Declarations of past transfers and receipts
+_Declarations of past transfers and receipts_
 
-3.      A State Party that has transferred or received chemical weapons production equipment since 1 January 1946 shall declare these transfers and receipts pursuant to Article III, paragraph 1(c)(iv), and in accordance with paragraph 5 below. When not all the specified information is available for transfer and receipt of such equipment for the period between 1 January 1946 and 1 January 1970, the State Party shall declare whatever information is still available to it and provide an explanation as to why it cannot submit a full declaration.
+3.         A State Party that has transferred or received chemical weapons production equipment since 1 January 1946 shall declare these transfers and receipts pursuant to Article III, paragraph 1(c)(iv), and in accordance with paragraph 5 below. When not all the specified information is available for transfer and receipt of such equipment for the period between 1 January 1946 and 1 January 1970, the State Party shall declare whatever information is still available to it and provide an explanation as to why it cannot submit a full declaration.
 
-4.      Chemical weapons production equipment referred to in paragraph 3 means:
+4.         Chemical weapons production equipment referred to in paragraph 3 means:
 
 (a)   specialized equipment;
 
@@ -6751,7 +6689,7 @@ Declarations of past transfers and receipts
 
 (c)   equipment designed or used exclusively for producing non‑chemical parts for chemical munitions.
 
-5.      The declaration concerning transfer and receipt of chemical weapons production equipment shall specify:
+5.         The declaration concerning transfer and receipt of chemical weapons production equipment shall specify:
 
 (a)   who received/transferred the chemical weapons production equipment;
 
@@ -6763,15 +6701,15 @@ Declarations of past transfers and receipts
 
 (e)   current disposition, if known.
 
-Submission of general plans for destruction
+_Submission of general plans for destruction_
 
-6.      For each chemical weapons production facility, a State Party shall supply the following information:
+6.         For each chemical weapons production facility, a State Party shall supply the following information:
 
 (a)   envisaged time‑frame for measures to be taken; and
 
 (b)   methods of destruction.
 
-7.      For each chemical weapons production facility that a State Party intends to convert temporarily into a chemical weapons destruction facility, the State Party shall supply the following information:
+7.         For each chemical weapons production facility that a State Party intends to convert temporarily into a chemical weapons destruction facility, the State Party shall supply the following information:
 
 (a)   envisaged time‑frame for conversion into a destruction facility;
 
@@ -6785,9 +6723,9 @@ Submission of general plans for destruction
 
 (f)   method of destruction of the converted facility.
 
-Submission of annual plans for destruction and annual reports on destruction
+_Submission of annual plans for destruction and annual reports on destruction_
 
-8.      The State Party shall submit an annual plan for destruction not less than 90 days before the beginning of the coming destruction year. The annual plan shall specify:
+8.         The State Party shall submit an annual plan for destruction not less than 90 days before the beginning of the coming destruction year. The annual plan shall specify:
 
 (a)   capacity to be destroyed;
 
@@ -6797,7 +6735,7 @@ Submission of annual plans for destruction and annual reports on destruction
 
 (d)   planned method(s) of destruction.
 
-9.      A State Party shall submit an annual report on destruction not later than 90 days after the end of the previous destruction year. The annual report shall specify:
+9.         A State Party shall submit an annual report on destruction not later than 90 days after the end of the previous destruction year. The annual report shall specify:
 
 (a)   capacity destroyed;
 
@@ -6807,19 +6745,19 @@ Submission of annual plans for destruction and annual reports on destruction
 
 (d)   methods of destruction.
 
-10.    For a chemical weapons production facility declared pursuant to Article III, paragraph 1(c)(iii), it is the responsibility of the State Party on whose territory the facility is or has been located to make appropriate arrangements to ensure that the declarations specified in paragraphs 6 to 9 above are made. If the State Party on whose territory the facility is or has been located is not able to fulfil this obligation, it shall state the reasons therefor.
+10.       For a chemical weapons production facility declared pursuant to Article III, paragraph 1(c)(iii), it is the responsibility of the State Party on whose territory the facility is or has been located to make appropriate arrangements to ensure that the declarations specified in paragraphs 6 to 9 above are made. If the State Party on whose territory the facility is or has been located is not able to fulfil this obligation, it shall state the reasons therefor.
 
-B.   DESTRUCTION
+B.     DESTRUCTION
 
-General principles for destruction of chemical weapons production facilities
+_General principles for destruction of chemical weapons production facilities_
 
-11.    Each State Party shall decide on methods to be applied for the destruction of chemical weapons production facilities, according to the principles laid down in Article V and in this Part.
+11.       Each State Party shall decide on methods to be applied for the destruction of chemical weapons production facilities, according to the principles laid down in Article V and in this Part.
 
-Principles and methods for closure of a chemical weapons production facility
+_Principles and methods for closure of a chemical weapons production facility_
 
-12.    The purpose of the closure of a chemical weapons production facility is to render it inactive.
+12.       The purpose of the closure of a chemical weapons production facility is to render it inactive.
 
-13.    Agreed measures for closure shall be taken by a State Party with due regard to the specific characteristics of each facility. Such measures shall include, _inter alia_:
+13.       Agreed measures for closure shall be taken by a State Party with due regard to the specific characteristics of each facility. Such measures shall include, _inter alia_:
 
 (a)   prohibition of occupation of the specialized buildings and standard buildings of the facility except for agreed activities;
 
@@ -6831,13 +6769,13 @@ Principles and methods for closure of a chemical weapons production facility
 
 (e)   interruption of rail, road and other access routes for heavy transport to the chemical weapons production facility except those required for agreed activities.
 
-14.    While the chemical weapons production facility remains closed, a State Party may continue safety and physical security activities at the facility.
+14.       While the chemical weapons production facility remains closed, a State Party may continue safety and physical security activities at the facility.
 
-Technical maintenance of chemical weapons production facilities prior to their destruction
+_Technical maintenance of chemical weapons production facilities prior to their destruction_
 
-15.    A State Party may carry out standard maintenance activities at chemical weapons production facilities only for safety reasons, including visual inspection, preventive maintenance, and routine repairs.
+15.       A State Party may carry out standard maintenance activities at chemical weapons production facilities only for safety reasons, including visual inspection, preventive maintenance, and routine repairs.
 
-16.    All planned maintenance activities shall be specified in the general and detailed plans for destruction. Maintenance activities shall not include:
+16.       All planned maintenance activities shall be specified in the general and detailed plans for destruction. Maintenance activities shall not include:
 
 (a)   replacement of any process equipment;
 
@@ -6845,37 +6783,37 @@ Technical maintenance of chemical weapons production facilities prior to their d
 
 (c)   production of chemicals of any type.
 
-17.    All maintenance activities shall be subject to monitoring by the Technical Secretariat.
+17.       All maintenance activities shall be subject to monitoring by the Technical Secretariat.
 
-Principles and methods for temporary conversion of chemical weapons production facilities into chemical weapons destruction facilities
+_Principles and methods for temporary conversion of chemical weapons production facilities into chemical weapons destruction facilities_
 
-18.    Measures pertaining to the temporary conversion of chemical weapons production facilities into chemical weapons destruction facilities shall ensure that the regime for the temporarily converted facilities is at least as stringent as the regime for chemical weapons production facilities that have not been converted.
+18.       Measures pertaining to the temporary conversion of chemical weapons production facilities into chemical weapons destruction facilities shall ensure that the regime for the temporarily converted facilities is at least as stringent as the regime for chemical weapons production facilities that have not been converted.
 
-19.    Chemical weapons production facilities converted into chemical weapons destruction facilities before entry into force of this Convention shall be declared under the category of chemical weapons production facilities.
+19.       Chemical weapons production facilities converted into chemical weapons destruction facilities before entry into force of this Convention shall be declared under the category of chemical weapons production facilities.
 
 They shall be subject to an initial visit by inspectors, who shall confirm the correctness of the information about these facilities. Verification that the conversion of these facilities was performed in such a manner as to render them inoperable as chemical weapons production facilities shall also be required, and shall fall within the framework of measures provided for the facilities that are to be rendered inoperable not later than 90 days after entry into force of this Convention.
 
-20.    A State Party that intends to carry out a conversion of chemical weapons production facilities shall submit to the Technical Secretariat, not later than 30 days after this Convention enters into force for it, or not later than 30 days after a decision has been taken for temporary conversion, a general facility conversion plan, and subsequently shall submit annual plans.
+20.       A State Party that intends to carry out a conversion of chemical weapons production facilities shall submit to the Technical Secretariat, not later than 30 days after this Convention enters into force for it, or not later than 30 days after a decision has been taken for temporary conversion, a general facility conversion plan, and subsequently shall submit annual plans.
 
-21.    Should a State Party have the need to convert to a chemical weapons destruction facility an additional chemical weapons production facility that had been closed after this Convention entered into force for it, it shall inform the Technical Secretariat thereof not less than 150 days before conversion. The Technical Secretariat, in conjunction with the State Party, shall make sure that the necessary measures are taken to render that facility, after its conversion, inoperable as a chemical weapons production facility.
+21.       Should a State Party have the need to convert to a chemical weapons destruction facility an additional chemical weapons production facility that had been closed after this Convention entered into force for it, it shall inform the Technical Secretariat thereof not less than 150 days before conversion. The Technical Secretariat, in conjunction with the State Party, shall make sure that the necessary measures are taken to render that facility, after its conversion, inoperable as a chemical weapons production facility.
 
-22.    A facility converted for the destruction of chemical weapons shall not be more fit for resuming chemical weapons production than a chemical weapons production facility which has been closed and is under maintenance. Its reactivation shall require no less time than that required for a chemical weapons production facility that has been closed and is under maintenance.
+22.       A facility converted for the destruction of chemical weapons shall not be more fit for resuming chemical weapons production than a chemical weapons production facility which has been closed and is under maintenance. Its reactivation shall require no less time than that required for a chemical weapons production facility that has been closed and is under maintenance.
 
-23.    Converted chemical weapons production facilities shall be destroyed not later than 10 years after entry into force of this Convention.
+23.       Converted chemical weapons production facilities shall be destroyed not later than 10 years after entry into force of this Convention.
 
-24.    Any measures for the conversion of any given chemical weapons production facility shall be facility‑specific and shall depend upon its individual characteristics.
+24.       Any measures for the conversion of any given chemical weapons production facility shall be facility‑specific and shall depend upon its individual characteristics.
 
-25.    The set of measures carried out for the purpose of converting a chemical weapons production facility into a chemical weapons destruction facility shall not be less than that which is provided for the disabling of other chemical weapons production facilities to be carried out not later than 90 days after this Convention enters into force for the State Party.
+25.       The set of measures carried out for the purpose of converting a chemical weapons production facility into a chemical weapons destruction facility shall not be less than that which is provided for the disabling of other chemical weapons production facilities to be carried out not later than 90 days after this Convention enters into force for the State Party.
 
-Principles and methods related to destruction of a chemical weapons production facility
+_Principles and methods related to destruction of a chemical weapons production facility_
 
-26.    A State Party shall destroy equipment and buildings covered by the definition of a chemical weapons production facility as follows:
+26.       A State Party shall destroy equipment and buildings covered by the definition of a chemical weapons production facility as follows:
 
 (a)   all specialized equipment and standard equipment shall be physically destroyed;
 
 (b)   all specialized buildings and standard buildings shall be physically destroyed.
 
-27.    A State Party shall destroy facilities for producing unfilled chemical munitions and equipment for chemical weapons employment as follows:
+27.       A State Party shall destroy facilities for producing unfilled chemical munitions and equipment for chemical weapons employment as follows:
 
 (a)   facilities used exclusively for production of non‑chemical parts for chemical munitions or equipment specifically designed for use directly in connection with chemical weapons employment, shall be declared and destroyed. The destruction process and its verification shall be conducted according to the provisions of Article V and this Part of this Annex that govern destruction of chemical weapons production facilities;
 
@@ -6885,13 +6823,13 @@ Principles and methods related to destruction of a chemical weapons production f
 
 (d)   activities for purposes not prohibited under this Convention may continue while destruction or conversion proceeds.
 
-Order of destruction
+_Order of destruction_
 
-28.    The order of destruction of chemical weapons production facilities is based on the obligations specified in Article I and the other Articles of this Convention, including obligations regarding systematic on‑site verification. It takes into account interests of States Parties for undiminished security during the destruction period; confidence‑building in the early part of the destruction stage; gradual acquisition of experience in the course of destroying chemical weapons production facilities; and applicability irrespective of the actual characteristics of the facilities and the methods chosen for their destruction. The order of destruction is based on the principle of levelling out.
+28.       The order of destruction of chemical weapons production facilities is based on the obligations specified in Article I and the other Articles of this Convention, including obligations regarding systematic on‑site verification. It takes into account interests of States Parties for undiminished security during the destruction period; confidence‑building in the early part of the destruction stage; gradual acquisition of experience in the course of destroying chemical weapons production facilities; and applicability irrespective of the actual characteristics of the facilities and the methods chosen for their destruction. The order of destruction is based on the principle of levelling out.
 
-29.    A State Party shall, for each destruction period, determine which chemical weapons production facilities are to be destroyed and carry out the destruction in such a way that not more than what is specified in paragraph 30 and 31 remains at the end of each destruction period. A State Party is not precluded from destroying its facilities at a faster pace.
+29.       A State Party shall, for each destruction period, determine which chemical weapons production facilities are to be destroyed and carry out the destruction in such a way that not more than what is specified in paragraph 30 and 31 remains at the end of each destruction period. A State Party is not precluded from destroying its facilities at a faster pace.
 
-30.    The following provisions shall apply to chemical weapons production facilities that produce Schedule 1 chemicals:
+30.       The following provisions shall apply to chemical weapons production facilities that produce Schedule 1 chemicals:
 
 (a)   a State Party shall start the destruction of such facilities not later than one year after this Convention enters into force for it, and shall complete it not later than 10 years after entry into force of this Convention. For a State which is a Party at the entry into force of this Convention, this overall period shall be divided into three separate destruction periods, namely, years 2‑5, years 6‑8, and years 9‑10\. For States which become a Party after entry into force of this Convention, the destruction periods shall be adapted, taking into account paragraphs 28 and 29;
 
@@ -6903,17 +6841,17 @@ Order of destruction
 
 (e)   chemical weapons production facilities that have been converted temporarily for destruction of chemical weapons shall continue to be subject to the obligation to destroy capacity according to the provisions of this paragraph.
 
-31.    A State Party shall start the destruction of chemical weapons production facilities not covered in paragraph 30 not later than one year after this Convention enters into force for it, and complete it not later than five years after entry into force of this Convention.
+31.       A State Party shall start the destruction of chemical weapons production facilities not covered in paragraph 30 not later than one year after this Convention enters into force for it, and complete it not later than five years after entry into force of this Convention.
 
-Detailed plans for destruction
+_Detailed plans for destruction_
 
-32.    Not less than 180 days before the destruction of a chemical weapons production facility starts, a State Party shall provide to the Technical Secretariat the detailed plans for destruction of the facility, including proposed measures for verification of destruction referred to in paragraph 33(f), with respect to, _inter alia_:
+32.       Not less than 180 days before the destruction of a chemical weapons production facility starts, a State Party shall provide to the Technical Secretariat the detailed plans for destruction of the facility, including proposed measures for verification of destruction referred to in paragraph 33(f), with respect to, _inter alia_:
 
 (a)   timing of the presence of the inspectors at the facility to be destroyed; and
 
 (b)   procedures for verification of measures to be applied to each item on the declared inventory.
 
-33.    The detailed plans for destruction of each chemical weapons production facility shall contain:
+33.       The detailed plans for destruction of each chemical weapons production facility shall contain:
 
 (a)   detailed time schedule of the destruction process;
 
@@ -6931,7 +6869,7 @@ Detailed plans for destruction
 
 (h)   working and living conditions to be provided for inspectors.
 
-34.    If a State Party intends to convert temporarily a chemical weapons production facility into a chemical weapons destruction facility, it shall notify the Technical Secretariat not less than 150 days before undertaking any conversion activities. The notification shall:
+34.       If a State Party intends to convert temporarily a chemical weapons production facility into a chemical weapons destruction facility, it shall notify the Technical Secretariat not less than 150 days before undertaking any conversion activities. The notification shall:
 
 (a)   specify the name, address, and location of the facility;
 
@@ -6947,31 +6885,31 @@ Detailed plans for destruction
 
 (g)   provide a schedule identifying: The time allocated to design, temporary conversion of the facility, installation of equipment, equipment check‑out, destruction operations, and closure.
 
-35.    In relation to the destruction of a facility that was temporarily converted for destruction of chemical weapons, information shall be provided in accordance with paragraphs 32 and 33.
+35.       In relation to the destruction of a facility that was temporarily converted for destruction of chemical weapons, information shall be provided in accordance with paragraphs 32 and 33.
 
-Review of detailed plans
+_Review of detailed plans_
 
-36.    On the basis of the detailed plan for destruction and proposed measures for verification submitted by the State Party, and on experience from previous inspections, the Technical Secretariat shall prepare a plan for verifying the destruction of the facility, consulting closely with the State Party. Any differences between the Technical Secretariat and the State Party concerning appropriate measures should be resolved through consultations. Any unresolved matters shall be forwarded to the Executive Council for appropriate action with a view to facilitating the full implementation of this Convention.
+36.       On the basis of the detailed plan for destruction and proposed measures for verification submitted by the State Party, and on experience from previous inspections, the Technical Secretariat shall prepare a plan for verifying the destruction of the facility, consulting closely with the State Party. Any differences between the Technical Secretariat and the State Party concerning appropriate measures should be resolved through consultations. Any unresolved matters shall be forwarded to the Executive Council for appropriate action with a view to facilitating the full implementation of this Convention.
 
-37.    To ensure that the provisions of Article V and this Part are fulfilled, the combined plans for destruction and verification shall be agreed upon between the Executive Council and the State Party. This agreement should be completed, not less than 60 days before the planned initiation of destruction.
+37.       To ensure that the provisions of Article V and this Part are fulfilled, the combined plans for destruction and verification shall be agreed upon between the Executive Council and the State Party. This agreement should be completed, not less than 60 days before the planned initiation of destruction.
 
-38.    Each member of the Executive Council may consult with the Technical Secretariat on any issues regarding the adequacy of the combined plan for destruction and verification. If there are no objections by any member of the Executive Council, the plan shall be put into action.
+38.       Each member of the Executive Council may consult with the Technical Secretariat on any issues regarding the adequacy of the combined plan for destruction and verification. If there are no objections by any member of the Executive Council, the plan shall be put into action.
 
-39.    If there are any difficulties, the Executive Council shall enter into consultations with the State Party to reconcile them. If any difficulties remain unresolved they shall be referred to the Conference. The resolution of any differences over methods of destruction shall not delay the execution of other parts of the destruction plan that are acceptable.
+39.       If there are any difficulties, the Executive Council shall enter into consultations with the State Party to reconcile them. If any difficulties remain unresolved they shall be referred to the Conference. The resolution of any differences over methods of destruction shall not delay the execution of other parts of the destruction plan that are acceptable.
 
-40.    If agreement is not reached with the Executive Council on aspects of verification, or if the approved verification plan cannot be put into action, verification of destruction shall proceed through continuous monitoring with on‑site instruments and physical presence of inspectors.
+40.       If agreement is not reached with the Executive Council on aspects of verification, or if the approved verification plan cannot be put into action, verification of destruction shall proceed through continuous monitoring with on‑site instruments and physical presence of inspectors.
 
-41.    Destruction and verification shall proceed according to the agreed plan. The verification shall not unduly interfere with the destruction process and shall be conducted through the presence of inspectors on‑site to witness the destruction.
+41.       Destruction and verification shall proceed according to the agreed plan. The verification shall not unduly interfere with the destruction process and shall be conducted through the presence of inspectors on‑site to witness the destruction.
 
-42.    If required verification or destruction actions are not taken as planned, all States Parties shall be so informed.
+42.       If required verification or destruction actions are not taken as planned, all States Parties shall be so informed.
 
-C.   VERIFICATION
+C.     VERIFICATION
 
-Verification of declarations of chemical weapons production facilities through on‑site inspection
+_Verification of declarations of chemical weapons production facilities through on‑site inspection_
 
-43.    The Technical Secretariat shall conduct an initial inspection of each chemical weapons production facility in the period between 90 and 120 days after this Convention enters into force for the State Party.
+43.       The Technical Secretariat shall conduct an initial inspection of each chemical weapons production facility in the period between 90 and 120 days after this Convention enters into force for the State Party.
 
-44.    The purposes of the initial inspection shall be:
+44.       The purposes of the initial inspection shall be:
 
 (a)   to confirm that the production of chemical weapons has ceased and that the facility has been inactivated in accordance with this Convention;
 
@@ -6985,17 +6923,17 @@ Verification of declarations of chemical weapons production facilities through o
 
 (f)   to conduct preliminary discussions regarding a detailed agreement on inspection procedures at the facility.
 
-45.    Inspectors shall employ, as appropriate, agreed seals, markers or other inventory control procedures to facilitate an accurate inventory of the declared items at each chemical weapons production facility.
+45.       Inspectors shall employ, as appropriate, agreed seals, markers or other inventory control procedures to facilitate an accurate inventory of the declared items at each chemical weapons production facility.
 
-46.    Inspectors shall install such agreed devices as may be necessary to indicate if any resumption of production of chemical weapons occurs or if any declared item is removed. They shall take the necessary precaution not to hinder closure activities by the inspected State Party. Inspectors may return to maintain and verify the integrity of the devices.
+46.       Inspectors shall install such agreed devices as may be necessary to indicate if any resumption of production of chemical weapons occurs or if any declared item is removed. They shall take the necessary precaution not to hinder closure activities by the inspected State Party. Inspectors may return to maintain and verify the integrity of the devices.
 
-47.    If, on the basis of the initial inspection, the Director‑General believes that additional measures are necessary to inactivate the facility in accordance with this Convention, the Director‑General may request, not later than 135 days after this Convention enters into force for a State Party, that such measures be implemented by the inspected State Party not later than 180 days after this Convention enters into force for it. At its discretion, the inspected State Party may satisfy the request. If it does not satisfy the request, the inspected State Party and the Director‑General shall consult to resolve the matter.
+47.       If, on the basis of the initial inspection, the Director‑General believes that additional measures are necessary to inactivate the facility in accordance with this Convention, the Director‑General may request, not later than 135 days after this Convention enters into force for a State Party, that such measures be implemented by the inspected State Party not later than 180 days after this Convention enters into force for it. At its discretion, the inspected State Party may satisfy the request. If it does not satisfy the request, the inspected State Party and the Director‑General shall consult to resolve the matter.
 
-Systematic verification of chemical weapons production facilities and cessation of their activities
+_Systematic verification of chemical weapons production facilities and cessation of their activities_
 
-48.    The purpose of the systematic verification of a chemical weapons production facility shall be to ensure that any resumption of production of chemical weapons or removal of declared items will be detected at this facility.
+48.       The purpose of the systematic verification of a chemical weapons production facility shall be to ensure that any resumption of production of chemical weapons or removal of declared items will be detected at this facility.
 
-49.    The detailed facility agreement for each chemical weapons production facility shall specify:
+49.       The detailed facility agreement for each chemical weapons production facility shall specify:
 
 (a)   detailed on‑site inspection procedures, which may include:
 
@@ -7013,45 +6951,45 @@ Systematic verification of chemical weapons production facilities and cessation 
 
 (c)   other agreed measures.
 
-50.    The seals or other approved equipment provided for in a detailed agreement on inspection measures for that facility shall be placed not later than 240 days after this Convention enters into force for a State Party. Inspectors shall be permitted to visit each chemical weapons production facility for the installation of such seals or equipment.
+50.       The seals or other approved equipment provided for in a detailed agreement on inspection measures for that facility shall be placed not later than 240 days after this Convention enters into force for a State Party. Inspectors shall be permitted to visit each chemical weapons production facility for the installation of such seals or equipment.
 
-51.    During each calendar year, the Technical Secretariat shall be permitted to conduct up to four inspections of each chemical weapons production facility.
+51.       During each calendar year, the Technical Secretariat shall be permitted to conduct up to four inspections of each chemical weapons production facility.
 
-52.    The Director‑General shall notify the inspected State Party of his decision to inspect or visit a chemical weapons production facility 48 hours before the planned arrival of the inspection team at the facility for systematic inspections or visits. In the case of inspections or visits to resolve urgent problems, this period may be shortened. The Director‑General shall specify the purpose of the inspection or visit.
+52.       The Director‑General shall notify the inspected State Party of his decision to inspect or visit a chemical weapons production facility 48 hours before the planned arrival of the inspection team at the facility for systematic inspections or visits. In the case of inspections or visits to resolve urgent problems, this period may be shortened. The Director‑General shall specify the purpose of the inspection or visit.
 
-53.    Inspectors shall, in accordance with the facility agreements, have unimpeded access to all parts of the chemical weapons production facilities. The items on the declared inventory to be inspected shall be chosen by the inspectors.
+53.       Inspectors shall, in accordance with the facility agreements, have unimpeded access to all parts of the chemical weapons production facilities. The items on the declared inventory to be inspected shall be chosen by the inspectors.
 
-54.    The guidelines for determining the frequency of systematic on‑site inspections shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i). The particular production facility to be inspected shall be chosen by the Technical Secretariat in such a way as to preclude the prediction of precisely when the facility is to be inspected.
+54.       The guidelines for determining the frequency of systematic on‑site inspections shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i). The particular production facility to be inspected shall be chosen by the Technical Secretariat in such a way as to preclude the prediction of precisely when the facility is to be inspected.
 
-Verification of destruction of chemical weapons production facilities
+_Verification of destruction of chemical weapons production facilities_
 
-55.    The purpose of systematic verification of the destruction of chemical weapons production facilities shall be to confirm that the facility is destroyed in accordance with the obligations under this Convention and that each item on the declared inventory is destroyed in accordance with the agreed detailed plan for destruction.
+55.       The purpose of systematic verification of the destruction of chemical weapons production facilities shall be to confirm that the facility is destroyed in accordance with the obligations under this Convention and that each item on the declared inventory is destroyed in accordance with the agreed detailed plan for destruction.
 
-56.    When all items on the declared inventory have been destroyed, the Technical Secretariat shall confirm the declaration of the State Party to that effect. After this confirmation, the Technical Secretariat shall terminate the systematic verification of the chemical weapons production facility and shall promptly remove all devices and monitoring instruments installed by the inspectors.
+56.       When all items on the declared inventory have been destroyed, the Technical Secretariat shall confirm the declaration of the State Party to that effect. After this confirmation, the Technical Secretariat shall terminate the systematic verification of the chemical weapons production facility and shall promptly remove all devices and monitoring instruments installed by the inspectors.
 
-57.    After this confirmation, the State Party shall make the declaration that the facility has been destroyed.
+57.       After this confirmation, the State Party shall make the declaration that the facility has been destroyed.
 
-Verification of temporary conversion of a chemical weapons production facility into a chemical weapons destruction facility
+_Verification of temporary conversion of a chemical weapons production facility into a chemical weapons destruction facility_
 
-58.    Not later than 90 days after receiving the initial notification of the intent to convert temporarily a production facility, the inspectors shall have the right to visit the facility to familiarize themselves with the proposed temporary conversion and to study possible inspection measures that will be required during the conversion.
+58.       Not later than 90 days after receiving the initial notification of the intent to convert temporarily a production facility, the inspectors shall have the right to visit the facility to familiarize themselves with the proposed temporary conversion and to study possible inspection measures that will be required during the conversion.
 
-59.    Not later than 60 days after such a visit, the Technical Secretariat and the inspected State Party shall conclude a transition agreement containing additional inspection measures for the temporary conversion period. The transition agreement shall specify inspection procedures, including the use of seals, monitoring equipment, and inspections, that will provide confidence that no chemical weapons production takes place during the conversion process. This agreement shall remain in force from the beginning of the temporary conversion activity until the facility begins operation as a chemical weapons destruction facility.
+59.       Not later than 60 days after such a visit, the Technical Secretariat and the inspected State Party shall conclude a transition agreement containing additional inspection measures for the temporary conversion period. The transition agreement shall specify inspection procedures, including the use of seals, monitoring equipment, and inspections, that will provide confidence that no chemical weapons production takes place during the conversion process. This agreement shall remain in force from the beginning of the temporary conversion activity until the facility begins operation as a chemical weapons destruction facility.
 
-60.    The inspected State Party shall not remove or convert any portion of the facility, or remove or modify any seal or other agreed inspection equipment that may have been installed pursuant to this Convention until the transition agreement has been concluded.
+60.       The inspected State Party shall not remove or convert any portion of the facility, or remove or modify any seal or other agreed inspection equipment that may have been installed pursuant to this Convention until the transition agreement has been concluded.
 
-61.    Once the facility begins operation as a chemical weapons destruction facility, it shall be subject to the provisions of Part IV(A) of this Annex applicable to chemical weapons destruction facilities. Arrangements for the pre‑operation period shall be governed by the transition agreement.
+61.       Once the facility begins operation as a chemical weapons destruction facility, it shall be subject to the provisions of Part IV(A) of this Annex applicable to chemical weapons destruction facilities. Arrangements for the pre‑operation period shall be governed by the transition agreement.
 
-62.    During destruction operations the inspectors shall have access to all portions of the temporarily converted chemical weapons production facilities, including those that are not directly involved with the destruction of chemical weapons.
+62.       During destruction operations the inspectors shall have access to all portions of the temporarily converted chemical weapons production facilities, including those that are not directly involved with the destruction of chemical weapons.
 
-63.    Before the commencement of work at the facility to convert it temporarily for chemical weapons destruction purposes and after the facility has ceased to function as a facility for chemical weapons destruction, the facility shall be subject to the provisions of this Part applicable to chemical weapons production facilities.
+63.       Before the commencement of work at the facility to convert it temporarily for chemical weapons destruction purposes and after the facility has ceased to function as a facility for chemical weapons destruction, the facility shall be subject to the provisions of this Part applicable to chemical weapons production facilities.
 
-D.  CONVERSION OF CHEMICAL WEAPONS PRODUCTION FACILITIES TO PURPOSES NOT PROHIBITED UNDER THIS CONVENTION
+D.     CONVERSION OF CHEMICAL WEAPONS PRODUCTION FACILITIES TO PURPOSES NOT PROHIBITED UNDER THIS CONVENTION
 
-Procedures for requesting conversion
+_Procedures for requesting conversion_
 
-64.    A request to use a chemical weapons production facility for purposes not prohibited under this Convention may be made for any facility that a State Party is already using for such purposes before this Convention enters into force for it, or that it plans to use for such purposes.
+64.       A request to use a chemical weapons production facility for purposes not prohibited under this Convention may be made for any facility that a State Party is already using for such purposes before this Convention enters into force for it, or that it plans to use for such purposes.
 
-65.    For a chemical weapons production facility that is being used for purposes not prohibited under this Convention when this Convention enters into force for the State Party, the request shall be submitted to the Director‑General not later than 30 days after this Convention enters into force for the State Party. The request shall contain, in addition to data submitted in accordance with paragraph 1(h)(iii), the following information:
+65.       For a chemical weapons production facility that is being used for purposes not prohibited under this Convention when this Convention enters into force for the State Party, the request shall be submitted to the Director‑General not later than 30 days after this Convention enters into force for the State Party. The request shall contain, in addition to data submitted in accordance with paragraph 1(h)(iii), the following information:
 
 (a)   a detailed justification for the request;
 
@@ -7075,7 +7013,7 @@ Procedures for requesting conversion
 
 (c)   a detailed explanation of how measures set forth in subparagraph (b), as well as any other measures proposed by the State Party, will ensure the prevention of standby chemical weapons production capability at the facility.
 
-66.    For a chemical weapons production facility that is not being used for purposes not prohibited under this Convention when this Convention enters into force for the State Party, the request shall be submitted to the Director‑General not later than 30 days after the decision to convert, but in no case later than four years after this Convention enters into force for the State Party. The request shall contain the following information:
+66.       For a chemical weapons production facility that is not being used for purposes not prohibited under this Convention when this Convention enters into force for the State Party, the request shall be submitted to the Director‑General not later than 30 days after the decision to convert, but in no case later than four years after this Convention enters into force for the State Party. The request shall contain the following information:
 
 (a)   a detailed justification for the request, including its economic needs;
 
@@ -7099,45 +7037,45 @@ Procedures for requesting conversion
 
 (c)   a detailed explanation of how the measures set forth in subparagraph (b), as well as any other measures proposed by the State Party, will ensure the prevention of standby chemical weapons production capability at the facility.
 
-67.    The State Party may propose in its request any other measures it deems appropriate to build confidence.
+67.       The State Party may propose in its request any other measures it deems appropriate to build confidence.
 
-Actions pending a decision
+_Actions pending a decision_
 
-68.    Pending a decision of the Conference, a State Party may continue to use for purposes not prohibited under this Convention a facility that was being used for such purposes before this Convention enters into force for it, but only if the State Party certifies in its request that no specialized equipment and no specialized buildings are being used and that the specialized equipment and specialized buildings have been rendered inactive using the methods specified in paragraph 13.
+68.       Pending a decision of the Conference, a State Party may continue to use for purposes not prohibited under this Convention a facility that was being used for such purposes before this Convention enters into force for it, but only if the State Party certifies in its request that no specialized equipment and no specialized buildings are being used and that the specialized equipment and specialized buildings have been rendered inactive using the methods specified in paragraph 13.
 
-69.    If the facility, for which the request was made, was not being used for purposes not prohibited under this Convention before this Convention enters into force for the State Party, or if the certification required in paragraph 68 is not made, the State Party shall cease immediately all activity pursuant to Article V, paragraph 4\. The State Party shall close the facility in accordance with paragraph 13 not later than 90 days after this Convention enters into force for it.
+69.       If the facility, for which the request was made, was not being used for purposes not prohibited under this Convention before this Convention enters into force for the State Party, or if the certification required in paragraph 68 is not made, the State Party shall cease immediately all activity pursuant to Article V, paragraph 4\. The State Party shall close the facility in accordance with paragraph 13 not later than 90 days after this Convention enters into force for it.
 
-Conditions for conversion
+_Conditions for conversion_
 
-70.    As a condition for conversion of a chemical weapons production facility for purposes not prohibited under this Convention, all specialized equipment at the facility must be destroyed and all special features of buildings and structures that distinguish them from buildings and structures normally used for purposes not prohibited under this Convention and not involving Schedule 1 chemicals must be eliminated.
+70.       As a condition for conversion of a chemical weapons production facility for purposes not prohibited under this Convention, all specialized equipment at the facility must be destroyed and all special features of buildings and structures that distinguish them from buildings and structures normally used for purposes not prohibited under this Convention and not involving Schedule 1 chemicals must be eliminated.
 
-71.    A converted facility shall not be used:
+71.       A converted facility shall not be used:
 
 (a)   for any activity involving production, processing, or consumption of a Schedule 1 chemical or a Schedule 2 chemical; or
 
 (b)   for the production of any highly toxic chemical, including any highly toxic organophosphorus chemical, or for any other activity that would require special equipment for handling highly toxic or highly corrosive chemicals, unless the Executive Council decides that such production or activity would pose no risk to the object and purpose of this Convention, taking into account criteria for toxicity, corrosiveness and, if applicable, other technical factors, to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-72.    Conversion of a chemical weapons production facility shall be completed not later than six years after entry into force of this Convention.
+72.       Conversion of a chemical weapons production facility shall be completed not later than six years after entry into force of this Convention.
 
-Decisions by the Executive Council and the Conference
+_Decisions by the Executive Council and the Conference_
 
-73.    Not later than 90 days after receipt of the request by the Director‑General, an initial inspection of the facility shall be conducted by the Technical Secretariat. The purpose of this inspection shall be to determine the accuracy of the information provided in the request, to obtain information on the technical characteristics of the proposed converted facility, and to assess the conditions under which use for purposes not prohibited under this Convention may be permitted. The Director‑General shall promptly submit a report to the Executive Council, the Conference, and all States Parties containing his recommendations on the measures necessary to convert the facility to purposes not prohibited under this Convention and to provide assurance that the converted facility will be used only for purposes not prohibited under this Convention.
+73.       Not later than 90 days after receipt of the request by the Director‑General, an initial inspection of the facility shall be conducted by the Technical Secretariat. The purpose of this inspection shall be to determine the accuracy of the information provided in the request, to obtain information on the technical characteristics of the proposed converted facility, and to assess the conditions under which use for purposes not prohibited under this Convention may be permitted. The Director‑General shall promptly submit a report to the Executive Council, the Conference, and all States Parties containing his recommendations on the measures necessary to convert the facility to purposes not prohibited under this Convention and to provide assurance that the converted facility will be used only for purposes not prohibited under this Convention.
 
-74.    If the facility has been used for purposes not prohibited under this Convention before this Convention enters into force for the State Party, and is continuing to be in operation, but the measures required to be certified under paragraph 68 have not been taken, the Director‑General shall immediately inform the Executive Council, which may require implementation of measures it deems appropriate, _inter alia_, shut‑down of the facility and removal of specialized equipment and modification of buildings or structures. The Executive Council shall stipulate the deadline for implementation of these measures and shall suspend consideration of the request pending their satisfactory completion. The facility shall be inspected promptly after the expiration of the deadline to determine whether the measures have been implemented. If not, the State Party shall be required to shut down completely all facility operations.
+74.       If the facility has been used for purposes not prohibited under this Convention before this Convention enters into force for the State Party, and is continuing to be in operation, but the measures required to be certified under paragraph 68 have not been taken, the Director‑General shall immediately inform the Executive Council, which may require implementation of measures it deems appropriate, _inter alia_, shut‑down of the facility and removal of specialized equipment and modification of buildings or structures. The Executive Council shall stipulate the deadline for implementation of these measures and shall suspend consideration of the request pending their satisfactory completion. The facility shall be inspected promptly after the expiration of the deadline to determine whether the measures have been implemented. If not, the State Party shall be required to shut down completely all facility operations.
 
-75.    As soon as possible after receiving the report of the Director‑General, the Conference, upon recommendation of the Executive Council, shall decide, taking into account the report and any views expressed by States Parties, whether to approve the request, and shall establish the conditions upon which approval is contingent. If any State Party objects to approval of the request and the associated conditions, consultations shall be undertaken among interested States Parties for up to 90 days to seek a mutually acceptable solution. A decision on the request and associated conditions, along with any proposed modifications thereto, shall be taken, as a matter of substance, as soon as possible after the end of the consultation period.
+75.       As soon as possible after receiving the report of the Director‑General, the Conference, upon recommendation of the Executive Council, shall decide, taking into account the report and any views expressed by States Parties, whether to approve the request, and shall establish the conditions upon which approval is contingent. If any State Party objects to approval of the request and the associated conditions, consultations shall be undertaken among interested States Parties for up to 90 days to seek a mutually acceptable solution. A decision on the request and associated conditions, along with any proposed modifications thereto, shall be taken, as a matter of substance, as soon as possible after the end of the consultation period.
 
-76.    If the request is approved, a facility agreement shall be completed not later than 90 days after such a decision is taken. The facility agreement shall contain the conditions under which the conversion and use of the facility is permitted, including measures for verification. Conversion shall not begin before the facility agreement is concluded.
+76.       If the request is approved, a facility agreement shall be completed not later than 90 days after such a decision is taken. The facility agreement shall contain the conditions under which the conversion and use of the facility is permitted, including measures for verification. Conversion shall not begin before the facility agreement is concluded.
 
-Detailed plans for conversion
+_Detailed plans for conversion_
 
-77.    Not less than 180 days before conversion of a chemical weapons production facility is planned to begin, the State Party shall provide the Technical Secretariat with the detailed plans for conversion of the facility, including proposed measures for verification of conversion, with respect to, _inter alia_:
+77.       Not less than 180 days before conversion of a chemical weapons production facility is planned to begin, the State Party shall provide the Technical Secretariat with the detailed plans for conversion of the facility, including proposed measures for verification of conversion, with respect to, _inter alia_:
 
 (a)   timing of the presence of the inspectors at the facility to be converted; and
 
 (b)   procedures for verification of measures to be applied to each item on the declared inventory.
 
-78.    The detailed plan for conversion of each chemical weapons production facility shall contain:
+78.       The detailed plan for conversion of each chemical weapons production facility shall contain:
 
 (a)   detailed time schedule of the conversion process;
 
@@ -7155,21 +7093,21 @@ Detailed plans for conversion
 
 (h)   working and living conditions to be provided for inspectors.
 
-Review of detailed plans
+_Review of detailed plans_
 
-79.    On the basis of the detailed plan for conversion and proposed measures for verification submitted by the State Party, and on experience from previous inspections, the Technical Secretariat shall prepare a plan for verifying the conversion of the facility, consulting closely with the State Party. Any differences between the Technical Secretariat and the State Party concerning appropriate measures shall be resolved through consultations. Any unresolved matters shall be forwarded to the Executive Council for appropriate action with a view to facilitate the full implementation of this Convention.
+79.       On the basis of the detailed plan for conversion and proposed measures for verification submitted by the State Party, and on experience from previous inspections, the Technical Secretariat shall prepare a plan for verifying the conversion of the facility, consulting closely with the State Party. Any differences between the Technical Secretariat and the State Party concerning appropriate measures shall be resolved through consultations. Any unresolved matters shall be forwarded to the Executive Council for appropriate action with a view to facilitate the full implementation of this Convention.
 
-80.    To ensure that the provisions of Article V and this Part are fulfilled, the combined plans for conversion and verification shall be agreed upon between the Executive Council and the State Party. This agreement shall be completed not less than 60 days before conversion is planned to begin.
+80.       To ensure that the provisions of Article V and this Part are fulfilled, the combined plans for conversion and verification shall be agreed upon between the Executive Council and the State Party. This agreement shall be completed not less than 60 days before conversion is planned to begin.
 
-81.    Each member of the Executive Council may consult with the Technical Secretariat on any issue regarding the adequacy of the combined plan for conversion and verification. If there are no objections by any member of the Executive Council, the plan shall be put into action.
+81.       Each member of the Executive Council may consult with the Technical Secretariat on any issue regarding the adequacy of the combined plan for conversion and verification. If there are no objections by any member of the Executive Council, the plan shall be put into action.
 
-82.    If there are any difficulties, the Executive Council should enter into consultations with the State Party to reconcile them. If any difficulties remain unresolved, they should be referred to the Conference. The resolution of any differences over methods of conversion should not delay the execution of other parts of the conversion plan that are acceptable.
+82.       If there are any difficulties, the Executive Council should enter into consultations with the State Party to reconcile them. If any difficulties remain unresolved, they should be referred to the Conference. The resolution of any differences over methods of conversion should not delay the execution of other parts of the conversion plan that are acceptable.
 
-83.    If agreement is not reached with the Executive Council on aspects of verification, or if the approved verification plan cannot be put into action, verification of conversion shall proceed through continuous monitoring with on‑site instruments and physical presence of inspectors.
+83.       If agreement is not reached with the Executive Council on aspects of verification, or if the approved verification plan cannot be put into action, verification of conversion shall proceed through continuous monitoring with on‑site instruments and physical presence of inspectors.
 
-84.    Conversion and verification shall proceed according to the agreed plan. The verification shall not unduly interfere with the conversion process and shall be conducted through the presence of inspectors to confirm the conversion.
+84.       Conversion and verification shall proceed according to the agreed plan. The verification shall not unduly interfere with the conversion process and shall be conducted through the presence of inspectors to confirm the conversion.
 
-85.    For the 10 years after the Director‑General certifies that conversion is complete, the State Party shall provide to inspectors unimpeded access to the facility at any time. The inspectors shall have the right to observe all areas, all activities, and all items of equipment at the facility. The inspectors shall have the right to verify that the activities at the facility are consistent with any conditions established under this Section, by the Executive Council and the Conference. The inspectors shall also have the right, in accordance with provisions of Part II, Section E, of this Annex to receive samples from any area of the facility and to analyse them to verify the absence of Schedule 1 chemicals, their stable by‑products and decomposition products and of Schedule 2 chemicals and to verify that the activities at the facility are consistent with any other conditions on chemical activities established under this Section, by the Executive Council and the Conference. The inspectors shall also have the right to managed access, in accordance with Part X, Section C, of this Annex, to the plant site at which the facility is located. During the 10‑year period, the State Party shall report annually on the activities at the converted facility. Upon completion of the 10‑year period, the Executive Council, taking into account recommendations of the Technical Secretariat, shall decide on the nature of continued verification measures.
+85.       For the 10 years after the Director‑General certifies that conversion is complete, the State Party shall provide to inspectors unimpeded access to the facility at any time. The inspectors shall have the right to observe all areas, all activities, and all items of equipment at the facility. The inspectors shall have the right to verify that the activities at the facility are consistent with any conditions established under this Section, by the Executive Council and the Conference. The inspectors shall also have the right, in accordance with provisions of Part II, Section E, of this Annex to receive samples from any area of the facility and to analyse them to verify the absence of Schedule 1 chemicals, their stable by‑products and decomposition products and of Schedule 2 chemicals and to verify that the activities at the facility are consistent with any other conditions on chemical activities established under this Section, by the Executive Council and the Conference. The inspectors shall also have the right to managed access, in accordance with Part X, Section C, of this Annex, to the plant site at which the facility is located. During the 10‑year period, the State Party shall report annually on the activities at the converted facility. Upon completion of the 10‑year period, the Executive Council, taking into account recommendations of the Technical Secretariat, shall decide on the nature of continued verification measures.
 
 86\. Costs of verification of the converted facility shall be allocated in accordance with Article V, paragraph 19.
 
@@ -7179,11 +7117,11 @@ ACTIVITIES NOT PROHIBITED UNDER THIS CONVENTION IN ACCORDANCE WITH ARTICLE VI
 
 REGIME FOR SCHEDULE 1 CHEMICALS AND FACILITIES RELATED TO SUCH CHEMICALS
 
-A.  GENERAL PROVISIONS
+A.     GENERAL PROVISIONS
 
-1.      A State Party shall not produce, acquire, retain or use Schedule 1 chemicals outside the territories of States Parties and shall not transfer such chemicals outside its territory except to another State Party.
+1.         A State Party shall not produce, acquire, retain or use Schedule 1 chemicals outside the territories of States Parties and shall not transfer such chemicals outside its territory except to another State Party.
 
-2.      A State Party shall not produce, acquire, retain, transfer or use Schedule 1 chemicals unless:
+2.         A State Party shall not produce, acquire, retain, transfer or use Schedule 1 chemicals unless:
 
 (a)   the chemicals are applied to research, medical, pharmaceutical or protective purposes; and
 
@@ -7193,49 +7131,49 @@ A.  GENERAL PROVISIONS
 
 (d)   the aggregate amount for such purposes acquired by a State Party in any year through production, withdrawal from chemical weapons stocks and transfer is equal to or less than 1 tonne.
 
-B.   TRANSFERS
+B.     TRANSFERS
 
-3.      A State Party may transfer Schedule 1 chemicals outside its territory only to another State Party and only for research, medical, pharmaceutical or protective purposes in accordance with paragraph 2.
+3.         A State Party may transfer Schedule 1 chemicals outside its territory only to another State Party and only for research, medical, pharmaceutical or protective purposes in accordance with paragraph 2.
 
-4.      Chemicals transferred shall not be retransferred to a third State.
+4.         Chemicals transferred shall not be retransferred to a third State.
 
-5.      Not less than 30 days before any transfer to another State Party both States Parties shall notify the Technical Secretariat of the transfer.
+5.         Not less than 30 days before any transfer to another State Party both States Parties shall notify the Technical Secretariat of the transfer.
 
-6.      Each State Party shall make a detailed annual declaration regarding transfers during the previous year. The declaration shall be submitted not later than 90 days after the end of that year and shall for each Schedule 1 chemical that has been transferred include the following information:
+6.         Each State Party shall make a detailed annual declaration regarding transfers during the previous year. The declaration shall be submitted not later than 90 days after the end of that year and shall for each Schedule 1 chemical that has been transferred include the following information:
 
 (a)   the chemical name, structural formula and Chemical Abstracts Service registry number, if assigned;
 
 (b)   the quantity acquired from other States or transferred to other States Parties. For each transfer the quantity, recipient and purpose shall be included.
 
-C.   PRODUCTION
+C.     PRODUCTION
 
-General principles for production
+_General principles for production_
 
-7.      Each State Party, during production under paragraphs 8 to 12, shall assign the highest priority to ensuring the safety of people and to protecting the environment. Each State Party shall conduct such production in accordance with national standards for safety and emissions.
+7.         Each State Party, during production under paragraphs 8 to 12, shall assign the highest priority to ensuring the safety of people and to protecting the environment. Each State Party shall conduct such production in accordance with national standards for safety and emissions.
 
-Single small‑scale facility
+_Single small‑scale facility_
 
-8.      Each State Party that produces Schedule 1 chemicals for research, medical, pharmaceutical or protective purposes shall carry out the production at a single small‑scale facility approved by the State Party, except as set forth in paragraphs 10, 11 and 12.
+8.         Each State Party that produces Schedule 1 chemicals for research, medical, pharmaceutical or protective purposes shall carry out the production at a single small‑scale facility approved by the State Party, except as set forth in paragraphs 10, 11 and 12.
 
-9.      The production at a single small‑scale facility shall be carried out in reaction vessels in production lines not configurated for continuous operation. The volume of such a reaction vessel shall not exceed 100 litres, and the total volume of all reaction vessels with a volume exceeding 5 litres shall not be more than 500 litres.
+9.         The production at a single small‑scale facility shall be carried out in reaction vessels in production lines not configurated for continuous operation. The volume of such a reaction vessel shall not exceed 100 litres, and the total volume of all reaction vessels with a volume exceeding 5 litres shall not be more than 500 litres.
 
-Other facilities
+_Other facilities_
 
-10.    Production of Schedule 1 chemicals in aggregate quantities not exceeding 10 kg per year may be carried out for protective purposes at one facility outside a single small‑scale facility. This facility shall be approved by the State Party.
+10.       Production of Schedule 1 chemicals in aggregate quantities not exceeding 10 kg per year may be carried out for protective purposes at one facility outside a single small‑scale facility. This facility shall be approved by the State Party.
 
-11.    Production of Schedule 1 chemicals in quantities of more than 100 g per year may be carried out for research, medical or pharmaceutical purposes outside a single small‑scale facility in aggregate quantities not exceeding 10 kg per year per facility. These facilities shall be approved by the State Party.
+11.       Production of Schedule 1 chemicals in quantities of more than 100 g per year may be carried out for research, medical or pharmaceutical purposes outside a single small‑scale facility in aggregate quantities not exceeding 10 kg per year per facility. These facilities shall be approved by the State Party.
 
-12.    Synthesis of Schedule 1 chemicals for research, medical or pharmaceutical purposes, but not for protective purposes, may be carried out at laboratories in aggregate quantities less than 100 g per year per facility. These facilities shall not be subject to any obligation relating to declaration and verification as specified in Sections D and E.
+12.       Synthesis of Schedule 1 chemicals for research, medical or pharmaceutical purposes, but not for protective purposes, may be carried out at laboratories in aggregate quantities less than 100 g per year per facility. These facilities shall not be subject to any obligation relating to declaration and verification as specified in Sections D and E.
 
-D.  DECLARATIONS
+D.     DECLARATIONS
 
-Single small‑scale facility
+_Single small‑scale facility_
 
-13.    Each State Party that plans to operate a single small‑scale facility shall provide the Technical Secretariat with the precise location and a detailed technical description of the facility, including an inventory of equipment and detailed diagrams. For existing facilities, this initial declaration shall be provided not later than 30 days after this Convention enters into force for the State Party. Initial declarations on new facilities shall be provided not less than 180 days before operations are to begin.
+13.       Each State Party that plans to operate a single small‑scale facility shall provide the Technical Secretariat with the precise location and a detailed technical description of the facility, including an inventory of equipment and detailed diagrams. For existing facilities, this initial declaration shall be provided not later than 30 days after this Convention enters into force for the State Party. Initial declarations on new facilities shall be provided not less than 180 days before operations are to begin.
 
-14.    Each State Party shall give advance notification to the Technical Secretariat of planned changes related to the initial declaration. The notification shall be submitted not less than 180 days before the changes are to take place.
+14.       Each State Party shall give advance notification to the Technical Secretariat of planned changes related to the initial declaration. The notification shall be submitted not less than 180 days before the changes are to take place.
 
-15.    A State Party producing Schedule 1 chemicals at a single small‑scale facility shall make a detailed annual declaration regarding the activities of the facility for the previous year. The declaration shall be submitted not later than 90 days after the end of that year and shall include:
+15.       A State Party producing Schedule 1 chemicals at a single small‑scale facility shall make a detailed annual declaration regarding the activities of the facility for the previous year. The declaration shall be submitted not later than 90 days after the end of that year and shall include:
 
 (a)   identification of the facility;
 
@@ -7257,7 +7195,7 @@ Single small‑scale facility
 
 (c)   information on any changes at the facility during the year compared to previously submitted detailed technical descriptions of the facility including inventories of equipment and detailed diagrams.
 
-16.    Each State Party producing Schedule 1 chemicals at a single small‑scale facility shall make a detailed annual declaration regarding the projected activities and the anticipated production at the facility for the coming year. The declaration shall be submitted not less than 90 days before the beginning of that year and shall include:
+16.       Each State Party producing Schedule 1 chemicals at a single small‑scale facility shall make a detailed annual declaration regarding the projected activities and the anticipated production at the facility for the coming year. The declaration shall be submitted not less than 90 days before the beginning of that year and shall include:
 
 (a)   identification of the facility;
 
@@ -7269,13 +7207,13 @@ Single small‑scale facility
 
 (c)   information on any anticipated changes at the facility during the year compared to previously submitted detailed technical descriptions of the facility including inventories of equipment and detailed diagrams.
 
-Other facilities referred to in paragraphs 10 and 11
+_Other facilities referred to in paragraphs 10 and 11_
 
-17.    For each facility, a State Party shall provide the Technical Secretariat with the name, location and a detailed technical description of the facility or its relevant part(s) as requested by the Technical Secretariat. The facility producing Schedule 1 chemicals for protective purposes shall be specifically identified. For existing facilities, this initial declaration shall be provided not later than 30 days after this Convention enters into force for the State Party. Initial declarations on new facilities shall be provided not less than 180 days before operations are to begin.
+17.       For each facility, a State Party shall provide the Technical Secretariat with the name, location and a detailed technical description of the facility or its relevant part(s) as requested by the Technical Secretariat. The facility producing Schedule 1 chemicals for protective purposes shall be specifically identified. For existing facilities, this initial declaration shall be provided not later than 30 days after this Convention enters into force for the State Party. Initial declarations on new facilities shall be provided not less than 180 days before operations are to begin.
 
-18.    Each State Party shall give advance notification to the Technical Secretariat of planned changes related to the initial declaration. The notification shall be submitted not less than 180 days before the changes are to take place.
+18.       Each State Party shall give advance notification to the Technical Secretariat of planned changes related to the initial declaration. The notification shall be submitted not less than 180 days before the changes are to take place.
 
-19.    Each State Party shall, for each facility, make a detailed annual declaration regarding the activities of the facility for the previous year. The declaration shall be submitted not later than 90 days after the end of that year and shall include:
+19.       Each State Party shall, for each facility, make a detailed annual declaration regarding the activities of the facility for the previous year. The declaration shall be submitted not later than 90 days after the end of that year and shall include:
 
 (a)   identification of the facility;
 
@@ -7297,7 +7235,7 @@ Other facilities referred to in paragraphs 10 and 11
 
 (c)   information on any changes at the facility or its relevant parts during the year compared to previously submitted detailed technical description of the facility.
 
-20.    Each State Party shall, for each facility, make a detailed annual declaration regarding the projected activities and the anticipated production at the facility for the coming year. The declaration shall be submitted not less than 90 days before the beginning of that year and shall include:
+20.       Each State Party shall, for each facility, make a detailed annual declaration regarding the projected activities and the anticipated production at the facility for the coming year. The declaration shall be submitted not less than 90 days before the beginning of that year and shall include:
 
 (a)   identification of the facility;
 
@@ -7309,27 +7247,27 @@ Other facilities referred to in paragraphs 10 and 11
 
 (c)   information on any anticipated changes at the facility or its relevant parts, during the year compared to previously submitted detailed technical descriptions of the facility.
 
-E.   VERIFICATION
+E.     VERIFICATION
 
-Single small‑scale facility
+_Single small‑scale facility_
 
-21.    The aim of verification activities at the single small‑scale facility shall be to verify that the quantities of Schedule 1 chemicals produced are correctly declared and, in particular, that their aggregate amount does not exceed 1 tonne.
+21.       The aim of verification activities at the single small‑scale facility shall be to verify that the quantities of Schedule 1 chemicals produced are correctly declared and, in particular, that their aggregate amount does not exceed 1 tonne.
 
-22.    The facility shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments.
+22.       The facility shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments.
 
-23.    The number, intensity, duration, timing and mode of inspections for a particular facility shall be based on the risk to the object and purpose of this Convention posed by the relevant chemicals, the characteristics of the facility and the nature of the activities carried out there. Appropriate guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+23.       The number, intensity, duration, timing and mode of inspections for a particular facility shall be based on the risk to the object and purpose of this Convention posed by the relevant chemicals, the characteristics of the facility and the nature of the activities carried out there. Appropriate guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-24.    The purpose of the initial inspection shall be to verify information provided concerning the facility, including verification of the limits on reaction vessels set forth in paragraph 9.
+24.       The purpose of the initial inspection shall be to verify information provided concerning the facility, including verification of the limits on reaction vessels set forth in paragraph 9.
 
-25.    Not later than 180 days after this Convention enters into force for a State Party, it shall conclude a facility agreement, based on a model agreement, with the Organization, covering detailed inspection procedures for the facility.
+25.       Not later than 180 days after this Convention enters into force for a State Party, it shall conclude a facility agreement, based on a model agreement, with the Organization, covering detailed inspection procedures for the facility.
 
-26.    Each State Party planning to establish a single small‑scale facility after this Convention enters into force for it shall conclude a facility agreement, based on a model agreement, with the Organization, covering detailed inspection procedures for the facility before it begins operation or is used.
+26.       Each State Party planning to establish a single small‑scale facility after this Convention enters into force for it shall conclude a facility agreement, based on a model agreement, with the Organization, covering detailed inspection procedures for the facility before it begins operation or is used.
 
-27.    A model for agreements shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+27.       A model for agreements shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-Other facilities referred to in paragraphs 10 and 11
+_Other facilities referred to in paragraphs 10 and 11_
 
-28.    The aim of verification activities at any facility referred to in paragraphs 10 and 11 shall be to verify that:
+28.       The aim of verification activities at any facility referred to in paragraphs 10 and 11 shall be to verify that:
 
 (a)   the facility is not used to produce any Schedule 1 chemical, except for the declared chemicals;
 
@@ -7337,13 +7275,13 @@ Other facilities referred to in paragraphs 10 and 11
 
 (c)   the Schedule 1 chemical is not diverted or used for other purposes.
 
-29.    The facility shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments.
+29.       The facility shall be subject to systematic verification through on‑site inspection and monitoring with on‑site instruments.
 
-30.    The number, intensity, duration, timing and mode of inspections for a particular facility shall be based on the risk to the object and purpose of this Convention posed by the quantities of chemicals produced, the characteristics of the facility and the nature of the activities carried out there. Appropriate guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+30.       The number, intensity, duration, timing and mode of inspections for a particular facility shall be based on the risk to the object and purpose of this Convention posed by the quantities of chemicals produced, the characteristics of the facility and the nature of the activities carried out there. Appropriate guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-31.    Not later than 180 days after this Convention enters into force for a State Party, it shall conclude facility agreements with the Organization, based on a model agreement covering detailed inspection procedures for each facility.
+31.       Not later than 180 days after this Convention enters into force for a State Party, it shall conclude facility agreements with the Organization, based on a model agreement covering detailed inspection procedures for each facility.
 
-32.    Each State Party planning to establish such a facility after entry into force of this Convention shall conclude a facility agreement with the Organization before the facility begins operation or is used.
+32.       Each State Party planning to establish such a facility after entry into force of this Convention shall conclude a facility agreement with the Organization before the facility begins operation or is used.
 
 PART VII
 
@@ -7351,21 +7289,21 @@ ACTIVITIES NOT PROHIBITED UNDER THIS CONVENTION IN ACCORDANCE WITH ARTICLE VI
 
 REGIME FOR SCHEDULE 2 CHEMICALS AND FACILITIES RELATED TO SUCH CHEMICALS
 
-A.  DECLARATIONS
+A.     DECLARATIONS
 
-Declarations of aggregate national data
+_Declarations of aggregate national data_
 
-1.      The initial and annual declarations to be provided by each State Party pursuant to Article VI, paragraphs 7 and 8, shall include aggregate national data for the previous calendar year on the quantities produced, processed, consumed, imported and exported of each Schedule 2 chemical, as well as a quantitative specification of import and export for each country involved.
+1.  The initial and annual declarations to be provided by each State Party pursuant to Article VI, paragraphs 7 and 8, shall include aggregate national data for the previous calendar year on the quantities produced, processed, consumed, imported and exported of each Schedule 2 chemical, as well as a quantitative specification of import and export for each country involved.
 
-2.      Each State Party shall submit:
+2.  Each State Party shall submit:
 
 (a)   initial declarations pursuant to paragraph 1 not later than 30 days after this Convention enters into force for it; and, starting in the following calendar year;
 
 (b)   annual declarations not later than 90 days after the end of the previous calendar year.
 
-Declarations of plant site producing, processing or consuming Schedule 2 chemicals
+_Declarations of plant site producing, processing or consuming Schedule 2 chemicals_
 
-3.      Initial and annual declarations are required for all plant sites that comprise one or more plant(s) which produced, processed or consumed during any of the previous three calendar years or is anticipated to produce, process or consume in the next calendar year more than:
+3.  Initial and annual declarations are required for all plant sites that comprise one or more plant(s) which produced, processed or consumed during any of the previous three calendar years or is anticipated to produce, process or consume in the next calendar year more than:
 
 (a)   1 kg of a chemical designated “* ” in Schedule 2, part A;
 
@@ -7373,7 +7311,7 @@ Declarations of plant site producing, processing or consuming Schedule 2 chemi
 
 (c)   1 tonne of a chemical listed in Schedule 2, part B.
 
-4.      Each State Party shall submit:
+4.  Each State Party shall submit:
 
 (a)   initial declarations pursuant to paragraph 3 not later than 30 days after this Convention enters into force for it; and, starting in the following calendar year;
 
@@ -7381,9 +7319,9 @@ Declarations of plant site producing, processing or consuming Schedule 2 chemi
 
 (c)   annual declarations on anticipated activities not later than 60 days before the beginning of the following calendar year. Any such activity additionally planned after the annual declaration has been submitted shall be declared not later than five days before this activity begins.
 
-5.      Declarations pursuant to paragraph 3 are generally not required for mixtures containing a low concentration of a Schedule 2 chemical. They are only required, in accordance with guidelines, in cases where the ease of recovery from the mixture of the Schedule 2 chemical and its total weight are deemed to pose a risk to the object and purpose of this Convention. These guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+5.  Declarations pursuant to paragraph 3 are generally not required for mixtures containing a low concentration of a Schedule 2 chemical. They are only required, in accordance with guidelines, in cases where the ease of recovery from the mixture of the Schedule 2 chemical and its total weight are deemed to pose a risk to the object and purpose of this Convention. These guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-6.      Declarations of a plant site pursuant to paragraph 3 shall include:
+6.  Declarations of a plant site pursuant to paragraph 3 shall include:
 
 (a)   the name of the plant site and the name of the owner, company, or enterprise operating it;
 
@@ -7391,7 +7329,7 @@ Declarations of plant site producing, processing or consuming Schedule 2 chemi
 
 (c)   the number of plants within the plant site which are declared pursuant to Part VIII of this Annex.
 
-7.      Declarations of a plant site pursuant to paragraph 3 shall also include, for each plant which is located within the plant site and which falls under the specifications set forth in paragraph 3, the following information:
+7.  Declarations of a plant site pursuant to paragraph 3 shall also include, for each plant which is located within the plant site and which falls under the specifications set forth in paragraph 3, the following information:
 
 (a)   the name of the plant and the name of the owner, company, or enterprise operating it;
 
@@ -7409,7 +7347,7 @@ Declarations of plant site producing, processing or consuming Schedule 2 chemi
 
 (e)   the production capacity of the plant for each declared Schedule 2 chemical.
 
-8.      Declarations of a plant site pursuant to paragraph 3 shall also include the following information on each Schedule 2 chemical above the declaration threshold:
+8.  Declarations of a plant site pursuant to paragraph 3 shall also include the following information on each Schedule 2 chemical above the declaration threshold:
 
 (a)   the chemical name, common or trade name used by the facility, structural formula, and Chemical Abstracts Service registry number, if assigned;
 
@@ -7429,11 +7367,11 @@ Declarations of plant site producing, processing or consuming Schedule 2 chemi
 
 (iv)  other, including a specification of these other purposes.
 
-Declarations on past production of Schedule 2 chemicals for chemical weapons purposes
+_Declarations on past production of Schedule 2 chemicals for chemical weapons purposes_
 
-9.      Each State Party shall, not later than 30 days after this Convention enters into force for it, declare all plant sites comprising plants that produced at any time since 1 January 1946 a Schedule 2 chemical for chemical weapons purposes.
+9.  Each State Party shall, not later than 30 days after this Convention enters into force for it, declare all plant sites comprising plants that produced at any time since 1 January 1946 a Schedule 2 chemical for chemical weapons purposes.
 
-10.    Declarations of a plant site pursuant to paragraph 9 shall include:
+10.  Declarations of a plant site pursuant to paragraph 9 shall include:
 
 (a)   the name of the plant site and the name of the owner, company, or enterprise operating it;
 
@@ -7449,15 +7387,15 @@ Declarations on past production of Schedule 2 chemicals for chemical weapons p
 
 (iii)  the location to which the chemical was delivered and the final product produced there, if known.
 
-Information to States Parties
+_Information to States Parties_
 
-11.    A list of plant sites declared under this Section together with the information provided under paragraphs 6, 7(a), 7(c), 7(d)(i), 7(d)(iii), 8(a) and 10 shall be transmitted by the Technical Secretariat to States Parties upon request.
+11.  A list of plant sites declared under this Section together with the information provided under paragraphs 6, 7(a), 7(c), 7(d)(i), 7(d)(iii), 8(a) and 10 shall be transmitted by the Technical Secretariat to States Parties upon request.
 
-B.   VERIFICATION
+B.     VERIFICATION
 
-General
+_General_
 
-12.    Verification provided for in Article VI, paragraph 4, shall be carried out through on‑site inspection at those of the declared plant sites that comprise one or more plants which produced, processed or consumed during any of the previous three calendar years or are anticipated to produce, process or consume in the next calendar year more than:
+12.  Verification provided for in Article VI, paragraph 4, shall be carried out through on‑site inspection at those of the declared plant sites that comprise one or more plants which produced, processed or consumed during any of the previous three calendar years or are anticipated to produce, process or consume in the next calendar year more than:
 
 (a)   10 kg of a chemical designated “* ” in Schedule 2, part A;
 
@@ -7465,13 +7403,13 @@ General
 
 (c)   10 tonnes of a chemical listed in Schedule 2, part B.
 
-13.    The programme and budget of the Organization to be adopted by the Conference pursuant to Article VIII, paragraph 21(a) shall contain, as a separate item, a programme and budget for verification under this Section. In the allocation of resources made available for verification under Article VI, the Technical Secretariat shall, during the first three years after the entry into force of this Convention, give priority to the initial inspections of plant sites declared under Section A. The allocation shall thereafter be reviewed on the basis of the experience gained.
+13.  The programme and budget of the Organization to be adopted by the Conference pursuant to Article VIII, paragraph 21(a) shall contain, as a separate item, a programme and budget for verification under this Section. In the allocation of resources made available for verification under Article VI, the Technical Secretariat shall, during the first three years after the entry into force of this Convention, give priority to the initial inspections of plant sites declared under Section A. The allocation shall thereafter be reviewed on the basis of the experience gained.
 
-14.    The Technical Secretariat shall conduct initial inspections and subsequent inspections in accordance with paragraphs 15 to 22.
+14.  The Technical Secretariat shall conduct initial inspections and subsequent inspections in accordance with paragraphs 15 to 22.
 
-Inspection aims
+_Inspection aims_
 
-15.    The general aim of inspections shall be to verify that activities are in accordance with obligations under this Convention and consistent with the information to be provided in declarations. Particular aims of inspections at plant sites declared under Section A shall include verification of:
+15.  The general aim of inspections shall be to verify that activities are in accordance with obligations under this Convention and consistent with the information to be provided in declarations. Particular aims of inspections at plant sites declared under Section A shall include verification of:
 
 (a)   the absence of any Schedule 1 chemical, especially its production, except if in accordance with Part VI of this Annex;
 
@@ -7479,13 +7417,13 @@ Inspection aims
 
 (c)   non‑diversion of Schedule 2 chemicals for activities prohibited under this Convention.
 
-Initial inspections
+_Initial inspections_
 
-16.    Each plant site to be inspected pursuant to paragraph 12 shall receive an initial inspection as soon as possible but preferably not later than three years after entry into force of this Convention. Plant sites declared after this period shall receive an initial inspection not later than one year after production, processing or consumption is first declared. Selection of plant sites for initial inspections shall be made by the Technical Secretariat in such a way as to preclude the prediction of precisely when the plant site is to be inspected.
+16.  Each plant site to be inspected pursuant to paragraph 12 shall receive an initial inspection as soon as possible but preferably not later than three years after entry into force of this Convention. Plant sites declared after this period shall receive an initial inspection not later than one year after production, processing or consumption is first declared. Selection of plant sites for initial inspections shall be made by the Technical Secretariat in such a way as to preclude the prediction of precisely when the plant site is to be inspected.
 
-17.    During the initial inspection, a draft facility agreement for the plant site shall be prepared unless the inspected State Party and the Technical Secretariat agree that it is not needed.
+17.  During the initial inspection, a draft facility agreement for the plant site shall be prepared unless the inspected State Party and the Technical Secretariat agree that it is not needed.
 
-18.    With regard to frequency and intensity of subsequent inspections, inspectors shall during the initial inspection assess the risk to the object and purpose of this Convention posed by the relevant chemicals, the characteristics of the plant site and the nature of the activities carried out there, taking into account, _inter alia_, the following criteria:
+18.  With regard to frequency and intensity of subsequent inspections, inspectors shall during the initial inspection assess the risk to the object and purpose of this Convention posed by the relevant chemicals, the characteristics of the plant site and the nature of the activities carried out there, taking into account, _inter alia_, the following criteria:
 
 (a)   the toxicity of the scheduled chemicals and of the end‑products produced with it, if any;
 
@@ -7497,29 +7435,29 @@ Initial inspections
 
 (e)   the capability and convertibility for initiating production, storage and filling of toxic chemicals at the inspected site.
 
-Inspections
+_Inspections_
 
-19.    Having received the initial inspection, each plant site to be inspected pursuant to paragraph 12 shall be subject to subsequent inspections.
+19.  Having received the initial inspection, each plant site to be inspected pursuant to paragraph 12 shall be subject to subsequent inspections.
 
-20.    In selecting particular plant sites for inspection and in deciding on the frequency and intensity of inspections, the Technical Secretariat shall give due consideration to the risk to the object and purpose of this Convention posed by the relevant chemical, the characteristics of the plant site and the nature of the activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections.
+20.  In selecting particular plant sites for inspection and in deciding on the frequency and intensity of inspections, the Technical Secretariat shall give due consideration to the risk to the object and purpose of this Convention posed by the relevant chemical, the characteristics of the plant site and the nature of the activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections.
 
-21.    The Technical Secretariat shall choose a particular plant site to be inspected in such a way as to preclude the prediction of exactly when it will be inspected.
+21.  The Technical Secretariat shall choose a particular plant site to be inspected in such a way as to preclude the prediction of exactly when it will be inspected.
 
-22.    No plant site shall receive more than two inspections per calendar year under the provisions of this Section. This, however, shall not limit inspections pursuant to Article IX.
+22.  No plant site shall receive more than two inspections per calendar year under the provisions of this Section. This, however, shall not limit inspections pursuant to Article IX.
 
-Inspection procedures
+_Inspection procedures_
 
-23.    In addition to agreed guidelines, other relevant provisions of this Annex and the Confidentiality Annex, paragraphs 24 to 30 below shall apply.
+23.  In addition to agreed guidelines, other relevant provisions of this Annex and the Confidentiality Annex, paragraphs 24 to 30 below shall apply.
 
-24.    A facility agreement for the declared plant site shall be concluded not later than 90 days after completion of the initial inspection between the inspected State Party and the Organization unless the inspected State Party and the Technical Secretariat agree that it is not needed. It shall be based on a model agreement and govern the conduct of inspections at the declared plant site. The agreement shall specify the frequency and intensity of inspections as well as detailed inspection procedures, consistent with paragraphs 25 to 29.
+24.  A facility agreement for the declared plant site shall be concluded not later than 90 days after completion of the initial inspection between the inspected State Party and the Organization unless the inspected State Party and the Technical Secretariat agree that it is not needed. It shall be based on a model agreement and govern the conduct of inspections at the declared plant site. The agreement shall specify the frequency and intensity of inspections as well as detailed inspection procedures, consistent with paragraphs 25 to 29.
 
-25.    The focus of the inspection shall be the declared Schedule 2 plant(s) within the declared plant site. If the inspection team requests access to other parts of the plant site, access to these areas shall be granted in accordance with the obligation to provide clarification pursuant to Part II, paragraph 51, of this Annex and in accordance with the facility agreement, or, in the absence of a facility agreement, in accordance with the rules of managed access as specified in Part X, Section C, of this Annex.
+25.  The focus of the inspection shall be the declared Schedule 2 plant(s) within the declared plant site. If the inspection team requests access to other parts of the plant site, access to these areas shall be granted in accordance with the obligation to provide clarification pursuant to Part II, paragraph 51, of this Annex and in accordance with the facility agreement, or, in the absence of a facility agreement, in accordance with the rules of managed access as specified in Part X, Section C, of this Annex.
 
-26.    Access to records shall be provided, as appropriate, to provide assurance that there has been no diversion of the declared chemical and that production has been consistent with declarations.
+26.  Access to records shall be provided, as appropriate, to provide assurance that there has been no diversion of the declared chemical and that production has been consistent with declarations.
 
-27.    Sampling and analysis shall be undertaken to check for the absence of undeclared schedule chemicals.
+27.  Sampling and analysis shall be undertaken to check for the absence of undeclared schedule chemicals.
 
-28.    Areas to be inspected may include:
+28.  Areas to be inspected may include:
 
 (a)   areas where feed chemicals (reactants) are delivered or stored;
 
@@ -7537,17 +7475,17 @@ Inspection procedures
 
 (h)   equipment and areas for disposition of chemicals not up to specification.
 
-29.    The period of inspection shall not last more than 96 hours; however, extensions may be agreed between the inspection team and the inspected State Party.
+29.  The period of inspection shall not last more than 96 hours; however, extensions may be agreed between the inspection team and the inspected State Party.
 
-Notification of inspection
+_Notification of inspection_
 
-30.    A State Party shall be notified by the Technical Secretariat of the inspection not less than 48 hours before the arrival of the inspection team at the plant site to be inspected.
+30.  A State Party shall be notified by the Technical Secretariat of the inspection not less than 48 hours before the arrival of the inspection team at the plant site to be inspected.
 
-C.   TRANSFERS TO STATES NOT PARTY TO THIS CONVENTION
+C.     TRANSFERS TO STATES NOT PARTY TO THIS CONVENTION
 
-31.    Schedule 2 chemicals shall only be transferred to or received from States Parties. This obligation shall take effect three years after entry into force of this Convention.
+31.  Schedule 2 chemicals shall only be transferred to or received from States Parties. This obligation shall take effect three years after entry into force of this Convention.
 
-32.    During this interim three‑year period, each State Party shall require an end‑use certificate, as specified below, for transfers of Schedule 2 chemicals to states not Party to this Convention. For such transfers, each State Party shall adopt the necessary measures to ensure that the transferred chemicals shall only be used for purposes not prohibited under this Convention. _Inter alia_, the State Party shall require from the recipient State a certificate stating, in relation to the transferred chemicals:
+32.  During this interim three‑year period, each State Party shall require an end‑use certificate, as specified below, for transfers of Schedule 2 chemicals to states not Party to this Convention. For such transfers, each State Party shall adopt the necessary measures to ensure that the transferred chemicals shall only be used for purposes not prohibited under this Convention. _Inter alia_, the State Party shall require from the recipient State a certificate stating, in relation to the transferred chemicals:
 
 (a)   that they will only be used for purposes not prohibited under this Convention;
 
@@ -7565,23 +7503,23 @@ ACTIVITIES NOT PROHIBITED UNDER THIS CONVENTION IN ACCORDANCE WITH ARTICLE VI
 
 REGIME FOR SCHEDULE 3 CHEMICALS AND FACILITIES RELATED TO SUCH CHEMICALS
 
-A.  DECLARATIONS
+A.     DECLARATIONS
 
-Declarations of aggregate national data
+_Declarations of aggregate national data_
 
-1.      The initial and annual declarations to be provided by a State Party pursuant to Article VI, paragraphs 7 and 8, shall include aggregate national data for the previous calendar year on the quantities produced, imported and exported of each Schedule 3 chemical, as well as a quantitative specification of import and export for each country involved.
+1.  The initial and annual declarations to be provided by a State Party pursuant to Article VI, paragraphs 7 and 8, shall include aggregate national data for the previous calendar year on the quantities produced, imported and exported of each Schedule 3 chemical, as well as a quantitative specification of import and export for each country involved.
 
-2.      Each State Party shall submit:
+2.  Each State Party shall submit:
 
 (a)   initial declarations pursuant to paragraph 1 not later than 30 days after this Convention enters into force for it, and, starting in the following calendar year,
 
 (b)   annual declarations not later than 90 days after the end of the previous calendar year.
 
-Declarations of plant sites producing Schedule 3 chemicals
+_Declarations of plant sites producing Schedule 3 chemicals_
 
-3.      Initial and annual declarations are required for all plant sites that comprise one or more plants which produced during the previous calendar year or are anticipated to produce in the next calendar year more than 30 tonnes of a Schedule 3 chemical.
+3.  Initial and annual declarations are required for all plant sites that comprise one or more plants which produced during the previous calendar year or are anticipated to produce in the next calendar year more than 30 tonnes of a Schedule 3 chemical.
 
-4.      Each State Party shall submit:
+4.  Each State Party shall submit:
 
 (a)   initial declarations pursuant to paragraph 3 not later than 30 days after this Convention enters into force for it; and, starting in the following calendar year;
 
@@ -7589,9 +7527,9 @@ Declarations of plant sites producing Schedule 3 chemicals
 
 (c)   annual declarations on anticipated activities not later than 60 days before the beginning of the following calendar year. Any such activity additionally planned after the annual declaration has been submitted shall be declared not later than five days before this activity begins.
 
-5.      Declarations pursuant to paragraph 3 are generally not required for mixtures containing a low concentration of a Schedule 3 chemical. They are only required, in accordance with guidelines, in such cases where the ease of recovery from the mixture of the Schedule 3 chemical and its total weight are deemed to pose a risk to the object and purpose of this Convention. These guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+5.  Declarations pursuant to paragraph 3 are generally not required for mixtures containing a low concentration of a Schedule 3 chemical. They are only required, in accordance with guidelines, in such cases where the ease of recovery from the mixture of the Schedule 3 chemical and its total weight are deemed to pose a risk to the object and purpose of this Convention. These guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-6.      Declarations of a plant site pursuant to paragraph 3 shall include:
+6.  Declarations of a plant site pursuant to paragraph 3 shall include:
 
 (a)   the name of the plant site and the name of the owner, company, or enterprise operating it;
 
@@ -7599,7 +7537,7 @@ Declarations of plant sites producing Schedule 3 chemicals
 
 (c)   the number of plants within the plant site which are declared pursuant to Part VII of this Annex.
 
-7.      Declarations of a plant site pursuant to paragraph 3 shall also include, for each plant which is located within the plant site and which falls under the specifications set forth in paragraph 3, the following information:
+7.  Declarations of a plant site pursuant to paragraph 3 shall also include, for each plant which is located within the plant site and which falls under the specifications set forth in paragraph 3, the following information:
 
 (a)   the name of the plant and the name of the owner, company, or enterprise operating it;
 
@@ -7607,7 +7545,7 @@ Declarations of plant sites producing Schedule 3 chemicals
 
 (c)   its main activities.
 
-8.      Declarations of a plant site pursuant to paragraph 3 shall also include the following information on each Schedule 3 chemical above the declaration threshold:
+8.  Declarations of a plant site pursuant to paragraph 3 shall also include the following information on each Schedule 3 chemical above the declaration threshold:
 
 (a)   the chemical name, common or trade name used by the facility, structural formula, and Chemical Abstracts Service registry number, if assigned;
 
@@ -7615,11 +7553,11 @@ Declarations of plant sites producing Schedule 3 chemicals
 
 (c)   the purposes for which the chemical was or will be produced.
 
-Declarations on past production of Schedule 3 chemicals for chemical weapons purposes
+_Declarations on past production of Schedule 3 chemicals for chemical weapons purposes_
 
-9.      Each State Party shall, not later than 30 days after this Convention enters into force for it, declare all plant sites comprising plants that produced at any time since 1 January 1946 a Schedule 3 chemical for chemical weapons purposes.
+9.  Each State Party shall, not later than 30 days after this Convention enters into force for it, declare all plant sites comprising plants that produced at any time since 1 January 1946 a Schedule 3 chemical for chemical weapons purposes.
 
-10.    Declarations of a plant site pursuant to paragraph 9 shall include:
+10.  Declarations of a plant site pursuant to paragraph 9 shall include:
 
 (a)   the name of the plant site and the name of the owner, company, or enterprise operating it;
 
@@ -7635,45 +7573,45 @@ Declarations on past production of Schedule 3 chemicals for chemical weapons p
 
 (iii)  the location to which the chemical was delivered and the final product produced there, if known.
 
-Information to States Parties
+_Information to States Parties_
 
-11.    A list of plant sites declared under this Section together with the information provided under paragraphs 6, 7(a), 7(c), 8(a) and 10 shall be transmitted by the Technical Secretariat to States Parties upon request.
+11.  A list of plant sites declared under this Section together with the information provided under paragraphs 6, 7(a), 7(c), 8(a) and 10 shall be transmitted by the Technical Secretariat to States Parties upon request.
 
-B.   VERIFICATION
+B.     VERIFICATION
 
-General
+_General_
 
-12.    Verification provided for in paragraph 5 of Article VI shall be carried out through on‑site inspections at those declared plant sites which produced during the previous calendar year or are anticipated to produce in the next calendar year in excess of 200 tonnes aggregate of any Schedule 3 chemical above the declaration threshold of 30 tonnes.
+12.  Verification provided for in paragraph 5 of Article VI shall be carried out through on‑site inspections at those declared plant sites which produced during the previous calendar year or are anticipated to produce in the next calendar year in excess of 200 tonnes aggregate of any Schedule 3 chemical above the declaration threshold of 30 tonnes.
 
-13.    The programme and budget of the Organization to be adopted by the Conference pursuant to Article VIII, paragraph 21(a), shall contain, as a separate item, a programme and budget for verification under this Section taking into account Part VII, paragraph 13, of this Annex.
+13.  The programme and budget of the Organization to be adopted by the Conference pursuant to Article VIII, paragraph 21(a), shall contain, as a separate item, a programme and budget for verification under this Section taking into account Part VII, paragraph 13, of this Annex.
 
-14.    Under this Section, the Technical Secretariat shall randomly select plant sites for inspection through appropriate mechanisms, such as the use of specially designed computer software, on the basis of the following weighting factors:
+14.  Under this Section, the Technical Secretariat shall randomly select plant sites for inspection through appropriate mechanisms, such as the use of specially designed computer software, on the basis of the following weighting factors:
 
 (a)   equitable geographical distribution of inspections; and
 
 (b)   the information on the declared plant sites available to the Technical Secretariat, related to the relevant chemical, the characteristics of the plant site and the nature of the activities carried out there.
 
-15.    No plant site shall receive more than two inspections per year under the provisions of this Section. This, however, shall not limit inspections pursuant to Article IX.
+15.  No plant site shall receive more than two inspections per year under the provisions of this Section. This, however, shall not limit inspections pursuant to Article IX.
 
-16.    In selecting plant sites for inspection under this Section, the Technical Secretariat shall observe the following limitation for the combined number of inspections to be received by a State Party per calendar year under this Part and Part IX of this Annex: the combined number of inspections shall not exceed three plus 5 per cent of the total number of plant sites declared by a State Party under both this Part and Part IX of this Annex, or 20 inspections, whichever of these two figures is lower.
+16.  In selecting plant sites for inspection under this Section, the Technical Secretariat shall observe the following limitation for the combined number of inspections to be received by a State Party per calendar year under this Part and Part IX of this Annex: the combined number of inspections shall not exceed three plus 5 per cent of the total number of plant sites declared by a State Party under both this Part and Part IX of this Annex, or 20 inspections, whichever of these two figures is lower.
 
-Inspection aims
+_Inspection aims_
 
-17.    At plant sites declared under Section A, the general aim of inspections shall be to verify that activities are consistent with the information to be provided in declarations. The particular aim of inspections shall be the verification of the absence of any Schedule 1 chemical, especially its production, except if in accordance with Part VI of this Annex.
+17.  At plant sites declared under Section A, the general aim of inspections shall be to verify that activities are consistent with the information to be provided in declarations. The particular aim of inspections shall be the verification of the absence of any Schedule 1 chemical, especially its production, except if in accordance with Part VI of this Annex.
 
-Inspection procedures
+_Inspection procedures_
 
-18.    In addition to agreed guidelines, other relevant provisions of this Annex and the Confidentiality Annex, paragraphs 19 to 25 below shall apply.
+18.  In addition to agreed guidelines, other relevant provisions of this Annex and the Confidentiality Annex, paragraphs 19 to 25 below shall apply.
 
-19.    There shall be no facility agreement, unless requested by the inspected State Party.
+19.  There shall be no facility agreement, unless requested by the inspected State Party.
 
-20.    The focus of the inspections shall be the declared Schedule 3 plant(s) within the declared plant site. If the inspection team, in accordance with Part II, paragraph 51, of this Annex, requests access to other parts of the plant site for clarification of ambiguities, the extent of such access shall be agreed between the inspection team and the inspected State Party.
+20.  The focus of the inspections shall be the declared Schedule 3 plant(s) within the declared plant site. If the inspection team, in accordance with Part II, paragraph 51, of this Annex, requests access to other parts of the plant site for clarification of ambiguities, the extent of such access shall be agreed between the inspection team and the inspected State Party.
 
-21.    The inspection team may have access to records in situations in which the inspection team and the inspected State Party agree that such access will assist in achieving the objectives of the inspection.
+21.  The inspection team may have access to records in situations in which the inspection team and the inspected State Party agree that such access will assist in achieving the objectives of the inspection.
 
-22.    Sampling and on‑site analysis may be undertaken to check for the absence of undeclared scheduled chemicals. In case of unresolved ambiguities, samples may be analysed in a designated off‑site laboratory, subject to the inspected State Party’s agreement.
+22.  Sampling and on‑site analysis may be undertaken to check for the absence of undeclared scheduled chemicals. In case of unresolved ambiguities, samples may be analysed in a designated off‑site laboratory, subject to the inspected State Party’s agreement.
 
-23.    Areas to be inspected may include:
+23.  Areas to be inspected may include:
 
 (a)   areas where feed chemicals (reactants) are delivered or stored;
 
@@ -7691,15 +7629,15 @@ Inspection procedures
 
 (h)   equipment and areas for disposition of chemicals not up to specification.
 
-24.    The period of inspection shall not last more than 24 hours; however, extensions may be agreed between the inspection team and the inspected State Party.
+24.  The period of inspection shall not last more than 24 hours; however, extensions may be agreed between the inspection team and the inspected State Party.
 
-Notification of inspection
+_Notification of inspection_
 
-25.    A State Party shall be notified by the Technical Secretariat of the inspection not less than 120 hours before the arrival of the inspection team at the plant site to be inspected.
+25.  A State Party shall be notified by the Technical Secretariat of the inspection not less than 120 hours before the arrival of the inspection team at the plant site to be inspected.
 
-C.   TRANSFERS TO STATES NOT PARTY TO THIS CONVENTION
+C.     TRANSFERS TO STATES NOT PARTY TO THIS CONVENTION
 
-26.    When transferring Schedule 3 chemicals to States not Party to this Convention, each State Party shall adopt the necessary measures to ensure that the transferred chemicals shall only be used for purposes not prohibited under this Convention. _Inter alia_, the State Party shall require from the recipient State a certificate stating, in relation to the transferred chemicals:
+26.  When transferring Schedule 3 chemicals to States not Party to this Convention, each State Party shall adopt the necessary measures to ensure that the transferred chemicals shall only be used for purposes not prohibited under this Convention. _Inter alia_, the State Party shall require from the recipient State a certificate stating, in relation to the transferred chemicals:
 
 (a)   that they will only be used for purposes not prohibited under this Convention;
 
@@ -7711,7 +7649,7 @@ C.   TRANSFERS TO STATES NOT PARTY TO THIS CONVENTION
 
 (e)   the name(s) and address(es) of the end‑user(s).
 
-27.    Five years after entry into force of this Convention, the Conference shall consider the need to establish other measures regarding transfers of Schedule 3 chemicals to States not Party to this Convention.
+27.  Five years after entry into force of this Convention, the Conference shall consider the need to establish other measures regarding transfers of Schedule 3 chemicals to States not Party to this Convention.
 
 PART IX
 
@@ -7719,21 +7657,21 @@ ACTIVITIES NOT PROHIBITED UNDER THIS CONVENTION IN ACCORDANCE WITH ARTICLE VI
 
 REGIME FOR OTHER CHEMICAL PRODUCTION FACILITIES
 
-A.  DECLARATIONS
+A.     DECLARATIONS
 
-List of other chemical production facilities
+_List of other chemical production facilities_
 
-1.      The initial declaration to be provided by each State Party pursuant to Article VI, paragraph 7, shall include a list of all plant sites that:
+1.  The initial declaration to be provided by each State Party pursuant to Article VI, paragraph 7, shall include a list of all plant sites that:
 
 (a)   produced by synthesis during the previous calendar year more than 200 tonnes of unscheduled discrete organic chemicals; or
 
 (b)   comprise one or more plants which produced by synthesis during the previous calendar year more than 30 tonnes of an unscheduled discrete organic chemical containing the elements phosphorus, sulfur or fluorine (hereinafter referred to as “PSF‑plants” and “PSF‑chemicals”).
 
-2.      The list of other chemical production facilities to be submitted pursuant to paragraph 1 shall not include plant sites that exclusively produced explosives or hydrocarbons.
+2.  The list of other chemical production facilities to be submitted pursuant to paragraph 1 shall not include plant sites that exclusively produced explosives or hydrocarbons.
 
-3.      Each State Party shall submit its list of other chemical production facilities pursuant to paragraph 1 as part of its initial declaration not later than 30 days after this Convention enters into force for it. Each State Party shall, not later than 90 days after the beginning of each following calendar year, provide annually the information necessary to update the list.
+3.  Each State Party shall submit its list of other chemical production facilities pursuant to paragraph 1 as part of its initial declaration not later than 30 days after this Convention enters into force for it. Each State Party shall, not later than 90 days after the beginning of each following calendar year, provide annually the information necessary to update the list.
 
-4.      The list of other chemical production facilities to be submitted pursuant to paragraph 1 shall include the following information on each plant site:
+4.  The list of other chemical production facilities to be submitted pursuant to paragraph 1 shall include the following information on each plant site:
 
 (a)   The name of the plant site and the name of the owner, company, or enterprise operating it;
 
@@ -7743,31 +7681,31 @@ List of other chemical production facilities
 
 (d)   The approximate number of plants producing the chemicals specified in paragraph 1 in the plant site.
 
-5.      With regard to plant sites listed pursuant to paragraph 1(a), the list shall also include information on the approximate aggregate amount of production of the unscheduled discrete organic chemicals in the previous calendar year expressed in the ranges: under 1,000 tonnes, 1,000 to 10,000 tonnes and above 10,000 tonnes.
+5.  With regard to plant sites listed pursuant to paragraph 1(a), the list shall also include information on the approximate aggregate amount of production of the unscheduled discrete organic chemicals in the previous calendar year expressed in the ranges: under 1,000 tonnes, 1,000 to 10,000 tonnes and above 10,000 tonnes.
 
-6.      With regard to plant sites listed pursuant to paragraph 1(b), the list shall also specify the number of PSF‑plants within the plant site and include information on the approximate aggregate amount of production of PSF‑chemicals produced by each PSF‑plant in the previous calendar year expressed in the ranges: under 200 tonnes, 200 to 1,000 tonnes, 1,000 to 10,000 tonnes and above 10,000 tonnes.
+6.  With regard to plant sites listed pursuant to paragraph 1(b), the list shall also specify the number of PSF‑plants within the plant site and include information on the approximate aggregate amount of production of PSF‑chemicals produced by each PSF‑plant in the previous calendar year expressed in the ranges: under 200 tonnes, 200 to 1,000 tonnes, 1,000 to 10,000 tonnes and above 10,000 tonnes.
 
-Assistance by the Technical Secretariat
+_Assistance by the Technical Secretariat_
 
-7.      If a State Party, for administrative reasons, deems it necessary to ask for assistance in compiling its list of chemical production facilities pursuant to paragraph 1, it may request the Technical Secretariat to provide such assistance. Questions as to the completeness of the list shall then be resolved through consultations between the State Party and the Technical Secretariat.
+7.  If a State Party, for administrative reasons, deems it necessary to ask for assistance in compiling its list of chemical production facilities pursuant to paragraph 1, it may request the Technical Secretariat to provide such assistance. Questions as to the completeness of the list shall then be resolved through consultations between the State Party and the Technical Secretariat.
 
-Information to States Parties
+_Information to States Parties_
 
-8.      The lists of other chemical production facilities submitted pursuant to paragraph 1, including the information provided under paragraph 4, shall be transmitted by the Technical Secretariat to States Parties upon request.
+8.  The lists of other chemical production facilities submitted pursuant to paragraph 1, including the information provided under paragraph 4, shall be transmitted by the Technical Secretariat to States Parties upon request.
 
-B.   VERIFICATION
+B.     VERIFICATION
 
-General
+_General_
 
-9.      Subject to the provisions of Section C, verification as provided for in Article VI, paragraph 6, shall be carried out through on‑site inspection at:
+9.  Subject to the provisions of Section C, verification as provided for in Article VI, paragraph 6, shall be carried out through on‑site inspection at:
 
 (a)   plant sites listed pursuant to paragraph 1(a); and
 
 (b)   plant sites listed pursuant to paragraph 1(b) that comprise one or more PSF‑plants which produced during the previous calendar year more than 200 tonnes of a PSF‑chemical.
 
-10.    The programme and budget of the Organization to be adopted by the Conference pursuant to Article VIII, paragraph 21(a), shall contain, as a separate item, a programme and budget for verification under this Section after its implementation has started.
+10.  The programme and budget of the Organization to be adopted by the Conference pursuant to Article VIII, paragraph 21(a), shall contain, as a separate item, a programme and budget for verification under this Section after its implementation has started.
 
-11.    Under this Section, the Technical Secretariat shall randomly select plant sites for inspection through appropriate mechanisms, such as the use of specially designed computer software, on the basis of the following weighting factors:
+11.  Under this Section, the Technical Secretariat shall randomly select plant sites for inspection through appropriate mechanisms, such as the use of specially designed computer software, on the basis of the following weighting factors:
 
 (a)   equitable geographical distribution of inspections;
 
@@ -7775,65 +7713,65 @@ General
 
 (c)   proposals by States Parties on a basis to be agreed upon in accordance with paragraph 25.
 
-12.    No plant site shall receive more than two inspections per year under the provisions of this Section. This, however, shall not limit inspections pursuant to Article IX.
+12.  No plant site shall receive more than two inspections per year under the provisions of this Section. This, however, shall not limit inspections pursuant to Article IX.
 
-13.    In selecting plant sites for inspection under this Section, the Technical Secretariat shall observe the following limitation for the combined number of inspections to be received by a State Party per calendar year under this Part and Part VIII of this Annex: the combined number of inspections shall not exceed three plus 5 per cent of the total number of plant sites declared by a State Party under both this Part and Part VIII of this Annex, or 20 inspections, whichever of these two figures is lower.
+13.  In selecting plant sites for inspection under this Section, the Technical Secretariat shall observe the following limitation for the combined number of inspections to be received by a State Party per calendar year under this Part and Part VIII of this Annex: the combined number of inspections shall not exceed three plus 5 per cent of the total number of plant sites declared by a State Party under both this Part and Part VIII of this Annex, or 20 inspections, whichever of these two figures is lower.
 
-Inspection aims
+_Inspection aims_
 
-14.    At plant sites listed under Section A, the general aim of inspections shall be to verify that activities are consistent with the information to be provided in declarations. The particular aim of inspections shall be the verification of the absence of any Schedule 1 chemical, especially its production, except if in accordance with Part VI of this Annex.
+14.  At plant sites listed under Section A, the general aim of inspections shall be to verify that activities are consistent with the information to be provided in declarations. The particular aim of inspections shall be the verification of the absence of any Schedule 1 chemical, especially its production, except if in accordance with Part VI of this Annex.
 
-Inspection procedures
+_Inspection procedures_
 
-15.    In addition to agreed guidelines, other relevant provisions of this Annex and the Confidentiality Annex, paragraphs 16 to 20 below shall apply.
+15.  In addition to agreed guidelines, other relevant provisions of this Annex and the Confidentiality Annex, paragraphs 16 to 20 below shall apply.
 
-16.    There shall be no facility agreement, unless requested by the inspected State Party.
+16.  There shall be no facility agreement, unless requested by the inspected State Party.
 
-17.    The focus of inspection at a plant site selected for inspection shall be the plant(s) producing the chemicals specified in paragraph 1, in particular the PSF‑plants listed pursuant to paragraph 1(b). The inspected State Party shall have the right to manage access to these plants in accordance with the rules of managed access as specified in Part X, Section C, of this Annex. If the inspection team, in accordance with Part II, paragraph 51, of this Annex, requests access to other parts of the plant site for clarification of ambiguities, the extent of such access shall be agreed between the inspection team and the inspected State Party.
+17.  The focus of inspection at a plant site selected for inspection shall be the plant(s) producing the chemicals specified in paragraph 1, in particular the PSF‑plants listed pursuant to paragraph 1(b). The inspected State Party shall have the right to manage access to these plants in accordance with the rules of managed access as specified in Part X, Section C, of this Annex. If the inspection team, in accordance with Part II, paragraph 51, of this Annex, requests access to other parts of the plant site for clarification of ambiguities, the extent of such access shall be agreed between the inspection team and the inspected State Party.
 
-18.    The inspection team may have access to records in situations in which the inspection team and the inspected State Party agree that such access will assist in achieving the objectives of the inspection.
+18.  The inspection team may have access to records in situations in which the inspection team and the inspected State Party agree that such access will assist in achieving the objectives of the inspection.
 
-19.    Sampling and on‑site analysis may be undertaken to check for the absence of undeclared scheduled chemicals. In cases of unresolved ambiguities, samples may be analysed in a designated off‑site laboratory, subject to the inspected State Party’s agreement.
+19.  Sampling and on‑site analysis may be undertaken to check for the absence of undeclared scheduled chemicals. In cases of unresolved ambiguities, samples may be analysed in a designated off‑site laboratory, subject to the inspected State Party’s agreement.
 
-20.    The period of inspection shall not last more than 24 hours; however, extensions may be agreed between the inspection team and the inspected State Party.
+20.  The period of inspection shall not last more than 24 hours; however, extensions may be agreed between the inspection team and the inspected State Party.
 
-Notification of Inspection
+_Notification of Inspection_
 
-21.    A State Party shall be notified by the Technical Secretariat of the inspection not less than 120 hours before the arrival of the inspection team at the plant site to be inspected.
+21.  A State Party shall be notified by the Technical Secretariat of the inspection not less than 120 hours before the arrival of the inspection team at the plant site to be inspected.
 
-C.   IMPLEMENTATION AND REVIEW OF SECTION B
+C.     IMPLEMENTATION AND REVIEW OF SECTION B
 
-Implementation
+_Implementation_
 
-22.    The implementation of Section B shall start at the beginning of the fourth year after entry into force of this Convention unless the Conference, at its regular session in the third year after entry into force of this Convention, decides otherwise.
+22.  The implementation of Section B shall start at the beginning of the fourth year after entry into force of this Convention unless the Conference, at its regular session in the third year after entry into force of this Convention, decides otherwise.
 
-23.    The Director‑General shall, for the regular session of the Conference in the third year after entry into force of this Convention, prepare a report which outlines the experience of the Technical Secretariat in implementing the provisions of Parts VII and VIII of this Annex as well as of Section A of this Part.
+23.  The Director‑General shall, for the regular session of the Conference in the third year after entry into force of this Convention, prepare a report which outlines the experience of the Technical Secretariat in implementing the provisions of Parts VII and VIII of this Annex as well as of Section A of this Part.
 
-24.    At its regular session in the third year after entry into force of this Convention, the Conference, on the basis of a report of the Director‑General, may also decide on the distribution of resources available for verification under Section B between “PSF‑plants” and other chemical production facilities. Otherwise, this distribution shall be left to the expertise of the Technical Secretariat and be added to the weighting factors in paragraph 11.
+24.  At its regular session in the third year after entry into force of this Convention, the Conference, on the basis of a report of the Director‑General, may also decide on the distribution of resources available for verification under Section B between “PSF‑plants” and other chemical production facilities. Otherwise, this distribution shall be left to the expertise of the Technical Secretariat and be added to the weighting factors in paragraph 11.
 
-25.    At its regular session in the third year after entry into force of this Convention, the Conference, upon advice of the Executive Council, shall decide on which basis (e.g. regional) proposals by States Parties for inspections should be presented to be taken into account as a weighting factor in the selection process specified in paragraph 11.
+25.  At its regular session in the third year after entry into force of this Convention, the Conference, upon advice of the Executive Council, shall decide on which basis (e.g. regional) proposals by States Parties for inspections should be presented to be taken into account as a weighting factor in the selection process specified in paragraph 11.
 
-Review
+_Review_
 
-26.    At the first special session of the Conference convened pursuant to Article VIII, paragraph 22, the provisions of this Part of the Verification Annex shall be re‑examined in the light of a comprehensive review of the overall verification regime for the chemical industry (Article VI, Parts VII to IX of this Annex) on the basis of the experience gained. The Conference shall then make recommendations so as to improve the effectiveness of the verification regime.
+26.  At the first special session of the Conference convened pursuant to Article VIII, paragraph 22, the provisions of this Part of the Verification Annex shall be re‑examined in the light of a comprehensive review of the overall verification regime for the chemical industry (Article VI, Parts VII to IX of this Annex) on the basis of the experience gained. The Conference shall then make recommendations so as to improve the effectiveness of the verification regime.
 
 PART X
 
 CHALLENGE INSPECTIONS PURSUANT TO ARTICLE IX
 
-A.  DESIGNATION AND SELECTION OF INSPECTORS AND INSPECTION ASSISTANTS
+A.     DESIGNATION AND SELECTION OF INSPECTORS AND INSPECTION ASSISTANTS
 
-1.      Challenge inspections pursuant to Article IX shall only be performed by inspectors and inspection assistants especially designated for this function. In order to designate inspectors and inspection assistants for challenge inspections pursuant to Article IX, the Director‑General shall, by selecting inspectors and inspection assistants from among the inspectors and inspection assistants for routine inspection activities, establish a list of proposed inspectors and inspection assistants. It shall comprise a sufficiently large number of inspectors and inspection assistants having the necessary qualification, experience, skill and training, to allow for flexibility in the selection of the inspectors, taking into account their availability, and the need for rotation. Due regard shall be paid also to the importance of selecting inspectors and inspection assistants on as wide a geographical basis as possible. The designation of inspectors and inspection assistants shall follow the procedures provided for under Part II, Section A, of this Annex.
+1.  Challenge inspections pursuant to Article IX shall only be performed by inspectors and inspection assistants especially designated for this function. In order to designate inspectors and inspection assistants for challenge inspections pursuant to Article IX, the Director‑General shall, by selecting inspectors and inspection assistants from among the inspectors and inspection assistants for routine inspection activities, establish a list of proposed inspectors and inspection assistants. It shall comprise a sufficiently large number of inspectors and inspection assistants having the necessary qualification, experience, skill and training, to allow for flexibility in the selection of the inspectors, taking into account their availability, and the need for rotation. Due regard shall be paid also to the importance of selecting inspectors and inspection assistants on as wide a geographical basis as possible. The designation of inspectors and inspection assistants shall follow the procedures provided for under Part II, Section A, of this Annex.
 
-2.      The Director‑General shall determine the size of the inspection team and select its members taking into account the circumstances of a particular request. The size of the inspection team shall be kept to a minimum necessary for the proper fulfilment of the inspection mandate. No national of the requesting State Party or the inspected State Party shall be a member of the inspection team.
+2.  The Director‑General shall determine the size of the inspection team and select its members taking into account the circumstances of a particular request. The size of the inspection team shall be kept to a minimum necessary for the proper fulfilment of the inspection mandate. No national of the requesting State Party or the inspected State Party shall be a member of the inspection team.
 
-B.   PRE‑INSPECTION ACTIVITIES
+B.     PRE‑INSPECTION ACTIVITIES
 
-3.      Before submitting the inspection request for a challenge inspection, the State Party may seek confirmation from the Director‑General that the Technical Secretariat is in a position to take immediate action on the request. If the Director‑General cannot provide such confirmation immediately, he shall do so at the earliest opportunity, in keeping with the order of requests for confirmation. He shall also keep the State Party informed of when it is likely that immediate action can be taken. Should the Director‑General reach the conclusion that timely action on requests can no longer be taken, he may ask the Executive Council to take appropriate action to improve the situation in the future.
+3.  Before submitting the inspection request for a challenge inspection, the State Party may seek confirmation from the Director‑General that the Technical Secretariat is in a position to take immediate action on the request. If the Director‑General cannot provide such confirmation immediately, he shall do so at the earliest opportunity, in keeping with the order of requests for confirmation. He shall also keep the State Party informed of when it is likely that immediate action can be taken. Should the Director‑General reach the conclusion that timely action on requests can no longer be taken, he may ask the Executive Council to take appropriate action to improve the situation in the future.
 
-Notification
+_Notification_
 
-4.      The inspection request for a challenge inspection to be submitted to the Executive Council and the Director‑General shall contain at least the following information:
+4.  The inspection request for a challenge inspection to be submitted to the Executive Council and the Director‑General shall contain at least the following information:
 
 (a)   the State Party to be inspected and, if applicable, the Host State;
 
@@ -7847,13 +7785,13 @@ Notification
 
 The requesting State Party may submit any additional information it deems necessary.
 
-5.      The Director‑General shall within one hour acknowledge to the requesting State Party receipt of its request.
+5.  The Director‑General shall within one hour acknowledge to the requesting State Party receipt of its request.
 
-6.      The requesting State Party shall notify the Director‑General of the location of the inspection site in due time for the Director‑General to be able to provide this information to the inspected State Party not less than 12 hours before the planned arrival of the inspection team at the point of entry.
+6.  The requesting State Party shall notify the Director‑General of the location of the inspection site in due time for the Director‑General to be able to provide this information to the inspected State Party not less than 12 hours before the planned arrival of the inspection team at the point of entry.
 
-7.      The inspection site shall be designated by the requesting State Party as specifically as possible by providing a site diagram related to a reference point with geographic coordinates, specified to the nearest second if possible. If possible, the requesting State Party shall also provide a map with a general indication of the inspection site and a diagram specifying as precisely as possible the requested perimeter of the site to be inspected.
+7.  The inspection site shall be designated by the requesting State Party as specifically as possible by providing a site diagram related to a reference point with geographic coordinates, specified to the nearest second if possible. If possible, the requesting State Party shall also provide a map with a general indication of the inspection site and a diagram specifying as precisely as possible the requested perimeter of the site to be inspected.
 
-8.      The requested perimeter shall:
+8.  The requested perimeter shall:
 
 (a)   run at least a 10 metre distance outside any buildings or other structures;
 
@@ -7861,31 +7799,31 @@ The requesting State Party may submit any additional information it deems necess
 
 (c)   run at least a 10 metre distance outside any existing security enclosures that the requesting State Party intends to include within the requested perimeter.
 
-9.      If the requested perimeter does not conform with the specifications of paragraph 8, it shall be redrawn by the inspection team so as to conform with that provision.
+9.  If the requested perimeter does not conform with the specifications of paragraph 8, it shall be redrawn by the inspection team so as to conform with that provision.
 
-10.    The Director‑General shall, not less than 12 hours before the planned arrival of the inspection team at the point of entry, inform the Executive Council about the location of the inspection site as specified in paragraph 7.
+10.  The Director‑General shall, not less than 12 hours before the planned arrival of the inspection team at the point of entry, inform the Executive Council about the location of the inspection site as specified in paragraph 7.
 
-11.    Contemporaneously with informing the Executive Council according to paragraph 10, the Director‑General shall transmit the inspection request to the inspected State Party including the location of the inspection site as specified in paragraph 7\. This notification shall also include the information specified in Part II, paragraph 32, of this Annex.
+11.  Contemporaneously with informing the Executive Council according to paragraph 10, the Director‑General shall transmit the inspection request to the inspected State Party including the location of the inspection site as specified in paragraph 7\. This notification shall also include the information specified in Part II, paragraph 32, of this Annex.
 
-12.    Upon arrival of the inspection team at the point of entry, the inspected State Party shall be informed by the inspection team of the inspection mandate.
+12.  Upon arrival of the inspection team at the point of entry, the inspected State Party shall be informed by the inspection team of the inspection mandate.
 
-Entry into the territory of the inspected State Party or the Host State
+_Entry into the territory of the inspected State Party or the   Host State_
 
-13.    The Director‑General shall, in accordance with Article IX, paragraphs 13 to 18, dispatch an inspection team as soon as possible after an inspection request has been received. The inspection team shall arrive at the point of entry specified in the request in the minimum time possible, consistent with the provisions of paragraphs 10 and 11.
+13.  The Director‑General shall, in accordance with Article IX, paragraphs 13 to 18, dispatch an inspection team as soon as possible after an inspection request has been received. The inspection team shall arrive at the point of entry specified in the request in the minimum time possible, consistent with the provisions of paragraphs 10 and 11.
 
-14.    If the requested perimeter is acceptable to the inspected State Party, it shall be designated as the final perimeter as early as possible, but in no case later than 24 hours after the arrival of the inspection team at the point of entry. The inspected State Party shall transport the inspection team to the final perimeter of the inspection site. If the inspected State Party deems it necessary, such transportation may begin up to 12 hours before the expiry of the time period specified in this paragraph for the designation of the final perimeter. Transportation shall, in any case, be completed not later than 36 hours after the arrival of the inspection team at the point of entry.
+14.  If the requested perimeter is acceptable to the inspected State Party, it shall be designated as the final perimeter as early as possible, but in no case later than 24 hours after the arrival of the inspection team at the point of entry. The inspected State Party shall transport the inspection team to the final perimeter of the inspection site. If the inspected State Party deems it necessary, such transportation may begin up to 12 hours before the expiry of the time period specified in this paragraph for the designation of the final perimeter. Transportation shall, in any case, be completed not later than 36 hours after the arrival of the inspection team at the point of entry.
 
-15.    For all declared facilities, the procedures in subparagraphs (a) and (b) shall apply. (For the purposes of this Part, “declared facility” means all facilities declared pursuant to Article III, IV, and V. With regard to Article VI, “declared facility” means only facilities declared pursuant to Part VI of this Annex, as well as declared plants specified by declarations pursuant to Part VII, paragraphs 7 and 10(c), and Part VIII, paragraphs 7 and 10(c), of this Annex.)
+15.  For all declared facilities, the procedures in subparagraphs (a) and (b) shall apply. (For the purposes of this Part, “declared facility” means all facilities declared pursuant to Article III, IV, and V. With regard to Article VI, “declared facility” means only facilities declared pursuant to Part VI of this Annex, as well as declared plants specified by declarations pursuant to Part VII, paragraphs 7 and 10(c), and Part VIII, paragraphs 7 and 10(c), of this Annex.)
 
 (a)   if the requested perimeter is contained within or conforms with the declared perimeter, the declared perimeter shall be considered the final perimeter. The final perimeter may, however, if agreed by the inspected State Party, be made smaller in order to conform with the perimeter requested by the requesting State Party.
 
 (b)   the inspected State Party shall transport the inspection team to the final perimeter as soon as practicable, but in any case shall ensure their arrival at the perimeter not later than 24 hours after the arrival of the inspection team at the point of entry.
 
-Alternative determination of final perimeter
+_Alternative determination of final perimeter_
 
-16.    At the point of entry, if the inspected State Party cannot accept the requested perimeter, it shall propose an alternative perimeter as soon as possible, but in any case not later than 24 hours after the arrival of the inspection team at the point of entry. In case of differences of opinion, the inspected State Party and the inspection team shall engage in negotiations with the aim of reaching agreement on a final perimeter.
+16.  At the point of entry, if the inspected State Party cannot accept the requested perimeter, it shall propose an alternative perimeter as soon as possible, but in any case not later than 24 hours after the arrival of the inspection team at the point of entry. In case of differences of opinion, the inspected State Party and the inspection team shall engage in negotiations with the aim of reaching agreement on a final perimeter.
 
-17.    The alternative perimeter should be designated as specifically as possible in accordance with paragraph 8\. It shall include the whole of the requested perimeter and should, as a rule, bear a close relationship to the latter, taking into account natural terrain features and man‑made boundaries. It should normally run close to the surrounding security barrier if such a barrier exists. The inspected State Party should seek to establish such a relationship between the perimeters by a combination of at least two of the following means:
+17.  The alternative perimeter should be designated as specifically as possible in accordance with paragraph 8\. It shall include the whole of the requested perimeter and should, as a rule, bear a close relationship to the latter, taking into account natural terrain features and man‑made boundaries. It should normally run close to the surrounding security barrier if such a barrier exists. The inspected State Party should seek to establish such a relationship between the perimeters by a combination of at least two of the following means:
 
 (a)   an alternative perimeter that does not extend to an area significantly greater than that of the requested perimeter;
 
@@ -7893,29 +7831,29 @@ Alternative determination of final perimeter
 
 (c)   at least part of the requested perimeter is visible from the alternative perimeter.
 
-18.    If the alternative perimeter is acceptable to the inspection team, it shall become the final perimeter and the inspection team shall be transported from the point of entry to that perimeter. If the inspected State Party deems it necessary, such transportation may begin up to 12 hours before the expiry of the time period specified in paragraph 16 for proposing an alternative perimeter. Transportation shall, in any case, be completed not later than 36 hours after the arrival of the inspection team at the point of entry.
+18.  If the alternative perimeter is acceptable to the inspection team, it shall become the final perimeter and the inspection team shall be transported from the point of entry to that perimeter. If the inspected State Party deems it necessary, such transportation may begin up to 12 hours before the expiry of the time period specified in paragraph 16 for proposing an alternative perimeter. Transportation shall, in any case, be completed not later than 36 hours after the arrival of the inspection team at the point of entry.
 
-19.    If a final perimeter is not agreed, the perimeter negotiations shall be concluded as early as possible, but in no case shall they continue more than 24 hours after the arrival of the inspection team at the point of entry. If no agreement is reached, the inspected State Party shall transport the inspection team to a location at the alternative perimeter. If the inspected State Party deems it necessary, such transportation may begin up to 12 hours before the expiry of the time period specified in paragraph 16 for proposing an alternative perimeter. Transportation shall, in any case, be completed not later than 36 hours after the arrival of the inspection team at the point of entry.
+19.  If a final perimeter is not agreed, the perimeter negotiations shall be concluded as early as possible, but in no case shall they continue more than 24 hours after the arrival of the inspection team at the point of entry. If no agreement is reached, the inspected State Party shall transport the inspection team to a location at the alternative perimeter. If the inspected State Party deems it necessary, such transportation may begin up to 12 hours before the expiry of the time period specified in paragraph 16 for proposing an alternative perimeter. Transportation shall, in any case, be completed not later than 36 hours after the arrival of the inspection team at the point of entry.
 
-20.    Once at the location, the inspected State Party shall provide the inspection team with prompt access to the alternative perimeter to facilitate negotiations and agreement on the final perimeter and access within the final perimeter.
+20.  Once at the location, the inspected State Party shall provide the inspection team with prompt access to the alternative perimeter to facilitate negotiations and agreement on the final perimeter and access within the final perimeter.
 
-21.    If no agreement is reached within 72 hours after the arrival of the inspection team at the location, the alternative perimeter shall be designated the final perimeter.
+21.  If no agreement is reached within 72 hours after the arrival of the inspection team at the location, the alternative perimeter shall be designated the final perimeter.
 
-Verification of location
+_Verification of location_
 
-22.    To help establish that the inspection site to which the inspection team has been transported corresponds to the inspection site specified by the requesting State Party, the inspection team shall have the right to use approved location‑finding equipment and have such equipment installed according to its directions. The inspection team may verify its location by reference to local landmarks identified from maps. The inspected State Party shall assist the inspection team in this task.
+22.  To help establish that the inspection site to which the inspection team has been transported corresponds to the inspection site specified by the requesting State Party, the inspection team shall have the right to use approved location‑finding equipment and have such equipment installed according to its directions. The inspection team may verify its location by reference to local landmarks identified from maps. The inspected State Party shall assist the inspection team in this task.
 
-Securing the site, exit monitoring
+_Securing the site, exit monitoring_
 
-23.    Not later than 12 hours after the arrival of the inspection team at the point of entry, the inspected State Party shall begin collecting factual information of all vehicular exit activity from all exit points for all land, air, and water vehicles of the requested perimeter. It shall provide this information to the inspection team upon its arrival at the alternative or final perimeter, whichever occurs first.
+23.  Not later than 12 hours after the arrival of the inspection team at the point of entry, the inspected State Party shall begin collecting factual information of all vehicular exit activity from all exit points for all land, air, and water vehicles of the requested perimeter. It shall provide this information to the inspection team upon its arrival at the alternative or final perimeter, whichever occurs first.
 
-24.    This obligation may be met by collecting factual information in the form of traffic logs, photographs, video recordings, or data from chemical evidence equipment provided by the inspection team to monitor such exit activity. Alternatively, the inspected State Party may also meet this obligation by allowing one or more members of the inspection team independently to maintain traffic logs, take photographs, make video recordings of exit traffic, or use chemical evidence equipment, and conduct other activities as may be agreed between the inspected State Party and the inspection team.
+24.  This obligation may be met by collecting factual information in the form of traffic logs, photographs, video recordings, or data from chemical evidence equipment provided by the inspection team to monitor such exit activity. Alternatively, the inspected State Party may also meet this obligation by allowing one or more members of the inspection team independently to maintain traffic logs, take photographs, make video recordings of exit traffic, or use chemical evidence equipment, and conduct other activities as may be agreed between the inspected State Party and the inspection team.
 
-25.    Upon the inspection team's arrival at the alternative perimeter or final perimeter, whichever occurs first, securing the site, which means exit monitoring procedures by the inspection team, shall begin.
+25.  Upon the inspection team's arrival at the alternative perimeter or final perimeter, whichever occurs first, securing the site, which means exit monitoring procedures by the inspection team, shall begin.
 
-26.    Such procedures shall include: the identification of vehicular exits, the making of traffic logs, the taking of photographs, and the making of video recordings by the inspection team of exits and exit traffic. The inspection team has the right to go, under escort, to any other part of the perimeter to check that there is no other exit activity.
+26.  Such procedures shall include: the identification of vehicular exits, the making of traffic logs, the taking of photographs, and the making of video recordings by the inspection team of exits and exit traffic. The inspection team has the right to go, under escort, to any other part of the perimeter to check that there is no other exit activity.
 
-27.    Additional procedures for exit monitoring activities as agreed upon by the inspection team and the inspected State Party may include, _inter alia_:
+27.  Additional procedures for exit monitoring activities as agreed upon by the inspection team and the inspected State Party may include, _inter alia_:
 
 (a)   use of sensors;
 
@@ -7923,27 +7861,27 @@ Securing the site, exit monitoring
 
 (c)   sample analysis.
 
-28.    All activities for securing the site and exit monitoring shall take place within a band around the outside of the perimeter, not exceeding 50 metres in width, measured outward.
+28.  All activities for securing the site and exit monitoring shall take place within a band around the outside of the perimeter, not exceeding 50 metres in width, measured outward.
 
-29.    The inspection team has the right to inspect on a managed access basis vehicular traffic exiting the site. The inspected State Party shall make every reasonable effort to demonstrate to the inspection team that any vehicle, subject to inspection, to which the inspection team is not granted full access, is not being used for purposes related to the possible non‑compliance concerns raised in the inspection request.
+29.  The inspection team has the right to inspect on a managed access basis vehicular traffic exiting the site. The inspected State Party shall make every reasonable effort to demonstrate to the inspection team that any vehicle, subject to inspection, to which the inspection team is not granted full access, is not being used for purposes related to the possible non‑compliance concerns raised in the inspection request.
 
-30.    Personnel and vehicles entering and personnel and personal passenger vehicles exiting the site are not subject to inspection.
+30.  Personnel and vehicles entering and personnel and personal passenger vehicles exiting the site are not subject to inspection.
 
-31.    The application of the above procedures may continue for the duration of the inspection, but may not unreasonable hamper or delay the normal operation of the facility.
+31.  The application of the above procedures may continue for the duration of the inspection, but may not unreasonable hamper or delay the normal operation of the facility.
 
-Pre‑inspection briefing and inspection plan
+_Pre‑inspection briefing and inspection plan_
 
-32.    To facilitate development of an inspection plan, the inspected State Party shall provide a safety and logistical briefing to the inspection team prior to access.
+32.  To facilitate development of an inspection plan, the inspected State Party shall provide a safety and logistical briefing to the inspection team prior to access.
 
-33.    The pre‑inspection briefing shall be held in accordance with Part II, paragraph 37, of this Annex. In the course of the pre‑inspection briefing, the inspected State Party may indicate to the inspection team the equipment, documentation, or areas it considers sensitive and not related to the purpose of the challenge inspection. In addition, personnel, responsible for the site, shall brief the inspection team on the physical layout and other relevant characteristics of the site. The inspection team shall be provided with a map or sketch drawn to scale showing all structures and significant geographic features at the site. The inspection team shall also be briefed on the availability of facility personnel and records.
+33.  The pre‑inspection briefing shall be held in accordance with Part II, paragraph 37, of this Annex. In the course of the pre‑inspection briefing, the inspected State Party may indicate to the inspection team the equipment, documentation, or areas it considers sensitive and not related to the purpose of the challenge inspection. In addition, personnel, responsible for the site, shall brief the inspection team on the physical layout and other relevant characteristics of the site. The inspection team shall be provided with a map or sketch drawn to scale showing all structures and significant geographic features at the site. The inspection team shall also be briefed on the availability of facility personnel and records.
 
-34.    After the pre‑inspection briefing, the inspection team shall prepare, on the basis of the information available and appropriate to it, an initial inspection plan which specifies the activities to be carried out by the inspection team, including the specific areas of the site to which access is desired. The inspection plan shall also specify whether the inspection team will be divided into subgroups. The inspection plan shall be made available to the representatives of the inspected State Party and the inspection site. Its implementation shall be consistent with the provisions of Section C, including those related to access and activities.
+34.  After the pre‑inspection briefing, the inspection team shall prepare, on the basis of the information available and appropriate to it, an initial inspection plan which specifies the activities to be carried out by the inspection team, including the specific areas of the site to which access is desired. The inspection plan shall also specify whether the inspection team will be divided into subgroups. The inspection plan shall be made available to the representatives of the inspected State Party and the inspection site. Its implementation shall be consistent with the provisions of Section C, including those related to access and activities.
 
-Perimeter activities
+_Perimeter activities_
 
-35.    Upon the inspection team's arrival at the final or alternative perimeter, whichever occurs first, the team shall have the right to commence immediately perimeter activities in accordance with the procedures set forth under this Section, and to continue these activities until the completion of the challenge inspection.
+35.  Upon the inspection team's arrival at the final or alternative perimeter, whichever occurs first, the team shall have the right to commence immediately perimeter activities in accordance with the procedures set forth under this Section, and to continue these activities until the completion of the challenge inspection.
 
-36.    In conducting the perimeter activities, the inspection team shall have the right to:
+36.  In conducting the perimeter activities, the inspection team shall have the right to:
 
 (a)   use monitoring instruments in accordance with Part II, paragraphs 27 to 30, of this Annex;
 
@@ -7951,35 +7889,35 @@ Perimeter activities
 
 (c)   conduct any additional activities which may be agreed between the inspection team and the inspected State Party.
 
-37.    The perimeter activities of the inspection team may be conducted within a band around the outside of the perimeter up to 50 metres in width measured outward from the perimeter. If the inspected State Party agrees, the inspection team may also have access to any building or structure within the perimeter band. All directional monitoring shall be oriented inward. For declared facilities, at the discretion of the inspected State Party, the band could run inside, outside, or on both sides of the declared perimeter.
+37.  The perimeter activities of the inspection team may be conducted within a band around the outside of the perimeter up to 50 metres in width measured outward from the perimeter. If the inspected State Party agrees, the inspection team may also have access to any building or structure within the perimeter band. All directional monitoring shall be oriented inward. For declared facilities, at the discretion of the inspected State Party, the band could run inside, outside, or on both sides of the declared perimeter.
 
-C.   CONDUCT OF INSPECTIONS
+C.     CONDUCT OF INSPECTIONS
 
-General rules
+_General rules_
 
-38.    The inspected State Party shall provide access within the requested perimeter as well as, if different, the final perimeter. The extent and nature of access to a particular place or places within these perimeters shall be negotiated between the inspection team and the inspected State Party on a managed access basis.
+38.  The inspected State Party shall provide access within the requested perimeter as well as, if different, the final perimeter. The extent and nature of access to a particular place or places within these perimeters shall be negotiated between the inspection team and the inspected State Party on a managed access basis.
 
-39.    The inspected State Party shall provide access within the requested perimeter as soon as possible, but in any case not later than 108 hours after the arrival of the inspection team at the point of entry in order to clarify the concern regarding possible non‑compliance with this Convention raised in the inspection request.
+39.  The inspected State Party shall provide access within the requested perimeter as soon as possible, but in any case not later than 108 hours after the arrival of the inspection team at the point of entry in order to clarify the concern regarding possible non‑compliance with this Convention raised in the inspection request.
 
-40.    Upon the request of the inspection team, the inspected State Party may provide aerial access to the inspection site.
+40.  Upon the request of the inspection team, the inspected State Party may provide aerial access to the inspection site.
 
-41.    In meeting the requirement to provide access as specified in paragraph 38, the inspected State Party shall be under the obligation to allow the greatest degree of access taking into account any constitutional obligations it may have with regard to proprietary rights or searches and seizures. The inspected State Party has the right under managed access to take such measures as are necessary to protect national security. The provisions in this paragraph may not be invoked by the inspected State Party to conceal evasion of its obligations not to engage in activities prohibited under this Convention.
+41.  In meeting the requirement to provide access as specified in paragraph 38, the inspected State Party shall be under the obligation to allow the greatest degree of access taking into account any constitutional obligations it may have with regard to proprietary rights or searches and seizures. The inspected State Party has the right under managed access to take such measures as are necessary to protect national security. The provisions in this paragraph may not be invoked by the inspected State Party to conceal evasion of its obligations not to engage in activities prohibited under this Convention.
 
-42.    If the inspected State Party provides less than full access to places, activities, or information, it shall be under the obligation to make every reasonable effort to provide alternative means to clarify the possible non‑compliance concern that generated the challenge inspection.
+42.  If the inspected State Party provides less than full access to places, activities, or information, it shall be under the obligation to make every reasonable effort to provide alternative means to clarify the possible non‑compliance concern that generated the challenge inspection.
 
-43.    Upon arrival at the final perimeter of facilities declared pursuant to Articles IV, V and VI, access shall be granted following the pre‑inspection briefing and discussion of the inspection plan which shall be limited to the minimum necessary and in any event shall not exceed three hours. For facilities declared pursuant to Article III, paragraph 1(d), negotiations shall be conducted and managed access commenced not later than 12 hours after arrival at the final perimeter.
+43.  Upon arrival at the final perimeter of facilities declared pursuant to Articles IV, V and VI, access shall be granted following the pre‑inspection briefing and discussion of the inspection plan which shall be limited to the minimum necessary and in any event shall not exceed three hours. For facilities declared pursuant to Article III, paragraph 1(d), negotiations shall be conducted and managed access commenced not later than 12 hours after arrival at the final perimeter.
 
-44.    In carrying out the challenge inspection in accordance with the inspection request, the inspection team shall use only those methods necessary to provide sufficient relevant facts to clarify the concern about possible non‑compliance with the provisions of this Convention, and shall refrain from activities not relevant thereto. It shall collect and document such facts as are related to the possible non‑compliance with this Convention by the inspected State Party, but shall neither seek nor document information which is clearly not related thereto, unless the inspected State Party expressly requests it to do so. Any material collected and subsequently found not to be relevant shall not be retained.
+44.  In carrying out the challenge inspection in accordance with the inspection request, the inspection team shall use only those methods necessary to provide sufficient relevant facts to clarify the concern about possible non‑compliance with the provisions of this Convention, and shall refrain from activities not relevant thereto. It shall collect and document such facts as are related to the possible non‑compliance with this Convention by the inspected State Party, but shall neither seek nor document information which is clearly not related thereto, unless the inspected State Party expressly requests it to do so. Any material collected and subsequently found not to be relevant shall not be retained.
 
-45.    The inspection team shall be guided by the principle of conducting the challenge inspection in the least intrusive manner possible, consistent with the effective and timely accomplishment of its mission. Wherever possible, it shall begin with the least intrusive procedures it deems acceptable and proceed to more intrusive procedures only as it deems necessary.
+45.  The inspection team shall be guided by the principle of conducting the challenge inspection in the least intrusive manner possible, consistent with the effective and timely accomplishment of its mission. Wherever possible, it shall begin with the least intrusive procedures it deems acceptable and proceed to more intrusive procedures only as it deems necessary.
 
-Managed access
+_Managed access_
 
-46.    The inspection team shall take into consideration suggested modifications of the inspection plan and proposals which may be made by the inspected State Party, at whatever stage of the inspection including the pre‑inspection briefing, to ensure that sensitive equipment, information or areas, not related to chemical weapons, are protected.
+46.  The inspection team shall take into consideration suggested modifications of the inspection plan and proposals which may be made by the inspected State Party, at whatever stage of the inspection including the pre‑inspection briefing, to ensure that sensitive equipment, information or areas, not related to chemical weapons, are protected.
 
-47.    The inspected State Party shall designate the perimeter entry/exit points to be used for access. The inspection team and the inspected State Party shall negotiate: the extent of access to any particular place or places within the final and requested perimeters as provided in paragraph 48; the particular inspection activities, including sampling, to be conducted by the inspection team; the performance of particular activities by the inspected State Party; and the provision of particular information by the inspected State Party.
+47.  The inspected State Party shall designate the perimeter entry/exit points to be used for access. The inspection team and the inspected State Party shall negotiate: the extent of access to any particular place or places within the final and requested perimeters as provided in paragraph 48; the particular inspection activities, including sampling, to be conducted by the inspection team; the performance of particular activities by the inspected State Party; and the provision of particular information by the inspected State Party.
 
-48.    In conformity with the relevant provisions in the Confidentiality Annex the inspected State Party shall have the right to take measures to protect sensitive installations and prevent disclosure of confidential information and data not related to chemical weapons. Such measures may include, _inter alia_:
+48.  In conformity with the relevant provisions in the Confidentiality Annex the inspected State Party shall have the right to take measures to protect sensitive installations and prevent disclosure of confidential information and data not related to chemical weapons. Such measures may include, _inter alia_:
 
 (a)   removal of sensitive papers from office spaces;
 
@@ -7995,11 +7933,11 @@ Managed access
 
 (g)   in exceptional cases, giving only individual inspectors access to certain parts of the inspection site.
 
-49.    The inspected State Party shall make every reasonable effort to demonstrate to the inspection team that any object, building, structure, container or vehicle to which the inspection team has not had full access, or which has been protected in accordance with paragraph 48, is not used for purposes related to the possible non‑compliance concerns raised in the inspection request.
+49.  The inspected State Party shall make every reasonable effort to demonstrate to the inspection team that any object, building, structure, container or vehicle to which the inspection team has not had full access, or which has been protected in accordance with paragraph 48, is not used for purposes related to the possible non‑compliance concerns raised in the inspection request.
 
-50.    This may be accomplished by means of, _inter alia_, the partial removal of a shroud or environmental protection cover, at the discretion of the inspected State Party, by means of a visual inspection of the interior of an enclosed space from its entrance, or by other methods.
+50.  This may be accomplished by means of, _inter alia_, the partial removal of a shroud or environmental protection cover, at the discretion of the inspected State Party, by means of a visual inspection of the interior of an enclosed space from its entrance, or by other methods.
 
-51.    In the case of facilities declared pursuant to Articles IV, V and VI, the following shall apply:
+51.  In the case of facilities declared pursuant to Articles IV, V and VI, the following shall apply:
 
 (a)   for facilities with facility agreements, access and activities within the final perimeter shall be unimpeded within the boundaries established by the agreements;
 
@@ -8007,51 +7945,51 @@ Managed access
 
 (c)   access beyond that granted for inspections under Articles IV, V and VI shall be managed in accordance with procedures of this section.
 
-52.    In the case of facilities declared pursuant to Article III, paragraph 1(d), the following shall apply: if the inspected State Party, using procedures of paragraphs 47 and 48, has not granted full access to areas or structures not related to chemical weapons, it shall make every reasonable effort to demonstrate to the inspection team that such areas or structures are not used for purposes related to the possible non‑compliance concerns raised in the inspection request.
+52.  In the case of facilities declared pursuant to Article III, paragraph 1(d), the following shall apply: if the inspected State Party, using procedures of paragraphs 47 and 48, has not granted full access to areas or structures not related to chemical weapons, it shall make every reasonable effort to demonstrate to the inspection team that such areas or structures are not used for purposes related to the possible non‑compliance concerns raised in the inspection request.
 
-Observer
+_Observer_
 
-53.    In accordance with the provisions of Article IX, paragraph 12, on the participation of an observer in the challenge inspection, the requesting State Party shall liaise with the Technical Secretariat to coordinate the arrival of the observer at the same point of entry as the inspection team within a reasonable period of the inspection team's arrival.
+53.  In accordance with the provisions of Article IX, paragraph 12, on the participation of an observer in the challenge inspection, the requesting State Party shall liaise with the Technical Secretariat to coordinate the arrival of the observer at the same point of entry as the inspection team within a reasonable period of the inspection team's arrival.
 
-54.    The observer shall have the right throughout the period of inspection to be in communication with the embassy of the requesting State Party located in the inspected State Party or in the Host State or, in the case of absence of an embassy, with the requesting State Party itself. The inspected State Party shall provide means of communication to the observer.
+54.  The observer shall have the right throughout the period of inspection to be in communication with the embassy of the requesting State Party located in the inspected State Party or in the Host State or, in the case of absence of an embassy, with the requesting State Party itself. The inspected State Party shall provide means of communication to the observer.
 
-55.    The observer shall have the right to arrive at the alternative or final perimeter of the inspection site, wherever the inspection team arrives first, and to have access to the inspection site as granted by the inspected State Party. The observer shall have the right to make recommendations to the inspection team, which the team shall take into account to the extent it deems appropriate, Throughout the inspection, the inspection team shall keep the observer informed about the conduct of the inspection and the findings.
+55.  The observer shall have the right to arrive at the alternative or final perimeter of the inspection site, wherever the inspection team arrives first, and to have access to the inspection site as granted by the inspected State Party. The observer shall have the right to make recommendations to the inspection team, which the team shall take into account to the extent it deems appropriate, Throughout the inspection, the inspection team shall keep the observer informed about the conduct of the inspection and the findings.
 
-56.    Throughout the in‑country period, the inspected State Party shall provide or arrange for the amenities necessary for the observer such as communication means, interpretation services, transportation, working space, lodging, meals and medical care. All the costs in connection with the stay of the observer on the territory of the inspected State Party or the Host State shall be borne by the requesting State Party.
+56.  Throughout the in‑country period, the inspected State Party shall provide or arrange for the amenities necessary for the observer such as communication means, interpretation services, transportation, working space, lodging, meals and medical care. All the costs in connection with the stay of the observer on the territory of the inspected State Party or the Host State shall be borne by the requesting State Party.
 
-Duration of inspection
+_Duration of inspection_
 
-57.    The period of inspection shall not exceed 84 hours, unless extended by agreement with the inspected State Party.
+57.  The period of inspection shall not exceed 84 hours, unless extended by agreement with the inspected State Party.
 
-D.  POST‑INSPECTION ACTIVITIES
+D.     POST‑INSPECTION ACTIVITIES
 
-Departure
+_Departure_
 
-58.    Upon completion of the post‑inspection procedures at the inspection site, the inspection team and the observer of the requesting State Party shall proceed promptly to a point of entry and shall then leave the territory of the inspected State Party in the minimum time possible.
+58.  Upon completion of the post‑inspection procedures at the inspection site, the inspection team and the observer of the requesting State Party shall proceed promptly to a point of entry and shall then leave the territory of the inspected State Party in the minimum time possible.
 
-Reports
+_Reports_
 
-59.    The inspection report shall summarize in a general way the activities conducted by the inspection team and the factual findings of the inspection team, particularly with regard to the concerns regarding possible non‑compliance with this Convention cited in the request for the challenge inspection, and shall be limited to information directly related to this Convention. It shall also include an assessment by the inspection team of the degree and nature of access and cooperation granted to the inspectors and the extent to which this enabled them to fulfil the inspection mandate. Detailed information relating to the concerns regarding possible non‑compliance with this Convention cited in the request for the challenge inspection shall be submitted as an Appendix to the final report and be retained within the Technical Secretariat under appropriate safeguards to protect sensitive information.
+59.  The inspection report shall summarize in a general way the activities conducted by the inspection team and the factual findings of the inspection team, particularly with regard to the concerns regarding possible non‑compliance with this Convention cited in the request for the challenge inspection, and shall be limited to information directly related to this Convention. It shall also include an assessment by the inspection team of the degree and nature of access and cooperation granted to the inspectors and the extent to which this enabled them to fulfil the inspection mandate. Detailed information relating to the concerns regarding possible non‑compliance with this Convention cited in the request for the challenge inspection shall be submitted as an Appendix to the final report and be retained within the Technical Secretariat under appropriate safeguards to protect sensitive information.
 
-60.    The inspection team shall, not later than 72 hours after its return to its primary work location, submit a preliminary inspection report, having taken into account, _inter alia_, paragraph 17 of the Confidentiality Annex, to the Director‑General. The Director‑General shall promptly transmit the preliminary inspection report to the requesting State Party, the inspected State Party and to the Executive Council.
+60.  The inspection team shall, not later than 72 hours after its return to its primary work location, submit a preliminary inspection report, having taken into account, _inter alia_, paragraph 17 of the Confidentiality Annex, to the Director‑General. The Director‑General shall promptly transmit the preliminary inspection report to the requesting State Party, the inspected State Party and to the Executive Council.
 
-61.    A draft final inspection report shall be made available to the inspected State Party not later than 20 days after the completion of the challenge inspection. The inspected State Party has the right to identify any information and data not related to chemical weapons which should, in its view, due to its confidential character, not be circulated outside the Technical Secretariat. The Technical Secretariat shall consider proposals for changes to the draft final inspection report made by the inspected State Party and, using its own discretion, wherever possible, adopt them. The final report shall then be submitted not later than 30 days after the completion of the challenge inspection to the Director‑General for further distribution and consideration in accordance with Article IX, paragraphs 21 to 25.
+61.  A draft final inspection report shall be made available to the inspected State Party not later than 20 days after the completion of the challenge inspection. The inspected State Party has the right to identify any information and data not related to chemical weapons which should, in its view, due to its confidential character, not be circulated outside the Technical Secretariat. The Technical Secretariat shall consider proposals for changes to the draft final inspection report made by the inspected State Party and, using its own discretion, wherever possible, adopt them. The final report shall then be submitted not later than 30 days after the completion of the challenge inspection to the Director‑General for further distribution and consideration in accordance with Article IX, paragraphs 21 to 25.
 
 PART XI
 
 INVESTIGATIONS IN CASES OF ALLEGED USE OF CHEMICAL WEAPONS
 
-A.  GENERAL
+A.     GENERAL
 
-1.      Investigations of alleged use of chemical weapons, or of alleged use of riot control agents as a method of warfare, initiated pursuant to Articles IX of X, shall be conducted in accordance with this Annex and detailed procedures to be established by the Director‑General.
+1.         Investigations of alleged use of chemical weapons, or of alleged use of riot control agents as a method of warfare, initiated pursuant to Articles IX of X, shall be conducted in accordance with this Annex and detailed procedures to be established by the Director‑General.
 
-2.      The following additional provisions address specific procedures required in cases of alleged use of chemical weapons.
+2.         The following additional provisions address specific procedures required in cases of alleged use of chemical weapons.
 
-B.   PRE‑INSPECTION ACTIVITIES
+B.     PRE‑INSPECTION ACTIVITIES
 
-Request for an investigation
+_Request for an investigation_
 
-3.      The request for an investigation of an alleged use of chemical weapons to be submitted to the Director‑General, to the extent possible, should include the following information:
+3.         The request for an investigation of an alleged use of chemical weapons to be submitted to the Director‑General, to the extent possible, should include the following information:
 
 (a)   the State Party on whose territory use of chemical weapons is alleged to have taken place;
 
@@ -8071,85 +8009,85 @@ Request for an investigation
 
 (i)    request for specific assistance, if applicable.
 
-4.      The State Party which has requested an investigation may submit at any time any additional information it deems necessary.
+4.  The State Party which has requested an investigation may submit at any time any additional information it deems necessary.
 
-Notification
+_Notification_
 
-5.      The Director‑General shall immediately acknowledge receipt to the requesting State Party of its request and inform the Executive Council and all States Parties.
+5.  The Director‑General shall immediately acknowledge receipt to the requesting State Party of its request and inform the Executive Council and all States Parties.
 
-6.      If applicable, the Director‑General shall notify the State Party on whose territory an investigation has been requested. The Director‑General shall also notify other States Parties if access to their territories might be required during the investigation.
+6.  If applicable, the Director‑General shall notify the State Party on whose territory an investigation has been requested. The Director‑General shall also notify other States Parties if access to their territories might be required during the investigation.
 
-Assignment of inspection team
+_Assignment of inspection team_
 
-7.      The Director‑General shall prepare a list of qualified experts whose particular field of expertise could be required in an investigation of alleged use of chemical weapons and constantly keep this list updated. This list shall be communicated, in writing, to each State Party not later than 30 days after entry into force of this Convention and after each change to the list. Any qualified expert included in this list shall be regarded as designated unless a State Party, not later than 30 days after its receipt of the list, declares its non‑acceptance in writing.
+7.  The Director‑General shall prepare a list of qualified experts whose particular field of expertise could be required in an investigation of alleged use of chemical weapons and constantly keep this list updated. This list shall be communicated, in writing, to each State Party not later than 30 days after entry into force of this Convention and after each change to the list. Any qualified expert included in this list shall be regarded as designated unless a State Party, not later than 30 days after its receipt of the list, declares its non‑acceptance in writing.
 
-8.      The Director‑General shall select the leader and members of an inspection team from the inspectors and inspection assistants already designated for challenge inspections taking into account the circumstances and specific nature of a particular request. In addition, members of the inspection team may be selected from the list of qualified experts when, in the view of the Director‑General, expertise not available among inspectors already designated is required for the proper conduct of a particular investigation.
+8.  The Director‑General shall select the leader and members of an inspection team from the inspectors and inspection assistants already designated for challenge inspections taking into account the circumstances and specific nature of a particular request. In addition, members of the inspection team may be selected from the list of qualified experts when, in the view of the Director‑General, expertise not available among inspectors already designated is required for the proper conduct of a particular investigation.
 
-9.      When briefing the inspection team, the Director‑General shall include any additional information provided by the requesting State Party, or any other sources, to ensure that the inspection can be carried out in the most effective and expedient manner.
+9.  When briefing the inspection team, the Director‑General shall include any additional information provided by the requesting State Party, or any other sources, to ensure that the inspection can be carried out in the most effective and expedient manner.
 
-Dispatch of inspection team
+_Dispatch of inspection team_
 
-10.    Immediately upon the receipt of a request for an investigation of alleged use of chemical weapons the Director‑General shall, through contacts with the relevant States Parties, request and confirm arrangements for the safe reception of the team.
+10.  Immediately upon the receipt of a request for an investigation of alleged use of chemical weapons the Director‑General shall, through contacts with the relevant States Parties, request and confirm arrangements for the safe reception of the team.
 
-11.    The Director‑General shall dispatch the team at the earliest opportunity, taking into account the safety of the team.
+11.  The Director‑General shall dispatch the team at the earliest opportunity, taking into account the safety of the team.
 
-12.    If the inspection team has not been dispatched within 24 hours from the receipt of the request, the Director‑General shall inform the Executive Council and the States Parties concerned about the reasons for the delay.
+12.  If the inspection team has not been dispatched within 24 hours from the receipt of the request, the Director‑General shall inform the Executive Council and the States Parties concerned about the reasons for the delay.
 
-Briefings
+_Briefings_
 
-13.    The inspection team shall have the right to be briefed by representatives of the inspected State Party upon arrival and at any time during the inspection.
+13.  The inspection team shall have the right to be briefed by representatives of the inspected State Party upon arrival and at any time during the inspection.
 
-14.    Before the commencement of the inspection the inspection team shall prepare an inspection plan to serve, _inter alia_, as a basis for logistic and safety arrangements. The inspection plan shall be updated as need arises.
+14.       Before the commencement of the inspection the inspection team shall prepare an inspection plan to serve, _inter alia_, as a basis for logistic and safety arrangements. The inspection plan shall be updated as need arises.
 
-C.   CONDUCT OF INSPECTIONS
+C.     CONDUCT OF INSPECTIONS
 
-Access
+_Access_
 
-15.    The inspection team shall have the right of access to any and all areas which could be affected by the alleged use of chemical weapons. It shall also have the right of access to hospitals, refugee camps and other locations it deems relevant to the effective investigation of the alleged use of chemical weapons. For such access, the inspection team shall consult with the inspected State Party.
+15.  The inspection team shall have the right of access to any and all areas which could be affected by the alleged use of chemical weapons. It shall also have the right of access to hospitals, refugee camps and other locations it deems relevant to the effective investigation of the alleged use of chemical weapons. For such access, the inspection team shall consult with the inspected State Party.
 
-Sampling
+_Sampling_
 
-16.    The inspection team shall have the right to collect samples of types, and in quantities it considers necessary. If the inspection team deems it necessary, and if so requested by it, the inspected State Party shall assist in the collection of samples under the supervision of inspectors or inspection assistants. The inspected State Party shall also permit and cooperate in the collection of appropriate control samples from areas neighbouring the site of the alleged use and from other areas as requested by the inspection team.
+16.  The inspection team shall have the right to collect samples of types, and in quantities it considers necessary. If the inspection team deems it necessary, and if so requested by it, the inspected State Party shall assist in the collection of samples under the supervision of inspectors or inspection assistants. The inspected State Party shall also permit and cooperate in the collection of appropriate control samples from areas neighbouring the site of the alleged use and from other areas as requested by the inspection team.
 
-17.    Samples of importance in the investigation of alleged use include toxic chemicals, munitions and devices, remnants of munitions and devices, environmental samples (air, soil, vegetation, water, snow, etc.) and biomedical samples from human or animal sources (blood, urine, excreta, tissue etc.).
+17.  Samples of importance in the investigation of alleged use include toxic chemicals, munitions and devices, remnants of munitions and devices, environmental samples (air, soil, vegetation, water, snow, etc.) and biomedical samples from human or animal sources (blood, urine, excreta, tissue etc.).
 
-18.    If duplicate samples cannot be taken and the analysis is performed at off‑site laboratories, any remaining sample shall, if so requested, be returned to the inspected State Party after the completion of the analysis.
+18.  If duplicate samples cannot be taken and the analysis is performed at off‑site laboratories, any remaining sample shall, if so requested, be returned to the inspected State Party after the completion of the analysis.
 
-Extension of inspection site
+_Extension of inspection site_
 
 19.  If the inspection team during an inspection deems it necessary to extend the investigation into a neighbouring State Party, the Director‑General shall notify that State Party about the need for access to its territory and request and confirm arrangements for the safe reception of the team.
 
-Extension of inspection duration
+_Extension of inspection duration_
 
-20.    If the inspection team deems that safe access to a specific area relevant to the investigation is not possible, the requesting State Party shall be informed immediately. If necessary, the period of inspection shall be extended until safe access can be provided and the inspection team will have concluded its mission.
+20.  If the inspection team deems that safe access to a specific area relevant to the investigation is not possible, the requesting State Party shall be informed immediately. If necessary, the period of inspection shall be extended until safe access can be provided and the inspection team will have concluded its mission.
 
-Interviews
+_Interviews_
 
-21.    The inspection team shall have the right to interview and examine persons who may have been affected by the alleged use of chemical weapons. It shall also have the right to interview eyewitnesses of the alleged use of chemical weapons and medical personnel, and other persons who have treated or have come into contact with persons who may have been affected by the alleged use of chemical weapons. The inspection team shall have access to medical histories, if available, and be permitted to participate in autopsies, as appropriate, of persons who may have been affected by the alleged use of chemical weapons.
+21.  The inspection team shall have the right to interview and examine persons who may have been affected by the alleged use of chemical weapons. It shall also have the right to interview eyewitnesses of the alleged use of chemical weapons and medical personnel, and other persons who have treated or have come into contact with persons who may have been affected by the alleged use of chemical weapons. The inspection team shall have access to medical histories, if available, and be permitted to participate in autopsies, as appropriate, of persons who may have been affected by the alleged use of chemical weapons.
 
-D.  REPORTS
+D.     REPORTS
 
-Procedures
+_Procedures_
 
-22.    The inspection team shall, not later than 24 hours after its arrival on the territory of the inspected State Party, send a situation report to the Director‑General. It shall further throughout the investigation send progress reports as necessary.
+22.  The inspection team shall, not later than 24 hours after its arrival on the territory of the inspected State Party, send a situation report to the Director‑General. It shall further throughout the investigation send progress reports as necessary.
 
-23.    The inspection team shall, not later than 72 hours after its return to its primary work location, submit a preliminary report to the Director‑General. The final report shall be submitted to the Director‑General not later than 30 days after its return to its primary work location. The Director‑General shall promptly transmit the preliminary and final reports to the Executive Council and to all States Parties.
+23.  The inspection team shall, not later than 72 hours after its return to its primary work location, submit a preliminary report to the Director‑General. The final report shall be submitted to the Director‑General not later than 30 days after its return to its primary work location. The Director‑General shall promptly transmit the preliminary and final reports to the Executive Council and to all States Parties.
 
-Contents
+_Contents_
 
-24.    The situation report shall indicate any urgent need for assistance and any other relevant information. The progress reports shall indicate any further need for assistance that might be identified during the course of the investigation.
+24.  The situation report shall indicate any urgent need for assistance and any other relevant information. The progress reports shall indicate any further need for assistance that might be identified during the course of the investigation.
 
-25.    The final report shall summarize the factual findings of the inspection, particularly with regard to the alleged use cited in the request. In addition, a report of an investigation of an alleged use shall include a description of the investigation process, tracing its various stages, with special reference to:
+25.  The final report shall summarize the factual findings of the inspection, particularly with regard to the alleged use cited in the request. In addition, a report of an investigation of an alleged use shall include a description of the investigation process, tracing its various stages, with special reference to:
 
 (a)   the locations and time of sampling and on‑site analyses; and
 
 (b)   supporting evidence, such as the records of interviews, the results of medical examinations and scientific analyses, and the documents examined by the inspection team.
 
-26.    If the inspection team collects through, _inter alia_, identification of any impurities or other substances during laboratory analysis of samples taken, any information in the course of its investigation that might serve to identify the origin of any chemical weapons used, that information shall be included in the report.
+26.  If the inspection team collects through, _inter alia_, identification of any impurities or other substances during laboratory analysis of samples taken, any information in the course of its investigation that might serve to identify the origin of any chemical weapons used, that information shall be included in the report.
 
-E.   STATES NOT PARTY TO THIS CONVENTION
+E.     STATES NOT PARTY TO THIS CONVENTION
 
-27.    In the case of alleged use of chemical weapons involving a State not Party to this Convention or in territory not controlled by a State Party, the Organization shall closely cooperate with the Secretary‑General of the United Nations. If so requested, the Organization shall put its resources at the disposal of the Secretary‑General of the United Nations.
+27.       In the case of alleged use of chemical weapons involving a State not Party to this Convention or in territory not controlled by a State Party, the Organization shall closely cooperate with the Secretary‑General of the United Nations. If so requested, the Organization shall put its resources at the disposal of the Secretary‑General of the United Nations.
 
 ANNEX 3
 
@@ -8211,9 +8149,10 @@ Page
   </td>
 </tr></table>
 
-A.  GENERAL PRINCIPLES FOR THE HANDLING OF CONFIDENTIAL INFORMATION
+A.     GENERAL PRINCIPLES FOR THE HANDLING OF 
+ CONFIDENTIAL INFORMATION
 
-1.      The obligation to protect confidential information shall pertain to the verification of both civil and military activities and facilities. Pursuant to the general obligations set forth in Article VIII, the Organization shall:
+1.  The obligation to protect confidential information shall pertain to the verification of both civil and military activities and facilities. Pursuant to the general obligations set forth in Article VIII, the Organization shall:
 
 (a)   require only the minimum amount of information and data necessary for the timely and efficient carrying out of its responsibilities under this Convention;
 
@@ -8221,7 +8160,7 @@ A.  GENERAL PRINCIPLES FOR THE HANDLING OF CONFIDENTIAL INFORMATION
 
 (c)   develop agreements and regulations to implement the provisions of this Convention and shall specify as precisely as possible the information to which the Organization shall be given access by a State Party.
 
-2.      The Director‑General shall have the primary responsibility for ensuring the protection of confidential information. The Director‑General shall establish a stringent regime governing the handling of confidential information by the Technical Secretariat, and in doing so, shall observe the following guidelines:
+2.  The Director‑General shall have the primary responsibility for ensuring the protection of confidential information. The Director‑General shall establish a stringent regime governing the handling of confidential information by the Technical Secretariat, and in doing so, shall observe the following guidelines:
 
 (a)   information shall be considered confidential if:
 
@@ -8255,53 +8194,53 @@ A.  GENERAL PRINCIPLES FOR THE HANDLING OF CONFIDENTIAL INFORMATION
 
 (h)   access to confidential information shall be regulated in accordance with its classification. The dissemination of confidential information within the Organization shall be strictly on a need‑to‑know basis.
 
-3.      The Director‑General shall report annually to the Conference on the implementation of the regime governing the handling of confidential information by the Technical Secretariat.
+3.  The Director‑General shall report annually to the Conference on the implementation of the regime governing the handling of confidential information by the Technical Secretariat.
 
-4.      Each State Party shall treat information which it receives from the Organization in accordance with the level of confidentiality established for that information. Upon request, a State Party shall provide details on the handling of information provided to it by the Organization.
+4.  Each State Party shall treat information which it receives from the Organization in accordance with the level of confidentiality established for that information. Upon request, a State Party shall provide details on the handling of information provided to it by the Organization.
 
-B.   EMPLOYMENT AND CONDUCT OF PERSONNEL IN THE TECHNICAL SECRETARIAT
+B.     EMPLOYMENT AND CONDUCT OF PERSONNEL IN THE TECHNICAL SECRETARIAT
 
-5.      Conditions of staff employment shall be such as to ensure that access to and handling of confidential information shall be in conformity with the procedures established by the Director‑General in accordance with Section A.
+5.  Conditions of staff employment shall be such as to ensure that access to and handling of confidential information shall be in conformity with the procedures established by the Director‑General in accordance with Section A.
 
-6.      Each position in the Technical Secretariat shall be governed by a formal position description that specifies the scope of access to confidential information, if any, needed in that position.
+6.  Each position in the Technical Secretariat shall be governed by a formal position description that specifies the scope of access to confidential information, if any, needed in that position.
 
-7.      The Director‑General, the inspectors and the other members of the staff shall not disclose even after termination of their functions to any unauthorized persons any confidential information coming to their knowledge in the performance of their official duties. They shall not communicate to any State, organization or person outside the Technical Secretariat any information to which they have access in connection with their activities in relation to any State Party.
+7.  The Director‑General, the inspectors and the other members of the staff shall not disclose even after termination of their functions to any unauthorized persons any confidential information coming to their knowledge in the performance of their official duties. They shall not communicate to any State, organization or person outside the Technical Secretariat any information to which they have access in connection with their activities in relation to any State Party.
 
-8.      In the discharge of their functions inspectors shall only request the information and data which are necessary to fulfil their mandate. They shall not make any records of information collected incidentally and not related to verification of compliance with this Convention.
+8.  In the discharge of their functions inspectors shall only request the information and data which are necessary to fulfil their mandate. They shall not make any records of information collected incidentally and not related to verification of compliance with this Convention.
 
-9.      The staff shall enter into individual secrecy agreements with the Technical Secretariat covering their period of employment and a period of five years after it is terminated.
+9.  The staff shall enter into individual secrecy agreements with the Technical Secretariat covering their period of employment and a period of five years after it is terminated.
 
-10.    In order to avoid improper disclosures, inspectors and staff members shall be appropriately advised and reminded about security considerations and of the possible penalties that they would incur in the event of improper disclosure.
+10.  In order to avoid improper disclosures, inspectors and staff members shall be appropriately advised and reminded about security considerations and of the possible penalties that they would incur in the event of improper disclosure.
 
-11.    Not less than 30 days before an employee is given clearance for access to confidential information that refers to activities on the territory or in any other place under the jurisdiction or control of a State Party, the State Party concerned shall be notified of the proposed clearance. For inspectors the notification of a proposed designation shall fulfil this requirement.
+11.  Not less than 30 days before an employee is given clearance for access to confidential information that refers to activities on the territory or in any other place under the jurisdiction or control of a State Party, the State Party concerned shall be notified of the proposed clearance. For inspectors the notification of a proposed designation shall fulfil this requirement.
 
-12.    In evaluating the performance of inspectors and any other employees of the Technical Secretariat, specific attention shall be given to the employee’s record regarding protection of confidential information.
+12.  In evaluating the performance of inspectors and any other employees of the Technical Secretariat, specific attention shall be given to the employee’s record regarding protection of confidential information.
 
-C.   MEASURES TO PROTECT SENSITIVE INSTALLATIONS AND PREVENT DISCLOSURE OF CONFIDENTIAL DATA IN THE COURSE OF ON‑SITE VERIFICATION ACTIVITIES
+C.     MEASURES TO PROTECT SENSITIVE INSTALLATIONS AND PREVENT DISCLOSURE OF CONFIDENTIAL DATA IN THE COURSE OF ON‑SITE VERIFICATION ACTIVITIES
 
-13.    States Parties may take such measures as they deem necessary to protect confidentiality, provided that they fulfil their obligations to demonstrate compliance in accordance with the relevant Articles and the Verification Annex. When receiving an inspection, the State Party may indicate to the inspection team the equipment, documentation or areas that it considers sensitive and not related to the purpose of the inspection.
+13.  States Parties may take such measures as they deem necessary to protect confidentiality, provided that they fulfil their obligations to demonstrate compliance in accordance with the relevant Articles and the Verification Annex. When receiving an inspection, the State Party may indicate to the inspection team the equipment, documentation or areas that it considers sensitive and not related to the purpose of the inspection.
 
-14.    Inspection teams shall be guided by the principle of conducting on‑site inspections in the least intrusive manner possible consistent with the effective and timely accomplishment of their mission. They shall take into consideration proposals which may be made by the State Party receiving the inspection, at whatever stage of the inspection, to ensure that sensitive equipment or information, not related to chemical weapons, is protected.
+14.  Inspection teams shall be guided by the principle of conducting on‑site inspections in the least intrusive manner possible consistent with the effective and timely accomplishment of their mission. They shall take into consideration proposals which may be made by the State Party receiving the inspection, at whatever stage of the inspection, to ensure that sensitive equipment or information, not related to chemical weapons, is protected.
 
-15.    Inspection teams shall strictly abide by the provisions set forth in the relevant Articles and Annexes governing the conduct of inspections. They shall fully respect the procedures designed to protect sensitive installations and to prevent the disclosure of confidential data.
+15.  Inspection teams shall strictly abide by the provisions set forth in the relevant Articles and Annexes governing the conduct of inspections. They shall fully respect the procedures designed to protect sensitive installations and to prevent the disclosure of confidential data.
 
-16.    In the elaboration of arrangements and facility agreements, due regard shall be paid to the requirement of protecting confidential information. Agreements on inspection procedures for individual facilities shall also include specific and detailed arrangements with regard to the determination of those areas of the facility to which inspectors are granted access, the storage of confidential information on‑site, the scope of the inspection effort in agreed areas, the taking of samples and their analysis, the access to records and the use of instruments and continuous monitoring equipment.
+16.  In the elaboration of arrangements and facility agreements, due regard shall be paid to the requirement of protecting confidential information. Agreements on inspection procedures for individual facilities shall also include specific and detailed arrangements with regard to the determination of those areas of the facility to which inspectors are granted access, the storage of confidential information on‑site, the scope of the inspection effort in agreed areas, the taking of samples and their analysis, the access to records and the use of instruments and continuous monitoring equipment.
 
-17.    The report to be prepared after each inspection shall only contain facts relevant to compliance with this Convention. The report shall be handled in accordance with the regulations established by the Organization governing the handling of confidential information. If necessary, the information contained in the report shall be processed into less sensitive forms before it is transmitted outside the Technical Secretariat and the inspected State Party.
+17.  The report to be prepared after each inspection shall only contain facts relevant to compliance with this Convention. The report shall be handled in accordance with the regulations established by the Organization governing the handling of confidential information. If necessary, the information contained in the report shall be processed into less sensitive forms before it is transmitted outside the Technical Secretariat and the inspected State Party.
 
-D.  PROCEDURES IN CASE OF BREACHES OR ALLEGED BREACHES OF CONFIDENTIALITY
+D.     PROCEDURES IN CASE OF BREACHES OR ALLEGED BREACHES OF CONFIDENTIALITY
 
-18.    The Director‑General shall establish necessary procedures to be followed in case of breaches or alleged breaches of confidentiality, taking into account recommendations to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
+18.  The Director‑General shall establish necessary procedures to be followed in case of breaches or alleged breaches of confidentiality, taking into account recommendations to be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-19.    The Director‑General shall oversee the implementation of individual secrecy agreements. The Director‑General shall promptly initiate an investigation if, in his judgement, there is sufficient indication that obligations concerning the protection of confidential information have been violated. The Director‑General shall also promptly initiate an investigation if an allegation concerning a breach of confidentiality is made by a State Party.
+19.  The Director‑General shall oversee the implementation of individual secrecy agreements. The Director‑General shall promptly initiate an investigation if, in his judgement, there is sufficient indication that obligations concerning the protection of confidential information have been violated. The Director‑General shall also promptly initiate an investigation if an allegation concerning a breach of confidentiality is made by a State Party.
 
-20.    The Director‑General shall impose appropriate punitive and disciplinary measures on staff members who have violated their obligations to protect confidential information. In cases of serious breaches, the immunity from jurisdiction may be waived by the Director‑General.
+20.  The Director‑General shall impose appropriate punitive and disciplinary measures on staff members who have violated their obligations to protect confidential information. In cases of serious breaches, the immunity from jurisdiction may be waived by the Director‑General.
 
-21.    States Parties shall, to the extent possible, cooperate and support the Director‑General in investigating any breach or alleged breach of confidentiality and in taking appropriate action in case a breach has been established.
+21.  States Parties shall, to the extent possible, cooperate and support the Director‑General in investigating any breach or alleged breach of confidentiality and in taking appropriate action in case a breach has been established.
 
-22.    The Organization shall not be held liable for any breach of confidentiality committed by members of the Technical Secretariat.
+22.  The Organization shall not be held liable for any breach of confidentiality committed by members of the Technical Secretariat.
 
-23.    For breaches involving both a State Party and the Organization, a “Commission for the settlement of disputes related to confidentiality”, set up as a subsidiary organ of the Conference, shall consider the case. This Commission shall be appointed by the Conference. Rules governing its composition and operating procedures shall be adopted by the Conference at its first session.
+23.  For breaches involving both a State Party and the Organization, a “Commission for the settlement of disputes related to confidentiality”, set up as a subsidiary organ of the Conference, shall consider the case. This Commission shall be appointed by the Conference. Rules governing its composition and operating procedures shall be adopted by the Conference at its first session.
 
 # Notes to the _Chemical Weapons (Prohibition) Act 1994_
 
@@ -8316,10 +8255,10 @@ For all relevant information pertaining to application, saving or transitional p
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -8443,7 +8382,7 @@ Remainder: Royal Assent</div>
     <div>12 Dec 2003</div>
   </td>
   <td>
-    <div>Schedule 1: 13 Dec 2003 
+    <div>Schedule 1: 13 Dec 2003 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -8461,7 +8400,7 @@ Remainder: Royal Assent</div>
     <div>10 Apr 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 2–7): 11 Apr 2007</div>
+    <div>Schedule 1 (items 2–7): 11 Apr 2007</div>
   </td>
   <td>
     <div>—</div>
@@ -8478,7 +8417,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 7 (item 32): 19 Apr 2011</div>
+    <div>Schedule 7 (item 32): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -8495,7 +8434,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 323, 324) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 323, 324) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -8601,26 +8540,10 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
 </tr>
 <tr>
   <td>
-    <div>Note to s. 8B(3)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 10</div>
   </td>
   <td>
     <div>am. No. 9, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10(9)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8673,23 +8596,7 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
 </tr>
 <tr>
   <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 9, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 17(1)</div>
-  </td>
-  <td>
-    <div>am. No. 9, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
+    <div>Ss. 17, 18</div>
   </td>
   <td>
     <div>am. No. 9, 1988</div>
@@ -9072,6 +8979,24 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 323  Subsection 8B(3) (note)
+
+Omit “section 46 of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
+
+## 324  Subsection 10(9) (note)
+
+Omit “section 46 of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
+
+As at 2 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -9109,6 +9034,8 @@ _Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
