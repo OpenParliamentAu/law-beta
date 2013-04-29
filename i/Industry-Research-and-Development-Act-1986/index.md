@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00745/Html/f8c6e834-0c3d-4869-8dd8-c927ec1ee91a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00231/Html/3feeabb7-7693-4e76-a895-ad74e4e1d7bb_files/image001.gif)
 
 # Industry Research and Development Act 1986
 
 **Act No. 89 of 1986 as amended**
 
-This compilation was prepared on 9 September 2011
- taking into account amendments up to Act No. 93 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -82,145 +82,111 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Staff, consultants etc 
 
-**Part III—Functions relating to the R&amp;D tax offset** 
+**Part IIIA—Functions of Board in relation to income tax concessions**
 
-    **Division 1—Introduction**
+[39AA](#39AA).    Object of Part
 
-[26](#26).          Objects
+[39A](#39A).       Interpretation
 
-[26A](#26A).       Simplified outline
+[39B](#39B).       Related companies
 
-    **Division 2—Registering for the R&amp;D tax offset** 
+[39C](#39C).       Exploitation otherwise than on normal commercial terms
 
-        **Subdivision A—Introduction**
+[39D](#39D).       Research and development activities for the benefit of the Australian economy
 
-[27](#27).          Simplified outline
+[39E](#39E).        Adequate Australian content
 
-        **Subdivision B—Registering R&amp;D entities for R&amp;D activities**
+[39EA](#39EA).     Finance scheme guidelines
 
-[27A](#27A).       Registering R&amp;D entities for R&amp;D activities
+[39EB](#39EB).     Guidelines concerning overseas research and development activities
 
-[27B](#27B).       Findings about applications for registration
+[39EC](#39EC).     Applications for provisional certificates
 
-[27C](#27C).       Notice of decision about registration
+[39ED](#39ED).     Board’s decision on application for provisional certificate
 
-        **Subdivision C—Applying to register R&amp;D activities**
+[39EE](#39EE).     Matters to be contained in provisional certificate
 
-[27D](#27D).       Applying to register R&amp;D activities
+[39EF](#39EF).     Board’s power to amend or revoke provisional certificate on its own initiative
 
-[27E](#27E).        Board may request further information
+[39F](#39F).        Registration of Australian research agencies
 
-        **Subdivision D—Examining registrations**
+[39FA](#39FA).     Notices about continuing registration of Australian research agencies
 
-[27F](#27F).        Examining a registration
+[39G](#39G).       Cancellation of registration of research agencies
 
-[27G](#27G).       Applying for findings
+[39H](#39H).       Board to publicise particulars of registered research agencies
 
-[27H](#27H).       Board may request information during an examination
+[39HA](#39HA).    Register of Commercial Government Bodies
 
-[27J](#27J).        Findings about a registration
+[39HB](#39HB).    Commercial government bodies guidelines
 
-[27K](#27K).       Notice of findings or of decisions refusing to make findings
+[39HC](#39HC).    Applications for entry on the Register of Commercial Government Bodies
 
-[27L](#27L).        Automatic variations so registration is consistent with findings
+[39HD](#39HD).    Board’s decision on application for entry on Register of Commercial Government Bodies
 
-[27M](#27M).      Varying registrations on application
+[39HE](#39HE).     Grant of application for entry on Register of Commercial Government Bodies
 
-[27N](#27N).       Revoking registrations
+[39HF](#39HF).     Removal from Register of Commercial Government Bodies
 
-    **Division 3—Other findings** 
+[39HG](#39HG).    Applications for advance registration of eligible companies
 
-        **Subdivision A—Introduction**
+[39HH](#39HH).    Advance registration of eligible companies
 
-[28](#28).          Simplified outline
+[39HI](#39HI).      Grounds for refusal of advance registration
 
-        **Subdivision B—Advance findings about the nature of activities**
+[39J](#39J).        Registration of eligible companies
 
-[28A](#28A).       Advance findings about the nature of activities
+[39JA](#39JA).     Registration: eligible companies with a registration history
 
-[28B](#28B).       Applications made on behalf of R&amp;D entities
+[39JB](#39JB).      Registration: eligible companies with a claim history
 
-        **Subdivision C—Findings about activities to be conducted outside Australia**
+[39JC](#39JC).      Registration: eligible companies with a tax loss history
 
-[28C](#28C).       Findings about activities to be conducted outside Australia
+[39JD](#39JD).     Applications under section 39J
 
-[28D](#28D).       Conditions for a finding that an overseas activity cannot be conducted in Australia etc 
+[39JE](#39JE).      Application for extension of time if application otherwise subject to a 6 month limit
 
-        **Subdivision D—Findings about whether technology is core technology**
+[39JF](#39JF).      Registration if application for registration made after expiry of period for making application
 
-[28E](#28E).        Findings about whether technology is core technology
+[39K](#39K).       Grounds for refusal to register eligible companies
 
-        **Subdivision E—Matters relevant to findings under this Division**
+[39KA](#39KA).    Guidelines concerning plans for research and development activities
 
-[28F](#28F).        Notice of decision about findings
+[39L](#39L).        Certificate as to research and development activities
 
-[28G](#28G).       Applying for findings
+39LAAACertificate as to Australian‑centred research and development 
+ activities
 
-[28H](#28H).       Board may request further information
+39LAABCertificate as to activities that would be Australian‑centred 
+ research and development activities apart from need for plan
 
-    **Division 4—Research service providers** 
+[39LAA](#39LAA).  Certificate as to overseas research and development activities
 
-        **Subdivision A—Introduction**
+[39LA](#39LA).     Certificate as to core technology
 
-[29](#29).          Simplified outline
+[39M](#39M).      Certificate as to exploitation of results, or Australian content, of activities
 
-        **Subdivision B—Registering research service providers**
+[39MA](#39MA).   Certificate about ineligible finance schemes
 
-[29A](#29A).       Registering research service providers
+[39N](#39N).       Certificate of non‑compliance
 
-        **Subdivision C—Applying for registration**
+[39P](#39P).        Joint registration
 
-[29B](#29B).       Applying for registration
+[39PA](#39PA).     Limitation of Board’s power to register companies jointly
 
-[29C](#29C).       Board may request further information about an application
+[39PB](#39PB).     Extension of joint registration to complete project
 
-[29D](#29D).       Board may need to make inquiries about an application
+[39Q](#39Q).       Copies of certificate to be given to persons affected
 
-        **Subdivision D—Varying or revoking registrations**
+[39R](#39R).       Service of notices etc 
 
-[29E](#29E).        Duration of registrations
+[39S](#39S).        Internal review of decisions
 
-[29F](#29F).        Varying registrations—on application
+[39T](#39T).        Review of decisions by Administrative Appeals Tribunal
 
-[29G](#29G).       Varying registrations—otherwise than on application
+[39U](#39U).       Statements to accompany notification of decisions
 
-[29H](#29H).       Revoking registrations
-
-        **Subdivision E—Register of research service providers**
-
-[29J](#29J).        Register of research service providers
-
-    **Division 5—Review**
-
-[30](#30).          Simplified outline
-
-[30A](#30A).       _Reviewable decisions_
-
-[30B](#30B).       Notice of reviewable decision and internal review rights
-
-[30C](#30C).       Applications for internal review of reviewable decisions
-
-[30D](#30D).       Internal review of reviewable decisions
-
-[30E](#30E).        External review by AAT of internal review decisions
-
-    **Division 6—Consolidated groups and MEC groups**
-
-[31](#31).          Registrations and findings not effective for subsidiary members for group R&amp;D activities
-
-[31A](#31A).       What happens to findings if R&amp;D entity joins a group
-
-[31B](#31B).       What happens to findings if R&amp;D entity leaves a group
-
-    **Division 7—Other matters**
-
-[32](#32).          Approved forms
-
-[32A](#32A).       _Decision‑making principles_
-
-[32B](#32B).       General rules about findings under this Part
-
-[32C](#32C).       Alternative constitutional basis
+[39V](#39V).       Tax consequences of variation or revocation of reviewable decisions
 
 **Part V—Miscellaneous**
 
@@ -234,7 +200,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [48](#48).          Regulations
 
-[48A](#48A).       Fees for making applications under Part III
+[48A](#48A).       Fees for making applications etc  under Part IIIA
 
 **Part VI—Amendments of Industrial Research and Development Incentives Act 1976** 
 
@@ -256,7 +222,7 @@ Sections 49–53
 
 ##### <a id="3"></a>3  Object of Act
 
-                   The object of this Act is to promote the development, and improve the efficiency and international competitiveness, of Australian industry by encouraging R&amp;D activities, innovation activities and venture capital activities.
+                   The object of this Act is to promote the development, and improve the efficiency and international competitiveness, of Australian industry by encouraging research and development activities, innovation activities and venture capital activities.
 
 ##### <a id="4"></a>4  Interpretation
 
@@ -264,57 +230,37 @@ Sections 49–53
 
                     <a name="appointed-member"></a>**_appointed member_** means the Chairperson or a member referred to in paragraph 9(1)(c).
 
-                    <a name="approved-form"></a>**_approved form_** has the meaning given by section 32.
+                    <a name="approved-research-institut"></a>**_approved research institute_** means an approved research institute within the meaning of section 73A of the _Income Tax Assessment Act 1936_.
 
                     <a name="board"></a>**_Board_** means Innovation Australia, established by section 6.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Board.
 
-                    <a name="commission"></a>**_Commissioner_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
                     <a name="committe"></a>**_committee_** means a committee appointed under section 22.
 
-                    <a name="consolid-group"></a>**_consolidated group_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                    <a name="compani"></a>**_company_** means:
 
-                    <a name="constitut-corpor"></a>**_constitutional corporation_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                     (a)  a body of persons; or
 
-                    <a name="core-activ"></a>**_core R&amp;D activities_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                     (b)  an association of persons;
 
-                    <a name="core-technologi"></a>**_core technology_** has the meaning given by subsection 28E(2).
+whether corporate or unincorporate.
 
-                    <a name="decision-make-principl"></a>**_decision‑making principles_** has the meaning given by section 32A.
-
-                    <a name="entiti"></a>**_entity_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="head-compani"></a>**_head company_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="incom-year"></a>**_income year_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="intern-review-decision"></a>**_internal review decision_** has the meaning given by section 30D.
-
-                    <a name="mec-group"></a>**_MEC group_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                    <a name="financ-scheme-guidelin"></a>**_finance scheme guidelines_** means guidelines made under section 39EA.
 
                     <a name="member"></a>**_member_** means the Chairperson or another member of the Board.
 
-                    <a name="pdf"></a>**_PDF_** has the same meaning as in the _Pooled Development Funds Act 1992_.
+                    <a name="pdf"></a>**_PDF_** has the same meaning as in the _Pooled Development Funds Act 1992_.
 
-                    <a name="activ"></a>**_R&amp;D activities_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                    <a name="research-develop-activ"></a>**_research and development activities_** means systematic investigation or experimentation activities:
 
-                    <a name="entiti"></a>**_R&amp;D entity_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                     (a)  that involve innovation, technology transfer into Australia or technical risk;
 
-                    <a name="research"></a>**_researcher_** means an entity that the Board believes is capable of carrying out a project of R&amp;D activities or innovation activities.
+                     (b)  that are carried out in Australia; and
 
-                    <a name="research-field"></a>**_research field_** means a research field specified in regulations made for the purposes of this definition.
+                     (c)  the object of which is new knowledge (with or without a specific practical application) or new or improved materials, products, devices, processes or services.
 
-                    <a name="research-servic-provid"></a>**_research service provider_** means an entity registered under section 29A.
-
-                    <a name="review-decision"></a>**_reviewable decision_** has the meaning given by section 30A.
-
-                    <a name="signific-scientif-link"></a>**_significant scientific link_** has the meaning given by subsection 28D(3).
-
-                    <a name="subsidiari-member"></a>**_subsidiary member_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="support-activ"></a>**_supporting R&amp;D activities_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                    <a name="research"></a>**_researcher_** means a person who, or a body, an organisation, or an institution, that, in the opinion of the Board, is capable of carrying out a project of research and development activities or innovation activities and, without limiting the foregoing, includes a Department of State, a company and an approved research institute.
 
                     <a name="technic-assess"></a>**_technical assessment_** means:
 
@@ -331,6 +277,14 @@ Sections 49–53
                               (i)  the progress of that research and development or of that innovation initiative; and
 
                              (ii)  any other matter specified in the Ministerial directions.
+
+             (2)  For the purposes of this Act:
+
+                     (a)  an external Territory to which this Act extends; and
+
+                     (b)  such areas of the sea or seabed adjacent to Australia or to an external Territory to which this Act extends as are prescribed;
+
+shall be taken to be part of Australia.
 
              (5)  A researcher shall be deemed for the purposes of this Act to carry out a project if, under an agreement, that project is carried out, for and on behalf of, the researcher.
 
@@ -380,11 +334,13 @@ Sections 49–53
 
                      (a)  such functions as are conferred on it by a provision of this Act (other than this section); and
 
-                     (b)  to evaluate, and to advise the Minister about, the operation of this Act, the _Pooled Development Funds Act 1992_ and the _Venture Capital Act 2002_, and the Commonwealth’s income tax laws as they operate in relation to those Acts; and
+                    (aa)  such functions as are conferred on it by the finance scheme guidelines; and
 
-                     (c)  such functions as are conferred on it by the _Pooled Development Funds Act 1992_, the _Venture Capital Act 2002_ or any other Act; and
+                     (b)  to evaluate, and to advise the Minister about, the operation of this Act, the _Pooled Development Funds Act 1992_ and the _Venture Capital Act 2002_, and the Commonwealth’s income tax laws as they operate in relation to those Acts; and
 
-                    (ca)  to give information it obtains under Part 2, 3 or 4 of the _Venture Capital Act 2002_ to the Commissioner for the purposes of implementing and administering the taxation law (within the meaning of the _Taxation Administration Act 1953_); and
+                     (c)  such functions as are conferred on it by the _Pooled Development Funds Act 1992_, the _Venture Capital Act 2002_ or any other Act; and
+
+                    (ca)  to give information it obtains under Part 2, 3 or 4 of the _Venture Capital Act 2002_ to the Commissioner of Taxation for the purposes of implementing and administering the taxation law (within the meaning of the _Taxation Administration Act 1953_); and
 
                      (d)  any functions specified in a direction in force under section 19.
 
@@ -414,13 +370,13 @@ Sections 49–53
 
              (1)  Subject to this Act, an appointed member holds office for such period, not exceeding 3 years, as is specified in the instrument of the member’s appointment, but he or she is eligible for re‑appointment.
 
-             (2)  A person must not be appointed as an appointed member if the person has, at any time before that appointment, served 2 consecutive terms as a member of the Board (whether or not either or both of those terms commenced or ended before the commencement of this subsection).
+             (2)  A person must not be appointed as an appointed member if the person has, at any time before that appointment, served 2 consecutive terms as a member of the Board (whether or not either or both of those terms commenced or ended before the commencement of this subsection).
 
              (3)  Before the Governor‑General appoints a person as an appointed member for a particular period, the Minister must be satisfied that appointing the member for that period would be appropriate, having regard to the desirability of ensuring, if practicable, that the periods for which the appointed members are appointed do not all end at the same time.
 
 ##### <a id="11"></a>11  Duties of Chairperson
 
-                   It is the duty of the Chairperson to ensure the efficient and orderly conduct of the business of the Board, and for that purpose, the Chairperson:
+             (1)  It is the duty of the Chairperson to ensure the efficient and orderly conduct of the business of the Board, and for that purpose, the Chairperson:
 
                      (a)  must make, or cause to be made, such inquiries as the Chairperson thinks necessary into:
 
@@ -431,6 +387,10 @@ Sections 49–53
                      (b)  may make, or cause to be made, to the Board such reports in relation to those applications as the Chairperson thinks fit; and
 
                      (c)  may determine the form of the records to be kept by the Board.
+
+             (2)  In this section:
+
+                    <a name="act"></a>**_this Act_** includes finance scheme guidelines.
 
 ##### <a id="12"></a>12  Remuneration and allowances
 
@@ -580,7 +540,7 @@ but a person so appointed shall not continue so to act for more than 12 months.
 
                      (a)  this Act, the _Pooled Development Funds Act 1992_ or the _Venture Capital Act 2002_; or
 
-                     (b)  the Commonwealth’s income tax laws as they operate in relation to this Act, the _Pooled Development Funds Act 1992_ or the _Venture Capital Act 2002_.
+                     (b)  the Commonwealth’s income tax laws as they operate in relation to this Act, the _Pooled Development Funds Act 1992_ or the _Venture Capital Act 2002_.
 
              (2)  The Board must comply with such a requirement.
 
@@ -678,6 +638,10 @@ but a person so appointed shall not continue so to act for more than 12 months.
 
              (8)  A committee shall cause minutes of its meetings to be kept.
 
+             (9)  In this section:
+
+                    <a name="act"></a>**_this Act_** includes finance scheme guidelines.
+
 ##### <a id="22A"></a>22A  Delegation by committee
 
              (1)  A committee may, by resolution, delegate to a member of the committee or to a member of the staff assisting the committee all or any of its functions and powers (including a function or power delegated to the committee by the Board under subsection 21(2), despite paragraph 34AB(b) of the _Acts Interpretation Act 1901_).
@@ -742,1479 +706,1121 @@ but a person so appointed shall not continue so to act for more than 12 months.
 
              (2)  The Board and committees may also be assisted by consultants, or other persons, engaged by the Commonwealth.
 
-## Part III—Functions relating to the R&amp;D tax offset
+## Part IIIA—Functions of Board in relation to income tax concessions
 
-### Division 1—Introduction
+##### <a id="39AA"></a>39AA  Object of Part
 
-##### <a id="26"></a>26  Objects
+             (1)  The object of this Part is to complement the tax incentive provided by sections 73B, 73BA, 73I, 73QA and 73QB of the _Income Tax Assessment Act 1936_ by giving the Board the role to determine whether eligible companies satisfy the requirements for the incentive.
 
-                   The objects of this Part are:
+             (2)  The object of sections 73B, 73BA, 73I, 73QA and 73QB of the _Income Tax Assessment Act 1936_ is to provide a tax incentive, in the form of a deduction, to encourage research and development activities in Australia and make eligible companies more internationally competitive by:
 
-                     (a)  to provide integrity for the working out of tax offsets under Division 355 (about R&amp;D) of the _Income Tax Assessment Act 1997_; and
+                     (a)  encouraging the development by eligible companies of innovative products, processes and services; and
 
-                     (b)  to increase certainty through findings about matters relevant to the working out of those tax offsets; and
+                     (b)  increasing investment by eligible companies in defined research and development activities; and
 
-                     (c)  to improve access for small and medium R&amp;D entities to quality research services by maintaining a register of research service providers.
+                     (c)  promoting the technological advancement of eligible companies through a focus on innovation or high technical risk in defined research and development activities; and
 
-Note:          The integrity mentioned in paragraph (a) is provided, for example, by:
+                     (d)  encouraging the use by eligible companies of strategic research and development planning; and
 
-(a)    the Board registering entities seeking these tax offsets; and
+                     (e)  creating an environment that is conducive to increased commercialisation of new processes and product technologies developed by eligible companies.
 
-(b)    the Board conducting compliance checks on those entities.
+The benefits of the tax incentive are targeted by being limited to particular expenditure on certain defined activities.
 
-##### <a id="26A"></a>26A  Simplified outline
+##### <a id="39A"></a>39A  Interpretation
 
-                   The following is a simplified outline of this Part:
+             (1)  In this Part, unless the contrary intention appears:
 
-* * *
+                    <a name="commerci-govern-bodi-guidelin"></a>**_commercial government bodies guidelines_** means guidelines made under section 39HB.
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Board may, on
+                    <a name="compani"></a>**_company_** means any body corporate.
 
-application by an R&amp;D entity, register the R&amp;D entity for R&amp;D
+                    <a name="dispos"></a>**_dispose of_** means dispose of in any way, including by assignment or declaration of trust.
 
-activities. This registration is needed before the R&amp;D entity can be
+                    <a name="elig-compani"></a>**_eligible company_** means a body corporate incorporated under a law of the Commonwealth or of a State or Territory.
 
-entitled to a tax offset (an **_R&amp;D tax offset_**) under
+                    <a name="elig-govern-bodi"></a>**_eligible government bodies_** means:
 
-Division 355 of the _Income Tax Assessment Act 1997_ for the R&amp;D
+                     (a)  a government body within the meaning of section 73CB of the _Income Tax Assessment Act 1936_; or
 
-activities.</li>
+                     (b)  an associate (within the meaning of that section) of such a government body.
 
-<li class="BoxList" style="margin-left:21.25pt">•      The R&amp;D entity can seek
+                    <a name="financ"></a>**_finance_** includes debt finance and equity finance.
 
-an advance finding to get early notice about whether an activity is considered
+                    <a name="financ-scheme"></a>**_finance scheme_**, in relation to research and development activities carried on, or proposed to be carried on, by or on behalf of an eligible company, means a scheme entered into or carried out by any of the parties to the scheme for the purpose, or for purposes that include the purpose:
 
-to be an R&amp;D activity.</li>
+                     (a)  of enabling the company, or an associate of the company, to obtain finance (whether by way of renewal or otherwise) in connection with those activities; or
 
-<li class="BoxList" style="margin-left:21.25pt">•      The R&amp;D entity can seek
+                     (b)  of enabling the company, or an associate of the company, to obtain an extension of the period for which finance was obtained in connection with those activities under an earlier scheme.
 
-a finding that an activity cannot be conducted in Australia. The finding is
+                    <a name="inelig-financ-scheme"></a>**_ineligible finance scheme_** means a finance scheme that is taken to be an ineligible finance scheme under the finance scheme guidelines.
 
-needed before expenditure incurred on the activity can count towards an R&amp;D
+                    <a name="regist"></a>**_register_** means:
 
-tax offset.</li>
+                     (a)  in relation to an eligible company:
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Board may register
+                              (i)  register under section 39J; or
 
-entities as research service providers capable of providing research services
+                             (ii)  register jointly with any other eligible company or eligible companies under section 39P; or
 
-to R&amp;D entities.</li>
+                     (b)  in relation to a research agency—register under section 39F.
 
-<li class="BoxList" style="margin-left:21.25pt">•      Internal and external
+                    <a name="regist-commerci-govern-bodi"></a>**_Register of Commercial Government Bodies_** means the Register of Commercial Government Bodies required by section 39HA.
 
-review can be sought for certain decisions under this Part.</li>
+                    <a name="result"></a>**_result_**, in relation to research and development activities, means a result that is capable of being exploited.
 
-* * *
+                    <a name="scheme"></a>**_scheme_** means:
 
-### Division 2—Registering for the R&amp;D tax offset
+                     (a)  an agreement, arrangement, understanding, promise or undertaking, whether express or implied and whether or not enforceable, or intended to be enforceable, by legal proceedings; and
 
-#### Subdivision A—Introduction
+                     (b)  a scheme, plan, proposal, action, course of action or course of conduct.
 
-##### <a id="27"></a>27  Simplified outline
+             (2)  Subject to subsection (1), expressions used in this Part that are defined by section 73B of the _Income Tax Assessment Act 1936_ have in this Part, unless the contrary intention appears, the same meanings as in that section.
 
-                   The following is a simplified outline of this Division:
+             (3)  Subject to subsections (1) and (2), expressions used in this Part that are defined by the _Income Tax Assessment Act 1936_ (other than section 73B) have in this Part, unless the contrary intention appears, the same meanings as in that Act.
 
-* * *
+##### <a id="39B"></a>39B  Related companies
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Board may register an
+                   For the purposes of this Part, the question whether 2 or more companies are related to each other shall be determined in the same way as that question would be determined for the purposes of the _Corporations Act 2001_.
 
-R&amp;D entity for R&amp;D activities conducted during an income year.</li>
+##### <a id="39C"></a>39C  Exploitation otherwise than on normal commercial terms
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Board may make findings
+                   The exploitation of a particular result of any activity shall be taken for the purposes of this Part to be an exploitation otherwise than on normal commercial terms if, in the opinion of the Board, any contract or transaction relating to that exploitation would not have been entered into, or contained terms that would not have been contained or would have been different, if the contract or transaction had been entered into by persons dealing with each other at arm’s length and from positions of comparable bargaining power.
 
-about the nature of an R&amp;D entity’s activities both before and after
+##### <a id="39D"></a>39D  Research and development activities for the benefit of the Australian economy
 
-registration. This includes findings made on application by the R&amp;D entity
+             (1)  Australian research and development activities are taken to be for the benefit of the Australian economy.
 
-after registration.</li>
+             (2)  Overseas research and development activities are taken to be for the benefit of the Australian economy if the Board has given a provisional certificate in respect of the activities.
 
-<li class="BoxList" style="margin-left:21.25pt">•      These findings bind the
+##### <a id="39E"></a>39E  Adequate Australian content
 
-Commissioner for the purposes of any entitlement of the R&amp;D entity to a tax
+             (1)  The Board shall, as soon as practicable (and, in any event, within 90 days) after the commencement of this Part, formulate in writing guidelines to enable eligible companies to ascertain whether proposed Australian research and development activities will be regarded as having an adequate Australian content for the purposes of this Part.
 
-offset under Division 355 of the _Income Tax Assessment Act 1997_ for
+             (2)  The Board shall cause the guidelines to be published in the _Gazette_ and made available on request, without charge, to any eligible company.
 
-the activities.</li>
+             (3)  The Board may use as the basis of the guidelines any of the following matters, but is not limited to those matters:
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Board will register an
+                     (a)  the proportion of the total expenditure incurred in respect of particular activities that is to be incurred by residents of Australia;
 
-R&amp;D entity’s activities consistently with any findings made about the
+                     (b)  the extent to which particular activities are to be carried out in Australia;
 
-entity’s application. Any findings made about these activities after
+                     (c)  the extent to which particular activities are to be carried out by non‑residents, whether the activities are to be carried out in Australia or not;
 
-registration will, if necessary, automatically vary the entity’s registration.</li>
+                     (d)  the extent to which particular activities will involve the use of imported plant or of knowhow or technology acquired outside Australia.
 
-<li class="BoxList" style="margin-left:21.25pt">•      Registrations can also be
+             (4)  The Board is not entitled, in relation to expenditure incurred by a company on particular activities, to give a certificate stating that it is of the opinion that those activities do not have an adequate Australian content if, at the time when the expenditure was incurred, the activities complied with the guidelines in force at that time.
 
-varied and revoked.</li>
+          (4A)  The Board may, at any time, and whether or not within 90 days after the commencement of this Part, by instrument in writing, repeal, replace or amend guidelines made under subsection (1).
 
-* * *
+             (5)  An instrument formulating guidelines under subsection (1), or repealing, replacing or amending such guidelines, is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-#### Subdivision B—Registering R&amp;D entities for R&amp;D activities
+##### <a id="39EA"></a>39EA  Finance scheme guidelines
 
-##### <a id="27A"></a>27A  Registering R&amp;D entities for R&amp;D activities
+             (1)  The Board must, as soon as practicable (and, in any event, within 90 days) after the commencement of this section, formulate written guidelines to enable eligible companies to ascertain whether finance schemes in relation to research and development activities carried on, or proposed to be carried on, by eligible companies will be taken to be ineligible finance schemes for the purposes of this Part.
 
-             (1)  The Board must, on application by an R&amp;D entity, decide whether to register or refuse to register the entity for either or both of the following for an income year:
+             (2)  The Board must cause the finance scheme guidelines to be:
 
-                     (a)  one or more specified activities as core R&amp;D activities conducted during the income year;
+                     (a)  published in the _Gazette_; and
 
-                     (b)  one or more specified activities as supporting R&amp;D activities conducted during the income year.
+                     (b)  made available on request, without charge, to any eligible company.
 
-Note 1:       A decision under this subsection is reviewable (see Division 5).
+             (3)  In making finance scheme guidelines about a particular kind of scheme, the matters to which the Board is to have regard include, but are not limited to:
 
-Note 2:       For requirements of applications, see section 27D.
+                     (a)  the manner in which the scheme was entered into or carried out; and
 
-             (2)  If the Board decides under subsection (1) to register the R&amp;D entity, the Board must do so consistently with:
+                     (b)  the form and substance of the scheme; and
 
-                     (a)  any findings already in force under subsection 27B(1) in relation to the application; and
+                     (c)  matters relating to the research and development activities to which the scheme relates; and
 
-                     (b)  any findings already in force under subsection 28A(1) (advance findings about the nature of activities) in relation to the R&amp;D entity.
+                     (d)  the likelihood that section 73CB of the _Income Tax Assessment Act 1936_ will apply to expenditure incurred in connection with the research and development activities to which the scheme relates.
 
-             (3)  For each activity registered under subsection (1) as a supporting R&amp;D activity for an R&amp;D entity for an income year, the registration is to also specify:
+             (4)  The finance scheme guidelines may confer functions and powers on the Board.
 
-                     (a)  one or more activities as the corresponding core R&amp;D activities; and
+             (5)  The first finance scheme guidelines may be expressed to apply to schemes entered into or carried out before the commencement of this section.
 
-                     (b)  if any of those activities specified as a core R&amp;D activity is not registered under paragraph (1)(a) for the R&amp;D entity for the income year—each income year for which that core R&amp;D activity:
+          (5A)  The Board may, at any time, and whether or not within 90 days after the commencement of this section, by writing, repeal, replace or amend guidelines made under subsection (1).
 
-                              (i)  was registered under paragraph (1)(a) for the R&amp;D entity; or
+             (6)  An instrument formulating finance scheme guidelines, or repealing, replacing or amending such guidelines, is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-                             (ii)  is proposed to be registered under paragraph (1)(a) for the R&amp;D entity.
+##### <a id="39EB"></a>39EB  Guidelines concerning overseas research and development activities
 
-##### <a id="27B"></a>27B  Findings about applications for registration
+             (1)  The Board must, as soon as practicable (and, in any event, within 90 days) after the commencement of this section, formulate written guidelines setting out the criteria to be met by eligible companies wishing to obtain a provisional certificate under section 39ED in relation to overseas research and development activities proposed to be carried on by them as part of projects of research and development activities.
 
-             (1)  The Board may make one or more findings to the following effect when considering an R&amp;D entity’s application for the purposes of subsection 27A(1):
+             (2)  The Board must cause the guidelines to be:
 
-                     (a)  that all or part of an activity mentioned in the application was a core R&amp;D activity conducted during the income year;
+                     (a)  published in the _Gazette_; and
 
-                     (b)  that all or part of an activity mentioned in the application was not an activity of a kind covered by paragraph (a);
+                     (b)  made available on request, without charge, to any eligible company.
 
-                     (c)  that all or part of an activity mentioned in the application was a supporting R&amp;D activity conducted:
+             (3)  The criteria to be set out in the guidelines must include the following criteria:
 
-                              (i)  during the income year; and
+                     (a)  it must be shown that the proposed overseas research and development activities cannot be carried out in Australia or the external Territories;
 
-                             (ii)  in relation to one or more specified core R&amp;D activities for which the entity has been or could be registered under section 27A for an income year;
+                     (b)  it must be shown that the results of the overseas research and development activities will be exploited by the eligible company concerned for the benefit of the Australian economy;
 
-                     (d)  that all or part of an activity mentioned in the application was not an activity of a kind covered by paragraph (c).
+                     (c)  it must be shown that the expenditure:
 
-Note 1:       A finding is reviewable (see Division 5).
+                              (i)  that is proposed to be incurred by the eligible company in respect of the overseas research and development activities; and
 
-Note 2:       The Board could make a finding under paragraph (b) if, for example, the Board has insufficient information to make a finding under paragraph (a). Similarly, the Board could make a finding under paragraph (d) if it has insufficient information to make a finding under paragraph (c).
+                             (ii)  in respect of which the company proposes to claim a deduction under section 73B, 73BA, 73BH or 73QA, or a tax offset under section 73I, of the _Income Tax Assessment Act 1936_;
 
-Note 3:       The Board may also make findings after registration (see subsection 27J(1)).
+                            will not exceed 10% of the total expenditure that the company has incurred or proposes to incur on the project of research and development activities.
 
-             (2)  If the Board makes a finding under subsection (1) in relation to the R&amp;D entity’s application, the Board may specify in the finding the times to which the finding relates.
+          (3A)  The Board may, at any time, and whether or not within 90 days after the commencement of this Part, by writing, repeal, replace or amend guidelines made under subsection (1).
 
-Example:    A finding under paragraph (1)(a) could specify the times during the income year that an activity was a core R&amp;D activity.
+             (4)  An instrument formulating guidelines under subsection (1), or repealing, replacing or amending such guidelines, is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901._
 
-             (3)  This section has effect subject to section 32B (findings cannot be inconsistent with any earlier findings).
+##### <a id="39EC"></a>39EC  Applications for provisional certificates
 
-##### <a id="27C"></a>27C  Notice of decision about registration
+             (1)  An eligible company that proposes to incur expenditure in carrying on overseas research and development activities in respect of which it proposes to claim a deduction under section 73B, 73BA, 73BH or 73QA, or a tax offset under section 73I, of the _Income Tax Assessment Act 1936_ may apply to the Board for a provisional certificate in respect of the activities.
 
-             (1)  The Board must notify an applicant in writing of the Board’s decision under subsection 27A(1) about the application.
+             (2)  The application must:
 
-             (2)  The notice must include a certificate for each finding (if any) made under subsection 27B(1) for the application. The certificate must set out:
+                     (a)  be in writing; and
 
-                     (a)  a description of the finding; and
+                     (b)  describe the project to which the proposed activities relate; and
 
-                     (b)  the Board’s reasons for the finding; and
+                     (c)  describe the proposed activities; and
 
-                     (c)  the activity affected by the finding; and
+                     (d)  state the respective amounts of expenditure proposed to be incurred by the company on the project that relate to:
 
-                     (d)  the matters (if any) specified in regulations made for the purposes of this paragraph.
+                              (i)  Australian research and development activities; and
 
-The notice and certificate may set out other matters.
+                             (ii)  overseas research and development activities; and
 
-Note:          The notice could also mention the applicant’s right to have the finding reviewed under Division 5 (see section 30B).
+                            (iii)  if the company proposes to claim a deduction under section 73B, 73BA, 73BH or 73QA, or a tax offset under section 73I, of the _Income Tax Assessment Act 1936_ in respect of part only of the expenditure on overseas research and development activities—the amount of that part of the expenditure; and
 
-             (3)  The Board must give the Commissioner a copy of the notice if the notice includes one or more certificates.
+                     (e)  be accompanied by any other information that the Board reasonably requires.
 
-             (4)  A failure to comply with this section does not affect the validity of the decision or finding.
+##### <a id="39ED"></a>39ED  Board’s decision on application for provisional certificate
 
-#### Subdivision C—Applying to register R&amp;D activities
+             (1)  After considering an application under section 39EC, the Board must decide to:
 
-##### <a id="27D"></a>27D  Applying to register R&amp;D activities
+                     (a)  grant the application; or
 
-                   An application to register activities under section 27A for an income year must be:
+                     (b)  refuse the application.
 
-                     (a)  in the approved form; and
+             (2)  If the Board has not made a decision under subsection (1) before whichever time (the **_eligible time_**) is the later of the following times:
 
-                     (b)  accompanied by the fee (if any) specified in regulations made under section 48A for the purposes of this section; and
+                     (a)  the end of the period (the **_original 90‑day period_**) of 90 days after the day on which the application was received by the Board;
 
-                     (c)  made within:
+                     (b)  if the Board, by written notice given to the applicant within the original 90‑day period, requests the applicant to give further information about the application—the end of the period of 90 days after the Board receives the further information;
 
-                              (i)  10 months after the end of the income year; or
+then, at the eligible time, the Board is taken (except for the purpose of subsection (3)) to have made a decision under subsection (1) to refuse the application.
 
-                             (ii)  a further period allowed by the Board in accordance with the decision‑making principles.
+             (3)  If the Board makes a decision under subsection (1), the Board must give written notice of the decision to the applicant.
 
-Note 1:       A refusal to allow a further period is reviewable (see Division 5).
+             (4)  A notice under subsection (3) relating to a refusal must set out the reasons for the refusal.
 
-Note 2:       Section 32 deals with approved forms.
+             (5)  The Board must not grant the application unless the Board is satisfied that the applicant meets the criteria set out in the guidelines formulated under section 39EB.
 
-Note 3:       Section 32A deals with the decision‑making principles.
+             (6)  If the Board grants the application, it must give to the applicant a provisional certificate in respect of the activities to which the application relates.
 
-##### <a id="27E"></a>27E  Board may request further information
+          (6A)  A provisional certificate granted pursuant to an application made after the commencement of this subsection has effect, and is taken always to have had effect, as if it had been given to the applicant on the day on which the application was made.
 
-             (1)  The Board may request the applicant in writing to give specified information, or specified kinds of information, to the Board about the application.
+             (7)  A decision under subsection (1) is not invalid merely because it is made after the eligible time unless, before the decision is made, the applicant makes a request to the Board under subsection 39S(2).
 
-             (2)  The request may be for the information or kinds of information to be given within:
+Note:          Subsection 39S(2) deals with requests to the Board to reconsider decisions.
 
-                     (a)  30 days after the request was made; or
+##### <a id="39EE"></a>39EE  Matters to be contained in provisional certificate
 
-                     (b)  a further period allowed by the Board in accordance with the decision‑making principles.
+             (1)  A provisional certificate given to an eligible company under section 39ED must:
 
-Note 1:       A refusal to allow a further period is reviewable (see Division 5).
+                     (a)  describe the overseas research and development activities to which the certificate relates; and
 
-Note 2:       Section 32A deals with the decision‑making principles.
+                     (b)  contain a description of the project of research and development activities to which those overseas research and development activities relate; and
 
-Note 3:       A failure by the entity to give the information may result in a finding under paragraph 27B(1)(b) or (d).
+                     (c)  state the amount of proposed expenditure on overseas research and development activities in respect of which the company proposes to claim a deduction under section 73B, 73BA, 73BH or 73QA, or a tax offset under section 73I, of the _Income Tax Assessment Act 1936_; and
 
-             (3)  The request may be for the information or kinds of information to be given in the approved form.
+                     (d)  contain any other matters that the Board considers relevant.
 
-Note:          Section 32 deals with approved forms.
+             (2)  After a provisional certificate is given to a company under section 39ED, the company may apply in writing to the Board for the certificate to be amended so as to vary either or both of the following:
 
-             (4)  Subsections (2) and (3) do not limit subsection (1).
+                     (a)  the description of the overseas research and development activities;
 
-#### Subdivision D—Examining registrations
+                     (b)  the amount of the proposed expenditure on overseas research and development activities in respect of which the company proposes to claim a deduction under section 73B, 73BA, 73BH or 73QA, or a tax offset under section 73I, of the _Income Tax Assessment Act 1936._
 
-##### <a id="27F"></a>27F  Examining a registration
+(3)  If:
 
-             (1)  The Board may conduct one or more examinations of all or part of an R&amp;D entity’s registration under section 27A for an income year for the purposes of making one or more findings under subsection 27J(1).
+                     (a)  such an application is made; and
 
-Note:          A finding under subsection 27J(1) will support the entity’s registration, or cause the variation of that registration.
+                     (b)  the provisional certificate is produced to the Board; and
 
-             (2)  The Board may examine an R&amp;D entity’s registration on its own initiative.
+                     (c)  the Board is satisfied that it is appropriate to amend the certificate having regard to the criteria set out in the guidelines formulated under subsection 39EB(1);
 
-             (3)  The Board must examine an R&amp;D entity’s registration if:
+the Board may amend the certificate accordingly and return the amended certificate to the company.
 
-                     (a)  requested by the Commissioner; or
+##### <a id="39EF"></a>39EF  Board’s power to amend or revoke provisional certificate on its own initiative
 
-                     (b)  the R&amp;D entity has applied for one or more findings under subsection 27J(1) about the registration.
+             (1)  The Board may, on its own initiative, amend or revoke a provisional certificate given to an eligible company under section 39ED as provided in this section.
 
-Note:          A finding under subsection 27J(1) can only bind the Commissioner for the purposes of the R&amp;D entity’s income tax assessment for the income year if the finding is made within 4 years after the end of the income year (see subsection 355‑705(1) of the _Income Tax Assessment Act 1997_)_._
+Note:          For the Board’s power to amend the provisional certificate on application by the company, see subsections 39EE(2) and (3).
 
-             (4)  If the R&amp;D entity applies for a finding under subsection 27J(1) about the registration, the Board must:
+             (2)  If the Board is satisfied that the expenditure (the **_claimed overseas expenditure_**):
 
-                     (a)  make one or more findings under subsection 27J(1) about the registration; or
+                     (a)  on the overseas research and development activities to which the certificate relates; and
 
-                     (b)  if justified in accordance with the decision‑making principles—refuse to make a finding under subsection 27J(1) about the registration.
+                     (b)  in respect of which the company has claimed a deduction under section 73B, 73BA, 73BH or 73QA, or a tax offset under section 73I, of the _Income Tax Assessment Act 1936_;
 
-Note 1:       The Board may make a finding that differs from that sought by the R&amp;D entity.
+exceeds 10% of the total expenditure (the **_total project expenditure_**) incurred by the company on the project of research and development activities, the Board may, in writing, determine that the provisional certificate is amended, as specified in the determination, so that it does not cover so much of the overseas research and development activities as resulted in the claimed overseas expenditure exceeding 10% of the total project expenditure.
 
-Note 2:       A finding, or a refusal to make a finding, is reviewable (see Division 5).
+             (3)  If the Board makes a determination under subsection (2), the provisional certificate has effect, and is taken always to have had effect, as if it had originally been given as amended in accordance with the determination.
 
-Note 3:       Section 32A deals with the decision‑making principles.
+             (4)  The Board may, in writing, revoke the certificate if the Board is satisfied that the total expenditure incurred by the company on the project of research and development activities consisted solely of expenditure on overseas research and development activities.
 
-##### <a id="27G"></a>27G  Applying for findings
+             (5)  If the Board revokes the provisional certificate under subsection (4), the provisional certificate is taken never to have been given.
 
-                   An application for one or more findings under subsection 27J(1) must be:
+             (6)  If the Board decides to make a determination under subsection (2) amending the provisional certificate, or to revoke the provisional certificate under subsection (4), the Board must give notice in writing to the company setting out the decision and the reasons for the decision.
 
-                     (a)  in the approved form; and
+##### <a id="39F"></a>39F  Registration of Australian research agencies
 
-                     (b)  accompanied by the fee (if any) specified in regulations made under section 48A for the purposes of this section.
+             (1)  Any body of persons, whether corporate or unincorporate, may make an application to the Board in writing, in accordance with a form approved by the Board, for registration as an Australian research agency for the purpose of performing a particular class of Australian research and development activities on behalf of registered eligible companies or foreign companies.
 
-Note 1:       An application can seek findings for several activities.
+             (2)  The Board shall, in consultation with the Commissioner, as soon as practicable (and, in any event, within 90 days) after the commencement of this Part, formulate in writing criteria to be met by bodies wishing to be registered under this section and shall cause the criteria so formulated to be made available to any person upon request, without charge, and to be published in the _Gazette_ and in such other manner as the Board considers appropriate.
 
-Note 2:       Section 32 deals with approved forms.
+             (3)  Where a body purported before the commencement of this Part to make an application to the Board for registration as an Australian research agency, the application shall be taken to have been as valid as it would have been if this section has been in force when the application was made.
 
-##### <a id="27H"></a>27H  Board may request information during an examination
+             (4)  Subject to subsection (9), where an application has been made in accordance with subsection (1) and the Board is satisfied that the applicant meets the criteria, the Board shall register the applicant as an Australian research agency in respect of such class of Australian research and development activities as the Board considers the applicant is qualified to perform and shall give to the applicant notice in writing of the result of the application.
 
-             (1)  When examining an R&amp;D entity’s registration, the Board may request the entity in writing to give specified information, or specified kinds of information, to the Board about the entity’s registration.
+             (5)  The registration of an Australian research agency shall be taken to have had effect on and from:
 
-             (2)  The request may be for the information or kinds of information to be given within:
+                     (a)  if the body concerned was, on 30 June 1988, an approved Australian research institute—1 July 1988; or
 
-                     (a)  30 days after the request was made; or
+                     (b)  otherwise—the date on which the application for registration was received by the Board.
 
-                     (b)  a further period allowed by the Board in accordance with the decision‑making principles.
+             (6)  Subject to subsections (7) and (9), the Board may, on application made by a registered Australian research agency in writing, in accordance with a form approved by the Board, vary the class of Australian research and development activities in respect of which the agency is registered and shall give to the agency notice in writing of the result of the application.
 
-Note 1:       A refusal to allow a further period is reviewable (see Division 5).
+             (7)  The Board shall not vary the class of Australian research and development activities in respect of which an Australian research agency is registered so as to include additional activities unless the Board is satisfied that the agency is qualified to perform those additional activities.
 
-Note 2:       Section 32A deals with the decision‑making principles.
+             (8)  The date of effect of such a variation is the date on which the variation is made to the register of Australian research agencies.
 
-Note 3:       A failure by the entity to give the information may result in a finding under paragraph 27J(1)(b) or (d).
+             (9)  Where the Board considers that it will be necessary for the purpose of dealing with an application under this section to make inquiries as to the applicant’s qualifications to perform particular Australian research and development activities, the Board may, before dealing with the application, by notice in writing given to the applicant, require the applicant to pay such amount (not exceeding $1,000 or such higher amount as is prescribed) as the Board determines in or towards meeting the cost of the inquiries.
 
-             (3)  The request may be for the information or kinds of information to be given in the approved form.
+           (10)  If the Board:
 
-Note:          Section 32 deals with approved forms.
+                     (a)  refuses an application to register a body as an Australian research agency; or
 
-             (4)  Subsections (2) and (3) do not limit subsection (1).
+                     (b)  refuses an application to register a body as an Australian research agency in respect of, or to vary the registration of a body that is a registered Australian research agency so as to include, particular Australian research and development activities;
 
-##### <a id="27J"></a>27J  Findings about a registration
+the notice to the applicant stating the result of the application shall also state the reasons for the refusal.
 
-             (1)  The Board may make one or more findings to the following effect about an R&amp;D entity’s registration under section 27A for an income year (the **_registration year_**):
+        (10A)  The Board may, in consultation with the Commissioner at any time and whether or not within 90 days after the commencement of this Part, by writing, repeal, replace or amend criteria made under subsection (2).
 
-                     (a)  that all or part of a registered activity was a core R&amp;D activity conducted during the registration year;
+           (11)  An instrument formulating criteria under subsection (2), or repealing, replacing or amending such criteria, is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-                     (b)  that all or part of a registered activity was not an activity of a kind covered by paragraph (a);
+##### <a id="39FA"></a>39FA  Notices about continuing registration of Australian research agencies
 
-                     (c)  that all or part of a registered activity was a supporting R&amp;D activity conducted during the registration year and in relation to:
+             (1)  The Board may give a body of persons, whether corporate or unincorporate, that is registered under section 39F as an Australian research agency a notice:
 
-                              (i)  one or more specified registered core R&amp;D activities; or
+                     (a)  asking the body if it wishes to continue to be registered under that section; and
 
-                             (ii)  one or more specified core R&amp;D activities for which the entity has been registered in an earlier income year; or
+                     (b)  attaching a form to be completed by the body and returned to the Board if the body does wish to continue to be registered.
 
-                            (iii)  one or more specified core R&amp;D activities yet to be conducted for which the entity could be registered in the registration year if those activities were conducted during the registration year; or
+             (2)  The Board must not give the body a notice under subsection (1) within 12 months of when it last gave the body such a notice.
 
-                            (iv)  several specified core R&amp;D activities, each covered by subparagraph (i), (ii) or (iii);
+             (3)  If the body does not complete and return the form within 30 days, or such longer period as the Board allows, of the body being given the notice, the registration of the body is cancelled, by force of this subsection, at the end of that period.
 
-                     (d)  that all or part of a registered activity was not an activity of a kind covered by paragraph (c).
+##### <a id="39G"></a>39G  Cancellation of registration of research agencies
 
-Note 1:       A finding is reviewable (see Division 5).
+             (1)  The Board shall determine the grounds on which the registration of a research agency may be cancelled and shall cause the grounds so determined to be made available to any person upon request, without charge, and to be published in the _Gazette_ and in such other manner as the Board considers appropriate.
 
-Note 2:       The Board could make a finding under paragraph (b) if, for example, the Board has insufficient information to make a finding under paragraph (a). Similarly, the Board could make a finding under paragraph (d) if it has insufficient information to make a finding under paragraph (c).
+             (2)  The grounds to be determined under subsection (1) shall include the failure of a research agency to meet a criterion formulated under subsection 39F(2).
 
-             (2)  If the Board makes a finding under subsection (1) in relation to the R&amp;D entity’s registration, the Board may specify in the finding the times to which the finding relates.
+             (3)  Where the Board is of the opinion that a ground may exist for cancelling the registration of a research agency, the Board shall:
 
-Example:    A finding under paragraph (1)(a) could specify the times during the registration year that a registered activity was a core R&amp;D activity.
+                     (a)  give notice in writing to the research agency stating that it is of that opinion and specifying particulars of the ground concerned; and
 
-             (3)  This section has effect subject to section 32B (findings cannot be inconsistent with any earlier findings).
+                     (b)  invite the research agency to make a written submission to the Board in relation to the matter within 90 days.
 
-##### <a id="27K"></a>27K  Notice of findings or of decisions refusing to make findings
+             (4)  If, after the end of that period or the receipt of a submission by the research agency, whichever first happens, and, if such a submission is received, after having regard to the matters raised in the submission, the Board is satisfied that the ground has been established, the Board may cancel the registration of the research agency.
 
-             (1)  The Board must notify the R&amp;D entity, and the Commissioner, in writing of any findings under subsection 27J(1) about the entity’s registration under section 27A.
+             (5)  If the Board cancels the registration of a research agency, the Board shall give notice in writing to the agency stating the reasons for the cancellation.
 
-             (2)  The notice must include a certificate for each finding. The certificate must set out:
+             (6)  Except as provided by subsections (3) and (4), the Board may not cancel the registration of a research agency.
 
-                     (a)  a description of the finding; and
+Note:          The registration of a research agency may also be cancelled by force of subsection 39FA(3).
 
-                     (b)  the Board’s reasons for the finding; and
+##### <a id="39H"></a>39H  Board to publicise particulars of registered research agencies
 
-                     (c)  the registered activity affected by the finding; and
+                   The Board shall:
 
-                     (d)  the effect of the finding on the entity’s registration; and
+                     (a)  cause the register of research agencies to be made available for inspection at any reasonable time by any person on request; and
 
-                     (e)  the matters (if any) specified in regulations made for the purposes of this paragraph.
+                     (b)  cause to be published in each report of the Board under section 46 a list of the names of registered research agencies as at the end of the year to which the report relates and the classes of activities in respect of which those agencies are respectively registered.
 
-The notice and certificate may set out other matters.
+##### <a id="39HA"></a>39HA  Register of Commercial Government Bodies
 
-Note 1:       For the effect of the finding on the entity’s registration, see section 27L (about automatic variations to registrations).
+\[Register to be kept by Board]
 
-Note 2:       The notice could also mention the applicant’s right to have the finding reviewed under Division 5 (see section 30B).
+             (1)  The Board must keep a register, to be known as the Register of Commercial Government Bodies, listing such eligible government bodies as are required to be on the register because of this Part.
 
-             (3)  The Board must notify the R&amp;D entity in writing of any decision under paragraph 27F(4)(b) refusing to make a finding under subsection 27J(1) in response to an application under section 27G by the R&amp;D entity.
+\[Register to be open for inspection]
 
-             (4)  A failure to comply with this section does not affect the validity of a finding or decision.
+(2)  The Board must cause the Register of Commercial Government Bodies to be made available for inspection at any reasonable time by any person on request.
 
-##### <a id="27L"></a>27L  Automatic variations so registration is consistent with findings
+##### <a id="39HB"></a>39HB  Commercial government bodies guidelines
 
-             (1)  If an R&amp;D entity is registered under section 27A for an income year, then while a finding is in force:
+\[Board to make guidelines setting out criteria for entry on Register]
 
-                     (a)  under subsection 27B(1) in relation to the application for the registration; or
+             (1)  The Board must, as soon as practicable (and, in any event, within 90 days) after the commencement of this section, formulate written guidelines (**_commercial government bodies guidelines_**) setting out criteria to be met by eligible government bodies wishing to be entered on the Register of Commercial Government Bodies.
 
-                     (b)  under subsection 27J(1) in relation to the registration;
+\[Guidelines to be published etc.]
 
-the registration is taken always to have existed in a form consistent with the finding.
+(2)  The Board must cause the commercial government bodies guidelines to be:
 
-Note 1:       This subsection will cease to apply if the finding is set aside on review (see Division 5).
+                     (a)  published in the _Gazette_; and
 
-Note 2:       A finding has no effect to the extent of any inconsistency with a finding already in force under this Part in relation to the R&amp;D entity (see section 32B).
+                     (b)  made available, without charge, to any interested person.
 
-             (2)  If:
+\[Matters to be taken into account in making guidelines]
 
-                     (a)  a finding under subsection 28A(1) (advance findings about the nature of activities) comes into force for an R&amp;D entity about an activity conducted during an income year; and
+(3)  In making commercial government bodies guidelines about a particular kind of eligible government body, the matters to which the Board is to have regard include, but are not limited to:
 
-                     (b)  the R&amp;D entity is later registered under section 27A for the activity for the income year;
+                     (a)  the commercial environment in which the eligible government body operates; and
 
-then, after registration and while the finding is in force, the registration is taken to exist in a form consistent with the finding.
+                     (b)  whether there is a framework for the oversight of the operations, and the monitoring of the performance, of the eligible government body and, if so, the nature of that framework; and
 
-Note 1:       This subsection will cease to apply if the finding is set aside on review (see Division 5).
+                     (c)  the extent to which the eligible government body is:
 
-Note 2:       A finding has no effect to the extent of any inconsistency with a finding already in force under this Part in relation to the R&amp;D entity (see section 32B).
+                              (i)  bound by regulatory laws of the Commonwealth, the States and the Territories; and
 
-             (3)  This section has effect for the purposes of this Act and the _Income Tax Assessment Act 1997_.
+                             (ii)  subject to taxation and charges under the laws of the Commonwealth, the States and the Territories; and
 
-##### <a id="27M"></a>27M  Varying registrations on application
+                     (d)  the extent of private sector equity investment (whether direct or indirect through one or more interposed companies, partnerships or trusts) in the eligible government body; and
 
-             (1)  The Board may, by notice in writing given to an R&amp;D entity, vary the entity’s registration under section 27A for an income year if:
+                     (e)  if the eligible government body is established by or under a law of the Commonwealth, a State or a Territory—the policies of the Commonwealth, the State or the Territory, as the case requires, regarding the issue of the extent to which the eligible government body should be treated as a fully commercial entity.
 
-                     (a)  the entity applies for the variation; and
+             (4)  The commercial government bodies guidelines must set out a criterion to the effect that an eligible government body will not be entered on the Register of Commercial Government Bodies with effect on a particular day if on that day the body is or will be an exempt entity within the meaning of the _Income Tax Assessment Act 1997_.
 
-                     (b)  the variation is consistent with the Board’s findings (if any) in force under this Part in relation to the R&amp;D entity; and
+\[Board may repeal, replace or amend guidelines]
 
-                     (c)  making the variation is justified in accordance with the decision‑making principles.
+(4A)  The Board may, at any time and whether or not within 90 days after the commencement of this section, by writing, repeal, replace or amend guidelines made under this section.
 
-Note 1:       A decision not to vary is reviewable (see Division 5).
+\[Guidelines to be disallowable]
 
-Note 2:       Section 32A deals with the decision‑making principles.
+             (5)  An instrument formulating commercial government bodies guidelines, or repealing, replacing or amending such guidelines, is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-             (2)  An application for a variation must be:
+##### <a id="39HC"></a>39HC  Applications for entry on the Register of Commercial Government Bodies
 
-                     (a)  in the approved form; and
+             (1)  An eligible government body may apply to the Board to be entered on the Register of Commercial Government Bodies.
 
-                     (b)  accompanied by the fee (if any) specified in regulations made under section 48A for the purposes of this section.
+             (2)  The application must be:
 
-Note:          Section 32 deals with approved forms.
+                     (a)  in writing; and
 
-             (3)  Section 27E applies to an application under this section in a way corresponding to the way that section applies to an application under section 27D.
+                     (b)  in a form approved by the Board; and
 
-Note:          This means the Board may request further information about the application for variation.
+                     (c)  accompanied by such information as the Board requires.
 
-             (4)  For the purposes of this Act and the _Income Tax Assessment Act 1997_, the effect of a variation is that the entity’s registration under section 27A for the income year is taken always to have existed as varied.
+##### <a id="39HD"></a>39HD  Board’s decision on application for entry on Register of Commercial Government Bodies
 
-##### <a id="27N"></a>27N  Revoking registrations
+\[Board’s decision on application]
 
-             (1)  The Board may, by notice in writing given to an entity, revoke the entity’s registration under section 27A for an income year if the Board is satisfied that the entity was not an R&amp;D entity at any time when an activity covered by the registration was conducted during the income year.
+             (1)  After considering an application under section 39HC, the Board must decide to:
 
-Note:          A decision to revoke under this subsection is reviewable (see Division 5).
+                     (a)  grant the application; or
 
-             (2)  The Board may, by notice in writing given to an R&amp;D entity, revoke the entity’s registration under section 27A for an income year if the entity requests the Board to do so.
+                     (b)  refuse the application.
 
-             (3)  A request for a revocation under subsection (2) must be:
+\[Board deemed to have refused application if no decision made within 90 days]
 
-                     (a)  in the approved form; and
+(2)  If the Board has not made a decision under subsection (1) before whichever time (**_eligible time_**) is the later of the following times:
 
-                     (b)  accompanied by the fee (if any) specified in regulations made under section 48A for the purposes of this section.
+(a)  the end of the period (**_original 90‑day period_**) of 90 days after the day on which the application was received by the Board;
 
-Note:          Section 32 deals with approved forms.
+(b)  if the Board, by written notice given to the applicant within the original 90‑day period, requests the applicant to give further information about the application—the end of the period of 90 days after the Board receives the further information;
 
-             (4)  For the purposes of this Act and the _Income Tax Assessment Act 1997_, the effect of a revocation under this section is that the entity is taken never to have been registered under section 27A for the income year.
+then, at the eligible time, the Board is taken to have made a decision under subsection (1) to refuse the application.
 
-Note:          This subsection will cease to apply if a revocation under subsection (1) is set aside on review (see Division 5).
+\[Notice of decision]
 
-             (5)  The Board must notify the Commissioner of a revocation under this section.
+             (3)  If the Board makes a decision under subsection (1) before the eligible time, the Board must give written notice of the decision to the applicant.
 
-### Division 3—Other findings
+\[Reasons for refusal to be given]
 
-#### Subdivision A—Introduction
+(4)  A notice under subsection (3) relating to a refusal must set out the reasons for the refusal.
 
-##### <a id="28"></a>28  Simplified outline
+\[When entry takes effect]
 
-                   The following is a simplified outline of this Division:
+             (5)  If the Board decides to grant the application, the entry of the eligible government body takes effect on:
 
-* * *
+                     (a)  the day on which the decision is made; or
 
-<li class="BoxList" style="margin-left:21.25pt">•      An R&amp;D entity can seek
+                     (b)  if the applicant requests—such earlier date as the Board specifies.
 
-a finding (an **_advance finding_**) about whether an activity is an
+\[Entry may take effect on a date earlier than commencement of this section]
 
-R&amp;D activity.</li>
+_(_ 6)  The Board may specify a date under paragraph (5)(b) that is earlier than the commencement of this section.
 
-<li class="BoxList" style="margin-left:21.25pt">•      An advance finding binds
+\[Back‑dated entries—Register taken to have been in existence]
 
-the Commissioner for the purpose of working out tax offsets (**_R&amp;D tax offset_** s) under Division 355 of the _Income Tax Assessment Act_ _1997_.</li>
+             (7)  If the Board specifies such an earlier date, this Part and section 73CB of the _Income Tax Assessment Act 1936_ have effect as if the Register of Commercial Government Bodies had been in existence on that date.
 
-<li class="BoxList" style="margin-left:21.25pt">•      An R&amp;D entity can seek
+##### <a id="39HE"></a>39HE  Grant of application for entry on Register of Commercial Government Bodies
 
-a finding that an activity cannot be conducted in Australia.</li>
+                   The Board must not grant an application under section 39HC unless the Board is satisfied that the applicant meets the criteria set out in the commercial government bodies guidelines.
 
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      An
+##### <a id="39HF"></a>39HF  Removal from Register of Commercial Government Bodies
 
-R&amp;D tax offset will only be available for expenditure incurred on an
+\[Removal of body which does not meet criteria set out in guidelines]
 
-activity conducted outside Australia if a finding that the activity cannot be
+             (1)  The Board must remove an eligible government body from the Register of Commercial Government Bodies if the Board is satisfied that the body does not meet the criteria set out in the commercial government bodies guidelines.
 
-conducted in Australia has come into force.</li>
+\[Notification of proposed removal]
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Board may also make a
+(2)  The Board must not remove an eligible government body from the Register of Commercial Government Bodies unless the Board has:
 
-finding about whether particular technology is core technology for R&amp;D
+(a)  given a written notice to the body:
 
-activities.</li>
+                              (i)  stating that the Board is considering removing the body from the Register of Commercial Government Bodies; and
 
-<li class="BoxList" style="margin-left:21.25pt">•      An effect of a finding that
+                             (ii)  giving the reasons for considering the removal of the body; and
 
-the technology is core technology for the R&amp;D activities is that an R&amp;D
+                     (b)  invited the body to make a written submission to the Board:
 
-tax offset will not be available for expenditure incurred in acquiring, or in
+                              (i)  within 60 days of receiving the notice; and
 
-acquiring the right to use, the technology for the R&amp;D activities.</li>
+                             (ii)  about the proposed removal; and
 
-* * *
+                     (c)  if such a submission is made within that period—had regard to the matters raised in the submission.
 
-#### Subdivision B—Advance findings about the nature of activities
+\[When removal takes effect]
 
-##### <a id="28A"></a>28A  Advance findings about the nature of activities
+             (3)  If the Board decides to remove the body from the Register of Commercial Government Bodies, the removal takes effect on the day on which the notice mentioned in paragraph (2)(a) was given to the body.
 
-             (1)  The Board must, on application by an R&amp;D entity for a finding under this subsection about an activity, do one or more of the following:
+\[Notification of removal]
 
-                     (a)  find that all or part of the activity is a core R&amp;D activity;
+(4)  If the Board decides to remove the body from the Register of Commercial Government Bodies, the Board must give written notice of the removal to the body.
 
-                     (b)  find that all or part of the activity is a supporting R&amp;D activity in relation to one or more specified core R&amp;D activities for which the entity has been or could be registered under section 27A for an income year;
+##### <a id="39HG"></a>39HG  Applications for advance registration of eligible companies
 
-                     (c)  make a finding to the effect that all or part of the activity is neither:
+             (1)  An eligible company may, during a year of income, apply to the Board for advance registration, in relation to proposed research and development activities, in respect of all or any of the following years of income:
 
-                              (i)  a core R&amp;D activity; nor
+                     (a)  the first‑mentioned year of income;
 
-                             (ii)  a supporting R&amp;D activity of a kind covered by paragraph (b);
+                     (b)  the next 2 years of income.
 
-                     (d)  if justified in accordance with the decision‑making principles—refuse to make a finding about all or part of the activity.
+             (2)  The application must:
 
-Note 1:       A finding, or a refusal to make a finding, is reviewable (see Division 5).
+                     (a)  specify the name of the company; and
 
-Note 2:       For requirements of applications, see section 28G.
+                     (b)  specify the year or years of income in respect of which advance registration is sought; and
 
-Note 3:       A finding binds the Commissioner for the purposes of income tax assessments for certain income years (see subsections 355‑705(2) and (3) of the _Income Tax Assessment Act 1997_).
+                     (c)  describe the project to which the proposed research and development activities relate; and
 
-Note 4:       Section 32A deals with the decision‑making principles.
+                     (d)  specify and describe the activities; and
 
-             (2)  The Board must not make a finding under subsection (1) about an activity unless the Board is satisfied that the activity:
+                     (e)  specify the expenditure proposed to be incurred by the company in relation to the activities during the year or years of income; and
 
-                     (a)  is being conducted, or has been completed, during the income year in which the application is made; or
+                      (f)  specify when the activities will be undertaken; and
 
-                     (b)  is yet to be conducted, but that it is reasonable to expect that the activity will be conducted in any or all of the following income years:
+                     (g)  specify each company on behalf of which the activities will be undertaken.
 
-                              (i)  the income year in which the application is made;
+Note:          A company on behalf of which the activities will be undertaken may be the applicant or a foreign company with which the applicant is grouped under section 73L of the _Income Tax Assessment Act 1936_.
 
-                             (ii)  either of the next 2 income years.
+             (3)  The application must:
 
-             (3)  If the Board makes a finding under subsection (1) about an activity that is being conducted, or has been completed, during the income year in which the application is made, the Board may specify in the finding the times to which the finding relates.
+                     (a)  be in a form approved by the Board; and
 
-             (4)  This section has effect subject to section 32B (findings cannot be inconsistent with any earlier findings).
+                     (b)  be accompanied by the appropriate fee (if any) prescribed under section 48A.
 
-##### <a id="28B"></a>28B  Applications made on behalf of R&amp;D entities
+##### <a id="39HH"></a>39HH  Advance registration of eligible companies
 
-             (1)  An application for a finding under subsection 28A(1) may be made on behalf of an R&amp;D entity by an entity who:
+             (1)  Subject to section 39HI, if:
 
-                     (a)  is specified in regulations made for the purposes of this subsection; and
+                     (a)  an eligible company applies to the Board for advance registration in accordance with section 39HG; and
 
-                     (b)  is acting with the R&amp;D entity’s written consent.
+                     (b)  the company provides to the Board such information in relation to the research and development activities proposed in the application as the Board reasonably requires;
 
-The application is taken to be made by the R&amp;D entity.
+the Board must grant advance registration to the company, in relation to the activities, in respect of the year or years of income to which the application relates.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+             (2)  If the Board refuses to register a company in respect of a year or years of income, the Board must give notice in writing to the company stating the reasons for the refusal.
 
-             (2)  If:
+Note:          Advance registration does not remove the need to be registered under section 39J or 39P in order to claim a deduction under section 73B, 73BA, 73BH, 73QA or 73QB, or a tax offset under section 73I, of the _Income Tax Assessment Act 1936_ for expenditure in relation to research and development activities.
 
-                     (a)  an entity could, under subsection (1), make an application on behalf of more than one R&amp;D entity for the same finding for the same activity; and
+##### <a id="39HI"></a>39HI  Grounds for refusal of advance registration
 
-                     (b)  the entity applies (the **_joint application_**) under subsection 28G(2) for the finding on behalf of those R&amp;D entities;
+             (1)  It is a ground on which the Board is entitled to refuse advance registration of an eligible company, in relation to particular research and development activities in respect of a year or years of income, that the activities are not research and development activities.
 
-the joint application is taken to be a separate application under subsection 28G(1) for the finding by each of those R&amp;D entities.
+             (2)  Subject to subsection (3), the regulations may specify other grounds on which the Board is entitled to refuse advance registration of a company in respect of any year of income or in respect of a particular year or years of income.
 
-#### Subdivision C—Findings about activities to be conducted outside Australia
+             (3)  The regulations may not specify a ground unless it relates to a matter the determination of which under this Part is a function of the Board.
 
-##### <a id="28C"></a>28C  Findings about activities to be conducted outside Australia
+##### <a id="39J"></a>39J  Registration of eligible companies
 
-             (1)  The Board must, on application by an R&amp;D entity for a finding under this subsection about an activity, do one or more of the following:
+             (1)  Subject to section 39K, if:
 
-                     (a)  find that all or part of the activity is an activity (the **_overseas activity_**) that meets the conditions in section 28D;
+                     (a)  an eligible company applies to the Board for registration in relation to activities of either or both of the following kinds in respect of a year of income:
 
-                     (b)  find that all or part of the activity is not an activity that meets the conditions in section 28D;
+                              (i)  the eligible company’s research and development activities;
 
-                     (c)  if justified in accordance with the decision‑making principles—refuse to make a finding about all or part of the activity.
+                             (ii)  activities described in paragraph 73B(14C)(g) of the _Income Tax Assessment Act 1936_ in relation to the eligible company; and
 
-Note 1:       A finding, or a refusal to make a finding, is reviewable (see Division 5).
+                    (aa)  the application is in accordance with section 39JD; and
 
-Note 2:       For requirements of applications, see section 28G.
+                     (b)  the company provides to the Board such information in relation to the activities covered by the application as the Board reasonably requires;
 
-Note 3:       An effect of a finding under paragraph (a) is that a tax offset may be available for expenditure incurred on the overseas activity after the finding comes into force (see Division 355 of the _Income Tax Assessment Act 1997_, in particular paragraphs 355‑210(1)(d) and (e) of that Act).
+the Board shall register the company, in relation to those research and development activities, in respect of that year of income.
 
-Note 4:       Section 32A deals with the decision‑making principles.
+          (1A)  Subject to sections 39JA, 39JB, 39JC, 39JE and 39JF, the Board cannot register a company under this section, in relation to activities, in respect of a year of income:
 
-             (2)  For the purposes of this Act and the _Income Tax Assessment Act 1997_, a finding under subsection (1) comes into force at the start of the income year in which the application for the finding is made.
+                     (a)  if the year is the 1992‑93 year of income or an earlier year of income—after 2.30 pm Australian Eastern Standard Time on 6 December 1995; or
 
-             (3)  This section has effect subject to section 32B (findings cannot be inconsistent with any earlier findings).
+                     (b)  if the year is the 1993‑94 or 1994‑95 year of income—unless the application for registration is made before 7 June 1996; or
 
-##### <a id="28D"></a>28D  Conditions for a finding that an overseas activity cannot be conducted in Australia etc.
+                     (c)  if the year is the 1995‑96 year of income or a later year of income that ends before the commencement of paragraph (d)—unless the application for registration is made after the end of the year of income but within 6 months after the end of that year; or
 
-Must be an R&amp;D activity
+                     (d)  if the year of income ends on or after the commencement of this paragraph—unless the application for registration is made after the end of the year of income but within 10 months after the end of that year.
 
-             (1)  The first condition is that the overseas activity is covered by a finding under paragraph 28A(1)(a) or (b) (findings that activities are R&amp;D activities).
+             (2)  An application by, or a registration of, a company under subsection (1) may relate to a year of income that ended before the commencement of this Part.
 
-Must have significant scientific link to Australian core activities
+             (3)  Notwithstanding subsection (1), the Board may refuse to register a company in relation to a year of income unless the application is made after the end of that year of income.
 
-             (2)  The second condition is that the overseas activity has a significant scientific link to one or more core R&amp;D activities (the **_Australian core activities_**):
+             (4)  The registration of a company in respect of a year of income is not invalid merely because a ground existed on which the Board was entitled to refuse to register the company in respect of that year of income.
 
-                     (a)  that are conducted or to be conducted solely within Australia or an external Territory; and
+             (5)  The registration of a company in respect of a year of income is irrevocable.
 
-                     (b)  that:
+          (5A)  The Board may alter the registration of a company in respect of a year of income if:
 
-                              (i)  are registered under section 27A for the R&amp;D entity for an income year; or
+                     (a)  the alteration will correct a mistake in the registration; and
 
-                             (ii)  are reasonably likely to be conducted and be registered under section 27A for the R&amp;D entity for an income year.
+                     (b)  the mistake occurred because the application for registration contained an error in the information required to be specified, or included, in the application under paragraph 39JD(1)(a), (d) or (e); and
 
-             (3)  The overseas activity has a **_significant scientific link_** to the Australian core activities if:
+                     (c)  the Board determines that it is appropriate for the alteration to be made.
 
-                     (a)  the Australian core activities cannot be completed without the overseas activity being conducted; and
+          (5B)  If the Board alters the registration of a company in respect of a year of income under subsection (5A), the registration has effect, and is taken always to have had effect, as if it had originally been made as altered.
 
-                     (b)  the conditions (if any) specified in regulations made for the purposes of this subsection are met.
+             (6)  If the Board refuses to register a company in respect of a year of income, the Board shall give notice in writing to the company stating the reasons for the refusal.
 
-Must be unable to be conducted within Australia etc.
+##### <a id="39JA"></a>39JA  Registration: eligible companies with a registration history
 
-             (4)  The third condition is that the overseas activity cannot be conducted solely in Australia or the external Territories because:
+             (1)  For the purposes of this section, an eligible company is taken to have a registration history only if:
 
-                     (a)  conducting it requires access to a facility, expertise or equipment not available in Australia or the external Territories; or
+                     (a)  the company has been registered under section 39J in respect of at least 2 years of income during the period starting at the beginning of the 1985‑86 year of income and ending at the end of the 1992‑93 year of income; and
 
-                     (b)  conducting it in Australia or the external Territories would contravene a law relating to quarantine; or
+                     (b)  the company was so registered before the end of 12 months after the end of the 1992‑93 year of income.
 
-                     (c)  conducting it requires access to a population (of living things) not available in Australia or the external Territories; or
+             (2)  If an eligible company has a registration history, paragraph 39J(1A)(a) does not apply in relation to the company in respect of a year of income that occurred after the second year of income during the period mentioned in paragraph (1)(a), in respect of which the company was registered before the beginning of the 1993‑94 year of income.
 
-                     (d)  conducting it requires access to a geographical or geological feature not available in Australia or the external Territories; or
+             (3)  The Board cannot register under section 39J an eligible company that has a registration history in respect of a year of income that occurred after the second year of income during the period mentioned in paragraph (1)(a), in respect of which the company was registered before the beginning of the 1993‑94 year of income, unless the application for registration is made before 1 July 1997.
 
-                     (e)  it meets a condition (if any) specified in regulations made for the purposes of this subsection.
+##### <a id="39JB"></a>39JB  Registration: eligible companies with a claim history
 
-Expenditure must be less than that incurred on Australian core activities
+             (1)  For the purposes of this section, an eligible company is taken to have a claim history only if:
 
-             (5)  The fourth condition is that the total actual and reasonably anticipated expenditure of any entity in all income years on:
+                     (a)  the company has claimed a deduction under section 73B of the _Income Tax Assessment Act 1936_ (otherwise than by way of an application for an amendment of its assessment) in respect of the 1992‑93 year of income, or an earlier year of income; and
 
-                     (a)  the overseas activity; and
+                     (b)  the company was not registered under section 39J in respect of that year of income; and
 
-                     (b)  each other activity (if any) conducted wholly or partly outside Australia and the external Territories that has a significant scientific link to the Australian core activities;
+                     (c)  an assessment of the amount of the company’s taxable income for that year of income was made before 7 December 1995.
 
-is less than the total actual and reasonably anticipated expenditure of any entity in all income years on:
+             (2)  If an eligible company has a claim history, paragraph 39J(1A)(a) does not apply in relation to the company in respect of the year of income to which the deduction mentioned in paragraph (1)(a) related.
 
-                     (c)  the Australian core activities; and
+             (3)  The Board cannot register under section 39J an eligible company that has a claim history in respect of the year of income mentioned in subsection (2) unless the application for registration is made before 1 July 1997.
 
-                     (d)  activities conducted solely within Australia and the external Territories that are supporting R&amp;D activities in relation to the Australian core activities.
+##### <a id="39JC"></a>39JC  Registration: eligible companies with a tax loss history
 
-#### Subdivision D—Findings about whether technology is core technology
+             (1)  For the purposes of this section, an eligible company is taken to have a tax loss history only if:
 
-##### <a id="28E"></a>28E  Findings about whether technology is core technology
+                     (a)  the company makes an application for registration under section 39J in respect of the 1992‑93 year of income, or an earlier year of income; and
 
-             (1)  If an R&amp;D entity has acquired, or has acquired the right to use, particular technology wholly or partly for the purposes of one or more R&amp;D activities conducted, or to be conducted, during one or more income years, the Board may:
+                     (b)  the company had no taxable income in that year of income, nor in every subsequent year of income that ended before 7 December 1995.
 
-                     (a)  find that the technology is core technology for the R&amp;D activities; or
+             (2)  If an eligible company has a tax loss history, paragraph 39J(1A)(a) does not apply in relation to the eligible company in respect of the year of income that is the subject of the application mentioned in paragraph (1)(a).
 
-                     (b)  find that the technology is not core technology for the R&amp;D activities; or
+             (3)  The Board cannot register under section 39J an eligible company that has a tax loss history in respect of the year of income mentioned in subsection (2) unless the application for registration is made before 1 July 1997.
 
-                     (c)  if justified in accordance with the decision‑making principles—refuse to make a finding about the technology and the R&amp;D activities.
+##### <a id="39JD"></a>39JD  Applications under section 39J
 
-Note 1:       A finding, or a refusal to make a finding, is reviewable (see Division 5).
+             (1)  An application to the Board for registration under section 39J in respect of a year of income must:
 
-Note 2:       A finding under paragraph (a) means that a tax offset will not be available for expenditure incurred in acquiring, or in acquiring the right to use, the technology for the R&amp;D activities (see subsection 355‑225(2) of the _Income Tax Assessment Act 1997_).
+                     (a)  specify the name of the eligible company; and
 
-Note 3:       Section 32A deals with the decision‑making principles.
+                     (b)  contain the information required by the application form in respect of the activities in relation to which registration is sought; and
 
-             (2)  Particular technology is **_core technology_** for one or more R&amp;D activities if:
+                   (ba)  contain a declaration, by an officer of the company who is authorised by the company to make the declaration, stating that the company has, while the activities were carried on, maintained records that substantiate the carrying on of the activities; and
 
-                     (a)  a purpose of the R&amp;D activities was or is:
+                   (bb)  specify each company on behalf of which each of the activities was undertaken; and
 
-                              (i)  to obtain new knowledge based on that technology; or
+                     (c)  specify the expenditure incurred by the company in relation to the activities during the year of income; and
 
-                             (ii)  to create new or improved materials, products, devices, processes, techniques or services to be based on that technology; or
+                     (d)  specify which (if any) of the activities have been the subject of advance registration in respect of that year; and
 
-                     (b)  the R&amp;D activities were or are an extension, continuation, development or completion of the activities that produced that technology.
+                     (e)  include such other information as is specified in the regulations.
 
-             (3)  The Board must make a finding under paragraph (1)(a) or (b) if requested by the Commissioner to make a finding under this section.
+Note 1:       Requirements in the application form or the regulations for the provision of information in respect of an application may be different for different situations.
 
-             (4)  In addition to subsection (3), the Board:
+Note 2:       A company on behalf of which an activity was undertaken might be the eligible company applying for registration or a foreign company with which the applicant is grouped under section 73L of the _Income Tax Assessment Act 1936_.
 
-                     (a)  may make a finding under subsection (1) on its own initiative; and
+             (2)  The application must:
 
-                     (b)  must make a decision under subsection (1) if the R&amp;D entity applies for a finding under this section.
+                     (a)  be in a form approved by the Board; and
 
-Note:          For requirements of applications, see section 28G.
+                     (b)  be accompanied by the appropriate fee (if any) prescribed under section 48A.
 
-             (5)  This section has effect subject to section 32B (findings cannot be inconsistent with any earlier findings).
+             (3)  The company may amend its application at any time before the period under paragraph 39J(1A)(b) or (c) (as the case may be) for making the application ends.
 
-#### Subdivision E—Matters relevant to findings under this Division
+             (4)  In this section:
 
-##### <a id="28F"></a>28F  Notice of decision about findings
+                    <a name="applic-form"></a>**_application form_** means the appropriate form approved by the Board under subsection (2).
 
-             (1)  The Board must notify an applicant in writing of each of the Board’s decisions under subsection 28A(1) or 28C(1) about the application.
+##### <a id="39JE"></a>39JE  Application for extension of time if application otherwise subject to a 6 month limit
 
-             (2)  The Board must notify an R&amp;D entity in writing of each of the Board’s decisions under subsection 28E(1) that relates to the R&amp;D entity.
+          (1A)  This section applies to a year of income of an eligible company that is:
 
-             (3)  A notice under subsection (1) or (2) must include a certificate for each finding (if any) to which the decision relates. The certificate must set out:
+                     (a)  the 1995‑96 year of income of the company; or
 
-                     (a)  a description of the finding; and
+                     (b)  a later year of income of the company that ends before the commencement of paragraph 39J(1A)(d).
 
-                     (b)  the Board’s reasons for the finding; and
+             (1)  The Board may, on a request made under this section by an eligible company, extend the period for making an application for registration under section 39J in respect of a year of income of the company to which this section applies.
 
-                     (c)  a description of the activity affected by the finding; and
+             (2)  The Board must not grant a request made in respect of a year of income that occurs after the 1995‑96 year of income if it has granted a request under this section in respect of the immediately preceding year of income.
 
-                     (d)  for a finding under subsection 28E(1)—a description of the technology affected by the finding; and
+             (3)  A request must:
 
-                     (e)  the matters (if any) specified in regulations made for the purposes of this paragraph.
+                     (a)  be in writing; and
 
-The notice and certificate may set out other matters.
+                     (b)  set out the reasons why the company cannot make an application for registration under section 39J within 6 months after the end of the year of income to which it relates; and
 
-Note:          The notice could also mention the applicant’s right to have the finding reviewed under Division 5 (see section 30B).
+                     (c)  be received by the Board within that period of 6 months.
 
-             (4)  The Board must give the Commissioner a copy of the notice if the notice includes one or more certificates.
+             (4)  If the Board grants a request in respect of a year of income under this section, the company may make an application under section 39J in respect of that year of income within 9 months after the end of that year.
 
-             (5)  A failure to comply with this section does not affect the validity of a decision or finding.
+             (5)  If a request in respect of a year of income is granted on, or as a result of, a review under section 39S or 39T, the company may make an application under section 39J in respect of that year of income within whichever of the following periods ends last:
 
-##### <a id="28G"></a>28G  Applying for findings
+                     (a)  9 months after the end of that year;
 
-Applications for findings
+                     (b)  3 months after the day the decision on the review is made.
 
-             (1)  An application for one or more findings under this Division must be:
+##### <a id="39JF"></a>39JF  Registration if application for registration made after expiry of period for making application
 
-                     (a)  in the approved form; and
+             (1)  The Board may register an eligible company under section 39J in respect of a year of income, despite the fact that the application for registration was not made within the period for making the application, if the Board considers that the application was made after the end of the period due to exceptional circumstances.
 
-                     (b)  accompanied by the fee (if any) specified in regulations made under section 48A for the purposes of this subsection.
+             (2)  If the Board proposes to refuse to register the company on the ground that the application was not made within the period for making the application, the Board must give written notice to the applicant advising the applicant of:
 
-Note 1:       An application can seek findings for several activities.
+                     (a)  the proposed refusal; and
 
-Note 2:       Section 32 deals with approved forms.
+                     (b)  the right to lodge a statement and supporting evidence under subsection (3).
 
-Joint applications for identical advance findings
+             (3)  Within 30 days of the Board giving notice to the applicant, the applicant may lodge with the Board a written statement that:
 
-             (2)  An application for identical findings under subsection 28A(1) on behalf of several R&amp;D entities must be:
+                     (a)  asks the Board to register the company despite the fact that the application was not made within the period for making the application; and
 
-                     (a)  in the approved form; and
+                     (b)  sets out reasons why the application was not made within the period for making the application.
 
-                     (b)  accompanied by the fee (if any) specified in regulations made under section 48A for the purposes of this subsection.
+If the applicant lodges a statement in accordance with this subsection, the applicant may also lodge evidence to support the statement within that 30 day period.
 
-Note:          The application is taken to be a separate application under subsection (1) of this section for the finding by each of those R&amp;D entities (see subsection 28B(2)).
+             (4)  The Board must wait until the end of that 30 day period before deciding whether to register the company under section 39J, as mentioned in subsection (1), despite the lateness of the application. When making that decision, the Board must take into account any statement and evidence lodged by the applicant under subsection (3).
 
-##### <a id="28H"></a>28H  Board may request further information
+##### <a id="39K"></a>39K  Grounds for refusal to register eligible companies
 
-             (1)  The Board may request in writing:
+             (1)  Subject to subsection (1A), it is a ground on which the Board is entitled to refuse to register an eligible company, in relation to particular research and development activities in respect of a year of income, that the activities are not research and development activities.
 
-                     (a)  for an application taken to be made by an R&amp;D entity because of section 28B—the entity that acted on behalf of the R&amp;D entity in relation to the application; or
+          (1A)  If advance registration has been granted to an eligible company, in relation to particular research and development activities in respect of a year of income, the Board must not refuse to register the company in relation to those activities in respect of that year on the ground that they are not research and development activities.
 
-                     (b)  otherwise—the applicant;
+          (1B)  The Board is entitled to refuse to register an eligible company, in relation to activities described in paragraph 73B(14C)(g) of the _Income Tax Assessment Act 1936_ in relation to the company in respect of a year of income, on the ground that the activities are not activities that would be Australian‑centred research and development activities if subsection 73B(2BA) of that Act had not been enacted.
 
-to give specified information, or specified kinds of information, to the Board about the application.
+             (2)  Subject to subsection (3), the regulations may specify other grounds on which the Board is entitled to refuse to register a company in respect of any year of income or in respect of a particular year of income or years of income.
 
-             (2)  The request may be for the information or kinds of information to be given within:
+             (3)  The regulations may not specify a ground unless it relates to a matter the determination of which under this Part is a function of the Board.
 
-                     (a)  30 days after the request was made; or
+             (4)  The Board need not, before registering a company, satisfy itself that no grounds exist for refusing the registration.
 
-                     (b)  a further period allowed by the Board in accordance with the decision‑making principles.
+##### <a id="39KA"></a>39KA  Guidelines concerning plans for research and development activities
 
-Note 1:       A refusal to allow a further period is reviewable (see Division 5).
+             (1)  The Board must, as soon as practicable (and, in any event, within 90 days) after the commencement of this section, formulate written guidelines setting out the requirements for plans for the purposes of subsection 73B(2BA) of the _Income Tax Assessment Act 1936_.
 
-Note 2:       Section 32A deals with the decision‑making principles.
+          (1A)  In formulating the guidelines, the Board must ensure that, having regard to the size and complexity of the activities that are to be carried out in accordance with the plans, the guidelines will not impose undue burdens on eligible companies that are small.
 
-Note 3:       A failure by the entity to give the information may result in a refusal to make the finding.
+             (2)  The Board must cause the guidelines to be:
 
-             (3)  The request may be for the information or kinds of information to be given in the approved form.
+                     (a)  published in the _Gazette_; and
 
-Note:          Section 32 deals with approved forms.
+                     (b)  made available on request without charge, to any eligible company.
 
-             (4)  Subsections (2) and (3) do not limit subsection (1).
+             (3)  The requirements may cover the following matters:
 
-### Division 4—Research service providers
+                     (a)  who is to make the plans;
 
-#### Subdivision A—Introduction
+                     (b)  who is to approve the plans;
 
-##### <a id="29"></a>29  Simplified outline
+                     (c)  when the plans are to be made;
 
-                   The following is a simplified outline of this Division:
+                     (d)  what the plans are to contain;
 
-* * *
+                     (e)  how the plans can be amended;
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Board may register
+                      (f)  any other matter.
 
-entities as research service providers capable of providing research services
+             (4)  The Board may, at any time, and whether or not within 90 days after the commencement of this section, by writing, repeal, replace or amend guidelines made under subsection (1).
 
-to R&amp;D entities.</li>
+             (5)  An instrument formulating guidelines under subsection (1), or repealing, replacing or amending such guidelines, is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-<li class="BoxList" style="margin-left:21.25pt">•      Near the end of each
+##### <a id="39L"></a>39L  Certificate as to research and development activities
 
-financial year, registered research service providers will be asked if they
+             (1)  The Board may, and shall if requested in writing by the Commissioner to do so, give to the Commissioner a certificate stating whether particular activities that have been or are being carried on by or on behalf of a person were or are research and development activities.
 
-want their registrations to continue for the next financial year.</li>
+             (2)  If the Board issues a certificate to the effect that particular activities were not or are not research and development activities, the Board must give notice in writing to the person concerned stating the reasons for issuing the certificate.
 
-<li class="BoxList" style="margin-left:21.25pt">•      Registrations can be varied
+             (3)  If the activities were or are carried on on behalf of a foreign company grouped under section 73L of the _Income Tax Assessment Act 1936_ with an eligible company that was or is incurring expenditure in relation to the carrying on of the activities, the Board must give a copy of the notice to the eligible company.
 
-and revoked.</li>
+##### <a id="39LAAA"></a>39LAAA  Certificate as to Australian‑centred research and development activities
 
-<li class="BoxList" style="margin-left:21.25pt">•      Details of registrations
+             (1)  The Board may give to the Commissioner a certificate stating whether particular activities were Australian‑centred research and development activities.
 
-are set out in a register available on the internet.</li>
+             (2)  The Board must give to the Commissioner a certificate described in subsection (1) if the Commissioner gives the Board a written request to do so.
 
-* * *
+             (3)  If:
 
-#### Subdivision B—Registering research service providers
+                     (a)  the activities covered by a certificate given under this section were or are carried on on behalf of a foreign company grouped under section 73L of the _Income Tax Assessment Act 1936_ with an eligible company that incurred expenditure in relation to the carrying on of the activities; and
 
-##### <a id="29A"></a>29A  Registering research service providers
+                     (b)  the certificate states that the activities were not Australian‑centred research and development activities;
 
-             (1)  The Board must, on application by an entity, decide whether to register or refuse to register the entity as a research service provider capable of providing services in one or more specified research fields to R&amp;D entities registered under section 27A.
+the Board must give notice in writing to the eligible company, stating the reasons for giving the certificate.
 
-Note:          A decision under this subsection is reviewable (see Division 5).
+##### <a id="39LAAB"></a>39LAAB  Certificate as to activities that would be Australian‑centred research and development activities apart from need for plan
 
-             (2)  The Board must not register the entity under subsection (1) unless the Board is satisfied that the entity meets the criteria specified in regulations made for the purposes of this subsection.
+             (1)  The Board may give to the Commissioner a certificate stating whether particular activities were activities that would have been Australian‑centred research and development activities if subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ had not been enacted.
 
-             (3)  A registration under this section is subject to the conditions (if any) specified in regulations made for the purposes of this subsection.
+Note 1:       Subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ says activities are not research and development activities unless they are carried on in accordance with a plan that complies with any guidelines formulated by the Board under section 39KA of this Act that are in force at the time.
 
-#### Subdivision C—Applying for registration
+Note 2:       Activities may be ones that would have been Australian‑centred research and development activities if subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ had not been enacted, whether or not the activities were carried on in accordance with such a plan.
 
-##### <a id="29B"></a>29B  Applying for registration
+             (2)  The Board must give to the Commissioner a certificate described in subsection (1) if the Commissioner gives the Board a written request to do so.
 
-                   An application to be registered under section 29A must be:
+             (3)  If:
 
-                     (a)  in the approved form; and
+                     (a)  the activities covered by a certificate given under this section were or are carried on on behalf of a foreign company grouped under section 73L of the _Income Tax Assessment Act 1936_ with an eligible company that incurred expenditure in relation to the carrying on of the activities; and
 
-                     (b)  accompanied by the fee (if any) specified in regulations made under section 48A for the purposes of this section.
+                     (b)  the certificate states that the activities were activities that would have been Australian‑centred research and development activities if subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ had not been enacted;
 
-Note:          Section 32 deals with approved forms.
+the Board must give notice in writing to the eligible company, stating the reasons for giving the certificate.
 
-##### <a id="29C"></a>29C  Board may request further information about an application
+##### <a id="39LAA"></a>39LAA  Certificate as to overseas research and development activities
 
-             (1)  The Board may request the applicant in writing to give specified information, or specified kinds of information, to the Board about the application.
+             (1)  The Board may, and must if requested in writing by the Commissioner to do so, give to the Commissioner a certificate stating whether particular activities that have been or are being carried on by or on behalf of an eligible company in respect of a project are the overseas research and development activities described in the provisional certificate given to the company.
 
-             (2)  The request may be for the information or kinds of information to be given within 30 days after the request was made.
+             (2)  If the Board gives a certificate under subsection (1), the Board must give to the company concerned:
 
-             (3)  The request may be for the information or kinds of information to be given in the approved form.
+                     (a)  a copy of the certificate; and
 
-Note:          Section 32 deals with approved forms.
+                     (b)  if the Board decided that particular activities were not the overseas research and development activities described in the provisional certificate—a statement of the reasons for its decision.
 
-             (4)  Subsections (2) and (3) do not limit subsection (1).
+##### <a id="39LA"></a>39LA  Certificate as to core technology
 
-             (5)  The Board may refuse to consider the application if the applicant fails to give the information within:
+             (1)  The Board may, and must if requested in writing by the Commissioner to do so, give to the Commissioner a certificate stating whether particular technology that an eligible company has acquired, or has acquired the right to use, for the purposes of particular research and development activities that have been or are being carried on by or on behalf of the company was core technology in relation to those activities.
 
-                     (a)  the 30 days referred to in subsection (2); or
+             (2)  If the Board issues a certificate to the effect that particular technology was not core technology, the Board must give notice in writing to the eligible company concerned stating the reasons for issuing the certificate.
 
-                     (b)  a further period allowed by the Board in accordance with the decision‑making principles.
+##### <a id="39M"></a>39M  Certificate as to exploitation of results, or Australian content, of activities
 
-Note 1:       A refusal to allow a further period is reviewable (see Division 5).
+             (1)  Where:
 
-Note 2:       Section 32A deals with the decision‑making principles.
+                     (a)  expenditure has been incurred by a company registered under section 39J or 39P:
 
-##### <a id="29D"></a>29D  Board may need to make inquiries about an application
+                              (i)  on particular research and development activities; or
 
-             (1)  The Board may notify the applicant in writing that the Board:
+                             (ii)  in the acquisition or construction of plant, an asset or a building, or an extension, alteration or improvement to a building, for use in particular research and development activities; and
 
-                     (a)  needs to make inquiries in order to determine whether the applicant meets the criteria for registration referred to in subsection 29A(2); and
+                     (b)  the Board is of the opinion that:
 
-                     (b)  requires the applicant to pay the Board a specified amount towards the cost of those inquiries.
+                              (i)  any of the results of those research and development activities have been exploited otherwise than on normal commercial terms; or
 
-             (2)  The Board may refuse to consider the application until the applicant pays the Board that amount.
+                            (ia)  those research and development activities are not for the benefit of the Australian economy; or
 
-             (3)  An amount specified in a notice under subsection (1) must not exceed the higher of:
+                             (ii)  those research and development activities do not have an adequate Australian content; or
 
-                     (a)  $1,000; and
+                            (iii)  it would have been reasonable to expect there to have been some exploitation, after the commencement of this subparagraph, of the results of those research and development activities but no such exploitation has occurred;
 
-                     (b)  the amount (if any) specified in regulations made for the purposes of this subsection;
+the Board may, subject to subsection 39E(4), give a certificate in writing to the Commissioner:
 
-and must not be such as to amount to taxation.
+                     (c)  stating that it is of that opinion;
 
-#### Subdivision D—Varying or revoking registrations
+                     (d)  specifying the research and development activities concerned; and
 
-##### <a id="29E"></a>29E  Duration of registrations
+                     (e)  giving the reasons for its opinion.
 
-             (1)  At least 2 months before the end of each financial year, the Board must give each research service provider a notice:
+             (2)  The Board shall not give a certificate under this section in relation to a company unless the Board has:
 
-                     (a)  asking the provider if it wishes to continue to be registered under section 29A; and
+                     (a)  given notice in writing to the company stating that it is considering giving the certificate, specifying the activities to which the certificate would relate and informing the company of the reasons why it is considering giving the certificate;
 
-                     (b)  attaching an approved form to be completed by the provider and returned to the Board if the provider wishes to continue to be registered.
+                     (b)  invited the company to make a written submission to the Board in relation to the matter within 90 days; and
 
-This subsection does not apply to a provider who becomes registered under section 29A in May or June of that financial year.
+                     (c)  if such a submission is made within that period, had regard to the matters raised in the submission.
 
-Note:          Section 32 deals with approved forms.
+##### <a id="39MA"></a>39MA  Certificate about ineligible finance schemes
 
-             (2)  The Board may, by notice in writing given to the provider, revoke the provider’s registration under section 29A if the provider does not return the completed form within:
+             (1)  If:
 
-                     (a)  30 days after the notice under subsection (1) was given; or
+                     (a)  expenditure has been incurred in connection with particular research and development activities by a company registered under section 39J or 39P; and
 
-                     (b)  a further period allowed by the Board in accordance with the decision‑making principles.
+                     (b)  the Board is of the opinion that there was or is an ineligible finance scheme in relation to those research and development activities;
 
-Note 1:       A decision to revoke under this subsection is reviewable (see Division 5).
+the Board may give a written certificate to the Commissioner:
 
-Note 2:       Section 32A deals with the decision‑making principles.
+                     (c)  stating that it is of that opinion; and
 
-             (3)  For the purposes of this Act and the _Income Tax Assessment Act 1997_, the revocation takes effect at the end of that financial year.
+                     (d)  specifying the research and development activities concerned; and
 
-Note:          This subsection will cease to apply if the revocation is set aside on review (see Division 5).
+                     (e)  giving the reasons for its opinion.
 
-##### <a id="29F"></a>29F  Varying registrations—on application
+             (2)  The Board must not give a certificate under this section in relation to a company unless the Board has:
 
-             (1)  The Board may, by notice in writing given to a research service provider, vary the provider’s registration under section 29A if:
+                     (a)  given a written notice to the company:
 
-                     (a)  the provider applies for the variation; and
+                              (i)  stating that the Board is considering giving the certificate; and
 
-                     (b)  the Board is satisfied that the provider would still meet the criteria for registration referred to in subsection 29A(2) were the application to be successful.
+                             (ii)  specifying the activities to which the certificate would relate; and
 
-Note:          A refusal to vary is reviewable (see Division 5).
+                            (iii)  informing the company of the reasons why it is considering giving the certificate; and
 
-             (2)  An application for a variation must be:
+                     (b)  invited the company to make a written submission to the Board in relation to the matter within 90 days; and
 
-                     (a)  in the approved form; and
+                     (c)  if such a submission is made within that period—had regard to the matters raised in the submission.
 
-                     (b)  accompanied by the fee (if any) specified in regulations made under section 48A for the purposes of this section.
+##### <a id="39N"></a>39N  Certificate of non‑compliance
 
-Note:          Section 32 deals with approved forms.
+             (1)  Where:
 
-             (3)  Sections 29C and 29D apply to applications under this section in a way corresponding to the way those sections apply to applications under section 29B.
+                     (a)  the Board requests a company to give to the Board particular information relating to activities carried on by or on behalf of the company, or activities in relation to which the company incurred expenditure, being information needed by the Board for the purpose of performing any of its functions, or the exercise of any of the powers, under this Part; and
 
-Note:          This means the Board may request further information about the application for variation, and make inquiries about the application for variation.
+                     (b)  the company does not give the information within a reasonable period;
 
-##### <a id="29G"></a>29G  Varying registrations—otherwise than on application
+the Board may, by notice in writing to the company, require the company to give the information to the Board within 30 days after the notice is received by the company.
 
-             (1)  The Board may, by notice in writing given to a research service provider, vary the provider’s registration under section 29A so that the provider ceases to be registered to provide services in one or more specified research fields.
+             (2)  If such a notice is given and the company fails to comply with the notice, the Board may give a certificate to the Commissioner stating that the company has failed to comply with a notice under this section in respect of the activities concerned.
 
-Note 1:       A decision to vary is reviewable (see Division 5).
+             (3)  A notice under subsection (1) shall:
 
-Note 2:       This subsection will cease to apply if the variation is set aside on review (see Division 5).
+                     (a)  state that, if the company fails to comply with the notice within the period specified in the notice, the Board may give a certificate under subsection (2) in respect of the activities to which the notice relates; and
 
-             (2)  The Board may do so if the Board is satisfied that the provider does not meet the criteria for registration referred to in subsection 29A(2) in so far as those criteria relate to those research fields.
+                     (b)  set out the terms of subsections 73B(33A), 73BF(4) and 73BM(4) of the _Income Tax Assessment Act 1936_.
 
-##### <a id="29H"></a>29H  Revoking registrations
+             (4)  To avoid doubt, a notice under subsection (1) has effect whether the particular information that is the subject of the notice and the Board’s request is identified in the notice or request wholly or partly:
 
-             (1)  The Board may, by notice in writing given to a research service provider, revoke the provider’s registration under section 29A if the Board is satisfied:
+                     (a)  by reference to the functions to be performed or the powers to be exercised; or
 
-                     (a)  that the provider has ceased to meet the criteria for registration referred to in subsection 29A(2); or
+                     (b)  by another means.
 
-                     (b)  that the provider has breached a condition, referred to in subsection 29A(3), of the registration.
+##### <a id="39P"></a>39P  Joint registration
 
-Note 1:       A decision to revoke under this subsection is reviewable (see Division 5).
+          (1A)  This section has effect subject to section 39PA.
 
-Note 2:       This subsection will cease to apply if the revocation is set aside on review (see Division 5).
+             (1)  A person may apply to the Board on behalf of 2 or more eligible companies for the joint registration of those eligible companies in respect of a year of income or years of income in relation to a proposed project or proposed projects comprising or including research and development activities.
 
-Note 3:       Revocation can also happen under subsection 29E(2) if the provider does not appropriately indicate that it wishes to continue to be registered for the next financial year.
+             (2)  The application shall:
 
-             (2)  The Board may, by notice in writing given to a research service provider, revoke the provider’s registration under section 29A if the provider requests the Board to do so.
+                     (a)  specify the companies concerned;
 
-             (3)  A request for a revocation under subsection (2) must be in the approved form.
+                     (b)  contain such particulars of the project, or each project, as the Board requires;
 
-Note:          Section 32 deals with approved forms.
+                     (c)  specify the total amount of the expenditure expected to be incurred by the companies in the year of income or years of income in respect of the research and development activities comprised or included in the project or projects;
 
-#### Subdivision E—Register of research service providers
+                     (d)  specify, in respect of each company in relation to the research and development activities comprised or included in the project or each project, the amount of expenditure expected to be incurred in the year of income or each year of income in each of the following classes of expenditure:
 
-##### <a id="29J"></a>29J  Register of research service providers
+                              (i)  research and development expenditure other than contract expenditure;
 
-             (1)  The Board is to make available for inspection on the internet a register that includes details of:
+                             (ii)  plant expenditure; and
 
-                     (a)  registrations in force under this Division; and
+                     (e)  set out proposals for the exploitation of any results of the research and development activities.
 
-                     (b)  registrations that have been revoked under this Division during the current financial year or the previous financial year.
+             (3)  If the Board is of the opinion in relation to the project, or in relation to a particular one or more of those projects, that:
 
-Note 1:       A registration in force under this Division includes the research fields for which the provider is registered.
+                     (a)  the activities in respect of which the expenditure is proposed to be incurred are research and development activities;
 
-Note 2:       A registration in force under this Division is that registration as varied under section 29F or 29G.
+                     (b)  at least one of the companies is not related to any of the others;
 
-             (2)  The register is not a legislative instrument.
+                     (c)  the total amount of the expenditure expected to be incurred as mentioned in paragraph (2)(c) will exceed $500,000;
 
-### Division 5—Review
+                     (d)  if there was or is a finance scheme in relation to the research and development activities—the finance scheme is not an ineligible finance scheme;
 
-##### <a id="30"></a>30  Simplified outline
+                      (f)  the results of the research and development activities will be exploited:
 
-                   The following is a simplified outline of this Division:
+                              (i)  on normal commercial terms; and
 
-* * *
+                             (ii)  in a manner that is for the benefit of the Australian economy;
 
-<li class="BoxList" style="margin-left:21.25pt">•      An entity affected by a
+                     (g)  the research and development activities will have an adequate Australian content; and
 
-reviewable decision may ask the Board to conduct an internal review of that
+                     (h)  there are no grounds under section 39K on which the Board would be entitled to refuse to register either or any of the companies in respect of the year of income or any of the years of income under section 39J if the companies had made separate applications for registration;
 
-decision.</li>
+the Board may register the companies jointly in respect of the year of income or the years of income in relation to that project or in relation to that particular one or more of those projects, as the case requires.
 
-<li class="BoxList" style="margin-left:21.25pt">•      The entity, or another
+          (3A)  If the Board refuses to register the companies jointly in relation to the project or projects specified in the application, the Board must give notice in writing to the companies stating the reasons for the refusal.
 
-entity affected by the resulting internal review decision, may ask the
+             (4)  If, after registering companies jointly under subsection (3) in respect of a year of income or years of income, the Board becomes of the opinion that:
 
-Administrative Appeals Tribunal to review the internal review decision.</li>
+                     (a)  the whole or any part of the money paid by the companies has not been or is not being expended in respect of research and development activities;
 
-* * *
+                     (b)  any of the results of the research and development activities have not been, or will not be, exploited as mentioned in paragraph (3)(f);
 
-##### <a id="30A"></a>30A  _Reviewable decisions_
+                     (c)  the research and development activities do not, or will not, have an adequate Australian content; or
 
-                   Each of the following decisions of the Board is a **_reviewable decision_**:
+                     (d)  either or any of the companies has, before the completion of the project or projects in respect of which money paid by the company has been expended, disposed of to another person all or any of the company’s rights in respect of the exploitation of any of the results of the relevant research and development activities, or an interest (whether legal or equitable) in all or any of those rights;
 
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="50%">
-  <col width="40%">
-</colgroup>
+the Board may give to the Commissioner a certificate stating that it is of that opinion.
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Reviewable decisions</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Decision</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Provision under which decision is made</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Registering or refusing to register an entity for activities</div>
-  </td>
-  <td>
-    <div>Subsection 27A(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>A finding made when considering an application for registration of activities</div>
-  </td>
-  <td>
-    <div>Subsection 27B(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Refusing to allow a further period for making an application for registration
-      of activities</div>
-  </td>
-  <td>
-    <div>Paragraph 27D(c)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Refusing to allow a further period for giving further information about
-      an application for registration of activities</div>
-  </td>
-  <td>
-    <div>Paragraph 27E(2)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Refusing to make a finding about a registration of activities</div>
-  </td>
-  <td>
-    <div>Paragraph 27F(4)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Refusing to allow a further period for giving further information about
-      an examination of a registration of activities</div>
-  </td>
-  <td>
-    <div>Paragraph 27H(2)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>A finding made about a registration of activities</div>
-  </td>
-  <td>
-    <div>Subsection 27J(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Refusing to vary on application a registration of activities</div>
-  </td>
-  <td>
-    <div>Subsection 27M(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>Refusing to allow a further period for giving further information about
-      an application for variation of a registration of activities</div>
-  </td>
-  <td>
-    <div>Paragraph 27E(2)(b), as that paragraph applies because of subsection 27M(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>Revoking a registration of activities</div>
-  </td>
-  <td>
-    <div>Subsection 27N(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>An advance finding, or refusing to make an advance finding, about the
-      nature of an activity</div>
-  </td>
-  <td>
-    <div>Subsection 28A(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>A finding, or refusing to make a finding, about an activity to be conducted
-      outside Australia</div>
-  </td>
-  <td>
-    <div>Subsection 28C(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>A finding, or refusing to make a finding, about particular technology</div>
-  </td>
-  <td>
-    <div>Subsection 28E(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>Refusing to allow a further period for giving further information about
-      an application for:</div>
-    <div>(a) an advance finding about the nature of an activity; or</div>
-    <div>(b) a finding about an activity to be conducted outside Australia; or</div>
-    <div>(c) a finding that technology is core technology</div>
-  </td>
-  <td>
-    <div>Paragraph 28H(2)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>Registering or refusing to register an entity as a research service provider</div>
-  </td>
-  <td>
-    <div>Subsection 29A(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>Refusing to allow a further period for giving further information about
-      an application for registration as a research service provider</div>
-  </td>
-  <td>
-    <div>Subsection 29C(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>Revoking a research service provider’s registration for not returning
-      a completed form about continuing that registration</div>
-  </td>
-  <td>
-    <div>Subsection 29E(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>Refusing to vary on application a research service provider’s registration</div>
-  </td>
-  <td>
-    <div>Subsection 29F(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>Refusing to allow a further period for giving further information about
-      an application for variation of a research service provider’s registration</div>
-  </td>
-  <td>
-    <div>Subsection 29C(3), as that subsection applies because of subsection 29F(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>Varying a research service provider’s registration otherwise than on application</div>
-  </td>
-  <td>
-    <div>Subsection 29G(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21</div>
-  </td>
-  <td>
-    <div>Revoking a research service provider’s registration</div>
-  </td>
-  <td>
-    <div>Subsection 29H(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>22</div>
-  </td>
-  <td>
-    <div>Refusing to allow a further period for making an application for review
-      of a decision</div>
-  </td>
-  <td>
-    <div>Subsection 30C(3)</div>
-  </td>
-</tr></table>
+             (5)  The Board shall not give a certificate under this section that affects a company or companies unless the Board has:
 
-##### <a id="30B"></a>30B  Notice of reviewable decision and internal review rights
+                     (a)  given notice in writing to the company or each company stating that the Board is considering giving the certificate and informing the company of its reasons for so considering;
 
-             (1)  When making a reviewable decision relating to an entity, the Board must give written notice to the entity of the following things:
+                     (b)  given to the company or each company a reasonable opportunity to make a written submission in relation to the matter; and
 
-                     (a)  the making of the decision;
+                     (c)  if such a submission is made within a reasonable time, had regard to the matters raised in the submission.
 
-                     (b)  the reasons for the decision;
+##### <a id="39PA"></a>39PA  Limitation of Board’s power to register companies jointly
 
-                     (c)  the entity’s right to have the decision reviewed under this Division.
+             (1)  Subject to this section, the Board must not, after the commencement of this section, register eligible companies jointly.
 
-             (2)  If written notice of any of these things is given to the entity under another provision of this Part, notice of the thing does not have to be given twice.
+             (2)  If, before 5 pm, by legal time in the Australian Capital Territory, on 23 July 1996 (the **_commencement time_**) a favourable advance approval opinion was given in respect of 2 or more eligible companies in relation to a proposed project comprising or including research and development activities, subsection (1) does not prohibit the Board, upon an application made under subsection 39P(1) not later than the end of 12 months after that time, from registering the companies jointly in relation to the project in respect of the year of income or years of income specified in the application.
 
-Note:          Other provisions of this Part require notice to be given about decisions covered by item 2, 7 or 11 of the table in section 30A.
+             (3)  If:
 
-             (3)  A failure to comply with this section does not affect the validity of the decision.
+                     (a)  before the commencement time, an application was made under section 39P to register 2 or more eligible companies jointly in relation to a proposed project in respect of a year of income or years of income; and
 
-##### <a id="30C"></a>30C  Applications for internal review of reviewable decisions
+                     (b)  by the commencement time, the Board had not, in respect of the application, registered or refused to register the companies jointly;
 
-Applications by affected entities
+subsection (1) does not prohibit the Board, in respect of the application, from registering the companies jointly.
 
-             (1)  An application for review of a reviewable decision may be made by or on behalf of any entity whose interests are affected by the reviewable decision.
+             (4)  If, before the commencement time, the Board refused under section 39P to register 2 or more eligible companies jointly in relation to a proposed project in respect of a year of income or years of income:
 
-             (2)  An application under subsection (1) must be in the approved form.
+                     (a)  where the Administrative Appeals Tribunal decided, on a review of a decision of the Board confirming the refusal, that the companies should be registered jointly in relation to the proposed project in respect of the year of income or one of the years of income but the registration to give effect to the decision had not been effected before that time—subsection (1) does not prohibit the companies from being registered jointly to give effect to the Tribunal’s decision; and
 
-Note:          Section 32 deals with approved forms.
+                     (b)  subsection (1) does not:
 
-             (3)  An application under subsection (1) for review of a reviewable decision must be made within:
+                              (i)  prohibit the Board after that time from reconsidering its decision under section 39S or prohibit the Administrative Appeals Tribunal after that time from reviewing a decision of the Board confirming the refusal; and
 
-                     (a)  28 days after the entity to which the decision relates is notified of the decision under this Part; or
+                             (ii)  where the Board on the reconsideration, or the Tribunal on the review, decides that the companies should be registered jointly in relation to the proposed project in respect of the year of income or one or more of the years of income—prohibit the companies from being so registered jointly.
 
-                     (b)  such further period as the Board allows in accordance with the decision‑making principles.
+             (5)  In this section:
 
-Note 1:       A refusal to allow a further period is reviewable (see section 30A).
+                    <a name="favour-advanc-approv-opinion"></a>**_favourable advance approval opinion_**, in relation to 2 or more eligible companies in respect of a proposed project, means an informal written opinion given by the Board, otherwise than in connection with a decision by the Board under the finance scheme guidelines, that:
 
-Note 2:       Section 32A deals with the decision‑making principles.
+                     (a)  the proposed project would comprise or include research and development activities; and
 
-Applications by Commissioner
+                     (b)  a proposed finance scheme in relation to those activities would not be taken to be an ineligible finance scheme for the purposes of this Part.
 
-             (4)  The Commissioner may, at any time, apply to the Board for review of a reviewable decision.
+##### <a id="39PB"></a>39PB  Extension of joint registration to complete project
 
-##### <a id="30D"></a>30D  Internal review of reviewable decisions
+             (1)  If 2 or more companies are registered jointly in relation to a project in respect of a year of income or years of income, a person may, before the end of that year of income or of the later or latest of those years of income, as the case may be, and not later than 30 June 2000, apply to the Board on behalf of the companies for an extension of the registration to include a later year of income or later years of income in which the companies propose to incur research and development expenditure or interest expenditure in respect of research and development activities comprised or included in the project.
 
-             (1)  After receiving an application for review of a reviewable decision, the Board must review the decision.
+             (2)  The application must:
 
-Making internal review decisions
+                     (a)  be in writing in accordance with a form approved by the Board; and
 
-             (2)  After reviewing the reviewable decision, the Board must make a decision (an **_internal review decision_**):
+                     (b)  contain such particulars of the extension as are necessary to enable the Board to make a decision.
 
-                     (a)  confirming the reviewable decision; or
+             (3)  Subject to subsection (4), if the Board is satisfied that an extension of the registration is necessary to enable the companies to complete the project, the Board may grant the extension for a year of income or years of income not later than the 2004‑05 year of income.
 
-                     (b)  varying the reviewable decision; or
+             (4)  The Board must not grant the extension unless the Board is satisfied that, if the extension were granted:
 
-                     (c)  setting aside the reviewable decision and substituting a new decision.
+                     (a)  the companies would not incur expenditure in relation to research and development activities other than those comprised or included in the particulars of the project as stated in the application for the registration under subsection 39P(2); and
 
-Note:          An internal review decision is reviewable by the Administrative Appeals Tribunal (see section 30E). Under the _Administrative Appeals Tribunal Act 1975_, notice of the internal review decision must be given to any person whose interests are affected by the decision.
+                     (b)  the companies would not incur any core technology expenditure in relation to research and development activities other than core technology expenditure identified in the application for registration under subsection 39P(2); and
 
-Deemed internal review decisions
+                     (c)  the companies would exploit any results of the research and development activities as mentioned in paragraph 39P(3)(f); and
 
-             (3)  If the Board does not make a decision under subsection (2) before the end of the period of 90 days after the day on which the Board received the application for review, the Board is taken, at the end of that period, to have made a decision (also an **_internal review decision_**) confirming the reviewable decision.
+                     (d)  the total amount of the expenditure expected to be incurred by the companies in respect of the research and development activities comprised or included in the project in the years of income in respect of which the companies would be jointly registered (including the year of income or years of income covered by the extension) would not exceed the total amount of the expenditure that was expected to be incurred by the companies in respect of those activities as specified in the application for the registration in accordance with paragraph 39P(2)(c).
 
-Note:          Under the _Administrative Appeals Tribunal Act 1975_, notice must be given to any person whose interests are affected by the internal review decision taken to be made under this subsection.
+             (5)  If the Board refuses to grant the extension, the Board must give written notice to the companies stating the reasons for the refusal.
 
-             (4)  However, an internal review decision (the **_deemed decision_**) is taken not to have been made under subsection (3) if:
+             (6)  If, after granting the extension, the Board becomes of the opinion that:
 
-                     (a)  after the end of the period referred to in that subsection, the Board makes a decision under subsection (2) about the applicable reviewable decision; and
+                     (a)  the companies have incurred expenditure in relation to research and development activities other than those comprised or included in the particulars of the project as stated in the application for the registration under subsection 39P(2); or
 
-                     (b)  an application has yet to be made under section 30E to the Administrative Appeals Tribunal for review of the deemed decision.
+                     (b)  the companies have incurred core technology expenditure in relation to research and development activities other than core technology expenditure identified in the application for registration under subsection 39P(2); or
 
-Matters relevant to all internal review decisions
+                     (c)  the total amount of the expenditure incurred by the companies in respect of the research and development activities comprised or included in the project in the years of income in respect of which the companies are jointly registered (the **_actual expenditure in relation to research and development activities_**) has exceeded the total amount of the expenditure that was expected to be incurred by the companies in respect of those activities as specified in the application for the registration in accordance with paragraph 39P(2)(c) (the **_expected expenditure in relation to research and development activities_**);
 
-             (5)  For the purposes of this Act and the _Income Tax Assessment Act 1997_, an internal review decision takes effect on the day on which the reviewable decision took effect.
+the Board must give the Commissioner a certificate stating that it is of that opinion and stating the day on which, in its opinion, the expenditure in relation to research and development activities referred to in paragraph (a) or (b) was incurred or the actual expenditure in relation to research and development activities referred to in paragraph (c) exceeded the expected expenditure in relation to research and development activities referred to in that paragraph, as the case may be.
 
-             (6)  The Board must notify the Commissioner in writing of:
+             (7)  The Board must not give a certificate under subsection (6) that affects a company or companies unless the Board has:
 
-                     (a)  the making of an internal review decision; and
+                     (a)  given written notice to the company or each company stating that the Board is considering giving the certificate and telling the company of its reasons for so considering; and
 
-                     (b)  the reasons for that decision.
+                     (b)  given the company or each company a reasonable opportunity to make a written submission in relation to the matter; and
 
-##### <a id="30E"></a>30E  External review by AAT of internal review decisions
+                     (c)  if such a submission is made within a reasonable time—had regard to the matters raised in the submission.
 
-             (1)  Application may be made to the Administrative Appeals Tribunal for review of an internal review decision of the Board.
+##### <a id="39Q"></a>39Q  Copies of certificate to be given to persons affected
 
-             (2)  Subsection 43(6) of the _Administrative Appeals Tribunal Act 1975_ has effect for the purposes of this Act and the _Income Tax Assessment Act 1997_ for:
+                   Where the Board gives to the Commissioner a certificate under this Part that affects a person, the Board shall at the same time serve a copy of the certificate on the person.
 
-                     (a)  an internal review decision as varied by the Tribunal under section 43 of the _Administrative Appeals Tribunal Act 1975_; or
+##### <a id="39R"></a>39R  Service of notices etc.
 
-                     (b)  a decision made by the Tribunal under that section in substitution for an internal review decision.
+                   A notice or other document that is required to be given to or served on a person under this Part may be given or served by sending to the person, by telegraph, telex, facsimile service or other similar means of communication, a message to the effect of the notice or other document.
 
-Note:          This means that the varied or substituted decision takes effect from the day on which the reviewable decision took effect (see subsection 30D(5)).
+##### <a id="39S"></a>39S  Internal review of decisions
 
-             (3)  If an internal review decision is taken to be made under subsection 30D(3), section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if:
+             (1)  This section applies to a decision of the Board under section 39ED, subsection 39EE(3), subsection 39EF(2) or (4), subsection 39F(4), (6), (7) or (9), section 39FA, 39HH, 39J, 39JE, 39L, 39LAAA, 39LAAB, 39LAA or 39LA, subsection 39P(3) or 39PB(3).
 
-                     (a)  paragraph 29(1)(d) of that Act applied to the internal review decision; and
+Note:          A decision of the Board whether to register a company as mentioned in subsection 39JF(1) is a decision of the Board under section 39J to which this section applies.
 
-                     (b)  the prescribed time for the purposes of that paragraph were the end of the period of 28 days starting on the day on which the internal review decision is taken to be made.
+          (1A)  This section also applies to a decision of the Board under the finance scheme guidelines.
 
-             (4)  Despite section 35 of the _Administrative Appeals Tribunal Act 1975_:
+             (2)  A person who is affected by a decision of the Board may, if dissatisfied with the decision, by notice given to the Board:
 
-                     (a)  hearings of proceedings for review of an internal review decision are to be held in private; and
+                     (a)  within the period of 21 days after receiving notice of the decision; or
 
-                     (b)  during the proceedings, the Tribunal may, by order:
+                     (b)  within such further period as the Board allows;
 
-                              (i)  give directions as to the persons who may be present during all or part of a hearing of the proceedings; and
+request the Board to reconsider the decision.
 
-                             (ii)  give directions of a kind mentioned in paragraph 35(2)(aa), (b) or (c) of that Act.
+             (3)  The request must set out the reasons for making the request.
 
-### Division 6—Consolidated groups and MEC groups
+             (4)  Upon receipt of the request, the Board must reconsider the decision and may, subject to subsection (5), confirm or revoke the decision or vary the decision in such manner as the Board thinks fit.
 
-##### <a id="31"></a>31  Registrations and findings not effective for subsidiary members for group R&amp;D activities
+             (5)  If the Board does not confirm, revoke or vary a decision before the end of the period of 60 days after the day on which the Board received the request under subsection (2) to reconsider the decision, the Board is taken (except for the purpose of subsection (6)), at the end of that period, to have confirmed the decision under subsection (4).
 
-             (1)  An R&amp;D entity’s registration under section 27A for an income year has no effect to the extent that the registration is for an activity conducted during a period that the R&amp;D entity is a subsidiary member of a consolidated group or MEC group, of which the head company is an R&amp;D entity.
+             (6)  Where the Board confirms, revokes or varies a decision, the Board must, by notice served on the applicant, inform the applicant of the result of the reconsideration of the decision, and the reasons for confirming, varying or revoking the decision, as the case may be.
 
-Example:    If an activity is conducted by the R&amp;D entity during all of an income year, and part way through the income year the R&amp;D entity becomes a subsidiary member of a consolidated group:
+             (7)  Where the Board gives a notice to an applicant under subsection (6) informing the applicant that a decision has been revoked or varied, the Board must advise the Commissioner of particulars of the notice.
 
-(a)    the R&amp;D entity can apply to be registered for the activity for the income year, and that registration will be effective in respect of the first part of the income year; and
+             (8)  The confirmation, revocation or variation under subsection (4) of a decision is not invalid merely because it is done after the end of the period referred to in subsection (5) unless, before it is done, the applicant makes an application to the Administrative Appeals Tribunal under section 39T for review of the decision.
 
-(b)    the head company of the group can apply to be registered for the activity for the income year in respect of the second part of the income year.
+##### <a id="39T"></a>39T  Review of decisions by Administrative Appeals Tribunal
 
-             (2)  If:
+             (1)  Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Board:
 
-                     (a)  a finding is made under this Part on application by an R&amp;D entity that is a subsidiary member of a consolidated group or MEC group; and
+                     (a)  that have been confirmed or varied under subsection 39S(4); or
 
-                     (b)  the head company of the group is also an R&amp;D entity;
+                     (b)  under subsection 39G(4), section 39HD, 39HF, 39M or 39MA or subsection 39N(2), 39P(4) or 39PB(6).
 
-the finding has no effect to the extent that the finding is for an activity conducted during a period that the R&amp;D entity is a subsidiary member of the group.
+             (2)  Where a decision is taken, under subsection 39S(5), to be confirmed, section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making application for review of the decision were the period commencing on the day on which the decision is taken to be confirmed and ending on the 28th day after that day.
 
-##### <a id="31A"></a>31A  What happens to findings if R&amp;D entity joins a group
+             (3)  Where a request is made under subsection 39S(2) in respect of a decision, section 41 of the _Administrative Appeals Tribunal Act 1975_ applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for review of that decision.
 
-             (1)  If a finding (the **_actual finding_**) under this Part:
+             (4)  The hearing of a proceeding relating to a decision covered by subsection (1) must take place in private and the Administrative Appeals Tribunal may, by order:
 
-                     (a)  is in force for an R&amp;D entity immediately before the time (the **_joining time_**) it becomes a subsidiary member of a consolidated group or MEC group, of which the head company is an R&amp;D entity; and
+                     (a)  give directions as to the persons who may be present; and
 
-                     (b)  is for an activity to be conducted wholly or partly after the joining time;
+                     (b)  give directions of a kind referred to in paragraph 35(2)(b) or (c) of the _Administrative Appeals Tribunal Act 1975_.
 
-a corresponding finding (the **_deemed finding_**) in the same terms is taken to come into force at the joining time for the head company and the activity.
+##### <a id="39U"></a>39U  Statements to accompany notification of decisions
 
-             (2)  The deemed finding ceases to be in force if the R&amp;D entity ceases to be a subsidiary member of the group.
+             (1)  Where the Board makes a decision to which section 39S applies and gives to a person whose interests are affected by the decision notice in writing of the decision, that notice must include a statement to the effect that:
 
-             (3)  The result of any review (see Division 5) of an actual finding is taken to apply in a corresponding way to the deemed finding.
+                     (a)  the person may, if dissatisfied with the decision, seek a reconsideration of the decision by the Board in accordance with subsection 39S(2); and
 
-             (4)  Neither section 28F (notice of decision about findings) nor Division 5 (review) applies to the deemed finding.
+                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Board upon that reconsideration confirming or varying the first‑mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
 
-##### <a id="31B"></a>31B  What happens to findings if R&amp;D entity leaves a group
+             (2)  Where the Board confirms or varies a decision under subsection 39S(4) and gives to a person notice in writing of the confirmation or variation of the decision, that notice must include a statement to the effect that the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision so confirmed or varied, make application to the Administrative Appeals Tribunal for review of the decision.
 
-             (1)  The consequences in subsection (2) apply if a finding (the **_group finding_**) under this Part:
+             (3)  Where the Board makes a decision under subsection 39G(4), section 39HD, 39HF, 39M or 39MA or subsection 39N(2) or 39P(4) and gives to a person whose interests are affected by the decision notice in writing of the decision, that notice must:
 
-                     (a)  is for an R&amp;D entity that is the head company of a consolidated group or MEC group; and
+                     (a)  in all cases—include a statement to the effect that, subject to the _Administrative Appeals Tribunal Act 1975_, application may be made to the Administrative Appeals Tribunal, by or on behalf of any person whose interests are affected by the decision, for review of the decision; and
 
-                     (b)  is in force immediately before the time (the **_leaving time_**) another R&amp;D entity ceases to be a subsidiary member of the group; and
+                     (b)  except where subsection 28(4) of that Act applies—include a statement to the effect that a request may be made under section 28 of that Act by or on behalf of such a person for a statement setting out the findings on material questions of fact, referring to the evidence or the material on which those findings were based and giving the reasons for the decision.
 
-                     (c)  is for an activity to be conducted by or for the other R&amp;D entity wholly or partly after the leaving time; and
+             (4)  A failure to comply with this section does not affect the validity of the decision.
 
-                     (d)  is not a deemed finding.
+##### <a id="39V"></a>39V  Tax consequences of variation or revocation of reviewable decisions
 
-             (2)  The consequences are as follows:
+             (1)  For the purposes of the _Income Tax Assessment Act 1936_, where a decision of the Board under this Part is revoked or set aside in accordance with section 39S of this Act or section 43 of the _Administrative Appeals Tribunal Act 1975_, the decision is taken to have never been made.
 
-                     (a)  a corresponding finding (the **_continuing finding_**) in the same terms is taken to come into force at the leaving time for the other R&amp;D entity and the activity;
+             (2)  Subject to subsection (1), for the purposes of the _Income Tax Assessment Act 1936_, where a decision of the Board under this Part is varied in accordance with section 39S of this Act or section 43 of the _Administrative Appeals Tribunal Act 1975_, the decision is taken to have been originally made as varied.
 
-                     (b)  everything that happened under this Part before the leaving time in relation to the group finding is taken to have happened in relation to the continuing finding;
-
-                     (c)  the group finding ceases to be in force at the leaving time.
-
-### Division 7—Other matters
-
-##### <a id="32"></a>32  Approved forms
-
-             (1)  This section applies if a provision of this Part requires a thing to be in the approved form.
-
-             (2)  To be in the approved form for the provision, the thing must:
-
-                     (a)  be in writing in a form approved by the Board; and
-
-                     (b)  include the information required by the form; and
-
-                     (c)  include any other material (including documents) required by the form.
-
-             (3)  The Board may approve, in writing, a form for the purposes of paragraph (2)(a). When doing so, the Board must ensure the form requires the production of information, or other material (including documents), specified in regulations made for the purposes of this subsection.
-
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
-
-##### <a id="32A"></a>32A  _Decision‑making principles_
-
-                   The Minister may, by legislative instrument, make principles (the **_decision‑making principles_**) that the Board must comply with when deciding the following:
-
-                     (a)  whether to allow a thing to be given under this Part within a further period than that specified in this Part;
-
-                     (b)  whether refusing to make a finding sought under this Part is justified;
-
-                     (c)  whether making a variation sought under section 27M is justified.
-
-##### <a id="32B"></a>32B  General rules about findings under this Part
-
-             (1)  A finding made under this Part in relation to an R&amp;D entity has no effect to the extent of any inconsistency with a finding already in force under this Part in relation to the R&amp;D entity.
-
-Example:    A finding under subsection 27J(1) in relation to an R&amp;D entity’s registration has no effect to the extent of any inconsistency with:
-
-(a)    a finding already in force under that subsection in relation to that registration; or
-
-(b)    a finding already in force under subsection 27B(1) in relation to the application for that registration; or
-
-(c)    a finding already in force under subsection 28A(1) (advance findings about the nature of activities) in relation to the R&amp;D entity.
-
-             (2)  Subsection 33(3) of the _Acts Interpretation Act 1901_ does not apply to the power to make a finding under this Part.
-
-Note:          This means the power to make a finding does not itself include the power to vary or revoke that finding. A finding can only be varied or revoked on review under Division 5.
-
-##### <a id="32C"></a>32C  Alternative constitutional basis
-
-             (1)  Without limiting its effect apart from this subsection, this Part also has the effect it would have if:
-
-                     (a)  subsection (2) had not been enacted; and
-
-                     (b)  each reference in this Part to an R&amp;D entity were, by express provision, confined to an R&amp;D entity that:
-
-                              (i)  is a constitutional corporation; or
-
-                             (ii)  has its registered office (within the meaning of the _Corporations Act 2001_) or principal place of business (within the meaning of that Act) located in a Territory.
-
-             (2)  Without limiting its effect apart from this subsection, this Part also has the effect it would have if:
-
-                     (a)  subsection (1) had not been enacted; and
-
-                     (b)  this Part, by express provision, confined applications, registrations, findings and decisions under this Part to be in relation to activities, or parts of activities, conducted or to be conducted:
-
-                              (i)  solely in a Territory; or
-
-                             (ii)  solely outside of Australia; or
-
-                            (iii)  solely in a Territory and outside of Australia; or
-
-                            (iv)  for the dominant purpose of supporting core R&amp;D activities conducted, or to be conducted, solely in a Territory.
+             (3)  Section 170 of the _Income Tax Assessment Act 1936_ does not prevent the amendment of an assessment at any time for the purpose of giving effect to this section.
 
 ## Part V—Miscellaneous
 
@@ -2238,7 +1844,7 @@ Note:          This means the power to make a finding does not
 
              (2)  A report under this section in relation to a financial year:
 
-                     (a)  must contain an analysis of the effectiveness of the operations of the Board under this Act, the _Pooled Development Funds Act 1992_ and the _Venture Capital Act 2002_ during the year in achieving the objects of those Acts; and
+                     (a)  must contain an analysis of the effectiveness of the operations of the Board under this Act, the _Pooled Development Funds Act 1992_ and the _Venture Capital Act 2002_ during the year in achieving the objects of those Acts; and
 
                      (b)  if the Board has entered into agreements under this Act, including agreements entered into under transitional arrangements, during the year—must set out, in relation to each such agreement entered into:
 
@@ -2248,7 +1854,7 @@ Note:          This means the power to make a finding does not
 
                             (iii)  the proportion of the expenditure on the project to which the agreement relates which is represented by that amount;
 
-                            (iv)  subject to section 47, particulars of the R&amp;D activities to which the agreement relates; and
+                            (iv)  subject to section 47, particulars of the research and development activities to which the agreement relates; and
 
                      (c)  if the Board has entered into agreements under this Act, including agreements entered into under transitional arrangements, and those agreements are still in force during the year—must set out, in relation to each such agreement entered into:
 
@@ -2258,17 +1864,15 @@ Note:          This means the power to make a finding does not
 
                     (ca)  must set out:
 
-                              (i)  the total number of applications during the year for registration under section 27A for a tax offset under Division 355 of the _Income Tax Assessment Act 1997_; and
+                              (i)  the total number of applications during the financial year for registration of eligible companies under section 39J that specified an intention to choose a tax offset under section 73I of the _Income Tax Assessment Act 1936_; and
 
-                             (ii)  the total amounts of the offsets involved; and
+                             (ii)  the total amounts of the offsets involved;
 
-                            (iii)  an analysis of the operation of the R&amp;D tax offset scheme for the year; and
+                            and must include an analysis of the tax offset scheme, including the tax offset thresholds, for that year; and
 
                      (d)  shall include particulars of any directions or other matter, particulars of which were published in the _Gazette_ in accordance with this Act during the year; and
 
-                     (e)  must include particulars of any advice given to the Board or a committee by the Minister under section 20A but need not state whether the Board or committee acted in accordance with the advice; and
-
-                      (f)  must set out a copy of the register mentioned in section 29J as it exists at the end of the year.
+                     (e)  must include particulars of any advice given to the Board or a committee by the Minister under section 20A but need not state whether the Board or committee acted in accordance with the advice.
 
           (2A)  The report must also contain:
 
@@ -2304,9 +1908,9 @@ Note:          This means the power to make a finding does not
 
 ##### <a id="47"></a>47  Confidentiality
 
-             (1)  An official to whom this section applies must not, unless required or permitted by law to do so, disclose protected information to a person if disclosing of the protected information would constitute a breach of confidence.
+             (1)  An official to whom this section applies must not, except for the purposes of this Act, of the _Census and Statistics Act 1905_ or of the _Income Tax Assessment Act 1936_ or unless required or permitted by law to do so, supply protected information to a person if the supplying of the protected information would constitute a breach of confidence.
 
-             (2)  An official to whom this section applies may disclose protected information to:
+             (2)  Subsection (1) does not apply to the supply of protected information to:
 
                      (a)  the Minister; or
 
@@ -2316,17 +1920,7 @@ Note:          This means the power to make a finding does not
 
                      (c)  an officer of the Department designated in writing by the Secretary of the Department as being an officer who is to receive information under this Act.
 
-          (2A)  An official to whom this section applies may disclose protected information if the disclosure is made:
-
-                     (a)  in the course of performing a duty or function, or exercising a power, under this Act; or
-
-                     (b)  for the purposes of enabling another person to perform duties or functions, or exercise powers, under this Act; or
-
-                     (c)  for the purposes of enabling a person to perform duties or functions, or exercise powers, under the _Census and Statistics Act 1905_ or the _Income Tax Assessment Act 1997_.
-
              (3)  In this section:
-
-                    <a name="disclos"></a>**_disclose_** means divulge or communicate.
 
                     <a name="offic-depart"></a>**_officer of the Department_** includes a consultant or other person providing services to the Department.
 
@@ -2360,15 +1954,11 @@ Note:          This means the power to make a finding does not
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-##### <a id="48A"></a>48A  Fees for making applications under Part III
+##### <a id="48A"></a>48A  Fees for making applications etc. under Part IIIA
 
-             (1)  The regulations may specify:
+             (1)  The regulations may prescribe fees for making applications or requests to the Board under Part IIIA.
 
-                     (a)  fees for making applications to the Board under Part III; and
-
-                     (b)  a method for indexing the fees.
-
-             (2)  The fees must not be such as to amount to taxation.
+             (2)  The amount of a fee must not be such as to amount to taxation.
 
 ## Part VI—Amendments of Industrial Research and Development Incentives Act 1976
 
@@ -2545,7 +2135,7 @@ Remainder: Royal Assent</div>
     <div>24 Dec 1992</div>
   </td>
   <td>
-    <div>Ss. 91–112: Royal Assent</div>
+    <div>Ss. 91–112: Royal Assent <i>(a)</i></div>
   </td>
   <td>
     <div>Ss. 106 and 108</div>
@@ -2629,7 +2219,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (item 94): Royal Assent</div>
+    <div>Schedule 4 (item 94): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2649,10 +2239,10 @@ Remainder: Royal Assent</div>
     <div>19 Dec 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (items 58–75): Royal Assent</div>
+    <div>Schedule 4 (items 58–75): Royal Assent <i>(c)</i></div>
   </td>
   <td>
-    <div>Sch. 4 (item 69) \[ <i>see</i>Table A]</div>
+    <div>Sch. 4 (item 69) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -2669,9 +2259,9 @@ Remainder: Royal Assent</div>
     <div>19 Dec 1996</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3): 19 Dec 1994 <i>(a)</i> 
-Schedule 1 (items 13, 14): 6 Dec 1995 <i>(a)</i> 
-Schedule 1 (items 21–23): 15 June 1991 <i>(a)</i> 
+    <div>Schedule 1 (items 1–3): 19 Dec 1994 <i>(d)</i> 
+Schedule 1 (items 13, 14): 6 Dec 1995 <i>(d)</i> 
+Schedule 1 (items 21–23): 15 June 1991 <i>(d)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2692,7 +2282,7 @@ Remainder: Royal Assent</div>
     <div>4 June 1998</div>
   </td>
   <td>
-    <div>Schedule 6 (Part 6): <i>(b)</i></div>
+    <div>Schedule 6 (Part 6): <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2712,10 +2302,10 @@ Remainder: Royal Assent</div>
     <div>22 June 1998</div>
   </td>
   <td>
-    <div>Schedule 2 (items 548, 549): <i>(c)</i></div>
+    <div>Schedule 2 (items 548, 549): <i>(f)</i></div>
   </td>
   <td>
-    <div>Sch. 2 (item 549): \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 549): \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -2735,7 +2325,7 @@ Remainder: Royal Assent</div>
     <div>9 Apr 1999</div>
   </td>
   <td>
-    <div>Ss. 4 and 5 \[ <i>see</i>Table A]</div>
+    <div>Ss. 4, 5 \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -2752,7 +2342,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 544, 545): 5 Dec 1999 ( <i>see</i>s. 2(1) and <i>Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (items 544, 545): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2793,7 +2383,7 @@ Remainder: 24 May 2001</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 276): 15 July 2001 ( <i>see</i>s. 2(1) and <i>Gazette</i>2001, No. S285)</div>
+    <div>Ss. 4–14 and Schedule 3 (item 276): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -2813,12 +2403,12 @@ Remainder: 24 May 2001</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 2–2B, 7): Royal Assent 
-Schedule 2 (items 45–50): 29 Jan 2001 <i>(d)</i> 
-Schedule 2 (items 85–91): <i>(d)</i></div>
+    <div>Schedule 1 (items 2–2B, 7): Royal Assent <i>(i)</i> 
+Schedule 2 (items 45–50): 29 Jan 2001 <i>(i)</i> 
+Schedule 2 (items 85–91): <i>(i)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 2B) and Sch. 2 (item 51) \[ <i>see</i>Table A] 
+    <div>Sch. 1 (item 2B) and Sch. 2 (item 51) \[ <i>see</i>Table A] 
 S. 2(3) (am. by 57, 2002, Sch. 12 \[item 63])</div>
   </td>
   <td>
@@ -2853,7 +2443,7 @@ S. 2(3) (am. by 57, 2002, Sch. 12 \[item 63])</div>
     <div>3 July 2002</div>
   </td>
   <td>
-    <div>Schedule 12 (item 63): <i>(e)</i></div>
+    <div>Schedule 12 (item 63): <i>(j)</i></div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -2931,44 +2521,22 @@ Schedule 12 (items 1–52,
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 708–710) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Research and Development) Act 2011</div>
-  </td>
-  <td>
-    <div>93, 2011</div>
-  </td>
-  <td>
-    <div>8 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 and Schedule 4 (items 1–6, 
-16–18): Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 4 (items 1–6, 16–18) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
-_(a)_     Subsections 2(2)–(4) of the _Industry Research and Development Amendment Act 1996_ provide as follows:
+_(a)_     The _Industry Research and Development Act 1986_ was amended by sections 91–112 only of the _Taxation Laws Amendment Act (No. 5) 1992_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(b)_     The _Industry Research and Development Act 1986_ was amended by Schedule 4 (item 94) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(c)_     The _Industry Research and Development Act 1986_ was amended by Schedule 4 (items 
+ 58–75) only of the _Taxation Laws Amendment Act (No. 3) 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(d)_     Subsections 2(2)–(4) of the _Industry Research and Development Amendment Act 1996_ provide as follows:
 
                  (2)   Items 1, 2 and 3 of Schedule 1 are taken to have commenced on 19 December 1994, immediately after the commencement of Schedule 4 to the _Taxation Laws Amendment Act (No. 4) 1994_.
 
@@ -2976,25 +2544,37 @@ _(a)_     Subsections 2(2)–(4) of the _Industry Research and Developme
 
                  (4)   Items 21, 22 and 23 of Schedule 1 are taken to have commenced on 15 June 1991, immediately after the commencement of section 17 of the _Industry, Technology and Commerce Legislation Amendment Act 1991_.
 
-_(b)_ The _Industry Research and Development Act 1986_ was amended by Schedule 6 (Part 6) only of the _Taxation Laws (Technical Amendments) Act 1998_, subsection 2(16) of which provides as follows:
+_(e)_ The _Industry Research and Development Act 1986_ was amended by Schedule 6 (Part 6) only of the _Taxation Laws (Technical Amendments) Act 1998_, subsection 2(16) of which provides as follows:
 
                (16)   Part 6 of Schedule 6 is taken to have commenced immediately after the commencement of section 110 of the _Taxation Laws Amendment Act (No. 5) 1992._
 
          Section 110 of the _Taxation Laws Amendment Act (No. 5) 1992_ commenced on 24 December 1992.
 
-_(c)_     The _Industry Research and Development Act 1986_ was amended by Schedule 2 (item 548) only of the _Tax Law Improvement Act (No. 1) 1998_, subsection 2(2) of which provides as follows:
+_(f)_      The _Industry Research and Development Act 1986_ was amended by Schedule 2 (item 548) only of the _Tax Law Improvement Act (No. 1) 1998_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedule 2 (except item 3 of it) commences immediately after the commencement of Schedule 1.
 
          Schedule 1 commenced on 22 June 1998.
 
-_(d)_ The _Industry Research and Development Act 1986_ was amended by Schedule 2 (items 45–50 and 85–91) only of the _Taxation Laws Amendment (Research and Development) Act 2001_, subsections 2(2) and (3) of which provide as follows:
+_(g)_     The _Industry Research and Development Act 1986_ was amended by Schedule 1 (items 544 and 545) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(h)_ The _Industry Research and Development Act 1986_ was amended by Schedule 3 (item 276) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+_(i)_ The _Industry Research and Development Act 1986_ was amended by Schedule 1 (item 2, 2A and 7) and Schedule 2 (items 45–50 and 85–91) only of the _Taxation Laws Amendment (Research and Development) Act 2001_, section 2 of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
                  (2)   Division 1 of Part 3 of Schedule 2 is taken to have commenced at 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
 
                  (3)   Division 2 of Part 3 of Schedule 2 commences, or is taken to have commenced, immediately after the commencement of Schedule 1 to the _New Business Tax System (Capital Allowances) Act 2001_.
 
-_(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 2002_, provides as follows:
+_(j)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 2002_, provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -3125,7 +2705,7 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 59, 1988; No. 15, 2004; No. 164, 2007; No. 93, 2011</div>
+    <div>am. No. 59, 1988; No. 15, 2004; No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3133,7 +2713,7 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 66, 1991; No. 224, 1992; No. 78, 1996; No. 15, 2004; No. 164, 2007; No. 93, 2011</div>
+    <div>am. No. 66, 1991; No. 224, 1992; No. 78, 1996; No. 15, 2004; No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3157,7 +2737,7 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 66, 1991; No. 224, 1992; No. 15, 2004; No. 164, 2007; No. 93, 2011</div>
+    <div>am. No. 66, 1991; No. 224, 1992; No. 15, 2004; No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3181,7 +2761,7 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 224, 1992; No. 164, 2007; No. 93, 2011</div>
+    <div>am. No. 224, 1992; No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3269,7 +2849,7 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 59, 1988; No. 224, 1992 ; No. 15, 1999; No. 164, 2007; No. 93, 2011</div>
+    <div>am. No. 59, 1988; No. 224, 1992 ; No. 15, 1999; No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3306,14 +2886,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part III</div>
   </td>
   <td>
@@ -3322,58 +2894,10 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 26</div>
   </td>
   <td>
     <div>rep. No. 15, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26A</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -3394,86 +2918,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27A–27C</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27D, 27E</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27F–27H</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27J–27N</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 28</div>
   </td>
   <td>
@@ -3490,110 +2934,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28A, 28B</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28C, 28D</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28E</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28F–28H</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3A of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 15, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 29</div>
   </td>
   <td>
@@ -3602,114 +2942,10 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29A</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29B–29D</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29E–29H</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29J</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 30</div>
   </td>
   <td>
     <div>rep. No. 15, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 30A–30E</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -3730,31 +2966,7 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 31A, 31B</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
+    <div>Ss. 32–34</div>
   </td>
   <td>
     <div>rep. No. 15, 2004</div>
@@ -3762,23 +2974,15 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
+    <div>Div. 3A of Part III</div>
+  </td>
+  <td>
+    <div>ad. No. 66, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div></div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32A–32C</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 33, 34</div>
   </td>
   <td>
     <div>rep. No. 15, 2004</div>
@@ -3858,18 +3062,18 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div>Part IIIA</div>
+    <div><b>Part IIIA</b></div>
   </td>
   <td>
-    <div>ad. No. 59, 1988</div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>Part IIIA</div>
   </td>
   <td>
-    <div>rep. No. 93, 2011</div>
+    <div>ad. No. 59, 1988</div>
   </td>
 </tr>
 <tr>
@@ -3890,14 +3094,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39A</div>
   </td>
   <td>
@@ -3910,14 +3106,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
   </td>
   <td>
     <div>am. No. 224, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3938,26 +3126,10 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39C</div>
   </td>
   <td>
     <div>ad. No. 59, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3978,14 +3150,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39E</div>
   </td>
   <td>
@@ -3998,14 +3162,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
   </td>
   <td>
     <div>am. No. 181, 1994; No. 84, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4026,14 +3182,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39EB</div>
   </td>
   <td>
@@ -4046,14 +3194,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
   </td>
   <td>
     <div>am. No. 84, 1995; No. 170, 2001; No. 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4074,14 +3214,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39ED</div>
   </td>
   <td>
@@ -4094,14 +3226,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
   </td>
   <td>
     <div>am. No. 82, 1996; No. 15, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4122,14 +3246,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39EF</div>
   </td>
   <td>
@@ -4142,14 +3258,6 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
   </td>
   <td>
     <div>am. No. 170, 2001; No. 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4170,26 +3278,10 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39FA</div>
   </td>
   <td>
     <div>ad. No. 15, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4202,26 +3294,10 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 39G(6)</div>
   </td>
   <td>
     <div>ad. No. 15, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4234,26 +3310,10 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39HA</div>
   </td>
   <td>
     <div>ad. No. 224, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4274,26 +3334,10 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39HC</div>
   </td>
   <td>
     <div>ad. No. 224, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4314,15 +3358,7 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39HE, 39HF</div>
+    <div>S. 39HE</div>
   </td>
   <td>
     <div>ad. No. 224, 1992</div>
@@ -4330,15 +3366,15 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>S. 39HF</div>
   </td>
   <td>
-    <div>rep. No. 93, 2011</div>
+    <div>ad. No. 224, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 39HG, 39HH</div>
+    <div>S. 39HG</div>
   </td>
   <td>
     <div>ad. No. 82, 1996</div>
@@ -4354,10 +3390,18 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
+    <div>S. 39HH</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div></div>
   </td>
   <td>
-    <div>rep. No. 93, 2011</div>
+    <div>am. No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4370,26 +3414,10 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39HI</div>
   </td>
   <td>
     <div>ad. No. 82, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4410,26 +3438,10 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 39JA–39JC</div>
   </td>
   <td>
     <div>ad. No. 82, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4450,28 +3462,12 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 39JD(1) 
 Renumbered Note 1</div>
   </td>
   <td>
     <div>ad. No. 15, 1999 
 No. 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 39JD(1)</div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4484,26 +3480,10 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 39JE</div>
   </td>
   <td>
     <div>am. No. 15, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4524,26 +3504,10 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39JF</div>
   </td>
   <td>
     <div>ad. No. 15, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4564,26 +3528,10 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39KA</div>
   </td>
   <td>
     <div>ad. No. 170, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4604,14 +3552,6 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 39LAAA, 39LAAB</div>
   </td>
   <td>
@@ -4620,26 +3560,10 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39LAA</div>
   </td>
   <td>
     <div>ad. No. 181, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4660,14 +3584,6 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39M</div>
   </td>
   <td>
@@ -4684,26 +3600,10 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39MA</div>
   </td>
   <td>
     <div>ad. No. 224, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4724,14 +3624,6 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39P</div>
   </td>
   <td>
@@ -4748,26 +3640,10 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 39PA, 39PB</div>
   </td>
   <td>
     <div>ad. No. 78, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4788,14 +3664,6 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39S</div>
   </td>
   <td>
@@ -4812,26 +3680,10 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 39S(1)</div>
   </td>
   <td>
     <div>ad. No. 15, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4852,14 +3704,6 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39U</div>
   </td>
   <td>
@@ -4876,26 +3720,10 @@ No. 164, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39V</div>
   </td>
   <td>
     <div>ad. No. 66, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4959,7 +3787,7 @@ No. 164, 2007</div>
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 66, 1991; No. 78, 1996; No. 170, 2001; No. 15, 2004; No. 164, 2007; No. 93, 2011</div>
+    <div>am. No. 66, 1991; No. 78, 1996; No. 170, 2001; No. 15, 2004; No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4967,7 +3795,7 @@ No. 164, 2007</div>
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 59, 1988; No. 15, 1999; No. 164, 2007; No. 8, 2010; Nos. 5 and 93, 2011</div>
+    <div>am. No. 59, 1988; No. 15, 1999; No. 164, 2007; No. 8, 2010; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4977,39 +3805,7 @@ No. 164, 2007</div>
   <td>
     <div>ad. No. 82, 1996</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 2011</div>
-  </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 708  At the end of subsections 17(1), (2) and (3)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 709  Subsections 17(4) to (9)
-
-Repeal the subsections.
-
-## 710  Subsection 22A(1)
-
-Omit “paragraph 34AB(b)”, substitute “paragraph 34AB(1)(b)”.
-
-As at 9 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -5101,7 +3897,7 @@ The amendments made by items 1, 2, 3, 4 and 5 of Schedule 1 do not affect th
 
 * * *
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -5345,150 +4141,5 @@ is taken, after the commencement of this item, to be a reference to the new Boar
 ## 287  Committees
 
 An appointment of a member of a committee under section 22 of the _Industry Research and Development Act 1986_ that is in force immediately before the commencement of this item is taken, on that commencement, to be revoked.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Tax Laws Amendment (Research and Development) Act 2011 
- (No. 93, 2011)_
-
-## Schedule 4
-
-## 1  Application of repeals and amendments
-
-(1)       The repeals and amendments made by this Act apply:
-
-                     (a)  so far as they affect assessments—to assessments for income years commencing on or after 1 July 2011; and
-
-                     (b)  so far as they relate to income years but do not affect assessments—to income years commencing on or after 1 July 2011; and
-
-                     (c)  otherwise—to acts done or omitted to be done, states of affairs existing, or periods ending on or after the commencement of the first income year commencing on or after 1 July 2011.
-
-_Note:       For the purposes of an assessment for an income year commencing on or after 1 July 2011, regard may still be had to acts done or omitted to be done, states of affairs existing, or periods ending during an earlier income year. For example, regard may be had to expenditure incurred by other entities in income years commencing before 1 July 2011 for the purposes of paragraph 355‑415(1)(b) of the Income Tax Assessment Act 1997._
-
-(2)       However, each of the following applies in relation to the 2011‑12 financial year and all later financial years:
-
-                     (a)  section 29E of the _Industry Research and Development Act 1986_ (as inserted by Schedule 2);
-
-                     (b)  the repeal of paragraph 39H(b) of the _Industry Research and Development Act 1986_;
-
-                     (c)  section 46 of the _Industry Research and Development Act 1986_ (as amended by this Act).
-
-## 2  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 3  Making and amending assessments, and doing other things etc., in relation to past matters
-
-(1)       Even though a provision is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Note:          Examples of things covered by this subitem are as follows:
-
-(a)    an eligible company may object under Part IVC of the _Taxation Administration Act 1953_ in an income year commencing on or after 1 July 2011 about a notice given under former section 73I of the _Income Tax Assessment Act 1936_ for an income year commencing before 1 July 2011;
-
-(b)    an eligible company seeking registration under former section 39J of the _Industry Research and Development Act 1986_ for an income year commencing before 1 July 2011 may do so during an income year commencing on or after 1 July 2011;
-
-(c)    Innovation Australia may give a certificate under former section 39M of the _Industry Research and Development Act 1986_ in an income year commencing on or after 1 July 2011 about research and development activities registered for an income year commencing before 1 July 2011.
-
-(2)       Even though a provision is repealed or amended by this Act, the repeal or amendment is disregarded so far as it relates to a state of affairs:
-
-                     (a)  that exists after the repeal or amendment applies; and
-
-                     (b)  that relates to:
-
-                              (i)  an act done or omitted to be done; or
-
-                             (ii)  a state of affairs existing; or
-
-                            (iii)  a period ending;
-
-                            before the repeal or amendment applies.
-
-Note:          Examples of things covered by this subitem are as follows:
-
-(a)    an amount may be included in an eligible company’s assessable income under former subsection 73BF(4) of the _Income Tax Assessment Act 1936_ for an income year commencing on or after 1 July 2011 if the company receives in that income year an amount for the results of research and development activities for which the company had deductions under former section 73BA of that Act in an income year commencing before 1 July 2011;
-
-(b)    an eligible company’s deduction under section 73B of the _Income Tax Assessment Act 1936_ for expenditure incurred during an income year commencing before 1 July 2011 is reduced because of section 73C of that Act if, in an income year commencing on or after 1 July 2011, the company receives a recoupment of that expenditure from the Commonwealth.
-
-(3)       To avoid doubt, this item extends to the repeal of subsection 286‑75(3), and paragraph 286‑80(2)(b), in Schedule 1 to the _Taxation Administration Act 1953_. In particular, if, in a particular case, the period in respect of which an administrative penalty is payable under subsection 286‑75(3) in that Schedule:
-
-                     (a)  has not begun; or
-
-                     (b)  has begun but not ended;
-
-when those provisions are repealed, then, despite the repeal, those provisions continue to apply in the particular case until the end of the period.
-
-## 4  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 5  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on a provision that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 6  Schedule does not limit operation of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of the _Acts Interpretation Act 1901_.
-
-## 16  R&amp;D activities registered under the old law
-
-A reference in each of the following provisions of the _Industry Research and Development Act 1986_ (as amended by this Act) to a registration under section 27A of that Act includes a reference to a registration under former section 39J of that Act:
-
-                     (a)  subparagraph 27A(3)(b)(i);
-
-                     (b)  subparagraph 27B(1)(c)(ii);
-
-                     (c)  subparagraph 27J(1)(c)(ii);
-
-                     (d)  paragraph 28A(1)(b);
-
-                     (e)  paragraph 28D(2)(b).
-
-_Note:       For each of these provisions, the R&amp;D activity registered under former section 39J will need to be a core R&amp;D activity within the meaning of the amendments made by this Act._
-
-## 17  Australian research agencies registered under the old law
-
-(1)       This item applies to an entity registered, immediately before the commencement of this item, under section 39F of the _Industry Research and Development Act 1986_ as an Australian research agency in respect of one or more classes (the **_research classes_**) of Australian research and development activities.
-
-(2)       The entity is taken, immediately after the commencement of this item, to be registered under section 29A of that Act as a research service provider qualified to provide services in research fields corresponding to those research classes.
-
-## 18  Regulations
-
-(1)       The Governor‑General may make regulations prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-(2)       The Governor‑General may make regulations dealing with matters of a transitional, savings or application nature relating to the repeals and amendments made by this Act.
 
  
