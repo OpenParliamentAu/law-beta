@@ -1,240 +1,237 @@
 
 Development Allowance Authority Act 1992
 Act No. 99 of 1992 as amended
-This compilation was prepared on 1 February 2000 taking into account amendments up to Act No. 146 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 23 March 1999
+(includes amendments up to No. 15 of 1998)
+Prepared by the Office of Legislative Drafting,
+Attorney‑General’s Department, Canberra
+
+
 Contents
-Chapter 1—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-Chapter 2—Development allowance	2
-Part 1—Preliminary	2
-3	Object	2
-4	Simplified outline of scheme of Act	2
-5	Example of how this Chapter will work	3
-6	Interpretation	5
-Part 2—Key concepts relating to projects	10
-Division 1—Carrying out a project	10
-7	Meaning of carrying out a project	10
-8	Meaning of productive facility	10
-9	When productive facilities pass the discrete project test	11
-10	When productive facilities pass the vertical integration test	11
-11	DAA may direct that activities carried out by an entity are to be treated as the establishment of a new productive facility	12
-12	Australian satellites deemed to be in Australia	12
-Division 2—Joint venture projects, joint venture project schemes, company group project schemes and individual project schemes	13
-13	Joint venture projects	13
-13A	Joint venture project schemes	13
-14	Company group project schemes	14
-14A	Individual project schemes	15
-Division 3—Basic eligibility test	17
-15	Basic eligibility test for project expenditure	17
-16	When industries or activities benefit from a substantial level of industry assistance	18
-Division 4—Competitiveness test	19
-17	Competitiveness test for project expenditure	19
-Division 5—$50 million threshold test	21
-18	$50 million threshold test for project expenditure	21
-19	Gross capital expenditure	22
-Division 6—Substantial commitment to completion of a project	25
-20	Substantial commitment to completion of a project—relevant factors	25
-Division 7—Post‑26 February 1992 projects	27
-21	Post‑26 February 1992 projects	27
-Division 8—Prospective deduction test	29
-22	Prospective deduction test	29
-23	Application of Tax Act to prospective deduction test	29
-Division 9—Specification of project and specification of plant expenditure	31
-24	Specification of project and specification of plant expenditure	31
-Division 10—Plant expenditure to be incurred wholly or principally in carrying out a project	33
-25	Plant expenditure to be incurred wholly or principally in carrying out a project	33
-Division 11—Plant expenditure incurred in respect of the lease of new units of plant	34
-25A	Plant expenditure incurred in respect of the lease of new units of plant	34
-Division 12—Proposal to incur plant expenditure in carrying out a project counts even if no decision made about whether to acquire, construct or lease the plant	35
-25B	Proposal to incur plant expenditure in carrying out a project counts even if no decision made about whether to acquire, construct or lease the plant	35
-Part 3—Registration of plant expenditure	36
-26	Applications for registration of plant expenditure	36
-27	Timing of application	36
-28	Form of application etc.	36
-29	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	37
-30	DAA’s decision on application	38
-31	Criteria for granting application	38
-32	Form of registration	40
-33	Duration of registration	40
-34	Conditions of registration	41
-Part 4—Pre‑qualifying certificates relating to plant expenditure	43
-35	Application for pre‑qualifying certificate	43
-36	Timing of application	43
-37	Form of application	43
-38	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	44
-39	DAA’s decision on application	44
-40	Criteria for granting application	45
-41	Form of certificate	45
-Part 5—Variation of registration or certificate	47
-42	Applications for variation	47
-43	Form of application	48
-44	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	49
-45	DAA’s decision on application	49
-46	Criteria for granting application	49
-47	Date of effect of variation	51
-48	Variation of project specification	51
-Part 6—Transfer of benefits of registration or certificate	53
-Division 1—Takeovers not involving re‑constituted joint ventures or re‑constituted partnerships	53
-49	Application for transfer	53
-50	Form of application	54
-51	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	55
-52	DAA’s decision on application	55
-53	Criteria for granting application	55
-54	Form of transfer of benefits of registration	56
-55	Form of transfer of benefits of certificate	57
-56	Form of certificate	58
-57	DAA may direct that plant be treated as new plant	58
-Division 2—Re‑constituted joint ventures	60
-58	Registration cancelled, and certificate terminated, if joint venture is re‑constituted	60
-59	Application for transfer of benefits of registration or certificate to parties to re‑constituted joint venture	60
-60	Form of application	61
-61	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	62
-62	DAA’s decision on application	62
-63	Criteria for granting application	62
-64	Form of transfer of benefits of registration	63
-65	Form of transfer of benefits of certificate	64
-66	Form of certificate	64
-67	DAA may direct that plant be treated as new plant	64
-Division 3—Re‑constituted partnerships	66
-68	Registration cancelled, and certificate terminated, if partnership is re‑constituted	66
-69	Application for transfer of benefits of registration or certificate to re‑constituted partnership	66
-70	Form of application	67
-71	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	68
-72	DAA’s decision on application	68
-73	Criteria for granting application	68
-74	Form of transfer of benefits of registration	69
-75	Form of transfer of benefits of certificate	69
-76	Form of certificate	70
-77	DAA may direct that plant be treated as new plant	70
-Part 7—DAA’s information‑gathering powers	72
-78	Entities to which this Part applies	72
-79	DAA may request entity to give information or produce documents etc.	72
-80	How DAA may deal with documents etc. produced by entity	72
-Part 8—Cancellation or termination of registration or certificate	74
-81	Cancellation or termination—failure to comply with request to give information etc.	74
-82	Cancellation—false or misleading statements etc.	74
-83	Cancellation of registration—contravention of conditions	76
-84	Cancellation of registration on request	76
-85	Termination of certificate on request	76
-Part 9—Tax effects of certification	77
-86	When plant expenditure pre‑qualifies under this Act	77
-87	Effect of cancellation of certificate	77
-88	Effect of termination of certificate	77
-89	Effect of variation of certificate	78
-90	Effect of decision to revoke or set aside a decision relating to a certificate	78
-91	DAA to notify Commissioner of Taxation	78
-92	Amendment of assessments	78
-Part 10—DAA’s Powers to facilitate completion of projects	79
-93	DAA’s powers to facilitate completion of projects	79
-Chapter 3—Infrastructure borrowings	80
-Part 1—Preliminary	80
-93A	Object	80
-93B	Simplified outline of scheme of Chapter	80
-93C	Example of how this Chapter works	81
-Part 2—Interpretation: Infrastructure borrowings etc.	83
-93D	Interpretation	83
-93E	Kinds of infrastructure borrowing	88
-93F	Direct infrastructure borrowing	88
-93G	Indirect infrastructure borrowing	88
-93H	Refinancing infrastructure borrowing	88
-93I	Infrastructure borrowings—borrower requirements	89
-93J	Direct infrastructure borrowing—requirement relating to spending of borrowed money	93
-93K	Direct infrastructure borrowing—requirement relating to use or sale of facilities on which borrowed money is to be spent	95
-93L	Infrastructure facilities	97
-93M	Related facilities	99
-Part 3—Certificates	101
-Division 1—Issue, variation and transfer etc.	101
-93N	Application for certificate	101
-93O	Criteria for issuing certificate	102
-93P	Undertaking to comply with certificate conditions	103
-93PA	Termination of certificate issue provisions	104
-93Q	Form of certificate etc.	105
-93R	Conditions applying to certificate	105
-93S	Application for variation of conditions applying to a certificate	107
-93T	Criteria for variation of conditions applying to a certificate	107
-93TA	Conditions not to be varied if total tax payable reduced	107
-93TB	Reconsideration of pre‑commencement variations	108
-93U	Transfer of certificate	109
-93V	Criteria for transfer of certificate	109
-93W	Undertaking to comply with certificate conditions	110
-93X	Provisions relating to applications under this Division	110
-Division 2—Cancellation	113
-93Z	Cancellation or termination—failure to comply with request to give information or provide report	113
-93ZA	Cancellation—false or misleading statements etc.	113
-93ZAA	Cancellation of certificate that applies to an indirect infrastructure borrowing etc.—holder ceases to be a resident	114
-93ZAB	Cancellation of certificate that applies to an indirect infrastructure borrowing—transfer of rights etc.	116
-93ZAC	Cancellation of certificate that applies to an indirect infrastructure borrowing—total repayment of related direct infrastructure borrowing	116
-93ZAD	Cancellation of certificate that applies to an indirect infrastructure borrowing—partial repayment of related direct infrastructure borrowing	117
-93ZB	Cancellation for contravention of conditions applying to certificate etc.	118
-Part 4—Provision of information to DAA	120
-93ZC	DAA may request person to give information or produce documents etc.	120
-93ZD	How DAA may deal with documents etc. produced by person	120
-93ZE	Certificate holder to provide annual progress reports	121
-Part 5—Provision of information by DAA to Commissioner of Taxation	122
-93ZF	Provision of information to Commissioner of Taxation	122
-Part 6—DAA’s power to facilitate issue or transfer of certificate	123
-93ZG	DAA’s powers to facilitate issue or transfer of certificate	123
-Chapter 4—General	124
-Part 1—Interpretation	124
-93AA	Interpretation	124
-Part 2—Development Allowance Authority	124
-94	Creation of single‑person statutory office of Development Allowance Authority	124
-95	Appointment of DAA	125
-96	DAA may be full‑time or part‑time	125
-97	DAA’s term of office	125
-99	Person may hold both the office of DAA and the office of Commissioner of the Industry Commission	125
-100	Full‑time DAA—age limit of 65 years	125
-101	DAA’s terms and conditions of appointment	125
-102	DAA’s remuneration and allowances	125
-103	Full‑time DAA’s leave of absence	126
-104	Resignation of DAA	126
-105	Termination of appointment of DAA	126
-106	Acting DAA	127
-107	Conflict of interest	128
-Part 3—Administration	130
-108	Delegation by DAA	130
-109	Consultants	130
-110	Commonwealth authorities may assist DAA	130
-Part 4—Protection of commercial‑in‑confidence information	131
-111	Application for protection of commercial‑in‑confidence information	131
-112	DAA may declare that information is to be treated as commercial‑in‑confidence information	131
-113	DAA may revoke declaration	132
-114	Commercial‑in‑confidence information must not be disclosed	134
-Part 5—Reports by DAA	136
-115	Quarterly reports by DAA	136
-116	Periodic reports by DAA	136
-117	Annual report	136
-118	Reports to deal with ancillary provisions of the Taxation Administration Act 1953	137
-Part 6—Review of decisions	138
-119	Reconsideration of reviewable decisions	138
-120	Review of decisions by Administrative Appeals Tribunal	138
-121	Statements to accompany notification of decisions	139
-Part 7—Miscellaneous	140
-122	Giving of documents to partnerships	140
-122A	Certified copies of documents	140
-123	Regulations	140
-Notes		141
+Chapter 1—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+Chapter 2—Development allowance	
+Part 1—Preliminary	
+3	Object	
+4	Simplified outline of scheme of Act	
+5	Example of how this Chapter will work	
+6	Interpretation	
+Part 2—Key concepts relating to projects	
+Division 1—Carrying out a project	
+7	Meaning of carrying out a project	
+8	Meaning of productive facility	
+9	When productive facilities pass the discrete project test	
+10	When productive facilities pass the vertical integration test	
+11	DAA may direct that activities carried out by an entity are to be treated as the establishment of a new productive facility	
+12	Australian satellites deemed to be in Australia	
+Division 2—Joint venture projects, joint venture project schemes, company group project schemes and individual project schemes	
+13	Joint venture projects	
+13A	Joint venture project schemes	
+14	Company group project schemes	
+14A	Individual project schemes	
+Division 3—Basic eligibility test	
+15	Basic eligibility test for project expenditure	
+16	When industries or activities benefit from a substantial level of industry assistance	
+Division 4—Competitiveness test	
+17	Competitiveness test for project expenditure	
+Division 5—$50 million threshold test	
+18	$50 million threshold test for project expenditure	
+19	Gross capital expenditure	
+Division 6—Substantial commitment to completion of a project	
+20	Substantial commitment to completion of a project—relevant factors	
+Division 7—Post‑26 February 1992 projects	
+21	Post‑26 February 1992 projects	
+Division 8—Prospective deduction test	
+22	Prospective deduction test	
+23	Application of Tax Act to prospective deduction test	
+Division 9—Specification of project and specification of plant expenditure	
+24	Specification of project and specification of plant expenditure	
+Division 10—Plant expenditure to be incurred wholly or principally in carrying out a project	
+25	Plant expenditure to be incurred wholly or principally in carrying out a project	
+Division 11—Plant expenditure incurred in respect of the lease of new units of plant	
+25A	Plant expenditure incurred in respect of the lease of new units of plant	
+Division 12—Proposal to incur plant expenditure in carrying out a project counts even if no decision made about whether to acquire, construct or lease the plant	
+25B	Proposal to incur plant expenditure in carrying out a project counts even if no decision made about whether to acquire, construct or lease the plant	
+Part 3—Registration of plant expenditure	
+26	Applications for registration of plant expenditure	
+27	Timing of application	
+28	Form of application etc.	
+29	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	
+30	DAA’s decision on application	
+31	Criteria for granting application	
+32	Form of registration	
+33	Duration of registration	
+34	Conditions of registration	
+Part 4—Pre‑qualifying certificates relating to plant expenditure	
+35	Application for pre‑qualifying certificate	
+36	Timing of application	
+37	Form of application	
+38	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	
+39	DAA’s decision on application	
+40	Criteria for granting application	
+41	Form of certificate	
+Part 5—Variation of registration or certificate	
+42	Applications for variation	
+43	Form of application	
+44	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	
+45	DAA’s decision on application	
+46	Criteria for granting application	
+47	Date of effect of variation	
+48	Variation of project specification	
+Part 6—Transfer of benefits of registration or certificate	
+Division 1—Takeovers not involving re‑constituted joint ventures or re‑constituted partnerships	
+49	Application for transfer	
+50	Form of application	
+51	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	
+52	DAA’s decision on application	
+53	Criteria for granting application	
+54	Form of transfer of benefits of registration	
+55	Form of transfer of benefits of certificate	
+56	Form of certificate	
+57	DAA may direct that plant be treated as new plant	
+Division 2—Re‑constituted joint ventures	
+58	Registration cancelled, and certificate terminated, if joint venture is re‑constituted	
+59	Application for transfer of benefits of registration or certificate to parties to re‑constituted joint venture	
+60	Form of application	
+61	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	
+62	DAA’s decision on application	
+63	Criteria for granting application	
+64	Form of transfer of benefits of registration	
+65	Form of transfer of benefits of certificate	
+66	Form of certificate	
+67	DAA may direct that plant be treated as new plant	
+Division 3—Re‑constituted partnerships	
+68	Registration cancelled, and certificate terminated, if partnership is re‑constituted	
+69	Application for transfer of benefits of registration or certificate to re‑constituted partnership	
+70	Form of application	
+71	DAA may refuse to consider application unless applicant gives information etc. requested by DAA	
+72	DAA’s decision on application	
+73	Criteria for granting application	
+74	Form of transfer of benefits of registration	
+75	Form of transfer of benefits of certificate	
+76	Form of certificate	
+77	DAA may direct that plant be treated as new plant	
+Part 7—DAA’s information‑gathering powers	
+78	Entities to which this Part applies	
+79	DAA may request entity to give information or produce documents etc.	
+80	How DAA may deal with documents etc. produced by entity	
+Part 8—Cancellation or termination of registration or certificate	
+81	Cancellation or termination—failure to comply with request to give information etc.	
+82	Cancellation—false or misleading statements etc.	
+83	Cancellation of registration—contravention of conditions	
+84	Cancellation of registration on request	
+85	Termination of certificate on request	
+Part 9—Tax effects of certification	
+86	When plant expenditure pre‑qualifies under this Act	
+87	Effect of cancellation of certificate	
+88	Effect of termination of certificate	
+89	Effect of variation of certificate	
+90	Effect of decision to revoke or set aside a decision relating to a certificate	
+91	DAA to notify Commissioner of Taxation	
+92	Amendment of assessments	
+Part 10—DAA’s Powers to facilitate completion of projects	
+93	DAA’s powers to facilitate completion of projects	
+Chapter 3—Infrastructure borrowings	
+Part 1—Preliminary	
+93A	Object	
+93B	Simplified outline of scheme of Chapter	
+93C	Example of how this Chapter works	
+Part 2—Interpretation: Infrastructure borrowings etc.	
+93D	Interpretation	
+93E	Kinds of infrastructure borrowing	
+93F	Direct infrastructure borrowing	
+93G	Indirect infrastructure borrowing	
+93H	Refinancing infrastructure borrowing	
+93I	Infrastructure borrowings—borrower requirements	
+93J	Direct infrastructure borrowing—requirement relating to spending of borrowed money	
+93K	Direct infrastructure borrowing—requirement relating to use or sale of facilities on which borrowed money is to be spent	
+93L	Infrastructure facilities	
+93M	Related facilities	
+Part 3—Certificates	
+Division 1—Issue, variation and transfer etc.	
+93N	Application for certificate	
+93O	Criteria for issuing certificate	
+93P	Undertaking to comply with certificate conditions	
+93PA	Termination of certificate issue provisions	
+93Q	Form of certificate etc.	
+93R	Conditions applying to certificate	
+93S	Application for variation of conditions applying to a certificate	
+93T	Criteria for variation of conditions applying to a certificate	
+93TA	Conditions not to be varied if total tax payable reduced	
+93TB	Reconsideration of pre‑commencement variations	
+93U	Transfer of certificate	
+93V	Criteria for transfer of certificate	
+93W	Undertaking to comply with certificate conditions	
+93X	Provisions relating to applications under this Division	
+Division 2—Cancellation	
+93Z	Cancellation or termination—failure to comply with request to give information or provide report	
+93ZA	Cancellation—false or misleading statements etc.	
+93ZAA	Cancellation of certificate that applies to an indirect infrastructure borrowing etc.—holder ceases to be a resident	
+93ZAB	Cancellation of certificate that applies to an indirect infrastructure borrowing—transfer of rights etc.	
+93ZAC	Cancellation of certificate that applies to an indirect infrastructure borrowing—total repayment of related direct infrastructure borrowing	
+93ZAD	Cancellation of certificate that applies to an indirect infrastructure borrowing—partial repayment of related direct infrastructure borrowing	
+93ZB	Cancellation for contravention of conditions applying to certificate etc.	
+Part 4—Provision of information to DAA	
+93ZC	DAA may request person to give information or produce documents etc.	
+93ZD	How DAA may deal with documents etc. produced by person	
+93ZE	Certificate holder to provide annual progress reports	
+Part 5—Provision of information by DAA to Commissioner of Taxation	
+93ZF	Provision of information to Commissioner of Taxation	
+Part 6—DAA’s power to facilitate issue or transfer of certificate	
+93ZG	DAA’s powers to facilitate issue or transfer of certificate	
+Chapter 4—General	
+Part 1—Interpretation	
+93AA	Interpretation	
+Part 2—Development Allowance Authority	
+94	Creation of single‑person statutory office of Development Allowance Authority	
+95	Appointment of DAA	
+96	DAA may be full‑time or part‑time	
+97	DAA’s term of office	
+99	Person may hold both the office of DAA and the office of Commissioner of the Industry Commission	
+100	Full‑time DAA—age limit of 65 years	
+101	DAA’s terms and conditions of appointment	
+102	DAA’s remuneration and allowances	
+103	Full‑time DAA’s leave of absence	
+104	Resignation of DAA	
+105	Termination of appointment of DAA	
+106	Acting DAA	
+107	Conflict of interest	
+Part 3—Administration	
+108	Delegation by DAA	
+109	Consultants	
+110	Commonwealth authorities may assist DAA	
+Part 4—Protection of commercial‑in‑confidence information	
+111	Application for protection of commercial‑in‑confidence information	
+112	DAA may declare that information is to be treated as commercial‑in‑confidence information	
+113	DAA may revoke declaration	
+114	Commercial‑in‑confidence information must not be disclosed	
+Part 5—Reports by DAA	
+115	Quarterly reports by DAA	
+116	Periodic reports by DAA	
+117	Annual report	
+118	Reports to deal with ancillary provisions of the Taxation Administration Act 1953	
+Part 6—Review of decisions	
+119	Reconsideration of reviewable decisions	
+120	Review of decisions by Administrative Appeals Tribunal	
+121	Statements to accompany notification of decisions	
+Part 7—Miscellaneous	
+122	Giving of documents to partnerships	
+122A	Certified copies of documents	
+123	Regulations	
 
 An Act to establish the Development Allowance Authority, and for related purposes
 Chapter 1—Preliminary
-  
-  
+Do not delete : Part placeholder
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Development Allowance Authority Act 1992.
 2  Commencement [see Note 1]
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(2)	If the day (TLAA day) on which the Taxation Laws Amendment Act (No. 3) 1992 receives the Royal Assent is a later day than the day on which this Act receives the Royal Assent, Parts 2 to 10 (inclusive), 12, 13, 14 and 15 commence on the TLAA day.
-
 Chapter 2—Development allowance
-
 Part 1—Preliminary
-  
+Do not delete : Division placeholder
 3  Object
 		The object of this Chapter and the development allowance provisions of the Income Tax Assessment Act 1936 is to provide tax incentives for investment in large Australian projects which cost $50 million or more and meet certain other criteria.
 4  Simplified outline of scheme of Act
@@ -351,7 +348,7 @@ joint venture project has the meaning given by section 13.
 joint venture project scheme has the meaning given by section 13A.
 leasing company has the same meaning as in section 82AQ of the Tax Act.
 long‑term lease agreement has the same meaning as in section 82AQ of the Tax Act.
-member of a company group has the meaning given by section 14.
+member of a company group has the meaning given by section 14.
 motor vehicle means a vehicle that:
 	(a)	uses, or is designed to use, volatile spirit, gas, oil, electricity or any other power (not being human or animal power) as the principal means of propulsion; and
 	(b)	is designed solely or principally for the transport on public roads of people, animals or goods.
@@ -379,10 +376,7 @@ Tax Act means the Income Tax Assessment Act 1936.
 trustee has the same meaning as in section 6 of the Tax Act, and includes an entity that is taken to be a trustee because of section 268 of the Tax Act
 vehicle means any means of conveyance which runs on wheels, but does not include a vehicle used on a railway or tramway
 vertical integration test has the meaning given by section 10.
-
-
-Part 2—Key concepts relating to projects
-
+Part 2—Key concepts relating to projects
 Division 1—Carrying out a project
 7  Meaning of carrying out a project 
 		For the purposes of this Chapter, an entity carries out a project in Australia if, and only if, the entity:
@@ -430,8 +424,6 @@ Division 1—Carrying out a project
 the DAA may give the entity a written direction that this Chapter has, and is taken to have had effect, as if the whole, or the part, as the case may be, of those activities were the establishment by the entity of a new productive facility in Australia.
 12  Australian satellites deemed to be in Australia
 		For the purposes of this Chapter, an Australian satellite is taken to be in Australia.
-
-
 Division 2—Joint venture projects, joint venture project schemes, company group project schemes and individual project schemes
 13  Joint venture projects
 	(1)	For the purposes of this Chapter, if, assuming that the parties to a joint venture were partners in a partnership, the partnership would be taken to carry out a project in Australia, the project is taken to be a joint venture project.
@@ -498,9 +490,6 @@ individual project scheme
 	(4)	The election is irrevocable, but this subsection does not prevent the DAA from:
 	(a)	granting an application under Part 5 for a variation of a scheme; or
 	(b)	granting an application under Division 1 of Part 6 for transfer of the benefits of a registration or certificate relating to a project which forms part of a scheme.
-
-
-
 Division 3—Basic eligibility test
 15  Basic eligibility test for project expenditure
 		For the purposes of this Chapter, if:
@@ -531,8 +520,6 @@ is more than 10%.
 	(2)	For the purposes of this section, a rate is to be worked out:
 	(a)	using the method used by the Productivity Commission; and
 	(b)	on the assumption that levels of industry assistance are equal to the levels that the government concerned proposes to apply on 1 July 1996.
-
-
 Division 4—Competitiveness test
 17  Competitiveness test for project expenditure
 		For the purposes of this Chapter, expenditure incurred, or proposed to be incurred, by an entity in carrying out a project passes the competitiveness test if the DAA is satisfied that:
@@ -556,8 +543,6 @@ Division 4—Competitiveness test
 	      (i)	the labour relations aspects of the carrying out of each other project to which the scheme relates substantially reflect world best practice; and
 	(ii)	the labour relations aspects of the operation of each other productive facility or facilities to which the scheme relates substantially reflect world best practice; and
 	(iii)	the prices of significant inputs (other than labour and capital inputs) for use in the operation of each other productive facility or facilities to which the scheme relates are economic and efficient.
-
-
 Division 5—$50 million threshold test
 18  $50 million threshold test for project expenditure
 		For the purposes of this Chapter, expenditure incurred, or proposed to be incurred, by an entity in carrying out a project passes the $50 million threshold test if:
@@ -607,8 +592,6 @@ the expenditure of a capital nature incurred by the lessor in respect of the acq
 	(a)	an entity has incurred expenditure in connection with a transaction where the parties to the transaction are not dealing with each other at arm’s length in relation to the transaction; and
 	      (b)	the amount of the expenditure is greater or less than is reasonable;
 the amount of the expenditure is taken, for the purposes of this section, to be the amount that would have been reasonable if the parties were dealing with each other at arm’s length.
-
-
 Division 6—Substantial commitment to completion of a project
 20  Substantial commitment to completion of a project—relevant factors
 		In determining whether a substantial commitment to the completion of a project has occurred, or is reasonably likely to occur, before a particular date, the DAA must have regard to:
@@ -624,7 +607,7 @@ Division 6—Substantial commitment to completion of a project
 	(iv)	such other matters as the DAA considers relevant; and
 	(ba)	if the project is part of a joint venture project scheme:
 	(i)	the physical work that has been undertaken in carrying out each other joint venture project to which the scheme relates before that date; and
-	(ii)	the nature of the contracts that have been entered into before that date in relation to each other joint venture project to which the scheme relates; and
+	      (ii)	the nature of the contracts that have been entered into before that date in relation to each other joint venture project to which the scheme relates; and
 	(iii)	in the case of a scheme which involves the expansion, improvement or upgrading of a productive facility or facilities—the physical progress made before that date in relation to the installation of new plant for use in the expanded, improved or upgraded facilities; and
 	(iv)	such other matters as the DAA considers relevant; and
 	(c)	if the project is part of a company group project scheme:
@@ -637,8 +620,6 @@ Division 6—Substantial commitment to completion of a project
 	(ii)	the nature of the contracts that have been entered into before that date in relation to each other project to which the scheme relates; and
 	(iii)	in the case of a scheme which involves the expansion, improvement or upgrading of a productive facility or facilities—the physical progress made before that date in relation to the installation of new plant for use in the expanded, improved or upgraded facilities; and
 	(iv)	such other matters as the DAA considers relevant.
-
-
 Division 7—Post‑26 February 1992 projects
 21  Post‑26 February 1992 projects
 		For the purposes of the application of this Chapter to expenditure incurred, or proposed to be incurred, in carrying out a project, the project is taken to be a post‑26 February 1992 project unless: 
@@ -657,8 +638,6 @@ Division 7—Post‑26 February 1992 projects
 	(d)	if the project is part of an individual project scheme:
 	(i)	in a case where the construction of a building or structure, or the construction of an alteration, improvement or extension to a building or structure, formed, or is to form, part of another project to which the scheme relates—any such construction commenced before 27 February 1992; or
 	(ii)	in any case—a contract for the acquisition of any new plant which formed, or is to form, part of another project to which the scheme relates was entered into before 27 February 1992.
-
-
 Division 8—Prospective deduction test
 22  Prospective deduction test
 		For the purposes of the application of this Chapter to expenditure incurred, or proposed to be incurred, by an entity in carrying out a project, the expenditure passes the prospective deduction test if the DAA is satisfied that, assuming that:
@@ -674,8 +653,6 @@ it is reasonably arguable that:
 	(i)	Part IVA of the Tax Act (which deals with tax avoidance schemes); and
 	(ii)	any other provision of the Tax Act; and
 	(b)	the attainment by the Commissioner of Taxation of any state of mind relevant to the application of any provision of the Tax Act.
-
-
 Division 9—Specification of project and specification of plant expenditure
 24  Specification of project and specification of plant expenditure
 [Documents to which this section applies]
@@ -698,13 +675,9 @@ Example:
 	“Expenditure proposed to be incurred in respect of the acquisition of the new units of plant described in Part A of the Schedule to this [document], where the expenditure is proposed to be incurred in carrying out the [specified] project”.
 	Plant expenditure covered by paragraph (b)
 	“So much of the expenditure proposed to be incurred in respect of the acquisition of the new units of plant described in Part B of the Schedule to this [document] as is attributable to the [specified hotel part], where the expenditure is proposed to be incurred in carrying out the [specified] project”.
-
-
 Division 10—Plant expenditure to be incurred wholly or principally in carrying out a project
 25  Plant expenditure to be incurred wholly or principally in carrying out a project
 		For the purposes of this Chapter, expenditure incurred in respect of the acquisition or construction of a particular unit of plant is incurred in carrying out a project if, and only if, it is incurred wholly or principally in carrying out the project.
-
-
 Division 11—Plant expenditure incurred in respect of the lease of new units of plant
 25A  Plant expenditure incurred in respect of the lease of new units of plant
 [Section applies to lease expenditure]
@@ -713,14 +686,12 @@ Division 11—Plant expenditure incurred in respect of the lease of new units of
 	(2)	For the purposes of this Chapter, in testing whether the expenditure is incurred, or proposed to be incurred, in carrying out a project, it is to be assumed that the entity had incurred, or proposed to incur, the expenditure in respect of the acquisition of the unit of plant instead of in respect of the lease of the unit of plant.
 [Periodic lease payments deemed to be incurred when earliest payment incurred]
 	(3)	For the purposes of this Chapter, if, apart from this subsection, the expenditure is incurred on a periodic basis, all of the expenditure is taken to have been incurred at the earliest time at which any of the expenditure was incurred.
-
 Division 12—Proposal to incur plant expenditure in carrying out a project counts even if no decision made about whether to acquire, construct or lease the plant
 25B  Proposal to incur plant expenditure in carrying out a project counts even if no decision made about whether to acquire, construct or lease the plant
 	(1)	For the purposes of this Chapter, a proposal to incur plant expenditure in carrying out a project counts even if the entity concerned has not decided whether to acquire, construct or lease the unit or units of plant.
 	(2)	The expression “as the case may be” may be used in a document under this Act to denote such a state of indecision.  For example, “expenditure proposed to be incurred in respect of the acquisition, construction or lease, as the case may be, of the new units of plant described in Part A of the Schedule to this [document]”.
-
-Part 3—Registration of plant expenditure
-  
+Part 3—Registration of plant expenditure
+Do not delete : Division placeholder
 26  Applications for registration of plant expenditure
 		An entity may apply to the DAA for registration of the whole or a specified part of plant expenditure incurred, or proposed to be incurred, by the entity in carrying out a project in Australia.
 27  Timing of application
@@ -772,7 +743,7 @@ the application is to be given to the DAA before whichever is the later of:
 	(i)	the plant expenditure has passed the $50 million threshold test; or
 	(ii)	it is reasonably likely that the plant expenditure will pass the $50 million threshold test; and 
 	(g)	either:
-	(i)	the applicant has completed the carrying out of the project; or
+	      (i)	the applicant has completed the carrying out of the project; or
 	(ii)	having regard to:
 	(A)	the financial capacity of the applicant; and
 	(B)	such other matters as the DAA considers relevant;
@@ -834,9 +805,8 @@ the application is to be given to the DAA before whichever is the later of:
 	(ii)	specified under subsection (1).
 [Contravention of condition not an offence]
 	(4)	It is not an offence to contravene a condition to which a registration is subject.
-
-Part 4—Pre‑qualifying certificates relating to plant expenditure
-  
+Part 4—Pre‑qualifying certificates relating to plant expenditure
+Do not delete : Division placeholder
 35  Application for pre‑qualifying certificate
 	(1)	If plant expenditure is registered in the name of an entity, the entity may apply to the DAA for a pre‑qualifying certificate in relation to the expenditure.
 	(2)	An entity is not entitled to apply for a pre‑qualifying certificate unless the following conditions to which the registration was subject have been satisfied:
@@ -894,9 +864,8 @@ the application is to be given to the DAA before whichever is the later of:
 	(ea)	if the project is part of a joint venture project scheme—specify the scheme to which the certificate relates; and
 	(f)	if the project is part of a company group project scheme—specify the scheme to which the certificate relates; and
 	(g)	if the project is part of an individual project scheme—specify the scheme to which the certificate relates.
-
-Part 5—Variation of registration or certificate
-  
+Part 5—Variation of registration or certificate
+Do not delete : Division placeholder
 42  Applications for variation
 [Variation of registration]
 	(1)	An entity in whose name plant expenditure is registered may apply to the DAA for a variation of any or all of the following:
@@ -976,9 +945,7 @@ the DAA must vary the specification of the project, joint venture project, joint
 	(2)	The variation has effect in relation to expenditure incurred by the applicant on or after:
 	(a)	the date of the variation; or
 	(b)	if the applicant requests—such earlier date as the DAA specifies.
-
-Part 6—Transfer of benefits of registration or certificate
-
+Part 6—Transfer of benefits of registration or certificate
 Division 1—Takeovers not involving re‑constituted joint ventures or re‑constituted partnerships
 49  Application for transfer
 		If:
@@ -1072,8 +1039,6 @@ the DAA may:
 	(e)	give the transferor and the transferee a written direction that, if the DAA grants the application for transfer of the benefits of the registration or the certificate, this Act and Subdivision B of Division 3 of Part III of the Tax Act are taken to have, and to have had, effect as if the unit of plant:
 	(i)	were new in the hands of the transferee when the plant was or is so acquired by the transferee; and
 	(ii)	were not new in the hands of the transferor at any time.
-
-
 Division 2—Re‑constituted joint ventures
 58  Registration cancelled, and certificate terminated, if joint venture is re‑constituted
 		If:
@@ -1164,8 +1129,6 @@ the DAA may:
 	(e)	give the new party and the old party a written direction that, if the DAA grants the application for transfer of the benefits of the registration or the certificate, this Act and Subdivision B of Division 3 of Part III of the Tax Act are taken to have, and to have had, effect as if the unit of plant:
 	(i)	were new in the hands of the new party when the plant was or is so acquired by the new party; and
 	(ii)	were not new in the hands of the old party at any time.
-
-
 Division 3—Re‑constituted partnerships
 68  Registration cancelled, and certificate terminated, if partnership is re‑constituted
 		If:
@@ -1246,9 +1209,8 @@ the DAA may:
 	(e)	give the old partnership and the new partnership a written direction that, if the DAA grants the application for transfer of the benefits of the registration or the certificate, this Act and Subdivision B of Division 3 of Part III of the Tax Act are taken to have, and to have had, effect as if the unit of plant:
 	(i)	were new in the hands of the new partnership when the plant was or is so acquired by the new partnership; and
 	(ii)	were not new in the hands of the old partnership at any time.
-
-Part 7—DAA’s information‑gathering powers
-  
+Part 7—DAA’s information‑gathering powers
+Do not delete : Division placeholder
 78  Entities to which this Part applies
 		This Part applies to an entity if:
 	(a)	plant expenditure is registered in the name of the entity or the entity has applied for such registration; or
@@ -1268,9 +1230,8 @@ the DAA may:
 	(4)	The person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the DAA to be a true copy.
 	(5)	The certified copy must be received in all courts and tribunals as evidence as if it were the original.
 	(6)	Until a certified copy is supplied, the DAA must, at such times and places as the DAA thinks appropriate, permit the person otherwise entitled to possession of the document, or a person authorised by that person, to inspect and make copies of, or take extracts from, the document.
-
-Part 8—Cancellation or termination of registration or certificate
-  
+Part 8—Cancellation or termination of registration or certificate
+Do not delete : Division placeholder
 81  Cancellation or termination—failure to comply with request to give information etc.
 		If an entity fails to comply with a request made by the DAA under Part 7, the DAA may, by written notice given to the entity:
 	(a)	cancel any registration of plant expenditure in the name of the entity; or
@@ -1314,9 +1275,8 @@ the DAA may, by written notice given to the entity, cancel the registration.
 85  Termination of certificate on request
 	(1)	An entity may request the DAA to terminate a certificate held by the entity, with effect in relation to expenditure incurred by the entity after the date of termination.
 	(2)	The DAA must comply with the request.
-
-Part 9—Tax effects of certification
-  
+Part 9—Tax effects of certification
+Do not delete : Division placeholder
 86  When plant expenditure pre‑qualifies under this Act
 		For the purposes of the Tax Act, if:
 	(a)	an entity holds a certificate relating to plant expenditure incurred, or proposed to be incurred, by the entity in carrying out a project in Australia; and
@@ -1340,20 +1300,16 @@ then:
 		The DAA must advise the Commissioner of Taxation in writing of particulars of all things done under this Act which are relevant to the operation of Subdivision B of Division 3 of Part III of the Tax Act.
 92  Amendment of assessments
 		Section 170 of the Tax Act does not prevent the amendment of an assessment at any time for the purpose of giving effect to this Act.
-
-Part 10—DAA’s Powers to facilitate completion of projects
-  
+Part 10—DAA’s Powers to facilitate completion of projects
+Do not delete : Division placeholder
 93  DAA’s powers to facilitate completion of projects
 		If the DAA considers that any action or inaction of a person or body is likely to have the effect of preventing the DAA from:
 	(a)	registering plant expenditure in the name of an entity; or
 	(b)	granting a certificate in the name of an entity;
 the DAA may, with the consent of the entity, notify the person or body accordingly.
-
-
 Chapter 3—Infrastructure borrowings
-
 Part 1—Preliminary
-  
+Do not delete : Division placeholder
 93A  Object
 		The object of this Chapter and the infrastructure borrowings provisions of the Income Tax Assessment Act 1936 is to provide tax incentives for genuine private sector investment in publicly accessible infrastructure facilities and related facilities. However, the incentives have been terminated for new cases by the Taxation Laws Amendment (Infrastructure Borrowings) Act 1997.
 93B  Simplified outline of scheme of Chapter
@@ -1381,10 +1337,8 @@ stage 2, commencing in February 1999 and ending at the end of 2001, involving co
 	(6)	The bond issue takes place in May 1995. Interest paid to bond holders is exempt from income tax or rebatable. The interest is not an allowable deduction for the company.
 [Completion and operation of tollway]
 	(7)	The borrowing, construction and use of the tollway all go ahead as planned.
-
-
 Part 2—Interpretation: Infrastructure borrowings etc.
-  
+Do not delete : Division placeholder
 93D  Interpretation
 [List of terms]
 	(1)	In this Chapter:
@@ -1651,10 +1605,7 @@ where the electricity generated, transmitted or distributed is to be principally
 	(7)	In the case of a gas pipeline facility, the following are not related facilities (or part of the infrastructure facility itself):
 	(a)	the processing plant from which the gas pipeline transports the gas;
 	(b)	any drilling, extraction, processing or other plant or equipment for use in obtaining the gas, processing it or transporting it to the processing plant in paragraph (a).
-
-
 Part 3—Certificates
-
 Division 1—Issue, variation and transfer etc.
 93N  Application for certificate
 [Application to DAA]
@@ -1815,8 +1766,6 @@ Effect of advice
 	(8)	The DAA must give written notice of the decision to each applicant.
 [Reasons for refusal]
 	(9)	A notice of a refusal of an application must set out the reasons for the refusal.
-
-
 Division 2—Cancellation
 93Z  Cancellation or termination—failure to comply with request to give information or provide report
 		If a certificate holder fails to comply with a request made by the DAA under section 93ZC or with the requirements of section 93ZE, the DAA may, by written notice given to the holder, cancel the certificate. 
@@ -1902,10 +1851,8 @@ the DAA is taken to have cancelled the certificate with effect from the time of 
 	(b)	a refinancing infrastructure borrowing that relates to the direct infrastructure borrowing.
 [Cancellation of certificates connected with a cancelled indirect infrastructure borrowing certificate]
 	(3)	If the DAA cancels (whether under subsection (2) or otherwise) the certificate that applies to an indirect infrastructure borrowing, it is taken to have also cancelled any certificate that applies to a refinancing infrastructure borrowing that relates to the indirect infrastructure borrowing. The grounds relied on by the DAA for cancelling the certificate that applies to the refinancing infrastructure borrowing are taken to be the same as the grounds relied on by the DAA for cancelling the certificate that applies to the indirect infrastructure borrowing.
-
-
 Part 4—Provision of information to DAA
-  
+Do not delete : Division placeholder
 93ZC  DAA may request person to give information or produce documents etc.
 [Making of request]
 	(1)	For the purposes of this Chapter, the DAA may, by written notice given to a person who has made an application or who is a certificate holder, request the person:
@@ -1932,27 +1879,21 @@ Part 4—Provision of information to DAA
 	(a)	within one month after the end of the first 12 month period (the reporting year) after the issue of the certificate; and
 	(b)	within one month after the end of each 12 month period (also a reporting year) after the first reporting year and while the certificate remains in force;
 report in writing to the DAA on things done, during the reporting year concerned, in complying with conditions applying to the certificate under paragraph 93R(b) or (c).
-
 Part 5—Provision of information by DAA to Commissioner of Taxation
-  
+Do not delete : Division placeholder
 93ZF  Provision of information to Commissioner of Taxation
 		The DAA must advise the Commissioner of Taxation in writing of particulars of:
 	(a)	all certificates issued; and
 	(b)	all certificates transferred; and
 	(c)	all certificates cancelled; and
 	(d)	all other matters relevant to the operation of Division 16L of Part III of the Tax Act.
-
-
 Part 6—DAA’s power to facilitate issue or transfer of certificate
-  
+Do not delete : Division placeholder
 93ZG  DAA’s powers to facilitate issue or transfer of certificate
 		If the DAA considers that any action or inaction of a person or body is likely to have the effect of preventing the DAA from issuing or transferring a certificate under this Chapter, the DAA may, with the consent of each applicant, notify the person or body accordingly.
-
-
 Chapter 4—General
-
 Part 1—Interpretation
-  
+Do not delete : Division placeholder
 93AA  Interpretation
 		In this Chapter, unless the contrary intention appears:
 AAT means the Administrative Appeals Tribunal.
@@ -1962,9 +1903,8 @@ partnership has the same meaning as in section 6 of the Income Tax Assessment Ac
 prosecution provisions means Part III of the Taxation Administration Act 1953, in so far as that Part applies in relation to this Act.
 reviewable decision means a decision of the DAA under Part 2, 3, 4, 5, 6 or 8 of Chapter 2, Part 3 of Chapter 3 or Part 4 of Chapter 4.
 State taxation officer disclosure provision means section 13J of the Taxation Administration Act 1953 in so far as that section applies in relation to this Act.
-
 Part 2—Development Allowance Authority
-  
+Do not delete : Division placeholder
 94  Creation of single‑person statutory office of Development Allowance Authority
 		There is to be a Development Allowance Authority (DAA).
 95  Appointment of DAA
@@ -1988,7 +1928,7 @@ Part 2—Development Allowance Authority
 	(3)	The DAA is to be paid such allowances as are specified in the regulations.
 	(4)	This section has effect subject to the Remuneration Tribunal Act 1973.
 103  Full‑time DAA’s leave of absence
-	(1)	A full‑time DAA has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+	(1)	Subject to section 87E of the Public Service Act 1922, a full‑time DAA has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 	(2)	The Minister may grant a full‑time DAA leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 104  Resignation of DAA
 		The DAA may resign the office of DAA by signed instrument delivered to the Governor‑General.
@@ -2032,7 +1972,7 @@ Part 2—Development Allowance Authority
 then:
 	(c)	the Minister must give the DAA a written notice directing the DAA:
 	(i)	not to deal with the matter personally; and
-	(ii)	to delegate the DAA’s functions and powers in relation to that matter to an SES employee or acting SES employee occupying a specified position in the Department; and
+	(ii)	to delegate the DAA’s functions and powers in relation to that matter to a person holding or performing the duties of a specified Senior Executive Service office in the Department; and
 	(iii)	not to delegate the DAA’s functions and powers in relation to that matter to any other person; and
 	(d)	the DAA must comply with the direction.
 [Minister may allow DAA to deal with matter personally]
@@ -2046,12 +1986,10 @@ the Minister may give the DAA a written notice stating that the Minister has no 
 	(b)	the Minister considers that the interest could conflict with the proper performance of the DAA’s functions in relation to that matter; and
 	(c)	the DAA gives written notice to the Minister of that interest under subsection (2);
 a direction under subsection (3) in relation to that matter has no effect unless it is given before the end of 28 days after the date on which the Minister receives the notice.
-
-
 Part 3—Administration
-  
+Do not delete : Division placeholder
 108  Delegation by DAA
-		The DAA may, by writing, delegate to an SES employee or acting SES employee in the Department all or any of the DAA’s functions or powers under:
+		The DAA may, by writing, delegate to a person holding or performing the duties of a Senior Executive Service office in the Department all or any of the DAA’s functions or powers under:
 	(a)	this Act; or
 	(b)	the document certification provision; or
 	(c)	the State taxation officer disclosure provisions; or
@@ -2062,10 +2000,8 @@ Part 3—Administration
 	(1)	This section applies to an authority established by or under a law of the Commonwealth.
 	(2)	In addition to the functions otherwise conferred on the authority, the authority may, at the request of the DAA, provide assistance to the DAA relating to the administration of this Act.
 	(3)	The authority may charge fees for the provision of the assistance.
-
-
 Part 4—Protection of commercial‑in‑confidence information
-  
+Do not delete : Division placeholder
 111  Application for protection of commercial‑in‑confidence information
 	(1)	An application under Part 3, 4, 5 or 6 of Chapter 2 or Part 3 of Chapter 3 may be accompanied by an application that certain information given in accordance with that Part (other than section 34) be treated as commercial‑in‑confidence information under this Part.
 	(2)	The giving of information, or the production or giving of a document or copy, under section 34, Part 7 of Chapter 2 or Part 4 of Chapter 3 may be accompanied by an application that some or all of the information or of the contents of the document or copy be treated as commercial‑in‑confidence information under this Part.
@@ -2127,10 +2063,8 @@ Penalty:	Imprisonment for 2 years.
 	(2)	For the purposes of this section, information is commercial‑in‑confidence information at a particular time if, and only if, at that time:
 	(a)	there is in force a declaration under section 112 that the information is to be treated as commercial‑in‑confidence information for the purposes of this Part; or
 	(b)	the information is otherwise treated as commercial‑in‑confidence information for the purposes of this Part.
-
-
 Part 5—Reports by DAA
-  
+Do not delete : Division placeholder
 115  Quarterly reports by DAA
 	(1)	The DAA must, as soon as practicable after the end of each quarter, prepare and give to the Minister a report on the operation of this Act during that quarter, including information about:
 	(a)	the number and type of registrations (if any) granted under Chapter 2 during that quarter; and
@@ -2153,10 +2087,8 @@ quarter means so much of a quarter commencing on 1 July, 1 September, 1 Januar
 	(a)	the document certification provision; and
 	(b)	the State taxation officer disclosure provisions; and
 	(c)	the prosecution provisions.
-
-
 Part 6—Review of decisions
-  
+Do not delete : Division placeholder
 119  Reconsideration of reviewable decisions
 	(1)	A person who is affected by a reviewable decision may, if dissatisfied with the decision, by notice given to the DAA within:
 	(a)	the period of 21 days after the day on which the decision first comes to the attention of the person; or
@@ -2181,10 +2113,8 @@ request the DAA to reconsider the decision.
 	(b)	gives to the person written notice of the confirmation or variation of the decision;
 that notice must include a statement to the effect that the person may, subject to the Administrative Appeals Tribunal Act 1975, if dissatisfied with the decision so confirmed or varied, make application to the AAT for review of the decision.
 	(3)	A failure to comply with this section does not affect the validity of a decision.
-
-
 Part 7—Miscellaneous
-  
+Do not delete : Division placeholder
 122  Giving of documents to partnerships
 		For the purposes of this Act, if a document is given to a partner of a partnership in accordance with section 28A of the Acts Interpretation Act 1901, the document is taken to have been given to the partnership.
 122A  Certified copies of documents
@@ -2198,16 +2128,19 @@ Part 7—Miscellaneous
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-Notes to the Development Allowance Authority Act 1992
-Note 1
-The Development Allowance Authority Act 1992 as shown in this consolidation comprises Act No. 99, 1992 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 19 December 1996 is not included in this consolidation. For subsequent information see Table A.
+
+
+NOTES
+1. 	The Development Allowance Authority Act 1992 as shown in this consolidation comprises Act No. 99, 1992 amended as indicated in the Tables below.
+	All relevant information pertaining to application, saving or transitional provisions prior to 19 December 1996 is not included in this consolidation. For subsequent information see Table A.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 Development Allowance Authority Act 1992
 99, 1992
 30 June 1992
@@ -2268,31 +2201,27 @@ Productivity Commission (Repeals, Transitional and Consequential Amendments) Act
 16 Apr 1998
 16 Apr 1998
 —
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (items 387-389): 5 Dec 1999 (see Gazette 1999, No. S584) (e)
-—
+
 
 (a)	Subsection 2(2) of the Development Allowance Authority Amendment Act 1992 provides as follows:
-	(2)	The remaining provisions of this Act are taken to have commenced immediately after the commencement of the Development Allowance Authority Act 1992.
+	“(2)	The remaining provisions of this Act are taken to have commenced immediately after the commencement of the Development Allowance Authority Act 1992.”.
 	The Development Allowance Authority Act 1992 came into operation on 30 June 1992.
 (b)	The Development Allowance Authority Act 1992 was amended by the Taxation Laws Amendment Act (No. 2) 1995, subsections 2(1) and (4) of which provide as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-	(4)	Part 1 of Schedule 10 is taken to have commenced immediately after the commencement of the Taxation Laws Amendment (Infrastructure Borrowings) Act 1994.
+	“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+	“(4)	Part 1 of Schedule 10 is taken to have commenced immediately after the commencement of the Taxation Laws Amendment (Infrastructure Borrowings) Act 1994.”.
 	The Taxation Laws Amendment (Infrastructure Borrowings) Act 1994 came into operation on 16 December 1994.
 (c)	The Development Allowance Authority Act 1992 was amended by the Taxation Laws Amendment Act (No. 3) 1996, subsection 2(3) of which provides as follows:
-	(3)	Schedule 3 is taken to have commenced on 30 October 1995.
+	“(3)	Schedule 3 is taken to have commenced on 30 October 1995.”.
 (d)	The Development Allowance Authority Act 1992 was amended by section 4 and Schedule 3 (items 66 and 67) only of the Tax Law Improvement Act 1997, subsections 2(1)‑(3) of which provide as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-	(2)	Schedule 1 commences on 1 July 1997 immediately after the commencement of the Income Tax Assessment Act 1997.
-	(3)	Each of the other Schedules (except Schedule 12) commences immediately after the commencement of the immediately preceding Schedule.
-(e)	The Development Allowance Authority Act 1992 was amended by Schedule 1 (items 387-389) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
+	“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+	“(2)	Schedule 1 commences on 1 July 1997 immediately after the commencement of the Income Tax Assessment Act 1997.
+	“(3)	Each of the other Schedules (except Schedule 12) commences immediately after the commencement of the immediately preceding Schedule.”.
+
 
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+
 Provision affected
 How affected
 Heading to Part 1 	
@@ -2482,40 +2411,45 @@ Heading to Part 2 of Chapt. 4
 ad. No. 163, 1994
 S. 98 	
 rep. No. 163, 1994
-S. 103 	
-am. No. 146, 1999
 S. 106 	
 am. No. 163, 1994 
-S. 107 	
-am. No. 146, 1999
-Heading to Part 12 Renumbered Part 3	 
- No. 163, 1994
-S. 108 	
-am. No. 146, 1999
-Heading to Part 13 Renumbered Part 4 	
- No. 163, 1994
+Heading to Part 12
+
+Renumbered Part 3 	
+No. 163, 1994
+Heading to Part 13
+
+Renumbered Part 4 	
+No. 163, 1994
 S. 111 	
 am. No. 163, 1994
 Ss. 113, 114 	
 am. No. 163, 1994
-Heading to Part 14 Renumbered Part 5	
- No. 163, 1994
+Heading to Part 14
+
+Renumbered Part 5 	
+No. 163, 1994
 S. 115 	
 am. No. 163, 1994 
 S. 117 	
 am. No. 163, 1994
-Heading to Part 15 Renumbered Part 6	
- No. 163, 1994
+Heading to Part 15
+
+Renumbered Part 6 	
+No. 163, 1994
 S. 119 	
 am. No. 163, 1994
 S. 121 	
 am. No. 163, 1994
-Heading to Part 16 Renumbered Part 7	
- No. 163, 1994
+Heading to Part 16
+
+Renumbered Part 7 	
+No. 163, 1994
 S. 122A 	
 ad. No. 129, 1992
 
-Table A
+
+TABLE A
 Application, Saving or Transitional Provisions
 Taxation Laws Amendment Act (No. 3) 1996 (No. 78, 1996)
 Schedule 3
@@ -2524,5 +2458,7 @@ Schedule 3
 (2)	Sections 93ZAB, 93ZAC and 93ZAD of the Development Allowance Authority Act 1992 as amended by this Schedule apply to an indirect infrastructure borrowing, where a certificate in respect of the borrowing was issued on or after 30 October 1995.
 Tax Law Improvement Act 1997 (No. 121, 1997)
 4  Application of amendments
-An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
+		An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
+
+
 
