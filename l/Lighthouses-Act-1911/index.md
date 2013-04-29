@@ -1,19 +1,20 @@
-![](http://www.comlaw.gov.au/Details/C2008C00342/Html/Lighthouses1911_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00229/Html/FD7F562F350DB746CA2571630017A069/$FILE/image001.gif)
 
 # Lighthouses Act 1911
 
 **Act No. 14 of 1911 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 4 May 2006
+taking into account amendments up to Act No. 24 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -60,6 +61,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [20](#20).          Regulations fixing light dues
 
 **Notes** 
+
 
 ## An Act relating to Lighthouses, Lightships, Beacons, Buoys and other Marine Navigational Aids
 
@@ -113,7 +115,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  For the purposes of this Act, any marine navigational aid vested in any authority of a State shall be deemed to be the property of the State.
 
-             (3)  The Commonwealth may purchase from any State or person any lighthouse tender, store vessel, stores or equipment or other property used by it, him or her in connexion with any marine navigational aid.
+             (3)  The Commonwealth may purchase from any State or person any lighthouse tender, store vessel, stores or equipment or other property used by it or him in connexion with any marine navigational aid.
 
 ##### <a id="6"></a>6  Transfer of lighthouses etc. to be valid and effectual
 
@@ -445,11 +447,11 @@ Trespassing on ships, vessels, or property used by the Authority
 
 ##### <a id="19A"></a>19A  Damage to be made good
 
-                   If any marine navigational aid the property of the Authority is damaged or destroyed by any person or ship, the person, or the master, owner, agent or charterer of the ship, as the case may be, shall be liable to pay to the Authority the cost of repairing or replacing the marine navigational aid, unless he or she proves that the damage or destruction of the marine navigational aid was not caused through wilfulness, negligence, misconduct or want of skill.
+                   If any marine navigational aid the property of the Authority is damaged or destroyed by any person or ship, the person, or the master, owner, agent or charterer of the ship, as the case may be, shall be liable to pay to the Authority the cost of repairing or replacing the marine navigational aid, unless he proves that the damage or destruction of the marine navigational aid was not caused through wilfulness, negligence, misconduct or want of skill.
 
 ##### <a id="19B"></a>19B  Notice of damage to be given
 
-             (1)  A person who, or the master of a ship which, damages a marine navigational aid the property of the Authority shall, as soon as practicable having regard to the means of communication available to him or her, report the damage to a prescribed officer.
+             (1)  A person who, or the master of a ship which, damages a marine navigational aid the property of the Authority shall, as soon as practicable having regard to the means of communication available to him, report the damage to a prescribed officer.
 
                     Penalty:  60 penalty units.
 
@@ -462,6 +464,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 ##### <a id="20"></a>20  Regulations fixing light dues
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
+
 
 # Notes to the _Lighthouses Act 1911_
 
@@ -489,11 +492,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -503,451 +508,438 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Lighthouses Act 1911</div>
-  </td>
-  <td>
-    <div>14, 1911</div>
-  </td>
-  <td>
-    <div>22 Dec 1911</div>
-  </td>
-  <td>
-    <div>1 July 1915 ( <i>see Gazette</i>1915, p. 1183)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lighthouses Act 1915</div>
-  </td>
-  <td>
-    <div>17, 1915</div>
-  </td>
-  <td>
-    <div>28 June 1915</div>
-  </td>
-  <td>
-    <div>1 July 1915 ( <i>see</i>s. 2 and <i>Gazette</i>1915, p.1183)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lighthouses Act 1919</div>
-  </td>
-  <td>
-    <div>6, 1919</div>
-  </td>
-  <td>
-    <div>2 Oct 1919</div>
-  </td>
-  <td>
-    <div>2 Oct 1919</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lighthouses Act 1942</div>
-  </td>
-  <td>
-    <div>35, 1942</div>
-  </td>
-  <td>
-    <div>12 June 1942</div>
-  </td>
-  <td>
-    <div>10 July 1942</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lighthouses Act 1949</div>
-  </td>
-  <td>
-    <div>36, 1949</div>
-  </td>
-  <td>
-    <div>13 July 1949</div>
-  </td>
-  <td>
-    <div>10 Aug 1949</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition Act 1955</div>
-  </td>
-  <td>
-    <div>69, 1955</div>
-  </td>
-  <td>
-    <div>4 Nov 1955</div>
-  </td>
-  <td>
-    <div>16 Feb 1956 ( <i>see Gazette</i>1956, p. 472)</div>
-  </td>
-  <td>
-    <div>S. 67(3) (rep. by 19, 1979, s. 58)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>19, 1979</div>
-  </td>
-  <td>
-    <div>28 Mar 1979</div>
-  </td>
-  <td>
-    <div>Parts II to XVI (ss. 3–122) and Part XVII (s. 123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 58(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lighthouses Act 1957</div>
-  </td>
-  <td>
-    <div>9, 1957</div>
-  </td>
-  <td>
-    <div>24 Apr 1957</div>
-  </td>
-  <td>
-    <div>22 May 1957</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lighthouses Act 1961</div>
-  </td>
-  <td>
-    <div>63, 1961</div>
-  </td>
-  <td>
-    <div>24 Oct 1961</div>
-  </td>
-  <td>
-    <div>24 Oct 1963 ( <i>see Gazette</i>1963, p. 3769)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lighthouses Act 1970</div>
-  </td>
-  <td>
-    <div>106, 1970</div>
-  </td>
-  <td>
-    <div>4 Nov 1970</div>
-  </td>
-  <td>
-    <div>4 Nov 1970</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lighthouses Act 1972</div>
-  </td>
-  <td>
-    <div>61, 1972</div>
-  </td>
-  <td>
-    <div>31 Aug 1972</div>
-  </td>
-  <td>
-    <div>1 Feb 1973 ( <i>see Gazette</i>1973, No. 11)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1974</div>
-  </td>
-  <td>
-    <div>20, 1974</div>
-  </td>
-  <td>
-    <div>25 July 1974</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-  </td>
-  <td>
-    <div>36, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lighthouses Amendment Act 1979</div>
-  </td>
-  <td>
-    <div>99, 1979</div>
-  </td>
-  <td>
-    <div>22 Oct 1979</div>
-  </td>
-  <td>
-    <div>22 Oct 1979</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
-  </td>
-  <td>
-    <div>21, 1989</div>
-  </td>
-  <td>
-    <div>20 Apr 1989</div>
-  </td>
-  <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Marine Navigation Levy Collection Act 1989</div>
-  </td>
-  <td>
-    <div>162, 1989</div>
-  </td>
-  <td>
-    <div>18 Dec 1989</div>
-  </td>
-  <td>
-    <div>1 July 1990 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Maritime Safety Authority Act 1990</div>
-  </td>
-  <td>
-    <div>78, 1990</div>
-  </td>
-  <td>
-    <div>22 Oct 1990</div>
-  </td>
-  <td>
-    <div>Ss. 35, 48, 62 and 63: 1 Jan 1991 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 63(1) and (2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act (No. 2) 1993</div>
-  </td>
-  <td>
-    <div>5, 1994</div>
-  </td>
-  <td>
-    <div>18 Jan 1994</div>
-  </td>
-  <td>
-    <div>Schedule (item 51): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 69, 70): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<thead>
+<tbody>
   <tr>
     <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      <div>Lighthouses Act 1911</div>
     </td>
     <td>
-      <div>143, 2001</div>
+      <div>14, 1911</div>
     </td>
     <td>
-      <div>1 Oct 2001</div>
+      <div>22 Dec 1911</div>
     </td>
     <td>
-      <div>2 Oct 2001</div>
+      <div>1 July 1915 ( <i>see Gazette</i>1915, p. 1183)</div>
     </td>
     <td>
-      <div>S. 4 \[ <i>see</i>Table A]</div>
+      <div></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Maritime Legislation Amendment Act 2006</div>
+      <div>Lighthouses Act 1915</div>
     </td>
     <td>
-      <div>24, 2006</div>
+      <div>17, 1915</div>
     </td>
     <td>
-      <div>6 Apr 2006</div>
+      <div>28 June 1915</div>
     </td>
     <td>
-      <div>Schedule 1: 4 May 2006</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 4) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2008</div>
-    </td>
-    <td>
-      <div>73, 2008</div>
-    </td>
-    <td>
-      <div>3 July 2008</div>
-    </td>
-    <td>
-      <div>Schedule 4 (items 382–384): 4 July 2008</div>
+      <div>1 July 1915 ( <i>see</i>s. 2 and <i>Gazette</i>1915, p.1183)</div>
     </td>
     <td>
       <div>—</div>
     </td>
   </tr>
-</thead></table>
+  <tr>
+    <td>
+      <div>Lighthouses Act 1919</div>
+    </td>
+    <td>
+      <div>6, 1919</div>
+    </td>
+    <td>
+      <div>2 Oct 1919</div>
+    </td>
+    <td>
+      <div>2 Oct 1919</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lighthouses Act 1942</div>
+    </td>
+    <td>
+      <div>35, 1942</div>
+    </td>
+    <td>
+      <div>12 June 1942</div>
+    </td>
+    <td>
+      <div>10 July 1942</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lighthouses Act 1949</div>
+    </td>
+    <td>
+      <div>36, 1949</div>
+    </td>
+    <td>
+      <div>13 July 1949</div>
+    </td>
+    <td>
+      <div>10 Aug 1949</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition Act 1955</div>
+    </td>
+    <td>
+      <div>69, 1955</div>
+    </td>
+    <td>
+      <div>4 Nov 1955</div>
+    </td>
+    <td>
+      <div>16 Feb 1956 ( <i>see Gazette</i>1956, p. 472)</div>
+    </td>
+    <td>
+      <div>S. 67(3) (rep. by 19, 1979, s. 58)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>19, 1979</div>
+    </td>
+    <td>
+      <div>28 Mar 1979</div>
+    </td>
+    <td>
+      <div>Parts II to XVI (ss. 3–122) and Part XVII (s. 123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) Remainder: Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 58(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lighthouses Act 1957</div>
+    </td>
+    <td>
+      <div>9, 1957</div>
+    </td>
+    <td>
+      <div>24 Apr 1957</div>
+    </td>
+    <td>
+      <div>22 May 1957</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lighthouses Act 1961</div>
+    </td>
+    <td>
+      <div>63, 1961</div>
+    </td>
+    <td>
+      <div>24 Oct 1961</div>
+    </td>
+    <td>
+      <div>24 Oct 1963 ( <i>see Gazette</i>1963, p. 3769)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lighthouses Act 1970</div>
+    </td>
+    <td>
+      <div>106, 1970</div>
+    </td>
+    <td>
+      <div>4 Nov 1970</div>
+    </td>
+    <td>
+      <div>4 Nov 1970</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lighthouses Act 1972</div>
+    </td>
+    <td>
+      <div>61, 1972</div>
+    </td>
+    <td>
+      <div>31 Aug 1972</div>
+    </td>
+    <td>
+      <div>1 Feb 1973 ( <i>see Gazette</i>1973, No. 11)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1974</div>
+    </td>
+    <td>
+      <div>20, 1974</div>
+    </td>
+    <td>
+      <div>25 July 1974</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+    </td>
+    <td>
+      <div>36, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lighthouses Amendment Act 1979</div>
+    </td>
+    <td>
+      <div>99, 1979</div>
+    </td>
+    <td>
+      <div>22 Oct 1979</div>
+    </td>
+    <td>
+      <div>22 Oct 1979</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
+    </td>
+    <td>
+      <div>21, 1989</div>
+    </td>
+    <td>
+      <div>20 Apr 1989</div>
+    </td>
+    <td>
+      <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Marine Navigation Levy Collection Act 1989</div>
+    </td>
+    <td>
+      <div>162, 1989</div>
+    </td>
+    <td>
+      <div>18 Dec 1989</div>
+    </td>
+    <td>
+      <div>1 July 1990 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Maritime Safety Authority Act 1990</div>
+    </td>
+    <td>
+      <div>78, 1990</div>
+    </td>
+    <td>
+      <div>22 Oct 1990</div>
+    </td>
+    <td>
+      <div>Ss. 35, 48, 62 and 63: 1 Jan 1991 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Ss. 63(1) and (2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Communications Legislation Amendment Act (No. 2) 1993</div>
+    </td>
+    <td>
+      <div>5, 1994</div>
+    </td>
+    <td>
+      <div>18 Jan 1994</div>
+    </td>
+    <td>
+      <div>Schedule (item 51): Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 69, 70): <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <thead>
+    <tr>
+      <td>
+        <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      </td>
+      <td>
+        <div>143, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td>
+        <div>2 Oct 2001</div>
+      </td>
+      <td>
+        <div>S. 4 \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Maritime Legislation Amendment Act 2006</div>
+      </td>
+      <td>
+        <div>24, 2006</div>
+      </td>
+      <td>
+        <div>6 Apr 2006</div>
+      </td>
+      <td>
+        <div>Schedule 1: 4 May 2006</div>
+      </td>
+      <td>
+        <div>Sch. 1 (item 4) \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+  </thead>
+</tbody></table>
+
 
 _(a)_     The _Lighthouses Act 1911_ was amended by the Schedule (item 51) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
 
@@ -958,6 +950,7 @@ _(b)_    The _Lighthouses Act 1911_ was amended by Schedule 2 (items 6
                  (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
          Items 69 and 70 are taken to have commenced immediately after the commencement of section 62 of the _Australian Maritime Safety Authority Act 1990_. Section 62 of the _Australian Maritime Safety Authority Act 1990_ commenced on 1 January 1991\. 
+
 
 ## Table of Amendments
 
@@ -982,390 +975,385 @@ _(b)_    The _Lighthouses Act 1911_ was amended by Schedule 2 (items 6
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 106, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 1</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part I</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1942; No. 106, 1970; No. 99, 1979; No. 162, 1989; No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rep. No. 35, 1942</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 9, 1957; No. 106, 1970; No. 61, 1972; No. 216, 1973; No. 162, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 5</div>
-  </td>
-  <td>
-    <div>rs. No. 106, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973 (as am. by No. 20, 1974)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 106, 1970; No. 216, 1973; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 106, 1970; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 17, 1915</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 69, 1955; No. 93, 1966; No. 106, 1970; No. 216, 1973; No. 36, 1978; No. 21, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 9, 1957</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 106, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 99, 1979; No. 78, 1990; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rs. No. 35, 1942</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 5, 1994; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 1949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001; No. 24, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 106, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 106, 1970; No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III</div>
-  </td>
-  <td>
-    <div>rep. No. 162, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1942</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 162, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rep. No. 162, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15, 16</div>
-  </td>
-  <td>
-    <div>am. No. 106, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 162, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 17, 18</div>
-  </td>
-  <td>
-    <div>rep. No. 162, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 19</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 19</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 9, 1957; No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001; No. 24, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 9, 1957; No. 106, 1970; No. 78, 1990; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 36, 1949; No. 9,1957; No. 63, 1961</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001; No. 24, 2006; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 20</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 106, 1970</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 1</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part I</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1942; No. 106, 1970; No. 99, 1979; No. 162, 1989; No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>rep. No. 35, 1942</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 36, 1949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 9, 1957; No. 106, 1970; No. 61, 1972; No. 216, 1973; No. 162, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 5</div>
+    </td>
+    <td>
+      <div>rs. No. 106, 1970</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973 (as am. by No. 20, 1974)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 5, 6</div>
+    </td>
+    <td>
+      <div>am. No. 106, 1970; No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 17, 1915</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 69, 1955; No. 93, 1966; No. 106, 1970; No. 216, 1973; No. 36, 1978; No. 21, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 9, 1957</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 106, 1970</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 99, 1979; No. 78, 1990; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>rs. No. 35, 1942</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 5, 1994; No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>rep. No. 36, 1949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001; No. 24, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 106, 1970</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 106, 1970; No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 13</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part III</div>
+    </td>
+    <td>
+      <div>rep. No. 162, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1942</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 162, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>rep. No. 162, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15, 16</div>
+    </td>
+    <td>
+      <div>am. No. 106, 1970</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 162, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 17, 18</div>
+    </td>
+    <td>
+      <div>rep. No. 162, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 19</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IV</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 19</div>
+    </td>
+    <td>
+      <div>rs. No. 24, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 9, 1957; No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001; No. 24, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19A</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 9, 1957; No. 106, 1970; No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19B</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 36, 1949; No. 9,1957; No. 63, 1961</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 106, 1970; No. 78, 1990; No. 143, 2001; No. 24, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 20</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part V</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1379,7 +1367,9 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Maritime Legislation Amendment Act 2006 (No. 24, 2006)_
 
@@ -1388,5 +1378,6 @@ _Maritime Legislation Amendment Act 2006 (No. 24, 2006)_
 ## 4  Saving provision—notices in force under subsection 10(1)
 
 Any notice served by the Authority under subsection 10(1) of the _Lighthouses Act 1911_ as in force immediately before the date of commencement of the amendments of that Act by this Act has effect, on and after that date, as if it were a notice served under subsection 10(1) of that Act as amended by this Act.
+
 
  
