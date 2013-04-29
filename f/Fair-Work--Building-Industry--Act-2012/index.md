@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00199/Html/BuildingandConstructIndustImprove2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00094/Html/BuildingandConstructIndustImprove2005_image001.gif)
 
 # Building and Construction Industry Improvement Act 2005
 
 **Act No. 113 of 2005 as amended**
 
-This compilation was prepared on 26 June 2008
- taking into account amendments up to Act No. 26 of 2008
+This compilation was prepared on 28 March 2008
+ taking into account amendments up to Act No. 8 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -940,15 +940,15 @@ the provisions of the _Judges’ Pensions Act 1968_ (including provisions relati
 
                      (c)  the Commissioner is a full-time Commissioner and is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months.
 
-             (2)  Subject to subsections (3), (4) and (5), the Minister may terminate the appointment of a Commissioner on the ground of misbehaviour or physical or mental incapacity.
+             (2)  Subject to subsections (3) and (4), the Minister may terminate the appointment of a Commissioner on the ground of misbehaviour or physical or mental incapacity.
 
              (3)  If a Commissioner:
 
                      (a)  is an eligible employee for the purposes of the _Superannuation Act 1976_; and
 
-                     (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
+                     (b)  has not reached his or her maximum retiring age within the meaning of that Act;
 
-his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
+his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the CSS Board has given a certificate under section 54C of that Act.
 
              (4)  If a Commissioner:
 
@@ -956,15 +956,7 @@ his or her appointment cannot be terminated on the ground of physical or mental 
 
                      (b)  is under 60 years of age;
 
-his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
-
-             (5)  If a Commissioner:
-
-                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
-
-                     (b)  is under 60 years of age;
-
-his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
+his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the PSS Board has given a certificate under section 13 of that Act.
 
 ##### <a id="25"></a>25  Staff and consultants
 
@@ -2574,23 +2566,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>26, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 43–46): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -2654,22 +2629,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>am. SLI 2006 No. 50; No. 163, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
