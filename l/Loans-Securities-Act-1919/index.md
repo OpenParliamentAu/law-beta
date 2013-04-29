@@ -1,50 +1,55 @@
-![](http://www.comlaw.gov.au/Details/C2008C00340/Html/LoansSecurities1919_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00193/Html/481B636DA0F63797CA25713200069A12/$FILE/image001.gif)
 
 # Loans Securities Act 1919
 
 **Act No. 25 of 1919 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 4 October 2000
+taking into account amendments up to Act No. 131 of 1988
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Interpretation
+[2](#2).            Interpretation                                                                                       1
 
-[3](#3).            Conditions of loans
+[3](#3).            Conditions of loans                                                                              1
 
-[4](#4).            Payment of principal and interest
+[4](#4).            Payment of principal and interest                                                       2
 
-[5](#5).            Establishment of Registries and appointment of Registrars
+[5](#5).            Establishment of Registries and appointment of Registrars                2
 
-[5A](#5A).         Powers of Treasurer in relation to borrowings outside Australia
+[5A](#5A).         Powers of Treasurer in relation to borrowings outside Australia        2
 
-[5B](#5B).         Power of Treasurer to enter into swaps or other financial arrangements
+[5B](#5B).         Power of Treasurer to enter into swaps or other financial arrangements                3
 
-[5C](#5C).         Jurisdiction of foreign courts
+[5C](#5C).         Jurisdiction of foreign courts                                                               3
 
-[5D](#5D).         Delegation
+[5D](#5D).         Delegation                                                                                            4
 
-[6](#6).            Provisions for payment of judgments in United Kingdom
+[6](#6).            Provisions for payment of judgments in United Kingdom                  5
 
-[6A](#6A).         Currency in which moneys may be borrowed
+[6A](#6A).         Currency in which moneys may be borrowed                                     6
 
-[6B](#6B).         Exemption of certain securities issued abroad from taxation
+[6B](#6B).         Exemption of certain securities issued abroad from taxation               6
 
-[7](#7).            Regulations
+[7](#7).            Regulations                                                                                          7
 
 **Notes** 
+
+ 
+
 
 ## An Act to authorize the issue of Securities in relation to Loans and for other purposes in connexion therewith
 
@@ -92,7 +97,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  establish Registries at any places outside the Commonwealth for the inscription of Stock and for the issue and registration of securities or any other documents required in connexion with the issue of any loan or for defining or registering the indebtedness of the Commonwealth to lenders;
 
-                     (b)  appoint such Registrars or Deputy Registrars as he or she thinks necessary.
+                     (b)  appoint such Registrars or Deputy Registrars as he thinks necessary.
 
 ##### <a id="5A"></a>5A  Powers of Treasurer in relation to borrowings outside Australia
 
@@ -114,7 +119,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  for any purpose relating to the borrowing.
 
-##### <a id="5B"></a>5B  Power of Treasurer to enter into swaps or other financial arrangements
+##### <a id="5B"></a>5B  Power of Treasurer to enter into swaps or other financial arrangements
 
              (1)  The Treasurer may, on behalf of the Commonwealth, enter into an agreement with any person or organisation or the government of any country, either within or outside Australia, under which:
 
@@ -212,6 +217,7 @@ all or any of the following powers:
 
              (2)  Authority is given for the making by the Registrar of the Registry situated at London in the United Kingdom of regulations under section 16 of the Imperial Act known as the Colonial Stock Act 1877 for the purpose specified in subsection (1) of section 1 of the Imperial Act known as the Colonial Stock Act 1948 in relation to stock issued in the United Kingdom before the date of commencement of this section.
 
+
 # Notes to the _Loans Securities Act 1919_
 
 ### Note 1
@@ -236,11 +242,13 @@ The _Loans Securities Act 1919_ as shown in this compilation comprises Act No.�
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -250,142 +258,128 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Loans Securities Act 1919</div>
-  </td>
-  <td>
-    <div>25, 1919</div>
-  </td>
-  <td>
-    <div>28 Oct 1919</div>
-  </td>
-  <td>
-    <div>28 Oct 1919</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Loans Securities Act 1956</div>
-  </td>
-  <td>
-    <div>82, 1956</div>
-  </td>
-  <td>
-    <div>7 Nov 1956</div>
-  </td>
-  <td>
-    <div>7 Nov 1956</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Loans Securities Act 1959</div>
-  </td>
-  <td>
-    <div>55, 1959</div>
-  </td>
-  <td>
-    <div>9 Sept 1959</div>
-  </td>
-  <td>
-    <div>9 Sept 1959</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Loans Securities Act 1968</div>
-  </td>
-  <td>
-    <div>28, 1968</div>
-  </td>
-  <td>
-    <div>7 June 1968</div>
-  </td>
-  <td>
-    <div>7 June 1968</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-  </td>
-  <td>
-    <div>36, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Loans Securities Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>131, 1988</div>
-  </td>
-  <td>
-    <div>22 Dec 1988</div>
-  </td>
-  <td>
-    <div>22 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 385): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Loans Securities Act 1919</div>
+    </td>
+    <td>
+      <div>25, 1919</div>
+    </td>
+    <td>
+      <div>28 Oct 1919</div>
+    </td>
+    <td>
+      <div>28 Oct 1919</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Loans Securities Act 1956</div>
+    </td>
+    <td>
+      <div>82, 1956</div>
+    </td>
+    <td>
+      <div>7 Nov 1956</div>
+    </td>
+    <td>
+      <div>7 Nov 1956</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Loans Securities Act 1959</div>
+    </td>
+    <td>
+      <div>55, 1959</div>
+    </td>
+    <td>
+      <div>9 Sept 1959</div>
+    </td>
+    <td>
+      <div>9 Sept 1959</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Loans Securities Act 1968</div>
+    </td>
+    <td>
+      <div>28, 1968</div>
+    </td>
+    <td>
+      <div>7 June 1968</div>
+    </td>
+    <td>
+      <div>7 June 1968</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+    </td>
+    <td>
+      <div>36, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Loans Securities Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>131, 1988</div>
+    </td>
+    <td>
+      <div>22 Dec 1988</div>
+    </td>
+    <td>
+      <div>22 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -410,69 +404,64 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rs. No. 82, 1956; No. 131, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5A–5D</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 1956</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6B</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1959</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 28, 1968; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1968</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rs. No. 82, 1956; No. 131, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 5A-5D</div>
+    </td>
+    <td>
+      <div>ad. No. 131, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 82, 1956</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6B</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1959</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 28, 1968; No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1968</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
  
