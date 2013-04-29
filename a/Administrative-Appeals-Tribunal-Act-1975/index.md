@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00470/Html/AdminAppealsTribunal75AE_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00218/Html/AdminAppealsTribunal75AE_image001.gif)
 
 # Administrative Appeals Tribunal Act 1975
 
 **Act No. 91 of 1975 as amended**
 
-This compilation was prepared on 12 October 2009
- taking into account amendments up to Act No. 99 of 2009
+This compilation was prepared on 27 June 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -81,9 +81,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21](#21).          Constitution of Tribunal for exercise of powers
 
-[21AA](#21AA).    Constitution of Security Appeals Division—general
-
-[21AB](#21AB).    Constitution of Security Appeals Division—proceedings to review certain decisions under the _Archives Act 1983_
+[21AA](#21AA).    Constitution of Security Appeals Division
 
 [21A](#21A).       Reconstitution of Tribunal at the request of a party
 
@@ -521,7 +519,7 @@ and includes an enactment as amended by another enactment.
 
 ##### <a id="5"></a>5  Establishment of Tribunal
 
-                   There is hereby established an Administrative Appeals Tribunal, which shall consist of a President, the other presidential members, the senior members, and the other members, appointed in accordance with this Act.
+There is hereby established an Administrative Appeals Tribunal, which shall consist of a President, the other presidential members, the senior members, and the other members, appointed in accordance with this Act.
 
 ### Division 2—Members of Tribunal
 
@@ -879,7 +877,7 @@ President may give directions
 
 ### Division 3—Constitution and reconstitution of the Tribunal
 
-##### <a id="20B"></a>20B  President may give directions as to constitution of Tribunal
+##### <a id="20B"></a>20B  President may give directions as to constitution of Tribunal
 
              (1)  The President may give directions as to the persons who are to constitute the Tribunal for the purposes of a particular proceeding.
 
@@ -911,11 +909,11 @@ Constitution of Tribunal
 
              (2)  Where, before the commencement of the hearing of a proceeding before the Tribunal, there is lodged with the Tribunal, as prescribed, a notice, signed by or on behalf of all the parties, stating that they have agreed that the proceeding should be dealt with by the Tribunal constituted by a presidential member alone, the Tribunal may, if the President directs under section 20B, be constituted for the purposes of that proceeding by a presidential member alone.
 
-##### <a id="21AA"></a>21AA  Constitution of Security Appeals Division—general
+##### <a id="21AA"></a>21AA  Constitution of Security Appeals Division
 
 Scope
 
-             (1)  This section applies to a proceeding in the Security Appeals Division (other than a proceeding to which section 21AB applies) but has effect subject to subsection 65(2) of the _Australian Security Intelligence Organisation Act 1979_.
+             (1)  This section applies to a proceeding in the Security Appeals Division but has effect subject to subsection 65(2) of the _Australian Security Intelligence Organisation Act 1979_.
 
 Constitution of Security Appeals Division
 
@@ -950,72 +948,6 @@ What happens if member ceases to be available
                      (a)  the proceeding is to be reheard by the Division as reconstituted in accordance with this section; and
 
                      (b)  on the rehearing, the members of the Division may have regard to any record of the proceeding in the Division as previously constituted, including a record of any evidence taken in the proceeding.
-
-##### <a id="21AB"></a>21AB  Constitution of Security Appeals Division—proceedings to review certain decisions under the _Archives Act 1983_
-
-Scope
-
-             (1)  This section applies to a proceeding in the Security Appeals Division in relation to a review of a decision of the Australian Archives under the _Archives Act 1983_ refusing to grant access to a record in accordance with an application under section 40 of that Act, being a record that is:
-
-                     (a)  a record of the Australian Security Intelligence Organisation; and
-
-                     (b)  claimed to be an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b) of that Act.
-
-Constitution of Security Appeals Division
-
-             (2)  Subject to this section, the Security Appeals Division is to be constituted by:
-
-                     (a)  3 presidential members; or
-
-                     (b)  a presidential member alone.
-
-When presidential member must not participate
-
-             (3)  A presidential member must not participate in the proceeding if he or she is, or has been, the Director-General of Security or an officer, employee or agent of the Australian Security Intelligence Organisation.
-
-Reconstitution of Division at the request of a party
-
-             (4)  At any time during the hearing of a proceeding before the Division, constituted by a presidential member alone, a party to the proceeding may apply to the Division as constituted for the purposes of the proceeding requesting that the Division be reconstituted for the purposes of the proceeding.
-
-             (5)  If an application is made under subsection (4), the Division as constituted for the purposes of the proceeding must, after receiving the submissions made in support of the application and any submissions made in opposition to the application, notify the President of the making of the application and give him or her particulars of those submissions.
-
-             (6)  The President may, after taking the submissions into account, if he or she considers that the matters to which the proceeding relates are of such public importance as to justify him or her in so doing, give a direction that the Division as constituted for the purposes of the proceeding be reconstituted by 3 presidential members.
-
-             (7)  If a direction is given under subsection (6), the Division as reconstituted in accordance with the direction must continue the proceeding and may either:
-
-                     (a)  complete the proceeding; or
-
-                     (b)  at any time remit the proceeding to the Division as previously constituted for completion by the Division as previously constituted.
-
-             (8)  If the Division as reconstituted remits a proceeding to the Division as previously constituted, the Division as reconstituted may give directions in relation to the proceeding to the Division as previously constituted and the Division as previously constituted must, in making a decision on the review, comply with those directions.
-
-Member presiding
-
-             (9)  At the hearing of a proceeding before the Division at which the Division is constituted for the purposes of the proceeding by presidential members:
-
-                     (a)  if the President is a member of the Division as so constituted—he or she is to preside; or
-
-                     (b)  if the President is not a member of the Division as so constituted, but only one presidential member who is a Judge is a member of the Division as so constituted—that presidential member is to preside; or
-
-                     (c)  if the President is not a member of the Division as so constituted, but 2 or more presidential members who are Judges are members of the Division as so constituted—the senior Judge is to preside; or
-
-                     (d)  if neither the President, nor a Judge is a member of the Division as so constituted—a Deputy President of the Division as so constituted who is directed by the President to do so is to preside.
-
-What happens if member ceases to be available
-
-           (10)  If, before the proceeding has been completed, one of the members constituting the Division for the purposes of the proceeding has ceased to be available for the purposes of the proceeding the proceeding is to be reheard by the Division as reconstituted in accordance with this section.
-
-Regard may be had to record of previous proceeding
-
-           (11)  If the Division:
-
-                     (a)  is reconstituted in accordance with a direction under subsection (6); or
-
-                     (b)  is reconstituted because proceedings are remitted under paragraph (7)(b) to the Division as previously constituted; or
-
-                     (c)  is reconstituted under subsection (10) because a member ceases to be available;
-
-the members of the Division may have regard to any record of the proceeding in the Division as previously constituted, including a record of any evidence taken in the proceeding.
 
 ##### <a id="21A"></a>21A  Reconstitution of Tribunal at the request of a party
 
@@ -2905,7 +2837,7 @@ the Tribunal may, if it appears to it to be appropriate to do so, act in accorda
 
              (3)  If the agreement relates to a part of the proceeding or a matter arising out of the proceeding, the Tribunal may in its decision in the proceeding give effect to the terms of the agreement without, if it has not already done so, dealing at the hearing of the proceeding with the part of the proceeding or the matter arising out of the proceeding, as the case may be, to which the agreement relates.
 
-##### <a id="42D"></a>42D  Power to remit matters to decision-maker for further consideration
+##### <a id="42D"></a>42D  Power to remit matters to decision-maker for further consideration
 
              (1)  At any stage of a proceeding for review of a decision, the Tribunal may remit the decision to the person who made it for reconsideration of the decision by the person.
 
@@ -5106,23 +5038,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information (Removal of Conclusive Certificates and Other Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>99, 2009</div>
-  </td>
-  <td>
-    <div>6 Oct 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3: 7 Oct 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(2) of which provides as follows: 
@@ -5911,14 +5826,6 @@ _(ze)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 21AA</div>
-  </td>
-  <td>
-    <div>am. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Subheads. to s. 21AA(1)–(6)</div>
   </td>
   <td>
@@ -5938,15 +5845,7 @@ _(ze)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 
     <div></div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 7, 2005; No. 21, 2007; No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21AB</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 2009</div>
+    <div>am. No. 161, 1999; No. 7, 2005; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
