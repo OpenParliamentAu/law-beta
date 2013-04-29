@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00426/Html/bad34abd-35b7-4a82-ae55-64ca70582927_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00783/Html/MedicareAustraliaAct1973_WD02_image001.gif)
 
 # Medicare Australia Act 1973
 
 **Act No. 41 of 1974 as amended**
 
-This compilation was prepared on 7 June 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 1 December 2010
+ taking into account amendments up to Act No. 126 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -98,9 +97,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8R](#8R).         Offences
 
-[8S](#8S).          Self‑incrimination
+[8S](#8S).          Self-incrimination
 
-[8T](#8T).          Exemption
+[8T](#8T).         Exemption
 
     **Division 3—Searches in relation to possible relevant offences and relevant civil contraventions**
 
@@ -116,9 +115,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8Y](#8Y).         Search warrants
 
-[8Z](#8Z).          Warrants may be issued by telephone or other electronic means
+[8Z](#8Z).         Warrants may be issued by telephone or other electronic means
 
-[8ZA](#8ZA).       Formalities relating to warrants issued by telephone or other electronic means
+[8ZA](#8ZA).      Formalities relating to warrants issued by telephone or other electronic means
 
     **Division 5—Provisions relating to execution of search warrants**
 
@@ -126,36 +125,35 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8ZC](#8ZC).       Availability of assistance and use of force in executing a warrant
 
-[8ZD](#8ZD).       Details of warrant to be given to occupier etc 
+[8ZD](#8ZD).      Details of warrant to be given to occupier etc 
 
 [8ZE](#8ZE).       Specific powers available to officers executing warrants
 
 [8ZF](#8ZF).       Use of equipment to examine or process things
 
-[8ZG](#8ZG).       Use of electronic equipment at premises
+[8ZG](#8ZG).      Use of electronic equipment at premises
 
-[8ZH](#8ZH).       Compensation for damage to electronic equipment
+[8ZH](#8ZH).      Compensation for damage to electronic equipment
 
 [8ZI](#8ZI).        Seizure of things not covered by warrants
 
 [8ZJ](#8ZJ).        Occupier entitled to observe search
 
-[8ZK](#8ZK).       Receipts for things seized under warrant
+[8ZK](#8ZK).      Receipts for things seized under warrant
 
 [8ZL](#8ZL).       Copies of seized things to be provided
 
-[8ZM](#8ZM).      Retention of things seized
+[8ZM](#8ZM).     Retention of things seized
 
     **Division 6—Miscellaneous**
 
-[8ZN](#8ZN).       Patients to be advised of search, seizure etc  of clinical 
- records
+[8ZN](#8ZN).      Patients to be advised of search, seizure etc  of clinical records
 
-[8ZO](#8ZO).       Offence for making false statements in warrants
+[8ZO](#8ZO).      Offence for making false statements in warrants
 
 [8ZP](#8ZP).       Offences relating to telephone warrants
 
-[8ZQ](#8ZQ).       Actions under this Part taken to be in performance of certain functions
+[8ZQ](#8ZQ).      Actions under this Part taken to be in performance of certain functions
 
 **Part III—Staff of Medicare Australia**
 
@@ -185,7 +183,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Medicare   Australia Act 1973_.
+                   This Act may be cited as the _Medicare__Australia__Act 1973_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -265,13 +263,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  an offence against Part VII of the _National Health Act 1953_; or
 
-                   (ba)  an offence against the _Health and Other Services (Compensation) Act 1995_; or
+                    (ba)  an offence against the _Health and Other Services (Compensation) Act 1995_; or
 
-                   (bb)  an offence against the _Medical Indemnity Act 2002_; or
+                    (bb)  an offence against the _Medical Indemnity Act 2002_; or
 
-                   (bc)  an offence against the _Dental Benefits Act 2008_; or
+                    (bc)  an offence against the _Dental Benefits Act 2008_; or
 
-                   (bd)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
+                    (bd)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
 
                      (c)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (ba), (bb), (bc) or (bd).
 
@@ -281,11 +279,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  an offence against subsection 84L(1) or (2) or section 103 of the _National Health Act 1953_; or
 
-                   (ba)  an offence against the _Medical Indemnity Act 2002_; or
+                    (ba)  an offence against the _Medical Indemnity Act 2002_; or
 
-                   (bb)  an offence against section 50, 51, 52, 53 or 54 of the _Dental Benefits Act 2008_; or
+                    (bb)  an offence against section 50, 51, 52, 53 or 54 of the _Dental Benefits Act 2008_; or
 
-                   (bc)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
+                    (bc)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
 
                      (c)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (ba), (bb) or (bc); or
 
@@ -307,7 +305,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (ca)  an offence against the _Medical Indemnity Act 2002_; or
 
-                   (cb)  an offence against section 50, 51, 52, 53 or 54 of the _Dental Benefits Act 2008_; or
+                    (cb)  an offence against section 50, 51, 52, 53 or 54 of the _Dental Benefits Act 2008_; or
 
                     (cc)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
 
@@ -509,7 +507,7 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
              (6)  Subsections (1) to (5) do not limit section 8AD.
 
-##### <a id="8AF"></a>8AF  When State and Territory laws impose a duty on Chief Executive Officer
+##### <a id="8AF"></a>8AF  When  State and Territory laws impose a duty on Chief Executive Officer
 
                    For the purposes of sections 8AD and 8AE, a law of a State or Territory **_imposes a duty_** on the Chief Executive Officer if:
 
@@ -527,7 +525,7 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
              (3)  The Chief Executive Officer holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
-             (4)  The Chief Executive Officer is to be appointed on a full‑time basis.
+             (4)  The Chief Executive Officer is to be appointed on a full-time basis.
 
 ##### <a id="8AH"></a>8AH  Remuneration
 
@@ -653,11 +651,11 @@ Note:          For strict liability, see section 6.1 of the 
 
 Note:          Sections 28A and 29 of the _Acts Interpretation Act 1901_ provide how a notice may be given. In particular, the notice may be given to an individual by:
 
-·<span style="font:7.0pt " new="">         </span>delivering it personally; or 
+·<span style="font:7.0pt " new="">          </span>delivering it personally; or 
 
-·<span style="font:7.0pt " new="">         </span>leaving it at the person’s last known address; or
+·<span style="font:7.0pt " new="">          </span>leaving it at the person’s last known address; or
 
-·<span style="font:7.0pt " new="">         </span>sending it by pre‑paid post to the person’s last known address.
+·<span style="font:7.0pt " new="">          </span>sending it by pre-paid post to the person’s last known address.
 
              (3)  Subject to subsection (4), the power under this section to require information to be given or documents to be produced does not include:
 
@@ -713,7 +711,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (3)  Without limiting what may be taken to be a reasonable excuse for the purposes of subsection (1B), it is, for the purposes of that subsection, a reasonable excuse for refusing or failing to comply with the notice if compliance would have the effect of disclosing the contents of a part of a record that is a part containing clinical details relating to a patient.
 
-##### <a id="8S"></a>8S  Self‑incrimination
+##### <a id="8S"></a>8S  Self-incrimination
 
              (1)  A person is not excused from giving information or producing a document pursuant to a notice under section 8P on the ground that the information, or production of the document, may tend to incriminate the person.
 
@@ -939,7 +937,7 @@ the court is to assume, unless the contrary is proved, that the entry, search, s
 
                      (b)  that the effective execution of the warrant is not frustrated.
 
-##### <a id="8ZC"></a>8ZC  Availability of assistance and use of force in executing a warrant
+##### <a id="8ZC"></a>8ZC  Availability of assistance and use of force in executing a warrant
 
                    In executing a warrant:
 
@@ -1087,7 +1085,7 @@ compensation for the damage is payable to the owner of the equipment.
 
 the warrant is taken to authorise the authorised officer or officer assisting to seize that evidential material.
 
-##### <a id="8ZJ"></a>8ZJ  Occupier entitled to observe search
+##### <a id="8ZJ"></a>8ZJ  Occupier entitled to observe search
 
              (1)  If a warrant in relation to premises is being executed and the occupier of the premises or another person who apparently represents the occupier is present at the premises, the person is entitled to observe the search being conducted.
 
@@ -1101,7 +1099,7 @@ the warrant is taken to authorise the authorised officer or officer assisting to
 
              (2)  If 2 or more things are seized or moved, they may be covered in the one receipt.
 
-##### <a id="8ZL"></a>8ZL  Copies of seized things to be provided
+##### <a id="8ZL"></a>8ZL  Copies of seized things to be provided
 
              (1)  Subject to subsection (2), if an authorised officer or an officer assisting seizes, under Division 4 or this Division:
 
@@ -1227,7 +1225,7 @@ is guilty of an offence against this section.
 
                      (b)  in the case of a person being a body corporate—by a fine not exceeding $4,000.
 
-             (4)  The conviction of a person of an offence against this section in respect of the use of a name or prescribed symbol does not prevent a further conviction of that person in respect of the use of that name or prescribed symbol at any time after the first‑mentioned conviction.
+             (4)  The conviction of a person of an offence against this section in respect of the use of a name or prescribed symbol does not prevent a further conviction of that person in respect of the use of that name or prescribed symbol at any time after the first-mentioned conviction.
 
              (5)  For the purposes of this section:
 
@@ -1251,7 +1249,7 @@ is guilty of an offence against this section.
 
                       (f)  the reference in paragraph (d) to a covering includes a reference to a stopper, glass, bottle, vessel, box, capsule, case, frame or wrapper and the reference in that paragraph to a label includes a reference to a band or ticket.
 
-             (6)  Proceedings under this section shall not be instituted without the consent in writing of the Attorney‑General.
+             (6)  Proceedings under this section shall not be instituted without the consent in writing of the Attorney-General.
 
              (7)  Subject to subsection (9), nothing in this section affects any rights conferred by law on a person in respect of:
 
@@ -1263,7 +1261,7 @@ is guilty of an offence against this section.
 
                      (a)  within the prescribed period before that date, the person used the name or symbol in good faith in a manner mentioned in subsection (1) or (2); or
 
-                     (b)  immediately before that date the person would have been entitled to prevent another person from passing off, by means of the use of that name or symbol or of a similar name or symbol, goods or services as the goods or services of that first‑mentioned person.
+                     (b)  immediately before that date the person would have been entitled to prevent another person from passing off, by means of the use of that name or symbol or of a similar name or symbol, goods or services as the goods or services of that first-mentioned person.
 
              (9)  No action or proceeding, whether criminal or civil, lies against the Commonwealth for or in relation to the use by the Commonwealth of the name “medicare” or “Medicare Australia” or of an official “medicare” or “Medicare Australia” symbol.
 
@@ -1315,29 +1313,27 @@ is guilty of an offence against this section.
 
                     (aa)  the _Medical Indemnity (__Competitive Advantage Payment) Act 2005_;
 
-                     (b)  the _Medical Indemnity (Run‑off Cover Support Payment) Act 2004_;
+                     (b)  the _Medical Indemnity (Run-off Cover Support Payment) Act 2004_;
 
                      (c)  the _Medical Indemnity (UMP Support Payment) Act 2002_;
 
                      (d)  the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_;
 
-                     (e)  the _Midwife Professional Indemnity (Run‑off Cover Support Payment) Act 2010_.
+                     (e)  the _Midwife Professional Indemnity (Run-off Cover Support Payment) Act 2010_.
 
              (3)  The Minister must cause a copy of each report under this section to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
 ##### <a id="44"></a>44  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the_ Medicare Australia Act 1973_
+# Notes to the_ Medicare __Australia__ Act 1973_
 
 ### Note 1
 
-The _Medicare Australia Act 1973_ as shown in this compilation comprises Act No. 41, 1974 amended as indicated in the Tables below.
+The _Medicare__Australia__Act 1973_ as shown in this compilation comprises Act No. 41, 1974 amended as indicated in the Tables below. 
 
 The amendments made by Schedule 1 (items 48–50) of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_ (No. 159, 1997) have no effect. [_see_ Table A, Schedule 1 (item 73)].
-
-For application, saving or transitional provisions made by the _Human Services Legislation Amendment Act 2011_, _see_ Act No. 32, 2011.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 11 November 1997 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -2289,7 +2285,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Medical Indemnity Legislation Amendment (Run‑off Cover Indemnity and Other Measures) Act 2004</div>
+    <div>Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004</div>
   </td>
   <td>
     <div>77, 2004</div>
@@ -2429,45 +2425,27 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Notes 1 and 2]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-88–99A, 101–116) \[ <i>see</i>Note 1]</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Medicare   Australia Act 1973_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
+_(a)_     The _Medicare__Australia__Act 1973_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
 
                  (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
 
-_(b)_     The _Medicare   Australia Act 1973_ was amended by section 41 only of the _Conciliation and Arbitration Amendment Act (No. 2) 1983_, subsection 2(2) of which provides as follows:
+_(b)_    The _Medicare__Australia__Act 1973_ was amended by section 41 only of the _Conciliation and Arbitration Amendment Act (No. 2) 1983_, subsection 2(2) of which provides as follows:
 
                  (2)   Sections 3, 6, 7, 8, 9, 10, 12, 14 and 16, subsection 22(3) and sections 27, 39, 40, 41 and 43 shall come into operation on a date, or respective dates, to be fixed by Proclamation.
 
-_(c)_     The _Medicare   Australia Act 1973_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
+_(c)_     The _Medicare__Australia__Act 1973_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or such respective days as are, fixed by Proclamation.
 
-_(d)_     The _Medicare   Australia Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(d)_     The _Medicare__Australia__Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(e)_     The _Medicare   Australia Act 1973_ was amended by Part III (sections 55 and 56) only of the _Health Legislation Amendment Act 1986_, subsection 2(1) of which provides as follows:
+_(e)_     The _Medicare__Australia__Act 1973_ was amended by Part III (sections 55 and 56) only of the _Health Legislation Amendment Act 1986_, subsection 2(1) of which provides as follows:
 
-                 (1)   Section 1, this section, section 3, subsection 19(2), section 23, subsection 47(1), section 53, Part III, section 57, sections 61 to 71 (inclusive) and Parts V and VI shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (1)   Section 1, this section, section 3, subsection 19(2), section 23, subsection 47(1), section 53, Part III, section 57, sections 61 to 71 (inclusive) and Parts V and VI shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(f)_      The _Medicare Australia Act 1973_ was amended by sections 3–5 only of the _Health Legislation (Pharmaceutical Benefits) Amendment Act 1991_, subsection 2(1) and paragraphs (3)(a), (b) and (4)(b) of which provide as follows:
 
@@ -2483,31 +2461,31 @@ _(f)_      The _Medicare Australia Act 1973_ was amended by sections�
 
                               (b)   subsection 8D(2) inserted in the _Health Insurance Commission Act 1973_ by section 4 of this Act.
 
-_(g)_     The _Medicare   Australia Act 1973_ was amended by Part 3 (sections 6–12) and section 13 only of the _Human Services and Health Legislation Amendment Act 1994_, subsections 2(1) and (2) of which provide as follows:
+_(g)_     The _Medicare__Australia__Act 1973_ was amended by Part 3 (sections 6–12) and section 13 only of the _Human Services and Health Legislation Amendment Act 1994_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
                  (2)   Part 3 is taken to have commenced on 9 June 1993, immediately after the commencement of the _Health Insurance Commission Amendment Act 1993_.
 
-_(h)_     The _Medicare   Australia Act 1973_ was amended by subsection 5(2) only of the _Health Legislation (Private Health Insurance Reform) Amendment Act 1995_, subsection 2(3) of which provides as follows:
+_(h)_     The _Medicare__Australia__Act 1973_ was amended by subsection 5(2) only of the _Health Legislation (Private Health Insurance Reform) Amendment Act 1995_, subsection 2(3) of which provides as follows:
 
                  (3)   Section 5 and Schedule 2 commence on 1 October 1995.
 
-_(i)_      The _Medicare   Australia Act 1973_ was amended by Schedule 1 (items 62–68) and Schedule 2 (item 15) only of the _Human Services and Health Legislation Amendment Act (No. 3) 1995_, subsection 2(1) of which provides as follows:
+_(i)_      The _Medicare__Australia__Act 1973_ was amended by Schedule 1 (items 62–68) and Schedule 2 (item 15) only of the _Human Services and Health Legislation Amendment Act (No. 3) 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(j)_      The _Medicare   Australia Act 1973_ was amended by Schedule 4 (item 86) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(j)_      The _Medicare__Australia__Act 1973_ was amended by Schedule 4 (item 86) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(k)_     The _Medicare   Australia Act 1973_ was amended by Schedule 3 (item 70) only of the _Tax Law Improvement Act 1997,_ subsections 2(2) and (3) of which provide as follows:
+_(k)_     The _Medicare__Australia__Act 1973_ was amended by Schedule 3 (item 70) only of the _Tax Law Improvement Act 1997,_ subsections 2(2) and (3) of which provide as follows:
 
                  (2)   Schedule 1 commences on 1 July 1997 immediately after the commencement of the _Income Tax Assessment Act 1997_.
 
                  (3)   Each of the other Schedules (except Schedule 12) commences immediately after the commencement of the immediately preceding Schedule.
 
-_(l)_ The _Medicare   Australia Act 1973_ was amended by Schedule 2 (items 805–822) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(l)_ The _Medicare__Australia__Act 1973_ was amended by Schedule 2 (items 805–822) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
@@ -2515,11 +2493,11 @@ _(m)_    The _Medicare Australia Act 1973_ was amended by Schedule 1 (it
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                 (2)   Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund‑transfer day.
+                 (2)   Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund-transfer day.
 
                  (4)   Part 3 of Schedule 1 to this Act commences at the end of the period of 5 years beginning on the day on which this Act receives the Royal Assent.
 
-_(n)_     The _Medicare Australia Act 1973_ was amended by Schedule 1 (items 12–16) only of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_, subsections 2(2) and (4) of which provide as follows:
+_(n)_     The _Medicare__Australia__Act 1973_ was amended by Schedule 1 (items 12–16) only of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_, subsections 2(2) and (4) of which provide as follows:
 
                  (2)   Subject to subsections (3) to (5), Schedule 1 commences on the day that is the payment commencement day for the purposes of the _Child Care Payments Act 1997_.
 
@@ -2535,27 +2513,27 @@ _(na)_   The _Child Care Payments (Consequential Amendments and Transitional
 
          The payment commencement day was 19 June 2000.
 
-_(o)_     The _Medicare Australia Act 1973_ was amended by Schedule 1 (item 1) only of the _Health Legislation Amendment Act 1998_, subsection 2(1) of which provides as follows:
+_(o)_     The _Medicare__Australia__Act 1973_ was amended by Schedule 1 (item 1) only of the _Health Legislation Amendment Act 1998_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(p)_     The _Medicare   Australia Act 1973_ was amended by Schedule 8 (items 1–6) only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
+_(p)_     The _Medicare__Australia__Act 1973_ was amended by Schedule 8 (items 1–6) only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedule 1 (Parts 1 to 5), Schedules 3 to 6, Schedule 7 (other than item 14), Schedules 8 and 9, Schedule 10 (other than item 63) and Schedule 11 (items 3 and 4 only) commence, or are taken to have commenced, on the commencement of Schedule 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_.
 
-_(q)_     The _Medicare Australia Act 1973_ was amended by Schedule 1 (items 509 and 510) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(q)_     The _Medicare__Australia__Act 1973_ was amended by Schedule 1 (items 509 and 510) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(r)_     The _Medicare Australia Act 1973_ was amended by Schedule 10 (items 86 and 87) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(r)_     The _Medicare__Australia__Act 1973_ was amended by Schedule 10 (items 86 and 87) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12\. 
 
-_(s)_     The _Medicare Australia Act 1973_ was amended by Schedule 3 (item 70) only of the _Health Legislation Amendment Act (No. 3) 1999_, subsection 2(5) of which provides as follows:
+_(s)_     The _Medicare__Australia__Act 1973_ was amended by Schedule 3 (item 70) only of the _Health Legislation Amendment Act (No. 3) 1999_, subsection 2(5) of which provides as follows:
 
                  (5)   Schedule 3 is taken to have commenced on 1 January 1999.
 
@@ -5136,928 +5114,6 @@ Part IID</div>
   <td></td>
 </tr></table>
 
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 1
-
-## 1  Title
-
-Omit “**to establish Medicare Australia, and for related purposes**”, substitute “**relating to the provision of certain services, and for other purposes**”.
-
-## 2  Section 1
-
-Omit “_Medicare Australia Act 1973_”, substitute “_Human Services (Medicare) Act 1973_”.
-
-_Note:       This item amends the short title of the Act. If another amendment of the Act is described by reference to the Act’s previous short title, that other amendment has effect after the commencement of this item as an amendment of the Act under its amended short title (see section 10 of the Acts Interpretation Act 1901)._
-
-## 3  Section 3 (definition of _authorised officer_)
-
-Omit “Chief Executive Officer or an employee who is appointed by the Chief Executive Officer”, substitute “Chief Executive Medicare or a Departmental employee who is appointed by the Chief Executive Medicare”.
-
-## 4  Section 3
-
-Insert:
-
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
-
-## 5  Section 3
-
-Insert:
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** means the Chief Executive Medicare referred to in section 4.
-
-## 6  Section 3 (definition of _Chief Executive Officer_)
-
-Repeal the definition.
-
-## 7  Section 3 (definition of _Commonwealth authority_)
-
-Repeal the definition.
-
-## 8  Section 3 (definition of _Commonwealth service_)
-
-Repeal the definition.
-
-## 9  Section 3
-
-Insert:
-
-                    <a name="data"></a>**_data_** includes:
-
-                     (a)  information in any form; and
-
-                     (b)  any program (or part of a program).
-
-## 10  Section 3
-
-Insert:
-
-                    <a name="data-held-comput"></a>**_data held in a computer_** includes:
-
-                     (a)  data held in any removable data storage device for the time being held in a computer; or
-
-                     (b)  data held in a data storage device on a computer network of which the computer forms a part.
-
-## 11  Section 3
-
-Insert:
-
-                    <a name="data-storag-devic"></a>**_data storage device_** means a thing containing, or designed to contain, data for use by a computer.
-
-## 12  Section 3
-
-Insert:
-
-                    <a name="department-employe"></a>**_Departmental employee_** means an APS employee in the Department.
-
-Note:          **_APS employee_** is defined in the _Acts Interpretation Act 1901_.
-
-## 13  Section 3 (definition of _employee_)
-
-Repeal the definition.
-
-## 14  Section 3
-
-Insert:
-
-                    <a name="function"></a>**_function_** includes power.
-
-## 15  Section 3 (definition of _medicare functions_)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 16  Section 3
-
-Insert:
-
-                    <a name="micar-program"></a>**_medicare program_** has the meaning given by section 41G.
-
-## 17  Section 3 (definition of _officer assisting_)
-
-Omit “an employee” (wherever occurring), substitute “a Departmental employee”.
-
-## 18  Section 3
-
-Insert:
-
-                    <a name="perform"></a>**_perform_** includes exercise.
-
-## 19  Section 3 (definition of _principal officer_)
-
-Repeal the definition.
-
-## 20  Section 3
-
-Insert:
-
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
-
-## 21  Section 3 (definition of _service arrangements_)
-
-Repeal the definition.
-
-## 22  Section 3 (definition of _service delivery functions_)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 23  Section 3B
-
-Repeal the section.
-
-## 24  Part II
-
-Repeal the Part.
-
-## 25  Part IIA (heading)
-
-Repeal the heading, substitute:
-
-## Part IIA—Chief Executive Medicare
-
-## 26  Division 1 of Part IIA (heading)
-
-Repeal the heading.
-
-## 27  Before section 5
-
-Insert:
-
-##### <a id="4"></a>4  Chief Executive Medicare
-
-             (1)  There is to be a Chief Executive Medicare.
-
-             (2)  The Chief Executive Medicare is to be a person who is:
-
-                     (a)  an SES employee in the Department; and
-
-                     (b)  specified in a written instrument made by the Secretary.
-
-             (3)  A person must not be specified in an instrument under paragraph (2)(b) if the person is, or is acting as:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                     (b)  the Child Support Registrar.
-
-             (4)  An instrument under paragraph (2)(b) is not a legislative instrument.
-
-##### <a id="4A"></a>4A  Acting Chief Executive Medicare
-
-             (1)  The Secretary may appoint an SES employee in the Department to act as the Chief Executive Medicare:
-
-                     (a)  during a vacancy in the position of Chief Executive Medicare (whether or not an appointment has previously been made to the position); or
-
-                     (b)  during any period, or during all periods, when the Chief Executive Medicare:
-
-                              (i)  is absent from duty or from Australia; or
-
-                             (ii)  is, for any reason, unable to perform the duties of the position.
-
-             (2)  A person must not be appointed under subsection (1) if the person is, or is acting as:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                     (b)  the Child Support Registrar.
-
-             (3)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
-
-                     (a)  the occasion for the appointment had not arisen; or
-
-                     (b)  there was a defect or irregularity in connection with the appointment; or
-
-                     (c)  the appointment had ceased to have effect; or
-
-                     (d)  the occasion to act had not arisen or had ceased.
-
-Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
-
-## 28  Subsection 5(1)
-
-Omit “Chief Executive Officer has”, substitute “Chief Executive Medicare has”.
-
-_Note 1:    The heading to section 5 is altered by omitting “Chief Executive Officer” and substituting “Chief Executive Medicare”._
-
-_Note 2:    The following heading to subsection 5(1) is inserted “Functions—general”._
-
-## 28A  Paragraph 5(1)(c)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 28B  Paragraph 5(1)(d)
-
-Repeal the paragraph.
-
-## 28C  Subsection 5(2)
-
-Repeal the subsection.
-
-## 29  At the end of section 5
-
-Add:
-
-Parallel function
-
-             (3)  A function prescribed by regulations made for the purposes of paragraph (1)(e) may be a specified function that another person (the **_primary person_**) has under a law of the Commonwealth.
-
-             (4)  When the specified function is performed by the Chief Executive Medicare, the function is, for the purposes of that or any other law of the Commonwealth, taken to have been performed by the primary person.
-
-             (5)  The performance of the specified function by the Chief Executive Medicare does not prevent the performance of the function under the law of the Commonwealth by the primary person.
-
-             (6)  For the purposes of subsection (3), it is immaterial whether the specified function is a function that can be delegated.
-
-             (7)  For the purposes of subsection (3), it is immaterial whether the specified function is a function under a law administered by the Minister.
-
-             (8)  Subsection (3) does not limit paragraph (1)(e).
-
-             (9)  Subsections (6) and (7) are enacted for the avoidance of doubt.
-
-Function of acting on behalf of another person
-
-           (10)  A function prescribed by regulations made for the purposes of paragraph (1)(e) may be a function of acting on behalf of another person (the **_primary person_**) in the performance of a function that the primary person may perform, whether under a law of the Commonwealth or otherwise.
-
-           (11)  For the purposes of subsection (10), it is immaterial whether a function that the primary person may perform is a function that can be delegated.
-
-           (12)  For the purposes of subsection (10), it is immaterial whether a function that the primary person may perform under a law of the Commonwealth is a function under a law administered by the Minister.
-
-           (13)  For the purposes of subsection (10), it is immaterial whether a function that the primary person may perform otherwise than under a law of the Commonwealth is a function that is within the responsibilities of the Minister.
-
-           (14)  Subsection (10) does not limit paragraph (1)(e).
-
-           (15)  Subsections (10) to (14) are enacted for the avoidance of doubt.
-
-## 30  Section 6
-
-Omit “Chief Executive Officer’s”, substitute “Chief Executive Medicare’s”.
-
-_Note:       The heading to section 6 is altered by omitting “Chief Executive Officer’s” and substituting “Chief Executive Medicare’s”._
-
-## 31  Section 6
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 32  Section 7
-
-Repeal the section, substitute:
-
-##### <a id="7"></a>7  Chief Executive Medicare’s service delivery functions
-
-                   The Chief Executive Medicare’s **_service delivery functions_** are as follows:
-
-                     (a)  to provide services, benefits, programs or facilities that are provided for by the Commonwealth for a purpose for which the Parliament has the power to make laws;
-
-                     (b)  to provide services, benefits, programs or facilities that are provided for by a person or body other than the Commonwealth for a purpose for which the Parliament has the power to make laws.
-
-## 33  Section 7A
-
-Repeal the section, substitute:
-
-##### <a id="7A"></a>7A  Agreements about performance of Chief Executive Medicare’s functions
-
-                   The Secretary of the Department may enter into a written agreement with the Secretary of another Department about the performance of any of the Chief Executive Medicare’s functions.
-
-## 34  Sections 8, 8AA and 8AB
-
-Repeal the sections.
-
-## 35  Subsection 8AC(1)
-
-Omit “Chief Executive Officer may, by writing, delegate to an employee all or any of the powers or functions of the Chief Executive Officer”, substitute “Chief Executive Medicare may, by writing, delegate to a Departmental employee all or any of the functions of the Chief Executive Medicare”.
-
-## 36  After subsection 8AC(1)
-
-Insert:
-
-          (1A)  For the purposes of subsection (1), it is immaterial whether a function of the Chief Executive Medicare is a function of the kind mentioned in subsection 5(3) or (10).
-
-## 37  Subsection 8AC(2)
-
-Omit “Chief Executive Officer must not delegate powers or functions”, substitute “Chief Executive Medicare must not delegate functions”.
-
-## 38  Subsection 8AC(3)
-
-Omit “Chief Executive Officer may, by writing, delegate to an employee all or any of the powers or functions delegated to the Chief Executive Officer”, substitute “Chief Executive Medicare may, by writing, delegate to a Departmental employee all or any of the functions delegated to the Chief Executive Medicare”.
-
-## 39  Subsection 8AC(4)
-
-Omit “Chief Executive Officer must not delegate powers or functions”, substitute “Chief Executive Medicare must not delegate functions”.
-
-## 40  Subsection 8AC(4)
-
-Omit “Chief Executive Officer would”, substitute “Chief Executive Medicare would”.
-
-## 41  At the end of section 8AC
-
-Add:
-
-             (5)  The Chief Executive Medicare must not delegate functions under subsection (1) or (3) to a Departmental employee who is, or is acting as:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                     (b)  the Child Support Registrar.
-
-## 42  Subsection 8AD(1)
-
-Omit “powers or”.
-
-_Note:       The heading to section 8AD is altered by omitting “powers etc. on Chief Executive Officer” and substituting “functions etc. on Chief Executive Medicare”._
-
-## 43  Subsection 8AD(1)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 44  Subsection 8AD(1) (note)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 45  Subsection 8AD(2)
-
-Omit “power or”.
-
-## 46  Paragraph 8AD(2)(a)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 47  Subsection 8AD(3)
-
-Omit “Chief Executive Officer cannot exercise a power, or perform a duty or function,”, substitute “Chief Executive Medicare cannot perform a duty or function”.
-
-## 48  Subsection 8AE(1)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-_Note:       The heading to section 8AE is altered by omitting “Chief Executive Officer” and substituting “Chief Executive Medicare”._
-
-## 49  Subsection 8AE(1) (note)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 50  Paragraph 8AE(2)(b)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 51  Paragraph 8AE(5)(b)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 52  Section 8AF
-
-Omit “Chief Executive Officer” (first occurring), substitute “Chief Executive Medicare”.
-
-_Note:       The heading to section 8AF is altered by omitting “Chief Executive Officer” and substituting “Chief Executive Medicare”._
-
-## 53  Paragraph 8AF(a)
-
-Omit “power or function on the Chief Executive Officer”, substitute “function on the Chief Executive Medicare”.
-
-## 54  Paragraph 8AF(b)
-
-Omit “power or function is conferred give rise to an obligation on the Chief Executive Officer to exercise the power or to perform the function”, substitute “function is conferred give rise to an obligation on the Chief Executive Medicare to perform the function”.
-
-## 55  After section 8AF
-
-Insert:
-
-##### <a id="8B"></a>8B  Chief Executive Medicare may be assisted by Departmental employees
-
-                   A Departmental employee may assist the Chief Executive Medicare in the performance of any of the functions of the Chief Executive Medicare.
-
-## 56  Division 2 of Part IIA
-
-Repeal the Division.
-
-## 57  Part IID (heading)
-
-Repeal the heading, substitute:
-
-## Part IID—Investigative powers of Chief Executive Medicare
-
-## 58  Subsection 8L(1)
-
-Omit “Chief Executive Officer” (wherever occurring), substitute “Chief Executive Medicare”.
-
-## 59  Section 8M
-
-Omit “Chief Executive Officer may, by signed instrument, appoint an employee”, substitute “Chief Executive Medicare may, by signed instrument, appoint a Departmental employee”.
-
-## 60  Subsections 8N(1), (2) and (3)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 61  Subsection 8P(1)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-_Note:       The heading to section 8P is altered by omitting “Chief Executive Officer” and substituting “Chief Executive Medicare”._
-
-## 62  Paragraph 8Q(1)(b)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 63  Paragraph 8Q(1)(c)
-
-Omit “employee”, substitute “Departmental employee”.
-
-## 64  Subsection 8Q(3)
-
-Omit “employee”, substitute “Departmental employee”.
-
-## 65  Subsection 8Q(4)
-
-Omit “an employee”, substitute “a Departmental employee”.
-
-## 66  After section 8R
-
-Insert:
-
-##### <a id="8RA"></a>8RA  Use of information
-
-Scope
-
-             (1)  This section applies to information that is:
-
-                     (a)  given in accordance with a notice under section 8P; or
-
-                     (b)  contained in a document produced in accordance with a notice under section 8P.
-
-Use of information
-
-             (2)  The information may be used or disclosed for purposes in connection with:
-
-                     (a)  the exercise of a power under section 124F of the _Health Insurance Act 1973_; or
-
-                     (b)  the exercise of a power under section 124FF of the _Health Insurance Act 1973_; or
-
-                     (c)  the exercise of a power under section 133 of the _National Health Act 1953_.
-
-             (3)  Subsection (2) does not, by implication, limit the purposes for which the information may otherwise be used or disclosed.
-
-## 67  Subsection 8U(6)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 68  Paragraph 8Y(2)(b)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 69  Sections 8ZF and 8ZG
-
-Repeal the sections, substitute:
-
-##### <a id="8ZF"></a>8ZF  Use of equipment to examine or process things
-
-             (1)  The authorised officer or an officer assisting may bring to the warrant premises any equipment reasonably necessary for the examination or processing of a thing found at the premises in order to determine whether it is a thing that may be seized under the warrant.
-
-             (2)  A thing found at the premises may be moved to another place for examination or processing in order to determine whether it may be seized under a warrant if:
-
-                     (a)  both of the following apply:
-
-                              (i)  it is significantly more practicable to do so having regard to the timeliness and cost of examining or processing the thing at another place and the availability of expert assistance;
-
-                             (ii)  the authorised officer or officer assisting suspects on reasonable grounds that the thing contains or constitutes evidential material; or
-
-                     (b)  the occupier of the premises consents in writing.
-
-             (3)  If a thing is moved to another place for the purpose of examination or processing under subsection (2), the authorised officer must, if it is practicable to do so:
-
-                     (a)  inform the occupier of the address of the place and the time at which the examination or processing will be carried out; and
-
-                     (b)  allow the occupier or his or her representative to be present during the examination or processing.
-
-             (4)  The authorised officer need not comply with paragraph (3)(a) or (b) if he or she believes on reasonable grounds that to do so might:
-
-                     (a)  endanger the safety of a person; or
-
-                     (b)  prejudice an investigation or prosecution.
-
-             (5)  The thing may be moved to another place for examination or processing for no longer than 14 days.
-
-             (6)  An authorised officer may apply to a magistrate for one or more extensions of that time if the authorised officer believes on reasonable grounds that the thing cannot be examined or processed within 14 days or that time as previously extended.
-
-             (7)  The authorised officer must give notice of the application to the occupier of the premises, and the occupier is entitled to be heard in relation to the application.
-
-             (8)  A single extension cannot exceed 7 days.
-
-             (9)  The authorised officer or an officer assisting may operate equipment already at the warrant premises to carry out the examination or processing of a thing found at the premises in order to determine whether it is a thing that may be seized under the warrant if the authorised officer or officer assisting believes on reasonable grounds that:
-
-                     (a)  the equipment is suitable for the examination or processing; and
-
-                     (b)  the examination or processing can be carried out without damage to the equipment or the thing.
-
-##### <a id="8ZG"></a>8ZG  Use of electronic equipment at premises
-
-             (1)  The authorised officer or an officer assisting may operate electronic equipment at the warrant premises to access data (including data not held at the premises) if he or she suspects on reasonable grounds that the data constitutes evidential material.
-
-Note:          An authorised officer can obtain an order requiring a person with knowledge of a computer or computer system to provide assistance: see section 8ZGB.
-
-             (2)  If the authorised officer or officer assisting suspects on reasonable grounds that any data accessed by operating the electronic equipment constitutes evidential material, he or she may:
-
-                     (a)  copy any or all of the data accessed by operating the electronic equipment to a disk, tape or other associated device brought to the premises; or
-
-                     (b)  if the occupier of the premises agrees in writing—copy any or all of the data accessed by operating the electronic equipment to a disk, tape or other associated device at the premises;
-
-and take the device from the premises.
-
-             (3)  If:
-
-                     (a)  the authorised officer or officer assisting takes the device from the premises; and
-
-                     (b)  the Chief Executive Medicare is satisfied that:
-
-                              (i)  the reason for the copying of the data no longer exists; or
-
-                             (ii)  a decision has been made not to use the data in evidence;
-
-the Chief Executive Medicare must arrange for:
-
-                     (c)  the removal of the data from any device in the control of a Departmental employee; and
-
-                     (d)  the destruction of any other reproduction of the data in the control of a Departmental employee.
-
-             (4)  If the authorised officer or an officer assisting, after operating the equipment, finds that evidential material is accessible by doing so, he or she may:
-
-                     (a)  seize the equipment and any disk, tape or other associated device; or
-
-                     (b)  if the material can, by using facilities at the premises, be put in documentary form—operate the facilities to put the material in that form and seize the documents so produced.
-
-             (5)  An authorised officer or an officer assisting may seize equipment under paragraph (4)(a) only if:
-
-                     (a)  it is not practicable to copy the data as mentioned in subsection (2) or to put the material in documentary form as mentioned in paragraph (4)(b); or
-
-                     (b)  possession by the occupier of the equipment could constitute an offence.
-
-             (6)  If the authorised officer or an officer assisting suspects on reasonable grounds that:
-
-                     (a)  evidential material may be accessible by operating electronic equipment at the premises; and
-
-                     (b)  expert assistance is required to operate the equipment; and
-
-                     (c)  if he or she does not take action under this subsection, the material may be destroyed, altered or otherwise interfered with;
-
-he or she may do whatever is necessary to secure the equipment, whether by locking it up, placing a guard or otherwise.
-
-             (7)  The authorised officer or an officer assisting must give notice to the occupier of the premises of his or her intention to secure equipment and of the fact that the equipment may be secured for up to 24 hours.
-
-             (8)  The equipment may be secured:
-
-                     (a)  for a period not exceeding 24 hours; or
-
-                     (b)  until the equipment has been operated by the expert;
-
-whichever happens first.
-
-             (9)  If the authorised officer or an officer assisting believes on reasonable grounds that the expert assistance will not be available within 24 hours, he or she may apply to a magistrate for an extension of that period.
-
-           (10)  The authorised officer or an officer assisting must give notice to the occupier of the premises of his or her intention to apply for an extension, and the occupier is entitled to be heard in relation to the application.
-
-           (11)  The provisions of Division 4 relating to the issue of warrants apply, with such modifications as are necessary, to the issuing of an extension.
-
-##### <a id="8ZGA"></a>8ZGA  Use of electronic equipment at other place
-
-             (1)  If electronic equipment found at the warrant premises is moved to another place under subsection 8ZF(2), the authorised officer or an officer assisting may operate the equipment to access data (including data held at another place).
-
-             (2)  If the authorised officer or officer assisting suspects on reasonable grounds that any data accessed by operating the electronic equipment constitutes evidential material, he or she may copy any or all of the data accessed by operating the electronic equipment to a disk, tape or other associated device.
-
-             (3)  If the Chief Executive Medicare is satisfied that:
-
-                     (a)  the reason for the copying of the data no longer exists; or
-
-                     (b)  a decision has been made not to use the data in evidence;
-
-the Chief Executive Medicare must arrange for:
-
-                     (c)  the removal of the data from any device in the control of a Departmental employee; and
-
-                     (d)  the destruction of any other reproduction of the data in the control of a Departmental employee.
-
-             (4)  If the authorised officer or an officer assisting, after operating the equipment, finds that evidential material is accessible by doing so, he or she may:
-
-                     (a)  seize the equipment and any disk, tape or other associated device; or
-
-                     (b)  if the material can be put in documentary form—put the material in that form and seize the documents so produced.
-
-             (5)  An authorised officer or officer assisting may seize equipment under paragraph (4)(a) only if:
-
-                     (a)  it is not practicable to copy the data as mentioned in subsection (2) or to put the material in documentary form as mentioned in paragraph (4)(b); or
-
-                     (b)  possession by the occupier of the equipment could constitute an offence.
-
-##### <a id="8ZGB"></a>8ZGB  Person with knowledge of a computer or a computer system to assist access etc.
-
-             (1)  An authorised officer may apply to a magistrate for an order requiring a specified person to provide any information or assistance that is reasonable and necessary to allow an authorised officer or officer assisting to do one or more of the following:
-
-                     (a)  access data held in, or accessible from, a computer or data storage device that:
-
-                              (i)  is on warrant premises; or
-
-                             (ii)  has been removed from warrant premises under subsection 8ZF(2) and is at another place for examination or processing; or
-
-                            (iii)  has been seized under this Division and is no longer on the warrant premises;
-
-                     (b)  copy data held in, or accessible from, a computer, or data storage device, described in paragraph (a) to another data storage device;
-
-                     (c)  convert into documentary form or another form intelligible to an authorised officer or officer assisting:
-
-                              (i)  data held in, or accessible from, a computer, or data storage device, described in paragraph (a); or
-
-                             (ii)  data held in a data storage device to which the data was copied as described in paragraph (b); or
-
-                            (iii)  data held in a data storage device removed from warrant premises under subsection 8ZG(2).
-
-             (2)  The magistrate may grant the order if the magistrate is satisfied that:
-
-                     (a)  there are reasonable grounds for suspecting that evidential material is held in, or is accessible from, the computer or data storage device; and
-
-                     (b)  the specified person is:
-
-                              (i)  reasonably suspected of having committed the relevant offence or relevant civil contravention stated in the relevant warrant; or
-
-                             (ii)  the owner or lessee of the computer or device; or
-
-                            (iii)  an employee of the owner or lessee of the computer or device; or
-
-                            (iv)  a person engaged under a contract for services by the owner or lessee of the computer or device; or
-
-                             (v)  a person who uses or has used the computer or device; or
-
-                            (vi)  a person who is or was a system administrator for the system including the computer or device; and
-
-                     (c)  the specified person has relevant knowledge of:
-
-                              (i)  the computer or device or a computer network of which the computer or device forms or formed a part; or
-
-                             (ii)  measures applied to protect data held in, or accessible from, the computer or device.
-
-             (3)  If:
-
-                     (a)  the computer or data storage device that is the subject of the order is seized under this Division; and
-
-                     (b)  the order was granted on the basis of an application made before the seizure;
-
-the order does not have effect on or after the seizure.
-
-Note:          An application for another order under this section relating to the computer or data storage device may be made after the seizure. If the other order is made after the computer or device has been removed from the warrant premises, that other order can specify conditions relating to the provision of information or assistance.
-
-             (4)  If the computer or data storage device is not on warrant premises, the order must:
-
-                     (a)  specify the period within which the person must provide the information or assistance; and
-
-                     (b)  specify the place at which the person must provide the information or assistance; and
-
-                     (c)  specify the conditions (if any) determined by the magistrate as the conditions to which the requirement on the person to provide the information or assistance is subject.
-
-             (5)  A person commits an offence if the person fails to comply with the order.
-
-                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
-
-##### <a id="8ZGC"></a>8ZGC  Accessing data held on other premises—notification to occupier of that premises
-
-             (1)  If:
-
-                     (a)  data that is held on premises other than the warrant premises is accessed under subsection 8ZG(1) or 8ZGA(1); and
-
-                     (b)  it is practicable to notify the occupier of the other premises that the data has been accessed under a warrant;
-
-the authorised officer must:
-
-                     (c)  do so as soon as practicable; and
-
-                     (d)  if the authorised officer has arranged, or intends to arrange, for continued access to the data under subsection 8ZG(2) or (4) or 8ZGA(2) or (4)—include that information in the notification.
-
-             (2)  A notification under subsection (1) must include sufficient information to allow the occupier of the other premises to contact the authorised officer.
-
-## 70  Paragraph 8ZH(1)(a)
-
-Omit “or 8ZG”, substitute “, 8ZG or 8ZGA”.
-
-## 71  Subsection 8ZL(2)
-
-Omit “paragraph 8ZG(2)(b) or (c)”, substitute “paragraph 8ZG(4)(b) or 8ZGA(4)(b)”.
-
-## 72  Subsection 8ZM(1)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 73  Subsection 8ZM(2)
-
-Omit “Chief Executive Officer” (wherever occurring), substitute “Chief Executive Medicare”.
-
-## 74  Subsection 8ZN(1)
-
-Repeal the subsection, substitute:
-
-             (1)  If, in the exercise of a power under this Part:
-
-                     (a)  an authorised officer; or
-
-                     (b)  an officer assisting;
-
-examines a record containing clinical details relating to an individual patient, the Chief Executive Medicare must advise the patient in writing of the examination of the record.
-
-## 75  Paragraph 8ZN(2)(b)
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-## 76  At the end of subsection 8ZN(2)
-
-Add:
-
-               ; or (c)  the examination of the record did not result in:
-
-                              (i)  the authorised officer; or
-
-                             (ii)  the officer assisting;
-
-                            obtaining any knowledge of any of the clinical details relating to the patient.
-
-## 77  Section 8ZQ
-
-Omit “Chief Executive Officer’s” (wherever occurring), substitute “Chief Executive Medicare’s”.
-
-## 78  At the end of Division 6 of Part IID
-
-Add:
-
-##### <a id="8ZR"></a>8ZR  Powers of magistrates
-
-Powers conferred personally
-
-             (1)  A power conferred on a magistrate by this Part is conferred on the magistrate:
-
-                     (a)  in a personal capacity; and
-
-                     (b)  not as a court or a member of a court.
-
-Powers need not be accepted
-
-             (2)  The magistrate need not accept the power conferred.
-
-Protection and immunity
-
-             (3)  A magistrate exercising a power conferred by this Part has the same protection and immunity as if he or she were exercising the power:
-
-                     (a)  as the court of which the magistrate is a member; or
-
-                     (b)  as a member of the court of which the magistrate is a member.
-
-## 79  Part III
-
-Repeal the Part.
-
-## 80  Paragraph 41C(2)(c)
-
-Omit “the Chief Executive Officer or Medicare Australia”, substitute “the Chief Executive Medicare or the Department”.
-
-## 81  Section 41F
-
-Omit “Chief Executive Officer”, substitute “Chief Executive Medicare”.
-
-_Note:       The heading to section 41F is altered by omitting “Chief Executive Officer” and substituting “Chief Executive Medicare”._
-
-## 82  After section 41F
-
-Insert:
-
-##### <a id="41G"></a>41G  Medicare programs
-
-                   For the purposes of a law of the Commonwealth, the following are **_medicare programs_**:
-
-                     (a)  services, benefits, programs or facilities that are provided for under:
-
-                              (i)  the _Health Insurance Act 1973_; or
-
-                             (ii)  the _National Health Act 1953_; or
-
-                            (iii)  the _Dental Benefits Act 2008_; or
-
-                            (iv)  the _Aged Care Act 1997_; or
-
-                             (v)  the _Healthcare Identifiers Act 2010_; or
-
-                            (vi)  the _Private Health Insurance Act 2007_; or
-
-                           (vii)  the _Health and Other Services (Compensation) Act 1995_;
-
-                     (b)  services, benefits, programs or facilities specified in a legislative instrument made by the Minister for the purposes of this paragraph.
-
-## 83  Subsection 42(1A)
-
-Repeal the subsection.
-
-## 84  Subsection 42(1)
-
-After “annual report”, insert “on the Department’s activities given by the Secretary under section 63 of the _Public Service Act 1999_”.
-
-## 85  Subsection 42(2)
-
-After “annual report”, insert “mentioned in subsection (1)”.
-
-## 86  Subsection 42(3)
-
-Repeal the subsection.
-
-## 87  After section 42
-
-Insert:
-
-##### <a id="43"></a>43  Arrangements with States and Territories—magistrates
-
-States
-
-             (1)  The Governor‑General may make arrangements with the Governor of a State in relation to the performance of the functions of a magistrate under this Act by a magistrate of that State.
-
-             (2)  The Governor‑General may arrange with the Governor of a State with whom an arrangement is in force under subsection (1) for the variation or revocation of the arrangement.
-
-Australian Capital Territory
-
-             (3)  The Governor‑General may make arrangements with the Chief Minister of the Australian Capital Territory in relation to the performance of the functions of a magistrate under this Act by a magistrate of the Australian Capital Territory.
-
-             (4)  The Governor‑General may arrange with the Chief Minister of the Australian Capital Territory for the variation or revocation of an arrangement in force under subsection (3).
-
-Northern Territory
-
-             (5)  The Governor‑General may make arrangements with the Administrator of the Northern Territory in relation to the performance of the functions of a magistrate under this Act by a magistrate of the Northern Territory.
-
-             (6)  The Governor‑General may arrange with the Administrator of the Northern Territory for the variation or revocation of an arrangement in force under subsection (5).
-
-Gazettal
-
-             (7)  A copy of each instrument by which an arrangement under this section is made, varied or revoked is to be published in the _Gazette_.
-
-Legislative instruments
-
-             (8)  An instrument by which an arrangement under this section is made, varied or revoked is not a legislative instrument.
-
-##### <a id="43A"></a>43A  Multiple secrecy provisions
-
-Scope
-
-             (1)  This section applies to particular information if:
-
-                     (a)  the information is subject to a regulatory regime under a designated program Act (the **_first program Act_**); and
-
-                     (b)  the information is also subject to a regulatory regime under another designated program Act (the **_second program Act_**).
-
-For the purposes of this subsection, in determining whether particular information is subject to a regulatory regime under a designated program Act, disregard whether the information is subject to a regulatory regime under any other designated program Act.
-
-Disclosure or use of information etc.
-
-             (2)  If:
-
-                     (a)  the Secretary, the Chief Executive Medicare or a Departmental employee:
-
-                              (i)  discloses the information; or
-
-                             (ii)  uses the information; or
-
-                            (iii)  makes a record of the information; and
-
-                     (b)  the Secretary, the Chief Executive Medicare or the Departmental employee, as the case may be, does so without contravening the first program Act;
-
-the disclosure, use, or making of the record, as the case may be, does not contravene the second program Act.
-
-Definitions
-
-             (3)  In this section:
-
-                    <a name="design-program-act"></a>**_designated program Act_** means:
-
-                     (a)  the _A New Tax System (Family Assistance) (Administration) Act 1999_; or
-
-                     (b)  the _Aged Care Act 1997_; or
-
-                     (c)  the _Child Support (Assessment) Act 1989_; or
-
-                     (d)  the _Child Support (Registration and Collection) Act 1988_; or
-
-                     (e)  the _Dental Benefits Act 2008_; or
-
-                      (f)  the _Disability Services Act 1986_; or
-
-                     (g)  the _Health Insurance Act 1973_; or
-
-                     (h)  the _Medical Indemnity Act 2002_; or
-
-                      (i)  the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
-
-                      (j)  the _National Health Act 1953_; or
-
-                     (k)  the _Paid Parental Leave Act 2010_; or
-
-                      (l)  the _Private Health Insurance Act 2007_; or
-
-                    (m)  the _Social Security (Administration) Act 1999_; or
-
-                     (n)  the _Student Assistance Act 1973_; or
-
-                     (o)  an Act specified in a legislative instrument made by the Minister for the purposes of this paragraph.
-
-                    <a name="disclos"></a>**_disclose_** means disclose, divulge or communicate.
-
-As at 7 June 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -6072,11 +5128,11 @@ The amendment of section 8G of the _Health Insurance Commission Act 1973_ made
 
 A direction that was in force immediately before the commencement of this item under subsection 8J(1) of the _Health Insurance Commission Act 1973_ has effect after the commencement of this item as if it had been given under the corresponding provision of that Act as amended by this Schedule.
 
-## 33  Transitional—appointment of part‑time Commissioners
+## 33  Transitional—appointment of part-time Commissioners
 
-(1)       If a part‑time Commissioner held office under paragraph 10(1)(c) of the _Health Insurance Commission Act 1973_ immediately before the commencement of this item because of a particular instrument of appointment (the **_original instrument of appointment_**), the _Health Insurance Commission Act 1973_ has effect as if:
+(1)        If a part-time Commissioner held office under paragraph 10(1)(c) of the _Health Insurance Commission Act 1973_ immediately before the commencement of this item because of a particular instrument of appointment (the **_original instrument of appointment_**), the _Health Insurance Commission Act 1973_ has effect as if:
 
-                     (a)  the Governor‑General had, by instrument (the **_notional instrument of appointment_**), appointed the Commissioner to an office under paragraph 10(1)(c) of that Act immediately after the commencement of this item; and
+                     (a)  the Governor-General had, by instrument (the **_notional instrument of appointment_**), appointed the Commissioner to an office under paragraph 10(1)(c) of that Act immediately after the commencement of this item; and
 
                      (b)  the period of appointment specified in the notional instrument of appointment were the period:
 
@@ -6084,13 +5140,13 @@ A direction that was in force immediately before the commencement of this item u
 
                              (ii)  ending at the end of the period specified in the Commissioner’s original instrument of appointment.
 
-(2)       Subsection 17(4) of the _Health Insurance Commission Act 1973_ does not apply to a part‑time Commissioner who is taken to have been appointed under subitem (1).
+(2)        Subsection 17(4) of the _Health Insurance Commission Act 1973_ does not apply to a part-time Commissioner who is taken to have been appointed under subitem (1).
 
 ## 34  Transitional—Chairperson and Managing Director
 
-(1)       Subsection 17(4) of the _Health Insurance Commission Act 1973_ does not apply to a person who held office as Chairperson immediately before the commencement of this item.
+(1)        Subsection 17(4) of the _Health Insurance Commission Act 1973_ does not apply to a person who held office as Chairperson immediately before the commencement of this item.
 
-(2)       Subsection 26(3) of the _Health Insurance Commission Act 1973_ does not apply to a person who held office as Managing Director immediately before the commencement of this item.
+(2)        Subsection 26(3) of the _Health Insurance Commission Act 1973_ does not apply to a person who held office as Managing Director immediately before the commencement of this item.
 
 ## 73  Transitional—section 35 of the _Health Insurance Commission Act 1973_ 
 
@@ -6110,7 +5166,7 @@ The insertion of subsection 36(6BA) of the _Health Insurance Commission Act 1973
 
 ## 76  Transitional—annual report of Commission
 
-If the date of commencement of the repeals of paragraphs 42(a), (b) and (c) of the _Health Insurance Commission Act 1973_ by this Schedule is not a 1 July, then, despite those repeals, section 42 of that Act continues to apply, in relation to a report for the financial year in which the fund‑transfer day occurred, as if those repeals had not been made.
+If the date of commencement of the repeals of paragraphs 42(a), (b) and (c) of the _Health Insurance Commission Act 1973_ by this Schedule is not a 1 July, then, despite those repeals, section 42 of that Act continues to apply, in relation to a report for the financial year in which the fund-transfer day occurred, as if those repeals had not been made.
 
 ## 77  Transitional—amendment of paragraph 42(2)(d) of the _Health Insurance Commission Act 1973_
 
@@ -6134,9 +5190,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -6146,9 +5202,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -6156,9 +5212,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -6198,7 +5254,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -6206,7 +5262,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -6222,7 +5278,7 @@ _Human Services Legislation Amendment Act 2005 (No. 111, 2005)_
 
 ## 714  Definitions
 
-(1)       In this Part:
+(1)        In this Part:
 
 **_amend_** includes repeal and remake.
 
@@ -6260,11 +5316,11 @@ but does not include a right, power, privilege or immunity conferred by an Act o
 
 **_Managing Director_** means the Managing Director of HIC.
 
-**_new law_** means the _Medicare Australia Act 1973_ as in force after the commencement time.
+**_new law_** means the _Medicare__Australia__Act 1973_ as in force after the commencement time.
 
 **_old law_** means the _Health Insurance Commission Act 1973_ as in force before the commencement time.
 
-(2)       In this Part, unless a contrary intention is expressed, a reference to a law (however described) is a reference to a law of the Commonwealth.
+(2)        In this Part, unless a contrary intention is expressed, a reference to a law (however described) is a reference to a law of the Commonwealth.
 
 ## 715  Managing Director to become CEO
 
@@ -6272,11 +5328,11 @@ The person who was the Managing Director immediately before the commencement tim
 
 ## 716  Operation of laws—things done by, or in relation to, HIC
 
-(1)       If, before the commencement time, a thing was done by, or in relation to, HIC, a Commissioner, the Managing Director or HeSA, then, for the purposes of the operation of any law after the commencement time, the thing is taken to have been done by, or in relation to, the CEO.
+(1)        If, before the commencement time, a thing was done by, or in relation to, HIC, a Commissioner, the Managing Director or HeSA, then, for the purposes of the operation of any law after the commencement time, the thing is taken to have been done by, or in relation to, the CEO.
 
-(2)       For the purposes of subitem (1), a thing done before the commencement time under a provision amended by this Schedule has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
+(2)        For the purposes of subitem (1), a thing done before the commencement time under a provision amended by this Schedule has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
 
-(3)       The Minister may, by writing, determine that subitem (1):
+(3)        The Minister may, by writing, determine that subitem (1):
 
                      (a)  does not apply in relation to a specified thing done by, or in relation to, HIC, a Commissioner, the Managing Director or HeSA; or
 
@@ -6284,15 +5340,15 @@ The person who was the Managing Director immediately before the commencement tim
 
 A determination under this subitem has effect accordingly.
 
-(4)       The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a person or body other than the CEO, the Commonwealth or Medicare Australia.
+(4)        The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a person or body other than the CEO, the Commonwealth or Medicare Australia.
 
-(5)       To avoid doubt, for the purposes of this item, doing a thing includes making an instrument.
+(5)        To avoid doubt, for the purposes of this item, doing a thing includes making an instrument.
 
-(6)       A determination made under subitem (3) is not a legislative instrument.
+(6)        A determination made under subitem (3) is not a legislative instrument.
 
 ## 717  References in instruments
 
-(1)       If:
+(1)        If:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -6300,7 +5356,7 @@ A determination under this subitem has effect accordingly.
 
 the instrument has effect from the commencement time as if the reference to HIC, the Commissioner, the Managing Director or HeSA were a reference to the CEO.
 
-(2)       If:
+(2)        If:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -6308,7 +5364,7 @@ the instrument has effect from the commencement time as if the reference to HIC,
 
 the instrument has effect from the commencement time as if the reference to the officer of HIC were a reference to an employee of Medicare Australia.
 
-(3)       The Minister may, by writing, determine that subitem (1) or (2):
+(3)        The Minister may, by writing, determine that subitem (1) or (2):
 
                      (a)  does not apply in relation to a specified reference; or
 
@@ -6320,27 +5376,27 @@ the instrument has effect from the commencement time as if the reference to the 
 
 A determination under this subitem has effect accordingly.
 
-(4)       The regulations may provide that an instrument containing a reference specified in a determination under paragraph (3)(a) has effect from the commencement time as if:
+(4)        The regulations may provide that an instrument containing a reference specified in a determination under paragraph (3)(a) has effect from the commencement time as if:
 
                      (a)  in the case of an instrument covered by subitem (1)—the reference were a reference to a person or body other than the CEO, the Commonwealth or Medicare Australia; or
 
                      (b)  in the case of an instrument covered by subitem (2)—the reference were a reference to a person or body other than the CEO or an employee of Medicare Australia.
 
-(5)       This item has effect subject to subitem 718(3).
+(5)        This item has effect subject to subitem 718(3).
 
-(6)       A determination made under subitem (3) is not a legislative instrument.
+(6)        A determination made under subitem (3) is not a legislative instrument.
 
 ## 718  Transfer of assets and liabilities to the Commonwealth
 
 Transfer of assets and liabilities
 
-(1)       At the commencement time:
+(1)        At the commencement time:
 
                      (a)  the assets and liabilities of HIC become assets and liabilities of the Commonwealth without any conveyance, transfer or assignment; and
 
                      (b)  the Commonwealth becomes HIC’s successor in law in relation to those assets and liabilities.
 
-(2)       At the commencement time:
+(2)        At the commencement time:
 
                      (a)  the assets and liabilities of HeSA become assets and liabilities of the Commonwealth without any conveyance, transfer or assignment; and
 
@@ -6348,7 +5404,7 @@ Transfer of assets and liabilities
 
 Instruments relating to transferred assets and liabilities
 
-(3)       If:
+(3)        If:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -6360,7 +5416,7 @@ the reference is to be read as a reference to the Commonwealth as necessary to g
 
 Proceedings relating to transferred assets and liabilities
 
-(4)       If, immediately before the commencement time, any proceedings:
+(4)        If, immediately before the commencement time, any proceedings:
 
                      (a)  that related to assets or liabilities covered by subitem (1) or (2); and
 
@@ -6370,13 +5426,13 @@ were pending in any court or tribunal, then, from the commencement time, the Com
 
 ## 719  Recording Commonwealth ownership of assets and liabilities
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  an asset or liability becomes an asset or liability of the Commonwealth under item 718; and
 
                      (b)  a law of the Commonwealth or a State or Territory provides for the registration or recording of interests, or the transfer of interests, in such an asset or liability.
 
-(2)       The Minister may give the person responsible for such registration or recording (the **_registration official_**) a certificate that:
+(2)        The Minister may give the person responsible for such registration or recording (the **_registration official_**) a certificate that:
 
                      (a)  is signed by the Minister; and
 
@@ -6384,13 +5440,13 @@ were pending in any court or tribunal, then, from the commencement time, the Com
 
                      (c)  states that, under item 718, the asset or liability has become an asset or liability of the Commonwealth.
 
-(3)       The registration official may:
+(3)        The registration official may:
 
                      (a)  deal with, and give effect to, the certificate as if it were a proper and appropriate instrument for transactions in relation to assets or liabilities of that kind; and
 
                      (b)  make such entries in the register or record as are necessary having regard to the effect of this Part.
 
-(4)       A document that appears to be a certificate given in accordance with subitem (2):
+(4)        A document that appears to be a certificate given in accordance with subitem (2):
 
                      (a)  is taken to be such a certificate; and
 
@@ -6402,7 +5458,7 @@ unless the contrary is established.
 
 Transfer of appropriations
 
-(1)       If:
+(1)        If:
 
                      (a)  a provision of an Act or regulations provides for, or relates to, the appropriation of money out of the Consolidated Revenue Fund; and
 
@@ -6410,19 +5466,19 @@ Transfer of appropriations
 
 the reference to HIC is to be read from the commencement time as a reference to Medicare Australia.
 
-(2)       The Minister may, by writing, determine that a particular reference to HIC covered by subitem (1) is to be read as a reference to the CEO. A determination under this subitem has effect accordingly.
+(2)        The Minister may, by writing, determine that a particular reference to HIC covered by subitem (1) is to be read as a reference to the CEO. A determination under this subitem has effect accordingly.
 
-(3)       A determination made under subitem (2) is not a legislative instrument.
+(3)        A determination made under subitem (2) is not a legislative instrument.
 
-Re‑appropriation of money
+Re-appropriation of money
 
-(4)       If an amount of money (the **_original amount_**) becomes an asset of the Commonwealth under item 718, an amount equal to the original amount may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, for the purposes of Medicare Australia.
+(4)        If an amount of money (the **_original amount_**) becomes an asset of the Commonwealth under item 718, an amount equal to the original amount may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, for the purposes of Medicare Australia.
 
 ## 721  Transfer of staff
 
 Long service leave
 
-(1)       If:
+(1)        If:
 
                      (a)  a member of the staff of HIC transfers, or is transferred, to Medicare Australia; and
 
@@ -6432,9 +5488,9 @@ the previous employment must be taken into account in a similar manner for the p
 
 Other staffing matters
 
-(2)       The regulations may prescribe other matters of a transitional nature in relation to the transfer of staff from HIC to Medicare Australia.
+(2)        The regulations may prescribe other matters of a transitional nature in relation to the transfer of staff from HIC to Medicare Australia.
 
-(3)       Without limiting subitem (2), regulations under that subitem may provide for:
+(3)        Without limiting subitem (2), regulations under that subitem may provide for:
 
                      (a)  some or all of the entitlements and obligations of the staff of HIC to be preserved; or
 
@@ -6450,9 +5506,9 @@ Other staffing matters
 
                              (ii)  things done by, for or in relation to HIC or a staff member of HIC before the commencement time.
 
-(4)       Regulations made under this item have effect despite the _Public Service Act 1999_.
+(4)        Regulations made under this item have effect despite the _Public Service Act 1999_.
 
-(5)       In this item:
+(5)        In this item:
 
 **_staffing procedures_** includes procedures and policies related to recruitment, promotion, performance management, inefficiency, misconduct, forfeiture of position, fitness for duty, loss of essential qualifications, disciplinary action, reviews of or appeals against staffing decisions, transfers, redundancy, resignations, termination of employment, grievance processes and leave.
 
@@ -6468,7 +5524,7 @@ For the purposes of the operation of subsection 27L(4) of the _Commonwealth Auth
 
 Financial statements
 
-(1)       If:
+(1)        If:
 
                      (a)  immediately before the commencement time, a law required HIC, a Commissioner or the Managing Director to provide financial statements for a period; and
 
@@ -6478,7 +5534,7 @@ the CEO must, within 3 months after the commencement time, provide the statement
 
 Other reporting requirements
 
-(2)       If:
+(2)        If:
 
                      (a)  immediately before the commencement time, a law required HIC, a Commissioner or the Managing Director to provide a report (other than financial statements) for a period; and
 
@@ -6486,7 +5542,7 @@ Other reporting requirements
 
 the CEO must provide the report, as required, for so much of the period as occurs before the commencement time.
 
-(3)       If:
+(3)        If:
 
                      (a)  under subitem (2), the CEO is required to provide a report for a part of a period; and
 
@@ -6496,7 +5552,7 @@ the CEO may meet the requirements in a single report for the period.
 
 Outstanding reporting requirements
 
-(4)       If:
+(4)        If:
 
                      (a)  a law required HIC, a Commissioner or the Managing Director to provide a report (whether financial statements or otherwise) for a period that ended before the commencement time; and
 
@@ -6506,9 +5562,9 @@ the CEO must provide the report as required.
 
 ## 725  Substitution of parties to proceedings
 
-(1)       If, immediately before the commencement time, any proceedings to which HIC, a Commissioner, the Managing Director or HeSA was a party were pending in any court or tribunal, then, from the commencement time, the CEO is substituted for HIC, the Commissioner, the Managing Director or HeSA as a party to the proceedings.
+(1)        If, immediately before the commencement time, any proceedings to which HIC, a Commissioner, the Managing Director or HeSA was a party were pending in any court or tribunal, then, from the commencement time, the CEO is substituted for HIC, the Commissioner, the Managing Director or HeSA as a party to the proceedings.
 
-(2)       This item has effect subject to subitem 718(4).
+(2)        This item has effect subject to subitem 718(4).
 
 ## 726  Exemption from stamp duty and other State or Territory taxes
 
@@ -6520,7 +5576,7 @@ No stamp duty or other tax is payable under a law of a State or Territory in res
 
 ## 727  Constitutional safety net—acquisition of property
 
-(1)       If:
+(1)        If:
 
                      (a)  a provision of this Schedule would result in an acquisition of property; and
 
@@ -6532,15 +5588,15 @@ the Commonwealth must pay that person:
 
                      (d)  failing agreement—a reasonable amount of compensation determined by a court of competent jurisdiction.
 
-(2)       Any damages or compensation recovered, or other remedy given, in a proceeding begun otherwise than under this item must be taken into account in assessing compensation payable in a proceeding begun under this item and arising out of the same event or transaction.
+(2)        Any damages or compensation recovered, or other remedy given, in a proceeding begun otherwise than under this item must be taken into account in assessing compensation payable in a proceeding begun under this item and arising out of the same event or transaction.
 
-(3)       In this item:
+(3)        In this item:
 
 **_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
 ## 730  Delegation by Minister
 
-(1)       The Minister may, by writing, delegate all or any of his or her powers and functions under this Part to:
+(1)        The Minister may, by writing, delegate all or any of his or her powers and functions under this Part to:
 
                      (a)  the Secretary of the Department; or
 
@@ -6548,18 +5604,18 @@ the Commonwealth must pay that person:
 
                      (c)  the CEO.
 
-(2)       In exercising or performing powers or functions under a delegation, the delegate must comply with any directions of the Minister.
+(2)        In exercising or performing powers or functions under a delegation, the delegate must comply with any directions of the Minister.
 
-(3)       A power or function delegated to the CEO under subitem (1) must not be sub‑delegated under subsection 8AC(3) of the _Medicare Australia Act 1973_.
+(3)        A power or function delegated to the CEO under subitem (1) must not be sub-delegated under subsection 8AC(3) of the _Medicare__Australia__Act 1973_.
 
 ## 731  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Schedule to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
-(2)       In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
+(2)        In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
 
  
