@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00594/Html/61f9a035-6a2d-4294-8844-e12027694ee7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00537/Html/d7dba871-5221-4183-be44-51cad3977bcf_files/image001.gif)
 
 # National Water Commission Act 2004
 
 **Act No. 156 of 2004 as amended**
 
-This compilation was prepared on 9 August 2012
+This compilation was prepared on 28 June 2012
  taking into account amendments up to Act No. 70 of 2012
 
 The text of any of those amendments not in force
@@ -108,15 +108,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [37](#37).          Consultants and independent contractors
 
-**Part 5—Reviews of the NWC**
+**Part 5—Review of the NWC**
 
-[38](#38).          Reviews of the NWC
+[38](#38).          Review of the NWC
+
+**Part 6—The Australian Water Fund Account**
+
+[40](#40).          Establishment of the Australian Water Fund Account
+
+[41](#41).          Credits of amounts to Account
+
+[42](#42).          Purposes of Account
 
 **Part 7—Miscellaneous**
 
 [43](#43).          Confidentiality
 
-[44](#44).          Public availability of certain documents
+[44](#44).          Public availability of assessments
 
 [45](#45).          Annual report
 
@@ -144,11 +152,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
+                    <a name="australian-water-fund"></a>**_Australian Water Fund_** means the Australian Water Fund announced by the Minister on 13 September 2004.
+
+                    <a name="australian-water-fund-account"></a>**_Australian Water Fund Account_** means the Australian Water Fund Account established by section 40.
+
                     <a name="chief-execut-offic"></a><a name="ceo"></a>**_CEO_** or **_Chief Executive Officer_** means the Chief Executive Officer appointed in accordance with section 25.
 
                     <a name="chair"></a>**_Chair_** means the Chair of the NWC.
 
-                    <a name="coag"></a>**_COAG_** means the Council of Australian Governments, and includes any subcommittee (however described) of COAG that deals with matters relating to water.
+                    <a name="coag"></a>**_COAG_** means the Council of Australian Governments.
 
                     <a name="coag-water-reform-framework"></a>**_COAG Water Reform Framework_** means the agreement, executed by COAG in 1994 to reform the management and regulation of Australia’s water resources, as incorporated into the Agreement to Implement National Competition Policy and Related Reforms, and as amended from time to time.
 
@@ -157,6 +169,12 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="full-time-ceo"></a>**_full‑time CEO_** means a CEO appointed on a full‑time basis.
 
                     <a name="full-time-commission"></a>**_full‑time Commissioner_** means a Commissioner appointed on a full‑time basis.
+
+                    <a name="manag-ministeri-council"></a><a name="natur-resourc"></a>**_Natural Resource_** **_Management Ministerial Council_** means:
+
+                     (a)  subject to paragraph (b), the Natural Resource Management Council established by COAG in June 2001; or
+
+                     (b)  if another body is prescribed by the regulations for the purposes of this definition—that other body.
 
                     <a name="nation-water-commiss"></a><a name="nwc"></a>**_NWC_** or **_National Water Commission_** means the National Water Commission established by section 6.
 
@@ -178,47 +196,79 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="7"></a>7  Functions of the NWC
 
-             (1)  The NWC has the following functions:
+General functions
 
-                     (a)  if requested by COAG, to carry out audits to determine:
+             (1)  The NWC has the following general functions:
 
-                              (i)  whether parties to the NWI are implementing their commitments under the NWI, or any other agreement between the Commonwealth and a State or Territory, in relation to the parties’ management and regulation of their water resources; and
+                     (a)  to assist with the implementation of the NWI, and to undertake activities that promote the objectives and outcomes of the NWI;
 
-                             (ii)  the effectiveness of that implementation;
+                     (b)  if requested to do so by the Minister, to advise and make recommendations to the Commonwealth on matters of national significance relating to water (including the sustainable management of water resources and access to, and use of, water);
 
-                     (b)  every 3 years:
+                   (ba)  to advise and make recommendations to COAG on matters referred to in paragraph (b);
 
-                              (i)  to assess the progress of parties to the NWI towards achieving the objectives and outcomes of, and within the timelines required by, the NWI; and
+                     (c)  if requested to do so by the Minister, to advise and make recommendations to the Minister on matters relating to water;
+
+                     (d)  if requested to do so by the Minister, to advise and make recommendations to the Minister in relation to:
+
+                              (i)  the Australian Water Fund; or
+
+                             (ii)  any other Commonwealth program that relates to the management and regulation of Australia’s water resources;
+
+                     (e)  to advise the Commonwealth or COAG, where relevant, on whether a State or Territory is implementing its commitments under any agreement (other than the NWI or the COAG Water Reform Framework) between the Commonwealth and the State or Territory relating to the management and regulation of Australia’s water resources, if the agreement provides for the NWC to have this function;
+
+                      (f)  any other function conferred by another law of the Commonwealth or prescribed by the regulations.
+
+Specific functions relating to implementing the NWI
+
+             (2)  The NWC has the following specific functions relating to implementing the NWI:
+
+                     (a)  to undertake an initial assessment of:
+
+                              (i)  Australia’s water resources; and
+
+                             (ii)  the governance, management and regulation of those resources;
+
+                            having regard to work already carried out by parties to the NWI and, if required, undertaking further work in order to make that assessment;
+
+                     (b)  to advise COAG of the NWC’s initial assessment under paragraph (a);
+
+                     (c)  to determine whether the plans of the parties to the NWI for implementing the NWI are consistent with the objectives, outcomes, actions and timelines stated in the NWI, and to accredit those plans in accordance with the NWI;
+
+                     (d)  to advise COAG of the NWC’s determination and any accreditations under paragraph (c);
+
+                     (e)  to advise the Commonwealth or COAG, where relevant, on whether the parties to the NWI are implementing their commitments under the NWI;
+
+                      (f)  to monitor the impact of interstate trade in water access entitlements in the Southern Murray‑Darling Basin, and to advise the relevant parties to the NWI on that impact;
+
+                     (g)  every 2 years starting  in 2006‑07, to assess against national benchmarks the performance of the water industry in managing and using Australia’s water resources (for example, in water pricing, water management costs and irrigation efficiency), and to advise COAG of those assessments;
+
+                     (h)  for 2006‑07 and 2008‑09:
+
+                              (i)  to assess the progress of parties to the NWI towards achieving the objectives and outcomes stated in, and within the timelines required by, the NWI; and
 
                              (ii)  to advise COAG of those assessments; and
 
                             (iii)  to advise and make recommendations to COAG on actions that the parties might take to better achieve those objectives and outcomes;
 
-                     (c)  to conduct any other assessments in relation to matters relating to:
+                      (i)  in 2010‑11, to review the NWI comprehensively, including assessing:
 
-                              (i)  the NWI; or
+                              (i)  the NWI against performance indicators that are developed by the Natural Resource Management Ministerial Council in consultation with the NWC; and
 
-                             (ii)  any other agreement between the Commonwealth and a State or Territory, but only if that other agreement provides for the NWC to have this function;
+                             (ii)  the extent to which actions taken under the NWI have improved the sustainable management of Australia’s water resources and have contributed to the national interest; and
 
-                            particularly in relation to matters that are significant for achieving the objectives and outcomes of the NWI;
+                            (iii)  the impact of the implementation of the NWI on regional, rural and urban communities;
 
-                     (d)  to monitor areas that are significant for achieving the objectives and outcomes of the NWI;
+                            and to advise COAG of the outcome of the review and the assessment.
 
-                     (e)  to assist with the implementation of the NWI by providing information and guidance in relation to the functions mentioned in paragraphs (a) to (d), and to undertake activities that promote the objectives and outcomes of the NWI;
+Specific functions relating to implementing the COAG Water Reform Framework
 
-                      (f)  if requested to do so by the Minister, to advise and make recommendations to the Commonwealth in relation to the functions mentioned in paragraphs (a) to (d);
+             (3)  The NWC has the following specific functions relating to implementing the COAG Water Reform Framework:
 
-                     (g)  if requested to do so by the Minister, to advise and make recommendations to the Minister in relation to any Commonwealth program that relates to the management and regulation of Australia’s water resources;
+                     (a)  for 2005, to assess whether the parties to the NWI have implemented their commitments under the COAG Water Reform Framework, and to advise the Commonwealth of that assessment;
 
-                     (h)  to advise COAG on whether a State or Territory is implementing its commitments under any agreement (other than the NWI) between the Commonwealth and the State or Territory relating to the management and regulation of Australia’s water resources, but only if the agreement provides for the NWC to have this function;
+                     (b)  for 2005, if requested to do so by the Minister, to assess whether States or Territories that are not a party to the NWI have implemented their commitments under the COAG Water Reform Framework, and to advise the Commonwealth of that assessment;
 
-                      (i)  if requested by COAG, to conduct any study or analysis, or to provide any report, in relation to:
-
-                              (i)  matters of national significance relating to water (including the sustainable management of water resources and access to, and use of, water); or
-
-                             (ii)  the COAG Water Reform Framework;
-
-                      (j)  any other function conferred by another law of the Commonwealth or prescribed by the regulations.
+                     (c)  for subsequent years, if requested to do so by the Minister, to advise the Commonwealth on the progress of a State or Territory that has a commitment still to be implemented under the COAG Water Reform Framework towards implementing that commitment.
 
 Giving advice and making recommendations
 
@@ -228,7 +278,7 @@ Giving advice and making recommendations
 
 Parties to the NWI include the Commonwealth
 
-             (5)  To avoid doubt, a reference in this section (other than in subsection (4A)) to the parties to the NWI includes a reference to the Commonwealth.
+             (5)  To avoid doubt, a reference in this section (other than in paragraph (2)(c) or subsection (4A)) to the parties to the NWI includes a reference to the Commonwealth.
 
 ## Part 3—Constitution of the NWC
 
@@ -238,13 +288,13 @@ Parties to the NWI include the Commonwealth
 
                      (a)  the Chair; and
 
-                     (b)  at least 2, but no more than 4, Commissioners nominated in accordance with subsection (2) or (3).
+                     (b)  at least 3, but no more than 6, Commissioners nominated in accordance with subsection (2) or (3).
 
 Note:          The Chair is also a Commissioner: see the definition of **_Commissioner_** in section 4.
 
-             (2)  The Commonwealth must nominate a person to be appointed as the Chair in consultation with the other parties to the NWI. The Commonwealth may nominate no more than 2 other persons to be appointed as Commissioners.
+             (2)  The Commonwealth must nominate a person to be appointed as the Chair in consultation with the other parties to the NWI. The Commonwealth may nominate no more than 3 other persons to be appointed as Commissioners.
 
-             (3)  The parties to the NWI (other than the Commonwealth) may nominate no more than 2 persons to be appointed as Commissioners.
+             (3)  The parties to the NWI (other than the Commonwealth) may nominate no more than 3 persons to be appointed as Commissioners.
 
 ##### <a id="9"></a>9  Duty of Chair
 
@@ -312,7 +362,7 @@ Note 2:       For rules that apply to acting appointments, see secti
 
 ##### <a id="16"></a>16  Other terms and conditions
 
-                   A Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor‑General.
+                   A Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor‑General.
 
 ##### <a id="17"></a>17  Resignation
 
@@ -360,13 +410,13 @@ Additional grounds: part‑time Commissioners
 
 ##### <a id="19"></a>19  Meetings
 
-             (1)  The Chair must convene at least 5 meetings of the NWC in each calendar year.
+             (1)  The Chair must convene at least 8 meetings of the NWC in each calendar year.
 
              (2)  Meetings of the NWC must be held at such places as the Chair determines.
 
 Note:          Section 33B of the _Acts Interpretation Act 1901_ provides for participation in meetings by telephone etc.
 
-             (3)  At a meeting of the NWC, 3 Commissioners constitute a quorum.
+             (3)  At a meeting of the NWC, 4 Commissioners constitute a quorum.
 
              (4)  The Chair must preside at all meetings of the NWC at which he or she is present.
 
@@ -418,7 +468,11 @@ Disclosure to be recorded in the minutes of the meeting
 
              (1)  The functions of the CEO are:
 
-                     (a)  to administer financial assistance, awarded by the Minister to particular projects relating to Australia’s water resources, from any Commonwealth program referred to in paragraph 7(1)(g); and
+                     (a)  to administer financial assistance, awarded by the Minister to particular projects relating to Australia’s water resources, from:
+
+                              (i)  the Australian Water Fund Account; or
+
+                             (ii)  any other Commonwealth program referred to in subparagraph 7(1)(d)(ii); and
 
                      (b)  to manage the day‑to‑day administration of the NWC.
 
@@ -432,11 +486,9 @@ Disclosure to be recorded in the minutes of the meeting
 
 Note:          The CEO  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
 
-             (2)  The CEO holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
+             (2)  The CEO holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
              (3)  A person may be appointed as both the CEO and a Commissioner (including the Chair). However, one of those appointments must be made on a part‑time basis.
-
-Note:          A person who is appointed as both the CEO and a Commissioner would be appointed for up to 5 years as CEO, and up to 3 years as a Commissioner (see subsection (2) of this section and subsection 11(2)).
 
 ##### <a id="26"></a>26  Acting CEO
 
@@ -564,23 +616,45 @@ Reimbursement by the Commonwealth
 
              (3)The terms and conditions of engagement are as determined by the CEO in writing.
 
-## Part 5—Reviews of the NWC
+## Part 5—Review of the NWC
 
-##### <a id="38"></a>38  Reviews of the NWC
+##### <a id="38"></a>38  Review of the NWC
 
-             (1)  Reviews must be conducted of the NWC’s ongoing role and functions in relation to the management and regulation of Australia’s water resources.
+             (1)  After the NWC has reviewed the NWI comprehensively and advised COAG of the outcome of the review (as required by paragraph 7(2)(i)), a review must be conducted of the NWC’s ongoing role and functions in relation to the management and regulation of Australia’s water resources.
 
-             (2)  A review must be conducted before the end of:
-
-                     (a)  2017; and
-
-                     (b)  every following 5 year period.
-
-          (2A)  If COAG has provided for a review to be conducted in accordance with a process, the review must be conducted in accordance with that process.
-
-          (2B)  A written report must be made about a review.
+             (2)  The review must be conducted by the end of 2011 in accordance with the processes provided for under the NWI or otherwise directed by COAG, and a written report about the review must be made.
 
              (3)  The Minister must cause a copy of the report to be laid before each House of Parliament within 15 sitting days after the Minister receives the report.
+
+## Part 6—The Australian Water Fund Account
+
+##### <a id="40"></a>40  Establishment of the Australian Water Fund Account
+
+             (1)  The Australian Water Fund Account is established by this section.
+
+Note:          The Australian Water Fund Account represents only part of the Australian Water Fund.
+
+             (2)  The Account is a Special Account for the purposes of the _Financial Management and Accountability Act 1997_.
+
+##### <a id="41"></a>41  Credits of amounts to Account
+
+                   There must be credited to the Account amounts equal to amounts that are given or bequeathed for the purposes of the Account.
+
+Note:          An Appropriation Act provides for amounts to be credited to a Special Account if any of the purposes of the Account is a purpose that is covered by an item in the Appropriation Act.
+
+##### <a id="42"></a>42  Purposes of Account
+
+                   The purposes of the Special Account, in relation to which amounts may be debited from the Account, are:
+
+                     (a)  to provide financial assistance that is:
+
+                              (i)  awarded by the Minister to particular projects relating to Australia’s water resources; and
+
+                             (ii)  determined by the Minister to be provided from the Account; or
+
+                     (b)  to pay or discharge the costs, expenses or other obligations incurred by the Commonwealth in the performance of the NWC’s functions under this Act or the regulations; or
+
+                     (c)  to pay any remuneration or allowances payable to any person under this Act.
 
 ## Part 7—Miscellaneous
 
@@ -602,13 +676,13 @@ Reimbursement by the Commonwealth
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="44"></a>44  Public availability of certain documents
+##### 44  Public availability of assessments
 
-             (1)  The NWC must make any audit or assessment done for the purposes of paragraph 7(1)(a), (b) or (c) (including any advice given or recommendation made for the purposes of any of those paragraphs) available to the public on the NWC’s website, unless the Minister does not agree.
+             (1)  The NWC must make its assessments and recommendations under subsections 7(2) and (3) available to the public unless the Minister does not agree.
 
-             (2)  If the Minister does not agree under subsection (1), the Minister must advise the NWC of the reasons for not agreeing. The NWC must make these reasons available to the public on the NWC’s website.
+             (2)  The NWC must not make any other advice or recommendations available to the public without the agreement of the Minister.
 
-             (3)  The NWC must not make any advice or recommendation (other than an advice or recommendation referred to in subsection (1)) available to the public without the agreement of the Minister.
+             (3)  If agreement is not given under subsection (1), the Minister must advise the NWC of the reasons why agreement has not been given. The NWC must make these reasons available to the public.
 
 ##### <a id="45"></a>45  Annual report
 
@@ -616,7 +690,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 Note:          See also section 34C of the _Acts Interpretation Act 1901_, which contains extra rules about annual reports.
 
-             (2)  If financial assistance from a Commonwealth program referred to in paragraph 7(1)(g) was administered during a year under this Act, then the report relating to that year must set out:
+             (2)  If financial assistance from the Australian Water Fund Account or another Commonwealth program referred to in subparagraph 7(1)(d)(ii) was administered during a year under this Act, then the report relating to that year must set out:
 
                      (a)  the name of the individual or body to whom financial assistance was given; and
 
@@ -647,6 +721,8 @@ The _National Water Commission Act 2004_ as shown in this compilation comprises 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
+
+###  
 
 <table>
 <colgroup>
@@ -741,7 +817,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–24): 1 July 2012 
+    <div>Schedule 1 (items 1–24): \[ <i>see</i>Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -773,22 +849,6 @@ Remainder: Royal Assent</div>
   </tr>
   <tr>
     <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td>
-      <div>am. No. 70, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div><b>Part 2</b></div>
     </td>
     <td>
@@ -801,7 +861,7 @@ Remainder: Royal Assent</div>
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 138, 2007; No. 70, 2012</div>
+    <div>am. No. 138, 2007</div>
   </td>
 </tr>
 <tr>
@@ -810,14 +870,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2012</div>
   </td>
 </tr>
 <tr>
@@ -846,14 +898,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -870,22 +914,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision B</b></div>
   </td>
   <td>
@@ -894,26 +922,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 25(1)</div>
   </td>
   <td>
     <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 25(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 2012</div>
   </td>
 </tr>
 <tr>
@@ -950,47 +962,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 5</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 38</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39</div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6</div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40–42</div>
   </td>
   <td>
     <div>rep. No. 70, 2012</div>
@@ -1014,20 +986,170 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>rs. No. 70, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 45</div>
   </td>
   <td>
     <div>am. No. 70, 2012</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_National Water Commission Amendment Act 2012 (No. 70, 2012)_
+
+The following amendments commences on 1 July 2012:
+
+## Schedule 1
+
+## 1  Section 4 (definition of _Australian Water Fund_)
+
+Repeal the definition.
+
+## 2  Section 4 (definition of _Australian Water Fund Account_)
+
+Repeal the definition.
+
+## 3  Section 4 (at the end of the definition of _COAG_)
+
+Add “, and includes any subcommittee (however described) of COAG that deals with matters relating to water”.
+
+## 4  Section 4 (definition of _Natural Resource Management Ministerial Council_)
+
+Repeal the definition.
+
+## 6  Subsections 7(1), (2) and (3)
+
+Repeal the subsections, substitute:
+
+             (1)  The NWC has the following functions:
+
+                     (a)  if requested by COAG, to carry out audits to determine:
+
+                              (i)  whether parties to the NWI are implementing their commitments under the NWI, or any other agreement between the Commonwealth and a State or Territory, in relation to the parties’ management and regulation of their water resources; and
+
+                             (ii)  the effectiveness of that implementation;
+
+                     (b)  every 3 years:
+
+                              (i)  to assess the progress of parties to the NWI towards achieving the objectives and outcomes of, and within the timelines required by, the NWI; and
+
+                             (ii)  to advise COAG of those assessments; and
+
+                            (iii)  to advise and make recommendations to COAG on actions that the parties might take to better achieve those objectives and outcomes;
+
+                     (c)  to conduct any other assessments in relation to matters relating to:
+
+                              (i)  the NWI; or
+
+                             (ii)  any other agreement between the Commonwealth and a State or Territory, but only if that other agreement provides for the NWC to have this function;
+
+                            particularly in relation to matters that are significant for achieving the objectives and outcomes of the NWI;
+
+                     (d)  to monitor areas that are significant for achieving the objectives and outcomes of the NWI;
+
+                     (e)  to assist with the implementation of the NWI by providing information and guidance in relation to the functions mentioned in paragraphs (a) to (d), and to undertake activities that promote the objectives and outcomes of the NWI;
+
+                      (f)  if requested to do so by the Minister, to advise and make recommendations to the Commonwealth in relation to the functions mentioned in paragraphs (a) to (d);
+
+                     (g)  if requested to do so by the Minister, to advise and make recommendations to the Minister in relation to any Commonwealth program that relates to the management and regulation of Australia’s water resources;
+
+                     (h)  to advise COAG on whether a State or Territory is implementing its commitments under any agreement (other than the NWI) between the Commonwealth and the State or Territory relating to the management and regulation of Australia’s water resources, but only if the agreement provides for the NWC to have this function;
+
+                      (i)  if requested by COAG, to conduct any study or analysis, or to provide any report, in relation to:
+
+                              (i)  matters of national significance relating to water (including the sustainable management of water resources and access to, and use of, water); or
+
+                             (ii)  the COAG Water Reform Framework;
+
+                      (j)  any other function conferred by another law of the Commonwealth or prescribed by the regulations.
+
+## 8  Subsection 7(5)
+
+Omit “paragraph (2)(c) or”.
+
+## 9  Paragraph 8(1)(b)
+
+Omit “3, but no more than 6,”, substitute “2, but no more than 4,”.
+
+## 10  Subsections 8(2) and (3)
+
+Omit “3”, substitute “2”.
+
+## 11  Subsection 19(1)
+
+Omit “8 meetings”, substitute “5 meetings”.
+
+## 13  Subsection 19(3)
+
+Omit “4 Commissioners”, substitute “3 Commissioners”.
+
+## 14  Paragraph 24(1)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  to administer financial assistance, awarded by the Minister to particular projects relating to Australia’s water resources, from any Commonwealth program referred to in paragraph 7(1)(g); and
+
+## 15  Subsection 25(2)
+
+Omit “3 years”, substitute “5 years”.
+
+## 16  At the end of subsection 25(3)
+
+Add:
+
+Note:          A person who is appointed as both the CEO and a Commissioner would be appointed for up to 5 years as CEO, and up to 3 years as a Commissioner (see subsection (2) of this section and subsection 11(2)).
+
+## 17  Part 5 (heading)
+
+Repeal the heading, substitute:
+
+## Part 5—Reviews of the NWC
+
+## 18  Section 38 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="38"></a>38  Reviews of the NWC
+
+## 19  Subsection 38(1)
+
+Omit “After the NWC has reviewed the NWI comprehensively and advised COAG of the outcome of the review (as required by paragraph 7(2)(i)), a review”, substitute “Reviews”.
+
+## 20  Subsection 38(2)
+
+Repeal the subsection, substitute:
+
+             (2)  A review must be conducted before the end of:
+
+                     (a)  2017; and
+
+                     (b)  every following 5 year period.
+
+          (2A)  If COAG has provided for a review to be conducted in accordance with a process, the review must be conducted in accordance with that process.
+
+          (2B)  A written report must be made about a review.
+
+## 21  Part 6
+
+Repeal the Part.
+
+## 22  Section 44
+
+Repeal the section, substitute:
+
+##### <a id="44"></a>44  Public availability of certain documents
+
+             (1)  The NWC must make any audit or assessment done for the purposes of paragraph 7(1)(a), (b) or (c) (including any advice given or recommendation made for the purposes of any of those paragraphs) available to the public on the NWC’s website, unless the Minister does not agree.
+
+             (2)  If the Minister does not agree under subsection (1), the Minister must advise the NWC of the reasons for not agreeing. The NWC must make these reasons available to the public on the NWC’s website.
+
+             (3)  The NWC must not make any advice or recommendation (other than an advice or recommendation referred to in subsection (1)) available to the public without the agreement of the Minister.
+
+## 23  Subsection 45(2)
+
+Omit “the Australian Water Fund Account or another Commonwealth program referred to in subparagraph 7(1)(d)(ii) ”, substitute “a Commonwealth program referred to in paragraph 7(1)(g)”.
+
+As at 28 June 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1051,6 +1173,12 @@ _National Water Commission Amendment Act 2012 (No. 70, 2012)_
 
 ## Schedule 1
 
+## 28  Application provision—annual reports
+
+The amendment of subsection 45(1) of the _National Water Commission Act 2004_ made by this Schedule applies in relation to the financial year ending on 30 June 2012 and later financial years.
+
+The following provisions commence on 1 July 2012:
+
 ## 5  Saving provision—repeal of definition
 
 Despite the repeal of the definition of **_Natural Resource Management Ministerial Council_** by this Schedule, that definition continues to apply, after this item commences, for the purposes of the _Water Act 2007_ as if the repeal had not happened.
@@ -1068,9 +1196,5 @@ The amendment of subsection 19(1) of the _National Water Commission Act 2004_ ma
 ## 24  Application provision—financial assistance and annual report
 
 The amendment of subsection 45(2) of the _National Water Commission Act 2004_ made by this Schedule applies in relation to the financial year ending on 30 June 2013 and later financial years.
-
-## 28  Application provision—annual reports
-
-The amendment of subsection 45(1) of the _National Water Commission Act 2004_ made by this Schedule applies in relation to the financial year ending on 30 June 2012 and later financial years.
 
  
