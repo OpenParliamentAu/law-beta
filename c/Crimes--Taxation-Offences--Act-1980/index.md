@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00831/Html/CrimesTaxationOffences1980WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00563/Html/CrimesTaxationOffences1980WD02_image001.gif)
 
 # Crimes (Taxation Offences) Act 1980
 
 **Act No. 156 of 1980 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 28 September 2007
+ taking into account amendments up to Act No. 143 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,57 +20,57 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         Extension to external Territories and Australian installations
+[3A](#3A).         Extension to external Territories and Australian installations             6
 
-[4](#4).            Secrecy
+[4](#4).            Secrecy                                                                                                 6
 
 **Part II—Offences relating to income tax**
 
-[5](#5).            Arrangements to avoid payment of income tax
+[5](#5).            Arrangements to avoid payment of income tax                                   8
 
-[6](#6).            Aiding and abetting
+[6](#6).            Aiding and abetting                                                                              9
 
-[7](#7).            Arrangements to secure inability to pay income tax
+[7](#7).            Arrangements to secure inability to pay income tax                         10
 
-[8](#8).            Offences in relation to particular transactions
+[8](#8).            Offences in relation to particular transactions                                   11
 
-[9](#9).            Prosecutions and convictions
+[9](#9).            Prosecutions and convictions                                                            13
 
-[10](#10).          Evidence
+[10](#10).          Evidence                                                                                             13
 
-[11](#11).          Stay of proceedings
+[11](#11).          Stay of proceedings                                                                           14
 
-[12](#12).          Additional penalty
+[12](#12).          Additional penalty                                                                             14
 
 **Part IV—Offences relating to fringe benefits tax**
 
-[14](#14).          Application of Part I and Part II in relation to fringe benefits tax
+[14](#14).          Application of Part I and Part II in relation to fringe benefits tax     16
 
 **Part V—Offences relating to petroleum resource rent tax**
 
-[15](#15).          Application of Part I and Part II in relation to petroleum resource rent tax
+[15](#15).          Application of Part I and Part II in relation to petroleum resource rent tax            18
 
 **Part VII—Offences relating to superannuation guarantee charge**
 
-[17](#17).          Application of Parts I and II in relation to superannuation guarantee charge
+[17](#17).          Application of Parts I and II in relation to superannuation guarantee charge          20
 
 **Part VIII—Offences Relating to Goods and Services Tax**
 
-[18](#18).          Application of Parts I and II in relation to goods and services tax
+[18](#18).          Application of Parts I and II in relation to goods and services tax    22
 
 **Part IX—Offences Relating to Wine Equalisation Tax**
 
-[19](#19).          Application of Parts I and II in relation to wine equalisation tax
+[19](#19).          Application of Parts I and II in relation to wine equalisation tax      24
 
 **Part X—Offences Relating to Luxury Car Tax**
 
-[20](#20).          Application of Parts I and II in relation to luxury car tax
+[20](#20).          Application of Parts I and II in relation to luxury car tax                 26
 
 **Notes** 
 
@@ -232,7 +232,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Secrecy
 
-                   Division 355 in Schedule 1 to the _Taxation Administration Act 1953_ has effect as if this Act were part of that Act.
+          (1A)  Section 5 of the _Fringe Benefits Tax Assessment Act 1986_ has effect as if this Act were part of that Act.
+
+       (1AA)  Section 17 of the _Petroleum Resource Rent Tax Assessment Act 1987_ has effect as if this Act were part of that Act.
+
+             (1)  Section 16 of the _Income Tax Assessment Act 1936_ has effect as if this Act were part of that Act.
+
+             (4)  Section 45 of the Superannuation Guarantee (Administration) Act has effect as if this Act were part of that Act.
+
+             (5)  Section 355-5 in Schedule 1 to the _Taxation Administration Act 1953_ has effect as if this Act were part of that Act.
 
 ## Part II—Offences relating to income tax
 
@@ -370,7 +378,7 @@ the person first mentioned in paragraph (b) is guilty of an offence.
 
                     Penalty:  Imprisonment for 10 years or 1,000 penalty units, or both.
 
-##### <a id="9"></a>9  Prosecutions and convictions
+##### <a id="9"></a>9  Prosecutions and convictions
 
              (2)  A prosecution for an offence against this Act may be commenced at any time.
 
@@ -1309,23 +1317,6 @@ Schedule 16 (item 1): <i>(m)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 8): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes (Taxation Offences) Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No.1) 1986_, subsection 2(1) of which provides as follows:
@@ -1533,14 +1524,6 @@ _(n)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
   </td>
   <td>
     <div>am. No. 41, 1986; No. 145, 1987; No. 60, 1990; Nos. 92 and 118, 1992; No. 176, 1999; No. 73, 2006; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
