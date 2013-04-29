@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00971/Html/18e8d6f3-8bf5-4ee8-a486-1281df9e7017_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00500/Html/d28bc5b0-15e2-4f92-9451-e20b5c69e9b7_files/image001.gif)
 
 # Administrative Appeals Tribunal Act 1975
 
 **Act No. 91 of 1975 as amended**
 
-This compilation was prepared on 21 December 2011
- taking into account amendments up to Act No. 187 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -20,351 +20,351 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[2A](#2A).         Tribunal’s objective
+[2A](#2A).         Tribunal’s objective                                                                              1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                        1
 
-[4](#4).            Extension to external Territories
+[4](#4).            Extension to external Territories                                                           5
 
 **Part II—Establishment of the Administrative Appeals Tribunal** 
 
     **Division 1—Establishment of Tribunal**
 
-[5](#5).            Establishment of Tribunal
+[5](#5).            Establishment of Tribunal                                                                    6
 
     **Division 2—Members of Tribunal**
 
-[6](#6).            Appointment of members of Tribunal
+[6](#6).            Appointment of members of Tribunal                                                  7
 
-[7](#7).            Qualifications for appointment
+[7](#7).            Qualifications for appointment                                                             7
 
-[7A](#7A).         Appointment of a Judge as a presidential member not to affect tenure etc 
+[7A](#7A).         Appointment of a Judge as a presidential member not to affect tenure etc                8
 
-[8](#8).            Term of appointment
+[8](#8).            Term of appointment                                                                            9
 
-[9](#9).            Remuneration and allowances
+[9](#9).            Remuneration and allowances                                                              9
 
-[10](#10).          Acting appointments
+[10](#10).          Acting appointments                                                                            9
 
-[10A](#10A).       Delegation
+[10A](#10A).       Delegation                                                                                          12
 
-[10B](#10B).       Oath or affirmation of office
+[10B](#10B).       Oath or affirmation of office                                                              12
 
-[11](#11).          Outside employment
+[11](#11).          Outside employment                                                                          13
 
-[12](#12).          Leave of absence
+[12](#12).          Leave of absence                                                                                13
 
-[13](#13).          Removal from office
+[13](#13).          Removal from office                                                                          13
 
-[14](#14).          Disclosure of interests by members
+[14](#14).          Disclosure of interests by members                                                   15
 
-[15](#15).          Resignation
+[15](#15).          Resignation                                                                                        16
 
 **Part III—Organization of the Tribunal** 
 
     **Division 1—Divisions of the Tribunal**
 
-[19](#19).          Divisions of the Tribunal
+[19](#19).          Divisions of the Tribunal                                                                   17
 
     **Division 2—Arrangement of business of the Tribunal**
 
-[20](#20).          Arrangement of business
+[20](#20).          Arrangement of business                                                                   19
 
-[20A](#20A).       Places of sitting
+[20A](#20A).       Places of sitting                                                                                  19
 
     **Division 3—Constitution and reconstitution of the Tribunal**
 
-[20B](#20B).       President may give directions as to constitution of Tribunal
+[20B](#20B).       President may give directions as to constitution of Tribunal              20
 
-[21](#21).          Constitution of Tribunal for exercise of powers
+[21](#21).          Constitution of Tribunal for exercise of powers                                 20
 
-[21AA](#21AA).    Constitution of Security Appeals Division—general
+[21AA](#21AA).    Constitution of Security Appeals Division—general                         21
 
-[21AB](#21AB).    Constitution of Security Appeals Division—proceedings to review certain decisions under the _Archives Act 1983_
+[21AB](#21AB).    Constitution of Security Appeals Division—proceedings to review certain decisions under the _Archives Act 1983_                                                                                                           22
 
-[21A](#21A).       Reconstitution of Tribunal at the request of a party
+[21A](#21A).       Reconstitution of Tribunal at the request of a party                            25
 
-[22](#22).          Member Presiding
+[22](#22).          Member Presiding                                                                              26
 
-[23](#23).          Reconstitution of Tribunal if member is unavailable
+[23](#23).          Reconstitution of Tribunal if member is unavailable                          27
 
-[23A](#23A).       Reconstitution of Tribunal to achieve expeditious and efficient conduct of proceeding
+[23A](#23A).       Reconstitution of Tribunal to achieve expeditious and efficient conduct of proceeding            29
 
-[23B](#23B).       Matters to which the President must have regard in constituting the Tribunal
+[23B](#23B).       Matters to which the President must have regard in constituting the Tribunal          30
 
-[23C](#23C).       Limitation on composition of reconstituted Tribunal
+[23C](#23C).       Limitation on composition of reconstituted Tribunal                          31
 
-[23D](#23D).       Tribunal may have regard to record of previous proceeding
+[23D](#23D).       Tribunal may have regard to record of previous proceeding              31
 
-[23E](#23E).        Constitution of Tribunal for review of amount taxed—general rule
+[23E](#23E).        Constitution of Tribunal for review of amount taxed—general rule   32
 
-[23F](#23F).        Constitution of Tribunal for review of amount taxed—member unavailable
+[23F](#23F).        Constitution of Tribunal for review of amount taxed—member unavailable            33
 
 **Part IIIAA—Small Taxation Claims Tribunal**
 
-[24AA](#24AA).    Definitions
+[24AA](#24AA).    Definitions                                                                                         35
 
-[24AB](#24AB).    Reviews of relevant taxation decisions to be heard before the Taxation Appeals Division
+[24AB](#24AB).    Reviews of relevant taxation decisions to be heard before the Taxation Appeals Division       35
 
-[24AC](#24AC).    Small Taxation Claims Tribunal to hear certain tax disputes
+[24AC](#24AC).    Small Taxation Claims Tribunal to hear certain tax disputes              35
 
-[24AD](#24AD).    What happens if the Small Taxation Claims Tribunal considers that the tax in dispute is not less than the determined amount
+[24AD](#24AD).    What happens if the Small Taxation Claims Tribunal considers that the tax in dispute is not less than the determined amount                                                                                               36
 
 **Part IIIA—Management of the Tribunal** 
 
     **Division 1—Management responsibilities of President and Registrar**
 
-[24A](#24A).       Management of administrative affairs of Tribunal
+[24A](#24A).       Management of administrative affairs of Tribunal                              39
 
-[24B](#24B).       Registrar of the Tribunal
+[24B](#24B).       Registrar of the Tribunal                                                                    39
 
     **Division 2—Appointment, powers etc. of Registrar**
 
-[24C](#24C).       Appointment of Registrar
+[24C](#24C).       Appointment of Registrar                                                                   40
 
-[24D](#24D).       Powers of the Registrar
+[24D](#24D).       Powers of the Registrar                                                                      40
 
-[24E](#24E).        Remuneration of Registrar
+[24E](#24E).        Remuneration of Registrar                                                                 40
 
-[24F](#24F).        Terms and conditions of appointment of Registrar
+[24F](#24F).        Terms and conditions of appointment of Registrar                             40
 
-[24G](#24G).       Leave of absence
+[24G](#24G).       Leave of absence                                                                                41
 
-[24H](#24H).       Resignation
+[24H](#24H).       Resignation                                                                                        41
 
-[24J](#24J).        Outside employment of Registrar
+[24J](#24J).        Outside employment of Registrar                                                       41
 
-[24K](#24K).       Termination of appointment
+[24K](#24K).       Termination of appointment                                                               41
 
-[24L](#24L).        Disclosure of interests by Registrar
+[24L](#24L).        Disclosure of interests by Registrar                                                   42
 
-[24M](#24M).      Acting Registrar
+[24M](#24M).      Acting Registrar                                                                                 43
 
     **Division 3—Other officers and staff of Tribunal**
 
-[24N](#24N).       Officers and staff of the Tribunal
+[24N](#24N).       Officers and staff of the Tribunal                                                       44
 
-[24P](#24P).        Statutory Agency etc  for purposes of Public Service Act
+[24P](#24P).        Statutory Agency etc  for purposes of Public Service Act                 44
 
-[24Q](#24Q).       Engagement of consultants etc 
+[24Q](#24Q).       Engagement of consultants etc                                                           45
 
     **Division 4—Miscellaneous administrative matters**
 
-[24R](#24R).       Annual report
+[24R](#24R).       Annual report                                                                                     46
 
-[24V](#24V).       Delegation of administrative powers of President
+[24V](#24V).       Delegation of administrative powers of President                              46
 
-[24W](#24W).      Proceedings arising out of administration of Tribunal
+[24W](#24W).      Proceedings arising out of administration of Tribunal                        46
 
 **Part IV—Reviews by the Tribunal of decisions** 
 
     **Division 1—Applications for review of decisions**
 
-[25](#25).          Tribunal may review certain decisions
+[25](#25).          Tribunal may review certain decisions                                               47
 
-[26](#26).          Restriction on powers of decision‑maker after application for review is made
+[26](#26).          Restriction on powers of decision‑maker after application for review is made         50
 
-[27](#27).          Persons who may apply to Tribunal
+[27](#27).          Persons who may apply to Tribunal                                                   50
 
-[27AA](#27AA).    Applications to Tribunal under Australian Security Intelligence Organisation Act
+[27AA](#27AA).    Applications to Tribunal under Australian Security Intelligence Organisation Act   51
 
-[27A](#27A).       Notice of decision and review rights to be given
+[27A](#27A).       Notice of decision and review rights to be given                                51
 
-[27B](#27B).       Review—Code of Practice
+[27B](#27B).       Review—Code of Practice                                                                 53
 
-[28](#28).          Person affected by decision may obtain reasons for decision
+[28](#28).          Person affected by decision may obtain reasons for decision             53
 
-[29](#29).          Manner of applying for review
+[29](#29).          Manner of applying for review                                                          57
 
-[29A](#29A).       Applications—payment of fees
+[29A](#29A).       Applications—payment of fees                                                          61
 
-[29B](#29B).       Notice of application
+[29B](#29B).       Notice of application                                                                          61
 
     **Division 2—Parties and procedure**
 
-[30](#30).          Parties to proceeding before Tribunal
+[30](#30).          Parties to proceeding before Tribunal                                                 62
 
-[30A](#30A).       Intervention by Attorney‑General
+[30A](#30A).       Intervention by Attorney‑General                                                      63
 
-[31](#31).          Tribunal to determine persons whose interests are affected by decision
+[31](#31).          Tribunal to determine persons whose interests are affected by decision 63
 
-[32](#32).          Representation before Tribunal
+[32](#32).          Representation before Tribunal                                                          63
 
-[33](#33).          Procedure of Tribunal
+[33](#33).          Procedure of Tribunal                                                                        63
 
     **Division 3—Alternative dispute resolution processes**
 
-[34](#34).          Scope of Division
+[34](#34).          Scope of Division                                                                              66
 
-[34A](#34A).       Referral of proceeding for alternative dispute resolution process
+[34A](#34A).       Referral of proceeding for alternative dispute resolution process       66
 
-[34B](#34B).       Alternative dispute resolution processes—proceeding before the Small Taxation Claims Tribunal
+[34B](#34B).       Alternative dispute resolution processes—proceeding before the Small Taxation Claims Tribunal          67
 
-[34C](#34C).       Directions by President
+[34C](#34C).       Directions by President                                                                      68
 
-[34D](#34D).       Agreement about the terms of a decision etc 
+[34D](#34D).       Agreement about the terms of a decision etc                                      68
 
-[34E](#34E).        Evidence not admissible
+[34E](#34E).        Evidence not admissible                                                                     69
 
-[34F](#34F).        Eligibility of person conducting alternative dispute resolution process to sit as a member of the Tribunal
+[34F](#34F).        Eligibility of person conducting alternative dispute resolution process to sit as a member of the Tribunal               70
 
-[34G](#34G).       Participation by telephone etc 
+[34G](#34G).       Participation by telephone etc                                                             70
 
-[34H](#34H).       Engagement of persons to conduct alternative dispute resolution processes
+[34H](#34H).       Engagement of persons to conduct alternative dispute resolution processes             71
 
     **Division 4—Hearings and evidence**
 
-[34J](#34J).        Circumstances in which hearing may be dispensed with
+[34J](#34J).        Circumstances in which hearing may be dispensed with                    72
 
-[35](#35).          Hearings to be in public except in special circumstances
+[35](#35).          Hearings to be in public except in special circumstances                    72
 
-[35AA](#35AA).    Restriction on publication of evidence and findings in a proceeding before the Security Appeals Division
+[35AA](#35AA).    Restriction on publication of evidence and findings in a proceeding before the Security Appeals Division             73
 
-[35A](#35A).       Participation by telephone etc 
+[35A](#35A).       Participation by telephone etc                                                             74
 
-[36](#36).          Disclosure not required: Attorney‑General’s public interest certificate
+[36](#36).          Disclosure not required: Attorney‑General’s public interest certificate 74
 
-[36A](#36A).       Answering questions where Attorney‑General intervenes on public interest grounds
+[36A](#36A).       Answering questions where Attorney‑General intervenes on public interest grounds             76
 
-[36B](#36B).       Disclosure not required: State Attorney‑General’s public interest certificate
+[36B](#36B).       Disclosure not required: State Attorney‑General’s public interest certificate            77
 
-[36C](#36C).       Answering questions where State Attorney‑General intervenes on public interest grounds
+[36C](#36C).       Answering questions where State Attorney‑General intervenes on public interest grounds     79
 
-[36D](#36D).       Public interest questions under sections 36, 36A and 36C
+[36D](#36D).       Public interest questions under sections 36, 36A and 36C                 80
 
-[37](#37).          Lodging of material documents with Tribunal
+[37](#37).          Lodging of material documents with Tribunal                                    82
 
-[38](#38).          Power of Tribunal to obtain additional statements
+[38](#38).          Power of Tribunal to obtain additional statements                              85
 
-[38A](#38A).       Director‑General of Security to lodge certain material with Tribunal
+[38A](#38A).       Director‑General of Security to lodge certain material with Tribunal 86
 
-[39](#39).          Opportunity to make submissions concerning evidence
+[39](#39).          Opportunity to make submissions concerning evidence                     86
 
-[39A](#39A).       Procedure at certain hearings in Security Appeals Division
+[39A](#39A).       Procedure at certain hearings in Security Appeals Division               87
 
-[39B](#39B).       Certain documents and information not to be disclosed in proceedings before Security Appeals Division
+[39B](#39B).       Certain documents and information not to be disclosed in proceedings before Security Appeals Division              90
 
     **Division 5—Procedural powers of Tribunal**
 
-[40](#40).          Powers of Tribunal etc 
+[40](#40).          Powers of Tribunal etc                                                                       93
 
-[41](#41).          Operation and implementation of a decision that is subject to review
+[41](#41).          Operation and implementation of a decision that is subject to review 95
 
-[42](#42).          Resolving disagreements
+[42](#42).          Resolving disagreements                                                                    97
 
-[42A](#42A).       Discontinuance, dismissal, reinstatement etc  of application
+[42A](#42A).       Discontinuance, dismissal, reinstatement etc  of application               98
 
-[42B](#42B).       Power of Tribunal where a proceeding is frivolous or vexatious
+[42B](#42B).       Power of Tribunal where a proceeding is frivolous or vexatious     100
 
-[42C](#42C).       Power of Tribunal if parties reach agreement
+[42C](#42C).       Power of Tribunal if parties reach agreement                                   100
 
-[42D](#42D).       Power to remit matters to decision‑maker for further consideration
+[42D](#42D).       Power to remit matters to decision‑maker for further consideration 101
 
     **Division 6—Tribunal’s decision on review**
 
-[43](#43).          Tribunal’s decision on review
+[43](#43).          Tribunal’s decision on review                                                          103
 
     **Division 7—Miscellaneous**
 
-[43AAA](#43AAA). Findings of Tribunal in certain proceedings before Security Appeals Division
+[43AAA](#43AAA). Findings of Tribunal in certain proceedings before Security Appeals Division        106
 
-[43AA](#43AA).    Correction of errors in decisions or statement of reasons
+[43AA](#43AA).    Correction of errors in decisions or statement of reasons                 107
 
-[43A](#43A).       Return of documents etc  at completion of proceeding
+[43A](#43A).       Return of documents etc  at completion of proceeding                     108
 
 **Part IVA—Appeals and references of questions of law to the Federal Court of Australia**
 
-[43B](#43B).       Part applies whether Tribunal’s power conferred by an enactment or by a law of a State
+[43B](#43B).       Part applies whether Tribunal’s power conferred by an enactment or by a law of a State        109
 
-[44](#44).          Appeals to Federal Court of Australia from decisions of the Tribunal
+[44](#44).          Appeals to Federal Court of Australia from decisions of the Tribunal 109
 
-[44AA](#44AA).    Transfer of appeals from Federal Court to Federal Magistrates Court
+[44AA](#44AA).    Transfer of appeals from Federal Court to Federal Magistrates Court 112
 
-[44A](#44A).       Operation and implementation of a decision that is subject to appeal
+[44A](#44A).       Operation and implementation of a decision that is subject to appeal 114
 
-[45](#45).          Reference of questions of law to Federal Court of Australia
+[45](#45).          Reference of questions of law to Federal Court of Australia            116
 
-[46](#46).          Sending of documents to, and disclosure of documents by, the Federal Court of Australia and the Federal Magistrates Court
+[46](#46).          Sending of documents to, and disclosure of documents by, the Federal Court of Australia and the Federal Magistrates Court                                                                                                116
 
 **Part V—Administrative Review Council**
 
-[47](#47).          Interpretation
+[47](#47).          Interpretation                                                                                    119
 
-[48](#48).          Establishment of Council
+[48](#48).          Establishment of Council                                                                 119
 
-[49](#49).          Composition of Council
+[49](#49).          Composition of Council                                                                   119
 
-[50](#50).          Qualifications for appointment
+[50](#50).          Qualifications for appointment                                                         120
 
-[51](#51).          Functions and powers of Council
+[51](#51).          Functions and powers of Council                                                    120
 
-[51A](#51A).       Minister may give directions to the Council
+[51A](#51A).       Minister may give directions to the Council                                     122
 
-[51B](#51B).       Minister may refer matters to the Council
+[51B](#51B).       Minister may refer matters to the Council                                        122
 
-[51C](#51C).       Reports by the Council
+[51C](#51C).       Reports by the Council                                                                     122
 
-[52](#52).          Period of appointment
+[52](#52).          Period of appointment                                                                      123
 
-[53](#53).          Remuneration and allowances
+[53](#53).          Remuneration and allowances                                                          123
 
-[54](#54).          Resignation
+[54](#54).          Resignation                                                                                      124
 
-[55](#55).          Removal from office
+[55](#55).          Removal from office                                                                        124
 
-[56](#56).          Meetings
+[56](#56).          Meetings                                                                                          124
 
-[57](#57).          Staff of Council
+[57](#57).          Staff of Council                                                                                125
 
-[58](#58).          Annual Report
+[58](#58).          Annual Report                                                                                  126
 
 **Part VI—Miscellaneous**
 
-[59](#59).          Advisory opinions
+[59](#59).          Advisory opinions                                                                           127
 
-[59A](#59A).       Authorised members
+[59A](#59A).       Authorised members                                                                        127
 
-[60](#60).          Protection of members, alternative dispute resolution practitioners, Registrars, District Registrars, Deputy Registrars, Conference Registrars, barristers and witnesses
+[60](#60).          Protection of members, alternative dispute resolution practitioners, Registrars, District Registrars, Deputy Registrars, Conference Registrars, barristers and witnesses                              128
 
-[61](#61).          Failure to comply with summons
+[61](#61).          Failure to comply with summons                                                     129
 
-[62](#62).          Refusal to be sworn or to answer questions
+[62](#62).          Refusal to be sworn or to answer questions                                     130
 
-[62A](#62A).       False or misleading evidence
+[62A](#62A).       False or misleading evidence                                                            131
 
-[62B](#62B).       Extended operation of certain provisions
+[62B](#62B).       Extended operation of certain provisions                                         131
 
-[63](#63).          Contempt of Tribunal
+[63](#63).          Contempt of Tribunal                                                                       131
 
-[64](#64).          Registries
+[64](#64).          Registries                                                                                         132
 
-[65](#65).          Officers of Tribunal
+[65](#65).          Officers of Tribunal                                                                         133
 
-[66](#66).          Confidential information not to be disclosed
+[66](#66).          Confidential information not to be disclosed                                    133
 
-[66A](#66A).       Application of confidentiality provisions in other Acts
+[66A](#66A).       Application of confidentiality provisions in other Acts                    134
 
-[67](#67).          Fees for compliance with summons
+[67](#67).          Fees for compliance with summons                                                 135
 
-[67A](#67A).       Giving of notices
+[67A](#67A).       Giving of notices                                                                              135
 
-[68](#68).          Lodging of documents
+[68](#68).          Lodging of documents                                                                     136
 
-[68AA](#68AA).    How documents may be given to a person
+[68AA](#68AA).    How documents may be given to a person                                       136
 
-[68A](#68A).       Calculation of short periods of time
+[68A](#68A).       Calculation of short periods of time                                                 137
 
-[69](#69).          Legal assistance
+[69](#69).          Legal assistance                                                                                137
 
-[69A](#69A).       Procedure for taxing costs
+[69A](#69A).       Procedure for taxing costs                                                                138
 
-[69B](#69B).       Costs in certain proceedings in Security Appeals Division
+[69B](#69B).       Costs in certain proceedings in Security Appeals Division              139
 
-[70](#70).          Regulations
+[70](#70).          Regulations                                                                                      139
 
 **Schedule 2** 
 
@@ -378,7 +378,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Administrative Appeals Tribunal Act 1975_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> </span>[_see_ Note 1]
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> </span>[_see_ Note 1]
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -1430,7 +1430,7 @@ the following provisions apply:
 
 ### Division 2—Appointment, powers etc. of Registrar
 
-##### <a id="24C"></a>24C  Appointment of Registrar
+##### <a id="24C"></a>24C  Appointment of Registrar
 
                    The Registrar is appointed by the Governor‑General on the nomination of the President.
 
@@ -3434,8 +3434,6 @@ the court shall permit the part of the document in which the matter is contained
 
                      (b)  the Commonwealth Ombudsman holding office under the _Ombudsman Act 1976_; and
 
-                   (ba)  the President of the Australian Human Rights Commission established by the _Australian Human Rights Commission Act 1986_; and
-
                      (c)  the President of the Australian Law Reform Commission established by the _Australian Law Reform Commission Act 1996_; and
 
                     (ca)  the Australian Information Commissioner holding office under the _Australian Information Commissioner Act 2010_; and
@@ -3450,7 +3448,7 @@ the court shall permit the part of the document in which the matter is contained
 
           (2A)  The Governor‑General shall appoint one of the members to be the President of the Council.
 
-             (3)  The performance of the functions or the exercise of the powers of the Council is not affected by a vacancy in the office of a member referred to in paragraph (1)(a), (b), (ba), (c) or (ca) or by reason of the number of appointed members falling below 3 for not more than 3 months.
+             (3)  The performance of the functions or the exercise of the powers of the Council is not affected by a vacancy in the office of a member referred to in paragraph (1)(a), (b), (c) or (ca) or by reason of the number of appointed members falling below 3 for not more than 3 months.
 
 ##### <a id="50"></a>50  Qualifications for appointment
 
@@ -3542,7 +3540,7 @@ Special rule—appointment for a particular project
 
                      (e)  when the appointment ends or is terminated, the person is eligible for reappointment, whether for the purpose of taking part in the same project or another project or otherwise.
 
-##### <a id="53"></a>53  Remuneration and allowances
+##### <a id="53"></a>53  Remuneration and allowances
 
              (1)  An appointed member shall be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by that Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 
@@ -3574,7 +3572,7 @@ Convening meeting
 
 Quorum
 
-             (4)  At a meeting of the Council, 5 members constitute a quorum.
+             (4)  At a meeting of the Council, 4 members constitute a quorum.
 
 Who is to preside
 
@@ -4042,7 +4040,7 @@ the Tribunal may order that the costs reasonably incurred by the applicant in co
 
                               (i)  prescribe fees in respect of a particular class or classes of applications only; and
 
-                             (ii)  prescribe different fees in respect of different classes of applications.
+                             (ii)  prescribe different fees in respect of different classes of applications. 
 
 # Schedule 2  
 
@@ -5309,23 +5307,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 1–3): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Rights (Parliamentary Scrutiny) (Consequential Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>187, 2011</div>
-  </td>
-  <td>
-    <div>7 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–3): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -8166,7 +8147,7 @@ s. 44AA(7)–(10)</div>
     <div>S. 49</div>
   </td>
   <td>
-    <div>am. No. 58, 1977; No. 143, 1979; No. 65, 1985; No. 38, 1988; No. 38, 1996; No. 125, 1999; No. 51, 2010; No. 187, 2011</div>
+    <div>am. No. 58, 1977; No. 143, 1979; No. 65, 1985; No. 38, 1988; No. 38, 1996; No. 125, 1999; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -8278,7 +8259,7 @@ s. 44AA(7)–(10)</div>
     <div>S. 56</div>
   </td>
   <td>
-    <div>am. No. 58, 1977; No. 143, 1979; No. 38, 1988; No. 175, 1995; No. 187, 2011</div>
+    <div>am. No. 58, 1977; No. 143, 1979; No. 38, 1988; No. 175, 1995</div>
   </td>
 </tr>
 <tr>
@@ -8712,7 +8693,7 @@ Note:          For rules that apply to acting appointments, se
 
 Repeal the subsections.
 
-As at 21 December 2011 the amendments are not incorporated in this compilation.
+As at 1 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
