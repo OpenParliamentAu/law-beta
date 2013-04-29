@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00130/Html/TransTasMutRecAct1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00556/Html/TransTasMutRecAct1997_WD02_image001.gif)
 
 # Trans-Tasman Mutual Recognition Act 1997
 
 **Act No. 190 of 1997 as amended**
 
-This compilation was prepared on 27 March 2007
- taking into account amendments up to Act No. 8 of 2007
+This compilation was prepared on 29 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -446,7 +446,7 @@ Examples:  Laws relating to the following:
 
 ##### <a id="16"></a>16  Entitlement to carry on occupation 
 
-             (1)  The Trans-Tasman mutual recognition principle is that, subject to this Part, a person who is registered in New Zealand for an occupation is, by virtue of this Act, entitled after notifying the local registration authority of an Australian jurisdiction for the equivalent occupation:
+             (1)  The Trans-Tasman mutual recognition principle is that, subject to this Part, a person who is registered in New   Zealand for an occupation is, by virtue of this Act, entitled after notifying the local registration authority of an Australian jurisdiction for the equivalent occupation:
 
                      (a)  to be registered in the jurisdiction for the equivalent occupation; and 
 
@@ -1067,6 +1067,11 @@ _Note:       See section 44._
 <tr>
   <td>
     <div><i>Circuit Layouts Act 1989</i>of the Commonwealth</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Sydney 2000 Games (Indicia and Images) Protection Act 1996</i>of the Commonwealth</div>
   </td>
 </tr>
 <tr>
@@ -2258,7 +2263,7 @@ _Note:       See section 48._
   </td>
 </tr></table>
 
-##### <a id="3"></a>3  Radiocommunications devices
+##### 3  Radiocommunications devices
 
 <table>
 <colgroup>
@@ -2628,23 +2633,6 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)</div>
     <div>Sch. 6 (items 
 5–11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2007</div>
-  </td>
-  <td>
-    <div>8, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 25): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -2683,7 +2671,7 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)</div>
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 118, 1999; No. 101, 2006; No. 8, 2007</div>
+    <div>am. No. 118, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
