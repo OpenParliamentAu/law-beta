@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00723/Html/dd88f51d-e01a-4c15-ba39-b0e175b7ba24_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00308/Html/aecc5d9d-f463-4d21-b580-bfe864b95890_files/image001.gif)
 
 # Air Passenger Ticket Levy (Collection) Act 2001
 
 **Act No. 132 of 2001 as amended**
 
-This compilation was prepared on 4 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 8 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -119,7 +120,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                      (b)  a body corporate;
 
-                     (c)  a partnership.
+                     (c)  a partnership;
 
                     <a name="final-levi-month"></a>**_final levy month_** means the month notified by the Minister as the final levy month under section 12.
 
@@ -141,7 +142,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="workplac-relat-minist"></a>**_Workplace Relations Minister_** means the Minister administering the _Fair Work Act 2009_.
 
-##### <a id="6"></a>6  What constitutes one air passenger ticket for the purposes of this Act
+##### <a id="6"></a>6  What constitutes one air passenger ticket for the purposes of this Act
 
              (1)  An air passenger ticket that covers flights provided by 2 or more operators is treated as one air passenger ticket for the purposes of this Act (and not as a separate air passenger ticket in relation to each of those operators).
 
@@ -477,7 +478,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (e)  prescribing the form of warrant for the purposes of section 18;
 
-                      (f)  prescribing penalties for offences against the regulations by way of fines of up to 10 penalty units.
+                      (f)  prescribing penalties for offences against the regulations by way of fines of up to 10 penalty units. 
 
 # Notes to the _Air Passenger Ticket Levy (Collection) Act 2001_
 
@@ -546,23 +547,6 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 8 (item 1): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 9): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -651,7 +635,8 @@ _(a)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -660,8 +645,8 @@ _(a)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -692,7 +677,7 @@ _(a)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 54, 2009; No. 136, 2012</div>
+    <div>am. No. 54, 2009</div>
   </td>
 </tr></table>
 
