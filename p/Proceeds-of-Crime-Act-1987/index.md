@@ -1,158 +1,157 @@
 
 Proceeds of Crime Act 1987
 Act No. 87 of 1987 as amended
-This compilation was prepared on 31 January 2000 taking into account amendments up to Act No. 146 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 6 September 1999
+(includes amendments up to Act No. 44 of 1999)
+Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
+
 Contents
 Part I—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Principal objects	1
-4	Interpretation	2
-5	Meaning of conviction etc. of offence	11
-6	Meaning of absconding	13
+4	Interpretation	3
+5	Meaning of conviction etc. of offence	12
+6	Meaning of absconding	14
 7	Meaning of serious offence	14
-8	Related offences	15
-9	Meaning of dealing with property	15
-9A	Effective control of property	15
-10	Appropriate court in relation to indictable offence	16
-11	Act to bind Crown	16
-12	Act to apply both within and outside Australia	16
+8	Related offences	16
+9	Meaning of dealing with property	16
+9A	Effective control of property	16
+10	Appropriate court in relation to indictable offence	17
+11	Act to bind Crown	17
+12	Act to apply both within and outside Australia	17
 13	Application	17
-Part II—Confiscation	18
-Division 1—Application for confiscation order	18
-14	Application for confiscation order	18
-15	Notice of application	19
-16	Amendment of application	20
-17	Making of confiscation order where person has absconded	21
-18	Procedure on application	21
-Division 2—Forfeiture orders	23
-19	Forfeiture orders	23
-20	Effects of forfeiture order	24
-21	Effect of forfeiture order on third parties	27
-22	Discharge of forfeiture order on appeal or by quashing of conviction	29
-Division 2A—Registered foreign and international forfeiture orders	31
-23	Registered foreign and international forfeiture orders	31
-23A	Effect on third parties of registration of foreign or international forfeiture order	31
-Division 3—Pecuniary penalty orders	35
-24	Application of Division	35
-25	Special provisions in relation to serious offences	35
-26	Pecuniary penalty orders	35
-27	Assessment of pecuniary penalty	37
-28	Court may lift corporate veil etc.	42
-29	Amounts paid in respect of registered foreign pecuniary penalty orders	43
-Division 4—Forfeiture in case of serious offence	44
-30	Forfeiture of all restrained property if person convicted of serious offence	44
-30A	Extension of waiting period	47
-31	Recovery of property to which section 30 applies	48
-32	Effect of quashing of conviction	51
-Division 5—Miscellaneous	52
-33	Person with interest in forfeited property may buy back the interest	52
-34	Buying out other interests in forfeited property	53
-Part IIA—Confiscated Assets Reserve	54
-34A	Establishment of Reserve	54
-34B	Payments into Reserve	54
-34C	Payments out of Reserve	55
-34D	Transfer of balance of distributable funds to Consolidated Revenue Fund	56
-34E	Determinations by Official Trustee about suspended and distributable funds	56
-Part III—Control of property liable to confiscation	58
-Division 1—Search powers	58
-35	Powers to search for, and seize, tainted property	58
-36	Search warrants in relation to tainted property	59
-37	Search warrants may be granted by telephone	61
-38	Searches in emergencies	63
-39	Responsibility for seized property	64
-40	Return of seized property	65
-41	Issue of search warrants by Territory courts in relation to interstate indictable offences	68
-42	Search for and seizure of tainted property in relation to foreign offences	69
-Division 2—Restraining orders	74
-43	Restraining orders	74
-44	Grounds for making restraining order	76
-45	Notice of application for restraining order	79
-45A	Extension of certain restraining orders	79
-46	Persons who may appear and adduce evidence	80
-47	Notice of restraining orders	80
-48	Court may make further orders	80
-48A	Order for taxation of legal expenses to be met out of restrained property	86
-49	Official Trustee to discharge pecuniary penalty	87
-50	Charge on property subject to restraining order	91
-51	Registration of restraining orders	92
-52	Contravention of restraining orders	93
-53	Duties of Official Trustee	93
-54	Protection of Official Trustee from personal liability in certain cases	94
-55	Costs etc. payable to Official Trustee	96
-56	Court may revoke restraining orders	96
-57	When restraining order ceases to be in force	97
-58	Notice of applications under this Division	100
-59	Interim restraining order may be made in respect of foreign offence	101
-60	Registered foreign restraining orders—general	103
-61	Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property	103
-62	Registered foreign restraining orders—undertakings	105
-63	Discharge of certain registered foreign pecuniary penalty orders	105
-64	Registered foreign restraining orders—charge on property subject to order	107
-65	Registered foreign restraining orders—time when order ceases to be in force	109
-Part IV—Information gathering powers	110
-Division 1—Production orders	110
-66	Production orders	110
-67	Variation of production orders	113
-68	Failure to comply with production order	113
-69	Production orders in relation to foreign offences	114
-Division 2—Search powers	116
-70	Powers to search for, and seize, documents relevant to locating etc. property	116
-71	Search warrant for location etc. of property	116
-72	Search warrants in relation to foreign offences	119
-Division 3—Monitoring orders	121
-73	Monitoring orders	121
-74	Existence and operation of monitoring order not to be disclosed	122
-75	Monitoring orders in relation to foreign offences	124
-Division 4—Obligations of financial institutions	125
-76	Interpretation	125
-77	Retention of records by financial institutions	126
-78	Register of original documents	127
-78A	Active ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	128
-78B	Closed ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	129
-Part V—Offences	132
-Division 1—Money laundering	132
-81	Money laundering	132
-82	Possession etc. of property suspected of being proceeds of crime	133
-Division 2—Organised fraud	134
-83	Organised fraud	134
-Division 3—Miscellaneous	135
-84	Prosecution of offences	135
-85	Conduct by directors, servants or agents	135
-Part VI—Enforcement of State orders in Territories	137
-Division 1—Interstate restraining orders	137
-86	Registration of interstate restraining orders	137
-87	Effect of registration	137
-88	Duration of registration	138
-89	Cancellation of registration	138
-90	Charge on property subject to registered interstate restraining order	138
-91	Powers of Official Trustee in relation to interstate restraining orders	140
-Division 2—Interstate forfeiture orders	141
-92	Registration of interstate forfeiture orders	141
-93	Effect of registration	141
-94	Duration of registration	141
-95	Cancellation of registration	142
-Division 3—Miscellaneous	143
-96	Interim registration of facsimile copies	143
-Part VII—Miscellaneous	144
-97	Dealings with forfeited property	144
-98	State and Territory courts to have jurisdiction	144
-99	Standard of proof	145
-100	Appeals	146
-101	Costs	147
-102	Legal assistance	147
-102A	Indemnification of Official Trustee	148
-103	Operation of other laws not affected	148
-104	Regulations	149
-Notes 		151
+Part II—Confiscation	19
+Division 1—Application for confiscation order	19
+14	Application for confiscation order	19
+15	Notice of application	20
+16	Amendment of application	21
+17	Making of confiscation order where person has absconded	22
+18	Procedure on application	22
+Division 2—Forfeiture orders	24
+19	Forfeiture orders	24
+20	Effects of forfeiture order	25
+21	Effect of forfeiture order on third parties	28
+22	Discharge of forfeiture order on appeal or by quashing of conviction	30
+Division 2A—Registered foreign and international forfeiture orders	32
+23	Registered foreign and international forfeiture orders	32
+23A	Effect on third parties of registration of foreign or international forfeiture order	32
+Division 3—Pecuniary penalty orders	36
+24	Application of Division	36
+25	Special provisions in relation to serious offences	36
+26	Pecuniary penalty orders	36
+27	Assessment of pecuniary penalty	38
+28	Court may lift corporate veil etc.	43
+29	Amounts paid in respect of registered foreign pecuniary penalty orders	44
+Division 4—Forfeiture in case of serious offence	45
+30	Forfeiture of all restrained property if person convicted of serious offence	45
+30A	Extension of waiting period	48
+31	Recovery of property to which section 30 applies	49
+32	Effect of quashing of conviction	52
+Division 5—Miscellaneous	54
+33	Person with interest in forfeited property may buy back the interest	54
+34	Buying out other interests in forfeited property	55
+Part IIA—Confiscated Assets Reserve	56
+34A	Establishment of Reserve	56
+34B	Payments into Reserve	56
+34C	Payments out of Reserve	57
+34D	Transfer of balance of distributable funds to Consolidated Revenue Fund	58
+34E	Determinations by Official Trustee about suspended and distributable funds	58
+Part III—Control of property liable to confiscation	60
+Division 1—Search powers	60
+35	Powers to search for, and seize, tainted property	60
+36	Search warrants in relation to tainted property	61
+37	Search warrants may be granted by telephone	63
+38	Searches in emergencies	65
+39	Responsibility for seized property	66
+40	Return of seized property	67
+41	Issue of search warrants by Territory courts in relation to interstate indictable offences	70
+42	Search for and seizure of tainted property in relation to foreign offences	71
+Division 2—Restraining orders	76
+43	Restraining orders	76
+44	Grounds for making restraining order	78
+45	Notice of application for restraining order	81
+45A	Extension of certain restraining orders	81
+46	Persons who may appear and adduce evidence	82
+47	Notice of restraining orders	82
+48	Court may make further orders	83
+48A	Order for taxation of legal expenses to be met out of restrained property	88
+49	Official Trustee to discharge pecuniary penalty	89
+50	Charge on property subject to restraining order	93
+51	Registration of restraining orders	94
+52	Contravention of restraining orders	95
+53	Duties of Official Trustee	95
+54	Protection of Official Trustee from personal liability in certain cases	96
+55	Costs etc. payable to Official Trustee	98
+56	Court may revoke restraining orders	98
+57	When restraining order ceases to be in force	99
+58	Notice of applications under this Division	103
+59	Interim restraining order may be made in respect of foreign offence	103
+60	Registered foreign restraining orders—general	105
+61	Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property	105
+62	Registered foreign restraining orders—undertakings	107
+63	Discharge of certain registered foreign pecuniary penalty orders	107
+64	Registered foreign restraining orders—charge on property subject to order	109
+65	Registered foreign restraining orders—time when order ceases to be in force	111
+Part IV—Information gathering powers	112
+Division 1—Production orders	112
+66	Production orders	112
+67	Variation of production orders	115
+68	Failure to comply with production order	116
+69	Production orders in relation to foreign offences	116
+Division 2—Search powers	118
+70	Powers to search for, and seize, documents relevant to locating etc. property	118
+71	Search warrant for location etc. of property	118
+72	Search warrants in relation to foreign offences	121
+Division 3—Monitoring orders	123
+73	Monitoring orders	123
+74	Existence and operation of monitoring order not to be disclosed	124
+75	Monitoring orders in relation to foreign offences	126
+Division 4—Obligations of financial institutions	127
+76	Interpretation	127
+77	Retention of records by financial institutions	128
+78	Register of original documents	129
+78A	Active ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	130
+78B	Closed ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	131
+Part V—Offences	134
+Division 1—Money laundering	134
+81	Money laundering	134
+82	Possession etc. of property suspected of being proceeds of crime	135
+Division 2—Organised fraud	136
+83	Organised fraud	136
+Division 3—Miscellaneous	137
+84	Prosecution of offences	137
+85	Conduct by directors, servants or agents	137
+Part VI—Enforcement of State orders in Territories	139
+Division 1—Interstate restraining orders	139
+86	Registration of interstate restraining orders	139
+87	Effect of registration	139
+88	Duration of registration	140
+89	Cancellation of registration	140
+90	Charge on property subject to registered interstate restraining order	140
+91	Powers of Official Trustee in relation to interstate restraining orders	142
+Division 2—Interstate forfeiture orders	143
+92	Registration of interstate forfeiture orders	143
+93	Effect of registration	143
+94	Duration of registration	143
+95	Cancellation of registration	144
+Division 3—Miscellaneous	145
+96	Interim registration of facsimile copies	145
+Part VII—Miscellaneous	146
+97	Dealings with forfeited property	146
+98	State and Territory courts to have jurisdiction	146
+99	Standard of proof	147
+100	Appeals	148
+101	Costs	149
+102	Legal assistance	149
+102A	Indemnification of Official Trustee	150
+103	Operation of other laws not affected	150
+104	Regulations	151
+Notes 		153
 An Act to provide for confiscation of the proceeds of crime, and for related purposes
+Do not delete : Chapter placeholder
 Part I—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Proceeds of Crime Act 1987.
 2  Commencement [see Note 1]
@@ -246,7 +245,7 @@ premises includes:
 	(a)	a structure, building, aircraft, vehicle or vessel;
 	(b)	a place (whether enclosed or built upon or not); and
 	(c)	a part of premises (including premises of a kind referred to in paragraph (a) or (b)).
-prescribed officer means an SES employee or acting SES employee in the Attorney‑General’s Department.
+prescribed officer means a Senior Executive Service Officer in the Attorney‑General’s Department appointed or employed under the Public Service Act 1922.
 prescribed time, in relation to a warrant issued under Division 1 of Part III in relation to property, means:
 	(a)	where an information is laid in respect of the relevant offence either before the warrant is issued or within 48 hours after the warrant is issued—the day that is one month after the date of the issue of the warrant; or
 	(b)	in any other case—the time that is 48 hours after the time of the issue of the warrant.
@@ -407,7 +406,6 @@ regard may be had to:
 	(3)	Subject to subsection (1) this Act applies to:
 	(a)	an offence committed, or believed to have been committed, at any time (whether before or after the commencement of this Act); and
 	(b)	a person’s conviction at any time of an offence (whether before or after the commencement of this Act).
-
 Part II—Confiscation
 Division 1—Application for confiscation order
 14  Application for confiscation order
@@ -480,7 +478,6 @@ the court may, if satisfied that it is reasonable to do so in all the circumstan
 	(a)	a person is to be taken to have been convicted of an offence by reason of paragraph 5(1)(c); and
 	(b)	an application is made to a court for a confiscation order in respect of the conviction;
 the reference in subsection (1) to a proceeding against the person for the offence includes a reference to a proceeding against the person for the other offence referred to in that paragraph.
-
 Division 2—Forfeiture orders
 19  Forfeiture orders
 	(1)	Where:
@@ -514,7 +511,7 @@ then:
 	(c)	the Minister has power, on behalf of the Commonwealth, to do, or authorise the doing of, anything necessary or convenient to obtain the registration of the Commonwealth as owner, including, without limiting the generality of this, the execution of any instrument required to be executed by a person transferring an interest in property of that kind.
 	(2A)	If a forfeiture order has been made against registrable property:
 	(a)	the DPP has power, on behalf of the Commonwealth, to do anything necessary or convenient to give notice of, or otherwise protect, the equitable interest of the Commonwealth in the property; and
-	(b)	any such action by or on behalf of the Commonwealth is not a dealing for the purposes of paragraph (3)(a).
+	(b)	any such action by or on behalf of the Commonwealth is not a dealing for the purposes of paragraph (3)(a).  
 	(3)	Where a court makes a forfeiture order against property:
 	(a)	the property shall not, except with the leave of the court and in accordance with any directions of the court, be disposed of, or otherwise dealt with, by or on behalf of the Commonwealth, before the relevant time; and
 	(b)	if, at the relevant time, the order has not been discharged, then, subject to any direction under subsection (3A), the Official Trustee must, as soon as practicable after the relevant time:
@@ -571,7 +568,6 @@ the quashing of the conviction discharges the order.
 	(a)	if the interest is still vested in the Commonwealth—the Minister shall arrange for the interest to be transferred to the person; or
 	(b)	in any other case—there is payable to the person an amount equal to the value of the interest.
 	(5)	Where the Minister is required by this section to arrange for property to be transferred to a person, the Minister has power, on behalf of the Commonwealth, to do, or authorise the doing of, anything necessary or convenient to effect the transfer, including, without limiting the generality of this, the execution of any instrument and the making of an application for registration of an interest in the property on any appropriate register.
-
 Division 2A—Registered foreign and international forfeiture orders
 23  Registered foreign and international forfeiture orders
 	(1)	If:
@@ -588,7 +584,7 @@ the property may, subject to section 23A, be disposed of, or otherwise dealt wit
 	(2)	On registering the foreign or international forfeiture order, the court shall direct the DPP to give or publish notice of the registration:
 	(a)	to specified persons (other than a person convicted of a foreign or international offence in respect of which the order was made) the court has reason to believe may have an interest in the property; and
 	(b)	in the manner and within the time the court considers appropriate.
-	(3)	A person (other than a person convicted of a foreign or international offence in respect of which the foreign or international forfeiture order was made) who claims an interest in the property may apply to the court for an order under subsection (7).
+	(3)	A person (other than a person convicted of a foreign or international  offence in respect of which the foreign or international forfeiture order was made) who claims an interest in the property may apply to the court for an order under subsection (7).
 	(4)	A person who was given notice of, or appeared at, the hearing held in connection with the making of the foreign or international forfeiture order is not entitled, except with the leave of the court, to apply under subsection (3).
 	(5)	The court may grant leave under subsection (4) if satisfied that there are special grounds for doing so.
 	(6)	Without limiting the generality of subsection (5), the court may grant a person leave under subsection (4) if the court is satisfied that:
@@ -617,7 +613,6 @@ foreign or international offence means:
 	(a)	a foreign serious offence; or
 	(b)	a Tribunal offence within the meaning of the International War Crimes Tribunals Act 1995;
 as the case requires.
-
 Division 3—Pecuniary penalty orders
 24  Application of Division
 		This Division applies to:
@@ -716,7 +711,6 @@ notwithstanding any rule of law or practice relating to hearsay evidence, and th
 	(b)	the person and any person who claims an interest in the property may appear and adduce evidence at the hearing of the application.
 29  Amounts paid in respect of registered foreign pecuniary penalty orders
 		Where a foreign pecuniary penalty order is registered in a court in Australia under the Mutual Assistance Act, any amount paid (whether in Australia, in the foreign country in which the order was made or elsewhere) in satisfaction of the foreign pecuniary penalty order shall be taken to have been paid in satisfaction of the debt that arises by reason of the registration of the foreign pecuniary penalty order in that court.
-
 Division 4—Forfeiture in case of serious offence
 30  Forfeiture of all restrained property if person convicted of serious offence
 	(1)	If:
@@ -749,7 +743,7 @@ the property is, under this subsection, forfeited to the Commonwealth at the end
 	(8)	A reference in this section to the appeal period in relation to the conviction of a person of an offence is:
 	(a)	in a case where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(b)—a reference to the appeal period in relation to the finding of the person guilty of the offence; and
 	(b)	in a case where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(c)—a reference to the appeal period in relation to the conviction of the person of the other offence referred to in that paragraph.
-	(8A)	Where a court makes a restraining order in reliance on:
+	(8A)	Where a court makes a restraining order  in reliance on:
 	(a)	a person’s conviction of a serious offence; or
 	(b)	the charging or proposed charging of a person with such an offence;
 a person may apply to the court for a declaration that property that was subject to the restraining order has been forfeited to the Commonwealth under subsection (1) and the court, if satisfied that the property has been forfeited to the Commonwealth under that subsection, shall make a declaration accordingly.
@@ -827,7 +821,6 @@ the DPP shall:
 	(a)	if the interest is still vested in the Commonwealth—the Minister shall arrange for the interest to be transferred to the person; or
 	(b)	in any other case—there is payable to the person an amount equal to the value of the interest.
 	(4)	Where the Minister is required by this section to arrange for property to be transferred to a person, the Minister has power, on behalf of the Commonwealth, to do, or authorise the doing of, anything necessary or convenient to effect the transfer, including, without limiting the generality of this, the execution of any instrument and the making of an application for registration of an interest in the property on any appropriate register. 
-
 Division 5—Miscellaneous
 33  Person with interest in forfeited property may buy back the interest
 	(1)	Where a court:
@@ -852,9 +845,8 @@ section 30 ceases to apply in relation to the interest.
 	(e)	the person served with notice under paragraph (d) in relation to that interest does not lodge a written objection to the purchase of that interest with the Minister within the period referred to in that paragraph; and
 	(f)	the person pays to the Commonwealth, while that interest is still vested in the Commonwealth, an amount equal to the value of that interest;
 the Minister shall arrange for that interest to be transferred to the purchaser.
-
 Part IIA—Confiscated Assets Reserve
-  
+Do not delete : Division placeholder
 34A  Establishment of Reserve
 	(1)	This subsection establishes a reserve called the Confiscated Assets Reserve.
 	(2)	The Reserve is a component of the Reserved Money Fund.
@@ -891,7 +883,6 @@ relevant offence means an offence under section 29A, 29B, 29C, 29D, 71, 86 or 86
 	(b)	is likely to exceed the amount required to meet those payments.
 	(2)	Where the Official Trustee determines that the amount of suspended funds is likely to be insufficient to meet the payments to be made out of the suspended funds for the purposes of paragraph 34C(1)(a), the Official Trustee must declare that such an amount of the distributable funds as the Official Trustee identifies, being not more than the amount required to meet those payments, is to be identified as suspended funds.
 	(3)	Where the Official Trustee determines that the amount of suspended funds is likely to exceed the amount required to meet those payments, the Official Trustee must declare that such an amount of the suspended funds as the Official Trustee identifies, being not more than the amount of the likely excess, is to be identified as distributable funds.
-
 Part III—Control of property liable to confiscation
 Division 1—Search powers
 35  Powers to search for, and seize, tainted property
@@ -1098,7 +1089,6 @@ the Commissioner shall deal with the property as required by the forfeiture orde
 	(a)	a warrant is issued under section 36 in respect of a foreign serious offence; and
 	(b)	property is seized pursuant to the warrant because it may afford evidence as to the commission of a criminal offence;
 the property shall, for the purposes of subsections (3), (4), (5), (6) and (7) of this section, be taken not to be property seized pursuant to the warrant.
-
 Division 2—Restraining orders
 43  Restraining orders
 	(1)	Where a person (in this section and section 44 called the defendant):
@@ -1219,7 +1209,7 @@ the court may order that giving the person notice of the restraining order be de
 	(ii)	an order determining any question relating to the property to which the restraining order relates, including any question relating to:
 	(A)	the liabilities of the owner; or 
 	(B)	the exercise of the powers, or the performance of the duties, of the Official Trustee;
-		with respect to the property to which the restraining order relates;
+ 		with respect to the property to which the restraining order relates;
 	(iii)	an order directing the owner or another person to do any act or thing necessary or convenient to be done to enable the Official Trustee to take custody and control of the property in accordance with the restraining order.
 	(2)	An order under subsection (1) may be made on application by:
 	(a)	the DPP;
@@ -1443,8 +1433,8 @@ the following provisions have effect:
 	(i)	property of the person; or
 	(ii)	property of another person: 
 	(A)	against which the restraining order was made by virtue of subparagraph 44(7)(a)(ii) or (7A)(a)(ii); or
-	(B)	in relation to which an order under subsection 28(3) has been, or is likely to be, made;
-		that a pecuniary penalty order may still be made against the person;
+ 	(B)	in relation to which an order under subsection 28(3) has been, or is likely to be, made;
+ 		that a pecuniary penalty order may still be made against the person;
 the court may:
 	(c)	by order, extend the period of operation of the restraining order; and
 	(d)	make such other order or orders as it considers appropriate in relation to the operation of the restraining order.
@@ -1566,7 +1556,6 @@ whichever first occurs.
 	(4)	Where a charge is created by subsection (1) on property of a particular kind and the provisions of any law of the Commonwealth or of a State or Territory provide for the registration of title to, or charges over, property of that kind, the Official Trustee or the DPP may cause the charge so created to be registered under the provisions of that law and, if the charge is so registered, a person who purchases or otherwise acquires an interest in the property after the registration of the charge shall, for the purposes of paragraph (2)(d), be deemed to have notice of the charge at the time of purchase or acquisition.
 65  Registered foreign restraining orders—time when order ceases to be in force
 		A foreign restraining order registered in a court in Australia under the Mutual Assistance Act ceases to be in force when the registration is cancelled in accordance with that Act.
-
 Part IV—Information gathering powers
 Division 1—Production orders
 66  Production orders
@@ -1635,7 +1624,6 @@ books of an ADI means any accounting records used in the ordinary business of an
 	(a)	a reference in this Division to an indictable offence were a reference to the foreign serious offence; and
 	(b)	paragraph 66(1)(c) referred to the court specified in the police officer’s authorisation under the Mutual Assistance Act.
 	(2)	Where a police officer takes possession of a document under a production order made in respect of a foreign serious offence, the police officer may retain the document for a period of one month pending a written direction from the Attorney‑General as to the manner in which the document is to be dealt with (which may include a direction that the document be sent to an authority of the foreign country that requested the obtaining of the production order).
-
 Division 2—Search powers
 70  Powers to search for, and seize, documents relevant to locating etc. property
 		A police officer may:
@@ -1699,7 +1687,6 @@ and the police officer believes, on reasonable grounds, that it is necessary to 
 	(ii)	will afford evidence of the commission of a criminal offence;
 and the police officer believes, on reasonable grounds, that it is necessary to seize that document or thing in order to prevent its concealment, loss or destruction, the warrant shall be deemed to authorise the police officer to seize that document or thing.
 	(3)	Where a police officer takes possession of a document under a warrant issued in respect of a foreign serious offence, the police officer may retain the document for a period not exceeding one month pending a written direction from the Attorney‑General as to the manner in which the document is to be dealt with (which may include a direction that the document is to be sent to an authority of the foreign country that requested the issue of the warrant).
-
 Division 3—Monitoring orders
 73  Monitoring orders
 	(1)	A police officer may apply to a Judge of the Supreme Court of a State or Territory for an order (in this section called a monitoring order) directing a financial institution to give information to a law enforcement authority.
@@ -1746,7 +1733,6 @@ the institution is guilty of an offence against this subsection punishable, upon
 	(a)	a reference in this Division to an indictable offence that is a serious offence were a reference to the foreign serious offence; and
 	(b)	a reference in this Division to the Supreme Court of a State or Territory were a reference to the court specified in the police officer’s authorisation under the Mutual Assistance Act.
 	(2)	Where a law enforcement authority is given information pursuant to a monitoring order made in relation to a foreign serious offence, the authority shall, as soon as practicable after receiving the information, pass the information on to the Attorney‑General or to an officer of the Attorney‑General’s Department specified by the Attorney‑General by written notice to the authority.
-
 Division 4—Obligations of financial institutions
 76  Interpretation
 		In this Division:
@@ -1829,8 +1815,7 @@ Obligations of transferee ADI—sections 77 and 78
 Definition
 	(5)	In this section: 
 document includes a copy of a document.
-
-Part V—Offences
+ Part V—Offences
 Division 1—Money laundering
 81  Money laundering
 	(1)	In this section:
@@ -1847,7 +1832,6 @@ and the person knows, or ought reasonably to know, that the money or other prope
 	(a)	if the offender is a natural person—a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both; or
 	(b)	if the offender is a body corporate—a fine not exceeding $15,000.
 	(2)	Where a person is charged with an offence against this section, it is a defence to the charge if the person satisfies the court that he or she had no reasonable grounds for suspecting that the property referred to in the charge was derived or realised, directly or indirectly, from some form of unlawful activity.
-
 Division 2—Organised fraud
 83  Organised fraud
 	(1)	A person who engages in organised fraud is guilty of an offence against this section punishable, upon conviction, by:
@@ -1861,7 +1845,6 @@ Division 2—Organised fraud
 public fraud offence means an offence under any of the following provisions:
 	(a)	sections 29D and 86A of the Crimes Act;
 	(b)	sections 5, 6, 7 and 8 of the Crimes (Taxation Offences) Act 1980.
-
 Division 3—Miscellaneous
 84  Prosecution of offences
 	(1)	An offence against section 52, 68, 73, 74, 81, 82, 83 or 97 is an indictable offence.
@@ -1881,7 +1864,6 @@ Division 3—Miscellaneous
 shall be deemed, for the purposes of this Act, to have been engaged in by the first‑mentioned person.
 	(5)	A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person’s reasons for the person’s intention, opinion, belief or purpose.
 	(6)	A reference in this section to a director of a body corporate includes a reference to a constituent member of a body corporate incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.
-
 Part VI—Enforcement of State orders in Territories
 Division 1—Interstate restraining orders
 86  Registration of interstate restraining orders
@@ -1933,7 +1915,6 @@ whichever first occurs.
 	(a)	an interstate restraining order is registered in the Supreme Court of a Territory under this Division; and
 	(b)	the restraining order directs a State official to take control of property;
 the Official Trustee may, in accordance with an agreement between the Official Trustee and the State official, exercise the same powers in relation to the property that the State official would have been able to exercise if the property were located in that State. 
-
 Division 2—Interstate forfeiture orders
 92  Registration of interstate forfeiture orders
 	(1)	If an interstate forfeiture order expressly applies to property in a Territory, a copy of the order, sealed by the court making the order, may be registered in the Supreme Court of the Territory by the person on whose application the order was made or by an appropriate officer.
@@ -1952,15 +1933,13 @@ Division 2—Interstate forfeiture orders
 	(a)	registration was improperly obtained; or
 	(b)	particulars of any amendments made to the forfeiture order, or of any ancillary orders or directions made by a court, are not communicated to the Supreme Court in accordance with the requirements of the rules of the Supreme Court.
 	(2)	The registration of an interstate forfeiture order in the Supreme Court of a Territory may be cancelled by the Supreme Court to the extent that the order is not capable of enforcement in the Territory.
-
 Division 3—Miscellaneous
 96  Interim registration of facsimile copies
 	(1)	A facsimile copy of a sealed copy of an interstate restraining order or an interstate forfeiture order, or of a sealed copy of any amendments made to such an order, shall be regarded for the purposes of this Act as the same as the sealed copy, if the facsimile copy is itself certified in accordance with the rules of the Supreme Court.
 	(2)	Registration effected by means of a facsimile copy ceases to have effect at the end of the period of 5 days commencing on the day of registration unless a sealed copy that is not a facsimile copy has been registered by that time.
 	(3)	Registration of the sealed copy before the end of the period referred to in subsection (2) has effect as from the day of registration of the facsimile copy.
-
 Part VII—Miscellaneous
-  
+Do not delete : Division placeholder
 97  Dealings with forfeited property
 	(1)	A person who knows that a forfeiture order has been made in respect of registrable property shall not, unless the forfeiture order has been discharged, dispose of, or otherwise deal with, the property before the Commonwealth’s interest has been registered on the appropriate register.
 	(2)	A person who contravenes subsection (1) is guilty of an offence against this section punishable, upon conviction, by:
@@ -2122,12 +2101,7 @@ Schedule 1 (items 134-148): 1 July 1998 (see Gazette 1998, No. S316) (h)
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999
 44, 1999
 17 June 1999
-Schedule 7 (items 129-132: 1 July 1999 (see Gazette 1999, No. S283) (i)
-—
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (item 748): 5 Dec 1999 (see Gazette 1999, No. S584) (j)
+Schedule 7 (items 129-132: 1 July 1999 [see Gazette 1999, No. S283) (i)
 —
 
 (a)	The Proceeds of Crime Act 1987 was amended by sections 34-50 only of the Crimes Legislation Amendment Act 1987, subsections 2(1) and (2) of which provide as follows: 
@@ -2158,16 +2132,12 @@ Schedule 1 (item 748): 5 Dec 1999 (see Gazette 1999, No. S584) (j)
 	(2)	The following provisions commence on the transfer date:
 	(e)	subject to subsections (12), (14) and (15), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13))
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act. 
-(j)	The Proceeds of Crime Act 1987 was amended by Schedule 1 (item 748) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
-
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 4 	
-am. No. 120, 1987; Nos. 28 and 120, 1991; No. 164, 1992; No.182, 1994; Nos. 8 and 152, 1997; No. 48, 1998; Nos. 44 and146, 1999
+am. No. 120, 1987; Nos. 28 and 120, 1991; No. 164, 1992; No.182, 1994; Nos. 8 and 152, 1997; No. 48, 1998; No. 44, 1999
 S. 9A 	
 ad. No. 120, 1988 
 S. 18 	
@@ -2214,7 +2184,7 @@ ad. No. 120, 1991
 rs. No. 152, 1997
 Heading to s. 34B 	
 am. No. 152, 1997
-S. 34B	
+S. 34B
 ad. No. 120, 1991 
 
 am. No. 8, 1997; No. 152, 1997
