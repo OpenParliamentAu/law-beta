@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image001.gif)
 
 # Defence Force Retirement and Death Benefits Act 1973
 
 **Act No. 81 of 1973 as amended**
 
-This compilation was prepared on 10 October 2005
-taking into account amendments up to Act No. 121 of 2005
+This compilation was prepared on 16 August 2005
+taking into account amendments up to Act No. 102 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -21,357 +21,357 @@ Attorney-General’s Department, Canberra
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Retiring age for rank held
+[4](#4).            Retiring age for rank held                                                                     7
 
-[5](#5).            Continuity of service
+[5](#5).            Continuity of service                                                                           8
 
-[5A](#5A).         Persons excluded from definition of _eligible member of the Defence Force_
+[5A](#5A).         Persons excluded from definition of _eligible member of the Defence Force_             8
 
-[6](#6).            Non-effective service
+[6](#6).            Non-effective service                                                                           9
 
-[6A](#6A).         Marital relationship
+[6A](#6A).         Marital relationship                                                                           12
 
-[6B](#6B).         Spouse who survives a deceased person
+[6B](#6B).         Spouse who survives a deceased person                                           13
 
-[6C](#6C).         Surcharge deduction amount
+[6C](#6C).         Surcharge deduction amount                                                              14
 
-[6D](#6D).         Application of the _Criminal Code_
+[6D](#6D).         Application of the _Criminal Code_                                                     15
 
 **Part II—Defence Force Retirement and Death Benefits Authority**
 
-[7](#7).            Interpretation
+[7](#7).            Interpretation                                                                                     16
 
-[8](#8).            Constitution of Authority
+[8](#8).            Constitution of Authority                                                                 16
 
-[9](#9).            Deputies of members
+[9](#9).            Deputies of members                                                                         17
 
-[10](#10).          Irregularities in nomination of members and deputy members
+[10](#10).          Irregularities in nomination of members and deputy members          17
 
-[11](#11).          Termination of appointment
+[11](#11).          Termination of appointment                                                             18
 
-[12](#12).          Resignation of members
+[12](#12).          Resignation of members                                                                     18
 
-[13](#13).          Allowances
+[13](#13).          Allowances                                                                                        18
 
-[14](#14).          Meetings of Authority
+[14](#14).          Meetings of Authority                                                                      18
 
-[15](#15).          Delegation by Authority
+[15](#15).          Delegation by Authority                                                                   19
 
-[16](#16).          Reports
+[16](#16).          Reports                                                                                              19
 
 **Part III—Contributions**
 
-[17](#17).          Contributions by members of scheme
+[17](#17).          Contributions by members of scheme                                               20
 
-[18](#18).          Contributions not to be paid during periods of non-effective service
+[18](#18).          Contributions not to be paid during periods of non-effective service 20
 
-[18A](#18A).       Contributions not to be paid after 40 years of effective service
+[18A](#18A).       Contributions not to be paid after 40 years of effective service       21
 
-[19](#19).          Amount of fortnightly contributions
+[19](#19).          Amount of fortnightly contributions                                                 21
 
-[20](#20).          Amount of contributions on reduction in pay
+[20](#20).          Amount of contributions on reduction in pay                                   21
 
-[21](#21).          Purchase of previous non-contributory service
+[21](#21).          Purchase of previous non-contributory service                                 22
 
-[22](#22).          Deductions of contributions from pay
+[22](#22).          Deductions of contributions from pay                                              23
 
 **Part IV—Retirement benefits**
 
-[23](#23).          Entitlement to retirement pay
+[23](#23).          Entitlement to retirement pay                                                           24
 
-[24](#24).          Commutation of retirement pay
+[24](#24).          Commutation of retirement pay                                                        25
 
-[25](#25).          Rate of retirement pay applicable to certain existing contributors
+[25](#25).          Rate of retirement pay applicable to certain existing contributors    31
 
 **Part V—Invalidity benefits**
 
-[26](#26).          Invalidity benefit
+[26](#26).          Invalidity benefit                                                                               35
 
-[27](#27).          Incapacity due to wilful action
+[27](#27).          Incapacity due to wilful action                                                          35
 
-[28](#28).          Pre-existing invalidity or incapacity
+[28](#28).          Pre-existing invalidity or incapacity                                                  35
 
-[29](#29).          Invalidity or incapacity arising during absence without leave exceeding 60 days
+[29](#29).          Invalidity or incapacity arising during absence without leave exceeding 60 days    36
 
-[30](#30).          Classification in respect of incapacity
+[30](#30).          Classification in respect of incapacity                                               37
 
-[31](#31).          Class A and Class B invalidity pay
+[31](#31).          Class A and Class B invalidity pay                                                   38
 
-[32](#32).          Class C invalidity benefit
+[32](#32).          Class C invalidity benefit                                                                  39
 
-[32A](#32A).       Commutation of Class C invalidity pay
+[32A](#32A).       Commutation of Class C invalidity pay                                            40
 
-[33](#33).          Rate of invalidity pay applicable to certain existing contributors
+[33](#33).          Rate of invalidity pay applicable to certain existing contributors     44
 
-[34](#34).          Reclassification in respect of incapacity
+[34](#34).          Reclassification in respect of incapacity                                           47
 
-[35](#35).          Power of Authority to require persons to be medically examined etc 
+[35](#35).          Power of Authority to require persons to be medically examined etc  49
 
-[36](#36).          Invalidity benefits payable to certain contributors under Superannuation Act or the _Superannuation Act 1990_
+[36](#36).          Invalidity benefits payable to certain contributors under Superannuation Act or the _Superannuation Act 1990_   52
 
-[37](#37).          Service Chief may inform authority of grounds of retirement
+[37](#37).          Service Chief may inform authority of grounds of retirement           53
 
 **Part VI—Benefits on death of member of scheme** 
 
     **Division 1—Spouse’s pension**
 
-[38](#38).          Spouse’s pension on death of contributing member
+[38](#38).          Spouse’s pension on death of contributing member                          54
 
-[39](#39).          Spouse’s pension on death of recipient member
+[39](#39).          Spouse’s pension on death of recipient member                               54
 
-[40](#40).          Set off against spouse’s pension in certain circumstances
+[40](#40).          Set off against spouse’s pension in certain circumstances                55
 
-[41](#41).          Rate of pension payable on death of member of scheme leaving more than one spouse
+[41](#41).          Rate of pension payable on death of member of scheme leaving more than one spouse         55
 
-[41A](#41A).       Commutation of spouse’s pension
+[41A](#41A).       Commutation of spouse’s pension                                                    56
 
     **Division 2—Children’s pensions**
 
-[42](#42).          Eligible children other than orphans
+[42](#42).          Eligible children other than orphans                                                  60
 
-[43](#43).          Eligible orphans
+[43](#43).          Eligible orphans                                                                                 60
 
     **Division 2A—Special pensions**
 
-[43A](#43A).       Special pensions
+[43A](#43A).       Special pensions                                                                                63
 
     **Division 3—Miscellaneous**
 
-[45](#45).          Payment of benefits otherwise than to person entitled
+[45](#45).          Payment of benefits otherwise than to person entitled                     65
 
-[46](#46).          Superannuation Act and the _Superannuation Act 1990_
+[46](#46).          Superannuation Act and the _Superannuation Act 1990_                     65
 
-[47](#47).          Death of recipient member etc  due to retirement disabilities etc 
+[47](#47).          Death of recipient member etc  due to retirement disabilities etc      66
 
-[48](#48).          Lump sum payments on or after death—members with only one period of effective service
+[48](#48).          Lump sum payments on or after death—members with only one period of effective service                66
 
-[48A](#48A).       Lump sum payments on or after death—members with more than one period of effective service
+[48A](#48A).       Lump sum payments on or after death—members with more than one period of effective service       68
 
-[49](#49).          Death of contributing member after 60 days absence without leave
+[49](#49).          Death of contributing member after 60 days absence without leave 71
 
 **Part VIA—Family law superannuation splitting** 
 
     **Division 1—Preliminary**
 
-[49A](#49A).       Definitions
+[49A](#49A).       Definitions                                                                                         72
 
     **Division 2—Benefits for non-member spouse**
 
-[49B](#49B).       Associate pension for non-member spouse if operative time in payment phase
+[49B](#49B).       Associate pension for non-member spouse if operative time in payment phase    75
 
-[49C](#49C).       Commutation of small associate pension
+[49C](#49C).       Commutation of small associate pension                                          75
 
     **Division 3—Reduction of benefits for member spouse**
 
-[49D](#49D).       Operative time during growth phase—reduction of later standard pension or lump sum amount
+[49D](#49D).       Operative time during growth phase—reduction of later standard pension or lump sum amount          76
 
-[49E](#49E).        Operative time during payment phase—reduction of standard pension
+[49E](#49E).        Operative time during payment phase—reduction of standard pension 76
 
     **Division 4—Miscellaneous**
 
-[49F](#49F).        Ministerial Orders
+[49F](#49F).        Ministerial Orders                                                                             78
 
 **Part VII—Candidates at parliamentary elections**
 
-[50](#50).          Interpretation
+[50](#50).          Interpretation                                                                                     79
 
-[51](#51).          Election by re-instated candidate
+[51](#51).          Election by re-instated candidate                                                       79
 
-[52](#52).          Effect of election under section 51
+[52](#52).          Effect of election under section 51                                                    79
 
-[53](#53).          Refund of benefits by re-instated candidates to whom this Part applies
+[53](#53).          Refund of benefits by re-instated candidates to whom this Part applies                80
 
-[54](#54).          Re-instated candidates to whom Part does not apply
+[54](#54).          Re-instated candidates to whom Part does not apply                       81
 
-[55](#55).          Rights of contributing members who resign to contest elections and are not re-instated
+[55](#55).          Rights of contributing members who resign to contest elections and are not re-instated        81
 
 **Part VIII—General provisions applicable to contributions and benefits**
 
-[56](#56).          Refund of contributions
+[56](#56).          Refund of contributions                                                                     84
 
-[57](#57).          Election by officer on short service commission who continues to serve in respect of period of service under short service commission
+[57](#57).          Election by officer on short service commission who continues to serve in respect of period of service under short service commission                                                                            84
 
-[58](#58).          Certain previous periods of effective service to be disregarded
+[58](#58).          Certain previous periods of effective service to be disregarded        85
 
-[59](#59).          Instalments of pension benefits
+[59](#59).          Instalments of pension benefits                                                         85
 
-[60](#60).          Prescribed basic annual rate of pay
+[60](#60).          Prescribed basic annual rate of pay                                                   86
 
-[61](#61).          Payment of refund of contributions or of lump sum payment to Commissioner for Superannuation in discharge of liability under Superannuation Act
+[61](#61).          Payment of refund of contributions or of lump sum payment to Commissioner for Superannuation in discharge of liability under Superannuation Act                                                    86
 
-[61A](#61A).       Payment of refund of contributions or of lump sum payment to Board in discharge of liability under the _Superannuation Act 1990_
+[61A](#61A).       Payment of refund of contributions or of lump sum payment to Board in discharge of liability under the _Superannuation Act 1990_                                                                   87
 
-[61B](#61B).       Election by recipient member intending to resume full-time service
+[61B](#61B).       Election by recipient member intending to resume full-time service 87
 
-[61C](#61C).       Recipient member in receipt of retirement pay who becomes member of MSB scheme
+[61C](#61C).       Recipient member in receipt of retirement pay who becomes member of MSB scheme        88
 
-[61D](#61D).       Recipient member on invalidity pay who becomes member of MSB scheme
+[61D](#61D).       Recipient member on invalidity pay who becomes member of MSB scheme         88
 
-[62](#62).          Recipient member who becomes eligible member
+[62](#62).          Recipient member who becomes eligible member                              89
 
-[63](#63).          Non-recipient retired member who again becomes an eligible member within 90 days
+[63](#63).          Non-recipient retired member who again becomes an eligible member within 90 days           92
 
-[64](#64).          Non-recipient retired member who again becomes an eligible member after 90 days
+[64](#64).          Non-recipient retired member who again becomes an eligible member after 90 days              93
 
-[65](#65).          Application of sections 63 and 64 to benefit under subsection 32(2)
+[65](#65).          Application of sections 63 and 64 to benefit under subsection 32(2) 94
 
 **Part IX—Preservation of rights of certain members of the scheme** 
 
     **Division 1—Preliminary**
 
-[66](#66).          Interpretation
+[66](#66).          Interpretation                                                                                     95
 
-[67](#67).          Variation of determinations by Authority
+[67](#67).          Variation of determinations by Authority                                         96
 
     **Division 2—Contributing members who have preserved rights from previous employment**
 
-[68](#68).          Transfer value payable in respect of previous employment
+[68](#68).          Transfer value payable in respect of previous employment             97
 
-[69](#69).          Members who pay transfer values to Commonwealth
+[69](#69).          Members who pay transfer values to Commonwealth                     98
 
     **Division 3—Preservation of rights of contributing members ceasing to be eligible members of the Defence Force**
 
-[70](#70).          Interpretation
+[70](#70).          Interpretation                                                                                   101
 
-[71](#71).          Eligible employment
+[71](#71).          Eligible employment                                                                        103
 
-[72](#72).          Public employment
+[72](#72).          Public employment                                                                          106
 
-[73](#73).          Eligible superannuation schemes
+[73](#73).          Eligible superannuation schemes                                                     107
 
-[74](#74).          Transfer value
+[74](#74).          Transfer value                                                                                  108
 
-[75](#75).          Deferred benefits
+[75](#75).          Deferred benefits                                                                             109
 
-[76](#76).          Election that Division apply
+[76](#76).          Election that Division apply                                                           112
 
-[77](#77).          Circumstances in which transfer value payable
+[77](#77).          Circumstances in which transfer value payable                               113
 
-[78](#78).          Circumstances in which person entitled to deferred benefits
+[78](#78).          Circumstances in which person entitled to deferred benefits          114
 
-[79](#79).          Person who is entitled to rights under this Division not entitled to other retirement benefits
+[79](#79).          Person who is entitled to rights under this Division not entitled to other retirement benefits                116
 
-[80](#80).          Certain former contributing members not entitled to benefits under this Division
+[80](#80).          Certain former contributing members not entitled to benefits under this Division 116
 
-[81](#81).          Member who resigned to contest an election
+[81](#81).          Member who resigned to contest an election                                  118
 
-[82](#82).          Provisions applicable to certain recipient members restored to health
+[82](#82).          Provisions applicable to certain recipient members restored to health 118
 
-[83](#83).          Person entitled to deferred benefits again becoming a member etc  before benefits payable
+[83](#83).          Person entitled to deferred benefits again becoming a member etc  before benefits payable   119
 
     **Division 4—Miscellaneous**
 
-[84](#84).          Special provisions affecting former members of certain superannuation schemes
+[84](#84).          Special provisions affecting former members of certain superannuation schemes  120
 
 **Part X—Contributors under previous benefits scheme etc.**
 
-[85](#85).          Interpretation
+[85](#85).          Interpretation                                                                                   125
 
-[86](#86).          Refund of previous contributions
+[86](#86).          Refund of previous contributions                                                    126
 
-[87](#87).          Additional contribution by certain pre-1959 contributors
+[87](#87).          Additional contribution by certain pre-1959 contributors              127
 
-[87A](#87A).       Additional contributions by certain persons purchasing service under section 27 of the previous Act
+[87A](#87A).       Additional contributions by certain persons purchasing service under section 27 of the previous Act 128
 
-[88](#88).          Contribution equal to deferred contributions under previous Act
+[88](#88).          Contribution equal to deferred contributions under previous Act  128
 
-[89](#89).          Purchase of previous non-contributory service
+[89](#89).          Purchase of previous non-contributory service                               129
 
-[90](#90).          Elections to become contributors by certain members
+[90](#90).          Elections to become contributors by certain members                    131
 
-[91](#91).          Certain periods of previous service deemed to be periods of effective service
+[91](#91).          Certain periods of previous service deemed to be periods of effective service       133
 
-[92](#92).          Application of Act in respect of elections under subsection 4A(3B) of previous Act
+[92](#92).          Application of Act in respect of elections under subsection 4A(3B) of previous Act           133
 
-[93](#93).          Election by member of scheme to whom subsection 69(1A) of previous Act applies
+[93](#93).          Election by member of scheme to whom subsection 69(1A) of previous Act applies           134
 
-[94](#94).          Death of contributing member after 60 days absence without leave
+[94](#94).          Death of contributing member after 60 days absence without leave 135
 
-[95](#95).          Pre-existing invalidity or incapacity
+[95](#95).          Pre-existing invalidity or incapacity                                                136
 
-[96](#96).          Invalidity classification
+[96](#96).          Invalidity classification                                                                    136
 
-[97](#97).          Medical examination of member of scheme entitled to invalidity pay
+[97](#97).          Medical examination of member of scheme entitled to invalidity pay 137
 
-[98](#98).          Incapacity due to wilful action
+[98](#98).          Incapacity due to wilful action                                                        137
 
 **Part XA—Pension increases**
 
-[98A](#98A).       Interpretation
+[98A](#98A).       Interpretation                                                                                   138
 
-[98B](#98B).       Increase in certain pensions
+[98B](#98B).       Increase in certain pensions                                                             139
 
-[98C](#98C).       Application of increase to suspended pension benefits
+[98C](#98C).       Application of increase to suspended pension benefits                  145
 
-[98D](#98D).       Adjustment of increase in case of certain pension benefits
+[98D](#98D).       Adjustment of increase in case of certain pension benefits             145
 
-[98E](#98E).        Date of payment of increases
+[98E](#98E).        Date of payment of increases                                                          147
 
-[98F](#98F).        Rate of invalidity pay payable on reclassification during a prescribed half-year
+[98F](#98F).        Rate of invalidity pay payable on reclassification during a prescribed half-year    148
 
-[98G](#98G).       Commutation of pension benefits during a prescribed half-year
+[98G](#98G).       Commutation of pension benefits during a prescribed half-year     148
 
 **Part XB—Provisions relating to certain members of the Defence Force**
 
-[98H](#98H).       Interpretation
+[98H](#98H).       Interpretation                                                                                   150
 
-[98J](#98J).        Waiving of contributions
+[98J](#98J).        Waiving of contributions                                                                 150
 
-[98K](#98K).       Variation of pension benefits
+[98K](#98K).       Variation of pension benefits                                                           151
 
-[98L](#98L).        Commutation of retirement pay and invalidity pay
+[98L](#98L).        Commutation of retirement pay and invalidity pay                        153
 
 **Part XI—Review of decisions of Authority**
 
-[99](#99).          Review of decisions of Authority
+[99](#99).          Review of decisions of Authority                                                   154
 
 **Part XII—Miscellaneous**
 
-[124](#124).        Election relating to surcharge deduction amount
+[124](#124).        Election relating to surcharge deduction amount                             155
 
-[124A](#124A).     Determinations with respect to surcharge deduction amount
+[124A](#124A).     Determinations with respect to surcharge deduction amount         155
 
-[125](#125).        Payments by the Commonwealth
+[125](#125).        Payments by the Commonwealth                                                   156
 
-[126](#126).        Recovery of amounts payable to Commonwealth
+[126](#126).        Recovery of amounts payable to Commonwealth                          156
 
-[127](#127).        Recipient member etc  to inform Authority if he becomes eligible member
+[127](#127).        Recipient member etc  to inform Authority if he becomes eligible member            157
 
-[128](#128).        Extension of periods of elections
+[128](#128).        Extension of periods of elections                                                     157
 
-[128A](#128A).     Cancellation of elections
+[128A](#128A).     Cancellation of elections                                                                  158
 
-[129](#129).        Assignment of pensions
+[129](#129).        Assignment of pensions                                                                  159
 
-[130](#130).        Attachment of benefits
+[130](#130).        Attachment of benefits                                                                    159
 
-[130A](#130A).     Repayment of amounts that have been refunded to the Commonwealth
+[130A](#130A).     Repayment of amounts that have been refunded to the Commonwealth                161
 
-[130B](#130B).     Trustee of Scheme for purposes of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_
+[130B](#130B).     Trustee of Scheme for purposes of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_                                                                                                         161
 
-[131](#131).        Regulations
+[131](#131).        Regulations                                                                                      161
 
 **Part XIII—Transfer to MSB scheme**
 
-[132](#132).        Election to remain member of scheme or to join MSB scheme
+[132](#132).        Election to remain member of scheme or to join MSB scheme       163
 
-[133](#133).        Election where member dies
+[133](#133).        Election where member dies                                                            163
 
-[134](#134).        Effect of election
+[134](#134).        Effect of election                                                                              165
 
-[135](#135).        Loss of entitlement to benefits etc 
+[135](#135).        Loss of entitlement to benefits etc                                                  165
 
-[136](#136).        Failure to make election
+[136](#136).        Failure to make election                                                                   166
 
-[137](#137).        Certain persons liable to make repayments to Commonwealth on making of election
+[137](#137).        Certain persons liable to make repayments to Commonwealth on making of election           166
 
-[138](#138).        Persons precluded from transferring to MSB scheme
+[138](#138).        Persons precluded from transferring to MSB scheme                     167
 
 **Schedule 1—Retirement pay expressed as a percentage of annual rate of pay** 
 
@@ -482,7 +482,7 @@ Attorney-General’s Department, Canberra
 
                     <a name="fortnightli-rate-pai"></a>**_fortnightly rate of pay_**, in relation to a member of the Defence Force on a particular day, means an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image002.gif)
 
 where **_A_** is the annual rate of pay applicable to him on that day.
 
@@ -937,7 +937,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  Where an eligible member of the Defence Force dies before the day on which, but for his death, his first fortnightly contribution would have been payable, that contribution shall be deemed to have become payable by him on the day on which he became an eligible member of the Defence Force.
 
-##### <a id="18"></a>18  Contributions not to be paid during periods of non-effective service
+##### <a id="18"></a>18  Contributions not to be paid during periods of non-effective service
 
                    An eligible member of the Defence Force is not required to pay any fortnightly contribution that, but for this section, would become payable on a day included in a period that is a period of non-effective service in relation to him.
 
@@ -1019,7 +1019,7 @@ the rate at which retirement pay is payable to him is the amount per annum that,
 
              (6)  If the member of the scheme makes an election under subsection 124(1), the rate at which retirement pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image003.gif)
 
 where:
 
@@ -1062,7 +1062,7 @@ exceeds the amount per annum of the retirement pay to which the person was or wi
 
           (2B)  For the purposes of subsection (2A), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image004.gif)
 
 where **_A_** is:
 
@@ -1104,7 +1104,7 @@ then, subject to subsection (7), subsection (3) applies to the person as if:
 
                      (b)  if the previous election made by the person had specified a lesser amount than the previous maximum amount—an amount calculated by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image005.gif)
 
              (7)  Where, because of subsection (5), subsection (3) applies to a person (in this subsection called the **_recipient member_**), there must be deducted from the amount that, apart from this subsection, would be payable to the recipient member under paragraph (3)(a) an amount equal to the sum of:
 
@@ -1134,7 +1134,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image006.gif)
 
 where:
 
@@ -1160,7 +1160,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the retirement pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image006.gif)
 
                             where:
 
@@ -1202,7 +1202,7 @@ the following provisions apply:
 
                      (b)  retires and, on his retirement, is entitled to retirement pay;
 
-                     (c) was, on 30 September 1972 and, immediately before his retirement, an officer; and
+                     (c) was, on 30 September 197 2 and, immediately before his retirement, an officer; and
 
                      (d)  is a person:
 
@@ -1369,7 +1369,7 @@ the Authority must:
 
              (4)  If the member of the scheme makes an election under subsection 124(1), the rate at which invalidity pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image003.gif)
 
 where:
 
@@ -1433,7 +1433,7 @@ exceeds the amount per annum of the invalidity pay to which the member of the sc
 
           (4A)  For the purposes of subsection (4), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image004.gif)
 
 where **_A_** is:
 
@@ -1479,7 +1479,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image006.gif)
 
 where:
 
@@ -1505,7 +1505,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the invalidity pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image006.gif)
 
 where:
 
@@ -1811,7 +1811,7 @@ the person (in this section called the **_elector_**) may, by notice in writing 
 
              (3)  The amount referred to in subsection (2) must not exceed an amount calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image007.gif)
 
 where:
 
@@ -1843,7 +1843,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the commuted amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image006.gif)
 
 where:
 
@@ -1879,7 +1879,7 @@ where:
 
 then, subject to subsection (2A), there is payable to the orphan or each of the orphans, instead of the pensions described in subsection (2), a pension at the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image003.gif)
 
 where:
 
@@ -2180,7 +2180,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image008.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image008.gif)
 
 ### Division 2—Benefits for non-member spouse
 
@@ -2246,7 +2246,11 @@ Note:          For example, the reduction will be disregarded 
 
 ##### <a id="49F"></a>49F  Ministerial Orders
 
-                   The Minister may, by legislative instrument, make Orders prescribing matters required or permitted by this Part to be prescribed.
+             (1)  The Minister may make Orders prescribing matters required or permitted by this Part to be prescribed.
+
+             (2)  An Order is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
+             (3)  An Order is taken to be a statutory rule for the purposes of the _Statutory Rules Publication Act 1903_.
 
 ## Part VII—Candidates at parliamentary elections
 
@@ -2390,7 +2394,7 @@ then, subject to sections 62, 63 and 64, upon his again becoming such an eligi
 
              (2)  The amount of a fortnightly instalment of pension benefit shall be an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image009.gif)
 
 where **_P_** is the amount per annum of the pension benefit.
 
@@ -2851,7 +2855,7 @@ the amount of the transfer value is the difference between:
 
 the rate at which retirement pay is payable to the person is (instead of the rate provided for in section 23) an amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image006.gif)
 
 where:
 
@@ -2885,7 +2889,7 @@ then, subject to subsection (4A), the rate at which retirement pay is payable 
 
 the rate at which retirement pay is payable to the person is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image006.gif)
 
 where:
 
@@ -3135,7 +3139,7 @@ by notice in writing to the Authority revoke the election and, in that case, par
 
            (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Minister for Finance under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
 
-           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image010.gif), where:
+           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image010.gif), where:
 
 **_a_** is the amount of the annual premium, or the sum of the amounts of the annual premiums, applicable at that time under the life policy or life policies assigned by him to the Commonwealth in accordance with subsection (3) or issued in relation to him in accordance with subsection (4).
 
@@ -3387,7 +3391,7 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
              (2)  The increase provided for by subsection (1) in the rate at which a pension benefit was payable to a pensioner immediately before the commencement of a prescribed half-year (in this section referred to as the **_relevant prescribed half-year_**) is the prescribed percentage, ascertained in accordance with subsection (3), of the rate of pension benefit that, under subsection (4), is the relevant rate of pension in relation to the pensioner.
 
-             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half-year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image011.gif) expressed as a percentage of **_B_**, where:
+             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half-year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2005C00535/Html/FE954407DE2D3155CA25706000060D3B/$FILE/image011.gif) expressed as a percentage of **_B_**, where:
 
                     <a name=""></a>**_A_** is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half-year immediately preceding the prescribed half-year; and
 
@@ -4852,8 +4856,8 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="30%">
   <col width="15%">
   <col width="17%">
-  <col width="22%">
-  <col width="15%">
+  <col width="24%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -5945,25 +5949,6 @@ Remainder: Royal Assent
         <div>—</div>
       </td>
     </tr>
-    <tr>
-      <td>
-        <div>Defence Legislation Amendment Act (No. 1) 2005</div>
-      </td>
-      <td>
-        <div>121, 2005</div>
-      </td>
-      <td>
-        <div>6 Oct 2005</div>
-      </td>
-      <td>
-        <div>Schedule 5: <i>(n) 
-
- </i>Remainder: Royal Assent</div>
-      </td>
-      <td>
-        <div>—</div>
-      </td>
-    </tr>
   </thead>
 </tbody></table>
 
@@ -6176,63 +6161,6 @@ _(m)_    Subsection 2(1) (item 9) of the _Defence Legislation Amendment 
     <td>
       <div>
         1 October 2001
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
-_(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendment Act (No. 1) 2005_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        3\. Schedule 5
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of section 3 of the
-          <i>Legislative Instruments Act 2003</i>.
-      </div>
-    </td>
-    <td>
-      <div>
-        1 January 2005
       </div>
     </td>
   </tr>
@@ -6917,14 +6845,6 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     </td>
     <td>
       <div>ad. No. 58, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 121, 2005</div>
     </td>
   </tr>
   <tr>
