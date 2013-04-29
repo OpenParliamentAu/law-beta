@@ -1,26 +1,18 @@
-![](http://www.comlaw.gov.au/Details/C2009C00086/Html/OffshorePetrRepConAmend2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00336/Html/OffshorePetrRepConAmend2006_image001.gif)
 
 # Offshore Petroleum (Repeals and Consequential Amendments) Act 2006
 
 **Act No. 17 of 2006 as amended**
 
-This compilation was prepared on 11 February 2009
+This compilation was prepared on 1 July 2008
 
-**\[This Act was amended by Act No. 45 of 2007; Act No. 117 of 2008]**
+**\[This Act was amended by Act No. 45 of 2007]**
 
 **Amendment from Act No. 45 of 2007**
 
 \[Schedule 2 (item 9) repealed Note 3 of item 4 of Schedule 2
 
 Schedule 2 (item 9) commenced immediately after 1 July 2008]
-
-**Amendments from Act No. 117 of 2008**
-
-\[Schedule 3 (item 31AB) amended item 95 of Schedule 2
- Schedule 4 (item 5) amended item 95 of Schedule 2
-
-Schedule 3 (item 31AB) commenced on 22 November 2008
- Schedule 4 (item 5) commenced immediately after 22 November 2008]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -49,7 +41,7 @@ Administrative Decisions (Judicial Review) Act 1977         �
 
 Australian Energy Market Act 2004                                                                        4
 
-Australian Postal Corporation Act 1989                                                               4
+Australian Postal Corporation Act 1989                                                               5
 
 Coastal Waters (Northern Territory Powers) Act 1980                                       5
 
@@ -75,7 +67,7 @@ Income Tax Assessment Act 1936                �
 
 Income Tax Assessment Act 1997                                                                              9
 
-International Tax Agreements Act 1953                                                                 9
+International Tax Agreements Act 1953                                                               10
 
 Maritime Transport and Offshore Facilities Security Act 2003                       10
 
@@ -115,7 +107,7 @@ The Parliament of Australia enacts:
 
 ##### <a id="1"></a>1  Short title
 
-                   This Act may be cited as the _Offshore Petroleum (Repeals and Consequential Amendments) Act 2006_.
+                   This Act may be cited as the _Offshore Petroleum (Repeals and Consequential Amendments) Act 2006_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -535,7 +527,7 @@ Omit “_Petroleum (Submerged Lands) Act 1967_”, substitute “_Offshore Petro
 
 <h9 class="ActHead9">Offshore Minerals Act 1994</h9>
 
-## 55  Readers guide (first asterisk-point under the heading “Basic concepts”)
+## 55  Readers guide (first asterisk-point under the heading “Basic concepts”)
 
 Omit “(an **_adjacent area_** if you are already familiar with the _Petroleum (Submerged Lands) Act 1967_)”, substitute “(an **_offshore area_** if you are already familiar with the _Offshore Petroleum Act 2006_)”.
 
@@ -715,7 +707,7 @@ Omit “_Petroleum (Submerged Lands) Act 1967_”, substitute “_Offshore Petro
 
 Omit “Division 2 of Part III of the _Petroleum (Submerged Lands) Act 1967_”, substitute “Part 2.2 of the _Offshore Petroleum Act 2006_”.
 
-## 94  Clause 1 of the Schedule (paragraphs (a) and (b) of the definition of _relevant pre-commencement day_)
+## 94  Clause 1 of the Schedule (paragraphs (a) and (b) of the definition of _relevant pre-commencement day_)
 
 Omit “subsection 41(3) of the _Petroleum (Submerged Lands) Act 1967_”, substitute “subsection 222(7) of the _Offshore Petroleum Act 2006_”.
 
@@ -763,17 +755,17 @@ to events that occurred, and circumstances that arose, before the commencement o
 
                      (d)  section 3 of the PRRTA Act has effect as if:
 
-                              (i)  a reference in that section to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to the repealed _Petroleum (Submerged Lands) Act 1967_; and
+                              (i)  a reference in that section to the _Offshore Petroleum Act 2006_ included a reference to the repealed _Petroleum (Submerged Lands) Act 1967_; and
 
-                             (ii)  the reference in that section to Division 3 of Part 1.2 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to section 6A of the repealed _Petroleum (Submerged Lands) Act 1967_; and
+                             (ii)  the reference in that section to Division 3 of Part 1.2 of the _Offshore Petroleum Act 2006_ included a reference to section 6A of the repealed _Petroleum (Submerged Lands) Act 1967_; and
 
-                     (e)  paragraph 34A(1)(a) of the PRRTA Act has effect as if the reference in that paragraph to subsection 258(7) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to subsection 41(3) of the repealed _Petroleum (Submerged Lands) Act 1967_; and
+                     (e)  paragraph 34A(1)(a) of the PRRTA Act has effect as if the reference in that paragraph to subsection 222(7) of the _Offshore Petroleum Act 2006_ included a reference to subsection 41(3) of the repealed _Petroleum (Submerged Lands) Act 1967_; and
 
-                      (f)  subsection 36B(1) of the PRRTA Act has effect as if the reference in that subsection to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to the repealed _Petroleum (Submerged Lands) Act 1967_; and
+                      (f)  subsection 36B(1) of the PRRTA Act has effect as if the reference in that subsection to the _Offshore Petroleum Act 2006_ included a reference to the repealed _Petroleum (Submerged Lands) Act 1967_; and
 
-                     (g)  the definition of **_potential exploration permit area_** in subsection 36B(6) of the PRRTA Act has effect as if the reference in that definition to Part 2.2 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to Division 2 of Part III of the repealed _Petroleum (Submerged Lands) Act 1967_; and
+                     (g)  the definition of **_potential exploration permit area_** in subsection 36B(6) of the PRRTA Act has effect as if the reference in that definition to Part 2.2 of the _Offshore Petroleum Act 2006_ included a reference to Division 2 of Part III of the repealed _Petroleum (Submerged Lands) Act 1967_; and
 
-                     (h)  the definition of **_relevant pre-commencement day_** in clause 1 of the Schedule to the PRRTA Act has effect as if a reference in that definition to subsection 258(7) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to subsection 41(3) of the repealed _Petroleum (Submerged Lands) Act 1967_.
+                     (h)  the definition of **_relevant pre-commencement day_** in clause 1 of the Schedule to the PRRTA Act has effect as if a reference in that definition to subsection 222(7) of the _Offshore Petroleum Act 2006_ included a reference to subsection 41(3) of the repealed _Petroleum (Submerged Lands) Act 1967_.
 
 ## 96  Transitional—section 36B of the _Petroleum Resource Rent Tax Assessment Act 1987_
 
