@@ -1,90 +1,91 @@
-![](http://www.comlaw.gov.au/Details/C2010C00189/Html/MarriageAct1961_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00342/Html/3D7C85733B0F1F41CA25719C00335E0D/$FILE/image001.gif)
 
 # Marriage Act 1961
 
 **Act No. 12 of 1961 as amended**
 
-This compilation was prepared on 5 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 1 July 2006
+taking into account amendments up to Act No. 46 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[5](#5).            Interpretation                                                                                       1
+[5](#5).            Interpretation
 
-[5A](#5A).         Application of the _Criminal Code_                                                       4
+[5A](#5A).         Application of the _Criminal Code_
 
-[6](#6).            Act not to exclude operation of certain State and Territory laws       4
+[6](#6).            Act not to exclude operation of certain State and Territory laws
 
-[7](#7).            Validity of certain marriages not affected                                            4
+[7](#7).            Validity of certain marriages not affected
 
-[8](#8).            Extension of Act to Territories etc                                                      5
+[8](#8).            Extension of Act to Territories etc 
 
-[9](#9).            Arrangements with State                                                                     5
+[9](#9).            Arrangements with State
 
-[9A](#9A).         Persons who may exercise certain powers may be restricted by Proclamation       6
+[9A](#9A).         Persons who may exercise certain powers may be restricted by Proclamation
 
 **Part IA—Marriage education**
 
-[9B](#9B).         Grants to approved organizations                                                       7
+[9B](#9B).         Grants to approved organizations
 
-[9C](#9C).         Approval of voluntary organizations                                                  7
+[9C](#9C).         Approval of voluntary organizations
 
-[9E](#9E).          Reports and financial statements of approved organizations              8
+[9E](#9E).          Reports and financial statements of approved organizations
 
 **Part II—Marriageable age and marriages of minors**
 
-[10](#10).          Application of Part                                                                              9
+[10](#10).          Application of Part
 
-[11](#11).          Marriageable age                                                                                  9
+[11](#11).          Marriageable age
 
-[12](#12).          Authorisation of marriage of person under age of 18 years in exceptional circumstances       9
+[12](#12).          Authorisation of marriage of person under age of 18 years in exceptional circumstances
 
-[13](#13).          Marriage of minor not to be solemnized without consent of parents etc                10
+[13](#13).          Marriage of minor not to be solemnized without consent of parents etc 
 
-[14](#14).          Persons whose consent is required                                                    12
+[14](#14).          Persons whose consent is required
 
-[15](#15).          Prescribed authority may dispense with consent in certain cases     12
+[15](#15).          Prescribed authority may dispense with consent in certain cases
 
-[16](#16).          Consent by magistrate where parent etc  refuses consent etc           13
+[16](#16).          Consent by magistrate where parent etc  refuses consent etc 
 
-[17](#17).          Re-hearing of applications by a Judge                                               15
+[17](#17).          Re-hearing of applications by a Judge
 
-[18](#18).          Provisions applicable to inquiries by Judge or magistrate                 15
+[18](#18).          Provisions applicable to inquiries by Judge or magistrate
 
-[19](#19).          Restriction on applications under sections 12, 15 and 16                 16
+[19](#19).          Restriction on applications under sections 12, 15 and 16
 
-[20](#20).          Effect of consent of magistrate or Judge                                            16
+[20](#20).          Effect of consent of magistrate or Judge
 
-[21](#21).          Consent by magistrate or Judge and dispensation with consent to be ineffective after 3 months etc     17
+[21](#21).          Consent by magistrate or Judge and dispensation with consent to be ineffective after 3 months etc 
 
 **Part III—Void marriages** 
 
     **Division 1—Marriages solemnized on or after 20 June 1977 and before the commencement of section 13 of the Marriage Amendment Act 1985**
 
-[22](#22).          Division to be subject to application of private international law    18
+[22](#22).          Division to be subject to application of private international law
 
-[23](#23).          Grounds on which marriages are void                                                18
+[23](#23).          Grounds on which marriages are void
 
     **Division 2—Marriages solemnized after the commencement of section 13 of the Marriage Amendment Act 1985**
 
-[23A](#23A).       Application of Division                                                                     20
+[23A](#23A).       Application of Division
 
-[23B](#23B).       Grounds on which marriages are void                                                20
+[23B](#23B).       Grounds on which marriages are void
 
 **Part IV—Solemnization of marriages in Australia** 
 
@@ -92,235 +93,235 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision A—Ministers of religion**
 
-[25](#25).          Interpretation                                                                                     22
+[25](#25).          Interpretation
 
-[26](#26).          Recognised denominations                                                                 22
+[26](#26).          Recognised denominations
 
-[27](#27).          Registers of ministers of religion                                                       22
+[27](#27).          Registers of ministers of religion
 
-[28](#28).          Transfer of State registers                                                                  23
+[28](#28).          Transfer of State registers
 
-[29](#29).          Qualifications for registration under this Subdivision                       23
+[29](#29).          Qualifications for registration under this Subdivision
 
-[30](#30).          Registrar to register applicant                                                            24
+[30](#30).          Registrar to register applicant
 
-[31](#31).          Applicant may be refused registration in certain circumstances       24
+[31](#31).          Applicant may be refused registration in certain circumstances
 
-[32](#32).          Effect of registration                                                                          24
+[32](#32).          Effect of registration
 
-[33](#33).          Removal from register                                                                        25
+[33](#33).          Removal from register
 
-[34](#34).          Review of refusal to register or removal from register                       26
+[34](#34).          Review of refusal to register or removal from register
 
-[35](#35).          Change of address etc  to be notified                                                 27
+[35](#35).          Change of address etc  to be notified
 
-[36](#36).          Transfer to another State etc                                                             27
+[36](#36).          Transfer to another State etc 
 
-[37](#37).          Furnishing of information by recognised denominations                   27
+[37](#37).          Furnishing of information by recognised denominations
 
-[38](#38).          Registrars to furnish information to Attorney-General                     28
+[38](#38).          Registrars to furnish information to Attorney-General
 
         **Subdivision B—State and Territory officers etc.**
 
-[39](#39).          Authorisation of State and Territory officers etc                              28
+[39](#39).          Authorisation of State and Territory officers etc 
 
         **Subdivision C—Marriage celebrants**
 
-[39A](#39A).       Registrar of Marriage Celebrants                                                       29
+[39A](#39A).       Registrar of Marriage Celebrants
 
-[39B](#39B).       Register of marriage celebrants                                                          29
+[39B](#39B).       Register of marriage celebrants
 
-[39C](#39C).       Entitlement to be registered as a marriage celebrant                          29
+[39C](#39C).       Entitlement to be registered as a marriage celebrant
 
-[39D](#39D).       Registration as a marriage celebrant                                                   31
+[39D](#39D).       Registration as a marriage celebrant
 
-[39E](#39E).        Capping of number of marriage celebrants for 5 years                      32
+[39E](#39E).        Capping of number of marriage celebrants for 5 years
 
-[39F](#39F).        Effect of registration                                                                          32
+[39F](#39F).        Effect of registration
 
-[39G](#39G).       Obligations of each marriage celebrant                                               32
+[39G](#39G).       Obligations of each marriage celebrant
 
-[39H](#39H).       Performance reviews                                                                          33
+[39H](#39H).       Performance reviews
 
-[39I](#39I).         Disciplinary measures                                                                       34
+[39I](#39I).         Disciplinary measures
 
-[39J](#39J).        Review of decisions                                                                           35
+[39J](#39J).        Review of decisions
 
-[39K](#39K).       Additional functions of the Registrar                                                36
+[39K](#39K).       Additional functions of the Registrar
 
-[39L](#39L).        Registrar not liable for damages                                                         36
+[39L](#39L).        Registrar not liable for damages
 
-[39M](#39M).      Evidence of registration etc                                                                36
+[39M](#39M).      Evidence of registration etc 
 
     **Division 2—Marriages by authorised celebrants**
 
-[40](#40).          Application of Division                                                                     37
+[40](#40).          Application of Division
 
-[41](#41).          Marriages to be solemnized by authorised celebrant                         37
+[41](#41).          Marriages to be solemnized by authorised celebrant
 
-[42](#42).          Notice to be given and declaration made                                            37
+[42](#42).          Notice to be given and declaration made
 
-[42A](#42A).       Commissioner of Australian Federal Police or approved authority may issue special notice 40
+[42A](#42A).       Commissioner of Australian Federal Police or approved authority may issue special notice
 
-[43](#43).          Marriage may be solemnized on any day etc                                    40
+[43](#43).          Marriage may be solemnized on any day etc 
 
-[44](#44).          Witnesses                                                                                           41
+[44](#44).          Witnesses
 
-[45](#45).          Form of ceremony                                                                             41
+[45](#45).          Form of ceremony
 
-[46](#46).          Certain authorised celebrants to explain nature of marriage relationship 41
+[46](#46).          Certain authorised celebrants to explain nature of marriage relationship
 
-[47](#47).          Ministers of religion not bound to solemnize marriage etc                42
+[47](#47).          Ministers of religion not bound to solemnize marriage etc 
 
-[48](#48).          Certain marriages not solemnized in accordance with this Division to be invalid   42
+[48](#48).          Certain marriages not solemnized in accordance with this Division to be invalid
 
-[49](#49).          Authorised celebrant to retain consents, statutory declarations etc  43
+[49](#49).          Authorised celebrant to retain consents, statutory declarations etc 
 
-[50](#50).          Marriage certificates                                                                          43
+[50](#50).          Marriage certificates
 
-[51](#51).          Incorrect marriage certificates                                                            45
+[51](#51).          Incorrect marriage certificates
 
     **Division 3—Marriages by foreign diplomatic or consular officers**
 
-[52](#52).          Interpretation                                                                                     47
+[52](#52).          Interpretation
 
-[53](#53).          Application of Division                                                                     47
+[53](#53).          Application of Division
 
-[54](#54).          Governor-General may declare countries to be proclaimed overseas countries       47
+[54](#54).          Governor-General may declare countries to be proclaimed overseas countries
 
-[55](#55).          Solemnization of marriages in Australia by foreign diplomatic or consular officer 47
+[55](#55).          Solemnization of marriages in Australia by foreign diplomatic or consular officer
 
-[56](#56).          Recognition of marriages                                                                    48
+[56](#56).          Recognition of marriages
 
-[57](#57).          Registrar and Deputy Registrar of Foreign Marriages                       48
+[57](#57).          Registrar and Deputy Registrar of Foreign Marriages
 
-[58](#58).          Register of Foreign Marriages Solemnized in Australia                     49
+[58](#58).          Register of Foreign Marriages Solemnized in Australia
 
-[59](#59).          Searches and certified copies                                                             49
+[59](#59).          Searches and certified copies
 
 **Part V—Marriages of members of the Defence Force overseas** 
 
     **Division 3—Marriages of members of the Defence Force overseas**
 
-[71](#71).          Marriages of members of the Defence Force overseas                      50
+[71](#71).          Marriages of members of the Defence Force overseas
 
-[72](#72).          Form and ceremony of marriage                                                        50
+[72](#72).          Form and ceremony of marriage
 
     **Division 4—General**
 
-[73](#73).          Validity of marriages                                                                          51
+[73](#73).          Validity of marriages
 
-[74](#74).          Declaration to be made before chaplain                                             51
+[74](#74).          Declaration to be made before chaplain
 
-[75](#75).          Chaplain to be satisfied of parties’ identity                                      51
+[75](#75).          Chaplain to be satisfied of parties’ identity
 
-[76](#76).          Additional consent to marriage of minor domiciled outside Australia 51
+[76](#76).          Additional consent to marriage of minor domiciled outside Australia
 
-[77](#77).          Restriction on solemnization of marriages under this Part                52
+[77](#77).          Restriction on solemnization of marriages under this Part
 
-[78](#78).          Solemnization of marriages where a party to the marriage is not an Australian citizen etc     52
+[78](#78).          Solemnization of marriages where a party to the marriage is not an Australian citizen etc 
 
-[79](#79).          Chaplain to retain consents etc                                                          53
+[79](#79).          Chaplain to retain consents etc 
 
-[80](#80).          Marriage certificate and registration of marriages                              53
+[80](#80).          Marriage certificate and registration of marriages
 
-[81](#81).          Power to refuse to solemnize marriage                                              55
+[81](#81).          Power to refuse to solemnize marriage
 
-[82](#82).          Marriages may be solemnized on any day and at any time               55
+[82](#82).          Marriages may be solemnized on any day and at any time
 
-[83](#83).          Validity of marriages under this Part                                                 55
+[83](#83).          Validity of marriages under this Part
 
-[84](#84).          Registration of overseas marriages attended by a chaplain                56
+[84](#84).          Registration of overseas marriages attended by a chaplain
 
-[85](#85).          Certificates of marriages solemnized in accordance with local law in an overseas country     56
+[85](#85).          Certificates of marriages solemnized in accordance with local law in an overseas country
 
-[86](#86).          Evidence                                                                                             57
+[86](#86).          Evidence
 
-[87](#87).          Validity of marriages otherwise than under this Part not affected    57
+[87](#87).          Validity of marriages otherwise than under this Part not affected
 
-[88](#88).          Imperial Foreign Marriage Acts                                                         57
+[88](#88).          Imperial Foreign Marriage Acts
 
 **Part VA—Recognition of foreign marriages**
 
-[88A](#88A).       Object of Part                                                                                    58
+[88A](#88A).       Object of Part
 
-[88B](#88B).       Interpretation                                                                                     58
+[88B](#88B).       Interpretation
 
-[88C](#88C).       Application of Part                                                                            58
+[88C](#88C).       Application of Part
 
-[88D](#88D).       Validity of marriages                                                                          59
+[88D](#88D).       Validity of marriages
 
-[88E](#88E).        Validity of certain marriages not affected by this Part                      60
+[88E](#88E).        Validity of certain marriages not affected by this Part
 
-[88EA](#88EA).     Certain unions are not marriages                                                        61
+[88EA](#88EA).     Certain unions are not marriages
 
-[88F](#88F).        Incidental determination of recognition of certain foreign marriages 61
+[88F](#88F).        Incidental determination of recognition of certain foreign marriages
 
-[88G](#88G).       Evidence                                                                                             62
+[88G](#88G).       Evidence
 
 **Part VI—Legitimation**
 
-[89](#89).          Legitimation by virtue of marriage of parents                                   63
+[89](#89).          Legitimation by virtue of marriage of parents
 
-[90](#90).          Legitimacy of children of certain foreign marriages                           64
+[90](#90).          Legitimacy of children of certain foreign marriages
 
-[91](#91).          Legitimacy of children of certain void marriages                               65
+[91](#91).          Legitimacy of children of certain void marriages
 
-[92](#92).          Declarations of legitimacy etc                                                            65
+[92](#92).          Declarations of legitimacy etc 
 
-[93](#93).          Operation of certain State and Territory laws                                   67
+[93](#93).          Operation of certain State and Territory laws
 
 **Part VII—Offences**
 
-[94](#94).          Bigamy                                                                                               68
+[94](#94).          Bigamy
 
-[95](#95).          Marrying person not of marriageable age etc                                     69
+[95](#95).          Marrying person not of marriageable age etc 
 
-[98](#98).          Contravention of subsection 13(3)                                                    71
+[98](#98).          Contravention of subsection 13(3)
 
-[99](#99).          Solemnizing marriage where notice or declaration not given or made etc                 71
+[99](#99).          Solemnizing marriage where notice or declaration not given or made etc 
 
-[100](#100).        Solemnizing marriage where reason to believe there is a legal impediment              71
+[100](#100).        Solemnizing marriage where reason to believe there is a legal impediment
 
-[101](#101).        Solemnization of marriage by unauthorised person                           72
+[101](#101).        Solemnization of marriage by unauthorised person
 
-[103](#103).        Going through ceremony of marriage before person not authorised to solemnize it               72
+[103](#103).        Going through ceremony of marriage before person not authorised to solemnize it
 
-[104](#104).        Giving defective notice etc                                                                 72
+[104](#104).        Giving defective notice etc 
 
-[105](#105).        Failure to comply with notice under section 51                                72
+[105](#105).        Failure to comply with notice under section 51
 
-[106](#106).        Failure by interpreter to furnish certificate etc                                  73
+[106](#106).        Failure by interpreter to furnish certificate etc 
 
 **Part VIII—Transitional provisions**
 
-[107](#107).        Exercise of powers etc  before commencement of Act                      74
+[107](#107).        Exercise of powers etc  before commencement of Act
 
-[108](#108).        Application of offence provisions to notices etc  given before commencement of this Act   74
+[108](#108).        Application of offence provisions to notices etc  given before commencement of this Act
 
-[109](#109).        Consents etc  given under State or Territory laws                            75
+[109](#109).        Consents etc  given under State or Territory laws
 
 **Part IX—Miscellaneous**
 
-[111](#111).        Certain marriages and legitimations to be valid in all the Territories 76
+[111](#111).        Certain marriages and legitimations to be valid in all the Territories
 
-[111A](#111A).     Abolition of action for breach of promise                                         76
+[111A](#111A).     Abolition of action for breach of promise
 
-[112](#112).        Interpreters at marriage ceremonies                                                   76
+[112](#112).        Interpreters at marriage ceremonies
 
-[113](#113).        Second marriage ceremonies                                                               77
+[113](#113).        Second marriage ceremonies
 
-[114](#114).        Correction of errors in marriage registries                                          79
+[114](#114).        Correction of errors in marriage registries
 
-[115](#115).        Publication of lists of authorised celebrants                                      80
+[115](#115).        Publication of lists of authorised celebrants
 
-[116](#116).        Judicial notice of signatures of Registrars, celebrants etc                  81
+[116](#116).        Judicial notice of signatures of Registrars, celebrants etc 
 
-[117](#117).        Evidence of registration etc                                                                82
+[117](#117).        Evidence of registration etc 
 
-[118](#118).        Right of ministers of religion to receive fees                                      82
+[118](#118).        Right of ministers of religion to receive fees
 
-[120](#120).        Regulations                                                                                        83
+[120](#120).        Regulations
 
 **The Schedule—Persons whose consent is required to the marriage of a minor** 
 
@@ -329,6 +330,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Part III** 
 
 **Notes** 
+
 
 ## An Act relating to Marriage
 
@@ -430,7 +432,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (e)  the Territory of Cocos (Keeling) Islands.
 
-                    <a name="commenc-act"></a>**_the commencement of this Act_** means the time of commencement of the provisions other than the provisions referred to in subsection 2(1).
+                    <a name="commenc-act"></a>**_the commencement of this Act_** means the time of commencement of the provisions other than the provisions referred to in subsection 2(1).
 
                     <a name="queen-dominion"></a>**_the Queen’s dominions_** includes a British protectorate and a British protected State.
 
@@ -1060,7 +1062,7 @@ the person shall, within 30 days thereafter, notify the Registrar by whom the re
 
              (3)  The register may be made available for inspection in any way the Registrar thinks appropriate.
 
-             (4)  All information contained in the register must be made available on the internet.
+             (4)  All information contained in the register must be made available on the Internet.
 
              (5)  Any or all of the information contained in the register may also be disseminated in any other way the Registrar thinks appropriate, including by electronic means.
 
@@ -2380,6 +2382,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
                       (j)  prescribing penalties not exceeding a fine of $200 for offences against the regulations. 
 
+
 # The Schedule—Persons whose consent is required to the marriage of a minor
 
 _Section 14_
@@ -2404,129 +2407,143 @@ _Where the Minor is not an Adopted Child_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Where both parents of the minor are alive—</div>
-    <div>(a) in any case other than a case to which paragraph (b) or (c) is applicable</div>
-  </td>
-  <td>
-    <div>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Where both parents of the minor are alive—</div>
+      <div>(a) in any case other than a case to which paragraph (b) or (c) is applicable</div>
+    </td>
+    <td>
+      <div>
 
-Both parents</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(b) if the parents live separately and apart—</div>
-    <div>(i) if the minor lives permanently with one parent or lives more with one parent than with the other</div>
-  </td>
-  <td>
-    <div>
+Both parents 
 
-The parent with whom the minor so lives</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(ii) if the minor does not live with either parent and the parents have never been married to each other</div>
-  </td>
-  <td>
-    <div>The mother</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(c) if both parents have been deprived of the custody of the minor by the order of a court</div>
-  </td>
-  <td>
-    <div>The person or persons having the custody of the minor under the order of the court</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Where only one parent of the minor is alive—</div>
-    <div>(a) if the parents had, at any time, been married to each other—</div>
-    <div>(i) if the surviving parent has not been deprived of the custody of the minor by the order of a court</div>
-  </td>
-  <td>
-    <div>
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(b) if the parents live separately and apart—</div>
+      <div>(i) if the minor lives permanently with one parent or lives more with one parent than with the other</div>
+    </td>
+    <td>
+      <div>
 
-The surviving parent</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(ii) if the surviving parent has been deprived of the custody of the minor by the order of a court</div>
-  </td>
-  <td>
-    <div>The person or persons having the custody of the minor under the order of the court</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(b) if the parents had never been married to each other—</div>
-    <div>(i) if the surviving parent is the mother and she has not been deprived of the custody of the minor by the order of a court</div>
-  </td>
-  <td>
-    <div>
+The parent with whom the minor so lives 
 
-The mother</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(ii) if the surviving parent is the mother and she has been deprived of the custody of the minor by the order of a court</div>
-  </td>
-  <td>
-    <div>The person or persons having the custody of the minor under the order of the court</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(iii) if the surviving parent is the father—</div>
-    <div>(A) if the minor lives permanently with the father</div>
-  </td>
-  <td>
-    <div>
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(ii) if the minor does not live with either parent and the parents have never been married to each other</div>
+    </td>
+    <td>
+      <div>The mother</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(c) if both parents have been deprived of the custody of the minor by the order of a court</div>
+    </td>
+    <td>
+      <div>The person or persons having the custody of the minor under the order of the court</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Where only one parent of the minor is alive—</div>
+      <div>(a) if the parents had, at any time, been married to each other—</div>
+      <div>(i) if the surviving parent has not been deprived of the custody of the minor by the order of a court</div>
+    </td>
+    <td>
+      <div>
 
-The father</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(B) if the minor does not live permanently with the father and there is or are a guardian or guardians of the minor</div>
-  </td>
-  <td>
-    <div>The guardian or guardians</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(C) if the minor does not live permanently with the father and there is no guardian of the minor</div>
-  </td>
-  <td>
-    <div>A prescribed authority</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3\. Where both parents of the minor are dead—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(a) if there is or are a guardian or guardians of the minor</div>
-    <div>(b) if there is no guardian of the minor</div>
-  </td>
-  <td>
-    <div>The guardian or guardians 
+The surviving parent 
 
-A prescribed authority</div>
-  </td>
-</tr></table>
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(ii) if the surviving parent has been deprived of the custody of the minor by the order of a court</div>
+    </td>
+    <td>
+      <div>The person or persons having the custody of the minor under the order of the court</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(b) if the parents had never been married to each other—</div>
+      <div>(i) if the surviving parent is the mother and she has not been deprived of the custody of the minor by the order of a court</div>
+    </td>
+    <td>
+      <div>
+
+The mother 
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(ii) if the surviving parent is the mother and she has been deprived of the custody of the minor by the order of a court</div>
+    </td>
+    <td>
+      <div>The person or persons having the custody of the minor under the order of the court</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(iii) if the surviving parent is the father—</div>
+      <div>(A) if the minor lives permanently with the father</div>
+    </td>
+    <td>
+      <div>
+
+The father 
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(B) if the minor does not live permanently with the father and there is or are a guardian or guardians of the minor</div>
+    </td>
+    <td>
+      <div>The guardian or guardians</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(C) if the minor does not live permanently with the father and there is no guardian of the minor</div>
+    </td>
+    <td>
+      <div>A prescribed authority</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3\. Where both parents of the minor are dead—</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(a) if there is or are a guardian or guardians of the minor</div>
+      <div>(b) if there is no guardian of the minor</div>
+    </td>
+    <td>
+      <div>The guardian or guardians 
+
+A prescribed authority 
+
+</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part III
 
@@ -2538,60 +2555,67 @@ _Where the Minor is an Adopted Child_
   <col width="50%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Circumstances in relation to the Minor</div>
-  </td>
-  <td>
-    <div>Person or persons whose consent is required</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>1\. Where the minor was adopted by a husband and wife jointly</div>
-  </td>
-  <td>
-    <div>The person or persons who would be the prescribed person or persons under Part I of this Schedule if the minor had been born in lawful wedlock to his or her adoptive parents</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Where the minor was adopted by one person only—</div>
-    <div>(a) if the adoptive parent is alive and has not been deprived of the custody of the minor by the order of a court</div>
-  </td>
-  <td>
-    <div>
+<tbody>
+  <tr>
+    <td>
+      <div>Circumstances in relation to the Minor</div>
+    </td>
+    <td>
+      <div>Person or persons whose consent is required</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>1\. Where the minor was adopted by a husband and wife jointly</div>
+    </td>
+    <td>
+      <div>The person or persons who would be the prescribed person or persons under Part I of this Schedule if the minor had been born in lawful wedlock to his or her adoptive parents</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Where the minor was adopted by one person only—</div>
+      <div>(a) if the adoptive parent is alive and has not been deprived of the custody of the minor by the order of a court</div>
+    </td>
+    <td>
+      <div>
 
-The adoptive parent</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(b) if the adoptive parent is alive but has been deprived of the custody of the minor by the order of a court</div>
-  </td>
-  <td>
-    <div>The person who has the custody of the minor under the order of the court</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(c) if the adoptive parent is dead—</div>
-    <div>(i) if there is or are a guardian or guardians of the minor</div>
-  </td>
-  <td>
-    <div>
+The adoptive parent 
 
-The guardian or guardians</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>(ii) if there is no guardian of the minor</div>
-  </td>
-  <td>
-    <div>A prescribed authority</div>
-  </td>
-</tr></table>
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(b) if the adoptive parent is alive but has been deprived of the custody of the minor by the order of a court</div>
+    </td>
+    <td>
+      <div>The person who has the custody of the minor under the order of the court</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(c) if the adoptive parent is dead—</div>
+      <div>(i) if there is or are a guardian or guardians of the minor</div>
+    </td>
+    <td>
+      <div>
+
+The guardian or guardians 
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>(ii) if there is no guardian of the minor</div>
+    </td>
+    <td>
+      <div>A prescribed authority</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 # Notes to the _Marriage Act 1961_
 
@@ -2631,375 +2655,372 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Marriage Act 1961</div>
-  </td>
-  <td>
-    <div>12, 1961</div>
-  </td>
-  <td>
-    <div>6 May 1961</div>
-  </td>
-  <td>
-    <div>Ss. 1–3, 5(1) and 9, Part III (ss. 
+<tbody>
+  <tr>
+    <td>
+      <div>Marriage Act 1961</div>
+    </td>
+    <td>
+      <div>12, 1961</div>
+    </td>
+    <td>
+      <div>6 May 1961</div>
+    </td>
+    <td>
+      <div>Ss. 1–3, 5(1) and 9, Part III (ss. 
 22–24), Part VIII (ss. 107–110) and s. 120: 6 May 1961 
-Remainder: 1 Sept 1963 ( <i>see Gazette</i>1963, p. 1977)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Marriage Act 1973</div>
-  </td>
-  <td>
-    <div>35, 1973</div>
-  </td>
-  <td>
-    <div>27 May 1973</div>
-  </td>
-  <td>
-    <div>1 July 1973 ( <i>see Gazette</i>1973, No. 70, p. 3)</div>
-  </td>
-  <td>
-    <div>Ss. 8(2) and 12(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Marriage Amendment Act 1976</div>
-  </td>
-  <td>
-    <div>209, 1976</div>
-  </td>
-  <td>
-    <div>20 Dec 1976</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2 and 30: Royal Assent 
+Remainder: 1 Sept 1963 ( <i>see Gazette</i>1963, p. 1977) 
+
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Marriage Act 1973</div>
+    </td>
+    <td>
+      <div>35, 1973</div>
+    </td>
+    <td>
+      <div>27 May 1973</div>
+    </td>
+    <td>
+      <div>1 July 1973 ( <i>see Gazette</i>1973, No. 70, p. 3)</div>
+    </td>
+    <td>
+      <div>Ss. 8(2) and 12(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Marriage Amendment Act 1976</div>
+    </td>
+    <td>
+      <div>209, 1976</div>
+    </td>
+    <td>
+      <div>20 Dec 1976</div>
+    </td>
+    <td>
+      <div>Ss. 1, 2 and 30: Royal Assent 
 Ss. 14 and 31: 1 July 1976 
 Remainder: 20 June 1977 
-( <i>see Gazette</i>1977, No. S93)</div>
-  </td>
-  <td>
-    <div>Ss. 2(4), 14(2), 15(2), 23(2) and 30</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Domicile (Consequential Amendments) Act 1982</div>
-  </td>
-  <td>
-    <div>2, 1982</div>
-  </td>
-  <td>
-    <div>4 Mar 1982</div>
-  </td>
-  <td>
-    <div>1 July 1982 ( <i>see 
- </i>s. 2 and <i>Gazette</i> 1982, No. G26, 
-p. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Marriage Amendment Act 1985</div>
-  </td>
-  <td>
-    <div>7, 1985</div>
-  </td>
-  <td>
-    <div>29 Mar 1985</div>
-  </td>
-  <td>
-    <div>Ss. 4, 10–13 and 23: 7 Apr 1986 ( <i>see Gazette</i>1986, No. S153) 
-Remainder: 26 Apr 1985</div>
-  </td>
-  <td>
-    <div>Ss. 8(2), (3) and 25(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>38, 1988</div>
-  </td>
-  <td>
-    <div>3 June 1988</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>115, 1990</div>
-  </td>
-  <td>
-    <div>21 Dec 1990</div>
-  </td>
-  <td>
-    <div>S. 49: Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sex Discrimination Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>71, 1991</div>
-  </td>
-  <td>
-    <div>25 June 1991</div>
-  </td>
-  <td>
-    <div>Part 3 (ss. 11–17): 1 Aug 1991 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>Ss. 3 and 17</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 1992</div>
-  </td>
-  <td>
-    <div>104, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>S. 24: 1 July 1992 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Witness Protection Act 1994</div>
-  </td>
-  <td>
-    <div>124, 1994</div>
-  </td>
-  <td>
-    <div>18 Oct 1994</div>
-  </td>
-  <td>
-    <div>18 Apr 1995</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Law Reform (Consequential Amendments) Act 1995</div>
-  </td>
-  <td>
-    <div>140, 1995</div>
-  </td>
-  <td>
-    <div>12 Dec 1995</div>
-  </td>
-  <td>
-    <div>Schedule 1 (Part 7): 11 June 1996 ( <i>see</i>s. 2(4) and <i>Gazette</i>1996, No. GN5) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 79): Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>125, 1999</div>
-  </td>
-  <td>
-    <div>13 Oct 1999</div>
-  </td>
-  <td>
-    <div>Schedule 13:Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>24, 2001</div>
-  </td>
-  <td>
-    <div>6 Apr 2001</div>
-  </td>
-  <td>
-    <div>S. 4(1), (2) and Schedule 34: <i>(h)</i></div>
-  </td>
-  <td>
-    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Marriage Amendment Act 2002</div>
-  </td>
-  <td>
-    <div>77, 2002</div>
-  </td>
-  <td>
-    <div>8 Oct 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–14, 16–56): 5 Nov 2002 
+( <i>see Gazette</i>1977, No. S93) 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 2(4), 14(2), 15(2), 23(2) and 30</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Domicile (Consequential Amendments) Act 1982</div>
+    </td>
+    <td>
+      <div>2, 1982</div>
+    </td>
+    <td>
+      <div>4 Mar 1982</div>
+    </td>
+    <td>
+      <div>1 July 1982 ( <i>see 
+
+ </i>s. 2 and <i>Gazette</i> 1982, No. G26, 
+p. 2) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Marriage Amendment Act 1985</div>
+    </td>
+    <td>
+      <div>7, 1985</div>
+    </td>
+    <td>
+      <div>29 Mar 1985</div>
+    </td>
+    <td>
+      <div>Ss. 4, 10–13 and 23: 7 Apr 1986 ( <i>see Gazette</i>1986, No. S153) 
+Remainder: 26 Apr 1985 
+</div>
+    </td>
+    <td>
+      <div>Ss. 8(2), (3) and 25(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>38, 1988</div>
+    </td>
+    <td>
+      <div>3 June 1988</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>115, 1990</div>
+    </td>
+    <td>
+      <div>21 Dec 1990</div>
+    </td>
+    <td>
+      <div>S. 49: Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sex Discrimination Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>71, 1991</div>
+    </td>
+    <td>
+      <div>25 June 1991</div>
+    </td>
+    <td>
+      <div>Part 3 (ss. 11–17): 1 Aug 1991 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>Ss. 3 and 17</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Territories Law Reform Act 1992</div>
+    </td>
+    <td>
+      <div>104, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>S. 24: 1 July 1992 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Witness Protection Act 1994</div>
+    </td>
+    <td>
+      <div>124, 1994</div>
+    </td>
+    <td>
+      <div>18 Oct 1994</div>
+    </td>
+    <td>
+      <div>18 Apr 1995</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Family Law Reform (Consequential Amendments) Act 1995</div>
+    </td>
+    <td>
+      <div>140, 1995</div>
+    </td>
+    <td>
+      <div>12 Dec 1995</div>
+    </td>
+    <td>
+      <div>Schedule 1 (Part 7): 11 June 1996 ( <i>see</i>s. 2(4) and <i>Gazette</i>1996, No. GN5) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 5 (item 79): Royal Assent <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>125, 1999</div>
+    </td>
+    <td>
+      <div>13 Oct 1999</div>
+    </td>
+    <td>
+      <div>Schedule 13:Royal Assent <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td>
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>24, 2001</div>
+    </td>
+    <td>
+      <div>6 Apr 2001</div>
+    </td>
+    <td>
+      <div>S. 4(1), (2) and Schedule 34: <i>(h)</i></div>
+    </td>
+    <td>
+      <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Marriage Amendment Act 2002</div>
+    </td>
+    <td>
+      <div>77, 2002</div>
+    </td>
+    <td>
+      <div>8 Oct 2002</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1–14, 
+16–56): 5 Nov 2002 
 Schedule 2 (item 15): 8 Apr 2003 
-Schedule 1: 1 Sept 2003 ( <i>see</i> <i>Gazette</i>2003, No. GN31) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 27) and Sch. 2 (items 5, 10, 17) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Marriage Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>126, 2004</div>
-  </td>
-  <td>
-    <div>16 Aug 2004</div>
-  </td>
-  <td>
-    <div>16 Aug 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Law Amendment (Shared Parental Responsibility) Act 2006</div>
-  </td>
-  <td>
-    <div>46, 2006</div>
-  </td>
-  <td>
-    <div>22 May 2006</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 114–117): 1 July 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 137(a)): <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Schedule 1: 1 Sept 2003 ( <i>see</i> <i>Gazette</i>2003, No. GN31) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 27) and Sch. 2 (items 5, 10, 17) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Marriage Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>126, 2004</div>
+    </td>
+    <td>
+      <div>16 Aug 2004</div>
+    </td>
+    <td>
+      <div>16 Aug 2004</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Family Law Amendment (Shared Parental Responsibility) Act 2006</div>
+    </td>
+    <td>
+      <div>46, 2006</div>
+    </td>
+    <td>
+      <div>22 May 2006</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 114–117): 1 July 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Marriage Act 1961_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(1) of which provides as follows:
 
@@ -3037,108 +3058,6 @@ _(h)_     The _Marriage Act 1961_ was amended by Schedule 34 only of t
 
          Item 15 commenced on 24 May 2001.
 
-_(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -3163,1585 +3082,1565 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 2, 1982; No. 7, 1985; No. 38, 1988; No. 104, 1992; No. 77, 2002; No. 126, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IA</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IA</div>
-  </td>
-  <td>
-    <div>ad. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9B</div>
-  </td>
-  <td>
-    <div>ad. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9C</div>
-  </td>
-  <td>
-    <div>ad. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No.115, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9D</div>
-  </td>
-  <td>
-    <div>am. No. 140, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9D</div>
-  </td>
-  <td>
-    <div>ad. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 140, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9E</div>
-  </td>
-  <td>
-    <div>ad. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 71, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 71, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 140, 1995; No. 46, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22, 23</div>
-  </td>
-  <td>
-    <div>rs. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23A, 23B</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rep. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 
-of Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. A 
-of Div. 1 of Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 29</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1973; No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>rs. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rs. No. 35, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. B 
-of Div. 1 of Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 39</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. C of Div. 1 of Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39A</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39B</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39C–39M</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 43, 1996; No. 125, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part V</div>
-  </td>
-  <td>
-    <div>rs. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part V</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part V</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part V</div>
-  </td>
-  <td>
-    <div>rs. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 74</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 75</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 71, 1991; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988; No. 71, 1991; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 79</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 84</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VA</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88A</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88B</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 126, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88C</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 88D, 88E</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 71, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88EA</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 88F, 88G</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 71, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985; No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 96, 97</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 98</div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 100, 101</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 102</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 107</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 108</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 109</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111A</div>
-  </td>
-  <td>
-    <div>ad. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 112, 113</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 114</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 115</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 117</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 119</div>
-  </td>
-  <td>
-    <div>am. No. 209, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 120</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 209, 1976; No. 38, 1988; No. 77, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>The Schedule</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Schedule</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1973; No. 38, 1988</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1973; No. 209, 1976; No. 2, 1982; No. 7, 1985; No. 38, 1988; No. 104, 1992; No. 77, 2002; No. 126, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>rs. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9A</div>
+    </td>
+    <td>
+      <div>ad. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part</b> <b>IA</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IA</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IA</div>
+    </td>
+    <td>
+      <div>ad. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9B</div>
+    </td>
+    <td>
+      <div>ad. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9C</div>
+    </td>
+    <td>
+      <div>ad. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988; No.115, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 9D</div>
+    </td>
+    <td>
+      <div>am. No. 140, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9D</div>
+    </td>
+    <td>
+      <div>ad. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988; No. 140, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 46, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9E</div>
+    </td>
+    <td>
+      <div>ad. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 71, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 71, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 140, 1995; No. 46, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part III</div>
+    </td>
+    <td>
+      <div>rs. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part III</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 22, 23</div>
+    </td>
+    <td>
+      <div>rs. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2 of Part III</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 23A, 23B</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>rep. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part IV.</div>
+    </td>
+    <td>
+      <div>rs. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Subdiv. A of 
+Div. 1 of Part IV 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 29</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1973; No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>rs. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>rs. No. 35, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Subdiv. B of 
+Div. 1 of Part IV 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 39</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision C</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subdiv. C of Div. 1 of Part IV</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 39A–39M</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42A</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 43, 1996; No. 125, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 55</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 57</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 59</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part V</div>
+    </td>
+    <td>
+      <div>rs. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 1 of Part V</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 60</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 63</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2 of Part V</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 65</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 68</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 69</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 3 of Part V</div>
+    </td>
+    <td>
+      <div>rs. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 74</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 74</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 75</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 75</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 76</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 77</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 71, 1991; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 78</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988; No. 71, 1991; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 79</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 79</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 80</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 81</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 83</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 84</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 84</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 85</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 86</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part</b> <b>VA</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VA</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88A</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88B</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 126, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88C</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 88D, 88E</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 71, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88EA</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 88F, 88G</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 71, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 89</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 90</div>
+    </td>
+    <td>
+      <div>rs. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 92</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 93</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985; No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 94</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 95</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 96, 97</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 98</div>
+    </td>
+    <td>
+      <div>rs. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 99</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 100, 101</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 102</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 103</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 104</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 105</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976; No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 106</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 107</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 108</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 109</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 110</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IX</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 111</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 111A</div>
+    </td>
+    <td>
+      <div>ad. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 112, 113</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 114</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 115</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 116</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 117</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 119</div>
+    </td>
+    <td>
+      <div>am. No. 209, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 120</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 209, 1976; No. 38, 1988; No. 77, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>The Schedule</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Schedule</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1973; No. 38, 1988</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -4777,7 +4676,9 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
@@ -4787,7 +4688,9 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Marriage Amendment Act 2002 (No. 77, 2002)_
 
@@ -4820,5 +4723,6 @@ The amendment made by item 9 applies in relation to notices of intention to ma
 ## 17  Application of item 16
 
 The amendment made by item 16 applies in relation to Proclamations declared after the item commences.
+
 
  
