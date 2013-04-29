@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00090/Html/6825b7cf-4101-4562-bad3-a304b6ca14ea_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00661/Html/1833864a-c6be-4f90-9124-feef8a768d9b_files/image001.gif)
 
 # Telecommunications (Numbering Charges) Act 1997
 
 **Act No. 51 of 1997 as amended**
 
-This compilation was prepared on 10 January 2012
+This compilation was prepared on 23 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -18,61 +18,61 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Act to bind Crown
+[3](#3).            Act to bind Crown                                                                               1
 
-[4](#4).            Extension to eligible Territories
+[4](#4).            Extension to eligible Territories                                                            1
 
-[5](#5).            Interpretation
+[5](#5).            Interpretation                                                                                        1
 
-[5A](#5A).         Meaning of _transferred_
+[5A](#5A).         Meaning of _transferred_                                                                        2
 
 **Part 2—Allocation charges** 
 
     **Division 1—Allocation in accordance with an allocation system**
 
-[6](#6).            Definition of _charge_
+[6](#6).            Definition of _charge_                                                                             4
 
-[7](#7).            Imposition of charge
+[7](#7).            Imposition of charge                                                                            4
 
-[8](#8).            By whom charge payable
+[8](#8).            By whom charge payable                                                                     4
 
-[9](#9).            Amount of charge
+[9](#9).            Amount of charge                                                                                4
 
     **Division 2—Allocation otherwise than in accordance with an allocation system**
 
-[10](#10).          Definition of _charge_
+[10](#10).          Definition of _charge_                                                                             5
 
-[11](#11).          Imposition of charge
+[11](#11).          Imposition of charge                                                                            5
 
-[12](#12).          By whom charge payable
+[12](#12).          By whom charge payable                                                                     5
 
-[13](#13).          Amount of charge
+[13](#13).          Amount of charge                                                                                5
 
-[14](#14).          Maximum charge
+[14](#14).          Maximum charge                                                                                 5
 
-[15](#15).          Exemption from charge
+[15](#15).          Exemption from charge                                                                        5
 
 **Part 3—Annual charge**
 
-[16](#16).          Definition of _charge_
+[16](#16).          Definition of _charge_                                                                             7
 
-[17](#17).          Holder of a number
+[17](#17).          Holder of a number                                                                              7
 
-[18](#18).          Imposition of charge
+[18](#18).          Imposition of charge                                                                            7
 
-[19](#19).          By whom charge payable
+[19](#19).          By whom charge payable                                                                     8
 
-[20](#20).          Amount of charge
+[20](#20).          Amount of charge                                                                                8
 
-[21](#21).          Maximum charge
+[21](#21).          Maximum charge                                                                                 8
 
-[22](#22).          Exemption from charge
+[22](#22).          Exemption from charge                                                                        8
 
 **Notes** 
 
@@ -194,7 +194,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  The ACMA may, by written determination, exempt a specified number from charge.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (3)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
@@ -254,7 +254,7 @@ Note:          For specification by class, see subsection 13(3
 
              (3)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
 # Notes to the _Telecommunications (Numbering Charges) Act 1997_
 
@@ -360,7 +360,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1141, 1142) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1141, 1142) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -456,14 +456,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 15(2)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 3</b></div>
   </td>
   <td>
@@ -512,14 +504,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 22(3)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part 4</div>
   </td>
   <td>
@@ -534,6 +518,24 @@ Remainder: Royal Assent</div>
     <div>rep. No. 47, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1141  Subsection 15(2) (note)
+
+Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
+
+## 1142  Subsection 22(3) (note)
+
+Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
+
+As at 23 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -582,6 +584,8 @@ A determination made by the ACA under subsection 13(1), 15(2), 18(2), 20(1) or 2
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
