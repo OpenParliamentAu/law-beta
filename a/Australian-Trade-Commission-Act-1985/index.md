@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00251/Html/871693fe-e25c-49f4-8258-aaa7ff114347_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00246/Html/AusTradeComm1985WD02_image001.gif)
 
 # Australian Trade Commission Act 1985
 
 **Act No. 186 of 1985 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 2 July 2008
+ taking into account amendments up to Act No. 33 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [51](#51).          Appointment of Chief Executive Officer
 
-[52](#52).          Appointment to be full‑time
+[52](#52).          Appointment to be full-time
 
 [54](#54).          Remuneration and allowances
 
@@ -146,7 +146,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="corpor-plan"></a>**_corporate plan_** means a plan developed by the CEO in accordance with section 64, and includes such a plan as varied in accordance with section 66.
 
-                    <a name="depart-state"></a>**_Department of State_**, in relation to the Northern Territory, means a Department of that Territory.
+                    <a name="depart-state"></a>**_Department of State_**, in relation to the Northern   Territory, means a Department of that Territory.
 
                     <a name="oversea-develop-project"></a>**_overseas development project_** means a project by way of:
 
@@ -228,7 +228,7 @@ Note:          For the appointment, terms and conditions of th
 
                              (ii)  assisting, directly or indirectly, Australian organisations in trade negotiations;
 
-                            (iii)  promoting, or participating in or co‑ordinating projects to promote, Australian export trade;
+                            (iii)  promoting, or participating in or co-ordinating projects to promote, Australian export trade;
 
                             (iv)  obtaining, and making available to Australian organisations, information relating to current or future opportunities for Australian export trade, including opportunities for involvement in overseas development projects;
 
@@ -236,7 +236,7 @@ Note:          For the appointment, terms and conditions of th
 
                             (vi)  carrying out, or assisting other persons to carry out, or participating with other persons in carrying out, in whole or in part, overseas development projects, in circumstances where that course of action will benefit Australian organisations;
 
-                          (viii)  administering the _Export Market Development Grants Act 1997_;
+                           (viii)  administering the _Export Market Development Grants Act 1997_;
 
                             (ix)  developing and administering schemes to provide assistance in the development of markets in foreign countries; and
 
@@ -308,9 +308,9 @@ Terms and conditions
 
              (4)  The CEO holds office on the terms and conditions (if any) in respect of matters not provided for by this Act that are determined by the Minister.
 
-##### <a id="52"></a>52  Appointment to be full‑time
+##### <a id="52"></a>52  Appointment to be full-time
 
-                   The CEO holds office on a full‑time basis.
+                   The CEO holds office on a full-time basis.
 
 ##### <a id="54"></a>54  Remuneration and allowances
 
@@ -476,13 +476,13 @@ Note:          Section 34C of the _Acts Interpretation Act 1
 
              (2)  Subject to this section, a person to whom this section applies shall not, either directly or indirectly, except for the purposes of this Act:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information concerning the affairs of another person acquired by the first‑mentioned person by reason of his or her employment; or
+                     (a)  make a record of, or divulge or communicate to any person, any information concerning the affairs of another person acquired by the first-mentioned person by reason of his or her employment; or
 
                      (b)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act.
 
                     Penalty:  $2,000 or imprisonment for 1 year, or both.
 
-             (3)  Subsection (2) does not apply to the disclosure of information, or the production of a document, to the Minister, to the Secretary of the Department, or to an officer of the Department designated by the Secretary.
+             (3)  Subsection (2) does not apply to the disclosure of information, or the production of a document, to the Minister, to the Secretary to the Department, or to an officer of the Department designated by the Secretary.
 
              (4)  Subsection (2) does not prevent a person to whom this section applies from communicating, or making available to another person:
 
@@ -508,7 +508,7 @@ Note:          Section 34C of the _Acts Interpretation Act 1
 
 ##### <a id="97"></a>97  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -962,30 +962,15 @@ Remainder: 24 May 2001</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2011</div>
-    </td>
-    <td>
-      <div>5, 2011</div>
-    </td>
-    <td>
-      <div>22 Mar 2011</div>
-    </td>
-    <td>
-      <div>Schedule 7 (item 28): 19 Apr 2011</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
+
+ 
 
 _(a)_     The _Australian Trade Commission Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(b)_     The _Australian Trade Commission Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian Trade Commission Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -1967,7 +1952,7 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
     <div>S. 94</div>
   </td>
   <td>
-    <div>am. No. 149, 1991; No. 44, 1997; No. 100, 1999; No. 56, 2006; No. 5, 2011</div>
+    <div>am. No. 149, 1991; No. 44, 1997; No. 100, 1999; No. 56, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2003,6 +1988,8 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
   </td>
 </tr></table>
 
+ 
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2011,9 +1998,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -2023,9 +2010,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -2033,9 +2020,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -2065,7 +2052,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -2073,12 +2060,14 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
+ 
 
  
