@@ -1,136 +1,139 @@
-![](http://www.comlaw.gov.au/Details/C2012C00223/Html/a382ec90-acf1-45fa-bc6d-0c1aa0a38f51_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00289/Html/FuelTaxConseqTransProv2006_image001.gif)
 
 # Fuel Tax (Consequential and Transitional Provisions) Act 2006
 
 **Act No. 73 of 2006 as amended**
 
-This compilation was prepared on 1 February 2012
- taking into account amendments up to Act No. 157 of 2011
+This compilation was prepared on 1 July 2009
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+**\[This Act was amended by Act No. 42 of 2009]**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+**Amendments from Act No. 42 of 2009**
+
+\[Schedule 7 (item 13) amended heading to item 35 of Schedule 3
+ Schedule 7 (item 14) amended heading to item 40 of Schedule 3
+ Schedule 7 (item 15) amended item 41 of Schedule 3
+
+Schedule 7 (items 13–15) commenced on 1 July 2009]
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
-# Contents
+Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title                                                                                             1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)                                                                                           4
 
-[4](#4).            Regulations
+[4](#4).            Regulations                                                                                          4
 
 **Schedule 1—Amendments relating to the repeal of the Fuel Sales Grants Act 2000** 
 
-Part 1—Amendments commencing on 1 July 2006                                       5
+Part 1—Amendments commencing on 1 July 2006                                             5
 
 Fuel Sales Grants Act 2000                                                                                       5
 
-Product Grants and Benefits Administration Act 2000                                       5
+Product Grants and Benefits Administration Act 2000                                        5
 
-Part 2—Amendments commencing on or after 1 January 2007              6
+Part 2—Amendments commencing on or after 1 January 2007                     6
 
-Product Grants and Benefits Administration Act 2000                                       6
+Product Grants and Benefits Administration Act 2000                                        6
 
-Part 3—Repeal of Fuel Sales Grants Act 2000 on 1 January 2007       7
+Part 3—Repeal of Fuel Sales Grants Act 2000 on 1 January 2007             7
 
 Fuel Sales Grants Act 2000                                                                                       7
 
 **Schedule 2—Amendments relating to the repeal of the States Grants (Petroleum Products) Act 1965** 
 
-Part 1—Amendments commencing on 1 July 2006                                       8
+Part 1—Amendments commencing on 1 July 2006                                             8
 
 States Grants (Petroleum Products) Act 1965                                                       8
 
-Part 2—Repeal of States Grants (Petroleum Products) Act 1965 on 1 July 2007             9
+Part 2—Repeal of States Grants (Petroleum Products) Act 1965 on 1 July 2007     9
 
 States Grants (Petroleum Products) Act 1965                                                       9
 
 **Schedule 3—Fuel credits arising from before 1 July 2006 and until 1 July 2012** 
 
-Part 1—Definitions                                                                                                      10
+Part 1—Definitions                                                                                                          10
 
-Part 2—Energy grants arising before 1 July 2006                                        11
+Part 2—Energy grants arising before 1 July 2006                                              11
 
-Division 1—Energy grants claimed under the Energy Grants Act                    11
+Division 1—Energy grants claimed under the Energy Grants Act                     11
 
 Energy Grants (Credits) Scheme Act 2003                                                           11
 
-Product Grants and Benefits Administration Act 2000                                     12
+Product Grants and Benefits Administration Act 2000                                      11
 
-Division 2—Energy grants claimed under the Fuel Tax Act                              13
+Division 2—Energy grants claimed under the Fuel Tax Act                               13
 
-Part 3—Fuel tax credits arising between 1 July 2006 and 30 June 2012                14
+Part 3—Fuel tax credits arising between 1 July 2006 and 30 June 2012 14
 
-Division 1—Credits arising between 1 July 2006 and 30 June 2008                14
+Division 1—Credits arising between 1 July 2006 and 30 June 2008                   14
 
-Division 2—Credits arising between 1 July 2008 and 30 June 2012                15
+Division 2—Credits arising between 1 July 2008 and 30 June 2012                   15
 
-Part 4—Fuel tax credits for vehicles of 4.5 tonnes                                      18
+Part 4—Fuel tax credits for vehicles of 4.5 tonnes                                            18
 
-Part 4A—Early payments of fuel tax credits arising between 1 July 2006 and 30 June 2008     19
+Part 4A—Early payments of fuel tax credits arising between 1 July 2006 and 30 June 2008                19
 
-Part 5—Alternative fuel energy grants arising under the Energy Grants Act      21
+Part 5—Alternative fuel energy grants arising under the Energy Grants Act  21
 
-Division 1—Energy grants claimed under the Energy Grants Act                    21
+Division 1—Energy grants claimed under the Energy Grants Act                     21
 
-Product Grants and Benefits Administration Act 2000                                     21
+Product Grants and Benefits Administration Act 2000                                      21
 
-Division 2—Energy grants claimed under the Fuel Tax Act                              22
+Division 2—Energy grants claimed under the Fuel Tax Act                               22
 
-Part 6—Amendments relating to the repeal of the Energy Grants Act on 1 July 2012   23
+Part 6—Amendments relating to the repeal of the Energy Grants Act on 1 July 2012              23
 
-Product Grants and Benefits Administration Act 2000                                     23
+Product Grants and Benefits Administration Act 2000                                      23
 
-Part 7—Repeal of Energy Grants Act on 1 July 2012                               24
+Part 7—Repeal of Energy Grants Act on 1 July 2012                                     24
 
 Energy Grants (Credits) Scheme Act 2003                                                           24
 
-Part 8—Other amendments relating to the transitional period               25
+Part 8—Other amendments relating to the transitional period                       25
 
-Division 1AA—Amendments commencing on 1 July 2006                              25
+Division 1AA—Amendments commencing on 1 July 2006                                 25
 
 Fuel Tax Act 2006                                                                                                     25
 
-Division 1—Amendments commencing on 1 July 2007                                    25
+Division 1—Amendments commencing on 1 July 2007                                       25
 
-Product Grants and Benefits Administration Act 2000                                     25
+Product Grants and Benefits Administration Act 2000                                      25
 
-Division 1A—Amendments commencing on 1 July 2008                                 26
-
-Fuel Tax Act 2006                                                                                                     26
-
-Division 2—Amendments commencing on 1 July 2010                                    26
+Division 1A—Amendments commencing on 1 July 2008                                    26
 
 Fuel Tax Act 2006                                                                                                     26
 
-Division 3—Amendments commencing on 1 July 2012                                    27
+Division 2—Amendments commencing on 1 July 2010                                       26
+
+Fuel Tax Act 2006                                                                                                     26
+
+Division 3—Amendments commencing on 1 July 2012                                       27
 
 Fuel Tax Act 2006                                                                                                     27
 
-Division 4—Amendments commencing on 1 July 2013                                    27
+Division 4—Amendments commencing on 1 July 2013                                       27
 
 Fuel Tax Act 2006                                                                                                     27
 
-Product Grants and Benefits Administration Act 2000                                     27
+Product Grants and Benefits Administration Act 2000                                      27
 
 **Schedule 4—Other amendments** 
 
-Product Grants and Benefits Administration Act 2000                                     29
+Product Grants and Benefits Administration Act 2000                                      29
 
 **Schedule 5—Administrative provisions** 
 
-Part 1—Administrative provisions                                                                       30
+Part 1—Administrative provisions                                                                            30
 
 Administrative Decisions (Judicial Review) Act 1977                                       30
 
-A New Tax System (Goods and Services Tax) Act 1999                                      30
+A New Tax System (Goods and Services Tax) Act 1999                                     30
 
 Income Tax Assessment Act 1936                                                                            30
 
@@ -138,49 +141,53 @@ Income Tax Assessment Act 1997                �
 
 Taxation Administration Act 1953                                                                         36
 
-Part 2—Amendments conditional on the Tax Laws Amendment (2005 Measures No. 4) Act 2005      81
+Part 2—Amendments conditional on the Tax Laws Amendment (2005 Measures No. 4) Act 2005 80
 
-Taxation Administration Act 1953                                                                         81
+Taxation Administration Act 1953                                                                         80
 
-Tax Laws Amendment (2005 Measures No. 4) Act 2005                                    82
+Tax Laws Amendment (2005 Measures No. 4) Act 2005                                    81
 
-Part 3—Consequential amendments                                                                    83
+Part 3—Consequential amendments                                                                        82
 
-Administrative Decisions (Judicial Review) Act 1977                                       83
+Administrative Decisions (Judicial Review) Act 1977                                       82
 
-A New Tax System (Commonwealth‑State Financial Arrangements) Act 1999 83
+A New Tax System (Commonwealth-State Financial Arrangements) Act 1999  82
 
-A New Tax System (Goods and Services Tax) Act 1999                                      83
+A New Tax System (Goods and Services Tax) Act 1999                                     82
 
-A New Tax System (Goods and Services Tax Transition) Act 1999                  91
+A New Tax System (Goods and Services Tax Transition) Act 1999                 90
 
-A New Tax System (Luxury Car Tax) Act 1999                                                     91
+A New Tax System (Luxury Car Tax) Act 1999                                                    90
 
-A New Tax System (Wine Equalisation Tax) Act 1999                                       92
+A New Tax System (Wine Equalisation Tax) Act 1999                                       90
 
-Crimes (Taxation Offences) Act 1980                                                                    93
+Crimes (Taxation Offences) Act 1980                                                                    91
 
-Freedom of Information Act 1982                                                                          93
+Freedom of Information Act 1982                                                                           91
 
-Income Tax Assessment Act 1936                                                                            93
+Income Tax Assessment Act 1936                                                                            92
 
-Income Tax Assessment Act 1997                                                                            93
+Income Tax Assessment Act 1997                                                                            92
 
-Taxation Administration Act 1953                                                                         94
+Taxation Administration Act 1953                                                                         92
 
-Taxation (Interest on Overpayments and Early Payments) Act 1983              94
+Taxation (Interest on Overpayments and Early Payments) Act 1983             93
 
-Tax Laws Amendment (Retirement Villages) Act 2004                                       95
+Tax Laws Amendment (Retirement Villages) Act 2004                                      93
 
-Part 4—Consequential amendments conditional on the Tax Laws Amendment (2005 Measures No. 4) Act 2005                                                                                                                   96
+Part 4—Consequential amendments conditional on the Tax Laws Amendment (2005 Measures No. 4) Act 2005                                                                                                                              95
 
-A New Tax System (Wine Equalisation Tax) Act 1999                                       96
+A New Tax System (Wine Equalisation Tax) Act 1999                                       95
 
-**Notes** 
+ 
 
 ## An Act to deal with consequential and transitional matters arising from the enactment of the _Fuel Tax Act 2006_, and for other purposes
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+[_Assented to 26 June 2006_]
+
+The Parliament of Australia enacts:
+
+##### <a id="1"></a>1  Short title
 
                    This Act may be cited as the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_.
 
@@ -519,13 +526,13 @@ Note:          This table relates only to the provisions of th
 
              (2)  Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
 
-##### <a id="3"></a>3  Schedule(s)
+##### <a id="3"></a>3  Schedule(s)
 
                    Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
 ##### <a id="4"></a>4  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -547,7 +554,7 @@ Omit “2000.”, substitute “2000 but before 1 July 2006.”.
 
 Insert:
 
-                   (da)  if the claim is for payment of a fuel sales grant—must be given to the Commissioner before the earlier of:
+                    (da)  if the claim is for payment of a fuel sales grant—must be given to the Commissioner before the earlier of:
 
                               (i)  1 January 2007; and
 
@@ -637,15 +644,15 @@ In this Schedule:
 
 **_Fuel Tax Act_** means the _Fuel Tax Act 2006_.
 
-**_off‑road credit_** means an off‑road credit under Part 4 of the Energy Grants Act.
+**_off-road credit_** means an off-road credit under Part 4 of the Energy Grants Act.
 
-**_off‑road diesel fuel_** has the meaning given by section 4 of the Energy Grants Act.
+**_off-road diesel fuel_** has the meaning given by section 4 of the Energy Grants Act.
 
-**_on‑road alternative fuel_** has the meaning given by section 4 of the Energy Grants Act.
+**_on-road alternative fuel_** has the meaning given by section 4 of the Energy Grants Act.
 
-**_on‑road credit_** means an on‑road credit under Part 3 of the Energy Grants Act.
+**_on-road credit_** means an on-road credit under Part 3 of the Energy Grants Act.
 
-**_on‑road diesel fuel_** has the meaning given by section 4 of the Energy Grants Act.
+**_on-road diesel fuel_** has the meaning given by section 4 of the Energy Grants Act.
 
 <h7 class="ActHead7">Part 2—Energy grants arising before 1 July 2006</h7>
 
@@ -661,9 +668,9 @@ Before “This”, insert “(1)”.
 
 Add:
 
-             (2)  You are not entitled to an on‑road credit if you purchase or import on‑road diesel fuel on or after 1 July 2006.
+             (2)  You are not entitled to an on-road credit if you purchase or import on-road diesel fuel on or after 1 July 2006.
 
-Note:          Claims under the _Product Grants and Benefits Administration Act 2000_ for energy grants for on‑road diesel fuel must be made before 1 July 2007 (see subsection 15(2) of that Act). Alternatively, you can claim such grants under the _Fuel Tax Act 2006_(see item 9 of Schedule 3 to the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_).
+Note:          Claims under the _Product Grants and Benefits Administration Act 2000_ for energy grants for on-road diesel fuel must be made before 1 July 2007 (see subsection 15(2) of that Act). Alternatively, you can claim such grants under the _Fuel Tax Act 2006_(see item 9 of Schedule 3 to the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_).
 
 ## 4  Section 51
 
@@ -673,17 +680,17 @@ Before “This”, insert “(1)”.
 
 Add:
 
-             (2)  You are not entitled to an off‑road credit if you purchase or import off‑road diesel fuel on or after 1 July 2006.
+             (2)  You are not entitled to an off-road credit if you purchase or import off-road diesel fuel on or after 1 July 2006.
 
-Note:          Claims under the _Product Grants and Benefits Administration Act 2000_ for energy grants for off‑road diesel fuel must be made before 1 July 2007 (see subsection 15(2) of that Act). Alternatively, you can claim such grants under the _Fuel Tax Act 2006_(see item 9 of Schedule 3 to the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_).
+Note:          Claims under the _Product Grants and Benefits Administration Act 2000_ for energy grants for off-road diesel fuel must be made before 1 July 2007 (see subsection 15(2) of that Act). Alternatively, you can claim such grants under the _Fuel Tax Act 2006_(see item 9 of Schedule 3 to the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_).
 
-<h9 class="ActHead9" style="page-break-after:avoid">Product Grants and Benefits Administration Act 2000</h9>
+<h9 class="ActHead9">Product Grants and Benefits Administration Act 2000</h9>
 
 ## 6  Before paragraph 15(2)(e)
 
 Insert:
 
-                   (db)  if the claim is for payment of an energy grant in respect of an on‑road credit for on‑road diesel fuel, or an off‑road credit for off‑road diesel fuel—must be given to the Commissioner before the earlier of:
+                    (db)  if the claim is for payment of an energy grant in respect of an on-road credit for on-road diesel fuel, or an off-road credit for off-road diesel fuel—must be given to the Commissioner before the earlier of:
 
                               (i)  1 July 2007; and
 
@@ -695,9 +702,9 @@ Insert:
 
           (2A)  Despite the provisions of Part 3 and the _Energy Grants (Credits) Scheme Act 2003_, you are not entitled to an energy grant for:
 
-                     (a)  an on‑road credit for on‑road diesel fuel; or
+                     (a)  an on-road credit for on-road diesel fuel; or
 
-                     (b)  an off‑road credit for off‑road diesel fuel;
+                     (b)  an off-road credit for off-road diesel fuel;
 
 if you have already given the Commissioner a return under the _Fuel Tax Act 2006_ that includes a net fuel amount that takes into account a decreasing fuel tax adjustment that relates to the fuel.
 
@@ -707,37 +714,37 @@ Add:
 
              (4)  In this section:
 
-                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006._
+                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
 
-                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006._
+                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
 
-                    <a name="off-road-crite"></a>**_off‑road credit_** means an off‑road credit under Part 4 of the _Energy Grants (Credits) Scheme Act 2003_.
+                    <a name="off-road-crite"></a>**_off-road credit_** means an off-road credit under Part 4 of the _Energy Grants (Credits) Scheme Act 2003_.
 
-                    <a name="off-road-diesel-fuel"></a>**_off‑road diesel fuel_**has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
+                    <a name="off-road-diesel-fuel"></a>**_off-road diesel fuel_**has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
 
-                    <a name="road-crite"></a>**_on‑road credit_** means an on‑road credit under Part 3 of the _Energy Grants (Credits) Scheme Act 2003_.
+                    <a name="road-crite"></a>**_on-road credit_** means an on-road credit under Part 3 of the _Energy Grants (Credits) Scheme Act 2003_.
 
-                    <a name="road-diesel-fuel"></a>**_on‑road diesel fuel_** has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
+                    <a name="road-diesel-fuel"></a>**_on-road diesel fuel_** has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
 
 <h8 class="ActHead8">Division 2—Energy grants claimed under the Fuel Tax Act</h8>
 
 ## 9  Grants claimed under the Fuel Tax Act
 
-(1)       For the purposes of the Fuel Tax Act, you have a **_decreasing fuel tax adjustment_** if:
+(1)        For the purposes of the Fuel Tax Act, you have a **_decreasing fuel tax adjustment_** if:
 
-                     (a)  you purchased or imported on‑road diesel fuel or off‑road diesel fuel between 1 July 2003 and 30 June 2006 (inclusive); and
+                     (a)  you purchased or imported on-road diesel fuel or off-road diesel fuel between 1 July 2003 and 30 June 2006 (inclusive); and
 
-                     (b)  you were entitled to an on‑road credit or an off‑road credit in respect of the fuel (disregarding section 41 or 52 of the Energy Grants Act, as the case requires); and
+                     (b)  you were entitled to an on-road credit or an off-road credit in respect of the fuel (disregarding section 41 or 52 of the Energy Grants Act, as the case requires); and
 
                      (c)  you have not made a claim for payment of an energy grant in respect of the credit under section 15 of the _Product Grants and Benefits Administration Act 2000_.
 
-(2)       The amount of the adjustment is the amount of the credit that you were entitled to under the Energy Grants Act.
+(2)        The amount of the adjustment is the amount of the credit that you were entitled to under the Energy Grants Act.
 
-(3)       The adjustment is attributable to the tax period or fuel tax return period that you choose that ends before 1 July 2009.
+(3)        The adjustment is attributable to the tax period or fuel tax return period that you choose that ends before 1 July 2009.
 
-(4)       If you have a decreasing fuel tax adjustment under this item, then:
+(4)        If you have a decreasing fuel tax adjustment under this item, then:
 
-                     (a)  Division 44 of the Fuel Tax Act (which is about fuel tax adjustments) applies as if a reference to a fuel tax credit were a reference to an on‑road credit or an off‑road credit, as the case requires; and
+                     (a)  Division 44 of the Fuel Tax Act (which is about fuel tax adjustments) applies as if a reference to a fuel tax credit were a reference to an on-road credit or an off-road credit, as the case requires; and
 
                      (b)  sections 49 and 55 of the Energy Grants Act do not apply to the fuel.
 
@@ -747,7 +754,7 @@ Add:
 
 ## 10  Fuel acquired, manufactured or imported between 1 July 2006 and 30 June 2008
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  you acquire, manufacture or import taxable fuel between 1 July 2006 and 30 June 2008 (inclusive); and
 
@@ -765,25 +772,25 @@ Add:
 
                             (vi)  for use as heating oil; and
 
-                     (c)  apart from this item, you would be entitled to a fuel tax credit under section 41‑5 of the Fuel Tax Act.
+                     (c)  apart from this item, you would be entitled to a fuel tax credit under section 41-5 of the Fuel Tax Act.
 
-(2)       You are not entitled to the credit under section 41‑5 of the Fuel Tax Act unless you meet a condition in subitem (3) or (5).
+(2)        You are not entitled to the credit under section 41-5 of the Fuel Tax Act unless you meet a condition in subitem (3) or (5).
 
-Entitlement to a credit if you would have been entitled to an on‑road credit
+Entitlement to a credit if you would have been entitled to an on-road credit
 
-(3)       You are not entitled to the credit under section 41‑5 of the Fuel Tax Act unless you would have been entitled to an on‑road credit in respect of the fuel, assuming:
+(3)        You are not entitled to the credit under section 41-5 of the Fuel Tax Act unless you would have been entitled to an on-road credit in respect of the fuel, assuming:
 
                      (a)  that you had disregarded subsection 40(2) and sections 41 and 49A of the Energy Grants Act; and
 
                      (b)  that references in Part 3 of that Act to “purchase or import into Australia” were instead references to “acquire or manufacture in, or import into, Australia”.
 
-(4)       If subitem (3) applies to you, you are taken, for the purposes of section 43‑10 of the Fuel Tax Act, to have acquired, manufactured or imported the fuel to use, in a vehicle, for travelling on a public road.
+(4)        If subitem (3) applies to you, you are taken, for the purposes of section 43-10 of the Fuel Tax Act, to have acquired, manufactured or imported the fuel to use, in a vehicle, for travelling on a public road.
 
-_Note:       The effect of this subitem is that the amount of the fuel tax credit is reduced under section 43‑10 of the Fuel Tax Act by the amount of the road user charge._
+_Note:       The effect of this subitem is that the amount of the fuel tax credit is reduced under section 43-10 of the Fuel Tax Act by the amount of the road user charge._
 
-Entitlement to a credit if you would have been entitled to an off‑road credit
+Entitlement to a credit if you would have been entitled to an off-road credit
 
-(5)       You are not entitled to the credit under section 41‑5 of the Fuel Tax Act unless you would have been entitled to an off‑road credit in respect of the fuel, assuming:
+(5)        You are not entitled to the credit under section 41-5 of the Fuel Tax Act unless you would have been entitled to an off-road credit in respect of the fuel, assuming:
 
                      (a)  that you had disregarded subsection 51(2) and sections 52 and 55A of the Energy Grants Act; and
 
@@ -791,7 +798,7 @@ Entitlement to a credit if you would have been entitled to an off‑road credit
 
 Fuel tax adjustment provisions
 
-(6)       If this item applies, then sections 49 and 55 of the Energy Grants Act do not apply to the fuel.
+(6)        If this item applies, then sections 49 and 55 of the Energy Grants Act do not apply to the fuel.
 
 _Note:       Division 44 of the Fuel Tax Act 2006 deals with adjustments of fuel tax credits._
 
@@ -799,7 +806,7 @@ _Note:       Division 44 of the Fuel Tax Act 2006 deals with adjus
 
 ## 11  Fuel acquired, manufactured or imported between 1 July 2008 and 30 June 2012
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  you acquire, manufacture or import taxable fuel between 1 July 2008 and 30 June 2012 (inclusive); and
 
@@ -817,23 +824,23 @@ _Note:       Division 44 of the Fuel Tax Act 2006 deals with adjus
 
                             (vi)  for use as heating oil; and
 
-                     (c)  apart from this item, you would be entitled to a fuel tax credit under section 41‑5 of the Fuel Tax Act.
+                     (c)  apart from this item, you would be entitled to a fuel tax credit under section 41-5 of the Fuel Tax Act.
 
-(2)       You are not entitled to the credit under section 41‑5 of the Fuel Tax Act unless you meet a condition in subitem (3), (5), (6) or (7).
+(2)        You are not entitled to the credit under section 41-5 of the Fuel Tax Act unless you meet a condition in subitem (3), (5), (6) or (7).
 
-Entitlement to a full credit if you would have been entitled to an on‑road or off‑road credit
+Entitlement to a full credit if you would have been entitled to an on-road or off-road credit
 
-(3)       You are not entitled to the credit under section 41‑5 of the Fuel Tax Act unless you would have been entitled to an on‑road credit in respect of the fuel, assuming:
+(3)        You are not entitled to the credit under section 41-5 of the Fuel Tax Act unless you would have been entitled to an on-road credit in respect of the fuel, assuming:
 
                      (a)  that you had disregarded subsection 40(2) and sections 41 and 49A of the Energy Grants Act; and
 
                      (b)  that references in Part 3 of that Act to “purchase or import into Australia” were instead references to “acquire or manufacture in, or import into, Australia”.
 
-(4)       If subitem (3) applies to you, you are taken, for the purposes of section 43‑10 of the Fuel Tax Act, to have acquired, manufactured or imported the fuel to use, in a vehicle, for travelling on a public road.
+(4)        If subitem (3) applies to you, you are taken, for the purposes of section 43-10 of the Fuel Tax Act, to have acquired, manufactured or imported the fuel to use, in a vehicle, for travelling on a public road.
 
-_Note:       The effect of this subitem is that the amount of the fuel tax credit is reduced under section 43‑10 of the Fuel Tax Act by the amount of the road user charge._
+_Note:       The effect of this subitem is that the amount of the fuel tax credit is reduced under section 43-10 of the Fuel Tax Act by the amount of the road user charge._
 
-(5)       You are entitled to the credit under section 41‑5 of the Fuel Tax Act if you would have been entitled to an off‑road credit in respect of the fuel, assuming:
+(5)        You are entitled to the credit under section 41-5 of the Fuel Tax Act if you would have been entitled to an off-road credit in respect of the fuel, assuming:
 
                      (a)  that you had disregarded subsection 51(2) and sections 52 and 55A of the Energy Grants Act; and
 
@@ -841,25 +848,25 @@ _Note:       The effect of this subitem is that the amount of the fu
 
                               (i)  “purchase or import into Australia” were instead references to “acquire or manufacture in, or import into, Australia”; and
 
-                             (ii)  “off‑road diesel fuel” were instead references to the fuel.
+                             (ii)  “off-road diesel fuel” were instead references to the fuel.
 
 Entitlement to half a credit if you would not have been entitled to a credit
 
-(6)       You are entitled to the credit under section 41‑5 of the Fuel Tax Act even if you do not meet a condition in subitem (3) or (5). However, subject to subitem (7), the amount of the credit is half of the amount it would have been under Division 43 of the Fuel Tax Act apart from this subitem.
+(6)        You are entitled to the credit under section 41-5 of the Fuel Tax Act even if you do not meet a condition in subitem (3) or (5). However, subject to subitem (7), the amount of the credit is half of the amount it would have been under Division 43 of the Fuel Tax Act apart from this subitem.
 
-_Note:       You are entitled to a full credit under subitem (7) if you acquire, manufacture or import on‑road alternative fuel between 1 July 2011 and 30 June 2012._
+_Note:       You are entitled to a full credit under subitem (7) if you acquire, manufacture or import on-road alternative fuel between 1 July 2011 and 30 June 2012._
 
 Entitlement to a full credit for alternative fuel acquired, manufactured or imported between 1 July 2011 and 30 June 2012
 
-(7)       You are entitled to the credit under section 41‑5 of the Fuel Tax Act if:
+(7)        You are entitled to the credit under section 41-5 of the Fuel Tax Act if:
 
-                     (a)  the fuel you acquire, manufacture or import is on‑road alternative fuel; and
+                     (a)  the fuel you acquire, manufacture or import is on-road alternative fuel; and
 
                      (b)  you acquire, manufacture or import the fuel between 1 July 2011 and 30 June 2012 (inclusive).
 
 Fuel tax adjustment provisions
 
-(8)       If this item applies, then sections 49 and 55 of the Energy Grants Act do not apply to the fuel.
+(8)        If this item applies, then sections 49 and 55 of the Energy Grants Act do not apply to the fuel.
 
 _Note:       Division 44 of the Fuel Tax Act 2006 deals with adjustments of fuel tax credits._
 
@@ -867,9 +874,9 @@ _Note:       Division 44 of the Fuel Tax Act 2006 deals with adjus
 
 ## 12  Fuel acquired, manufactured or imported on or after 1 July 2006
 
-(1)       This item applies if:
+(1)        This item applies if:
 
-                     (a)  you acquire, manufacture or import on‑road diesel fuel on or after 1 July 2006; and
+                     (a)  you acquire, manufacture or import on-road diesel fuel on or after 1 July 2006; and
 
                      (b)  you acquire, manufacture or import the fuel:
 
@@ -877,19 +884,19 @@ _Note:       Division 44 of the Fuel Tax Act 2006 deals with adjus
 
                              (ii)  for incidental use (within the meaning of section 8 of the Energy Grants Act) in relation to such a vehicle; or
 
-                            (iii)  for use in such a vehicle in circumstances not covered by subparagraph (i) or (ii) in which you would have been entitled to an on‑road credit under the Energy Grants Act, assuming that you had disregarded subsection 40(2) and sections 41 and 49A of the Energy Grants Act; and
+                            (iii)  for use in such a vehicle in circumstances not covered by subparagraph (i) or (ii) in which you would have been entitled to an on-road credit under the Energy Grants Act, assuming that you had disregarded subsection 40(2) and sections 41 and 49A of the Energy Grants Act; and
 
                      (c)  you acquired the vehicle before 1 July 2006.
 
-(2)       You are entitled to a credit under section 41‑5 of the Fuel Tax Act if you would have been entitled to a credit in respect of the fuel under that section, disregarding section 41‑20 of that Act.
+(2)        You are entitled to a credit under section 41-5 of the Fuel Tax Act if you would have been entitled to a credit in respect of the fuel under that section, disregarding section 41-20 of that Act.
 
-(3)       To avoid doubt, this item continues to apply despite the repeal of the Energy Grants Act on 1 July 2012.
+(3)        To avoid doubt, this item continues to apply despite the repeal of the Energy Grants Act on 1 July 2012.
 
 <h7 class="ActHead7">Part 4A—Early payments of fuel tax credits arising between 1 July 2006 and 30 June 2008</h7>
 
 ## 12A  Fuel acquired, manufactured or imported between 1 July 2006 and 30 June 2008
 
-(1)       The Commissioner must make you an early payment of a fuel tax credit for taxable fuel if:
+(1)        The Commissioner must make you an early payment of a fuel tax credit for taxable fuel if:
 
                      (a)  before 31 December 2006, you elect, in the approved form, to receive early payments under this item; and
 
@@ -903,7 +910,7 @@ _Note:       Division 44 of the Fuel Tax Act 2006 deals with adjus
 
                      (d)  you are:
 
-                              (i)  entitled to the credit under section 41‑5 or 41‑10 of the Fuel Tax Act (as affected by this Act); or
+                              (i)  entitled to the credit under section 41-5 or 41-10 of the Fuel Tax Act (as affected by this Act); or
 
                              (ii)  taken to be entitled to the credit under Part 4 of this Schedule; and
 
@@ -921,9 +928,9 @@ _Note 1:    See Division 3A of Part IIB of the Taxation Administration
 
 _Note 2:    Interest is payable under the Taxation (Interest on Overpayments and Early Payments) Act 1983 if the Commissioner is late in paying the amount._
 
-(2)       The amount of the early payment is the amount of the credit to which you are entitled.
+(2)        The amount of the early payment is the amount of the credit to which you are entitled.
 
-(3)       If you receive an early payment under this item, then for the purposes of the Fuel Tax Act:
+(3)        If you receive an early payment under this item, then for the purposes of the Fuel Tax Act:
 
                      (a)  if you account on a cash basis, you acquire the fuel and, in a tax period, you provide part of the consideration for the fuel:
 
@@ -949,7 +956,7 @@ _Note:       You will still claim the credit for the tax period, but
 
 Insert:
 
-                   (da)  if the claim is for payment of an energy grant in respect of an on‑road credit for on‑road alternative fuel—must be given to the Commissioner before the earlier of:
+                    (da)  if the claim is for payment of an energy grant in respect of an on-road credit for on-road alternative fuel—must be given to the Commissioner before the earlier of:
 
                               (i)  1 July 2011; and
 
@@ -963,7 +970,7 @@ Before “must be”, insert “otherwise—”.
 
 Insert:
 
-          (2A)  Despite the provisions of Part 3 and the _Energy Grants (Credits) Scheme Act 2003_, you are not entitled to an energy grant for an on‑road credit for on‑road alternative fuel if you have already given the Commissioner a return under the _Fuel Tax Act 2006_ that includes a net fuel amount that takes into account a decreasing fuel tax adjustment that relates to the fuel.
+          (2A)  Despite the provisions of Part 3 and the _Energy Grants (Credits) Scheme Act 2003_, you are not entitled to an energy grant for an on-road credit for on-road alternative fuel if you have already given the Commissioner a return under the _Fuel Tax Act 2006_ that includes a net fuel amount that takes into account a decreasing fuel tax adjustment that relates to the fuel.
 
 ## 16  At the end of section 15
 
@@ -971,33 +978,33 @@ Add:
 
              (4)  In this section:
 
-                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006._
+                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
 
-                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006._
+                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
 
-                    <a name="road-altern-fuel"></a>**_on‑road alternative fuel_** has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
+                    <a name="road-altern-fuel"></a>**_on-road alternative fuel_** has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
 
-                    <a name="road-crite"></a>**_on‑road credit_** means an on‑road credit under Part 3 of the _Energy Grants (Credits) Scheme Act 2003_.
+                    <a name="road-crite"></a>**_on-road credit_** means an on-road credit under Part 3 of the _Energy Grants (Credits) Scheme Act 2003_.
 
 <h8 class="ActHead8">Division 2—Energy grants claimed under the Fuel Tax Act</h8>
 
 ## 17  Grants claimed under the Fuel Tax Act
 
-(1)       For the purposes of the Fuel Tax Act, you have a **_decreasing fuel tax adjustment_** if:
+(1)        For the purposes of the Fuel Tax Act, you have a **_decreasing fuel tax adjustment_** if:
 
-                     (a)  you purchased or imported on‑road alternative fuel before 1 July 2010; and
+                     (a)  you purchased or imported on-road alternative fuel before 1 July 2010; and
 
-                     (b)  you were entitled to an on‑road credit in respect of the fuel (disregarding section 41 of the Energy Grants Act); and
+                     (b)  you were entitled to an on-road credit in respect of the fuel (disregarding section 41 of the Energy Grants Act); and
 
                      (c)  you have not made a claim for payment of an energy grant in respect of the credit under section 15 of the _Product Grants and Benefits Administration Act 2000_.
 
-(2)       The amount of the adjustment is the amount of the credit that you were entitled to under the Energy Grants Act.
+(2)        The amount of the adjustment is the amount of the credit that you were entitled to under the Energy Grants Act.
 
-(3)       The adjustment is attributable to the tax period or fuel tax return period that you choose that ends before 1 July 2013.
+(3)        The adjustment is attributable to the tax period or fuel tax return period that you choose that ends before 1 July 2013.
 
-(4)       If you have a decreasing fuel tax adjustment under this item, then:
+(4)        If you have a decreasing fuel tax adjustment under this item, then:
 
-                     (a)  Division 44 of the Fuel Tax Act (which is about fuel tax adjustments) applies as if a reference to a fuel tax credit were a reference to an on‑road credit; and
+                     (a)  Division 44 of the Fuel Tax Act (which is about fuel tax adjustments) applies as if a reference to a fuel tax credit were a reference to an on-road credit; and
 
                      (b)  section 49 of the Energy Grants Act does not apply to the fuel.
 
@@ -1039,11 +1046,11 @@ Repeal the Act.
 
 <h9 class="ActHead9">Fuel Tax Act 2006</h9>
 
-## 23A  Subsection 65‑10(1) (note)
+## 23A  Subsection 65-10(1) (note)
 
 Omit “item 9”, substitute “items 9 and 12A”.
 
-## 23B  Section 110‑5 (at the end of the definition of _increasing fuel tax adjustment_)
+## 23B  Section 110-5 (at the end of the definition of _increasing fuel tax adjustment_)
 
 Add “of this Act and item 12A of Schedule 3 to the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_”.
 
@@ -1053,7 +1060,7 @@ Add “of this Act and item 12A of Schedule 3 to the _Fuel Tax (Consequentia
 
 ## 24  Section 5 (definition of _energy grants scheme fuel_)
 
-Omit “on‑road diesel fuel, on‑road alternative fuel, or off‑road diesel fuel,”, substitute “on‑road alternative fuel”.
+Omit “on-road diesel fuel, on-road alternative fuel, or off-road diesel fuel,”, substitute “on-road alternative fuel”.
 
 ## 25  Paragraph 15(2)(db)
 
@@ -1101,11 +1108,11 @@ _Note:       The heading to section 27A is altered by omitting “
 
 <h9 class="ActHead9">Fuel Tax Act 2006</h9>
 
-## 34A  Subsection 65‑10(1) (note)
+## 34A  Subsection 65-10(1) (note)
 
 Omit “items 9 and 12A”, substitute “item 9”.
 
-## 34B  Section 110‑5 (definition of _increasing fuel tax adjustment_)
+## 34B  Section 110-5 (definition of _increasing fuel tax adjustment_)
 
 Omit “of this Act and item 12A of Schedule 3 to the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_”.
 
@@ -1113,11 +1120,11 @@ Omit “of this Act and item 12A of Schedule 3 to the _Fuel Tax (Consequenti
 
 <h9 class="ActHead9">Fuel Tax Act 2006</h9>
 
-## 35  Section 65‑10 (note)
+## 35  Section 65-10 (note)
 
 Omit “item 9”, substitute “items 9 and 17”.
 
-## 36  Section 110‑5 (paragraph (b) of the definition of _decreasing fuel tax adjustment_)
+## 36  Section 110-5 (paragraph (b) of the definition of _decreasing fuel tax adjustment_)
 
 Omit “item 9”, substitute “items 9 and 17”.
 
@@ -1125,15 +1132,15 @@ Omit “item 9”, substitute “items 9 and 17”.
 
 <h9 class="ActHead9">Fuel Tax Act 2006</h9>
 
-## 37  Subsection 41‑5(1) (note 1)
+## 37  Subsection 41-5(1) (note 1)
 
 Omit “of this Act and Part 3 of Schedule 3 to the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_”.
 
-## 38  Section 41‑20 (note)
+## 38  Section 41-20 (note)
 
 Repeal the note.
 
-## 39  Paragraph 43‑5(3)(b)
+## 39  Paragraph 43-5(3)(b)
 
 Repeal the paragraph.
 
@@ -1141,17 +1148,17 @@ Repeal the paragraph.
 
 <h9 class="ActHead9">Fuel Tax Act 2006</h9>
 
-## 40  Section 65‑10 (note)
+## 40  Section 65-10 (note)
 
 Repeal the note, substitute:
 
-Note:          For another attribution rule for fuel tax adjustments, see subsection 46‑5(4) (GST instalment taxpayers).
+Note:          For another attribution rule for fuel tax adjustments, see subsection 46-5(4) (GST instalment taxpayers).
 
-## 41  Section 110‑5 (definition of _decreasing fuel tax adjustment_)
+## 41  Section 110-5 (definition of _decreasing fuel tax adjustment_)
 
 Repeal the definition, substitute:
 
-                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 44‑5.
+                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 44-5.
 
 <h9 class="ActHead9">Product Grants and Benefits Administration Act 2000</h9>
 
@@ -1206,17 +1213,17 @@ After “_Fringe Benefits Tax Assessment Act 1986_”, insert:
 
 <h9 class="ActHead9">A New Tax System (Goods and Services Tax) Act 1999</h9>
 
-## 2  At the end of subsection 48‑40(1)
+## 2  At the end of subsection 48-40(1)
 
 Add:
 
-Note:          However, each member is jointly and severally liable to pay the GST that is payable by the representative member (see section 444‑90 in Schedule 1 to the _Taxation Administration Act 1953_).
+Note:          However, each member is jointly and severally liable to pay the GST that is payable by the representative member (see section 444-90 in Schedule 1 to the _Taxation Administration Act 1953_).
 
-## 3  At the end of subsection 51‑30(1)
+## 3  At the end of subsection 51-30(1)
 
 Add:
 
-Note:          However, each participant is jointly and severally liable to pay the GST that is payable by the joint venture operator (see section 444‑80 in Schedule 1 to the _Taxation Administration Act 1953_).
+Note:          However, each participant is jointly and severally liable to pay the GST that is payable by the joint venture operator (see section 444-80 in Schedule 1 to the _Taxation Administration Act 1953_).
 
 <h9 class="ActHead9">Income Tax Assessment Act 1936</h9>
 
@@ -1224,47 +1231,47 @@ Note:          However, each participant is jointly and severa
 
 Add:
 
-            ; and (p)  to facilitate the administration of the fuel tax law (within the meaning of section 110‑5 of the _Fuel Tax Act 2006_).
+             ; and (p)  to facilitate the administration of the fuel tax law (within the meaning of section 110-5 of the _Fuel Tax Act 2006_).
 
 <h9 class="ActHead9">Income Tax Assessment Act 1997</h9>
 
-## 5  Subsection 995‑1(1)
+## 5  Subsection 995-1(1)
 
 Insert:
 
                     <a name="defenc-minist"></a>**_Defence Minister_** means the Minister administering the _Defence Act 1903_.
 
-## 6  Subsection 995‑1(1)
+## 6  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="fuel-tax-crite"></a>**_fuel tax credit_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006_.
+                    <a name="fuel-tax-crite"></a>**_fuel tax credit_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006_.
 
-## 7  Subsection 995‑1(1)
-
-Insert:
-
-                    <a name="fuel-tax-law"></a>**_fuel tax law_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006_.
-
-## 8  Subsection 995‑1(1)
+## 7  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="fuel-tax-return-period"></a>**_fuel tax return period_** has the meaning given by section 61‑20 of the _Fuel Tax Act 2006_.
+                    <a name="fuel-tax-law"></a>**_fuel tax law_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006_.
 
-## 9  Subsection 995‑1(1)
-
-Insert:
-
-                    <a name="gst-free"></a>**_GST‑free_** has the meaning given by section 195‑1 of the * GST Act.
-
-## 10  Subsection 995‑1(1)
+## 8  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="incapacitated-entiti"></a>**_incapacitated entity_** has the meaning given by section 195‑1 of the * GST Act.
+                    <a name="fuel-tax-return-period"></a>**_fuel tax return period_** has the meaning given by section 61-20 of the _Fuel Tax Act 2006_.
 
-## 11  Subsection 995‑1(1)
+## 9  Subsection 995-1(1)
+
+Insert:
+
+                    <a name="gst-free"></a>**_GST-free_** has the meaning given by section 195-1 of the * GST Act.
+
+## 10  Subsection 995-1(1)
+
+Insert:
+
+                    <a name="incapacitated-entiti"></a>**_incapacitated entity_** has the meaning given by section 195-1 of the * GST Act.
+
+## 11  Subsection 995-1(1)
 
 Insert:
 
@@ -1276,7 +1283,7 @@ Insert:
 
                      (c)  * luxury car tax.
 
-## 12  Subsection 995‑1(1)
+## 12  Subsection 995-1(1)
 
 Insert:
 
@@ -1294,7 +1301,7 @@ Insert:
 
 Example:    A GST return is a document made for the purposes of an indirect tax law.
 
-## 13  Subsection 995‑1(1)
+## 13  Subsection 995-1(1)
 
 Insert:
 
@@ -1312,7 +1319,7 @@ Insert:
 
                      (c)  relates to the affairs of an entity other than you.
 
-## 14  Subsection 995‑1(1)
+## 14  Subsection 995-1(1)
 
 Insert:
 
@@ -1326,7 +1333,7 @@ Insert:
 
                      (d)  the * fuel tax law.
 
-## 15  Subsection 995‑1(1)
+## 15  Subsection 995-1(1)
 
 Insert:
 
@@ -1336,143 +1343,143 @@ Insert:
 
                      (b)  an assessment.
 
-## 16  Subsection 995‑1(1)
+## 16  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="joint-ventur-oper"></a>**_joint venture operator_** for a * GST joint venture has the meaning given by section 195‑1 of the * GST Act.
+                    <a name="joint-ventur-oper"></a>**_joint venture operator_** for a * GST joint venture has the meaning given by section 195-1 of the * GST Act.
 
-## 17  Subsection 995‑1(1)
+## 17  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="luxuri-car-tax"></a>**_luxury car tax_** has the meaning given by section 27‑1 of the _*_ Luxury Car Tax Act.
+                    <a name="luxuri-car-tax"></a>**_luxury car tax_** has the meaning given by section 27-1 of the _*_ Luxury Car Tax Act.
 
-## 18  Subsection 995‑1(1)
+## 18  Subsection 995-1(1)
 
 Insert:
 
                     <a name="luxuri-car-tax-act"></a>**_Luxury Car Tax Act_** means the _A New Tax System (Luxury Car Tax) Act 1999_.
 
-## 19  Subsection 995‑1(1)
+## 19  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="luxuri-car-tax-law"></a>**_luxury car tax law_** has the meaning given by section 27‑1 of the * Luxury Car Tax Act.
+                    <a name="luxuri-car-tax-law"></a>**_luxury car tax law_** has the meaning given by section 27-1 of the * Luxury Car Tax Act.
 
-## 20  Subsection 995‑1(1)
+## 20  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 60‑5 of the _Fuel Tax Act 2006_.
+                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 60-5 of the _Fuel Tax Act 2006_.
 
-## 21  Subsection 995‑1(1)
+## 21  Subsection 995-1(1)
 
 Insert:
 
                     <a name="privat-indirect-tax-rule"></a>**_private indirect tax ruling_** means an * indirect tax ruling given to a particular entity.
 
-## 22  Subsection 995‑1(1)
+## 22  Subsection 995-1(1)
 
 Insert:
 
                     <a name="public-indirect-tax-rule"></a>**_public indirect tax ruling_** means an * indirect tax ruling other than a * private indirect tax ruling.
 
-## 23  Subsection 995‑1(1)
+## 23  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="repres"></a>**_representative_** of an * incapacitated entity has the meaning given by section 195‑1 of the * GST Act.
+                    <a name="repres"></a>**_representative_** of an * incapacitated entity has the meaning given by section 195-1 of the * GST Act.
 
-## 24  Subsection 995‑1(1)
-
-Insert:
-
-                    <a name="repres-member"></a>**_representative member_** for a * GST group has the meaning given by section 195‑1 of the * GST Act.
-
-## 25  Subsection 995‑1(1)
+## 24  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="review-fuel-tax-decision"></a>**_reviewable fuel tax decision_** has the meaning given by subsection 112‑50(2) in Schedule 1 to the _Taxation Administration Act 1953_.
+                    <a name="repres-member"></a>**_representative member_** for a * GST group has the meaning given by section 195-1 of the * GST Act.
 
-## 26  Subsection 995‑1(1)
-
-Insert:
-
-                    <a name="review-gst-decision"></a>**_reviewable GST decision_** has the meaning given by subsection 110‑50(2) in Schedule 1 to the _Taxation Administration Act 1953_.
-
-## 27  Subsection 995‑1(1)
+## 25  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="review-gst-transition-decision"></a>**_reviewable GST transitional decision_** has the meaning given by subsection 110‑50(3) in Schedule 1 to the _Taxation Administration Act 1953_.
+                    <a name="review-fuel-tax-decision"></a>**_reviewable fuel tax decision_** has the meaning given by subsection 112-50(2) in Schedule 1 to the _Taxation Administration Act 1953_.
 
-## 28  Subsection 995‑1(1)
-
-Insert:
-
-                    <a name="review-indirect-tax-decision"></a>**_reviewable indirect tax decision_** has the meaning given by subsection 105‑40(2) in Schedule 1 to the _Taxation Administration Act 1953_.
-
-## 29  Subsection 995‑1(1)
+## 26  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="review-wine-tax-decision"></a>**_reviewable wine tax decision_** has the meaning given by subsection 111‑50(2) in Schedule 1 to the _Taxation Administration Act 1953_.
+                    <a name="review-gst-decision"></a>**_reviewable GST decision_** has the meaning given by subsection 110-50(2) in Schedule 1 to the _Taxation Administration Act 1953_.
 
-## 30  Subsection 995‑1(1)
-
-Insert:
-
-                    <a name="taxabl-fuel"></a>**_taxable fuel_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006_.
-
-## 31  Subsection 995‑1(1)
+## 27  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="taxabl-import-luxuri-car"></a>**_taxable importation of a luxury car_** has the meaning given by section 27‑1 of the * Luxury Car Tax Act.
+                    <a name="review-gst-transition-decision"></a>**_reviewable GST transitional decision_** has the meaning given by subsection 110-50(3) in Schedule 1 to the _Taxation Administration Act 1953_.
 
-## 32  Subsection 995‑1(1)
+## 28  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="taxabl-suppli-luxuri-car"></a>**_taxable supply of a luxury car_** has the meaning given by section 27‑1 of the * Luxury Car Tax Act.
+                    <a name="review-indirect-tax-decision"></a>**_reviewable indirect tax decision_** has the meaning given by subsection 105-40(2) in Schedule 1 to the _Taxation Administration Act 1953_.
 
-## 33  Subsection 995‑1(1)
+## 29  Subsection 995-1(1)
+
+Insert:
+
+                    <a name="review-wine-tax-decision"></a>**_reviewable wine tax decision_** has the meaning given by subsection 111-50(2) in Schedule 1 to the _Taxation Administration Act 1953_.
+
+## 30  Subsection 995-1(1)
+
+Insert:
+
+                    <a name="taxabl-fuel"></a>**_taxable fuel_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006_.
+
+## 31  Subsection 995-1(1)
+
+Insert:
+
+                    <a name="taxabl-import-luxuri-car"></a>**_taxable importation of a luxury car_** has the meaning given by section 27-1 of the * Luxury Car Tax Act.
+
+## 32  Subsection 995-1(1)
+
+Insert:
+
+                    <a name="taxabl-suppli-luxuri-car"></a>**_taxable supply of a luxury car_** has the meaning given by section 27-1 of the * Luxury Car Tax Act.
+
+## 33  Subsection 995-1(1)
 
 Insert:
 
                     <a name="visit-forc"></a>**_visiting force_** has the meaning given by section 5 of the _Defence (Visiting Forces) Act 1963_.
 
-## 34  Subsection 995‑1(1)
+## 34  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="wine-tax"></a>**_wine tax_** has the meaning given by section 33‑1 of the _*_ Wine Tax Act.
+                    <a name="wine-tax"></a>**_wine tax_** has the meaning given by section 33-1 of the _*_ Wine Tax Act.
 
-## 35  Subsection 995‑1(1)
+## 35  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="wine-taxabl-deal"></a>**_wine taxable dealing_** means a taxable dealing (within the meaning of section 33‑1 of the * Wine Tax Act).
+                    <a name="wine-taxabl-deal"></a>**_wine taxable dealing_** means a taxable dealing (within the meaning of section 33-1 of the * Wine Tax Act).
 
-## 36  Subsection 995‑1(1)
+## 36  Subsection 995-1(1)
 
 Insert:
 
                     <a name="wine-tax-act"></a>**_Wine Tax Act_** means the _A New Tax System (Wine Equalisation_ _Tax) Act 1999_.
 
-## 37  Subsection 995‑1(1)
+## 37  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="wine-tax-crite"></a>**_wine tax credit_** has the meaning given by section 33‑1 of the * Wine Tax Act.
+                    <a name="wine-tax-crite"></a>**_wine tax credit_** has the meaning given by section 33-1 of the * Wine Tax Act.
 
-## 38  Subsection 995‑1(1)
+## 38  Subsection 995-1(1)
 
 Insert:
 
-                    <a name="wine-tax-law"></a>**_wine tax law_** has the meaning given by section 33‑1 of the _*_ Wine Tax Act.
+                    <a name="wine-tax-law"></a>**_wine tax law_** has the meaning given by section 33-1 of the _*_ Wine Tax Act.
 
 <h9 class="ActHead9">Taxation Administration Act 1953</h9>
 
@@ -1480,19 +1487,19 @@ Insert:
 
 Repeal the Part.
 
-## 40  Before Part 2‑1 in Schedule 1
+## 40  Before Part 2-1 in Schedule 1
 
 Insert:
 
 # Chapter 2—Collection, recovery and administration of income tax
 
-## 41  After Part 2‑10 in Schedule 1
+## 41  After Part 2-10 in Schedule 1
 
 Insert:
 
 # Chapter 3—Collection, recovery and administration of other taxes
 
-## Part 3‑10—Indirect taxes
+## Part 3-10—Indirect taxes
 
 ### Division 105—General rules for indirect taxes
 
@@ -1500,23 +1507,23 @@ Insert:
 
              Guide to Division 105
 
-105‑A   Assessments
+105-A    Assessments
 
-105‑B    Review of indirect tax decisions
+105-B    Review of indirect tax decisions
 
-105‑C    Limits on credits, refunds and recovering amounts
+105-C    Limits on credits, refunds and recovering amounts
 
-105‑D   General interest charge and penalties
+105-D    General interest charge and penalties
 
-105‑E    Evidence
+105-E     Evidence
 
-105‑F    Indirect tax refund schemes
+105-F     Indirect tax refund schemes
 
-105‑G   Other administrative provisions
+105-G    Other administrative provisions
 
 #### Guide to Division 105
 
-##### <a id="105‑1"></a>105‑1  What this Division is about
+##### <a id="105-1"></a>105-1  What this Division is about
 
 * * *
 
@@ -1528,11 +1535,11 @@ The rules in this Division deal with the following:
 
                (a)     how assessments are made or amended and their effect;
 
-              (b)     review of assessments;
+               (b)     review of assessments;
 
                (c)     limits on credits, refunds and recovering amounts;
 
-              (d)     the effect of relying on a ruling;
+               (d)     the effect of relying on a ruling;
 
                (e)     the effect of not passing on refunds of overpaid amounts;
 
@@ -1540,29 +1547,29 @@ The rules in this Division deal with the following:
 
                (g)     the evidentiary effect of official indirect tax documents;
 
-              (h)     refunding indirect tax because of Australia’s international obligations;
+               (h)     refunding indirect tax because of Australia’s international obligations;
 
-               (i)     your address for service of documents and requirements for notifications.
+                (i)     your address for service of documents and requirements for notifications.
 
 * * *
 
-#### Subdivision 105‑A—Assessments
+#### Subdivision 105-A—Assessments
 
 **Table of sections**
 
-105‑5        Commissioner may make assessment of indirect tax
+105-5        Commissioner may make assessment of indirect tax
 
-105‑10      Request for assessment
+105-10      Request for assessment
 
-105‑15      Indirect tax liabilities do not depend on assessment
+105-15      Indirect tax liabilities do not depend on assessment
 
-105‑20      Commissioner must give notice of the assessment
+105-20      Commissioner must give notice of the assessment
 
-105‑25      Amendment of assessment
+105-25      Amendment of assessment
 
-105‑30      Later assessment prevails in case of inconsistency
+105-30      Later assessment prevails in case of inconsistency
 
-##### <a id="105‑5"></a>105‑5  Commissioner may make assessment of indirect tax
+##### <a id="105-5"></a>105-5  Commissioner may make assessment of indirect tax
 
              (1)  The Commissioner may at any time make an assessment of:
 
@@ -1574,9 +1581,9 @@ The rules in this Division deal with the following:
 
              (3)  The Commissioner may make an assessment under this section even if he or she has already made an assessment for the * tax period, * fuel tax return period or importation concerned.
 
-Note:          An assessment made under this section is a reviewable indirect tax decision: see Subdivision 105‑B.
+Note:          An assessment made under this section is a reviewable indirect tax decision: see Subdivision 105-B.
 
-##### <a id="105‑10"></a>105‑10  Request for assessment
+##### <a id="105-10"></a>105-10  Request for assessment
 
              (1)  You may request the Commissioner in the * approved form to make an assessment of:
 
@@ -1596,71 +1603,71 @@ Note:          An assessment made under this section is a revi
 
                      (b)  such further period as the Commissioner allows.
 
-##### <a id="105‑15"></a>105‑15  Indirect tax liabilities do not depend on assessment
+##### <a id="105-15"></a>105-15  Indirect tax liabilities do not depend on assessment
 
              (1)  Your liability to pay * indirect tax or a * net fuel amount, and the time by which a * net amount, a net fuel amount or an amount of indirect tax must be paid, do not depend on, and are not in any way affected by, the making of an assessment under this Subdivision.
 
              (2)  The Commissioner’s obligation to pay:
 
-                     (a)  a * net amount under section 35‑5 of the * GST Act; or
+                     (a)  a * net amount under section 35-5 of the * GST Act; or
 
-                     (b)  a * net fuel amount under section 61‑5 of the _Fuel Tax Act 2006_;
+                     (b)  a * net fuel amount under section 61-5 of the _Fuel Tax Act 2006_;
 
 and the time by which it must be paid, do not depend on, and are not in any way affected by, the making of an assessment under this Subdivision.
 
-Note:          However, a notice of assessment can be used as evidence of liability: see section 105‑100.
+Note:          However, a notice of assessment can be used as evidence of liability: see section 105-100.
 
-##### <a id="105‑20"></a>105‑20  Commissioner must give notice of the assessment
+##### <a id="105-20"></a>105-20  Commissioner must give notice of the assessment
 
              (1)  The Commissioner must give you notice of an assessment as soon as practicable after the assessment is made. However, failing to do so does not affect the validity of the assessment.
 
              (2)  The Commissioner may give you the notice electronically if you are required to lodge or have lodged your * GST returns electronically.
 
-##### <a id="105‑25"></a>105‑25  Amendment of assessment
+##### <a id="105-25"></a>105-25  Amendment of assessment
 
                    The Commissioner may amend an assessment at any time. An amended assessment is an assessment for all purposes of any * indirect tax law.
 
-Note 1:       However, there is a time limit on the recovery of overpaid or underpaid net amounts, net fuel amounts and indirect tax: see sections 105‑50 and 105‑55.
+Note 1:       However, there is a time limit on the recovery of overpaid or underpaid net amounts, net fuel amounts and indirect tax: see sections 105-50 and 105-55.
 
-Note 2:       An amendment under this section is a reviewable indirect tax decision: see Subdivision 105‑B.
+Note 2:       An amendment under this section is a reviewable indirect tax decision: see Subdivision 105-B.
 
-##### <a id="105‑30"></a>105‑30  Later assessment prevails in case of inconsistency
+##### <a id="105-30"></a>105-30  Later assessment prevails in case of inconsistency
 
                    If there is an inconsistency between assessments that relate to the same * tax period, * fuel tax return period or importation of goods, the later assessment prevails to the extent of the inconsistency.
 
-#### Subdivision 105‑B—Review of indirect tax decisions
+#### Subdivision 105-B—Review of indirect tax decisions
 
 **Table of sections**
 
-105‑40      Reviewable indirect tax decisions
+105-40      Reviewable indirect tax decisions
 
-##### <a id="105‑40"></a>105‑40  Reviewable indirect tax decisions
+##### <a id="105-40"></a>105-40  Reviewable indirect tax decisions
 
              (1)  You may object, in the manner set out in Part IVC, against a decision you are dissatisfied with that is a * reviewable indirect tax decision relating to you.
 
-             (2)  A decision under section 105‑5 or 105‑25 involving an assessment of a * net amount, a * net fuel amount or an amount of * indirect tax is a **_reviewable indirect tax decision_**.
+             (2)  A decision under section 105-5 or 105-25 involving an assessment of a * net amount, a * net fuel amount or an amount of * indirect tax is a **_reviewable indirect tax decision_**.
 
-#### Subdivision 105‑C—Limits on credits, refunds and recovering amounts
+#### Subdivision 105-C—Limits on credits, refunds and recovering amounts
 
 **Table of sections**
 
-105‑50      Time limit on recovering unpaid net amounts, net fuel amounts and indirect taxes
+105-50      Time limit on recovering unpaid net amounts, net fuel amounts and indirect taxes
 
-105‑55      Time limit on refunds and credits
+105-55      Time limit on refunds and credits
 
-105‑60      Reliance on Commissioner’s interpretation of an indirect tax law (other than a fuel tax law)
+105-60      Reliance on Commissioner’s interpretation of an indirect tax law (other than a fuel tax law)
 
-105‑65      Restriction on refunds
+105-65      Restriction on refunds
 
-##### <a id="105‑50"></a>105‑50  Time limit on recovering unpaid net amounts, net fuel amounts and indirect taxes
+##### <a id="105-50"></a>105-50  Time limit on recovering unpaid net amounts, net fuel amounts and indirect taxes
 
-                   Any unpaid * net amount, * net fuel amount or amount of * indirect tax (together with any relevant * general interest charge under section 105‑80) ceases to be payable 4 years after it became payable by you unless:
+                   Any unpaid * net amount, * net fuel amount or amount of * indirect tax (together with any relevant * general interest charge under section 105-80) ceases to be payable 4 years after it became payable by you unless:
 
                      (a)  within those 4 years the Commissioner has required payment of the amount by giving a notice to you; or
 
                      (b)  the Commissioner is satisfied that the payment of the amount was avoided by fraud or evaded.
 
-##### <a id="105‑55"></a>105‑55  Time limit on refunds and credits
+##### <a id="105-55"></a>105-55  Time limit on refunds and credits
 
              (1)  You are not entitled to a refund or credit to which this subsection applies in respect of a * tax period or importation unless:
 
@@ -1674,19 +1681,19 @@ Note 2:       An amendment under this section is a reviewable indire
 
                      (b)  within that period the Commissioner notifies you (in a notice of assessment or otherwise) that you are entitled to the refund or credit; or
 
-                     (c)  in the case of a credit—the credit is taken into account in working out a * net amount or * net fuel amount that the Commissioner may recover from you only because of paragraph 105‑50(b).
+                     (c)  in the case of a credit—the credit is taken into account in working out a * net amount or * net fuel amount that the Commissioner may recover from you only because of paragraph 105-50(b).
 
              (2)  Subsection (1) applies to:
 
-                     (a)  a refund under section 35‑5 of the * GST Act or section 61‑5 of the _Fuel Tax Act 2006_ in respect of a particular * tax period; or
+                     (a)  a refund under section 35-5 of the * GST Act or section 61-5 of the _Fuel Tax Act 2006_ in respect of a particular * tax period; or
 
                      (b)  an * input tax credit or * fuel tax credit that is attributable to a particular tax period; or
 
-                     (c)  a * wine tax credit the amount of which could have been included in a reduction of your * net amount for a tax period under section 21‑15 of the * Wine Tax Act; or
+                     (c)  a * wine tax credit the amount of which could have been included in a reduction of your * net amount for a tax period under section 21-15 of the * Wine Tax Act; or
 
                      (d)  a refund of an amount of * indirect tax relating to an importation.
 
-Fuel tax—non‑business taxpayers
+Fuel tax—non-business taxpayers
 
              (3)  If you are neither * registered for GST nor * required to be registered for GST, you are not entitled to a refund or * fuel tax credit to which this subsection applies in respect of a * fuel tax return period, acquisition, manufacture or importation unless:
 
@@ -1700,23 +1707,23 @@ Fuel tax—non‑business taxpayers
 
                      (b)  within that period the Commissioner notifies you (in a notice of assessment or otherwise) that you are entitled to the refund or credit; or
 
-                     (c)  in the case of a fuel tax credit—the credit is taken into account in working out a * net fuel amount that the Commissioner may recover from you only because of paragraph 105‑50(b).
+                     (c)  in the case of a fuel tax credit—the credit is taken into account in working out a * net fuel amount that the Commissioner may recover from you only because of paragraph 105-50(b).
 
              (4)  Subsection (3) applies to:
 
-                     (a)  a refund, under section 61‑5 of the _Fuel Tax Act 2006_, of a * net fuel amount attributable to a * fuel tax return period; or
+                     (a)  a refund, under section 61-5 of the _Fuel Tax Act 2006_, of a * net fuel amount attributable to a * fuel tax return period; or
 
                      (b)  a * fuel tax credit for * taxable fuel that you acquire, manufacture or import.
 
-             (5)  To avoid doubt, if, under subsection (3), you are not entitled to a * fuel tax credit, then you are not entitled to a refund under section 61‑5 of the _Fuel Tax Act 2006_ in relation to the credit.
+             (5)  To avoid doubt, if, under subsection (3), you are not entitled to a * fuel tax credit, then you are not entitled to a refund under section 61-5 of the _Fuel Tax Act 2006_ in relation to the credit.
 
-##### <a id="105‑60"></a>105‑60  Reliance on Commissioner’s interpretation of an indirect tax law (other than a fuel tax law)
+##### <a id="105-60"></a>105-60  Reliance on Commissioner’s interpretation of an indirect tax law (other than a fuel tax law)
 
              (1)  This section applies to you if:
 
                      (a)  the Commissioner alters a previous * indirect tax ruling that applied to you; and
 
-                     (b)  relying on the previous ruling, you have underpaid a * net amount or an amount of * indirect tax, or the Commissioner has overpaid an amount under section 35‑5 of the * GST Act, in respect of one or more:
+                     (b)  relying on the previous ruling, you have underpaid a * net amount or an amount of * indirect tax, or the Commissioner has overpaid an amount under section 35-5 of the * GST Act, in respect of one or more:
 
                               (i)  * taxable supplies or * taxable importations; or
 
@@ -1734,7 +1741,7 @@ Note:          For reliance on the Commissioner’s interpreta
 
                      (a)  the underpaid * net amount or * indirect tax ceases to be payable; or
 
-                     (b)  the overpaid amount under section 35‑5 of the * GST Act is taken to have been payable in full;
+                     (b)  the overpaid amount under section 35-5 of the * GST Act is taken to have been payable in full;
 
 from when the previous ruling was made.
 
@@ -1748,13 +1755,13 @@ from when the previous ruling was made.
 
                      (d)  an alteration that a later indirect tax ruling makes to an earlier indirect tax ruling is disregarded so far as the alteration results from a change in the law that came into operation after the earlier indirect tax ruling was given.
 
-##### <a id="105‑65"></a>105‑65  Restriction on refunds
+##### <a id="105-65"></a>105-65  Restriction on refunds
 
              (1)  The Commissioner need not give you a refund to which this section applies, or apply an amount under Division 3 or 3A of Part IIB to which this section applies, if:
 
                      (a)  you overpaid the amount, or the amount was not refunded to you, because a * supply was treated as a * taxable supply to any extent; and
 
-                     (b)  the supply is not a taxable supply to that extent (for example, because it is * GST‑free); and
+                     (b)  the supply is not a taxable supply to that extent (for example, because it is * GST-free); and
 
                      (c)  one of the following applies:
 
@@ -1768,19 +1775,19 @@ Note:          Divisions 3 and 3A of Part IIB deal with pa
 
                      (a)  so much of any * net amount or amount of * indirect tax as you have overpaid; or
 
-                     (b)  so much of any net amount that is payable to you under section 35‑5 of the * GST Act as the Commissioner has not paid to you or applied under Division 3 of Part IIB of this Act.
+                     (b)  so much of any net amount that is payable to you under section 35-5 of the * GST Act as the Commissioner has not paid to you or applied under Division 3 of Part IIB of this Act.
 
 Note:          Division 3 of Part IIB deals with payments, credits and RBA surpluses.
 
-#### Subdivision 105‑D—General interest charge and penalties
+#### Subdivision 105-D—General interest charge and penalties
 
 **Table of sections**
 
-105‑80      General interest charge
+105-80      General interest charge
 
-105‑85      Amending Acts cannot impose penalties or general interest charge earlier than 28 days after Royal Assent
+105-85      Amending Acts cannot impose penalties or general interest charge earlier than 28 days after Royal Assent
 
-##### <a id="105‑80"></a>105‑80  General interest charge
+##### <a id="105-80"></a>105-80  General interest charge
 
              (1)  If any of an amount (the **_liability_**) to which this section applies remains unpaid after the time by which it is due to be paid, you are liable to pay the * general interest charge on the unpaid amount of the liability for each day in the period that:
 
@@ -1800,13 +1807,13 @@ Note:          The general interest charge is worked out under
 
                      (b)  an amount of * indirect tax.
 
-##### <a id="105‑85"></a>105‑85  Amending Acts cannot impose penalties or general interest charge earlier than 28 days after Royal Assent
+##### <a id="105-85"></a>105-85  Amending Acts cannot impose penalties or general interest charge earlier than 28 days after Royal Assent
 
              (1)  An Act that amends an * indirect tax law does not have the effect of making you liable to:
 
                      (a)  a penalty for an offence against an indirect tax law; or
 
-                     (b)  * general interest charge under section 105‑80;
+                     (b)  * general interest charge under section 105-80;
 
 for any act or omission that happens before the 28th day (the **_postponed day_**) after the day on which the amending Act receives the Royal Assent.
 
@@ -1820,17 +1827,17 @@ the requirement has effect instead by reference to a period ending at the start 
 
              (3)  This section does not relieve you from liability to such a penalty or charge to the extent to which the liability would have existed if the amending Act had not been enacted.
 
-#### Subdivision 105‑E—Evidence
+#### Subdivision 105-E—Evidence
 
 **Table of sections**
 
-105‑100    Production of assessment or declaration is conclusive evidence
+105-100    Production of assessment or declaration is conclusive evidence
 
-105‑105    Certificate of amount payable is prima facie evidence
+105-105    Certificate of amount payable is prima facie evidence
 
-105‑110    Signed copies are evidence
+105-110    Signed copies are evidence
 
-##### <a id="105‑100"></a>105‑100  Production of assessment or declaration is conclusive evidence
+##### <a id="105-100"></a>105-100  Production of assessment or declaration is conclusive evidence
 
                    The production of:
 
@@ -1838,9 +1845,9 @@ the requirement has effect instead by reference to a period ending at the start 
 
                      (b)  a declaration under:
 
-                              (i)  section 165‑40 or subsection 165‑45(3) of the * GST Act; or
+                              (i)  section 165-40 or subsection 165-45(3) of the * GST Act; or
 
-                             (ii)  section 75‑40 or subsection 75‑45(3) of the _Fuel Tax Act 2006_;
+                             (ii)  section 75-40 or subsection 75-45(3) of the _Fuel Tax Act 2006_;
 
 is conclusive evidence:
 
@@ -1848,7 +1855,7 @@ is conclusive evidence:
 
                      (d)  except in proceedings under Part IVC of this Act on a review or appeal relating to the assessment or declaration—that the amounts and particulars in the assessment or declaration are correct.
 
-##### <a id="105‑105"></a>105‑105  Certificate of amount payable is prima facie evidence
+##### <a id="105-105"></a>105-105  Certificate of amount payable is prima facie evidence
 
                    The presentation of a certificate signed by the Commissioner or a Deputy Commissioner certifying that, from the time specified in the certificate, an amount was payable under an * indirect tax law (whether to or by the Commissioner) is prima facie evidence:
 
@@ -1856,21 +1863,21 @@ is conclusive evidence:
 
                      (b)  that the particulars stated in the certificate are correct.
 
-##### <a id="105‑110"></a>105‑110  Signed copies are evidence
+##### <a id="105-110"></a>105-110  Signed copies are evidence
 
              (1)  The production of a document signed by the Commissioner or a Deputy Commissioner that appears to be a copy of, or extract from, any document made or given by or to an entity for the purposes of an * indirect tax law is evidence of the matters set out in the document to the same extent as the original document would have been evidence of those matters.
 
              (2)  To avoid doubt, subsection (1) applies to a copy or extract of a document that was given by or to the Commissioner on a data processing device or by way of electronic transmission, unless it is shown that the document was not authorised.
 
-#### Subdivision 105‑F—Indirect tax refund schemes
+#### Subdivision 105-F—Indirect tax refund schemes
 
 **Table of sections**
 
-105‑120    Refund scheme—defence related international obligations
+105-120    Refund scheme—defence related international obligations
 
-105‑125    Refund scheme—international obligations
+105-125    Refund scheme—international obligations
 
-##### <a id="105‑120"></a>105‑120  Refund scheme—defence related international obligations
+##### <a id="105-120"></a>105-120  Refund scheme—defence related international obligations
 
              (1)  The Commissioner must, on behalf of the Commonwealth, pay you an amount equal to the amount of * indirect tax borne by you in respect of an acquisition (within the meaning of the * GST Act) if:
 
@@ -1912,7 +1919,7 @@ determined by the * Defence Minister.
 
              (4)  A determination under this section is a legislative instrument.
 
-##### <a id="105‑125"></a>105‑125  Refund scheme—international obligations
+##### <a id="105-125"></a>105-125  Refund scheme—international obligations
 
              (1)  The Commissioner must, on behalf of the Commonwealth, pay you, or an entity in a class of entities determined by the Commissioner, an amount equal to the amount of * indirect tax borne by you in respect of an acquisition (within the meaning of the * GST Act) made by you if:
 
@@ -1934,15 +1941,15 @@ set out in the regulations.
 
              (4)  A determination by the Commissioner under subsection (1) is not a legislative instrument.
 
-#### Subdivision 105‑G—Other administrative provisions
+#### Subdivision 105-G—Other administrative provisions
 
 **Table of sections**
 
-105‑140    Address for service
+105-140    Address for service
 
-105‑145    Commissioner must give things in writing
+105-145    Commissioner must give things in writing
 
-##### <a id="105‑140"></a>105‑140  Address for service
+##### <a id="105-140"></a>105-140  Address for service
 
              (1)  Your address for service for the purposes of an * indirect tax law is:
 
@@ -1954,7 +1961,7 @@ set out in the regulations.
 
                      (d)  any other address that the Commissioner reasonably believes to be your address for service.
 
-Note:          If you are a company, see also sections 444‑10 and 444‑15.
+Note:          If you are a company, see also sections 444-10 and 444-15.
 
              (2)  If:
 
@@ -1988,7 +1995,7 @@ the Commissioner may serve the notice or document by post to that address.
 
 the Commissioner may serve a notice of assessment, or notice of penalty or * general interest charge under an * indirect tax law, on you by electronic transmission to that address.
 
-##### <a id="105‑145"></a>105‑145  Commissioner must give things in writing
+##### <a id="105-145"></a>105-145  Commissioner must give things in writing
 
              (1)  Any notice, approval, direction, authority or declaration that the Commissioner may give, or must give, to you under an * indirect tax law must be in writing.
 
@@ -2000,25 +2007,25 @@ the Commissioner may serve a notice of assessment, or notice of penalty or * gen
 
              Guide to Division 110
 
-110‑F    Review of GST decisions
+110-F     Review of GST decisions
 
 #### Guide to Division 110
 
-##### <a id="110‑1"></a>110‑1  What this Division is about
+##### <a id="110-1"></a>110-1  What this Division is about
 
 * * *
 
-This Division gives you the right to object against reviewable GST decisions that relate to you. Section 110‑50 sets out the reviewable GST decisions.
+This Division gives you the right to object against reviewable GST decisions that relate to you. Section 110-50 sets out the reviewable GST decisions.
 
 * * *
 
-#### Subdivision 110‑F—Review of GST decisions
+#### Subdivision 110-F—Review of GST decisions
 
 **Table of sections**
 
-110‑50      Reviewable GST decisions
+110-50      Reviewable GST decisions
 
-##### <a id="110‑50"></a>110‑50  Reviewable GST decisions
+##### <a id="110-50"></a>110-50  Reviewable GST decisions
 
              (1)  You may object, in the manner set out in Part IVC, against a decision you are dissatisfied with that is:
 
@@ -2026,7 +2033,7 @@ This Division gives you the right to object against reviewable GST decisions tha
 
                      (b)  a * reviewable GST transitional decision relating to you.
 
-Note:          You may object to a decision relating to you under section 105‑5 or 105‑25 involving an assessment of a net amount or indirect tax: see Subdivision 105‑B.
+Note:          You may object to a decision relating to you under section 105-5 or 105-25 involving an assessment of a net amount or indirect tax: see Subdivision 105-B.
 
              (2)  Each of the following decisions is a **_reviewable GST decision_**:
 
@@ -2071,7 +2078,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing to register you</div>
   </td>
   <td>
-    <div>subsection 25‑5(1)</div>
+    <div>subsection 25-5(1)</div>
   </td>
 </tr>
 <tr>
@@ -2082,7 +2089,7 @@ Note:          You may object to a decision relating to you un
     <div>registering you</div>
   </td>
   <td>
-    <div>subsection 25‑5(2)</div>
+    <div>subsection 25-5(2)</div>
   </td>
 </tr>
 <tr>
@@ -2094,7 +2101,7 @@ Note:          You may object to a decision relating to you un
       *registration</div>
   </td>
   <td>
-    <div>section 25‑10</div>
+    <div>section 25-10</div>
   </td>
 </tr>
 <tr>
@@ -2106,7 +2113,7 @@ Note:          You may object to a decision relating to you un
       *registration</div>
   </td>
   <td>
-    <div>subsection 25‑55(1)</div>
+    <div>subsection 25-55(1)</div>
   </td>
 </tr>
 <tr>
@@ -2118,7 +2125,7 @@ Note:          You may object to a decision relating to you un
       *registration</div>
   </td>
   <td>
-    <div>subsection 25‑55(2)</div>
+    <div>subsection 25-55(2)</div>
   </td>
 </tr>
 <tr>
@@ -2130,7 +2137,7 @@ Note:          You may object to a decision relating to you un
       *registration</div>
   </td>
   <td>
-    <div>section 25‑57</div>
+    <div>section 25-57</div>
   </td>
 </tr>
 <tr>
@@ -2142,7 +2149,7 @@ Note:          You may object to a decision relating to you un
       *registration takes effect</div>
   </td>
   <td>
-    <div>section 25‑60</div>
+    <div>section 25-60</div>
   </td>
 </tr>
 <tr>
@@ -2154,7 +2161,7 @@ Note:          You may object to a decision relating to you un
       *tax periods that apply to you are each individual month</div>
   </td>
   <td>
-    <div>subsection 27‑15(1)</div>
+    <div>subsection 27-15(1)</div>
   </td>
 </tr>
 <tr>
@@ -2165,7 +2172,7 @@ Note:          You may object to a decision relating to you un
     <div>deciding the date of effect of a determination</div>
   </td>
   <td>
-    <div>subsection 27‑15(2)</div>
+    <div>subsection 27-15(2)</div>
   </td>
 </tr>
 <tr>
@@ -2173,10 +2180,10 @@ Note:          You may object to a decision relating to you un
     <div>10</div>
   </td>
   <td>
-    <div>refusing to revoke your election under section 27‑10</div>
+    <div>refusing to revoke your election under section 27-10</div>
   </td>
   <td>
-    <div>subsection 27‑22(1)</div>
+    <div>subsection 27-22(1)</div>
   </td>
 </tr>
 <tr>
@@ -2187,7 +2194,7 @@ Note:          You may object to a decision relating to you un
     <div>deciding the date of effect of a revocation</div>
   </td>
   <td>
-    <div>subsection 27‑22(3)</div>
+    <div>subsection 27-22(3)</div>
   </td>
 </tr>
 <tr>
@@ -2195,10 +2202,10 @@ Note:          You may object to a decision relating to you un
     <div>12</div>
   </td>
   <td>
-    <div>refusing to revoke a determination under section 27‑15</div>
+    <div>refusing to revoke a determination under section 27-15</div>
   </td>
   <td>
-    <div>subsection 27‑25(1)</div>
+    <div>subsection 27-25(1)</div>
   </td>
 </tr>
 <tr>
@@ -2209,7 +2216,7 @@ Note:          You may object to a decision relating to you un
     <div>deciding the date of effect of a revocation</div>
   </td>
   <td>
-    <div>subsection 27‑25(2)</div>
+    <div>subsection 27-25(2)</div>
   </td>
 </tr>
 <tr>
@@ -2221,7 +2228,7 @@ Note:          You may object to a decision relating to you un
       *tax period that applies to you</div>
   </td>
   <td>
-    <div>section 27‑30</div>
+    <div>section 27-30</div>
   </td>
 </tr>
 <tr>
@@ -2232,7 +2239,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing a request for a determination</div>
   </td>
   <td>
-    <div>section 27‑37</div>
+    <div>section 27-37</div>
   </td>
 </tr>
 <tr>
@@ -2240,10 +2247,10 @@ Note:          You may object to a decision relating to you un
     <div>16</div>
   </td>
   <td>
-    <div>revoking a determination under section 27‑37</div>
+    <div>revoking a determination under section 27-37</div>
   </td>
   <td>
-    <div>subsection 27‑38(1)</div>
+    <div>subsection 27-38(1)</div>
   </td>
 </tr>
 <tr>
@@ -2254,7 +2261,7 @@ Note:          You may object to a decision relating to you un
     <div>deciding the date of a revocation</div>
   </td>
   <td>
-    <div>subsection 27‑38(2)</div>
+    <div>subsection 27-38(2)</div>
   </td>
 </tr>
 <tr>
@@ -2265,7 +2272,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing to permit you to account on a cash basis</div>
   </td>
   <td>
-    <div>subsection 29‑45(1)</div>
+    <div>subsection 29-45(1)</div>
   </td>
 </tr>
 <tr>
@@ -2276,7 +2283,7 @@ Note:          You may object to a decision relating to you un
     <div>deciding the date of effect of your permission to account on a cash basis</div>
   </td>
   <td>
-    <div>subsection 29‑45(2)</div>
+    <div>subsection 29-45(2)</div>
   </td>
 </tr>
 <tr>
@@ -2287,7 +2294,7 @@ Note:          You may object to a decision relating to you un
     <div>revoking your permission to account on a cash basis</div>
   </td>
   <td>
-    <div>subsection 29‑50(3)</div>
+    <div>subsection 29-50(3)</div>
   </td>
 </tr>
 <tr>
@@ -2299,7 +2306,7 @@ Note:          You may object to a decision relating to you un
       on a cash basis</div>
   </td>
   <td>
-    <div>subsection 29‑50(4)</div>
+    <div>subsection 29-50(4)</div>
   </td>
 </tr>
 <tr>
@@ -2308,10 +2315,10 @@ Note:          You may object to a decision relating to you un
   </td>
   <td>
     <div>refusing an application for a decision that an event is a
-      *fund‑raising event</div>
+      *fund-raising event</div>
   </td>
   <td>
-    <div>paragraph 40‑165(1)(c)</div>
+    <div>paragraph 40-165(1)(c)</div>
   </td>
 </tr>
 <tr>
@@ -2322,7 +2329,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing an application for approval</div>
   </td>
   <td>
-    <div>section 48‑5</div>
+    <div>section 48-5</div>
   </td>
 </tr>
 <tr>
@@ -2333,7 +2340,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing an application for approval or revocation</div>
   </td>
   <td>
-    <div>subsection 48‑70(1)</div>
+    <div>subsection 48-70(1)</div>
   </td>
 </tr>
 <tr>
@@ -2344,7 +2351,7 @@ Note:          You may object to a decision relating to you un
     <div>revoking an approval under Division 48</div>
   </td>
   <td>
-    <div>subsection 48‑70(2)</div>
+    <div>subsection 48-70(2)</div>
   </td>
 </tr>
 <tr>
@@ -2355,7 +2362,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing an application for revocation</div>
   </td>
   <td>
-    <div>subsection 48‑75(1)</div>
+    <div>subsection 48-75(1)</div>
   </td>
 </tr>
 <tr>
@@ -2367,7 +2374,7 @@ Note:          You may object to a decision relating to you un
       *GST group</div>
   </td>
   <td>
-    <div>subsection 48‑75(2)</div>
+    <div>subsection 48-75(2)</div>
   </td>
 </tr>
 <tr>
@@ -2379,7 +2386,7 @@ Note:          You may object to a decision relating to you un
       under Division 48</div>
   </td>
   <td>
-    <div>section 48‑85</div>
+    <div>section 48-85</div>
   </td>
 </tr>
 <tr>
@@ -2390,7 +2397,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing an application for approval</div>
   </td>
   <td>
-    <div>section 49‑5</div>
+    <div>section 49-5</div>
   </td>
 </tr>
 <tr>
@@ -2401,7 +2408,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing an application for approval or revocation</div>
   </td>
   <td>
-    <div>subsection 49‑70(1)</div>
+    <div>subsection 49-70(1)</div>
   </td>
 </tr>
 <tr>
@@ -2412,7 +2419,7 @@ Note:          You may object to a decision relating to you un
     <div>revoking an approval under Division 49</div>
   </td>
   <td>
-    <div>subsection 49‑70(2)</div>
+    <div>subsection 49-70(2)</div>
   </td>
 </tr>
 <tr>
@@ -2423,7 +2430,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing an application for revocation</div>
   </td>
   <td>
-    <div>subsection 49‑75(1)</div>
+    <div>subsection 49-75(1)</div>
   </td>
 </tr>
 <tr>
@@ -2435,7 +2442,7 @@ Note:          You may object to a decision relating to you un
       *GST religious group</div>
   </td>
   <td>
-    <div>subsection 49‑75(2)</div>
+    <div>subsection 49-75(2)</div>
   </td>
 </tr>
 <tr>
@@ -2447,7 +2454,7 @@ Note:          You may object to a decision relating to you un
       under Division 49</div>
   </td>
   <td>
-    <div>section 49‑85</div>
+    <div>section 49-85</div>
   </td>
 </tr>
 <tr>
@@ -2458,7 +2465,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing an application for approval</div>
   </td>
   <td>
-    <div>section 51‑5</div>
+    <div>section 51-5</div>
   </td>
 </tr>
 <tr>
@@ -2471,7 +2478,7 @@ Note:          You may object to a decision relating to you un
       *GST joint ventures</div>
   </td>
   <td>
-    <div>subsection 51‑52(5)</div>
+    <div>subsection 51-52(5)</div>
   </td>
 </tr>
 <tr>
@@ -2482,7 +2489,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing an application for approval or revocation</div>
   </td>
   <td>
-    <div>subsection 51‑70(1)</div>
+    <div>subsection 51-70(1)</div>
   </td>
 </tr>
 <tr>
@@ -2493,7 +2500,7 @@ Note:          You may object to a decision relating to you un
     <div>revoking an approval under Division 51</div>
   </td>
   <td>
-    <div>subsection 51‑70(2)</div>
+    <div>subsection 51-70(2)</div>
   </td>
 </tr>
 <tr>
@@ -2504,7 +2511,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing an application for revocation</div>
   </td>
   <td>
-    <div>subsection 51‑75(1)</div>
+    <div>subsection 51-75(1)</div>
   </td>
 </tr>
 <tr>
@@ -2516,7 +2523,7 @@ Note:          You may object to a decision relating to you un
       *GST joint venture</div>
   </td>
   <td>
-    <div>subsection 51‑75(2)</div>
+    <div>subsection 51-75(2)</div>
   </td>
 </tr>
 <tr>
@@ -2528,7 +2535,7 @@ Note:          You may object to a decision relating to you un
       under Division 51</div>
   </td>
   <td>
-    <div>section 51‑85</div>
+    <div>section 51-85</div>
   </td>
 </tr>
 <tr>
@@ -2540,7 +2547,7 @@ Note:          You may object to a decision relating to you un
       *registration</div>
   </td>
   <td>
-    <div>section 54‑5</div>
+    <div>section 54-5</div>
   </td>
 </tr>
 <tr>
@@ -2553,7 +2560,7 @@ Note:          You may object to a decision relating to you un
       *GST branch</div>
   </td>
   <td>
-    <div>section 54‑10</div>
+    <div>section 54-10</div>
   </td>
 </tr>
 <tr>
@@ -2566,7 +2573,7 @@ Note:          You may object to a decision relating to you un
       *GST branch</div>
   </td>
   <td>
-    <div>subsection 54‑75(1)</div>
+    <div>subsection 54-75(1)</div>
   </td>
 </tr>
 <tr>
@@ -2579,7 +2586,7 @@ Note:          You may object to a decision relating to you un
       *GST branch</div>
   </td>
   <td>
-    <div>subsection 54‑75(2)</div>
+    <div>subsection 54-75(2)</div>
   </td>
 </tr>
 <tr>
@@ -2592,7 +2599,7 @@ Note:          You may object to a decision relating to you un
       *GST branch</div>
   </td>
   <td>
-    <div>section 54‑80</div>
+    <div>section 54-80</div>
   </td>
 </tr>
 <tr>
@@ -2604,7 +2611,7 @@ Note:          You may object to a decision relating to you un
       *registration of an Australian resident agent</div>
   </td>
   <td>
-    <div>subsection 57‑25(1)</div>
+    <div>subsection 57-25(1)</div>
   </td>
 </tr>
 <tr>
@@ -2617,7 +2624,7 @@ Note:          You may object to a decision relating to you un
       month</div>
   </td>
   <td>
-    <div>subsection 57‑35(1)</div>
+    <div>subsection 57-35(1)</div>
   </td>
 </tr>
 <tr>
@@ -2628,7 +2635,7 @@ Note:          You may object to a decision relating to you un
     <div>deciding the date of effect of a determination</div>
   </td>
   <td>
-    <div>subsection 57‑35(2)</div>
+    <div>subsection 57-35(2)</div>
   </td>
 </tr>
 <tr>
@@ -2638,10 +2645,10 @@ Note:          You may object to a decision relating to you un
   <td>
     <div>cancelling the
       *registration of a
-      *non‑profit sub‑entity</div>
+      *non-profit sub-entity</div>
   </td>
   <td>
-    <div>subsection 63‑35(1)</div>
+    <div>subsection 63-35(1)</div>
   </td>
 </tr>
 <tr>
@@ -2653,7 +2660,7 @@ Note:          You may object to a decision relating to you un
       an agreement that the margin scheme is to apply</div>
   </td>
   <td>
-    <div>paragraph 75‑5(1A)(b)</div>
+    <div>paragraph 75-5(1A)(b)</div>
   </td>
 </tr>
 <tr>
@@ -2666,7 +2673,7 @@ Note:          You may object to a decision relating to you un
       *tax period</div>
   </td>
   <td>
-    <div>paragraph 131‑10(2)(b)</div>
+    <div>paragraph 131-10(2)(b)</div>
   </td>
 </tr>
 <tr>
@@ -2677,7 +2684,7 @@ Note:          You may object to a decision relating to you un
     <div>disallowing an annual apportionment election</div>
   </td>
   <td>
-    <div>subsection 131‑20(3)</div>
+    <div>subsection 131-20(3)</div>
   </td>
 </tr>
 <tr>
@@ -2691,7 +2698,7 @@ Note:          You may object to a decision relating to you un
       *incapacitated entity</div>
   </td>
   <td>
-    <div>subsection 147‑10(1)</div>
+    <div>subsection 147-10(1)</div>
   </td>
 </tr>
 <tr>
@@ -2704,7 +2711,7 @@ Note:          You may object to a decision relating to you un
       period</div>
   </td>
   <td>
-    <div>paragraph 151‑10(2)(b)</div>
+    <div>paragraph 151-10(2)(b)</div>
   </td>
 </tr>
 <tr>
@@ -2716,7 +2723,7 @@ Note:          You may object to a decision relating to you un
       *tax period election on a specified day</div>
   </td>
   <td>
-    <div>subsection 151‑20(3)</div>
+    <div>subsection 151-20(3)</div>
   </td>
 </tr>
 <tr>
@@ -2728,7 +2735,7 @@ Note:          You may object to a decision relating to you un
       *tax period election</div>
   </td>
   <td>
-    <div>subsection 151‑25(3)</div>
+    <div>subsection 151-25(3)</div>
   </td>
 </tr>
 <tr>
@@ -2741,7 +2748,7 @@ Note:          You may object to a decision relating to you un
       *tax period</div>
   </td>
   <td>
-    <div>paragraph 162‑15(2)(b)</div>
+    <div>paragraph 162-15(2)(b)</div>
   </td>
 </tr>
 <tr>
@@ -2752,7 +2759,7 @@ Note:          You may object to a decision relating to you un
     <div>refusing a request to be allowed to make an election on a specified day</div>
   </td>
   <td>
-    <div>subsection 162‑25(3)</div>
+    <div>subsection 162-25(3)</div>
   </td>
 </tr>
 <tr>
@@ -2764,7 +2771,7 @@ Note:          You may object to a decision relating to you un
       *GST by instalments</div>
   </td>
   <td>
-    <div>subsection 162‑30(3)</div>
+    <div>subsection 162-30(3)</div>
   </td>
 </tr>
 <tr>
@@ -2775,7 +2782,7 @@ Note:          You may object to a decision relating to you un
     <div>making a declaration to negate a GST benefit</div>
   </td>
   <td>
-    <div>section 165‑40</div>
+    <div>section 165-40</div>
   </td>
 </tr>
 <tr>
@@ -2786,7 +2793,7 @@ Note:          You may object to a decision relating to you un
     <div>making a declaration to negate or reduce a GST disadvantage</div>
   </td>
   <td>
-    <div>subsection 165‑45(3)</div>
+    <div>subsection 165-45(3)</div>
   </td>
 </tr>
 <tr>
@@ -2798,7 +2805,7 @@ Note:          You may object to a decision relating to you un
       a GST disadvantage</div>
   </td>
   <td>
-    <div>subsection 165‑45(5)</div>
+    <div>subsection 165-45(5)</div>
   </td>
 </tr></table>
 
@@ -2810,13 +2817,13 @@ Note:          You may object to a decision relating to you un
 
              Guide to Division 111
 
-111‑C    Review of wine tax decisions
+111-C    Review of wine tax decisions
 
-111‑D   Effect on contracts from amendments to laws
+111-D    Effect on contracts from amendments to laws
 
 #### Guide to Division 111
 
-##### <a id="111‑1"></a>111‑1  What this Division is about
+##### <a id="111-1"></a>111-1  What this Division is about
 
 * * *
 
@@ -2826,27 +2833,27 @@ It also explains how contracts to supply wine or a luxury car are affected if a 
 
 * * *
 
-#### Subdivision 111‑C—Review of wine tax decisions
+#### Subdivision 111-C—Review of wine tax decisions
 
 **Table of sections**
 
-111‑50      Reviewable wine tax decisions
+111-50      Reviewable wine tax decisions
 
-##### <a id="111‑50"></a>111‑50  Reviewable wine tax decisions
+##### <a id="111-50"></a>111-50  Reviewable wine tax decisions
 
              (1)  You may object, in the manner set out in Part IVC, against a decision you are dissatisfied with that is a * reviewable wine tax decision relating to you.
 
-Note:          You may object to a decision relating to you under section 105‑5 or 105‑25 involving an assessment of a net amount or indirect tax: see Subdivision 105‑B.
+Note:          You may object to a decision relating to you under section 105-5 or 105-25 involving an assessment of a net amount or indirect tax: see Subdivision 105-B.
 
-             (2)  A decision under section 17‑45 of the * Wine Tax Act disallowing the whole or part of a claim for a * wine tax credit is a **_reviewable wine tax decision_**.
+             (2)  A decision under section 17-45 of the * Wine Tax Act disallowing the whole or part of a claim for a * wine tax credit is a **_reviewable wine tax decision_**.
 
-#### Subdivision 111‑D—Effect on contracts from amendments to laws
+#### Subdivision 111-D—Effect on contracts from amendments to laws
 
 **Table of sections**
 
-111‑60      Alteration of contracts if cost of complying with agreement is affected by later alteration to wine tax or luxury car tax laws
+111-60      Alteration of contracts if cost of complying with agreement is affected by later alteration to wine tax or luxury car tax laws
 
-##### <a id="111‑60"></a>111‑60  Alteration of contracts if cost of complying with agreement is affected by later alteration to wine tax or luxury car tax laws
+##### <a id="111-60"></a>111-60  Alteration of contracts if cost of complying with agreement is affected by later alteration to wine tax or luxury car tax laws
 
              (1)  If, after a contract involving a * supply or a * wine taxable dealing has been made, an alteration to the * wine tax law or the * luxury car tax law happens and the alteration directly causes an increase or decrease in the cost to a party to the agreement of complying with the agreement, then the contract is altered as follows:
 
@@ -2866,29 +2873,29 @@ Note:          You may object to a decision relating to you un
 
              Guide to Division 112
 
-112‑E    Review of fuel tax decisions
+112-E     Review of fuel tax decisions
 
 #### Guide to Division 112
 
-##### <a id="112‑1"></a>112‑1  What this Division is about
+##### <a id="112-1"></a>112-1  What this Division is about
 
 * * *
 
-This Division gives you the right to object against reviewable fuel tax decisions that relate to you. Section 112‑50 sets out the reviewable fuel tax decisions.
+This Division gives you the right to object against reviewable fuel tax decisions that relate to you. Section 112-50 sets out the reviewable fuel tax decisions.
 
 * * *
 
-#### Subdivision 112‑E—Review of fuel tax decisions
+#### Subdivision 112-E—Review of fuel tax decisions
 
 **Table of sections**
 
-112‑50      Reviewable fuel tax decisions
+112-50      Reviewable fuel tax decisions
 
-##### <a id="112‑50"></a>112‑50  Reviewable fuel tax decisions
+##### <a id="112-50"></a>112-50  Reviewable fuel tax decisions
 
              (1)  You may object, in the manner set out in Part IVC, against a decision you are dissatisfied with that is a * reviewable fuel tax decision relating to you.
 
-Note:          You may object to a decision relating to you under section 105‑5 or 105‑25 involving an assessment of a net fuel amount: see Subdivision 105‑B.
+Note:          You may object to a decision relating to you under section 105-5 or 105-25 involving an assessment of a net fuel amount: see Subdivision 105-B.
 
              (2)  Each of the following decisions is a **_reviewable fuel tax decision_**:
 
@@ -2935,7 +2942,7 @@ Note:          You may object to a decision relating to you un
       *fuel tax benefit</div>
   </td>
   <td>
-    <div>section 75‑40</div>
+    <div>section 75-40</div>
   </td>
 </tr>
 <tr>
@@ -2947,7 +2954,7 @@ Note:          You may object to a decision relating to you un
       *fuel tax disadvantage</div>
   </td>
   <td>
-    <div>subsection 75‑45(3)</div>
+    <div>subsection 75-45(3)</div>
   </td>
 </tr>
 <tr>
@@ -2959,17 +2966,17 @@ Note:          You may object to a decision relating to you un
       *fuel tax disadvantage</div>
   </td>
   <td>
-    <div>subsection 75‑45(5)</div>
+    <div>subsection 75-45(5)</div>
   </td>
 </tr></table>
 
-## 42  Before Part 4‑15 in Schedule 1
+## 42  Before Part 4-15 in Schedule 1
 
 Insert:
 
 # Chapter 4—Generic collection and recovery rules
 
-## 43  Subsection 250‑10(2) in Schedule 1 (after table item 35)
+## 43  Subsection 250-10(2) in Schedule 1 (after table item 35)
 
 Insert:
 
@@ -2989,7 +2996,7 @@ Insert:
     <div>net fuel amount</div>
   </td>
   <td>
-    <div>61‑10</div>
+    <div>61-10</div>
   </td>
   <td>
     <div>
@@ -2998,7 +3005,7 @@ Insert:
   </td>
 </tr></table>
 
-## 44  Before Part 5‑1 in Schedule 1
+## 44  Before Part 5-1 in Schedule 1
 
 Insert:
 
@@ -3014,11 +3021,11 @@ Insert:
 
              Guide to Division 352
 
-352‑A   Accountability of the Commissioner in respect of indirect tax laws
+352-A    Accountability of the Commissioner in respect of indirect tax laws
 
 #### Guide to Division 352
 
-##### <a id="352‑1"></a>352‑1  What this Division is about
+##### <a id="352-1"></a>352-1  What this Division is about
 
 * * *
 
@@ -3026,13 +3033,13 @@ This Division requires the Commissioner to prepare an annual report on the worki
 
 * * *
 
-#### Subdivision 352‑A—Accountability of the Commissioner in respect of indirect tax laws
+#### Subdivision 352-A—Accountability of the Commissioner in respect of indirect tax laws
 
 **Table of sections**
 
-352‑5        Commissioner must prepare annual report on indirect tax laws
+352-5        Commissioner must prepare annual report on indirect tax laws
 
-##### <a id="352‑5"></a>352‑5  Commissioner must prepare annual report on indirect tax laws
+##### <a id="352-5"></a>352-5  Commissioner must prepare annual report on indirect tax laws
 
              (1)  As soon as practicable after 30 June in each year, the Commissioner must prepare and give to the Minister a report on the working of the * indirect tax laws during the year ending on that 30 June.
 
@@ -3040,7 +3047,7 @@ This Division requires the Commissioner to prepare an annual report on the worki
 
              (3)  The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
-## 46  Subsection 353‑10(1) in Schedule 1
+## 46  Subsection 353-10(1) in Schedule 1
 
 Repeal the subsection, substitute:
 
@@ -3066,7 +3073,7 @@ Repeal the subsection, substitute:
 
 Note:          Failing to comply with a direction can be an offence against section 8C.
 
-## 47  Subsection 353‑10(3) in Schedule 1
+## 47  Subsection 353-10(3) in Schedule 1
 
 Omit “persons”, substitute “entities”.
 
@@ -3074,7 +3081,7 @@ Omit “persons”, substitute “entities”.
 
 Add:
 
-##### <a id="353‑15"></a>353‑15  Access to premises for the purposes of the indirect tax laws
+##### <a id="353-15"></a>353-15  Access to premises for the purposes of the indirect tax laws
 
              (1)  For the purposes of an * indirect tax law, the Commissioner, or an individual authorised by the Commissioner for the purposes of this section:
 
@@ -3108,7 +3115,7 @@ Note 2:       See section 4AA of the _Crimes Act 1914_ for the cur
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-## 49  At the end of Part 5‑1 in Schedule 1
+## 49  At the end of Part 5-1 in Schedule 1
 
 Add:
 
@@ -3118,11 +3125,11 @@ Add:
 
              Guide to Division 355
 
-355‑A   Protection of confidentiality of indirect tax information
+355-A    Protection of confidentiality of indirect tax information
 
 #### Guide to Division 355
 
-##### <a id="355‑1"></a>355‑1  What this Division is about
+##### <a id="355-1"></a>355-1  What this Division is about
 
 * * *
 
@@ -3130,13 +3137,13 @@ This Division prohibits the disclosure of indirect tax information by officials 
 
 * * *
 
-#### Subdivision 355‑A—Protection of confidentiality of indirect tax information
+#### Subdivision 355-A—Protection of confidentiality of indirect tax information
 
 **Table of sections**
 
-355‑5        Protection of confidentiality of indirect tax information
+355-5        Protection of confidentiality of indirect tax information
 
-##### <a id="355‑5"></a>355‑5  Protection of confidentiality of indirect tax information
+##### <a id="355-5"></a>355-5  Protection of confidentiality of indirect tax information
 
 Object
 
@@ -3344,11 +3351,11 @@ unless it is necessary for the purposes of an * indirect tax law.
 
              Guide to Division 356
 
-356‑A   Indirect tax laws
+356-A    Indirect tax laws
 
 #### Guide to Division 356
 
-##### <a id="356‑1"></a>356‑1  What this Division is about
+##### <a id="356-1"></a>356-1  What this Division is about
 
 * * *
 
@@ -3356,17 +3363,17 @@ This Division gives the Commissioner the general administration of the indirect 
 
 * * *
 
-#### Subdivision 356‑A—Indirect tax laws
+#### Subdivision 356-A—Indirect tax laws
 
 **Table of sections**
 
-356‑5        Commissioner has general administration of indirect tax laws
+356-5        Commissioner has general administration of indirect tax laws
 
-##### <a id="356‑5"></a>356‑5  Commissioner has general administration of indirect tax laws
+##### <a id="356-5"></a>356-5  Commissioner has general administration of indirect tax laws
 
                    The Commissioner has the general administration of each * indirect tax law.
 
-## 50  At the end of section 357‑55 in Schedule 1
+## 50  At the end of section 357-55 in Schedule 1
 
 Add:
 
@@ -3376,17 +3383,17 @@ Add:
 
 Insert:
 
-### Division 382—Record‑keeping
+### Division 382—Record-keeping
 
 **Table of Subdivisions**
 
              Guide to Division 382
 
-382‑A   Keeping records of indirect tax transactions
+382-A    Keeping records of indirect tax transactions
 
 #### Guide to Division 382
 
-##### <a id="382‑1"></a>382‑1  What this Division is about
+##### <a id="382-1"></a>382-1  What this Division is about
 
 * * *
 
@@ -3394,13 +3401,13 @@ You are required to keep records of indirect tax transactions in accordance with
 
 * * *
 
-#### Subdivision 382‑A—Keeping records of indirect tax transactions
+#### Subdivision 382-A—Keeping records of indirect tax transactions
 
 **Table of sections**
 
-382‑5        Keeping records of indirect tax transactions
+382-5        Keeping records of indirect tax transactions
 
-##### <a id="382‑5"></a>382‑5  Keeping records of indirect tax transactions
+##### <a id="382-5"></a>382-5  Keeping records of indirect tax transactions
 
 Records of transactions
 
@@ -3414,7 +3421,7 @@ Records of transactions
 
                      (a)  a * taxable supply, * taxable importation, * creditable acquisition or * creditable importation made by you; or
 
-                     (b)  a * supply made by you that is * GST‑free or * input taxed; or
+                     (b)  a * supply made by you that is * GST-free or * input taxed; or
 
                      (c)  a * wine taxable dealing on which you are liable for * wine tax; or
 
@@ -3432,9 +3439,9 @@ Records of transactions
 
              (3)  If you give the Commissioner a return that takes into account:
 
-                     (a)  an * input tax credit that is attributable to a * tax period under subsection 29‑10(4) of the * GST Act; or
+                     (a)  an * input tax credit that is attributable to a * tax period under subsection 29-10(4) of the * GST Act; or
 
-                     (b)  a * fuel tax credit that is attributable to a tax period or * fuel tax return period under subsection 65‑5(4) of the _Fuel Tax Act 2006_;
+                     (b)  a * fuel tax credit that is attributable to a tax period or * fuel tax return period under subsection 65-5(4) of the _Fuel Tax Act 2006_;
 
 you must:
 
@@ -3458,11 +3465,11 @@ Records of elections, choices, estimates, determinations and calculations
 
                              (ii)  in any other case—for at least 5 years after the election, choice, estimate, determination or calculation was made.
 
-             (5)  This section requires a record of an * arrangement entered into under section 153‑50 of the * GST Act to be kept and retained by the party entering into the arrangement as principal. It does not require such a record to be kept or retained by the party entering into the arrangement as agent.
+             (5)  This section requires a record of an * arrangement entered into under section 153-50 of the * GST Act to be kept and retained by the party entering into the arrangement as principal. It does not require such a record to be kept or retained by the party entering into the arrangement as agent.
 
-             (6)  This section requires records of a notice given under subsection 153‑65(2) of the * GST Act to be kept and retained by both the entity giving the notice and the entity receiving it.
+             (6)  This section requires records of a notice given under subsection 153-65(2) of the * GST Act to be kept and retained by both the entity giving the notice and the entity receiving it.
 
-             (7)  Without limiting subsection (4), if you choose to apply Division 63 (non‑profit sub‑entities) of the * GST Act, you must:
+             (7)  Without limiting subsection (4), if you choose to apply Division 63 (non-profit sub-entities) of the * GST Act, you must:
 
                      (a)  keep records that record:
 
@@ -3496,7 +3503,7 @@ Note 1:       Chapter 2 of the _Criminal Code_ sets out the genera
 
 Note 2:       See section 4AA of the _Crimes Act 1914_ for the current value of a penalty unit.
 
-Note 3:       Section 288‑25 imposes an administrative penalty if an entity does not keep or retain records as required by this section.
+Note 3:       Section 288-25 imposes an administrative penalty if an entity does not keep or retain records as required by this section.
 
            (10)  Subsection (9) is an offence of strict liability.
 
@@ -3512,13 +3519,13 @@ Defence
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (10): see subsection 13.3(3) of the _Criminal Code_.
 
-           (12)  For the purposes of section 288‑25, this section does not require an entity to retain a record if:
+           (12)  For the purposes of section 288-25, this section does not require an entity to retain a record if:
 
                      (a)  the Commissioner notifies the entity that the entity does not need to retain the record; or
 
                      (b)  the entity is a company that has been finally dissolved.
 
-Note:          Section 288‑25 imposes an administrative penalty if an entity does not keep or retain records as required by this section.
+Note:          Section 288-25 imposes an administrative penalty if an entity does not keep or retain records as required by this section.
 
 ## 52  Division 444 in Schedule 1
 
@@ -3530,19 +3537,19 @@ Repeal the Division, substitute:
 
              Guide to Division 444
 
-444‑A   Unincorporated associations and bodies and companies
+444-A    Unincorporated associations and bodies and companies
 
-444‑B    Partnerships
+444-B    Partnerships
 
-444‑C    Superannuation funds
+444-C    Superannuation funds
 
-444‑D   Incapacitated entities
+444-D    Incapacitated entities
 
-444‑E    Indirect tax specific entities
+444-E     Indirect tax specific entities
 
 #### Guide to Division 444
 
-##### <a id="444‑1"></a>444‑1  What this Division is about
+##### <a id="444-1"></a>444-1  What this Division is about
 
 * * *
 
@@ -3550,17 +3557,17 @@ This Division imposes onto other entities the liabilities of unincorporated asso
 
 * * *
 
-#### Subdivision 444‑A—Unincorporated associations and bodies and companies
+#### Subdivision 444-A—Unincorporated associations and bodies and companies
 
 **Table of sections**
 
-444‑5        Unincorporated associations and bodies
+444-5        Unincorporated associations and bodies
 
-444‑10      Public officers of companies
+444-10      Public officers of companies
 
-444‑15      Liability of directors and officers of a company
+444-15      Liability of directors and officers of a company
 
-##### <a id="444‑5"></a>444‑5  Unincorporated associations and bodies
+##### <a id="444-5"></a>444-5  Unincorporated associations and bodies
 
              (1)  Obligations that would be imposed under this Schedule or an * indirect tax law on an unincorporated association or body of entities are imposed on each member of the committee of management of the association or body, but may be discharged by any of those members.
 
@@ -3576,7 +3583,7 @@ Note 1:       The defence in subsection (3) does not apply in rela
 
 Note 2:       A defendant bears a legal burden in relation to the matters in subsection (3): see section 13.4 of the _Criminal Code_.
 
-##### <a id="444‑10"></a>444‑10  Public officers of companies
+##### <a id="444-10"></a>444-10  Public officers of companies
 
              (1)  The individual who is the public officer of a company for the purposes of the _Income Tax Assessment Act 1936_ is also the public officer of the company for the purposes of an * indirect tax law. The public officer’s address for service under that Act is also the public officer’s address for service for the same purposes.
 
@@ -3590,7 +3597,7 @@ Note 2:       A defendant bears a legal burden in relation to the ma
 
              (6)  This section does not, by implication, reduce any of the obligations or liabilities of the company.
 
-##### <a id="444‑15"></a>444‑15  Liability of directors and officers of a company
+##### <a id="444-15"></a>444-15  Liability of directors and officers of a company
 
              (1)  Any notice, process or proceeding that may be given to, served on or taken against a company or its public officer under an * indirect tax law may, if the Commissioner considers it appropriate, be given to, served on, or taken against an entity (the _representative_) who is:
 
@@ -3602,13 +3609,13 @@ Note 2:       A defendant bears a legal burden in relation to the ma
 
              (3)  This section does not, by implication, reduce any of the obligations or liabilities of the company or public officer.
 
-#### Subdivision 444‑B—Partnerships
+#### Subdivision 444-B—Partnerships
 
 **Table of sections**
 
-444‑30      Partnerships
+444-30      Partnerships
 
-##### <a id="444‑30"></a>444‑30  Partnerships
+##### <a id="444-30"></a>444-30  Partnerships
 
              (1)  Obligations that are imposed under this Schedule or an * indirect tax law on a partnership are imposed on each partner, but may be discharged by any of the partners.
 
@@ -3626,13 +3633,13 @@ Note 1:       The defence in subsection (4) does not apply in rela
 
 Note 2:       A defendant bears a legal burden in relation to the matters in subsection (4): see section 13.4 of the _Criminal Code_.
 
-#### Subdivision 444‑C—Superannuation funds
+#### Subdivision 444-C—Superannuation funds
 
 **Table of sections**
 
-444‑50      Superannuation funds
+444-50      Superannuation funds
 
-##### <a id="444‑50"></a>444‑50  Superannuation funds
+##### <a id="444-50"></a>444-50  Superannuation funds
 
                    If a superannuation fund does not have a trustee of the fund, this Schedule applies to the fund as if:
 
@@ -3640,15 +3647,15 @@ Note 2:       A defendant bears a legal burden in relation to the ma
 
                      (b)  each of the entities that manage the fund were a trustee of the fund.
 
-Note:          The trustee of a superannuation fund is taken to be an entity: see subsection 960‑100(2) of the _Income Tax Assessment Act 1997_.
+Note:          The trustee of a superannuation fund is taken to be an entity: see subsection 960-100(2) of the _Income Tax Assessment Act 1997_.
 
-#### Subdivision 444‑D—Incapacitated entities
+#### Subdivision 444-D—Incapacitated entities
 
 **Table of sections**
 
-444‑70      Representatives of incapacitated entities
+444-70      Representatives of incapacitated entities
 
-##### <a id="444‑70"></a>444‑70  Representatives of incapacitated entities
+##### <a id="444-70"></a>444-70  Representatives of incapacitated entities
 
              (1)  If there are 2 or more * representatives of the same * incapacitated entity, the representatives are jointly and severally liable to pay any amount that is payable under an * indirect tax law by any of the representatives in relation to that same incapacitated entity.
 
@@ -3664,17 +3671,17 @@ Note 1:       The defence in subsection (3) does not apply in rela
 
 Note 2:       A defendant bears a legal burden in relation to the matters in subsection (3): see section 13.4 of the _Criminal Code_.
 
-#### Subdivision 444‑E—Indirect tax specific entities
+#### Subdivision 444-E—Indirect tax specific entities
 
 **Table of sections**
 
-444‑80      GST joint ventures
+444-80      GST joint ventures
 
-444‑85      Non‑profit sub‑entities
+444-85      Non-profit sub-entities
 
-444‑90      GST groups
+444-90      GST groups
 
-##### <a id="444‑80"></a>444‑80  GST joint ventures
+##### <a id="444-80"></a>444-80  GST joint ventures
 
              (1)  The * participants in a * GST joint venture are jointly and severally liable to pay any amount that is payable under an * indirect tax law by the * joint venture operator for the joint venture, to the extent that the amount relates to the joint venture.
 
@@ -3696,13 +3703,13 @@ Note 1:       The defence in subsection (3) does not apply in rela
 
 Note 2:       A defendant bears a legal burden in relation to the matters in subsection (3): see section 13.4 of the _Criminal Code_.
 
-##### <a id="444‑85"></a>444‑85  Non‑profit sub‑entities
+##### <a id="444-85"></a>444-85  Non-profit sub-entities
 
-             (1)  Obligations that would be imposed under the * GST law or the * fuel tax law on a * non‑profit sub‑entity are imposed on each entity who is responsible, to entities or bodies outside the sub‑entity, for the management of the sub‑entity, but may be discharged by any entity who is so responsible.
+             (1)  Obligations that would be imposed under the * GST law or the * fuel tax law on a * non-profit sub-entity are imposed on each entity who is responsible, to entities or bodies outside the sub-entity, for the management of the sub-entity, but may be discharged by any entity who is so responsible.
 
-             (2)  The entities who are so responsible in respect of the sub‑entity are jointly and severally liable to pay any amount that is payable under the * GST law or the * fuel tax law by the sub‑entity.
+             (2)  The entities who are so responsible in respect of the sub-entity are jointly and severally liable to pay any amount that is payable under the * GST law or the * fuel tax law by the sub-entity.
 
-             (3)  Any offence against the * GST law or the * fuel tax law that is committed by the sub‑entity is taken to have been committed by each entity who is responsible, to entities or bodies outside the sub‑entity, for the management of the sub‑entity.
+             (3)  Any offence against the * GST law or the * fuel tax law that is committed by the sub-entity is taken to have been committed by each entity who is responsible, to entities or bodies outside the sub-entity, for the management of the sub-entity.
 
              (4)  In a prosecution of an entity for an offence that the entity is taken to have committed because of subsection (3), it is a defence if the entity proves that the entity:
 
@@ -3714,7 +3721,7 @@ Note 1:       The defence in subsection (4) does not apply in rela
 
 Note 2:       A defendant bears a legal burden in relation to the matters in subsection (4): see section 13.4 of the _Criminal Code_.
 
-##### <a id="444‑90"></a>444‑90  GST groups
+##### <a id="444-90"></a>444-90  GST groups
 
              (1)  The * members of a * GST group are jointly and severally liable to pay any amount that is payable under an * indirect tax law by the * representative member for the group.
 
@@ -3740,23 +3747,23 @@ If:
 
                      (a)  immediately before the commencement of this item, a ruling (within the meaning of section 37 of the _Taxation Administration Act 1953_) about a provision (the **_old law_**) of Part VI of the _Taxation Administration Act 1953_ is in force; and
 
-                     (b)  the provision is re‑enacted or remade by this Schedule (with or without modifications);
+                     (b)  the provision is re-enacted or remade by this Schedule (with or without modifications);
 
-the ruling is, on the commencement of this item, taken also to be a ruling about the provision as re‑enacted or remade (the **_new law_**), but only so far as the new law expresses the same ideas as the old law.
+the ruling is, on the commencement of this item, taken also to be a ruling about the provision as re-enacted or remade (the **_new law_**), but only so far as the new law expresses the same ideas as the old law.
 
 _Note:       Ideas in the Taxation Administration Act 1953 are not necessarily different just because different forms of words are used: see section 15AC of the Acts Interpretation Act 1901._
 
 ## 54  Transitional—section 40 of the _Taxation Administration Act 1953_
 
-(1)       This item applies if, immediately before the commencement of this item, a person is liable, under section 40 of the _Taxation Administration Act 1953_, to pay the general interest charge on an unpaid amount (the **_liability_**) of any indirect tax.
+(1)        This item applies if, immediately before the commencement of this item, a person is liable, under section 40 of the _Taxation Administration Act 1953_, to pay the general interest charge on an unpaid amount (the **_liability_**) of any indirect tax.
 
-(2)       On the commencement of this item, that section ceases to apply to the liability.
+(2)        On the commencement of this item, that section ceases to apply to the liability.
 
-(3)       From the commencement of this item, section 105‑80 in Schedule 1 to that Act applies to the liability as if:
+(3)        From the commencement of this item, section 105-80 in Schedule 1 to that Act applies to the liability as if:
 
                      (a)  the liability remains unpaid at that time; and
 
-                     (b)  so much of the charge under section 40 of that Act as remains unpaid at that time had been imposed under section 105‑80 in that Schedule and remains unpaid at that time.
+                     (b)  so much of the charge under section 40 of that Act as remains unpaid at that time had been imposed under section 105-80 in that Schedule and remains unpaid at that time.
 
 ## 55  Transitional—section 62 of the _Taxation Administration Act 1953_
 
@@ -3776,7 +3783,7 @@ If:
 
                      (b)  the review has not been completed before the commencement of this item;
 
-the review may continue to be dealt with, on and after the commencement of this item, as if it had been sought under Part 3‑10 in Schedule 1 to the _Taxation Administration Act 1953_ as amended by this Part.
+the review may continue to be dealt with, on and after the commencement of this item, as if it had been sought under Part 3-10 in Schedule 1 to the _Taxation Administration Act 1953_ as amended by this Part.
 
 ## 56  Transitional—section 70 of the _Taxation Administration Act 1953_
 
@@ -3784,21 +3791,21 @@ If, immediately before the commencement of this item, you must keep and retain a
 
                      (a)  despite the repeal of that section by this Schedule, that section continues to apply to the record; and
 
-                     (b)  section 382‑5 in Schedule 1 to that Act does not apply to the record.
+                     (b)  section 382-5 in Schedule 1 to that Act does not apply to the record.
 
-## 57  Application—sections 105‑40, 110‑50 and 111‑50 in Schedule 1 to the _Taxation Administration Act 1953_
+## 57  Application—sections 105-40, 110-50 and 111-50 in Schedule 1 to the _Taxation Administration Act 1953_
 
-(1)       Section 105‑40 in Schedule 1 to the _Taxation Administration Act 1953_ applies to:
+(1)        Section 105-40 in Schedule 1 to the _Taxation Administration Act 1953_ applies to:
 
                      (a)  a reviewable indirect tax decision (within the meaning of section 62 of the _Taxation Administration Act 1953_ as in force immediately before the commencement of this item) if an application for the review of the decision had not been made before the commencement of this item; or
 
-                     (b)  a reviewable indirect tax decision (within the meaning of section 105‑40 in that Schedule) made after the commencement of this item.
+                     (b)  a reviewable indirect tax decision (within the meaning of section 105-40 in that Schedule) made after the commencement of this item.
 
-(2)       Sections 110‑50 and 111‑50 in Schedule 1 to the _Taxation Administration Act 1953_ apply to a decision made before or after the commencement of this item.
+(2)        Sections 110-50 and 111-50 in Schedule 1 to the _Taxation Administration Act 1953_ apply to a decision made before or after the commencement of this item.
 
 ## 58  Transitional—instruments
 
-(1)       The following table has effect:
+(1)        The following table has effect:
 
 <table>
 <colgroup>
@@ -3844,7 +3851,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>an instrument approving a form for the purposes of subsection 23(1)</div>
   </td>
   <td>
-    <div>subsection 105‑10(1) in Schedule 1.</div>
+    <div>subsection 105-10(1) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3856,7 +3863,7 @@ If, immediately before the commencement of this item, you must keep and retain a
       23(2)(b)</div>
   </td>
   <td>
-    <div>paragraph 105‑10(2)(b) in Schedule 1.</div>
+    <div>paragraph 105-10(2)(b) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3867,7 +3874,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>a notice for the purposes of paragraph 35(a)</div>
   </td>
   <td>
-    <div>paragraph 105‑50(a) in Schedule 1.</div>
+    <div>paragraph 105-50(a) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3879,7 +3886,7 @@ If, immediately before the commencement of this item, you must keep and retain a
       36(1)(f)</div>
   </td>
   <td>
-    <div>paragraph 105‑55(1)(b) in Schedule 1.</div>
+    <div>paragraph 105-55(1)(b) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3891,7 +3898,7 @@ If, immediately before the commencement of this item, you must keep and retain a
       62B(1)(a)</div>
   </td>
   <td>
-    <div>paragraph 105‑120(1)(b) in Schedule 1.</div>
+    <div>paragraph 105-120(1)(b) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3903,7 +3910,7 @@ If, immediately before the commencement of this item, you must keep and retain a
       or another person, for the purposes of paragraph 62B(1)(a)</div>
   </td>
   <td>
-    <div>paragraph 105‑120(1)(c) in Schedule 1.</div>
+    <div>paragraph 105-120(1)(c) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3914,7 +3921,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>a determination covering a use for the purposes of paragraph 62B(1)(b)</div>
   </td>
   <td>
-    <div>paragraph 105‑120(1)(d) in Schedule 1.</div>
+    <div>paragraph 105-120(1)(d) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3925,7 +3932,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>a determination of a class of persons for the purposes of subsection 62B(1)</div>
   </td>
   <td>
-    <div>paragraph 105‑120(1)(a) in Schedule 1.</div>
+    <div>paragraph 105-120(1)(a) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3936,7 +3943,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>an instrument approving a form for the purposes of subsection 62B(3)</div>
   </td>
   <td>
-    <div>paragraph 105‑120(1)(e) in Schedule 1.</div>
+    <div>paragraph 105-120(1)(e) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3947,7 +3954,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>a determination for the purposes of subsection 62B(4)</div>
   </td>
   <td>
-    <div>subsection 105‑120(2) in Schedule 1.</div>
+    <div>subsection 105-120(2) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3959,7 +3966,7 @@ If, immediately before the commencement of this item, you must keep and retain a
       62C(1)</div>
   </td>
   <td>
-    <div>paragraph 105‑125(1)(a) in Schedule 1.</div>
+    <div>paragraph 105-125(1)(a) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3971,7 +3978,7 @@ If, immediately before the commencement of this item, you must keep and retain a
       62C(1)</div>
   </td>
   <td>
-    <div>paragraph 105‑125(1)(b) in Schedule 1.</div>
+    <div>paragraph 105-125(1)(b) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3982,7 +3989,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>a determination of a class of persons for the purposes of subsection 62C(1)</div>
   </td>
   <td>
-    <div>subsection 105‑125(1) in Schedule 1.</div>
+    <div>subsection 105-125(1) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -3993,7 +4000,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>an instrument approving a form for the purposes of subsection 62C(3)</div>
   </td>
   <td>
-    <div>paragraph 105‑125(1)(c) in Schedule 1.</div>
+    <div>paragraph 105-125(1)(c) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4004,7 +4011,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>regulations for the purposes of subsection 62C(4)</div>
   </td>
   <td>
-    <div>subsection 105‑125(2) in Schedule 1.</div>
+    <div>subsection 105-125(2) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4015,7 +4022,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>a direction for the purposes of subsection 65(1)</div>
   </td>
   <td>
-    <div>subsection 353‑10(1) in Schedule 1.</div>
+    <div>subsection 353-10(1) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4026,7 +4033,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>an authorisation for the purposes of paragraph 65(1)(b)</div>
   </td>
   <td>
-    <div>paragraph 353‑10(1)(b) in Schedule 1.</div>
+    <div>paragraph 353-10(1)(b) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4037,7 +4044,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>an authorisation for the purposes of section 66</div>
   </td>
   <td>
-    <div>section 353‑15 in Schedule 1.</div>
+    <div>section 353-15 in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4048,7 +4055,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>an authorisation for the purposes of paragraph 68(3)(d) or (e)</div>
   </td>
   <td>
-    <div>subparagraph 355‑5(5)(a)(iii) in Schedule 1.</div>
+    <div>subparagraph 355-5(5)(a)(iii) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4062,7 +4069,7 @@ If, immediately before the commencement of this item, you must keep and retain a
       </b>in subsection 68(6)</div>
   </td>
   <td>
-    <div>item 7 in the table in subsection 355‑5(5) in Schedule 1.</div>
+    <div>item 7 in the table in subsection 355-5(5) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4073,7 +4080,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>a notice for the purposes of paragraph 70(3)(a)</div>
   </td>
   <td>
-    <div>paragraphs 382‑5(11)(a) and (12)(a) in Schedule 1.</div>
+    <div>paragraphs 382-5(11)(a) and (12)(a) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4081,10 +4088,10 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>22</div>
   </td>
   <td>
-    <div>an authorisation for the purposes of paragraph 353‑10(1)(b) in Schedule 1</div>
+    <div>an authorisation for the purposes of paragraph 353-10(1)(b) in Schedule 1</div>
   </td>
   <td>
-    <div>paragraph 353‑10(1)(b) in Schedule 1.</div>
+    <div>paragraph 353-10(1)(b) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4093,14 +4100,14 @@ If, immediately before the commencement of this item, you must keep and retain a
   </td>
   <td>
     <div>regulations prescribing a scale of expenses for the purposes of subsection
-      353‑10(3) in Schedule 1</div>
+      353-10(3) in Schedule 1</div>
   </td>
   <td>
-    <div>subsection 353‑10(3) in Schedule 1.</div>
+    <div>subsection 353-10(3) in Schedule 1.</div>
   </td>
 </tr></table>
 
-(2)       The following table has effect:
+(2)        The following table has effect:
 
 <table>
 <colgroup>
@@ -4154,7 +4161,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>Division 2 of Part VI</div>
   </td>
   <td>
-    <div>Subdivision 105‑A in Schedule 1.</div>
+    <div>Subdivision 105-A in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4168,7 +4175,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>subsection 23(1)</div>
   </td>
   <td>
-    <div>subsection 105‑10(1) in Schedule 1.</div>
+    <div>subsection 105-10(1) in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -4182,7 +4189,7 @@ If, immediately before the commencement of this item, you must keep and retain a
     <div>paragraph 36(1)(e)</div>
   </td>
   <td>
-    <div>paragraph 105‑55(1)(a) in Schedule 1.</div>
+    <div>paragraph 105-55(1)(a) in Schedule 1.</div>
   </td>
 </tr></table>
 
@@ -4190,7 +4197,7 @@ If, immediately before the commencement of this item, you must keep and retain a
 
 <h9 class="ActHead9">Taxation Administration Act 1953</h9>
 
-## 59  Subsection 111‑50(2) in Schedule 1
+## 59  Subsection 111-50(2) in Schedule 1
 
 Repeal the subsection, substitute:
 
@@ -4238,7 +4245,7 @@ Repeal the subsection, substitute:
       *wine tax credit</div>
   </td>
   <td>
-    <div>section 17‑45</div>
+    <div>section 17-45</div>
   </td>
 </tr>
 <tr>
@@ -4249,7 +4256,7 @@ Repeal the subsection, substitute:
     <div>deciding the date of effect of your approval as a New Zealand participant</div>
   </td>
   <td>
-    <div>section 19‑7</div>
+    <div>section 19-7</div>
   </td>
 </tr>
 <tr>
@@ -4260,7 +4267,7 @@ Repeal the subsection, substitute:
     <div>refusing to approve you as a New Zealand participant</div>
   </td>
   <td>
-    <div>section 19‑7</div>
+    <div>section 19-7</div>
   </td>
 </tr>
 <tr>
@@ -4271,7 +4278,7 @@ Repeal the subsection, substitute:
     <div>revoking your approval as a New Zealand participant</div>
   </td>
   <td>
-    <div>section 19‑8</div>
+    <div>section 19-8</div>
   </td>
 </tr>
 <tr>
@@ -4283,19 +4290,19 @@ Repeal the subsection, substitute:
       participant</div>
   </td>
   <td>
-    <div>section 19‑8</div>
+    <div>section 19-8</div>
   </td>
 </tr></table>
 
-## 60  Transitional—subsection 111‑50(2) in Schedule 1 to the _Taxation Administration Act 1953_
+## 60  Transitional—subsection 111-50(2) in Schedule 1 to the _Taxation Administration Act 1953_
 
 If:
 
-                     (a)  an application has been made for the review of a decision that was a reviewable wine tax decision within the meaning of subsection 111‑50(2) in Schedule 1 to the _Taxation Administration Act 1953_ as in force immediately before the commencement of this item; and
+                     (a)  an application has been made for the review of a decision that was a reviewable wine tax decision within the meaning of subsection 111-50(2) in Schedule 1 to the _Taxation Administration Act 1953_ as in force immediately before the commencement of this item; and
 
                      (b)  the review has not been completed before the commencement of this item;
 
-the review may continue to be dealt with, on and after the commencement of this item, as if it had been sought under subsection 111‑50(2) in Schedule 1 to the _Taxation Administration Act 1953_ as amended by this Part.
+the review may continue to be dealt with, on and after the commencement of this item, as if it had been sought under subsection 111-50(2) in Schedule 1 to the _Taxation Administration Act 1953_ as amended by this Part.
 
 <h9 class="ActHead9">Tax Laws Amendment (2005 Measures No. 4) Act 2005</h9>
 
@@ -4313,423 +4320,423 @@ Repeal the Part.
 
 ## 63  Paragraph (e) of Schedule 1
 
-Omit “Part VI of”, substitute “Part 3‑10 in Schedule 1 to”.
+Omit “Part VI of”, substitute “Part 3-10 in Schedule 1 to”.
 
-<h9 class="ActHead9">A New Tax System (Commonwealth‑State Financial Arrangements) Act 1999</h9>
+<h9 class="ActHead9">A New Tax System (Commonwealth-State Financial Arrangements) Act 1999</h9>
 
 ## 64  At the end of subsection 10(1)
 
 Add:
 
-Note:          Paragraph B3(ii) of Appendix B to the agreement, as set out in Schedule 2, refers to section 39 of the _Taxation Administration Act 1953_. That section has been remade as section 105‑65 in Schedule 1 to that Act.
+Note:          Paragraph B3(ii) of Appendix B to the agreement, as set out in Schedule 2, refers to section 39 of the _Taxation Administration Act 1953_. That section has been remade as section 105-65 in Schedule 1 to that Act.
 
 <h9 class="ActHead9">A New Tax System (Goods and Services Tax) Act 1999</h9>
 
-## 65  Section 2‑30 (heading)
+## 65  Section 2-30 (heading)
 
 Repeal the heading, substitute:
 
-##### <a id="2‑30"></a>2‑30  Administration, collection and recovery provisions in the _Taxation Administration Act 1953_
+##### <a id="2-30"></a>2-30  Administration, collection and recovery provisions in the _Taxation Administration Act 1953_
 
-## 66  Section 2‑30
+## 66  Section 2-30
 
-Omit “Part VI of the _Taxation Administration Act 1953_ contains”, substitute “Parts 3‑10 and 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_ contain”.
+Omit “Part VI of the _Taxation Administration Act 1953_ contains”, substitute “Parts 3-10 and 4-15 in Schedule 1 to the _Taxation Administration Act 1953_ contain”.
 
-## 67  Subsection 25‑5(1) (note)
+## 67  Subsection 25-5(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 68  Subsection 25‑5(2) (note)
+## 68  Subsection 25-5(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 69  Subsection 25‑10(1) (note)
+## 69  Subsection 25-10(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 70  Subsection 25‑55(1) (note)
+## 70  Subsection 25-55(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 71  Subsection 25‑55(2) (note)
+## 71  Subsection 25-55(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 72  Subsection 25‑57(1) (note)
+## 72  Subsection 25-57(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 73  Subsection 25‑60(1) (note)
+## 73  Subsection 25-60(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 74  Subsection 27‑15(1) (note)
+## 74  Subsection 27-15(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 75  Subsection 27‑15(2) (note)
+## 75  Subsection 27-15(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 76  Subsection 27‑22(1) (note)
+## 76  Subsection 27-22(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 77  Subsection 27‑22(3) (note)
+## 77  Subsection 27-22(3) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 78  Subsection 27‑25(1) (note)
+## 78  Subsection 27-25(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 79  Subsection 27‑25(2) (note)
+## 79  Subsection 27-25(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 80  Subsection 27‑30(1) (note)
+## 80  Subsection 27-30(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 81  Subsection 27‑37(1) (note)
+## 81  Subsection 27-37(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 82  Subsection 27‑38(1) (note)
+## 82  Subsection 27-38(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 83  Subsection 27‑38(2) (note)
+## 83  Subsection 27-38(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 84  Subsection 29‑45(1) (note)
+## 84  Subsection 29-45(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 85  Subsection 29‑45(2) (note)
+## 85  Subsection 29-45(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 86  Subsection 29‑50(3) (note)
+## 86  Subsection 29-50(3) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 87  Subsection 29‑50(4) (note)
+## 87  Subsection 29-50(4) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 88  Section 33‑1 (notes)
+## 88  Section 33-1 (notes)
 
 Repeal the notes, substitute:
 
 Note 1:       For the penalties for failing to comply with these obligations, see the _Taxation Administration Act 1953_.
 
-Note 2:       For provisions about collection and recovery of GST, see Subdivision 105‑C, and Part 4‑15, in Schedule 1 to the _Taxation Administration Act 1953_.
+Note 2:       For provisions about collection and recovery of GST, see Subdivision 105-C, and Part 4-15, in Schedule 1 to the _Taxation Administration Act 1953_.
 
-Note 3:       Payments of GST on importations of goods are dealt with separately in section 33‑15 of this Act.
+Note 3:       Payments of GST on importations of goods are dealt with separately in section 33-15 of this Act.
 
-## 89  Section 35‑5 (note 1)
+## 89  Section 35-5 (note 1)
 
-Omit “and section 39 of”, substitute “of, and section 105‑65 in Schedule 1 to,”.
+Omit “and section 39 of”, substitute “of, and section 105-65 in Schedule 1 to,”.
 
-## 90  Section 35‑99 (note)
+## 90  Section 35-99 (note)
 
-Omit “Section 39 of”, substitute “Section 105‑65 in Schedule 1 to”.
+Omit “Section 39 of”, substitute “Section 105-65 in Schedule 1 to”.
 
-## 91  Subsection 40‑165(1) (note)
+## 91  Subsection 40-165(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 92  Section 48‑5 (note)
+## 92  Section 48-5 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 93  Subsection 48‑70(1) (note)
+## 93  Subsection 48-70(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 94  Subsection 48‑70(2) (note)
+## 94  Subsection 48-70(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 95  Subsection 48‑75(1) (note)
+## 95  Subsection 48-75(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 96  Subsection 48‑75(2) (note)
+## 96  Subsection 48-75(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 97  Section 48‑85 (note)
+## 97  Section 48-85 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 98  Section 49‑5 (note)
+## 98  Section 49-5 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 99  Subsection 49‑70(1) (note)
+## 99  Subsection 49-70(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 100  Subsection 49‑70(2) (note)
+## 100  Subsection 49-70(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 101  Subsection 49‑75(1) (note)
+## 101  Subsection 49-75(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 102  Subsection 49‑75(2) (note)
+## 102  Subsection 49-75(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 103  Section 49‑85 (note)
+## 103  Section 49-85 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 104  Section 51‑5 (note)
+## 104  Section 51-5 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 105  Subsection 51‑52(5) (note)
+## 105  Subsection 51-52(5) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 106  Section 51‑60 (note 1)
+## 106  Section 51-60 (note 1)
 
-Omit “and section 39 of”, substitute “of, and section 105‑65 in Schedule 1 to,”.
+Omit “and section 39 of”, substitute “of, and section 105-65 in Schedule 1 to,”.
 
-## 107  Subsection 51‑70(1) (note)
+## 107  Subsection 51-70(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 108  Subsection 51‑70(2) (note)
+## 108  Subsection 51-70(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 109  Subsection 51‑75(1) (note)
+## 109  Subsection 51-75(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 110  Subsection 51‑75(2) (note)
+## 110  Subsection 51-75(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 111  Section 51‑85 (note)
+## 111  Section 51-85 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 112  Section 54‑5 (note)
+## 112  Section 54-5 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 113  Section 54‑10 (note)
+## 113  Section 54-10 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 114  Section 54‑65 (note 1)
+## 114  Section 54-65 (note 1)
 
-Omit “and section 39 of”, substitute “of, and section 105‑65 in Schedule 1 to,”.
+Omit “and section 39 of”, substitute “of, and section 105-65 in Schedule 1 to,”.
 
-## 115  Subsection 54‑75(1) (note)
+## 115  Subsection 54-75(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 116  Subsection 54‑75(2) (note)
+## 116  Subsection 54-75(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 117  Section 54‑80 (note)
+## 117  Section 54-80 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 118  Subsection 57‑25(1) (note)
+## 118  Subsection 57-25(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 119  Subsection 57‑35(1) (note)
+## 119  Subsection 57-35(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 120  Subsection 57‑35(2) (note)
+## 120  Subsection 57-35(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 121  Subsection 63‑35(1) (note)
+## 121  Subsection 63-35(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 122  Subsection 75‑5(1A) (note)
+## 122  Subsection 75-5(1A) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 123  Subsection 131‑10(2) (note)
+## 123  Subsection 131-10(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 124  Subsection 131‑20(3) (note)
+## 124  Subsection 131-20(3) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 125  Subsection 147‑10(1) (note)
+## 125  Subsection 147-10(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 126  Subsection 151‑10(2) (note)
+## 126  Subsection 151-10(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 127  Subsection 151‑20(3) (note)
+## 127  Subsection 151-20(3) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 128  Subsection 151‑25(3) (note)
+## 128  Subsection 151-25(3) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 129  Subsection 162‑15(2) (note)
+## 129  Subsection 162-15(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 130  Subsection 162‑25(3) (note)
+## 130  Subsection 162-25(3) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 131  Subsection 162‑30(3) (note)
+## 131  Subsection 162-30(3) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 132  Section 165‑40 (note)
+## 132  Section 165-40 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 133  Subsection 165‑45(3) (note)
+## 133  Subsection 165-45(3) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 134  Subsection 165‑45(5) (note)
+## 134  Subsection 165-45(5) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
-## 135  Subsection 184‑5(1) (note)
+## 135  Subsection 184-5(1) (note)
 
-Omit “Section 50 of”, substitute “Section 444‑30 in Schedule 1 to”.
+Omit “Section 50 of”, substitute “Section 444-30 in Schedule 1 to”.
 
-## 136  Subsection 184‑5(2) (note)
+## 136  Subsection 184-5(2) (note)
 
-Omit “Section 52 of”, substitute “Section 444‑5 in Schedule 1 to”.
+Omit “Section 52 of”, substitute “Section 444-5 in Schedule 1 to”.
 
-## 137  Section 195‑1 (definition of _reviewable GST decision_)
+## 137  Section 195-1 (definition of _reviewable GST decision_)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
 <h9 class="ActHead9">A New Tax System (Goods and Services Tax Transition) Act 1999</h9>
 
 ## 138  Section 15IA
 
-Omit “Subsection 36(1) of”, substitute “Section 105‑55 in Schedule 1 to”.
+Omit “Subsection 36(1) of”, substitute “Section 105-55 in Schedule 1 to”.
 
-_Note:       The heading to section 15IA is altered by omitting “section 36 of” and substituting “section 105‑55 in Schedule 1 to”._
+_Note:       The heading to section 15IA is altered by omitting “section 36 of” and substituting “section 105-55 in Schedule 1 to”._
 
 ## 139  Subsection 24B(5) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 110‑F in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 110-F in Schedule 1 to”.
 
 <h9 class="ActHead9">A New Tax System (Luxury Car Tax) Act 1999</h9>
 
-## 140  Section 2‑25 (heading)
+## 140  Section 2-25 (heading)
 
 Repeal the heading, substitute:
 
-##### <a id="2‑25"></a>2‑25  Administration, collection and recovery provisions in the _Taxation Administration Act 1953_
+##### <a id="2-25"></a>2-25  Administration, collection and recovery provisions in the _Taxation Administration Act 1953_
 
-## 141  Section 2‑25
+## 141  Section 2-25
 
-Omit “Part VI of the _Taxation Administration Act 1953_ contains”, substitute “Parts 3‑10 and 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_ contain”.
+Omit “Part VI of the _Taxation Administration Act 1953_ contains”, substitute “Parts 3-10 and 4-15 in Schedule 1 to the _Taxation Administration Act 1953_ contain”.
 
-## 142  Subsection 13‑20(1) (note 2)
+## 142  Subsection 13-20(1) (note 2)
 
-Omit “Part 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_ and Division 3 of Part VI of that Act”, substitute “Subdivision 105‑C, and Part 4‑15, in Schedule 1 to the _Taxation Administration Act 1953_”.
+Omit “Part 4-15 in Schedule 1 to the _Taxation Administration Act 1953_ and Division 3 of Part VI of that Act”, substitute “Subdivision 105-C, and Part 4-15, in Schedule 1 to the _Taxation Administration Act 1953_”.
 
-<h9 class="ActHead9" style="page-break-after:avoid">A New Tax System (Wine Equalisation Tax) Act 1999</h9>
+<h9 class="ActHead9">A New Tax System (Wine Equalisation Tax) Act 1999</h9>
 
-## 143  Section 2‑35 (heading)
+## 143  Section 2-35 (heading)
 
 Repeal the heading, substitute:
 
-##### <a id="2‑33"></a>2‑33  Administration, collection and recovery provisions in the _Taxation Administration Act 1953_
+##### <a id="2-33"></a>2-33  Administration, collection and recovery provisions in the _Taxation Administration Act 1953_
 
-## 144  Section 2‑35
+## 144  Section 2-35
 
-Omit “Part VI of the _Taxation Administration Act 1953_ contains”, substitute “Parts 3‑10 and 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_ contain”.
+Omit “Part VI of the _Taxation Administration Act 1953_ contains”, substitute “Parts 3-10 and 4-15 in Schedule 1 to the _Taxation Administration Act 1953_ contain”.
 
-## 145  Section 17‑25 (note)
+## 145  Section 17-25 (note)
 
-Omit “Part VI of”, substitute “Part 3‑10 in Schedule 1 to”.
+Omit “Part VI of”, substitute “Part 3-10 in Schedule 1 to”.
 
-## 146  Subsection 17‑30(3) (note)
+## 146  Subsection 17-30(3) (note)
 
-Omit “Part VI of”, substitute “Part 3‑10 in Schedule 1 to”.
+Omit “Part VI of”, substitute “Part 3-10 in Schedule 1 to”.
 
-## 147  Subsection 17‑35(3) (note)
+## 147  Subsection 17-35(3) (note)
 
-Omit “Part VI of”, substitute “Part 3‑10 in Schedule 1 to”.
+Omit “Part VI of”, substitute “Part 3-10 in Schedule 1 to”.
 
-## 148  Subsection 17‑37(2) (note)
+## 148  Subsection 17-37(2) (note)
 
-Omit “Part VI of”, substitute “Part 3‑10 in Schedule 1 to”.
+Omit “Part VI of”, substitute “Part 3-10 in Schedule 1 to”.
 
-## 149  Section 17‑45 (note)
+## 149  Section 17-45 (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 111‑C in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 111-C in Schedule 1 to”.
 
-## 150  Subsection 19‑25(4) (note)
+## 150  Subsection 19-25(4) (note)
 
-Omit “Part VI of”, substitute “Part 3‑10 in Schedule 1 to”.
+Omit “Part VI of”, substitute “Part 3-10 in Schedule 1 to”.
 
-## 151  Subsection 23‑5(1) (note 2)
+## 151  Subsection 23-5(1) (note 2)
 
-Omit “Part 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_ and Division 3 of Part VI of that Act”, substitute “Subdivision 105‑C, and Part 4‑15, in Schedule 1 to the _Taxation Administration Act 1953_”.
+Omit “Part 4-15 in Schedule 1 to the _Taxation Administration Act 1953_ and Division 3 of Part VI of that Act”, substitute “Subdivision 105-C, and Part 4-15, in Schedule 1 to the _Taxation Administration Act 1953_”.
 
-<h9 class="ActHead9" style="page-break-after:avoid">Crimes (Taxation Offences) Act 1980</h9>
+<h9 class="ActHead9">Crimes (Taxation Offences) Act 1980</h9>
 
 ## 152  Subsection 4(5)
 
-Omit “Section 68 of”, substitute “Section 355‑5 in Schedule 1 to”.
+Omit “Section 68 of”, substitute “Section 355-5 in Schedule 1 to”.
 
 <h9 class="ActHead9">Freedom of Information Act 1982</h9>
 
 ## 153  Schedule 3
 
-Omit “_Taxation Administration Act 1953_, section 68”, substitute “_Taxation Administration Act 1953_, section 355‑5 in Schedule 1”.
+Omit “_Taxation Administration Act 1953_, section 68”, substitute “_Taxation Administration Act 1953_, section 355-5 in Schedule 1”.
 
 <h9 class="ActHead9">Income Tax Assessment Act 1936</h9>
 
 ## 154  Subsection 98A(2) (note)
 
-Omit “and section 39 of”, substitute “of, and section 105‑65 in Schedule 1 to,”.
+Omit “and section 39 of”, substitute “of, and section 105-65 in Schedule 1 to,”.
 
 ## 155  Paragraph 251L(6)(d)
 
-Omit “Part VI of the _Taxation Administration Act 1953_”, substitute “subsection 995‑1(1) of the _Income Tax Assessment Act 1997_”.
+Omit “Part VI of the _Taxation Administration Act 1953_”, substitute “subsection 995-1(1) of the _Income Tax Assessment Act 1997_”.
 
 <h9 class="ActHead9">Income Tax Assessment Act 1997</h9>
 
-## 156  Paragraph 27‑15(2)(a)
+## 156  Paragraph 27-15(2)(a)
 
 Omit “_A New Tax System (Wine Equalisation Tax) Act 1999_”, substitute “* Wine Tax Act”.
 
-## 157  Paragraph 27‑15(2)(b)
+## 157  Paragraph 27-15(2)(b)
 
 Omit “_A New Tax System (Luxury Car Tax) Act 1999_”, substitute “* Luxury Car Tax Act”.
 
-## 158  Paragraph 27‑15(2)(c)
+## 158  Paragraph 27-15(2)(c)
 
 Omit “_A New Tax System (Luxury Car Tax) Act 1999_”, substitute “Luxury Car Tax Act”.
 
-## 159  Subsection 995‑1(1) (paragraph (b) of the definition of _BAS provisions_)
+## 159  Subsection 995-1(1) (paragraph (b) of the definition of _BAS provisions_)
 
 Repeal the paragraph, substitute:
 
@@ -4739,7 +4746,7 @@ Repeal the paragraph, substitute:
 
 ## 160  Subsection 3C(9) (definition of _this Act_)
 
-Omit “Part VI”, substitute “Part 3‑10, and Divisions 355 and 382, in Schedule 1”.
+Omit “Part VI”, substitute “Part 3-10, and Divisions 355 and 382, in Schedule 1”.
 
 ## 161  Subsection 8AAB(5) (table item 17AA)
 
@@ -4761,7 +4768,7 @@ Insert:
     <div>17K</div>
   </td>
   <td>
-    <div>105‑80 in Schedule 1</div>
+    <div>105-80 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -4774,13 +4781,13 @@ Insert:
 
 Repeal the paragraph, substitute:
 
-                   (pa)  paragraph 353‑10(1)(c) in Schedule 1 to this Act; or
+                    (pa)  paragraph 353-10(1)(c) in Schedule 1 to this Act; or
 
 ## 164  Subsection 14ZW(1AAA)
 
-Omit “decision mentioned in item 1 of the table in subsection 62(3) of this Act”, substitute “reviewable indirect tax decision (within the meaning of section 105‑40 in Schedule 1)”.
+Omit “decision mentioned in item 1 of the table in subsection 62(3) of this Act”, substitute “reviewable indirect tax decision (within the meaning of section 105-40 in Schedule 1)”.
 
-## 165  Subparagraph 284‑145(1)(b)(ii) in Schedule 1
+## 165  Subparagraph 284-145(1)(b)(ii) in Schedule 1
 
 Omit “_A New Tax System (Goods and Services Tax) Act 1999_”, substitute “* GST Act or Division 75 of the _Fuel Tax Act 2006_”.
 
@@ -4788,11 +4795,11 @@ Omit “_A New Tax System (Goods and Services Tax) Act 1999_”, substitute “*
 
 ## 166  Subsection 3(1) (paragraph (q) of the definition of _relevant tax_)
 
-Omit “subsection 20(1) of the _Taxation Administration Act 1953_”, substitute “subsection 995‑1(1) of the _Income Tax Assessment Act 1997_”.
+Omit “subsection 20(1) of the _Taxation Administration Act 1953_”, substitute “subsection 995-1(1) of the _Income Tax Assessment Act 1997_”.
 
 ## 167  Subsection 3(1) (paragraph (r) of the definition of _relevant tax_)
 
-Omit “Division 4 of Part VI of”, substitute “Subdivision 105‑D in Schedule 1 to”.
+Omit “Division 4 of Part VI of”, substitute “Subdivision 105-D in Schedule 1 to”.
 
 <h9 class="ActHead9">Tax Laws Amendment (Retirement Villages) Act 2004</h9>
 
@@ -4800,214 +4807,60 @@ Omit “Division 4 of Part VI of”, substitute “Subdivision 105‑D in 
 
 Repeal the paragraph, substitute:
 
-                     (b)  section 105‑55 in Schedule 1 to the _Taxation Administration Act 1953_ (which is about the time limit on refunds and credits).
+                     (b)  section 105-55 in Schedule 1 to the _Taxation Administration Act 1953_ (which is about the time limit on refunds and credits).
 
 ## 169  Item 16 of Schedule 1
 
-Omit “Section 36 of”, substitute “Section 105‑55 in Schedule 1 to”.
+Omit “Section 36 of”, substitute “Section 105-55 in Schedule 1 to”.
 
-_Note:       The heading to item 16 of Schedule 1 is altered by omitting “section 36 of” and substituting “section 105‑55 in Schedule 1 to”._
+_Note:       The heading to item 16 of Schedule 1 is altered by omitting “section 36 of” and substituting “section 105-55 in Schedule 1 to”._
 
 <h7 class="ActHead7">Part 4—Consequential amendments conditional on the Tax Laws Amendment (2005 Measures No. 4) Act 2005</h7>
 
 <h9 class="ActHead9">A New Tax System (Wine Equalisation Tax) Act 1999</h9>
 
-## 170  Subsection 19‑7(4) (note)
+## 170  Subsection 19-7(4) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 111‑C in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 111-C in Schedule 1 to”.
 
-## 171  Subsection 19‑7(6) (note)
+## 171  Subsection 19-7(6) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 111‑C in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 111-C in Schedule 1 to”.
 
-## 172  Subsection 19‑8(1) (note)
+## 172  Subsection 19-8(1) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 111‑C in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 111-C in Schedule 1 to”.
 
-## 173  Subsection 19‑8(2) (note)
+## 173  Subsection 19-8(2) (note)
 
-Omit “Division 7 of Part VI of”, substitute “Subdivision 111‑C in Schedule 1 to”.
+Omit “Division 7 of Part VI of”, substitute “Subdivision 111-C in Schedule 1 to”.
 
-## 174  Subsection 19‑25(5)
+## 174  Subsection 19-25(5)
 
-Omit “Part VI of”, substitute “Part 3‑10 in Schedule 1 to”.
+Omit “Part VI of”, substitute “Part 3-10 in Schedule 1 to”.
+ 
 
-# Notes to the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_
+##  
 
-### Note 1
+[_Minister’s second reading speech made in—_
 
-The _Fuel Tax (Consequential and Transitional Provisions) Act 2006_ as shown in this compilation comprises Act No. 73, 2006 amended as indicated in the Tables below.
+_House of Representatives on 29 March 2006_
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+_Senate on 14 June 2006_]
 
-### Table of Acts
+<div>
 
-<table>
+<table hspace="0" vspace="0" align="left">
 <colgroup>
-  <col width="29%">
-  <col width="17%">
-  <col width="17%">
-  <col width="21%">
-  <col width="16%">
+  <col width="NaN%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
 <tr>
-  <td>
-    <div>Fuel Tax (Consequential and Transitional Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>73, 2006</div>
-  </td>
-  <td>
-    <div>26 June 2006</div>
-  </td>
-  <td>
-    <div><i>See</i>s. 2(1)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2009 Measures No. 2) Act 2009</div>
-  </td>
-  <td>
-    <div>42, 2009</div>
-  </td>
-  <td>
-    <div>23 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 13–15): 1 July 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy (Fuel Tax Legislation Amendment) Act 2011</div>
-  </td>
-  <td>
-    <div>157, 2011</div>
-  </td>
-  <td>
-    <div>4 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 44, 45): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 45)</div>
+  <td align="left">
+    <div>(23/06)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 35</div>
-  </td>
-  <td>
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 40</div>
-  </td>
-  <td>
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 41</div>
-  </td>
-  <td>
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr></table>
-
-### Note 2
-
-_Clean Energy (Fuel Tax Legislation Amendment) Act 2011 (No. 157, 2011)_
-
-The following amendment commences on 1 July 2012:
-
-## Schedule 1
-
-## 44  After subitem 12(2) of Schedule 3
-
-Insert:
-
-(2A)     If, because of subitem (2), you are entitled to a credit in respect of the fuel acquired, manufactured or imported for use as mentioned in subparagraph (1)(b)(i), then, for the purpose of section 43‑8 of the Fuel Tax Act, the amount of carbon reduction that applies to the fuel is taken to be nil.
-
-As at 1 February 2012 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Clean Energy (Fuel Tax Legislation Amendment) Act 2011 (No. 157, 2011)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 1
-
-## 45  Application of amendments
-
-The amendments made by this Schedule apply to fuel acquired, manufactured or imported on or after the commencement of this Schedule.
+</div>
 
  
