@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00384/Html/Ombudsman1976_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00190/Html/Ombudsman1976_WD02_image001.gif)
 
 # Ombudsman Act 1976
 
 **Act No. 181 of 1976 as amended**
 
-This compilation was prepared on 7 June 2010
- taking into account amendments up to Act No. 51 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -20,201 +20,201 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         Prescribed authorities: Commonwealth-controlled companies
+[3A](#3A).         Prescribed authorities: Commonwealth-controlled companies          14
 
-[3B](#3B).         Certain legislation relating to Australian Capital Territory not to be enactment
+[3B](#3B).         Certain legislation relating to Australian Capital Territory not to be enactment     15
 
-[3BA](#3BA).      Commonwealth service providers
+[3BA](#3BA).      Commonwealth service providers                                                     16
 
-[3C](#3C).         Application of Act
+[3C](#3C).         Application of Act                                                                            16
 
-[3D](#3D).         Application of the _Criminal Code_
+[3D](#3D).         Application of the _Criminal Code_                                                     16
 
 **Part II—Establishment, functions, powers and duties of the Ombudsman** 
 
     **Division 1—Establishment and functions**
 
-[4](#4).            Establishment of offices of Ombudsman and Deputy Ombudsman
+[4](#4).            Establishment of offices of Ombudsman and Deputy Ombudsman 17
 
-[5](#5).            Functions of Ombudsman
+[5](#5).            Functions of Ombudsman                                                                 17
 
-[6](#6).            Discretion not to investigate certain complaints
+[6](#6).            Discretion not to investigate certain complaints                               20
 
-[6A](#6A).         Transfer of complaints about ACC
+[6A](#6A).         Transfer of complaints about ACC                                                   28
 
-[6B](#6B).         Transfer of complaints about Integrity Commissioner
+[6B](#6B).         Transfer of complaints about Integrity Commissioner                     29
 
-[7](#7).            Complaints
+[7](#7).            Complaints                                                                                        29
 
-[7A](#7A).         Preliminary inquiries
+[7A](#7A).         Preliminary inquiries                                                                          30
 
-[8](#8).            Investigations
+[8](#8).            Investigations                                                                                     32
 
-[8A](#8A).         Investigations by Commonwealth and State Ombudsmen
+[8A](#8A).         Investigations by Commonwealth and State Ombudsmen                38
 
-[8B](#8B).         Investigations by other authorities of ACC actions
+[8B](#8B).         Investigations by other authorities of ACC actions                          40
 
-[8C](#8C).         Investigations by other authorities of ACLEI actions
+[8C](#8C).         Investigations by other authorities of ACLEI actions                       40
 
-[8D](#8D).         Investigations by Ombudsman and Australian Federal Police
+[8D](#8D).         Investigations by Ombudsman and Australian Federal Police          41
 
-[9](#9).            Power to obtain information and documents
+[9](#9).            Power to obtain information and documents                                     42
 
-[10](#10).          Unreasonable delay in exercising power
+[10](#10).          Unreasonable delay in exercising power                                            45
 
-[10A](#10A).       Ombudsman may refer questions to the AAT
+[10A](#10A).       Ombudsman may refer questions to the AAT                                  47
 
-[11](#11).          Ombudsman may recommend that the principal officer refer questions to the AAT
+[11](#11).          Ombudsman may recommend that the principal officer refer questions to the AAT             47
 
-[11A](#11A).       Powers of Federal Court of Australia
+[11A](#11A).       Powers of Federal Court of Australia                                                48
 
-[12](#12).          Complainant and Department etc  to be informed
+[12](#12).          Complainant and Department etc  to be informed                            49
 
-[13](#13).          Power to examine witnesses
+[13](#13).          Power to examine witnesses                                                              50
 
-[14](#14).          Power to enter premises
+[14](#14).          Power to enter premises                                                                    50
 
     **Division 2—Reports**
 
-[15](#15).          Reports by Ombudsman
+[15](#15).          Reports by Ombudsman                                                                   53
 
-[16](#16).          Reports where appropriate action not taken on Ombudsman’s report
+[16](#16).          Reports where appropriate action not taken on Ombudsman’s report   55
 
-[17](#17).          Special reports to Parliament
+[17](#17).          Special reports to Parliament                                                             56
 
-[18](#18).          Ombudsman may have further discussion with principal officer
+[18](#18).          Ombudsman may have further discussion with principal officer      56
 
-[19](#19).          Annual report and additional reports to Parliament
+[19](#19).          Annual report and additional reports to Parliament                          57
 
 **Part IIA—Establishment, functions, powers and duties of the Defence Force Ombudsman**
 
-[19B](#19B).       Establishment of office of Defence Force Ombudsman
+[19B](#19B).       Establishment of office of Defence Force Ombudsman                    59
 
-[19C](#19C).       Functions of Defence Force Ombudsman
+[19C](#19C).       Functions of Defence Force Ombudsman                                         59
 
-[19D](#19D).       Discretion to investigate complaints as Commonwealth Ombudsman or as Defence Force Ombudsman
+[19D](#19D).       Discretion to investigate complaints as Commonwealth Ombudsman or as Defence Force Ombudsman              61
 
-[19E](#19E).        Discretion with respect to certain complaints
+[19E](#19E).        Discretion with respect to certain complaints                                   62
 
-[19F](#19F).        Application of provisions of Act to Defence Force Ombudsman
+[19F](#19F).        Application of provisions of Act to Defence Force Ombudsman    63
 
 **Part IIB—Establishment, functions, powers and duties of the Postal Industry Ombudsman** 
 
     **Division 1—Preliminary**
 
-[19G](#19G).       Definitions
+[19G](#19G).       Definitions                                                                                         64
 
-[19H](#19H).       Action taken by contractors
+[19H](#19H).       Action taken by contractors                                                              65
 
-[19J](#19J).        Continued application of this Act to deregistered PPOs
+[19J](#19J).        Continued application of this Act to deregistered PPOs                  66
 
-[19K](#19K).       Part IIB not to affect operation of other provisions of this Act
+[19K](#19K).       Part IIB not to affect operation of other provisions of this Act       66
 
     **Division 2—Establishment and functions of the Postal Industry Ombudsman**
 
-[19L](#19L).        Establishment of office of Postal Industry Ombudsman
+[19L](#19L).        Establishment of office of Postal Industry Ombudsman                  67
 
-[19M](#19M).      Functions of Postal Industry Ombudsman
+[19M](#19M).      Functions of Postal Industry Ombudsman                                       67
 
-[19N](#19N).       Discretion to investigate complaints as Commonwealth Ombudsman or as Postal Industry Ombudsman
+[19N](#19N).       Discretion to investigate complaints as Commonwealth Ombudsman or as Postal Industry Ombudsman            68
 
-[19P](#19P).        Discretion to refer complaint to another statutory office-holder
+[19P](#19P).        Discretion to refer complaint to another statutory office-holder      70
 
-[19Q](#19Q).       Discretion not to investigate certain complaints
+[19Q](#19Q).       Discretion not to investigate certain complaints                               70
 
     **Division 3—Powers and duties of the Postal Industry Ombudsman**
 
-[19R](#19R).       Application of other provisions of this Act to the Postal Industry Ombudsman
+[19R](#19R).       Application of other provisions of this Act to the Postal Industry Ombudsman  72
 
-[19S](#19S).        Powers of the Postal Industry Ombudsman under section 9
+[19S](#19S).        Powers of the Postal Industry Ombudsman under section 9            74
 
-[19T](#19T).       Duty to accord procedural fairness
+[19T](#19T).       Duty to accord procedural fairness                                                   74
 
-[19U](#19U).       Disclosure of identifying information
+[19U](#19U).       Disclosure of identifying information                                                75
 
-[19V](#19V).       Postal Industry Ombudsman may report to Australia Post or registered PPO
+[19V](#19V).       Postal Industry Ombudsman may report to Australia Post or registered PPO      75
 
-[19W](#19W).      Minister to table certain reports in Parliament
+[19W](#19W).      Minister to table certain reports in Parliament                                  76
 
-[19X](#19X).       Annual reports
+[19X](#19X).       Annual reports                                                                                   77
 
-[19Y](#19Y).       Postal Industry Ombudsman may notify employer of misconduct
+[19Y](#19Y).       Postal Industry Ombudsman may notify employer of misconduct  78
 
-[19Z](#19Z).       Limitation on liability where information or documents provided in good faith or when required to do so
+[19Z](#19Z).       Limitation on liability where information or documents provided in good faith or when required to do so           79
 
     **Division 4—Register of PPOs**
 
-[19ZA](#19ZA).    Registration of PPOs
+[19ZA](#19ZA).    Registration of PPOs                                                                         80
 
-[19ZB](#19ZB).     Information to be included in Register
+[19ZB](#19ZB).     Information to be included in Register                                               80
 
-[19ZC](#19ZC).     Deregistration of PPOs
+[19ZC](#19ZC).     Deregistration of PPOs                                                                      80
 
-[19ZD](#19ZD).    Register may be maintained by electronic means
+[19ZD](#19ZD).    Register may be maintained by electronic means                              81
 
     **Division 5—Fees for investigations**
 
-[19ZE](#19ZE).     Fees for investigations
+[19ZE](#19ZE).     Fees for investigations                                                                       82
 
 **Part III—Conditions of service, and staff, of the Ombudsman** 
 
     **Division 1—Ombudsman**
 
-[20](#20).          Interpretation
+[20](#20).          Interpretation                                                                                     84
 
-[21](#21).          Appointment of Ombudsman
+[21](#21).          Appointment of Ombudsman                                                           84
 
-[22](#22).          Tenure of office
+[22](#22).          Tenure of office                                                                                 84
 
-[23](#23).          Deputy Ombudsman
+[23](#23).          Deputy Ombudsman                                                                         84
 
-[24](#24).          Salary and allowances
+[24](#24).          Salary and allowances                                                                        84
 
-[25](#25).          Leave of absence
+[25](#25).          Leave of absence                                                                                85
 
-[26](#26).          Resignation
+[26](#26).          Resignation                                                                                        85
 
-[27](#27).          Retirement
+[27](#27).          Retirement                                                                                         85
 
-[28](#28).          Suspension and removal of Ombudsman
+[28](#28).          Suspension and removal of Ombudsman                                           85
 
-[28A](#28A).       Removal taken to be retirement on ground of invalidity
+[28A](#28A).       Removal taken to be retirement on ground of invalidity                   86
 
-[28B](#28B).       Retirement on ground of invalidity under the Superannuation Acts
+[28B](#28B).       Retirement on ground of invalidity under the Superannuation Acts 87
 
-[29](#29).          Acting appointments
+[29](#29).          Acting appointments                                                                         88
 
     **Division 2—Staff**
 
-[31](#31).          Staff
+[31](#31).          Staff                                                                                                   90
 
 **Part IV—Miscellaneous**
 
-[33](#33).          Ombudsman not to be sued
+[33](#33).          Ombudsman not to be sued                                                               91
 
-[34](#34).          Delegation
+[34](#34).          Delegation                                                                                          91
 
-[35](#35).          Officers to observe confidentiality
+[35](#35).          Officers to observe confidentiality                                                    92
 
-[35AA](#35AA).    Disclosure of information and documents to Integrity Commissioner
+[35AA](#35AA).    Disclosure of information and documents to Integrity Commissioner 95
 
-[35A](#35A).       Disclosure of information by Ombudsman
+[35A](#35A).       Disclosure of information by Ombudsman                                       96
 
-[35B](#35B).       Disclosure of ACC information
+[35B](#35B).       Disclosure of ACC information                                                         98
 
-[35C](#35C).       Disclosure of ACLEI information
+[35C](#35C).       Disclosure of ACLEI information                                                     99
 
-[36](#36).          Offences
+[36](#36).          Offences                                                                                           100
 
-[37](#37).          Protection from civil actions
+[37](#37).          Protection from civil actions                                                            100
 
-[38](#38).          Regulations
+[38](#38).          Regulations                                                                                      100
 
 **Notes** 
 
@@ -2945,9 +2945,7 @@ The _Ombudsman Act 1976_ as shown in this compilation comprises Act No. 181, 1
 
 For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
 
-For application, saving or transitional provisions made by Schedule 7 of the _Freedom of Information Amendment (Reform) Act 2010_, _see_ Act No. 51, 2010.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+All other relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -3774,25 +3772,6 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>51, 2010</div>
-  </td>
-  <td colspan="2">
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 59–64, 66, 67): \[ <i>see (s),</i>Note 2 and Table A] 
-Schedule 7: <i>(s)</i></div>
-  </td>
-  <td>
-    <div>Sch. 4 (items 66, 67) \[ <i>see</i>Table A] 
-Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4406,67 +4385,6 @@ _(r)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_
   <td>
     <div>
       1 March 2010
-    </div>
-  </td>
-</tr></table>
-
-_(s)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedules 4 to 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>.
-    </div>
-    <div>
-      However, if section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>does not commence, the
-        provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2 and Table A]
     </div>
   </td>
 </tr></table>
@@ -5526,74 +5444,6 @@ No. 49, 2001</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
-
-The following amendments commence immediately after 1 November 2010:
-
-## Schedule 4
-
-## 59  Subsections 6(4A) to (4C)
-
-Repeal the subsections.
-
-## 60  After section 6B
-
-Insert:
-
-##### <a id="6C"></a>6C  Transfer of complaints to Information Commissioner
-
-Scope
-
-             (1)  This section applies if the Ombudsman is satisfied of either of the following:
-
-                     (a)  that:
-
-                              (i)  a complainant has complained, or could complain, to the Information Commissioner about an action taken by a Department or prescribed authority under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_; and
-
-                             (ii)  the action could be more appropriately or effectively dealt with by the Information Commissioner;
-
-                     (b)  a complaint about an action taken by a Department or prescribed authority has been the subject of a completed investigation by the Information Commissioner under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_.
-
-Requirement to consult with Information Commissioner
-
-             (2)  The Ombudsman:
-
-                     (a)  must consult the Information Commissioner about the complaint with a view to avoid inquiries being conducted into that matter by both the Information Commissioner and the Ombudsman; and
-
-                     (b)  may decide not to investigate the action, or not to continue to investigate the action.
-
-Transfer to Information Commissioner
-
-             (3)  If the Ombudsman decides not to investigate, or not to continue to investigate, an action under paragraph (2)(b), the Ombudsman must:
-
-                     (a)  transfer the complaint to the Information Commissioner; and
-
-                     (b)  notify the complainant in writing that the complaint has been transferred; and
-
-                     (c)  give the Information Commissioner any information or documents that relate to the complaint in the possession, or under the control of, the Ombudsman.
-
-             (4)  A complaint transferred under subsection (3) is taken to be a complaint made to the Information Commissioner under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_, as the case requires.
-
-## 61  Subsection 19(4)
-
-Omit “paragraph (1)(a) or under subsection (2)”, substitute “subsection (1) or (2)”.
-
-## 62  Subparagraph 19R(3)(b)(iii)
-
-Omit “(4A)”, substitute “(4D)”.
-
-## 63  Subsection 19R(4) (table item 4, column 2)
-
-Omit “6(4A)(e) or (4D)(e)”, substitute “6(4D)(e)”.
-
-## 64  Subsection 35(6A)
-
-Omit “6(4A)(e) or (4D)(e)”, substitute “6(4D)(e)”.
-
-As at 7 June 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5677,27 +5527,5 @@ The first report under section 19X of the _Ombudsman Act 1976_ relating to the
                      (a)  started on the commencement of this Part; and
 
                      (b)  ended on the 30 June first occurring after that commencement.
-
-* * *
-
-_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
-
-The following provisions commence immediately after 1 November 2010:
-
-## Schedule 4
-
-## 66  Application—Part 2
-
-The amendments made by Part 2 apply in relation to a complaint made to the Ombudsman under the _Ombudsman Act 1976_ at or after the commencement of that Part (whether or not the action to which the complaint relates was taken before, at or after that commencement).
-
-## 67  Savings—complaints on foot continue under old law
-
-(1)        This item applies if:
-
-                     (a)  before the commencement of Part 2, a complaint is made to the Ombudsman under the _Ombudsman Act 1976_; and
-
-                     (b)  at the commencement of that Part, the Ombudsman has not informed the complainant of the result of the complaint under section 12 of that Act.
-
-(2)        Despite the amendments made to the _Ombudsman Act 1976_ by Part 2, the Ombudsman must continue to deal with the complaint under the _Ombudsman Act 1976_ as if those amendments had not been made.
 
  
