@@ -1,20 +1,24 @@
-![](http://www.comlaw.gov.au/Details/C2007C00432/Html/AusInstMariScience72_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00179/Html/6BBD4394165DC2D1CA25715500824199/$FILE/image001.gif)
 
 # Australian Institute of Marine Science Act 1972
 
 **Act No. 55 of 1972 as amended**
 
-This compilation was prepared on 3 July 2007
- taking into account amendments up to Act No. 84 of 2007
+This compilation was prepared on 11 April 2006
+taking into account amendments up to Act No. 30 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
+ 
+
 
 # Contents
 
@@ -129,6 +133,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [51](#51).          Regulations
 
 **Notes** 
+
 
 ## An Act relating to the Australian Institute of Marine Science
 
@@ -656,6 +661,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for penalties not exceeding a fine of $100 for offences against the regulations
 
+
 # Notes to the _Australian Institute of Marine Science Act 1972_
 
 ### Note 1
@@ -683,11 +689,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td colspan="2">
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -697,374 +705,363 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Australian Institute of Marine Science Act 1972</div>
-  </td>
-  <td colspan="2">
-    <div>55, 1972</div>
-  </td>
-  <td>
-    <div>9 June 1972</div>
-  </td>
-  <td>
-    <div>1 July 1972 ( <i>see Gazette</i>1972, No. 53, p. 5)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Institute of Marine Science Act 1973</div>
-  </td>
-  <td colspan="2">
-    <div>61, 1973</div>
-  </td>
-  <td>
-    <div>18 June 1973</div>
-  </td>
-  <td>
-    <div>18 June 1973</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td colspan="2">
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-  </td>
-  <td colspan="2">
-    <div>36, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td colspan="2">
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td colspan="2">
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
-  </td>
-  <td colspan="2">
-    <div>168, 1986</div>
-  </td>
-  <td>
-    <div>18 Dec 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
-  </td>
-  <td colspan="2">
-    <div>141, 1987</div>
-  </td>
-  <td>
-    <div>18 Dec 1987</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act 1991</div>
-  </td>
-  <td colspan="2">
-    <div>122, 1991</div>
-  </td>
-  <td>
-    <div>27 June 1991</div>
-  </td>
-  <td>
-    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
+<tbody>
+  <tr>
+    <td>
+      <div>Australian Institute of Marine Science Act 1972</div>
+    </td>
+    <td colspan="2">
+      <div>55, 1972</div>
+    </td>
+    <td>
+      <div>9 June 1972</div>
+    </td>
+    <td>
+      <div>1 July 1972 ( <i>see Gazette</i>1972, No. 53, p. 5)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Institute of Marine Science Act 1973</div>
+    </td>
+    <td colspan="2">
+      <div>61, 1973</div>
+    </td>
+    <td>
+      <div>18 June 1973</div>
+    </td>
+    <td>
+      <div>18 June 1973</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td colspan="2">
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+    </td>
+    <td colspan="2">
+      <div>36, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td colspan="2">
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+    </td>
+    <td colspan="2">
+      <div>76, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
+    </td>
+    <td colspan="2">
+      <div>168, 1986</div>
+    </td>
+    <td>
+      <div>18 Dec 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
+    </td>
+    <td colspan="2">
+      <div>141, 1987</div>
+    </td>
+    <td>
+      <div>18 Dec 1987</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act 1991</div>
+    </td>
+    <td colspan="2">
+      <div>122, 1991</div>
+    </td>
+    <td>
+      <div>27 June 1991</div>
+    </td>
+    <td>
+      <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
 Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 31(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
-  </td>
-  <td colspan="2">
-    <div>199, 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Technology and Commerce Legislation Amendment Act 1992</div>
-  </td>
-  <td colspan="2">
-    <div>168, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 5 (ss. 14, 15): 30 July 1975 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td colspan="2">
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 28–30): Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td colspan="2">
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 338–346): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td colspan="2">
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 198, 199): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td colspan="2">
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 38, 39): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td colspan="2">
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Research Agencies Legislation Amendment Act 2002</div>
-  </td>
-  <td colspan="2">
-    <div>98, 2002</div>
-  </td>
-  <td>
-    <div>10 Nov 2002</div>
-  </td>
-  <td>
-    <div>10 Nov 2002</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Institute of Marine Science Amendment Act 2005</div>
-  </td>
-  <td colspan="2">
-    <div>54, 2005</div>
-  </td>
-  <td>
-    <div>25 May 2005</div>
-  </td>
-  <td>
-    <div>25 May 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-  </td>
-  <td colspan="2">
-    <div>30, 2006</div>
-  </td>
-  <td>
-    <div>6 Apr 2006</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 2): 7 Apr 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governance Review Implementation (Science Research Agencies) Act 2007</div>
-  </td>
-  <td colspan="2">
-    <div>84, 2007</div>
-  </td>
-  <td>
-    <div>21 June 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 12) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 31(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
+    </td>
+    <td colspan="2">
+      <div>199, 1991</div>
+    </td>
+    <td>
+      <div>18 Dec 1991</div>
+    </td>
+    <td>
+      <div>18 Dec 1991</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industry, Technology and Commerce Legislation Amendment Act 1992</div>
+    </td>
+    <td colspan="2">
+      <div>168, 1992</div>
+    </td>
+    <td>
+      <div>11 Dec 1992</div>
+    </td>
+    <td>
+      <div>Part 5 (ss. 14, 15): 30 July 1975 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td colspan="2">
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 28–30): Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td colspan="2">
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 338–346): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td colspan="2">
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 198, 199): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td colspan="2">
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (items 38, 39): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td colspan="2">
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Research Agencies Legislation Amendment Act 2002</div>
+    </td>
+    <td colspan="2">
+      <div>98, 2002</div>
+    </td>
+    <td>
+      <div>10 Nov 2002</div>
+    </td>
+    <td>
+      <div>10 Nov 2002</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 11) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Institute of Marine Science Amendment Act 2005</div>
+    </td>
+    <td colspan="2">
+      <div>54, 2005</div>
+    </td>
+    <td>
+      <div>25 May 2005</div>
+    </td>
+    <td>
+      <div>25 May 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
+    </td>
+    <td colspan="2">
+      <div>30, 2006</div>
+    </td>
+    <td>
+      <div>6 Apr 2006</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 2): 7 Apr 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
@@ -1083,26 +1080,27 @@ _(d)_     The _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986
                (29)   The amendment of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_ made by this Act shall be deemed to have come into operation on the day on which the first-mentioned Act received the Royal Assent.
 
 _(e)_     The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 4 (items 
- 28–30) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+28–30) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
 _(f)_      The _Australian Institute of Marine Science Act 1972_ was amended by Schedule 2 (items 
- 338–346) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+338–346) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_,
 
-_(g)_     The _Australian__Institute__of__Marine   Science Act__1972_ was amended by Schedule 1 (items 198 and 199) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(g)_     The _Australian__Institute__of__Marine Science Act__1972_ was amended by Schedule 1 (items 198 and 199) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ was amended by Schedule 10 (items 38 and 39) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(h)_     The _Australian__Institute__of__Marine Science Act__1972_ was amended by Schedule 10 (items 38 and 39) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12.
+
 
 ## Table of Amendments
 
@@ -1127,716 +1125,649 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. Nos. 76 and 168, 1986; No. 168, 1992; No. 152, 1997; No. 98, 2002; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rep. No. 61, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rs. No. 168, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 168, 1992; No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10AA</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2002; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. Nos. 76 and 168, 1986; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. Nos. 76 and 168, 1986; No. 152, 1997; No. 156, 1999; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>rs. Nos. 76 and 168, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 168, 1986 (as am. by No. 141, 1987)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 20A</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20A</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 21</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 159, 2001; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 23</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 24</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rs. No. 122, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. Nos. 76 and 168, 1986; No. 122, 1991; No. 152, 1997; No. 156, 1999; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 29</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 30</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>rep. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 76, 1986; No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 199, 1991; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 199, 1991; No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978; No. 76, 1986; No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978; No. 76, 1986; No. 152, 1997; No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>rep. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rep. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 42A–42E</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 98, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50A</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2002</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. Nos. 76 and 168, 1986; No. 168, 1992; No. 152, 1997; No. 98, 2002; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>rep. No. 61, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>rs. No. 168, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 168, 1992; No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10AA</div>
+    </td>
+    <td>
+      <div>ad. No. 168, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10A</div>
+    </td>
+    <td>
+      <div>ad. No. 168, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 98, 2002; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. Nos. 76 and 168, 1986; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. Nos. 76 and 168, 1986; No. 152, 1997; No. 156, 1999; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>rs. Nos. 76 and 168, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 168, 1986 (as am. by No. 141, 1987)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 20A</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20A</div>
+    </td>
+    <td>
+      <div>ad. No. 168, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IV</div>
+    </td>
+    <td>
+      <div>rs. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 21</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 159, 2001; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 23</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 24</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>rs. No. 122, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 28</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. Nos. 76 and 168, 1986; No. 122, 1991; No. 152, 1997; No. 156, 1999; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 29</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 30</div>
+    </td>
+    <td>
+      <div>am. No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 159, 2001; No. 54, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>rep. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 76, 1986; No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 199, 1991; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 199, 1991; No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978; No. 76, 1986; No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978; No. 76, 1986; No. 152, 1997; No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>rep. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>rep. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 42A–42E</div>
+    </td>
+    <td>
+      <div>ad. No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 98, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50A</div>
+    </td>
+    <td>
+      <div>ad. No. 30, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Schedule</div>
+    </td>
+    <td>
+      <div>rep. No. 98, 2002</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 2007)_
-
-The following amendments commence on 21 December 2007 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Paragraph 20A(a)
-
-Omit “the grant of leave to him or her by the Council”, substitute “him or her”.
-
-## 2  Section 21
-
-Omit “the Governor-General on the recommendation of”.
-
-## 3  Subsection 22(1)
-
-Omit “(1)”.
-
-## 4  Subsection 22(1)
-
-Omit “7”, substitute “5”.
-
-## 5  Subsection 22(1)
-
-Omit “Governor-General”, substitute “Council”.
-
-## 6  Subsection 25(2)
-
-Omit “Minister”, substitute “Council”.
-
-## 7  Section 26
-
-Omit “Governor-General”, substitute “Council”.
-
-## 8  Sections 27 and 28
-
-Repeal the sections, substitute:
-
-##### <a id="27"></a>27  Termination of appointment
-
-             (1)  The Council may terminate the appointment of the Chief Executive Officer for misbehaviour or physical or mental incapacity.
-
-             (2)  The Council may terminate the appointment of the Chief Executive Officer if:
-
-                     (a)  the Chief Executive Officer becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
-
-                     (b)  the Chief Executive Officer is absent, except on leave of absence granted by the Council, from 3 consecutive meetings of the Council; or
-
-                     (c)  the Chief Executive Officer is absent from duty, except on leave of absence granted by the Council, for 14 consecutive days or for 28 days in any 12 months; or
-
-                     (d)  the Chief Executive Officer fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_; or
-
-                     (e)  the Council is satisfied that the performance of the Chief Executive Officer has been unsatisfactory for a significant period.
-
-## 9  Section 29
-
-Omit “Minister” (wherever occurring), substitute “Council”.
-
-## 10  Subsections 30(1), (3), (4) and (5)
-
-Omit “Minister”, substitute “Council”.
-
-## 11  Section 42
-
-Repeal the section.
-
-As at 3 July 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1850,7 +1781,9 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Research Agencies Legislation Amendment Act 2002 (No. 98, 2002)_
 
@@ -1860,30 +1793,7 @@ _Research Agencies Legislation Amendment Act 2002 (No. 98, 2002)_
 
 In determining the functions and powers that the Institute had before the commencement of this item, the amendments made by this Part are to be disregarded.
 
-* * *
 
-_Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 2007)_
-
-The following provision commences on 21 December 2007 unless proclaimed earlier:
-
-## Schedule 1
-
-## 12  Application of amendments—Chief Executive Officer
-
-(1)        The amendments and repeals made by this Schedule apply to a person appointed after commencement as Chief Executive Officer.
-
-(2)        The instrument of appointment of the current Chief Executive Officer continues in effect after commencement, despite the amendments and repeals made by this Schedule.
-
-(3)        Subject to subitem (4), the old Act continues to apply, in relation to the current Chief Executive Officer, as if the amendments and repeals made by this Schedule had not happened.
-
-(4)        Subsection 25(2) of the _Australian Institute of Marine Science Act 1972_**,** as amended by this Schedule, has effect after commencement in relation to the current Chief Executive Officer.
-
-(5)        In this item:
-
-**_commencement_** means the commencement of this item.
-
-**_current Chief Executive Officer_** means the person who, immediately before commencement, held the office of Chief Executive Officer of the Australian Institute of Marine Science under section 21 of the old Act.
-
-**_old Act_** means the _Australian Institute of Marine Science Act 1972_, as in force immediately before commencement.
+ 
 
  
