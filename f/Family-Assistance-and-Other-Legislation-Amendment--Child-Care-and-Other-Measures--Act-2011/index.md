@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00634/Html/68687251-3aea-40a2-94df-76957046fb10_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00603/Html/fd132fce-037a-4f78-9b91-b8b3184343a5_files/image001.gif)
 
 # Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011
 
 **Act No. 79 of 2011 as amended**
 
-This compilation was prepared on 5 August 2011
- taking into account amendments up to Act No. 91 of 2011
+This compilation was prepared on 4 August 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -326,7 +326,7 @@ Repeal the paragraph.
 
 After “service”, insert “(the **_first service_**)”.
 
-## 8  Paragraphs 82(2)(a) to (b)
+## 8  Paragraphs 82(2)(a) and (b)
 
 Repeal the paragraphs, substitute:
 
@@ -988,23 +988,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>91, 2011</div>
-  </td>
-  <td>
-    <div>4 Aug 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 7B) of the _Human Services Legislation Amendment Act 2011_ provides as follows:
@@ -1101,62 +1084,6 @@ _(a)_ Subsection 2(1) (item 7B) of the _Human Services Legislation Amendment A
   </td>
 </tr></table>
 
-_(b)_ Subsection 2(1) (item 3) of the _Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 2, item 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 8 of Schedule 1 to the
-        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
-          Measures) Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      26 July 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -1202,14 +1129,6 @@ _(b)_ Subsection 2(1) (item 3) of the _Social Security and Other Legislation A
   </td>
   <td>
     <div>rep. No. 25, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 8</div>
-  </td>
-  <td>
-    <div>am. No. 91, 2011</div>
   </td>
 </tr></table>
 
