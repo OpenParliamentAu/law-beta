@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2008C00246/Html/AusTradeComm1985WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00384/Html/4BF2FE600122041FCA2571A000837A47/$FILE/image001.gif)
 
 # Australian Trade Commission Act 1985
 
 **Act No. 186 of 1985 as amended**
 
-This compilation was prepared on 2 July 2008
- taking into account amendments up to Act No. 33 of 2008
+This compilation was prepared on 1 July 2006
+taking into account amendments up to Act No. 57 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -102,6 +104,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to establish an Australian Trade Commission for the purpose of facilitating and promoting trade between Australia and foreign countries, and for related purposes
 
 ## Part 1—Preliminary
@@ -146,7 +149,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="corpor-plan"></a>**_corporate plan_** means a plan developed by the CEO in accordance with section 64, and includes such a plan as varied in accordance with section 66.
 
-                    <a name="depart-state"></a>**_Department of State_**, in relation to the Northern   Territory, means a Department of that Territory.
+                    <a name="depart-state"></a>**_Department of State_**, in relation to the Northern Territory, means a Department of that Territory.
 
                     <a name="oversea-develop-project"></a>**_overseas development project_** means a project by way of:
 
@@ -182,7 +185,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Application of Act outside Australia
 
-                   This Act applies both within and outside   Australia.
+                   This Act applies both within and outside Australia.
 
 ##### <a id="6"></a>6  Application of _Export Market Development Grants Act 1997_ not affected
 
@@ -240,17 +243,9 @@ Note:          For the appointment, terms and conditions of th
 
                             (ix)  developing and administering schemes to provide assistance in the development of markets in foreign countries; and
 
-                             (x)  facilitating access by persons to Departments of State of the Commonwealth or of a State and to instrumentalities established by or under a law of the Commonwealth or of a State where that access is likely to enhance opportunities for Australian export trade; and
+                             (x)  facilitating access by persons to Departments of State of the Commonwealth or of a State and to instrumentalities established by or under a law of the Commonwealth or of a State where that access is likely to enhance opportunities for Australian export trade;
 
-                     (b)  to do any other act or thing required or permitted by:
-
-                              (i)  this Act; or
-
-                             (ii)  any other Act; or
-
-                            (iii)  an instrument under an Act;
-
-                            to be done by the CEO; and
+                     (b)  to do any other act or thing required by this Act or by any other Act to be done by the CEO; and
 
                      (c)  to act, outside Australia, as agent for Departments of State of the Commonwealth or for instrumentalities established by or under a law of the Commonwealth.
 
@@ -518,6 +513,7 @@ and in particular:
 
                      (d)  prescribing penalties, not exceeding a fine of $500, for offences against the regulations.
 
+
 # Notes to the _Australian Trade Commission Act 1985_
 
 ### Note 1
@@ -546,11 +542,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -560,386 +558,171 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Australian Trade Commission Act 1985</div>
-  </td>
-  <td>
-    <div>186, 1985</div>
-  </td>
-  <td>
-    <div>16 Dec 1985</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and 97: Royal Assent 
-Remainder: 6 Jan 1986 ( <i>see Gazette</i>1985, No. S551)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
-  </td>
-  <td>
-    <div>168, 1986</div>
-  </td>
-  <td>
-    <div>18 Dec 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
-  </td>
-  <td>
-    <div>141, 1987</div>
-  </td>
-  <td>
-    <div>18 Dec 1987</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
-  </td>
-  <td>
-    <div>21, 1989</div>
-  </td>
-  <td>
-    <div>20 Apr 1989</div>
-  </td>
-  <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Technology and Commerce Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>91, 1989</div>
-  </td>
-  <td>
-    <div>27 June 1989</div>
-  </td>
-  <td>
-    <div>S. 15: 14 Dec 1988 
+<tbody>
+  <tr>
+    <td>
+      <div>Australian Trade Commission Act 1985</div>
+    </td>
+    <td>
+      <div>186, 1985</div>
+    </td>
+    <td>
+      <div>16 Dec 1985</div>
+    </td>
+    <td>
+      <div>Ss. 1–3 and 97: Royal Assent 
+Remainder: 6 Jan 1986 ( <i>see Gazette</i>1985, No. S551) 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
+    </td>
+    <td>
+      <div>168, 1986</div>
+    </td>
+    <td>
+      <div>18 Dec 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
+    </td>
+    <td>
+      <div>141, 1987</div>
+    </td>
+    <td>
+      <div>18 Dec 1987</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
+    </td>
+    <td>
+      <div>21, 1989</div>
+    </td>
+    <td>
+      <div>20 Apr 1989</div>
+    </td>
+    <td>
+      <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industry, Technology and Commerce Legislation Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>91, 1989</div>
+    </td>
+    <td>
+      <div>27 June 1989</div>
+    </td>
+    <td>
+      <div>S. 15: 14 Dec 1988 
 Part 4 (ss. 20–25): 30 Nov 1989 ( <i>see Gazette</i>1989, No. S371) 
-Part 5 (ss. 26, 27): 1 Aug 1989 ( <i>see Gazette</i>1989, No. S262) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Banking Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>129, 1989</div>
-  </td>
-  <td>
-    <div>7 Nov 1989</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1, 2), ss. 3, 26, 29–33, 35, 38 and 40: Royal Assent 
+Part 5 (ss. 26, 27): 1 Aug 1989 ( <i>see Gazette</i>1989, No. S262) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Banking Legislation Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>129, 1989</div>
+    </td>
+    <td>
+      <div>7 Nov 1989</div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1, 2), ss. 3, 26, 29–33, 35, 38 and 40: Royal Assent 
 S. 23(1): 4 May 1989 
 S. 39: 23 Jan 1988 
-Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>122, 1991</div>
-  </td>
-  <td>
-    <div>27 June 1991</div>
-  </td>
-  <td>
-    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
+Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383) 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>122, 1991</div>
+    </td>
+    <td>
+      <div>27 June 1991</div>
+    </td>
+    <td>
+      <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
 Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 31(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Export Finance and Insurance Corporation (Transitional Provisions and Consequential Amendments) Act 1991</div>
-  </td>
-  <td>
-    <div>149, 1991</div>
-  </td>
-  <td>
-    <div>21 Oct 1991</div>
-  </td>
-  <td>
-    <div>1 Nov 1991</div>
-  </td>
-  <td>
-    <div>Ss. 48 and 49</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>199, 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Trade Commission Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>127, 1994</div>
-  </td>
-  <td>
-    <div>18 Oct 1994</div>
-  </td>
-  <td>
-    <div>18 Oct 1994</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Export Market Development Grants (Repeal and Consequential Provisions) Act 1997</div>
-  </td>
-  <td>
-    <div>44, 1997</div>
-  </td>
-  <td>
-    <div>22 Apr 1997</div>
-  </td>
-  <td>
-    <div>1 July 1997</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Law Improvement Act 1997</div>
-  </td>
-  <td>
-    <div>121, 1997</div>
-  </td>
-  <td>
-    <div>8 July 1997</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 65): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 533–541): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Export Market Development Grants Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>100, 1999</div>
-  </td>
-  <td>
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 270–272): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 61): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>35, 2001</div>
-  </td>
-  <td>
-    <div>28 Apr 2001</div>
-  </td>
-  <td>
-    <div>26 May 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+Remainder: Royal Assent 
+
+</div>
     </td>
     <td>
-      <div>159, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>29 Oct 2001</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+      <div>S. 31(2)</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Financial Framework Legislation Amendment Act 2005</div>
+      <div>Export Finance and Insurance Corporation (Transitional Provisions and Consequential Amendments) Act 1991</div>
     </td>
     <td>
-      <div>8, 2005</div>
+      <div>149, 1991</div>
     </td>
     <td>
-      <div>22 Feb 2005</div>
+      <div>21 Oct 1991</div>
     </td>
     <td>
-      <div>Schedule 2 (items 70, 71, 174): Royal Assent</div>
+      <div>1 Nov 1991</div>
     </td>
     <td>
-      <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Australian Trade Commission Legislation Amendment Act 2006</div>
-    </td>
-    <td>
-      <div>56, 2006</div>
-    </td>
-    <td>
-      <div>21 June 2006</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 1–41) and Schedule 4: 1 July 2006 ( <i>see</i>F2006L01897)</div>
-    </td>
-    <td>
-      <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+      <div>Ss. 48 and 49</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Export Market Development Grants Legislation Amendment Act 2006</div>
+      <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
     </td>
     <td>
-      <div>57, 2006</div>
+      <div>199, 1991</div>
     </td>
     <td>
-      <div>21 June 2006</div>
+      <div>18 Dec 1991</div>
     </td>
     <td>
-      <div>Schedule 2 (items 2–4): Royal Assent</div>
+      <div>18 Dec 1991</div>
     </td>
     <td>
       <div>—</div>
@@ -947,24 +730,233 @@ Remainder: 24 May 2001</div>
   </tr>
   <tr>
     <td>
-      <div>Export Market Development Grants Amendment Act 2008</div>
+      <div>Australian Trade Commission Amendment Act 1994</div>
     </td>
     <td>
-      <div>33, 2008</div>
+      <div>127, 1994</div>
     </td>
     <td>
-      <div>23 June 2008</div>
+      <div>18 Oct 1994</div>
     </td>
     <td>
-      <div>Schedule 1 (items 1, 2): Royal Assent</div>
+      <div>18 Oct 1994</div>
     </td>
     <td>
       <div>—</div>
     </td>
   </tr>
-</thead></table>
+  <tr>
+    <td>
+      <div>Export Market Development Grants (Repeal and Consequential Provisions) Act 1997</div>
+    </td>
+    <td>
+      <div>44, 1997</div>
+    </td>
+    <td>
+      <div>22 Apr 1997</div>
+    </td>
+    <td>
+      <div>1 July 1997</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Tax Law Improvement Act 1997</div>
+    </td>
+    <td>
+      <div>121, 1997</div>
+    </td>
+    <td>
+      <div>8 July 1997</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 65): <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 533–541): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Export Market Development Grants Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>100, 1999</div>
+    </td>
+    <td>
+      <div>16 July 1999</div>
+    </td>
+    <td>
+      <div>16 July 1999</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 270–272): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td>
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (item 61): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td>
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>35, 2001</div>
+    </td>
+    <td>
+      <div>28 Apr 2001</div>
+    </td>
+    <td>
+      <div>26 May 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <thead>
+    <tr>
+      <td>
+        <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+      </td>
+      <td>
+        <div>159, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td>
+        <div>29 Oct 2001</div>
+      </td>
+      <td>
+        <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Financial Framework Legislation Amendment Act 2005</div>
+      </td>
+      <td>
+        <div>8, 2005</div>
+      </td>
+      <td>
+        <div>22 Feb 2005</div>
+      </td>
+      <td>
+        <div>Schedule 2 (items 70, 71, 174): Royal Assent</div>
+      </td>
+      <td>
+        <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Australian Trade Commission Legislation Amendment Act 2006</div>
+      </td>
+      <td>
+        <div>56, 2006</div>
+      </td>
+      <td>
+        <div>21 June 2006</div>
+      </td>
+      <td>
+        <div>Schedule 1 (items 1–41) and Schedule 4: 1 July 2006 ( <i>see</i>F2006L01897)</div>
+      </td>
+      <td>
+        <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Export Market Development Grants Legislation Amendment Act 2006</div>
+      </td>
+      <td>
+        <div>57, 2006</div>
+      </td>
+      <td>
+        <div>21 June 2006</div>
+      </td>
+      <td>
+        <div>Schedule 2 (items 2–4): Royal Assent</div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+  </thead>
+</tbody></table>
 
  
+
 
 _(a)_     The _Australian Trade Commission Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
@@ -996,6 +988,7 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
 
                               (c)   the items in Schedules 10, 11 and 12.
 
+
 ## Table of Amendments
 
 <table>
@@ -1019,976 +1012,979 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part I</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 1</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 129, 1989; No. 149, 1991; Nos. 44 and 152; 1997; No. 146, 1999; No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 44 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7A, 7B</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991; No. 44, 1997; No. 56, 2006; No. 33, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9A, 9B</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1997; No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1987; No. 91, 1989; No. 149, 1991; No. 127, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15–17</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18, 19</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991; No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 21, 1989; No. 44, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24–29</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 31, 32</div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V</div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34–45</div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47–50</div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>rs. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>rs. No. 149, 1991; No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>rs. No. 122, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 199, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61, 62</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>rep. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VII</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 7</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part VII</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 64</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991; Nos. 56 and 57, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 65, 66</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part VII</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 67–69</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIII</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991; No. 44, 1997; No. 57, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1986; No. 149, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 74, 75</div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 76, 77</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 81, 82</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 121, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 84–87</div>
-  </td>
-  <td>
-    <div>rep. No. 149, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IX</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 9</div>
-  </td>
-  <td>
-    <div>ad. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991; No. 44, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. Nos. 44 and 152, 1997; No. 57, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991; No. 44, 1997; No. 100, 1999; No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 96</div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>am. No. 149, 1991</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part I</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 1</div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 129, 1989; No. 149, 1991; Nos. 44 and 152; 1997; No. 146, 1999; No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 6</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 44 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 35, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 2</div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 7(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 3</div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 7A, 7B</div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 8</div>
+    </td>
+    <td>
+      <div>am. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991; No. 44, 1997; No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 9A, 9B</div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1997; No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 10(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part III</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 141, 1987; No. 91, 1989; No. 149, 1991; No. 127, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15–17</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 18, 19</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991; No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IV</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 21, 1989; No. 44, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 24–29</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 31, 32</div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part V</div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 34–45</div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 47–50</div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VI</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 6</div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>rs. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 159, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>rs. No. 149, 1991; No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 55</div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 57</div>
+    </td>
+    <td>
+      <div>rs. No. 122, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 59</div>
+    </td>
+    <td>
+      <div>am. No. 122, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 60</div>
+    </td>
+    <td>
+      <div>am. No. 199, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 61, 62</div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 63</div>
+    </td>
+    <td>
+      <div>rep. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VII</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 7</div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part VII</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 64</div>
+    </td>
+    <td>
+      <div>am. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991; Nos. 56 and 57, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 65, 66</div>
+    </td>
+    <td>
+      <div>am. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2 of Part VII</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 67–69</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VIII</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70</div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991; No. 44, 1997; No. 57, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1986; No. 149, 1991; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73</div>
+    </td>
+    <td>
+      <div>am. No. 168, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 74, 75</div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 76, 77</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 78</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 79</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 80</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 81, 82</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 83</div>
+    </td>
+    <td>
+      <div>am. No. 121, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 84–87</div>
+    </td>
+    <td>
+      <div>rep. No. 149, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 89</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IX</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 9</div>
+    </td>
+    <td>
+      <div>ad. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 90</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991; No. 44, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 92</div>
+    </td>
+    <td>
+      <div>am. Nos. 44 and 152, 1997; No. 57, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 93</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 94</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991; No. 44, 1997; No. 100, 1999; No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 95</div>
+    </td>
+    <td>
+      <div>am. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 96</div>
+    </td>
+    <td>
+      <div>rep. No. 56, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 97</div>
+    </td>
+    <td>
+      <div>am. No. 149, 1991</div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 ## Table A
 
@@ -2024,7 +2020,9 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001 (No. 35, 2001)_
 
@@ -2034,7 +2032,9 @@ _Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) 
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
 
@@ -2044,7 +2044,9 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -2067,6 +2069,7 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
 
  
 
