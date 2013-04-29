@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00016/Html/TherapeuticGoodsCharges1989_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00553/Html/TherapeuticGoodsCharges1989_image001.gif)
 
 # Therapeutic Goods (Charges) Act 1989
 
 **Act No. 22 of 1990 as amended**
 
-This compilation was prepared on 1 January 2009
+This compilation was prepared on 17 October 2008
  taking into account amendments up to Act No. 96 of 2008
 
 The text of any of those amendments not in force
@@ -55,29 +55,39 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  An annual charge of such amount as is prescribed is payable in respect of a licence that is in force at any time during a financial year.
 
-Corresponding State laws
+             (3)  If:
 
-             (3)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as registered goods, this section has effect as if the goods had been registered under Part 3-2 of that Act.
+                     (a)  goods are included in the Register under subsection 6A(3) of the Therapeutic Goods Act; and
 
-             (4)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as listed goods, this section has effect as if the goods had been listed under Part 3-2 of that Act.
+                     (b)  the goods are so included for the purposes of a provision of a corresponding State law that provides for registration of therapeutic goods by the inclusion of the goods in the Register;
 
-             (5)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for medical devices included under Chapter 4, this section has effect as if the goods had been included in the Register under Chapter 4 of that Act.
+this section has effect as if the goods had been registered under Part 3-2 of the Therapeutic Goods Act.
 
-             (6)  If:
+             (4)  If:
 
-                     (a)  because of the operation of section 6AAA, 6AAB or 6AAC of the Therapeutic Goods Act, the Secretary issues a licence; and
+                     (a)  goods are included in the Register under subsection 6A(3) of the Therapeutic Goods Act; and
+
+                     (b)  the goods are so included for the purposes of a provision of a corresponding State law that provides for listing of therapeutic goods by the inclusion of the goods in the Register;
+
+this section has effect as if the goods had been listed under Part 3-2 of the Therapeutic Goods Act.
+
+          (4A)  If:
+
+                     (a)  medical devices are included in the Register under subsection 6A(3) of the Therapeutic Goods Act; and
+
+                     (b)  the devices are so included for the purposes of a provision of a corresponding State law that provides for the inclusion of devices in the Register;
+
+this section has effect as if the devices had been included in the Register under Chapter 4 of the Therapeutic Goods Act.
+
+             (5)  If:
+
+                     (a)  a licence is issued by the Secretary by virtue of subsection 6A(1) of the Therapeutic Goods Act; and
 
                      (b)  the licence is issued for the purposes of provisions of a corresponding State law that correspond to Part 3-3 of the Therapeutic Goods Act;
 
-this section has effect as if the licence had been issued under Part 3-3 of that Act.
+this section has effect as if the licence had been issued under Part 3-3 of the Therapeutic Goods Act.
 
-Definitions
-
-             (7)  In this section:
-
-                    <a name="amount"></a>**_amount_** includes a nil amount.
-
-                    <a name="therapeut-good-act"></a>**_Therapeutic Goods Act_** means the _Therapeutic Goods Act 1989_.
+             (6)  In this section, **_Therapeutic Goods Act_** means the _Therapeutic Goods Act 1989_.
 
 ##### <a id="5"></a>5  Regulations
 
@@ -88,6 +98,8 @@ Definitions
                      (a)  different classes of goods (including medical devices); or
 
                      (b)  in the case of annual licensing charges—different steps in the manufacture of goods.
+
+             (3)  The regulations shall provide that annual charges in respect of the registration or listing of therapeutic goods, or the inclusion of kinds of medical devices in the Register under Chapter 4 of the _Therapeutic Goods Act 1989_, are not payable by persons whose turnover of those goods or devices is of low volume and low value. 
 
 # Notes to the _Therapeutic Goods (Charges) Act 1989_
 
@@ -210,7 +222,7 @@ Remainder: Royal Assent</div>
     <div>3 Oct 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 4–6): 1 Jan 2009 ( <i>see</i>F2008L04263)</div>
+    <div>Schedule 1 (items 4–6): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 6) \[ <i>see</i>Table A]</div>
@@ -261,7 +273,7 @@ Remainder: Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 85, 1991; No. 62, 1993; No. 25, 2002; No. 96, 2008</div>
+    <div>am. No. 85, 1991; No. 62, 1993; No. 25, 2002</div>
   </td>
 </tr>
 <tr>
@@ -269,15 +281,59 @@ Remainder: Royal Assent</div>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 25, 2002; No. 96, 2008</div>
+    <div>am. No. 25, 2002</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Therapeutic Goods Legislation Amendment (Annual Charges) Act 2008 (No. 96, 2008)_
+
+The following amendments commence on 3 April 2009 unless proclaimed earlier:
+
+## Schedule 1
+
+## 4  Subsections 4(3) to (6)
+
+Repeal the subsections, substitute:
+
+Corresponding State laws
+
+             (3)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as registered goods, this section has effect as if the goods had been registered under Part 3-2 of that Act.
+
+             (4)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as listed goods, this section has effect as if the goods had been listed under Part 3-2 of that Act.
+
+             (5)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for medical devices included under Chapter 4, this section has effect as if the goods had been included in the Register under Chapter 4 of that Act.
+
+             (6)  If:
+
+                     (a)  because of the operation of section 6AAA, 6AAB or 6AAC of the Therapeutic Goods Act, the Secretary issues a licence; and
+
+                     (b)  the licence is issued for the purposes of provisions of a corresponding State law that correspond to Part 3-3 of the Therapeutic Goods Act;
+
+this section has effect as if the licence had been issued under Part 3-3 of that Act.
+
+Definitions
+
+             (7)  In this section:
+
+                    <a name="amount"></a>**_amount_** includes a nil amount.
+
+                    <a name="therapeut-good-act"></a>**_Therapeutic Goods Act_** means the _Therapeutic Goods Act 1989_.
+
+## 5  Subsection 5(3)
+
+Repeal the subsection.
+
+As at 17 October 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Therapeutic Goods Legislation Amendment (Annual Charges) Act 2008 (No. 96, 2008)_
+
+The following provision commences on 3 April 2009 unless proclaimed earlier:
 
 ## Schedule 1
 
