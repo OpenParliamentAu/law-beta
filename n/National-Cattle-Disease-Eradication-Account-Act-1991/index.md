@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2006C00684/Html/NatCatDisEraAcc91WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00134/Html/7407EF430C9F62D8CA25714E001B4555/$FILE/image001.gif)
 
 # National Cattle Disease Eradication Account Act 1991
 
 **Act No. 23 of 1991 as amended**
 
-This compilation was prepared on 5 December 2006
- taking into account amendments up to Act No. 139 of 2006
+This compilation was prepared on 31 March 2006
+taking into account amendments up to Act No. 9 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -28,13 +30,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4A](#4A).         Account’s component of charge                                                          1
 
-[4B](#4B).         Account’s component of levy                                                             2
+[4B](#4B).         Account’s component of levy                                                             1
 
-[5](#5).            Credit of amounts to Account                                                             2
+[5](#5).            Credit of amounts to Account                                                             1
 
-[6](#6).            Application of National Cattle Disease Eradication Account             4
+[6](#6).            Application of National Cattle Disease Eradication Account             1
 
 **Notes** 
+
 
 ## An Act to establish the National Cattle Disease Eradication Account, and for related purposes
 
@@ -126,15 +129,10 @@ Note:          An Appropriation Act provides for amounts to be
 
                      (a)  making payments to the States, and in meeting costs incurred by the Commonwealth, for the purpose of the eradication of any disease of cattle that is endemic in Australia;
 
-                     (b)  making payments in respect of any expenses connected with the eradication of any disease of cattle that is endemic in Australia that have been paid by the Commonwealth and have not been debited from the Account;
-
-                     (c)  making payments to the trustee of the Cattle Disease Contingency Fund Trust for the purposes of the Trust.
+                     (b)  making payments in respect of any expenses connected with the eradication of any disease of cattle that is endemic in Australia that have been paid by the Commonwealth and have not been debited from the Account.
 
              (2)  An amount that has been credited to the Account under an Appropriation Act, may be debited from the Account.
 
-             (3)  In this section:
-
-                    <a name="cattl-diseas-conting-fund-trust"></a>**_Cattle Disease Contingency Fund Trust_** means the trust established by deed made on 13 February 2002 between the Australian Animal Health Council Limited and the Cattle Disease Contingency Fund Pty Ltd.
 
 # Notes to the _National Cattle Disease Eradication Account Act 1991_
 
@@ -164,11 +162,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td colspan="2">
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -178,175 +178,159 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>National Cattle Disease Eradication Trust Account Act 1991</div>
-  </td>
-  <td>
-    <div>23, 1991</div>
-  </td>
-  <td colspan="2">
-    <div>22 Feb 1991</div>
-  </td>
-  <td>
-    <div>1 July 1991 ( <i>see</i>s. 2)</div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Cattle Disease Eradication Trust Account Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>78, 1995</div>
-  </td>
-  <td colspan="2">
-    <div>30 June 1995</div>
-  </td>
-  <td>
-    <div>Schedule (item 1): 1 July 1991 
-Remainder: 1 July 1995</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td colspan="2">
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 939–948): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997</div>
-  </td>
-  <td>
-    <div>207, 1997</div>
-  </td>
-  <td colspan="2">
-    <div>17 Dec 1997</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 2–6): 1 July 1998 ( <i>see Gazette</i>1997, No. GN22) <i>(b)</i></div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (item 21)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2006</div>
-  </td>
-  <td>
-    <div>9, 2006</div>
-  </td>
-  <td colspan="2">
-    <div>23 Mar 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 7): <i>(c)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries Levies and Charges (Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>32, 1999</div>
-  </td>
-  <td colspan="2">
-    <div>14 May 1999</div>
-  </td>
-  <td>
-    <div>Schedule 8: 1 July 1999 <i>(d)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Schedule 1 (items 174–190, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Cattle Disease Eradication Account Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>139, 2006</div>
-  </td>
-  <td>
-    <div>30 Nov 2006</div>
-  </td>
-  <td colspan="2">
-    <div>30 Nov 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>National Cattle Disease Eradication Trust Account Act 1991</div>
+    </td>
+    <td>
+      <div>23, 1991</div>
+    </td>
+    <td colspan="2">
+      <div>22 Feb 1991</div>
+    </td>
+    <td>
+      <div>1 July 1991 ( <i>see</i>s. 2)</div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Cattle Disease Eradication Trust Account Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>78, 1995</div>
+    </td>
+    <td colspan="2">
+      <div>30 June 1995</div>
+    </td>
+    <td>
+      <div>Schedule (item 1): 1 July 1991 
+Remainder: 1 July 1995 
+</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td colspan="2">
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 939–948): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997</div>
+    </td>
+    <td>
+      <div>207, 1997</div>
+    </td>
+    <td colspan="2">
+      <div>17 Dec 1997</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 2–6): 1 July 1998 ( <i>see Gazette</i>1997, No. GN22) <i>(b)</i></div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 5 (item 21)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2006</div>
+    </td>
+    <td>
+      <div>9, 2006</div>
+    </td>
+    <td colspan="2">
+      <div>23 Mar 2006</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 7): <i>(c)</i></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries Levies and Charges (Consequential Amendments) Act 1999</div>
+    </td>
+    <td>
+      <div>32, 1999</div>
+    </td>
+    <td colspan="2">
+      <div>14 May 1999</div>
+    </td>
+    <td>
+      <div>Schedule 8: 1 July 1999 <i>(d)</i></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 and Schedule 1 (items 174–190, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _National Cattle Disease Eradication Account Act 1991_ was amended by Schedule 2 (items 939–948) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
@@ -424,31 +408,34 @@ _(c)_     Subsection 2(1) (item 24) of the _Statute Law Revision Act 2
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      24\. Schedule 2, item 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Australian Meat and Live-stock Industry (Repeals and Consequential Provisions)
-          Act 1997</i>for the commencement of item 6 of Schedule 3 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 1998
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        24\. Schedule 2, item 7
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the time specified in the
+          <i>Australian Meat and Live-stock Industry (Repeals and Consequential Provisions)
+            Act 1997</i>for the commencement of item 6 of Schedule 3 to that Act.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 1998
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(d)_     The _National Cattle Disease Eradication Account Act 1991_ was amended by Schedule 8 only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
 
  
+
 
 ## Table of Amendments
 
@@ -473,150 +460,145 @@ _(d)_     The _National Cattle Disease Eradication Account Act 1991_ was
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 32, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 4A</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 4B</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 5</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1995; Nos. 152 and 207, 1997; No. 32, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 32, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 4A</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 32, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 4B</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4B</div>
+    </td>
+    <td>
+      <div>ad. No. 32, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 5</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1995; Nos. 152 and 207, 1997; No. 32, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 5(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 6</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -690,7 +672,9 @@ an amount equal to the amount that would have been payable to the corporation, o
 
                      (b)  the Rural Industries Research and Development Corporation.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -715,6 +699,7 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
  
+
 
  
 
