@@ -1,44 +1,48 @@
-![](http://www.comlaw.gov.au/Details/C2010C00456/Html/GenInsurSuperLevyImpos98WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00263/Html/9AD4BC907C80EDE3CA257179000342C3/$FILE/image001.gif)
 
 # General Insurance Supervisory Levy Imposition Act 1998
 
 **Act No. 56 of 1998 as amended**
 
-This compilation was prepared on 6 July 2010
- taking into account amendments up to Act No. 82 of 2010
+This compilation was prepared on 24 May 2006
+taking into account amendments up to Act No. 42 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Act binds the Crown
+[3](#3).            Act binds the Crown                                                                           1
 
-[4](#4).            External Territories
+[4](#4).            External Territories                                                                              1
 
-[5](#5).            Application of Act to Lloyd’s
+[5](#5).            Application of Act to Lloyd’s                                                            1
 
-[6](#6).            Definitions
+[6](#6).            Definitions                                                                                           2
 
-[7](#7).            Imposition of general insurance supervisory levy
+[7](#7).            Imposition of general insurance supervisory levy                               3
 
-[8](#8).            Amount of levy
+[8](#8).            Amount of levy                                                                                   3
 
-[9](#9).            Calculation of indexation factor
+[9](#9).            Calculation of indexation factor                                                           6
 
-[10](#10).          Regulations
+[10](#10).          Regulations                                                                                          6
 
 **Notes** 
+
+ 
+
 
 ## An Act to impose a levy on bodies to which the _Insurance Act 1973_ applies
 
@@ -56,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act binds the Crown in each of its capacities.
 
-##### <a id="4"></a>4  External  Territories
+##### <a id="4"></a>4  External Territories
 
                    This Act extends to each external Territory.
 
@@ -112,21 +116,21 @@ Note:          For **_restricted levy component_**, see subsec
 
           (1A)  The **_restricted levy_** **_component_** for the financial year is:
 
-                     (a)  unless paragraph (b) or (c) applies—the amount that, for the financial year, is the restricted levy percentage of the general insurance company’s levy base; or
+                     (a)  unless paragraph (b) or (c) applies—the amount that, for the financial year, is the restricted levy percentage of the general insurance company’s asset value; or
 
                      (b)  if the amount worked out under paragraph (a) exceeds the maximum restricted levy amount for the financial year—the maximum restricted levy amount; or
 
                      (c)  if the amount worked out under paragraph (a) is less than the minimum restricted levy amount for the financial year—the minimum restricted levy amount.
 
-Note:          The restricted levy percentage, maximum restricted levy amount, minimum restricted levy amount and the method of working out the general insurance company’s levy base are as determined under subsection (3).
+Note:          The restricted levy percentage, maximum restricted levy amount, minimum restricted levy amount and the method of working out the general insurance company’s asset value are as determined under subsection (3).
 
-          (1B)  The **_unrestricted levy_** **_component_** for the financial year is the amount that, for the financial year, is the unrestricted levy percentage of the general insurance company’s levy base.
+          (1B)  The **_unrestricted levy_** **_component_** for the financial year is the amount that, for the financial year, is the unrestricted levy percentage of the general insurance company’s asset value.
 
 Note:          The unrestricted levy percentage is as determined under subsection (3).
 
              (2)  If the levy imposition day for the general insurance company for the financial year is later than 1 July in the financial year, the general component for the general insurance company for the financial year is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00456/Html/GenInsurSuperLevyImpos98WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00263/Html/9AD4BC907C80EDE3CA257179000342C3/$FILE/image002.gif)
 
           (2A)  The **_special component_** for a general insurance company for a financial year is:
 
@@ -152,7 +156,7 @@ Note:          The special levy percentage, the special maximu
 
                     (ca)  the **_unrestricted levy percentage_** for each financial year; and
 
-                     (d)  how a **_general insurance company’s levy base_** is to be worked out; and
+                     (d)  how a **_general insurance company’s asset value_** is to be worked out; and
 
                      (e)  the **_special maximum levy amount_** for each financial year; and
 
@@ -166,7 +170,7 @@ Note:          The special levy percentage, the special maximu
 
           (4A)  An amount determined under subsection (3) as the special maximum levy amount must not exceed the special statutory upper limit as at the time when the determination is made.
 
-             (5)  The Treasurer’s determination under paragraph (3)(d) of how a general insurance company’s levy base is to be worked out is to include, but is not limited to, a determination of the day as at which the general insurance company’s levy base is to be worked out. That day must be:
+             (5)  The Treasurer’s determination under paragraph (3)(d) of how a general insurance company’s asset value is to be worked out is to include, but is not limited to, a determination of the day as at which the general insurance company’s asset value is to be worked out. That day must be:
 
                      (a)  if the general insurance company was a general insurance company at all times from and including 17 March of the previous financial year to and including the following 30 June—a day in the period from and including that 17 March to and including the following 14 April; or
 
@@ -200,6 +204,7 @@ Note:          The special levy percentage, the special maximu
 
                    The Governor-General may make regulations for the purposes of subsection 2(2).
 
+
 # Notes to the _General Insurance Supervisory Levy Imposition Act 1998_
 
 ### Note 1
@@ -226,11 +231,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -240,97 +247,84 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>General Insurance Supervisory Levy Imposition Act 1998</div>
-  </td>
-  <td>
-    <div>56, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>1 July 1998 <i>(a)</i></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>44, 1999</div>
-  </td>
-  <td>
-    <div>17 June 1999</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 20) and Schedule 8: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 8 (items 22, 23)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>General Insurance Supervisory Levy Imposition Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>15, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 7)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>General Insurance Supervisory Levy Imposition Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>42, 2006</div>
-  </td>
-  <td>
-    <div>22 May 2006</div>
-  </td>
-  <td>
-    <div>23 May 2006</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 10)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>82, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 13–17): 1 July 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>General Insurance Supervisory Levy Imposition Act 1998</div>
+    </td>
+    <td>
+      <div>56, 1998</div>
+    </td>
+    <td>
+      <div>29 June 1998</div>
+    </td>
+    <td>
+      <div>1 July 1998 <i>(a)</i></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>44, 1999</div>
+    </td>
+    <td>
+      <div>17 June 1999</div>
+    </td>
+    <td>
+      <div>Schedule 6 (item 20) and Schedule 8: Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 8 (items 22, 23)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>General Insurance Supervisory Levy Imposition Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>15, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 7)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>General Insurance Supervisory Levy Imposition Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>42, 2006</div>
+    </td>
+    <td>
+      <div>22 May 2006</div>
+    </td>
+    <td>
+      <div>23 May 2006</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 10)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     Section 2 of the _General Insurance Supervisory Levy Imposition Act 1998_ provides as follows:
 
                  (1)   This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
                  (2)   If this Act commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year subject to the modifications specified in the regulations.
+
 
 ## Table of Amendments
 
@@ -355,40 +349,35 @@ _(a)_     Section 2 of the _General Insurance Supervisory Levy Imposit
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 15, 2005; No. 42, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 15, 2005; No. 42, 2006; No. 82, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 8(1A)</div>
-  </td>
-  <td>
-    <div>am. No. 82, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1999; No. 15, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 15, 2005; No. 42, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 15, 2005; No. 42, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1999; No. 15, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
 
-## Table A
+
+Table A
 
 ### Application, saving or transitional provisions
 
@@ -454,7 +443,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                       (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-                     (g)  the _Friendly Societies (__Western   Australia__) Act 1999_; and
+                     (g)  the _Friendly Societies (__Western Australia__) Act 1999_; and
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
@@ -462,10 +451,13 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
 The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _General Insurance Supervisory Levy Imposition Amendment Act 2005 
- (No. 15, 2005)_
+(No. 15, 2005)
+_
 
 ## Schedule 1
 
@@ -477,15 +469,21 @@ The amendments made by this Schedule apply in relation to levy payable for:
 
                      (b)  each succeeding financial year.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _General Insurance Supervisory Levy Imposition Amendment Act 2006 
- (No. 42, 2006)_
+(No. 42, 2006)
+_
 
 ## Schedule 1
 
 ## 10  Application of amendments
 
 The amendments made by this Schedule apply in relation to levy payable for the financial year commencing on 1 July 2006 and later financial years.
+
+
+ 
 
  
