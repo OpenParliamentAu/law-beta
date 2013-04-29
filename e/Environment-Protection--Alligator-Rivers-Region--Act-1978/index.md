@@ -1,7 +1,7 @@
 
 Environment Protection (Alligator Rivers Region) Act 1978
 Act No. 28 of 1978 as amended
-This compilation was prepared on 18 December 2000 taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 17 July 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -57,6 +57,7 @@ Part V—Miscellaneous	22
 37	Regulations	28
 Schedule	29
 Notes		31
+
 An Act to provide for the appointment of a Supervising Scientist for the purpose of protecting the environment in the Alligator Rivers Region of the Northern Territory from the effects of mining operations, and for other purposes
 Part I—Preliminary
   
@@ -379,7 +380,6 @@ For access to the map which the Schedule contains, click here [Environment Prote
 Notes to the Environment Protection (Alligator Rivers Region) Act 1978
 Note 1
 The Environment Protection (Alligator Rivers Region) Act 1978 as shown in this compilation comprises Act No. 28, 1978 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -414,7 +414,8 @@ S. 3: 3 July 1985 (d)
 Public Service and Statutory Authorities Amendment Act 1985
 166, 1985
 11 Dec 1985
-Ss. 1‑3, 5, 30(8), 31, 35, 40 and 43: Royal Assent Ss. 12 and 15: 22 Dec 1984 Ss. 14, 18, 21, 22, 30 (1)‑(7) and 32: 1 July 1986 (see Gazette 1986, No. S310)  S. 24: 15 Mar 1981 Ss. 27‑29: 1 Jan 1986 (see s. 2(5) and Gazette 1985, No. S563) Ss. 33, 34, 36‑39: 1 Apr 1986 (see Gazette 1986, No. S134) S. 44: 21 July 1985 Remainder: 8 Jan 1986
+Ss. 1‑3, 5, 30(8), 31, 35, 40 and 43: Royal Assent Ss. 12 and 15: 22 Dec 1984 Ss. 14, 18, 21, 22, 30 (1)‑(7) and 32: 1 July 1986 (see Gazette 1986, No. S310) 
+S. 24: 15 Mar 1981 Ss. 27‑29: 1 Jan 1986 (see s. 2(5) and Gazette 1985, No. S563) Ss. 33, 34, 36‑39: 1 Apr 1986 (see Gazette 1986, No. S134) S. 44: 21 July 1985 Remainder: 8 Jan 1986
 S. 45(2) 
 Environment Protection (Alligator Rivers Region) Amendment Act 1987
 17, 1987
@@ -441,11 +442,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 418‑421): 5 Dec 1999 (see Gazette 1999, No. S584) (f)
 —
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Schedule 2 (items 179, 180, 418, 419): [see (g), Note 2 and Table A]
-Sch. 2 (items 418, 419) [see Table A]
 (a)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1983, subsection 2(9) of which provides as follows:
 	(9)	The amendment of the Environment Protection (Alligator Rivers Region) Act 1978 made by this Act shall come into operation on such date as is fixed by Proclamation.
 (b)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by subsection 151(1) only of the Public Service Reform Act 1984, subsection 2(4) of which provides as follows:
@@ -459,9 +455,6 @@ Sch. 2 (items 418, 419) [see Table A]
 (f)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by Schedule 1 (items 418‑421) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(g)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by Schedule 2 (items 179 and 180) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
-	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
-	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -519,7 +512,6 @@ Ss. 22A, 22B
 ad. No. 17, 1994
 S. 22C	
 ad. No. 17, 1994
-
 am. No. 92, 1999
 Ss. 22D-22F	
 ad. No. 17, 1994
@@ -527,7 +519,6 @@ S. 24
 am. No. 17, 1987
 S. 24A	
 ad. No. 17, 1987
-
 am. No. 92, 1999
 S. 24B	
 ad. No. 17, 1994
@@ -547,38 +538,11 @@ S. 33
 am. No. 72, 1984; No. 17, 1994; No. 92, 1999
 S. 34	
 am. No. 17, 1994
-
 rs. No. 92, 1999
 S. 35	
 am. No. 17, 1994
 S. 36	
 am. No. 17, 1987; No. 17, 1994 
 
-Note 2
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following amendments commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-179  Subsection 27(2)
-Repeal the subsection.
-180  Section 32
-Repeal the section.
-As at 18 December 2000 the amendments are not incorporated in this compilation.
-Table A
-Application, saving or transitional provisions
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following provisions commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+
 
