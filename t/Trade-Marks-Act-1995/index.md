@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00067/Html/f09cc3e3-53a3-456b-9be0-3c6ba0afffcb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00058/Html/6336712a-a582-47e8-b4a6-6be3aaf235c9_files/image001.gif)
 
 # Trade Marks Act 1995
 
 **Act No. 119 of 1995 as amended**
 
-This compilation was prepared on 5 January 2012
- taking into account amendments up to Act No. 174 of 2011
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 149 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -92,7 +92,7 @@ That Act is repealed by this Act. It contained the legislation that previously a
 
 The list of Acts cited above is not exhaustive. Other Acts may also affect the operation or interpretation of this Act. 
 
-![](http://www.comlaw.gov.au/Details/C2012C00067/Html/f09cc3e3-53a3-456b-9be0-3c6ba0afffcb_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00058/Html/6336712a-a582-47e8-b4a6-6be3aaf235c9_files/image002.gif)
 
 # Contents
 
@@ -3067,7 +3067,7 @@ Note:          For **_limitations_** see section 6.
 
 ##### <a id="104"></a>104  Appeal
 
-                   An appeal lies to the Federal Court from a decision of the Registrar under section 101 or 102.
+                   An appeal lies to the Federal Court from a decision of the Registrar under section 101 or 102.
 
 ##### <a id="105"></a>105  Certificate—use of trade mark
 
@@ -4013,7 +4013,7 @@ Note:          For **_use of a trade mark in relation to goods
 
 ##### <a id="152"></a>152  False entries in Register etc.
 
-                   A person must not intentionally:
+                   A person must not intentionally:
 
                      (a)  make a false entry in the Register; or
 
@@ -4151,11 +4151,15 @@ Note 2:       For **_strict liability_**, see section 6.1 of the _Cr
 
 ##### <a id="159"></a>159  Forfeiture orders under the proceeds of crime legislation
 
-             (1)  If a person other than the Director of Public Prosecutions has instituted proceedings for the prosecution of another person in respect of an indictable offence against this Part, the forfeiture order provisions apply as if a reference in those provisions to a proceeds of crime authority (or a responsible authority) includes a reference to the person who has instituted the proceedings.
+             (1)  If a person other than the Director of Public Prosecutions has instituted proceedings for the prosecution of another person in respect of an indictable offence against this Part, the forfeiture order provisions apply as if a reference in those provisions to the Director of Public Prosecutions includes a reference to the person who has instituted the proceedings.
 
              (2)  In this section:
 
                     <a name="forfeitur-order-provision"></a>**_forfeiture order provisions_** means:
+
+                     (a)  Division 1 of Part II of the _Proceeds of Crime Act 1987_, to the extent to which that Division relates to forfeiture orders; and
+
+                     (b)  Division 2 of Part II of the _Proceeds of Crime Act 1987_; and 
 
                      (c)  Part 2‑2 of the _Proceeds of Crime Act 2002_; and
 
@@ -5563,7 +5567,7 @@ Note:          For **_pending_** see subsection 11(1).
 
 the applications are called linked applications in this section.
 
-             (2)  This section applies if, immediately before 1 January 1996, a number of linked applications for the registration of a trade mark were pending and had not been accepted.
+             (2)  This section applies if, immediately before  1 January 1996, a number of linked applications for the registration of a trade mark were pending and had not been accepted.
 
 Note:          For **_pending_** see subsection 11(2).
 
@@ -6254,23 +6258,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>174, 2011</div>
-  </td>
-  <td>
-    <div>5 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 240–242): 1 Jan 2012</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 242)</div>
   </td>
 </tr></table>
 
@@ -7747,7 +7734,7 @@ Relocated from s. 155(2)</div>
     <div>S. 159</div>
   </td>
   <td>
-    <div>am. No. 99, 2001; No. 86, 2002; No. 174, 2011</div>
+    <div>am. No. 99, 2001; No. 86, 2002</div>
   </td>
 </tr>
 <tr>
@@ -8244,7 +8231,7 @@ Relocated from s. 155(2)</div>
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
 
 ## Schedule 2
 
@@ -8348,7 +8335,7 @@ Note 1:       For **_PPSA security interest_** see section 6.
 
 Note 2:       Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
-As at 5 January 2012 the amendments are not incorporated in this compilation.
+As at 27 December 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -8376,7 +8363,7 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 18 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 5 January 2012 the amendment is not incorporated in this compilation.
+As at 27 December 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8674,7 +8661,7 @@ The amendment made by item 84 applies to trade marks whose registration expire
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
 
 ## Schedule 2
 
@@ -8724,23 +8711,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)_
-
-## Schedule 2
-
-## 242  Application of amendments—the _Trade Marks Act 1995_
-
-(1)       The amendments of the _Trade Marks Act 1995_ made by items 240 and 241 of this Schedule apply as set out in this item.
-
-(2)       Subject to subitem (3) of this item, the amendment made by item 240 applies in relation to proceedings for the prosecution of a person in respect of an indictable offence against Part 14 of that Act instituted before, at or after the commencement of that item.
-
-(3)       However, if Divisions 1 and 2 of Part II of the _Proceeds of Crime Act 1987_ apply immediately before the commencement of items 240 and 241 of this Schedule in relation to proceedings for the prosecution of a person in respect of an indictable offence against Part 14 of the _Trade Marks Act 1995_ instituted before that commencement, the Divisions continue to apply in relation to the proceedings as if the amendments made by those items had not been made.
-
-(4)       The amendment made by item 241 of this Schedule  applies in relation to proceedings for the prosecution of a person in respect of an indictable offence against Part 14 of the _Trade Marks Act 1995_ instituted at or after the commencement of that item.
-
-(5)       The amendments apply under subitems (2) and (4) of this item regardless of whether the conduct giving rise to those proceedings occurred, or is suspected to have occurred, before, at or after the commencement of items 240 and 241.
 
  
