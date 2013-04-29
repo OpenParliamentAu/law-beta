@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00761/Html/AgVetChemAdmin1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00546/Html/AgVetChemAdmin1992_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals (Administration) Act 1992
 
 **Act No. 262 of 1992 as amended**
 
-This compilation was prepared on 23 November 2010
- taking into account amendments up to Act No. 121 of 2010
+This compilation was prepared on 2 August 2010
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -886,7 +886,7 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
                    There is to be a Chief Executive Officer of the APVMA.
 
-##### <a id="32"></a>32  Duties
+##### <a id="32"></a>32  Duties
 
              (1)  The Chief Executive Officer is to manage the affairs of the APVMA and in doing so, may exercise any of the powers and perform any of the functions of the APVMA.
 
@@ -1546,7 +1546,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ### Division 3—Powers of entry, search and seizure
 
-##### <a id="69EB"></a>69EB  Searches to monitor compliance with Part
+##### <a id="69EB"></a>69EB  Searches to monitor compliance with Part
 
              (1)  Subject to this section, to the extent that it is reasonably necessary to do so for the purpose of finding out whether this Part has been complied with, an inspector, with any necessary help, may enter, at any time during ordinary working hours on any day, any premises that the inspector has reasonable cause to believe are premises at which active constituents for proposed or existing chemical products, or chemical products, or records relating to any such constituents or products, are kept and may do any one or more of the following:
 
@@ -2733,26 +2733,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Food Standards Australia New Zealand Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>121, 2010</div>
-  </td>
-  <td>
-    <div>17 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by section 11 only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
+_(a)_    The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by section 11 only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
 
                  (3)   The amendment of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_ made by the Schedule commences or is taken to have commenced immediately after the commencement of the _Agricultural and Veterinary Chemicals (Consequential Amendments) Act 1994_.
 
@@ -4763,8 +4746,7 @@ _(g)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
 
 ### Note 2
 
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 
- (No. 103, 2010)_
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 (No. 103, 2010)_
 
 The following amendment commences on the start of 1 January 2011:
 
@@ -4774,24 +4756,7 @@ The following amendment commences on the start of 1 January 2011:
 
 Omit “section 75AL of the _Trade Practices Act 1974_”, substitute “section 148 of Schedule 2 to the _Competition and Consumer Act 2010_, as that section applies as a law of the Commonwealth”.
 
-As at 23 November 2010 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Food Standards Australia New Zealand Amendment Act 2010 
- (No. 121, 2010)_
-
-The following amendment commences on 17 May 2011 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  After subsection 7(1B)
-
-Insert:
-
-          (1C)  The APVMA has any functions and powers that are conferred on it by Division 2A of Part 3 of the _Food Standards Australia New Zealand Act 1991_.
-
-As at 23 November 2010 the amendment is not incorporated in this compilation.
+As at 2 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -5076,7 +5041,7 @@ A determination under this subitem has effect accordingly.
 
 (6)        A determination made under subitem (3) is not a legislative instrument.
 
-## 12  References in instruments
+## 12  References in instruments
 
 (1)        If:
 
@@ -5183,5 +5148,7 @@ unless the contrary is established.
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
 (2)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
+
+ 
 
  
