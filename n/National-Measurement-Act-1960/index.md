@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00075/Html/b960f1f5-8aca-4323-9a42-1efc85ae6cc1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00347/Html/f095cd8b-ef5d-48d4-b30e-ee31202d45da_files/image001.gif)
 
 # National Measurement Act 1960
 
 **Act No. 64 of 1960 as amended**
 
-This compilation was prepared on 31 January 2013
- taking into account amendments up to Act No. 180 of 2012
+This compilation was prepared on 27 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -323,7 +324,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [18ML](#18ML).    Evidentiary certificate—examination and calibration under section 18MK
 
-[18MM](#18MM).   Trade measurement inspector must obliterate verification mark
+[18MM](#18MM).   Trade measurement inspector must obliterate verification 
+ mark
 
     **Division 4—Obligations of trade measurement inspectors**
 
@@ -514,6 +516,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [19E](#19E).        Offences committed by agents—liability of agent
 
 [19F](#19F).        Offences committed by agents—liability of principal
+
+[19G](#19G).       Offence committed by a body corporate—liability of directors etc 
 
 [19H](#19H).       Protected information
 
@@ -975,7 +979,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="8AA"></a>8AA  Co‑ordinated Universal Time
 
-                   The Chief Metrologist is to maintain, or cause to be maintained, Co‑ordinated Universal Time (UTC) as determined by the International Bureau of Weights and Measures.
+                   The Chief Metrologist is to maintain, or cause to be maintained, Co‑ordinated Universal Time (UTC) as determined by the International Bureau of Weights and Measures.
 
 ##### <a id="8A"></a>8A  Recognized‑value standards of measurement
 
@@ -1087,7 +1091,7 @@ the reference shall, unless the contrary intention appears, be deemed to be a re
 
                     Penalty:  5 penalty units.
 
-##### <a id="13"></a>13  Contracts etc. relating to exportation or importation of goods
+##### <a id="13"></a>13  Contracts etc. relating to exportation or importation of goods
 
                    The provisions of subsection 12(1) and of section 7 do not apply to or in relation to a contract, dealing or transaction made or entered into in connexion with the exportation of goods from, or the importation of goods into, Australia.
 
@@ -1121,7 +1125,9 @@ Department metrological functions and powers.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(3)   The position of Chief
 
-Metrologist is established and the functions of the Chief Metrologist identified.</li>
+Metrologist is established and the functions of the Chief Metrologist
+
+identified.</li>
 
 * * *
 
@@ -4415,7 +4421,7 @@ whichever first occurs, unless the thing is forfeited or forfeitable to the Comm
 
              (3)  The thing may be returned under subsection (2) either unconditionally or on such terms and conditions as the Secretary sees fit.
 
-##### <a id="18MV"></a>18MV  Magistrate may permit a thing to be retained
+##### <a id="18MV"></a>18MV  Magistrate may permit a thing to be retained
 
              (1)  A trade measurement inspector may apply to a magistrate for an order that he or she may retain the thing for a further period if:
 
@@ -4493,9 +4499,9 @@ the person must provide the inspector, or any person assisting the inspector, wi
 
 <li class="BoxList" style="margin-left:21.25pt">(1)   This Division contains
 
-provisions allowing warrants to be issued in relation to residential premises
+provisions allowing warrants to be issued in relation to residential premises for
 
-for the purposes of finding out whether Part IV, V, VI or VII has been
+the purposes of finding out whether Part IV, V, VI or VII has been
 
 complied with or for the collection of evidential material.</li>
 
@@ -5925,7 +5931,27 @@ by the Chief Metrologist, a delegate of the Chief Metrologist or another person 
 
              (2)  If intention, knowledge or recklessness is a fault element in relation to a physical element of the offence, that fault element must be attributed to the principal if the principal expressly, tacitly or impliedly authorised or permitted the commission of the offence.
 
-##### <a id="19H"></a>19H  Protected information
+##### <a id="19G"></a>19G  Offence committed by a body corporate—liability of directors etc.
+
+             (1)  If a physical element of an offence is committed by a body corporate, the physical element must also be attributed to each person who is:
+
+                     (a)  a director of the body corporate; or
+
+                     (b)  an employee, agent or officer of the body corporate with duties of such responsibility that his or her conduct may fairly be assumed to represent the body corporate’s policy.
+
+             (2)  If intention, knowledge or recklessness is a fault element in relation to a physical element of the offence, that fault element must be attributed to a director of the body corporate if the director:
+
+                     (a)  intentionally, knowingly or recklessly carried out the relevant conduct; or
+
+                     (b)  expressly, tacitly or impliedly authorised or permitted the commission of the offence.
+
+             (3)  If intention, knowledge or recklessness is a fault element in relation to a physical element of the offence, that fault element must be attributed to a person mentioned in paragraph (1)(b) if the person:
+
+                     (a)  intentionally, knowingly or recklessly carried out the relevant conduct; or
+
+                     (b)  expressly, tacitly or impliedly authorised or permitted the commission of the offence.
+
+##### <a id="19H"></a>19H  Protected information
 
              (1)  This section applies to a person:
 
@@ -6681,23 +6707,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Liability for Corporate Fault Reform Act 2012</div>
-  </td>
-  <td>
-    <div>180, 2012</div>
-  </td>
-  <td>
-    <div>10 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 23): 11 Dec 2012</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -8003,7 +8012,7 @@ rep. No. 27, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>S. 18GF</div>
+    <div>S 18GF</div>
   </td>
   <td>
     <div>ad. No. 137, 2008</div>
@@ -9535,47 +9544,7 @@ Part XIII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19D</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19E</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19F</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19G</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19H</div>
+    <div>Ss. 19D–19H</div>
   </td>
   <td>
     <div>ad. No. 137, 2008</div>
