@@ -1,1739 +1,2193 @@
-![](http://www.comlaw.gov.au/Details/C2006C00594/Html/IntnlAirServComm1992_WD02_image001.gif)
+**
 
-# International Air Services Commission Act 1992
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992 
+**
 
-**Act No. 103 of 1992 as amended**
 
-This compilation was prepared on 10 October 2006
- taking into account amendments up to Act No. 109 of 2006
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement
 
-[3](#3).            Object of Act
 
-[4](#4).            Interpretation
+**
 
-[5](#5).            Available capacity
+###  Long Title 
+**
+**
 
-[5A](#5A).         Application of the _Criminal Code_
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<part>Part&#160;1&#151;Preliminary </part>
+**
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-**Part 2—Key provisions**
+		This Act may be cited as the _International Air Services Commission Act 1992_.
 
-[6](#6).            The International Air Services Commission
+ </dl>
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 2  Commencement 
+<dl compact="">
 
-[7](#7).            Determinations allocating capacity
+		This Act commences on 1&#160;July 1992.
 
-[8](#8).            Renewal of determinations
+ </dl>
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 3  Object of Act 
+<dl compact="">
 
-[9](#9).            Effect of determinations on the making of operational decisions
+		The object of this Act is to enhance the welfare of Australians by promoting
 
-[10](#10).          Review of determinations
+economic efficiency through competition in the provision of international air
 
-[11](#11).          Policy statements
+services, resulting in:
 
-**Part 3—Allocation of available capacity** 
+ </dl>
 
-    **Division 1—Determinations allocating capacity**
 
-[12](#12).          Applications relating to available capacity
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 4  Interpretation 
+<dl compact="">
 
-[14](#14).          Requirements of applications
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-[15](#15).          Content of determinations
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-[16](#16).          Notification of determinations
+_another country_ includes any region:
 
-    **Division 2—Renewal of determinations**
+ </dl></dl>
 
-[17](#17).          Consideration of renewals
+	(a)	that is part of a foreign country; or
+ 	(b)	that is under the protection of a foreign country; or
+ 	(c)	for whose international relations a foreign country is responsible.
 
-[18](#18).          Renewal of interim determinations
+<def><dl compact=""><dl compact="">
 
-[19](#19).          Content of determinations
+_APS employee_ has the same meaning as in the _Public Service Act 1999_. _Australian carrier_, in relation to particular capacity, means a person who:  </dl></dl>
 
-[20](#20).          Notification of renewals
+	(a)	conducts, or proposes to conduct, an international airline service to and from Australia; and
+ 	(b)	under the bilateral arrangement to which the capacity relates, may be permitted to carry passengers or freight, or both passengers and freight, under that arrangement as an airline designated, nominated or otherwise similarly authorised by Australia.
 
-    **Division 3—Review of determinations**
+<def><dl compact=""><dl compact="">
 
-[21](#21).          Applications for variation of determinations
+_available capacity_ has the meaning given in subsection 5(1). _bilateral arrangement_ means an agreement or arrangement between:  </dl></dl>
 
-[22](#22).          Submissions about reviews
+<center>Back to Top</center>
 
-[23](#23).          Decisions on review for cause
-
-[24](#24).          Decisions on applications for variation
-
-[25](#25).          Decisions on transfer applications
-
-[26](#26).          Assessments of public benefit
-
-[27](#27).          Notification of decisions
-
-    **Division 4—Surrender of allocated capacity**
-
-[27AA](#27AA).    Surrender of allocated capacity
-
-**Part 3A—Delegation of Commission’s powers and functions**
-
-[27AB](#27AB).    Delegation of powers and functions
-
-**Part 4—The Commission’s procedure** 
-
-    **Division 1—General**
-
-[27A](#27A).       Meetings of Commission
-
-[28](#28).          Commission to act informally etc 
-
-    **Division 2—Hearings**
-
-[30](#30).          Commission may hold hearings
-
-[31](#31).          Evidence on oath etc 
-
-[32](#32).          Representation
-
-[33](#33).          Hearings to be public except in special circumstances
-
-[34](#34).          Summons to give evidence
-
-[35](#35).          Failure of witness to attend
-
-[36](#36).          False information
-
-[37](#37).          Refusal to provide information etc 
-
-[38](#38).          Allowances to witnesses
-
-**Part 5—Membership of the Commission**
-
-[39](#39).          Constitution of Commission
-
-[40](#40).          Appointment of members
-
-[41](#41).          Qualification of members
-
-[42](#42).          Term of appointment
-
-[43](#43).          Remuneration and allowances
-
-[44](#44).          Leave of absence
-
-[45](#45).          Resignation
-
-[46](#46).          Termination of appointment
-
-[47](#47).          Disclosure of interests
-
-[48](#48).          Acting appointments
-
-**Part 6—Miscellaneous**
-
-[49](#49).          Register of available capacity
-
-[50](#50).          Secretary to notify Commission of making etc  of operational decisions
-
-[51](#51).          Protection of members etc 
-
-[52](#52).          Publication of notices
-
-[53](#53).          Annual report
-
-[54](#54).          Pre-existing capacity
-
-[54A](#54A).       Pre-existing capacity under special bilateral arrangement
-
-[54B](#54B).       Pre-existing capacity
-
-[55](#55).          Regulations
-
-**Notes** 
-
-## An Act to establish the International Air Services Commission, and for related purposes
-
-## Part 1—Preliminary
-
-##### <a id="1"></a>1  Short title [_see_ Note 1]
-
-                   This Act may be cited as the _International Air Services Commission Act 1992_.
-
-##### <a id="2"></a>2  Commencement
-
-                   This Act commences on 1 July 1992.
-
-##### <a id="3"></a>3  Object of Act
-
-                   The object of this Act is to enhance the welfare of Australians by promoting economic efficiency through competition in the provision of international air services, resulting in:
-
-                     (a)  increased responsiveness by airlines to the needs of consumers, including an increased range of choices and benefits; and
-
-                     (b)  growth in Australian tourism and trade; and
-
-                     (c)  the maintenance of Australian carriers capable of competing effectively with airlines of foreign countries.
-
-##### <a id="4"></a>4  Interpretation
-
-             (1)  In this Act, unless the contrary intention appears:
-
-                    <a name="countri"></a>**_another country_** includes any region:
-
-                     (a)  that is part of a foreign country; or
-
-                     (b)  that is under the protection of a foreign country; or
-
-                     (c)  for whose international relations a foreign country is responsible.
-
-                    <a name="ap-employe"></a>**_APS employee_** has the same meaning as in the _Public Service Act 1999_.
-
-                    <a name="australian-carrier"></a>**_Australian carrier_**, in relation to particular capacity, means a person who:
-
-                     (a)  conducts, or proposes to conduct, an international airline service to and from Australia; and
-
-                     (b)  under the bilateral arrangement to which the capacity relates, may be permitted to carry passengers or freight, or both passengers and freight, under that arrangement as an airline designated, nominated or otherwise similarly authorised by Australia.
-
-                    <a name="avail-capac"></a>**_available capacity_** has the meaning given in subsection 5(1).
-
-                    <a name="bilater-arrang"></a>**_bilateral arrangement_** means an agreement or arrangement between:
-
-                     (a)  Australia, or an entity or organisation nominated or otherwise similarly authorised by Australia to enter into the agreement or arrangement; and
-
-                     (b)  another country;
+	(a)	Australia, or an entity or organisation nominated or otherwise similarly authorised by Australia to enter into the agreement or arrangement; and
+ 	(b)	another country;
 
 under which the carriage by air of passengers or freight (or both) is permitted.
 
-                    <a name="block-space-arrang"></a>**_blocked space arrangements_** means arrangements under which capacity is acquired by a carrier for the carriage of passengers or freight on an aircraft of another carrier.
+<def><dl compact=""><dl compact="">
 
-                    <a name="capac"></a>**_capacity_** means an amount of space (however worked out or described) for the carriage of passengers or freight (or both) by persons designated, nominated or otherwise similarly authorised by Australia, being carriage permitted under a bilateral arrangement, or a combination of bilateral arrangements.
+_blocked space arrangements_ means arrangements under which
 
-                    <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Commission.
+capacity is acquired by a carrier for the carriage of passengers or freight on
 
-                    <a name="code-share"></a>**_code sharing_** means an arrangement under which a carrier sells capacity under its own designator code on a flight operated by another airline.
+an aircraft of another carrier. _capacity_ means an amount of space (however worked out or described) for the carriage of passengers or freight (or both) by persons designated, nominated or otherwise similarly authorised by Australia, being carriage permitted under a bilateral arrangement, or a combination of bilateral arrangements. _Chairperson_ means the Chairperson of the Commission. _code sharing_ means an arrangement under which a carrier sells capacity under its own designator code on a flight operated by another airline. _Commission_ means the International Air Services Commission established by section&#160;6\. _determination_ means a determination made by the Commission under section&#160;7 or 8 concerning the allocation of capacity. _interim determination_ means a determination that includes a statement, under paragraph 15(2)(b), 19(1)(b) or 54(4)(a), to the effect that it is an interim determination. _joint international air services_ includes, but is not limited to, the provision of international air services by an Australian carrier involving code sharing, blocked space arrangements, joint pricing, revenue and cost sharing, revenue and cost pooling, or the sale of capacity to another airline. _member_ means a member of the Commission. _operational decision_, in relation to particular capacity, means a decision (including the granting of any licence or the giving of any approval) under the _Air Navigation Act 1920_, or the regulations made under that Act, that must be made if an Australian carrier is to be permitted to operate an international airline service using that capacity. _reduce_, in relation to capacity, includes reduce to nil. _renewal_ means renewal of a determination under section&#160;8\. _review_ means review of a determination under section&#160;10\. _Secretary_ means the Secretary of the Department. _transfer application_ means an application, by an Australian carrier to whom a determination allocates capacity, for one or both of the following:  </dl></dl>
 
-                    <a name="commiss"></a>**_Commission_** means the International Air Services Commission established by section 6.
+	(a)	a variation of the determination in a way that allocates, or has the effect of allocating, that capacity to another Australian carrier;
+ 	(b)	a variation of the determination that varies, or has the effect of varying, one or more conditions of a kind referred to in paragraph 15(2)(d), (e) or (f).
 
-                    <a name="determin"></a>**_determination_** means a determination made by the Commission under section 7 or 8 concerning the allocation of capacity.
+<def><dl compact=""><dl compact="">
 
-                    <a name="interim-determin"></a>**_interim determination_** means a determination that includes a statement, under paragraph 15(2)(b), 19(1)(b) or 54(4)(a), to the effect that it is an interim determination.
+_wholly-owned subsidiary_ has the same meaning as in the
 
-                    <a name="joint-intern-air-servic"></a>**_joint international air services_** includes, but is not limited to, the provision of international air services by an Australian carrier involving code sharing, blocked space arrangements, joint pricing, revenue and cost sharing, revenue and cost pooling, or the sale of capacity to another airline.
+_Corporations Act 2001_.
 
-                    <a name="member"></a>**_member_** means a member of the Commission.
+ </dl></dl>
 
-                    <a name="oper-decision"></a>**_operational decision_**, in relation to particular capacity, means a decision (including the granting of any licence or the giving of any approval) under the _Air Navigation Act 1920_, or the regulations made under that Act, that must be made if an Australian carrier is to be permitted to operate an international airline service using that capacity.
+<dl compact=""><dl compact="">
 
-                    <a name="ruce"></a>**_reduce_**, in relation to capacity, includes reduce to nil.
+<dt>(2)</dt><dd>A reference in this Act to an allocation of capacity is a reference to a
 
-                    <a name="renew"></a>**_renewal_** means renewal of a determination under section 8.
+finding, included in a determination, that a specified Australian carrier
 
-                    <a name="review"></a>**_review_** means review of a determination under section 10.
+should be permitted to use that capacity.</dd> <dt>(3)</dt><dd>A reference in this Act to the benefit to the public in relation to an allocation of capacity is a reference to the benefit to the public that would occur if the Australian carrier to whom the capacity is allocated were permitted to use that capacity.</dd> <dt>(4)</dt><dd>A reference in this Act to use of capacity is a reference to the operation of an international air service to provide the carriage of passengers or freight, or both passengers and freight, to which the capacity relates. </dd> </dl></dl>
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+**
 
-                    <a name="transfer-applic"></a>**_transfer application_** means an application, by an Australian carrier to whom a determination allocates capacity, for one or both of the following:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 5  Available capacity 
+**
 
-                     (a)  a variation of the determination in a way that allocates, or has the effect of allocating, that capacity to another Australian carrier;
+ <dl compact=""><dl compact="">
 
-                     (b)  a variation of the determination that varies, or has the effect of varying, one or more conditions of a kind referred to in paragraph 15(2)(d), (e) or (f).
+<dt>(1)</dt><dd>Subject to subsection&#160;(2) of this section and subsection 9(2A),
 
-                    <a name="wholli-owned-subsidiari"></a>**_wholly-owned subsidiary_** has the same meaning as in the _Corporations Act 2001_.
+capacity is taken to be available capacity for the purposes of this Act if
 
-             (2)  A reference in this Act to an allocation of capacity is a reference to a finding, included in a determination, that a specified Australian carrier should be permitted to use that capacity.
+operational decisions are not in force in relation to that capacity.</dd> <dt>(2)</dt><dd>If the Commission makes a determination, the capacity to which it relates is taken not to be available capacity during the period beginning when the determination is made and ending when the Secretary advises the Commission under section&#160;50 in relation to the capacity. </dd> </dl></dl>
 
-             (3)  A reference in this Act to the benefit to the public in relation to an allocation of capacity is a reference to the benefit to the public that would occur if the Australian carrier to whom the capacity is allocated were permitted to use that capacity.
+<center>Back to Top</center>
 
-             (4)  A reference in this Act to use of capacity is a reference to the operation of an international air service to provide the carriage of passengers or freight, or both passengers and freight, to which the capacity relates.
+**
 
-##### <a id="5"></a>5  Available capacity
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 5A  Application of the _Criminal Code_ 
+**
 
-             (1)  Subject to subsection (2) of this section and subsection 9(2A), capacity is taken to be available capacity for the purposes of this Act if operational decisions are not in force in relation to that capacity.
+ <dl compact=""><dl compact="">
 
-             (2)  If the Commission makes a determination, the capacity to which it relates is taken not to be available capacity during the period beginning when the determination is made and ending when the Secretary advises the Commission under section 50 in relation to the capacity.
+		Chapter&#160;2 of the _Criminal Code_ applies to all offences created by
 
-##### <a id="5A"></a>5A  Application of the _Criminal Code_
+this Act.
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
+ </dl></dl>
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+<dl compact=""><dl compact="">
 
-## Part 2—Key provisions
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
 
-##### <a id="6"></a>6  The International Air Services Commission
+general principles of criminal responsibility.
 
-             (1)  The International Air Services Commission is established.
+ </dl></dl>
 
-             (2)  The functions of the Commission are:
+<center>**
 
-                     (a)  to make determinations under sections 7 and 8; and
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<part>Part&#160;2&#151;Key provisions </part>
+**</center>
 
-                     (b)  to conduct reviews of those determinations; and
+**
 
-                     (c)  to provide advice to the Minister about any matter referred to the Commission by the Minister concerning international air operations.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 6  The International Air Services Commission 
+**
 
-          (2A)  To remove any doubt, it is declared that the Commission may, at the same time, consider and decide more than one matter in relation to particular capacity.
+ <dl compact=""><dl compact="">
 
-             (3)  In performing its functions, the Commission must:
+<dt>(1)</dt><dd>The International Air Services Commission is established.</dd> <dt>(2)</dt><dd>The functions of the Commission are: </dd> </dl></dl>
 
-                     (a)  comply with any applicable policy statements made by the Minister under section 11; and
+	(a)	to make determinations under sections&#160;7 and 8; and
+ 	(b)	to conduct reviews of those determinations; and
+ 	(c)	to provide advice to the Minister about any matter referred to the Commission by the Minister concerning international air operations.
 
-                     (b)  have regard to Australia’s international obligations concerning the operation of international air services.
+<dl compact=""><dl compact="">
 
-             (4)  The Commission has the power to do everything necessary or convenient to be done for or in connection with the performance of its functions.
+<dt>(2A)</dt><dd>To remove any doubt, it is declared that the Commission may, at the same
 
-Note:          Part 4 is about the Commission’s procedure. Par t 5 is about the membership of the Commission.
+time, consider and decide more than one matter in relation to particular
 
-##### <a id="7"></a>7  Determinations allocating capacity
+capacity.</dd> <dt>(3)</dt><dd>In performing its functions, the Commission must: </dd> </dl></dl>
 
-             (1)  The Commission may make a determination allocating available capacity.
+	(a)	comply with any applicable policy statements made by the Minister under section&#160;11; and
+ 	(b)	have regard to Australia's international obligations concerning the operation of international air services.
 
-             (2)  The determination:
+<dl compact=""><dl compact="">
 
-                     (a)  must not allocate available capacity unless the Commission is satisfied that the allocation would be of benefit to the public; and
+<dt>(4)</dt><dd>The Commission has the power to do everything necessary or convenient to
 
-                    (aa)  must not allocate available capacity contrary to any restrictions on capacity contained in a bilateral arrangement, or a combination of bilateral arrangements, permitting the carriage to which the capacity relates; and
+be done for or in connection with the performance of its functions.
 
-                     (b)  if more than one application was made under Division 1 of Part 3 relating to the allocation—must make the allocation that the Commission is satisfied, having regard to the applications made, would be of the greatest benefit to the public.
+</dd> </dl></dl>
 
-             (3)  In assessing the benefit to the public of an allocation of capacity, the Commission must apply the criteria set out for that purpose in the policy statements made by the Minister under section 11.
+<dl compact=""><dl compact="">
 
-Note:          Division 1 of Part 3 is about making determinations. Part 4 is about the Commission’s procedure.
+Note:	Part&#160;4 is about the Commission's procedure. Par t 5 is
 
-##### <a id="8"></a>8  Renewal of determinations
+about the membership of the Commission.
 
-             (1)  The Commission may, at any time while a determination is in force, make a fresh determination allocating the capacity to which the original determination relates.
+ </dl></dl>
 
-             (2)  The fresh determination:
+**
 
-                     (a)  must make the same allocation of capacity as the original determination unless:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 7  Determinations allocating capacity 
+**
 
-                              (i)  the Commission is satisfied that that allocation is no longer of benefit to the public; or
+ <dl compact=""><dl compact="">
 
-                             (ii)  the original determination is an interim determination; and
+<dt>(1)</dt><dd>The Commission may make a determination allocating available capacity.</dd> <dt>(2)</dt><dd>The determination: </dd> </dl></dl>
 
-                     (b)  comes into force immediately after the end of the period during which the original determination was in force.
+	(a)	must not allocate available capacity unless the Commission is satisfied that the allocation would be of benefit to the public; and
+ 	(aa)	must not allocate available capacity contrary to any restrictions on capacity contained in a bilateral arrangement, or a combination of bilateral arrangements, permitting the carriage to which the capacity relates; and
+ 	(b)	if more than one application was made under Division&#160;1 of Part&#160;3 relating to the allocation&#151;must make the allocation that the Commission is satisfied, having regard to the applications made, would be of the greatest benefit to the public.
 
-             (3)  If the fresh determination does not make the same allocation of capacity as the original determination, it must not make a different allocation of capacity unless the Commission is satisfied that that allocation would be of benefit to the public.
+<dl compact=""><dl compact="">
 
-             (4)  In assessing the benefit to the public of an allocation of capacity, the Commission must apply the criteria set out for that purpose in any policy statements made by the Minister under section 11.
+<dt>(3)</dt><dd>In assessing the benefit to the public of an allocation of capacity, the
 
-Note:          Division 2 of Part 3 is about renewing determinations. Part 4 is about the Commission’s procedure.
+Commission must apply the criteria set out for that purpose in the policy
 
-##### <a id="9"></a>9  Effect of determinations on the making of operational decisions
+statements made by the Minister under section&#160;11.
 
-             (1)  The Secretary must not make an operational decision in relation to capacity that is inconsistent with a determination relating to the allocation of that capacity.
+</dd> </dl></dl>
 
-             (2)  The Secretary must not make an operational decision in relation to capacity that comes into existence on or after 1 July 1992 unless:
+<dl compact=""><dl compact="">
 
-                     (a)  a determination is in force relating to the allocation of that capacity; or
+Note:	Division&#160;1 of Part&#160;3 is about making
 
-                     (b)  the capacity relates to a non-scheduled flight within the meaning of the _Air Navigation Act 1920_; or
+determinations. Part&#160;4 is about the Commission's procedure.
 
-                     (c)  the decision is made in other circumstances prescribed by the regulations.
+ </dl></dl>
 
-          (2A)  An operational decision made in relation to capacity as mentioned in paragraph (2)(c) is not taken to be an operational decision for the purposes of subsection 5(1).
+**
 
-             (3)  Nothing in this Act obliges the Secretary to make an operational decision implementing a determination.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 8  Renewal of determinations 
+**
 
-Note:          Section 50 imposes notification requirements on the Secretary.
+ <dl compact=""><dl compact="">
 
-##### <a id="10"></a>10  Review of determinations
+<dt>(1)</dt><dd>The Commission may, at any time while a determination is in force, make a
 
-             (1)  The Commission may, at any time, conduct a review of a determination if it believes that there may be grounds for varying, suspending or revoking the determination.
+fresh determination allocating the capacity to which the original determination
 
-             (2)  The Commission must conduct a review of a determination if an Australian carrier to whom the determination allocates capacity applies to the Commission under section 21 for the determination to be varied.
+relates.</dd> <dt>(2)</dt><dd>The fresh determination: </dd> </dl></dl>
 
-Note:          Division 3 of Part 3 is about reviewing determinations. Part 4 is about the Commission’s procedure.
+<center>Back to Top</center>
 
-##### <a id="11"></a>11  Policy statements
+	(a)	must make the same allocation of capacity as the original determination unless:
+ 	(i)	the Commission is satisfied that that allocation is no longer of benefit to the public; or
+ 	(ii)	the original determination is an interim determination; and
+ 	(b)	comes into force immediately after the end of the period during which the original determination was in force.
 
-             (1)  The Minister may, by legislative instrument, make policy statements about the way in which the Commission is to perform its functions.
+<dl compact=""><dl compact="">
 
-             (2)  In particular, the policy statements may set out:
+<dt>(3)</dt><dd>If the fresh determination does not make the same allocation of capacity
 
-                     (a)  the criteria to be applied by the Commission in assessing the benefit to the public of allocations of capacity; and
+as the original determination, it must not make a different allocation of
 
-                     (b)  how the Commission is to fix the periods during which determinations are to be in force; and
+capacity unless the Commission is satisfied that that allocation would be of
 
-                     (c)  matters relating to the Commission’s consideration of whether determinations should be interim determinations; and
+benefit to the public.</dd> <dt>(4)</dt><dd>In assessing the benefit to the public of an allocation of capacity, the Commission must apply the criteria set out for that purpose in any policy statements made by the Minister under section&#160;11\. </dd> </dl></dl>
 
-                     (d)  matters relating to the inclusion of conditions in determinations and the variation or revocation of such conditions.
+<dl compact=""><dl compact="">
 
-             (3)  Without limiting the criteria that, under paragraph (2)(a), may be set out in the policy statements, the policy statements may set out:
+Note:	Division&#160;2 of Part&#160;3 is about renewing
 
-                     (a)  criteria that relate to the matters referred to in section 3; and
+determinations. Part&#160;4 is about the Commission's procedure.
 
-                     (b)  criteria that apply in relation to particular circumstances, including where:
+ </dl></dl>
 
-                              (i)  capacity is not limited under bilateral arrangements; or
+**
 
-                             (ii)  only one application has been made for the allocation of capacity; or
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 9  Effect of determinations on the making of operational decisions 
+**
 
-                            (iii)  no submissions are received opposing allocation of capacity to an applicant; or
+<dl compact=""><dl compact="">
 
-                            (iv)  an application for the allocation of capacity is opposed on particular grounds.
+<dt>(1)</dt><dd>The Secretary must not make an operational decision in relation to
 
-             (4)  A policy statement:
+capacity that is inconsistent with a determination relating to the allocation
 
-                     (a)  must not deal with the making of a particular determination or decision by the Commission; and
+of that capacity.</dd> <dt>(2)</dt><dd>The Secretary must not make an operational decision in relation to capacity that comes into existence on or after 1&#160;July 1992 unless: </dd> </dl></dl>
 
-                     (b)  is invalid to the extent that it purports to deal with such a matter.
+	(a)	a determination is in force relating to the allocation of that capacity; or
+ 	(b)	the capacity relates to a non-scheduled flight within the meaning of the _Air Navigation Act 1920_; or
+ 	(c)	the decision is made in other circumstances prescribed by the regulations.
 
-## Part 3—Allocation of available capacity
+<dl compact=""><dl compact="">
 
-### Division 1—Determinations allocating capacity
+<dt>(2A)</dt><dd>An operational decision made in relation to capacity as mentioned in
 
-_Note:       This Division is about making determinations under section 7._
+paragraph&#160;(2)(c) is not taken to be an operational decision for the
 
-##### <a id="12"></a>12  Applications relating to available capacity
+purposes of subsection 5(1).</dd> <dt>(3)</dt><dd>Nothing in this Act obliges the Secretary to make an operational decision implementing a determination. </dd> </dl></dl>
 
-             (1)  Before making a determination allocating available capacity, the Commission must, by notice, invite:
+<dl compact=""><dl compact="">
 
-                     (a)  applications for a determination allocating the capacity; and
+Note:	Section&#160;50 imposes notification requirements on the
 
-                     (b)  if the regulations so require—submissions about the allocation of the capacity.
+Secretary.
 
-Note:          Section 52 is about publication of notices.
+ </dl></dl>
 
-             (2)  Without limiting the matters that may be included in the notice, the notice must:
+**
 
-                     (a)  set out the matters that the regulations require to be set out in the notice; and
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 10  Review of determinations 
+**
 
-                     (b)  specify the period within which applications are required to be made; and
+ <dl compact=""><dl compact="">
 
-                     (c)  may include guidance as to:
+<dt>(1)</dt><dd>The Commission may, at any time, conduct a review of a determination if it
 
-                              (i)  any matters that the Commission considers to be particularly important in making its determination in relation to that available capacity; and
+believes that there may be grounds for varying, suspending or revoking the
 
-                             (ii)  the weight that the Commission is likely to give to such matters.
+determination.</dd> <dt>(2)</dt><dd>The Commission must conduct a review of a determination if an Australian carrier to whom the determination allocates capacity applies to the Commission under section&#160;21 for the determination to be varied. </dd> </dl></dl>
 
-             (3)  Any person may apply to the Commission for a determination allocating the capacity.
+<dl compact=""><dl compact="">
 
-##### <a id="14"></a>14  Requirements of applications
+Note:	Division&#160;3 of Part&#160;3 is about reviewing
 
-             (1)  An application under this Division:
+determinations. Part&#160;4 is about the Commission's procedure.
 
-                     (a)  must be in writing; and
+ </dl></dl>
 
-                     (b)  must be delivered at the address specified in the regulations as the Commission’s address for receiving applications; and
+**
 
-                     (c)  must be so delivered within the period referred to in paragraph 12(2)(b); and
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 11  Policy statements 
+**
 
-                     (d)  must comply with the requirements of form and content referred to in subsection (2).
+ <dl compact=""><dl compact="">
 
-             (2)  The regulations may impose requirements as to the form and content of such applications.
+<dt>(1)</dt><dd>The Minister may, by instrument in writing, make policy statements about
 
-             (3)  The Commission may reject an application without considering it further if it does not comply with subsection (1).
+the way in which the Commission is to perform its functions.</dd> <dt>(2)</dt><dd>In particular, the policy statements may set out: </dd> </dl></dl>
 
-##### <a id="15"></a>15  Content of determinations
+	(a)	the criteria to be applied by the Commission in assessing the benefit to the public of allocations of capacity; and
+ 	(b)	how the Commission is to fix the periods during which determinations are to be in force; and
 
-             (1)  A determination may include such terms and conditions as the Commission thinks fit.
+<center>Back to Top</center>
+ 	(c)	matters relating to the Commission's consideration of whether determinations should be interim determinations; and
+ 	(d)	matters relating to the inclusion of conditions in determinations and the variation or revocation of such conditions.
 
-             (2)  Without limiting subsection (1), the determination:
+<dl compact=""><dl compact="">
 
-                     (a)  must specify the period, under subsection (3), during which the determination is to be in force; and
+<dt>(3)</dt><dd>Without limiting the criteria that, under paragraph&#160;(2)(a), may be
 
-                     (b)  may include a statement to the effect that the determination is an interim determination; and
+set out in the policy statements, the policy statements may set out:
 
-                     (c)  must include a condition that the capacity be fully used, except so far as:
+</dd> </dl></dl>
 
-                              (i)  the determination provides otherwise in relation to a specified period commencing when the determination comes into force; or
+	(a)	criteria that relate to the matters referred to in section&#160;3; and
+ 	(b)	criteria that apply in relation to particular circumstances, including where:
+ 	(i)	capacity is not limited under bilateral arrangements; or
+ 	(ii)	only one application has been made for the allocation of capacity; or
+ 	(iii)	no submissions are received opposing allocation of capacity to an applicant; or
+ 	(iv)	an application for the allocation of capacity is opposed on particular grounds.
 
-                             (ii)  the regulations otherwise permit; and
+<dl compact=""><dl compact="">
 
-                     (d)  must include a condition that, except to the extent permitted by the condition referred to in paragraphs (e) and (ea), the available capacity in question is only to be used by the one or more Australian carriers to whom the capacity is allocated; and
+<dt>(4)</dt><dd>A policy statement:
 
-                     (e)  must include a condition stating the extent (if any) to which any such carrier may use that capacity by providing joint international air services with another Australian carrier or any other person; and
+</dd> </dl></dl>
 
-                    (ea)  may include a condition that, to the extent that any of the capacity is allocated to a particular Australian carrier, it may be used in whole or in part by any one or more of the following:
+	(a)	must not deal with the making of a particular determination or decision by the Commission; and
+ 	(b)	is invalid to the extent that it purports to deal with such a matter.
 
-                              (i)  the carrier;
+<dl compact=""><dl compact="">
 
-                             (ii)  a wholly-owned subsidiary of the carrier;
+<dt>(5)</dt><dd>The policy statements are disallowable instruments for the purposes of
 
-                            (iii)  if the carrier is a wholly-owned subsidiary of another Australian carrier—that other carrier; and
+section&#160;46A of the _Acts Interpretation Act 1901_.
 
-                      (f)  must include a condition stating the extent to which changes in the ownership or control of any such carrier are permitted while the determination is in force.
+</dd> </dl></dl>
 
-          (2A)  If a determination includes a condition of a kind mentioned in paragraph (2)(ea), the determination may include conditions that are applicable to all, or some only, of the persons who are permitted to use the capacity concerned.
+<center>**
 
-          (2B)  If:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<part>Part&#160;3&#151;Allocation of available capacity </part>
+**</center>
 
-                     (a)  a carrier is a wholly-owned subsidiary of another Australian carrier; and
+<center>**
 
-                     (b)  that other carrier would, apart from any condition included under this subsection in a determination, be permitted by a condition referred to in paragraph (2)(ea) to use any capacity allocated to the subsidiary;
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<division>Division&#160;1&#151;Determinations allocating capacity</division> 
+**</center>
+
+Note:	This Division is about making determinations under section&#160;7\. 
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 12  Applications relating to available capacity 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Before making a determination allocating available capacity, the
+
+Commission must, by notice, invite:
+
+</dd> </dl></dl>
+
+	(a)	applications for a determination allocating the capacity; and
+ 	(b)	if the regulations so require&#151;submissions about the allocation of the capacity.
+
+<dl compact=""><dl compact="">
+
+Note:	Section&#160;52 is about publication of notices.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Without limiting the matters that may be included in the notice, the
+
+notice must:
+
+</dd> </dl></dl>
+
+	(a)	set out the matters that the regulations require to be set out in the notice; and
+ 	(b)	specify the period within which applications are required to be made; and
+ 	(c)	may include guidance as to:
+ 	(i)	any matters that the Commission considers to be particularly important in making its determination in relation to that available capacity; and
+ 	(ii)	the weight that the Commission is likely to give to such matters.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Any person may apply to the Commission for a determination allocating the
+
+capacity.
+
+</dd> </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 14  Requirements of applications 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>An application under this Division:
+
+</dd> </dl></dl>
+
+	(a)	must be in writing; and
+ 	(b)	must be delivered at the address specified in the regulations as the Commission's address for receiving applications; and
+ 	(c)	must be so delivered within the period referred to in paragraph 12(2)(b); and
+
+<center>Back to Top</center>
+ 	(d)	must comply with the requirements of form and content referred to in subsection&#160;(2).
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The regulations may impose requirements as to the form and content of such
+
+applications.</dd> <dt>(3)</dt><dd>The Commission may reject an application without considering it further if it does not comply with subsection&#160;(1). </dd> </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 15  Content of determinations 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A determination may include such terms and conditions as the Commission
+
+thinks fit.</dd> <dt>(2)</dt><dd>Without limiting subsection&#160;(1), the determination: </dd> </dl></dl>
+
+	(a)	must specify the period, under subsection&#160;(3), during which the determination is to be in force; and
+ 	(b)	may include a statement to the effect that the determination is an interim determination; and
+ 	(c)	must include a condition that the capacity be fully used, except so far as:
+ 	(i)	the determination provides otherwise in relation to a specified period commencing when the determination comes into force; or
+ 	(ii)	the regulations otherwise permit; and
+ 	(d)	must include a condition that, except to the extent permitted by the condition referred to in paragraphs&#160;(e) and (ea), the available capacity in question is only to be used by the one or more Australian carriers to whom the capacity is allocated; and
+ 	(e)	must include a condition stating the extent (if any) to which any such carrier may use that capacity by providing joint international air services with another Australian carrier or any other person; and
+ 	(ea)	may include a condition that, to the extent that any of the capacity is allocated to a particular Australian carrier, it may be used in whole or in part by any one or more of the following:
+ 	(i)	the carrier;
+ 	(ii)	a wholly-owned subsidiary of the carrier;
+ 	(iii)	if the carrier is a wholly-owned subsidiary of another Australian carrier&#151;that other carrier; and
+ 	(f)	must include a condition stating the extent to which changes in the ownership or control of any such carrier are permitted while the determination is in force.
+
+<dl compact=""><dl compact="">
+
+<dt>(2A)</dt><dd>If a determination includes a condition of a kind mentioned in
+
+paragraph&#160;(2)(ea), the determination may include conditions that are
+
+applicable to all, or some only, of the persons who are permitted to use the
+
+capacity concerned.</dd> <dt>(2B)</dt><dd>If: </dd> </dl></dl>
+
+	(a)	a carrier is a wholly-owned subsidiary of another Australian carrier; and
+ 	(b)	that other carrier would, apart from any condition included under this subsection in a determination, be permitted by a condition referred to in paragraph&#160;(2)(ea) to use any capacity allocated to the subsidiary;
 
 the determination must include a condition stating the extent to which changes in the ownership or control of that other carrier are permitted if that other carrier is to continue to be permitted to use that capacity while the determination is in force.
 
-             (3)  The period referred to in paragraph (2)(a) is:
+<dl compact=""><dl compact="">
 
-                     (a)  if the policy statements made by the Minister under section 11 set out how the period is to be fixed—the period as so fixed; or
+<dt>(3)</dt><dd>The period referred to in paragraph&#160;(2)(a) is:
 
-                     (b)  in any other case:
+</dd> </dl></dl>
 
-                              (i)  if the determination is an interim determination—3 years; or
+	(a)	if the policy statements made by the Minister under section&#160;11 set out how the period is to be fixed&#151;the period as so fixed; or
+ 	(b)	in any other case:
+ 	(i)	if the determination is an interim determination&#151;3 years; or
+ 	(ii)	if the determination is not an interim determination&#151;5 years. 
 
-                             (ii)  if the determination is not an interim determination—5 years.
+**
 
-##### <a id="16"></a>16  Notification of determinations
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 16  Notification of determinations 
+**
 
-                   As soon as practicable after the making of a determination, the Commission must:
+ <dl compact=""><dl compact="">
 
-                     (a)  make copies of the determination and its reasons for the determination available to the public; and
+		As soon as practicable after the making of a determination, the Commission
 
-                     (b)  publish, in such manner as it thinks appropriate, a notice stating:
+must:
 
-                              (i)  that the determination has been made; and
+ </dl></dl>
 
-                             (ii)  where copies of the determination and reasons may be obtained.
+	(a)	make copies of the determination and its reasons for the determination available to the public; and
+ 	(b)	publish, in such manner as it thinks appropriate, a notice stating:
 
-### Division 2—Renewal of determinations
+<center>Back to Top</center>
+ 	(i)	that the determination has been made; and
+ 	(ii)	where copies of the determination and reasons may be obtained.
 
-_Note:       This Division is about renewing determinations under section 8._
+<center>**
 
-##### <a id="17"></a>17  Consideration of renewals
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<division>Division&#160;2&#151;Renewal of determinations</division> 
+**</center>
 
-             (1)  The Commission must start its consideration of the renewal of a determination (other than an interim determination) at least 12 months before the end of the period during which the determination is in force.
+Note:	This Division is about renewing determinations under section&#160;8\. 
 
-             (2)  Sections 12 and 14 apply in relation to the renewal of a determination in the same way they apply in relation to the making of a determination allocating available capacity.
+**
 
-##### <a id="18"></a>18  Renewal of interim determinations
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 17  Consideration of renewals 
+**
 
-             (1)  The Commission must start its consideration of the renewal of an interim determination as soon as practicable after the determination is made.
+ <dl compact=""><dl compact="">
 
-             (2)  Sections 12 and 14 apply in relation to the renewal of an interim determination in the same way they apply in relation to the making of a determination under section 7 allocating available capacity.
+<dt>(1)</dt><dd>The Commission must start its consideration of the renewal of a
 
-             (3)  If no applications are made under subsection 12(3) (as it applies by virtue of subsection (2) of this section) in relation to the interim determination, the Commission must issue a notice stating that:
+determination (other than an interim determination) at least 12 months before
 
-                     (a)  no such applications were made; and
+the end of the period during which the determination is in force.</dd> <dt>(2)</dt><dd>Sections&#160;12 and 14 apply in relation to the renewal of a determination in the same way they apply in relation to the making of a determination allocating available capacity. </dd> </dl></dl>
 
-                     (b)  the determination is no longer to be treated as an interim determination.
+**
 
-Note:          Section 52 is about publication of notices.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 18  Renewal of interim determinations 
+**
 
-             (4)  If such a notice is issued, this Act (including paragraph 15(3)(b) or 19(2)(b), as the case requires) has effect in relation to the determination as if it is no longer an interim determination.
+ <dl compact=""><dl compact="">
 
-##### <a id="19"></a>19  Content of determinations
+<dt>(1)</dt><dd>The Commission must start its consideration of the renewal of an interim
 
-             (1)  A determination under section 8:
+determination as soon as practicable after the determination is made.</dd> <dt>(2)</dt><dd>Sections&#160;12 and 14 apply in relation to the renewal of an interim determination in the same way they apply in relation to the making of a determination under section&#160;7 allocating available capacity.</dd> <dt>(3)</dt><dd>If no applications are made under subsection 12(3) (as it applies by virtue of subsection&#160;(2) of this section) in relation to the interim determination, the Commission must issue a notice stating that: </dd> </dl></dl>
 
-                     (a)  must specify the period, under subsection (2), during which the determination is to be in force; and
+	(a)	no such applications were made; and
+ 	(b)	the determination is no longer to be treated as an interim determination.
 
-                     (b)  may include a statement to the effect that the determination is an interim determination; and
+<dl compact=""><dl compact="">
 
-                     (c)  subject to subsection (3), must include the same terms and conditions as the original determination to which it relates.
+Note:	Section&#160;52 is about publication of notices.
 
-             (2)  The period referred to in paragraph (1)(a) is:
+ </dl></dl>
 
-                     (a)  if the policy statements made by the Minister under section 11 set out how the period is to be fixed—the period as so fixed; or
+<dl compact=""><dl compact="">
 
-                     (b)  in any other case:
+<dt>(4)</dt><dd>If such a notice is issued, this Act (including paragraph 15(3)(b) or
 
-                              (i)  if the determination is an interim determination—3 years; or
+19(2)(b), as the case requires) has effect in relation to the determination as
 
-                             (ii)  if the determination is not an interim determination—5 years.
+if it is no longer an interim determination.
 
-             (3)  In including terms and conditions in the determination, the Commission may make such changes (if any) to the terms and conditions included in the original determination (including adding or deleting terms and conditions) as it is satisfied are warranted because of changes in circumstances since the original determination was made.
+</dd> </dl></dl>
 
-##### <a id="20"></a>20  Notification of renewals
+**
 
-                   As soon as practicable after the making of a determination, the Commission must:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 19  Content of determinations 
+**
 
-                     (a)  make copies of the determination and its reasons for the determination available to the public; and
+ <dl compact=""><dl compact="">
 
-                     (b)  publish, in such manner as it thinks appropriate, a notice stating:
+<dt>(1)</dt><dd>A determination under section&#160;8:
 
-                              (i)  that the determination has been made; and
+</dd> </dl></dl>
 
-                             (ii)  where copies of the determination and reasons may be obtained.
+	(a)	must specify the period, under subsection&#160;(2), during which the determination is to be in force; and
+ 	(b)	may include a statement to the effect that the determination is an interim determination; and
+ 	(c)	subject to subsection&#160;(3), must include the same terms and conditions as the original determination to which it relates.
 
-### Division 3—Review of determinations
+<dl compact=""><dl compact="">
 
-_Note:       This Division is about reviewing determinations under section 10._
+<dt>(2)</dt><dd>The period referred to in paragraph&#160;(1)(a) is:
 
-##### <a id="21"></a>21  Applications for variation of determinations
+</dd> </dl></dl>
 
-             (1)  An Australian carrier to whom a determination allocates capacity may, at any time, apply to the Commission for the determination to be varied.
+	(a)	if the policy statements made by the Minister under section&#160;11 set out how the period is to be fixed&#151;the period as so fixed; or
+ 	(b)	in any other case:
+ 	(i)	if the determination is an interim determination&#151;3 years; or
+ 	(ii)	if the determination is not an interim determination&#151;5 years.
 
-             (2)  The application:
+<dl compact=""><dl compact="">
 
-                     (a)  must be in writing; and
+<dt>(3)</dt><dd>In including terms and conditions in the determination, the Commission may
 
-                     (b)  must specify the variation being requested; and
+make such changes (if any) to the terms and conditions included in the original
 
-                     (c)  must be delivered at the address specified in the regulations as the Commission’s address for receiving applications; and
+determination (including adding or deleting terms and conditions) as it is
 
-                     (d)  must comply with the requirements of form and content referred to in subsection (3).
+satisfied are warranted because of changes in circumstances since the original
 
-             (3)  The regulations may impose requirements as to the form and content of applications.
+determination was made.
 
-##### <a id="22"></a>22  Submissions about reviews
+</dd> </dl></dl>
 
-             (1)  Before conducting a review under section 10, the Commission must, by notice, invite submissions about the review of the determination.
+**
 
-Note:          Section 52 is about publication of notices.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 20  Notification of renewals 
+**
 
-          (1A)  Subsection (1) does not apply to a review of a determination that allocates capacity if:
+ <dl compact=""><dl compact="">
 
-                     (a)  the review is made as a result of an application (other than a transfer application) by the carrier to which the capacity was allocated requesting a variation of the determination; and
+		As soon as practicable after the making of a determination, the Commission
 
-                     (b)  the only effect of the variation would be to reduce the capacity allocated to the carrier.
+must:
 
-             (2)  Any person may make submissions to the Commission about the review of the determination.
+ </dl></dl>
 
-##### <a id="23"></a>23  Decisions on review for cause
+<center>Back to Top</center>
 
-             (1)  Subject to subsection (2), the Commission must, having conducted a review under subsection 10(1) in relation to a determination, make a decision:
+	(a)	make copies of the determination and its reasons for the determination available to the public; and
+ 	(b)	publish, in such manner as it thinks appropriate, a notice stating:
+ 	(i)	that the determination has been made; and
+ 	(ii)	where copies of the determination and reasons may be obtained.
 
-                     (a)  confirming the determination; or
+<center>**
 
-                     (b)  varying the determination; or
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<division>Division&#160;3&#151;Review of determinations</division> 
+**</center>
 
-                     (c)  suspending the determination; or
+Note:	This Division is about reviewing determinations under section&#160;10\. 
 
-                     (d)  revoking the determination.
+**
 
-             (2)  The Commission may only make a decision varying, suspending or revoking the determination if it is satisfied that:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 21  Applications for variation of determinations 
+**
 
-                     (a)  a term or condition of the determination has been breached; or
+ <dl compact=""><dl compact="">
 
-                     (b)  due to a change of circumstances, it is inevitable that a breach of such a term or condition will occur; or
+<dt>(1)</dt><dd>An Australian carrier to whom a determination allocates capacity may, at
 
-                     (c)  an Australian carrier that, under the determination, is to use capacity to which the determination relates no longer intends to use fully that capacity.
+any time, apply to the Commission for the determination to be varied.</dd> <dt>(2)</dt><dd>The application: </dd> </dl></dl>
 
-             (3)  The Commission must not make a decision varying the determination in a way that varies, or has the effect of varying, an allocation of capacity unless the Commission is satisfied that the allocation, as so varied, would be of benefit to the public.
+	(a)	must be in writing; and
+ 	(b)	must specify the variation being requested; and
+ 	(c)	must be delivered at the address specified in the regulations as the Commission's address for receiving applications; and
+ 	(d)	must comply with the requirements of form and content referred to in subsection&#160;(3).
 
-##### <a id="24"></a>24  Decisions on applications for variation
+<dl compact=""><dl compact="">
 
-             (1)  Subject to this section, the Commission must, having conducted a review to decide an application (other than a transfer application) for a determination to be varied, make a decision:
+<dt>(3)</dt><dd>The regulations may impose requirements as to the form and content of
 
-                     (a)  confirming the determination; or
+applications.
 
-                     (b)  varying the determination in a way that gives effect to the variation requested in the application.
+</dd> </dl></dl>
 
-             (2)  Subject to subsection (3), the Commission must not make a decision varying the determination in a way that varies, or has the effect of varying, an allocation of capacity unless the Commission is satisfied that the allocation, as so varied, would be of benefit to the public.
+**
 
-             (3)  If:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 22  Submissions about reviews 
+**
 
-                     (a)  an Australian carrier to which a determination allocates capacity applies in accordance with section 21 for the determination to be varied; and
+ <dl compact=""><dl compact="">
 
-                     (b)  the only effect of the variation would be to reduce the capacity allocated to the carrier;
+<dt>(1)</dt><dd>Before conducting a review under section&#160;10, the Commission must, by
 
-the Commission must vary the determination as requested in the application.
+notice, invite submissions about the review of the determination.
 
-##### <a id="25"></a>25  Decisions on transfer applications
+</dd> </dl></dl>
 
-             (1)  Subject to subsection (2), the Commission must, having conducted a review to decide a transfer application, make a decision varying the determination concerned in a way that gives effect to the variation requested in the transfer application.
+<dl compact=""><dl compact="">
 
-             (2)  The Commission must not make a decision varying the determination in a way that varies, or has the effect of varying, an allocation of capacity if the Commission is satisfied that the allocation, as so varied, would not be of benefit to the public.
+Note:	Section&#160;52 is about publication of notices.
 
-##### <a id="26"></a>26  Assessments of public benefit
+ </dl></dl>
 
-                   In assessing the benefit to the public of a variation of an allocation of capacity, the Commission must apply the criteria set out for that purpose in any policy statements made by the Minister under section 11.
+<dl compact=""><dl compact="">
 
-##### <a id="27"></a>27  Notification of decisions
+<dt>(1A)</dt><dd>Subsection&#160;(1) does not apply to a review of a determination that
 
-                   As soon as practicable after the making of a decision on a review of a determination, the Commission must:
+allocates capacity if:
 
-                     (a)  make copies of the decision and its reasons for the decision available to the public; and
+</dd> </dl></dl>
 
-                     (b)  publish a notice stating:
+	(a)	the review is made as a result of an application (other than a transfer application) by the carrier to which the capacity was allocated requesting a variation of the determination; and
+ 	(b)	the only effect of the variation would be to reduce the capacity allocated to the carrier.
 
-                              (i)  that the decision has been made; and
+<dl compact=""><dl compact="">
 
-                             (ii)  where copies of the decision and reasons may be obtained.
+<dt>(2)</dt><dd>Any person may make submissions to the Commission about the review of the
 
-### Division 4—Surrender of allocated capacity
+determination.
 
-##### <a id="27AA"></a>27AA  Surrender of allocated capacity
+</dd> </dl></dl>
 
-             (1)  An Australian carrier to whom a determination allocates capacity may at any time request the Commission to revoke the determination.
+**
 
-             (2)  The request must:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 23  Decisions on review for cause 
+**
 
-                     (a)  be in writing and contain the prescribed particulars; and
+ <dl compact=""><dl compact="">
 
-                     (b)  be delivered at the address specified in the regulations as the Commission’s address for receiving applications.
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), the Commission must, having conducted a
 
-             (3)  On receipt of a request in relation to a determination, the Commission must make a decision revoking the determination.
+review under subsection 10(1) in relation to a determination, make a decision:
 
-             (4)  As soon as practicable after making a decision revoking a determination under this section, the Commission must:
+</dd> </dl></dl>
 
-                     (a)  make copies of the decision available to the public; and
+	(a)	confirming the determination; or
+ 	(b)	varying the determination; or
+ 	(c)	suspending the determination; or
+ 	(d)	revoking the determination.
 
-                     (b)  publish a notice stating that the decision has been made and where copies of it may be obtained.
+<dl compact=""><dl compact="">
 
-## Part 3A—Delegation of Commission’s powers and functions
+<dt>(2)</dt><dd>The Commission may only make a decision varying, suspending or revoking
 
-##### <a id="27AB"></a>27AB  Delegation of powers and functions
+the determination if it is satisfied that:
 
-             (1)  Subject to this section, the Commission may delegate, to an APS employee in the Department, the Commission’s powers or functions under any one or more of the following provisions:
+</dd> </dl></dl>
 
-                     (a)  section 7, 8, 16, 20, 27 or 27AA;
+	(a)	a term or condition of the determination has been breached; or
+ 	(b)	due to a change of circumstances, it is inevitable that a breach of such a term or condition will occur; or
+ 	(c)	an Australian carrier that, under the determination, is to use capacity to which the determination relates no longer intends to use fully that capacity.
 
-                     (b)  subsection 10(2), 12(1), 14(3), 17(1) or (2), 18(1), (2) or (3) or 22(1).
+<dl compact=""><dl compact="">
 
-             (2)  The delegation must be in writing and may only be made with the written agreement of the Secretary.
+<dt>(3)</dt><dd>The Commission must not make a decision varying the determination in a way
 
-             (3)  The regulations may provide that the Commission may only delegate a power or a function in specified circumstances.
+that varies, or has the effect of varying, an allocation of capacity unless the
 
-             (4)  If a delegate conducts the review of a determination under subsection 10(2), sections 24, 25 and 26 apply to the delegate in relation to the review in the same way as those sections would have applied to the Commission if the Commission had conducted the review.
+Commission is satisfied that the allocation, as so varied, would be of benefit
 
-             (5)  If a delegate conducting the review of a determination under subsection 10(2) requests the Commission to conduct the review, the Commission, instead of the delegate, must conduct the review.
+to the public.
 
-## Part 4—The Commission’s procedure
+</dd> </dl></dl>
 
-### Division 1—General
+<center>Back to Top</center>
 
-##### <a id="27A"></a>27A  Meetings of Commission
+**
 
-             (1)  Subject to subsection (2), meetings of the Commission are to be held at such times and places as the Commission from time to time determines.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 24  Decisions on applications for variation 
+**
 
-             (2)  The Chairperson may at any time convene a meeting.
+ <dl compact=""><dl compact="">
 
-             (3)  The Chairperson is to preside at any meeting at which he or she is present.
+<dt>(1)</dt><dd>Subject to this section, the Commission must, having conducted a review to
 
-             (4)  If the Chairperson is not present at a meeting, the members present are to appoint one of them to preside at the meeting.
+decide an application (other than a transfer application) for a determination
 
-             (5)  At a meeting:
+to be varied, make a decision:
 
-                     (a)  2 members form a quorum; and
+</dd> </dl></dl>
 
-                     (b)  a question is to be decided by a majority of the votes of the members present and voting; and
+	(a)	confirming the determination; or
+ 	(b)	varying the determination in a way that gives effect to the variation requested in the application.
 
-                     (c)  the member presiding has a deliberative vote but does not have a casting vote.
+<dl compact=""><dl compact="">
 
-             (6)  The preceding provisions of this section apply to a hearing held by the Commission as if the hearing were a meeting of the Commission.
+<dt>(2)</dt><dd>Subject to subsection&#160;(3), the Commission must not make a decision
 
-             (7)  The Commission must cause minutes of its meetings to be kept.
+varying the determination in a way that varies, or has the effect of varying,
 
-##### <a id="28"></a>28  Commission to act informally etc.
+an allocation of capacity unless the Commission is satisfied that the
 
-                   In performing its functions, the Commission:
+allocation, as so varied, would be of benefit to the public.</dd> <dt>(3)</dt><dd>If: </dd> </dl></dl>
 
-                     (a)  must act with as little formality as possible; and
+	(a)	an Australian carrier to which a determination allocates capacity applies in accordance with section&#160;21 for the determination to be varied; and
+ 	(b)	the only effect of the variation would be to reduce the capacity allocated to the carrier;
 
-                     (b)  must act as quickly as is appropriate given the requirements of this Part and the need properly to consider a matter before it; and
+the Commission must vary the determination as requested in the application. 
 
-                     (c)  may decide a matter before it without holding a hearing; and
+**
 
-                     (d)  is not bound by the rules of evidence; and
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 25  Decisions on transfer applications 
+**
 
-                     (e)  may inform itself on anything relevant to a matter before it in any way it thinks fit; and
+ <dl compact=""><dl compact="">
 
-                      (f)  may receive information or submissions orally or by written statements; and
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), the Commission must, having conducted a
 
-                     (g)  may, in respect of a matter before it, consult such persons as it thinks fit.
+review to decide a transfer application, make a decision varying the
 
-### Division 2—Hearings
+determination concerned in a way that gives effect to the variation requested
 
-##### <a id="30"></a>30  Commission may hold hearings
+in the transfer application.</dd> <dt>(2)</dt><dd>The Commission must not make a decision varying the determination in a way that varies, or has the effect of varying, an allocation of capacity if the Commission is satisfied that the allocation, as so varied, would not be of benefit to the public. </dd> </dl></dl>
 
-             (1)  For the purposes of the performance of its functions, the Commission may hold hearings.
+**
 
-             (2)  This Division applies to any hearing held by the Commission for the purpose of considering a matter or matters before it.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 26  Assessments of public benefit 
+**
 
-##### <a id="31"></a>31  Evidence on oath etc.
+ <dl compact=""><dl compact="">
 
-                   The Commission may take evidence at the hearing on oath or affirmation, and any member may administer an oath or affirmation for that purpose.
+		In assessing the benefit to the public of a variation of an allocation of
 
-##### <a id="32"></a>32  Representation
+capacity, the Commission must apply the criteria set out for that purpose in
 
-             (1)  If a party to the proceedings is a body corporate, the party may be represented at the hearing by an employee or an officer of the body corporate or, if the Commission permits, by another person.
+any policy statements made by the Minister under section&#160;11.
 
-             (2)  A party to the proceedings (other than a party referred to in subsection (1)) may, if the Commission permits, be represented at the hearing by another person.
+ </dl></dl>
 
-##### <a id="33"></a>33  Hearings to be public except in special circumstances
+**
 
-             (1)  Subject to subsection (2), the hearing is to be conducted in public.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 27  Notification of decisions 
+**
 
-             (2)  If the Commission is satisfied that:
+ <dl compact=""><dl compact="">
 
-                     (a)  it is desirable because of the confidential nature of any evidence or matter; or
+		As soon as practicable after the making of a decision on a review of a
 
-                     (b)  it is, for any other reason, in the public interest;
+determination, the Commission must:
+
+ </dl></dl>
+
+	(a)	make copies of the decision and its reasons for the decision available to the public; and
+ 	(b)	publish a notice stating:
+ 	(i)	that the decision has been made; and
+ 	(ii)	where copies of the decision and reasons may be obtained.
+
+<center>**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<division>Division&#160;4&#151;Surrender of allocated capacity </division> 
+**</center>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 27AA  Surrender of allocated capacity 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>An Australian carrier to whom a determination allocates capacity may at
+
+any time request the Commission to revoke the determination.</dd> <dt>(2)</dt><dd>The request must: </dd> </dl></dl>
+
+	(a)	be in writing and contain the prescribed particulars; and
+ 	(b)	be delivered at the address specified in the regulations as the Commission's address for receiving applications.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>On receipt of a request in relation to a determination, the Commission
+
+must make a decision revoking the determination.</dd> <dt>(4)</dt><dd>As soon as practicable after making a decision revoking a determination under this section, the Commission must: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+	(a)	make copies of the decision available to the public; and
+ 	(b)	publish a notice stating that the decision has been made and where copies of it may be obtained.
+
+<center>**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<part>Part&#160;3A&#151;Delegation of Commission's powers and functions </part>
+**</center>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 27AB  Delegation of powers and functions 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to this section, the Commission may delegate, to an APS employee
+
+in the Department, the Commission's powers or functions under any one or more
+
+of the following provisions:
+
+</dd> </dl></dl>
+
+	(a)	section&#160;7, 8, 16, 20, 27 or 27AA;
+ 	(b)	subsection 10(2), 12(1), 14(3), 17(1) or (2), 18(1), (2) or (3) or 22(1).
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The delegation must be in writing and may only be made with the written
+
+agreement of the Secretary.</dd> <dt>(3)</dt><dd>The regulations may provide that the Commission may only delegate a power or a function in specified circumstances.</dd> <dt>(4)</dt><dd>If a delegate conducts the review of a determination under subsection 10(2), sections&#160;24, 25 and 26 apply to the delegate in relation to the review in the same way as those sections would have applied to the Commission if the Commission had conducted the review.</dd> <dt>(5)</dt><dd>If a delegate conducting the review of a determination under subsection 10(2) requests the Commission to conduct the review, the Commission, instead of the delegate, must conduct the review. </dd> </dl></dl>
+
+<center>**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<part>Part&#160;4&#151;The Commission's procedure </part>
+**</center>
+
+<center>**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<division>Division&#160;1&#151;General </division> 
+**</center>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 27A  Meetings of Commission 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), meetings of the Commission are to be held
+
+at such times and places as the Commission from time to time determines.</dd> <dt>(2)</dt><dd>The Chairperson may at any time convene a meeting.</dd> <dt>(3)</dt><dd>The Chairperson is to preside at any meeting at which he or she is present.</dd> <dt>(4)</dt><dd>If the Chairperson is not present at a meeting, the members present are to appoint one of them to preside at the meeting.</dd> <dt>(5)</dt><dd>At a meeting: </dd> </dl></dl>
+
+	(a)	2 members form a quorum; and
+ 	(b)	a question is to be decided by a majority of the votes of the members present and voting; and
+ 	(c)	the member presiding has a deliberative vote but does not have a casting vote.
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>The preceding provisions of this section apply to a hearing held by the
+
+Commission as if the hearing were a meeting of the Commission.</dd> <dt>(7)</dt><dd>The Commission must cause minutes of its meetings to be kept. </dd> </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 28  Commission to act informally etc. 
+**
+
+ <dl compact=""><dl compact="">
+
+		In performing its functions, the Commission:
+
+ </dl></dl>
+
+	(a)	must act with as little formality as possible; and
+ 	(b)	must act as quickly as is appropriate given the requirements of this Part and the need properly to consider a matter before it; and
+ 	(c)	may decide a matter before it without holding a hearing; and
+ 	(d)	is not bound by the rules of evidence; and
+ 	(e)	may inform itself on anything relevant to a matter before it in any way it thinks fit; and
+ 	(f)	may receive information or submissions orally or by written statements; and
+ 	(g)	may, in respect of a matter before it, consult such persons as it thinks fit.
+
+<center>Back to Top</center>
+
+<center>**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<division>Division&#160;2&#151;Hearings </division> 
+**</center>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 30  Commission may hold hearings 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of the performance of its functions, the Commission may
+
+hold hearings.</dd> <dt>(2)</dt><dd>This Division applies to any hearing held by the Commission for the purpose of considering a matter or matters before it. </dd> </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 31  Evidence on oath etc. 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Commission may take evidence at the hearing on oath or affirmation, and
+
+any member may administer an oath or affirmation for that purpose.
+
+ </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 32  Representation 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If a party to the proceedings is a body corporate, the party may be
+
+represented at the hearing by an employee or an officer of the body corporate
+
+or, if the Commission permits, by another person.</dd> <dt>(2)</dt><dd>A party to the proceedings (other than a party referred to in subsection&#160;(1)) may, if the Commission permits, be represented at the hearing by another person. </dd> </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 33  Hearings to be public except in special circumstances 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), the hearing is to be conducted in
+
+public.</dd> <dt>(2)</dt><dd>If the Commission is satisfied that: </dd> </dl></dl>
+
+	(a)	it is desirable because of the confidential nature of any evidence or matter; or
+ 	(b)	it is, for any other reason, in the public interest;
 
 the Commission may:
 
-                     (c)  decide that a hearing or part of a hearing take place in private and decide which persons may be present; or
+	(c)	decide that a hearing or part of a hearing take place in private and decide which persons may be present; or
+ 	(d)	give directions prohibiting or restricting publication or disclosure:
+ 	(i)	of evidence given at a hearing, whether in public or in private; or
+ 	(ii)	of any matters contained in documents received in evidence or otherwise obtained by the Commission.
 
-                     (d)  give directions prohibiting or restricting publication or disclosure:
+<dl compact=""><dl compact="">
 
-                              (i)  of evidence given at a hearing, whether in public or in private; or
+<dt>(3)</dt><dd>A person must not contravene a direction under paragraph&#160;(2)(d).
 
-                             (ii)  of any matters contained in documents received in evidence or otherwise obtained by the Commission.
+</dd> </dl></dl>
 
-             (3)  A person must not contravene a direction under paragraph (2)(d).
+Penalty:	$5,000\. 
 
-                    Penalty:  $5,000.
+**
 
-##### <a id="34"></a>34  Summons to give evidence
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 34  Summons to give evidence 
+**
 
-                   A member may summon a person to appear at the hearing:
+ <dl compact=""><dl compact="">
 
-                     (a)  to give evidence to the Commission; and
+		A member may summon a person to appear at the hearing:
 
-                     (b)  to produce such documents as are referred to in the summons.
+ </dl></dl>
 
-##### <a id="35"></a>35  Failure of witness to attend
+	(a)	to give evidence to the Commission; and
+ 	(b)	to produce such documents as are referred to in the summons. 
 
-             (1)  A person summoned to appear as a witness before the Commission must not:
+**
 
-                     (a)  fail to attend as required by the summons; or
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 35  Failure of witness to attend 
+**
 
-                     (b)  fail to appear and report from day to day.
+ <dl compact=""><dl compact="">
 
-                    Penalty:  $3,000.
+<dt>(1)</dt><dd>A person summoned to appear as a witness before the Commission must not:
 
-             (2)  Subsection (1) does not apply if the person has a reasonable excuse.
+</dd> </dl></dl>
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+	(a)	fail to attend as required by the summons; or
+ 	(b)	fail to appear and report from day to day.
 
-             (3)  An offence under paragraph (1)(a) is an offence of strict liability.
+Penalty:	$3,000.
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+<dl compact=""><dl compact="">
 
-             (4)  Paragraph (1)(b) does not apply if the person is excused or released from further attendance by a member of the Commission.
+<dt>(2)</dt><dd>Subsection&#160;(1) does not apply if the person has a reasonable excuse.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
+</dd> </dl></dl>
 
-##### <a id="36"></a>36  False information
+<dl compact=""><dl compact="">
 
-                   A person appearing as a witness before the Commission must not provide false or misleading information to the Commission.
+Note:	A defendant bears an evidential burden in relation to the
 
-                    Penalty:  Imprisonment for 12 months.
+matter in subsection&#160;(2) (see subsection 13.3(3) of the _Criminal Code_).
 
-##### <a id="37"></a>37  Refusal to provide information etc.
+ </dl></dl>
 
-             (1)  A person summoned to appear as a witness before the Commission must not fail:
+<center>Back to Top</center>
 
-                     (a)  to answer a question or provide information as required by a member of the Commission; or
+<dl compact=""><dl compact="">
 
-                     (b)  to produce a document as required by a summons served under section 34.
+<dt>(3)</dt><dd>An offence under paragraph&#160;(1)(a) is an offence of strict liability.
 
-                    Penalty:  $5,000.
+</dd> </dl></dl>
 
-             (2)  Subsection (1) does not apply if the person has a reasonable excuse.
+<dl compact=""><dl compact="">
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+Note:	For _strict liability_, see section&#160;6.1 of
 
-             (3)  An offence under subsection (1) is an offence of strict liability.
+the _Criminal Code_.
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+ </dl></dl>
 
-##### <a id="38"></a>38  Allowances to witnesses
+<dl compact=""><dl compact="">
 
-                   A person summoned to appear as a witness before the Commission is entitled to be paid:
+<dt>(4)</dt><dd>Paragraph&#160;(1)(b) does not apply if the person is excused or released
 
-                     (a)  if the witness was summoned on the application of a party to the proceedings—by that party; or
+from further attendance by a member of the Commission.
 
-                     (b)  in any other case—by the Commonwealth;
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matter in subsection&#160;(4) (see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 36  False information 
+**
+
+ <dl compact=""><dl compact="">
+
+		A person appearing as a witness before the Commission must not provide false
+
+or misleading information to the Commission.
+
+ </dl></dl>
+
+Penalty:	Imprisonment for 12 months. 
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 37  Refusal to provide information etc. 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person summoned to appear as a witness before the Commission must not
+
+fail:
+
+</dd> </dl></dl>
+
+	(a)	to answer a question or provide information as required by a member of the Commission; or
+ 	(b)	to produce a document as required by a summons served under section&#160;34.
+
+Penalty:	$5,000.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection&#160;(1) does not apply if the person has a reasonable excuse.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matter in subsection&#160;(2) (see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>An offence under subsection&#160;(1) is an offence of strict liability.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	For _strict liability_, see section&#160;6.1 of
+
+the _Criminal Code_.
+
+ </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 38  Allowances to witnesses 
+**
+
+ <dl compact=""><dl compact="">
+
+		A person summoned to appear as a witness before the Commission is entitled to
+
+be paid:
+
+ </dl></dl>
+
+	(a)	if the witness was summoned on the application of a party to the proceedings&#151;by that party; or
+ 	(b)	in any other case&#151;by the Commonwealth;
 
 such allowances for travelling and other expenses in relation to his or her attendance as are prescribed.
 
-## Part 5—Membership of the Commission
+<center>**
 
-##### <a id="39"></a>39  Constitution of Commission
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<part>Part&#160;5&#151;Membership of the Commission </part>
+**</center>
 
-             (1)  The Commission consists of the following members:
+**
 
-                     (a)  a Chairperson;
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 39  Constitution of Commission 
+**
 
-                     (b)  2 other members.
+ <dl compact=""><dl compact="">
 
-             (2)  The performance of a function or the exercise of a power by the Commission is not affected by a vacancy in the membership of the Commission.
+<dt>(1)</dt><dd>The Commission consists of the following members:
 
-##### <a id="40"></a>40  Appointment of members
+</dd> </dl></dl>
 
-             (1)  The members of the Commission are to be appointed by the Governor-General.
+<center>Back to Top</center>
 
-             (2)  A member may be appointed on a full-time or a part-time basis.
+	(a)	a Chairperson;
+ 	(b)	2 other members.
 
-             (3)  A member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as the Minister determines.
+<dl compact=""><dl compact="">
 
-##### <a id="41"></a>41  Qualification of members
+<dt>(2)</dt><dd>The performance of a function or the exercise of a power by the Commission
 
-                   The Governor-General must not appoint a person to the Commission unless the Governor-General is satisfied that the person is suitably qualified for appointment because of substantial experience or expertise in one or more of the following fields:
+is not affected by a vacancy in the membership of the Commission.
 
-                     (a)  law;
+</dd> </dl></dl>
 
-                     (b)  commerce;
+**
 
-                     (c)  business;
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 40  Appointment of members 
+**
 
-                     (d)  economics;
+ <dl compact=""><dl compact="">
 
-                     (e)  public administration.
+<dt>(1)</dt><dd>The members of the Commission are to be appointed by the
 
-##### <a id="42"></a>42  Term of appointment
+Governor-General.</dd> <dt>(2)</dt><dd>A member may be appointed on a full-time or a part-time basis.</dd> <dt>(3)</dt><dd>A member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as the Minister determines. </dd> </dl></dl>
 
-             (1)  A member is to be appointed for the period, not exceeding 5 years, as specified in the instrument of appointment.
+**
 
-             (2)  A member is eligible for re-appointment.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 41  Qualification of members 
+**
 
-##### <a id="43"></a>43  Remuneration and allowances
+ <dl compact=""><dl compact="">
 
-             (1)  The members are to be paid such remuneration as the Remuneration Tribunal determines.
+		The Governor-General must not appoint a person to the Commission unless the
 
-             (2)  The members are to be paid such allowances as are prescribed.
+Governor-General is satisfied that the person is suitably qualified for
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+appointment because of substantial experience or expertise in one or more of
 
-##### <a id="44"></a>44  Leave of absence
+the following fields:
 
-             (1)  If a member is appointed on a full-time basis, the member has such recreation leave entitlements as the Remuneration Tribunal determines.
+ </dl></dl>
 
-             (2)  The Minister may grant the Chairperson leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines in writing.
+	(a)	law;
+ 	(b)	commerce;
+ 	(c)	business;
+ 	(d)	economics;
+ 	(e)	public administration. 
 
-             (3)  The Chairperson may grant leave of absence to any other member on such terms and conditions as the Chairperson determines.
+**
 
-##### <a id="45"></a>45  Resignation
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 42  Term of appointment 
+**
 
-                   A member may resign from office by writing signed and delivered to the Governor-General.
+ <dl compact=""><dl compact="">
 
-##### <a id="46"></a>46  Termination of appointment
+<dt>(1)</dt><dd>A member is to be appointed for the period, not exceeding 5 years, as
 
-             (1)  The Governor-General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
+specified in the instrument of appointment.</dd> <dt>(2)</dt><dd>A member is eligible for re-appointment. </dd> </dl></dl>
 
-             (2)  The Governor-General may terminate the appointment of a member if the member:
+**
 
-                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 43  Remuneration and allowances 
+**
 
-                     (b)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
+ <dl compact=""><dl compact="">
 
-                     (c)  fails, without reasonable excuse, to comply with his or her obligations under section 47.
+<dt>(1)</dt><dd>The members are to be paid such remuneration as the Remuneration Tribunal
 
-##### <a id="47"></a>47  Disclosure of interests
+determines.</dd> <dt>(2)</dt><dd>The members are to be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl></dl>
 
-             (1)  If a member has or acquires any interest, whether monetary or otherwise, that could conflict with the proper performance of his or her functions in relation to proceedings conducted by the Commission:
+**
 
-                     (a)  the member must disclose the interest to the other members and to any parties to the proceedings; and
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 44  Leave of absence 
+**
 
-                     (b)  except with the consent of the other members and the parties (if any), the member must not take part, or any further part, as the case may be, in the proceedings.
+ <dl compact=""><dl compact="">
 
-             (2)  If:
+<dt>(1)</dt><dd>If a member is appointed on a full-time basis, the member has such
 
-                     (a)  a member becomes aware that another member has, in relation to proceedings conducted by the Commission, an interest of a kind referred to in subsection (1); and
+recreation leave entitlements as the Remuneration Tribunal determines.</dd> <dt>(2)</dt><dd>The Minister may grant the Chairperson leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines in writing.</dd> <dt>(3)</dt><dd>The Chairperson may grant leave of absence to any other member on such terms and conditions as the Chairperson determines. </dd> </dl></dl>
 
-                     (b)  the other member has not disclosed the interest as required by paragraph (1)(a);
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 45  Resignation 
+**
+
+ <dl compact=""><dl compact="">
+
+		A member may resign from office by writing signed and delivered to the
+
+Governor-General.
+
+ </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 46  Termination of appointment 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Governor-General may terminate the appointment of a member for
+
+misbehaviour or physical or mental incapacity.</dd> <dt>(2)</dt><dd>The Governor-General may terminate the appointment of a member if the member: </dd> </dl></dl>
+
+	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an 
+<center>Back to Top</center>
+ assignment of remuneration for their benefit; or
+ 	(b)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
+ 	(c)	fails, without reasonable excuse, to comply with his or her obligations under section&#160;47\. 
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 47  Disclosure of interests 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If a member has or acquires any interest, whether monetary or otherwise,
+
+that could conflict with the proper performance of his or her functions in
+
+relation to proceedings conducted by the Commission:
+
+</dd> </dl></dl>
+
+	(a)	the member must disclose the interest to the other members and to any parties to the proceedings; and
+ 	(b)	except with the consent of the other members and the parties (if any), the member must not take part, or any further part, as the case may be, in the proceedings.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	a member becomes aware that another member has, in relation to proceedings conducted by the Commission, an interest of a kind referred to in subsection&#160;(1); and
+ 	(b)	the other member has not disclosed the interest as required by paragraph&#160;(1)(a);
 
 then:
 
-                     (c)  the first-mentioned member must tell the other member that he or she has become aware that the other member has the interest; and
+	(c)	the first-mentioned member must tell the other member that he or she has become aware that the other member has the interest; and
+ 	(d)	if the other member does not then disclose the interest as required by paragraph&#160;(1)(a), the first-mentioned member must disclose the interest to the remaining member (if any) and the parties (if any) to the proceedings; and
+ 	(e)	except with the consent of the other members and the parties (if any), the member who has the interest must not take part, or any further part, as the case may be, in the proceedings. 
 
-                     (d)  if the other member does not then disclose the interest as required by paragraph (1)(a), the first-mentioned member must disclose the interest to the remaining member (if any) and the parties (if any) to the proceedings; and
+**
 
-                     (e)  except with the consent of the other members and the parties (if any), the member who has the interest must not take part, or any further part, as the case may be, in the proceedings.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 48  Acting appointments 
+**
 
-##### <a id="48"></a>48  Acting appointments
+ <dl compact=""><dl compact="">
 
-             (1)  The Minister may appoint a person to act as Chairperson:
+<dt>(1)</dt><dd>The Minister may appoint a person to act as Chairperson:
 
-                     (a)  during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
+</dd> </dl></dl>
 
-                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia, or is for any other reason unable to perform the functions of the office.
+	(a)	during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
+ 	(b)	during any period, or during all periods, when the Chairperson is absent from duty or from Australia, or is for any other reason unable to perform the functions of the office.
 
-             (2)  The Minister may appoint a person other than the Chairperson to act as a member:
+<dl compact=""><dl compact="">
 
-                     (a)  during a vacancy in the office of that member, whether or not an appointment has previously been made to the office; or
+<dt>(2)</dt><dd>The Minister may appoint a person other than the Chairperson to act as a
 
-                     (b)  during any period, or during all periods, when that member is absent from Australia or is, for any reason, unable to perform the duties of the office.
+member:
 
-             (3)  Anything done by or in relation to a person purporting to act under this section is not invalid on the ground that:
+</dd> </dl></dl>
 
-                     (a)  the occasion for the person’s appointment had not arisen; or
+	(a)	during a vacancy in the office of that member, whether or not an appointment has previously been made to the office; or
+ 	(b)	during any period, or during all periods, when that member is absent from Australia or is, for any reason, unable to perform the duties of the office.
 
-                     (b)  there is a defect or irregularity in connection with the appointment; or
+<dl compact=""><dl compact="">
 
-                     (c)  the appointment had ceased to have effect; or
+<dt>(3)</dt><dd>Anything done by or in relation to a person purporting to act under this
 
-                     (d)  the occasion for the person to act had not arisen or had ceased.
+section is not invalid on the ground that:
 
-Note:          See section 33A of the _Acts Interpretation Act 1901_ for acting appointments.
+</dd> </dl></dl>
 
-## Part 6—Miscellaneous
+	(a)	the occasion for the person's appointment had not arisen; or
+ 	(b)	there is a defect or irregularity in connection with the appointment; or
+ 	(c)	the appointment had ceased to have effect; or
+ 	(d)	the occasion for the person to act had not arisen or had ceased.
 
-##### <a id="49"></a>49  Register of available capacity
+<dl compact=""><dl compact="">
 
-             (1)  The Secretary must cause a register of all available capacity to be prepared and kept up to date.
+Note:	See section&#160;33A of the _Acts Interpretation Act 1901_ for acting appointments.
 
-             (3)  The Secretary must take all reasonable steps to ensure that the register is available for inspection by any person without charge.
+ </dl></dl>
 
-##### <a id="50"></a>50  Secretary to notify Commission of making etc. of operational decisions
+<center>**
 
-                   If:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<part>Part&#160;6&#151;Miscellaneous </part>
+**</center>
 
-                     (a)  a determination of the Commission allocating particular capacity is in force; and
+<center>Back to Top</center>
 
-                     (b)  the Secretary makes, or decides not to make, an operational decision relating to that capacity;
+**
 
-the Secretary must give written notice to the Commission of the operational decision or of the decision not to make the operational decision.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 49  Register of available capacity 
+**
 
-##### <a id="51"></a>51  Protection of members etc.
+ <dl compact=""><dl compact="">
 
-             (1)  A member has, in the performance of his or her duty as a member, the same protection and immunity as a Justice of the High Court.
+<dt>(1)</dt><dd>The Secretary must cause a register of all available capacity to be
 
-             (2)  A legal practitioner or other person appearing before the Commission has the same protection and immunity as a barrister has in appearing for a party in proceedings in the High Court.
+prepared and kept up to date.</dd> <dt>(3)</dt><dd>The Secretary must take all reasonable steps to ensure that the register is available for inspection by any person without charge. </dd> </dl></dl>
 
-             (3)  A person summoned to attend before or appearing before the Commission as a witness has the same protection, and is, in addition to the penalties provided by this Act, subject to the same liabilities, as a witness in proceedings in the High Court.
+**
 
-##### <a id="52"></a>52  Publication of notices
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 50  Secretary to notify Commission of making etc. of operational decisions 
+**
 
-                   Notices issued under subsection 12(1), section 16, subsection 17(2) or 18(3), section 20, subsection 22(1), section 27 or 27AA must be published:
+<dl compact=""><dl compact="">
 
-                     (a)  in the way provided for in the regulations; or
+		If:
 
-                     (b)  if the regulations do not so provide—in the way the Commission thinks appropriate.
+ </dl></dl>
 
-##### <a id="53"></a>53  Annual report
+	(a)	a determination of the Commission allocating particular capacity is in force; and
+ 	(b)	the Secretary makes, or decides not to make, an operational decision relating to that capacity;
 
-             (1)  The Commission must, as soon as practicable after the end of each financial year, prepare and give to the Minister a report of its operations during the financial year.
+the Secretary must give written notice to the Commission of the operational decision or of the decision not to make the operational decision. 
 
-             (2)  The Minister must cause a copy of each such report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister received the report.
+**
 
-##### <a id="54"></a>54  Pre-existing capacity
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 51  Protection of members etc. 
+**
 
-             (1)  In this section:
+ <dl compact=""><dl compact="">
 
-                    <a name="pre-existing-capac"></a>**_pre-existing capacity_** means capacity that came into existence before the commencement of this Act.
+<dt>(1)</dt><dd>A member has, in the performance of his or her duty as a member, the same
 
-             (2)  The Minister may, by legislative instrument, declare that this Act applies to the pre-existing capacity specified in the instrument as if, immediately after the commencement of this Act, the Commission had made a determination in the terms set out in the instrument.
+protection and immunity as a Justice of the High Court.</dd> <dt>(2)</dt><dd>A legal practitioner or other person appearing before the Commission has the same protection and immunity as a barrister has in appearing for a party in proceedings in the High Court.</dd> <dt>(3)</dt><dd>A person summoned to attend before or appearing before the Commission as a witness has the same protection, and is, in addition to the penalties provided by this Act, subject to the same liabilities, as a witness in proceedings in the High Court. </dd> </dl></dl>
 
-             (3)  Subject to subsection (5), this Act (other than section 7 and Division 1 of Part 3) has effect in relation to that capacity as if the Commission had made a determination accordingly.
+**
 
-             (4)  The terms set out in the instrument as the terms and conditions of the determination:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 52  Publication of notices 
+**
 
-                     (a)  subject to subsection (5), may include a statement to the effect that the determination is an interim determination; and
+ <dl compact=""><dl compact="">
 
-                     (b)  must specify as the period during which the determination is to be in force:
+		Notices issued under subsection 12(1), section&#160;16, subsection 17(2) or
 
-                              (i)  if the determination is an interim determination—the period of 3 years starting on 1 July 1992; or
+18(3), section&#160;20, subsection 22(1), section&#160;27 or 27AA must be
 
-                             (ii)  if the determination is not an interim determination—the period of 5 years starting on 1 July 1992.
+published:
 
-             (5)  A statement may not be included under paragraph (4)(a) in relation to capacity in relation to which operational decisions were in force on 26 February 1992.
+ </dl></dl>
 
-##### <a id="54A"></a>54A  Pre-existing capacity under special bilateral arrangement
+	(a)	in the way provided for in the regulations; or
+ 	(b)	if the regulations do not so provide&#151;in the way the Commission thinks appropriate. 
 
-             (1)  In this section:
+**
 
-                    <a name="pre-existing-capac"></a>**_pre-existing capacity_** means capacity:
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 53  Annual report 
+**
 
-                     (a)  that came into existence before the commencement of this section; and
+ <dl compact=""><dl compact="">
 
-                     (b)  to which an agreement or arrangement entered into between:
+<dt>(1)</dt><dd>The Commission must, as soon as practicable after the end of each
 
-                              (i)  an entity or organisation nominated or otherwise similarly authorised by Australia; and
+financial year, prepare and give to the Minister a report of its operations
 
-                             (ii)  another country;
+during the financial year.</dd> <dt>(2)</dt><dd>The Minister must cause a copy of each such report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister received the report. </dd> </dl></dl>
 
-                            relates.
+**
 
-             (2)  The Minister may, by legislative instrument, declare that this Act applies to the pre-existing capacity referred to in the declaration as if, immediately after the commencement of this section, the Commission had made a determination in the terms set out in the declaration.
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 54  Pre-existing capacity 
+**
 
-             (3)  This Act (other than section 7 and Division 1 of Part 3) has effect in relation to that capacity as if the Commission had made a determination accordingly.
+ <dl compact=""><dl compact="">
 
-             (4)  The terms set out in the declaration as the terms and conditions of the determination:
+<dt>(1)</dt><dd>In this section:
 
-                     (a)  may include a statement to the effect that the determination is an interim determination; and
+</dd> </dl></dl>
 
-                     (b)  must state as the period during which the determination is to be in force:
+<def><dl compact=""><dl compact="">
 
-                              (i)  if the determination is an interim determination—the period of 3 years starting on the date of commencement of this section; or
+_pre-existing capacity_ means capacity that came into existence
 
-                             (ii)  otherwise—the period of 5 years starting on that date.
+before the commencement of this Act.
 
-##### <a id="54B"></a>54B  Pre-existing capacity
+ </dl></dl>
 
-             (1)  In this section:
+<dl compact=""><dl compact="">
 
-                    <a name="pre-existing-capac"></a>**_pre-existing capacity_** means capacity that came into existence before the commencement of this section, other than pre-existing capacity to which section 54 or 54A applies.
+<dt>(2)</dt><dd>The Minister may, by instrument in writing, declare that this Act applies
 
-             (2)  The Minister may, by legislative instrument, declare that this Act applies to the pre-existing capacity specified in the instrument as if, immediately after the commencement of this section, the Commission had made a determination in the terms set out in the instrument.
+to the pre-existing capacity specified in the instrument as if, immediately
 
-             (3)  This Act (other than section 7 and Division 1 of Part 3) has effect in relation to that capacity as if the Commission had made a determination accordingly.
+after the commencement of this Act, the Commission had made a determination in
 
-             (4)  The terms set out in the instrument as the terms and conditions of the determination must state that the determination is to be in force for the period of 5 years starting on the date of commencement of this section.
+the terms set out in the instrument.</dd> <dt>(3)</dt><dd>Subject to subsection&#160;(5), this Act (other than section&#160;7 and Division&#160;1 of Part&#160;3) has effect in relation to that capacity as if the Commission had made a determination accordingly.</dd> <dt>(4)</dt><dd>The terms set out in the instrument as the terms and conditions of the determination: </dd> </dl></dl>
 
-##### <a id="55"></a>55  Regulations
+<center>Back to Top</center>
 
-             (1)  The Governor-General may make regulations prescribing matters:
+	(a)	subject to subsection&#160;(5), may include a statement to the effect that the determination is an interim determination; and
+ 	(b)	must specify as the period during which the determination is to be in force:
+ 	(i)	if the determination is an interim determination&#151;the period of 3 years starting on 1&#160;July 1992; or
+ 	(ii)	if the determination is not an interim determination&#151;the period of 5 years starting on 1&#160;July 1992.
 
-                     (a)  required or permitted by this Act to be prescribed; or
+<dl compact=""><dl compact="">
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+<dt>(5)</dt><dd>A statement may not be included under paragraph&#160;(4)(a) in relation to
 
-             (2)  In particular, the Governor-General may make regulations providing for procedures to be followed by the Commission in performing its functions, including time limits within which such procedures must be completed. 
+capacity in relation to which operational decisions were in force on
 
-# Notes to the _International Air Services Commission Act 1992_
+26&#160;February 1992.</dd> <dt>(6)</dt><dd>Instruments under subsection&#160;(2) are disallowable instruments for the purposes of section&#160;46A of the _Acts Interpretation Act 1901._ </dd> </dl></dl>
 
-### Note 1
+**
 
-The _International Air Services Commission Act 1992_ as shown in this compilation comprises Act No. 103, 1992 amended as indicated in the Tables below. 
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 54A  Pre-existing capacity under special bilateral arrangement 
+**
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+<dl compact=""><dl compact="">
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+<dt>(1)</dt><dd>In this section:
 
-### Table of Acts
+</dd> </dl></dl>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="23%">
-  <col width="14%">
-</colgroup>
+<def><dl compact=""><dl compact="">
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+_pre-existing capacity_ means capacity:
+
+ </dl></dl>
+
+	(a)	that came into existence before the commencement of this section; and
+ 	(b)	to which an agreement or arrangement entered into between:
+ 	(i)	an entity or organisation nominated or otherwise similarly authorised by Australia; and
+ 	(ii)	another country;
+ 		relates.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Minister may declare in writing that this Act applies to the
+
+pre-existing capacity referred to in the declaration as if, immediately after
+
+the commencement of this section, the Commission had made a determination in
+
+the terms set out in the declaration.</dd> <dt>(3)</dt><dd>This Act (other than section&#160;7 and Division&#160;1 of Part&#160;3) has effect in relation to that capacity as if the Commission had made a determination accordingly.</dd> <dt>(4)</dt><dd>The terms set out in the declaration as the terms and conditions of the determination: </dd> </dl></dl>
+
+	(a)	may include a statement to the effect that the determination is an interim determination; and
+ 	(b)	must state as the period during which the determination is to be in force:
+ 	(i)	if the determination is an interim determination&#151;the period of 3 years starting on the date of commencement of this section; or
+ 	(ii)	otherwise&#151;the period of 5 years starting on that date.
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>Declarations under subsection&#160;(2) are disallowable instruments for
+
+the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+
+</dd> </dl></dl>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 54B  Pre-existing capacity 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_pre-existing capacity_ means capacity that came into existence
+
+before the commencement of this section, other than pre-existing capacity to
+
+which section&#160;54 or 54A applies.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Minister may, by instrument in writing, declare that this Act applies
+
+to the pre-existing capacity specified in the instrument as if, immediately
+
+after the commencement of this section, the Commission had made a determination
+
+in the terms set out in the instrument.</dd> <dt>(3)</dt><dd>This Act (other than section&#160;7 and Division&#160;1 of Part&#160;3) has effect in relation to that capacity as if the Commission had made a determination accordingly.</dd> <dt>(4)</dt><dd>The terms set out in the instrument as the terms and conditions of the determination must state that the determination is to be in force for the period of 5 years starting on the date of commencement of this section.</dd> <dt>(5)</dt><dd>Instruments under subsection&#160;(2) are disallowable instruments for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992- SECT 55  Regulations 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Governor-General may make regulations prescribing matters:
+
+</dd> </dl></dl>
+
+	(a)	required or permitted by this Act to be prescribed; or
+ 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>In particular, the Governor-General may make regulations providing for
+
+procedures to be followed by the Commission in performing its functions,
+
+including time limits within which such procedures must be completed. 
+
+</dd> </dl></dl>
+
+<center>**
+
+###  INTERNATIONAL AIR SERVICES COMMISSION ACT 1992<centreit>Notes to the _International Air Services Commission Act 1992_ </centreit>
+**</center>
+
+**Note 1**
+
+The _International Air Services Commission Act 1992_ as shown in this compilation comprises Act No.&#160;103, 1992 amended as indicated in the Tables below. 
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+ For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No.&#160;55, 2001.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>International Air Services Commission Act 1992</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>International Air Services Commission Act 1992</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>103, 1992</div>
+
   </td>
-  <td>
-    <div>30 June 1992</div>
+  <td colspan="1" align="left">
+    <div>30&#160;June 1992</div>
+
   </td>
-  <td>
-    <div>1 July 1992</div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 1992</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>International Air Services Commission Amendment Act 1994</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>International Air Services Commission Amendment Act 1994</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>139, 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>28 Nov 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>28 Nov 1994</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment Act (No. 1) 1998</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Aviation Legislation Amendment Act (No.&#160;1) 1998</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>95, 1998</div>
+
   </td>
-  <td>
-    <div>23 July 1998</div>
+  <td colspan="1" align="left">
+    <div>23&#160;July 1998</div>
+
   </td>
-  <td>
-    <div>Schedule 5 (items 1–22): 24 Jan 1999 <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 5 (items 1-22): 24 Jan 1999 <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>146, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>11 Nov 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 1 (item 550): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1 (item&#160;550): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Corporations (Repeals, Consequentials and Transitionals) Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>55, 2001</div>
+
   </td>
-  <td>
-    <div>28 June 2001</div>
+  <td colspan="1" align="left">
+    <div>28&#160;June 2001</div>
+
   </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (item 303): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(c)</i></div>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14 and Schedule&#160;3 (item&#160;303): 15&#160;July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(c)</i></div>
+
   </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>143, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Aviation Legislation Amendment Act 2002</div>
-    </td>
-    <td>
-      <div>143, 2002</div>
-    </td>
-    <td>
-      <div>19 Dec 2002</div>
-    </td>
-    <td>
-      <div>Schedule 1: 19 June 2003 
-Remainder: Royal Assent</div>
-    </td>
-    <td>
-      <div>Sch. 1 (items 7, 8)\[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006</div>
-    </td>
-    <td>
-      <div>109, 2006</div>
-    </td>
-    <td>
-      <div>27 Sept 2006</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 23–30): 
- Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14</div>
 
-_(a)_     The _International Air Services Commission Act 1992_ was amended by Schedule 5 (items 
- 1–22) only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsections 2(1) and (3) of which provide as follows:
-
-                 (1)   Subject to subsections (2) and (3), Schedule 1 (other than items 9, 10 and 11) and Schedule 5 commence on a day or days to be fixed by Proclamation.
-
-                 (3)   If Schedule 5 does not commence under subsection (1) within 6 months after the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
-
-_(b)_    The _International Air Services Commission Act 1992_ was amended by Schedule 1 (item 550) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                 (2)   Subject to this section, this Act commences at the commencing time.
-
-_(c)_ The _International Air Services Commission Act 1992_ was amended by Schedule 3 (item 303) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rs. No. 143, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>143, 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>2 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
     <div>S. 4</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Aviation Legislation Amendment Act 2002</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>143, 2002</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>19 Dec 2002</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Schedule&#160;1: 19&#160;June 2003 
+Remainder: Royal Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Sch. 1 (items&#160;7, 8)\[ <i>see</i>Table A]</div>
+
+  </th>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _International Air Services Commission Act 1992_ was amended by Schedule&#160;5 (items&#160;
+1-22) only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsections 2(1) and (3) of which provide as follows:
+
+	(1)	Subject to subsections&#160;(2) and (3), Schedule&#160;1 (other than items&#160;9, 10 and 11) and Schedule&#160;5 commence on a day or days to be fixed by Proclamation.
+ 	(3)	If Schedule&#160;5 does not commence under subsection&#160;(1) within 6 months after the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+
+_(b)_	The _International Air Services Commission Act 1992_ was amended by Schedule&#160;1 (item&#160;550) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time.
+
+_(c)_ The _International Air Services Commission Act 1992_ was amended by Schedule&#160;3 (item&#160;303) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+	(3)	Subject to subsections&#160;(4) to (10), Schedule&#160;3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 3</div>
+
   </td>
-  <td>
-    <div>am. No. 139, 1994; No. 95, 1998; No. 55, 2001; No. 143, 2002</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;143, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;139, 1994; No.&#160;95, 1998; No.&#160;55, 2001; No.&#160;143, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Heading to s. 5</div>
+
   </td>
-  <td>
-    <div>rs. No. 95, 1998</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;95, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
-    <div>am No. 139, 1994; No. 95, 1998</div>
+  <td colspan="1" align="left">
+    <div>am No.&#160;139, 1994; No.&#160;95, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5A</div>
+
   </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 6, 7</div>
+
   </td>
-  <td>
-    <div>am No. 139, 1994; No. 95, 1998</div>
+  <td colspan="1" align="left">
+    <div>am No.&#160;139, 1994; No.&#160;95, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 9</div>
+
   </td>
-  <td>
-    <div>am. No. 139, 1994</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 11</div>
+
   </td>
-  <td>
-    <div>am. No. 139, 1994; No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 12</div>
+
   </td>
-  <td>
-    <div>am. No. 95, 1998; No. 143, 2002</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1998; No.&#160;143, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 13</div>
+
   </td>
-  <td>
-    <div>rep. No. 95, 1998</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;95, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 14</div>
+
   </td>
-  <td>
-    <div>am. No. 95, 1998</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 15</div>
+
   </td>
-  <td>
-    <div>am. No. 139, 1994</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 16</div>
+
   </td>
-  <td>
-    <div>rs. No. 139, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17</div>
+
   </td>
-  <td>
-    <div>am. No. 143, 2002</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;143, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 20</div>
+
   </td>
-  <td>
-    <div>rs. No. 139, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 22</div>
+
   </td>
-  <td>
-    <div>am. No. 139, 1994</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 24</div>
+
   </td>
-  <td>
-    <div>am. No. 139, 1994</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 27</div>
+
   </td>
-  <td>
-    <div>rs. No. 139, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 95, 1998</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 1998</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Division&#160;4 (s. 27AA)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;95, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 27AA</div>
+
   </td>
-  <td>
-    <div>ad. No. 95, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3A</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>ad No.&#160;95, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Part 3A</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part&#160;3A (s. 27AB)</div>
+
   </td>
-  <td>
-    <div>ad. No. 143, 2002</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;143, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 27AB</div>
+
   </td>
-  <td>
-    <div>ad. No. 143, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;143, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 27A</div>
+
   </td>
-  <td>
-    <div>ad. No. 139, 1994</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 29</div>
+
   </td>
-  <td>
-    <div>rep. No. 139, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 30</div>
+
   </td>
-  <td>
-    <div>rs. No. 139, 1994</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 33</div>
+
   </td>
-  <td>
-    <div>am. No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 34</div>
+
   </td>
-  <td>
-    <div>am. No. 139, 1994</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 35</div>
+
   </td>
-  <td>
-    <div>rs. No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 36, 37</div>
+
   </td>
-  <td>
-    <div>am. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 39</div>
+
   </td>
-  <td>
-    <div>am. No. 139, 1994</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 44</div>
+
   </td>
-  <td>
-    <div>am. No. 146, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;146, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 47</div>
+
   </td>
-  <td>
-    <div>rs. No. 139, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 50</div>
+
   </td>
-  <td>
-    <div>rs. No. 139, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;139, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 54A</div>
+
   </td>
-  <td>
-    <div>ad. No. 139, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54B</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;139, 1994</div>
+
   </td>
 </tr></table>
 
-## Table A
+<center>**
 
-### Application, saving or transitional provisions
+###  Table A 
+**</center>
 
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
+**Table A**
 
-##### <a id="4"></a>4  Application of Amendments
+**Application, saving or transitional provisions**
 
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001_(No.&#160;143, 2001) 
 
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+**4  Application of Amendments**
 
-* * *
+<dl compact=""><dl compact="">
 
-_Aviation Legislation Amendment Act 2002 (No. 143, 2002)_
+<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
 
-## Schedule 1
+place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl></dl>
 
-## 7  Application—paragraph 12(1)(b) of the _International Air Services Commission Act 1992_
+_Aviation Legislation Amendment Act 2002_(No.&#160;143, 2002)
 
-The amendment made by item 4 of this Schedule applies to the making of determinations allocating capacity after the commencement of that item, except where applications for a determination allocating the capacity were invited before the commencement of that item.
+**Schedule&#160;1** **7  Application&#151;paragraph 12(1)(b) of the _International Air Services Commission Act 1992_** The amendment made by item&#160;4 of this Schedule applies to the making of determinations allocating capacity after the commencement of that item, except where applications for a determination allocating the capacity were invited before the commencement of that item.
 
-## 8  Application—section 17 of the _International Air Services Commission Act 1992_
+**8  Application&#151;section&#160;17 of the _International Air Services Commission Act 1992_**
 
-The amendment made by item 5 of this Schedule applies to the renewal of determinations after the commencement of that item, except where the Commission has invited submissions about the renewal before the commencement of that item.
+The amendment made by item&#160;5 of this Schedule applies to the renewal of determinations after the commencement of that item, except where the Commission has invited submissions about the renewal before the commencement of that item.
 
- 
+</def></def>
+
+</def>
+
+</def></def>
+
+</def></def>
+
+
