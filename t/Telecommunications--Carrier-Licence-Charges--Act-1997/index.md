@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2005C00592/Html/645E4CB2FF38E343CA257089001FFBCB/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00383/Html/857BF3AE5D5C0E1CCA25702600149D17/$FILE/image001.gif)
 
 # Telecommunications (Carrier Licence Charges) Act 1997
 
 **Act No. 49 of 1997 as amended**
 
-This compilation was prepared on 27 September 2005
-taking into account amendments up to Act No. 116 of 2005
+This compilation was prepared on 1 July 2005
+taking into account amendments up to Act No. 46 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -21,7 +21,7 @@ Attorney-General’s Department, Canberra
 
 **Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title _see_ Note 1]
 
 [2](#2).            Commencement [_see_ Note 1]
 
@@ -53,9 +53,11 @@ Attorney-General’s Department, Canberra
 
 [14](#14).          Amount of charge
 
-[15](#15).          Limit on total of charges
+[15](#15).          Limit on total of charges [_see_ Note 2]
 
 **Notes** 
+
+ 
 
 
 ## An Act to impose charges in relation to carrier licences under the _Telecommunications Act 1997_
@@ -114,7 +116,7 @@ Attorney-General’s Department, Canberra
 
              (1)  The amount of charge imposed on an application for a carrier licence is the amount ascertained in accordance with a written determination made by the ACMA.
 
-             (2)  A determination under subsection (1) is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="10"></a>10  Maximum charge
 
@@ -140,9 +142,9 @@ Attorney-General’s Department, Canberra
 
              (1)  The amount of charge imposed on a carrier licence is the amount ascertained in accordance with a written determination made by the ACMA.
 
-             (2)  A determination under subsection (1) is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="15"></a>15  Limit on total of charges
+##### <a id="15"></a>15  Limit on total of charges [_see_ Note 2]
 
              (1)  The total of the charges that are imposed on carrier licences in force at the beginning of a financial year must not exceed the sum of:
 
@@ -152,11 +154,13 @@ Attorney-General’s Department, Canberra
 
                      (c)  the amount determined, by a written instrument made by the ACMA, to be the proportion of the Commonwealth’s contribution to the budget of the International Telecommunication Union for the calendar year in which the beginning of the financial year occurs that is to be recovered from carriers; and
 
-                    (ca)  the amount determined, by a written instrument made by the ACMA, to be the sum of the amounts paid under section 136C of the _Telecommunications Act 1997_ during the immediately preceding financial year; and
+                     (d)  the amount determined, in a written instrument made by the Minister, to be the estimated total amount of grants likely to be made during the financial year under section 593 of the _Telecommunications Act 1997_; and 
 
-                     (d)  the amount determined, in a written instrument made by the Minister, to be the estimated total amount of grants likely to be made during the financial year under section 593 of the _Telecommunications Act 1997_.
+                     (e)  the amount determined by the Industry Minister, by written instrument, to be the proportion of the Commonwealth’s costs for the immediately preceding financial year that is attributable to the administration of Part 2 of Schedule 1 to the _Telecommunications Act 1997_.
 
-             (2)  An instrument under subsection (1) is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+             (2)  An instrument under subsection (1) must be notified in the _Gazette_ before the day on which the charges referred to in subsection (1) become due for payment.
+
+             (3)  An instrument under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
              (4)  In this section:
 
@@ -171,6 +175,8 @@ Attorney-General’s Department, Canberra
                      (a)  in relation to the ACMA, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the ACMA; and
 
                      (b)  in relation to the ACCC, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the ACCC.
+
+                    <a name="industri-minist"></a>**_Industry Minister_** means the Minister for Industry, Science and Tourism.
 
 
 # Notes to the _Telecommunications (Carrier Licence Charges) Act 1997_
@@ -248,176 +254,27 @@ of Assent
       <div>—</div>
     </td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>
-      <div>as amended by</div>
+      <div>Telecommunications (Carrier Licence Charges) Amendment Act 2005</div>
     </td>
     <td>
-      <div></div>
+      <div>46, 2005</div>
     </td>
     <td>
-      <div></div>
+      <div>1 Apr 2005</div>
     </td>
     <td>
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <thead>
-    <tr>
-      <td>
-        <div>Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005</div>
-      </td>
-      <td>
-        <div>116, 2005</div>
-      </td>
-      <td>
-        <div>23 Sept 2005</div>
-      </td>
-      <td>
-        <div>( <i>see</i>116, 2005 below)</div>
-      </td>
-      <td>
-        <div>—</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>Telecommunications (Carrier Licence Charges) Amendment Act 2005</div>
-      </td>
-      <td>
-        <div>46, 2005</div>
-      </td>
-      <td>
-        <div>1 Apr 2005</div>
-      </td>
-      <td>
-        <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
+      <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent 
 </div>
-      </td>
-      <td>
-        <div>Sch. 2</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005</div>
-      </td>
-      <td>
-        <div>116, 2005</div>
-      </td>
-      <td>
-        <div>23 Sept 2005</div>
-      </td>
-      <td>
-        <div>Schedule 1: 24 Sept 2005 
-Schedule 2: <i>(a)</i> 
-Remainder: Royal Assent 
-
-</div>
-      </td>
-      <td>
-        <div>Sch. 1 (item 10)</div>
-      </td>
-    </tr>
-  </thead>
-</tbody></table>
-
-
-_(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
     </td>
     <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
+      <div>Sch. 2</div>
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        3\. Schedule 2
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the time specified in the
-          <i>Telecommunications (Carrier Licence Charges) Amendment Act 1998</i>for
-          the commencement of item 2 of Schedule 1 to that Act.
-      </div>
-    </td>
-    <td>
-      <div>
-        30 June 1998
-      </div>
-    </td>
-  </tr>
-</tbody></table>
+<tbody></tbody></table>
 
 
 ## Table of Amendments
@@ -473,7 +330,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Charg
       <div>S. 9</div>
     </td>
     <td>
-      <div>am. Nos. 46 and 116, 2005</div>
+      <div>am. No. 46, 2005</div>
     </td>
   </tr>
   <tr>
@@ -489,7 +346,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Charg
       <div>S. 14</div>
     </td>
     <td>
-      <div>am. Nos. 46 and 116, 2005</div>
+      <div>am. No. 46, 2005</div>
     </td>
   </tr>
   <tr>
@@ -497,7 +354,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Charg
       <div>S. 15</div>
     </td>
     <td>
-      <div>am. No. 68, 1998; Nos. 46 and 116, 2005</div>
+      <div>am. No. 68, 1998; No. 46, 2005</div>
     </td>
   </tr>
   <tr>
@@ -517,6 +374,21 @@ _(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Charg
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+Section 15(4)—Schedule 1 (item 2) of the _Telecommunications (Carrier Licence Charges) Amendment Act 1998_ provides as follows:
+
+## Schedule 1
+
+## 2  Subsection 15(4) (at the end of the definition of costs)
+
+Add:
+
+             ; and (c)  in relation to the Commonwealth, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the Commonwealth.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
 
 
 ## Table A
@@ -547,29 +419,5 @@ A determination made by the ACA under subsection 9(1) or 14(1), or paragraph 15(
 
 (2)        The ACA’s costs for a financial year are to be determined as if the amendments made by Schedule 1 to this Act to the definition of **_cost_** in subsection 15(4) of the Imposition Act had not been made.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
-
-_Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005 (No. 116, 2005)_
-
-## Schedule 1
-
-## 10  Application of amendments
-
-(1)        For the purposes of this item, if the Commonwealth did not incur any costs for a financial year that were attributable to the administration of Part 2 of Schedule 1 to the _Telecommunications Act 1997_, the financial year is a **_zero-cost financial year_**.
-
-(2)        The amendments made by items 4, 5, 7, 8 and 9 apply in relation to charges imposed on carrier licences in force at the beginning of:
-
-                     (a)  the first financial year where both of the following conditions are satisfied:
-
-                              (i)  the financial year ends after the commencement of this item;
-
-                             (ii)  the immediately preceding financial year is a zero-cost financial year; or
-
-                     (b)  a financial year that is later than that first financial year.
-
-
- 
 
  
