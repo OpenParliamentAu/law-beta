@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00516/Html/3089c5b3-f150-456f-8067-0c846550b30a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image001.gif)
 
 # Defence Forces Retirement Benefits Act 1948
 
 **Act No. 31 of 1948 as amended**
 
-This compilation was prepared on 8 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -29,6 +29,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [4AA](#4AA).      National serviceman on leave of absence without pay in excess of 30 days
 
 [4A](#4A).         Categories of members
+
+[12A](#12A).       Delegation
 
 [13](#13).          Cost of management
 
@@ -270,8 +272,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="contributor"></a>**_contributor_** means a member who is or has been contributing under this Act to the Fund.
 
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
-
                     <a name="daili-rate-pai"></a>**_daily rate of pay_**, in relation to a member, means his maximum daily rate of active pay as ascertained in accordance with the regulations.
 
                     <a name="elig-child"></a>**_eligible child_** means:
@@ -358,7 +358,7 @@ and includes a cadet enrolled at the Royal Australian Naval  College or at the R
 
                     <a name="appointed-date"></a>**_the appointed date_** means the date of commencement of this Act.
 
-                    <a name="author"></a>**_the Authority_** means the Defence Force Retirement and Death Benefits Authority established by section 8 of the _Defence Force Retirement and Death Benefits Act 1973_, as in force before its repeal by item 44 of Schedule 1 to the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_.
+                    <a name="author"></a>**_the Authority_** means the Defence Force Retirement and Death Benefits Authority established by the _Defence Force Retirement and Death Benefits Act 1973_.
 
                     <a name="servic"></a>**_the Service_** means the Navy, the Army or the Air Force as the case requires.
 
@@ -412,9 +412,9 @@ and any such period shall be deemed to be a period of service.
 
              (2)  The category number of a member is:
 
-                     (a)  if the annual pay of the member is less than the prescribed amount—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00516/Html/3089c5b3-f150-456f-8067-0c846550b30a_files/image002.gif), where A is the number of dollars in his annual pay or, if the number of dollars in his annual pay is not a multiple of 130, the next lower number that is such a multiple; and
+                     (a)  if the annual pay of the member is less than the prescribed amount—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image002.gif), where A is the number of dollars in his annual pay or, if the number of dollars in his annual pay is not a multiple of 130, the next lower number that is such a multiple; and
 
-                     (b)  in any other case—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00516/Html/3089c5b3-f150-456f-8067-0c846550b30a_files/image003.gif), where:
+                     (b)  in any other case—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image003.gif), where:
 
                                **_B_**  is the number of dollars in the prescribed amount; and
 
@@ -431,6 +431,26 @@ and any such period shall be deemed to be a period of service.
              (5)  In making a regulation for the purposes of subsection (4), the Governor‑General shall have regard to any general variations in the rates of annual pay of members that have occurred.
 
              (6)  A regulation for the purposes of subsection (4) may be expressed to have taken effect from a date earlier than the date on which the regulation is made, being a date not earlier than 6 months before the date on which the regulation is made.
+
+##### <a id="12A"></a>12A  Delegation
+
+             (1)  The Authority may, by resolution, either generally or as otherwise provided in the instrument of delegation, delegate to a member or to a deputy member, or to any other person, all or any of its powers under this Act, other than this power of delegation.
+
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Authority.
+
+             (3)  A delegation of a power under this section:
+
+                     (a)  may be revoked by resolution of the Authority (whether or not constituted by the persons constituting the Authority at the time the power was delegated);
+
+                     (b)  does not prevent the exercise of the power by the Authority; and
+
+                     (c)  continues in force notwithstanding a change in the membership of the Authority.
+
+             (4)  Section 34A of the _Acts Interpretation Act 1901_ applies in relation to a delegation under this section as if the Authority were a person.
+
+             (5)  A certificate signed by the Chairman stating any matter with respect to a delegation of a power under this section is _prima facie_ evidence of that matter.
+
+             (6)  A document purporting to be a certificate mentioned in subsection (5) shall, unless the contrary is established, be deemed to be such a certificate and to have been duly given.
 
 ##### <a id="13"></a>13  Cost of management
 
@@ -792,7 +812,7 @@ the Authority shall have regard to the following matters only:
 
                      (b)  the Authority, having regard to such matters as it considers relevant, is of the opinion that the suspension should be revoked;
 
-the Authority may, by notice in writing given to the person or to the person and a person acting on the person’s behalf, as the case may be, revoke the suspension with effect from such day as the Authority determines, being a day not later than the day on which the notice is given.
+the Authority may, by notice in writing given to the person or to the person and a person acting on the person’s behalf, as the case may be, revoke the suspension with effect from such day as the Authority determines, being a day not later that the day on which the notice is given.
 
           (5B)  Without limiting subsection (5A), where the pension of a person (in this subsection called the **_relevant person_**) is suspended under subsection (3), the relevant person, or another person acting on the relevant person’s behalf, may, by notice in writing given to the Authority, request the Authority to revoke the suspension, and where such a request is made, the Authority shall, by notice in writing given to the relevant person or to the relevant person and the other person, as the case may be:
 
@@ -900,7 +920,7 @@ the retiring age for the rank held by him on his retirement shall, for the purpo
 
              (2)  Subject to subsection (3), on the death of the widow, there shall be payable in respect of each child of the widow who is an eligible child (other than a child born after the death of the member unless the child is also the child of the member), and in respect of each child of the member who is an eligible child, a pension at the rate $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one‑eighth of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to the widow.
 
-             (3)  Where the number of children in respect of whom pensions are payable under subsection (2) because of the widow’s death is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2011C00516/Html/3089c5b3-f150-456f-8067-0c846550b30a_files/image004.gif) of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (2), a pension at the rate calculated by dividing the number of children into the rate exceeded.
+             (3)  Where the number of children in respect of whom pensions are payable under subsection (2) because of the widow’s death is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image004.gif) of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (2), a pension at the rate calculated by dividing the number of children into the rate exceeded.
 
              (4)  Pension is not payable under this section in respect of a member who, at the time of his death, was an employee for the purposes of the _Superannuation Act 1922‑1968_ whose liability to make contributions to the Superannuation Fund was deferred by virtue of section 35A of that Act or was a person whose entitlement to a pension under that Act was suspended by force of subsection 48C(1) of that Act.
 
@@ -928,7 +948,7 @@ be calculated upon the rate of pension that would have been payable to the male 
 
                      (a)  the male pensioner, at the time of his death, was in receipt of a pension, being invalidity benefit; and
 
-                     (b)  CSC is satisfied that his death was due to:
+                     (b)  the Authority is satisfied that his death was due to:
 
                               (i)  a physical or mental impairment that was the cause, or one of the causes, of the invalidity or the physical or mental incapacity by reason of which the member was retired; or
 
@@ -940,7 +960,7 @@ pension shall be paid to his widow at the rate or rates at which, under section�
 
                      (a)  a male person who is entitled to invalidity benefit dies and, at the time of his death, he was classified as Class C under subsection 51(2) as a result of a reclassification under section 53 but was not entitled to a pension; and
 
-                     (b)  CSC is satisfied that his death was due to:
+                     (b)  the Authority is satisfied that his death was due to:
 
                               (i)  a physical or mental impairment that was the cause, or one of the causes, of the invalidity or the physical or mental incapacity by reason of which the member was retired; or
 
@@ -952,7 +972,7 @@ pension is payable to his widow at the rate or rates at which, under section 5
 
              (4)  Subject to subsection (5), on the death of a widow to whom this section applies, there shall be payable in respect of each child of the widow who is an eligible child (other than a child born after the death of the pensioner unless the child is also the child of the pensioner), and in respect of each child of the male pensioner who is an eligible child, a pension at the rate of $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one‑eighth of the rate at which pension payable under paragraph (1)(a), or under subsection (3), as the case may be would, but for her death, have been payable to the widow.
 
-             (5)  Where the number of children in respect of whom pensions are payable under subsection (4) because of the widow’s death is such that the sum of the rates of all the pensions exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2011C00516/Html/3089c5b3-f150-456f-8067-0c846550b30a_files/image004.gif) of the rate at which pension payable under paragraph (1)(a) or subsection (3), as the case requires, would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (4), a pension calculated by dividing the number of children into the rate exceeded.
+             (5)  Where the number of children in respect of whom pensions are payable under subsection (4) because of the widow’s death is such that the sum of the rates of all the pensions exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image004.gif) of the rate at which pension payable under paragraph (1)(a) or subsection (3), as the case requires, would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (4), a pension calculated by dividing the number of children into the rate exceeded.
 
 ##### <a id="57A"></a>57A  Set off against widow’s pension in certain circumstances
 
@@ -974,11 +994,11 @@ then, in spite of any other law:
 
              (1)  Subject to subsection (1A), where the wife of a member who is a contributor or of a male pensioner is dead or divorced and the member or pensioner dies leaving children of himself or of his wife who are eligible children and who were dependent upon him at the time of his death, pension payable under this Act in respect of each child shall be a pension at the rate of $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one‑eighth of the rate at which pension payable under paragraph 55(1)(a), or pension payable under paragraph 57(1)(a), or under subsection 57(3), as the case may be, would, but for her death or divorce, have been payable to the widow.
 
-          (1A)  Where the number of children in respect of whom pensions are payable under subsection (1) because of the death of the member or pensioner is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2011C00516/Html/3089c5b3-f150-456f-8067-0c846550b30a_files/image004.gif) of the rate at which pension payable under paragraph 55(1)(a) or 57(1)(a), or subsection 57(3), as the case requires, would, but for her death or divorce, have been payable to the widow, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (1), a pension at the rate calculated by dividing the number of children into the rate exceeded.
+          (1A)  Where the number of children in respect of whom pensions are payable under subsection (1) because of the death of the member or pensioner is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image004.gif) of the rate at which pension payable under paragraph 55(1)(a) or 57(1)(a), or subsection 57(3), as the case requires, would, but for her death or divorce, have been payable to the widow, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (1), a pension at the rate calculated by dividing the number of children into the rate exceeded.
 
           (1B)  In the application of subsection (1) in relation to a deceased male pensioner who remarried after he became a pensioner, the reference in that subsection to the wife of a pensioner shall be read as not including a reference to the person who became the wife of the pensioner on that remarriage.
 
-             (2)  Where the present value, as determined by CSC, of a pension or pensions payable, on the death of a member, in pursuance of subsection (1), is less than the contributions made by him, the amount of the difference shall be paid by the Commonwealth to the personal representatives of the member or, failing them, to such persons (if any) as CSC determines.
+             (2)  Where the present value, as determined by the Authority, of a pension or pensions payable, on the death of a member, in pursuance of subsection (1), is less than the contributions made by him, the amount of the difference shall be paid by the Commonwealth to the personal representatives of the member or, failing them, to such persons (if any) as the Authority determines.
 
              (3)  A person is not to be treated as a pensioner for the purposes of this section merely because the person, at the time of his or her death, was receiving associate pension under Part VIA.
 
@@ -1022,7 +1042,7 @@ his service before his retirement and his service after he again becomes a contr
 
 ##### <a id="63"></a>63  Payment of pensions etc. otherwise than to person entitled
 
-             (1)  Where, in the opinion of CSC, payment of pension or other benefit under this Act should, by reason of the person who, but for this section, would be entitled to the payment, being a child, or being a person who is insane or undergoing imprisonment, or otherwise being under a disability, or for any other reason which CSC thinks proper, be made to a person other than the person who would be so entitled to the payment, CSC may authorize payment to the other person, and payment shall be made to the other person accordingly.
+             (1)  Where, in the opinion of the Authority, payment of pension or other benefit under this Act should, by reason of the person who, but for this section, would be entitled to the payment, being a child, or being a person who is insane or undergoing imprisonment, or otherwise being under a disability, or for any other reason which the Authority thinks proper, be made to a person other than the person who would be so entitled to the payment, the Authority may authorize payment to the other person, and payment shall be made to the other person accordingly.
 
              (2)  A payment of pension payable to a child that, by virtue of subsection (1), is paid to a person other than the child, shall be applied for the maintenance, education or other benefit of the child.
 
@@ -1066,9 +1086,9 @@ his service before his retirement and his service after he again becomes a contr
 
                              (ii)  would have been payable to the person under that Division if a deceased pensioner had been, at the time of his or her death, a recipient member under that Act;
 
-CSC may grant, from a specified date, a pension to the person at a rate and on conditions that CSC determines in writing, having regard to any matters prescribed and any other matters it considers relevant.
+the Authority may grant, from a specified date, a pension to the person at a rate and on conditions that the Authority determines in writing, having regard to any matters prescribed and any other matters it considers relevant.
 
-             (2)  CSC must not grant a pension to the person unless CSC, having regard to any matters prescribed and any other matters it considers relevant, is satisfied that:
+             (2)  The Authority must not grant a pension to the person unless the Authority, having regard to any matters prescribed and any other matters it considers relevant, is satisfied that:
 
                      (a)  the person is in necessitous circumstances; or
 
@@ -1078,7 +1098,7 @@ CSC may grant, from a specified date, a pension to the person at a rate and on c
 
                      (a)  must not be earlier than the start day; and
 
-                     (b)  unless CSC is satisfied that special circumstances exist that justify an earlier date being specified, must not be earlier than the date the grant is made.
+                     (b)  unless the Authority is satisfied that special circumstances exist that justify an earlier date being specified, must not be earlier than the date the grant is made.
 
              (4)  The rate of the pension must not exceed the rate at which pension would have been payable under this Act to the person from the specified date had the person been, at the date of death of the deceased pensioner, the widow of the deceased pensioner for the purposes of this Act.
 
@@ -1086,7 +1106,7 @@ CSC may grant, from a specified date, a pension to the person at a rate and on c
 
                      (a)  a pension is paid to a person under section 57 of this Act as a widow of a pensioner; and
 
-                     (b)  CSC grants a pension under this section to another person in respect of the pensioner;
+                     (b)  the Authority grants a pension under this section to another person in respect of the pensioner;
 
 then, for the purpose of calculating the rate of pension payable to the other person under this section, this Act has effect as if the reference in paragraph 57(1)(a) to five‑eighths were a reference to three‑eighths.
 
@@ -1106,13 +1126,13 @@ then, for the purpose of calculating the rate of pension payable to the other pe
 
                              (ii)  would have been payable to the person under that section if a deceased pensioner had been, at the time of his or her death, a recipient member under that Act;
 
-CSC may grant, from a specified date, a pension to the person at a rate and on conditions that CSC determines in writing, having regard to any matters prescribed and any other matters it considers relevant.
+the Authority may grant, from a specified date, a pension to the person at a rate and on conditions that the Authority determines in writing, having regard to any matters prescribed and any other matters it considers relevant.
 
              (2)  The specified date from which the pension is granted:
 
                      (a)  must not be earlier than the start day; and
 
-                     (b)  unless CSC is satisfied that special circumstances exist that justify an earlier date being specified, must not be earlier than the date the grant is made.
+                     (b)  unless the Authority is satisfied that special circumstances exist that justify an earlier date being specified, must not be earlier than the date the grant is made.
 
              (3)  The rate of the pension must not exceed the rate at which pension would have been payable under this Act to the person from the specified date had the person been, at the date of death of the deceased pensioner and at all times after that:
 
@@ -1136,13 +1156,13 @@ CSC may grant, from a specified date, a pension to the person at a rate and on c
 
                              (ii)  would have been payable to the person under that section if a deceased pensioner had been, at the time of his or her death, a recipient member under that Act;
 
-CSC may grant, from a specified date, a pension to the person at a rate and on conditions that CSC determines in writing, having regard to any matters prescribed and any other matters it considers relevant.
+the Authority may grant, from a specified date, a pension to the person at a rate and on conditions that the Authority determines in writing, having regard to any matters prescribed and any other matters it considers relevant.
 
              (2)  The specified date from which the pension is granted:
 
                      (a)  must not be earlier than the start day; and
 
-                     (b)  unless CSC is satisfied that special circumstances exist that justify an earlier date being specified, must not be earlier than the date the grant is made.
+                     (b)  unless the Authority is satisfied that special circumstances exist that justify an earlier date being specified, must not be earlier than the date the grant is made.
 
              (3)  The rate of the pension must not exceed the rate at which pension would have been payable under this Act to the person from the specified date:
 
@@ -1160,17 +1180,17 @@ CSC may grant, from a specified date, a pension to the person at a rate and on c
 
 ##### <a id="64A"></a>64A  Restoration of pensions for remarried widows and widowers
 
-             (1)  A widow or widower whose entitlement to a pension under subsection 55(1) or 57(1) has ceased on his or her remarriage may apply to CSC for:
+             (1)  A widow or widower whose entitlement to a pension under subsection 55(1) or 57(1) has ceased on his or her remarriage may apply to the Authority for:
 
                      (a)  restoration of the pension; or
 
                      (b)  restoration of the full rate of the pension.
 
-             (2)  If CSC is satisfied that the widow or widower’s entitlement to a pension ceased on his or her remarriage, CSC must, in writing, grant the pension at the rate at which the pension would have been payable to the widow or widower if the pension had not ceased.
+             (2)  If the Authority is satisfied that the widow or widower’s entitlement to a pension ceased on his or her remarriage, the Authority must, in writing, grant the pension at the rate at which the pension would have been payable to the widow or widower if the pension had not ceased.
 
-             (3)  The pension is payable to the widow or widower at that rate from the day on which CSC receives the application.
+             (3)  The pension is payable to the widow or widower at that rate from the day on which the Authority receives the application.
 
-             (4)  If CSC grants a person a pension under this section at a particular rate, the grant at that rate does not effect:
+             (4)  If the Authority grants a person a pension under this section at a particular rate, the grant at that rate does not effect:
 
                      (a)  any other person’s entitlement under this Act to any other pension; or
 
@@ -1360,6 +1380,8 @@ the Authority shall have regard to the following matters only:
 
                      (b)  for a splitting order—the amount allocated under subsection 90MT(4) of the _Family Law Act 1975_.
 
+                    <a name="chairman"></a>**_Chairman_** means the Chairman of the Authority.
+
                     <a name="famili-law-valu"></a>**_family law value_** means the amount determined in accordance with regulations under the _Family Law Act 1975_ that apply for the purposes of paragraph 90MT(2)(a) of the _Family Law Act 1975_. In applying those regulations, the relevant date is taken to be the date on which the operative time occurs.
 
 Note:          This amount is determined by applying those regulations, whether or not an order has been made under subsection 90MT(1) of the _Family Law Act 1975_.
@@ -1418,7 +1440,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00516/Html/3089c5b3-f150-456f-8067-0c846550b30a_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image005.gif)
 
 ### Division 2—Benefits for non‑member spouse
 
@@ -1426,7 +1448,7 @@ Note:          This amount is determined by applying those reg
 
              (1)  This section applies to a superannuation interest under this Act (the **_original interest_)**if:
 
-                     (a)  CSC receives a splitting agreement or splitting order in respect of the original interest; and
+                     (a)  the Chairman receives a splitting agreement or splitting order in respect of the original interest; and
 
                      (b)  the original interest is not an entitlement to pension under paragraph 57(1)(b), subsection 57(4) or (5) or section 58; and
 
@@ -1440,7 +1462,7 @@ Note:          This amount is determined by applying those reg
 
              (1)  If the annual rate of associate pension to which the non‑member spouse becomes entitled is less than the amount determined under the Orders, then the non‑member spouse may elect to commute the pension.
 
-             (2)  The election must be made in writing to CSC not later than 3 months after the non‑member spouse becomes entitled to the pension.
+             (2)  The election must be made in writing to the Chairman not later than 3 months after the non‑member spouse becomes entitled to the pension.
 
              (3)  If the non‑member spouse makes the election, then the non‑member spouse is entitled instead to a lump sum equal to the transfer amount.
 
@@ -2304,7 +2326,7 @@ by notice in writing to the Board revoke the election and, in that case, paragra
 
            (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Finance Minister under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
 
-           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00516/Html/3089c5b3-f150-456f-8067-0c846550b30a_files/image006.gif), where:
+           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image006.gif), where:
 
 _a_   is amount of the annual premium, or the sum of the amounts of the annual premiums, applicable at that time under the life policy or life policies assigned by him to the Board in accordance with subsection (3) or issued in relation to him in accordance with subsection (4);
 
@@ -2460,9 +2482,9 @@ the rate at which the pension is payable to him on and after the date on which t
 
 ##### <a id="85A"></a>85A  Attachment of pensions
 
-             (1)  Where a judgment given by a court for the payment of a sum of money has not been fully satisfied by the judgment debtor and the judgment debtor is entitled to a pension or other benefit under this Act, the judgment creditor may serve on CSC a copy of the judgment, certified under the hand of the Registrar or other proper officer of the court by which the judgment was given, and a statutory declaration by the judgment creditor stating that the judgment has not been fully satisfied by the judgment debtor and specifying the amount due by the judgment debtor under the judgment.
+             (1)  Where a judgment given by a court for the payment of a sum of money has not been fully satisfied by the judgment debtor and the judgment debtor is entitled to a pension or other benefit under this Act, the judgment creditor may serve on the Authority a copy of the judgment, certified under the hand of the Registrar or other proper officer of the court by which the judgment was given, and a statutory declaration by the judgment creditor stating that the judgment has not been fully satisfied by the judgment debtor and specifying the amount due by the judgment debtor under the judgment.
 
-             (2)  Where a copy of a judgment and a statutory declaration are served on CSC in accordance with subsection (1), CSC shall, as soon as practicable, by notice in writing given to the judgment debtor, inform him of the service of those documents and require him, within such period as is specified in the notice and in such manner as is so specified, to notify CSC whether the amount specified in the declaration is still due under the judgment and, if no amount or a lesser amount is due under the judgment, to furnish to CSC, in such manner as is specified in the notice, evidence in support of that fact.
+             (2)  Where a copy of a judgment and a statutory declaration are served on the Authority in accordance with subsection (1), the Authority shall, as soon as practicable, by notice in writing given to the judgment debtor, inform him of the service of those documents and require him, within such period as is specified in the notice and in such manner as is so specified, to notify the Authority whether the amount specified in the declaration is still due under the judgment and, if no amount or a lesser amount is due under the judgment, to furnish to the Authority, in such manner as is specified in the notice, evidence in support of that fact.
 
              (3)  A person is guilty of an offence if:
 
@@ -2472,7 +2494,7 @@ the rate at which the pension is payable to him on and after the date on which t
 
                     Maximum penalty: $40.
 
-             (4)  If, at the expiration of the period specified in the notice, CSC is satisfied that an amount is due under the judgment, CSC may, in its discretion, deduct from the pension or benefit, and pay to the judgment creditor, such sums as do not exceed that amount or, in a case where a payment of pension or benefit becomes payable on or after 1 October 1972, CSC may, in its discretion, authorize the deduction from the pension or benefit, and the payment to the judgment creditor, of such sums as do not exceed that amount, and those deductions, and those payments, shall be made accordingly.
+             (4)  If, at the expiration of the period specified in the notice, the Authority is satisfied that an amount is due under the judgment, the Authority may, in its discretion, deduct from the pension or benefit, and pay to the judgment creditor, such sums as do not exceed that amount or, in a case where a payment of pension or benefit becomes payable on or after 1 October 1972, the Authority may, in its discretion, authorize the deduction from the pension or benefit, and the payment to the judgment creditor, of such sums as do not exceed that amount, and those deductions, and those payments, shall be made accordingly.
 
              (5)  A deduction shall not be made from:
 
@@ -2480,15 +2502,15 @@ the rate at which the pension is payable to him on and after the date on which t
 
                      (b)  an instalment of any other pension if the deduction will reduce the amount of the instalment payable to less than one‑half of the amount that would, but for this section, be payable.
 
-             (6)  If, after a copy of a judgment given against a pensioner or beneficiary, being a judgment in respect of which CSC is satisfied that an amount is due, has been served in accordance with subsection (1), a copy of another judgment given (whether before or after the first‑mentioned judgment) against the same pensioner or beneficiary in favour of the person in whose favour the first‑mentioned judgment was given or in favour of another person is served in accordance with that subsection, a payment shall not be made in pursuance of this section to the judgment creditor under the other judgment in respect of the amount due under that judgment until the amount due under the first‑mentioned judgment has been paid.
+             (6)  If, after a copy of a judgment given against a pensioner or beneficiary, being a judgment in respect of which the Authority is satisfied that an amount is due, has been served in accordance with subsection (1), a copy of another judgment given (whether before or after the first‑mentioned judgment) against the same pensioner or beneficiary in favour of the person in whose favour the first‑mentioned judgment was given or in favour of another person is served in accordance with that subsection, a payment shall not be made in pursuance of this section to the judgment creditor under the other judgment in respect of the amount due under that judgment until the amount due under the first‑mentioned judgment has been paid.
 
              (7)  A payment made to a judgment creditor in pursuance of this section shall, as between the Board and the pensioner or beneficiary, be deemed to be a payment from the Fund to the pensioner or beneficiary and, in the case of a payment made to the judgment creditor in relation to a payment of pension or benefit that became payable on or after 1 October 1972, shall, as between the Commonwealth and the pensioner or beneficiary, be deemed to be a payment by the Commonwealth to the pensioner or beneficiary.
 
              (8)  A judgment creditor is guilty of an offence if:
 
-                     (a)  the judgment creditor serves a copy of a judgment on CSC under subsection (1); and
+                     (a)  the judgment creditor serves a copy of a judgment on the Authority under subsection (1); and
 
-                     (b)  the judgment creditor does not notify CSC immediately the judgment debt is satisfied.
+                     (b)  the judgment creditor does not notify the Authority immediately the judgment debt is satisfied.
 
                     Maximum penalty: 
 
@@ -2500,7 +2522,7 @@ the rate at which the pension is payable to him on and after the date on which t
 
 ##### <a id="86"></a>86  Recovery of contributions
 
-                   CSC may recover contributions under the Act in any court of competent jurisdiction.
+                   The Authority may recover contributions under the Act in any court of competent jurisdiction.
 
 ##### <a id="86A"></a>86A  Cancellation of elections
 
@@ -2508,11 +2530,11 @@ the rate at which the pension is payable to him on and after the date on which t
 
                      (a)  a person makes an election (whether before or after the commencement of this subsection) under section 74, 82R or 82Z;
 
-                     (b)  that person makes an application to CSC not later than 3 months after the day on which the election is made, or within such further period as CSC, in special circumstances, allows, requesting that CSC cancel the election; and
+                     (b)  that person makes an application to the Authority not later than 3 months after the day on which the election is made, or within such further period as the Authority, in special circumstances, allows, requesting that the Authority cancel the election; and
 
-                     (c)  CSC, having regard to such matters (if any) as it considers relevant, is satisfied that the election should be cancelled;
+                     (c)  the Authority, having regard to such matters (if any) as it considers relevant, is satisfied that the election should be cancelled;
 
-CSC may direct that the election shall be cancelled and, if it so directs, this Act has effect as if the election had not been made.
+the Authority may direct that the election shall be cancelled and, if it so directs, this Act has effect as if the election had not been made.
 
 ##### <a id="87"></a>87  Extension or modification of the Act by regulations
 
@@ -2535,6 +2557,8 @@ and provisions so made shall have effect notwithstanding anything contained in t
                      (c)  for prescribing penalties for offences against the regulations, but so that no prescribed penalty shall exceed a fine of $100.
 
              (2)  Where the pay of any class of members is increased or reduced, regulations for the purpose of the definition of **_daily rate of pay_** in subsection 4(1) in relation to members included within that class made after the date on and from which the increase or reduction took effect may be expressed to have taken effect from and including that date.
+
+ 
 
 # The Schedules
 
@@ -2875,7 +2899,7 @@ _Sections 38, 39 and 41_
 <tr>
   <td>
     <div>
-      42
+       42
     </div>
   </td>
   <td>
@@ -2892,7 +2916,7 @@ _Sections 38, 39 and 41_
 <tr>
   <td>
     <div>
-      41
+       41
     </div>
   </td>
   <td>
@@ -2936,7 +2960,7 @@ _Sections 38, 39 and 41_
   </td>
   <td>
     <div>
-      .48
+      .40
     </div>
   </td>
 </tr>
@@ -3009,7 +3033,7 @@ _Sections 38, 39 and 41_
   </td>
 </tr></table>
 
-# Fourth Schedule—Period of service for pension referred to in paragraph 39(2)(c)
+# Fourth Schedule—Period of service for pension referred to in paragraph 39(2)(C)
 
 _Section 39_
 
@@ -3210,7 +3234,7 @@ _Section 39_
     <div> </div>
   </td>
   <td>
-    <div>Commander (S.D.), or relative rank</div>
+    <div>Commander (S.D.) or relative rank</div>
   </td>
   <td>
     <div> </div>
@@ -4313,7 +4337,7 @@ Remainder: Royal Assent</div>
     <div>Part XI (ss. 164–167): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(c)</i></div>
   </td>
   <td>
-    <div>Ss. 166(2) and 167(2)</div>
+    <div>Ss. 166(2)and 167(2)</div>
   </td>
 </tr>
 <tr>
@@ -4821,7 +4845,7 @@ Remainder: Royal Assent</div>
     <div>25 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 4 (items 6, 8): Royal Assent</div>
+    <div>Schedule 4 (items 6, 8): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 4 (item 8) \[ <i>see</i>Table A]</div>
@@ -4839,7 +4863,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 4: Royal Assent 
-Schedule 3 (items 25, 26): 1 Jan 2009</div>
+Schedule 3 (items 25, 26): 1 Jan 2009</div>
   </td>
   <td>
     <div>S. 4 and Sch. 3 (item 26) \[ <i>see</i>Table A]</div>
@@ -4856,24 +4880,7 @@ Schedule 3 (items 25, 26): 1 Jan 2009</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 96–99): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 59–80): <i>(k)</i></div>
+    <div>Schedule 5 (items 96–99): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -5055,61 +5062,6 @@ _(j)_      Subsection 2(1) (item 3) of the _Defence Legislation Amen
   </td>
 </tr></table>
 
-_(k)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -5187,7 +5139,7 @@ _(k)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>am. No. 37, 1949; No. 73, 1950; No. 29, 1951; No. 80, 1953; No. 19, 1955; No. 95, 1957; No. 103, 1959; No. 67, 1962; No. 103, 1963; Nos. 25, 98 and 135, 1965; Nos. 55, 56 and 128, 1968; No. 47, 1971; No. 82, 1973; No. 96, 1975; No. 164, 1984 (as am. by No. 65, 1985); No. 91, 1992; 
-No. 10, 2001; Nos. 5 and 58, 2011</div>
+No. 10, 2001; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5324,14 +5276,6 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
   </td>
   <td>
     <div>ad. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6555,7 +6499,7 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
     <div>S. 55</div>
   </td>
   <td>
-    <div>am. No. 73, 1950; No. 29, 1951; No. 20, 1954; No. 95, 1957; No. 46, 1958; No. 103, 1959; Nos. 98 and 135, 1965; No. 70, 1966; No. 55, 1968; No. 82, 1973; No. 161, 1977; No. 164, 1984; No. 75, 1990; No. 21, 1991</div>
+    <div>am. No. 73, 1950; No. 29, 1951; No. 20, 1954; No. 95, 1957; No. 46, 1958; No. 103, 1959; Nos. 98 and 135, 1965; No. 70, 1966; No. 55, 1968; No. 82, 1973; No. 161, 1977; No. 164, 1984; No. 21, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6619,7 +6563,7 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
     <div>S. 57</div>
   </td>
   <td>
-    <div>am. No. 73, 1950; No. 29, 1951; No. 93, 1952; No. 20, 1954; No. 95, 1957; No. 46, 1958; No. 103, 1959; Nos. 98 and 135, 1965; No. 70, 1966; No. 128, 1968; No. 82, 1973; No. 161, 1977; No. 164, 1984; No. 75, 1990; Nos. 21 and 126, 1991; No. 58, 2004; No. 58, 2011</div>
+    <div>am. No. 73, 1950; No. 29, 1951; No. 93, 1952; No. 20, 1954; No. 95, 1957; No. 46, 1958; No. 103, 1959; Nos. 98 and 135, 1965; No. 70, 1966; No. 128, 1968; No. 82, 1973; No. 161, 1977; No. 164, 1984; Nos. 21 and 126, 1991; No. 58, 2004</div>
   </td>
 </tr>
 <tr>
@@ -6635,7 +6579,7 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
     <div>S. 58</div>
   </td>
   <td>
-    <div>am. No. 29, 1951; No. 20, 1954; No. 95, 1957; No. 46, 1958; Nos. 98 and 135, 1965; No. 70, 1966; No. 82, 1973; No. 164, 1984; No. 75, 1990; No. 21, 1991; No. 58, 2004; No. 58, 2011</div>
+    <div>am. No. 29, 1951; No. 20, 1954; No. 95, 1957; No. 46, 1958; Nos. 98 and 135, 1965; No. 70, 1966; No. 82, 1973; No. 164, 1984; No. 75, 1990; No. 21, 1991; No. 58, 2004</div>
   </td>
 </tr>
 <tr>
@@ -6755,7 +6699,7 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -6800,26 +6744,10 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 64A</div>
   </td>
   <td>
     <div>ad. No. 165, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7441,14 +7369,6 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -7461,14 +7381,6 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
   </td>
   <td>
     <div>ad. No. 58, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8388,7 +8300,7 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 135, 1965; No. 82, 1973; No. 164, 1984; No. 104, 1988; No. 141, 2001; No. 58, 2011</div>
+    <div>am. No. 135, 1965; No. 82, 1973; No. 164, 1984; No. 104, 1988; No. 141, 2001</div>
   </td>
 </tr>
 <tr>
@@ -8396,7 +8308,7 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
     <div>S. 86</div>
   </td>
   <td>
-    <div>am. No. 104, 1988; No. 58, 2011</div>
+    <div>am. No. 104, 1988</div>
   </td>
 </tr>
 <tr>
@@ -8405,14 +8317,6 @@ No. 10, 2001; Nos. 5 and 58, 2011</div>
   </td>
   <td>
     <div>ad. No. 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8699,7 +8603,7 @@ _Example: Assume that, immediately before the commencement of this item, regulat
 * * *
 
 _Defence Legislation Amendment (Application of Criminal Code) Act 2001
- (No. 141, 2001)_
+ (No. 141, 2000)_
 
 ##### <a id="4"></a>4  Application of amendments
 
