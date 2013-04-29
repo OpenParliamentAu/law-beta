@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00369/Html/QantasSale1992_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00245/Html/QantasSale1992_WD02_image001.gif)
 
 # Qantas Sale Act 1992
 
 **Act No. 196 of 1992 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 2 April 2007
  taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force 
@@ -300,7 +300,7 @@ Sections 22, 23
 
                      (c)  for whose international relations a foreign country is responsible.
 
-                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 2007_.
+                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 1948_.
 
                     <a name="australian-intern-airlin"></a>**_Australian international airline_** means an international airline (other than Qantas) that may be permitted to carry people or goods, or both people and goods, under a bilateral arrangement as an airline designated by Australia to operate a scheduled international air service.
 
@@ -668,7 +668,7 @@ by the Commonwealth.
 
                    This Part has effect despite any provision of the _Corporations Act 2001_ of a State or an internal Territory.
 
-### Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations
+## Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations
 
 ##### Sections 22, 23
 
@@ -1024,7 +1024,7 @@ cease to apply to the employee on the day on which this section commences.
 
 Australian Airlines is entitled to be paid an amount equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00369/Html/QantasSale1992_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00245/Html/QantasSale1992_WD02_image002.gif)
 
 where:
 
@@ -1048,7 +1048,7 @@ where:
 
 then Qantas or the subsidiary, as the case may be, is entitled to be paid the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00369/Html/QantasSale1992_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00245/Html/QantasSale1992_WD02_image003.gif)
 
 where:
 
@@ -1476,13 +1476,14 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (item 40) \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
+
+ 
 
 _(a)_     Subsections 2(2) and (6) of the _Qantas Sale Act 1992_ provide as follows:
 
@@ -1588,7 +1589,7 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 168, 1994; No. 44, 1995; No. 156, 1999; No. 55, 2001; No. 21, 2007</div>
+    <div>am. No. 168, 1994; No. 44, 1995; No. 156, 1999; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1799,5 +1800,26 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>am. Nos. 5 and 168, 1994</div>
   </td>
 </tr></table>
+
+ 
+
+### Note 2
+
+_Australian Citizenship (Transitionals and Consequentials) Act 2007
+  (No. 21, 2007)_
+
+The following amendment commences on 15 September 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 40  Subsection 7(7) (definition of _Australian citizen_)
+
+Repeal the definition, substitute:
+
+                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 2007_.
+
+As at 2 April 2007 the amendment is not incorporated in this compilation.
+
+ 
 
  
