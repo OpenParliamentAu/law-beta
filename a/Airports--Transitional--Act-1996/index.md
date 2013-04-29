@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00076/Html/AirportsTransAct_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00514/Html/AirportsTransAct_image001.gif)
 
 # Airports (Transitional) Act 1996
 
 **Act No. 36 of 1996 as amended**
 
-This compilation was prepared on 22 February 2007 
- taking into account amendments up to Act No. 4 of 2007
+This compilation was prepared on 22 September 2006 
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -368,9 +368,9 @@ Corporation (FAC) to the Commonwealth.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
-Commonwealth will grant an airport lease to a company.  The company is called an
+Commonwealth will grant an airport lease to a company.  The company is called
 
-**_airport-lessee company_**.</li>
+an **_airport-lessee company_**.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     Immediately
 
@@ -1204,15 +1204,7 @@ Note:          If a determination is made, the cost of the ass
 
              (7)  In this section:
 
-                    <a name="entiti"></a>**_entity_** means any of the following:
-
-                     (a)  a company;
-
-                     (b)  a partnership;
-
-                     (c)  a person in a capacity of trustee;
-
-                     (d)  any other person.
+                    <a name="entiti"></a>**_entity_** has the same meaning as in section 49A.
 
 ##### <a id="50B"></a>50B  Acquisition of depreciating asset from the Commonwealth—Division 40 of the _Income Tax Assessment Act 1997_
 
@@ -2158,7 +2150,7 @@ Note:          Division 2 deals with the employee’s positi
 
 ### Division 2—Sale of airport-lessee companies owned by the Commonwealth
 
-##### <a id="5"></a>5  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
+##### <a id="5"></a>5  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
              (1)  This clause applies in relation to an airport-lessee company if, immediately before the company’s sale time, an employee of the company was a person to whom deferred benefits were applicable under section 78 of the _Defence Force Retirement and Death Benefits Act 1973_.
 
@@ -2524,7 +2516,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001</div>
+    <div>New Business Tax System (Capital Allowances—Transitional and Consequntial) Act 2001</div>
   </td>
   <td>
     <div>77, 2001</div>
@@ -2557,23 +2549,6 @@ Royal Assent</div>
   <td>
     <div>Sch. 6 (items 
 1, 6–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2006 Measures No. 6) Act 2007</div>
-  </td>
-  <td>
-    <div>4, 2007</div>
-  </td>
-  <td>
-    <div>19 Feb 2007</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 24): <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2610,94 +2585,6 @@ _(g)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 3 (item�
 _(h)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 2 (items 1–9) only of the _New Business Tax System (Capital Allowances—Transitionals and Consequential) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
-
-_(i)_      Subsection 2(1) (item 4) of the _Tax Laws Amendment (2006 Measures No. 6) Act 2007_, provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 2, item 24
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 1 of Schedule 2 to the
-        <i>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      14 September 2006
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -2826,14 +2713,6 @@ _(i)_      Subsection 2(1) (item 4) of the _Tax Laws Amendment (2006
   </td>
   <td>
     <div>ad. No. 77, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 4, 2007</div>
   </td>
 </tr>
 <tr>
