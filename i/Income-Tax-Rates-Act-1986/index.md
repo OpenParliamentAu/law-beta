@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image001.gif)
 
 # Income Tax Rates Act 1986
 
 **Act No. 107 of 1986 as amended**
 
-This compilation was prepared on 8 September 2011
- taking into account amendments up to Act No. 92 of 2011
+This compilation was prepared on 15 April 2011
+ taking into account amendments up to Act No. 15 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -41,8 +41,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [12](#12).          Rates of tax and notional rates
 
 [12A](#12A).       Rate of extra income tax for primary producers
-
-[12B](#12B).       Rate of extra income tax for recoupments for R&amp;D activities
 
 [12B](#12B).       Rate of temporary flood and cyclone reconstruction levy
 
@@ -89,8 +87,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [29](#29).          Rate of tax on no‑TFN contributions income
 
 [30](#30).          Rate of tax in relation to trustee of FHSA trust
-
-[31](#31).          Rate of extra income tax for recoupments for R&amp;D activities
 
 **Schedule 7—General rates of tax** 
 
@@ -354,15 +350,15 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (7)  The rate of further tax payable by a person under subsection 94(9) of the Assessment Act is:
 
-                     (a)  in respect of the part of the taxable income of the person that is the relevant part of that taxable income for the purposes of subsections 94(10A) and (10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image002.gif) where:
+                     (a)  in respect of the part of the taxable income of the person that is the relevant part of that taxable income for the purposes of subsections 94(10A) and (10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the taxable income of the person;
 
-**_B_**   is the amount of tax (if any) that, but for this subsection, sections 12A and 12B and any rebate, credit or other tax offset (as defined in the _Income Tax Assessment Act 1997_) to which the person is entitled, would be payable by the person in respect of the taxable income of the person; and
+**_B_**   is the amount of tax (if any) that, but for this subsection, section 12A and any rebate, credit or other tax offset (as defined in the _Income Tax Assessment Act 1997_) to which the person is entitled, would be payable by the person in respect of the taxable income of the person; and
 
 **_C_**   is the number of whole dollars in the taxable income of the person; and
 
-                     (b)  in respect of the part of the taxable income of the person that is the prescribed part of that taxable income for the purposes of subsection 94(10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image002.gif) where:
+                     (b)  in respect of the part of the taxable income of the person that is the prescribed part of that taxable income for the purposes of subsection 94(10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the taxable income of the person;
 
@@ -370,7 +366,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
                               (i)  the comparison rate described in section 392‑55 of the _Income Tax Assessment Act 1997_ were the rate of tax payable by the person on that income; and
 
-                             (ii)  this subsection and sections 12A and 12B did not apply; and
+                             (ii)  this subsection and section 12A did not apply; and
 
                             (iii)  the person were not entitled to any rebate, credit or other tax offset (as defined in the _Income Tax Assessment Act 1997_); and
 
@@ -378,7 +374,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (8)  The rate of further tax payable by a trustee under subsection 94(11) or (12) of the Assessment Act is:
 
-                     (a)  in respect of the part of the net income of the trust estate that is the relevant part of that net income for the purposes of subsections 94(12A) and (12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image002.gif) where:
+                     (a)  in respect of the part of the net income of the trust estate that is the relevant part of that net income for the purposes of subsections 94(12A) and (12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the net income of the trust estate in respect of which the trustee is liable to be assessed and to pay tax under section 98 or 99 of the Assessment Act;
 
@@ -386,7 +382,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
 **_C_**   is the number of whole dollars in that net income; and
 
-                     (b)  in respect of the part of the net income of the trust estate that is the prescribed part of that net income for the purposes of subsection 94(12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image002.gif) where:
+                     (b)  in respect of the part of the net income of the trust estate that is the prescribed part of that net income for the purposes of subsection 94(12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the net income of the trust estate in respect of which the trustee is liable to be assessed and to pay tax under section 98 or 99 of the Assessment Act;
 
@@ -402,7 +398,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (2)  The rate is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image003.gif)
 
 Rate if taxable income is less than tax‑free threshold adjusted by family tax assistance
 
@@ -411,10 +407,6 @@ Rate if taxable income is less than tax‑free threshold adjusted by family tax 
                     <a name="averaging-adjust"></a>**_averaging adjustment_** means the taxpayer’s smoothing adjustment, worked out for the year of income under section 392‑75 of the _Income Tax Assessment Act 1997_.
 
                     <a name="averaging-compon"></a>**_averaging component_** means the taxpayer’s averaging component in whole dollars, worked out for the year of income under Subdivision 392‑C of the _Income Tax Assessment Act 1997_.
-
-##### <a id="12B"></a>12B  Rate of extra income tax for recoupments for R&amp;D activities
-
-                   The rate of extra income tax payable by a taxpayer under Subdivision 355‑G (about government R&amp;D recoupments) of the _Income Tax Assessment Act 1997_ for a year of income is 10%.
 
 ##### <a id="12B"></a>12B  Rate of temporary flood and cyclone reconstruction levy
 
@@ -731,7 +723,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (1)  If there are one or more part‑year residency periods in relation to a person in relation to a year of income, this Act applies in relation to the person and the year of income as if the reference in the table in Part I of Schedule 7 to $6,000 were a reference to the amount calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image004.gif)
 
              (2)  Subsection (1) does not apply in calculating the tax payable by the trustee of a trust estate under section 98 of the Assessment Act in respect of a share of a beneficiary of the net income of the trust estate of a year of income but, where there are one or more part‑year residency periods in relation to the beneficiary in relation to the year of income, this Act applies in calculating the tax payable by the trustee in respect of that share as if the reference in the table in Part I of Schedule 7 to $6,000 were a reference to the amount calculated in accordance with the formula **_AB_**, where:
 
@@ -885,10 +877,6 @@ Note:          If paragraph 98(3)(a) of the Assessment Act app
 
                    The rate of tax for the purposes of section 345‑5 of the _Income Tax Assessment Act 1997_ is 15%.
 
-##### <a id="31"></a>31  Rate of extra income tax for recoupments for R&amp;D activities
-
-                   The rate of extra income tax payable under Subdivision 355‑G (about government R&amp;D recoupments) of the _Income Tax Assessment Act 1997_ for a year of income is 10%.
-
 # Schedule 7—General rates of tax
 
 _Subsection 12(1)_
@@ -989,7 +977,7 @@ _Subsection 12(1)_
 
                      (c)  Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ does not apply to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer    under clause 1 on a taxable income equal to the reduced taxable  income;
 
@@ -1013,7 +1001,7 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
                      (b)  Division 16 of Part III of the Assessment Act applies to the income of the taxpayer or Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clause 1 on a taxable income equal to the reduced taxable income;
 
@@ -1127,7 +1115,7 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
                      (c)  Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ does not apply to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clause 1 on a taxable income equal to the reduced taxable income;
 
@@ -1151,7 +1139,7 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
                      (b)  Division 16 of Part III of the Assessment Act applies to the income of the taxpayer or Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clause 1 on a taxable income equal to the reduced taxable income;
 
@@ -1289,7 +1277,7 @@ _Subsections 13(1) and 15(1)_
 
                      (b)  whose taxable income consists of or includes a special income component;
 
-the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image006.gif) where:
+the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image006.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clauses 1 and 2 on a taxable income equal to the reduced taxable income;
 
@@ -1325,7 +1313,7 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
                      (b)  whose taxable income consists of or includes a special income component; 
 
-the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image006.gif) where:
+the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image006.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clauses 1 and 2 on a taxable income equal to the reduced taxable income;
 
@@ -2734,24 +2722,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Income Tax Rates Amendment (Research and Development) Act 2011</div>
-  </td>
-  <td>
-    <div>92, 2011</div>
-  </td>
-  <td>
-    <div>8 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 8 Sept 2011 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 4) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Income Tax Rates Act 1986_ was amended by Part III (sections 53–62) only of the _Taxation Laws Amendment Act (No. 4) 1987_, subsection 2(1) of which provides as follows:
@@ -3223,7 +3193,7 @@ Part II</div>
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 138, 1987; No. 70, 1989; No. 121, 1997; No. 124, 1997 (as am. by 83, 1999); No. 46, 1998; No. 83, 1999; No. 77, 2001; No. 101, 2004; Nos. 55 and 101, 2006; No. 92, 2011</div>
+    <div>am. No. 138, 1987; No. 70, 1989; No. 121, 1997; No. 124, 1997 (as am. by 83, 1999); No. 46, 1998; No. 83, 1999; No. 77, 2001; No. 101, 2004; Nos. 55 and 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3244,15 +3214,7 @@ Part II</div>
 </tr>
 <tr>
   <td>
-    <div>S. 12B (first occurring)</div>
-  </td>
-  <td>
-    <div>ad. No. 92, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12B (second occurring)</div>
+    <div>S. 12B</div>
   </td>
   <td>
     <div>ad. No. 15, 2011</div>
@@ -3852,14 +3814,6 @@ Part II</div>
 </tr>
 <tr>
   <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>ad. No. 92, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 1</div>
   </td>
   <td>
@@ -4039,7 +3993,7 @@ The following amendment commences on 1 July 2016:
 
 Repeal the section.
 
-As at 8 September 2011 the amendment is not incorporated in this compilation.
+As at 15 April 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -4245,13 +4199,13 @@ Working out your modified net capital gain amount
 
 (1)       The amount of the reduction in your basic income tax liability is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image007.gif)
 
 Working out your capital gain adjustment percentage
 
 (2)       Your **_capital gain adjustment percentage_** is the percentage worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00733/Html/ac912063-5f98-4a08-a3e4-7e3681a25a81_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image008.gif)
 
 ## 25  Choices
 
@@ -4640,16 +4594,5 @@ _Tax Laws Amendment (2008 Measures No. 6) Act 2009 (No. 14, 2009)_
 ## 36  Application
 
 The amendment made by item 35 applies to assessments for the 2007‑08 income year and later income years.
-
-* * *
-
-_Income Tax Rates Amendment (Research and Development) Act 2011 
- (No. 92, 2011)_
-
-## Schedule 1
-
-## 4  Application
-
-The amendments made by this Schedule apply to assessments for years of income commencing on or after 1 July 2011.
 
  
