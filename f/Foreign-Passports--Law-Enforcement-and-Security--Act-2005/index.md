@@ -1,7 +1,7 @@
 
 Passports Act 1938
 Act No. 15 of 1938 as amended
-This compilation was prepared on 26 May 2001 taking into account amendments up to Act No. 35 of 2001
+This compilation was prepared on 7 February 2001 taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -14,7 +14,6 @@ Contents
 4	Extension of Act to Territories	1
 4A	Extra‑territorial operation of Act	1
 5	Interpretation	1
-5A	Application of the Criminal Code	3
 6	Administration of Act in external Territories	3
 6AA	Approved senior officer	4
 6AB	Approved officer	4
@@ -22,22 +21,23 @@ Contents
 7	Issue of passports	4
 7A	Passport not to be issued to unmarried minors except in special circumstances	5
 7B	Passports not to be issued to certain persons	7
-7C	Passport not to be issued if moneys owing to Commonwealth	8
+7C	Passport not to be issued if moneys owing to Commonwealth	7
 7D	Issue of concurrently valid passports	8
-7E	Passports not to be issued in certain circumstances	9
+7E	Passports not to be issued in certain circumstances	8
 8	Cancellation of passports etc.	9
 8A	Notification of loss or theft of passports	11
 9	Power to order passport to be delivered up	11
 9A	Offences relating to improper use or possession of passports etc.	12
-9B	Falsifying foreign passports etc.	13
-9C	Offences relating to the issue of passports	13
+9B	Offences relating to forgery etc. of passports	13
+9C	Offences relating to the issue of passports	14
 10	Penalty for making false statements	14
-11	Prosecution of offences	14
+11	Prosecution of offences	15
 11A	Review of certain decisions	15
 11B	Notice of decision	18
-11C	Delegation	18
+11C	Delegation	19
 12	Regulations	19
 Notes		21
+
 
 An Act relating to Passports
 1  Short title [see Note 1]
@@ -77,12 +77,9 @@ officer means any officer of the Department, and includes any officer of Customs
 prescribed minor means a person who has not attained the age of 18 years, not being a person who is, or has been, married.
 this Act includes any regulations made thereunder.
 	(2)	A reference in this Act to an officer shall be read as including a reference to a person authorized by the Administrator of an external Territory who holds a delegation from the Minister under section 6 to exercise, in and in relation to that Territory, the powers conferred on officers by this Act.
-	(3)	Where regulations empower the Minister or officers to issue certificates of identity or other documents of identity for travel purposes, a reference in section 6A, 8 (other than paragraph (1A)(a)), 8A, 9, 9A (other than paragraph (f)), 9B (other than paragraph (b)), 9C (other than paragraph (2)(a)), 10, 11A or 12 to an Australian passport, to a passport granted in pursuance of this Act or to a passport shall be read as including a reference to a certificate of identity or other document of identity issued by virtue of those regulations.
-	(4)	A reference in paragraph 9A(f) or 9B(b) to a passport issued by or on behalf of the government of a foreign country shall be read as including a reference to a document of identity issued by or on behalf of the government of a foreign country for travel purposes (whether or not also issued for any other purpose).
+	(3)	Where regulations empower the Minister or officers to issue certificates of identity or other documents of identity for travel purposes, a reference in section 6A, 8 (other than paragraph (1A)(a)), 8A, 9, 9A (other than paragraph (f)), 9B (other than paragraph (f)), 9C (other than paragraph (2)(a)), 10, 11A or 12 to an Australian passport, to a passport granted in pursuance of this Act or to a passport shall be read as including a reference to a certificate of identity or other document of identity issued by virtue of those regulations.
+	(4)	A reference in paragraph 9A(f) or 9B(f) to a passport issued by or on behalf of the government of a foreign country shall be read as including a reference to a document of identity issued by or on behalf of the government of a foreign country for travel purposes (whether or not also issued for any other purpose).
 	(5)	For the purposes of this Act, where an overseas child order as defined in section 70F of the Family Law Act 1975 is registered in a court in Australia in accordance with regulations under section 70G of that Act, that order shall be deemed to be an order of that court made in pursuance of that Act.
-5A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 6  Administration of Act in external Territories
 	(1)	The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to the Administrator of an external Territory all or any of his or her powers under this Act, other than this power of delegation.
 	(2)	A power so delegated to the Administrator of an external Territory may be exercised by the Administrator only in or in relation to that Territory.
@@ -192,39 +189,43 @@ Penalty:	$2,000 or imprisonment for 1 year.
 Penalty:	$2,000 or imprisonment for 1 year.
 	(4)	Any passport delivered up to an officer in accordance with the provisions of this section may, subject to any direction of the Minister, an approved representative or the approved senior officer, be retained by the officer or be returned to the person who delivered it up, as the officer thinks fit.
 9A  Offences relating to improper use or possession of passports etc.
-	(1)	A person who:
-	(a)	in connection with travel or identification, uses an Australian passport that has been cancelled;
-	(b)	in connection with travel or identification, uses an Australian passport that was issued to another person;
-	(c)	being a person to whom an Australian passport has been issued, permits another person to use that passport in connection with travel or identification;
-	(d)	has in his or her possession or under his or her control an Australian passport that was not issued to him or her;
-	(e)	has in his or her possession or under his or her control:
+		A person who:
+	(a)	for purposes of travel or identification and without reasonable excuse, uses an Australian passport that has been cancelled;
+	(b)	for purposes of travel or identification and without reasonable excuse, uses an Australian passport that was issued to another person;
+	(c)	being a person to whom an Australian passport has been issued, permits, without reasonable excuse, another person to use that passport for purposes of travel or identification;
+	(d)	without reasonable excuse, has in his or her possession or under his or her control an Australian passport that was not issued to him or her;
+	(e)	without reasonable excuse, has in his or her possession or under his or her control:
 	(i)	an Australian passport that has been falsified; or
 	(ii)	a document (not being an Australian passport) that purports to be an Australian passport;
-	(f)	has in his or her possession or under his or her control within Australia:
+	(f)	without reasonable excuse, has in his or her possession or under his or her control within Australia:
 	(i)	a passport issued by or on behalf of the government of a foreign country, being a passport that has been falsified; or
 	(ii)	a document (not being a passport issued by or on behalf of the government of a foreign country) that purports to be a passport issued by or on behalf of the government of a foreign country; or
-	(g)	intentionally does an act that causes the defacing or destruction of an Australian passport;
+	(g)	wilfully defaces or destroys an Australian passport;
 is guilty of an offence and is punishable, on conviction, by a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years.
-	(2)	Paragraphs (1)(a) to (f) (inclusive) do not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (2). See subsection 13.3(3) of the Criminal Code.
-9B  Falsifying foreign passports etc.
-		A person is guilty of an offence if the person:
-	(a)	within Australia, falsifies a passport issued by or on behalf of the government of a foreign country; or
-	(b)	within Australia, makes a document that is false within intent that the false document may be used, acted on or accepted as if it were a passport issued by or on behalf of the government of a foreign country.
-Penalty:	Imprisonment for 7 years.
+9B  Offences relating to forgery etc. of passports
+		A person who:
+	(a)	without lawful authority or excuse, knowingly makes, uses, has in his or her possession or disposes of:
+	(i)	paper or other material that is specially provided by proper authority for the purposes of Australian passports;
+	(ii)	paper or other material resembling, or apparently intended to resemble or pass for, paper or other material of the kind referred to in subparagraph (i);
+	(b)	falsifies an Australian passport;
+	(c)	within Australia falsifies a passport issued by or on behalf of the government of a country other than Australia;
+	(d)	makes a false endorsement of an Australian passport or falsifies an endorsement of an Australian passport;
+	(e)	makes a document that is false with intent that the false document may be used, acted on or accepted as if it were an Australian passport; or
+	(f)	within Australia, makes a document that is false with intent that the false document may be used, acted on or accepted as if it were a passport issued by or on behalf of the government of a foreign country;
+is guilty of an offence and is punishable, on conviction, by a fine not exceeding $10,000 or imprisonment for a period not exceeding 5 years.
 9C  Offences relating to the issue of passports
 	(1)	A person other than the Minister or an authorized officer shall not purport to issue an Australian passport or a document (not being an Australian passport) that purports to be an Australian passport.
 	(2)	An authorized officer shall not:
-	(a)	intentionally issue an Australian passport in contravention of section 7A, 7B, 7C, 7D or 7E; or
+	(a)	knowingly issue an Australian passport in contravention of section 7A, 7B, 7C, 7D or 7E; or
 	(b)	issue an Australian passport to a person knowing that the person is not an Australian citizen.
 Penalty:	$5,000 or imprisonment for 2 years.
 10  Penalty for making false statements 
-	(1)	A person shall not make any false or misleading statement, whether orally or in writing:
-	(a)	in the course of obtaining, or attempting to obtain, an Australian passport or a renewal or endorsement of an Australian passport; or
-	(b)	in the course of supporting an application by another person for an Australian passport or for a renewal or endorsement of an Australian passport.
+	(1)	A person shall not knowingly or recklessly make any false or misleading statement, whether orally or in writing:
+	(a)	for the purpose of obtaining an Australian passport or a renewal or endorsement of an Australian passport; or
+	(b)	in support of an application by another person for an Australian passport or for a renewal or endorsement of an Australian passport.
 	(2)	A person shall not, with intent to defeat the provisions of a law of the Commonwealth or of a Territory, make, within Australia, a false or misleading statement, whether orally or in writing:
-	(a)	in the course of obtaining, or attempting to obtain, a passport other than an Australian passport or renewal or endorsement of a passport other than an Australian passport; or
-	(b)	in the course of supporting an application by another person for a passport other than an Australian passport or for renewal or endorsement of a passport other than an Australian passport.
+	(a)	for the purpose of obtaining a passport other than an Australian passport or renewal or endorsement of a passport other than an Australian passport; or
+	(b)	in support of an application by another person for a passport other than an Australian passport or for renewal or endorsement of a passport other than an Australian passport.
 Penalty:	$5,000 or imprisonment for 2 years.
 11  Prosecution of offences
 	(1)	Subject to subsection (2), an offence against this Act (other than an offence against subsection 8(1C) or (3), section 8A or subsection 9(1A), (2) or (3)) is an indictable offence.
@@ -409,13 +410,8 @@ Schedule 1 (item 30): 14 Nov 1997 (f)
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
+Schedule 2 (items 311‑313, 418, 419): [see (g), Note 2 and Table A]
 Sch. 2 (items 418, 419) [see Table A]
-Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001
-35, 2001
-28 Apr 2001
-26 May 2001
-S. 4 [see Table A]
 (a)	The Passports Act 1938 was amended by section 3 only of the Administrative Changes (Consequential Provisions) Act 1976, subsection 2(7) of which provides as follows:
 	(7)	The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
 (b)	The Passports Amendment Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(34) of which provides as follows:
@@ -428,6 +424,9 @@ S. 4 [see Table A]
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 (f)	The Passports Act 1938 was amended by Schedule 1 (item 30) only of the Foreign Affairs and Trade Legislation Amendment Act 1997, subsection 2(3) of which provides as follows:
 	(3)	The amendment of section 10 of the Passports Act 1938 made by this Act commences on the 28th day after the day on which this Act receives the Royal Assent.
+(g)	The Passports Act 1938 was amended by Schedule 2 (items 311‑313) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
+	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
+	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -437,9 +436,7 @@ am. No. 216, 1973
 S. 4A	
 ad. No. 103, 1979
 S. 5	
-am. No. 85, 1948; No. 216, 1973; No. 91, 1976; Nos. 103 and 155, 1979; No. 70, 1980; No. 168, 1984; No. 140, 1995; No. 137, 2000
-S. 5A	
-ad. No. 35, 2001
+am. No. 85, 1948; No. 216, 1973; No. 91, 1976; Nos. 103 and 155, 1979; No. 70, 1980; No. 168, 1984; No. 140, 1995
 S. 6	
 am. No. 103, 1979
 
@@ -480,26 +477,20 @@ ad. No. 103, 1979
 am. No. 168, 1984; No. 43, 1996
 S. 9	
 am. No. 93, 1966; No. 216, 1973; No. 103, 1979; No. 168, 1984; No. 65, 1985; No. 43, 1996
-S. 9A	
-ad. No. 103, 1979
-
-am. No. 168, 1984; No. 43, 1996; No. 35, 2001
-S. 9B	
+Ss. 9A, 9B	
 ad. No. 103, 1979
 
 am. No. 168, 1984; No. 43, 1996
-
-rs. No. 137, 2000
 S. 9C	
 ad. No. 103, 1979
 
-am. No. 168, 1984; No. 35, 2001
+am. No. 168, 1984
 S. 10	
 am. No. 93, 1966
 
 rs. No. 103, 1979
 
-am. No. 168, 1984; No. 150, 1997; No. 35, 2001
+am. No. 168, 1984; No. 150, 1997
 S. 11	
 rs. No. 103, 1979
 
@@ -508,9 +499,26 @@ Ss. 11A‑11C
 ad. No. 168, 1984; No. 43, 1996
 S. 12	
 am. No. 93, 1966; No. 103, 1979; No. 168, 1984
+Note 2
+Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following amendments commence on 24 May 2001 unless proclaimed earlier:
+Schedule 2
+311  Subsection 5(3)
+Omit “9B (other than paragraph (f)),”, substitute “9B (other than paragraph (b)),”.
+312  Subsection 5(4)
+Omit “or 9B(f)”, substitute “or 9B(b)”.
+313  Section 9B
+Repeal the section, substitute:
+9B  Falsifying foreign passports etc.
+		A person is guilty of an offence if the person:
+	(a)	within Australia, falsifies a passport issued by or on behalf of the government of a foreign country; or
+	(b)	within Australia, makes a document that is false within intent that the false document may be used, acted on or accepted as if it were a passport issued by or on behalf of the government of a foreign country.
+Penalty:	Imprisonment for 7 years.
+As at 7 February 2001 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following provisions commence on 24 May 2001 unless proclaimed earlier:
 Schedule 2
 418  Transitional—pre‑commencement offences
 (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
@@ -525,9 +533,4 @@ If:
 	(b)	any or all of those other provisions are repealed by this Schedule; and
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001 (No. 35, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
