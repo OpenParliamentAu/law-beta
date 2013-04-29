@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00273/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
 
 # Defence Force (Home Loans Assistance) Act 1990
 
 **Act No. 14 of 1991 as amended**
 
-This compilation was prepared on 22 November 2006
+This compilation was prepared on 25 May 2006
  taking into account amendments up to Act No. 45 of 2006
 
 The text of any of those amendments not in force
@@ -247,7 +247,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="composit-servic"></a>**_composite service_**, in relation to a person who has completed a period of effective full-time service and a period of statutory training obligation without a break between the periods, means a period of service that is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00273/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
 
                     where:
 
@@ -259,15 +259,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Example 1:    If a person completes 7 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00273/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
 
 Example 2:    If a person completes 4 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00273/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
 
 Example 3:    If a person completes 10 years of statutory training obligation and 2 years of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00273/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
 
                     <a name="continu-full-time-servic"></a>**_continuous full-time service_** means an unbroken period of full-time service by a member in the Defence Force.
 
@@ -1184,7 +1184,7 @@ where:
 
              (3)  The monthly subsidy amount must be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00273/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
 
 where:
 
@@ -1476,7 +1476,7 @@ the Secretary may, by notice in writing given to the person, reduce the due amou
 
                      (b)  a member (being an officer) of the Defence Force; or
 
-                     (c)  a member, or member of the staff, of the Defence Housing Australia.
+                     (c)  a member, or member of the staff, of the Defence Housing Authority.
 
 ##### <a id="38"></a>38  Appropriation
 
@@ -1736,7 +1736,7 @@ Clause
 
           31.9   Commencement Date after 31 December 1991
 
-                             31.10  Passage of enabling legislation after 31 December 1990
+                   31.10         Passage of enabling legislation after 31 December 1990
 
 SCHEDULES
 
@@ -2044,7 +2044,7 @@ In this Agreement except where the context otherwise requires:
 
 2.2     Bank to act in accordance with Scheme
 
-                        The Bank further agrees to be bound by and to act at all times in accordance with the Scheme.
+          The Bank further agrees to be bound by and to act at all times in accordance with the Scheme.
 
 3.       FRANCHISE
 
@@ -2066,7 +2066,7 @@ In this Agreement except where the context otherwise requires:
 
           (b)     for each of the periods set out in Column 1 of Schedule A a payment calculated in accordance with the following formula:
 
-P = (a — b) ![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image007.gif) c
+P = (a — b) <sub>![](http://www.comlaw.gov.au/Details/C2006C00273/Html/DefenceForceHLA1990_WD02HYP_image007.gif)</sub> c
 
 Where 
 
@@ -3033,24 +3033,35 @@ R. J. MILLER                      �
   <col width="24%">
 </colgroup>
 
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 3</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 4</b>
+      </div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
-    <div>Column 1</div>
-  </td>
-  <td>
-    <div>Column 2</div>
-  </td>
-  <td>
-    <div>Column 3</div>
-  </td>
-  <td>
-    <div>Column 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>From 
-Commencement</div>
+    <div>
+      <b>From Commencement</b>
+    </div>
   </td>
   <td>
     <div></div>
@@ -3274,7 +3285,8 @@ Commencement</div>
 </tr>
 <tr>
   <td>
-    <div>1 January 2006 to 
+    <div>1 January 2006 to
+
 31 January 2007</div>
   </td>
   <td>
@@ -3288,7 +3300,7 @@ Commencement</div>
   </td>
 </tr></table>
 
-**Schedule B—<span class="CharChapText">Particulars to be included in documents referred to in this Agreement</span>**
+**Schedule B—Particulars to be included in documents referred to in this Agreement**
 
 ENTITLEMENT CERTIFICATE
 
@@ -3456,7 +3468,7 @@ Address.............................
 
 Telephone Number (   )....... 
 
-**Schedule D—Loan Agreement**
+Schedule D—Loan Agreement
 
 TO: National Australia Bank Limited (the “Bank”).
 
@@ -3602,13 +3614,13 @@ Term:                         
 
 Initial Instalment: $
 
-Due:   Monthly/Fortnightly* —commencing that period from final drawdown or such other date as advised by the Bank.
+Due:   Monthly/Fortnightly<sup>* </sup>—commencing that period from final drawdown or such other date as advised by the Bank.
 
 Reference Rate:               % per annum
 
 4.            Loan Interest Day
 
-Last business day of each—Month**              (*  * Delete and specify relevant period if other than Month)
+Last business day of each—Month<sup>**</sup>               (<sup>* </sup> <sup>* </sup>Delete and specify relevant period if other than Month)
 
 5.            Fees
 
@@ -3620,21 +3632,21 @@ Commitment fee:          % per annum
 
 6.            Securities
 
-(To be) registered First/Second*  Mortgage over property situated at—
+(To be) registered First/Second<sup>* </sup> Mortgage over property situated at—
 
 7.            Insurances
 
 Please effect a:
 
-*    Home Safe Policy with National and General Insurance Co. Ltd.
+<sup>* </sup>    Home Safe Policy with National and General Insurance Co. Ltd.
 
-*    Mortgage Safe Policy with National and General Insurance Co. Ltd.
+<sup>* </sup>    Mortgage Safe Policy with National and General Insurance Co. Ltd.
 
-*    Mortgage Safe Policy with National Australia Life Ltd.
+<sup>* </sup>    Mortgage Safe Policy with National Australia Life Ltd.
 
 and debit to the loan account the annual premium/s as advised by the Insurer/s.
 
-* Delete whichever is inapplicable.
+<sup>* </sup>Delete whichever is inapplicable.
 
 8.            Current Interest Rate
 
@@ -3647,8 +3659,6 @@ and debit to the loan account the annual premium/s as advised by the Insurer/s.
 **Note:**
 
 The amendments made by this Schedule are incorporated in the compilation on ComLaw.
-
-_Defence Service Homes Act 1918_
 
 For access to the wording of the amendments made by this Schedule, _see_ Act No. 14, 1991.
 
@@ -3933,7 +3943,7 @@ Remainder: Royal Assent</div>
     <div>22 May 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 22 Nov 2006</div>
+    <div>Schedule 2 (item 1): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4235,15 +4245,21 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
   <td>
     <div>am. No. 61, 1994</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Defence Housing Authority Amendment Act 2006 (No. 45, 2006)_
+
+The following amendment commences on 22 November 2006 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1  Paragraph 37(c)
+
+Omit “Authority”, substitute “Australia”.
+
+As at 25 May 2006 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -4280,5 +4296,7 @@ _Example: Assume that, immediately before the commencement of this item, regulat
 (2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
 (3)        Subitem (2) does not limit the scope of subitem (1).
+
+ 
 
  
