@@ -1,728 +1,814 @@
-![](http://www.comlaw.gov.au/Details/C2005C00553/Html/519dd974-a7db-4202-8063-4af8576de676_files/image001.gif)
+**
 
-# National Residue Survey (Customs) Levy Act 1998
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998 
+**
 
-**Act No. 32 of 1998 as amended**
 
-This compilation was prepared on 31 August 2005
- taking into account amendments up to Act No. 108 of 2005
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title \[see Note 1]
 
-[2](#2).            Commencement \[see Note 1]
 
-[3](#3).            Simplified outline
 
-[4](#4).            Definitions
 
-[5](#5).            Act to bind Crown
 
-[6](#6).            Duties of customs
+**
 
-[7](#7).            Imposition of levy
+###  Long Title 
+**
 
-[8](#8).            Regulations
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998- SECT 1  Short title \[see Note 1] 
+<dl compact="">
 
-**Schedule 1—Aquatic animal export**
+		This Act may be cited as the _National Residue Survey (Customs) Levy Act 1998_.
 
-[1](#1).            Definitions
+ </dl>
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998- SECT 2  Commencement \[see Note 1] 
+<dl compact="">
 
-[2](#2).            Imposition of levy
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), this Act commences on a day to be fixed by
 
-[3](#3).            Rate of levy
+Proclamation.</dd> <dt>(2)</dt><dd>If this Act does not commence under subsection&#160;(1) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. </dd> </dl>
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998- SECT 3  Simplified outline 
+<dl compact="">
 
-[4](#4).            Who pays the levy
+		The following is a simplified outline of this Act:
 
-**Schedule 2—Cattle export**
+ </dl>
 
-[1](#1).            Definitions
 
-[2](#2).            Imposition of levy
 
-[3](#3).            Rate of levy
 
-[4](#4).            Who pays the levy
 
-**Schedule 3—Honey export**
 
-[1](#1).            Definitions
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998- SECT 4  Definitions 
+<dl compact="">
 
-[2](#2).            Imposition of levy
+		Unless the contrary intention appears, a word or expression has the same
 
-[3](#3).            Rate of levy
+meaning in a Schedule to this Act as it has in the _Primary Industries Levies and Charges Collection Act 1991_.
 
-[4](#4).            Who pays the levy
+ </dl>
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998- SECT 5  Act to bind Crown 
+<dl compact="">
 
-**Schedule 4—Horticultural products export**
+		This Act binds the Crown in right of each of the States, of the Australian
 
-[1](#1).            Definitions
+Capital Territory, of the Northern Territory and of Norfolk Island. However, it
 
-[2](#2).            Imposition of levy
+does not bind the Crown in right of the Commonwealth.
 
-[3](#3).            Rate of levy—onions
+ </dl>
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998- SECT 6  Duties of customs 
+<dl compact="">
 
-[4](#4).            Rate of levy—apples and pears
+		This Act authorises the imposition of a levy only so far as the levy is a
 
-[5](#5).            Rate of levy—eligible horticultural products
+duty of customs within the meaning of section&#160;55 of the Constitution.
 
-[6](#6).            Who pays the levy
+ </dl>
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998- SECT 7  Imposition of levy 
+<dl compact="">
 
-[7](#7).            Regulations
+		The Schedules have effect.
 
-**Schedule 5—Sheep, lambs and goats export**
+ </dl>
 
-[1](#1).            Definitions
+Back to Top
 
-[2](#2).            Imposition of levy
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998- SECT 8  Regulations 
+<dl compact="">
 
-[3](#3).            Rate of levy
+		The Governor-General may make regulations prescribing matters:
 
-[4](#4).            Who pays the levy
+ </dl>
 
-**Notes** 
+**
 
- 
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998Schedule&#160;1&#151;Aquatic animal export 
+**
 
-## An Act to impose National Residue Survey Levies that are duties of customs
+<dl compact="">
 
-##### <a id="1"></a>1  Short title \[see Note 1]
+		In this Schedule:
 
-                   This Act may be cited as the _National Residue Survey (Customs) Levy Act 1998_.
+ </dl>
+<dl compact=""><dl compact="">
 
-##### <a id="2"></a>2  Commencement \[see Note 1]
+_aquatic animal_ means:
 
-             (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
+ </dl></dl>
 
-             (2)  If this Act does not commence under subsection (1) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
-
-##### <a id="3"></a>3  Simplified outline
-
-                   The following is a simplified outline of this Act:
-
-* * *
-
-•      This Act imposes National Residue Survey Levies that are duties of customs.
-
-•        Each Schedule imposes a particular levy and makes provision for:
-
-               (a)     the operative rate of the levy; and
-
-              (b)     the maximum rate of the levy; and
-
-               (c)     the person who is liable to pay the levy; and
-
-              (d)     any exemptions from the levy.
-
-* * *
-
-##### <a id="4"></a>4  Definitions
-
-                   Unless the contrary intention appears, a word or expression has the same meaning in a Schedule to this Act as it has in the _Primary Industries Levies and Charges Collection Act 1991_.
-
-##### <a id="5"></a>5  Act to bind Crown
-
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island. However, it does not bind the Crown in right of the Commonwealth.
-
-##### <a id="6"></a>6  Duties of customs
-
-                   This Act authorises the imposition of a levy only so far as the levy is a duty of customs within the meaning of section 55 of the Constitution.
-
-##### <a id="7"></a>7  Imposition of levy
-
-                   The Schedules have effect.
-
-##### <a id="8"></a>8  Regulations
-
-                   The Governor‑General may make regulations prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-# Schedule 1—Aquatic animal export
-
-##### <a id="1"></a>1  Definitions
-
-                   In this Schedule:
-
-                    <a name="aquat-anim"></a>**_aquatic animal_** means:
-
-                     (a)  live, fresh or processed fish; and
-
-                     (b)  crustaceans and molluscs; and
-
-                     (c)  aquatic reptiles; and
-
-                     (d)  all other forms of amphibious or aquatic animal life;
+	(a)	live, fresh or processed fish; and
+ 	(b)	crustaceans and molluscs; and
+ 	(c)	aquatic reptiles; and
+ 	(d)	all other forms of amphibious or aquatic animal life;
 
 but does not include:
 
-                     (e)  aquatic mammals; or
+	(e)	aquatic mammals; or
+ 	(f)	oyster spat or live fish ova; or
+ 	(g)	aquarium fish; or
+ 	(h)	shells from which the fish have been removed.
 
-                      (f)  oyster spat or live fish ova; or
+<def><dl compact=""><dl compact="">
 
-                     (g)  aquarium fish; or
+_aquatic animal product_ means a product of which the major
 
-                     (h)  shells from which the fish have been removed.
+component is aquatic animals.
 
-                    <a name="aquat-anim-product"></a>**_aquatic animal product_** means a product of which the major component is aquatic animals.
+ </dl></dl>
 
-##### <a id="2"></a>2  Imposition of levy
+2  Imposition of levy
 
-             (1)  National Residue Survey Levy is imposed on the export of aquatic animals, or aquatic animal products, from Australia after the commencement of this Schedule.
+<dl compact=""><dl compact="">
 
-             (2)  National Residue Survey Levy is not imposed by this Schedule if the aquatic animal or aquatic animal product is prescribed for the purposes of this subclause.
+<dt>(1)</dt><dd>National Residue Survey Levy is imposed on the export of aquatic animals,
 
-##### <a id="3"></a>3  Rate of levy
+or aquatic animal products, from Australia after the commencement of this
 
-             (1)  The rate of National Residue Survey Levy imposed by this Schedule on the export of aquatic animals of a particular class or aquatic animal products produced from aquatic animals of a particular class is:
+Schedule.</dd> <dt>(2)</dt><dd>National Residue Survey Levy is not imposed by this Schedule if the aquatic animal or aquatic animal product is prescribed for the purposes of this subclause. </dd> </dl></dl>
 
-                     (a)  the rate specified in the third column of the following table opposite that class; or
+3  Rate of levy
 
-                     (b)  if regulations are made prescribing a rate in relation to that class, being a rate that does not exceed the rate specified in the fourth column of the following table opposite that class—that prescribed rate.
+<dl compact=""><dl compact="">
 
-<table>
-<colgroup>
-  <col width="11%">
-  <col width="47%">
-  <col width="22%">
-  <col width="21%">
-</colgroup>
+<dt>(1)</dt><dd>The rate of National Residue Survey Levy imposed by this Schedule on the
 
-<thead>
-  <tr>
-    <td colspan="4">
-      <div><b>Rates table</b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Item</b></div>
-    </td>
-    <td>
-      <div><b>Class of aquatic animal</b></div>
-    </td>
-    <td>
-      <div><b>Operative rate of levy</b></div>
-    </td>
-    <td>
-      <div><b>Maximum rate of levy</b></div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+export of aquatic animals of a particular class or aquatic animal products
+
+produced from aquatic animals of a particular class is:
+
+</dd> </dl></dl>
+
+	(a)	the rate specified in the third column of the following table opposite that class; or
+ 	(b)	if regulations are made prescribing a rate in relation to that class, being a rate that does not exceed the rate specified in the fourth column of the following table opposite that class&#151;that prescribed rate.
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Rates table</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>
+Item</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Class of aquatic animal</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Operative rate of levy</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Maximum rate of levy</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>1</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>fin fish</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 cent per kilogram</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5 cents per kilogram</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>2</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>abalone</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 cent per kilogram</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5 cents per kilogram</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>3</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>other crustaceans and molluscs</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 cent per kilogram</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5 cents per kilogram</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>4</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>any other aquatic animal</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 cent per kilogram</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5 cents per kilogram</div>
+
   </td>
-</tr></table>
+</tr></table><dl compact=""><dl compact="">
 
-             (2)  The regulations may prescribe different rates in relation to:
+<dt>(2)</dt><dd>The regulations may prescribe different rates in relation to:
 
-                     (a)  different groups of aquatic animals within the same class of aquatic animals; and
+</dd> </dl></dl>
 
-                     (b)  aquatic animal products produced from different groups of aquatic animals within the same class of aquatic animals.
+<center>Back to Top</center>
 
-             (3)  Subclause (2) does not affect the application of subsection 33(3A) of the _Acts Interpretation Act 1901_.
+	(a)	different groups of aquatic animals within the same class of aquatic animals; and
+ 	(b)	aquatic animal products produced from different groups of aquatic animals within the same class of aquatic animals.
 
-##### <a id="4"></a>4  Who pays the levy
+<dl compact=""><dl compact="">
 
-                   National Residue Survey Levy imposed by this Schedule on the export of aquatic animals or aquatic animal products is payable by the producer of the aquatic animals or aquatic animal products.
+<dt>(3)</dt><dd>Subclause&#160;(2) does not affect the application of subsection 33(3A) of
 
- 
+the _Acts Interpretation Act 1901_.
 
-# Schedule 2—Cattle export
+</dd> </dl></dl>
 
-##### <a id="1"></a>1  Definitions
+4  Who pays the levy
 
-                   In this Schedule:
+<dl compact=""><dl compact="">
 
-                    <a name="dairi-cattl"></a><a name="cattl"></a>**_cattle_** and **_dairy cattle_** have the same respective meanings as in Schedule 3 to the _Primary Industries (Customs) Charges Act 1999_.
+		National Residue Survey Levy imposed by this Schedule on the export of
 
-##### <a id="2"></a>2  Imposition of levy
+aquatic animals or aquatic animal products is payable by the producer of the
 
-             (1)  National Residue Survey Levy is imposed on the export of cattle (other than dairy cattle) from Australia after the commencement of this Schedule if levy under Schedule 1 to the _National Residue Survey (Excise) Levy Act 1998_ has not been paid, and is not payable, in respect of an act or transaction relating to the cattle.
+aquatic animals or aquatic animal products.
 
-             (2)  National Residue Survey Levy is imposed on the export of cattle (other than dairy cattle) from Australia after the commencement of this Schedule if:
+ </dl></dl>
 
-                     (a)  the cattle were purchased by the exporter, whether before or after the commencement of this Schedule; and
+<center>**
 
-                     (b)  the period starting on the date of the purchase and ending on the date of the export is longer than the longest of the following periods:
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998Schedule&#160;2&#151;Cattle export 
+**</center>
 
-                              (i)  60 days;
+1  Definitions
 
-                             (ii)  the period for which the cattle are required under the _Quarantine Act 1908_ to be held in quarantine before being exported;
+<dl compact=""><dl compact="">
 
-                            (iii)  the period for which the cattle are required under the law of the country to which they are being exported to be held in quarantine before being exported.
+		In this Schedule:
 
-##### <a id="3"></a>3  Rate of levy
+ </dl></dl>
 
-             (1)  The rate of National Residue Survey Levy imposed by this Schedule on the export of each head of cattle (other than a chargeable bobby calf) is 32 cents or, if another rate (not exceeding 35 cents) is prescribed by the regulations, the other rate.
+<def><dl compact=""><dl compact="">
 
-             (2)  The rate of National Residue Survey Levy imposed by this Schedule on the export of each head of cattle that is a chargeable bobby calf is 26 cents or, if another rate (not exceeding 35 cents) is prescribed by the regulations, the other rate.
+_cattle_ and _dairy cattle_ have the same respective
 
-             (3)  For the purposes of subclause (1), a cow with a calf at foot are together taken to constitute a single head of cattle.
+meanings as in Schedule&#160;3 to the _Primary Industries (Customs) Charges Act 1999_.
 
-             (4)  In this clause:
+ </dl></dl>
 
-                    <a name="chargeabl-bobbi-calf"></a>**_chargeable bobby calf_** means a bovine animal:
+2  Imposition of levy
 
-                     (a)  which, at the time when it is exported, had or has a liveweight that did not or does not exceed 80kg; or
+<dl compact=""><dl compact="">
 
-                     (b)  which has not had its liveweight determined at the time when it is exported but which, in the opinion of the intermediary, would, if slaughtered at that time, have constituted or constitute a carcase whose dressed weight would not have exceeded or would not exceed 40kg;
+<dt>(1)</dt><dd>National Residue Survey Levy is imposed on the export of cattle (other
+
+than dairy cattle) from Australia after the commencement of this Schedule if
+
+levy under Schedule&#160;1 to the _National Residue Survey (Excise) Levy Act 1998_ has not been paid, and is not payable, in respect of an act or
+
+transaction relating to the cattle.</dd> <dt>(2)</dt><dd>National Residue Survey Levy is imposed on the export of cattle (other than dairy cattle) from Australia after the commencement of this Schedule if: </dd> </dl></dl>
+
+	(a)	the cattle were purchased by the exporter, whether before or after the commencement of this Schedule; and
+ 	(b)	the period starting on the date of the purchase and ending on the date of the export is longer than the longest of the following periods:
+ 	(i)	60 days;
+ 	(ii)	the period for which the cattle are required under the _Quarantine Act 1908_ to be held in quarantine before being exported;
+ 	(iii)	the period for which the cattle are required under the law of the country to which they are being exported to be held in quarantine before being exported. 
+ 3  Rate of levy
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The rate of National Residue Survey Levy imposed by this Schedule on the
+
+export of each head of cattle (other than a chargeable bobby calf) is 32 cents
+
+or, if another rate (not exceeding 35 cents) is prescribed by the regulations,
+
+the other rate.</dd> <dt>(2)</dt><dd>The rate of National Residue Survey Levy imposed by this Schedule on the export of each head of cattle that is a chargeable bobby calf is 26 cents or, if another rate (not exceeding 35 cents) is prescribed by the regulations, the other rate.</dd> <dt>(3)</dt><dd>For the purposes of subclause&#160;(1), a cow with a calf at foot are together taken to constitute a single head of cattle.</dd> <dt>(4)</dt><dd>In this clause: </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_chargeable bobby calf_ means a bovine animal:
+
+ </dl></dl>
+
+	(a)	which, at the time when it is exported, had or has a liveweight that did not or does not exceed 80kg; or
+ 	(b)	which has not had its liveweight determined at the time when it is exported but which, in the opinion of the intermediary, would, if slaughtered at that time, have constituted or constitute a carcase whose dressed weight 
+<center>Back to Top</center>
+ would not have exceeded or would not exceed 40kg;
 
 but does not include:
 
-                     (c)  a buffalo; or
+	(c)	a buffalo; or
+ 	(d)	a calf at foot with a cow.
 
-                     (d)  a calf at foot with a cow.
+<def><dl compact=""><dl compact="">
 
-                    <a name="intermediari"></a>**_intermediary_** means the person required, under the _Primary Industries Levies and Charges Collection_ _Act 1991_, to pay to the Commonwealth, on behalf of the producer, an amount equal to the amount of National Residue Survey Levy imposed by this Schedule.
+_intermediary_ means the person required, under the _Primary Industries Levies and Charges Collection_ _Act 1991_, to pay to the
 
-##### <a id="4"></a>4  Who pays the levy
+Commonwealth, on behalf of the producer, an amount equal to the amount of
 
-                   The National Residue Survey Levy imposed by this Schedule on the export of cattle is payable by the producer of the cattle.
+National Residue Survey Levy imposed by this Schedule.
 
-# Schedule 3—Honey export
+ </dl></dl>
 
-##### <a id="1"></a>1  Definitions
+4  Who pays the levy
 
-                   In this Schedule:
+<dl compact=""><dl compact="">
 
-                    <a name="honei"></a>**_honey_** means honey that is produced in Australia.
+		The National Residue Survey Levy imposed by this Schedule on the export of
 
-##### <a id="2"></a>2  Imposition of levy
+cattle is payable by the producer of the cattle.
 
-             (1)  National Residue Survey Levy is imposed on honey exported from Australia after the commencement of this Schedule.
+ </dl></dl>
 
-             (2)  National Residue Survey Levy is not imposed by this Schedule on honey on which National Residue Survey Levy imposed by:
+<center>**
 
-                     (a)  Schedule 7 to the _National Residue Survey (Excise) Levy Act 1998_; or
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998Schedule&#160;3&#151;Honey export 
+**</center>
 
-                     (b)  the repealed _National Residue Survey (Honey) Levy Act 1992_;
+1  Definitions
+
+<dl compact=""><dl compact="">
+
+		In this Schedule:
+
+ </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_honey_ means honey that is produced in Australia.
+
+ </dl></dl>
+
+2  Imposition of levy
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>National Residue Survey Levy is imposed on honey exported from Australia
+
+after the commencement of this Schedule.</dd> <dt>(2)</dt><dd>National Residue Survey Levy is not imposed by this Schedule on honey on which National Residue Survey Levy imposed by: </dd> </dl></dl>
+
+	(a)	Schedule&#160;7 to the _National Residue Survey (Excise) Levy Act 1998_; or
+ 	(b)	the repealed _National Residue Survey (Honey) Levy Act 1992_;
 
 has been paid or is payable.
 
-             (3)  National Residue Survey Levy is not imposed by this Schedule on honey exported from Australia by a person in a month if the weight of the total quantity of the honey exported from Australia by the person in that month is 50 kilograms or less.
+<dl compact=""><dl compact="">
 
-             (4)  The regulations may exempt a specified class of honey from National Residue Survey Levy imposed by this Schedule.
+<dt>(3)</dt><dd>National Residue Survey Levy is not imposed by this Schedule on honey
 
-##### <a id="3"></a>3  Rate of levy
+exported from Australia by a person in a month if the weight of the total
 
-                   The rate of National Residue Survey Levy imposed by this Schedule on honey is 0.3 cents per kilogram or, if another rate (not exceeding 0.6 cents per kilogram) is prescribed by the regulations, the other rate.
+quantity of the honey exported from Australia by the person in that month is 50
 
-##### <a id="4"></a>4  Who pays the levy
+kilograms or less.</dd> <dt>(4)</dt><dd>The regulations may exempt a specified class of honey from National Residue Survey Levy imposed by this Schedule. </dd> </dl></dl>
 
-                   The National Residue Survey Levy imposed by this Schedule on honey is payable by the producer of the honey.
+3  Rate of levy
 
-# Schedule 4—Horticultural products export
+<dl compact=""><dl compact="">
 
-##### <a id="1"></a>1  Definitions
+		The rate of National Residue Survey Levy imposed by this Schedule on honey is
 
-                   In this Schedule:
+0.3 cents per kilogram or, if another rate (not exceeding 0.6 cents per
 
-                    <a name="appl"></a>**_apples_** means fruit of any species of the genus _Malus_.
+kilogram) is prescribed by the regulations, the other rate.
 
-                    <a name="elig-horticultur-product"></a>**_eligible horticultural products_** means horticultural products specified in regulations made for the purposes of this definition.
+ </dl></dl>
 
-                    <a name="horticultur-product"></a>**_horticultural products_** has the same meaning as in Schedule 10 to the _Primary Industries (Customs) Charges Act 1999_.
+4  Who pays the levy
 
-                    <a name="leviabl-horticultur-product"></a>**_leviable horticultural products_** means:
+<dl compact=""><dl compact="">
 
-                     (a)  onions; or
+		The National Residue Survey Levy imposed by this Schedule on honey is payable
 
-                     (b)  apples; or
+by the producer of the honey.
 
-                     (c)  pears; or
+ </dl></dl>
 
-                     (d)  eligible horticultural products.
+<center>**
 
-                    <a name="onion"></a>**_onion_** means a bulb of the species _Allium cepa_.
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998Schedule&#160;4&#151;Horticultural products export 
+**</center>
 
-                    <a name="pear"></a>**_pears_** means fruit of any species of the genus _Pyrus_, except fruit of the species _Pyrus pyrifolia_(nashi).
+1  Definitions
 
-##### <a id="2"></a>2  Imposition of levy
+<dl compact=""><dl compact="">
 
-             (1)  National Residue Survey Levy is imposed on leviable horticultural products produced in Australia (whether before or after the commencement of this Schedule) that are exported from Australia after the commencement of this Schedule.
+		In this Schedule:
 
-             (2)  National Residue Survey Levy is not imposed by this Schedule on leviable horticultural products if the producer has paid levy imposed by Schedule 9 to the _National Residue Survey (Excise) Levy Act 1998_ on those products.
+ </dl></dl>
 
-             (3)  The regulations may exempt from National Residue Survey Levy imposed by this Schedule:
+<def><dl compact=""><dl compact="">
 
-                     (a)  leviable horticultural products exported by a specified class of persons; or
+_apples_ means fruit of any species of the genus _Malus_. _eligible horticultural products_ means horticultural products specified in regulations made for the purposes of this definition. _horticultural products_ has the same meaning as in Schedule&#160;10 to the _Primary Industries (Customs) Charges Act 1999_. _leviable horticultural products_ means:  </dl></dl>
 
-                     (b)  specified subclasses of a class of leviable horticultural products.
+<center>Back to Top</center>
 
-##### <a id="3"></a>3  Rate of levy—onions
+	(a)	onions; or
+ 	(b)	apples; or
+ 	(c)	pears; or
+ 	(d)	eligible horticultural products.
 
-                   The rate of National Residue Survey Levy imposed by this Schedule on onions is 40 cents per tonne or, if another rate (not exceeding $5.00 per tonne) is prescribed by the regulations, the other rate.
+<def><dl compact=""><dl compact="">
 
-##### <a id="4"></a>4  Rate of levy—apples and pears
+_onion_ means a bulb of the species _Allium cepa_. _pears_ means fruit of any species of the genus _Pyrus_, except fruit of the species _Pyrus pyrifolia_(nashi).  </dl></dl>
 
-             (1)  The rate of National Residue Survey Levy imposed by this Schedule on apples is 0.075 of a cent per kilogram or, if another rate (not exceeding 0.1 of a cent per kilogram) is prescribed by the regulations, the other rate.
+2  Imposition of levy
 
-             (2)  The rate of National Residue Survey Levy imposed by this Schedule on pears is 0.075 of a cent per kilogram or, if another rate (not exceeding 0.1 of a cent per kilogram) is prescribed by the regulations, the other rate.
+<dl compact=""><dl compact="">
 
-##### <a id="5"></a>5  Rate of levy—eligible horticultural products
+<dt>(1)</dt><dd>National Residue Survey Levy is imposed on leviable horticultural products
 
-             (1)  The rate of National Residue Survey Levy imposed by this Schedule on a particular class of eligible horticultural products is the rate that, under the regulations, is applicable to that class.
+produced in Australia (whether before or after the commencement of this
 
-             (2)  If the Australian Statistician has published an average annual unit gross value in relation to a class of eligible horticultural products for the first 3 of the 4 immediately preceding financial years, the rate of National Residue Survey Levy imposed by this Schedule in the current financial year in relation to products in that class must not exceed 2% of the average of those values.
+Schedule) that are exported from Australia after the commencement of this
 
-             (3)  Different rates may be prescribed by the regulations for different classes of eligible horticultural products.
+Schedule.</dd> <dt>(2)</dt><dd>National Residue Survey Levy is not imposed by this Schedule on leviable horticultural products if the producer has paid levy imposed by Schedule&#160;9 to the _National Residue Survey (Excise) Levy Act 1998_ on those products.</dd> <dt>(3)</dt><dd>The regulations may exempt from National Residue Survey Levy imposed by this Schedule: </dd> </dl></dl>
 
-             (4)  Subclause (3) does not affect the application of subsection 33(3A) of the _Acts Interpretation Act 1901_.
+	(a)	leviable horticultural products exported by a specified class of persons; or
+ 	(b)	specified subclasses of a class of leviable horticultural products. 
+ 3  Rate of levy&#151;onions
 
-##### <a id="6"></a>6  Who pays the levy
+<dl compact=""><dl compact="">
 
-                   The National Residue Survey Levy imposed by this Schedule on leviable horticultural products is payable by the producer of the products.
+		The rate of National Residue Survey Levy imposed by this Schedule on onions
 
-##### <a id="7"></a>7  Regulations
+is 40 cents per tonne or, if another rate (not exceeding $5.00 per tonne) is
 
-                   Without limiting the manner in which classes of leviable horticultural products may be described in the regulations, the regulations may describe such classes by reference to:
+prescribed by the regulations, the other rate.
 
-                     (a)  the use for which the products are exported or sold for export; or
+ </dl></dl>
 
-                     (b)  the state, form or condition of the products, whether by reference to a process or otherwise.
+4  Rate of levy&#151;apples and pears
 
-# Schedule 5—Sheep, lambs and goats export
+<dl compact=""><dl compact="">
 
-##### <a id="1"></a>1  Definitions
+<dt>(1)</dt><dd>The rate of National Residue Survey Levy imposed by this Schedule on
 
-                   In this Schedule:
+apples is 0.06 cents per kilogram or, if another rate (not exceeding 0.06 cents
 
-                    <a name="sheep"></a><a name="lamb"></a>**_lamb_** and **_sheep_** have the same respective meanings as in Schedule 12 to the _Primary Industries (Customs) Charges Act 1999._
+per kilogram) is prescribed by the regulations, the other rate.</dd> <dt>(2)</dt><dd>The rate of National Residue Survey Levy imposed by this Schedule on pears is 0.06 cents per kilogram or, if another rate (not exceeding 0.06 cents per kilogram) is prescribed by the regulations, the other rate. </dd> </dl></dl>
 
-##### <a id="2"></a>2  Imposition of levy
+5  Rate of levy&#151;eligible horticultural products
 
-             (1)  National Residue Survey Levy is imposed on the export of sheep, lambs or goats from Australia after the commencement of this Schedule if levy under Schedule 15 to the _National Residue Survey (Excise) Levy Act 1998_ has not been paid, and is not payable, in respect of an act or transaction relating to the sheep, lambs or goats.
+<dl compact=""><dl compact="">
 
-             (2)  National Residue Survey Levy is imposed on the export of sheep, lambs or goats from Australia after the commencement of this Schedule if:
+<dt>(1)</dt><dd>The rate of National Residue Survey Levy imposed by this Schedule on a
 
-                     (a)  the sheep, lambs or goats were purchased by the exporter, whether before or after the commencement of this Schedule; and
+particular class of eligible horticultural products is the rate that, under the
 
-                     (b)  the period starting on the date of the purchase and ending on the date of the export is longer than the longest of the following periods:
+regulations, is applicable to that class.</dd> <dt>(2)</dt><dd>If the Australian Statistician has published an average annual unit gross value in relation to a class of eligible horticultural products for the first 3 of the 4 immediately preceding financial years, the rate of National Residue Survey Levy imposed by this Schedule in the current financial year in relation to products in that class must not exceed 2% of the average of those values.</dd> <dt>(3)</dt><dd>Different rates may be prescribed by the regulations for different classes of eligible horticultural products.</dd> <dt>(4)</dt><dd>Subclause&#160;(3) does not affect the application of subsection 33(3A) of the _Acts Interpretation Act 1901_. </dd> </dl></dl>
 
-                              (i)  30 days;
+6  Who pays the levy
 
-                             (ii)  the period for which the sheep, lambs or goats are required under the _Quarantine Act 1908_ to be held in quarantine before being exported;
+<dl compact=""><dl compact="">
 
-                            (iii)  the period for which the sheep, lambs or goats are required under the law of the country to which they are being exported to be held in quarantine before being exported.
+		The National Residue Survey Levy imposed by this Schedule on leviable
 
-##### <a id="3"></a>3  Rate of levy
+horticultural products is payable by the producer of the products.
 
-             (1)  The rate of National Residue Survey Levy imposed by this Schedule on the export of each head of sheep or lambs is 2 cents or, if another rate (not exceeding 8 cents) is prescribed by the regulations, the other rate.
+ </dl></dl>
 
-             (2)  The rate of National Residue Survey Levy imposed by this Schedule on the export of each head of goats is 3 cents or, if another rate (not exceeding 8 cents) is prescribed by the regulations, the other rate.
+7  Regulations
 
-##### <a id="4"></a>4  Who pays the levy
+<dl compact=""><dl compact="">
 
-                   The National Residue Survey Levy imposed by this Schedule on the export of sheep, lambs or goats is payable by the producer of the sheep, lambs or goats.
+		Without limiting the manner in which classes of leviable horticultural
 
-# Notes to the _National Residue Survey (Customs) Levy Act 1998_
+products may be described in the regulations, the regulations may describe such
 
-### Note 1
+classes by reference to:
 
-The _National Residue Survey (Customs) Levy Act 1998_ as shown in this compilation comprises Act No. 32, 1998 amended as indicated in the Tables below.
+ </dl></dl>
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+	(a)	the use for which the products are exported or sold for export; or
+ 	(b)	the state, form or condition of the products, whether by reference to a process or otherwise. 
 
-### Table of Acts
+<center>Back to Top</center>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<center>**
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998Schedule&#160;5&#151;Sheep, lambs and goats export 
+**</center>
+
+1  Definitions
+
+<dl compact=""><dl compact="">
+
+		In this Schedule:
+
+ </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_lamb_ and _sheep_ have the same respective meanings as
+
+in Schedule&#160;12 to the _Primary Industries (Customs) Charges Act 1999._
+
+ </dl></dl>
+
+2  Imposition of levy
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>National Residue Survey Levy is imposed on the export of sheep, lambs or
+
+goats from Australia after the commencement of this Schedule if levy under
+
+Schedule&#160;15 to the _National Residue Survey (Excise) Levy Act 1998_ has not been paid, and is not payable, in respect of an act or transaction
+
+relating to the sheep, lambs or goats.</dd> <dt>(2)</dt><dd>National Residue Survey Levy is imposed on the export of sheep, lambs or goats from Australia after the commencement of this Schedule if: </dd> </dl></dl>
+
+	(a)	the sheep, lambs or goats were purchased by the exporter, whether before or after the commencement of this Schedule; and
+ 	(b)	the period starting on the date of the purchase and ending on the date of the export is longer than the longest of the following periods:
+ 	(i)	30 days;
+ 	(ii)	the period for which the sheep, lambs or goats are required under the _Quarantine Act 1908_ to be held in quarantine before being exported;
+ 	(iii)	the period for which the sheep, lambs or goats are required under the law of the country to which they are being exported to be held in quarantine before being exported. 
+ 3  Rate of levy
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The rate of National Residue Survey Levy imposed by this Schedule on the
+
+export of each head of sheep or lambs is 2 cents or, if another rate (not
+
+exceeding 8 cents) is prescribed by the regulations, the other rate.</dd> <dt>(2)</dt><dd>The rate of National Residue Survey Levy imposed by this Schedule on the export of each head of goats is 3 cents or, if another rate (not exceeding 8 cents) is prescribed by the regulations, the other rate. </dd> </dl></dl>
+
+4  Who pays the levy
+
+<dl compact=""><dl compact="">
+
+		The National Residue Survey Levy imposed by this Schedule on the export of
+
+sheep, lambs or goats is payable by the producer of the sheep, lambs or goats.
+
+ </dl></dl>
+
+<center>**
+
+###  NATIONAL RESIDUE SURVEY (CUSTOMS) LEVY ACT 1998<centreit>Notes to the _National Residue Survey (Customs) Levy Act 1998_ </centreit>
+**</center>
+
+**Note 1**
+
+The _National Residue Survey (Customs) Levy Act 1998_ as shown in this consolidation comprises Act No.&#160;32, 1998 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table A
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>National Residue Survey (Customs) Levy Act 1998</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>National Residue Survey (Customs) Levy Act 1998</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>32, 1998</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>17 Apr 1998</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 Aug 1998 ( <i>see</i> <i>Gazette</i>1998, No. S382)</div>
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>National Residue Survey (Customs) Levy Amendment Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>National Residue Survey (Customs) Levy Amendment Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>28, 1999</div>
+
   </td>
-  <td>
-    <div>14 May 1999</div>
+  <td colspan="1" align="left">
+    <div>14&#160;May 1999</div>
+
   </td>
-  <td>
-    <div>1 July 1999 ( <i>see</i>s. 2)</div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 1999 ( <i>see 
+ </i>s. 2)</div>
+
   </td>
-  <td>
-    <div>Sch. 1 (item 4)</div>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (item&#160;4)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>National Residue Survey (Customs) Levy Amendment Act 2003</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>National Residue Survey (Customs) Levy Amendment Act 2003</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>92, 2003</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Oct 2003</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Oct 2003</div>
+
   </td>
-  <td>
-    <div>Sch. 1 (item 6)</div>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (item&#160;6)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>National Residue Survey (Customs) Levy Amendment Act (No. 2) 2003</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>National Residue Survey (Customs) Levy Amendment Act (No.&#160;2) 2003</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>93, 2003</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Oct 2003</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Oct 2003</div>
+
   </td>
-  <td>
-    <div>Sch. 1 (item 3)</div>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (item&#160;3)</div>
+
+  </td>
+</tr></table>**Table <center>Back to Top</center> of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Schedule&#160;2</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;28, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>National Residue Survey (Customs) Levy Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>108, 2005</div>
-  </td>
-  <td>
-    <div>29 Aug 2005</div>
-  </td>
-  <td>
-    <div>29 Aug 2005</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 5)</div>
-  </td>
-</tr></table>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Schedule&#160;3</div>
 
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Schedule 2</div>
   </td>
-  <td>
-    <div>am. No. 28, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;93, 2003</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Schedule 3</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Schedule&#160;4</div>
+
   </td>
-  <td>
-    <div>am. No. 93, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 4</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1999; No. 92, 2003; No. 108, 2005</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;28, 1999; No.&#160;92, 2003</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Schedule 5</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Schedule&#160;5</div>
+
   </td>
-  <td>
-    <div>am. No. 28, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;28, 1999</div>
+
   </td>
-</tr></table>
+</tr></table>  <center>**
 
-## Table A
+###  Table A 
+**</center>  **Table A**
 
-### Application, saving or transitional provisions
+**Application, saving or transitional provisions**
 
-_National Residue Survey (Customs) Levy Amendment Act 1999 (No. 28, 1999)_
+_National Residue Survey (Customs) Levy Amendment Act 1999_ (No.&#160;28, 1999)
 
-## Schedule 1
+**Schedule&#160;1**
 
-## 4  Application of amendments
+**4  Application of amendments**
 
-             (1)  The amendments of Schedule 2 to the _National Residue Survey (Customs) Levy Act 1998_ made by this Schedule apply to the export of cattle after the commencement of this item.
+<dl compact=""><dl compact="">
 
-             (2)  The amendments of Schedule 4 to the _National Residue Survey (Customs) Levy Act 1998_ made by this Schedule apply to leviable horticultural products exported after the commencement of this item.
+<dt>(1)</dt><dd>The amendments of Schedule&#160;2 to the _National Residue Survey (Customs)Levy Act 1998_ made by this Schedule apply to the export of cattle
 
-             (3)  The amendments of Schedule 5 to the _National Residue Survey (Customs) Levy Act 1998_ made by this Schedule apply to the export of sheep, lambs or goats after the commencement of this item.
+after the commencement of this item.</dd> <dt>(2)</dt><dd>The amendments of Schedule&#160;4 to the _National Residue Survey (Customs)Levy Act 1998_ made by this Schedule apply to leviable horticultural products exported after the commencement of this item.</dd> <dt>(3)</dt><dd>The amendments of Schedule&#160;5 to the _National Residue Survey (Customs)Levy Act 1998_ made by this Schedule apply to the export of sheep, lambs or goats after the commencement of this item. </dd> </dl></dl>
 
-* * *
+_National Residue Survey (Customs) Levy Amendment Act 2003_(No.&#160;92, 2003)
 
-_National Residue Survey (Customs) Levy Amendment Act 2003 (No. 92, 2003)_
+**Schedule&#160;1**
+ 6  Application
 
-## Schedule 1
-
-## 6  Application
-
-(1)       The amendments made by this Schedule apply to apples and pears exported on or after the first day of the month immediately following the month in which this Schedule commences.
-
-(2)       In this item:
+(1)	The amendments made by this Schedule apply to apples and pears exported on or after the first day of the month immediately following the month in which this Schedule commences.
+ (2)	In this item:
 
 **_month_** means one of the 12 months of a calendar year
 
-* * *
+_National Residue Survey (Customs) Levy Amendment Act (No. 2) 2003_(No.&#160;93, 2003)
 
-_National Residue Survey (Customs) Levy Amendment Act (No. 2) 2003 
- (No. 93, 2003)_
-
-## Schedule 1
-
-## 3  Application of amendments
+**Schedule&#160;1**
+ 3  Application of amendments
 
 The amendments made by this Schedule apply to honey exported from Australia after the commencement of this item.
 
-* * *
+</def>
 
-_National Residue Survey (Customs) Levy Amendment Act 2005 (No. 108, 2005)_
+</def>
 
-## Schedule 1
+</def></def></def></def></def>
 
-## 5  Application of amendments
+</def>
 
-(1)       The amendments made by this Schedule apply to apples and pears exported on or after:
 
-                     (a)  if the first day of the first quarter after the Royal Assent quarter is more than 30 days after the day on which this Act receives the Royal Assent—the first day of the first quarter after the Royal Assent quarter; or
 
-                     (b)  otherwise—the first day of the second quarter after the Royal Assent quarter.
 
-(2)       In this item:
-
-**_quarter_** means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October of a year.
-
-**_Royal Assent quarter_** means the quarter in which this Act receives the Royal Assent.
-
- 
-
- 
