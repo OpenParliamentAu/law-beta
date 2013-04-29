@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image001.gif)
 
 # Schools Assistance Act 2008
 
 **Act No. 153 of 2008 as amended**
 
-This compilation was prepared on 24 October 2011
- taking into account amendments up to Act No. 122 of 2011
+This compilation was prepared on 22 April 2011
+ taking into account amendments up to Act No. 26 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,525 +18,525 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                    1
 
-[3](#3).            Simplified outline of Act
+[3](#3).            Simplified outline of Act                                                                      1
 
 **Part 2—Interpretation** 
 
     **Division 1—Definitions**
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           3
 
     **Division 2—Other important concepts**
 
-[5](#5).            Students receiving education at non‑government schools
+[5](#5).            Students receiving education at non‑government schools                  11
 
-[6](#6).            Meaning of _funding level_
+[6](#6).            Meaning of _funding level_                                                                    12
 
-[7](#7).            Levels of education
+[7](#7).            Levels of education                                                                            12
 
-[8](#8).            Meaning of _schools census day_
+[8](#8).            Meaning of _schools census day_                                                         13
 
-[9](#9).            Meaning of _school campus census day_
+[9](#9).            Meaning of _school campus census day_                                              13
 
-[10](#10).          Meaning of _nominated authority_
+[10](#10).          Meaning of _nominated authority_                                                        14
 
 **Part 3—Authorisation of financial assistance** 
 
     **Division 1—Simplified outline of Part**
 
-[11](#11).          Simplified outline
+[11](#11).          Simplified outline                                                                               15
 
     **Division 2—Authorised financial assistance**
 
-[12](#12).          Authorised financial assistance—funding agreements
+[12](#12).          Authorised financial assistance—funding agreements                       17
 
-[13](#13).          Authorised financial assistance—schools must be approved
+[13](#13).          Authorised financial assistance—schools must be approved             17
 
-[14](#14).          Authorised financial assistance—State recognition of schools etc 
+[14](#14).          Authorised financial assistance—State recognition of schools etc     17
 
-[15](#15).          Authorised financial assistance—financial viability
+[15](#15).          Authorised financial assistance—financial viability                           18
 
     **Division 3—Funding agreements** 
 
         **Subdivision A—Purpose of grants**
 
-[16](#16).          Funding agreements—purpose of grants
+[16](#16).          Funding agreements—purpose of grants                                           20
 
         **Subdivision B—National school performance and transparency requirements**
 
-[17](#17).          Funding agreements—national student assessments
+[17](#17).          Funding agreements—national student assessments                          20
 
-[18](#18).          Funding agreements—national reports on the outcomes of schooling
+[18](#18).          Funding agreements—national reports on the outcomes of schooling 21
 
-[19](#19).          Funding agreements—individual school information
+[19](#19).          Funding agreements—individual school information                         22
 
-[20](#20).          Funding agreements—reporting to parents etc 
+[20](#20).          Funding agreements—reporting to parents etc                                   22
 
-[21](#21).          Funding agreements—publication by schools of information relating to schools
+[21](#21).          Funding agreements—publication by schools of information relating to schools     23
 
-[22](#22).          Funding agreements—national curriculum
+[22](#22).          Funding agreements—national curriculum                                         23
 
         **Subdivision C—Grant acquittal and reporting requirements**
 
-[23](#23).          Funding agreements—acquittal of grants
+[23](#23).          Funding agreements—acquittal of grants                                           24
 
-[24](#24).          Funding agreements—reports on programs and financial operations
+[24](#24).          Funding agreements—reports on programs and financial operations 24
 
         **Subdivision D—Monitoring, evaluation and compliance**
 
-[25](#25).          Funding agreements—monitoring
+[25](#25).          Funding agreements—monitoring                                                      25
 
-[26](#26).          Funding agreements—evaluation
+[26](#26).          Funding agreements—evaluation                                                       26
 
-[27](#27).          Funding agreements—failure to comply
+[27](#27).          Funding agreements—failure to comply                                            27
 
-[28](#28).          Funding agreements—unauthorised amounts
+[28](#28).          Funding agreements—unauthorised amounts                                    27
 
         **Subdivision E—Other provisions in funding agreements**
 
-[29](#29).          Funding agreements—other provisions
+[29](#29).          Funding agreements—other provisions                                             28
 
     **Division 4—Conditions applying to the States**
 
-[30](#30).          Conditions applying to the States—payment of financial assistance to non‑government schools and bodies
+[30](#30).          Conditions applying to the States—payment of financial assistance to non‑government schools and bodies           29
 
-[31](#31).          Conditions applying to the States—requirement to repay amounts to Commonwealth
+[31](#31).          Conditions applying to the States—requirement to repay amounts to Commonwealth             29
 
     **Division 5—Repayment of financial assistance**
 
-[32](#32).          Repayment of financial assistance—relevant considerations
+[32](#32).          Repayment of financial assistance—relevant considerations              30
 
-[33](#33).          Repayment of financial assistance—recovery from States as debts
+[33](#33).          Repayment of financial assistance—recovery from States as debts    30
 
-[34](#34).          Repayment of financial assistance—failure by relevant authorities to repay amounts
+[34](#34).          Repayment of financial assistance—failure by relevant authorities to repay amounts               30
 
 **Part 4—Grants for recurrent expenditure** 
 
     **Division 1—Simplified outline of Part**
 
-[35](#35).          Simplified outline
+[35](#35).          Simplified outline                                                                               32
 
     **Division 2—Average Government School Recurrent Costs**
 
-[36](#36).          Average Government School Recurrent Costs—meaning of _AGSRC_
+[36](#36).          Average Government School Recurrent Costs—meaning of _AGSRC_ 33
 
-[37](#37).          Average Government School Recurrent Costs—rounding‑up per student funding amounts
+[37](#37).          Average Government School Recurrent Costs—rounding‑up per student funding amounts   33
 
     **Division 3—Current SES funding**
 
-[38](#38).          Current SES funding—scope
+[38](#38).          Current SES funding—scope                                                             35
 
-[39](#39).          Current SES funding—primary education funding determination
+[39](#39).          Current SES funding—primary education funding determination      35
 
-[40](#40).          Current SES funding—primary education funding amounts
+[40](#40).          Current SES funding—primary education funding amounts              35
 
-[41](#41).          Current SES funding—secondary education funding determination
+[41](#41).          Current SES funding—secondary education funding determination  36
 
-[42](#42).          Current SES funding—secondary education funding amounts
+[42](#42).          Current SES funding—secondary education funding amounts          36
 
     **Division 4—Maintained funding**
 
-[43](#43).          Maintained funding—scope
+[43](#43).          Maintained funding—scope                                                               37
 
-[44](#44).          Maintained funding—determination
+[44](#44).          Maintained funding—determination                                                   39
 
-[45](#45).          Maintained funding—primary education funding amounts
+[45](#45).          Maintained funding—primary education funding amounts                39
 
-[46](#46).          Maintained funding—secondary education funding amounts
+[46](#46).          Maintained funding—secondary education funding amounts            39
 
     **Division 5—Guaranteed year 2008 funding**
 
-[47](#47).          Guaranteed year 2008 funding—scope
+[47](#47).          Guaranteed year 2008 funding—scope                                              40
 
-[48](#48).          Guaranteed year 2008 funding—primary education funding determination
+[48](#48).          Guaranteed year 2008 funding—primary education funding determination             41
 
-[49](#49).          Guaranteed year 2008 funding—primary education funding amounts
+[49](#49).          Guaranteed year 2008 funding—primary education funding amounts 41
 
-[50](#50).          Guaranteed year 2008 funding—secondary education funding determination
+[50](#50).          Guaranteed year 2008 funding—secondary education funding determination          42
 
-[51](#51).          Guaranteed year 2008 funding—secondary education funding amounts
+[51](#51).          Guaranteed year 2008 funding—secondary education funding amounts  42
 
     **Division 6—Maximum SES funding**
 
-[52](#52).          Maximum SES funding—scope
+[52](#52).          Maximum SES funding—scope                                                        43
 
-[53](#53).          Maximum SES funding—meaning of _majority Indigenous student school_
+[53](#53).          Maximum SES funding—meaning of _majority Indigenous student school_             43
 
-[54](#54).          Maximum SES funding—determination
+[54](#54).          Maximum SES funding—determination                                            44
 
-[55](#55).          Maximum SES funding—primary education funding amounts
+[55](#55).          Maximum SES funding—primary education funding amounts         44
 
-[56](#56).          Maximum SES funding—secondary education funding amounts
+[56](#56).          Maximum SES funding—secondary education funding amounts      44
 
     **Division 7—Distance education funding**
 
-[57](#57).          Distance education funding—primary distance education funding amounts
+[57](#57).          Distance education funding—primary distance education funding amounts             45
 
-[58](#58).          Distance education funding—secondary distance education funding amounts
+[58](#58).          Distance education funding—secondary distance education funding amounts         46
 
     **Division 8—Remoteness loading**
 
-[59](#59).          Remoteness loading—scope
+[59](#59).          Remoteness loading—scope                                                              47
 
-[60](#60).          Remoteness loading—primary education funding determination
+[60](#60).          Remoteness loading—primary education funding determination       47
 
-[61](#61).          Remoteness loading—primary education funding amounts
+[61](#61).          Remoteness loading—primary education funding amounts               48
 
-[62](#62).          Remoteness loading—secondary education funding determination
+[62](#62).          Remoteness loading—secondary education funding determination    50
 
-[63](#63).          Remoteness loading—secondary education funding amounts
+[63](#63).          Remoteness loading—secondary education funding amounts            50
 
     **Division 9—Indigenous supplementary assistance**
 
-[64](#64).          Indigenous supplementary assistance—scope
+[64](#64).          Indigenous supplementary assistance—scope                                    53
 
-[65](#65).          Indigenous supplementary assistance—definitions
+[65](#65).          Indigenous supplementary assistance—definitions                            53
 
-[66](#66).          Indigenous supplementary assistance—primary education funding determination
+[66](#66).          Indigenous supplementary assistance—primary education funding determination   53
 
-[67](#67).          Indigenous supplementary assistance—primary education funding amounts
+[67](#67).          Indigenous supplementary assistance—primary education funding amounts           54
 
-[68](#68).          Indigenous supplementary assistance—secondary education funding determination
+[68](#68).          Indigenous supplementary assistance—secondary education funding determination               55
 
-[69](#69).          Indigenous supplementary assistance—secondary education funding amounts
+[69](#69).          Indigenous supplementary assistance—secondary education funding amounts       56
 
     **Division 10—Indigenous funding guarantee**
 
-[70](#70).          Indigenous funding guarantee—funding determination
+[70](#70).          Indigenous funding guarantee—funding determination                     58
 
-[71](#71).          Indigenous funding guarantee—funding amounts
+[71](#71).          Indigenous funding guarantee—funding amounts                             58
 
     **Division 11—SES scores** 
 
         **Subdivision A—Definition**
 
-[72](#72).          SES scores—definition
+[72](#72).          SES scores—definition                                                                      60
 
         **Subdivision B—SES scores under former Act**
 
-[73](#73).          SES scores—transitional determinations
+[73](#73).          SES scores—transitional determinations                                            60
 
-[74](#74).          SES scores—transitional guidelines
+[74](#74).          SES scores—transitional guidelines                                                   61
 
         **Subdivision C—Change of SES score determinations**
 
-[75](#75).          SES scores—determination of changes
+[75](#75).          SES scores—determination of changes                                              61
 
         **Subdivision D—SES score changes on application by school**
 
-[76](#76).          SES scores—change proposals
+[76](#76).          SES scores—change proposals                                                          61
 
-[77](#77).          SES scores—change applications
+[77](#77).          SES scores—change applications                                                      62
 
-[78](#78).          SES scores—decisions on change proposals
+[78](#78).          SES scores—decisions on change proposals                                     62
 
-[79](#79).          SES scores—general prerequisites for change proposals
+[79](#79).          SES scores—general prerequisites for change proposals                   62
 
-[80](#80).          SES scores—variation of determinations
+[80](#80).          SES scores—variation of determinations                                           63
 
         **Subdivision E—Miscellaneous**
 
-[81](#81).          SES scores—clerical or formal changes
+[81](#81).          SES scores—clerical or formal changes                                             63
 
-[82](#82).          SES scores—notice of determinations
+[82](#82).          SES scores—notice of determinations                                               64
 
 **Part 5—Grants for capital expenditure**
 
-[83](#83).          Capital expenditure—definitions
+[83](#83).          Capital expenditure—definitions                                                        65
 
-[84](#84).          Capital expenditure—funding determination
+[84](#84).          Capital expenditure—funding determination                                      66
 
-[85](#85).          Capital expenditure—capital expenditure supplementation number
+[85](#85).          Capital expenditure—capital expenditure supplementation number    67
 
 **Part 6—Grants for targeted expenditure** 
 
     **Division 1—Simplified outline of Part**
 
-[86](#86).          Simplified outline
+[86](#86).          Simplified outline                                                                               68
 
     **Division 2—Short term emergency assistance**
 
-[87](#87).          Short term emergency assistance—funding determination
+[87](#87).          Short term emergency assistance—funding determination                 69
 
     **Division 3—Education in country areas**
 
-[88](#88).          Education in country areas—funding determination
+[88](#88).          Education in country areas—funding determination                           70
 
     **Division 4—Languages education**
 
-[89](#89).          Languages education—improving learning outcomes
+[89](#89).          Languages education—improving learning outcomes                        71
 
-[90](#90).          Languages education—national projects
+[90](#90).          Languages education—national projects                                            71
 
-[91](#91).          Languages education—grant amounts
+[91](#91).          Languages education—grant amounts                                                72
 
     **Division 5—Teaching English to new arrivals**
 
-[92](#92).          Teaching English to new arrivals—definitions
+[92](#92).          Teaching English to new arrivals—definitions                                   73
 
-[93](#93).          Teaching English to new arrivals—funding determination
+[93](#93).          Teaching English to new arrivals—funding determination                 74
 
-[94](#94).          Teaching English to new arrivals—eligible new arrivals amounts
+[94](#94).          Teaching English to new arrivals—eligible new arrivals amounts     75
 
-[95](#95).          Teaching English to new arrivals—eligible humanitarian new arrivals amounts
+[95](#95).          Teaching English to new arrivals—eligible humanitarian new arrivals amounts      76
 
     **Division 6—Literacy, numeracy and special learning needs**
 
-[96](#96).          Literacy, numeracy and special learning needs—students with disabilities
+[96](#96).          Literacy, numeracy and special learning needs—students with disabilities               77
 
-[97](#97).          Literacy, numeracy and special learning needs—students who are educationally disadvantaged
+[97](#97).          Literacy, numeracy and special learning needs—students who are educationally disadvantaged              78
 
-[98](#98).          Literacy, numeracy and special learning needs—school grants amounts
+[98](#98).          Literacy, numeracy and special learning needs—school grants amounts  78
 
-[99](#99).          Literacy, numeracy and special learning needs—guarantee amounts
+[99](#99).          Literacy, numeracy and special learning needs—guarantee amounts  79
 
     **Division 7—Establishment assistance**
 
-[100](#100).        Establishment assistance—funding determination
+[100](#100).        Establishment assistance—funding determination                              80
 
     **Division 8—Targeted expenditure supplementation number**
 
-[101](#101).        Targeted expenditure supplementation number
+[101](#101).        Targeted expenditure supplementation number                                  81
 
 **Part 7—Approved schools** 
 
     **Division 1—Simplified outline of Part**
 
-[102](#102).        Simplified outline
+[102](#102).        Simplified outline                                                                               82
 
     **Division 2—Approved schools**
 
-[103](#103).        Approved schools—definition
+[103](#103).        Approved schools—definition                                                           83
 
     **Division 3—Former listed schools**
 
-[104](#104).        Former listed schools
+[104](#104).        Former listed schools                                                                         84
 
     **Division 4—Approved school determinations** 
 
         **Subdivision A—Scope of Division**
 
-[105](#105).        Approved school determinations—new school proposals
+[105](#105).        Approved school determinations—new school proposals                 85
 
         **Subdivision B—Applications**
 
-[106](#106).        Approved school determinations—new school applications
+[106](#106).        Approved school determinations—new school applications              85
 
-[107](#107).        Approved school determinations—decisions on new school proposals
+[107](#107).        Approved school determinations—decisions on new school proposals 86
 
-[108](#108).        Approved school determinations—general prerequisites for new school proposals
+[108](#108).        Approved school determinations—general prerequisites for new school proposals 86
 
-[109](#109).        Approved school determinations—prerequisites for new school proposals applying in previous program years
+[109](#109).        Approved school determinations—prerequisites for new school proposals applying in previous program years    87
 
         **Subdivision C—Making approved school determinations**
 
-[110](#110).        Approved school determinations—power to determine
+[110](#110).        Approved school determinations—power to determine                     87
 
-[111](#111).        Approved school determinations—contents
+[111](#111).        Approved school determinations—contents                                       88
 
     **Division 5—Changes to approved school determinations** 
 
         **Subdivision A—General provisions**
 
-[112](#112).        Changes to approved school determinations—power to determine
+[112](#112).        Changes to approved school determinations—power to determine    89
 
         **Subdivision B—End of State recognition**
 
-[113](#113).        Changes to approved school determinations—end of State recognition
+[113](#113).        Changes to approved school determinations—end of State recognition 89
 
         **Subdivision C—Location changes**
 
-[114](#114).        Changes to approved school determinations—location change proposals
+[114](#114).        Changes to approved school determinations—location change proposals                89
 
-[115](#115).        Changes to approved school determinations—location change applications
+[115](#115).        Changes to approved school determinations—location change applications             90
 
-[116](#116).        Changes to approved school determinations—decisions on location change proposals
+[116](#116).        Changes to approved school determinations—decisions on location change proposals           90
 
-[117](#117).        Changes to approved school determinations—general prerequisites for location change proposals
+[117](#117).        Changes to approved school determinations—general prerequisites for location change proposals         91
 
-[118](#118).        Changes to approved school determinations—prerequisites for location change proposals applying in previous program years
+[118](#118).        Changes to approved school determinations—prerequisites for location change proposals applying in previous program years                                                                                                   91
 
-[119](#119).        Changes to approved school determinations—location changes
+[119](#119).        Changes to approved school determinations—location changes        91
 
         **Subdivision D—Miscellaneous**
 
-[120](#120).        Changes to approved school determinations—clerical or formal changes
+[120](#120).        Changes to approved school determinations—clerical or formal changes                92
 
     **Division 6—Revoking approved school determinations**
 
-[121](#121).        Revoking approved school determinations—power to determine
+[121](#121).        Revoking approved school determinations—power to determine      93
 
-[122](#122).        Revoking approved school determinations—schools ineligible for funding
+[122](#122).        Revoking approved school determinations—schools ineligible for funding             93
 
     **Division 7—Miscellaneous**
 
-[123](#123).        Minister to give notice of determinations to approved authorities
+[123](#123).        Minister to give notice of determinations to approved authorities      94
 
-[124](#124).        Determinations may be given retrospective effect
+[124](#124).        Determinations may be given retrospective effect                              94
 
-[125](#125).        Publication of list of funded schools
+[125](#125).        Publication of list of funded schools                                                  94
 
 **Part 8—Approved school systems** 
 
     **Division 1—Simplified outline of Part**
 
-[126](#126).        Simplified outline
+[126](#126).        Simplified outline                                                                               95
 
     **Division 2—Approved school systems**
 
-[127](#127).        Approved school systems—definitions
+[127](#127).        Approved school systems—definitions                                             96
 
     **Division 3—Former approved school systems**
 
-[128](#128).        Former approved school systems
+[128](#128).        Former approved school systems                                                       97
 
     **Division 4—Approved school system determinations**
 
-[129](#129).        Approved school system determinations—power to determine
+[129](#129).        Approved school system determinations—power to determine         98
 
-[130](#130).        Approved school system determinations—contents
+[130](#130).        Approved school system determinations—contents                           98
 
     **Division 5—Changes to approved school system determinations** 
 
         **Subdivision A—General provisions**
 
-[131](#131).        Changes to approved school system determinations—power to determine
+[131](#131).        Changes to approved school system determinations—power to determine              99
 
         **Subdivision B—New members of systems**
 
-[132](#132).        Changes to approved school system determinations—new member proposals
+[132](#132).        Changes to approved school system determinations—new member proposals        99
 
-[133](#133).        Changes to approved school system determinations—new member applications
+[133](#133).        Changes to approved school system determinations—new member applications     100
 
-[134](#134).        Changes to approved school system determinations—decisions on new member proposals
+[134](#134).        Changes to approved school system determinations—decisions on new member proposals   100
 
-[135](#135).        Changes to approved school system determinations—prerequisites for new member proposals
+[135](#135).        Changes to approved school system determinations—prerequisites for new member proposals             101
 
-[136](#136).        Changes to approved school system determinations—new member changes
+[136](#136).        Changes to approved school system determinations—new member changes           101
 
         **Subdivision C—Ending membership**
 
-[137](#137).        Changes to approved school system determinations—proposals to end membership
+[137](#137).        Changes to approved school system determinations—proposals to end membership              101
 
-[138](#138).        Changes to approved school system determinations—applications to end membership
+[138](#138).        Changes to approved school system determinations—applications to end membership           102
 
-[139](#139).        Changes to approved school system determinations—decisions on proposals to end membership
+[139](#139).        Changes to approved school system determinations—decisions on proposals to end membership          102
 
-[140](#140).        Changes to approved school system determinations—prerequisites for proposals to end membership
+[140](#140).        Changes to approved school system determinations—prerequisites for proposals to end membership    102
 
-[141](#141).        Changes to approved school system determinations—ending membership
+[141](#141).        Changes to approved school system determinations—ending membership              103
 
         **Subdivision D—Miscellaneous**
 
-[142](#142).        Changes to approved school system determinations—clerical or formal changes
+[142](#142).        Changes to approved school system determinations—clerical or formal changes    103
 
     **Division 6—Revoking approved school system determinations**
 
-[143](#143).        Revoking approved school system determinations—power to determine
+[143](#143).        Revoking approved school system determinations—power to determine 104
 
-[144](#144).        Revoking approved school system determinations—systems stopped existing
+[144](#144).        Revoking approved school system determinations—systems stopped existing        104
 
     **Division 7—Miscellaneous**
 
-[145](#145).        Minister to give notice of determinations to approved authorities
+[145](#145).        Minister to give notice of determinations to approved authorities    105
 
-[146](#146).        Determinations may be given retrospective effect
+[146](#146).        Determinations may be given retrospective effect                            105
 
-[147](#147).        Publication of list of approved school systems
+[147](#147).        Publication of list of approved school systems                                105
 
 **Part 9—Approved authorities** 
 
     **Division 1—Simplified outline of Part**
 
-[148](#148).        Simplified outline
+[148](#148).        Simplified outline                                                                             106
 
     **Division 2—Approved authorities**
 
-[149](#149).        Approved authorities—definition
+[149](#149).        Approved authorities—definition                                                     107
 
     **Division 3—Former approved authorities**
 
-[150](#150).        Former approved authorities
+[150](#150).        Former approved authorities                                                            108
 
     **Division 4—Approved authority determinations**
 
-[151](#151).        Approved authority determinations—power to determine
+[151](#151).        Approved authority determinations—power to determine                109
 
     **Division 5—Changes to approved authority determinations**
 
-[152](#152).        Changes to approved authority determinations—power to determine
+[152](#152).        Changes to approved authority determinations—power to determine 110
 
-[153](#153).        Changes to approved authority determinations—clerical or formal changes
+[153](#153).        Changes to approved authority determinations—clerical or formal changes             110
 
     **Division 6—Revoking approved authority determinations** 
 
         **Subdivision A—General provisions**
 
-[154](#154).        Revoking approved authority determinations—power to determine
+[154](#154).        Revoking approved authority determinations—power to determine 111
 
         **Subdivision B—Change of authorities**
 
-[155](#155).        Revoking approved authority determinations—change of authorities
+[155](#155).        Revoking approved authority determinations—change of authorities 111
 
-[156](#156).        Revoking approved authority determinations—change of authority proposals
+[156](#156).        Revoking approved authority determinations—change of authority proposals         112
 
-[157](#157).        Revoking approved authority determinations—decisions on change of authority proposals
+[157](#157).        Revoking approved authority determinations—decisions on change of authority proposals    112
 
-[158](#158).        Revoking approved authority determinations—prerequisites for change of authority proposals
+[158](#158).        Revoking approved authority determinations—prerequisites for change of authority proposals              113
 
-[159](#159).        Revoking approved authority determinations—change of authority
+[159](#159).        Revoking approved authority determinations—change of authority 113
 
     **Division 7—Miscellaneous**
 
-[160](#160).        Minister to give notice of determinations to approved authorities
+[160](#160).        Minister to give notice of determinations to approved authorities    114
 
-[161](#161).        Determinations may be given retrospective effect
+[161](#161).        Determinations may be given retrospective effect                            114
 
 **Part 10—Miscellaneous** 
 
     **Division 1—Timing and amounts of financial assistance**
 
-[162](#162).        Timing and amounts of financial assistance—general
+[162](#162).        Timing and amounts of financial assistance—general                      115
 
-[163](#163).        Timing and amounts of financial assistance—advances
+[163](#163).        Timing and amounts of financial assistance—advances                   115
 
-[164](#164).        Timing and amounts of financial assistance—determinations
+[164](#164).        Timing and amounts of financial assistance—determinations          115
 
     **Division 2—False or misleading statements**
 
-[165](#165).        False or misleading statements—reduction of payments
+[165](#165).        False or misleading statements—reduction of payments                  116
 
-[166](#166).        False or misleading statements—variation of SES score
+[166](#166).        False or misleading statements—variation of SES score                  117
 
     **Division 3—Appropriation and borrowings**
 
-[167](#167).        Appropriation
+[167](#167).        Appropriation                                                                                   118
 
-[168](#168).        Borrowings for capital expenditure
+[168](#168).        Borrowings for capital expenditure                                                  118
 
     **Division 4—Administration**
 
-[169](#169).        Administration—determinations and approvals
+[169](#169).        Administration—determinations and approvals                               119
 
-[170](#170).        Administration—general power to vary or revoke determinations and approvals
+[170](#170).        Administration—general power to vary or revoke determinations and approvals    119
 
-[171](#171).        Administration—delegation
+[171](#171).        Administration—delegation                                                             121
 
-[172](#172).        Administration—annual report by Minister
+[172](#172).        Administration—annual report by Minister                                     121
 
     **Division 5—Overseas students**
 
-[173](#173).        Overseas students not covered
+[173](#173).        Overseas students not covered                                                         122
 
     **Division 6—Regulations**
 
-[174](#174).        Regulations
+[174](#174).        Regulations                                                                                      124
 
 **Schedule 1—Current SES funding level** 
 
@@ -1208,9 +1208,9 @@ Reports about student attending school
 
 ##### <a id="22"></a>22  Funding agreements—national curriculum
 
-             (1)  A funding agreement for a non‑systemic school, or an approved school system, must require the relevant authority for the school or system to ensure that the school, or each school in the system, implements the national curriculum prescribed by the regulations in accordance with the regulations.
+             (1)  A funding agreement for a non‑systemic school, or an approved school system, must require the relevant authority for the school or system to ensure that the school, or each school in the system, implements the national curriculum prescribed by the regulations for primary education or secondary education (or both, as applicable).
 
-             (2)  Despite subsection 14(2) of the _Legislative Instruments Act 2003_, regulations made for the purposes of this section may make provision in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in an instrument or other writing as in force or existing from time to time.
+             (2)  The requirement mentioned in subsection (1) must be satisfied on or before 31 January 2012.
 
 #### Subdivision C—Grant acquittal and reporting requirements
 
@@ -1492,7 +1492,7 @@ Rounding‑up to next highest dollar (per student amounts)
 
              (3)  This subsection covers an amount that is a component of a funding amount, in relation to a level of education and a program year, worked out using a formula of the following kind:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image002.gif)
 
 ### Division 3—Current SES funding
 
@@ -1524,7 +1524,7 @@ Rounding‑up to next highest dollar (per student amounts)
 
                    For the purpose of paragraph 39(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image003.gif)
 
 ##### <a id="41"></a>41  Current SES funding—secondary education funding determination
 
@@ -1544,7 +1544,7 @@ Rounding‑up to next highest dollar (per student amounts)
 
                    For the purpose of paragraph 41(2)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image004.gif)
 
 ### Division 4—Maintained funding
 
@@ -1584,7 +1584,7 @@ Condition based on 2008 funding
 
              (2)  This subsection covers a non‑government school in the following case:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image005.gif)
 
 where:
 
@@ -1600,11 +1600,11 @@ where:
 
                     <a name="notion-primari-student-amount"></a>**_notional primary students amount_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image006.gif)
 
                     <a name="notion-secondari-student-amount"></a>**_notional secondary students amount_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image007.gif)
 
 ##### <a id="44"></a>44  Maintained funding—determination
 
@@ -1628,13 +1628,13 @@ where:
 
                    For the purpose of paragraph 44(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image008.gif)
 
 ##### <a id="46"></a>46  Maintained funding—secondary education funding amounts
 
                    For the purpose of paragraph 44(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image009.gif)
 
 ### Division 5—Guaranteed year 2008 funding
 
@@ -1672,7 +1672,7 @@ Condition based on 2008 funding
 
              (2)  This subsection covers a non‑government school, for a particular level of education provided at the school in a program year (the **_current program year_**), in the following case:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image010.gif)
 
 ##### <a id="48"></a>48  Guaranteed year 2008 funding—primary education funding determination
 
@@ -1692,7 +1692,7 @@ Condition based on 2008 funding
 
                    For the purpose of paragraph 48(2)(a), work out the amount for the school’s primary students for the program year (the **_current program year_**) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image011.gif)
 
 ##### <a id="50"></a>50  Guaranteed year 2008 funding—secondary education funding determination
 
@@ -1712,7 +1712,7 @@ Condition based on 2008 funding
 
                    For the purpose of paragraph 50(2)(a), work out the amount for the school’s secondary students for the program year (the **_current program year_**) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image012.gif)
 
 ### Division 6—Maximum SES funding
 
@@ -1768,13 +1768,13 @@ Note:          The definition of **_very remote school campus_
 
                    For the purpose of paragraph 54(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image013.gif)
 
 ##### <a id="56"></a>56  Maximum SES funding—secondary education funding amounts
 
                    For the purpose of paragraph 54(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image014.gif)
 
 ### Division 7—Distance education funding
 
@@ -1796,13 +1796,13 @@ Funding amount
 
              (2)  Work out the amount for the school’s primary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image015.gif)
 
 where:
 
                     <a name="assist-amount-per-student"></a>**_assistance amount per student_**, for a program year, means the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image016.gif)
 
 Rounding‑up to next highest dollar
 
@@ -1826,13 +1826,13 @@ Funding amount
 
              (2)  Work out the amount for the school’s secondary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image017.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image017.gif)
 
 where:
 
                     <a name="assist-amount-per-student"></a>**_assistance amount per student_**, for a program year, means the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image018.gif)
 
 Rounding‑up to next highest dollar
 
@@ -1874,13 +1874,13 @@ Students at a moderately accessible campus
 
              (1)  For the purpose of paragraph 60(2)(a), work out the amount for primary students at any moderately accessible campus of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image019.gif)
 
 where:
 
                     <a name="assist-amount-per-student"></a>**_assistance amount per student_**, for a program year, means the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image020.gif)
 
                     <a name="number-moder-access-campu-primari-student"></a>**_number of moderately accessible campus primary students_**, for a school for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving primary education at a moderately accessible school campus of the school on the school campus census day for the school campus in the program year.
 
@@ -1888,13 +1888,13 @@ Students at a remote campus
 
              (2)  For the purpose of paragraph 60(2)(b), work out the amount for primary students at any remote campus of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image021.gif)
 
 where:
 
                     <a name="assist-amount-per-student"></a>**_assistance amount per student_**, for a program year, means the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image022.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image022.gif)
 
                     <a name="number-remot-campu-primari-student"></a>**_number of remote campus primary students_**, for a school for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving primary education at a remote school campus of the school on the school campus census day for the school campus in the program year.
 
@@ -1902,13 +1902,13 @@ Students at a very remote campus
 
              (3)  For the purpose of paragraph 60(2)(c), work out the amount for primary students at any very remote campus of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image023.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image023.gif)
 
 where:
 
                     <a name="assist-amount-per-student"></a>**_assistance amount per student_**, for a program year, means the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image024.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image024.gif)
 
                     <a name="number-remot-campu-primari-student"></a>**_number of very remote campus primary students_**, for a school for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving primary education at a very remote school campus of the school on the school campus census day for the school campus in the program year.
 
@@ -1942,13 +1942,13 @@ Students at a moderately accessible campus
 
              (1)  For the purpose of paragraph 62(2)(a), work out the amount for secondary students at any moderately accessible campus of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image025.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image025.gif)
 
 where:
 
                     <a name="assist-amount-per-student"></a>**_assistance amount per student_**, for a program year, means the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image026.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image026.gif)
 
                     <a name="number-moder-access-campu-secondari-student"></a>**_number of moderately accessible campus secondary students_**, for a school for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving secondary education at a moderately accessible school campus of the school on the school campus census day for the school campus in the program year.
 
@@ -1956,13 +1956,13 @@ Students at a remote campus
 
              (2)  For the purpose of paragraph 62(2)(b), work out the amount for secondary students at any remote campus of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image027.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image027.gif)
 
 where:
 
                     <a name="assist-amount-per-student"></a>**_assistance amount per student_**, for a program year, means the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image028.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image028.gif)
 
                     <a name="number-remot-campu-secondari-student"></a>**_number of remote campus secondary students_**, for a school for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving secondary education at a remote school campus of the school on the school campus census day for the school campus in the program year.
 
@@ -1970,13 +1970,13 @@ Students at a very remote campus
 
              (3)  For the purpose of paragraph 62(2)(c), work out the amount for secondary students at any very remote campus of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image029.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image029.gif)
 
 where:
 
                     <a name="assist-amount-per-student"></a>**_assistance amount per student_**, for a program year, means the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image030.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image030.gif)
 
                     <a name="number-remot-campu-secondari-student"></a>**_number of very remote campus secondary students_**, for a school for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving secondary education at a very remote school campus of the school on the school campus census day for the school campus in the program year.
 
@@ -2024,7 +2024,7 @@ Non‑remote school campuses
 
              (1)  For the purpose of paragraph 66(2)(a), work out the amount for the school’s Indigenous primary students at non‑remote school campuses of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image031.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image031.gif)
 
 where:
 
@@ -2044,7 +2044,7 @@ Remote and very remote school campuses
 
              (2)  For the purpose of paragraph 66(2)(b), work out the amount for the school’s Indigenous primary students at remote and very remote school campuses of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image032.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image032.gif)
 
                     <a name="assist-amount-per-student"></a>**_assistance amount per student_**, for a program year, means:
 
@@ -2080,7 +2080,7 @@ Non‑remote school campuses
 
              (1)  For the purpose of paragraph 68(2)(a), work out the amount for the school’s Indigenous secondary students at non‑remote school campuses of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image033.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image033.gif)
 
 where:
 
@@ -2100,7 +2100,7 @@ Remote and very remote school campuses
 
              (2)  For the purpose of paragraph 68(2)(b), work out the amount for the school’s Indigenous secondary students at remote and very remote school campuses of the school for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image034.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image034.gif)
 
                     <a name="per-student"></a><a name="assist-amount"></a>**_assistance amount_** **_per student_**, for a program year, means:
 
@@ -2419,7 +2419,7 @@ Note:          A variation that increases a school’s SES sco
 
              (2)  The sum of the amounts paid to the States under subsection (1) for a program year must not exceed the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image035.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image035.gif)
 
 where:
 
@@ -2495,7 +2495,7 @@ where:
 
              (2)  The sum of the amounts paid to the States under subsection (1) for a program year must not exceed the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image036.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image036.gif)
 
 where:
 
@@ -2523,7 +2523,7 @@ where:
 
              (2)  The sum of the amounts paid to the States under subsection (1) for a program year must not exceed the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image036.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image036.gif)
 
 where:
 
@@ -2573,7 +2573,7 @@ Note:          Section 91 sets a maximum amount for grants t
 
              (1)  The sum of the amounts paid to the States under this Division for a program year must not exceed the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image036.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image036.gif)
 
 where:
 
@@ -2745,7 +2745,7 @@ Note:          Financial assistance under this Division is in 
 
              (1)  For the purposes of paragraph 93(2)(a), work out the amount for the State’s eligible new arrivals for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image037.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image037.gif)
 
 where:
 
@@ -2755,7 +2755,7 @@ where:
 
              (2)  For the purposes of subsection (1), the **_assistance amount per student_**, for a program year, is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image036.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image036.gif)
 
 where:
 
@@ -2771,7 +2771,7 @@ where:
 
              (1)  For the purposes of paragraph 93(2)(b), work out the amount for the State’s eligible humanitarian new arrivals for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image038.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image038.gif)
 
 where:
 
@@ -2781,7 +2781,7 @@ where:
 
              (2)  For the purposes of subsection (1), the **_assistance amount per student_**, for a program year, is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image036.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image036.gif)
 
 where:
 
@@ -2801,7 +2801,7 @@ where:
 
              (2)  The total amount authorised to be paid to a State under subsection (1) for a program year must not exceed the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image039.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image039.gif)
 
 where:
 
@@ -2811,7 +2811,7 @@ where:
 
              (3)  For the purposes of subsection (2), the **_assistance amount per student_**, for a program year, is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image036.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image036.gif)
 
 where:
 
@@ -2855,7 +2855,7 @@ Note:          Financial assistance under this section is in a
 
              (1)  For the purposes of paragraph 97(2)(a), work out the amount using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image036.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image036.gif)
 
 where:
 
@@ -2899,7 +2899,7 @@ Maximum amount
 
              (4)  An amount determined under subsection (2) or (3) in relation to a school must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00862/Html/bcc34a2c-aa7d-4143-a2f9-c081a7c6c59e_files/image040.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00229/Html/311d0838-628f-4ff4-a8d0-ec99e9d2c7bf_files/image040.gif)
 
 ### Division 8—Targeted expenditure supplementation number
 
@@ -4614,23 +4614,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Schools Assistance Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>122, 2011</div>
-  </td>
-  <td>
-    <div>14 Oct 2011</div>
-  </td>
-  <td>
-    <div>15 Oct 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -4704,38 +4687,6 @@ of Assent</div>
   </td>
   <td>
     <div>am. No. 26, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rs. No. 122, 2011</div>
   </td>
 </tr>
 <tr>
