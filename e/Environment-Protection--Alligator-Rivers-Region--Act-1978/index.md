@@ -1,66 +1,66 @@
 
 Environment Protection (Alligator Rivers Region) Act 1978
-Act No. 28 of 1978 as amended
-This compilation was prepared on 17 July 2000 taking into account amendments up to Act No. 146 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
+Act No. 28 of 1978 as amended 
+Consolidated as in force on 19 August 1999
+(includes amendments up to Act No. 92 of 1999)
+This Act has uncommenced amendments For uncommenced amendments, see the endnotes
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
 Contents
 Part I—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
-Part II—The Supervising Scientist	6
-4	Supervising Scientist	6
-5	Functions of Supervising Scientist in relation to uranium mining in the Region	6
-5A	Functions of Supervising Scientist in relation to general mining in a conservation zone	7
-5B	Function of the Supervising Scientist in relation to environmental matters outside the Region	9
-6	Powers of Supervising Scientist	9
-7	Directions of Minister etc.	9
-8	Appointment	10
-Part III—Committees	11
-Division 1—Advisory Committee	11
-16	Advisory Committee	11
-17	Functions of the Advisory Committee	11
-18	Membership of the Advisory Committee	11
-19	Resignation	13
-20	Termination of appointment	13
-21	Deputies	13
+Part II—The Supervising Scientist	5
+4	Supervising Scientist	5
+5	Functions of Supervising Scientist in relation to uranium mining in the Region	5
+5A	Functions of Supervising Scientist in relation to general mining in a conservation zone	6
+5B	Function of the Supervising Scientist in relation to environmental matters outside the Region	8
+6	Powers of Supervising Scientist	8
+7	Directions of Minister etc.	8
+8	Appointment	9
+Part III—Committees	10
+Division 1—Advisory Committee	10
+16	Advisory Committee	10
+17	Functions of the Advisory Committee	10
+18	Membership of the Advisory Committee	10
+19	Resignation	12
+20	Termination of appointment	12
+21	Deputies	12
 22	Meetings of the Advisory Committee	14
-Division 2—Technical Committee	16
-22A	Technical Committee	16
-22B	Functions of the Technical Committee	16
-22C	Membership of the Technical Committee	16
-22D	Resignation	17
-22E	Termination of appointment	17
+Division 2—Technical Committee	15
+22A	Technical Committee	15
+22B	Functions of the Technical Committee	15
+22C	Membership of the Technical Committee	15
+22D	Resignation	16
+22E	Termination of appointment	16
 22F	Meetings of the Technical Committee	17
-Part IV—The Institute	19
-23	Institute	19
-24	Functions of Institute in relation to uranium mining in the Region	19
-24A	Functions of Institute in relation to general mining in a conservation zone	19
-24B	Institute may undertake other environmental research	20
-25	Institute to be managed by Supervising Scientist	21
-Part V—Miscellaneous	22
-26	Staff	22
-27	Power of Supervising Scientist to obtain information and documents	22
-28	Application to Supreme Court for order with respect to information or documents	22
-29	Supervising Scientist to have access to buildings and places in Region	23
-30	Application to Supreme Court for order with respect to access	24
-31	Secrecy	24
-32	Person not to obstruct or hinder Supervising Scientist	25
-33	Supervising Scientist to consult with Director of National Parks and Director of Territory Parks and Wildlife	26
-34	Supervising Scientist must comply with management plan etc.	26
-35	Delegation	26
-36	Reports	27
-37	Regulations	28
-Schedule	29
-Notes		31
+Part IV—The Institute	18
+23	Institute	18
+24	Functions of Institute in relation to uranium mining in the Region	18
+24A	Functions of Institute in relation to general mining in a conservation zone	18
+24B	Institute may undertake other environmental research	19
+25	Institute to be managed by Supervising Scientist	20
+Part V—Miscellaneous	21
+26	Staff	21
+27	Power of Supervising Scientist to obtain information and documents	21
+28	Application to Supreme Court for order with respect to information or documents	21
+29	Supervising Scientist to have access to buildings and places in Region	22
+30	Application to Supreme Court for order with respect to access	23
+31	Secrecy	23
+32	Person not to obstruct or hinder Supervising Scientist	24
+33	Supervising Scientist to consult with Director of National Parks and Wildlife and Director of Territory Parks and Wildlife	25
+34	Supervising Scientist to comply with plan of management	25
+35	Delegation	25
+36	Reports	26
+37	Regulations	27
+Schedule	28
+Notes 		29
+34	Supervising Scientist must comply with management plan etc.	36
 
 An Act to provide for the appointment of a Supervising Scientist for the purpose of protecting the environment in the Alligator Rivers Region of the Northern Territory from the effects of mining operations, and for other purposes
+Do not delete : Chapter placeholder
 Part I—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Environment Protection (Alligator Rivers Region) Act 1978.
 2  Commencement [see Note 1]
@@ -70,26 +70,20 @@ Part I—Preliminary
 Administrator of the Northern Territory means the Administrator of the Northern Territory acting with the advice of the Executive Council of the Northern Territory.
 Advisory Committee means the Advisory Committee established under section 16.
 Alligator Rivers Region or Region means:
-	(a)	the area shown on the map set out in the Schedule, being a copy of the map appearing on page 14 of the Ranger Inquiry report, that is described as the “Area generally referred to in the report as the Region”;
+	(a)	the area shown on the map set out in the Schedule, being a copy of the map appearing on page 14 of the Ranger Inquiry report, that is described as the “Area generally referred to in the report as the Region;
 	(aa)	so much of the area described as Gimbat on that map (being an area of land that is or was the subject of a pastoral lease) as is outside the area referred to in paragraph (a);
 	(ab)	so much of the area described as Goodparla on that map (being an area of land that is or was the subject of a pastoral lease) as is outside the area referred to in paragraph (a);
 	(ac)	the area bounded on the south by the parallel of latitude 13 30 south and on all other sides by part of the boundary of the area referred to in paragraph (a);
 	(ad)	the area bounded on the east by the meridian of longitude 133 east, on the south by the parallel of latitude 13 30 south and on all other sides by part of the boundary of the area referred to in paragraph (a);
 	(b)	the territorial sea adjacent to the area referred to in paragraph (a); and
 	(c)	the sea (if any) on the landward side of the territorial sea referred to in paragraph (b).
-appointed member means a member of the Advisory Committee other than the Supervising Scientist or the Director of National Parks.
+appointed member means a member of the Advisory Committee other than the Supervising Scientist or the Director of National Parks and Wildlife.
 appropriate Aboriginal Land Council means such Aboriginal Land Council established under the Aboriginal Land Rights (Northern Territory) Act 1976 as the Minister declares by instrument under his or her hand to be the Aboriginal Land Council responsible for the Alligator Rivers Region for the purposes of this Act.
 Chairperson means the Chairperson of the Advisory Committee, or the Chairperson of the Technical Committee, as the context requires.
 Committee means the Advisory Committee or the Technical Committee, as the context requires.
-conservation zone means an area that was a conservation zone declared under section 8A of the National Parks and Wildlife Conservation Act 1975.
+conservation zone means a conservation zone declared under section 8A of the National Parks and Wildlife Conservation Act 1975.
 Director of Conservation of the Northern Territory means the person holding office as Director of Conservation under the Conservation Commission Act 1980 of the Northern Territory or, if a person is acting as the Director, the person so acting.
-Director of National Parks means the person holding the appointment as the Director of National Parks under the Environment Protection and Biodiversity Conservation Act 1999.
-ecosystem means a dynamic complex of plant, animal and micro‑organism communities and their non‑living environment interacting as a functional unit.
-environment includes:
-	(a)	ecosystems and their constituent parts, including people and communities; and
-	(b)	natural and physical resources; and
-	(c)	the qualities and characteristics of locations, places and areas; and
-	(d)	the social, economic and cultural aspects of a thing mentioned in paragraph (a), (b) or (c).
+environment includes all aspects of the surroundings of people, whether affecting people as individuals or as social groupings.
 general mining operations means mining operations other than uranium mining operations.
 Institute means the Alligator Rivers Region Research Institute.
 member means a member of the Advisory Committee, or a member of the Technical Committee, as the context requires.
@@ -104,30 +98,29 @@ but does not include the construction or use of:
 prescribed instrument means any of the following, whether in force at the commencement of this Act or coming into force after that commencement:
 	(a)	a law of the Commonwealth or of the Northern Territory; or
 	(b)	an instrument made, granted or issued under or for the purposes of any such law, including:
-	(i)	a permit, licence or lease under any such law; and
-	(ii)	an authority under section 41 of the Atomic Energy Act 1953; and
-	(iii)	an agreement under Part IV of the Aboriginal Land Rights (Northern Territory) Act 1976; and
-	(iv)	an instrument giving the approval of the Governor‑General under paragraph 355(1)(a) of the Environment Protection and Biodiversity Conservation Act 1999.
+	(i)	a permit, licence or lease under any such law;
+	(ii)	an authority under section 41 of the Atomic Energy Act 1953;
+	(iii)	an agreement under Part IV of the Aboriginal Land Rights (Northern Territory) Act 1976; or
+	(iv)	an instrument giving the approval of the Governor-General under section 10 of the National Parks and Wildlife Conservation Act 1975.
 Ranger Inquiry report means the report known as the Ranger Uranium Environmental Inquiry Second Report that was presented to the Minister for Environment, Housing and Community Development and the Minister for Aboriginal Affairs on 17 May 1977.
 requirement means an obligation, condition, restriction or prohibition.
 sea includes any waters within the ebb and flow of the tide.
 Supervising Scientist means the Supervising Scientist for the Alligator Rivers Region.
 Technical Committee means the Technical Committee established under section 22A.
-uranium mining operations has the meaning it would have if in the definition of mining operations the references to minerals were references to uranium‑bearing ore.
+uranium mining operations has the meaning it would have if in the definition of mining operations the references to minerals were references to uranium-bearing ore.
 	(2)	A reference in this Act to the environment in a conservation zone includes a reference to the environment in so much of the Alligator Rivers Region as is adjacent to the zone.
-
 Part II—The Supervising Scientist
-  
+Do not delete : Division placeholder
 4  Supervising Scientist
 		There shall be a Supervising Scientist for the Alligator Rivers Region.
 5  Functions of Supervising Scientist in relation to uranium mining in the Region
 		The Supervising Scientist has the following functions in relation to uranium mining operations in the Region:
 	(a)	to devise and develop programs for research into, and programs for the collection and assessment of information relating to, the effects on the environment in the Region of uranium mining operations in the Region;
-	(b)	to co‑ordinate, and supervise, the carrying out of programs referred to in paragraph (a);
+	(b)	to co-ordinate, and supervise, the carrying out of programs referred to in paragraph (a);
 	(c)	to devise and develop, and to promote and assist in the devising and development of:
 	(i)	standards, practices and procedures in relation to uranium mining operations in the Region for the protection of, or in so far as those standards, practices and procedures affect, the environment in the Region; and
 	(ii)	measures for the protection and restoration of the environment in the Region from the effects of uranium mining operations in the Region;
-	(d)	to co‑ordinate, and supervise, the implementation, in relation to uranium mining operations in the Region, of requirements of or having effect under prescribed instruments in so far as those requirements relate to any matter affecting the environment in the Region;
+	(d)	to co-ordinate, and supervise, the implementation, in relation to uranium mining operations in the Region, of requirements of or having effect under prescribed instruments in so far as those requirements relate to any matter affecting the environment in the Region;
 	(e)	to advise the Minister with respect to:
 	(i)	the effects on the environment in the Region of uranium mining operations in the Region;
 	(ii)	standards, practices and procedures in relation to uranium mining operations in the Region for the protection of, or in so far as those standards, practices and procedures affect, the environment in the Region;
@@ -138,7 +131,7 @@ Part II—The Supervising Scientist
 5A  Functions of Supervising Scientist in relation to general mining in a conservation zone
 	(1)	The Supervising Scientist has the following functions in relation to general mining operations in a conservation zone:
 	(a)	to devise and develop programs for research into, and programs for the collection and assessment of information relating to, the effects on the environment in the zone of general mining operations in the zone;
-	(b)	to co‑ordinate, and supervise, the carrying out of programs referred to in paragraph (a);
+	(b)	to co-ordinate, and supervise, the carrying out of programs referred to in paragraph (a);
 	(c)	to devise and develop, and to promote and assist in the devising and development of:
 	(i)	standards, practices and procedures in relation to general mining operations in the zone for the protection of, or in so far as those standards, practices and procedures affect, the environment in the zone; and
 	(ii)	measures for the protection and restoration of the environment in the zone from the effects of general mining operations in the zone;
@@ -150,8 +143,10 @@ Part II—The Supervising Scientist
 	(iv)	requirements of or having effect under prescribed instruments in relation to general mining operations in the zone in so far as those requirements relate to any matter affecting the environment in the zone and the implementation of those requirements;
 	(f)	to perform such other functions, in relation to general mining operations in the zone, as are conferred on him or her by or under a prescribed instrument (including this Act); and
 	(g)	to do anything incidental or conducive to the performance of any of the foregoing functions.
-	(2)	However, the Supervising Scientist does not have the functions described in subsection (1) in relation to general mining operations in an area specified by the Minister in a direction under section 7 as an area in relation to which the Supervising Scientist does not have those functions.
-	(3)	Subsection (2) applies whether the Minister gave the direction before or after the commencement of this subsection.
+	(2)	Where, whether before or after the commencement of this section:
+	(a)	a conservation zone is declared under the National Parks and Wildlife Conservation Act 1975; and
+	(b)	an area is subsequently excised from the zone under that Act;
+then, until the Minister otherwise directs under section 7, the Supervising Scientist continues to have the functions conferred by subsection (1) as if the area had not been excised.
 5B  Function of the Supervising Scientist in relation to environmental matters outside the Region
 	(1)	The Supervising Scientist has the function of giving to the Minister, on the Minister’s request, scientific and technical advice on environmental matters outside the Region.
 	(2)	The Supervising Scientist may perform that function to the extent only that it is not in excess of the functions that may be conferred on him or her by virtue of any of the legislative powers of the Parliament, and, in particular, may perform that function:
@@ -166,8 +161,7 @@ Part II—The Supervising Scientist
 7  Directions of Minister etc.
 		The Supervising Scientist shall comply with directions given to him or her from time to time by the Minister in relation to the performance of his or her functions or the exercise of his or her powers and shall furnish to the Minister such information in relation to the operation of this Act as the Minister requires.
 8  Appointment
-		The Supervising Scientist is to be engaged under the Public Service Act 1999.
-
+		The Supervising Scientist is to be appointed under the Public Service Act 1922.
 Part III—Committees
 Division 1—Advisory Committee
 16  Advisory Committee
@@ -182,18 +176,18 @@ Division 1—Advisory Committee
 	(1)	The Advisory Committee consists of the following members:
 	(aa)	a Chairperson appointed by the Minister;
 	(a)	the Supervising Scientist;
-	(b)	the Director of National Parks;
+	(b)	the Director of National Parks and Wildlife;
 	(c)	1 member appointed by the Minister on the nomination of the Administrator of the Northern Territory;
 	(d)	one member appointed by the Minister on the nomination of the appropriate Aboriginal Land Council; and
 	(da)	one member nominated by an environmental organisation which has been nominated by the Minister; and
 	(e)	such other members as are from time to time appointed by the Minister.
 	(1A)	The Minister must not appoint as the Chairperson:
 	(a)	the Supervising Scientist or a member of the staff referred to in section 26; or
-	(b)	the Director of National Parks or a person who is an agent or delegate of the Director of National Parks.
+	(b)	the Director of National Parks and Wildlife or a person who is one of the persons who constitute the Australian National Parks and Wildlife Service under section 34 of the National Parks and Wildlife Conservation Act 1975.
 	(2)	The Minister shall cause to be prepared and kept a list setting out the name of each Department, authority, incorporated company or other body that in his or her opinion has an interest in uranium mining operations in the Alligator Rivers Region and:
 	(a)	the Minister shall request each Department, authority, incorporated company or other body the name of which is included in the list to nominate, in writing, not more than 2 persons for appointment to the Committee; and
 	(b)	if a person is, or persons are, nominated in accordance with such a request—the Minister shall appoint that person, or at least one of those persons, as a member of the Committee in accordance with paragraph (1)(e).
-	(3)	The appointed members of the Committee shall hold office on a part‑time basis.
+	(3)	The appointed members of the Committee shall hold office on a part-time basis.
 	(4)	Subject to subsection (5), an appointed member holds office during the pleasure of the Minister.
 	(5)	Where a person is appointed as an appointed member on the nomination of the Administrator of the Northern Territory or the appropriate Aboriginal Land Council, or on the nomination of a Department, authority, incorporated company or other body, the Minister shall not terminate the appointment unless:
 	(a)	he or she is required to do so by subsection 20(1); or
@@ -209,12 +203,12 @@ Division 1—Advisory Committee
 21  Deputies
 	(1)	The Minister may appoint a person to be the deputy of an appointed member of the Committee.
 	(2)	If an appointed member of the Committee was appointed on the nomination of the Administrator of the Northern Territory or the appropriate Aboriginal Land Council, or on the nomination of a Department, authority, incorporated company or other body and the Administrator of the Northern Territory or the appropriate Aboriginal Land Council, or that Department, authority, incorporated company or other body nominates, in writing, a person for appointment as the deputy of that member, the Minister shall appoint that person as the deputy of that member in accordance with subsection (1).
-	(3)	If the Director of National Parks nominates a person for appointment as his or her deputy, the Minister shall appoint that person as the deputy of the Director.
+	(3)	If the Director of National Parks and Wildlife nominates a person for appointment as his or her deputy, the Minister shall appoint that person as the deputy of the Director.
 	(4)	The deputy of a member is entitled to attend a meeting of the Committee not attended by the member of whom he or she is the deputy, and, while so attending, shall be deemed to be the member.
 	(5)	The Minister may:
 	(a)	determine the terms and conditions of appointment of a person appointed as the deputy of a member; and
 	(b)	subject to subsection (6), at any time terminate such an appointment.
-	(6)	Where a person is appointed as the deputy of a member on the nomination of the Administrator of the Northern Territory or the appropriate Aboriginal Land Council, on the nomination of a Department, authority, incorporated company or other body, or on the nomination of the Director of National Parks, the Minister shall not terminate the appointment unless:
+	(6)	Where a person is appointed as the deputy of a member on the nomination of the Administrator of the Northern Territory or the appropriate Aboriginal Land Council, on the nomination of a Department, authority, incorporated company or other body, or on the nomination of the Director of National Parks and Wildlife, the Minister shall not terminate the appointment unless:
 	(a)	he or she is required to do so by subsection 20(1) as it applies by reason of subsection (8) of this section; or
 	(b)	the Administrator of the Northern Territory or the appropriate Aboriginal Land Council, the Department, authority, incorporated company or other body, or the Director, as the case may be, requests, in writing, the termination of the appointment.
 	(7)	The deputy of a member may resign his or her appointment by writing signed and delivered to the Minister.
@@ -229,7 +223,6 @@ Division 1—Advisory Committee
 	(7)	Where the Minister is of the opinion that it would not, by reason of the direct or indirect pecuniary interests of a particular member or otherwise, be proper for the member to be present during the consideration by the Committee of particular matters, he or she may, by instrument in writing, direct that that member is not to be present during the consideration by the Committee of those matters.
 	(8)	The Committee shall cause a summary record of its proceedings to be kept.
 	(9)	The Committee may invite a person to attend a meeting of the Committee for the purpose of advising or informing the Committee on any matter.
-
 Division 2—Technical Committee
 22A  Technical Committee
 		There is to be a Technical Committee.
@@ -252,7 +245,7 @@ Division 2—Technical Committee
 	(3)	An appointed member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister.
 	(4)	The Minister must not appoint as the Chairperson:
 	(a)	the Supervising Scientist or a member of the staff referred to in section 26; or
-	(b)	the Director of National Parks or a person who is an agent or delegate of the Director of National Parks.
+	(b)	the Director of National Parks and Wildlife or a person who is one of the persons who constitute the Australian National Parks and Wildlife Service under section 34 of the National Parks and Wildlife Conservation Act 1975.
 22D  Resignation
 		A member of the Committee may resign his or her office by writing signed and delivered to the Minister.
 22E  Termination of appointment
@@ -269,9 +262,7 @@ Division 2—Technical Committee
 	(7)	If the Minister is of the opinion that it would not, because of the direct or indirect pecuniary interests of a particular member or otherwise, be proper for the member to be present during the consideration by the Committee of particular matters, he or she may, by instrument in writing, direct that that member is not to be present during the consideration by the Committee of those matters.
 	(8)	The Committee must cause a summary record of its proceedings to be kept.
 	(9)	The Committee may invite a person to attend a meeting of the Committee for the purpose of advising or informing the Committee on any matter.
-
 Part IV—The Institute
-  
 23  Institute
 		There is established by this section an Alligator Rivers Region Research Institute.
 24  Functions of Institute in relation to uranium mining in the Region
@@ -286,8 +277,10 @@ Part IV—The Institute
 	(b)	to collect and assess, and to promote and assist in the collection and assessment of, information relating to the effects on the environment in the zone of general mining operations in the zone;
 	(c)	to perform such other functions, in relation to general mining operations in the zone, as are conferred on it by or under a prescribed instrument; and
 	(d)	to do anything incidental or conducive to the performance of any of the foregoing functions.
-	(2)	However, the Institute does not have the functions described in subsection (1) in relation to general mining operations in an area specified in a direction given by the Minister as an area in relation to which the Institute does not have those functions.
-	(3)	Subsection (2) applies whether the Minister gave the direction before or after the commencement of this subsection.
+	(2)	 Where, whether before or after the commencement of this section:
+	(a)	a conservation zone is declared under the National Parks and Wildlife Conservation Act 1975; and
+	(b)	an area is subsequently excised from the zone under that Act;
+then, until the Minister otherwise directs, the Institute continues to have the functions conferred by subsection (1) as if the area had not been excised.
 24B  Institute may undertake other environmental research
 	(1)	The Institute may undertake, on a commercial basis, research on environmental matters for other persons.
 	(2)	The Institute may undertake the research to the extent only that it is not in excess of the powers that may be conferred on the Institute by virtue of any of the legislative powers of the Parliament, and, in particular, may undertake the research:
@@ -299,11 +292,9 @@ Part IV—The Institute
 25  Institute to be managed by Supervising Scientist
 	(1)	The Institute shall be managed by the Supervising Scientist.
 	(2)	The Supervising Scientist has power to do all things that are necessary or convenient to be done for, or in connexion with, the management of the Institute.
-
 Part V—Miscellaneous
-  
 26  Staff
-	(1)	The staff required for carrying out or giving effect to this Act shall be persons engaged under the Public Service Act 1999.
+	(1)	The staff required for carrying out or giving effect to this Act shall be persons appointed or employed under the Public Service Act 1922.
 27  Power of Supervising Scientist to obtain information and documents
 	(1)	The Supervising Scientist may, by notice in writing served either personally or by post on a person, require the person:
 	(a)	to furnish to him or her, by writing signed by that person, or, in the case of a body corporate, by a competent officer of the body corporate, within the time and in the manner specified in the notice, such information in the possession of the person as is specified in the notice; or
@@ -331,23 +322,21 @@ the Court may make an order requiring the person against whom the order is sough
 	(2)	Subject to subsection (3), a person to whom this subsection applies shall not, either directly or indirectly, except in the performance of a function or duty under or in connexion with this Act, make a record of, or divulge or communicate to any person, any information concerning the affairs of any other person acquired by him or her by reason of his or her office or employment under or for the purposes of this Act.
 Penalty:	$1,000 or imprisonment for 6 months, or both.
 	(3)	Subsection (2) does not prevent the communication of information or the production of a document by the Supervising Scientist or a member of the staff assisting the Supervising Scientist authorized by him or her for that purpose:
-	(a)	to the Minister, to the Secretary of the Department that deals with matters arising under this Act or to an officer of, or an employee in, that Department approved by the Secretary of that Department; or
+	(a)	to the Minister, to the Permanent Head of the Department that deals with matters arising under this Act or to an officer of, or an employee in, that Department approved by the Permanent Head of that Department; or
 	(b)	to a person to whom, in the opinion of the Minister, it is in the public interest that the information be communicated or the document produced.
-	(4)	Neither the Secretary of the Department that deals with matters arising under this Act nor an officer of, nor an employee in, that Department approved by him or her for the purposes of subsection (3) shall, either directly or indirectly, except for the purpose of advising the Minister in connexion with this Act, make a record of, or divulge or communicate to any person, any information communicated to him or her by the Supervising Scientist or by a member of the staff assisting the Supervising Scientist, being information concerning the affairs of another person acquired by the Supervising Scientist or by a member of that staff by reason of his or her office or employment under or for the purposes of this Act.
+	(4)	Neither the Permanent Head of the Department that deals with matters arising under this Act nor an officer of, nor an employee in, that Department approved by him or her for the purposes of subsection (3) shall, either directly or indirectly, except for the purpose of advising the Minister in connexion with this Act, make a record of, or divulge or communicate to any person, any information communicated to him or her by the Supervising Scientist or by a member of the staff assisting the Supervising Scientist, being information concerning the affairs of another person acquired by the Supervising Scientist or by a member of that staff by reason of his or her office or employment under or for the purposes of this Act.
 Penalty:	$1,000 or imprisonment for 6 months, or both.
 	(5)	Nothing in this section shall be taken to affect the operation of section 9 of the Ombudsman Act 1976 or the operation of any similar provision in a law of the Northern Territory that confers functions on a person similar to functions conferred on the Ombudsman by that Act.
 	(6)	A reference in this section to a member of the staff assisting the Supervising Scientist is a reference to a member of the staff referred to in subsection 26(1), a person engaged under subsection 26(4) (as in force immediately before the commencement of the Environment Protection (Alligator Rivers Region) Amendment Act 1993) or any other person to whom a delegation has been given under subsection 35(1).
 32  Person not to obstruct or hinder Supervising Scientist
 		A person shall not, without reasonable excuse, obstruct or hinder the Supervising Scientist in the performance of his or her functions or the performance of the functions of the Institute or the exercise of his or her powers (including his or her powers in relation to the management of the Institute).
 Penalty:	$1,000 or imprisonment for 6 months, or both.
-33  Supervising Scientist to consult with Director of National Parks and Director of Territory Parks and Wildlife
+33  Supervising Scientist to consult with Director of National Parks and Wildlife and Director of Territory Parks and Wildlife
 		The Supervising Scientist shall:
-	(a)	consult with, and have regard to the views of, the Director of National Parks in relation to any matter arising in the course of the performance of his or her functions that concerns the functions, powers or duties of the Director; and
+	(a)	consult with, and have regard to the views of, the Director of National Parks and Wildlife in relation to any matter arising in the course of the performance of his or her functions that concerns the functions, powers or duties of the Director; and
 	(b)	consult with, and have regard to the views of, the Director of Conservation of the Northern Territory in relation to any matter arising in the course of the performance of his or her functions that concern the functions, powers or duties of the Director or the Conservation Commission of the Northern Territory established by the Conservation Commission Act 1980 of the Northern Territory.
-34  Supervising Scientist must comply with management plan etc.
-		The Supervising Scientist must perform his or her functions and exercise his or her powers in relation to a Commonwealth reserve or township wholly or partly in the Alligator Rivers Region only in accordance with:
-	(a)	a management plan in operation for the reserve under Division 4 of Part 15 of the Environment Protection and Biodiversity Conservation Act 1999; and
-	(b)	a town plan in operation for the township under that Division.
+34  Supervising Scientist to comply with plan of management
+		While a plan of management or a town plan is in force under the National Parks and Wildlife Conservation Act 1975 in relation to the whole or part of the Alligator Rivers Region, the Supervising Scientist shall perform his or her functions and exercise his or her powers in relation to the park, reserve or township to which the plan relates in accordance with that plan and not otherwise.
 35  Delegation
 	(1)	The Supervising Scientist may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to a person any of his or her powers under this Act, other than this power of delegation.
 	(2)	A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Supervising Scientist.
@@ -371,15 +360,13 @@ Penalty:	$1,000 or imprisonment for 6 months, or both.
 	(5A)	Subsection (5) does not apply to a report furnished to the Minister in connection with the performance by the Supervising Scientist of the function under section 5B.
 	(6)	For the purposes of this section, the period commencing on the day on which this Act receives the Royal Assent and ending on 30 June 1978 shall be regarded as a year.
 37  Regulations
-		The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+		The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 Schedule
-Section 3	
-  
-Note:
-For access to the map which the Schedule contains, click here [Environment Protection (Alligator Rivers Region) Act 1978 No. 28 of 1978].
+Section 3
+		[Map to be inserted].
 Notes to the Environment Protection (Alligator Rivers Region) Act 1978
 Note 1
-The Environment Protection (Alligator Rivers Region) Act 1978 as shown in this compilation comprises Act No. 28, 1978 amended as indicated in the Tables below.
+The Environment Protection (Alligator Rivers Region) Act 1978 as shown in this consolidation comprises Act No. 28, 1978 amended as indicated in the Tables below.
 Table of Acts
 Act
 Number  and year
@@ -394,7 +381,7 @@ Environment Protection (Alligator Rivers Region) Act 1978
 Statute Law (Miscellaneous Provisions) Act (No. 1) 1983
 39, 1983
 20 June 1983
-S. 3: 9 Aug 1983 (see Gazette 1983, No. S171) (a)
+S. 3: 9 Aug 1983 (see Gazette 1983, No. S171)  (a)
 —
 Public Service Reform Act 1984
 63, 1984
@@ -414,8 +401,8 @@ S. 3: 3 July 1985 (d)
 Public Service and Statutory Authorities Amendment Act 1985
 166, 1985
 11 Dec 1985
-Ss. 1‑3, 5, 30(8), 31, 35, 40 and 43: Royal Assent Ss. 12 and 15: 22 Dec 1984 Ss. 14, 18, 21, 22, 30 (1)‑(7) and 32: 1 July 1986 (see Gazette 1986, No. S310) 
-S. 24: 15 Mar 1981 Ss. 27‑29: 1 Jan 1986 (see s. 2(5) and Gazette 1985, No. S563) Ss. 33, 34, 36‑39: 1 Apr 1986 (see Gazette 1986, No. S134) S. 44: 21 July 1985 Remainder: 8 Jan 1986
+Ss. 1-3, 5, 30(8), 31, 35, 40 and 43: Royal Assent Ss. 12 and 15: 22 Dec 1984 Ss. 14, 18, 21, 22, 30 (1)-(7) and 32: 1 July 1986 (see Gazette 1986, No. S310) 
+S. 24: 15 Mar 1981 Ss. 27-29: 1 Jan 1986 (see s. 2(5) and Gazette 1985, No. S563) Ss. 33, 34, 36-39: 1 Apr 1986 (see Gazette 1986, No.S134) S. 44: 21 July 1985 Remainder: 8 Jan 1986
 S. 45(2) 
 Environment Protection (Alligator Rivers Region) Amendment Act 1987
 17, 1987
@@ -435,27 +422,18 @@ S. 13(2)
 Environmental Reform (Consequential Provisions) Act 1999
 92, 1999
 16 July 1999
-Schedule 4 (items 41‑54) and Schedule 7 (items 7, 8): 16 July 2000 (e) 
-—
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (items 418‑421): 5 Dec 1999 (see Gazette 1999, No. S584) (f)
+Schedule 4 (items 41‑54 and Schedule 7 (items 7, 8): [see (e) and Note 2]
 —
 (a)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1983, subsection 2(9) of which provides as follows:
 	(9)	The amendment of the Environment Protection (Alligator Rivers Region) Act 1978 made by this Act shall come into operation on such date as is fixed by Proclamation.
 (b)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by subsection 151(1) only of the Public Service Reform Act 1984, subsection 2(4) of which provides as follows:
 	(4)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 (c)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1984, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 (d)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 (e)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by Schedule 4 (items 41‑54) and Schedule 7 (items 7 and 8) only of the Environmental Reform (Consequential Provisions) Act 1999, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences when the Environment Protection and Biodiversity Conservation Act 1999 commences. 
-(f)	The Environment Protection (Alligator Rivers Region) Act 1978 was amended by Schedule 1 (items 418‑421) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
-
+	(1)	Subject to this section, this Act commences when the Environment Protection and Biodiversity Conservation Act 1999 commences. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -463,19 +441,17 @@ How affected
 Title	
 am. No. 17, 1987
 S. 3	
-am. No. 72, 1984; No. 17, 1987; No. 17, 1994; No. 92, 1999
+am. No. 72, 1984; No. 17, 1987; No. 17, 1994
 S. 5	
 am. No. 17, 1987; No. 17, 1994
 S. 5A	
-ad. No. 17, 1987; No. 92, 1999
+ad. No. 17, 1987
 S. 5B	
 ad. No. 17, 1994
 Ss. 6, 7	
 am. No. 17, 1994
 S. 8	
 rs. No. 17, 1994
-
-am. No. 146, 1999
 Ss. 9, 10	
 rep. No. 17, 1994
 S. 11	
@@ -499,50 +475,89 @@ ad. No. 17, 1994
 Ss. 16, 17	
 rs. No. 17, 1994
 S. 18	
-am. No. 39, 1983; No. 17, 1994; No. 92, 1999
-Ss. 19, 20	
+am. No. 39, 1983; No. 17, 1994
+Ss. 19-22	
 am. No. 17, 1994
-S. 21	
-am. No. 17, 1994; No. 92, 1999
-S. 22	
-am. No. 17, 1994
-Div. 2 of Part III 	 (ss. 22A‑22F)
+Div. 2 of Part III 	 (ss. 22A-22F)
 ad. No. 17, 1994
-Ss. 22A, 22B	
-ad. No. 17, 1994
-S. 22C	
-ad. No. 17, 1994
-am. No. 92, 1999
-Ss. 22D-22F	
+Ss. 22A-22F	
 ad. No. 17, 1994
 S. 24	
 am. No. 17, 1987
 S. 24A	
 ad. No. 17, 1987
-am. No. 92, 1999
 S. 24B	
 ad. No. 17, 1994
 S. 26	
-am. No. 63, 1984; No. 166, 1985; No. 17, 1994; No. 146, 1999
+am. No. 63, 1984; No. 166, 1985; No. 17, 1994
 S. 27	
 am. No. 17, 1994
 Ss. 29, 30	
 am. No. 17, 1994
 S. 31	
-am. No. 17, 1987; No. 17, 1994; No. 146, 1999
+am. No. 17, 1987; No. 17, 1994
 S. 32	
 am. No. 17, 1994
-Heading to s. 33	
-am. No. 92, 1999
 S. 33	
-am. No. 72, 1984; No. 17, 1994; No. 92, 1999
-S. 34	
-am. No. 17, 1994
-rs. No. 92, 1999
-S. 35	
+am. No. 72, 1984; No. 17, 1994
+Ss. 34, 35	
 am. No. 17, 1994
 S. 36	
 am. No. 17, 1987; No. 17, 1994 
-
+Note 2
+Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)
+The following amendments commence when No. 91 of 1999 comes into operation (16 July 2000 if not proclaimed earlier):
+Schedule 4
+41  Subsection 3(1) (definition of appointed member)
+Omit “and Wildlife”.
+42  Subsection 3(1) (definition of conservation zone)
+After “means”, insert “an area that was”.
+43  Subsection 3(1)
+Insert:
+Director of National Parks means the person holding the appointment as the Director of National Parks under the Environment Protection and Biodiversity Conservation Act 1999.
+44  Subsection 3(1) (at the end of subparagraphs (b)(i) and (ii) of the definition of prescribed instrument)
+Add “and”.
+45  Subsection 3(1) (at the end of subparagraph (b)(iii) of the definition of prescribed instrument)
+Omit “or”, substitute “and”.
+46  Subsection 3(1) (subparagraph (b)(iv) of the definition of prescribed instrument)
+Repeal the subparagraph, substitute:
+	(iv)	an instrument giving the approval of the Governor‑General under paragraph 355(1)(a) of the Environment Protection and Biodiversity Conservation Act 1999.
+47  Subsection 5A(2)
+Repeal the subsection, substitute:
+	(2)	However, the Supervising Scientist does not have the functions described in subsection (1) in relation to general mining operations in an area specified by the Minister in a direction under section 7 as an area in relation to which the Supervising Scientist does not have those functions.
+	(3)	Subsection (2) applies whether the Minister gave the direction before or after the commencement of this subsection.
+48  Paragraph 18(1)(b)
+Omit “and Wildlife”.
+49  Paragraph 18(1A)(b)
+Omit all the words after “Parks” (first occurring), substitute “or a person who is an agent or delegate of the Director of National Parks”.
+50  Subsections 21(3) and (6)
+Omit “and Wildlife”.
+51  Paragraph 22C(4)(b)
+Omit all the words after “Parks” (first occurring), substitute “or a person who is an agent or delegate of the Director of National Parks”.
+52  Subsection 24A(2)
+Repeal the subsection, substitute:
+	(2)	However, the Institute does not have the functions described in subsection (1) in relation to general mining operations in an area specified in a direction given by the Minister as an area in relation to which the Institute does not have those functions.
+	(3)	Subsection (2) applies whether the Minister gave the direction before or after the commencement of this subsection.
+53  Paragraph 33(a)
+Omit “and Wildlife”.
+Note:	The heading to section 33 is altered by omitting “and Wildlife” (first occurring).
+54  Section 34
+Repeal the section, substitute:
+34  Supervising Scientist must comply with management plan etc.
+		The Supervising Scientist must perform his or her functions and exercise his or her powers in relation to a Commonwealth reserve or township wholly or partly in the Alligator Rivers Region only in accordance with:
+	(a)	a management plan in operation for the reserve under Division 4 of Part 15 of the Environment Protection and Biodiversity Conservation Act 1999; and
+	(b)	a town plan in operation for the township under that Division.
+Schedule 7
+7  Subsection 3(1)
+Insert:
+ecosystem means a dynamic complex of plant, animal and micro‑organism communities and their non‑living environment interacting as a functional unit.
+8  Subsection 3(1) (definition of environment)
+Repeal the definition, substitute:
+environment includes:
+	(a)	ecosystems and their constituent parts, including people and communities; and
+	(b)	natural and physical resources; and
+	(c)	the qualities and characteristics of locations, places and areas; and
+	(d)	the social, economic and cultural aspects of a thing mentioned in paragraph (a), (b) or (c).
+As at 19 August 1999 the amendments are not incorporated in this consolidation.
 
 
