@@ -1,7 +1,7 @@
 
 Textile, Clothing and Footwear Strategic Investment Program Act 1999
 Act No. 182 of 1999 as amended 
-This compilation was prepared on 29 July 2002  taking into account amendments up to Act No. 63 of 2002
+This compilation was prepared on 24 February 2000  taking into account amendments up to Act No. 146 of 1999)
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -507,7 +507,7 @@ authorised Commonwealth contractor means a person who:
 	(b)	is authorised, in writing, by the Secretary for the purposes of this definition.
 senior employee, in relation to an authorised Commonwealth contractor, means an employee of the contractor, where the skills and responsibilities that are expected of the employee are equivalent to, or exceed, the skills and responsibilities expected of at least one of the senior officers of the Department.
 senior officer, in relation to the Department, means:
-	(a)	an SES employee, or acting SES employee, in the Department; or
+	(a)	a person who holds or performs the duties of a Senior Executive Service office or position in the Department; or
 	(b)	a person who holds or performs the duties of an Executive Officer (Level 2) office or position in the Department.
 53  Availability of grants
 		To avoid doubt, nothing in this Act implies that grants must be available in respect of a particular income year.
@@ -553,48 +553,31 @@ Textile, Clothing and Footwear Strategic Investment Program Act 1999
 Public Employment (Consequential and Transitional) Amendment Act 1999
 146, 1999
 11 Nov 1999
-Schedule 1 (item 935): 22 Dec 1999  (a) 
+Schedule 1 (item 935): 5 Dec 1999 (see (a) and Gazette 1999, No. S584) 
 —
-as amended by
 
 
 
 
-Statute Law Revision Act 2002
-63, 2002
-3 July 2002
-Schedule 2 (item 29): (aa)
-—
-(a)	The Textile, Clothing and Footwear Strategic Investment Program Act 1999 was amended by Schedule 1 (item 935) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) to (3) of which provide as follows:
+
+(a)	The Textile, Clothing and Footwear Strategic Investment Program Act 1999 was amended by Schedule 1 (item 935) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-	(3)	If:
-	(a)	an item (the amending item) of a Schedule to this Act is expressed to amend another Act (the amended Act); and
-	(b)	the whole of the amended Act is expressed to commence at one time; and
-	(c)	at the time when the Public Service Act 1999 commences, the amended Act:
-	(i)	has not yet been enacted; or
-	(ii)	has been enacted but has not yet commenced;
-		then the amending item commences immediately after the commencement of the amended Act.
-(aa)	The Public Employment (Consequential and Transitional) Amendment Act 1999 was amended by Schedule 2 (item 29) only of the Statute Law Revision Act 2002, subsection 2(1) (item 58) of which provides as follows:
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-58.  Schedule 2, item 29
-Immediately after the time specified in the Public Employment (Consequential and Transitional) Amendment Act 1999 for the commencement of item 935 of Schedule 1 to that Act
-22 December 1999
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 52 	
-am. No. 146, 1999 (as am. by No. 63, 2002)
 
+
+
+
+Note 2
+Subsection. 48(6)—Schedule 1 (item 935) of the Public Employment (Consequential and Transitional) Amendment Act 1999 provides as follows: 
+935  Subsection 48(6) (paragraph (a) of the definition of senior officer)
+Repeal the paragraph, substitute:
+	(a)	an SES employee, or acting SES employee, in the Department; or
+The proposed amendment was misdescribed and is not incorporated in this compilation.
 
       
 
