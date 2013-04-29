@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00746/Html/1a099385-e25e-47de-9dab-b07a3b25850d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00542/Html/25353d52-76f1-455b-a82d-0ee0d900e4cf_files/image001.gif)
 
 # National Health Reform Act 2011
 
 **Act No. 9 of 2011 as amended**
 
-This compilation was prepared on 23 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 17 July 2012
+ taking into account amendments up to Act No. 62 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -809,9 +810,9 @@ performance of the following:</li>
 
                (e)     other bodies or organisations that provide health care services.
 
-<li class="BoxList" style="margin-left:21.25pt">•      The main functions of the
+<li class="BoxList" style="margin-left:21.25pt">•      The main functions of the Independent
 
-Independent Hospital Pricing Authority are as follows:</li>
+Hospital Pricing Authority are as follows:</li>
 
                (a)     to determine the national efficient price for health care services provided by public hospitals where the services are funded on an activity basis;
 
@@ -1597,11 +1598,23 @@ Eligibility
 
 unless the person is eligible for appointment as a Commission Board member.
 
-Note 1:       For qualifications of Commission Board members, see subsection 20(3).
+Note:          For qualifications of Commission Board members, see subsection 20(3).
 
-Note 2:       For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+Validation
 
-##### <a id="23"></a>23  Remuneration
+             (5)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
+
+##### <a id="23"></a>23  Remuneration
 
              (1)  A Commission Board member is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, a Commission Board member is to be paid the remuneration that is prescribed by the regulations.
 
@@ -1647,7 +1660,7 @@ Note 2:       For rules that apply to acting appointments, see secti
 
 ##### <a id="27"></a>27  Other terms and conditions
 
-                   A Commission Board member holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
+                   A Commission Board member holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
 
 ### Division 3—Procedures of the Commission Board
 
@@ -1789,7 +1802,17 @@ Note:          For re‑appointment, see the _Acts Interpretat
 
              (2)  An appointment under subsection (1) is to be made by written instrument.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For more about acting appointments, see sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="40"></a>40  Outside employment
 
@@ -2687,7 +2710,19 @@ Written instrument
 
              (4)  An appointment under subsection (1), (2) or (3) is to be made by written instrument.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+Validation
+
+             (5)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ## Part 3.4—Terms and conditions for members of the Performance Authority
 
@@ -2883,7 +2918,17 @@ Note:          For re‑appointment, see the _Acts Interpretat
 
              (2)  An appointment under subsection (1) is to be made by written instrument.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For more about acting appointments, see sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="95"></a>95  Outside employment
 
@@ -3797,13 +3842,25 @@ Written instrument
 
              (4)  An appointment under subsection (1), (2) or (3) is to be made by written instrument.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
-
 Agreement of the Standing Council on Health
 
              (5)  The Minister must have the agreement of the Standing Council on Health before making an appointment under subsection (2).
 
              (6)  The Minister must consult the Standing Council on Health before making an appointment under subsection (3).
+
+Validation
+
+             (7)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ## Part 4.5—Terms and conditions for members of the Pricing Authority
 
@@ -4005,7 +4062,17 @@ Note:          For reappointment, see the _Acts Interpretation
 
              (2)  An appointment under subsection (1) is to be made by written instrument.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For more about acting appointments, see sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="166"></a>166  Outside employment
 
@@ -4185,7 +4252,19 @@ Eligibility
 
 unless the person is a clinician.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+Validation
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="182"></a>182  Procedures
 
@@ -4271,7 +4350,7 @@ Note:          A similar rule applies to a committee member wh
 
              (2)  The Chair of the Clinical Advisory Committee may grant leave of absence to a Clinical Advisory Committee member on the terms and conditions that the Chair determines.
 
-##### <a id="188"></a>188  Resignation
+##### <a id="188"></a>188  Resignation
 
              (1)  A Clinical Advisory Committee member may resign his or her appointment by giving the Minister a written resignation.
 
@@ -4647,7 +4726,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="214"></a>214  Disclosure or use for the purposes of this Act
 
-                   An official of the Pricing Authority may disclose or use protected Pricing Authority information if:
+                   An official of the Pricing Authority may disclose or use protected Pricing Authority information if:
 
                      (a)  the disclosure or use is for the purposes of this Act; or
 
@@ -5599,7 +5678,7 @@ Protection of confidentiality
 
                    This Act is not intended to exclude or limit the operation of a law of a State or Territory that is capable of operating concurrently with this Act.
 
-##### <a id="281"></a>281  _Commonwealth Authorities and Companies Act 1997_ does not apply
+##### <a id="281"></a>281  _Commonwealth Authorities and Companies Act 1997_ does not apply
 
                    The _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to:
 
@@ -5737,23 +5816,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 28)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 21–35, 50): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 50)</div>
   </td>
 </tr></table>
 
@@ -6101,25 +6163,15 @@ Part 2.3 of Chapt. 2</div>
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 109, 2011; No. 136, 2012</div>
+    <div>am. No. 109, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 22(4) 
-Renumbered Note 1</div>
+    <div>Note to s. 22(4)</div>
   </td>
   <td>
-    <div>am. No. 109, 2011 
-No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 22(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
+    <div>am. No. 109, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6263,87 +6315,7 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2011; No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 39(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
+    <div>Ss. 37–46</div>
   </td>
   <td>
     <div>am. No. 109, 2011</div>
@@ -6666,58 +6638,10 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70</div>
+    <div>Ss. 70–74</div>
   </td>
   <td>
     <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 74(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -6786,103 +6710,7 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 94(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 96</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101</div>
+    <div>Ss. 91–101</div>
   </td>
   <td>
     <div>ad. No. 109, 2011</div>
@@ -7178,58 +7006,10 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 142</div>
+    <div>Ss. 142–146</div>
   </td>
   <td>
     <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 143</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 144</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 145</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 146</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 146(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -7290,103 +7070,7 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 162</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 163</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 164</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 165</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 165(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 166</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 167</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 168</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 170</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 171</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 172</div>
+    <div>Ss. 162–172</div>
   </td>
   <td>
     <div>ad. No. 139, 2011</div>
@@ -7442,119 +7126,7 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 178</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 179</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 180</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 181</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 181(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 182</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 183</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 184</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 186</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 187</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 190</div>
+    <div>Ss. 178–190</div>
   </td>
   <td>
     <div>ad. No. 139, 2011</div>
@@ -8500,15 +8072,5 @@ _National Health Reform Amendment (Administrator and National Health Funding Bod
 (1)       If, on the commencement of Part 5.2 of the _National Health Reform Act 2011_, corresponding provisions to that Part have not been enacted by another jurisdiction, the responsible Minister for that jurisdiction for the purposes of that Part is the Minister of that jurisdiction with portfolio responsibility for health.
 
 (2)       Any thing done by a Minister of the Commonwealth or of a State before the commencement of Part 5.2 of the _National Health Reform Act 2011_ that would have been validly done if that Part, and the corresponding provisions of other jurisdictions, had been in force at the time is taken to have been validly done.
-
-* * *
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 4
-
-## 50  Saving—appointments
-
-The amendments made by this Part do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
  
