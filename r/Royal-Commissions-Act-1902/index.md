@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00006/Html/RoyalComm1902_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00707/Html/RoyalComm1902_WD02_image001.gif)
 
 # Royal Commissions Act 1902
 
 **Act No. 12 of 1902 as amended**
 
-This compilation was prepared on 30 December 2006
+This compilation was prepared on 14 December 2006
  taking into account amendments up to Act No. 167 of 2006
 
 The text of any of those amendments not in force
@@ -448,7 +448,7 @@ shall not be published, or shall not be published except in such manner, and to 
 
                             make copies of any documents that contain matter that is relevant to a matter into which the Commission is inquiring.
 
-             (2)  Where the retention of a document or other thing by a Commission ceases to be reasonably necessary for the purposes of the inquiry to which the document or other thing is relevant, the Commission shall, if a person who appears to the Commission to be entitled to the document or other thing so requests, cause the document or other thing to be delivered to that person unless the Commission has furnished the document or other thing to a person or body referred to in paragraph 6P(1)(a), (aa), (c), (d), (da) or (e) or subsection 6P(2), (2A) or (2B).
+             (2)  Where the retention of a document or other thing by a Commission ceases to be reasonably necessary for the purposes of the inquiry to which the document or other thing is relevant, the Commission shall, if a person who appears to the Commission to be entitled to the document or other thing so requests, cause the document or other thing to be delivered to that person unless the Commission has furnished the document or other thing to a person or body referred to in paragraph 6P(1)(a), (aa), (c), (d), (da) or (e) or subsection 6P(2) or (2A).
 
           (2A)  Subsection (2) has effect subject to subsection 9(10).
 
@@ -626,17 +626,7 @@ that, in the opinion of the Commission, relates or may relate to a matter into w
 
 that, in the opinion of the Commission, relates or may relate to the performance of the functions of the Australian Crime Commission, the Commission may, if in its opinion it is appropriate so to do, communicate the information or furnish the evidence, document or thing, as the case may be, to the Chief Executive Officer of the Australian Crime Commission.
 
-          (2B)  If, in the course of inquiry into a matter, a Commission:
-
-                     (a)  obtains information; or
-
-                     (b)  takes evidence; or
-
-                     (c)  receives a document or thing;
-
-that, in the opinion of the Commission, relates or may relate to the performance of the functions of the Integrity Commissioner (within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_), the Commission may, if in its opinion it is appropriate so to do, communicate the information or furnish the evidence, document or thing, as the case may be, to the Integrity Commissioner.
-
-             (3)  A reference in subsection (2), (2A) or (2B) to the furnishing of a document or thing includes a reference to the furnishing of the contents of the document or a description of the thing.
+             (3)  A reference in subsection (2) or (2A) to the furnishing of a document or thing includes a reference to the furnishing of the contents of the document or a description of the thing.
 
 ##### <a id="7"></a>7  Protection to Commissioners etc.
 
@@ -1374,7 +1364,7 @@ Remainder: Royal Assent</div>
     <div>30 June 2006</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 57–59): 30 Dec 2006</div>
+    <div>Schedule 1 (items 57–59): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1394,7 +1384,7 @@ Remainder: Royal Assent</div>
     <div>12 Dec 2006</div>
   </td>
   <td>
-    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -1762,7 +1752,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; Nos. 52, 86 and 167, 2006</div>
+    <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; Nos. 52 and 167, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1946,7 +1936,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; No. 125, 2002; No. 86, 2006</div>
+    <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; No. 125, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2034,7 +2024,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>ad. No. 167, 2006</div>
+    <div>ad. No. 167, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2126,6 +2116,38 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
   </td>
 </tr></table>
 
+### Note 2
+
+_Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006 (No. 86, 2006)_
+
+The following amendments commence on 30 December 2006 unless proclaimed earlier:
+
+## Schedule 1
+
+## 57  Subsection 6F(2)
+
+Omit “or (2A)”, substitute “, (2A) or (2B)”.
+
+## 58  After subsection 6P(2A)
+
+Insert:
+
+          (2B)  If, in the course of inquiry into a matter, a Commission:
+
+                     (a)  obtains information; or
+
+                     (b)  takes evidence; or
+
+                     (c)  receives a document or thing;
+
+that, in the opinion of the Commission, relates or may relate to the performance of the functions of the Integrity Commissioner (within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_), the Commission may, if in its opinion it is appropriate so to do, communicate the information or furnish the evidence, document or thing, as the case may be, to the Integrity Commissioner.
+
+## 59  Subsection 6P(3)
+
+Omit “or (2A)”, substitute “, (2A) or (2B)”.
+
+As at 14 December 2006 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2150,7 +2172,7 @@ The amendments made by this Schedule apply, after the commencement of this Sched
 
 * * *
 
-_Royal Commissions Amendment (Records) Act 2006 (No. 167, 2006)_
+_Royal Commissions Amendment (Records) Act 2006 (No. 167, 2006)_
 
 ## Schedule 1
 
