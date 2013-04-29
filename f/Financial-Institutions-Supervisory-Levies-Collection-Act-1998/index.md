@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00598/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00380/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
 
 # Financial Institutions Supervisory Levies Collection Act 1998
 
-**Act No. 53 of 1998 as amended**
+**Act No. 53 of 1998 as amended**
 
-This compilation was prepared on 28 September 2007
- taking into account amendments up to Act No. 154 of 2007
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 74 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -19,81 +19,81 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Act binds the Crown                                                                           1
+[3](#3).            Act binds the Crown
 
-[4](#4).            External Territories                                                                              1
+[4](#4).            External Territories
 
-[5](#5).            Application of Act to Lloyd’s                                                            1
+[5](#5).            Application of Act to Lloyd’s
 
-[6](#6).            Definitions                                                                                           1
+[6](#6).            Definitions
 
-**Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
+**Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
 
-[7](#7).            Definitions                                                                                           2
+[7](#7).            Definitions
 
-[8](#8).            Liability to levy                                                                                   4
+[8](#8).            Liability to levy
 
-[9](#9).            When levy due for payment                                                                5
+[9](#9).            When levy due for payment [_see_ Note 2]
 
-[10](#10).          Late payment penalty                                                                         6
+[10](#10).          Late payment penalty
 
-[11](#11).          Payment of levy and late payment penalty                                        6
+[11](#11).          Payment of levy and late payment penalty
 
-[12](#12).          Waiver of levy and late payment penalty                                           6
+[12](#12).          Waiver of levy and late payment penalty
 
-[13](#13).          Recovery of levy and late payment penalty                                       7
+[13](#13).          Recovery of levy and late payment penalty
 
-[14](#14).          Exempting laws ineffective                                                                  7
+[14](#14).          Exempting laws ineffective
 
-[15](#15).          Regulations may modify this Part if levy Act commences during a financial year  7
+[15](#15).          Regulations may modify this Part if levy Act commences during a financial year
 
-**Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
+**Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
 
-[16](#16).          Definitions                                                                                           8
+[16](#16).          Definitions
 
-[17](#17).          Fund’s accounts to be prima facie evidence of value of its assets       8
+[17](#17).          Fund’s accounts to be prima facie evidence of value of its assets
 
-[18](#18).          Liability to levy                                                                                   9
+[18](#18).          Liability to levy
 
-[19](#19).          When levy due for payment                                                                9
+[19](#19).          When levy due for payment
 
-[20](#20).          Late payment penalty                                                                         9
+[20](#20).          Late payment penalty
 
-[21](#21).          Payment of levy and late payment penalty                                        9
+[21](#21).          Payment of levy and late payment penalty
 
-[22](#22).          Waiver of late payment penalty                                                          9
+[22](#22).          Waiver of late payment penalty
 
-[23](#23).          Recovery of levy and late payment penalty                                     10
+[23](#23).          Recovery of levy and late payment penalty
 
-[24](#24).          Application of levy, late payment penalty and repayments of financial assistance               10
+[24](#24).          How payments of levy and late payment penalty and repayments of financial assistance are to be applied
 
-[25](#25).          Exempting laws ineffective                                                                10
+[25](#25).          Exempting laws ineffective
 
-[26](#26).          Delegation                                                                                          10
+[26](#26).          Delegation
 
-**Part 4—Miscellaneous**
+**Part 4—Miscellaneous**
 
-[27](#27).          Review of certain decisions                                                               11
+[27](#27).          Review of certain decisions
 
-[28](#28).          Statements to accompany notification of decisions                          12
+[28](#28).          Statements to accompany notification of decisions
 
-[29](#29).          Regulations                                                                                        13
+[29](#29).          Regulations
 
 **Notes** 
 
 ## An Act to make provision for the collection of levies imposed in respect of various financial institutions, and for related purposes
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Financial Institutions Supervisory Levies Collection Act 1998_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
@@ -107,7 +107,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Application of Act to Lloyd’s
 
-             (1)  This Act applies to Lloyd’s (within the meaning of section 3 of the _Insurance Act 1973_), at all times after the commencement of this Act, as if Lloyd’s were a body corporate authorised under that Act to carry on insurance business.
+             (1)  This Act applies to Lloyd’s (within the meaning of section 3 of the _Insurance Act 1973_), at all times after the commencement of this Act, as if Lloyd’s were a body corporate authorised under that Act to carry on insurance business.
 
              (2)  Nothing in this Act makes any Lloyd’s underwriter liable to pay levy under this Act.
 
@@ -117,7 +117,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="apra"></a>**_APRA_** means the Australian Prudential Regulation Authority.
 
-## Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993
+## Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993
 
 ##### <a id="7"></a>7  Definitions
 
@@ -139,7 +139,7 @@ Note:          NOHC is short for non-operating holding company
 
                     <a name="gener-insur-compani"></a>**_general insurance company_** means a body corporate that is authorised under the _Insurance Act 1973_ to carry on insurance business within the meaning of that Act.
 
-                    <a name="late-payment-penalti"></a>**_late payment penalty_** means penalty payable under section 10.
+                    <a name="late-payment-penalti"></a>**_late payment penalty_** means penalty payable under section 10.
 
                     <a name="leviabl-bodi"></a>**_leviable body_** means any of the following types of bodies:
 
@@ -171,9 +171,9 @@ Note:          NOHC is short for non-operating holding company
 
                     <a name="levi-imposit-dai"></a>**_levy imposition day_**, in relation to the imposition of a levy in respect of a leviable body of a particular type for a financial year, means:
 
-                     (a)  if the leviable body is that type of leviable body on 1 July of the financial year—that day; or
+                     (a)  if the leviable body is that type of leviable body on 1 July of the financial year—that day; or
 
-                     (b)  if the leviable body becomes that type of leviable body on a day during the financial year that is after 1 July of the financial year—the day, during the financial year, on which the leviable body becomes that type of leviable body.
+                     (b)  if the leviable body becomes that type of leviable body on a day during the financial year that is after 1 July of the financial year—the day, during the financial year, on which the leviable body becomes that type of leviable body.
 
                     <a name="levi-pai-entiti"></a>**_levy paying entity_** means:
 
@@ -219,9 +219,9 @@ Superannuation entities
 
              (6)  A trustee of a superannuation entity that is a superannuation entity at any time during a financial year that ends after the commencement of the _Superannuation Supervisory Levy Imposition Act 1998_ is liable to pay a levy in respect of that financial year.
 
-##### <a id="9"></a>9  When levy due for payment
+##### <a id="9"></a>9  When levy due for payment [_see_ Note 2]
 
-             (1)  Levy payable by a leviable body (other than a superannuation entity) for a financial year under section 8 is due and payable on:
+             (1)  Levy payable by a leviable body (other than a superannuation entity) for a financial year under section 8 is due and payable on:
 
                      (a)  if the levy imposition day relating to the levy payable by the leviable body is 1 July of the financial year—a business day that is:
 
@@ -229,17 +229,17 @@ Superannuation entities
 
                              (ii)  is not earlier than 28 days after the day on which the notice is given; or
 
-                     (b)  if the levy imposition day relating to the levy payable by the leviable body is a day of that financial year after 1 July—by:
+                     (b)  if the levy imposition day relating to the levy payable by the leviable body is a day of that financial year after 1 July—by:
 
                               (i)  the day that is 6 weeks after the day on which the leviable body becomes that type of leviable body; or
 
-                             (ii)  if the day applicable under subparagraph (i) is not a business day, the first business day following that day.
+                             (ii)  if the day applicable under subparagraph (i) is not a business day, the first business day following that day.
 
              (2)  Levy payable under subsection 8(6) for a financial year by a trustee of a superannuation entity is due and payable:
 
                      (a)  if the entity is a superannuation entity on 1 July of the financial year and became a superannuation entity before that day—on a business day that:
 
-                              (i)  is specified in a notice given by APRA to the Treasurer on or after the day on which an annual return that is a reporting document under section 13 of the _Financial Sector (Collection of Data) Act 2001_ and that relates to the previous financial year was received by APRA; and
+                              (i)  is specified in a notice given by APRA to the trustee on or after the day on which a return under section 36 of the _Superannuation Industry (Supervision) Act 1993_ that relates to the previous financial year was received by APRA; and
 
                              (ii)  is not earlier than 6 weeks after the day on which the notice is given; or
 
@@ -271,7 +271,7 @@ the levy paying entity is liable to pay, by way of penalty, an amount worked out
 
                    Levy and late payment penalty are payable to APRA on behalf of the Commonwealth.
 
-Note:          Levy and late payment penalty may be payable to the Commissioner of Taxation because of section 252G of the _Superannuation Industry (Supervision) Act 1993_.
+Note:          Levy and late payment penalty may be payable to the Commissioner of Taxation because of section 252G of the _Superannuation Industry (Supervision) Act 1993_.
 
 ##### <a id="12"></a>12  Waiver of levy and late payment penalty
 
@@ -303,19 +303,21 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
 ##### <a id="15"></a>15  Regulations may modify this Part if levy Act commences during a financial year
 
-                   If an Act mentioned in section 8 that imposes levy in respect of a particular type of leviable body commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year and that type of leviable body subject to the modifications specified in the regulations.
+                   If an Act mentioned in section 8 that imposes levy in respect of a particular type of leviable body commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year and that type of leviable body subject to the modifications specified in the regulations.
 
-## Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993
+## Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993
 
 ##### <a id="16"></a>16  Definitions
 
                    In this Part, unless the contrary intention appears:
 
+                    <a name="account"></a>**_Account_** means the Superannuation Protection Account established by section 234 of _the Superannuation Industry (Supervision) Act 1993_.
+
                     <a name="approved-deposit-fund"></a>**_approved deposit fund_** has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_.
 
-                    <a name="fund"></a>**_fund_** means a superannuation fund or an approved deposit fund, but does not include a self managed superannuation fund (within the meaning of the _Superannuation Industry (Supervision) Act 1993_).
+                    <a name="fund"></a>**_fund_** means a superannuation fund or an approved deposit fund, but does not include a self managed superannuation fund (within the meaning of the _Superannuation Industry (Supervision) Act 1993_).
 
-                    <a name="late-payment-penalti"></a>**_late payment penalty_** means penalty payable under section 20.
+                    <a name="late-payment-penalti"></a>**_late payment penalty_** means penalty payable under section 20.
 
                     <a name="levi"></a>**_levy_** means levy imposed by regulations under the _Superannuation (Financial Assistance Funding) Levy Act 1993_.
 
@@ -361,7 +363,7 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
 the trustee is liable to pay to the Commonwealth, in respect of that levy month, by way of penalty, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00598/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00380/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -381,13 +383,19 @@ the trustee is liable to pay to the Commonwealth, in respect of that levy month,
 
                      (b)  late payment penalty that is due and payable.
 
-##### <a id="24"></a>24  Application of levy, late payment penalty and repayments of financial assistance
+##### <a id="24"></a>24  How payments of levy and late payment penalty and repayments of financial assistance are to be applied
 
-                   If levy is imposed as a result of a determination by the Minister to make a grant of financial assistance, the following amounts must be paid to the Commonwealth:
+             (1)  If a levy is imposed as a result of a determination by the Minister to make a grant of financial assistance not from the Account, then the following amounts must be paid to the Commonwealth and not credited to the Account:
 
-                     (a)  amounts of the levy, and late payment penalty in respect of the levy, received by the Minister;
+                     (a)  any amounts of that levy, and of late payment penalty in respect of that levy, that are received by the Minister; and
 
-                     (b)  repayments of the financial assistance.
+                     (b)  any repayments of that financial assistance.
+
+             (2)  If a levy is imposed as a result of a determination by the Minister to make a grant of financial assistance from the Account, then the following amounts must be paid to the Commonwealth and credited to the Account:
+
+                     (a)  amounts equal to any amounts of that levy, and of late payment penalty in respect of that levy, that are received by the Minister; and
+
+                     (b)  amounts equal to any repayments of that financial assistance.
 
 ##### <a id="25"></a>25  Exempting laws ineffective
 
@@ -405,7 +413,7 @@ the law does not operate to exempt the trustee from liability to pay levy unless
 
                    The Minister may, by signed writing, delegate to APRA all or any of his or her powers under this Part.
 
-## Part 4—Miscellaneous
+## Part 4—Miscellaneous
 
 ##### <a id="27"></a>27  Review of certain decisions
 
@@ -429,13 +437,13 @@ the law does not operate to exempt the trustee from liability to pay levy unless
 
              (6)  Applications may be made to the Administrative Appeals Tribunal for review of:
 
-                     (a)  decisions of the decision maker that have been confirmed or varied under subsection (4); and
+                     (a)  decisions of the decision maker that have been confirmed or varied under subsection (4); and
 
                      (b)  decisions of the decision maker to revoke reviewable decisions.
 
-             (7)  If a decision is taken to be confirmed under subsection (4), section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making application for review of the decision were the period commencing on the day on which the decision is taken to be confirmed and ending on the 28th day after that day.
+             (7)  If a decision is taken to be confirmed under subsection (4), section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making application for review of the decision were the period commencing on the day on which the decision is taken to be confirmed and ending on the 28th day after that day.
 
-             (8)  If a request is made under subsection (1) in respect of a reviewable decision, section 41 of the _Administrative Appeals Tribunal Act 1975_ applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.
+             (8)  If a request is made under subsection (1) in respect of a reviewable decision, section 41 of the _Administrative Appeals Tribunal Act 1975_ applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.
 
              (9)  The hearing of a proceeding relating to a reviewable decision is to take place in private and the Administrative Appeals Tribunal may, by order:
 
@@ -447,21 +455,21 @@ the law does not operate to exempt the trustee from liability to pay levy unless
 
                     <a name="decision-maker"></a>**_decision maker_**, in relation to a reviewable decision, means:
 
-                     (a)  if the reviewable decision is a decision of APRA under section 12—APRA; or
+                     (a)  if the reviewable decision is a decision of APRA under section 12—APRA; or
 
-                     (b)  if the reviewable decision is a decision of the Minister under section 22—the Minister.
+                     (b)  if the reviewable decision is a decision of the Minister under section 22—the Minister.
 
                     <a name="levi-pai-entiti"></a>**_levy paying entity_** means:
 
-                     (a)  an entity that is a levy paying entity as defined in section 7; or
+                     (a)  an entity that is a levy paying entity as defined in section 7; or
 
-                     (b)  a trustee of a fund as defined in section 16.
+                     (b)  a trustee of a fund as defined in section 16.
 
                     <a name="review-decision"></a>**_reviewable decision_** means:
 
-                     (a)  a decision of APRA under section 12; or
+                     (a)  a decision of APRA under section 12; or
 
-                     (b)  a decision of the Minister under section 22.
+                     (b)  a decision of the Minister under section 22.
 
 ##### <a id="28"></a>28  Statements to accompany notification of decisions
 
@@ -479,15 +487,15 @@ the law does not operate to exempt the trustee from liability to pay levy unless
 
 that notice must include words to the effect that the levy paying entity may, subject to the _Administrative Appeals Tribunal Act 1975_, apply to the Administrative Appeals Tribunal for review of the reviewable decision as confirmed or varied, or for review of the decision to revoke the reviewable decision.
 
-             (3)  A failure to comply with the requirements of subsections (1) and (2) in relation to a reviewable decision or a decision under subsection 27(4) does not affect the validity of that decision.
+             (3)  A failure to comply with the requirements of subsections (1) and (2) in relation to a reviewable decision or a decision under subsection 27(4) does not affect the validity of that decision.
 
              (4)  In this section:
 
-                    <a name="decision-maker"></a>**_decision maker_**, in relation to a reviewable decision, has the same meaning as in section 27.
+                    <a name="decision-maker"></a>**_decision maker_**, in relation to a reviewable decision, has the same meaning as in section 27.
 
-                    <a name="levi-pai-entiti"></a>**_levy paying entity_** has the same meaning as in section 27.
+                    <a name="levi-pai-entiti"></a>**_levy paying entity_** has the same meaning as in section 27.
 
-                    <a name="review-decision"></a>**_reviewable decision_** has the same meaning as in section 27.
+                    <a name="review-decision"></a>**_reviewable decision_** has the same meaning as in section 27.
 
 ##### <a id="29"></a>29  Regulations
 
@@ -497,7 +505,7 @@ that notice must include words to the effect that the levy paying entity may, su
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  Without limiting subsection (1), the regulations may, in particular:
+             (2)  Without limiting subsection (1), the regulations may, in particular:
 
                      (a)  provide for the manner of payment for levy, late payment penalty and other amounts payable under this Act; and
 
@@ -507,7 +515,7 @@ that notice must include words to the effect that the levy paying entity may, su
 
 ### Note 1
 
-The _Financial Institutions Supervisory Levies Collection Act 1998_ as shown in this compilation comprises Act No. 53, 1998 amended as indicated in the Tables below.
+The _Financial Institutions Supervisory Levies Collection Act 1998_ as shown in this compilation comprises Act No. 53, 1998 amended as indicated in the Tables below.
 
 For all information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -551,10 +559,10 @@ of Assent</div>
     <div>53, 1998</div>
   </td>
   <td>
-    <div>29 June 1998</div>
+    <div>29 June 1998</div>
   </td>
   <td>
-    <div>1 July 1998 ( <i>see Gazette</i>1998, No. S316)</div>
+    <div>1 July 1998 ( <i>see Gazette</i>1998, No. S316)</div>
   </td>
   <td>
     <div></div>
@@ -562,7 +570,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Superannuation Legislation Amendment Act (No. 3) 1999</div>
+    <div>Superannuation Legislation Amendment Act (No. 3) 1999</div>
   </td>
   <td>
     <div>121, 1999</div>
@@ -571,15 +579,15 @@ of Assent</div>
     <div>8 Oct 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 3, 4, 42(2)): Royal Assent <i>(a)</i></div>
+    <div>Schedule 2 (items 3, 4, 42(2)): Royal Assent <i>(a)</i></div>
   </td>
   <td>
-    <div>Sch. 2 (item 42(2))</div>
+    <div>Sch. 2 (item 42(2))</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000</div>
+    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000</div>
   </td>
   <td>
     <div>24, 2000</div>
@@ -588,8 +596,8 @@ of Assent</div>
     <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>Schedule 9 (item 1) and Schedule 12 (item 10): Royal Assent <i>(b) 
- </i>Schedule 12 (items 1–3): 3 Apr 2000 <i>(b)</i></div>
+    <div>Schedule 9 (item 1) and Schedule 12 (item 10): Royal Assent <i>(b) 
+ </i>Schedule 12 (items 1–3): 3 Apr 2000 <i>(b)</i></div>
   </td>
   <td>
     <div>Sch. 12 (items 
@@ -608,44 +616,10 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1–3: Royal Assent 
-Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</div>
+Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</div>
   </td>
   <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
-  </td>
-  <td>
-    <div>154, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 2): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 2 (item 153)</div>
   </td>
 </tr>
 <tr>
@@ -656,13 +630,13 @@ Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</
     <div>37, 2002</div>
   </td>
   <td>
-    <div>26 June 2002</div>
+    <div>26 June 2002</div>
   </td>
   <td>
-    <div>Schedule 2: 27 June 2002 <i>(c)</i></div>
+    <div>Schedule 2: 27 June 2002 <i>(c)</i></div>
   </td>
   <td>
-    <div>Sch. 2 (item 4)</div>
+    <div>Sch. 2 (item 4)</div>
   </td>
 </tr>
 <tr>
@@ -676,7 +650,7 @@ Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 137, 138): Royal Assent</div>
+    <div>Schedule 1 (items 137, 138): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -696,7 +670,7 @@ Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>Sch. 1 (item 2)</div>
+    <div>Sch. 1 (item 2)</div>
   </td>
 </tr>
 <tr>
@@ -707,55 +681,38 @@ Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</
     <div>74, 2007</div>
   </td>
   <td>
-    <div>5 June 2007</div>
+    <div>5 June 2007</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: 1 July 2007 
+    <div>Schedules 1 and 2: 1 July 2007 
 Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
-  </td>
-  <td>
-    <div>154, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1, 2, 21) and Schedule 3 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 21)</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 2 (items 3 and 4) only of the _Superannuation Legislation Amendment Act (No. 3) 1999,_ subsection 2(1) of which provides as follows _:_
+_(a)_     The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 2 (items 3 and 4) only of the _Superannuation Legislation Amendment Act (No. 3) 1999,_ subsection 2(1) of which provides as follows _:_
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 9 (item 1) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000_, subsections 2(1), (12) and (13) of which provide as follows:
+_(b)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 9 (item 1) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000_, subsections 2(1), (12) and (13) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-               (12)   Part 1 of Schedule 12 commences:
+               (12)   Part 1 of Schedule 12 commences:
 
-                              (a)   after all of the Acts listed in subsection (13) have received the Royal Assent; and
+                              (a)   after all of the Acts listed in subsection (13) have received the Royal Assent; and
 
                               (b)   on the day that is the last day on which any of those Acts received the Royal Assent.
 
-               (13)   These are the relevant Acts for the purposes of paragraph (12)(a):
+               (13)   These are the relevant Acts for the purposes of paragraph (12)(a):
 
                               (a)   this Act;
 
-                              (b)   each of the Acts referred to in the definition of **_Validation Act_** in item 1 of Schedule 12 to this Act.
+                              (b)   each of the Acts referred to in the definition of **_Validation Act_** in item 1 of Schedule 12 to this Act.
 
-_(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 2 only of the _Financial Sector Legislation Amendment Act (No. 1) 2002_, subsection 2(1) (item 2) of which provides as follows:
+_(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 2 only of the _Financial Sector Legislation Amendment Act (No. 1) 2002_, subsection 2(1) (item 2) of which provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -836,7 +793,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
   </td>
   <td>
     <div>
-      27 June 2002
+      27 June 2002
     </div>
   </td>
 </tr></table>
@@ -866,7 +823,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
 </thead>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
     <div></div>
@@ -877,7 +834,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 121, 1999; No. 14, 2005</div>
+    <div>am. No. 121, 1999; No. 14, 2005</div>
   </td>
 </tr>
 <tr>
@@ -885,7 +842,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 37, 2002; No. 154, 2007</div>
+    <div>am. No. 37, 2002</div>
   </td>
 </tr>
 <tr>
@@ -893,7 +850,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>S. 10</div>
   </td>
   <td>
-    <div>rs. No. 37, 2002</div>
+    <div>rs. No. 37, 2002</div>
   </td>
 </tr>
 <tr>
@@ -901,7 +858,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 74, 2007</div>
+    <div>am. No. 8, 2005; No. 74, 2007</div>
   </td>
 </tr>
 <tr>
@@ -909,7 +866,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>Note to s. 11</div>
   </td>
   <td>
-    <div>ad. No. 121, 1999</div>
+    <div>ad. No. 121, 1999</div>
   </td>
 </tr>
 <tr>
@@ -917,12 +874,12 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 37, 2002; No. 74, 2007</div>
+    <div>am. No. 37, 2002; No. 74, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
@@ -933,7 +890,7 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 24, 2000; No. 154, 2007</div>
+    <div>am. No. 24, 2000</div>
   </td>
 </tr>
 <tr>
@@ -941,27 +898,39 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
     <div>S. 24</div>
   </td>
   <td>
-    <div>rs. No. 8, 2005; No. 154, 2007</div>
+    <div>rs. No. 8, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+Section 9(2)(a)—Schedule 2 (item 152) of the _Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001_ (No. 121, 2001) provides as follows:
+
+## Schedule 2
+
+## 152  Paragraph 9(2)(a)
+
+Omit “lodgement of a return under section 36 of the _Superannuation Industry (Supervision) Act 1993_”, substitute “giving of a copy of a financial statement to APRA under the _Financial Sector (Collection of Data) Act 2001_”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provision
 
-_Superannuation Legislation Amendment Act (No. 3) 1999 (No. 121, 1999)_
+_Superannuation Legislation Amendment Act (No. 3) 1999 (No. 121, 1999)_
 
-## Schedule 2
+## Schedule 2
 
 ## 42  Application provisions
 
-(2)        The amendments of the _Financial Institutions Supervisory Levies Collection Act 1998_ made by this Schedule apply to an entity in respect of the financial year beginning on 1 July 2000 and subsequent financial years.
+(2)        The amendments of the _Financial Institutions Supervisory Levies Collection Act 1998_ made by this Schedule apply to an entity in respect of the financial year beginning on 1 July 2000 and subsequent financial years.
 
 * * *
 
-_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)_
+_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)_
 
-## Schedule 12
+## Schedule 12
 
 ## 1  Definitions
 
@@ -999,15 +968,15 @@ In this Part:
 
 ## 2  Deferral of date for paying levy
 
-(1)        This item applies to a levy paying entity if, because of section 4 of a Validation Act:
+(1)        This item applies to a levy paying entity if, because of section 4 of a Validation Act:
 
                      (a)  the entity is liable to pay levy imposed by an Imposition Act; and
 
-                     (b)  the levy payable by the entity would, apart from this item, have been due and payable under section 9 of the Collection Act before the deferred payment day.
+                     (b)  the levy payable by the entity would, apart from this item, have been due and payable under section 9 of the Collection Act before the deferred payment day.
 
-(2)        The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
+(2)        The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
 
-_Note:       This provision affects the calculation of late payment penalty (if any) under section 10 of the Collection Act._
+_Note:       This provision affects the calculation of late payment penalty (if any) under section 10 of the Collection Act._
 
 ## 3  No retrospective criminal liability
 
@@ -1015,13 +984,23 @@ Nothing in this Part or the Validation Acts is taken to make a person criminally
 
 ## 10  Application of amendments of superannuation legislation relating to financial assistance to funds
 
-The amendments made by Schedule 9 only apply in relation to losses incurred by a fund after the commencement of that Schedule.
+The amendments made by Schedule 9 only apply in relation to losses incurred by a fund after the commencement of that Schedule.
 
 * * *
 
-_Financial Sector Legislation Amendment Act (No. 1) 2002 (No. 37, 2002)_
+_Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001 (No. 121, 2001)_
 
-## Schedule 2
+## Schedule 2
+
+## 153  Transitional
+
+The amendment made by item 152 applies to the payment of levy (within the meaning of the _Financial Institutions Supervisory Levies Collection Act 1998_) for the financial year beginning on 1 July 2002 and for all subsequent financial years.
+
+* * *
+
+_Financial Sector Legislation Amendment Act (No. 1) 2002 (No. 37, 2002)_
+
+## Schedule 2
 
 ## 4  Application
 
@@ -1030,9 +1009,9 @@ The amendment made by item 3 applies only to levy that becomes due and payable
 * * *
 
 _Financial Institutions Supervisory Levies Collection Amendment Act 2005 
- (No. 14, 2005)_
+ (No. 14, 2005)_
 
-## Schedule 1
+## Schedule 1
 
 ## 2  Application
 
@@ -1041,17 +1020,5 @@ The amendment made by this Schedule applies in relation to levy payable for:
                      (a)  the financial year commencing on 1 July 2005; and
 
                      (b)  each succeeding financial year.
-
-* * *
-
-_Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007 (No. 154, 2007)_
-
-## Schedule 2
-
-## 21  Application of amendments made by this Schedule
-
-(1)        The amendments made by this Schedule apply in relation to applications for financial assistance made on or after the commencement of this Schedule (whether or not the eligible loss to which the application relates is suffered before or after the commencement of this Schedule).
-
-(2)        However, if an application for financial assistance in relation to an eligible loss was made before the commencement of this Schedule, the amendments made by this Schedule do not apply in relation to any further application in respect of that loss.
 
  
