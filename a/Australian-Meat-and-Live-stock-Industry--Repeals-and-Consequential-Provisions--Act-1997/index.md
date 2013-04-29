@@ -1,124 +1,108 @@
-![](http://www.comlaw.gov.au/Details/C2006C00133/Html/F7FAE42A2D641ECACA25714E001ACCF1/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="7CDE0FF01941E621CA256FC1001CA92F/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997
 
-**Act No. 207 of 1997 as amended**
+**Act No. 207 of 1997 as amended<o:p></o:p>**
 
-This compilation was prepared on 4 April 2006
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="2" month="3">2 March 2005</st1:date><o:p></o:p>
 
-**\[This Act was amended by Acts No. 146 of 1999; 8 of 2005;No. 9 of 2006]**
+**\[This Act was amended by Acts No. 146 of 1999 and 8 of 2005]<o:p></o:p>** 
 
-**Amendments from Act No. 146 of 1999**
+**Amendments from Act No. 146 of 1999<o:p></o:p>**
 
-\[Schedule 1 (item 208) amended item 10 of Schedule 5
+\[Schedule 1 (item 208) amended Schedule 5 (item 10)
+Schedule 1 (item 209) amended Schedule 5 (item 23)
+Schedule 1 (items 208 and 209) commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 December 1999</st1:date>]<o:p></o:p>
 
-Schedule 1 (item 209) amended item 23 of Schedule 5
+**Amendments from Act No. 8 of 2005<o:p></o:p>**
 
-Schedule 1 (items 208 and 209) commenced on 5 December 1999]
-
-**Amendments from Act No. 8 of 2005**
-
-\[Schedule 1 (item 91) repealed subitem 11(2) of Schedule 5
-
-Schedule 1 (item 92) repealed subitem 12(4) of Schedule 5
-
-Schedule 1 (item 93) repealed subitem 13(3) of Schedule 5
-
-Schedule 1 (item 94) repealed item 29 of Schedule 5
-
-Schedule 1 (items 91–94) commenced on 22 February 2005]
-
-**Amendment from Act No. 9 of 2006**
-
-\[Schedule 2 (item 7) repealed item 6 of Schedule 3
-
-Schedule 2 (item 7) commenced immediately after 1 July 1998]
-
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-Canberra
+\[Schedule 1 (item 91) repealed Subitem 11(2) of Schedule 5
+Schedule 1 (item 92) repealed Subitem 12(4) of Schedule 5
+Schedule 1 (item 93) repealed Subitem 13(3) of Schedule 5
+Schedule 1 (item 94) repealed Item 29 of Schedule 5
+Schedule 1 (items 91–94) commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 February 2005</st1:date>]
 
 
 # Contents
 
-[1](#1).            Short title
+[1](#1).            Short title<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[2](#2).            Commencement
+[2](#2).            Commencement<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[3](#3).            Effect of certain amendments
+[3](#3).            Effect of certain amendments<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[4](#4).            Schedule(s)
+[4](#4).            Schedule(s)<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-**Schedule 1—Amendment of the Australian Meat and Live-stock (Quotas) Act 1990** 
+**Schedule 1—Amendment of the Australian Meat and Live-stock (Quotas) Act 1990<span style="mso-tab-count: 1">                   </span>** 
 
-**Schedule 2—Amendment of the Meat and Live-stock Industry Act 1995** 
+**Schedule 2—Amendment of the Meat and Live-stock Industry Act 1995<span style="mso-tab-count: 1">                  </span>** 
 
-**Schedule 3—Consequential amendments of other Acts** 
+**Schedule 3—Consequential amendments of other Acts<span style="mso-tab-count: 1">                                   </span>**
 
-Australian Animal Health Council (Live-stock Industries) Funding Act 1996   7
+Australian Animal Health Council (Live-stock Industries) Funding Act 1996<span style="mso-tab-count: 1">                    </span>7<o:p></o:p>
 
-National Cattle Disease Eradication Trust Account Act 1991                          7
+National Cattle Disease Eradication Trust Account Act 1991<span style="mso-tab-count: 1">                          </span>7<o:p></o:p>
 
-National Residue Survey (Livestock Slaughter) Levy Act 1992                        8
+National Residue Survey (Livestock Slaughter) Levy Act 1992<span style="mso-tab-count: 1">                        </span>8<o:p></o:p>
 
-Primary Industries Levies and Charges Collection Act 1991                             8
+Primary Industries Levies and Charges Collection Act 1991<span style="mso-tab-count: 1">                             </span>9<o:p></o:p>
 
-**Schedule 4—Repeal of Acts** 
+**Schedule 4—Repeal of Acts<span style="mso-tab-count: 1">                                                                                           </span>**
 
-Cattle Export Charges Act 1990                                                                            12
+Cattle Export Charges Act 1990<span style="mso-tab-count: 1">                                                                            </span>12<o:p></o:p>
 
-Cattle Transaction Levy Act 1995                                                                          12
+Cattle Transaction Levy Act 1995<span style="mso-tab-count: 1">                                                                          </span>12<o:p></o:p>
 
-Live-stock Export Charge Act 1977                                                                       12
+Live-stock Export Charge Act 1977<span style="mso-tab-count: 1">                                                                       </span>12<o:p></o:p>
 
-Live-stock Slaughter Levy Act 1964                                                                      12
+Live-stock Slaughter Levy Act 1964<span style="mso-tab-count: 1">                                                                      </span>12<o:p></o:p>
 
-Meat and Live-stock Industry Act 1995                                                                12
+Meat and Live-stock Industry Act 1995<span style="mso-tab-count: 1">                                                                </span>12<o:p></o:p>
 
-Meat and Live-stock Industry Legislation Repeal Act 1995                             12
+Meat and Live-stock Industry Legislation Repeal Act 1995<span style="mso-tab-count: 1">                             </span>12<o:p></o:p>
 
-National Residue Survey (Cattle Export) Levy Act 1995                                  12
+National Residue Survey (Cattle Export) Levy Act 1995<span style="mso-tab-count: 1">                                  </span>12<o:p></o:p>
 
-National Residue Survey (Cattle Transactions) Levy Act 1995                       12
+National Residue Survey (Cattle Transactions) Levy Act 1995<span style="mso-tab-count: 1">                       </span>12<o:p></o:p>
 
-**Schedule 5—Transitional, saving and consequential provisions** 
+**Schedule 5—Transitional, saving and consequential provisions<span style="mso-tab-count: 1">                </span>**
 
-Part 1—Functions of statutory authorities                                                              13
+Part 1—Functions of statutory authorities<span style="mso-tab-count: 1">                                                              </span>13<o:p></o:p>
 
-Part 2—Transitional and saving provisions relating to the control of meat and live-stock exports        15
+Part 2—Transitional and saving provisions relating to the control of meat and live-stock exports<span style="mso-tab-count: 1">   </span>15<o:p></o:p>
 
-Part 3—Transfer of assets and liabilities, and other consequential and transitional provisions                17
+Part 3—Transfer of assets and liabilities, and other consequential and transitional provisions<span style="mso-tab-count: 1">           </span>17<o:p></o:p>
 
-Part 4—Staff of statutory authorities                                                                        25
+Part 4—Staff of statutory authorities<span style="mso-tab-count: 1">                                                                        </span>25<o:p></o:p>
 
-Division 1—Preliminary                                                                                             25
+Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                             </span>25<o:p></o:p>
 
-Division 2—Application of the SRC Act                                                                26
+Division 2—Application of the SRC Act<span style="mso-tab-count: 1">                                                                </span>26<o:p></o:p>
 
-Division 3—Deferred DFRDB Act benefits                                                           27
+Division 3—Deferred DFRDB Act benefits<span style="mso-tab-count: 1">                                                           </span>27<o:p></o:p>
 
-Division 4—Provisions relating to continuity of service and certain leave entitlements     28
+Division 4—Provisions relating to continuity of service and certain leave entitlements<span style="mso-tab-count: 1">       </span>28<o:p></o:p>
 
-Division 5—Maternity leave provisions                                                                28
+Division 5—Maternity leave provisions<span style="mso-tab-count: 1">                                                                </span>28<o:p></o:p>
 
-Division 6—Provisions relating to superannuation                                             29
+Division 6—Provisions relating to superannuation<span style="mso-tab-count: 1">                                             </span>29<o:p></o:p>
 
-Division 7—Provisions relating to long service leave                                         30
+Division 7—Provisions relating to long service leave<span style="mso-tab-count: 1">                                         </span>30<o:p></o:p>
 
-Division 8—Miscellaneous transitional provisions relating to staff                 35
+Division 8—Miscellaneous transitional provisions relating to staff<span style="mso-tab-count: 1">                 </span>35<o:p></o:p>
 
-Part 5—Final annual reports                                                                                       36
+Part 5—Final annual reports<span style="mso-tab-count: 1">                                                                                       </span>36<o:p></o:p>
 
-Part 6—Regulations                                                                                                        38
+Part 6—Regulations<span style="mso-tab-count: 1">                                                                                                        </span>38<o:p></o:p>
 
- 
+<o:p> </o:p>
 
 
 ## An Act to repeal and amend certain Acts in connection with the enactment of the _Australian Meat and Live-stock Industry Act 1997_, and for related purposes
 
-[_Assented to__17 December 1997_]
+[_Assented to_<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="17" month="12">_17 December 1997_</st1:date>]
 
-The Parliament of Australia enacts:
+The Parliament of Australia enacts:<o:p></o:p>
 
 ##### <a id="1"></a>1  Short title
 
@@ -149,7 +133,7 @@ Note:          The amendments of the _Meat and Live-stock Indu
                    Subject to sections 2 and 3, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
 
- 
+<o:p> </o:p>
 
 ###### Schedule 1—Amendment of the Australian Meat and Live-stock (Quotas) Act 1990
 
@@ -220,6 +204,8 @@ Repeal the section, substitute:
                      (a)  that are required or permitted by this Act to be prescribed; or
 
                      (b)  that are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+<o:p> </o:p>
 
 ###### Schedule 2—Amendment of the Meat and Live-stock Industry Act 1995
 
@@ -301,11 +287,13 @@ Repeal the paragraph.
 
 ## 20  Section 227
 
-Omit “30 June 1998”, substitute “31 December 1998”.
+Omit “<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="30" month="6">30 June 1998</st1:date>”, substitute “<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="31" month="12">31 December 1998</st1:date>”.
+
+<o:p> </o:p>
 
 ###### Schedule 3—Consequential amendments of other Acts
 
-<h9 class="ActHead9">Australian Animal Health Council (Live-stock Industries) Funding Act 1996</h9>
+Australian Animal Health Council (Live-stock Industries) Funding Act 1996
 
 ## 1  Section 3 (definition of _Australian Animal Health Council levy_)
 
@@ -329,19 +317,19 @@ Repeal the definition, substitute:
 
                      (h)  paragraph 6(1)(c) of the _Pig Slaughter Levy Act 1971_.
 
-<h9 class="ActHead9">National Cattle Disease Eradication Trust Account Act 1991</h9>
+National Cattle Disease Eradication Trust Account Act 1991
 
 ## 2  After paragraph 5(1)(aa)
 
 Insert:
 
-                    (ab)  amounts equal to the amounts of levy received by the Commonwealth because of paragraph 5(b) of the _Buffalo__Slaughter Levy Act 1997_; and
+                    (ab)  amounts equal to the amounts of levy received by the Commonwealth because of paragraph 5(b) of the <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Buffalo_</st1:place></st1:city>_Slaughter Levy Act 1997_; and
 
 ## 3  After paragraph 5(1)(ba)
 
 Insert:
 
-                  (baa)  amounts equal to the amounts of charge received by the Commonwealth because of paragraph 6(b) of the _Buffalo__Export Charge Act 1997_; and
+                  (baa)  amounts equal to the amounts of charge received by the Commonwealth because of paragraph 6(b) of the <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Buffalo_</st1:place></st1:city>_Export Charge Act 1997_; and
 
 ## 4  After paragraph 5(1)(bc)
 
@@ -355,7 +343,11 @@ Insert:
 
                     (be)  amounts equal to the amounts of charge received by the Commonwealth because of paragraphs 5(1)(c) and 5(2)(c) of the _Cattle (Producers) Export Charges Act 1997_; and
 
-<h9 class="ActHead9">National Residue Survey (Livestock Slaughter) Levy Act 1992</h9>
+## 6  Subsection 5(2)
+
+Omit “paragraphs (1)(a), (aa), (b), (ba), (bb), (bc) and (bd)”, substitute “paragraphs (1)(a), (aa), (ab), (b), (ba), (baa), (bb), (bc), (bca), (bd) and (be)”.
+
+National Residue Survey (Livestock Slaughter) Levy Act 1992
 
 ## 7  Section 3 (definition of _livestock_)
 
@@ -365,7 +357,7 @@ Omit “sheep, lambs, goats,”.
 
 Omit “, buffaloes”.
 
-<h9 class="ActHead9">Primary Industries Levies and Charges Collection Act 1991</h9>
+Primary Industries Levies and Charges Collection Act 1991
 
 ## 9  Subsection 4(1) (paragraph (f) of the definition of _producer_)
 
@@ -379,7 +371,7 @@ Insert:
 
                     (fb)  in the case of cattle within the meaning of the _Cattle (Producers) Export Charges Act 1997_ (in so far as collection of charges imposed under that Act is concerned)—the person who owned the cattle immediately before the export in respect of which the charge is imposed;
 
-                    (fc)  in the case of buffaloes (in so far as collection of charge imposed under the _Buffalo__Export Charge Act 1997_ is concerned)—the person who owned the buffaloes immediately before the export in respect of which the charge is imposed;
+                    (fc)  in the case of buffaloes (in so far as collection of charge imposed under the <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Buffalo_</st1:place></st1:city>_Export Charge Act 1997_ is concerned)—the person who owned the buffaloes immediately before the export in respect of which the charge is imposed;
 
 ## 11  Subsection 4(1) (paragraph (g) of the definition of _producer_)
 
@@ -401,7 +393,7 @@ Add:
 
                      (e)  a person who, under section 9 of the _Live-stock Transactions Levy Act 1997_, is liable to pay levy in relation to live-stock is taken to be the producer of the live-stock; and
 
-                      (f)  a person who, under section 6 of the _Buffalo__Slaughter Levy Act 1997_, is liable to pay levy in relation to buffaloes is taken to be the producer of the buffaloes.
+                      (f)  a person who, under section 6 of the <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Buffalo_</st1:place></st1:city>_Slaughter Levy Act 1997_, is liable to pay levy in relation to buffaloes is taken to be the producer of the buffaloes.
 
 ## 15  Subsection 7(2A)
 
@@ -431,12 +423,12 @@ Omit:
 <tbody>
   <tr>
     <td>
-      <div><i> Cattle Export Charge Act 1990 </i></div>
+      <div><i style="mso-bidi-font-style: normal"> Cattle Export Charge Act 1990 <o:p></o:p>  </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Live-stock Export Charge Act 1977</i></div>
+      <div><i style="mso-bidi-font-style: normal">Live-stock Export Charge Act 1977 <o:p></o:p> </i></div>
     </td>
   </tr>
 </tbody></table>
@@ -453,27 +445,27 @@ Insert in their appropriate alphabetical positions, determined on a letter-by-le
 <tbody>
   <tr>
     <td>
-      <div><i>Buffalo</i> <i>Export Charge Act 1997</i></div>
+      <div><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <i style="mso-bidi-font-style: normal">Buffalo</i> </st1:place> </st1:city> <i style="mso-bidi-font-style: normal">Export Charge Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Cattle (Exporters) Export Charge Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">Cattle (Exporters) Export Charge Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Cattle (Producers) Export Charges Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">Cattle (Producers) Export Charges Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Live-stock (Exporters) Export Charge Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">Live-stock (Exporters) Export Charge Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Live-stock (Producers) Export Charges Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">Live-stock (Producers) Export Charges Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
 </tbody></table>
@@ -490,12 +482,12 @@ Omit:
 <tbody>
   <tr>
     <td>
-      <div><i>Cattle Transaction Levy Act 1995</i></div>
+      <div><i style="mso-bidi-font-style: normal">Cattle Transaction Levy Act 1995 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Live-stock Slaughter Levy Act 1964</i></div>
+      <div><i style="mso-bidi-font-style: normal">Live-stock Slaughter Levy Act 1964</i></div>
     </td>
   </tr>
 </tbody></table>
@@ -512,50 +504,52 @@ Insert in their appropriate alphabetical positions, determined on a letter-by-le
 <tbody>
   <tr>
     <td>
-      <div><i>Buffalo</i> <i>Slaughter Levy Act 1997</i></div>
+      <div><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <i style="mso-bidi-font-style: normal">Buffalo</i> </st1:place> </st1:city> <i style="mso-bidi-font-style: normal">Slaughter Levy Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Cattle Transactions Levy Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">Cattle Transactions Levy Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Live-stock Slaughter (Processors) Levy Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">Live-stock Slaughter (Processors) Levy Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>Live-stock Transactions Levy Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">Live-stock Transactions Levy Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>National Residue Survey (</i> <i>Buffalo</i> <i>Slaughter) Levy Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">National Residue Survey (</i> <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <i style="mso-bidi-font-style: normal">Buffalo</i> </st1:place> </st1:city> <i style="mso-bidi-font-style: normal">Slaughter) Levy Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>National Residue Survey (Cattle Export) Levy Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">National Residue Survey (Cattle Export) Levy Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>National Residue Survey (Cattle Transactions) Levy Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">National Residue Survey (Cattle Transactions) Levy Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>National Residue Survey (Sheep, Lambs and Goats Export) Levy Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">National Residue Survey (Sheep, Lambs and Goats Export) Levy Act 1997 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><i>National Residue Survey (Sheep, Lambs and Goats Transactions) Levy Act 1997</i></div>
+      <div><i style="mso-bidi-font-style: normal">National Residue Survey (Sheep, Lambs and Goats Transactions) Levy Act 1997</i></div>
     </td>
   </tr>
 </tbody></table>
+
+<o:p> </o:p>
 
 ###### Schedule 4—Repeal of Acts
 
@@ -563,25 +557,27 @@ Insert in their appropriate alphabetical positions, determined on a letter-by-le
 
 The Acts specified in this Schedule are repealed.
 
-<h9 class="ActHead9">Cattle Export Charges Act 1990</h9>
+Cattle Export Charges Act 1990
 
-<h9 class="ActHead9">Cattle Transaction Levy Act 1995</h9>
+Cattle Transaction Levy Act 1995
 
-<h9 class="ActHead9">Live-stock Export Charge Act 1977</h9>
+Live-stock Export Charge Act 1977
 
-<h9 class="ActHead9">Live-stock Slaughter Levy Act 1964</h9>
+Live-stock Slaughter Levy Act 1964
 
-<h9 class="ActHead9">Meat and Live-stock Industry Act 1995</h9>
+Meat and Live-stock Industry Act 1995
 
-<h9 class="ActHead9">Meat and Live-stock Industry Legislation Repeal Act 1995</h9>
+Meat and Live-stock Industry Legislation Repeal Act 1995
 
-<h9 class="ActHead9">National Residue Survey (Cattle Export) Levy Act 1995</h9>
+National Residue Survey (Cattle Export) Levy Act 1995
 
-<h9 class="ActHead9">National Residue Survey (Cattle Transactions) Levy Act 1995</h9>
+National Residue Survey (Cattle Transactions) Levy Act 1995
+
+<o:p> </o:p>
 
 ###### Schedule 5—Transitional, saving and consequential provisions
 
-<h7 class="ActHead7">Part 1—Functions of statutory authorities</h7>
+Part 1—Functions of statutory authorities
 
 ## 1  Definitions
 
@@ -617,7 +613,9 @@ In this Part:
 
 This Part is repealed when the Meat Industry Act is repealed.
 
-<h7 class="ActHead7">Part 2—Transitional and saving provisions relating to the control of meat and live-stock exports</h7>
+<o:p> </o:p>
+
+Part 2—Transitional and saving provisions relating to the control of meat and live-stock exports
 
 ## 4  Definitions
 
@@ -657,7 +655,9 @@ An appointment of a person as the nominee of the holder of an export licence mad
 
 An appointment of a person as an analyst made under the old Act, and in force immediately before the commencement time, continues to have effect after that time as if it had been made under the new Act.
 
-<h7 class="ActHead7">Part 3—Transfer of assets and liabilities, and other consequential and transitional provisions</h7>
+<o:p> </o:p>
+
+Part 3—Transfer of assets and liabilities, and other consequential and transitional provisions
 
 ## 10  Definitions
 
@@ -711,7 +711,7 @@ In this Part:
 
 (2)        Chapter 2 of the _Criminal Code_ applies to offences against this item.
 
-## 15  Exemption from certain State and Territory stamp duties
+## 15<span style="mso-spacerun: yes">  </span>Exemption from certain State and Territory stamp duties
 
 (1)        No stamp duty is payable under a law of a State or Territory in respect of an exempt matter, or anything connected with an exempt matter.
 
@@ -893,9 +893,11 @@ an amount equal to the amount that would have been payable to the corporation, o
 
                     <a name="just-term"></a><a name="acquisit-properti"></a>**_acquisition of property_** and **_just terms_** have the same respective meanings as in paragraph 51(xxxi) of the Constitution.
 
-<h7 class="ActHead7">Part 4—Staff of statutory authorities</h7>
+<o:p> </o:p>
 
-<h8 class="ActHead8">Division 1—Preliminary</h8>
+Part 4—Staff of statutory authorities
+
+Division 1—Preliminary
 
 ## 23  Definitions
 
@@ -941,7 +943,7 @@ For the purposes of this Part, the question whether a body corporate is a subsid
 
 For the purposes of this Part, the question whether the terms and conditions of employment of, or offered to, a person are, or would be, when taken as a whole, at least equivalent to other terms and conditions of employment, taken as a whole, that applied to the person at a particular time is to be determined in writing by an authorised officer.
 
-<h8 class="ActHead8">Division 2—Application of the SRC Act</h8>
+Division 2—Application of the SRC Act
 
 ## 26  Continued application of SRC Act
 
@@ -969,7 +971,7 @@ After the commencement time, the Commonwealth:
 
 (4)        Expressions used in this item have the same meanings as they have in the SRC Act.
 
-<h8 class="ActHead8">Division 3—Deferred DFRDB Act benefits</h8>
+Division 3—Deferred DFRDB Act benefits
 
 ## 30  Saving: deferred benefits under the DFRDB Act
 
@@ -983,7 +985,7 @@ After the commencement time, the Commonwealth:
 
 (3)        This item is subject to Division 3 of Part IX of the DFRDB Act.
 
-<h8 class="ActHead8">Division 4—Provisions relating to continuity of service and certain leave entitlements</h8>
+Division 4—Provisions relating to continuity of service and certain leave entitlements
 
 ## 31  Transferring staff members: leave entitlements and continuity of service
 
@@ -999,7 +1001,7 @@ After the commencement time, the Commonwealth:
 
 in connection with his or her employment by the prescribed industry body, that is equivalent to the entitlement that the staff member had as an officer or employee of the statutory authority immediately before the commencement time.
 
-<h8 class="ActHead8">Division 5—Maternity leave provisions</h8>
+Division 5—Maternity leave provisions
 
 ## 32  Maternity leave starting before commencement time
 
@@ -1025,7 +1027,7 @@ in connection with his or her employment by the prescribed industry body, that i
 
 (2)        After the commencement time, the Maternity Leave Act continues to apply to the person in relation to the confinement in respect of which she would have been entitled to leave as if the relevant prescribed industry body were a prescribed authority for the purposes of that Act.
 
-<h8 class="ActHead8">Division 6—Provisions relating to superannuation</h8>
+Division 6—Provisions relating to superannuation
 
 ## 34  Application of the _Superannuation Act 1922_
 
@@ -1043,7 +1045,7 @@ A prescribed industry body is not an approved authority for the purposes of the 
 
                     <a name="minist"></a>**_Minister_** has the same meaning as in the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
 
-<h8 class="ActHead8">Division 7—Provisions relating to long service leave</h8>
+Division 7—Provisions relating to long service leave
 
 ## 37  Definitions
 
@@ -1183,7 +1185,7 @@ if the employee had been retrenched on that day.
 
 This Division does not affect an employee’s post-commencement long service leave rights.
 
-<h8 class="ActHead8">Division 8—Miscellaneous transitional provisions relating to staff</h8>
+Division 8—Miscellaneous transitional provisions relating to staff
 
 ## 44  Staff members who accept employment with equivalent terms and conditions
 
@@ -1201,7 +1203,9 @@ This Division does not affect an employee’s post-commencement long service lea
 
 (2)        If Division 4 of Part IV of the _Public Service Act 1922_ applied immediately before the commencement time to a person who becomes a transferring staff member that Division, and the _Officers’ Rights Declaration Act 1928_, stop applying to the person at the commencement time, and the person stops being an officer of the Australian Public Service at that time.
 
-<h7 class="ActHead7">Part 5—Final annual reports</h7>
+<o:p> </o:p>
+
+Part 5—Final annual reports
 
 ## 46  Definitions
 
@@ -1251,7 +1255,9 @@ In this Part:
 
 Any expenses or liabilities incurred by a statutory authority in connection with the preparation of a report under this Part, together with any remuneration or allowances payable to members of the authority, are to be paid or discharged by the Commonwealth out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-<h7 class="ActHead7">Part 6—Regulations</h7>
+<o:p> </o:p>
+
+Part 6—Regulations
 
 ## 51  Regulations
 
@@ -1265,9 +1271,9 @@ Any expenses or liabilities incurred by a statutory authority in connection with
 
                      (a)  the _Australian Meat and Live-stock Industry Act 1997_; 
 
-                     (b)  the _Buffalo__Export Charge Act 1997_;
+                     (b)  the <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Buffalo_</st1:place></st1:city>_Export Charge Act 1997_;
 
-                     (c)  the _Buffalo__Slaughter Levy Act 1997_; 
+                     (c)  the <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Buffalo_</st1:place></st1:city>_Slaughter Levy Act 1997_; 
 
                      (d)  the _Cattle (Exporters) Export Charge Act 1997_; 
 
@@ -1283,7 +1289,7 @@ Any expenses or liabilities incurred by a statutory authority in connection with
 
                       (j)  the _Live-stock Transactions Levy Act 1997_;
 
-                     (k)  the _National Residue Survey (__Buffalo__Slaughter) Levy Act 1997_;
+                     (k)  the _National Residue Survey (_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Buffalo_</st1:place></st1:city>_Slaughter) Levy Act 1997_;
 
                       (l)  the _National Residue Survey (Cattle Export) Levy Act 1997_;
 
@@ -1293,9 +1299,13 @@ Any expenses or liabilities incurred by a statutory authority in connection with
 
                      (o)  the _National Residue Survey (Sheep, Lambs and Goats Transactions) Levy Act 1997_.
 
- 
+[_Minister&apos;s second reading speech made in the__¾_
+
+_House of Representatives on_<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="1" month="10">_1 October 1997_</st1:date>
+
+_Senate on_<st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="29" month="10">_29 October 1997_</st1:date>]
+
+<o:p> </o:p>
 
 
- 
-
- 
+<o:p> </o:p>
