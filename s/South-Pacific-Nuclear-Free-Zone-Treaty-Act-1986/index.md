@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00747/Html/ef0da179-7c54-4a4d-8cfb-e59d10d86c88_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00120/Html/SouthPacifNuclFreeZoneTrea1986_image001.gif)
 
 # South Pacific Nuclear Free Zone Treaty Act 1986
 
 **Act No. 140 of 1986 as amended**
 
-This compilation was prepared on 26 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 25 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -79,7 +80,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [24](#24).          Inspectors may require information etc 
 
-[25](#25).          Offence‑related searches and seizures
+[25](#25).          Offence-related searches and seizures
 
 [26](#26).          Warrants may be granted by telephone
 
@@ -133,7 +134,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="australian-aircraft"></a>**_Australian aircraft_** means:
 
-                     (a)  an aircraft registered or required to be registered under regulations made under the _Civil Aviation Act 1988_;
+                     (a)  an aircraft registered or required to be registered in accordance with the Civil Aviation Regulations as an Australian aircraft;
 
                      (b)  an aircraft that is owned by, or is in the possession or control of, the Commonwealth or an authority of the Commonwealth; or
 
@@ -153,11 +154,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="ident-card"></a>**_identity card_** means:
 
-                     (a)  in relation to an inspector—an identity card issued under section 58 of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_; and
+                     (a)  in relation to an inspector—an identity card issued under section 58 of the _Nuclear Non-Proliferation (Safeguards) Act 1987_; and
 
                      (b)  in relation to an authorised officer—an identity card issued under section 20 of this Act.
 
-                    <a name="inspector"></a>**_inspector_** means a person appointed as an inspector under subsection 57(1) of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_.
+                    <a name="inspector"></a>**_inspector_** means a person appointed as an inspector under subsection 57(1) of the _Nuclear Non-Proliferation (Safeguards) Act 1987_.
 
                     <a name="nuclear-explos-devic"></a>**_nuclear explosive device_** has the same meaning as in the Treaty.
 
@@ -201,9 +202,9 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the bo
 
                      (a)  by a servant or agent of the person within the scope of his or her actual or apparent authority; or
 
-                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first‑mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
 
- shall be deemed, for the purposes of this Act, to have been engaged in by the first‑mentioned person.
+ shall be deemed, for the purposes of this Act, to have been engaged in by the first-mentioned person.
 
              (5)  A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person's reasons for the person's intention, opinion, belief or purpose.
 
@@ -215,7 +216,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the bo
 
 ##### <a id="7"></a>7  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="7A"></a>7A  Application of the _Criminal Code_
 
@@ -301,9 +302,9 @@ constitutes an offence against subsection 8(2) or section 10, 11 or 13.
 
              (4)  The reference in subsection (2) to an act done in relation to a nuclear explosive device includes a reference to the possession of, or having control over, a nuclear explosive device.
 
-             (5)  A reference in this section to a visit by a foreign ship to a port in Australia includes a reference to such a visit by a ship for the purposes of dry‑docking.
+             (5)  A reference in this section to a visit by a foreign ship to a port in Australia includes a reference to such a visit by a ship for the purposes of dry-docking.
 
-             (6)  A visit by a foreign ship to Australia for the purposes of dry‑docking otherwise than at a port shall be deemed, for the purposes of this section, to be a visit by that ship to a port in Australia for the purposes of that dry‑docking.
+             (6)  A visit by a foreign ship to Australia for the purposes of dry-docking otherwise than at a port shall be deemed, for the purposes of this section, to be a visit by that ship to a port in Australia for the purposes of that dry-docking.
 
              (7)  A reference in this section to navigation through Australian waters includes a reference to presence in those waters (whether or not in the course of navigation through those waters).
 
@@ -325,11 +326,11 @@ constitutes an offence against subsection 8(2) or section 10, 11 or 13.
 
 ##### <a id="17"></a>17  Safeguards in relation to nuclear material
 
-             (1)  Provision for the imposition and maintenance of safeguards in relation to nuclear material, pursuant to Australia's obligations under Articles 4 and 8 of, and Annex 2 to, the Treaty, is made in the _Nuclear Non‑Proliferation (Safeguards) Act 1986_.
+             (1)  Provision for the imposition and maintenance of safeguards in relation to nuclear material, pursuant to Australia's obligations under Articles 4 and 8 of, and Annex 2 to, the Treaty, is made in the _Nuclear Non-Proliferation (Safeguards) Act 1986_.
 
-             (2)  Subsection (1) does not derogate from the operation of the _Nuclear Non‑Proliferation (Safeguards) Act 1986_.
+             (2)  Subsection (1) does not derogate from the operation of the _Nuclear Non-Proliferation (Safeguards) Act 1986_.
 
-             (3)  In this section, **_nuclear material_** has the same meaning as in the _Nuclear Non‑Proliferation (Safeguards) Act 1986_.
+             (3)  In this section, **_nuclear material_** has the same meaning as in the _Nuclear Non-Proliferation (Safeguards) Act 1986_.
 
 ##### <a id="18"></a>18  Prevention of dumping at sea of radioactive wastes and other radioactive matter
 
@@ -355,7 +356,7 @@ constitutes an offence against subsection 8(2) or section 10, 11 or 13.
 
                      (b)  at any time terminate such an appointment.
 
-##### <a id="20"></a>20  Identity cards
+##### <a id="20"></a>20  Identity cards
 
              (1)  The Minister may issue to an authorised officer an identity card in a form approved by the Minister.
 
@@ -473,7 +474,7 @@ enter the vessel, aircraft or vehicle, and exercise any relevant power for the p
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="25"></a>25  Offence‑related searches and seizures
+##### <a id="25"></a>25  Offence-related searches and seizures
 
              (1)  Where an inspector has reasonable grounds for suspecting that there may be on any land or premises any article or thing that may afford evidence as to the commission of an offence against this Act, the inspector may:
 
@@ -647,7 +648,7 @@ the court may order the forfeiture to the Commonwealth of any article or thing u
 
              (1)  A reference in this section to relevant proceedings is a reference to proceedings for the commitment of a person for trial on indictment for an offence against a provision of Part II.
 
-             (2)  Relevant proceedings shall not be instituted except with the consent in writing of the Attorney‑General or a person authorised by the Attorney‑General, in writing, to give such consents.
+             (2)  Relevant proceedings shall not be instituted except with the consent in writing of the Attorney-General or a person authorised by the Attorney-General, in writing, to give such consents.
 
              (3)  Notwithstanding that a consent has not been given in relation to relevant proceedings in accordance with subsection (2):
 
@@ -669,7 +670,7 @@ but no further step in such proceedings shall be taken in relation to the offenc
 
 ##### <a id="34"></a>34  Hearing in camera etc.
 
-             (1)  At any time before or during the hearing of proceedings before a court in relation to an offence against this Act, the Judge or Magistrate may, if satisfied that such a course is expedient in order to prevent the disclosure of information of a kind referred to in the definition of **_associated technology_** in subsection 4(1) of the _Nuclear Non‑Proliferation (Safeguards) Act 1986_:
+             (1)  At any time before or during the hearing of proceedings before a court in relation to an offence against this Act, the Judge or Magistrate may, if satisfied that such a course is expedient in order to prevent the disclosure of information of a kind referred to in the definition of **_associated technology_** in subsection 4(1) of the _Nuclear Non-Proliferation (Safeguards) Act 1986_:
 
                      (a)  order that some or all of the members of the public shall be excluded during the whole or a part of the proceedings;
 
@@ -683,19 +684,19 @@ but no further step in such proceedings shall be taken in relation to the offenc
 
                      (b)  if the offender is a body corporate—a fine not exceeding $50,000.
 
-             (3)  Upon the termination of proceedings before a court in relation to an offence against this Act, any document containing information of a kind referred to in the definition of **_associated technology_** in subsection 4(1) of the _Nuclear Non‑Proliferation (Safeguards) Act 1986_ that would otherwise form part of the records of the court shall, as soon as practicable after the termination of those proceedings, be delivered into the possession and control of the Minister.
+             (3)  Upon the termination of proceedings before a court in relation to an offence against this Act, any document containing information of a kind referred to in the definition of **_associated technology_** in subsection 4(1) of the _Nuclear Non-Proliferation (Safeguards) Act 1986_ that would otherwise form part of the records of the court shall, as soon as practicable after the termination of those proceedings, be delivered into the possession and control of the Minister.
 
              (4)  A reference in this section to proceedings before a court shall be read as including a reference to committal proceedings in relation to an indictable offence.
 
              (5)  For the purposes of this section, proceedings shall not be taken to have terminated until:
 
-                     (a)  in the case of proceedings other than committal proceedings in relation to an indictable offence ‑ the time for bringing an appeal arising from those proceedings has expired or an appeal arising from those proceedings has been brought and has been determined; or
+                     (a)  in the case of proceedings other than committal proceedings in relation to an indictable offence - the time for bringing an appeal arising from those proceedings has expired or an appeal arising from those proceedings has been brought and has been determined; or
 
-                     (b)  in the case of committal proceedings in relation to an indictable offence ‑ the trial in relation to the offence has been determined and the time for bringing an appeal arising from those proceedings has expired or an appeal arising from those proceedings has been brought and has been determined.
+                     (b)  in the case of committal proceedings in relation to an indictable offence - the trial in relation to the offence has been determined and the time for bringing an appeal arising from those proceedings has expired or an appeal arising from those proceedings has been brought and has been determined.
 
 ##### <a id="35"></a>35  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -717,7 +718,7 @@ The Parties to this Treaty
 
 **<u>Determined</u>** to ensure, so far as lies within their power, that the bounty and beauty of the land and sea in their region shall remain the heritage of their peoples and their descendants in perpetuity to be enjoyed by all in peace;
 
-**<u>Reaffirming</u>** the importance of the Treaty on the Non‑Proliferation of Nuclear Weapons (NPT) in preventing the proliferation of nuclear weapons and in contributing to world security;
+**<u>Reaffirming</u>** the importance of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) in preventing the proliferation of nuclear weapons and in contributing to world security;
 
 **<u>Noting</u>**, in particular, that Article VII of the NPT recognises the right of any group of States to conclude regional treaties in order to assure the total absence of nuclear weapons in their respective territories;
 
@@ -773,13 +774,13 @@ Each Party undertakes:
 
      (a)  not to provide source or special fissionable material, or equipment or material especially designed or prepared for the processing, use or production of special fissionable material for peaceful purposes to:
 
-                (i)  any non‑nuclear‑weapon State unless subject to the safeguards required by Article III.1 of the NPT, or
+                (i)  any non-nuclear-weapon State unless subject to the safeguards required by Article III.1 of the NPT, or
 
-               (ii)  any nuclear‑weapon State unless subject to applicable safeguards agreements with the International Atomic Energy Agency (IAEA).
+               (ii)  any nuclear-weapon State unless subject to applicable safeguards agreements with the International Atomic Energy Agency (IAEA).
 
-            Any such provision shall be in accordance with strict non‑proliferation measures to provide assurance of exclusively peaceful non‑explosive use;
+            Any such provision shall be in accordance with strict non-proliferation measures to provide assurance of exclusively peaceful non-explosive use;
 
-     (b)  to support the continued effectiveness of the international non‑proliferation system based on the NPT and the IAEA safeguards system.
+     (b)  to support the continued effectiveness of the international non-proliferation system based on the NPT and the IAEA safeguards system.
 
 **ARTICLE 5**
 
@@ -835,7 +836,7 @@ Each Party undertakes:
 
 <u>REPORTS AND EXCHANGES OF INFORMATION</u>
 
-       1.  Each Party shall report to the Director of the South Pacific Bureau for Economic Co‑operation (the Director) as soon as possible any significant event within its jurisdiction affecting the implementation of this Treaty. The Director shall circulate such reports promptly to all Parties.
+       1.  Each Party shall report to the Director of the South Pacific Bureau for Economic Co-operation (the Director) as soon as possible any significant event within its jurisdiction affecting the implementation of this Treaty. The Director shall circulate such reports promptly to all Parties.
 
        2.  The Parties shall endeavour to keep each other informed on matters arising under or in relation to this Treaty. They may exchange information by communicating it to the Director, who shall circulate it to all Parties.
 
@@ -845,7 +846,7 @@ Each Party undertakes:
 
 <u>CONSULTATIONS AND REVIEW</u>
 
-Without prejudice to the conduct of consultations among Parties by other means, the Director, at the request of any Party, shall convene a meeting of the Consultative Committee established by Annex 3 for consultation and co‑operation on any matter arising in relation to this Treaty or for reviewing its operation.
+Without prejudice to the conduct of consultations among Parties by other means, the Director, at the request of any Party, shall convene a meeting of the Consultative Committee established by Annex 3 for consultation and co-operation on any matter arising in relation to this Treaty or for reviewing its operation.
 
 **ARTICLE 11**
 
@@ -891,7 +892,7 @@ This Treaty shall not be subject to reservations.
 
 The depositary shall register this Treaty and its Protocols pursuant to Article 102 of the Charter of the United Nations and shall transmit certified copies of the Treaty and its Protocols to all Members of the South Pacific Forum and all States eligible to become Party to the Protocols to the Treaty and shall notify them of signatures and ratifications of the Treaty and its Protocols.
 
-**DONE** at Rarotonga, this Sixth day of August, One thousand nine hundred and eighty‑five, in a single original in the English language.
+**DONE** at Rarotonga, this Sixth day of August, One thousand nine hundred and eighty-five, in a single original in the English language.
 
 **ANNEX 1**
 
@@ -903,7 +904,7 @@ The depositary shall register this Treaty and its Protocols pursuant to Article 
 
      (2)  running thence northerly along that maritime boundary to its intersection by the outer limit of the Exclusive Economic Zone of Papua New Guinea;
 
-     (3)  thence generally north‑easterly, easterly and south‑easterly along that outer limit to its intersection by the Equator;
+     (3)  thence generally north-easterly, easterly and south-easterly along that outer limit to its intersection by the Equator;
 
      (4)  thence east along the Equator to its intersection by the meridian of Longitude 163 degrees East;
 
@@ -917,31 +918,31 @@ The depositary shall register this Treaty and its Protocols pursuant to Article 
 
      (9)  thence south along that meridian to its intersection by the Equator;
 
-   (10)  thence east along the Equator to its intersection by the meridian of Longitude 165 degrees West;
+    (10)  thence east along the Equator to its intersection by the meridian of Longitude 165 degrees West;
 
-   (11)  thence north along that meridian to its intersection by the parallel of Latitude 5 degrees 30 minutes North;
+    (11)  thence north along that meridian to its intersection by the parallel of Latitude 5 degrees 30 minutes North;
 
-   (12)  thence east along that parallel to its intersection by the meridian of Longitude 154 degrees West;
+    (12)  thence east along that parallel to its intersection by the meridian of Longitude 154 degrees West;
 
-   (13)  thence south along that meridian to its intersection by the Equator;
+    (13)  thence south along that meridian to its intersection by the Equator;
 
-   (14)  thence east along the Equator to its intersection by the meridian of Longitude 115 degrees West;
+    (14)  thence east along the Equator to its intersection by the meridian of Longitude 115 degrees West;
 
-   (15)  thence south along that meridian to its intersection by the parallel of Latitude 60 degrees South;
+    (15)  thence south along that meridian to its intersection by the parallel of Latitude 60 degrees South;
 
-   (16)  thence west along that parallel to its intersection by the meridian of Longitude 115 degrees East;
+    (16)  thence west along that parallel to its intersection by the meridian of Longitude 115 degrees East;
 
-   (17)  thence north along that meridian to its southernmost intersection by the outer limit of the territorial sea of Australia;
+    (17)  thence north along that meridian to its southernmost intersection by the outer limit of the territorial sea of Australia;
 
-   (18)  thence generally northerly and easterly along the outer limit of the territorial sea of Australia to its intersection by the meridian of Longitude 136 degrees 45 minutes East;
+    (18)  thence generally northerly and easterly along the outer limit of the territorial sea of Australia to its intersection by the meridian of Longitude 136 degrees 45 minutes East;
 
-   (19)  thence north‑easterly along the geodesic to the point of Latitude 10 degrees 50 minutes South, Longitude 139 degrees 12 minutes East;
+    (19)  thence north-easterly along the geodesic to the point of Latitude 10 degrees 50 minutes South, Longitude 139 degrees 12 minutes East;
 
-   (20)  thence north‑easterly along the maritime boundary between Indonesia and Papua New Guinea to where it joins the land border between those two countries;
+    (20)  thence north-easterly along the maritime boundary between Indonesia and Papua   New Guinea to where it joins the land border between those two countries;
 
-   (21)  thence generally northerly along that land border to where it joins the maritime boundary between Indonesia and Papua New Guinea, on the northern coastline of Papua New Guinea; and
+    (21)  thence generally northerly along that land border to where it joins the maritime boundary between Indonesia and Papua New Guinea, on the northern coastline of Papua New Guinea; and
 
-   (22)  thence generally northerly along that boundary to the point of commencement.
+    (22)  thence generally northerly along that boundary to the point of commencement.
 
       B.  The areas within the outer limits of the territorial seas of all Australian islands lying westward of the area described in paragraph A and north of Latitude 60 degrees South, provided that any such areas shall cease to be part of the South Pacific Nuclear Free Zone upon receipt by the depositary of written notice from the Government of Australia stating that the areas have become subject to another treaty having an object and purpose substantially the same as that of this Treaty.
 
@@ -953,7 +954,7 @@ The depositary shall register this Treaty and its Protocols pursuant to Article 
 
        2.  The agreement referred to in paragraph 1 shall be, or shall be equivalent in its scope and effect to, an agreement required in connection with the NPT on the basis of the material reproduced in document INFCIRC/153 (Corrected) of the IAEA. Each Party shall take all appropriate steps to ensure that such an agreement is in force for it not later than eighteen months after the date of entry into force for that Party of this Treaty.
 
-       3.  For the purposes of this Treaty, the safeguards referred to in paragraph 1 shall have as their purpose the verification of the non‑diversion of nuclear material from peaceful nuclear activities to nuclear explosive devices.
+       3.  For the purposes of this Treaty, the safeguards referred to in paragraph 1 shall have as their purpose the verification of the non-diversion of nuclear material from peaceful nuclear activities to nuclear explosive devices.
 
        4.  Each Party agrees upon the request of any other Party to transmit to that Party and to the Director for the information of all Parties a copy of the overall conclusions of the most recent report by the IAEA on its inspection activities in the territory of the Party concerned, and to advise the Director promptly of any subsequent findings of the Board of Governors of the IAEA in relation to those conclusions for the information of all Parties.
 
@@ -961,9 +962,9 @@ The depositary shall register this Treaty and its Protocols pursuant to Article 
 
 <u>CONSULTATIVE COMMITTEE</u>
 
-       1.  There is hereby established a Consultative Committee which shall be convened by the Director from time to time pursuant to Articles 10 and 11 and Annex 4 (2). The Consultative Committee shall be constituted of representatives of the Parties, each Party being entitled to appoint one representative who may be accompanied by advisers. Unless otherwise agreed, the Consultative Committee shall be chaired at any given meeting by the representative of the Party which last hosted the meeting of Heads of Government of Members of the South Pacific Forum. A quorum shall be constituted by representatives of half the Parties. Subject to the provisions of Article 11, decisions of the Consultative Committee shall be taken by consensus or, failing consensus, by a two‑thirds majority of those present and voting. The Consultative Committee shall adopt such other rules of procedure as it sees fit.
+       1.  There is hereby established a Consultative Committee which shall be convened by the Director from time to time pursuant to Articles 10 and 11 and Annex 4 (2). The Consultative Committee shall be constituted of representatives of the Parties, each Party being entitled to appoint one representative who may be accompanied by advisers. Unless otherwise agreed, the Consultative Committee shall be chaired at any given meeting by the representative of the Party which last hosted the meeting of Heads of Government of Members of the South Pacific Forum. A quorum shall be constituted by representatives of half the Parties. Subject to the provisions of Article 11, decisions of the Consultative Committee shall be taken by consensus or, failing consensus, by a two-thirds majority of those present and voting. The Consultative Committee shall adopt such other rules of procedure as it sees fit.
 
-       2.  The costs of the Consultative Committee, including the costs of special inspections pursuant to Annex 4, shall be borne by the South Pacific Bureau for Economic Co‑operation. It may seek special funding should this be required.
+       2.  The costs of the Consultative Committee, including the costs of special inspections pursuant to Annex 4, shall be borne by the South Pacific Bureau for Economic Co-operation. It may seek special funding should this be required.
 
 **ANNEX 4**
 
@@ -1007,27 +1008,25 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td colspan="2">
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>South Pacific Nuclear Free Zone Treaty Act 1986</div>
@@ -1040,7 +1039,7 @@ of Assent</div>
   </td>
   <td colspan="2">
     <div>Ss. 1–7: Royal Assent 
-Remainder: 7 Nov 1988 ( <i>see Gazette</i>1988, No. S332)</div>
+Remainder: 7 Nov 1988 ( <i>see Gazette</i>1988, No. S332)</div>
   </td>
   <td>
     <div> </div>
@@ -1075,7 +1074,7 @@ Remainder: 7 Nov 1988 ( <i>see Gazette</i>1988, No. S332)</div>
   </td>
   <td colspan="2">
     <div>Part III (ss. 
-17–32), s. 98 and Parts IX and X (ss. 99–103): 1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
+17–32), s. 98 and Parts IX and X (ss. 99–103): 1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1093,7 +1092,7 @@ Remainder: Royal Assent</div>
     <div>21 Dec 1992</div>
   </td>
   <td colspan="2">
-    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i></div>
+    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1114,7 +1113,7 @@ Remainder: Royal Assent</div>
 Remainder: 31 Mar 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (item 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1151,23 +1150,6 @@ Remainder: 31 Mar 2001</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 3 (item 7): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1181,7 +1163,7 @@ _(a)_     The _South Pacific Nuclear Free Zone Treaty Act 1986_ was amen
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(b)_     The _South Pacific Nuclear Free Zone Treaty Act 1986_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
+_(b)_    The _South Pacific Nuclear Free Zone Treaty Act 1986_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
 
                  (3)   A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the _Gazette_ but only if:
 
@@ -1191,8 +1173,8 @@ _(b)_     The _South Pacific Nuclear Free Zone Treaty Act 1986_ was amen
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1223,7 +1205,7 @@ _(b)_     The _South Pacific Nuclear Free Zone Treaty Act 1986_ was amen
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 141, 1987; No. 63, 1988; No. 196, 1992; No. 4, 2010; No. 136, 2012</div>
+    <div>am. No. 141, 1987; No. 63, 1988; No. 196, 1992; No. 4, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1317,11 +1299,11 @@ _Crimes At Sea Act 2000 (No. 13, 2000)_
 
 ## 11  Application of amendments
 
-(1)       The amendments made by this Schedule apply to acts and omissions that take place after this Schedule commences.
+(1)        The amendments made by this Schedule apply to acts and omissions that take place after this Schedule commences.
 
-(2)       Although this Schedule repeals the _Crimes at Sea Act 1979_, that Act continues to apply, in relation to acts and omissions that took place before this Schedule commences, as if the repeal had not happened.
+(2)        Although this Schedule repeals the _Crimes at Sea Act 1979_, that Act continues to apply, in relation to acts and omissions that took place before this Schedule commences, as if the repeal had not happened.
 
-(3)       For the purposes of this item, if an act or omission is alleged to have taken place between two dates, one before and one on or after the day on which this Schedule commences, the act or omission is alleged to have taken place before this Schedule commences.
+(3)        For the purposes of this item, if an act or omission is alleged to have taken place between two dates, one before and one on or after the day on which this Schedule commences, the act or omission is alleged to have taken place before this Schedule commences.
 
 * * *
 
