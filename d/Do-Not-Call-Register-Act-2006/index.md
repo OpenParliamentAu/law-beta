@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00731/Html/f1672a40-0b15-4d71-b54b-98c3f495e43f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00041/Html/DoNotCallReg2006_image001.gif)
 
 # Do Not Call Register Act 2006
 
 **Act No. 88 of 2006 as amended**
 
-This compilation was prepared on 8 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -40,7 +39,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Extension to external Territories
 
-[9](#9).            Extra‑territorial application
+[9](#9).            Extra-territorial application
 
 **Part 2—Rules about making telemarketing calls**
 
@@ -405,7 +404,7 @@ breaches of this Act are civil penalties and injunctions.</li>
 
 * * *
 
-Note:          The _Telecommunications Act 1997_ contains additional provisions about telemarketing calls and marketing faxes. Those provisions include Part 6 (industry codes and standards), Part 26 (investigations), Part 27 (information‑gathering powers) and Part 31A (enforceable undertakings).
+Note:          The _Telecommunications Act 1997_ contains additional provisions about telemarketing calls and marketing faxes. Those provisions include Part 6 (industry codes and standards), Part 26 (investigations), Part 27 (information-gathering powers) and Part 31A (enforceable undertakings).
 
 ##### <a id="4"></a>4  Definitions
 
@@ -415,7 +414,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                      (a)  a free account; and
 
-                     (b)  a pre‑paid account; and
+                     (b)  a pre-paid account; and
 
                      (c)  anything that may reasonably be regarded as the equivalent of an account.
 
@@ -481,13 +480,13 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                      (d)  subsection 12(2);
 
-                   (da)  subsection 12B(1);
+                    (da)  subsection 12B(1);
 
-                   (db)  subsection 12B(8);
+                    (db)  subsection 12B(8);
 
-                   (dc)  subsection 12C(1);
+                    (dc)  subsection 12C(1);
 
-                   (dd)  subsection 12C(2);
+                    (dd)  subsection 12C(2);
 
                      (e)  a provision of the regulations that is declared to be a civil penalty provision in accordance with paragraph 44(2)(c).
 
@@ -517,7 +516,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                     <a name="educ-institut"></a>**_educational institution_** includes:
 
-                     (a)  a pre‑school; and
+                     (a)  a pre-school; and
 
                      (b)  a school; and
 
@@ -621,7 +620,7 @@ Note:          For treatment of partnerships, see section 58
 
                      (b)  a law of a State or Territory that deals with electoral matters.
 
-                    <a name="relev-account-holder"></a>**_relevant account‑holder_**, in relation to an Australian number, means:
+                    <a name="relev-account-holder"></a>**_relevant account-holder_**, in relation to an Australian number, means:
 
                      (a)  if an individual or organisation is solely responsible for the relevant account—the individual or organisation; or
 
@@ -725,7 +724,7 @@ Excluded calls—regulations
 
                             (iii)  a fax gateway; or
 
-                            (iv)  a mail‑to‑fax system; or
+                            (iv)  a mail-to-fax system; or
 
                              (v)  equipment specified in the regulations; or
 
@@ -809,7 +808,7 @@ Excluded faxes—regulations
 
                      (c)  such other external Territories (if any) as are prescribed.
 
-##### <a id="9"></a>9  Extra‑territorial application
+##### <a id="9"></a>9  Extra-territorial application
 
                    Unless the contrary intention appears, this Act extends to acts, omissions, matters and things outside Australia.
 
@@ -843,9 +842,9 @@ Note:          For **_designated telemarketing call_**, see Sc
 
              (2)  Subsection (1) does not apply if:
 
-                     (a)  the relevant account‑holder; or
+                     (a)  the relevant account-holder; or
 
-                     (b)  a nominee of the relevant account‑holder;
+                     (b)  a nominee of the relevant account-holder;
 
 consented to the making of the call.
 
@@ -857,7 +856,7 @@ Note 2:       For the meaning of **_nominee_**, see section 39.
 
                      (a)  the number was included on a list that was submitted by the person under subsection 19(1); and
 
-                     (b)  during the 30‑day period ending at the end of the day on which the call was made:
+                     (b)  during the 30-day period ending at the end of the day on which the call was made:
 
                               (i)  the person received information under paragraph 19(2)(d) in response to the submission of the list, but that information did not state that the number was registered on the Do Not Call Register; or
 
@@ -979,9 +978,9 @@ Note:          For **_designated marketing fax_**, see Schedul
 
              (2)  Subsection (1) does not apply if:
 
-                     (a)  the relevant account‑holder; or
+                     (a)  the relevant account-holder; or
 
-                     (b)  a nominee of the relevant account‑holder;
+                     (b)  a nominee of the relevant account-holder;
 
 consented to the sending of the fax.
 
@@ -993,7 +992,7 @@ Note 2:       For the meaning of **_nominee_**, see section 39.
 
                      (a)  the number was included on a list that was submitted by the person under subsection 19(1); and
 
-                     (b)  during the 30‑day period ending at the end of the day on which the fax was sent:
+                     (b)  during the 30-day period ending at the end of the day on which the fax was sent:
 
                               (i)  the person received information under paragraph 19(2)(d) in response to the submission of the list, but that information did not state that the number was registered on the Do Not Call Register; or
 
@@ -1129,9 +1128,9 @@ a register of Australian numbers for the purposes of this Act.
 
                      (a)  may be made by:
 
-                              (i)  the relevant account‑holder; or
+                              (i)  the relevant account-holder; or
 
-                             (ii)  a nominee of the relevant account‑holder; and
+                             (ii)  a nominee of the relevant account-holder; and
 
                      (b)  is to be made to:
 
@@ -1183,9 +1182,9 @@ must enter the number on the Do Not Call Register.
 
           (1A)  The Minister may, by legislative instrument, specify a period for the purposes of subparagraph (1)(b)(ii).
 
-             (2)  If the registration of an Australian number on the Do Not Call Register ceases to be in force, this Act does not prevent the number from being re‑registered on the Do Not Call Register.
+             (2)  If the registration of an Australian number on the Do Not Call Register ceases to be in force, this Act does not prevent the number from being re-registered on the Do Not Call Register.
 
-             (3)  If an Australian number is removed from the Do Not Call Register, this Act does not prevent the number from being re‑registered on the Do Not Call Register.
+             (3)  If an Australian number is removed from the Do Not Call Register, this Act does not prevent the number from being re-registered on the Do Not Call Register.
 
 ##### <a id="18"></a>18  Administration of the Do Not Call Register—determinations
 
@@ -1209,7 +1208,7 @@ must enter the number on the Do Not Call Register.
 
 ##### <a id="19"></a>19  Access to the Do Not Call Register
 
-             (1)  A person (the **_access‑seeker_**) who wishes to access the Do Not Call Register may submit a list of Australian numbers to:
+             (1)  A person (the **_access-seeker_**) who wishes to access the Do Not Call Register may submit a list of Australian numbers to:
 
                      (a)  if the Do Not Call Register is kept by the ACMA—the ACMA; or
 
@@ -1217,7 +1216,7 @@ must enter the number on the Do Not Call Register.
 
 For this purpose, a list may consist of a single Australian number.
 
-             (2)  If the access‑seeker has paid the applicable fee (if any) determined under subsection 21(1), then:
+             (2)  If the access-seeker has paid the applicable fee (if any) determined under subsection 21(1), then:
 
                      (a)  if the Do Not Call Register is kept by the ACMA—the ACMA; or
 
@@ -1225,13 +1224,13 @@ For this purpose, a list may consist of a single Australian number.
 
 must:
 
-                     (c)  check the Australian numbers on the access‑seeker’s list against the Australian numbers registered on the Do Not Call Register; and
+                     (c)  check the Australian numbers on the access-seeker’s list against the Australian numbers registered on the Do Not Call Register; and
 
-                     (d)  if the access‑seeker requests the ACMA or the contracted service provider, as the case may be, to do so—inform the access‑seeker which numbers (if any) on the access‑seeker’s list are registered on the Do Not Call Register; and
+                     (d)  if the access-seeker requests the ACMA or the contracted service provider, as the case may be, to do so—inform the access-seeker which numbers (if any) on the access-seeker’s list are registered on the Do Not Call Register; and
 
-                     (e)  if the access‑seeker requests the ACMA or the contracted service provider, as the case may be, to do so—inform the access‑seeker which numbers (if any) on the access‑seeker’s list are not registered on the Do Not Call Register; and
+                     (e)  if the access-seeker requests the ACMA or the contracted service provider, as the case may be, to do so—inform the access-seeker which numbers (if any) on the access-seeker’s list are not registered on the Do Not Call Register; and
 
-                      (f)  if the access‑seeker requests the ACMA or the contracted service provider, as the case may be, to do so—return the access‑seeker’s list, modified by the deletion of the numbers (if any) registered on the Do Not Call Register.
+                      (f)  if the access-seeker requests the ACMA or the contracted service provider, as the case may be, to do so—return the access-seeker’s list, modified by the deletion of the numbers (if any) registered on the Do Not Call Register.
 
              (4)  A submission under subsection (1) is to be made in the applicable manner (if any) specified in a determination under subsection 20(1).
 
@@ -1581,15 +1580,15 @@ Performance injunctions
 
 ##### <a id="39"></a>39  Nominees
 
-Nomination by relevant account‑holder
+Nomination by relevant account-holder
 
              (1)  For the purposes of the application of this Act to an Australian number, if:
 
-                     (a)  the relevant account‑holder has nominated an individual in relation to the number; and
+                     (a)  the relevant account-holder has nominated an individual in relation to the number; and
 
                      (b)  the nomination has not been withdrawn;
 
-the individual is a **_nominee_** of the relevant account‑holder.
+the individual is a **_nominee_** of the relevant account-holder.
 
              (2)  A nomination, or a withdrawal of a nomination, must be in writing.
 
@@ -1597,7 +1596,7 @@ the individual is a **_nominee_** of the relevant account‑holder.
 
 Deemed nominee
 
-             (4)  The regulations may provide that, for the purposes of the application of this Act to an Australian number, an individual is taken to be a **_nominee_** of the relevant account‑holder in the circumstances specified in the regulations.
+             (4)  The regulations may provide that, for the purposes of the application of this Act to an Australian number, an individual is taken to be a **_nominee_** of the relevant account-holder in the circumstances specified in the regulations.
 
 Principles of agency not limited
 
@@ -1611,11 +1610,11 @@ Principles of agency not limited
 
                    The ACMA has the following functions:
 
-                     (a)  to conduct and/or co‑ordinate community education programs about unsolicited telemarketing calls and unsolicited marketing faxes, in consultation with relevant industry and consumer groups and government agencies;
+                     (a)  to conduct and/or co-ordinate community education programs about unsolicited telemarketing calls and unsolicited marketing faxes, in consultation with relevant industry and consumer groups and government agencies;
 
                      (b)  to conduct and/or commission research into issues relating to unsolicited telemarketing calls and unsolicited marketing faxes;
 
-                     (c)  to liaise with regulatory and other relevant bodies overseas about co‑operative arrangements for the prohibition or regulation of unsolicited telemarketing calls and unsolicited marketing faxes.
+                     (c)  to liaise with regulatory and other relevant bodies overseas about co-operative arrangements for the prohibition or regulation of unsolicited telemarketing calls and unsolicited marketing faxes.
 
 ##### <a id="42"></a>42  Operation of State and Territory laws
 
@@ -1651,7 +1650,7 @@ Principles of agency not limited
 
                      (a)  before the end of the period of 3 years after the commencement of this section; or
 
-                     (b)  as soon as practicable after the end of that 3‑year period.
+                     (b)  as soon as practicable after the end of that 3-year period.
 
              (3)  The Minister must cause to be prepared a report of a review under subsection (1).
 
@@ -1659,7 +1658,7 @@ Principles of agency not limited
 
 ##### <a id="46"></a>46  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed by this Act; or
 
@@ -1707,9 +1706,9 @@ Political parties
 
                             it would be concluded that the purpose, or one of the purposes, of the call is:
 
-                            (iii)  to conduct fund‑raising for electoral purposes; or
+                            (iii)  to conduct fund-raising for electoral purposes; or
 
-                            (iv)  to conduct fund‑raising for political purposes; and
+                            (iv)  to conduct fund-raising for political purposes; and
 
                      (c)  if the call relates to goods or services—the registered political party is the supplier, or prospective supplier, of the goods or services; and
 
@@ -1743,9 +1742,9 @@ Independent members of parliament etc.
 
                             it would be concluded that the purpose, or one of the purposes, of the call is:
 
-                            (iii)  to conduct fund‑raising for electoral purposes; or
+                            (iii)  to conduct fund-raising for electoral purposes; or
 
-                            (iv)  to conduct fund‑raising for political purposes; and
+                            (iv)  to conduct fund-raising for political purposes; and
 
                      (c)  if the call relates to goods or services—the person is the supplier, or prospective supplier, of the goods or services; and
 
@@ -1779,9 +1778,9 @@ Candidates
 
                             it would be concluded that the purpose, or one of the purposes, of the call is:
 
-                            (iii)  to conduct fund‑raising for electoral purposes; or
+                            (iii)  to conduct fund-raising for electoral purposes; or
 
-                            (iv)  to conduct fund‑raising for political purposes; and
+                            (iv)  to conduct fund-raising for political purposes; and
 
                      (c)  if the call relates to goods or services—the person is the supplier, or prospective supplier, of the goods or services; and
 
@@ -1789,31 +1788,31 @@ Candidates
 
 ##### <a id="4"></a>4  Educational institutions
 
-Relevant account‑holder is a householder
+Relevant account-holder is a householder
 
              (1)  For the purposes of this Act, a telemarketing call is a **_designated telemarketing call_** if:
 
                      (a)  the making of the call is authorised by an educational institution; and
 
-                     (b)  the call is made to a number that is used or maintained primarily for the private or domestic purposes of the relevant account‑holder and/or members of the relevant account‑holder’s household; and
+                     (b)  the call is made to a number that is used or maintained primarily for the private or domestic purposes of the relevant account-holder and/or members of the relevant account-holder’s household; and
 
                      (c)  either or both of the following subparagraphs apply:
 
-                              (i)  the relevant account‑holder is, or has been, enrolled as a student in that institution;
+                              (i)  the relevant account-holder is, or has been, enrolled as a student in that institution;
 
-                             (ii)  a member or former member of the relevant account‑holder’s household is, or has been, enrolled as a student in that institution; and
+                             (ii)  a member or former member of the relevant account-holder’s household is, or has been, enrolled as a student in that institution; and
 
                      (d)  if the call relates to goods or services—the institution is the supplier, or prospective supplier, of the goods or services; and
 
                      (e)  the call is not of a kind specified in the regulations.
 
-Relevant account‑holder is an employer
+Relevant account-holder is an employer
 
              (2)  For the purposes of this Act, a telemarketing call is a **_designated telemarketing call_** if:
 
                      (a)  the making of the call is authorised by an educational institution; and
 
-                     (b)  the relevant account‑holder is the employer of an employee; and
+                     (b)  the relevant account-holder is the employer of an employee; and
 
                      (c)  the call is made to a number that is used or maintained primarily for the private or domestic purposes of the employee and/or members of the employee’s household; and
 
@@ -1849,7 +1848,7 @@ then:
 
                      (d)  the individual is taken not to authorise the making of the call.
 
-Self‑authorisation
+Self-authorisation
 
              (2)  For the purposes of this Schedule, if:
 
@@ -1857,7 +1856,7 @@ Self‑authorisation
 
                      (b)  the making of the call is not authorised by any other individual or organisation;
 
-the first‑mentioned individual or organisation is taken to authorise the making of the call.
+the first-mentioned individual or organisation is taken to authorise the making of the call.
 
 ##### <a id="7"></a>7  Extended meaning of _employee_ and _employer_
 
@@ -1937,9 +1936,9 @@ Political parties
 
                             it would be concluded that the purpose, or one of the purposes, of the fax is:
 
-                            (iii)  to conduct fund‑raising for electoral purposes; or
+                            (iii)  to conduct fund-raising for electoral purposes; or
 
-                            (iv)  to conduct fund‑raising for political purposes; and
+                            (iv)  to conduct fund-raising for political purposes; and
 
                      (c)  if the fax relates to goods or services—the registered political party is the supplier, or prospective supplier, of the goods or services; and
 
@@ -1973,9 +1972,9 @@ Independent members of parliament etc.
 
                             it would be concluded that the purpose, or one of the purposes, of the fax is:
 
-                            (iii)  to conduct fund‑raising for electoral purposes; or
+                            (iii)  to conduct fund-raising for electoral purposes; or
 
-                            (iv)  to conduct fund‑raising for political purposes; and
+                            (iv)  to conduct fund-raising for political purposes; and
 
                      (c)  if the fax relates to goods or services—the person is the supplier, or prospective supplier, of the goods or services; and
 
@@ -2009,9 +2008,9 @@ Candidates
 
                             it would be concluded that the purpose, or one of the purposes, of the fax is:
 
-                            (iii)  to conduct fund‑raising for electoral purposes; or
+                            (iii)  to conduct fund-raising for electoral purposes; or
 
-                            (iv)  to conduct fund‑raising for political purposes; and
+                            (iv)  to conduct fund-raising for political purposes; and
 
                      (c)  if the fax relates to goods or services—the person is the supplier, or prospective supplier, of the goods or services; and
 
@@ -2019,31 +2018,31 @@ Candidates
 
 ##### <a id="4"></a>4  Educational institutions
 
-Relevant account‑holder is a householder
+Relevant account-holder is a householder
 
              (1)  For the purposes of this Act, a marketing fax is a **_designated marketing fax_** if:
 
                      (a)  the sending of the fax is authorised by an educational institution; and
 
-                     (b)  the fax is sent to a number that is used or maintained primarily for the private or domestic purposes of the relevant account‑holder and/or members of the relevant account‑holder’s household; and
+                     (b)  the fax is sent to a number that is used or maintained primarily for the private or domestic purposes of the relevant account-holder and/or members of the relevant account-holder’s household; and
 
                      (c)  either or both of the following subparagraphs apply:
 
-                              (i)  the relevant account‑holder is, or has been, enrolled as a student in that institution;
+                              (i)  the relevant account-holder is, or has been, enrolled as a student in that institution;
 
-                             (ii)  a member or former member of the relevant account‑holder’s household is, or has been, enrolled as a student in that institution; and
+                             (ii)  a member or former member of the relevant account-holder’s household is, or has been, enrolled as a student in that institution; and
 
                      (d)  if the fax relates to goods or services—the institution is the supplier, or prospective supplier, of the goods or services; and
 
                      (e)  the fax is not of a kind specified in the regulations.
 
-Relevant account‑holder is an employer
+Relevant account-holder is an employer
 
              (2)  For the purposes of this Act, a marketing fax is a **_designated marketing fax_** if:
 
                      (a)  the sending of the fax is authorised by an educational institution; and
 
-                     (b)  the relevant account‑holder is the employer of an employee; and
+                     (b)  the relevant account-holder is the employer of an employee; and
 
                      (c)  the fax is sent to a number that is used or maintained primarily for the private or domestic purposes of the employee and/or members of the employee’s household; and
 
@@ -2079,7 +2078,7 @@ then:
 
                      (d)  the individual is taken not to authorise the sending of the fax.
 
-Self‑authorisation
+Self-authorisation
 
              (2)  For the purposes of this Schedule, if:
 
@@ -2087,7 +2086,7 @@ Self‑authorisation
 
                      (b)  the sending of the fax is not authorised by any other individual or organisation;
 
-the first‑mentioned individual or organisation is taken to authorise the sending of the fax.
+the first-mentioned individual or organisation is taken to authorise the sending of the fax.
 
 ##### <a id="7"></a>7  Extended meaning of _employee_ and _employer_
 
@@ -2163,9 +2162,9 @@ the consent is taken to have been withdrawn at the end of the period of 3 months
 
                    For the purposes of the application of this Act to an Australian number, consent of:
 
-                     (a)  the relevant account‑holder; or
+                     (a)  the relevant account-holder; or
 
-                     (b)  a nominee of the relevant account‑holder;
+                     (b)  a nominee of the relevant account-holder;
 
 may not be inferred from the mere fact that the number has been published.
 
@@ -2173,25 +2172,25 @@ may not be inferred from the mere fact that the number has been published.
 
              (1)  The regulations may provide that, for the purposes of the application of this Act to an Australian number, the consent of:
 
-                     (a)  the relevant account‑holder; or
+                     (a)  the relevant account-holder; or
 
-                     (b)  a nominee of the relevant account‑holder;
+                     (b)  a nominee of the relevant account-holder;
 
 may not be inferred in the circumstances specified in the regulations.
 
              (2)  The regulations may provide that, for the purposes of the application of this Act to an Australian number, the consent of:
 
-                     (a)  the relevant account‑holder; or
+                     (a)  the relevant account-holder; or
 
-                     (b)  a nominee of the relevant account‑holder;
+                     (b)  a nominee of the relevant account-holder;
 
 may be inferred in the circumstances specified in the regulations.
 
 ##### <a id="7"></a>7  Determinations about consent—marketing faxes sent to business numbers
 
-             (1)  The ACMA may, by legislative instrument, determine that, for the purposes of the application of this Act to a marketing fax sent to a business number, the consent of the relevant account‑holder may not be inferred in the circumstances specified in the determination.
+             (1)  The ACMA may, by legislative instrument, determine that, for the purposes of the application of this Act to a marketing fax sent to a business number, the consent of the relevant account-holder may not be inferred in the circumstances specified in the determination.
 
-             (2)  The ACMA may, by legislative instrument, determine that, for the purposes of the application of this Act to a marketing fax sent to a business number, the consent of the relevant account‑holder may be inferred in the circumstances specified in the determination.
+             (2)  The ACMA may, by legislative instrument, determine that, for the purposes of the application of this Act to a marketing fax sent to a business number, the consent of the relevant account-holder may be inferred in the circumstances specified in the determination.
 
              (3)  Before making a determination under subclause (1) or (2), the ACMA must consult the Minister.
 
@@ -2203,7 +2202,7 @@ may be inferred in the circumstances specified in the regulations.
 
                              (ii)  inviting persons to make submissions to the ACMA about the draft determination within 14 days after the notice is published; and
 
-                     (b)  consider any submissions received within the 14‑day period.
+                     (b)  consider any submissions received within the 14-day period.
 
              (5)  Subsection 33(3) of the _Acts Interpretation Act 1901_ applies to a power conferred on the ACMA by subclause (1) or (2). However, if a variation of a determination under subclause (1) or (2) is a variation of a minor nature, the ACMA is not required to comply with subclause (3) or (4) in relation to the variation.
 
@@ -2563,7 +2562,7 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="15%">
   <col width="19%">
   <col width="21%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -2655,23 +2654,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 547) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -3106,20 +3088,6 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 547  Section 4 (note at the end of the definition of _organisation_)
-
-Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
-
-As at 8 September 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3211,21 +3179,5 @@ then:
                               (i)  takes effect when it is entered on the Do Not Call Register; and
 
                              (ii)  remains in force for the period specified in the instrument, unless sooner removed from the Do Not Call Register in accordance with a determination under subsection 18(1) of the _Do Not Call Register Act 2006_ as amended by this Part.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
