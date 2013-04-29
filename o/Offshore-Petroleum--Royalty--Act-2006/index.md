@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00850/Html/00fdded4-0c42-4f90-9631-a6792378dff0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00074/Html/2f78f61e-569d-4138-96c1-7c8037aa6d8e_files/image001.gif)
 
 # Offshore Petroleum (Royalty) Act 2006
 
 **Act No. 18 of 2006 as amended**
 
-This compilation was prepared on 23 November 2012
+This compilation was prepared on 6 January 2012
  taking into account amendments up to Act No. 110 of 2011
 
 The text of any of those amendments not in force
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -688,7 +689,7 @@ of Assent</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Ss. 3–17 and Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1)) 
+    <div>Ss. 3–17 and Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -756,48 +757,7 @@ Schedule 4 (items 5A–5C): <i>(a)</i></div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 4–6) 
-S. 2(1) (item 2) (am. by 136, 2012, Sch. 2 \[item 31])</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 31): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (items 4–6)</div>
   </td>
   <td>
     <div></div>
@@ -943,68 +903,12 @@ _(a)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
   </td>
 </tr></table>
 
-_(b)_ Subsection 2(1) (item 23) of the _Statute Law Revision Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      23\. Schedule 2, item 31
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Offshore Petroleum (Royalty) Amendment Act 2011</i>for the commencement
-        of section 2 of that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      14 October 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
