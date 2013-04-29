@@ -1,354 +1,341 @@
 **<b>
 
-### <center><name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - Reprinted as at 31 October 1990 (HISTACT CHAP 437 #DATE 31:10:1990) </name></center>
-</b>** *1*The Snowy Mountains Engineering Corporation Act 1970 as shown in this reprint comprises Act No. 39, 1970 amended as indicated in the Tables below.<lf>                                  Table of Acts<lf> Act<lf> Number         Date          Date of                            Application,<lf> and year       of Assent     commencement                       saving or<lf>                                                                 transitional<lf>                                                                 provisions<lf> Snowy Mountains Engineering Corporation Act 1970<lf> 39, 1970       24 June       24 June 1970<lf>                1970<lf> Snowy Mountains Engineering Corporation Act (No. 2) 1970<lf> 125, 1970      11 Nov 1970   11 Nov 1970                        -<lf> Salaries Act 1971 (a)<lf> 22, 1971       4 May 1971    14 Jan 1971                        -<lf> Snowy Mountains Engineering Corporation Act 1973<lf> 74, 1973       18 June       18 June 1973                       -<lf>                1973<lf> Statute Law Revision Act 1973<lf> 216, 1973      19 Dec 1973   31 Dec 1973                        Ss. 9 (1)<lf>                                                                 and 10<lf> Administrative Changes (Consequential Provisions) Act 1978<lf> 36, 1978       12 June       12 June 1978                       S. 8<lf>                1978<lf> Snowy Mountains Engineering Corporation Amendment Act 1985<lf> 101, 1985      3 Oct 1985    14 Nov 1985 (see Gazette           S. 9<lf>                              1985, No. S461)<lf> Statute Law (Miscellaneous Provisions) Act (No. 1) 1986<lf> 76, 1986       24 June       S. 3: Royal Assent (b)             S. 9<lf>                1986<lf> Government Business Enterprises (Miscellaneous Reforms) Act 1988<lf> 123, 1988      14 Dec 1988   Part II  (ss. 3-12): 26 Jan        -<lf>                              1989<lf>                              Part VI (ss. 26-31): 1 Jan<lf>                              1989 (see Gazette 1988, No.<lf>                              S399)<lf>                              Part VII (ss. 32-37): 14<lf>                              Nov 1988<lf>                              Remainder: Royal Assent<lf> Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989<lf> 66, 1989       19 June       Ss. 4, 6 (1), 7 (1), 8-10,12,      -<lf>                1989          14 (2), 15 and 16: 1 July<lf>                              1989 (see Gazette 1989, No.<lf>                              S223)<lf>                              S. 7 (2): 1 July 1989<lf>                              S. 14 (1): 30 June 1989 (see<lf>                              Gazette 1989, No. S223)<lf>                              Remainder: Royal Assent<lf> ______________________________________________________________________________ __ (a) The Salaries Act 1971 was repealed by section 7 of the Statute Law Revision Act 1973\. That section provides that the repeal does not affect the operation of any amendment made by the repealed Act or any provision made by it for the citation of an Act as so amended.<lf>   (b) The Snowy Mountains Engineering Corporation Act 1970 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1986, subsection 2 (1) of which provides as follows:<lf>   '(1) Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.'<lf>                               Table of Amendments<lf> ad.=added or inserted am.=amended rep.=repealed rs.=repealed and substituted<lf> ______________________________________________________________________________ __ Provision affected<lf>           How affected<lf> Title<lf>          rs. No. 66, 1989<lf> S. 3<lf>          rep. No. 216, 1973<lf>          ad. No. 66, 1989<lf> Ss. 3A-3D<lf>          ad. No. 66, 1989<lf> S. 4<lf>          am. No. 216, 1973<lf>          rs. No. 101, 1985<lf>          rep. No. 66, 1989<lf> S. 5<lf>          rep. No. 66, 1989<lf> Part II (s. 6)<lf>          rep. No. 66, 1989<lf> S. 6<lf>          am. No. 101, 1985; No. 66, 1989<lf>          rep. No. 66, 1989<lf> Ss. 7-9<lf>          rep. No. 101, 1985<lf> S. 10<lf>          am. No. 125, 1970; No. 22, 1971<lf>          rep. No. 101, 1985<lf> Ss. 11-14<lf>          rep. No. 101, 1985<lf> S. 15<lf>          am. No. 216, 1973<lf>          rep. No. 101, 1985<lf> S. 16<lf>          am. No. 74, 1973; No. 36, 1978<lf>          rep. No. 101, 1985<lf> Heading to Part III<lf>          am. No. 66, 1989<lf> S. 17<lf>          am. No. 74, 1973; No. 101, 1985; No. 66, 1989<lf> S. 18<lf>          rs. No. 101, 1985; No. 66, 1989<lf> Part IIIA (ss. 18A-18D)<lf>          ad. No. 66, 1989<lf> Ss. 18A-18D<lf>          ad. No. 66, 1989<lf> Part IV (ss. 19-23)<lf>          rep. No. 101, 1985<lf> Part IV (ss. 19-29)<lf>          ad. No. 101, 1985<lf> Part IV (ss. 19-29)<lf>          rep. No. 66, 1989<lf> Part IV (ss. 19-26)<lf>          ad. No. 66, 1989<lf> Ss. 19-26<lf>          rs. No. 101, 1985; No. 66, 1989<lf> Ss. 27-29<lf>          rs. No. 101, 1985<lf>          rep. No. 66, 1989<lf> Part V (ss. 24-34)<lf>          rep. No. 101, 1985<lf> Part V (ss. 30-39)<lf>          ad. No. 101, 1985<lf> Part V (ss. 30-32, 32A, 33-35, 38, 38A, 39)<lf>          rep. No. 66, 1989<lf> S. 24<lf>          rep. No. 101, 1985<lf> Ss. 25, 26<lf>          am. No. 36, 1978<lf>          rep. No. 101, 1985<lf> S. 27<lf>          rs. No. 74, 1973<lf>          am. No. 36, 1978<lf>          rep. No. 101, 1985<lf> S. 28<lf>          rep. No. 101, 1985<lf> S. 29<lf>          am. No. 36, 1978<lf>          rep. No. 101, 1985<lf> Ss. 30, 31<lf>          rs. No. 101, 1985<lf>          rep. No. 66, 1989<lf> S. 32<lf>          am. No. 74, 1973<lf>          rs. No. 101, 1985; No. 123, 1988<lf>          rep. No. 66, 1989<lf> S. 32A<lf>          ad. No. 123, 1988<lf>          rep. No. 66, 1989<lf> S. 33<lf>          rs. No. 101, 1985<lf>          am. No. 123, 1988<lf>          rep. No. 66, 1989<lf> Ss. 34, 35<lf>          rs. No. 101, 1985; No. 123, 1988<lf>          rep. No. 66, 1989<lf> Ss. 36, 37<lf>          rs. No. 101, 1985<lf>          rep. No. 123, 1988<lf> S. 38<lf>          ad. No. 101, 1985<lf>          rep. No. 66, 1989<lf> S. 38A<lf>          ad. No. 123, 1988<lf>          rep. No. 66, 1989<lf> S. 39<lf>          rs. No. 101, 1985<lf>          am. No. 76, 1986<lf>          rep. No. 66, 1989<lf> Part VA (ss. 39A-39F)<lf>          ad. No. 66, 1989<lf> Ss. 39A-39F<lf>          ad. No. 66, 1989<lf> Part VB (ss. 39G-39L)<lf>          ad. No. 66, 1989<lf> Ss. 39G-39L<lf>          ad. No. 66, 1989<lf> Part VC (ss. 39M-39Q)<lf>          ad. No. 66, 1989<lf> Ss. 39M-39Q<lf>          ad. No. 66, 1989<lf> Part VI (ss. 35-37, 39, 40)<lf>          rep. No. 101, 1985<lf> Part VI (ss. 40-50)<lf>          ad. No. 101, 1985<lf> Part VI (ss. 40-44, 44A-44E, 45-50)<lf>          rep.  No. 66, 1989<lf> S. 35<lf>          rep. No. 101, 1985<lf> S. 36<lf>          am. No. 36, 1978<lf>          rep. No. 101, 1985<lf> S. 37<lf>          am. No. 216, 1973<lf>          rep. No. 101, 1985<lf> S. 38<lf>          rep. No. 216, 1973<lf> S. 39<lf>          rep. No. 101, 1985<lf> S. 40<lf>          rs. No. 101, 1985<lf>          rep. No. 66, 1989<lf> Ss. 41-43<lf>          ad. No. 101, 1985<lf>          rep. No. 66, 1989<lf> S. 44<lf>          ad. No. 101, 1985<lf>          rs. No. 76, 1986<lf>          rep. No. 66, 1989<lf> Ss. 44A-44E<lf>          ad. No. 76, 1986<lf>          rep. No. 66, 1989<lf> S. 45<lf>          ad. No. 101, 1985<lf>          am. No. 76, 1986<lf>          rep. No. 66, 1989<lf> Ss. 46-50<lf>          ad. No. 101, 1985<lf>          rep. No. 66, 1989<lf> Part VII (ss. 51-55)<lf>          ad. No. 101, 1985<lf> Ss. 51, 52<lf>          ad. No. 101, 1985<lf>          rs. No. 66, 1989<lf> S. 52A<lf>          ad. No. 123, 1988<lf>          rep. No. 66, 1989<lf> Ss. 53, 54<lf>          ad. No. 101, 1985<lf>          rs. No. 66, 1989<lf> Ss. 54A, 54B<lf>          ad. No. 66, 1989<lf> S. 55<lf>          ad. No. 101, 1985<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+### <center><name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - Reprinted as at 19 December 1973 (HISTACT2 CHAP 373 #DATE 19:12:1973) </name></center>
+</b>** 
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - TABLE OF PROVISIONS </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - TABLE OF PROVISIONS </name>
 </b>** 
 
 ## TABLE
-<tables> <tt>                              TABLE OF PROVISIONS<lf> 
-
-Section<lf> <p>                               PART I-PRELIMINARY<lf> <p>     1\. Short title<lf> <p>     2\. Commencement<lf> <p>     3\. Interpretation<lf> <p>    3A. Operating under a name<lf> <p>    3B. Subsidiaries<lf> <p>    3C. Operation of Act<lf> <p>    3D. Extension to external Territories<lf> <p>          PART III-ADDITIONAL FUNCTIONS AND POWERS OF SMEC<lf> <p>    17\. Additional functions<lf> <p>    18\. Additional powers<lf> <p>  PART IIIA-CREATION OF CAPITAL STRUCTURE AND OTHER STEPS PRIOR TO<lf>               CONVERSION OF SMEC INTO A PUBLIC COMPANY<lf> <p>   18A. Share capital of SMEC<lf> <p>   18B. Issue of shares<lf> <p>   18C. SMEC to apply to be registered as company etc.<lf> <p>   18D. New name of SMEC<lf> <p>                PART IV-CONVERSION OF SMEC INTO A PUBLIC COMPANY<lf> <p>    19\. Effect of Part-summary<lf> <p>    20\. SMEC taken to be registered under Companies Act<lf> <p>    21\. Memorandum and articles of SMEC<lf> <p>    22\. Membership of SMEC<lf> <p>    23\. Application of certain provisions of Companies Act<lf> <p>    24\. Accounting records<lf> <p>    25\. Accounts<lf> <p>    26\. Operation of section 25B of Acts Interpretation Act<lf> <p>                          PART VA-USE OF CERTAIN NAMES<lf> <p>   39A. Protected body may operate under protected company name<lf> <p>   39B. Protected body may operate under protected business name<lf> <p>   39C. Other persons not to use protected names<lf> <p>   39D. Exceptions for pre-existing rights<lf> <p>   39E. Use of other names by protected bodies<lf> <p>   39F. Effect on State and Territory laws<lf> <p>                             PART VB-STAFF MATTERS<lf> <p>   39G. Employment of staff members continues after transition<lf> <p>   39H. Act not to affect certain matters relating to staff members<lf> <p>   39J. Effect of sections 39G and 39H<lf> <p>   39K. Variation of terms and conditions of employment<lf> <p>   39L. Application of Part IV of Public Service Act<lf> <p>                           PART VC-TAXATION MATTERS<lf> <p>   39M. Interpretation<lf> <p>   39N. Exemptions relating to exempt matters<lf> <p>   39P. Authorised person may certify in relation to exemptions<lf> <p>   39Q. SMEC taken to have had share capital for purposes of Income Tax<lf>         Assessment Act<lf> <p>                             PART VII-MlSCELLANEOUS<lf> <p>    51\. SMEC not public authority etc.<lf> <p>    52\. Judicial notice of SMEC's seal<lf> <p>    53\. Compensation for acquisition of property<lf> <p>    54\. Public Works Committee Act<lf> <p>   54A. Lands Acquisition Act<lf> <p>   54B. Additional powers and functions under State laws<lf> <p>    55\. Regulations<lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
-</lf></tt></tables>
+<tables> <tt><lf>            SNOWY  MOUNTAINS  ENGINEERING  CORPORATION  ACT  1970-1973<lf> <lf>                              TABLE  OF  PROVISIONS<lf> <lf>                               PART  I-PRELIMINARY<lf> Section<lf>   1\.        Short title<lf>   2\.        Commencement<lf>   3\.        (Repealed)<lf>   4\.        Definitions<lf>   5\.        Extension to Territories<lf> <lf>                   PART  II-THE  SNOWY  MOUNTAINS  ENGINEERING  CORPORATION<lf> <lf>   6\.        Establishment of Corporation<lf>   7\.        The Director<lf>   8\.        Assistant Directors<lf>   9\.        Tenure of office of Director and Assistant Directors<lf>   10\.       Salaries and allowances<lf>   11\.       Leave of absence<lf>   12\.       Termination of appointment<lf>   13\.       Acting Director<lf>   14\.       Vacation of office<lf>   15\.       Certain persons holding office under Snowy Mountains Hydro-electric <lf>             Power Act may be appointed to certain offices under this Act<lf>   16\.       Consultative Committee<lf> <lf>                    PART  III-FUNCTIONS  AND  POWERS  OF  THE  CORPORATION<lf> <lf>   17\.       Functions of the Corporation<lf>   18\.       Powers of the Corporation<lf> <lf>                                        PART  IV-STAFF<lf> <lf>   19\.       Officers and employees<lf>   20\.       Transfers from the Authority<lf>   21\.       Terms and conditions of employment<lf>   22\.       Arrangements with Authority for performance of work and services<lf>   23\.       Limitation on staff<lf> <lf>                                       PART  V-FINANCES<lf> <lf>   24\.       Financial policy of Corporation<lf>   25\.       Capital of the Corporation<lf>   26\.       Payments to Commonwealth<lf>   27\.       Borrowing by Corporation<lf>   28\.       Bank accounts<lf>   29\.       Application of moneys<lf>   30\.       Transfer of reserve for future or contingent liabilities<lf>   31\.       Proper accounts to be kept<lf>   32\.       Power to purchase and dispose of assets<lf>   33\.       Audit<lf>   34\.       Liability to taxation<lf> <lf>                                    PART  VI-MISCELLANEOUS<lf> <lf>   35\.       Reports to Minister<lf>   36\.       Annual report of Corporation<lf>   37\.       Preservation of rights<lf>   38\.       (Repealed)<lf>   39\.       Application of Superannuation Act<lf>   40\.       Regulations </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - LONG TITLE </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 1\. Short title. </name>
 </b>** 
 
 ## SECT
-<sect>         An Act relating to the constitution of SMEC as a public<lf>                     company, and for other purposes<lf> </lf></lf></sect>
+<sect>            SNOWY  MOUNTAINS  ENGINEERING  CORPORATION  ACT  1970-1973<lf> An Act to establish a Snowy Mountains Engineering Corporation and for purposes connected therewith.<lf> <lf>                               PART  I-PRELIMINARY<lf> Short title amended; No. 32, 1918, s. 2.<lf>   1\. This Act may be cited as the Snowy Mountains Engineering Corporation Act 1970-1973.*<lf> </lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - PART I  PART I-PRELIMINARY </name>
-</b>** 
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 1 Short title </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 2\. Commencement. </name>
 </b>** 
 
 ## SECT
-<sect>   1\. This Act may be cited as the Snowy Mountains Engineering Corporation Act 1970.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*<lf> Section 3 repealed by No. 216, 1973, s. 3.<lf>                          *   *   *   *   *   *   *   *<lf> </lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 2 Commencement </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 4\. Definitions. </name>
 </b>** 
 
 ## SECT
-<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+<sect> Amended by No. 216, 1973, s. 3.<lf>   4\. In this Act, unless the contrary intention appears-<lf> <lf>   ''Acting Director'' means a person appointed under section 13 of this Act;<lf> <lf>   ''approved bank'' means the Reserve Bank of Australia or a bank approved by the Treasurer for the purpose of the provision in which the expression occurs;<lf> <lf>   ''Assistant Director'' means a person holding an office of Assistant Director under this Act;<lf> <lf>   ''Australia'' includes the Territories;<lf> <lf>   ''employee'' means a person engaged under section 19 of this Act, and includes a person who becomes an employee by reason of sub-section (4) of section 20 of this Act;<lf> <lf>   ''engineering work'' includes a continuation, completion, repair, alteration, re-construction or extension of an engineering work and also includes a proposed engineering work and a proposed continuation, completion, repair, alteration, re-construction or extension of an engineering work;<lf> <lf>   ''officer'' means a person appointed under section 19 of this Act, and includes a person who becomes an officer by reason of subsection (4) of section 20 of this Act;<lf> <lf>   ''the Authority'' means the Snowy Mountains Hydro-electric Authority;<lf> <lf>   ''the Corporation'' means the Snowy Mountains Engineering Corporation;<lf> <lf>   ''the Director'' means the person holding the office of Director under this Act.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 3 Interpretation </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 5\. Extension to Territories. </name>
 </b>** 
 
 ## SECT
-<sect>   3\. In this Act, unless the contrary intention appears:<lf>   'articles' means articles of association;<lf>   'Australia' includes the external Territories;<lf>   'authorised person' means:<lf>    (a) the Minister; or<lf>    (b) the holder of an authorising office;<lf>   'authorising office' means an office, in the Department, which is declared by writing signed by the Minister to be an authorising office for the purposes of this definition;<lf>   'employment', in relation to a staff member, means employment by, or service with, SMEC;<lf>   'engineering work' includes:<lf>    (a) an actual or proposed continuation, completion, repair, alteration,<lf> restriction or extension of an engineering work; or<lf>    (b) a proposed engineering work;<lf>   'group company' means:<lf>    (a) SMEC; or<lf>    (b) a wholly-owned subsidiary of SMEC;<lf>   'member', in relation to SMEC at any time before the transition, includes a Director;<lf>   'memorandum' means memorandum of association;<lf>   'operate', in relation to a name, has the meaning given by section 3A;<lf>   'protected body' means a group company that is a trading corporation or a financial corporation, within the meaning of paragraph 51 (20) of the Constitution;<lf>   'protected business name' means any of the following names:<lf>    (a) 'SMEC';<lf>    (b) 'Snowy Mountains Engineering Corporation';<lf>    (c) such other names as are prescribed for the purposes of this definition;<lf>   'protected company name' means any of the following names:<lf>    (a) 'Snowy Mountains Engineering Corporation Limited';<lf>    (b) such other names as are prescribed for the purposes of this definition;<lf>   'protected name' means a protected business name or a protected company name;<lf>   'protection time', in relation to a protected name, means the time immediately before:<lf>    (a) in the case of a name prescribed for the purposes of the definition of<lf> 'protected business name' or 'protected company name'-the name first becoming prescribed; or<lf>    (b) in any other case-the commencement of section 13 of the Snowy Mountains<lf> Engineering Corporation (Conversion into Public Company) Act 1989;<lf>   'registered', in relation to a name, includes reserved;<lf>   'SMEC' means the body corporate that, at the commencement of this section, exists, because of this Act, under the name 'Snowy Mountains Engineering Corporation';<lf>   'share', in relation to SMEC, means a share in the share capital of SMEC;<lf>   'staff member' means a person who, immediately before the transition, is:<lf>    (a) the Managing Director of SMEC; or<lf>    (b) an officer or employee of SMEC;<lf>   'subsidiary' has the meaning given by section 3B;<lf>   'transition' means the commencement of Part IV, being the Part substituted by section 12 of the Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989;<lf>   'wholly-owned subsidiary', in relation to SMEC, means a body corporate:<lf>    (a) that is a subsidiary of SMEC;<lf>    (b) none of whose members is a person other than:<lf>          (i) SMEC;<lf>          (ii) a body corporate that is, under any other application or<lf> applications of this definition, a wholly-owned subsidiary of SMEC; or<lf>          (iii) a nominee of SMEC or of a body of a kind referred to in<lf> subparagraph (ii); and<lf>    (c) no share in which is beneficially owned by a person other than:<lf>          (i) SMEC; or<lf>          (ii) a body of a kind referred to in subparagraph (b) (ii).<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   5\. This Act extends to all the Territories.<lf> </lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 3A Operating under a name </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 6\. Establishment of Corporation. </name>
 </b>** 
 
 ## SECT
-<sect>   3A. A reference in this Act to a protected body operating in a State or Territory under a particular name includes a reference to the body engaging in conduct that, for the purposes of a law in force in the State or Territory, constitutes:<lf>    (a) in any case-using the name in the State or Territory;<lf>    (b) if the name is the body's name-establishing a place of business, or<lf> carrying on a business, within the State or Territory; or<lf>    (c) if paragraph (b) does not apply-carrying on business under the name in<lf> the State or Territory. </lf></lf></lf></lf></lf></sect>
+<sect>             PART  II-THE  SNOWY  MOUNTAINS  ENGINEERING  CORPORATION<lf>   6\. (1) There is hereby established a body under the name ''Snowy Mountains Engineering Corporation''.<lf> 
+
+  (2) The Corporation-<lf> <lf>   (a)  is a corporation sole with perpetual succession and an official seal; and <lf> <lf>   (b)  is capable, in its corporate name and in Australia or elsewhere, of acquiring, holding and disposing of real and personal property and of suing and being sued.<lf> <p>  (3) All courts, judges and persons acting judicially shall take judicial notice of the official seal of the Corporation affixed to a document and shall presume that it was duly affixed.<lf> </lf></p></lf></lf></lf></lf></lf>
+</lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 3B Subsidiaries </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 7\. The Director. </name>
 </b>** 
 
 ## SECT
-<sect>   3B. For the purposes of this Act, the question whether a body corporate is a subsidiary of another body corporate shall be determined in the same manner as the question whether a corporation is a subsidiary of another corporation is determined under the Companies Act 1981\. </sect>
+<sect>   7\. The Corporation shall be constituted by a Director, who shall be appointed by the Governor-General.<lf> </lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 3C Operation of Act </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 8\. Assistant Directors. </name>
 </b>** 
 
 ## SECT
-<sect>   3C. This Act applies both within and outside Australia. </sect>
+<sect>   8\. (1) The Director shall be assisted by two Assistant Directors, each of whom shall be appointed by the Governor-General.<lf> 
+
+  (2) An Assistant Director shall-<lf> <lf>   (a)  give such advice and assistance to the Director as the Director requires; and<lf> <lf>   (b)  perform such duties as the Director determines.<lf> </lf></lf></lf></lf></lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 3D Extension to external Territories </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 9\. Tenure of office of Director and Assistant Directors. </name>
 </b>** 
 
 ## SECT
-<sect>   3D. This Act extends to all external Territories. </sect>
+<sect>   9\. (1) Subject to this Act, a person appointed as the Director or as an Assistant Director holds office for such period, not exceeding seven years, as is specified in the instrument of his appointment but is eligible for re-appointment.<lf> 
+
+  (2)  A person who has attained the age of sixty-five years shall not be appointed or re-appointed as the Director or as an Assistant Director.<lf> <p>  (3) A person shall not be appointed or re-appointed as the Director or as an Assistant Director for a period that extends beyond the date on which he will attain the age of sixty-five years.<lf> <p>  (4) The Director or an Assistant Director may resign his office by writing under his hand addressed to the Governor-General, but the resignation does not have effect until accepted by the Governor-General.<lf> </lf></p></lf></p></lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - PART III  PART III-ADDITIONAL FUNCTIONS AND POWERS OF SMEC </name>
-</b>** 
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 17 Additional functions </name>
-</b>** 
-
-## SECT
-<sect>   17.(1) The functions of SMEC include investigating, advising on, designing, supervising, and constructing, engineering works.<lf>   (2) A function of SMEC under subsection (1) is exercisable:<lf>    (a) in or in relation to a Territory-in relation to any matter; and<lf>    (b) in any other case-in relation to any matter with respect to which the<lf> Parliament has power to make laws.<lf>   (3) The Minister may, in writing, approve the exercise by SMEC of a function referred to in subsection (1).<lf>   (4) This section has effect subject to the Companies Act 1981 and to SMEC's memorandum and articles. </lf></lf></lf></lf></lf></lf></sect>
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 18 Additional powers </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 10\. Salaries and allowances. </name>
 </b>** 
 
 ## SECT
-<sect>   18.(1) SMEC has power to do all things necessary or convenient to be done for, or in connection with, the performance of a function referred to in subsection 17 (1).<lf>   (2) Subsection (1) shall not be taken to limit by implication any power that SMEC has apart from that subsection.<lf>   (3) This section has effect subject to the Companies Act 1981 and to SMEC's memorandum and articles. </lf></lf></sect>
+<sect> Sub-section (1) substituted by No. 125, 1970, s. 3; amended by No. 22, 1971, s. 3.<lf>   10\. (1) Subject to this Act-<lf> <lf>   (a)  the Director shall be paid salary at such rate, and an annual allowance (if any) at such rate, as the Parliament provides; and<lf> <lf>   (b)  each Assistant Director shall be paid salary at the rate of Sixteen thousand five hundred and twenty-eight dollars a year.*<lf> 
+
+  (2) The Director and each Assistant Director shall be paid such other allowances as are prescribed.<lf> </lf>
+</lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - PART IIIA  PART IIIA-CREATION OF CAPITAL STRUCTURE AND OTHER STEPS  PRIOR TO CONVERSION OF SMEC INTO A PUBLIC COMPANY </name>
-</b>** 
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 18A Share capital of SMEC </name>
-</b>** 
-
-## SECT
-<sect>   18A.(1) As from the commencement of this Part, SMEC shall have a share capital divided into shares of $1 each.<lf>   (2) As soon as practicable after the commencement of this Part, the Minister shall determine, in writing, whether SMEC is to issue shares under section 18B at par or at a premium per share of a specified amount.<lf>   (3) The amount of SMEC's share capital shall be the number of whole dollars in the amount ascertained in accordance with the formula:<lf>                                $5,207,807<lf>                                -----------<lf>                                Issue Price<lf> where:<lf>   Issue Price is the number of dollars in the amount that is the sum of:<lf>   (a) $1, being the nominal value of each of SMEC's shares; and<lf>   (b) the amount of the premium per share (if any) determined under subsection (2).<lf>   (4) As from the transition, this section has effect subject to the Companies Act 1981\. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 18B Issue of shares </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 11\. Leave of absence. </name>
 </b>** 
 
 ## SECT
-<sect>   18B.(1) As soon as practicable after the determination under subsection 18A (2) is made, SMEC shall apply an amount equal to the amount of its share capital in paying up, in full, shares in SMEC.<lf>   (2) As soon as practicable after complying with subsection (1), SMEC shall issue the shares paid up under that subsection:<lf>    (a) to the Commonwealth; or<lf>    (b) to nominees of the Commonwealth;<lf> as the Minister directs in writing.<lf>   (3) The issue of shares under subsection (2) discharges in full SMEC's obligations to repay to the Commonwealth the capital that SMEC has by virtue of section 41.<lf>   (4) The shares issued under subsection (2) shall be taken to have been issued for valuable consideration other than cash, being the discharge effected by subsection (3).<lf>   (5) If, under the determination made under subsection 18A (2), SMEC is to issue shares under this section at a premium, SMEC shall be taken:<lf>    (a) to have issued at a premium the shares issued under subsection (2); and<lf>    (b) to have received for those shares premiums of a total value equal to the<lf> amount by which $5,207,807 exceeds the amount of SMEC's share capital.<lf>   (6) An amount equal to the total value of the premiums that SMEC is, under paragraph (5) (b), taken to have received shall be transferred by SMEC to an account maintained by it, to be called the 'share premium account'.<lf>   (7) A person is not a member of SMEC at any time before the transition merely because the person holds shares in SMEC. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   11\. The Minister may grant leave of absence to the Director or to an Assistant Director upon such terms and conditions as to payment of salary or otherwise as the Minister determines.<lf> </lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 18C SMEC to apply to be registered as company etc. </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 12\. Termination of appointment. </name>
 </b>** 
 
 ## SECT
-<sect>   18C.(1) SMEC shall, before the transition:<lf>    (a) apply to the National Companies and Securities Commission under<lf> subsection 85 (1) of the Companies Act 1981 to be registered as a company limited by shares within the meaning of that Act;<lf>    (b) apply to the National Companies and Securities Commission under<lf> subsection 55 (1) of the Companies Act 1981 for the reservation of the name 'Snowy Mountains Engineering Corporation Limited'; and<lf>    (c) lodge with the National Companies and Securities Commission a proposed<lf> memorandum, and proposed articles, for SMEC.<lf>   (2) The application mentioned in paragraph (1) (a) shall, subject to the regulations, be accompanied by the documents required by subsection 85 (4) of the Companies Act 1981 to accompany such an application.<lf>   (3) The applications mentioned in paragraphs (1) (a) and (b) shall be made to the National Companies and Securities Commission by delivering them to the office of the Corporate Affairs Commission for the Australian Capital Territory, and the documents mentioned in paragraph (1) (c) and subsection (2) shall be lodged with the National Companies and Securities Commission by lodging them at that office.<lf>   (4) SMEC shall be taken to be entitled to make the applications mentioned in paragraphs (1) (a) and (b), and to lodge the documents mentioned in paragraph (1) (c) and subsection (2).<lf>   (5) The National Companies and Securities Commission shall be taken:<lf>    (a) to have been required to reserve the name 'Snowy Mountains Engineering<lf> Corporation Limited' under subsection 55 (2) of the Companies Act 1981; and<lf>    (b) to have so reserved that name immediately after the making of the<lf> application mentioned in paragraph (1) (b). </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   12\. The Governor-General may terminate the appointment of the Director or of an Assistant Director for misbehaviour or physical or mental incapacity.<lf> </lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 18D New name of SMEC </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 13\. Acting Director. </name>
 </b>** 
 
 ## SECT
-<sect>   18D.(1) On the day immediately before the transition, SMEC's name is, by force of this subsection, changed to 'Snowy Mountains Engineering Corporation Limited'.<lf>   (2) Subsection 65 (5) of the Companies Act 1981 applies in relation to the change of name made by subsection (1) as if:<lf>    (a) SMEC were a company, within the meaning of that Act, when the change is<lf> made; and<lf>    (b) the change were made under that Act.<lf>   (3)  This section has effect in spite of anything in the Companies Act 1981, but nothing in this section prevents:<lf>    (a) SMEC from later changing its name under section 65 of that Act; or<lf>    (b) the cancellation, under Division 2 of Part III of that Act, of the<lf> registration of a name. </lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>  13\. (1) Where-<lf>   (a)  there is a vacancy in the office of Director, whether or not an appointment has previously been made to the office; or<lf> <lf>   (b)  the Director is, or is about to be, absent from Australia or, for any reason, unable to perform the functions of his office,<lf> the Governor-General may appoint a person who has not attained the age of sixty-five years to act as the Director until the filling of the vacancy or during the absence or inability.<lf> 
+
+  (2) The Governor-General may-<lf> <lf>   (a)  subject to this Act, determine the terms and conditions of appointment of an Acting Director; and<lf> <lf>   (b)  at any time, terminate such an appointment.<lf> <p>  (3) The appointment of an Acting Director made in anticipation of the absence or inability of the Director has effect from and including the day on which the absence or inability commences.<lf> <p>  (4) The appointment of an Acting Director remains in force until-<lf> <lf>   (a)  the appointment is terminated under sub-section (2) of this section;<lf> <lf>   (b)  if the appointment was made by reason of there being a vacancy in the office of Director-the vacancy is filled;<lf> <lf>   (c)  if the appointment was made by reason of, or in anticipation of, the absence or inability of the Director-the absence or inability ceases;<lf> <lf>   (d)  he attains the age of sixty-five years; or<lf> <lf>   (e)  he resigns the appointment by writing under his hand addressed to the Governor-General and the resignation is accepted by the Governor-General,<lf> whichever first happens.<lf> <p>  (5) While the appointment of an Acting Director remains in force, he has and may exercise all the powers and shall perform all the functions of the Director. <lf> <p>  (6) The appointment of an Acting Director by reason of, or in anticipation of, the absence or inability of the Director does not prevent the exercise of a power or the performance of a function by the Director.<lf> <p>  (7) The validity of an act done by a person appointed under this section shall not be questioned in any proceedings on the ground that the occasion for his appointment had not arisen or that the appointment had ceased to have effect.<lf> </lf></p></lf></p></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></p></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - PART IV  PART IV-CONVERSION OF SMEC INTO A PUBLIC COMPANY </name>
-</b>** 
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 19 Effect of Part-summary </name>
-</b>** 
-
-## SECT
-<sect>   19\. After the commencement of this Part:<lf>    (a) SMEC is a company registered under the Companies Act 1981;<lf>    (b) SMEC's name is 'Snowy Mountains Engineering Corporation Limited';<lf>    (c) SMEC is a public company, and a company limited by shares, within the<lf> meaning of the Companies Act 1981; and<lf>    (d) the Companies Act 1981 applies, subject to this Act, in relation to<lf> SMEC. </lf></lf></lf></lf></lf></lf></sect>
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 20 SMEC taken to be registered under Companies Act </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 14\. Vacation of office. </name>
 </b>** 
 
 ## SECT
-<sect>   20.(1) The National Companies and Securities Commission shall be taken:<lf>    (a) to have been required to grant the application mentioned in paragraph<lf> 18C (1) (a) of this Act and to register SMEC as a company under subsection 86 (2) of the Companies Act 1981;<lf>    (b) to have granted the application at the commencement of this Part;<lf>    (c) to have so registered SMEC, at the commencement of this Part:<lf>          (i) by the name 'Snowy Mountains Engineering Corporation Limited'; and<lf>          (ii) in accordance with subsections 86 (3) and (4) of the Companies<lf> Act 1981, as a public company, and as a company limited by shares, within the meaning of that Act; and<lf>    (d) to have registered the name 'Snowy Mountains Engineering Corporation<lf> Limited' in relation to SMEC at the commencement of this Part, under subsection 55 (4) of the Companies Act 1981.<lf>   (2) The date of commencement of SMEC's registration as a company under Division 4 of Part III of the Companies Act 1981 shall be taken to be the day of commencement of this Part.<lf>   (3) For the purposes of Division 4 of Part III of the Companies Act 1981, SMEC shall be taken to have been on the day before the commencement of this Part, and to be at that commencement, a corporation within the meaning of that Act. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   14\. Subject to the next succeeding section, if the Director or an Assistant Director-<lf> <lf>   (a)  engages in any paid employment outside the duties of his office without the approval of the Minister;<lf> <lf>   (b)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his creditors or makes an assignment of his salary for their benefit;<lf> <lf>   (c)  is absent from duty, except on leave granted by the Minister, for fourteen consecutive days or for twenty-eight days in any twelve months; or<lf> <lf>   (d)  in any way, otherwise than as a member, and in common with the other members, of an incorporated company consisting of not less than twenty-five persons-<lf> <lf>        (i)  becomes concerned or interested in a contract entered into by or on behalf of the Corporation; or<lf> <lf>       (ii)  participates or claims to participate in the profit of such a contract or in any benefit or emolument arising from such a contract,<lf> the Governor-General shall declare, by notice in the Gazette, that the appointment of the Director or Assistant Director has ceased to have effect, and thereupon the office shall be deemed to be vacant.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 21 Memorandum and articles of SMEC </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 15\. Certain persons holding office under Snowy Mountains Hydro-electric Power Act may be appointed to certain offices under this Act. </name>
 </b>** 
 
 ## SECT
-<sect>   21.(1) As from the commencement of this Part, the proposed memorandum, and the proposed articles, lodged under paragraph 18C (1) (c):<lf>    (a) are respectively the memorandum and articles of SMEC; and<lf>    (b) bind SMEC and its members accordingly.<lf>   (2) As from the commencement of this Part, the Companies Act 1981 applies in relation to SMEC's memorandum and articles as if they had been registered as such under that Act. </lf></lf></lf></sect>
+<sect> Sub-section (1) amended by No. 216, 1973, s. 3.<lf>   15\. (1) In this section-<lf> <lf>   ''compensation'' means compensation in accordance with the Compensation (Australian Government Employees) Act 1971-1973;<lf> <lf>   ''corresponding office'' means the office of Commissioner or Acting Commissioner, or an office of Associate Commissioner, under the Act;<lf> <lf>   ''executive office'' means the office of Director, or an office of Assistant Director, under this Act, and includes the position of a person appointed under section 13 of the Act to act as the Director;<lf> <lf>   ''the Act'' means the Snowy Mountains Hydro-electric Power Act 1949-1966.<lf> 
+
+  (2) A person holding a corresponding office may be appointed to an executive office and, if he is so appointed-<lf> <lf>   (a)  his holding of the corresponding office is not affected by reason of the appointment;<lf> <lf>   (b)  his holding of the executive office is not affected by reason of his holding, or receiving salary or allowances as the holder of, the corresponding office;<lf> <lf>   (c)  for the purposes of sub-sections (3A) and (4) of section 4 of the Superannuation Act 1922-1969, he shall not, while he holds both the executive office and the corresponding office, be deemed not to be required, by the terms of his appointment to the corresponding office, to give the whole of his time to the duties of the corresponding office by reason only of his holding the executive office;<lf> <lf>   (d)  the period during which he holds both the executive office and the corresponding office shall not be reckoned as a period of service in the executive office except for the purpose of ascertaining the date of expiration of his period of appointment to the executive office;<lf> <lf>   (e)  he shall not be paid salary under this Act in respect of the period during which he holds both the executive office and the corresponding office;<lf> <lf>   (f)  the Corporation shall pay to the Authority-<lf> <lf>        (i)  an amount equal to such proportion (if any) of the salary and allowances payable to him under the Act in respect of the period during which he holds both the executive office and the corresponding office; and<lf> <lf>      (ii)  an amount equal to such proportion (if any) of any other costs or expenses incurred by the Authority in relation to him during that period,<lf> <lf>     as the Minister determines; and<lf> <lf>   (g)  sections 37 and 39 of this Act do not apply to or in relation to him during the period during which he holds both the executive office and the corresponding office.<lf> <p>  (3) Where a person referred to in the last preceding sub-section is injured and the Corporation and the Authority would, but for this sub-section, be liable to pay compensation to or in respect of that person in respect of the injury-<lf> <lf>   (a)  that compensation shall not be paid by the Corporation but shall be paid by the Authority; and<lf> <lf>   (b)  the Corporation shall pay to the Authority such portion of the amount of that compensation as is agreed between the Corporation and the Authority, or, in default of agreement within such period as the Minister allows, as is determined by the Minister.<lf> </lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 22 Membership of SMEC </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 16\. Consultative Committee. </name>
 </b>** 
 
 ## SECT
-<sect>   22.(1) Each person who holds shares in SMEC at the commencement of this Part becomes, by force of this subsection, a member of SMEC at that commencement.<lf>   (2) A person referred to in subsection (1) is, in relation to membership of SMEC, entitled to the same rights, privileges and benefits, and is subject to the same duties, liabilities and obligations, as if the person had become a member of SMEC under SMEC's memorandum and articles. </lf></sect>
+<sect> Sub-section (1) amended by No. 74, 1973, s. 3.<lf>   16\. (1) For the purposes of this Act, there shall be a Consultative Committee, consisting of six members, namely:-<lf> <lf>   (a)  four members appointed in relation to engineering works in Australia and elsewhere, of whom two shall be representative of the engineering profession; and<lf> <lf>   (b)  two members appointed in relation to engineering works outside Australia, of whom one shall be representative of the Department of Foreign Affairs and one shall be representative of the Department of Overseas Trade.<lf> 
+
+  (2) A member of the Consultative Committee-<lf> <lf>   (a)  shall be appointed by the Minister; and<lf> <lf>   (b)  holds office on such terms and conditions as the Minister determines.<lf> <p>  (3) The manner in which the Consultative Committee shall conduct its business (including the manner in which it is to reach decisions) shall be as determined by the Minister in writing.<lf> <p>  (4) The Minister may request the Consultative Committee to advise him whether a function of the Corporation under the next succeeding section should be exercised by the Corporation in respect of a particular engineering work and, if so, how that function should be exercised by the Corporation in respect of that work, and the Committee shall advise the Minister accordingly.<lf> <p>  (5) Where a member of the Committee disagrees with the advice that the Committee proposes to furnish to the Minister on a matter, that member may furnish his separate advice to the Minister on that matter.<lf> </lf></p></lf></p></lf></p></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 23 Application of certain provisions of Companies Act </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 17\. Functions of the Corporation. </name>
 </b>** 
 
 ## SECT
-<sect>   23.(1) Where all the shares in SMEC are beneficially owned by the Commonwealth, subsection 82 (1) and paragraph 364 (1) (d) of the Companies Act 1981 do not apply in relation to SMEC and subsection 244 (6) of that Act applies in relation to SMEC as if:<lf>    (a) the Commonwealth were a holding company, within the meaning of that<lf> subsection, of SMEC;<lf>    (b) the Commonwealth held the whole of the issued shares in SMEC; and<lf>    (c) the Minister were a representative of the Commonwealth authorised under<lf> subsection 244 (3) of that Act.<lf>   (2) Paragraph 86 (6) (b) and subsections 87 (4) and 90 (5) of the Companies Act 1981 do not apply in relation to SMEC.<lf>   (3) The Companies Act 1981 applies in relation to the account referred to in subsection 18B (6) as if the account were a share premium account referred to in section 119 of that Act.<lf>   (4) For the purposes of section 360 of the Companies Act 1981, a person is not a past member of SMEC merely because he or she was a Director of SMEC or acted as a Director of SMEC before the commencement of this Part. </lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>              PART  III-FUNCTIONS  AND  POWERS  OF  THE  CORPORATION<lf> Sub-section (1) amended by No. 74, 1973, s. 4.<lf>   17\. (1) Subject to this section, the functions of the Corporation are-<lf> <lf>   (a)  the carrying out of investigations, and the furnishing of advice, in relation to water resources in Australia or elsewhere;<lf> <lf>   (b)  the carrying out of investigations, and the furnishing of advice, in relation to-<lf> <lf>       (i)  soils or rocks; or<lf> <lf>      (ii)  materials used in the construction of engineering works,<lf> <lf>     in Australia or elsewhere;<lf> <lf>   (c)  the carrying out of investigations, and the furnishing of advice, in relation to the sites, designs or construction of engineering works in Australia or elsewhere;<lf> <lf>   (d)  the designing of engineering works in Australia or elsewhere;<lf> <lf>   (e)  the supervision of contracts for the construction of engineering works in Australia or elsewhere, that is to say, the furnishing of advice, and the doing of other things, necessary for ensuring the proper performance by the contractors of their obligations under those contracts; and<lf> <lf>   (f)  the construction of, or the performance of any work in relation to the construction of, engineering works in Australia or elsewhere,<lf> either alone or in association with other persons.<lf> 
+
+  (2)  A function of the Corporation under the last preceding sub- section is exercisable-<lf> <lf>   (a)  in or in relation to a Territory-in relation to any matter; and<lf> <lf>   (b)  in any other case-in relation to any matter with respect to which the Parliament has power to make laws.<lf> Amended by No. 74, 1973, s. 4\. <p>  (3) The Corporation shall not, in the exercise of its functions under sub-section (1) of this section, undertake, either alone or in association with other persons-<lf> <lf>   (a)  the carrying out of an investigation;<lf> <lf>   (b)  the furnishing of any advice;<lf> <lf>   (c)  the designing of an engineering work;<lf> <lf>   (d)  the supervision of a contract; or<lf> <lf>   (e)  the construction of, or the performance of any work in relation to the construction of, an engineering work,<lf> except with the approval of the Minister and in accordance with any conditions to which the approval is expressed to be subject.<lf> Substituted by No. 74, 1973, s. 4\. <p>  (4) The Minister may, by writing under his hand, direct that sub-section (3) does not apply in relation to matters included in a particular class.<lf> Sub-section (5) omitted by No. 74, 1973, s. 4.<lf>                          *   *   *   *   *   *   *   *<lf> Amended by No. 74, 1973, s. 4\. <p>  (6) Notwithstanding sub-section (2) of this section, it is the intention of the Parliament that the Corporation may perform a function of any of the kinds specified in sub-section (1) of this section in pursuance of an authority conferred on the Corporation by a law of a State, but the provisions of sub-sections (3) and (4) of this section apply in relation to any such performance of a function by the Corporation.<lf> </lf></p></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 24 Accounting records </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 18\. Powers of the Corporation. </name>
 </b>** 
 
 ## SECT
-<sect>   24\. For the purposes of the Companies Act 1981, accounts and records kept under section 63F of the Audit Act 1901 (as that section applied in relation to SMEC because of this Act) shall be taken to be accounting records kept by SMEC under a provision of a previous law of the Australian Capital Territory, being a provision corresponding to section 267 of the Companies Act 1981\. </sect>
+<sect>   18\. The Corporation has power to do, in Australia or elsewhere, all things necessary or convenient to be done for or in connexion with, or as incidental to, the performance of its functions under this Act, including the making of contracts providing for the performance of any of the functions of the Corporation in particular cases and the payments to be made to the Corporation in respect of the performance of those functions.<lf> </lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 25 Accounts </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 19\. </name>
 </b>** 
 
 ## SECT
-<sect>   25.(1) This section has effect for the purposes of:<lf>    (a) the Companies Act 1981; and<lf>    (b) the Companies (Transitional Provisions) Act 1981 as it applies in<lf> relation to, and in relation to persons and matters associated with, SMEC because of subsection 90 (6) of the Companies Act 1981.<lf>   (2) A report and financial statements that were prepared under section 63H of the Audit Act 1901 (as that section applied in relation to SMEC because of this Act) in relation to a period and furnished to the Minister on a particular day shall be taken to be a profit and loss account of SMEC that was:<lf>    (a) made out in relation to that period; and<lf>    (b) laid before SMEC at an annual general meeting of SMEC held on that day.<lf> </lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>                                  PART  IV-STAFF<lf> Officers and employees.<lf>   19\. The Corporation may, in Australia or elsewhere, appoint as officers and engage as employees such persons as it thinks necessary for the purposes of this Act.<lf> </lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 26 Operation of section 25B of Acts Interpretation Act </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 20\. Transfers from the Authority. </name>
 </b>** 
 
 ## SECT
-<sect>   26\. Nothing in this Act or in the Companies Act 1981 affects, or is affected by, section 25B of the Acts Interpretation Act 1901 as that section applies in relation to SMEC. </sect>
+<sect>   20\. (1) The Corporation and the Authority may make an arrangement with a person who is an officer, temporary officer or temporary employee of the Authority for or in relation to the transfer of that person to the employment of the Corporation as an officer or employee.<lf> 
+
+  (2) An arrangement made with a person under this section has effect from and including the day specified for the purpose in the arrangement.<lf> <p>  (3) On the day from and including which an arrangement made with a person under this section has effect, that person, by force of this sub-section-<lf> <lf>   (a)  ceases to be an officer, temporary officer or temporary employee, as the case may be, of the Authority; and<lf> <lf>   (b)  is, in accordance with the arrangement, transferred to the employment of the Corporation.<lf> <p>  (4) Where a person is, by force of the last preceding sub-section, transferred to the employment of the Corporation in accordance with an arrangement made under this section-<lf> <lf>   (a)  he becomes, for the purposes of this Act, an officer or employee, as the case may be;<lf> <lf>   (b)  his service as an officer, temporary officer or temporary employee of the Authority during a continuous period immediately preceding the day on which he is so transferred shall, for the purposes of this Act, be taken into account as if it were service in the employment of the Corporation; and<lf> <lf>   (c)  he preserves his eligibility for the grant of leave of absence for recreation or during illness that had accrued immediately before the day on which he is so transferred.<lf> <p>  (5) Where a person is, by force of sub-section (3) of this section, transferred to the employment of the Corporation, the Corporation and the Authority may enter into an agreement providing for or in relation to the share that each shall bear of any amount that may become payable to or in respect of that person in respect of his entitlement to leave of absence for recreation or long service leave.<lf> </lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - PART VA  PART VA-USE OF CERTAIN NAMES </name>
-</b>** 
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39A Protected body may operate under protected company name </name>
-</b>** 
-
-## SECT
-<sect>   39A. A protected body whose name is a protected company name may operate under the name in a State or Territory even if the name is not registered in relation to the body under a particular law, or any law, in force in the State or Territory. </sect>
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39B Protected body may operate under protected business name </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 21\. Terms and conditions of employment. </name>
 </b>** 
 
 ## SECT
-<sect>   39B.(1) A protected body may operate under a protected business name in a State or Territory even if the name is not registered in relation to the body under a particular law, or any law, in force in the State or Territory.<lf>   (2) Nothing in this section permits more than one body to operate under the same name at the same time in the same State or Territory. </lf></sect>
+<sect>   21\. The terms and conditions of employment of officers and employees are such as are determined by the Corporation with the approval of the Public Service Board.<lf> </lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39C Other persons not to use protected names </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 22\. Arrangements with Authority for performance of work and services. </name>
 </b>** 
 
 ## SECT
-<sect>   39C.(1) A person other than a protected body shall not:<lf>    (a) use in relation to a business, trade, profession or occupation;<lf>    (b) use as the name, or as part of the name, of any firm, body corporate,<lf> institution, premises, vehicle, ship or craft (including aircraft);<lf>    (c) apply, as a trade mark or otherwise, to goods imported, manufactured,<lf> produced, sold, offered for sale or let for hire; or<lf>    (d) use in relation to:<lf>          (i) goods or services; or<lf>          (ii) the promotion, by any means, of the supply or<lf> use of goods or services;<lf> a protected name, or a name so closely resembling a protected name as to be likely to be mistaken for it.<lf>   Penalty: $1,000.<lf>   (2) Nothing in subsection (1) limits anything else in that subsection. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   22\. (1) The Corporation and the Authority may make an arrangement for or in relation to the performance of any work or services for the Corporation by an officer, temporary officer or temporary employee of the Authority.<lf> 
+
+  (2) In particular, and without limiting the generality of the last preceding sub-section, an arrangement made under this section may make provision for or in relation to-<lf> <lf>   (a)  the rate of payment to be made by the Corporation to the Authority for the work or services to be performed;<lf> <lf>   (b)  any matters with respect to the performance of the work or services; and <lf> <lf>   (c)  the shares that the Corporation and the Authority shall bear of any amount that may become payable under any law to or in relation to the officer, temporary officer or temporary employee of the Authority specified in the arrangement.<lf> </lf></lf></lf></lf></lf></lf></lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39D Exceptions for pre-existing rights </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 23\. Limitation on staff. </name>
 </b>** 
 
 ## SECT
-<sect>   39D.(1) Nothing in section 39C, so far as it applies in relation to a particular protected name, affects rights conferred by law on a person in relation to:<lf>    (a) a trade mark that is registered under the Trade Marks Act 1955; or<lf>    (b) a design that is registered under the Designs<lf> Act 1906;<lf> and was so registered at the protection time in relation to the name.<lf>   (2) Nothing in section 39C, so far as it applies in relation to a particular protected name, affects the use, or rights conferred by law relating to the use, of a name (in this subsection called the 'relevant name') by a person in a particular manner if, at the protection time in relation to the protected name, the person:<lf>    (a) was using the relevant name in good faith in that manner; or<lf>    (b) would have been entitled to prevent another person from passing off, by<lf> means of the use of the relevant name or a similar name, goods or services as the goods or services of the first-mentioned person. </lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   23\. (1) The Minister may, by instrument in writing, determine that the number of persons employed by the Corporation at any time shall not exceed the number specified in the instrument.<lf> 
+
+  (2) While an instrument under the last preceding sub-section is in force, the Corporation shall not employ a particular person if the number of persons employed by the Corporation would, upon the employment of that person, exceed the number specified in the instrument.<lf> <p>  (3) In this section, ''employ'', in relation to a person, means-<lf> <lf>   (a)  appoint or engage the person under section 19 of this Act;<lf> <lf>   (b)  make an arrangement with that person under section 20 of this Act; or<lf> <lf>   (c)  make an arrangement under the last preceding section for or in relation to the performance of work or services by that person.<lf> </lf></lf></lf></lf></lf></lf></lf></p></lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39E Use of other names by protected bodies </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 24\. Financial policy of Corporation. </name>
 </b>** 
 
 ## SECT
-<sect>   39E. This Part does not prevent a protected body from operating in a State or Territory under a name other than a protected name. </sect>
+<sect>                                 PART V-FINANCES<lf>   24\. In the exercise of its functions the Corporation shall pursue a policy directed towards securing, in each financial year, revenue sufficient-<lf> <lf>   (a)  to meet the expenditure of the Corporation properly chargeable to revenue of that year;<lf> <lf>   (b)  to enable the Corporation to make provision for income tax; and<lf> <lf>   (c)  to permit the payment to the Commonwealth of a reasonable return on the capital of the Corporation.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39F Effect on State and Territory laws </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 25\. Capital of the Corporation. </name>
 </b>** 
 
 ## SECT
-<sect>   39F. This Part does not prevent a protected body from registering a name under a law of a State or Territory. </sect>
+<sect>   25\. (1) The Treasurer may make available to the Corporation, out of moneys appropriated by the Parliament for the purpose, such amounts as are, in the opinion of the Minister, required by the Corporation.<lf> 
+
+  (2) The capital of the Corporation consists of the amounts made available by the Treasurer to the Corporation under the last preceding sub-section less any amounts of capital repaid by the Corporation to the Commonwealth.<lf> <p>  (3) Interest is not payable to the Commonwealth on the capital of the Corporation.<lf> </lf></p></lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - PART VB  PART VB-STAFF MATTERS </name>
-</b>** 
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39G Employment of staff members continues after transition </name>
-</b>** 
-
-## SECT
-<sect>   39G. Subject to this Part, each staff member continues, at and after the transition, to be employed by SMEC on the terms and conditions on which he or she was employed by SMEC immediately before the transition. </sect>
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39H Act not to affect certain matters relating to staff members </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 26\. Payments to Commonwealth. </name>
 </b>** 
 
 ## SECT
-<sect>   39H.(1) This section has effect for the purposes of the application, at any time at or after the transition, of a law, award, determination or agreement in relation to the employment of a staff member.<lf>   (2) Neither his or her contract of employment, nor his or her period of employment, shall be taken to have been broken by the operation of this Act.<lf>   (3) Without limiting section 39G or subsection (2) of this section, this Act does not affect any accrued rights that the staff member had immediately before the transition in relation to any kind of leave.<lf>   (4) Where:<lf>    (a) if the staff member had, immediately before the transition, ceased to be<lf> employed by SMEC, it would have been necessary to take into account a period during which the staff member was employed by SMEC or any other person to determine:<lf>          (i) an amount payable to the staff member; or<lf>          (ii) a benefit to which the staff member would have<lf> been entitled;<lf> because of his or her so ceasing; and<lf>    (b) but for this subsection, some or all of that period would not have to be<lf> taken into account as a period during which the staff member was employed by SMEC;<lf> SMEC shall treat the whole of the first-mentioned period as a period during which the staff member was employed by it. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   26\. (1) Where, in a financial year, the revenue of the Corporation is more than sufficient-<lf> <lf>   (a)  to meet the expenditure of the Corporation properly chargeable to revenue of that year; and<lf> <lf>   (b)  to enable the Corporation to make provision for income tax,<lf> the Corporation shall pay to the Commonwealth, out of the surplus, such amount, if any, as the Minister, with the concurrence of the Treasurer, determines in relation to that year.<lf> 
+
+  (2) The capital of the Corporation is repayable to the Commonwealth at such times and in such amounts as the Minister, with the concurrence of the Treasurer, determines.<lf> <p>  (3) For the purposes of a determination under either of the last two preceding sub-sections, the Minister and the Treasurer shall have regard to any advice that the Corporation has furnished to the Minister in re- lation to its financial affairs.<lf> </lf></p></lf>
+</lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39J Effect of sections 39G and 39H </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 27\. Borrowing by Corporation. </name>
 </b>** 
 
 ## SECT
-<sect>   39J. Sections 39G and 39H are enacted only for the avoidance of doubt and, in particular, do not limit subsection 65 (5) or 87 (2) of the Companies Act 1981\. </sect>
+<sect> Substituted by No. 74, 1973, s. 5.<lf>   27\. (1) The Corporation may, with the approval of the Treasurer, borrow moneys from time to time in such amounts as the Minister certifies are, in his opinion, necessary for the exercise of its powers or the performance of its functions under this Act.<lf> 
+
+  (2) The Treasurer may, on behalf of the Commonwealth, out of moneys appropriated by the Parliament for the purpose, lend to the Corporation, at such rate of interest and on such other terms and conditions as he determines, moneys that the Corporation is authorized to borrow under the last preceding sub-section.<lf> <p>  (3) The Corporation may give security over the whole or any part of its assets for the repayment of amounts borrowed under this section and the payment of interest on amounts so borrowed.<lf> <p>  (4) The Treasurer may, on behalf of the Commonwealth, guarantee the repayment by the Corporation of amounts borrowed under this section otherwise than from the Commonwealth and the payment of interest on amounts so borrowed.<lf> <p>  (5) The Corporation shall not borrow moneys except in accordance with this section.<lf> </lf></p></lf></p></lf></p></lf>
+</lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39K Variation of terms and conditions of employment </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 28\. Bank accounts. </name>
 </b>** 
 
 ## SECT
-<sect>   39K.(1) It is a term of each staff member's employment after the transition that the terms and conditions of that employment may be varied to the extent to which, and in the manner in which, the terms and conditions of his or her employment could, immediately before the transition, be varied under this Act.<lf>   (2) Nothing in this Part prevents the terms and conditions of a staff member's employment after the transition from being varied:<lf>    (a) in accordance with those terms and conditions; or<lf>    (b) by or under a law, award, determination or agreement.<lf>   (3) In this section:<lf>   'terms and conditions' includes a term or condition existing because of subsection (1);<lf>   'vary', in relation to terms and conditions, includes vary by way of:<lf>    (a) omitting any of those terms and conditions;<lf>    (b) adding to those terms and conditions; or<lf>    (c) substituting new terms or conditions for any of those terms and<lf> conditions. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   28\. (1) The Corporation may open and maintain an account or accounts with an approved bank or approved banks and shall maintain at all times at least one such account.<lf> 
+
+  (2) The Corporation shall pay all moneys of the Corporation into an account referred to in this section.<lf> </lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39L Application of Part IV of Public Service Act </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 29\. Application of moneys. </name>
 </b>** 
 
 ## SECT
-<sect>   39L. For the purposes of the application of Part IV of the Public Service Act 1922 in relation to a staff member, SMEC shall be taken to be, at and after the transition, a Commonwealth authority for the purposes of that Part. </sect>
+<sect>   29\. (1) Subject to the next succeeding sub-section, the moneys of the Corporation shall be applied by the Corporation-<lf> <lf>   (a)  in payment or discharge of the expenses and other obligations of the Corporation and in making any other payment authorized or required by or under this Act to be made by the Corporation;<lf> <lf>   (b)  in payment of the salaries and allowances of the Director and of the Assistant Directors and of any Acting Directors;<lf> <lf>   (c)  in payment of the fees and allowances, if any, of members of the Consultative Committee appointed under section 16 of this Act; and<lf> <lf>   (d)  in repayment of advances made to the Corporation by the Treasurer under this Act in accordance with the terms upon which those advances were made.<lf> 
+
+  (2) Any moneys of the Corporation not immediately required for the purposes for which they are to be applied by virtue of the last preceding sub-section may be invested-<lf> <lf>   (a)  on fixed deposit with an approved bank;<lf> <lf>   (b)  in securities of the Commonwealth; or<lf> <lf>   (c)  in any other manner determined by the Treasurer,<lf> and this Act applies in relation to the income of the Corporation derived from the investment of any such moneys as it applies in relation to those moneys.<lf> </lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - PART VC  PART VC-TAXATION MATTERS </name>
-</b>** 
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39M Interpretation </name>
-</b>** 
-
-## SECT
-<sect>   39M. In this Part:<lf>   'exempt matter' means:<lf>    (a) the issue of shares under subsection 18B (2);<lf>    (b) the reservation of name made by paragraph 18C (5) (b);<lf>    (c) the change of name made by subsection 18D (1);<lf>    (d) SMEC's registration as a company by force of this Act;<lf>    (e) the operation of this Act; or<lf>    (f) giving effect to a matter referred to in another paragraph of this<lf> definition or otherwise giving effect to this Act;<lf>   'tax' includes:<lf>    (a) sales tax;<lf>    (b) tax imposed by the Debits Tax Act 1982;<lf>    (c) fees payable under the Companies (Fees) Act 1981;<lf>    (d) stamp duty; and<lf>    (e) any other tax, fee, duty, levy or charge;<lf> but does not include income tax imposed as such by a law of the Commonwealth. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39N Exemptions relating to exempt matters </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 30\. Transfer of reserve for future or contingent liabilities. </name>
 </b>** 
 
 ## SECT
-<sect>   39N. Tax under a law of the Commonwealth or a State or Territory is not payable in relation to:<lf>    (a) an exempt matter; or<lf>    (b) anything done (including a transaction entered into or an instrument or<lf> document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, an exempt matter. </lf></lf></lf></sect>
+<sect>   30\. Where, in a financial year, the revenue of the Corporation is more than sufficient-<lf> <lf>   (a)  to meet the expenditure of the Corporation properly chargeable to revenue of that year;<lf> <lf>   (b)  to enable the Corporation to make provision for income tax; and<lf> <lf>   (c)  to make payments to the Commonwealth in accordance with section 26 of this Act,<lf> the Corporation shall transfer the amount of the surplus to a reserve for future or contingent liabilities.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39P Authorised person may certify in relation to exemptions </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 31\. Proper accounts to be kept. </name>
 </b>** 
 
 ## SECT
-<sect>   39P.(1) An authorised person may, by signed writing, certify that:<lf>    (a) a specified matter or thing is an exempt matter; or<lf>    (b) a specified thing was done (including, for example, a transaction<lf> entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, a specified exempt matter.<lf>   (2) For all purposes and in all proceedings, a certificate under subsection (1) is conclusive evidence of the matters certified, unless the contrary is established. </lf></lf></lf></lf></sect>
+<sect>   31\. The Corporation shall cause to be kept proper accounts and records of the transactions and affairs of the Corporation in accordance with the accounting principles generally applied in commercial practice and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorized and that adequate control is maintained over the assets of, or in the custody of, the Corporation and over the incurring of liabilities by the Corporation.<lf> </lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 39Q SMEC taken to have had share capital for purposes of Income Tax Assessment Act </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 32\. Power to purchase and dispose of assets. </name>
 </b>** 
 
 ## SECT
-<sect>   39Q. For the purposes of the Income Tax Assessment Act 1936, SMEC shall be taken to have had, at all times before it complied with subsection 18B (2) of this Act, a share capital, all the issued shares in which were, at all such times, beneficially owned by the Commonwealth. </sect>
+<sect> Sub-section (1) amended by No. 74, 1973, s. 6.<lf>   32\. (1) The Corporation shall not, without the approval of the Minister-<lf> <lf>   (a)  acquire any property, right or privilege for a consideration exceeding in amount or value One hundred thousand dollars or, if a higher amount or value is prescribed, that higher amount or value;<lf> <lf>   (b)  dispose of any property, right or privilege where the amount or value of the consideration for the disposal, or the value of the property, right or privilege, exceeds One hundred thousand dollars or, if a higher amount or value is so prescribed, that higher amount or value;<lf> <lf>   (c)  enter into a lease of land for a period exceeding ten years; or<lf> <lf>   (d)  enter into an agreement for the provision of services to the Corporation where the amount or value of the consideration for the provision of the services exceeds One hundred thousand dollars or, if a higher amount or value is prescribed, that higher amount or value.<lf> Added by No. 74, 1973, s. 6\. 
+
+  (2) The taking on lease or the purchase of land or buildings required for the purposes of the Corporation shall be effected under the Lands Acquisition Act 1955-1966.<lf> </lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - PART VII  PART VII-MlSCELLANEOUS </name>
-</b>** 
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 51 SMEC not public authority etc. </name>
-</b>** 
-
-## SECT
-<sect>   51\. SMEC, as it exists after the transition, shall be taken for the purposes of a law of the Commonwealth or a State or Territory:<lf>    (a) not to have been incorporated or established for a public purpose or for<lf> a purpose of the Commonwealth; and<lf>    (b) not to be a public authority or an instrumentality<lf> or agency of the Crown;<lf> except so far as express provision is made by a law of the Commonwealth, State or Territory, as the case may be. </lf></lf></lf></lf></lf></sect>
-**<b>
-
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 52 Judicial notice of SMEC's seal </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 33\. Audit. </name>
 </b>** 
 
 ## SECT
-<sect>   52.(1) All courts, judges and persons acting judicially shall take judicial notice of the imprint of SMEC's seal appearing on a document and shall presume that it was duly affixed.<lf>   (2) Subection (1) applies only in relation to an imprint that was affixed, or appears to have been affixed, before the transition. </lf></sect>
+<sect>   33\. (1) The Auditor-General shall inspect and audit the accounts and records of financial transactions of the Corporation and records relating to assets of, or in the custody of, the Corporation, and shall forthwith draw the attention of the Minister to any irregularity disclosed by the inspection and audit that is, in the opinion of the Auditor-General, of sufficient importance to justify his so doing.<lf> 
+
+  (2) The Auditor-General may, at his discretion, dispense with all or any part of the detailed inspection and audit of any accounts or records referred to in the last preceding sub-section.<lf> <p>  (3) The Auditor-General shall, at least once in each year, report to the Minister the results of the inspection and audit carried out under sub-section (1) of this section.<lf> <p>  (4) The Auditor-General or an officer authorized by him is entitled at all reasonable times to full and free access to all accounts, records, documents and papers of the Corporation relating directly or indirectly to the receipt or payment of moneys by the Corporation or to the acquisition, receipt, custody or disposal of assets by the Corporation.<lf> <p>  (5) The Auditor-General or an officer authorized by him may make copies of, or take extracts from, any such accounts, records, documents or papers.<lf> <p>  (6) The Auditor-General or an officer authorized by him may require any person to furnish him with such information in the possession of the person or to which the person has access as the Auditor-General or authorized officer considers necessary for the purposes of the functions of the Auditor-General under this Act, and the person shall comply with the requirement.<lf> <p>  (7) A person who contravenes the last preceding sub-section is guilty of an offence punishable, upon conviction, by a fine not exceeding Two hundred dollars.<lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 53 Compensation for acquisition of property </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 34\. Liability to taxation. </name>
 </b>** 
 
 ## SECT
-<sect>   53.(1) Where, but for this section, the operation of this Act would result in the acquisition of property from a person otherwise than on just terms, there is payable to the person by SMEC such reasonable amount of compensation as is agreed between the person and SMEC or, failing agreement, as is determined by a court of competent jurisdiction.<lf>   (2) Any damages or compensation recovered or other remedy given in proceedings that are instituted otherwise than under this section shall be taken into account in assessing compensation payable in proceedings that are instituted under this section and that arise out of the same event or transaction.<lf>   (3) In this section, 'acquisition of property' and 'just terms' have the same respective meanings as in paragraph 51 (31) of the Constitution. </lf></lf></sect>
+<sect>   34\. (1) The Corporation is subject to taxation under the laws of the Commonwealth and to such other taxation as the Minister specifies.<lf> 
+
+  (2) The Corporation is not a public authority for the purposes of paragraph (d) of section 23 of the Income Tax Assessment Act 1936-1969.<lf> </lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 54 Public Works Committee Act </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 35\. Reports to Minister. </name>
 </b>** 
 
 ## SECT
-<sect>   54\. The Public Works Committee Act 1969 does not apply in relation to SMEC. </sect>
+<sect>                              PART VI-MISCELLANEOUS<lf>   35\. The Corporation shall-<lf> <lf>   (a)  from time to time inform the Minister concerning the general conduct of its operations; and<lf> <lf>   (b)  furnish to the Minister such information relating to those operations as the Minister requires.<lf> </lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 54A Lands Acquisition Act </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 36\. Annual report of Corporation. </name>
 </b>** 
 
 ## SECT
-<sect>   54A.(1) The Lands Acquisition Act 1989 does not apply in relation to the acquisition of land, or an interest in land, by SMEC.<lf>   (2) In subsection (1):<lf>   'interest', in relation to land, means:<lf>    (a) a legal or equitable estate or interest in the land; or<lf>    (b) a right, power or privilege over, or in relation to, the land.<lf> </lf></lf></lf></lf></lf></sect>
+<sect>   36\. (1) The Corporation shall, as soon as practicable after each thirtieth day of June, prepare and furnish to the Minister a report of its operations during the year ended on that date, together with financial statements in respect of that year in such form as the Treasurer approves.<lf> 
+
+  (2) Before furnishing the financial statements to the Minister, the Corporation shall submit them to the Auditor-General, who shall report to the Minister-<lf> <lf>   (a)  whether the statements are based on proper accounts and records;<lf> <lf>   (b)  whether the statements are in agreement with the accounts and records and show fairly the financial operations and the state of the affairs of the Corporation;<lf> <lf>   (c)  whether the receipt, expenditure and investment of moneys, and the acquisition and disposal of assets, by the Corporation during the year have been in accordance with this Act; and<lf> <lf>   (d)  as to such other matters arising out of the statements, or out of an inspection and audit under section 33 of this Act, as the Auditor-General considers should be reported to the Minister.<lf> <p>  (3) The Minister shall lay the report and financial statements of the Corporation, together with the report of the Auditor-General, before each House of the Parliament within fifteen sitting days of that House after their receipt by the Minister.<lf> </lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 54B Additional powers and functions under State laws </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 37\. Preservation of rights. </name>
 </b>** 
 
 ## SECT
-<sect>   54B.(1) It is the intention of the Parliament that SMEC should have any additional powers and functions that are conferred on it by or under a law of a State.<lf>   (2) Subsection (1) has effect subject to the regulations. </lf></sect>
+<sect> Amended by No. 216, 1973, s. 3.<lf>   37\. Where, immediately before his appointment under this Act, the Director, an Assistant Director or an officer was an officer of the Public Service of the Commonwealth-<lf> <lf>   (a)  he retains his existing and accruing rights; and<lf> <lf>   (b)  for the purpose of determining those rights, his service under this Act shall be taken into account as if it were service in the Public Service of the Commonwealth.<lf> Section 38 repealed by No. 216, 1973, s. 3.<lf>                          *   *   *   *   *   *   *   *<lf> </lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970 - SECT 55 Regulations </name>
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 39\. Application of Superannuation Act. </name>
 </b>** 
 
 ## SECT
-<sect>   55\. The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:<lf>    (a) required or permitted by this Act to be prescribed; or<lf>    (b) necessary or convenient to be prescribed for<lf> carrying out or giving effect to this Act. </lf></lf></lf></sect>
+<sect>   39\. For the purposes of sub-sections (3A) and (4) of section 4 of the Superannuation Act 1922-1969, a person holding office as Director or Assistant Director shall be deemed to be required, by the terms of his appointment, to give the whole of his time to the duties of his office.<lf> </lf></sect>
+**<b>
+
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - SECT. 40\. Regulations. </name>
+</b>** 
+
+## SECT
+<sect>   40\. The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which, by this Act, are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.<lf> ------------------------------------------------------------------------------ -- <lf> </lf></lf></sect>
+**<b>
+
+### <name>SNOWY MOUNTAINS ENGINEERING CORPORATION ACT 1970-1973 - NOTES </name>
+</b>** <lf>                                      NOTES<lf> 1\.  The Snowy Mountains Engineering Corporation Act 1970-1973 comprises the Snowy Mountains Engineering Corporation Act 1970 as amended by the other Acts specified in the following table:<lf> ---------------------------------------------------------------------------- <lf> <lf>                                 Number                       Date of<lf>     Act                         and year        Date of<lf>                                                 Assent       commencement<lf> ---------------------------------------------------------------------------- <lf> <lf>     Snowy Mountains<lf>     Engineering Corporation<lf>     Act 1970                    No. 39, 1970    24 June 1970 24 June 1970<lf>     Snowy Mountains<lf>     Engineering Corporation<lf>     Act (No. 2) 1970            No. 125, 1970   11 Nov 1970  11 Nov 1970<lf>     Salaries Act 1971 (a)       No. 22, 1971    4 May 1971   14 Jan 1971<lf>     Snowy Mountains<lf>     Engineering Corporation<lf>     Act 1973                    No. 74, 1973    18 June 1973 18 June 1973<lf>     Statute Law Revision Act<lf>     1973                        No. 216, 1973   19 Dec 1973  31 Dec 1973<lf> ---------------------------------------------------------------------------- <lf> <lf>   (a)  The Salaries Act 1971 was repealed by section 7 of the Statute Law Revision Act 1973\. That section provides that the repeal does not affect the operation of any amendment made by the repealed Act or any provision made by it for the citation of an Act as so amended.<lf> 2.-S. 10 (1)-By section 15 of, and Schedule 4 to, the Remuneration and Allowances Acts 1973, the rate per annum of the salary applicable to the office of Assistant Director of the Snowy Mountains Engineering Corporation is $19,148\. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
