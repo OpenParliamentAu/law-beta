@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00359/Html/1ae6d2b9-bacd-4516-88e0-257f4288055d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00658/Html/50e6e9f2-e473-4fa7-8643-9f334b0dd3b6_files/image001.gif)
 
 # Terrorism Insurance Act 2003
 
 **Act No. 43 of 2003 as amended**
 
-This compilation was prepared on 29 March 2012
+This compilation was prepared on 23 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -146,7 +146,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australia"></a>**_Australia_** includes Norfolk Island.
 
-Note:          See also section 2B of the _Acts Interpretation Act 1901_ (which provides that in any Act **_Australia_** includes the Territory of Christmas Island and the Territory of Cocos (Keeling)  Islands) and section 15B of the _Acts Interpretation Act 1901_ (which includes the coastal sea).
+Note:          See also paragraph 17(a) of the _Acts Interpretation Act 1901_ (which includes the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands) and section 15B of the _Acts Interpretation Act 1901_ (which includes the coastal sea).
 
                     <a name="corpor"></a>**_Corporation_** means the Australian Reinsurance Pool Corporation established by section 9.
 
@@ -390,13 +390,21 @@ For the purposes of this subsection, **_protected contract_** means an eligible 
 
 ##### <a id="14"></a>14  Acting Chair
 
-                   The Minister may appoint a member to act as the Chair:
+             (1)  The Minister may appoint a member to act as the Chair:
 
                      (a)  during a vacancy in the office of Chair (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="15"></a>15  Additional terms and conditions of appointment of members
 
@@ -518,8 +526,6 @@ Note:          Subdivision B of Division 4 of Part 3 of th
 
                      (b)  during any period when the Chief Executive is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  If, at the end of the 3 month period:
 
                      (a)  there continues to be a vacancy in the office of Chief Executive; or
@@ -528,7 +534,15 @@ Note:          For rules that apply to acting appointments, se
 
 then the Minister, on the recommendation of the Corporation, may appoint a person to act as the Chief Executive.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
              (4)  An appointment under this section must be in writing.
 
@@ -743,114 +757,58 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 2 (items 
-1143–1148) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+1143–1148) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="69%">
-</colgroup>
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 14</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 27(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1143  Section 3 (note at the end of the definition of _Australia_)
+
+Omit “paragraph 17(a) of the _Acts Interpretation Act 1901_ (which”, substitute “section 2B of the _Acts Interpretation Act 1901_ (which provides that in any Act **_Australia_**”.
+
+## 1144  Subsection 14(1)
+
+Omit “(1)”.
+
+## 1145  At the end of subsection 14(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1146  Subsection 14(2)
+
+Repeal the subsection.
+
+## 1147  At the end of subsections 27(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1148  Subsection 27(3)
+
+Repeal the subsection.
+
+As at 23 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
