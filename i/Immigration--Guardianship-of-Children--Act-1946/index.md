@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00121/Html/ImmiGuardofChild1946_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00067/Html/ImmiGuardofChild1946_image001.gif)
 
 # Immigration (Guardianship of Children) Act 1946
 
 **Act No. 45 of 1946 as amended**
 
-This compilation was prepared on 15 March 2009
+This compilation was prepared on 8 January 2009
  taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force 
@@ -92,17 +92,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="non-citizen-child"></a>**_non-citizen child_** means a person who is a non-citizen child under subsection 4AAA(1) or (4).
 
-                    <a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of anyone for the purposes of this Act, a person is the **_parent_** of another person if the other person is a child of the person within the meaning of the _Family Law Act 1975_.
-
                     <a name="prescrib-adopt-class-visa"></a>**_prescribed adoption class visa_** means a visa under the _Migration Act 1958_ that is declared by the regulations to be an adoption class visa for the purposes of this Act.
-
-                    <a name="rel"></a>**_relative_** of a person includes:
-
-                     (a)  a parent of the person; and
-
-                     (b)  anyone who is a step-parent of the person or would be except that he or she is not legally married to his or her de facto partner (within the meaning of the _Acts Interpretation Act 1901_); and
-
-                     (c)  anyone else who would be a relative of the person if someone mentioned in paragraph (a) or (b) were a relative of the person.
 
 ##### <a id="4AAA"></a>4AAA  Non-citizen child
 
@@ -172,7 +162,7 @@ the Minister may, if the Minister is satisfied that it is necessary in the inter
 
 ##### <a id="6"></a>6  Guardianship of non-citizen children
 
-                   The Minister shall be the guardian of the person, and of the estate in Australia, of every non-citizen child who arrives in Australia after the commencement of this Act to the exclusion of the parents and every other guardian of the child, and shall have, as guardian, the same rights, powers, duties, obligations and liabilities as a natural guardian of the child would have, until the child reaches the age of 18 years or leaves Australia permanently, or until the provisions of this Act cease to apply to and in relation to the child, whichever first happens.
+                   The Minister shall be the guardian of the person, and of the estate in Australia, of every non-citizen child who arrives in Australia after the commencement of this Act to the exclusion of the father and mother and every other guardian of the child, and shall have, as guardian, the same rights, powers, duties, obligations and liabilities as a natural guardian of the child would have, until the child reaches the age of 18 years or leaves Australia permanently, or until the provisions of this Act cease to apply to and in relation to the child, whichever first happens.
 
 ##### <a id="6A"></a>6A  Non-citizen child not to leave Australia without consent
 
@@ -532,7 +522,7 @@ Remainder: 24 May 2001</div>
     <div>9 Dec 2008</div>
   </td>
   <td colspan="2">
-    <div>Schedule 10 (items 79–82): 15 Mar 2009 ( <i>see</i>F2009L00259)</div>
+    <div>Schedule 10 (items 79–82): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 10 (item 82) \[ <i>see</i>Table A]</div>
@@ -607,7 +597,7 @@ _(b)_    The _Immigration (Guardianship of Children) Act 1946_ was amended
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 29, 1952; No. 216, 1973; No. 84, 1983; No. 65, 1985; No. 45, 1994; No. 144, 2008</div>
+    <div>am. No. 29, 1952; No. 216, 1973; No. 84, 1983; No. 65, 1985; No. 45, 1994</div>
   </td>
 </tr>
 <tr>
@@ -655,7 +645,7 @@ _(b)_    The _Immigration (Guardianship of Children) Act 1946_ was amended
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 62, 1948; No. 216, 1973; No. 84, 1983; No. 144, 2008</div>
+    <div>am. No. 62, 1948; No. 216, 1973; No. 84, 1983</div>
   </td>
 </tr>
 <tr>
@@ -747,6 +737,38 @@ _(b)_    The _Immigration (Guardianship of Children) Act 1946_ was amended
   </td>
 </tr></table>
 
+### Note 2
+
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+
+The following amendments commence on 9 June 2009 unless proclaimed earlier:
+
+## Schedule 10
+
+## 79  Section 4
+
+Insert:
+
+                    <a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of anyone for the purposes of this Act, a person is the **_parent_** of another person if the other person is a child of the person within the meaning of the _Family Law Act 1975_.
+
+## 80  Section 4
+
+Insert:
+
+                    <a name="rel"></a>**_relative_** of a person includes:
+
+                     (a)  a parent of the person; and
+
+                     (b)  anyone who is a step-parent of the person or would be except that he or she is not legally married to his or her de facto partner (within the meaning of the _Acts Interpretation Act 1901_); and
+
+                     (c)  anyone else who would be a relative of the person if someone mentioned in paragraph (a) or (b) were a relative of the person.
+
+## 81  Section 6
+
+Omit “father and mother”, substitute “parents”.
+
+As at 8 January 2009 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -794,6 +816,8 @@ _Migration Legislation Amendment (Application of Criminal Code) Act 2001 (No. 
 * * *
 
 _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+
+The following provision commences on 9 June 2009 unless proclaimed earlier:
 
 ## Schedule 10
 
