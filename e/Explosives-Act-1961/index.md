@@ -1,720 +1,933 @@
-![](http://www.comlaw.gov.au/Details/C2005C00618/Html/db8aebb4-3795-4ecd-bf2a-3fb927989c6f_files/image001.gif)
+**
 
-# Explosives Act 1961
+###  EXPLOSIVES ACT 1961 
+**
 
-**Act No. 65 of 1961 as amended**
 
-This compilation was prepared on 10 October 2005
- taking into account amendments up to Act No. 121 of 2005
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-**Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[5](#5).            Interpretation                                                                                        1
+**
 
-[6](#6).            Act binds Crown                                                                                  1
+###  Long Title 
+**
+**
 
-[7](#7).            Act extends to Territories                                                                     1
+###  EXPLOSIVES ACT 1961<part>Part I&#151;Preliminary </part>
+**
+###  EXPLOSIVES ACT 1961- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Explosives Act 1961_.
 
-[7A](#7A).         Application of the _Criminal Code_                                                        2
+ 
+###  EXPLOSIVES ACT 1961- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on a date to be fixed by Proclamation.
 
-**Part II—Handling of explosives**
+ 
+###  EXPLOSIVES ACT 1961- SECT 5  Interpretation 
+In this Act, unless the contrary intention appears:
 
-[8](#8).            Interpretation                                                                                        3
+ 
+<dl compact=""><dl compact="">
 
-[9](#9).            Explosives to which this Part applies                                                   3
+_explosives_ means:
 
-[10](#10).          Regulations                                                                                          3
+ </dl></dl>
 
-[11](#11).          Orders relating to the berthing of vessels                                             4
+<dl compact=""><dl compact=""><dl compact="">
 
-[11A](#11A).       Orders relating to transporting explosives by railway                          4
+<dt>(a)</dt><dd>substances or articles capable of producing an explosive, incendiary or
 
-[12](#12).          Indemnity                                                                                             4
+pyrotechnic effect;</dd>
 
-**Part III—Control of Commonwealth explosives areas**
+<dt>(b)</dt><dd>substances or articles prescribed by the regulations to be explosives;
 
-[13](#13).          Interpretation                                                                                        6
+or</dd>
 
-[14](#14).          Regulations                                                                                          6
+<dt>(c)</dt><dd>containers that have contained a substance or article to which paragraph
 
-**Part IV—Miscellaneous**
+<dt>(a)</dt><dd>or (b) applies and have not been certified, in accordance with the
 
-[15](#15).          Orders                                                                                                  8
+regulations, to be free from explosives.
 
-[16](#16).          General provisions applicable to orders                                               8
+</dd></dd>
 
-[17](#17).          Date from which orders take effect                                                      8
+</dl></dl></dl>
 
-[18](#18).          Proof of instruments                                                                            8
+<def><dl compact=""><dl compact="">
 
-[19](#19).          Committees of advice                                                                           8
+_handling_ includes loading, unloading, discharging, stacking,
 
-[20](#20).          Offences                                                                                               9
+stowing, storing, transporting and any operation incidental to, or arising out
 
-[21](#21).          Regulations                                                                                          9
+of, any of those operations. _vessel_ means a ship, boat or other vessel used for any purpose on the sea or in navigation.  </dl></dl>
 
-**Notes** 
+**
 
-## An Act relating to Explosives
+###  EXPLOSIVES ACT 1961- SECT 6  Act binds Crown 
+**
 
-## Part I—Preliminary
+ <dl compact="">
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+		This Act binds the Crown in right of the Commonwealth or of a State and any
 
-                   This Act may be cited as the _Explosives Act 1961_.
+authority constituted by or under a law of the Commonwealth, of a State or of a
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+Territory.
 
-                   This Act shall come into operation on a date to be fixed by Proclamation.
+ </dl>
 
-##### <a id="5"></a>5  Interpretation
+**
 
-                   In this Act, unless the contrary intention appears:
+###  EXPLOSIVES ACT 1961- SECT 7  Act extends to Territories 
+**
 
-                    <a name="explos"></a>**_explosives_** means:
+ <dl compact="">
 
-                     (a)  substances or articles capable of producing an explosive, incendiary or pyrotechnic effect;
+<dt>(1)</dt><dd>This Act extends to all the Territories.</dd> <dt>(2)</dt><dd>Where a law, not being an Act, in force in a Territory is inconsistent with this Act or the regulations, or with an order under the regulations, that law is, to the extent of the inconsistency, of no effect. </dd> </dl>
 
-                     (b)  substances or articles prescribed by the regulations to be explosives; or
+**
 
-                     (c)  containers that have contained a substance or article to which paragraph (a) or (b) applies and have not been certified, in accordance with the regulations, to be free from explosives.
+###  EXPLOSIVES ACT 1961- SECT 7A  Application of the _Criminal Code_ 
+**
 
-                    <a name="handl"></a>**_handling_** includes loading, unloading, discharging, stacking, stowing, storing, transporting and any operation incidental to, or arising out of, any of those operations.
+ <dl compact="">
 
-                    <a name="vessel"></a>**_vessel_** means a ship, boat or other vessel used for any purpose on the sea or in navigation.
+		Chapter&#160;2 of the _Criminal Code_ applies to all offences created by
 
-##### <a id="6"></a>6  Act binds Crown
+this Act.
 
-                   This Act binds the Crown in right of the Commonwealth or of a State and any authority constituted by or under a law of the Commonwealth, of a State or of a Territory.
+ </dl>
 
-##### <a id="7"></a>7  Act extends to Territories
+<center>Back to Top</center>
 
-             (1)  This Act extends to all the Territories.
+<dl compact=""><dl compact="">
 
-             (2)  Where a law, not being an Act, in force in a Territory is inconsistent with this Act or the regulations, or with an order under the regulations, that law is, to the extent of the inconsistency, of no effect.
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
 
-##### <a id="7A"></a>7A  Application of the _Criminal Code_
+general principles of criminal responsibility.
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
+ </dl></dl>
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+<center>**
 
-## Part II—Handling of explosives
+###  EXPLOSIVES ACT 1961<part>Part II&#151;Handling of explosives </part>
+**</center>
 
-##### <a id="8"></a>8  Interpretation
+**
 
-                   In this Part, **_vessel_** does not include a vessel belonging to the naval forces of the Commonwealth or of another part of the Queen’s dominions.
+###  EXPLOSIVES ACT 1961- SECT 8  Interpretation 
+**
 
-##### <a id="9"></a>9  Explosives to which this Part applies
+ <dl compact="">
 
-                   This Part applies to explosives that:
+		In this Part, _vessel_ does not include a vessel belonging to the
 
-                     (a)  are the property of, or are in the possession or control of, the Commonwealth;
+naval forces of the Commonwealth or of another part of the Queen's dominions.
 
-                   (ab)  have been manufactured by the Commonwealth and, in pursuance of an arrangement made with the Commonwealth, are intended to be, or are being, exported from the Commonwealth; or
+ </dl>
 
-                     (b)  are the property of, or are in the possession or control of, the government or the naval, military or air forces of another country and are in the Commonwealth or a Territory with the approval of the Commonwealth for the purposes of, or a purpose related to, the defence of the Commonwealth.
+**
 
-##### <a id="10"></a>10  Regulations
+###  EXPLOSIVES ACT 1961- SECT 9  Explosives to which this Part applies 
+**
 
-             (1)  The regulations may make provision:
+ <dl compact="">
 
-                     (a)  for or in relation to, or for or in relation to any matter arising out of or incidental to, the handling of explosives to which this Part applies; and
+		This Part applies to explosives that:
 
-                     (b)  for or in relation to safety measures to be observed at, in or upon a place, vehicle, aircraft or vessel at, in, upon or in the vicinity of which there are explosives to which this Part applies.
+ </dl>
 
-             (2)  Before making regulations for or in relation to the handling in a port of explosives to which this Part applies, the Governor‑General shall take into consideration any recommendations with respect to the proposed regulations made to the Minister by the committee known as the Council of the Association of Australian Port and Marine Authorities.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="11"></a>11  Orders relating to the berthing of vessels
+<dt>(a)</dt><dd>are the property of, or are in the possession or control of, the
 
-             (1)  The regulations may empower a person to direct, by order, that a vessel in which explosives to which this Part applies are, or are to be, loaded may, for a purpose or purposes specified in the order, be berthed in a port so specified.
+Commonwealth;</dd>
 
-             (2)  The regulations may provide that where:
+<dt>(ab)</dt><dd>have been manufactured by the Commonwealth and, in pursuance of an
 
-                     (a)  the port specified in an order referred to in subsection (1) is a prescribed port; and
+arrangement made with the Commonwealth, are intended to be, or are being,
 
-                     (b)  the vessel to which the order relates is not provided with a berth in the port or is provided with a berth in the port that, in the opinion of the person who made the order, is not suitable for the purpose or purposes specified in the order;
+exported from the Commonwealth; or</dd>
+
+<dt>(b)</dt><dd>are the property of, or are in the possession or control of, the
+
+government or the naval, military or air forces of another country and are in
+
+the Commonwealth or a Territory with the approval of the Commonwealth for the
+
+purposes of, or a purpose related to, the defence of the Commonwealth.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  EXPLOSIVES ACT 1961- SECT 10  Regulations 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The regulations may make provision:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>for or in relation to, or for or in relation to any matter arising out of
+
+or incidental to, the handling of explosives to which this Part applies; and</dd>
+
+<dt>(b)</dt><dd>for or in relation to safety measures to be observed at, in or upon a
+
+place, vehicle, aircraft or vessel at, in, upon or in the vicinity of which
+
+there are explosives to which this Part applies.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Before making regulations for or in relation to the handling in a port of
+
+explosives to which this Part applies, the Governor-General shall take into
+
+consideration any recommendations with respect to the proposed regulations made
+
+to the Minister by the committee known as the Council of the Association of
+
+Australian Port and Marine Authorities.
+
+</dd> </dl>
+
+**
+
+###  EXPLOSIVES ACT 1961- SECT 11  Orders relating to the berthing of vessels 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The regulations may empower a person to direct, by order, that a vessel in
+
+which explosives to which this Part applies are, or are to be, loaded may, for
+
+a purpose or purposes specified in the order, be berthed in a port so
+
+specified.</dd> <dt>(2)</dt><dd>The regulations may provide that where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the port specified in an order referred to in subsection (1) is a
+
+prescribed port; and</dd>
+
+<dt>(b)</dt><dd>the vessel to which the order relates is not provided with a berth in the
+
+port or is provided with a berth in the port that, in the opinion of the person
+
+who made the order, is not suitable for the purpose or purposes specified in
+
+the order;
+
+</dd>
+
+</dl></dl></dl>
 
 that person may, by order, give such directions as are necessary for ensuring that the vessel is, for such period as is necessary, provided with a berth in the port that is so suitable.
 
-             (3)  Except in the case of explosives referred to in paragraph 9(ab) or (b), the powers conferred by regulations made by virtue of subsection (1) shall not be exercised otherwise than for a purpose related to the defence of the Commonwealth.
+<dl compact="">
 
-##### <a id="11A"></a>11A  Orders relating to transporting explosives by railway
+<dt>(3)</dt><dd>Except in the case of explosives referred to in paragraph 9(ab) or (b),
 
-             (1)  The regulations may empower a person to give, by order, such directions as are necessary for ensuring that such explosives to which this Part applies as are specified in the order are transported by railway between such places, on such day or days and in such manner as are so specified.
+the powers conferred by regulations made by virtue of subsection (1) shall not
 
-             (2)  Except in the case of explosives referred to in paragraph 9(ab) or (b), the powers conferred by regulations made by virtue of subsection (1) shall not be exercised otherwise than for a purpose related to the defence of the Commonwealth.
+be exercised otherwise than for a purpose related to the defence of the
 
-##### <a id="12"></a>12  Indemnity
+Commonwealth.
 
-             (1)  The Commonwealth may indemnify a person from and against all actions, proceedings, claims, demands, costs and expenses relating to any loss, damage or injury to any person or property attributable to explosives to which this Part applies or to the handling of explosives to which this Part applies.
+</dd> </dl>
 
-             (2)  An indemnity given under section 10 of the _Explosives Act 1952_, or that Act as amended, and in force immediately before the commencement of this Act has, after the commencement of this Act, the same force and effect as if:
+<center>Back to Top</center>
 
-                     (a)  the indemnity had been given under the last preceding subsection;
+**
 
-                     (b)  any reference in the indemnity to the _Explosives Act 1952_ or any amendment of that Act were a reference to this Act; and
+###  EXPLOSIVES ACT 1961- SECT 11A  Orders relating to transporting explosives by railway 
+**
 
-                     (c)  any reference in the indemnity to the regulations made under the _Explosives Act 1952_ or any amendment of that Act or to Explosives Regulations were a reference to regulations made under this Act for the purposes of this Part.
+ <dl compact="">
 
-## Part III—Control of Commonwealth explosives areas
+<dt>(1)</dt><dd>The regulations may empower a person to give, by order, such directions as
 
-##### <a id="13"></a>13  Interpretation
+are necessary for ensuring that such explosives to which this Part applies as
 
-                   In this Part:
+are specified in the order are transported by railway between such places, on
 
-                    <a name="commonwealth-explos-area"></a>**_Commonwealth explosives area_** means any Commonwealth land declared by the regulations to be an explosives area and, where any such land consists of a part of the bed of the sea, or of a bay, estuary or river, includes the waters above the land.
+such day or days and in such manner as are so specified.</dd> <dt>(2)</dt><dd>Except in the case of explosives referred to in paragraph 9(ab) or (b), the powers conferred by regulations made by virtue of subsection (1) shall not be exercised otherwise than for a purpose related to the defence of the Commonwealth. </dd> </dl>
 
-                    <a name="commonwealth-land"></a>**_Commonwealth land_** means land the property of the Commonwealth and includes any other land:
+**
 
-                     (a)  in which the Commonwealth has a legal or equitable estate or interest; or
+###  EXPLOSIVES ACT 1961- SECT 12  Indemnity 
+**
 
-                     (b)  over or in connexion with which the Commonwealth has a right, power or privilege.
+ <dl compact="">
 
-##### <a id="14"></a>14  Regulations
+<dt>(1)</dt><dd>The Commonwealth may indemnify a person from and against all actions,
 
-             (1)  The regulations may make provision for ensuring the safety of persons who are, and the protection from damage of property that is, in or in the vicinity of a Commonwealth explosives area.
+proceedings, claims, demands, costs and expenses relating to any loss, damage
 
-             (2)  Without limiting the generality of subsection (1), the regulations may make provision:
+or injury to any person or property attributable to explosives to which this
 
-                     (a)  for or in relation to, or for or in relation to any matter arising out of or incidental to, the handling of explosives and other goods in or in the vicinity of a Commonwealth explosives area;
+Part applies or to the handling of explosives to which this Part applies.</dd> <dt>(2)</dt><dd>An indemnity given under section 10 of the _Explosives Act 1952_, or that Act as amended, and in force immediately before the commencement of this Act has, after the commencement of this Act, the same force and effect as if: </dd> </dl>
 
-                     (b)  for or in relation to safety measures to be observed in or in the vicinity of a Commonwealth explosives area;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  prohibiting or regulating the entry of persons, vehicles, aircraft and vessels into, and the movement of persons, vehicles, aircraft and vessels within or over, a Commonwealth explosives area;
+<dt>(a)</dt><dd>the indemnity had been given under the last preceding subsection;</dd>
 
-                     (d)  for or in relation to the berthing of vessels in a Commonwealth explosives area; and
+<dt>(b)</dt><dd>any reference in the indemnity to the _Explosives Act 1952_ or any
 
-                     (e)  prescribing fees to be paid in respect of the use of facilities or services maintained, operated or provided by the Commonwealth in a Commonwealth explosives area.
+amendment of that Act were a reference to this Act; and</dd>
 
-## Part IV—Miscellaneous
+<dt>(c)</dt><dd>any reference in the indemnity to the regulations made under the
 
-##### <a id="15"></a>15  Orders
+_Explosives Act 1952_ or any amendment of that Act or to Explosives
 
-                   The regulations may empower a person to provide, by order, for any matter that may be provided for by the regulations.
+Regulations were a reference to regulations made under this Act for the
 
-##### <a id="16"></a>16  General provisions applicable to orders
+purposes of this Part.
 
-             (1)  Orders made under the regulations are legislative instruments.
+</dd>
 
-             (4)  Where the regulations confer power to make orders, the power includes, unless the contrary intention appears, power exercisable in the like manner, and subject to the like conditions (if any), to repeal, revoke, amend or vary an order so made.
+</dl></dl></dl>
 
-##### <a id="17"></a>17  Date from which orders take effect
+<center>**
 
-                   An order made under the regulations takes effect from the date of notification of the order, or on such later date as is prescribed or as is fixed under the regulations.
+###  EXPLOSIVES ACT 1961<part>Part III&#151;Control of Commonwealth explosives areas </part>
+**</center>
 
-##### <a id="18"></a>18  Proof of instruments
+**
 
-                   Evidence of an order or other instrument made or issued by a Minister or other person in pursuance of a provision contained in, or having effect under, the regulations may, in any legal proceedings, be given by the production of:
+###  EXPLOSIVES ACT 1961- SECT 13  Interpretation 
+**
 
-                     (a)  a document purporting to be that order or other instrument and to be signed by the Minister or that other person; or
+ <dl compact="">
 
-                     (b)  a document purporting to be certified to be a true copy of that order or other instrument by or on behalf of the Minister or that other person.
+		In this Part:
 
-##### <a id="19"></a>19  Committees of advice
+ </dl>
 
-                   The Regulations may make provision for or in relation to the establishment, and the functions and powers, of committees to advise the Minister on matters relating to, or to the handling of, explosives.
+<def><dl compact=""><dl compact="">
 
-##### <a id="20"></a>20  Offences
+_Commonwealth explosives area_ means any Commonwealth land declared
 
-                   A person who contravenes, or fails to comply with, a provision of the regulations or of an order made under the regulations is guilty of an offence against this Act punishable upon conviction by:
+by the regulations to be an explosives area and, where any such land consists
 
-                     (a)  a fine not exceeding $1,000 or imprisonment for a term not exceeding 6 months, or both, and in addition, if the offence is a continuing offence, by a fine not exceeding $200 for each day during which the offence continues; or
+of a part of the bed of the sea, or of a bay, estuary or river, includes the
 
-                     (b)  such lesser penalty as is prescribed.
+waters above the land. _Commonwealth land_ means land the property of the Commonwealth and includes any other land:  </dl></dl>
 
-##### <a id="21"></a>21  Regulations
+<dl compact=""><dl compact=""><dl compact="">
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
+<dt>(a)</dt><dd>in which the Commonwealth has a legal or equitable estate or interest;
 
-# Notes to the _Explosives Act 1961_
+or</dd>
 
-### Note 1
+<dt>(b)</dt><dd>over or in connexion with which the Commonwealth has a right, power or
 
-The _Explosives Act 1961_ as shown in this compilation comprises Act No. 65, 1961 amended as indicated in the Tables below.
+privilege.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+</dd>
 
-### Table of Acts
+</dl></dl></dl>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="23%">
-  <col width="14%">
-</colgroup>
+**
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+###  EXPLOSIVES ACT 1961- SECT 14  Regulations 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The regulations may make provision for ensuring the safety of persons who
+
+are, and the protection from damage of property that is, in or in the vicinity
+
+of a Commonwealth explosives area.</dd> <dt>(2)</dt><dd>Without limiting the generality of subsection (1), the regulations may make provision: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>for or in relation to, or for or in relation to any matter arising out of
+
+or incidental to, the handling of explosives and other goods in or in the
+
+vicinity of a Commonwealth explosives area;</dd>
+
+<dt>(b)</dt><dd>for or in relation to safety measures to be observed in or in the vicinity
+
+of a Commonwealth explosives area;</dd>
+
+<dt>(c)</dt><dd>prohibiting or regulating the entry of persons, vehicles, aircraft and
+
+vessels into, and the movement of persons, vehicles, aircraft and vessels
+
+within or over, a Commonwealth explosives area;</dd>
+
+<dt>(d)</dt><dd>for or in relation to the berthing of vessels in a Commonwealth explosives
+
+area; and</dd>
+
+<dt>(e)</dt><dd>prescribing fees to be paid in respect of the use of facilities or
+
+services maintained, operated or provided by the Commonwealth in a Commonwealth
+
+explosives area.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  EXPLOSIVES ACT 1961<part>Part IV&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  EXPLOSIVES ACT 1961- SECT 15  Orders 
+**
+
+ <dl compact="">
+
+		The regulations may empower a person to provide, by order, for any matter
+
+that may be provided for by the regulations.
+
+ </dl>
+
+**
+
+###  EXPLOSIVES ACT 1961- SECT 16  General provisions applicable to orders 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Orders made under the regulations are not Statutory Rules within the
+
+meaning of the _Rules Publication Act 1903_.</dd> <dt>(2)</dt><dd>The provisions of section 48 (except paragraph (1)(b) and subsection (2)) and sections 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to orders made under the regulations as if references in those provisions to regulations were references to orders.</dd> <dt>(3)</dt><dd>The _Acts Interpretation Act 1901_ applies, by force of this section, to the interpretation of orders made under the regulations in like manner as it applies to the interpretation of regulations, and, for the purposes of section 46 of that Act, orders so made shall be deemed to be regulations.</dd> <dt>(4)</dt><dd>Where the regulations confer power to make orders, the power includes, unless the contrary intention appears, power exercisable in the like manner, and subject to the like conditions (if any), to repeal, revoke, amend or vary an order so made. </dd> </dl>
+
+**
+
+###  EXPLOSIVES ACT 1961- SECT 17  Date from which orders take effect 
+**
+
+ <dl compact="">
+
+		An order made under the regulations takes effect from the date of
+
+notification of the order, or on such later date as is prescribed or as is
+
+fixed under the regulations.
+
+ </dl>
+
+**
+
+###  EXPLOSIVES ACT 1961- SECT 18  Proof of instruments 
+**
+
+ <dl compact="">
+
+		Evidence of an order or other instrument made or issued by a Minister or
+
+other person in pursuance of a provision contained in, or having effect under,
+
+the regulations may, in any legal proceedings, be given by the production of:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a document purporting to be that order or other instrument and to be
+
+signed by the Minister or that other person; or</dd>
+
+<dt>(b)</dt><dd>a document purporting to be certified to be a true copy of that order or
+
+other instrument by or on behalf of the Minister or that other person.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  EXPLOSIVES ACT 1961- SECT 19  Committees of advice 
+**
+
+ <dl compact="">
+
+		The Regulations may make provision for or in relation to the establishment,
+
+and the functions and powers, of committees to advise the Minister on matters
+
+relating to, or to the handling of, explosives.
+
+ </dl>
+
+**
+
+###  EXPLOSIVES ACT 1961- SECT 20  Offences 
+**
+
+ <dl compact="">
+
+		A person who contravenes, or fails to comply with, a provision of the
+
+regulations or of an order made under the regulations is guilty of an offence
+
+against this Act punishable upon conviction by:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a fine not exceeding $1,000 or imprisonment for a term not exceeding 6
+
+months, or both, and in addition, if the offence is a continuing offence, by a
+
+fine not exceeding $200 for each day during which the offence continues; or</dd>
+
+<dt>(b)</dt><dd>such lesser penalty as is prescribed.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  EXPLOSIVES ACT 1961- SECT 21  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing all matters required or permitted by this Act to be prescribed, or
+
+necessary or convenient to be prescribed for carrying out or giving effect to
+
+this Act.
+
+ </dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  EXPLOSIVES ACT 1961<centreit>Notes to the _Explosives Act 1961_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Explosives Act 1961_ as shown in this compilation comprises Act No. 65, 1961 amended as indicated in the Tables below.
+ All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Explosives Act 1961</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr></table>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Explosives Act 1961</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>65, 1961</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24 Oct 1961</div>
+
   </td>
-  <td>
-    <div>30 July 1962 ( <i>see Gazette</i>1962, p. 2641)</div>
+  <td colspan="1" align="left">
+    <div>30 July 1962 ( <i>see Gazette</i>1962, p. 2641)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Explosives Act 1964</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Explosives Act 1964</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>47, 1964</div>
+
   </td>
-  <td>
-    <div>28 May 1964</div>
+  <td colspan="1" align="left">
+    <div>28 May 1964</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4 Feb 1965 ( <i>see Gazette</i>1965, p. 639)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision (Decimal Currency) Act 1966</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>93, 1966</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>29 Oct 1966</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 Dec 1966</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1973</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>216, 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>19 Dec 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>31 Dec 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Ss. 9(1) and 10</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>80, 1982</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Sept 1982</div>
+
   </td>
-  <td>
-    <div>Part XXXIV (ss. 103–106): 20 Oct 1982 <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Part XXXIV (ss. 103-106): 20 Oct 1982 <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>99, 1988</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2 Dec 1988</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2 Dec 1988</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<thead>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>143, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4 \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Defence Legislation Amendment Act (No. 1) 2005</div>
-    </td>
-    <td>
-      <div>121, 2005</div>
-    </td>
-    <td>
-      <div>6 Oct 2005</div>
-    </td>
-    <td>
-      <div>Schedule 5: <i>(b) 
- </i>Remainder: Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
 
-_(a)_     The _Explosives Act 1961_ was amended by Part XXXIV (sections 103–106) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
+  </th>
+  <th colspan="1" align="left">
+    <div>143, 2001</div>
 
-               (16)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Oct 2001</div>
 
-_(b)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendment Act (No. 1) 2005_ provides as follows:
+  </th>
+  <th colspan="1" align="left">
+    <div>2 Oct 2001</div>
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+  </th>
+  <th colspan="1" align="left">
+    <div>S. 4 \[ <i>see</i>Table A]</div>
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
+  </th>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Explosives Act 1961_ was amended by Part XXXIV (sections 103-106) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Legislative Instruments Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
+	(16)	The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
-## Table of Amendments
+**Table of Amendments**
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
+  </th>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>am. No. 47, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
+  <td colspan="1" align="left">
+    <div>am. No. 47, 1964</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 216, 1973</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
+  <td colspan="1" align="left">
+    <div>rep. No. 216, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
-    <div>am. No. 80, 1982</div>
+  <td colspan="1" align="left">
+    <div>am. No. 80, 1982</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 6, 7</div>
+
   </td>
-  <td>
-    <div>am. No. 216, 1973</div>
+  <td colspan="1" align="left">
+    <div>am. No. 216, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7A</div>
+
   </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>ad. No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Part II</div>
+
   </td>
-  <td>
-    <div>rs. No. 47, 1964</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 47, 1964</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 9</div>
+
   </td>
-  <td>
-    <div>am. No. 47, 1964; No. 216, 1973</div>
+  <td colspan="1" align="left">
+    <div>am. No. 47, 1964; No. 216, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 10</div>
+
   </td>
-  <td>
-    <div>am. No. 216, 1973</div>
+  <td colspan="1" align="left">
+    <div>am. No. 216, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 11</div>
+
   </td>
-  <td>
-    <div>am. No. 47, 1964; No. 80, 1982</div>
+  <td colspan="1" align="left">
+    <div>am. No. 47, 1964; No. 80, 1982</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 11A</div>
+
   </td>
-  <td>
-    <div>ad. No. 47, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 80, 1982</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 47, 1964</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 80, 1982</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 12</div>
+
   </td>
-  <td>
-    <div>am. No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No. 80, 1982</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 14</div>
+
   </td>
-  <td>
-    <div>am. No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No. 80, 1982</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 16</div>
+
   </td>
-  <td>
-    <div>am. No. 80, 1982; No. 99, 1988; No. 121, 2005</div>
+  <td colspan="1" align="left">
+    <div>am. No. 80, 1982; No. 99, 1988</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17</div>
+
   </td>
-  <td>
-    <div>rs. No. 80, 1982</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 80, 1982</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 20</div>
+
   </td>
-  <td>
-    <div>am. No. 93, 1966; No. 80, 1982</div>
+  <td colspan="1" align="left">
+    <div>am. No. 93, 1966; No. 80, 1982</div>
+
   </td>
-</tr></table>
+</tr></table>**Table A**
 
-## Table A
+**Application, saving or transitional provisions**
 
-### Application, saving or transitional provisions
+_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001_(No. 143, 2001) 
 
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
+**4  Application of Amendments**
 
-##### <a id="4"></a>4  Application of Amendments
+<dl compact="">
 
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
 
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
 
- 
+</def>
+
+</def>
+
+
