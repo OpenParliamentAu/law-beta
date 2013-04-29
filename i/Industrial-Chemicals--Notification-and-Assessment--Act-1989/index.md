@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00762/Html/9cc80169-b568-45d6-add8-aa2fef354cac_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00082/Html/994d6162-8cf7-4aec-b448-e04744188e7b_files/image001.gif)
 
 # Industrial Chemicals (Notification and Assessment) Act 1989
 
 **Act No. 8 of 1990 as amended**
 
-This compilation was prepared on 30 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 103 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -767,6 +768,8 @@ Note:          An ingredient or component of a cosmetic could 
 
                     <a name="environ"></a>**_environment_** includes all aspects of the surroundings of humans, whether affecting them as individuals or in social groupings.
 
+                    <a name="environ-depart"></a>**_Environment Department_** means the Department of the Arts, Sport, the Environment, Tourism and Territories.
+
                     <a name="environment-effect"></a>**_environmental effect_**, in relation to an industrial chemical, means the effect on the environment of the importation, manufacture, handling, storage, use or disposal of the chemical.
 
                     <a name="excluded-us"></a>**_excluded use_** has the meaning given by subsection 7(2).
@@ -1205,7 +1208,7 @@ but does not include a substance or mixture of substances of a kind that is decl
 
              (2)  The value of relevant industrial chemicals imported by a person during a particular period (whether a financial year or a registration year) is the amount, worked out to the nearest whole dollar, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00762/Html/9cc80169-b568-45d6-add8-aa2fef354cac_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00082/Html/994d6162-8cf7-4aec-b448-e04744188e7b_files/image002.gif)
 
 where:
 
@@ -2049,11 +2052,11 @@ Form of paragraph 21B(1)(b) agreement
 
 ##### <a id="21E"></a>21E  Restrictions on applications
 
-Maximum quantity—4,000 kilograms
+\[Maximum quantity—4,000 kilograms]
 
              (1)  The quantity specified in an application must not exceed 4,000 kilograms.
 
-Maximum period—2 years
+\[Maximum period—2 years]
 
              (2)  The period specified in an application:
 
@@ -2061,7 +2064,7 @@ Maximum period—2 years
 
                      (b)  must not exceed 2 years.
 
-Application invalid if another permit held for the same chemical
+\[Application invalid if another permit held for the same chemical]
 
              (3)  An application for a commercial evaluation permit, or an application for a renewal of a commercial evaluation permit, for a chemical is invalid if, at any time during the period specified in the application:
 
@@ -2087,11 +2090,11 @@ Application to be refused unless quantity of chemical is reasonably needed
 
              (1)  The Director must refuse an application unless he or she is satisfied that the quantity of the chemical that the applicant seeks to introduce under the permit is reasonably needed for effective commercial evaluation of the chemical.
 
-Excess period
+\[Excess period]
 
              (2)  If the period which an applicant seeks to have specified in the permit exceeds 1 year, the Director must refuse the application unless the applicant satisfies the Director that the excess period is reasonably required for the effective commercial evaluation of the chemical.
 
-Contravention of Act etc.
+\[Contravention of Act etc.]
 
              (3)  The Director may refuse an application if, at any time during the period commencing 5 years before the application was made, the applicant, any of the joint applicants or a person who agrees (whether jointly or otherwise) to be bound by the conditions of the permit:
 
@@ -2115,7 +2118,7 @@ Failure to provide further information
 
           (3A)  The Director may refuse an application for a renewal of a commercial evaluation permit if the Director is satisfied that the conditions in subsection 21B(2) have not been met.
 
-Notification of refusal of application
+\[Notification of refusal of application]
 
              (4)  If the Director refuses an application, the Director must give written notice of the refusal to the applicant.
 
@@ -2139,7 +2142,7 @@ Notification of refusal of application
 
 ##### <a id="21L"></a>21L  Conditions of commercial evaluation permit
 
-Conditions of permit
+\[Conditions of permit]
 
              (1)  A commercial evaluation permit relating to an industrial chemical is subject to the following conditions:
 
@@ -2149,7 +2152,7 @@ Conditions of permit
 
 Note:          A person who holds a commercial evaluation permit must also provide an annual report (see section 40N).
 
-Variation etc. of conditions
+\[Variation etc. of conditions]
 
              (2)  The Director may, by written notice given to the holder or holders of a commercial evaluation permit:
 
@@ -2161,7 +2164,7 @@ Variation etc. of conditions
 
                              (ii)  specified in the permit.
 
-Conditions may require giving of information
+\[Conditions may require giving of information]
 
              (3)  Without limiting the kinds of conditions to which a commercial evaluation permit may be subject, a commercial evaluation permit may be subject to conditions requiring a person who is or was the holder, or any of the holders, of the permit to give information to the Director.
 
@@ -2183,7 +2186,7 @@ Defence of reasonable excuse
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (4A) (see subsection 13.3(3) of the _Criminal Code_).
 
-**Holder** includes a person who agrees to be bound by the conditions of a permit
+[**Holder** includes a person who agrees to be bound by the conditions of a permit]
 
              (5)  For the purposes of this section, if a person agrees (whether jointly or otherwise) to be bound by the conditions of a commercial evaluation permit, the person is taken to be a holder of the permit.
 
@@ -6416,7 +6419,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2004</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1: 9 Aug 2004 ( <i>see Gazette</i>2004, No. S320) 
+    <div>Schedule 1: 9 Aug 2004 ( <i>see Gazette</i>2004, No. S320) 
 Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
@@ -6491,7 +6494,7 @@ Remainder: Royal Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
-    <div>Sch. 2 (items 9, 16, 19, 26, 34) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 9, 16, 19, 26, 34) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6508,7 +6511,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 1 (items 18–22): 17 Nov 2009</div>
   </td>
   <td colspan="2">
-    <div>Sch. 1 (item 22) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 22) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6522,7 +6525,7 @@ Remainder: Royal Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 5 (item 61): Royal Assent</div>
+    <div>Schedule 5 (item 61): Royal Assent</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -6539,7 +6542,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 6 (items 54, 55) and Schedule 7 (item 74): 19 Apr 2011</div>
+    <div>Schedule 6 (items 54, 55) and Schedule 7 (item 74): 19 Apr 2011</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -6559,7 +6562,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 702–707) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td colspan="2">
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6578,23 +6581,6 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Sch. 1 (items 
 56–58) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 69–79): Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -6934,7 +6920,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007; No. 111, 2009; Nos. 5 and 103, 2011; No. 136, 2012</div>
+    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007; No. 111, 2009; Nos. 5 and 103, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7419,30 +7405,6 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 21E(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 21E(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21E</div>
   </td>
   <td>
@@ -7499,30 +7461,6 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 21H(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 21H(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 21H(4)</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21H</div>
   </td>
   <td>
@@ -7559,38 +7497,6 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
   </td>
   <td>
     <div>ad. No. 102, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 21L(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 21L(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 21L(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 21L(5)</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -10231,7 +10137,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 * * *
 
-_Industrial Chemicals (Notification and Assessment) Amendment (Inventory) Act 2011 (No. 103, 2011)_
+_Industrial Chemicals (Notification and Assessment) Amendment (Inventory) 
+ Act 2011 (No. 103, 2011)_
 
 ## Schedule 1
 
@@ -10239,7 +10146,7 @@ _Industrial Chemicals (Notification and Assessment) Amendment (Inventory) Act 20
 
 The amendments made by item 10 of this Schedule apply to any chemical that was previously regulated (within the meaning of subsection 15AA(9) of the _Industrial Chemicals (Notification and Assessment) Act 1989_ as inserted by that item), whether the chemical became previously regulated before or after the commencement of that item.
 
-## 57  Application provision—amendments about UV filters
+## 57  Application provision—amendments about UV filters
 
 The amendments made by items 11, 40 and 55 of this Schedule apply to applications for assessment certificates made under section 23 of the _Industrial Chemicals (Notification and Assessment) Act 1989_ (as amended by this Schedule) on or after the day on which those items commence.
 
