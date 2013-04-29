@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00094/Html/BuildingandConstructIndustImprove2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00579/Html/BuildingandConstructIndustImprove2005_image001.gif)
 
 # Building and Construction Industry Improvement Act 2005
 
 **Act No. 113 of 2005 as amended**
 
-This compilation was prepared on 28 March 2008
- taking into account amendments up to Act No. 8 of 2008
+This compilation was prepared on 1 October 2007
+ taking into account amendments up to Act No. 153 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -410,7 +410,7 @@ Note:          This table relates only to the provisions of th
 
                     <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the meaning given by the Workplace Relations Act.
 
-                    <a name="awa"></a>**_AWA_** has the meaning given by Schedule 7A to the Workplace Relations Act.
+                    <a name="awa"></a>**_AWA_** has the meaning given by section 4 of the Workplace Relations Act.
 
                     <a name="award"></a>**_award_** has the meaning given by the Workplace Relations Act.
 
@@ -598,7 +598,7 @@ whether or not those rules also allow membership by other persons.
 
                     <a name="unlaw-industri-action"></a>**_unlawful industrial action_** has the meaning given by section 37.
 
-                    <a name="workplac-agreem"></a>**_workplace agreement_** has the meaning given by the Workplace Relations Act, and includes an AWA.
+                    <a name="workplac-agreem"></a>**_workplace agreement_** has the meaning given by the Workplace Relations Act.
 
                     <a name="workplac-relat-act"></a>**_Workplace Relations Act_** means the _Workplace Relations Act 1996_.
 
@@ -2548,24 +2548,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 5)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008</div>
-  </td>
-  <td>
-    <div>8, 2008</div>
-  </td>
-  <td>
-    <div>20 Mar 2008</div>
-  </td>
-  <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -2604,7 +2586,7 @@ Remainder: Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006; No. 8, 2008</div>
+    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006</div>
   </td>
 </tr>
 <tr>
