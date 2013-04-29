@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00430/Html/SuperProdtvyBeneft88_WD02_image001.gif)
 
 # Superannuation (Productivity Benefit) Act 1988
 
 **Act No. 70 of 1988 as amended**
 
-This compilation was prepared on 22 March 2007
- taking into account amendments up to Act No. 15 of 2007
+This compilation was prepared on 7 July 2005
+taking into account amendments up to Act No. 81 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -72,9 +73,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Assignment of benefit                                                                        23
 
-[9A](#9A).         Declarations                                                                                       24
+[9A](#9A).         Declarations                                                                                       23
 
-[9B](#9B).         Certain declarations and determinations disallowable etc                  24
+[9B](#9B).         Certain declarations and determinations disallowable etc                  23
 
 [9C](#9C).         Delegation by Minister                                                                      24
 
@@ -84,19 +85,20 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9F](#9F).          Employers to ensure membership of funds                                       24
 
-[10](#10).          Regulations                                                                                        25
+[10](#10).          Regulations                                                                                        24
 
 **Schedule—Table of continuing contributions** 
 
 **Notes** 
 
+
 ## An Act to make provision for superannuation benefits for certain persons
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Superannuation (Productivity Benefit) Act 1988_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt">[_see_ Note 1]</span>
 
                    This Act shall be taken to have commenced on 1 January 1988.
 
@@ -216,7 +218,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 but, subject to regulations and declarations made for the purposes of paragraph (g), does not include:
 
-                     (h)  a person who is an employee of the   Northern Territory or of an authority of the Northern Territory;
+                     (h)  a person who is an employee of the Northern Territory or of an authority of the Northern Territory;
 
                       (j)  a person who is not an eligible employee for the purposes of the Superannuation Act but is a member of a superannuation scheme or has superannuation benefits funded by the person’s employer or partly by the person’s employer and partly by contributions from the person and other employees;
 
@@ -280,7 +282,7 @@ other than a pay period that has been taken into account in determining the amou
 
                     <a name="yearli-interest-factor"></a>**_yearly interest factor_**, in relation to a qualified employee in respect of whom an interim benefit is payable in relation to the year commencing on 1 January 1988 or a subsequent year, means the number ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00430/Html/SuperProdtvyBeneft88_WD02_image002.gif)
 
 where:
 
@@ -418,9 +420,9 @@ then, for the purposes of subsection (1) in relation to a pay period after the
 
              (2)  Subject to this section, where a fund employee is employed on a part-time basis, the continuing contribution in respect of the employee for a pay period of the employee is the amount calculated using whichever of the following formulas the employee’s designated employer considers to be convenient: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00430/Html/SuperProdtvyBeneft88_WD02_image003.gif)
 
-![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00430/Html/SuperProdtvyBeneft88_WD02_image004.gif)
 
 where:
 
@@ -440,7 +442,7 @@ where:
 
                      (b)  if the employee is on leave without pay for part only of the pay period—the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00430/Html/SuperProdtvyBeneft88_WD02_image003.gif)
 
                             where:
 
@@ -516,7 +518,7 @@ where:
 
 ##### <a id="4D"></a>4D  Nominated and approved superannuation funds to comply with standards
 
-                   The Minister is not to declare a superannuation fund to be the nominated fund or an approved fund unless the fund is a complying superannuation fund within the meaning of the _Income Tax Assessment Act 1997_.
+                   The Minister is not to declare a superannuation fund to be the nominated fund or an approved fund unless the fund is a complying fund within the meaning of Part IX of the _Income Tax Assessment Act 1936_.
 
 ##### <a id="4E"></a>4E  Payments of equivalent benefit to declared funds
 
@@ -656,8 +658,6 @@ the benefit is payable to the person.
 
              (1)  The amount of an interim benefit that accumulates in respect of service by a qualified employee in a year commencing on 1 January 1988, 1 January 1989 or 1 January 1990 is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image005.gif)
-
                     <a name="aarc"></a>**_AARC_** is the average annual rate of contribution of the person for that year;
 
                     <a name="yppv"></a>**_YPPV_**is the yearly pay period value of the person for that year;
@@ -682,7 +682,7 @@ the benefit is payable to the person.
 
              (2)  The amount of interim benefit that accumulates in respect of service by an interim arrangement employee in the year commencing on 1 July 1990 or a subsequent year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00112/Html/SuperProdtvyBeneft88_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00430/Html/SuperProdtvyBeneft88_WD02_image006.gif)
 
 where:
 
@@ -754,6 +754,7 @@ where:
 
  
 
+
 # Schedule—Table of continuing contributions
 
 _Section 3C_
@@ -766,52 +767,55 @@ _Section 3C_
   <col width="50%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>
-      <b>Pay period rate of salary</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Pay period contribution</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Less than $423</div>
-  </td>
-  <td>
-    <div>$12.70</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>$423 or more but less than $650</div>
-  </td>
-  <td>
-    <div>The amount that is 3% of the employee’s pay period rate of salary</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>$650 or more but less than $975</div>
-  </td>
-  <td>
-    <div>$19.50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>$975 or more</div>
-  </td>
-  <td>
-    <div>The amount that is 2% of the employee’s pay period rate of salary</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        <b>Pay period rate of salary</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Pay period contribution</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Less than $423</div>
+    </td>
+    <td>
+      <div>$12.70</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>$423 or more but less than $650</div>
+    </td>
+    <td>
+      <div>The amount that is 3% of the employee’s pay period rate of salary</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>$650 or more but less than $975</div>
+    </td>
+    <td>
+      <div>$19.50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>$975 or more</div>
+    </td>
+    <td>
+      <div>The amount that is 2% of the employee’s pay period rate of salary</div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 # Notes to the _Superannuation (Productivity Benefit) Act 1988_
 
@@ -819,9 +823,7 @@ _Section 3C_
 
 The _Superannuation (Productivity Benefit) Act 1988_ as shown in this compilation comprises Act No. 70, 1988 amended as indicated in the Tables below. 
 
-All relevant information pertaining to application, saving or transitional provisions prior to 15 March 2007 is not included in this compilation. For subsequent information _see_ Table A.
-
-The _Superannuation (Productivity Benefit) Act 1988_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended), s _ee_ Table B.
+The _Superannuation (Productivity Benefit) Act 1988_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended), s _ee_ Table A.
 
 ### Table of Acts
 
@@ -841,11 +843,13 @@ The _Superannuation (Productivity Benefit) Act 1988_ was modified by the A.C.T. 
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -855,219 +859,211 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Superannuation Benefit (Interim Arrangement) Act 1988</div>
-  </td>
-  <td>
-    <div>70, 1988</div>
-  </td>
-  <td>
-    <div>15 June 1988</div>
-  </td>
-  <td>
-    <div>1 Jan 1988</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>130, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>40, 1990</div>
-  </td>
-  <td>
-    <div>7 June 1990</div>
-  </td>
-  <td>
-    <div>Ss. 94 and 98: Royal Assent <i>(a)</i> 
+<tbody>
+  <tr>
+    <td>
+      <div>Superannuation Benefit (Interim Arrangement) Act 1988</div>
+    </td>
+    <td>
+      <div>70, 1988</div>
+    </td>
+    <td>
+      <div>15 June 1988</div>
+    </td>
+    <td>
+      <div>1 Jan 1988</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>130, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>40, 1990</div>
+    </td>
+    <td>
+      <div>7 June 1990</div>
+    </td>
+    <td>
+      <div>Ss. 94 and 98: Royal Assent <i>(a)</i> 
 Ss. 95–97 and 
-99–106: 1 July 1990 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>130, 1991</div>
-  </td>
-  <td>
-    <div>2 Sept 1991</div>
-  </td>
-  <td>
-    <div>Ss. 10, 11 and 60: 1 Apr 1991 
+99–106: 1 July 1990 <i>(a)</i> 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>130, 1991</div>
+    </td>
+    <td>
+      <div>2 Sept 1991</div>
+    </td>
+    <td>
+      <div>Ss. 10, 11 and 60: 1 Apr 1991 
 S. 26: 18 Dec 1986 
 Ss. 82–84: 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>187, 1992</div>
-  </td>
-  <td>
-    <div>18 Dec 1992</div>
-  </td>
-  <td>
-    <div>Ss. 67 and 68: 1 July 1990 <i>(b)</i> 
-Ss. 66, 69 and 70: Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Industry (Supervision) Consequential Amendments Act 1993</div>
-  </td>
-  <td>
-    <div>82, 1993</div>
-  </td>
-  <td>
-    <div>30 Nov 1993</div>
-  </td>
-  <td>
-    <div>Part 12 (ss. 
-60–64): 1 Dec 1993 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 64</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 111): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Retirement Savings Accounts (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>62, 1997</div>
-  </td>
-  <td>
-    <div>28 May 1997</div>
-  </td>
-  <td>
-    <div>2 June 1997 ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. S202)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
-  </td>
-  <td>
-    <div>48, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 192): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(e)</i></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 902–907): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation (Consequential Amendments) Act 2005</div>
-  </td>
-  <td>
-    <div>81, 2005</div>
-  </td>
-  <td>
-    <div>29 June 2005</div>
-  </td>
-  <td>
-    <div>Schedule 3: 1 July 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Simplification) Act 2007</div>
-  </td>
-  <td>
-    <div>15, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 365, 406(1)–(3)): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>187, 1992</div>
+    </td>
+    <td>
+      <div>18 Dec 1992</div>
+    </td>
+    <td>
+      <div>Ss. 67 and 68: 1 July 1990 <i>(b)</i> 
+Ss. 66, 69 and 70: Royal Assent <i>(b)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Industry (Supervision) Consequential Amendments Act 1993</div>
+    </td>
+    <td>
+      <div>82, 1993</div>
+    </td>
+    <td>
+      <div>30 Nov 1993</div>
+    </td>
+    <td>
+      <div>Part 12 (ss. 
+60–64): 1 Dec 1993 <i>(c)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 64</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 111): <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Retirement Savings Accounts (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>62, 1997</div>
+    </td>
+    <td>
+      <div>28 May 1997</div>
+    </td>
+    <td>
+      <div>2 June 1997 ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. S202)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
+    </td>
+    <td>
+      <div>48, 1998</div>
+    </td>
+    <td>
+      <div>29 June 1998</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 192): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(e)</i></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 902–907): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation (Consequential Amendments) Act 2005</div>
+    </td>
+    <td>
+      <div>81, 2005</div>
+    </td>
+    <td>
+      <div>29 June 2005</div>
+    </td>
+    <td>
+      <div>Schedule 3: 1 July 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 _(a)_     The _Superannuation (Productivity Benefit) Act 1988_ was amended by sections 94–106 only of the _Superannuation Legislation Amendment Act 1990_, paragraph 2(1)(a) and subsection 2(3) of which provide as follows:
 
@@ -1086,7 +1082,7 @@ _(b)_    The _Superannuation (Productivity Benefit) Act 1988_ was amended 
                  (3)   Sections 67 and 68 are taken to have commenced on 1 July 1990.
 
 _(c)_     The _Superannuation (Productivity Benefit) Act 1988_ was amended by Part 12 (sections 
- 60–64) only of the _Superannuation Industry (Supervision) Consequential Amendments Act 1993_, subsection 2(1) of which provides as follows:
+60–64) only of the _Superannuation Industry (Supervision) Consequential Amendments Act 1993_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act commences on 1 December 1993.
 
@@ -1103,98 +1099,12 @@ _(e)_ The _Superannuation (Productivity Benefit) Act 1988_ was amended by Schedu
                  (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
 _(f)_ The _Superannuation (Productivity Benefit) Act 1988_ was amended by Schedule 1 (items 
- 902–907) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+902–907) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Tax Laws Amendment (Simplified Superannuation) Act 2007</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      15 March 2007
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1219,287 +1129,245 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1988; No. 40, 1990; No. 130, 1991; No. 187, 1992; No. 82, 1993; No. 62, 1997; No. 146, 1999; No. 81, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3AA, 3AB</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3B, 3C</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 187, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3D–3F</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 187, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 4B, 4C</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4D</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 15, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4E</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4EA</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4F</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4G</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 130, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4H</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 40, 1990; No. 82, 1993; No. 62, 1997; No. 48, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7, 8</div>
-  </td>
-  <td>
-    <div>am. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9B</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9B</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9C</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9D</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 82, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9E, 9F</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 1990</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>am. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 130, 1988; No. 40, 1990; No. 130, 1991; No. 187, 1992; No. 82, 1993; No. 62, 1997; No. 146, 1999; No. 81, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3A</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 3AA, 3AB</div>
+    </td>
+    <td>
+      <div>ad. No. 81, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 3B, 3C</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 187, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 3D–3F</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 187, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 4B–4E</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4EA</div>
+    </td>
+    <td>
+      <div>ad. No. 130, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4F</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4G</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 130, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4H</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 40, 1990; No. 82, 1993; No. 62, 1997; No. 48, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 7, 8</div>
+    </td>
+    <td>
+      <div>am. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9A</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 9B</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9B</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9C</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9D</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 82, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 9E, 9F</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule</div>
+    </td>
+    <td>
+      <div>ad. No. 40, 1990</div>
+    </td>
+  </tr>
+</tbody></table>
 
  
 
+
 ## Table A
-
-### Application, saving or transitional provisions
-
-_Superannuation Legislation Amendment (Simplification) Act 2007
- (No. 15, 2007)_
-
-## Schedule 1
-
-## 406  Application
-
-(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
-
-(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
-
-(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
-
-                     (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
-
-                     (b)  Divisions 301 to 307 of that Act.
-
-## Table B
 
 ### Modifications
 
@@ -1512,6 +1380,7 @@ _A.C.T. Self-Government (Consequential Provisions) Regulations (as amended)_
 After “Ordinance” in paragraph (c) insert “or enactment”.
 
  
+
 
  
 
