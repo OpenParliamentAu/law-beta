@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00412/Html/93a54edd-bd8d-4da5-a6b4-b6882d62cb58_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00155/Html/a6e507b6-6bfc-4ce4-8472-6ad3e81de370_files/image001.gif)
 
 # Age Discrimination Act 2004
 
 **Act No. 68 of 2004 as amended**
 
-This compilation was prepared on 3 June 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -166,7 +166,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [59](#59).          Unlawful act not basis of civil action unless expressly so provided
 
-[60](#60).          Non‑disclosure of private information
+[60](#60).          Non-disclosure of private information
 
 [61](#61).          Regulations
 
@@ -270,15 +270,15 @@ miscellaneous matters such as delegation, protection from civil actions etc.
 
                      (b)  an office established by, or an appointment made under, a law of a Territory; and
 
-                     (c)  an appointment made by the Governor‑General or a Minister otherwise than under a law of the Commonwealth or of a Territory; and
+                     (c)  an appointment made by the Governor-General or a Minister otherwise than under a law of the Commonwealth or of a Territory; and
 
                      (d)  an appointment as a director of an incorporated company that is a public authority of the Commonwealth;
 
 but does not include:
 
-                     (e)  an office of member of the Assembly, member of the Executive, or Minister within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_; or
+                     (e)  an office of member of the Assembly, member of the Executive, or Minister within the meaning of the _Australian Capital Territory__(Self-Government) Act 1988_; or
 
-                      (f)  an office of member of the Legislative Assembly, member of the Council or Minister of the Territory, within the meaning of the _Northern Territory (Self‑Government) Act 1978_; or
+                      (f)  an office of member of the Legislative Assembly, member of the Council or Minister of the Territory, within the meaning of the _Northern Territory (Self-Government) Act 1978_; or
 
                      (g)  an office of member of the Legislative Assembly within the meaning of the _Norfolk Island__Act 1979_; or
 
@@ -316,7 +316,7 @@ Example:    The reference in subsection 26(3) to students above a particul
 
                     <a name="employ"></a>**_employment_** includes:
 
-                     (a)  part‑time and temporary employment; and
+                     (a)  part-time and temporary employment; and
 
                      (b)  work under a contract for services; and
 
@@ -636,7 +636,7 @@ unless one of the exemptions applies as set out in Divisions 4 and 5.</li>
 
 Exemption for domestic duties
 
-             (3)  Paragraphs (1)(a) and (b) do not make it unlawful for a person to discriminate against another person, on the ground of the other person’s age, in connection with employment to perform domestic duties on the premises on which the first‑mentioned person resides.
+             (3)  Paragraphs (1)(a) and (b) do not make it unlawful for a person to discriminate against another person, on the ground of the other person’s age, in connection with employment to perform domestic duties on the premises on which the first-mentioned person resides.
 
 Exemption for inherent requirements
 
@@ -718,7 +718,7 @@ Definitions
 
              (4)  In this section:
 
-                    <a name="contract-worker"></a>**_contract worker_** means a person who does work for another person under a contract between the employer of the first‑mentioned person and that other person.
+                    <a name="contract-worker"></a>**_contract worker_** means a person who does work for another person under a contract between the employer of the first-mentioned person and that other person.
 
                     <a name="princip"></a>**_principal_**, in relation to a contract worker, means a person for whom the contract worker does work under a contract between the employer of the contract worker and the person.
 
@@ -878,13 +878,13 @@ Definitions
 
                      (a)  by refusing to allow the other person access to, or the use of, any premises that the public or a section of the public is entitled or allowed to enter or use (whether for payment or not); or
 
-                     (b)  in the terms or conditions on which the first‑mentioned person is prepared to allow the other person access to, or the use of, any such premises; or
+                     (b)  in the terms or conditions on which the first-mentioned person is prepared to allow the other person access to, or the use of, any such premises; or
 
                      (c)  in relation to the provision of means of access to such premises; or
 
                      (d)  by refusing to allow the other person the use of any facilities in such premises that the public or a section of the public is entitled or allowed to use (whether for payment or not); or
 
-                     (e)  in the terms or conditions on which the first‑mentioned person is prepared to allow the other person the use of any such facilities; or
+                     (e)  in the terms or conditions on which the first-mentioned person is prepared to allow the other person the use of any such facilities; or
 
                       (f)  by requiring the other person to leave such premises or cease to use such facilities.
 
@@ -894,9 +894,9 @@ Definitions
 
                      (a)  by refusing to provide the other person with those goods or services or to make those facilities available to the other person; or
 
-                     (b)  in the terms or conditions on which the first‑mentioned person provides the other person with those goods or services or makes those facilities available to the other person; or
+                     (b)  in the terms or conditions on which the first-mentioned person provides the other person with those goods or services or makes those facilities available to the other person; or
 
-                     (c)  in the manner in which the first‑mentioned person provides the other person with those goods or services or makes those facilities available to the other person.
+                     (c)  in the manner in which the first-mentioned person provides the other person with those goods or services or makes those facilities available to the other person.
 
 ##### <a id="29"></a>29  Accommodation
 
@@ -938,7 +938,7 @@ Definitions
 
                      (a)  a parent, child, grandparent, grandchild, brother or sister of the person; or
 
-                     (b)  the spouse or de facto partner of the first‑mentioned person or of a person mentioned in paragraph (a).
+                     (b)  the spouse or de facto partner of the first-mentioned person or of a person mentioned in paragraph (a).
 
                     <a name="child"></a><a name="parent"></a><a name="near-rel"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of paragraph (a) of the definition of **_near relative_** in this subsection, someone is the **_parent_** of a person if the person is his or her child because of the definition of **_child_** in this section.
 
@@ -1076,7 +1076,7 @@ if the condition in subsection (3) is satisfied.
 
                      (a)  the discrimination:
 
-                              (i)  is based upon actuarial or statistical data on which it is reasonable for the first‑mentioned person to rely; and
+                              (i)  is based upon actuarial or statistical data on which it is reasonable for the first-mentioned person to rely; and
 
                              (ii)  is reasonable having regard to the matter of the data and other relevant factors; or
 
@@ -1096,7 +1096,7 @@ if the condition in subsection (5) is satisfied.
 
              (5)  The condition is satisfied if the discrimination:
 
-                     (a)  is based upon actuarial or statistical data on which it is reasonable for the first‑mentioned person to rely; and
+                     (a)  is based upon actuarial or statistical data on which it is reasonable for the first-mentioned person to rely; and
 
                      (b)  is reasonable having regard to the matter of the data.
 
@@ -1600,7 +1600,7 @@ Persons other than bodies corporate
 
                      (b)  that the employee or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by an employee or agent of the person within the scope of his or her actual or apparent authority is taken, for the purposes of this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by an employee or agent of the person within the scope of his or her actual or apparent authority is taken, for the purposes of this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  If:
 
@@ -1640,11 +1640,11 @@ Interpretation
 
              (2)  For the purposes of subsection (1), a reference to an act that is unlawful under a provision of Part 4 includes a reference to an act that is an offence under a provision of Part 5.
 
-##### <a id="60"></a>60  Non‑disclosure of private information
+##### <a id="60"></a>60  Non-disclosure of private information
 
              (1)  A person bound by this section because of office, employment or authorisation must not, either directly or indirectly:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first‑mentioned person because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised; or
+                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised; or
 
                      (b)  make use of any such information as is mentioned in paragraph (a); or
 
@@ -1654,9 +1654,9 @@ Interpretation
 
              (2)  A person bound by this section because of office, employment or authorisation must not be required:
 
-                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first‑mentioned person because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised; or
+                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first-mentioned person because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised; or
 
-                     (b)  to produce in a court a document relating to the affairs of another person of which the first‑mentioned person has custody, or to which that person has access, because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised;
+                     (b)  to produce in a court a document relating to the affairs of another person of which the first-mentioned person has custody, or to which that person has access, because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised;
 
 except where it is necessary to do so for the purposes of this Act.
 
@@ -1696,7 +1696,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="61"></a>61  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1740,7 +1740,7 @@ Note:          A defendant bears an evidential burden in relat
   <td>
     <div>
       <i>Aboriginal and Torres Strait Islanders (Queensland Reserves and Communities
-        Self‑management) Act 1978</i>
+        Self-management) Act 1978</i>
     </div>
   </td>
 </tr>
@@ -1804,7 +1804,7 @@ Note:          A defendant bears an evidential burden in relat
   </td>
   <td>
     <div>
-      <i>Airports (Control of On‑Airport Activities) Regulations 1997</i>
+      <i>Airports (Control of On-Airport Activities) Regulations 1997</i>
     </div>
   </td>
 </tr>
@@ -1814,7 +1814,7 @@ Note:          A defendant bears an evidential burden in relat
   </td>
   <td>
     <div>
-      <i>Auditor‑General Act 1997</i>
+      <i>Auditor-General Act 1997</i>
     </div>
   </td>
 </tr>
@@ -2117,7 +2117,7 @@ Note:          A defendant bears an evidential burden in relat
   </td>
   <td>
     <div>
-      <i>Inspector‑General of Intelligence and Security Act 1986</i>
+      <i>Inspector-General of Intelligence and Security Act 1986</i>
     </div>
   </td>
 </tr>
@@ -2156,8 +2156,8 @@ Note:          A defendant bears an evidential burden in relat
     <div>32A</div>
   </td>
   <td>
-    <div>National Anti‑Doping Scheme (within the meaning of the
-      <i>Australian Sports Anti‑Doping Authority Act 2006</i>)</div>
+    <div>National Anti-Doping Scheme (within the meaning of the
+      <i>Australian Sports Anti-Doping Authority Act 2006</i>)</div>
   </td>
 </tr>
 <tr>
@@ -2357,7 +2357,7 @@ Note:          A defendant bears an evidential burden in relat
   </td>
   <td>
     <div>
-      <i>Australian Meat and Live‑stock Industry (Repeals and Consequential Provisions)
+      <i>Australian Meat and Live-stock Industry (Repeals and Consequential Provisions)
         Act 1997</i>
     </div>
   </td>
@@ -2494,7 +2494,7 @@ Note:          A defendant bears an evidential burden in relat
     </div>
   </td>
   <td>
-    <div>sections 23‑1, 23‑10, 26‑1 and 26‑5, Part 2‑3 and subsection 63‑5(4)</div>
+    <div>sections 23-1, 23-10, 26-1 and 26-5, Part 2-3 and subsection 63-5(4)</div>
   </td>
 </tr>
 <tr>
@@ -2510,6 +2510,8 @@ Note:          A defendant bears an evidential burden in relat
     <div>regulations 8.10, 9.1, 9.5 and 9.20</div>
   </td>
 </tr></table>
+
+ 
 
 # Notes to the _Age Discrimination Act 2004_
 
@@ -2623,7 +2625,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Australian Sports Anti‑Doping Authority (Consequential and Transitional Provisions) Act 2006</div>
+    <div>Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006</div>
   </td>
   <td>
     <div>7, 2006</div>
@@ -2763,7 +2765,7 @@ Schedule 2 (item 2): 1 July 2008</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -2858,23 +2860,6 @@ Schedule 2 (item 2): 1 July 2008</div>
   </td>
   <td>
     <div>Schedule 5 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 16–18): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -3022,7 +3007,7 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -3041,7 +3026,7 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -3423,35 +3408,11 @@ No. 63, 2006</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 16  Section 5
-
-Insert:
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 17  Subparagraph 42(5)(a)(i)
-
-Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Executive Medicare”.
-
-## 18  Paragraph 42(5)(b)
-
-Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Executive Medicare”.
-
-As at 3 June 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Australian Sports Anti‑Doping Authority (Consequential and Transitional Provisions) Act 2006 (No. 7, 2006)_
+_Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006 (No. 7, 2006)_
 
 ## Schedule 2
 
