@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00310/Html/234d43d0-0ef1-437e-8533-a78ca24c1754_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00533/Html/8972d4b1-b742-436b-9663-df3d5af6f0a7_files/image001.gif)
 
 # Classification (Publications, Films and Computer Games) Act 1995
 
 **Act No. 7 of 1995 as amended**
 
-This compilation was prepared on 20 March 2012
+This compilation was prepared on 14 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 [**Note**: Part 10 ceases to have effect on 18 August 2012, _see_ section 115]
@@ -2412,11 +2412,7 @@ cannot be retired from office on the ground of invalidity (within the meaning of
 
 the Deputy Director is to act as the Director during the vacancy, absence or inability.
 
-Note:          For rules that apply to persons acting as the Director, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  If the Deputy Director is not available, the Minister may appoint another member to act as the Director during the vacancy, absence or inability.
-
-Note:          For rules that apply to acting appointments of the Director, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  The Minister may appoint a person to act in the office of a member other than the Director:
 
@@ -2424,7 +2420,15 @@ Note:          For rules that apply to acting appointments of 
 
                      (b)  during a period, or during all periods, when the holder of the office is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments of members, see section 33A of the _Acts Interpretation Act 1901_.
+             (4)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="67"></a>67  Annual report
 
@@ -2472,7 +2476,7 @@ Note:          For rules that apply to acting appointments of 
 
 ### Division 2—Responsibilities and powers of the Convenor
 
-##### <a id="77"></a>77  Responsibilities and powers of the Convenor
+##### <a id="77"></a>77  Responsibilities and powers of the Convenor
 
                    The Convenor is responsible for ensuring that the business of the Review Board is conducted in an orderly and efficient way and, subject to section 78, the Convenor may give directions as to the arrangement of the business of the Review Board or the constitution of the Review Board for the purpose of considering a particular matter.
 
@@ -2600,11 +2604,7 @@ cannot be retired from office on the ground of invalidity (within the meaning of
 
 the Deputy Convenor is to act as the Convenor during the vacancy, absence or inability.
 
-Note:          For rules that apply to persons acting as the Convenor, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  If the Deputy Convenor is not available, the Minister may appoint another member of the Review Board to act as the Convenor during the vacancy, absence or inability.
-
-Note:          For rules that apply to acting appointments of the Convenor, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  The Minister may appoint a person to act in the office of a member of the Review Board other than the Convenor:
 
@@ -2612,7 +2612,15 @@ Note:          For rules that apply to acting appointments of 
 
                      (b)  during any period, or during all periods, when the holder of the office is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments of members of the Review Board, see section 33A of the _Acts Interpretation Act 1901_.
+             (4)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="85"></a>85  Annual report
 
@@ -3507,7 +3515,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 
 18–21), Sch. 2 (items 
-27–29), Sch. 3 (item 13) and Sch. 4 (items 2, 4, 13)</div>
+27–29), Sch. 3 (item 13) and Sch. 4 (items 2, 4, 13)</div>
   </td>
 </tr>
 <tr>
@@ -3526,7 +3534,7 @@ Schedule 1: 14 Sept 2007</div>
   </td>
   <td>
     <div>S. 3 
-Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1])</div>
+Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1])</div>
   </td>
 </tr>
 <tr>
@@ -3560,7 +3568,7 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1])</div>
     <div>Schedule 1 (items 1, 4): 31 Dec 2010</div>
   </td>
   <td>
-    <div>Sch. 1 (item 4)</div>
+    <div>Sch. 1 (item 4)</div>
   </td>
 </tr>
 <tr>
@@ -3608,12 +3616,12 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1])</div>
     <div>1 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2009 
-Schedule 2: 1 Jan 2009 
+    <div>Schedule 1: 1 July 2009 
+Schedule 2: 1 Jan 2009 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 13) and Sch. 2 (item 5)</div>
+    <div>Sch. 1 (item 13) and Sch. 2 (item 5)</div>
   </td>
 </tr>
 <tr>
@@ -3627,8 +3635,8 @@ Remainder: Royal Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (item 7): Royal Assent 
-Schedule 5 (item 137(a)): <i>(d)</i></div>
+    <div>Schedule 1 (item 7): Royal Assent 
+Schedule 5 (item 137(a)): <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3645,7 +3653,7 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
     <div>29 June 2010</div>
   </td>
   <td>
-    <div>Schedule 4: 1 July 2010</div>
+    <div>Schedule 4: 1 July 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -3679,7 +3687,7 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 48, 49): 19 Apr 2011</div>
+    <div>Schedule 5 (items 48, 49): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -3696,10 +3704,10 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 362–369) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 362–369) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -4857,22 +4865,6 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 66(1)–(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 67</div>
   </td>
   <td>
@@ -4973,22 +4965,6 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
   <td>
     <div>am. No. 26, 2008; No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 84(1)–(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5327,6 +5303,60 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>rep. No. 61, 2004</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 362  At the end of subsection 66(1)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Director, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 363  At the end of subsection 66(2)
+
+Add:
+
+Note:          For rules that apply to acting appointments of the Director, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 364  At the end of subsection 66(3)
+
+Add:
+
+Note:          For rules that apply to acting appointments of members, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 365  Subsection 66(4)
+
+Repeal the subsection.
+
+## 366  At the end of subsection 84(1)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Convenor, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 367  At the end of subsection 84(2)
+
+Add:
+
+Note:          For rules that apply to acting appointments of the Convenor, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 368  At the end of subsection 84(3)
+
+Add:
+
+Note:          For rules that apply to acting appointments of members of the Review Board, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 369  Subsection 84(4)
+
+Repeal the subsection.
+
+As at 14 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -5759,8 +5789,7 @@ _Classification (Publications, Films and Computer Games) Amendment (Assessments 
 
 * * *
 
-_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 
- (No. 93, 2010)_
+_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 (No. 93, 2010)_
 
 ## Schedule 1
 
@@ -5775,6 +5804,8 @@ To avoid doubt:
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
