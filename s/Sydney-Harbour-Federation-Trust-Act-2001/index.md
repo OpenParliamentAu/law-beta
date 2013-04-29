@@ -1,4 +1,4 @@
-![](http://www.comlaw.gov.au/Details/C2012C00365/Html/d4a6becb-36fe-4818-97cb-734d3065dc26_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00673/Html/948c7e15-f260-4961-8bf2-f51d9dcb63d1_files/image001.gif)
 
 # Sydney Harbour Federation Trust Act 2001
 
@@ -6,7 +6,7 @@
 
 **\[Note: This Act is to be repealed as soon as practicable after the  end of 19 September 2033, _see_ section 66]**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 24 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -464,13 +464,21 @@ then the Minister must invite New South Wales to recommend persons to be appoint
 
 ##### <a id="14"></a>14  Acting appointments
 
-                   The Minister may appoint a member to act as the Chair:
+             (1)  The Minister may appoint a member to act as the Chair:
 
                      (a)  during a vacancy in the office of Chair (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="15"></a>15  Additional terms and conditions of appointment of members
 
@@ -762,7 +770,7 @@ Note:          Section 27 contains an exception to this rule
 
              (2)  The Trust must begin to implement a plan as soon as practicable after it has taken effect for the plan area or the part of the plan area.
 
-##### <a id="36"></a>36  Amendment to plans
+##### <a id="36"></a>36  Amendment to plans
 
              (1)  The Trust may, in writing, prepare an amendment to a plan.
 
@@ -866,8 +874,6 @@ Note:          The Trust can also charge a reasonable fee for 
 
                      (b)  during any period when the Executive Director is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  If at the end of the 3 month period:
 
                      (a)  there continues to be a vacancy in the office of Executive Director; or
@@ -876,7 +882,15 @@ Note:          For rules that apply to acting appointments, se
 
 then the Minister, on the recommendation of the Trust, may appoint a person to act as the Executive Director.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="43"></a>43  Additional terms and conditions of appointment of Executive Director
 
@@ -1574,7 +1588,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1102–1106) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1102–1106) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1618,54 +1632,6 @@ of Assent</div>
   </td>
   <td>
     <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 14</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 42(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1765,6 +1731,40 @@ of Assent</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1102  Subsection 14(1)
+
+Omit “(1)”.
+
+## 1103  At the end of subsection 14(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1104  Subsection 14(2)
+
+Repeal the subsection.
+
+## 1105  At the end of subsections 42(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1106  Subsection 42(3)
+
+Repeal the subsection.
+
+As at 24 August 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1794,6 +1794,8 @@ continues to have effect after the commencing time as if it had been done by the
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
