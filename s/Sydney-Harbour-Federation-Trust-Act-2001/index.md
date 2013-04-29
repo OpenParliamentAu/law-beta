@@ -1,232 +1,232 @@
-![](http://www.comlaw.gov.au/Details/C2005C00438/Html/5D2F678B2361D425CA25703B001C2012/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="0C73EAE7EF5E1E75CA256FBF00200010/$FILE/image001.png"></v:imagedata></v:shape>
 
-# Sydney Harbour Federation Trust Act 2001
+# <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Harbour</st1:placename></st1:place> Federation Trust Act 2001
 
-**Act No. 2 of 2001 as amended**
+**Act No. 2 of 2001 as amended**
 
-**\[Note: For details of future repeal of this Act, _see_ section 66]**
+**\[Note: For details of future repeal of this Act, _see_ section 66]<o:p></o:p>**
 
-This compilation was prepared on 11 July 2005
-taking into account amendments up to Act No. 97 of 2005
+This compilation was prepared on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="8" month="3">8 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force
-on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
+Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
 
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        4
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]                                                               4
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Definitions                                                                                           4
+[3](#3).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[4](#4).            Act binds the Crown                                                                           4
+[4](#4).            Act binds the Crown<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-**Part 2—Establishment of the Trust**
+**Part 2—Establishment of the Trust<span style="mso-tab-count: 1">                                                                              </span>**
 
-[5](#5).            Establishment                                                                                      4
+[5](#5).            Establishment<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[6](#6).            Objects                                                                                                 4
+[6](#6).            Objects<span style="mso-tab-count: 1 dotted">                                                                                                 </span>
 
-[7](#7).            Functions                                                                                             4
+[7](#7).            Functions<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[8](#8).            Powers                                                                                                 4
+[8](#8).            Powers<span style="mso-tab-count: 1 dotted">                                                                                                 </span>
 
-[9](#9).            Minister may give directions                                                               4
+[9](#9).            Minister may give directions<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-**Part 3—Constitution of the Trust**
+**Part 3—Constitution of the Trust<span style="mso-tab-count: 1">                                                                                   </span>**
 
-[10](#10).          Membership of the Trust                                                                    4
+[10](#10).          Membership of the Trust<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[11](#11).          Invitations to NSW to recommend members                                       4
+[11](#11).          Invitations to NSW to recommend members<span style="mso-tab-count: 1 dotted">                                       </span>
 
-[12](#12).          Appointment of members                                                                   4
+[12](#12).          Appointment of members<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[13](#13).          Terms of office of members                                                                 4
+[13](#13).          Terms of office of members<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[14](#14).          Acting appointments                                                                           4
+[14](#14).          Acting appointments<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[15](#15).          Additional terms and conditions of appointment of members            4
+[15](#15).          Additional terms and conditions of appointment of members<span style="mso-tab-count: 1 dotted">            </span>
 
-[16](#16).          Outside employment of members                                                       4
+[16](#16).          Outside employment of members<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[17](#17).          Remuneration and allowances of members                                          4
+[17](#17).          Remuneration and allowances of members<span style="mso-tab-count: 1 dotted">                                          </span>
 
-[18](#18).          Leave of absence                                                                                  4
+[18](#18).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-[19](#19).          Resignation                                                                                          4
+[19](#19).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[20](#20).          Termination of appointment of members                                            4
+[20](#20).          Termination of appointment of members<span style="mso-tab-count: 1 dotted">                                            </span>
 
-**Part 4—Trust land**
+**Part 4—Trust land<span style="mso-tab-count: 1">                                                                                                                </span>**
 
-[21](#21).          Vesting by Minister of land in the Trust                                             4
+[21](#21).          Vesting by Minister of land in the Trust<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[22](#22).          Vesting of Trust land                                                                           4
+[22](#22).          Vesting of Trust land<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[23](#23).          Minister may make arrangements                                                        4
+[23](#23).          Minister may make arrangements<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[24](#24).          Transfer of Trust land                                                                         4
+[24](#24).          Transfer of Trust land<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[25](#25).          Lands Acquisition Act not to apply                                                   4
+[25](#25).          Lands Acquisition Act not to apply<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-**Part 5—Plans**
+**Part 5—Plans<span style="mso-tab-count: 1">                                                                                                                           </span>**
 
-[26](#26).          Trust to prepare plans                                                                         4
+[26](#26).          Trust to prepare plans<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[27](#27).          Plan areas                                                                                             4
+[27](#27).          Plan areas<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[28](#28).          Content of plans                                                                                  4
+[28](#28).          Content of plans<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[29](#29).          Consultation on proposal to prepare draft plan                                  4
+[29](#29).          Consultation on proposal to prepare draft plan<span style="mso-tab-count: 1 dotted">                                </span>
 
-[30](#30).          Consultation on draft plan                                                                   4
+[30](#30).          Consultation on draft plan<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[31](#31).          Minister to approve plans                                                                   4
+[31](#31).          Minister to approve plans<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[32](#32).          Action on referral by Minister                                                            4
+[32](#32).          Action on referral by Minister<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[33](#33).          Rejection of draft plan                                                                         4
+[33](#33).          Rejection of draft plan<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[34](#34).          Notification of plan                                                                             4
+[34](#34).          Notification of plan<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[35](#35).          Commencement and implementation of plans                                     4
+[35](#35).          Commencement and implementation of plans<span style="mso-tab-count: 1 dotted">                                   </span>
 
-[36](#36).          Amendment to plans                                                                           4
+[36](#36).          Amendment to plans<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[36A](#36A).       Submissions to be publicly available                                                   4
+[36A](#36A).       Submissions to be publicly available<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[37](#37).          Commonwealth etc  to act in accordance with plans                           4
+[37](#37).          Commonwealth etc  to act in accordance with plans<span style="mso-tab-count: 1 dotted">                         </span>
 
-[38](#38).          Transitional—interim Trust actions                                                    4
+[38](#38).          Transitional—interim Trust actions<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[38A](#38A).       Transitional—activities before plans take effect                                 4
+[38A](#38A).       Transitional—activities before plans take effect<span style="mso-tab-count: 1 dotted">                               </span>
 
-[38B](#38B).       Transitional—leases and licences  granted before plans take effect     4
+[38B](#38B).       Transitional—leases and licences  granted before plans take effect<span style="mso-tab-count: 1 dotted">   </span>
 
-**Part 6—Executive Director, staff and consultants**
+**Part 6—Executive Director, staff and consultants<span style="mso-tab-count: 1">                                             </span>**
 
-[39](#39).          Executive Director                                                                               4
+[39](#39).          Executive Director<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[40](#40).          Duties of the Executive Director                                                         4
+[40](#40).          Duties of the Executive Director<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[41](#41).          Term of office of Executive Director                                                   4
+[41](#41).          Term of office of Executive Director<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[42](#42).          Acting appointments                                                                           4
+[42](#42).          Acting appointments<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[43](#43).          Additional terms and conditions of appointment of Executive Director 4
+[43](#43).          Additional terms and conditions of appointment of Executive Director<span style="mso-tab-count: 1"> </span>
 
-[44](#44).          Outside employment of Executive Director                                        4
+[44](#44).          Outside employment of Executive Director<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[45](#45).          Leave of absence                                                                                  4
+[45](#45).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[46](#46).          Resignation                                                                                          4
+[46](#46).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[47](#47).          Termination of appointment of Executive Director                            4
+[47](#47).          Termination of appointment of Executive Director<span style="mso-tab-count: 1 dotted">                          </span>
 
-[48](#48).          Employees                                                                                           4
+[48](#48).          Employees<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[49](#49).          Consultants                                                                                          4
+[49](#49).          Consultants<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Part 7—Meetings of the Trust**
+**Part 7—Meetings of the Trust<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[50](#50).          Times and places of meetings                                                              4
+[50](#50).          Times and places of meetings<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[51](#51).          Notice of meetings                                                                               4
+[51](#51).          Notice of meetings<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[52](#52).          Presiding at meetings                                                                           4
+[52](#52).          Presiding at meetings<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[53](#53).          Quorum                                                                                                4
+[53](#53).          Quorum<span style="mso-tab-count: 1 dotted">                                                                                              </span>
 
-[54](#54).          Voting at meetings                                                                               4
+[54](#54).          Voting at meetings<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[54A](#54A).       Minutes of meetings                                                                            4
+[54A](#54A).       Minutes of meetings<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[55](#55).          Conduct of meetings                                                                            4
+[55](#55).          Conduct of meetings<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[56](#56).          Resolutions without meetings                                                             4
+[56](#56).          Resolutions without meetings<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-**Part 8—Advisory committees**
+**Part 8—Advisory committees<span style="mso-tab-count: 1">                                                                                        </span>**
 
-[57](#57).          Community advisory committees                                                       4
+[57](#57).          Community advisory committees<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[57A](#57A).       The Trust’s obligations to community advisory committees             4
+[57A](#57A).       The Trust’s obligations to community advisory committees<span style="mso-tab-count: 1 dotted">           </span>
 
-[58](#58).          Technical advisory committees                                                           4
+[58](#58).          Technical advisory committees<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-**Part 9—Finance**
+**Part 9—Finance<span style="mso-tab-count: 1">                                                                                                                      </span>**
 
-[59](#59).          Appropriation of money                                                                     4
+[59](#59).          Appropriation of money<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[60](#60).          Application of money                                                                         4
+[60](#60).          Application of money<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[61](#61).          Interim Trust costs etc                                                                        4
+[61](#61).          Interim Trust costs etc <span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[62](#62).          Borrowing                                                                                            4
+[62](#62).          Borrowing<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[63](#63).          Trust may give security                                                                       4
+[63](#63).          Trust may give security<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[64](#64).          Contracts                                                                                             4
+[64](#64).          Contracts<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[64A](#64A).       Leases over 25 years                                                                            4
+[64A](#64A).       Leases over 25 years<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[65](#65).          Liability to taxation                                                                             4
+[65](#65).          Liability to taxation<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-**Part 10—Repeal of this Act**
+**Part 10—Repeal of this Act<span style="mso-tab-count: 1">                                                                                            </span>**
 
-[66](#66).          Repeal of this Act                                                                                4
+[66](#66).          Repeal of this Act<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[67](#67).          Transfer of assets                                                                                4
+[67](#67).          Transfer of assets<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[68](#68).          Transfer of liabilities                                                                            4
+[68](#68).          Transfer of liabilities<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[69](#69).          Residual assets and liabilities                                                               4
+[69](#69).          Residual assets and liabilities<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-**Part 11—Miscellaneous**
+**Part 11—Miscellaneous<span style="mso-tab-count: 1">                                                                                                    </span>**
 
-[70](#70).          Annual report                                                                                      4
+[70](#70).          Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[70A](#70A).       Fees for documents                                                                              4
+[70A](#70A).       Fees for documents<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[71](#71).          Exemption from certain State laws                                                      4
+[71](#71).          Exemption from certain State laws<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[72](#72).          Delegation                                                                                            4
+[72](#72).          Delegation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[73](#73).          Regulations                                                                                          4
+[73](#73).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Schedule 1—Defence land to be vested in the Trust and remain in public ownership** 
+**Schedule 1—Defence land to be vested in the Trust and remain in public ownership<span style="mso-tab-count: 1">         </span>** 
 
-**Schedule 2—Other land to be vested in the Trust** 
+**Schedule 2—Other land to be vested in the Trust<span style="mso-tab-count: 1">                                             </span>** 
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
 
- 
+<o:p> </o:p>
 
 
-## An Act to establish the Sydney Harbour Federation Trust, and for related purposes
+## An Act to establish the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Harbour</st1:placename></st1:place> Federation Trust, and for related purposes
 
 Preamble
 
-                         The Parliament intends to conserve and preserve land in the Sydney Harbour region for the benefit of present and future generations of Australians. The land is being vacated by the Department of Defence and includes land at North Head, Middle Head, Georges Heights, Woolwich and Cockatoo Island. Suitable land with significant environmental and heritage values will be returned to the people of Australia.
+<span style="mso-tab-count: 2">                         </span>The Parliament intends to conserve and preserve land in the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Harbour</st1:placename></st1:place> region for the benefit of present and future generations of Australians. The land is being vacated by the Department of Defence and includes land at North Head, Middle Head, <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Georges</st1:placename> <st1:placename>Heights</st1:placename></st1:place>, Woolwich and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Cockatoo</st1:placename> <st1:placetype>Island</st1:placetype></st1:place>. Suitable land with significant environmental and heritage values will be returned to the people of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-                   The Parliament intends to establish the Sydney Harbour Federation Trust as a transitional body to manage the land and facilitate its return in good order. The Trust will transfer suitable land to New South Wales for inclusion in the national parks and reserves system.
+                   The Parliament intends to establish the Sydney Harbour Federation Trust as a transitional body to manage the land and facilitate its return in good order. The Trust will transfer suitable land to <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state> for inclusion in the national parks and reserves system.
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _Sydney__Harbour__Federation Trust Act 2001_.
+                   This Act may be cited as the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Sydney_</st1:placename><st1:placename>_Harbour_</st1:placename></st1:place>_Federation Trust Act 2001_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
              (1)  This Act commences on a day to be fixed by Proclamation.
 
@@ -248,13 +248,13 @@ is situated.
 
                     <a name="commonwealth-bodi"></a>**_Commonwealth body_** includes a Department of State, or authority, of the Commonwealth.
 
-                    <a name="commonwealth-member"></a>**_Commonwealth member_** means a member who was appointed by the Minister under section 12, other than on the recommendation of New South Wales.
+                    <a name=""></a><a name="commonwealth-member"></a>**_Commonwealth member_** means a member who was appointed by the Minister under section 12, other than on the recommendation of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state>.
 
                     <a name="commonwealth-place"></a>**_Commonwealth place_** means a place referred to in paragraph 52(i) of the Constitution, other than the seat of government.
 
                     <a name="execut-director"></a>**_Executive Director_** means the Executive Director of the Trust.
 
-                    <a name="harbour-land"></a>**_Harbour land_** means land in the Sydney Harbour region and includes Sydney Harbour’s river systems, catchment area and North and South Head.
+                    <a name="harbour-land"></a>**_Harbour land_** means land in the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Harbour</st1:placename></st1:place> region and includes <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Harbour</st1:placename></st1:place>’s river systems, catchment area and North and South Head.
 
                     <a name="interest"></a>**_interest_**, in relation to land, means:
 
@@ -286,7 +286,7 @@ is situated.
 
                      (a)  in the _Gazette_; and
 
-                     (b)  in a daily newspaper circulating in the Sydney region; and
+                     (b)  in a daily newspaper circulating in the <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sydney</st1:place></st1:city> region; and
 
                      (c)  in a local newspaper circulating in the area concerned.
 
@@ -324,6 +324,8 @@ under section 22.
 
                    This Act binds the Crown in each of its capacities.
 
+<o:p> </o:p>
+
 ## Part 2—Establishment of the Trust
 
 ##### <a id="5"></a>5  Establishment
@@ -350,7 +352,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                    The objects of the Trust are the following:
 
-                     (a)  to ensure that management of Trust land contributes to enhancing the amenity of the Sydney Harbour region;
+                     (a)  to ensure that management of Trust land contributes to enhancing the amenity of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Harbour</st1:placename></st1:place> region;
 
                      (b)  to protect, conserve and interpret the environmental and heritage values of Trust land;
 
@@ -360,7 +362,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (e)  to co-operate with other Commonwealth bodies that have a connection with any Harbour land in managing that land;
 
-                      (f)  to co-operate with New South Wales, affected councils and the community in furthering the above objects.
+                      (f)  to co-operate with <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state>, affected councils and the community in furthering the above objects.
 
 ##### <a id="7"></a>7  Functions
 
@@ -394,11 +396,11 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  The Trust’s powers include, but are not limited to, the following powers:
 
-                     (a)  negotiate with other Commonwealth bodies and with New South Wales and affected councils;
+                     (a)  negotiate with other Commonwealth bodies and with <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state> and affected councils;
 
                      (b)  acquire, hold and dispose of real and personal property;
 
-                     (c)  enter into agreements with New South Wales and affected councils;
+                     (c)  enter into agreements with <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state> and affected councils;
 
                      (d)  accept gifts, grants, bequests and devises made to it;
 
@@ -420,6 +422,8 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (3)  The Trust must perform its functions and exercise its powers in a manner consistent with any directions given by the Minister under subsection (1).
 
+<o:p> </o:p>
+
 ## Part 3—Constitution of the Trust
 
 ##### <a id="10"></a>10  Membership of the Trust
@@ -432,17 +436,17 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="11"></a>11  Invitations to NSW to recommend members
 
-             (1)  Before initially appointing members to the Trust, the Minister must invite New South Wales to recommend persons to be appointed to 2 membership positions.
+             (1)  Before initially appointing members to the Trust, the Minister must invite <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state> to recommend persons to be appointed to 2 membership positions.
 
              (3)  If:
 
                      (a)  a vacancy arises in the membership of the Trust; and
 
-                     (b)  there are not 2 other membership positions held by persons recommended by New South Wales;
+                     (b)  there are not 2 other membership positions held by persons recommended by <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state>;
 
-then the Minister must invite New South Wales to recommend persons to be appointed to the vacant membership position.
+then the Minister must invite <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state> to recommend persons to be appointed to the vacant membership position.
 
-             (4)  Within 2 months of receiving the invitation, New South Wales may recommend suitable persons.
+             (4)  Within 2 months of receiving the invitation, <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state> may recommend suitable persons.
 
 ##### <a id="12"></a>12  Appointment of members
 
@@ -470,7 +474,7 @@ then the Minister must invite New South Wales to recommend persons to be appoint
 
                      (a)  during a vacancy in the office of Chair (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Chair is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or is, for any reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
 
@@ -530,13 +534,15 @@ then the Minister must invite New South Wales to recommend persons to be appoint
 
 Note:       That Subdivision has rules about “directors” disclosing material personal interests.
 
-             (3)  The Minister must not terminate the appointment of a member appointed on the recommendation of New South Wales without first consulting New South Wales.
+             (3)  The Minister must not terminate the appointment of a member appointed on the recommendation of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state> without first consulting <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state>.
+
+<o:p> </o:p>
 
 ## Part 4—Trust land
 
 ##### <a id="21"></a>21  Vesting by Minister of land in the Trust
 
-             (1)  The Minister administering the _Naval Defence Act 1910_ must, by notice or notices published in the _Gazette_, specify that each Trust land site mentioned in Schedules 1 and 2 that is a Commonwealth place is to vest in the Trust in accordance with section 22 on a specified day that is within 4 years of this Act commencing. A notice may deal with a part only of a Trust land site.
+             (1)  The Minister administering the _Naval Defence Act 1910_ must, by notice or notices published in the _Gazette_, specify that each Trust land site mentioned in Schedules 1 and 2 that is a Commonwealth place is to vest in the Trust in accordance with section 22 on a specified day that is within 4 years of this Act commencing. A notice may deal with a part only of a Trust land site.
 
              (2)  The Minister may, by notice published in the _Gazette_, specify that a part of any other Harbour land that is a Commonwealth place is to vest in the Trust in accordance with section 22.
 
@@ -574,13 +580,13 @@ then the Minister may specify, in writing, the agreement or instrument for the p
 
 unless:
 
-                     (c)  the sale or transfer is to the Commonwealth, New South Wales or an affected council; and
+                     (c)  the sale or transfer is to the Commonwealth, <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state> or an affected council; and
 
-                     (d)  the instrument under which the sale or transfer occurs includes a condition that the land not be sold or otherwise transferred other than to the Commonwealth, New South Wales or an affected council.
+                     (d)  the instrument under which the sale or transfer occurs includes a condition that the land not be sold or otherwise transferred other than to the Commonwealth, <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place></st1:state> or an affected council.
 
           (1A)  A purported sale or transfer of a freehold interest by an instrument that does not comply with paragraph (1)(c) or (d) is not effective.
 
-          (1B)  The Trust must not sell or otherwise transfer the freehold interest of any land mentioned in Schedule 2 without the written approval of the Minister.
+          (1B)  The Trust must not sell or otherwise transfer the freehold interest of any land mentioned in Schedule 2 without the written approval of the Minister.
 
              (2)  If the Trust agrees to sell or otherwise transfer the freehold interest of any Trust land, then the Trust must seek the Minister’s approval, in writing, of:
 
@@ -591,6 +597,8 @@ unless:
 ##### <a id="25"></a>25  Lands Acquisition Act not to apply
 
                    Part X of the _Lands Acquisition Act 1989_ does not apply to the disposal by the Trust of Trust land or an interest in Trust land.
+
+<o:p> </o:p>
 
 ## Part 5—Plans
 
@@ -626,7 +634,7 @@ Note:          If the plan has been approved and notified unde
 
                      (b)  an assessment of the environmental and heritage values of the area;
 
-                     (c)  an assessment of the interrelationship between the plan area and the surrounding region, including other public land in the Sydney Harbour region and other Trust land;
+                     (c)  an assessment of the interrelationship between the plan area and the surrounding region, including other public land in the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Harbour</st1:placename></st1:place> region and other Trust land;
 
                      (d)  objectives for the conservation and management of the area;
 
@@ -848,7 +856,9 @@ Note:          The Trust can also charge a reasonable fee for 
 
              (6)  A lease or licence that contravenes this section or subsection 38A(2) or (3) is void.
 
-## Part 6—Executive Director, staff and consultants
+<o:p> </o:p>
+
+## Part 6—Executive Director, staff and consultants
 
 ##### <a id="39"></a>39  Executive Director
 
@@ -874,7 +884,7 @@ Note:          The Trust can also charge a reasonable fee for 
 
                      (a)  during a vacancy in the office of Executive Director (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period when the Executive Director is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period when the Executive Director is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or is, for any reason, unable to perform the duties of the office.
 
              (2)  If at the end of the 3 month period:
 
@@ -930,9 +940,11 @@ then the Minister, on the recommendation of the Trust, may appoint a person to a
 
              (2)  The consultants are to be engaged on the terms and conditions that the Trust determines.
 
+<o:p> </o:p>
+
 ## Part 7—Meetings of the Trust
 
-##### <a id="50"></a>50  Times and places of meetings
+##### <a id="50"></a>50  <span style="mso-font-kerning: 0pt">Times and places of meetings</span><o:p></o:p>
 
              (1)  The Trust is to hold such meetings as are necessary for the efficient performance of its functions.
 
@@ -946,11 +958,11 @@ then the Minister, on the recommendation of the Trust, may appoint a person to a
 
                      (a)  at least one of those meetings is held in each 6 month period starting on 1 January or 1 July; and
 
-                     (b)  that meeting is open to the public.
+                     (b)  that meeting is open to the public.<o:p></o:p>
 
              (6)  A decision to meet in private must be recorded in the minutes together with the reasons for so deciding.
 
-##### <a id="51"></a>51  Notice of meetings
+##### <a id="51"></a>51<span style="mso-font-kerning: 0pt"><span style="mso-spacerun: yes">  </span>Notice of meetings</span><o:p></o:p>
 
              (1)  Each member is entitled to receive at least:
 
@@ -960,17 +972,17 @@ then the Minister, on the recommendation of the Trust, may appoint a person to a
 
              (2)  The Trust must also give at least 7 days’ notice to the public of a meeting of the Trust, unless the meeting is an urgent meeting or is not open to the public.
 
-##### <a id="52"></a>52  Presiding at meetings
+##### <a id="52"></a>52<span style="mso-font-kerning: 0pt"><span style="mso-spacerun: yes">  </span>Presiding at meetings</span><o:p></o:p>
 
              (1)  The Chair presides at all meetings at which he or she is present.
 
              (2)  If the Chair is not present at a meeting, the members present are to appoint a Commonwealth member to preside.
 
-##### <a id="53"></a>53  Quorum
+##### <a id="53"></a>53<span style="mso-font-kerning: 0pt"><span style="mso-spacerun: yes">  </span>Quorum</span><o:p></o:p>
 
                    A majority of the members for the time being holding office constitutes a quorum.
 
-##### <a id="54"></a>54  Voting at meetings
+##### <a id="54"></a>54<span style="mso-font-kerning: 0pt"><span style="mso-spacerun: yes">  </span>Voting at meetings</span><o:p></o:p>
 
              (1)  A question is decided by a majority of the votes of the members present and voting.
 
@@ -992,11 +1004,11 @@ Note:          Subdivision B of Division 4 of Part 3 of th
 
                      (b)  for inspection at an office of the Trust.
 
-##### <a id="55"></a>55  Conduct of meetings
+##### <a id="55"></a>55<span style="mso-font-kerning: 0pt"><span style="mso-spacerun: yes">  </span>Conduct of meetings</span><o:p></o:p>
 
                    The Trust may, subject to this Part, conduct proceedings at its meetings in accordance with a written code of meeting practice.
 
-##### <a id="56"></a>56  Resolutions without meetings
+##### <a id="56"></a>56<span style="mso-font-kerning: 0pt"><span style="mso-spacerun: yes">  </span>Resolutions without meetings</span><o:p></o:p>
 
                    If the Trust so determines, a resolution is taken to have been passed at a meeting of the Trust if:
 
@@ -1004,7 +1016,9 @@ Note:          Subdivision B of Division 4 of Part 3 of th
 
                      (b)  that majority would have constituted a quorum at a meeting of the Trust.
 
-## Part 8—Advisory committees
+<o:p> </o:p>
+
+## Part 8—Advisory committees
 
 ##### <a id="57"></a>57  Community advisory committees
 
@@ -1014,7 +1028,7 @@ Note:          Subdivision B of Division 4 of Part 3 of th
 
              (3)  In providing that advice or making those recommendations, each committee must consider:
 
-                     (a)  the relevant plan area in the context of the Sydney Harbour region; and
+                     (a)  the relevant plan area in the context of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Harbour</st1:placename></st1:place> region; and
 
                      (b)  the objects of the Trust and the other provisions of this Act.
 
@@ -1056,13 +1070,15 @@ Note:          Subdivision B of Division 4 of Part 3 of th
 
              (3)  In making decisions or taking action in respect of Trust land, the Trust must consider any relevant advice or recommendation of a committee.
 
-             (4)  Each committee consists of persons, appointed by the Trust from time to time, who have considerable qualifications or experience in relation to the matters mentioned in subsection (2).
+             (4)  Each committee consists of persons, appointed by the Trust from time to time, who have considerable qualifications or experience in relation to the matters mentioned in subsection (2).
 
              (5)  The Trust may give a committee written directions as to:
 
                      (a)  the way in which the committee is to carry out its functions; and
 
                      (b)  procedures to be followed in relation to meetings.
+
+<o:p> </o:p>
 
 ## Part 9—Finance
 
@@ -1137,6 +1153,8 @@ for:
 ##### <a id="65"></a>65  Liability to taxation
 
                    The Trust is not subject to taxation under a law of the Commonwealth or of a State or a Territory.
+
+<o:p> </o:p>
 
 ## Part 10—Repeal of this Act
 
@@ -1321,11 +1339,11 @@ all or any of the functions and powers conferred on the Trust by this Act.
                       (s)  any matter incidental to or connected with any of the above.
 
 
-# Schedule 1—Defence land to be vested in the Trust and remain in public ownership
+# Schedule 1—Defence land to be vested in the Trust and remain in public ownership
 
 _Note:       See subsections 21(1) and 24(1) and section 63._
 
-_ _
+_<o:p> </o:p>_
 
 <table>
 <colgroup>
@@ -1337,26 +1355,18 @@ _ _
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Defence land to be vested in the Trust and remain in public ownership</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Defence land to be vested in the Trust and remain in public ownership <o:p></o:p> </b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Item</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Item <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>
-        <b>Title of Trust land site</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Title of Trust land site <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>
-        <b>Site description in plan lodged under the relevant law of New South Wales</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Site description in plan lodged under the relevant law of New South Wales <o:p></o:p> </b></div>
     </td>
   </tr>
 </thead>
@@ -1366,13 +1376,10 @@ _ _
       <div>1</div>
     </td>
     <td>
-      <div>Middle Head and Georges Heights in the Parish of Willoughby, County of
-        Cumberland</div>
+      <div>Middle Head and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Georges</st1:placename> <st1:placename>Heights</st1:placename> </st1:place>in the Parish of <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Willoughby</st1:place> </st1:city>, County of <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Cumberland</st1:place> </st1:city></div>
     </td>
     <td>
-      <div>Lots 202 and 203 in Deposited Plan 1022020; Lot 2 in Deposited Plan 541799;
-        Lot 19 in Deposited Plan 233157; Lot 1 in Deposited Plan 831153; Lot 106
-        in Deposited Plan 1079507</div>
+      <div>Lots 202 and 203 in Deposited Plan 1022020; Lot 2 in Deposited Plan 541799; Lot 1 in Deposited Plan 233157</div>
     </td>
   </tr>
   <tr>
@@ -1380,11 +1387,10 @@ _ _
       <div>2</div>
     </td>
     <td>
-      <div>Woolwich in the Parish of Hunters Hill, County of Cumberland</div>
+      <div>Woolwich in the Parish of Hunters Hill, County of <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Cumberland</st1:place> </st1:city></div>
     </td>
     <td>
-      <div>Lot 4 in Deposited Plan 573213 (“Horse Paddock”) and Lot 1 in Deposited
-        Plan 223852 (“Goat Paddock”)</div>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Lot</st1:place>4 in Deposited Plan 573213 (“Horse Paddock”) and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Lot</st1:place>1 in Deposited Plan 223852 (“Goat Paddock”)</div>
     </td>
   </tr>
   <tr>
@@ -1392,10 +1398,10 @@ _ _
       <div>3</div>
     </td>
     <td>
-      <div>Cockatoo Island</div>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Cockatoo</st1:placename> <st1:placetype>Island</st1:placetype> </st1:place></div>
     </td>
     <td>
-      <div>Lot 1 in Deposited Plan 549630</div>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Lot</st1:place>1 in Deposited Plan 549630</div>
     </td>
   </tr>
 </tbody></table>
@@ -1405,6 +1411,8 @@ _ _
 
 _Note:       See subsection 21(1)._
 
+<o:p> </o:p>
+
 <table>
 <colgroup>
   <col width="10%">
@@ -1415,26 +1423,18 @@ _Note:       See subsection 21(1)._
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Other land to be vested in the Trust</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Other land to be vested in the Trust <o:p></o:p> </b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Item</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Item <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>
-        <b>Title of Trust land site</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Title of Trust land site <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>
-        <b>Site description in plan lodged under the relevant law of New South Wales</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Site description in plan lodged under the relevant law of New South Wales <o:p></o:p> </b></div>
     </td>
   </tr>
 </thead>
@@ -1444,26 +1444,24 @@ _Note:       See subsection 21(1)._
       <div>1</div>
     </td>
     <td>
-      <div>Middle Head and Georges Heights in the Parish of Willoughby, County of
-        Cumberland</div>
+      <div>Middle Head and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Georges</st1:placename> <st1:placename>Heights</st1:placename> </st1:place>in the Parish of <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Willoughby</st1:place> </st1:city>, County of <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Cumberland</st1:place> </st1:city></div>
     </td>
     <td>
-      <div>Lots 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 18 in Deposited
-        Plan 233157; Lots 104 and 105 in Deposited Plan 1079507</div>
+      <div>Lots 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 and 19 in Deposited Plan 233157; <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Lot</st1:place>1 in Deposited Plan 831153</div>
     </td>
   </tr>
 </tbody></table>
 
- 
+<o:p> </o:p>
 
 
-# Notes to the _Sydney Harbour Federation Trust Act 2001_
+# Notes to the _<span style="mso-no-proof: yes">Sydney Harbour Federation Trust Act 2001</span>_
 
 ### Note 1
 
-The _Sydney__ __Harbour__ Federation Trust Act 2001_ as shown in this compilation comprises Act No. 2, 2001 amended as indicated in the Tables below.
+The _Sydney Harbour Federation Trust Act 2001_ as shown in this compilation comprises Act No. 2, 2001 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -1479,30 +1477,30 @@ For all relevant information pertaining to application, saving or transitional p
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year 
+and year <o:p></o:p> 
  </div>
     </td>
     <td>
       <div>Date 
-of Assent 
+of Assent <o:p></o:p> 
  </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <div>Sydney  Harbour Federation Trust Act 2001</div>
+      <div> <span style="mso-no-proof: yes">Sydney Harbour Federation Trust Act 2001</span>   <o:p></o:p> </div>
     </td>
     <td>
       <div>2, 2001</div>
@@ -1514,7 +1512,7 @@ of Assent
       <div>20 Sept 2001</div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
@@ -1528,27 +1526,10 @@ of Assent
       <div>22 Feb 2005</div>
     </td>
     <td>
-      <div>Schedule 2 (items 172–174): Royal Assent</div>
+      <div>Schedule 2 (items 172–174): Royal Assent</div>
     </td>
     <td>
-      <div>Sch. 2 (item 174)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Environment and Heritage Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>97, 2005</div>
-    </td>
-    <td>
-      <div>6 July 2005</div>
-    </td>
-    <td>
-      <div>Schedule 2: Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
+      <div>Sch. 2 (item 174)</div>
     </td>
   </tr>
 </tbody></table>
@@ -1565,41 +1546,33 @@ of Assent
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <div>S. 62</div>
+      <div>S. 62 </div>
     </td>
     <td>
-      <div>am. No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Schedule 1</div>
-    </td>
-    <td>
-      <div>am. No. 97, 2005</div>
+      <div>am. No. 8, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Schedule 2</div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
-      <div>am. No. 97, 2005</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
 </tbody></table>
@@ -1609,9 +1582,9 @@ of Assent
 
 ### Application, saving or transitional provisions
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
-## Schedule 2
+## Schedule 2<o:p></o:p>
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
@@ -1632,6 +1605,4 @@ continues to have effect after the commencing time as if it had been done by the
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
 
- 
-
- 
+<o:p> </o:p>
