@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00454/Html/194271aa-61db-4fd9-8d07-7c127a9a29e9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00403/Html/01381f76-0b8e-4eab-838d-87849b7bba4a_files/image001.gif)
 
 # Dental Benefits Act 2008
 
 **Act No. 41 of 2008 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 30 May 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -16,187 +16,187 @@ The operation of amendments that have been incorporated may be
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney‑General’s Department, Canberra
 
-# Contents
+Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Simplified outline
+[3](#3).            Simplified outline                                                                                 1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            Meaning of _eligible dental patient_
+[5](#5).            Meaning of _eligible dental patient_                                                        4
 
-[6](#6).            Meaning of _dental provider_
+[6](#6).            Meaning of _dental provider_                                                                 5
 
-[7](#7).            Meaning of _rendered on behalf of a dental provider_
+[7](#7).            Meaning of _rendered on behalf of a dental provider_                           5
 
 **Part 2—Entitlement to dental benefits**
 
-[8](#8).            Simplified outline
+[8](#8).            Simplified outline                                                                                 6
 
-[9](#9).            Entitlement to dental benefits
+[9](#9).            Entitlement to dental benefits                                                                6
 
 **Part 3—Payment of dental benefits** 
 
     **Division 1—Introduction**
 
-[10](#10).          Simplified outline
+[10](#10).          Simplified outline                                                                                 7
 
     **Division 2—Payment of dental benefits**
 
-[11](#11).          Payment of dental benefits to persons who incur dental expenses
+[11](#11).          Payment of dental benefits to persons who incur dental expenses       8
 
-[12](#12).          Assignment of dental benefits
+[12](#12).          Assignment of dental benefits                                                              8
 
-[13](#13).          Payment of assigned dental benefits
+[13](#13).          Payment of assigned dental benefits                                                     9
 
-[14](#14).          Payment of dental benefits to dental providers if a request is made
+[14](#14).          Payment of dental benefits to dental providers if a request is made      9
 
     **Division 3—Claims for dental benefits**
 
-[15](#15).          Claims for dental benefits
+[15](#15).          Claims for dental benefits                                                                   11
 
-[16](#16).          Application for a longer period to lodge claims for assigned dental benefits
+[16](#16).          Application for a longer period to lodge claims for assigned dental benefits            12
 
     **Division 4—When dental benefit is not payable**
 
-[17](#17).          Dental benefit is not payable unless particulars are recorded on the account etc 
+[17](#17).          Dental benefit is not payable unless particulars are recorded on the account etc       13
 
-[18](#18).          Dental benefit is not payable unless conditions specified in the Dental Benefits Rules are satisfied
+[18](#18).          Dental benefit is not payable unless conditions specified in the Dental Benefits Rules are satisfied         13
 
-[19](#19).          Dental benefit is not payable if a benefit has been received etc  under a complying health insurance policy
+[19](#19).          Dental benefit is not payable if a benefit has been received etc  under a complying health insurance policy             14
 
-[20](#20).          Dental benefit is not payable in respect of a dental service rendered as part of an episode of hospital treatment etc 
+[20](#20).          Dental benefit is not payable in respect of a dental service rendered as part of an episode of hospital treatment etc                                                                                                            14
 
-[21](#21).          Dental Benefits Rules may provide that dental benefit is not payable
+[21](#21).          Dental Benefits Rules may provide that dental benefit is not payable 15
 
 **Part 4—Dental benefits vouchers** 
 
     **Division 1—Introduction**
 
-[22](#22).          Simplified outline
+[22](#22).          Simplified outline                                                                               16
 
     **Division 2—Qualification for vouchers**
 
-[23](#23).          Qualification for a voucher—teenagers
+[23](#23).          Qualification for a voucher—teenagers                                              17
 
-[24](#24).          When a person satisfies the means test
+[24](#24).          When a person satisfies the means test                                               17
 
-[25](#25).          Dental Benefits Rules must specify certain matters
+[25](#25).          Dental Benefits Rules must specify certain matters                            19
 
-[26](#26).          Qualification for a voucher—other persons
+[26](#26).          Qualification for a voucher—other persons                                       20
 
     **Division 3—Issue of vouchers and other matters**
 
-[27](#27).          Chief Executive Medicare must issue vouchers
+[27](#27).          Medicare Australia CEO must issue vouchers                                   21
 
-[28](#28).          When voucher is not required to be issued—person dies
+[28](#28).          When voucher is not required to be issued—person dies                   22
 
-[29](#29).          When voucher is not required to be issued—circumstances specified in the Dental Benefit Rules
+[29](#29).          When voucher is not required to be issued—circumstances specified in the Dental Benefit Rules           22
 
-[30](#30).          Voucher must specify dental service
+[30](#30).          Voucher must specify dental service                                                  22
 
-[31](#31).          Voucher remains in effect until the end of a calendar year
+[31](#31).          Voucher remains in effect until the end of a calendar year                 22
 
-[32](#32).          Dental Benefits Rules may provide for other matters
+[32](#32).          Dental Benefits Rules may provide for other matters                         23
 
 **Part 5—Disclosure of protected information** 
 
     **Division 1—Introduction**
 
-[33](#33).          Simplified outline
+[33](#33).          Simplified outline                                                                               24
 
     **Division 2—Disclosure of protected information**
 
-[34](#34).          Prohibition on disclosure of protected information
+[34](#34).          Prohibition on disclosure of protected information                            25
 
-[35](#35).          Authorised disclosure—official duties
+[35](#35).          Authorised disclosure—official duties                                               26
 
-[36](#36).          Authorised disclosure—public interest
+[36](#36).          Authorised disclosure—public interest                                              26
 
-[37](#37).          Authorised disclosure—authorisation by affected person
+[37](#37).          Authorised disclosure—authorisation by affected person                  26
 
-[38](#38).          Authorised disclosure—enforcement of the criminal law etc 
+[38](#38).          Authorised disclosure—enforcement of the criminal law etc             26
 
-[39](#39).          Authorised disclosure—preventing or lessening a serious and imminent threat to the life or health of a person
+[39](#39).          Authorised disclosure—preventing or lessening a serious and imminent threat to the life or health of a person      27
 
-[40](#40).          Authorised disclosure—professional body
+[40](#40).          Authorised disclosure—professional body                                        27
 
-[41](#41).          Authorised disclosure—administration of this Act
+[41](#41).          Authorised disclosure—administration of this Act                            28
 
-[42](#42).          Disclosure of protected information to courts or tribunals
+[42](#42).          Disclosure of protected information to courts or tribunals                 29
 
     **Division 3—Offences relating to the disclosure etc. of protected information**
 
-[43](#43).          Offence—disclosure of protected information obtained in the public interest
+[43](#43).          Offence—disclosure of protected information obtained in the public interest           30
 
-[44](#44).          Offence—soliciting disclosure of protected information
+[44](#44).          Offence—soliciting disclosure of protected information                    30
 
-[45](#45).          Offence—use etc  of protected information
+[45](#45).          Offence—use etc  of protected information                                        30
 
-[46](#46).          Offence—offering to supply protected information
+[46](#46).          Offence—offering to supply protected information                           31
 
 **Part 6—General offences and recovery provisions** 
 
     **Division 1—Introduction**
 
-[47](#47).          Simplified outline
+[47](#47).          Simplified outline                                                                               32
 
     **Division 2—Offences relating to assignment agreements**
 
-[48](#48).          Strict liability offence—particulars not set out in assignment agreement
+[48](#48).          Strict liability offence—particulars not set out in assignment agreement  33
 
-[49](#49).          Strict liability offence—copy of assignment agreement not given
+[49](#49).          Strict liability offence—copy of assignment agreement not given      33
 
     **Division 3—Offences relating to the giving of information**
 
-[50](#50).          Strict liability offence—false or misleading statements relating to dental benefit
+[50](#50).          Strict liability offence—false or misleading statements relating to dental benefit      34
 
-[51](#51).          Strict liability offence—false or misleading statements by employees etc 
+[51](#51).          Strict liability offence—false or misleading statements by employees etc                 34
 
-[52](#52).          Offence—statement that person knows is false or misleading
+[52](#52).          Offence—statement that person knows is false or misleading           35
 
-[53](#53).          Offence—statement based on statement that employee etc  knows is false or misleading
+[53](#53).          Offence—statement based on statement that employee etc  knows is false or misleading        35
 
-[54](#54).          False statements etc 
+[54](#54).          False statements etc                                                                            36
 
-[55](#55).          Prosecution of certain offences
+[55](#55).          Prosecution of certain offences                                                          36
 
     **Division 4—Recovery of amounts paid because of false or misleading statements**
 
-[56](#56).          Recovery of amounts paid because of false or misleading statements
+[56](#56).          Recovery of amounts paid because of false or misleading statements 38
 
-[57](#57).          Interest payable on amounts paid because of false or misleading statements
+[57](#57).          Interest payable on amounts paid because of false or misleading statements            38
 
-[58](#58).          Reduction in dental benefit payments because of previous overpayments
+[58](#58).          Reduction in dental benefit payments because of previous overpayments                40
 
 **Part 7—Dental Benefits Rules**
 
-[59](#59).          Simplified outline
+[59](#59).          Simplified outline                                                                               41
 
-[60](#60).          Minister may make Dental Benefits Rules
+[60](#60).          Minister may make Dental Benefits Rules                                         41
 
-[61](#61).          Dental Benefits Schedule
+[61](#61).          Dental Benefits Schedule                                                                   42
 
-[62](#62).          Specification of items in Dental Benefits Schedule may be conditional
+[62](#62).          Specification of items in Dental Benefits Schedule may be conditional 42
 
 **Part 8—Other matters**
 
-[63](#63).          Simplified outline
+[63](#63).          Simplified outline                                                                               44
 
-[64](#64).          Additional functions of the Chief Executive Medicare
+[64](#64).          Additional functions of the Medicare Australia CEO                         44
 
-[65](#65).          Appropriation
+[65](#65).          Appropriation                                                                                     44
 
-[66](#66).          Delegation
+[66](#66).          Delegation                                                                                          45
 
-[67](#67).          Regulations
+[67](#67).          Regulations                                                                                        45
 
-[68](#68).          Review of operation of Act
+[68](#68).          Review of operation of Act                                                                45
 
 **Notes** 
 
@@ -236,7 +236,7 @@ the Dental Benefits Rules.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If dental benefit is
 
-payable, it is payable by the Chief Executive Medicare to the person who incurs
+payable, it is payable by the Medicare Australia CEO to the person who incurs
 
 the dental expenses in respect of the dental service. In some circumstances,
 
@@ -244,13 +244,13 @@ dental benefit is payable to the dental provider.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Claims for dental benefit
 
-must be lodged with the Chief Executive Medicare.</li>
+must be lodged with the Medicare Australia CEO.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Chief Executive
+<li class="BoxList" style="margin-left:21.25pt">•      The Medicare Australia CEO
 
-Medicare is to issue vouchers in relation to a dental service to persons who
+is to issue vouchers in relation to a dental service to persons who qualify for
 
-qualify for a voucher.</li>
+a voucher.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person qualifies for a
 
@@ -282,7 +282,7 @@ Act and other matters.</li>
 
                     <a name="abstudi-scheme"></a>**_ABSTUDY scheme_**means the scheme known as ABSTUDY.
 
-                    <a name="approved-form"></a>**_approved form_** means a form approved, in writing, by the Chief Executive Medicare.
+                    <a name="approved-form"></a>**_approved form_** means a form approved, in writing, by the Medicare Australia CEO.
 
 **_associate_**, in relation to a corporation, means:
 
@@ -295,10 +295,6 @@ Act and other matters.</li>
                     <a name="authorised-disclosur"></a>**_authorised disclosure_** has the meaning given by subsection 34(4).
 
                     <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) for the purposes of the _Banking Act 1959_.
-
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
 
                     <a name="clinic-relev-servic"></a>**_clinically relevant service_** means a service that is generally accepted in the dental profession as being necessary for the appropriate care or treatment of the patient to whom it is rendered.
 
@@ -326,17 +322,15 @@ Act and other matters.</li>
 
                      (b)  a person who is treated as such a person because of section 6, 6A or 7 of that Act.
 
+                    <a name="employe-micar"></a>**_employee of Medicare_** means an employee within the meaning of the _Medicare Australia Act 1973_.
+
                     <a name="entrusted-public-offici"></a>**_entrusted public official_** has the meaning given by subsection 34(2).
-
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Medicare) Act 1973_.
 
                     <a name="item"></a>**_item_** means an item in the Dental Benefits Schedule.
 
                     <a name="make-statem"></a>**_making a statement_**, when used in Division 3 of Part 6, includes a reference to issuing or presenting a document.
 
-                    <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+                    <a name="micar-australia-ceo"></a>**_Medicare Australia CEO_**has the same meaning as in the _Health Insurance Act 1973_.
 
                     <a name="privat-health-insur"></a>**_private health insurer_** has the same meaning as in the _Private Health Insurance Act 2007_.
 
@@ -410,9 +404,9 @@ Act and other matters.</li>
 
 entitlement to dental benefit in respect of a dental service.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Dental benefit is payable
+<li class="BoxList" style="margin-left:21.25pt">•      Dental benefit is payable if
 
-if dental expenses are incurred in respect of the dental service.</li>
+dental expenses are incurred in respect of the dental service.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The amount of dental
 
@@ -452,7 +446,7 @@ payment of dental benefit in respect of a dental service.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Dental benefit is payable
 
-by the Chief Executive Medicare to:</li>
+by the Medicare Australia CEO to:</li>
 
                (a)     the person who incurs the dental expenses in respect of the dental service; or
 
@@ -460,7 +454,7 @@ by the Chief Executive Medicare to:</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Claims for dental benefit
 
-must be lodged with the Chief Executive Medicare.</li>
+must be lodged with the Medicare Australia CEO.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Dental benefit is not
 
@@ -474,9 +468,9 @@ payable in certain circumstances.</li>
 
              (1)  Subject to this Part, dental benefit in respect of a dental service:
 
-                     (a)  is payable by the Chief Executive Medicare on behalf of the Commonwealth to the person who incurs the dental expenses in respect of the dental service; and
+                     (a)  is payable by the Medicare Australia CEO on behalf of the Commonwealth to the person who incurs the dental expenses in respect of the dental service; and
 
-                     (b)  is to be paid in such manner as the Chief Executive Medicare determines.
+                     (b)  is to be paid in such manner as the Medicare Australia CEO determines.
 
              (2)  A determination under paragraph (1)(b) may provide for the amount of dental benefit to be paid to the credit of a bank account in such circumstances (if any), and subject to such conditions (if any), as are specified in the Dental Benefits Rules.
 
@@ -506,7 +500,7 @@ Agents
 
              (1)  If an assignment under section 12 takes effect with respect to a dental benefit, the dental benefit is, subject to section 15, payable in accordance with the assignment.
 
-             (2)  Dental benefit payable under subsection (1) is to be paid in such manner as the Chief Executive Medicare determines.
+             (2)  Dental benefit payable under subsection (1) is to be paid in such manner as the Medicare Australia CEO determines.
 
              (3)  A determination under subsection (2) may provide for the amount of dental benefit to be paid to the credit of a bank account in such circumstances (if any), and subject to such conditions (if any), as are specified in the Dental Benefits Rules.
 
@@ -528,7 +522,7 @@ Dental benefit not to be paid to the person
 
 Dental benefit to be paid to the dental provider if a request is made
 
-             (3)  The person may request the Chief Executive Medicare to:
+             (3)  The person may request the Medicare Australia CEO to:
 
                      (a)  give the person personally; or
 
@@ -536,7 +530,7 @@ Dental benefit to be paid to the dental provider if a request is made
 
 a cheque for the amount of dental benefit payable in respect of the dental service in lieu of a payment to the person under section 11 in respect of the dental service.
 
-             (4)  The Chief Executive Medicare must comply with a request under subsection (3).
+             (4)  The Medicare Australia CEO must comply with a request under subsection (3).
 
              (5)  A cheque given or sent as requested under subsection (3) must be drawn in favour of the dental provider by whom, or on whose behalf, the dental service was rendered.
 
@@ -548,21 +542,21 @@ Claims for unassigned dental benefits
 
              (1)  A claim for a dental benefit (other than a dental benefit assigned under section 12) must be made in accordance with the approved form and:
 
-                     (a)  lodged with the Chief Executive Medicare; or
+                     (a)  lodged with the Medicare Australia CEO; or
 
-                     (b)  sent, in such circumstances (if any), and subject to such conditions (if any), as are specified in the Dental Benefits Rules, to the Chief Executive Medicare in such manner as he or she determines.
+                     (b)  sent, in such circumstances (if any), and subject to such conditions (if any), as are specified in the Dental Benefits Rules, to the Medicare Australia CEO in such manner as he or she determines.
 
 Claims for assigned dental benefits
 
              (2)  A claim for a dental benefit assigned under section 12 must be made in accordance with the approved form and:
 
-                     (a)  lodged with the Chief Executive Medicare; or
+                     (a)  lodged with the Medicare Australia CEO; or
 
-                     (b)  sent, in such circumstances (if any), and subject to such conditions (if any), as are specified in the Dental Benefits Rules, to the Chief Executive Medicare in such manner as he or she determines;
+                     (b)  sent, in such circumstances (if any), and subject to such conditions (if any), as are specified in the Dental Benefits Rules, to the Medicare Australia CEO in such manner as he or she determines;
 
 within the period of 2 years, or such longer period as is allowed under subsection 16(2), after the rendering of the dental service to which the dental benefit relates.
 
-             (3)  A claim referred to in subsection (2) must not be paid unless the claimant satisfies the Chief Executive Medicare that, after signing the relevant agreement under subsection 12(2), the assignor retained in his or her possession a copy of the agreement.
+             (3)  A claim referred to in subsection (2) must not be paid unless the claimant satisfies the Medicare Australia CEO that, after signing the relevant agreement under subsection 12(2), the assignor retained in his or her possession a copy of the agreement.
 
              (4)  A determination under paragraph (2)(b) may provide for a claim for a dental benefit to be sent by electronic transmission.
 
@@ -570,11 +564,11 @@ within the period of 2 years, or such longer period as is allowed under subsecti
 
 ##### <a id="16"></a>16  Application for a longer period to lodge claims for assigned dental benefits
 
-             (1)  A person may, in accordance with the approved form, apply to the Chief Executive Medicare for a longer period within which to lodge a claim referred to in subsection 15(2).
+             (1)  A person may, in accordance with the approved form, apply to the Medicare Australia CEO for a longer period within which to lodge a claim referred to in subsection 15(2).
 
-             (2)  If an application under subsection (1) is made, the Chief Executive Medicare may, by notice in writing given to the person, allow a longer period for the lodgment of the claim.
+             (2)  If an application under subsection (1) is made, the Medicare Australia CEO may, by notice in writing given to the person, allow a longer period for the lodgment of the claim.
 
-             (3)  The Chief Executive Medicare must, in exercising his or her power under subsection (2), have regard to all matters that the Chief Executive Medicare considers relevant including, but not limited to, any hardship that might be caused to the person if a longer period is not allowed.
+             (3)  The Medicare Australia CEO must, in exercising his or her power under subsection (2), have regard to all matters that the Medicare Australia CEO considers relevant including, but not limited to, any hardship that might be caused to the person if a longer period is not allowed.
 
 ### Division 4—When dental benefit is not payable
 
@@ -698,13 +692,11 @@ framework for the issuing of vouchers in relation to a dental service to
 
 persons who qualify for a voucher.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person qualifies for a
+<li class="BoxList" style="margin-left:21.25pt">•      A person qualifies for a voucher
 
-voucher for a calendar year if he or she is aged between 12 and 18 years at any
+for a calendar year if he or she is aged between 12 and 18 years at any time
 
-time during the calendar year, is an eligible person and satisfies the means
-
-test.</li>
+during the calendar year, is an eligible person and satisfies the means test.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The Dental Benefit Rules
 
@@ -712,15 +704,15 @@ may also provide that an eligible person qualifies for a voucher for a calendar
 
 year.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Chief Executive
+<li class="BoxList" style="margin-left:21.25pt">•      The Medicare Australia CEO
 
-Medicare must issue a voucher to a person if the person qualifies for the
+must issue a voucher to a person if the person qualifies for the voucher on or
 
-voucher on or before 31 October in a calendar year.</li>
+before 31 October in a calendar year.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person who qualifies for
 
-a voucher may request the Chief Executive Medicare to issue the voucher.</li>
+a voucher may request the Medicare Australia CEO to issue the voucher.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Unless the Dental Benefit
 
@@ -834,11 +826,11 @@ When a person is receiving ABSTUDY
 
 ### Division 3—Issue of vouchers and other matters
 
-##### <a id="27"></a>27  Chief Executive Medicare must issue vouchers
+##### <a id="27"></a>27  Medicare Australia CEO must issue vouchers
 
 Persons who qualify on or before 31 October
 
-             (1)  The Chief Executive Medicare must issue a voucher for a calendar year in respect of a person, in relation to a dental service, if:
+             (1)  The Medicare Australia CEO must issue a voucher for a calendar year in respect of a person, in relation to a dental service, if:
 
                      (a)  the person qualifies for the voucher on or before whichever of the following dates is applicable:
 
@@ -846,17 +838,17 @@ Persons who qualify on or before 31 October
 
                              (ii)  if an earlier or later date in the calendar year is specified in the Dental Benefits Rules for the purposes of this paragraph—the specified date; and
 
-                     (b)  subject to subsection (5), the Chief Executive Medicare has not already issued a voucher for the calendar year in respect of the person in relation to the dental service.
+                     (b)  subject to subsection (5), the Medicare Australia CEO has not already issued a voucher for the calendar year in respect of the person in relation to the dental service.
 
 Persons who request a voucher
 
-             (2)  The Chief Executive Medicare must issue a voucher for a calendar year in respect of a person, in relation to a dental service, if:
+             (2)  The Medicare Australia CEO must issue a voucher for a calendar year in respect of a person, in relation to a dental service, if:
 
                      (a)  the person qualifies for the voucher; and
 
-                     (b)  the Chief Executive Medicare is requested by or on behalf of the person to issue the voucher; and
+                     (b)  the Medicare Australia CEO is requested by or on behalf of the person to issue the voucher; and
 
-                     (c)  subject to subsection (5), the Chief Executive Medicare has not already issued a voucher for the calendar year in respect of the person in relation to the dental service.
+                     (c)  subject to subsection (5), the Medicare Australia CEO has not already issued a voucher for the calendar year in respect of the person in relation to the dental service.
 
 Timing and form of a request
 
@@ -868,7 +860,7 @@ Timing and form of a request
 
 Voucher to be issued as soon as reasonably practicable
 
-             (4)  The Chief Executive Medicare must issue a voucher under subsection (1) or (2) as soon as reasonably practicable after the person qualifies for the voucher or the request for the voucher is made, as the case requires.
+             (4)  The Medicare Australia CEO must issue a voucher under subsection (1) or (2) as soon as reasonably practicable after the person qualifies for the voucher or the request for the voucher is made, as the case requires.
 
 Exception to the one voucher per year rule
 
@@ -884,13 +876,13 @@ When voucher is not required to be issued
 
                      (a)  a person qualifies for a voucher for a calendar year; and
 
-                     (b)  the person dies before the Chief Executive Medicare issues the voucher for the calendar year in respect of the person;
+                     (b)  the person dies before the Medicare Australia CEO issues the voucher for the calendar year in respect of the person;
 
-the Chief Executive Medicare is not required to issue the voucher.
+the Medicare Australia CEO is not required to issue the voucher.
 
 ##### <a id="29"></a>29  When voucher is not required to be issued—circumstances specified in the Dental Benefit Rules
 
-                   The Dental Benefit Rules may specify circumstances in which the Chief Executive Medicare is not required to issue a voucher for a calendar year in respect of a person who qualifies for the voucher.
+                   The Dental Benefit Rules may specify circumstances in which the Medicare Australia CEO is not required to issue a voucher for a calendar year in respect of a person who qualifies for the voucher.
 
 ##### <a id="30"></a>30  Voucher must specify dental service
 
@@ -966,11 +958,11 @@ Entrusted public official
 
              (2)  Each of the following persons is an **_entrusted public official_**:
 
-                     (a)  the Chief Executive Medicare;
+                     (a)  the Medicare Australia CEO;
 
-                     (b)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_);
+                     (b)  an employee of Medicare Australia;
 
-                     (c)  a consultant to the Human Services Department;
+                     (c)  a consultant engaged under section 21 of the _Medicare Australia Act 1973_;
 
                      (d)  the Secretary of the Department administered by the Minister who administers this Act;
 
@@ -998,13 +990,13 @@ Authorised disclosure
 
                      (b)  for the purposes of enabling another person to perform duties or functions, or exercise powers, under this Act; or
 
-                     (c)  for the purposes of enabling a person to perform duties or functions, or exercise powers, in connection with a medicare program.
+                     (c)  for the purposes of enabling a person to perform duties or functions, or exercise powers, under the _Medicare Australia Act 1973_.
 
 ##### <a id="36"></a>36  Authorised disclosure—public interest
 
              (1)  For the purposes of subsection 34(4), a person may disclose protected information if:
 
-                     (a)  the disclosure is, or is a kind of disclosure, certified, in writing by the Secretary or the Chief Executive Medicare, to be in the public interest; and
+                     (a)  the disclosure is, or is a kind of disclosure, certified, in writing by the Secretary or the Medicare Australia CEO, to be in the public interest; and
 
                      (b)  the disclosure is made in accordance with any requirements specified in the Dental Benefit Rules.
 
@@ -1012,13 +1004,13 @@ Authorised disclosure
 
 ##### <a id="37"></a>37  Authorised disclosure—authorisation by affected person
 
-                   For the purposes of subsection 34(4), the Secretary or the Chief Executive Medicare may disclose protected information to a person who is expressly or impliedly authorised by the person to whom the protected information relates to obtain it.
+                   For the purposes of subsection 34(4), the Secretary or the Medicare Australia CEO may disclose protected information to a person who is expressly or impliedly authorised by the person to whom the protected information relates to obtain it.
 
 ##### <a id="38"></a>38  Authorised disclosure—enforcement of the criminal law etc.
 
-             (1)  For the purposes of subsection 34(4), the Secretary or the Chief Executive Medicare may disclose protected information to an agency if:
+             (1)  For the purposes of subsection 34(4), the Secretary or the Medicare Australia CEO may disclose protected information to an agency if:
 
-                     (a)  the Secretary or the Chief Executive Medicare believes on reasonable grounds that the disclosure is reasonably necessary for:
+                     (a)  the Secretary or the Medicare Australia CEO believes on reasonable grounds that the disclosure is reasonably necessary for:
 
                               (i)  the enforcement of the criminal law; or
 
@@ -1040,21 +1032,21 @@ Authorised disclosure
 
 ##### <a id="39"></a>39  Authorised disclosure—preventing or lessening a serious and imminent threat to the life or health of a person
 
-                   For the purposes of subsection 34(4), the Secretary or the Chief Executive Medicare may disclose protected information if:
+                   For the purposes of subsection 34(4), the Secretary or the Medicare Australia CEO may disclose protected information if:
 
-                     (a)  the Secretary or the Chief Executive Medicare believes on reasonable grounds that the disclosure is necessary to prevent or lessen a serious and imminent threat to the life or health of a person; and
+                     (a)  the Secretary or the Medicare Australia CEO believes on reasonable grounds that the disclosure is necessary to prevent or lessen a serious and imminent threat to the life or health of a person; and
 
                      (b)  the disclosure is for the purposes of preventing or lessening that threat.
 
 ##### <a id="40"></a>40  Authorised disclosure—professional body
 
-             (1)  For the purposes of subsection 34(4), the Secretary or the Chief Executive Medicare may disclose to a professional body protected information that relates to:
+             (1)  For the purposes of subsection 34(4), the Secretary or the Medicare Australia CEO may disclose to a professional body protected information that relates to:
 
                      (a)  a dental provider; or
 
                      (b)  the dental services rendered by or on behalf of a dental provider;
 
-if the Secretary or the Chief Executive Medicare believes on reasonable grounds that the dental provider should be reported to the professional body.
+if the Secretary or the Medicare Australia CEO believes on reasonable grounds that the dental provider should be reported to the professional body.
 
              (2)  Subsection (1) does not apply to protected information:
 
@@ -1062,7 +1054,7 @@ if the Secretary or the Chief Executive Medicare believes on reasonable grounds 
 
                      (b)  from which the identity of the person is apparent or can reasonably be ascertained;
 
-unless the Secretary or the Chief Executive Medicare believes on reasonable grounds that the disclosure of the protected information is necessary in connection with the reporting of the dental provider to the professional body.
+unless the Secretary or the Medicare Australia CEO believes on reasonable grounds that the disclosure of the protected information is necessary in connection with the reporting of the dental provider to the professional body.
 
              (3)  In this section:
 
@@ -1072,15 +1064,15 @@ unless the Secretary or the Chief Executive Medicare believes on reasonable grou
 
              (1)  For the purposes of subsection 34(4), a person may disclose protected information to:
 
-                     (a)  the Chief Executive Medicare; or
+                     (a)  the Medicare Australia CEO or an employee of Medicare Australia; or
 
-                     (b)  the Chief Executive Centrelink; or
+                     (b)  the Chief Executive Officer of Centrelink or an employee of Centrelink; or
 
                      (c)  the Minister who administers:
 
                               (i)  this Act; or
 
-                             (ii)  the _Human Services (Medicare) Act 1973_; or
+                             (ii)  the _Medicare Australia Act 1973_; or
 
                             (iii)  the _Social Security Act 1991_ in so far as that Act relates to youth allowance; or
 
@@ -1095,6 +1087,10 @@ if the disclosure is for the purposes of administering this Act.
 Note:          For the definition of **_APS employee_**, see section 17AA of the _Acts Interpretation Act 1901_.
 
              (2)  In this section:
+
+                    <a name="centrelink"></a>**_Centrelink_** means the Commonwealth Services Delivery Agency.
+
+                    <a name="employe-centrelink"></a>**_employee of Centrelink_** means an employee within the meaning of the _Commonwealth Services Delivery Agency Act 1997_.
 
                     <a name="famili-tax-benefit"></a>**_family tax benefit_** has the same meaning as in the _A New Tax System (Family Assistance) Act 1999._
 
@@ -1410,7 +1406,7 @@ Scope
 
                      (a)  an amount (the **_principal sum_**) is recoverable as a debt due to the Commonwealth from a person or estate under section 56; and
 
-                     (b)  the Chief Executive Medicare has given a written notice to the person or estate claiming the amount as a debt due to the Commonwealth.
+                     (b)  the Medicare Australia CEO has given a written notice to the person or estate claiming the amount as a debt due to the Commonwealth.
 
 Interest payable
 
@@ -1424,7 +1420,7 @@ Interest payable
 
                      (a)  the period of 3 months beginning on the day after the written notice is given to the person or estate under paragraph (1)(b); or
 
-                     (b)  such longer period as the Chief Executive Medicare allows.
+                     (b)  such longer period as the Medicare Australia CEO allows.
 
              (4)  Interest under subsection (2) is payable from:
 
@@ -1442,11 +1438,11 @@ Definition
 
              (6)  In this section:
 
-                    <a name="repay-arrang"></a>**_repayment arrangement_**, in relation to a principal sum, means an arrangement entered into by the Chief Executive Medicare and a person, or the person’s estate, for the repayment of the principal sum.
+                    <a name="repay-arrang"></a>**_repayment arrangement_**, in relation to a principal sum, means an arrangement entered into by the Medicare Australia CEO and a person, or the person’s estate, for the repayment of the principal sum.
 
 ##### <a id="58"></a>58  Reduction in dental benefit payments because of previous overpayments
 
-             (1)  The Chief Executive Medicare may reduce one or more amounts of dental benefit payable to a person if:
+             (1)  The Medicare Australia CEO may reduce one or more amounts of dental benefit payable to a person if:
 
                      (a)  an amount or amounts have previously been paid under this Act to the person purportedly by way of dental benefit; and
 
@@ -1462,7 +1458,7 @@ Amount of reduction—previous recovery or reduction
 
              (4)  If either or both of the following have occurred:
 
-                     (a)  the Chief Executive Medicare has previously reduced, under this section, one or more amounts (the **_reduced amounts_**) of dental benefit payable to the person;
+                     (a)  the Medicare Australia CEO has previously reduced, under this section, one or more amounts (the **_reduced amounts_**) of dental benefit payable to the person;
 
                      (b)  one or more amounts (the **_recovered amounts_**) have been previously recovered from the person under section 56;
 
@@ -1512,7 +1508,7 @@ Dental Benefits Rules
 
 Dental Benefits Rules may confer power
 
-             (2)  The Dental Benefits Rules may make provision for or in relation to a matter by conferring a power on the Minister or on the Chief Executive Medicare.
+             (2)  The Dental Benefits Rules may make provision for or in relation to a matter by conferring a power on the Minister or on the Medicare Australia CEO.
 
 Dental Benefits Rules may incorporate material
 
@@ -1564,7 +1560,7 @@ Note:          The amount of dental benefit payable in respect
 
 in relation to:</li>
 
-               (a)     the functions of the Chief Executive Medicare; and
+               (a)     the functions of the Medicare Australia CEO; and
 
               (b)     the appropriation of the Consolidated Revenue Fund; and
 
@@ -1574,11 +1570,11 @@ in relation to:</li>
 
 * * *
 
-##### <a id="64"></a>64  Additional functions of the Chief Executive Medicare
+##### <a id="64"></a>64  Additional functions of the Medicare Australia CEO
 
-             (1)  In addition to the functions of the Chief Executive Medicare under the _Human Services (Medicare) Act 1973_, the Chief Executive Medicare has such additional functions as are conferred on the Chief Executive Medicare by or under this Act.
+             (1)  In addition to the functions of the Medicare Australia CEO under the _Medicare Australia Act 1973_, the Medicare Australia CEO has such additional functions as are conferred on the Medicare Australia CEO by or under this Act.
 
-             (2)  Anything done by or on behalf of the Chief Executive Medicare in the performance of such additional functions is taken, for all purposes, to have been done in the performance of his or her functions under the _Human Services (Medicare) Act 1973_.
+             (2)  Anything done by or on behalf of the Medicare Australia CEO in the performance of such additional functions is taken, for all purposes, to have been done in the performance of his or her functions under the _Medicare Australia Act 1973_.
 
 ##### <a id="65"></a>65  Appropriation
 
@@ -1684,259 +1680,293 @@ of Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 68–94): 1 July 2011</div>
+    <div>Schedule 4 (items 68–94): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3, 4</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13, 14</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15, 16</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 27</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27–29</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34–41</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 57, 58</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 64</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 68  Section 3
+
+Omit:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      If dental benefit is
+
+payable, it is payable by the Medicare Australia CEO to the person who incurs
+
+the dental expenses in respect of the dental service. In some circumstances,
+
+dental benefit is payable to the dental provider.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      Claims for dental benefit
+
+must be lodged with the Medicare Australia CEO.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      The Medicare Australia CEO
+
+is to issue vouchers in relation to a dental service to persons who qualify for
+
+a voucher.</li>
+
+* * *
+
+substitute:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      If dental benefit is
+
+payable, it is payable by the Chief Executive Medicare to the person who incurs
+
+the dental expenses in respect of the dental service. In some circumstances,
+
+dental benefit is payable to the dental provider.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      Claims for dental benefit
+
+must be lodged with the Chief Executive Medicare.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      The Chief Executive
+
+Medicare is to issue vouchers in relation to a dental service to persons who
+
+qualify for a voucher.</li>
+
+* * *
+
+## 69  Section 4 (definition of _approved form_)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 70  Section 4
+
+Insert:
+
+                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+
+## 71  Section 4
+
+Insert:
+
+                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 72  Section 4 (definition of _employee of Medicare_)
+
+Repeal the definition.
+
+## 73  Section 4
+
+Insert:
+
+                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
+
+## 74  Section 4
+
+Insert:
+
+                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Medicare) Act 1973_.
+
+## 75  Section 4 (definition of _Medicare Australia CEO_)
+
+Repeal the definition.
+
+## 76  Section 4
+
+Insert:
+
+                    <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 77  Section 10
+
+Omit:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      Dental
+
+benefit is payable by the Medicare Australia CEO to:</li>
+
+               (a)     the person who incurs the dental expenses in respect of the dental service; or
+
+              (b)     the dental provider, if there has been an assignment of dental benefits or if there has been a request that the dental provider be paid.
+
+<li class="BoxList" style="margin-left:21.25pt">•      Claims for dental benefit
+
+must be lodged with the Medicare Australia CEO.</li>
+
+* * *
+
+substitute:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      Dental benefit is payable
+
+by the Chief Executive Medicare to:</li>
+
+               (a)     the person who incurs the dental expenses in respect of the dental service; or
+
+              (b)     the dental provider, if there has been an assignment of dental benefits or if there has been a request that the dental provider be paid.
+
+<li class="BoxList" style="margin-left:21.25pt">•      Claims for dental benefit
+
+must be lodged with the Chief Executive Medicare.</li>
+
+* * *
+
+## 78  Subsection 11(1)
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 79  Subsection 13(2)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 80  Sections 14 to 16
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 81  Section 22
+
+Omit:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      The Medicare Australia CEO
+
+must issue a voucher to a person if the person qualifies for the voucher on or
+
+before 31 October in a calendar year.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      A person who qualifies for
+
+a voucher may request the Medicare Australia CEO to issue the voucher.</li>
+
+* * *
+
+substitute:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      The Chief Executive
+
+Medicare must issue a voucher to a person if the person qualifies for the
+
+voucher on or before 31 October in a calendar year.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      A person who qualifies for
+
+a voucher may request the Chief Executive Medicare to issue the voucher.</li>
+
+* * *
+
+## 82  Sections 27 to 29
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 27 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 83  Paragraphs 34(2)(a) to (c)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  the Chief Executive Medicare;
+
+                     (b)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_);
+
+                     (c)  a consultant to the Human Services Department;
+
+## 84  Paragraph 35(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  for the purposes of enabling a person to perform duties or functions, or exercise powers, in connection with a medicare program.
+
+## 85  Sections 36 to 40
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 86  Paragraphs 41(1)(a) to (c)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  the Chief Executive Medicare; or
+
+                     (b)  the Chief Executive Centrelink; or
+
+                     (c)  the Minister who administers:
+
+                              (i)  this Act; or
+
+                             (ii)  the _Human Services (Medicare) Act 1973_; or
+
+                            (iii)  the _Social Security Act 1991_ in so far as that Act relates to youth allowance; or
+
+                            (iv)  the _A New Tax System (Family Assistance) Act 1999_ in so far as that Act relates to family tax benefit; or
+
+                             (v)  the ABSTUDY scheme; or
+
+## 87  Subsection 41(2) (definition of _Centrelink_)
+
+Repeal the definition.
+
+## 88  Subsection 41(2) (definition of _employee of Centrelink_)
+
+Repeal the definition.
+
+## 89  Sections 57 and 58
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 90  Subsection 60(2)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 91  Section 63
+
+Omit:
+
+* * *
+
+               (a)     the functions of the Medicare Australia CEO; and
+
+* * *
+
+substitute:
+
+* * *
+
+               (a)     the functions of the Chief Executive Medicare; and
+
+* * *
+
+## 92  Subsection 64(1)
+
+Repeal the subsection, substitute:
+
+             (1)  In addition to the functions of the Chief Executive Medicare under the _Human Services (Medicare) Act 1973_, the Chief Executive Medicare has such additional functions as are conferred on the Chief Executive Medicare by or under this Act.
+
+_Note:       The heading to section 64 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 93  Subsection 64(2)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 94  Subsection 64(2)
+
+Omit “_Medicare Australia Act 1973_”, substitute “_Human Services (Medicare) Act 1973_”.
+
+As at 30 May 2011 the amendments are not incorporated in this compilation.
 
  
