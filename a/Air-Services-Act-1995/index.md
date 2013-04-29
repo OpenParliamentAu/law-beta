@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00244/Html/AirServices1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00199/Html/AirServices1995_WD02_image001.gif)
 
 # Air Services Act 1995
 
 **Act No. 81 of 1995 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 26 May 2009
  taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force
@@ -425,7 +425,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  promoting and fostering civil aviation, whether in or outside Australia;
 
-                     (c)  cooperating with the Australian Transport Safety Bureau in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft;
+                     (c)  co-operating with the Executive Director of Transport Safety Investigation in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft;
 
                      (d)  carrying out activities to protect the environment from the effects of, and the effects associated with, the operation of:
 
@@ -637,7 +637,7 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
                     <a name="ministeri-nomine"></a>**_ministerial nominee_** means a person whose responsibilities or duties include advising the Minister about AA’s performance and strategies.
 
-##### <a id="19"></a>19  Immunity of AA from State and Territory land use laws
+##### <a id="19"></a>19  Immunity of AA from State and Territory land use laws
 
              (1)  Subject to subsection (2), a land use law does not apply in relation to:
 
@@ -1880,7 +1880,7 @@ Remainder: Royal Assent</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 68): 1 July 2009</div>
+    <div>Schedule 1 (item 68): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1905,7 +1905,7 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
-_(a)_     The _Air Services Act 1995_ was amended by Schedule 2 (item 153) and Schedule 3 (item 1) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsections 2(2) and 3(a) of which provide as follows:
+_(a)_    The _Air Services Act 1995_ was amended by Schedule 2 (item 153) and Schedule 3 (item 1) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsections 2(2) and 3(a) of which provide as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
@@ -2174,7 +2174,7 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 130, 1997; No. 95, 1998; Nos. 19 and 83, 2003; No. 9, 2004; No. 20, 2009</div>
+    <div>am. No. 130, 1997; No. 95, 1998; Nos. 19 and 83, 2003; No. 9, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2369,6 +2369,22 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>am. No. 130, 1997; No. 39, 2007</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Transport Safety Investigation Amendment Act 2009 (No. 20, 2009)_
+
+The following amendment commences on 1 July 2009:
+
+## Schedule 1
+
+## 68  Paragraph 8(1)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  cooperating with the Australian Transport Safety Bureau in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft;
+
+As at 26 May 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
