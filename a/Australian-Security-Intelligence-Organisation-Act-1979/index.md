@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00260/Html/a701bad9-e875-4ed8-b2cc-9e2775e84704_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00585/Html/190393e4-44bf-4dcb-a20a-d35575af4b4a_files/image001.gif)
 
 # Australian Security Intelligence Organisation Act 1979
 
 **Act No. 113 of 1979 as amended**
 
-This compilation was prepared on 20 February 2012
+This compilation was prepared on 29 July 2011
  taking into account amendments up to Act No. 80 of 2011
 
 [**Note**: Division 3 of Part III ceases to be in force on 22 July 2016, 
@@ -369,7 +369,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="carriag-servic-provid"></a>**_carriage service provider_** has the same meaning as in the _Telecommunications Act 1997_.
 
-                    <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications Act 1997_.
+                    <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications Act 1997_.
 
                     <a name="certifi-copi"></a>**_certified copy_**, in relation to a warrant or an instrument revoking a warrant, means a copy of the warrant or instrument that has been certified in writing by the Director‑General or a Deputy Director‑General to be a true copy of the warrant or instrument.
 
@@ -383,7 +383,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="deputi-director-gener"></a>**_Deputy Director‑General_** means an officer of the Organisation who holds office as Deputy Director‑General of Security.
 
-                    <a name="digo"></a>**_DIGO_**has the meaning given by the _Intelligence Services Act 2001_.
+                    <a name="digo"></a>**_DIGO_**has the meaning given by the _Intelligence Services Act 2001_.
 
                     <a name="director-gener"></a>**_Director‑General_** means the Director‑General of Security holding office under this Act.
 
@@ -599,7 +599,7 @@ except by a direction contained in an instrument in writing that sets out the Mi
 
              (2)  The Director‑General shall be paid such allowances as are prescribed.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_ and to section 15.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_ and to section 15.
 
 ##### <a id="11"></a>11  Leave of absence
 
@@ -617,7 +617,7 @@ except by a direction contained in an instrument in writing that sets out the Mi
 
              (2)  If the Director‑General:
 
-                     (a)  is absent from duty, except with leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
+                     (a)  is absent from duty, except with leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
                      (b)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 
@@ -843,7 +843,7 @@ Note 2:       There are additional restrictions, in the _Telecommuni
 
                     <a name="carrier"></a>**_carrier_** means:
 
-                     (a)  a carrier within the meaning of the _Telecommunications Act 1997_; or 
+                     (a)  a carrier within the meaning of the _Telecommunications Act 1997_; or 
 
                      (b)  a carriage service provider within the meaning of that Act.
 
@@ -907,7 +907,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                     <a name="authorised-offic-employe"></a>**_authorised officer or employee_** means an officer or employee who is authorised under subsection (6) for the purposes of this section.
 
-                    <a name="oper"></a>**_operator_** has the meaning given by section 4 of the _Customs Act 1901_.
+                    <a name="oper"></a>**_operator_** has the meaning given by section 4 of the _Customs Act 1901_.
 
                     <a name="senior-offic-organis"></a>**_senior officer of the Organisation_** means an officer of the Organisation who holds or performs the duties of an office that is:
 
@@ -1211,7 +1211,7 @@ Test for issue of warrant
 
                      (b)  the use by the Organisation of a tracking device applied to any object (a **_target object_**) used or worn, or likely to be used or worn, by the subject to enable the Organisation to track the subject will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security.
 
-Note:          **_Tracking device_**, **_track_**,_object_ and **_apply_** are defined in subsection 26A(3).
+Note:          **_Tracking device_**, **_track_**,_object_ and **_apply_** are defined in subsection 26A(3).
 
 Authorisation in warrant
 
@@ -1285,7 +1285,7 @@ Test for issue of warrant
 
                      (b)  the use by the Organisation of a tracking device applied to the target object to enable the Organisation to track the target object will, or is likely to, assist the Organisation in carrying out its function of obtaining intelligence relevant to security.
 
-Note:          **_Tracking device_**, **_track_**,**_object_**and**_apply_**are defined in subsection 26A(3).
+Note:          **_Tracking device_**, **_track_**,**_object_**and**_apply_**are defined in subsection 26A(3).
 
 Authorisation in warrant
 
@@ -1495,7 +1495,7 @@ Things that may be specified for warrant issued under subsection (6)
 
 Duration of warrant
 
-             (9)  A warrant issued under this section must specify the period during which it is to remain in force. The period must not be more than 6 months, although the Minister may revoke the warrant before the period has expired.
+             (9)  A warrant issued under this section must specify the period during which it is to remain in force. The period must not be more than 6 months, although the Minister may revoke the warrant before the period has expired.
 
 Issue of further warrants not prevented
 
@@ -1517,7 +1517,7 @@ Definitions
 
                     <a name="deliveri-servic-provid"></a>**_delivery service provider_** means a person whose business is or includes delivering articles.
 
-##### <a id="27A"></a>27A  Warrants for the performance of functions under paragraph 17(1)(e)
+##### <a id="27A"></a>27A  Warrants for the performance of functions under paragraph 17(1)(e)
 
              (1)  Where:
 
@@ -1603,7 +1603,7 @@ the Director‑General must:
 
 ##### <a id="27B"></a>27B  Performance of other functions under paragraph 17(1)(e)
 
-                   If:
+                   If:
 
                      (a)  the Director‑General gives a notice in writing to the Minister (the **_authorising Minister_**) requesting the authorising Minister to authorise the Organisation to obtain foreign intelligence in relation to a matter specified in the notice; and
 
@@ -2005,7 +2005,7 @@ Contacting persons
 
              (5)  The warrant may identify someone whom the person is permitted to contact by reference to the fact that he or she is a lawyer of the person’s choice or has a particular legal or familial relationship with the person. This does not limit the ways in which the warrant may identify persons whom the person is permitted to contact.
 
-Note 1:       The warrant may identify persons by reference to a class. See subsection 33(3AB) of the _Acts Interpretation Act 1901_.
+Note 1:       The warrant may identify persons by reference to a class. See subsection 46(3) of the _Acts Interpretation Act 1901_.
 
 Note 2:       Section 34K permits the person to contact the Inspector‑General of Intelligence and Security, the Ombudsman and a person referred to in paragraph 40SB(3)(b) of the _Australian Federal Police Act 1979_ while the person is in custody or detention, so the warrant must identify them.
 
@@ -2139,7 +2139,7 @@ Note:          A warrant issued under section 34E requires a
 
                      (a)  a person being detained after the first time when either of the following events happens:
 
-                              (i)  someone exercising authority under the warrant informs the prescribed authority before whom the person is appearing for questioning that the Organisation does not have any further request described in paragraph 34E(4)(a) or 34G(7)(a) to make of the person;
+                              (i)  someone exercising authority under the warrant informs the prescribed authority before whom the person is appearing for questioning that the Organisation does not have any further request described in paragraph 34E(4)(a) or 34G(7)(a) to make of the person;
 
                              (ii)  section 34R prohibits anyone exercising authority under the warrant from questioning the person under the warrant; or
 
@@ -2307,17 +2307,17 @@ until the prescribed authority is satisfied that the Inspector‑General’s con
 
 Note:          The prescribed authority may give directions under section 34K instead or as well. These could:
 
-(a)    deal with the Inspector‑General’s concern in a way satisfactory to the prescribed authority; or
+(a)           deal with the Inspector‑General’s concern in a way satisfactory to the prescribed authority; or
 
-(b)    deal with treatment of the person while questioning is deferred; or
+(b)           deal with treatment of the person while questioning is deferred; or
 
-(c)    provide for release of the person from detention if the prescribed authority is satisfied that the Inspector‑General’s concern cannot be satisfactorily addressed within the remainder of the period for which the person may be detained under the warrant.
+(c)           provide for release of the person from detention if the prescribed authority is satisfied that the Inspector‑General’s concern cannot be satisfactorily addressed within the remainder of the period for which the person may be detained under the warrant.
 
 ##### <a id="34R"></a>34R  End of questioning under warrant
 
-             (1)  Anyone exercising authority under a warrant issued under this Division must not question a person under the warrant if the person has been questioned under the warrant for a total of 8 hours, unless the prescribed authority before whom the person was being questioned just before the end of that 8 hours permits the questioning to continue for the purposes of this subsection.
+             (1)  Anyone exercising authority under a warrant issued under this Division must not question a person under the warrant if the person has been questioned under the warrant for a total of 8 hours, unless the prescribed authority before whom the person was being questioned just before the end of that 8 hours permits the questioning to continue for the purposes of this subsection.
 
-             (2)  Anyone exercising authority under a warrant issued under this Division must not question a person under the warrant if the person has been questioned under the warrant for a total of 16 hours, unless the prescribed authority before whom the person was being questioned just before the end of that 16 hours permits the questioning to continue for the purposes of this subsection.
+             (2)  Anyone exercising authority under a warrant issued under this Division must not question a person under the warrant if the person has been questioned under the warrant for a total of 16 hours, unless the prescribed authority before whom the person was being questioned just before the end of that 16 hours permits the questioning to continue for the purposes of this subsection.
 
              (3)  Anyone exercising authority under the warrant may request the prescribed authority to permit the questioning to continue for the purposes of subsection (1) or (2). The request may be made in the absence of:
 
@@ -2329,7 +2329,7 @@ Note:          The prescribed authority may give directions un
 
                      (d)  a guardian of that person; and
 
-                     (e)  another person who meets the requirements of subsection 34ZE(7) in relation to that person; and
+                     (e)  another person who meets the requirements of subsection 34ZE(7) in relation to that person; and
 
                       (f)  anyone the person being questioned is permitted by a direction under section 34K to contact.
 
@@ -2341,7 +2341,7 @@ Note:          The prescribed authority may give directions un
 
              (5)  The prescribed authority may revoke the permission. Revocation of the permission does not affect the legality of anything done in relation to the person under the warrant before the revocation.
 
-             (6)  Anyone exercising authority under a warrant issued under this Division must not question a person under the warrant if the person has been questioned under the warrant for a total of 24 hours.
+             (6)  Anyone exercising authority under a warrant issued under this Division must not question a person under the warrant if the person has been questioned under the warrant for a total of 24 hours.
 
 Release from detention when further questioning is prohibited
 
@@ -2409,7 +2409,7 @@ Time that is not questioning time
 
              (1)  If:
 
-                     (a)  either a warrant issued under section 34G, or subsection 34K(7), authorises a person to be taken into custody; and
+                     (a)  either a warrant issued under section 34G, or subsection 34K(7), authorises a person to be taken into custody; and
 
                      (b)  a police officer believes on reasonable grounds that the person is on any premises;
 
@@ -2689,7 +2689,7 @@ that is found during a search under this section may be seized.
 
                              (ii)  any of the things that the Organisation is authorised to do that are specified in the warrant.
 
-             (2)  A police officer may retain for such time as is reasonable any seizable item seized by the officer under paragraph 34ZB(9)(a).
+             (2)  A police officer may retain for such time as is reasonable any seizable item seized by the officer under paragraph 34ZB(9)(a).
 
              (3)  A record or other thing, or an item, retained as mentioned in paragraph (1)(a) or (c) may be retained:
 
@@ -2807,7 +2807,7 @@ Note:          The prescribed authority may set the breaks bet
 
              (3)  A person commits an offence if:
 
-                     (a)  the person is identified (whether by name, reference to a class that includes the person or some other means) in a direction given by a prescribed authority under paragraph 34K(1)(c), (d), (e), (f) or (g) or subsection 34Q(4), 34ZE(2) or (8) or 34ZR(3) as a person who is to implement the direction; and
+                     (a)  the person is identified (whether by name, reference to a class that includes the person or some other means) in a direction given by a prescribed authority under paragraph 34K(1)(c), (d), (e), (f) or (g) or subsection 34Q(4), 34ZE(2) or (8) or 34ZR(3) as a person who is to implement the direction; and
 
                      (b)  the person engages in conduct; and
 
@@ -2821,7 +2821,7 @@ Note:          The prescribed authority may set the breaks bet
 
                      (a)  the person engages in conduct; and
 
-                     (b)  the conduct contravenes subsection 34K(9), paragraph 34K(11)(c), (e), (g) or (i), subsection 34M(4), paragraph 34N(3)(b) or (4)(a) or subsection 34T(2); and
+                     (b)  the conduct contravenes subsection 34K(9), paragraph 34K(11)(c), (e), (g) or (i), subsection 34M(4), paragraph 34N(3)(b) or (4)(a) or subsection 34T(2); and
 
                      (c)  the person knows of the contravention.
 
@@ -2899,7 +2899,7 @@ Note:          The prescribed authority may set the breaks bet
 
                    The Director‑General must give the Minister, for each warrant issued under this Division, a written report on the extent to which the action taken under the warrant has assisted the Organisation in carrying out its functions.
 
-##### <a id="34ZI"></a>34ZI  Providing information to the Inspector‑General
+##### <a id="34ZI"></a>34ZI  Providing information to the Inspector‑General
 
                    The Director‑General must, as soon as practicable, give the following to the Inspector‑General of Intelligence and Security:
 
@@ -2925,9 +2925,9 @@ Note:          The prescribed authority may set the breaks bet
 
 Note:          Paragraph 34F(6)(b) describes information additional to or materially different from that known to the Director‑General at the time the Director‑General sought the Minister’s consent to request the issue of the last warrant that:
 
-(a)    was issued under this Division before the seeking of the Minister’s consent to the request proposed in the draft request; and
+(a)           was issued under this Division before the seeking of the Minister’s consent to the request proposed in the draft request; and
 
-(b)    was a warrant in connection with which the person was detained under this Division.
+(b)           was a warrant in connection with which the person was detained under this Division.
 
              (3)  The Inspector‑General must report on the outcome of the inspection in his or her annual report for the year in which he or she carries out the examination. For this purpose, **_annual report_** means a report under section 35 of the _Inspector‑General of Intelligence and Security Act 1986_.
 
@@ -3031,7 +3031,7 @@ Removal of legal adviser for disrupting questioning
 
              (9)  If the prescribed authority considers the legal adviser’s conduct is unduly disrupting the questioning, the authority may direct a person exercising authority under the warrant to remove the legal adviser from the place where the questioning is occurring.
 
-           (10)  If the prescribed authority directs the removal of the legal adviser, the prescribed authority must also direct under paragraph 34K(1)(d) that the subject may contact someone else as a legal adviser. Subsection 34K(2) does not prevent the prescribed authority from giving the direction under paragraph 34K(1)(d) in accordance with this subsection.
+           (10)  If the prescribed authority directs the removal of the legal adviser, the prescribed authority must also direct under paragraph 34K(1)(d) that the subject may contact someone else as a legal adviser. Subsection 34K(2) does not prevent the prescribed authority from giving the direction under paragraph 34K(1)(d) in accordance with this subsection.
 
 If legal adviser also represents young person
 
@@ -3049,7 +3049,7 @@ If legal adviser also represents young person
 
                      (b)  either:
 
-                              (i)  is or has been contacted by the subject as permitted by the warrant or a direction under paragraph 34K(1)(d); or
+                              (i)  is or has been contacted by the subject as permitted by the warrant or a direction under paragraph 34K(1)(d); or
 
                              (ii)  is or has been present when the subject was before a prescribed authority for questioning under the warrant.
 
@@ -3377,11 +3377,11 @@ Limit on assistance
 
                             including action affecting the occupancy of any office or position under the Commonwealth or an authority of the Commonwealth or under a State or an authority of a State, or in the service of a Commonwealth contractor, the occupant of which has or may have any such access or ability;
 
-                     (b)  the exercise of any power, or the performance of any function, in relation to a person under the _Migration Act 1958_ or the regulations under that Act; or
+                     (b)  the exercise of any power, or the performance of any function, in relation to a person under the _Migration Act 1958_ or the regulations under that Act; or
 
                      (c)  the exercise of any power, or the performance of any function, in relation to a person under the _Australian Citizenship Act 2007_, the _Australian Passports Act 2005_ or the regulations under either of those Acts; or
 
-                     (d)  the exercise of a power under section 58A, or subsection 581(3), of the _Telecommunications Act 1997_.
+                     (d)  the exercise of a power under section 58A, or subsection 581(3), of the _Telecommunications Act 1997_.
 
 Note:          An obligation, prohibition or restriction imposed by a control order is not prescribed administrative action (see subsection (2)).
 
@@ -3415,7 +3415,7 @@ whether or not the matters contained in the assessment would, by themselves, jus
 
                      (a)  a security assessment in relation to the employment, by engagement outside Australia for duties outside Australia, of a person who is not an Australian citizen or is not normally resident in Australia; or
 
-                     (b)  a security assessment in relation to action of a kind referred to in paragraph (b) of the definition of **_prescribed administrative action_** in section 35 (other than an assessment made for the purposes of subsection 202(1) of the _Migration Act 1958_) in respect of a person who is not:
+                     (b)  a security assessment in relation to action of a kind referred to in paragraph (b) of the definition of **_prescribed administrative action_** in section 35 (other than an assessment made for the purposes of subsection 202(1) of the _Migration Act 1958_) in respect of a person who is not:
 
                               (i)  an Australian citizen;
 
@@ -3445,7 +3445,7 @@ whether or not the matters contained in the assessment would, by themselves, jus
 
 ##### <a id="38"></a>38  Person to be notified of assessment
 
-             (1)  Subject to this section, where, after the commencement of this Act, an adverse or qualified security assessment in respect of a person is furnished by the Organisation to a Commonwealth agency or a State or an authority of a State, the Commonwealth agency, the State or the authority of the State shall, within 14 days after the day on which the assessment is so furnished, give to that person a notice in writing, to which a copy of the assessment is attached, informing him or her of the making of the assessment and containing information, in the prescribed form, concerning his or her right to apply to the Tribunal under this Part.
+             (1)  Subject to this section, where, after the commencement of this Act, an adverse or qualified security assessment in respect of a person is furnished by the Organisation to a Commonwealth agency or a State or an authority of a State, the Commonwealth agency, the State or the authority of the State shall, within 14 days after the day on which the assessment is so furnished, give to that person a notice in writing, to which a copy of the assessment is attached, informing him or her of the making of the assessment and containing information, in the prescribed form, concerning his or her right to apply to the Tribunal under this Part.
 
           (1A)  This section does not apply to a security assessment if section 38A applies to the assessment.
 
@@ -3689,8 +3689,6 @@ Note:          Subsection (4) lets the Minister delete infor
 
 The _Australian Security Intelligence Organisation Act 1979_ as shown in this compilation comprises Act No. 113, 1979 amended as indicated in the Tables below. 
 
-For cessation details of Division 8 of Part III _see_ section 34ZZ.
-
 All relevant information pertaining to application, saving or transitional provisions prior to 10 December 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
@@ -3698,9 +3696,9 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="22%">
+  <col width="15%">
+  <col width="19%">
+  <col width="19%">
   <col width="15%">
 </colgroup>
 
@@ -3736,7 +3734,7 @@ of Assent</div>
     <div>25 Oct 1979</div>
   </td>
   <td>
-    <div>1 June 1980 ( <i>see Gazette</i>1980, No. G21, p. 2)</div>
+    <div>1 June 1980 ( <i>see Gazette</i>1980, No. G21, p. 2)</div>
   </td>
   <td>
     <div></div>
@@ -3753,7 +3751,7 @@ of Assent</div>
     <div>4 Dec 1979</div>
   </td>
   <td>
-    <div>1 June 1980 ( <i>see</i> s. 2)</div>
+    <div>1 June 1980 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -3770,7 +3768,7 @@ of Assent</div>
     <div>5 June 1985</div>
   </td>
   <td>
-    <div>S. 3: 3 July 1985</div>
+    <div>S. 3: 3 July 1985 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3787,8 +3785,8 @@ of Assent</div>
     <div>2 Dec 1986</div>
   </td>
   <td>
-    <div>Ss. 33, 36 and 37: <i>(a)</i> 
-Ss. 34 and 35: <i>(a)</i> 
+    <div>Ss. 33, 36 and 37: <i>(b)</i> 
+Ss. 34 and 35: <i>(b)</i> 
 Remainder: 1 Feb 1987 ( <i>see Gazette</i>1987, No. S13)</div>
   </td>
   <td>
@@ -3859,7 +3857,7 @@ Remainder: 1 Feb 1987 ( <i>see Gazette</i>1987, No. S13)</div>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
 Ss. 5(1)(a), (2), 6 and 8: 16 Dec 1987 ( <i>see</i>s. 2(1A)) 
-Remainder: 1 Sept 1988 ( <i>see Gazette</i>1988, No. S256)</div>
+Remainder: 1 Sept 1988 ( <i>see Gazette</i>1988, No. S256)</div>
   </td>
   <td>
     <div>—</div>
@@ -3893,7 +3891,7 @@ Remainder: 1 Sept 1988 ( <i>see Gazette</i>1988, No. S256)</div>
     <div>16 Dec 1987</div>
   </td>
   <td>
-    <div>Ss. 53 and 54: Royal Assent</div>
+    <div>Ss. 53 and 54: Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3910,7 +3908,7 @@ Remainder: 1 Sept 1988 ( <i>see Gazette</i>1988, No. S256)</div>
     <div>18 Dec 1987</div>
   </td>
   <td>
-    <div>S. 3: Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -3927,7 +3925,7 @@ Remainder: 1 Sept 1988 ( <i>see Gazette</i>1988, No. S256)</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>Ss. 5, 6, 10, 12, 13, 23(2) and 26(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
+    <div>Ss. 5, 6, 10, 12, 13, 23(2) and 26(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
 Ss. 14, 23(3) and 26(2): 30 June 1989 ( <i>see Gazette</i>1989, No. S216) 
 Remainder: Royal Assent</div>
   </td>
@@ -3946,7 +3944,7 @@ Remainder: Royal Assent</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
+    <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
 Ss. 12, 21(3) and 22(2): 30 June 1989 ( <i>see Gazette</i>1989, No. S216) 
 Remainder: Royal Assent</div>
   </td>
@@ -4052,7 +4050,7 @@ Remainder: 1 July 1989 ( <i>see Gazette</i>1989, No. S230)</div>
     <div>21 Jan 1991</div>
   </td>
   <td>
-    <div>S. 45: <i>(b)</i></div>
+    <div>S. 45: <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4069,8 +4067,8 @@ Remainder: 1 July 1989 ( <i>see Gazette</i>1989, No. S230)</div>
     <div>5 Dec 1989</div>
   </td>
   <td>
-    <div>Parts 1 and 6 (ss. 1, 2, 17, 18): Royal Assent 
-Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S398)</div>
+    <div>Parts 1 and 6 (ss. 1, 2, 17, 18): Royal Assent 
+Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S398)</div>
   </td>
   <td>
     <div>S. 2(3)</div>
@@ -4105,7 +4103,7 @@ Remainder: 19 Dec 1989 ( <i>see</i>s. 2(1))</div>
     <div>17 Jan 1990</div>
   </td>
   <td>
-    <div>Part 3 (ss. 6, 7): Royal Assent</div>
+    <div>Part 3 (ss. 6, 7): Royal Assent <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4122,7 +4120,7 @@ Remainder: 19 Dec 1989 ( <i>see</i>s. 2(1))</div>
     <div>22 Oct 1990</div>
   </td>
   <td>
-    <div>S. 5: Royal Assent</div>
+    <div>S. 5: Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4141,7 +4139,7 @@ Remainder: 19 Dec 1989 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>Ss. 1, 2 and 
 40–49: Royal Assent 
-Ss. 3, 5, 6, 8, 9, 16, 17, 20–23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 ( <i>see Gazette</i>1991, No. GN3) 
+Ss. 3, 5, 6, 8, 9, 16, 17, 20–23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 ( <i>see Gazette</i>1991, No. GN3) 
 Remainder: 21 June 1991</div>
   </td>
   <td>
@@ -4178,7 +4176,7 @@ Remainder: Royal Assent</div>
     <div>12 Sept 1991</div>
   </td>
   <td>
-    <div>Ss. 4–9: 10 Oct 1991</div>
+    <div>Ss. 4–9: 10 Oct 1991 <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4195,7 +4193,7 @@ Remainder: Royal Assent</div>
     <div>27 Sept 1991</div>
   </td>
   <td>
-    <div>16 Mar 1992 ( <i>see Gazette</i>1992, No. S65)</div>
+    <div>16 Mar 1992 ( <i>see Gazette</i>1992, No. S65)</div>
   </td>
   <td>
     <div>—</div>
@@ -4229,7 +4227,7 @@ Remainder: Royal Assent</div>
     <div>19 Dec 1994</div>
   </td>
   <td>
-    <div>S. 31: <i>(c)</i></div>
+    <div>S. 31: 16 Mar 1992 <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4263,7 +4261,7 @@ Remainder: Royal Assent</div>
     <div>19 Dec 1994</div>
   </td>
   <td>
-    <div>Ss. 3–7: Royal Assent</div>
+    <div>Ss. 3–7: Royal Assent <i>(j)</i></div>
   </td>
   <td>
     <div>Ss. 4 and 6(2)</div>
@@ -4297,7 +4295,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (item 40): Royal Assent</div>
+    <div>Schedule 4 (item 40): Royal Assent <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4314,8 +4312,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 
-252–258): 5 Dec 1999 ( <i>see</i>s. 2(1) and <i>Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (items 252–258): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4332,8 +4329,8 @@ Remainder: Royal Assent</div>
     <div>10 Dec 1999</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: Royal Assent <i>(d) 
- </i>Schedule 3 (item 21): <i>(d)</i></div>
+    <div>Schedules 1 and 2: Royal Assent <i>(m)</i> 
+Schedule 3 (item 21): <i>(m)</i></div>
   </td>
   <td>
     <div>Sch. 1 (items 44, 45) and Sch. 2 (item 14) \[ <i>see</i>Table A]</div>
@@ -4350,7 +4347,7 @@ Remainder: Royal Assent</div>
     <div>22 June 2000</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): Royal Assent</div>
+    <div>Schedule 3 (item 1): Royal Assent <i>(n)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4367,7 +4364,7 @@ Remainder: Royal Assent</div>
     <div>3 Aug 2000</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): 1 Jan 2001 ( <i>see Gazette</i>2000, No. GN50)</div>
+    <div>Schedule 3 (item 1): 1 Jan 2001 ( <i>see Gazette</i>2000, No. GN50) <i>(o)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4403,7 +4400,7 @@ Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>Schedule 3: Royal Assent 
-Remainder: 21 Dec 2001</div>
+Remainder: 21 Dec 2001</div>
   </td>
   <td>
     <div>Sch. 3 (item 2) \[ <i>see</i>Table A]</div>
@@ -4420,7 +4417,7 @@ Remainder: 21 Dec 2001</div>
     <div>6 Apr 2001</div>
   </td>
   <td>
-    <div>S. 4(1), (2) and Schedule 4: <i>(e)</i></div>
+    <div>S. 4(1), (2) and Schedule 4: <i>(p)</i></div>
   </td>
   <td>
     <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
@@ -4437,7 +4434,7 @@ Remainder: 21 Dec 2001</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>29 Oct 2001 ( <i>see</i> s. 2)</div>
+    <div>29 Oct 2001 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (items 7–9) \[ <i>see</i>Table A]</div>
@@ -4471,7 +4468,7 @@ Remainder: 21 Dec 2001</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>21 Dec 2001 ( <i>see Gazette</i>2001, No. S529)</div>
+    <div>21 Dec 2001 ( <i>see Gazette</i>2001, No. S529)</div>
   </td>
   <td>
     <div>—</div>
@@ -4488,7 +4485,7 @@ Remainder: 21 Dec 2001</div>
     <div>10 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2–4): 1 Jan 2003</div>
+    <div>Schedule 2 (items 2–4): 1 Jan 2003</div>
   </td>
   <td>
     <div>—</div>
@@ -4505,8 +4502,10 @@ Remainder: 21 Dec 2001</div>
     <div>22 July 2003</div>
   </td>
   <td>
-    <div>Schedule 1: (items 1–8, 15–27C): 23 July 2003 
-Schedule 1 (items 10, 11): <i>(f)</i></div>
+    <div>Schedule 1: (items 1–8, 
+15–29): 23 July 2003 
+Schedule 1 (items 10, 11): <i>(q)</i> 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 5, 11, 20, 27C) \[ <i>see</i>Table A]</div>
@@ -4591,7 +4590,8 @@ Schedule 1 (items 10, 11): <i>(f)</i></div>
     <div>18 Feb 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 2–4): 1 July 2005 ( <i>see</i>s. 2(1))</div>
+    <div>Ss. 4–11 and Schedule 1: 1 July 2005 ( <i>see</i>s. 2(1)) 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -4609,7 +4609,7 @@ Schedule 1 (items 10, 11): <i>(f)</i></div>
   </td>
   <td>
     <div>S. 3: Royal Assent 
-Schedule 1 (items 43–46): 24 Nov 2006 ( <i>see</i>F2006L03997)</div>
+Schedule 1 (items 43–46): 24 Nov 2006 ( <i>see</i>F2006L03997)</div>
   </td>
   <td>
     <div>S. 3 \[ <i>see</i>Table A]</div>
@@ -4626,7 +4626,8 @@ Schedule 1 (items 43–46): 24 Nov 2006 ( <i>see</i>F2006L03997)</div>
     <div>4 Nov 2005</div>
   </td>
   <td>
-    <div>Schedule 4 (item 1) and Schedule 8 (items 2, 15–19): 2 Dec 2005</div>
+    <div>Schedules 1–8: 2 Dec 2005 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -4643,8 +4644,8 @@ Schedule 1 (items 43–46): 24 Nov 2006 ( <i>see</i>F2006L03997)</div>
     <div>14 Dec 2005</div>
   </td>
   <td>
-    <div>Schedule 10 (items 1–25): Royal Assent 
-Schedule 10 (items 26–28): 15 Dec 2005</div>
+    <div>Schedule 10 (items 1–25): Royal Assent 
+Schedule 10 (items 26–28): 15 Dec 2005</div>
   </td>
   <td>
     <div>Sch. 10 (item 25) \[ <i>see</i>Table A]</div>
@@ -4678,8 +4679,9 @@ Schedule 10 (items 26–28): 15 Dec 2005</div>
     <div>19 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–10, 16-21): 20 June 2006 
-Schedule 2 (items 1–32): <i>(g)</i></div>
+    <div>Schedule 1: 20 June 2006 
+Schedule 2: <i>(r) 
+ </i>Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -4697,8 +4699,8 @@ Schedule 2 (items 1–32): <i>(g)</i></div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 3A (items 1–9): <i>(h)</i> 
-Schedule 3A (items 10–22): <i>(h)</i></div>
+    <div>Schedule 3A (items 1–9): <i>(s)</i> 
+Schedule 3A (items 10–22): <i>(s)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4715,7 +4717,7 @@ Schedule 3A (items 10–22): <i>(h)</i></div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 6–10): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 6–10): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -4749,7 +4751,8 @@ Schedule 3A (items 10–22): <i>(h)</i></div>
     <div>19 Feb 2007</div>
   </td>
   <td>
-    <div>Schedule 3 (item 2): 25 Aug 2007</div>
+    <div>Schedules 1–3: 25 Aug 2007 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -4766,7 +4769,8 @@ Schedule 3A (items 10–22): <i>(h)</i></div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (item 5): 1 July 2007 ( <i>see</i>s. 2(1))</div>
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -4808,7 +4812,7 @@ Schedule 3A (items 10–22): <i>(h)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Statute Law Revision Act 2011</div>
+    <div>Statute Law Revision Act 2011</div>
   </td>
   <td>
     <div>5, 2011</div>
@@ -4834,7 +4838,7 @@ Schedule 3A (items 10–22): <i>(h)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 242) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 242) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -4851,7 +4855,8 @@ Schedule 3A (items 10–22): <i>(h)</i></div>
     <div>25 July 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–18, 29–31): 26 July 2011</div>
+    <div>Schedule 1 (items 1–18, 
+29–31): 26 July 2011</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -4859,11 +4864,23 @@ Schedule 3A (items 10–22): <i>(h)</i></div>
   </td>
 </tr></table>
 
-_(a)_     The proposed amendments to sections 85 and 86 of the _Australian Security Intelligence Organisation Act 1979_ made by sections 34 and 35 of the _Australian Security Intelligence Organization Amendment Act 1986_(as amended by the _Australian Security Intelligence Organization Amendment Act 1988_) were repealed before a date was fixed for their commencement.
+_(a)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+
+_(b)_     The proposed amendments to sections 85 and 86 of the _Australian Security Intelligence Organisation Act 1979_ made by sections 34 and 35 of the _Australian Security Intelligence Organization Amendment Act 1986_(as amended by the _Australian Security Intelligence Organization Amendment Act 1988_) were repealed before a date was fixed for their commencement.
 
  The proposed amendments to sections 84, 88 and 90 of the _Australian Security Intelligence Organisation Act 1979_ made by sections 33, 36 and 37 of the _Australian Security Intelligence Organization Amendment Act 1986_(as amended by the _Law and Justice Legislation Amendment Act 1990_) were repealed before a date was fixed for their commencement.
 
-_(b)_     The _Telecommunications and Postal Services (Transitional Provisions and Consequential Amendments) Act 1989_ was amended by section 45 only of the _Transport and Communications Legislation Amendment Act 1991_, paragraph 2(13)(e) of which provides as follows:
+_(c)_     The _Telecommunications (Interception) Amendment Act 1987_ was amended by sections 53 and 54 only of the _Crimes Legislation Amendment Act 1987_, subsection 2(3) of which provides as follows:
+
+                 (3)   Sections 53, 54, 55 and 59 shall come into operation on the day on which this Act receives the Royal Assent.
+
+_(d)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(e)_     The _Telecommunications and Postal Services (Transitional Provisions and Consequential Amendments) Act 1989_ was amended by section 45 only of the _Transport and Communications Legislation Amendment Act 1991_, paragraph 2(13)(e) of which provides as follows:
 
                (13)   The amendments made in the Schedule are taken to have commenced as follows:
 
@@ -4871,17 +4888,51 @@ _(b)_     The _Telecommunications and Postal Services (Transitional Prov
 
          Section 45 amended section 74 of the _Telecommunications and Postal Services (Transitional Provisions and Consequential Amendments) Act 1989_ which  commenced on 1 July 1989 (_see Gazette_ 1989, No. S230).
 
-_(c)_     The _Crimes (Aviation) Act 1991_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(5) of which provides as follows:
+_(f)_      The _Australian Security Intelligence Organisation Act 1979_ was amended by Part 3 (sections 6 and 7) only of the _Law and Justice Legislation Amendment Act 1989_, subsection 2(2) of which provides as follows:
+
+                 (2)   Parts 1 and 3 commence on the day on which this Act receives the Royal Assent.
+
+_(g_)     The _Australian Security Intelligence Organisation Act 1979_ was amended by section 5 only of the _Defence Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(h_)     The _Australian Security Intelligence Organisation Act 1979_ was amended by sections 4–9 only of the _Law and Justice Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent.
+
+_(i)_      The _Crimes (Aviation) Act 1991_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(5) of which provides as follows:
 
                  (5)   The amendment made by this Act to Schedule 5 to the _Crimes (Aviation) Act 1991_ is taken to have commenced on 16 March 1992 immediately after the commencement of that Act.
 
-_(d)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by Schedules 1, 2 and Schedule 3 (item 21) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(j)_      The _Australian Security Intelligence Organisation Act 1979_ was amended by sections 3–7 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(k)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by Schedule 4 (item 40) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(l)_      The _Australian Security Intelligence Organisation Act 1979_ was amended by Schedule 1 (items 252–258) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(m)_    The _Australian Security Intelligence Organisation Act 1979_ was amended by Schedules 1, 2 and Schedule 3 (item 21) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   This Act (other than Schedule 3) commences on the day on which it receives the Royal Assent.
 
                  (2)   Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
 
-_(e)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by Schedule 4 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+_(n)_ The _Australian Security Intelligence Organisation Act 1979_ was amended by Schedule 3 (item 1) only of the _Telecommunications (Interception) Legislation Amendment Act 2000_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+
+_(o)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by Schedule 3 (item 1) only of the _Broadcasting Services Amendment (Digital Television and Datacasting) Act 2000_, subsection 2(2) of which provides as follows:
+
+                 (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation. 
+
+_(p)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by Schedule 4 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences at the later of the following times:
 
@@ -4889,7 +4940,7 @@ _(e)_     The _Australian Security Intelligence Organisation Act 1979_ w
 
          Item 15 commenced on 24 May 2001.
 
-_(f)_      Subsection 2(1) (items 2 and 3) of the _Australian Security Intelligence Organisation Legislation Amendment (Terrorism) Act 2003_ provides as follows:
+_(q)_     Subsection 2(1) (item 3) of the _Australian Security Intelligence Organisation Legislation Amendment (Terrorism) Act 2003_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -4960,23 +5011,6 @@ _(f)_      Subsection 2(1) (items 2 and 3) of the _Australian Security
 <tr>
   <td>
     <div>
-      2\. Schedule 1, items 1 to 8
-    </div>
-  </td>
-  <td>
-    <div>
-      The day after this Act receives the Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      23 July 2003
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
       3\. Schedule 1, items 10 and 11
     </div>
   </td>
@@ -4987,14 +5021,14 @@ _(f)_      Subsection 2(1) (items 2 and 3) of the _Australian Security
   </td>
   <td>
     <div>
-      23 July 2003
+      23 July 2003
     </div>
   </td>
 </tr></table>
 
-_(g)_     Subsection 2(1) (items 2 and 3) of the _ASIO Legislation Amendment Act 2006_ provides as follows:
+_(r)_     Subsection 2(1) (items 2 and 3) of the _ASIO Legislation Amendment Act 2006_ provides as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -5064,9 +5098,9 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _ASIO Legislation Ame
   </td>
 </tr></table>
 
-_(h)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP Professional Standards and Related Measures) Act 2006_ provides as follows:
+_(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP Professional Standards and Related Measures) Act 2006_ provides as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -5164,8 +5198,7 @@ _(h)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
   <td>
     <div>
       30 December 2006
-    </div>
-    <div>
+
       (paragraph (a) applies)
     </div>
   </td>
@@ -5399,15 +5432,7 @@ _(h)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div></div>
   </td>
   <td>
-    <div>ad. No. 122, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 161, 1999</div>
+    <div>ad. No. 122, 1986; No. 161, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5439,7 +5464,7 @@ _(h)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>Heading to s. 17</div>
   </td>
   <td>
-    <div>am. No. 161, 1999</div>
+    <div>am No. 161, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5476,15 +5501,7 @@ _(h)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 18(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 18(2)</div>
+    <div>Subheads. to s. 18(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 4, 2011</div>
@@ -5692,23 +5709,7 @@ _(h)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
 </tr>
 <tr>
   <td>
-    <div>S. 26A</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26B</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26C</div>
+    <div>Ss. 26A–26C</div>
   </td>
   <td>
     <div>ad. No. 161, 1999</div>
@@ -6068,14 +6069,6 @@ _(h)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
 </tr>
 <tr>
   <td>
-    <div>Note 1 to s. 34G(5)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note 2 to s. 34G(5)</div>
   </td>
   <td>
@@ -6180,8 +6173,7 @@ _(h)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. D of 
-Div. 3 of Part III</div>
+    <div>Subdiv. D of Div. 3 of Part III</div>
   </td>
   <td>
     <div>ad. No. 54, 2006</div>
@@ -6349,23 +6341,7 @@ Div. 3 of Part III</div>
 </tr>
 <tr>
   <td>
-    <div>S. 34L</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34M</div>
+    <div>Ss. 34L, 34M</div>
   </td>
   <td>
     <div>ad. No. 77, 2003</div>
@@ -6541,8 +6517,7 @@ Div. 3 of Part III</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. E of 
-Div. 3 of Part III</div>
+    <div>Subdiv. E of Div. 3 of Part III</div>
   </td>
   <td>
     <div>ad. No. 54, 2006</div>
@@ -6582,31 +6557,7 @@ Div. 3 of Part III</div>
 </tr>
 <tr>
   <td>
-    <div>S. 34U</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 143, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34V</div>
+    <div>Ss. 34U, 34V</div>
   </td>
   <td>
     <div>ad. No. 77, 2003</div>
@@ -6694,23 +6645,7 @@ Div. 3 of Part III</div>
 </tr>
 <tr>
   <td>
-    <div>S. 34X</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34Y</div>
+    <div>Ss. 34X, 34Y</div>
   </td>
   <td>
     <div>ad. No. 77, 2003</div>
@@ -6734,31 +6669,7 @@ Div. 3 of Part III</div>
 </tr>
 <tr>
   <td>
-    <div>S. 34ZA</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34ZB</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34ZD</div>
+    <div>Ss. 34ZA–34ZD</div>
   </td>
   <td>
     <div>ad. No. 54, 2006</div>
@@ -6814,47 +6725,7 @@ Div. 3 of Part III</div>
 </tr>
 <tr>
   <td>
-    <div>S. 34ZH</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34ZI</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34ZJ</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34ZK</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34ZL</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34ZZM</div>
+    <div>Ss. 34ZH–34ZM</div>
   </td>
   <td>
     <div>ad. No. 54, 2006</div>
@@ -6950,31 +6821,7 @@ Div. 3 of Part III</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 34ZT</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34ZU</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34ZV</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34ZW</div>
+    <div>Ss. 34ZT–34ZW</div>
   </td>
   <td>
     <div>ad. No. 54, 2006</div>
@@ -7601,7 +7448,7 @@ Div. 3 of Part III</div>
     <div></div>
   </td>
   <td>
-    <div>rep. No. 146, 1999</div>
+    <div>rep. No. 146,1999</div>
   </td>
 </tr>
 <tr>
@@ -8085,6 +7932,20 @@ Div. 3 of Part III</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 242  Subsection 34G(5) (note 1)
+
+Omit “subsection 46(3)”, substitute “subsection 33(3AB)”.
+
+As at 29 July 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -8097,7 +7958,7 @@ _Australian Security Intelligence Organisation Legislation Amendment Act 1999 (N
 
 The amendments relating to warrants made by this Schedule apply to any warrant issued after the commencement of this item where the request by the Director‑General for the issue of the warrant is also made after the commencement of this item.
 
-## 45  Transitional provisions relating to Acting Director‑General appointed before commencement of this item
+## 45  Transitional provisions relating to Acting Director‑General appointed before commencement of this item
 
 (1)       If, when this item commences, a person is acting as Director‑General under an instrument of appointment made by the Governor‑General before this item commenced, the person continues to act in accordance with that instrument in spite of amendments made by this Schedule. However, the instrument ceases to have effect when the person ceases to act. 
 
@@ -8111,7 +7972,7 @@ The amendments made by this Schedule apply to offences committed after the comme
 
 * * *
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -8157,7 +8018,7 @@ The repeal of section 93A of the _Australian Security Intelligence Organisatio
 
 * * *
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -8414,6 +8275,8 @@ Section 18 and subsection 19(2) of the _Australian Security Intelligence Organ
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
