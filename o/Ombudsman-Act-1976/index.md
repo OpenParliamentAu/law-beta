@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00727/Html/Ombudsman1976_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00384/Html/Ombudsman1976_WD02_image001.gif)
 
 # Ombudsman Act 1976
 
 **Act No. 181 of 1976 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 7 June 2010
  taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force 
@@ -49,8 +49,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [6A](#6A).         Transfer of complaints about ACC
 
 [6B](#6B).         Transfer of complaints about Integrity Commissioner
-
-[6C](#6C).         Transfer of complaints to Information Commissioner
 
 [7](#7).            Complaints
 
@@ -830,6 +828,24 @@ the Ombudsman shall, subject to this section, investigate the action.
 
                      (b)  if the Ombudsman is satisfied that the complainant is entitled to cause the action to be reviewed under that practice and it would be reasonable for the complainant to cause it to be so reviewed.
 
+          (4A)  Where, before the Ombudsman commences, or after the Ombudsman has commenced, to investigate action taken by a Department or by a prescribed authority, being action that is the subject matter of a complaint, the Ombudsman becomes of the opinion that:
+
+                     (a)  a complaint with respect to the action has been, or could have been, made by the complainant to the Privacy Commissioner under Part V of the _Privacy Act 1988_; and
+
+                     (b)  the action could be more conveniently or effectively dealt with by the Privacy Commissioner;
+
+the Ombudsman may decide not to investigate the action, or not to investigate the action further, as the case may be, and, if the Ombudsman so decides, the Ombudsman shall:
+
+                     (c)  transfer the complaint to the Privacy Commissioner;
+
+                     (d)  forthwith give notice in writing to the complainant stating that the complaint has been so transferred; and
+
+                     (e)  give to the Privacy Commissioner any information or documents that relate to the complaint and are in the possession, or under the control, of the Ombudsman.
+
+          (4B)  A complaint transferred under subsection (4A) shall be deemed to be a complaint made to the Privacy Commissioner under Part V of the _Privacy Act 1988_.
+
+          (4C)  In subsections (4A) and (4B), **_Privacy Commissioner_** means the Privacy Commissioner within the meaning of the _Privacy Act 1988_.
+
           (4D)  Where, before the Ombudsman commences, or after the Ombudsman has commenced, to investigate action taken by a Department or by a prescribed authority, being action that is the subject matter of a complaint, the Ombudsman becomes of the opinion that:
 
                      (a)  a complaint with respect to the action has been, or could have been, made by the complainant to the ACMA under Part 26 of the _Telecommunications Act 1997_; and
@@ -1015,40 +1031,6 @@ the Ombudsman may decide not to investigate the complaint, or not to investigate
                      (b)  subject to section 35C, give the other authority any information or documents relating to the complaint that are in the possession, or under the control, of the Ombudsman; and
 
                      (c)  as soon as is reasonably practicable, give the complainant written notice that the complaint has been transferred to the other authority.
-
-##### <a id="6C"></a>6C  Transfer of complaints to Information Commissioner
-
-Scope
-
-             (1)  This section applies if the Ombudsman is satisfied of either of the following:
-
-                     (a)  that:
-
-                              (i)  a complainant has complained, or could complain, to the Information Commissioner about an action taken by a Department or prescribed authority under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_; and
-
-                             (ii)  the action could be more appropriately or effectively dealt with by the Information Commissioner;
-
-                     (b)  a complaint about an action taken by a Department or prescribed authority has been the subject of a completed investigation by the Information Commissioner under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_.
-
-Requirement to consult with Information Commissioner
-
-             (2)  The Ombudsman:
-
-                     (a)  must consult the Information Commissioner about the complaint with a view to avoid inquiries being conducted into that matter by both the Information Commissioner and the Ombudsman; and
-
-                     (b)  may decide not to investigate the action, or not to continue to investigate the action.
-
-Transfer to Information Commissioner
-
-             (3)  If the Ombudsman decides not to investigate, or not to continue to investigate, an action under paragraph (2)(b), the Ombudsman must:
-
-                     (a)  transfer the complaint to the Information Commissioner; and
-
-                     (b)  notify the complainant in writing that the complaint has been transferred; and
-
-                     (c)  give the Information Commissioner any information or documents that relate to the complaint in the possession, or under the control of, the Ombudsman.
-
-             (4)  A complaint transferred under subsection (3) is taken to be a complaint made to the Information Commissioner under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_, as the case requires.
 
 ##### <a id="7"></a>7  Complaints
 
@@ -1694,7 +1676,7 @@ the Ombudsman shall report accordingly to the Department or prescribed authority
 
 but nothing in this section affects the powers and duties of the Ombudsman under sections 15, 16 and 17.
 
-             (4)  Where the Ombudsman submits a report to the Minister under subsection (1) or (2), the Minister shall cause the report to be laid before each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.
+             (4)  Where the Ombudsman submits a report to the Minister under paragraph (1)(a) or under subsection (2), the Minister shall cause the report to be laid before each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.
 
              (6)  Where the Ombudsman is of the opinion that it will not be reasonably possible to submit a report in accordance with paragraph (1)(a) within 6 months after the end of a particular year, the Ombudsman may, within that period of 6 months, apply to the Minister for an extension of the period, and, where the Ombudsman does so apply, he or she shall furnish to the Minister a statement in writing explaining why, in the Ombudsman’s opinion, it will not be reasonably possible so to submit the report.
 
@@ -2092,7 +2074,7 @@ Notice of transferral to be given to complainant
 
                              (ii)  subsection 6(1);
 
-                            (iii)  subsections 6(4D) to (4H);
+                            (iii)  subsections 6(4A) to (4H);
 
                             (iv)  subsections 6(6) to (15);
 
@@ -2242,7 +2224,7 @@ Notice of transferral to be given to complainant
     <div>subsection 35(6A)</div>
   </td>
   <td>
-    <div>paragraph 6(4D)(e)</div>
+    <div>paragraph 6(4A)(e) or (4D)(e)</div>
   </td>
   <td>
     <div>paragraph 19P(3)(b)</div>
@@ -2765,7 +2747,7 @@ would, for a reason specified in the certificate, being a reason referred to in 
 
                      (c)  from returning such a document that has been produced to him or her to the person lawfully entitled to the custody of the document.
 
-          (6A)  Subsection (2) does not prevent the Ombudsman, or an officer acting on behalf of the Ombudsman, from giving information or documents under paragraph 6(4D)(e) or paragraph 6(18)(d).
+          (6A)  Subsection (2) does not prevent the Ombudsman, or an officer acting on behalf of the Ombudsman, from giving information or documents under paragraph 6(4A)(e) or (4D)(e) or paragraph 6(18)(d).
 
              (7)  Subject to subsection (7A), where the Ombudsman proposes, for purposes connected with the exercise of his or her powers or performance of his or her functions, to furnish information, or to send a document, or a copy of, or extract from, a document, to the Ombudsman of a State, the Ombudsman shall satisfy himself or herself that a law of the State makes provision corresponding to the provision made by this section with respect to the confidentiality of information acquired by the Ombudsman of the State.
 
@@ -3803,7 +3785,8 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 4 (items 59–64, 66, 67) and Schedule 7: <i>(s)</i></div>
+    <div>Schedule 4 (items 59–64, 66, 67): \[ <i>see (s),</i>Note 2 and Table A] 
+Schedule 7: <i>(s)</i></div>
   </td>
   <td>
     <div>Sch. 4 (items 66, 67) \[ <i>see</i>Table A] 
@@ -4482,7 +4465,8 @@ _(s)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 2 and Table A]
     </div>
   </td>
 </tr></table>
@@ -4625,7 +4609,7 @@ No. 49, 2001</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 61, 1983; No. 168, 1986; No. 119, 1988; No. 63, 1989; Nos. 99 and 199, 1991; Nos. 33 and 177, 1994; No. 59, 1997; No. 146, 1999; No. 45, 2005; Nos. 25, 84 and 86, 2006; No. 51, 2010</div>
+    <div>am. No. 61, 1983; No. 168, 1986; No. 119, 1988; No. 63, 1989; Nos. 99 and 199, 1991; Nos. 33 and 177, 1994; No. 59, 1997; No. 146, 1999; No. 45, 2005; Nos. 25, 84 and 86, 2006</div>
   </td>
 </tr>
 <tr>
@@ -4658,14 +4642,6 @@ No. 49, 2001</div>
   </td>
   <td>
     <div>ad. No. 86, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6C</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4969,7 +4945,7 @@ No. 49, 2001</div>
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 63, 1978; No. 107, 1979; No. 61, 1983; No. 168, 1986; No. 109, 1988; No. 199, 1991; No. 141, 2005; No. 51, 2010</div>
+    <div>am. No. 63, 1978; No. 107, 1979; No. 61, 1983; No. 168, 1986; No. 109, 1988; No. 199, 1991; No. 141, 2005</div>
   </td>
 </tr>
 <tr>
@@ -5158,7 +5134,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 19P, 19Q</div>
+    <div>Ss. 19P,19Q</div>
   </td>
   <td>
     <div>ad. No. 25, 2006</div>
@@ -5185,7 +5161,7 @@ No. 49, 2001</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 141, 2005; No. 51, 2010</div>
+    <div>am. No. 141, 2005</div>
   </td>
 </tr>
 <tr>
@@ -5449,7 +5425,7 @@ No. 49, 2001</div>
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 63, 1978; No. 61, 1983; No. 119, 1988; No. 63, 1989; No. 199, 1991; No. 135, 2001; No. 141, 2005; Nos. 84 and 86, 2006; No. 51, 2010</div>
+    <div>am. No. 63, 1978; No. 61, 1983; No. 119, 1988; No. 63, 1989; No. 199, 1991; No. 135, 2001; No. 141, 2005; Nos. 84 and 86, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5550,6 +5526,74 @@ No. 49, 2001</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendments commence immediately after 1 November 2010:
+
+## Schedule 4
+
+## 59  Subsections 6(4A) to (4C)
+
+Repeal the subsections.
+
+## 60  After section 6B
+
+Insert:
+
+##### <a id="6C"></a>6C  Transfer of complaints to Information Commissioner
+
+Scope
+
+             (1)  This section applies if the Ombudsman is satisfied of either of the following:
+
+                     (a)  that:
+
+                              (i)  a complainant has complained, or could complain, to the Information Commissioner about an action taken by a Department or prescribed authority under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_; and
+
+                             (ii)  the action could be more appropriately or effectively dealt with by the Information Commissioner;
+
+                     (b)  a complaint about an action taken by a Department or prescribed authority has been the subject of a completed investigation by the Information Commissioner under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_.
+
+Requirement to consult with Information Commissioner
+
+             (2)  The Ombudsman:
+
+                     (a)  must consult the Information Commissioner about the complaint with a view to avoid inquiries being conducted into that matter by both the Information Commissioner and the Ombudsman; and
+
+                     (b)  may decide not to investigate the action, or not to continue to investigate the action.
+
+Transfer to Information Commissioner
+
+             (3)  If the Ombudsman decides not to investigate, or not to continue to investigate, an action under paragraph (2)(b), the Ombudsman must:
+
+                     (a)  transfer the complaint to the Information Commissioner; and
+
+                     (b)  notify the complainant in writing that the complaint has been transferred; and
+
+                     (c)  give the Information Commissioner any information or documents that relate to the complaint in the possession, or under the control of, the Ombudsman.
+
+             (4)  A complaint transferred under subsection (3) is taken to be a complaint made to the Information Commissioner under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_, as the case requires.
+
+## 61  Subsection 19(4)
+
+Omit “paragraph (1)(a) or under subsection (2)”, substitute “subsection (1) or (2)”.
+
+## 62  Subparagraph 19R(3)(b)(iii)
+
+Omit “(4A)”, substitute “(4D)”.
+
+## 63  Subsection 19R(4) (table item 4, column 2)
+
+Omit “6(4A)(e) or (4D)(e)”, substitute “6(4D)(e)”.
+
+## 64  Subsection 35(6A)
+
+Omit “6(4A)(e) or (4D)(e)”, substitute “6(4D)(e)”.
+
+As at 7 June 2010 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5637,6 +5681,8 @@ The first report under section 19X of the _Ombudsman Act 1976_ relating to the
 * * *
 
 _Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following provisions commence immediately after 1 November 2010:
 
 ## Schedule 4
 
