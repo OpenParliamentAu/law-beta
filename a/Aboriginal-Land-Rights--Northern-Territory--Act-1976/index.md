@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00301/Html/AbLandRightNT76_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00212/Html/AbLandRightNT76_WD02_image001.gif)
 
 # Aboriginal Land Rights (Northern Territory) Act 1976
 
 **Act No. 191 of 1976 as amended**
 
-This compilation was prepared on 19 April 2010
- taking into account amendments up to Act No. 38 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 [**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 18 August 2012, _see_ section 70]
 
@@ -738,7 +738,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  if subsections 51(1A) and 53(2A) of the _Lands Acquisition Act 1955_ apply by virtue of subsection 124(8) of the _Lands Acquisition Act 1989_—makes an application, under subsection 51(1A) of the first-mentioned Act for the grant of a lease or licence to mine for minerals on that land, while the person holds, under subsection 53(2A) of that Act, a right to explore for minerals on that land; or
 
-                             (ii)  if subparagraph (i) does not apply—makes an application for the grant, under regulations made for the purposes of subsection 124(1) of the _Lands Acquisition Act 1989_, of a right to mine for, or recover, minerals on that land, while the person holds, under the regulations, a right to explore for minerals on that land.
+                             (ii)  if subparagraph (paragraph (i) does not apply—makes an application for the grant, under regulations made for the purposes of subsection 124(1) of the _Lands Acquisition Act 1989_, of a right to mine for, or recover, minerals on that land, while the person holds, under the regulations, a right to explore for minerals on that land.
 
                     <a name="land-council"></a>**_Land Council_** means an Aboriginal Land Council established by or under this Act.
 
@@ -1754,7 +1754,7 @@ the Minister may, on behalf of the Land Trust, grant to the Director the lease p
 
              (2)  Subsection (1) does not prevent the grant by the Crown of an estate or interest in land referred to in that subsection in any of the following circumstances:
 
-                     (a)  where the grant is made in consequence of the exercise by a person of a right, under a law of the Northern Territory, to require the grant to be made;
+                     (a)  where the grant is made in consequence of the exercise by a person of a right, under a law of the Northern   Territory, to require the grant to be made;
 
                      (b)  where:
 
@@ -1766,7 +1766,7 @@ the Minister may, on behalf of the Land Trust, grant to the Director the lease p
 
                      (c)  where the Land Council for the area in which the land is situated consents to the grant.
 
-             (3)  A reference in paragraph (2)(a) or in subparagraph (2)(b)(i) to a right of a person shall be read as a reference to a right that was vested in the person immediately before the land became Aboriginal land.
+             (3)  A reference in paragraph (2)(a) or in subparagraph (paragraph (2)(b)(i) to a right of a person shall be read as a reference to a right that was vested in the person immediately before the land became Aboriginal land.
 
 ##### <a id="14"></a>14  Occupation etc. by the Crown etc. of Aboriginal land vested in Land Trust
 
@@ -1848,7 +1848,7 @@ the Land Council shall pay to the mission an amount equal to:
 
                             whichever last occurs; and
 
-                     (b)  any fixtures or other improvements constructed or erected on the vested land by the person before 17 May 1978 shall, during the period commencing at the commencement of the period referred to in paragraph (a) and ending when the authority under the _Atomic Energy Act 1953_, referred to in subparagraph (a)(ii), or any extension or renewal of that authority, is revoked or otherwise ceases to operate, be deemed to be the property of that person.
+                     (b)  any fixtures or other improvements constructed or erected on the vested land by the person before 17 May 1978 shall, during the period commencing at the commencement of the period referred to in paragraph (a) and ending when the authority under the _Atomic Energy Act 1953_, referred to in subparagraph (paragraph (a)(ii), or any extension or renewal of that authority, is revoked or otherwise ceases to operate, be deemed to be the property of that person.
 
              (2)  A person who, by force of subsection (1):
 
@@ -1866,13 +1866,13 @@ may, with the consent of the Minister, transfer that right or title to another p
 
                               (i)  when the person or another person, having obtained a grant in respect of the land under the _Atomic Energy Act 1953_ or any other Act authorizing mining for minerals or any law of the Northern Territory, becomes, as such grantee, entitled, whether at the time of the grant or subsequently, to occupy or use the land; or
 
-                             (ii)  when the Minister, by notice in the _Gazette_, declares that he or she is satisfied that no grant of a kind referred to in subparagraph (i) will be made to any person; and
+                             (ii)  when the Minister, by notice in the _Gazette_, declares that he or she is satisfied that no grant of a kind referred to in subparagraph (paragraph (i) will be made to any person; and
 
                      (b)  any fixtures or other improvements constructed or erected on the vested land by the person before 17 May 1978, shall, during the period commencing at the commencement of the period referred to in paragraph (a) and ending:
 
-                              (i)  where a grant referred to in subparagraph (a)(i) is made—when that grant, or any extension or renewal of that grant, is revoked or otherwise ceases to operate; or
+                              (i)  where a grant referred to in subparagraph (paragraph (a)(i) is made—when that grant, or any extension or renewal of that grant, is revoked or otherwise ceases to operate; or
 
-                             (ii)  where the Minister makes a declaration under subparagraph (a)(ii)—when that declaration is published in the _Gazette_;
+                             (ii)  where the Minister makes a declaration under subparagraph (paragraph (a)(ii)—when that declaration is published in the _Gazette_;
 
                             be deemed to be the property of that person.
 
@@ -3226,7 +3226,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  Where proceedings are commenced before a court with respect to a dispute of a kind referred to in subsection (2), the judge or magistrate constituting the court may, if he or she thinks it appropriate, adjourn the proceedings at any time for the purpose of affording a Land Council the opportunity of undertaking conciliation with a view to the settlement of that dispute.
 
-##### <a id="26"></a>26  Land Council to meet expenses etc. of Land Trust
+##### <a id="26"></a>26  Land Council to meet expenses etc. of Land Trust
 
                    A Land Council shall pay or discharge any administrative expenses, charges or obligations incurred or undertaken by a Land Trust that holds, or is established to hold, land in its area.
 
@@ -4852,7 +4852,7 @@ the copy of the Proclamation shall, for the purposes of this section, be deemed 
 
                      (b)  it appears to the Commissioner that the land to which the application relates is, in whole or part, the same as the whole or part of land to which an earlier application related; and
 
-                     (c)  the report made under subparagraph (1)(a)(ii) in relation to the earlier application made no recommendation as mentioned in that subparagraph in relation to that land;
+                     (c)  the report made under subparagraph (paragraph (1)(a)(ii) in relation to the earlier application made no recommendation as mentioned in that subparagraph in relation to that land;
 
 the Commissioner shall not perform, or continue to perform, a function under paragraph (1)(a) in relation to the land (in this subsection referred to as the **_common land_**) to which both the first-mentioned application and the earlier application relate unless the Commissioner finds:
 
@@ -6396,7 +6396,7 @@ All that parcel of land containing an area of 2,558 hectares more or less, being
 
 Fourthly: 
 
-All that parcel of land containing an area of 965.6 hectares more or less, being all of Northern Territory portion 3818 and being more particularly delineated on Survey Plan S.89/79 lodged with the Surveyor-General, Darwin. 
+All that parcel of land containing an area of 965.6 hectares more or less, being all of Northern   Territory portion 3818 and being more particularly delineated on Survey Plan S.89/79 lodged with the Surveyor-General, Darwin. 
 
 FORSTER RANGE (STIRLING) LOCALITY 
 
@@ -6476,7 +6476,7 @@ All that parcel of land containing an area of 1,494 hectares more or less, being
 
 Thirdly: 
 
-All that parcel of land containing an area of 2,499 hectares more or less, being all of Northern   Territory portion 3809 and being more particularly delineated on Survey Plans S.89/88D to S.89/88E lodged with the Surveyor-General, Darwin. 
+All that parcel of land containing an area of 2,499 hectares more or less, being all of Northern Territory portion 3809 and being more particularly delineated on Survey Plans S.89/88D to S.89/88E lodged with the Surveyor-General, Darwin. 
 
 ## Part 4 
 
@@ -6511,24 +6511,6 @@ All that piece of land in the Northern Territory of Australia containing an area
 KANTURRPA—KANTTAJI 
 
 All that parcel of land being Northern Territory Portion 4236 containing an area of 15,180 hectares more or less and being more particularly delineated on Survey Plan S92/95A lodged with the Northern Territory Surveyor-General, Darwin. 
-
-LOVES CREEK
-
-All that land being the whole of Northern Territory Portion 744 delineated on Survey Plans S2004/007A to H inclusive and S2004/007J lodged with the Surveyor-General, Darwin, known as Loves Creek in the Northern Territory and containing an area of approximately 378,400 hectares.
-
-PATTA
-
-All that land near Tennant Creek in the Northern Territory comprising:
-
-   (a)   the whole of Northern Territory Portion 2441 delineated on Survey Plan S2007/18 lodged with the Surveyor-General, Darwin, and containing an area of approximately 1,247 hectares; and
-
-   (b)   the whole of Northern Territory Portion 4071 delineated on Survey Plans S91/86A and B lodged with the Surveyor-General, Darwin, and containing an area of approximately 5,582 hectares; and
-
-   (c)   the whole of Northern Territory Portion 4073 delineated on Survey Plan S91/87 lodged with the Surveyor-General, Darwin, and containing an area of approximately 1,826 hectares; and
-
-   (d)   the whole of Northern Territory Portion 4096 delineated on Survey Plan S92/85 lodged with the Surveyor-General, Darwin, and containing an area of approximately 80.19 hectares; and
-
-   (e)   the whole of Northern Territory Portion 4428 delineated on Survey Plan S93/36 lodged with the Surveyor-General, Darwin, and containing an area of approximately 334.9 hectares.
 
 ROCKHAMPTON DOWNS
 
@@ -6655,10 +6637,6 @@ All that parcel of land near Owen Springs in the Northern Territory of Australia
 2)    Alice Valley Extension
 
 All that parcel of land near Owen Springs in the Northern Territory of Australia containing an area of 21,780 hectares more or less being the whole of Northern Territory Portion 6867 more particularly delineated on Survey Plan S2007/29 lodged with the Surveyor General, Darwin.
-
-2A) Alice Valley Extension (East)
-
-All that land being the whole of Northern Territory Portion 6991 delineated on Survey Plans S2008/18A and B lodged with the Surveyor-General, Darwin, being near Owen Springs in the Northern Territory of Australia and containing an area of approximately 24,890 hectares.
 
 3)    Chewings Range Extension
 
@@ -14995,7 +14973,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-##### <a id="22"></a>22  Maningrida
+##### <a id="22"></a>22  Maningrida
 
                    All that area of land contained within the 5 separate areas of land outlined below having a total area of approximately 10.456 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
@@ -27524,23 +27502,6 @@ Schedule 5 (items 5, 6): <i>(q)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>38, 2010</div>
-  </td>
-  <td>
-    <div>13 Apr 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: 14 Apr 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Aboriginal__Land__Rights Legislation Amendment Act 1982_ was amended by Part IV (sections 10 and 11) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(2) of which provides as follows:
@@ -30489,7 +30450,7 @@ No. 93, 2006</div>
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 21, 1978; No. 16, 1982; No. 93, 1985; No. 2, 1990; Statutory Rules 1990 No. 282; Statutory Rules 1991 Nos. 26, 38, 62, 115, 282, 340 and 396; Statutory Rules 1992 Nos. 107, 133 and 369; No. 6, 1993; No. 66, 1994; Nos. 37 and 63, 1995; No. 117, 1997; No. 1, 1999; No. 27, 2000; No. 99, 2002; No. 67, 2008; No. 38, 2010</div>
+    <div>am. No. 21, 1978; No. 16, 1982; No. 93, 1985; No. 2, 1990; Statutory Rules 1990 No. 282; Statutory Rules 1991 Nos. 26, 38, 62, 115, 282, 340 and 396; Statutory Rules 1992 Nos. 107, 133 and 369; No. 6, 1993; No. 66, 1994; Nos. 37 and 63, 1995; No. 117, 1997; No. 1, 1999; No. 27, 2000; No. 99, 2002; No. 67, 2008</div>
   </td>
 </tr>
 <tr>
