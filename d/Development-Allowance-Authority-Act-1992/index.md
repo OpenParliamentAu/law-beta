@@ -1,7 +1,7 @@
 
 Development Allowance Authority Act 1992
 Act No. 99 of 1992 as amended
-This compilation was prepared on 29 May 2000 taking into account amendments up to Act No. 34 of 2000
+This compilation was prepared on 1 February 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -16,7 +16,7 @@ Part 1—Preliminary	2
 3	Object	2
 4	Simplified outline of scheme of Act	2
 5	Example of how this Chapter will work	3
-6	Interpretation	4
+6	Interpretation	5
 Part 2—Key concepts relating to projects	10
 Division 1—Carrying out a project	10
 7	Meaning of carrying out a project	10
@@ -24,7 +24,7 @@ Division 1—Carrying out a project	10
 9	When productive facilities pass the discrete project test	11
 10	When productive facilities pass the vertical integration test	11
 11	DAA may direct that activities carried out by an entity are to be treated as the establishment of a new productive facility	12
-12	Australian space objects deemed to be in Australia	12
+12	Australian satellites deemed to be in Australia	12
 Division 2—Joint venture projects, joint venture project schemes, company group project schemes and individual project schemes	13
 13	Joint venture projects	13
 13A	Joint venture project schemes	13
@@ -78,7 +78,7 @@ Part 5—Variation of registration or certificate	47
 45	DAA’s decision on application	49
 46	Criteria for granting application	49
 47	Date of effect of variation	51
-48	Variation of project specification	52
+48	Variation of project specification	51
 Part 6—Transfer of benefits of registration or certificate	53
 Division 1—Takeovers not involving re‑constituted joint ventures or re‑constituted partnerships	53
 49	Application for transfer	53
@@ -296,7 +296,7 @@ ancillary printing unit means any of the following units, where the unit is anci
 	(g)	a printing‑ink handling or storage unit.
 approved means approved in writing by the DAA.
 Australia has the same meaning as in Subdivision B of Division 3 of Part III of the Tax Act.
-Australian space object has the same meaning as in the Radiocommunications Act 1992.
+Australian satellite has the same meaning as in the Radiocommunications Act 1992.
 basic eligibility test has the meaning given by section 15.
 business services industry means an industry of engaging in the provision of any of the following services to business on a contract basis:
 	(a)	architectural, surveying or similar technical services;
@@ -428,8 +428,8 @@ Division 1—Carrying out a project
 	(b)	the activities are related directly or indirectly to a productive facility in Australia; and
 	(c)	the DAA is satisfied that, because of special circumstances, it would be unreasonable not to treat the whole or a part of the activities as the establishment by the entity of a new productive facility in Australia;
 the DAA may give the entity a written direction that this Chapter has, and is taken to have had effect, as if the whole, or the part, as the case may be, of those activities were the establishment by the entity of a new productive facility in Australia.
-12  Australian space objects deemed to be in Australia
-		For the purposes of this Chapter, an Australian space object is taken to be in Australia.
+12  Australian satellites deemed to be in Australia
+		For the purposes of this Chapter, an Australian satellite is taken to be in Australia.
 
 
 Division 2—Joint venture projects, joint venture project schemes, company group project schemes and individual project schemes
@@ -2200,8 +2200,8 @@ Part 7—Miscellaneous
 
 Notes to the Development Allowance Authority Act 1992
 Note 1
-The Development Allowance Authority Act 1992 as shown in this compilation comprises Act No. 99, 1992 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 19 December 1996 is not included in this compilation. For subsequent information see Table A.
+The Development Allowance Authority Act 1992 as shown in this consolidation comprises Act No. 99, 1992 amended as indicated in the Tables below.
+All relevant information pertaining to application, saving or transitional provisions prior to 19 December 1996 is not included in this consolidation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -2273,11 +2273,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 387-389): 5 Dec 1999 (see Gazette 1999, No. S584) (e)
 —
-Radiocommunications Legislation Amendment Act 2000
-34, 2000
-3 May 2000
-31 May 2000
-—
 
 (a)	Subsection 2(2) of the Development Allowance Authority Amendment Act 1992 provides as follows:
 	(2)	The remaining provisions of this Act are taken to have commenced immediately after the commencement of the Development Allowance Authority Act 1992.
@@ -2313,17 +2308,13 @@ am. No. 129, 1992; Nos. 2 and 163, 1994
 S. 5 	
 am. No. 163, 1994
 S. 6 	
-am. Nos. 129 and 167, 1992; Nos. 2 and 163, 1994; No, 34, 2000
+am. Nos. 129 and 167, 1992; Nos. 2 and 163, 1994
 Ss. 7, 8 	
 am. No. 163, 1994
 S. 9 	
 am. No. 129, 1992; No. 163, 1994
-Ss. 10, 11 	
+Ss. 10‑12 	
 am. No. 163, 1994
-Heading to s. 12	
-am. No. 34, 2000
-S. 12	
-am. No. 163, 1994, No. 34, 2000
 Heading to Div. 2 of Part 2 	
 am. No. 129, 1992
 S. 13 	
@@ -2513,10 +2504,8 @@ S. 115
 am. No. 163, 1994 
 S. 117 	
 am. No. 163, 1994
-Heading to Part 15
-
-Renumbered Part 6 	
-No. 163, 1994
+Heading to Part 15 Renumbered Part 6	
+ No. 163, 1994
 S. 119 	
 am. No. 163, 1994
 S. 121 	
@@ -2527,13 +2516,12 @@ S. 122A
 ad. No. 129, 1992
 
 Table A
-Application, saving or transitional provisions
+Application, Saving or Transitional Provisions
 Taxation Laws Amendment Act (No. 3) 1996 (No. 78, 1996)
 Schedule 3
 10  Application of amendments 
 (1)	Subsections 93I(4A), (4B) and (4C) and section 93ZAA of the Development Allowance Authority Act 1992 as amended by this Schedule apply to an indirect infrastructure borrowing or a refinancing infrastructure borrowing, where a certificate in respect of the borrowing was issued on or after 30 October 1995.
 (2)	Sections 93ZAB, 93ZAC and 93ZAD of the Development Allowance Authority Act 1992 as amended by this Schedule apply to an indirect infrastructure borrowing, where a certificate in respect of the borrowing was issued on or after 30 October 1995.
-
 Tax Law Improvement Act 1997 (No. 121, 1997)
 4  Application of amendments
 An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
