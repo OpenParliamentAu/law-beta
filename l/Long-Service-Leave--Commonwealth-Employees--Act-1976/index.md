@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00716/Html/249be793-ee29-4c91-86a3-d9f81621ecdb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image001.gif)
 
 # Long Service Leave (Commonwealth Employees) Act 1976
 
 **Act No. 192 of 1976 as amended**
 
-This compilation was prepared on 15 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 15 February 2012
+ taking into account amendments up to Act No. 170 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,13 +13,16 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
 [1](#1).            Short title [_see_ Note 1]
 
 [2](#2).            Commencement [_see_ Note 1]
+
+[3](#3).            Repeal and savings
 
 [4](#4).            Interpretation
 
@@ -69,6 +72,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [24A](#24A).       Commonwealth Teaching Service—transitional
 
+[25](#25).          Amendment of the _Meat Inspection Arrangements Act 1964_
+
 [26](#26).          Regulations
 
 **Notes** 
@@ -82,6 +87,42 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act shall come into operation on the day on which it receives the Royal Assent.
+
+##### <a id="3"></a>3  Repeal and savings
+
+             (1)  The following Acts are repealed:
+
+_Commonwealth Employees’ Furlough Act 1943_
+
+_Commonwealth Employees’ Furlough Act 1944_
+
+_Commonwealth Employees’ Furlough Act 1951_
+
+_Commonwealth Employees’ Furlough Act 1953_
+
+_Commonwealth Employees’ Furlough Act 1958_
+
+_Commonwealth Employees’ Furlough Act 1959_
+
+_Commonwealth Employees’ Furlough Act 1967_
+
+_Commonwealth Employees’ Furlough Act 1968_
+
+_Commonwealth Employees’ Furlough Act (No. 2) 1968_
+
+_Commonwealth Employees’ Furlough Act 1973._
+
+             (2)  The repeal of the Acts specified in subsection (1) does not affect a grant, under those Acts, before the commencement of this Act, of leave of absence for a period commencing after, or extending after, the commencement of this Act, and this Act applies to and in relation to any leave of absence so granted that occurs after the commencement of this Act as if it had been granted under this Act.
+
+             (3)  The repeal of the Acts specified in subsection (1) does not prevent:
+
+                     (a)  the giving, under those Acts, of a direction that the death of a person is to be presumed to have occurred on a date before the commencement of this Act; or
+
+                     (b)  the making, under those Acts, of any payment that could have been made if the direction had been given before the commencement of this Act.
+
+             (4)  Where it was provided by an Act in force immediately before the commencement of this Act that a body was an authority of the Commonwealth for the purposes of the _Commonwealth Employees’ Furlough Act 1943_, that body is a public authority of the Commonwealth for the purposes of this Act.
+
+             (5)  Regulations made under the Acts repealed by subsection (1) and in force immediately before the commencement of this Act continue in force for the purposes of this Act as if they had been made under this Act, but may be repealed or amended by regulations made under this Act.
 
 ##### <a id="4"></a>4  Interpretation
 
@@ -171,7 +212,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                               (i)  is incorporated (whether before or after the commencement of this paragraph) under a law of the Commonwealth or a law in force in a State or Territory;
 
-                             (ii)  is a trading corporation, or a financial corporation, within the meaning of paragraph 51(xx) of the Constitution; and
+                             (ii)  is a trading corporation, or a financial corporation, within the meaning of paragraph 51(20) of the Constitution; and
 
                             (iii)  is declared by the regulations to be a body corporate to which this paragraph applies.
 
@@ -657,7 +698,7 @@ the approving authority shall authorize payment to him or her:
 
                      (a)  the long service leave credit of a category A employee on a day is the period equal to the number of months ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00716/Html/249be793-ee29-4c91-86a3-d9f81621ecdb_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image002.gif)
 
                             where:
 
@@ -667,7 +708,7 @@ the approving authority shall authorize payment to him or her:
 
                      (b)  the long service leave credit related to the full‑time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00716/Html/249be793-ee29-4c91-86a3-d9f81621ecdb_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image003.gif)
 
                             where:
 
@@ -677,7 +718,7 @@ the approving authority shall authorize payment to him or her:
 
                      (c)  the long service leave credit related to the part‑time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00716/Html/249be793-ee29-4c91-86a3-d9f81621ecdb_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image004.gif)
 
                             where:
 
@@ -731,7 +772,7 @@ the approving authority shall authorize payment to him or her:
 
                              (ii)  the rate per week ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00716/Html/249be793-ee29-4c91-86a3-d9f81621ecdb_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image005.gif)
 
                                    where:
 
@@ -884,6 +925,20 @@ immediately before he or she ceases to be an employee is the rate at which full 
              (2)  Where, at any time, in the application to or in relation to a prescribed teacher of this Act, the period of long service leave to which he or she would, but for this section, be entitled, or the amount of pay in lieu of long service leave that would, but for this section, be payable to or in relation to him or her, under this Act is less than the period of leave to which he or she would be entitled, or the amount that would be payable to or in relation to him or her, as the case may be, if the scale of accrual of long service leave that would have been applicable in relation to him or her under the law of the relevant State as in force on the relevant date if he or she had continued to be employed in the teaching service of the relevant State were substituted for the scale of accrual of long service leave applicable to him or her at that time under this Act, the period of long service leave to which he or she is entitled, or the amount of pay in lieu of long service leave payable to or in relation to him or her, as the case may be, shall be determined in accordance with the first‑mentioned scale of accrual.
 
              (3)  This section ceases to apply on the commencement of the amendment of the definition of **_public authority of the Commonwealth_** in subsection 4(1) of this Act by the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.
+
+##### <a id="25"></a>25  Amendment of the _Meat Inspection Arrangements Act 1964_
+
+* * *
+
+**Note:**
+
+The amendment made by this section is incorporated in the compilation on ComLaw.
+
+_Meat Inspection Arrangements Act 1964_
+
+For access to the wording of the amendment made by this section, _see_ Act No. 192, 1976.
+
+* * *
 
 ##### <a id="26"></a>26  Regulations
 
@@ -1532,23 +1587,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 85) and Schedule 6 (items 44–46): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (item 45) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by section 116 only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
@@ -1729,18 +1767,10 @@ _(l)_      Subsection 2(1) (item 24) of the _Fair Work (State Referr
 </thead>
 <tr>
   <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 52 and 155, 1979; No. 6, 1981; No. 166, 1985; Nos. 6 and 109, 1988; No. 215, 1992; No. 43, 1996; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 136, 2012</div>
+    <div>am. Nos. 52 and 155, 1979; No. 6, 1981; No. 166, 1985; Nos. 6 and 109, 1988; No. 215, 1992; No. 43, 1996; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1789,7 +1819,7 @@ _(l)_      Subsection 2(1) (item 24) of the _Fair Work (State Referr
 Renumbered s. 9B..........</div>
   </td>
   <td>
-    <div>ad. No. 6, 1981 
+    <div>ad. No. 6 1981 
 No. 43, 1996</div>
   </td>
 </tr>
@@ -1875,14 +1905,6 @@ No. 43, 1996</div>
 </tr>
 <tr>
   <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 25A</div>
   </td>
   <td>
@@ -1957,15 +1979,5 @@ _Law Officers Legislation Amendment Act 2008 (No. 40, 2008)_
 ## 5  Application
 
 The _Long Service Leave (Commonwealth Employees) Act 1976_, as amended by this Schedule, applies to a person in respect of any period (whether before or after the commencement of this item) during which the person holds office as the Solicitor‑General if the person was appointed as Solicitor‑General after 31 December 1997.
-
-* * *
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 6
-
-## 45  Saving
-
-Despite the repeal of section 3 of the _Long Service Leave (Commonwealth Employees) Act 1976_ made by this Schedule, that section, as in force immediately before the commencement of this item, continues to apply on and after that commencement as if that repeal had not happened.
 
  
