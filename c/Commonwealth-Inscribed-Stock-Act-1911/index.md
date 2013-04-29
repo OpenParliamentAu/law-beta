@@ -1,3560 +1,2528 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C02926/Html/CIS11_image001.gif)
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911 
-**
+# Commonwealth Inscribed Stock Act 1911
 
+**Act No. 20 of 1911 as amended**
 
-**
+This compilation was prepared on 18 April 2002 
+ taking into account amendments up to Act No. 21 of 2002
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+**Part I—Preliminary**
 
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
+[3](#3).            Interpretation                                                                                       1
 
+**Part II—Creation and issue of stock**
 
+[4](#4).            Power to create stock                                                                          2
 
+[6](#6).            Stock and interest a charge on revenue                                                2
 
+[7](#7).            Terms and conditions of issue                                                             2
 
+[11](#11).          When interest to cease                                                                         3
 
-**
+[12](#12).          Moneys raised to be placed to credit of Loan Fund                            3
 
-###  Long Title 
-**
-**
+[13](#13).          Stock personal property                                                                      3
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<part>Part&#160;I&#151;Preliminary </part>
-**
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Commonwealth Inscribed Stock Act 1911_.
+**Part III—Inscription of stock** 
 
- 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 3  Interpretation 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+    **Division 1—Registries and Registrars**
 
-</dd> 
-<dl compact=""><dl compact="">
+[14](#14).          Establishment of registries and appointment of Registrars                 4
 
-_certified copy_ of an entry in a Stock Ledger, of an extract of an
+    **Division 2—Inscription of stock**
 
-entry in a Stock Ledger or of a document means a copy of the entry, extract or
+[15](#15).          Stock to be inscribed                                                                            5
 
-document that is certified by a prescribed person to be a true copy. _clearing and settlement facility_ means a facility that is a clearing and settlement facility for the purposes of Chapter&#160;7 of the _Corporations Act 2001_. _Registrar_ means a Registrar of Stock or a Deputy Registrar of Stock. _Registry_ means a Registry for the inscription of stock. _stock_ means:  </dl></dl>
+[16](#16).          Limit of number of names                                                                    5
 
-<dl compact=""><dl compact=""><dl compact="">
+[17](#17).          Stock certificates                                                                                  5
 
-<dt>(a)</dt><dd>stock, Treasury Bonds, Treasury Notes or other prescribed securities
+[18](#18).          Owner of stock                                                                                    5
 
-created under subsection 4(1); and</dd>
+[19](#19).          Protection of Registrar in relation to trusts                                         5
 
-<dt>(b)</dt><dd>stock (however described) created under subsection 4(1) as in force at any
+[20](#20).          Equitable interests preserved                                                               6
 
-time before the commencement of Schedule&#160;1 to the _Commonwealth Inscribed Stock Amendment Act 2002_; and</dd>
+[21](#21).          Stock in joint names of infant and an adult                                          6
 
-<dt>(c)</dt><dd>Treasury Bonds, debentures or other prescribed securities made out under
+[21A](#21A).       Stock held in official capacity                                                              6
 
-subsection 51A(1) at any time before the commencement of subsection 51A(3).
+[22](#22).          Receipts for interest                                                                            6
 
-</dd>
+[22A](#22A).       Inscription in name of Friendly Society or Trade Union                    6
 
-</dl></dl></dl>
+[22B](#22B).       Inscription of stock in name of unincorporated associations              7
 
-<def><dl compact=""><dl compact="">
+    **Division 3—Transfers and transmissions**
 
-_Treasury Bond_ includes a Treasury Fixed Coupon Bond, a Treasury
+[23](#23).          Transfer to another registry                                                                 9
 
-Indexed Bond and an Australian Consolidated Treasury Bond and any coupon issued
+[24](#24).          Transfer of stock                                                                                 9
 
-in connection with a Treasury Bond.
+[27](#27).          Limitations on registration of transactions                                          9
 
- </dl></dl>
+[28](#28).          Transmission application                                                                    9
 
-<dl compact="">
+[29](#29).          Verification of transmission                                                                 9
 
-<dt>(2)</dt><dd>For the purposes of the application of this Act at a time before the
+[30](#30).          Registration of transmission                                                              10
 
-commencement of Schedule&#160;1 to the _Financial Services Reform Act 2001_:
+    **Division 5—Legal provisions**
 
-</dd> </dl>
+[43](#43).          Orders to be carried into effect                                                          11
 
-<dl compact=""><dl compact=""><dl compact="">
+[44](#44).          Copies of books etc  evidence                                                           11
 
-<dt>(a)</dt><dd>a reference in this Act to the operator of a clearing and settlement
+**Part V—Penal provisions**
 
-facility is taken to be a reference to:
+[49](#49).          False personation                                                                               12
 
-</dd>
+[50](#50).          Falsification of books or documents                                                  12
 
-</dl></dl></dl>
+[51](#51).          Forfeiture of forged documents and illicit forms                               12
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+**Part VA—Treasury Bonds**
 
-<dt>(i)</dt><dd>a clearing house as defined by section&#160;9 of the _Corporations Act 2001_; or</dd>
+[51A](#51A).       Power to make out and issue Treasury Bonds                                  13
 
-<dt>(ii)</dt><dd>the body corporate in relation to which an approval as a clearing house
+[51B](#51B).       Sale of Treasury Bonds                                                                     13
 
-is in force under section&#160;779B of that Act; and
+[51BA](#51BA).    Breach of terms or conditions of issue of Treasury Bonds               13
 
-</dd>
+[51C](#51C).       Treasury Bills Act to apply to Bonds and other securities              14
 
-</dl></dl></dl></dl>
+[51E](#51E).        Conversion of stock, Treasury Bonds and other securities               14
 
-<center>Back to Top</center>
+[51G](#51G).       Treasury Bonds may be repurchased out of war loans                     14
 
-<dl compact=""><dl compact=""><dl compact="">
+**Part VB—Delegations and authorisations**
 
-<dt>(b)</dt><dd>a reference in this Act to the operating rules of a clearing and
+[51H](#51H).       Delegation by Governor-General and authorisation by Treasurer    15
 
-settlement facility is taken to be a reference to the business rules of a
+[51J](#51J).        Directions by Governor-General and Treasurer                                16
 
-clearing house referred to in paragraph&#160;(a).
+[51K](#51K).       Delegation by Treasurer                                                                    16
 
-</dd>
+**Part VI—Miscellaneous**
 
-</dl></dl></dl>
+[52](#52).          Investments in stock                                                                          17
 
-<center>**
+[52A](#52A).       Stock certificates etc  not liable to stamp duty                                 17
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<part>Part&#160;II&#151;Creation and issue of stock </part>
-**</center>
+[52B](#52B).       Liability of interest to income tax                                                      17
 
-**
+[54](#54).          List of unclaimed interest                                                                  18
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 4  Power to create stock 
-**
+[55](#55).          Forms                                                                                                 18
 
- <dl compact="">
+[56](#56).          Powers of attorney                                                                            19
 
-<dt>(1)</dt><dd>The Governor-General may, by writing signed by him or her, create stock,
+[57B](#57B).       Application of certain provisions of Treasury Bills Act to stamps 19
 
-Treasury Bonds, Treasury Notes or other prescribed securities from time to time
+[58](#58).          Regulations                                                                                        19
 
-for:
+**Notes** 
 
-</dd> </dl>
+ 
 
-<dl compact=""><dl compact=""><dl compact="">
+## An Act to provide for the issue of Stock, Bonds and other Securities by the Commonwealth and for other purposes
 
-<dt>(a)</dt><dd>raising money by way of loan; or</dd>
+## Part I—Preliminary
 
-<dt>(b)</dt><dd>converting any loan raised by the Commonwealth into any other loan so
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-raised; or</dd>
+                   This Act may be cited as the _Commonwealth Inscribed Stock Act 1911_.
 
-<dt>(c)</dt><dd>paying any expenses of carrying this Act into effect that the
+##### <a id="3"></a>3  Interpretation
 
-Governor-General considers are properly payable out of capital.
+                   In this Act, unless the contrary intention appears:
 
-</dd>
+                    <a name=""></a><a name="certifi-copi"></a>**_certified copy_**, in relation to a power of attorney, means a copy of the power certified by a prescribed person to be a true copy.
 
-</dl></dl></dl>
+                    <a name="registrar"></a>**_Registrar_** means the Registrar of Stock, or a Deputy Registrar of Stock.
 
-<dl compact="">
+                    <a name="registri"></a>**_Registry_** means a Registry for the inscription of stock.
 
-<dt>(2)</dt><dd>Stock created pursuant to paragraph&#160;(1)(a) shall not be issued or
+                    <a name="stock"></a>**_stock_** means Commonwealth Government Inscribed Stock, Australian Consolidated Inscribed Stock or such other stock as is created under section 4.
 
-sold unless:
+                    <a name="treasuri-bond"></a>**_Treasury Bond_** includes an Australian Consolidated Treasury Bond and any coupon issued in connexion with a Treasury Bond or an Australian Consolidated Treasury Bond.
 
-</dd> </dl>
+## Part II—Creation and issue of stock
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="4"></a>4  Power to create stock
 
-<dt>(a)</dt><dd>authority to borrow the moneys to be raised by the issue or sale is
+             (1)  The Governor-General may by order create capital stock called Commonwealth Government Inscribed Stock, Australian Consolidated Inscribed Stock or such other stock as is prescribed for:
 
-granted by an Act; or</dd>
+                     (a)  raising money by way of loan;
 
-<dt>(b)</dt><dd>the issue or sale is for the purpose of carrying out an obligation of the
+                    (aa)  converting any loan:
 
-Commonwealth under the Financial Agreement.
+                              (i)  raised by the Commonwealth; or
 
-</dd>
+                             (ii)  raised by a State in accordance with the provisions of the Financial Agreement;
 
-</dl></dl></dl>
+                            into any other loan so raised; and
 
-**
+                     (b)  paying any expenses of carrying this Act into effect which the Governor-General considers are properly payable out of capital.
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 6  Stock and interest a charge on revenue 
-**
+             (2)  Stock created pursuant to paragraph (1)(a) shall not be issued or sold unless:
 
- <dl compact="">
+                     (a)  authority to borrow the moneys to be raised by the issue or sale is granted by an Act; or
 
-		The principal money secured by any stock and the interest (if any) thereon
+                     (b)  the issue or sale is for the purpose of carrying out an obligation of the Commonwealth under the Financial Agreement.
 
-shall rank equally and without priority or preference, and shall be a charge on
+##### <a id="6"></a>6  Stock and interest a charge on revenue
 
-and payable out of the Consolidated Revenue Fund which is hereby appropriated
+                   The principal money secured by any stock and the interest (if any) thereon shall rank equally and without priority or preference, and shall be a charge on and payable out of the Consolidated Revenue Fund which is hereby appropriated for the purpose.
 
-for the purpose.
+##### <a id="7"></a>7  Terms and conditions of issue
 
- </dl>
+                   The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which stock may be issued and sold shall be as directed by the Governor-General.
 
-**
+##### <a id="11"></a>11  When interest to cease
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 7  Issue of stock 
-**
+                   After the expiration of the notice for the redemption of any stock the interest (if any) on the stock specified in the notice shall cease.
 
- <dl compact="">
+##### <a id="12"></a>12  Moneys raised to be placed to credit of Loan Fund
 
-<dt>(1)</dt><dd>The manner in which, the prices at which and the terms and conditions
+                   All moneys raised by the sale of stock shall be placed to the credit of the Loan Fund.
 
-(including terms and conditions as to redemption and interest) on which stock
+##### <a id="13"></a>13  Stock personal property
 
-may be issued and sold shall be as directed by the Governor-General.</dd> <dt>(2)</dt><dd>Stock may be issued by electronic means.</dd> <dt>(3)</dt><dd>Stock may be issued to a person on trust for other persons.</dd> <dt>(4)</dt><dd>To avoid doubt, a person to whom stock may be issued under subsection&#160;(3) may be a person who is a Registrar.</dd> <dt>(5)</dt><dd>The Treasurer may, on behalf of the Commonwealth, enter into such contracts or arrangements, or execute such deeds of trust or other instruments as the Treasurer considers to be necessary or convenient for the purposes of, or in connection with, the issue of stock as provided by subsection&#160;(3). </dd> </dl>
+                   Stock shall be personal property.
 
-**
+## Part III—Inscription of stock
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 11  When interest to cease 
-**
+### Division 1—Registries and Registrars
 
- <dl compact="">
+##### <a id="14"></a>14  Establishment of registries and appointment of Registrars
 
-		After the expiration of the notice for the redemption of any stock the
+                   The Treasurer may:
 
-interest (if any) on the stock specified in the notice shall cease.
+                     (a)  establish Registries for the inscription of stock within the Commonwealth;
 
- </dl>
+                     (b)  establish a Registry for the inscription of stock at London in the United Kingdom;
 
-**
+                     (c)  appoint such Registrars of Stock and Deputy Registrars of Stock as he thinks necessary.
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 13  Stock personal property 
-**
+### Division 2—Inscription of stock
 
- <dl compact="">
+##### <a id="15"></a>15  Stock to be inscribed
 
-		Stock shall be personal property.
+                   All stock issued shall be inscribed in a Stock Ledger at a Registry by entering therein the name of the owner of the stock and the amount thereof, and such other particulars as are prescribed.
 
- </dl>
+##### <a id="16"></a>16  Limit of number of names
 
-<center>Back to Top</center>
+                   No stock shall be inscribed in the names of more than 4 persons.
 
-<center>**
+##### <a id="17"></a>17  Stock certificates
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<part>Part&#160;III&#151;Inscription of stock </part>
-**</center>
+                   The Registrar shall upon demand of the owner of any stock issue to him a certificate of the proprietorship of the stock, and such certificate shall be _prima facie_ evidence of the title of the holder to the stock therein specified; but the want of such certificate shall not prevent the owner of any stock from disposing of it.
 
-<center>**
+##### <a id="18"></a>18  Owner of stock
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<division>Division&#160;1&#151;Registries and Registrars </division> 
-**</center>
+                   The person whose name is inscribed in the Stock Ledger as the owner of any stock shall be deemed to be the owner of the stock, and shall have power to dispose of and transfer the stock subject to and in manner provided by this Act, and to give effectual receipts for any money paid to him by way of consideration.
 
-**
+##### <a id="19"></a>19  Protection of Registrar in relation to trusts
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 14  Establishment of registries and appointment of Registrars 
-**
+             (1)  Stock may be inscribed in the name of a trustee in his capacity as a trustee whether as trustee of a specified trust or as trustee without specifying a trust.
 
-<dl compact="">
+             (2)  Notwithstanding that stock is inscribed in the name of a trustee in his capacity as a trustee, whether as trustee of a specified trust or as trustee without specifying a trust, the Registrar:
 
-<dt>(1)</dt><dd>The Treasurer may:
+                     (a)  is not affected with notice of any trust; and
 
-</dd> </dl>
+                     (b)  is not required to make any inquiries concerning:
 
-<dl compact=""><dl compact=""><dl compact="">
+                              (i)  any trust; or
 
-<dt>(a)</dt><dd>establish Registries for the inscription of stock within the
+                             (ii)  the propriety of anything done in relation to stock that is inscribed in the name of a trustee or any part of such stock.
 
-Commonwealth;</dd>
+##### <a id="20"></a>20  Equitable interests preserved
 
-<dt>(c)</dt><dd>appoint such Registrars of Stock and Deputy Registrars of Stock as he or
+                   Without prejudice to the provisions of this Act relating to the disposal and transfer of stock and notice of trusts, it is the intention of this Act that equitable interests may be enforced against the owners of stock in the same manner as in respect of any other personal property.
 
-she thinks necessary.
+##### <a id="21"></a>21  Stock in joint names of infant and an adult
 
-</dd>
+                   Stock may be inscribed in the name of an infant jointly with 1 or more adult persons, but shall not, without the order of a Judge of the Supreme Court of a State or Territory, be transferred until the coming of age or decease of the infant.
 
-</dl></dl></dl>
+##### <a id="21A"></a>21A  Stock held in official capacity
 
-<dl compact="">
+             (1)  Stock may be inscribed in the name of the holder of a prescribed office in that person’s capacity as holder of the office.
 
-<dt>(2)</dt><dd>Any person may be appointed as a Registrar.</dd> <dt>(3)</dt><dd>To avoid doubt, a person that is: </dd> </dl>
+             (2)  The holder of a prescribed office and the holder’s successors in office shall, for the purposes of this Act, be deemed to be a corporation by the name prescribed in relation to the office.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="22"></a>22  Receipts for interest
 
-<dt>(a)</dt><dd>the operator of a clearing and settlement facility; or</dd>
+                   Any one of the persons in whose names any stock is inscribed may give valid receipts for interest.
 
-<dt>(b)</dt><dd>an incorporated company or other body corporate;
+##### <a id="22A"></a>22A  Inscription in name of Friendly Society or Trade Union
 
-</dd>
+          (1A)  Despite anything in this Act, stock may, subject to this section, be inscribed in the name of any Friendly Society or any branch of a Friendly Society.
 
-</dl></dl></dl>
+             (1)  Notwithstanding anything contained in this Act, stock may, subject to this section, be inscribed in the name of any Trade Union which the Registrar is satisfied is registered under the laws of any State or Territory or any branch of a Trade Union so registered.
 
-may be appointed as a Registrar.
+             (2)  An application by a Friendly Society, Trade Union or any branch thereof, for inscribed stock shall be in such form and contain such particulars as are prescribed, and any documents prescribed by or under this Act and relating to that stock shall be signed by such 2 or more persons as are appointed in that behalf by the Society, Trade Union or branch, as the case may be.
 
-<dl compact="">
+             (3)  Certificates, receipts and other documents relating to stock inscribed in the name of a Friendly Society, Trade Union or branch shall be issued only to such person as the Society, Trade Union or branch, as the case may be, appoints in that behalf.
 
-<dt>(4)</dt><dd>A person who holds office as a Registrar must, in the performance of the
+             (4)  No transactions under this Act shall be effected in relation to stock inscribed under this section unless they are authorized by the persons appointed by the Society, Trade Union or branch, as the case may be, in accordance with subsection (2), and the Commonwealth shall be under no legal liability in respect of any such transaction which is so authorized.
 
-functions, or the exercise of the powers, of the holder of the office, comply
+             (5)  In this section:
 
-with any relevant requirements:
+                    <a name="friendli-societi"></a>**_Friendly Society_** means:
 
-</dd> </dl>
+                     (a)  a body that is a friendly society for the purposes of the _Life Insurance Act 1995_; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  a body that is registered or incorporated as a friendly society under a law of a State or Territory; or
 
-<dt>(a)</dt><dd>contained in the instrument appointing the person to the office; or</dd>
+                     (c)  a body that is permitted, by a law of a State or Territory, to assume or use the expression **_friendly society_**; or
 
-<dt>(b)</dt><dd>contained in any contract or arrangement made, or in any deed of trust or
+                     (d)  a body that, immediately before the date that is the transfer date for the purposes of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, was registered or incorporated as a friendly society under a law of a State or Territory.
 
-other instrument executed, in connection with the appointment; or</dd>
+##### <a id="22B"></a>22B  Inscription of stock in name of unincorporated associations
 
-<dt>(c)</dt><dd>made by the regulations.
+             (1)  Notwithstanding anything contained in this Act, stock may, subject to this section, be inscribed in the name of an unincorporated association that complies with such conditions as are prescribed.
 
-</dd>
+             (2)  An application for stock made by an unincorporated association shall be in such form and contain such particulars as are prescribed, and any documents prescribed by or under this Act and relating to that stock shall be signed by 2 or more persons appointed by that association to sign such documents.
 
-</dl></dl></dl>
+             (3)  A certificate, receipt or other document relating to stock inscribed in the name of an unincorporated association shall be issued only to a person authorized by the association to receive the document concerned.
 
-<center>**
+             (4)  A transaction under this Act shall not be effected in relation to stock inscribed under this section unless the transaction is authorized by the persons appointed by the unincorporated association in accordance with subsection (2) and the Commonwealth is not under any legal liability in respect of any such transaction that is so authorized.
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<division>Division&#160;2&#151;Inscription of stock </division> 
-**</center>
+### Division 3—Transfers and transmissions
 
-**
+##### <a id="23"></a>23  Transfer to another registry
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 15  Stock to be inscribed 
-**
+                   Stock may in the manner prescribed be transferred from one Registry to another Registry.
 
- <dl compact="">
+##### <a id="24"></a>24  Transfer of stock
 
-<dt>(1)</dt><dd>All stock issued shall be inscribed in a Stock Ledger at a Registry by
+             (1)  The regulations may make provision for and in relation to:
 
-entering therein the name of the owner of the legal interest in the stock and
+                     (a)  the transfer of stock from one person to another person; and
 
-the amount thereof, and such other particulars as are prescribed.</dd> <dt>(2)</dt><dd>A Stock Ledger may be kept in an electronic form. </dd> </dl>
+                     (b)  the inscription in a Stock Ledger of the name of the transferee as the owner of the stock.
 
-**
+             (2)  In this section, **_person_** includes:
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 16  Limit of number of names 
-**
+                     (a)  a Friendly Society or a branch of a Friendly Society;
 
- <dl compact="">
+                     (b)  a Trade Union or a branch of a Trade Union; or
 
-		No stock shall be inscribed in the names of more than 4 persons.
+                     (c)  an unincorporated association.
 
- </dl>
+##### <a id="27"></a>27  Limitations on registration of transactions
 
-**
+                   Except where the regulations otherwise provide or the Treasurer approves, a transaction relating to stock shall not be registered or dealt with within 14 days prior to the date upon which interest is due or within 1 month prior to the date of maturity of the stock.
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 17  Stock certificates 
-**
+##### <a id="28"></a>28  Transmission application
 
- <dl compact="">
+                   Any person to whom any stock is transmitted may apply in the prescribed form to the Registrar at the registry where the stock is inscribed to be inscribed as the owner of the stock.
 
-<dt>(1)</dt><dd>The Registrar must, when requested by a person who is the owner of the
+##### <a id="29"></a>29  Verification of transmission
 
-legal interest in any stock, issue to the person a certificate stating that the
+             (1)  Every transmission application shall be verified by statutory declaration or in such other manner as the Treasurer allows, and
 
-person is the owner of the stock.</dd> <dt>(2)</dt><dd>A certificate issued under subsection&#160;(1) is prima facie evidence that the person specified in the certificate is the owner of the legal interest in the stock so specified.</dd> <dt>(3)</dt><dd>The person who is the owner of the legal interest in any stock may dispose of the interest even though a certificate has not been issued to the person under subsection&#160;(1). </dd> </dl>
+                     (a)  in the case of a transmission consequent on death, the probate of the will, letters of administration or other instrument authorizing a person to administer the estate of a deceased person shall be produced to the Registrar; and
 
-**
+                     (b)  in the case of a transmission consequent on bankruptcy, an office copy of the adjudication or order of sequestration shall be delivered to the Registrar.
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 18  Owner of legal interest in stock 
-**
+             (2)  Where an amount of stock not exceeding the prescribed amount is inscribed in the name of a person who has died, the Treasurer may dispense with the requirement of paragraph (1)(a), and may authorize the transmission of the stock to such person as he thinks fit.
 
- <dl compact="">
+             (3)  No person shall have any claim against the Commonwealth in respect of any transmission in pursuance of subsection (2), but nothing in this section shall relieve the person to whom the stock is transmitted from any liability to account for or deal with the stock in accordance with law.
 
-		The person whose name is inscribed in a Stock Ledger as the owner of the
+##### <a id="30"></a>30  Registration of transmission
 
-stock:
+                   The Registrar shall, if he is satisfied that the provisions of this Act have been complied with, register the transmission by entering a memorial of it in the Stock Ledger and inscribe the name of the person to whom the stock has been transmitted in the Stock Ledger as the owner of the stock.
 
- </dl>
+### Division 5—Legal provisions
 
-<center>Back to Top</center>
+##### <a id="43"></a>43  Orders to be carried into effect
 
-<dl compact=""><dl compact=""><dl compact="">
+                   The Registrar, upon being served with any order relating to stock or having the effect of vesting stock in any person made by the Supreme Court of a State or a Judge thereof, or the Supreme Court of a Territory or a Judge thereof, shall make any entries in the Stock Ledger necessary to be made for the purpose of carrying the order into effect.
 
-<dt>(a)</dt><dd>is the owner of the legal interest in the stock; and</dd>
+##### <a id="44"></a>44  Copies of books etc. evidence
 
-<dt>(b)</dt><dd>has power to transfer the interest as provided by this Act and to give
+                   A copy of, or extract from, any entry in any Stock Ledger and a copy of any document relating to stock in the custody of a Registrar, shall be admissible in evidence in all courts within the Commonwealth:
 
-effectual receipts for any money paid to the person by way of consideration.
+                     (a)  if it is proved to be an examined copy or extract; or
 
-</dd>
+                     (b)  if it purports to be signed and certified as a true copy or extract by the Registrar.
 
-</dl></dl></dl>
+## Part V—Penal provisions
 
-**
+##### <a id="49"></a>49  False personation
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 19  Protection of Registrar in relation to trusts 
-**
+                   Any person who, with intent to defraud, falsely personates any person entitled to any stock or to any money payable in respect of any stock, shall be guilty of an indictable offence.
 
- <dl compact="">
+                    Penalty:  Imprisonment for 10 years.
 
-<dt>(1)</dt><dd>Stock may be inscribed in the name of a trustee in the capacity as a
+##### <a id="50"></a>50  Falsification of books or documents
 
-trustee whether as trustee of a specified trust or as trustee without
+                   Any person who fraudulently:
 
-specifying a trust.</dd> <dt>(2)</dt><dd>Notwithstanding that stock is inscribed in the name of a trustee in the capacity as a trustee, whether as trustee of a specified trust or as trustee without specifying a trust, the Registrar in the capacity as Registrar: </dd> </dl>
+                     (a)  makes any false entry in any book, record, or document relating to stock, or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  omits to make any entry in any book, record, or document relating to stock, or
 
-<dt>(a)</dt><dd>is not affected with notice of any trust; and</dd>
+                     (c)  by act or omission falsifies any book, record, or document relating to stock, or
 
-<dt>(b)</dt><dd>is not required to make any inquiries concerning:
+                     (d)  destroys any book, record, or document relating to stock, or
 
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>any trust; or</dd>
-
-<dt>(ii)</dt><dd>the propriety of anything done in relation to stock that is inscribed in
-
-the name of a trustee or any part of such stock.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 20  Preservation of equitable interests 
-**
-
- <dl compact="">
-
-		Without prejudice to the provisions of this Act relating to the transfer of
-
-the legal interests in stock and notice of trusts, it is the intention of this
-
-Act that equitable interests may be enforced against the owners of legal
-
-interests in stock in the same way as equitable interests may be enforced
-
-against the owners of legal interests in other personal property.
-
- </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 21  Stock may not be inscribed in the names of persons under 16 years of age 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>After the commencement of this section, an inscription of stock may not be
-
-made in the name of a person who is, or in the joint names of persons any one
-
-or more of whom is, under the age of 16 years.</dd> <dt>(2)</dt><dd>However, any stock inscribed at the commencement of this section in the joint names of a person who is under the age of 16 years and one or more other persons may continue to be so inscribed but must not, without the order of a Judge of the Supreme Court of a State or Territory, be transferred until the person reaches that age or dies. </dd> </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 21A  Stock held in official capacity 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Stock may be inscribed in the name of the holder of a prescribed office in
-
-that person's capacity as holder of the office.</dd> <dt>(2)</dt><dd>The holder of a prescribed office and the holder's successors in office shall, for the purposes of this Act, be deemed to be a corporation by the name prescribed in relation to the office. </dd> </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 22  Receipts for interest 
-**
-
- <dl compact="">
-
-		Any one of the persons in whose names any stock is inscribed may give valid
-
-receipts for interest.
-
- </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 22A  Inscription in name of Friendly Society or Trade Union 
-**
-
- <dl compact="">
-
-<dt>(1A)</dt><dd>Despite anything in this Act, stock may, subject to this section, be
-
-inscribed in the name of any Friendly Society or any branch of a Friendly
-
-Society.</dd> <dt>(1)</dt><dd>Notwithstanding anything contained in this Act, stock may, subject to this section, be inscribed in the name of any Trade Union which the Registrar is satisfied is registered under the laws of any State or Territory or any branch of a Trade Union so registered.</dd> <dt>(2)</dt><dd>An application by a Friendly Society, Trade Union or any branch thereof, for inscribed stock shall be in such form and contain such particulars as are prescribed, and any documents prescribed by or under this Act and relating to that stock shall be signed by such 2 or more persons as are appointed in that behalf by the Society, Trade Union or branch, as the case may be.</dd> <dt>(3)</dt><dd>Certificates, receipts and other documents relating to stock inscribed in the name of a Friendly Society, Trade Union or branch shall be issued only to such person as the Society, Trade Union or branch, as the case may be, appoints in that behalf.</dd> <dt>(4)</dt><dd>No transactions under this Act shall be effected in relation to stock inscribed under this section unless they are authorized by the persons appointed by the Society, Trade Union or branch, as the case may be, in accordance with subsection&#160;(2), and the Commonwealth shall be under no legal liability in respect of any such transaction which is so authorized.</dd> <dt>(5)</dt><dd>In this section: </dd> </dl>
-
-<center>Back to Top</center>
-
-<def><dl compact=""><dl compact="">
-
-_Friendly Society_ means:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a body that is a friendly society for the purposes of the _Life Insurance Act 1995_; or</dd>
-
-<dt>(b)</dt><dd>a body that is registered or incorporated as a friendly society under a
-
-law of a State or Territory; or</dd>
-
-<dt>(c)</dt><dd>a body that is permitted, by a law of a State or Territory, to assume or
-
-use the expression _friendly society_; or</dd>
-
-<dt>(d)</dt><dd>a body that, immediately before the date that is the transfer date for the
-
-purposes of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, was registered or incorporated as a
-
-friendly society under a law of a State or Territory.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 22B  Inscription of stock in name of unincorporated associations 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>Notwithstanding anything contained in this Act, stock may, subject to this
-
-section, be inscribed in the name of an unincorporated association that
-
-complies with such conditions as are prescribed.</dd> <dt>(2)</dt><dd>An application for stock made by an unincorporated association shall be in such form and contain such particulars as are prescribed, and any documents prescribed by or under this Act and relating to that stock shall be signed by 2 or more persons appointed by that association to sign such documents.</dd> <dt>(3)</dt><dd>A certificate, receipt or other document relating to stock inscribed in the name of an unincorporated association shall be issued only to a person authorized by the association to receive the document concerned.</dd> <dt>(4)</dt><dd>A transaction under this Act shall not be effected in relation to stock inscribed under this section unless the transaction is authorized by the persons appointed by the unincorporated association in accordance with subsection&#160;(2) and the Commonwealth is not under any legal liability in respect of any such transaction that is so authorized. </dd> </dl>
-
-<center>**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<division>Division&#160;3&#151;Transfers and transmissions </division> 
-**</center>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 23  Transfer to another registry 
-**
-
- <dl compact="">
-
-		Stock may in the manner prescribed be transferred from one Registry to
-
-another Registry.
-
- </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 24  Transfer of stock 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The regulations may make provision for or in relation to the transfer of
-
-legal or equitable interests in stock from one person to another person.</dd> <dt>(1A)</dt><dd>The provision that may be made by the regulations under subsection&#160;(1) may include either or both of the following: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a provision for transfer of interests by electronic means;</dd>
-
-<dt>(b)</dt><dd>a provision applying a provision of the _Corporations Act 2001_ with
-
-or without modifications.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>In this section, _person_ includes:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a Friendly Society or a branch of a Friendly Society;</dd>
-
-<dt>(b)</dt><dd>a Trade Union or a branch of a Trade Union; or</dd>
-
-<dt>(c)</dt><dd>an unincorporated association.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 24A  Transfer of certain interests in stock 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The legal interest, and any equitable interests, in any stock may be
-
-transferred from one person to another:
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in accordance with regulations made for the purposes of subsection 24(1);
-
-or</dd>
-
-<dt>(b)</dt><dd>subject to subsection&#160;(2), if the stock is inscribed in a Stock
-
-Ledger at a Registry where the Registrar is the operator of a clearing and
-
-settlement facility&#151;in any way permitted by the operating rules of the
-
-facility (which may, if the operating rules so provide, be a way authorised by
-
-the _Corporations Act 2001_).
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The Treasurer may, by written notice given to the operator of a clearing
-
-and settlement facility, declare that particular operating rules of the
-
-facility are not to apply in respect of the transfer of legal or equitable
-
-interests in stock.
-
-</dd> </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 24B  Record of equitable interests 
-**
-
- <dl compact="">
-
-		The regulations may require a Registrar that is the operator of a clearing
-
-and settlement facility or is an incorporated company or other body corporate:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to keep a record (which may be a record kept by electronic means) of the
-
-ownership of any equitable interests in the stock; and</dd>
-
-<dt>(b)</dt><dd>to comply with any provision made by the regulations in relation to the
-
-keeping of such a record.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 24C  Inscription in Stock Ledger of names of transferees of legal interests in stock 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>The regulations may make provision for or in relation to the inscription
-
-in a Stock Ledger of the name of the transferee of a legal interest in the
-
-stock as the owner of the stock.</dd> <dt>(2)</dt><dd>The provision that may be made by regulations for the purposes of subsection&#160;(1) in relation to the legal interest in stock inscribed in a Stock Ledger that is kept in an electronic form must be provision for the inscription of the legal interest in an electronic form. </dd> </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 27  Limitations on registration of transactions 
-**
-
- <dl compact="">
-
-		Except where the regulations otherwise provide or the Treasurer approves, a
-
-transaction relating to stock shall not be registered or dealt with within 14
-
-days prior to the date upon which interest is due or within 1 month prior to
-
-the date of maturity of the stock.
-
- </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 28  Transmission application 
-**
-
- <dl compact="">
-
-		A person to whom the legal interest in stock is transmitted may apply to a
-
-Registrar to be inscribed as the owner of the stock in accordance with the
-
-regulations.
-
- </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 29  Verification of transmission 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Every transmission application shall be verified by statutory declaration
-
-or in such other manner as the Treasurer allows, and
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in the case of a transmission consequent on death, the probate of the
-
-will, letters of administration or other instrument authorizing a person to
-
-administer the estate of a deceased person shall be produced to the Registrar;
-
-and</dd>
-
-<dt>(b)</dt><dd>in the case of a transmission consequent on bankruptcy, an office copy of
-
-the adjudication or order of sequestration shall be delivered to the Registrar.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Where an amount of stock not exceeding the prescribed amount is inscribed
-
-in the name of a person who has died, the Treasurer may dispense with the
-
-requirement of paragraph&#160;(1)(a), and may authorize the transmission of the
-
-stock to such person as he or she thinks fit.</dd> <dt>(3)</dt><dd>No person shall have any claim against the Commonwealth in respect of any transmission in pursuance of subsection&#160;(2), but nothing in this section shall relieve the person to whom the stock is transmitted from any liability to account for or deal with the stock in accordance with law. </dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 30  Registration of transmission of legal interest 
-**
-
- <dl compact="">
-
-		If the Registrar at a Registry where particular stock is inscribed is
-
-satisfied that the provisions of this Act relating to the transmission of the
-
-legal interest in that stock have been complied with, the Registrar must
-
-register the transmission by entering particulars of it in the relevant Stock
-
-Ledger and inscribe the name of the person to whom the legal interest has been
-
-transmitted in the Stock Ledger as the owner of the stock.
-
- </dl>
-
-<center>**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<division>Division&#160;5&#151;Legal provisions </division> 
-**</center>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 43  Orders to be carried into effect 
-**
-
- <dl compact="">
-
-		If an order relating to the legal interest in any stock, or having the effect
-
-of vesting the legal interest in any stock in a person, made by the Supreme
-
-Court of a State or Territory or a Judge of such a Court is served on the
-
-Registrar at the Registry where the stock is inscribed, the Registrar must make
-
-any entries in the relevant Stock Ledger that are necessary for the purpose of
-
-carrying the order into effect.
-
- </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 44  Evidence 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>In any proceeding, a certified copy of:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an entry in a Stock Ledger; or</dd>
-
-<dt>(b)</dt><dd>an extract from an entry in a Stock Ledger; or</dd>
-
-<dt>(c)</dt><dd>a document in the custody of a Registrar that relates to stock;
-
-</dd>
-
-</dl></dl></dl>
-
-is admissible in evidence.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A document purporting to be a certified copy referred to in
-
-subsection&#160;(1) is to be taken, unless the contrary is established, to be
-
-such a certified copy and to have been duly given.
-
-</dd> </dl>
-
-<center>**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<part>Part&#160;V&#151;Penal provisions </part>
-**</center>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 49  False personation 
-**
-
- <dl compact="">
-
-		Any person who, with intent to defraud, falsely personates any person
-
-entitled to the legal interest in any stock or to any money payable in respect
-
-of any stock, shall be guilty of an indictable offence.
-
- </dl>
-
-Penalty:	Imprisonment for 10 years. 
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 50  Falsification of books or documents 
-**
-
- <dl compact="">
-
-		Any person who fraudulently:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>makes any false entry in any book, record, or document relating to stock,
-
-or</dd>
-
-<dt>(b)</dt><dd>omits to make any entry in any book, record, or document relating to
-
-stock, or</dd>
-
-<dt>(c)</dt><dd>by act or omission falsifies any book, record, or document relating to
-
-stock, or</dd>
-
-<dt>(d)</dt><dd>destroys any book, record, or document relating to stock, or</dd>
-
-<dt>(e)</dt><dd>delivers to any person not entitled thereto any stock certificate, or any
-
-coupon, warrant, or document for the payment of any money payable in respect of
-
-any stock;
-
-</dd>
-
-</dl></dl></dl>
+                     (e)  delivers to any person not entitled thereto any stock certificate, or any coupon, warrant, or document for the payment of any money payable in respect of any stock;
 
 shall be guilty of an indictable offence.
 
-<center>Back to Top</center>
+                    Penalty:  Imprisonment for 10 years.
 
-Penalty:	Imprisonment for 10 years. 
+##### <a id="51"></a>51  Forfeiture of forged documents and illicit forms
 
-**
+                   All forged instruments or documents, the forging or uttering of which is punishable under this Act shall be forfeited to the Crown, and may be seized by any member of the police force of the Commonwealth or a State.
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51  Forfeiture of forged documents and illicit forms 
-**
+## Part VA—Treasury Bonds
 
- <dl compact="">
+##### <a id="51A"></a>51A  Power to make out and issue Treasury Bonds
 
-		All forged instruments or documents, the forging or uttering of which is
+             (1)  The Governor-General may authorize the Treasurer from time to time to make out bonds called Treasury Bonds or Australian Consolidated Treasury Bonds, Debentures and such other securities as are prescribed, for:
 
-punishable under this Act shall be forfeited to the Crown, and may be seized by
+                     (a)  raising money by way of loan;
 
-any member of the police force of the Commonwealth or a State.
+                    (aa)  converting any loan raised by the Commonwealth into any other loan so raised; and
 
- </dl>
+                     (b)  paying any expenses of carrying this Act into effect which the Governor-General considers are properly payable out of capital.
 
-<center>**
+             (2)  Treasury Bonds, Debentures or other securities made out pursuant to paragraph (1)(a) shall not be issued or sold unless authority to borrow the money to be raised by the issue or sale is granted by an Act.
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<part>Part&#160;VA&#151;Treasury Bonds </part>
-**</center>
+             (3)  Notwithstanding subsection (1), Treasury Bonds, Debentures or other prescribed securities shall not be made out, issued or sold in connection with any loan raised after the commencement of this subsection.
 
-**
+##### <a id="51B"></a>51B  Sale of Treasury Bonds
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51A  Power to make out and issue Treasury Bonds 
-**
+                   The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which Treasury Bonds, Debentures and other prescribed securities may be issued and sold shall be as directed by the Governor-General.
 
- <dl compact="">
+##### <a id="51BA"></a>51BA  Breach of terms or conditions of issue of Treasury Bonds
 
-<dt>(1)</dt><dd>The Governor-General may authorize the Treasurer from time to time to make
+                   Any person who contravenes or fails to comply with any term or condition on which a Treasury Bond, Debenture or other prescribed security is issued or sold, shall be guilty of an offence against this Act.
 
-out bonds called Treasury Bonds or Australian Consolidated Treasury Bonds,
+                    Penalty:  $200 or imprisonment for 6 months, or both, and, in addition, an amount equal to 10% of the nominal value of the Treasury Bond, Debenture or other prescribed security in respect of which the offence is committed.
 
-Debentures and such other securities as are prescribed, for:
+##### <a id="51C"></a>51C  Treasury Bills Act to apply to Bonds and other securities
 
-</dd> </dl>
+                   Subject to the Regulations, the provisions of the _Treasury Bills Act 1914_ shall apply to Treasury Bonds, Debentures and other prescribed securities, as if they were Treasury Bills issued under that Act.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="51E"></a>51E  Conversion of stock, Treasury Bonds and other securities
 
-<dt>(a)</dt><dd>raising money by way of loan;</dd>
+             (1)  Stock may, in the prescribed manner and on such terms and conditions as are prescribed, be exchanged for Treasury Bonds, Debentures or other prescribed securities, and Treasury Bonds, Debentures and other prescribed securities may, in the prescribed manner and on such terms and conditions as are prescribed, be exchanged for stock.
 
-<dt>(aa)</dt><dd>converting any loan raised by the Commonwealth into any other loan so
+             (2)  Notwithstanding subsection (1), stock issued or sold after the commencement of this subsection may not be exchanged for Treasury Bonds, Debentures or other prescribed securities.
 
-raised; and</dd>
+##### <a id="51G"></a>51G  Treasury Bonds may be repurchased out of war loans
 
-<dt>(b)</dt><dd>paying any expenses of carrying this Act into effect which the
+                   When Treasury Bonds which have been issued and sold for raising money by way of loan for war purposes are presented for payment in accordance with the terms and conditions under which they were issued and sold, the Treasurer may repurchase or redeem them from the proceeds of any loan raised for war purposes.
 
-Governor-General considers are properly payable out of capital.
+## Part VB—Delegations and authorisations
 
-</dd>
+##### <a id="51H"></a>51H  Delegation by Governor-General and authorisation by Treasurer
 
-</dl></dl></dl>
+             (1)  The Governor-General may, either generally or as otherwise provided by the instrument of delegation, by writing under his hand, delegate to the Treasurer all or any of his powers under sections 7 and 51B.
 
-<dl compact="">
+             (2)  The Treasurer may, either generally or as otherwise provided in the instrument of authorization, by writing under his hand, authorize:
 
-<dt>(2)</dt><dd>Treasury Bonds, Debentures or other securities made out pursuant to
+                     (a)  a specified person;
 
-paragraph&#160;(1)(a) shall not be issued or sold unless authority to borrow
+                     (b)  a person for the time being holding or performing the duties of a specified office or position in the Australian Public Service; or
 
-the money to be raised by the issue or sale is granted by an Act.</dd> <dt>(3)</dt><dd>Notwithstanding subsection&#160;(1), Treasury Bonds, Debentures or other prescribed securities shall not be made out, issued or sold in connection with any loan raised after the commencement of this subsection. </dd> </dl>
+                     (c)  a person for the time being holding or performing the duties of a specified office in the Reserve Bank Service;
 
-**
+to exercise a power that has been delegated to the Treasurer under subsection (1).
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51B  Sale of Treasury Bonds 
-**
+             (3)  Any act or thing done:
 
- <dl compact="">
+                     (a)  by the Treasurer in the exercise of a power delegated to him under subsection (1); or
 
-		The manner in which, the prices at which and the terms and conditions
-
-(including terms and conditions as to redemption and interest) on which
-
-Treasury Bonds, Debentures and other prescribed securities may be issued and
-
-sold shall be as directed by the Governor-General.
-
- </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51BA  Breach of terms or conditions of issue of Treasury Bonds 
-**
-
-<dl compact="">
-
-		Any person who contravenes or fails to comply with any term or condition on
-
-which a Treasury Bond, Debenture or other prescribed security is issued or
-
-sold, shall be guilty of an offence against this Act.
-
- </dl>
-
-Penalty:	$200 or imprisonment for 6 months, or both, and, in addition, an amount equal to 10% of the nominal value of the Treasury Bond, Debenture or other prescribed security in respect of which the offence is committed. 
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51C  Treasury Bills Act to apply to Bonds and other securities 
-**
-
-<dl compact="">
-
-		Subject to the Regulations, the provisions of the _Treasury Bills Act 1914_ shall apply to Treasury Bonds, Debentures and other prescribed securities,
-
-as if they were Treasury Bills issued under that Act.
-
- </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51E  Conversion of stock, Treasury Bonds and other securities 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>Stock may, in the prescribed manner and on such terms and conditions as
-
-are prescribed, be exchanged for Treasury Bonds, Debentures or other prescribed
-
-securities, and Treasury Bonds, Debentures and other prescribed securities may,
-
-in the prescribed manner and on such terms and conditions as are prescribed, be
-
-exchanged for stock.</dd> <dt>(2)</dt><dd>Notwithstanding subsection&#160;(1), stock issued or sold after the commencement of this subsection may not be exchanged for Treasury Bonds, Debentures or other prescribed securities. </dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51G  Treasury Bonds may be repurchased out of war loans 
-**
-
- <dl compact="">
-
-		When Treasury Bonds which have been issued and sold for raising money by way
-
-of loan for war purposes are presented for payment in accordance with the terms
-
-and conditions under which they were issued and sold, the Treasurer may
-
-repurchase or redeem them from the proceeds of any loan raised for war purposes.
-
- </dl>
-
-<center>**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<part>Part&#160;VB&#151;Delegations and authorisations </part>
-**</center>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51H  Delegation by Governor-General and authorisation by Treasurer 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>The Governor-General may, either generally or as otherwise provided by the
-
-instrument of delegation, by writing signed by the Governor-General, delegate
-
-to the Treasurer all or any of his powers under sections&#160;4, 7 and 51B.</dd> <dt>(2)</dt><dd>The Treasurer may, either generally or as otherwise provided in the instrument of authorization, by writing signed by the Treasurer, authorize: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a specified person;</dd>
-
-<dt>(b)</dt><dd>a person for the time being holding or performing the duties of a
-
-specified office or position in the Australian Public Service; or</dd>
-
-<dt>(c)</dt><dd>a person for the time being holding or performing the duties of a
-
-specified office in the Reserve Bank Service;
-
-</dd>
-
-</dl></dl></dl>
-
-to exercise a power that has been delegated to the Treasurer under subsection&#160;(1).
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Any act or thing done:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>by the Treasurer in the exercise of a power delegated to the Treasurer
-
-under subsection&#160;(1); or</dd>
-
-<dt>(b)</dt><dd>by a person in the exercise of a power pursuant to an authorization by the
-
-Treasurer under subsection&#160;(2);
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  by a person in the exercise of a power pursuant to an authorization by the Treasurer under subsection (2);
 
 has the same force and effect as if it had been done by the Governor-General.
 
-<dl compact="">
+             (4)  A delegation under subsection (1) does not prevent the exercise of a power by the Governor-General.
 
-<dt>(4)</dt><dd>A delegation under subsection&#160;(1) does not prevent the exercise of a
+             (5)  The giving of an authorization under subsection (2) does not prevent the exercise of a power by the Treasurer.
 
-power by the Governor-General.</dd> <dt>(5)</dt><dd>The giving of an authorization under subsection&#160;(2) does not prevent the exercise of a power by the Treasurer. </dd> </dl>
+##### <a id="51J"></a>51J  Directions by Governor-General and Treasurer
 
-**
+                   Where the Governor-General has delegated a power to the Treasurer under section 51H:
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51J  Directions by Governor-General and Treasurer 
-**
+                     (a)  the Governor-General may give directions to the Treasurer with respect to the exercise of that power; and
 
- <dl compact="">
+                     (b)  if the Treasurer has under subsection 51H(2) authorized another person to exercise that power, the Treasurer:
 
-		Where the Governor-General has delegated a power to the Treasurer under
+                              (i)  shall, if the Governor-General gives a direction to the Treasurer under paragraph (a) with respect to the exercise of that power, give a corresponding direction to the other person; and
 
-section&#160;51H:
+                             (ii)  may, subject to any direction given to the Treasurer under paragraph (a), give directions to the other person with respect to the exercise of that power.
 
- </dl>
+##### <a id="51K"></a>51K  Delegation by Treasurer
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  The Treasurer may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Treasurer, delegate to:
 
-<dt>(a)</dt><dd>the Governor-General may give directions to the Treasurer with respect to
+                     (a)  a person for the time being holding or performing the duties of a specified office or position in the Australian Public Service; or
 
-the exercise of that power; and</dd>
+                     (b)  a person for the time being holding or performing the duties of a specified office in the Reserve Bank Service;
 
-<dt>(b)</dt><dd>if the Treasurer has under subsection 51H(2) authorized another person to
+all or any of the powers of the Treasurer under sections 14 and 29.
 
-exercise that power, the Treasurer:
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Treasurer.
 
-</dd>
+             (3)  A delegation under this section does not prevent the exercise of a power by the Treasurer.
 
-</dl></dl></dl>
+## Part VI—Miscellaneous
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+##### <a id="52"></a>52  Investments in stock
 
-<dt>(i)</dt><dd>shall, if the Governor-General gives a direction to the Treasurer under
+                   Any person who is authorized to invest money upon any security of the Government of the Commonwealth or of a State may invest such money in stock.
 
-paragraph&#160;(a) with respect to the exercise of that power, give a
+##### <a id="52A"></a>52A  Stock certificates etc. not liable to stamp duty
 
-corresponding direction to the other person; and</dd>
+             (1)  The following instruments and documents shall not be liable to stamp duty or other tax under any other law of the Commonwealth or of a State or Territory unless they are declared to be so liable by the prospectus relating to the loan in respect of which they are issued or used:
 
-<dt>(ii)</dt><dd>may, subject to any direction given to the Treasurer under
+                     (a)  stock certificates, Treasury Bonds, Debentures and other prescribed securities;
 
-paragraph&#160;(a), give directions to the other person with respect to the
+                     (b)  documents relating to the purchase, sale, transfer, transmission, conversion, renewal or redemption of stock, Treasury Bonds, Debentures or other prescribed securities;
 
-exercise of that power.
+                     (c)  cheques and drafts drawn by a bank on behalf of the Commonwealth in connexion with any such conversion, renewal or redemption;
 
-</dd>
+                     (d)  documents relating to the payment of interest on stock, Treasury Bonds, Debentures or other prescribed securities; and
 
-</dl></dl></dl></dl>
+                     (e)  cheques and drafts drawn by a bank on behalf of the Commonwealth for the payment of any such interest.
 
-**
+             (2)  In this section:
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 51K  Delegation by Treasurer <center>[Back to Top](#top)</center> 
-**
+                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_.
 
- <dl compact="">
+##### <a id="52B"></a>52B  Liability of interest to income tax
 
-<dt>(1)</dt><dd>The Treasurer may, either generally or as otherwise provided by the
+             (1)  If:
 
-instrument of delegation, by writing signed by the Treasurer, delegate to:
+                     (a)  a person derives interest from Stock, from Treasury Bonds or from other securities prescribed for the purposes of section 51A; and
 
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a person for the time being holding or performing the duties of a
-
-specified office or position in the Australian Public Service; or</dd>
-
-<dt>(b)</dt><dd>a person for the time being holding or performing the duties of a
-
-specified office in the Reserve Bank Service;
-
-</dd>
-
-</dl></dl></dl>
-
-all or any of the powers of the Treasurer under sections&#160;14 and 29.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A power so delegated, when exercised by the delegate, shall, for the
-
-purposes of this Act, be deemed to have been exercised by the Treasurer.</dd> <dt>(3)</dt><dd>A delegation under this section does not prevent the exercise of a power by the Treasurer. </dd> </dl>
-
-<center>**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<part>Part&#160;VI&#151;Miscellaneous </part>
-**</center>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 52  Investments in stock 
-**
-
- <dl compact="">
-
-		Any person who is authorized to invest money upon any security of the
-
-Government of the Commonwealth or of a State may invest such money in stock.
-
- </dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 52A  Stock certificates etc. not liable to stamp duty 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The following instruments and documents shall not be liable to stamp duty
-
-or other tax under any other law of the Commonwealth or of a State or Territory
-
-unless they are declared to be so liable by the prospectus relating to the loan
-
-in respect of which they are issued or used:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>stock certificates, Treasury Bonds, Treasury Notes, Debentures and other
-
-prescribed securities;</dd>
-
-<dt>(b)</dt><dd>documents relating to the purchase, sale, transfer, transmission,
-
-conversion, renewal or redemption of stock, Treasury Bonds, Treasury Notes,
-
-Debentures or other prescribed securities;</dd>
-
-<dt>(c)</dt><dd>cheques and drafts drawn by a bank on behalf of the Commonwealth in
-
-connexion with any such conversion, renewal or redemption;</dd>
-
-<dt>(d)</dt><dd>documents relating to the payment of interest on stock, Treasury Bonds,
-
-Treasury Notes, Debentures or other prescribed securities; and</dd>
-
-<dt>(e)</dt><dd>cheques and drafts drawn by a bank on behalf of the Commonwealth for the
-
-payment of any such interest.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(1A)</dt><dd>Stamp duty or other tax under any law of the Commonwealth, law of a State
-
-or law of a Territory is not payable in respect of any inscription, transfer or
-
-transmission of any interest in stock that is effected by electronic means.</dd> <dt>(2)</dt><dd>In this section: </dd> </dl>
-
-<def><dl compact=""><dl compact="">
-
-_bank_ includes, but is not limited to, a body corporate that is an
-
-ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_.
-
- </dl></dl>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 52B  Liability of interest to income tax 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>If:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a person derives interest from Stock, from Treasury Bonds or from other
-
-securities prescribed for the purposes of section&#160;51A; and</dd>
-
-<dt>(b)</dt><dd>the prospectus relating to the loan on which the interest is payable
-
-stated that the interest would not be liable to income tax under any law of a
-
-State;
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
+                     (b)  the prospectus relating to the loan on which the interest is payable stated that the interest would not be liable to income tax under any law of a State;
 
 the interest so derived is not liable to income tax under any law of a State.
 
-<dl compact="">
+             (2)  Notwithstanding anything contained in any other Act, if in any prospectus or form of application issued in relation to a loan raised after 12 September 1931 it is so declared, the interest derived by any person in any financial year from that loan shall be free from income tax payable under the law of the Commonwealth to the same extent as interest derived from new securities referred to in section 20 of the _Commonwealth Debt Conversion Act 1931_.
 
-<dt>(2)</dt><dd>Notwithstanding anything contained in any other Act, if in any prospectus
+             (3)  Notwithstanding anything contained in any other Act, where it is declared, in any prospectus relating to the raising of a loan by means of the issue of Treasury Bonds known as War Savings Certificates or Savings Certificates, that the certificates will be free of Commonwealth income tax, the interest derived by any person in any financial year from those Bonds shall be free from income tax payable under any law of the Commonwealth.
 
-or form of application issued in relation to a loan raised after
+##### <a id="54"></a>54  List of unclaimed interest
 
-12&#160;September 1931 it is so declared, the interest derived by any person in
+             (1)  Each Registrar shall keep lists of persons upon whose stock interest is unclaimed for 10 years, together with their registered addresses and descriptions.
 
-any financial year from that loan shall be free from income tax payable under
+             (2)  Such lists shall be open for inspection upon payment of the prescribed fee.
 
-the law of the Commonwealth to the same extent as interest derived from new
+##### <a id="55"></a>55  Forms
 
-securities referred to in section&#160;20 of the _Commonwealth Debt Conversion Act 1931_.</dd> <dt>(3)</dt><dd>Notwithstanding anything contained in any other Act, where it is declared, in any prospectus relating to the raising of a loan by means of the issue of Treasury Bonds known as War Savings Certificates or Savings Certificates, that the certificates will be free of Commonwealth income tax, the interest derived by any person in any financial year from those Bonds shall be free from income tax payable under any law of the Commonwealth. </dd> </dl>
+             (1)  Each Registrar shall keep the prescribed forms.
 
-**
+             (2)  No forms other than the prescribed forms shall be used except with the approval of the Treasurer.
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 54  Record of unclaimed interest 
-**
+##### <a id="56"></a>56  Powers of attorney
 
- <dl compact="">
+             (1)  Any person may, by power of attorney under his hand and seal and attested, appoint some person to be his attorney for any purpose in relation to stock.
 
-<dt>(1)</dt><dd>Each Registrar is to keep a record of the persons:
+             (2)  Every power of attorney in relation to stock, or a certified copy of such a power, shall be deposited, or produced to the Registrar, at the Registry where the stock to which the power of attorney relates is inscribed.
 
-</dd> </dl>
+             (3)  A power of attorney has effect for all purposes mentioned in the power of attorney until notice of its revocation or of:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  the bankruptcy;
 
-<dt>(a)</dt><dd>whose names are entered in a Stock Ledger as the owners of legal interests
+                     (b)  the death; or
 
-in stock; and</dd>
+                     (c)  where, apart from this subsection, the power of attorney would cease so to have effect because of the mental incapacity of the principal—the mental incapacity;
 
-<dt>(b)</dt><dd>in respect of whose stock a claim for interest has not been made for at
+of the principal has been received by the Registrar at the Registry where the power of attorney was deposited or produced.
 
-least 10 years.
+##### <a id="57B"></a>57B  Application of certain provisions of Treasury Bills Act to stamps
 
-</dd>
+                   The provisions of sections 13, 13A, 13B and 14 of the _Treasury Bills Act 1914_ shall apply in relation to War Savings Stamps, Savings Stamps and National Savings Stamps in the like manner as they apply in relation to Treasury Bills.
 
-</dl></dl></dl>
+##### <a id="58"></a>58  Regulations
 
-<dl compact="">
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing the fees payable under this Act and all matters and forms required or necessary or convenient to be prescribed for carrying out or for giving effect to this Act or for the conduct of any business at or in connexion with any Registry.
 
-<dt>(2)</dt><dd>The record may be kept by electronic means.</dd> <dt>(3)</dt><dd>The record must include such particulars of the address, and occupation or description, of each person as are entered in the relevant Stock Ledger.</dd> <dt>(4)</dt><dd>A Registrar must, on payment of the prescribed fee, make the record available for inspection by any person. </dd> </dl>
+# Notes to the _Commonwealth Inscribed Stock Act 1911_
 
-**
+### Note 1
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 55  Forms 
-**
+The _Commonwealth Inscribed Stock Act 1911_ as shown in this compilation comprises Act No. 20, 1911 amended as indicated in the Tables below. 
 
- <dl compact="">
+All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
-<dt>(1)</dt><dd>Each Registrar shall keep the prescribed forms.</dd> <dt>(2)</dt><dd>No forms other than the prescribed forms shall be used except with the approval of the Treasurer. </dd> </dl>
+### Table of Acts
 
-**
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
 
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 56  Powers of attorney 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Any person may, by power of attorney under his hand and seal and attested,
-
-appoint some person to be his attorney for any purpose in relation to stock.</dd> <dt>(2)</dt><dd>Every power of attorney in relation to stock, or a certified copy of such a power, shall be deposited, or produced to the Registrar, at the Registry where the stock to which the power of attorney relates is inscribed.</dd> <dt>(3)</dt><dd>A power of attorney has effect for all purposes mentioned in the power of attorney until notice of its revocation or of: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the bankruptcy;</dd>
-
-<dt>(b)</dt><dd>the death; or</dd>
-
-<dt>(c)</dt><dd>where, apart from this subsection, the power of attorney would cease so to
-
-have effect because of the mental incapacity of the principal&#151;the mental
-
-incapacity;
-
-</dd>
-
-</dl></dl></dl>
-
-of the principal has been received by the Registrar at the Registry where the power of attorney was deposited or produced. 
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 57B  Application of certain provisions of Treasury Bills Act to stamps 
-**
-
-<dl compact="">
-
-		The provisions of sections&#160;13, 13A, 13B and 14 of the _Treasury Bills Act 1914_ shall apply in relation to War Savings Stamps, Savings Stamps and
-
-National Savings Stamps in the like manner as they apply in relation to
-
-Treasury Bills.
-
- </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911- SECT 58  Regulations 
-**
-
- <dl compact="">
-
-		The Governor-General may make regulations, not inconsistent with this Act,
-
-prescribing the fees payable under this Act and all matters and forms required
-
-or necessary or convenient to be prescribed for carrying out or for giving
-
-effect to this Act or for the conduct of any business at or in connexion with
-
-any Registry.
-
- </dl>
-
-<center>**
-
-###  COMMONWEALTH INSCRIBED STOCK ACT 1911<centreit>Notes to the _Commonwealth Inscribed Stock Act 1911_ </centreit>
-**</center>
-
-**Note 1**
-
-The _Commonwealth Inscribed Stock Act 1911_ as shown in this compilation comprises Act No.&#160;20, 1911 amended as indicated in the Tables below. 
- All relevant information pertaining to application, saving or transitional provisions prior to 24&#160;November 2000 is not included in this compilation. For subsequent information _see_ Table A.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Act</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Number 
 and year</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date 
 of Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date of commencement</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Application, saving or transitional provisions</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1911</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1911</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>20, 1911</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>22 Dec 1911</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>22 Dec 1911</div>
-
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1912</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1912</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>40, 1912</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Dec 1912</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Dec 1912</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1913</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1913</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16, 1913</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>19 Dec 1913</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>19 Dec 1913</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1915</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1915</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>26, 1915</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 Aug 1915</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 Aug 1915</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Loans Sinking Fund Act 1918</i></div>
-
+<tr>
+  <td>
+    <div>Loans Sinking Fund Act 1918</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>6, 1918</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>28&#160;May 1918</div>
-
+  <td>
+    <div>28 May 1918</div>
   </td>
-  <td colspan="1" align="left">
-    <div>1&#160;July 1916</div>
-
+  <td>
+    <div>1 July 1916</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1918</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1918</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>7, 1918</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>28&#160;May 1918</div>
-
+  <td>
+    <div>28 May 1918</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 5 and 6: 1 Jan 1918 
-Remainder: 28&#160;May 1918</div>
-
+Remainder: 28 May 1918</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1927</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1927</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>2, 1927</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>8 Apr 1927</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>8 Apr 1927</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1932</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1932</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>25, 1932</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>30&#160;May 1932</div>
-
+  <td>
+    <div>30 May 1932</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>12 Sept 1931</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 6</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1933</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1933</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>5, 1933</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>30&#160;May 1933</div>
-
+  <td>
+    <div>30 May 1933</div>
   </td>
-  <td colspan="1" align="left">
-    <div>30&#160;May 1933</div>
-
+  <td>
+    <div>30 May 1933</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1940</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1940</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>25, 1940</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>1&#160;June 1940</div>
-
+  <td>
+    <div>1 June 1940</div>
   </td>
-  <td colspan="1" align="left">
-    <div>29&#160;June 1940</div>
-
+  <td>
+    <div>29 June 1940</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1943</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1943</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>58, 1943</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>22 Oct 1943</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>22 Oct 1943</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1945</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1945</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>26, 1945</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 Aug 1945</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>13 Sept 1945</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1946</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1946</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>21, 1946</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>1 Aug 1946</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>29 Aug 1946</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Act 1963</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Act 1963</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>18, 1963</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>28&#160;May 1963</div>
-
+  <td>
+    <div>28 May 1963</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>5 Feb 1964 ( <i>see Gazette</i>1964, p. 536)</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law Revision (Decimal Currency) Act 1966</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>93, 1966</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>29 Oct 1966</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>1 Dec 1966</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law Revision Act 1973</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1973</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>216, 1973</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>19 Dec 1973</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>31 Dec 1973</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 9(1) and 10</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Income Tax (Arrangements with the States) Act 1978</i></div>
-
+<tr>
+  <td>
+    <div>Income Tax (Arrangements with the States) Act 1978</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>87, 1978</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>22&#160;June 1978</div>
-
+  <td>
+    <div>22 June 1978</div>
   </td>
-  <td colspan="1" align="left">
-    <div>22&#160;June 1978</div>
-
+  <td>
+    <div>22 June 1978</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</i></div>
-
+<tr>
+  <td>
+    <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>19, 1979</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>28 Mar 1979</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Parts II-XVII (ss. 3-123): 15&#160;May 1979 ( <i>see Gazette</i>1979, No. S86) 
+  <td>
+    <div>Parts II-XVII (ss. 3-123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
 Remainder: Royal Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 124</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Amendment Act 1979</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock Amendment Act 1979</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>95, 1979</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>28 Sept 1979</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>28 Sept 1979</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 5(2)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Crimes (Currency) Act 1981</i></div>
-
+<tr>
+  <td>
+    <div>Crimes (Currency) Act 1981</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>122, 1981</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>17 Sept 1981</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 1-3: Royal Assent 
 Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>as amended by</b></div>
-
+<tr>
+  <td>
+    <div>as amended by</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law (Miscellaneous Provisions) Act (No.&#160;2) 1985</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>193, 1985</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 Dec 1985</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3: 16 Dec 1985 <i>(a)</i></div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 16</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law (Miscellaneous Provisions) Act (No.&#160;1) 1984</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>72, 1984</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>25&#160;June 1984</div>
-
+  <td>
+    <div>25 June 1984</div>
   </td>
-  <td colspan="1" align="left">
-    <div>S. 3: 2&#160;June 1984 ( <i>see Gazette</i>1984, No. S245) <i>(b)</i></div>
-
+  <td>
+    <div>S. 3: 2 June 1984 ( <i>see Gazette</i>1984, No. S245) <i>(b)</i></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 5(1)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law (Miscellaneous Provisions) Act (No.&#160;1) 1986</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>76, 1986</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>24&#160;June 1986</div>
-
+  <td>
+    <div>24 June 1986</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3: Royal Assent <i>(c)</i></div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 9</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law (Miscellaneous Provisions) Act 1988</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act 1988</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>38, 1988</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>3&#160;June 1988</div>
-
+  <td>
+    <div>3 June 1988</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3: Royal Assent <i>(d)</i></div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 5(1)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Taxation Laws Amendment Act (No.&#160;3) 1989</i></div>
-
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 3) 1989</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>107, 1989</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>30&#160;June 1989</div>
-
+  <td>
+    <div>30 June 1989</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Part&#160;6 (ss. 29 and 30): 24 Nov 1988 ( <i>see</i>s. 2(2)) 
+  <td>
+    <div>Part 6 (ss. 29 and 30): 24 Nov 1988 ( <i>see</i>s. 2(2)) 
 Remainder: Royal Assent</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i></div>
-
+<tr>
+  <td>
+    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>152, 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Oct 1997</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;1 (items&#160;633 and 634): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(e)</i></div>
-
+  <td>
+    <div>Schedule 1 (items 633 and 634): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(e)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Financial Sector Reform (Consequential Amendments) Act 1998</i></div>
-
+<tr>
+  <td>
+    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>48, 1998</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>29 Jun 1998</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;1 (item&#160;36): 1&#160;July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(f)</i></div>
-
+  <td>
+    <div>Schedule 1 (item 36): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(f)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Financial Sector Reform (Amendments and Transitional Provisions) Act (No.&#160;1) 1999</i></div>
-
+<tr>
+  <td>
+    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>44, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>17&#160;June 1999</div>
-
+  <td>
+    <div>17 June 1999</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;7 (items&#160;19-21): <i>(g)</i></div>
-
+  <td>
+    <div>Schedule 7 (items 19-21): <i>(g)</i></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>as amended by</b></div>
-
+<tr>
+  <td>
+    <div>as amended by</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Financial Sector Legislation Amendment Act (No. 1) 2000</i></div>
-
+<tr>
+  <td>
+    <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>160, 2000</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>21 Dec 2000</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 1 (item 21): Royal Assent 
 Remainder: 18 Jan 2001</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Stocktake Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Statute Stocktake Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>118, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>22 Sept 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>22 Sept 1999</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>146, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>11 Nov 1999</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;1 (items&#160;320, 321): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
-
+  <td>
+    <div>Schedule 1 (items 320, 321): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</i></div>
-
+<tr>
+  <td>
+    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>137, 2000</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Nov 2000</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
-Remainder: 24&#160;May 2001</div>
-
+Remainder: 24 May 2001</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Commonwealth Inscribed Stock Amendment Act 2002</i></div>
-
+<tr>
+  <td>
+    <div>Commonwealth Inscribed Stock AmendmentAct 2002</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>21, 2002</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>4 Apr 2002</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule 1: 4 Oct 2002 
+  <td>
+    <div>Schedule 1: \[ <i>see (i)</i>and Note 2] 
 Remainder: Royal Assent</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
-</tr></table>_(a)_ 
-<center>Back to Top</center>
- The _Crimes Currency Act 1981_ was amended by section&#160;3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (7) of which provide as follows:
+</tr></table>
 
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
- 	(7)	The amendments of the _Crimes (Currency) Act 1981_ made by this Act (other than the amendment of section&#160;2 of that Act) shall come into operation immediately after the amendment of section&#160;2 of that Act made by this Act comes into operation.
+_(a)_     The _Crimes Currency Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (7) of which provide as follows:
 
-_(b)_	The _Commonwealth Inscribed Stock Act 1911_ was amended by section&#160;3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(5) of which provides as follows:
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-	(5)	The amendments of the _Commonwealth Inscribed Stock Act 1911_ made by this Act shall come into operation on a day to be fixed by Proclamation.
+                 (7)   The amendments of the _Crimes (Currency) Act 1981_ made by this Act (other than the amendment of section 2 of that Act) shall come into operation immediately after the amendment of section 2 of that Act made by this Act comes into operation.
 
-_(c)_	The _Commonwealth Inscribed Stock Act 1911_ was amended by section&#160;3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+_(b)_    The _Commonwealth Inscribed Stock Act 1911_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(5) of which provides as follows:
 
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 (5)   The amendments of the _Commonwealth Inscribed Stock Act 1911_ made by this Act shall come into operation on a day to be fixed by Proclamation.
 
-_(d)_	The _Commonwealth Inscribed Stock Act 1911_ was amended by section&#160;3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(1) of which provides as follows:
+_(c)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(e)_	The _Commonwealth Inscribed Stock Act 1911_ was amended by Schedule&#160;2 (items&#160;633 and 634) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(d)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(1) of which provides as follows:
 
-	(2)	Schedules&#160;1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(f)_ The _Commonwealth Inscribed Stock Act 1911_ was amended by Schedule&#160;1 (item&#160;36) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
+_(e)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by Schedule 2 (items 633 and 634) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-	(2)	Subject to subsections&#160;(3) to (14), Schedules&#160;1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(g)_ The _Commonwealth Inscribed Stock Act 1911_ was amended by Schedule&#160;7 (items&#160;19-21) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(2) and (16) of which provide as follows:
+_(f)_ The _Commonwealth Inscribed Stock Act 1911_ was amended by Schedule 1 (item 36) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
 
-	(2)	The following provisions commence on the transfer date:
+                 (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
-<dl compact=""><dl compact=""><dl compact="">
+_(g)_ The _Commonwealth Inscribed Stock Act 1911_ was amended by Schedule 7 (items 19-21) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(2) and (16) of which provide as follows:
 
-<dt>(e)</dt><dd>subject to subsection&#160;(12), Schedule 7, other than items 43, 44, 118,
+                 (2)   The following provisions commence on the transfer date:
 
-205 and 207 (the commencement of those items is covered by subsections (10),
+                      (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-<dt>(11)</dt><dd>and (13)).
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
 
-</dd></dd>
+         The transfer date was 1 July 1999 (_see Gazette_ 1999, No. S283).
 
-</dl></dl></dl>
+_(h)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by Schedule 1 (items 320 and 321) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-	(16)	The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-	The transfer date was 1&#160;July 1999 (_see Gazette_ 1999, No. S283).
- _(h)_	The _Commonwealth Inscribed Stock Act 1911_ was amended by Schedule&#160;1 (items&#160;320 and 321) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+                 (2)   Subject to this section, this Act commences at the commencing time.
 
-	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
- 	(2)	Subject to this section, this Act commences at the commencing time.
+_(i)_      The _Commonwealth Inscribed Stock Act 1911_ was amended by the _Commonwealth Inscribed Stock Amendment__Act 2002_, subsections 2(1) (provision 2) and (3) of which provide as follows:
 
-**Table of Amendments**
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      A single day to be fixed by Proclamation, subject to subsection (3) \[
+        <i>see</i>Note 2]
+    </div>
+  </td>
+  <td>
+    <div>
+
+    </div>
+  </td>
+</tr></table>
+
+                 (3)   If a provision covered by item 2 of the table does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. [_see_ Note 2]
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<tr>
+  <td colspan="2">
     <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Provision affected</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>How affected</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Title</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;25, 1932</div>
-
+  <td>
+    <div>am. No. 25, 1932</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Part I</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 2</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. Nos. 6 and 7, 1918; No.&#160;26, 1945</div>
-
+  <td>
+    <div>am. Nos. 6 and 7, 1918; No. 26, 1945</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;18, 1963</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;216, 1973</div>
-
+  <td>
+    <div>rs. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 3</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;25, 1932; No.&#160;26, 1945; No.&#160;72, 1984; No.&#160;38, 1988; No. 21, 2002</div>
-
+  <td>
+    <div>am. No. 25, 1932; No. 26, 1945; No. 72, 1984; No. 38, 1988</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Part II</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 4</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;25, 1932; No.&#160;26, 1945; No.&#160;95, 1979; No.&#160;72, 1984; No. 21, 2002</div>
-
+  <td>
+    <div>am. No. 25, 1932; No. 26, 1945; No. 95, 1979; No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 5</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;26, 1915</div>
-
+  <td>
+    <div>am. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;18, 1963</div>
-
+  <td>
+    <div>rep. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 6</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;18, 1963</div>
-
+  <td>
+    <div>am. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 7</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 7</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;18, 1963</div>
-
+  <td>
+    <div>am. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;95, 1979</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 21, 2002</div>
-
+  <td>
+    <div>rs. No. 95, 1979</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 8</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;5, 1933</div>
-
+  <td>
+    <div>rs. No. 5, 1933</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;18, 1963</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;95, 1979</div>
-
+  <td>
+    <div>am. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 95, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Ss. 9, 10</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;95, 1979</div>
-
+  <td>
+    <div>rep. No. 95, 1979</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 11</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;18, 1963</div>
-
+  <td>
+    <div>am. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 12</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Part III</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Division 1</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 14</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;38, 1988; No. 21, 2002</div>
-
+  <td>
+    <div>am. No. 38, 1988</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Division 2</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 15</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 16</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;72, 1984</div>
-
+  <td>
+    <div>am. No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 17, 18</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 19</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;72, 1984</div>
-
+  <td>
+    <div>rs. No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 20A</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;7, 1918</div>
-
+  <td>
+    <div>ad. No. 7, 1918</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;26, 1945</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 20</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 21, 2002</div>
-
+  <td>
+    <div>rep. No. 26, 1945</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 21</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;216, 1973; No.&#160;19, 1979; No.&#160;72, 1984</div>
-
+  <td>
+    <div>am. No. 216, 1973; No. 19, 1979; No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 21A</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;38, 1988</div>
-
+  <td>
+    <div>ad. No. 38, 1988</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 22A</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;2, 1927</div>
-
+  <td>
+    <div>ad. No. 2, 1927</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;216, 1973; No.&#160;72, 1984; No.&#160;44, 1999</div>
-
+  <td>
+    <div>am. No. 216, 1973; No. 72, 1984; No. 44, 1999</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 22B</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;72, 1984</div>
-
+  <td>
+    <div>ad. No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Division 3</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 24</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;5, 1933</div>
-
+  <td>
+    <div>am. No. 5, 1933</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;18, 1963</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;72, 1984; No. 21, 2002</div>
-
+  <td>
+    <div>rs. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 24A-24C</div>
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 21, 2002</div>
-
+  <td>
+    <div>am. No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 25, 26</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;5, 1933</div>
-
+  <td>
+    <div>am. No. 5, 1933</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;18, 1963</div>
-
+  <td>
+    <div>rep. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 27</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;26, 1945</div>
-
+  <td>
+    <div>rs. No. 26, 1945</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;18, 1963; No.&#160;72, 1984</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 28</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 21, 2002</div>
-
+  <td>
+    <div>am. No. 18, 1963; No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 29</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;2, 1927; No.&#160;26, 1945; No.&#160;18, 1963; No.&#160;216, 1973; No.&#160;72, 1984; No. 21, 2002</div>
-
+  <td>
+    <div>am. No. 2, 1927; No. 26, 1945; No. 18, 1963; No. 216, 1973; No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 30</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 31</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;18, 1963</div>
-
+  <td>
+    <div>rep. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 32</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;26, 1915</div>
-
+  <td>
+    <div>rs. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;18, 1963</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Div. 4 of Part&#160;III</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;26, 1945</div>
-
+  <td>
+    <div>rep. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div>Div. 4 of Part III 
+(ss. 33-42)</div>
+  </td>
+  <td>
+    <div>rep. No. 26, 1945</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Ss. 33-42</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;26, 1945</div>
-
+  <td>
+    <div>rep. No. 26, 1945</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Division 5</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 43</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;216, 1973; No.&#160;19, 1979</div>
-
+  <td>
+    <div>am. No. 216, 1973; No. 19, 1979</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 44</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 44A</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;16, 1913</div>
-
+  <td>
+    <div>ad. No. 16, 1913</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;216, 1973</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part&#160;IV</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;6, 1918</div>
-
+  <td>
+    <div>rep. No. 216, 1973</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div>Part IV 
+(ss. 45-47)</div>
+  </td>
+  <td>
+    <div>rep. No. 6, 1918</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 45</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;40, 1912</div>
-
+  <td>
+    <div>am. No. 40, 1912</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;6, 1918</div>
-
+  <td>
+    <div>rep. No. 6, 1918</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 46, 47</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;6, 1918</div>
-
+  <td>
+    <div>rep. No. 6, 1918</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 48</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;26, 1945; No.&#160;122, 1981; No.&#160;72, 1984; No.&#160;38, 1988</div>
-
+  <td>
+    <div>am. No. 26, 1945; No. 122, 1981; No. 72, 1984; No. 38, 1988</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 137, 2000</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Part V</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 49</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;72, 1984; No. 21, 2002</div>
-
+  <td>
+    <div>am. No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 50</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;26, 1945; No.&#160;72, 1984</div>
-
+  <td>
+    <div>am. No. 26, 1945; No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 51</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;216, 1973; No.&#160;122, 1981</div>
-
+  <td>
+    <div>am. No. 216, 1973; No. 122, 1981</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Part VA</b></div>
-
+<tr>
+  <td>
+    <div>Part VA 
+(ss. 51A-51E)</div>
   </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part&#160;VA</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;26, 1915</div>
-
+  <td>
+    <div>ad. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 51A</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;26, 1915</div>
-
+  <td>
+    <div>ad. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;25, 1932; No.&#160;26, 1945; No.&#160;95, 1979; No.&#160;72, 1984</div>
-
+  <td>
+    <div>am. No. 25, 1932; No. 26, 1945; No. 95, 1979; No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 51B</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;26, 1915</div>
-
+  <td>
+    <div>ad. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;25, 1932</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;95, 1979</div>
-
+  <td>
+    <div>am. No. 25, 1932</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 95, 1979</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 51BA</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;25, 1940</div>
-
+  <td>
+    <div>ad. No. 25, 1940</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;93, 1966; No.&#160;72, 1984</div>
-
+  <td>
+    <div>am. No. 93, 1966; No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 51C</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;26, 1915</div>
-
+  <td>
+    <div>ad. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;25, 1932; No.&#160;72, 1984</div>
-
+  <td>
+    <div>am. No. 25, 1932; No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 51D</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;26, 1915</div>
-
+  <td>
+    <div>ad. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;25, 1932</div>
-
+  <td>
+    <div>rep. No. 25, 1932</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 51E</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;26, 1915</div>
-
+  <td>
+    <div>ad. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;18, 1963</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;72, 1984</div>
-
+  <td>
+    <div>rs. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 72, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 51F</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;7, 1918</div>
-
+  <td>
+    <div>ad. No. 7, 1918</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;72, 1984</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;152, 1997</div>
-
+  <td>
+    <div>am. No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 51G</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;7, 1918</div>
-
+  <td>
+    <div>ad. No. 7, 1918</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Part VB</b></div>
-
+<tr>
+  <td>
+    <div>Part VB 
+(ss. 51H, 51J)</div>
   </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part&#160;VB</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;95, 1979</div>
-
+  <td>
+    <div>ad. No. 95, 1979</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 51H</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;95, 1979</div>
-
+  <td>
+    <div>ad. No. 95, 1979</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;146, 1999; No. 21, 2002</div>
-
+  <td>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 51J</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;95, 1979</div>
-
+  <td>
+    <div>ad. No. 95, 1979</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 51K</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;76, 1986</div>
-
+  <td>
+    <div>ad. No. 76, 1986</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;38, 1988; No.&#160;146, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>Part VI</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div>am. No. 38, 1988; No. 146, 1999</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 52A</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;26, 1915</div>
-
+  <td>
+    <div>ad. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;7, 1918</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;2, 1927</div>
-
+  <td>
+    <div>am. No. 7, 1918</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;25, 1932</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;26, 1945</div>
-
+  <td>
+    <div>rs. No. 2, 1927</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;216, 1973 ; No.&#160;48, 1998; No. 21, 2002</div>
-
+  <td>
+    <div>am. No. 25, 1932</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 26, 1945</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973 ; No. 48, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 52B</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;26, 1915</div>
-
+  <td>
+    <div>ad. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;7, 1918; No.&#160;25, 1932; No.&#160;25, 1940; No.&#160;21, 1946; No.&#160;87, 1978; No.&#160;72, 1984; No.&#160;107, 1989</div>
-
+  <td>
+    <div>am. No. 7, 1918; No. 25, 1932; No. 25, 1940; No. 21, 1946; No. 87, 1978; No. 72, 1984; No. 107, 1989</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 52C</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;26, 1915</div>
-
+  <td>
+    <div>ad. No. 26, 1915</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;18, 1963</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;72, 1984</div>
-
+  <td>
+    <div>rs. No. 18, 1963</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;118, 1999</div>
-
+  <td>
+    <div>am. No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 118, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 53</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;216, 1973</div>
-
+  <td>
+    <div>am. No. 216, 1973</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;95, 1979</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;152, 1997</div>
-
+  <td>
+    <div>rs. No. 95, 1979</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 54</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;72, 1984</div>
-
+  <td>
+    <div>am. No. 72, 1984</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 21, 2002</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 56</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;26, 1945; No.&#160;216, 1973; No.&#160;76, 1986; No.&#160;38, 1988</div>
-
+  <td>
+    <div>am. No. 26, 1945; No. 216, 1973; No. 76, 1986; No. 38, 1988</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 57</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;2, 1927</div>
-
+  <td>
+    <div>rep. No. 2, 1927</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;58, 1943</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;21, 1946</div>
-
+  <td>
+    <div>ad. No. 58, 1943</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;216, 1973</div>
-
+  <td>
+    <div>am. No. 21, 1946</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Ss. 57AA, 57AB</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;21, 1946</div>
-
+  <td>
+    <div>ad. No. 21, 1946</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;216, 1973</div>
-
+  <td>
+    <div>rep. No. 216, 1973</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 57A</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;58, 1943</div>
-
+  <td>
+    <div>ad. No. 58, 1943</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;26, 1945</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;216, 1973</div>
-
+  <td>
+    <div>am. No. 26, 1945</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 57B</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;58, 1943</div>
-
+  <td>
+    <div>ad. No. 58, 1943</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;21, 1946; No.&#160;72, 1984</div>
-
+  <td>
+    <div>am. No. 21, 1946; No. 72, 1984</div>
   </td>
-</tr></table>  <center>**
+</tr></table>
 
-###  Table A 
-**</center> **Table A**
+### Note 2
 
-**Application, saving or transitional provisions**
+_Commonwealth Inscribed Stock Amendment Act 2002 (No. 21, 2002)_
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_ (No. 137, 2000)
+The following amendments commence on 4 October 2002 unless proclaimed earlier:
 
-**Schedule 2** **418  Transitional&#151;pre-commencement offences** (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+## Schedule 1
 
-<dl compact=""><dl compact=""><dl compact="">
+## 1  Section 3 (definition of _certified copy_)
 
-<dt>(a)</dt><dd>an offence committed before the commencement of this item; or</dd>
+Repeal the definition, substitute:
 
-<dt>(b)</dt><dd>proceedings for an offence alleged to have been committed before the
+                    <a name="certifi-copi"></a>**_certified copy_** of an entry in a Stock Ledger, of an extract of an entry in a Stock Ledger or of a document means a copy of the entry, extract or document that is certified by a prescribed person to be a true copy.
 
-commencement of this item; or</dd>
+## 2  Section 3
 
-<dt>(c)</dt><dd>any matter connected with, or arising out of, such proceedings;
+Insert:
 
-</dd>
+                    <a name="clear-settlem-facil"></a>**_clearing and settlement facility_** means a facility that is a clearing and settlement facility for the purposes of Chapter 7 of the _Corporations Act 2001_.
 
-</dl></dl></dl>
+## 3  Section 3 (definition of _Registrar_)
+
+Repeal the definition, substitute:
+
+                    <a name="registrar"></a>**_Registrar_** means a Registrar of Stock or a Deputy Registrar of Stock.
+
+## 4  Section 3 (definition of _stock_)
+
+Repeal the definition, substitute:
+
+                    <a name="stock"></a>**_stock_** means:
+
+                     (a)  stock, Treasury Bonds, Treasury Notes or other prescribed securities created under subsection 4(1); and
+
+                     (b)  stock (however described) created under subsection 4(1) as in force at any time before the commencement of Schedule 1 to the _Commonwealth Inscribed Stock Amendment Act 2002_; and
+
+                     (c)  Treasury Bonds, debentures or other prescribed securities made out under subsection 51A(1) at any time before the commencement of subsection 51A(3).
+
+## 5  Section 3 (definition of _Treasury Bond_)
+
+Repeal the definition, substitute:
+
+                    <a name="treasuri-bond"></a>**_Treasury Bond_** includes a Treasury Fixed Coupon Bond, a Treasury Indexed Bond and an Australian Consolidated Treasury Bond and any coupon issued in connection with a Treasury Bond.
+
+## 6  At the end of section 3
+
+Add:
+
+             (2)  For the purposes of the application of this Act at a time before the commencement of Schedule 1 to the _Financial Services Reform Act 2001_:
+
+                     (a)  a reference in this Act to the operator of a clearing and settlement facility is taken to be a reference to:
+
+                              (i)  a clearing house as defined by section 9 of the _Corporations Act 2001_; or
+
+                             (ii)  the body corporate in relation to which an approval as a clearing house is in force under section 779B of that Act; and
+
+                     (b)  a reference in this Act to the operating rules of a clearing and settlement facility is taken to be a reference to the business rules of a clearing house referred to in paragraph (a).
+
+## 7  Subsection 4(1)
+
+Repeal the subsection, substitute:
+
+             (1)  The Governor-General may, by writing signed by him or her, create stock, Treasury Bonds, Treasury Notes or other prescribed securities from time to time for:
+
+                     (a)  raising money by way of loan; or
+
+                     (b)  converting any loan raised by the Commonwealth into any other loan so raised; or
+
+                     (c)  paying any expenses of carrying this Act into effect that the Governor-General considers are properly payable out of capital.
+
+## 8  At the end of section 7
+
+Add:
+
+             (2)  Stock may be issued by electronic means.
+
+             (3)  Stock may be issued to a person on trust for other persons.
+
+             (4)  To avoid doubt, a person to whom stock may be issued under subsection (3) may be a person who is a Registrar.
+
+             (5)  The Treasurer may, on behalf of the Commonwealth, enter into such contracts or arrangements, or execute such deeds of trust or other instruments as the Treasurer considers to be necessary or convenient for the purposes of, or in connection with, the issue of stock as provided by subsection (3).
+
+_Note:       The heading to section 7 is replaced by the heading “Issue of stock”._
+
+## 9  Section 12
+
+Repeal the section.
+
+## 10  Paragraph 14(b)
+
+Repeal the paragraph.
+
+## 11  Paragraph 14(c)
+
+After “he”, insert “or she”.
+
+## 12  At the end of section 14
+
+Add:
+
+             (2)  Any person may be appointed as a Registrar.
+
+             (3)  To avoid doubt, a person that is:
+
+                     (a)  the operator of a clearing and settlement facility; or
+
+                     (b)  an incorporated company or other body corporate;
+
+may be appointed as a Registrar.
+
+             (4)  A person who holds office as a Registrar must, in the performance of the functions, or the exercise of the powers, of the holder of the office, comply with any relevant requirements:
+
+                     (a)  contained in the instrument appointing the person to the office; or
+
+                     (b)  contained in any contract or arrangement made, or in any deed of trust or other instrument executed, in connection with the appointment; or
+
+                     (c)  made by the regulations.
+
+## 13  Section 15
+
+After “owner of the”, insert “legal interest in the”.
+
+## 14  At the end of section 15
+
+Add:
+
+             (2)  A Stock Ledger may be kept in an electronic form.
+
+## 15  Sections 17 and 18
+
+Repeal the sections, substitute:
+
+##### <a id="17"></a>17  Stock certificates
+
+             (1)  The Registrar must, when requested by a person who is the owner of the legal interest in any stock, issue to the person a certificate stating that the person is the owner of the stock.
+
+             (2)  A certificate issued under subsection (1) is prima facie evidence that the person specified in the certificate is the owner of the legal interest in the stock so specified.
+
+             (3)  The person who is the owner of the legal interest in any stock may dispose of the interest even though a certificate has not been issued to the person under subsection (1).
+
+##### <a id="18"></a>18  Owner of legal interest in stock
+
+                   The person whose name is inscribed in a Stock Ledger as the owner of the stock:
+
+                     (a)  is the owner of the legal interest in the stock; and
+
+                     (b)  has power to transfer the interest as provided by this Act and to give effectual receipts for any money paid to the person by way of consideration.
+
+## 16  Section 19
+
+Omit “his” (wherever occurring), substitute “the”.
+
+## 17  Subsection 19(2)
+
+After “Registrar”, insert “in the capacity as Registrar”.
+
+## 18  Sections 20 and 21
+
+Repeal the sections, substitute:
+
+##### <a id="20"></a>20  Preservation of equitable interests
+
+                   Without prejudice to the provisions of this Act relating to the transfer of the legal interests in stock and notice of trusts, it is the intention of this Act that equitable interests may be enforced against the owners of legal interests in stock in the same way as equitable interests may be enforced against the owners of legal interests in other personal property.
+
+##### <a id="21"></a>21  Stock may not be inscribed in the names of persons under 16 years of age
+
+             (1)  After the commencement of this section, an inscription of stock may not be made in the name of a person who is, or in the joint names of persons any one or more of whom is, under the age of 16 years.
+
+             (2)  However, any stock inscribed at the commencement of this section in the joint names of a person who is under the age of 16 years and one or more other persons may continue to be so inscribed but must not, without the order of a Judge of the Supreme Court of a State or Territory, be transferred until the person reaches that age or dies.
+
+## 19  Subsection 24(1)
+
+Repeal the subsection, substitute:
+
+             (1)  The regulations may make provision for or in relation to the transfer of legal or equitable interests in stock from one person to another person.
+
+          (1A)  The provision that may be made by the regulations under subsection (1) may include either or both of the following:
+
+                     (a)  a provision for transfer of interests by electronic means;
+
+                     (b)  a provision applying a provision of the _Corporations Act 2001_ with or without modifications.
+
+## 20  After section 24
+
+Insert:
+
+##### <a id="24A"></a>24A  Transfer of certain interests in stock
+
+             (1)  The legal interest, and any equitable interests, in any stock may be transferred from one person to another:
+
+                     (a)  in accordance with regulations made for the purposes of subsection 24(1); or
+
+                     (b)  subject to subsection (2), if the stock is inscribed in a Stock Ledger at a Registry where the Registrar is the operator of a clearing and settlement facility—in any way permitted by the operating rules of the facility (which may, if the operating rules so provide, be a way authorised by the _Corporations Act 2001_).
+
+             (2)  The Treasurer may, by written notice given to the operator of a clearing and settlement facility, declare that particular operating rules of the facility are not to apply in respect of the transfer of legal or equitable interests in stock.
+
+##### <a id="24B"></a>24B  Record of equitable interests
+
+                   The regulations may require a Registrar that is the operator of a clearing and settlement facility or is an incorporated company or other body corporate:
+
+                     (a)  to keep a record (which may be a record kept by electronic means) of the ownership of any equitable interests in the stock; and
+
+                     (b)  to comply with any provision made by the regulations in relation to the keeping of such a record.
+
+##### <a id="24C"></a>24C  Inscription in Stock Ledger of names of transferees of legal interests in stock
+
+             (1)  The regulations may make provision for or in relation to the inscription in a Stock Ledger of the name of the transferee of a legal interest in the stock as the owner of the stock.
+
+             (2)  The provision that may be made by regulations for the purposes of subsection (1) in relation to the legal interest in stock inscribed in a Stock Ledger that is kept in an electronic form must be provision for the inscription of the legal interest in an electronic form.
+
+## 21  Section 28
+
+Repeal the section, substitute:
+
+##### <a id="28"></a>28  Transmission application
+
+                   A person to whom the legal interest in stock is transmitted may apply to a Registrar to be inscribed as the owner of the stock in accordance with the regulations.
+
+## 22  Subsection 29(2)
+
+After “he”, insert “or she”.
+
+## 23  Section 30
+
+Repeal the section, substitute:
+
+##### <a id="30"></a>30  Registration of transmission of legal interest
+
+                   If the Registrar at a Registry where particular stock is inscribed is satisfied that the provisions of this Act relating to the transmission of the legal interest in that stock have been complied with, the Registrar must register the transmission by entering particulars of it in the relevant Stock Ledger and inscribe the name of the person to whom the legal interest has been transmitted in the Stock Ledger as the owner of the stock.
+
+## 24  Sections 43 and 44
+
+Repeal the sections, substitute:
+
+##### <a id="43"></a>43  Orders to be carried into effect
+
+                   If an order relating to the legal interest in any stock, or having the effect of vesting the legal interest in any stock in a person, made by the Supreme Court of a State or Territory or a Judge of such a Court is served on the Registrar at the Registry where the stock is inscribed, the Registrar must make any entries in the relevant Stock Ledger that are necessary for the purpose of carrying the order into effect.
+
+##### <a id="44"></a>44  Evidence
+
+             (1)  In any proceeding, a certified copy of:
+
+                     (a)  an entry in a Stock Ledger; or
+
+                     (b)  an extract from an entry in a Stock Ledger; or
+
+                     (c)  a document in the custody of a Registrar that relates to stock;
+
+is admissible in evidence.
+
+             (2)  A document purporting to be a certified copy referred to in subsection (1) is to be taken, unless the contrary is established, to be such a certified copy and to have been duly given.
+
+## 25  Section 49
+
+After “entitled to”, insert “the legal interest in”.
+
+## 26  Subsection 51H(1)
+
+Omit “under his hand”, substitute “signed by the Governor-General”.
+
+## 27  Subsection 51H(1)
+
+After “sections”, insert “4,”.
+
+## 28  Subsection 51H(2)
+
+Omit “under his hand”, substitute “signed by the Treasurer”.
+
+## 29  Paragraph 51H(3)(a)
+
+Omit “him”, substitute “the Treasurer”.
+
+## 30  Subsection 52A(1)
+
+After “Treasury Bonds,” (wherever occurring), insert “Treasury Notes,”.
+
+## 31  After subsection 52A(1)
+
+Insert:
+
+          (1A)  Stamp duty or other tax under any law of the Commonwealth, law of a State or law of a Territory is not payable in respect of any inscription, transfer or transmission of any interest in stock that is effected by electronic means.
+
+## 32  Section 54
+
+Repeal the section, substitute:
+
+##### <a id="54"></a>54  Record of unclaimed interest
+
+             (1)  Each Registrar is to keep a record of the persons:
+
+                     (a)  whose names are entered in a Stock Ledger as the owners of legal interests in stock; and
+
+                     (b)  in respect of whose stock a claim for interest has not been made for at least 10 years.
+
+             (2)  The record may be kept by electronic means.
+
+             (3)  The record must include such particulars of the address, and occupation or description, of each person as are entered in the relevant Stock Ledger.
+
+             (4)  A Registrar must, on payment of the prescribed fee, make the record available for inspection by any person.
+
+As at 18 April 2002 the amendments are not incorporated in this compilation.
+
+Table A
+
+### Application, saving or transitional provisions
+
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+
+## Schedule 2
+
+## 418  Transitional—pre-commencement offences
+
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+
+                     (a)  an offence committed before the commencement of this item; or
+
+                     (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or
+
+                     (c)  any matter connected with, or arising out of, such proceedings;
 
 as if the amendment or repeal had not been made.
 
-(2)	Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-**419  Transitional&#151;pre-commencement notices**
+## 419  Transitional—pre-commencement notices
 
 If:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
 
-<dt>(a)</dt><dd>a provision in force immediately before the commencement of this item
+                     (b)  any or all of those other provisions are repealed by this Schedule; and
 
-required that a notice set out the effect of one or more other provisions;
-
-and</dd>
-
-<dt>(b)</dt><dd>any or all of those other provisions are repealed by this Schedule; and</dd>
-
-<dt>(c)</dt><dd>the first-mentioned provision is amended by this Schedule;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-</def>
-
-</def>
-
-</def>
-
-
+ 
