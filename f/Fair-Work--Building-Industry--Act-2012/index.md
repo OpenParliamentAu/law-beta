@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00309/Html/8cbc0d1b-93c7-4876-9ec8-55b078880cb5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00531/Html/b98b8f9d-c3a8-4102-b2a8-ae725211f671_files/image001.gif)
 
 # Building and Construction Industry Improvement Act 2005
 
 **Act No. 113 of 2005 as amended**
 
-This compilation was prepared on 16 March 2012
+This compilation was prepared on 14 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
@@ -720,17 +720,21 @@ In this subsection, **_association_** means an organisation or branch of an orga
 
              (2)  In this Act, a reference to an **_office_** in an organisation or industrial association includes a reference to an office in a branch of the organisation or association.
 
-##### <a id="7"></a>7  Extension to Christmas Island
+##### <a id="7"></a>7  Extension to Christmas Island
 
              (1)  This Act extends to the Territory of Christmas Island.
 
              (2)  This Act applies in relation to the Territory of Christmas Island with such modifications as are prescribed by the regulations.
 
+             (3)  In this section:
+
+                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
+
 ##### <a id="8"></a>8  Act to bind Crown
 
              (1)  This Act binds the Crown in each of its capacities.
 
-             (2)  Nothing in this Act renders the Commonwealth or a State or Territory liable to be prosecuted for an offence.
+             (2)  Nothing in this Act renders the Commonwealth or a State or Territory liable to be prosecuted for an offence. 
 
 # Chapter 2—Australian Building and Construction Commissioner
 
@@ -858,13 +862,21 @@ Note:          See also section 66, which restricts the disc
 
 ##### <a id="16"></a>16  Acting ABC Commissioner
 
-                   The Minister may appoint a person to act as the ABC Commissioner:
+             (1)  The Minister may appoint a person to act as the ABC Commissioner:
 
                      (a)  during a vacancy in the office of ABC Commissioner (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the ABC Commissioner is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="17"></a>17  Remuneration
 
@@ -1010,7 +1022,7 @@ Note:          See also section 71 of the _Public Service Ac
 
 # Chapter 3—The Building Code
 
-##### <a id="27"></a>27  Minister to issue Building Code
+##### <a id="27"></a>27  Minister to issue Building Code
 
              (1)  The Minister may issue one or more documents that together constitute a code of practice (the **_Building Code_**) that is to be complied with by persons in respect of building work.
 
@@ -1696,7 +1708,7 @@ Right to inspect and copy the original
 
 ##### <a id="56"></a>56  ABC Commissioner may make and keep copies of documents
 
-                   The ABC Commissioner may make and keep copies of all or part of any documents produced under section 52.
+                   The ABC Commissioner may make and keep copies of all or part of any documents produced under section 52\. 
 
 ### Division 2—Powers of ABC Inspectors
 
@@ -1810,7 +1822,7 @@ Note:          Grade A civil penalty.
 
                     <a name="copi"></a>**_copy_**, in relation to a document, includes take extracts from the document.
 
-Note:          The _Criminal Code_ contains offences for obstructing or hindering Commonwealth public officials.
+Note:          The _Criminal Code_ contains offences for obstructing or hindering Commonwealth public officials. 
 
 ### Division 3—Powers of Federal Safety Officers
 
@@ -2551,8 +2563,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 6, 6A, 
-8–19): 1 Mar 2007 ( <i>see</i>s. 2(1) and F2007L00412)</div>
+    <div>Schedule 2 (items 6, 6A, 8–19): 1 Mar 2007 ( <i>see</i>s. 2(1) and F2007L00412)</div>
   </td>
   <td>
     <div>—</div>
@@ -2569,7 +2580,7 @@ Remainder: Royal Assent</div>
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): 1 Oct 2007 ( <i>see</i>F2007L03846) 
+    <div>Schedule 1 (item 2): 1 Oct 2007 ( <i>see</i>F2007L03846) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2587,7 +2598,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
+    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2627,7 +2638,7 @@ Schedule 8 (items 2–84,
 155–158): <i>(a)</i></div>
   </td>
   <td>
-    <div>S. 4 and Sch. 8 (items 
+    <div>S. 4 and Sch. 8 (items 
 155–158)</div>
   </td>
 </tr>
@@ -2639,13 +2650,13 @@ Schedule 8 (items 2–84,
     <div>46, 2011</div>
   </td>
   <td>
-    <div>27 June 2011</div>
+    <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 314–317) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 314–317) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -2656,7 +2667,7 @@ Schedule 8 (items 2–84,
     <div>58, 2011</div>
   </td>
   <td>
-    <div>28 June 2011</div>
+    <div>28 June 2011</div>
   </td>
   <td>
     <div>Schedule 1 (items 26, 27): <i>(b)</i></div>
@@ -2771,7 +2782,7 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
 </tr></table>
 
-_(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
+_(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2821,7 +2832,7 @@ _(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>
-      1 July 2011
+      1 July 2011
     </div>
   </td>
 </tr></table>
@@ -2867,14 +2878,6 @@ _(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Chapter 2</b></div>
   </td>
   <td>
@@ -2903,22 +2906,6 @@ _(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3307,6 +3294,34 @@ of Chapt. 5</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 314  Subsection 7(3)
+
+Repeal the subsection.
+
+## 315  Subsection 16(1)
+
+Omit “(1)”.
+
+## 316  At the end of subsection 16(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 317  Subsection 16(2)
+
+Repeal the subsection.
+
+As at 14 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3361,6 +3376,8 @@ Despite the repeal of paragraph 64(1)(d) of the _Building and Construction Indus
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
