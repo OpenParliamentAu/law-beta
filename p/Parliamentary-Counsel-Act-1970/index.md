@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00687/Html/8235e842-c38b-493c-96b1-544f360c541e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00345/Html/cb32d434-e3a0-4beb-a14f-12df1abb131d_files/image001.gif)
 
 # Parliamentary Counsel Act 1970
 
 **Act No. 8 of 1970 as amended**
 
-This compilation was prepared on 1 October 2012
- taking into account amendments up to Act No. 107 of 2012
+This compilation was prepared on 27 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -45,10 +46,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [16A](#16A).       Annual report
 
-[16B](#16B).       Charging of fees
-
-[16C](#16C).       Notional payment of fees by the Commonwealth
-
 [17](#17).          Regulations
 
 **The Schedule** 
@@ -77,55 +74,13 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="3"></a>3  Functions of the Office of Parliamentary Counsel
 
-             (1)  The functions of the Office of Parliamentary Counsel are:
+                   The functions of the Office of Parliamentary Counsel are:
 
-                     (a)  the drafting of proposed laws for introduction into either House of the Parliament; and
+                     (a)  the drafting of proposed laws for introduction into either House of the Parliament;
 
                      (b)  the drafting of amendments of proposed laws that are being considered by either House of the Parliament; and
 
-                     (c)  the drafting of subordinate legislation; and
-
-                     (d)  the preparing of compilations and reprints of, and information relating to, laws of the Commonwealth; and
-
-                     (e)  the publishing, and the making of arrangements for the printing and publishing, of:
-
-                              (i)  laws, and proposed laws, of the Commonwealth; and
-
-                             (ii)  compilations and reprints of laws of the Commonwealth; and
-
-                            (iii)  information relating to laws of the Commonwealth; and
-
-                      (f)  the preparing and publishing of Government Notices Gazettes, including Special and Periodic Gazettes; and
-
-                     (g)  functions conferred on the Office (or on First Parliamentary Counsel) under the _Acts Publication Act 1905_, the _Legislative Instruments Act 2003_ and any other laws of the Commonwealth; and
-
-                     (h)  with the written approval of the Minister—the provision of assistance to a foreign country in relation to the drafting, printing or publishing of laws of the country or information relating to those laws; and
-
-                      (i)  functions conferred by the regulations; and
-
-                      (j)  functions incidental to any of the preceding functions.
-
-             (2)  The fact that an activity is within the functions of the Office of Parliamentary Counsel does not of itself exclude other persons or bodies from engaging in the activity. However, directions under section 55ZF of the _Judiciary Act 1903_ may affect the extent to which other persons or bodies may engage in the activity.
-
-             (3)  An approval under paragraph (1)(h) is not a legislative instrument.
-
-             (4)  In this section:
-
-                    <a name="law"></a>**_laws_** of the Commonwealth include Acts and subordinate legislation.
-
-                    <a name="publish"></a>**_publishing_** includes publishing electronically.
-
-                    <a name="subordin-legisl"></a>**_subordinate legislation_** includes:
-
-                     (a)  Ordinances, Proclamations, regulations, rules and other legislative instruments made under laws of the Commonwealth; and
-
-                     (b)  other instruments that:
-
-                              (i)  are made under laws of the Commonwealth; or
-
-                             (ii)  have or are given the force of Commonwealth law; or
-
-                            (iii)  are otherwise related to, or have effect for the purposes of, laws of the Commonwealth.
+                     (c)  functions incidental to the functions referred to in paragraphs (a) and (b).
 
 ##### <a id="4"></a>4  Appointment of First and Second Parliamentary Counsel
 
@@ -155,7 +110,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                    The First Parliamentary Counsel or a Second Parliamentary Counsel may resign by writing signed and delivered to the Governor‑General.
 
-##### <a id="9"></a>9  First or Second Parliamentary Counsel not to undertake other work
+##### <a id="9"></a>9  First or Second Parliamentary Counsel not to undertake other work
 
                    The First Parliamentary Counsel or a Second Parliamentary Counsel shall not engage in practice as a barrister or solicitor or engage in paid employment outside the duties of his or her office.
 
@@ -210,26 +165,6 @@ Note:          For rules that apply to acting appointments, se
              (1)  The First Parliamentary Counsel shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report of the operations of the Office of Parliamentary Counsel during the year that ended on that 30 June.
 
              (2)  The Minister shall cause a copy of a report furnished under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
-
-##### <a id="16B"></a>16B  Charging of fees
-
-             (1)  The Office of Parliamentary Counsel may, on behalf of the Commonwealth, charge fees for things done in the performance of the Office’s functions, other than the functions covered by paragraphs 3(1)(a) and (b).
-
-             (2)  A fee charged under subsection (1) must not be such as to amount to taxation.
-
-             (3)  A fee charged under subsection (1):
-
-                     (a)  is a debt due to the Office of Parliamentary Counsel, on behalf of the Commonwealth; and
-
-                     (b)  is recoverable by the Office of Parliamentary Counsel, on behalf of the Commonwealth, in a court of competent jurisdiction.
-
-##### <a id="16C"></a>16C  Notional payment of fees by the Commonwealth
-
-             (1)  The purpose of this section is to ensure that fees under section 16B are notionally payable by the Commonwealth (or parts of the Commonwealth).
-
-             (2)  The Minister responsible for administering the _Financial Management and Accountability Act 1997_ may give written directions for the purpose of this section, including directions relating to the transfer of amounts within, or between, accounts operated by the Commonwealth.
-
-             (3)  A direction under subsection (2) is not a legislative instrument.
 
 ##### <a id="17"></a>17  Regulations
 
@@ -513,23 +448,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Parliamentary Counsel and Other Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>107, 2012</div>
-  </td>
-  <td>
-    <div>22 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Oct 2012 ( <i>see</i>F2012L01963)</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -571,8 +489,8 @@ _(g)_     The _Parliamentary Counsel Act 1970_ was amended by Schedule�
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -603,7 +521,7 @@ _(g)_     The _Parliamentary Counsel Act 1970_ was amended by Schedule�
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 39, 1983; No. 38, 1988; No. 107, 2012</div>
+    <div>am. No. 216, 1973; No. 39, 1983; No. 38, 1988</div>
   </td>
 </tr>
 <tr>
@@ -780,22 +698,6 @@ _(g)_     The _Parliamentary Counsel Act 1970_ was amended by Schedule�
   </td>
   <td>
     <div>am. No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16B</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16C</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 2012</div>
   </td>
 </tr></table>
 
