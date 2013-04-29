@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00206/Html/AusPostalCorporation1989WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00670/Html/AusPostalCorporation1989WD02_image001.gif)
 
 # Australian Postal Corporation Act 1989
 
 **Act No. 64 of 1989 as amended**
 
-This compilation was prepared on 26 May 2009
- taking into account amendments up to Act No. 33 of 2009
+This compilation was prepared on 17 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1876,7 +1876,7 @@ only applies to Australia Post on and after that day.
 
                     <a name="complianc-agenc"></a>**_compliance agency_** means any of the following:
 
-                     (a)  Customs;
+                     (a)  the Australian Customs Service;
 
                      (b)  the Australian Quarantine and Inspection Service;
 
@@ -2237,7 +2237,7 @@ only applies to Australia Post on and after that day.
 
                     <a name="wine-tax"></a>**_wine tax_** has the same meaning as in the _A New Tax System (Wine Equalisation Tax) Act 1999_.
 
-##### <a id="90F"></a>90F  Meaning of _authorised ASIO officer_ 
+##### <a id="90F"></a>90F  Meaning of _authorised ASIO officer_ 
 
              (1)  For the purposes of Division 2, an **_authorised ASIO officer_** is an officer or employee of ASIO authorised in writing by a person mentioned in subsection (2) to receive disclosures under this Part.
 
@@ -2445,7 +2445,7 @@ Next of kin
 
 #### Subdivision B—Use or disclosure by former employees of Australia Post
 
-##### <a id="90LA"></a>90LA  Application of Subdivision
+##### <a id="90LA"></a>90LA  Application of Subdivision
 
              (1)  This Subdivision applies to a person who was an employee of Australia Post and to information or a document acquired or received by the person if:
 
@@ -2705,7 +2705,7 @@ the Customs officer who opened the article must close up the article, and return
 
                      (b)  for the return of an article to the normal course of carriage.
 
-             (8)  Customs must establish and maintain, in accordance with regulations made for the purposes of this section, a record setting out, in respect of each article that is removed from the normal course of carriage and opened for the purpose of its examination by a Customs officer:
+             (8)  The Australian Customs Service established under the _Customs Administration Act 1985_ must establish and maintain, in accordance with regulations made for the purposes of this section, a record setting out, in respect of each article that is removed from the normal course of carriage and opened for the purpose of its examination by a Customs officer:
 
                      (a)  particulars of the article; and
 
@@ -2851,7 +2851,7 @@ Removing scam mail on request of consumer protection agencies
 
              (2)  If the article is opened by an authorised examiner (whether in the presence of a Customs officer or a quarantine inspection officer or not), then, before the article is returned to the normal course of carriage, Australia Post must cause to be endorsed on the cover of the article, or on a label affixed to its cover, a notification that the article has been opened by Australia Post and that explains briefly (by reference to a provision of this Division or otherwise) the purpose for which the article was opened.
 
-          (2A)  If the article is opened under section 90T by a Customs officer, then, before the article is returned to the normal course of carriage, the Customs officer must cause to be endorsed on the cover of the article, or on a label affixed to its cover, a notification that the article has been opened by Customs and that explains briefly (by reference to section 90T or otherwise) the purpose for which the article was opened.
+          (2A)  If the article is opened under section 90T by a Customs officer, then, before the article is returned to the normal course of carriage, the Customs officer must cause to be endorsed on the cover of the article, or on a label affixed to its cover, a notification that the article has been opened by the Australian Customs Service and that explains briefly (by reference to section 90T or otherwise) the purpose for which the article was opened.
 
           (2B)  If the article is opened and examined by a consumer protection agency under section 90UB, but not dealt with under subsection 90UC(1), then, before the article is returned to Australia Post, the consumer protection agency must cause to be endorsed on the cover of the article, or on a label affixed to its cover, a notification that the article has been opened and examined by the consumer protection agency and that explains briefly (by reference to section 90UB or otherwise) the purposes for which the article was opened and examined.
 
@@ -3049,7 +3049,7 @@ the amount shall be paid into an account kept by Australia Post called the Uncla
 
 ##### <a id="102"></a>102  Regulations
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -3591,24 +3591,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 3 (items 1, 2): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Legislation Amendment (Name Change) Act 2009</div>
-  </td>
-  <td>
-    <div>33, 2009</div>
-  </td>
-  <td>
-    <div>22 May 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 9–11): 
-23 May 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -4427,7 +4409,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div></div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 101, 2006; No. 156, 2007; No. 33, 2009</div>
+    <div>am. No. 161, 1999; No. 101, 2006; No. 156, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4667,7 +4649,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div></div>
   </td>
   <td>
-    <div>am. No. 101, 2006; No. 156, 2007; No. 33, 2009</div>
+    <div>am. No. 101, 2006; No. 156, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4699,7 +4681,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div></div>
   </td>
   <td>
-    <div>am. No. 23, 2000; No. 156, 2007; No. 33, 2009</div>
+    <div>am. No. 23, 2000; No. 156, 2007</div>
   </td>
 </tr>
 <tr>
