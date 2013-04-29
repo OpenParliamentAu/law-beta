@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00802/Html/36147600-4cc5-4db2-b429-1a09e1a4ac10_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00204/Html/3f8deafe-de8a-4430-90c9-a1149f6d17b6_files/image001.gif)
 
 # Industrial Chemicals (Notification and Assessment) Act 1989
 
 **Act No. 8 of 1990 as amended**
 
-This compilation was prepared on 28 September 2011
- taking into account amendments up to Act No. 103 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -64,18 +64,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13B](#13B).       Inclusion of new industrial chemical in non‑confidential section of Inventory before 5 years
 
-[14](#14).          Inclusion of new industrial chemical in Inventory after 5 
- years
+[14](#14).          Inclusion of new industrial chemical in Inventory after 5 years
 
 [15](#15).          Inventory to be publicly available
 
 [15A](#15A).       Offence for failing to comply with conditions of use etc 
-
-    **Division 1A—Inclusion of previously regulated chemicals in Inventory**
-
-[15AA](#15AA).    Proposal to include previously regulated chemical in Inventory
-
-[15AB](#15AB).    Inclusion of previously regulated chemical in Inventory
 
     **Division 2—Confidential Section of Inventory**
 
@@ -223,8 +216,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30](#30).          Permits allowing introduction before assessment
 
-[30A](#30A).       Application for early introduction of non‑hazardous 
- chemicals
+[30A](#30A).       Application for early introduction of non‑hazardous chemicals
 
 [30AA](#30AA).    Dual applications for introduction permits
 
@@ -250,7 +242,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [33C](#33C).       Moving from the self‑assessed system to the non‑self‑assessed system
 
-[34](#34).          Public report of assessment
+[34](#34).          Full public report
+
+[35](#35).          Summary report
 
 [36](#36).          Notice to applicant on completing report
 
@@ -260,7 +254,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39](#39).          Giving of assessment certificates
 
-[40](#40).          Application for variation of public report
+[40](#40).          Application for variation of full public report
 
     **Division 3A—Extension of original assessment certificates**
 
@@ -370,8 +364,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [67](#67).          Failure to comply with secondary notification requirements
 
-[68](#68).          Secondary notification assessment of new industrial 
- chemicals
+[68](#68).          Assessment of new industrial chemical of which secondary notification required
 
 [68A](#68A).       Assessment of existing chemicals of which secondary notification required
 
@@ -397,7 +390,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 9—Access to Assessment Information**
 
-[78](#78).          Material Safety Data Sheets to be available
+[78](#78).          Full public report etc  to be available
 
 [79](#79).          Disclosure of exempt information in certain circumstances
 
@@ -594,8 +587,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Part C** 
 
 **Part D** 
-
-**Part E** 
 
 **Notes** 
 
@@ -797,6 +788,8 @@ Note:          An ingredient or component of a cosmetic could 
 
                     incurred by the person in respect of the manufacture of the first‑mentioned chemicals.
 
+                    <a name="full-public-report"></a>**_full public report_** means a report prepared under section 34 with any variations of it made under subsection 37(2) or 40(5).
+
                     <a name="gene-technologi-regul"></a>**_Gene Technology Regulator_** has the same meaning as in the _Gene Technology Act 2000_.
 
                     <a name="gm-product"></a>**_GM product_** has the same meaning as in the _Gene Technology Act 2000_.
@@ -891,7 +884,7 @@ being, if there are in force guidelines approved by the Minister by notice in th
 
                      (a)  either:
 
-                              (i)  if the chemical is a listed industrial chemical whose introduction is subject to a condition of use included in the Inventory under section 13 or subsection 15AB(1)—the chemical but only to the extent that the manufacturer or importer of the chemical introduces, or proposes to introduce, the chemical for any other use; or
+                              (i)  if the chemical is a listed industrial chemical whose introduction is subject to a condition of use under section 13—the chemical but only to the extent that the manufacturer or importer of the chemical introduces, or proposes to introduce, the chemical for any other use; or
 
                              (ii)  otherwise—an industrial chemical that is not a listed industrial chemical; and
 
@@ -981,8 +974,6 @@ but does not include the following:
 
                     <a name="prioriti-existing-chemic"></a>**_priority existing chemical_** means an industrial chemical in respect of which a declaration under section 51 is in force.
 
-                    <a name="public-report"></a>**_public report_** means a report prepared under section 34 as varied or modified in accordance with this Act.
-
                     <a name="reaction-intermedi"></a>**_reaction intermediate_** means a substance that:
 
                      (a)  is produced in the course of a chemical reaction; and
@@ -1016,6 +1007,8 @@ but does not include the following:
                     <a name="self-assessed-assess-certif"></a>**_self‑assessed assessment certificate_** means an assessment certificate given under subsection 39(1A).
 
                     <a name="sequenc"></a>**_sequence_**, in relation to a polymer molecule, means a continuous string of monomer units within the molecule that are covalently bound to one another and are uninterrupted by units other than monomer units.
+
+                    <a name="summari-report"></a>**_summary report_** means a report prepared under section 35 with any variations of it made under subsection 37(2) or 40(7).
 
                     <a name="supplementari-inform-statem"></a>**_supplementary information statement_** means the statement described in paragraph 40A(5)(a).
 
@@ -1211,7 +1204,7 @@ but does not include a substance or mixture of substances of a kind that is decl
 
              (2)  The value of relevant industrial chemicals imported by a person during a particular period (whether a financial year or a registration year) is the amount, worked out to the nearest whole dollar, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00802/Html/36147600-4cc5-4db2-b429-1a09e1a4ac10_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00204/Html/3f8deafe-de8a-4430-90c9-a1149f6d17b6_files/image002.gif)
 
 where:
 
@@ -1299,7 +1292,7 @@ the Director must:
 
              (3)  If a chemical is included in the Inventory, the chemical may be imported into Australia, or manufactured in Australia, without obtaining an assessment certificate or permit.
 
-             (4)  However, if the importation or manufacture of the chemical is subject to a condition included in the Inventory under section 13 or subsection 15AB(1), the chemical may only be imported or manufactured without obtaining an assessment certificate or permit if the importation or manufacture is in accordance with the condition.
+             (4)  However, if the importation or manufacture of the chemical is subject to a condition included in the Inventory under section 13, the chemical may only be imported or manufactured without obtaining an assessment certificate or permit if the importation or manufacture is in accordance with the condition.
 
 Note:          Subsections (3) and (4) are not intended to be an exhaustive description of the effects or consequences of including a chemical, or a condition on the importation or manufacture of a chemical, in the Inventory. There may be other consequences, express or implied, because of other provisions of the Act.
 
@@ -1311,15 +1304,11 @@ Note:          Subsections (3) and (4) are not intended to b
 
                      (d)  each chemical included under subsection 14(7); and
 
-                   (da)  each chemical included under subsection 15AB(1); and
-
-                   (db)  any particulars included in the Inventory under subsection 15AB(1) in respect of a chemical included in the Inventory under that subsection; and
-
                      (e)  each chemical transferred under section 19; and
 
-                      (f)  any condition of use, or any other condition, to which the importation or manufacture of a chemical referred to in paragraph (d), (da) or (e) is subject under section 13; and
+                      (f)  any condition of use, or any other condition, to which the importation or manufacture of a chemical referred to in paragraph (d) or (e) is subject under section 13; and
 
-                     (g)  any other matter included under section 13 in respect of a chemical referred to in paragraph (d), (da) or (e).
+                     (g)  any other matter included under section 13 in respect of a chemical referred to in paragraph (d) or (e).
 
              (4)  The confidential section is to contain approved particulars of:
 
@@ -1483,111 +1472,11 @@ the Director must include the chemical in the confidential section.
 
                      (a)  the person imports or manufactures an industrial chemical at a particular time; and
 
-                     (b)  at that time, the importation or manufacture of the chemical is subject to a condition included in the Inventory under section 13 or subsection 15AB(1); and
+                     (b)  at that time, the importation or manufacture of the chemical is subject to a condition under section 13; and
 
 (c) the importation or manufacture breaches the condition _._
 
                     Penalty:  120 penalty units.
-
-### Division 1A—Inclusion of previously regulated chemicals in Inventory
-
-##### <a id="15AA"></a>15AA  Proposal to include previously regulated chemical in Inventory
-
-             (1)  The Director may make a proposal to include or not to include a new industrial chemical in the Inventory if:
-
-                     (a)  the chemical was previously regulated; and
-
-                     (b)  there is no assessment certificate in force for the chemical; and
-
-                     (c)  the chemical is currently in use in Australia.
-
-Note:          See subsection (9) for the definition of **_previously regulated_**.
-
-             (2)  The Director may include in a proposal the following particulars in respect of a chemical proposed to be included in the Inventory:
-
-                     (a)  particulars of any condition of use to which the importation or manufacture of the chemical is subject;
-
-                     (b)  particulars of any other condition to which the importation or manufacture of the chemical is subject;
-
-                     (c)  any other particulars in respect of the chemical that are prescribed by regulations for the purposes of this paragraph.
-
-             (3)  In making a proposal, the Director must consider whether the use of the chemical poses an unreasonable risk to occupational health and safety, public health or the environment.
-
-             (4)  The Director must give notice of a proposal in the Chemical Gazette.
-
-             (5)  The notice must state the following:
-
-                     (a)  the chemical name for the chemical;
-
-                     (b)  the number assigned to the chemical by the service known as the Chemical Abstracts Service, or if that number is not available, the number that accords with an alternative numbering system;
-
-                     (c)  any name by which the chemical is commonly known;
-
-                     (d)  whether the Director proposes to include or not to include the chemical in the Inventory;
-
-                     (e)  the reasons why the Director proposes to include  or not to include the chemical in the Inventory;
-
-                      (f)  if the Director proposes to include the chemical in the Inventory:
-
-                              (i)  any particulars that the Director proposes to include in respect of the chemical; and
-
-                             (ii)  the reasons why the Director proposes to include those particulars;
-
-                     (g)  that a person may give a statement to the Director, within 28 days after the date of publication of the notice, giving reasons why the person objects to the Director’s proposal.
-
-             (6)  If the Director knows the name and address of a person who is introducing or proposes to introduce the chemical, the Director must send a copy of the notice to the person.
-
-             (7)  Once the 28 days mentioned in paragraph (5)(g) have passed, the Director must, having regard to any statements received, make a final decision:
-
-                     (a)  to include or not to include the chemical in the Inventory; and
-
-                     (b)  if the Director decides to include the chemical in the Inventory—to include or not to include specified particulars in respect of the chemical.
-
-             (8)  The Director must:
-
-                     (a)  publish a notice in the Chemical Gazette of the Director’s final decision; and
-
-                     (b)  give a copy of the notice to any person who gave a statement.
-
-(9) For the purposes of subsection (1), a chemical was **_previously regulated_** if:
-
-                     (a)  the chemical has been, but is no longer, within the scope of regulation of a Commonwealth law that relates to chemicals and that is prescribed by the regulations; or
-
-                     (b)  the chemical is contained in a product that has been, but is no longer, within the scope of regulation of any of the following:
-
-                              (i)  the _Agricultural and Veterinary Chemicals Code Act 1994_;
-
-                             (ii)  the _Therapeutic Goods Act 1989_;
-
-                            (iii)  the _Food Standards Australia New Zealand Act 1991_;
-
-                            (iv)  another Commonwealth law that relates to chemicals in products (whether consisting of a single chemical or not) and that is prescribed by the regulations.
-
-##### <a id="15AB"></a>15AB  Inclusion of previously regulated chemical in Inventory
-
-             (1)  If:
-
-                     (a)  the Director makes a final decision under subsection 15AA(7) to include a new industrial chemical in the Inventory; and
-
-                     (b)  either:
-
-                              (i)  at least 28 days have passed since the Director published the notice mentioned in subsection 15AA(8) and an application to the Tribunal for review of the Director’s decision has not been made; or
-
-                             (ii)  an application to the Tribunal for review of the Director’s decision has been made and review of the decision has been finalised;
-
-then the Director must include the chemical in the Inventory, along with any particulars in respect of the chemical that the Director has made a final decision to include in the Inventory.
-
-Note:          Once the chemical has been included in the Inventory, the Director can include and vary conditions and other particulars in respect of the chemical under section 13.
-
-             (2)  If the Director includes a chemical in the Inventory under subsection (1):
-
-                     (a)  the chemical is to be included in the non‑confidential section of the Inventory; and
-
-                     (b)  the Director must give notice in the Chemical Gazette of:
-
-                              (i)  the inclusion of the chemical in the Inventory; and
-
-                             (ii)  any particulars included in the Inventory in respect of the chemical.
 
 ### Division 2—Confidential Section of Inventory
 
@@ -2749,16 +2638,6 @@ Note:          Section 24A describes the contents of the doc
 
                      (c)  a polymer of low concern.
 
-Notification statement for certain UV filters
-
-             (9)  A notification statement about a new industrial chemical that is to be used as an ultraviolet filter in a cosmetic to be applied to the skin must contain the matters specified in:
-
-                     (a)  Parts A, B, C and E of the Schedule; and
-
-                     (b)  if the chemical is a polymer—Part D of the Schedule.
-
-          (9A)  If subsection (9) applies to a chemical, subsections (4) to (8) do not apply.
-
 Other requirements for the application
 
            (10)  An application for an assessment certificate for a new industrial chemical must, in addition to the notification statement, be accompanied by a statement of any other assessment information available to the applicant.
@@ -3083,7 +2962,7 @@ Note:          The report of the assessment for polymers of lo
 
 Time periods for applications for non‑self‑assessed assessment certificates under section 23
 
-             (1)  An assessment of an application under section 23 is to be made and the assessment report and the public report completed within:
+             (1)  An assessment of an application under section 23 is to be made and the assessment report, the full public report and the summary report completed within:
 
                      (a)  if a notice or notices requiring additional information were given under section 27—90 days after the day on which the information was provided; and
 
@@ -3113,7 +2992,7 @@ Time periods for applications for self‑assessed assessment certificates under 
 
              (1)  An assessment of an application under section 23A is to be made and either:
 
-                     (a)  the assessment report and the public report completed; or
+                     (a)  the assessment report, the full public report and the summary report completed; or
 
                      (b)  a notice given under subsection 33C(2);
 
@@ -3255,9 +3134,27 @@ Person must pay additional application fee
 
              (4)  If the person makes such an application under section 23 in respect of a chemical, then the person must pay any difference between the amount prescribed under section 110 for applications under section 23 and the amount already paid for the application previously made under section 23A in respect of the chemical.
 
-##### <a id="34"></a>34  Public report of assessment
+##### <a id="34"></a>34  Full public report
 
-                   On completing an assessment report about a chemical, the Director must cause a public report of the assessment to be prepared consisting of the contents of the assessment report other than exempt information.
+             (1)  On completing an assessment report about a chemical, the Director must cause a full public report of the assessment to be prepared consisting of the contents of the assessment report other than exempt information.
+
+##### <a id="35"></a>35  Summary report
+
+             (1)  On completing an assessment report about a chemical, the Director must cause a summary report of the assessment to be prepared.
+
+             (2)  The summary report is to consist of:
+
+                     (a)  the name or names by which the chemical is known to the public and any other name intended by the applicant to be the name by which the chemical is to be known; and
+
+                     (b)  the name of the applicant for the assessment certificate for the chemical; and
+
+                     (c)  the address where copies of the full public report of the assessment can be obtained by members of the public; and
+
+                     (d)  any other prescribed information.
+
+          (2A)  Regulations made for the purposes of paragraph (2)(d) may prescribe different information for different chemicals.
+
+             (3)  The summary report is not to contain any exempt information.
 
 ##### <a id="36"></a>36  Notice to applicant on completing report
 
@@ -3267,7 +3164,9 @@ Notice after completing non‑self‑assessed assessment report
 
                      (a)  an assessment report (other than an assessment report referred to in section 33B (self‑assessment)) about a chemical; and
 
-                     (b)  the public report about the chemical;
+                     (b)  the full public report about the chemical; and
+
+                     (c)  the summary report about the chemical;
 
 the Director must give the applicant for the assessment certificate:
 
@@ -3281,7 +3180,9 @@ Notice after completing self‑assessed assessment report
 
                      (a)  an assessment report referred to in section 33B (self‑assessment) about a chemical; and
 
-                     (b)  the public report about the chemical;
+                     (b)  the full public report about the chemical; and
+
+                     (c)  the summary report about the chemical;
 
 the Director must give the applicant for the assessment certificate:
 
@@ -3301,7 +3202,7 @@ Note:          The Director must also give the applicant the s
 
                               (i)  vary the report as requested; and
 
-                             (ii)  make any consequential variation of the public report; and
+                             (ii)  make any consequential variation of the full public report and the summary report based on the assessment report; and
 
                             (iii)  notify the applicant of the variation; or
 
@@ -3327,11 +3228,9 @@ Note:          The Director must also give the applicant the s
 
                      (a)  subject to subsection (6), giving a copy of it to prescribed authorities of the Commonwealth, the States and the Territories; and
 
-                     (b)  giving a copy of the public report about the chemical to any person that the Minister directs; and
+                     (b)  giving a copy of the full public report about the chemical to any person that the Minister directs; and
 
-                     (c)  publishing the public report about the chemical on the website maintained for the National Industrial Chemicals Notification and Assessment Scheme by the Department; and
-
-                     (d)  publishing a notice in the Chemical Gazette stating that the public report is available as mentioned in paragraph (c).
+                     (c)  publishing the summary report about the chemical in the Chemical Gazette.
 
              (6)  The Director must not give a copy of the assessment report to an authority for the Commonwealth, a State or a Territory unless arrangements are in place under which the authority is not to disclose any exempt information in the report except:
 
@@ -3341,7 +3240,7 @@ Note:          The Director must also give the applicant the s
 
                      (c)  with the consent of the person who gave the exempt information.
 
-             (7)  The Director may publish the public report in such other ways as the Director considers appropriate.
+             (7)  The Director may publish the full public report and the summary report in such other ways as the Director considers appropriate.
 
 ##### <a id="39"></a>39  Giving of assessment certificates
 
@@ -3355,9 +3254,9 @@ Note:          A person who holds a self‑assessed assessment
 
              (3)  If the Director gives an applicant a certificate in respect of a chemical, the Director must also notify the applicant in writing that the applicant may apply to have the chemical included in the non‑confidential section of the Inventory under section 13B.
 
-##### <a id="40"></a>40  Application for variation of public report
+##### <a id="40"></a>40  Application for variation of full public report
 
-             (1)  If a public report about an industrial chemical has been published under section 38, a person may apply in the approved form to the Director for variation of the public report. The application must be made within 28 days after publication.
+             (1)  Where a summary report about an industrial chemical has been published under paragraph 38(5)(c), the applicant for the assessment certificate for the chemical or any other person may, within 28 days after the publication, apply in the approved form to the Director for the variation of the full public report about the chemical.
 
              (2)  Where, at the end of the 28 days, the Director has received an application or applications for the variation of the report, he or she must:
 
@@ -3397,7 +3296,7 @@ Note:          A person who holds a self‑assessed assessment
 
                      (c)  where the decision is to vary the report—delay doing so for 28 days after publishing the notice, or, where a person applies during those days to the Tribunal under section 102 for the review of the decision, until the application for review is finalised.
 
-             (8)  If a public report about a chemical is varied, the Director must make any consequential variations to the assessment report about the chemical.
+             (8)  Where a full public report about a chemical is varied, the Director shall make any consequential variations of the assessment report and the summary report about the chemical.
 
 ### Division 3A—Extension of original assessment certificates
 
@@ -3421,7 +3320,7 @@ Note:          A person who holds a self‑assessed assessment
 
                              (ii)  any new information available to the applicant about the health and environmental effects of the chemical; and
 
-                            (iii)  confirmation that the person has access to a copy of the public report about the chemical; and
+                            (iii)  confirmation that the person has access to a copy of the full public assessment report about the chemical; and
 
                      (b)  the written agreement of the holder of the original certificate to the extension of the certificate to cover the applicant or each applicant; and
 
@@ -3503,11 +3402,9 @@ prepare modifications of the original assessment report.
 
                              (ii)  any person that the Minister directs; and
 
-                     (b)  by incorporating, to the extent required, the modifications or modification as so varied, in the public report; and
+                     (b)  by incorporating, to the extent required, the modifications or modification as so varied, in the related full public report and summary report; and
 
-                     (c)  by publishing the public report on the website maintained for the National Industrial Chemicals Notification and Assessment Scheme by the Department; and
-
-                     (d)  by publishing a notice in the Chemical Gazette stating that the public report is available as mentioned in paragraph (c).
+                     (c)  by publishing the related summary report, incorporating the modifications, or the modifications as so varied, in the Chemical Gazette.
 
              (2)  Despite subsection (1), the Director must not publish the modifications until:
 
@@ -3521,7 +3418,7 @@ prepare modifications of the original assessment report.
 
              (3)  Despite subsection (1), the Director must not publish the information after the application has been withdrawn.
 
-             (4)  A copy of the original assessment report or the public report published under subsection (1) (other than under subparagraph (1)(a)(i)) must not contain any exempt information.
+             (4)  A copy of the original assessment report or the related full public report or summary report published under subsection (1) (other than under subparagraph (1)(a)(i)) must not contain any exempt information.
 
 ##### <a id="40H"></a>40H  Extensions of original assessment certificate
 
@@ -3737,7 +3634,7 @@ then, subject to subsection (2), the Director is to be taken to have received 
 
              (3)  Where a report is adopted, the Director is to be taken to have carried out his or her duties and functions under sections 31 and 32 and the assessment report may be prepared on the basis of the adopted report.
 
-             (4)  Subject to subsection (5), the assessment report and the public report are to be completed within 90 days after the day on which the application was made or, where a notice or notices were given under section 27, within 90 days after the day on which the information required by the notice or notices was given.
+             (4)  Subject to subsection (5), the assessment report, the full public report and the summary report are to be completed within 90 days after the day on which the application was made or, where a notice or notices were given under section 27, within 90 days after the day on which the information required by the notice or notices was given.
 
              (5)  The Minister may extend the period for the completion of reports by up to 90 days if it is not reasonably practicable for the reports to be completed within the period.
 
@@ -4145,17 +4042,29 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  if a person applies to the Tribunal under section 102 for review of such a decision before the end of that period—until the application for review is finalised.
 
+             (4)  The Director must also cause a summary report of the final assessment to be prepared.
+
+             (5)  The summary report consists of:
+
+                     (a)  the name by which the chemical is known and any other name intended by each applicant for assessment of the chemical to be the name by which the chemical is to be known; and
+
+                     (b)  the name of each such applicant; and
+
+                     (c)  the address where copies of the final assessment report can be obtained by members of the public; and
+
+                     (d)  any other prescribed information.
+
+             (6)  The summary report must not contain any exempt information.
+
              (7)  The Director must publish the final assessment report by:
 
                      (a)  giving a copy of it to any prescribed authorities of the Commonwealth, the States or the Territories; and
 
                      (b)  giving a copy of it to such other persons (if any) as the Minister directs; and
 
-                     (c)  publishing the report on the website maintained for the National Industrial Chemicals Notification and Assessment Scheme by the Department; and
+                     (c)  publishing the summary report in the Chemical Gazette.
 
-                     (d)  publishing a notice in the Chemical Gazette stating that the report is available as mentioned in paragraph (c).
-
-             (8)  The Director may publish the final assessment report in such other ways as the Director considers appropriate.
+             (8)  The Director may publish the final assessment report and the summary report in such other ways as the Director considers appropriate.
 
 ##### <a id="61"></a>61  Prohibition of priority existing chemical until assessment complete
 
@@ -4311,7 +4220,7 @@ the person ought reasonably to have become aware of the circumstances.
 
              (3)  Where, after the Minister has given a notice under subsection (1) to a person, the person complies with the requirements for secondary notification, the Minister is to revoke the notice as soon as is reasonably practicable.
 
-##### <a id="68"></a>68  Secondary notification assessment of new industrial chemicals
+##### <a id="68"></a>68  Assessment of new industrial chemical of which secondary notification required
 
              (1)  Where secondary notification of a new industrial chemical has been given, the Director must cause the chemical to be assessed in accordance with section 32 and a report of the assessment to be prepared.
 
@@ -4327,7 +4236,7 @@ the person ought reasonably to have become aware of the circumstances.
 
                      (c)  where subsection (3) applies—the matters specified in section 33 were limited to those that are relevant to the assessment.
 
-             (5)  Subject to subsection (6), an assessment of a new industrial chemical is to be made and the assessment report and public report completed within 90 days after the day on which the last information required for the assessment is received.
+             (5)  Subject to subsection (6), an assessment of a new industrial chemical is to be made and the assessment report, the full public report and the summary report of it completed within 90 days after the day on which the last information required for the assessment is received.
 
              (6)  The Minister may extend the period for assessment and report in relation to a new industrial chemical by up to 90 days if it is not reasonably practicable for the assessment to be carried out thoroughly, and the report completed, within the period.
 
@@ -4389,7 +4298,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  an assessment certificate for a new industrial chemical is in force; and
 
-                     (b)  a public report about the chemical is published because the secondary notification of the chemical was required;
+                     (b)  a summary report about the chemical is published because the secondary notification of the chemical was required;
 
 the Director must endorse on the certificate a statement that such a report has been published giving the date of publication.
 
@@ -4467,9 +4376,11 @@ the information is to be treated as exempt information for the purposes of this 
 
 ### Division 9—Access to Assessment Information
 
-##### <a id="78"></a>78  Material Safety Data Sheets to be available
+##### <a id="78"></a>78  Full public report etc. to be available
 
-                   Where a chemical for which an assessment certificate has been given under section 46 has been introduced, the Director must ensure that copies of the Material Safety Data Sheet (if any) for the chemical current on the giving of the certificate are available for inspection by the public at the prescribed times and on payment of the prescribed fee (if any).
+             (1)  Where a chemical about which a summary report has been published has been introduced, the Director must ensure that copies of the full public report about the chemical are available for inspection by the public at the prescribed times and on payment of the prescribed fee (if any).
+
+             (2)  Where a chemical for which an assessment certificate has been given under section 46 has been introduced, the Director must ensure that copies of the Material Safety Data Sheet (if any) for the chemical current on the giving of the certificate are available for inspection by the public at the prescribed times and on payment of the prescribed fee (if any).
 
 ##### <a id="79"></a>79  Disclosure of exempt information in certain circumstances
 
@@ -5479,9 +5390,7 @@ is not admissible in evidence against the individual in criminal proceedings oth
 
                      (c)  the condition of use to which a controlled use permit is subject under subsection 22H(1); or
 
-                     (d)  a decision by the Director under section 13A to include or vary particulars in the Inventory in respect of a chemical; or
-
-                     (e)  a final  decision by the Director under subsection 15AA(7).
+                     (d)  a decision by the Director under section 13A to include or vary particulars in the Inventory in respect of a chemical.
 
           (1A)  A person may not make an application for review under paragraph (1)(d) in respect of a decision to include or vary particulars in the Inventory in respect of a chemical if:
 
@@ -5525,7 +5434,7 @@ all or any of the Minister’s functions or powers under this Act, other than th
 
                      (b)  who is acting in a position usually occupied by a person with a classification level of the kind mentioned in paragraph (a);
 
-all or any of the Director’s functions or powers under this Act, other than those under subsection 14(4), 17(4) or 19(6) or (7), section 15AA, 15AB, 24 or 30A, subsection 37(2), section 38, 44, 50B, 60E or 60F or this section.
+all or any of the Director’s functions or powers under this Act, other than those under subsection 14(4), 17(4) or 19(6) or (7), section 24 or 30A, subsection 37(2), section 38, 44, 50B, 60E or 60F or this section.
 
 ##### <a id="105"></a>105  Variation of Schedule
 
@@ -5673,6 +5582,8 @@ the person is not liable to be punished by imprisonment for that offence.
 
                       (s)  secondary notification required by section 65;
 
+                      (t)  an inspection of a public report under section 78;
+
                      (u)  an inquiry under section 79;
 
                    (ua)  an application for registration under section 80F;
@@ -5737,7 +5648,7 @@ _Section 23_
 
 ## Part A
 
-              1.  Identification of which of subsections 23(4) to (9) applies to the chemical. 
+              1.  Identification of which of subsections 23(4), (5), (6), (7) and (8) applies to the chemical. 
 
               2.  Summary of the chemical’s health effects and environmental effects. 
 
@@ -5783,19 +5694,15 @@ _Section 23_
 
               3.  The proposed uses of the chemical in descending order of importance and the approximate percentage of the quantity of the chemical to be introduced by the notifier that is to have each use.
 
-              4.  The physical state and the appearance (being the colour and form) of the chemical at 20° celsius and 101.3 kPa and a description of the odour (including the odour threshold) and volatility of the chemical. 
+              4.  The appearance, being the colour and form, of the chemical at 20° celsius and 101.3 kPa and a description of the odour (including the odour threshold) and volatility of the chemical. 
 
-              5.  The estimated quantity, in tonnes per year, or, in a range of tonnes per year of 1 to 10, 10 to 100, 100 to 1,000 and over 1,000, of the chemical proposed to be:
-
-                     (a)  imported into Australia by the notifier in each of the next 5 years; and
-
-                     (b)  manufactured in Australia by the notifier in each of those years.
+              5.  The quantity, in a range of tonnes per year of 1 to 10, 10 to 100, 100 to 1,000 and over 1,000, of the chemical proposed to be imported into Australia by the notifier in each of the next 5 years and the quantity, in such a range, of it proposed to be manufactured in Australia by the notifier in each of those years. 
 
               6.  The following matters affecting occupational health and safety: 
 
                      (a)  data about occupational exposure factors, that is to say: 
 
-                              (i)  the categories of workers to be involved in working with the chemical; and 
+                              (i)  the number, and categories, of workers to be involved in working with the chemical; and 
 
                              (ii)  the nature of the work to be done by them; and 
 
@@ -5829,7 +5736,7 @@ _Section 23_
 
                      (d)  a description of all procedures for the disposal of the chemical and the identity and hazards of any degradation products resulting from the disposal. 
 
-              8.  A description of the ways in which the public might be exposed to the chemical based on its proposed uses and its potential release in the environment.
+              8.  A brief description of any way in which the chemical could be harmful or hazardous to the health of the public at large. 
 
               9.  The following physical and chemical data about the chemical: 
 
@@ -5857,23 +5764,19 @@ _Section 23_
 
                              (ii)  in the case of a chemical that is fibrous—fibre length and length range; 
 
-                     (k)  the flash point in °C of the chemical; 
+                     (k)  the flash point in °C of the chemical as determined by whichever of the open cup or closed cup method is specified in the notification statement; 
 
                     (m)  the degree of the chemical’s flammability, including: 
 
-                              (i)  for gases and vapours—the upper and lower limits of flammability in air; and 
-
-                            (ia)  for solids—the ability to propagate combustion; and
+                              (i)  the upper and lower limits of flammability in air; and 
 
                              (ii)  details of the nature and identity of toxic and hazardous products of the chemical’s combustion; 
 
                      (n)  the minimum temperature for the chemical’s auto ignition; 
 
-                     (p)  the chemical’s explosive properties, including the chemical’s potential (if any) to detonate as the result of heat, shock or friction;
+                     (p)  information about the chemical’s potential (if any) to detonate as the result of heat, shock or friction; 
 
                      (q)  information about the stability and reactivity of the chemical, including: 
-
-                            (ia)  the chemical’s oxidising properties; and
 
                               (i)  particulars of conditions constituting the chemical’s instability; and 
 
@@ -5915,11 +5818,11 @@ The following data about the effects of the chemical:
 
                       (f)  any sensitising potential of the chemical; 
 
-                     (g)  the toxic effects of the chemical on administration for a period of 28 days; 
+                     (g)  the toxic effects of the chemical on administration for a period of 10 to 14 days; 
 
                      (h)  any induction by the chemical of point mutations in microbial test systems; 
 
-                      (j)  any production by the chemical of genotoxic damage in a suitable _in vivo_ test;
+                      (j)  any induction by the chemical of germ cell damage; 
 
                      (k)  any production by the chemical of chromosome damage in mammalian cells grown _in vitro_; 
 
@@ -5937,7 +5840,9 @@ being data obtained:
 
                       (s)  by specified methods; and 
 
-                      (t)  from specified raw data. 
+                      (t)  from specified raw data; and 
+
+                     (u)  in the case of paragraphs (h), (j) and (k)—having regard to the likely handling of the chemical. 
 
 ## Part D 
 
@@ -5947,39 +5852,11 @@ being data obtained:
 
               3.  The weight‑percentage of low molecular weight species of the polymer on its introduction represented by each residual monomer. 
 
-              4.  The maximum weight percentage of low molecular weight species of the polymer below 500 daltons and below 1,000 daltons. 
+              4.  The maximum weight percentage of low molecular weight species of the polymer below 1,000\. 
 
               5.  Information about all products resulting from the degradation, decomposition or depolymerisation of the polymer. 
 
               6.  Information on the natural loss of monomers, additives and impurities from the polymer. 
-
-## Part E
-
-The following data about the effects of the chemical:
-
-                     (a)  the chemical’s photostability;
-
-                     (b)  the chemical’s phototoxicity;
-
-                     (c)  the chemical’s photosensitisation;
-
-                     (d)  the chemical’s bioavailability via the oral and dermal routes;
-
-                     (e)  the chemical’s toxic effects on administration for a period of 3 to 6 months, by the oral and dermal routes;
-
-                      (f)  the chemical’s photomutagenicity;
-
-                     (g)  the chemical’s toxic effects on reproduction, including toxicity to male fertility;
-
-                     (h)  the carcinogenic potential of the chemical, including photocarcinogenicity;
-
-                      (i)  the potential of the chemical to interact with another chemical used as an ultraviolet filter in a cosmetic to be applied to the skin;
-
-being data obtained:
-
-                      (j)  by specified methods; and
-
-                     (k)  from specified raw data.
 
 # Notes to the _Industrial Chemicals (Notification and Assessment) Act 1989_
 
@@ -6563,41 +6440,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 702–707) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Chemicals (Notification and Assessment) Amendment (Inventory) Act 2011</div>
-  </td>
-  <td>
-    <div>103, 2011</div>
-  </td>
-  <td>
-    <div>26 Sept 2011</div>
-  </td>
-  <td colspan="2">
-    <div>27 Sept 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 1 (items 
-56–58) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -6860,9 +6702,8 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
   <td>
     <div>
       18 August 2004
-    </div>
-    <div>
-      (paragraph (b) applies)
+
+(paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -6935,7 +6776,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007; No. 111, 2009; Nos. 5 and 103, 2011</div>
+    <div>am. Nos. 7, 102 and 214, 1992; No. 99, 1997; No. 146, 1999; No. 170, 2000; No. 144, 2001; No. 56, 2002; No. 110, 2004; No. 134, 2007; No. 111, 2009; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6991,7 +6832,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 214, 1992; No. 144, 2001; No. 110, 2004; No. 103, 2011</div>
+    <div>am. No. 214, 1992; No. 144, 2001; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7007,7 +6848,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 214, 1992; No. 99, 1997; No. 110, 2004; No. 103, 2011</div>
+    <div>am. No. 214, 1992; No. 99, 1997; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7056,38 +6897,6 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
   </td>
   <td>
     <div>ad. No. 110, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 103, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1A of Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15AA, 15AB</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7919,7 +7728,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. Nos. 7 and 214, 1992; No. 110, 2004; No. 134, 2007; No. 103, 2011</div>
+    <div>am. Nos. 7 and 214, 1992; No. 110, 2004; No. 134, 2007</div>
   </td>
 </tr>
 <tr>
@@ -8084,14 +7893,6 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 103, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 32</div>
   </td>
   <td>
@@ -8132,18 +7933,10 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 34</div>
-  </td>
-  <td>
-    <div>rs. No. 103, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 214, 1992; No. 144, 2001; No. 103, 2011</div>
+    <div>am. No. 214, 1992; No. 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -8152,14 +7945,6 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
   </td>
   <td>
     <div>am. No. 214, 1992; No. 99, 1997; No. 144, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 103, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8180,18 +7965,10 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 103, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 37</div>
   </td>
   <td>
-    <div>am. No. 214, 1992; No. 144, 2001; No. 110, 2004; No. 103, 2011</div>
+    <div>am. No. 214, 1992; No. 144, 2001; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -8199,7 +7976,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 38</div>
   </td>
   <td>
-    <div>am. No. 214, 1992; No. 99, 1997; No. 144, 2001; No. 110, 2004; No. 103, 2011</div>
+    <div>am. No. 214, 1992; No. 99, 1997; No. 144, 2001; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -8212,18 +7989,10 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 40</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. No. 214, 1992; No. 144, 2001; No. 103, 2011</div>
+    <div>am. No. 214, 1992; No. 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -8255,7 +8024,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 110, 2004; No. 103, 2011</div>
+    <div>am. No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -8279,7 +8048,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 144, 2001; No. 103, 2011</div>
+    <div>am. No. 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -8359,7 +8128,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Industrial Chemicals (Notification and 
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 99, 1997; No. 110, 2004; No. 103, 2011</div>
+    <div>am. No. 99, 1997; No. 110, 2004</div>
   </td>
 </tr>
 <tr>
@@ -8600,7 +8369,7 @@ Div. 5 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>S. 60E</div>
+    <div>Ss. 60E, 60F</div>
   </td>
   <td>
     <div>ad. No. 99, 1997</div>
@@ -8612,22 +8381,6 @@ Div. 5 of Part 3</div>
   </td>
   <td>
     <div>am. No. 144, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60F</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 2001; No. 103, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8696,18 +8449,10 @@ Div. 5 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 103, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 68</div>
   </td>
   <td>
-    <div>am. No. 144, 2001; No. 103, 2011</div>
+    <div>am. No. 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -8731,7 +8476,7 @@ Div. 5 of Part 3</div>
     <div>S. 70</div>
   </td>
   <td>
-    <div>am. No. 144, 2001; No. 103, 2011</div>
+    <div>am. No. 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -8764,22 +8509,6 @@ Div. 5 of Part 3</div>
   </td>
   <td>
     <div>rep. No. 134, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 78</div>
-  </td>
-  <td>
-    <div>rs. No. 103, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9619,7 +9348,7 @@ Div. 5 of Part 3</div>
     <div>S. 102</div>
   </td>
   <td>
-    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004; No. 111, 2009; No. 103, 2011</div>
+    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004; No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9651,7 +9380,7 @@ Div. 5 of Part 3</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 144, 2001; No. 103, 2011</div>
+    <div>am. No. 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -9699,7 +9428,7 @@ Div. 5 of Part 3</div>
     <div>S. 110</div>
   </td>
   <td>
-    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004; No. 134, 2007; No. 111, 2009; No. 103, 2011</div>
+    <div>am. Nos. 102 and 214, 1992; No. 99, 1997; No. 144, 2001; No. 74, 2003; No. 110, 2004; No. 134, 2007; No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9755,45 +9484,9 @@ Div. 5 of Part 3</div>
     <div>Schedule</div>
   </td>
   <td>
-    <div>am. No. 99, 1997; No. 110, 2004; No. 103, 2011</div>
+    <div>am. No. 99, 1997; No. 110, 2004</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 702  Subsection 97(1)
-
-Omit “(1)”.
-
-## 703  Paragraph 97(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 704  Subsection 97(1)
-
-Omit “but a person appointed to act during a vacancy is not to continue so to act for more than 12 months.”.
-
-## 705  At the end of subsection 97(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 706  Subsection 97(2)
-
-Repeal the subsection.
-
-## 707  Subsection 105(3)
-
-Repeal the subsection.
-
-As at 28 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -10147,40 +9840,5 @@ _Statute Stocktake (Regulatory and Other Laws) Act 2009 (No. 111, 2009)_
 **_Inventory_** has the same meaning as in the _Industrial Chemicals (Notification and Assessment) Act 1989_.
 
 **_old law_** means the _Industrial Chemicals (Notification and Assessment) Act 1989_ as in force immediately before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Industrial Chemicals (Notification and Assessment) Amendment (Inventory) 
- Act 2011 (No. 103, 2011)_
-
-## Schedule 1
-
-## 56  Application provision—previously regulated chemicals
-
-The amendments made by item 10 of this Schedule apply to any chemical that was previously regulated (within the meaning of subsection 15AA(9) of the _Industrial Chemicals (Notification and Assessment) Act 1989_ as inserted by that item), whether the chemical became previously regulated before or after the commencement of that item.
-
-## 57  Application provision—amendments about UV filters
-
-The amendments made by items 11, 40 and 55 of this Schedule apply to applications for assessment certificates made under section 23 of the _Industrial Chemicals (Notification and Assessment) Act 1989_ (as amended by this Schedule) on or after the day on which those items commence.
-
-## 58  Application provision—amendments about summary reports
-
-The amendments made by items 1, 3, 4, 12 to 35 and 39 of this Schedule apply to assessment reports (within the meaning of subsection 5(1) of the _Industrial Chemicals (Notification and Assessment) Act 1989_) published on or after the day this Schedule commences.
 
  
