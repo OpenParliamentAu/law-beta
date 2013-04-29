@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00452/Html/AirAccidentCwlthGovtLiabili63_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00343/Html/AirAccidentCwlthGovtLiabili63_WD02_image001.gif)
 
 # Air Accidents (Commonwealth Government Liability) Act 1963
 
 **Act No. 74 of 1963 as amended**
 
-This compilation was prepared on 29 July 2008 
- taking into account amendments up to Act No. 79 of 2008
+This compilation was prepared on 8 July 2008 
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
@@ -586,23 +586,6 @@ Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Civil Aviation Legislation Amendment (1999 Montreal Convention and Other Measures) Act 2008</div>
-  </td>
-  <td>
-    <div>79, 2008</div>
-  </td>
-  <td>
-    <div>12 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 11–13): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -763,28 +746,6 @@ _(b)_    The _Air Accidents (Commonwealth Government Liability) Act 1963_ 
     <div>am. No. 70, 1982; No. 73, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Civil Aviation Legislation Amendment (1999 Montreal Convention and Other Measures) Act 2008 (No. 79, 2008)_
-
-The following amendments commence 6 months after the Convention for the Unification of Certain Rules for International Carriage by Air, done at Montreal on 28 May 1999, enters into force for Australia unless proclaimed before this 6 month period:
-
-## Schedule 1
-
-## 11  Paragraph 9(1)(a)
-
-After “a liability under”, insert “Part IA,”.
-
-## 12  Subsection 9(2)
-
-After “anything contained in”, insert “Part IA,”.
-
-## 13  Subsection 9(2)
-
-Omit “either”, substitute “any”.
-
-As at 29 July 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
