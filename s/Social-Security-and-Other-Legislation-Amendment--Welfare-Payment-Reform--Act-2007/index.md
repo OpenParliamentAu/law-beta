@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00056/Html/SocSecOthLegAmdtWelfarePmtRef2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00528/Html/SocSecOthLegAmdtWelfarePmtRef2007_image001.gif)
 
 # Social Security and Other Legislation Amendment (Welfare Payment Reform) Act 2007
 
 **Act No. 130<span style="color:black"> of 2007 as amended</span>**
 
-This compilation was prepared on 7 January 2011
+This compilation was prepared on 29 July 2010
  taking into account amendments up to Act No. 93 of 2010
 
 The text of any of those amendments not in force 
@@ -24,29 +24,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Schedule(s)
 
+[4](#4).            Racial Discrimination Act—Part 3B of the Social Security (Administration) Act
+
+[5](#5).            Some Queensland and Northern Territory laws excluded—Part 3B of the Social Security (Administration) Act
+
+[6](#6).            Racial Discrimination Act—determining terms of relevant activity agreement for approved programs of work for income support
+
+[7](#7).            Some Northern Territory laws excluded—determining terms of relevant activity agreement for approved programs of work for income support
+
 **Schedule 1—Income management regime** 
 
-A New Tax System (Family Assistance) (Administration) Act 1999                  2
+A New Tax System (Family Assistance) (Administration) Act 1999                  7
 
-Social Security Act 1991                                                                                            2
+Social Security Act 1991                                                                                            7
 
-Social Security (Administration) Act 1999                                                            2
+Social Security (Administration) Act 1999                                                            7
 
-Veterans’ Entitlements Act 1986                                                                            96
+Veterans’ Entitlements Act 1986                                                                          101
 
 **Schedule 2—Baby bonus** 
 
-A New Tax System (Family Assistance) Act 1999                                                97
+A New Tax System (Family Assistance) Act 1999                                              102
 
-A New Tax System (Family Assistance) (Administration) Act 1999                97
+A New Tax System (Family Assistance) (Administration) Act 1999              102
 
 **Schedule 3—Northern Territory CDEP transition payment** 
 
-Income Tax Assessment Act 1936                                                                            99
+Income Tax Assessment Act 1936                                                                          104
 
-Social Security Act 1991                                                                                          99
+Social Security Act 1991                                                                                        104
 
-Social Security (Administration) Act 1999                                                        106
+Social Security (Administration) Act 1999                                                        111
 
 **Notes** 
 
@@ -63,6 +71,164 @@ Social Security (Administration) Act 1999             
 ##### <a id="3"></a>3  Schedule(s)
 
                    Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+
+##### <a id="4"></a>4  Racial Discrimination Act—Part 3B of the Social Security (Administration) Act
+
+             (1)  Subsections (2) and (3) apply to:
+
+                     (a)  the provisions of Part 3B of the _Social Security (Administration) Act 1999_; and
+
+                     (b)  any acts done under or for the purposes of:
+
+                              (i)  those provisions; or
+
+                             (ii)  the income management regime;
+
+in relation to:
+
+                     (c)  a person who is, or is potentially, subject to the income management regime under section 123UB of that Act (relevant Northern Territory area); or
+
+                     (d)  a person in the Northern Territory who is, or is potentially, subject to the income management regime under section 123UD or 123UE of that Act (school enrolment and attendance); or
+
+                     (e)  a person who is subject to the income management regime under section 123UF of that Act (Queensland Commission).
+
+             (2)  To the extent that this subsection applies, the provisions referred to in paragraph (1)(a), and any acts referred to in paragraph (1)(b), are, for the purposes of the _Racial Discrimination Act 1975_, special measures.
+
+             (3)  To the extent that this subsection applies, the provisions referred to in paragraph (1)(a), and any acts referred to in paragraph (1)(b), are excluded from the operation of Part II of the _Racial Discrimination Act 1975_.
+
+             (4)  The following are, for the purposes of the _Racial Discrimination Act 1975_, special measures:
+
+                     (a)  any acts done by the Queensland Commission in relation to the giving of:
+
+                              (i)  a notice referred to in paragraph 123UF(1)(b) or (2)(c) of the _Social Security (Administration) Act 1999_; or
+
+                             (ii)  a notice referred to in paragraph 123YM(2)(c) or 123YN(2)(c) of that Act; or
+
+                            (iii)  a direction referred to in section 123ZK of that Act;
+
+                     (b)  any provisions of any laws made by, or any acts done by, Queensland in relation to the establishment or operation of the Queensland Commission.
+
+             (5)  The following are excluded from the operation of Part II of the _Racial Discrimination Act 1975_:
+
+                     (a)  any acts done by the Queensland Commission in relation to the giving of:
+
+                              (i)  a notice referred to in paragraph 123UF(1)(b) or (2)(c) of the _Social Security (Administration) Act 1999_; or
+
+                             (ii)  a notice referred to in paragraph 123YM(2)(c) or 123YN(2)(c) of that Act; or
+
+                            (iii)  a direction referred to in section 123ZK of that Act;
+
+                     (b)  any provisions of any laws made by, or any acts done by, Queensland in relation to the establishment or operation of the Queensland Commission.
+
+Definitions etc.
+
+             (6)  In this section:
+
+                    <a name="queensland-commiss"></a>**_Queensland Commission_** has the meaning given by section 123TC of the _Social Security (Administration) Act 1999_.
+
+             (7)  In this section, a reference to any acts done includes a reference to any failure to do an act.
+
+##### <a id="5"></a>5  Some Queensland and Northern Territory laws excluded—Part 3B of the Social Security (Administration) Act
+
+             (1)  Subsections (2) and (3) apply to:
+
+                     (a)  the provisions of Part 3B of the _Social Security (Administration) Act 1999_; and
+
+                     (b)  any acts done under or for the purposes of:
+
+                              (i)  those provisions; or
+
+                             (ii)  the income management regime;
+
+in relation to:
+
+                     (c)  a person who is, or is potentially, subject to the income management regime under section 123UB of that Act (relevant Northern Territory area); or
+
+                     (d)  a person in the Northern Territory who is, or is potentially, subject to the income management regime under section 123UD or 123UE of that Act (school enrolment and attendance); or
+
+                     (e)  a person who is subject to the income management regime under section 123UF of that Act (Queensland Commission).
+
+             (2)  To the extent that this subsection applies, the provisions referred to in paragraph (1)(a) are intended to apply to the exclusion of a law of Queensland or the Northern Territory that deals with discrimination so far as it would otherwise apply.
+
+             (3)  To the extent that this subsection applies, any acts referred to in paragraph (1)(b) have effect despite any law of Queensland or the Northern Territory that deals with discrimination.
+
+Queensland and Northern Territory laws that are not excluded
+
+             (4)  However, subsections (2) and (3) do not apply to a law of Queensland or the Northern Territory so far as the Minister determines, by legislative instrument, that the law is a law to which subsections (2) and (3) do not apply.
+
+Reference to acts done includes failure to do an act
+
+             (5)  In this section, a reference to any acts done includes a reference to any failure to do an act.
+
+##### <a id="6"></a>6  Racial Discrimination Act—determining terms of relevant activity agreement for approved programs of work for income support
+
+             (1)  Subsections (2) and (3) apply in relation to the implementation of guidelines, or the doing of any other acts, for the purpose of determining the terms of a relevant activity agreement in relation to an approved program of work for income support payment, if the implementation or acts are done in the period:
+
+                     (a)  beginning on 9 July 2007; and
+
+                     (b)  ending 5 years after the commencement of section 1 of the _Northern Territory National Emergency Response Act 2007_.
+
+             (2)  Any such implementation, or other acts, are, for the purposes of the _Racial Discrimination Act 1975_, special measures.
+
+             (3)  Any such implementation, or other acts, are excluded from the operation of Part II of the _Racial Discrimination Act 1975_.
+
+Definitions etc.
+
+             (4)  In this section:
+
+                    <a name="approved-program-work-incom-support-payment"></a>**_approved program of work for income support payment_** has the same meaning as in the _Social Security Act 1991_.
+
+                    <a name="relev-activ-agreem"></a>**_relevant activity agreement_** means:
+
+                     (a)  a Parenting Payment Activity Agreement (within the meaning of the _Social Security Act 1991_); or
+
+                     (b)  a Youth Allowance Activity Agreement (within the meaning of that Act); or
+
+                     (c)  a Newstart Activity Agreement (within the meaning of that Act); or
+
+                     (d)  a Special Benefit Activity Agreement (within the meaning of that Act);
+
+that is in force between the Secretary and a person who is ordinarily resident in a relevant Northern Territory area within the meaning of Part 3B of the _Social Security (Administration) Act 1999_.
+
+Reference to acts done includes failure to do an act
+
+             (5)  In this section, a reference to any acts done includes a reference to any failure to do an act.
+
+##### <a id="7"></a>7  Some Northern Territory laws excluded—determining terms of relevant activity agreement for approved programs of work for income support
+
+             (1)  Subsection (2) applies in relation to the implementation of guidelines, or the doing of any other acts, for the purpose of determining the terms of a relevant activity agreement in relation to an approved program of work for income support payment, if the implementation or acts are done in the period:
+
+                     (a)  beginning on 9 July 2007; and
+
+                     (b)  ending 5 years after the commencement of section 1 of the _Northern Territory National Emergency Response Act 2007_.
+
+             (2)  Any such implementation, or other acts, have effect despite any law of the Northern Territory that deals with discrimination.
+
+Northern Territory laws that are not excluded
+
+             (3)  However, subsection (2) does not apply to a law of the Northern Territory so far as the Minister determines, by legislative instrument, that the law is a law to which subsection (2) does not apply.
+
+Definitions
+
+             (4)  In this section:
+
+                    <a name="approved-program-work-incom-support-payment"></a>**_approved program of work for income support payment_** has the same meaning as in the _Social Security Act 1991_.
+
+                    <a name="relev-activ-agreem"></a>**_relevant activity agreement_** means:
+
+                     (a)  a Parenting Payment Activity Agreement (within the meaning of the _Social Security Act 1991_); or
+
+                     (b)  a Youth Allowance Activity Agreement (within the meaning of that Act); or
+
+                     (c)  a Newstart Activity Agreement (within the meaning of that Act); or
+
+                     (d)  a Special Benefit Activity Agreement (within the meaning of that Act);
+
+that is in force between the Secretary and a person who is ordinarily resident in a relevant Northern Territory area within the meaning of Part 3B of the _Social Security (Administration) Act 1999_.
+
+Reference to acts done includes failure to do an act
+
+             (5)  In this section, a reference to any acts done includes a reference to any failure to do an act.
 
 ###### Schedule 1—Income management regime
 
@@ -3824,54 +3990,27 @@ of Assent</div>
     <div>29 June 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 3, 4): 31 Dec 2010</div>
+    <div>Schedule 1 (items 3, 4): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 4)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010
+ (No. 93, 2010)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Ss. 4–7</div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+The following amendment commences at the end of 31 December 2010:
 
- 
+## Schedule 1
+
+## 3  Sections 4, 5, 6 and 7
+
+Repeal the sections.
+
+As at 29 July 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -3879,6 +4018,8 @@ of Assent</div>
 
 _Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010
  (No. 93, 2010)_
+
+The following provision commences at the end of 31 December 2010:
 
 ## Schedule 1
 
