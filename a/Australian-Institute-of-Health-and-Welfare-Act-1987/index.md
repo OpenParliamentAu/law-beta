@@ -1,17 +1,17 @@
-![](http://www.comlaw.gov.au/Details/C2011C00671/Html/f1e8185b-8e4a-4aa5-9728-2d0ce311d57d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00299/Html/fb9b9cf6-7c89-4113-be8f-c2c0c3555a75_files/image001.gif)
 
 # Australian Institute of Health and Welfare Act 1987
 
 **Act No. 41 of 1987 as amended**
 
-This compilation was prepared on 24 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney‑General’s Department, Canberra
@@ -931,7 +931,7 @@ of Assent</div>
     <div>27 June 1991</div>
   </td>
   <td>
-    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
+    <div>Ss. 4(1), 10(b) and 15‑20: 1 Dec 1988 
 Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
   </td>
@@ -1001,7 +1001,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 195–197): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    <div>Schedule 1 (items 195–197) 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1111,23 +1111,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 174–178) and Schedule 3 (items 10, 11): \[ <i>see </i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -1485,38 +1468,6 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 174  Subsection 9(1)
-
-Omit “(1)”.
-
-## 175  Paragraph 9(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 176  Subsection 9(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 177  At the end of subsection 9(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 178  Subsections 9(2) to (7)
-
-Repeal the subsections.
-
-As at 24 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1541,8 +1492,7 @@ The amendments made by this Part apply to appointments made after the commenceme
 
 * * *
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
- (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
 
 ## Schedule 1
 
@@ -1624,21 +1574,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
