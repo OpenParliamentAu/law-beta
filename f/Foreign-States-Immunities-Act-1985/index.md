@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00145/Html/64dc7c38-2fe7-4411-b567-1d871ab69ea0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00446/Html/ForeignStatesImmunAct1985_WD02_image001.gif)
 
 # Foreign States Immunities Act 1985
 
 **Act No. 196 of 1985 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 25 September 2009
+ taking into account amendments up to Act No. 89 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -152,19 +152,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="court"></a>**_court_** includes a tribunal or other body (by whatever name called) that has functions, or exercises powers, that are judicial functions or powers or are of a kind similar to judicial functions or powers.
 
-                    <a name="depart-foreign-affair"></a>**_Department of Foreign Affairs_** means the Department administered by the Minister who administers the _Diplomatic Privileges and Immunities Act 1967_.
-
                     <a name="diplomat-properti"></a>**_diplomatic property_** means property that, at the relevant time, is in use predominantly for the purpose of establishing or maintaining a diplomatic or consular mission, or a visiting mission, of a foreign State to Australia.
 
                     <a name="foreign-state"></a>**_foreign State_** means a country the territory of which is outside Australia, being a country that is:
 
                      (a)  an independent sovereign state; or
 
-                     (b)  a separate territory (whether or not it is self‑governing) that is not part of an independent sovereign state.
+                     (b)  a separate territory (whether or not it is self-governing) that is not part of an independent sovereign state.
 
                     <a name="initiating-process"></a>**_initiating process_** means an instrument (including a statement of claim, application, summons, writ, order or third party notice) by reference to which a person becomes a party to a proceeding.
 
-                    <a name="law-australia"></a>**_law of Australia_** means:
+                    <a name="australia"></a><a name="law"></a>**_law of_****_Australia_** means:
 
                      (a)  a law in force throughout Australia; or
 
@@ -182,8 +180,6 @@ and includes the principles and rules of the common law and of equity as so in f
 
                              (ii)  under the control of a military authority or defence agency for military or defence purposes.
 
-                    <a name="minist-foreign-affair"></a>**_Minister for Foreign Affairs_** means the Minister who administers the _Diplomatic Privileges and Immunities Act 1967_.
-
                     <a name="proceing"></a>**_proceeding_** means a proceeding in a court but does not include a prosecution for an offence or an appeal or other proceeding in the nature of an appeal in relation to such a prosecution.
 
                     <a name="properti"></a>**_property_** includes a chose in action.
@@ -198,7 +194,7 @@ and includes the principles and rules of the common law and of equity as so in f
 
              (3)  Unless the contrary intention appears, a reference in this Act to a foreign State includes a reference to:
 
-                     (a)  a province, state, self‑governing territory or other political subdivision (by whatever name known) of a foreign State;
+                     (a)  a province, state, self-governing territory or other political subdivision (by whatever name known) of a foreign State;
 
                      (b)  the head of a foreign State, or of a political subdivision of a foreign State, in his or her public capacity; and
 
@@ -212,7 +208,7 @@ but does not include a reference to a separate entity of a foreign State.
 
              (6)  A reference in this Act to the entering of appearance or to the entry of judgment in default of appearance includes a reference to any like procedure.
 
-##### <a id="4"></a>4  External Territories
+##### <a id="4"></a>4  External  Territories
 
                    This Act extends to each external Territory.
 
@@ -288,7 +284,7 @@ before the commencement of this Act.
 
 the foreign State shall not be taken to have submitted to the jurisdiction in the proceeding by reason only of that intervention or step.
 
-           (10)  Where a foreign State has submitted to the jurisdiction in a proceeding, then, subject to the operation of subsection (3), it is not immune in relation to a claim made in the proceeding by some other party against it (whether by way of set‑off, counter‑claim or otherwise), being a claim that arises out of and relates to the transactions or events to which the proceeding relates.
+           (10)  Where a foreign State has submitted to the jurisdiction in a proceeding, then, subject to the operation of subsection (3), it is not immune in relation to a claim made in the proceeding by some other party against it (whether by way of set-off, counter-claim or otherwise), being a claim that arises out of and relates to the transactions or events to which the proceeding relates.
 
            (11)  In addition to any other person who has authority to submit, on behalf of a foreign State, to the jurisdiction:
 
@@ -380,7 +376,7 @@ caused by an act or omission done or omitted to be done in Australia.
 
                      (b)  an obligation of the State that arises out of its interest in, or its possession or use of, property of that kind.
 
-             (2)  A foreign State is not immune in a proceeding in so far as the proceeding concerns an interest of the State in property that arose by way of gift made in   Australia or by succession.
+             (2)  A foreign State is not immune in a proceeding in so far as the proceeding concerns an interest of the State in property that arose by way of gift made in Australia or by succession.
 
              (3)  A foreign State is not immune in a proceeding in so far as the proceeding concerns:
 
@@ -392,7 +388,7 @@ caused by an act or omission done or omitted to be done in Australia.
 
              (1)  A foreign State is not immune in a proceeding in so far as the proceeding concerns:
 
-                     (a)  the ownership of a copyright or the ownership, or the registration or protection in   Australia, of an invention, a design or a trade mark;
+                     (a)  the ownership of a copyright or the ownership, or the registration or protection in Australia, of an invention, a design or a trade mark;
 
                      (b)  an alleged infringement by the foreign State in Australia of copyright, a patent for an invention, a registered trade mark or a registered design; or
 
@@ -454,7 +450,7 @@ then, subject to any inconsistent provision in the agreement, the foreign State 
 
                      (b)  at the time when the cause of action arose, the other ship was in use for commercial purposes.
 
-             (3)  A foreign State is not immune in a proceeding commenced as an action _in rem_ against cargo that was, at the time when the       cause of action arose, a commercial cargo.
+             (3)  A foreign State is not immune in a proceeding commenced as an action _in rem_ against cargo that was, at the time when the    cause of action arose, a commercial cargo.
 
              (4)  The preceding provisions of this section do not apply in relation to the arrest, detention or sale of a ship or cargo.
 
@@ -476,7 +472,7 @@ the foreign State is not immune in a proceeding in so far as the proceeding conc
 
 ##### <a id="21"></a>21  Related proceedings
 
-                   Where, by virtue of the operation of the preceding provisions of this Part, a foreign State is not immune in a proceeding in so far as the proceeding concerns a matter, it is not immune in any other proceeding (including an appeal) that arises out of and relates to the first‑mentioned proceeding in so far as that other proceeding concerns that matter.
+                   Where, by virtue of the operation of the preceding provisions of this Part, a foreign State is not immune in a proceeding in so far as the proceeding concerns a matter, it is not immune in any other proceeding (including an appeal) that arises out of and relates to the first-mentioned proceeding in so far as that other proceeding concerns that matter.
 
 ##### <a id="22"></a>22  Application of Part to separate entities
 
@@ -490,7 +486,7 @@ the foreign State is not immune in a proceeding in so far as the proceeding conc
 
 ##### <a id="24"></a>24  Service through the diplomatic channel
 
-             (1)  Initiating process that is to be served on a foreign State may be delivered to the Attorney‑General for transmission by the Department of Foreign Affairs to the department or organ of the foreign State that is equivalent to that Department.
+             (1)  Initiating process that is to be served on a foreign State may be delivered to the Attorney-General for transmission by the Department of Foreign Affairs to the department or organ of the foreign State that is equivalent to that Department.
 
              (2)  The initiating process shall be accompanied by:
 
@@ -548,7 +544,7 @@ the foreign State is not immune in a proceeding in so far as the proceeding conc
 
 has been effected in accordance with this section on the department or organ of the foreign State that is equivalent to the Department of Foreign Affairs.
 
-             (2)  Where a document is to be served as mentioned in subsection (1), the person in whose favour the judgment was given shall give it, together with a request in accordance with Form 2 in the Schedule, to the Attorney‑General for transmission by the Department of Foreign Affairs to the department or organ of the foreign State that is equivalent to that Department.
+             (2)  Where a document is to be served as mentioned in subsection (1), the person in whose favour the judgment was given shall give it, together with a request in accordance with Form 2 in the Schedule, to the Attorney-General for transmission by the Department of Foreign Affairs to the department or organ of the foreign State that is equivalent to that Department.
 
              (3)  Where the document is delivered to the equivalent department or organ of the foreign State in the foreign State, service shall be taken to have been effected when it is so delivered.
 
@@ -562,7 +558,7 @@ has been effected in accordance with this section on the department or organ of 
 
              (1)  Subject to subsection (2), a court may make any order (including an order for interim or final relief) against a foreign State that it may otherwise lawfully make unless the order would be inconsistent with an immunity under this Act.
 
-             (2)  A court may not make an order that a foreign State employ a person or re‑instate a person in employment.
+             (2)  A court may not make an order that a foreign State employ a person or re-instate a person in employment.
 
 ## Part IV—Enforcement
 
@@ -690,9 +686,9 @@ is or was at a specified time in use for purposes specified in the certificate i
 
 ##### <a id="42"></a>42  Restrictions and extensions of immunities and privileges—general
 
-             (1)  Where the Minister is satisfied that an immunity or privilege conferred by this Act in relation to a foreign State is not accorded by the law of the foreign State in relation to Australia, the Governor‑General may make regulations modifying the operation of this Act with respect to those immunities and privileges in relation to the foreign State.
+             (1)  Where the Minister is satisfied that an immunity or privilege conferred by this Act in relation to a foreign State is not accorded by the law of the foreign State in relation to Australia, the Governor-General may make regulations modifying the operation of this Act with respect to those immunities and privileges in relation to the foreign State.
 
-             (2)  Where the Minister is satisfied that the immunities and privileges conferred by this Act in relation to a foreign State differ from those required by a treaty, convention or other agreement to which the foreign State and Australia are parties, the Governor‑General may make regulations modifying the operation of this Act with respect to those immunities and privileges in relation to the foreign State so that this Act as so modified conforms with the treaty, convention or agreement.
+             (2)  Where the Minister is satisfied that the immunities and privileges conferred by this Act in relation to a foreign State differ from those required by a treaty, convention or other agreement to which the foreign State and Australia are parties, the Governor-General may make regulations modifying the operation of this Act with respect to those immunities and privileges in relation to the foreign State so that this Act as so modified conforms with the treaty, convention or agreement.
 
              (3)  Regulations made under subsection (1) or (2) that are expressed to extend or restrict an immunity from the jurisdiction may be expressed to extend to a proceeding that was instituted before the commencement of the regulations and has not been finally disposed of.
 
@@ -712,13 +708,13 @@ is or was at a specified time in use for purposes specified in the certificate i
 
                      (b)  for the purposes of preparing for, preventing or managing emergencies or disasters (whether natural or otherwise) in Australia.
 
-             (2)  The Governor‑General may make regulations excluding or modifying the application of section 13 (personal injury and damage to property) with respect to the foreign State (or the separate entity of the foreign State) in relation to acts or omissions done or omitted to be done by the foreign State (or the entity) in the course of the provision of the assistance or facilities.
+             (2)  The Governor-General may make regulations excluding or modifying the application of section 13 (personal injury and damage to property) with respect to the foreign State (or the separate entity of the foreign State) in relation to acts or omissions done or omitted to be done by the foreign State (or the entity) in the course of the provision of the assistance or facilities.
 
 Note:          Section 22 applies section 13 to a separate entity of a foreign State.
 
 ##### <a id="43"></a>43  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -732,7 +728,7 @@ _Section 24_
 
 _Request For Service Of Originating Process On A Foreign State_
 
-TO: The Attorney‑General of the Commonwealth
+TO: The Attorney-General of the Commonwealth
 
       A proceeding has been commenced in (_name of court, tribunal, etc._) against (_here insert name of foreign State_).
 
@@ -768,7 +764,7 @@ _Section 28_
 
 _Request For Service Of Default Judgment On A Foreign State_
 
-TO: The Attorney‑General of the Commonwealth
+TO: The Attorney-General of the Commonwealth
 
       In a proceeding in (_name of court, tribunal, etc._), a judgment in default of appearance has been given against (_name of foreign State_).
 
@@ -778,7 +774,7 @@ TO: The Attorney‑General of the Commonwealth
 
       (a)  a copy of the judgment, authenticated as required by that Act;
 
-      (b)  * a translation of the judgment into (_name of language_), an official language of the foreign State; and
+      (b)   * a translation of the judgment into (_name of language_), an official language of the foreign State; and
 
       (c)  * a certificate signed by the translator,
 
@@ -786,7 +782,7 @@ and it is requested that the judgment, * the translation and the certificate be 
 
 It is further requested that, when service of the judgment and other documents has been effected on the foreign State in accordance with that Act, the Minister for Foreign Affairs certify accordingly under section 40 of that Act, and forward the certificate to (_name and address of person to whom certificate of service should be forwarded_).
 
-DATED this                        day of               19    
+DATED this                        day of               19    
 
 (_signature of judgment creditor_)
 
@@ -846,7 +842,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1–17, 18(1), 
-(3)–(5) and 19–43: 1 Apr 1986 ( <i>see Gazette</i>1986, No. S128) 
+(3)–(5) and 19–43: 1 Apr 1986 ( <i>see Gazette</i>1986, No. S128) 
 S. 18(2): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S359)</div>
   </td>
   <td>
@@ -886,23 +882,6 @@ S. 18(2): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S359)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 30, 31): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Foreign States Immunities Act 1985_ was amended by section 3 of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
@@ -928,22 +907,6 @@ _(a)_     The _Foreign States Immunities Act 1985_ was amended by sectio
   </td>
   <td>
     <div>How affected</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
