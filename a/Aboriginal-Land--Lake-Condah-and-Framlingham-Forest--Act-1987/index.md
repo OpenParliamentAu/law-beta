@@ -2,9 +2,12 @@
 
 **Act No. 34 of 1987 as amended**
 
-Consolidated as in force on 1 September 1999
+Consolidated as in force on 18 June 1999
 
 (includes amendments up to Act No. 7 of 1999)
+
+This Act has uncommenced amendments
+ For uncommenced amendments, see the endnotes
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -25,7 +28,7 @@ Prepared by the Office of Legislative Drafting,
 
 5             Delegation                                                                                            8
 
-**Part II—Vesting of Condah land and Framlingham Forest** 
+**Part II—Vesting of Condah land and Framlingham Forest**
 
 6             Vesting of Condah land                                                                      10
 
@@ -35,7 +38,7 @@ Prepared by the Office of Legislative Drafting,
 
 9             Notice to owners                                                                               11
 
-10           Registration of vesting                                                                       11
+10           Registration of vesting [_see_ Note 2]                                                  11
 
 11           Compensation                                                                                    12
 
@@ -119,6 +122,8 @@ Prepared by the Office of Legislative Drafting,
 
 **Notes** 
 
+ 
+
 ## An Act to provide for the vesting in certain Aboriginal communities of certain land at Lake Condah and Framlingham owned by the State of Victoria, and for related purposes
 
 **Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
@@ -199,7 +204,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="crown"></a>**_Crown_** means the Crown in right of the Commonwealth or of the State of Victoria, or of both, as the case requires.
 
-                    <a name="dai-vest"></a>**_day of vesting_**, in relation to a Corporation, means the day on which the relevant land is vested in the Corporation under section 6 or 7.
+                    <a name="dai-vest"></a>**_day of vesting_**, in relation to a Corporation, means the day on which the relevant land is vested in the Corporation under section 6 or 7.
 
                     <a name="framlingham-forest"></a>**_Framlingham Forest_** means the land shown shaded and hatched on the plan in Schedule 2.
 
@@ -213,9 +218,9 @@ Prepared by the Office of Legislative Drafting,
 
                      (b)  a right, power or privilege over, or in connection with, the land.
 
-                    <a name="kerrup-jmara-elder-aborigin-corpor"></a>**_Kerrup-Jmara Elders Aboriginal Corporation_** means the body that is known as the Kerrup-Jmara Elders Aboriginal Corporation and is incorporated under the _Aboriginal Councils and Associations Act 1976_.
+                    <a name="kerrup-jmara-elder-aborigin-corpor"></a>**_Kerrup-Jmara Elders Aboriginal Corporation_**  means the body that is known as the Kerrup-Jmara Elders Aboriginal Corporation and is incorporated under the _Aboriginal Councils and Associations Act 1976_.
 
-                    <a name="kirra-whurrong-aborigin-corpor"></a>**_Kirrae Whurrong Aboriginal Corporation_** means the body that is known as the Kirrae Whurrong Aboriginal Corporation and is incorporated under the _Aboriginal Councils and Associations Act 1976_.
+                    <a name="kirra-whurrong-aborigin-corpor"></a>**_Kirrae Whurrong Aboriginal Corporation_** means the body that is known as the Kirrae Whurrong Aboriginal Corporation and is incorporated under the _Aboriginal Councils and Associations Act 1976_.
 
                     <a name="miner"></a>**_mineral_** means any substance (except water) that occurs naturally as part of the earth’s crust, including:
 
@@ -349,19 +354,19 @@ is converted into a right to compensation under this Act.
 
 service on that owner may be effected by causing a copy of the notice of vesting to be published in a newspaper circulating in the district in which the relevant land is situated.
 
-##### <a id="10"></a>10  Registration of vesting
+##### <a id="10"></a>10  Registration of vesting [_see_ Note 2]
 
-             (1)  After the commencement of section 6 or 7, as the case may require, the Chief Executive Officer of the Aboriginal and Torres Strait Islander Commission  shall lodge with the Registrar-General for Victoria or other proper officer of Victoria a copy of the notice of vesting referred to in section 9, certified by writing signed by the Chief Executive Officer of the Aboriginal and Torres Strait Islander Commission.
+             (1)  After the commencement of section 6 or 7, as the case may require, the Secretary to the Attorney-General’s Department or a person authorised under subsection 55E(4) of the _Judiciary Act 1903_ shall lodge with the Registrar-General for Victoria or other proper officer of Victoria a copy of the notice of vesting referred to in section 9, certified by writing signed by the Secretary or a person so authorised.
 
              (2)  The officer with whom the copy of a notice of vesting is lodged in pursuance of subsection (1) may register the acquisition in the manner as nearly as may be in which dealings with land are registered, and may deal with and give effect to the copy of the notice of acquisition as if it were a grant, conveyance, memorandum or instrument of transfer of the land to the Corporation duly executed under the laws in force in Victoria.
 
 ##### <a id="11"></a>11  Compensation
 
-                   In spite of the repeal of the _Lands Acquisition Act 1955_, Part IV of that Act applies in relation to interests in the Condah land or Framlingham Forest that have been vested in the Corporation by force of this Act as if the land had been acquired by compulsory process under the _Lands Acquisition Act 1955_ on the commencement of section 6 or 7, as the case may require, and as if the right to compensation under section 8 of this Act were a right to compensation under section 11 of the _Lands Acquisition Act 1955_.
+                   In spite of the repeal of the _Lands Acquisition Act 1955_, Part IV of that Act applies in relation to interests in the Condah land or Framlingham Forest that have been vested in the Corporation by force of this Act as if the land had been acquired by compulsory process under the _Lands Acquisition Act 1955_ on the commencement of section 6 or 7, as the case may require, and as if the right to compensation under section 8 of this Act were a right to compensation under section 11 of the _Lands Acquisition Act 1955_.
 
 ##### <a id="12"></a>12  Miscellaneous
 
-                   In spite of the repeal of the _Lands Acquisition Act 1955_, sections 13, 55, 58, 59 and 62 of that Act apply in relation to interests in the Condah land or Framlingham Forest that have been vested in the Corporation by force of this Act as if the land had been acquired by compulsory process under the _Lands Acquisition Act 1955_ on the commencement of section 6 or 7, as the case requires.
+                   In spite of the repeal of the _Lands Acquisition Act 1955_, sections 13, 55, 58, 59 and 62 of that Act apply in relation to interests in the Condah land or Framlingham Forest that have been vested in the Corporation by force of this Act as if the land had been acquired by compulsory process under the _Lands Acquisition Act 1955_ on the commencement of section 6 or 7, as the case requires.
 
 ## Part III—Management of Condah land
 
@@ -449,7 +454,7 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
                      (b)  if a site is known to exist but has not been specifically identified, the boundaries of the site as it is known to exist.
 
-             (2)  The Kerrup-Jmara Elders Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents (otherwise than for the purposes of Part IIA of the _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_) without the permission of the Governing Committee.
+             (2)  The Kerrup-Jmara Elders Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents (otherwise than for the purposes of Part IIA of the _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_) without the permission of the Governing Committee.
 
              (3)  The Governing Committee shall make the register available to the Minister, if he or she so requests, for the purposes of considering the making of a declaration under paragraph 30(2)(c).
 
@@ -461,7 +466,7 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
              (1)  The powers of the Kerrup-Jmara Committee of Elders are:
 
-                     (a)  subject to the _Aboriginal Councils and Associations Act 1976_, to declare a specified person to be eligible to be a member of the Kerrup-Jmara Elders Aboriginal Corporation or any body created by that Corporation;
+                     (a)  subject to the _Aboriginal Councils and Associations Act 1976_, to declare a specified person to be eligible to be a member of the Kerrup-Jmara Elders Aboriginal Corporation or any body created by that Corporation;
 
                      (b)  to determine anything with respect to:
 
@@ -595,13 +600,13 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
                      (b)  if a site is known to exist but has not been specifically identified, the boundaries of the site as it is known to exist.
 
-             (2)  The Kirrae Whurrong Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents (otherwise than for the purposes of Part IIA of the _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_) without the permission of the Community Council.
+             (2)  The Kirrae Whurrong Aboriginal Corporation shall keep the register in a manner that is appropriate to prevent disclosure of its contents (otherwise than for the purposes of Part IIA of the _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_) without the permission of the Community Council.
 
              (3)  The Community Council shall make the register available to the Minister, if he or she so requests, for the purposes of considering the making of a declaration under paragraph 30(2)(c).
 
 ##### <a id="25"></a>25  Membership
 
-             (1)  A person is eligible to be a member of the Kirrae Whurrong Aboriginal Corporation if, and only if, the person has resided on Framlingham Reserve for a continuous period of more than 12 months (whether before or after, or before and after, the commencement of this subsection).
+             (1)  A person is eligible to be a member of the Kirrae Whurrong Aboriginal Corporation if, and only if, the person has resided on Framlingham Reserve for a continuous period of more than 12 months (whether before or after, or before and after, the commencement of this subsection).
 
              (2)  At least one-half of the members of the Community Council shall be persons who are residents of the Framlingham Reserve.
 
@@ -757,7 +762,7 @@ the person shall, within 14 days after agreeing to the conditions, notify the Mi
 
              (1)  If an applicant under section 31 notifies the Minister that the Corporation has granted permission on any conditions to which the applicant objects, or has refused permission, the Minister shall arrange to meet with the Corporation and the applicant to attempt to resolve the matter by conciliation.
 
-             (2)  If, at the end of the conciliation proceedings, the conciliation is unsuccessful, the applicant and the Corporation shall, within 60 days thereafter, appoint an arbitrator to review the decision of the Corporation.
+             (2)  If, at the end of the conciliation proceedings, the conciliation is unsuccessful, the applicant and the Corporation shall, within 60 days thereafter, appoint an arbitrator to review the decision of the Corporation.
 
              (3)  If:
 
@@ -908,17 +913,19 @@ a body nominated by that Minister that is representative of Aboriginals and is e
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
+
+ 
 # Schedule 1—Land in the Parish of Condah to be vested in the Kerrup-Jmara Elders Aboriginal Corporation
 
 _Section 6_
 
 ## Part A
 
-![](http://www.comlaw.gov.au/Details/C2004C01556/Html/AboLandLakeConFramFo_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01555/Html/AboLandLCFF_image002.gif)
 
 ## Part B 
 
-![](http://www.comlaw.gov.au/Details/C2004C01556/Html/AboLandLakeConFramFo_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01555/Html/AboLandLCFF_image003.gif)
 
 # Schedule 2—Land in the Parish of Purnim to be vested in the Kirrae Whurrong Aboriginal Corporation
 
@@ -926,11 +933,9 @@ _Section 7_
 
 ## <span style="font-size:11.0pt;display:none">Do not delete</span> : <span class="CharPartText">Part placeholder</span>
 
-![](http://www.comlaw.gov.au/Details/C2004C01556/Html/AboLandLakeConFramFo_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01555/Html/AboLandLCFF_image004.gif)
 
 # Notes to the _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_
-
-### Note 1
 
 The _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_ as shown in this consolidation comprises Act No. 34, 1987 amended as indicated in the Tables below. 
 
@@ -1010,7 +1015,7 @@ Remainder: 1 July 1987 ( <i>see Gazette</i>1987, No. S157)</div>
     <div>20 Apr 1989</div>
   </td>
   <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S186)</div>
+    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i> 1989, No. S186)</div>
   </td>
   <td>
     <div>—</div>
@@ -1078,17 +1083,22 @@ Remainder: 1 July 1987 ( <i>see Gazette</i>1987, No. S157)</div>
     <div>31 Mar 1999</div>
   </td>
   <td>
-    <div>Schedules 1-3: 1 Sept 1999 ( <i>see Gazette</i>1999, No. S395) 
-Remainder: Royal Assent</div>
+    <div>Schedule 3 (items 3 and 4): ( <i>see (b)</i>and Note 2)</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     The _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_ was amended by Schedule 2 (items 94-112) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(a)_     The _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_ was amended by Schedule 2 (items 94-112) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                   (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(b)_    The _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_  was amended by Schedule 3 (items 3 and 4) only of the _Judiciary Amendment Act 1999_, subsections 2(2) and (3) of which provide as follows:
+
+                  (2)   Subject to subsection (3), the items of Schedules 1, 2 and 3 commence on a day or days to be fixed by Proclamation.
+
+                  (3)   If an item to which subsection (2) applies does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. [_see_ Note 2]
 
 ## Table of Amendments
 
@@ -1125,14 +1135,6 @@ _(a)_     The _Aboriginal Land (Lake Condah and Framlingham Forest) Act 
   </td>
   <td>
     <div>am. No. 150, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1199,5 +1201,27 @@ _(a)_     The _Aboriginal Land (Lake Condah and Framlingham Forest) Act 
     <div>am. No. 152, 1997</div>
   </td>
 </tr></table>
+
+### Note 2
+
+The _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_ was amended by Schedule 3 (items 3 and 4) only of the _Judiciary Amendment Act 1999_. The applicable provisions provide as follows: 
+
+## Schedule 2
+
+## 3  Subsection 10(1)
+
+Omit all the words from and including “Secretary” to and including “_Judiciary Act 1903_”, substitute “Chief Executive Officer of the Aboriginal and Torres Strait Islander Commission”.
+
+## 4  Subsection 10(1)
+
+Omit “Secretary or a person so authorised”, substitute “Chief Executive Officer of the Aboriginal and Torres Strait Islander Commission”.
+
+Subsections 2(2) and (3) of the _Judiciary Amendment Act 1999_ provides as follows:
+
+             (2)  Subject to subsection (3), the items of Schedules 1, 2 and 3 commence on a day or days to be fixed by Proclamation.
+
+             (3)  If an item to which subsection (2) applies does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+
+As at 18 June 1999 no date had been fixed and the amendments are not incorporated in the consolidation.
 
  
