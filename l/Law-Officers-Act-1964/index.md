@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00012/Html/LawOfficers64_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00374/Html/LawOfficers64_WD02_image001.gif)
 
 # Law Officers Act 1964
 
 **Act No. 91 of 1964 as amended**
 
-This compilation was prepared on 1 January 2009
- taking into account amendments up to Act No. 134 of 2008
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -230,7 +230,7 @@ whether or not he or she would, but for this section, be entitled to practise in
 
        (1AA)  This section does not apply in relation to a person appointed as Solicitor-General after 31 December 1997.
 
-             (1)  Subject to this section, the provisions of the _Judges’ Pensions Act 1968_ other than subsection 4(2) (including the provisions relating to spouses and children) apply to and in relation to a person who is or has been a Solicitor-General as though the Solicitor-General were or had been a Judge and as though his or her service (whether in continuous periods or not) as Solicitor-General were service as a Judge.
+             (1)  Subject to this section, the provisions of the _Judges’ Pensions Act 1968_ other than subsection 6(3) (including the provisions relating to widows and children) apply to and in relation to a person who is or has been a Solicitor-General as though the Solicitor-General were or had been a Judge and as though his or her service (whether in continuous periods or not) as Solicitor-General were service as a Judge.
 
              (2)  If a person becomes a Judge and, at any time before his or her appointment as a Judge, he or she held office as Solicitor-General, the period of his or her service as Solicitor-General shall, for the purposes of sections 6 and 7 of the _Judges’ Pensions Act 1968,_ be added to, and be deemed to be part of, his or her period of service as a Judge and:
 
@@ -284,7 +284,7 @@ reduced by 2.5% for each whole year between:
 
         (11A)  For the purposes of this section, the **_appropriate current salary_** in relation to a person at a particular time (the **_calculation time_**) is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2009C00012/Html/LawOfficers64_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00374/Html/LawOfficers64_WD02_image002.gif)
 
 For the purposes of the calculation:
 
@@ -333,8 +333,6 @@ For the purposes of the calculation:
 ### Note 1
 
 The _Law Officers Act 1964_ as shown in this compilation comprises Act No. 91, 1964 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 4 December 2008 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -658,24 +656,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
-  </td>
-  <td>
-    <div>134, 2008</div>
-  </td>
-  <td>
-    <div>4 Dec 2008</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 2 (items 27, 28): 1 Jan 2009 ( <i>see</i>F2008L04609)</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 2 (item 28) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Law Officers Act 1964_ was amended by sections 3 and 4 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsections 2(1) and (9) of which provide as follows:
@@ -876,7 +856,7 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 152, 1968; No. 91, 1983; No. 65, 1985; No. 120,1988; No. 136, 1991; No. 141, 1994; No. 39, 1998; Nos. 73 and 134, 2008</div>
+    <div>am. No. 152, 1968; No. 91, 1983; No. 65, 1985; No. 120,1988; No. 136, 1991; No. 141, 1994; No. 39, 1998; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -927,75 +907,5 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
     <div>ad. No. 65, 1985</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
-
-##### <a id="4"></a>4  Entitlements from 1 July 2008
-
-             (1)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under an Act that is amended by Schedule 1, 2, 3 or 5 to this Act if the relevant Schedule had commenced on 1 July 2008; and
-
-                     (b)  because the Schedule did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (2)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Military Superannuation and Benefits Act 1991_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (3)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Superannuation Act 1990_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (4)  A determination by the Finance Minister under this subsection must:
-
-                     (a)  be in writing; and
-
-                     (b)  set out:
-
-                              (i)  the amount and timing of the replacement payments; or 
-
-                             (ii)  the method of determining the amount and timing of the replacement payments.
-
-             (5)  An application must be in writing in the form approved by the Finance Minister.
-
-             (6)  To avoid doubt, a determination of the Finance Minister that a person is entitled to one or more replacement payments does not affect the entitlements of any other person under an Act amended by Schedule 1, 2, 3 or 5 to this Act, the _Military Superannuation and Benefits Act 1991_ or the _Superannuation Act 1990_.
-
-             (7)  Replacement payments are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-             (8)  A determination made under this section  is not a legislative instrument.
-
-             (9)  In this section:
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-## Schedule 2
-
-## 28  Application of amendments of the _Law Officers Act 1964_
-
-The amendments of the _Law Officers Act 1964_ made by this Schedule apply in relation to any pension payable under section 16 of that Act because of the application of the _Judges’ Pensions Act 1968_ in respect of a person who:
-
-                     (a)  was appointed as Solicitor-General before 1 January 1998; and
-
-                     (b)  dies on or after the commencement of this Schedule.
 
  
