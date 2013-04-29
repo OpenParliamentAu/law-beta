@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2004C03048/Html/CorpFees2001_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03047/Html/CorpFees2001_image001.gif)
 
 # Corporations (Fees) Act 2001
 
 **Act No. 52 of 2001 as amended**
 
-This compilation was prepared on 1 July 2003
+This compilation was prepared on 2 May 2002
  taking into account amendments up to Act No. 22 of 2003
 
 The text of any of those amendments not in force 
@@ -18,25 +18,23 @@ Prepared by the Office of Legislative Drafting,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Application to the Crown
+[3](#3).            Application to the Crown                                                                   1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           1
 
-[5](#5).            Imposition of fees for chargeable matters
+[5](#5).            Imposition of fees for chargeable matters                                            2
 
-[5A](#5A).         Differential fees for electronic compliance in relation to a chargeable matter
+[6](#6).            Matters relating to amount of fees                                                      3
 
-[6](#6).            Matters relating to amount of fees
+[7](#7).            Who is liable to pay the fee for a chargeable matter, and time liability is incurred  3
 
-[7](#7).            Who is liable to pay the fee for a chargeable matter, and time liability is incurred
+[8](#8).            Regulations                                                                                          6
 
-[8](#8).            Regulations
-
-[9](#9).            Transitional matters
+[9](#9).            Transitional matters                                                                             6
 
 **Notes** 
 
@@ -100,15 +98,11 @@ Prepared by the Office of Legislative Drafting,
 
              (3)  2 or more fees may be prescribed for the same chargeable matter.
 
-##### <a id="5A"></a>5A  Differential fees for electronic compliance in relation to a chargeable matter
-
-                   The regulations may prescribe, in relation to a chargeable matter, different fees having regard to whether the matter is complied with by electronic means.
-
 ##### <a id="6"></a>6  Matters relating to amount of fees
 
              (1)  The regulations may prescribe a fee for a chargeable matter:
 
-                     (a)  by specifying an amount (not exceeding $10,000) as the fee; or
+                     (a)  by specifying an amount (not exceeding $5,000) as the fee; or
 
                      (b)  by specifying a method for calculating the amount of the fee.
 
@@ -116,7 +110,7 @@ Note:          The limitation in paragraph (a) applies separ
 
              (2)  The fee for a chargeable matter need not bear any relationship to the cost of providing any service that forms part of, or is related to, that matter.
 
-             (3)  The fee, or the sum of the fees, for a chargeable matter must not exceed $50,000, except for a chargeable matter referred to in paragraph (k) or (l) of the definition of **_chargeable matter_** in subsection 4(1).
+             (3)  The fee, or the sum of the fees, for a chargeable matter must not exceed $25,000, except for a chargeable matter referred to in paragraph (k) or (l) of the definition of **_chargeable matter_** in subsection 4(1).
 
              (4)  The fee, or the total of the fees, for chargeable matters referred to in paragraph (k) of the definition of that term in subsection 4(1) that relate to a particular market licensee must not exceed $100,000 in respect of each period of 12 months during which ASIC performs functions referred to in that paragraph in relation to that market licensee.
 
@@ -202,7 +196,7 @@ Note:          The limitation in paragraph (a) applies separ
 
 ##### <a id="8"></a>8  Regulations
 
-                   The Governor-General may make regulations for the purposes of sections 5, 5A and 6.
+                   The Governor-General may make regulations for the purposes of sections 5 and 6.
 
 ##### <a id="9"></a>9  Transitional matters
 
@@ -305,7 +299,7 @@ of Assent</div>
     <div>11 Apr 2003</div>
   </td>
   <td>
-    <div>1 July 2003</div>
+    <div>\[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -345,35 +339,41 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 5A</div>
+    <div>Ss. 6, 7</div>
   </td>
   <td>
-    <div>ad. No. 22, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 107, 2001; No. 22, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 107, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 22, 2003</div>
+    <div>am. No. 107, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Corporations (Fees) Amendment Act 2003 (No. 22, 2003)_
+
+The following amendments commence on 1 July 2003:
+
+## Schedule 1
+
+## 1  After section 5
+
+Insert:
+
+##### <a id="5A"></a>5A  Differential fees for electronic compliance in relation to a chargeable matter
+
+                   The regulations may prescribe, in relation to a chargeable matter, different fees having regard to whether the matter is complied with by electronic means.
+
+## 2  Paragraph 6(1)(a)
+
+Omit “$5,000”, substitute “$10,000”.
+
+## 3  Subsection 6(3)
+
+Omit “$25,000”, substitute “$50,000”.
+
+## 4  Section 8
+
+Omit “sections 5 and 6”, substitute “sections 5, 5A and 6”.
+
+As at 2 May 2003 the amendments are not incorporated in this compilation.
 
  
