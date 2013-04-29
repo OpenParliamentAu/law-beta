@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00394/Html/CivilAviat1988_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00264/Html/CivilAviat1988_WD02_image001.gif)
 
 # Civil Aviation Act 1988
 
 **Act No. 63 of 1988 as amended**
 
-This compilation was prepared on 5 August 2009
- taking into account amendments up to Act No. 70 of 2009
+This compilation was prepared on 1 July 2009
+ taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -932,7 +932,7 @@ CASA must, as soon as practicable, publish a _Gazette_ notice setting out partic
 
                      (b)  any other person employed by the Crown.
 
-##### <a id="6"></a>6  Extension to external Territories
+##### <a id="6"></a>6  Extension to external Territories
 
                    This Act extends to all the external Territories.
 
@@ -3281,7 +3281,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
           (1A)  An application under subsection (1) can only be made for the purpose of finding out whether the Civil Aviation Act 1990 of New Zealand, and the regulations and rules made under that Act (the **_New Zealand legislation_**), are being complied with if a request has been made to CASA, in accordance with the ANZA mutual recognition agreements, for the exercise of powers under this Part in relation to that legislation.
 
-             (2)  Subject to subsection (3), the magistrate may issue the warrant if satisfied, by information on oath, that it is reasonably necessary that the investigator should have access to the premises for the purpose of finding out whether the civil aviation legislation or the New   Zealand legislation is being complied with.
+             (2)  Subject to subsection (3), the magistrate may issue the warrant if satisfied, by information on oath, that it is reasonably necessary that the investigator should have access to the premises for the purpose of finding out whether the civil aviation legislation or the New Zealand legislation is being complied with.
 
              (3)  The magistrate must not issue the warrant unless the investigator or someone else has given the magistrate, either orally or by affidavit, any further information the magistrate may require about the grounds on which the issue of the warrant is being sought.
 
@@ -3625,7 +3625,7 @@ the investigator or the person assisting him or her must, if requested to do so 
 
                      (b)  possession of the document, film, computer file, thing or information by the occupier could constitute an offence.
 
-##### <a id="32AHM"></a>32AHM  Receipts of things seized under warrant
+##### <a id="32AHM"></a>32AHM  Receipts of things seized under warrant
 
              (1)  If a thing is seized, as allowed by section 32AH, the investigator executing the warrant or person assisting him or her must provide a receipt for the thing.
 
@@ -3725,7 +3725,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  the person has refused to take possession of the goods.
 
-##### <a id="32AM"></a>32AM  Compensation for acquisition of property
+##### <a id="32AM"></a>32AM  Compensation for acquisition of property
 
              (1)  If:
 
@@ -4953,7 +4953,7 @@ Note:          See also Part 2 of Schedule 1 to the _Civil
 
 Note:          See also Part 2 of Schedule 1 to the _Civil Aviation Amendment Act 2005_.
 
-          (6C)  CASA must consult the Australian Human Rights Commission about any proposal that regulations be made containing provisions that are inconsistent as mentioned in subsection (6A) or (6B). However, a failure to consult the Commission does not affect the validity of any regulations so made.
+          (6C)  CASA must consult the Human Rights and Equal Opportunity Commission about any proposal that regulations be made containing provisions that are inconsistent as mentioned in subsection (6A) or (6B). However, a failure to consult the Commission does not affect the validity of any regulations so made.
 
              (7)  A law of a Territory (not being a law of the Commonwealth) does not have effect to the extent to which it is inconsistent with a provision of the regulations having effect in that Territory, but such a law shall not be taken to be inconsistent with such a provision to the extent that it is capable of operating concurrently with that provision.
 
@@ -5968,23 +5968,6 @@ Schedule 1 (items 10, 11): 1 July 2009</div>
   </td>
   <td>
     <div>Schedule 2 (item 14): 23 May 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Disability Discrimination and Other Human Rights Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>70, 2009</div>
-  </td>
-  <td>
-    <div>8 July 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 15): 5 Aug 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -10650,7 +10633,7 @@ of Div. 2 of Part IIIA</div>
     <div>S. 98 ...................................</div>
   </td>
   <td>
-    <div>am. No. 25, 1990; Nos. 11, 101 and 173, 1991; No. 216, 1992; No. 5, 1994; No. 82, 1995; No. 130, 1997; No. 8\. 2000; No. 105, 2003; No. 149, 2004; No. 86, 2005; Nos. 102 and 109, 2006; No. 39, 2007; No. 87, 2008; Nos. 19 and 70, 2009</div>
+    <div>am. No. 25, 1990; Nos. 11, 101 and 173, 1991; No. 216, 1992; No. 5, 1994; No. 82, 1995; No. 130, 1997; No. 8\. 2000; No. 105, 2003; No. 149, 2004; No. 86, 2005; Nos. 102 and 109, 2006; No. 39, 2007; No. 87, 2008; No. 19, 2009</div>
   </td>
 </tr>
 <tr>
