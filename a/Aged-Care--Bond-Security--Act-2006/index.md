@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00074/Html/AgeCareBondSecur2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00060/Html/AgeCareBondSecur2006_image001.gif)
 
 # Aged Care (Bond Security) Act 2006
 
 **Act No. 26 of 2006 as amended**
 
-This compilation was prepared on 20 March 2008
+This compilation was prepared on 21 February 2008
  taking into account amendments up to Act No. 1 of 2008
 
 The text of any of those amendments not in force
@@ -188,7 +188,7 @@ The Commonwealth may recoup certain costs it incurs from other approved provider
 
              (1)  This Act applies in all the States and Territories.
 
-             (2)  However, this Act does not apply in any external Territory, except the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands.
+             (2)  However, this Act does not apply in any external Territory.
 
 ##### <a id="5"></a>5  Binding the Crown
 
@@ -611,51 +611,25 @@ Remainder: Royal Assent</div>
     <div>18 Feb 2008</div>
   </td>
   <td>
-    <div>Schedule 2: 20 Mar 2008</div>
+    <div>Schedule 2: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_Aged Care Amendment (2008 Measures No. 1) Act 2008 (No. 1, 2008)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 1, 2008</div>
-  </td>
-</tr></table>
+The following amendment commences on 20 March 2008:
+
+## Schedule 2
+
+## 1  At the end of subsection 4(2)
+
+Add “, except the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands”.
+
+As at 21 February 2008 the amendment is not incorporated in this compilation.
 
  
