@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00908/Html/ab0b6d2d-2193-40ae-916f-327589be094c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00174/Html/c8510ac5-2264-4e6b-b75c-ba14cf850dfb_files/image001.gif)
 
 # Aircraft Noise Levy Act 1995
 
 **Act No. 97 of 1995 as amended**
 
-This compilation was prepared on 13 December 2012
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -69,17 +70,13 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                               (i)  a purpose that relates to the provision of emergency services and that is prescribed by the regulations; or
 
-                             (ii)  subject to any conditions prescribed by the regulations—the purpose of carrying goods or people for a registered charity in relation to the charitable activities of the registered charity.
-
-             (3)  In this Act:
-
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
+                             (ii)  a charitable purpose prescribed by the regulations.
 
 ##### <a id="6"></a>6  Amount of levy
 
              (1)  The amount of levy on a landing is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00908/Html/ab0b6d2d-2193-40ae-916f-327589be094c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00174/Html/c8510ac5-2264-4e6b-b75c-ba14cf850dfb_files/image002.gif)
 
 where:
 
@@ -175,24 +172,7 @@ of Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 146, 147): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 2): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -227,7 +207,23 @@ of Assent</div>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 8, 2010; No. 169, 2012</div>
+    <div>am. No. 8, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr></table>
 
