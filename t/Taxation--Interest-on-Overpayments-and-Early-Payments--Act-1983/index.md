@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00452/Html/10ae9896-1ef4-45e8-a441-b49385b0153f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00872/Html/TaxnIntOverPEarlyP1983WD02_image001.gif)
 
 # Taxation (Interest on Overpayments and Early Payments) Act 1983
 
 **Act No. 12 of 1983 as amended**
 
-This compilation was prepared on 29 June 2011
- taking into account amendments up to Act No. 41 of 2011
+This compilation was prepared on 24 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -54,9 +54,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8F](#8F).          Interest period—ordinary taxpayers
 
-[8G](#8G).         Entitlement to interest—full self‑assessment taxpayers
+[8G](#8G).         Entitlement to interest—full self-assessment taxpayers
 
-[8H](#8H).         Interest period—full self‑assessment taxpayer
+[8H](#8H).         Interest period—full self-assessment taxpayer
 
 [8I](#8I).           Rate of interest
 
@@ -80,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8S](#8S).          Period of interest
 
-[8T](#8T).          Rate of interest
+[8T](#8T).         Rate of interest
 
 **Part IIE—Interest on overpayments resulting from certain amendments of assessments made under the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997**
 
@@ -96,17 +96,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8Y](#8Y).         Interpretation
 
-[8Z](#8Z).          Entitlement to interest
+[8Z](#8Z).         Entitlement to interest
 
-[8ZA](#8ZA).       Period of interest
+[8ZA](#8ZA).      Period of interest
 
 [8ZB](#8ZB).       Rate of interest
 
-**Part IIG—Interest on certain amounts of tax on no‑TFN contributions income of superannuation providers**
+**Part IIG—Interest on certain amounts of tax on no-TFN contributions income of superannuation providers**
 
 [8ZC](#8ZC).       Interpretation
 
-[8ZD](#8ZD).       Entitlement to interest
+[8ZD](#8ZD).      Entitlement to interest
 
 [8ZE](#8ZE).       Period of interest
 
@@ -188,11 +188,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  a decision of the kind referred to in paragraph (b); or
 
-                  (caa)  a decision under Subdivision 263‑A (about foreign revenue claims) in Schedule 1 to the _Taxation Administration Act 1953_; or
+                  (caa)  a decision under Subdivision 263-A (about foreign revenue claims) in Schedule 1 to the _Taxation Administration Act 1953_; or
 
                     (ca)  in a case where the expression is used in relation to relevant tax of a kind referred to in items 5 to 50 of the table in section 3C—a decision of the Commissioner to amend an assessment made in relation to a taxpayer reducing the liability of the taxpayer to tax; or
 
-                   (cb)  in a case where the expression is used in relation to fringe benefits tax imposed by the _Fringe Benefits Tax Act 1986_—a decision of the Commissioner to amend an assessment made in relation to an employer reducing the liability of the employer to tax, other than:
+                    (cb)  in a case where the expression is used in relation to fringe benefits tax imposed by the _Fringe Benefits Tax Act 1986_—a decision of the Commissioner to amend an assessment made in relation to an employer reducing the liability of the employer to tax, other than:
 
                               (i)  a decision to give effect to an application or request by or on behalf of the employer for an amendment of the assessment; or
 
@@ -214,7 +214,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the _Student Assistance Act 1973_ as in force at a time on or after 1 July 1998.
 
-                    <a name="full-self-assess-taxpay"></a>**_full self‑assessment taxpayer_** has the same meaning as in subsection 6(1) of the Tax Act.
+                    <a name="full-self-assess-taxpay"></a>**_full self-assessment taxpayer_** has the same meaning as in subsection 6(1) of the Tax Act.
 
                     <a name="incom-tax"></a>**_income tax_** means:
 
@@ -374,7 +374,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
     <div>45</div>
   </td>
   <td>
-    <div>Amounts that are treated under Subdivision 154‑D of the
+    <div>Amounts that are treated under Subdivision 154-D of the
       <i>Higher Education Support Act 2003</i>as if they were income tax</div>
   </td>
 </tr>
@@ -383,8 +383,8 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
     <div>50</div>
   </td>
   <td>
-    <div>Amounts that are treated under section 12ZN of the
-      <i>Student Assistance Act 1973</i>as if they were income tax</div>
+    <div>Amounts that are treated under subsection 12ZN(1) of the
+      <i>Student and Youth Assistance Act 1973</i>as if they were income tax</div>
   </td>
 </tr>
 <tr>
@@ -400,7 +400,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
     <div>80</div>
   </td>
   <td>
-    <div>An amount payable to the Commissioner under section 16‑80 in Schedule 1
+    <div>An amount payable to the Commissioner under section 16-80 in Schedule 1
       to the
       <i>Taxation Administration Act 1953</i>
     </div>
@@ -420,8 +420,8 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
     <div>90</div>
   </td>
   <td>
-    <div>An amount payable to the Commissioner under Subdivision 16‑A (other than
-      section 16‑50) in Schedule 1 to the
+    <div>An amount payable to the Commissioner under Subdivision 16-A (other than
+      section 16-50) in Schedule 1 to the
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
@@ -431,7 +431,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
     <div>92</div>
   </td>
   <td>
-    <div>An amount payable to the Commissioner under Subdivision 263‑A (about foreign
+    <div>An amount payable to the Commissioner under Subdivision 263-A (about foreign
       revenue claims) in Schedule 1 to the
       <i>Taxation Administration Act 1953</i>
     </div>
@@ -473,7 +473,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
     <div>145</div>
   </td>
   <td>
-    <div>Indirect tax within the meaning of subsection 995‑1(1) of the
+    <div>Indirect tax within the meaning of subsection 995-1(1) of the
       <i>Income Tax Assessment Act 1997</i>
     </div>
   </td>
@@ -483,7 +483,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
     <div>150</div>
   </td>
   <td>
-    <div>A penalty or charge payable under Subdivision 105‑D in Schedule 1 to the
+    <div>A penalty or charge payable under Subdivision 105-D in Schedule 1 to the
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
@@ -545,7 +545,7 @@ interest is payable by the Commissioner to the person on the payment, calculated
 
                      (a)  income tax; or
 
-                   (ba)  compulsory repayment amount; or
+                    (ba)  compulsory repayment amount; or
 
                      (c)  FS assessment debt;
 
@@ -557,13 +557,13 @@ does not include a reference to the making of a deduction or payment under Part�
 
              (1)  Subject to subsection (2), interest under section 8A is payable to a person for the period:
 
-                     (a)  if the person is not a full self‑assessment taxpayer—from the beginning of the later of the following days:
+                     (a)  if the person is not a full self-assessment taxpayer—from the beginning of the later of the following days:
 
                               (i)  the day on which the payment is made;
 
                              (ii)  the day on which the notice notifying the tax, debt, interest or instalment concerned is issued; and
 
-                     (b)  if the person is a full self‑assessment taxpayer—from the beginning of the day on which the payment is made;
+                     (b)  if the person is a full self-assessment taxpayer—from the beginning of the day on which the payment is made;
 
 until the end of the appropriate due day.
 
@@ -589,7 +589,7 @@ then interest is not payable under this Part on the whole or part of the payment
 
              (1)  If:
 
-                     (a)  a person who is not a full self‑assessment taxpayer furnishes a return of income for a year of income; and
+                     (a)  a person who is not a full self-assessment taxpayer furnishes a return of income for a year of income; and
 
                      (b)  an assessment is made of the income tax payable by the person for the year of income; and
 
@@ -613,23 +613,23 @@ Note:          Division 67 of the _Income Tax Assessment Act
 
              (2)  If:
 
-                     (a)  a person who is not a full self‑assessment taxpayer furnishes a return of income for a year of income; and
+                     (a)  a person who is not a full self-assessment taxpayer furnishes a return of income for a year of income; and
 
                      (b)  an assessment is made of the income tax payable by the person for the year of income; and
 
-                     (c)  after the notice of assessment is issued to the person, the Commissioner credits, applies or refunds (which crediting, applying or refunding is a **_post‑notice crediting_**) one or more income tax crediting amounts in relation to the income tax payable by the person for the year of income; and
+                     (c)  after the notice of assessment is issued to the person, the Commissioner credits, applies or refunds (which crediting, applying or refunding is a **_post-notice crediting_**) one or more income tax crediting amounts in relation to the income tax payable by the person for the year of income; and
 
                      (d)  the sum of the income tax crediting amounts in paragraph (c) exceeds the sum of the following amounts:
 
-                              (i)  income tax payable for the year of income by the person immediately before the post‑notice crediting; 
+                              (i)  income tax payable for the year of income by the person immediately before the post-notice crediting; 
 
-Note:         This is the amount payable under the assessment for the year of income as reduced by any rebate, deduction under subsection 100(2) of the Tax Act, crediting, applying or other payment made before the post‑notice crediting.
+Note:         This is the amount payable under the assessment for the year of income as reduced by any rebate, deduction under subsection 100(2) of the Tax Act, crediting, applying or other payment made before the post-notice crediting.
 
-                            (iii)  a compulsory repayment amount, worked out by reference to the person’s taxable income of the year of income, payable by the person immediately before the post‑notice crediting;
+                            (iii)  a compulsory repayment amount, worked out by reference to the person’s taxable income of the year of income, payable by the person immediately before the post-notice crediting;
 
-                            (iv)  an FS assessment debt, worked out by reference to the person’s taxable income of the year of income, payable by the person immediately before the post‑notice crediting;
+                            (iv)  an FS assessment debt, worked out by reference to the person’s taxable income of the year of income, payable by the person immediately before the post-notice crediting;
 
-                             (v)  interest for the year of income payable by the person under section 102AAM of the Tax Act immediately before the post‑notice crediting;
+                             (v)  interest for the year of income payable by the person under section 102AAM of the Tax Act immediately before the post-notice crediting;
 
 interest is payable by the Commissioner to the person on the excess mentioned in paragraph (d), calculated in respect of the period applicable under section 8F at the rate specified in section 8I.
 
@@ -637,19 +637,19 @@ interest is payable by the Commissioner to the person on the excess mentioned in
 
              (1)  If subsection 8E(1) applies, the interest is payable on the excess mentioned in paragraph 8E(1)(d) for the period from the beginning of the 30th day after the day on which the person furnishes the return of income until the end of the day on which the notice of assessment is issued.
 
-             (2)  If subsection 8E(2) applies and subsection (3) of this section does not apply, the interest is payable on the excess mentioned in paragraph 8E(2)(d) for the period from the beginning of the day on which the notice of assessment is issued until the end of the day on which the post‑notice crediting occurs.
+             (2)  If subsection 8E(2) applies and subsection (3) of this section does not apply, the interest is payable on the excess mentioned in paragraph 8E(2)(d) for the period from the beginning of the day on which the notice of assessment is issued until the end of the day on which the post-notice crediting occurs.
 
              (3)  If:
 
                      (a)  subsection 8E(2) applies; and
 
-                     (b)  one or more payments have been made (including any taken to have been made because of the crediting or applying of any amount) of any amounts mentioned in subparagraphs 8E(1)(d)(i) to (v) (including those amounts as increased or decreased for any reason) after the notice of assessment is issued and before the post‑notice crediting;
+                     (b)  one or more payments have been made (including any taken to have been made because of the crediting or applying of any amount) of any amounts mentioned in subparagraphs 8E(1)(d)(i) to (v) (including those amounts as increased or decreased for any reason) after the notice of assessment is issued and before the post-notice crediting;
 
 the interest is payable:
 
-                     (c)  on so much of the excess as is attributable to a particular payment mentioned in paragraph (b)—for the period from the beginning of the day on which the payment was made until the end of the day on which the post‑notice crediting occurs; and
+                     (c)  on so much of the excess as is attributable to a particular payment mentioned in paragraph (b)—for the period from the beginning of the day on which the payment was made until the end of the day on which the post-notice crediting occurs; and
 
-                     (d)  on so much of the excess as is not attributable to payments mentioned in paragraph (b)—for the period from the beginning of the day on which the notice of assessment is issued until the end of the day on which the post‑notice crediting occurs.
+                     (d)  on so much of the excess as is not attributable to payments mentioned in paragraph (b)—for the period from the beginning of the day on which the notice of assessment is issued until the end of the day on which the post-notice crediting occurs.
 
              (4)  For the purposes of subsection (3), but subject to subsection (5), the excess is attributable to a particular payment to the extent that it would be set off against that payment if it were set off in succession against each of the payments in the reverse of the order in which they were made.
 
@@ -657,13 +657,13 @@ the interest is payable:
 
                      (a)  it consists of an amount on which interest is payable under section 9; or
 
-                     (b)  it has been taken into account in any previous application of subsection (4) of this section in relation to a post‑notice crediting occurring before the current post‑notice crediting.
+                     (b)  it has been taken into account in any previous application of subsection (4) of this section in relation to a post-notice crediting occurring before the current post-notice crediting.
 
-##### <a id="8G"></a>8G  Entitlement to interest—full self‑assessment taxpayers
+##### <a id="8G"></a>8G  Entitlement to interest—full self-assessment taxpayers
 
              (1)  If:
 
-                     (a)  a person who is a full self‑assessment taxpayer furnishes a return of income for a year of income; and
+                     (a)  a person who is a full self-assessment taxpayer furnishes a return of income for a year of income; and
 
                      (b)  after the person furnishes the return, the Commissioner credits, applies or refunds (which crediting, applying or refunding is the **_first crediting_**) one or more income tax crediting amounts in relation to the income tax payable by the person for the year of income; and
 
@@ -685,7 +685,7 @@ Note:          Division 67 of the _Income Tax Assessment Act
 
              (2)  If:
 
-                     (a)  a person who is a full self‑assessment taxpayer furnishes a return of income for a year of income; and
+                     (a)  a person who is a full self-assessment taxpayer furnishes a return of income for a year of income; and
 
                      (b)  after the first crediting, the Commissioner credits, applies or refunds (which crediting, applying or refunding is a**_later crediting_**) one or more income tax crediting amounts in relation to the income tax payable by the person for the year of income; and
 
@@ -699,9 +699,9 @@ Note:       This is the income tax payable for the year of income as
 
 interest is payable by the Commissioner to the person on the excess mentioned in paragraph (c), calculated in respect of` the period applicable under section 8H at the rate specified in section 8I.
 
-##### <a id="8H"></a>8H  Interest period—full self‑assessment taxpayer
+##### <a id="8H"></a>8H  Interest period—full self-assessment taxpayer
 
-          (1A)  If subsection 8G(1) applies to a person who is a full self‑assessment taxpayer, the interest is payable on the excess mentioned in paragraph 8G(1)(d) for the period from the beginning of the earlier of the following days:
+          (1A)  If subsection 8G(1) applies to a person who is a full self-assessment taxpayer, the interest is payable on the excess mentioned in paragraph 8G(1)(d) for the period from the beginning of the earlier of the following days:
 
                      (a)  the 30th day after the day on which the person furnishes the return of income for the year of income;
 
@@ -709,7 +709,7 @@ interest is payable by the Commissioner to the person on the excess mentioned in
 
 until the end of the day on which the first crediting occurs.
 
-          (2A)  If subsection 8G(2) applies to a person who is a full self‑assessment taxpayer and subsection (3) of this section does not apply, the interest is payable on the excess mentioned in paragraph 8G(2)(c) for the period from the beginning of the due date for payment of assessed tax until the end of the day on which the later crediting occurs.
+          (2A)  If subsection 8G(2) applies to a person who is a full self-assessment taxpayer and subsection (3) of this section does not apply, the interest is payable on the excess mentioned in paragraph 8G(2)(c) for the period from the beginning of the due date for payment of assessed tax until the end of the day on which the later crediting occurs.
 
              (3)  If:
 
@@ -875,7 +875,7 @@ interest is payable by the Commissioner to the superannuation provider in accord
 
                    Interest under this Part is payable at the base interest rate (within the meaning of the Tax Act).
 
-## Part IIG—Interest on certain amounts of tax on no‑TFN contributions income of superannuation providers
+## Part IIG—Interest on certain amounts of tax on no-TFN contributions income of superannuation providers
 
 ##### <a id="8ZC"></a>8ZC  Interpretation
 
@@ -889,13 +889,13 @@ interest is payable by the Commissioner to the superannuation provider in accord
 
                      (b)  the employer was required by section 133 of the _Retirement Savings Accounts Act 1997_ or section 299C of the _Superannuation Industry (Supervision) Act 1993_ to inform the superannuation provider of the individual’s tax file number by the end of the past year, but did not; and
 
-                     (c)  as a result, a contribution was an amount of no‑TFN contributions income of the superannuation provider of the past year; and
+                     (c)  as a result, a contribution was an amount of no-TFN contributions income of the superannuation provider of the past year; and
 
-                     (d)  an amount of tax (the **_interest‑bearing tax_**) payable in respect of that no‑TFN contributions income counts towards the tax offset under Subdivision 295‑J of the _Income Tax Assessment Act 1997_ for an income year (the **_current year_**) for the superannuation provider; and
+                     (d)  an amount of tax (the **_interest-bearing tax_**) payable in respect of that no-TFN contributions income counts towards the tax offset under Subdivision 295-J of the _Income Tax Assessment Act 1997_ for an income year (the **_current year_**) for the superannuation provider; and
 
                      (e)  the tax offset under that Subdivision is applied in making an assessment in respect of the superannuation provider for the current year.
 
-             (2)  The interest is payable on each amount of interest‑bearing tax.
+             (2)  The interest is payable on each amount of interest-bearing tax.
 
 ##### <a id="8ZE"></a>8ZE  Period of interest
 
@@ -903,9 +903,9 @@ interest is payable by the Commissioner to the superannuation provider in accord
 
                      (a)  started on the later of the following days:
 
-                              (i)  the day on which the amount of interest‑bearing tax was paid;
+                              (i)  the day on which the amount of interest-bearing tax was paid;
 
-                             (ii)  the day by which the amount of interest‑bearing tax was required to be paid; and
+                             (ii)  the day by which the amount of interest-bearing tax was required to be paid; and
 
                      (b)  ends on the day on which the assessment is made.
 
@@ -967,7 +967,7 @@ the amount so refunded or applied shall, for the purposes of section 10, be at
 
 the amount paid by the company shall be taken to have been applied, at the offset time, against a liability of the company to the Commonwealth as a result of that decision.
 
-             (7)  In subsection (6), **_franking deficit tax_** and **_tax offset_** have the meanings given by subsection 995‑1(1) of the _Income Tax Assessment Act 1997_.
+             (7)  In subsection (6), **_franking deficit tax_** and **_tax offset_** have the meanings given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
 ##### <a id="10"></a>10  Amount of interest 
 
@@ -1013,7 +1013,7 @@ the interest otherwise payable on the overpayment is reduced by the amount of th
 
                               (i)  remits, under section 8AAG of, the _Taxation Administration Act 1953_, the whole or part of an amount that has been paid to the Commissioner in respect of general interest charge payable under section 163AA and subsection 204(3) of the Tax Act; or
 
-                            (ia)  remits, under section 280‑160 in Schedule 1 to the _Taxation Administration Act 1953_, the whole or part of an amount that has been paid to the Commissioner in respect of shortfall interest charge payable under Division 280 in that Schedule; or
+                            (ia)  remits, under section 280-160 in Schedule 1 to the _Taxation Administration Act 1953_, the whole or part of an amount that has been paid to the Commissioner in respect of shortfall interest charge payable under Division 280 in that Schedule; or
 
                             (iv)  refunds the whole or part of a payment made by the person on account of:
 
@@ -1033,7 +1033,7 @@ interest is payable by the Commissioner to the person on the amount remitted, re
 
                      (a)  income tax; or
 
-                   (ba)  compulsory repayment amount; or
+                    (ba)  compulsory repayment amount; or
 
                      (c)  FS assessment debt;
 
@@ -1109,7 +1109,7 @@ Note:          Section 12AF defines **_BAS amount_**, **_RBA
 
                    In this Part:
 
-                    <a name="ba-amount"></a>**_BAS amount_** has the same meaning as in subsection 995‑1(1) of the Tax Act.
+                    <a name="ba-amount"></a>**_BAS amount_** has the same meaning as in subsection 995-1(1) of the Tax Act.
 
                     <a name="rba-interest-dai"></a>**_RBA interest day_** for an RBA surplus means the 14th day after the latest of the following days:
 
@@ -1161,7 +1161,7 @@ Note:          For rules about allocation of credits arising u
 
 ##### <a id="15"></a>15  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2426,23 +2426,6 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2011 Measures No. 2) Act 2011</div>
-  </td>
-  <td>
-    <div>41, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 423): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Taxation Laws Amendment Act 1984_ provides as follows:
@@ -2451,7 +2434,7 @@ _(a)_     Subsection 2(2) of the _Taxation Laws Amendment Act 1984_ prov
 
          The _Taxation (Interest on Overpayments and Early Payments) Act 1983_ came into operation on 14 February 1983\. 
 
-_(b)_     Subsection 2(2) of the _Taxation Boards of Review (Transfer of Jurisdiction) Act 1986_ provides as follows:
+_(b)_    Subsection 2(2) of the _Taxation Boards of Review (Transfer of Jurisdiction) Act 1986_ provides as follows:
 
                  (2)   Section 31 and Parts VII and VIII shall come into operation, or shall be deemed to have come into operation, immediately after the _Fringe Benefits Tax Assessment Act 1986_ comes into operation.
 
@@ -2640,9 +2623,9 @@ _(v)_ The _Taxation (Interest on Overpayments and Early Payments) Act 1983_ was 
 
 _(w)_    The _Taxation (Interest on Overpayments and Early Payments) Act 1983_ was amended by Schedule 2 (item 121) only of the _A New Tax System (Tax Administration) Act (No. 2) 2000_, subsection 3(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1-1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
-         Section 1‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
+         Section 1-1 of the _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
 
 _(x)_     The _Taxation (Interest on Overpayments and Early Payments) Act 1983_ was amended by Schedule 9 (item 17) only of the _Indirect Tax Legislation Amendment Act 2000_, subsection 2(1) of which provides as follows:
 
@@ -2662,7 +2645,7 @@ _(za)_ The _Taxation (Interest on Overpayments and Early Payments) Act 1983_ was
 
                  (1)   Subject to this section, this Act commences on the day mentioned in subsection 2.2(2) of the _Criminal Code_.
 
-_(zb)_   The _Taxation (Interest on Overpayments and Early Payments) Act 1983_ was amended by Schedule 3 (items 14–18) only of the _Taxation Laws Amendment (Research and Development) Act 2001_, subsection 2(1) of which provides as follows:
+_(zb)_  The _Taxation (Interest on Overpayments and Early Payments) Act 1983_ was amended by Schedule 3 (items 14–18) only of the _Taxation Laws Amendment (Research and Development) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2716,7 +2699,7 @@ _(zc)_   Subsection 2(1) (item 16) of the _Higher Education Support (Trans
       (a) 1 January 2004; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -2985,7 +2968,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 100 and 101, 2006; No. 56, 2010; No. 41, 2011</div>
+    <div>am. Nos. 100 and 101, 2006; No. 56, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3783,27 +3766,27 @@ _Taxation Laws Amendment Act (No. 3) 1999 (No. 11, 1999)_
 
 ## 398  Application
 
-(1)       This item applies to amendments made by items 1 to 3, 11, 12, 14, 18 to 27, 29, 37 to 42, 69 to 75, 77 to 80, 88 to 101, 107, 111, 113, 118, 120, 121, 127, 128, 130, 140, 148, 149, 153, 156, 158, 161 to 169, 175, 178, 179, 185, 187 to 189, 191, 192, 195, 200 to 204, 212, 214 to 217, 221, 223, 225, 226 to 228, 234, 236 to 242, 245, 252, 254 to 278, 280, 281, 296 to 298, 301, 304, 306, 309, 310, 314, 315 to 320, 322 to 328, 331, 332 to 335, 337 to 341, 344, 345, 346, 348, 352, 355 to 360, 373, 375 to 377, 379 to 385, 387 to 394, 396 and 397.
+(1)        This item applies to amendments made by items 1 to 3, 11, 12, 14, 18 to 27, 29, 37 to 42, 69 to 75, 77 to 80, 88 to 101, 107, 111, 113, 118, 120, 121, 127, 128, 130, 140, 148, 149, 153, 156, 158, 161 to 169, 175, 178, 179, 185, 187 to 189, 191, 192, 195, 200 to 204, 212, 214 to 217, 221, 223, 225, 226 to 228, 234, 236 to 242, 245, 252, 254 to 278, 280, 281, 296 to 298, 301, 304, 306, 309, 310, 314, 315 to 320, 322 to 328, 331, 332 to 335, 337 to 341, 344, 345, 346, 348, 352, 355 to 360, 373, 375 to 377, 379 to 385, 387 to 394, 396 and 397.
 
-(2)       The amendments apply in relation to amounts that are due to be paid on or after 1 July 1999.
+(2)        The amendments apply in relation to amounts that are due to be paid on or after 1 July 1999.
 
 ## 399  Application
 
-(1)       This item applies to amendments made by items 6, 7, 8 to 10, 43 to 51, 53 to 68, 102, 103, 114, 115, 119, 131 to 139, 141, 151, 152, 170 to 174, 186, 196, 247 to 251, 282 to 295, 305, 311 to 313, 329, 330, 354, 361 to 363, 369 and 378.
+(1)        This item applies to amendments made by items 6, 7, 8 to 10, 43 to 51, 53 to 68, 102, 103, 114, 115, 119, 131 to 139, 141, 151, 152, 170 to 174, 186, 196, 247 to 251, 282 to 295, 305, 311 to 313, 329, 330, 354, 361 to 363, 369 and 378.
 
-(2)       The amendments apply to the extent that the period for which the person is liable to pay the general interest charge occurs on or after 1 July 1999.
+(2)        The amendments apply to the extent that the period for which the person is liable to pay the general interest charge occurs on or after 1 July 1999.
 
-## 402  Application
+## 402  Application
 
-(1)       This item applies to amendments made by items 16, 17, 81 to 87, 275, 276, 364, 366, 368 and 371.
+(1)        This item applies to amendments made by items 16, 17, 81 to 87, 275, 276, 364, 366, 368 and 371.
 
-(2)       The amendments apply in relation to calculating interest for 1 July 1999 or a later day.
+(2)        The amendments apply in relation to calculating interest for 1 July 1999 or a later day.
 
 ## 404  Application
 
-(1)       This item applies to amendments made by items 4, 5, 28, 30, 31, 32, 33, 34, 35, 36, 52, 76, 116, 122, 123, 124, 125, 126, 129, 144, 145, 146, 147, 150, 155, 157, 159, 160, 176, 177, 181, 182, 183, 184, 190, 205, 206, 207, 208, 209, 210, 218, 219, 220, 229, 230, 231, 243, 244, 253, 279, 299, 300, 302, 321, 336, 342, 343, 365, 367, 370, 374, 386 and 395.
+(1)        This item applies to amendments made by items 4, 5, 28, 30, 31, 32, 33, 34, 35, 36, 52, 76, 116, 122, 123, 124, 125, 126, 129, 144, 145, 146, 147, 150, 155, 157, 159, 160, 176, 177, 181, 182, 183, 184, 190, 205, 206, 207, 208, 209, 210, 218, 219, 220, 229, 230, 231, 243, 244, 253, 279, 299, 300, 302, 321, 336, 342, 343, 365, 367, 370, 374, 386 and 395.
 
-(2)       The amendments apply in relation to credits and payments to which section 8AAZL of the _Taxation Administration Act 1953_ applies.
+(2)        The amendments apply in relation to credits and payments to which section 8AAZL of the _Taxation Administration Act 1953_ applies.
 
 * * *
 
@@ -3823,19 +3806,19 @@ _A New Tax System (Pay As You Go) Act 1999 (No. 178, 1999)_
 
 ## 35  Application
 
-(1)       The amendments made by this Part, so far as they relate to the establishment, operation and effect of RBAs, apply to all tax debts owing on or after 1 July 2000, regardless of when the debts arose.
+(1)        The amendments made by this Part, so far as they relate to the establishment, operation and effect of RBAs, apply to all tax debts owing on or after 1 July 2000, regardless of when the debts arose.
 
-(2)       The amendments made by this Part, so far as they relate to the treatment of payments and credits by the Commissioner, apply to the treatment of payments or credits by the Commissioner on or after 1 July 2000, regardless of when the payments were made or when the credits arose.
+(2)        The amendments made by this Part, so far as they relate to the treatment of payments and credits by the Commissioner, apply to the treatment of payments or credits by the Commissioner on or after 1 July 2000, regardless of when the payments were made or when the credits arose.
 
 ## 92  Application of amendments
 
 The amendments made by this Part apply in relation to amounts that are due to be paid on or after 1 July 1999.
 
-## 93  Transitional—pre‑1 July 1999 debts
+## 93  Transitional—pre-1 July 1999 debts
 
-(1)       This item applies to an amount (including an amount of penalty or interest) that a person owes to the Commonwealth directly under a taxation law (including a law that has been repealed or amended) and that became payable at any time before 1 July 1999, if all or some of the amount (the **_unpaid debt_**) remains unpaid at the beginning of 1 July 1999.
+(1)        This item applies to an amount (including an amount of penalty or interest) that a person owes to the Commonwealth directly under a taxation law (including a law that has been repealed or amended) and that became payable at any time before 1 July 1999, if all or some of the amount (the **_unpaid debt_**) remains unpaid at the beginning of 1 July 1999.
 
-(2)       The person is liable, and is taken to have been liable, to pay general interest charge on the unpaid debt for each day in the period that:
+(2)        The person is liable, and is taken to have been liable, to pay general interest charge on the unpaid debt for each day in the period that:
 
                      (a)  started at the beginning of the day by which the amount was due to be paid; and
 
@@ -3845,11 +3828,11 @@ The amendments made by this Part apply in relation to amounts that are due to be
 
                              (ii)  general interest charge on any of the unpaid debt.
 
-(3)       The general interest charge is worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
+(3)        The general interest charge is worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
 
-(4)       For the purposes of this item, the **_general interest charge rate_** for a day before 1 July 1999 is taken to have been 12.72% divided by the number of days in the calendar year that the day was in.
+(4)        For the purposes of this item, the **_general interest charge rate_** for a day before 1 July 1999 is taken to have been 12.72% divided by the number of days in the calendar year that the day was in.
 
-(5)       If this item results in a person being liable, or being taken to have been liable, to pay both general interest charge and some other penalty or interest in respect of the same debt, the Commissioner must remit either that general interest charge or that other penalty or interest (the Commissioner chooses which).
+(5)        If this item results in a person being liable, or being taken to have been liable, to pay both general interest charge and some other penalty or interest in respect of the same debt, the Commissioner must remit either that general interest charge or that other penalty or interest (the Commissioner chooses which).
 
 * * *
 
@@ -3859,15 +3842,15 @@ _A New Tax System (Tax Administration) Act 1999 (No. 179, 1999)_
 
 ## 6  Application of amendments
 
-(1)       The amendments made by items 2, 3 and 4 apply to credits that arise on or after 1 July 2000.
+(1)        The amendments made by items 2, 3 and 4 apply to credits that arise on or after 1 July 2000.
 
-(2)       The amendment made by item 5 applies to RBA surpluses that arise on or after 1 July 2000.
+(2)        The amendment made by item 5 applies to RBA surpluses that arise on or after 1 July 2000.
 
 ## Schedule 16  
 
 ## 37  Application
 
-The amendments made by this Schedule apply to the 2000‑2001 year of income and later years of income.
+The amendments made by this Schedule apply to the 2000-2001 year of income and later years of income.
 
 * * *
 
@@ -3885,9 +3868,9 @@ _Indirect Tax Legislation Amendment Act 2000 (No. 92, 2000)_
 
 ## 18  Application of amendments
 
-(1)       Subject to this item, the amendments made by this Schedule apply to things done on or after 1 July 2000.
+(1)        Subject to this item, the amendments made by this Schedule apply to things done on or after 1 July 2000.
 
-(2)       Those amendments do not apply to a return, statement, notice or other document, or a statement made or scheme entered into, in relation to the year starting on 1 July 1999 or an earlier year.
+(2)        Those amendments do not apply to a return, statement, notice or other document, or a statement made or scheme entered into, in relation to the year starting on 1 July 1999 or an earlier year.
 
 * * *
 
@@ -3908,9 +3891,9 @@ _Taxation Laws Amendment (Research and Development) Act 2001
 
 ## 19  Application
 
-(1)       Subject to subitem (2), the amendments made by this Schedule apply to assessments for the first year of income starting after 30 June 2001 and for later years.
+(1)        Subject to subitem (2), the amendments made by this Schedule apply to assessments for the first year of income starting after 30 June 2001 and for later years.
 
-(2)       The amendments made by items 14 to 18 (inclusive) apply to assessments made after 30 June 2001.
+(2)        The amendments made by items 14 to 18 (inclusive) apply to assessments made after 30 June 2001.
 
 * * *
 
@@ -3921,7 +3904,7 @@ _Tax Laws Amendment (Improvements to Self Assessment) Act (No. 1) 2005
 
 ## 31  Application
 
-The amendments made by this Schedule apply to amendments of assessments for the 2004‑05 income year and later income years.
+The amendments made by this Schedule apply to amendments of assessments for the 2004-05 income year and later income years.
 
 * * *
 
@@ -3931,7 +3914,7 @@ _Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005 (No. 
 
 ## 59  Application
 
-The amendments made by this Division apply in relation to the 2004‑05 year of income and later years of income.
+The amendments made by this Division apply in relation to the 2004-05 year of income and later years of income.
 
 * * *
 
@@ -3954,7 +3937,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -3984,17 +3967,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -4034,7 +4017,7 @@ _Tax Laws Amendment (Simplified Superannuation) Act 2007 (No. 9, 2007)_
 
 ## 37  Application
 
-The amendments made by this Part of this Schedule apply to the 2007‑2008 income year and later years.
+The amendments made by this Part of this Schedule apply to the 2007-2008 income year and later years.
 
 * * *
 
@@ -4045,11 +4028,11 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 406  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
 
-(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
@@ -4087,11 +4070,11 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example:    For the 2006‑07 income year, Smart Investor Pty Ltd, an Australian resident private investment company, has assessable foreign income in the passive income class on which it has paid foreign tax for which it wishes to claim a foreign tax credit. The company also has a tax loss for the year from its Australian investments. When it lodges its tax return for the year it does not elect to claim a deduction for any of the tax loss under section 79DA of the ITAA 1936, because the Australian tax payable on its passive foreign income equals the foreign tax it has paid.
+Example:    For the 2006-07 income year, Smart Investor Pty Ltd, an Australian resident private investment company, has assessable foreign income in the passive income class on which it has paid foreign tax for which it wishes to claim a foreign tax credit. The company also has a tax loss for the year from its Australian investments. When it lodges its tax return for the year it does not elect to claim a deduction for any of the tax loss under section 79DA of the ITAA 1936, because the Australian tax payable on its passive foreign income equals the foreign tax it has paid.
 
-                   In 2009 the amount of foreign tax payable in respect of some foreign rental income it had included in its return for the 2006‑07 year is reduced and Smart Investor receives a refund of the difference in foreign tax. Smart Investor Pty Ltd then applies to be able to make an election under section 79DA, that is, after the _Tax Laws Amendment (2007 Measures No. 4) Act 2007_ (which repeals section 79DA) receives Royal Assent. The Commissioner allows Smart Investor to submit an election to claim a deduction for so much of its 2006‑07 tax loss as to reduce the amount of Australian tax payable on its 2006‑07 assessable foreign income to the revised foreign tax paid, by the end of 2009.
+                   In 2009 the amount of foreign tax payable in respect of some foreign rental income it had included in its return for the 2006-07 year is reduced and Smart Investor receives a refund of the difference in foreign tax. Smart Investor Pty Ltd then applies to be able to make an election under section 79DA, that is, after the _Tax Laws Amendment (2007 Measures No. 4) Act 2007_ (which repeals section 79DA) receives Royal Assent. The Commissioner allows Smart Investor to submit an election to claim a deduction for so much of its 2006-07 tax loss as to reduce the amount of Australian tax payable on its 2006-07 assessable foreign income to the revised foreign tax paid, by the end of 2009.
 
-                   Despite the repeal of section 79DA, item 226 allows the Commissioner to permit an election to be lodged after the return for 2006‑07 has been lodged, and to amend Smart Investor’s assessment for that year, because these actions relate to a thing done, and periods ending, before the repeal of section 79DA applies.
+                   Despite the repeal of section 79DA, item 226 allows the Commissioner to permit an election to be lodged after the return for 2006-07 has been lodged, and to amend Smart Investor’s assessment for that year, because these actions relate to a thing done, and periods ending, before the repeal of section 79DA applies.
 
 * * *
 
