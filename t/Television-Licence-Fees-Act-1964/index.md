@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image001.gif)
 
 # Television Licence Fees Act 1964
 
 **Act No. 118 of 1964 as amended**
 
-This compilation was prepared on 1 January 2007
+This compilation was prepared on 13 November 2006
  taking into account amendments up to Act No. 123 of 2006
 
 The text of any of those amendments not in force
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
 
-                    <a name="gross-earning"></a>**_gross earnings_**, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the televising, by the service or services provided under the licence, of advertisements or other matter.
+                    <a name="gross-earning"></a>**_gross earnings_**, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the televising, by the service provided under the licence, of advertisements or other matter.
 
                     <a name="licenc"></a>**_licence_** means:
 
@@ -96,35 +96,35 @@ a fee of an amount equal to the relevant percentage of the gross earnings in res
 
                      (a)  where those gross earnings are less than $5,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image002.gif)
 
                      (b)  where those gross earnings are not less than $5,000,000 but are less than $6,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image003.gif)
 
                      (c)  where those gross earnings are not less than $6,000,000 but are less than $7,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image004.gif)
 
                      (d)  where those gross earnings are not less than $7,000,000 but are less than $10,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image005.gif)
 
                      (e)  where those gross earnings are not less than $10,000,000 but are less than $20,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image006.gif)
 
                       (f)  where those gross earnings are not less than $20,000,000 but are less than $45,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image007.gif)
 
                      (g)  where those gross earnings are not less than $45,000,000 but are less than $75,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image008.gif)
 
                      (h)  where those gross earnings are not less than $75,000,000— whichever is the lesser of 9% or the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image009.gif)
 
 where **_A_** is the number of dollars in those gross earnings.
 
@@ -164,41 +164,41 @@ section 6 applies in relation to the fee payable on the anniversary referred t
 
 (a)  where **_A_** is less than $5,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image010.gif)
 
                                          (b)  where **_A_** is not less than $5,000,000 but is less than $6,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image011.gif)
 
                                          (c)  where **_A_** is not less than $6,000,000 but is less than $7,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image012.gif)
 
                                          (d)  where **_A_** is not less than $7,000,000 but is less than $10,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image013.gif)
 
                                          (e)  where **_A_** is not less than $10,000,000 but is less than $20,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image014.gif)
 
                                           (f)  where **_A_** is not less than $20,000,000 but is less than $45,000,000—the percentage ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image015.gif)
 
                                          (g)  where **_A_** is not less than $45,000,000 but is less than $75,000,000—the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image016.gif)
 
                                          (h)  where **_A_** is not less than $75,000,000—whichever is the lesser of 9% or the percentage ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image017.gif)
 
 where:
 
                     <a name=""></a>**_A_** is the amount ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image018.gif)
 
                     <a name=""></a>**_B_** is the number of dollars in the gross earnings in respect of the licence during the period; and 
 
@@ -208,7 +208,7 @@ where:
 
              (1)  On 31 December 1999, a licensee must pay a fee that is calculated in accordance with the formula in this subsection:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image019.gif)
 
 where:
 
@@ -218,7 +218,7 @@ where:
 
              (2)  On 31 December 2000, a licensee must pay a fee that is calculated in accordance with the formula in this subsection:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image019.gif)
 
 where:
 
@@ -228,7 +228,7 @@ where:
 
              (3)  On 31 December 2001, a licensee must pay a fee that is calculated in accordance with the formula in this subsection:
 
-![](http://www.comlaw.gov.au/Details/C2007C00013/Html/TelevLicFees64_WD02_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00652/Html/TelevLicFees64_WD02_image020.gif)
 
 where:
 
@@ -596,7 +596,7 @@ of Assent</div>
     <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
+    <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -614,7 +614,7 @@ Remainder: Royal Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>1 Jan 2007</div>
+    <div>\[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -681,7 +681,7 @@ Remainder: Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 69, 1985; No. 14, 1987; No. 105, 1992; No. 141, 1997; No. 48, 2005; No. 123, 2006</div>
+    <div>am. No. 69, 1985; No. 14, 1987; No. 105, 1992; No. 141, 1997; No. 48, 2005</div>
   </td>
 </tr>
 <tr>
@@ -772,6 +772,20 @@ Remainder: Royal Assent</div>
     <div>ad. No. 14, 1987</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Television Licence Fees Amendment Act 2006 (No. 123, 2006)_
+
+The following amendment commences on 1 January 2007:
+
+## Schedule 1
+
+## 1  Subsection 4(1) (definition of _gross earnings_)
+
+After “service”, insert “or services”.
+
+As at 13 November 2006 the amendment is not incorporated in this compilation.
 
 ## Table A
 
