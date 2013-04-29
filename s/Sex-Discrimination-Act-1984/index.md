@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00443/Html/15450185-def9-473f-8782-898d1c7e7102_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00056/Html/SexDiscrimination84_WD02_image001.gif)
 
 # Sex Discrimination Act 1984
 
 **Act No. 4 of 1984 as amended**
 
-This compilation was prepared on 21 June 2011
- taking into account amendments up to Act No. 40 of 2011
+This compilation was prepared on 5 February 2010
+ taking into account amendments up to Act No. 124 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -38,8 +38,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Discrimination on the ground of pregnancy or potential pregnancy
 
-[7AA](#7AA).      Discrimination on the ground of breastfeeding
-
 [7A](#7A).         Discrimination on the ground of family responsibilities
 
 [7B](#7B).         Indirect discrimination: reasonableness test
@@ -54,7 +52,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Operation of State and Territory laws
 
-[11](#11).          Operation of State and Territory laws that further objects of relevant international instruments
+[11](#11).          Operation of State and Territory laws that further objects of Convention
+
+[11A](#11A).       Operation of State and Territory laws that further objects of other instruments
 
 [12](#12).          Extent to which Act binds the Crown
 
@@ -110,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [28F](#28F).        Educational institutions
 
-[28G](#28G).       Goods, services and facilities
+[28G](#28G).       Provision of goods, services and facilities
 
 [28H](#28H).       Provision of accommodation
 
@@ -124,7 +124,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30](#30).          Certain discrimination on ground of sex not unlawful
 
-[31](#31).          Pregnancy, childbirth or breastfeeding
+[31](#31).          Pregnancy or childbirth
 
 [32](#32).          Services for members of one sex
 
@@ -214,7 +214,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [111](#111).        Protection from civil actions
 
-[112](#112).        Non‑disclosure of private information
+[112](#112).        Non-disclosure of private information
 
 [113](#113).        Information stored otherwise than in written form
 
@@ -226,11 +226,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act relating to discrimination on the ground of sex, marital status, pregnancy, potential pregnancy, breastfeeding or family responsibilities or involving sexual harassment
+## An Act relating to discrimination on the ground of sex, marital status, pregnancy, potential pregnancy or family responsibilities or involving sexual harassment
 
-Recognising the need to prohibit, so far as is possible, discrimination against people on the ground of sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities in the areas of work, accommodation, education, the provision of goods, facilities and services, the disposal of land, the activities of clubs and the administration of Commonwealth laws and programs:
+Recognising the need to prohibit, so far as is possible, discrimination against people on the ground of sex, marital status, pregnancy or potential pregnancy in the areas of work, accommodation, education, the provision of goods, facilities and services, the disposal of land, the activities of clubs and the administration of Commonwealth laws and programs:
 
-Affirming that every individual is equal before and under the law, and has the right to the equal protection and equal benefit of the law, without discrimination on the ground of sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+Affirming that every individual is equal before and under the law, and has the right to the equal protection and equal benefit of the law, without discrimination on the ground of sex, marital status, pregnancy or potential pregnancy:
 
 ## Part I—Preliminary
 
@@ -246,11 +246,11 @@ Affirming that every individual is equal before and under the law, and has the r
 
                    The objects of this Act are:
 
-                     (a)  to give effect to certain provisions of the Convention on the Elimination of All Forms of Discrimination Against Women and to provisions of other relevant international instruments; and
+                     (a)  to give effect to certain provisions of the Convention on the Elimination of All Forms of Discrimination Against Women; and
 
-                     (b)  to eliminate, so far as is possible, discrimination against persons on the ground of sex, marital status, pregnancy or potential pregnancy or breastfeeding in the areas of work, accommodation, education, the provision of goods, facilities and services, the disposal of land, the activities of clubs and the administration of Commonwealth laws and programs; and 
+                     (b)  to eliminate, so far as is possible, discrimination against persons on the ground of sex, marital status, pregnancy or potential pregnancy in the areas of work, accommodation, education, the provision of goods, facilities and services, the disposal of land, the activities of clubs and the administration of Commonwealth laws and programs; and 
 
-                   (ba)  to eliminate, so far as possible, discrimination on the ground of family responsibilities in the area of work; and
+                    (ba)  to eliminate, so far as possible, discrimination involving dismissal of employees on the ground of family responsibilities; and
 
                      (c)  to eliminate, so far as is possible, discrimination involving sexual harassment in the workplace, in educational institutions and in other areas of public activity; and
 
@@ -268,21 +268,19 @@ Affirming that every individual is equal before and under the law, and has the r
 
                      (b)  an office established by, or an appointment made under, a law of a Territory;
 
-                     (c)  an appointment made by the Governor‑General or a Minister otherwise than under a law of the Commonwealth or of a Territory (including the Australian Capital Territory and the Northern Territory); and
+                     (c)  an appointment made by the Governor-General or a Minister otherwise than under a law of the Commonwealth or of a Territory (including the Australian Capital Territory and the Northern Territory); and
 
                      (d)  an appointment as a director of an incorporated company that is a public authority of the Commonwealth;
 
 but does not include:
 
-                    (ea)  an office of member of the Assembly, member of the Executive, or Minister within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_;
+                    (ea)  an office of member of the Assembly, member of the Executive, or Minister within the meaning of the _Australian   Capital Territory__(Self-Government) Act 1988_;
 
-                     (e)  an office of member of the Legislative Assembly, member of the Council or Minister of the Territory, within the meaning of the _Northern Territory (Self‑Government) Act 1978_;
+                     (e)  an office of member of the Legislative Assembly, member of the Council or Minister of the Territory, within the meaning of the _Northern Territory (Self-Government) Act 1978_;
 
                       (f)  an office of member of the Legislative Assembly within the meaning of the _Norfolk Island__Act 1979_; or
 
                      (g)  an office or appointment in the Australian Public Service.
-
-                    <a name="breastfeing"></a>**_breastfeeding_** has a meaning affected by subsections 7AA(3) and (4).
 
                     <a name="club"></a>**_club_** means an association (whether incorporated or unincorporated) of not less than 30 persons associated together for social, literary, cultural, political, sporting, athletic or other lawful purposes that:
 
@@ -316,21 +314,21 @@ but does not include:
 
                     <a name="commonwealth-law"></a>**_Commonwealth law_** means:
 
-                     (a)  an Act, or a regulation, rule, by‑law or determination made under or pursuant to an Act;
+                     (a)  an Act, or a regulation, rule, by-law or determination made under or pursuant to an Act;
 
-                     (b)  an Ordinance of a Territory, or a regulation, rule, by‑law or determination made under or pursuant to an Ordinance of a Territory; or
+                     (b)  an Ordinance of a Territory, or a regulation, rule, by-law or determination made under or pursuant to an Ordinance of a Territory; or
 
                      (c)  an order or award made under or pursuant to a law referred to in paragraph (a) or (b).
 
                     <a name="commonwealth-program"></a>**_Commonwealth program_** means a program conducted by or on behalf of the Commonwealth government.
 
-                    <a name="contract-worker"></a>**_contract worker_** means a person who does work for another person pursuant to a contract between the employer of the first‑mentioned person and that other person.
+                    <a name="contract-worker"></a>**_contract worker_** means a person who does work for another person pursuant to a contract between the employer of the first-mentioned person and that other person.
 
-                    <a name="de-facto-spous"></a>**_de facto spouse_**, in relation to a person, means a person of the opposite sex to the first‑mentioned person who lives with the first‑mentioned person as the husband or wife of that person on a _bona fide_ domestic basis although not legally married to that person.
+                    <a name="convent"></a>**_Convention_** means the Convention on the Elimination of All Forms of Discrimination Against Women, a copy of the English text of which is set out in the Schedule.
+
+                    <a name="de-facto-spous"></a>**_de facto spouse_**, in relation to a person, means a person of the opposite sex to the first-mentioned person who lives with the first-mentioned person as the husband or wife of that person on a _bona fide_ domestic basis although not legally married to that person.
 
                     <a name="depart"></a>**_Department_** means an Agency within the meaning of the _Public Service Act 1999_.
-
-                    <a name="disabl"></a>**_disability_** has the same meaning as in the _Disability Discrimination Act 1992_.
 
                     <a name="docum"></a>**_document_** includes any book, register or other record of information, however compiled, recorded or stored.
 
@@ -340,7 +338,7 @@ but does not include:
 
                     <a name="employ"></a>**_employment_** includes:
 
-                     (a)  part‑time and temporary employment;
+                     (a)  part-time and temporary employment;
 
                      (b)  work under a contract for services; and
 
@@ -378,13 +376,7 @@ but does not include:
 
                      (a)  a parent, child, grandparent, grandchild, brother or sister of the person; or
 
-                     (b)  the spouse or de facto spouse of the first‑mentioned person or of a person referred to in paragraph (a).
-
-                    <a name="offici-record-person-sex"></a>**_official record of a person’s sex_** means:
-
-                     (a)  a record of a person’s sex in a register of births, deaths and marriages (however described); or
-
-                     (b)  a document (however described), issued under a law of a State or Territory, the purpose of which is to identify or acknowledge a person’s sex.
+                     (b)  the spouse or de facto spouse of the first-mentioned person or of a person referred to in paragraph (a).
 
                     <a name="potenti-pregnanc"></a>**_potential pregnancy_** has a meaning affected by section 4B.
 
@@ -410,26 +402,6 @@ but does not include:
 
                     <a name="regist-organis"></a>**_registered organisation_** means an organisation registered, or an association recognised, under the _Fair Work (Registered Organisations) Act 2009_.
 
-                    <a name="relev-intern-instrum"></a>**_relevant international instrument_** means:
-
-                     (a)  the Convention on the Elimination of All Forms of Discrimination Against Women done at New York on 18 December 1979 (\[1983] ATS 9) (a copy of the English text of which is set out in the Schedule); or
-
-                     (b)  the International Covenant on Civil and Political Rights done at New York on 16 December 1966 (\[1980] ATS 23); or
-
-                     (c)  the International Covenant on Economic, Social and Cultural Rights done at New York on 16 December 1966 (\[1976] ATS 5); or
-
-                     (d)  the Convention on the Rights of the Child done at New York on 20 November 1989 (\[1991] ATS 4); or
-
-                     (e)  ILO Convention (No. 100) concerning Equal Remuneration for Men and Women Workers for Work of Equal Value done at Geneva on 29 June 1951 (\[1975] ATS 45); or
-
-                      (f)  ILO Convention (No. 111) concerning Discrimination in respect of Employment and Occupation done at Geneva on 25 June 1958 (\[1974] ATS 12); or
-
-                     (g)  ILO Convention (No. 156) concerning Equal Opportunities and Equal Treatment for Men and Women Workers: Workers with Family Responsibilities done at Geneva on 23 June 1981 (\[1991] ATS 7); or
-
-                     (h)  ILO Convention (No. 158) concerning Termination of Employment at the Initiative of the Employer done at Geneva on 22 June 1982 (\[1994] ATS 4).
-
-Note:          In 2010, the text of a Convention or Covenant in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
                     <a name="servic"></a>**_services_** includes:
 
                      (a)  services relating to banking, insurance and the provision of grants, loans, credit or finance;
@@ -442,7 +414,7 @@ Note:          In 2010, the text of a Convention or Covenant i
 
                      (e)  services of the kind provided by a government, a government authority or a local government body.
 
-                    <a name="state"></a>**_State_**, except in subsections 9(15), (16), (17) and (18), includes the Australian Capital Territory and the Northern Territory.
+                    <a name="state"></a>**_State_**, except in subsections 9(15), (16), (17) and (18), includes the Australian Capital Territory and the Northern   Territory.
 
                     <a name="superannu-benefit"></a>**_superannuation benefit_**, in relation to a member of a superannuation fund, means a benefit that is payable, under the terms and conditions relating to the fund:
 
@@ -456,7 +428,7 @@ Note:          In 2010, the text of a Convention or Covenant i
 
                     <a name="technic-further-educ-institut"></a>**_technical and further education institution_** has the same meaning as that expression has in the _Employment, Education and Training Act 1988_.
 
-                    <a name="territori"></a>**_Territory_**, except in subsections 9(17) and (18), does not include the Australian Capital Territory and the Northern Territory.
+                    <a name="territori"></a>**_Territory_**, except in subsections 9(17) and (18), does not include the Australian Capital Territory and the Northern   Territory.
 
                     <a name="voluntari-bodi"></a>**_voluntary body_** means an association or other body (whether incorporated or unincorporated) the activities of which are not engaged in for the purpose of making a profit, but does not include:
 
@@ -474,9 +446,9 @@ Note:          In 2010, the text of a Convention or Covenant i
 
 ##### <a id="4A"></a>4A  Meaning of _family responsibilities_ 
 
-             (1)  In this Act, **_family responsibilities_**, in relation to a person, means responsibilities of the person to care for or support:
+             (1)   In this Act, **_family responsibilities_**, in relation to an employee, means responsibilities of the employee to care for or support:
 
-                     (a)  a dependent child of the person; or
+                     (a)  a dependent child of the employee; or
 
                      (b)  any other immediate family member who is in need of care and support.
 
@@ -490,13 +462,13 @@ Note:          In 2010, the text of a Convention or Covenant i
 
                     <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
 
-                    <a name="depend-child"></a>**_dependent child_** means a child who is wholly or substantially dependent on the person.
+                    <a name="depend-child"></a>**_dependent child_** means a child who is wholly or substantially dependent on the employee.
 
                     <a name="immedi-famili-member"></a>**_immediate family member_** includes:
 
-                     (a)  a spouse of the person; and
+                     (a)  a spouse of the employee; and
 
-                     (b)  an adult child, parent, grandparent, grandchild or sibling of the person or of a spouse of the person.
+                     (b)  an adult child, parent, grandparent, grandchild or sibling of the employee or of a spouse of the employee.
 
                     <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this section, someone is the **_parent_** of a person if the person is his or her child because of paragraph (b) of the definition of **_child_** in this subsection.
 
@@ -528,6 +500,8 @@ Note:          In 2010, the text of a Convention or Covenant i
 
 the discriminator treats the aggrieved person less favourably than, in circumstances that are the same or are not materially different, the discriminator treats or would treat a person of the opposite sex.
 
+          (1A)  To avoid doubt, breastfeeding (including the act of expressing milk) is a characteristic that appertains generally to women.
+
              (2)  For the purposes of this Act, a person (the **_discriminator_**) discriminates against another person (the **_aggrieved person_**) on the ground of the sex of the aggrieved person if the discriminator imposes, or proposes to impose, a condition, requirement or practice that has, or is likely to have, the effect of disadvantaging persons of the same sex as the aggrieved person.
 
              (3)  This section has effect subject to sections 7B and 7D.
@@ -536,9 +510,9 @@ the discriminator treats the aggrieved person less favourably than, in circumsta
 
              (1)  For the purposes of this Act, a person (in this subsection referred to as the **_discriminator_**) discriminates against another person (in this subsection referred to as the **_aggrieved person_**) on the ground of the marital status of the aggrieved person if, by reason of:
 
-                     (a)  the marital status of the aggrieved person; or
+                     (a)  the marital status of the aggrieved person; or
 
-                     (b)  a characteristic that appertains generally to persons of the marital status of the aggrieved person; or
+                     (b)  a characteristic that appertains generally to persons of the marital status of the aggrieved person; or
 
                      (c)  a characteristic that is generally imputed to persons of the marital status of the aggrieved person;
 
@@ -560,33 +534,9 @@ the discriminator treats the aggrieved person less favourably than, in circumsta
 
 the discriminator treats the aggrieved woman less favourably than, in circumstances that are the same or are not materially different, the discriminator treats or would treat someone who is not pregnant or potentially pregnant.
 
-             (2)  For the purposes of this Act, a person (the **_discriminator_**) discriminates against a woman (the **_aggrieved woman_**) on the ground of the aggrieved woman’s pregnancy or potential pregnancy if the discriminator imposes, or proposes to impose, a condition, requirement or practice that has, or is likely to have, the effect of disadvantaging women who are pregnant or potentially pregnant.
+             (2)  For the purposes of this Act, a person (the **_discriminator_**) discriminates against a woman (the **_aggrieved woman_**) on the ground of the aggrieved woman’s pregnancy or potential pregnancy if the discriminator imposes, or proposes to impose, a condition, requirement or practice that has, or is likely to have, the effect of disadvantaging women who are also pregnant or potentially pregnant.
 
              (3)  This section has effect subject to sections 7B and 7D.
-
-##### <a id="7AA"></a>7AA  Discrimination on the ground of breastfeeding
-
-             (1)  For the purposes of this Act, a person (the **_discriminator_**) discriminates against a woman (the **_aggrieved woman_**) on the ground of the aggrieved woman’s breastfeeding if, by reason of:
-
-                     (a)  the aggrieved woman’s breastfeeding; or
-
-                     (b)  a characteristic that appertains generally to women who are breastfeeding; or
-
-                     (c)  a characteristic that is generally imputed to women who are breastfeeding;
-
-the discriminator treats the aggrieved woman less favourably than, in circumstances that are the same or are not materially different, the discriminator treats or would treat someone who is not breastfeeding.
-
-             (2)  For the purposes of this Act, a person (the **_discriminator_**) discriminates against a woman (the **_aggrieved woman_**) on the ground of the aggrieved woman’s breastfeeding if the discriminator imposes, or proposes to impose, a condition, requirement or practice that has, or is likely to have, the effect of disadvantaging women who are breastfeeding.
-
-             (3)  To avoid doubt, a reference in this Act to **_breastfeeding_** includes the act of expressing milk.
-
-             (4)  To avoid doubt, a reference in this Act to **_breastfeeding_** includes:
-
-                     (a)  an act of breastfeeding; and
-
-                     (b)  breastfeeding over a period of time.
-
-             (5)  This section has effect subject to sections 7B and 7D.
 
 ##### <a id="7A"></a>7A  Discrimination on the ground of family responsibilities
 
@@ -604,7 +554,7 @@ the discriminator treats the aggrieved woman less favourably than, in circumstan
 
 ##### <a id="7B"></a>7B  Indirect discrimination: reasonableness test
 
-             (1)  A person does not discriminate against another person by imposing, or proposing to impose, a condition, requirement or practice that has, or is likely to have, the disadvantaging effect mentioned in subsection 5(2), 6(2), 7(2) or 7AA(2) or section 7A if the condition, requirement or practice is reasonable in the circumstances.
+             (1)  A person does not discriminate against another person by imposing, or proposing to impose, a condition, requirement or practice that has, or is likely to have, the disadvantaging effect mentioned in subsection 5(2), 6(2) or 7(2) if the condition, requirement or practice is reasonable in the circumstances.
 
              (2)  The matters to be taken into account in deciding whether a condition, requirement or practice is reasonable in the circumstances include:
 
@@ -628,13 +578,9 @@ the discriminator treats the aggrieved woman less favourably than, in circumstan
 
                      (c)  women who are pregnant and people who are not pregnant; or
 
-                     (d)  women who are potentially pregnant and people who are not potentially pregnant; or
+                     (d)  women who are potentially pregnant and people who are not potentially pregnant.
 
-                     (e)  women who are breastfeeding and people who are not breastfeeding; or
-
-                      (f)  people with family responsibilities and people without family responsibilities.
-
-             (2)  A person does not discriminate against another person under section 5, 6, 7, 7AA or 7A by taking special measures authorised by subsection (1).
+             (2)  A person does not discriminate against another person under section 5, 6 or 7 by taking special measures authorised by subsection (1).
 
              (3)  A measure is to be treated as being taken for a purpose referred to in subsection (1) if it is taken:
 
@@ -646,7 +592,7 @@ the discriminator treats the aggrieved woman less favourably than, in circumstan
 
 ##### <a id="8"></a>8  Act done for 2 or more reasons
 
-                   A reference in subsection 5(1), 6(1), 7(1) or 7AA(1) or section 7A to the doing of an act by reason of a particular matter includes a reference to the doing of such an act by reason of 2 or more matters that include the particular matter, whether or not the particular matter is the dominant or substantial reason for the doing of the act.
+                   A reference in subsection 5(1), 6(1) or 7(1) or section 7A to the doing of an act by reason of a particular matter includes a reference to the doing of such an act by reason of 2 or more matters that include the particular matter, whether or not the particular matter is the dominant or substantial reason for the doing of the act.
 
 ##### <a id="9"></a>9  Application of Act
 
@@ -688,17 +634,29 @@ in the exercise of a power conferred by a law of the Commonwealth or a law of a 
 
 a power conferred by a law of the Commonwealth or a law of a Territory, being acts done by the person in connection with the exercise of that power.
 
-             (9)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done by or in relation to a person who is a Commonwealth employee in connection with the person’s duties as a Commonwealth employee or done by or in relation to a person who is a member of the staff of an educational institution established by a law of the Commonwealth or a law of a Territory in connection with the person’s duties as a member of the staff of such an educational institution.
+             (9)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done by a person who is a Commonwealth employee in connection with the person’s duties as a Commonwealth employee or done by a person who is a member of the staff of an educational institution established by a law of the Commonwealth or a law of a Territory in connection with the person’s duties as a member of the staff of such an educational institution.
 
-           (10)  The prescribed provisions of Part II, and the prescribed provisions of Division 3 of Part II, have effect to the extent that the provisions give effect to a relevant international instrument.
+           (10)  If the Convention is in force in relation to Australia, the prescribed provisions of Part II, and the prescribed provisions of Division 3 of Part II, have effect in relation to discrimination against women, to the extent that the provisions give effect to the Convention.
 
-           (11)  The prescribed provisions of Part II have effect in relation to discrimination by a foreign corporation, or a trading or financial corporation formed within the limits of the Commonwealth, or by or in relation to a person in the course of the person’s duties or purported duties as an officer or employee of such a corporation.
+        (10A)  Subsection 14(3A) has effect in relation to discrimination involving dismissal of employees on the ground of family responsibilities, to the extent that the subsection gives effect to any of the following instruments:
 
-           (12)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done, by or in relation to a person who is an officer or employee of a foreign corporation, or of a trading or financial corporation formed within the limits of the Commonwealth, in connection with the person’s duties as such an officer or employee.
+                     (a)  the International Covenant on Civil and Political Rights done at New York on 16 December 1966 \[1980] ATS 23 (a copy of the English text of which is set out in Schedule 2 to the _Australian Human Rights Commission Act 1986_);
 
-           (13)  Without prejudice to the effect of subsection (11), the prescribed provisions of Part II have effect in relation to discrimination by a trading or financial corporation formed within the limits of the Commonwealth, or by or in relation to a person in the course of the person’s duties or purported duties as an officer or employee of such a corporation, to the extent that the discrimination takes place in the course of the trading activities of the trading corporation or the financial activities of the financial corporation, as the case may be.
+                     (b)  the International Covenant on Economic, Social and Cultural Rights done at New York on 16 December 1966 \[1976] ATS 5;
 
-           (14)  Without prejudice to the effect of subsection (12), the prescribed provisions of Division 3 of Part II have effect in relation to acts done, by or in relation to a person who is an officer or employee of a trading or financial corporation formed within the limits of the Commonwealth, in connection with any of the person’s duties as such an officer or employee that relate to the trading activities of the trading corporation or the financial activities of the financial corporation, as the case may be.
+                     (c)  ILO Convention (No. 111) concerning Discrimination in respect of Employment and Occupation done at Geneva on 25 June 1958 \[1974] ATS 12 (a copy of the English text of which is set out in Schedule 1 to the _Australian Human Rights Commission Act 1986_);
+
+                     (d)  the Convention on the Rights of the Child done at New York on 20 November 1989 \[1991] ATS 4.
+
+Note:       In 2008, the text of international agreements in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+           (11)  The prescribed provisions of Part II have effect in relation to discrimination by a foreign corporation, or a trading or financial corporation formed within the limits of the Commonwealth, or by a person in the course of the person’s duties or purported duties as an officer or employee of such a corporation.
+
+           (12)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done, by a person who is an officer or employee of a foreign corporation, or of a trading or financial corporation formed within the limits of the Commonwealth, in connection with the person’s duties as such an officer or employee.
+
+           (13)  Without prejudice to the effect of subsection (11), the prescribed provisions of Part II have effect in relation to discrimination by a trading or financial corporation formed within the limits of the Commonwealth, or by a person in the course of the person’s duties or purported duties as an officer or employee of such a corporation, to the extent that the discrimination takes place in the course of the trading activities of the trading corporation or the financial activities of the financial corporation, as the case may be.
+
+           (14)  Without prejudice to the effect of subsection (12), the prescribed provisions of Division 3 of Part II have effect in relation to acts done, by a person who is an officer or employee of a trading or financial corporation formed within the limits of the Commonwealth, in connection with any of the person’s duties as such an officer or employee that relate to the trading activities of the trading corporation or the financial activities of the financial corporation, as the case may be.
 
            (15)  The prescribed provisions of Part II have effect in relation to discrimination in the course of, or in relation to, the carrying on of the business of:
 
@@ -736,13 +694,11 @@ a power conferred by a law of the Commonwealth or a law of a Territory, being ac
 
            (20)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done within Australia involving persons or things, or matters arising, outside Australia.
 
-           (21)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done using a postal, telegraphic, telephonic or other like service (within the meaning of paragraph 51(v) of the Constitution).
-
 ##### <a id="10"></a>10  Operation of State and Territory laws
 
-             (1)  A reference in this section to this Act is a reference to this Act as it has effect by virtue of any of the provisions of section 9 other than subsection 9(10).
+             (1)  A reference in this section to this Act is a reference to this Act as it has effect by virtue of any of the provisions of section 9 other than subsection 9(10) or (10A).
 
-             (2)  A reference in this section to a law of a State or Territory is a reference to a law of a State or Territory that deals with discrimination on the ground of sex, discrimination on the ground of marital status, discrimination on the ground of pregnancy or potential pregnancy, discrimination on the ground of breastfeeding or discrimination on the ground of family responsibilities.
+             (2)  A reference in this section to a law of a State or Territory is a reference to a law of a State or Territory that deals with discrimination on the ground of sex, discrimination on the ground of marital status or discrimination on the ground of pregnancy or potential pregnancy.
 
              (3)  This Act is not intended to exclude or limit the operation of a law of a State or Territory that is capable of operating concurrently with this Act.
 
@@ -762,17 +718,17 @@ the person is not entitled to make a complaint or institute a proceeding under t
 
 the person may be prosecuted and convicted either under that law of the State or Territory or under this Act, but nothing in this subsection renders a person liable to be punished more than once in respect of the same act or omission.
 
-##### <a id="11"></a>11  Operation of State and Territory laws that further objects of relevant international instruments
+##### <a id="11"></a>11  Operation of State and Territory laws that further objects of Convention
 
              (1)  A reference in this section to this Act is a reference to this Act as it has effect by virtue of subsection 9(10).
 
-             (2)  A reference in this section to a law of a State or Territory is a reference to a law of a State or Territory that deals with discrimination on the ground of sex, discrimination on the ground of marital status, discrimination on the ground of pregnancy or potential pregnancy, discrimination on the ground of breastfeeding or discrimination on the ground of family responsibilities.
+             (2)  A reference in this section to a law of a State or Territory is a reference to a law of a State or Territory that deals with discrimination on the ground of sex, discrimination on the ground of marital status or discrimination on the ground of pregnancy or potential pregnancy.
 
-             (3)  This Act is not intended to exclude or limit the operation of a law of a State or Territory that furthers the objects of a relevant international instrument and is capable of operating concurrently with this Act.
+             (3)  This Act is not intended to exclude or limit the operation of a law of a State or Territory that furthers the objects of the Convention and is capable of operating concurrently with this Act.
 
              (4)  Where:
 
-                     (a)  a law of a State or Territory that furthers the objects of a relevant international instrument deals with a matter dealt with by this Act; and
+                     (a)  a law of a State or Territory that furthers the objects of the Convention deals with a matter dealt with by this Act; and
 
                      (b)  a person has made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II of this Act;
 
@@ -780,11 +736,39 @@ the person is not entitled to make a complaint or institute a proceeding under t
 
              (5)  Where:
 
-                     (a)  a law of a State or Territory that furthers the objects of a relevant international instrument deals with a matter dealt with by this Act; and
+                     (a)  a law of a State or Territory that furthers the objects of the Convention deals with a matter dealt with by this Act; and
 
                      (b)  an act or omission by a person that constitutes an offence against that law also constitutes an offence against this Act;
 
 the person may be prosecuted and convicted either under that law of the State or Territory or under this Act, but nothing in this subsection renders a person liable to be punished more than once in respect of the same act or omission.
+
+##### <a id="11A"></a>11A  Operation of State and Territory laws that further objects of other instruments
+
+             (1)  A reference in this section to this Act is a reference to this Act as it has effect because of subsection 9(10A).
+
+             (2)  A reference in this section to a law of a State or Territory is a reference to a law of a State or Territory that deals with discrimination involving dismissal of employees on the ground of family responsibilities.
+
+             (3)  This Act is not intended to exclude or limit the operation of a law of a State or Territory that furthers the objects of a relevant instrument and is capable of operating concurrently with this Act.
+
+             (4)  If:
+
+                     (a)  a law of a State or Territory that furthers the objects of a relevant instrument deals with a matter dealt with by this Act; and
+
+                     (b)  a person has made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under subsection 14(3A) of this Act;
+
+the person is not entitled to make a complaint or institute a proceeding under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under that subsection.
+
+             (5)  If:
+
+                     (a)  a law of a State or Territory that furthers the objects of a relevant instrument deals with a matter dealt with by this Act; and
+
+                     (b)  an act or omission by a person that constitutes an offence against that law also constitutes an offence against this Act;
+
+the person may be prosecuted and convicted either under that law of the State or Territory or under this Act, but nothing in this subsection renders a person liable to be punished more than once in respect of the same act or omission.
+
+             (6)  In this section:
+
+                    <a name="relev-instrum"></a>**_relevant instrument_** means an instrument referred to in subsection 9(10A).
 
 ##### <a id="12"></a>12  Extent to which Act binds the Crown
 
@@ -810,7 +794,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="14"></a>14  Discrimination in employment or in superannuation
 
-             (1)  It is unlawful for an employer to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+             (1)  It is unlawful for an employer to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  in the arrangements made for the purpose of determining who should be offered employment;
 
@@ -818,7 +802,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  in the terms or conditions on which employment is offered.
 
-             (2)  It is unlawful for an employer to discriminate against an employee on the ground of the employee’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+             (2)  It is unlawful for an employer to discriminate against an employee on the ground of the employee’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  in the terms or conditions of employment that the employer affords the employee;
 
@@ -828,7 +812,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  by subjecting the employee to any other detriment.
 
-             (3)  Nothing in paragraph (1)(a) or (b) renders it unlawful for a person to discriminate against another person, on the ground of the other person’s sex, in connection with employment to perform domestic duties on the premises on which the first‑mentioned person resides.
+             (3)  Nothing in paragraph (1)(a) or (b) renders it unlawful for a person to discriminate against another person, on the ground of the other person’s sex, in connection with employment to perform domestic duties on the premises on which the first-mentioned person resides.
+
+          (3A)  It is unlawful for an employer to discriminate against an employee on the ground of the employee’s family responsibilities by dismissing the employee.
 
              (4)  Where a person exercises a discretion in relation to the payment of a superannuation benefit to or in respect of a member of a superannuation fund, it is unlawful for the person to discriminate, in the exercise of the discretion, against the member or another person on the ground, in either case, of the sex or marital status of the member or that other person.
 
@@ -840,7 +826,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="15"></a>15  Discrimination against commission agents
 
-             (1)  It is unlawful for a principal to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+             (1)  It is unlawful for a principal to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  in the arrangements the principal makes for the purpose of determining who should be engaged as a commission agent;
 
@@ -848,7 +834,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  in the terms or conditions on which the person is engaged as a commission agent.
 
-             (2)  It is unlawful for a principal to discriminate against a commission agent on the ground of the commission agent’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+             (2)  It is unlawful for a principal to discriminate against a commission agent on the ground of the commission agent’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  in the terms or conditions that the principal affords the commission agent as a commission agent;
 
@@ -860,7 +846,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="16"></a>16  Discrimination against contract workers
 
-                   It is unlawful for a principal to discriminate against a contract worker on the ground of the contract worker’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+                   It is unlawful for a principal to discriminate against a contract worker on the ground of the contract worker’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  in the terms or conditions on which the principal allows the contract worker to work;
 
@@ -872,19 +858,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="17"></a>17  Partnerships
 
-             (1)  It is unlawful for 6 or more persons, being persons who are proposing to form themselves into a partnership, to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+             (1)  It is unlawful for 6 or more persons, being persons who are proposing to form themselves into a partnership, to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  in determining who should be invited to become a partner in the partnership; or
 
                      (b)  in the terms or conditions on which the person is invited to become a partner in the partnership.
 
-             (2)  It is unlawful for any one or more of the partners in a partnership consisting of 6 or more partners to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+             (2)  It is unlawful for any one or more of the partners in a partnership consisting of 6 or more partners to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  in determining who should be invited to become a partner in the partnership; or
 
                      (b)  in the terms or conditions on which the person is invited to become a partner in the partnership.
 
-             (3)  It is unlawful for any one or more of the partners in a partnership consisting of 6 or more partners to discriminate against a partner in the partnership on the ground of the partner’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+             (3)  It is unlawful for any one or more of the partners in a partnership consisting of 6 or more partners to discriminate against a partner in the partnership on the ground of the partner’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by denying the partner access, or limiting the partner’s access, to any benefit arising from being a partner in the partnership;
 
@@ -894,7 +880,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="18"></a>18  Qualifying bodies
 
-                   It is unlawful for an authority or body that is empowered to confer, renew, extend, revoke or withdraw an authorization or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+                   It is unlawful for an authority or body that is empowered to confer, renew, extend, revoke or withdraw an authorization or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by refusing or failing to confer, renew or extend the authorization or qualification;
 
@@ -904,13 +890,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="19"></a>19  Registered organisations under the _Fair Work (Registered Organisations) Act 2009_
 
-             (1)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person, on the ground of the person’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+             (1)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person, on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by refusing or failing to accept the person’s application for membership; or
 
                      (b)  in the terms or conditions on which the organisation is prepared to admit the person to membership.
 
-             (2)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person who is a member of the registered organisation, on the ground of the member’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+             (2)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person who is a member of the registered organisation, on the ground of the member’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by denying the member access, or limiting the member’s access, to any benefit provided by the organisation;
 
@@ -920,7 +906,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="20"></a>20  Employment agencies
 
-                   It is unlawful for an employment agency to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
+                   It is unlawful for an employment agency to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by refusing to provide the person with any of its services;
 
@@ -932,13 +918,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="21"></a>21  Education
 
-             (1)  It is unlawful for an educational authority to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy, or breastfeeding:
+             (1)  It is unlawful for an educational authority to discriminate against a person on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by refusing or failing to accept the person’s application for admission as a student; or
 
                      (b)  in the terms or conditions on which it is prepared to admit the person as a student.
 
-             (2)  It is unlawful for an educational authority to discriminate against a student on the ground of the student’s sex, marital status, pregnancy or potential pregnancy, or breastfeeding:
+             (2)  It is unlawful for an educational authority to discriminate against a student on the ground of the student’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by denying the student access, or limiting the student’s access, to any benefit provided by the educational authority;
 
@@ -956,19 +942,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="22"></a>22  Goods, services and facilities
 
-             (1)  It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to discriminate against another person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy, or breastfeeding:
+             (1)  It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to discriminate against another person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by refusing to provide the other person with those goods or services or to make those facilities available to the other person;
 
-                     (b)  in the terms or conditions on which the first‑mentioned person provides the other person with those goods or services or makes those facilities available to the other person; or
+                     (b)  in the terms or conditions on which the first-mentioned person provides the other person with those goods or services or makes those facilities available to the other person; or
 
-                     (c)  in the manner in which the first‑mentioned person provides the other person with those goods or services or makes those facilities available to the other person.
+                     (c)  in the manner in which the first-mentioned person provides the other person with those goods or services or makes those facilities available to the other person.
 
              (2)  This section binds the Crown in right of a State.
 
 ##### <a id="23"></a>23  Accommodation
 
-             (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy, or breastfeeding:
+             (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by refusing the other person’s application for accommodation;
 
@@ -976,7 +962,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  by deferring the other person’s application for accommodation or according to the other person a lower order of precedence in any list of applicants for that accommodation.
 
-             (2)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy, or breastfeeding:
+             (2)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by denying the other person access, or limiting the other person’s access, to any benefit associated with accommodation occupied by the other person;
 
@@ -994,13 +980,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  accommodation provided by a religious body; or
 
-                     (c)  accommodation provided by a charitable or other non‑profit‑making body solely for persons of one sex or solely for persons of a particular marital status or particular marital statuses.
+                     (c)  accommodation provided by a charitable or other non-profit-making body solely for persons of one sex or solely for persons of a particular marital status or particular marital statuses.
 
              (4)  This section binds the Crown in right of a State.
 
 ##### <a id="24"></a>24  Land
 
-             (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy, or breastfeeding:
+             (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by refusing or failing to dispose of an estate or interest in land to the other person; or
 
@@ -1012,13 +998,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="25"></a>25  Clubs
 
-             (1)  It is unlawful for a club, the committee of management of a club or a member of the committee of management of a club to discriminate against a person who is not a member of the club on the ground of the person’s sex, marital status, pregnancy or potential pregnancy, or breastfeeding:
+             (1)  It is unlawful for a club, the committee of management of a club or a member of the committee of management of a club to discriminate against a person who is not a member of the club on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by refusing or failing to accept the person’s application for membership; or
 
                      (b)  in the terms or conditions on which the club is prepared to admit the person to membership.
 
-             (2)  It is unlawful for a club, the committee of management of a club or a member of the committee of management of a club to discriminate against a person who is a member of the club on the ground of the member’s sex, marital status, pregnancy or potential pregnancy, or breastfeeding:
+             (2)  It is unlawful for a club, the committee of management of a club or a member of the committee of management of a club to discriminate against a person who is a member of the club on the ground of the member’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  in the terms or conditions of membership that are afforded to the member;
 
@@ -1044,7 +1030,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  either:
 
-                              (i)  the same, or an equivalent, benefit is provided for the use of men and women separately from each other; or
+                              (i)   the same, or an equivalent, benefit is provided for the use of men and women separately from each other; or
 
                              (ii)  men and women are each entitled to a fair and reasonable proportion of the use and enjoyment of the benefit.
 
@@ -1062,7 +1048,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="26"></a>26  Administration of Commonwealth laws and programs
 
-             (1)  It is unlawful for a person who performs any function or exercises any power under a Commonwealth law or for the purposes of a Commonwealth program, or has any other responsibility for the administration of a Commonwealth law or the conduct of a Commonwealth program, to discriminate against another person, on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy, or breastfeeding, in the performance of that function, the exercise of that power or the fulfilment of that responsibility.
+             (1)  It is unlawful for a person who performs any function or exercises any power under a Commonwealth law or for the purposes of a Commonwealth program, or has any other responsibility for the administration of a Commonwealth law or the conduct of a Commonwealth program, to discriminate against another person, on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy, in the performance of that function, the exercise of that power or the fulfilment of that responsibility.
 
              (2)  This section binds the Crown in right of a State.
 
@@ -1072,7 +1058,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  the information is requested or required in connection with, or for the purposes of, the first person doing a particular act; and
 
-                     (b)  under Division 1 or this Division, it would be unlawful in particular circumstances for the first person, in doing that act, to discriminate against the other person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities; and
+                     (b)  under Division 1 or this Division, it would be unlawful in particular circumstances for the first person, in doing that act, to discriminate against the other person on the ground of the other person’s sex, marital status, pregnancy or potential pregnancy; and
 
                      (c)  persons:
 
@@ -1080,11 +1066,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                              (ii)  of a different marital status; or
 
-                            (iii)  who are not pregnant or potentially pregnant; or
-
-                            (iv)  who are not breastfeeding; or
-
-                             (v)  without family responsibilities;
+                            (iii)  who are not pregnant or potentially pregnant;
 
                             as the case requires, would not be requested or required to provide the information in circumstances that are the same or not materially different.
 
@@ -1092,7 +1074,7 @@ Example:    Under section 14 of Division 1, it is unlawful to determin
 
              (2)  Nothing in subsection (1) renders it unlawful for a person to request or require:
 
-                     (a)  a person of a particular sex to provide information concerning such part of the last‑mentioned person’s medical history as relates to medical conditions that affect persons of that sex only; or
+                     (a)  a person of a particular sex to provide information concerning such part of the last-mentioned person’s medical history as relates to medical conditions that affect persons of that sex only; or
 
                      (b)  a person who is pregnant to provide medical information concerning the pregnancy.
 
@@ -1110,17 +1092,7 @@ Note:          Information obtained under this subsection may 
 
                      (b)  engages in other unwelcome conduct of a sexual nature in relation to the person harassed;
 
-in circumstances in which a reasonable person, having regard to all the circumstances, would have anticipated the possibility that the person harassed would be offended, humiliated or intimidated.
-
-          (1A)  For the purposes of subsection (1), the circumstances to be taken into account include, but are not limited to, the following:
-
-                     (a)  the sex, age, marital status, sexual preference, religious belief, race, colour, or national or ethnic origin, of the person harassed;
-
-                     (b)  the relationship between the person harassed and the person who made the advance or request or who engaged in the conduct;
-
-                     (c)  any disability of the person harassed;
-
-                     (d)  any other relevant circumstance.
+in circumstances in which a reasonable person, having regard to all the circumstances, would have anticipated that the person harassed would be offended, humiliated or intimidated.
 
              (2)  In this section:
 
@@ -1146,7 +1118,7 @@ in circumstances in which a reasonable person, having regard to all the circumst
 
              (5)  It is unlawful for a partner in a partnership to sexually harass another partner, or a person who is seeking to become a partner, in the same partnership.
 
-             (6)  It is unlawful for a workplace participant to sexually harass another workplace participant at a place that is a workplace of either or both of those persons.
+             (6)  It is unlawful for a workplace participant to sexually harass another workplace participant at a place that is a workplace of both of those persons.
 
              (7)  In this section:
 
@@ -1206,29 +1178,17 @@ to sexually harass another person in the course of providing, or offering to pro
 
              (2)  It is unlawful for a person who is an adult student at an educational institution to sexually harass:
 
-                     (a)  a person who is a student at the institution; or
+                     (a)  a person who is an adult student at the institution; or
 
                      (b)  a member of the staff of the institution.
-
-          (2A)  It is unlawful for a person (the **_first person_**) who is a member of the staff of an educational institution (the **_first educational institution_**) to sexually harass a person who is a student at another educational institution if the sexual harassment occurs in connection with the first person being a member of staff of the first educational institution.
-
-          (2B)  It is unlawful for a person (the **_first person_**) who is an adult student at an educational institution (the **_first educational institution_**) to sexually harass:
-
-                     (a)  a person who is a student at another educational institution; or
-
-                     (b)  a member of the staff of another educational institution;
-
-if the sexual harassment occurs in connection with the first person being a student at the first educational institution.
 
              (3)  In this section:
 
                     <a name="adult-student"></a>**_adult student_** means a student who has attained the age of 16 years.
 
-##### <a id="28G"></a>28G  Goods, services and facilities
+##### <a id="28G"></a>28G  Provision of goods, services and facilities
 
-             (1)  It is unlawful for a person to sexually harass another person in the course of providing, or offering to provide, goods, services or facilities to that other person.
-
-             (2)  It is unlawful for a person to sexually harass another person in the course of seeking, or receiving, goods, services or facilities from that other person.
+                   It is unlawful for a person to sexually harass another person in the course of providing, or offering to provide, goods, services or facilities to that other person.
 
 ##### <a id="28H"></a>28H  Provision of accommodation
 
@@ -1288,9 +1248,9 @@ to sexually harass another person.
 
                      (h)  the position is declared, by regulations made for the purposes of this paragraph, to be a position in relation to which it is a genuine occupational qualification to be a person of a particular sex.
 
-##### <a id="31"></a>31  Pregnancy, childbirth or breastfeeding
+##### <a id="31"></a>31  Pregnancy or childbirth
 
-                   Nothing in Division 1 or 2 renders it unlawful for a person to discriminate against a man on the ground of his sex by reason only of the fact that the first‑mentioned person grants to a woman rights or privileges in connection with pregnancy, childbirth or breastfeeding.
+                   Nothing in Division 1 or 2 renders it unlawful for a person to discriminate against a man on the ground of his sex by reason only of the fact that the first-mentioned person grants to a woman rights or privileges in connection with pregnancy or childbirth.
 
 ##### <a id="32"></a>32  Services for members of one sex
 
@@ -1344,15 +1304,15 @@ to sexually harass another person.
 
 ##### <a id="38"></a>38  Educational institutions established for religious purposes
 
-             (1)  Nothing in paragraph 14(1)(a) or (b) or 14(2)(c) renders it unlawful for a person to discriminate against another person on the ground of the other person’s sex, marital status or pregnancy in connection with employment as a member of the staff of an educational institution that is conducted in accordance with the doctrines, tenets, beliefs or teachings of a particular religion or creed, if the first‑mentioned person so discriminates in good faith in order to avoid injury to the religious susceptibilities of adherents of that religion or creed.
+             (1)  Nothing in paragraph 14(1)(a) or (b) or 14(2)(c) renders it unlawful for a person to discriminate against another person on the ground of the other person’s sex, marital status or pregnancy in connection with employment as a member of the staff of an educational institution that is conducted in accordance with the doctrines, tenets, beliefs or teachings of a particular religion or creed, if the first-mentioned person so discriminates in good faith in order to avoid injury to the religious susceptibilities of adherents of that religion or creed.
 
-             (2)  Nothing in paragraph 16(b) renders it unlawful for a person to discriminate against another person on the ground of the other person’s sex, marital status or pregnancy in connection with a position as a contract worker that involves the doing of work in an educational institution that is conducted in accordance with the doctrines, tenets, beliefs or teachings of a particular religion or creed, if the first‑mentioned person so discriminates in good faith in order to avoid injury to the religious susceptibilities of adherents of that religion or creed.
+             (2)  Nothing in paragraph 16(b) renders it unlawful for a person to discriminate against another person on the ground of the other person’s sex, marital status or pregnancy in connection with a position as a contract worker that involves the doing of work in an educational institution that is conducted in accordance with the doctrines, tenets, beliefs or teachings of a particular religion or creed, if the first-mentioned person so discriminates in good faith in order to avoid injury to the religious susceptibilities of adherents of that religion or creed.
 
-             (3)  Nothing in section 21 renders it unlawful for a person to discriminate against another person on the ground of the other person’s marital status or pregnancy in connection with the provision of education or training by an educational institution that is conducted in accordance with the doctrines, tenets, beliefs or teachings of a particular religion or creed, if the first‑mentioned person so discriminates in good faith in order to avoid injury to the religious susceptibilities of adherents of that religion or creed.
+             (3)  Nothing in section 21 renders it unlawful for a person to discriminate against another person on the ground of the other person’s marital status or pregnancy in connection with the provision of education or training by an educational institution that is conducted in accordance with the doctrines, tenets, beliefs or teachings of a particular religion or creed, if the first-mentioned person so discriminates in good faith in order to avoid injury to the religious susceptibilities of adherents of that religion or creed.
 
 ##### <a id="39"></a>39  Voluntary bodies
 
-                   Nothing in Division 1 or 2 renders it unlawful for a voluntary body to discriminate against a person, on the ground of the person’s sex, marital status, pregnancy, breastfeeding or family responsibilities, in connection with:
+                   Nothing in Division 1 or 2 renders it unlawful for a voluntary body to discriminate against a person, on the ground of the person’s sex, marital status or pregnancy, in connection with:
 
                      (a)  the admission of persons as members of the body; or
 
@@ -1402,11 +1362,9 @@ Note:          A person does not comply with an industrial ins
 
                       (j)  the _Social Services Act 1980_ of  Norfolk Island.
 
-             (3)  Nothing in Division 1 or 2, as applying by reference to section 6, affects anything done by a person in direct compliance with any regulations, rules, by‑laws, determinations or directions made under the _Gift Duty Assessment Act 1941_, the _Income Tax Assessment Act 1936_ or the _Sales Tax (Exemptions and Classifications) Act 1935._
+             (3)  Nothing in Division 1 or 2, as applying by reference to section 6, affects anything done by a person in direct compliance with any regulations, rules, by-laws, determinations or directions made under the _Gift Duty Assessment Act 1941_, the _Income Tax Assessment Act 1936_ or the _Sales Tax (Exemptions and Classifications) Act 1935._
 
              (4)  Nothing in Division 1 or 2, as applying by reference to section 6, affects anything done by a person for the purposes of the administration of the AUSTUDY scheme or the ABSTUDY scheme.
-
-             (5)  Nothing in Division 2 renders it unlawful to refuse to make, issue or alter an official record of a person’s sex if a law of a State or Territory requires the refusal because the person is married.
 
              (6)  Nothing in Division 1 or 2 affects anything done by a person in compliance with a provision of a law of the Commonwealth, of a State or of a Territory, being a provision that is included for the purpose referred to in subsection 7D(1).
 
@@ -1444,7 +1402,7 @@ Note:          See also subsection 98(6A) of the _Civil Aviati
 
              (1)  Nothing in Division 1 or 2 makes discrimination in relation to a superannuation fund by one person (in this subsection called the **_discriminator_**) against another person (in this subsection called the **_aggrieved person_**) unlawful if:
 
-                     (a)  the discrimination is on the ground of the aggrieved person’s sex, marital status or family responsibilities; and
+                     (a)  the discrimination is on the ground of the aggrieved person’s sex or marital status; and
 
                      (b)  the discrimination arises only because of one or more of the following:
 
@@ -1472,17 +1430,11 @@ Note:          See also subsection 98(6A) of the _Civil Aviati
 
                                         (C)  the portability of benefits arising directly or indirectly from amounts contributed to another superannuation fund;
 
-                                   if the inclusion of that provision results in only indirect discrimination against the aggrieved person on the ground of that person’s sex, marital status or family responsibilities;
+                                   if the inclusion of that provision results in only indirect discrimination against the aggrieved person on the ground of that person’s sex or marital status;
 
                             (iv)  the superannuation fund conditions include a provision that confers particular benefits, or more generous benefits, only on a person to whom subsection 41B(3) or (4) applies.
 
-             (2)  For the purposes of this section:
-
-                     (a)  discrimination on the ground of a person’s sex is taken to be indirect if paragraph 5(1)(b) or (c) or subsection 5(2) applies to the discrimination; and
-
-                     (b)  discrimination on the ground of a person’s marital status is taken to be indirect if paragraph 6(1)(b) or (c) or subsection 6(2) applies to the discrimination; and
-
-                     (c)  discrimination on the ground of a person’s family responsibilities is taken to be indirect if section 7A applies to the discrimination.
+             (2)  For the purposes of this section, discrimination against a person on the ground of the person’s sex or marital status is taken to be indirect if paragraph 5(1)(b) or (c), subsection 5(2), paragraph 6(1)(b) or (c) or subsection 6(2) applies to the discrimination.
 
              (3)  This section does not apply to a person in respect of a superannuation fund if subsection 41B(3) or (4) applies to that person.
 
@@ -1498,7 +1450,7 @@ Note:          See also subsection 98(6A) of the _Civil Aviati
 
                      (b)  unless the Commission has, under section 44, granted an exemption from the operation of this paragraph—before the commencement of this section, the person:
 
-                              (i)  had been given an option to obtain non‑discriminatory benefits; and
+                              (i)  had been given an option to obtain non-discriminatory benefits; and
 
                              (ii)  had not exercised the option in accordance with subsection (5).
 
@@ -1510,7 +1462,7 @@ Note:          See also subsection 98(6A) of the _Civil Aviati
 
              (3)  Nothing in Division 1 or 2 makes discrimination against the member unlawful if the discrimination:
 
-                     (a)  is on the ground of the member’s sex, marital status or family responsibilities; and
+                     (a)  is on the ground of the member’s sex or marital status; and
 
                      (b)  is in the superannuation fund conditions.
 
@@ -1520,13 +1472,13 @@ Note:          See also subsection 98(6A) of the _Civil Aviati
 
                      (b)  the discrimination:
 
-                              (i)  is on the ground of the sex, marital status or family responsibilities of the member or the person; and
+                              (i)  is on the ground of the sex or marital status of the member or the person; and
 
                              (ii)  is in the superannuation fund conditions.
 
              (5)  If the administrators of the fund required the member to exercise the option referred to in subsection (1) before the end of a particular period, subsection (1) does not apply unless that period was at least 2 months long and ended before the commencement of this section.
 
-             (6)  For the purposes of this section, the member is taken to obtain non‑discriminatory benefits where, if section 41A applied to the member in respect of the fund, the superannuation fund conditions that relate to the benefits would not give rise to discrimination that is unlawful under Division 1 or 2.
+             (6)  For the purposes of this section, the member is taken to obtain non-discriminatory benefits where, if section 41A applied to the member in respect of the fund, the superannuation fund conditions that relate to the benefits would not give rise to discrimination that is unlawful under Division 1 or 2.
 
 ##### <a id="42"></a>42  Sport
 
@@ -1616,11 +1568,11 @@ by instrument in writing, grant to the person, persons or class of persons, as t
 
                       (f)  to examine enactments, and (when requested to do so by the Minister) proposed enactments, for the purpose of ascertaining whether the enactments or proposed enactments are, or would be, inconsistent with or contrary to the objects of this Act, and to report to the Minister the results of any such examination;
 
-                     (g)  on its own initiative or when requested by the Minister, to report to the Minister as to the laws that should be made by the Parliament, or action that should be taken by the Commonwealth, on matters relating to discrimination on the ground of sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities or to discrimination involving sexual harassment;
+                     (g)  on its own initiative or when requested by the Minister, to report to the Minister as to the laws that should be made by the Parliament, or action that should be taken by the Commonwealth, on matters relating to discrimination on the ground of sex, marital status, pregnancy or potential pregnancy or to discrimination involving sexual harassment;
 
-                    (ga)  to prepare, and to publish in such manner as the Commission considers appropriate, guidelines for the avoidance of discrimination on the ground of sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities and discrimination involving sexual harassment;
+                    (ga)  to prepare, and to publish in such manner as the Commission considers appropriate, guidelines for the avoidance of discrimination on the ground of sex, marital status, pregnancy or potential pregnancy and discrimination involving sexual harassment;
 
-                   (gb)  where the Commission considers it appropriate to do so, with the leave of the court hearing the proceedings and subject to any conditions imposed by the court, to intervene in proceedings that involve issues of discrimination on the ground of sex, marital status, pregnancy or potential pregnancy, breastfeeding or family responsibilities or discrimination involving sexual harassment;
+                    (gb)  where the Commission considers it appropriate to do so, with the leave of the court hearing the proceedings and subject to any conditions imposed by the court, to intervene in proceedings that involve issues of discrimination on the ground of sex, marital status, pregnancy or potential pregnancy or discrimination involving sexual harassment;
 
                      (h)  to do anything incidental or conducive to the performance of any of the preceding functions.
 
@@ -1662,7 +1614,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  the President has commenced to inquire into the act; or
 
-                   (ab)  the complaint is withdrawn under section 46PG of the _Australian Human Rights Commission Act 1986_; or
+                    (ab)  the complaint is withdrawn under section 46PG of the _Australian Human Rights Commission Act 1986_; or
 
                      (b)  the President terminates the complaint under section 46PE or 46PH of the _Australian Human Rights Commission Act 1986_.
 
@@ -1718,9 +1670,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                                    (a)     in the case of a natural person—25 penalty units or imprisonment for 3 months, or both; or
 
-                                  (b)     in the case of a body corporate—100 penalty units.
+                                   (b)     in the case of a body corporate—100 penalty units.
 
-             (2)  For the purposes of subsection (1), a person shall be taken to commit an act of victimization against another person if the first‑mentioned person subjects, or threatens to subject, the other person to any detriment on the ground that the other person:
+             (2)  For the purposes of subsection (1), a person shall be taken to commit an act of victimization against another person if the first-mentioned person subjects, or threatens to subject, the other person to any detriment on the ground that the other person:
 
                      (a)  has made, or proposes to make, a complaint under this Act or the _Australian Human Rights Commission Act 1986_; or
 
@@ -1736,7 +1688,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (g)  has made an allegation that a person has done an act that is unlawful by reason of a provision of Part II;
 
-or on the ground that the first‑mentioned person believes that the other person has done, or proposes to do, an act or thing referred to in any of paragraphs (a) to (g), inclusive.
+or on the ground that the first-mentioned person believes that the other person has done, or proposes to do, an act or thing referred to in any of paragraphs (a) to (g), inclusive.
 
              (3)  It is a defence to a prosecution for an offence under subsection (1) constituted by subjecting, or threatening to subject, a person to a detriment on the ground that the person has made an allegation that another person had done an act that was unlawful by reason of a provision of Part II if it is proved that the allegation was false and was not made in good faith.
 
@@ -1754,15 +1706,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="96"></a>96  Sex Discrimination Commissioner
 
-             (1)  There shall be a Sex Discrimination Commissioner, who shall be appointed by the Governor‑General.
+             (1)  There shall be a Sex Discrimination Commissioner, who shall be appointed by the Governor-General.
 
              (2)  A person is not qualified to be appointed as the Sex Discrimination Commissioner unless the Minister is satisfied that the person has appropriate qualifications, knowledge or experience.
 
 ##### <a id="97"></a>97  Terms and conditions of appointment
 
-             (1)  Subject to this section, the Commissioner holds office for such period, not exceeding 7 years, as is specified in the instrument of the person’s appointment, but is eligible for re‑appointment.
+             (1)  Subject to this section, the Commissioner holds office for such period, not exceeding 7 years, as is specified in the instrument of the person’s appointment, but is eligible for re-appointment.
 
-             (3)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (3)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="98"></a>98  Remuneration of Commissioner
 
@@ -1784,13 +1736,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="101"></a>101  Resignation
 
-                   The Commissioner may resign from the office of Commissioner by writing delivered to the Governor‑General.
+                   The Commissioner may resign from the office of Commissioner by writing delivered to the Governor-General.
 
 ##### <a id="102"></a>102  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Commissioner by reason of misbehaviour or of physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Commissioner by reason of misbehaviour or of physical or mental incapacity.
 
-             (2)  The Governor‑General shall terminate the appointment of the Commissioner if the Commissioner:
+             (2)  The Governor-General shall terminate the appointment of the Commissioner if the Commissioner:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
@@ -1870,11 +1822,11 @@ this Act applies in relation to that person as if that person had also done the 
 
              (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Commissioner, a person is not liable to an action, suit or other proceeding in respect of loss, damage or injury of any kind suffered by another person by reason only that submission was made, the document or information was furnished or the evidence was given.
 
-##### <a id="112"></a>112  Non‑disclosure of private information
+##### <a id="112"></a>112  Non-disclosure of private information
 
              (1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorized to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not, either directly or indirectly:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first‑mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; or
+                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; or
 
                      (b)  make use of any such information as is mentioned in paragraph (a); or
 
@@ -1884,9 +1836,9 @@ this Act applies in relation to that person as if that person had also done the 
 
              (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorized to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not be required:
 
-                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first‑ mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; or
+                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first- mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized; or
 
-                     (b)  to produce in a court a document relating to the affairs of another person of which the first‑mentioned person has custody, or to which that person has access, by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized;
+                     (b)  to produce in a court a document relating to the affairs of another person of which the first-mentioned person has custody, or to which that person has access, by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorized;
 
 except where it is necessary to do so for the purposes of this Act.
 
@@ -1926,7 +1878,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="116"></a>116  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1956,9 +1908,9 @@ _Concerned_ that in situations of poverty women have the least access to food, h
 
 _Convinced_ that the establishment of the new international economic order based on equity and justice will contribute significantly towards the promotion of equality between men and women,
 
-_Emphasizing_ that the eradication of apartheid, of all forms of racism, racial discrimination, colonialism, neo‑colonialism, aggression, foreign occupation and domination and interference in the internal affairs of States is essential to the full enjoyment of the rights of men and women,
+_Emphasizing_ that the eradication of apartheid, of all forms of racism, racial discrimination, colonialism, neo-colonialism, aggression, foreign occupation and domination and interference in the internal affairs of States is essential to the full enjoyment of the rights of men and women,
 
-_Affirming_ that the strengthening of international peace and security, relaxation of international tension, mutual co‑operation among all States irrespective of their social and economic systems, general and complete disarmament, and in particular nuclear disarmament under strict and effective international control, the affirmation of the principles of justice, equality and mutual benefit in relations among countries and the realisation of the right of peoples under alien and colonial domination and foreign occupation to self‑determination and independence, as well as respect for national sovereignty and territorial integrity, will promote social progress and development and as a consequence will contribute to the attainment of full equality between men and women,
+_Affirming_ that the strengthening of international peace and security, relaxation of international tension, mutual co-operation among all States irrespective of their social and economic systems, general and complete disarmament, and in particular nuclear disarmament under strict and effective international control, the affirmation of the principles of justice, equality and mutual benefit in relations among countries and the realisation of the right of peoples under alien and colonial domination and foreign occupation to self-determination and independence, as well as respect for national sovereignty and territorial integrity, will promote social progress and development and as a consequence will contribute to the attainment of full equality between men and women,
 
 _Convinced_ that the full and complete development of a country, the welfare of the world and the cause of peace require the maximum participation of women on equal terms with men in all fields,
 
@@ -2000,9 +1952,9 @@ States Parties shall take in all fields, in particular in the political, social,
 
 Article 4
 
-1.    Adoption by States Parties of temporary special measures aimed at accelerating _de facto_ equality between men and women shall not be considered discrimination as defined in the present Convention, but shall in no way entail as a consequence the maintenance of unequal or separate standards; these measures shall be discontinued when the objectives of equality of opportunity and treatment have been achieved.
+1.     Adoption by States Parties of temporary special measures aimed at accelerating _de facto_ equality between men and women shall not be considered discrimination as defined in the present Convention, but shall in no way entail as a consequence the maintenance of unequal or separate standards; these measures shall be discontinued when the objectives of equality of opportunity and treatment have been achieved.
 
-2.    Adoption by States Parties of special measures, including those measures contained in the present Convention, aimed at protecting maternity shall not be considered discriminatory.
+2.     Adoption by States Parties of special measures, including those measures contained in the present Convention, aimed at protecting maternity shall not be considered discriminatory.
 
 Article 5
 
@@ -2026,7 +1978,7 @@ States Parties shall take all appropriate measures to eliminate discrimination a
 
      (b)     To participate in the formulation of government policy and the implementation thereof and to hold public office and perform all public functions at all levels of government;
 
-     (c)     To participate in non‑governmental organisations and associations concerned with the public and political life of the country.
+     (c)     To participate in non-governmental organisations and associations concerned with the public and political life of the country.
 
 Article 8
 
@@ -2034,9 +1986,9 @@ States Parties shall take all appropriate measures to ensure to women, on equal 
 
 Article 9
 
-1.    States Parties shall grant women equal rights with men to acquire, change or retain their nationality. They shall ensure in particular that neither marriage to an alien nor change of nationality by the husband during marriage shall automatically change the nationality of the wife, render her stateless or force upon her the nationality of the husband.
+1.     States Parties shall grant women equal rights with men to acquire, change or retain their nationality. They shall ensure in particular that neither marriage to an alien nor change of nationality by the husband during marriage shall automatically change the nationality of the wife, render her stateless or force upon her the nationality of the husband.
 
-2.    States Parties shall grant women equal rights with men with respect to the nationality of their children.
+2.     States Parties shall grant women equal rights with men with respect to the nationality of their children.
 
 PART III
 
@@ -2044,7 +1996,7 @@ Article 10
 
 States Parties shall take all appropriate measures to eliminate discrimination against women in order to ensure to them equal rights with men in the field of education and in particular to ensure, on a basis of equality of men and women:
 
-     (a)     The same conditions for career and vocational guidance, for access to studies and for the achievement of diplomas in educational establishments of all categories in rural as well as in urban areas; this equality shall be ensured in pre‑school, general, technical, professional and higher technical education, as well as in all types of vocational training;
+     (a)     The same conditions for career and vocational guidance, for access to studies and for the achievement of diplomas in educational establishments of all categories in rural as well as in urban areas; this equality shall be ensured in pre-school, general, technical, professional and higher technical education, as well as in all types of vocational training;
 
      (b)     Access to the same curricula, the same examinations, teaching staff with qualifications of the same standard and school premises and equipment of the same quality;
 
@@ -2054,15 +2006,15 @@ States Parties shall take all appropriate measures to eliminate discrimination a
 
      (e)     The same opportunities for access to programmes of continuing education, including adult and functional literacy programmes, particularly those aimed at reducing, at the earliest possible time, any gap in education existing between men and women;
 
-      (f)     The reduction of female student drop‑out rates and the organisation of programmes for girls and women who have left school prematurely;
+      (f)     The reduction of female student drop-out rates and the organisation of programmes for girls and women who have left school prematurely;
 
      (g)     The same opportunities to participate actively in sports and physical education;
 
-     (h)     Access to specific educational information to help to ensure the health and well‑being of families, including information and advice on family planning.
+     (h)     Access to specific educational information to help to ensure the health and well-being of families, including information and advice on family planning.
 
 Article 11
 
-1.    States Parties shall take all appropriate measures to eliminate discrimination against women in the field of employment in order to ensure, on a basis of equality of men and women, the same rights, in particular:
+1.     States Parties shall take all appropriate measures to eliminate discrimination against women in the field of employment in order to ensure, on a basis of equality of men and women, the same rights, in particular:
 
      (a)     The right to work as an inalienable right of all human beings;
 
@@ -2076,23 +2028,23 @@ Article 11
 
       (f)     The right to protection of health and to safety in working conditions, including the safeguarding of the function of reproduction.
 
-2.    In order to prevent discrimination against women on the grounds of marriage or maternity and to ensure their effective right to work, States Parties shall take appropriate measures:
+2.     In order to prevent discrimination against women on the grounds of marriage or maternity and to ensure their effective right to work, States Parties shall take appropriate measures:
 
      (a)     To prohibit, subject to the imposition of sanctions, dismissal on the grounds of pregnancy or of maternity leave and discrimination in dismissals on the basis of marital status;
 
      (b)     To introduce maternity leave with pay or with comparable social benefits without loss of former employment, seniority or social allowances;
 
-     (c)     To encourage the provision of the necessary supporting social services to enable parents to combine family obligations with work responsibilities and participation in public life, in particular through promoting the establishment and development of a network of child‑care facilities;
+     (c)     To encourage the provision of the necessary supporting social services to enable parents to combine family obligations with work responsibilities and participation in public life, in particular through promoting the establishment and development of a network of child-care facilities;
 
      (d)     To provide special protection to women during pregnancy in types of work proved to be harmful to them.
 
-3.    Protective legislation relating to matters covered in this article shall be reviewed periodically in the light of scientific and technological knowledge and shall be revised, repealed or extended as necessary.
+3.     Protective legislation relating to matters covered in this article shall be reviewed periodically in the light of scientific and technological knowledge and shall be revised, repealed or extended as necessary.
 
 Article 12
 
-1.    States Parties shall take all appropriate measures to eliminate discrimination against women in the field of health care in order to ensure, on a basis of equality of men and women, access to health care services, including those related to family planning.
+1.     States Parties shall take all appropriate measures to eliminate discrimination against women in the field of health care in order to ensure, on a basis of equality of men and women, access to health care services, including those related to family planning.
 
-2.    Notwithstanding the provisions of paragraph 1 of this article, States Parties shall ensure to women appropriate services in connexion with pregnancy, confinement and the post‑natal period, granting free services where necessary, as well as adequate nutrition during pregnancy and lactation.
+2.     Notwithstanding the provisions of paragraph 1 of this article, States Parties shall ensure to women appropriate services in connexion with pregnancy, confinement and the post-natal period, granting free services where necessary, as well as adequate nutrition during pregnancy and lactation.
 
 Article 13
 
@@ -2106,9 +2058,9 @@ States Parties shall take all appropriate measures to eliminate discrimination a
 
 Article 14
 
-1.    States Parties shall take into account the particular problems faced by rural women and the significant roles which rural women play in the economic survival of their families, including their work in the non‑monetized sectors of the economy, and shall take all appropriate measures to ensure the application of the provisions of this Convention to women in rural areas.
+1.     States Parties shall take into account the particular problems faced by rural women and the significant roles which rural women play in the economic survival of their families, including their work in the non-monetized sectors of the economy, and shall take all appropriate measures to ensure the application of the provisions of this Convention to women in rural areas.
 
-2.    States Parties shall take all appropriate measures to eliminate discrimination against women in rural areas in order to ensure, on a basis of equality of men and women, that they participate in and benefit from rural development and, in particular, shall ensure to such women the right:
+2.     States Parties shall take all appropriate measures to eliminate discrimination against women in rural areas in order to ensure, on a basis of equality of men and women, that they participate in and benefit from rural development and, in particular, shall ensure to such women the right:
 
      (a)     To participate in the elaboration and implementation of development planning at all levels;
 
@@ -2116,9 +2068,9 @@ Article 14
 
      (c)     To benefit directly from social security programmes;
 
-     (d)     To obtain all types of training and education, formal and non‑formal, including that relating to functional literacy, as well as, inter alia, the benefit of all community and extension services, in order to increase their technical proficiency;
+     (d)     To obtain all types of training and education, formal and non-formal, including that relating to functional literacy, as well as, inter alia, the benefit of all community and extension services, in order to increase their technical proficiency;
 
-     (e)     To organise self‑help groups and co‑operatives in order to obtain equal access to economic opportunities through employment or self‑employment;
+     (e)     To organise self-help groups and co-operatives in order to obtain equal access to economic opportunities through employment or self-employment;
 
       (f)     To participate in all community activities;
 
@@ -2130,17 +2082,17 @@ PART IV
 
 Article 15
 
-1.    States Parties shall accord to women equality with men before the law.
+1.     States Parties shall accord to women equality with men before the law.
 
-2.    States Parties shall accord to women, in civil matters, a legal capacity identical to that of men and the same opportunities to exercise that capacity. In particular, they shall give women equal rights to conclude contracts and to administer property and shall treat them equally in all stages of procedure in courts and tribunals.
+2.     States Parties shall accord to women, in civil matters, a legal capacity identical to that of men and the same opportunities to exercise that capacity. In particular, they shall give women equal rights to conclude contracts and to administer property and shall treat them equally in all stages of procedure in courts and tribunals.
 
-3.    States Parties agree that all contracts and all other private instruments of any kind with a legal effect which is directed at restricting the legal capacity of women shall be deemed null and void.
+3.     States Parties agree that all contracts and all other private instruments of any kind with a legal effect which is directed at restricting the legal capacity of women shall be deemed null and void.
 
-4.    States Parties shall accord to men and women the same rights with regard to the law relating to the movement of persons and the freedom to chose their residence and domicile.
+4.     States Parties shall accord to men and women the same rights with regard to the law relating to the movement of persons and the freedom to chose their residence and domicile.
 
 Article 16
 
-1.    States Parties shall take all appropriate measures to eliminate discrimination against women in all matters relating to marriage and family relations and in particular shall ensure, on a basis of equality of men and women:
+1.     States Parties shall take all appropriate measures to eliminate discrimination against women in all matters relating to marriage and family relations and in particular shall ensure, on a basis of equality of men and women:
 
      (a)     The same right to enter into marriage;
 
@@ -2158,57 +2110,57 @@ Article 16
 
      (h)     The same rights for both spouses in respect of the ownership, acquisition, management, administration, enjoyment and disposition of property, whether free of charge or for a valuable consideration.
 
-2.    The betrothal and the marriage of a child shall have no legal effect, and all necessary action, including legislation, shall be taken to specify a minimum age for marriage and to make the registration of marriages in an official registry compulsory.
+2.     The betrothal and the marriage of a child shall have no legal effect, and all necessary action, including legislation, shall be taken to specify a minimum age for marriage and to make the registration of marriages in an official registry compulsory.
 
 PART V
 
 Article 17
 
-1.    For the purpose of considering the progress made in the implementation of the present Convention, there shall be established a Committee on the Elimination of Discrimination against Women (hereinafter referred to as the Committee) consisting, at the time of entry into force of the Convention, of eighteen and, after ratification of or accession to the Convention by the thirty‑fifth State Party, of twenty‑three experts of high moral standing and competence in the field covered by the Convention. The experts shall be elected by States Parties from among their nationals and shall serve in their personal capacity, consideration being given to equitable geographical distribution and to the representation of the different forms of civilisation as well as the principal legal systems.
+1.     For the purpose of considering the progress made in the implementation of the present Convention, there shall be established a Committee on the Elimination of Discrimination against Women (hereinafter referred to as the Committee) consisting, at the time of entry into force of the Convention, of eighteen and, after ratification of or accession to the Convention by the thirty-fifth State Party, of twenty-three experts of high moral standing and competence in the field covered by the Convention. The experts shall be elected by States Parties from among their nationals and shall serve in their personal capacity, consideration being given to equitable geographical distribution and to the representation of the different forms of civilisation as well as the principal legal systems.
 
-2.    The members of the Committee shall be elected by secret ballot from a list of persons nominated by States Parties. Each State Party may nominate one person from among its own nationals.
+2.     The members of the Committee shall be elected by secret ballot from a list of persons nominated by States Parties. Each State Party may nominate one person from among its own nationals.
 
-3.    The initial election shall be held six months after the date of the entry into force of the present Convention. At least three months before the date of each election the Secretary‑General of the United Nations shall address a letter to the States Parties inviting them to submit their nominations within two months. The Secretary‑General shall prepare a list in alphabetical order of all persons thus nominated, indicating the States Parties which have nominated them, and shall submit it to the States Parties.
+3.     The initial election shall be held six months after the date of the entry into force of the present Convention. At least three months before the date of each election the Secretary-General of the United Nations shall address a letter to the States Parties inviting them to submit their nominations within two months. The Secretary-General shall prepare a list in alphabetical order of all persons thus nominated, indicating the States Parties which have nominated them, and shall submit it to the States Parties.
 
-4.    Elections of the members of the Committee shall be held at a meeting of States Parties convened by the Secretary‑General at United Nations Headquarters. At that meeting, for which two thirds of the States Parties shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
+4.     Elections of the members of the Committee shall be held at a meeting of States Parties convened by the Secretary-General at United Nations Headquarters. At that meeting, for which two thirds of the States Parties shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
 
-5.    The members of the Committee shall be elected for a term of four years. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election the names of these nine members shall be chosen by lot by the Chairman of the Committee.
+5.     The members of the Committee shall be elected for a term of four years. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election the names of these nine members shall be chosen by lot by the Chairman of the Committee.
 
-6.    The election of the five additional members of the Committee shall be held in accordance with the provisions of paragraphs 2, 3, and 4 of this article, following the thirty‑fifth ratification or accession. The terms of two of the additional members elected on this occasion shall expire at the end of two years, the names of these two members having been chosen by lot by the Chairman of the Committee.
+6.     The election of the five additional members of the Committee shall be held in accordance with the provisions of paragraphs 2, 3, and 4 of this article, following the thirty-fifth ratification or accession. The terms of two of the additional members elected on this occasion shall expire at the end of two years, the names of these two members having been chosen by lot by the Chairman of the Committee.
 
-7.    For the filling of casual vacancies, the State Party whose expert has ceased to function as a member of the Committee shall appoint another expert from among its nationals, subject to the approval of the Committee.
+7.     For the filling of casual vacancies, the State Party whose expert has ceased to function as a member of the Committee shall appoint another expert from among its nationals, subject to the approval of the Committee.
 
-8.    The members of the Committee shall, with the approval of the General Assembly, receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide, having regard to the importance of the Committee’s responsibilities.
+8.     The members of the Committee shall, with the approval of the General Assembly, receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide, having regard to the importance of the Committee’s responsibilities.
 
-9.    The Secretary‑General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention.
+9.     The Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention.
 
 Article 18
 
-1.    States Parties undertake to submit to the Secretary‑General of the United Nations for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted to give effect to the provisions of the present Convention and on the progress made in this respect:
+1.     States Parties undertake to submit to the Secretary-General of the United Nations for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted to give effect to the provisions of the present Convention and on the progress made in this respect:
 
      (a)     Within one year after the entry into force for the State concerned; and
 
      (b)     Thereafter at least every four years and further whenever the Committee so requests.
 
-2.    Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Convention.
+2.     Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Convention.
 
 Article 19
 
-1.    The Committee shall adopt its own rules of procedure.
+1.     The Committee shall adopt its own rules of procedure.
 
-2.    The Committee shall elect its officers for a term of two years.
+2.     The Committee shall elect its officers for a term of two years.
 
 Article 20
 
-1.    The Committee shall normally meet for a period of not more than two weeks annually in order to consider the reports submitted in accordance with Article 18 of the present Convention.
+1.     The Committee shall normally meet for a period of not more than two weeks annually in order to consider the reports submitted in accordance with Article 18 of the present Convention.
 
-2.    The meetings of the Committee shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Committee.
+2.     The meetings of the Committee shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Committee.
 
 Article 21
 
-1.    The Committee shall, through the Economic and Social Council, report annually to the General Assembly of the United Nations on its activities and may make suggestions and general recommendations based on the examination of reports and information received from the States Parties. Such suggestions and general recommendations shall be included in the report of the Committee together with comments, if any, from States Parties.
+1.     The Committee shall, through the Economic and Social Council, report annually to the General Assembly of the United Nations on its activities and may make suggestions and general recommendations based on the examination of reports and information received from the States Parties. Such suggestions and general recommendations shall be included in the report of the Committee together with comments, if any, from States Parties.
 
-2.    The Secretary‑General shall transmit the reports of the Committee to the Commission on the Status of Women for its information.
+2.     The Secretary-General shall transmit the reports of the Committee to the Commission on the Status of Women for its information.
 
 Article 22
 
@@ -2230,45 +2182,45 @@ States Parties undertake to adopt all necessary measures at the national level a
 
 Article 25
 
-1.    The present Convention shall be open for signature by all States.
+1.     The present Convention shall be open for signature by all States.
 
-2.    The Secretary‑General of the United Nations is designated as the depositary of the present Convention.
+2.     The Secretary-General of the United Nations is designated as the depositary of the present Convention.
 
-3.    The present Convention is subject to ratification. Instruments of ratification shall be deposited with the Secretary‑General of the United Nations.
+3.     The present Convention is subject to ratification. Instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-4.    The present Convention shall be open to accession by all States. Accession shall be effected by the deposit of an instrument of accession with the Secretary‑General of the United Nations.
+4.     The present Convention shall be open to accession by all States. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
 Article 26
 
-1.    A request for the revision of the present Convention may be made at any time by any State Party by means of a notification in writing addressed to the Secretary‑General of the United Nations.
+1.     A request for the revision of the present Convention may be made at any time by any State Party by means of a notification in writing addressed to the Secretary-General of the United Nations.
 
-2.    The General Assembly of the United Nations shall decide upon the steps, if any, to be taken in respect of such a request.
+2.     The General Assembly of the United Nations shall decide upon the steps, if any, to be taken in respect of such a request.
 
 Article 27
 
-1.    The present Convention shall enter into force on the thirtieth day after the date of deposit with the Secretary‑General of the United Nations of the twentieth instrument of ratification or accession.
+1.     The present Convention shall enter into force on the thirtieth day after the date of deposit with the Secretary-General of the United Nations of the twentieth instrument of ratification or accession.
 
-2.    For each State ratifying the present Convention or acceding to it after the deposit of the twentieth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after the date of the deposit of its own instrument of ratification or accession.
+2.     For each State ratifying the present Convention or acceding to it after the deposit of the twentieth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after the date of the deposit of its own instrument of ratification or accession.
 
 Article 28
 
-1.    The Secretary‑General of the United Nations shall receive and circulate to all States the text of reservations made by States at the time of ratification or accession.
+1.     The Secretary-General of the United Nations shall receive and circulate to all States the text of reservations made by States at the time of ratification or accession.
 
-2.    A reservation incompatible with the object and purpose of the present Convention shall not be permitted.
+2.     A reservation incompatible with the object and purpose of the present Convention shall not be permitted.
 
-3.    Reservations may be withdrawn at any time by notification to this effect addressed to the Secretary‑General of the United Nations, who shall then inform all States thereof. Such notification shall take effect on the date on which it is received.
+3.     Reservations may be withdrawn at any time by notification to this effect addressed to the Secretary-General of the United Nations, who shall then inform all States thereof. Such notification shall take effect on the date on which it is received.
 
 Article 29
 
-1.    Any dispute between two or more States Parties concerning the interpretation or application of the present Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organisation of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
+1.     Any dispute between two or more States Parties concerning the interpretation or application of the present Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organisation of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
 
-2.    Each State Party may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by that paragraph with respect to any State Party which has made such a reservation.
+2.     Each State Party may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by that paragraph with respect to any State Party which has made such a reservation.
 
-3.    Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary‑General of the United Nations.
+3.     Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
 
 Article 30
 
-The present Convention, the Arabic, Chinese, English, French, Russian and Spanish texts of which are equally authentic, shall be deposited with the Secretary‑General of the United Nations.
+The present Convention, the Arabic, Chinese, English, French, Russian and Spanish texts of which are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
 IN WITNESS WHEREOF the undersigned, duly authorised, have signed the present Convention.
 
@@ -2289,7 +2241,7 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="16%">
+  <col width="15%">
   <col width="18%">
   <col width="0%">
   <col width="22%">
@@ -2743,7 +2695,7 @@ S. 22: 13 Jan 1993 <i>(j)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
+    <div>Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
   </td>
   <td>
     <div>164, 1994</div>
@@ -3112,7 +3064,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -3193,26 +3145,6 @@ Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i
     <div></div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Sex and Age Discrimination Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>40, 2011</div>
-  </td>
-  <td>
-    <div>20 June 2011</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 1 (items 1–17, 19–69): 21 June 2011</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 69) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3228,9 +3160,9 @@ _(a)_     The _Sex Discrimination Act 1984_ was amended by section 3 o
 
                (19)   The amendments of the _Sex Discrimination Act 1984_ made by this Act shall come into operation on the commencement of that Act.
 
-_(b)_     The _Sex Discrimination Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
+_(b)_    The _Sex Discrimination Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _Sex Discrimination Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows: 
 
@@ -3276,7 +3208,7 @@ _(j)_      The _Sex Discrimination Act 1984_ was amended by sections�
 
                  (2)   Section 22 is taken to have commenced on 13 January 1993.
 
-_(k)_     The _Sex Discrimination Act 1984_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows: 
+_(k)_     The _Sex Discrimination Act 1984_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows: 
 
                  (1)   Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
 
@@ -3457,13 +3389,14 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr>
@@ -3475,13 +3408,14 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr>
@@ -3493,13 +3427,14 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -3532,15 +3467,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 180, 1992; No. 165, 1995; No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Preamble</div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
+    <div>am. No. 180, 1992; No. 165, 1995</div>
   </td>
 </tr>
 <tr>
@@ -3556,7 +3483,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 179 and 180, 1992; No. 165, 1995; No. 40, 2011</div>
+    <div>am. Nos. 179 and 180, 1992; No. 165, 1995</div>
   </td>
 </tr>
 <tr>
@@ -3564,7 +3491,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; No. 40, 2011</div>
+    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3580,7 +3507,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div></div>
   </td>
   <td>
-    <div>am. No. 144, 2008; No. 40, 2011</div>
+    <div>am. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3596,7 +3523,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 103, 2003; No. 40, 2011</div>
+    <div>am. No. 165, 1995; No. 103, 2003</div>
   </td>
 </tr>
 <tr>
@@ -3617,22 +3544,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7AA</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7A</div>
   </td>
   <td>
@@ -3641,42 +3552,10 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 7B</div>
+    <div>Ss. 7B–7D</div>
   </td>
   <td>
     <div>ad. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7C</div>
-  </td>
-  <td>
-    <div>ad. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7D</div>
-  </td>
-  <td>
-    <div>ad. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3684,7 +3563,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 180, 1992; No. 40, 2011</div>
+    <div>am. No. 180, 1992</div>
   </td>
 </tr>
 <tr>
@@ -3692,7 +3571,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 179, 1992; No. 165, 1995; No. 144, 2008; No. 70, 2009; No. 40, 2011</div>
+    <div>am. No. 179, 1992; No. 165, 1995; No. 144, 2008; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3700,15 +3579,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 133, 1999; No. 144, 2008; No. 70, 2009; No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 11</div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
+    <div>am. No. 165, 1995; No. 133, 1999; No. 144, 2008; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3716,7 +3587,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 133, 1999; No. 70, 2009; No. 40, 2011</div>
+    <div>am. No. 165, 1995; No. 133, 1999; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3733,14 +3604,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>am. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 40, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3780,7 +3643,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 71, 1991; No. 180, 1992; No. 13, 1994; No. 165, 1995; No. 40, 2011</div>
+    <div>am. No. 71, 1991; No. 180, 1992; No. 13, 1994; No. 165, 1995</div>
   </td>
 </tr>
 <tr>
@@ -3788,7 +3651,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>Ss. 15–18</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 40, 2011</div>
+    <div>am. No. 165, 1995</div>
   </td>
 </tr>
 <tr>
@@ -3804,7 +3667,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 54, 2009; No. 40, 2011</div>
+    <div>am. No. 165, 1995; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3812,7 +3675,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 40, 2011</div>
+    <div>am. No. 165, 1995</div>
   </td>
 </tr>
 <tr>
@@ -3828,7 +3691,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>Ss. 21–26</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 40, 2011</div>
+    <div>am. No. 165, 1995</div>
   </td>
 </tr>
 <tr>
@@ -3844,7 +3707,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 103, 2003; No. 40, 2011</div>
+    <div>am. No. 165, 1995; No. 103, 2003</div>
   </td>
 </tr>
 <tr>
@@ -3881,71 +3744,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Ss. 28A, 28B</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28C–28E</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28F</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28G</div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28G</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28H</div>
+    <div>Ss. 28A–28H</div>
   </td>
   <td>
     <div>ad. No. 179, 1992</div>
@@ -3969,22 +3768,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 33</div>
   </td>
   <td>
@@ -3993,18 +3776,10 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50; Nos. 54 and 124, 2009; No. 40, 2011</div>
+    <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50; Nos. 54 and 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4061,14 +3836,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>ad. No. 71, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4140,7 +3907,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 48</div>
   </td>
   <td>
-    <div>am. No. 126, 1986; No. 179, 1992; No. 165, 1995; No. 133, 1999; No. 40, 2011</div>
+    <div>am. No. 126, 1986; No. 179, 1992; No. 165, 1995; No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -4361,7 +4128,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part III</div>
+    <div>Heading to Div. 3 of Part III .</div>
   </td>
   <td>
     <div>rs. No. 126, 1986</div>
@@ -5222,7 +4989,7 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="21"></a>21  Regulations 
 
-             (1)  The Governor‑General may make regulations prescribing matters: 
+             (1)  The Governor-General may make regulations prescribing matters: 
 
                      (a)  required or permitted by this Act to be prescribed; or 
 
@@ -5240,9 +5007,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -5252,9 +5019,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -5262,9 +5029,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -5303,16 +5070,5 @@ The _Sex Discrimination Act 1984_ is prescribed for the purposes of section 11
 ## 88  Application of item 77
 
 Despite the amendment made by item 77 of this Schedule, subsection 40(1) of the _Sex Discrimination Act 1984_, as in force immediately before the commencement of that amendment, continues to apply on and after that commencement in relation to a decision of the Australian Fair Pay Commission made before that commencement.
-
-* * *
-
-_Sex and Age Discrimination Legislation Amendment Act 2011 
- (No. 40, 2011)_
-
-## Schedule 1
-
-## 69  Application of amendments
-
-The amendments of the _Sex Discrimination Act 1984_ made by this Part apply in relation to acts or omissions occurring after the commencement of this Part.
 
  
