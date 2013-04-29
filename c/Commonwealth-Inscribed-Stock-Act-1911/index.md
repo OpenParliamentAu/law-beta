@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2011C00672/Html/b374dfcd-6969-4d04-81b4-ef635670814e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00589/Html/CwealthInscribStock11_image001.gif)
 
 # Commonwealth Inscribed Stock Act 1911
 
 **Act No. 20 of 1911 as amended**
 
-This compilation was prepared on 24 August 2011
- taking into account amendments up to Act No. 70 of 2011
+This compilation was prepared on 17 December 2009
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated 
+ may be affected by application provisions that are set out in 
+ the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -32,6 +33,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Limit on stock and securities on issue
 
+[5A](#5A).         Increase in limit on stock and securities on issue—special circumstances
+
 [6](#6).            Stock and interest a charge on revenue
 
 [7](#7).            Issue of stock
@@ -39,10 +42,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [11](#11).          When interest to cease
 
 [13](#13).          Stock personal property
-
-[13A](#13A).       Costs and expenses relating to issue and sale of stock
-
-[13B](#13B).       Costs and expenses incurred in repurchasing or redeeming stock before date of maturity
 
 **Part III—Inscription of stock** 
 
@@ -124,9 +123,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part VB—Delegations and authorisations**
 
-[51H](#51H).       Delegation by Governor‑General and authorisation by Treasurer
+[51H](#51H).       Delegation by Governor-General and authorisation by Treasurer
 
-[51J](#51J).        Directions by Governor‑General and Treasurer
+[51J](#51J).        Directions by Governor-General and Treasurer
 
 [51JA](#51JA).     Delegation by Treasurer of powers under section 3A
 
@@ -202,13 +201,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Power to create stock
 
-             (1)  The Governor‑General may, by writing signed by him or her, create stock, Treasury Bonds, Treasury Notes or other prescribed securities from time to time for:
+             (1)  The Governor-General may, by writing signed by him or her, create stock, Treasury Bonds, Treasury Notes or other prescribed securities from time to time for:
 
                      (a)  raising money by way of loan; or
 
                      (b)  converting any loan raised by the Commonwealth into any other loan so raised; or
 
-                     (c)  paying any expenses of carrying this Act into effect that the Governor‑General considers are properly payable out of capital; or
+                     (c)  paying any expenses of carrying this Act into effect that the Governor-General considers are properly payable out of capital; or
 
                      (d)  lending by the Treasurer under securities lending arrangements under section 5BA of the _Loans Securities Act 1919_.
 
@@ -220,7 +219,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Limit on stock and securities on issue
 
-             (1)  The total face value of stock and securities on issue under this Act and the _Loans Securities Act 1919_ at any time must not exceed $250 billion.
+             (1)  The total face value of stock and securities on issue under this Act and the _Loans Securities Act 1919_ at any time must not exceed $75 billion.
 
              (2)  In working out the total face value of that stock and securities, disregard:
 
@@ -238,13 +237,35 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the **_loan_** of stock or a security is taken to include an arrangement under which it is sold and repurchased.
 
+##### <a id="5A"></a>5A  Increase in limit on stock and securities on issue—special circumstances
+
+             (1)  If the Treasurer is satisfied that there are special circumstances that would justify increasing the limit imposed by section 5 on the total face value of stock and securities that may be on issue under this Act and the _Loans Securities Act 1919_ at any time, he or she may make a written declaration to that effect.
+
+             (2)  A declaration under subsection (1) must:
+
+                     (a)  be published in the _Gazette_; and
+
+                     (b)  be tabled in each House of the Parliament within 15 sitting days after it is published.
+
+The declaration comes into force on the day on which it is published in the _Gazette_.
+
+             (3)  If a declaration under subsection (1) is in force, the limit imposed by section 5 on the total face value of stock and securities that may be on issue under this Act and the _Loans Securities Act 1919_ at any time is taken to be increased by $125 billion.
+
+             (4)  The Treasurer must not make a declaration under subsection (1) if a declaration made under that subsection is still in force.
+
+             (5)  An increase as a result of subsection (3) in the limit imposed by section 5 on the total face value of stock and securities that may be on issue under this Act and the _Loans Securities Act 1919_ at any time, applies on and after the day on which the declaration comes into force, regardless of whether the stock and securities were issued before, on or after that day.
+
+             (6)  A declaration under subsection (1) is not a legislative instrument.
+
+             (7)  The _Administrative Decisions (Judicial Review) Act 1977_ does not apply to a decision to make a declaration under subsection (1).
+
 ##### <a id="6"></a>6  Stock and interest a charge on revenue
 
                    The principal money secured by any stock and the interest (if any) thereon shall rank equally and without priority or preference, and shall be a charge on and payable out of the Consolidated Revenue Fund which is hereby appropriated for the purpose.
 
 ##### <a id="7"></a>7  Issue of stock
 
-             (1)  The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which stock may be issued and sold shall be as directed by the Governor‑General.
+             (1)  The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which stock may be issued and sold shall be as directed by the Governor-General.
 
              (2)  Stock may be issued by electronic means.
 
@@ -261,22 +282,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 ##### <a id="13"></a>13  Stock personal property
 
                    Stock shall be personal property.
-
-##### <a id="13A"></a>13A  Costs and expenses relating to issue and sale of stock
-
-                   The Consolidated Revenue Fund is appropriated to the extent necessary for the payment of:
-
-                     (a)  the costs and expenses incurred by the Commonwealth in relation to the issue or sale of stock, including but not limited to syndication fees; and
-
-                     (b)  the costs and expenses incurred by the Commonwealth in relation to managing stock that has been issued or sold, including but not limited to:
-
-                              (i)  Registry fees; and
-
-                             (ii)  clearing and settlement facility fees.
-
-##### <a id="13B"></a>13B  Costs and expenses incurred in repurchasing or redeeming stock before date of maturity
-
-                   The Consolidated Revenue Fund is appropriated to the extent necessary for the payment of the costs and expenses incurred by the Commonwealth in repurchasing or redeeming stock before the date of maturity of the stock.
 
 ## Part III—Inscription of stock
 
@@ -542,13 +547,13 @@ shall be guilty of an indictable offence.
 
 ##### <a id="51A"></a>51A  Power to make out and issue Treasury Bonds
 
-             (1)  The Governor‑General may authorize the Treasurer from time to time to make out bonds called Treasury Bonds or Australian Consolidated Treasury Bonds, Debentures and such other securities as are prescribed, for:
+             (1)  The Governor-General may authorize the Treasurer from time to time to make out bonds called Treasury Bonds or Australian Consolidated Treasury Bonds, Debentures and such other securities as are prescribed, for:
 
                      (a)  raising money by way of loan;
 
                     (aa)  converting any loan raised by the Commonwealth into any other loan so raised; and
 
-                     (b)  paying any expenses of carrying this Act into effect which the Governor‑General considers are properly payable out of capital.
+                     (b)  paying any expenses of carrying this Act into effect which the Governor-General considers are properly payable out of capital.
 
              (2)  Treasury Bonds, Debentures or other securities made out pursuant to paragraph (1)(a) shall not be issued or sold unless authority to borrow the money to be raised by the issue or sale is granted by an Act.
 
@@ -556,7 +561,7 @@ shall be guilty of an indictable offence.
 
 ##### <a id="51B"></a>51B  Sale of Treasury Bonds
 
-                   The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which Treasury Bonds, Debentures and other prescribed securities may be issued and sold shall be as directed by the Governor‑General.
+                   The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which Treasury Bonds, Debentures and other prescribed securities may be issued and sold shall be as directed by the Governor-General.
 
 ##### <a id="51BA"></a>51BA  Breach of terms or conditions of issue of Treasury Bonds
 
@@ -580,9 +585,9 @@ shall be guilty of an indictable offence.
 
 ## Part VB—Delegations and authorisations
 
-##### <a id="51H"></a>51H  Delegation by Governor‑General and authorisation by Treasurer
+##### <a id="51H"></a>51H  Delegation by Governor-General and authorisation by Treasurer
 
-             (1)  The Governor‑General may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Governor‑General, delegate to the Treasurer all or any of his or her powers under sections 4, 7 and 51B.
+             (1)  The Governor-General may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Governor-General, delegate to the Treasurer all or any of his or her powers under sections 4, 7 and 51B.
 
              (2)  The Treasurer may, either generally or as otherwise provided in the instrument of authorization, by writing signed by the Treasurer, authorize:
 
@@ -600,21 +605,21 @@ to exercise a power that has been delegated to the Treasurer under subsection 
 
                      (b)  by a person in the exercise of a power pursuant to an authorization by the Treasurer under subsection (2);
 
-has the same force and effect as if it had been done by the Governor‑General.
+has the same force and effect as if it had been done by the Governor-General.
 
-             (4)  A delegation under subsection (1) does not prevent the exercise of a power by the Governor‑General.
+             (4)  A delegation under subsection (1) does not prevent the exercise of a power by the Governor-General.
 
              (5)  The giving of an authorization under subsection (2) does not prevent the exercise of a power by the Treasurer.
 
-##### <a id="51J"></a>51J  Directions by Governor‑General and Treasurer
+##### <a id="51J"></a>51J  Directions by Governor-General and Treasurer
 
-                   Where the Governor‑General has delegated a power to the Treasurer under section 51H:
+                   Where the Governor-General has delegated a power to the Treasurer under section 51H:
 
-                     (a)  the Governor‑General may give directions to the Treasurer with respect to the exercise of that power; and
+                     (a)  the Governor-General may give directions to the Treasurer with respect to the exercise of that power; and
 
                      (b)  if the Treasurer has under subsection 51H(2) authorized another person to exercise that power, the Treasurer:
 
-                              (i)  shall, if the Governor‑General gives a direction to the Treasurer under paragraph (a) with respect to the exercise of that power, give a corresponding direction to the other person; and
+                              (i)  shall, if the Governor-General gives a direction to the Treasurer under paragraph (a) with respect to the exercise of that power, give a corresponding direction to the other person; and
 
                              (ii)  may, subject to any direction given to the Treasurer under paragraph (a), give directions to the other person with respect to the exercise of that power.
 
@@ -676,7 +681,7 @@ all or any of the powers of the Treasurer under sections 14 and 29.
 
              (2)  In this section:
 
-                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) for the purposes of the _Banking Act 1959_.
+                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_.
 
 ##### <a id="52B"></a>52B  Liability of interest to income tax
 
@@ -734,7 +739,7 @@ of the principal has been received by the Registrar at the Registry where the po
 
 ##### <a id="58"></a>58  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing the fees payable under this Act and all matters and forms required or necessary or convenient to be prescribed for carrying out or for giving effect to this Act or for the conduct of any business at or in connexion with any Registry.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing the fees payable under this Act and all matters and forms required or necessary or convenient to be prescribed for carrying out or for giving effect to this Act or for the conduct of any business at or in connexion with any Registry.
 
 # Notes to the _Commonwealth Inscribed Stock Act 1911_
 
@@ -1112,7 +1117,7 @@ Remainder: Royal Assent</div>
     <div>17 Sept 1981</div>
   </td>
   <td>
-    <div>Ss. 1–3: Royal Assent 
+    <div>Ss. 1-3: Royal Assent 
 Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   </td>
   <td>
@@ -1353,7 +1358,7 @@ Remainder: 18 Jan 2001</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -1446,23 +1451,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Appropriation Act (No. 2) 2011‑2012</div>
-  </td>
-  <td>
-    <div>70, 2011</div>
-  </td>
-  <td>
-    <div>29 June 2011</div>
-  </td>
-  <td>
-    <div>Ss. 18 and 19: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 19 \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes Currency Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (7) of which provide as follows:
@@ -1471,7 +1459,7 @@ _(a)_     The _Crimes Currency Act 1981_ was amended by section 3 only
 
                  (7)   The amendments of the _Crimes (Currency) Act 1981_ made by this Act (other than the amendment of section 2 of that Act) shall come into operation immediately after the amendment of section 2 of that Act made by this Act comes into operation.
 
-_(b)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(5) of which provides as follows:
+_(b)_    The _Commonwealth Inscribed Stock Act 1911_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(5) of which provides as follows:
 
                  (5)   The amendments of the _Commonwealth Inscribed Stock Act 1911_ made by this Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -1497,7 +1485,7 @@ _(g)_ The _Commonwealth Inscribed Stock Act 1911_ was amended by Schedule 7 (i
 
                       (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
 
          The transfer date was 1 July 1999 (_see Gazette_ 1999, No. S283).
 
@@ -1727,26 +1715,10 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 70, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5A</div>
   </td>
   <td>
     <div>ad. No. 3, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1835,14 +1807,6 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
   </td>
   <td>
     <div>rep. No. 21, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13A, 13B</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2758,9 +2722,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -2770,9 +2734,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -2780,9 +2744,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -2801,17 +2765,5 @@ The amendments made by items 2 and 3 of this Schedule apply to stock and secur
 ## 14  Application of item 4
 
 The amendment made by item 4 of this Schedule applies on or after the commencement of that item, regardless of whether the stock and securities were issued before, on or after the commencement of that item.
-
-* * *
-
-_Appropriation Act (No. 2) 2011‑2012 (No. 70, 2011)_
-
-##### <a id="19"></a>19  Application
-
-             (1)  The amendment made by subsection 18(1) applies to stock and securities on issue after the commencement of that subsection, regardless of whether the stock and securities were issued before or after the commencement of that subsection.
-
-             (2)  Section 13A of the _Commonwealth Inscribed Stock Act 1911_, as added by subsection 18(3), applies to costs and expenses incurred by the Commonwealth after the commencement of that subsection in relation to the issue or sale of stock and the management of stock that has been issued or sold, regardless of whether the stock was issued or sold before or after the commencement of that subsection.
-
-             (3)  Section 13B of the _Commonwealth Inscribed Stock Act 1911_, as added by subsection 18(3), applies to costs and expenses incurred by the Commonwealth after the commencement of that subsection in repurchasing or redeeming stock, regardless of whether the stock was issued or sold before or after the commencement of that subsection.
 
  
