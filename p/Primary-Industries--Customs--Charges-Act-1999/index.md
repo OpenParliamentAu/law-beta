@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00537/Html/PrimIndCusomstCharges1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00463/Html/PrimIndCusomstCharges1999WD02_image001.gif)
 
 # Primary Industries (Customs) Charges Act 1999
 
 **Act No. 30 of 1999 as amended**
 
-This compilation was prepared on 3 September 2007
+This compilation was prepared on 10 July 2007
  taking into account amendments up to Act No. 123 of 2007
 
 The text of any of those amendments not in force
@@ -18,257 +18,257 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Simplified outline
+[3](#3).            Simplified outline                                                                                 1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            Act to bind Crown
+[5](#5).            Act to bind Crown                                                                               2
 
-[6](#6).            Duties of customs
+[6](#6).            Duties of customs                                                                                2
 
-[7](#7).            Imposition of charge
+[7](#7).            Imposition of charge                                                                            2
 
-[8](#8).            Regulations
+[8](#8).            Regulations                                                                                          2
 
 **Schedule 1—Buffaloes**
 
-[1](#1).            Imposition of charge
+[1](#1).            Imposition of charge                                                                            3
 
-[2](#2).            Rate of charge
+[2](#2).            Rate of charge                                                                                      3
 
-[3](#3).            Who pays the charge
+[3](#3).            Who pays the charge                                                                           3
 
-[4](#4).            Transitional—regulations
+[4](#4).            Transitional—regulations                                                                    3
 
 **Schedule 2—Cattle (exporters)**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                           5
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                            5
 
-[3](#3).            Rate of charge
+[3](#3).            Rate of charge                                                                                      5
 
-[4](#4).            Who pays the charge
+[4](#4).            Who pays the charge                                                                           6
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                          6
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                    6
 
-[7](#7).            Transitional—declarations
+[7](#7).            Transitional—declarations                                                                   7
 
 **Schedule 3—Cattle (producers)**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                           8
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                            9
 
-[3](#3).            Rate of charges
+[3](#3).            Rate of charges                                                                                     9
 
-[4](#4).            Who pays the charge
+[4](#4).            Who pays the charge                                                                         10
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        11
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  11
 
-[7](#7).            Transitional—declarations
+[7](#7).            Transitional—declarations                                                                 11
 
 **Schedule 4—Dairy produce**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         12
 
-[2](#2).            Imposition of charge—re-importation of exported dairy produce
+[2](#2).            Imposition of charge—re-importation of exported dairy produce    13
 
-[3](#3).            Imposition of charge—import offset
+[3](#3).            Imposition of charge—import offset                                                 13
 
-[4](#4).            Rate of charges
+[4](#4).            Rate of charges                                                                                   14
 
-[5](#5).            Who pays the charge
+[5](#5).            Who pays the charge                                                                         15
 
-[6](#6).            Charge may be referred to as a levy
+[6](#6).            Charge may be referred to as a levy                                                   16
 
 **Schedule 5—Deer**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         17
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          17
 
-[3](#3).            Rate of charge
+[3](#3).            Rate of charge                                                                                    17
 
-[4](#4).            Who pays the charge
+[4](#4).            Who pays the charge                                                                         17
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        17
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  18
 
 **Schedule 6—Deer velvet**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         19
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          19
 
-[3](#3).            Rate of charge
+[3](#3).            Rate of charge                                                                                    19
 
-[4](#4).            Who pays the charge
+[4](#4).            Who pays the charge                                                                         21
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        21
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  21
 
-[7](#7).            Transitional—delegation
+[7](#7).            Transitional—delegation                                                                    21
 
 **Schedule 7—Forest industries (export)**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         22
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          22
 
-[3](#3).            Rate of charge
+[3](#3).            Rate of charge                                                                                    23
 
-[4](#4).            Who pays the charge
+[4](#4).            Who pays the charge                                                                         23
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        23
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  23
 
 **Schedule 8—Forest industries (import)**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         24
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          24
 
-[3](#3).            Rate of charge
+[3](#3).            Rate of charge                                                                                    24
 
-[4](#4).            Who pays the charge
+[4](#4).            Who pays the charge                                                                         25
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        25
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  26
 
-[7](#7).            Transitional—determinations
+[7](#7).            Transitional—determinations                                                            26
 
 **Schedule 9—Honey**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         27
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          27
 
-[3](#3).            Rate of charge
+[3](#3).            Rate of charge                                                                                    28
 
-[4](#4).            Who pays the charge
+[4](#4).            Who pays the charge                                                                         28
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        28
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  29
 
 **Schedule 10—Horticultural products**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         30
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          30
 
-[3](#3).            Rates of charge
+[3](#3).            Rates of charge                                                                                   31
 
-[4](#4).            Who pays the charge
+[4](#4).            Who pays the charge                                                                         32
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        32
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  34
 
 **Schedule 11—Live-stock (exporters)**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         35
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          35
 
-[3](#3).            Rate of charge—sheep
+[3](#3).            Rate of charge—sheep                                                                       36
 
-[4](#4).            Rate of charge—lambs
+[4](#4).            Rate of charge—lambs                                                                       36
 
-[5](#5).            Rate of charge—goats
+[5](#5).            Rate of charge—goats                                                                        36
 
-[6](#6).            Who pays the charge
+[6](#6).            Who pays the charge                                                                         36
 
-[7](#7).            Regulations
+[7](#7).            Regulations                                                                                        37
 
-[8](#8).            Transitional—regulations
+[8](#8).            Transitional—regulations                                                                  37
 
-[9](#9).            Transitional—declarations
+[9](#9).            Transitional—declarations                                                                 37
 
-[10](#10).          Transitional—authorisations
+[10](#10).          Transitional—authorisations                                                             38
 
 **Schedule 12—Live-stock (producers)**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         39
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          39
 
-[3](#3).            Rate of charges—sheep
+[3](#3).            Rate of charges—sheep                                                                     40
 
-[4](#4).            Rate of charges—lambs
+[4](#4).            Rate of charges—lambs                                                                     40
 
-[5](#5).            Rate of charges—goats
+[5](#5).            Rate of charges—goats                                                                      40
 
-[6](#6).            Who pays the charge
+[6](#6).            Who pays the charge                                                                         41
 
-[7](#7).            Regulations
+[7](#7).            Regulations                                                                                        41
 
-[8](#8).            Transitional—regulations
+[8](#8).            Transitional—regulations                                                                  41
 
-[9](#9).            Transitional—declarations
+[9](#9).            Transitional—declarations                                                                 42
 
 **Schedule 13—Wine**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         43
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          43
 
-[3](#3).            Rate of charge
+[3](#3).            Rate of charge                                                                                    43
 
-[4](#4).            Who pays the charge
+[4](#4).            Who pays the charge                                                                         43
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        44
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  44
 
 **Schedule 14—Regulations may impose primary industries charges** 
 
 **Part 1—Definitions**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         45
 
 **Part 2—Regulations may impose charges on primary industry products**
 
-[2](#2).            Imposition of charge
+[2](#2).            Imposition of charge                                                                          47
 
-[3](#3).            Imposition of 2 or more charges
+[3](#3).            Imposition of 2 or more charges                                                        47
 
-[4](#4).            Additional charges
+[4](#4).            Additional charges                                                                             47
 
 **Part 3—Rate of charge**
 
-[5](#5).            Rate of charge
+[5](#5).            Rate of charge                                                                                    48
 
-[6](#6).            Composite rate of charge
+[6](#6).            Composite rate of charge                                                                   48
 
-[7](#7).            Flexibility in relation to rates of charge
+[7](#7).            Flexibility in relation to rates of charge                                             48
 
-[8](#8).            Maximum rate of charge for animal products
+[8](#8).            Maximum rate of charge for animal products                                    48
 
-[9](#9).            Maximum rate of charge for plant products
+[9](#9).            Maximum rate of charge for plant products                                      49
 
 **Part 4—Miscellaneous**
 
-[10](#10).          Person liable to pay charge
+[10](#10).          Person liable to pay charge                                                                50
 
-[11](#11).          Exemptions from charge
+[11](#11).          Exemptions from charge                                                                    50
 
-[12](#12).          Designated bodies
+[12](#12).          Designated bodies                                                                              50
 
-[13](#13).          Regulations
+[13](#13).          Regulations                                                                                        50
 
 **Notes** 
 
@@ -548,7 +548,7 @@ Note 4:       Paragraph (2)(d) identifies amounts that, under the 
 
              (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations prescribing an amount for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
 
-##### <a id="6"></a>6  Transitional—regulations
+##### <a id="6"></a>6  Transitional—regulations
 
              (1)  This clause applies to regulations if:
 
@@ -598,7 +598,7 @@ Note:          Clause 6 provides that charge imposed by this
 
              (4)  For the purposes of this Schedule, the question whether a body corporate is related to another body corporate is to be determined in the same way as the question whether bodies corporate are related to each other is determined for the purposes of the _Corporations Act 2001_.
 
-##### <a id="2"></a>2  Imposition of charge—re-importation of exported dairy produce
+##### <a id="2"></a>2  Imposition of charge—re-importation of exported dairy produce
 
                    If:
 
@@ -836,11 +836,7 @@ Delegation
 
                    In this Schedule:
 
-                    <a name="industri-bodi"></a>**_industry body_** means a body for which both of the following conditions are met:
-
-                     (a)  members of the body are exporters of logs;
-
-                     (b)  the body is prescribed by the regulations for the purposes of this paragraph.
+                    <a name="industri-bodi"></a>**_industry body_** means an industry body declared under section 7 of the _Primary Industries and Energy Research and Development Act 1989_ to be a representative organisation in relation to an R&amp;D Corporation established under section 8 of that Act in respect of forest industries.
 
                     <a name="log"></a>**_logs_** means logs that:
 
@@ -902,11 +898,7 @@ Delegation
 
                      (b)  such other products as are described in Chapter 44 of Schedule 3 to the _Customs Tariff Act 1995_ and prescribed by the regulations.
 
-                    <a name="industri-bodi"></a>**_industry body_** means a body for which both of the following conditions are met:
-
-                     (a)  members of the body are importers of forest products;
-
-                     (b)  the body is prescribed by the regulations for the purposes of this paragraph.
+                    <a name="industri-bodi"></a>**_industry body_** means an industry body declared under section 7 of the _Primary Industries and Energy Research and Development Act 1989_ to be a representative organisation in relation to an R&amp;D Corporation established under section 8 of that Act in respect of forest industries.
 
                     <a name="log"></a>**_logs_** has the same meaning as in Schedule 10 to the _Primary Industries (Excise) Levies Act 1999_.
 
@@ -1738,9 +1730,7 @@ of Assent</div>
     <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 29 June 2007 
-Schedule 2: 3 Sept 2007 ( <i>see</i>F2007L02639) 
-Remainder: Royal Assent</div>
+    <div>Schedule 2 (items 4, 5): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1884,38 +1874,6 @@ _(b)_ The _Primary Industries (Customs) Charges Act 1999_ was amended by Schedul
   </td>
   <td>
     <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 123, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 123, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2087,6 +2045,36 @@ _(b)_ The _Primary Industries (Customs) Charges Act 1999_ was amended by Schedul
   </td>
 </tr></table>
 
+### Note 2
+
+_Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007 (No. 123, 2007)_
+
+The following amendments commence on 28 December 2007 unless proclaimed earlier:
+
+## Schedule 2
+
+## 4  Clause 1 of Schedule 7 (definition of _industry body_)
+
+Repeal the definition, substitute:
+
+                    <a name="industri-bodi"></a>**_industry body_** means a body for which both of the following conditions are met:
+
+                     (a)  members of the body are exporters of logs;
+
+                     (b)  the body is prescribed by the regulations for the purposes of this paragraph.
+
+## 5  Clause 1 of Schedule 8 (definition of _industry body_)
+
+Repeal the definition, substitute:
+
+                    <a name="industri-bodi"></a>**_industry body_** means a body for which both of the following conditions are met:
+
+                     (a)  members of the body are importers of forest products;
+
+                     (b)  the body is prescribed by the regulations for the purposes of this paragraph.
+
+As at 10 July 2007 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2112,5 +2100,7 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
+
+ 
 
  
