@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image001.gif)
 
 # Medicare Levy Act 1986
 
 **Act No. 110 of 1986 as amended**
 
-This compilation was prepared on 29 June 2011
- taking into account amendments up to Act No. 44 of 2011
+This compilation was prepared on 1 October 2010
+ taking into account amendments up to Act No. 105 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -78,13 +78,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="levi"></a>**_levy_** means Medicare levy referred to in section 5.
 
-                    <a name="phase-limit"></a>**_phase‑in limit_** means:
+                    <a name="phase-limit"></a>**_phase-in limit_** means:
 
                      (a)  for a person who is entitled to a rebate under section 160AAAA of the Assessment Act—$36,100; or
 
-                     (b)  for a person who is entitled to a rebate under subsection 160AAA(2) of the Assessment Act—$35,810; or
+                     (b)  for a person who is entitled to a rebate under subsection 160AAA(2) of the Assessment Act—$32,584; or
 
-                     (c)  in any other case—$22,163.
+                     (c)  in any other case—$21,750.
 
                     <a name="singl-surcharg-threshold"></a>**_singles surcharge threshold_** for a person for a year of income has the meaning given by section 3AA.
 
@@ -92,13 +92,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  for a person who is entitled to a rebate under section 160AAAA of the Assessment Act—$30,685; or
 
-                     (b)  for a person who is entitled to a rebate under subsection 160AAA(2) of the Assessment Act—$30,439; or
+                     (b)  for a person who is entitled to a rebate under subsection 160AAA(2) of the Assessment Act—$27,697; or
 
-                     (c)  in any other case—$18,839.
+                     (c)  in any other case—$18,488.
 
              (2)  In this Act, a reference to income for surcharge purposes, net income or taxable income is to be read as a reference to that term for the year of income.
 
-          (2A)  In section 8B, 8C, 8D, 8E, 8F or 8G, **_net income_** and **_taxable income_** have the meanings that they would have in that section if subsection 271‑105(1) in Schedule 2F to the Assessment Act were ignored.
+          (2A)  In section 8B, 8C, 8D, 8E, 8F or 8G, **_net income_** and **_taxable income_** have the meanings that they would have in that section if subsection 271-105(1) of Schedule 2F to the Assessment Act were ignored.
 
              (3)  Subject to subsection (3A), for the purposes of this Act:
 
@@ -146,13 +146,13 @@ the living person is taken to be married to the person who died during the perio
 
 ##### <a id="3AA"></a>3AA  Meaning of _singles surcharge threshold_
 
-             (1)  The **_singles surcharge threshold_** for a person for the 2008‑09 year of income is $70,000\. This amount is indexed annually.
+             (1)  The **_singles surcharge threshold_** for a person for the 2008-09 year of income is $70,000\. This amount is indexed annually.
 
 Indexation of singles surcharge threshold
 
              (2)  The amount of the singles surcharge threshold is indexed annually by:
 
-                     (a)  multiplying the singles surcharge threshold for the 2008‑09 year of income by its indexation factor; and
+                     (a)  multiplying the singles surcharge threshold for the 2008-09 year of income by its indexation factor; and
 
                      (b)  rounding the result in paragraph (a) down to the nearest multiple of $1,000.
 
@@ -160,11 +160,11 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
-             (6)  The **_index number_** for a quarter is the estimate of full‑time adult average weekly ordinary time earnings for the middle month of the quarter first published by the Australian Statistician for that month.
+             (6)  The **_index number_** for a quarter is the estimate of full-time adult average weekly ordinary time earnings for the middle month of the quarter first published by the Australian Statistician for that month.
 
 ##### <a id="3A"></a>3A  Meaning of _family surcharge threshold_
 
@@ -176,11 +176,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image003.gif)
 
-Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008‑09 year of income is:
+Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008-09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image004.gif)
 
 ##### <a id="4"></a>4  Incorporation
 
@@ -190,7 +190,7 @@ Example:    If a person has 3 dependants who are children, the family surc
 
                    Medicare levy, to the extent that that levy is payable in accordance with Part VIIB of the Assessment Act, is imposed in accordance with this Act at the rate applicable in accordance with this Act.
 
-Note:          Subdivision 61‑L (tax offset for Medicare levy surcharge (lump sum payments in arrears)) of the _Income Tax Assessment Act 1997_ might provide a tax offset for a person if Medicare levy surcharge (within the meaning of that Act) is payable by the person.
+Note:          Subdivision 61-L (tax offset for Medicare levy surcharge (lump sum payments in arrears)) of the _Income Tax Assessment Act 1997_ might provide a tax offset for a person if Medicare levy surcharge (within the meaning of that Act) is payable by the person.
 
 ##### <a id="6"></a>6  Rate of levy
 
@@ -204,7 +204,7 @@ Note:          Subdivision 61‑L (tax offset for Medicare l
 
              (1)  Where the taxable income of a person does not exceed the threshold amount, no levy is payable by the person upon that taxable income.
 
-             (2)  Where the taxable income of a person exceeds the threshold amount but does not exceed the phase‑in limit, the amount of levy payable by the person upon that taxable income but for sections 8 and 9 shall not exceed 10% of the amount of the excess.
+             (2)  Where the taxable income of a person exceeds the threshold amount but does not exceed the phase-in limit, the amount of levy payable by the person upon that taxable income but for sections 8 and 9 shall not exceed 10% of the amount of the excess.
 
              (3)  Where the net income of a trust estate or a part of that net income, being income in respect of which a person in the capacity of a trustee of a trust estate is liable to be assessed pursuant to section 99 of the Assessment Act, does not exceed $416, no levy is payable by the person upon that net income or part, as the case may be.
 
@@ -236,7 +236,7 @@ and the family income in relation to the person does not exceed the family incom
 
 and the family income in relation to the relevant person exceeds the family income threshold in relation to the relevant person, the amount of the levy payable by the relevant person upon the taxable income of the relevant person but for this section and section 9 shall be reduced by the amount (if any) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image005.gif)
 
 where:
 
@@ -272,7 +272,7 @@ the amount of levy payable by the spouse of the person upon the taxable income o
 
                      (b)  in any other case—the taxable income of the person.
 
-                    <a name="relev-person"></a><a name="famili-incom-threshold"></a>**_family income threshold_**, in relation to a person (in this definition referred to as the **_relevant person_**), means $31,789 increased by $2,919 for each person included in class 3 or class 4 in the table in subsection 159J(2) of the Assessment Act in respect of whom:
+                    <a name="relev-person"></a><a name="famili-incom-threshold"></a>**_family income threshold_**, in relation to a person (in this definition referred to as the **_relevant person_**), means $31,196 increased by $2,865 for each person included in class 3 or class 4 in the table in subsection 159J(2) of the Assessment Act in respect of whom:
 
                      (a)  in a case to which paragraph (b) does not apply—the relevant person; or
 
@@ -280,9 +280,9 @@ the amount of levy payable by the spouse of the person upon the taxable income o
 
 would, but for subsection 159J(1A) of the Assessment Act, be entitled to a rebate of tax under section 159J of the Assessment Act in respect of the year of income.
 
-             (6)  In the application of the definition of **_family income threshold_** in subsection (5) in determining the family income threshold in relation to a person in relation to a year of income, being a person who was not a married person on the last day of the year of income, the amount of $31,789 referred to in that definition shall not be increased on account of another person unless family tax benefit under the _A New Tax System (Family Assistance) (Administration) Act 1999_ was payable to the first‑mentioned person in respect of that other person in respect of the whole or any part of the year of income.
+             (6)  In the application of the definition of **_family income threshold_** in subsection (5) in determining the family income threshold in relation to a person in relation to a year of income, being a person who was not a married person on the last day of the year of income, the amount of $31,196 referred to in that definition shall not be increased on account of another person unless family tax benefit under the _A New Tax System (Family Assistance) (Administration) Act 1999_ was payable to the first-mentioned person in respect of that other person in respect of the whole or any part of the year of income.
 
-             (7)  Subsections (5) and (6) apply in relation to a person who is entitled for the year of income to a rebate under section 160AAAA of the Assessment Act as if each reference to $31,789 were a reference to $44,500.
+             (7)  Subsections (5) and (6) apply in relation to a person who is entitled for the year of income to a rebate under section 160AAAA of the Assessment Act as if each reference to $31,196 were a reference to $44,500.
 
 ##### <a id="8B"></a>8B  Levy surcharge—person without dependants who is not married during whole or part of a financial year
 
@@ -308,7 +308,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image006.gif)
 
 ##### <a id="8C"></a>8C  Levy surcharge—person with dependants who is not married during whole or part of a financial year
 
@@ -336,7 +336,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image007.gif)
 
 ##### <a id="8D"></a>8D  Levy surcharge—person who is married during whole or part of a financial year
 
@@ -362,11 +362,11 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  the sum of the person’s income for surcharge purposes and the person’s spouse’s income for surcharge purposes exceeds the person’s family surcharge threshold; and
 
-                     (c)  the person’s income for surcharge purposes exceeds $18,839.
+                     (c)  the person’s income for surcharge purposes exceeds $18,488.
 
              (4)  The amount of the levy that, apart from this section, would have been payable by a person under this Act for the year of income, being a person to whom this section applies for only some of the days in the year of income, is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image008.gif)
 
 if:
 
@@ -374,7 +374,7 @@ if:
 
                               (i)  the sum of the person’s income for surcharge purposes and the person’s spouse’s income for surcharge purposes exceeds the person’s family surcharge threshold;
 
-                             (ii)  the person’s income for surcharge purposes exceeds $18,839; or
+                             (ii)  the person’s income for surcharge purposes exceeds $18,488; or
 
                      (b)  the person’s income for surcharge purposes exceeds the person’s family surcharge threshold, if the person is married for only some of the year of income.
 
@@ -400,7 +400,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image009.gif)
 
 ##### <a id="8F"></a>8F  Levy surcharge for certain trustees—beneficiary a person to whom section 8C applies 
 
@@ -416,7 +416,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image010.gif)
 
 ##### <a id="8G"></a>8G  Levy surcharge for certain trustees—beneficiary a person to whom section 8D applies 
 
@@ -432,11 +432,11 @@ if:
 
                      (b)  the sum of the beneficiary’s trust income and the beneficiary’s spouse’s income for surcharge purposes exceeds the beneficiary’s family surcharge threshold; and
 
-                     (c)  the amount of the beneficiary’s trust income exceeds $18,839.
+                     (c)  the amount of the beneficiary’s trust income exceeds $18,488.
 
              (3)  If this section applies to the beneficiary for only some of the days in the year of income, the amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00451/Html/9e2fc156-fe9f-495b-b815-563fb82990c5_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image010.gif)
 
 if:
 
@@ -444,7 +444,7 @@ if:
 
                               (i)  the sum of the beneficiary’s trust income and the beneficiary’s spouse’s income for surcharge purposes exceeds the beneficiary’s family surcharge threshold; and
 
-                             (ii)  the beneficiary’s trust income exceeds $18,839; or
+                             (ii)  the beneficiary’s trust income exceeds $18,488; or
 
                      (b)  in the case of a beneficiary who is a married person for only some of the year of income—the beneficiary’s trust income exceeds the beneficiary’s family surcharge threshold.
 
@@ -1507,46 +1507,6 @@ Schedule 1 (items 12–16): 1 July 2008</div>
     <div>Sch. 2 (items 1, 2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Tax Laws Amendment (2011 Measures No. 2) Act 2011</div>
-  </td>
-  <td>
-    <div>41, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 398): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2011</div>
-  </td>
-  <td>
-    <div>44, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2–13): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 13) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1560,7 +1520,7 @@ _(a)_     The _Medicare Levy Act 1986_ was amended by section 37 only 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Medicare Levy Act 1986_ was amended by sections 89–91 only of the _Taxation Laws Amendment Act (No. 2) 1991_, subsection 2(1) of which provides as follows:
+_(b)_    The _Medicare Levy Act 1986_ was amended by sections 89–91 only of the _Taxation Laws Amendment Act (No. 2) 1991_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1770,7 +1730,7 @@ _(j)_ Subsection 2(1) (item 7) of the _Taxation Laws Amendment Act (No. 2) 2
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 135, 1990; No. 64, 1997; No. 30, 1998; No. 17, 1999; No. 76, 2000; No. 44, 2001; Nos. 39 and 57, 2002; Nos. 45 and 67, 2003; No. 84, 2004; Nos. 62 and 101, 2005; Nos. 55 and 59, 2006; Nos. 32, 75 and 76, 2007; Nos. 29, 50 and 110, 2008; Nos. 27 and 41, 2009; No. 78, 2010; Nos. 41 and 44, 2011</div>
+    <div>am. No. 135, 1990; No. 64, 1997; No. 30, 1998; No. 17, 1999; No. 76, 2000; No. 44, 2001; Nos. 39 and 57, 2002; Nos. 45 and 67, 2003; No. 84, 2004; Nos. 62 and 101, 2005; Nos. 55 and 59, 2006; Nos. 32, 75 and 76, 2007; Nos. 29, 50 and 110, 2008; Nos. 27 and 41, 2009; No. 78, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1826,7 +1786,7 @@ _(j)_ Subsection 2(1) (item 7) of the _Taxation Laws Amendment Act (No. 2) 2
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 110, 1987; No. 93, 1988; No. 137, 1989; Nos. 86 and 135, 1990; Nos. 100 and 212, 1991; Nos. 155 and 157, 1992; No. 57, 1993; No. 56, 1995; No. 16, 1996; No. 64, 1997; Nos. 29 and 93, 1998; Nos. 82 and 83, 1999; No. 54, 2000; Nos. 12 and 44, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; Nos. 55 and 59, 2006; Nos. 75 and 76, 2007; Nos. 29, 50 and 63, 2008; No. 41, 2009; Nos. 78 and 105, 2010; No. 44, 2011</div>
+    <div>am. No. 110, 1987; No. 93, 1988; No. 137, 1989; Nos. 86 and 135, 1990; Nos. 100 and 212, 1991; Nos. 155 and 157, 1992; No. 57, 1993; No. 56, 1995; No. 16, 1996; No. 64, 1997; Nos. 29 and 93, 1998; Nos. 82 and 83, 1999; No. 54, 2000; Nos. 12 and 44, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; Nos. 55 and 59, 2006; Nos. 75 and 76, 2007; Nos. 29, 50 and 63, 2008; No. 41, 2009; Nos. 78 and 105, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1914,7 +1874,7 @@ _(j)_ Subsection 2(1) (item 7) of the _Taxation Laws Amendment Act (No. 2) 2
     <div></div>
   </td>
   <td>
-    <div>am. No. 29, 1998; No. 17, 1999; Nos. 52 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011</div>
+    <div>am. No. 29, 1998; No. 17, 1999; Nos. 52 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1986,7 +1946,7 @@ _(j)_ Subsection 2(1) (item 7) of the _Taxation Laws Amendment Act (No. 2) 2
     <div></div>
   </td>
   <td>
-    <div>am. No. 29, 1998; No. 17, 1999; No. 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011</div>
+    <div>am. No. 29, 1998; No. 17, 1999; No. 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2072,19 +2032,19 @@ _Medicare Levy Amendment Act (No. 1) 1997 (No. 64, 1997)_
 
 ## 6  Application
 
-(1)       The amendments made by items 1, 4 and 5 apply for the 1996‑97 year of income and all later years of income.
+(1)        The amendments made by items 1, 4 and 5 apply for the 1996-97 year of income and all later years of income.
 
-(2)       The amendments made by items 2 and 3 apply for the 1996‑97 year of income.
+(2)        The amendments made by items 2 and 3 apply for the 1996-97 year of income.
 
 ## 9  Application
 
-The amendments made by this Part apply for the 1997‑98 year of income and all later years of income.
+The amendments made by this Part apply for the 1997-98 year of income and all later years of income.
 
 ## Schedule 2
 
 ## 7  Application
 
-The amendments made by this Schedule apply for the 1997‑98 year of income and all later years of income.
+The amendments made by this Schedule apply for the 1997-98 year of income and all later years of income.
 
 * * *
 
@@ -2104,7 +2064,7 @@ _Medicare Levy Consequential Amendment (Trust Loss) Act 1998 (No. 30, 1998)_
 
 ## 2  Application
 
-The amendment made by this Schedule applies for the 1997‑98 year of income and all later years of income.
+The amendment made by this Schedule applies for the 1997-98 year of income and all later years of income.
 
 * * *
 
@@ -2114,7 +2074,7 @@ _A New Tax System (Fringe Benefits Reporting) Act 1999 (No. 17, 1999)_
 
 ## 8  Application
 
-The amendments made by this Schedule apply for the purposes of working out the amount of Medicare levy payable on taxable income for the 1999‑2000 year of income or a later year of income.
+The amendments made by this Schedule apply for the purposes of working out the amount of Medicare levy payable on taxable income for the 1999-2000 year of income or a later year of income.
 
 * * *
 
@@ -2124,7 +2084,7 @@ _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (
 
 ## 29  Application
 
-The amendments made by this Schedule apply to assessments in relation to the 2000‑2001 year of income and later years of income.
+The amendments made by this Schedule apply to assessments in relation to the 2000-2001 year of income and later years of income.
 
 * * *
 
@@ -2134,7 +2094,7 @@ _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (
 
 ## 68  Application
 
-(1)       Subject to this item, the amendments made by this Schedule apply to assessments in relation to the 2000‑2001 year of income and later years of income.
+(1)        Subject to this item, the amendments made by this Schedule apply to assessments in relation to the 2000-2001 year of income and later years of income.
 
 * * *
 
@@ -2144,7 +2104,7 @@ _A New Tax System (Fringe Benefits) Act 2000 (No. 52, 2000)_
 
 ## 2  Application
 
-The amendment made by item 1 applies in respect of the 1999‑2000 year of income and all later years of income.
+The amendment made by item 1 applies in respect of the 1999-2000 year of income and all later years of income.
 
 * * *
 
@@ -2154,7 +2114,7 @@ _Medicare Levy Amendment (CPI Indexation) Act 2000 (No. 54, 2000)_
 
 ## 10  Application
 
-The amendments of the _Medicare Levy Act 1986_ made by this Schedule apply to assessments for the 1999‑2000 year of income and later years of income.
+The amendments of the _Medicare Levy Act 1986_ made by this Schedule apply to assessments for the 1999-2000 year of income and later years of income.
 
 * * *
 
@@ -2174,7 +2134,7 @@ _Medicare Levy Amendment (CPI Indexation) Act (No. 1) 2001 (No. 12, 2001)_
 
 ## 13  Application
 
-The amendments of the _Medicare Levy Act 1986_ made by this Part apply to assessments for the 2000‑2001 year of income and later years of income.
+The amendments of the _Medicare Levy Act 1986_ made by this Part apply to assessments for the 2000-2001 year of income and later years of income.
 
 * * *
 
@@ -2185,7 +2145,7 @@ _Taxation Laws Amendment (Changes for Senior Australians) Act 2001
 
 ## 8  Application
 
-The amendments made by this Schedule apply to assessments for the 2000‑2001 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2000-2001 year of income and later years of income.
 
 * * *
 
@@ -2195,13 +2155,13 @@ _Taxation Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2002 (N
 
 ## 15  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2001‑2002 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2001-2002 year of income and later years of income.
 
 ## Schedule 2
 
 ## 8  Application of amendments
 
-The amendments made by items 4 to 7 apply to assessments for the 2000‑01 year of income and later years of income.
+The amendments made by items 4 to 7 apply to assessments for the 2000-01 year of income and later years of income.
 
 * * *
 
@@ -2211,7 +2171,7 @@ _Taxation Laws Amendment Act (No. 2) 2002 (No. 57, 2002)_
 
 ## 3  Application
 
-The amendments made by this Schedule apply to assessments for the 2000‑2001 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2000-2001 year of income and later years of income.
 
 * * *
 
@@ -2220,7 +2180,7 @@ _Taxation Laws Amendment (Personal Income Tax Reduction) Act 2003
 
 ##### 4  Application
 
-                   The amendments made by Schedule 1 apply to assessments for the 2003‑2004 income year and later income years.
+                   The amendments made by Schedule 1 apply to assessments for the 2003-2004 income year and later income years.
 
 * * *
 
@@ -2230,7 +2190,7 @@ _Taxation Laws Amendment Act (No. 6) 2003 (No. 67, 2003)_
 
 ## 15  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2002‑2003 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2002-2003 year of income and later years of income.
 
 * * *
 
@@ -2239,7 +2199,7 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2004
 
 ##### <a id="4"></a>4  Application of amendments
 
-                   The amendments made by Schedule 1 apply to assessments for the 2003‑2004 year of income and later years of income.
+                   The amendments made by Schedule 1 apply to assessments for the 2003-2004 year of income and later years of income.
 
 * * *
 
@@ -2250,7 +2210,7 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2005
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2004‑2005 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2004-2005 year of income and later years of income.
 
 * * *
 
@@ -2259,7 +2219,7 @@ _Tax Laws Amendment (Personal Income Tax Reduction) Act 2005
 
 ##### <a id="4"></a>4  Application
 
-                   The amendments made by Schedule 1 apply to assessments for the 2005‑2006 year of income and later years of income.
+                   The amendments made by Schedule 1 apply to assessments for the 2005-2006 year of income and later years of income.
 
 * * *
 
@@ -2269,7 +2229,7 @@ _Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangemen
 
 ## 8  Application
 
-The amendments made by this Schedule apply to assessments for the 2006‑07 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2006-07 year of income and later years of income.
 
 * * *
 
@@ -2279,7 +2239,7 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2006 (No. 
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2005‑2006 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2005-2006 year of income and later years of income.
 
 * * *
 
@@ -2289,7 +2249,7 @@ _Tax Laws Amendment (2007 Budget Measures) Act 2007 (No. 75, 2007)_
 
 ## 26  Application of amendments
 
-The amendments made by this Part apply to assessments for the 2006‑2007 year of income and later years of income.
+The amendments made by this Part apply to assessments for the 2006-2007 year of income and later years of income.
 
 * * *
 
@@ -2300,7 +2260,7 @@ _Tax Laws Amendment (Personal Income Tax Reduction) Act 2007
 
 ## 11  Application
 
-The amendments made by this Part apply to assessments for the 2007‑08 year of income and later years of income.
+The amendments made by this Part apply to assessments for the 2007-08 year of income and later years of income.
 
 * * *
 
@@ -2311,15 +2271,15 @@ _Tax Laws Amendment (Personal Income Tax Reduction) Act 2008
 
 ## 10  Application
 
-The amendments made by this Part apply to assessments for the 2008‑09 year of income.
+The amendments made by this Part apply to assessments for the 2008-09 year of income.
 
 ## 20  Application
 
-The amendments made by this Part apply to assessments for the 2009‑10 year of income.
+The amendments made by this Part apply to assessments for the 2009-10 year of income.
 
 ## 30  Application
 
-The amendments made by this Part apply to assessments for the 2010‑11 year of income and later years of income.
+The amendments made by this Part apply to assessments for the 2010-11 year of income and later years of income.
 
 * * *
 
@@ -2330,13 +2290,13 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2008
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2007‑08 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2007-08 year of income and later years of income.
 
 * * *
 
 _Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008 (No. 63, 2008)_
 
-##### 4  Review of operation of amendments
+##### 4  Review of operation of amendments
 
              (1)  The Minister must cause an independent review of the operation of the amendments made by this Act to be undertaken and completed by 30 June 2010.
 
@@ -2354,7 +2314,7 @@ _Families, Housing, Community Services and Indigenous Affairs and Other Legislat
 
 ## 16  Application
 
-The amendments made by this Part apply in relation to the 2008‑09 income year and later income years.
+The amendments made by this Part apply in relation to the 2008-09 income year and later income years.
 
 * * *
 
@@ -2373,15 +2333,15 @@ _Tax Laws Amendment (Medicare Levy Surcharge Thresholds) Act (No. 2) 2008
 
 ## 11  Application
 
-The amendments made by this Schedule apply to assessments for the 2008‑09 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2008-09 year of income and later years of income.
 
 ## 12  Transitional
 
-(1)       In this item:
+(1)        In this item:
 
 **_new Act_** means the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_, and the _Medicare Levy Act 1986_, as amended by this Schedule.
 
-(2)       For the purposes of the new Acts, if:
+(2)        For the purposes of the new Acts, if:
 
                      (a)  a person is covered by an insurance policy that provides private patient hospital cover; and
 
@@ -2403,7 +2363,7 @@ _Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
 
 ## 102  Application
 
-(1)       The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
+(1)        The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
 
 * * *
 
@@ -2413,7 +2373,7 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2009 (No. 41
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2008‑09 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2008-09 year of income and later years of income.
 
 * * *
 
@@ -2423,7 +2383,7 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2010 (No. 
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2009‑10 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2009-10 year of income and later years of income.
 
 * * *
 
@@ -2433,7 +2393,7 @@ _Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
 
 ## 1  Employer determination made where expected or actual date of birth is before 1 July 2011
 
-(1)       The _Paid Parental Leave Act 2010_ applies, with the modifications set out in this item, in relation to a person who has made a claim for parental leave pay for a child, if:
+(1)        The _Paid Parental Leave Act 2010_ applies, with the modifications set out in this item, in relation to a person who has made a claim for parental leave pay for a child, if:
 
                      (a)  for a claim made before the day the child is born—the expected date of birth of the child is before 1 July 2011; or
 
@@ -2441,7 +2401,7 @@ _Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
 
 _Note:       For a claim made before the day the child is born, see subitem (9) if the expected date of birth of the child is before 1 July 2011, but the child is born on or after that date._
 
-(2)       Section 101 of that Act (and the other provisions of that Act so far as they relate to that section) applies in relation to the person as if subsections (1) and (2) of that section were omitted and the following subsection substituted:
+(2)        Section 101 of that Act (and the other provisions of that Act so far as they relate to that section) applies in relation to the person as if subsections (1) and (2) of that section were omitted and the following subsection substituted:
 
              (1)  The Secretary must make a determination under this section (the **_employer determination_**) that a person’s employer is to pay the person instalments if the Secretary is satisfied, when making the determination, that:
 
@@ -2451,7 +2411,7 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (c)  the person has consented in the claim to the employer paying instalments to the person; and
 
-                     (d)  the person is likely to be an Australian‑based employee of the employer during whichever of the following periods applies:
+                     (d)  the person is likely to be an Australian-based employee of the employer during whichever of the following periods applies:
 
                               (i)  if the Secretary has made a payability determination that parental leave pay is payable to the person—the person’s PPL period;
 
@@ -2461,9 +2421,9 @@ _Note:       For a claim made before the day the child is born, see 
 
                       (f)  if paragraphs (b) to (e) are satisfied in relation to more than one employer of the person—the person nominated the employer in the claim as the employer who would be required to pay instalments to the person.
 
-(3)       For the purposes of this item, an employer determination made under subsection 101(1), as that subsection applies because of subitem (2) of this item, is a **_transitional employer determination_**.
+(3)        For the purposes of this item, an employer determination made under subsection 101(1), as that subsection applies because of subitem (2) of this item, is a **_transitional employer determination_**.
 
-(4)       The following provisions of that Act do not apply in relation to a transitional employer determination:
+(4)        The following provisions of that Act do not apply in relation to a transitional employer determination:
 
                      (a)  section 103 (which deals with responding to a notice of an employer determination);
 
@@ -2471,11 +2431,11 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (c)  subsections 207(3) and 224(1) (which deal with applying for review of employer determination decisions).
 
-(5)       Within 14 days after the date of the notice given under section 102 of that Act in relation to the transitional employer determination, the employer may give the Secretary a written notice (the **_acceptance notice_**) that complies with section 104 of that Act.
+(5)        Within 14 days after the date of the notice given under section 102 of that Act in relation to the transitional employer determination, the employer may give the Secretary a written notice (the **_acceptance notice_**) that complies with section 104 of that Act.
 
-(6)       If the employer gives the acceptance notice to the Secretary within that 14 day period, the transitional employer determination comes into force on the day the Secretary receives the acceptance notice.
+(6)        If the employer gives the acceptance notice to the Secretary within that 14 day period, the transitional employer determination comes into force on the day the Secretary receives the acceptance notice.
 
-(7)       If the employer does not give the acceptance notice to the Secretary within that 14 day period, the following paragraphs have effect:
+(7)        If the employer does not give the acceptance notice to the Secretary within that 14 day period, the following paragraphs have effect:
 
                      (a)  the Secretary must revoke the transitional employer determination;
 
@@ -2483,15 +2443,15 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (c)  to avoid doubt, subsection 108(5) of that Act (which deals with giving notice of the revocation) applies in relation to the revocation.
 
-(8)       The Secretary may extend the 14 day period referred to in subitem (5) in relation to an employer. If the Secretary does so, subitems (6) and (7) have effect accordingly.
+(8)        The Secretary may extend the 14 day period referred to in subitem (5) in relation to an employer. If the Secretary does so, subitems (6) and (7) have effect accordingly.
 
-(9)       Despite paragraph (1)(a) and subitem (2) of this item, if the person’s child is born on or after 1 July 2011, then the following paragraphs have effect:
+(9)        Despite paragraph (1)(a) and subitem (2) of this item, if the person’s child is born on or after 1 July 2011, then the following paragraphs have effect:
 
                      (a)  the Secretary may make an employer determination for the person and the person’s employer under section 101 of the _Paid Parental Leave Act 2010_, as that section applies apart from this item;
 
                      (b)  if the Secretary does so and has previously made a transitional employer determination for the person and the employer, the Secretary is taken never to have made the transitional employer determination.
 
-(10)     The following provisions of the _Paid Parental Leave Act 2010_, apply in relation to this item as if it were a provision of that Act:
+(10)      The following provisions of the _Paid Parental Leave Act 2010_, apply in relation to this item as if it were a provision of that Act:
 
                      (a)  section 275 (which deals with how that Act applies to an adopted child);
 
@@ -2499,7 +2459,7 @@ _Note:       For a claim made before the day the child is born, see 
 
 ## 2  Employer determination made where expected date of birth is on or after 1 July 2011 but child born before that date
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  the Secretary makes an employer determination for an employer and a person under the _Paid Parental Leave Act 2010_; and
 
@@ -2511,7 +2471,7 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (e)  the person’s employer has not made an election under section 109 of that Act that applies to the person.
 
-(2)       If, after the employer determination is made, the Secretary makes a payability determination that parental leave pay is payable to the person for the child, the notice given to the employer under section 113 of that Act must:
+(2)        If, after the employer determination is made, the Secretary makes a payability determination that parental leave pay is payable to the person for the child, the notice given to the employer under section 113 of that Act must:
 
                      (a)  state the day the child was born; and
 
@@ -2523,7 +2483,7 @@ _Note:       For a claim made before the day the child is born, see 
 
                              (ii)  gives the Secretary a written notice indicating that agreement within 14 days of the date referred to in paragraph (b).
 
-(3)       If the employer does not give the notice referred to in subparagraph (2)(c)(ii) to the Secretary within that 14 day period, the following paragraphs have effect:
+(3)        If the employer does not give the notice referred to in subparagraph (2)(c)(ii) to the Secretary within that 14 day period, the following paragraphs have effect:
 
                      (a)  the Secretary must revoke the employer determination;
 
@@ -2533,20 +2493,10 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (d)  section 103 of that Act (which deals with responding to a notice of an employer determination) is taken to have never applied in relation to the employer determination.
 
-(4)       The following provisions of that Act  apply in relation to this item as if it were a provision of that Act:
+(4)        The following provisions of that Act  apply in relation to this item as if it were a provision of that Act:
 
                      (a)  section 275 (which deals with how that Act applies to an adopted child);
 
                      (b)  section 276 (which deals with how that Act applies to claims made in exceptional circumstances).
-
-* * *
-
-_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2011 (No. 44, 2011)_
-
-## Schedule 1
-
-## 13  Application of amendments
-
-The amendments made by this Schedule apply to assessments for the 2010‑11 year of income and later years of income.
 
  
