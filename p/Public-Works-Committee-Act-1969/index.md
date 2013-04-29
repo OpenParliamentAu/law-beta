@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00015/Html/PublicWorksCommittee1969_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00668/Html/PublicWorksCommittee1969_image001.gif)
 
 # Public Works Committee Act 1969
 
 **Act No. 92 of 1969 as amended**
 
-This compilation was prepared on 1 January 2008
+This compilation was prepared on 3 October 2007
  taking into account amendments up to Act No. 150 of 2007
 
 The text of any of those amendments not in force 
@@ -286,9 +286,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  This Act does not apply to:
 
-                     (a)  an authority of the Commonwealth in respect of which a declaration referred to in subsection (3) is in force; or
+                     (a)  an authority of the Commonwealth in respect of which a declaration referred to in subsection (3) is in force;
 
-                     (b)  the Parliament House Construction Authority; or
+                     (b)  the Parliament House Construction Authority;
+
+                    (ba)  the Australian Maritime College; or
 
                      (c)  an authority of the Commonwealth established for the purpose of providing, or for purposes which include the purpose of providing, tertiary education in the Australian Capital Territory.
 
@@ -1144,7 +1146,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(f)</i><
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 23, 24): 1 Jan 2008 ( <i>see</i>F2007L04141)</div>
+    <div>Schedule 1 (items 23, 24): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1271,7 +1273,7 @@ _(h)_     The _Public Works Committee Act 1969_ was amended by Schedule�
     <div></div>
   </td>
   <td>
-    <div>am. No. 80, 1982; No. 196, 1992; No. 150, 2007</div>
+    <div>am. No. 80, 1982; No. 196, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1490,6 +1492,24 @@ _(h)_     The _Public Works Committee Act 1969_ was amended by Schedule�
     <div>am. No. 5, 1989; No. 132, 2006</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Maritime Legislation Amendment Act 2007 (No. 150, 2007)_
+
+The following amendments commence on 1 January 2008 (_see_ F2007L04141):
+
+## Schedule 1
+
+## 23  At the end of paragraphs 6A(2)(a) and (b)
+
+Add “or”.
+
+## 24  Paragraph 6A(2)(ba)
+
+Repeal the paragraph.
+
+As at 3 October 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
