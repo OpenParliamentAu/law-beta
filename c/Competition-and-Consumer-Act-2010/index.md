@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00004/Html/55253a36-b22c-4919-becb-6d0a91a7ba83_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00877/Html/409ebc2b-eaa8-46dc-8816-1e45501db59d_files/image001.gif)
 
 # Competition and Consumer Act 2010
 
 **Act No. 51 of 1974 as amended**
 
-This compilation was prepared on 19 December 2012
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 30 November 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 119
@@ -24,7 +24,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 – 4
+                                     Notes 2 and 3
                                      Table A
 
 Prepared by the Office of Parliamentary Counsel, Canberra
@@ -285,7 +285,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [44AAE](#44AAE).  Resolutions without meetings
 
-[44AAEA](#44AAEA).                                                                                            Arbitration
+44AAEA Arbitration
 
         **Subdivision D—Miscellaneous**
 
@@ -566,9 +566,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 44ZZAAA Proposed amendments to access undertakings
 
-[44ZZAAB Access undertakings containing fixed principles](#44ZZAAB Access undertakings containing fixed principles).                         177
+44ZZAAB Access undertakings containing fixed principles
 
-[44ZZAA](#44ZZAA).                                            Access codes prepared by industry bodies
+44ZZAA Access codes prepared by industry bodies
 
 44ZZAB Commission may rely on industry body consultations
 
@@ -642,7 +642,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [44ZZN](#44ZZN).  Compensation for acquisition of property
 
-[44ZZNA](#44ZZNA).                        Operation of Parts IV and VII not affected by this Part
+44ZZNA Operation of Parts IV and VII not affected by this Part
 
 [44ZZO](#44ZZO).  Conduct by directors, servants or agents
 
@@ -650,7 +650,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 44ZZOAA Tribunal only to consider particular material
 
-[44ZZOA](#44ZZOA).                                                           Time limit for Tribunal decisions
+44ZZOA Time limit for Tribunal decisions
 
 [44ZZP](#44ZZP).   Regulations about review by the Tribunal
 
@@ -1090,11 +1090,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [95AZE](#95AZE).  Applicant may withdraw application
 
-[95AZEA](#95AZEA).                                 Tribunal must require Commission to give report
+95AZEA Tribunal must require Commission to give report
 
 [95AZF](#95AZF).  Commission to assist Tribunal
 
-[95AZFA](#95AZFA).                                                          Commission may make enquiries
+95AZFA Commission may make enquiries
 
 [95AZG](#95AZG).  Tribunal to make determination on application
 
@@ -1566,8 +1566,6 @@ but does not include an impairment of a person’s mental condition unless the i
                     <a name="price"></a>**_price_** includes a charge of any description.
 
                     <a name="provision"></a>**_provision_**, in relation to an understanding, means any matter forming part of the understanding.
-
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
 
                     <a name="registrar"></a>**_Registrar_** means the Registrar of the Tribunal.
 
@@ -2331,7 +2329,7 @@ the Minister shall terminate the appointment of that associate member of the Com
 
                    The Chairperson may give directions as to the arrangement of the business of the Commission.
 
-##### <a id="17"></a>17  Disclosure of interests by members
+##### <a id="17"></a>17  Disclosure of interests by members
 
              (1)  Where a member of the Commission other than the Chairperson is taking part, or is to take part, in the determination of a matter before the Commission and the member has or acquires any pecuniary interest that could conflict with the proper performance of his or her functions in relation to the determination of the matter:
 
@@ -8268,7 +8266,7 @@ Note:          **_Party_** has an extended meaning—see secti
 
 Note:          For enforcement, see Part VI.
 
-##### <a id="44ZZRK"></a>44ZZRK  Giving effect to a cartel provision
+##### <a id="44ZZRK"></a>44ZZRK  Giving effect to a cartel provision
 
              (1)  A corporation contravenes this section if:
 
@@ -9066,19 +9064,11 @@ but nothing in this subsection affects the application of paragraph (2)(b) or 
 
              (9)  This section does not apply to or in relation to a covenant or proposed covenant if:
 
-                     (a)  the sole or principal purpose for which the covenant was or is required to be given was or is to prevent the relevant land from being used otherwise than for residential purposes; or
+                     (a)  the sole or principal purpose for which the covenant was or is required to be given was or is to prevent the relevant land from being used otherwise than for residential purposes;
 
-                     (b)  both of the following subparagraphs apply:
+                     (b)  the person who required or requires the covenant to be given was or is a religious, charitable or public benevolent institution or a trustee for such an institution and the covenant was or is required to be given for or in accordance with the purposes or objects of that institution; or
 
-                              (i)  the person who required or requires the covenant to be given was or is, at that time, a registered charity;
-
-                             (ii)  the covenant was or is required to be given for or in accordance with the purposes or objects of that registered charity; or
-
-                     (c)  both of the following subparagraphs apply:
-
-                              (i)  the covenant was or is required to be given in pursuance of a legally enforceable requirement made by a registered charity;
-
-                             (ii)  that legally enforceable requirement was or is made for or in accordance with the purposes or objects of that registered charity.
+                     (c)  the covenant was or is required to be given in pursuance of a legally enforceable requirement made by, or by a trustee for, a religious, charitable or public benevolent institution, being a requirement made for or in accordance with the purposes or objects of that institution.
 
 ##### <a id="45C"></a>45C  Covenants in relation to prices
 
@@ -9686,13 +9676,9 @@ for the reason that the person or, if the person is a body corporate, a body cor
 
            (11)  Subsections (8) and (9) do not apply with respect to:
 
-                     (a)  conduct engaged in:
+                     (a)  conduct engaged in by, or by a trustee for, a religious, charitable or public benevolent institution, being conduct engaged in for or in accordance with the purposes or objects of that institution; or
 
-                              (i)  by a registered charity; and
-
-                             (ii)  for or in accordance with the purposes or objects of that registered charity; or
-
-                     (b)  conduct engaged in in pursuance of a legally enforceable requirement made by a registered charity, being a requirement made for or in accordance with the purposes or objects of that registered charity.
+                     (b)  conduct engaged in in pursuance of a legally enforceable requirement made by, or by a trustee for, a religious, charitable or public benevolent institution, being a requirement made for or in accordance with the purposes or objects of that institution.
 
            (12)  Subsection (1) does not apply with respect to any conduct engaged in by a body corporate by way of restricting dealings by another body corporate if those bodies corporate are related to each other.
 
@@ -11484,7 +11470,7 @@ the court hearing the proceedings may order that the defendant pay all or any of
 
              (2)  This diagram shows when this Division prevents an award of personal injury damages.
 
-![](http://www.comlaw.gov.au/Details/C2013C00004/Html/55253a36-b22c-4919-becb-6d0a91a7ba83_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00877/Html/409ebc2b-eaa8-46dc-8816-1e45501db59d_files/image002.gif)
 
 ##### <a id="87G"></a>87G  Date of discoverability
 
@@ -11586,7 +11572,7 @@ in working out whether the period of 3 years after the date of discoverability, 
 
 ##### <a id="87L"></a>87L  Limits on damages for non‑economic loss
 
-                   A court must not, in a proceeding to which this Part applies, award as personal injury damages for non‑economic loss an amount that exceeds the amount (if any) permitted under this Division.
+                   A court must not, in a proceeding to which this Part applies, award as personal injury damages for non‑economic loss an amount that exceeds the amount (if any) permitted under this Division.
 
 ##### <a id="87M"></a>87M  Maximum amount of damages for non‑economic loss
 
@@ -11596,7 +11582,7 @@ in working out whether the period of 3 years after the date of discoverability, 
 
                      (b)  during a later year—the amount worked out (to the nearest multiple of $10) as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00004/Html/55253a36-b22c-4919-becb-6d0a91a7ba83_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00877/Html/409ebc2b-eaa8-46dc-8816-1e45501db59d_files/image003.gif)
 
                             where:
 
@@ -12029,7 +12015,7 @@ the court must not award as personal injury damages for the services:
 
                    A court must not, in a proceeding to which this Part applies, award personal injury damages for economic loss due to the loss of employer superannuation contributions an amount that exceeds the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2013C00004/Html/55253a36-b22c-4919-becb-6d0a91a7ba83_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00877/Html/409ebc2b-eaa8-46dc-8816-1e45501db59d_files/image004.gif)
 
 where:
 
@@ -13401,9 +13387,9 @@ review is not available for decisions on authorisations.</li>
 
 For merger clearances(see Subdivision B):
 
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      the Commission
+<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      the
 
-grants them;</li>
+Commission grants them;</li>
 
 <li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      it
 
@@ -15473,7 +15459,7 @@ Interpretation
 
              (3)  This section has effect despite anything in sections 95R and 95ZK.
 
-##### <a id="95ZO"></a>95ZO  Immunity
+##### <a id="95ZO"></a>95ZO  Immunity
 
 Members or associate members of the Commission
 
@@ -16007,7 +15993,7 @@ Note:          Division 2 contains provisions about procedur
 
                     <a name="merger-clearanc-regist"></a>**_merger clearance register_** means the register kept under section 95AH.
 
-##### <a id="114"></a>114  Tribunal may consult etc. to clarify information
+##### <a id="114"></a>114  Tribunal may consult etc. to clarify information
 
              (1)  The Tribunal may seek such relevant information, and consult with such persons, as it considers reasonable and appropriate for the purposes of clarifying the information given to it under section 113.
 
