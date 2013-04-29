@@ -1,331 +1,108 @@
-![](http://www.comlaw.gov.au/Details/C2008C00339/Html/2a782ac7-405a-42d7-b1ed-fd22a52090f1_files/image001.gif)
+**<b>
 
-# Nauru (High Court Appeals) Act 1976
+### <center><name>NAURU (HIGH COURT APPEALS) ACT 1976 - Reprinted as at 28 February 1990 (HISTACT CHAP 751 #DATE 28:02:1990) </name></center>
+</b>** *1*Act No. 151, 1976; assented to 9 December 1976; commenced 21 March 1977 (see Gazette 1977, No. S46). 
+**<b>
 
-**Act No. 151 of 1976 as amended**
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - TABLE OF PROVISIONS </name>
+</b>** 
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+## TABLE
+<tables> <tt>                              TABLE OF PROVISIONS<lf> 
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+Section<lf> <p>     1\. Short title<lf> <p>     2\. Commencement<lf> <p>     3\. Interpretation<lf> <p>     4\. Approval of Agreement<lf> <p>     5\. Appeals to High Court<lf> <p>     6\. Procedure<lf> <p>     7\. Quorum<lf> <p>     8\. Form of judgment on appeal<lf> <p>     9\. Decision in case of difference of opinion<lf> <p>    10\. Right of appearance<lf> <p>    11\. Regulations<lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></tt></tables>
+**<b>
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - LONG TITLE </name>
+</b>** 
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+## SECT
+<sect> An Act relating to Appeals to the High Court from the Supreme Court of Nauru </sect>
+**<b>
 
-# Contents
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 1 Short title </name>
+</b>** 
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+## SECT
+<sect>   1\. This Act may be cited as the Nauru (High Court Appeals) Act 1976.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 2 Commencement </name>
+</b>** 
 
-[3](#3).            Interpretation                                                                                        1
+## SECT
+<sect>   2\. This Act shall come into operation on a date to be fixed by Proclamation, being a date not earlier than the date on which the Agreement comes into force.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
-[4](#4).            Approval of Agreement                                                                       1
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 3 Interpretation </name>
+</b>** 
 
-[5](#5).            Appeals to High Court                                                                         1
+## SECT
+<sect>   3\. In this Act, 'Agreement' means the agreement between the Government of Australia and the Government of the Republic of Nauru relating to appeals to the High Court of Australia from the Supreme Court of Nauru that was signed on 6 September 1976, being the agreement a copy of the text of which is set out in the Schedule. </sect>
+**<b>
 
-[6](#6).            Procedure                                                                                             2
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 4 Approval of Agreement </name>
+</b>** 
 
-[7](#7).            Quorum                                                                                                2
+## SECT
+<sect>   4\. The Agreement is approved. </sect>
+**<b>
 
-[8](#8).            Form of judgment on appeal                                                                2
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 5 Appeals to High Court </name>
+</b>** 
 
-[9](#9).            Decision in case of difference of opinion                                             2
+## SECT
+<sect>   5.(1) Appeals lie to the High Court of Australia from the Supreme Court of Nauru in cases where the Agreement provides that such appeals are to lie.<lf>   (2) The High Court has jurisdiction to hear and determine appeals mentioned in subsection (1).<lf>   (3) Where the Agreement provides that an appeal is to lie to the High Court of Australia from the Supreme Court of Nauru with the leave of the High Court, the High Court has jurisdiction to hear and determine an application for such leave. </lf></lf></sect>
+**<b>
 
-[10](#10).          Right of appearance                                                                              2
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 6 Procedure </name>
+</b>** 
 
-[11](#11).          Regulations                                                                                          3
+## SECT
+<sect>   6\. The power of the Justices of the High Court or of a majority of them to make Rules of Court under section 86 of the Judiciary Act 1903 extends to making Rules of Court in relation to matters referred to in paragraph 1 of Article 3 of the Agreement. </sect>
+**<b>
 
-**Schedule** 
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 7 Quorum </name>
+</b>** 
 
-**Notes** 
+## SECT
+<sect>   7\. The jurisdiction of the High Court to hear and determine an appeal or an application for leave to appeal under section 5 shall be exercised by a Full Court consisting of not less than 2 Justices. </sect>
+**<b>
 
-## An Act relating to Appeals to the High Court from the Supreme Court of Nauru
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 8 Form of judgment on appeal </name>
+</b>** 
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+## SECT
+<sect>   8\. The High Court in the exercise of its appellate jurisdiction under section 5 may affirm, reverse or modify the judgment, decree, order or sentence appealed from and may give such judgment, make such order or decree or impose such sentence as ought to have been given, made or imposed in the first instance or remit the case for re-determination by the court of first instance, by way of a new trial or rehearing, in accordance with the directions of the High Court. </sect>
+**<b>
 
-                   This Act may be cited as the _Nauru__(High Court Appeals) Act 1976_.
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 9 Decision in case of difference of opinion </name>
+</b>** 
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+## SECT
+<sect>   9\. Where the Justices sitting as a Full Court in accordance with section 7 are divided in opinion as to the decision to be given on any question, the question shall be decided as follows:<lf>    (a) if there is a majority of the one opinion, the question shall be decided<lf> in accordance with the opinion of the majority; or<lf>    (b) in any other case:<lf>          (i) in the case of an application for leave to appeal-the application<lf> shall be refused; or<lf>          (ii) in the case of an appeal-the decision appealed from shall be<lf> affirmed. </lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-                   This Act shall come into operation on a date to be fixed by Proclamation, being a date not earlier than the date on which the Agreement comes into force.
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 10 Right of appearance </name>
+</b>** 
 
-##### <a id="3"></a>3  Interpretation
+## SECT
+<sect>   10.(1) Subject to this section, a party to a proceeding in the High Court under this Act may appear personally or be represented by a person:<lf>    (a) who is entitled to practise in any federal court as a barrister or<lf> solicitor, or as both, in pursuance of section 55A of the Judiciary Act 1903;<lf>    (b) whose name is on the Register of Practitioners kept in accordance with<lf> section 55C of the Judiciary Act 1903; or<lf>    (c) who is enrolled as a barrister and solicitor (whether he is entitled to<lf> practise generally or only in respect of specified causes or matters) under the law of the Republic of Nauru relating to legal practitioners.<lf>   (2) A party to an appeal in a criminal case who has been sentenced to imprisonment in the proceeding to which the appeal relates or in any other proceeding before a court of the Republic of Nauru, and has not served the sentence or so much of the sentence as he is required to serve under the law of the Republic of Nauru, is not entitled to appear personally at the hearing of the appeal.<lf>   (3) The High Court may hear and determine appeals and applications for leave to appeal notwithstanding that a party to the appeal or the applicant for leave to appeal, as the case may be, is not present in person and is not represented at the hearing of the appeal or application. </lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-                   In this Act, **_Agreement_** means the agreement between the Government of Australia and the Government of the Republic of Nauru relating to appeals to the High Court of Australia from the Supreme Court of Nauru that was signed on 6 September 1976, being the agreement a copy of the text of which is set out in the Schedule.
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SECT 11 Regulations </name>
+</b>** 
 
-##### <a id="4"></a>4  Approval of Agreement
+## SECT
+<sect>   11\. The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are necessary or convenient to be prescribed for carrying out or giving effect to this Act. </sect>
+**<b>
 
-                   The Agreement is approved.
+### <name>NAURU (HIGH COURT APPEALS) ACT 1976 - SCHEDULE </name>
+</b>** 
 
-##### <a id="5"></a>5  Appeals to High Court
+## SCH
+<sch>                                 SCHEDULE<lf> 
 
-             (1)  Appeals lie to the High Court of Australia from the Supreme Court of Nauru in cases where the Agreement provides that such appeals are to lie.
-
-             (2)  The High Court has jurisdiction to hear and determine appeals mentioned in subsection (1).
-
-             (3)  Where the Agreement provides that an appeal is to lie to the High Court of Australia from the Supreme Court of Nauru with the leave of the High Court, the High Court has jurisdiction to hear and determine an application for such leave.
-
-##### <a id="6"></a>6  Procedure
-
-                   The power of the Justices of the High Court or of a majority of them to make Rules of Court under section 86 of the _Judiciary Act 1903_ extends to making Rules of Court in relation to matters referred to in paragraph 1 of Article 3 of the Agreement.
-
-##### <a id="7"></a>7  Quorum
-
-                   The jurisdiction of the High Court to hear and determine an appeal or an application for leave to appeal under section 5 shall be exercised by a Full Court consisting of not less than 2 Justices.
-
-##### <a id="8"></a>8  Form of judgment on appeal
-
-                   The High Court in the exercise of its appellate jurisdiction under section 5 may affirm, reverse or modify the judgment, decree, order or sentence appealed from and may give such judgment, make such order or decree or impose such sentence as ought to have been given, made or imposed in the first instance or remit the case for re‑determination by the court of first instance, by way of a new trial or rehearing, in accordance with the directions of the High Court.
-
-##### <a id="9"></a>9  Decision in case of difference of opinion
-
-                   Where the Justices sitting as a Full Court in accordance with section 7 are divided in opinion as to the decision to be given on any question, the question shall be decided as follows:
-
-                     (a)  if there is a majority of the one opinion, the question shall be decided in accordance with the opinion of the majority; or
-
-                     (b)  in any other case:
-
-                              (i)  in the case of an application for leave to appeal—the application shall be refused; or
-
-                             (ii)  in the case of an appeal—the decision appealed from shall be affirmed.
-
-##### <a id="10"></a>10  Right of appearance
-
-             (1)  Subject to this section, a party to a proceeding in the High Court under this Act may appear personally or be represented by a person:
-
-                     (a)  who is entitled to practise in any federal court as a barrister or solicitor, or as both, in pursuance of section 55A of the _Judiciary Act 1903_;
-
-                     (b)  whose name is on the Register of Practitioners kept in accordance with section 55C of the _Judiciary Act 1903_; or
-
-                     (c)  who is enrolled as a barrister and solicitor (whether he or she is entitled to practise generally or only in respect of specified causes or matters) under the law of the Republic of Nauru relating to legal practitioners.
-
-             (2)  A party to an appeal in a criminal case who has been sentenced to imprisonment in the proceeding to which the appeal relates or in any other proceeding before a court of the Republic of Nauru, and has not served the sentence or so much of the sentence as he or she is required to serve under the law of the Republic of Nauru, is not entitled to appear personally at the hearing of the appeal.
-
-             (3)  The High Court may hear and determine appeals and applications for leave to appeal notwithstanding that a party to the appeal or the applicant for leave to appeal, as the case may be, is not present in person and is not represented at the hearing of the appeal or application.
-
-##### <a id="11"></a>11  Regulations
-
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-# Schedule
-
-_Section 3_
-
-AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF THE REPUBLIC OF NAURU RELATING TO APPEALS TO THE HIGH COURT OF AUSTRALIA FROM THE SUPREME COURT OF NAURU
-
-The Government of Australia and the Government of the Republic of Nauru,
-
-Recalling that, immediately before Nauru became independent, the High Court of Australia was empowered, after leave of the High Court had first been obtained, to hear and determine appeals from all judgments, decrees, orders and sentences of the Court of Appeal of the Island of Nauru, other than judgments, decrees or orders given or made by consent,
-
-Taking into account the desire of the Government of the Republic of Nauru that suitable provision now be made for appeals to the High Court of Australia from certain judgments, decrees, orders and sentences of the Supreme Court of Nauru, and
-
-Conscious of the close and friendly relations between the two countries,
-
-Have agreed as follows:
-
-ARTICLE 1
-
-Subject to Article 2 of this Agreement, appeals are to lie to the High Court of Australia from the Supreme Court of Nauru in the following cases: 
-
-A.   In respect of the exercise by the Supreme Court of Nauru of its original jurisdiction—
-
-                   (a)     In criminal cases—as of right, by a convicted person, against conviction or sentence.
-
-                  (b)     In civil cases—
-
-                              (i)  as of right, against any final judgment, decree or order; and
-
-                             (ii)  with the leave of the trial judge or the High Court of Australia, against any other judgment, decree or order.
-
-B.    In respect of the exercise by the Supreme Court of Nauru of its appellate jurisdiction—
-
-In both criminal and civil cases, with the leave of the High Court.
-
-ARTICLE 2
-
-An appeal is not to lie to the High Court of Australia from the Supreme Court of Nauru—
-
-                   (a)     where the appeal involves the interpretation or effect of the Constitution of Nauru;
-
-                  (b)     in respect of a determination of the Supreme Court of Nauru of a question concerning the right of a person to be, or to remain, a member of the Parliament of Nauru;
-
-                   (c)     in respect of a judgment, decree or order given or made by consent;
-
-                  (d)     in respect of appeals from the Nauru Lands Committee or any successor to that Committee that performs the functions presently performed by the Committee; or
-
-                   (e)     in a matter of a kind in respect of which a law in force in Nauru at the relevant time provides that an appeal is not to lie to the High Court.
-
-ARTICLE 3
-
-1.    Subject to paragraph 2 of this Article and to Article 4 of this Agreement, procedural matters relating to appeals from the Supreme Court of Nauru to the High Court of Australia are to be governed by Rules of the High Court.
-
-2.    Applications for the leave of the trial judge to appeal to the High Court of Australia in civil matters are to be made in accordance with the law of Nauru.
-
-ARTICLE 4
-
-1.    Pending the determination of an appeal from the Supreme Court of Nauru to the High Court of Australia, the judgment, decree, order or sentence to which the appeal relates is to be stayed, unless the Supreme Court of Nauru otherwise orders.
-
-2.    Orders of the High Court of Australia on appeals from the Supreme Court of Nauru (including interlocutory orders of the High Court) are to be made binding and effective in Nauru.
-
-ARTICLE 5
-
-This Agreement shall come into force on the date on which the two Governments exchange Notes notifying each other that their respective constitutional and other requirements necessary to give effect to this Agreement have been complied with.
-
-ARTICLE 6
-
-1.    Subject to paragraph 2 of this Article, this Agreement shall continue in force until the expiration of the ninetieth day after the day on which either Government has given to the other Government notice in writing of its desire to terminate this Agreement.
-
-2.    Termination of this Agreement is not to affect—
-
-                   (a)     the hearing and determination of an appeal from the Supreme Court of Nauru instituted in the High Court before the date of the termination; or
-
-                  (b)     the institution, hearing and determination of an appeal from the Supreme Court of Nauru in pursuance of leave of the trial judge or of the High Court of Australia given before the date of the termination.
-
-IN WITNESS WHEREOF the undersigned being duly authorized by their respective governments have signed the present Agreement.
-
-DONE at Nauru this Sixth day of September One thousand nine hundred and seventy‑six in two originals in the English language.
-
-<table>
-<colgroup>
-  <col width="50%">
-  <col width="50%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>A. L. FOGG</div>
-  </td>
-  <td>
-    <div>A. BERNICKE</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>For the Government of</div>
-  </td>
-  <td>
-    <div>For the Government of the</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australia</div>
-  </td>
-  <td>
-    <div>Republic of Nauru</div>
-  </td>
-</tr></table>
-
-# Notes to the _Nauru (High Court Appeals) Act 1976_
-
-### Note 1
-
-The _Nauru (High Court Appeals) Act 1976 _as shown in this compilation comprises Act No. 151, 1976 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="28%">
-  <col width="15%">
-  <col width="16%">
-  <col width="23%">
-  <col width="18%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Nauru (High Court Appeals) Act 1976</div>
-  </td>
-  <td>
-    <div>151, 1976</div>
-  </td>
-  <td>
-    <div>9 Dec 1976</div>
-  </td>
-  <td>
-    <div>21 Mar 1977 ( <i>see Gazette</i>1977, No. S46)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 395, 396): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr></table>
-
- 
-
- 
+                                                              Section 3<lf>           AGREEMENT BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF<lf>           THE REPUBLIC OF NAURU RELATING TO APPEALS TO THE HIGH COURT OF<lf>                   AUSTRALIA FROM THE SUPREME COURT OF NAURU<lf>    The Government of Australia and the Government of the Republic of Nauru,<lf>    Recalling that, immediately before Nauru became independent, the High Court<lf> of Australia was empowered, after leave of the High Court had first been<lf> obtained, to hear and determine appeals from all judgments, decrees, orders and<lf> sentences of the Court of Appeal of the Island of Nauru, other than judgments,<lf> decrees or orders given or made by consent,<lf>    Taking into account the desire of the Government of the Republic of Nauru<lf> that suitable provision now be made for appeals to the High Court of Australia<lf> from certain judgments, decrees, orders and sentences of the Supreme Court of<lf> Nauru, and<lf>    Conscious of the close and friendly relations between the two countries,<lf>    Have agreed as follows:<lf>           ARTICLE 1<lf>    Subject to Article 2 of this Agreement, appeals are to lie to the High Court<lf> of Australia from the Supreme Court of Nauru in the following cases:<lf>    A. In respect of the exercise by the Supreme Court of Nauru of its original<lf> jurisdiction-<lf>           (a) In criminal cases-as of right, by a convicted person, against<lf>           conviction or sentence.<lf>           (b) In civil cases-<lf>               (i) as of right, against any final judgment, decree or order; and<lf>               (ii) with the leave of the trial judge or the High Court of<lf>               Australia, against any other judgment, decree or order.<lf>    B. In respect of the exercise by the Supreme Court of Nauru of its appellate<lf> jurisdiction-<lf>    In both criminal and civil cases, with the leave of the High Court.<lf>           ARTICLE 2<lf>    An appeal is not to lie to the High Court of Australia from the Supreme<lf> Court of Nauru-<lf>    (a) where the appeal involves the interpretation or effect of the<lf> Constitution of Nauru;<lf>    (b) in respect of a determination of the Supreme Court of Nauru of a<lf> question concerning the right of a person to be, or to remain, a member of the<lf> Parliament of Nauru;<lf>    (c) in respect of a judgment, decree or order given or made by consent;<lf>    (d) in respect of appeals from the Nauru Lands Committee or any successor to<lf> that Committee that performs the functions presently performed by the<lf> Committee; or<lf>    (e) in a matter of a kind in respect of which a law in force in Nauru at the<lf> relevant time provides that an appeal is not to lie to the High Court.<lf>           ARTICLE 3<lf>    1\.  Subject to paragraph 2 of this Article and to Article 4 of this<lf> Agreement, procedural matters relating to appeals from the Supreme Court of<lf> Nauru to the High Court of Australia are to be governed by Rules of the High<lf> Court.<lf>    2\.  Applications for the leave of the trial judge to appeal to the High<lf> Court of Australia in civil matters are to be made in accordance with the law<lf> of Nauru.<lf>           ARTICLE 4<lf>    1\.  Pending the determination of an appeal from the Supreme Court of Nauru<lf> to the High Court of Australia, the judgment, decree, order or sentence to<lf> which the appeal relates is to be stayed, unless the Supreme Court of Nauru<lf> otherwise orders.<lf>    2\.  Orders of the High Court of Australia on appeals from the Supreme Court<lf> of Nauru (including interlocutory orders of the High Court) are to be made<lf> binding and effective in Nauru.<lf>           ARTICLE 5<lf>    This Agreement shall come into force on the date on which the two<lf> Governments exchange Notes notifying each other that their respective<lf> constitutional and other requirements necessary to give effect to this<lf> Agreement have been complied with.<lf>           ARTICLE 6<lf>    1\.  Subject to paragraph 2 of this Article, this Agreement shall continue in<lf> force until the expiration of the ninetieth day after the day on which either<lf> Government has given to the other Government notice in writing of its desire to<lf> terminate this Agreement.<lf>    2\.  Termination of this Agreement is not to affect-<lf>    (a) the hearing and determination of an appeal from the Supreme Court of<lf> Nauru instituted in the High Court before the date of the termination; or<lf>    (b) the institution, hearing and determination of an appeal from the Supreme<lf> Court of Nauru in pursuance of leave of the trial judge or of the High Court of<lf> Australia given before the date of the termination.<lf>    IN WITNESS WHEREOF the undersigned being duly authorized by their respective<lf> governments have signed the present Agreement.<lf>    DONE at Nauru this Sixth day of September One thousand nine hundred and<lf> seventy-six in two originals in the English language.<lf> A. L. FOGG<lf> For the Government of                                       A. BERNICKE<lf> Australia<lf>                                               For the Government of the<lf>                                                       Republic of Nauru<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></sch>
