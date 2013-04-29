@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00128/Html/793123ef-b603-4b1f-b860-3352d33d062f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00771/Html/AustFedPolice1979_WD02_image001.gif)
 
 # Australian Federal Police Act 1979
 
 **Act No. 58 of 1979 as amended**
 
-This compilation was prepared on 4 March 2011
- taking into account amendments up to Act No. 3 of 2011
+This compilation was prepared on 26 November 2010
+ taking into account amendments up to Act No. 127 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -144,10 +144,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35](#35).          Commissioner may engage consultants or independent contractors
 
-    **Division 3A—Payments in special circumstances**
-
-[35A](#35A).       Payments in special circumstances
-
     **Division 4—Undertakings and oaths or affirmations**
 
 [36](#36).          Undertakings and oaths or affirmations
@@ -164,7 +160,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Compliance with specific directions, instructions or orders
 
-[40A](#40A).       Self‑incrimination
+[40A](#40A).       Self-incrimination
 
     **Division 2—Conferral of status of member and conferral of commissions**
 
@@ -212,11 +208,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 8—Drug testing**
 
-[40LA](#40LA).     Authorised managers may require AFP appointees to undergo alcohol screening tests etc 
+[40LA](#40LA).     Alcohol screening tests
 
-[40M](#40M).      Prescribed persons may require AFP employees or special members to undergo alcohol screening tests, alcohol breath tests or prohibited drug tests etc 
+[40M](#40M).      Alcohol breath tests and prohibited drug tests
 
-[40N](#40N).       Alcohol screening tests, alcohol breath tests and prohibited drug tests after certain incidents
+[40N](#40N).       Alcohol breath tests and prohibited drug tests after certain incidents
 
 [40P](#40P).        Regulations
 
@@ -260,11 +256,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision E—Categories of AFP conduct issues and managers**
 
-[40RK](#40RK).     Categories of conduct
+[40RK](#40RK).    Categories of conduct
 
 [40RL](#40RL).     Categories of AFP conduct issues
 
-[40RM](#40RM).    AFP Commissioner and Ombudsman to determine the kinds of conduct that are to be category 1, category 2 or category 3 conduct
+[40RM](#40RM).   AFP Commissioner and Ombudsman to determine the kinds of conduct that are to be category 1, category 2 or category 3 conduct
 
 [40RN](#40RN).    Category 1 conduct
 
@@ -284,19 +280,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40SD](#40SD).     Commissioner may decide that AFP conduct issue should be dealt with under this Part
 
-[40SE](#40SE).     Recording and dealing with information referred under section 40SD
+[40SE](#40SE).      Recording and dealing with information referred under section 40SD
 
     **Division 3—Dealing with AFP conduct or practices issues** 
 
         **Subdivision A—Preliminary**
 
-[40TA](#40TA).     Commissioner’s orders about how AFP conduct or practices issues are dealt with
+[40TA](#40TA).    Commissioner’s orders about how AFP conduct or practices issues are dealt with
 
 [40TB](#40TB).     Dealing with related AFP conduct issues that have different categories
 
 [40TC](#40TC).     Training and development action
 
-[40TD](#40TD).     Remedial action
+[40TD](#40TD).    Remedial action
 
 [40TE](#40TE).     Termination action
 
@@ -306,35 +302,35 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision C—Dealing with category 1 and category 2 conduct issues**
 
-[40TG](#40TG).     When Subdivision applies
+[40TG](#40TG).    When Subdivision applies
 
-[40TH](#40TH).     How issue is dealt with
+[40TH](#40TH).    How issue is dealt with
 
 [40TI](#40TI).      Action that may be taken in relation to category 1 conduct
 
 [40TJ](#40TJ).      Action that may be taken in relation to category 2 conduct
 
-[40TK](#40TK).     AFP practices issue identified in course of dealing with AFP conduct issue
+[40TK](#40TK).    AFP practices issue identified in course of dealing with AFP conduct issue
 
         **Subdivision D—Dealing with category 3 conduct issues and corruption issues**
 
 [40TL](#40TL).     When Subdivision applies
 
-[40TM](#40TM).    Head of unit constituted under section 40RD to notify Ombudsman of category 3 conduct issues
+[40TM](#40TM).   Head of unit constituted under section 40RD to notify Ombudsman of category 3 conduct issues
 
-[40TN](#40TN).     Head of unit constituted under section 40RD generally allocates issues for investigation
+[40TN](#40TN).    Head of unit constituted under section 40RD generally allocates issues for investigation
 
-[40TO](#40TO).     Commissioner must allocate issue to someone outside unit constituted under section 40RD in certain circumstances
+[40TO](#40TO).    Commissioner must allocate issue to someone outside unit constituted under section 40RD in certain circumstances
 
 [40TP](#40TP).     Persons eligible to have category 3 conduct issue or corruption issue allocated to them
 
-[40TQ](#40TQ).     How category 3 conduct issue or corruption issue is dealt with
+[40TQ](#40TQ).    How category 3 conduct issue or corruption issue is dealt with
 
 [40TR](#40TR).     Recommendations that may be made in relation to category 3 conduct or corrupt conduct
 
 [40TS](#40TS).     Investigative powers
 
-[40TU](#40TU).     Report of investigation
+[40TU](#40TU).    Report of investigation
 
 [40TV](#40TV).     Taking action on report
 
@@ -342,7 +338,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision E—Dealing with AFP practices issues**
 
-[40TX](#40TX).     Commissioner to ensure that appropriate action is taken in relation to AFP practices issue
+[40TX](#40TX).    Commissioner to ensure that appropriate action is taken in relation to AFP practices issue
 
     **Division 4—Ministerially directed inquiries**
 
@@ -358,9 +354,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40VA](#40VA).    Application of Division
 
-[40VB](#40VB).    Manner of conducting investigation or inquiry
+[40VB](#40VB).     Manner of conducting investigation or inquiry
 
-[40VC](#40VC).    Obtaining information and making inquiries
+[40VC](#40VC).     Obtaining information and making inquiries
 
 [40VD](#40VD).    Relationship with other laws
 
@@ -392,13 +388,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40YA](#40YA).    Victimisation
 
-[40YB](#40YB).    Providing false information about AFP conduct or practices issues
+[40YB](#40YB).     Providing false information about AFP conduct or practices issues
 
-[40YC](#40YC).    AFP appointees to provide name, etc 
+[40YC](#40YC).     AFP appointees to provide name, etc 
 
     **Division 9—Secrecy**
 
-[40ZA](#40ZA).     Secrecy
+[40ZA](#40ZA).    Secrecy
 
 **Part VA—Loss of certain superannuation rights and benefits** 
 
@@ -582,7 +578,7 @@ Constitution of the Australian Federal Police
 
 Commissioner and Deputy Commissioners
 
-             (2)  The Commissioner and Deputy Commissioners are appointed by the Governor‑General. Division 1 of Part III sets out matters dealing with such appointments.
+             (2)  The Commissioner and Deputy Commissioners are appointed by the Governor-General. Division 1 of Part III sets out matters dealing with such appointments.
 
 AFP employees
 
@@ -684,7 +680,7 @@ Other matters
 
                      (b)  any other body declared by the regulations to be an authority of the Commonwealth for the purposes of this Act, being:
 
-                              (i)  a body, whether incorporated or unincorporated, established by the Governor‑General or by a Minister; or
+                              (i)  a body, whether incorporated or unincorporated, established by the Governor-General or by a Minister; or
 
                              (ii)  an incorporated company in which the Commonwealth or a body corporate falling within paragraph (a) or subparagraph (i) of this paragraph has a controlling interest.
 
@@ -812,7 +808,7 @@ Note:          This subsection defines **_State_** to include 
 
                      (a)  an offence in relation to a person, place or thing in respect of which the Australian Federal Police is performing protective service functions, being an offence under:
 
-                              (i)  section 24AB, 29, 46, 47, 47A, 79, 89 or 89A of the _Crimes Act 1914_; or
+                              (i)  section 24AB, 29, 46 (other than paragraph (b)), 47, 47A, 79, 89 or 89A of the _Crimes Act 1914_; or
 
                              (ii)  the _Crimes (Internationally Protected Persons) Act 1976_ or Part 2 of the _Crimes (Aviation) Act 1991_; or
 
@@ -820,7 +816,7 @@ Note:          This subsection defines **_State_** to include 
 
                             (iv)  the _Public Order (Protection of Persons and Property) Act 1971_(other than section 11); or
 
-                             (v)  the _Nuclear Non‑Proliferation (Safeguards) Act 1987_(other than section 25A, 27 or 28A, subsection 29(2), 29A(1), 30(1), 40(1), 58(2) or 65(1) or section 66); or
+                             (v)  the _Nuclear Non-Proliferation (Safeguards) Act 1987_(other than section 25A, 27 or 28A, subsection 29(2), 29A(1), 30(1), 40(1), 58(2) or 65(1) or section 66); or
 
                            (va)  the _Aviation Transport Security Act 2004_ or regulations made under that Act; or
 
@@ -896,9 +892,9 @@ State offences that have a federal aspect
 
                      (d)  both:
 
-                              (i)  the Australian Federal Police is investigating an offence against a law of the Commonwealth or a Territory; and
+                              (i)  the Australian Federal Police is investigating a matter relating to a relevant criminal activity that relates to an offence against a law of the Commonwealth or a Territory; and
 
-                             (ii)  if the Australian Federal Police is investigating, or were to investigate, the State offence—that investigation is, or would be, incidental to the investigation mentioned in subparagraph (i).
+                             (ii)  if the Australian Federal Police is investigating, or were to investigate, a matter relating to a relevant criminal activity that relates to the State offence—that investigation is, or would be, incidental to the investigation mentioned in subparagraph (i).
 
 Specificity of acts or omissions
 
@@ -994,7 +990,7 @@ by means of guided and/or unguided electromagnetic energy.
 
 ##### <a id="5"></a>5  References in other laws
 
-             (1)  In a law of the Commonwealth or of the Australian Capital Territory:
+             (1)  In a law of the Commonwealth or of the Australian   Capital Territory:
 
                      (a)  a reference to a Commonwealth Police Officer shall be read as a reference to a member of the Australian Federal Police;
 
@@ -1066,15 +1062,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                   (baa)  the investigation of State offences that have a federal aspect; and
 
-                   (ba)  the provision of services in accordance with arrangements entered into under subsection (1C) and doing anything else included in the arrangements that is incidental or conducive to the provision of the services; and
+                    (ba)  the provision of services in accordance with arrangements entered into under subsection (1C) and doing anything else included in the arrangements that is incidental or conducive to the provision of the services; and
 
-                   (bb)  to perform the functions conferred by the _Witness Protection Act 1994_; and
+                    (bb)  to perform the functions conferred by the _Witness Protection Act 1994_; and
 
-                   (bc)  to perform the functions conferred by a law of a State or Territory that is a complementary witness protection law for the purposes of the _Witness Protection Act 1994_; and
+                    (bc)  to perform the functions conferred by a law of a State or Territory that is a complementary witness protection law for the purposes of the _Witness Protection Act 1994_; and
 
-                   (bd)  to perform functions under the _Proceeds of Crime Act 2002_; and
+                    (bd)  to perform functions under the _Proceeds of Crime Act 2002_; and
 
-                   (be)  to perform such protective and custodial functions as the Minister directs by notice in writing in the _Gazette_, being functions that relate to a person, matter or thing with respect to which the Parliament has legislative power; and
+                    (be)  to perform such protective and custodial functions as the Minister directs by notice in writing in the _Gazette_, being functions that relate to a person, matter or thing with respect to which the Parliament has legislative power; and
 
                     (bf)  the provision of police services and police support services for the purposes of assisting, or cooperating with, an Australian or foreign:
 
@@ -1084,17 +1080,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                             (iii)  government regulatory agency; and
 
-                   (bg)  the provision of police services and police support services in relation to establishing, developing and monitoring peace, stability and security in foreign countries; and
+                    (bg)  the provision of police services and police support services in relation to establishing, developing and monitoring peace, stability and security in foreign countries; and
 
                      (c)  to do anything incidental or conducive to the performance of the foregoing functions.
 
 Note:          For State offences that have a federal aspect, see section 4AA.
 
-          (1A)  The Minister and the Australian Capital Territory may enter into arrangements for the provision of the police services in relation to the Australian Capital Territory that are in respect of Territory functions as defined by section 3 of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, and, where the arrangements have been entered into, the provision of those services shall be in accordance with the arrangements.
+          (1A)  The Minister and the Australian Capital Territory may enter into arrangements for the provision of the police services in relation to the Australian Capital Territory that are in respect of Territory functions as defined by section 3 of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, and, where the arrangements have been entered into, the provision of those services shall be in accordance with the arrangements.
 
           (1B)  The Minister shall try to enter into the first such arrangement before 1 July 1990.
 
-          (1C)  The Minister and the Administrator of an External Territory may enter into arrangements for the provision of police services and regulatory services in relation to that Territory, and, where the arrangements have been entered into, the provision of those services shall be in accordance with the arrangements.
+          (1C)  The Minister and the Administrator of an External  Territory may enter into arrangements for the provision of police services and regulatory services in relation to that Territory, and, where the arrangements have been entered into, the provision of those services shall be in accordance with the arrangements.
 
              (2)  The provision of police services in relation to a Commonwealth place in a State, being services by way of the investigation of offences against the laws of that State having application in relation to that place by virtue of the _Commonwealth Places (Application of Laws) Act 1970_, shall be in accordance with arrangements made between the Commissioner and the Commissioner of Police (however designated) of that State.
 
@@ -1118,13 +1114,13 @@ Note:          For State offences that have a federal aspect, 
 
                              (ii)  a constable of a particular rank, if a declaration under subsection (2A) is in force that the member is of that rank for the purposes of this subparagraph; and
 
-                     (b)  when performing functions in the Australian Capital Territory—the powers and duties conferred or imposed on a constable or on an officer of police by or under any law (including the common law) of the Territory; and
+                     (b)  when performing functions in the Australian   Capital Territory—the powers and duties conferred or imposed on a constable or on an officer of police by or under any law (including the common law) of the Territory; and
 
-                   (ba)  when performing functions in the Jervis Bay Territory—the powers and duties conferred or imposed on a constable or an officer of police by or under any law (including the common law) of the Territory; and
+                    (ba)  when performing functions in the Jervis  Bay Territory—the powers and duties conferred or imposed on a constable or an officer of police by or under any law (including the common law) of the Territory; and
 
-                   (bb)  when performing functions in an External Territory—the powers and duties conferred or imposed on a constable or an officer of police by or under any law (including the common law) of the Territory; and
+                    (bb)  when performing functions in an External  Territory—the powers and duties conferred or imposed on a constable or an officer of police by or under any law (including the common law) of the Territory; and
 
-                   (bc)  when performing functions in the Northern Territory:
+                    (bc)  when performing functions in the Northern   Territory:
 
                               (i)  the powers and duties conferred or imposed on a constable or an officer of police by or under any law (including the common law) of the Territory; and
 
@@ -1624,15 +1620,15 @@ the magistrate may make any of the following orders:
 
 ##### <a id="17"></a>17  Commissioner and Deputy Commissioners
 
-             (1)  The Commissioner of Police and one or more Deputy Commissioners of Police shall be appointed by the Governor‑General by Commission.
+             (1)  The Commissioner of Police and one or more Deputy Commissioners of Police shall be appointed by the Governor-General by Commission.
 
-             (2)  Subject to this Part, the Commissioner holds office for such period, not exceeding 7 years, as is specified in his or her instrument of appointment, but is eligible for re‑appointment.
+             (2)  Subject to this Part, the Commissioner holds office for such period, not exceeding 7 years, as is specified in his or her instrument of appointment, but is eligible for re-appointment.
 
-             (3)  Subject to this Part, a Deputy Commissioner holds office for the period, not exceeding 5 years, specified in the instrument of appointment, but is eligible for re‑appointment.
+             (3)  Subject to this Part, a Deputy Commissioner holds office for the period, not exceeding 5 years, specified in the instrument of appointment, but is eligible for re-appointment.
 
-          (3A)  Where a person is re‑appointed under this section for a term beginning immediately after the end of the person’s last appointment, the person’s service is to be taken to be continuous.
+          (3A)  Where a person is re-appointed under this section for a term beginning immediately after the end of the person’s last appointment, the person’s service is to be taken to be continuous.
 
-             (4)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (4)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
           (4A)  A Deputy Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Commissioner.
 
@@ -1678,8 +1674,6 @@ the magistrate may make any of the following orders:
 
           (2A)  A Deputy Commissioner is to be paid such remuneration and allowances as the Commissioner determines in writing.
 
-Note:          The Commissioner may, under section 35A, authorise special payments to Deputy Commissioners.
-
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="21"></a>21  Leave of absence
@@ -1692,7 +1686,7 @@ Note:          The Commissioner may, under section 35A, auth
 
 ##### <a id="22"></a>22  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Commissioner or a Deputy Commissioner by reason of misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Commissioner or a Deputy Commissioner by reason of misbehaviour or physical or mental incapacity.
 
              (2)  If the Commissioner or a Deputy Commissioner:
 
@@ -1702,7 +1696,7 @@ Note:          The Commissioner may, under section 35A, auth
 
                      (c)  becomes bankrupt or applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 
-the Governor‑General shall terminate his or her appointment.
+the Governor-General shall terminate his or her appointment.
 
 ### Division 2—AFP employees
 
@@ -1736,7 +1730,7 @@ Engagement may be made subject to conditions
 
              (3)  Subsection (2) does not, by implication, limit the conditions that may be applied to the engagement of an AFP employee.
 
-Non‑Australian citizen
+Non-Australian citizen
 
              (4)  The Commissioner must not engage, as an AFP employee, a person who is not an Australian citizen, unless the Commissioner considers it appropriate to do so.
 
@@ -1758,9 +1752,9 @@ Note:          Section 69A deals with the engagement of such
 
                      (b)  the person completes that period of engagement (the **_initial period_**); and
 
-                     (c)  the person is re‑engaged under that section for a further period starting immediately after the end of the initial period;
+                     (c)  the person is re-engaged under that section for a further period starting immediately after the end of the initial period;
 
-the person’s employment is taken to be continuous from the beginning of the initial period until the end of the re‑engagement.
+the person’s employment is taken to be continuous from the beginning of the initial period until the end of the re-engagement.
 
 #### Subdivision B—Remuneration and other terms and conditions
 
@@ -1771,8 +1765,6 @@ the person’s employment is taken to be continuous from the beginning of the in
                      (a)  terms and conditions of employment that the Commissioner may determine under subsection 40H(2); or
 
                      (b)  accommodation arrangements that are to apply to an AFP employee, and allowances an AFP employee is to be paid, while the employee is performing duties of the kind covered by paragraph 40H(3)(b).
-
-Note:          The Commissioner may, under section 35A, authorise special payments to AFP employees.
 
 Application etc. of industrial instrument
 
@@ -1878,7 +1870,7 @@ AFP employee consents to retirement
 
 Note:          To find out when an AFP employee’s retirement takes effect in such a case, see section 33.
 
-AFP employee not re‑engaged because of invalidity
+AFP employee not re-engaged because of invalidity
 
              (3)  If:
 
@@ -1886,9 +1878,9 @@ AFP employee not re‑engaged because of invalidity
 
                      (b)  the person completes that period of engagement (the **_initial period_**); and
 
-                     (c)  the person is not re‑engaged under that section for a further period starting immediately after the end of the initial period; and
+                     (c)  the person is not re-engaged under that section for a further period starting immediately after the end of the initial period; and
 
-                     (d)  the Commissioner certifies in writing that the person’s physical or mental incapacity was the only reason why the person was not so re‑engaged;
+                     (d)  the Commissioner certifies in writing that the person’s physical or mental incapacity was the only reason why the person was not so re-engaged;
 
 the person is taken, for the purposes of the _Safety, Rehabilitation and Compensation Act 1988_, the Superannuation Act and the _Superannuation Act 2005_, to have been retired under this section on the day on which the initial period ended.
 
@@ -1912,11 +1904,11 @@ AFP employee is a member of the superannuation scheme under the Superannuation A
 
 is not capable of being retired on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
-AFP employee is an ordinary employer‑sponsored member under the Superannuation Act 2005
+AFP employee is an ordinary employer-sponsored member under the Superannuation Act 2005
 
              (6)  In spite of this section, an AFP employee who:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60 years of age;
 
@@ -1956,7 +1948,7 @@ Regulations
 
 the regulations may also make provision in relation to:
 
-                     (c)  the exclusion from that copy of any information of a medical or psychiatric nature that the person or body thinks may be prejudicial to the employee’s physical or mental health or well‑being; and
+                     (c)  the exclusion from that copy of any information of a medical or psychiatric nature that the person or body thinks may be prejudicial to the employee’s physical or mental health or well-being; and
 
                      (d)  the employee nominating a medical practitioner to receive that information.
 
@@ -1990,7 +1982,7 @@ Period of employment ends
 
                      (b)  the person completes that period of engagement (the **_initial period_**); and
 
-                     (c)  the person is not re‑engaged under that section for a further period starting immediately after the end of the initial period; and
+                     (c)  the person is not re-engaged under that section for a further period starting immediately after the end of the initial period; and
 
                      (d)  the initial period ends on or after the day on which he or she reaches 55 but before he or she reaches 60;
 
@@ -2004,33 +1996,7 @@ he or she is taken, for the purposes of the Superannuation Act, to have retired 
 
              (2)  The Commissioner may determine, in writing, that a consultant, or independent contractor, specified in the determination is to be an AFP appointee for the purposes of paragraph (f) of the definition of **_AFP appointee_** in subsection 4(1).
 
-Note:          The Commissioner may, under section 35A, authorise special payments to consultants and independent contractors who are determined to be AFP appointees.
-
              (3)  A determination under subsection (2) is not a legislative instrument.
-
-### Division 3A—Payments in special circumstances
-
-##### <a id="35A"></a>35A  Payments in special circumstances
-
-             (1)  The Commissioner may authorise the making of payments to a person (the **_payee_**) under subsection (2) if the Commissioner considers it appropriate to do so because of special circumstances that relate to, or arise out of:
-
-                     (a)  the payee’s engagement as an AFP appointee; or
-
-                     (b)  another person’s engagement as an AFP appointee.
-
-             (2)  The Commissioner may authorise the making of any of the following payments:
-
-                     (a)  one or more payments of an amount or amounts specified in the authorisation (or worked out in accordance with the authorisation);
-
-                     (b)  periodical payments of an amount specified in the authorisation (or worked out in accordance with the authorisation), during a period specified in the authorisation (or worked out in accordance with the authorisation).
-
-             (3)  Payments may be authorised under this section even though the payments would not otherwise be authorised by law or required to meet a legal liability.
-
-             (4)  An authorisation cannot be made under this section if it would involve, or be likely to involve, a total amount of more than $100,000.
-
-             (5)  Conditions may be attached to payments under this section. If a condition is breached, the payment may be recovered by the Commonwealth as a debt in a court of competent jurisdiction.
-
-Note:          Payments under this section must be made from money appropriated by the Parliament. Generally, a payment can be debited against the Australian Federal Police’s annual appropriation, providing that it relates to some matter that has arisen in the course of its administration.
 
 ### Division 4—Undertakings and oaths or affirmations
 
@@ -2082,7 +2048,7 @@ Special protective service officers
 
 Interpretation
 
-             (5)  For the purposes of subsections (1) and (2), **_appoint_** does not include re‑appoint for a term that begins immediately after the end of the term of the last previous appointment.
+             (5)  For the purposes of subsections (1) and (2), **_appoint_** does not include re-appoint for a term that begins immediately after the end of the term of the last previous appointment.
 
 ## Part IV—Commissioner’s command powers etc.
 
@@ -2150,7 +2116,7 @@ a lawful direction, instruction or order, whether written or oral, given to him 
 
                      (d)  the AFP appointee under whose control, direction or supervision he or she performs his or her duties.
 
-##### <a id="40A"></a>40A  Self‑incrimination
+##### <a id="40A"></a>40A  Self-incrimination
 
              (1)  If an AFP appointee is required under section 39 or 40 to give information, answer a question or produce a document, he or she is not excused from giving the information, answering the question or producing the document on the ground that the information, the answer to the question or the production of the document might tend to incriminate him or her or make him or her liable to a penalty.
 
@@ -2180,29 +2146,27 @@ Note 2:       This section does not prevent a protective service off
 
 ##### <a id="40D"></a>40D  Commissioned police officers
 
-Commission by Governor‑General
+Commission by Governor-General
 
-             (1)  The Governor‑General may, by commission, declare a member to be a commissioned police officer.
+             (1)  The Governor-General may, by commission, declare a member to be a commissioned police officer.
 
-             (2)  Before the Governor‑General makes a declaration under subsection (1), the Minister must have received a recommendation from the Commissioner that the member be declared to be a commissioned police officer.
+             (2)  Before the Governor-General makes a declaration under subsection (1), the Minister must have received a recommendation from the Commissioner that the member be declared to be a commissioned police officer.
 
              (3)  The Commissioner may make such a recommendation only if he or she is satisfied that the member is, in accordance with the regulations, competent and qualified to be a commissioned police officer.
 
 Commission by Commissioner or Deputy Commissioner
 
-             (4)  If the Governor‑General, in writing, authorises the Commissioner or a Deputy Commissioner to make declarations of the kind mentioned in subsection (1), the Commissioner or Deputy Commissioner may, by commission, declare a member to be a commissioned police officer.
+             (4)  If the Governor-General, in writing, authorises the Commissioner or a Deputy Commissioner to make declarations of the kind mentioned in subsection (1), the Commissioner or Deputy Commissioner may, by commission, declare a member to be a commissioned police officer.
 
              (5)  The Commissioner or Deputy Commissioner may make a declaration under subsection (4) only if he or she is satisfied that the member is, in accordance with the regulations, competent and qualified to be a commissioned police officer.
 
-             (6)  The giving of an authorisation under subsection (4) does not limit the Governor‑General’s power under subsection (1).
+             (6)  The giving of an authorisation under subsection (4) does not limit the Governor-General’s power under subsection (1).
 
 ### Division 3—Special members
 
 ##### <a id="40E"></a>40E  Special members
 
              (1)  The Commissioner may, on such terms and conditions as he or she determines in writing, appoint a person as a special member of the Australian Federal Police to assist in the performance of its functions.
-
-Note:          The Commissioner may, under section 35A, authorise special payments to special members.
 
              (2)  A person appointed under subsection (1) has, during the continuance of his or her appointment:
 
@@ -2233,8 +2197,6 @@ Note 2:       This section does not prevent a member from being appo
 ##### <a id="40EC"></a>40EC  Special protective service officers
 
                    The Commissioner may, on such terms and conditions as the Commissioner determines in writing, appoint a person as a special protective service officer of the Australian Federal Police to assist in performing the protective service functions of the Australian Federal Police.
-
-Note:          The Commissioner may, under section 35A, authorise special payments to special protective service officers.
 
 ##### <a id="40ED"></a>40ED  Powers and duties of special protective service officers
 
@@ -2324,7 +2286,7 @@ the Commissioner may determine in writing the accommodation arrangements that ar
 
                     (aa)  provide that, while suspended from duty, an AFP employee may be required to comply with directions of a kind mentioned in subsection (2);
 
-                   (ab)  provide that, while suspended from duty, an AFP employee may take or be on annual leave if:
+                    (ab)  provide that, while suspended from duty, an AFP employee may take or be on annual leave if:
 
                               (i)  the industrial agreement (however described) for the time being in force would otherwise deem or require the AFP member to be on annual leave for the period necessary to reduce the balance of annual leave credits to the level specified in the relevant agreement; or
 
@@ -2358,7 +2320,7 @@ Note:          A declaration under section 40B could also be
 
                      (b)  is having, or is likely to have, a damaging effect on:
 
-                              (i)  the professional self‑respect or morale of some or all of the AFP employees; or
+                              (i)  the professional self-respect or morale of some or all of the AFP employees; or
 
                              (ii)  the reputation of the Australian Federal Police with the public, or with any section of the public, or with an Australian or overseas government or law enforcement agency;
 
@@ -2402,7 +2364,7 @@ Extension of time
 
              (4)  The Commissioner may grant an extension of time for giving the statement in special circumstances.
 
-Self‑incrimination
+Self-incrimination
 
              (5)  The person is not excused from giving the statement on the ground that the statement might tend to incriminate him or her or make him or her liable to a penalty.
 
@@ -2410,7 +2372,7 @@ Self‑incrimination
 
 ### Division 8—Drug testing
 
-##### <a id="40LA"></a>40LA  Authorised managers may require AFP appointees to undergo alcohol screening tests etc.
+##### <a id="40LA"></a>40LA  Alcohol screening tests
 
              (1)  An AFP appointee authorised under section 40PA to act as a manager (the **_authorised manager_**) may require another AFP appointee (the **_screening test subject_**) to undergo an alcohol screening test if:
 
@@ -2424,11 +2386,11 @@ Compliance with direction
 
 Test results
 
-             (3)  If the result of the alcohol screening test shows that alcohol is not present in the screening test subject’s breath, the screening test subject may return to his or her duties immediately.
+             (3)  If the result of the alcohol screening test shows that alcohol is not present in the screening test subject’s blood, the screening test subject may return to his or her duties immediately.
 
              (4)  If:
 
-                     (a)  the result of the alcohol screening test shows that alcohol is present in the screening test subject’s breath; or
+                     (a)  the result of the alcohol screening test shows that alcohol is present in the screening test subject’s blood; or
 
                      (b)  the screening test subject refuses to undergo the alcohol screening test;
 
@@ -2436,15 +2398,13 @@ the screening test subject may be given a written direction under section 40M 
 
              (5)  This section does not limit the operation of section 40M.
 
-##### <a id="40M"></a>40M  Prescribed persons may require AFP employees or special members to undergo alcohol screening tests, alcohol breath tests or prohibited drug tests etc.
+##### <a id="40M"></a>40M  Alcohol breath tests and prohibited drug tests
 
-             (1)  A person authorised to do so under the regulations may give an AFP employee, or a special member, who is on duty a written direction requiring him or her to do one or more of the following:
+             (1)  A person authorised to do so under the regulations may give an AFP employee, or a special member, who is on duty a written direction requiring him or her:
 
-                    (aa)  undergo an alcohol screening test;
+                     (a)  to undergo a breath test; or
 
-                     (a)  undergo a breath test;
-
-                     (b)  provide a body sample of a kind specified in the direction for a prohibited drug test;
+                     (b)  to provide a body sample of a kind specified in the direction for a prohibited drug test;
 
 in accordance with the regulations.
 
@@ -2462,7 +2422,7 @@ Compliance with direction
 
              (3)  An AFP employee or a special member must comply with a direction given to him or her under this section.
 
-##### <a id="40N"></a>40N  Alcohol screening tests, alcohol breath tests and prohibited drug tests after certain incidents
+##### <a id="40N"></a>40N  Alcohol breath tests and prohibited drug tests after certain incidents
 
 Person killed or seriously injured in an incident involving a motor vehicle or vessel or while in police custody
 
@@ -2473,8 +2433,6 @@ Person killed or seriously injured in an incident involving a motor vehicle or v
                      (b)  an incident occurs in which a person is killed or seriously injured while in police custody;
 
 a person authorised to do so in accordance with the regulations may give any AFP employee or special member directly involved in the incident while on duty a written direction requiring him or her:
-
-                   (ba)  to undergo an alcohol screening test; or
 
                      (c)  to undergo a breath test; or
 
@@ -2493,8 +2451,6 @@ Person killed or seriously injured by a firearm discharging or physical force
                      (b)  the application of physical force;
 
 by a member or a special member while he or she is on duty, a person authorised to do so in accordance with the regulations may give the member or special member a written direction requiring him or her:
-
-                   (ba)  to undergo an alcohol screening test; or
 
                      (c)  to undergo a breath test; or
 
@@ -2584,7 +2540,7 @@ is not admissible in evidence against the employee, special member or AFP appoin
 
                      (a)  devices of that type have been designed and made for the purpose of indicating, when a sample of the breath of a person is exhaled into the device, whether alcohol is present in the blood of the person; and
 
-                     (b)  devices of that type are suitable devices for use in tests under sections 40LA, 40M and 40N.
+                     (b)  devices of that type are suitable devices for use in tests under section 40LA.
 
              (2)  An approval under this section is a legislative instrument.
 
@@ -2870,21 +2826,21 @@ the member, or special member, may again be assigned to the unit.
 
 ##### <a id="40RO"></a>40RO  Category 2 conduct
 
-             (1)  The Commissioner and the Ombudsman may determine under subsection 40RM(1) that conduct of a particular kind is to be category 2 conduct for the purposes of this Act only if they are satisfied that:
+                   The Commissioner and the Ombudsman may determine under subsection 40RM(1) that conduct of a particular kind is to be category 2 conduct for the purposes of this Act only if they are satisfied that:
 
                      (a)  conduct of that kind is:
 
                               (i)  minor misconduct by an AFP appointee; or
 
-                             (ii)  inappropriate conduct that reveals unsatisfactory behaviour by an AFP appointee; or
+                             (ii)  inappropriate conduct that reveals unsatisfactory behaviour by an AFP appointee; and
 
                      (b)  conduct of that kind:
 
                               (i)  would otherwise be category 1 conduct; and
 
-                             (ii)  warrants, because of its repeated nature, being treated as category 2 conduct for the purposes of this Act.
+                             (ii)  warrants, because of its repeated nature, being treated as category 2 conduct for the purposes of this Act; and
 
-             (2)  The Commissioner and the Ombudsman must also be satisfied that the conduct does not warrant being treated as category 3 conduct for the purposes of this Act.
+                     (c)  conduct of that kind does not warrant being treated as category 3 conduct for the purposes of this Act.
 
 ##### <a id="40RP"></a>40RP  Category 3 conduct
 
@@ -3190,7 +3146,7 @@ those AFP conduct issues may be dealt with together as if they all belonged to t
     <div>a Deputy Commissioner</div>
   </td>
   <td>
-    <div>the Governor‑General terminating the Deputy Commissioner’s appointment</div>
+    <div>the Governor-General terminating the Deputy Commissioner’s appointment</div>
   </td>
 </tr>
 <tr>
@@ -3455,7 +3411,7 @@ raises an AFP practices issue.
 
 ##### <a id="40TN"></a>40TN  Head of unit constituted under section 40RD generally allocates issues for investigation
 
-             (1)  Subject to subsection (3) and section 40TO, the head of the unit constituted under section 40RD must allocate the issue to one or more law enforcement officers (within the meaning of the _Crimes Act 1914_) for investigation.
+             (1)  Subject to section 40TO, the head of the unit constituted under section 40RD must allocate the issue to a person who is a member or special member for investigation.
 
              (2)  Without limiting subsection (1), the head of the unit may allocate the issue to himself or herself.
 
@@ -4247,7 +4203,7 @@ whether present or future and whether vested or contingent.
 
                              (ii)  for any other matters under that Act—the Commissioner for Superannuation; or
 
-                   (ab)  in relation to the superannuation scheme established by deed under the _Superannuation Act 1990_—the Board (within the meaning of that Act); or
+                    (ab)  in relation to the superannuation scheme established by deed under the _Superannuation Act 1990_—the Board (within the meaning of that Act); or
 
                      (b)  in any other case—the person (however described) responsible for the administration of the relevant superannuation scheme.
 
@@ -4329,7 +4285,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00128/Html/793123ef-b603-4b1f-b860-3352d33d062f_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00771/Html/AustFedPolice1979_WD02_image002.gif)
 
 where:
 
@@ -4517,7 +4473,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00128/Html/793123ef-b603-4b1f-b860-3352d33d062f_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00771/Html/AustFedPolice1979_WD02_image003.gif)
 
                             where:
 
@@ -4579,7 +4535,7 @@ the court must:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00128/Html/793123ef-b603-4b1f-b860-3352d33d062f_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00771/Html/AustFedPolice1979_WD02_image004.gif)
 
 where:
 
@@ -4973,7 +4929,7 @@ then, if the Commissioner believes on reasonable grounds that the offence is a c
 
              (4)  Where anything mentioned in paragraph (3)(b) happens, the Commissioner shall, as soon as practicable, notify the relevant superannuation authority accordingly.
 
-             (5)  To avoid doubt, for the purposes of paragraph (1)(b), a person does not cease to be an AFP employee in circumstances where the person completes a period of engagement under section 24 (the **_initial period_**) and is re‑engaged under that section for a further period starting immediately after the end of the initial period.
+             (5)  To avoid doubt, for the purposes of paragraph (1)(b), a person does not cease to be an AFP employee in circumstances where the person completes a period of engagement under section 24 (the **_initial period_**) and is re-engaged under that section for a further period starting immediately after the end of the initial period.
 
 ##### <a id="53A"></a>53A  Court may lift corporate veil etc.
 
@@ -5053,7 +5009,7 @@ whether or not it is constituted in the same way in which it was constituted whe
 
                      (d)  a special member; or
 
-                   (da)  a special protective service officer; or
+                    (da)  a special protective service officer; or
 
                      (e)  a person engaged under section 35; or
 
@@ -5111,9 +5067,7 @@ Note:          The _Privacy Act 1988_ contains provisions rele
 
 ##### <a id="61"></a>61  Awards for bravery etc.
 
-             (1)  Where an AFP appointee has, by his or her bravery or other conspicuous conduct or by his or her diligent service, merited a prescribed award, the Commissioner may confer the award on that person.
-
-          (1A)  If the Commissioner is satisfied that a person (other than an AFP appointee) has, by his or her bravery, or other conspicuous conduct, in assisting the Australian Federal Police, merited a prescribed award, the Commissioner may confer the award on that person.
+             (1)  Where a Deputy Commissioner, an AFP employee, a special member or a special protective service officer has, by his or her bravery or other conspicuous conduct, merited a prescribed award, the Commissioner may confer the award on that person.
 
              (2)  An award shall be conferred on the basis of such criteria as are prescribed.
 
@@ -5169,7 +5123,7 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (2)  It is a defence to a prosecution for an offence against subsection (1) if the defendant proves that his or her identification number was not clearly visible on his or her uniform in consequence of:
+             (2)  It is a defence to a prosecution for an offence against subsection (1) if the defendant proves that his or her identification number was not worn on, or attached to, the front of his or her uniform in consequence of:
 
                      (a)  the act of another person (not being a member) done without the consent of the defendant; or
 
@@ -5231,7 +5185,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (a)  an act or omission of a member in the capacity of a constable shall be deemed to have been done in the performance of his or her duties as a member; and
 
-                     (b)  a reference to a plaintiff includes a reference to a defendant counter‑claiming; and
+                     (b)  a reference to a plaintiff includes a reference to a defendant counter-claiming; and
 
                      (c)  a reference to a member includes a reference to a special member; and
 
@@ -5375,13 +5329,11 @@ must do so without patronage or favouritism.
 
              (2)  The Commissioner, on behalf of the Commonwealth, has all the rights, duties and powers of an employer in respect of persons engaged under this section.
 
-Note:          The Commissioner may, under section 35A, authorise special payments to persons engaged under this section.
-
              (3)  This section does not, by implication, limit any other power of the Commissioner to engage persons to work overseas.
 
 ##### <a id="69B"></a>69B  Limited operation of <a id="Fair Work Act"></a>Fair Work Act
 
-             (1)  The _Fair Work Act 2009_ (other than Part 3‑1 or Division 9 of Part 3‑3) does not apply in relation to any of the following matters:
+             (1)  The _Fair Work Act 2009_ (other than Part 3-1 or Division 9 of Part 3-3) does not apply in relation to any of the following matters:
 
                      (a)  a matter covered by any of Divisions 2 to 8 of Part IV or any action taken under any of those Divisions;
 
@@ -5391,7 +5343,7 @@ Note:          The Commissioner may, under section 35A, auth
 
                      (d)  any other matter prescribed by the regulations.
 
-             (2)  The _Fair Work Act 2009_ (other than Parts 3‑1, 3‑2, 6‑1 and 6‑4, and Division 2 of Part 3‑6) does not apply in relation to the termination of employment of AFP employees.
+             (2)  The _Fair Work Act 2009_ (other than Parts 3-1, 3-2, 6-1 and 6-4, and Division 2 of Part 3-6) does not apply in relation to the termination of employment of AFP employees.
 
              (3)  To avoid doubt, this section does not imply that the _Fair Work Act 2009_ applies to any matter covered by this Act:
 
@@ -5401,9 +5353,7 @@ Note:          The Commissioner may, under section 35A, auth
 
 ##### <a id="69C"></a>69C  Delegation
 
-             (1)  The Commissioner may, in writing, delegate to a Deputy Commissioner, an AFP employee or a special member, all or any of the Commissioner’s powers, functions or duties under this Act (other than the Commissioner’s power under section 35A (payments in special circumstances)).
-
-             (2)  The Commissioner may, in writing, delegate to a senior executive AFP employee the Commissioner’s power under section 35A (payments in special circumstances).
+                   The Commissioner may, in writing, delegate to a Deputy Commissioner, an AFP employee or a special member, all or any of the Commissioner’s powers, functions or duties under this Act.
 
 ##### <a id="69D"></a>69D  Secondment of persons to assist the Australian Federal Police
 
@@ -5416,8 +5366,6 @@ Note:          The Commissioner may, under section 35A, auth
 to assist the Australian Federal Police in the performance of its functions by performing the functions specified in the agreement.
 
              (2)  The terms and conditions (including remuneration and allowances) applicable to a person performing functions under an agreement are those specified in the agreement.
-
-Note:          The Commissioner may, under section 35A, authorise special payments to a person performing functions under an agreement.
 
 ##### <a id="69E"></a>69E  Commissioner may charge for certain protective services
 
@@ -5439,7 +5387,7 @@ the Commissioner may charge for the services.
 
                               (i)  by or under a law of the Commonwealth or a law of a Territory other than the Australian Capital   Territory or the Northern Territory; or
 
-                             (ii)  by the Governor‑General or a Minister; or
+                             (ii)  by the Governor-General or a Minister; or
 
                      (b)  an incorporated company in which the Commonwealth or a body described in paragraph (a) has a controlling interest; or
 
@@ -5447,7 +5395,7 @@ the Commissioner may charge for the services.
 
 ##### <a id="70"></a>70  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed, for securing the discipline and good government of the Australian Federal Police, or for otherwise carrying out or giving effect to this Act, and, in particular, making provision for and in relation to:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed, for securing the discipline and good government of the Australian Federal Police, or for otherwise carrying out or giving effect to this Act, and, in particular, making provision for and in relation to:
 
                      (a)  the return to the Commissioner by a person who has ceased to be an AFP employee, a special member or a special protective service officer of property (including accoutrements and clothing) supplied to him or her for the purposes of his or her service as an AFP employee, a special member or a special protective service officer or in his or her custody by virtue of that service, and the recovery by the Commissioner of any such property not so returned, including the issue of search warrants by Magistrates for purposes of such recovery and the execution of such warrants; and
 
@@ -5465,7 +5413,7 @@ the Commissioner may charge for the services.
 
                      (g)  enabling an AFP employee to resign from the Australian Federal Police for the purpose of becoming a candidate at an election of a member or members of the Parliament of the Commonwealth, the Parliament of a State, the Legislative Assembly for the Australian Capital Territory or the Legislative Assembly of the Northern Territory; and
 
-                     (h)  the re‑instatement of persons as AFP employees; and
+                     (h)  the re-instatement of persons as AFP employees; and
 
                       (i)  compliance by AFP appointees with AFP professional standards; and
 
@@ -5866,7 +5814,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -6674,7 +6622,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Non‑Proliferation Legislation Amendment Act 2007</div>
+    <div>Non-Proliferation Legislation Amendment Act 2007</div>
   </td>
   <td>
     <div>50, 2007</div>
@@ -6760,7 +6708,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -6808,64 +6756,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Crimes and Policing Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>1, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>2, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 12) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>3, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 21), Schedule 5 and Schedule 7 (item 1): 3 Mar 2011</div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 21) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Federal Police Act 1979_ was amended by Part XI (sections 25–30) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
 
-               (16)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (16)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
-_(b)_     The proposed amendments of the _Australian Federal Police Act 1979_ made by the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_(as amended by the _Australian Federal Police Amendment Act 1984_) were repealed before a date was fixed for their commencement.
+_(b)_    The proposed amendments of the _Australian Federal Police Act 1979_ made by the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_(as amended by the _Australian Federal Police Amendment Act 1984_) were repealed before a date was fixed for their commencement.
 
 _(c)_     The proposed amendments of the _Australian Federal Police Act 1979_ made by the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_(as amended by the _Australian Federal Police Amendment Act 1984_ and the _Australian Federal Police Amendment Act 1985_) were repealed before a date was fixed for their commencement.
 
@@ -6873,7 +6770,7 @@ _(d)_     The _Australian Federal Police Act 1979_ was amended by sectio
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_     The _Australian Federal Police Act 1979_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+_(e)_     The _Australian Federal Police Act 1979_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
@@ -7129,7 +7026,7 @@ _(x)_ Subsection 2(1) (item 3) of the _Australian Federal Police and Other Leg
     </div>
     <div>
       (b) the time Schedule 1 to the
-        <i>Non‑Proliferation Legislation Amendment Act 2003</i>commences.
+        <i>Non-Proliferation Legislation Amendment Act 2003</i>commences.
     </div>
     <div>
       However, the provision(s) do not commence at all if the event mentioned
@@ -7246,7 +7143,7 @@ _(z)_     Subsection 2(1) (item 11) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -7310,7 +7207,7 @@ _(z)_     Subsection 2(1) (item 11) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 155, 1979; No. 117, 1984; Nos. 71 and 153, 1989; Nos. 94 and 196, 1992; No. 9, 2000; No. 64, 2004; No. 129, 2005; SLI 2006 No. 50; No. 84, 2006; Nos. 3 and 50, 2007; No. 54, 2009; No. 3, 2011</div>
+    <div>am. No. 155, 1979; No. 117, 1984; Nos. 71 and 153, 1989; Nos. 94 and 196, 1992; No. 9, 2000; No. 64, 2004; No. 129, 2005; SLI 2006 No. 50; No. 84, 2006; Nos. 3 and 50, 2007; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -7319,14 +7216,6 @@ _(z)_     Subsection 2(1) (item 11) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>ad. No. 64, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7901,14 +7790,6 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 20(2A)................</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21</div>
   </td>
   <td>
@@ -8245,15 +8126,7 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 27(1)..................</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 27(4)..................</div>
+    <div>Note to s. 27(4)...................</div>
   </td>
   <td>
     <div>am. No. 54, 2009</div>
@@ -8293,7 +8166,7 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 28.......................</div>
+    <div>Note to s. 28........................</div>
   </td>
   <td>
     <div>am. No. 54, 2009</div>
@@ -8541,30 +8414,6 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 35(2)..................</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3A of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 35A</div>
   </td>
   <td>
@@ -8577,14 +8426,6 @@ rep. No. 152, 2004</div>
   </td>
   <td>
     <div>rep. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 2, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9181,7 +9022,7 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part IV</div>
+    <div>Heading to Div. 2 of Part IV.</div>
   </td>
   <td>
     <div>rs. No. 117, 1984; No. 153, 1989; No. 9, 2000</div>
@@ -9253,14 +9094,6 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 40E(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3A</b></div>
   </td>
   <td>
@@ -9301,23 +9134,7 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>S. 40EC</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 40EC</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40ED</div>
+    <div>Ss. 40EC, 40ED</div>
   </td>
   <td>
     <div>ad. No. 64, 2004</div>
@@ -9461,14 +9278,6 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 40LA</div>
-  </td>
-  <td>
-    <div>rs. No. 3, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 40LA</div>
   </td>
   <td>
@@ -9477,18 +9286,10 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 40M</div>
   </td>
   <td>
-    <div>rs. No. 84, 2006; No. 3, 2011</div>
+    <div>rs. No. 84, 2006</div>
   </td>
 </tr>
 <tr>
@@ -9497,14 +9298,6 @@ rep. No. 152, 2004</div>
   </td>
   <td>
     <div>ad. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9525,26 +9318,10 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 40N</div>
   </td>
   <td>
     <div>ad. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9609,14 +9386,6 @@ rep. No. 152, 2004</div>
   </td>
   <td>
     <div>ad. No. 84, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
   </td>
 </tr>
 <tr>
@@ -9741,31 +9510,7 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 40RK–40RN</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40RO</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40RP, 40RQ</div>
+    <div>Ss. 40RK–40RQ</div>
   </td>
   <td>
     <div>ad. No. 84, 2006</div>
@@ -9885,31 +9630,7 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 40TL, 40TM</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40TN</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40TO–40TS</div>
+    <div>Ss. 40TL–40TS</div>
   </td>
   <td>
     <div>ad. No. 84, 2006</div>
@@ -10856,7 +10577,7 @@ rep. No. 152, 2004</div>
     <div>S. 61</div>
   </td>
   <td>
-    <div>am. No. 164, 1992; No. 43, 1996; No. 9, 2000; No. 64, 2004; No. 3, 2011</div>
+    <div>am. No. 164, 1992; No. 43, 1996; No. 9, 2000; No. 64, 2004</div>
   </td>
 </tr>
 <tr>
@@ -10928,7 +10649,7 @@ rep. No. 152, 2004</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 9, 2000; No. 24, 2001; No. 64, 2004; No. 3, 2011</div>
+    <div>am. No. 43, 1996; No. 9, 2000; No. 24, 2001; No. 64, 2004</div>
   </td>
 </tr>
 <tr>
@@ -11093,14 +10814,6 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 69A(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 69B</div>
   </td>
   <td>
@@ -11125,34 +10838,10 @@ rep. No. 152, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69C</div>
+    <div>Ss. 69C, 69D</div>
   </td>
   <td>
     <div>ad. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69D</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 69D(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11268,30 +10957,6 @@ rep. No. 152, 2004</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Aviation Crimes and Policing Legislation Amendment Act 2011 (No. 1, 2011)_
-
-The following amendment commences on 30 March 2011:
-
-## Schedule 2
-
-## 1  After section 9
-
-Insert:
-
-##### <a id="10"></a>10  Appointment of members to other Police Forces
-
-                   Nothing in this Act is intended to prevent a member or special member from being appointed (including at a particular rank) as:
-
-                     (a)  a member, however described, of the police force of a State or Territory; or
-
-                     (b)  a special constable, however described, of the police force of a State or Territory; or
-
-                     (c)  a member, however described, of a police force or other law enforcement agency of a foreign country.
-
-As at 4 March 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -11312,7 +10977,7 @@ In this Part, unless the contrary intention appears:
 
 **_former consultant_** means a person who was performing services as a consultant under an engagement in force under section 39B of the former Act immediately before the commencing time.
 
-**_former non‑commissioned police officer_** means a person who held an appointment under section 26 of the former Act immediately before the commencing time.
+**_former non-commissioned police officer_** means a person who held an appointment under section 26 of the former Act immediately before the commencing time.
 
 **_former senior executive commissioned police officer_** means a person who, immediately before the commencing time, was a senior executive commissioned police officer (within the meaning of the _Australian Federal Police Act 1979_ as in force at that time).
 
@@ -11326,7 +10991,7 @@ In this Part, unless the contrary intention appears:
 
 **_later Act_** means the _Australian Federal Police Act 1979_, as in force at and after the commencing time.
 
-**_pre‑commencement misconduct_** means conduct of a former commissioned police officer, a former non‑commissioned police officer or a former staff member before the commencing time that was serious misconduct for the purposes of section 26F of the former Act.
+**_pre-commencement misconduct_** means conduct of a former commissioned police officer, a former non-commissioned police officer or a former staff member before the commencing time that was serious misconduct for the purposes of section 26F of the former Act.
 
 **_statutory instrument_** means:
 
@@ -11342,7 +11007,7 @@ In this Part, unless the contrary intention appears:
 
 Former commissioned police officer
 
-(1)       At the commencing time, a former commissioned police officer is taken:
+(1)        At the commencing time, a former commissioned police officer is taken:
 
                      (a)  to be engaged as an AFP employee under section 24 of the later Act; and
 
@@ -11350,9 +11015,9 @@ Former commissioned police officer
 
                      (c)  to be declared to be a commissioned police officer under section 40D of the later Act.
 
-Former non‑commissioned police officer
+Former non-commissioned police officer
 
-(2)       At the commencing time, a former non‑commissioned police officer is taken:
+(2)        At the commencing time, a former non-commissioned police officer is taken:
 
                      (a)  to be engaged as an AFP employee under section 24 of the later Act; and
 
@@ -11360,7 +11025,7 @@ Former non‑commissioned police officer
 
 Former staff member
 
-(3)       At the commencing time, a person who is a former staff member is taken:
+(3)        At the commencing time, a person who is a former staff member is taken:
 
                      (a)  to be engaged as an AFP employee under section 24 of the later Act; and
 
@@ -11368,7 +11033,7 @@ Former staff member
 
 Former special member
 
-(4)       At the commencing time, a person who is a former special member is taken to be appointed as a special member under section 40E of the later Act. For this purpose, an instrument of appointment under section 40E of the later Act is taken to be made at the commencing time:
+(4)        At the commencing time, a person who is a former special member is taken to be appointed as a special member under section 40E of the later Act. For this purpose, an instrument of appointment under section 40E of the later Act is taken to be made at the commencing time:
 
                      (a)  if the instrument appointing the person under section 27 of the former Act specified the term of the person’s appointment—specifying that the person is appointed for a period equal to the unexpired part of the term of his or her appointment under the former Act; and
 
@@ -11378,11 +11043,11 @@ Former special member
 
 Former temporary employee
 
-(5)       At the commencing time, a person who is a former temporary employee is taken to be engaged as an AFP employee under section 24 of the later Act for a period equal to the unexpired part of his or her period of employment. For this purpose, a determination under subsection 27(1) of the later Act is taken to be made at the commencing time specifying the same terms and conditions as were determined in relation to the person under subsection 39A(2) of the former Act.
+(5)        At the commencing time, a person who is a former temporary employee is taken to be engaged as an AFP employee under section 24 of the later Act for a period equal to the unexpired part of his or her period of employment. For this purpose, a determination under subsection 27(1) of the later Act is taken to be made at the commencing time specifying the same terms and conditions as were determined in relation to the person under subsection 39A(2) of the former Act.
 
 Former consultant
 
-(6)       At the commencing time, a person who is a former consultant is taken to be engaged as a consultant under section 35 of the later Act:
+(6)        At the commencing time, a person who is a former consultant is taken to be engaged as a consultant under section 35 of the later Act:
 
                      (a)  if the terms and conditions of the person’s engagement under section 39B of the former Act specified the period of the person’s engagement—for a period equal to the unexpired part of the period of his or her engagement under the former Act; and
 
@@ -11390,7 +11055,7 @@ Former consultant
 
 Later Act applies in same way
 
-(7)       Except where this Part expressly provides otherwise:
+(7)        Except where this Part expressly provides otherwise:
 
                      (a)  the later Act applies to a person who is taken, under this item, to be appointed or engaged under the later Act in the same way as it applies to persons actually appointed or engaged under the later Act; and
 
@@ -11400,9 +11065,9 @@ Later Act applies in same way
 
 ## 3  Classification as senior executive AFP employee
 
-(1)       At the commencing time, a former senior executive commissioned police officer or a former senior executive officer is taken to be declared to be a senior executive AFP employee under section 25 of the later Act.
+(1)        At the commencing time, a former senior executive commissioned police officer or a former senior executive officer is taken to be declared to be a senior executive AFP employee under section 25 of the later Act.
 
-(2)       The later Act applies to a person who is taken, under this item, to be declared to be a senior executive AFP employee under the later Act in the same way as it applies to persons actually declared to be senior executive AFP employees under the later Act
+(2)        The later Act applies to a person who is taken, under this item, to be declared to be a senior executive AFP employee under the later Act in the same way as it applies to persons actually declared to be senior executive AFP employees under the later Act
 
 ## 4  Appointment of Commissioner or Deputy Commissioner not affected
 
@@ -11412,29 +11077,29 @@ To avoid doubt, the amendments of section 17 of the _Australian Federal Police
 
 Persons seconded from the AFP
 
-(1)       An arrangement in force under section 33 of the former Act immediately before the commencing time continues to be in force after the commencing time as if it had been entered into under section 40F of the later Act. In relation to a person covered by the arrangement, a determination under subsection 27(1) of the later Act is taken to be made at the commencing time specifying the same terms and conditions as were determined in relation to the person under subsection 33(5) of the former Act.
+(1)        An arrangement in force under section 33 of the former Act immediately before the commencing time continues to be in force after the commencing time as if it had been entered into under section 40F of the later Act. In relation to a person covered by the arrangement, a determination under subsection 27(1) of the later Act is taken to be made at the commencing time specifying the same terms and conditions as were determined in relation to the person under subsection 33(5) of the former Act.
 
-(2)       The later Act applies to a determination that is taken, under this item, to be made under the later Act in the same way as it applies to a determination actually made under subsection 27(1) of the later Act.
+(2)        The later Act applies to a determination that is taken, under this item, to be made under the later Act in the same way as it applies to a determination actually made under subsection 27(1) of the later Act.
 
 Persons seconded to the AFP
 
-(3)       An agreement in force under section 39C of the former Act immediately before the commencing time continues to be in force after the commencing time as if it had been entered into under section 69D of the later Act.
+(3)        An agreement in force under section 39C of the former Act immediately before the commencing time continues to be in force after the commencing time as if it had been entered into under section 69D of the later Act.
 
 ## 6  Determinations under subsection 30(1) of the former Act
 
-(1)       At the commencing time, the Commissioner is taken to make a determination (a **_continued determination_**) under subsection 27(1) of the later Act containing the terms of each determination under subsection 30(1) of the former Act that is in force immediately before the commencing time.
+(1)        At the commencing time, the Commissioner is taken to make a determination (a **_continued determination_**) under subsection 27(1) of the later Act containing the terms of each determination under subsection 30(1) of the former Act that is in force immediately before the commencing time.
 
-(2)       The later Act applies to a continued determination in the same way as it applies to a determination actually made under subsection 27(1) of the later Act.
+(2)        The later Act applies to a continued determination in the same way as it applies to a determination actually made under subsection 27(1) of the later Act.
 
-(3)       Unless it is sooner revoked, a continued determination (including any amendments made by the Commissioner under subsection 27(1) of the later Act) ceases to be in force 1 year after the commencing time.
+(3)        Unless it is sooner revoked, a continued determination (including any amendments made by the Commissioner under subsection 27(1) of the later Act) ceases to be in force 1 year after the commencing time.
 
 ## 7  Continuation of awards or certified agreements
 
-(1)       To avoid doubt, an award or a certified agreement that is in force immediately before the commencing time in relation to members or staff members of the Australian Federal Police (within the meaning of the _Australian Federal Police Act 1979_ as in force at that time) does not cease to be in force at and after the commencing time because of the amendments made by Schedule 1 to this Act.
+(1)        To avoid doubt, an award or a certified agreement that is in force immediately before the commencing time in relation to members or staff members of the Australian Federal Police (within the meaning of the _Australian Federal Police Act 1979_ as in force at that time) does not cease to be in force at and after the commencing time because of the amendments made by Schedule 1 to this Act.
 
 Note:          At and after the commencing time, any reference to a staff member of the Australian Federal Police in such an award or a certified agreement will be taken to be a reference to an AFP employee who is not a member: see item 18 of this Schedule.
 
-(2)       If, immediately before the commencing time, a provision of such an award or a certified agreement applied to a member of the Australian Federal Police at a particular rank, or to a staff member of the Australian Federal Police at a particular level, the provision continues to apply to the person at and after the commencing time until the earlier of the following days:
+(2)        If, immediately before the commencing time, a provision of such an award or a certified agreement applied to a member of the Australian Federal Police at a particular rank, or to a staff member of the Australian Federal Police at a particular level, the provision continues to apply to the person at and after the commencing time until the earlier of the following days:
 
                      (a)  the day the person ceases to be an AFP employee;
 
@@ -11444,11 +11109,11 @@ Note:          A person who is a member or a staff member of t
 
 ## 8  Determinations under subsection 30(2) of the former Act
 
-(1)       A determination under subsection 30(2) of the former Act that is in force immediately before the commencing time continues to be in force at and after that time.
+(1)        A determination under subsection 30(2) of the former Act that is in force immediately before the commencing time continues to be in force at and after that time.
 
-(2)       The Commissioner may at any time after the commencing time, by writing, amend, vary or revoke a determination continued in force under subitem (1).
+(2)        The Commissioner may at any time after the commencing time, by writing, amend, vary or revoke a determination continued in force under subitem (1).
 
-(3)       Any such amendment, variation or revocation (the **_alteration_**) does not affect any entitlement under the determination that arose before the alteration or that, disregarding the alteration, arises after the alteration in respect of:
+(3)        Any such amendment, variation or revocation (the **_alteration_**) does not affect any entitlement under the determination that arose before the alteration or that, disregarding the alteration, arises after the alteration in respect of:
 
                      (a)  any service of fixed term appointments (including parts of fixed term appointments) to the extent that the service took place before the commencing time; or
 
@@ -11456,7 +11121,7 @@ Note:          A person who is a member or a staff member of t
 
 ## 9  Misconduct
 
-The Commissioner may, under section 28 of the later Act, terminate the employment of an AFP employee for pre‑commencement misconduct as if the conduct had happened after the commencing time.
+The Commissioner may, under section 28 of the later Act, terminate the employment of an AFP employee for pre-commencement misconduct as if the conduct had happened after the commencing time.
 
 ## 10  Certificates under subsection 12A(4) of the _Australian Federal Police Act 1979_
 
@@ -11498,13 +11163,13 @@ If a statutory instrument was in force immediately before the commencing time, f
 
 ## 19  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Part.
+(1)        The Governor-General may make regulations prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Part.
 
-(2)       The following subitems do not, by implication, limit subitem (1).
+(2)        The following subitems do not, by implication, limit subitem (1).
 
-(3)       Regulations may be made:
+(3)        Regulations may be made:
 
-                     (a)  in relation to the continuation of the processes relating to appointment, re‑instatement, transfer, promotion, advancement, resignation, retirement or discipline under the former Act, and their effects under the later Act; and
+                     (a)  in relation to the continuation of the processes relating to appointment, re-instatement, transfer, promotion, advancement, resignation, retirement or discipline under the former Act, and their effects under the later Act; and
 
                      (b)  in relation to the continuation under the later Act of suspensions that were in force under the former Act immediately before the commencing time; and
 
@@ -11516,9 +11181,9 @@ If a statutory instrument was in force immediately before the commencing time, f
 
                             (iii)  the powers available to a person or body conducting such a review.
 
-(4)       Regulations made under subitem (3) prevail over the former Act and the later Act, to the extent of any inconsistency.
+(4)        Regulations made under subitem (3) prevail over the former Act and the later Act, to the extent of any inconsistency.
 
-(5)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(5)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 ## 34  Warrants or writs etc. may continue to be executed
 
@@ -11538,9 +11203,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -11548,9 +11213,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -11560,9 +11225,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -11570,9 +11235,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -11663,7 +11328,7 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 ## Schedule 1
 
-## 496  Saving provision—Finance Minister’s determinations
+## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
@@ -11689,13 +11354,13 @@ for the purposes of that Act.
 
 ## 8  Application
 
-(1)       The amendment made by item 3 of this Schedule applies to a notice of resignation given to the Commissioner on or after the day on which this Schedule commences.
+(1)        The amendment made by item 3 of this Schedule applies to a notice of resignation given to the Commissioner on or after the day on which this Schedule commences.
 
-(2)       The amendments made by items 6 and 7 of this Schedule apply to annual leave that may be taken on or after the day on which this Schedule commences.
+(2)        The amendments made by items 6 and 7 of this Schedule apply to annual leave that may be taken on or after the day on which this Schedule commences.
 
 * * *
 
-_Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007 (No. 128, 2007)_
+_Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern   Territory National Emergency Response and Other Measures) Act 2007 (No. 128, 2007)_
 
 ## Schedule 2
 
@@ -11705,32 +11370,12 @@ Paragraph 9(1)(bc) of the _Australian Federal Police Act 1979_, as in force imme
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 2
 
 ## 10  Application
 
 The amendment of the _Australian Federal Police Act 1979_ made by this Part applies in relation to an application for an order under Part VA of that Act made on or after the commencement of this item.
-
-* * *
-
-_Crimes Legislation Amendment Act 2011 (No. 2, 2011)_
-
-## Schedule 4
-
-## 12  Application of item 4
-
-The amendment made by item 4 of this Schedule applies in relation to any special circumstances, whether occurring before or after this Schedule commences.
-
-* * *
-
-_Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011 (No. 3, 2011)_
-
-## Schedule 5
-
-## 21  Application—item 18
-
-The amendment made by item 18 applies in relation to service occurring before, on or after the commencement of that item.
 
  
