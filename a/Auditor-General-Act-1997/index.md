@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00697/Html/496b99a4-1772-4e36-8756-846b79701615_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00445/Html/8c9f9c3f-6508-4ad5-91d4-fa020c449a52_files/image001.gif)
 
 # Auditor‑General Act 1997
 
 **Act No. 151 of 1997 as amended**
 
-This compilation was prepared on 4 October 2012
+This compilation was prepared on 16 May 2012
  taking into account amendments up to Act No. 25 of 2012
 
 The text of any of those amendments not in force
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 ## An Act to provide for the appointment of an Auditor‑General, to set out the functions of the Auditor‑General, and for related purposes
 
@@ -701,7 +702,7 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (b)  a Commonwealth company or a subsidiary of a Commonwealth company; or
 
-                     (c)  any other company that the Commonwealth controls (as defined in section 34 of the _Commonwealth Authorities and Companies Act 1997_).
+                     (c)  any other company in which the Commonwealth has a controlling interest.
 
              (2)  This section does not, by implication, limit the Auditor‑General’s power to enter into arrangements under section 20.
 
@@ -1019,7 +1020,7 @@ Note:          Under section 27, the Auditor‑General may a
 
 ##### <a id="42"></a>42  Appointment, conditions etc. for Independent Auditor
 
-                   Schedule 2 sets out the conditions of appointment and other matters that have effect in relation to the office of Independent Auditor.
+                   Schedule 2 sets out the conditions of appointment and other matters that have effect in relation to the office of Independent Auditor.
 
 ##### <a id="43"></a>43  Independent Auditor to have regard to audit priorities of Parliament etc.
 
@@ -1181,7 +1182,7 @@ Note:          The effect of section 19A of the _Acts Interp
 
              (4)  A person cannot be appointed as Auditor‑General if the person has previously been appointed as Auditor‑General under this Act or under the _Audit Act 1901_.
 
-##### <a id="2"></a>2  Minister must refer recommendation for appointment of Auditor‑General to the Joint Committee of Public Accounts and Audit
+##### <a id="2"></a>2  Minister must refer recommendation for appointment of Auditor‑General to the Joint Committee of Public Accounts and Audit
 
              (1)  The Minister must not make a recommendation to the Governor‑General under clause 1 unless:
 
@@ -1577,7 +1578,7 @@ Remainder: 24 May 2001</div>
     <div>4 Apr 2012</div>
   </td>
   <td>
-    <div>Schedule 1: 4 Oct 2012</div>
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 2)</div>
@@ -1778,7 +1779,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 15</div>
+    <div>Ss. 15–18</div>
   </td>
   <td>
     <div>am. No. 8, 2009; No. 190, 2011</div>
@@ -1786,39 +1787,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009; No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009; No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009; No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18B</div>
+    <div>Ss. 18A, 18B</div>
   </td>
   <td>
     <div>ad. No. 190, 2011</div>
@@ -1893,7 +1862,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 190, 2011; No. 25, 2012</div>
+    <div>am. No. 55, 2001; No. 190, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1962,15 +1931,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
+    <div>Ss. 30, 31</div>
   </td>
   <td>
     <div>am. No. 190, 2011</div>
@@ -2026,15 +1987,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
+    <div>Ss. 36, 37</div>
   </td>
   <td>
     <div>am. No. 8, 2009</div>
@@ -2161,6 +2114,23 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
 </tr></table>
 
+### Note 2
+
+_Financial Framework Legislation Amendment Act (No. 1) 2012
+ (No. 25, 2012)_
+
+The following amendment commences on 4 October 2012 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Paragraph 21(1)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  any other company that the Commonwealth controls (as defined in section 34 of the _Commonwealth Authorities and Companies Act 1997_).
+
+As at 16 May 2012 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2197,7 +2167,8 @@ the amendment of the first‑mentioned provision by this Schedule does not affec
 
 * * *
 
-_Financial Framework Legislation Amendment Act (No. 1) 2007 (No. 166, 2007)_
+_Financial Framework Legislation Amendment Act (No. 1) 2007 
+ (No. 166, 2007)_
 
 ## Schedule 1
 
@@ -2237,6 +2208,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 _Financial Framework Legislation Amendment Act (No. 1) 2012 
  (No. 25, 2012)_
+
+The following provision commences on 4 October 2012 unless proclaimed earlier:
 
 ## Schedule 1
 
