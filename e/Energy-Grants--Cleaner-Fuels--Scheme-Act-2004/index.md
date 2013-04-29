@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2010C00857/Html/EnergyGrantsCleanFuelSchem04_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00429/Html/D6B5BC2B34F268EACA2571A9000AB8DA/$FILE/image001.gif)
 
 # Energy Grants (Cleaner Fuels) Scheme Act 2004
 
 **Act No. 41 of 2004 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 10 July 2006
+taking into account amendments up to Act No. 74 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -48,6 +49,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to provide grants relating to certain fuels, and for related purposes
 
 ## Part 1—Preliminary
@@ -76,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The Commissioner of Taxation has the general administration of this Act.
 
-Note:          An effect of this provision is that the _Taxation Administration Act 1953_ applies to this Act as a taxation law. This means, for example, that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note:          An effect of this provision is that the _Taxation Administration Act 1953_ applies to this Act as a taxation law.
 
 ##### <a id="4"></a>4  Definitions
 
@@ -369,102 +371,104 @@ Note:          Entitlements can also be disqualified under Par
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Biodiesel</div>
-  </td>
-  <td>
-    <div>The period:</div>
-    <div>(a) starting at the start of biodiesel’s start day; and</div>
-    <div>(b) ending at the end of 30 June 2011.</div>
-  </td>
-  <td>
-    <div>100% of biodiesel’s excise duty rate.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>1A</div>
-  </td>
-  <td>
-    <div>Renewable diesel</div>
-  </td>
-  <td>
-    <div>The period:</div>
-    <div>(a) starting at the start of renewable diesel’s start day; and</div>
-    <div>(b) ending at the end of 30 June 2011.</div>
-  </td>
-  <td>
-    <div>100% of biodiesel’s excise duty rate.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
-  </td>
-  <td>
-    <div>The period:</div>
-    <div>(a) starting at the start of 1 July 2011; and</div>
-    <div>(b) ending at the end of 30 June 2012.</div>
-  </td>
-  <td>
-    <div>80% of the fuel’s excise duty rate.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
-  </td>
-  <td>
-    <div>The period:</div>
-    <div>(a) starting at the start of 1 July 2012; and</div>
-    <div>(b) ending at the end of 30 June 2013.</div>
-  </td>
-  <td>
-    <div>60% of the fuel’s excise duty rate.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
-  </td>
-  <td>
-    <div>The period:</div>
-    <div>(a) starting at the start of 1 July 2013; and</div>
-    <div>(b) ending at the end of 30 June 2014.</div>
-  </td>
-  <td>
-    <div>40% of the fuel’s excise duty rate.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
-  </td>
-  <td>
-    <div>The period:</div>
-    <div>(a) starting at the start of 1 July 2014; and</div>
-    <div>(b) ending at the end of 30 June 2015.</div>
-  </td>
-  <td>
-    <div>20% of the fuel’s excise duty rate.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Biodiesel</div>
+    </td>
+    <td>
+      <div>The period:</div>
+      <div>(a) starting at the start of biodiesel’s start day; and</div>
+      <div>(b) ending at the end of 30 June 2011.</div>
+    </td>
+    <td>
+      <div>100% of biodiesel’s excise duty rate.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>1A</div>
+    </td>
+    <td>
+      <div>Renewable diesel</div>
+    </td>
+    <td>
+      <div>The period:</div>
+      <div>(a) starting at the start of renewable diesel’s start day; and</div>
+      <div>(b) ending at the end of 30 June 2011.</div>
+    </td>
+    <td>
+      <div>100% of biodiesel’s excise duty rate.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
+    </td>
+    <td>
+      <div>The period:</div>
+      <div>(a) starting at the start of 1 July 2011; and</div>
+      <div>(b) ending at the end of 30 June 2012.</div>
+    </td>
+    <td>
+      <div>80% of the fuel’s excise duty rate.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
+    </td>
+    <td>
+      <div>The period:</div>
+      <div>(a) starting at the start of 1 July 2012; and</div>
+      <div>(b) ending at the end of 30 June 2013.</div>
+    </td>
+    <td>
+      <div>60% of the fuel’s excise duty rate.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
+    </td>
+    <td>
+      <div>The period:</div>
+      <div>(a) starting at the start of 1 July 2013; and</div>
+      <div>(b) ending at the end of 30 June 2014.</div>
+    </td>
+    <td>
+      <div>40% of the fuel’s excise duty rate.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
+    </td>
+    <td>
+      <div>The period:</div>
+      <div>(a) starting at the start of 1 July 2014; and</div>
+      <div>(b) ending at the end of 30 June 2015.</div>
+    </td>
+    <td>
+      <div>20% of the fuel’s excise duty rate.</div>
+    </td>
+  </tr>
+</tbody></table>
 
           (1A)  If you are entitled to a cleaner fuel grant for a quantity of fuel not covered by subsection (1), the amount of your grant is worked out in accordance with the regulations.
 
@@ -487,6 +491,7 @@ the amount of your cleaner fuel grant is reduced by the amount of the drawback, 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 
 # Notes to the _Energy Grants (Cleaner Fuels) Scheme Act 2004_
 
@@ -512,11 +517,13 @@ The _Energy Grants (Cleaner Fuels) Scheme Act 2004_ as shown in this compilation
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -526,57 +533,43 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Energy Grants (Cleaner Fuels) Scheme Act 2004</div>
-  </td>
-  <td>
-    <div>41, 2004</div>
-  </td>
-  <td>
-    <div>21 Apr 2004</div>
-  </td>
-  <td>
-    <div>18 Sept 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Excise Laws Amendment (Fuel Tax Reform and Other Measures) Act 2006</div>
-  </td>
-  <td>
-    <div>74, 2006</div>
-  </td>
-  <td>
-    <div>26 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 4–15): 1 July 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 14): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Energy Grants (Cleaner Fuels) Scheme Act 2004</div>
+    </td>
+    <td>
+      <div>41, 2004</div>
+    </td>
+    <td>
+      <div>21 Apr 2004</div>
+    </td>
+    <td>
+      <div>18 Sept 2003</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Excise Laws Amendment (Fuel Tax Reform and Other Measures) Act 2006</div>
+    </td>
+    <td>
+      <div>74, 2006</div>
+    </td>
+    <td>
+      <div>26 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 4–15): 1 July 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -601,61 +594,56 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2A</div>
-  </td>
-  <td>
-    <div>am. No. 74, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 3</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 74, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 74, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 74, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2A</div>
+    </td>
+    <td>
+      <div>am No. 74, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am No. 74, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 74, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am No. 74, 2006</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
  
