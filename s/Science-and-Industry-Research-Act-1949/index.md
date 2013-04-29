@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00352/Html/fed91873-ca1e-471e-b237-86c2f524abdc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00647/Html/0bbbca91-119e-4e6c-8a6a-50686dff9fdd_files/image001.gif)
 
 # Science and Industry Research Act 1949
 
 **Act No. 13 of 1949 as amended**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 12 August 2011
  taking into account amendments up to Act No. 89 of 2011
 
 The text of any of those amendments not in force
@@ -322,13 +322,37 @@ the Board may terminate the appointment of the Chief Executive.
 
 ##### <a id="10G"></a>10G  Acting Chief Executive
 
-                   The Board may appoint a person to act in the office of Chief Executive:
+             (1)  The Board may appoint a person to act in the office of Chief Executive:
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to that office; or
 
                      (b)  during any period, or during all periods, when the person holding that office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of that office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  A person appointed under subsection (1) to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (4)  Where a person is acting in the office of Chief Executive in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Board otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurs ends, whichever first happens.
+
+             (5)  While a person is acting in the office of Chief Executive, the person has and may exercise all the powers, and shall perform all the functions, of Chief Executive under this Act or the regulations or under the _Science and Industry Endowment Act 1926_.
+
+             (6)  The Board may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting in the office of Chief Executive; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (7)  A person appointed under subsection (1) may resign the appointment by writing signed by the person and delivered to the Board.
+
+             (8)  Nothing done by or in relation to a person purporting to act under subsection (1) is invalid on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the person’s appointment;
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="10H"></a>10H  Remuneration of Chief Executive
 
@@ -700,7 +724,7 @@ the following plans cease to have effect on the commencement of the second perio
 
 ### Note 1
 
-The _Science and Industry Research Act 1949_ as shown in this compilation comprises Act No. 13, 1949 amended as indicated in the Tables below.
+The _Science and Industry Research Act 1949_ as shown in this compilation comprises Act No. 13, 1949 amended as indicated in the Tables below. 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1091,7 +1115,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 116, 117): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(h)</i></div>
+    <div>Schedule 10 (items 116, 117): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1142,7 +1166,7 @@ Remainder: Royal Assent</div>
     <div>21 June 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 10 Sept 2007 ( <i>see</i>F2007L03555) 
+    <div>Schedules 1–3: 10 Sept 2007 ( <i>see</i>F2007L03555) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1177,10 +1201,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1020–1022) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1020–1022) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1564,7 +1588,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
 </tr>
 <tr>
   <td>
-    <div>S. 10F</div>
+    <div>Ss. 10F, 10G</div>
   </td>
   <td>
     <div>ad. No. 121, 1986</div>
@@ -1576,30 +1600,6 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
   </td>
   <td>
     <div>am. No. 84, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10G</div>
-  </td>
-  <td>
-    <div>ad. No. 121, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 84, 2007; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10G</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2646,6 +2646,30 @@ No. 143, 1978</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1020  Subsection 10G(1)
+
+Omit “(1)”.
+
+## 1021  At the end of subsection 10G(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1022  Subsections 10G(2) to (8)
+
+Repeal the subsections.
+
+As at 12 August 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2686,6 +2710,8 @@ _Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
