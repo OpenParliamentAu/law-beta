@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00362/Html/d2aebbbd-df0d-470e-9f14-31ea1fbdf969_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00666/Html/fd4acaef-a68a-461c-9fee-5350d5f875cb_files/image001.gif)
 
 # Textile, Clothing and Footwear Investment and Innovation Programs Act 1999
 
 **Act No. 182 of 1999 as amended**
 
-This compilation was prepared on 29 March 2012
+This compilation was prepared on 15 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -260,7 +260,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-                   This Act may be cited as the _Textile, Clothing and Footwear Investment and Innovation Programs Act 1999_.
+                   This Act may be cited as the _Textile, Clothing and Footwear Investment and Innovation Programs Act 1999_.
 
 ##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
@@ -309,6 +309,8 @@ funding for the purposes of the TCF Small Business Program (see Part 3B).</li>
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes all the external Territories.
 
                     <a name="authorised-commonwealth-contractor"></a>**_authorised Commonwealth contractor_** has the meaning given by section 52.
+
+                    <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, a Sunday or a public holiday in the place concerned.
 
                     <a name="cloth-household-textil-bic-scheme"></a>**_Clothing and Household Textile (BIC) scheme_** (short for Clothing and Household Textile (Building Innovative Capability) scheme) has the meaning given by section 37ZM.
 
@@ -460,7 +462,7 @@ the scheme and to submit strategic business plans and accounts.</li>
 
                             where the importation into Australia of some or all of the products is or will be covered by a designated industry program.
 
-##### <a id="37D"></a>37D  Caps
+##### <a id="37D"></a>37D  Caps
 
                    The TCF Post‑2005 (SIP) scheme must make provision for ensuring that the total of the grants (including advances on account of grants) paid under the scheme does not exceed $487,500,000.
 
@@ -960,11 +962,11 @@ grants in connection with the design and manufacture, in Australia, of eligible
 
 clothing and household textile products.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The total of the grants paid
+<li class="BoxList" style="margin-left:21.25pt">•      The total of the grants
 
-under the Clothing and Household Textile (BIC) scheme must not exceed $112.5
+paid under the Clothing and Household Textile (BIC) scheme must not exceed
 
-million.</li>
+$112.5 million.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The Clothing and Household
 
@@ -972,9 +974,9 @@ Textile (BIC) scheme will provide for innovation grants in respect of
 
 clothing/finished textile expenditure.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Clothing and Household Textile
+<li class="BoxList" style="margin-left:21.25pt">•      The Clothing and Household
 
-(BIC) scheme will provide for the making of those grants in respect of
+Textile (BIC) scheme will provide for the making of those grants in respect of
 
 expenditure incurred in the 2010‑2011 to 2014‑2015 income years.</li>
 
@@ -1370,7 +1372,7 @@ the entity is liable to pay to the Commonwealth the amount of the excess.
 
              (3)  An entity is liable to pay to the Commonwealth the whole amount of an advance mentioned in paragraph (2)(a) if the entity does not receive the innovation grant on account of which the advance was given.
 
-##### <a id="37ZZF"></a>37ZZF  Reconsideration and review of decisions
+##### <a id="37ZZF"></a>37ZZF  Reconsideration and review of decisions
 
              (1)  The Clothing and Household Textile (BIC) scheme must contain provisions for and in relation to the review of decisions of the Secretary under the scheme that affect an entity.
 
@@ -1860,7 +1862,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 935): 22 Dec 1999 <i>(a)</i></div>
+    <div>Schedule 1 (item 935): 22 Dec 1999 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1980,7 +1982,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1149) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 1149) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2219,7 +2221,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Textile, Clothing and Footw
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 146, 2004; No. 43, 2010; Nos. 5 and 46, 2011</div>
+    <div>am. No. 146, 2004; No. 43, 2010; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3055,6 +3057,20 @@ _(c)_     Subsection 2(1) (item 2) of the _Textile, Clothing and Footw
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1149  Section 4 (definition of _business day_)
+
+Repeal the definition.
+
+As at 15 August 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3096,6 +3112,8 @@ The repeal of Parts 2 and 3 of the _Textile, Clothing and Footwear Strategic I
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
