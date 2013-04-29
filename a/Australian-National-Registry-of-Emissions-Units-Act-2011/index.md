@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00048/Html/308288db-a2a5-424f-809c-edc874cac6ec_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00628/Html/1cba17fc-03aa-4f27-8384-87fda236a78d_files/image001.gif)
 
 # Australian National Registry of Emissions Units Act 2011
 
 **Act No. 99 of 2011 as amended**
 
-This compilation was prepared on 17 January 2013
- taking into account amendments up to Act No. 204 of 2012
+This compilation was prepared on 22 August 2012
+ taking into account amendments up to Act No. 84 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -145,25 +146,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [47](#47).          Transmission of registered Kyoto units by operation of law etc 
 
-**Part 4—Prescribed international units** 
-
-    **Division 1—Introduction**
+**Part 4—Prescribed international units**
 
 [48](#48).          Simplified outline
-
-    **Division 2—Australian‑issued international units**
-
-[48A](#48A).       Issue of Australian‑issued international units
-
-[48B](#48B).       Serial number
-
-[48C](#48C).       How Australian‑issued international units are to be issued
-
-[48D](#48D).       When Australian‑issued international units may be issued
-
-[48E](#48E).        Regulations about Australian‑issued international units
-
-    **Division 3—General provisions**
 
 [49](#49).          Entries for prescribed international units
 
@@ -193,8 +178,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [59](#59).          Information about holders of Registry accounts
 
-[59A](#59A).       Information about prescribed international units
-
 [60](#60).          Kyoto information
 
 [61](#61).          Publication of concise description of the characteristics of eligible international emissions units
@@ -209,18 +192,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [63A](#63A).       Number of voluntarily cancelled units to be entered in the Information Database
 
-[63B](#63B).       Relinquishment requirement to be entered in the Information Database
-
-[63C](#63C).       Unpaid administrative penalty to be entered in the Information Database
-
-[63D](#63D).       Number of relinquished units to be entered in the Information Database
-
-[63E](#63E).        Information about relinquishment requirement applicable to a person who is not in the Information Database
-
-[63F](#63F).        Information about unpaid administrative penalties applicable to a person who is not in the Information Database
-
-[63G](#63G).       Information about number of units relinquished by a person who is not in the Information Database
-
 **Part 6—Voluntary cancellation of emissions units**
 
 [64](#64).          Simplified outline
@@ -232,46 +203,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [65](#65).          Voluntary cancellation of Kyoto units
 
 [66](#66).          Voluntary cancellation of prescribed international units
-
-**Part 6A—Cancellation of Australian‑issued international units**
-
-[66A](#66A).       Cancellation of Australian‑issued international units
-
-**Part 6B—Relinquishment of Australian‑issued international units** 
-
-    **Division 1—Introduction**
-
-[66B](#66B).       Simplified outline
-
-    **Division 2—Court‑ordered relinquishment**
-
-[66C](#66C).       Units issued as a result of fraudulent conduct—court may order relinquishment
-
-    **Division 3—How Australian‑issued international units are relinquished**
-
-[66D](#66D).       How Australian‑issued international units are relinquished
-
-[66E](#66E).        Transfer of certain units instead of relinquishment of Australian‑issued international units
-
-    **Division 4—Compliance with relinquishment requirements**
-
-[66F](#66F).        Compliance with relinquishment requirements
-
-[66G](#66G).       Late payment penalty
-
-[66H](#66H).       Recovery of penalties
-
-[66J](#66J).        Set‑off
-
-[66K](#66K).       Refund of overpayments
-
-    **Division 5—Offences relating to administrative penalties**
-
-[66L](#66L).        Scheme to avoid existing liability to pay administrative penalty
-
-[66M](#66M).      Scheme to avoid future liability to pay administrative penalty
-
-[66N](#66N).       Meaning of _scheme_ and _trust_
 
 **Part 7—Civil penalty orders**
 
@@ -318,8 +249,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [86](#86).          Review by the Administrative Appeals Tribunal
 
 **Part 9—Miscellaneous**
-
-[86A](#86A).       Commonwealth foreign registry accounts
 
 [87](#87).          Computerised decision‑making
 
@@ -492,10 +421,6 @@ about dealings with:</li>
 
                     <a name="australian-carbon-crite-unit"></a>**_Australian carbon credit unit_** has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
-                    <a name="australian-issued-intern-unit"></a>**_Australian‑issued international unit_** means a unit issued under section 48A.
-
-                    <a name="benchmark-averag-auction-charg"></a>**_benchmark average auction charge_** has the same meaning as in the _Clean Energy Act 2011_.
-
                     <a name="busi-dai"></a>**_business day_** means a day that is not:
 
                      (a)  a Saturday; or
@@ -523,8 +448,6 @@ Note:          The text of the Convention is set out in Austra
 Note:          The first commitment period begins on 1 January 2008 and ends on 31 December 2012.
 
                     <a name="commit-period-reserv"></a>**_commitment period reserve_** has the meaning given by the regulations.
-
-                    <a name="commonwealth-foreign-registri-account"></a>**_Commonwealth foreign registry account_** has the meaning given by section 86A.
 
                     <a name="commonwealth-hold-account"></a>**_Commonwealth holding account_** means a Commonwealth Registry account designated as a Commonwealth holding account.
 
@@ -560,20 +483,6 @@ It is immaterial whether a unit covered by paragraph (d) was issued in or outs
 
                      (b)  omit to perform an act.
 
-                    <a name="european-allow-unit"></a>**_European allowance unit_** means an allowance (within the meaning of the European Union Greenhouse Gas Emission Allowance Trading Directive) issued by, or under the authority of:
-
-                     (a)  a foreign country that is a Member State of the European Union; or
-
-                     (b)  a foreign country that:
-
-                              (i)  is not a Member State of the European Union; and
-
-                             (ii)  participates in the scheme for greenhouse gas emission allowance trading established by the Directive;
-
-but does not include an allowance issued in respect of aviation activities listed in Annex 1 of the Directive.
-
-                    <a name="european-union-greenhous-ga-emiss-allow-trade-direct"></a>**_European Union Greenhouse Gas Emission Allowance Trading Directive_** means Directive 2003/87/EC of the European Parliament and of the Council, as amended.
-
                     <a name="evidenti-burden"></a>**_evidential burden_**, in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist.
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
@@ -598,16 +507,6 @@ but does not include an allowance issued in respect of aviation activities liste
 
                      (e)  a foreign country is responsible for the region’s international relations.
 
-                    <a name="bodi"></a><a name="foreign-govern"></a>**_foreign government_** **_body_** means:
-
-                     (a)  the government of a foreign country or of part of a foreign country; or
-
-                     (b)  an authority of the government of a foreign country; or
-
-                     (c)  an authority of the government of part of a foreign country; or
-
-                     (d)  a foreign local government body or foreign regional government body.
-
                     <a name="foreign-kyoto-registri"></a>**_foreign Kyoto registry_** means:
 
                      (a)  a registry of a Kyoto Party (other than Australia) that is the Kyoto Party’s national registry for Kyoto units; or
@@ -630,41 +529,11 @@ but does not include an allowance issued in respect of aviation activities liste
 
                      (b)  Australia and 2 or more foreign countries.
 
-                    <a name="intern-arrang"></a>**_international arrangement_** means an arrangement between Australia and:
-
-                     (a)  a foreign government body; or
-
-                     (b)  an international organisation.
-
-                    <a name="intern-organis"></a>**_international organisation_** means:
-
-                     (a)  an organisation:
-
-                              (i)  of which 2 or more countries, or the governments of 2 or more countries, are members; or
-
-                             (ii)  that is constituted by persons representing 2 or more countries, or representing the governments of 2 or more countries; or
-
-                     (b)  an organisation established by, or a group of organisations constituted by:
-
-                              (i)  organisations of which 2 or more countries, or the governments of 2 or more countries, are members; or
-
-                             (ii)  organisations that are constituted by the representatives of 2 or more countries, or the governments of 2 or more countries; or
-
-                     (c)  an organisation that is:
-
-                              (i)  an organ of, or office within, an organisation described in paragraph (a) or (b); or
-
-                             (ii)  a commission, council or other body established by an organisation so described or by such an organ; or
-
-                            (iii)  a committee, or subcommittee of a committee, of an organisation described in paragraph (a) or (b), or of such an organ, council or body.
-
                     <a name="issu"></a>**_issue_**:
 
                      (a)  in relation to a carbon unit—has the same meaning as in the _Clean Energy Act 2011_; or
 
-                     (b)  in relation to an Australian carbon credit unit—has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_; or
-
-                     (c)  in relation to an Australian‑issued international unit—means issue under section 48A.
+                     (b)  in relation to an Australian carbon credit unit—has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
                     <a name="kyoto-australian-carbon-crite-unit"></a>**_Kyoto Australian carbon credit unit_** has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
@@ -754,15 +623,9 @@ It is immaterial whether a unit covered by paragraph (e) was issued in or outs
 
                      (a)  a prescribed unit issued in accordance with an international agreement (other than the Kyoto Protocol); or
 
-                     (b)  a prescribed unit issued outside Australia under a law of a foreign country; or
-
-                     (c)  a European allowance unit; or
-
-                     (d)  an Australian‑issued international unit.
+                     (b)  a prescribed unit issued outside Australia under a law of a foreign country.
 
 It is immaterial whether a unit covered by paragraph (a) was issued in or outside Australia.
-
-                    <a name="quarter"></a>**_quarter_** means a period of 3 months beginning on 1 July, 1 October, 1 January or 1 April.
 
                     <a name="regist-holder"></a>**_registered holder_**, in relation to:
 
@@ -781,8 +644,6 @@ means the person in whose Registry account there is an entry for the unit.
                     <a name="registri-account"></a>**_Registry account_** means an account kept in accordance with regulations made for the purposes of subsection 10(1).
 
                     <a name="regul"></a>**_Regulator_** means the Clean Energy Regulator.
-
-                    <a name="relinquish"></a>**_relinquish_**, in relation to an Australian‑issued international unit, means relinquish under section 66D.
 
                     <a name="remov-unit"></a>**_removal unit_** means a removal unit issued in accordance with the relevant provisions of the Kyoto rules. It is immaterial whether the unit was issued in or out of Australia.
 
@@ -1160,7 +1021,7 @@ the Regulator must give written notice of the decision to the applicant.
 
 Power of correction
 
-             (1)  The Regulator may make such alterations to the Registry as the Regulator considers appropriate for the purposes of ensuring that the relevant provisions of an international agreement or international arrangement, to the extent to which the agreement or arrangement relates to a prescribed international unit, are complied with.
+             (1)  The Regulator may make such alterations to the Registry as the Regulator considers appropriate for the purposes of ensuring that the relevant provisions of an international agreement, to the extent to which it relates to a prescribed international unit, are complied with.
 
              (2)  The Regulator may exercise the power conferred by subsection (1):
 
@@ -2284,89 +2145,17 @@ the Regulator must give written notice of the decision to the applicant.
 
 ## Part 4—Prescribed international units
 
-### Division 1—Introduction
-
 ##### <a id="48"></a>48  Simplified outline
 
                    The following is a simplified outline of this Part:
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator may issue
-
-Australian‑issued international units.</li>
-
 <li class="BoxList" style="margin-left:21.25pt">•      This Part sets out rules
 
 about dealings with prescribed international units.</li>
 
 * * *
-
-### Division 2—Australian‑issued international units
-
-##### <a id="48A"></a>48A  Issue of Australian‑issued international units
-
-                   The Regulator may, on behalf of the Commonwealth, issue units, to be known as **_Australian‑issued international units_**.
-
-Note:          See also section 48D.
-
-##### <a id="48B"></a>48B  Serial number
-
-             (1)  An Australian‑issued international unit is to be identified by a unique number, to be known as the **_serial number_** of the unit.
-
-             (2)  For the purposes of this section, **_number_** includes a combination of:
-
-                     (a)  one or more digits; and
-
-                     (b)  one or more letters.
-
-##### <a id="48C"></a>48C  How Australian‑issued international units are to be issued
-
-             (1)  The Regulator is to issue an Australian‑issued international unit to a person by making an entry for the unit in a Registry account kept by the person.
-
-             (2)  An entry for an Australian‑issued international unit in a Registry account is to consist of the serial number of the unit.
-
-             (3)  The Regulator must not issue an Australian‑issued international unit to a person unless the person has a Registry account.
-
-##### <a id="48D"></a>48D  When Australian‑issued international units may be issued
-
-             (1)  The Regulator must not issue an Australian‑issued international unit unless the conditions set out in the regulations are satisfied.
-
-             (2)  Regulations made for the purpose of subsection (1) must give effect to the principle that an Australian‑issued international unit must not be issued unless a corresponding foreign emissions unit has been withdrawn from circulation within a foreign registry.
-
-             (3)  For the purposes of this section, a **_corresponding foreign emissions unit_** means a unit (however described) that is issued outside Australia.
-
-##### <a id="48E"></a>48E  Regulations about Australian‑issued international units
-
-             (1)  The regulations may make further provision in relation to Australian‑issued international units.
-
-             (2)  Regulations made for the purposes of subsection (1) may make provision requiring a person to notify a matter to the Regulator.
-
-             (3)  Subsection (2) does not limit subsection (1).
-
-Requirement
-
-             (4)  If a person is subject to a requirement under regulations made for the purposes of subsection (1) or (2), the person must comply with that requirement.
-
-Ancillary contraventions
-
-             (5)  A person must not:
-
-                     (a)  aid, abet, counsel or procure a contravention of subsection (4); or
-
-                     (b)  induce, whether by threats or promises or otherwise, a contravention of subsection (4); or
-
-                     (c)  be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of subsection (4); or
-
-                     (d)  conspire with others to effect a contravention of subsection (4).
-
-Civil penalty provisions
-
-             (6)  Subsections (4) and (5) are **_civil penalty provisions_**.
-
-Note:          Part 7 provides for pecuniary penalties for breaches of civil penalty provisions.
-
-### Division 3—General provisions
 
 ##### <a id="49"></a>49  Entries for prescribed international units
 
@@ -2450,7 +2239,7 @@ the Regulator must give effect to the instruction as soon as practicable after r
 
              (5)  If the first person is the Commonwealth, the Minister may give an instruction under subsection (1) on behalf of the first person.
 
-##### <a id="52"></a>52  Outgoing international transfers of prescribed international units
+##### <a id="52"></a>52  Outgoing international transfers of prescribed international units
 
              (1)  If a person (the **_first person_**) is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Regulator, instruct the Regulator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
 
@@ -2614,9 +2403,7 @@ the Regulator must give written notice of the decision to the applicant.
 
 ##### <a id="57"></a>57  Regulations about prescribed international units
 
-             (1)  The regulations may make further provision in relation to prescribed international units.
-
-             (2)  The regulations may modify this Division so far as this Division applies to a specified class of Australian‑issued international units.
+                   The regulations may make further provision in relation to prescribed international units.
 
 ## Part 5—Publication of information
 
@@ -2651,14 +2438,6 @@ certain information about:</li>
                              (ii)  the person’s address last known to the Regulator; and
 
                      (b)  keep that information up‑to‑date.
-
-##### <a id="59A"></a>59A  Information about prescribed international units
-
-                   As soon as practicable after the end of each quarter, the Regulator must, for each class of prescribed international units specified in the regulations, publish on the Regulator’s website:
-
-                     (a)  the total number of prescribed international units of that class for which there are entries in Registry accounts as at the end of a quarter; and
-
-                     (b)  such other information (if any) relating to the units, or to the registered holders of the units, as is specified in the regulations.
 
 ##### <a id="60"></a>60  Kyoto information
 
@@ -2703,28 +2482,6 @@ Prescribed international units
              (4)  The Regulator must:
 
                      (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (b) of the definition of **_prescribed international unit_** in section 4, publish on the Regulator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
-
-                     (b)  keep that statement up‑to‑date.
-
-European allowance units
-
-             (5)  Within 30 days after the commencement of regulations that:
-
-                     (a)  are made for the purposes of the definition of **_foreign registry_** in section 4; and
-
-                     (b)  specify the European Union registry that is operated for the purposes of the European Union Greenhouse Gas Emission Allowance Trading Directive;
-
-the Regulator must:
-
-                     (c)  publish on the Regulator’s website a statement setting out a concise description of the characteristics of European allowance units; and
-
-                     (d)  keep that statement up‑to‑date.
-
-Australian‑issued international units
-
-             (6)  Within 30 days after the commencement of regulations made for the purposes of section 48D, the Regulator must:
-
-                     (a)  publish on the Regulator’s website a statement setting out a concise description of the characteristics of Australian‑issued international units; and
 
                      (b)  keep that statement up‑to‑date.
 
@@ -2781,134 +2538,6 @@ Kyoto units
 Prescribed international units
 
              (5)  As soon as practicable after one or more prescribed international units held by the person are cancelled under section 66, the Regulator must enter in the Information Database the total number of prescribed international units cancelled.
-
-##### <a id="63B"></a>63B  Relinquishment requirement to be entered in the Information Database
-
-Scope
-
-             (1)  This section applies if there is an entry for a person in the Information Database in relation to a financial year.
-
-Relinquishment requirement
-
-             (2)  If, under this Act, the person is required, during the financial year, to relinquish a particular number of Australian‑issued international units, the Regulator must enter in the Information Database details of the relinquishment requirement.
-
-##### <a id="63C"></a>63C  Unpaid administrative penalty to be entered in the Information Database
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  there is an entry for a person in the Information Database in relation to a financial year; and
-
-                     (b)  under this Act, the person is required to relinquish a particular number of Australian‑issued international units; and
-
-                     (c)  during the financial year, an amount (the **_penalty amount_**) payable by the person under section 66F in relation to non‑compliance with the relinquishment requirement remains unpaid after the time when the penalty amount became due for payment.
-
-Penalty amount
-
-             (2)  The Regulator must enter in the Information Database details of the unpaid penalty amount.
-
-##### <a id="63D"></a>63D  Number of relinquished units to be entered in the Information Database
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  there is an entry for a person in the Information Database in relation to a financial year; and
-
-                     (b)  under this Act, the person is required to relinquish a particular number of Australian‑issued international units; and
-
-                     (c)  during the financial year, the person:
-
-                              (i)  relinquishes one or more Australian‑issued international units in order to comply with the requirement; or
-
-                             (ii)  transfers one or more substitute units under section 66E instead of relinquishing the Australian‑issued international units.
-
-Units relinquished etc.
-
-             (2)  As soon as practicable after receiving the notice of relinquishment or the section 66E notice, as the case may be, the Regulator must enter in the Information Database whichever of the following is applicable:
-
-                     (a)  the total number of Australian‑issued international units relinquished;
-
-                     (b)  the total number of substitute units transferred under section 66E.
-
-Substitute unit
-
-             (3)  In this section:
-
-                    <a name="substitut-unit"></a>**_substitute unit_** has the same meaning as in section 66E.
-
-##### <a id="63E"></a>63E  Information about relinquishment requirement applicable to a person who is not in the Information Database
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  under this Act, a person is required, during a financial year, to relinquish a particular number of Australian‑issued international units; and
-
-                     (b)  there is no entry for the person in the Information Database in relation to the financial year.
-
-Relinquishment requirement
-
-             (2)  The Regulator must publish on its website:
-
-                     (a)  the name of the person; and
-
-                     (b)  details of the relinquishment requirement.
-
-##### <a id="63F"></a>63F  Information about unpaid administrative penalties applicable to a person who is not in the Information Database
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  under this Act, a person is required to relinquish a particular number of Australian‑issued international units; and
-
-                     (b)  during an eligible financial year, an amount (the **_penalty amount_**) payable by the person under section 66F in relation to non‑compliance with the relinquishment requirement remains unpaid after the time when the penalty amount became due for payment; and
-
-                     (c)  there is no entry for the person in the Information Database in relation to the financial year.
-
-Penalty amount
-
-             (2)  The Regulator must publish on its website:
-
-                     (a)  the name of the person; and
-
-                     (b)  details of the unpaid penalty amount.
-
-##### <a id="63G"></a>63G  Information about number of units relinquished by a person who is not in the Information Database
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  under this Act, a person is required to relinquish a particular number of Australian‑issued international units; and
-
-                     (b)  during a financial year, the person:
-
-                              (i)  relinquishes one or more Australian‑issued international units in order to comply with the requirement; or
-
-                             (ii)  transfers one or more substitute units under section 66E instead of relinquishing the Australian‑issued international units; and
-
-                     (c)  there is no entry for the person in the Information Database in relation to the financial year.
-
-Units relinquished etc.
-
-             (2)  As soon as practicable after receiving the relinquishment notice or the section 66E notice, as the case may be, the Regulator must publish on its website:
-
-                     (a)  the name of the person; and
-
-                     (b)  whichever of the following is applicable:
-
-                              (i)  the total number of Australian‑issued international units relinquished;
-
-                             (ii)  the total number of substitute units transferred under section 66E.
-
-Substitute unit
-
-             (3)  In this section:
-
-                    <a name="substitut-unit"></a>**_substitute unit_** has the same meaning as in section 66E.
 
 ## Part 6—Voluntary cancellation of emissions units
 
@@ -3039,546 +2668,6 @@ the Regulator must comply with the request as soon as practicable after receivin
                      (c)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit.
 
              (4)  The Registry must set out a record of each notice under subsection (1).
-
-## Part 6A—Cancellation of Australian‑issued international units
-
-##### <a id="66A"></a>66A  Cancellation of Australian‑issued international units
-
-Scope
-
-             (1)  This section applies to an Australian‑issued international unit if:
-
-                     (a)  there is an entry for the unit in a person’s Registry account; and
-
-                     (b)  the conditions set out in the regulations are satisfied.
-
-Cancellation of unit
-
-             (2)  The Regulator must cancel the unit.
-
-             (3)  The Regulator must remove the entry for the unit from the person’s Registry account.
-
-             (4)  The Registry must set out a record of each cancellation under subsection (2).
-
-## Part 6B—Relinquishment of Australian‑issued international units
-
-### Division 1—Introduction
-
-##### <a id="66B"></a>66B  Simplified outline
-
-                   The following is a simplified outline of this Part:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•      If a person is convicted of
-
-an offence relating to fraudulent conduct, and the issue of Australian‑issued
-
-international units is attributable to the commission of the offence, a court
-
-may order the person to relinquish a specified number of Australian‑issued
-
-international units.</li>
-
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      If a
-
-person is the registered holder of one or more Australian‑issued international
-
-units, the person may, by electronic notice transmitted to the Regulator,
-
-relinquish any or all of those units.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      An administrative penalty
-
-is payable for non‑compliance with a relinquishment requirement under this Act.</li>
-
-* * *
-
-### Division 2—Court‑ordered relinquishment
-
-##### <a id="66C"></a>66C  Units issued as a result of fraudulent conduct—court may order relinquishment
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  one or more Australian‑issued international units were issued:
-
-                              (i)  to a person; or
-
-                             (ii)  at the direction or request of a person;
-
-                            on a particular occasion; and
-
-                     (b)  the person has been convicted of:
-
-                              (i)  an offence against section 134.1, 134.2, 135.1, 135.2, 135.4, 136.1, 137.1 or 137.2 of the _Criminal Code_; or
-
-                             (ii)  an offence against a law of, or of a part of, a foreign country that corresponds to an offence covered by subparagraph (i); and
-
-                     (c)  an appropriate court is satisfied that the issue of any or all of the units was directly or indirectly attributable to the commission of the offence.
-
-Note:          For **_appropriate court_**, see subsection (8).
-
-Relinquishment
-
-             (2)  The court may, on application made by the Director of Public Prosecutions or the Regulator, order the person:
-
-                     (a)  to relinquish a specified number of Australian‑issued international units not exceeding the number of Australian‑issued international units issued as mentioned in paragraph (1)(a); and
-
-                     (b)  to do so by a specified time.
-
-Compliance
-
-             (3)  The person must comply with an order under subsection (2).
-
-Note:          An administrative penalty is payable under section 66F for non‑compliance with a relinquishment requirement.
-
-             (4)  The person does not comply with an order under subsection (2) unless the notice of relinquishment specifies the order.
-
-             (5)  To avoid doubt, the person is required to comply with an order under subsection (2) even if:
-
-                     (a)  the person is not the registered holder of any Australian‑issued international units; or
-
-                     (b)  the person is not the registered holder of the number of Australian‑issued international units required to be relinquished.
-
-Conviction
-
-             (6)  It is immaterial whether the conviction occurred before, at or after the commencement of this section.
-
-Copy of order
-
-             (7)  A copy of an order under subsection (2) is to be given to the Regulator.
-
-Appropriate court
-
-             (8)  For the purposes of this section, each of the following courts is an **_appropriate court_**:
-
-                     (a)  if the offence is covered by subparagraph (1)(b)(i)—the court that convicted the person of the offence;
-
-                     (b)  in any case—the Federal Court;
-
-                     (c)  in any case—the Supreme Court of a State or Territory.
-
-Spent convictions
-
-             (9)  Nothing in this section affects the operation of Part VIIC of the _Crimes Act 1914_ (which includes provisions that, in certain circumstances, relieve persons from the requirement to disclose spent convictions and require persons aware of such convictions to disregard them).
-
-### Division 3—How Australian‑issued international units are relinquished
-
-##### <a id="66D"></a>66D  How Australian‑issued international units are relinquished
-
-             (1)  If a person is the registered holder of one or more Australian‑issued international units, the person may, by electronic notice transmitted to the Regulator, relinquish any or all of those units.
-
-             (2)  A notice under subsection (1) must:
-
-                     (a)  specify the Australian‑issued international unit or units that are being relinquished; and
-
-                     (b)  if the Australian‑issued international unit or units are being relinquished in order to comply with a particular order under subsection 66C(2)—specify the order; and
-
-                     (c)  set out such other information (if any) as is specified in the regulations.
-
-             (3)  If an Australian‑issued international unit is relinquished by a person:
-
-                     (a)  the unit is cancelled; and
-
-                     (b)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit; and
-
-                     (c)  the Regulator must take such other steps (if any) as are required by the regulations.
-
-             (4)  The Registry must set out a record of each notice under subsection (1).
-
-##### <a id="66E"></a>66E  Transfer of certain units instead of relinquishment of Australian‑issued international units
-
-Scope
-
-             (1)  This section applies if, under this Act, a person is required to relinquish a particular number of Australian‑issued international units.
-
-Transfer of certain units instead of relinquishment
-
-             (2)  The person may:
-
-                     (a)  transfer to the Commonwealth an equal number of substitute units; and
-
-                     (b)  by electronic notice transmitted to the Regulator, inform the Regulator that the transfer is instead of the relinquishment of the Australian‑issued international units.
-
-Note:          For **_substitute unit_**, see subsection (6).
-
-             (3)  A notice under subsection (2) must:
-
-                     (a)  specify the substitute units that are being transferred; and
-
-                     (b)  specify the requirement concerned.
-
-             (4)  A transfer under subsection (2) must be in accordance with the regulations.
-
-Consequences of transfer
-
-             (5)  If the person transfers the substitute units specified in the notice under subsection (2), this Act (other than sections 63D and 63G and subsection 66D(3)) has effect as if the person had relinquished the Australian‑issued international units in order to comply with the requirement concerned.
-
-             (6)  If the person transfers the substitute units specified in the notice under subsection (2):
-
-                     (a)  the units are cancelled; and
-
-                     (b)  the Regulator must remove the entries for the units from the person’s Registry account or accounts in which there are entries for the units; and
-
-                     (c)  the Regulator must take such other steps (if any) as are required by the regulations.
-
-Substitute unit
-
-             (7)  For the purposes of this section, each of the following is a **_substitute unit_**:
-
-                     (a)  a carbon unit;
-
-                     (b)  an eligible Australian carbon credit unit (within the meaning of the _Clean Energy Act 2011_).
-
-### Division 4—Compliance with relinquishment requirements
-
-##### <a id="66F"></a>66F  Compliance with relinquishment requirements
-
-Scope
-
-             (1)  This section applies if, under this Act:
-
-                     (a)  a person is required to relinquish a particular number of Australian‑issued international units; and
-
-                     (b)  the person is required to do so by a particular time (the **_compliance deadline_**).
-
-No units relinquished
-
-             (2)  If, by the compliance deadline, the person has not relinquished any Australian‑issued international units in order to comply with the requirement, the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2013C00048/Html/308288db-a2a5-424f-809c-edc874cac6ec_files/image002.gif)
-
-where:
-
-                    <a name="prescrib-amount-financi-year-complianc-deadlin-occur"></a>**_prescribed amount for the financial year in which the compliance deadline occurs_** means:
-
-                     (a)  if the requirement arose before the end of 31 July 2013—$46; or
-
-                     (b)  if the requirement arose during the period beginning at the start of 1 August 2013 and ending at the end of 31 July 2014—$48.30; or
-
-                     (c)  if the requirement arose during the period beginning at the start of 1 August 2014 and ending at the end of 31 July 2015—$50.80; or
-
-                     (d)  in any other case:
-
-                              (i)  if an amount is specified in the corresponding regulations for the financial year in which the compliance deadline occurs—that amount; or
-
-                             (ii)  otherwise—an amount equal to 200% of the benchmark average auction charge for the previous financial year.
-
-             (3)  In subsection (2), **_corresponding regulations_** means regulations made for the purposes of subparagraph (d)(i) of the definition of **_prescribed amount for the financial year in which the compliance deadline occurs_** in subsection 212(2) of the _Clean Energy Act 2011_.
-
-Relinquishment of insufficient units
-
-             (4)  If, by the compliance deadline:
-
-                     (a)  the person has relinquished one or more Australian‑issued international units in order to comply with the requirement; and
-
-                     (b)  the number of relinquished units is less than the number of units required to be relinquished;
-
-the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2013C00048/Html/308288db-a2a5-424f-809c-edc874cac6ec_files/image003.gif)
-
-where:
-
-                    <a name="prescrib-amount-financi-year-complianc-deadlin-occur"></a>**_prescribed amount for the financial year in which the compliance deadline occurs_** means:
-
-                     (a)  if the requirement arose before the end of 31 July 2013—$46; or
-
-                     (b)  if the requirement arose during the period beginning at the start of 1 August 2013 and ending at the end of 31 July 2014—$48.30; or
-
-                     (c)  if the requirement arose during the period beginning at the start of 1 August 2014 and ending at the end of 31 July 2015—$50.80; or
-
-                     (d)  in any other case:
-
-                              (i)  if an amount is specified in the corresponding regulations for the financial year in which the compliance deadline occurs—that amount; or
-
-                             (ii)  otherwise—an amount equal to 200% of the benchmark average auction charge for the previous financial year.
-
-             (5)  In subsection (4), **_corresponding regulations_** means regulations made for the purposes of subparagraph (d)(i) of the definition of **_prescribed amount for the financial year in which the compliance deadline occurs_** in subsection 212(3) of the _Clean Energy Act 2011_.
-
-When penalty becomes due and payable
-
-             (6)  An amount payable under this section is due and payable at the end of 30 days after the compliance deadline.
-
-Compliance
-
-             (7)  For the purposes of this section, a person relinquishes Australian‑issued international units in order to comply with a particular requirement under this Act if, and only if, the notice of relinquishment specifies the requirement.
-
-             (8)  To avoid doubt, a person may be liable to pay a penalty under this section even if:
-
-                     (a)  the person is not the registered holder of any Australian‑issued international units; or
-
-                     (b)  the person is not the registered holder of the number of Australian‑issued international units required to be relinquished.
-
-##### <a id="66G"></a>66G  Late payment penalty
-
-Penalty
-
-             (1)  If an amount payable by a person under section 66F remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount calculated at the rate of:
-
-                     (a)  20% per annum; or
-
-                     (b)  if a lower rate per annum is specified in regulations made for the purposes of paragraph 213(1)(b) of the _Clean Energy Act 2011_—that lower rate per annum;
-
-on the amount unpaid, computed from that time.
-
-Power to remit
-
-             (2)  The Regulator may remit the whole or a part of an amount payable under subsection (1) if:
-
-                     (a)  the Regulator is satisfied that the person did not contribute to the delay in payment and has taken reasonable steps to mitigate the causes of the delay; or
-
-                     (b)  the Regulator is satisfied:
-
-                              (i)  that the person contributed to the delay but has taken reasonable steps to mitigate the causes of the delay; and
-
-                             (ii)  having regard to the nature of the reasons that caused the delay, that it would be fair and reasonable to remit some or all of the amount; or
-
-                     (c)  the Regulator is satisfied that there are special circumstances that make it reasonable to remit some or all of the amount.
-
-             (3)  The Regulator may exercise the power conferred by subsection (2):
-
-                     (a)  on written application being made to the Regulator by a person; or
-
-                     (b)  on the Regulator’s own initiative.
-
-Refusal
-
-             (4)  If:
-
-                     (a)  the Regulator decides to refuse to remit the whole or a part of an amount payable under subsection (1); and
-
-                     (b)  the Regulator made the decision in response to an application;
-
-the Regulator must give written notice of the decision to the applicant.
-
-##### <a id="66H"></a>66H  Recovery of penalties
-
-                   An amount payable under section 66F or 66G:
-
-                     (a)  is a debt due to the Commonwealth; and
-
-                     (b)  may be recovered by the Regulator, on behalf of the Commonwealth, by action in a court of competent jurisdiction.
-
-##### <a id="66J"></a>66J  Set‑off
-
-                   If:
-
-                     (a)  an amount (the **_first amount_**) is payable under section 66F or 66G by a person; and
-
-                     (b)  the following conditions are satisfied in relation to another amount (the **_second amount_**):
-
-                              (i)  the amount is payable by the Commonwealth to the person;
-
-                             (ii)  the amount is of a kind specified in the regulations;
-
-the Regulator may, on behalf of the Commonwealth, set off the whole or a part of the first amount against the whole or a part of the second amount.
-
-##### <a id="66K"></a>66K  Refund of overpayments
-
-                   If either of the following amounts has been overpaid by a person, the amount overpaid must be refunded by the Commonwealth:
-
-                     (a)  an amount payable under section 66F;
-
-                     (b)  an amount payable under section 66G.
-
-Note:          For appropriation, see section 28 of the _Financial Management and Accountability Act 1997_.
-
-### Division 5—Offences relating to administrative penalties
-
-##### <a id="66L"></a>66L  Scheme to avoid existing liability to pay administrative penalty
-
-Intention
-
-             (1)  A person commits an offence if:
-
-                     (a)  a penalty is due and payable by a body corporate or trust under section 66F; and
-
-                     (b)  at or after the time when the penalty became due and payable, the person entered into a scheme; and
-
-                     (c)  the person entered into the scheme with the intention of securing or achieving the result, either generally or for a limited period, that the body corporate or trust:
-
-                              (i)  will be unable; or
-
-                             (ii)  will be likely to be unable; or
-
-                            (iii)  will continue to be unable; or
-
-                            (iv)  will be likely to continue to be unable;
-
-                            having regard to the other debts of the body corporate or trust, to pay the penalty.
-
-                    Penalty:  Imprisonment for 10 years or 10,000 penalty units, or both.
-
-             (2)  For the purposes of subsection (1), it is immaterial whether the body corporate or the trustee of the trust is:
-
-                     (a)  the person mentioned in subsection (1); or
-
-                     (b)  a party to the scheme.
-
-Knowledge or belief
-
-             (3)  A person commits an offence if:
-
-                     (a)  a penalty is due and payable by a body corporate or trust under section 66F; and
-
-                     (b)  at or after the time when the penalty became due and payable, the person entered into a scheme; and
-
-                     (c)  the person entered into the scheme with the knowledge or belief that the scheme will, or will be likely to, secure or achieve the result, either generally or for a limited period, that the body corporate or trust:
-
-                              (i)  will be unable; or
-
-                             (ii)  will be likely to be unable; or
-
-                            (iii)  will continue to be unable; or
-
-                            (iv)  will be likely to continue to be unable;
-
-                            having regard to the other debts of the body corporate or trust, to pay the penalty.
-
-                    Penalty:  Imprisonment for 10 years or 10,000 penalty units, or both.
-
-             (4)  For the purposes of subsection (3), it is immaterial whether the body corporate or the trustee of the trust is:
-
-                     (a)  the person mentioned in subsection (3); or
-
-                     (b)  a party to the scheme.
-
-Objective purpose
-
-             (5)  A person (the **_first person_)**commits an offence if:
-
-                     (a)  a penalty is due and payable by a body corporate or trust under section 66F; and
-
-                     (b)  at or after the time when the penalty became due and payable, the first person entered into a scheme; and
-
-                     (c)  having regard to:
-
-                              (i)  the manner in which the scheme was entered into; and
-
-                             (ii)  the form and substance of the scheme, including any legal rights and obligations involved in the scheme and the economic and commercial substance of the scheme; and
-
-                            (iii)  the timing of the scheme;
-
-                            it would be reasonable to conclude that the first person entered into the scheme for the sole or dominant purpose of securing or achieving the result, either generally or for a limited period, that the body corporate or trust:
-
-                            (iv)  will be unable; or
-
-                             (v)  will be likely to be unable; or
-
-                            (vi)  will continue to be unable; or
-
-                           (vii)  will be likely to continue to be unable;
-
-                            to pay the penalty.
-
-                    Penalty:  Imprisonment for 3 years or 850 penalty units, or both.
-
-             (6)  For the purposes of subsection (5), it is immaterial whether the body corporate or the trustee of the trust is:
-
-                     (a)  the first person; or
-
-                     (b)  a party to the scheme.
-
-##### <a id="66M"></a>66M  Scheme to avoid future liability to pay administrative penalty
-
-Intention
-
-             (1)  A person commits an offence if:
-
-                     (a)  a penalty is due and payable by a body corporate or trust under section 66F; and
-
-                     (b)  before the penalty became due and payable, the person entered into a scheme; and
-
-                     (c)  the person entered into the scheme with the intention of securing or achieving the result, either generally or for a limited period, that, in the event that the body corporate or trust were to become liable to pay the penalty, the body corporate or trust:
-
-                              (i)  will be unable; or
-
-                             (ii)  will be likely to be unable; or
-
-                            (iii)  will continue to be unable; or
-
-                            (iv)  will be likely to continue to be unable;
-
-                            having regard to the other debts of the body corporate or trust, to pay the penalty.
-
-                    Penalty:  Imprisonment for 10 years or 10,000 penalty units, or both.
-
-             (2)  For the purposes of subsection (1), it is immaterial whether the body corporate or the trustee of the trust is:
-
-                     (a)  the person mentioned in subsection (1); or
-
-                     (b)  a party to the scheme.
-
-Knowledge or belief
-
-             (3)  A person commits an offence if:
-
-                     (a)  a penalty is due and payable by a body corporate or trust under section 66F; and
-
-                     (b)  before the penalty became due and payable, the person entered into a scheme; and
-
-                     (c)  the person entered into the scheme with the knowledge or belief that the scheme will, or will be likely to, secure or achieve the result, either generally or for a limited period, that, in the event that the body corporate or trust were to become liable to pay the penalty, the body corporate or trust:
-
-                              (i)  will be unable; or
-
-                             (ii)  will be likely to be unable; or
-
-                            (iii)  will continue to be unable; or
-
-                            (iv)  will be likely to continue to be unable;
-
-                            having regard to the other debts of the body corporate or trust, to pay the penalty.
-
-                    Penalty:  Imprisonment for 10 years or 10,000 penalty units, or both.
-
-             (4)  For the purposes of subsection (3), it is immaterial whether the body corporate or the trustee of the trust is:
-
-                     (a)  the person mentioned in subsection (3); or
-
-                     (b)  a party to the scheme.
-
-Objective purpose
-
-             (5)  A person (the **_first person_**) commits an offence if:
-
-                     (a)  a penalty is due and payable by a body corporate or trust under section 66F; and
-
-                     (b)  before the penalty became due and payable, the first person entered into a scheme; and
-
-                     (c)  having regard to:
-
-                              (i)  the manner in which the scheme was entered into; and
-
-                             (ii)  the form and substance of the scheme, including any legal rights and obligations involved in the scheme and the economic and commercial substance of the scheme; and
-
-                            (iii)  the timing of the scheme;
-
-                            it would be reasonable to conclude that the first person entered into the scheme for the sole or dominant purpose of securing or achieving the result, either generally or for a limited period, that, in the event that the body corporate or trust were to become liable to pay the penalty, the body corporate or trust:
-
-                            (iv)  will be unable; or
-
-                             (v)  will be likely to be unable; or
-
-                            (vi)  will continue to be unable; or
-
-                           (vii)  will be likely to continue to be unable;
-
-                            to pay the penalty.
-
-                    Penalty:  Imprisonment for 3 years or 850 penalty units, or both.
-
-             (6)  For the purposes of subsection (5), it is immaterial whether the body corporate or the trustee of the trust is:
-
-                     (a)  the first person; or
-
-                     (b)  a party to the scheme.
-
-##### <a id="66N"></a>66N  Meaning of _scheme_ and _trust_
-
-                   For the purposes of this Division, **_scheme_** and **_trust_** have the same respective meanings as in Part 19 of the _Clean Energy Act 2011_.
 
 ## Part 7—Civil penalty orders
 
@@ -3724,9 +2813,7 @@ Scope
 
                      (b)  subsection 26(2);
 
-                     (c)  subsection 27(4);
-
-                     (d)  subsection 48E(4).
+                     (c)  subsection 27(4);.
 
 State of mind
 
@@ -3923,24 +3010,6 @@ Regulator may be reviewed by the Administrative Appeals Tribunal.</li>
     <div>A decision under subsection 28D(11) not to vary an instrument suspending
       a Registry account.</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>A decision under section 66A to cancel an Australian‑issued international
-      unit.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>A decision to refuse to remit the whole or a part of an amount under subsection
-      66G(2).</div>
-  </td>
 </tr></table>
 
 ##### <a id="83"></a>83  Applications for reconsideration of decisions made by delegates of the Regulator
@@ -3998,24 +3067,6 @@ Application
              (2)  Applications may be made to the Administrative Appeals Tribunal to review a reviewable decision if the decision was not made by a delegate of the Regulator.
 
 ## Part 9—Miscellaneous
-
-##### <a id="86A"></a>86A  Commonwealth foreign registry accounts
-
-             (1)  The Commonwealth may:
-
-                     (a)  open and operate an account within a foreign registry; and
-
-                     (b)  do anything incidental to, or ancillary to, the opening or operation of such an account.
-
-             (2)  An account opened under subsection (1) is to be known as a **_Commonwealth foreign registry account_**.
-
-Regulator’s power to act on behalf of the Commonwealth
-
-             (3)  The Regulator may act on behalf of the Commonwealth in relation to the powers conferred by subsection (1).
-
-             (4)  The Minister may, by legislative instrument, give directions to the Regulator in relation to the Regulator’s powers under subsection (3).
-
-             (5)  The Regulator must not open a Commonwealth foreign registry account on behalf of the Commonwealth unless directed to do so under subsection (4).
 
 ##### <a id="87"></a>87  Computerised decision‑making
 
@@ -4238,23 +3289,6 @@ Schedule 4: 8 Dec 2011</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy Amendment (International Emissions Trading and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>204, 2012</div>
-  </td>
-  <td>
-    <div>13 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–27): 14 Dec 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -4301,7 +3335,7 @@ Schedule 4: 8 Dec 2011</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 132, 2011; Nos. 84 and 204, 2012</div>
+    <div>am. No. 132, 2011; No. 84, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4509,7 +3543,7 @@ Schedule 4: 8 Dec 2011</div>
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 132, 2011; No. 204, 2012</div>
+    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4778,98 +3812,10 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 48</div>
   </td>
   <td>
-    <div>am. No. 132, 2011; No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48A</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48B</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48C</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48D</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48E</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
+    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5029,7 +3975,7 @@ Schedule 4: 8 Dec 2011</div>
     <div>S. 57</div>
   </td>
   <td>
-    <div>am. No. 132, 2011; No. 204, 2012</div>
+    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5066,14 +4012,6 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 59A</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 60</div>
   </td>
   <td>
@@ -5093,7 +4031,7 @@ Schedule 4: 8 Dec 2011</div>
     <div>S. 61</div>
   </td>
   <td>
-    <div>am. No. 132, 2011; No. 204, 2012</div>
+    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5142,54 +4080,6 @@ Schedule 4: 8 Dec 2011</div>
   </td>
   <td>
     <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63B</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63C</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63D</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63E</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63F</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63G</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5258,182 +4148,6 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 6A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66A</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6B</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66B</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66C</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66D</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66E</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66F</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66G</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66H</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66J</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66K</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66L</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66M</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66N</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 7</b></div>
   </td>
   <td>
@@ -5450,14 +4164,6 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 204, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 8</b></div>
   </td>
   <td>
@@ -5466,18 +4172,10 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 81</div>
+    <div>Ss. 81, 82</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011; No. 204, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5518,14 +4216,6 @@ Schedule 4: 8 Dec 2011</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86A</div>
-  </td>
-  <td>
-    <div>ad. No. 204, 2012</div>
   </td>
 </tr>
 <tr>
