@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00905/Html/be9f3a88-d8d7-4736-bc86-0e1961ec264a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00501/Html/12e613c6-92d0-4015-9819-b32dadf8b2ee_files/image001.gif)
 
 # Financial Transaction Reports Act 1988
 
 **Act No. 64 of 1988 as amended**
 
-This compilation was prepared on 11 November 2011
- taking into account amendments up to Act No. 127 of 2011
+This compilation was prepared on 4 July 2011
+ taking into account amendments up to Act No. 60 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -180,8 +180,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40K](#40K).       Transferor ADI must give documents to transferee ADI
 
-[40L](#40L).        Compliant transferor ADIs released from retention 
- obligations
+[40L](#40L).        Compliant transferor ADIs released from retention obligations
 
 [40M](#40M).      Retention obligations of transferee ADIs
 
@@ -1849,7 +1848,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
 ## Part IIIA—Bullion sellers
 
-##### <a id="24A"></a>24A  Definitions
+##### <a id="24A"></a>24A  Definitions
 
                     <a name="bullion-transact"></a>**_bullion transaction_** means a transaction (other than an exempt transaction) in relation to bullion.
 
@@ -2765,6 +2764,8 @@ _Subsection 12(5)_
 
 5.   The name of, and the office held by, the person making the decision to grant or amend the exemption. 
 
+ 
+
 # Schedule 3—Reportable details for purposes of section 15
 
 _Subsection 15(9)_
@@ -2816,6 +2817,8 @@ _Subsection 15(9)_
                       (f)  if the person is receiving currency mailed or shipped—the day on which the person receives the currency and, if the person knows, the day on which the currency entered Australia 
 
 5.   If a person is to carry the currency out of Australia—the name and address of that person. 
+
+ 
 
 # Schedule 3A—Reportable details for the purposes of section 15A
 
@@ -4233,23 +4236,6 @@ Schedule 1 (items 59–61): 13 Dec 2006</div>
   </td>
   <td>
     <div>Schedule 4: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>127, 2011</div>
-  </td>
-  <td>
-    <div>3 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 22, 23): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -6646,30 +6632,6 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti‑Money Laundering and C
   </td>
 </tr></table>
 
-### Note 2
-
-_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
-
-The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
-
-## Schedule 2
-
-## 22  Subsection 3(1) (subparagraph (c)(iv) of the definition of _account information_)
-
-Repeal the subparagraph, substitute:
-
-                    (iv)  if the account is held in a business name registered on the Business Names Register—that fact and a copy of the entry in the Business Names Register obtained under section 60 of the _Business Names Registration Act 2011_ relating to the business name and containing the details referred to in paragraphs 33(1)(a), (b), (d) and (e) of that Act (identification details, business name, address for service and period of registration);
-
-                  (iva)  if the account is held in a business name of which registration on the Business Names Register has been applied for but not yet obtained—that fact and a copy of the application;
-
-## 23  Subsection 3(1)
-
-Insert:
-
-                    <a name="busi-name-regist"></a>**_Business Names Register_** means the Register established and maintained under section 22 of the _Business Names Registration Act 2011._
-
-As at 11 November 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provision
@@ -6798,8 +6760,7 @@ _Australian Crime Commission Establishment Act 2002 (No. 125, 2002)_
 
 * * *
 
-_Family and Community Services and Veterans’ Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003 
- (No. 122, 2003)_
+_Family and Community Services and Veterans’ Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003 (No. 122, 2003)_
 
 ## Schedule 2
 
