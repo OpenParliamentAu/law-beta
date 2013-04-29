@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00853/Html/fba57e32-8812-407a-8bbc-60e26ea49b7a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00443/Html/15450185-def9-473f-8782-898d1c7e7102_files/image001.gif)
 
 # Sex Discrimination Act 1984
 
 **Act No. 4 of 1984 as amended**
 
-This compilation was prepared on 21 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 21 June 2011
+ taking into account amendments up to Act No. 40 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -3184,7 +3184,7 @@ Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i
     <div>9 Dec 2009</div>
   </td>
   <td colspan="3">
-    <div>Schedule 2 (item 134): 1 Jan 2010</div>
+    <div>Schedule 2 (item 134): 1 Jan 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -3208,26 +3208,6 @@ Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i
   </td>
   <td>
     <div>Sch. 1 (item 69) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 2 (items 1034–1037) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -4988,34 +4968,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1034  Subsection 4(1) (definition of _document_)
-
-Repeal the definition.
-
-## 1035  Subsection 103(1)
-
-Omit “(1)”.
-
-## 1036  At the end of subsection 103(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1037  Subsection 103(7)
-
-Repeal the subsection.
-
-As at 21 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5362,21 +5314,5 @@ _Sex and Age Discrimination Legislation Amendment Act 2011
 ## 69  Application of amendments
 
 The amendments of the _Sex Discrimination Act 1984_ made by this Part apply in relation to acts or omissions occurring after the commencement of this Part.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
