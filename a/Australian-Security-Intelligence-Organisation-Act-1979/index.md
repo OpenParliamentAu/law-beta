@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00585/Html/190393e4-44bf-4dcb-a20a-d35575af4b4a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00364/Html/571e5f2c-abad-43f7-9856-564caa478a75_files/image001.gif)
 
 # Australian Security Intelligence Organisation Act 1979
 
 **Act No. 113 of 1979 as amended**
 
-This compilation was prepared on 29 July 2011
- taking into account amendments up to Act No. 80 of 2011
+This compilation was prepared on 10 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 [**Note**: Division 3 of Part III ceases to be in force on 22 July 2016, 
  _see_ section 34ZZ]
@@ -13,8 +13,7 @@ This compilation was prepared on 29 July 2011
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney‑General’s Department, Canberra
@@ -379,8 +378,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="defenc-depart"></a>**_Defence Department_** means the Department of State that deals with defence and that is administered by the Minister administering section 1 of the _Defence Act 1903_.
 
-                    <a name="defenc-minist"></a>**_Defence Minister_** means the Minister administering section 1 of the _Defence Act 1903_.
-
                     <a name="deputi-director-gener"></a>**_Deputy Director‑General_** means an officer of the Organisation who holds office as Deputy Director‑General of Security.
 
                     <a name="digo"></a>**_DIGO_**has the meaning given by the _Intelligence Services Act 2001_.
@@ -389,9 +386,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="dsd"></a>**_DSD_**has the meaning given by the _Intelligence Services Act 2001_.
 
-                    <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
-
-                    <a name="foreign-intellig"></a>**_foreign intelligence_** means intelligence about the capabilities, intentions or activities of people or organisations outside Australia.
+                    <a name="foreign-intellig"></a>**_foreign intelligence_** means intelligence relating to the capabilities, intentions or activities of a foreign power.
 
                     <a name="foreign-power"></a>**_foreign power_** means:
 
@@ -1077,7 +1072,7 @@ Things that may be authorised in warrant
 
                             (iv)  a data storage device;
 
-                            for the purpose of obtaining access to data that is relevant to the security matter and is held in the target computer at any time while the warrant is in force and, if necessary to achieve that purpose, adding, deleting or altering other data in the target computer;
+                            for the purpose of obtaining access to data that is relevant to the security matter and is stored in the target computer and, if necessary to achieve that purpose, adding, deleting or altering other data in the target computer;
 
                      (b)  copying any data to which access has been obtained, that appears to be relevant to the collection of intelligence by the Organisation in accordance with this Act;
 
@@ -1521,11 +1516,11 @@ Definitions
 
              (1)  Where:
 
-                     (a)  the Director‑General gives a notice in writing to the Minister (the **_issuing Minister_**) requesting the issuing Minister to issue a warrant under this section in relation to premises, a person, a computer or a thing identified in the notice authorising the Organisation to do acts or things referred to in whichever of subsections 25(4) or (5), 25A(4), 26(3) or (4), 26B(3), 26C(3), 27(2) or (3) or 27AA(5) or (8) is or are specified in the notice for the purpose of obtaining foreign intelligence relating to a matter specified in the notice; and
+                     (a)  the Director‑General gives a notice in writing to the Minister requesting the Minister to issue a warrant under this section in relation to premises, a person, a computer or a thing identified in the notice authorising the Organisation to do acts or things referred to in whichever of subsections 25(4) or (5), 25A(4), 26(3) or (4), 26B(3), 26C(3), 27(2) or (3) or 27AA(5) or (8) is or are specified in the notice for the purpose of obtaining foreign intelligence relating to a matter specified in the notice; and
 
-                     (b)  the issuing Minister is satisfied, on the basis of advice received from the Defence Minister or the Foreign Affairs Minister, that the collection of foreign intelligence relating to that matter is in the interests of Australia’s national security, Australia’s foreign relations or Australia’s national economic well‑being;
+                     (b)  the Minister is satisfied, on the basis of advice received from the relevant Minister, that the collection of foreign intelligence relating to that matter is important in relation to the defence of the Commonwealth or to the conduct of the Commonwealth’s international affairs;
 
-the issuing Minister may, by warrant under his or her hand, authorise the Organisation, subject to any conditions or restrictions that are specified in the warrant, to do such of those acts or things in relation to those premises, that person, that computer or those things as the issuing Minister considers appropriate in the circumstances and are specified in the warrant for the purpose of obtaining that intelligence.
+the Minister may, by warrant under his or her hand, authorise the Organisation, subject to any conditions or restrictions that are specified in the warrant, to do such of those acts or things in relation to those premises, that person, that computer or those things as the Minister considers appropriate in the circumstances and are specified in the warrant for the purpose of obtaining that intelligence.
 
              (2)  The warrant must:
 
@@ -1539,7 +1534,7 @@ the issuing Minister may, by warrant under his or her hand, authorise the Organi
 
                      (b)  in a case where the warrant authorises the doing of acts or things referred to in subsection 25A(4), 26(3) or (4), 26B(3), 26C(3), 27(2) or (3) or 27AA(5) or (8)—6 months;
 
-but may be revoked by the issuing Minister at any time before the end of the period so specified.
+but may be revoked by the Minister at any time before the end of the period so specified.
 
           (3A)  If a listening device is installed in accordance with a warrant under this section authorising the doing of acts referred to in subsection 26(3) or (4), the Organisation is authorised to do any of the following:
 
@@ -1603,13 +1598,13 @@ the Director‑General must:
 
 ##### <a id="27B"></a>27B  Performance of other functions under paragraph 17(1)(e)
 
-                   If:
+                   If:
 
-                     (a)  the Director‑General gives a notice in writing to the Minister (the **_authorising Minister_**) requesting the authorising Minister to authorise the Organisation to obtain foreign intelligence in relation to a matter specified in the notice; and
+                     (a)  the Director‑General gives a notice in writing to the Minister requesting the Minister to authorise the Organisation to obtain foreign intelligence in relation to a matter specified in the notice; and
 
-                     (b)  the authorising Minister is satisfied, on the basis of advice received from the Defence Minister or the Foreign Affairs Minister, that the collection of foreign intelligence relating to that matter is in the interests of Australia’s national security, Australia’s foreign relations or Australia’s national economic well‑being;
+                     (b)  the Minister is satisfied, on the basis of advice received from the relevant Minister, that the collection of foreign intelligence relating to that matter is important in relation to the defence of the Commonwealth or to the conduct of the Commonwealth’s international affairs;
 
-the authorising Minister may, by writing signed by the authorising Minister, authorise the Organisation to obtain the intelligence in relation to the matter.
+the Minister may, by writing signed by the Minister, authorise the Organisation to obtain the intelligence in relation to the matter.
 
 ##### <a id="28"></a>28  Request for warrant to specify grounds
 
@@ -3285,7 +3280,7 @@ Implied freedom of political communication
 
 ##### <a id="34ZV"></a>34ZV  Law relating to legal professional privilege not affected
 
-                   To avoid doubt, this Division does not affect the law relating to legal professional privilege.
+                   To avoid doubt, this Division does not affect the law relating to legal professional privilege.
 
 ##### <a id="34ZW"></a>34ZW  Jurisdiction of State and Territory courts excluded
 
@@ -3325,7 +3320,7 @@ Limit on assistance
 
 ##### <a id="34ZY"></a>34ZY  Instruments are not legislative instruments
 
-                   An instrument made under this Division (other than an instrument made by the Minister under section 34C) is not a legislative instrument.
+                   An instrument made under this Division (other than an instrument made by the Minister under section 34C) is not a legislative instrument.
 
 ##### <a id="34ZZ"></a>34ZZ  Cessation of effect of Division
 
@@ -3344,20 +3339,6 @@ Limit on assistance
                      (a)  any opinion or advice, or any qualification of any opinion or advice, or any information, that is or could be prejudicial to the interests of the person; and
 
                      (b)  a recommendation that prescribed administrative action be taken or not be taken in respect of the person, being a recommendation the implementation of which would be prejudicial to the interests of the person.
-
-                    <a name="agenc-head"></a>**_agency head_** means:
-
-                     (a)  the Director‑General; or
-
-                     (b)  the Director‑General of the Australian Secret Intelligence Service; or
-
-                     (c)  the Director‑General of the Office of National Assessments; or
-
-                     (d)  the Director of that part of the Defence Department known as the Defence Imagery and Geospatial Organisation; or
-
-                     (e)  the Director of that part of the Defence Department known as the Defence Intelligence Organisation; or
-
-                      (f)  the Director of that part of the Defence Department known as the Defence Signals Directorate.
 
                     <a name="applic"></a>**_applicant_** means a person who has applied to the Tribunal for a review of a security assessment.
 
@@ -3395,16 +3376,6 @@ whether or not the matters contained in the assessment would, by themselves, jus
 
                     <a name="assess"></a><a name="secur-assess"></a>**_security assessment_** or **_assessment_** means a statement in writing furnished by the Organisation to a Commonwealth agency expressing any recommendation, opinion or advice on, or otherwise referring to, the question whether it would be consistent with the requirements of security for prescribed administrative action to be taken in respect of a person or the question whether the requirements of security make it necessary or desirable for prescribed administrative action to be taken in respect of a person, and includes any qualification or comment expressed in connection with any such recommendation, opinion or advice, being a qualification or comment that relates or that could relate to that question.
 
-                    <a name="staff-member"></a>**_staff member_** of the Organisation or an intelligence or security agency means:
-
-                     (a)  the agency head of the Organisation or agency; or
-
-                     (b)  an employee or officer of the Organisation or agency; or
-
-                     (c)  a consultant or contractor to the Organisation or agency; or
-
-                     (d)  a person who is made available by an authority of the Commonwealth, authority of a State or other person to perform services for the Organisation or agency.
-
                     <a name="tribun"></a>**_Tribunal_** means the Administrative Appeals Tribunal.
 
              (2)  To avoid doubt, an obligation, prohibition or restriction imposed on a person by a control order made under Division 104 of the _Criminal Code_ is not prescribed administrative action.
@@ -3421,9 +3392,7 @@ whether or not the matters contained in the assessment would, by themselves, jus
 
                              (ii)  a person who is, within the meaning of the _Migration Act 1958_, the holder of a valid permanent visa; or
 
-                            (iii)  a person who holds a special category visa or is taken by subsection 33(2) of the _Migration Act 1958_ to have been granted a special purpose visa; or
-
-                     (c)  a security assessment in relation to the engagement, or proposed engagement, of a person by or in the Organisation, or an intelligence or security agency, as a staff member of the Organisation or agency.
+                            (iii)  a person who holds a special category visa or is taken by subsection 33(2) of the _Migration Act 1958_ to have been granted a special purpose visa.
 
 ### Division 2—Furnishing of security assessments
 
@@ -4826,42 +4795,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 242) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Intelligence Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>80, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–18, 
-29–31): 26 July 2011</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-29–31) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Security Intelligence Organisation Act 1979_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
@@ -5264,7 +5197,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 122, 1986; No. 159, 1989; No. 75, 1990; No. 136, 1991; No. 139, 1991 (as am. by No. 182, 1994); No. 182, 1994; Nos. 146 and 161, 1999; No. 153, 2001; No. 77, 2003; Nos. 118, 128 and 144, 2005; No. 3, 2007; No. 50, 2010; Nos. 4, 5 and 80, 2011</div>
+    <div>am. No. 122, 1986; No. 159, 1989; No. 75, 1990; No. 136, 1991; No. 139, 1991 (as am. by No. 182, 1994); No. 182, 1994; Nos. 146 and 161, 1999; No. 153, 2001; No. 77, 2003; Nos. 118, 128 and 144, 2005; No. 3, 2007; No. 50, 2010; Nos. 4 and 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5688,7 +5621,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div></div>
   </td>
   <td>
-    <div>am. No. 144, 2005; No. 54, 2006; No. 80, 2011</div>
+    <div>am. No. 144, 2005; No. 54, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5752,7 +5685,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 121 and 126, 1988; No. 63, 1989 (as am. by No. 11, 1991); No. 136, 1991; No. 64, 1994; No. 161, 1999; Nos. 118 and 144, 2005; No. 40, 2006; No. 80, 2011</div>
+    <div>am. Nos. 121 and 126, 1988; No. 63, 1989 (as am. by No. 11, 1991); No. 136, 1991; No. 64, 1994; No. 161, 1999; Nos. 118 and 144, 2005; No. 40, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5761,14 +5694,6 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
   </td>
   <td>
     <div>ad. No. 161, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 80, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6888,7 +6813,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 122, 1986; No. 175, 1995; No. 161, 1999; No. 77, 2003; Nos. 35 and 141, 2004; Nos. 7 and 144, 2005; No. 21, 2007; No. 80, 2011</div>
+    <div>am. No. 122, 1986; No. 175, 1995; No. 161, 1999; No. 77, 2003; Nos. 35 and 141, 2004; Nos. 7 and 144, 2005; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -6896,7 +6821,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 122, 1986; No. 159, 1989; No. 136, 1991; No. 175, 1995; No. 161, 1999; No. 141, 2004; No. 80, 2011</div>
+    <div>am. No. 122, 1986; No. 159, 1989; No. 136, 1991; No. 175, 1995; No. 161, 1999; No. 141, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7932,20 +7857,6 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 242  Subsection 34G(5) (note 1)
-
-Omit “subsection 46(3)”, substitute “subsection 33(3AB)”.
-
-As at 29 July 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7958,7 +7869,7 @@ _Australian Security Intelligence Organisation Legislation Amendment Act 1999 (N
 
 The amendments relating to warrants made by this Schedule apply to any warrant issued after the commencement of this item where the request by the Director‑General for the issue of the warrant is also made after the commencement of this item.
 
-## 45  Transitional provisions relating to Acting Director‑General appointed before commencement of this item
+## 45  Transitional provisions relating to Acting Director‑General appointed before commencement of this item
 
 (1)       If, when this item commences, a person is acting as Director‑General under an instrument of appointment made by the Governor‑General before this item commenced, the person continues to act in accordance with that instrument in spite of amendments made by this Schedule. However, the instrument ceases to have effect when the person ceases to act. 
 
@@ -8271,41 +8182,5 @@ _Telecommunications Interception and Intelligence Services Legislation Amendment
 ## 29  Application of amendments relating to communication of information
 
 Section 18 and subsection 19(2) of the _Australian Security Intelligence Organisation Act 1979_, as amended by this Schedule, and subsection 19A(4) of that Act, as inserted by this Schedule, apply in relation to any information, whether the information comes into the possession of the Organisation before or after this Schedule commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Intelligence Services Legislation Amendment Act 2011 (No. 80, 2011)_
-
-## Schedule 1
-
-## 29  Application—paragraph 25A(4)(a) of the _Australian Security Intelligence Organisation Act 1979_
-
-Paragraph 25A(4)(a) of the _Australian Security Intelligence Organisation Act 1979_, as amended by this Schedule, applies in relation to a request that is made under subsection 25A(1) of that Act after this Schedule commences.
-
-## 30  Application—sections 27A and 27B of the _Australian Security Intelligence Organisation Act 1979_
-
-(1)       Section 27A of the _Australian Security Intelligence Organisation Act 1979_, as amended by this Schedule, applies in relation to a notice that is given under paragraph 27A(1)(a) of that Act after this Schedule commences.
-
-(2)       Section 27B of the _Australian Security Intelligence Organisation Act 1979_, as amended by this Schedule, applies in relation to a notice that is given under paragraph 27B(a) of that Act after this Schedule commences.
-
-## 31  Application—paragraph 36(c) of the _Australian Security Intelligence Organisation Act 1979_
-
-Paragraph 36(c) of the _Australian Security Intelligence Organisation Act 1979_, as added by this Schedule, applies in relation to a security assessment that is furnished by the Organisation after this Schedule commences.
 
  
