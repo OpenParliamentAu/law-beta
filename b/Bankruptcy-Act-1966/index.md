@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00173/Html/c3774ce3-b292-4426-b238-cc5a2244cb13_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00063/Html/b1881f13-8a54-4432-a971-6eb733cd1948_files/image001.gif)
 
 # Bankruptcy Act 1966
 
 **Act No. 33 of 1966 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 5 January 2012
  taking into account amendments up to Act No. 189 of 2011
 
 The text of any of those amendments not in force
@@ -1115,8 +1115,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [189AA](#189AA).  Court orders with effect during period of control of debtor’s property
 
-[189AB](#189AB).  Charge over debtor’s property that is subject to control                         
- [_see_ Table B]
+[189AB](#189AB).  Charge over debtor’s property that is subject to control [_see_ 
+ Table B]
 
 [189AC](#189AC).  Right of indemnity for controlling trustee
 
@@ -1730,24 +1730,6 @@ Note:          Section 188A sets out requirements for person
 
                     <a name="petition"></a>**_petition_** means a petition under this Act.
 
-                    <a name="ppsa-grantor-debtor"></a>**_PPSA grantor or debtor_** (short for Personal Property Securities Act grantor or debtor), in relation to a PPSA security interest, means a grantor or debtor within the meaning of the _Personal Property Securities Act 2009_.
-
-                    <a name="ppsa-secur-parti"></a>**_PPSA secured party_**(short for Personal Property Securities Act secured party), in relation to a PPSA security interest, means a secured party within the meaning of the _Personal Property Securities Act 2009_.
-
-                    <a name="ppsa-secur-agreem"></a>**_PPSA security agreement_** (short for Personal Property Securities Act security agreement), in relation to a PPSA security interest, means a security agreement within the meaning of the _Personal Property Securities Act 2009_.
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
-
                     <a name="premis"></a>**_premises_** includes:
 
                      (a)  any land;
@@ -1870,15 +1852,7 @@ Note:          **_Parent_** and **_child_** are defined by thi
 
                             (iv)  any other primary industry activity.
 
-                    <a name="secur-critor"></a>**_secured creditor_**, in relation to a debtor, means:
-
-                     (a)  in the case of a debt secured by a PPSA security interest—the PPSA secured party in relation to the interest, if the interest:
-
-                              (i)  arose as security for the debt; and
-
-                             (ii)  is perfected (within the meaning of the _Personal Property Securities Act 2009_); or
-
-                     (b)  in the case of any other debt—a person holding a mortgage, charge or lien on property of the debtor as a security for a debt due to him or her from the debtor.
+                    <a name="secur-critor"></a>**_secured creditor_**, in relation to a debtor, means a person holding a mortgage, charge or lien on property of the debtor as a security for a debt due to him or her from the debtor.
 
                     <a name="sheriff"></a>**_sheriff_** includes any person charged with the execution of a writ or other process.
 
@@ -3861,7 +3835,7 @@ the Court must not give a direction in relation to the petition until the person
 
              (5)  If the Court directs the Official Receiver to accept (either with or without amendments) a petition referred to the Court, the Court must specify the time of the commencement of the bankruptcy of each of the persons who becomes a bankrupt as a result of the acceptance of the petition.
 
-##### <a id="56D"></a>56D  Acceptance of a debtor’s petition against a partnership by the Official Receiver
+##### <a id="56D"></a>56D  Acceptance of a debtor’s petition against a partnership by the Official Receiver
 
              (1)  The Official Receiver must accept a debtor’s petition against a partnership unless the Official Receiver rejects it under section 56B or is directed by the Court to reject the petition.
 
@@ -5069,7 +5043,7 @@ Variation proposal by trustee
 
              (2)  If, after taking into account the modifications prescribed by the regulations, a provision of Part VIII is incapable of application in relation to the trustee of a composition or scheme of arrangement, or is inconsistent with this Division, that provision does not so have application.
 
-##### <a id="76A"></a>76A  Meetings of creditors
+##### <a id="76A"></a>76A  Meetings of creditors
 
                    Division 5 of Part IV applies, so far as it is capable of applying and with such modifications (if any) as are prescribed by the regulations, to meetings of creditors under this Division.
 
@@ -5921,7 +5895,7 @@ proceeds of any of the property of the bankrupt must not be applied under Subdiv
 
 ##### <a id="114C"></a>114C  Director of Public Prosecutions or Commissioner of the Australian Federal Police must notify the trustee of certain matters
 
-                   If circumstances arise as a result of which:
+                   If circumstances arise as a result of which:
 
                      (a)  this Subdivision prevents Subdivision A from being applied to the proceeds of property of a bankrupt; or
 
@@ -7860,7 +7834,7 @@ subsection (2) has effect.
 
 to pay to the applicant a specified amount not exceeding the amount referred to in paragraph (1)(c).
 
-##### <a id="139EA"></a>139EA  Order relating to increase in value of property of natural person
+##### <a id="139EA"></a>139EA  Order relating to increase in value of property of natural person
 
                    If, on an application under section 139A for an order in relation to a respondent entity that is a natural person, the Court is satisfied that:
 
@@ -8098,7 +8072,7 @@ Note:          Subdivision HA deals with the supervised accoun
 
                    The contribution that a bankrupt is liable to pay in respect of a contribution assessment period is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00173/Html/c3774ce3-b292-4426-b238-cc5a2244cb13_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00063/Html/b1881f13-8a54-4432-a971-6eb733cd1948_files/image002.gif)
 
                     where:
 
@@ -12729,7 +12703,7 @@ whichever is the earlier.
 
              (2)  This section does not limit subsection 206(1).
 
-##### <a id="189AA"></a>189AA  Court orders with effect during period of control of debtor’s property
+##### <a id="189AA"></a>189AA  Court orders with effect during period of control of debtor’s property
 
              (1)  The Court may make an order that has effect while the property of the debtor is subject to control:
 
@@ -15629,21 +15603,17 @@ then, for the purposes of working out if there is a liability to late payment pe
 
 ##### <a id="301"></a>301  Certain provisions in contracts etc. to be void
 
-             (1)  A provision in a contract or agreement for the sale of property, in a lease of property, in a hire‑purchase agreement, in a licence or in a PPSA security agreement to the effect that:
+             (1)  A provision in a contract or agreement for the sale of property, in a lease of property, in a hire‑purchase agreement or in a licence to the effect that:
 
-                     (a)  the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement is to terminate, or may be terminated by the vendor, lessor, owner, licensor or PPSA secured party; or
+                     (a)  the contract, agreement, lease, hire‑purchase agreement or licence is to terminate, or may be terminated by the vendor, lessor, owner or licensor;
 
-                     (b)  the operation of the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement is to be modified; or
+                     (b)  the operation of the contract, agreement, lease, hire‑purchase agreement or licence is to be modified; or
 
-                     (c)  property to which the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement relates may be repossessed by or on behalf of the vendor, lessor, owner, licensor or PPSA secured party;
+                     (c)  property to which the contract, agreement, lease, hire‑purchase agreement or licence relates may be repossessed by or on behalf of the vendor, lessor, owner or licensor;
 
-if the purchaser, lessee, hirer, licensee or PPSA grantor or debtor becomes a bankrupt or commits an act of bankruptcy or executes a personal insolvency agreement under this Act is void.
+if the purchaser, lessee, hirer or licensee becomes a bankrupt or commits an act of bankruptcy or executes a personal insolvency agreement under this Act is void.
 
              (2)  This section extends to contracts, agreements, leases, hire‑purchase agreements and licences entered into or granted before the commencement of this Act.
-
-          (2A)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
-
-Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
 
              (3)  In this section:
 
@@ -15655,19 +15625,15 @@ Note:          This subsection commenced at the registration c
 
 ##### <a id="302"></a>302  Certain provisions in bills of sale etc. to be void
 
-             (1)  A provision in a bill of sale, mortgage, lien, charge or PPSA security agreement:
+             (1)  A provision in a bill of sale, mortgage, lien or charge:
 
-                     (a)  enabling the grantee, mortgagee, person entitled to the benefit of the lien or charge or PPSA secured party to exercise any power or remedy; or
+                     (a)  enabling the grantee, mortgagee or person entitled to the benefit of the lien or charge to exercise any power or remedy; or
 
-                     (b)  to the effect that the operation of the bill of sale, mortgage, lien, charge or PPSA security agreement is to be modified;
+                     (b)  to the effect that the operation of the bill of sale, mortgage, lien or charge is to be modified;
 
-if the grantor, mortgagor, the person whose property is subject to the lien or charge or the PPSA grantor or debtor becomes a bankrupt or commits an act of bankruptcy or executes a personal insolvency agreement under this Act is void.
+if the grantor, mortgagor or person whose property is subject to the lien or charge becomes a bankrupt or commits an act of bankruptcy or executes a personal insolvency agreement under this Act is void.
 
              (2)  This section extends to bills of sale, mortgages, liens and charges entered into or granted before the commencement of this Act.
-
-             (3)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
-
-Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
 
 ##### <a id="302A"></a>302A  Certain provisions in governing rules of superannuation funds and approved deposit funds to be void
 
@@ -15817,7 +15783,7 @@ or, if any such amount has previously been altered under this section, the amoun
 
              (6)  The formula for the purposes of subsections (2), (3) and (5) is: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00173/Html/c3774ce3-b292-4426-b238-cc5a2244cb13_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00063/Html/b1881f13-8a54-4432-a971-6eb733cd1948_files/image003.gif)
 
 where:
 
@@ -17862,7 +17828,7 @@ Schedule 2 (items 8–10): <i>(zo)
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 4–18): 1 Mar 2009</div>
+    <div>Schedule 2 (items 4–18): 1 Mar 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -17914,7 +17880,7 @@ Schedule 2 (items 24, 26, 28): <i>(zp)</i></div>
     <div>6 Nov 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 7–9): 4 Dec 2009</div>
+    <div>Schedule 1 (items 7–9): 4 Dec 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -17931,7 +17897,7 @@ Schedule 2 (items 24, 26, 28): <i>(zp)</i></div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 5 (items 5–18): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 5 (items 5–18): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 5 (item 18) \[ <i>see</i>Table A]</div>
@@ -18925,7 +18891,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 121, 1968; No. 122, 1970; No. 155, 1979; Nos. 12 and 70, 1980; No. 21, 1985; Nos. 73 and 119, 1987; No. 8, 1988; No. 129, 1989; No. 115, 1990; Nos. 9 and 210, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 48, 1998; No. 194, 1999; No. 143, 2000; Nos. 55 and 123, 2001; Nos. 86 and 131, 2002; No. 80, 2004; No. 20, 2005; Nos. 33 and 34, 2006; Nos. 8, 44 and 57, 2007; Nos. 115 and 144, 2008; No. 131, 2009; Nos. 3 and 106, 2010; Nos. 5 and 174, 2011</div>
+    <div>am. No. 121, 1968; No. 122, 1970; No. 155, 1979; Nos. 12 and 70, 1980; No. 21, 1985; Nos. 73 and 119, 1987; No. 8, 1988; No. 129, 1989; No. 115, 1990; Nos. 9 and 210, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 48, 1998; No. 194, 1999; No. 143, 2000; Nos. 55 and 123, 2001; Nos. 86 and 131, 2002; No. 80, 2004; No. 20, 2005; Nos. 33 and 34, 2006; Nos. 8, 44 and 57, 2007; Nos. 115 and 144, 2008; Nos. 3 and 106, 2010; Nos. 5 and 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -27033,4 +26999,1965 @@ of Part X</div>
 </tr>
 <tr>
   <td>
-    <div
+    <div>Ss. 252B, 252C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253</div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XIA</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253B</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986; No. 115, 1990; No. 73, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253C</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253D</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253E</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253F</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 254</div>
+  </td>
+  <td>
+    <div>am. No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 254</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980; No. 74, 1981; No. 44, 1996; No. 80, 2004; No. 8, 2005; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 255</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 256</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 257</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 258</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 259</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 260</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 261</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 262</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 62, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 137, 2000; No. 80, 2004; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263C</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264C</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264D</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264E</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 265</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 131, 2002; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 265(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 265A</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 265A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1992; No. 24, 2001; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 266</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004; No. 44, 2007; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267B</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001; No. 34, 2006; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267D</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267E</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267F</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267G</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 268</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 268</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 80, 2004; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 268(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 268(6)</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 268A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 269</div>
+  </td>
+  <td>
+    <div>rs. No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 269</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 270</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 271</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 272</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1992; No. 44, 1996; No. 131, 2002; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 273</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 106, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 273(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 274</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 275</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 276</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 276</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 277</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 277A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 277B</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part XV</div>
+  </td>
+  <td>
+    <div>rs. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XV</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 278</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 279</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 280</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 281</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 282</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 283</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 284</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 285</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 48, 1998; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 286</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 287, 288</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 289</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 290–293</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 294</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 295</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 296–298</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 299, 300</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XVI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 301, 302</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 302A</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 302AB</div>
+  </td>
+  <td>
+    <div>ad. No. 62, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 302B</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 303</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 303</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 304A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 305</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 74, 1981; No. 21, 1985; No. 119, 1987; No. 115, 1990; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306C</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 308</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 309</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 310</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 143, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 311</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 312</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 313</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 313</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 314</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 315</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 99, 1988; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 11, 1997; No. 34, 2006; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 316</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to The Schedules</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to First Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 1</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Second 
+Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 2</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 2</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Third, Fourth Schedules .</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 5
+
+## 5  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-grantor-debtor"></a>**_PPSA grantor or debtor_** (short for Personal Property Securities Act grantor or debtor), in relation to a PPSA security interest, means a grantor or debtor within the meaning of the _Personal Property Securities Act 2009_.
+
+## 6  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-parti"></a>**_PPSA secured party_**(short for Personal Property Securities Act secured party), in relation to a PPSA security interest, means a secured party within the meaning of the _Personal Property Securities Act 2009_.
+
+## 7  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-agreem"></a>**_PPSA security agreement_** (short for Personal Property Securities Act security agreement), in relation to a PPSA security interest, means a security agreement within the meaning of the _Personal Property Securities Act 2009_.
+
+## 8  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
+
+## 9  Subsection 5(1) (definition of _secured creditor_)
+
+Repeal the definition, substitute:
+
+                    <a name="secur-critor"></a>**_secured creditor_**, in relation to a debtor, means:
+
+                     (a)  in the case of a debt secured by a PPSA security interest—the PPSA secured party in relation to the interest, if the interest:
+
+                              (i)  arose as security for the debt; and
+
+                             (ii)  is perfected (within the meaning of the _Personal Property Securities Act 2009_); or
+
+                     (b)  in the case of any other debt—a person holding a mortgage, charge or lien on property of the debtor as a security for a debt due to him or her from the debtor.
+
+## 10  Subsection 301(1)
+
+Omit “or in a licence”, substitute “, in a licence or in a PPSA security agreement”.
+
+## 11  Paragraphs 301(1)(a), (b) and (c)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement is to terminate, or may be terminated by the vendor, lessor, owner, licensor or PPSA secured party; or
+
+                     (b)  the operation of the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement is to be modified; or
+
+                     (c)  property to which the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement relates may be repossessed by or on behalf of the vendor, lessor, owner, licensor or PPSA secured party;
+
+## 12  Subsection 301(1)
+
+Omit “or licensee”, substitute “, licensee or PPSA grantor or debtor”.
+
+## 13  After subsection 301(2)
+
+Insert:
+
+          (2A)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
+
+Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
+
+## 14  Subsection 302(1)
+
+Omit “or charge” (first occurring), substitute “, charge or PPSA security agreement”.
+
+## 15  Paragraphs 302(1)(a) and (b)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  enabling the grantee, mortgagee, person entitled to the benefit of the lien or charge or PPSA secured party to exercise any power or remedy; or
+
+                     (b)  to the effect that the operation of the bill of sale, mortgage, lien, charge or PPSA security agreement is to be modified;
+
+## 16  Subsection 302(1)
+
+Omit “or person whose property is subject to the lien or charge”, substitute “, the person whose property is subject to the lien or charge or the PPSA grantor or debtor”.
+
+## 17  At the end of section 302
+
+Add:
+
+             (3)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
+
+Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
+
+As at 5 January 2012 the amendments are not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Bankruptcy Legislation Amendment Act 1996 (No. 44, 1996)_
+
+## Schedule 1
+
+## 441  Items 2 to 5 and 8, 9, 11 and 16
+
+Application
+
+(1)               The new definitions inserted or substituted by items 2 to 5 and 8, 9, 11 and 16 apply to all provisions of the _Bankruptcy Act 1966_ applying to bankruptcies and other insolvency administrations that are current on or after the commencement of this Schedule.
+
+Transitional—item 11
+
+(2)               Despite the substitution of the definition of **_Registrar_** by item 11:
+
+                     (a)  the Court may still make orders under paragraphs 30(5)(c) and (d) of the _Bankruptcy Act 1966_ in relation to a failure to comply with an order, direction or  requirement that was given or made by a Registrar in Bankruptcy before this Schedule commenced; and
+
+                     (b)  the Court may still extend or abridge, under paragraph 33(1)(c) of the _Bankruptcy Act 1966_, a time that was fixed by a Registrar in Bankruptcy before this Schedule commenced; and
+
+                     (c)  the Court or a magistrate may issue a warrant under subsection 264B(1) of the _Bankruptcy Act 1966_ for the arrest of a person who failed to attend before, or appear and report to, the Registrar in Bankruptcy before this Schedule commenced.
+
+## 442  Items 46 and 52
+
+                   The amendments made by the following items apply in relation to authorities given under section 188 of the _Bankruptcy Act 1966_ after this Schedule commences:
+
+                     (a)  item 46;
+
+                     (b)  item 52, so far as it substitutes a new paragraph 12(2)(b) of the _Bankruptcy Act 196_ 6.
+
+## 443  Items 89 and 90
+
+                   The amendments made by items 89 and 90 do not apply in relation to proceedings in bankruptcy that were begun in the Supreme Court of a State or of the Northern Territory before this Schedule commenced.
+
+## 444  Item 91
+
+                   The amendment made by item 91 does not apply in relation to proceedings in bankruptcy that were begun in the Supreme Court of a State or of the Northern Territory before this Schedule commenced.
+
+## 445  Item 101
+
+                   The amendment made by item 101 does not apply in relation to appeals from any proceedings continued under item 444 in the Supreme Court of a State or of the Northern Territory after this Schedule commenced.
+
+## 446  Items 108 and 109
+
+                   The amendments made by items 108 and 109 apply in relation to all acts of bankruptcy committed on or after the commencement of this Schedule.
+
+## 447  Item 120
+
+                   The amendment made by item 120:
+
+                     (a)  applies to the presentation of creditor’s petitions after this Schedule commences; and
+
+                     (b)  does not prevent the continuation of proceedings begun before this Schedule commenced by the presentation of a creditor’s petition against a debtor who owed the petitioning creditors one or more debts totalling at least $1,500 but less than $2,000.
+
+## 448  Items 144 to 150
+
+                   The amendments made by items 144 to 150 apply to:
+
+                     (a)  debtor’s petitions that were presented, but not accepted or rejected, before this Schedule commenced; and
+
+                     (b)  debtor’s petitions that are presented after this Schedule commences.
+
+## 449  Item 151
+
+                   The new sections substituted by item 151 apply to:
+
+                     (a)  debtor’s petitions that were presented, but not accepted or rejected, before this Schedule commenced; and
+
+                     (b)  debtor’s petitions that are presented after this Schedule commences.
+
+## 450  Items 152 to 158
+
+                   The amendments made by items 152 to 158 apply to:
+
+                     (a)  debtor’s petitions that were presented, but not accepted or rejected, before this Schedule commenced; and
+
+                     (b)  debtor’s petitions that are presented after this Schedule commences.
+
+## 451  Item 161
+
+                   The amendment made by item 161 applies in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 452  Item 165
+
+                   The amendment made by item 165 applies in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 453  Item 182
+
+                   The new subsection substituted by item 182 applies to debts provable in a bankruptcy that is current on or after the commencement of this Schedule, regardless of when the maintenance agreement or maintenance order under which the debt arose was made.
+
+## 454  Item 193
+
+                   The amendment made by item 193 applies to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
+
+## 455  Item 198
+
+                   The amendment made by item 198 applies to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
+
+## 456  Items 199 to 202
+
+                   The amendments made by items 199 to 202 apply in relation to bankruptcies current on or after the commencement of this Schedule. However, the amendments:
+
+                     (a)  do not affect any distribution of a dividend before this Schedule commenced; and
+
+                     (b)  do not make a trustee liable for any act or omission of the trustee that occurred before this Schedule commenced.
+
+## 457  Item 208
+
+                   The new sections inserted by item 208 apply to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
+
+## 458  Items 209 to 221
+
+                   The amendments made by items 209 to 221 apply to all bankruptcies that are current on or after the day on which this Schedule commences, but do not affect any distributions made before this Schedule commenced.
+
+## 459  Item 222
+
+                   The amendment made by item 222 applies in relation to debtors who are bankrupt when this Schedule commences or who become bankrupt after this Schedule commences. However, the amendment:
+
+                     (a)  does not affect any distribution of a dividend before this Schedule commenced; and
+
+                     (b)  does not make a trustee liable for any act or omission of the trustee that occurred before this Schedule commenced.
+
+## 460  Items 233 to 241
+
+                   The amendments made by items 233 to 241 apply to all bankruptcies current on or after the commencement of this Schedule.
+
+## 461  Items 242 to 246
+
+                   The amendments made by items 242 to 246 apply to all bankruptcies current on or after the commencement of this Schedule.
+
+## 462  Item 250
+
+                   The new definition of **_contribution assessment period_** substituted by item 250 applies to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
+
+## 463  Items 252 to 254
+
+                   The amendments made by items 252 to 254 apply in relation to all bankruptcies current on or after the commencement of this Schedule. However, the amendments do not affect any assessment made before this Schedule commenced.
+
+## 464  Items 256 to 258
+
+                   The amendments made by items 256 to 258 apply in relation to each bankrupt for whom the date of the bankruptcy was on or after the commencement of this Schedule.
+
+## 465  Item 259
+
+                   The amendment made by item 259 applies to all bankruptcies current on or after the commencement of this Schedule.
+
+## 466  Item 277
+
+                   The amendment made by item 277 applies to statements given to the Official Receiver after this Schedule commences.
+
+## 467  Item 282
+
+                   Despite the amendment made by item 282, the Court may make an order annulling a bankruptcy that resulted from the Registrar in Bankruptcy accepting a debtor’s petition.
+
+## 468  Item 283
+
+                   The new sections inserted by item 283 apply in relation to:
+
+                     (a)  applications made after this Schedule commences; and
+
+                     (b)  persons who were registered trustees immediately before this Schedule commenced; and
+
+                     (c)  persons who become registered as trustees after this Schedule commences.
+
+## 469  Items 293 and 425
+
+                   The amendments made by items 293 and 425 apply to trustees who consent to act as trustee after the commencement of this Schedule.
+
+## 470  Items 303 to 308
+
+                   The amendments made by items 303 to 308 apply to all bankruptcies current on or after the commencement of this Schedule.
+
+## 471  Items 315 and 316
+
+                   The amendments made by items 315 and 316 apply to a person registered as a trustee on or after the day on which this Schedule commences.
+
+## 472  Items 321, 323 and 324
+
+                   The amendments made by items 321, 323 and 324 apply in relation to authorities given under section 188 after this Schedule commences.
+
+## 473  Item 332
+
+                   The section inserted by item 332 applies in relation to authorities signed by debtors on or after the day on which this Schedule commences.
+
+## 474  Item 333
+
+                   The amendment made by item 333 applies in relation to an authority under section 188 of the _Bankruptcy Act 1966_ that is current on or after the day on which this Schedule commences.
+
+## 475  Item 334
+
+                   The new sections inserted by item 334 apply in relation to an authority under section 188 of the _Bankruptcy Act 1966_ that is current on or after the day on which this Schedule commences.
+
+## 476  Item 344
+
+                   The new section substituted by item 344 applies in relation to a meeting called under an authority under section 188 of the _Bankruptcy Act 1966_ that is current on or after the day on which this Schedule commences.
+
+## 477  Items 345 and 346
+
+                   The amendments made by items 345 and 346 apply in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 478  Item 347
+
+                   The amendment made by item 347 applies in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 479  Items 348 and 349
+
+                   The amendments made by items 348 and 349 apply in relation to resolutions and special resolutions at a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 480  Item 356
+
+                   The new section substituted by item 356 applies in relation to all persons who are controlling trustees on or after the commencement of this Schedule.
+
+## 481  Item 360
+
+                   The amendment made by item 360 applies in relation to resolutions at a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 482  Items 368 and 369
+
+                   The amendments made by items 368 and 369 do not apply in relation to a special resolution passed at a meeting:
+
+                     (a)  called before this Schedule commences; or
+
+                     (b)  held after this section commences as a continuation of a meeting called before this Schedule commences.
+
+## 483  Items 373 and 374
+
+                   The amendments made by items 373 and 374 apply in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 484  Item 375
+
+                   The amendment made by item 375 applies in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 485  Item 382
+
+                   Despite the amendment made by item 382, proceedings begun before the commencement of this Schedule by presentation of a petition to the Court in relation to one or more debts totalling at least $1,500 but less than $2,000 may continue.
+
+## 486  Item 402
+
+                   The new section substituted by item 402 applies in relation to debtor’s petitions that:
+
+                     (a)  are presented after this Schedule commences; or
+
+                     (b)  were presented, but not dealt with by the Registrar in Bankruptcy, before this Schedule commenced.
+
+## 487  Item 415
+
+                   The new section substituted by item 415 applies only in relation to section 64D statements given on or after the day this Schedule commences.
+
+## 488  Item 417
+
+                   The amendment made by item 417 applies in relation to debtor’s petitions that are presented after this Schedule commences.
+
+## 489  Item 418
+
+                   The amendment made by item 418 applies to statements given to the Official Receiver in relation to debtor’s petitions that:
+
+                     (a)  are presented after this Schedule commences; or
+
+                     (b)  were presented, but not dealt with by the Registrar in Bankruptcy, before this S
