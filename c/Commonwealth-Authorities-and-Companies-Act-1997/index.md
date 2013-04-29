@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00116/Html/ecf44a6a-cf0d-4e77-8a6d-b8f27f810c70_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00874/Html/CwlthAuthCompanies1997_WD02_image001.gif)
 
 # Commonwealth Authorities and Companies Act 1997
 
 **Act No. 153 of 1997 as amended**
 
-This compilation was prepared on 1 March 2011
+This compilation was prepared on 24 December 2010
  taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force
@@ -126,7 +126,7 @@ Related legislation
 
 [26](#26).          Good faith, use of position and use of information—criminal offences
 
-[27A](#27A).       Compliance with statutory and other duties [_see_ Note 2]
+[27A](#27A).       Compliance with statutory and other duties
 
 [27B](#27B).       Interaction of sections 22 to 26 with other laws etc 
 
@@ -134,7 +134,7 @@ Related legislation
 
 [27D](#27D).       Reliance on information or advice provided by others
 
-[27E](#27E).        Responsibility for actions of directors delegate
+[27E](#27E).        Responsibility for actions of delegate
 
         **Subdivision B—Disclosure of, and voting on matters involving, material personal interests**
 
@@ -176,10 +176,6 @@ Related legislation
 
 [33](#33).          Special rules for Commonwealth authorities established by regulations etc 
 
-**Part 3A—Interjurisdictional authorities**
-
-[33A](#33A).       Interjurisdictional authorities
-
 **Part 4—Reporting and other obligations for Commonwealth companies** 
 
     **Division 1—Preliminary**
@@ -216,6 +212,8 @@ Related legislation
 
 **Part 5—Miscellaneous**
 
+[45](#45).          Ministers must inform Parliament of share acquisitions etc 
+
 [46](#46).          Companies conducted for the purposes of intelligence or security agencies
 
 [47](#47).          Regulations may deal with how this Act applies if body stops being a Commonwealth authority
@@ -225,8 +223,6 @@ Related legislation
 [48](#48).          Finance Minister’s Orders
 
 [48A](#48A).       General Policy Orders
-
-[48B](#48B).       Delegation by Minister
 
 [49](#49).          Regulations
 
@@ -398,8 +394,6 @@ Related legislation
 
                     <a name="govern-busi-enterpris"></a><a name="gbe"></a>**_GBE_** or **_government business enterprise_** means a Commonwealth authority or Commonwealth company that is prescribed by the regulations for the purpose of this definition.
 
-                    <a name="gener-law"></a>**_general law_** means the principles and rules of the common law and equity.
-
                     <a name="gener-polici-order"></a>**_General Policy Order_** means an Order made under section 48A.
 
                     <a name="involved"></a>**_involved_**: a person is involved in a contravention if, and only if, the person has:
@@ -450,7 +444,7 @@ Related legislation
 
                     <a name="control"></a><a name="entiti"></a><a name="subsidiari"></a>**_subsidiary_**, in relation to a Commonwealth authority or Commonwealth company, means an entity that is controlled by the Commonwealth authority or Commonwealth company. For this purpose, **_entity_** and **_control_** have the same meanings as in the accounting standard that applies for the purpose of deciding whether a company has to prepare consolidated financial statements under the _Corporations Act 2001_.
 
-                    <a name="compani"></a><a name="commonwealth"></a><a name="wholli-owned"></a>**_wholly-owned_****_Commonwealth_****_company_** has the meaning given by section 34.
+                    <a name="compani"></a><a name="commonwealth"></a><a name=""></a><a name="wholli-owned"></a>**_wholly-owned_****_Commonwealth_****_company_** has the meaning given by section 34.
 
 ##### <a id="6"></a>6  Civil penalties
 
@@ -478,7 +472,7 @@ Related legislation
 
                      (a)  Corporations Act companies;
 
-                     (b)  corporations registered under the _Corporations (Aboriginal and Torres Strait Islander) Act 2006_;
+                     (b)  corporations registered under the _Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_;
 
                      (c)  associations that are organisations (within the meaning of the _Fair Work (Registered Organisations) Act 2009_).
 
@@ -509,8 +503,6 @@ Note:          Section 34C (other than subsection 34C(2)) of
              (2)  The deadline is:
 
                      (a)  the 15th day of the 4th month after the end of the financial year; or
-
-Note:       The deadline will be 15 October if the financial year ends on 30 June. Financial year is defined in section 5.
 
                      (b)  the end of such further period granted under subsection 34C(5) of the _Acts Interpretation Act 1901_.
 
@@ -622,7 +614,9 @@ Note:          This subsection is a civil penalty provision (s
 
                       (f)  make a significant change in the nature or extent of its interest in a significant partnership, trust, unincorporated joint venture or similar arrangement.
 
-             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered bysubsection (1).
+             (2)  The responsible Minister may in writing exempt the directors of a Commonwealth authority from the requirement to notify matters covered by paragraph (1)(a). The exemption may be granted subject to conditions.
+
+             (3)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered by paragraph (1)(b), (c), (d), (e) or (f).
 
 ##### <a id="16"></a>16  Keeping responsible Minister and Finance Minister informed
 
@@ -702,6 +696,8 @@ Note:          This subsection is a civil penalty provision (s
 
              (4)  A provision in the authority’s enabling legislation to the effect that the authority must not enter into a contract involving the expenditure or payment of more than a specified amount of money without the approval of a specified person does not apply to a contract for the investment of money under subsection (3), unless the provision expressly states that it applies to such a contract.
 
+          (4A)  The Finance Minister may, by written instrument, delegate any of the Finance Minister’s powers or functions under this section to an official (within the meaning of the _Financial Management and Accountability Act 1997_). In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
+
              (5)  In this section:
 
                     <a name="surplu-monei"></a>**_surplus money_** means money of the authority that is not immediately required for the purposes of the authority.
@@ -776,7 +772,7 @@ Note:          This subsection is a civil penalty provision (s
 
 Business judgment rule
 
-             (2)  An officer of a Commonwealth authority who makes a business judgment is taken to meet the requirements of subsection (1), and their equivalent duties under the general law, in respect of the judgment if he or she:
+             (2)  An officer of a Commonwealth authority who makes a business judgment is taken to meet the requirements of subsection (1), and their equivalent duties at common law and in equity, in respect of the judgment if he or she:
 
                      (a)  makes the judgment in good faith for a proper purpose; and
 
@@ -788,7 +784,7 @@ Business judgment rule
 
 The officer’s belief that the judgment is in the best interests of the Commonwealth authority is a rational one unless the belief is one that no reasonable person in his or her position would hold.
 
-Note:          This subsection only operates in relation to duties under this section and their equivalents under the general law (including the duty of care that arises under the common law principles governing liability for negligence)—it does not operate in relation to duties under any other provision of this Act or under any other laws.
+Note:          This subsection only operates in relation to duties under this section and their equivalents at common law or in equity (including the duty of care that arises under the common law principles governing liability for negligence)—it does not operate in relation to duties under any other provision of this Act or under any other laws.
 
              (3)  In this section:
 
@@ -900,7 +896,7 @@ Use of information—officers and employees
 
                     Penalty for a contravention of this subsection: 2,000 penalty units or imprisonment for 5 years, or both.
 
-##### <a id="27A"></a>27A  Compliance with statutory and other duties [_see_ Note 2]
+##### <a id="27A"></a>27A  Compliance with statutory and other duties
 
              (1)  An officer of a Commonwealth authority does not contravene section 23, 24 or 25, or their equivalent duties at common law and in equity, by doing an act:
 
@@ -924,7 +920,7 @@ Note:          Subsection (1) provides a defence for a defen
 
                      (b)  do not prevent the commencement of proceedings for a breach of duty or in respect of a liability referred to in paragraph (a).
 
-This section does not apply to subsections 22(2) and (3) to the extent to which they operate on the duties under the general law that are equivalent to the requirements of subsection 22(1).
+This section does not apply to subsections 22(2) and (3) to the extent to which they operate on the duties at common law and in equity that are equivalent to the requirements of subsection 22(1).
 
 ##### <a id="27C"></a>27C  Disqualification order for contravention of civil penalty provision
 
@@ -994,7 +990,7 @@ Note:          A defendant bears an evidential burden in relat
 
 the director’s reliance on the information or advice is taken to be reasonable unless the contrary is proved.
 
-##### <a id="27E"></a>27E  Responsibility for actions of directors delegate
+##### <a id="27E"></a>27E  Responsibility for actions of delegate
 
              (1)  If the directors of a Commonwealth authority delegate a power under its enabling legislation, a director is responsible for the exercise of the power by the delegate as if the power had been exercised by the directors themselves.
 
@@ -1404,36 +1400,6 @@ Note:          This is a civil penalty provision (see Schedule
 
                     <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
-## Part 3A—Interjurisdictional authorities
-
-##### <a id="33A"></a>33A  Interjurisdictional authorities
-
-             (1)  The regulations may prescribe:
-
-                     (a)  a Commonwealth authority to be an interjurisdictional authority for the purposes of this section; and
-
-                     (b)  persons who comprise an interjurisdictional authority (including directors and employees, for example); and
-
-                     (c)  a Minister of a State, the Australian Capital Territory, or the Northern Territory to be a State/Territory Minister for an interjurisdictional authority.
-
-             (2)  The regulations may provide for the following:
-
-                     (a)  the directors of an interjurisdictional authority to give an interim report, for a period mentioned in subsection 13(1), to a State/Territory Minister;
-
-                     (b)  the directors of an interjurisdictional authority to give written particulars of a proposal mentioned in subsection 15(1) to a State/Territory Minister;
-
-                     (c)  a State/Territory Minister to give written guidelines under subsection 15(2) to the directors of an interjurisdictional authority;
-
-                     (d)  the directors of an interjurisdictional authority:
-
-                              (i)  to keep a State/Territory Minister informed of the operations of the authority and its subsidiaries; or
-
-                             (ii)  to give a State/Territory Minister the reports, documents and information in relation to those operations that the State/Territory Minister requires, within the time limits set by the State/Territory Minister;
-
-                     (e)  the application of section 27A, with necessary modifications, to an officer or employee of a State or Territory;
-
-                      (f)  anything that is necessary or convenient to be prescribed to give effect to paragraphs (a) to (e).
-
 ## Part 4—Reporting and other obligations for Commonwealth companies
 
 ### Division 1—Preliminary
@@ -1606,7 +1572,9 @@ Note:          This is a civil penalty provision (see Schedule
 
                       (f)  make a significant change in the nature or extent of its interest in a significant partnership, trust, unincorporated joint venture or similar arrangement.
 
-             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered bysubsection (1).
+             (2)  The responsible Minister may in writing exempt the directors of a Commonwealth company from the requirement to notify matters covered by paragraph (1)(a). The exemption may be granted subject to conditions.
+
+             (3)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered by paragraph (1)(b), (c), (d), (e) or (f).
 
 ##### <a id="41"></a>41  Keeping responsible Minister and Finance Minister informed
 
@@ -1622,7 +1590,7 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="42"></a>42  Corporate plan for GBE
 
-             (1)  This section applies to a wholly-owned Commonwealth company that is a GBE.
+             (1)  This section applies to a wholly-owned  Commonwealth company that is a GBE.
 
              (2)  The directors must prepare a corporate plan at least once a year and give it to the responsible Minister.
 
@@ -1686,6 +1654,26 @@ Note:          This is a civil penalty provision (see Schedule
 
 ## Part 5—Miscellaneous
 
+##### <a id="45"></a>45  Ministers must inform Parliament of share acquisitions etc.
+
+             (1)  The Minister who has the responsibility for any of the following events must table a notice of the event in each House of the Parliament as soon as practicable after the event happens:
+
+                     (a)  the Commonwealth forms, or participates in forming, a company;
+
+                     (b)  the Commonwealth acquires shares in a company (either by purchase or subscription) or disposes of shares in a company;
+
+                     (c)  the Commonwealth becomes a member of a company;
+
+                     (d)  a variation occurs in the rights attaching to company shares held by the Commonwealth;
+
+                     (e)  a variation occurs in the Commonwealth’s rights as a member of a company;
+
+                      (f)  the Commonwealth ceases to be a member of a company.
+
+             (2)  The notice must include the particulars required by the regulations.
+
+             (3)  This section does not apply to anything that results from the transfer to a Minister of any property that is to be dealt with as unclaimed property under Part 9.7 of the _Corporations Act 2001_.
+
 ##### <a id="46"></a>46  Companies conducted for the purposes of intelligence or security agencies
 
              (1)  The application of this Act to a company conducted for the purposes of an intelligence or security agency is subject to any modifications that are prescribed by the regulations.
@@ -1696,7 +1684,7 @@ Note:          This is a civil penalty provision (see Schedule
 
                     <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
-##### <a id="47"></a>47  Regulations may deal with how this Act applies if body stops being a Commonwealth authority
+##### <a id="47"></a>47  Regulations may deal with how this Act applies if body stops being a Commonwealth authority
 
              (1)  The regulations may make provision dealing with how this Act applies in relation to a financial year of a body that ceases to be a Commonwealth authority during the financial year.
 
@@ -1716,11 +1704,9 @@ Note:          This is a civil penalty provision (see Schedule
 
              (6)  The directors must also ensure, as far as practicable, that the directions are complied with by the subsidiaries of the authority or company.
 
-          (6A)  The Finance Minister’s directions are legislative instruments, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ apply to the directions.
-
              (7)  In this section:
 
-                    <a name="commonwealth-procur-guidelin"></a>**_Commonwealth Procurement Guidelines_** means the guidelines relating to procurement issued under regulations made under the _Financial Management and Accountability Act 1997_.
+                    <a name="commonwealth-procur-guidelin"></a>**_Commonwealth Procurement Guidelines_** means the guidelines relating to procurement issued under the _Financial Management and Accountability Regulation__s 1__997_.
 
 ##### <a id="48"></a>48  Finance Minister’s Orders
 
@@ -1772,31 +1758,11 @@ then that part of the Order does not apply to those specified authorities or com
 
 General Policy Orders not subject to disallowance or sunsetting
 
-             (5)  A General Policy Order is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to it.
+             (5)  A General Policy Order is a legislative instrument, but neither section 42 nor Part 6 of the _Legislative Instruments Act 2003_ applies to it.
 
 General Policy Orders not to create offences or penalties
 
              (6)  A General Policy Order cannot create offences or impose penalties.
-
-##### <a id="48B"></a>48B  Delegation by Minister
-
-             (1)  A Minister may, by written instrument, delegate any of the Minister’s powers or functions under the following provisions of this Act to a Secretary of a Department within the meaning of the _Public Service Act 1999_:
-
-                     (a)  section 14 (Estimates);
-
-                     (b)  paragraphs 16(1)(b) and (c) (Keeping responsible Minister and Finance Minister informed);
-
-                     (c)  subsection 16(2) (Keeping responsible Minister and Finance Minister informed);
-
-                     (d)  paragraph 18(3)(d) (Banking and investment (authorities other than GBEs and SMAs));
-
-                     (e)  section 39 (Estimates);
-
-                      (f)  paragraphs 41(1)(b) and (c) (Keeping responsible Minister and Finance Minister informed);
-
-                     (g)  subsection 41(2) (Keeping responsible Minister and Finance Minister informed).
-
-             (2)  In exercising powers or functions under a delegation, the Secretary must comply with the Minister’s directions.
 
 ##### <a id="49"></a>49  Regulations
 
@@ -2302,7 +2268,7 @@ despite its repeal.
 
 The _Commonwealth Authorities and Companies Act 1997_ as shown in this compilation comprises Act No. 153, 1997 amended as indicated in the Tables below.
 
-The _Commonwealth Authorities and Companies Act 1997_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (1999 No. 301 as amended by 2000 No. 332). The amendments are incorporated in this compilation.
+The _Commonwealth Authorities and Companies Act 1997_ was amended by the _Public Employment (Consequential and Transitional) Regulation__s 1__999_ (1999 No. 301 as amended by 2000 No. 332). The amendments are incorporated in this compilation.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -2594,7 +2560,7 @@ Schedule 1 (items 51, 52): <i>(f)</i></div>
     <div>17 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 5: 1 Mar 2011 ( <i>see</i>F2011L00245)</div>
+    <div>Schedule 5: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2607,7 +2573,7 @@ _(a)_     The _Commonwealth Authorities and Companies Act 1997_ was amen
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(b)_     The _Commonwealth Authorities and Companies Act 1997_ was amended by Schedule 5 (items 2–12) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2) of which provides as follows:
+_(b)_    The _Commonwealth Authorities and Companies Act 1997_ was amended by Schedule 5 (items 2–12) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
@@ -2846,8 +2812,8 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2886,7 +2852,7 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 156, 1999; No. 55, 2001; No. 20, 2008; No. 148, 2010</div>
+    <div>am. No. 156, 1999; No. 55, 2001; No. 20, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2963,14 +2929,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Note to s. 9(2)(a)</div>
-  </td>
-  <td>
-    <div>ad. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 11</div>
   </td>
   <td>
@@ -2987,22 +2945,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -3014,7 +2956,7 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 8, 2005; No. 20, 2008; No. 148, 2010</div>
+    <div>am. No. 8, 2005; No. 20, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3071,22 +3013,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>rs. No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 22(2)</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3235,14 +3161,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 27C</div>
   </td>
   <td>
@@ -3271,14 +3189,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>am. No. 20, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 27E</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3443,30 +3353,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Part 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33A</div>
-  </td>
-  <td>
-    <div>ad. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -3547,22 +3433,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision C</b></div>
   </td>
   <td>
@@ -3603,26 +3473,10 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 47A</div>
   </td>
   <td>
     <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3639,22 +3493,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>ad. No. 20, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48B</div>
-  </td>
-  <td>
-    <div>ad. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3924,9 +3762,41 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 
 ### Note 2
 
-Subsection 27A(1) and 27A(1) (note)—Schedule 5 (items 7 and 8) of the _Financial Framework Legislation Amendment Act 2010_ (No. 148, 2010) provide as follows:
+_Financial Framework Legislation Amendment Act 2010 (No. 148, 2010)_
 
-## Schedule 5
+The following amendments commence on 17 December 2011 unless proclaimed earlier:
+
+## Schedule 5
+
+## 1  Section 5
+
+Insert:
+
+                    <a name="gener-law"></a>**_general law_** means the principles and rules of the common law and equity.
+
+## 2  At the end of paragraph 9(2)(a)
+
+Add:
+
+Note:       The deadline will be 15 October if the financial year ends on 30 June. Financial year is defined in section 5.
+
+## 3  Subsections 15(2) and (3)
+
+Repeal the subsections, substitute:
+
+             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered bysubsection (1).
+
+## 4  Subsection 18(4A)
+
+Repeal the subsection.
+
+## 5  Subsection 22(2)
+
+Omit “at common law and in equity”, substitute “under the general law”.
+
+## 6  Subsection 22(2) (note)
+
+Omit “at common law or in equity”, substitute “under the general law”.
 
 ## 7  Subsection 27A(1)
 
@@ -3936,7 +3806,95 @@ Omit “at common law or in equity”, substitute “under the general law”.
 
 Omit “at common law and in equity”, substitute “under the general law”.
 
-The proposed amendments were misdescribed and are not incorporated in this compilation.
+## 9  Section 27B
+
+Omit “at common law and in equity”, substitute “under the general law”.
+
+_Note:       The heading to section 27E is altered by inserting “directors’” before “delegate”._
+
+## 10  After Part 3
+
+Insert:
+
+## Part 3A—Interjurisdictional authorities
+
+##### <a id="33A"></a>33A  Interjurisdictional authorities
+
+             (1)  The regulations may prescribe:
+
+                     (a)  a Commonwealth authority to be an interjurisdictional authority for the purposes of this section; and
+
+                     (b)  persons who comprise an interjurisdictional authority (including directors and employees, for example); and
+
+                     (c)  a Minister of a State, the Australian Capital Territory, or the Northern Territory to be a State/Territory Minister for an interjurisdictional authority.
+
+             (2)  The regulations may provide for the following:
+
+                     (a)  the directors of an interjurisdictional authority to give an interim report, for a period mentioned in subsection 13(1), to a State/Territory Minister;
+
+                     (b)  the directors of an interjurisdictional authority to give written particulars of a proposal mentioned in subsection 15(1) to a State/Territory Minister;
+
+                     (c)  a State/Territory Minister to give written guidelines under subsection 15(2) to the directors of an interjurisdictional authority;
+
+                     (d)  the directors of an interjurisdictional authority:
+
+                              (i)  to keep a State/Territory Minister informed of the operations of the authority and its subsidiaries; or
+
+                             (ii)  to give a State/Territory Minister the reports, documents and information in relation to those operations that the State/Territory Minister requires, within the time limits set by the State/Territory Minister;
+
+                     (e)  the application of section 27A, with necessary modifications, to an officer or employee of a State or Territory;
+
+                      (f)  anything that is necessary or convenient to be prescribed to give effect to paragraphs (a) to (e).
+
+## 11  Subsections 40(2) and (3)
+
+Repeal the subsections, substitute:
+
+             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered bysubsection (1).
+
+## 12  Section 45
+
+Repeal the section.
+
+## 13  After subsection 47A(6)
+
+Insert:
+
+          (6A)  The Finance Minister’s directions are legislative instruments, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ apply to the directions.
+
+## 14  Subsection 47A(7)
+
+Omit “the _Financial Management and Accountability Regulations 1997_”, substitute “regulations made under the _Financial Management and Accountability Act 1997_”.
+
+## 15  Subsection 48A(5)
+
+Omit “nor Part 6”, substitute “(disallowance) nor Part 6 (sunsetting)”.
+
+## 16  After section 48A
+
+Insert:
+
+##### <a id="48B"></a>48B  Delegation by Minister
+
+             (1)  A Minister may, by written instrument, delegate any of the Minister’s powers or functions under the following provisions of this Act to a Secretary of a Department within the meaning of the _Public Service Act 1999_:
+
+                     (a)  section 14 (Estimates);
+
+                     (b)  paragraphs 16(1)(b) and (c) (Keeping responsible Minister and Finance Minister informed);
+
+                     (c)  subsection 16(2) (Keeping responsible Minister and Finance Minister informed);
+
+                     (d)  paragraph 18(3)(d) (Banking and investment (authorities other than GBEs and SMAs));
+
+                     (e)  section 39 (Estimates);
+
+                      (f)  paragraphs 41(1)(b) and (c) (Keeping responsible Minister and Finance Minister informed);
+
+                     (g)  subsection 41(2) (Keeping responsible Minister and Finance Minister informed).
+
+             (2)  In exercising powers or functions under a delegation, the Secretary must comply with the Minister’s directions.
+
+As at 24 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3948,7 +3906,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -3956,7 +3914,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -3973,17 +3931,17 @@ _Commonwealth Authorities and Companies Amendment Act 2008
 
 ## 70  Application of amendments
 
-(1)       The amendments made by items 14 to 18, 46 to 48, 57 (in so far as the amendment made by that item relates to Commonwealth companies), 58 to 66 and 68 of this Schedule apply in relation to annual reports of a Commonwealth authority or Commonwealth company for financial years of the Commonwealth authority or Commonwealth company that commence on or after the commencement of this item.
+(1)        The amendments made by items 14 to 18, 46 to 48, 57 (in so far as the amendment made by that item relates to Commonwealth companies), 58 to 66 and 68 of this Schedule apply in relation to annual reports of a Commonwealth authority or Commonwealth company for financial years of the Commonwealth authority or Commonwealth company that commence on or after the commencement of this item.
 
-(2)       The amendments made by items 21 and 49 of this Schedule apply in relation to Auditor-General’s reports on financial statements of a subsidiary of a Commonwealth authority or Commonwealth company for the subsidiary’s annual accounting periods that commence on or after the commencement of this item.
+(2)        The amendments made by items 21 and 49 of this Schedule apply in relation to Auditor-General’s reports on financial statements of a subsidiary of a Commonwealth authority or Commonwealth company for the subsidiary’s annual accounting periods that commence on or after the commencement of this item.
 
-(3)       The amendments made by items 24 and 57 (in so far as the amendment made by that item relates to Commonwealth authorities) of this Schedule apply in relation to accounting records of a Commonwealth authority for financial years of the Commonwealth authority that commence on or after the commencement of this item.
+(3)        The amendments made by items 24 and 57 (in so far as the amendment made by that item relates to Commonwealth authorities) of this Schedule apply in relation to accounting records of a Commonwealth authority for financial years of the Commonwealth authority that commence on or after the commencement of this item.
 
 ## 71  Transitional provision—general policy notifications for Commonwealth authorities
 
 Application of this item
 
-(1)       This item applies to a notification (a **_section 28 notification_**) that:
+(1)        This item applies to a notification (a **_section 28 notification_**) that:
 
                      (a)  was given to a Commonwealth authority under section 28 of the _Commonwealth Authorities and Companies Act 1997_ before the commencement of this item; and
 
@@ -3991,21 +3949,21 @@ Application of this item
 
 Section 28 notification to continue in force
 
-(2)       Despite the repeal of that section made by this Schedule, a section 28 notification continues in force, and may be dealt with, after the commencement of this item as if that section had not been repealed.
+(2)        Despite the repeal of that section made by this Schedule, a section 28 notification continues in force, and may be dealt with, after the commencement of this item as if that section had not been repealed.
 
 When section 28 notification ceases to be in force
 
-(3)       If a determination is made under item 73 that all notifications about a particular general policy cease to be in force, then a section 28 notification about that general policy ceases to be in force when the determination takes effect.
+(3)        If a determination is made under item 73 that all notifications about a particular general policy cease to be in force, then a section 28 notification about that general policy ceases to be in force when the determination takes effect.
 
 When part of section 28 notification ceases to be in force
 
-(4)       If a determination is made under item 73 that a part of all notifications about a particular general policy ceases to be in force, then that part of a section 28 notification about that policy ceases to be in force when the determination takes effect.
+(4)        If a determination is made under item 73 that a part of all notifications about a particular general policy ceases to be in force, then that part of a section 28 notification about that policy ceases to be in force when the determination takes effect.
 
-## 72  Transitional provision—general policy notifications for wholly-owned Commonwealth company
+## 72  Transitional provision—general policy notifications for wholly-owned  Commonwealth company
 
 Application of this item
 
-(1)       This item applies to a notification (a **_section 43 notification_**) that:
+(1)        This item applies to a notification (a **_section 43 notification_**) that:
 
                      (a)  was given to a wholly-owned Commonwealth company under section 43 of the _Commonwealth Authorities and Companies Act 1997_ before the commencement of this item; and
 
@@ -4013,25 +3971,25 @@ Application of this item
 
 Section 43 notification to continue in force
 
-(2)       Despite the repeal of that section made by this Schedule, a section 43 notification continues in force, and may be dealt with, after the commencement of this item as if that section had not been repealed.
+(2)        Despite the repeal of that section made by this Schedule, a section 43 notification continues in force, and may be dealt with, after the commencement of this item as if that section had not been repealed.
 
 When section 43 notification ceases to be in force
 
-(3)       If a determination is made under item 73 that all notifications about a particular general policy cease to be in force, then a section 43 notification about that general policy ceases to be in force when the determination takes effect.
+(3)        If a determination is made under item 73 that all notifications about a particular general policy cease to be in force, then a section 43 notification about that general policy ceases to be in force when the determination takes effect.
 
 When part of section 43 notification ceases to be in force
 
-(4)       If a determination is made under item 73 that a part of all notifications about a particular general policy ceases to be in force, then that part of a section 43 notification about that policy ceases to be in force when the determination takes effect.
+(4)        If a determination is made under item 73 that a part of all notifications about a particular general policy ceases to be in force, then that part of a section 43 notification about that policy ceases to be in force when the determination takes effect.
 
 ## 73  Determinations cancelling the whole or part of section 28 notifications and section 43 notifications
 
-(1)       This item applies to notifications that are continued in force by subitem 71(2) or 72(2).
+(1)        This item applies to notifications that are continued in force by subitem 71(2) or 72(2).
 
-(2)       The Finance Minister may, by legislative instrument, make a determination that all notifications about a particular general policy of the Australian Government cease to be in force.
+(2)        The Finance Minister may, by legislative instrument, make a determination that all notifications about a particular general policy of the Australian Government cease to be in force.
 
-(3)       The Finance Minister may make a determination that a part of all notifications about a particular general policy of the Australian Government ceases to be in force.
+(3)        The Finance Minister may make a determination that a part of all notifications about a particular general policy of the Australian Government ceases to be in force.
 
-(4)       A determination made under subitem (2) or (3) is a legislative instrument, but neither section 42 nor Part 6 of the _Legislative Instruments Act 2003_ applies to the determination.
+(4)        A determination made under subitem (2) or (3) is a legislative instrument, but neither section 42 nor Part 6 of the _Legislative Instruments Act 2003_ applies to the determination.
 
 ## 74  Transitional provision—general policy notifications
 
