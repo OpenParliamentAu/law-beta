@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00190/Html/38cb289c-d3e8-4b29-9a92-e86f435329c8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00108/Html/93a89d02-cfec-4e25-88a5-7019a36c2331_files/image001.gif)
 
 # Shipping Registration Act 1981
 
 **Act No. 8 of 1981 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 13 January 2012
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -100,7 +100,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [33](#33).          Concealing Australian nationality
 
-**Part III—Transfers, transmissions, security interests and other dealings**
+**Part III—Transfers, transmissions and mortgages**
 
 [34](#34).          Interpretation
 
@@ -109,6 +109,22 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [37](#37).          Transmission of ship etc  by operation of law
 
 [37A](#37A).       Delivery of registration certificate on transfer etc 
+
+[38](#38).          Mortgage of ship etc 
+
+[39](#39).          Priority of mortgages
+
+[40](#40).          Mortgage not to change ownership
+
+[41](#41).          Mortgagee to have power of disposal
+
+[42](#42).          Transfer of mortgage
+
+[43](#43).          Transmission of mortgage by operation of law
+
+[44](#44).          Discharge of mortgage
+
+[44A](#44A).       Voluntary closure of Register so far as it relates to a mortgage
 
 [45](#45).          Powers of disposal by owner
 
@@ -152,9 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [58](#58).          Obsolete or incorrect entries in Register
 
-[59](#59).          Rectification of Australian Register of Ships
-
-[59A](#59A).       Rectification of Personal Property Securities Register
+[59](#59).          Rectification of Register
 
 [60](#60).          Correction of clerical errors in Register
 
@@ -314,6 +328,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="master"></a>**_master_** includes a person having command or charge of a ship, but does not include a pilot.
 
+                    <a name="mortgag"></a>**_mortgage_** means a mortgage registered under section 38.
+
                     <a name="nation-flag"></a>**_national flag_** means the Australian National Flag within the meaning of the _Flags Act 1953_.
 
                     <a name="offenc-base"></a>**_offence based on_** a particular provision of this Act, being a provision in respect of which section 74 creates an offence, means an offence against section 74 that relates to that provision (unless the contrary intention appears).
@@ -325,16 +341,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="pilot"></a>**_pilot_** means a person who has the lawful conduct of a ship, but does not belong to the ship.
 
                     <a name="pleasur-craft"></a>**_pleasure craft_** means a ship that is used, or is intended to be used, wholly for recreational or sporting activities, whether or not let, or intended to be let, for hire or reward or consideration of any kind.
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies (other than a transitional security interest within the meaning of that Act).
-
-Note:          The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
 
                     <a name="previou-law"></a>**_previous law_** means Part I of the Imperial Act known as the Merchant Shipping Act, 1894, as amended, or otherwise affected in its operation, by the provisions of any other Imperial Act or of any Act, in so far as that Part as so amended, or otherwise affected in its operation, is part of the law of the Commonwealth.
 
@@ -538,7 +544,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
 ##### <a id="15"></a>15  Application for registration
 
-                   Subject to this Part, an application for the registration of a ship shall be made in accordance with the regulations.
+                   Subject to this Part, an application for the registration of a ship shall be made in accordance with the regulations.
 
 ##### <a id="16"></a>16  Tonnage measurement of ship before registration
 
@@ -908,7 +914,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-## Part III—Transfers, transmissions, security interests and other dealings
+## Part III—Transfers, transmissions and mortgages
 
 ##### <a id="34"></a>34  Interpretation
 
@@ -990,6 +996,82 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                      (b)  cause the endorsed certificate to be returned to the registered agent of the ship or to such other person as the registered agent directs.
 
+##### <a id="38"></a>38  Mortgage of ship etc.
+
+             (1)  A ship or a share in a ship may be made a security for the discharge of an obligation by way of a mortgage under this Act.
+
+             (2)  The instrument of such a mortgage shall be made in accordance with the regulations.
+
+             (3)  As soon as practicable after the lodgment of a mortgage instrument so made, the Registrar shall register the mortgage by entering particulars of the mortgage in the Register and shall endorse on the instrument the fact of the entry having been made, together with the date and time of the making of the entry.
+
+             (4)  Mortgage instruments lodged under this section shall be registered in the order of their lodgment.
+
+##### <a id="39"></a>39  Priority of mortgages
+
+                   Where 2 or more mortgages are registered in respect of the same ship or share in a ship, the priority among the mortgagees is in accordance with the order of registration of the mortgages, irrespective of the dates upon which they were made or executed and notwithstanding any express, implied or constructive notice.
+
+##### <a id="40"></a>40  Mortgage not to change ownership
+
+                   A mortgage of a ship or of a share in a ship does not have the effect of the mortgagee becoming, or the mortgagor ceasing to be, owner of the ship or share except to the extent necessary to make the ship or share available as a security under the mortgage.
+
+##### <a id="41"></a>41  Mortgagee to have power of disposal
+
+             (1)  A mortgagee of a ship or of a share in a ship has power absolutely to dispose of the ship or share and to give effectual receipts in respect of the disposal, but where there are 2 or more mortgages of the same ship or share, a subsequent mortgagee shall not, except under the order of a court of competent jurisdiction, dispose of the ship or share without the consent of every prior mortgagee.
+
+             (2)  A mortgagee of a ship or of a share in a ship who intends to dispose of the ship or the share shall not dispose of the ship or share unless he or she has first given notice in writing to the Registrar of his or her intention so to dispose of the ship or share.
+
+             (3)  Where the Registrar is notified by a mortgagee of the intention of that mortgagee to dispose of a ship or of a share in a ship, the Registrar shall forthwith inform the subsequent mortgagee (if any) or each subsequent mortgagee (if more than one) of that ship or share whose interest in that ship or share is entered in the Register of the matter so notified to him or her.
+
+             (4)  The disposal of a ship or of a share in a ship is not invalidated because of any failure to comply with a requirement of subsection (2) in relation to the disposal.
+
+##### <a id="42"></a>42  Transfer of mortgage
+
+             (1)  A mortgage of a ship or of a share in a ship may be transferred by an instrument of transfer made in accordance with the regulations.
+
+             (2)  Where a mortgage is so transferred, the instrument of transfer of the mortgage shall be lodged by the person to whom the mortgage has been transferred with the Registrar within 14 days of its having been so executed or within such longer period as the Registrar, in special circumstances, allows.
+
+          (2A)  The Registrar shall, as soon as practicable after the lodgment of the instrument of transfer of the mortgage, enter in the Register the name of the transferee as the mortgagee of the ship or share the subject of the mortgage and endorse on the instrument the fact of the entry having been made, together with the date and time of the making of the entry.
+
+##### <a id="43"></a>43  Transmission of mortgage by operation of law
+
+             (1)  Where the interest of a mortgagee in a mortgage of a ship or of a share in a ship is transmitted to a person by any lawful means other than by a transfer under section 42, a declaration of transmission made by that person in accordance with the regulations, together with such evidence of the transmission as is prescribed, shall be lodged by that person with the Registrar within 14 days of that interest being transmitted to that person or within such longer period as the Registrar, in special circumstances, allows.
+
+             (2)  The Registrar shall, as soon as practicable after the lodgment by a person of a declaration of transmission of the interest of a mortgagee in a mortgage of a ship or a share in a ship, together with such evidence of the transmission as is prescribed, enter in the Register the name of that person as mortgagee of the ship or share.
+
+##### <a id="44"></a>44  Discharge of mortgage
+
+             (1)  Where a mortgage is discharged, the mortgage instrument together with such evidence of the discharge of the mortgage as is prescribed shall be lodged by the mortgagor with the Registrar within 14 days after the discharge or within such longer period as the Registrar, in special circumstances, allows.
+
+             (2)  The Registrar shall, as soon as practicable after the lodgment by the mortgagor of the mortgage instrument, together with such evidence of the discharge of the mortgage as is prescribed, make an entry in the Register to the effect that the mortgage has been discharged and, on that entry being made, any interest of the mortgagee under the mortgage vests in the mortgagor.
+
+             (3)  Where the mortgage instrument cannot, for any reason, be lodged with the Registrar, there shall be lodged by the mortgagor with the Registrar, in substitution for the mortgage instrument and such evidence of the discharge of the mortgage as is prescribed for the purposes of subsection (1), a declaration by the mortgagee setting out such particulars relating to the ship in respect of which the mortgage was given, the mortgage and its discharge as are prescribed for the purposes of this subsection.
+
+             (4)  In this section, **_mortgagor_**, in relation to a ship or a share in a ship, includes any person in whom, having regard to any intervening acts and circumstances, the interest of the mortgagee would have been vested if the mortgage had not been made.
+
+##### <a id="44A"></a>44A  Voluntary closure of Register so far as it relates to a mortgage
+
+             (1)  If:
+
+                     (a)  a ship is registered under this Act; and
+
+                     (b)  particulars of a mortgage of a ship or of a share in the ship have been entered on the Register; and
+
+                     (c)  the mortgage is not discharged;
+
+the mortgagee may, despite the fact that the mortgage is not discharged, at any time, make a written application to the Registrar to close the registration of the ship, so far as it relates to that mortgage.
+
+             (2)  The mortgagee must ensure that the application is accompanied by the mortgage instrument.
+
+             (3)  If the mortgage instrument cannot, for any reason, be lodged with the Registrar, the mortgagee must lodge with the Registrar, in substitution for the mortgage instrument, a declaration by the mortgagee setting out such particulars relating to the mortgage as are prescribed for the purposes of this subsection.
+
+             (4)  The Registrar must, on receipt of an application under subsection (1):
+
+                     (a)  amend the Register; and
+
+                     (b)  endorse the mortgage, or the declaration lodged in substitution for the mortgage;
+
+to indicate the closure of the registration of the ship, so far as it relates to the mortgage that is the subject of the application.
+
 ##### <a id="45"></a>45  Powers of disposal by owner
 
                    The owner of a ship or of a share in a ship has power, subject to this Act and to any rights and powers appearing in the Register to be vested in any other person, absolutely to dispose of the ship or share and to give effectual receipts in respect of the disposal.
@@ -1000,13 +1082,11 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
 ##### <a id="47"></a>47  Equities not excluded
 
-                   Subject to sections 45 and 46, beneficial interests may be enforced by or against the owner or mortgagee of a ship or of a share in a ship in respect of his or her interest in the ship or share in the same manner as in respect of any other personal property.
+                   Subject to sections 41, 45 and 46, beneficial interests may be enforced by or against the owner or mortgagee of a ship or of a share in a ship in respect of his or her interest in the ship or share in the same manner as in respect of any other personal property.
 
 ##### <a id="47A"></a>47A  Caveat may be lodged forbidding registration of certain instruments
 
              (1)  A person claiming an interest in a ship or in a share in a ship under any unregistered instrument, or by operation of law or otherwise, may lodge with the Registrar a caveat in accordance with the prescribed form forbidding the entry in the Register of any instrument relating to any dealing with that ship or share until after notice of the intended dealing is given to the caveator.
-
-          (1A)  Subsection (1) does not apply to an interest in a ship, or in a share in a ship, that is a PPSA security interest.
 
              (2)  Every caveat shall state the name and address of the caveator and shall contain a sufficient description to identify the ship or the share in the ship in which the caveator claims an interest and the interest claimed by the caveator and shall be signed by the caveator or by his or her solicitor or agent.
 
@@ -1040,9 +1120,9 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
              (1)  Upon entry in the Register of a caveat, the Registrar shall notify particulars of the caveat:
 
-                     (a)  if the caveat relates to the ship—to the person or each person entered in the Register as an owner or part owner of the ship; and
+                     (a)  if the caveat relates to the ship—to the person or each person entered in the Register as an owner or part owner, or as a mortgagee, of the ship; and
 
-                     (b)  if the caveat relates to a share in the ship—to the person or each person entered in the Register as an owner or part owner of that share.
+                     (b)  if the caveat relates to a share in the ship—to the person or each person entered in the Register as an owner or part owner, or as a mortgagee, of that share.
 
              (2)  Any person notified, or required to be notified under subsection (1), of the entry in the Register of a caveat may, if he or she thinks fit, summon the caveator to attend before the Supreme Court of a State or Territory to show cause why the caveat should not be removed.
 
@@ -1064,7 +1144,11 @@ has applied for the registration of any dealing with the ship or share.
 
              (2)  Subsection (1) shall not operate to prevent the entry in the Register of a dealing with a ship or a share in a ship which, when the caveat was lodged with the Registrar, had previously been lodged with the Registrar in a form satisfactory for entry in the Register.
 
-             (3)  A caveat does not prevent the Registrar from entering in the Register the transmission of a ship, or of a share in a ship, to a person if the person becomes entitled to the transmission by operation of law, except to the extent that the caveat specifies otherwise.
+             (3)  Except to the extent that it otherwise specifies, a caveat shall not prevent the Registrar from entering in the Register:
+
+                     (a)  the transmission of a ship or of a share in a ship to a person where that person becomes so entitled by operation of law; or
+
+                     (b)  a dealing by a person as the mortgagee under a mortgage of a ship or a share in a ship, being a mortgage to the entry of which the caveator has consented or in respect of which the caveat has lapsed.
 
 ##### <a id="47E"></a>47E  Compensation for lodging caveat without reasonable cause
 
@@ -1164,7 +1248,7 @@ Note:          Since 1992 all entries in the Register have bee
 
                      (b)  the Registrar has reason to suspect that:
 
-                              (i)  any particulars entered in the Register in relation to the ship are incorrect;
+                              (i)  any particulars entered in the Register in relation to the ship, other than particulars relating to a mortgage, are incorrect;
 
                              (ii)  in relation to the ship, any notice, information or document in relation to which an entry in the Register is required by this Act to be made has not been lodged with the Registrar within the period referred to in paragraph (a); or
 
@@ -1184,11 +1268,11 @@ the Registrar shall inform the Authority of that failure or furnish that informa
 
              (3)  The Registrar shall comply with a direction given under subsection (2A) and, where the Authority directs the closure of the registration relating to a ship:
 
-                     (a)  if the Authority states in the direction that it is of the opinion that the ship has been lost (whether actually or constructively), taken by an enemy, burnt or broken up—the Registrar shall make an entry in the Register of that statement, and the registration of the ship shall thereupon be deemed to be closed; or
+                     (a)  if the Authority states in the direction that it is of the opinion that the ship has been lost (whether actually or constructively), taken by an enemy, burnt or broken up—the Registrar shall make an entry in the Register of that statement, and the registration of the ship shall thereupon be deemed to be closed except so far as it relates to any unsatisfied mortgage of the ship; or
 
                      (b)  in any other case—section 66 applies as if the ship had ceased to be entitled to be registered and the direction were a notice under subsection 66(1) stating that fact.
 
-##### <a id="59"></a>59  Rectification of Australian Register of Ships
+##### <a id="59"></a>59  Rectification of Register
 
              (1)  If:
 
@@ -1209,48 +1293,6 @@ whether or not by reason of a decision of an officer (including a decision that 
              (4)  Notice of an application under this section by a person aggrieved shall be served on the Registrar, who may appear and be heard, and shall appear if so directed by the Court.
 
              (5)  An office copy of an order under this section shall be served on the Registrar, and the Registrar shall, upon receipt of the order, rectify the Register accordingly.
-
-##### <a id="59A"></a>59A  Rectification of Personal Property Securities Register
-
-             (1)  This section applies if:
-
-                     (a)  a financing statement describing a ship, or a share in a ship, has been registered in the PPS Register; and
-
-                     (b)  any of the following circumstances apply (whether or not by reason of a decision of the PPS Registrar):
-
-                              (i)  data in relation to the financing statement (including the entire registration) has been removed from the PPS Register;
-
-                             (ii)  the financing statement, or a financing change statement to amend the financing statement, was wrongly registered, or was registered without sufficient cause;
-
-                            (iii)  there is an error, omission or other defect in the financing statement.
-
-             (2)  A person aggrieved by the circumstance or the PPS Registrar may apply to the Supreme Court of a State or Territory for rectification of the PPS Register.
-
-             (3)  Notice of an application under subsection (2) by a person aggrieved must be served on the PPS Registrar, who:
-
-                     (a)  may appear and be heard; and
-
-                     (b)  must appear if so directed by the Court.
-
-             (4)  On an application under subsection (2), the Court may make such order as it thinks fit directing the rectification of the PPS Register.
-
-             (5)  A Court may, in proceedings on an application under subsection (2), decide any question that it is necessary or expedient to decide in connection with the rectification of the PPS Register.
-
-             (6)  An office copy of an order under subsection (4) must be served on the PPS Registrar, and the PPS Registrar must, upon receipt of the order, rectify the PPS Register accordingly.
-
-             (7)  If the PPS Register is rectified under this section, but could have been similarly rectified under a provision of the _Personal Property Securities Act 2009_, that Act applies as if the PPS Register had been rectified under that provision of the _Personal Property Securities Act 2009_.
-
-Note:          The _Personal Property Securities Act 2009_ includes various rules about access to data in the PPS Register that has been the subject of rectification under that Act. Subsection (7) of this section ensures that those rules apply in relation to rectification under this Act as well.
-
-             (8)  In this section:
-
-                    <a name="financ-chang-statem"></a>**_financing change statement_** has the meaning given by the _Personal Property Securities Act 2009_.
-
-                    <a name="financ-statem"></a>**_financing statement_** has the meaning given by the _Personal Property Securities Act 2009_.
-
-                    <a name="pp-regist"></a>**_PPS Register_** means the Personal Property Securities Register established under section 147 of the _Personal Property Securities Act 2009_.
-
-                    <a name="pp-registrar"></a>**_PPS Registrar_** means the Registrar of Personal Property Securities appointed under section 194 of the _Personal Property Securities Act 2009_.
 
 ##### <a id="60"></a>60  Correction of clerical errors in Register
 
@@ -1386,11 +1428,37 @@ the owner of the ship must give notice in writing to the Registrar.
 
              (3)  Where an entry has been made in the Register under subsection (2) in respect of a ship:
 
-                     (a)  if the entry is in respect of a ship that has been lost (whether actually or constructively), taken by an enemy, burnt or broken up—the registration of the ship shall be deemed to be closed; and
+                     (a)  if the entry is in respect of a ship that has been lost (whether actually or constructively), taken by an enemy, burnt or broken up—the registration of the ship shall be deemed to be closed except so far as it relates to any unsatisfied mortgage of the ship; and
 
                      (b)  if the entry is in respect of a ship that has ceased to be entitled to be registered—the registration of the ship shall, subject to this section, be deemed to be closed.
 
+             (4)  Where a ship, in relation to which the Registrar has received notice under subsection (1) of an event referred to in paragraph (1)(a) or (b), is subject to an unsatisfied mortgage or mortgages:
+
+                     (a)  the registration of the ship, so far as it relates to the mortgage or mortgages, shall, subject to subsections (5) and (6), not be deemed to be closed; and
+
+                     (b)  the Registrar shall give notice in writing to the mortgagee, or each mortgagee, as the case may be, that he or she has received notice under subsection (1) of the event so referred to.
+
+             (5)  Subject to this section and to section 44A, where the Registrar gives a notice under subsection (4) to the mortgagee or mortgagees of a ship, the registration of the ship, so far as it relates to the mortgage or mortgages, shall be deemed to be closed at the expiration of a period of 60 days after the date of the notice.
+
+          (5A)  Nothing in subsection (5) prevents the closure of the registration of a ship, so far as it relates to a mortgage, before the expiration of a period of 60 days referred to in that subsection if the mortgagee has made an application for such a closure, under section 44A, before the expiration of that period.
+
+             (6)  Where a mortgagee who has received a notice under subsection (4) and who has not made an application under section 44A for closure of registration makes application to the Supreme Court of a State or Territory within the period of 60 days after the date of the notice or within such extended time as the Court, on application made either before or after the expiration of that period, allows, the Court may do all or any of the following, namely:
+
+                     (a)  order that the ship and the ship’s equipment be sold;
+
+                     (b)  make such other orders for and in relation to the distribution of the proceeds of the sale as it thinks fit; and
+
+                     (c)  make such orders and give such directions with respect to the closure of the registration of the ship as it thinks fit (including, in the case of an application for an extension of time, an order that the registration shall not be deemed to be closed for such period as the Court determines).
+
+             (7)  Notice of an application made under subsection (6) (including an application for an extension of time) shall be served on the Registrar.
+
+             (8)  An order under subsection (6) may be on such terms and conditions as to costs and otherwise as the Court thinks fit.
+
+             (9)  The Registrar shall give effect to any orders and directions given by the Court under this section so far as they relate to the Register.
+
            (10)  Where the registration of a ship is closed or deemed to be closed under this section, the person having possession of the registration certificate or provisional registration certificate relating to the ship shall deliver the certificate to the Registrar or a proper officer in accordance with the regulations.
+
+           (11)  Nothing in this section shall be taken to prejudice any rights of a mortgagee existing apart from this section.
 
 ##### <a id="67"></a>67  Power to inquire into ownership of registered ship
 
@@ -1490,11 +1558,11 @@ knowing it to be false or misleading in a material particular.
 
 ##### <a id="74"></a>74  Offences—general
 
-             (1)  A person who contravenes subsection 20(1) or (2), 21(6), 22(5), 26(3), 36(2) or 37(1), section 61 or subsection 65(5) or 66(10) is guilty of an offence.
+             (1)  A person who contravenes subsection 20(1) or (2), 21(6), 22(5), 24(1), 26(3), 36(2), 37(1), 41(2), 42(2), 43(1) or 44(1), section 61 or subsection 65(5) or 66(10) is guilty of an offence.
 
           (1A)  A person who contravenes subsection 37A(1) or (2), 64(2) or 66(1) is, in respect of each day on which the person contravenes the subsection (including the day of a conviction for an offence against this subsection or any subsequent day), guilty of an offence.
 
-             (2)  Where the owner of a ship is guilty of an offence against, or arising out of a contravention of, subsection 26(2), section 33, subsection 36(2), 37(1), 37A(1), 65(8) or 66(1) or section 72, the person who is the registered agent of the ship by virtue of paragraph 64(1)(a), (b) or (c) shall be deemed to be also guilty of that offence and is punishable accordingly.
+             (2)  Where the owner of a ship is guilty of an offence against, or arising out of a contravention of, subsection 26(2), section 33, subsection 36(2), 37(1), 37A(1), 41(2), 42(2), 43(1) or 44(1), subsection 65(8) or 66(1) or section 72, the person who is the registered agent of the ship by virtue of paragraph 64(1)(a), (b) or (c) shall be deemed to be also guilty of that offence and is punishable accordingly.
 
              (3)  Except where a provision of this Act otherwise provides, the punishment for an offence against this Act is:
 
@@ -1540,7 +1608,7 @@ knowing it to be false or misleading in a material particular.
 
                      (b)  if the offender is a body corporate—a fine not exceeding $5,000.
 
-##### <a id="76"></a>76  Joinder of charges and penalties for certain offences
+##### <a id="76"></a>76  Joinder of charges and penalties for certain offences
 
              (1)  Charges against the same person for any number of offences against subsection 26(2) or 65(8) may be joined in the same information or complaint if those offences relate to a failure to do the same act or thing.
 
@@ -1574,7 +1642,7 @@ knowing it to be false or misleading in a material particular.
 
 ##### <a id="79"></a>79  Preservation of State and Territory legislation
 
-                   This Act is not intended to exclude or limit the operation of any law of a State or Territory providing for the recording or registration of ships where the recording or registration is for a purpose other than the establishment of title, the transfer of title or the grant of nationality in relation to a ship.
+                   This Act is not intended to exclude or limit the operation of any law of a State or Territory providing for the recording or registration of ships where the recording or registration is for a purpose other than the establishment of title, the transfer of title, the registration of a mortgage, the transfer of a mortgage or the grant of nationality in relation to a ship.
 
 ##### <a id="80"></a>80  References in other laws
 
@@ -1588,11 +1656,11 @@ knowing it to be false or misleading in a material particular.
 
 ##### <a id="81"></a>81  Jurisdiction of Territory Supreme Courts
 
-                   Jurisdiction is conferred, to the extent that the Constitution permits, on the Supreme Court of each Territory to hear and determine applications made to that Court under sections 47B, 47C, 59 and 70.
+                   Jurisdiction is conferred, to the extent that the Constitution permits, on the Supreme Court of each Territory to hear and determine applications made to that Court under sections 47B, 47C, 59, 66 and 70.
 
 ##### <a id="82"></a>82  Appeals
 
-             (1)  An appeal lies to the Federal Court of Australia from a judgment or order of the Supreme Court of a State or Territory exercising jurisdiction under section 47B, 47C, 59 or 70.
+             (1)  An appeal lies to the Federal Court of Australia from a judgment or order of the Supreme Court of a State or Territory exercising jurisdiction under section 47B, 47C, 59, 66 or 70.
 
              (2)  An appeal lies to the High Court, with special leave of the High Court, from a judgment or order referred to in subsection (1).
 
@@ -2186,7 +2254,7 @@ Schedule 4 (item 6): 6 Oct 2006</div>
     <div>14 Dec 2009</div>
   </td>
   <td colspan="2">
-    <div>Schedule 3 (items 15–38): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 3 (items 15–38): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 
@@ -2446,7 +2514,7 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 141, 1987; No. 127, 1988; No. 78, 1990; No. 43, 1996; No. 146, 1999; No. 143, 2001; No. 131, 2009; No. 4, 2010</div>
+    <div>am. No. 16, 1984; No. 141, 1987; No. 127, 1988; No. 78, 1990; No. 43, 1996; No. 146, 1999; No. 143, 2001; No. 4, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2643,14 +2711,6 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 35</div>
   </td>
   <td>
@@ -2691,26 +2751,10 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div>Ss. 38–40</div>
-  </td>
-  <td>
-    <div>rep. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 41</div>
   </td>
   <td>
     <div>am. No. 16, 1984; No. 193, 1985; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2723,26 +2767,10 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 43, 44</div>
   </td>
   <td>
     <div>rs. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2755,18 +2783,10 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 131, 2009</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -2782,7 +2802,7 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div></div>
   </td>
   <td>
-    <div>am. No. 76, 1986; No. 43, 1996; No. 131, 2009</div>
+    <div>am. No. 76, 1986; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -2803,23 +2823,7 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div>S. 47D</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47E</div>
+    <div>Ss. 47D, 47E</div>
   </td>
   <td>
     <div>ad. No. 16, 1984</div>
@@ -2926,23 +2930,7 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 58</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 78, 1990; No. 43, 1996; No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 59</div>
-  </td>
-  <td>
-    <div>rs. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59A</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2009</div>
+    <div>am. No. 16, 1984; No. 78, 1990; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -2990,7 +2978,7 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 66</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 43, 1996; No. 143, 2001; No. 24, 2006; No. 131, 2009</div>
+    <div>am. No. 16, 1984; No. 43, 1996; No. 143, 2001; No. 24, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3046,7 +3034,7 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 74</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 193, 1985; No. 141, 1987; No. 57, 1988; No. 143, 2001; No. 131, 2009</div>
+    <div>am. No. 16, 1984; No. 193, 1985; No. 141, 1987; No. 57, 1988; No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3075,18 +3063,10 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 81, 82</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 131, 2009</div>
+    <div>am. No. 16, 1984</div>
   </td>
 </tr>
 <tr>
@@ -3154,6 +3134,149 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
   </td>
 </tr></table>
 
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009 
+ (No. 131, 2009)_
+
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 3
+
+## 15  Subsection 3(1) (definition of _mortgage_)
+
+Repeal the definition.
+
+## 16  Subsection 3(1)
+
+Insert:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies (other than a transitional security interest within the meaning of that Act).
+
+Note:          The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+## 17  Part III (heading)
+
+Repeal the heading, substitute:
+
+## Part III—Transfers, transmissions, security interests and other dealings
+
+## 18  Sections 38 to 44A
+
+Repeal the sections.
+
+## 19  Section 47
+
+Omit “41,”.
+
+## 20  After subsection 47A(1)
+
+Insert:
+
+          (1A)  Subsection (1) does not apply to an interest in a ship, or in a share in a ship, that is a PPSA security interest.
+
+## 21  Paragraphs 47B(1)(a) and (b)
+
+Omit “, or as a mortgagee,”.
+
+## 22  Subsection 47D(3)
+
+Repeal the subsection, substitute:
+
+             (3)  A caveat does not prevent the Registrar from entering in the Register the transmission of a ship, or of a share in a ship, to a person if the person becomes entitled to the transmission by operation of law, except to the extent that the caveat specifies otherwise.
+
+## 23  Subparagraph 58(1)(b)(i)
+
+Omit “, other than particulars relating to a mortgage,”.
+
+## 24  Paragraph 58(3)(a)
+
+Omit “except so far as it relates to any unsatisfied mortgage of the ship”.
+
+## 25  After section 59
+
+Insert:
+
+##### <a id="59A"></a>59A  Rectification of Personal Property Securities Register
+
+             (1)  This section applies if:
+
+                     (a)  a financing statement describing a ship, or a share in a ship, has been registered in the PPS Register; and
+
+                     (b)  any of the following circumstances apply (whether or not by reason of a decision of the PPS Registrar):
+
+                              (i)  data in relation to the financing statement (including the entire registration) has been removed from the PPS Register;
+
+                             (ii)  the financing statement, or a financing change statement to amend the financing statement, was wrongly registered, or was registered without sufficient cause;
+
+                            (iii)  there is an error, omission or other defect in the financing statement.
+
+             (2)  A person aggrieved by the circumstance or the PPS Registrar may apply to the Supreme Court of a State or Territory for rectification of the PPS Register.
+
+             (3)  Notice of an application under subsection (2) by a person aggrieved must be served on the PPS Registrar, who:
+
+                     (a)  may appear and be heard; and
+
+                     (b)  must appear if so directed by the Court.
+
+             (4)  On an application under subsection (2), the Court may make such order as it thinks fit directing the rectification of the PPS Register.
+
+             (5)  A Court may, in proceedings on an application under subsection (2), decide any question that it is necessary or expedient to decide in connection with the rectification of the PPS Register.
+
+             (6)  An office copy of an order under subsection (4) must be served on the PPS Registrar, and the PPS Registrar must, upon receipt of the order, rectify the PPS Register accordingly.
+
+             (7)  If the PPS Register is rectified under this section, but could have been similarly rectified under a provision of the _Personal Property Securities Act 2009_, that Act applies as if the PPS Register had been rectified under that provision of the _Personal Property Securities Act 2009_.
+
+Note:          The _Personal Property Securities Act 2009_ includes various rules about access to data in the PPS Register that has been the subject of rectification under that Act. Subsection (7) of this section ensures that those rules apply in relation to rectification under this Act as well.
+
+             (8)  In this section:
+
+                    <a name="financ-chang-statem"></a>**_financing change statement_** has the meaning given by the _Personal Property Securities Act 2009_.
+
+                    <a name="financ-statem"></a>**_financing statement_** has the meaning given by the _Personal Property Securities Act 2009_.
+
+                    <a name="pp-regist"></a>**_PPS Register_** means the Personal Property Securities Register established under section 147 of the _Personal Property Securities Act 2009_.
+
+                    <a name="pp-registrar"></a>**_PPS Registrar_** means the Registrar of Personal Property Securities appointed under section 194 of the _Personal Property Securities Act 2009_.
+
+_Note:       The heading to section 59 is replaced by the heading “Rectification of Australian Register of Ships”._
+
+## 26  Paragraph 66(3)(a)
+
+Omit “except so far as it relates to any unsatisfied mortgage of the ship”.
+
+## 27  Subsections 66(4) to (9) and (11)
+
+Repeal the subsections.
+
+## 28  Subsection 74(1)
+
+Omit “24(1), 26(3), 36(2), 37(1), 41(2), 42(2), 43(1) or 44(1)”, substitute “26(3), 36(2) or 37(1)”.
+
+## 29  Subsection 74(2)
+
+Omit “41(2), 42(2), 43(1) or 44(1), subsection”.
+
+## 30  Section 79
+
+Omit “, the registration of a mortgage, the transfer of a mortgage”.
+
+## 31  Section 81
+
+Omit “, 66”.
+
+## 32  Subsection 82(1)
+
+Omit “, 66”.
+
+As at 13 January 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3170,6 +3293,8 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 
 _Personal Property Securities (Consequential Amendments) Act 2009 
  (No. 131, 2009)_
+
+The following provisions commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
 
 ## Schedule 3
 
