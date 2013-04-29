@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00924/Html/c71dc082-8d6e-4562-addc-ed75c7de2d82_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00905/Html/7a2112c2-1b89-4cc3-a519-4f4436881bea_files/image001.gif)
 
 # Child Support (Registration and Collection) Act 1988
 
 **Act No. 3 of 1988 as amended**
 
-This compilation was prepared on 17 December 2012
+This compilation was prepared on 11 December 2012
  taking into account amendments up to Act No. 180 of 2012
 
 The text of any of those amendments not in force 
@@ -475,9 +475,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [102](#102).        Notice of application to persons affected by decision
 
-    **Division 3A—Directions hearings**
+    **Division 3A—Prehearing conferences**
 
-[103](#103).        Directions hearings
+[103](#103).        Pre‑hearing conferences
 
     **Division 4—Hearings** 
 
@@ -519,6 +519,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [103P](#103P).      Hearing in private
 
+[103Q](#103Q).     Restrictions on disclosure of information obtained at hearing
+
 [103R](#103R).     Adjournment of hearings
 
     **Division 5—Decisions on review** 
@@ -552,12 +554,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
     **Division 6—Other provisions**
 
 [103ZA](#103ZA).   Directions as to procedure for reviews
-
-103ZAA Orders restricting disclosure of information
-
-103ZAB Varying an order to permit certain disclosures
-
-103ZAC Orders restricting secondary disclosures of information
 
 **Part VIII—Court review of certain decisions** 
 
@@ -921,8 +917,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="govern-bodi"></a>**_government body_** means the Commonwealth, a State, a Territory or an authority of the Commonwealth or a State or Territory.
 
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Minister administering the _Human Services (Centrelink) Act 1997_.
-
                     <a name="immigr-depart"></a>**_Immigration Department_** means the Department administered by the Minister administering the _Migration Act 1958_.
 
                     <a name="incom-test-pension-allow-benefit"></a>**_income tested pension, allowance or benefit_** has the same meaning as in the _Family Law Act 1975_.
@@ -1061,15 +1055,7 @@ that is prescribed by the regulations to be a reciprocating jurisdiction.
 
                     <a name="ssat"></a>**_SSAT_** means the Social Security Appeals Tribunal.
 
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
-
-                    <a name="ssat-member"></a>**_SSAT member_** means a member of the SSAT (and includes the SSAT Principal Member).
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
-
                     <a name="ssat-princip-member"></a>**_SSAT Principal Member_** means the Principal Member of the SSAT.
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
 
                     <a name="standard-rule-court"></a>**_standard Rules of Court_** has the same meaning as in the _Family Law Act 1975_.
 
@@ -1455,11 +1441,11 @@ Note:          See sections 20 and 33A of the _Acts Interpre
 
        (2AB)  Subsection (2) does not prevent the Secretary, or a person authorised by the Secretary, from publishing in written or electronic form the reasons for a decision of the SSAT under Part VIIA if the publication does not identify:
 
-                     (a)  a party to the review concerned (other than the Registrar); or
+                     (a)  a party to the proceedings concerned (other than the Registrar); or
 
-                     (b)  a person (other than the Registrar) who is related to, or associated with, a party to the review concerned or is, or is alleged to be, in any other way concerned in the matter to which the review concerned relates; or
+                     (b)  a person (other than the Registrar) who is related to, or associated with, a party to the proceedings concerned or is, or is alleged to be, in any other way concerned in the matter to which the proceedings concerned relate; or
 
-                     (c)  a witness in the review concerned.
+                     (c)  a witness in the proceedings concerned.
 
        (2AC)  Without limiting subsection (2AB), a publication of reasons for a decision of the SSAT under Part VIIA is taken to identify a person if it contains any particulars of:
 
@@ -1518,12 +1504,6 @@ and the particulars are sufficient to identify that person to a member of the pu
                              (ii)  there is reason to suspect that the threat may afford evidence that an offence may be, or has been, committed against a person and the information is communicated for the purpose of preventing, investigating or prosecuting such an offence; or
 
                       (f)  to a person who is authorised to obtain the information by the person to whom the information relates.
-
-          (3A)  Subsection (2) does not prevent an SSAT member from communicating any protected information to a person, if the information concerns a threat to the life, health or welfare of a person and either of the following applies:
-
-                     (a)  the member believes on reasonable grounds that the communication is necessary to prevent or lessen the threat;
-
-                     (b)  there is reason to suspect that the threat may afford evidence that an offence may be, or has been, committed against a person and the member communicates the information for the purpose of preventing, investigating or prosecuting such an offence.
 
              (4)  Subsection (2) does not prevent the Registrar, or a person authorised by the Registrar, from communicating any protected information to a person if:
 
@@ -1749,7 +1729,7 @@ Note:          Strict compliance with the form is not required
 
                     <a name="electron-signatur"></a>**_electronic signature_**, in relation to a person, means a unique identification in an electronic form that is approved by the Registrar.
 
-##### <a id="16B"></a>16B  Registrar’s power to request tax file numbers
+##### <a id="16B"></a>16B  Registrar’s power to request tax file numbers
 
              (1)  This section applies to a person in Australia if the person is a payer or a payee in relation to a registrable maintenance liability.
 
@@ -3744,7 +3724,7 @@ then:
 
              (5)  The remaining lump sum payment, for 1 July in a year of income, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00924/Html/c71dc082-8d6e-4562-addc-ed75c7de2d82_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00905/Html/7a2112c2-1b89-4cc3-a519-4f4436881bea_files/image002.gif)
 
 where:
 
@@ -3752,7 +3732,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2012C00924/Html/c71dc082-8d6e-4562-addc-ed75c7de2d82_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00905/Html/7a2112c2-1b89-4cc3-a519-4f4436881bea_files/image003.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -5532,9 +5512,7 @@ of Part VIII of this Act.</li>
 
 ##### <a id="88"></a>88  SSAT objective
 
-             (1)  In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
-
-             (2)  That objective must also be `pursued by the SSAT Principal Member in performing or exercising his or her functions and powers under this Act.
+                   In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
 
 ### Division 2—Applications for review
 
@@ -5719,7 +5697,7 @@ Note:          In that case, the person may apply to a court f
 
                               (i)  an office of the SSAT; or
 
-                             (ii)  an office of the Human Services Department; or
+                             (ii)  an office of the Department; or
 
                      (b)  going to an office of the SSAT and making an oral application; or
 
@@ -5739,11 +5717,11 @@ Note:          In that case, the person may apply to a court f
 
 Applications must be forwarded to SSAT
 
-             (1)  If an application for review under this Part is sent or delivered to an office of the Human Services Department, the Secretary must send the application to the SSAT Principal Member:
+             (1)  If an application for review under this Part is sent or delivered to an office of the Department, the Secretary must send the application to the SSAT Principal Member:
 
                      (a)  as soon as practicable; and
 
-                     (b)  in any case—not later than 7 days after the application is received at the office of the Human Services Department.
+                     (b)  in any case—not later than 7 days after the application is received at the office of the Department.
 
 SSAT must notify applicants and Registrar of receipt of applications
 
@@ -5797,9 +5775,25 @@ the Registrar must send a copy of the document or the part of the document to an
 
 ##### <a id="96"></a>96  Parties to be given statements about decisions under review
 
-                   Subject to sections 97 and 98, within 28 days after receiving the notice under subsection 95(2), the Registrar must give each party to the review a copy of the statement and documents referred to in subsection 95(3).
+             (1)  Subject to sections 97 and 98, within 28 days after receiving the notice under subsection 95(2), the Registrar must give each party to the review a copy of the statement and documents referred to in subsection 95(3).
 
 Note:          The parties to the review are set out in section 101.
+
+             (2)  The SSAT Principal Member may, by writing given to the person, direct a person who is entitled to receive a copy of a statement or a document in accordance with subsection (1):
+
+                     (a)  not to disclose information in the statement or document; or
+
+                     (b)  not to disclose information in the statement or document except in the circumstances, or for the purposes, specified in the direction.
+
+Offence
+
+             (3)  A person commits an offence if:
+
+                     (a)  the SSAT Principal Member gives a direction to the person under subsection (2); and
+
+                     (b)  the person contravenes the direction.
+
+                    Penalty:  Imprisonment for 2 years.
 
 ##### <a id="97"></a>97  When document is not required to be sent
 
@@ -5817,13 +5811,13 @@ the Registrar:
 
                      (e)  gives a copy of the application for the direction to each party to the review.
 
-          (1A)  Subject to section 98, the Registrar is not required, under section 96, to give a document, or part of a document, referred to in paragraph 95(3)(b) while the Registrar is not required to send the document or the part under subsection (1) of this section.
+          (1A)  Subject to section 98, the Registrar is not required, under subsection 96(1), to give a document, or part of a document, referred to in paragraph 95(3)(b) while the Registrar is not required to send the document or the part under subsection (1) of this section.
 
-             (2)  Subsections (1) and (1A) do not affect the obligation of the Registrar to comply with paragraph 95(3)(b), subsection 95(5) or section 96 in relation to any document or part of a document to which subsection (1) or (1A) does not apply.
+             (2)  Subsections (1) and (1A) do not affect the obligation of the Registrar to comply with paragraph 95(3)(b) or subsection 95(5) or 96(1) in relation to any document or part of a document to which subsection (1) or (1A) does not apply.
 
 ##### <a id="98"></a>98  Directions prohibiting or restricting disclosure of documents
 
-             (1)  If, after considering an application by the Registrar under section 97 for a direction in respect of a document or a part of a document, the SSAT Principal Member directs the Registrar to give each party to a review, under section 96, the document or the part of the document referred to in paragraph 95(3)(b), the Registrar must do so.
+             (1)  If, after considering an application by the Registrar under section 97 for a direction in respect of a document or a part of a document, the SSAT Principal Member directs the Registrar to give each party to a review, under subsection 96(1), the document or the part of the document referred to in paragraph 95(3)(b), the Registrar must do so.
 
              (2)  The SSAT Principal Member may give directions (whether on application by the Registrar or on his or her initiative) prohibiting or restricting the disclosure to some or all of the parties to a review of the contents of a document or statement referred to in subsection 95(3) or (5) that relates to the review if he or she is satisfied that it is desirable to do so because of the confidential nature of the document or statement, or for any other reason.
 
@@ -5879,8 +5873,6 @@ the person may:
 
                      (c)  all of the parties consent; or
 
-                    (ca)  the applicant has been removed from the review under subsection 101(5) and all of the remaining parties consent to the dismissal; or
-
                      (d)  the SSAT Principal Member is satisfied:
 
                               (i)  after having communicated with each party; or
@@ -5891,7 +5883,7 @@ the person may:
 
                      (e)  all of the parties fail to attend the hearing; or
 
-                      (f)  all of the parties have been removed from the review under subsection 101(5).
+                      (f)  all of the parties have been removed from the proceeding under subsection 101(5).
 
              (2)  The SSAT Principal Member may dismiss an application under paragraph (1)(b) only if:
 
@@ -5905,33 +5897,17 @@ the person may:
 
                      (b)  all of the parties (other than the applicant) consent to the dismissal.
 
-             (3)  If the SSAT Principal Member dismisses an application under subsection (1) (other than under paragraph (1)(b) or (f)), a party to the review may:
-
-                     (a)  within 28 days after receiving notification that the application has been dismissed; or
-
-                     (b)  within such longer period as the SSAT Principal Member, in special circumstances, allows;
-
-request that the SSAT Principal Member reinstate the application.
-
-             (4)  If the SSAT Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
-
-             (5)  If it appears to the SSAT Principal Member that an application has been dismissed under subsection (1) in error, he or she may, on the request of a party to the review or on his or her own initiative, reinstate the application and give such directions as he or she considers appropriate in the circumstances.
-
 ##### <a id="100A"></a>100A  Dismissal of an application on request of party
 
              (1)  An applicant may, in writing lodged with the SSAT, at any time notify the SSAT that the application for review is discontinued or withdrawn.
 
-             (2)  If notification is so given, the SSAT Principal Member is taken to have dismissed the application.
+             (2)  If notification is so given, the SSAT is taken to have dismissed the application without proceeding to review the decision.
 
-             (3)  If the SSAT Principal Member dismisses an application under subsection (2), a party to the review may:
+             (3)  If the SSAT dismisses an application under subsection (2), a party to the review may, within 28 days after receiving notification that the application has been dismissed, request that the SSAT reinstate the application.
 
-                     (a)  within 28 days after receiving notification that the application has been dismissed; or
+             (4)  If it considers it appropriate to do so, the SSAT may reinstate the application and give such directions as appear to it to be appropriate in the circumstances.
 
-                     (b)  within such longer period as the SSAT Principal Member, in special circumstances, allows;
-
-request that the SSAT Principal Member reinstate the application.
-
-             (4)  If the SSAT Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
+             (5)  If it appears to the SSAT that an application has been dismissed under subsection (2) in error, the SSAT may, on the request of a party to the review or on its own initiative, reinstate the application and give such directions as appear to it to be appropriate in the circumstances.
 
 ### Division 3—Parties to reviews
 
@@ -6003,23 +5979,21 @@ the SSAT Principal Member must take reasonable steps to give the person written 
 
              (4)  The SSAT Principal Member must give each party to the review a copy of the notice.
 
-### Division 3A—Directions hearings
+### Division 3A—Prehearing conferences
 
-##### <a id="103"></a>103  Directions hearings
+##### <a id="103"></a>103  Pre‑hearing conferences
 
-             (1)  The SSAT Principal Member may convene one or more directions hearings with the parties to a review if he or she considers that it would assist in the conduct and consideration of the review to do so.
+             (1)  The SSAT Principal Member may convene one or more conferences with the parties to a review if he or she considers that it would assist in the conduct and consideration of the review to do so.
 
-             (2)  At a directions hearing, the SSAT Principal Member may:
+             (2)  At a conference, the SSAT Principal Member may:
 
                      (a)  fix a day or days for the hearing; and
 
                      (b)  give directions about the time within which submissions are to be made to the SSAT; and
 
-                     (c)  give directions about the time within which evidence is to be brought before the SSAT; and
+                     (c)  give directions about the time within which evidence is to be brought before the SSAT.
 
-                     (d)  give directions about what information is to be given to the SSAT.
-
-Note:          Section 103W applies if the parties reach an agreement at the directions hearing.
+Note:          Section 103W applies if the parties reach an agreement at the pre‑hearing conference.
 
 ### Division 4—Hearings
 
@@ -6033,7 +6007,7 @@ Note:          Section 103W applies if the parties reach an 
 
                      (b)  the parties to the review do not reach an agreement before a hearing of the review is to begin; and
 
-                     (c)  the SSAT Principal Member has not already done so at a directions hearing.
+                     (c)  the SSAT Principal Member has not already done so at a pre‑hearing conference.
 
              (2)  The SSAT Principal Member must give the applicant and any other parties to the review written notice of the day, time and place fixed for the hearing of the application.
 
@@ -6057,13 +6031,7 @@ Note:          Section 103W applies if the parties reach an 
 
 Note:          The SSAT Principal Member may direct that a hearing be conducted without oral submissions from the parties (see section 103D).
 
-             (2)  A party to a review may, with the permission of the SSAT Principal Member, have another person make submissions to the SSAT on the party’s behalf.
-
-          (2A)  In deciding whether to grant permission under subsection (2), the SSAT Principal Member must have regard to:
-
-                     (a)  the wishes of the parties; and
-
-                     (b)  the need to protect their privacy.
+             (2)  A party to a review may have another person make submissions to the SSAT on his or her behalf.
 
              (3)  The SSAT Principal Member may determine that submissions to the SSAT by a party or a party’s representative are to be made by telephone or by means of other electronic communications equipment.
 
@@ -6129,7 +6097,7 @@ the SSAT Principal Member may authorise the SSAT to proceed to hear the applicat
 
 #### Subdivision C—Submissions from the Registrar
 
-##### <a id="103F"></a>103F  Submissions from the Registrar
+##### <a id="103F"></a>103F  Submissions from the Registrar
 
              (1)  The Registrar may make written submissions to the SSAT.
 
@@ -6143,19 +6111,17 @@ Registrar may request permission to make oral submissions
 
 The request must explain how such submissions would assist the SSAT.
 
-             (3)  The SSAT Principal Member may, by writing, grant the request if, in the opinion of the SSAT Principal Member, such submissions would assist the SSAT.
+             (3)  The SSAT Principal Member may, by writing, grant the request if, in the opinion of the SSAT Principal Member having regard to the objective laid down by section 88, such submissions would assist the SSAT.
 
-SSAT may order Registrar to make oral submissions etc.
+SSAT may order Registrar to make oral submissions
 
              (4)  The SSAT Principal Member may order the Registrar to make:
 
                      (a)  oral submissions to the SSAT; or
 
-                    (aa)  written submissions to the SSAT; or
-
                      (b)  both oral and written submissions to the SSAT;
 
-if, in the opinion of the SSAT Principal Member, such submissions would assist the SSAT.
+if, in the opinion of the SSAT Principal Member having regard to the objective laid down by section 88, such submissions would assist the SSAT.
 
 #### Subdivision D—Other evidence provisions
 
@@ -6261,7 +6227,9 @@ Note:          A person who fails to comply with a notice give
 
                      (a)  is not bound by legal technicalities, legal forms or rules of evidence; and
 
-                     (b)  is to act as speedily as a proper consideration of the review allows.
+                     (b)  is to act as speedily as a proper consideration of the review allows; and
+
+                     (c)  in determining what a proper consideration of the review requires, must have regard to the objective laid down by section 88.
 
              (2)  The SSAT may inform itself on any matter relevant to a review of a decision in any manner it considers appropriate.
 
@@ -6279,11 +6247,31 @@ Note:          The SSAT Principal Member may give directions a
 
                      (b)  the need to protect their privacy.
 
+##### <a id="103Q"></a>103Q  Restrictions on disclosure of information obtained at hearing
+
+             (1)  The SSAT Principal Member may make an order directing a person who is present at the hearing of a review:
+
+                     (a)  not to disclose information obtained by the person in the course of the hearing; or
+
+                     (b)  not to disclose information obtained by the person in the course of the hearing except in the circumstances, or for the purposes, specified in the order.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the SSAT Principal Member makes an order under subsection (1) in relation to the person; and
+
+                     (b)  the person contravenes the order.
+
+                    Penalty:  Imprisonment for 2 years.
+
 ##### <a id="103R"></a>103R  Adjournment of hearings
 
              (1)  The SSAT may adjourn the hearing of a review from time to time.
 
-             (2)  Without limiting subsection (1), the SSAT may refuse to adjourn the hearing of a review if the hearing has already been adjourned on 2 or more occasions.
+             (2)  Without limiting subsection (1), the SSAT may refuse to adjourn the hearing of a review if:
+
+                     (a)  the hearing has already been adjourned on 2 or more occasions; or
+
+                     (b)  the SSAT is satisfied that to grant an adjournment would be inconsistent with the pursuit of the objective laid down by section 88.
 
 ### Division 5—Decisions on review
 
@@ -6397,13 +6385,13 @@ then, despite section 43 of that Act, the AAT must not vary the original decis
 
 ##### <a id="103W"></a>103W  Powers of SSAT if parties reach agreement
 
-             (1)  If, at any stage of a review (including at a directions hearing under section 103):
+             (1)  If, at any stage of a proceeding for a review (including at a pre‑hearing conference under section 103):
 
                      (a)  the parties (other than the Registrar) agree to the terms of a decision of the SSAT:
 
-                              (i)  in the review; or
+                              (i)  in the proceeding; or
 
-                             (ii)  in relation to a part of the review, or a matter arising out of the review;
+                             (ii)  in relation to a part of the proceeding, or a matter arising out of the proceeding;
 
                             that would be acceptable to the parties; and
 
@@ -6421,13 +6409,13 @@ the SSAT may, if it appears to it to be appropriate to do so, act in accordance 
 
 Note:          The SSAT cannot make a decision that the Registrar could not have made (see subsection 103T(2)).
 
-             (2)  If the agreement reached is an agreement as to the terms of a decision of the SSAT on the review, the SSAT may make a decision in accordance with those terms:
+             (2)  If the agreement reached is an agreement as to the terms of a decision of the SSAT in the proceeding, the SSAT may make a decision in accordance with those terms:
 
-                     (a)  without holding a hearing of the review; or
+                     (a)  without holding a hearing of the proceeding; or
 
                      (b)  if a hearing has commenced—without completing the hearing.
 
-             (3)  If the agreement relates to a part of the review, or a matter arising out of the review, the SSAT may in its decision on the review give effect to the terms of the agreement without dealing at the hearing of the review with the part or matter to which the agreement relates.
+             (3)  If the agreement relates to a part of the proceeding, or a matter arising out of the proceeding, the SSAT may in its decision in the proceeding give effect to the terms of the agreement without dealing at the hearing of the proceeding with the part or matter to which the agreement relates.
 
              (4)  The SSAT must not make a decision by consent under subsection (2) or (3) in relation to a departure from administrative assessment of child support in accordance with Part 6A of the Act unless it is satisfied that it is just and equitable and otherwise proper to do so, having regard to the matters set out in subsections 117(4) and (5).
 
@@ -6474,18 +6462,6 @@ Statements of reasons
              (4)  If the SSAT does not give a written notice to a party under paragraph (3)(b), the party may, within 14 days after the day on which the notice under paragraph (1)(a) is given to the party, request such a notice from the SSAT.
 
              (5)  The SSAT must comply with a request under subsection (4) within 14 days after the day on which it receives the request.
-
-Copies to removed party
-
-             (6)  The SSAT must, in relation to any person who was removed as a party to the review under subsection 101(5):
-
-                     (a)  give the person a copy of the notice under paragraph (1)(a), within 14 days after making the decision; and
-
-                     (b)  if a notice under paragraph (3)(b) was not part of the notice under paragraph (1)(a)—do at least one of the following:
-
-                              (i)  give reasons for the decision orally to the person, within 14 days after making the decision;
-
-                             (ii)  give the person a copy of any notice under paragraph (3)(b), at the same time as giving it to the parties to the review.
 
 ##### <a id="103Y"></a>103Y  Correction of errors in decisions or statements of reasons
 
@@ -6559,71 +6535,15 @@ Directions by presiding member
 
              (6)  A direction under subsection (4) may be given before or after the hearing of the particular review has commenced.
 
+Directions must have regard to SSAT objective
+
+             (7)  Directions under this section must have due regard to the objective laid down by section 88.
+
 Legislative instrument status of instruments
 
              (8)  A general direction made under paragraph (1)(a) is a legislative instrument.
 
              (9)  A direction made under paragraph (1)(b) or subsection (4) is not a legislative instrument.
-
-##### <a id="103ZAA"></a>103ZAA  Orders restricting disclosure of information
-
-             (1)  The SSAT Principal Member may make an order directing a person:
-
-                     (a)  not to disclose information specified in the order; or
-
-                     (b)  not to disclose information specified in the order except in the circumstances, or for the purposes, specified in the order; or
-
-                     (c)  not to disclose information specified in the order, except to a specified person or class of persons.
-
-             (2)  An order may only specify information that has been disclosed to the person for purposes relating to a review under this Part.
-
-             (3)  A person commits an offence if:
-
-                     (a)  the SSAT Principal Member makes an order under subsection (1) in relation to the person; and
-
-                     (b)  the person contravenes the order.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (4)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure referred to in subsection (2) was made.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
-
-##### <a id="103ZAB"></a>103ZAB  Varying an order to permit certain disclosures
-
-             (1)  A person in relation to whom an order has been made under subsection 103ZAA(1) may request the SSAT Principal Member to vary the order to allow the person to disclose particular information specified in the order:
-
-                     (a)  in particular circumstances or for particular purposes; or
-
-                     (b)  to a particular person or class of persons.
-
-             (2)  The SSAT Principal Member may vary the order in accordance with the request.
-
-             (3)  This section does not limit the SSAT Principal Member’s power to vary or revoke an order.
-
-Note:          For variation and revocation apart from under this section, see subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-##### <a id="103ZAC"></a>103ZAC  Orders restricting secondary disclosures of information
-
-             (1)  If an order (the **_primary order_**) under subsection 103ZAA(1) directs a person not to disclose information specified in the order, except to any of the following (an **_authorised recipient_**):
-
-                     (a)  a specified person;
-
-                     (b)  a member of a specified class of persons;
-
-the SSAT Principal Member may make another order, directing an authorised recipient not to disclose the information specified in the primary order.
-
-             (2)  A person commits an offence if:
-
-                     (a)  the SSAT Principal Member makes an order under subsection (1) in relation to the person; and
-
-                     (b)  the person contravenes the order.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (3)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure of the information in accordance with the primary order was made.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
 
 ## Part VIII—Court review of certain decisions
 
@@ -6645,7 +6565,7 @@ decision of the SSAT under Part VIIA to a court on an error of law.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The SSAT may refer a
 
-question of law arising in a review under Part VIIA to a court.</li>
+question of law arising in a proceeding under Part VIIA to a court.</li>
 
 * * *
 
@@ -6939,7 +6859,7 @@ decision to a court.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The SSAT may refer a
 
-question of law arising in a review under Part VIIA to a court.</li>
+question of law arising in a proceeding under Part VIIA to a court.</li>
 
 * * *
 
@@ -6947,7 +6867,7 @@ question of law arising in a review under Part VIIA to a court.</li>
 
 ##### <a id="110B"></a>110B  Appeals from decisions of SSAT
 
-                   A party to a review by the SSAT under Part VIIA may appeal to a court having jurisdiction under this Act, on a question of law, from a decision of the SSAT on that review under section 103S.
+                   A party to a proceeding before the SSAT under Part VIIA may appeal to a court having jurisdiction under this Act, on a question of law, from any decision of the SSAT in that proceeding.
 
 ##### <a id="110C"></a>110C  Time limits for instituting appeals
 
@@ -6971,9 +6891,7 @@ question of law arising in a review under Part VIIA to a court.</li>
 
 ##### <a id="110D"></a>110D  Parties to appeals
 
-                   The parties to a proceeding under this Subdivision are the parties to the review before the SSAT when the SSAT made the relevant decision.
-
-Note:          A person may be added or removed as a party to a review under subsection 101(4) or (5).
+                   The parties to a proceeding under this Subdivision are the people who were the parties to the proceeding before the SSAT when the SSAT made the relevant decision.
 
 ##### <a id="110E"></a>110E  Constitution of courts
 
@@ -6999,11 +6917,11 @@ Constitution of SSAT if courts remit cases etc.
 
                      (a)  the SSAT need not be constituted for the hearing by the person or persons who made the decision to which the appeal relates; and
 
-                     (b)  whether or not the SSAT is reconstituted for the hearing—the SSAT may, for the purposes of the review, have regard to any record of the review before the SSAT prior to the appeal (including a record of any evidence taken in the review), so long as doing so is not inconsistent with the directions of the court.
+                     (b)  whether or not the SSAT is reconstituted for the hearing—the SSAT may, for the purposes of the proceeding, have regard to any record of the proceeding before the SSAT prior to the appeal (including a record of any evidence taken in the proceeding), so long as doing so is not inconsistent with the directions of the court.
 
 ##### <a id="110G"></a>110G  Courts may make findings of fact
 
-             (1)  If a party to a review by the SSAT appeals to a court under this Subdivision, the court may make findings of fact if:
+             (1)  If a party to a proceeding before the SSAT appeals to a court under this Subdivision, the court may make findings of fact if:
 
                      (a)  the findings of fact are not inconsistent with findings of fact made by the SSAT (other than findings made by the SSAT as the result of an error of law); and
 
@@ -7013,7 +6931,7 @@ Constitution of SSAT if courts remit cases etc.
 
                              (ii)  the means by which those facts might be established; and
 
-                            (iii)  the expeditious and efficient resolution of the whole of the matter to which the review by the SSAT relates; and
+                            (iii)  the expeditious and efficient resolution of the whole of the matter to which the proceeding before the SSAT relates; and
 
                             (iv)  the relative expense to the parties of the court, rather than the SSAT, in making the findings of fact; and
 
@@ -7025,7 +6943,7 @@ Constitution of SSAT if courts remit cases etc.
 
              (2)  For the purposes of making findings of fact under subsection (1), the court may:
 
-                     (a)  have regard to the evidence given in the review by the SSAT; and
+                     (a)  have regard to the evidence given in the proceeding before the SSAT; and
 
                      (b)  receive further evidence.
 
@@ -7041,11 +6959,11 @@ Constitution of SSAT if courts remit cases etc.
 
                      (b)  at the request of a party;
 
-refer a question of law arising in a review by the SSAT under Part VIIA to a court having jurisdiction under this Act for decision.
+refer a question of law arising in a proceeding before the SSAT under Part VIIA to a court having jurisdiction under this Act for decision.
 
              (2)  A question must not be so referred without the agreement of the SSAT Principal Member.
 
-             (3)  If a question of law arising in any review has been referred to a court under this Subdivision, the SSAT must not, on that review:
+             (3)  If a question of law arising in any proceeding has been referred to a court under this Subdivision, the SSAT must not, in that proceeding:
 
                      (a)  give a decision to which the question is relevant while the reference is pending; or
 
@@ -7065,7 +6983,7 @@ refer a question of law arising in a review by the SSAT under Part VIIA to a c
 
                    When an appeal is instituted in a court, or a question of law is referred to a court, under this Division, the SSAT Principal Member must cause to be sent to the court all documents:
 
-                     (a)  that were before the SSAT in relation to the review to which the appeal or the reference relates; and
+                     (a)  that were before the SSAT in relation to the proceeding to which the appeal or the reference relates; and
 
                      (b)  that are relevant to the appeal or the reference.
 
@@ -7103,11 +7021,11 @@ the application of the _Administrative Appeals Tribunal Act 1975_ to
 
 applications for review under subsection 103VA(1) of this Act.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The date of effect of
+<li class="BoxList" style="margin-left:21.25pt">•      The date of effect of reviews
 
-reviews of decisions under the Family Assistance Administration Act that apply
+of decisions under the Family Assistance Administration Act that apply for
 
-for child support purposes is dealt with in Division 6.</li>
+child support purposes is dealt with in Division 6.</li>
 
 * * *
 
@@ -7887,7 +7805,7 @@ that the statement to which the prosecution relates was false or misleading.
 
                      (b)  who is a resident of a reciprocating jurisdiction.
 
-##### <a id="121"></a>121  Order to comply with requirement
+##### <a id="121"></a>121  Order to comply with requirement
 
              (1)  Where:
 
@@ -8641,7 +8559,8 @@ Schedule 10 (items 29–34): <i>(r)</i></div>
   </td>
   <td>
     <div>S. 4 and Schedule 5 (items 9–21): Royal Assent 
-Schedule 4: 1 July 2006</div>
+Schedule 4: 1 July 2006 
+Schedule 5 (items 9–17): Royal Assent</div>
   </td>
   <td>
     <div>S. 4, Sch. 4 (item 2) and Sch. 5 (items 
@@ -8725,7 +8644,6 @@ Remainder: Royal Assent</div>
 74(3)–(5) 
 75(1)–(5), 76, 77) and Sch. 7 (items 
 13–15) 
-S. 2(1) (am. by 82, 2007, Sch. 1 \[item 1]) 
 Sch. 2 (item 115) (am. by 82, 2007, Sch. 1 \[item 99]) 
 Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
 Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16]) 
@@ -8760,7 +8678,7 @@ Sch. 5 (item 74(2)) (am. by 63, 2008, Sch. 6 \[item 17])</div>
     <div>21 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 80, 99, 212): ( <i>see</i>82, 2007 below)</div>
+    <div>Schedule 1 (items 80, 99, 212): ( <i>see</i>82, 2007 below)</div>
   </td>
   <td>
     <div>Sch. 1 (item 80) 
@@ -8882,7 +8800,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Schedule 12 (items 24–33): Royal Assent 
-Schedule 1 (item 1): <i>(t)</i> 
 Schedule 1 (items 22–77, 80–91) and Schedule 4 (items 11–20): 22 June 2007 
 Schedule 1 (item 99): <i>(t)</i> 
 Schedule 1 (item 101), Schedule 3 (items 18–28) and Schedule 4 (items 39–46): 1 Jan 2008 
@@ -9169,7 +9086,7 @@ Schedule 4 (items 2, 3): <i>(v)</i></div>
     <div>17 Nov 2012</div>
   </td>
   <td>
-    <div>Schedule 3 (items 29–86, 163–169): 15 Dec 2012 
+    <div>Schedule 3 (items 29–86, 163–169): \[ <i>see</i>Note 2 and Table A] 
 Schedule 4 (item 3): Royal Assent</div>
   </td>
   <td>
@@ -9427,7 +9344,7 @@ _(s)_     Subsection 2(1) (items 6, 8 and 9) of the _Child Support Leg
   </td>
 </tr></table>
 
-_(t)_      Subsection 2(1) (items 2, 5, 7, 8, 11 and 13) of the _Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007_ provides as follows:
+_(t)_      Subsection 2(1) (items 5, 7, 8, 11 and 13) of the _Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -9463,25 +9380,6 @@ _(t)_      Subsection 2(1) (items 2, 5, 7, 8, 11 and 13) of the _Fam
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1, Part 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Child Support Legislation Amendment (Reform of the Child Support Scheme—New
-          Formula and Other Measures) Act 2006</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      6 December 2006
-    </div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>
@@ -9846,7 +9744,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 124, 1989; No. 216, 1991; Nos. 151 and 210, 1992; Nos. 39 and 140, 1995; Nos. 29 and 152, 1997; No. 120, 1998; Nos. 194 and 179, 1999; Nos. 86 and 143, 2000; Nos. 55 and 75, 2001; No. 8, 2005; Nos. 22, 46 and 146, 2006; Nos. 8, 15 and 82, 2007; Nos. 115 and 144, 2008; Nos. 38, 56, 65 and 105, 2010; Nos. 5, 32 and 46, 2011; No. 154, 2012</div>
+    <div>am. No. 124, 1989; No. 216, 1991; Nos. 151 and 210, 1992; Nos. 39 and 140, 1995; Nos. 29 and 152, 1997; No. 120, 1998; Nos. 194 and 179, 1999; Nos. 86 and 143, 2000; Nos. 55 and 75, 2001; No. 8, 2005; Nos. 22, 46 and 146, 2006; Nos. 8, 15 and 82, 2007; Nos. 115 and 144, 2008; Nos. 38, 56, 65 and 105, 2010; Nos. 5, 32 and 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10014,7 +9912,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div></div>
   </td>
   <td>
-    <div>am. No. 138, 1990; No. 151, 1992; No. 140, 1995; No. 29, 1997; No. 120, 1998; No. 146, 1999; Nos. 75 and 137, 2001; No. 156, 2006; No. 82, 2007; No. 143, 2008; Nos. 5 and 32, 2011; No. 154, 2012</div>
+    <div>am. No. 138, 1990; No. 151, 1992; No. 140, 1995; No. 29, 1997; No. 120, 1998; No. 146, 1999; Nos. 75 and 137, 2001; No. 156, 2006; No. 82, 2007; No. 143, 2008; Nos. 5 and 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11052,6 +10950,14 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
 </tr>
 <tr>
   <td>
+    <div>S. 71AB</div>
+  </td>
+  <td>
+    <div>ad. No. 75, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 71A</div>
   </td>
   <td>
@@ -11088,14 +10994,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
   </td>
   <td>
     <div>am. No. 82, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 71C</div>
-  </td>
-  <td>
-    <div>am. No. 53, 2006</div>
   </td>
 </tr>
 <tr>
@@ -11911,6 +11809,14 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 85</div>
   </td>
   <td>
+    <div>rs. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
     <div>am. No. 146, 2006; No. 82, 2007; No. 65, 2010</div>
   </td>
 </tr>
@@ -12040,14 +11946,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
   </td>
   <td>
     <div>rs. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
   </td>
 </tr>
 <tr>
@@ -12183,7 +12081,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 5 and 32, 2011; No. 154, 2012</div>
+    <div>am. Nos. 5 and 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12199,12 +12097,12 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div></div>
   </td>
   <td>
-    <div>am. No. 82, 2007; No. 38, 2010; No. 32, 2011; No. 154, 2012</div>
+    <div>am. No. 82, 2007; No. 38, 2010; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 96</div>
+    <div>Ss. 96–98</div>
   </td>
   <td>
     <div>rs. No. 146, 2006</div>
@@ -12215,39 +12113,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div></div>
   </td>
   <td>
-    <div>am. No. 82, 2007; No. 38, 2010; No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>rs. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 82, 2007; No. 38, 2010; No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>rs. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 82, 2007; No. 38, 2010; No. 154, 2012</div>
+    <div>am. No. 82, 2007; No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12303,7 +12169,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div></div>
   </td>
   <td>
-    <div>am. No. 82, 2007; No. 38, 2010; No. 154, 2012</div>
+    <div>am. No. 82, 2007; No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12312,14 +12178,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
   </td>
   <td>
     <div>ad. No. 82, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
   </td>
 </tr>
 <tr>
@@ -12372,23 +12230,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3A 
-of Part VIIA</div>
-  </td>
-  <td>
-    <div>rs. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 103</div>
-  </td>
-  <td>
-    <div>rs. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 103</div>
   </td>
   <td>
@@ -12400,15 +12241,7 @@ of Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 2010; No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 103(2)</div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
+    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12440,7 +12273,7 @@ of Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 2010; No. 154, 2012</div>
+    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12472,7 +12305,7 @@ of Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 2010; No. 154, 2012</div>
+    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12509,14 +12342,6 @@ of Part VIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 103F(4)</div>
-  </td>
-  <td>
-    <div>rs. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 103F</div>
   </td>
   <td>
@@ -12528,7 +12353,7 @@ of Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 2010; No. 154, 2012</div>
+    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12645,14 +12470,6 @@ of Part VIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 103N(2)</div>
   </td>
   <td>
@@ -12661,7 +12478,7 @@ of Part VIIA</div>
 </tr>
 <tr>
   <td>
-    <div>S. 103P</div>
+    <div>Ss. 103P, 103Q</div>
   </td>
   <td>
     <div>ad. No. 146, 2006</div>
@@ -12673,30 +12490,6 @@ of Part VIIA</div>
   </td>
   <td>
     <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103Q</div>
-  </td>
-  <td>
-    <div>ad. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 154, 2012</div>
   </td>
 </tr>
 <tr>
@@ -12705,14 +12498,6 @@ of Part VIIA</div>
   </td>
   <td>
     <div>ad. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
   </td>
 </tr>
 <tr>
@@ -12813,14 +12598,6 @@ of Part VIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision C</b></div>
   </td>
   <td>
@@ -12840,7 +12617,7 @@ of Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 2006; No. 82, 2007; No. 154, 2012</div>
+    <div>am. No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
@@ -12896,31 +12673,7 @@ of Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 2010; No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103ZAA</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103ZAB</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103ZAC</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 2012</div>
+    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12960,7 +12713,7 @@ of Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 82, 2007; No. 154, 2012</div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
@@ -13077,14 +12830,6 @@ of Part VIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision B</b></div>
   </td>
   <td>
@@ -13093,50 +12838,10 @@ of Part VIIA</div>
 </tr>
 <tr>
   <td>
-    <div>S. 110B</div>
+    <div>Ss. 110B–110D</div>
   </td>
   <td>
     <div>ad. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110C</div>
-  </td>
-  <td>
-    <div>ad. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110D</div>
-  </td>
-  <td>
-    <div>ad. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 110D</div>
-  </td>
-  <td>
-    <div>ad. No. 154, 2012</div>
   </td>
 </tr>
 <tr>
@@ -13157,34 +12862,10 @@ of Part VIIA</div>
 </tr>
 <tr>
   <td>
-    <div>S. 110F</div>
+    <div>Ss. 110F, 110G</div>
   </td>
   <td>
     <div>ad. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110G</div>
-  </td>
-  <td>
-    <div>ad. No. 146, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 154, 2012</div>
   </td>
 </tr>
 <tr>
@@ -13208,7 +12889,7 @@ of Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 2010; No. 154, 2012</div>
+    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -13264,7 +12945,7 @@ of Part VIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 2010; No. 154, 2012</div>
+    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -13731,6 +13412,388 @@ of Part VIIA</div>
     <div>am. No. 82, 2007</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012 (No. 154, 2012)_
+
+The following amendments commence on 15 December 2012:
+
+## Schedule 3
+
+## 29  Subsection 4(1)
+
+Insert:
+
+                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Minister administering the _Human Services (Centrelink) Act 1997_.
+
+## 30  Subsection 4(1) (at the end of the definition of _SSAT_)
+
+Add:
+
+Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
+
+## 31  Subsection 4(1)
+
+Insert:
+
+                    <a name="ssat-member"></a>**_SSAT member_** means a member of the SSAT (and includes the SSAT Principal Member).
+
+Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
+
+## 32  Subsection 4(1) (at the end of the definition of _SSAT Principal Member_)
+
+Add:
+
+Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
+
+## 33  Paragraph 16(2AB)(a)
+
+Omit “proceedings”, substitute “review”.
+
+## 34  Paragraph 16(2AB)(b)
+
+Omit “proceedings concerned or is, or is alleged to be, in any other way concerned in the matter to which the proceedings concerned relate”, substitute “review concerned or is, or is alleged to be, in any other way concerned in the matter to which the review concerned relates”.
+
+## 35  Paragraph 16(2AB)(c)
+
+Omit “proceedings”, substitute “review”.
+
+## 36  After subsection 16(3)
+
+Insert:
+
+          (3A)  Subsection (2) does not prevent an SSAT member from communicating any protected information to a person, if the information concerns a threat to the life, health or welfare of a person and either of the following applies:
+
+                     (a)  the member believes on reasonable grounds that the communication is necessary to prevent or lessen the threat;
+
+                     (b)  there is reason to suspect that the threat may afford evidence that an offence may be, or has been, committed against a person and the member communicates the information for the purpose of preventing, investigating or prosecuting such an offence.
+
+## 37  Section 88
+
+Before “In”, insert “(1)”.
+
+## 38  At the end of section 88
+
+Add:
+
+             (2)  That objective must also be pursued by the SSAT Principal Member in performing or exercising his or her functions and powers under this Act.
+
+## 39  Subparagraph 94(1)(a)(ii)
+
+Omit “Department”, substitute “Human Services Department”.
+
+## 40  Subsection 95(1)
+
+Omit “Department” (wherever occurring), substitute “Human Services Department”.
+
+## 41  Subsection 96(1)
+
+Omit “(1)”.
+
+## 42  Subsections 96(2) and (3)
+
+Repeal the subsections.
+
+## 43  Subsection 97(1A)
+
+Omit “subsection 96(1)”, substitute “section 96”.
+
+## 44  Subsection 97(2)
+
+Omit “or subsection 95(5) or 96(1)”, substitute “, subsection 95(5) or section 96”.
+
+## 45  Subsection 98(1)
+
+Omit “subsection 96(1)”, substitute “section 96”.
+
+## 46  After paragraph 100(1)(c)
+
+Insert:
+
+                    (ca)  the applicant has been removed from the review under subsection 101(5) and all of the remaining parties consent to the dismissal; or
+
+## 47  Paragraph 100(1)(f)
+
+Omit “proceeding”, substitute “review”.
+
+## 48  At the end of section 100
+
+Add:
+
+             (3)  If the SSAT Principal Member dismisses an application under subsection (1) (other than under paragraph (1)(b) or (f)), a party to the review may:
+
+                     (a)  within 28 days after receiving notification that the application has been dismissed; or
+
+                     (b)  within such longer period as the SSAT Principal Member, in special circumstances, allows;
+
+request that the SSAT Principal Member reinstate the application.
+
+             (4)  If the SSAT Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
+
+             (5)  If it appears to the SSAT Principal Member that an application has been dismissed under subsection (1) in error, he or she may, on the request of a party to the review or on his or her own initiative, reinstate the application and give such directions as he or she considers appropriate in the circumstances.
+
+## 49  Subsection 100A(2)
+
+Omit “SSAT is taken to have dismissed the application without proceeding to review the decision”, substitute “SSAT Principal Member is taken to have dismissed the application”.
+
+## 50  Subsections 100A(3), (4) and (5)
+
+Repeal the subsections, substitute:
+
+             (3)  If the SSAT Principal Member dismisses an application under subsection (2), a party to the review may:
+
+                     (a)  within 28 days after receiving notification that the application has been dismissed; or
+
+                     (b)  within such longer period as the SSAT Principal Member, in special circumstances, allows;
+
+request that the SSAT Principal Member reinstate the application.
+
+             (4)  If the SSAT Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
+
+## 51  Division 3A of Part VIIA (heading)
+
+Repeal the heading, substitute:
+
+### Division 3A—Directions hearings
+
+## 52  Section 103 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="103"></a>103  Directions hearings
+
+## 53  Subsection 103(1)
+
+Omit “conferences”, substitute “directions hearings”.
+
+## 54  Subsection 103(2)
+
+Omit “conference”, substitute “directions hearing”.
+
+## 55  At the end of subsection 103(2) (before the note)
+
+Add:
+
+            ; and (d)  give directions about what information is to be given to the SSAT.
+
+## 56  Subsection 103(2) (note)
+
+Omit “pre‑hearing conference”, substitute “directions hearing”.
+
+## 57  Paragraph 103A(1)(c)
+
+Omit “pre‑hearing conference”, substitute “directions hearing”.
+
+## 58  Subsection 103C(2)
+
+Repeal the subsection, substitute:
+
+             (2)  A party to a review may, with the permission of the SSAT Principal Member, have another person make submissions to the SSAT on the party’s behalf.
+
+          (2A)  In deciding whether to grant permission under subsection (2), the SSAT Principal Member must have regard to:
+
+                     (a)  the wishes of the parties; and
+
+                     (b)  the need to protect their privacy.
+
+## 59  Subsection 103F(3)
+
+Omit “having regard to the objective laid down by section 88”.
+
+## 60  Subsection 103F(4) (heading)
+
+Repeal the heading, substitute:
+
+SSAT may order Registrar to make oral submissions etc.
+
+## 61  After paragraph 103F(4)(a)
+
+Insert:
+
+                    (aa)  written submissions to the SSAT; or
+
+## 62  Subsection 103F(4)
+
+Omit “having regard to the objective laid down by section 88”.
+
+## 63  Paragraph 103N(1)(b)
+
+Omit “allows; and”, substitute “allows.”.
+
+## 64  Paragraph 103N(1)(c)
+
+Repeal the paragraph.
+
+## 65  Section 103Q
+
+Repeal the section.
+
+## 66  Subsection 103R(2)
+
+Repeal the subsection, substitute:
+
+             (2)  Without limiting subsection (1), the SSAT may refuse to adjourn the hearing of a review if the hearing has already been adjourned on 2 or more occasions.
+
+## 67  Subsection 103W(1)
+
+Omit “a proceeding for a review (including at a pre‑hearing conference”, substitute “a review (including at a directions hearing”.
+
+## 68  Subparagraphs 103W(1)(a)(i) and (ii)
+
+Omit “proceeding” (wherever occurring), substitute “review”.
+
+## 69  Subsection 103W(2)
+
+Omit “in the proceeding”, substitute “on the review”.
+
+## 70  Paragraph 103W(2)(a)
+
+Omit “proceeding”, substitute “review”.
+
+## 71  Subsection 103W(3)
+
+Omit “part of the proceeding, or a matter arising out of the proceeding, the SSAT may in its decision in the proceeding give effect to the terms of the agreement without dealing at the hearing of the proceeding”, substitute “part of the review, or a matter arising out of the review, the SSAT may in its decision on the review give effect to the terms of the agreement without dealing at the hearing of the review”.
+
+## 72  At the end of section 103X
+
+Add:
+
+Copies to removed party
+
+             (6)  The SSAT must, in relation to any person who was removed as a party to the review under subsection 101(5):
+
+                     (a)  give the person a copy of the notice under paragraph (1)(a), within 14 days after making the decision; and
+
+                     (b)  if a notice under paragraph (3)(b) was not part of the notice under paragraph (1)(a)—do at least one of the following:
+
+                              (i)  give reasons for the decision orally to the person, within 14 days after making the decision;
+
+                             (ii)  give the person a copy of any notice under paragraph (3)(b), at the same time as giving it to the parties to the review.
+
+## 73  Subsection 103ZA(7)
+
+Repeal the subsection.
+
+## 74  At the end of Division 6 of Part VIIA
+
+Add:
+
+##### <a id="103ZAA"></a>103ZAA  Orders restricting disclosure of information
+
+             (1)  The SSAT Principal Member may make an order directing a person:
+
+                     (a)  not to disclose information specified in the order; or
+
+                     (b)  not to disclose information specified in the order except in the circumstances, or for the purposes, specified in the order; or
+
+                     (c)  not to disclose information specified in the order, except to a specified person or class of persons.
+
+             (2)  An order may only specify information that has been disclosed to the person for purposes relating to a review under this Part.
+
+             (3)  A person commits an offence if:
+
+                     (a)  the SSAT Principal Member makes an order under subsection (1) in relation to the person; and
+
+                     (b)  the person contravenes the order.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (4)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure referred to in subsection (2) was made.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="103ZAB"></a>103ZAB  Varying an order to permit certain disclosures
+
+             (1)  A person in relation to whom an order has been made under subsection 103ZAA(1) may request the SSAT Principal Member to vary the order to allow the person to disclose particular information specified in the order:
+
+                     (a)  in particular circumstances or for particular purposes; or
+
+                     (b)  to a particular person or class of persons.
+
+             (2)  The SSAT Principal Member may vary the order in accordance with the request.
+
+             (3)  This section does not limit the SSAT Principal Member’s power to vary or revoke an order.
+
+Note:          For variation and revocation apart from under this section, see subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+##### <a id="103ZAC"></a>103ZAC  Orders restricting secondary disclosures of information
+
+             (1)  If an order (the **_primary order_**) under subsection 103ZAA(1) directs a person not to disclose information specified in the order, except to any of the following (an **_authorised recipient_**):
+
+                     (a)  a specified person;
+
+                     (b)  a member of a specified class of persons;
+
+the SSAT Principal Member may make another order, directing an authorised recipient not to disclose the information specified in the primary order.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the SSAT Principal Member makes an order under subsection (1) in relation to the person; and
+
+                     (b)  the person contravenes the order.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (3)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure of the information in accordance with the primary order was made.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
+
+## 75  Section 103ZB
+
+Omit “proceeding”, substitute “review”.
+
+## 76  Section 110A
+
+Omit “proceeding”, substitute “review”.
+
+## 77  Section 110B
+
+Repeal the section, substitute:
+
+##### <a id="110B"></a>110B  Appeals from decisions of SSAT
+
+                   A party to a review by the SSAT under Part VIIA may appeal to a court having jurisdiction under this Act, on a question of law, from a decision of the SSAT on that review under section 103S.
+
+## 78  Section 110D
+
+Omit “the people who were”.
+
+## 79  Section 110D
+
+Omit “proceeding” (second occurring), substitute “review”.
+
+## 80  At the end of section 110D
+
+Add:
+
+Note:          A person may be added or removed as a party to a review under subsection 101(4) or (5).
+
+## 81  Paragraph 110F(3)(b)
+
+Omit “proceeding” (wherever occurring), substitute “review”.
+
+## 82  Subsections 110G(1) and (2)
+
+Omit “proceeding before” (wherever occurring), substitute “review by”.
+
+## 83  Subsection 110H(1)
+
+Omit “proceeding before”, substitute “review by”.
+
+## 84  Subsection 110H(3)
+
+Omit “any proceeding”, substitute “any review”.
+
+## 85  Subsection 110H(3)
+
+Omit “in that proceeding”, substitute “on that review”.
+
+## 86  Paragraph 110K(a)
+
+Omit “proceeding”, substitute “review”.
+
+As at 11 December 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -14901,6 +14964,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 * * *
 
 _Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012 (No. 154, 2012)_
+
+The following provisions commence on 15 December 2012:
 
 ## Schedule 3
 
