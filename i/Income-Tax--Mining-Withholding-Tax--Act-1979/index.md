@@ -1,211 +1,60 @@
-**
+**<b>
 
-###  INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 
-**
+### <center><name>INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 - Updated as at 30 August 1993 (HISTACT CHAP 1445 #DATE 30:08:1993) </name></center>
+</b>** *1* The Income Tax (Mining Withholding Tax) Act 1979 as shown in this reprint comprises Act No. 28, 1979 amended as indicated in the Tables below.<lf>                           Table of Acts<lf>     Act          Date           Date of               Application,<lf>     Number and   of Assent      commencement          saving or<lf>     year                                              transitional<lf>                                                       provisions<lf>     Income Tax (Mining Withholding Tax) Act 1979<lf>     28, 1979     4 June 1979    4 June 1979<lf>     Income Tax (Mining Withholding Tax) Amendment Act 1982<lf>     103, 1982    30 Oct 1982    30 Oct 1982           S. 3 (2)<lf>                                 (see s. 2)<lf>     Taxation Laws (Miscellaneous Provisions) Act 1986<lf>     109, 1986    4 Nov 1986     4 Nov 1986            S. 5<lf>                        Table of Amendments<lf>     ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected       How affected<lf>     S. 6                     am. No. 103, 1982; No. 109, 1986<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
+### <name>INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                   TABLE OF PROVISIONS<lf> Section<lf>     1\.    Short title<lf>     2\.    Commencement<lf>     3\.    Interpretation<lf>     4\.    Incorporation<lf>     5\.    Imposition of tax<lf>     6\.    Rate of tax<lf> </lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-###  Compilation Information 
-**
+### <name>INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect>    An Act to impose income tax upon certain payments made<lf>        in connection with the use of Aboriginal land<lf> </lf></lf></sect>
+**<b>
 
+### <name>INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 - SECT 1 Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Income Tax (Mining Withholding Tax) Act 1979\. *1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
+### <name>INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 - SECT 2 Commencement </name>
+</b>** 
 
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent. *1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
+### <name>INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 - SECT 3 Interpretation </name>
+</b>** 
 
-**
+## SECT
+<sect>   3\. In this Act, "Assessment Act" means the Income Tax Assessment Act 1936\. </sect>
+**<b>
 
-###  Long Title 
-**
-###  INCOME TAX (MINING WITHHOLDING TAX) ACT 1979- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Income Tax (Mining Withholding Tax) Act 1979_.
+### <name>INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 - SECT 4 Incorporation </name>
+</b>** 
 
- 
-###  INCOME TAX (MINING WITHHOLDING TAX) ACT 1979- SECT 2  Commencement [_see_ Note 1] 
-This Act shall come into operation on the day on which it receives the Royal
+## SECT
+<sect>   4\. The Assessment Act is incorporated and shall be read as one with this Act. </sect>
+**<b>
 
-Assent.
+### <name>INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 - SECT 5 Imposition of tax </name>
+</b>** 
 
- 
-###  INCOME TAX (MINING WITHHOLDING TAX) ACT 1979- SECT 3  Interpretation 
-In this Act, Assessment Act means the _Income Tax Assessment Act 1936_.
+## SECT
+<sect>   5\. The tax known as income tax, to the extent that it is payable in accordance with section 128V of the Assessment Act, is imposed, and shall be levied and paid. </sect>
+**<b>
 
- 
-###  INCOME TAX (MINING WITHHOLDING TAX) ACT 1979- SECT 4  Incorporation 
-The Assessment Act is incorporated and shall be read as one with this Act.
+### <name>INCOME TAX (MINING WITHHOLDING TAX) ACT 1979 - SECT 6 Rate of tax </name>
+</b>** 
 
- 
-###  INCOME TAX (MINING WITHHOLDING TAX) ACT 1979- SECT 5  Imposition of tax 
-The tax known as income tax, to the extent that it is payable in accordance
-
-with section&#160;128V of the Assessment Act, is imposed, and shall be levied
-
-and paid.
-
- 
-###  INCOME TAX (MINING WITHHOLDING TAX) ACT 1979- SECT 6  Rate of tax 
-The rate of income tax imposed by this Act is 4%.
-
- 
-**
-
-###  INCOME TAX (MINING WITHHOLDING TAX) ACT 1979<centreit>Notes to the _Income Tax (Mining Withholding Tax) Act 1979_ </centreit>
-**
-Note 1
-Income Tax (Mining Withholding Tax) Act 1979
-**Table of Acts**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </th>
-</tr></table>
-
-<center>Back to Top</center>
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Income Tax (Mining Withholding Tax) Act 1979</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>28, 1979</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>4&#160;June 1979</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>4&#160;June 1979</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Income Tax (Mining Withholding Tax) Amendment Act 1982</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>103, 1982</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>30 Oct 1982</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>30 Oct 1982 ( <i>see</i>s. 2)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 3(2)</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Taxation Laws (Miscellaneous Provisions) Act 1986</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>109, 1986</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>4 Nov 1986</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>4 Nov 1986</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 5</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Taxation Laws Amendment Act (No.&#160;3) 1994</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>138, 1994</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>28 Nov 1994</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Ss. 117 and 118: Royal Assent <i>(a)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 119</div>
-
-  </td>
-</tr></table>_(a)_ The _Income Tax (Mining Withholding Tax) Act 1979_ was amended by sections&#160;117 and 118 only of the _Taxation Laws Amendment Act (No. 3) 1994_, subsection 2(1) of which provides as follows:
-
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-**Table of Amendments**
-
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted 
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>How affected</div>
-
-  </td>
-</tr></table>
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 6</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;103, 1982; No.&#160;109, 1986; No.&#160;138, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr></table>
-
-
+## SECT
+<sect>   6\. The rate of income tax imposed by this Act is 5.8%. </sect>
