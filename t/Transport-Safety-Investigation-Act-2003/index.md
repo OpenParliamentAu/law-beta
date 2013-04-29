@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00667/Html/2e5d183d-6b39-44d0-9938-617d4f9a4a2d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00270/Html/TransportSafetyInv2003_image001.gif)
 
 # Transport Safety Investigation Act 2003
 
 **Act No. 18 of 2003 as amended**
 
-This compilation was prepared on 15 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 July 2009
+ taking into account amendments up to Act No. 26 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -198,13 +198,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [46](#46).          Compensation for damage to electronic equipment
 
-[47](#47).          Self‑incrimination not an excuse
+[47](#47).          Self-incrimination not an excuse
 
 **Part 6—Protection of OBR information and restricted information** 
 
     **Division 1—OBR information**
 
-[48](#48).          Definition of _OBR_ or _on‑board recording_
+[48](#48).          Definition of _OBR_ or _on-board recording_
 
 [49](#49).          OBR ceasing to be an OBR under declaration of ATSB
 
@@ -440,7 +440,7 @@ Note:          Civil proceedings includes a coronial inquiry. 
 
                     <a name="civil-transport-facil"></a>**_civil transportation facility_** means an installation in Australia designed or used to facilitate the operation or maintenance of a transport vehicle that is not an exempt transport vehicle.
 
-                    <a name="commission"></a>**_Commissioner_** means the Chief Commissioner and a part‑time Commissioner.
+                    <a name="commission"></a>**_Commissioner_** means the Chief Commissioner and a part-time Commissioner.
 
                     <a name="committe-manag"></a>**_committee of management_** of an unincorporated association means a body (however described) that governs, manages or conducts the affairs of the association.
 
@@ -516,9 +516,9 @@ Note:          Civil proceedings includes a coronial inquiry. 
 
                     <a name="nomin-offici"></a>**_nominated official_**, in relation to a reportable matter, means a person prescribed by the regulations under section 20 in relation to the matter concerned.
 
-                    <a name="non-staff-member"></a>**_non‑staff member_** means a person who is not a staff member.
+                    <a name="non-staff-member"></a>**_non-staff member_** means a person who is not a staff member.
 
-                    <a name="board-record"></a><a name="obr"></a>**_OBR_** or **_on‑board recording_** has the meaning given by section 48.
+                    <a name="board-record"></a><a name="obr"></a>**_OBR_** or **_on-board recording_** has the meaning given by section 48.
 
 Note:          See also section 49 which allows the ATSB to declare that a recording is no longer an OBR.
 
@@ -534,7 +534,7 @@ Note:          See also section 49 which allows the ATSB to 
 
                     <a name="oper-duti"></a>**_operational duties_** means duties or functions in connection with the operation or safety of the transport vehicle.
 
-                    <a name="part-time-commission"></a>**_part‑time Commissioner_** means a person appointed on a part‑time basis under subsection 13(2).
+                    <a name="part-time-commission"></a>**_part-time Commissioner_** means a person appointed on a part-time basis under subsection 13(2).
 
                     <a name="power"></a>**_power_** includes a function or duty.
 
@@ -586,7 +586,7 @@ Note:          See also section 49 which allows the ATSB to 
 
                     <a name="routin-report-matter"></a>**_routine reportable matter_** means an investigable matter that is prescribed by the regulations for the purposes of this definition.
 
-                    <a name="royal-commiss"></a>**_Royal Commission_** means a Commission that has been commissioned by the Governor‑General to conduct an inquiry, and includes any member of such a Commission.
+                    <a name="royal-commiss"></a>**_Royal Commission_** means a Commission that has been commissioned by the Governor-General to conduct an inquiry, and includes any member of such a Commission.
 
                     <a name="safeti-action-statem"></a>**_safety action statement_** means a statement:
 
@@ -638,7 +638,7 @@ Note:          See also section 49 which allows the ATSB to 
 
              (2)  However, this Act does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="5"></a>5  External Territories
+##### <a id="5"></a>5  External  Territories
 
                    This Act extends to the external Territories.
 
@@ -744,7 +744,7 @@ Definition
 
              (5)  In this section:
 
-                    <a name="outsid-australia"></a>**_outside Australia_** means outside the baseline from which the breadth of the territorial sea is measured under section 7 of the _Seas and Submerged Lands Act 1973_.
+                    <a name="australia"></a><a name="outsid"></a>**_outside_****_Australia_** means outside the baseline from which the breadth of the territorial sea is measured under section 7 of the _Seas and Submerged Lands Act 1973_.
 
 Note:          A reference to Australia in any other provision of this Act includes a reference to the coastal sea of Australia: see section 15B of the _Acts Interpretation Act 1901_.
 
@@ -856,11 +856,11 @@ Note:          This means that the ATSB and the Chief Commissi
 
 ##### <a id="13"></a>13  Appointment
 
-             (1)  The Chief Commissioner is to be appointed by the Minister by written instrument, on a full‑time basis.
+             (1)  The Chief Commissioner is to be appointed by the Minister by written instrument, on a full-time basis.
 
 Note:          The Chief Commissioner is also the Chief Executive Officer: see section 15.
 
-             (2)  Other Commissioners are to be appointed by the Minister by written instrument, on a part‑time basis.
+             (2)  Other Commissioners are to be appointed by the Minister by written instrument, on a part-time basis.
 
              (3)  A person is eligible to be appointed as a Commissioner only if the person has a high level of expertise in one or more areas relevant to the ATSB’s functions.
 
@@ -870,7 +870,7 @@ Note:          The Chief Commissioner is also the Chief Execut
 
              (1)  The Chief Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
-             (2)  A part‑time Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
+             (2)  A part-time Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
 Note:          A Commissioner is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
@@ -888,13 +888,13 @@ Note:          A Commissioner is eligible for reappointment: s
 
              (2)  The Minister may grant to the Chief Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration that the Minister determines.
 
-             (3)  The Chief Commissioner may grant leave of absence to a part‑time Commissioner on the terms and conditions that the Chief Commissioner determines.
+             (3)  The Chief Commissioner may grant leave of absence to a part-time Commissioner on the terms and conditions that the Chief Commissioner determines.
 
 ##### <a id="13AC"></a>13AC  Outside employment
 
              (1)  The Chief Commissioner must not engage in paid employment outside the duties of the Chief Commissioner’s office without the Minister’s written consent.
 
-             (2)  A part‑time Commissioner must not engage in any paid employment that conflicts or may conflict with the proper performance of his or her duties without the Minister’s written consent.
+             (2)  A part-time Commissioner must not engage in any paid employment that conflicts or may conflict with the proper performance of his or her duties without the Minister’s written consent.
 
 ##### <a id="13AD"></a>13AD  Resignation
 
@@ -902,7 +902,7 @@ Note:          A Commissioner is eligible for reappointment: s
 
              (2)  If the Chief Commissioner resigns, he or she also resigns his or her position as the Chief Executive Officer.
 
-Note:          Subsection (2) does not prevent a person who is both the Chief Commissioner and the Chief Executive Officer from being re‑appointed only as a part‑time Commissioner.
+Note:          Subsection (2) does not prevent a person who is both the Chief Commissioner and the Chief Executive Officer from being re-appointed only as a part-time Commissioner.
 
              (3)  The resignation takes effect on the day on which it is received by the Minister or, if a later day is specified in the resignation, on that later day.
 
@@ -942,9 +942,9 @@ Additional grounds: Chief Commissioner
 
                      (b)  the Commissioner engages, except with the Minister’s written consent, in paid employment outside the duties of his or her office.
 
-Additional grounds: part‑time Commissioners
+Additional grounds: part-time Commissioners
 
-             (3)  The Minister may terminate the appointment of a part‑time Commissioner if:
+             (3)  The Minister may terminate the appointment of a part-time Commissioner if:
 
                      (a)  the Commissioner engages, except with the Minister’s written consent, in paid employment that conflicts or may conflict with the proper performance of the Commissioner’s duties; or
 
@@ -962,7 +962,7 @@ Additional grounds: part‑time Commissioners
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-             (2)  To avoid doubt, a part‑time Commissioner or staff member (within the meaning of paragraph (b) of the definition of that expression) may be appointed to act as the Chief Commissioner.
+             (2)  To avoid doubt, a part-time Commissioner or staff member (within the meaning of paragraph (b) of the definition of that expression) may be appointed to act as the Chief Commissioner.
 
              (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
 
@@ -1244,7 +1244,7 @@ Note:          See also section 11, which puts constitutiona
 
                       (f)  any property is damaged as a result of an occurrence associated with the operation of the transport vehicle;
 
-                     (g)  the transport vehicle is involved in a near‑accident;
+                     (g)  the transport vehicle is involved in a near-accident;
 
                      (h)  the transport vehicle is involved in an occurrence that affected, or could have affected, the safety of the operation of the transport vehicle.
 
@@ -1500,7 +1500,7 @@ Identity card must be carried
 
                     Penalty:  30 penalty units.
 
-Note:          Self‑incrimination is not an excuse for failing to answer a question. See section 47.
+Note:          Self-incrimination is not an excuse for failing to answer a question. See section 47.
 
              (6)  Strict liability applies to the element of the offence against subsection (5) that the requirement is given in accordance with this section.
 
@@ -1606,7 +1606,7 @@ Offence
 
                     Penalty:  30 penalty units.
 
-Note:          Self‑incrimination is not an excuse for failing to answer a question. See section 47.
+Note:          Self-incrimination is not an excuse for failing to answer a question. See section 47.
 
              (6)  Strict liability applies to the element of the offence against subsection (5) that the requirement is under subsection (3) or (4).
 
@@ -1916,7 +1916,7 @@ Note:          Part 6 deals with the protection of OBR infor
 
                     <a name="damag"></a>**_damage_**, in relation to data, includes damage by erasure of data or addition of other data.
 
-##### <a id="47"></a>47  Self‑incrimination not an excuse
+##### <a id="47"></a>47  Self-incrimination not an excuse
 
              (1)  A person is not excused from answering a question or producing evidential material in response to a requirement under this Part on the ground that the answer, or the production of the material, might tend to incriminate the person or make the person liable to a penalty.
 
@@ -1936,9 +1936,9 @@ are not admissible in evidence against the person in any civil or criminal proce
 
 ### Division 1—OBR information
 
-##### <a id="48"></a>48  Definition of _OBR_ or _on‑board recording_
+##### <a id="48"></a>48  Definition of _OBR_ or _on-board recording_
 
-             (1)  A recording is an **_OBR_** (or **_on‑board recording_**) for the purposes of this Act if:
+             (1)  A recording is an **_OBR_** (or **_on-board recording_**) for the purposes of this Act if:
 
                      (a)  the recording consists of (or consists mainly of) sounds or images, or sounds and images, of persons in the control area of a transport vehicle; and
 
@@ -1958,7 +1958,7 @@ are not admissible in evidence against the person in any civil or criminal proce
 
                              (v)  the immediately reportable matter also involved another transport vehicle that was on a constitutional journey, or was owned or operated by a constitutional corporation or Commonwealth entity.
 
-             (2)  A recording is also an **_OBR_** (or **_on‑board recording_**) for the purposes of this Act if:
+             (2)  A recording is also an **_OBR_** (or **_on-board recording_**) for the purposes of this Act if:
 
                      (a)  the recording consists of (or consists mainly of) sounds or images, or sounds and images, of persons in the control area of a transport vehicle; and
 
@@ -1966,7 +1966,7 @@ are not admissible in evidence against the person in any civil or criminal proce
 
                      (c)  any part of the recording was made at the time of the occurrence of an immediately reportable matter that involved the transport vehicle.
 
-             (3)  An **_OBR_** (or **_on‑board recording_**) does not include a recording that is of a kind declared by the regulations not to be an OBR for the purposes of this Act.
+             (3)  An **_OBR_** (or **_on-board recording_**) does not include a recording that is of a kind declared by the regulations not to be an OBR for the purposes of this Act.
 
              (4)  In this section:
 
@@ -2012,9 +2012,9 @@ the ATSB must, by published notice, identify that part and declare that part is 
 
 ##### <a id="52"></a>52  ATSB may authorise persons to have access to OBR information
 
-                   The ATSB may authorise a non‑staff member to have access to OBR information if the ATSB considers that it is necessary or desirable to do so.
+                   The ATSB may authorise a non-staff member to have access to OBR information if the ATSB considers that it is necessary or desirable to do so.
 
-Note:          The non‑staff member is subject to confidentiality requirements of section 53.
+Note:          The non-staff member is subject to confidentiality requirements of section 53.
 
 ##### <a id="53"></a>53  Copying or disclosing OBR information
 
@@ -2190,7 +2190,7 @@ Commissioners, staff members and consultants
 
                     Penalty:  Imprisonment for 2 years.
 
-Non‑staff members
+Non-staff members
 
              (3)  A person who has, or had, access to restricted information under section 62 must not:
 
@@ -2248,15 +2248,15 @@ Courts
 
 ##### <a id="62"></a>62  ATSB may authorise persons to have access to restricted information
 
-                   The ATSB may authorise a non‑staff member to have access to restricted information if the ATSB considers that it is necessary or desirable to do so.
+                   The ATSB may authorise a non-staff member to have access to restricted information if the ATSB considers that it is necessary or desirable to do so.
 
-Note:          The non‑staff member is subject to the confidentiality requirements of section 60.
+Note:          The non-staff member is subject to the confidentiality requirements of section 60.
 
 ### Division 3—Miscellaneous
 
 ##### <a id="63"></a>63  Powers of Parliament and Royal Commissions not affected
 
-                   Nothing in this Part affects the information‑gathering powers of:
+                   Nothing in this Part affects the information-gathering powers of:
 
                      (a)  the Parliament or a House of the Parliament; or
 
@@ -2480,7 +2480,7 @@ then the Commonwealth is liable to pay compensation of a reasonable amount to th
 
 ##### <a id="71"></a>71  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2581,23 +2581,6 @@ Schedule 1 (items 27–29): Royal Assent</div>
   <td>
     <div>Sch. 1 (items 
 27–29)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1165–1169) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -3520,38 +3503,6 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1165  Subsection 13A(2) (note)
-
-Omit “subsection 33(4A)”, substitute “section 33AA”.
-
-## 1166  At the end of subsection 13AH(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1167  Subsection 13AH(3)
-
-Repeal the subsection.
-
-## 1168  Subsection 63B(3) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-## 1169  Subsection 63C(2) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-As at 15 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3576,15 +3527,15 @@ In this Part:
 
 ## 105  Continuation of existing investigations under the _Transport Safety Investigation Act 2003_
 
-(1)       If, before 1 July 2009, the Executive Director was conducting an investigation under the old law, then the ATSB may continue the investigation.
+(1)        If, before 1 July 2009, the Executive Director was conducting an investigation under the old law, then the ATSB may continue the investigation.
 
-(2)       Anything done by, or in relation to, the Executive Director under such an investigation is taken, for the purposes of the operation of any law on and after 1 July 2009, to have been done by, or in relation to, the ATSB or the Chief Commissioner, as the case requires.
+(2)        Anything done by, or in relation to, the Executive Director under such an investigation is taken, for the purposes of the operation of any law on and after 1 July 2009, to have been done by, or in relation to, the ATSB or the Chief Commissioner, as the case requires.
 
-(3)       The Minister may, by writing, determine that subitem (2) does not apply in relation to a specified thing done by, or in relation to, the Executive Director.
+(3)        The Minister may, by writing, determine that subitem (2) does not apply in relation to a specified thing done by, or in relation to, the Executive Director.
 
-(4)       To avoid doubt, doing a thing includes making an instrument.
+(4)        To avoid doubt, doing a thing includes making an instrument.
 
-(5)       A determination under subitem (3) is not a legislative instrument.
+(5)        A determination under subitem (3) is not a legislative instrument.
 
 ## 106  Exercise of powers in relation to completed investigations
 
@@ -3612,7 +3563,7 @@ on and after the date that this item commences until the regulations mentioned i
 
 ## 108  Validation of acts done under investigations conducted under the _Navigation Act 1912_
 
-(1)       To avoid doubt, any thing done by a person:
+(1)        To avoid doubt, any thing done by a person:
 
                      (a)  in the performance or purported performance of a function; or
 
@@ -3620,7 +3571,7 @@ on and after the date that this item commences until the regulations mentioned i
 
 under an investigation conducted under the _Navigation (Marine Casualty) Regulations 1990_ is taken always to have been validly performed or exercised, as it would have been had paragraph 425(1)(ea) and subsection 425(1AAA) of the _Navigation Act 1912_ not been repealed by items 8 and 9 of the _Transport Safety Investigation (Consequential Amendments) Act 2003_.
 
-(2)       For the purpose of paragraph 106(c) of this Part, paragraph 425(1)(ea) and subsection 425(1AAA) of the _Navigation Act 1912_ continue in force, despite their repeal by items 8 and 9 of the _Transport Safety Investigation (Consequential Amendments) Act 2003_.
+(2)        For the purpose of paragraph 106(c) of this Part, paragraph 425(1)(ea) and subsection 425(1AAA) of the _Navigation Act 1912_ continue in force, despite their repeal by items 8 and 9 of the _Transport Safety Investigation (Consequential Amendments) Act 2003_.
 
 ## 109  Saving regulations
 
@@ -3644,21 +3595,5 @@ The amendments made by items 19 and 20 apply in relation to immediately report
 ## 29  Application of amendment of section 24 of the _Transport Safety Investigation Act 2003_
 
 The amendment made by item 21 applies in relation to conduct engaged in on or after the commencement of Part 3 of this Schedule.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
