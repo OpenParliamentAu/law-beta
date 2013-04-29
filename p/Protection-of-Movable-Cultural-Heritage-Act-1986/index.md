@@ -1,7 +1,8 @@
 
+
 Protection of Movable Cultural Heritage Act 1986
 Act No. 11 of 1986 as amended 
-This compilation was prepared on 7 February 2001  taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 1 February 2000  taking into account amendments up to Act No. 146, 1999
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
   
@@ -44,33 +45,34 @@ Part IV—National Cultural Heritage Account	20
 25	Establishment of National Cultural Heritage Account	20
 25A	Credits to Account	20
 25B	Purpose of Account	20
-26	Taxation	20
-Part V—Enforcement of Act	21
-27	Interpretation	21
-28	Inspectors	21
-29	Identity cards	22
-30	Search warrants	22
-31	Search warrants granted by telephone	24
-32	Searches in emergencies	25
-33	Powers of arrest	26
-34	Seizure of protected objects	27
-35	Power of retention	27
-36	Notice of seizure	27
-37	Court proceedings	29
-38	Result of forfeiture	30
-39	Production of permit	30
-40	Proof of authority	31
-41	Foreign country to request return of objects	31
-42	False statements	31
-43	Assistance of inspectors	32
-44	Obstruction of inspectors	32
-45	Personation of inspectors	32
-46	Indictable offences	32
-Part VI—Miscellaneous	34
-47	Annual report	34
-48	Administrative Appeals Tribunal	34
-49	Regulations	34
-Notes		35
+26	Taxation	21
+Part V—Enforcement of Act	22
+27	Interpretation	22
+28	Inspectors	22
+29	Identity cards	23
+30	Search warrants	23
+31	Search warrants granted by telephone	25
+32	Searches in emergencies	26
+33	Powers of arrest	27
+34	Seizure of protected objects	28
+35	Power of retention	28
+36	Notice of seizure	28
+37	Court proceedings	30
+38	Result of forfeiture	31
+39	Production of permit	31
+40	Proof of authority	32
+41	Foreign country to request return of objects	32
+42	False statements	32
+43	Assistance of inspectors	33
+44	Obstruction of inspectors	33
+45	Personation of inspectors	33
+46	Indictable offences	34
+Part VI—Miscellaneous	35
+47	Annual report	35
+48	Administrative Appeals Tribunal	35
+49	Regulations	35
+Notes		37
+
 An Act to protect Australia’s heritage of movable cultural objects, to support the protection by foreign countries of their heritage of movable cultural objects, and for related purposes
 Part I—Preliminary
   
@@ -542,7 +544,7 @@ Notes to the Protection of Movable Cultural Heritage Act 1986
 Note 1
 The Protection of Movable Cultural Heritage Act 1986 as shown in this compilation comprises Act No. 11, 1986 amended as indicated in the Tables below.
 For all relevant information pertaining to application, saving or transitional provisions see Table A.
-The Protection of Movable Cultural Heritage Act 1986 was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (as amended) see Table B.
+The Protection of Movable Cultural Heritage Act 1986 was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (as amended). see Table B
 Table of Acts
 Act
 Number  and year
@@ -589,11 +591,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (item 752): 5 Dec 1999 (see Gazette 1999, No. S584) (d)
 —
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Schedule 2 (items 329‑334, 418, 419): [see (e), Note 2 and Table A]
-Sch. 2 (items 418, 419)
 
 (a)	The Protection of Movable Cultural Heritage Act 1986 was amended by Part 7 (sections 14-23) only of the Arts, Environment, Tourism and Territories Legislation Amendment Act 1990, subsection 2(1) of which provides as follows:
 	(1)	Parts 1, 4, 5, 6, 7 and 8 commence on the day on which this Act receives the Royal Assent.
@@ -604,9 +601,6 @@ Sch. 2 (items 418, 419)
 (d)	The Protection of Movable Cultural Heritage Act 1986 was amended by Schedule 1 (item 752) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(e)	The Protection of Movable Cultural Heritage Act 1986 was amended by Schedule 2 (items 329‑334) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
-	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
-	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -651,47 +645,12 @@ am. No. 101, 1999
 S. 48 	
 am. No. 88, 1990
 
-Note 2
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following amendments commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-329  After subsection 3(3)
-Insert:
-	(3A)	A reference in this Act to an offence against this Act includes a reference to an offence against section 148.1, 148.2, 147.1 or 149.1 of the Criminal Code that relates to this Act.
-330  Section 44
-Repeal the section.
-331  Section 45
-Repeal the section.
-332  Subsection 46(1)
-Omit “or section 45”.
-333  Subsection 46(2)
-Omit “or 44”.
-334  Paragraph 46(4)(b)
-Omit “or section 45”.
-As at 7 February 2001 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Protection of Movable Cultural Heritage Amendment Act 1999 (No. 101, 1999)
 Schedule 1
 9  Application of items 7 and 8
 Whether this Act commences on 1 July 1999 or on a later date, the amendments of the Protection of Movable Cultural Heritage Act 1986 made by items 7 and 8 apply in relation to the financial year commencing on 1 July 1999 and each subsequent financial year.
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following provisions commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 Table B
 Modifications
 A.C.T. Self-Government (Consequential Provisions) Regulations
