@@ -1,15 +1,15 @@
-![](http://www.comlaw.gov.au/Details/C2011C00277/Html/fb7ce42d-c499-4229-9c36-f20816b9a2f2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00488/Html/CustTariff95Vol1_WD02_image001.gif)
 
 # Customs Tariff Act 1995
 
 **Act No. 147 of 1995 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 6 July 2010
+ taking into account amendments up to Act No. 85 of 2010
 
-**Volume 1** includes:     Table of Contents
+**Volume 1** includes:       Table of Contents
          User’s guide
-         Sections 1‑22
+         Sections 1-22
          Schedules 1 and 2
 
 The text of any of those amendments not in force
@@ -18,22 +18,22 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-**Volume 2** includes:      Table of Contents
+**Volume 2** includes:       Table of Contents
          Schedule 3 (Chapter 1 to Chapter 38)
 
-**Volume 3**includes:      Table of Contents
+**Volume 3**includes:       Table of Contents
          Schedule 3 (Chapter 39 to Chapter 59)
 
-**Volume 4**includes:      Table of Contents
+**Volume 4**includes:       Table of Contents
          Schedule 3 (Chapter 60 to Chapter 73)
 
-**Volume 5** includes:      Table of Contents
+**Volume 5** includes:       Table of Contents
          Schedule 3 (Chapter 74 to Chapter 97)
 
-**Volume 6** includes:      Table of Contents
+**Volume 6** includes:       Table of Contents
          Schedules 4–8
 
-**Volume 7** includes:      Note 1
+**Volume 7** includes:       Note 1
          Table of Acts
          Act Notes
          Table of Amendments
@@ -41,7 +41,7 @@ The operation of amendments that have been incorporated may be
          Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -81,7 +81,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13D](#13D).       When goods are Chilean originating goods
 
-[13E](#13E).        When goods are ASEAN‑Australia‑New Zealand (AANZ) originating goods
+[13E](#13E).        When goods are ASEAN-Australia-New Zealand (AANZ) originating goods
 
 [14](#14).          Application of rates of duty in relation to countries and places
 
@@ -151,7 +151,7 @@ The operation of the Act
 
 Note:          The text of the Agreement is set out in Australian Treaty Series 1995 No. 8\. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible through that Department’s website.
 
-                   The rate of duty applicable to particular goods is determined by the classification to which those goods belong and, in most cases, by reference to Schedule 3\. However, the rate of duty for US originating goods is determined under Schedule 5, the rate of duty for Thai originating goods is determined under Schedule 6, the rate of duty for Chilean originating goods is determined under Schedule 7 and the rate of duty for ASEAN‑Australia‑New Zealand (AANZ) originating goods is determined under Schedule 8.
+                   The rate of duty applicable to particular goods is determined by the classification to which those goods belong and, in most cases, by reference to Schedule 3\. However, the rate of duty for US originating goods is determined under Schedule 5, the rate of duty for Thai originating goods is determined under Schedule 6, the rate of duty for Chilean originating goods is determined under Schedule 7 and the rate of duty for ASEAN-Australia-New Zealand (AANZ) originating goods is determined under Schedule 8.
 
                    Under Schedule 4, goods imported into Australia in specified circumstances, including goods imported for use by particular persons or bodies or in particular industries, may be subject to a lesser rate of duty than the nominal rate applying under Schedule 3, 5, 6, 7 or 8.
 
@@ -181,7 +181,7 @@ The organisation of the Act
 
                    Schedule 7 sets out the rate of duty for Chilean originating goods.
 
-                   Schedule 8 sets out the rate of duty for ASEAN‑Australia‑New Zealand (AANZ) originating goods.
+                   Schedule 8 sets out the rate of duty for ASEAN-Australia-New Zealand (AANZ) originating goods.
 
 ## An Act to impose duties of Customs, to repeal the _Customs Tariff Act 1987_, and for related purposes
 
@@ -203,7 +203,7 @@ The organisation of the Act
 
                     <a name="amount-duti"></a>**_amount of duty_** includes no duty.
 
-                    <a name="capabl-produc-australia"></a>**_capable of being produced in Australia_** has the same meaning as in Part XVA of the _Customs Act 1901_.
+                    <a name=""></a><a name="australia"></a><a name="capabl-produc"></a>**_capable of being produced in_****_Australia_** has the same meaning as in Part XVA of the _Customs Act 1901_.
 
                     <a name="chapter"></a>**_Chapter_** means a Chapter of a Section in Schedule 3.
 
@@ -253,7 +253,7 @@ The organisation of the Act
 
                     <a name="prefer-countri"></a>**_Preference Country_** means:
 
-                     (b)  Papua New Guinea; or
+                     (b)  Papua   New Guinea; or
 
                      (c)  a Forum Island Country; or
 
@@ -265,7 +265,7 @@ The organisation of the Act
 
                      (g)  Singapore.
 
-                    <a name="produc-australia"></a>**_produced in Australia_** has the same meaning as in Part XVA of the _Customs Act 1901_.
+                    <a name="australia"></a><a name="produc"></a>**_produced in_****_Australia_** has the same meaning as in Part XVA of the _Customs Act 1901_.
 
                     <a name="rate-column"></a>**_rate column_** means:
 
@@ -291,7 +291,7 @@ The organisation of the Act
 
                      (b)  a Notice published (whether before or after the commencement of this Act) in accordance with section 273EA of the _Customs Act 1901_; or
 
-                     (c)  an order, a by‑law or a determination made (whether before or after the commencement of this Act) under the _Customs Act 1901_.
+                     (c)  an order, a by-law or a determination made (whether before or after the commencement of this Act) under the _Customs Act 1901_.
 
                     <a name="tobacco-content"></a>**_tobacco content_** includes any thing (including moisture) added to the tobacco leaf during manufacturing or processing.
 
@@ -337,7 +337,7 @@ The organisation of the Act
 
              (1)  The Interpretation Rules must be used for working out the tariff classification under which goods are classified.
 
-             (2)  If the letters “NSA” are specified in relation to a description of goods in the second column of a subheading of a heading, the goods described do not include any goods _prima facie_ classified under a preceding subheading of that heading whose second column begins with the same number of dashes as the first‑mentioned subheading.
+             (2)  If the letters “NSA” are specified in relation to a description of goods in the second column of a subheading of a heading, the goods described do not include any goods _prima facie_ classified under a preceding subheading of that heading whose second column begins with the same number of dashes as the first-mentioned subheading.
 
              (3)  A reference in the Interpretation Rules to Notes includes a reference to Additional Notes.
 
@@ -359,15 +359,15 @@ Note 2:       The text of the Convention is set out in Australian Tr
 
                      (a)  a reference to a Tariff Concession Order includes a reference:
 
-                              (i)  to a commercial tariff concession order made under Part XVA of the _Customs Act 1901_ as in force immediately before the commencement of the _Customs Legislation (Tariff Concessions and Anti‑Dumping) Amendment Act 1992_; and
+                              (i)  to a commercial tariff concession order made under Part XVA of the _Customs Act 1901_ as in force immediately before the commencement of the _Customs Legislation (Tariff Concessions and Anti-Dumping) Amendment Act 1992_; and
 
-                             (ii)  to a commercial tariff concession order made under that Part as continued in force by section 20 of the _Customs Legislation (Tariff Concessions and Anti‑Dumping) Amendment Act 1992_; and
+                             (ii)  to a commercial tariff concession order made under that Part as continued in force by section 20 of the _Customs Legislation (Tariff Concessions and Anti-Dumping) Amendment Act 1992_; and
 
                      (b)  a reference to section 269Q of the _Customs Act 1901_ includes a reference:
 
-                              (i)  to subsection 269C(1A) of the _Customs Act 1901_ as in force immediately before the commencement of the _Customs Legislation (Tariff Concessions and Anti‑Dumping) Amendment Act 1992_; and
+                              (i)  to subsection 269C(1A) of the _Customs Act 1901_ as in force immediately before the commencement of the _Customs Legislation (Tariff Concessions and Anti-Dumping) Amendment Act 1992_; and
 
-                             (ii)  to that subsection as continued in force by section 20 of the _Customs Legislation (Tariff Concessions and Anti‑Dumping) Amendment Act 1992_.
+                             (ii)  to that subsection as continued in force by section 20 of the _Customs Legislation (Tariff Concessions and Anti-Dumping) Amendment Act 1992_.
 
 ##### <a id="9"></a>9  Rates of duty—ad valorem duties
 
@@ -393,13 +393,13 @@ Note 2:       The text of the Convention is set out in Australian Tr
 
                      (b)  the third column of an item in Schedule 4 that applies to goods; or
 
-                   (ba)  the third column of an item in the table in Schedule 5 that applies to goods; or
+                    (ba)  the third column of an item in the table in Schedule 5 that applies to goods; or
 
-                   (bb)  the third column of an item in the table in Schedule 6 that applies to goods; or
+                    (bb)  the third column of an item in the table in Schedule 6 that applies to goods; or
 
-                   (bc)  the third column of an item in the table in Schedule 7 that applies to goods; or
+                    (bc)  the third column of an item in the table in Schedule 7 that applies to goods; or
 
-                   (bd)  the third column of an item in the table in Schedule 8 that applies to goods;
+                    (bd)  the third column of an item in the table in Schedule 8 that applies to goods;
 
 has effect from a specified date if that date preceded by the word “From” is specified in:
 
@@ -423,13 +423,13 @@ as the case may be in relation to that rate.
 
                      (b)  the third column of an item in Schedule 4 that applies to goods; or
 
-                   (ba)  the third column of an item in the table in Schedule 5 that applies to goods; or
+                    (ba)  the third column of an item in the table in Schedule 5 that applies to goods; or
 
-                   (bb)  the third column of an item in the table in Schedule 6 that applies to goods; or
+                    (bb)  the third column of an item in the table in Schedule 6 that applies to goods; or
 
-                   (bc)  the third column of an item in the table in Schedule 7 that applies to goods; or
+                    (bc)  the third column of an item in the table in Schedule 7 that applies to goods; or
 
-                   (bd)  the third column of an item in the table in Schedule 8 that applies to goods;
+                    (bd)  the third column of an item in the table in Schedule 8 that applies to goods;
 
 has effect from a specified day, then, in working out the duty in respect of goods of that kind, or goods that are part of goods of that kind, that are entered for home consumption:
 
@@ -465,13 +465,13 @@ has effect from a specified day, then, in working out the duty in respect of goo
 
 ##### <a id="13C"></a>13C  When goods are New Zealand originating goods
 
-                   For the purposes of this Act, goods are New Zealand originating goods if, and only if, they are New Zealand originating goods under Division 1E of Part VIII of the _Customs Act 1901_.
+                   For the purposes of this Act, goods are New   Zealand originating goods if, and only if, they are New Zealand originating goods under Division 1E of Part VIII of the _Customs Act 1901_.
 
 ##### <a id="13D"></a>13D  When goods are Chilean originating goods
 
                    For the purposes of this Act, goods are Chilean originating goods if, and only if, they are Chilean originating goods under Division 1F of Part VIII of the _Customs Act 1901_.
 
-##### <a id="13E"></a>13E  When goods are ASEAN‑Australia‑New Zealand (AANZ) originating goods
+##### <a id="13E"></a>13E  When goods are ASEAN-Australia-New Zealand (AANZ) originating goods
 
                    For the purposes of this Act, goods are AANZ originating goods if, and only if, they are AANZ originating goods under Division 1G of Part VIII of the _Customs Act 1901_.
 
@@ -791,11 +791,11 @@ Definitions
 
 ##### <a id="17"></a>17  Rates for goods with constituents etc.
 
-             (1)  Subject to sections 18, 20 and 22, if the tariff classification under which goods are classified contains 2 or more phrases that describe goods and begin with the words “In respect of’’, the duty payable in respect of the first‑mentioned goods is:
+             (1)  Subject to sections 18, 20 and 22, if the tariff classification under which goods are classified contains 2 or more phrases that describe goods and begin with the words “In respect of’’, the duty payable in respect of the first-mentioned goods is:
 
-                     (a)  if the first‑mentioned goods have as constituents goods to which 2 or more of the phrases relate—the sum of the amounts of the duty, worked out in accordance with subsection (3), in respect of each of the goods to which those phrases respectively relate; or
+                     (a)  if the first-mentioned goods have as constituents goods to which 2 or more of the phrases relate—the sum of the amounts of the duty, worked out in accordance with subsection (3), in respect of each of the goods to which those phrases respectively relate; or
 
-                     (b)  if the first‑mentioned goods are, or have as constituents, goods to which only one phrase relates—the amount of duty, worked out in accordance with subsection (3), in respect of the goods to which that phrase relates.
+                     (b)  if the first-mentioned goods are, or have as constituents, goods to which only one phrase relates—the amount of duty, worked out in accordance with subsection (3), in respect of the goods to which that phrase relates.
 
              (2)  If the words “In respect of remainder” appear in a tariff classification under which goods are classified, those words constitute a phrase for the purposes of this section and the word “remainder” appearing in that phrase must be taken to be a description of:
 
@@ -875,7 +875,7 @@ other than goods to which another phrase contained in that tariff classification
 
                             (iii)  if a rate of duty that applies in relation to a Developing Country or place specified in Part 5 is set out in the third column of that item—by reference to that rate of duty;
 
-                     (g)  if the goods are the produce or manufacture of a Developing Country or Place specified in Part 4 of Schedule 1, (other than Hong Kong, Republic of   Korea, Singapore or Taiwan Province):
+                     (g)  if the goods are the produce or manufacture of a Developing Country or Place specified in Part 4 of Schedule 1, (other than Hong Kong, Republic of  Korea, Singapore or Taiwan Province):
 
                               (i)  if a rate of duty that applies in relation to those Developing Countries is set out in the third column of that item—by reference to that rate of duty; or
 
@@ -1479,7 +1479,7 @@ the duty in respect of the goods is equal to the sum of the amount of the duty t
 
 ##### <a id="20A"></a>20A  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1513,7 +1513,7 @@ _Section 12_
 
 ## Part 1—Forum Island Countries
 
-**Countries that are Forum Island Countries**
+**Countries that are****Forum****Island****Countries**
 
 <table>
 <colgroup>
@@ -1837,7 +1837,7 @@ CD</div>
 </tr>
 <tr>
   <td>
-    <div>Guinea‑Bissau</div>
+    <div>Guinea-Bissau</div>
   </td>
   <td>
     <div>GW</div>
@@ -2112,7 +2112,7 @@ TZ</div>
 </thead>
 <tr>
   <td>
-    <div>East Timor (Timor‑Leste)</div>
+    <div>East Timor (Timor-Leste)</div>
   </td>
   <td>
     <div>TL</div>
@@ -2273,7 +2273,7 @@ CD</div>
 </tr>
 <tr>
   <td>
-    <div>East Timor (Timor‑Leste)</div>
+    <div>East Timor (Timor-Leste)</div>
   </td>
   <td>
     <div>
@@ -2323,7 +2323,7 @@ TL</div>
 </tr>
 <tr>
   <td>
-    <div>Guinea‑Bissau</div>
+    <div>Guinea-Bissau</div>
   </td>
   <td>
     <div>GW</div>
@@ -3781,7 +3781,7 @@ _Section 7_
 
                    Classification of goods in Schedule 3 shall be governed by the following principles:
 
-              1.  The titles of Sections, Chapters and sub‑Chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative Section or Chapter Notes and, provided such headings or Notes do not otherwise require, according to the following provisions:
+              1.  The titles of Sections, Chapters and sub-Chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative Section or Chapter Notes and, provided such headings or Notes do not otherwise require, according to the following provisions:
 
 2.    (a)   Any reference in a heading to an article shall be taken to include a reference to that article incomplete or unfinished, provided that, as presented, the incomplete or unfinished article has the essential character of the complete or finished article. It shall also be taken to include a reference to that article complete or finished (or falling to be classified as complete or finished by virtue of this Rule), presented unassembled or disassembled.
 
@@ -3799,7 +3799,7 @@ _Section 7_
 
               5.  In addition to the foregoing provisions, the following Rules shall apply in respect of the goods referred to therein:
 
-                     (a)  Camera cases, musical instrument cases, gun cases, drawing instrument cases, necklace cases and similar containers, specially shaped or fitted to contain a specific article or set of articles, suitable for long‑term use and presented with the articles for which they are intended, shall be classified with such articles when of a kind normally sold therewith. This Rule does not, however, apply to containers which give the whole its essential character;
+                     (a)  Camera cases, musical instrument cases, gun cases, drawing instrument cases, necklace cases and similar containers, specially shaped or fitted to contain a specific article or set of articles, suitable for long-term use and presented with the articles for which they are intended, shall be classified with such articles when of a kind normally sold therewith. This Rule does not, however, apply to containers which give the whole its essential character;
 
                      (b)  Subject to the provisions of Rule 5(a) above, packing materials and packing containers presented with the goods therein shall be classified with the goods if they are of a kind normally used for packing such goods. However, this provision is not binding when such packing materials or packing containers are clearly suitable for repetitive use.
 
