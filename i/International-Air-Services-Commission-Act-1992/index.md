@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00837/Html/64b365cc-b3e6-4e9b-979d-ecc18c5f6d9d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00594/Html/IntnlAirServComm1992_WD02_image001.gif)
 
 # International Air Services Commission Act 1992
 
 **Act No. 103 of 1992 as amended**
 
-This compilation was prepared on 19 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 10 October 2006
+ taking into account amendments up to Act No. 109 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -154,11 +154,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [53](#53).          Annual report
 
-[54](#54).          Pre‑existing capacity
+[54](#54).          Pre-existing capacity
 
-[54A](#54A).       Pre‑existing capacity under special bilateral arrangement
+[54A](#54A).       Pre-existing capacity under special bilateral arrangement
 
-[54B](#54B).       Pre‑existing capacity
+[54B](#54B).       Pre-existing capacity
 
 [55](#55).          Regulations
 
@@ -250,7 +250,7 @@ under which the carriage by air of passengers or freight (or both) is permitted.
 
                      (b)  a variation of the determination that varies, or has the effect of varying, one or more conditions of a kind referred to in paragraph 15(2)(d), (e) or (f).
 
-                    <a name="wholli-owned-subsidiari"></a>**_wholly‑owned subsidiary_** has the same meaning as in the _Corporations Act 2001_.
+                    <a name="wholli-owned-subsidiari"></a>**_wholly-owned subsidiary_** has the same meaning as in the _Corporations Act 2001_.
 
              (2)  A reference in this Act to an allocation of capacity is a reference to a finding, included in a determination, that a specified Australian carrier should be permitted to use that capacity.
 
@@ -340,7 +340,7 @@ Note:          Division 2 of Part 3 is about renewing dete
 
                      (a)  a determination is in force relating to the allocation of that capacity; or
 
-                     (b)  the capacity relates to a non‑scheduled flight within the meaning of the _Air Navigation Act 1920_; or
+                     (b)  the capacity relates to a non-scheduled flight within the meaning of the _Air Navigation Act 1920_; or
 
                      (c)  the decision is made in other circumstances prescribed by the regulations.
 
@@ -462,9 +462,9 @@ Note:          Section 52 is about publication of notices.
 
                               (i)  the carrier;
 
-                             (ii)  a wholly‑owned subsidiary of the carrier;
+                             (ii)  a wholly-owned subsidiary of the carrier;
 
-                            (iii)  if the carrier is a wholly‑owned subsidiary of another Australian carrier—that other carrier; and
+                            (iii)  if the carrier is a wholly-owned subsidiary of another Australian carrier—that other carrier; and
 
                       (f)  must include a condition stating the extent to which changes in the ownership or control of any such carrier are permitted while the determination is in force.
 
@@ -472,7 +472,7 @@ Note:          Section 52 is about publication of notices.
 
           (2B)  If:
 
-                     (a)  a carrier is a wholly‑owned subsidiary of another Australian carrier; and
+                     (a)  a carrier is a wholly-owned subsidiary of another Australian carrier; and
 
                      (b)  that other carrier would, apart from any condition included under this subsection in a determination, be permitted by a condition referred to in paragraph (2)(ea) to use any capacity allocated to the subsidiary;
 
@@ -858,15 +858,15 @@ such allowances for travelling and other expenses in relation to his or her atte
 
 ##### <a id="40"></a>40  Appointment of members
 
-             (1)  The members of the Commission are to be appointed by the Governor‑General.
+             (1)  The members of the Commission are to be appointed by the Governor-General.
 
-             (2)  A member may be appointed on a full‑time or a part‑time basis.
+             (2)  A member may be appointed on a full-time or a part-time basis.
 
              (3)  A member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as the Minister determines.
 
 ##### <a id="41"></a>41  Qualification of members
 
-                   The Governor‑General must not appoint a person to the Commission unless the Governor‑General is satisfied that the person is suitably qualified for appointment because of substantial experience or expertise in one or more of the following fields:
+                   The Governor-General must not appoint a person to the Commission unless the Governor-General is satisfied that the person is suitably qualified for appointment because of substantial experience or expertise in one or more of the following fields:
 
                      (a)  law;
 
@@ -882,7 +882,7 @@ such allowances for travelling and other expenses in relation to his or her atte
 
              (1)  A member is to be appointed for the period, not exceeding 5 years, as specified in the instrument of appointment.
 
-             (2)  A member is eligible for re‑appointment.
+             (2)  A member is eligible for re-appointment.
 
 ##### <a id="43"></a>43  Remuneration and allowances
 
@@ -894,7 +894,7 @@ such allowances for travelling and other expenses in relation to his or her atte
 
 ##### <a id="44"></a>44  Leave of absence
 
-             (1)  If a member is appointed on a full‑time basis, the member has such recreation leave entitlements as the Remuneration Tribunal determines.
+             (1)  If a member is appointed on a full-time basis, the member has such recreation leave entitlements as the Remuneration Tribunal determines.
 
              (2)  The Minister may grant the Chairperson leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines in writing.
 
@@ -902,13 +902,13 @@ such allowances for travelling and other expenses in relation to his or her atte
 
 ##### <a id="45"></a>45  Resignation
 
-                   A member may resign from office by writing signed and delivered to the Governor‑General.
+                   A member may resign from office by writing signed and delivered to the Governor-General.
 
 ##### <a id="46"></a>46  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General may terminate the appointment of a member if the member:
+             (2)  The Governor-General may terminate the appointment of a member if the member:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
 
@@ -932,9 +932,9 @@ such allowances for travelling and other expenses in relation to his or her atte
 
 then:
 
-                     (c)  the first‑mentioned member must tell the other member that he or she has become aware that the other member has the interest; and
+                     (c)  the first-mentioned member must tell the other member that he or she has become aware that the other member has the interest; and
 
-                     (d)  if the other member does not then disclose the interest as required by paragraph (1)(a), the first‑mentioned member must disclose the interest to the remaining member (if any) and the parties (if any) to the proceedings; and
+                     (d)  if the other member does not then disclose the interest as required by paragraph (1)(a), the first-mentioned member must disclose the interest to the remaining member (if any) and the parties (if any) to the proceedings; and
 
                      (e)  except with the consent of the other members and the parties (if any), the member who has the interest must not take part, or any further part, as the case may be, in the proceedings.
 
@@ -1004,13 +1004,13 @@ the Secretary must give written notice to the Commission of the operational deci
 
              (2)  The Minister must cause a copy of each such report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister received the report.
 
-##### <a id="54"></a>54  Pre‑existing capacity
+##### <a id="54"></a>54  Pre-existing capacity
 
              (1)  In this section:
 
-                    <a name="pre-existing-capac"></a>**_pre‑existing capacity_** means capacity that came into existence before the commencement of this Act.
+                    <a name="pre-existing-capac"></a>**_pre-existing capacity_** means capacity that came into existence before the commencement of this Act.
 
-             (2)  The Minister may, by legislative instrument, declare that this Act applies to the pre‑existing capacity specified in the instrument as if, immediately after the commencement of this Act, the Commission had made a determination in the terms set out in the instrument.
+             (2)  The Minister may, by legislative instrument, declare that this Act applies to the pre-existing capacity specified in the instrument as if, immediately after the commencement of this Act, the Commission had made a determination in the terms set out in the instrument.
 
              (3)  Subject to subsection (5), this Act (other than section 7 and Division 1 of Part 3) has effect in relation to that capacity as if the Commission had made a determination accordingly.
 
@@ -1026,11 +1026,11 @@ the Secretary must give written notice to the Commission of the operational deci
 
              (5)  A statement may not be included under paragraph (4)(a) in relation to capacity in relation to which operational decisions were in force on 26 February 1992.
 
-##### <a id="54A"></a>54A  Pre‑existing capacity under special bilateral arrangement
+##### <a id="54A"></a>54A  Pre-existing capacity under special bilateral arrangement
 
              (1)  In this section:
 
-                    <a name="pre-existing-capac"></a>**_pre‑existing capacity_** means capacity:
+                    <a name="pre-existing-capac"></a>**_pre-existing capacity_** means capacity:
 
                      (a)  that came into existence before the commencement of this section; and
 
@@ -1042,7 +1042,7 @@ the Secretary must give written notice to the Commission of the operational deci
 
                             relates.
 
-             (2)  The Minister may, by legislative instrument, declare that this Act applies to the pre‑existing capacity referred to in the declaration as if, immediately after the commencement of this section, the Commission had made a determination in the terms set out in the declaration.
+             (2)  The Minister may, by legislative instrument, declare that this Act applies to the pre-existing capacity referred to in the declaration as if, immediately after the commencement of this section, the Commission had made a determination in the terms set out in the declaration.
 
              (3)  This Act (other than section 7 and Division 1 of Part 3) has effect in relation to that capacity as if the Commission had made a determination accordingly.
 
@@ -1056,13 +1056,13 @@ the Secretary must give written notice to the Commission of the operational deci
 
                              (ii)  otherwise—the period of 5 years starting on that date.
 
-##### <a id="54B"></a>54B  Pre‑existing capacity
+##### <a id="54B"></a>54B  Pre-existing capacity
 
              (1)  In this section:
 
-                    <a name="pre-existing-capac"></a>**_pre‑existing capacity_** means capacity that came into existence before the commencement of this section, other than pre‑existing capacity to which section 54 or 54A applies.
+                    <a name="pre-existing-capac"></a>**_pre-existing capacity_** means capacity that came into existence before the commencement of this section, other than pre-existing capacity to which section 54 or 54A applies.
 
-             (2)  The Minister may, by legislative instrument, declare that this Act applies to the pre‑existing capacity specified in the instrument as if, immediately after the commencement of this section, the Commission had made a determination in the terms set out in the instrument.
+             (2)  The Minister may, by legislative instrument, declare that this Act applies to the pre-existing capacity specified in the instrument as if, immediately after the commencement of this section, the Commission had made a determination in the terms set out in the instrument.
 
              (3)  This Act (other than section 7 and Division 1 of Part 3) has effect in relation to that capacity as if the Commission had made a determination accordingly.
 
@@ -1070,13 +1070,13 @@ the Secretary must give written notice to the Commission of the operational deci
 
 ##### <a id="55"></a>55  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  In particular, the Governor‑General may make regulations providing for procedures to be followed by the Commission in performing its functions, including time limits within which such procedures must be completed. 
+             (2)  In particular, the Governor-General may make regulations providing for procedures to be followed by the Commission in performing its functions, including time limits within which such procedures must be completed. 
 
 # Notes to the _International Air Services Commission Act 1992_
 
@@ -1205,75 +1205,61 @@ of Assent</div>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>143, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment Act 2002</div>
-  </td>
-  <td>
-    <div>143, 2002</div>
-  </td>
-  <td>
-    <div>19 Dec 2002</div>
-  </td>
-  <td>
-    <div>Schedule 1: 19 June 2003 
+<thead>
+  <tr>
+    <td>
+      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>143, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>2 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aviation Legislation Amendment Act 2002</div>
+    </td>
+    <td>
+      <div>143, 2002</div>
+    </td>
+    <td>
+      <div>19 Dec 2002</div>
+    </td>
+    <td>
+      <div>Schedule 1: 19 June 2003 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 7, 8)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006</div>
-  </td>
-  <td>
-    <div>109, 2006</div>
-  </td>
-  <td>
-    <div>27 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 23–30): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 740, 741) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>Sch. 1 (items 7, 8)\[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006</div>
+    </td>
+    <td>
+      <div>109, 2006</div>
+    </td>
+    <td>
+      <div>27 Sept 2006</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 23–30): 
+ Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     The _International Air Services Commission Act 1992_ was amended by Schedule 5 (items 
  1–22) only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsections 2(1) and (3) of which provide as follows:
@@ -1282,7 +1268,7 @@ _(a)_     The _International Air Services Commission Act 1992_ was amend
 
                  (3)   If Schedule 5 does not commence under subsection (1) within 6 months after the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
-_(b)_     The _International Air Services Commission Act 1992_ was amended by Schedule 1 (item 550) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _International Air Services Commission Act 1992_ was amended by Schedule 1 (item 550) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -1724,26 +1710,6 @@ _(c)_ The _International Air Services Commission Act 1992_ was amended by Schedu
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 740  At the end of subsections 48(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 741  Subsection 48(3)
-
-Repeal the subsection.
-
-As at 19 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1769,21 +1735,5 @@ The amendment made by item 4 of this Schedule applies to the making of determi
 ## 8  Application—section 17 of the _International Air Services Commission Act 1992_
 
 The amendment made by item 5 of this Schedule applies to the renewal of determinations after the commencement of that item, except where the Commission has invited submissions about the renewal before the commencement of that item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
