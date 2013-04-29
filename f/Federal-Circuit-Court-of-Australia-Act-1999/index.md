@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00693/Html/d8a0fe1e-93f6-48fb-940e-0c6f2e747dfa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00066/Html/7ab7943d-47c4-4ba3-9f3b-68917426318c_files/image001.gif)
 
 # Federal Magistrates Act 1999
 
 **Act No. 193 of 1999 as amended**
 
-This compilation was prepared on 1 October 2012
- taking into account amendments up to Act No. 107 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -1971,7 +1972,7 @@ Note:          See section 117 of the _Family Law Act 1975_ 
 
                      (c)  subject to such further modifications or adaptations as are provided for in regulations made under section 120 of this Act.
 
-             (4)  Despite the fact that section 16 of the _Legislative Instruments Act 2003_ does not apply to rules of court made by the Court under this Act or another Act, the Office of Parliamentary Counsel (established by subsection 2(1) of the _Parliamentary Counsel Act 1970_) may provide assistance in the drafting of any of those Rules if the Chief Federal Magistrate so desires.
+             (4)  Despite the fact that section 16 of the _Legislative Instruments Act 2003_ does not apply to rules of court made by the Court under this Act or another Act, the Department may provide assistance in the drafting of any of those Rules if the Chief Federal Magistrate so desires.
 
 ##### <a id="82"></a>82  Documents
 
@@ -2267,7 +2268,7 @@ for an employee or employees of the agency or organisation to:
 
                    There is to be a Chief Executive Officer of the Federal Magistrates Court.
 
-##### <a id="95"></a>95  Personnel provisions relating to the Chief Executive Officer
+##### <a id="95"></a>95  Personnel provisions relating to the Chief Executive Officer
 
                    Schedule 2 has effect.
 
@@ -2797,7 +2798,7 @@ Note 2:       Under subsection 7(4) of the _Remuneration Tribunal Ac
 
 ### Division 2—Disability and death benefits
 
-##### <a id="9A"></a>9A  Certification of retired disabled Federal Magistrates
+##### <a id="9A"></a>9A  Certification of retired disabled Federal Magistrates
 
              (1)  If:
 
@@ -3472,23 +3473,6 @@ Schedule 2 (items
     <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Parliamentary Counsel and Other Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>107, 2012</div>
-  </td>
-  <td>
-    <div>22 July 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (item 10): 1 Oct 2012 ( <i>see</i>F2012L01963)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4119,7 +4103,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
     <div>S. 81</div>
   </td>
   <td>
-    <div>am. No. 140, 2003; No. 107, 2012</div>
+    <div>am. No. 140, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4612,7 +4596,7 @@ Note:          See Part 6 of the _Trans‑Tasman Proceedings
 
 Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans‑Tasman Proceedings Act 2010_”.
 
-As at 1 October 2012 the amendments are not incorporated in this compilation.
+As at 27 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
