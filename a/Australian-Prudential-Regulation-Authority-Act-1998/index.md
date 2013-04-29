@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00515/Html/AustPrudRegAuth1998_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00080/Html/AustPrudRegAuth1998_WD02_image001.gif)
 
 # Australian Prudential Regulation Authority Act 1998
 
 **Act No. 50 of 1998 as amended**
 
-This compilation was prepared on 27 July 2010
- taking into account amendments up to Act No. 82 of 2010
+This compilation was prepared on 27 February 2010
+ taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1146,11 +1146,17 @@ Note:          Despite subsection (1), APRA may be subject t
 
                     <a name="protect-docum"></a>**_protected document_** means a document given or produced (whether before or after the commencement of this section) under, or for the purposes of, a prudential regulation framework law and containing information relating to the affairs of:
 
-                     (a)  a financial sector entity; or
+                     (a)  a body regulated by APRA; or
 
-                     (b)  a body corporate (including a body corporate that has ceased to exist) that has at any time been, or is, related (within the meaning of the _Corporations Act 2001_) to a body regulated by APRA or to a registered entity; or
+                     (b)  a body corporate (including a body corporate that has ceased to exist) that has at any time been, or is, related (within the meaning of the _Corporations Act 2001_) to a body regulated by APRA; or
 
-                     (c)  a person who has been, is, or proposes to be, a customer of a body regulated by APRA or of a registered entity;
+                     (c)  a person who has been, is, or proposes to be, a customer of a body regulated by APRA; or
+
+                    (ca)  a registered entity; or
+
+                    (cb)  a body corporate (including a body corporate that has ceased to exist) that has at any time been, or is, related (within the meaning of the _Corporations Act 2001_) to a registered entity; or
+
+                    (cc)  a person who has been, is, or proposes to be, a customer of a registered entity;
 
 other than:
 
@@ -1170,11 +1176,17 @@ other than:
 
                     <a name="protect-inform"></a>**_protected information_** means information disclosed or obtained (whether before or after the commencement of this section) under, or for the purposes of, a prudential regulation framework law and relating to the affairs of:
 
-                     (a)  a financial sector entity; or
+                     (a)  a body regulated by APRA; or
 
-                     (b)  a body corporate (including a body corporate that has ceased to exist) that has at any time been, or is, related (within the meaning of the _Corporations Act 2001_) to a body regulated by APRA or to a registered entity; or
+                     (b)  a body corporate (including a body corporate that has ceased to exist) that has at any time been, or is, related (within the meaning of the _Corporations Act 2001_) to a body regulated by APRA; or
 
-                     (c)  a person who has been, is, or proposes to be, a customer of a body regulated by APRA or of a registered entity;
+                     (c)  a person who has been, is, or proposes to be, a customer of a body regulated by APRA; or
+
+                    (ca)  a registered entity; or
+
+                    (cb)  a body corporate (including a body corporate that has ceased to exist) that has at any time been, or is, related (within the meaning of the _Corporations Act 2001_) to a registered entity; or
+
+                    (cc)  a person who has been, is, or proposes to be, a customer of a registered entity;
 
 other than :
 
@@ -1387,8 +1399,6 @@ Contents of annual report
                     (aa)  information on the operation of Part VC (Financial claims scheme for policyholders with insolvent general insurers) of the _Insurance Act 1973_;
 
                      (b)  information on the exercise during the year of APRA’s powers under Part 15 of the _Retirement Savings Accounts Act 1997_ and under Part 29 of the _Superannuation Industry (Supervision) Act 1993_;
-
-                    (ba)  a statement of the number of times during the year that APRA determined, under subsection 13(1) of the _Financial Sector (Collection of Data) Act 2001_, a reporting standard that is not a legislative instrument;
 
                      (c)  information on any other matters required by the regulations;
 
@@ -1952,23 +1962,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 188, 189): 27 Feb 2010</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>82, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 1, 2): 27 July 2010</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -3031,7 +3024,7 @@ _(k)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amend
     <div>S. 56</div>
   </td>
   <td>
-    <div>am. Nos. 44 and 121, 1999; Nos. 24 and 160, 2000; Nos. 55, 119 and 121, 2001; No. 37, 2002; Nos. 36 and 42, 2003; No. 45, 2008; No. 82, 2010</div>
+    <div>am. Nos. 44 and 121, 1999; Nos. 24 and 160, 2000; Nos. 55, 119 and 121, 2001; No. 37, 2002; Nos. 36 and 42, 2003; No. 45, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3195,7 +3188,7 @@ No. 42, 2003</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 105, 2008; No. 82, 2010</div>
+    <div>am. No. 105, 2008</div>
   </td>
 </tr></table>
 
