@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00008/Html/SexDiscrimination84_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00389/Html/SexDiscrimination84_WD02_image001.gif)
 
 # Sex Discrimination Act 1984
 
 **Act No. 4 of 1984 as amended**
 
-This compilation was prepared on 1 January 2010
- taking into account amendments up to Act No. 124 of 2009
+This compilation was prepared on 5 August 2009
+ taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -564,7 +564,7 @@ the discriminator treats the aggrieved woman less favourably than, in circumstan
 
                      (c)  whether the disadvantage is proportionate to the result sought by the person who imposes, or proposes to impose, the condition, requirement or practice.
 
-##### <a id="7C"></a>7C  Burden of proof
+##### <a id="7C"></a>7C  Burden of proof
 
                    In a proceeding under this Act, the burden of proving that an act does not constitute discrimination because of section 7B lies on the person who did the act.
 
@@ -1332,7 +1332,7 @@ to sexually harass another person.
 
                               (i)  a fair work instrument (within the meaning of the _Fair Work Act 2009_); or
 
-                             (ii)  a transitional instrument or Division 2B State instrument (within the meaning of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+                             (ii)  a transitional instrument (within the meaning of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
 
 Note:          A person does not comply with an industrial instrument for the purpose of this subsection if that person purports to comply with a provision of that instrument that has no effect. Accordingly, the exemption under this subsection for acting in direct compliance with such an instrument would not apply in such circumstances.
 
@@ -2238,11 +2238,13 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="15%">
+  <col width="31%">
+  <col width="16%">
   <col width="18%">
   <col width="0%">
+  <col width="0%">
   <col width="22%">
+  <col width="0%">
   <col width="0%">
   <col width="14%">
   <col width="0%">
@@ -2257,11 +2259,11 @@ All relevant information pertaining to application, saving or transitional provi
       <div>Number 
 and year</div>
     </td>
-    <td colspan="2">
+    <td colspan="3">
       <div>Date 
 of Assent</div>
     </td>
-    <td colspan="2">
+    <td colspan="3">
       <div>Date of commencement</div>
     </td>
     <td colspan="2">
@@ -2279,11 +2281,11 @@ of Assent</div>
   <td>
     <div>21 Mar 1984</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>1 Aug 1984 ( <i>see Gazette</i>1984, 
 No. S264)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div></div>
   </td>
 </tr>
@@ -2297,10 +2299,10 @@ No. S264)</div>
   <td>
     <div>25 June 1984</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 3: 1 Aug 1984 <i>(a)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>Ss. 2(24) and 5(1)</div>
   </td>
 </tr>
@@ -2314,10 +2316,10 @@ No. S264)</div>
   <td>
     <div>5 June 1985</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 3: 3 July 1985 <i>(b)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>S. 16</div>
   </td>
 </tr>
@@ -2331,10 +2333,10 @@ No. S264)</div>
   <td>
     <div>24 June 1986</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 3: Royal Assent <i>(c)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>S. 9</div>
   </td>
 </tr>
@@ -2348,10 +2350,10 @@ No. S264)</div>
   <td>
     <div>6 Dec 1986</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>10 Dec 1986 ( <i>see</i>s. 2 and <i>Gazette</i>1986, No. S631)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>Ss. 44(2), 46 and 47</div>
   </td>
 </tr>
@@ -2365,10 +2367,10 @@ No. S264)</div>
   <td>
     <div>3 June 1988</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 3: Royal Assent <i>(d)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>S. 5(1)</div>
   </td>
 </tr>
@@ -2382,12 +2384,12 @@ No. S264)</div>
   <td>
     <div>24 June 1988</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Ss. 1 and 2: Royal Assent 
 Ss. 4(1), 68–97, 99 and 100: 1 July 1988 ( <i>see Gazette</i>1988, No. S196) 
 Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2401,10 +2403,10 @@ Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
   <td>
     <div>24 June 1988</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>1 July 1988 ( <i>see Gazette</i>1988, No. S190)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2418,11 +2420,11 @@ Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
   <td>
     <div>8 Nov 1988</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Ss. 1 and 2: Royal Assent 
 Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2436,10 +2438,10 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
   <td>
     <div>21 Dec 1990</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Part 4 (s. 49): Royal Assent <i>(e)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2453,10 +2455,10 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
   <td>
     <div>25 June 1991</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>1 July 1991 ( <i>see</i>s. 2)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2470,13 +2472,13 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
   <td>
     <div>25 June 1991</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Part 1 (ss. 1–3), ss. 4, 7, 8, Parts 3 and 4 (ss. 11–23): 1 Aug 1991 
 Ss. 5 and 6: 25 June 1993 
 S. 9: 1 July 1994 
 Remainder: Royal Assent</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>S. 3 
 S. 2(2) (am. by 13, 1994, s. 24)</div>
   </td>
@@ -2491,10 +2493,10 @@ S. 2(2) (am. by 13, 1994, s. 24)</div>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div></div>
   </td>
 </tr>
@@ -2508,10 +2510,10 @@ S. 2(2) (am. by 13, 1994, s. 24)</div>
   <td>
     <div>18 Jan 1994</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 24: Royal Assent <i>(f)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2525,10 +2527,10 @@ S. 2(2) (am. by 13, 1994, s. 24)</div>
   <td>
     <div>30 Oct 1992</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>26 Nov 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. S346)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2542,11 +2544,11 @@ S. 2(2) (am. by 13, 1994, s. 24)</div>
   <td>
     <div>11 Dec 1992</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Schedule (Part 2): 8 Jan 1993 <i>(g)</i> 
 Schedule (Part 3): <i>(g)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>S. 3(3) and (4)</div>
   </td>
 </tr>
@@ -2560,10 +2562,10 @@ Schedule (Part 3): <i>(g)</i></div>
   <td>
     <div>16 Dec 1992</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>13 Jan 1993</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>Ss. 2(2) and 4</div>
   </td>
 </tr>
@@ -2577,10 +2579,10 @@ Schedule (Part 3): <i>(g)</i></div>
   <td>
     <div>16 Dec 1992</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>13 Jan 1993</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2594,10 +2596,10 @@ Schedule (Part 3): <i>(g)</i></div>
   <td>
     <div>21 Dec 1992</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Schedule (Parts 3, 6): <i>(h)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
@@ -2611,10 +2613,10 @@ Schedule (Part 3): <i>(g)</i></div>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div></div>
   </td>
 </tr>
@@ -2628,10 +2630,10 @@ Schedule (Part 3): <i>(g)</i></div>
   <td>
     <div>3 Nov 1993</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>10 Mar 1993</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2645,10 +2647,10 @@ Schedule (Part 3): <i>(g)</i></div>
   <td>
     <div>16 Dec 1994</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 3 (item 17): Royal Assent <i>(i)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2662,14 +2664,14 @@ Schedule (Part 3): <i>(g)</i></div>
   <td>
     <div>22 Dec 1993</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Ss. 1, 2 and 58: Royal Assent 
 S. 32: 5 Jan 1994 
 S. 34: 6 Sept 1991 
 S. 47: 24 Dec 1992 
 Remainder: 19 Jan 1994</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2683,11 +2685,11 @@ Remainder: 19 Jan 1994</div>
   <td>
     <div>18 Jan 1994</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Ss. 21, 23, 25 and 26: Royal Assent <i>(j)</i> 
 S. 22: 13 Jan 1993 <i>(j)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>S. 25(2)</div>
   </td>
 </tr>
@@ -2701,10 +2703,10 @@ S. 22: 13 Jan 1993 <i>(j)</i></div>
   <td>
     <div>16 Dec 1994</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Part 4 (s. 60): Royal Assent <i>(k)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2718,10 +2720,10 @@ S. 22: 13 Jan 1993 <i>(j)</i></div>
   <td>
     <div>29 Mar 1995</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>29 Mar 1995</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2735,11 +2737,11 @@ S. 22: 13 Jan 1993 <i>(j)</i></div>
   <td>
     <div>28 June 1995</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 3 (item 25): 30 Oct 1992 
 Remainder: Royal Assent</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>Ss. 4 and 5</div>
   </td>
 </tr>
@@ -2753,10 +2755,10 @@ Remainder: Royal Assent</div>
   <td>
     <div>16 Dec 1995</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>16 Dec 1995</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2770,12 +2772,12 @@ Remainder: Royal Assent</div>
   <td>
     <div>16 Dec 1995</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Ss. 1–12, Schedules 5 and 7–10: Royal Assent 
 S. 13: 13 Jan 1996 
 Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2789,12 +2791,12 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
   <td>
     <div>25 Nov 1996</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Schedule 9 (item 2(9)): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) 
 Schedule 19 (items 46, 47): Royal Assent <i>(l) 
  </i>Schedule 11 (items 62–71): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2]) 
 Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
   </td>
@@ -2809,10 +2811,10 @@ Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div> </div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div> </div>
   </td>
 </tr>
@@ -2826,10 +2828,10 @@ Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
   <td>
     <div>19 Dec 1996</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Schedule 3 (items 1, 2): <i>(m)</i> </div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2843,10 +2845,10 @@ Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
   <td>
     <div>13 Oct 1999</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>( <i>see</i>133, 1999 below)</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2860,10 +2862,10 @@ Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
   <td>
     <div>17 Nov 1997</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>17 Nov 1997</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2877,10 +2879,10 @@ Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
   <td>
     <div>22 Sept 1999</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Schedule 5 (item 14): 1 Jan 2001 <i>(n)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2894,12 +2896,12 @@ Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
   <td>
     <div>13 Oct 1999</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Ss. 1–3 and 21: Royal Assent 
 S. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598) 
 Remainder: 13 Apr 2000</div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>Ss. 4–22 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -2913,10 +2915,10 @@ Remainder: 13 Apr 2000</div>
   <td>
     <div>11 Nov 1999</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Schedule 1 (items 812–814): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(o)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2930,10 +2932,10 @@ Remainder: 13 Apr 2000</div>
   <td>
     <div>10 Dec 1999</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Schedule 3 (items 1, 57): <i>(p)</i></div>
   </td>
-  <td colspan="3">
+  <td colspan="4">
     <div>—</div>
   </td>
 </tr>
@@ -2944,7 +2946,7 @@ Remainder: 13 Apr 2000</div>
   <td>
     <div>137, 2000</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>24 Nov 2000</div>
   </td>
   <td colspan="3">
@@ -2952,7 +2954,7 @@ Remainder: 13 Apr 2000</div>
 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
   <td>
@@ -2966,13 +2968,13 @@ Remainder: 24 May 2001</div>
   <td>
     <div>24, 2001</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>6 Apr 2001</div>
   </td>
   <td colspan="3">
     <div>S. 4(1), (2) and Schedule 45: <i>(q)</i></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
   </td>
   <td>
@@ -2986,13 +2988,13 @@ Remainder: 24 May 2001</div>
   <td>
     <div>105, 2002</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>14 Nov 2002</div>
   </td>
   <td colspan="3">
     <div>Schedule 3 (item 61): 12 May 2003 ( <i>see</i> <i>Gazette</i>2002, No. GN49)</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>—</div>
   </td>
   <td>
@@ -3006,14 +3008,14 @@ Remainder: 24 May 2001</div>
   <td>
     <div>103, 2003</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>15 Oct 2003</div>
   </td>
   <td colspan="3">
     <div>Schedule 1: 12 Nov 2003 
 Remainder: Royal Assent</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>—</div>
   </td>
   <td>
@@ -3027,13 +3029,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>40, 2004</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>21 Apr 2004</div>
   </td>
   <td colspan="3">
     <div>Schedule 2 (item 28): <i>(r)</i></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>—</div>
   </td>
   <td>
@@ -3047,13 +3049,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>86, 2005</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>6 July 2005</div>
   </td>
   <td colspan="3">
     <div>6 July 2005</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>—</div>
   </td>
   <td>
@@ -3067,13 +3069,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>144, 2008</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>9 Dec 2008</div>
   </td>
   <td colspan="3">
     <div>Schedule 2 (items 76–84) 10 Dec 2008</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>—</div>
   </td>
   <td>
@@ -3087,7 +3089,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>54, 2009</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>25 June 2009</div>
   </td>
   <td colspan="3">
@@ -3095,7 +3097,7 @@ Remainder: Royal Assent</div>
 Schedule 5 (items 52–59, 
 76–79, 87, 88): <i>(s)</i></div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 4 and Sch. 5 (items 87, 88) \[ <i>see</i>Table A]</div>
   </td>
   <td>
@@ -3109,33 +3111,13 @@ Schedule 5 (items 52–59,
   <td>
     <div>70, 2009</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>8 July 2009</div>
   </td>
   <td colspan="3">
     <div>Schedule 3 (items 74–92, 115, 116, 179, 180) and Schedule 4 (items 6–14): 5 Aug 2009</div>
   </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment (State Referrals and Other Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>124, 2009</div>
-  </td>
-  <td>
-    <div>9 Dec 2009</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 2 (item 134): 1 Jan 2010</div>
-  </td>
-  <td>
+  <td colspan="2">
     <div>—</div>
   </td>
   <td>
@@ -3143,6 +3125,8 @@ Schedule 5 (items 52–59,
   </td>
 </tr>
 <tr height="0">
+  <td></td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -3776,7 +3760,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50; Nos. 54 and 124, 2009</div>
+    <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
