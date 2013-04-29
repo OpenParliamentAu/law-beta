@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00014/Html/EnvProtBioDivCons99Vol1WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00742/Html/EnvProtBioDivCons99Vol1WD02_image001.gif)
 
 # Environment Protection and Biodiversity Conservation Act 1999
 
 **Act No. 91 of 1999 as amended**
 
-This compilation was prepared on 1 January 2011
- taking into account amendments up to Act No. 139 of 2010
+This compilation was prepared on 1 November 2010
+ taking into account amendments up to Act No. 107 of 2010
 
 **Volume 1** includes:       Table of Contents
                                      Sections 1 – 266
@@ -23,7 +23,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 and 3
+                                     Notes 2 – 4
                                      Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -9288,7 +9288,7 @@ Minister must not make an agreement that gives preference
 
                      (b)  by a person for the purposes of trade or commerce between Australia and another country or between 2 States.
 
-##### <a id="168"></a>168  Content of an agreement
+##### <a id="168"></a>168  Content of an agreement
 
 Generally
 
