@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00640/Html/ActsInterp1901_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00384/Html/ActsInterp1901_WD02_image001.gif)
 
 # Acts Interpretation Act 1901
 
 **Act No. 2 of 1901 as amended**
 
-This compilation was prepared on 10 December 2008
- taking into account amendments up to Act No. 134 of 2008
+This compilation was prepared on 7 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -129,12 +129,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [21](#21).          Office etc  means office etc  of the Commonwealth
 
 [22](#22).          Meaning of certain words
-
-[22A](#22A).       References to de facto partners
-
-[22B](#22B).       Registered relationships
-
-[22C](#22C).       De facto relationships
 
 [23](#23).          Rules as to gender and number
 
@@ -916,68 +910,6 @@ the provision shall, on and from the date of the order or such later date as is 
 
              (3)  In any Act, unless the contrary intention appears, a reference to the law of the Commonwealth or to a law of the Commonwealth does not include, and shall be deemed never to have included, a reference to a law in force in a Territory in so far as the law is so in force by virtue of an Act providing for the acceptance, administration or government of that Territory.
 
-##### <a id="22A"></a>22A  References to de facto partners
-
-                   For the purposes of a provision of an Act that is a provision in which de facto partner has the meaning given by this Act, a person is the **_de facto partner_** of another person (whether of the same sex or a different sex) if:
-
-                     (a)  the person is in a registered relationship with the other person under section 22B; or
-
-                     (b)  the person is in a de facto relationship with the other person under section 22C.
-
-##### <a id="22B"></a>22B  Registered relationships
-
-                   For the purposes of paragraph 22A(a), a person is in a **_registered relationship_** with another person if the relationship between the persons is registered under a prescribed law of a State or Territory as a prescribed kind of relationship.
-
-##### <a id="22C"></a>22C  De facto relationships
-
-             (1)  For the purposes of paragraph 22A(b), a person is in a **_de facto relationship_** with another person if the persons:
-
-                     (a)  are not legally married to each other; and
-
-                     (b)  are not related by family (see subsection (6)); and
-
-                     (c)  have a relationship as a couple living together on a genuine domestic basis.
-
-             (2)  In determining for the purposes of paragraph (1)(c) whether 2 persons have a relationship as a couple, all the circumstances of their relationship are to be taken into account, including any or all of the following circumstances:
-
-                     (a)  the duration of the relationship;
-
-                     (b)  the nature and extent of their common residence;
-
-                     (c)  whether a sexual relationship exists;
-
-                     (d)  the degree of financial dependence or interdependence, and any arrangements for financial support, between them;
-
-                     (e)  the ownership, use and acquisition of their property;
-
-                      (f)  the degree of mutual commitment to a shared life;
-
-                     (g)  the care and support of children;
-
-                     (h)  the reputation and public aspects of the relationship.
-
-             (3)  No particular finding in relation to any circumstance mentioned in subsection (2) is necessary in determining whether 2 persons have a relationship as a couple for the purposes of paragraph (1)(c).
-
-             (4)  For the purposes of paragraph (1)(c), the persons are taken to be living together on a genuine domestic basis if the persons are not living together on a genuine domestic basis only because of:
-
-                     (a)  a temporary absence from each other; or
-
-                     (b)  illness or infirmity of either or both of them.
-
-             (5)  For the purposes of subsection (1), a de facto relationship can exist even if one of the persons is legally married to someone else or is in a registered relationship (within the meaning of section 22B) with someone else or is in another de facto relationship.
-
-             (6)  For the purposes of paragraph (1)(b), 2 persons are **_related by family_** if:
-
-                     (a)  one is the child (including an adopted child) of the other; or
-
-                     (b)  one is another descendant of the other (even if the relationship between them is traced through an adoptive parent); or
-
-                     (c)  they have a parent in common (who may be an adoptive parent of either or both of them).
-
-For this purpose, disregard whether an adoption is declared void or has ceased to have effect.
-
-             (7)  For the purposes of subsection (6), **_adopted_** means adopted under the law of any place (whether in or out of Australia) relating to the adoption of children.
-
 ##### <a id="23"></a>23  Rules as to gender and number
 
                    In any Act, unless the contrary intention appears:
@@ -1040,7 +972,7 @@ For this purpose, disregard whether an adoption is declared void or has ceased t
 
 ##### <a id="25E"></a>25E  Attainment of particular age
 
-                   For the purposes of any Act, unless the contrary intention appears, the time at which a person attains a particular age expressed in years is the commencement of the relevant anniversary of the date of the birth of that person.
+                   For the purposes of any Act, unless the contrary intention appears, the time at which a person attains a particular age expressed in years is the commencement of the relevant anniversary of the date of the birth of that person.
 
 ## Part VI—Judicial expressions
 
@@ -1224,7 +1156,7 @@ whichever first happens, and as also including a power to remove or suspend any 
 
 ##### <a id="34A"></a>34A  Exercise of certain powers and functions by a delegate
 
-                   Where, under any Act, the exercise of a power or function by a person is dependent upon the opinion, belief or state of mind of that person in relation to a matter and that power or function has been delegated in pursuance of that or any other Act, that power or function may be exercised by the delegate upon the opinion, belief or state of mind of the delegate in relation to that matter.
+                   Where, under any Act, the exercise of a power or function by a person is dependent upon the opinion, belief or state of mind of that person in relation to a matter and that power or function has been delegated in pursuance of that or any other Act, that power or function may be exercised by the delegate upon the opinion, belief or state of mind of the delegate in relation to that matter.
 
 ##### <a id="34B"></a>34B  Presentation of papers to the Parliament
 
@@ -2497,7 +2429,7 @@ Ss. 15 and 27: 18 Apr 1995 <i>(v)</i></div>
     <div>Ss. 4–14 and Schedule 3 (items 9, 10): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(zc)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14</div>
   </td>
 </tr>
 <tr>
@@ -2515,7 +2447,7 @@ Ss. 15 and 27: 18 Apr 1995 <i>(v)</i></div>
 ( <i>see</i>s. 2)</div>
   </td>
   <td>
-    <div>—</div>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2638,23 +2570,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
-  </td>
-  <td>
-    <div>134, 2008</div>
-  </td>
-  <td>
-    <div>4 Dec 2008</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 2 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -3821,30 +3736,6 @@ _(zh)_   Subsection 2(1) (items 3) of the _Statute Law Revision Act 2008_ 
 </tr>
 <tr>
   <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22B</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22C</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 23</div>
   </td>
   <td>
@@ -4772,6 +4663,14 @@ _Public Employment (Consequential and Transitional) Amendment Act 1999 (No. 14
 
 * * *
 
+_Intelligence Services (Consequential Provisions) Act 2001 (No. 153, 2001)_
+
+##### <a id="4"></a>4  Regulations
+
+                   The Governor-General may make regulations providing for matters of a transitional nature (including any saving or application provision) arising out of the enactment of the _Intelligence Services Act 2001_, or the amendments made by this Act.
+
+* * *
+
 _Acts Interpretation Amendment (Court Procedures) Act 2003 (No. 46, 2003)_
 
 ## Schedule 1
@@ -4852,66 +4751,8 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 ## Schedule 1
 
-## 496  Saving provision—Finance Minister’s determinations
+## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
-
-##### <a id="4"></a>4  Entitlements from 1 July 2008
-
-             (1)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under an Act that is amended by Schedule 1, 2, 3 or 5 to this Act if the relevant Schedule had commenced on 1 July 2008; and
-
-                     (b)  because the Schedule did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (2)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Military Superannuation and Benefits Act 1991_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (3)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Superannuation Act 1990_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (4)  A determination by the Finance Minister under this subsection must:
-
-                     (a)  be in writing; and
-
-                     (b)  set out:
-
-                              (i)  the amount and timing of the replacement payments; or 
-
-                             (ii)  the method of determining the amount and timing of the replacement payments.
-
-             (5)  An application must be in writing in the form approved by the Finance Minister.
-
-             (6)  To avoid doubt, a determination of the Finance Minister that a person is entitled to one or more replacement payments does not affect the entitlements of any other person under an Act amended by Schedule 1, 2, 3 or 5 to this Act, the _Military Superannuation and Benefits Act 1991_ or the _Superannuation Act 1990_.
-
-             (7)  Replacement payments are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-             (8)  A determination made under this section  is not a legislative instrument.
-
-             (9)  In this section:
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
  
