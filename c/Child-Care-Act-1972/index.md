@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00592/Html/319cb892-5a26-40d7-9056-580807082b05_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00719/Html/ChildCareAct72_image001.gif)
 
 # Child Care Act 1972
 
 **Act No. 121 of 1972 as amended**
 
-This compilation was prepared on 29 July 2011
- taking into account amendments up to Act No. 79 of 2011
+This compilation was prepared on 1 November 2010
+ taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -76,7 +76,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12S](#12S).        Offences—offering to supply protected information
 
-[12T](#12T).        Freedom of Information Act not affected
+[12T](#12T).       Freedom of Information Act not affected
 
 [12U](#12U).       Application of the _Criminal Code_
 
@@ -206,7 +206,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  all of whom are residing in their own homes; and
 
-                             (ii)  all or the majority of whom are of pre‑school age; and
+                             (ii)  all or the majority of whom are of pre-school age; and
 
                             (iii)  all or the majority of whom attend the place on a regular basis; and
 
@@ -300,7 +300,7 @@ the Minister may approve, for the purposes of this Division, the purchase or pro
 
                    In this Division, unless the contrary intention appears:
 
-                    <a name="acquisit"></a>**_acquisition_** includes acquisition by way of exchange or purchase or by way of taking on lease, on hire, on hire‑purchase or on lease and purchase.
+                    <a name="acquisit"></a>**_acquisition_** includes acquisition by way of exchange or purchase or by way of taking on lease, on hire, on hire-purchase or on lease and purchase.
 
                     <a name="approved-equip"></a>**_approved equipment_** means equipment approved under section 9 or equipment included in a class of equipment approved under that section.
 
@@ -458,7 +458,7 @@ Note:          A person to whom information is disclosed may c
 
                      (b)  the disclosure would be in contravention of this Part; and
 
-                     (c)  the first‑mentioned person knows, or is reckless as to whether, the information is protected information.
+                     (c)  the first-mentioned person knows, or is reckless as to whether, the information is protected information.
 
 The offence is committed whether or not any protected information is actually disclosed.
 
@@ -578,7 +578,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="18"></a>18  Appointment of members of committees
 
-                   A member of a committee shall be appointed by the Minister as a part‑time member and holds office during the Minister’s pleasure.
+                   A member of a committee shall be appointed by the Minister as a part-time member and holds office during the Minister’s pleasure.
 
 ##### <a id="19"></a>19  Remuneration and allowances of members of committees
 
@@ -674,7 +674,7 @@ the Minister may enter into an agreement with the other person or body under whi
 
 ##### <a id="25"></a>25  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # Notes to the _Child Care Act 1972_
 
@@ -686,7 +686,7 @@ For application, saving or transitional provisions made by the _Freedom of Infor
 
 All relevant information pertaining to application, saving or transitional provisions prior to 8 July 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Child Care Act 1972_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended). The modifications were repealed by the _Community Services and Health Legislation Amendment Act 1990_ (No. 106, 1990).
+The _Child Care Act 1972_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended). The modifications were repealed by the _Community Services and Health Legislation Amendment Act 1990_ (No. 106, 1990).
 
 ### Table of Acts
 
@@ -867,7 +867,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 3: Royal Assent <i>(d)</i> 
-Ss. 4‑11: 1 Jan 1991 <i>(d)</i></div>
+Ss. 4-11: 1 Jan 1991 <i>(d)</i></div>
   </td>
   <td>
     <div>S. 8(2)</div>
@@ -1115,30 +1115,13 @@ Schedule 11 (item 2): <i>(i)</i></div>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>79, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 7): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Child Care Act 1972_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(3) of which provides as follows: 
 
                  (3)   The amendments of the _Child Care Act 1972_ made by this Act shall be deemed to have come into operation on 23 June 1976.
 
-_(b)_     The _Child Care Act 1972_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
+_(b)_    The _Child Care Act 1972_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
@@ -1146,7 +1129,7 @@ _(c)_     The _Child Care Act 1972_ was amended by sections 13–30 on
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent. 
 
-                 (2)   Section 27 shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (2)   Section 27 shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(d)_     The _Child Care Act 1972_ was amended by sections 3–11 only of the _Community Services and Health Legislation Amendment Act 1990_, section 2 of which provides as follows: 
 
@@ -1174,7 +1157,7 @@ _(g)_     The _Child Care Act 1972_ was amended by Schedule 2 (items�
 
                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.
 
-_(h)_     The _Child Care Act 1972_ was amended by Schedule 2 (items 4, 5) and Schedule 3 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_, subsections 2(1)‑(3) of which provide as follows:
+_(h)_     The _Child Care Act 1972_ was amended by Schedule 2 (items 4, 5) and Schedule 3 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_, subsections 2(1)-(3) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1411,7 +1394,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
 </tr>
 <tr>
   <td>
-    <div>Ss. 4D–4G</div>
+    <div>Ss. 4D-4G</div>
   </td>
   <td>
     <div>ad. No. 13, 1998</div>
@@ -1627,7 +1610,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
 </tr>
 <tr>
   <td>
-    <div>Ss. 12B–12E</div>
+    <div>Ss. 12B-12E</div>
   </td>
   <td>
     <div>ad. No. 143, 1995</div>
@@ -2016,23 +1999,15 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
   <td>
     <div>am. No. 158, 1985; No. 80, 1996</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
 </tr></table>
-
-### Note 2
-
-_Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011 (No. 79, 2011)_
-
-The following amendment commences on 22 August 2011:
-
-## Schedule 3
-
-## 7  Subsection 4(1) (paragraph (c) of the definition of _family assistance law_)
-
-Repeal the paragraph, substitute:
-
-                     (c)  any instrument (including regulations) made under the _A New Tax System (Family Assistance) Act 1999_ or the _A New Tax System (Family Assistance) (Administration) Act 1999_.
-
-As at 29 July 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -2042,7 +2017,7 @@ _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (
 
 ##### <a id="4"></a>4  Regulations
 
-                   The Governor‑General may make regulations providing for matters of a transitional nature in respect of the following:
+                   The Governor-General may make regulations providing for matters of a transitional nature in respect of the following:
 
                      (a)  the amendments made by this Act and the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_;
 
