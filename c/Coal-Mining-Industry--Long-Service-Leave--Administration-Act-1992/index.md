@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00007/Html/5ba1532f-533e-40b2-96b2-2cc4c2fc0aeb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00719/Html/24292ec0-7031-472a-ad2d-fbe84544623f_files/image001.gif)
 
 # Coal Mining Industry (Long Service Leave Funding) Act 1992
 
 **Act No. 60 of 1992 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 5 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -512,27 +512,41 @@ the reference in that subsection to the first‑mentioned organisation is taken 
 
 the Deputy Chairperson is to act as Chairperson.
 
-Note:          For rules that apply to persons acting as the Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a Director to act as Deputy Chairperson:
 
                      (a)  during a vacancy in the office of Deputy Chairperson, whether or not an appointment has previously been made to that office; or
 
                      (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from Australia, is acting as Chairperson or is, for any other reason, unable to perform the duties of his or her office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (3)  The Minister may determine the terms and conditions, other than terms and conditions relating to remuneration and allowances, applying to a person acting as Chairperson or as Deputy Chairperson.
 
              (4)  A person acting as Chairperson or as Deputy Chairperson is to be paid the same remuneration and allowances as are payable to the Chairperson or the Deputy Chairperson, as the case requires.
+
+             (5)  Anything done by a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="32"></a>32  Acting Director
 
              (1)  If a Director (the**_absent Director_**) is, or is expected to be, absent from duty or from Australia, or for any other reason unable to perform his or her duties as Director, the Minister may appoint a person to act as Director, during the period of the absence or inability, to represent the bodies or organisations that the absent Director was appointed to represent.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  A person to be appointed to act as a Director as mentioned in subsection (1) is to be a person who the Minister considers, after consulting the bodies or organisations that the absent Director was appointed to represent, is suitable to represent those bodies or organisations.
+
+             (3)  Anything done by a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ## Part 4—Staff of the Corporation
 
@@ -688,7 +702,7 @@ does not exceed $50,000 or, if a higher amount is prescribed, that higher amount
 
              (2)  For the purposes of subsection (1), the maximum reimbursable amount in respect of an eligible employee is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00007/Html/5ba1532f-533e-40b2-96b2-2cc4c2fc0aeb_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00719/Html/24292ec0-7031-472a-ad2d-fbe84544623f_files/image002.gif)
 
 where:
 
@@ -722,7 +736,7 @@ Note:          Schedule 2 to the _Coal Mining Industry (Long
 
 ##### <a id="46"></a>46  Reimbursement of employer if employee ceases to be eligible employee
 
-                   If:
+                   If:
 
                      (a)  an employee ceases to be an eligible employee; and
 
@@ -903,10 +917,10 @@ For all other relevant information pertaining to application, saving or transiti
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
-  <col width="17%">
-  <col width="22%">
   <col width="16%">
+  <col width="17%">
+  <col width="23%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -960,7 +974,7 @@ Remainder: 26 June 1993</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 624–632): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
+    <div>Schedule 2 (items 624–632): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -977,7 +991,7 @@ Remainder: 26 June 1993</div>
     <div>29 June 1998</div>
   </td>
   <td>
-    <div>Schedule 1 (items 32, 33): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(b)</i></div>
+    <div>Schedule 1 (items 32, 33): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1011,7 +1025,7 @@ Remainder: 26 June 1993</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (item 70): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(c)</i></div>
+    <div>Schedule 10 (item 70): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1062,7 +1076,7 @@ Remainder: 26 June 1993</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
+    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1083,7 +1097,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 8 (items 85–90): <i>(e)</i></div>
   </td>
   <td>
-    <div>Sch. 8 (item 158A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 5]) \[ <i>see</i>Note 1]</div>
+    <div>Sch. 8 (item 158A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 5]) \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -1114,7 +1128,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 50, 51) and Schedule 6 (item 22): 19 Apr 2011</div>
+    <div>Schedule 5 (items 50, 51) and Schedule 6 (item 22): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1131,7 +1145,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 371–375) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 371–375) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1238,7 +1252,8 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -1372,38 +1387,6 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 31(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 32(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 5</b></div>
   </td>
   <td>
@@ -1491,6 +1474,42 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 371  At the end of subsection 31(1)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 372  At the end of subsection 31(2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 373  Subsection 31(5)
+
+Repeal the subsection.
+
+## 374  At the end of subsection 32(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 375  Subsection 32(3)
+
+Repeal the subsection.
+
+As at 5 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1565,6 +1584,8 @@ _Note:       This ensures there are applicable award‑derived long 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
