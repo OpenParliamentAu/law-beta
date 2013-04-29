@@ -1,72 +1,74 @@
-![](http://www.comlaw.gov.au/Details/C2008C00447/Html/ProtSeaPowersIntervention1981_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00284/Html/14A8E35A646C06B2CA25717F001DE743/$FILE/image001.gif)
 
 # Protection of the Sea (Powers of Intervention) Act 1981
 
 **Act No. 33 of 1981 as amended**
 
-This compilation was prepared on 25 July 2008
- taking into account amendments up to Act No. 77 of 2008
+This compilation was prepared on 24 May 2006
+taking into account amendments up to Act No. 44 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Act to bind Crown
+[4](#4).            Act to bind Crown                                                                               4
 
-[5](#5).            Relationship to other laws
+[5](#5).            Relationship to other laws                                                                   4
 
-[6](#6).            Operation of Act
+[6](#6).            Operation of Act                                                                                 5
 
-[7](#7).            Delegation
+[7](#7).            Delegation                                                                                            5
 
-[8](#8).            Taking of measures to prevent pollution of sea by oil—maritime casualty on the high seas
+[8](#8).            Taking of measures to prevent pollution of sea by oil—maritime casualty on the high seas  5
 
-[9](#9).            Taking of measures to prevent pollution of sea by substances other than oil—maritime casualty on the high seas
+[9](#9).            Taking of measures to prevent pollution of sea by substances other than oil—maritime casualty on the high seas                                                                                                             7
 
-[10](#10).          Taking of measures to prevent pollution of sea by oil or noxious substances—general powers
+[10](#10).          Taking of measures to prevent pollution of sea by oil or noxious substances—general powers            9
 
-[11](#11).          Directions under Act may require taking of action etc 
+[11](#11).          Directions under Act may require taking of action etc                      14
 
-[12](#12).          Addressing of directions under Act etc 
+[12](#12).          Addressing of directions under Act etc                                             17
 
-[13](#13).          Issuing of more than one direction in relation to a ship
+[13](#13).          Issuing of more than one direction in relation to a ship                     17
 
-[14](#14).          Directions under Act to ship or tangible asset with more than one owner etc 
+[14](#14).          Directions under Act to ship or tangible asset with more than one owner etc        17
 
-[15](#15).          Revocation and variation of directions under Act
+[15](#15).          Revocation and variation of directions under Act                             18
 
-[16](#16).          Directions under Act to be in writing
+[16](#16).          Directions under Act to be in writing                                                18
 
-[17](#17).          Service of directions under Act
+[17](#17).          Service of directions under Act                                                          18
 
-[17A](#17A).       Liability for acts and omissions
+[17A](#17A).       Liability for acts and omissions                                                         20
 
-[17B](#17B).       Expenses of compliance with certain directions under Act may be recovered from owner of ship
+[17B](#17B).       Expenses of compliance with certain directions under Act may be recovered from owner of ship        22
 
-[18](#18).          Change in ownership or master of ship, or change in ownership of tangible asset
+[18](#18).          Change in ownership or master of ship, or change in ownership of tangible asset  23
 
-[19](#19).          Contravention of direction under Act etc 
+[19](#19).          Contravention of direction under Act etc                                          24
 
-[20](#20).          No time limit for prosecution
+[20](#20).          No time limit for prosecution                                                            24
 
-[21](#21).          Evidence
+[21](#21).          Evidence                                                                                             25
 
-[22](#22).          Compensation for acquisition of property
+[22](#22).          Compensation for acquisition of property                                        25
 
-[23](#23).          Regulations
+[23](#23).          Regulations                                                                                        25
 
 **Schedule 1—International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties** 
 
@@ -77,6 +79,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Schedule 4—Resolution MEPC. 72(38) by Marine Environment Protection Committee** 
 
 **Notes** 
+
 
 ## An Act authorizing the Commonwealth to take measures for the purpose of protecting the sea from pollution by oil and other noxious substances discharged from ships, and for related purposes
 
@@ -90,7 +93,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  The date fixed under subsection (1) shall not be a date earlier than the date on which the International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties comes into force for Australia.
 
-##### <a id="3"></a>3  Interpretation
+##### <a id="3"></a>3  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
 
@@ -102,7 +105,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  the territorial sea of Australia; and
 
-                     (b)  the sea on the landward side of the territorial sea of Australia and not within the limits of a State or the Northern   Territory.
+                     (b)  the sea on the landward side of the territorial sea of Australia and not within the limits of a State or the Northern Territory.
 
                     <a name="australian-ship"></a>**_Australian ship_** means:
 
@@ -202,7 +205,7 @@ Note:          The text of the Convention is set out in Austra
 
 ##### <a id="4"></a>4  Act to bind Crown
 
-             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
+             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
 
              (2)  Nothing in this Act renders the Commonwealth, the Authority or a State or Territory liable to be prosecuted for an offence.
 
@@ -234,7 +237,7 @@ Commonwealth laws
 
 ##### <a id="6"></a>6  Operation of Act
 
-                   This Act applies both within and outside   Australia and extends to every external Territory.
+                   This Act applies both within and outside Australia and extends to every external Territory.
 
 ##### <a id="7"></a>7  Delegation
 
@@ -490,7 +493,7 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                      (b)  in determining whether measures are in proportion to the damage in relation to which the measures are taken, regard shall be had to:
 
-                              (i)   the extent and probability of imminent damage if the measures are not taken;
+                              (i)  the extent and probability of imminent damage if the measures are not taken;
 
                              (ii)  the likelihood of those measures being effective; and
 
@@ -948,6 +951,7 @@ for the recovery from the Commonwealth of such reasonable amount of compensation
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, exempting, either absolutely or subject to conditions, a prescribed ship, or ships included in a prescribed class of ships, from all or any of the provisions of this Act.
 
+
 # Schedule 1—International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties 
 
 Subsection 3(1)
@@ -1243,6 +1247,7 @@ ARTICLE 19
 1.    The award of the Tribunal shall be accompanied by a statement of reasons. It shall be final and without appeal. The Parties shall immediately comply with the award. 
 
 2.    Any controversy which may arise between the Parties as regards interpretation and execution of the award may be submitted by either Party for judgment to the Tribunal which made the award, or, if it is not available, to another Tribunal constituted for this purpose in the same manner as the original Tribunal. 
+
 
 # Schedule 2—Protocol relating to Intervention on the High Seas in Cases of Pollution by substances other than Oil, 1973 
 
@@ -1690,6 +1695,11 @@ Radioactive substances, including, but not limited to, elements and compounds th
 
 60<sub>Co,</sub>         137<sub>Cs,</sub>               226<sub>Ra,</sub>               239<sub>Pu,</sub>               235<sub>U.</sub>
 
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
+
+
 # Schedule 3—Resolution MEPC.49(31)
 
 Subsection 3 (1) 
@@ -1720,6 +1730,7 @@ HAVING taken account of technical advice provided by the Sub-Committee on Bulk C
 
 4.    DECIDES that the list should be kept under review, in consultation and co-operation with competent international organizations, in particular the International Atomic Energy Agency in respect of radioactive materials.
 
+
 ANNEX
 
 LIST OF SUBSTANCES
@@ -1736,190 +1747,192 @@ Appendix 1
   <col width="50%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><u>Asphalt solutions</u></div>
-  </td>
-  <td>
-    <div><u>Gasolines blending stocks</u></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Blending stocks</div>
-  </td>
-  <td>
-    <div>Alkylates—fuel</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Roofers flux</div>
-  </td>
-  <td>
-    <div>Reformates</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Straight run residue</div>
-  </td>
-  <td>
-    <div>Polymer—fuel</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><u>Oils</u></div>
-  </td>
-  <td>
-    <div><u>Gasolines</u></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Clarified</div>
-  </td>
-  <td>
-    <div>Casinghead (natural)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Road oil</div>
-  </td>
-  <td>
-    <div>Automotive</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transformer oil</div>
-  </td>
-  <td>
-    <div>Aviation</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aromatic oil (excluding vegetable oil)</div>
-  </td>
-  <td>
-    <div>Straight run</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Mineral oil</div>
-  </td>
-  <td>
-    <div>Fuel oil No. 1 (Kerosene)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Motor oil</div>
-  </td>
-  <td>
-    <div>Fuel oil No. 1-D</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Penetrating oil</div>
-  </td>
-  <td>
-    <div>Fuel oil No. 2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Spindle oil</div>
-  </td>
-  <td>
-    <div>Fuel oil No. 2-D</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Turbine oil</div>
-  </td>
-  <td>
-    <div><u>Jet fuels</u></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><u>Distillates</u></div>
-  </td>
-  <td>
-    <div>JP-1 (Kerosene)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Straight run</div>
-  </td>
-  <td>
-    <div>JP-3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Flashed feed stocks</div>
-  </td>
-  <td>
-    <div>JP-5 (Kerosene, heavy)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><u>Gas oil</u></div>
-  </td>
-  <td>
-    <div>Turbo fuel</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cracked</div>
-  </td>
-  <td>
-    <div>Kerosene</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><u>Naphtha</u></div>
-  </td>
-  <td>
-    <div>Mineral spirit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Solvent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Petroleum</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heartcut distillate oil</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><u>Asphalt solutions</u></div>
+    </td>
+    <td>
+      <div><u>Gasolines blending stocks</u></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Blending stocks</div>
+    </td>
+    <td>
+      <div>Alkylates—fuel</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Roofers flux</div>
+    </td>
+    <td>
+      <div>Reformates</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Straight run residue</div>
+    </td>
+    <td>
+      <div>Polymer—fuel</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><u>Oils</u></div>
+    </td>
+    <td>
+      <div><u>Gasolines</u></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Clarified</div>
+    </td>
+    <td>
+      <div>Casinghead (natural)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Road oil</div>
+    </td>
+    <td>
+      <div>Automotive</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transformer oil</div>
+    </td>
+    <td>
+      <div>Aviation</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aromatic oil (excluding vegetable oil)</div>
+    </td>
+    <td>
+      <div>Straight run</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Mineral oil</div>
+    </td>
+    <td>
+      <div>Fuel oil No. 1 (Kerosene)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Motor oil</div>
+    </td>
+    <td>
+      <div>Fuel oil No. 1-D</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Penetrating oil</div>
+    </td>
+    <td>
+      <div>Fuel oil No. 2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Spindle oil</div>
+    </td>
+    <td>
+      <div>Fuel oil No. 2-D</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Turbine oil</div>
+    </td>
+    <td>
+      <div><u>Jet fuels</u></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><u>Distillates</u></div>
+    </td>
+    <td>
+      <div>JP-1 (Kerosene)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Straight run</div>
+    </td>
+    <td>
+      <div>JP-3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Flashed feed stocks</div>
+    </td>
+    <td>
+      <div>JP-5 (Kerosene, heavy)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><u>Gas oil</u></div>
+    </td>
+    <td>
+      <div>Turbo fuel</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Cracked</div>
+    </td>
+    <td>
+      <div>Kerosene</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><u>Naphtha</u></div>
+    </td>
+    <td>
+      <div>Mineral spirit</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Solvent</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Petroleum</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heartcut distillate oil</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</tbody></table>
 
 Appendix 2
 
@@ -2275,6 +2288,7 @@ White spirit, low (15-20%) aromatic
 
 Xylenol
 
+
 Appendix 3
 
 <u>Harmful substances carried in packaged form</u>
@@ -2503,7 +2517,10 @@ Sulphur dioxide
 
 Vinyl chloride monomer 
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
+
 
 # Schedule 4—Resolution MEPC. 72(38) by Marine Environment Protection Committee
 
@@ -3531,6 +3548,7 @@ Sulphur dioxide
 
 Vinyl chloride monomer
 
+
 # Notes to the _Protection of the Sea (Powers of Intervention) Act 1981_
 
 ### Note 1
@@ -3557,11 +3575,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -3571,122 +3591,36 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Protection of the Sea (Powers of Intervention) Act 1981</div>
-  </td>
-  <td>
-    <div>33, 1981</div>
-  </td>
-  <td>
-    <div>14 Apr 1981</div>
-  </td>
-  <td>
-    <div>5 Feb 1984 ( <i>see Gazette</i>1984, No. S31)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Maritime Safety Authority Act 1990</div>
-  </td>
-  <td>
-    <div>78, 1990</div>
-  </td>
-  <td>
-    <div>22 Oct 1990</div>
-  </td>
-  <td>
-    <div>Ss. 35, 48, 62 and 63: 1 Jan 1991 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 63</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act (No. 2) 1992</div>
-  </td>
-  <td>
-    <div>71, 1992</div>
-  </td>
-  <td>
-    <div>26 June 1992</div>
-  </td>
-  <td>
-    <div>Part 8 (ss. 26–28): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 121, 122): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<thead>
+<tbody>
   <tr>
     <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      <div>Protection of the Sea (Powers of Intervention) Act 1981</div>
     </td>
     <td>
-      <div>143, 2001</div>
+      <div>33, 1981</div>
     </td>
     <td>
-      <div>1 Oct 2001</div>
+      <div>14 Apr 1981</div>
     </td>
     <td>
-      <div>2 Oct 2001</div>
+      <div>5 Feb 1984 ( <i>see Gazette</i>1984, No. S31)</div>
     </td>
     <td>
-      <div>S. 4 \[ <i>see</i>Table A]</div>
+      <div></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>International Maritime Conventions Legislation Amendment Act 2001</div>
+      <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
     </td>
     <td>
-      <div>149, 2001</div>
+      <div>99, 1988</div>
     </td>
     <td>
-      <div>1 Oct 2001</div>
+      <div>2 Dec 1988</div>
     </td>
     <td>
-      <div>Schedule 2: Royal Assent <i>(c)</i></div>
+      <div>2 Dec 1988</div>
     </td>
     <td>
       <div>—</div>
@@ -3694,16 +3628,35 @@ Remainder: Royal Assent</div>
   </tr>
   <tr>
     <td>
-      <div>Protection of the Sea (Powers of Intervention) Amendment Act 2006</div>
+      <div>Australian Maritime Safety Authority Act 1990</div>
     </td>
     <td>
-      <div>44, 2006</div>
+      <div>78, 1990</div>
     </td>
     <td>
-      <div>22 May 2006</div>
+      <div>22 Oct 1990</div>
     </td>
     <td>
-      <div>23 May 2006</div>
+      <div>Ss. 35, 48, 62 and 63: 1 Jan 1991 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 63</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Communications Legislation Amendment Act (No. 2) 1992</div>
+    </td>
+    <td>
+      <div>71, 1992</div>
+    </td>
+    <td>
+      <div>26 June 1992</div>
+    </td>
+    <td>
+      <div>Part 8 (ss. 26–28): Royal Assent <i>(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -3711,22 +3664,76 @@ Remainder: Royal Assent</div>
   </tr>
   <tr>
     <td>
-      <div>Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008</div>
+      <div>Statute Law Revision Act 1996</div>
     </td>
     <td>
-      <div>77, 2008</div>
+      <div>43, 1996</div>
     </td>
     <td>
-      <div>12 July 2008</div>
+      <div>25 Oct 1996</div>
     </td>
     <td>
-      <div>Schedule 1 (item 6): \[ <i>see</i>s. 2(1) and Note 2]</div>
+      <div>Schedule 5 (items 121, 122): Royal Assent <i>(b)</i></div>
     </td>
     <td>
       <div>—</div>
     </td>
   </tr>
-</thead></table>
+  <thead>
+    <tr>
+      <td>
+        <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      </td>
+      <td>
+        <div>143, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td>
+        <div>2 Oct 2001</div>
+      </td>
+      <td>
+        <div>S. 4 \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>International Maritime Conventions Legislation Amendment Act 2001</div>
+      </td>
+      <td>
+        <div>149, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td>
+        <div>Schedule 2: Royal Assent <i>(c)</i></div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Protection of the Sea (Powers of Intervention) Amendment Act 2006</div>
+      </td>
+      <td>
+        <div>44, 2006</div>
+      </td>
+      <td>
+        <div>22 May 2006</div>
+      </td>
+      <td>
+        <div>23 May 2006</div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+  </thead>
+</tbody></table>
+
 
 _(a)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Part 8 (sections 26–28) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1992_, subsection 2(1) of which provides as follows:
 
@@ -3739,6 +3746,7 @@ _(b)_    The _Protection of the Sea (Powers of Intervention) Act 1981_ was
 _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Schedule 2 only of the _International Maritime Conventions Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
 
 ## Table of Amendments
 
@@ -3763,282 +3771,265 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001; No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 5</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 10</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10, 11</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 14</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 17A, 17B</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 43, 1996; No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 21</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rs. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 99, 1988; No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3</div>
-  </td>
-  <td>
-    <div>ad. No. 71, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 4</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 2001</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001; No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3A</div>
+    </td>
+    <td>
+      <div>ad. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990; No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 5</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 7(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 8</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990; No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 9</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990; No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 10</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 10, 11</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990; No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 14</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990; No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 17A, 17B</div>
+    </td>
+    <td>
+      <div>ad. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 18</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990; No. 43, 1996; No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 21</div>
+    </td>
+    <td>
+      <div>ad. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>rs. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 99, 1988; No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 44, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3</div>
+    </td>
+    <td>
+      <div>ad. No. 71, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 4</div>
+    </td>
+    <td>
+      <div>ad. No. 149, 2001</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008 (No. 77, 2008)_
-
-The following amendment commences on the day on which the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, done at London on 23 March 2001, enters into force for Australia. However, the amendment may not commence at all, _see_ section 2(1) (item 2):
-
-## Schedule 1
-
-## 6  After subsection 17A(5)
-
-Insert:
-
-          (5A)  Subsection (4) does not apply to:
-
-                     (a)  a proceeding under the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_; or
-
-                     (b)  a proceeding on a maritime claim referred to in paragraph 4(3)(ba) of the _Admiralty Act 1988_(about claims relating to bunker oil pollution damage).
-
-As at 25 July 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -4051,5 +4042,6 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
 
  
