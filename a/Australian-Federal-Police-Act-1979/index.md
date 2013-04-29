@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00008/Html/d8924d31-d5f2-45a5-9746-8091362fedeb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00896/Html/009fd63d-89ca-4294-a614-54598964075d_files/image001.gif)
 
 # Australian Federal Police Act 1979
 
 **Act No. 58 of 1979 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 9 November 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
@@ -1656,11 +1656,19 @@ the magistrate may make any of the following orders:
 
 ##### <a id="18"></a>18  Acting Commissioner and Deputy Commissioner during vacancy
 
-             (1)  At any time when the office of Commissioner or an office of Deputy Commissioner is or is expected to be vacant (whether or not the office has previously been filled), the Minister may appoint a person to act as Commissioner or as a Deputy Commissioner, as the case may be, until the filling of the vacancy.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (1)  At any time when the office of Commissioner or an office of Deputy Commissioner is or is expected to be vacant (whether or not the office has previously been filled), the Minister may appoint a person to act as Commissioner or as a Deputy Commissioner, as the case may be, until the filling of the vacancy, but a person so appointed shall not continue so to act for more than 12 months.
 
              (2)  While a person is acting as Commissioner or as a Deputy Commissioner under subsection (1), he or she has, and may exercise, all the powers (except a power to make a declaration under subsection 40D(4)), and shall perform all the functions and duties, of the Commissioner or of the Deputy Commissioner, as the case may be.
+
+             (3)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed under this section; and
+
+                     (b)  at any time terminate such an appointment.
+
+             (4)  The appointment of a person under this section ceases to have effect if he or she resigns the appointment by writing signed by him or her and delivered to the Minister.
+
+             (5)  The validity of anything done by a person purporting to act in accordance with this section shall not be called in question by reason of any defect or irregularity in or in connection with his or her appointment or on the ground that the occasion for his or her so acting had not arisen or had ceased.
 
 ##### <a id="19"></a>19  Absence etc. of Commissioner or Deputy Commissioner
 
@@ -4333,7 +4341,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00008/Html/d8924d31-d5f2-45a5-9746-8091362fedeb_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00896/Html/009fd63d-89ca-4294-a614-54598964075d_files/image002.gif)
 
 where:
 
@@ -4397,7 +4405,7 @@ regard may be had to:
 
 ##### <a id="42J"></a>42J  Crown bound
 
-             (1)  This Part binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the   Northern Territory and of Norfolk Island.
+             (1)  This Part binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
              (2)  Nothing in this Part renders the Crown liable to be prosecuted for an offence.
 
@@ -4521,7 +4529,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00008/Html/d8924d31-d5f2-45a5-9746-8091362fedeb_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00896/Html/009fd63d-89ca-4294-a614-54598964075d_files/image003.gif)
 
                             where:
 
@@ -4583,7 +4591,7 @@ the court must:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00008/Html/d8924d31-d5f2-45a5-9746-8091362fedeb_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00896/Html/009fd63d-89ca-4294-a614-54598964075d_files/image004.gif)
 
 where:
 
@@ -6324,7 +6332,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(k)</i><
     <div>Schedule 2: 1 Feb 1998 ( <i>see</i> <i>Gazette</i>1998, No. GN3) <i>(q)</i></div>
   </td>
   <td>
-    <div>S. 3 (rep. by 151, 1999, Sch. 2)</div>
+    <div>S. 3 (rep. by 151, 1999, Sch. 2)</div>
   </td>
 </tr>
 <tr>
@@ -6375,7 +6383,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(k)</i><
     <div>Schedule 1 (items 7–9): Royal Assent <i>(r)</i></div>
   </td>
   <td>
-    <div>S. 2(3) (rep. by 44, 1999, Sch. 6 \[item 15])</div>
+    <div>S. 2(3) (rep. by 44, 1999, Sch. 6 \[item 15])</div>
   </td>
 </tr>
 <tr>
@@ -6773,7 +6781,7 @@ Remainder: Royal Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 9, 10): 10 Dec 2008</div>
+    <div>Schedule 2 (items 9, 10): 10 Dec 2008</div>
   </td>
   <td>
     <div>Sch. 2 (item 10) \[ <i>see</i>Table A]</div>
@@ -6790,7 +6798,7 @@ Remainder: Royal Assent</div>
     <div>25 June 2009</div>
   </td>
   <td>
-    <div>Schedule 5 (items 8–16): <i>(z)</i></div>
+    <div>Schedule 5 (items 8–16): <i>(z)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -6824,7 +6832,7 @@ Remainder: Royal Assent</div>
     <div>2 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 30 Mar 2011</div>
+    <div>Schedule 2 (item 1): 30 Mar 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -6858,7 +6866,7 @@ Remainder: Royal Assent</div>
     <div>2 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 21), Schedule 5 and Schedule 7 (item 1): 3 Mar 2011</div>
+    <div>Schedule 2 (item 21), Schedule 5 and Schedule 7 (item 1): 3 Mar 2011</div>
   </td>
   <td>
     <div>Sch. 5 (item 21) \[ <i>see</i>Table A]</div>
@@ -6909,7 +6917,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 151–153) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 151–153) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -8014,15 +8022,7 @@ rep. No. 152, 2004</div>
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. Nos. 27 and 43, 1996; No. 9, 2000; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 18(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. Nos. 27 and 43, 1996; No. 9, 2000</div>
   </td>
 </tr>
 <tr>
@@ -11418,6 +11418,30 @@ rep. No. 152, 2004</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 151  Subsection 18(1)
+
+Omit “, but a person so appointed shall not continue so to act for more than 12 months”.
+
+## 152  At the end of subsection 18(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 153  Subsections 18(3), (4) and (5)
+
+Repeal the subsections.
+
+As at 9 November 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -11862,6 +11886,8 @@ The amendment made by item 18 applies in relation to service occurring before,
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
