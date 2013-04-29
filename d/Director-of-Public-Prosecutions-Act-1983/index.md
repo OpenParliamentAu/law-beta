@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00534/Html/14360226-eddb-4e81-bbf3-6aaa550d17ba_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00121/Html/172d9cd8-0194-4eb5-a1b8-c311c9ccd19e_files/image001.gif)
 
 # Director of Public Prosecutions Act 1983
 
 **Act No. 113 of 1983 as amended**
 
-This compilation was prepared on 14 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 4 March 2011
+ taking into account amendments up to Act No. 3 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -141,8 +141,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                              (ii)  an appointment made under a law of the Commonwealth; or
 
                             (iii)  an appointment made, otherwise than under a law of the Commonwealth, by the Governor‑General, by a Minister, or by any other person on behalf of the Executive Government of the Commonwealth or the Administration of a Territory.
-
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
 
                     <a name="director"></a>**_Director_** means the Director of Public Prosecutions.
 
@@ -842,7 +840,7 @@ the Governor‑General shall terminate the appointment of the Director or Associ
 
                      (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
 
-he or she is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
+he or she is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
              (4)  In spite of anything contained in this section, if the Director or Associate Director:
 
@@ -850,7 +848,7 @@ he or she is not capable of being retired from office on the ground of invalidit
 
                      (b)  is under 60 years of age;
 
-he or she is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given a certificate under section 13 of that Act.
+he or she is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
              (5)  In spite of anything contained in this section, if the Director or Associate Director:
 
@@ -858,7 +856,7 @@ he or she is not capable of being retired from office on the ground of invalidit
 
                      (b)  is under 60 years of age;
 
-he or she is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given an approval and certificate under section 43 of that Act.
+he or she is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
 ##### <a id="24"></a>24  Disclosure of interests
 
@@ -1888,40 +1886,6 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002 No. GN44)</div>
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 536–542) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 81, 82): <i>(o)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Director of Public Prosecutions Act 1983_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
@@ -1992,93 +1956,6 @@ _(n)_ The _Director of Public Prosecutions Act 1983_ was amended by Schedule 5
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -2107,7 +1984,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 28, 1991; No. 196, 1992; No. 57, 2000; No. 58, 2011</div>
+    <div>am. No. 28, 1991; No. 196, 1992; No. 57, 2000</div>
   </td>
 </tr>
 <tr>
@@ -2307,7 +2184,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. Nos. 28 and 122, 1991; No. 94, 1992; No. 43, 1996; No. 26, 2008; No. 58, 2011</div>
+    <div>am. Nos. 28 and 122, 1991; No. 94, 1992; No. 43, 1996; No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2399,50 +2276,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 536  At the end of subsection 26(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 537  At the end of subsection 26(1A)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Director, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 538  Subsections 26(2), (4) and (6) to (9)
-
-Repeal the subsections.
-
-## 539  Paragraph 26A(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 540  Subsection 26A(1)
-
-Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
-
-## 541  At the end of subsection 26A(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 542  Subsection 26A(3)
-
-Repeal the subsection.
-
-As at 14 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving and transitional provisions
@@ -2498,22 +2331,6 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
 ## Table B
 
