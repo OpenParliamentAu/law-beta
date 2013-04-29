@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00176/Html/05990ef4-2076-4b4f-8fbf-4aaf154c67a4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00784/Html/d3e98826-cfb1-4d2d-8c7c-04b2f719c232_files/image001.gif)
 
 # Judiciary Act 1903
 
 **Act No. 6 of 1903 as amended**
 
-This compilation was prepared on 1 February 2012
+This compilation was prepared on 26 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -494,7 +494,7 @@ But on the application of either party the Justice may order the application to 
 
 ##### <a id="19"></a>19  Quorum of a Full Court
 
-                   Except as hereinafter provided, a Full Court may be constituted by any two or more Justices of the High Court sitting together.
+                   Except as hereinafter provided, a Full Court may be constituted by any two or more Justices of the High Court sitting together.
 
 ##### <a id="20"></a>20  Appeals from Judges of federal jurisdiction
 
@@ -1324,7 +1324,7 @@ whether or not he or she is so entitled apart from this subsection.
 
              (2)  The CEO is the director of the AGS for the purposes of the _Commonwealth Authorities and Companies Act 1997_, and has the function of managing the AGS.
 
-##### <a id="55T"></a>55T  Appointment of CEO
+##### <a id="55T"></a>55T  Appointment of CEO
 
              (1)  The CEO is to be appointed by instrument in writing signed by the Attorney‑General and the Finance Minister.
 
@@ -1366,13 +1366,21 @@ whether or not he or she is so entitled apart from this subsection.
 
 ##### <a id="55Z"></a>55Z  Acting CEO
 
-                   The Attorney‑General and the Finance Minister (acting jointly) may appoint a person to act as CEO:
+             (1)  The Attorney‑General and the Finance Minister (acting jointly) may appoint a person to act as CEO:
 
                      (a)  if there is a vacancy in the office of CEO, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the CEO is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="55ZA"></a>55ZA  Delegation
 
@@ -4085,7 +4093,7 @@ Schedule 5 (items 38, 85): <i>(za)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 744–746) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 744–746) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -6081,34 +6089,10 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div>Ss. 55V–55Y</div>
+    <div>Ss. 55V–55Z</div>
   </td>
   <td>
     <div>ad. No. 7, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55Z</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 55Z</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7048,6 +7032,30 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 744  Subsection 55Z(1)
+
+Omit “(1)”.
+
+## 745  At the end of subsection 55Z(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 746  Subsection 55Z(2)
+
+Repeal the subsection.
+
+As at 26 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7236,7 +7244,7 @@ _Migration Litigation Reform Act 2005 (No. 137, 2005)_
 
 ## Schedule 1
 
-## 40  Definitions
+## 40  Definitions
 
 In this Part:
 
@@ -7437,6 +7445,8 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (N
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
