@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image001.gif)
 
 # Patents Act 1990
 
 **Act No. 83 of 1990 as amended**
 
-This compilation was prepared on 9 January 2012
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -709,11 +709,13 @@ Trade Marks Act 1955                    
 
              (2)  If this Act does not commence under subsection (1) within the period of 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period.
 
-##### <a id="3"></a>3  Definitions
+##### <a id="3"></a>3  Definitions  
 
-                   The following expressions are defined, for the purposes of this Act or of a particular Chapter of this Act, in the dictionary in Schedule 1:
+                   The following expressions are defined, for the purposes of this Act or of a particular Chapter of this Act, in the dictionary in Schedule 1: 
 
-application
+ 
+
+application 
 
 approved form
 
@@ -907,7 +909,7 @@ work
 
                    The following diagram shows most of the typical steps involved in getting and maintaining a standard patent. The diagram is intended for use only as a general introductory illustration and is not intended to have any other effect. If there is an inconsistency between any matter contained in the diagram and a provision of this Act or the regulations, the provision prevails.
 
-![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
+![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -943,7 +945,7 @@ work
 <tr>
   <td height="162"></td>
   <td rowspan="3" align="left">
-    <img width="400" height="704" src="http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image003.gif">
+    <img width="400" height="704" src="http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image003.gif">
   </td>
 </tr>
 <tr>
@@ -965,7 +967,7 @@ refused</span></div>
 </tr>
 <tr>
   <td height="493"></td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image004.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image004.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1122,7 +1124,7 @@ done so ( <i>see section 44</i>)</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image005.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image008.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image010.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image011.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image012.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image005.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image008.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image010.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image011.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image012.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1145,7 +1147,7 @@ continuation fees are not paid
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image013.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image013.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1251,7 +1253,7 @@ stage are not published.</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image015.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image016.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image018.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image019.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image020.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image021.gif)
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image015.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image016.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image018.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image019.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image020.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image021.gif)
 
 ##### <a id="5"></a>5  Associated applications
 
@@ -1285,7 +1287,7 @@ Novelty
 
                      (a)  prior art information (other than that mentioned in paragraph (c)) made publicly available in a single document or through doing a single act;
 
-                     (b)  prior art information (other than that mentioned in paragraph (c)) made publicly available in 2 or more related documents, or through doing 2 or more related acts, if the relationship between the documents or acts is such that a person skilled in the relevant art would treat them as a single source of that information;
+                     (b)  prior art information (other than that mentioned in paragraph (c)) made publicly available in 2 or more related documents, or through doing 2 or more related acts, if the relationship between the documents or acts is such that a person skilled in the relevant art would treat them as a single source of that information;
 
                      (c)  prior art information contained in a single specification of the kind mentioned in subparagraph (b)(ii) of the definition of **_prior art base_** in Schedule 1.
 
@@ -1313,7 +1315,7 @@ Innovative step
 
              (6)  For the purposes of subsection (4), each kind of information set out in subsection (5) must be considered separately.
 
-[_Notes:   (1)   For the meaning of document see section 2B of the Acts Interpretation Act 1901._
+[_Notes:   (1)   For the meaning of document see section 25 of the Acts Interpretation Act 1901._
 
 _(2)   See also the definitions of prior art base and prior art information in Schedule 1: see also paragraph 18(1)(b) and subsection 98(1)._]
 
@@ -1323,7 +1325,7 @@ _(2)   See also the definitions of prior art base and prior art information 
 
                      (a)  a copy of the specification or document;
 
-                     (b)  if the specification or document is not in English—a translation of the specification or document into English.
+                     (b)  if the specification or document is not in English—a translation of the specification or document into English.
 
 [_Note: basic application is defined in Schedule 1: see also Part 2 of Chapter 8_.]
 
@@ -1353,7 +1355,7 @@ _(2)   See also the definitions of prior art base and prior art information 
 
 the application is to be taken, for the purposes of this Act, to have been given an international filing date under Article 11 of the PCT.
 
-             (2)  This section does not apply to an international application that was not filed in the receiving Office in English unless a translation of the application into English, verified in accordance with the regulations, has been filed.
+             (2)  This section does not apply to an international application that was not filed in the receiving Office in English unless a translation of the application into English, verified in accordance with the regulations, has been filed.
 
              (3)  Where this section applies, the international filing date of the application is to be taken to be the date that, in the opinion of the Commissioner, should have been given to the application as its international filing date under the PCT.
 
@@ -1615,7 +1617,7 @@ Commissioner to deal with notice in accordance with regulations
 
              (4)  A patent request in relation to a complete application must be in the approved form and accompanied by a complete specification.
 
-             (5)  In this section:
+             (5)  In this section:
 
                     <a name="person"></a>**_person_** includes a body of persons, whether incorporated or not.
 
@@ -1775,7 +1777,7 @@ the Commissioner may declare in writing that the persons who the Commissioner is
 
              (1)  If an applicant makes a provisional application, the applicant may make one or more complete applications associated with the provisional application at any time within the prescribed period.
 
-             (2)  In this section:
+             (2)  In this section:
 
                     <a name="applic"></a>**_applicant_** includes a person entitled to make a request under section 113 in relation to the relevant patent application.
 
@@ -1967,7 +1969,7 @@ the applicant may, instead of asking for an examination as directed, ask for def
 
 ### Division 2—Modified examination
 
-##### <a id="47"></a>47  Request for modified examination
+##### <a id="47"></a>47  Request for modified examination
 
              (1)  Where:
 
@@ -2017,7 +2019,7 @@ the applicant may, instead of asking for an examination, ask for a modified exam
 
              (3)  The Commissioner must, if asked to do so by the applicant in writing, postpone acceptance of a patent request and complete specification until such day as the applicant specifies.
 
-             (4)  The applicant cannot, for the purposes of subsection (3), specify a day that is after the end of the period prescribed for the purposes of paragraph 142(2)(e).
+             (4)  The applicant cannot, for the purposes of subsection (3), specify a day that is after the end of the period prescribed for the purposes of paragraph 142(2)(e).
 
              (5)  Where the Commissioner accepts a patent request and complete specification relating to an application for a standard patent, the Commissioner must:
 
@@ -2666,7 +2668,7 @@ the Commissioner must publish a notice in the _Official Journal_ stating that a 
 
 the Commissioner must publish a notice in the _Official Journal_ specifying the date on which the copy was so received and stating that the copy is open to public inspection.
 
-             (4)  Where a notice is published in the _Official Journal_ under this section, a copy of the relevant application and of any other prescribed document is open to public inspection.
+             (4)  Where a notice is published in the _Official Journal_ under this section, a copy of the relevant application and of any other prescribed document is open to public inspection.
 
 ##### <a id="93"></a>93  Evidence of matters arising under PCT
 
@@ -2740,7 +2742,7 @@ the Commissioner may re‑examine the complete specification.
 
              (4)  Where relevant proceedings in relation to a patent are pending, the Commissioner must not re‑examine the complete specification relating to the patent under subsection (2).
 
-             (5)  Where:
+             (5)  Where:
 
                      (a)  the Commissioner has started to re‑examine a complete specification relating to a patent under subsection (2); and
 
@@ -2782,11 +2784,11 @@ the Commissioner must not continue the re‑examination.
 
              (3)  The applicant may appeal to the Federal Court against a decision of the Commissioner under this section.
 
-##### <a id="101"></a>101  Revocation of patent—re‑examination after grant
+##### <a id="101"></a>101  Revocation of patent—re‑examination after grant
 
              (1)  Where the Commissioner makes an adverse report on a re‑examination under subsection 97(2), the Commissioner may, by notice in writing, revoke the patent, either wholly or so far as it relates to a particular claim, as the case requires.
 
-             (2)  The Commissioner must not revoke a patent under this section unless the Commissioner:
+             (2)  The Commissioner must not revoke a patent under this section unless the Commissioner:
 
                      (a)  has given the patentee a reasonable opportunity to be heard; and
 
@@ -3094,7 +3096,7 @@ Amendments not allowable if information not provided
 
              (1)  Where a person is registered as the mortgagee or exclusive licensee of a patent, an amendment of the complete specification is not allowable unless the mortgagee or licensee has consented, in writing, to the amendment.
 
-             (2)  If a mortgagee or licensee refuses to consent to a proposed amendment, the Commissioner may, on the application of the applicant or patentee, if satisfied that the consent has been unreasonably refused, direct that the consent of the mortgagee or licensee is not necessary.
+             (2)  If a mortgagee or licensee refuses to consent to a proposed amendment, the Commissioner may, on the application of the applicant or patentee, if satisfied that the consent has been unreasonably refused, direct that the consent of the mortgagee or licensee is not necessary.
 
 ## Part 2—Amendments of patent requests, specifications and other filed documents
 
@@ -3200,7 +3202,7 @@ the Commissioner may, on a request made by the person in accordance with the reg
 
                      (a)  the person is to be taken to be the applicant, or a joint applicant, as the case requires; and
 
-                     (b)  the patent request is to be taken to have been amended so as to request the grant of a patent to the person, either alone or as a joint patentee, as the case requires.
+                     (b)  the patent request is to be taken to have been amended so as to request the grant of a patent to the person, either alone or as a joint patentee, as the case requires.
 
 ##### <a id="114"></a>114  Priority date of certain amended claims
 
@@ -3832,9 +3834,9 @@ then, upon receipt by the Commissioner of that copy:
 
                      (d)  if the application is a relevant international application—the application must cease to be treated as an international application.
 
-             (2)  Where an application has lapsed under this section, the Commissioner must publish a notice to that effect in the _Official Journal_.
+             (2)  Where an application has lapsed under this section, the Commissioner must publish a notice to that effect in the _Official Journal_.
 
-##### <a id="149"></a>149  Revocation of direction
+##### <a id="149"></a>149  Revocation of direction
 
                    Where under section 148 an application has lapsed, or has ceased to be treated as an international application, because of a direction by the Director under section 147, the applicant may apply in writing to the Director for the revocation of the direction and the Director may revoke the direction.
 
@@ -3908,7 +3910,7 @@ then, except as otherwise prescribed:
 
 # Chapter 16—Jurisdiction and powers of courts
 
-##### <a id="154"></a>154  Jurisdiction of Federal Court
+##### <a id="154"></a>154  Jurisdiction of Federal Court
 
              (1)  The Federal Court has jurisdiction with respect to matters arising under this Act.
 
@@ -3956,7 +3958,7 @@ then, except as otherwise prescribed:
 
 ##### <a id="159"></a>159  Commissioner may appear in appeals
 
-                   The Commissioner may appear and be heard at the hearing of an appeal to the Federal Court against a decision or direction of the Commissioner even if the Commissioner is not a party to the appeal.
+                   The Commissioner may appear and be heard at the hearing of an appeal to the Federal Court against a decision or direction of the Commissioner even if the Commissioner is not a party to the appeal.
 
 ##### <a id="160"></a>160  Powers of Federal Court
 
@@ -4090,7 +4092,7 @@ the buyer, and any person claiming through the buyer, is entitled to deal with t
 
                      (a)  given to the applicant and the nominated person, or the patentee; and
 
-                     (b)  published in the _Official Journal_ and the _Gazette_ unless, in the case of the acquisition of an invention that is the subject of an application for a patent, a prohibition order, or an order under section 152, is in force in respect of the application.
+                     (b)  published in the _Official Journal_ and the _Gazette_ unless, in the case of the acquisition of an invention that is the subject of an application for a patent, a prohibition order, or an order under section 152, is in force in respect of the application.
 
              (4)  The Commonwealth must pay a compensable person such compensation as is agreed between the Commonwealth and the person or, in the absence of agreement, as is determined by a prescribed court on the application of either of them.
 
@@ -4374,7 +4376,7 @@ may apply to a prescribed court for an order to rectify the Register.
 
                      (b)  an application for a patent that is open to public inspection; or
 
-                     (c)  any prescribed document or matter.
+                     (c)  any prescribed document or matter.
 
 ##### <a id="195"></a>195  Evidence—the Register
 
@@ -4810,7 +4812,7 @@ the prescribed provisions have effect for the protection or compensation of pers
 
                     <a name="relev-act"></a>**_relevant act_** means an action (other than a prescribed action) in relation to a patent, a patent application, or any proceedings under this Act (other than court proceedings), and includes the making of a Convention application within the time allowed for making such applications.
 
-##### <a id="224"></a>224  Review of decisions 
+##### <a id="224"></a>224  Review of decisions 
 
              (1)  Application may be made to the Administrative Appeals Tribunal for review of:
 
@@ -5150,7 +5152,7 @@ _Section 3_
 
                     <a name="australia"></a>**_Australia_** includes each external Territory.
 
-                    <a name="australian-continent-shelf"></a>**_Australian continental shelf_** means the continental shelf adjacent to the coast of Australia (including the coast of any island forming part of a State or Territory).
+                    <a name="australian-continent-shelf"></a>**_Australian continental shelf_** means the continental shelf, within the meaning of the _Seas and Submerged Lands Act 1973_, adjacent to the coast of Australia (including the coast of any island forming part of a State or Territory).
 
                     <a name="australian-regist-therapeut-good"></a>**_Australian Register of Therapeutic Goods_**means the register maintained under section 9A of the _Therapeutic Goods Act 1989_.
 
@@ -5356,7 +5358,7 @@ but does not include a substance that is solely for use in _in vitro_ diagnosis 
 
                                         (C)  the information was contained in the specification on its filing date and when it was published.
 
-_\[Note: For the meaning of document see section 2B of the Acts Interpretation Act 1901_._]_
+_\[Note: For the meaning of document see section 25 of the Acts Interpretation Act 1901_._]_
 
                     <a name="prior-art-inform"></a>**_prior art information_** means:
 
@@ -5519,10 +5521,10 @@ The _Patents Act 1990_ was modified by the _Patents Regulations 1991_(1991 No.�
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="23%">
-  <col width="15%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -5628,7 +5630,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Ss. 4–7 and 12: 1 July 1995 
-Remainder: 10 Jan 1995</div>
+Remainder: 10 Jan 1995</div>
   </td>
   <td>
     <div>Ss. 3, 7, 8, 10, 12, 13 and 17</div>
@@ -5665,7 +5667,7 @@ Sch. 3 (item 4) \[ <i>see</i>Table A]</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 728–730): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+    <div>Schedule 1 (items 728–730): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5688,7 +5690,7 @@ Sch. 3 (item 4) \[ <i>see</i>Table A]</div>
     <div>Sch. 1 (items 1, 2 (1), 
 2(3)–2(6), 
 3–6, 8) 
-Sch. 2 \[items 2(2), 7] (am. by 99, 2001, Sch. 2 \[items 1, 2]) \[ <i>see</i>Table A]</div>
+Sch. 2 \[items 2(2), 7] (am. by 99, 2001, Sch. 2 \[items 1, 2]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5753,7 +5755,7 @@ Sch. 2 \[items 2(2), 7] (am. by 99, 2001, Sch. 2 \[items 1, 2]) \[ <i>see</i>T
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 401): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(e)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (item 401): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(e)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -5787,7 +5789,7 @@ Sch. 2 \[items 2(2), 7] (am. by 99, 2001, Sch. 2 \[items 1, 2]) \[ <i>see</i>T
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Apr 2002 
+    <div>Schedule 1: 1 Apr 2002 
 Schedule 2: <i>(f) 
  </i>Remainder: Royal Assent</div>
   </td>
@@ -5859,9 +5861,9 @@ Schedule 2 (items 1–5): 26 Aug 2003</div>
   </td>
   <td>
     <div>Schedules 5, 6, 8 and 9: 28 Sept 2006 
-Schedule 7: 25 Oct 2006 
-Schedules 10 and 12 (item 4): 27 Mar 2007 
-Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
+Schedule 7: 25 Oct 2006 
+Schedules 10 and 12 (item 4): 27 Mar 2007 
+Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>Sch. 5 (item 2), Sch. 6 (item 2), Sch. 7 (item 4), Sch. 8 (item 9), Sch. 9 (item 2) and Sch. 10 (item 3) \[ <i>see</i>Table A]</div>
@@ -5895,7 +5897,7 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
     <div>19 Feb 2010</div>
   </td>
   <td>
-    <div>Schedule 10 (item 22): 20 Feb 2010</div>
+    <div>Schedule 10 (item 22): 20 Feb 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -5912,7 +5914,7 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (item 39): Royal Assent</div>
+    <div>Schedule 1 (item 39): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -5929,7 +5931,7 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (item 16): \[ <i>see (h)</i>and Note 3]</div>
+    <div>Schedule 3 (item 16): \[ <i>see (h)</i>and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -5946,7 +5948,7 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 82): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 82): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -5963,27 +5965,10 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 7 (items 108, 109): 19 Apr 2011</div>
+    <div>Schedule 7 (items 108, 109): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 905–907) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -6281,14 +6266,6 @@ _(h)_ Subsection 2(1) (item 13) of the _Personal Property Securities (Corporat
   </td>
   <td>
     <div>am. No. 140, 2000; No. 160, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7999,7 +7976,7 @@ of Chapt. 6</div>
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 66, 1991; Nos. 58, 108 and 154, 1994; No. 100, 1998; No. 146, 1999; No. 140, 2000; No. 160, 2001; No. 48, 2003; No. 106, 2006; No. 46, 2011</div>
+    <div>am. No. 66, 1991; Nos. 58, 108 and 154, 1994; No. 100, 1998; No. 146, 1999; No. 140, 2000; No. 160, 2001; No. 48, 2003; No. 106, 2006</div>
   </td>
 </tr></table>
 
@@ -8008,7 +7985,7 @@ of Chapt. 6</div>
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 2
 
@@ -8076,13 +8053,13 @@ Note 1:       The _Personal Property Securities Act 2009_ applies to
 
 Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
 
-As at 9 January 2012 the amendments are not incorporated in this compilation.
+As at 19 April 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
 _Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
 
-The following amendment commences immediately after 30 January 2012:
+The following amendment commences immediately after the commencement of item 14 of Schedule 2 to the _Personal Property Securities (Consequential Amendments) Act 2009_:
 
 ## Schedule 3
 
@@ -8104,7 +8081,7 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 14 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 9 January 2012 the amendment is not incorporated in this compilation.
+As at 19 April 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8338,7 +8315,7 @@ The amendment of section 122 of the _Patents Act 1990_ made by this Schedule a
 
 ## Schedule 6
 
-## 2  Application
+## 2  Application
 
 The amendment of the _Patents Act 1990_ made by this Schedule applies in relation to patents granted as a result of applications filed on or after the commencement of this Schedule.
 
@@ -8377,7 +8354,7 @@ The amendments made by this Schedule apply to the making of a complete applicati
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following provision commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 2
 
@@ -8390,20 +8367,6 @@ The following provision commences on 30 January 2012 (_see_ section 306 of t
 (3)       The amendments of the _Patents Act 1990_ made by items 11, 12 and 13 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to patents (or interests in patents) that are commenced before the time the items commence.
 
 _Note:       Items 9 to 13 commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
 ## Table B
 
