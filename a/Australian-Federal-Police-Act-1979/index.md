@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00885/Html/24915665-c6bb-4971-b344-d3d35e092688_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00062/Html/6fb4db15-6067-4bf8-8b7d-50df7a4d83f9_files/image001.gif)
 
 # Australian Federal Police Act 1979
 
 **Act No. 58 of 1979 as amended**
 
-This compilation was prepared on 4 December 2012
- taking into account amendments up to Act No. 167 of 2012
+This compilation was prepared on 5 January 2012
+ taking into account amendments up to Act No. 174 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -1829,7 +1830,7 @@ after the day on which the notice is given to the Commissioner.
 
              (3)  Paragraph (1)(a) is subject to section 30A.
 
-##### <a id="30A"></a>30A  Resignation in anticipation of termination of employment
+##### <a id="30A"></a>30A  Resignation in anticipation of termination of employment
 
              (1)  This section applies if:
 
@@ -2603,7 +2604,7 @@ is not admissible in evidence against the employee, special member or AFP appoin
 
 #### Subdivision A—Objects and simplified outline of Part
 
-##### <a id="40RA"></a>40RA  Object of this Part
+##### <a id="40RA"></a>40RA  Object of this Part
 
                    The object of this Part is to establish the procedures by which:
 
@@ -4332,7 +4333,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00885/Html/24915665-c6bb-4971-b344-d3d35e092688_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00062/Html/6fb4db15-6067-4bf8-8b7d-50df7a4d83f9_files/image002.gif)
 
 where:
 
@@ -4506,7 +4507,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
              (3)  Where:
 
-                     (a)  employer contributions or benefits made or payable by the Commonwealth or a Commonwealth organisation in respect of the person under any superannuation scheme for any period of employment (not just a period during which the offence was committed) have been paid into, and are held in, a fund under the scheme; and
+                     (a)  employer contributions or benefits made or payable by the Commonwealth or a Commonwealth organisation in respect of the person under any superannuation scheme have been paid into, and are held in, a fund under the scheme; and
 
                      (b)  the person would, but for subsection 47(1), become entitled, subject to and in accordance with the scheme, to the benefit, or to a benefit attributable to the employer contributions, as the case may be;
 
@@ -4520,11 +4521,11 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00885/Html/24915665-c6bb-4971-b344-d3d35e092688_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00062/Html/6fb4db15-6067-4bf8-8b7d-50df7a4d83f9_files/image003.gif)
 
                             where:
 
-                    <a name="ab"></a>**_AB_**_(amount of benefits)_ is the amount that the court thinks reflects the value of the sum of the benefits paid by the Commonwealth or Commonwealth organisation to the person under the scheme for any period of employment (not just a period during which the offence was committed) as at the day on which the order is made.
+                    <a name="ab"></a>**_AB_**_(amount of benefits)_ is the amount that the court thinks reflects the value of the sum of the benefits paid by the Commonwealth or Commonwealth organisation to the person under the scheme as at the day on which the order is made.
 
                     <a name="ab"></a><a name="ec"></a>**_EC_**_(employee contributions)_ is an amount that the court thinks is equal to the part of **_AB_** that is attributable to the sum of the employee contributions paid under the scheme by the person as at that day plus the interest on those contributions accrued under the scheme before that day; and
 
@@ -4582,7 +4583,7 @@ the court must:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00885/Html/24915665-c6bb-4971-b344-d3d35e092688_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00062/Html/6fb4db15-6067-4bf8-8b7d-50df7a4d83f9_files/image004.gif)
 
 where:
 
@@ -6950,23 +6951,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious Drugs, Identity Crime and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>167, 2012</div>
-  </td>
-  <td>
-    <div>28 Nov 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 10, 11, 14): 29 Nov 2012</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 14) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -10459,7 +10443,7 @@ rep. No. 152, 2004</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 147 and 153, 1989; No. 182, 1994; No. 167, 2012</div>
+    <div>am. Nos. 147 and 153, 1989; No. 182, 1994</div>
   </td>
 </tr>
 <tr>
@@ -11923,15 +11907,5 @@ _Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)_
 (2)       The amendment applies in relation to the Commissioner’s powers, functions or duties as a proceeds of crime authority in relation to orders (or applications or proceedings for orders) under the _Proceeds of Crime Act 2002_ made or (in the case of proceedings) started before, at or after the commencement of item 1.
 
 (3)       The amendments apply under subitem (2) of this item regardless of whether the conduct giving rise to those orders (or applications or proceedings for orders) occurred, or is suspected to have occurred, before, at or after the commencement of item 1.
-
-* * *
-
-_Crimes Legislation Amendment (Serious Drugs, Identity Crime and Other Measures) Act 2012 (No. 167, 2012)_
-
-## Schedule 3
-
-## 14  Application of amendments: the _Australian Federal Police Act 1979_
-
-Section 46 of the _Australian Federal Police Act 1979_, as amended by this Schedule, applies in relation to a superannuation order applied for on or after the commencement of this item, whether an offence to which the order relates was committed before, on or after that commencement.
 
  
