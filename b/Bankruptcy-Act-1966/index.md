@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00042/Html/78fb0ca5-6cf9-4af3-87a1-5c62c7ee4e6d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00010/Html/cdc43070-88c3-4e51-ade2-7634f68d45a2_files/image001.gif)
 
 # Bankruptcy Act 1966
 
 **Act No. 33 of 1966 as amended**
 
-This compilation was prepared on 1 January 2012
- taking into account amendments up to Act No. 174 of 2011
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,1377 +20,1376 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[4](#4).            Repeal
+[4](#4).            Repeal                                                                                                  1
 
 **Part IA—Interpretation**
 
-[5](#5).            Interpretation
+[5](#5).            Interpretation                                                                                        2
 
-[5A](#5A).         Acting in accordance with a person’s directions or instructions
+[5A](#5A).         Acting in accordance with a person’s directions or instructions         17
 
-[5B](#5B).         Associated entities: companies
+[5B](#5B).         Associated entities: companies                                                           17
 
-[5C](#5C).         Associated entities: natural persons
+[5C](#5C).         Associated entities: natural persons                                                    18
 
-[5D](#5D).         Associated entities: partnerships
+[5D](#5D).         Associated entities: partnerships                                                        19
 
-[5E](#5E).          Associated entities: trusts
+[5E](#5E).          Associated entities: trusts                                                                   19
 
-[5F](#5F).          Controlling an entity in relation to a matter
+[5F](#5F).          Controlling an entity in relation to a matter                                         20
 
-[5G](#5G).         Financial affairs of a company
+[5G](#5G).         Financial affairs of a company                                                           20
 
-[5H](#5H).         Financial affairs of a natural person
+[5H](#5H).         Financial affairs of a natural person                                                   21
 
-[5J](#5J).          Financial affairs of a partnership
+[5J](#5J).          Financial affairs of a partnership                                                        22
 
-[5K](#5K).         Financial affairs of a trust
+[5K](#5K).         Financial affairs of a trust                                                                   22
 
-[6](#6).            Meaning of intent to defraud creditors
+[6](#6).            Meaning of intent to defraud creditors                                               23
 
-[6A](#6A).         Statement of affairs for purposes other than Part XI
+[6A](#6A).         Statement of affairs for purposes other than Part XI                          23
 
-[6B](#6B).         Provision of statement of affairs under Part XI and statement of administration of estate of deceased person
+[6B](#6B).         Provision of statement of affairs under Part XI and statement of administration of estate of deceased person         24
 
-[6C](#6C).         Interpretive provisions relating to proceeds of crime orders
+[6C](#6C).         Interpretive provisions relating to proceeds of crime orders               25
 
 **Part IB—Application of Act**
 
-[7](#7).            Application of Act
+[7](#7).            Application of Act                                                                              26
 
-[7A](#7A).         Application of the _Criminal Code_
+[7A](#7A).         Application of the _Criminal Code_                                                      26
 
-[8](#8).            Act to bind the Crown
+[8](#8).            Act to bind the Crown                                                                        26
 
-[9](#9).            Laws of States and Territories not affected by Act
+[9](#9).            Laws of States and Territories not affected by Act                             27
 
 **Part II—Administration** 
 
     **Division 1—General**
 
-[10](#10).          Delegation by Minister or Secretary
+[10](#10).          Delegation by Minister or Secretary                                                   28
 
-[11](#11).          Inspector‑General in Bankruptcy
+[11](#11).          Inspector‑General in Bankruptcy                                                       28
 
-[12](#12).          Functions of Inspector‑General
+[12](#12).          Functions of Inspector‑General                                                          29
 
-[15](#15).          Official Receivers
+[15](#15).          Official Receivers                                                                               33
 
-[16](#16).          Appointment of Inspector‑General and Official Receivers
+[16](#16).          Appointment of Inspector‑General and Official Receivers                 33
 
-[17](#17).          Acting Inspector‑General and Acting Official Receivers
+[17](#17).          Acting Inspector‑General and Acting Official Receivers                   33
 
-[17B](#17B).       Arrangements for services of State and Northern Territory Magistrates
+[17B](#17B).       Arrangements for services of State and Northern Territory Magistrates  34
 
-[18](#18).          The Official Trustee in Bankruptcy
+[18](#18).          The Official Trustee in Bankruptcy                                                    34
 
-[18AA](#18AA).    _Commonwealth Authorities and Companies Act 1997_ does not apply to Official Trustee
+[18AA](#18AA).    _Commonwealth Authorities and Companies Act 1997_ does not apply to Official Trustee       36
 
-[18A](#18A).       Liability of the Official Trustee
+[18A](#18A).       Liability of the Official Trustee                                                          36
 
-[19](#19).          Duties etc  of trustee
+[19](#19).          Duties etc  of trustee                                                                           37
 
-[19AA](#19AA).    Power of investigation of bankrupt’s affairs
+[19AA](#19AA).    Power of investigation of bankrupt’s affairs                                      38
 
-[19A](#19A).       Liability of Inspector‑General, Official Receivers etc 
+[19A](#19A).       Liability of Inspector‑General, Official Receivers etc                         39
 
     **Division 2—Common Investment Fund**
 
-[20A](#20A).       Interpretation
+[20A](#20A).       Interpretation                                                                                      40
 
-[20B](#20B).       The Common Investment Fund
+[20B](#20B).       The Common Investment Fund                                                          40
 
-[20D](#20D).       Investment of money in Common Fund
+[20D](#20D).       Investment of money in Common Fund                                             41
 
-[20E](#20E).        Borrowing for the Common Fund
+[20E](#20E).        Borrowing for the Common Fund                                                     42
 
-[20F](#20F).        Moneys in Common Fund not held on account of particular estates etc 
+[20F](#20F).        Moneys in Common Fund not held on account of particular estates etc   43
 
-[20G](#20G).       Common Investment Fund Equalization Account
+[20G](#20G).       Common Investment Fund Equalization Account                              44
 
-[20H](#20H).       Credits to and debits from the Equalization Account
+[20H](#20H).       Credits to and debits from the Equalization Account                          44
 
-[20J](#20J).        Interest on moneys in Common Fund payable only in certain circumstances
+[20J](#20J).        Interest on moneys in Common Fund payable only in certain circumstances           45
 
 **Part III—Courts** 
 
     **Division 2—Jurisdiction and powers of courts in bankruptcy**
 
-[27](#27).          Bankruptcy courts
+[27](#27).          Bankruptcy courts                                                                              48
 
-[29](#29).          Courts to help each other
+[29](#29).          Courts to help each other                                                                    48
 
-[30](#30).          General powers of Courts in bankruptcy
+[30](#30).          General powers of Courts in bankruptcy                                           49
 
-[31](#31).          Exercise of jurisdiction
+[31](#31).          Exercise of jurisdiction                                                                       50
 
-[32](#32).          Costs
+[32](#32).          Costs                                                                                                  51
 
-[33](#33).          Adjournment, amendment of process and extension and abridgment of times
+[33](#33).          Adjournment, amendment of process and extension and abridgment of times         51
 
-[33A](#33A).       Alteration of filing date for statement of affairs
+[33A](#33A).       Alteration of filing date for statement of affairs                                  51
 
-[34](#34).          Orders and commissions for examination of witnesses
+[34](#34).          Orders and commissions for examination of witnesses                     52
 
-[34A](#34A).       Standard of proof
+[34A](#34A).       Standard of proof                                                                               52
 
-[35](#35).          Family Court’s jurisdiction in bankruptcy where trustee is a party to property settlement or spousal maintenance proceedings etc 
+[35](#35).          Family Court’s jurisdiction in bankruptcy where trustee is a party to property settlement or spousal maintenance proceedings etc                                                                                   52
 
-[35A](#35A).       Transfer of proceedings to Family Court
+[35A](#35A).       Transfer of proceedings to Family Court                                           54
 
-[35B](#35B).       Family Court of Western Australia
+[35B](#35B).       Family Court of Western Australia                                                    55
 
-[36](#36).          Enforcement of orders etc 
+[36](#36).          Enforcement of orders etc                                                                  56
 
-[37](#37).          Power of Court to rescind orders etc 
+[37](#37).          Power of Court to rescind orders etc                                                  56
 
 **Part IV—Proceedings in connexion with bankruptcy** 
 
     **Division 1—Acts of bankruptcy**
 
-[40](#40).          Acts of bankruptcy
+[40](#40).          Acts of bankruptcy                                                                             57
 
-[41](#41).          Bankruptcy notices
+[41](#41).          Bankruptcy notices                                                                             61
 
-[42](#42).          Payment etc  of debt to Commonwealth or State after service of bankruptcy notice
+[42](#42).          Payment etc  of debt to Commonwealth or State after service of bankruptcy notice 63
 
     **Division 2—Creditors’ petitions**
 
-[43](#43).          Jurisdiction to make sequestration orders
+[43](#43).          Jurisdiction to make sequestration orders                                           64
 
-[44](#44).          Conditions on which creditor may petition
+[44](#44).          Conditions on which creditor may petition                                         64
 
-[45](#45).          Creditor’s petition against partnership
+[45](#45).          Creditor’s petition against partnership                                                65
 
-[46](#46).          Petition against 2 or more joint debtors
+[46](#46).          Petition against 2 or more joint debtors                                              66
 
-[47](#47).          Requirements as to creditor’s petition
+[47](#47).          Requirements as to creditor’s petition                                                66
 
-[49](#49).          Change of petitioners [_see_ Table B]
+[49](#49).          Change of petitioners [_see_ Table B]                                                   66
 
-[50](#50).          Taking control of debtor’s property before sequestration [_see_ Table B]
+[50](#50).          Taking control of debtor’s property before sequestration [_see_ Table B] 66
 
-[51](#51).          Costs of prosecuting creditor’s petition
+[51](#51).          Costs of prosecuting creditor’s petition                                              68
 
-[52](#52).          Proceedings and order on creditor’s petition
+[52](#52).          Proceedings and order on creditor’s petition                                      68
 
-[53](#53).          Consolidation of proceedings
+[53](#53).          Consolidation of proceedings                                                             69
 
-[54](#54).          Bankrupt’s statement of affairs
+[54](#54).          Bankrupt’s statement of affairs                                                          70
 
     **Division 2A—Declaration of intention to present debtor’s petition**
 
-[54A](#54A).       Presentation of declaration
+[54A](#54A).       Presentation of declaration                                                                 72
 
-[54B](#54B).       When debtor disqualified from presenting declaration
+[54B](#54B).       When debtor disqualified from presenting declaration                       72
 
-[54C](#54C).       Acceptance or rejection of declaration
+[54C](#54C).       Acceptance or rejection of declaration                                                72
 
-[54D](#54D).       Official Receiver to give information to debtor
+[54D](#54D).       Official Receiver to give information to debtor                                  73
 
-[54E](#54E).        Enforcement suspended during stay period
+[54E](#54E).        Enforcement suspended during stay period                                        73
 
-[54F](#54F).        Duties of sheriff
+[54F](#54F).        Duties of sheriff                                                                                 74
 
-[54G](#54G).       Duty of court registrar
+[54G](#54G).       Duty of court registrar                                                                        74
 
-[54H](#54H).       Duties of person entitled to deduct money owing to declared debtor
+[54H](#54H).       Duties of person entitled to deduct money owing to declared debtor 75
 
-[54J](#54J).        Extension of time where this Division prevents the doing of an act
+[54J](#54J).        Extension of time where this Division prevents the doing of an act   75
 
-[54K](#54K).       Section 33 not to apply to this Division
+[54K](#54K).       Section 33 not to apply to this Division                                             75
 
-[54L](#54L).        Secured creditor’s rights under security not affected
+[54L](#54L).        Secured creditor’s rights under security not affected                          75
 
     **Division 3—Debtors’ petitions**
 
-[55](#55).          Debtor’s petition
+[55](#55).          Debtor’s petition                                                                                76
 
-[56A](#56A).       Persons who may present a debtor’s petition against a partnership
+[56A](#56A).       Persons who may present a debtor’s petition against a partnership    79
 
-[56B](#56B).       Presentation of a debtor’s petition against a partnership
+[56B](#56B).       Presentation of a debtor’s petition against a partnership                     80
 
-[56C](#56C).       Referral to the Court of a debtor’s petition against a partnership
+[56C](#56C).       Referral to the Court of a debtor’s petition against a partnership        80
 
-[56D](#56D).       Acceptance of a debtor’s petition against a partnership by the Official Receiver
+[56D](#56D).       Acceptance of a debtor’s petition against a partnership by the Official Receiver      82
 
-[56E](#56E).        Effects of acceptance of a debtor’s petition against a partnership
+[56E](#56E).        Effects of acceptance of a debtor’s petition against a partnership       82
 
-[56F](#56F).        Extra duties of non‑petitioning partners who become bankrupts
+[56F](#56F).        Extra duties of non‑petitioning partners who become bankrupts        83
 
-[56G](#56G).       Inspection of statements of affairs of partners and partnerships
+[56G](#56G).       Inspection of statements of affairs of partners and partnerships         83
 
-[57](#57).          Debtor’s petition by joint debtors who are not partners
+[57](#57).          Debtor’s petition by joint debtors who are not partners                     84
 
-[57A](#57A).       Time at which person becomes bankrupt on debtor’s petition
+[57A](#57A).       Time at which person becomes bankrupt on debtor’s petition            88
 
     **Division 4—Effect of bankruptcy on property and proceedings**
 
-[58](#58).          Vesting of property upon bankruptcy—general rule
+[58](#58).          Vesting of property upon bankruptcy—general rule                          89
 
-[58A](#58A).       Vesting of property upon bankruptcy—effect of orders in force under the proceeds of crime law
+[58A](#58A).       Vesting of property upon bankruptcy—effect of orders in force under the proceeds of crime law          90
 
-[59](#59).          Second or subsequent bankruptcy
+[59](#59).          Second or subsequent bankruptcy                                                      91
 
-[59A](#59A).       Orders under Part VIII or VIIIAB of the _Family Law Act 1975_
+[59A](#59A).       Orders under Part VIII or VIIIAB of the _Family Law Act 1975_        93
 
-[60](#60).          Stay of legal proceedings
+[60](#60).          Stay of legal proceedings                                                                   93
 
-[61](#61).          Actions by bankrupt partner’s trustee
+[61](#61).          Actions by bankrupt partner’s trustee                                                95
 
-[62](#62).          Actions on joint contracts
+[62](#62).          Actions on joint contracts                                                                   95
 
-[63](#63).          Death of bankrupt
+[63](#63).          Death of bankrupt                                                                              96
 
     **Division 5—Meetings of creditors** 
 
         **Subdivision A—Preliminary**
 
-[63A](#63A).       Definitions [_see_ Table B]
+[63A](#63A).       Definitions [_see_ Table B]                                                                   97
 
-[63B](#63B).       Trustee’s representative
+[63B](#63B).       Trustee’s representative                                                                      98
 
         **Subdivision B—Convening of meetings**
 
-[64](#64).          Trustee to convene meetings
+[64](#64).          Trustee to convene meetings                                                              98
 
-[64A](#64A).       Persons to whom notice of meeting to be given [_see_ Table B]
+[64A](#64A).       Persons to whom notice of meeting to be given [_see_ Table B]           98
 
-[64B](#64B).       Certain matters to be included in notice of meeting [_see_ Table B]
+[64B](#64B).       Certain matters to be included in notice of meeting [_see_ Table B]      99
 
-[64C](#64C).       If telephone conference facilities are available
+[64C](#64C).       If telephone conference facilities are available                                    99
 
-[64D](#64D).       Statement by creditor as to amount of debt [_see_ Table B]
+[64D](#64D).       Statement by creditor as to amount of debt [_see_ Table B]                 100
 
-[64E](#64E).        Notice about voting by proxy [_see_ Table B]
+[64E](#64E).        Notice about voting by proxy [_see_ Table B]                                     101
 
-[64F](#64F).        Notice about appointment of attorney
+[64F](#64F).        Notice about appointment of attorney                                               101
 
-[64G](#64G).       Agenda to be set out in notice of meeting [_see_ Table B]
+[64G](#64G).       Agenda to be set out in notice of meeting [_see_ Table B]                   101
 
         **Subdivision C—Procedure before opening of meeting**
 
-[64H](#64H).       Creditors, or proxies or attorneys, participating by telephone
+[64H](#64H).       Creditors, or proxies or attorneys, participating by telephone          102
 
-[64J](#64J).        Preparation of attendance record [_see_ Table B]
+[64J](#64J).        Preparation of attendance record [_see_ Table B]                                102
 
         **Subdivision D—Procedure at meetings**
 
-[64K](#64K).       Opening of meeting [_see_ Table B]
+[64K](#64K).       Opening of meeting [_see_ Table B]                                                    103
 
-[64L](#64L).        Appointment of minutes secretary [_see_ Table B]
+[64L](#64L).        Appointment of minutes secretary [_see_ Table B]                              104
 
-[64M](#64M).      Announcement of proxies and attorneys
+[64M](#64M).      Announcement of proxies and attorneys                                          105
 
-[64N](#64N).       Quorum
+[64N](#64N).       Quorum                                                                                            105
 
-[64P](#64P).        Election of person to preside at meeting [_see_ Table B]
+[64P](#64P).        Election of person to preside at meeting [_see_ Table B]                     106
 
-[64Q](#64Q).       Whether holding of meeting is convenient to majority of creditors
+[64Q](#64Q).       Whether holding of meeting is convenient to majority of creditors  107
 
-[64R](#64R).       Tabling of bankrupt’s statement of affairs [_see_ Table B]
+[64R](#64R).       Tabling of bankrupt’s statement of affairs [_see_ Table B]                  107
 
-[64S](#64S).        Statements and questions [_see_ Table B]
+[64S](#64S).        Statements and questions [_see_ Table B]                                           107
 
-[64T](#64T).        Motions [_see_ Table B]
+[64T](#64T).        Motions [_see_ Table B]                                                                      108
 
-[64U](#64U).       Remuneration of registered trustee [_see_ Table B]
+[64U](#64U).       Remuneration of registered trustee [_see_ Table B]                             108
 
-[64V](#64V).       Appointment of committee of inspection [_see_ Table B]
+[64V](#64V).       Appointment of committee of inspection [_see_ Table B]                    109
 
-[64W](#64W).      Other business [_see_ Table B]
+[64W](#64W).      Other business [_see_ Table B]                                                           109
 
-[64X](#64X).       Next meeting [_see_ Table B]
+[64X](#64X).       Next meeting [_see_ Table B]                                                              110
 
         **Subdivision E—Miscellaneous**
 
-[64Y](#64Y).       Adjournment of meeting [_see_ Table B]
+[64Y](#64Y).       Adjournment of meeting [_see_ Table B]                                            110
 
-[64Z](#64Z).        Duties of minutes secretary [_see_ Table B]
+[64Z](#64Z).        Duties of minutes secretary [_see_ Table B]                                        110
 
-[64ZA](#64ZA).     Entitlement to vote
+[64ZA](#64ZA).     Entitlement to vote                                                                            112
 
-[64ZB](#64ZB).     Manner of voting [_see_ Table B]
+[64ZB](#64ZB).     Manner of voting [_see_ Table B]                                                       113
 
-[64ZBA](#64ZBA).  Creditors’ resolution without meeting
+[64ZBA](#64ZBA).  Creditors’ resolution without meeting                                              115
 
-[64ZC](#64ZC).     Appointment of proxies [_see_ Table B]
+[64ZC](#64ZC).     Appointment of proxies [_see_ Table B]                                             116
 
-[64ZD](#64ZD).     Provisions relating to motions and amendments of motions
+[64ZD](#64ZD).     Provisions relating to motions and amendments of motions            117
 
-[64ZE](#64ZE).     Joint bankruptcies [_see_ Table B]
+[64ZE](#64ZE).     Joint bankruptcies [_see_ Table B]                                                      118
 
-[64ZF](#64ZF).     Substantial compliance to be sufficient
+[64ZF](#64ZF).     Substantial compliance to be sufficient                                             118
 
     **Division 5A—Committee of inspection**
 
-[70](#70).          Committee of inspection
+[70](#70).          Committee of inspection                                                                   119
 
-[71](#71).          Vacation of office etc 
+[71](#71).          Vacation of office etc                                                                       120
 
-[72](#72).          Member of committee not to purchase part of estate
+[72](#72).          Member of committee not to purchase part of estate                        120
 
     **Division 6—Composition or arrangement with creditors**
 
-[73](#73).          Composition or arrangement [_see_ Table B]
+[73](#73).          Composition or arrangement [_see_ Table B]                                      122
 
-[73A](#73A).       Trustee may require surety for cost of meeting
+[73A](#73A).       Trustee may require surety for cost of meeting                                123
 
-[73B](#73B).       Declaration of relationships by proposed trustee of composition or scheme of arrangement
+[73B](#73B).       Declaration of relationships by proposed trustee of composition or scheme of arrangement    123
 
-[73C](#73C).       Statement of affairs and declarations of relationships to be tabled at meeting
+[73C](#73C).       Statement of affairs and declarations of relationships to be tabled at meeting           124
 
-[74](#74).          Annulment of bankruptcy [_see_ Table B]
+[74](#74).          Annulment of bankruptcy [_see_ Table B]                                          125
 
-[74A](#74A).       Variation of composition or scheme of arrangement
+[74A](#74A).       Variation of composition or scheme of arrangement                        126
 
-[75](#75).          Effect of composition or scheme of arrangement [_see_ Table B]
+[75](#75).          Effect of composition or scheme of arrangement [_see_ Table B]       127
 
-[76](#76).          Application of Part VIII to trustee of a composition or arrangement
+[76](#76).          Application of Part VIII to trustee of a composition or arrangement 127
 
-[76A](#76A).       Meetings of creditors
+[76A](#76A).       Meetings of creditors                                                                       128
 
-[76B](#76B).       Setting aside and termination of a composition or scheme of arrangement
+[76B](#76B).       Setting aside and termination of a composition or scheme of arrangement               128
 
 **Part V—Control over person and property of debtors and bankrupts** 
 
     **Division 1—General**
 
-[77](#77).          Duties of bankrupt as to discovery etc  of property
+[77](#77).          Duties of bankrupt as to discovery etc  of property                          129
 
-[77AA](#77AA).    Access by Official Receiver and others to premises
+[77AA](#77AA).    Access by Official Receiver and others to premises                         130
 
-[77A](#77A).       Access by trustee to books of associated entity
+[77A](#77A).       Access by trustee to books of associated entity                                131
 
-[77C](#77C).       Power of Official Receiver to obtain information and evidence
+[77C](#77C).       Power of Official Receiver to obtain information and evidence       132
 
-[77CA](#77CA).    Power of Official Receiver to obtain statement of affairs
+[77CA](#77CA).    Power of Official Receiver to obtain statement of affairs                 133
 
-[77D](#77D).       Allowances and expenses in respect of attendance
+[77D](#77D).       Allowances and expenses in respect of attendance                           134
 
-[77E](#77E).        Advance on account of allowances and expenses
+[77E](#77E).        Advance on account of allowances and expenses                            134
 
-[77F](#77F).        Allowances and expenses to be paid out of bankrupt’s estate [_see_ Table B]
+[77F](#77F).        Allowances and expenses to be paid out of bankrupt’s estate [_see_ Table B]            135
 
-[78](#78).          Arrest of debtor or bankrupt
+[78](#78).          Arrest of debtor or bankrupt                                                            135
 
-[80](#80).          Notification of change in name, address or day‑time telephone number
+[80](#80).          Notification of change in name, address or day‑time telephone number 136
 
-[81](#81).          Discovery of bankrupt’s property etc  [_see_ Table B]
+[81](#81).          Discovery of bankrupt’s property etc  [_see_ Table B]                        137
 
     **Division 2—Offshore information notices**
 
-[81A](#81A).       Issue of notices
+[81A](#81A).       Issue of notices                                                                                141
 
-[81B](#81B).       Extension of period of notice
+[81B](#81B).       Extension of period of notice                                                           141
 
-[81C](#81C).       Variation of notices
+[81C](#81C).       Variation of notices                                                                          142
 
-[81D](#81D).       Withdrawal of notices
+[81D](#81D).       Withdrawal of notices                                                                      143
 
-[81E](#81E).        Notices may be included in same document
+[81E](#81E).        Notices may be included in same document                                     143
 
-[81F](#81F).        Relationship between this Division and section 77C
+[81F](#81F).        Relationship between this Division and section 77C                        143
 
     **Division 3—Failure to comply with certain notices**
 
-[81G](#81G).       Effect of non‑compliance with notice
+[81G](#81G).       Effect of non‑compliance with notice                                               144
 
 **Part VI—Administration of property** 
 
     **Division 1—Proof of debts**
 
-[82](#82).          Debts provable in bankruptcy [_see_ Table B]
+[82](#82).          Debts provable in bankruptcy [_see_ Table B]                                    145
 
-[83](#83).          Debt not to be considered proved until admitted
+[83](#83).          Debt not to be considered proved until admitted                              146
 
-[84](#84).          Manner of proving debts
+[84](#84).          Manner of proving debts                                                                  146
 
-[85](#85).          Proof by employees
+[85](#85).          Proof by employees                                                                         148
 
-[86](#86).          Mutual credit and set‑off
+[86](#86).          Mutual credit and set‑off                                                                  149
 
-[87](#87).          Deduction of discounts [_see_ Table B]
+[87](#87).          Deduction of discounts [_see_ Table B]                                              149
 
-[88](#88).          Apportionment to principal and interest of payments made before bankruptcy [_see_ Table B]
+[88](#88).          Apportionment to principal and interest of payments made before bankruptcy [_see_ Table B]  149
 
-[89](#89).          Apportionment where security realized before or after bankruptcy
+[89](#89).          Apportionment where security realized before or after bankruptcy  150
 
-[90](#90).          Proof of debt by secured creditor
+[90](#90).          Proof of debt by secured creditor                                                     150
 
-[91](#91).          Redemption of security by trustee etc 
+[91](#91).          Redemption of security by trustee etc                                               151
 
-[92](#92).          Amendment of valuation
+[92](#92).          Amendment of valuation                                                                  152
 
-[93](#93).          Repayment of excess
+[93](#93).          Repayment of excess                                                                        152
 
-[94](#94).          Subsequent realization of security
+[94](#94).          Subsequent realization of security                                                    152
 
-[95](#95).          Proof in respect of distinct contracts [_see_ Table B]
+[95](#95).          Proof in respect of distinct contracts [_see_ Table B]                          153
 
-[96](#96).          Proof in respect of proportionate part of periodical payment
+[96](#96).          Proof in respect of proportionate part of periodical payment            153
 
-[97](#97).          Production of bills of exchange and promissory notes
+[97](#97).          Production of bills of exchange and promissory notes                     153
 
-[98](#98).          Amendment of proof of debt
+[98](#98).          Amendment of proof of debt                                                            153
 
-[100](#100).        Costs of proving debts etc 
+[100](#100).        Costs of proving debts etc                                                                154
 
-[101](#101).        Inspection of proofs by creditors etc 
+[101](#101).        Inspection of proofs by creditors etc                                                154
 
-[102](#102).        Admission or rejection of proofs
+[102](#102).        Admission or rejection of proofs                                                     154
 
-[103](#103).        Debts to be rounded down to nearest dollar
+[103](#103).        Debts to be rounded down to nearest dollar                                     155
 
-[104](#104).        Appeal against decision of trustee in respect of proof [_see_ Table B]
+[104](#104).        Appeal against decision of trustee in respect of proof [_see_ Table B] 155
 
-[105](#105).        Costs of appeal
+[105](#105).        Costs of appeal                                                                                 156
 
-[106](#106).        Trustee may administer oaths etc 
+[106](#106).        Trustee may administer oaths etc                                                      156
 
-[107](#107).        Creditor not to receive more than the amount of his or her debt and interest
+[107](#107).        Creditor not to receive more than the amount of his or her debt and interest            156
 
     **Division 2—Order of payment of debts** 
 
         **Subdivision A—General**
 
-[108](#108).        Debts proved to rank equally except as otherwise provided
+[108](#108).        Debts proved to rank equally except as otherwise provided             157
 
-[109](#109).        Priority payments [_see_ Table B]
+[109](#109).        Priority payments [_see_ Table B]                                                       157
 
-[109A](#109A).     Debts due to employees [_see_ Table B]
+[109A](#109A).     Debts due to employees [_see_ Table B]                                             161
 
-[110](#110).        Application of estates of joint debtors [_see_ Table B]
+[110](#110).        Application of estates of joint debtors [_see_ Table B]                        162
 
-[113](#113).        Apprenticeship etc  claims [_see_ Table B]
+[113](#113).        Apprenticeship etc  claims [_see_ Table B]                                          162
 
-[114](#114).        Payment of liabilities etc  incurred under terminated deed etc  [_see_ Table B]
+[114](#114).        Payment of liabilities etc  incurred under terminated deed etc  [_see_ Table B]            163
 
         **Subdivision B—The effect of proceeds of crime orders and applications for proceeds of crime orders**
 
-[114A](#114A).     The effect of proceeds of crime orders
+[114A](#114A).     The effect of proceeds of crime orders                                             163
 
-[114B](#114B).     The effect of applications for proceeds of crime orders
+[114B](#114B).     The effect of applications for proceeds of crime orders                    164
 
-[114C](#114C).     Director of Public Prosecutions or Commissioner of the Australian Federal Police must notify the trustee of certain matters
+[114C](#114C).     Director of Public Prosecutions must notify the trustee of certain matters                164
 
     **Division 3—Property available for payment of debts** 
 
         **Subdivision A—General**
 
-[115](#115).        Commencement of bankruptcy
+[115](#115).        Commencement of bankruptcy                                                         165
 
-[116](#116).        Property divisible among creditors [_see_ Table B]
+[116](#116).        Property divisible among creditors [_see_ Table B]                             166
 
-[117](#117).        Policies of insurance against liabilities to third parties [_see_ Table B]
+[117](#117).        Policies of insurance against liabilities to third parties [_see_ Table B] 171
 
-[118](#118).        Execution by creditor against property of debtor who becomes a bankrupt etc  [_see_ Table B]
+[118](#118).        Execution by creditor against property of debtor who becomes a bankrupt etc  [_see_ Table B] 172
 
-[119](#119).        Duties of sheriff after receiving notice of presentation of petition etc  [_see_ Table B]
+[119](#119).        Duties of sheriff after receiving notice of presentation of petition etc  [_see_ Table B]                175
 
-[119A](#119A).     Duties of sheriff after receiving notice of bankruptcy etc  [_see_ Table B]
+[119A](#119A).     Duties of sheriff after receiving notice of bankruptcy etc  [_see_ Table B]  178
 
-[120](#120).        Undervalued transactions
+[120](#120).        Undervalued transactions                                                                 180
 
-[121](#121).        Transfers to defeat creditors
+[121](#121).        Transfers to defeat creditors                                                             183
 
-[121A](#121A).     Transactions where consideration given to a third party
+[121A](#121A).     Transactions where consideration given to a third party                   185
 
-[122](#122).        Avoidance of preferences [_see_ Table B]
+[122](#122).        Avoidance of preferences [_see_ Table B]                                           186
 
-[123](#123).        Protection of certain transfers of property against relation back etc  [_see_ Table B]
+[123](#123).        Protection of certain transfers of property against relation back etc  [_see_ Table B]   188
 
-[124](#124).        Protection of certain payments to bankrupt etc  [_see_ Table B]
+[124](#124).        Protection of certain payments to bankrupt etc  [_see_ Table B]          189
 
-[125](#125).        Certain accounts of undischarged bankrupt [_see_ Table B]
+[125](#125).        Certain accounts of undischarged bankrupt [_see_ Table B]                190
 
-[126](#126).        Dealings with undischarged bankrupt in respect of after‑acquired property [_see_ Table B]
+[126](#126).        Dealings with undischarged bankrupt in respect of after‑acquired property [_see_ Table B]       191
 
-[127](#127).        Limitation of time for making claims by trustee etc  [_see_ Table B]
+[127](#127).        Limitation of time for making claims by trustee etc  [_see_ Table B]   192
 
-[128](#128).        Notice to trustee where identity of vendor etc  with bankrupt in doubt
+[128](#128).        Notice to trustee where identity of vendor etc  with bankrupt in doubt 192
 
         **Subdivision B—Superannuation contributions**
 
-[128A](#128A).     Simplified outline
+[128A](#128A).     Simplified outline                                                                             193
 
-[128B](#128B).     Superannuation contributions made to defeat creditors—contributor is a person who later becomes a bankrupt
+[128B](#128B).     Superannuation contributions made to defeat creditors—contributor is a person who later becomes a bankrupt     194
 
-[128C](#128C).     Superannuation contributions made to defeat creditors—contributor is a third party
+[128C](#128C).     Superannuation contributions made to defeat creditors—contributor is a third party                196
 
-[128D](#128D).     Time for making claims by trustee
+[128D](#128D).     Time for making claims by trustee                                                   199
 
-[128E](#128E).      Superannuation account‑freezing notice
+[128E](#128E).      Superannuation account‑freezing notice                                           199
 
-[128F](#128F).      Revocation of superannuation account‑freezing notice
+[128F](#128F).      Revocation of superannuation account‑freezing notice                     201
 
-[128G](#128G).     Copy of superannuation account‑freezing notice to be given to trustee etc 
+[128G](#128G).     Copy of superannuation account‑freezing notice to be given to trustee etc               204
 
-[128H](#128H).     Consent of Official Receiver to the cashing etc  of a superannuation interest
+[128H](#128H).     Consent of Official Receiver to the cashing etc  of a superannuation interest           204
 
-[128J](#128J).      Power of Court to set aside superannuation account‑freezing notice
+[128J](#128J).      Power of Court to set aside superannuation account‑freezing notice 205
 
-[128K](#128K).     Judicial enforcement of superannuation account‑freezing notices
+[128K](#128K).     Judicial enforcement of superannuation account‑freezing notices    206
 
-[128L](#128L).      Protection of trustee of eligible superannuation plan
+[128L](#128L).      Protection of trustee of eligible superannuation plan                        206
 
-[128M](#128M).    References to a member of an eligible superannuation plan
+[128M](#128M).    References to a member of an eligible superannuation plan             208
 
-[128N](#128N).     Definitions
+[128N](#128N).     Definitions                                                                                       208
 
     **Division 4—Realization of property**
 
-[129](#129).        Trustee to take possession of property of bankrupt
+[129](#129).        Trustee to take possession of property of bankrupt                          212
 
-[129AA](#129AA).  Time limit for realising property
+[129AA](#129AA).  Time limit for realising property                                                       213
 
-[129A](#129A).     Eligible judges
+[129A](#129A).     Eligible judges                                                                                  214
 
-[130](#130).        Warrant for seizure of property connected with the bankrupt
+[130](#130).        Warrant for seizure of property connected with the bankrupt           214
 
-[132](#132).        Vesting and transfer of property
+[132](#132).        Vesting and transfer of property                                                      216
 
-[133](#133).        Disclaimer of onerous property [_see_ Table B]
+[133](#133).        Disclaimer of onerous property [_see_ Table B]                                  217
 
-[134](#134).        Powers exercisable at discretion of trustee [_see_ Table B]
+[134](#134).        Powers exercisable at discretion of trustee [_see_ Table B]                 220
 
-[136](#136).        Right to pay off mortgages [_see_ Table B]
+[136](#136).        Right to pay off mortgages [_see_ Table B]                                         222
 
-[137](#137).        Right of trustee to inspect goods held as security [_see_ Table B]
+[137](#137).        Right of trustee to inspect goods held as security [_see_ Table B]       222
 
-[138](#138).        Limitation of trustee’s power in respect of copyright, patents etc  [_see_ Table B]
+[138](#138).        Limitation of trustee’s power in respect of copyright, patents etc  [_see_ Table B]      223
 
-[139](#139).        Protection of trustee from personal liability in certain cases [_see_ Table B]
+[139](#139).        Protection of trustee from personal liability in certain cases [_see_ Table B]               223
 
     **Division 4A—Orders in relation to property of entity controlled by bankrupt or from which bankrupt derived a benefit**
 
-[139A](#139A).     Trustee may apply to Court
+[139A](#139A).     Trustee may apply to Court                                                              225
 
-[139B](#139B).     Application to be served on respondent entity
+[139B](#139B).     Application to be served on respondent entity                                  225
 
-[139C](#139C).     Who may appear at hearing
+[139C](#139C).     Who may appear at hearing                                                              225
 
-[139CA](#139CA).  Definition of _examinable period_
+[139CA](#139CA).  Definition of _examinable period_                                                      225
 
-[139D](#139D).     Order relating to property of entity other than a natural person
+[139D](#139D).     Order relating to property of entity other than a natural person        226
 
-[139DA](#139DA).  Order relating to property of natural person
+[139DA](#139DA).  Order relating to property of natural person                                     227
 
-[139E](#139E).      Order relating to net worth of entity other than a natural person
+[139E](#139E).      Order relating to net worth of entity other than a natural person      228
 
-[139EA](#139EA).   Order relating to increase in value of property of natural person
+[139EA](#139EA).   Order relating to increase in value of property of natural person      229
 
-[139F](#139F).      Court to take account of interests of other persons
+[139F](#139F).      Court to take account of interests of other persons                           229
 
-[139G](#139G).     Giving effect to orders under this Division
+[139G](#139G).     Giving effect to orders under this Division                                      229
 
-[139H](#139H).     Entity entitled to claim in bankruptcy
+[139H](#139H).     Entity entitled to claim in bankruptcy                                               230
 
     **Division 4B—Contribution by bankrupt and recovery of property** 
 
         **Subdivision A—Preliminary**
 
-[139J](#139J).      Objects of Division
+[139J](#139J).      Objects of Division                                                                          231
 
         **Subdivision B—Interpretation**
 
-[139K](#139K).     Definitions
+[139K](#139K).     Definitions                                                                                       231
 
         **Subdivision C—Income**
 
-[139L](#139L).      Meaning of income
+[139L](#139L).      Meaning of income                                                                          233
 
-[139M](#139M).    Derivation of income
+[139M](#139M).    Derivation of income                                                                        235
 
-[139N](#139N).     Income varied by income tax payments and refunds and child support payments
+[139N](#139N).     Income varied by income tax payments and refunds and child support payments    236
 
         **Subdivision D—Liability of bankrupt to pay contributions**
 
-[139P](#139P).      Liability of bankrupt to pay contribution
+[139P](#139P).      Liability of bankrupt to pay contribution                                          237
 
-[139Q](#139Q).     Change in liability of bankrupt
+[139Q](#139Q).     Change in liability of bankrupt                                                         237
 
-[139R](#139R).     Liability not affected by subsequent discharge
+[139R](#139R).     Liability not affected by subsequent discharge                                 238
 
-[139S](#139S).      Contribution payable by bankrupt
+[139S](#139S).      Contribution payable by bankrupt                                                    238
 
-[139T](#139T).      Determination of higher income threshold in cases of hardship
+[139T](#139T).      Determination of higher income threshold in cases of hardship       238
 
         **Subdivision E—Provision of information to trustee**
 
-[139U](#139U).     Bankrupt to provide evidence of income
+[139U](#139U).     Bankrupt to provide evidence of income                                          240
 
-[139V](#139V).     Power of trustee to require bankrupt to provide additional evidence
+[139V](#139V).     Power of trustee to require bankrupt to provide additional evidence 242
 
         **Subdivision F—Assessments of income and contribution**
 
-[139W](#139W).    Assessment of bankrupt’s income and contribution
+[139W](#139W).    Assessment of bankrupt’s income and contribution                         242
 
-[139WA](#139WA). No time limit on making assessment
+[139WA](#139WA). No time limit on making assessment                                                243
 
-[139X](#139X).     Basis of assessments
+[139X](#139X).     Basis of assessments                                                                        243
 
-[139Y](#139Y).     Trustee may regard bankrupt as receiving reasonable remuneration
+[139Y](#139Y).     Trustee may regard bankrupt as receiving reasonable remuneration 244
 
-[139Z](#139Z).      If bankrupt claims not to be in receipt of income
+[139Z](#139Z).      If bankrupt claims not to be in receipt of income                              245
 
         **Subdivision G—Review of assessment**
 
-[139ZA](#139ZA).   Internal review of assessment
+[139ZA](#139ZA).   Internal review of assessment                                                          245
 
-[139ZC](#139ZC).   Inspector‑General may request further information
+[139ZC](#139ZC).   Inspector‑General may request further information                          246
 
-[139ZD](#139ZD).   Decision on review
+[139ZD](#139ZD).   Decision on review                                                                          246
 
-[139ZE](#139ZE).   Inspector‑General to notify bankrupt and trustee of decision
+[139ZE](#139ZE).   Inspector‑General to notify bankrupt and trustee of decision           247
 
-[139ZF](#139ZF).   Review of assessment decisions
+[139ZF](#139ZF).   Review of assessment decisions                                                      248
 
         **Subdivision H—When contribution payable**
 
-[139ZG](#139ZG).   Payment of contribution
+[139ZG](#139ZG).   Payment of contribution                                                                   248
 
-[139ZH](#139ZH).   If excess contribution paid
+[139ZH](#139ZH).   If excess contribution paid                                                               249
 
-[139ZI](#139ZI).    Notice of determinations
+[139ZI](#139ZI).    Notice of determinations                                                                  249
 
         **Subdivision HA—Supervised account regime**
 
-[139ZIA](#139ZIA). Objects
+[139ZIA](#139ZIA). Objects                                                                                             250
 
-[139ZIB](#139ZIB).  Definitions
+[139ZIB](#139ZIB).  Definitions                                                                                       250
 
-[139ZIC](#139ZIC).  Trustee may determine that the supervised account regime applies to the bankrupt
+[139ZIC](#139ZIC).  Trustee may determine that the supervised account regime applies to the bankrupt  252
 
-[139ZID](#139ZID). Revocation of determination
+[139ZID](#139ZID). Revocation of determination                                                             252
 
-139ZIDAWhen determination ceases to be in force
+[139ZIDAWhen determination ceases to be in force](#139ZIDAWhen determination ceases to be in force).                                       253
 
-[139ZIE](#139ZIE).  Bankrupt must open and maintain supervised account
+[139ZIE](#139ZIE).  Bankrupt must open and maintain supervised account                     254
 
-139ZIEANew supervised account
+[139ZIEANew supervised account](#139ZIEANew supervised account).                                                                 255
 
-[139ZIF](#139ZIF).  Bankrupt’s monetary income to be deposited to supervised account
+[139ZIF](#139ZIF).  Bankrupt’s monetary income to be deposited to supervised account 256
 
-[139ZIG](#139ZIG). Trustee to supervise withdrawals from supervised account
+[139ZIG](#139ZIG). Trustee to supervise withdrawals from supervised account             258
 
-[139ZIH](#139ZIH). Constructive income receipt arrangements
+[139ZIH](#139ZIH). Constructive income receipt arrangements                                       259
 
-139ZIHANon‑monetary income receipt arrangements
+[139ZIHANon‑monetary income receipt arrangements](#139ZIHANon‑monetary income receipt arrangements).                                   261
 
-[139ZII](#139ZII).   Cash income
+[139ZII](#139ZII).   Cash income                                                                                     262
 
-139ZIIA Keeping of books
+[139ZIIA Keeping of books](#139ZIIA Keeping of books).                                                                            263
 
-[139ZIJ](#139ZIJ).   Injunctions
+[139ZIJ](#139ZIJ).   Injunctions                                                                                       264
 
-[139ZIK](#139ZIK).  Interim injunctions
+[139ZIK](#139ZIK).  Interim injunctions                                                                           264
 
-[139ZIL](#139ZIL).  Discharge etc  of injunctions
+[139ZIL](#139ZIL).  Discharge etc  of injunctions                                                            264
 
-[139ZIM](#139ZIM). Certain limits on granting injunctions not to apply
+[139ZIM](#139ZIM). Certain limits on granting injunctions not to apply                           265
 
-[139ZIN](#139ZIN). Other powers of the Court unaffected
+[139ZIN](#139ZIN). Other powers of the Court unaffected                                              265
 
-[139ZIO](#139ZIO). Inspector‑General may review trustee’s decision
+[139ZIO](#139ZIO). Inspector‑General may review trustee’s decision                             266
 
-[139ZIP](#139ZIP).  Inspector‑General may request further information
+[139ZIP](#139ZIP).  Inspector‑General may request further information                          267
 
-[139ZIR](#139ZIR).  Inspector‑General’s decision on review
+[139ZIR](#139ZIR).  Inspector‑General’s decision on review                                           267
 
-[139ZIS](#139ZIS).  Inspector‑General to notify bankrupt and trustee of decision
+[139ZIS](#139ZIS).  Inspector‑General to notify bankrupt and trustee of decision           267
 
-[139ZIT](#139ZIT).  AAT review of decisions
+[139ZIT](#139ZIT).  AAT review of decisions                                                                 268
 
         **Subdivision I—Collection of money or property by Official Receiver from person other than the bankrupt**
 
-[139ZJ](#139ZJ).    Definition [_see_ Table B]
+[139ZJ](#139ZJ).    Definition [_see_ Table B]                                                                   269
 
-[139ZK](#139ZK).   Persons to whom Subdivision applies [_see_ Table B]
+[139ZK](#139ZK).   Persons to whom Subdivision applies [_see_ Table B]                       269
 
-[139ZL](#139ZL).   Official Receiver may require persons to make payments [_see_ Table B]
+[139ZL](#139ZL).   Official Receiver may require persons to make payments [_see_ Table B]  270
 
-[139ZM](#139ZM).  Power of Court to set aside notice
+[139ZM](#139ZM).  Power of Court to set aside notice                                                    271
 
-[139ZN](#139ZN).   Charge over property
+[139ZN](#139ZN).   Charge over property                                                                       272
 
-[139ZO](#139ZO).   Failure to comply with notice
+[139ZO](#139ZO).   Failure to comply with notice                                                           273
 
-[139ZP](#139ZP).   Employer not to dismiss or injure bankrupt because of giving of notice
+[139ZP](#139ZP).   Employer not to dismiss or injure bankrupt because of giving of notice  273
 
         **Subdivision J—Collection of money or property by Official Receiver from party to transaction that is void against the trustee**
 
-[139ZQ](#139ZQ).   Official Receiver may require payment [_see_ Table B]
+[139ZQ](#139ZQ).   Official Receiver may require payment [_see_ Table B]                      274
 
-[139ZR](#139ZR).   Charge over property [_see_ Table B]
+[139ZR](#139ZR).   Charge over property [_see_ Table B]                                                 276
 
-[139ZS](#139ZS).   Power of Court to set aside notice
+[139ZS](#139ZS).   Power of Court to set aside notice                                                    277
 
-[139ZT](#139ZT).   Failure to comply with notice
+[139ZT](#139ZT).   Failure to comply with notice                                                           277
 
         **Subdivision K—Rolled‑over superannuation interests etc.**
 
-[139ZU](#139ZU).   Order relating to rolled‑over superannuation interests etc 
+[139ZU](#139ZU).   Order relating to rolled‑over superannuation interests etc                277
 
-[139ZV](#139ZV).   Enforcement of order
+[139ZV](#139ZV).   Enforcement of order                                                                       279
 
-[139ZW](#139ZW).  Definitions
+[139ZW](#139ZW).  Definitions                                                                                       279
 
     **Division 5—Distribution of property**
 
-[140](#140).        Declaration and distribution of dividends
+[140](#140).        Declaration and distribution of dividends                                         280
 
-[141](#141).        Joint and separate dividends
+[141](#141).        Joint and separate dividends                                                             281
 
-[142](#142).        Apportionment of expenses of administration of joint and separate estates
+[142](#142).        Apportionment of expenses of administration of joint and separate estates              281
 
-[143](#143).        Provision to be made for creditors residing at a distance etc  [_see_ Table B]
+[143](#143).        Provision to be made for creditors residing at a distance etc  [_see_ Table B]              281
 
-[144](#144).        Right of creditor who has not proved debt before declaration of dividend
+[144](#144).        Right of creditor who has not proved debt before declaration of dividend               282
 
-[145](#145).        Final dividend
+[145](#145).        Final dividend                                                                                  282
 
-[146](#146).        Distribution of dividends where bankrupt fails to file statement of affairs [_see_ Table B]
+[146](#146).        Distribution of dividends where bankrupt fails to file statement of affairs [_see_ Table B]         283
 
-[147](#147).        No action for dividend
+[147](#147).        No action for dividend                                                                     283
 
 **Part VII—Discharge and annulment** 
 
     **Division 1—Preliminary**
 
-[148](#148).        Misleading conduct by bankrupt
+[148](#148).        Misleading conduct by bankrupt                                                      284
 
     **Division 2—Discharge by operation of law** 
 
         **Subdivision A—Discharge after certain period**
 
-[149](#149).        Automatic discharge
+[149](#149).        Automatic discharge                                                                         286
 
-[149A](#149A).     Bankruptcy extended when objection made
+[149A](#149A).     Bankruptcy extended when objection made                                     287
 
         **Subdivision B—Objections**
 
-[149B](#149B).     Objection to discharge
+[149B](#149B).     Objection to discharge                                                                      288
 
-[149C](#149C).     Form of notice of objection
+[149C](#149C).     Form of notice of objection                                                              288
 
-[149D](#149D).     Grounds of objection
+[149D](#149D).     Grounds of objection                                                                       289
 
-[149F](#149F).      Copy of notice of objection to be given to bankrupt
+[149F](#149F).      Copy of notice of objection to be given to bankrupt                         290
 
-[149G](#149G).     Date of effect of objection
+[149G](#149G).     Date of effect of objection                                                                291
 
-[149H](#149H).     Trustee ceasing to object on some grounds
+[149H](#149H).     Trustee ceasing to object on some grounds                                      291
 
-[149J](#149J).      Withdrawal of objection
+[149J](#149J).      Withdrawal of objection                                                                   291
 
         **Subdivision C—Review of objection**
 
-[149K](#149K).     Internal review of objection
+[149K](#149K).     Internal review of objection                                                              291
 
-[149M](#149M).    Inspector‑General may request further information
+[149M](#149M).    Inspector‑General may request further information                          292
 
-[149N](#149N).     Decision on review
+[149N](#149N).     Decision on review                                                                          293
 
-[149P](#149P).      Inspector‑General to notify bankrupt and trustee of decision
+[149P](#149P).      Inspector‑General to notify bankrupt and trustee of decision           294
 
-[149Q](#149Q).     Review of decisions
+[149Q](#149Q).     Review of decisions                                                                         295
 
     **Division 4—Provisions applicable to all discharges**
 
-[152](#152).        Discharged bankrupt to give assistance
+[152](#152).        Discharged bankrupt to give assistance                                            296
 
-[153](#153).        Effect of discharge
+[153](#153).        Effect of discharge                                                                           296
 
     **Division 5—Annulment of bankruptcy**
 
-[153A](#153A).     Annulment on payment of debts
+[153A](#153A).     Annulment on payment of debts                                                      298
 
-[153B](#153B).     Annulment by Court
+[153B](#153B).     Annulment by Court                                                                        299
 
-[154](#154).        Effect of annulment
+[154](#154).        Effect of annulment                                                                          299
 
 **Part VIII—Trustees** 
 
     **Division 1—Appointment and official name**
 
-[154A](#154A).     Application to become a registered trustee
+[154A](#154A).     Application to become a registered trustee                                       302
 
-[155](#155).        Processing of an application
+[155](#155).        Processing of an application                                                             302
 
-[155A](#155A).     Committee’s decision on an application
+[155A](#155A).     Committee’s decision on an application                                           303
 
-[155B](#155B).     Effect of committee’s decision
+[155B](#155B).     Effect of committee’s decision                                                         305
 
-[155C](#155C).     Registration as a trustee
+[155C](#155C).     Registration as a trustee                                                                    305
 
-[155D](#155D).     Extension of registration
+[155D](#155D).     Extension of registration                                                                  306
 
-[155E](#155E).      Application for change of conditions on practising as a registered trustee
+[155E](#155E).      Application for change of conditions on practising as a registered trustee                306
 
-[155F](#155F).      Decision on application for change of conditions
+[155F](#155F).      Decision on application for change of conditions                             307
 
-[155G](#155G).     Voluntary termination of registration
+[155G](#155G).     Voluntary termination of registration                                               308
 
-[155H](#155H).     Consideration of involuntary termination of registration
+[155H](#155H).     Consideration of involuntary termination of registration                  308
 
-[155I](#155I).       Decision on involuntary termination of registration
+[155I](#155I).       Decision on involuntary termination of registration                         309
 
-[155J](#155J).      After termination of registration
+[155J](#155J).      After termination of registration                                                       310
 
-[155K](#155K).     Payment of fees etc  for application, registration and extension
+[155K](#155K).     Payment of fees etc  for application, registration and extension       310
 
-[156A](#156A).     Consent to act as trustee [_see_ Table B]
+[156A](#156A).     Consent to act as trustee [_see_ Table B]                                             310
 
-[157](#157).        Appointment of trustees [_see_ Table B]
+[157](#157).        Appointment of trustees [_see_ Table B]                                             312
 
-[158](#158).        Appointment of more than one trustee etc  [_see_ Table B]
+[158](#158).        Appointment of more than one trustee etc  [_see_ Table B]                 313
 
-[159](#159).        Vacancy in office of trustee [_see_ Table B]
+[159](#159).        Vacancy in office of trustee [_see_ Table B]                                        314
 
-[160](#160).        Official Trustee to be trustee when no registered trustee is trustee [_see_ Table B]
+[160](#160).        Official Trustee to be trustee when no registered trustee is trustee [_see_ Table B]     314
 
-[161](#161).        Trustee may act in official name [_see_ Table B]
+[161](#161).        Trustee may act in official name [_see_ Table B]                                 314
 
-[161A](#161A).     Registered trustee to notify Inspector‑General of certain events
+[161A](#161A).     Registered trustee to notify Inspector‑General of certain events       315
 
     **Division 2—Remuneration and costs**
 
-[161B](#161B).     Trustee’s remuneration—minimum entitlement [_see_ Table B]
+[161B](#161B).     Trustee’s remuneration—minimum entitlement [_see_ Table B]          316
 
-[162](#162).        Trustee’s remuneration—general [_see_ Table B]
+[162](#162).        Trustee’s remuneration—general [_see_ Table B]                               316
 
-[163](#163).        Remuneration of the Official Trustee
+[163](#163).        Remuneration of the Official Trustee                                               317
 
-[163A](#163A).     Costs and expenses of Official Receiver
+[163A](#163A).     Costs and expenses of Official Receiver                                          318
 
-[164](#164).        Two or more trustees acting in succession
+[164](#164).        Two or more trustees acting in succession                                       318
 
-[165](#165).        Trustee not to accept extra benefit etc 
+[165](#165).        Trustee not to accept extra benefit etc                                               318
 
-[166](#166).        Payment to third parties
+[166](#166).        Payment to third parties                                                                    319
 
-[167](#167).        Review of remuneration etc 
+[167](#167).        Review of remuneration etc                                                              319
 
     **Division 3—Accounts and audits**
 
-[168](#168).        Trustee not to pay moneys into private account
+[168](#168).        Trustee not to pay moneys into private account                                321
 
-[169](#169).        Trustee to pay moneys into bank account
+[169](#169).        Trustee to pay moneys into bank account                                         321
 
-[170](#170).        Trustee to give Official Receiver and bankrupt information etc  [_see_ Table B]
+[170](#170).        Trustee to give Official Receiver and bankrupt information etc  [_see_ Table B]         322
 
-[170A](#170A).     Annual return
+[170A](#170A).     Annual return                                                                                   322
 
-[171](#171).        Trustee to give and obtain receipts
+[171](#171).        Trustee to give and obtain receipts                                                   323
 
-[173](#173).        Books to be kept by trustee [_see_ Table B]
+[173](#173).        Books to be kept by trustee [_see_ Table B]                                        323
 
-[174](#174).        Trustee’s books when trading
+[174](#174).        Trustee’s books when trading                                                          323
 
-[175](#175).        Audit of trustee’s accounts
+[175](#175).        Audit of trustee’s accounts                                                               324
 
-[176](#176).        Court may order trustee to make good loss caused by breach of duty
+[176](#176).        Court may order trustee to make good loss caused by breach of duty 324
 
     **Division 4—Control over trustees**
 
-[177](#177).        Control of creditors over trustees
+[177](#177).        Control of creditors over trustees                                                     325
 
-[178](#178).        Appeal to Court against trustee’s decision etc 
+[178](#178).        Appeal to Court against trustee’s decision etc                                  325
 
-[179](#179).        Control of trustees by the Court
+[179](#179).        Control of trustees by the Court                                                       325
 
     **Division 5—Vacation of office**
 
-[180](#180).        Resignation of trustee [_see_ Table B]
+[180](#180).        Resignation of trustee [_see_ Table B]                                                 326
 
-[181](#181).        Removal of trustee [_see_ Table B]
+[181](#181).        Removal of trustee [_see_ Table B]                                                     326
 
-[181A](#181A).     Streamlined method for replacing trustee [_see_ Table B]
+[181A](#181A).     Streamlined method for replacing trustee [_see_ Table B]                   326
 
-[182](#182).        Bankruptcy of trustee etc 
+[182](#182).        Bankruptcy of trustee etc                                                                  327
 
-[183](#183).        Release of registered trustee by the Court
+[183](#183).        Release of registered trustee by the Court                                        327
 
-[184](#184).        Release of registered trustee by operation of law after 7 years
+[184](#184).        Release of registered trustee by operation of law after 7 years         328
 
-[184A](#184A).     Release of the Official Trustee
+[184A](#184A).     Release of the Official Trustee                                                         328
 
 **Part IX—Debt agreements** 
 
     **Division 1—Introduction**
 
-[185](#185).        Definitions
+[185](#185).        Definitions                                                                                       330
 
     **Division 2—Debt agreement proposals**
 
-[185C](#185C).     Giving a debt agreement proposal to the Official Receiver
+[185C](#185C).     Giving a debt agreement proposal to the Official Receiver               332
 
-[185D](#185D).     Statement of affairs to be given with a debt agreement proposal
+[185D](#185D).     Statement of affairs to be given with a debt agreement proposal      336
 
-[185E](#185E).      Accepting a debt agreement proposal for processing
+[185E](#185E).      Accepting a debt agreement proposal for processing                       336
 
-[185EA](#185EA).   Processing of debt agreement proposal
+[185EA](#185EA).   Processing of debt agreement proposal                                            338
 
-[185EB](#185EB).   Inspection of creditor’s statement
+[185EB](#185EB).   Inspection of creditor’s statement                                                     339
 
-[185EC](#185EC).   Acceptance of a debt agreement proposal
+[185EC](#185EC).   Acceptance of a debt agreement proposal                                         339
 
-[185ED](#185ED).   Cancellation of acceptance of debt agreement proposal for processing
+[185ED](#185ED).   Cancellation of acceptance of debt agreement proposal for processing 340
 
-[185F](#185F).      Effect of accepting a debt agreement proposal for processing
+[185F](#185F).      Effect of accepting a debt agreement proposal for processing          341
 
-[185G](#185G).     Lapsing of a debt agreement proposal
+[185G](#185G).     Lapsing of a debt agreement proposal                                              343
 
     **Division 3—Making a debt agreement**
 
-[185H](#185H).     Making a debt agreement
+[185H](#185H).     Making a debt agreement                                                                 344
 
-[185I](#185I).       Parties to a debt agreement
+[185I](#185I).       Parties to a debt agreement                                                               345
 
-[185K](#185K).     Prevention of proceedings relating to debts
+[185K](#185K).     Prevention of proceedings relating to debts                                      345
 
     **Division 3A—Duties of administrators**
 
-[185LA](#185LA).   Duties of an administrator—general
+[185LA](#185LA).   Duties of an administrator—general                                                 346
 
-[185LB](#185LB).   Administrator to notify creditors of a 3‑month arrears default by a debtor
+[185LB](#185LB).   Administrator to notify creditors of a 3‑month arrears default by a debtor               346
 
-[185LC](#185LC).   Administrator to notify Official Receiver of a designated 6‑month arrears default by a debtor
+[185LC](#185LC).   Administrator to notify Official Receiver of a designated 6‑month arrears default by a debtor                347
 
-[185LD](#185LD).   Administrator to maintain separate bank account
+[185LD](#185LD).   Administrator to maintain separate bank account                             347
 
-[185LE](#185LE).   Administrator to keep accounts etc 
+[185LE](#185LE).   Administrator to keep accounts etc                                                   348
 
-185LEA Annual return
+[185LEA Annual return](#185LEA Annual return).                                                                                  349
 
-[185LF](#185LF).   Succession of administrator
+[185LF](#185LF).   Succession of administrator                                                             349
 
-[185LG](#185LG).   Duties of an administrator in relation to debt agreements—extended meaning
+[185LG](#185LG).   Duties of an administrator in relation to debt agreements—extended meaning         350
 
     **Division 4—Varying a debt agreement**
 
-[185M](#185M).    Varying a debt agreement
+[185M](#185M).    Varying a debt agreement                                                                 351
 
-[185MA](#185MA). Procedures for dealing with proposals to vary debt agreements
+[185MA](#185MA). Procedures for dealing with proposals to vary debt agreements       351
 
-[185MB](#185MB).  Inspection of creditor’s statement
+[185MB](#185MB).  Inspection of creditor’s statement                                                     352
 
-[185MC](#185MC).  Acceptance of a proposal to vary a debt agreement
+[185MC](#185MC).  Acceptance of a proposal to vary a debt agreement                          352
 
-[185MD](#185MD). Withdrawal of proposal to vary a debt agreement
+[185MD](#185MD). Withdrawal of proposal to vary a debt agreement                            353
 
     **Division 5—Ending a debt agreement**
 
-[185N](#185N).     End of debt agreement on discharge of obligations under agreement
+[185N](#185N).     End of debt agreement on discharge of obligations under agreement 355
 
-[185NA](#185NA).  Release of debtor from debts
+[185NA](#185NA).  Release of debtor from debts                                                            356
 
-[185P](#185P).      Terminating a debt agreement by accepting a proposal
+[185P](#185P).      Terminating a debt agreement by accepting a proposal                     356
 
-[185PA](#185PA).   Procedures for dealing with proposals to terminate debt agreements
+[185PA](#185PA).   Procedures for dealing with proposals to terminate debt agreements 357
 
-[185PB](#185PB).   Inspection of creditor’s statement
+[185PB](#185PB).   Inspection of creditor’s statement                                                     357
 
-[185PC](#185PC).   Acceptance of a proposal to terminate a debt agreement
+[185PC](#185PC).   Acceptance of a proposal to terminate a debt agreement                   358
 
-[185PD](#185PD).   Withdrawal of proposal to terminate a debt agreement
+[185PD](#185PD).   Withdrawal of proposal to terminate a debt agreement                     359
 
-[185Q](#185Q).     Terminating a debt agreement by order of the Court
+[185Q](#185Q).     Terminating a debt agreement by order of the Court                        360
 
-[185QA](#185QA).  Terminating a debt agreement—designated 6‑month arrears default
+[185QA](#185QA).  Terminating a debt agreement—designated 6‑month arrears default 361
 
-[185R](#185R).     Terminating a debt agreement by the bankruptcy of the debtor
+[185R](#185R).     Terminating a debt agreement by the bankruptcy of the debtor        361
 
-[185S](#185S).      Validity of things done under a debt agreement that was terminated
+[185S](#185S).      Validity of things done under a debt agreement that was terminated 361
 
     **Division 6—Voiding a debt agreement**
 
-[185T](#185T).      Applying for an order declaring a debt agreement void
+[185T](#185T).      Applying for an order declaring a debt agreement void                    362
 
-[185U](#185U).     Making an order declaring a debt agreement void
+[185U](#185U).     Making an order declaring a debt agreement void                            363
 
-[185V](#185V).     Validity of things done under a debt agreement that was declared void
+[185V](#185V).     Validity of things done under a debt agreement that was declared void 364
 
     **Division 7—General provisions relating to debt agreements**
 
-[185W](#185W).    Court directions to the Official Receiver
+[185W](#185W).    Court directions to the Official Receiver                                          365
 
-[185X](#185X).     No stamp duty payable on a debt agreement
+[185X](#185X).     No stamp duty payable on a debt agreement                                    365
 
-[185XA](#185XA).  Secured creditors
+[185XA](#185XA).  Secured creditors                                                                              365
 
-[185Y](#185Y).     Money received by administrator to be held on trust
+[185Y](#185Y).     Money received by administrator to be held on trust                        365
 
-[185Z](#185Z).      Remuneration of administrator
+[185Z](#185Z).      Remuneration of administrator                                                         365
 
-[185ZA](#185ZA).   Notification of death of administrator
+[185ZA](#185ZA).   Notification of death of administrator                                               366
 
-[185ZB](#185ZB).   Official Trustee to replace an administrator who dies etc 
+[185ZB](#185ZB).   Official Trustee to replace an administrator who dies etc                 366
 
-[185ZC](#185ZC).   Official Receiver may appoint a new administrator
+[185ZC](#185ZC).   Official Receiver may appoint a new administrator                          367
 
-185ZCA Court may order administrator to make good loss caused by breach of duty
+185ZCA Court may order administrator to make good loss caused by breach of duty            368
 
-185ZCB Control of administrators by the Court
+[185ZCB Control of administrators by the Court](#185ZCB Control of administrators by the Court).                                            368
 
-[185ZD](#185ZD).   Remuneration of administrator
+[185ZD](#185ZD).   Remuneration of administrator                                                         368
 
     **Division 8—Registration of debt agreement administrators etc.** 
 
         **Subdivision A—Introduction**
 
-[186A](#186A).     Basic eligibility test
+[186A](#186A).     Basic eligibility test                                                                          369
 
         **Subdivision B—Registration of debt agreement administrators**
 
-[186B](#186B).     Application for registration as a debt agreement administrator
+[186B](#186B).     Application for registration as a debt agreement administrator         371
 
-[186C](#186C).     Inspector‑General must approve or refuse to approve registration application
+[186C](#186C).     Inspector‑General must approve or refuse to approve registration application         371
 
-[186D](#186D).     Registration as a debt agreement administrator
+[186D](#186D).     Registration as a debt agreement administrator                                 373
 
-[186E](#186E).      Duration of registration as a debt agreement administrator
+[186E](#186E).      Duration of registration as a debt agreement administrator               374
 
-[186F](#186F).      Conditions of registration—general
+[186F](#186F).      Conditions of registration—general                                                 374
 
-[186G](#186G).     Condition of registration—companies
+[186G](#186G).     Condition of registration—companies                                              374
 
-[186H](#186H).     Application to change or remove registration conditions
+[186H](#186H).     Application to change or remove registration conditions                  375
 
         **Subdivision C—Surrender and cancellation of registration as a debt agreement administrator**
 
-[186J](#186J).      Surrender of registration as a debt agreement administrator
+[186J](#186J).      Surrender of registration as a debt agreement administrator             376
 
-[186K](#186K).     Cancellation of an individual’s registration as a debt agreement administrator
+[186K](#186K).     Cancellation of an individual’s registration as a debt agreement administrator         376
 
-[186L](#186L).      Cancellation of a company’s registration as a debt agreement administrator
+[186L](#186L).      Cancellation of a company’s registration as a debt agreement administrator             378
 
-[186LA](#186LA).   Inspector‑General may obtain information about debt agreement administration trust accounts
+[186LA](#186LA).   Inspector‑General may obtain information about debt agreement administration trust accounts               379
 
-[186LB](#186LB).   Account‑freezing notices—debt agreement administration trust accounts
+[186LB](#186LB).   Account‑freezing notices—debt agreement administration trust accounts                380
 
-[186LC](#186LC).   Power of court to set aside account‑freezing notices
+[186LC](#186LC).   Power of court to set aside account‑freezing notices                        382
 
-[186LD](#186LD).   Judicial enforcement of account‑freezing notices
+[186LD](#186LD).   Judicial enforcement of account‑freezing notices                             383
 
-[186LE](#186LE).   Protection of bank
+[186LE](#186LE).   Protection of bank                                                                            383
 
         **Subdivision D—Ineligibility of a person to act as a debt agreement administrator**
 
-[186M](#186M).    Inspector‑General may declare a person ineligible to act as an administrator
+[186M](#186M).    Inspector‑General may declare a person ineligible to act as an administrator            383
 
         **Subdivision E—Miscellaneous**
 
-[186N](#186N).     Return of certificate of registration
+[186N](#186N).     Return of certificate of registration                                                   384
 
-[186P](#186P).      Cessation of registration as a debt agreement administrator—no refund of fees
+[186P](#186P).      Cessation of registration as a debt agreement administrator—no refund of fees       386
 
-[186Q](#186Q).     Guidelines relating to Inspector‑General’s powers
+[186Q](#186Q).     Guidelines relating to Inspector‑General’s powers                          387
 
 **Part X—Personal insolvency agreements** 
 
     **Division 1—Interpretation**
 
-[187](#187).        Interpretation
+[187](#187).        Interpretation                                                                                    388
 
-[187A](#187A).     Application of Part to joint debtors [_see_ Table B]
+[187A](#187A).     Application of Part to joint debtors [_see_ Table B]                            388
 
     **Division 2—Meeting of creditors and control of debtor’s property**
 
-[188](#188).        Debtor may authorise trustee or solicitor to be controlling trustee [_see_ Table B]
+[188](#188).        Debtor may authorise trustee or solicitor to be controlling trustee [_see_ Table B]      389
 
-[188A](#188A).     Personal insolvency agreement [_see_ Table B]
+[188A](#188A).     Personal insolvency agreement [_see_ Table B]                                  391
 
-[188B](#188B).     Inspection of statement of debtor’s affairs
+[188B](#188B).     Inspection of statement of debtor’s affairs                                       393
 
-[189](#189).        Control of property of a debtor who has given authority under section 188
+[189](#189).        Control of property of a debtor who has given authority under section 188             393
 
-189AAAStay of proceedings relating to creditor’s petition until meeting 
- of debtor’s creditors
+[189AAAStay of proceedings relating to creditor’s petition until meeting  of debtor’s creditors](#189AAAStay of proceedings relating to creditor’s petition until meeting  of debtor’s creditors).                                                                        394
 
-[189AA](#189AA).  Court orders with effect during period of control of debtor’s property
+[189AA](#189AA).  Court orders with effect during period of control of debtor’s property 395
 
-[189AB](#189AB).  Charge over debtor’s property that is subject to contro [_see_ 
- Table B]
+[189AB](#189AB).  Charge over debtor’s property that is subject to control
+ [_see_ Table B]                                                                                    396
 
-[189AC](#189AC).  Right of indemnity for controlling trustee
+[189AC](#189AC).  Right of indemnity for controlling trustee                                        397
 
-[189A](#189A).     Report and declaration by controlling trustee
+[189A](#189A).     Report and declaration by controlling trustee                                   398
 
-[189B](#189B).     Controlling trustee to prepare statement about possible resolutions
+[189B](#189B).     Controlling trustee to prepare statement about possible resolutions 399
 
-[190](#190).        Duties and powers of controlling trustee
+[190](#190).        Duties and powers of controlling trustee                                          399
 
-[190A](#190A).     Additional duties of controlling trustee
+[190A](#190A).     Additional duties of controlling trustee                                            400
 
-[191](#191).        Payments to protect property etc 
+[191](#191).        Payments to protect property etc                                                      401
 
-[192](#192).        Changing the controlling trustee
+[192](#192).        Changing the controlling trustee                                                       401
 
-[194](#194).        Time for calling meeting
+[194](#194).        Time for calling meeting                                                                   402
 
-[194A](#194A).     Statement of affairs and declarations of relationships to be tabled at meeting
+[194A](#194A).     Statement of affairs and declarations of relationships to be tabled at meeting           402
 
-[195](#195).        Debtor to attend meeting
+[195](#195).        Debtor to attend meeting                                                                  403
 
-[196](#196).        Procedure for calling and holding meeting
+[196](#196).        Procedure for calling and holding meeting                                       404
 
-[204](#204).        Resolution for personal insolvency agreement
+[204](#204).        Resolution for personal insolvency agreement                                 404
 
-[205](#205).        Duties of sheriff after receiving notice of signing of authority under section 188 etc 
+[205](#205).        Duties of sheriff after receiving notice of signing of authority under section 188 etc               405
 
-[205A](#205A).     Duties of sheriff after receiving notice of execution of personal insolvency agreement etc 
+[205A](#205A).     Duties of sheriff after receiving notice of execution of personal insolvency agreement etc      408
 
-[206](#206).        Court may adjourn hearing of petition where creditors have passed resolution for personal insolvency agreement
+[206](#206).        Court may adjourn hearing of petition where creditors have passed resolution for personal insolvency agreement 412
 
-[207](#207).        Surrender of security etc  where secured creditor has voted
+[207](#207).        Surrender of security etc  where secured creditor has voted             413
 
-[208](#208).        Termination of control of debtor’s property by the Court
+[208](#208).        Termination of control of debtor’s property by the Court                414
 
-[209](#209).        Acts of controlling trustee to bind trustee of subsequent personal insolvency agreement or bankruptcy
+[209](#209).        Acts of controlling trustee to bind trustee of subsequent personal insolvency agreement or bankruptcy  414
 
-[210](#210).        Other provisions about controlling trustee
+[210](#210).        Other provisions about controlling trustee                                       415
 
-[211](#211).        Other provisions about debtor
+[211](#211).        Other provisions about debtor                                                          415
 
     **Division 3—General provisions**
 
-[215](#215).        Eligibility to be trustee of personal insolvency agreement
+[215](#215).        Eligibility to be trustee of personal insolvency agreement                416
 
-[215A](#215A).     Nomination or appointment of trustee of personal insolvency agreement
+[215A](#215A).     Nomination or appointment of trustee of personal insolvency agreement 416
 
-[216](#216).        Execution of personal insolvency agreements
+[216](#216).        Execution of personal insolvency agreements                                  417
 
-[217](#217).        Failure of trustee to execute personal insolvency agreement
+[217](#217).        Failure of trustee to execute personal insolvency agreement            417
 
-[218](#218).        Notice of execution of personal insolvency agreement
+[218](#218).        Notice of execution of personal insolvency agreement                     418
 
-[219](#219).        Trustee may sue, be sued etc  by official name
+[219](#219).        Trustee may sue, be sued etc  by official name                                 419
 
-[220](#220).        Filling of vacancy in office of trustee after execution of personal insolvency agreement etc 
+[220](#220).        Filling of vacancy in office of trustee after execution of personal insolvency agreement etc    419
 
-[221](#221).        Sequestration order where debtor fails to attend meeting, execute personal insolvency agreement etc 
+[221](#221).        Sequestration order where debtor fails to attend meeting, execute personal insolvency agreement etc     420
 
-[221A](#221A).     Variation of personal insolvency agreement
+[221A](#221A).     Variation of personal insolvency agreement                                     421
 
-[222](#222).        Court may set aside personal insolvency agreement
+[222](#222).        Court may set aside personal insolvency agreement                         422
 
-[222A](#222A).     Termination of personal insolvency agreement by trustee
+[222A](#222A).     Termination of personal insolvency agreement by trustee                425
 
-[222B](#222B).     Termination of personal insolvency agreement by creditors
+[222B](#222B).     Termination of personal insolvency agreement by creditors             426
 
-[222C](#222C).     Court may terminate personal insolvency agreement
+[222C](#222C).     Court may terminate personal insolvency agreement                        427
 
-[222D](#222D).     Termination of personal insolvency agreement by occurrence of terminating event
+[222D](#222D).     Termination of personal insolvency agreement by occurrence of terminating event 428
 
-[223](#223).        Calling of meetings after the first meeting
+[223](#223).        Calling of meetings after the first meeting                                        428
 
-[223A](#223A).     Rules in relation to meetings
+[223A](#223A).     Rules in relation to meetings                                                            429
 
-[224](#224).        Validity of acts if personal insolvency agreement set aside or terminated
+[224](#224).        Validity of acts if personal insolvency agreement set aside or terminated 429
 
-[224A](#224A).     Notice that a personal insolvency agreement has been set aside, varied or terminated
+[224A](#224A).     Notice that a personal insolvency agreement has been set aside, varied or terminated              430
 
-[225](#225).        Evidence of personal insolvency agreement, resolution etc 
+[225](#225).        Evidence of personal insolvency agreement, resolution etc              431
 
-[226](#226).        Creditor may inspect personal insolvency agreement etc 
+[226](#226).        Creditor may inspect personal insolvency agreement etc                  432
 
-[227](#227).        Stamp duty not payable on personal insolvency agreements etc  entered into under this Part
+[227](#227).        Stamp duty not payable on personal insolvency agreements etc  entered into under this Part   432
 
-[229](#229).        Personal insolvency agreement to bind all creditors
+[229](#229).        Personal insolvency agreement to bind all creditors                         432
 
-[230](#230).        Release of provable debts
+[230](#230).        Release of provable debts                                                                 433
 
-[231](#231).        Application of general provisions of Act to personal insolvency agreements
+[231](#231).        Application of general provisions of Act to personal insolvency agreements           434
 
-[231A](#231A).     Right of debtor to remaining property
+[231A](#231A).     Right of debtor to remaining property                                              436
 
-[232](#232).        Certificate relating to discharge of obligations
+[232](#232).        Certificate relating to discharge of obligations                                  436
 
 **Part XI—Administration of estates of deceased persons in bankruptcy**
 
-[244](#244).        Administration of estates under this Part upon petition by creditor
+[244](#244).        Administration of estates under this Part upon petition by creditor  437
 
-[245](#245).        Debtor dying after presentation of creditor’s petition
+[245](#245).        Debtor dying after presentation of creditor’s petition                       439
 
-[246](#246).        Statement of deceased debtor’s affairs etc  by legal personal representative
+[246](#246).        Statement of deceased debtor’s affairs etc  by legal personal representative             440
 
-[247](#247).        Petition for administration under this Part by person administering deceased person’s estate
+[247](#247).        Petition for administration under this Part by person administering deceased person’s estate  441
 
-[247A](#247A).     Commencement of administration under Part
+[247A](#247A).     Commencement of administration under Part                                   442
 
-[248](#248).        Application of Act in relation to administrations under this Part
+[248](#248).        Application of Act in relation to administrations under this Part      442
 
-[248A](#248A).     Consolidation of proceedings
+[248A](#248A).     Consolidation of proceedings                                                           444
 
-[249](#249).        Vesting of property on making of order
+[249](#249).        Vesting of property on making of order                                           445
 
-[249A](#249A).     Charge over property owned in joint tenancy
+[249A](#249A).     Charge over property owned in joint tenancy                                   452
 
-[250](#250).        Effect of order under Part where deceased person was bankrupt
+[250](#250).        Effect of order under Part where deceased person was bankrupt     453
 
-[251](#251).        Real property devised by will that vests directly in devisee to form part of estate in certain cases
+[251](#251).        Real property devised by will that vests directly in devisee to form part of estate in certain cases            456
 
-[252](#252).        Liability of legal personal representative
+[252](#252).        Liability of legal personal representative                                          456
 
-[252A](#252A).     Annulment on payment of debts
+[252A](#252A).     Annulment on payment of debts                                                      457
 
-[252B](#252B).     Annulment by Court
+[252B](#252B).     Annulment by Court                                                                        458
 
-[252C](#252C).     Effect of annulment
+[252C](#252C).     Effect of annulment                                                                          458
 
 **Part XIA—Farmers’ debts assistance**
 
-[253A](#253A).     Interpretation
+[253A](#253A).     Interpretation                                                                                    460
 
-[253B](#253B).     Law of State or Territory may be proclaimed
+[253B](#253B).     Law of State or Territory may be proclaimed                                   460
 
-[253C](#253C).     Notice about stay under proclaimed law
+[253C](#253C).     Notice about stay under proclaimed law                                           461
 
-[253E](#253E).      Relevant authority may apply for stay of proceedings under certain petitions
+[253E](#253E).      Relevant authority may apply for stay of proceedings under certain petitions          461
 
-[253F](#253F).      Relevant authority may be heard on application relating to debtor’s petition
+[253F](#253F).      Relevant authority may be heard on application relating to debtor’s petition            461
 
 **Part XII—Unclaimed dividends or moneys**
 
-[254](#254).        Payment of unclaimed moneys to the Commonwealth
+[254](#254).        Payment of unclaimed moneys to the Commonwealth                     463
 
 **Part XIII—Evidence**
 
-[255](#255).        Record of proceedings or evidence
+[255](#255).        Record of proceedings or evidence                                                  465
 
-[256](#256).        Evidence of matters stated in notices published in _Gazette_
+[256](#256).        Evidence of matters stated in notices published in _Gazette_               465
 
-[257](#257).        Evidence of proceedings at meetings of creditors or committee of inspection
+[257](#257).        Evidence of proceedings at meetings of creditors or committee of inspection          465
 
-[258](#258).        Presumption about due convening of meetings etc 
+[258](#258).        Presumption about due convening of meetings etc                           465
 
-[262](#262).        Swearing of affidavits
+[262](#262).        Swearing of affidavits                                                                      466
 
 **Part XIV—Offences**
 
-[263](#263).        Concealment etc  of property etc 
+[263](#263).        Concealment etc  of property etc                                                      467
 
-[263A](#263A).     False affidavits
+[263A](#263A).     False affidavits                                                                                 468
 
-[263C](#263C).     False claims about a creditor’s entitlement to vote
+[263C](#263C).     False claims about a creditor’s entitlement to vote                            469
 
-[264A](#264A).     Failure of person to attend before the Court etc 
+[264A](#264A).     Failure of person to attend before the Court etc                                469
 
-[264B](#264B).     Arrest of person failing to attend before the Court etc 
+[264B](#264B).     Arrest of person failing to attend before the Court etc                      470
 
-[264C](#264C).     Refusal to be sworn or give evidence etc 
+[264C](#264C).     Refusal to be sworn or give evidence etc                                         471
 
-[264D](#264D).     Prevarication or evasion in the course of examination
+[264D](#264D).     Prevarication or evasion in the course of examination                      472
 
-[264E](#264E).      Offences in relation to Registrar or magistrate conducting an examination
+[264E](#264E).      Offences in relation to Registrar or magistrate conducting an examination               472
 
-[265](#265).        Failure of bankrupt or debtor to disclose property etc 
+[265](#265).        Failure of bankrupt or debtor to disclose property etc                      473
 
-[265A](#265A).     Offences relating to exercise of powers under section 77A or 130
+[265A](#265A).     Offences relating to exercise of powers under section 77A or 130  476
 
-[266](#266).        Disposing or charging of property by person who becomes, or has become, a bankrupt
+[266](#266).        Disposing or charging of property by person who becomes, or has become, a bankrupt         477
 
-[267](#267).        False declaration by debtor or bankrupt
+[267](#267).        False declaration by debtor or bankrupt                                           477
 
-[267B](#267B).     Failure of person to provide information
+[267B](#267B).     Failure of person to provide information                                          478
 
-[267D](#267D).     Failure of person to attend
+[267D](#267D).     Failure of person to attend                                                                478
 
-[267E](#267E).      Arrest of person failing to attend before Official Receiver or authorised officer
+[267E](#267E).      Arrest of person failing to attend before Official Receiver or authorised officer      478
 
-[267F](#267F).      Refusal to be sworn or give evidence etc 
+[267F](#267F).      Refusal to be sworn or give evidence etc                                         479
 
-[267G](#267G).     Prevarication or evasion in the course of giving evidence
+[267G](#267G).     Prevarication or evasion in the course of giving evidence                480
 
-[268](#268).        Offences in relation to personal insolvency agreements
+[268](#268).        Offences in relation to personal insolvency agreements                   480
 
-[269](#269).        Bankrupt or debtor who is a party to a debt agreement obtaining credit etc  without disclosing bankruptcy or debt agreement
+[269](#269).        Bankrupt or debtor who is a party to a debt agreement obtaining credit etc  without disclosing bankruptcy or debt agreement                                                                                         483
 
-[270](#270).        Failure to keep proper books of account
+[270](#270).        Failure to keep proper books of account                                          484
 
-[271](#271).        Gambling or hazardous speculations
+[271](#271).        Gambling or hazardous speculations                                                485
 
-[272](#272).        Leaving Australia with intent to defeat creditors etc 
+[272](#272).        Leaving Australia with intent to defeat creditors etc                         485
 
-[273](#273).        Trial of offences
+[273](#273).        Trial of offences                                                                               486
 
-[275](#275).        Criminal liability not affected by discharge etc 
+[275](#275).        Criminal liability not affected by discharge etc                                 487
 
-[276](#276).        Trustee acting under a personal insolvency agreement that has been set aside
+[276](#276).        Trustee acting under a personal insolvency agreement that has been set aside          487
 
-[277](#277).        Punishment of contempt of court
+[277](#277).        Punishment of contempt of court                                                     487
 
-[277A](#277A).     Keeping of books in respect of period of bankruptcy
+[277A](#277A).     Keeping of books in respect of period of bankruptcy                       487
 
-[277B](#277B).     Infringement notices for offences
+[277B](#277B).     Infringement notices for offences                                                     488
 
 **Part XV—Provisions relating to the Bankruptcy (Estate Charges) Act 1997**
 
-[278](#278).        Interpretation
+[278](#278).        Interpretation                                                                                    490
 
-[279](#279).        Administration of, and powers and functions in relation to, the Charges Acts
+[279](#279).        Administration of, and powers and functions in relation to, the Charges Acts         490
 
-[280](#280).        Deferred payment of interest charge or realisations charge
+[280](#280).        Deferred payment of interest charge or realisations charge              490
 
-[281](#281).        Late payment penalty—interest charge and realisations charge
+[281](#281).        Late payment penalty—interest charge and realisations charge        492
 
-[282](#282).        Extension of time for payment—interest charge and realisations charge
+[282](#282).        Extension of time for payment—interest charge and realisations charge  492
 
-[283](#283).        Remission of interest charge, realisations charge and late payment penalty
+[283](#283).        Remission of interest charge, realisations charge and late payment penalty              492
 
-[284](#284).        Recovery of interest charge, realisations charge and late payment penalty
+[284](#284).        Recovery of interest charge, realisations charge and late payment penalty                493
 
-[285](#285).        Payments by cheque or payment order
+[285](#285).        Payments by cheque or payment order                                             493
 
-[286](#286).        Regulations may deal with other matters
+[286](#286).        Regulations may deal with other matters                                          494
 
 **Part XVI—Miscellaneous**
 
-[301](#301).        Certain provisions in contracts etc  to be void
+[301](#301).        Certain provisions in contracts etc  to be void                                  495
 
-[302](#302).        Certain provisions in bills of sale etc  to be void
+[302](#302).        Certain provisions in bills of sale etc  to be void                              495
 
-[302A](#302A).     Certain provisions in governing rules of superannuation funds and approved deposit funds to be void
+[302A](#302A).     Certain provisions in governing rules of superannuation funds and approved deposit funds to be void  496
 
-[302AB](#302AB).  Certain provisions in RSA’s terms and conditions to be void
+[302AB](#302AB).  Certain provisions in RSA’s terms and conditions to be void          497
 
-[302B](#302B).     Certain provisions in trust deeds void
+[302B](#302B).     Certain provisions in trust deeds void                                              497
 
-[303](#303).        Applications to Court
+[303](#303).        Applications to Court                                                                       498
 
-[304](#304).        Parts of dollar to be disregarded in determining majority in value of creditors etc 
+[304](#304).        Parts of dollar to be disregarded in determining majority in value of creditors etc    498
 
-[304A](#304A).     Indexation
+[304A](#304A).     Indexation                                                                                        498
 
-[305](#305).        Payment of expenses by Commonwealth
+[305](#305).        Payment of expenses by Commonwealth                                         500
 
-[306](#306).        Formal defect not to invalidate proceedings
+[306](#306).        Formal defect not to invalidate proceedings                                     502
 
-[306A](#306A).     Protection of Registrars, magistrates etc  in relation to examinations
+[306A](#306A).     Protection of Registrars, magistrates etc  in relation to examinations 502
 
-[306B](#306B).     Protection in respect of reports
+[306B](#306B).     Protection in respect of reports                                                         502
 
-[307](#307).        Proceedings in firm name
+[307](#307).        Proceedings in firm name                                                                 503
 
-[308](#308).        Representation of corporation etc 
+[308](#308).        Representation of corporation etc                                                     503
 
-[309](#309).        Service of notices etc 
+[309](#309).        Service of notices etc                                                                        503
 
-[311](#311).        Stamp duty not payable on trustee’s cheques or receipts
+[311](#311).        Stamp duty not payable on trustee’s cheques or receipts                  503
 
-[312](#312).        Return or destruction of old accounts and records
+[312](#312).        Return or destruction of old accounts and records                           504
 
-[313](#313).        Audit of accounts and records of the Official Trustee and the Official Receivers
+[313](#313).        Audit of accounts and records of the Official Trustee and the Official Receivers     505
 
-[315](#315).        Regulations
+[315](#315).        Regulations                                                                                      506
 
-[316](#316).        Legislative instruments determining fees
+[316](#316).        Legislative instruments determining fees                                          507
 
 **Schedule 1—Acts repealed** 
 
@@ -1483,10 +1482,6 @@ as if those Acts had not been repealed.
                      (b)  someone who is a child of the person within the meaning of the _Family Law Act 1975_.
 
                     <a name="close-rel"></a>**_close relative_**, in relation to a person, means a spouse, de facto partner, parent, child, brother, sister, half‑brother, or half‑sister, of the person.
-
-                    <a name="commonwealth-proce-crime-author"></a>**_Commonwealth proceeds of crime authority_** means a proceeds of crime authority within the meaning of the _Proceeds of Crime Act 2002_.
-
-Note:          Under that Act, the proceeds of crime authority is either the Commissioner of the Australian Federal Police or the Director of Public Prosecutions (see the definition of **_proceeds of crime authority_** in section 338 of that Act). Responsibility can be transferred between these authorities (see section 315B of that Act).
 
                     <a name="compani"></a>**_company_** means a corporation, other than a corporation that is incorporated within Australia or an external Territory and is:
 
@@ -2378,7 +2373,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
           (1C)  Without limiting the generality of paragraphs (1)(a) and (b), the Inspector‑General may make inquiries and investigations under those paragraphs at the request of:
 
-                     (a)  if the Inspector‑General is satisfied that the request relates to an application, or proposed application, for a confiscation order—the Commonwealth proceeds of crime authority that is the responsible authority, or that is proposed to be the responsible authority, for the application or proposed application under the _Proceeds of Crime Act 2002_; or
+                     (a)  if the Inspector‑General is satisfied that the request relates to an application, or proposed application, for a confiscation order—the Director of Public Prosecutions; or
 
                      (b)  if the Inspector‑General is satisfied that the request relates to an application, or proposed application, for an interstate confiscation order—a person who is entitled, under a corresponding law, to apply for an order of that kind.
 
@@ -2998,7 +2993,7 @@ and may:
 
              (2)  Subsection (1) has effect except to the extent that this Act expressly provides otherwise.
 
-##### <a id="35"></a>35  Family Court’s jurisdiction in bankruptcy where trustee is a party to property settlement or spousal maintenance proceedings etc.
+##### <a id="35"></a>35  Family Court’s jurisdiction in bankruptcy where trustee is a party to property settlement or spousal maintenance proceedings etc.
 
              (1)  If, at a particular time:
 
@@ -4073,7 +4068,7 @@ Note:          For proceeds of crime orders made on or after t
 
 Notifying the trustee of grounds for subsection 58(1) to apply to property
 
-             (3)  If circumstances arise as a result of which this section no longer prevents subsection 58(1) applying to property of the bankrupt, the Director of Public Prosecutions (or the Commissioner of the Australian Federal Police, if the Commissioner is the Commonwealth proceeds of crime authority that is the responsible authority for the order under the _Proceeds of Crime Act 2002_) must, as soon as practicable, give the trustee written notice of the existence of the circumstances.
+             (3)  If circumstances arise as a result of which this section no longer prevents subsection 58(1) applying to property of the bankrupt, the Director of Public Prosecutions must, as soon as practicable, give the trustee written notice of the existence of the circumstances.
 
 ##### <a id="59"></a>59  Second or subsequent bankruptcy
 
@@ -5434,7 +5429,7 @@ and, if the Official Receiver does so, a reference in this Division to the offsh
 
 ### Division 3—Failure to comply with certain notices
 
-##### <a id="81G"></a>81G  Effect of non‑compliance with notice
+##### <a id="81G"></a>81G  Effect of non‑compliance with notice
 
              (1)  In this section:
 
@@ -5891,7 +5886,7 @@ proceeds of any of the property of the bankrupt that would be covered by the ord
 
 proceeds of any of the property of the bankrupt must not be applied under Subdivision A before the application is finally determined.
 
-##### <a id="114C"></a>114C  Director of Public Prosecutions or Commissioner of the Australian Federal Police must notify the trustee of certain matters
+##### <a id="114C"></a>114C  Director of Public Prosecutions must notify the trustee of certain matters
 
                    If circumstances arise as a result of which:
 
@@ -5899,7 +5894,7 @@ proceeds of any of the property of the bankrupt must not be applied under Subdiv
 
                      (b)  this Subdivision no longer prevents Subdivision A from being applied to the proceeds of property of a bankrupt;
 
-the Director of Public Prosecutions (or the Commissioner of the Australian Federal Police, if the Commissioner is the Commonwealth proceeds of crime authority that is the responsible authority for the order under the _Proceeds of Crime Act 2002_) must, as soon as practicable, give the trustee written notice of the existence of the circumstances.
+the Director of Public Prosecutions must, as soon as practicable, give the trustee written notice of the existence of the circumstances.
 
 ### Division 3—Property available for payment of debts
 
@@ -8070,7 +8065,7 @@ Note:          Subdivision HA deals with the supervised accoun
 
                    The contribution that a bankrupt is liable to pay in respect of a contribution assessment period is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00042/Html/78fb0ca5-6cf9-4af3-87a1-5c62c7ee4e6d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00010/Html/cdc43070-88c3-4e51-ade2-7634f68d45a2_files/image002.gif)
 
                     where:
 
@@ -8200,7 +8195,7 @@ the trustee is to make a fresh assessment of the income that is likely to be der
 
              (4)  As soon as practicable after the making of an assessment the trustee must give to the bankrupt written notice setting out particulars of the assessment and informing the bankrupt about the possibility of a variation under section 139T.
 
-##### <a id="139WA"></a>139WA  No time limit on making assessment
+##### <a id="139WA"></a>139WA  No time limit on making assessment
 
              (1)  An assessment under section 139W (including a fresh assessment referred to in subsection 139W(2)) for a contribution assessment period may be made at any time, including:
 
@@ -8904,7 +8899,7 @@ Offence
 
                     Penalty for contravention of this subsection:                    Imprisonment for 12 months.
 
-##### <a id="139ZIIA"></a>139ZIIA  Keeping of books
+##### <a id="139ZIIA"></a>139ZIIA  Keeping of books
 
                    If:
 
@@ -9850,7 +9845,7 @@ the property, even though it vests in equity in the person named in the order, d
 
              (6)  The Court may make an order directing the trustee not to pay or transfer the property, or a specified part of the property, referred to in paragraph (1)(c) to the former bankrupt if:
 
-                     (a)  an application is made for an order under this subsection by a person mentioned in subsection (6A); and
+                     (a)  the Director of Public Prosecutions, or a person who is entitled to apply for an interstate confiscation order under a corresponding law, applies to the Court for an order under this subsection; and
 
                      (b)  the Court is satisfied that:
 
@@ -9861,12 +9856,6 @@ the property, even though it vests in equity in the person named in the order, d
                                         (A)  become subject to a forfeiture order or interstate forfeiture order made in the proceedings; or
 
                                         (B)  be required to satisfy a pecuniary penalty order or interstate pecuniary penalty order made in the proceedings.
-
-          (6A)  For the purposes of paragraph (6)(a), the application may be made by:
-
-                     (a)  in the case of pending proceedings in relation to a forfeiture order or a pecuniary penalty order under the _Proceeds of Crime Act 2002_—the Commonwealth proceeds of crime authority that is, or that is proposed to be, the responsible authority for the application for the order under that Act; or
-
-                     (b)  in the case of pending proceedings under a corresponding law—a person who is entitled to apply for an interstate confiscation order under the corresponding law.
 
              (7)  The Court, on application made to it, may vary or revoke an order made under subsection (6).
 
@@ -11675,7 +11664,7 @@ Effect of applying for a sequestration order
 
              (5)  For the purposes of this Act, making an application for a sequestration order under subsection (4) is taken to be presenting a creditor’s petition against the debtor, but subsection 43(1), sections 44 and 47, subsections 52(1) and (2) and Part XIA do not apply in relation to the application.
 
-##### <a id="185U"></a>185U  Making an order declaring a debt agreement void
+##### <a id="185U"></a>185U  Making an order declaring a debt agreement void
 
 Power to make order
 
@@ -12221,7 +12210,7 @@ Offence
 
                     Penalty for contravention of this subsection:        60 penalty units.
 
-##### <a id="186LB"></a>186LB  Account‑freezing notices—debt agreement administration trust accounts
+##### <a id="186LB"></a>186LB  Account‑freezing notices—debt agreement administration trust accounts
 
 Scope
 
@@ -12780,7 +12769,7 @@ Meaning of debtor’s property
 
                     <a name="debtor-properti"></a>**_debtor’s property_** has the meaning given in subsection 190(5).
 
-##### <a id="189AC"></a>189AC  Right of indemnity for controlling trustee
+##### <a id="189AC"></a>189AC  Right of indemnity for controlling trustee
 
              (1)  The controlling trustee is entitled to be indemnified out of the debtor’s property for:
 
@@ -13848,7 +13837,7 @@ and, for the purposes of enabling the secured creditor, or a person claiming thr
 
              (2)  The Court may make an order directing the trustee not to pay or transfer the property, or a specified part of the property, referred to in subsection (1), to the debtor if:
 
-                     (a)  an application is made for an order under this subsection by a person mentioned in subsection (2A); and
+                     (a)  the Director of Public Prosecutions, or a person who is entitled to apply for an interstate confiscation order under a corresponding law, applies to the Court for an order under this subsection; and
 
                      (b)  the Court is satisfied that proceedings are pending under a proceeds of crime law; and
 
@@ -13857,12 +13846,6 @@ and, for the purposes of enabling the secured creditor, or a person claiming thr
                               (i)  become subject to a forfeiture order or interstate forfeiture order made in the proceedings; or
 
                              (ii)  be required to satisfy a pecuniary penalty order or interstate pecuniary penalty order made in the proceedings.
-
-          (2A)  For the purposes of paragraph (2)(a), the application may be made by:
-
-                     (a)  in the case of pending proceedings in relation to a forfeiture order or a pecuniary penalty order under the _Proceeds of Crime Act 2002_—the Commonwealth proceeds of crime authority that is, or that is proposed to be, the responsible authority for the application for the order under that Act; or
-
-                     (b)  in the case of pending proceedings under a corresponding law—a person who is entitled to apply for an interstate confiscation order under the corresponding law.
 
              (3)  The Court, on application made to it, may vary or revoke an order made under subsection (2).
 
@@ -14376,7 +14359,7 @@ the property, even though it vests in equity in the person named in the order, d
 
                      (d)  gives effect to the agreement between the Commonwealth and the States and the Northern Territory the execution of which, on behalf of the Commonwealth, was approved by the _States and Northern Territory Grants (Rural Adjustment) Act 1985_ or that agreement as subsequently amended; or
 
-                     (e)  gives effect to an agreement between the Commonwealth and a State or the Northern Territory whose execution, on behalf of the Commonwealth, was approved by the _States and Northern Territory Grants (Rural Adjustment) Act 1988_, or that agreement as subsequently amended;
+                     (e)  gives effect to an agreement between the Commonwealth and a State or the Northern Territory whose execution, on behalf of the Commonwealth, was approved by the _States and Northern   Territory Grants (Rural Adjustment) Act 1988_, or that agreement as subsequently amended;
 
 the Governor‑General may, by Proclamation, specify the law as a law in relation to which this Part applies.
 
@@ -15781,7 +15764,7 @@ or, if any such amount has previously been altered under this section, the amoun
 
              (6)  The formula for the purposes of subsections (2), (3) and (5) is: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00042/Html/78fb0ca5-6cf9-4af3-87a1-5c62c7ee4e6d_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00010/Html/cdc43070-88c3-4e51-ade2-7634f68d45a2_files/image003.gif)
 
 where:
 
@@ -17971,23 +17954,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>174, 2011</div>
-  </td>
-  <td>
-    <div>5 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 142–150): 1 Jan 2012</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 150) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Judges’ Remuneration Act 1969_ was repealed by section 7 of the _Statute Law Revision Act 1973_, subsection 7(2) of that Act provides as follows:
@@ -18871,7 +18837,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 121, 1968; No. 122, 1970; No. 155, 1979; Nos. 12 and 70, 1980; No. 21, 1985; Nos. 73 and 119, 1987; No. 8, 1988; No. 129, 1989; No. 115, 1990; Nos. 9 and 210, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 48, 1998; No. 194, 1999; No. 143, 2000; Nos. 55 and 123, 2001; Nos. 86 and 131, 2002; No. 80, 2004; No. 20, 2005; Nos. 33 and 34, 2006; Nos. 8, 44 and 57, 2007; Nos. 115 and 144, 2008; Nos. 3 and 106, 2010; Nos. 5 and 174, 2011</div>
+    <div>am. No. 121, 1968; No. 122, 1970; No. 155, 1979; Nos. 12 and 70, 1980; No. 21, 1985; Nos. 73 and 119, 1987; No. 8, 1988; No. 129, 1989; No. 115, 1990; Nos. 9 and 210, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 48, 1998; No. 194, 1999; No. 143, 2000; Nos. 55 and 123, 2001; Nos. 86 and 131, 2002; No. 80, 2004; No. 20, 2005; Nos. 33 and 34, 2006; Nos. 8, 44 and 57, 2007; Nos. 115 and 144, 2008; Nos. 3 and 106, 2010; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -19143,7 +19109,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 91, 1976; No. 12, 1980; No. 21, 1985; No. 168, 1986; Nos. 73 and 119, 1987; No. 9, 1992; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 44, 2007; No. 106, 2010; No. 174, 2011</div>
+    <div>am. No. 91, 1976; No. 12, 1980; No. 21, 1985; No. 168, 1986; Nos. 73 and 119, 1987; No. 9, 1992; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 44, 2007; No. 106, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20428,14 +20394,6 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 59</div>
   </td>
   <td>
@@ -21682,34 +21640,10 @@ of Part VI</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 114A, 114B</div>
+    <div>Ss. 114A–114C</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 114C</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 114C</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -23707,7 +23641,7 @@ of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 86, 2002; No. 174, 2011</div>
+    <div>am. No. 86, 2002</div>
   </td>
 </tr>
 <tr>
@@ -26458,14 +26392,6 @@ of Part IX</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 232</div>
   </td>
   <td>
@@ -28556,392 +28482,4 @@ Insert:
 
 Insert:
 
-                    <a name="ppsa-secur-agreem"></a>**_PPSA security agreement_** (short for Personal Property Securities Act security agreement), in relation to a PPSA security interest, means a security agreement within the meaning of the _Personal Property Securities Act 2009_.
-
-## 8  Subsection 5(1)
-
-Insert:
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
-
-## 9  Subsection 5(1) (definition of _secured creditor_)
-
-Repeal the definition, substitute:
-
-                    <a name="secur-critor"></a>**_secured creditor_**, in relation to a debtor, means:
-
-                     (a)  in the case of a debt secured by a PPSA security interest—the PPSA secured party in relation to the interest, if the interest:
-
-                              (i)  arose as security for the debt; and
-
-                             (ii)  is perfected (within the meaning of the _Personal Property Securities Act 2009_); or
-
-                     (b)  in the case of any other debt—a person holding a mortgage, charge or lien on property of the debtor as a security for a debt due to him or her from the debtor.
-
-## 10  Subsection 301(1)
-
-Omit “or in a licence”, substitute “, in a licence or in a PPSA security agreement”.
-
-## 11  Paragraphs 301(1)(a), (b) and (c)
-
-Repeal the paragraphs, substitute:
-
-                     (a)  the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement is to terminate, or may be terminated by the vendor, lessor, owner, licensor or PPSA secured party; or
-
-                     (b)  the operation of the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement is to be modified; or
-
-                     (c)  property to which the contract, agreement, lease, hire‑purchase agreement, licence or PPSA security agreement relates may be repossessed by or on behalf of the vendor, lessor, owner, licensor or PPSA secured party;
-
-## 12  Subsection 301(1)
-
-Omit “or licensee”, substitute “, licensee or PPSA grantor or debtor”.
-
-## 13  After subsection 301(2)
-
-Insert:
-
-          (2A)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
-
-Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
-
-## 14  Subsection 302(1)
-
-Omit “or charge” (first occurring), substitute “, charge or PPSA security agreement”.
-
-## 15  Paragraphs 302(1)(a) and (b)
-
-Repeal the paragraphs, substitute:
-
-                     (a)  enabling the grantee, mortgagee, person entitled to the benefit of the lien or charge or PPSA secured party to exercise any power or remedy; or
-
-                     (b)  to the effect that the operation of the bill of sale, mortgage, lien, charge or PPSA security agreement is to be modified;
-
-## 16  Subsection 302(1)
-
-Omit “or person whose property is subject to the lien or charge”, substitute “, the person whose property is subject to the lien or charge or the PPSA grantor or debtor”.
-
-## 17  At the end of section 302
-
-Add:
-
-             (3)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
-
-Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
-
-As at 1 January 2012 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Bankruptcy Legislation Amendment Act 1996 (No. 44, 1996)_
-
-## Schedule 1
-
-## 441  Items 2 to 5 and 8, 9, 11 and 16
-
-Application
-
-(1)               The new definitions inserted or substituted by items 2 to 5 and 8, 9, 11 and 16 apply to all provisions of the _Bankruptcy Act 1966_ applying to bankruptcies and other insolvency administrations that are current on or after the commencement of this Schedule.
-
-Transitional—item 11
-
-(2)               Despite the substitution of the definition of **_Registrar_** by item 11:
-
-                     (a)  the Court may still make orders under paragraphs 30(5)(c) and (d) of the _Bankruptcy Act 1966_ in relation to a failure to comply with an order, direction or  requirement that was given or made by a Registrar in Bankruptcy before this Schedule commenced; and
-
-                     (b)  the Court may still extend or abridge, under paragraph 33(1)(c) of the _Bankruptcy Act 1966_, a time that was fixed by a Registrar in Bankruptcy before this Schedule commenced; and
-
-                     (c)  the Court or a magistrate may issue a warrant under subsection 264B(1) of the _Bankruptcy Act 1966_ for the arrest of a person who failed to attend before, or appear and report to, the Registrar in Bankruptcy before this Schedule commenced.
-
-## 442  Items 46 and 52
-
-                   The amendments made by the following items apply in relation to authorities given under section 188 of the _Bankruptcy Act 1966_ after this Schedule commences:
-
-                     (a)  item 46;
-
-                     (b)  item 52, so far as it substitutes a new paragraph 12(2)(b) of the _Bankruptcy Act 196_ 6.
-
-## 443  Items 89 and 90
-
-                   The amendments made by items 89 and 90 do not apply in relation to proceedings in bankruptcy that were begun in the Supreme Court of a State or of the Northern Territory before this Schedule commenced.
-
-## 444  Item 91
-
-                   The amendment made by item 91 does not apply in relation to proceedings in bankruptcy that were begun in the Supreme Court of a State or of the Northern Territory before this Schedule commenced.
-
-## 445  Item 101
-
-                   The amendment made by item 101 does not apply in relation to appeals from any proceedings continued under item 444 in the Supreme Court of a State or of the Northern Territory after this Schedule commenced.
-
-## 446  Items 108 and 109
-
-                   The amendments made by items 108 and 109 apply in relation to all acts of bankruptcy committed on or after the commencement of this Schedule.
-
-## 447  Item 120
-
-                   The amendment made by item 120:
-
-                     (a)  applies to the presentation of creditor’s petitions after this Schedule commences; and
-
-                     (b)  does not prevent the continuation of proceedings begun before this Schedule commenced by the presentation of a creditor’s petition against a debtor who owed the petitioning creditors one or more debts totalling at least $1,500 but less than $2,000.
-
-## 448  Items 144 to 150
-
-                   The amendments made by items 144 to 150 apply to:
-
-                     (a)  debtor’s petitions that were presented, but not accepted or rejected, before this Schedule commenced; and
-
-                     (b)  debtor’s petitions that are presented after this Schedule commences.
-
-## 449  Item 151
-
-                   The new sections substituted by item 151 apply to:
-
-                     (a)  debtor’s petitions that were presented, but not accepted or rejected, before this Schedule commenced; and
-
-                     (b)  debtor’s petitions that are presented after this Schedule commences.
-
-## 450  Items 152 to 158
-
-                   The amendments made by items 152 to 158 apply to:
-
-                     (a)  debtor’s petitions that were presented, but not accepted or rejected, before this Schedule commenced; and
-
-                     (b)  debtor’s petitions that are presented after this Schedule commences.
-
-## 451  Item 161
-
-                   The amendment made by item 161 applies in relation to a meeting held after this Schedule commences, except a meeting:
-
-                     (a)  notice of which was given before the commencement of this Schedule; or
-
-                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
-
-## 452  Item 165
-
-                   The amendment made by item 165 applies in relation to a meeting held after this Schedule commences, except a meeting:
-
-                     (a)  notice of which was given before the commencement of this Schedule; or
-
-                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
-
-## 453  Item 182
-
-                   The new subsection substituted by item 182 applies to debts provable in a bankruptcy that is current on or after the commencement of this Schedule, regardless of when the maintenance agreement or maintenance order under which the debt arose was made.
-
-## 454  Item 193
-
-                   The amendment made by item 193 applies to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
-
-## 455  Item 198
-
-                   The amendment made by item 198 applies to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
-
-## 456  Items 199 to 202
-
-                   The amendments made by items 199 to 202 apply in relation to bankruptcies current on or after the commencement of this Schedule. However, the amendments:
-
-                     (a)  do not affect any distribution of a dividend before this Schedule commenced; and
-
-                     (b)  do not make a trustee liable for any act or omission of the trustee that occurred before this Schedule commenced.
-
-## 457  Item 208
-
-                   The new sections inserted by item 208 apply to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
-
-## 458  Items 209 to 221
-
-                   The amendments made by items 209 to 221 apply to all bankruptcies that are current on or after the day on which this Schedule commences, but do not affect any distributions made before this Schedule commenced.
-
-## 459  Item 222
-
-                   The amendment made by item 222 applies in relation to debtors who are bankrupt when this Schedule commences or who become bankrupt after this Schedule commences. However, the amendment:
-
-                     (a)  does not affect any distribution of a dividend before this Schedule commenced; and
-
-                     (b)  does not make a trustee liable for any act or omission of the trustee that occurred before this Schedule commenced.
-
-## 460  Items 233 to 241
-
-                   The amendments made by items 233 to 241 apply to all bankruptcies current on or after the commencement of this Schedule.
-
-## 461  Items 242 to 246
-
-                   The amendments made by items 242 to 246 apply to all bankruptcies current on or after the commencement of this Schedule.
-
-## 462  Item 250
-
-                   The new definition of **_contribution assessment period_** substituted by item 250 applies to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
-
-## 463  Items 252 to 254
-
-                   The amendments made by items 252 to 254 apply in relation to all bankruptcies current on or after the commencement of this Schedule. However, the amendments do not affect any assessment made before this Schedule commenced.
-
-## 464  Items 256 to 258
-
-                   The amendments made by items 256 to 258 apply in relation to each bankrupt for whom the date of the bankruptcy was on or after the commencement of this Schedule.
-
-## 465  Item 259
-
-                   The amendment made by item 259 applies to all bankruptcies current on or after the commencement of this Schedule.
-
-## 466  Item 277
-
-                   The amendment made by item 277 applies to statements given to the Official Receiver after this Schedule commences.
-
-## 467  Item 282
-
-                   Despite the amendment made by item 282, the Court may make an order annulling a bankruptcy that resulted from the Registrar in Bankruptcy accepting a debtor’s petition.
-
-## 468  Item 283
-
-                   The new sections inserted by item 283 apply in relation to:
-
-                     (a)  applications made after this Schedule commences; and
-
-                     (b)  persons who were registered trustees immediately before this Schedule commenced; and
-
-                     (c)  persons who become registered as trustees after this Schedule commences.
-
-## 469  Items 293 and 425
-
-                   The amendments made by items 293 and 425 apply to trustees who consent to act as trustee after the commencement of this Schedule.
-
-## 470  Items 303 to 308
-
-                   The amendments made by items 303 to 308 apply to all bankruptcies current on or after the commencement of this Schedule.
-
-## 471  Items 315 and 316
-
-                   The amendments made by items 315 and 316 apply to a person registered as a trustee on or after the day on which this Schedule commences.
-
-## 472  Items 321, 323 and 324
-
-                   The amendments made by items 321, 323 and 324 apply in relation to authorities given under section 188 after this Schedule commences.
-
-## 473  Item 332
-
-                   The section inserted by item 332 applies in relation to authorities signed by debtors on or after the day on which this Schedule commences.
-
-## 474  Item 333
-
-                   The amendment made by item 333 applies in relation to an authority under section 188 of the _Bankruptcy Act 1966_ that is current on or after the day on which this Schedule commences.
-
-## 475  Item 334
-
-                   The new sections inserted by item 334 apply in relation to an authority under section 188 of the _Bankruptcy Act 1966_ that is current on or after the day on which this Schedule commences.
-
-## 476  Item 344
-
-                   The new section substituted by item 344 applies in relation to a meeting called under an authority under section 188 of the _Bankruptcy Act 1966_ that is current on or after the day on which this Schedule commences.
-
-## 477  Items 345 and 346
-
-                   The amendments made by items 345 and 346 apply in relation to a meeting held after this Schedule commences, except a meeting:
-
-                     (a)  notice of which was given before the commencement of this Schedule; or
-
-                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
-
-## 478  Item 347
-
-                   The amendment made by item 347 applies in relation to a meeting held after this Schedule commences, except a meeting:
-
-                     (a)  notice of which was given before the commencement of this Schedule; or
-
-                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
-
-## 479  Items 348 and 349
-
-                   The amendments made by items 348 and 349 apply in relation to resolutions and special resolutions at a meeting held after this Schedule commences, except a meeting:
-
-                     (a)  notice of which was given before the commencement of this Schedule; or
-
-                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
-
-## 480  Item 356
-
-                   The new section substituted by item 356 applies in relation to all persons who are controlling trustees on or after the commencement of this Schedule.
-
-## 481  Item 360
-
-                   The amendment made by item 360 applies in relation to resolutions at a meeting held after this Schedule commences, except a meeting:
-
-                     (a)  notice of which was given before the commencement of this Schedule; or
-
-                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
-
-## 482  Items 368 and 369
-
-                   The amendments made by items 368 and 369 do not apply in relation to a special resolution passed at a meeting:
-
-                     (a)  called before this Schedule commences; or
-
-                     (b)  held after this section commences as a continuation of a meeting called before this Schedule commences.
-
-## 483  Items 373 and 374
-
-                   The amendments made by items 373 and 374 apply in relation to a meeting held after this Schedule commences, except a meeting:
-
-                     (a)  notice of which was given before the commencement of this Schedule; or
-
-                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
-
-## 484  Item 375
-
-                   The amendment made by item 375 applies in relation to a meeting held after this Schedule commences, except a meeting:
-
-                     (a)  notice of which was given before the commencement of this Schedule; or
-
-                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
-
-## 485  Item 382
-
-                   Despite the amendment made by item 382, proceedings begun before the commencement of this Schedule by presentation of a petition to the Court in relation to one or more debts totalling at least $1,500 but less than $2,000 may continue.
-
-## 486  Item 402
-
-                   The new section substituted by item 402 applies in relation to debtor’s petitions that:
-
-                     (a)  are presented after this Schedule commences; or
-
-                     (b)  were presented, but not dealt with by the Registrar in Bankruptcy, before this Schedule commenced.
-
-## 487  Item 415
-
-                   The new section substituted by item 415 applies only in relation to section 64D statements given on or after the day this Schedule commences.
-
-## 488  Item 417
-
-                   The amendment made by item 417 applies in relation to debtor’s petitions that are presented after this Schedule commences.
-
-## 489  Item 418
-
-                   The amendment made by item 418 applies to statements given to the Official Receiver in relation to debtor’s petitions that:
-
-                     (a)  are presented after this Schedule commences; or
-
-                     (b)  were presented, but not dealt with by the Registrar in Bankruptcy, before this Schedule commenced.
-
-## 490  Item 422
-
-                   The new section inserted by item 422 applies to trust deeds regardless of when they were made.
-
-## 491  Items 427 and 428
-
-                   Despite the amendments made by items 427 and 428, an action, suit or proceeding does not lie in respect of a statement made in good faith in a report referred to in subsection 19AA(2), 150(3), 154A(3) or 189A(1) of the _Bankruptcy Act 1966_ as in force before this Schedule commenced.
-
-## 492  Bankruptcy Districts
-
-                   An area that was a Bankruptcy District because of a proclamation in 
+                  �
