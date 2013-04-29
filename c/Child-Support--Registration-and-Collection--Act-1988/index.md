@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00383/Html/8bd29fba-e0ab-494b-af9f-677d58096c4b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00358/Html/5cbb5865-cc1d-48e2-914c-2912431ac287_files/image001.gif)
 
 # Child Support (Registration and Collection) Act 1988
 
 **Act No. 3 of 1988 as amended**
 
-This compilation was prepared on 30 May 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 10 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -3537,7 +3537,7 @@ then:
 
              (5)  The remaining lump sum payment, for 1 July in a year of income, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00383/Html/8bd29fba-e0ab-494b-af9f-677d58096c4b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00358/Html/5cbb5865-cc1d-48e2-914c-2912431ac287_files/image002.gif)
 
 where:
 
@@ -3545,7 +3545,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2011C00383/Html/8bd29fba-e0ab-494b-af9f-677d58096c4b_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00358/Html/5cbb5865-cc1d-48e2-914c-2912431ac287_files/image003.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -5826,7 +5826,7 @@ Note:          Section 103W applies if the parties reach an 
 
 ##### <a id="103B"></a>103B  Subdivision does not apply in relation to Registrar
 
-                   This Subdivision does not apply in relation to a party if the party is the Registrar.
+                   This Subdivision does not apply in relation to a party if the party is the Registrar.
 
 ##### <a id="103C"></a>103C  Submissions
 
@@ -8773,23 +8773,6 @@ Schedule 4 (items 2, 3): <i>(v)</i></div>
   </td>
   <td>
     <div>Schedule 6 (items 16–19), Schedule 7 (items 34, 35) and Schedule 8 (item 1): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 3: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -12986,234 +12969,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
   </td>
 </tr></table>
 
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 3
-
-## 1  Subsection 4(1) (definition of _CEO_)
-
-Repeal the definition.
-
-## 2  Subsection 4(1)
-
-Insert:
-
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
-
-## 3  Subsection 4(1)
-
-Insert:
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 4  Subsection 4(1) (definition of _employee_)
-
-Repeal the definition, substitute:
-
-                    <a name="employe"></a>**_employee_**, when used in Part IV, VI or IX, means a person who receives, or is entitled to receive, work and income support related withholding payments.
-
-## 5  Subsection 4(1)
-
-Insert:
-
-                    <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 6  Subsection 4(1) (definition of _service arrangements_)
-
-Repeal the definition.
-
-## 7  Subsection 4(1) (definition of _Services Delivery Agency_)
-
-Repeal the definition.
-
-## 8  Subsection 10(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The Child Support Registrar is to be a person who is:
-
-                     (a)  an SES employee in the Department; and
-
-                     (b)  specified in a written instrument made by the Secretary.
-
-             (3)  A person must not be specified in an instrument under paragraph (2)(b) if the person is, or is acting as:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                     (b)  the Chief Executive Medicare.
-
-             (4)  An instrument under paragraph (2)(b) is not a legislative instrument.
-
-## 9  After section 10
-
-Insert:
-
-##### <a id="10A"></a>10A  Acting Child Support Registrar
-
-             (1)  The Secretary may appoint an SES employee in the Department to act as the Child Support Registrar:
-
-                     (a)  during a vacancy in the position of Child Support Registrar (whether or not an appointment has previously been made to the position); or
-
-                     (b)  during any period, or during all periods, when the Child Support Registrar:
-
-                              (i)  is absent from duty or from Australia; or
-
-                             (ii)  is, for any reason, unable to perform the duties of the position.
-
-             (2)  A person must not be appointed under subsection (1) if the person is, or is acting as:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                     (b)  the Chief Executive Medicare.
-
-             (3)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
-
-                     (a)  the occasion for the appointment had not arisen; or
-
-                     (b)  there was a defect or irregularity in connection with the appointment; or
-
-                     (c)  the appointment had ceased to have effect; or
-
-                     (d)  the occasion to act had not arisen or had ceased.
-
-Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
-
-## 10  Subsection 15(1A)
-
-Repeal the subsection, substitute:
-
-          (1A)  The Registrar may, in writing, delegate all or any of his or her powers or functions under this Act to the Chief Executive Centrelink.
-
-## 10A  After subsection 16(2A)
-
-Insert:
-
-    (2AAA)  Subsection (2) does not apply to the making of a record of information with the express or implied authorisation of the person to whom the information relates.
-
-## 11  Paragraphs 16(3)(ba) and (bb)
-
-Repeal the paragraphs, substitute:
-
-                   (ba)  to:
-
-                              (i)  the Chief Executive Centrelink; or
-
-                             (ii)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
-
-                            for the purpose of the administration of this Act or of any other law of the Commonwealth relating to pensions, allowances or benefits; or
-
-                   (bb)  to:
-
-                              (i)  the Chief Executive Medicare; or
-
-                             (ii)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_);
-
-                            for the purpose of the performance of functions, or the exercise of powers, in connection with a medicare program; or
-
-## 12  Paragraph 16(4C)(d)
-
-Omit “Child Support Agency”, substitute “Registrar or an officer or employee of the Department”.
-
-## 13  Subsection 16AA(3) (paragraphs (a) and (b) of the definition of _relevant information_)
-
-Before “Child Support Agency”, insert “former”.
-
-## 14  After section 16AA
-
-Insert:
-
-##### <a id="16AB"></a>16AB  Multiple secrecy provisions
-
-Scope
-
-             (1)  This section applies to particular information if:
-
-                     (a)  the information is subject to a regulatory regime under a designated program Act (the **_first program Act_**); and
-
-                     (b)  the information is also subject to a regulatory regime under another designated program Act (the **_second program Act_**).
-
-For the purposes of this subsection, in determining whether particular information is subject to a regulatory regime under a designated program Act, disregard whether the information is subject to a regulatory regime under any other designated program Act.
-
-Disclosure or use of information etc.
-
-             (2)  If:
-
-                     (a)  the Secretary, the Registrar or an officer or employee of the Department:
-
-                              (i)  discloses the information; or
-
-                             (ii)  uses the information; or
-
-                            (iii)  makes a record of the information; and
-
-                     (b)  the Secretary, the Registrar or the officer or employee of the Department, as the case may be, does so without contravening the first program Act;
-
-the disclosure, use, or making of the record, as the case may be, does not contravene the second program Act.
-
-Definitions
-
-             (3)  In this section:
-
-                    <a name="design-program-act"></a>**_designated program Act_** means:
-
-                     (a)  this Act; or
-
-                     (b)  the _A New Tax System (Family Assistance) (Administration) Act 1999_; or
-
-                     (c)  the _Aged Care Act 1997_; or
-
-                     (d)  the _Child Support (Assessment) Act 1989_; or
-
-                     (e)  the _Dental Benefits Act 2008_; or
-
-                      (f)  the _Disability Services Act 1986_; or
-
-                     (g)  the _Health Insurance Act 1973_; or
-
-                     (h)  the _Medical Indemnity Act 2002_; or
-
-                      (i)  the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
-
-                      (j)  the _National Health Act 1953_; or
-
-                     (k)  the _Paid Parental Leave Act 2010_; or
-
-                      (l)  the _Private Health Insurance Act 2007_; or
-
-                    (m)  the _Social Security (Administration) Act 1999_; or
-
-                     (n)  the _Student Assistance Act 1973_; or
-
-                     (o)  an Act specified in a legislative instrument made by the Minister for the purposes of this paragraph.
-
-                    <a name="disclos"></a>**_disclose_** means disclose, divulge or communicate.
-
-## 15  Subparagraphs 94(1)(a)(iii) and (iv)
-
-Repeal the subparagraphs.
-
-## 16  Subsection 95(1)
-
-Repeal the subsection, substitute:
-
-Applications must be forwarded to SSAT
-
-             (1)  If an application for review under this Part is sent or delivered to an office of the Department, the Secretary must send the application to the SSAT Principal Member:
-
-                     (a)  as soon as practicable; and
-
-                     (b)  in any case—not later than 7 days after the application is received at the office of the Department.
-
-## 17  Paragraph 95(2)(b)
-
-Omit “a Secretary or the CEO”, substitute “the Secretary”.
-
-As at 30 May 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -13702,7 +13457,7 @@ items 77 to 79 of this Schedule apply in Western Australia, after Western Aust
 
 ## Schedule 4
 
-## 44  Application
+## 44  Application
 
 The amendments made by items 24 to 26 and 31 to 35 of this Schedule apply in respect of a court order made under section 143 of the Assessment Act in response to a declaration made under section 107 of that Act, whether the order under section 143 was made before or after the commencement of this Schedule.
 
