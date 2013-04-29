@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 14 August 2012
+This compilation was prepared on 30 June 2012
  taking into account amendments up to Act No. 98 of 2012
 
 The text of any of those amendments not in force
@@ -150,24 +150,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32AE](#32AE).     Non‑entitlement to payment of family tax benefit after 3 or more variations under subsection 28(2)
 
-        **Subdivision CB—Non‑entitlement to FTB on estimated income basis**
-
-[32AF](#32AF).     Non‑entitlement to FTB on estimated income basis—review of income during 2 consecutive income years
-
-[32AG](#32AG).    Exception—greater than nil rate of FTB for later income year
-
-[32AH](#32AH).    Exception—resumption of eligibility for FTB
-
-[32AI](#32AI).      Exception—income support payments
-
-[32AJ](#32AJ).     Exception—new FTB child
-
-[32AK](#32AK).    Exception—couple separates
-
-[32AL](#32AL).     Exception—special circumstances
-
-[32AM](#32AM).   Exception—determined circumstances
-
         **Subdivision D—FTB reconciliation conditions**
 
 [32A](#32A).       FTB Part A supplement and FTB Part B supplement to be disregarded unless and until individual has satisfied the FTB reconciliation conditions
@@ -236,7 +218,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35G](#35G).       Payment of schoolkids bonus
 
-    **Division 3—Baby bonus**
+    **Division 3—Baby bonus and maternity immunisation allowance**
 
 [36](#36).          Need for a claim
 
@@ -244,9 +226,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38](#38).          How to claim
 
-[38A](#38A).       Tax file number requirement to be satisfied for claims for baby bonus in normal circumstances to be effective
+[38A](#38A).       Tax file number requirement to be satisfied for claims for baby bonus or maternity immunisation allowance in normal circumstances to be effective
 
-[38B](#38B).       Tax file number requirement to be satisfied for claims for baby bonus because of the death of another individual to be effective
+[38B](#38B).       Tax file number requirement to be satisfied for claims for baby bonus or maternity immunisation allowance because of the death of another individual to be effective
 
 [39](#39).          Restrictions on claiming
 
@@ -268,7 +250,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [47](#47).          Payment of baby bonus
 
-[47AB](#47AB).    Other rules about payments of baby bonus
+[47AA](#47AA).    Payment of maternity immunisation allowance
+
+[47AB](#47AB).    Other rules about payments of baby bonus and maternity immunisation allowance
 
 [47A](#47A).       Variation of determination where certain statements under section 38A made
 
@@ -600,29 +584,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision AAA—Election to have child care rebate paid in various ways**
 
-65EAAAAIndividual may elect to have child care rebate paid in various 
- ways
+[65EAAAA](#65EAAAA).   Individual may elect to have child care rebate paid in various ways
 
-65EAAABPeriod in which election has effect
+[65EAAAB](#65EAAAB).                                                     Period in which election has effect
 
-65EAAACWhere no election made for an income year
+[65EAAAC](#65EAAAC).                                       Where no election made for an income year
 
         **Subdivision AAB—Weekly payments of child care rebate**
 
-65EAAAWeekly payments of child care rebate
+[65EAAA](#65EAAA).                                                   Weekly payments of child care rebate
 
-65EAABWhere individual elects to have child care rebate paid weekly 
- to approved child care service
+65EAAB Where individual elects to have child care rebate paid weekly to approved child care service
 
-65EAACWhere individual elects to have child care rebate paid weekly 
- into own bank account
+65EAAC Where individual elects to have child care rebate paid weekly into own bank account
 
-65EAADRevising a calculation of weekly child care rebate
+[65EAAD](#65EAAD).                                Revising a calculation of weekly child care rebate
 
-65EAAEIf weekly payment is to an approved child care service, notice 
- of revised calculation must be given to the service
+65EAAE If weekly payment is to an approved child care service, notice of revised calculation must be given to the service
 
-65EAAFEffect of revised calculation—payment to the individual
+[65EAAF](#65EAAF).                       Effect of revised calculation—payment to the individual
 
         **Subdivision AA—Quarterly payments of child care rebate**
 
@@ -1394,19 +1374,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 219TSG Civil evidence and procedure rules for civil penalty orders
 
-219TSGAConduct contravening more than one civil penalty provision
+[219TSGA](#219TSGA).              Conduct contravening more than one civil penalty provision
 
-219TSGBCivil proceedings after criminal proceedings
+[219TSGB](#219TSGB).                                       Civil proceedings after criminal proceedings
 
-219TSGCCriminal proceedings during civil proceedings
+[219TSGC](#219TSGC).                                    Criminal proceedings during civil proceedings
 
-219TSGDCriminal proceedings after civil proceedings
+[219TSGD](#219TSGD).                                       Criminal proceedings after civil proceedings
 
-219TSGEEvidence given in proceedings for penalty not admissible in 
- criminal proceedings
+219TSGE Evidence given in proceedings for penalty not admissible in criminal proceedings
 
-219TSGFMinister requiring person to assist in applications for civil 
- penalty orders
+219TSGF Minister requiring person to assist in applications for civil penalty orders
 
     **Division 2—Infringement notices**
 
@@ -1642,7 +1620,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  a claim for payment of family tax benefit by instalment; or
 
-                     (b)  a claim for payment of baby bonus in normal circumstances;
+                     (b)  a claim for payment of baby bonus in normal circumstances; or
+
+                     (c)  a claim for payment of maternity immunisation allowance in normal circumstances;
 
 means the day occurring 97 days before the day that, on the day the claim is made, is the expected day on which the child to whom the claim relates will become an FTB child of the claimant. It does not matter whether the child becomes such an FTB child on the expected day.
 
@@ -1651,8 +1631,6 @@ means the day occurring 97 days before the day that, on the day the claim is mad
                     <a name="enrolled"></a>**_enrolled_** in relation to a child to whom an approved child care service provides care, has the meaning given by subsections 219A(2) and 219AA(2).
 
                     <a name="entitled-paid-famili-tax-benefit-instal"></a>**_entitled to be paid family tax benefit by instalment_**: a person is so entitled at a particular time if a determination under section 16 in relation to the person is in force at that time under which the person is entitled to be paid family tax benefit at or after that time.
-
-                    <a name="estimated-incom-basi"></a><a name="estimated-incom-basi"></a>**_estimated income basis_**:family tax benefit is worked out on an **_estimated income basis_**if it is worked out on the basis referred to in subsection 20(1), (2A) or (3).
 
                     <a name="execut-offic"></a>**_executive officer_**, in relation to an operator of an approved centre based long day care service, means a person, by whatever name called and whether or not a director of the operator, who is concerned in, or takes part in, the management of the operator.
 
@@ -1695,8 +1673,6 @@ means the day occurring 97 days before the day that, on the day the claim is mad
                      (c)  in respect of an overpayment of an amount payable by the person by an assessment made under Part IV of the _Income Tax Assessment Act 1936_ because of:
 
                               (i)  subsection 106U(1) of the _Higher Education Funding Act 1988_; or
-
-                            (ia)  section 154‑60 of the _Higher Education Support Act 2003_; or
 
                              (ii)  section 154‑60 of the _Higher Education Support Act 2003_; or
 
@@ -1830,7 +1806,7 @@ Note:          See also subsection (4B).
 
                             (iii)  if the claim is for payment of child care benefit for a past period for care provided by an approved child care service—any partner of the claimant during the past period; or
 
-                     (c)  in relation to a claim for baby bonus in normal circumstances under Division 3 of Part 3, means:
+                     (c)  in relation to a claim for baby bonus or maternity immunisation allowance in normal circumstances under Division 3 of Part 3, means:
 
                               (i)  the claimant; and
 
@@ -1864,7 +1840,7 @@ Note:          See also subsection (4B).
 
                      (b)  by an individual for payment of child care benefit by single payment/in substitution because of the death of another individual for care provided by an approved child care service based on eligibility for an amount of child care benefit under section 46 of the Family Assistance Act; or
 
-                     (c)  by an individual for payment of baby bonus in substitution because of the death of another individual; or
+                     (c)  by an individual for payment of baby bonus or maternity immunisation allowance in substitution because of the death of another individual; or
 
                      (d)  by an individual for payment of single income family supplement by single payment/in substitution because of the death of another individual based on eligibility for an amount of single income family supplement under section 57GG of the Family Assistance Act;
 
@@ -2388,8 +2364,6 @@ Note:          Section 20C affects the meaning of this provi
 
 the Secretary may determine the individual’s rate of family tax benefit on the basis of an estimate by the Secretary of the amount needed.
 
-Note:          If family tax benefit is worked out on the basis referred to in subsection (1), (2A) or (3), it is referred to in this Act as being worked out on an **_estimated income basis_** (see the definition of this term in subsection 3(1)).
-
 ##### <a id="20A"></a>20A  Indexed estimates
 
              (1)  The Secretary may calculate an indexed estimate for an individual under subsection (5), with a start day chosen by the Secretary, if:
@@ -2414,7 +2388,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image002.gif)
 
 where:
 
@@ -2468,7 +2442,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image002.gif)
 
 where:
 
@@ -3392,7 +3366,7 @@ Step 5.   Work out the **_daily overpayment rate_** by dividing the amount w
 
 ##### <a id="32AA"></a>32AA  Non‑payment of family tax benefit for non‑lodgment of tax returns
 
-             (1)  If the Secretary varies a determination under subsection 28(2) in relation to a claimant, the Secretary must not make a payment of family tax benefit (worked out on an estimated income basis) to:
+             (1)  If the Secretary varies a determination under subsection 28(2) in relation to a claimant, the Secretary must not make a payment of family tax benefit (worked out on the basis referred to in subsection 20(1), (2A) or (3)) to:
 
                      (a)  the claimant during a prohibited period for the claimant (see section 32AB); and
 
@@ -3620,7 +3594,7 @@ Determinations are not legislative instruments
 
                      (b)  the claimant was required to lodge an income tax return for the cancellation income year concerned but has not done so when the claimant becomes a member of that couple;
 
-then, during a prohibited period for the claimant and while the claimant and the new partner are members of the same couple, the Secretary must not make a payment of family tax benefit (worked out on an estimated income basis) to the new partner.
+then, during a prohibited period for the claimant and while the claimant and the new partner are members of the same couple, the Secretary must not make a payment of family tax benefit (worked out on the basis referred to in subsection 20(1), (2A) or (3)) to the new partner.
 
 Note:          For **_relevant partner_** see section 32AA.
 
@@ -3630,7 +3604,7 @@ Note:          For **_relevant partner_** see section 32AA.
 
 Claimant
 
-             (2)  The claimant is not entitled to be paid family tax benefit (worked out on an estimated income basis) for a period if, throughout that period, both subsections (3) and (4) of this section apply in relation to one or more of the cancellation income years concerned.
+             (2)  The claimant is not entitled to be paid family tax benefit (worked out on the basis referred to in subsection 20(1), (2A) or (3)) for a period if, throughout that period, both subsections (3) and (4) of this section apply in relation to one or more of the cancellation income years concerned.
 
 Note 1:       For **_cancellation income year_** see subsection 28(1).
 
@@ -3648,7 +3622,7 @@ Note:          For **_relevant partner_** see section 32AA.
 
 Partner
 
-             (5)  If the claimant is a member of a couple, the claimant’s partner is not entitled to be paid family tax benefit (worked out on an estimated income basis) for a period if, throughout that period, both subsections (6) and (7) of this section apply in relation to one or more of the cancellation income years concerned.
+             (5)  If the claimant is a member of a couple, the claimant’s partner is not entitled to be paid family tax benefit (worked out on the basis referred to in subsection 20(1), (2A) or (3)) for a period if, throughout that period, both subsections (6) and (7) of this section apply in relation to one or more of the cancellation income years concerned.
 
 Note 1:       For **_cancellation income year_** see subsection 28(1).
 
@@ -3673,322 +3647,6 @@ Exceptions
            (10)  A period specified in a determination under subsection (8) or (9) may be a period beginning before, on or after the day the determination is made.
 
            (11)  A determination made under subsection (8) or (9) is not a legislative instrument.
-
-#### Subdivision CB—Non‑entitlement to FTB on estimated income basis
-
-##### <a id="32AF"></a>32AF  Non‑entitlement to FTB on estimated income basis—review of income during 2 consecutive income years
-
-Scope of Subdivision
-
-             (1)  This Subdivision applies in relation to an individual if:
-
-                     (a)  there are 2 consecutive income years (each of which is a **_consecutive year_**) in which there are one or more days for which the individual was entitled to be paid family tax benefit worked out on an estimated income basis; and
-
-                     (b)  in respect of each consecutive year, the Secretary, under section 105, reviews the rate of family benefit the individual was entitled to be paid for those days on the basis of the individual’s adjusted taxable income as finally determined in respect of the consecutive year by the Secretary; and
-
-                     (c)  as a result of the review and in respect of each consecutive year, the Secretary determines either or both of the following:
-
-                              (i)  the individual’s Part A rate of family tax benefit is nil for those days because of the individual’s adjusted taxable income, and there are no other days in either consecutive year for which the individual was entitled to be paid the Part A rate;
-
-                             (ii)  the individual’s Part B rate of family tax benefit is nil for those days because of subclause 28B(1) of Schedule 1 to the Family Assistance Act.
-
-Note:          Family tax benefit may be worked out on an estimated income basis under subsection 20(1), (2A) or (3) (see definition of **_estimated income basis_** in subsection 3(1)).
-
-Basic non‑entitlement rule
-
-             (2)  Subject to this Subdivision:
-
-                     (a)  if subparagraph (1)(c)(i) applies—the individual is not entitled, on and after the exclusion day, to be paid the Part A rate of family tax benefit worked out on an estimated income basis; and
-
-                     (b)  if subparagraph (1)(c)(ii) applies—the individual is not entitled, on and after the exclusion day, to be paid the Part B rate of family tax benefit worked out on an estimated income basis.
-
-             (3)  For the purposes of this Subdivision, the **_exclusion day_**, in relation to an individual, is:
-
-                     (a)  either:
-
-                              (i)  if the later of the consecutive years is 2010‑11—1 July 2012; or
-
-                             (ii)  in any other case—1 July of the first income year after the later of the consecutive years; or
-
-                     (b)  if the Secretary determines a later day in relation to the individual—the later day.
-
-             (4)  A determination under paragraph (3)(b) is not a legislative instrument.
-
-Position of individual’s partner
-
-             (5)  While paragraph (2)(a) applies in relation to the individual, the individual’s partner (if any) is not entitled to be paid the Part A rate of family tax benefit worked out on an estimated income basis.
-
-             (6)  While paragraph (2)(b) applies in relation to the individual, the individual’s partner (if any) is not entitled to be paid the Part B rate of family tax benefit worked out on an estimated income basis.
-
-Multiple applications of section
-
-             (7)  Sections 32AG to 32AM do not prevent this section applying again in relation to the individual in respect of 2 consecutive income years, either or both of which are different from the 2 consecutive income years the subject of the previous application of this section.
-
-##### <a id="32AG"></a>32AG  Exception—greater than nil rate of FTB for later income year
-
-Scope
-
-             (1)  This section applies if, in respect of an income year (the **_payment year_**) after the later of the consecutive years, the Secretary, taking into account the individual’s adjusted taxable income as finally determined in respect of the payment year by the Secretary, determines either or both of the following on a day (the **_payment day_**):
-
-                     (a)  the individual’s Part A rate of family tax benefit is greater than nil on one or more days in the payment year;
-
-                     (b)  the individual’s Part B rate of family tax benefit is greater than nil on one or more days in the payment year.
-
-Payment day is in same income year as exclusion day
-
-             (2)  If the payment day is in the income year in which the exclusion day occurs, then:
-
-                     (a)  if this section applies in relation to the Part A rate of family tax benefit—paragraph 32AF(2)(a) is taken not to have applied in relation to the individual; and
-
-                     (b)  if this section applies in relation to the Part B rate of family tax benefit—paragraph 32AF(2)(b) is taken not to have applied in relation to the individual.
-
-Example:    Assume that under section 32AF the consecutive years are 2009‑10 and 2010‑11\. Assume that the individual is not entitled, on and after 1 July 2012, to be paid the Part A rate and Part B rate of family tax benefit worked out on an estimated income basis. The exclusion day is 1 July 2012.
-
-                   Assume that on 1 November 2012 the Secretary determines, under subsection (1), that the individual’s Part A rate and Part B rate of family tax benefit are greater than nil on one or more days in 2011‑12\. The payment day is 1 November 2012.
-
-                   Under subsection (2), subsection 32AF(2) is taken not to have prevented the individual from being entitled, on and after 1 July 2012, to be paid family tax benefit worked out on an estimated income basis.
-
-Payment day is in income year later than that of exclusion day
-
-             (3)  If the payment day is in an income year that is later than the income year in which the exclusion day occurs, then:
-
-                     (a)  if this section applies in relation to the Part A rate of family tax benefit—paragraph 32AF(2)(a) ceases to apply in relation to the individual on 1 July of the later income year; and
-
-                     (b)  if this section applies in relation to the Part B rate of family tax benefit—paragraph 32AF(2)(b) ceases to apply in relation to the individual on 1 July of the later income year.
-
-Example:    Assume that under section 32AF the consecutive years are 2009‑10 and 2010‑11\. Assume that the individual is not entitled, on and after 1 July 2012, to be paid the Part A rate and Part B rate of family tax benefit worked out on an estimated income basis. The exclusion day is 1 July 2012.
-
-                   Assume that on 1 November 2013 the Secretary determines, under subsection (1), that the individual’s Part A rate and Part B rate of family tax benefit are greater than nil on one or more days in 2011‑12\. The payment day is 1 November 2013.
-
-                   Under subsection (3), subsection 32AF(2) ceases to prevent the individual from being entitled, on and after 1 July 2013, to be paid family tax benefit worked out on an estimated income basis.
-
-Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
-
-##### <a id="32AH"></a>32AH  Exception—resumption of eligibility for FTB
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  the individual is not eligible for family tax benefit for the whole of an income year (the **_applicable year_**) that is after the later of the consecutive years (other than because of the individual’s income or the individual’s partner’s income); and
-
-                     (b)  after the applicable year, the individual makes a claim for family tax benefit in relation to the income year (the **_current year_**) in which the claim is made; and
-
-                     (c)  the Secretary has finally determined the individual’s adjusted taxable income in respect of the applicable year; and
-
-                     (d)  the Secretary is satisfied that, if the Secretary were to take into account that adjusted taxable income, either or both of the following would apply in respect of one or more days in the current year:
-
-                              (i)  the individual’s Part A rate of family tax benefit would be greater than nil;
-
-                             (ii)  the individual’s Part B rate of family tax benefit would be greater than nil, or would be nil (other than because of subclause 28B(1) of Schedule 1 to the Family Assistance Act).
-
-Exclusion day is in current year
-
-             (2)  If the exclusion day is in the current year, then:
-
-                     (a)  if this section applies in relation to the Part A rate of family tax benefit—paragraph 32AF(2)(a) is taken not to have applied in relation to the individual; and
-
-                     (b)  if this section applies in relation to the Part B rate of family tax benefit—paragraph 32AF(2)(b) is taken not to have applied in relation to the individual.
-
-Example:    Assume that under section 32AF the consecutive years are 2009‑10 and 2010‑11\. Assume that the individual is not entitled, on and after 1 July 2012, to be paid the Part A rate and Part B rate of family tax benefit worked out on an estimated income basis. The exclusion day is 1 July 2012.
-
-                   Assume that the individual is not eligible for family tax benefit for the whole of 2011‑12 (the applicable year). Assume that in 2012‑13 (the current year) the individual makes a claim for family tax benefit for 2012‑13.
-
-                   Assume that the Secretary is satisfied that, if the Secretary were to take into account the individual’s final adjusted taxable income for 2011‑12, the individual’s Part A rate and Part B rate of family tax benefit would be greater than nil on one or more days in 2012‑13.
-
-                   Under subsection (2), subsection 32AF(2) is taken not to have prevented the individual from being entitled, on and after 1 July 2012, to be paid family tax benefit worked out on an estimated income basis.
-
-Current year is later than that of exclusion day
-
-             (3)  If the current year is later than the income year in which the exclusion day occurs, then:
-
-                     (a)  if this section applies in relation to the Part A rate of family tax benefit—paragraph 32AF(2)(a) ceases to apply in relation to the individual on 1 July of the current year; and
-
-                     (b)  if this section applies in relation to the Part B rate of family tax benefit—paragraph 32AF(2)(b) ceases to apply in relation to the individual on 1 July of the current year.
-
-Example:    Assume that under section 32AF the consecutive years are 2010‑11 and 2011‑12\. Assume that the individual is not entitled, on and after 1 July 2012, to be paid the Part A rate and Part B rate of family tax benefit worked out on an estimated income basis. The exclusion day is 1 July 2012.
-
-                   Assume that the individual is not eligible for family tax benefit for the whole of 2012‑13 (the applicable year). Assume that in 2013‑14 (the current year) the individual makes a claim for family tax benefit for 2013‑14.
-
-                   Assume that the Secretary is satisfied that, if the Secretary were to take into account the individual’s final adjusted taxable income for 2012‑13, the individual’s Part A rate and Part B rate of family tax benefit would be greater than nil on one or more days in 2013‑14.
-
-                   Under subsection (3), subsection 32AF(2) ceases to prevent the individual from being entitled, on and after 1 July 2013, to be paid family tax benefit worked out on an estimated income basis.
-
-Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
-
-##### <a id="32AI"></a>32AI  Exception—income support payments
-
-Scope
-
-             (1)  This section applies if, on a day (the **_income support day_**) after the later of the consecutive years, the individual, or the individual’s partner (if any), is receiving support (**_income support_**), in the form of a social security pension, a social security benefit, a service pension or income support supplement.
-
-Trigger day is on or before exclusion day
-
-             (2)  If the trigger day is on or before the exclusion day, subsection 32AF(2) is taken not to apply to the individual.
-
-Trigger day is after exclusion day
-
-             (3)  If the trigger day is after the exclusion day, subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
-
-Trigger day for income support payments
-
-             (4)  In this section:
-
-                    <a name="trigger-dai"></a>**_trigger day_** means the later of:
-
-                     (a)  the earliest income support day; and
-
-                     (b)  1 July of the income year the Secretary becomes aware that the individual, or the individual’s partner, is receiving the income support.
-
-Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
-
-##### <a id="32AJ"></a>32AJ  Exception—new FTB child
-
-Scope
-
-             (1)  This section applies if, on a day (the **_FTB child day_**) after the later of the consecutive years:
-
-                     (a)  the individual has an FTB child; and
-
-                     (b)  the child was not an FTB child of the individual at any time during the consecutive years.
-
-Trigger day is on or before exclusion day
-
-             (2)  If the trigger day is on or before the exclusion day, subsection 32AF(2) is taken not to apply to the individual.
-
-Trigger day is after exclusion day
-
-             (3)  If the trigger day is after the exclusion day, subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
-
-Trigger day for new FTB child
-
-             (4)  In this section:
-
-                    <a name="trigger-dai"></a>**_trigger day_** means the later of:
-
-                     (a)  the earliest FTB child day; and
-
-                     (b)  1 July of the income year the Secretary becomes aware of the existence of the FTB child.
-
-Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
-
-##### <a id="32AK"></a>32AK  Exception—couple separates
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  at the end of the later of the consecutive years, the individual is a member of a couple; and
-
-                     (b)  on any later day (a **_separation day_**) the individual ceases to be a member of that couple.
-
-Note:          Paragraph (b) may apply more than once, for example if the couple separates, then reconciles, then again separates.
-
-Trigger day is on or before exclusion day
-
-             (2)  If the trigger day is on or before the exclusion day, subsection 32AF(2) is taken not to apply to the individual.
-
-Trigger day is after exclusion day
-
-             (3)  If the trigger day is after the exclusion day, subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
-
-Reconciliation of separated couple
-
-             (4)  However, if on any day (the **_reconciliation day_**) after a separation day, the individual again becomes a member of that couple, then subsection 32AF(2) applies in relation to the individual as if the reconciliation day were the exclusion day.
-
-Note:          This subsection may apply more than once, for example if the couple separates, then reconciles, then again separates and reconciles.
-
-Trigger day for separation
-
-             (5)  In this section:
-
-                    <a name="trigger-dai"></a>**_trigger day_**, in relation to a particular separation day, means the later of:
-
-                     (a)  the separation day; and
-
-                     (b)  1 July of the income year the Secretary becomes aware that the individual has (on that separation day) ceased to be a member of that couple.
-
-Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
-
-##### <a id="32AL"></a>32AL  Exception—special circumstances
-
-Scope
-
-             (1)  This section applies if the Secretary is satisfied that:
-
-                     (a)  on a day (the **_special circumstances day_**) after the later of the consecutive years, special circumstances exist in relation to the individual, the individual’s partner (if any) or both; and
-
-                     (b)  those circumstances did not exist at the end of the later of the consecutive years; and
-
-                     (c)  those circumstances make it inappropriate to prevent the individual from being entitled to be paid the Part A rate and the Part B rate of family tax benefit worked out on an estimated income basis.
-
-Trigger day is on or before exclusion day
-
-             (2)  If the trigger day is on or before the exclusion day, the Secretary must determine that subsection 32AF(2) is taken not to apply to the individual.
-
-Trigger day is after exclusion day
-
-             (3)  If the trigger day is after the exclusion day, the Secretary must determine that subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
-
-Secretary’s determinations—general
-
-             (4)  A determination under subsection (2) or (3):
-
-                     (a)  has effect in accordance with its terms; and
-
-                     (b)  is not a legislative instrument.
-
-Trigger day for special circumstances
-
-             (5)  In this section:
-
-                    <a name="trigger-dai"></a>**_trigger day_** means the later of:
-
-                     (a)  the special circumstances day; and
-
-                     (b)  1 July of the income year the Secretary becomes aware of the existence of the special circumstances.
-
-Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
-
-##### <a id="32AM"></a>32AM  Exception—determined circumstances
-
-Scope
-
-             (1)  This section applies if the Secretary is satisfied that:
-
-                     (a)  on a day (the **_determined circumstances day_**) after the later of the consecutive years, circumstances determined in an instrument under subsection (2) exist in relation to the individual, the individual’s partner (if any) or both; and
-
-                     (b)  the determined circumstances make it inappropriate to prevent the individual from being entitled to be paid the Part A rate and the Part B rate of family tax benefit worked out on an estimated income basis.
-
-             (2)  The Minister may, by legislative instrument, determine circumstances for the purposes of paragraph (1)(a).
-
-Trigger day is on or before exclusion day
-
-             (3)  If the trigger day is on or before the exclusion day, the Secretary must determine that subsection 32AF(2) is taken not to apply to the individual.
-
-Trigger day is after exclusion day
-
-             (4)  If the trigger day is after the exclusion day, the Secretary must determine that subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
-
-Secretary’s determinations—general
-
-             (5)  A determination under subsection (3) or (4):
-
-                     (a)  has effect in accordance with its terms; and
-
-                     (b)  is not a legislative instrument.
-
-Trigger day for determined circumstances
-
-             (6)  In this section:
-
-                    <a name="trigger-dai"></a>**_trigger day_** means the later of:
-
-                     (a)  the determined circumstances day; and
-
-                     (b)  1 July of the income year the Secretary becomes aware of the existence of the determined circumstances.
-
-Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
 
 #### Subdivision D—FTB reconciliation conditions
 
@@ -4551,13 +4209,13 @@ Definitions
 
 Note:          The individual does not have to make a claim for the payment.
 
-             (2)  If, on the bonus test day, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis, the Secretary must not pay the schoolkids bonus to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that bonus test day.
+             (2)  If, on the bonus test day, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on the basis referred to in subsection 20(1), (2A) or (3), the Secretary must not pay the schoolkids bonus to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that bonus test day.
 
-### Division 3—Baby bonus
+### Division 3—Baby bonus and maternity immunisation allowance
 
 ##### <a id="36"></a>36  Need for a claim
 
-                   The only way that a person can become entitled to be paid baby bonus is to make a claim in accordance with this Division.
+                   The only way that a person can become entitled to be paid baby bonus or maternity immunisation allowance is to make a claim in accordance with this Division.
 
 ##### <a id="37"></a>37  Who can claim
 
@@ -4567,9 +4225,9 @@ Note:          The individual does not have to make a claim fo
 
              (1)  An individual (the **_claimant_**) may make a claim for payment of:
 
-                     (a)  baby bonus in normal circumstances; or
+                     (a)  baby bonus or maternity immunisation allowance in normal circumstances; or
 
-                     (b)  baby bonus because of the death of another individual.
+                     (b)  baby bonus or maternity immunisation allowance because of the death of another individual.
 
              (2)  A claim is not effective unless:
 
@@ -4591,9 +4249,9 @@ Note:          The individual does not have to make a claim fo
 
                             for the 6 month period mentioned in paragraph 36(2)(d), (3)(e), (4)(c) or (5)(d) of the Family Assistance Act; and
 
-                     (b)  in the case of a claim for baby bonus in normal circumstances—the tax file number requirement in section 38A has been satisfied in relation to the claim; and
+                     (b)  in the case of a claim for baby bonus or maternity immunisation allowance in normal circumstances—the tax file number requirement in section 38A has been satisfied in relation to the claim; and
 
-                     (c)  in the case of a claim by an individual for baby bonus because of the death of another individual—the tax file number requirement in section 38B has been satisfied in relation to the claim.
+                     (c)  in the case of a claim by an individual for baby bonus or maternity immunisation allowance because of the death of another individual—the tax file number requirement in section 38B has been satisfied in relation to the claim.
 
           (2A)  A claim is not effective if it is made before the early claim day.
 
@@ -4605,7 +4263,7 @@ Estimate of adjusted taxable income
 
                      (b)  disregard subclause 2(2) and clauses 3 and 3A of that Schedule.
 
-##### <a id="38A"></a>38A  Tax file number requirement to be satisfied for claims for baby bonus in normal circumstances to be effective
+##### <a id="38A"></a>38A  Tax file number requirement to be satisfied for claims for baby bonus or maternity immunisation allowance in normal circumstances to be effective
 
              (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 38(2)(b) (which states what is required for certain claims to be effective).
 
@@ -4659,7 +4317,7 @@ Exemption from tax file number requirement
 
                              (ii)  a statement by the person under subsection (4) or (5).
 
-##### <a id="38B"></a>38B  Tax file number requirement to be satisfied for claims for baby bonus because of the death of another individual to be effective
+##### <a id="38B"></a>38B  Tax file number requirement to be satisfied for claims for baby bonus or maternity immunisation allowance because of the death of another individual to be effective
 
              (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 38(2)(c) (which states what is required for claims in substitution because of the death of another individual to be effective).
 
@@ -4711,7 +4369,7 @@ Exemption from tax file number requirement
 
 “Normal circumstances” entitlement must not already have been determined, or be awaiting determination, on a previous claim
 
-             (1)  A claim for payment of baby bonus in normal circumstances is not effective if the claimant has previously made such a claim based on the same circumstances (whether or not the claim has yet been determined).
+             (1)  A claim for payment of baby bonus or maternity immunisation allowance in normal circumstances is not effective if the claimant has previously made such a claim based on the same circumstances (whether or not the claim has yet been determined).
 
           (1A)  However, subsection (1) does not apply to a claim for payment of baby bonus in respect of a child if:
 
@@ -4745,9 +4403,132 @@ Extension of 52 week period in subsection (2)
 
 subsection (2) of this section does not apply if the claim for payment of baby bonus is made within the period of 13 weeks after the day on which the notice is given.
 
+“Normal circumstances” maternity immunisation allowance claim
+
+             (4)  A claim for payment of maternity immunisation allowance in normal circumstances is not effective if it is made after the time specified in the following table:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="44%">
+  <col width="46%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Normal</b>
+        <b>circumstances maternity immunisation allowance claim</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>If the claim is based on eligibility for the allowance under:</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>the claim is not effective if it is made after:</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Subsection 39(2) of the Family Assistance Act</div>
+  </td>
+  <td>
+    <div>2 years after the birth of the child</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Subsection 39(2A) of the Family Assistance Act</div>
+  </td>
+  <td>
+    <div>5 years after the birth of the child</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Subsection 39(3) of the Family Assistance Act</div>
+  </td>
+  <td>
+    <div>5 years after the delivery of the child</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Subsection 39(4) of the Family Assistance Act</div>
+  </td>
+  <td>
+    <div>the later of:</div>
+    <div>(a) 2 years after the death of the child; and</div>
+    <div>(b) 5 years after the birth of the child</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Subsection 39(5) of the Family Assistance Act</div>
+  </td>
+  <td>
+    <div>4 years after the birth of the child</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>Subsection 39(6) of the Family Assistance Act</div>
+  </td>
+  <td>
+    <div>(a) if subsection 39(7) of that Act applies—2 years beginning on the day
+      of the arrival mentioned in paragraph 39(6)(d) of that Act; or</div>
+    <div>(b) if subsection 39(8) of that Act applies—2 years after the death of
+      the child</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>Subsection 39(9) of the Family Assistance Act</div>
+  </td>
+  <td>
+    <div>the later of:</div>
+    <div>(a) 2 years after the death of the child; and</div>
+    <div>(b) 5 years after the birth of the child</div>
+  </td>
+</tr></table>
+
 “Bereavement” entitlement must not already have been determined, or be awaiting determination, on a previous claim
 
-             (5)  A claim for payment of baby bonus because of the death of another individual is not effective if the claimant has previously made such a claim because of the death of that individual (whether or not the claim has yet been determined).
+             (5)  A claim for payment of baby bonus or maternity immunisation allowance because of the death of another individual is not effective if the claimant has previously made such a claim because of the death of that individual (whether or not the claim has yet been determined).
 
 ##### <a id="40"></a>40  Claim may be withdrawn
 
@@ -4805,6 +4586,80 @@ the Secretary must not determine the claim for baby bonus until one of the follo
 
                      (e)  the claim for parental leave pay is withdrawn under section 61 of that Act.
 
+Deferral of “normal circumstances” maternity immunisation allowance determination pending birth etc. of child
+
+          (4A)  If:
+
+                     (a)  the claim is one for payment of maternity immunisation allowance in normal circumstances, based on eligibility for the allowance under subsection 39(2), (2A) or (5) of the Family Assistance Act, or subsection 39(6) of that Act (where subsection 39(7) of that Act applies), in respect of a child; and
+
+                     (b)  at the time the determination would otherwise be made, the child is not an FTB child of the claimant; and
+
+                     (c)  the Secretary is satisfied that, at the time the determination would otherwise be made, if the child were to become an FTB child of the claimant, the claimant:
+
+                              (i)  would be likely to be eligible for family tax benefit in respect of the child; or
+
+                             (ii)  would be likely to be so eligible except that the claimant’s rate of family tax benefit, worked out under Division 1 of Part 4 of the Family Assistance Act, would be nil;
+
+the Secretary must not determine the claim for maternity immunisation allowance until the earlier of the following:
+
+                     (d)  the time when the child becomes an FTB child of the claimant, or is stillborn;
+
+                     (e)  28 days after the day that, on the day the claim is made, is the expected day on which the child to whom the claim relates will become an FTB child of the claimant.
+
+Deferral of “normal circumstances” maternity immunisation allowance determination because of ineligibility
+
+             (5)  If:
+
+                     (a)  the claim is one for payment of maternity immunisation allowance in normal circumstances, based on eligibility for the allowance under subsection 39(2), (2A) or (5) of the Family Assistance Act, or subsection 39(6) of that Act (where subsection 39(7) of that Act applies), in respect of a child; and
+
+                     (b)  at the time the determination would otherwise be made on the claim:
+
+                              (i)  the claimant is not eligible for maternity immunisation allowance under subsection 39(2), (2A), (5) or (6) of that Act in respect of the child; and
+
+                             (ii)  the child is an FTB child of the claimant; and
+
+                            (iii)  the claimant is eligible for family tax benefit in respect of the child or would be so eligible except that the claimant’s rate of family tax benefit, worked out under Division 1 of Part 4 of the Family Assistance Act, is nil;
+
+the Secretary must not determine the claim until after the time mentioned in subsection (6).
+
+             (6)  The time for the purposes of subsection (5) is:
+
+                     (a)  if the claim is based on eligibility for the allowance under subsection 39(2) of the Family Assistance Act:
+
+                              (i)  if the claimant becomes eligible for maternity immunisation allowance under subsection 39(2) of that Act in respect of the child before the end of 2 years after the child was born—the time when the claimant becomes so eligible; or
+
+                             (ii)  in any other case—2 years after the child was born; or
+
+                     (b)  if the claim is based on eligibility for the allowance under subsection 39(2A) of the Family Assistance Act:
+
+                              (i)  if the claimant becomes eligible for maternity immunisation allowance under subsection 39(2A) of that Act in respect of the child before the end of 5 years after the child was born—the time when the claimant becomes so eligible; or
+
+                             (ii)  in any other case—5 years after the child was born; or
+
+                     (c)  if the claim is based on eligibility for the allowance under subsection 39(5) of the Family Assistance Act:
+
+                              (i)  if the claimant becomes eligible for maternity immunisation allowance under subsection 39(5) of that Act in respect of the child before the end of 4 years after the child was born—the time when the claimant becomes so eligible; or
+
+                             (ii)  in any other case—4 years after the child was born; or
+
+                     (d)  if the claim is based on eligibility for the allowance under subsection 39(6) of the Family Assistance Act (where subsection 39(7) of that Act applies):
+
+                              (i)  if the claimant becomes eligible for maternity immunisation allowance under subsection 39(6) of that Act (where subsection 39(7) of that Act applies) in respect of the child before the end of 2 years beginning on the day of the arrival mentioned in paragraph 39(6)(d) of that Act—the time when the claimant becomes so eligible; or
+
+                             (ii)  in any other case—2 years beginning on the day of the arrival mentioned in paragraph 39(6)(d) of that Act.
+
+Effect of section 22A of the Family Assistance Act
+
+             (7)  If the claim is one for payment of maternity immunisation allowance in normal circumstances, based on eligibility for the allowance under subsection 39(6) of the Family Assistance Act (where subsection 39(7) of that Act applies), then, for the purposes of paragraphs (4A)(b), (c) and (d) and subparagraphs (5)(b)(ii) and (iii) of this section, the following provisions are to be disregarded:
+
+                     (a)  paragraph (a) of item 1 of the table in subsection 22A(1) of the Family Assistance Act;
+
+                     (b)  paragraphs (a) and (c) of item 2 of that table;
+
+                     (c)  item 3 of that table.
+
+Note:          Section 22A of the Family Assistance Act sets out exceptions to when an individual can be an FTB child of another individual. This subsection removes some of those exceptions.
+
 ##### <a id="41A"></a>41A  Restriction on determining claim where tax file number not provided etc.
 
 Statement that TFN claim person or TFN substitution person does not know what his or her tax file number is etc.
@@ -4847,25 +4702,37 @@ the Secretary can only determine the claim concerned if:
 
                    If:
 
-                     (a)  the claim is one for payment of baby bonus in normal circumstances; and
+                     (a)  the claim is one for payment of baby bonus or maternity immunisation allowance in normal circumstances; and
 
-                     (b)  the Secretary is satisfied that the claimant is eligible for baby bonus in accordance with Subdivision A of Division 2 of Part 3 of the Family Assistance Act in respect of the child to whom the claim relates;
+                     (b)  the Secretary is satisfied that the claimant is eligible for:
 
-the Secretary must determine that the claimant is entitled to be paid the baby bonus and must determine the amount of the baby bonus that the claimant is entitled to be paid.
+                              (i)  baby bonus in accordance with Subdivision A of Division 2 of Part 3 of the Family Assistance Act; or
+
+                             (ii)  maternity immunisation allowance in accordance with Subdivision A of Division 3 of that Act;
+
+                            as the case requires, in respect of the child to whom the claim relates;
+
+the Secretary must determine that the claimant is entitled to be paid the baby bonus or maternity immunisation allowance and must determine the amount of the baby bonus or maternity immunisation allowance that the claimant is entitled to be paid.
 
 ##### <a id="43"></a>43  Determination of “bereavement” entitlement claim
 
                    If:
 
-                     (a)  the claim is one for payment of baby bonus because of the death of another individual; and
+                     (a)  the claim is one for payment of baby bonus or maternity immunisation allowance because of the death of another individual; and
 
-                     (b)  the Secretary is satisfied that the claimant is, in the circumstances covered by the claim, eligible for baby bonus in accordance with Subdivision B of Division 2 of Part 3 of the Family Assistance Act;
+                     (b)  the Secretary is satisfied that the claimant is, in the circumstances covered by the claim, eligible for:
 
-the Secretary must determine that the claimant is entitled to be paid the baby bonus and must determine the amount of the baby bonus that the claimant is entitled to be paid.
+                              (i)  baby bonus in accordance with Subdivision B of Division 2 of Part 3 of the Family Assistance Act; or
+
+                             (ii)  maternity immunisation allowance in accordance with Subdivision B of Division 3 of that Act;
+
+                            as the case requires;
+
+the Secretary must determine that the claimant is entitled to be paid the baby bonus or maternity immunisation allowance and must determine the amount of the baby bonus or maternity immunisation allowance that the claimant is entitled to be paid.
 
 ##### <a id="44"></a>44  Determination that no entitlement
 
-                   If the Secretary is not satisfied as mentioned in section 42 or 43, the Secretary must determine that the claimant is not entitled to be paid baby bonus in respect of the child to whom the claim relates, or in the circumstances covered by the claim, as the case requires.
+                   If the Secretary is not satisfied as mentioned in section 42 or 43, the Secretary must determine that the claimant is not entitled to be paid baby bonus or maternity immunisation allowance in respect of the child to whom the claim relates, or in the circumstances covered by the claim, as the case requires.
 
 ##### <a id="45"></a>45  When determination is in force
 
@@ -4875,9 +4742,9 @@ the Secretary must determine that the claimant is entitled to be paid the baby b
 
              (1)  The Secretary must give notice of the determination to the claimant, stating:
 
-                     (a)  whether the claimant is entitled to be paid baby bonus under the determination; and
+                     (a)  whether the claimant is entitled to be paid baby bonus or maternity immunisation allowance under the determination; and
 
-                     (b)  if the claimant is entitled—the amount of the baby bonus and how it is to be paid; and
+                     (b)  if the claimant is entitled—the amount of the baby bonus or maternity immunisation allowance and how it is to be paid; and
 
                      (c)  that the claimant may apply for review of the determination in the manner set out in Part 5.
 
@@ -4921,7 +4788,7 @@ Upfront part
 
                      (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -4985,15 +4852,25 @@ Definitions
 
                      (b)  each successive period of 7 days.
 
-##### <a id="47AB"></a>47AB  Other rules about payments of baby bonus
+##### <a id="47AA"></a>47AA  Payment of maternity immunisation allowance
+
+             (1)  If the claimant is entitled to be paid maternity immunisation allowance, the Secretary must pay it to the claimant, at such time as the Secretary considers appropriate and to the credit of a bank account nominated and maintained by the claimant.
+
+Note:          Section 47AB provides for rounding of the amounts of payments.
+
+Alternative payment arrangements
+
+             (2)  The Secretary may direct that the whole or a part of an amount that is to be paid for the purposes of subsection (1) is to be paid in a way different from that provided for by that subsection. If the Secretary gives the direction, the amount is to be paid in accordance with the direction (despite that subsection).
+
+##### <a id="47AB"></a>47AB  Other rules about payments of baby bonus and maternity immunisation allowance
 
 Rounding of payments
 
-             (1)  If an amount to be paid under section 47 is not a whole number of cents, it must be rounded to the nearest cent (rounding 0.5 cents upwards).
+             (1)  If an amount to be paid under section 47 or 47AA is not a whole number of cents, it must be rounded to the nearest cent (rounding 0.5 cents upwards).
 
-Relationship of section 47 with other provisions
+Relationship of sections 47 and 47AA with other provisions
 
-             (2)  Section 47 is subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
+             (2)  Sections 47 and 47AA are subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
 
 ##### <a id="47A"></a>47A  Variation of determination where certain statements under section 38A made
 
@@ -5001,7 +4878,7 @@ Relationship of section 47 with other provisions
 
                      (a)  a TFN claim person has made a statement of the kind set out in subsection 38A(4); and
 
-                     (b)  a determination is in force under which the claimant is entitled to be paid baby bonus in normal circumstances; and
+                     (b)  a determination is in force under which the claimant is entitled to be paid baby bonus or maternity immunisation allowance in normal circumstances; and
 
                      (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN claim person has no tax file number;
 
@@ -5011,13 +4888,13 @@ the consequence in subsection (3) applies.
 
                      (a)  a TFN claim person has made a statement of the kind set out in subsection 38A(5); and
 
-                     (b)  a determination is in force under which the claimant is entitled to be paid baby bonus in normal circumstances; and
+                     (b)  a determination is in force under which the claimant is entitled to be paid baby bonus or maternity immunisation allowance in normal circumstances; and
 
                      (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN claim person has not applied for a tax file number, that an application by the person for a tax file number has been refused or that the person has withdrawn an application for a tax file number;
 
 the consequence in subsection (3) applies.
 
-             (3)  For the purposes of subsection (1) or (2), the consequence is that the Secretary may vary the determination so that it has the effect that the claimant is not entitled to be paid baby bonus.
+             (3)  For the purposes of subsection (1) or (2), the consequence is that the Secretary may vary the determination so that it has the effect that the claimant is not entitled to be paid baby bonus or maternity immunisation allowance, as the case may be.
 
              (4)  If:
 
@@ -6421,7 +6298,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image002.gif)
 
 where:
 
@@ -6475,7 +6352,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image002.gif)
 
 where:
 
@@ -7520,7 +7397,7 @@ Variations
 
                             (iii)  if subparagraph 55B(2)(c)(ii) applies to the claimant—subsection (5);
 
-                            for the purposes of having the Secretary reconsider the claim; and
+                            for the purposes of having the Secretary reconsider the claim; and
 
                      (d)  the Secretary is satisfied that, if the claimant were to be entitled to be paid child care benefit in respect of the claim, the amount of the entitlement would be more than a nil amount;
 
@@ -8935,7 +8812,7 @@ Note:          The individual does not have to make a claim fo
 
 Note:          The individual does not have to make a claim for the payment.
 
-             (2)  If, on 8 May 2012, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis, the Secretary must not pay the ETR payment to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that day.
+             (2)  If, on 8 May 2012, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on the basis referred to in subsection 20(1), (2A) or (3), the Secretary must not pay the ETR payment to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that day.
 
 ### Division 4D—Clean energy advance
 
@@ -8953,7 +8830,7 @@ Note:          The individual does not have to make a claim fo
 
                      (a)  the decision day (see subsection 105(1) of the Family Assistance Act) or the trigger day (see subsection 108(1), (1A) or (2) of that Act), as the case may be, is on or after 1 July 2012 and before 1 July 2013; and
 
-                     (b)  on that day, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis;
+                     (b)  on that day, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on the basis referred to in subsection 20(1), (2A) or (3) of this Act;
 
 then the Secretary must not pay the clean energy advance to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that day.
 
@@ -8961,7 +8838,7 @@ then the Secretary must not pay the clean energy advance to the individual at a 
 
                      (a)  the decision day (see subsection 105(1) of the Family Assistance Act) is on or after 1 July 2013; and
 
-                     (b)  in relation to one or more days in the 2012‑13 income year, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis;
+                     (b)  in relation to one or more days in the 2012‑13 income year, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on the basis referred to in subsection 20(1), (2A) or (3) of this Act;
 
 then the Secretary must not pay the clean energy advance to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to those days.
 
@@ -9479,6 +9356,8 @@ the Secretary must vary the determination to undo the effect mentioned in subsec
 
                      (c)  baby bonus;
 
+                     (d)  maternity immunisation allowance;
+
                      (e)  child care benefit;
 
                     (ea)  child care rebate;
@@ -9623,7 +9502,7 @@ No entitlement to amount
 
              (1)  If:
 
-                     (a)  an amount has been paid to a person by way of family tax benefit, baby bonus, single income family supplement or schoolkids bonus (the **_assistance_**) in respect of a period or event; and
+                     (a)  an amount has been paid to a person by way of family tax benefit, baby bonus, maternity immunisation allowance, single income family supplement or schoolkids bonus (the **_assistance_**) in respect of a period or event; and
 
                      (b)  the person was not entitled to the assistance in respect of that period or event;
 
@@ -10597,7 +10476,7 @@ the determination ceases to have effect from and including the day on which the 
 
              (7)  The Secretary may cancel or vary the determination by written notice given to the person.
 
-##### <a id="78B"></a>78B  Administrative charge
+##### <a id="78B"></a>78B  Administrative charge
 
              (1)  When a person first becomes liable to pay interest under section 78 in respect of the outstanding amount of a particular debt, the person is liable to pay an administrative charge of $50 in respect of the outstanding amount of that debt.
 
@@ -11057,7 +10936,7 @@ the Secretary may give a written notice to the institution setting out the matte
 
                     <a name="famili-assist-payment"></a>**_family assistance payment_** means:
 
-                     (a)  a payment of family tax benefit, baby bonus, child care benefit or family tax benefit advance; or
+                     (a)  a payment of a benefit, allowance or advance that constitutes family assistance within the meaning of the Family Assistance Act; or
 
                     (aa)  a payment of single income family supplement; or
 
@@ -11285,7 +11164,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00569/Html/40e11224-bddb-4758-a484-329922519c7e_files/image004.gif)
 
 where:
 
@@ -11593,7 +11472,7 @@ Meaning of determination decision
 
 ##### <a id="107"></a>107  Date of effect of certain decisions made under section 105
 
-             (1)  Subject to subsections (3), (3A), (3B), (3C) and (3D), if:
+             (1)  Subject to subsections (3), (3A) and (3B), if:
 
                      (a)  the Secretary reviews, under section 105, a decision (the **_original decision_**) relating to the payment to a person of family tax benefit by instalment; and
 
@@ -11659,19 +11538,7 @@ on the basis of the return lodged by each such person before the end of the inco
 
                              (ii)  at any time, the Secretary is satisfied that section 61A of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day.
 
-          (3B)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the review is undertaken because of subsections 61A(1), (2) and (2A) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act.
-
-          (3C)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the following apply:
-
-                     (a)  under section 61B of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person, an FTB child of the person and a day;
-
-                     (b)  the review is undertaken because:
-
-                              (i)  before the end of the second income year after the income year in which the FTB child turned 1, 2 or 5 (as the case requires), the Secretary becomes aware of information suggesting that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day; and
-
-                             (ii)  at any time, the Secretary is satisfied that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day.
-
-          (3D)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the review is undertaken because of subsections 61B(1), (2) and (3) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61B(4) of that Act.
+          (3B)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the review is undertaken because of subsection 61A(1) or (2) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act.
 
              (4)  In this section:
 
@@ -11737,7 +11604,7 @@ Decisions that may and may not be reviewed under section 109A
 
                       (f)  except as mentioned in subsection (3), a determination about a person’s entitlement to child care benefit or a person’s CCB % under section 50J, if that determination:
 
-                              (i)  is not a determination made under section 50J, because of the application of subsection 55(2), or an entitlement determination made under section 53D, because of the operation of subsection 55A(2), or a determination varied under section 60E; and
+                              (i)  is not a determination made under section 50J, because of the operation of subsection 55(2), or an entitlement determination made under section 53D, because of the application of subsection 55(2), or a determination varied under section 60E; and
 
                              (ii)  is wholly or partly based on an estimate of the amount of adjusted taxable income in a particular income year, to the extent that the determination is so based; or
 
@@ -11949,17 +11816,7 @@ Further exceptions
 
                             (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 4; or
 
-                     (e)  the family assistance is family tax benefit and the application for review is made because of subsections 61A(1), (2) and (2A) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act; or
-
-                      (f)  the family assistance is family tax benefit and the following apply:
-
-                              (i)  under section 61B of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person, an FTB child of the person and a day;
-
-                             (ii)  the Secretary is satisfied the application for review is made because the person considers that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day;
-
-                            (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 1, 2 or 5 (as the case requires); or
-
-                     (g)  the family assistance is family tax benefit and the application for review is made because of subsections 61B(1), (2) and (3) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61B(4) of that Act.
+                     (e)  the family assistance is family tax benefit and the application for review is made because of subsection 61A(1) or (2) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act.
 
              (5)  In subsection (4), a reference to a relevant person, in relation to the person first‑mentioned in that subsection, is a reference:
 
@@ -12027,17 +11884,7 @@ the date of effect of the review decision is:
 
                             (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 4; or
 
-                     (e)  the application for review is made because of subsections 61A(1), (2) and (2A) of the Family Assistance Act not applying in relation to the person mentioned in paragraph (1)(a) of this section because of the operation of subsection 61A(3) of that Act; or
-
-                      (f)  the following apply:
-
-                              (i)  under section 61B of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person mentioned in paragraph (1)(a) of this section, an FTB child of the person and a day;
-
-                             (ii)  the Secretary is satisfied the application for review is made because the person considers that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day;
-
-                            (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 1, 2 or 5 (as the case requires); or
-
-                     (g)  the application for review is made because of subsections 61B(1), (2) and (3) of the Family Assistance Act not applying in relation to the person mentioned in paragraph (1)(a) of this section because of the operation of subsection 61B(4) of that Act.
+                     (e)  the application for review is made because of subsection 61A(1) or (2) of the Family Assistance Act not applying in relation to the person mentioned in paragraph (1)(a) of this section because of the operation of subsection 61A(3) of that Act.
 
              (4)  In subsection (3), a reference to a relevant person, in relation to the person first‑mentioned in that subsection, is a reference:
 
@@ -13181,7 +13028,7 @@ application may also be made to the AAT for the review of the decision.
 
 the Secretary may, if satisfied that it is reasonable to do so, deem the event to have occurred for the purposes of the family assistance law.
 
-##### <a id="145"></a>145  Variation of decision under section 144 before AAT review completed
+##### <a id="145"></a>145  Variation of decision under section 144 before AAT review completed
 
              (1)  If an officer varies a decision after an application has been made under section 144 to the AAT for review of that decision but before the determination of the application, the application is to be treated as if the application were an application for review of the decision as varied.
 
@@ -14097,7 +13944,7 @@ having power to require the production of documents or the answering of question
 
 ##### <a id="177"></a>177  Penalty for contravention of Subdivision B
 
-                   A person who contravenes a provision of Subdivision B is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 12 months.
+                   A person who contravenes a provision of Subdivision B is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 12 months.
 
 ##### <a id="178"></a>178  Repayment of family assistance
 
@@ -16135,7 +15982,7 @@ Note:          This is a civil penalty provision. Part 8C pr
 
 Note:          For **_child care service payment_** see subsection 3(1).
 
-##### <a id="219QB"></a>219QB  Remitting amounts that cannot be passed on
+##### <a id="219QB"></a>219QB  Remitting amounts that cannot be passed on
 
              (1)  If:
 
@@ -16420,6 +16267,8 @@ Note:          For **_child care service payment_** see subsec
                     (ca)  schoolkids bonus; or
 
                      (d)  baby bonus; or
+
+                     (e)  maternity immunisation allowance; or
 
                       (f)  child care benefit by fee reduction; or
 
@@ -17291,4 +17140,220 @@ the Commonwealth is liable to refund the penalty.
 
              (2)  Any liability of the person for the alleged civil contraventions is discharged.
 
-             (3)  Proceedings under Division 1 must not be brought against the 
+             (3)  Proceedings under Division 1 must not be brought against the person for the alleged civil contraventions.
+
+##### <a id="219TSN"></a>219TSN  Effect of this Division on civil proceedings
+
+                   This Division does not:
+
+                     (a)  require an infringement notice to be given in relation to an alleged civil contravention; or
+
+                     (b)  affect the liability of a person to have proceedings under Division 1 brought against the person for an alleged civil contravention if:
+
+                              (i)  the person does not comply with an infringement notice relating to the contravention; or
+
+                             (ii)  an infringement notice relating to the contravention is not given to the person; or
+
+                            (iii)  an infringement notice relating to the contravention is given to the person and subsequently withdrawn; or
+
+                     (c)  limit the discretion of the Federal Court of Australia or the Federal Magistrates Court to determine the amount of a penalty to be imposed on a person who is found in proceedings under Division 1 to have contravened a civil penalty provision.
+
+Note:          This Division also does not limit, nor is it affected by, other compliance measures in this Act (for example, sanctions under section 200).
+
+##### <a id="219TSO"></a>219TSO  Appointment of authorised person
+
+                   The Secretary may, by writing, appoint an officer of the Department as an authorised person for the purposes of this Division.
+
+##### <a id="219TSP"></a>219TSP  Regulations
+
+                   The regulations may make further provision in relation to infringement notices.
+
+### Division 3—Suspension of approved child care service’s approval
+
+##### <a id="219TSQ"></a>219TSQ  Suspension of approved child care service’s approval
+
+             (1)  The Secretary may, by notice given to a person who operates an approved child care service, suspend the service’s approval if:
+
+                     (a)  10 infringement notices under section 219TSI are given to the person in relation to the service within a period (the **_infringement period_**) of 12 months; and
+
+                     (b)  in relation to each notice, the time for paying the penalty specified in the notice has ended before the end of the infringement period.
+
+             (2)  The notice must:
+
+                     (a)  specify a day, not earlier than the day on which the notice is given, on which the suspension takes effect; and
+
+                     (b)  specify the grounds upon which the Secretary has suspended the service’s approval.
+
+             (3)  The Secretary may, by notice given to a person who operates the service, revoke the suspension with effect from the day specified in the notice.
+
+## Part 9—Other matters
+
+##### <a id="220"></a>220  General administration of family assistance law
+
+                   The Secretary is, subject to any direction of the Minister, to have the general administration of the family assistance law.
+
+##### <a id="220A"></a>220A  Minister requiring person to assist in criminal proceedings
+
+             (1)  A person commits an offence if:
+
+                     (a)  the Minister requests, in writing, the person to give all reasonable assistance in connection with criminal proceedings for an offence against this Act; and
+
+                     (b)  the person fails to comply with the request.
+
+                    Penalty:  10 penalty units.
+
+Note:          This section does not abrogate or affect the law relating to legal professional privilege, or any other immunity, privilege or restriction that applies to the disclosure of information, document or other things.
+
+             (2)  A request under subsection (1) is not a legislative instrument.
+
+             (3)  The Minister can request a person to assist under subsection (1) if, and only if:
+
+                     (a)  it appears to the Minister that the person is unlikely:
+
+                              (i)  to be a defendant in the proceedings; or
+
+                             (ii)  to have contravened a civil penalty provision constituted by the same, or substantially the same, conduct as the conduct to which the proceedings relates; and
+
+                     (b)  the Minister suspects or believes that the person can give information relevant to the proceedings.
+
+             (4)  The Minister cannot request a person to assist under subsection (1) if the person is or has been a lawyer for a defendant or likely defendant in the proceedings.
+
+             (5)  A court may order a person to comply with a request under subsection (1) in a specified way. Only the Minister may apply to the court for an order under this subsection _._
+
+             (6)  For the purposes of this section, it does not matter whether criminal proceedings for the offence have actually begun.
+
+             (7)  In this section:
+
+                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against Chapter 7 of the _Criminal Code_ that relates to this Act.
+
+##### <a id="221"></a>221  Delegation
+
+             (1)  Subject to this section, the Secretary may delegate to an officer all or any of the powers of the Secretary under the family assistance law, other than the power to engage an expert to carry out an independent audit as mentioned in section 219GB.
+
+             (2)  The Secretary must not delegate such a power to an officer of the Human Services Department, unless the Secretary of the Human Services Department has agreed to the delegation.
+
+             (3)  The Secretary must not delegate the Secretary’s power under subparagraph 168(1)(b)(i) (disclosure of information) except to the Secretary of the Human Services Department, the Chief Executive Centrelink or the Chief Executive Medicare.
+
+             (4)  The Secretary must not delegate to an officer, other than an SES employee or acting SES employee, the Secretary’s powers under either of the following:
+
+                     (a)  section 219GA (Secretary requiring information from person);
+
+                     (b)  Division 2 of Part 8C (infringement notices).
+
+##### <a id="221A"></a>221A  Committees
+
+             (1)  The Minister may in writing establish committees for the purposes of the family assistance law.
+
+Functions
+
+             (2)  A committee has the functions determined in writing by the Minister.
+
+             (3)  A committee must, in performing its functions, comply with any directions given to the committee by the Minister.
+
+Appointments
+
+             (4)  A committee consists of the members appointed in writing by the Minister.
+
+             (5)  A member of a committee holds office on a part‑time basis.
+
+Chair
+
+             (6)  The Minister may designate a member of a committee as the Chair of the committee.
+
+Remuneration and allowances
+
+             (7)  A member of a committee is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid the remuneration that is prescribed by the regulations.
+
+             (8)  A member of a committee is to be paid the allowances that are prescribed by the regulations.
+
+             (9)  Subsections (7) and (8) have effect subject to the _Remuneration Tribunal Act 1973_.
+
+Disclosure of interests
+
+           (10)  A member of a committee must give written notice to the Minister of any direct or indirect pecuniary interest that the member has or acquires and that conflicts or could conflict with the proper performance of the member’s functions.
+
+Resignation
+
+           (11)  A member of a committee may resign his or her appointment by giving the Minister a written resignation.
+
+Termination
+
+           (12)  The Minister may at any time terminate the appointment of a member of a committee.
+
+##### <a id="222"></a>222  Decisions to be in writing
+
+             (1)  A decision of the Minister or of an officer under the family assistance law must be in writing.
+
+             (2)  Such a decision is taken to be in writing if it is made, or recorded, by means of a computer.
+
+##### <a id="223"></a>223  Secretary may arrange for use of computer programs to make decisions
+
+             (1)  The Secretary may arrange for the use, under the Secretary’s control, of computer programs for any purposes for which the Secretary may make decisions under the family assistance law.
+
+             (2)  A decision made by the operation of a computer program under an arrangement made under subsection (1) is taken to be a decision made by the Secretary.
+
+##### <a id="224"></a>224  Notice of decisions
+
+             (1)  If a notice of a decision of an officer:
+
+                     (a)  affecting a person’s entitlement to be paid family assistance under the family assistance law; or
+
+                     (b)  affecting a person’s conditional eligibility for child care benefit by fee reduction; or
+
+                     (c)  affecting a weekly limit of hours, a CCB %, a schooling %, eligibility for the special grandparent rate or a rate under section 81 of the Family Assistance Act applicable to a person; or
+
+                  (caa)  about the amount of child care rebate applicable in respect of a person and a child for a week under Subdivision AAB of Division 4AA of Part 3; or
+
+                    (ca)  about the amount of child care rebate applicable in respect of a person and a child for a quarter under Subdivision AA of Division 4AA of Part 3;
+
+is:
+
+                     (d)  delivered to a person personally; or
+
+                     (e)  left at the address of the place of residence or business of the person last known to the Secretary; or
+
+                      (f)  sent by prepaid post to the address of the person last know to the Secretary;
+
+notice of the decision is taken, for the purposes of the family assistance law, to have been given to the person.
+
+             (2)  Notice of a decision of an officer affecting or about a matter referred to in paragraph (1)(a), (b), (c) or (ca) may be given to a person by properly addressing, prepaying and posting the document as a letter.
+
+             (3)  If notice of a decision is given in accordance with subsection (2), notice of the decision is taken to have been given to the person at the time at which the notice would be delivered in the ordinary course of the post, unless the contrary is proved.
+
+##### <a id="224A"></a>224A  Notice of decisions under Part 8 or 8C
+
+             (1)  If a notice of a decision of an officer under Part 8 or 8C  is:
+
+                     (a)  left at the address of the place of business of a child care service last known to the Secretary; or
+
+                     (b)  sent by prepaid post to the address of a child care service last known to the Secretary; or
+
+                     (c)  sent by email to the last known email address of the child care service;
+
+notice of the decision is taken, for the purposes of the family assistance law, to have been given to the service.
+
+             (2)  Notice of a decision of an officer under Part 8 or 8C may be given to a service by properly addressing, prepaying and posting the document as a letter.
+
+             (3)  If notice of a decision is given in accordance with subsection (2), notice of the decision is taken to have been given to the service at the time at which the notice would be delivered in the ordinary course of the post, unless the contrary is proved.
+
+             (4)  For the purposes of this section, a notice of a decision of an officer under Part 8C is:
+
+                     (a)  an infringement notice under section 219TSI; or
+
+                     (b)  a notice of suspension under section 219TSQ.
+
+##### <a id="225"></a>225  Payment of deductions to Commissioner of Taxation
+
+                   The Secretary must, in accordance with section 218 of the _Income Tax Assessment Act 1936,_ or Subdivision 260‑A in Schedule 1 to the _Taxation Administration Act 1953_, for the purpose of enabling the collection of an amount that is, or may become, payable by a recipient of a payment under this Act:
+
+                     (a)  make deductions from the instalments of, or make a deduction from, the payment; and
+
+                     (b)  pay the amount deducted to the Commissioner of Taxation.
+
+This section does not apply to a payment of child care benefit.
+
+##### <a id="226"></a>226  Setting off family assistance entitlement against tax liability
+
+             (1)  If:
+
+                     (a)  a perso
