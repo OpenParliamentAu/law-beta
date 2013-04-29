@@ -1,12 +1,13 @@
 
-International Air Services Commission Act 1992
+International Air Services Commission Act 1992 
 Act No. 103 of 1992 as amended
-This compilation was prepared on 30 July 2001 taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 7 January 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
   
   
+
 Contents
 Part 1—Preliminary	1
 1	Short title [see Note 1]	1
@@ -121,7 +122,7 @@ review means review of a determination under section 10.
 transfer application means an application, by an Australian carrier to whom a determination allocates capacity, for one or both of the following:
 	(a)	a variation of the determination in a way that allocates, or has the effect of allocating, that capacity to another Australian carrier;
 	(b)	a variation of the determination that varies, or has the effect of varying, one or more conditions of a kind referred to in paragraph 15(2)(d), (e) or (f).
-wholly‑owned subsidiary has the same meaning as in the Corporations Act 2001.
+wholly‑owned subsidiary has the same meaning as in the Corporations Law.
 	(2)	A reference in this Act to an allocation of capacity is a reference to a finding, included in a determination, that a specified Australian carrier should be permitted to use that capacity.
 	(3)	A reference in this Act to the benefit to the public in relation to an allocation of capacity is a reference to the benefit to the public that would occur if the Australian carrier to whom the capacity is allocated were permitted to use that capacity.
 	(4)	A reference in this Act to use of capacity is a reference to the operation of an international air service to provide the carriage of passengers or freight, or both passengers and freight, to which the capacity relates.
@@ -535,7 +536,6 @@ pre‑existing capacity means capacity that came into existence before the comme
 Notes to the International Air Services Commission Act 1992
 Note 1
 The International Air Services Commission Act 1992 as shown in this compilation comprises Act No. 103, 1992 amended as indicated in the Tables below. 
-For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
 Table of Acts
 Act
 Number  and year
@@ -562,11 +562,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (item 550): 5 Dec 1999 (see Gazette 1999, No. S584) (b)
 —
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-55, 2001
-28 June 2001
-Ss. 4‑14 and Schedule 3 (item 303): 15 July 2001 (see Gazette 2001, No. S285) (c)
-Ss. 4‑14
 
 (a)	The International Air Services Commission Act 1992 was amended by Schedule 2 (items 1‑22) only of the Aviation Legislation Amendment Act (No. 1) 1998, subsections 2(1) and (3) of which provide as follows:
 	(1)	Subject to subsections (2) and (3), Schedule 1 (other than items 9, 10 and 11) and Schedule 5 commence on a day or days to be fixed by Proclamation.
@@ -574,15 +569,13 @@ Ss. 4‑14
 (b)	The International Air Services Commission Act 1992 was amended by Schedule 1 (item 550) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(c)	The International Air Services Commission Act 1992 was amended by Schedule 3 (item 303) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 4	
-am. No. 139, 1994; No. 95, 1998; No. 55, 2001
+S. 4‑	
+am. No. 139, 1994; No. 95, 1998
 Heading to s. 5	
 rs. No. 95, 1998
 Ss. 5‑7	
