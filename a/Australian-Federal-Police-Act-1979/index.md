@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00530/Html/7ceaafa7-e065-4310-ad77-bc7e4c306570_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00197/Html/ecb5c8ef-f061-49d5-989e-8cc0c117e9e8_files/image001.gif)
 
 # Australian Federal Police Act 1979
 
 **Act No. 58 of 1979 as amended**
 
-This compilation was prepared on 13 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 19 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -574,7 +574,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Repeal
 
-                   The _Commonwealth Police Act 1957_ is repealed.
+                   The _Commonwealth Police Act 1957_ is repealed.
 
 ##### <a id="3A"></a>3A  Overview of Act
 
@@ -725,8 +725,6 @@ Other matters
                     <a name="engag-corrupt-conduct"></a><a name="corrupt-conduct"></a>**_corrupt conduct_**: see **_engages in corrupt conduct_**.
 
                     <a name="corrupt-issu"></a>**_corruption issue_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
-
-                    <a name="csc"></a>**_CSC_**(short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
 
                     <a name="deputi-commission"></a>**_Deputy Commissioner_** means a Deputy Commissioner of Police referred to in section 6.
 
@@ -1916,7 +1914,7 @@ AFP employee is an eligible employee under the Superannuation Act 1976
 
                      (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
 
-is not capable of being retired on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
+is not capable of being retired on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
 AFP employee is a member of the superannuation scheme under the Superannuation Act 1990
 
@@ -1926,7 +1924,7 @@ AFP employee is a member of the superannuation scheme under the Superannuation A
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired on the ground of invalidity (within the meaning of that Act) unless CSC has given a certificate under section 13 of that Act.
+is not capable of being retired on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
 AFP employee is an ordinary employer‑sponsored member under the Superannuation Act 2005
 
@@ -1936,7 +1934,7 @@ AFP employee is an ordinary employer‑sponsored member under the Superannuation
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired on the ground of invalidity (within the meaning of that Act) unless CSC has given an approval and certificate under section 43 of that Act.
+is not capable of being retired on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
 ##### <a id="33"></a>33  Time when retirement on invalidity grounds takes effect
 
@@ -2146,7 +2144,7 @@ Definitions
 
 ##### <a id="38"></a>38  Commissioner’s Orders
 
-                   In the exercise of his or her powers under section 37, the Commissioner may, by writing, issue orders with respect to the general administration of, and the control of the operations of, the Australian Federal Police.
+                   In the exercise of his or her powers under section 37, the Commissioner may, by writing, issue orders with respect to the general administration of, and the control of the operations of, the Australian Federal Police.
 
 ##### <a id="39"></a>39  Compliance with Commissioner’s Orders
 
@@ -3967,7 +3965,7 @@ Direction is not a legislative instrument
 
            (10)  If a direction given by an investigator under subsection (2) is in writing, the direction is not a legislative instrument.
 
-##### <a id="40VH"></a>40VH  Offences
+##### <a id="40VH"></a>40VH  Offences
 
              (1)  An AFP appointee commits an offence if the AFP appointee:
 
@@ -4257,7 +4255,13 @@ whether present or future and whether vested or contingent.
 
                     <a name="superannu-author"></a>**_superannuation authority_** means:
 
-                     (a)  in relation to the superannuation scheme established by the _Superannuation Act 1976_ or by deed under the _Superannuation Act 1990_—CSC; or
+                     (a)  in relation to the superannuation scheme established by the _Superannuation Act 1976_:
+
+                              (i)  for those matters under that Act for which the Board (within the meaning of that Act) is responsible—the Board; and
+
+                             (ii)  for any other matters under that Act—the Commissioner for Superannuation; or
+
+                   (ab)  in relation to the superannuation scheme established by deed under the _Superannuation Act 1990_—the Board (within the meaning of that Act); or
 
                      (b)  in any other case—the person (however described) responsible for the administration of the relevant superannuation scheme.
 
@@ -4339,7 +4343,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00530/Html/7ceaafa7-e065-4310-ad77-bc7e4c306570_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00197/Html/ecb5c8ef-f061-49d5-989e-8cc0c117e9e8_files/image002.gif)
 
 where:
 
@@ -4527,7 +4531,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00530/Html/7ceaafa7-e065-4310-ad77-bc7e4c306570_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00197/Html/ecb5c8ef-f061-49d5-989e-8cc0c117e9e8_files/image003.gif)
 
                             where:
 
@@ -4589,7 +4593,7 @@ the court must:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00530/Html/7ceaafa7-e065-4310-ad77-bc7e4c306570_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00197/Html/ecb5c8ef-f061-49d5-989e-8cc0c117e9e8_files/image004.gif)
 
 where:
 
@@ -6903,40 +6907,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 151–153) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 15–17): <i>(za)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Federal Police Act 1979_ was amended by Part XI (sections 25–30) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
@@ -7330,62 +7300,8 @@ _(z)_     Subsection 2(1) (item 11) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      1 July 2009
-    </div>
-  </td>
-</tr></table>
-
-_(za)_   Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -7442,7 +7358,7 @@ _(za)_   Subsection 2(1) (item 2) of the _Superannuation Legislation (Conseq
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 155, 1979; No. 117, 1984; Nos. 71 and 153, 1989; Nos. 94 and 196, 1992; No. 9, 2000; No. 64, 2004; No. 129, 2005; SLI 2006 No. 50; No. 84, 2006; Nos. 3 and 50, 2007; No. 54, 2009; Nos. 3, 5 and 58, 2011</div>
+    <div>am. No. 155, 1979; No. 117, 1984; Nos. 71 and 153, 1989; Nos. 94 and 196, 1992; No. 9, 2000; No. 64, 2004; No. 129, 2005; SLI 2006 No. 50; No. 84, 2006; Nos. 3 and 50, 2007; No. 54, 2009; Nos. 3 and 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8564,7 +8480,7 @@ rep. No. 152, 2004</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -10228,7 +10144,7 @@ rep. No. 152, 2004</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 147 and 153, 1989; No. 94, 1992; No. 20, 1997; No. 9, 2000; No. 84, 2006; No. 26, 2008; No. 58, 2011</div>
+    <div>am. Nos. 147 and 153, 1989; No. 94, 1992; No. 20, 1997; No. 9, 2000; No. 84, 2006; No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -11431,31 +11347,7 @@ Insert:
 
                           (iiia)  an offence against section 71V, 71W or 72P of the _Defence Act 1903_; or
 
-As at 13 July 2011 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 151  Subsection 18(1)
-
-Omit “, but a person so appointed shall not continue so to act for more than 12 months”.
-
-## 152  At the end of subsection 18(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 153  Subsections 18(3), (4) and (5)
-
-Repeal the subsections.
-
-As at 13 July 2011 the amendments are not incorporated in this compilation.
+As at 19 April 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -11593,7 +11485,7 @@ Persons seconded to the AFP
 
 (3)       Unless it is sooner revoked, a continued determination (including any amendments made by the Commissioner under subsection 27(1) of the later Act) ceases to be in force 1 year after the commencing time.
 
-## 7  Continuation of awards or certified agreements
+## 7  Continuation of awards or certified agreements
 
 (1)       To avoid doubt, an award or a certified agreement that is in force immediately before the commencing time in relation to members or staff members of the Australian Federal Police (within the meaning of the _Australian Federal Police Act 1979_ as in force at that time) does not cease to be in force at and after the commencing time because of the amendments made by Schedule 1 to this Act.
 
@@ -11897,21 +11789,5 @@ _Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 
 ## 21  Application—item 18
 
 The amendment made by item 18 applies in relation to service occurring before, on or after the commencement of that item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
