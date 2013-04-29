@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00425/Html/e5c4267e-0b5d-49b4-9f36-73f145ab9f11_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00648/Html/MedicalIndemnityPrudSuperProdStand2003WD02_image001.gif)
 
 # Medical Indemnity (Prudential Supervision and Product Standards) Act 2003
 
 **Act No. 37 of 2003 as amended**
 
-This compilation was prepared on 7 June 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 10 November 2006
+ taking into account amendments up to Act No. 116 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -34,7 +34,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Providing medical indemnity cover
 
-[6](#6).            Claims‑made based cover and incident‑occurring based cover
+[6](#6).            Claims-made based cover and incident-occurring based cover
 
 [7](#7).            When certain death, disability and retirement arrangements are taken to be entered into
 
@@ -72,13 +72,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [17](#17).          Minimum cover for single claim
 
-[18](#18).          Minimum annual cover—incident‑occurring based cover
+[18](#18).          Minimum annual cover—incident-occurring based cover
 
 [19](#19).          Minimum annual cover—other cover
 
 [20](#20).          Amount payable by insurer
 
-    **Division 2—Offers to provide retroactive and run‑off cover for otherwise uncovered prior incidents** 
+    **Division 2—Offers to provide retroactive and run-off cover for otherwise uncovered prior incidents** 
 
         **Subdivision A—Regulated insurance contracts**
 
@@ -88,25 +88,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22](#22).          Additional offer of retroactive cover when regulated insurance contract entered into, comes into effect or is renewed
 
-[23](#23).          Additional offer of run‑off cover when particular events happen during claims period for regulated insurance contract
+[23](#23).          Additional offer of run-off cover when particular events happen during claims period for regulated insurance contract
 
 [24](#24).          Complying offer
 
 [26](#26).          Federal Court may order insurer to make offer
 
-    **Division 2A—Provision of run‑off cover to certain medical practitioners**
+    **Division 2A—Provision of run-off cover to certain medical practitioners**
 
-[26A](#26A).       Provision of run‑off cover to certain medical practitioners
+[26A](#26A).       Provision of run-off cover to certain medical practitioners
 
-[26B](#26B).       Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run‑off cover
+[26B](#26B).       Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run-off cover
 
-[26C](#26C).       Provision of run‑off in accordance with arrangements with MDOs
+[26C](#26C).       Provision of run-off in accordance with arrangements with MDOs
 
-[26D](#26D).       Notification and record‑keeping
+[26D](#26D).       Notification and record-keeping
 
-[26E](#26E).        Run‑off cover taken to be provided under contract of insurance
+[26E](#26E).        Run-off cover taken to be provided under contract of insurance
 
-[26F](#26F).        Federal Court may order insurer to provide run‑off cover or MDO to enter into arrangement
+[26F](#26F).        Federal Court may order insurer to provide run-off cover or MDO to enter into arrangement
 
 [26G](#26G).       Pecuniary penalties for offences against this Division
 
@@ -124,7 +124,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 5—Miscellaneous**
 
-[31](#31).          Anti‑avoidance measures
+[31](#31).          Anti-avoidance measures
 
 [32](#32).          Act not to affect State and Territory laws
 
@@ -184,7 +184,7 @@ General
 
 and **_claim_** against a person includes an inquiry into, or an investigation of, the person’s conduct.
 
-                    <a name="claim-made-base-cover"></a>**_claims‑made based cover_** has the meaning given by subsections 6(2) and (3).
+                    <a name="claim-made-base-cover"></a>**_claims-made based cover_** has the meaning given by subsections 6(2) and (3).
 
                     <a name="claim-period"></a>**_claims period_**, in relation to a regulated insurance contract, has the meaning given by subsection 21(3).
 
@@ -236,7 +236,7 @@ and **_claim_** against a person includes an inquiry into, or an investigation o
 
                      (b)  an incident that is claimed to have occurred.
 
-                    <a name="incid-occurring-base-cover"></a>**_incident‑occurring based cover_** has the meaning given by subsection 6(4).
+                    <a name="incid-occurring-base-cover"></a>**_incident-occurring based cover_** has the meaning given by subsection 6(4).
 
                     <a name="indemnifi"></a>**_indemnify_** has a meaning affected by subsection (2).
 
@@ -388,11 +388,11 @@ References to registered health professional
 
                              (ii)  one under which the health care professional is indemnified indirectly through an entity or entities interposed between the person and the health care professional.
 
-##### <a id="6"></a>6  Claims‑made based cover and incident‑occurring based cover
+##### <a id="6"></a>6  Claims-made based cover and incident-occurring based cover
 
-             (1)  This section tells you what is meant by **_claims‑made based cover_** and **_incident‑occurring based cover_** when those terms are used in this Act. There are some kinds of medical indemnity cover that fall outside both those terms.
+             (1)  This section tells you what is meant by **_claims-made based cover_** and **_incident-occurring based cover_** when those terms are used in this Act. There are some kinds of medical indemnity cover that fall outside both those terms.
 
-             (2)  For the purposes of this Act, the cover provided for by a contract of insurance is **_claims‑made based cover_** if:
+             (2)  For the purposes of this Act, the cover provided for by a contract of insurance is **_claims-made based cover_** if:
 
                      (a)  under the contract, the insurer provides medical indemnity cover for a health care professional in relation to a compensation claim against the health care professional in relation to a health care incident only if:
 
@@ -414,7 +414,7 @@ Note 2:       Pure extended reporting benefit cover (which has a def
 
                      (b)  by renewal of the contract.
 
-             (4)  For the purposes of this Act, the cover provided for by a contract of insurance is **_incident‑occurring based cover_** if:
+             (4)  For the purposes of this Act, the cover provided for by a contract of insurance is **_incident-occurring based cover_** if:
 
                      (a)  under the contract, the insurer provides medical indemnity cover for a health care professional in relation to a compensation claim in relation to a health care incident only if the incident occurs during a period specified in the contract; and
 
@@ -778,7 +778,7 @@ Maximum amount payable for single claim
 
                      (a)  subsection (1) applies to a person (the **_insurer_**); and
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July 2003; and
+                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July  2003; and
 
                      (c)  a compensation claim is made against the health care professional; and
 
@@ -792,7 +792,7 @@ the maximum amount payable by the insurer under the relevant contract in relatio
 
              (6)  To avoid doubt, subsection (4) applies whether or not the insurer is convicted of an offence against subsection (2).
 
-##### <a id="18"></a>18  Minimum annual cover—incident‑occurring based cover
+##### <a id="18"></a>18  Minimum annual cover—incident-occurring based cover
 
 Circumstances in which section applies
 
@@ -806,9 +806,9 @@ Circumstances in which section applies
 
                              (ii)  a registered health professional prescribed by the regulations; and
 
-                     (c)  the relevant contract provides for incident‑occurring based cover.
+                     (c)  the relevant contract provides for incident-occurring based cover.
 
-Note:          For **_incident‑occurring based cover_**, see subsection 6(4). For the purposes of this section, extended reporting benefit cover and death, disability and retirement cover are not incident‑occurring based cover.
+Note:          For **_incident-occurring based cover_**, see subsection 6(4). For the purposes of this section, extended reporting benefit cover and death, disability and retirement cover are not incident-occurring based cover.
 
              (2)  For the purposes of this section:
 
@@ -866,9 +866,9 @@ Circumstances in which section applies
 
                              (ii)  a registered health professional prescribed by the regulations; and
 
-                     (c)  the contract does not provide for incident‑occurring based cover.
+                     (c)  the contract does not provide for incident-occurring based cover.
 
-Note:          For **_incident‑occurring based cover_**, see subsection 6(4). For the purposes of this section, extended reporting benefit cover and death, disability and retirement cover are not incident‑occurring based cover.
+Note:          For **_incident-occurring based cover_**, see subsection 6(4). For the purposes of this section, extended reporting benefit cover and death, disability and retirement cover are not incident-occurring based cover.
 
              (2)  For the purposes of this section:
 
@@ -924,13 +924,13 @@ Note:          Paragraph (c)—subsection 4(9) operates on t
 
                      (a)  any right the insurer may have to a high cost claim indemnity under the _Medical Indemnity Act 2002_;
 
-                    (aa)  any right the insurer may have to a run‑off cover indemnity under the _Medical Indemnity Act 2002_;
+                    (aa)  any right the insurer may have to a run-off cover indemnity under the _Medical Indemnity Act 2002_;
 
                      (b)  any right the insurer may have to contribution from another insurer;
 
                      (c)  any right to which the insurer is subrogated under the contract of insurance.
 
-### Division 2—Offers to provide retroactive and run‑off cover for otherwise uncovered prior incidents
+### Division 2—Offers to provide retroactive and run-off cover for otherwise uncovered prior incidents
 
 #### Subdivision A—Regulated insurance contracts
 
@@ -948,11 +948,11 @@ Regulated insurance contract
 
                              (ii)  a registered health professional prescribed by the regulations; and
 
-                     (c)  the cover provided for by the contract is claims‑made based cover; and
+                     (c)  the cover provided for by the contract is claims-made based cover; and
 
                      (d)  the contract is entered into, comes into effect or is renewed on or after 1 July 2003.
 
-Note:          Paragraph (c)—for **_claims‑made based cover_**, see subsections 6(2) and (3). For the purposes of this section, extended reporting benefit cover and death, disability and retirement cover are not claims‑made based cover.
+Note:          Paragraph (c)—for **_claims-made based cover_**, see subsections 6(2) and (3). For the purposes of this section, extended reporting benefit cover and death, disability and retirement cover are not claims-made based cover.
 
 Client
 
@@ -1108,7 +1108,7 @@ Effect of subsection (1)
 
 Note:          This means that an insurer does not have to make a compulsory offer for the purposes of subsection (1) once the winding up of the insurer has started.
 
-##### <a id="23"></a>23  Additional offer of run‑off cover when particular events happen during claims period for regulated insurance contract
+##### <a id="23"></a>23  Additional offer of run-off cover when particular events happen during claims period for regulated insurance contract
 
 Offence—compulsory offer
 
@@ -1284,7 +1284,7 @@ The offer must be made to the health care professional’s legal personal repres
 
                              (v)  any other matters prescribed by the regulations.
 
-Premiums for run‑off cover
+Premiums for run-off cover
 
              (3)  Regulations made for the purposes of paragraph (2)(fa) may specify different amounts, or different ways of working out amounts, in relation to different classes of practitioners or different classes of insurance contracts.
 
@@ -1312,9 +1312,9 @@ Definitions
 
                      (d)  the time from which the contract that results from the offer is to have effect if the offer is accepted.
 
-### Division 2A—Provision of run‑off cover to certain medical practitioners
+### Division 2A—Provision of run-off cover to certain medical practitioners
 
-##### <a id="26A"></a>26A  Provision of run‑off cover to certain medical practitioners
+##### <a id="26A"></a>26A  Provision of run-off cover to certain medical practitioners
 
 Offence—compulsory provision of medical indemnity cover
 
@@ -1412,9 +1412,9 @@ Note:          This definition, and the obligation under subse
 
                     <a name="privat-mical-practic"></a>**_private medical practice_** has the same meaning as in section 34ZB of the _Medical Indemnity Act 2002_.
 
-##### <a id="26B"></a>26B  Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run‑off cover
+##### <a id="26B"></a>26B  Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run-off cover
 
-Offence—MDOs must arrange run‑off cover
+Offence—MDOs must arrange run-off cover
 
              (1)  A person (the **_organisation_**) commits an offence if:
 
@@ -1460,7 +1460,7 @@ Definitions
 
                     <a name="mical-practic-period"></a>**_medical practice period_**, of an eligible practitioner, has the same meaning as in section 26A of this Act.
 
-##### <a id="26C"></a>26C  Provision of run‑off in accordance with arrangements with MDOs
+##### <a id="26C"></a>26C  Provision of run-off in accordance with arrangements with MDOs
 
 Offence—compulsory provision of medical indemnity cover
 
@@ -1492,7 +1492,7 @@ Effect of subsection (1)
 
 Note:          This means that an insurer does not have to provide medical indemnity cover under subsection (1) once the winding up of the insurer has started.
 
-##### <a id="26D"></a>26D  Notification and record‑keeping
+##### <a id="26D"></a>26D  Notification and record-keeping
 
 Offences—giving notice
 
@@ -1528,7 +1528,7 @@ Offences—giving notice
 
                      (b)  such greater number of days as the Minister administering the _Medical Indemnity Act 2002_ determines by legislative instrument.
 
-Offence—record‑keeping
+Offence—record-keeping
 
              (4)  A person (the **_insurer_**) commits an offence if:
 
@@ -1542,7 +1542,7 @@ Note:       Paragraph 26A(4)(d) sets out the period for which the in
 
                     Penalty:  Imprisonment for 6 months.
 
-##### <a id="26E"></a>26E  Run‑off cover taken to be provided under contract of insurance
+##### <a id="26E"></a>26E  Run-off cover taken to be provided under contract of insurance
 
              (1)  If the insurer provides medical indemnity cover under section 26A or 26C, there is taken, for all purposes (other than the purposes specified in the regulations), to be a contract of insurance between:
 
@@ -1558,7 +1558,7 @@ under which the medical indemnity cover is provided.
 
                      (b)  whether or not the medical indemnity cover was provided by means of the person to whom it was provided accepting an offer from the insurer to provide it.
 
-##### <a id="26F"></a>26F  Federal Court may order insurer to provide run‑off cover or MDO to enter into arrangement
+##### <a id="26F"></a>26F  Federal Court may order insurer to provide run-off cover or MDO to enter into arrangement
 
              (1)  If the Federal Court of Australia is satisfied that an insurer has engaged in, or is proposing to engage in, conduct that constitutes a contravention of subsection 26A(1) or 26C(1), the Court may grant an injunction requiring the insurer to provide medical indemnity cover in accordance with that subsection.
 
@@ -1628,7 +1628,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ## Part 5—Miscellaneous
 
-##### <a id="31"></a>31  Anti‑avoidance measures
+##### <a id="31"></a>31  Anti-avoidance measures
 
              (1)  If:
 
@@ -1660,7 +1660,7 @@ the arrangement is to be treated, for the purposes of this Act, as if it had bee
 
 ##### <a id="33"></a>33  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1725,7 +1725,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Medical Indemnity Legislation Amendment (Run‑off Cover Indemnity and Other Measures) Act 2004</div>
+    <div>Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004</div>
   </td>
   <td>
     <div>77, 2004</div>
@@ -1794,26 +1794,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 358, 359): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity Legislation Amendment (Run‑off Cover Indemnity and Other Measures) Act 2004_ provides as follows:
+_(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -1905,7 +1888,7 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
     <div>
       1 July 2004
 
-      (paragraph (b) applies)
+(paragraph (b) applies)
     </div>
   </td>
 </tr>
@@ -2215,25 +2198,5 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
     <div>ad. No. 77, 2004</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 358  Subsection 4(1)
-
-Insert:
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 359  Paragraph 26D(2)(b)
-
-Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Executive Medicare”.
-
-As at 7 June 2011 the amendments are not incorporated in this compilation.
 
  
