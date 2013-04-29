@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2009C00344/Html/MoombaSydneyPlineSysSale94WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00121/Html/47656D06EAC4E2D3CA256FB90022648B/$FILE/image001.gif)
 
 # Moomba-Sydney Pipeline System Sale Act 1994
 
 **Act No. 70 of 1994 as amended**
 
-This compilation was prepared on 16 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 3 March 2005
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -206,17 +207,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [154](#154).        Repeal of section and substitution of new section
 
+[13](#13).          Functions of Authority
+
 [155](#155).        Duties of the Authority
 
 [156](#156).        Insertion of new section
+
+[14A](#14A).       Authority to act in accordance with Ministerial determination
 
 [157](#157).        Particular powers of the Authority
 
 [158](#158).        Repeal of section and substitution of new section
 
+[16A](#16A).       Authority must not form etc  companies
+
 [159](#159).        Repeal of sections 18A and 25
 
 [160](#160).        Repeal of section and substitution of new section
+
+[28](#28).          Financial policy
 
 [161](#161).        Repeal of section 33B
 
@@ -227,6 +236,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [163](#163).        Definitions
 
 [164](#164).        Repeal of sections and substitution of new section
+
+[3](#3).            Interpretation
 
 [165](#165).        Repeal of Parts II, III, IV and VI
 
@@ -266,13 +277,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to the sale of the Moomba-Sydney pipeline system, and for related purposes
 
 ## Part 1—Preliminary
 
 ### Division 1—Short title and commencement
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Moomba-Sydney Pipeline System__Sale__Act 1994_.
 
@@ -317,6 +329,8 @@ but does not include a Commonwealth record under the _Archives Act 1983_.
                     <a name="author"></a>**_Authority_** means the Pipeline Authority established by the _Pipeline Authority Act 1973_.
 
                     <a name="author-instrum"></a>**_Authority instrument_** means an instrument that is specified in Schedule 3 to the asset purchase agreement.
+
+                    <a name="award"></a>**_award_** has the same meaning as in the _Workplace Relations Act 1996_.
 
                     <a name="commonwealth-agl-agreem"></a>**_Commonwealth-AGL agreement_** means the agreement made between the Commonwealth and AGL on 18 November 1993 in relation to the sale of the Moomba-Sydney pipeline system.
 
@@ -402,7 +416,7 @@ but does not include a Commonwealth record under the _Archives Act 1983_.
 
 ##### <a id="5"></a>5  Act binds the Crown
 
-             (1)  This Act binds the Crown in right of the Commonwealth, each of the States, the Australian Capital Territory and the Northern   Territory.
+             (1)  This Act binds the Crown in right of the Commonwealth, each of the States, the Australian Capital Territory and the Northern Territory.
 
              (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
@@ -1370,7 +1384,7 @@ Note:          A person does not come within paragraph 87N(2)(
 
              (1)  Section 13 of the Principal Act is repealed and the following section is substituted:
 
-##### 13  Functions of Authority
+##### <a id="13"></a>13  Functions of Authority 
 
            “(1)  The Authority has the following functions:
 
@@ -1402,7 +1416,7 @@ Note:          A person does not come within paragraph 87N(2)(
 
                    After section 14 of the Principal Act the following section is inserted:
 
-##### 14A  Authority to act in accordance with Ministerial determination
+##### <a id="14A"></a>14A  Authority to act in accordance with Ministerial determination
 
            “(1)  The Minister may, after consulting the Authority, give the Authority a written determination setting out the policies and objectives that are to be carried out by the Authority for the purposes of performing its functions. 
 
@@ -1424,7 +1438,7 @@ Note:          A person does not come within paragraph 87N(2)(
 
              (1)  Section 16A of the Principal Act is repealed and the following section is substituted:
 
-##### 16A  Authority must not form etc. companies 
+##### <a id="16A"></a>16A  Authority must not form etc. companies 
 
                    “The Authority must not:
 
@@ -1448,7 +1462,7 @@ continue to apply in relation to the subsidiary.
 
                    Section 28 of the Principal Act is repealed and the following section is substituted:
 
-##### 28  Financial policy 
+##### <a id="28"></a>28  Financial policy 
 
           “(1)  If:
 
@@ -1500,7 +1514,7 @@ the Authority must pursue a policy of acting in accordance with sound commercial
 
                     <a name="transfer-pipelin"></a>**_transferred pipeline_** means a pipeline that ceases to be an asset of the Authority because of the Sale Act.”.
 
-##### <a id="161"></a>161  Repeal of section 33B
+##### <a id="161"></a>161  Repeal of section 33B
 
                    Section 33B of the Principal Act is repealed.
 
@@ -1546,7 +1560,7 @@ of the Authority immediately before the repeal day.
 
                    Sections 3 and 4 of the Principal Act are repealed and the following section is substituted:
 
-##### 3  Interpretation
+##### <a id="3"></a>3  Interpretation
 
            “(1)  In this Act a reference to the Authority is a reference to the Pipeline Authority as it was established by this Act before the repeal day.
 
@@ -1812,6 +1826,7 @@ Multiple easements in same Gazette notice
 
                      (d)  matters for and in relation to the costs, if any, that may be awarded by the Federal Court in proceedings before the Federal Court under this Act.
 
+
 # Notes to the _Moomba-Sydney Pipeline System Sale Act 1994_
 
 ### Note 1
@@ -1825,10 +1840,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="22%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1838,11 +1853,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1852,178 +1869,166 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Moomba-Sydney Pipeline System Sale Act 1994</div>
-  </td>
-  <td>
-    <div>70, 1994</div>
-  </td>
-  <td>
-    <div>10 June 1994</div>
-  </td>
-  <td>
-    <div>Ss. 1–4, 6 and 7: Royal Assent 
-Remainder: 30 June 1994 ( <i>see Gazette</i>1994, No. S272)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Pipeline Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>167, 1994</div>
-  </td>
-  <td>
-    <div>16 Dec 1994</div>
-  </td>
-  <td>
-    <div>Part 2 (ss. 3–5): 30 June 1994 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Competition Policy Reform Act 1995</div>
-  </td>
-  <td>
-    <div>88, 1995</div>
-  </td>
-  <td>
-    <div>20 July 1995</div>
-  </td>
-  <td>
-    <div>Schedule 3 (in Part): 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 19 (item 30): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>77, 1996</div>
-  </td>
-  <td>
-    <div>19 Dec 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1997</div>
-  </td>
-  <td>
-    <div>94, 1997</div>
-  </td>
-  <td>
-    <div>30 June 1997</div>
-  </td>
-  <td>
-    <div>Schedule 5: Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Gas Pipelines Access (Commonwealth) Act 1998</div>
-  </td>
-  <td>
-    <div>101, 1998</div>
-  </td>
-  <td>
-    <div>30 July 1998</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2–4): 14 Aug 1998 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 3, 4) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 172, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 17 (item 1): <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Moomba-Sydney Pipeline System Sale Act 1994</div>
+    </td>
+    <td>
+      <div>70, 1994</div>
+    </td>
+    <td>
+      <div>10 June 1994</div>
+    </td>
+    <td>
+      <div>Ss. 1–4, 6 and 7: Royal Assent 
+Remainder: 30 June 1994 ( <i>see Gazette</i>1994, No. S272) 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Pipeline Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>167, 1994</div>
+    </td>
+    <td>
+      <div>16 Dec 1994</div>
+    </td>
+    <td>
+      <div>Part 2 (ss. 3–5): 30 June 1994 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Competition Policy Reform Act 1995</div>
+    </td>
+    <td>
+      <div>88, 1995</div>
+    </td>
+    <td>
+      <div>20 July 1995</div>
+    </td>
+    <td>
+      <div>Schedule 3 (in part): 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 19 (item 30): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+    </td>
+    <td>
+      <div>77, 1996</div>
+    </td>
+    <td>
+      <div>19 Dec 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 \[items 1, 2]: <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1997</div>
+    </td>
+    <td>
+      <div>94, 1997</div>
+    </td>
+    <td>
+      <div>30 June 1997</div>
+    </td>
+    <td>
+      <div>Schedule 5: Royal Assent <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Gas Pipelines Access (Commonwealth) Act 1998</div>
+    </td>
+    <td>
+      <div>101, 1998</div>
+    </td>
+    <td>
+      <div>30 July 1998</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 2–4): 14 Aug 1998 <i>(e)</i></div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 3, 4) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 172, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Moomba-Sydney Pipeline System__Sale__Act 1994_ was amended by Schedule 3 (in part) of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
 
@@ -2041,8 +2046,7 @@ _(d)_     The _Moomba-Sydney Pipeline System__Sale__Act 1994_ was amende
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_ The _Moomba-Sydney Pipeline System__Sale__Act 1994_ was amended by Schedule 1 (items 
- 2–4) only of the _Gas Pipelines Access (Commonwealth) Act 1998,_ subsection 2(2) of which provides as follows:
+_(e)_ The _Moomba-Sydney Pipeline System__Sale__Act 1994_ was amended by Schedule 1 (items 2–4) only of the _Gas Pipelines Access (Commonwealth) Act 1998_, subsection 2(2) of which provides as follows:
 
                  (2)   Items 2 to 4 of Schedule 1 commence at the commencement of the later of:
 
@@ -2050,94 +2054,8 @@ _(e)_ The _Moomba-Sydney Pipeline System__Sale__Act 1994_ was amended by Schedul
 
                               (b)   the provisions that correspond to those sections and that are contained in a law of New South Wales that substantially corresponds to Parts 1, 2, 4 and 5 of the South Australian Act.
 
-         The _Gas Pipelines Access (__South Australia__) Act 1997_ of South Australia commenced on 30 July 1998 (_see SA Government Gazette_ 2 April 1998, p. 1606). The _Gas Pipelines Access (__New   South Wales__)_ _Act 1998_ of New South Wales (except Schedule 1.1) commenced on 14 August 1998 (_see NSW Government Gazette_  No. 120, 14 August 1998, p. 6026). 
+         The _Gas Pipelines Access (__South Australia__) Act 1997_ of South Australia commenced on 30 July 1998 (_see SA Government Gazette_ 2 April 1998, p. 1606). The _Gas Pipelines Access (__New South Wales__)_ _Act 1998_ of New South Wales (except Schedule 1.1) commenced on 14 August 1998 (_see NSW Government Gazette_  No. 120, 14 August 1998, p. 6026). 
 
-_(f)_      Subsection 2(1) (item 40) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      40\. Schedule 17
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -2162,1200 +2080,1205 @@ _(f)_      Subsection 2(1) (item 40) of the _Fair Work (State Referr
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 167, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 167, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 67–71</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 74–77</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. A of 
-Div. 4 of Part 6</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995 
-rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 78</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 79</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 80</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 81</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 81, 82</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 83</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 83, 84</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 85</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 85, 86</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 87</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 88</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 88, 89</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 90</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 91</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 92</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 92, 93</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 94</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 94, 95</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 96</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 96–98</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 99</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 100</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 101</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 101, 102</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 5 of Part 6</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 105–107</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 108</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 108</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 109</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 109</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 110</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 111, 112</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 113, 114</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 115–121</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 122, 123</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 124</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 124</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 125–130</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 131</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 132</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 133</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 133</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 134</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 135</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 136</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 136</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 137,138</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 139</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 139</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 140</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 141–143</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 144–146</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 173A–173F</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 174</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 167, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 167, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 6</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 67–71</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 74–77</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Subdiv. A of 
+Div. 4 of Part 6 
+</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995 
+rep. No. 101, 1998 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 78</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 78</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 79</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 79</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 80</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 80</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 81</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 81, 82</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 83</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 83, 84</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 85</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 85, 86</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 87</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 87</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 88</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 88, 89</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 90</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 90</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 91</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 92</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 92, 93</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 94</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 94, 95</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 96</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 96–98</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 99</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 99</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 100</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 100</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 101</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 101, 102</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 103</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 104</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 5 of Part 6</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 105–107</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 108</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 108</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 109</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 109</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 110</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 110</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 111, 112</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 113, 114</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 115–121</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 122, 123</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 124</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 124</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 125–130</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 131</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 131</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 132</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 132</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 133</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 133</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 134</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 135</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 135</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 136</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 136</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 137,138</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 139</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 139</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 140</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 141–143</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 144–146</div>
+    </td>
+    <td>
+      <div>rep. No. 101, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 173A–173F</div>
+    </td>
+    <td>
+      <div>ad. No. 94, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 174</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -3413,7 +3336,9 @@ Part 6 of the MSP Act is taken to continue in force as if it had not been repeal
 
                     <a name="msp-act"></a>**_MSP Act_** means the _Moomba-Sydney Pipeline System__Sale__Act 1994_.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -3436,5 +3361,6 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
+
 
  
