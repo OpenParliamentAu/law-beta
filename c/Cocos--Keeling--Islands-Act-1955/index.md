@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00815/Html/CocosKeelingIsland55_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00318/Html/CocosKeelingIsland55_image001.gif)
 
 # Cocos (Keeling) Islands Act 1955
 
 **Act No. 34 of 1955 as amended**
 
-This compilation was prepared on 15 December 2010
- taking into account amendments up to Act No. 139 of 2010
+This compilation was prepared on 9 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -144,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Preamble
 
-                   WHEREAS the islands named the Cocos or Keeling Islands (being the islands referred to in section 4) are governed and administered as part of the Colony of Singapore, in pursuance of the Singapore Colony Order in Council, 1955, being an Order in Council dated 1 February 1955, made by Her Majesty by virtue and in exercise of the powers vested in Her Majesty by the Imperial Acts entitled the British Settlements Acts, 1887 and 1945, and the Straits Settlements (Repeal) Act, 1946: 
+                   WHEREAS the islands named the Cocos or Keeling Islands (being the islands referred to in section 4) are governed and administered as part of the Colony of Singapore, in pursuance of the Singapore Colony Order in Council, 1955, being an Order in Council dated 1 February 1955, made by Her Majesty by virtue and in exercise of the powers vested in Her Majesty by the Imperial Acts entitled the British Settlements Acts, 1887 and 1945, and the Straits Settlements (Repeal) Act, 1946: 
 
       AND WHEREAS by the _Cocos (Keeling) Islands (Request and Consent) Act 1954_ the Parliament of the Commonwealth requested, and consented to, the enactment by the Parliament of the United Kingdom of an Act enabling the Queen to place the Cocos or Keeling Islands under the authority of the Commonwealth and making provision for matters incidental to the placing of those Islands under that authority:
 
@@ -476,99 +476,71 @@ the following provisions apply:
 
 ##### <a id="8G"></a>8G  Powers and functions under the applied Western Australian laws
 
-Vesting of powers in the Minister
+             (1)  If a power is vested in a person (other than a court officer of Western Australia) or an authority (other than a court of Western Australia) by a Western Australian law in force in the Territory under section 8A, that power is, in relation to the Territory:
 
-             (1)  If a power is vested in:
+                     (a)  vested in the Minister; and
 
-                     (a)  a Minister of Western Australia; or
+                     (b)  only exercisable in accordance with this section.
 
-                     (b)  the Governor of Western Australia; or
+Note:          Under section 19 of the _Acts Interpretation Act 1901_ a power vested in a Minister may be exercised on his or her behalf by another Minister or member of the Executive Council.
 
-                     (c)  the Governor-in-Council of Western Australia;
+             (2)  In subsection (1), a power vested in a person or authority by a Western Australian law includes a power vested in the Governor or Governor-in-Council of Western Australia by such a law.
 
-by a Western Australian law in force in the Territory under section 8A, the power is, in relation to the Territory, vested in the Minister instead of the person or authority mentioned in paragraph (a), (b) or (c).
+             (3)  The Minister may, in writing:
 
-             (2)  If:
+                     (a)  direct that a power vested in the Minister under subsection (1) is also to be vested in a specified person or authority, being a person or authority to whom subsection (7) applies; or
 
-                     (a)  a power is vested in a person (other than a court officer of Western Australia) or an authority (other than a court of Western Australia) by a Western Australian law in force in the Territory under section 8A; and
+                     (b)  delegate the power to a specified person, being a person to whom subsection (7) applies.
 
-                     (b)  subsection (1) does not apply to the power;
+             (4)  A person or an authority in whom a power is vested under paragraph (3)(a) may, if the person is so empowered by the Minister in the direction, delegate the power, in writing, to a person to whom subsection (7) applies.
 
-the power is, in relation to the Territory, vested in the Minister instead of the person or authority mentioned in paragraph (a).
+             (5)  If a power under a Western Australian law as in force in the Territory is a power to delegate a power (**_prescribed power_**), the Minister or a person or an authority exercising that power under this section may delegate that prescribed power only to a person to whom subsection (7) applies.
 
-Delegation etc.
+             (6)  The Minister may appoint, on such terms and conditions as are determined by the Minister, such persons as the Minister considers necessary to exercise a power under this section.
 
-             (3)  If a power is vested in the Minister under subsection (1) or (2), the Minister may, in writing:
+             (7)  This subsection applies to the following persons and authorities:
 
-                     (a)  direct that the power is also vested in a specified person or authority; or
+                     (a)  a person holding or exercising the powers of the office of Administrator or Deputy Administrator of the Territory under the _Administration Ordinance 1975_ of the Territory;
 
-                     (b)  delegate the power to a specified person.
+                     (b)  a person holding or exercising the powers of an office established by an Act;
 
-             (4)  A person or authority in whom a power is vested under paragraph (3)(a) may, if the person is so empowered by the Minister in the direction, delegate the power, in writing, to a specified person.
+                     (c)  a person holding or exercising the powers of an office established by a Western Australian law, or a Western Australian law as in force in the Territory under section 8A;
 
-             (5)  If:
+                     (d)  a person holding or exercising the powers of an office established by an Ordinance or a law made under an Ordinance;
 
-                     (a)  a power is vested in the Minister under subsection (2); and
+                     (e)  an authority (whether incorporated or not) established by an Act;
 
-                     (b)  a person, or an authority, who is:
+                      (f)  an authority (whether incorporated or not) established by a Western Australian law, or a Western Australian law as in force in the Territory under section 8A;
 
-                              (i)  an officer or employee of Western Australia; or
+                     (g)  an authority (whether incorporated or not) established by an Ordinance or a law made under an Ordinance;
 
-                             (ii)  an authority of Western Australia; or
+                     (h)  a person appointed or engaged under the _Public Service Act 1999_;
 
-                            (iii)  an officer or employee of an authority of Western Australia;
+                      (i)  a person employed under a Western Australian law, or a Western Australia law as in force in the Territory under section 8A;
 
-                            is subject to an arrangement under section 8H; and
+                      (j)  a person employed under the _Administration Ordinance 1975_ of the Territory;
 
-                     (c)  the power corresponds to a power that the person or authority is authorised, under a law in force in Western Australia, to exercise in, or in a part of, Western Australia:
+                     (k)  a person employed by an authority mentioned in paragraph (e), (f) or (g);
 
-                              (i)  whether in the person’s own right or the authority’s own right; or
+                      (l)  a member of the Defence Force;
 
-                             (ii)  whether in the capacity of a delegate; or
+                    (m)  a member or special member of the Australian Federal Police;
 
-                            (iii)  whether in any other way;
+                     (n)  a person appointed by the Minister under subsection (6).
 
-the Minister is taken to have directed under paragraph (3)(a) that the first-mentioned power is also vested in the person or authority, as the case may be.
+             (8)  The validity of the exercise of a power under a law by a person or authority under this section is unaffected by the failure of the person or authority to hold a qualification required of a person exercising that power under the law as in force in Western Australia.
 
-             (6)  The Minister may direct that subsection (5) does not apply to a specified power.
+             (9)  This section does not affect the operation of section 8A in relation to the application in or in relation to the Territory of a law (**_subordinate law_**) made under a Western Australian law, whether the subordinate law is made after this section’s commencement or not.
 
-             (7)  A direction under subsection (6) may be unconditional or subject to such conditions (if any) as are specified in the direction.
+           (10)  In this section:
 
-Other matters
-
-             (8)  An instrument under this section may identify a power by reference to a class of powers.
-
-             (9)  The validity of the exercise of a power under a law by a person or authority under this section is unaffected by the failure of the person or authority to hold a qualification required of a person exercising that power under the law as in force in Western Australia.
-
-           (10)  This section does not affect the operation of section 8A in relation to the application in or in relation to the Territory of a law (a **_subordinate law_**) made under a Western Australian law, whether the subordinate law is made after this section’s commencement or not.
-
-           (11)  An instrument under this section is not a legislative instrument.
-
-           (12)  In this section:
-
-                    <a name="author"></a>**_authority_** means:
-
-                     (a)  a body corporate, or an unincorporated body, established for a public purpose; or
-
-                     (b)  an authority (within the ordinary meaning of that expression).
-
-                    <a name="author-western-australia"></a>**_authority of Western Australia_** means an authority established by or under a Western Australian law.
-
-                    <a name="exercis"></a><a name="power"></a>**_power_** includes function or duty, and, in that context, **_exercise_** means perform.
+                    <a name="exercis"></a><a name="power"></a>**_power_** includes function or duty, and in that context, **_exercise_** means perform.
 
 ##### <a id="8H"></a>8H  Arrangements with the Government of Western Australia
 
              (1)  The Commonwealth may enter into arrangements with Western Australia for the effective application and administration of the laws in force in the Territory.
 
-             (2)  Without limiting the generality of subsection (1), such an arrangement may provide for the exercise of powers or performance of functions or duties by:
-
-                     (a)  an officer or employee of Western Australia; or
-
-                     (b)  an authority of Western Australia (within the meaning of section 8G); or
-
-                     (c)  an officer or employee of an authority of Western Australia (within the meaning of section 8G);
-
-in or in relation to the Territory.
+             (2)  Without limiting the generality of subsection (1), such an arrangement may provide for the exercise of powers or performance of functions or duties by an officer or authority of Western Australia in or in relation to the Territory.
 
 ##### <a id="8I"></a>8I  Savings
 
@@ -1654,24 +1626,6 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Territories Law Reform Act 2010</div>
-    </td>
-    <td>
-      <div>139, 2010</div>
-    </td>
-    <td>
-      <div>10 Dec 2010</div>
-    </td>
-    <td>
-      <div>Schedule 3: 11 Dec 2010</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 
-3–5) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Cocos (Keeling) Islands Act 1955_ was amended by Part XIII (sections 78 and 79) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
@@ -1961,31 +1915,7 @@ _(j)_      The _Cocos (Keeling)__Islands__Act 1955_ was amended by Sch
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8H</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8I</div>
+    <div>Ss. 8H, 8I</div>
   </td>
   <td>
     <div>ad. No. 104, 1992</div>
@@ -2414,40 +2344,6 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
-
-_Territories Law Reform Act 2010 (No. 139, 2010)_
-
-## Schedule 3
-
-## 3  Transitional—directions under paragraph 8G(3)(a) of the _Cocos (Keeling) Islands Act 1955_
-
-(1)        This item applies to a direction if:
-
-                     (a)  the direction was given under paragraph 8G(3)(a) of the _Cocos (Keeling) Islands Act 1955_; and
-
-                     (b)  the direction was in force immediately before the commencement of this item.
-
-(2)        The direction has effect, after the commencement of this item, as if it had been given under paragraph 8G(3)(a) of the _Cocos (Keeling) Islands Act 1955_ as amended by this Schedule.
-
-## 4  Transitional—delegations under paragraph 8G(3)(b) of the _Cocos (Keeling) Islands Act 1955_
-
-(1)        This item applies to a delegation if:
-
-                     (a)  the delegation was made under paragraph 8G(3)(b) of the _Cocos (Keeling) Islands Act 1955_; and
-
-                     (b)  the delegation was in force immediately before the commencement of this item.
-
-(2)        The delegation has effect, after the commencement of this item, as if it had been made under paragraph 8G(3)(b) of the _Cocos (Keeling) Islands Act 1955_ as amended by this Schedule.
-
-## 5  Transitional—delegations under subsection 8G(4) of the _Cocos (Keeling) Islands Act 1955_
-
-(1)        This item applies to a delegation if:
-
-                     (a)  the delegation was made under subsection 8G(4) of the _Cocos (Keeling) Islands Act 1955_; and
-
-                     (b)  the delegation was in force immediately before the commencement of this item.
-
-(2)        The delegation has effect, after the commencement of this item, as if it had been made under subsection 8G(4) of the _Cocos (Keeling) Islands Act 1955_ as amended by this Schedule.
+ 
 
  
