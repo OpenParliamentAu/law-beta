@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image001.gif)
 
 # Parliamentary Contributory Superannuation Act 1948
 
 **Act No. 89 of 1948 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2009
+ taking into account amendments up to Act No. 134 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -70,7 +70,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16](#16).          Commonwealth supplement
 
-[16A](#16A).       Superannuation guarantee safety‑net amount
+[16A](#16A).       Superannuation guarantee safety-net amount
 
 [17](#17).          Meaning of voluntary retirement
 
@@ -92,7 +92,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19A](#19A).       Additional benefit to Prime Minister
 
-[20](#20).          Re‑election to the Parliament
+[20](#20).          Re-election to the Parliament
 
 [20A](#20A).       Members who were in the Parliament on 1 July 1994—recognition of prior service in a State or Territory Parliament
 
@@ -118,9 +118,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22CC](#22CC).     Additional service factor
 
-    **Division 2—Benefits for non‑member spouse**
+    **Division 2—Benefits for non-member spouse**
 
-[22CD](#22CD).    Associate annuity for non‑member spouse
+[22CD](#22CD).    Associate annuity for non-member spouse
 
 [22CE](#22CE).     Associate deferred annuity
 
@@ -138,7 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Miscellaneous**
 
-[22CK](#22CK).     Ministerial Orders
+[22CK](#22CK).    Ministerial Orders
 
 **Part VA—Deferred payment of retiring allowance**
 
@@ -170,7 +170,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part VI—Miscellaneous**
 
-[22T](#22T).        Treatment of decreases in rates used to calculate retiring allowance
+[22T](#22T).       Treatment of decreases in rates used to calculate retiring allowance
 
 [23](#23).          Notional salaries etc  for certain offices
 
@@ -216,7 +216,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3—Closing off entitlements to benefits under the scheme** 
 
-    **Division 1—The close‑off**
+    **Division 1—The close-off**
 
 [3](#3).            No section 18 benefits at the end of new scheme contribution periods etc 
 
@@ -288,10 +288,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="contribut"></a>**_contributions_** means contributions under Part IV.
 
-                    <a name="financ-depart"></a>**_Finance Department_** means the Department administered by the Finance Minister.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="former-spous"></a>**_former spouse_**, in relation to another person, means a person who previously had had a marital or couple relationship with that other person.
 
                     <a name="hous"></a>**_House_** means a House of the Parliament.
@@ -306,7 +302,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="minist-state"></a>**_Minister of State_** means a Minister of State who is entitled to a parliamentary allowance.
 
-                    <a name="non-parliamentari-employ"></a>**_non‑parliamentary employment_** means any employment, profession or paid occupation, other than as a member.
+                    <a name="non-parliamentari-employ"></a>**_non-parliamentary employment_** means any employment, profession or paid occupation, other than as a member.
 
                     <a name="offic"></a>**_office_**, in relation to a Minister of State, includes the following offices, namely:
 
@@ -320,7 +316,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (e)  Leader of the House;
 
-                      (f)  Vice‑President of the Executive Council;
+                      (f)  Vice-President of the Executive Council;
 
                      (g)  Minister of State Assisting another Minister of State;
 
@@ -360,7 +356,7 @@ but does not include a Minister of State.
 
                     <a name="spous"></a>**_spouse_** has a meaning affected by section 4C.
 
-                    <a name="superannu-guarante-safeti-net-amount"></a>**_superannuation guarantee safety‑net amount_** has the meaning given by section 16A.
+                    <a name="superannu-guarante-safeti-net-amount"></a>**_superannuation guarantee safety-net amount_** has the meaning given by section 16A.
 
                     <a name="surcharg"></a>**_surcharge_** has the same meaning as in the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_.
 
@@ -378,7 +374,7 @@ means the surcharge deduction amount that is specified in the determination made
 
                     <a name="trust"></a>**_Trust_** means the Parliamentary Retiring Allowances Trust established under this Act.
 
-                    <a name="truste"></a>**_trustee_** means one of the trustees who constitute the Trust, and includes a Minister performing the powers and functions of the Finance Minister as a trustee.
+                    <a name="truste"></a>**_trustee_** means one of the trustees who constitute the Trust, and includes a Minister performing the powers and functions of the Minister for Finance as a trustee.
 
              (2)  A reference in this Act to the contributions of a person does not include a reference to any contributions that have been refunded to him or her and have not been repaid by him or her.
 
@@ -450,7 +446,7 @@ whether or not the person was legally married to that other person.
 
                      (b)  the persons were legally married to each other at the time;
 
-                   (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_, as a kind of relationship prescribed for the purposes of that section;
+                    (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_, as a kind of relationship prescribed for the purposes of that section;
 
                      (c)  the persons had a child who was:
 
@@ -504,13 +500,13 @@ whether or not the person was legally married to that other person.
 
 ##### <a id="4D"></a>4D  Incapacity
 
-                   In determining the percentage of a person’s incapacity in relation to non‑parliamentary employment, the Trust or a medical practitioner, as the case may be, must have regard to all relevant matters, including, but not limited to, the following:
+                   In determining the percentage of a person’s incapacity in relation to non-parliamentary employment, the Trust or a medical practitioner, as the case may be, must have regard to all relevant matters, including, but not limited to, the following:
 
                      (a)  the vocational, trade and professional skills, qualifications and experience of the person;
 
-                     (b)  the kinds of non‑parliamentary employment which a person with the skills, qualifications and experience referred to in paragraph (a) might reasonably undertake;
+                     (b)  the kinds of non-parliamentary employment which a person with the skills, qualifications and experience referred to in paragraph (a) might reasonably undertake;
 
-                     (c)  the degree to which any physical or mental impairment of the person has diminished his or her capacity to undertake the kinds of non‑parliamentary employment referred to in paragraph (b);
+                     (c)  the degree to which any physical or mental impairment of the person has diminished his or her capacity to undertake the kinds of non-parliamentary employment referred to in paragraph (b);
 
                      (d)  the income (if any) derived by the person from personal exertion.
 
@@ -528,7 +524,7 @@ the Trust must determine in writing the surcharge deduction amount that, in its 
 
                      (a)  the amount by which the person’s surcharge debt account is in debit when those benefits become payable;
 
-                     (b)  the value of the employer‑financed component of those benefits;
+                     (b)  the value of the employer-financed component of those benefits;
 
                      (c)  the value of the benefits that, for the purpose of working out (under the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_) the notional surchargeable contributions factors applicable to the person, were assumed to be likely to be payable to the person under this Act on his or her ceasing to hold office as a member;
 
@@ -538,11 +534,11 @@ the Trust must determine in writing the surcharge deduction amount that, in its 
 
              (3)  The amount determined by the Trust may not be more than the total of the following amounts:
 
-                     (a)  15% of the employer‑financed component of any part of the benefits payable to the person that accrued between 20 August 1996 and 1 July 2003;
+                     (a)  15% of the employer-financed component of any part of the benefits payable to the person that accrued between 20 August 1996 and 1 July 2003;
 
-                     (b)  14.5% of the employer‑financed component of any part of the benefits payable to the person that accrued in the 2003‑2004 financial year;
+                     (b)  14.5% of the employer-financed component of any part of the benefits payable to the person that accrued in the 2003-2004 financial year;
 
-                     (c)  12.5% of the employer‑financed component of any part of the benefits payable to the person that accrued in the 2004‑2005 financial year.
+                     (c)  12.5% of the employer-financed component of any part of the benefits payable to the person that accrued in the 2004-2005 financial year.
 
              (4)  Reductions under Division 3 of Part VAA are to be disregarded in applying subsection (3).
 
@@ -562,13 +558,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  The Trust shall be constituted by 5 trustees, namely:
 
-                     (a)  the Finance Minister;
+                     (a)  the Minister for Finance;
 
                      (b)  2 senators; and
 
                      (c)  2 members of the House of Representatives.
 
-             (4)  The powers and functions of the Finance Minister as a trustee may be exercised by any Minister thereunto authorized in writing by the Finance Minister, but no such authorization shall prevent the exercise of those powers and functions by the Finance Minister himself or herself.
+             (4)  The powers and functions of the Minister for Finance as a trustee may be exercised by any Minister thereunto authorized in writing by the Minister for Finance, but no such authorization shall prevent the exercise of those powers and functions by the Minister for Finance himself or herself.
 
              (5)  A vacancy in the office of a trustee shall not invalidate the proceedings of the trustees.
 
@@ -582,7 +578,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="7"></a>7  Temporary trustees
 
-             (1)  If a vacancy occurs in the office of a trustee, the Governor‑General may appoint a trustee to hold office until the vacancy is otherwise filled.
+             (1)  If a vacancy occurs in the office of a trustee, the Governor-General may appoint a trustee to hold office until the vacancy is otherwise filled.
 
 ##### <a id="8"></a>8  Meetings of the trustees
 
@@ -590,11 +586,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  At all meetings of the trustees, 3 trustees shall form a quorum.
 
-             (3)  The Finance Minister (or a Minister exercising the powers and functions of the Finance Minister as a trustee) shall preside at any meeting of the trustees at which he or she is present and, if neither the Finance Minister nor such a Minister is present at a meeting, the trustees present shall elect one of their number to preside at that meeting.
+             (3)  The Minister for Finance (or a Minister exercising the powers and functions of the Minister for Finance as a trustee) shall preside at any meeting of the trustees at which he or she is present and, if neither the Minister for Finance nor such a Minister is present at a meeting, the trustees present shall elect one of their number to preside at that meeting.
 
              (4)  A majority of the trustees present at a meeting shall have power to bind the Trust and to pass resolutions of the trustees, and, if the number of trustees present is 4, the trustee presiding and one other trustee shall also have power to bind the Trust and to pass such resolutions.
 
-             (5)  The Secretary of the Finance Department, or an officer of the Finance Department appointed by him or her for the purpose, shall attend meetings of the trustees and give such advice and assistance as the trustees require.
+             (5)  The Secretary to the Department of Finance, or an officer of the Department of Finance appointed by him or her for the purpose, shall attend meetings of the trustees and give such advice and assistance as the trustees require.
 
 ##### <a id="9"></a>9  Delegation
 
@@ -628,11 +624,11 @@ then, so long as he or she continues to be a Minister of State who, or an office
 
              (5)  For the purposes of subsections (1), (2) and (3):
 
-                     (a)  the monthly amount of the parliamentary allowance to which a person is entitled shall be deemed to be one‑twelfth of the annual amount of that allowance;
+                     (a)  the monthly amount of the parliamentary allowance to which a person is entitled shall be deemed to be one-twelfth of the annual amount of that allowance;
 
-                     (b)  the monthly amount of the salary to which a Minister of State is entitled as Minister of State shall be deemed to be one‑twelfth of the annual amount of that salary; and
+                     (b)  the monthly amount of the salary to which a Minister of State is entitled as Minister of State shall be deemed to be one-twelfth of the annual amount of that salary; and
 
-                     (c)  the monthly amount of the allowance by way of salary to which an office holder is entitled in respect of an office shall be deemed to be one‑twelfth of the annual amount of that allowance.
+                     (c)  the monthly amount of the allowance by way of salary to which an office holder is entitled in respect of an office shall be deemed to be one-twelfth of the annual amount of that allowance.
 
              (6)  The contributions payable by a person under this section shall be deducted:
 
@@ -652,13 +648,13 @@ then, so long as he or she continues to be a Minister of State who, or an office
 
              (1)  A reference in this section to a period during which a person served as a Minister of State or an office holder does not include a reference to any period that does not also form part of the period of service of the person for the purposes of this Act.
 
-             (2)  Where a person who is a member on 12 June 1978 served as a Minister of State or an office holder during any period or periods, or as a Minister of State and an office holder during different periods, before that date, he or she may, within 3 months after that date, by notice in writing signed by the person and delivered personally or sent by post to the Secretary of the Finance Department, elect to have the whole of that period or of those periods taken into account for the purposes of subsection 18(9).
+             (2)  Where a person who is a member on 12 June 1978 served as a Minister of State or an office holder during any period or periods, or as a Minister of State and an office holder during different periods, before that date, he or she may, within 3 months after that date, by notice in writing signed by the person and delivered personally or sent by post to the Secretary to the Department of Finance, elect to have the whole of that period or of those periods taken into account for the purposes of subsection 18(9).
 
-             (3)  Where a person, not being a person who is a member on 12 June 1978, becomes a member after that date and that person served as a Minister of State or an office holder during any period or periods, or as a Minister of State and an office holder during different periods, before that date, he or she may, within 3 months after the date on which he or she so becomes a member, by notice in writing signed by the person and delivered personally or sent by post to the Secretary of the Finance Department, elect to have the whole of that period or of those periods taken into account for the purposes of subsection 18(9).
+             (3)  Where a person, not being a person who is a member on 12 June 1978, becomes a member after that date and that person served as a Minister of State or an office holder during any period or periods, or as a Minister of State and an office holder during different periods, before that date, he or she may, within 3 months after the date on which he or she so becomes a member, by notice in writing signed by the person and delivered personally or sent by post to the Secretary to the Department of Finance, elect to have the whole of that period or of those periods taken into account for the purposes of subsection 18(9).
 
              (4)  A person who makes an election in accordance with subsection (2) or (3) shall:
 
-                     (a)  if he or she received any refund of contributions under Part VA of the _Parliamentary Retiring Allowances Act 1948‑1964_, or of that Act as amended, not being a refund that was subsequently repaid by him or her under section 22M of that Act, or of that Act as amended, or received any refund of contributions under subsection 22(12) or (13) of the _Parliamentary and Judicial Retiring Allowances Act 1973_—pay to the Commonwealth an amount equal to that refund (excluding any part of that refund that comprises contributions made in respect of a period to which subsection 19A(7) applies); and
+                     (a)  if he or she received any refund of contributions under Part VA of the _Parliamentary Retiring Allowances Act 1948-1964_, or of that Act as amended, not being a refund that was subsequently repaid by him or her under section 22M of that Act, or of that Act as amended, or received any refund of contributions under subsection 22(12) or (13) of the _Parliamentary and Judicial Retiring Allowances Act 1973_—pay to the Commonwealth an amount equal to that refund (excluding any part of that refund that comprises contributions made in respect of a period to which subsection 19A(7) applies); and
 
                      (b)  if, during the period that commenced on 8 June 1973 and ended on 11 June 1978, he or she served as a Minister of State or an office holder during any period or periods, or as a Minister of State and an office holder during different periods—pay to the Commonwealth an amount equal to 11<sup>1</sup>/<sub>2</sub>% of the sum of:
 
@@ -668,7 +664,7 @@ then, so long as he or she continues to be a Minister of State who, or an office
 
              (5)  If, but for this subsection, subsection 22(2) of the _Parliamentary and Judicial Retiring Allowances Act 1973_ would apply to and in respect of a person who makes an election under this section, that subsection ceases to apply to and in respect of him or her when the election is made.
 
-             (6)  Any amounts payable to the Commonwealth by a person under this section shall be paid at such times and in such amounts as are agreed upon between the person and the Finance Minister or, in the absence of agreement, at such times and in such amounts as the Finance Minister determines, but so that the total of the amounts is paid to the Commonwealth within 3 years after the date on which the person made the relevant election under this section.
+             (6)  Any amounts payable to the Commonwealth by a person under this section shall be paid at such times and in such amounts as are agreed upon between the person and the Minister for Finance or, in the absence of agreement, at such times and in such amounts as the Minister for Finance determines, but so that the total of the amounts is paid to the Commonwealth within 3 years after the date on which the person made the relevant election under this section.
 
              (7)  If a person who has made an election under this section becomes entitled to a retiring allowance and, after becoming so entitled, elects under subsection 18B(3) to convert a percentage of that retiring allowance into a lump sum payment, there shall be deducted from the amount of that lump sum payment the amount (if any) by which the total of the amounts that the person is liable to pay to the Commonwealth under subsection (4) of this section exceeds the total of any of those amounts that the person has paid in accordance with subsection (6) of this section and, upon the deduction being made, the person is, to the extent of the amount deducted, discharged from further liability to make payments under this section.
 
@@ -736,7 +732,7 @@ Medical certificates—contents
 
                      (a)  a statement to the effect that, in the opinion of the medical practitioner concerned, the person is unlikely, because of physical or mental impairment, ever to be able to perform the duties of a member again; and
 
-                     (b)  a statement setting out the medical practitioner’s opinion about the percentage of the person’s incapacity in relation to non‑parliamentary employment.
+                     (b)  a statement setting out the medical practitioner’s opinion about the percentage of the person’s incapacity in relation to non-parliamentary employment.
 
 Consultation about nominated medical practitioner
 
@@ -754,7 +750,7 @@ When section applies
 
 Trust to determine percentage of incapacity
 
-             (2)  The Trust must determine the percentage of the person’s incapacity in relation to non‑parliamentary employment.
+             (2)  The Trust must determine the percentage of the person’s incapacity in relation to non-parliamentary employment.
 
 Trust to classify person
 
@@ -846,7 +842,7 @@ Request for review
 
 Medical certificate in support of request for review
 
-             (5)  The certificate mentioned in subsection (4) must set out the medical practitioner’s opinion about the percentage of the person’s incapacity in relation to non‑parliamentary employment.
+             (5)  The certificate mentioned in subsection (4) must set out the medical practitioner’s opinion about the percentage of the person’s incapacity in relation to non-parliamentary employment.
 
 Notification of refusal of request for review
 
@@ -898,35 +894,35 @@ Decision on review
 
                      (a)  confirming the person’s classification; or
 
-                     (b)  if the person is a class 1 invalid—re‑classifying the person as a class 2 invalid or as a class 3 invalid; or
+                     (b)  if the person is a class 1 invalid—re-classifying the person as a class 2 invalid or as a class 3 invalid; or
 
-                     (c)  if the person is a class 2 invalid—re‑classifying the person as a class 1 invalid or as a class 3 invalid.
+                     (c)  if the person is a class 2 invalid—re-classifying the person as a class 1 invalid or as a class 3 invalid.
 
-The re‑classification must be in accordance with the classification table set out in section 15B according to the percentage of the person’s incapacity in relation to non‑parliamentary employment.
+The re-classification must be in accordance with the classification table set out in section 15B according to the percentage of the person’s incapacity in relation to non-parliamentary employment.
 
 Decision on review to be made on the basis of the original physical or mental impairment
 
-           (13)  In determining, for the purposes of this section, the percentage of the person’s incapacity in relation to non‑parliamentary employment, the Trust or a medical practitioner, as the case may be, is to ignore any physical or mental impairment of the person unless the impairment is of a kind that:
+           (13)  In determining, for the purposes of this section, the percentage of the person’s incapacity in relation to non-parliamentary employment, the Trust or a medical practitioner, as the case may be, is to ignore any physical or mental impairment of the person unless the impairment is of a kind that:
 
                      (a)  was specified in the determination made under section 15A in relation to the person; or
 
                      (b)  is related to an impairment of a kind that was specified in that determination.
 
-When re‑classification takes effect
+When re-classification takes effect
 
-           (14)  If the Trust decides to re‑classify the person, the Trust must specify a date as the date on which the re‑classification takes effect. The date must not be earlier than the date on which the decision was made.
+           (14)  If the Trust decides to re-classify the person, the Trust must specify a date as the date on which the re-classification takes effect. The date must not be earlier than the date on which the decision was made.
 
-Re‑classification to be treated as a classification
+Re-classification to be treated as a classification
 
-           (15)  If the Trust decides to re‑classify the person, the Trust is taken to have classified the person accordingly on the day on which the re‑classification takes effect.
+           (15)  If the Trust decides to re-classify the person, the Trust is taken to have classified the person accordingly on the day on which the re-classification takes effect.
 
 Notification of decision on review
 
            (16)  If the Trust makes a decision under subsection (12), the Trust must give the person a written notice setting out the decision.
 
-Re‑classification as a class 3 invalid—reduction of benefit
+Re-classification as a class 3 invalid—reduction of benefit
 
-           (17)  If the Trust decides to re‑classify the person as a class 3 invalid, the benefit payable to the person under paragraph 18(2AA)(e) is to be reduced (but not below 0) by the total of the payments of retiring allowance paid to the person under paragraph 18(2AA)(c) or (d) before the re‑classification took effect.
+           (17)  If the Trust decides to re-classify the person as a class 3 invalid, the benefit payable to the person under paragraph 18(2AA)(e) is to be reduced (but not below 0) by the total of the payments of retiring allowance paid to the person under paragraph 18(2AA)(c) or (d) before the re-classification took effect.
 
 ##### <a id="16"></a>16  Commonwealth supplement
 
@@ -934,7 +930,7 @@ Re‑classification as a class 3 invalid—reduction of benefit
 
           (1A)  Any amounts paid by a person to the Commonwealth under section 14 shall be deemed to be contributions paid by him or her during his or her period of service, or during the last 8 years of his or her period of service, to the extent that those amounts relate to:
 
-                     (a)  in the case of amounts paid in pursuance of paragraph 14(4)(a)—contributions (other than a repayment of a refund) made during his or her period of service, or during those last 8 years of his or her period of service, as the case may be, under Part VA of the _Parliamentary Retiring Allowances Act 1948‑1964_ or of that Act as amended; and
+                     (a)  in the case of amounts paid in pursuance of paragraph 14(4)(a)—contributions (other than a repayment of a refund) made during his or her period of service, or during those last 8 years of his or her period of service, as the case may be, under Part VA of the _Parliamentary Retiring Allowances Act 1948-1964_ or of that Act as amended; and
 
                      (b)  in the case of amounts paid in pursuance of paragraph 14(4)(b)—any period occurring during his or her period of service, or during those last 8 years of his or her period of service, as the case may be.
 
@@ -944,11 +940,11 @@ Re‑classification as a class 3 invalid—reduction of benefit
 
              (4)  For the purpose of ascertaining the Commonwealth supplement in relation to a person who paid contributions in accordance with subsection 13(2) as that subsection has effect by virtue of subsection 13(4), subsection 13(3) as that subsection has effect by virtue of subsection 13(4) or both those subsections as they so have effect, he or she shall be deemed to have paid, in addition to the contributions that he or she so paid (in this subsection referred to as the **_relevant contributions_**) and any other contributions that he or she paid, further contributions equal to the relevant contributions.
 
-##### <a id="16A"></a>16A  Superannuation guarantee safety‑net amount
+##### <a id="16A"></a>16A  Superannuation guarantee safety-net amount
 
-Superannuation guarantee safety‑net amount
+Superannuation guarantee safety-net amount
 
-             (1)  For the purposes of this Act, the **_superannuation guarantee safety‑net amount_** in relation to a person is the sum of the following amounts:
+             (1)  For the purposes of this Act, the **_superannuation guarantee safety-net amount_** in relation to a person is the sum of the following amounts:
 
                      (a)  the contributions made by the person during so much of the person’s period of service as occurred after 30 June 1992;
 
@@ -994,7 +990,7 @@ Superannuation guarantee safety‑net amount
 
 Refund of contributions
 
-             (2)  For the purposes of this Act, if a superannuation guarantee safety‑net amount is paid to a person, so much of that amount as is attributable to the person’s contributions is taken to be a refund of the contributions.
+             (2)  For the purposes of this Act, if a superannuation guarantee safety-net amount is paid to a person, so much of that amount as is attributable to the person’s contributions is taken to be a refund of the contributions.
 
 Definitions—superannuation guarantee charge
 
@@ -1018,7 +1014,7 @@ Definitions—superannuation guarantee charge
 
                               (i)  for the purpose of securing election for another electorate or for another State; or
 
-                             (ii)  for the purpose of submitting himself or herself for re‑election by the electors of his or her former electorate; or
+                             (ii)  for the purpose of submitting himself or herself for re-election by the electors of his or her former electorate; or
 
                             (iii)  for the purpose of securing election as a member of the House of which he or she was not a member.
 
@@ -1054,33 +1050,33 @@ Definitions—superannuation guarantee charge
 
              (1)  Subject to this Act, a member who ceases to be entitled to a parliamentary allowance shall be entitled to benefits in accordance with this section.
 
-       (1AA)  For the purposes of this section, the **_most recent benefit_** **_start‑up time_** is the time when a benefit becomes payable to the person (ignoring any application of subsection (8A) or (8AC)).
+       (1AA)  For the purposes of this section, the **_most recent benefit_** **_start-up time_** is the time when a benefit becomes payable to the person (ignoring any application of subsection (8A) or (8AC)).
 
-          (1A)  Where the period of service of a member is not less than 12 years, then, subject to subsections (8A) and (8AC), the benefit shall be a retiring allowance during his or her life‑time at the rate applicable in accordance with the scale set out in subsection (6).
+          (1A)  Where the period of service of a member is not less than 12 years, then, subject to subsections (8A) and (8AC), the benefit shall be a retiring allowance during his or her life-time at the rate applicable in accordance with the scale set out in subsection (6).
 
           (1B)  Where the period of service of a member is less than 12 years but he or she has, on each of at least 4 occasions (including occasions before the commencement of this subsection), ceased to be a member upon the dissolution or expiration of the House of which he or she was then a member or upon the expiration of his or her term of office, then, subject to subsections (8A) and (8AC), the benefit shall be:
 
-                     (a)  if his or her period of service is less than 8 years—a retiring allowance during his or her life‑time at the rate applicable in accordance with the scale set out in subsection (6) in the case of a member whose period of service is 8 years; or
+                     (a)  if his or her period of service is less than 8 years—a retiring allowance during his or her life-time at the rate applicable in accordance with the scale set out in subsection (6) in the case of a member whose period of service is 8 years; or
 
-                     (b)  in any other case—a retiring allowance during his or her life‑time at the rate applicable in accordance with the scale set out in subsection (6).
+                     (b)  in any other case—a retiring allowance during his or her life-time at the rate applicable in accordance with the scale set out in subsection (6).
 
              (2)  In the case of a member (other than a member to whom subsection (1A) or (1B) applies) who does not retire voluntarily and whose retirement is not an invalidity retirement, the benefit (subject to subsections (8A), (8AC) and (8B)) is:
 
-                     (a)  where his or her period of service is not less than 8 years—a retiring allowance during his or her life‑time at the rate applicable in accordance with the scale set out in subsection (6);
+                     (a)  where his or her period of service is not less than 8 years—a retiring allowance during his or her life-time at the rate applicable in accordance with the scale set out in subsection (6);
 
-                    (aa)  where his or her period of service is less than 8 years but he or she has, on each of at least 3 occasions (including occasions before the commencement of this paragraph), ceased to be a member upon the dissolution or expiration of the House of which he or she was then a member or upon the expiration of his or her term of office—a retiring allowance during his or her life‑time at the rate applicable in accordance with the scale set out in subsection (6) in the case of a member whose period of service is 8 years; or
+                    (aa)  where his or her period of service is less than 8 years but he or she has, on each of at least 3 occasions (including occasions before the commencement of this paragraph), ceased to be a member upon the dissolution or expiration of the House of which he or she was then a member or upon the expiration of his or her term of office—a retiring allowance during his or her life-time at the rate applicable in accordance with the scale set out in subsection (6) in the case of a member whose period of service is 8 years; or
 
                      (b)  in any other case—the greater of the following:
 
                               (i)  a refund of his or her contributions together with a payment of the Commonwealth supplement;
 
-                             (ii)  the superannuation guarantee safety‑net amount.
+                             (ii)  the superannuation guarantee safety-net amount.
 
-    (2AAA)  If the amount referred to in subparagraph (2)(b)(i) is equal to the amount referred to in subparagraph (2)(b)(ii), paragraph (2)(b) has effect as if the amount referred to in subparagraph (2)(b)(i) were greater than the amount referred to in subparagraph (2)(b)(ii).
+     (2AAA)  If the amount referred to in subparagraph (2)(b)(i) is equal to the amount referred to in subparagraph (2)(b)(ii), paragraph (2)(b) has effect as if the amount referred to in subparagraph (2)(b)(i) were greater than the amount referred to in subparagraph (2)(b)(ii).
 
        (2AA)  In the case of a member (other than a member to whom subsection (1A) or (1B) applies) whose retirement is an invalidity retirement, the benefit (subject to subsections (8A), (8AC) and (8B)) is:
 
-                     (a)  if the member’s period of service is not less than 8 years—a retiring allowance during his or her life‑time at the rate applicable in accordance with the scale set out in subsection (6); or
+                     (a)  if the member’s period of service is not less than 8 years—a retiring allowance during his or her life-time at the rate applicable in accordance with the scale set out in subsection (6); or
 
                      (b)  if the member’s period of service is less than 8 years but he or she has, on each of at least 3 occasions (including occasions before the commencement of this subsection), ceased to be a member upon:
 
@@ -1088,7 +1084,7 @@ Definitions—superannuation guarantee charge
 
                              (ii)  the expiration of his or her term of office;
 
-                            a retiring allowance during his or her life‑time at the rate of 50% of parliamentary allowance for the time being payable to a member; or
+                            a retiring allowance during his or her life-time at the rate of 50% of parliamentary allowance for the time being payable to a member; or
 
                      (c)  if:
 
@@ -1096,7 +1092,7 @@ Definitions—superannuation guarantee charge
 
                              (ii)  he or she is a class 1 invalid;
 
-                            a retiring allowance during his or her life‑time at the rate of 50% of parliamentary allowance for the time being payable to a member; or
+                            a retiring allowance during his or her life-time at the rate of 50% of parliamentary allowance for the time being payable to a member; or
 
                      (d)  if:
 
@@ -1104,7 +1100,7 @@ Definitions—superannuation guarantee charge
 
                              (ii)  he or she is a class 2 invalid;
 
-                            a retiring allowance during his or her life‑time at the rate of 30% of parliamentary allowance for the time being payable to a member; or
+                            a retiring allowance during his or her life-time at the rate of 30% of parliamentary allowance for the time being payable to a member; or
 
                      (e)  if:
 
@@ -1116,25 +1112,25 @@ Definitions—superannuation guarantee charge
 
                             (iii)  a refund of his or her contributions together with a payment of the Commonwealth supplement;
 
-                            (iv)  the superannuation guarantee safety‑net amount.
+                            (iv)  the superannuation guarantee safety-net amount.
 
 Note:          The references in this subsection to the rate of parliamentary allowance for the time being payable are affected by section 22T.
 
-       (2AB)  If the amount referred to in subparagraph (2AA)(e)(iii) is equal to the amount referred to in subparagraph (2AA)(e)(iv), paragraph (2AA)(e) has effect as if the amount referred to in subparagraph (2AA)(e)(iii) were greater than the amount referred to in subparagraph (2AA)(e)(iv).
+        (2AB)  If the amount referred to in subparagraph (2AA)(e)(iii) is equal to the amount referred to in subparagraph (2AA)(e)(iv), paragraph (2AA)(e) has effect as if the amount referred to in subparagraph (2AA)(e)(iii) were greater than the amount referred to in subparagraph (2AA)(e)(iv).
 
-       (2AC)  If:
+        (2AC)  If:
 
                      (a)  a person is entitled to a retiring allowance under paragraph (2AA)(c) or (d); and
 
                      (b)  under section 15C, the Trust reviews the person’s current classification as a class 1 invalid or a class 2 invalid, as the case may be; and
 
-                     (c)  the Trust decides to re‑classify the person under section 15C;
+                     (c)  the Trust decides to re-classify the person under section 15C;
 
-the following provisions have effect from the date on which the re‑classification takes effect:
+the following provisions have effect from the date on which the re-classification takes effect:
 
                      (d)  the person ceases to be entitled to a retiring allowance under whichever of paragraph (2AA)(c) or (d) was applicable;
 
-                     (e)  the person becomes entitled to a retiring allowance or benefit under whichever of paragraph (2AA)(c), (d) or (e) is applicable to the person as a result of the re‑classification.
+                     (e)  the person becomes entitled to a retiring allowance or benefit under whichever of paragraph (2AA)(c), (d) or (e) is applicable to the person as a result of the re-classification.
 
           (2A)  For the purposes of subsection (1B) and paragraphs (2)(aa) and (2AA)(b), every senator whose term of office was 6 years shall, if at the expiration of 3 years after the commencement of that term of office that term of office had not expired, be deemed (in addition to his or her having ceased to be a senator at the actual expiration of that term of office if he or she continued in office for the whole of that term) to have at the expiration of that period of 3 years ceased to be a senator by reason of the expiration of that term of office.
 
@@ -1144,7 +1140,7 @@ the following provisions have effect from the date on which the re‑classificat
 
                      (a)  a refund of his or her contributions together with a payment of 50% of the Commonwealth supplement;
 
-                     (b)  the superannuation guarantee safety‑net amount.
+                     (b)  the superannuation guarantee safety-net amount.
 
              (5)  If the amount referred to in paragraph (4)(a) is equal to the amount referred to in paragraph (4)(b), subsection (4) has effect as if the amount referred to in paragraph (4)(a) were greater than the amount referred to in paragraph (4)(b).
 
@@ -1273,25 +1269,25 @@ the percentage of the rate of parliamentary allowance applicable in relation to 
 
           (8A)  If:
 
-                     (a)  a person’s surcharge debt account is in debit at the most recent benefit start‑up time; and
+                     (a)  a person’s surcharge debt account is in debit at the most recent benefit start-up time; and
 
                      (b)  apart from this subsection, the person would be entitled to a retiring allowance under subsection (1A) or (1B) or paragraph (2)(a) or (aa) or (2AA)(a), (b), (c) or (d);
 
-then, instead of the retiring allowance referred to in paragraph (b), and for so long as the person does not make an election under subsection 18A(1) after the most recent benefit start‑up time, the person is entitled to a retiring allowance during his or her life‑time at a rate equal to such percentage of the rate of parliamentary allowance for the time being payable to a member as is worked out by using the formula:
+then, instead of the retiring allowance referred to in paragraph (b), and for so long as the person does not make an election under subsection 18A(1) after the most recent benefit start-up time, the person is entitled to a retiring allowance during his or her life-time at a rate equal to such percentage of the rate of parliamentary allowance for the time being payable to a member as is worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image002.gif)
 
 where:
 
-                    <a name="basic-rate"></a>**_basic rate_** means the rate at which, at the most recent benefit start‑up time, the retiring allowance referred to in paragraph (b) would have been payable to the person if this subsection did not apply to the person.
+                    <a name="basic-rate"></a>**_basic rate_** means the rate at which, at the most recent benefit start-up time, the retiring allowance referred to in paragraph (b) would have been payable to the person if this subsection did not apply to the person.
 
                     <a name="percentag"></a>**_percentage_** means:
 
-                     (a)  if, apart from this subsection, the person would have been, at the most recent benefit start‑up time, entitled to a retiring allowance under subsection (1A) or (1B) or paragraph (2)(a) or (aa) or (2AA)(a)—the percentage of the rate of parliamentary allowance by reference to which the rate of that retiring allowance would have been, at the most recent benefit start‑up time, ascertained (see subsection (6) and, if applicable, subsections (7) and (8)); or
+                     (a)  if, apart from this subsection, the person would have been, at the most recent benefit start-up time, entitled to a retiring allowance under subsection (1A) or (1B) or paragraph (2)(a) or (aa) or (2AA)(a)—the percentage of the rate of parliamentary allowance by reference to which the rate of that retiring allowance would have been, at the most recent benefit start-up time, ascertained (see subsection (6) and, if applicable, subsections (7) and (8)); or
 
-                     (b)  if, apart from this subsection, the person would have been, at the most recent benefit start‑up time, entitled to a retiring allowance under paragraph (2AA)(b), (c) or (d)—the percentage of the rate of parliamentary allowance specified in that paragraph.
+                     (b)  if, apart from this subsection, the person would have been, at the most recent benefit start-up time, entitled to a retiring allowance under paragraph (2AA)(b), (c) or (d)—the percentage of the rate of parliamentary allowance specified in that paragraph.
 
-                    <a name="surcharg-adjust"></a>**_surcharge adjustment_** means the total of the person’s notional adjustment debits arising under any or all of the following provisions at or before the most recent benefit start‑up time:
+                    <a name="surcharg-adjust"></a>**_surcharge adjustment_** means the total of the person’s notional adjustment debits arising under any or all of the following provisions at or before the most recent benefit start-up time:
 
                      (a)  subsection (8AA);
 
@@ -1299,17 +1295,17 @@ where:
 
                      (c)  subsection 18A(6).
 
-    (8AAA)  Any reduction under section 22CH is to be disregarded in applying the definition of **_basic rate_** in subsection (8A) of this section.
+     (8AAA)  Any reduction under section 22CH is to be disregarded in applying the definition of **_basic rate_** in subsection (8A) of this section.
 
        (8AA)  If:
 
-                     (a)  a person’s surcharge debt account is in debit at the most recent benefit start‑up time; and
+                     (a)  a person’s surcharge debt account is in debit at the most recent benefit start-up time; and
 
                      (b)  apart from subsection (8A), the person would be entitled to a retiring allowance under subsection (1A) or (1B) or paragraph (2)(a) or (aa) or (2AA)(a), (b), (c) or (d);
 
-there is taken to have arisen at the most recent benefit start‑up time a notional adjustment debit of the person equal to the amount worked out using the following formula:
+there is taken to have arisen at the most recent benefit start-up time a notional adjustment debit of the person equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image003.gif)
 
 where:
 
@@ -1317,7 +1313,7 @@ where:
 
                     <a name="surcharg-duction-amount"></a>**_surcharge deduction amount_** means the person’s surcharge deduction amount.
 
-       (8AB)  If:
+        (8AB)  If:
 
                      (a)  at the time this subsection commences (the **_commencement time_**), a person is entitled to a retiring allowance under subsection (8A); and
 
@@ -1325,25 +1321,25 @@ where:
 
 there is taken to have arisen at the commencement time a notional adjustment debit of the person equal to that surcharge adjustment.
 
-       (8AC)  If:
+        (8AC)  If:
 
-                     (a)  a person makes an election under subsection 18A(1) on a particular day (the **_election_** **_day_**) after the most recent benefit start‑up time; and
+                     (a)  a person makes an election under subsection 18A(1) on a particular day (the **_election_** **_day_**) after the most recent benefit start-up time; and
 
                      (b)  if the election had not been made, the person would have been entitled on the election day to a retiring allowance under subsection (1A), (1B) or (8A) or this subsection or paragraph (2)(a) or (aa) or (2AA)(a), (b), (c) or (d);
 
 then, on and after the election day, instead of the retiring allowance referred to in paragraph (b), the person is entitled to a retiring allowance during his or her lifetime at a rate equal to such percentage of the rate of parliamentary allowance for the time being payable to a member as is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image004.gif)
 
 where:
 
-                    <a name="basic-rate"></a>**_basic rate_** means the rate at which, at the most recent benefit start‑up time, a retiring allowance under subsection (1A) or (1B) or paragraph (2)(a) or (aa) or (2AA)(a), (b), (c) or (d) would have become payable to the person if this subsection and subsection (8A) did not apply to the person.
+                    <a name="basic-rate"></a>**_basic rate_** means the rate at which, at the most recent benefit start-up time, a retiring allowance under subsection (1A) or (1B) or paragraph (2)(a) or (aa) or (2AA)(a), (b), (c) or (d) would have become payable to the person if this subsection and subsection (8A) did not apply to the person.
 
                     <a name="percentag"></a>**_percentage_** means:
 
-                     (a)  if, apart from this subsection and subsection (8A), the person would have been entitled at the most recent benefit start‑up time to a retiring allowance under subsection (1A) or (1B) or paragraph (2)(a) or (aa) or (2AA)(a)—the percentage of the rate of parliamentary allowance by reference to which the rate of that retiring allowance would be ascertained (see subsection (6) and, if applicable, subsections (7) and (8)); or
+                     (a)  if, apart from this subsection and subsection (8A), the person would have been entitled at the most recent benefit start-up time to a retiring allowance under subsection (1A) or (1B) or paragraph (2)(a) or (aa) or (2AA)(a)—the percentage of the rate of parliamentary allowance by reference to which the rate of that retiring allowance would be ascertained (see subsection (6) and, if applicable, subsections (7) and (8)); or
 
-                     (b)  if, apart from this subsection and subsection (8A), the person would have been entitled at the most recent benefit start‑up time to a retiring allowance under paragraph (2AA)(b), (c) or (d)—the percentage of the rate of parliamentary allowance specified in that paragraph.
+                     (b)  if, apart from this subsection and subsection (8A), the person would have been entitled at the most recent benefit start-up time to a retiring allowance under paragraph (2AA)(b), (c) or (d)—the percentage of the rate of parliamentary allowance specified in that paragraph.
 
                     <a name="surcharg-adjust"></a>**_surcharge adjustment_** means the total of:
 
@@ -1355,7 +1351,7 @@ where:
 
                             (iii)  subsection (8AB); and
 
-                     (b)  the person’s notional adjustment debits arising under subsection 18B(15) after the most recent benefit start‑up time and before the end of the election day.
+                     (b)  the person’s notional adjustment debits arising under subsection 18B(15) after the most recent benefit start-up time and before the end of the election day.
 
      (8ACA)  Any reduction under section 22CH is to be disregarded in applying the definition of **_basic rate_** in subsection (8AC) of this section.
 
@@ -1397,7 +1393,7 @@ Note:          The reference in this subsection to the rate of
 
         (10A)  Where the relevant percentage ascertained in accordance with subsection (10) in relation to the service of a person in a particular office would, if it were calculated to 4 decimal places, end with a number greater than 4, that percentage shall be taken to be the percentage calculated to 3 decimal places in accordance with that subsection and increased by 0.001.
 
-        (10B)  Nothing in subsection (9) shall be taken to entitle a person to additional retiring allowance at a rate that exceeds:
+         (10B)  Nothing in subsection (9) shall be taken to entitle a person to additional retiring allowance at a rate that exceeds:
 
                      (a)  in a case where the person is entitled to additional retiring allowance in respect of one office only—75% of the rate, for the time being, at which salary or allowance by way of salary, as the case may be, is payable in respect of that office; or
 
@@ -1427,7 +1423,7 @@ the person may, within:
 
                      (e)  such longer period as the Trust allows;
 
-give the Secretary of the Finance Department a written notice electing to commute the whole or a part of the person’s retiring allowance to a lump sum benefit equal to the amount specified in the election.
+give the Secretary of the Department of Finance and Administration a written notice electing to commute the whole or a part of the person’s retiring allowance to a lump sum benefit equal to the amount specified in the election.
 
              (2)  The election must be accompanied by:
 
@@ -1465,7 +1461,7 @@ Notional adjustment debit
 
              (6)  If a person makes an election under subsection (1) on a particular day, there is taken to have arisen at the start of that day a notional adjustment debit of the person equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image005.gif)
 
 where:
 
@@ -1485,15 +1481,15 @@ One election per assessment
 
 Note:          For the purposes of this section, a person who is a deferring member for the purposes of Part VA is treated as not becoming entitled to a retiring allowance before the person attains the age of 55 years. See section 22DC.
 
-             (3)  Notwithstanding anything in this Act, a person may, not earlier than 3 months before, and not later than 3 months after, becoming a person to whom this section applies, by notice in writing signed by the person and delivered personally or sent by post to the Secretary of the Finance Department, elect to convert such percentage (not exceeding 50%) of his or her retiring allowance as is specified in the notice (in this section referred to as the **_specified percentage_**) to a lump sum payment determined in accordance with this section.
+             (3)  Notwithstanding anything in this Act, a person may, not earlier than 3 months before, and not later than 3 months after, becoming a person to whom this section applies, by notice in writing signed by the person and delivered personally or sent by post to the Secretary to the Department of Finance, elect to convert such percentage (not exceeding 50%) of his or her retiring allowance as is specified in the notice (in this section referred to as the **_specified percentage_**) to a lump sum payment determined in accordance with this section.
 
-          (3A)  A person who has made an election under subsection (3) to convert a percentage of his or her retiring allowance to a lump sum payment may, not later than 3 months after, but not earlier than 3 months before, becoming a person to whom this section applies, by notice in writing given to the Secretary of the Finance Department, elect that the person’s surcharge deduction amount be deducted from the lump sum payment
+          (3A)  A person who has made an election under subsection (3) to convert a percentage of his or her retiring allowance to a lump sum payment may, not later than 3 months after, but not earlier than 3 months before, becoming a person to whom this section applies, by notice in writing given to the Secretary to the Department of Finance, elect that the person’s surcharge deduction amount be deducted from the lump sum payment
 
              (4)  If the person has not made an election under subsection (3A), the amount of the lump sum payment is:
 
                      (a)  in any of the cases mentioned in subsection (5)—the specified percentage of the annual amount of the retiring allowance payable to him or her multiplied by 10; or
 
-                     (b)  in any other case—the specified percentage of the annual amount of the retiring allowance payable to him or her multiplied by the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image006.gif),
+                     (b)  in any other case—the specified percentage of the annual amount of the retiring allowance payable to him or her multiplied by the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image006.gif),
 
                             where **_x_** is the number of whole months in the period that commenced on the day on which he or she attained the age of 65 years and ended on the day immediately before he or she became entitled to the retiring allowance.
 
@@ -1521,7 +1517,7 @@ Note:          For the purposes of this section, a person who 
 
                      (a)  the percentage of the rate of parliamentary allowance applicable in relation to him or her under section 18 for the purpose of calculating the rate of retiring allowance payable to him or her under that section (other than any additional retiring allowance payable under subsection (9) of that section) shall, in lieu of the percentage (in this paragraph referred to as the **_previous percentage_**) that would, but for this paragraph, be applicable in relation to him or her under that section, be ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image007.gif)
 
                             where:
 
@@ -1531,7 +1527,7 @@ Note:          For the purposes of this section, a person who 
 
                      (b)  if the person is entitled to additional retiring allowance under subsection 18(9), the percentage that is, under that subsection, the relevant percentage for the purpose of ascertaining the additional retiring allowance payable to him or her under that subsection in respect of his or her service in an office shall, in lieu of the percentage (in this paragraph referred to as the **_previous percentage_**) that would, but for this paragraph, be the relevant percentage, under that subsection, in respect of his or her service in that office, be ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image008.gif),
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image008.gif),
 
                             where:
 
@@ -1571,7 +1567,7 @@ would, within 12 months after having become entitled to that retiring allowance,
 
 there is taken to have arisen at the start of the election day a notional adjustment debit of the person equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image009.gif)
 
 where:
 
@@ -1607,9 +1603,9 @@ paragraph (6)(a) ceases to apply to the retiring allowance on the election day
 
 benefits are payable in accordance with this section.
 
-             (2)  Subject to sections 19AAA and 21AA, if the deceased person is survived by a spouse, there is payable to the spouse an annuity, during his or her life‑time, at a rate ascertained in accordance with subsection (3).
+             (2)  Subject to sections 19AAA and 21AA, if the deceased person is survived by a spouse, there is payable to the spouse an annuity, during his or her life-time, at a rate ascertained in accordance with subsection (3).
 
-             (3)  The rate of the annuity referred to in subsection (2) is five‑sixths of the rate of the retiring allowance that would have been applicable to the deceased person if he or she had not died and:
+             (3)  The rate of the annuity referred to in subsection (2) is five-sixths of the rate of the retiring allowance that would have been applicable to the deceased person if he or she had not died and:
 
                     (aa)  where he or she died while entitled to a retiring allowance the rate of which was, at the time of his or her death, reduced under section 21B—the rate of retiring allowance to which he or she was entitled was not so reduced;
 
@@ -1643,7 +1639,7 @@ the spouse may, within:
 
                      (g)  such longer period as the Trust allows;
 
-give the Secretary of the Finance Department a written notice electing to commute the whole or a part of the annuity to a lump sum benefit equal to the amount specified in the election.
+give the Secretary of the Department of Finance and Administration a written notice electing to commute the whole or a part of the annuity to a lump sum benefit equal to the amount specified in the election.
 
              (2)  The election must be accompanied by:
 
@@ -1751,7 +1747,7 @@ unless the child would, in the Trust’s opinion, have been a dependant of the d
 
                     <a name="child"></a>**_child_**, in relation to a person, means a child of the person, including:
 
-                     (a)  an adopted child or an ex‑nuptial child of the person; and
+                     (a)  an adopted child or an ex-nuptial child of the person; and
 
                      (b)  someone who is a child of the person within the meaning of the _Family Law Act 1975_.
 
@@ -1765,7 +1761,7 @@ unless the child would, in the Trust’s opinion, have been a dependant of the d
 
                               (i)  has attained the age of 16 years but has not attained the age of 25 years; and
 
-                             (ii)  is receiving full‑time education at a school, college or university.
+                             (ii)  is receiving full-time education at a school, college or university.
 
 ##### <a id="19ABA"></a>19ABA  Commutation of orphaned child’s annuity—payment of surcharge liability
 
@@ -1797,7 +1793,7 @@ the eligible person may, within:
 
                      (g)  such longer period as the Trust allows;
 
-give the Secretary of the Finance Department a written notice electing to commute the whole or a part of the annuity to a lump sum benefit equal to the amount specified in the election.
+give the Secretary of the Department of Finance and Administration a written notice electing to commute the whole or a part of the annuity to a lump sum benefit equal to the amount specified in the election.
 
              (2)  The election must be accompanied by:
 
@@ -1867,7 +1863,7 @@ there is payable to the personal representative of the deceased person the amoun
 
                              (ii)  the Commonwealth supplement in relation to the deceased person;
 
-                     (d)  the superannuation guarantee safety‑net amount in relation to the deceased person;
+                     (d)  the superannuation guarantee safety-net amount in relation to the deceased person;
 
 exceeds the sum of any benefits under this Act paid to, or accrued due to, the deceased person before the death of that person.
 
@@ -1889,7 +1885,7 @@ an amount of benefit worked out under subsection (1C) is payable to the person
 
                               (i)  the sum of the contributions paid by the deceased person and the Commonwealth supplement in relation to him or her;
 
-                             (ii)  the superannuation guarantee safety‑net amount in relation to the person;
+                             (ii)  the superannuation guarantee safety-net amount in relation to the person;
 
                             exceeds the sum of any benefits under this Act paid to, or accrued due to, the person before his or her death; or
 
@@ -1913,7 +1909,7 @@ an amount of benefit worked out under subsection (1C) is payable to the person
 
                                         (B)  the Commonwealth supplement in relation to the deceased person;
 
-                             (ii)  the superannuation guarantee safety‑net amount in relation to the deceased person;
+                             (ii)  the superannuation guarantee safety-net amount in relation to the deceased person;
 
 exceeds the sum of any benefits under this Act:
 
@@ -1941,9 +1937,9 @@ an amount equal to the excess is payable to the personal representative of the d
 
                      (c)  has, whether before or after the commencement of this section, attained the age of 45 years;
 
-shall be paid a retiring allowance at the rate ascertained in accordance with the scale set out in subsection (2A) during his or her life‑time.
+shall be paid a retiring allowance at the rate ascertained in accordance with the scale set out in subsection (2A) during his or her life-time.
 
-             (2)  Where a person who has held office as specified in paragraph (1)(a) has died or dies (either while holding office as Prime Minister or after ceasing so to hold office), and that person is survived by a spouse, the spouse shall be paid an annuity, during her or his life‑time, at a rate equal to one‑half of the rate of the retiring allowance calculated, in relation to the service of the former Prime Minister, in accordance with the scale set out in subsection (2A).
+             (2)  Where a person who has held office as specified in paragraph (1)(a) has died or dies (either while holding office as Prime Minister or after ceasing so to hold office), and that person is survived by a spouse, the spouse shall be paid an annuity, during her or his life-time, at a rate equal to one-half of the rate of the retiring allowance calculated, in relation to the service of the former Prime Minister, in accordance with the scale set out in subsection (2A).
 
           (2A)  The rate of retiring allowance under subsection (1) shall be ascertained in accordance with the following scale:
 
@@ -2019,11 +2015,11 @@ shall be paid a retiring allowance at the rate ascertained in accordance with th
 
                      (b)  ceased to hold the office of Prime Minister before 12 June 1978 after having held that office for a continuous period of not less than 2 years or for periods amounting in the aggregate to not less than 2 years and was entitled to a parliamentary allowance on that date;
 
-may, within 3 months after 12 June 1978, by notice in writing signed by the person and delivered personally or sent by post to the Secretary of the Finance Department, elect that this section shall not apply to and in respect of him or her and, where such an election is made, a retiring allowance is not payable under this section to the person and an annuity is not payable under this section to a spouse of the person.
+may, within 3 months after 12 June 1978, by notice in writing signed by the person and delivered personally or sent by post to the Secretary to the Department of Finance, elect that this section shall not apply to and in respect of him or her and, where such an election is made, a retiring allowance is not payable under this section to the person and an annuity is not payable under this section to a spouse of the person.
 
              (7)  Any period in which a person has held the office of Prime Minister and which is taken into account for the purposes of the application of this section to or in respect of the person shall be deemed for the purposes of this Act not to be a period in which the person served as a Minister of State.
 
-##### <a id="20"></a>20  Re‑election to the Parliament
+##### <a id="20"></a>20  Re-election to the Parliament
 
           (1A)  In this section:
 
@@ -2037,23 +2033,23 @@ may, within 3 months after 12 June 1978, by notice in writing signed by the pe
 
                      (a)  a refund of contributions or a payment of the whole or a part of the Commonwealth supplement, or both; or
 
-                     (b)  the superannuation guarantee safety‑net amount.
+                     (b)  the superannuation guarantee safety-net amount.
 
        (1AA)  If a person who has received an eligible lump sum amount under this Act again becomes a member, the person may enter into a contract with the Trust, in the manner required by the Trust, to repay the amount specified in subsection (1AD) to the Commonwealth within 3 years of the person again becoming a member.
 
-       (1AB)  The contract must be made in the period of 3 months after the person again becomes a member.
+        (1AB)  The contract must be made in the period of 3 months after the person again becomes a member.
 
-       (1AC)  If there has not been a cut off date for the person in the 3 month period, the trust may extend the period until the first cut off date for the person after the person again becomes a member.
+        (1AC)  If there has not been a cut off date for the person in the 3 month period, the trust may extend the period until the first cut off date for the person after the person again becomes a member.
 
        (1AD)  The amount referred to in subsection (1AA) is calculated as follows:
 
                      (a)  if paragraph (b) does not apply to the person—the amount is worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image010.gif)
 
                      (b)  if the person’s surcharge debt account was in debit when the eligible lump sum amount became payable to the person—the amount is worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image011.gif)
 
 where:
 
@@ -2073,13 +2069,13 @@ before the person became entitled to the eligible lump sum amount.
 
              (2)  Where an amount referred to in subsection (1) was accepted in lieu of a retiring allowance, the amount which would otherwise be the subject of a contract of repayment under that subsection shall be reduced by the amount of retiring allowance to which the member would have been entitled, up to the time when he or she again became a member, if he or she had not elected to accept a payment in lieu of retiring allowance.
 
-          (2A)  Where a person who is entitled to a parliamentary allowance on 12 June 1978 has, at any time before that date, received an amount referred to in subsection (1) that he or she did not contract, or was not entitled to contract, with the Trust to repay to the Commonwealth as provided by that subsection, the person may, within 3 months after that date, by notice in writing signed by the person and delivered personally or sent by post to the Secretary of the Finance Department, elect to repay that amount to the Commonwealth.
+          (2A)  Where a person who is entitled to a parliamentary allowance on 12 June 1978 has, at any time before that date, received an amount referred to in subsection (1) that he or she did not contract, or was not entitled to contract, with the Trust to repay to the Commonwealth as provided by that subsection, the person may, within 3 months after that date, by notice in writing signed by the person and delivered personally or sent by post to the Secretary to the Department of Finance, elect to repay that amount to the Commonwealth.
 
-          (2B)  Where a person who becomes entitled to a parliamentary allowance on or after 12 June 1978 has, at any time before that date, received an amount referred to in subsection (1) that he or she is not entitled to contract with the Trust to repay to the Commonwealth as provided by that subsection, the person may, within 3 months after the date on which he or she so becomes entitled to a parliamentary allowance, by notice in writing signed by the person and delivered personally or sent by post to the Secretary of the Finance Department, elect to repay that amount to the Commonwealth.
+          (2B)  Where a person who becomes entitled to a parliamentary allowance on or after 12 June 1978 has, at any time before that date, received an amount referred to in subsection (1) that he or she is not entitled to contract with the Trust to repay to the Commonwealth as provided by that subsection, the person may, within 3 months after the date on which he or she so becomes entitled to a parliamentary allowance, by notice in writing signed by the person and delivered personally or sent by post to the Secretary to the Department of Finance, elect to repay that amount to the Commonwealth.
 
           (2C)  Where an election is made under subsection (2A) or (2B) to repay an amount to the Commonwealth:
 
-                     (a)  the amount shall be repaid at such times and in such amounts as are agreed upon between the person and the Finance Minister or, in the absence of agreement, at such times and in such amounts as the Finance Minister determines, but so that the total of the amounts is repaid to the Commonwealth within 3 years after the date on which the person made the election; and
+                     (a)  the amount shall be repaid at such times and in such amounts as are agreed upon between the person and the Minister for Finance or, in the absence of agreement, at such times and in such amounts as the Minister for Finance determines, but so that the total of the amounts is repaid to the Commonwealth within 3 years after the date on which the person made the election; and
 
                      (b)  subsection (1) does not prevent any part of the period of service of the person, and any occasion on which he or she ceased to be a member, before he or she became entitled to that amount from being taken into account for the purposes of determining his or her rights in respect of any further benefit under this Act.
 
@@ -2093,7 +2089,7 @@ before the person became entitled to the eligible lump sum amount.
 
                      (b)  the person subsequently becomes entitled to a retiring allowance;
 
-the annual amount of the last‑mentioned retiring allowance shall be reduced by:
+the annual amount of the last-mentioned retiring allowance shall be reduced by:
 
                      (c)  if the person previously elected on more than one occasion to convert into a lump sum payment a percentage of the retiring allowance to which he or she was entitled—an amount equal to the total of the annual amounts by which the respective retiring allowances to which he or she was previously entitled were reduced by reason of the elections; or
 
@@ -2127,9 +2123,9 @@ the annual amount of the last‑mentioned retiring allowance shall be reduced by
 
                             (iii)  the Legislative Assembly of the Northern Territory of Australia.
 
-       (1AB)  Subject to subsection (1AC), this section does not apply in relation to a member unless the member is an eligible member.
+        (1AB)  Subject to subsection (1AC), this section does not apply in relation to a member unless the member is an eligible member.
 
-       (1AC)  An eligible member may elect, in writing, that this section does not apply in relation to him or her. The election has effect accordingly.
+        (1AC)  An eligible member may elect, in writing, that this section does not apply in relation to him or her. The election has effect accordingly.
 
        (1AD)  An election under subsection (1AC) must be given to the Trust before whichever is the earlier of the following times:
 
@@ -2163,7 +2159,7 @@ the annual amount of the last‑mentioned retiring allowance shall be reduced by
 
                     <a name="gener-elect"></a>**_general election_** means a general election of the members of the House of Representatives.
 
-##### <a id="21"></a>21  Reduction of benefits as a result of membership of a State Parliament, the Northern Territory Legislative Assembly or the A.C.T. Legislative Assembly
+##### <a id="21"></a>21  Reduction of benefits as a result of membership of a State Parliament, the Northern   Territory Legislative Assembly or the A.C.T. Legislative Assembly
 
              (1)  Subject to this section, if:
 
@@ -2225,7 +2221,7 @@ when making the allocation.
 
              (3)  Subject to subsections (4) and (5), annuities or benefits are only payable to each spouse and eligible child (if any) in accordance with the allocation.
 
-             (4)  The aggregate of the rates of the annuities and benefits payable under an allocation must not exceed five‑sixths of the rate of the retiring allowances applicable to the deceased person.
+             (4)  The aggregate of the rates of the annuities and benefits payable under an allocation must not exceed five-sixths of the rate of the retiring allowances applicable to the deceased person.
 
              (5)  In subsection (4), the rate of the retiring allowance applicable to the deceased person means the rate of the retiring allowance that would have been applicable to the deceased person if he or she had not died and:
 
@@ -2241,13 +2237,13 @@ when making the allocation.
 
              (1)  In this section, unless the contrary intention appears:
 
-                    <a name="annual-tax-incom"></a>**_annual after‑tax income_**, in relation to a hypothetical taxpayer and in relation to a year of income, means the hypothetical taxpayer’s taxable income for the year of income, reduced by the income tax and the medicare levy imposed on that taxable income.
+                    <a name="annual-tax-incom"></a>**_annual after-tax income_**, in relation to a hypothetical taxpayer and in relation to a year of income, means the hypothetical taxpayer’s taxable income for the year of income, reduced by the income tax and the medicare levy imposed on that taxable income.
 
                     <a name="assess-incom"></a>**_assessable income_** has the same meaning as in the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_, as appropriate.
 
                     <a name="authorized-offic"></a>**_authorized officer_** means an officer of the Department who is appointed by the Secretary to be an authorized officer for the purposes of this section.
 
-                    <a name="fortnightli-gross-amount"></a>**_fortnightly grossed‑up amount_**, in relation to particular remuneration, means the amount of assessable income that a hypothetical taxpayer would have to derive during each fortnight in the year of income concerned in order that the hypothetical taxpayer’s annual after‑tax income for the year of income would equal the annual rate of the remuneration.
+                    <a name="fortnightli-gross-amount"></a>**_fortnightly grossed-up amount_**, in relation to particular remuneration, means the amount of assessable income that a hypothetical taxpayer would have to derive during each fortnight in the year of income concerned in order that the hypothetical taxpayer’s annual after-tax income for the year of income would equal the annual rate of the remuneration.
 
                     <a name="governor"></a>**_Governor_** means:
 
@@ -2277,17 +2273,17 @@ when making the allocation.
 
                                         (B)  a Minister of the State; or
 
-                            (iii)  an office of Head of Administration or Associate Head of Administration under section 49 of the _Australian Capital Territory (Self‑Government) Act 1988_;
+                            (iii)  an office of Head of Administration or Associate Head of Administration under section 49 of the _Australian Capital Territory (Self-Government) Act 1988_;
 
 but does not include a member of the Parliament of the State.
 
                     <a name="holder-offic-profit-commonwealth"></a>**_holder of an office of profit under the Commonwealth_** means:
 
-                     (a)  the Governor‑General;
+                     (a)  the Governor-General;
 
                      (b)  a Justice or Judge of a federal court (other than the Federal Magistrates Court);
 
-                   (ba)  a Federal Magistrate;
+                    (ba)  a Federal Magistrate;
 
                      (c)  a person who, by virtue of an Act, has the same status as a Justice or Judge of a federal court or of the Supreme Court of a Territory;
 
@@ -2319,7 +2315,7 @@ but does not include a member of the Parliament of the State.
 
                      (b)  in relation to a Territory—a person holding, in relation to the Territory, an office corresponding to the office of Minister of the Crown for a State.
 
-                    <a name="parliam"></a>**_Parliament_**, in relation to the Australian Capital Territory means the Legislative Assembly for the Australian Capital   Territory, and in relation to the Northern Territory, means the Legislative Assembly of the Northern Territory.
+                    <a name="parliam"></a>**_Parliament_**, in relation to the Australian   Capital Territory means the Legislative Assembly for the Australian Capital   Territory, and in relation to the Northern Territory, means the Legislative Assembly of the Northern Territory.
 
                     <a name="relev-benefit"></a>**_relevant benefit_** means:
 
@@ -2333,7 +2329,7 @@ but does not include a member of the Parliament of the State.
 
                      (b)  any allowance under section 4 of the _Parliamentary Allowances Act 1952_.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
                     <a name="state"></a>**_State_** includes Territory.
 
@@ -2361,17 +2357,17 @@ as appropriate.
 
 the fortnightly rate at which the relevant benefit would otherwise be payable to the person is to be reduced by 50 cents for each $1 of the excess.
 
-          (2A)  For the purposes of working out the reduction of a relevant benefit under subsection (2), if the remuneration referred to in that subsection is exempt from income tax, the fortnightly rate of the remuneration is taken to be the fortnightly grossed‑up amount of the remuneration.
+          (2A)  For the purposes of working out the reduction of a relevant benefit under subsection (2), if the remuneration referred to in that subsection is exempt from income tax, the fortnightly rate of the remuneration is taken to be the fortnightly grossed-up amount of the remuneration.
 
              (3)  If the remuneration by reference to which the relevant benefit is to be reduced under subsection (2) is payable otherwise than on a fortnightly basis, the fortnightly rate of the remuneration is taken to be the rate that the Trust determines in writing is the equivalent of a fortnightly rate.
 
           (3A)  For the purposes of working out the reduction of a relevant benefit under subsection (2), the fortnightly rate of parliamentary allowance payable to a member is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image012.gif)
 
           (3B)  For the purpose of the reference in the formula in subsection (3A) to the annual rate of parliamentary allowance, any reductions of a particular member’s entitlement to parliamentary allowance under Division 2 of Part 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_(salary sacrifice) are to be disregarded.
 
-             (4)  Notwithstanding anything contained in subsection (2), the rate of a relevant benefit to which a person is entitled shall not be reduced, or continue to be reduced, under that subsection by a rate that is more than one‑half of the rate at which the relevant benefit would have been payable to the person but for that subsection and:
+             (4)  Notwithstanding anything contained in subsection (2), the rate of a relevant benefit to which a person is entitled shall not be reduced, or continue to be reduced, under that subsection by a rate that is more than one-half of the rate at which the relevant benefit would have been payable to the person but for that subsection and:
 
                     (aa)  if subsection 18A(6) applies, whether directly or indirectly, in relation to the relevant benefit—that subsection; and
 
@@ -2387,7 +2383,7 @@ the fortnightly rate at which the relevant benefit would otherwise be payable to
 
 the person shall, within 14 days after the occurrence of the event, notify the Secretary, in writing, accordingly.
 
-                    Penalty for contravention of subsection:  15 penalty units.
+                    Penalty for contravention of subsection:       15 penalty units.
 
 Note:          Part IA of the _Crimes Act 1914_ contains provisions dealing with penalties.
 
@@ -2395,7 +2391,7 @@ Note:          Part IA of the _Crimes Act 1914_ contains pro
 
              (7)  A person shall not refuse or fail duly to furnish information that he or she is required to furnish by virtue of a notice under subsection (6).
 
-                    Penalty for contravention of subsection:  Imprisonment for 6 months, or 30 penalty units, or both.
+                    Penalty for contravention of subsection:       Imprisonment for 6 months, or 30 penalty units, or both.
 
 Note:          Part IA of the _Crimes Act 1914_ contains provisions dealing with penalties.
 
@@ -2479,9 +2475,9 @@ Note:          This amount is determined by applying those reg
 
                     <a name="member-spous"></a>**_member spouse_** has the same meaning as in Part VIIIB of the _Family Law Act 1975_.
 
-                    <a name="non-member-spous"></a>**_non‑member spouse_** has the same meaning as in Part VIIIB of the _Family Law Act 1975_.
+                    <a name="non-member-spous"></a>**_non-member spouse_** has the same meaning as in Part VIIIB of the _Family Law Act 1975_.
 
-                    <a name="non-standard-annuiti"></a>**_non‑standard annuity_** means an annuity other than a standard allowance or annuity.
+                    <a name="non-standard-annuiti"></a>**_non-standard annuity_** means an annuity other than a standard allowance or annuity.
 
                     <a name="oper-time"></a>**_operative time_**, in relation to a splitting agreement or splitting order, means the time that is the operative time for the purposes of Part VIIIB of the _Family Law Act 1975_ in relation to a payment split under the agreement or order.
 
@@ -2535,7 +2531,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image013.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image013.gif)
 
                     <a name="transfer-factor"></a>**_transfer factor_** means the number calculated by dividing the number of whole dollars in the transfer amount by the number of whole dollars in the scheme value.
 
@@ -2555,7 +2551,7 @@ Period of service at least 8 years
 
                                         (A)  0.025 for each full year; and
 
-                                        (B)  0.025/365 for each left‑over day; and
+                                        (B)  0.025/365 for each left-over day; and
 
                      (b)  the **_basic service factor at the operative time_** is the number calculated, by reference to the member spouse’s period of service before the operative time, by adding:
 
@@ -2563,13 +2559,13 @@ Period of service at least 8 years
 
                                         (A)  0.0625 for each full year; and
 
-                                        (B)  0.0625/365 for each left‑over day; and
+                                        (B)  0.0625/365 for each left-over day; and
 
                              (ii)  for service that occurred within the next 10 years:
 
                                         (A)  0.025 for each full year; and
 
-                                        (B)  0.025/365 for each left‑over day.
+                                        (B)  0.025/365 for each left-over day.
 
 Period of service less than 8 years—retiring allowance (not under subsection 18(2AA))
 
@@ -2579,7 +2575,7 @@ Period of service less than 8 years—retiring allowance (not under subsection 1
 
                      (b)  the **_basic service factor at the operative time_** is the number calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image014.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image014.gif)
 
 Period of service less than 8 years—retiring allowance under paragraph 18(2AA)(b) or (c) or annuity under paragraph 19(1)(a)
 
@@ -2591,7 +2587,7 @@ Period of service less than 8 years—retiring allowance under paragraph 18(2AA)
 
                               (i)  0.0625 for each full year; and
 
-                             (ii)  0.0625/365 for each left‑over day.
+                             (ii)  0.0625/365 for each left-over day.
 
 Period of service less than 8 years—retiring allowance under paragraph 18(2AA)(d)
 
@@ -2603,7 +2599,7 @@ Period of service less than 8 years—retiring allowance under paragraph 18(2AA)
 
                               (i)  0.0375 for each full year; and
 
-                             (ii)  0.0375/365 for each left‑over day.
+                             (ii)  0.0375/365 for each left-over day.
 
 ##### <a id="22CC"></a>22CC  Additional service factor
 
@@ -2617,13 +2613,13 @@ Where subsection 18(10B) does not apply
 
                               (i)  0.0625 for each full year; and
 
-                             (ii)  0.0625/365 for each left‑over day; and
+                             (ii)  0.0625/365 for each left-over day; and
 
                      (b)  for each office, the **_additional service factor at the operative time_** is the number calculated, by reference to the member spouse’s period of service in the office before the operative time, by adding:
 
                               (i)  0.0625 for each full year; and
 
-                             (ii)  0.0625/365 for each left‑over day.
+                             (ii)  0.0625/365 for each left-over day.
 
 Where paragraph 18(10B)(a) applies (one office)
 
@@ -2639,17 +2635,17 @@ Where paragraph 18(10B)(a) applies (one office)
 
                                         (A)  0.0625 for each full year; and
 
-                                        (B)  0.0625/365 for each left‑over day.
+                                        (B)  0.0625/365 for each left-over day.
 
-Where paragraph 18(10B)(b) applies (highest‑paid office)
+Where paragraph 18(10B)(b) applies (highest-paid office)
 
              (4)  If paragraph 18(10B)(b) applies, then:
 
                      (a)  the **_additional service factor at the payment time_** is 0.75; and
 
-                     (b)  if, at the operative time, the member spouse is not entitled to parliamentary allowance, then the **_additional service factor at the operative time_** for the highest‑paid office to which paragraph 18(10B)(b) applies is 0.75; and
+                     (b)  if, at the operative time, the member spouse is not entitled to parliamentary allowance, then the **_additional service factor at the operative time_** for the highest-paid office to which paragraph 18(10B)(b) applies is 0.75; and
 
-                     (c)  if, at the operative time, the member spouse is entitled to parliamentary allowance, then the **_additional service factor at the operative time_** for the highest‑paid office to which paragraph 18(10B)(b) applies is worked out as follows:
+                     (c)  if, at the operative time, the member spouse is entitled to parliamentary allowance, then the **_additional service factor at the operative time_** for the highest-paid office to which paragraph 18(10B)(b) applies is worked out as follows:
 
                               (i)  calculate a factor under paragraph (2)(b) of this section for each office referred to in paragraph 18(10B)(b), other than an office for which the period of service began after the operative time;
 
@@ -2661,7 +2657,7 @@ Where paragraph 18(10B)(b) applies (highest‑paid office)
 
              (6)  The weighted factor is calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image015.gif)
 
 where:
 
@@ -2669,9 +2665,9 @@ where:
 
                     <a name="salari-offic"></a>**_salary for the office_** means the number of whole dollars in the salary, or allowance by way of salary, applicable to the office at the payment time.
 
-### Division 2—Benefits for non‑member spouse
+### Division 2—Benefits for non-member spouse
 
-##### <a id="22CD"></a>22CD  Associate annuity for non‑member spouse
+##### <a id="22CD"></a>22CD  Associate annuity for non-member spouse
 
              (1)  This section applies to a superannuation interest under this Act (the **_original interest_**)if:
 
@@ -2679,17 +2675,17 @@ where:
 
                      (b)  the original interest is not an entitlement to an annuity under section 19AA; and
 
-                     (c)  the member spouse and the non‑member spouse are both alive at the operative time; and
+                     (c)  the member spouse and the non-member spouse are both alive at the operative time; and
 
                      (d)  if a base amount applies—the base amount at the operative time is not more than the family law value or the scheme value.
 
 Immediate annuity if operative time in payment phase
 
-             (2)  If, at the operative time, standard allowance or annuity is payable in respect of the original interest, then the non‑member spouse is entitled to an associate immediate annuity from the operative time, at the rate calculated under the Orders by reference to the transfer amount.
+             (2)  If, at the operative time, standard allowance or annuity is payable in respect of the original interest, then the non-member spouse is entitled to an associate immediate annuity from the operative time, at the rate calculated under the Orders by reference to the transfer amount.
 
 Deferred annuity if operative time in growth phase
 
-             (3)  If, at the operative time, standard allowance or annuity is not payable in respect of the original interest, then the non‑member spouse is entitled to an associate deferred annuity in accordance with section 22CE.
+             (3)  If, at the operative time, standard allowance or annuity is not payable in respect of the original interest, then the non-member spouse is entitled to an associate deferred annuity in accordance with section 22CE.
 
 ##### <a id="22CE"></a>22CE  Associate deferred annuity
 
@@ -2701,13 +2697,13 @@ Deferred annuity if operative time in growth phase
 
                      (b)  the earliest of the following dates:
 
-                              (i)  if the Trust is satisfied that the non‑member spouse has become permanently incapacitated—the date that the Trust considers to have been the date on which the person became permanently incapacitated;
+                              (i)  if the Trust is satisfied that the non-member spouse has become permanently incapacitated—the date that the Trust considers to have been the date on which the person became permanently incapacitated;
 
                              (ii)  a date notified to the Secretary under subsection (3);
 
-                            (iii)  the 65th anniversary of the non‑member spouse’s birth.
+                            (iii)  the 65th anniversary of the non-member spouse’s birth.
 
-             (3)  The non‑member spouse may give a written notice to the Secretary specifying a date that is not earlier than the 55th anniversary of the non‑member spouse’s birth. However, the notice has no effect if section 26B would prevent the annuity being paid to the non‑member spouse from the specified date.
+             (3)  The non-member spouse may give a written notice to the Secretary specifying a date that is not earlier than the 55th anniversary of the non-member spouse’s birth. However, the notice has no effect if section 26B would prevent the annuity being paid to the non-member spouse from the specified date.
 
 Note:          Section 26B applies the preservation requirements of the Superannuation Industry (Supervision) Regulations.
 
@@ -2721,13 +2717,13 @@ Note:          Section 26B applies the preservation requirem
 
                      (a)  a certificate given by a medical practitioner nominated by the Trust;
 
-                     (b)  a certificate given by a medical practitioner nominated by, or on behalf of, the non‑member spouse;
+                     (b)  a certificate given by a medical practitioner nominated by, or on behalf of, the non-member spouse;
 
                      (c)  such additional information or documents as the Trust requires.
 
-             (6)  The certificates mentioned in paragraphs (5)(a) and (b) must include a statement to the effect that, in the opinion of the medical practitioner concerned, the non‑member spouse is permanently incapacitated, as defined in this section.
+             (6)  The certificates mentioned in paragraphs (5)(a) and (b) must include a statement to the effect that, in the opinion of the medical practitioner concerned, the non-member spouse is permanently incapacitated, as defined in this section.
 
-             (7)  If the non‑member spouse dies before the annuity becomes payable, an amount calculated under the Orders must be paid to the legal personal representative or, if no legal personal representative can be found, to any individual or individuals that the Trust determines.
+             (7)  If the non-member spouse dies before the annuity becomes payable, an amount calculated under the Orders must be paid to the legal personal representative or, if no legal personal representative can be found, to any individual or individuals that the Trust determines.
 
              (8)  For the purposes of this section, a person is **_permanently incapacitated_** if, and only if, the person suffers from **_permanent incapacity_** within the meaning of the _Superannuation Industry (Supervision) Regulations 1994_.
 
@@ -2735,15 +2731,15 @@ Note:          Section 26B applies the preservation requirem
 
              (1)  If:
 
-                     (a)  the annual rate of associate immediate annuity that becomes payable to the non‑member spouse is less than the amount determined under the Orders; or
+                     (a)  the annual rate of associate immediate annuity that becomes payable to the non-member spouse is less than the amount determined under the Orders; or
 
-                     (b)  the annual rate of associate deferred annuity that becomes payable to the non‑member spouse is less than the amount determined under the Orders;
+                     (b)  the annual rate of associate deferred annuity that becomes payable to the non-member spouse is less than the amount determined under the Orders;
 
-then the non‑member spouse may elect to commute the annuity.
+then the non-member spouse may elect to commute the annuity.
 
              (2)  The election must be made in writing to the Secretary not later than 3 months after the annuity becomes payable.
 
-             (3)  If the non‑member spouse makes the election, then the non‑member spouse is entitled instead to:
+             (3)  If the non-member spouse makes the election, then the non-member spouse is entitled instead to:
 
                      (a)  if paragraph (1)(a) applies—a lump sum equal to the transfer amount; or
 
@@ -2761,7 +2757,7 @@ then the non‑member spouse may elect to commute the annuity.
 
              (2)  The contributions in respect of the original interest are reduced, with effect from the operative time, by the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image016.gif)
 
 where:
 
@@ -2771,7 +2767,7 @@ Note:          Under subsections 20A(2) and 22Q(3), certain am
 
              (3)  Any section 16A amount in respect of the original interest is reduced, with effect from the operative time, by the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image017.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image017.gif)
 
 where:
 
@@ -2779,13 +2775,13 @@ where:
 
              (4)  Any section 22Q amount in respect of the original interest is reduced, with effect from the operative time, by the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image018.gif)
 
 where:
 
                     <a name="section-22q-amount-ot"></a>**_section 22Q amount at OT_** means the section 22Q amount, ascertained at the operative time.
 
-##### <a id="22CH"></a>22CH  Operative time during growth phase—reduction of retiring allowance
+##### <a id="22CH"></a>22CH  Operative time during growth phase—reduction of retiring allowance
 
              (1)  This section applies if:
 
@@ -2799,7 +2795,7 @@ Reduction of basic percentage
 
              (2)  In calculating the annual rate of the affected benefit, the applicable basic percentage is replaced by the percentage calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image019.gif)
 
 where:
 
@@ -2811,7 +2807,7 @@ Reduction of additional percentage
 
              (3)  In calculating the annual rate of the affected benefit, each applicable additional percentage is replaced by the percentage calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image020.gif)
 
 where:
 
@@ -2835,11 +2831,11 @@ Note:          If the same superannuation interest is subject 
 
                      (a)  calculate a factor (the **_interim factor_**) for the first split using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image021.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image021.gif)
 
                      (b)  calculate a factor (the **_interim factor_**) for the next split (the **_current split_**), using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image022.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image022.gif)
 
                      (c)  calculate a factor for each remaining split (if any), using the formula in paragraph (b);
 
@@ -2847,25 +2843,25 @@ Note:          If the same superannuation interest is subject 
 
 Example:    Assume 2 splits, with the first split having a basic service factor (BSF) of 0.4 and a transfer factor of 0.5 and the second split having a basic service factor of 0.6 and a transfer factor of 0.5\. Applying the above steps, the replacement number for the formula is 0.4, that is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image023.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image023.gif)
 
              (7)  In applying the formula in subsection (3), the component (ASF at OT ´ Transfer factor) is to be replaced by the number calculated using the following steps, based on the chronological order of the operative times (starting with the earliest):
 
                      (a)  calculate a factor (the **_interim factor_**) for the first split using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image024.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image024.gif)
 
                      (b)  calculate a factor (the **_interim factor_**) for the next split (the **_current split_**), using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image025.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image025.gif)
 
                      (c)  calculate a factor for each remaining split (if any), using the formula in paragraph (b);
 
                      (d)  add together the factors calculated under paragraphs (a) to (c).
 
-Reduction not to affect later non‑standard annuity
+Reduction not to affect later non-standard annuity
 
-             (8)  A reduction under this section is to be disregarded in calculating the amount of any non‑standard annuity that later becomes payable.
+             (8)  A reduction under this section is to be disregarded in calculating the amount of any non-standard annuity that later becomes payable.
 
 Note:          For example, the reduction will be disregarded in calculating the amount of annuity payable under section 19AA in respect of a child of the member spouse after the member spouse’s death.
 
@@ -2885,7 +2881,7 @@ Note:          Although an associate immediate annuity becomes
 
              (1)  If, at the operative time, standard allowance or annuity is payable in respect of the original interest, then the annual rate of that allowance or annuity is reduced to the amount calculated under the Orders.
 
-             (2)  A reduction under subsection (1) is to be disregarded in calculating the amount of any non‑standard annuity that later becomes payable.
+             (2)  A reduction under subsection (1) is to be disregarded in calculating the amount of any non-standard annuity that later becomes payable.
 
 Note:          For example, the reduction will be disregarded in calculating the amount of annuity payable under section 19AA in respect of a child of the member spouse after the member spouse’s death.
 
@@ -3053,9 +3049,9 @@ then the Trust may determine that the deferring member is entitled to be paid by
 
                      (b)  the matters that the Trust must take into account when determining the amount of a payment under this section.
 
-             (6)  Before the Governor‑General makes a regulation prescribing grounds for the purposes of paragraph (5)(a), the Minister must be satisfied that those grounds are the same as, or substantially similar to, the conditions of release that are referred to in the SIS regulations as “severe financial hardship” and “compassionate ground”.
+             (6)  Before the Governor-General makes a regulation prescribing grounds for the purposes of paragraph (5)(a), the Minister must be satisfied that those grounds are the same as, or substantially similar to, the conditions of release that are referred to in the SIS regulations as “severe financial hardship” and “compassionate ground”.
 
-             (7)  Before the Governor‑General makes a regulation prescribing matters for the purposes of paragraph (5)(b), the Minister must be satisfied that those matters are the same as, or substantially similar to, matters that are prescribed by the SIS regulations in relation to the conditions of release referred to in subsection (6).
+             (7)  Before the Governor-General makes a regulation prescribing matters for the purposes of paragraph (5)(b), the Minister must be satisfied that those matters are the same as, or substantially similar to, matters that are prescribed by the SIS regulations in relation to the conditions of release referred to in subsection (6).
 
 ## Part VB—Preservation of rights of certain members
 
@@ -3085,7 +3081,7 @@ the following provisions of this section have effect.
 
                      (a)  a refund of the whole or any part of the contributions paid by the member to the Commonwealth, together with the whole or any part of the Commonwealth supplement, is payable to or in respect of the member; or
 
-                     (b)  the superannuation guarantee safety‑net amount is payable to or in respect of the member;
+                     (b)  the superannuation guarantee safety-net amount is payable to or in respect of the member;
 
 the sum of the following amounts is payable to or in respect of the member by the Commonwealth:
 
@@ -3107,7 +3103,7 @@ the sum of the following amounts is payable to or in respect of the member by th
 
                      (b)  the member ceases to be a member; and
 
-                     (c)  a refund of the contributions paid by him or her is payable to or in respect of him or her but no part of the Commonwealth supplement or the superannuation guarantee safety‑net amount is so payable;
+                     (c)  a refund of the contributions paid by him or her is payable to or in respect of him or her but no part of the Commonwealth supplement or the superannuation guarantee safety-net amount is so payable;
 
 so much of the amount paid to the Commonwealth under subsection (1) as is equal to the employer component of the transfer value or to that part of that employer component, as the case may be, is payable to or in respect of him or her by the Commonwealth.
 
@@ -3151,9 +3147,9 @@ the Trust, on behalf of the Commonwealth, shall, so far as is practicable, arran
 
                      (a)  any benefit that, but for this subsection, would be payable to him or her is not payable;
 
-                     (b)  the Commonwealth shall assign to the person administering that superannuation scheme the life policy or life policies assigned by the first‑mentioned person to the Commonwealth in accordance with subsection (3) or issued in relation to him or her in accordance with subsection (4); and
+                     (b)  the Commonwealth shall assign to the person administering that superannuation scheme the life policy or life policies assigned by the first-mentioned person to the Commonwealth in accordance with subsection (3) or issued in relation to him or her in accordance with subsection (4); and
 
-                     (c)  the Commonwealth shall pay to the first‑mentioned person the amount by which the amount of the benefit that, but for this section, would be payable to him or her exceeds the sum of the amounts of the annual premiums paid by the Commonwealth under the life policy or life policies assigned by him or her to the Commonwealth in accordance with subsection (3) or issued in relation to him or her in accordance with subsection (4).
+                     (c)  the Commonwealth shall pay to the first-mentioned person the amount by which the amount of the benefit that, but for this section, would be payable to him or her exceeds the sum of the amounts of the annual premiums paid by the Commonwealth under the life policy or life policies assigned by him or her to the Commonwealth in accordance with subsection (3) or issued in relation to him or her in accordance with subsection (4).
 
              (7)  Where the person is entitled to make an election under subsection (6) but does not make the election:
 
@@ -3179,11 +3175,11 @@ then, if the election made by him or her under subsection (2) has not been rev
 
 by notice in writing to the Trust revoke the election and, in that case, paragraphs (7)(a) and (b) have effect in relation to him or her.
 
-           (11)  The Finance Minister may, by instrument under his or her hand published in the _Gazette_, declare a superannuation scheme, being a scheme under which benefits are provided for by means of life policies, to be an approved superannuation scheme for the purposes of this section.
+           (11)  The Minister for Finance may, by instrument under his or her hand published in the _Gazette_, declare a superannuation scheme, being a scheme under which benefits are provided for by means of life policies, to be an approved superannuation scheme for the purposes of this section.
 
            (12)  A declaration under subsection (11) shall come into force on the day on which the instrument of declaration is published in the _Gazette_ or, if an earlier day (not being earlier than 1 January 1970) is specified in the instrument as the day on which the declaration is deemed to have come into force, shall be deemed to have come into force on that earlier day.
 
-           (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Finance Minister under subsection (11) in respect of that scheme was, or is deemed to have been, in force at that time.
+           (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Minister for Finance under subsection (11) in respect of that scheme was, or is deemed to have been, in force at that time.
 
 ##### <a id="22S"></a>22S  Power of Trust to vary determinations
 
@@ -3363,7 +3359,7 @@ Preserved benefits to be paid into a regulated superannuation fund, an approved 
 
                      (b)  if the person nominates an approved deposit fund within 90 days after the benefit became payable—the approved deposit fund; or
 
-                   (ba)  if the person nominates an RSA within 90 days after the benefit became payable—the RSA; or
+                    (ba)  if the person nominates an RSA within 90 days after the benefit became payable—the RSA; or
 
                      (c)  if:
 
@@ -3427,7 +3423,7 @@ Note:          The definitions of **_public sector superannuat
 
 ##### <a id="28"></a>28  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which are by this Act required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are by this Act required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
              (2)  Regulations made for the purposes of the definition of **_allowance by way of salary_**, or the definition of **_office_**, in subsection 4(1) may be expressed to have taken effect from and including a day not earlier than 3 months before the making of the regulations.
 
@@ -3463,7 +3459,7 @@ _Note:       See section 29._
 
 ## Part 3—Closing off entitlements to benefits under the scheme
 
-### Division 1—The close‑off
+### Division 1—The close-off
 
 ##### <a id="3"></a>3  No section 18 benefits at the end of new scheme contribution periods etc.
 
@@ -3491,7 +3487,7 @@ Note 2:       Because of Division 3 of this Part, other provisions
 
              (4)  The person’s entitlement to the preserved basic allowance is suspended for the duration of any later new scheme contribution period of the person.
 
-             (5)  The **_preserved basic percentage_** is, from the end of a new scheme contribution period of the person to the start of the next (if any) new scheme contribution period of the person, the percentage that was applied to the rate of parliamentary allowance in order to calculate the rate of retiring allowance (other than additional retiring allowance) payable to the person under section 18, or under this clause, immediately before the start of the first‑mentioned new scheme contribution period.
+             (5)  The **_preserved basic percentage_** is, from the end of a new scheme contribution period of the person to the start of the next (if any) new scheme contribution period of the person, the percentage that was applied to the rate of parliamentary allowance in order to calculate the rate of retiring allowance (other than additional retiring allowance) payable to the person under section 18, or under this clause, immediately before the start of the first-mentioned new scheme contribution period.
 
 Note:          The reference in this subclause to the rate of retiring allowance payable to the person is affected by subclause (6).
 
@@ -3539,7 +3535,7 @@ Note 3:       Because of Division 3 of this Part, other provisions
 
                      (b)  for an office referred to in paragraph (1)(b)—the allowance by way of salary payable to an office holder in respect of that office;
 
-in order to calculate the rate of additional retiring allowance payable to the person in respect of the office under subsection 18(9), or under this clause, immediately before the start of the first‑mentioned new scheme contribution period.
+in order to calculate the rate of additional retiring allowance payable to the person in respect of the office under subsection 18(9), or under this clause, immediately before the start of the first-mentioned new scheme contribution period.
 
 Note:          The reference in this subclause to the rate of additional allowance payable to the person is affected by subclause (5).
 
@@ -3597,7 +3593,7 @@ clause 4  applies as if the reference in subclause 4(2) to the preserved basic
 
              (3)  The percentage is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image026.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image026.gif)
 
 where:
 
@@ -3613,7 +3609,7 @@ where:
 
              (2)  If the person’s surcharge debt account is in debit at the end of a new scheme contribution period of the person, there is taken to have arisen, at the end of that period, a notional adjustment debit of the person equal to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image027.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image027.gif)
 
 where:
 
@@ -3629,7 +3625,7 @@ where:
 
              (3)  The percentage is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00330/Html/d6957d62-bc75-4691-8de5-8b6774a3fae2_files/image026.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00010/Html/ParliContriSuper1948_WD02_image026.gif)
 
 where:
 
@@ -3687,9 +3683,9 @@ where:
 
 The _Parliamentary Contributory Superannuation Act 1948_ as shown in this compilation comprises Act No. 89, 1948 amended as indicated in the Tables below. 
 
-All relevant information pertaining to application, saving or transitional provisions prior to 22 August 2001 is not included in this compilation. For subsequent information _see_ Table A.
+The _Parliamentary Contributory Superannuation Act 1948_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (as amended). The amendments are not incorporated in this compilation.
 
-The _Parliamentary Contributory Superannuation Act 1948_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (as amended). The amendments are not incorporated in this compilation.
+All relevant information pertaining to application, saving or transitional provisions prior to 22 August 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -4497,7 +4493,7 @@ Remainder: Royal Assent</div>
 <tr>
   <td>
     <div>Superannuation Legislation Amendment 
-(Post‑retirement Commutations) Act 2001</div>
+(Post-retirement Commutations) Act 2001</div>
   </td>
   <td>
     <div>98, 2001</div>
@@ -4653,7 +4649,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
   </td>
   <td>
     <div>134, 2008</div>
@@ -4669,28 +4665,11 @@ Schedule 1 (items 1–15):
   <td>
     <div>S. 4 and Sch. 1 (item 15) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 172–177), Schedule 6 (items 81–87) and Schedule 7 (items 106, 107): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Sections 10(2), 11(2) and 12 of the _Parliamentary Contributory Superannuation Amendment Act 1981_ were repealed by sections 39–41 of the _Superannuation Laws Amendment Act 1994_ before a date was fixed for their commencement.
 
-_(b)_     Section 10 of the _Parliamentary Contributory Superannuation Amendment Act 1983_ was repealed by section 45 of the _Superannuation Laws Amendment Act 1994_ before a date was fixed for the commencement.
+_(b)_    Section 10 of the _Parliamentary Contributory Superannuation Amendment Act 1983_ was repealed by section 45 of the _Superannuation Laws Amendment Act 1994_ before a date was fixed for the commencement.
 
 _(c)_     The _Life Insurance (Consequential Amendments and Repeals) Act 1995_ was amended by Schedule 3 (item 39) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
@@ -4832,7 +4811,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 36 and 41, 1978; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 96, 1994; Nos. 5 and 54, 1995; No. 187, 1997; No. 98, 2001; Nos. 58 and 87, 2004; No. 134, 2008; No. 5, 2011</div>
+    <div>am. Nos. 36 and 41, 1978; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 96, 1994; Nos. 5 and 54, 1995; No. 187, 1997; No. 98, 2001; Nos. 58 and 87, 2004; No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4936,7 +4915,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 37, 1981; No. 54, 1995; No. 5, 2011</div>
+    <div>am. No. 36, 1978; No. 37, 1981; No. 54, 1995</div>
   </td>
 </tr>
 <tr>
@@ -4960,7 +4939,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 37, 1981; No. 54, 1995; No. 5, 2011</div>
+    <div>am. No. 36, 1978; No. 37, 1981; No. 54, 1995</div>
   </td>
 </tr>
 <tr>
@@ -5144,7 +5123,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 54, 1995; No. 5, 2011</div>
+    <div>am. No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 54, 1995</div>
   </td>
 </tr>
 <tr>
@@ -5277,14 +5256,6 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 18B</div>
   </td>
   <td>
@@ -5304,7 +5275,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 96, 1994; No. 54, 1995; No. 187, 1997; No. 98, 2001; No. 58, 2004; No. 5, 2011</div>
+    <div>am. No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 96, 1994; No. 54, 1995; No. 187, 1997; No. 98, 2001; No. 58, 2004</div>
   </td>
 </tr>
 <tr>
@@ -5349,14 +5320,6 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 19AA</div>
   </td>
   <td>
@@ -5397,14 +5360,6 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 19AB</div>
   </td>
   <td>
@@ -5432,7 +5387,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 20, 1959; No. 71, 1966; No. 47, 1973; No. 41, 1978; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 54, 1995; No. 5, 2011</div>
+    <div>am. No. 20, 1959; No. 71, 1966; No. 47, 1973; No. 41, 1978; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 54, 1995</div>
   </td>
 </tr>
 <tr>
@@ -5440,7 +5395,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 3, 1952; No. 30, 1955; No. 20, 1959; No. 47, 1973; No. 41, 1978; No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 96, 1994; Nos. 23 and 54, 1995; No. 187, 1997; Nos. 87 and 98, 2001; No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 3, 1952; No. 30, 1955; No. 20, 1959; No. 47, 1973; No. 41, 1978; No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 96, 1994; Nos. 23 and 54, 1995; No. 187, 1997; Nos. 87 and 98, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5512,7 +5467,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 96, 1994; No. 54, 1995; No. 39, 1997; Nos. 146 and 194, 1999; Nos. 98 and 109, 2001; No. 87, 2004; No. 5, 2011</div>
+    <div>am. No. 96, 1994; No. 54, 1995; No. 39, 1997; Nos. 146 and 194, 1999; Nos. 98 and 109, 2001; No. 87, 2004</div>
   </td>
 </tr>
 <tr>
@@ -5938,7 +5893,7 @@ ad. No. 87, 2001</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 37, 1981; No. 5, 1995 (as am. by No. 43, 1996); No. 54, 1995; No. 43, 1996; No. 5, 2011</div>
+    <div>am. No. 36, 1978; No. 37, 1981; No. 5, 1995 (as am. by No. 43, 1996); No. 54, 1995; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -6194,7 +6149,7 @@ ad. No. 87, 2001</div>
 
 ### Application, saving and transitional provisions
 
-_Superannuation Legislation Amendment (Post‑retirement Commutations) Act 2001 (No. 98, 2001)_
+_Superannuation Legislation Amendment (Post-retirement Commutations) Act 2001 (No. 98, 2001)_
 
 ## Schedule 1
 
@@ -6245,9 +6200,9 @@ _Note:       The Acts amended by items 24 to 30 continue to apply 
 
 _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (No. 58, 2004)_
 
-##### <a id="4"></a>4  Application of family law interest‑splitting amendments
+##### <a id="4"></a>4  Application of family law interest-splitting amendments
 
-             (1)  The family law interest‑splitting amendments apply to:
+             (1)  The family law interest-splitting amendments apply to:
 
                      (a)  any splitting agreement, or splitting order, that has an operative time after the commencement of Schedule 1; and
 
@@ -6255,7 +6210,7 @@ _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (N
 
              (2)  In this section:
 
-                    <a name="famili-law-interest-split-amend"></a>**_family law interest‑splitting amendments_** means the amendments made by Schedule 1, other than items 24 and 34.
+                    <a name="famili-law-interest-split-amend"></a>**_family law interest-splitting amendments_** means the amendments made by Schedule 1, other than items 24 and 34.
 
 * * *
 
@@ -6265,11 +6220,11 @@ _Superannuation Budget Measures Act 2004 (No. 106, 2004)_
 
 ## 11  Application of amendments
 
-(2)       The amendments made by items 4 to 9 of this Schedule apply in relation to benefits that become payable on or after 1 July 2004.
+(2)        The amendments made by items 4 to 9 of this Schedule apply in relation to benefits that become payable on or after 1 July 2004.
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
 
 ##### <a id="4"></a>4  Entitlements from 1 July 2008
 
