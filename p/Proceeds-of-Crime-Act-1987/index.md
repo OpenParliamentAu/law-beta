@@ -1,7 +1,7 @@
 
 Proceeds of Crime Act 1987
 Act No. 87 of 1987 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 24 of 2001
+This compilation was prepared on 18 January 2001 taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -13,113 +13,114 @@ Part I—Preliminary	1
 2	Commencement [see Note 1]	1
 3	Principal objects	1
 4	Interpretation	2
-5	Meaning of conviction etc. of offence	12
+5	Meaning of conviction etc. of offence	11
 6	Meaning of absconding	13
-7	Meaning of public fraud offence and serious offence	14
-8	Related offences	16
-9	Meaning of dealing with property	16
-9A	Effective control of property	16
-10	Appropriate court in relation to indictable offence	17
-11	Act to bind Crown	17
+7	Meaning of serious offence	14
+8	Related offences	15
+9	Meaning of dealing with property	15
+9A	Effective control of property	15
+10	Appropriate court in relation to indictable offence	16
+11	Act to bind Crown	16
 12	Act to apply both within and outside Australia	17
 13	Application	17
-13A	Application of the Criminal Code	18
-Part II—Confiscation	19
-Division 1—Application for confiscation order	19
-14	Application for confiscation order	19
-15	Notice of application	20
-16	Amendment of application	21
-17	Making of confiscation order where person has absconded	22
-18	Procedure on application	22
-Division 2—Forfeiture orders	24
-19	Forfeiture orders	24
-20	Effects of forfeiture order	25
-21	Effect of forfeiture order on third parties	28
-22	Discharge of forfeiture order on appeal or by quashing of conviction	30
-Division 2A—Registered foreign and international forfeiture orders	32
-23	Registered foreign and international forfeiture orders	32
-23A	Effect on third parties of registration of foreign or international forfeiture order	32
-Division 3—Pecuniary penalty orders	36
-24	Application of Division	36
-25	Special provisions in relation to serious offences	36
-26	Pecuniary penalty orders	36
-27	Assessment of pecuniary penalty	38
-28	Court may lift corporate veil etc.	43
-29	Amounts paid in respect of registered foreign pecuniary penalty orders	44
-Division 4—Forfeiture in case of serious offence	45
-30	Forfeiture of all restrained property if person convicted of serious offence	45
-30A	Extension of waiting period	48
-31	Recovery of property to which section 30 applies	49
-32	Effect of quashing of conviction	52
-Division 5—Miscellaneous	53
-33	Person with interest in forfeited property may buy back the interest	53
-34	Buying out other interests in forfeited property	54
-Part IIA—Confiscated Assets Reserve	55
-34A	Establishment of Reserve	55
-34B	Payments into Reserve	55
-34C	Payments out of Reserve	56
-34D	Transfer of balance of distributable funds to Consolidated Revenue Fund	57
-34E	Determinations by Official Trustee about suspended and distributable funds	57
-Part III—Control of property liable to confiscation	59
-Division 1—Search powers	59
-35	Powers to search for, and seize, tainted property	59
-36	Search warrants in relation to tainted property	60
-37	Search warrants may be granted by telephone	62
-38	Searches in emergencies	64
-39	Responsibility for seized property	65
-40	Return of seized property	66
-41	Issue of search warrants by Territory courts in relation to interstate indictable offences	69
-42	Search for and seizure of tainted property in relation to foreign offences	70
-Division 2—Restraining orders	75
-43	Restraining orders	75
-44	Grounds for making restraining order	77
-45	Notice of application for restraining order	80
-45A	Extension of certain restraining orders	80
-46	Persons who may appear and adduce evidence	81
-47	Notice of restraining orders	81
-48	Court may make further orders	82
-48A	Order for taxation of legal expenses to be met out of restrained property	87
-49	Official Trustee to discharge pecuniary penalty	88
-50	Charge on property subject to restraining order	92
-51	Registration of restraining orders	93
-52	Contravention of restraining orders	93
-53	Duties of Official Trustee	94
-54	Protection of Official Trustee from personal liability in certain cases	95
-55	Costs etc. payable to Official Trustee	97
-56	Court may revoke restraining orders	97
-57	When restraining order ceases to be in force	98
-58	Notice of applications under this Division	101
-59	Interim restraining order may be made in respect of foreign offence	102
-60	Registered foreign restraining orders—general	104
-61	Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property	104
-62	Registered foreign restraining orders—undertakings	106
-63	Discharge of certain registered foreign pecuniary penalty orders	106
-64	Registered foreign restraining orders—charge on property subject to order	108
-65	Registered foreign restraining orders—time when order ceases to be in force	110
-Part IV—Information gathering powers	111
-Division 1—Production orders	111
-66	Production orders	111
-67	Variation of production orders	114
-68	Failure to comply with production order	115
-69	Production orders in relation to foreign offences	115
-Division 2—Search powers	117
-70	Powers to search for, and seize, documents relevant to locating etc. property	117
-71	Search warrant for location etc. of property	117
-72	Search warrants in relation to foreign offences	120
-Division 3—Monitoring orders	122
-73	Monitoring orders	122
-74	Existence and operation of monitoring order not to be disclosed	123
-75	Monitoring orders in relation to foreign offences	125
-Division 4—Obligations of financial institutions	126
-76	Interpretation	126
-77	Retention of records by financial institutions	127
-78	Register of original documents	128
-78A	Active ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	129
-78B	Closed ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	130
-Part V—Offences	133
-Division 1—Money laundering	133
-81	Money laundering	133
-82	Possession etc. of property suspected of being proceeds of crime	134
+Part II—Confiscation	18
+Division 1—Application for confiscation order	18
+14	Application for confiscation order	18
+15	Notice of application	19
+16	Amendment of application	20
+17	Making of confiscation order where person has absconded	21
+18	Procedure on application	21
+Division 2—Forfeiture orders	23
+19	Forfeiture orders	23
+20	Effects of forfeiture order	24
+21	Effect of forfeiture order on third parties	27
+22	Discharge of forfeiture order on appeal or by quashing of conviction	29
+Division 2A—Registered foreign and international forfeiture orders	31
+23	Registered foreign and international forfeiture orders	31
+23A	Effect on third parties of registration of foreign or international forfeiture order	31
+Division 3—Pecuniary penalty orders	35
+24	Application of Division	35
+25	Special provisions in relation to serious offences	35
+26	Pecuniary penalty orders	35
+27	Assessment of pecuniary penalty	37
+28	Court may lift corporate veil etc.	42
+29	Amounts paid in respect of registered foreign pecuniary penalty orders	43
+Division 4—Forfeiture in case of serious offence	44
+30	Forfeiture of all restrained property if person convicted of serious offence	44
+30A	Extension of waiting period	47
+31	Recovery of property to which section 30 applies	48
+32	Effect of quashing of conviction	51
+Division 5—Miscellaneous	52
+33	Person with interest in forfeited property may buy back the interest	52
+34	Buying out other interests in forfeited property	53
+Part IIA—Confiscated Assets Reserve	54
+34A	Establishment of Reserve	54
+34B	Payments into Reserve	54
+34C	Payments out of Reserve	55
+34D	Transfer of balance of distributable funds to Consolidated Revenue Fund	56
+34E	Determinations by Official Trustee about suspended and distributable funds	56
+Part III—Control of property liable to confiscation	58
+Division 1—Search powers	58
+35	Powers to search for, and seize, tainted property	58
+36	Search warrants in relation to tainted property	59
+37	Search warrants may be granted by telephone	61
+38	Searches in emergencies	63
+39	Responsibility for seized property	64
+40	Return of seized property	65
+41	Issue of search warrants by Territory courts in relation to interstate indictable offences	68
+42	Search for and seizure of tainted property in relation to foreign offences	69
+Division 2—Restraining orders	74
+43	Restraining orders	74
+44	Grounds for making restraining order	76
+45	Notice of application for restraining order	79
+45A	Extension of certain restraining orders	79
+46	Persons who may appear and adduce evidence	80
+47	Notice of restraining orders	80
+48	Court may make further orders	81
+48A	Order for taxation of legal expenses to be met out of restrained property	86
+49	Official Trustee to discharge pecuniary penalty	87
+50	Charge on property subject to restraining order	91
+51	Registration of restraining orders	92
+52	Contravention of restraining orders	92
+53	Duties of Official Trustee	93
+54	Protection of Official Trustee from personal liability in certain cases	94
+55	Costs etc. payable to Official Trustee	96
+56	Court may revoke restraining orders	96
+57	When restraining order ceases to be in force	97
+58	Notice of applications under this Division	100
+59	Interim restraining order may be made in respect of foreign offence	101
+60	Registered foreign restraining orders—general	103
+61	Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property	103
+62	Registered foreign restraining orders—undertakings	105
+63	Discharge of certain registered foreign pecuniary penalty orders	105
+64	Registered foreign restraining orders—charge on property subject to order	107
+65	Registered foreign restraining orders—time when order ceases to be in force	109
+Part IV—Information gathering powers	110
+Division 1—Production orders	110
+66	Production orders	110
+67	Variation of production orders	113
+68	Failure to comply with production order	113
+69	Production orders in relation to foreign offences	114
+Division 2—Search powers	116
+70	Powers to search for, and seize, documents relevant to locating etc. property	116
+71	Search warrant for location etc. of property	116
+72	Search warrants in relation to foreign offences	119
+Division 3—Monitoring orders	121
+73	Monitoring orders	121
+74	Existence and operation of monitoring order not to be disclosed	122
+75	Monitoring orders in relation to foreign offences	124
+Division 4—Obligations of financial institutions	125
+76	Interpretation	125
+77	Retention of records by financial institutions	126
+78	Register of original documents	127
+78A	Active ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	128
+78B	Closed ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	129
+Part V—Offences	132
+Division 1—Money laundering	132
+81	Money laundering	132
+82	Possession etc. of property suspected of being proceeds of crime	133
+Division 2—Organised fraud	134
+83	Organised fraud	134
 Division 3—Miscellaneous	135
 84	Prosecution of offences	135
 85	Conduct by directors, servants or agents	135
@@ -139,18 +140,16 @@ Division 2—Interstate forfeiture orders	141
 Division 3—Miscellaneous	143
 96	Interim registration of facsimile copies	143
 Part VII—Miscellaneous	144
-96A	Organised fraud orders	144
-97	Dealings with forfeited property	145
-98	State and Territory courts to have jurisdiction	146
-99	Standard of proof	147
-100	Appeals	147
-101	Costs	148
-102	Legal assistance	149
-102A	Indemnification of Official Trustee	149
-103	Operation of other laws not affected	150
-104	Regulations	150
-Notes		151
-
+97	Dealings with forfeited property	144
+98	State and Territory courts to have jurisdiction	144
+99	Standard of proof	145
+100	Appeals	145
+101	Costs	147
+102	Legal assistance	147
+102A	Indemnification of Official Trustee	148
+103	Operation of other laws not affected	148
+104	Regulations	149
+Notes 		151
 An Act to provide for confiscation of the proceeds of crime, and for related purposes
 Part I—Preliminary
   
@@ -314,7 +313,6 @@ unlawful activity means an act or omission that constitutes an offence against a
 	(3)	A reference in this Act to a benefit derived by a person includes a reference to:
 	(a) 	a benefit derived, directly or indirectly, by the person; and
 	(b)	a benefit derived, directly or indirectly, by another person at the request or direction of the first person.
-	(3A)	For the purposes of this Act, in determining whether a person has derived substantial benefit from the commission of 2 or more public fraud offences, have regard to the aggregate of the benefits derived by the person from the commission of those offences.
 	(4)	A reference in this Act to the property of a person includes a reference to property in respect of which the person has the beneficial interest.
 	(5)	A reference in this Act to a criminal offence is a reference to an offence against a law of the Commonwealth or of a Territory.
 	(6)	Without prejudice to its effect by virtue of subsection (5), this Act has effect as if a reference in this Act to a criminal offence included a reference to an offence against a law of a State.
@@ -354,19 +352,13 @@ unlawful activity means an act or omission that constitutes an offence against a
 	(A)	the person is, by reason of being outside Australia, not amenable to justice; and
 	(B)	extradition proceedings are on foot;
 		and subsequently those proceedings terminate without an order for the person’s extradition being made.
-7  Meaning of public fraud offence and serious offence 
+7  Meaning of serious offence 
 	(1)	In this Act:
-public fraud offence means any of the following:
-	(a)	an offence against section 134.1, 134.2, 135.1 or 135.4 of the Criminal Code;
-	(b)	an offence against repealed section 29D or 86A of the Crimes Act committed after the commencement of this Act;
-	(c)	an offence against section 5, 6, 7 or 8 of the Crimes (Taxation Offences) Act 1980 committed after the commencement of this Act;
-	(d)	an ancillary offence in relation to an offence covered by paragraph (b) or (c).
 serious offence means:
-	(a)	a serious narcotics offence; or
-	(b)	a money laundering offence in relation to the proceeds of a serious narcotics offence; or
-	(c)	an ancillary offence in relation to an offence covered by paragraph (a) or (b); or
-	(d)	an offence that is the subject of a declaration under section 96A.
-	(1A)	Paragraph (d) of the definition of serious offence in subsection (1) has effect subject to subsections 96A(2), (4) and (6).
+	(a)	a serious narcotics offence;
+	(b)	an organised fraud offence; or
+	(c)	a money laundering offence in relation to the proceeds of a serious narcotics offence or an organised fraud offence;
+and includes an ancillary offence in respect of an offence referred to in paragraph (a), (b) or (c).
 	(2)	In this section:
 ancillary offence, in relation to an offence (in this definition called the main offence), means:
 	(a)	an offence of conspiring to commit the main offence;
@@ -374,6 +366,7 @@ ancillary offence, in relation to an offence (in this definition called the main
 	(c)	an offence of receiving or assisting another person in order to enable the person to escape punishment for, or to dispose of the proceeds of, the main offence; or
 	(d)	an offence of attempting to commit the main offence.
 money laundering offence means an offence against section 81.
+organised fraud offence means an offence against section 83.
 possession includes possession for supply.
 production includes growing and manufacture.
 serious narcotics offence means an offence:
@@ -382,7 +375,6 @@ serious narcotics offence means an offence:
 trafficable quantity, in relation to a narcotic substance, means:
 	(a)	if paragraph (b) does not apply—a trafficable quantity of the substance within the meaning of the Customs Act; or
 	(b)	if the law against which the offence is committed is not the Customs Act and that law includes references to trafficable quantity—a trafficable quantity of the substance within the meaning of that law.
-	(3)	To avoid doubt, express references in this section to ancillary offences do not imply that section 11.6 of the Criminal Code has no application to a particular provision of this Act.
 8  Related offences
 		For the purposes of this Act, 2 offences are related to one another if the elements of the 2 offences are substantially the same acts or omissions.
 9  Meaning of dealing with property 
@@ -415,9 +407,6 @@ regard may be had to:
 	(3)	Subject to subsection (1) this Act applies to:
 	(a)	an offence committed, or believed to have been committed, at any time (whether before or after the commencement of this Act); and
 	(b)	a person’s conviction at any time of an offence (whether before or after the commencement of this Act).
-13A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code (except Part 2.5) applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part II—Confiscation
 Division 1—Application for confiscation order
@@ -890,7 +879,7 @@ Part IIA—Confiscated Assets Reserve
 	(v)	making such payments by way of restitution as are required under subparagraph 21(6)(d)(ii), paragraph 22(4)(b) or subparagraph 31(6)(d)(ii); and
 	(b)	to the extent to which it comprises distributable funds—making payments to a GBE of any proceeds of confiscated assets that relate to a relevant offence that caused financial loss to the GBE.
 	(2)	In this section:
-relevant offence means an offence against section 131.1, 132.1, 132.6, 132.8, 134.1, 134.2, 135.1, 135.2, 135.4, 136.1, 137.1 or 137.2 of the Criminal Code or a prescribed offence.
+relevant offence means an offence under section 29A, 29B, 29C, 29D, 71, 86 or 86A of the Crimes Act 1914 or a prescribed offence.
 34D  Transfer of balance of distributable funds to Consolidated Revenue Fund
 	(1)	Once in each financial year the Attorney‑General must determine, in accordance with the regulations, the amount of distributable funds not required for meeting payments under paragraph 34C(1)(b).
 	(2)	As soon as practicable after the making of the determination, that amount must:
@@ -1371,7 +1360,7 @@ whichever first occurs.
 51  Registration of restraining orders
 		Where a restraining order applies to property of a particular kind and the provisions of any law of the Commonwealth or of a State or Territory provide for the registration of title to, or charges over, property of that kind, the authority responsible for administering those provisions may, on application by the DPP, record on the register kept pursuant to those provisions the particulars of the restraining order and, if those particulars are so recorded, a person who subsequently deals with the property shall, for the purposes of section 52, be deemed to have notice of the restraining order at the time of the dealing.
 52  Contravention of restraining orders
-	(1)	A person who intentionally contravenes a restraining order by disposing of, or otherwise dealing with, property that is subject to the restraining order is guilty of an offence punishable, upon conviction, by:
+	(1)	A person who knowingly contravenes a restraining order by disposing of, or otherwise dealing with, property that is subject to the restraining order is guilty of an offence punishable, upon conviction, by:
 	(a) 	if the person is a natural person—a fine not exceeding $10,000 or imprisonment for a period not exceeding 5 years, or both; or
 	(b)	in the case of a body corporate—a fine not exceeding $50,000.
 	(2)	Where:
@@ -1634,12 +1623,10 @@ books of an ADI means any accounting records used in the ordinary business of an
 		Where a Judge of a Supreme Court makes a production order requiring a person to produce a document to a police officer, the person may apply to the Judge or another Judge of that Court for a variation of the order and if the Judge hearing the application is satisfied that the document is essential to the business activities of the person, he or she may vary the production order so that it requires the person to make the document available to a police officer for inspection.
 68  Failure to comply with production order
 	(1)	Where a person is required by a production order to produce a document to a police officer or make a document available to a police officer for inspection, the person is guilty of an offence against this subsection if the person:
-	(a)	contravenes the order; or
+	(a)	contravenes the order without reasonable excuse; or
 	(b)	in purported compliance with the order produces or makes available a document known to the person to be false or misleading in a material particular without:
 	(i)	indicating to the police officer to whom the document is produced or made available that the document is false or misleading and the respect in which the document is false or misleading; and
 	(ii)	providing correct information to the police officer if the person is in possession of, or can reasonably acquire, the correct information.
-	(1A)	Paragraph (1)(a) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the Criminal Code).
 	(2)	An offence against subsection (1) is punishable, upon conviction, by:
 	(a)	if the offender is a natural person—a fine not exceeding $10,000 or imprisonment for a period not exceeding 5 years, or both; or
 	(b)	if the offender is a body corporate—a fine not exceeding $50,000.
@@ -1721,16 +1708,13 @@ Division 3—Monitoring orders
 	(4)	A Judge shall not make a monitoring order unless he or she is satisfied that there are reasonable grounds for suspecting that the person in respect of whose account the information is sought:
 	(a)	has committed, or is about to commit, an indictable offence that is a serious offence;
 	(b)	was involved in the commission, or is about to be involved in the commission, of an indictable offence that is a serious offence; or
-	(c)	has benefited directly or indirectly, or is about to benefit directly or indirectly, from the commission of an indictable offence that is a serious offence; or 
-	(d)	both:
-	(i)	has committed, or is about to commit, 3 or more public fraud offences; and
-	(ii)	has derived, or is about to derive, substantial benefit from the commission of any or all of those offences.
+	(c)	has benefited directly or indirectly, or is about to benefit directly or indirectly, from the commission of an indictable offence that is a serious offence.
 	(5)	A monitoring order shall specify:
 	(a)	the name or names in which the account is believed to be held;
 	(b)	the class of information that the institution is required to give; and
 	(c)	the law enforcement authority to which the information is to be given, and the manner in which the information is to be given.
 	(6)	Where a financial institution is, or has been, subject to a monitoring order, the fact that the monitoring order has been made shall be disregarded for the purposes of the application of sections 81 and 82 in relation to the institution.
-	(7)	Where a financial institution that has been given notice of a monitoring order intentionally:
+	(7)	Where a financial institution that has been given notice of a monitoring order knowingly:
 	(a)	contravenes the order; or
 	(b)	provides false or misleading information in purported compliance with the order;
 the institution is guilty of an offence against this subsection punishable, upon conviction, by a fine not exceeding $100,000.
@@ -1794,15 +1778,11 @@ for the minimum retention period applicable to the document.
 	(4)	Subsections (2) and (3) do not apply to a financial transaction document that relates to a single deposit, credit, withdrawal, debit or transfer of an amount of money that does not exceed $200 or such higher amount as is prescribed by the regulations for the purposes of this subsection.
 	(5)	A financial institution required to retain documents under this section shall retain and store them in a way that makes retrieval of the documents reasonably practicable.
 	(6)	A financial institution that contravenes subsection (1), (2), (3) or (5) is guilty of an offence against this section punishable, upon conviction, by a fine not exceeding $10,000.
-	(6A)	An offence against this section (as referred to in subsection (6)) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(7)	This section does not limit any other obligation of a financial institution to retain documents.
 78  Register of original documents
 	(1)	Where a financial institution is required by law to release an original of an essential customer‑generated financial transaction document before the end of the minimum retention period applicable to the document, the institution shall retain a complete copy of the document until the period has ended or the original is returned, whichever occurs first.
 	(2)	The financial institution shall maintain a register of documents released under subsection (1).
 	(3)	A financial institution that contravenes subsection (1) or (2) is guilty of an offence against this section punishable, upon conviction, by a fine not exceeding $10,000.
-	(4)	An offence against this section (as referred to in subsection (3)) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 78A  Active ADI accounts transferred to another ADI—obligations of ADIs in relation to documents
 When section applies
 	(1)	This section applies to a document if:
@@ -1813,8 +1793,8 @@ When section applies
 Transferor ADI to give documents to transferee ADI
 	(2)	The transferor ADI must give the document to the transferee ADI within the 120‑day period beginning 30 days before the transfer.
 Offence
-	(3)	A person who intentionally contravenes subsection (2) is guilty of an offence punishable on conviction by a fine not exceeding 10 penalty units.
-Transferor ADI released from obligations under sections 77 and 78
+	(3)	A person who intentionally or recklessly contravenes subsection (2) is guilty of an offence punishable on conviction by a fine not exceeding 10 penalty units.
+Transferor ADI released from obligations under sections 77 and 78
 	(4)	If the transferor ADI complies with subsection (2) of this section in relation to the document, the transferor bank does not contravene section 77 or 78 in relation to the document. 
 Obligations of transferee ADI—sections 77 and 78
 	(5)	If the transferee ADI is given a document under subsection (2) of this section, this division applies to the transferee ADI in relation to the document as follows: 
@@ -1868,9 +1848,23 @@ and the person knows, or ought reasonably to know, that the money or other prope
 	(b)	if the offender is a body corporate—a fine not exceeding $15,000.
 	(2)	Where a person is charged with an offence against this section, it is a defence to the charge if the person satisfies the court that he or she had no reasonable grounds for suspecting that the property referred to in the charge was derived or realised, directly or indirectly, from some form of unlawful activity.
 
+Division 2—Organised fraud
+83  Organised fraud
+	(1)	A person who engages in organised fraud is guilty of an offence against this section punishable, upon conviction, by:
+	(a)	if the offender is a natural person—a fine not exceeding $250,000 or imprisonment for a period not exceeding 25 years, or both; or
+	(b)	if the offender is a body corporate—a fine not exceeding $750,000.
+	(2)	A person shall be taken to engage in organised fraud if, and only if, he or she engages, after the commencement of this Act, in acts or omissions:
+	(a)	that constitute 3 or more public fraud offences; and
+	(b)	from which the person derives substantial benefit.
+	(3)	Where a person is charged with an offence against subsection (1) in relation to a number of public fraud offences and the jury is not satisfied that the person is guilty of the offence against subsection (1) but is satisfied that the person is guilty of one or more of the public fraud offences, the jury shall acquit the person of the offence against subsection (1) and may find the person guilty of that public fraud offence or those public fraud offences and the person is punishable accordingly.
+	(4)	In this section:
+public fraud offence means an offence under any of the following provisions:
+	(a)	sections 29D and 86A of the Crimes Act;
+	(b)	sections 5, 6, 7 and 8 of the Crimes (Taxation Offences) Act 1980.
+
 Division 3—Miscellaneous
 84  Prosecution of offences
-	(1)	An offence against section 52, 68, 73, 74, 81, 82 or 97 is an indictable offence.
+	(1)	An offence against section 52, 68, 73, 74, 81, 82, 83 or 97 is an indictable offence.
 	(2)	Notwithstanding that the offences referred to in subsection (1) are indictable offences, a court of summary jurisdiction may hear and determine proceedings in respect of an offence against section 52, 68, 73, 74, 82 or 97 if the court is satisfied that it is appropriate to do so and the defendant and prosecutor consent.
 	(3)	Where, in accordance with subsection (2), a court of summary jurisdiction convicts a person of an offence referred to in that subsection, the penalty that the court may impose is:
 	(a)	if the offence is against section 73—a fine not exceeding $10,000; or
@@ -1967,34 +1961,6 @@ Division 3—Miscellaneous
 
 Part VII—Miscellaneous
   
-96A  Organised fraud orders
-Convictions of public fraud offences
-	(1)	If:
-	(a)	a person has, at the same sitting, been convicted by a court of 3 or more public fraud offences; and
-	(b)	the DPP applies to the court for an order under this subsection in relation to each of those offences; and
-	(c)	the court is satisfied that the person has derived substantial benefit from the commission of any or all of those offences;
-the court must, by order, declare each of those offences to be a serious offence.
-	(2)	A declaration under subsection (1) only has effect in relation to the convictions concerned.
-Charges and proposed charges of public fraud offences
-	(3)	If:
-	(a)	a person has been charged with 3 or more public fraud offences; and
-	(b)	the DPP applies to the relevant Supreme Court for an order under this subsection in relation to each of those offences; and
-	(c)	the application for the order is supported by an affidavit of a police officer stating that the officer believes that the person has derived substantial benefit from the commission of any or all of those offences; and
-	(d)	the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief;
-the court must, by order, declare each of those offences to be a serious offence.
-	(4)	A declaration under subsection (3) only has effect in relation to the charges concerned.
-	(5)	If:
-	(a)	a person is about to be charged with 3 or more public fraud offences; and
-	(b)	the DPP applies to the relevant Supreme Court for an order under this subsection in relation to each of those offences; and
-	(c)	the application for the order is supported by an affidavit of a police officer stating that the officer believes that the person has derived substantial benefit from the commission of any or all of those offences; and
-	(d)	the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief;
-the court must, by order, declare each of those offences to be a serious offence.
-	(6)	A declaration under subsection (5) only has effect in relation to the proposed charges concerned.
-	(7)	If:
-	(a)	a restraining order is granted in reliance on the charging, or proposed charging, of a person with an ordinary indictable offence; and
-	(b)	the person is subsequently convicted of the offence; and
-	(c)	a court makes an order under subsection (1) in relation to the offence;
-this Act has effect as if the restraining order had been granted in reliance on the charging, or proposed charging, of the person with a serious offence.
 97  Dealings with forfeited property
 	(1)	A person who knows that a forfeiture order has been made in respect of registrable property shall not, unless the forfeiture order has been discharged, dispose of, or otherwise deal with, the property before the Commonwealth’s interest has been registered on the appropriate register.
 	(2)	A person who contravenes subsection (1) is guilty of an offence against this section punishable, upon conviction, by:
@@ -2066,8 +2032,8 @@ authorise the provision by the Commonwealth to the applicant of such legal or fi
 Notes to the Proceeds of Crime Act 1987
 Note1
 The Proceeds of Crime Act 1987 as shown in this compilation comprises Act No. 87, 1987 amended as indicated in the Tables below.
-The Proceeds of Crime Act 1987 is affected by section 45 of the CSL Sale Act 1993.
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information see Table A.
+The Proceeds of Crime Act 1987 is affected by section 45 of the CSL Sale Act 1993.
 Table of Acts
 Act
 Number  and year
@@ -2177,13 +2143,9 @@ Schedule 1 (item 748): 5 Dec 1999 (see Gazette 1999, No. S584) (j)
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
+Schedule 2 (items 324A‑324D, 325, 325A, 326, 326A, 327, 328, 328A, 418, 419): [see (k), Note 2 and Table A]
 Sch. 2 (items 418, 419) [see Table A]
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
-24, 2001
-6 Apr 2001
-S. 4(1), (2) and Schedule 41: (k)
-S. 4(1), (2) [see Table A]
+
 (a)	The Proceeds of Crime Act 1987 was amended by sections 34-50 only of the Crimes Legislation Amendment Act 1987, subsections 2(1) and (2) of which provide as follows: 
 	(1)	Sections 11, 14, 16, 17, 18, 47, 70, 71, 72, 73, 74 and 75 and paragraph 69(b) shall come into operation on a day or days to be fixed by Proclamation. 
 	(2)	Parts II, VI, VII, VIII (other than section 47) and IX and Schedule 4 shall come into operation on the day on which this Act receives the Royal Assent.
@@ -2215,24 +2177,18 @@ S. 4(1), (2) [see Table A]
 (j)	The Proceeds of Crime Act 1987 was amended by Schedule 1 (item 748) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(k)	The Proceeds of Crime Act 1987 was amended by Schedule 41 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
-	(1)	Subject to this section, this Act commences at the later of the following times:
-	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
-	Item 15 commenced on 24 May 2001.
+(k)	The Proceeds of Crime Act 1987 was amended by Schedule 2 (items 324A‑324D, 325, 325A, 326, 326A, 327, 328 and 328A) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
+	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
+	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
+
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 4 	
-am. No. 120, 1987; Nos. 28 and 120, 1991; No. 164, 1992; No.182, 1994; Nos. 8 and 152, 1997; No. 48, 1998; Nos. 44 and 146, 1999; No. 137, 2000
-Heading to s. 7 	
-am. No. 137, 2000
-S. 7 	
-am. No. 137, 2000
+am. No. 120, 1987; Nos. 28 and 120, 1991; No. 164, 1992; No.182, 1994; Nos. 8 and 152, 1997; No. 48, 1998; Nos. 44 and 146, 1999
 S. 9A 	
 ad. No. 120, 1988 
-S. 13A 	
-ad. No. 24, 2001
 S. 18 	
 am. No. 123, 1991 
 S. 20 	
@@ -2286,7 +2242,7 @@ am. No. 152, 1997
 S. 34C 	
 ad. No. 120, 1991 
 
-am. No. 19, 1995; Nos. 8, 20 and 152, 1997; No. 137, 2000 
+am. No. 19, 1995; Nos. 8, 20 and 152, 1997 
 S. 34D	
 ad. No. 120, 1991 
 
@@ -2319,8 +2275,6 @@ S. 50
 am. No. 28, 1991 
 S. 51 	
 am. No. 120, 1988 
-S. 52 	
-am. No. 24, 2001
 S. 53 	
 am. No. 120, 1987; No. 120, 1988; No. 120, 1991; No. 164, 1992 
 S. 55 	
@@ -2337,16 +2291,10 @@ S. 66
 am. No. 120, 1987; No. 120, 1988; No. 123, 1991; No. 48, 1998 
 S. 67 	
 rs. No. 120, 1987 
-S. 68 	
-am. No. 24, 2001
 S. 71 	
 am. No. 120, 1987; No. 120, 1988 
-S. 73 	
-am. No. 120, 1987; No. 137, 2000; No. 24, 2001 
-S. 74 	
+Ss. 73, 74 	
 am. No. 120, 1987 
-Ss. 77, 78 	
-am. No. 24, 2001
 Heading to s. 78A	
 rs. No. 48, 1998
 Subhead to s. 78A(2)	
@@ -2358,7 +2306,7 @@ am. No. 48, 1998
 S. 78A	
 ad. No. 69, 1994
 
-am. No. 48, 1998; No. 24, 2001
+am. No. 48, 1998
 Heading to s. 78B	
 rs. No. 48, 1998
 Subhead to s. 78B(2)	
@@ -2373,30 +2321,97 @@ ad. No. 69, 1994;
 am. No. 48, 1998
 Ss. 79, 80 	
 rep. No. 120, 1987 
-Div. 2 of Part V (s. 83)	
-rep. No. 137, 2000
-S. 83 	
-rep. No. 137, 2000
 S. 84 	
-am. No. 120, 1987; No. 137, 2000 
+am. No. 120, 1987 
 S. 85 	
 am. No. 120, 1988; No. 20, 1997 
 S. 88 	
 am. No. 120, 1987 
 S. 90 	
 am. No. 166, 1992 
-S. 96A 	
-ad. No. 137, 2000
 S. 98 	
 am. No. 123, 1991 
 S. 102A 	
 ad. No. 120, 1987  
 
 
+Note 2
+Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following amendments commence on 24 May 2001 unless proclaimed earlier:
+Schedule 2
+324A  After subsection 4(3)
+Insert:
+	(3A)	For the purposes of this Act, in determining whether a person has derived substantial benefit from the commission of 2 or more public fraud offences, have regard to the aggregate of the benefits derived by the person from the commission of those offences.
+324B  Subsection 7(1)
+Insert:
+public fraud offence means any of the following:
+	(a)	an offence against section 134.1, 134.2, 135.1 or 135.4 of the Criminal Code;
+	(b)	an offence against repealed section 29D or 86A of the Crimes Act committed after the commencement of this Act;
+	(c)	an offence against section 5, 6, 7 or 8 of the Crimes (Taxation Offences) Act 1980 committed after the commencement of this Act;
+	(d)	an ancillary offence in relation to an offence covered by paragraph (b) or (c).
+Note:	The heading to section 7 of the Proceeds of Crime Act 1987 is altered by inserting “public fraud offence and” after “Meaning of”.
+324C  Subsection 7(1) (definition of serious offence)
+Repeal the definition, substitute:
+serious offence means:
+	(a)	a serious narcotics offence; or
+	(b)	a money laundering offence in relation to the proceeds of a serious narcotics offence; or
+	(c)	an ancillary offence in relation to an offence covered by paragraph (a) or (b); or
+	(d)	an offence that is the subject of a declaration under section 96A.
+324D  After subsection 7(1)
+Insert:
+	(1A)	Paragraph (d) of the definition of serious offence in subsection (1) has effect subject to subsections 96A(2), (4) and (6).
+325  Subsection 7(2) (definition of organised fraud offence)
+Repeal the definition.
+325A  At the end of section 7
+Add:
+	(3)	To avoid doubt, express references in this section to ancillary offences do not imply that section 11.6 of the Criminal Code has no application to a particular provision of this Act.
+326  Subsection 34C(2) (definition of relevant offence)
+Omit “under section 29A, 29B, 29C, 29D, 71, 86 or 86A of the Crimes Act 1914”, substitute “against section 131.1, 132.1, 132.6, 132.8, 134.1, 134.2, 135.1, 135.2, 135.4, 136.1, 137.1 or 137.2 of the Criminal Code”.
+326A  At the end of subsection 73(4)
+Add:
+	; or (d)	both:
+	(i)	has committed, or is about to commit, 3 or more public fraud offences; and
+	(ii)	has derived, or is about to derive, substantial benefit from the commission of any or all of those offences.
+327  Division 2 of Part V
+Repeal the Division.
+328  Subsection 84(1)
+Omit “, 83”.
+328A  Before section 97
+Insert:
+96A  Organised fraud orders
+Convictions of public fraud offences
+	(1)	If:
+	(a)	a person has, at the same sitting, been convicted by a court of 3 or more public fraud offences; and
+	(b)	the DPP applies to the court for an order under this subsection in relation to each of those offences; and
+	(c)	the court is satisfied that the person has derived substantial benefit from the commission of any or all of those offences;
+the court must, by order, declare each of those offences to be a serious offence.
+	(2)	A declaration under subsection (1) only has effect in relation to the convictions concerned.
+Charges and proposed charges of public fraud offences
+	(3)	If:
+	(a)	a person has been charged with 3 or more public fraud offences; and
+	(b)	the DPP applies to the relevant Supreme Court for an order under this subsection in relation to each of those offences; and
+	(c)	the application for the order is supported by an affidavit of a police officer stating that the officer believes that the person has derived substantial benefit from the commission of any or all of those offences; and
+	(d)	the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief;
+the court must, by order, declare each of those offences to be a serious offence.
+	(4)	A declaration under subsection (3) only has effect in relation to the charges concerned.
+	(5)	If:
+	(a)	a person is about to be charged with 3 or more public fraud offences; and
+	(b)	the DPP applies to the relevant Supreme Court for an order under this subsection in relation to each of those offences; and
+	(c)	the application for the order is supported by an affidavit of a police officer stating that the officer believes that the person has derived substantial benefit from the commission of any or all of those offences; and
+	(d)	the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief;
+the court must, by order, declare each of those offences to be a serious offence.
+	(6)	A declaration under subsection (5) only has effect in relation to the proposed charges concerned.
+	(7)	If:
+	(a)	a restraining order is granted in reliance on the charging, or proposed charging, of a person with an ordinary indictable offence; and
+	(b)	the person is subsequently convicted of the offence; and
+	(c)	a court makes an order under subsection (1) in relation to the offence;
+this Act has effect as if the restraining order had been granted in reliance on the charging, or proposed charging, of the person with a serious offence.
+As at 18 January 2001 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-Schedule 2  
+The following provisions commence on 24 May 2001 unless proclaimed earlier:
+Schedule 2
 418  Transitional—pre‑commencement offences
 (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 	(a)	an offence committed before the commencement of this item; or
@@ -2411,8 +2426,4 @@ If:
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
-4  Application of amendments
-	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
