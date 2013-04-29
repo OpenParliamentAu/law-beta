@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2012C00901/Html/9b1c66e0-1f16-4730-a282-ccd95b036731_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00297/Html/TransTasMutRecAct1997_image001.gif)
 
-# Trans‑Tasman Mutual Recognition Act 1997
+# Trans-Tasman Mutual Recognition Act 1997
 
 **Act No. 190 of 1997 as amended**
 
-This compilation was prepared on 12 December 2012
+This compilation was prepared on 20 April 2010
  taking into account amendments up to Act No. 8 of 2007 
- and SLI 2012 No. 303
+ and SLI 2010 No. 72
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -38,7 +39,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Part 2—Goods**
 
-[9](#9).            Trans‑Tasman mutual recognition principle
+[9](#9).            Trans-Tasman mutual recognition principle
 
 [10](#10).          Entitlement to sell goods
 
@@ -54,7 +55,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 1—Preliminary**
 
-[15](#15).          Trans‑Tasman mutual recognition principle
+[15](#15).          Trans-Tasman mutual recognition principle
 
 [16](#16).          Entitlement to carry on occupation
 
@@ -102,7 +103,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [34](#34).          Costs
 
-[35](#35).          Co‑operation with and membership of Trans‑Tasman Occupations Tribunal (NZ)
+[35](#35).          Co-operation with and membership of Trans-Tasman Occupations Tribunal (NZ)
 
 [36](#36).          Residence or domicile
 
@@ -138,7 +139,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [50](#50).          References to participating jurisdictions
 
-[51](#51).          Application of Trans‑Tasman mutual recognition principle
+[51](#51).          Application of Trans-Tasman mutual recognition principle
 
 [52](#52).          Machinery provisions regarding limitations etc 
 
@@ -206,8 +207,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Part 2—Principles**
 
-[2](#2).            Solicitation of personal information from individual 
- concerned
+[2](#2).            Solicitation of personal information from individual concerned
 
 [3](#3).            Storage and security of personal information
 
@@ -223,7 +223,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Trans‑Tasman Mutual Recognition Act 1997_.
+                   This Act may be cited as the _Trans-Tasman Mutual Recognition Act 1997_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -235,7 +235,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
              (1)  The principal purpose of this Act is to enact legislation authorised by the Parliaments of States under paragraph (xxxvii) of section 51 of the Commonwealth Constitution, and requested by the legislatures of the Australian Capital Territory and the Northern Territory, for the purpose of recognising within Australia regulatory standards adopted in   New Zealand regarding goods and occupations.
 
-             (2)  The legislation is as contemplated by the Trans‑Tasman Mutual Recognition Arrangement entered into on 9 July 1996 between the Commonwealth of Australia, New Zealand, the States of New South Wales, Victoria, Queensland, Western Australia, South Australia and Tasmania, the Australian Capital Territory and the Northern Territory.
+             (2)  The legislation is as contemplated by the Trans-Tasman Mutual Recognition Arrangement entered into on 9 July 1996 between the Commonwealth of Australia, New Zealand, the States of New South Wales, Victoria, Queensland, Western Australia, South Australia and Tasmania, the Australian Capital Territory and the Northern Territory.
 
 ##### <a id="4"></a>4  Interpretation
 
@@ -255,11 +255,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                      (a)  for New Zealand—a Minister of the Crown for New Zealand; or
 
-                     (b)  for the Commonwealth—the Governor‑General of Australia; or
+                     (b)  for the Commonwealth—the Governor-General of Australia; or
 
                      (c)  for a State (other than a Territory)—the Governor of the State or a Minister of the Crown for the State; or
 
-                     (d)  for the Australian Capital Territory—the Chief Minister for the Territory; or
+                     (d)  for the Australian Capital   Territory—the Chief Minister for the Territory; or
 
                      (e)  for the Northern Territory—the Administrator of the Territory.
 
@@ -285,9 +285,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="new-zealand"></a>**_New Zealand_** has the meaning given by the _Acts Interpretation Act 1924_ of New Zealand, as in force from time to time.
 
-                    <a name="new-zealand-act"></a>**_New Zealand Act_** means the Act of the Parliament of New Zealand (as amended and in force from time to time) that deals with Trans‑Tasman mutual recognition and corresponds to this Act, and includes any Act replacing that Act (as amended and in force from time to time).
+                    <a name="new-zealand-act"></a>**_New Zealand Act_** means the Act of the Parliament of New Zealand (as amended and in force from time to time) that deals with Trans-Tasman mutual recognition and corresponds to this Act, and includes any Act replacing that Act (as amended and in force from time to time).
 
-                    <a name="new-zealand-tribun"></a>**_New Zealand Tribunal_** means the Trans‑Tasman Occupations Tribunal of New Zealand or a successor to that body.
+                    <a name="new-zealand-tribun"></a>**_New Zealand Tribunal_** means the Trans-Tasman Occupations Tribunal of New Zealand or a successor to that body.
 
                     <a name="occup"></a>**_occupation_** means an occupation, trade, profession or calling of any kind that may be carried on only by registered persons, where registration is wholly or partly dependent on the attainment or possession of some qualification (for example, training, education, examination, experience, character or being fit or proper), and includes a specialisation in any of the above in which registration may be granted. 
 
@@ -299,7 +299,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="requir"></a>**_requirements_**, when used in relation to goods, means requirements, prohibitions, restrictions or conditions.
 
-                    <a name="sell"></a>**_sell_** includes sell by wholesale or retail, and includes distribute for sale, expose or offer for sale or have in possession for sale or agree to sell, and includes barter, and includes supply by way of exchange, lease, hire or hire‑purchase.
+                    <a name="sell"></a>**_sell_** includes sell by wholesale or retail, and includes distribute for sale, expose or offer for sale or have in possession for sale or agree to sell, and includes barter, and includes supply by way of exchange, lease, hire or hire-purchase.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory or the Northern Territory.
 
@@ -333,13 +333,13 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="7"></a>7  Operation of this Act in relation to New Zealand
 
-             (1)  The Governor‑General may declare by Proclamation that this Act will cease to have effect on a specified day, if satisfied that:
+             (1)  The Governor-General may declare by Proclamation that this Act will cease to have effect on a specified day, if satisfied that:
 
                      (a)  New Zealand is not a participating jurisdiction and is not likely to become a participating jurisdiction in the near future; or
 
                      (b)  New Zealand is a participating jurisdiction but is likely to cease to be a participating jurisdiction in the near future.
 
-             (2)  Such a Proclamation cannot be made unless the designated person for each of the participating jurisdictions (other than New Zealand and the Commonwealth) has published a notice in the official gazette of the jurisdiction requesting the making of the Proclamation.
+             (2)  Such a Proclamation cannot be made unless the designated person for each of the participating jurisdictions (other than New   Zealand and the Commonwealth) has published a notice in the official gazette of the jurisdiction requesting the making of the Proclamation.
 
              (3)  Such a Proclamation is effective according to its terms.
 
@@ -349,15 +349,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ## Part 2—Goods
 
-##### <a id="9"></a>9  Trans‑Tasman mutual recognition principle
+##### <a id="9"></a>9  Trans-Tasman mutual recognition principle
 
-             (1)  The Trans‑Tasman mutual recognition principle as applying to goods is as set out in this Part.
+             (1)  The Trans-Tasman mutual recognition principle as applying to goods is as set out in this Part.
 
              (2)  This Part deals with goods produced in or imported into New Zealand and their sale in Australia.
 
 ##### <a id="10"></a>10  Entitlement to sell goods
 
-                   The Trans‑Tasman mutual recognition principle is that, subject to this Part, goods produced in or imported into New Zealand, that may lawfully be sold in New Zealand, either generally or in particular circumstances, may, by virtue of this Act, be sold in an Australian jurisdiction either generally or in particular circumstances (as the case may be), without the necessity for compliance with further requirements imposed by or under the law of that jurisdiction as described in section 11.
+                   The Trans-Tasman mutual recognition principle is that, subject to this Part, goods produced in or imported into New Zealand, that may lawfully be sold in New Zealand, either generally or in particular circumstances, may, by virtue of this Act, be sold in an Australian jurisdiction either generally or in particular circumstances (as the case may be), without the necessity for compliance with further requirements imposed by or under the law of that jurisdiction as described in section 11.
 
 ##### <a id="11"></a>11  Requirements that do not need to be complied with
 
@@ -375,7 +375,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="12"></a>12  Requirements that do need to be complied with 
 
-             (1)  The Trans‑Tasman mutual recognition principle is subject to the exceptions specified in this section.
+             (1)  The Trans-Tasman mutual recognition principle is subject to the exceptions specified in this section.
 
              (2)  The first exception is that the principle does not affect the operation of any laws of an Australian jurisdiction that regulate the manner of the sale of goods in the jurisdiction or the manner in which sellers conduct or are required to conduct their business in the jurisdiction (including laws set out in the examples below), so long as those laws apply equally to goods produced in or imported into the jurisdiction.
 
@@ -407,17 +407,17 @@ Examples:  Laws relating to the following:
 
 ##### <a id="13"></a>13  Defences to offences regarding sale
 
-             (1)  It is a defence to a prosecution for an offence against a law of an Australian jurisdiction in relation to the sale of any goods if the defendant expressly claims that the Trans‑Tasman mutual recognition principle applies and establishes that:
+             (1)  It is a defence to a prosecution for an offence against a law of an Australian jurisdiction in relation to the sale of any goods if the defendant expressly claims that the Trans-Tasman mutual recognition principle applies and establishes that:
 
                      (a)  the goods were labelled at the point of sale with a statement to the effect that the goods were produced in or imported into New Zealand; and
 
                      (b)  the defendant had no reasonable grounds for suspecting that they were not so produced or imported.
 
-             (2)  The defence is not available if the prosecution proves that the Trans‑Tasman mutual recognition principle did not apply in the circumstances of the alleged offence (because for example the goods did not comply with requirements imposed by the law of New Zealand).
+             (2)  The defence is not available if the prosecution proves that the Trans-Tasman mutual recognition principle did not apply in the circumstances of the alleged offence (because for example the goods did not comply with requirements imposed by the law of New Zealand).
 
              (3)  Any relevant presumptions or evidentiary procedures under the law of New Zealand are available to the prosecution or defendant in relation to matters sought to be proved by the prosecution under subsection (2).
 
-             (4)  Any relevant defences under the law of New Zealand are available to the defendant in relation to matters sought to be proved by the prosecution under subsection (2).
+             (4)  Any relevant defences under the law of New   Zealand are available to the defendant in relation to matters sought to be proved by the prosecution under subsection (2).
 
              (5)  This section does not affect any defence that is available apart from this section.
 
@@ -429,21 +429,21 @@ Examples:  Laws relating to the following:
 
 ### Division 1—Preliminary
 
-##### <a id="15"></a>15  Trans‑Tasman mutual recognition principle
+##### <a id="15"></a>15  Trans-Tasman mutual recognition principle
 
-             (1)  The Trans‑Tasman mutual recognition principle as applying to occupations is as set out in this Part.
+             (1)  The Trans-Tasman mutual recognition principle as applying to occupations is as set out in this Part.
 
              (2)  This Part deals with the ability of a person who is registered in connection with an occupation in New Zealand to carry on an equivalent occupation in Australia.
 
 ##### <a id="16"></a>16  Entitlement to carry on occupation 
 
-             (1)  The Trans‑Tasman mutual recognition principle is that, subject to this Part, a person who is registered in New Zealand for an occupation is, by virtue of this Act, entitled after notifying the local registration authority of an Australian jurisdiction for the equivalent occupation:
+             (1)  The Trans-Tasman mutual recognition principle is that, subject to this Part, a person who is registered in New   Zealand for an occupation is, by virtue of this Act, entitled after notifying the local registration authority of an Australian jurisdiction for the equivalent occupation:
 
                      (a)  to be registered in the jurisdiction for the equivalent occupation; and 
 
                      (b)  pending such registration, to carry on the equivalent occupation in the jurisdiction.
 
-             (2)  However, the Trans‑Tasman mutual recognition principle is subject to the exception that it does not affect the operation of laws that regulate the manner of carrying on an occupation in an Australian jurisdiction, so long as those laws:
+             (2)  However, the Trans-Tasman mutual recognition principle is subject to the exception that it does not affect the operation of laws that regulate the manner of carrying on an occupation in an Australian jurisdiction, so long as those laws:
 
                      (a)  apply equally to all persons carrying on or seeking to carry on the occupation under the law of the jurisdiction; and 
 
@@ -461,13 +461,13 @@ Examples:  Laws relating to the following:
 
 ##### <a id="18"></a>18  Notification to local registration authority
 
-             (1)  A person who is registered in New Zealand for an occupation may lodge a written notice with the local registration authority of an Australian jurisdiction for the equivalent occupation, seeking registration for the equivalent occupation in accordance with the Trans‑Tasman mutual recognition principle.
+             (1)  A person who is registered in New Zealand for an occupation may lodge a written notice with the local registration authority of an Australian jurisdiction for the equivalent occupation, seeking registration for the equivalent occupation in accordance with the Trans-Tasman mutual recognition principle.
 
              (2)  The notice must:
 
                      (a)  state that the person is registered for the occupation in New Zealand; and 
 
-                     (b)  state the occupation for which registration is sought and that it is being sought in accordance with the Trans‑Tasman mutual recognition principle; and 
+                     (b)  state the occupation for which registration is sought and that it is being sought in accordance with the Trans-Tasman mutual recognition principle; and 
 
                      (c)  specify all the participating jurisdictions in which the person has substantive registration for equivalent occupations; and
 
@@ -597,7 +597,7 @@ Examples:  Laws relating to the following:
 
                      (c)  references in the law of the Australian jurisdiction to persons registered in an occupation under the law of the jurisdiction (however expressed) extend to persons who have deemed registration for the occupation under this Act.
 
-             (4)  However, the local registration authority of the Australian jurisdiction may waive any condition imposed under the law of   New Zealand, or any undertaking given to the local registration authority of New Zealand, if it thinks it appropriate in the circumstances.
+             (4)  However, the local registration authority of the Australian jurisdiction may waive any condition imposed under the law of   New Zealand, or any undertaking given to the local registration authority of New   Zealand, if it thinks it appropriate in the circumstances.
 
              (5)  The local registration authority of the Australian jurisdiction may impose conditions as if deemed registration were substantive registration, but it must not impose conditions that are more onerous than would be imposed in similar circumstances (having regard to relevant qualifications and experience) if it were registration effected apart from this Part, unless they correspond to conditions or undertakings that apply to the person's registration in New Zealand or that are necessary to achieve equivalence of occupations.
 
@@ -625,7 +625,7 @@ Examples:  Laws relating to the following:
 
 ##### <a id="30"></a>30  Declarations by Australian Tribunal
 
-             (1)  On a review, the Australian Tribunal may make an order that a person who is registered in a particular occupation in New Zealand is or is not entitled to registration in an Australian jurisdiction in a particular occupation, and may specify or describe conditions that will achieve equivalence.
+             (1)  On a review, the Australian Tribunal may make an order that a person who is registered in a particular occupation in New   Zealand is or is not entitled to registration in an Australian jurisdiction in a particular occupation, and may specify or describe conditions that will achieve equivalence.
 
              (2)  On a review, the Australian Tribunal may make a declaration that occupations carried on in New Zealand and an Australian jurisdiction are not equivalent, but only if the Australian Tribunal is satisfied that:
 
@@ -633,7 +633,7 @@ Examples:  Laws relating to the following:
 
                      (b)  registration in New Zealand should not entitle registered persons to carry on a particular activity or class of activity in an Australian jurisdiction, where:
 
-                              (i)  the activity or class of activity is a material part of the practice of a person registered in New Zealand for the occupation; and
+                              (i)  the activity or class of activity is a material part of the practice of a person registered in New   Zealand for the occupation; and
 
                              (ii)  the activity or class of activity, if carried out by a person not conforming to the appropriate standards, could reasonably be expected to expose persons in the Australian jurisdiction to a real threat to their health or safety or could reasonably be expected to cause significant environmental pollution (including air, water, noise or soil pollution); and
 
@@ -647,7 +647,7 @@ Examples:  Laws relating to the following:
 
 ##### <a id="31"></a>31  Declarations by Ministers
 
-             (1)  A Minister from New Zealand and a Minister from each of one or more Australian jurisdictions may jointly declare, by notice in the _Commonwealth__of Australia Gazette_, that specified occupations are equivalent, and may specify or describe conditions that will achieve equivalence.
+             (1)  A Minister from New Zealand and a Minister from each of one or more Australian jurisdictions may jointly declare, by notice in the _Commonwealth__of__Australia Gazette_, that specified occupations are equivalent, and may specify or describe conditions that will achieve equivalence.
 
              (2)  The declaration may be amended or rescinded in the same way.
 
@@ -693,7 +693,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
                    The Australian Tribunal may order a party in proceedings before it to pay costs if the party has acted unreasonably.
 
-##### <a id="35"></a>35  Co‑operation with and membership of Trans‑Tasman Occupations Tribunal (NZ)
+##### <a id="35"></a>35  Co-operation with and membership of Trans-Tasman Occupations Tribunal (NZ)
 
              (1)  The purpose of this section is to promote consistency between decisions made by the Australian Tribunal for the purposes of this Act and decisions made by the New Zealand Tribunal for the purposes of the New Zealand Act.
 
@@ -743,7 +743,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
 ##### <a id="39"></a>39  General responsibilities of local registration authorities
 
-             (1)  It is the duty of each local registration authority of an Australian jurisdiction to facilitate the operation of this Part in relation to the occupations for which the authority is responsible, and in particular to make use of the power to impose conditions in such a way as to promote the Trans‑Tasman mutual recognition principle.
+             (1)  It is the duty of each local registration authority of an Australian jurisdiction to facilitate the operation of this Part in relation to the occupations for which the authority is responsible, and in particular to make use of the power to impose conditions in such a way as to promote the Trans-Tasman mutual recognition principle.
 
              (2)  It is the duty of each local registration authority of an Australian jurisdiction to prepare and make available guidelines and information regarding the operation of this Part in relation to the occupations for which the authority is responsible.
 
@@ -785,13 +785,13 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
              (1)  For the purposes of this Part, a jurisdiction endorses a regulation if the designated person for the jurisdiction publishes a notice in the official gazette of the jurisdiction setting out and endorsing the terms of the regulation before it is made.
 
-             (2)  However, the making of a recommendation by a Minister to the Governor‑General for the making of a regulation amounts to endorsement of the regulation by the Commonwealth, and the Commonwealth is taken to have endorsed the regulation for the purposes of this Part if the regulation is in fact made.
+             (2)  However, the making of a recommendation by a Minister to the Governor-General for the making of a regulation amounts to endorsement of the regulation by the Commonwealth, and the Commonwealth is taken to have endorsed the regulation for the purposes of this Part if the regulation is in fact made.
 
 ##### <a id="44"></a>44  Exclusions
 
              (1)  This Act does not affect laws of an Australian jurisdiction specified or described in Schedule 1, to the extent that Schedule 1 indicates that they are excluded from the operation of this Act.
 
-             (2)  The Governor‑General may make regulations amending Schedule 1.
+             (2)  The Governor-General may make regulations amending Schedule 1.
 
              (3)  A regulation may not be made for the purposes of this section unless all of the then participating jurisdictions have endorsed the regulation.
 
@@ -807,13 +807,13 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
              (2)  Such an exemption may be limited or unlimited in its application. If a law is specified or described in Schedule 2 without any limitation, it is taken to be wholly exempt from the operation of this Act.
 
-             (3)  The Governor‑General may make regulations amending Schedule 2.
+             (3)  The Governor-General may make regulations amending Schedule 2.
 
              (4)  A regulation may not be made for the purposes of this section unless all of the then participating jurisdictions have endorsed the regulation.
 
              (5)  However:
 
-                     (a)  if such a regulation relates solely to one or more laws specified or described in Schedule 3 and will not take effect within 5 years after the commencement of section 48, the regulation may be made if at least two‑thirds of the then participating jurisdictions have endorsed the regulation; or
+                     (a)  if such a regulation relates solely to one or more laws specified or described in Schedule 3 and will not take effect within 5 years after the commencement of section 48, the regulation may be made if at least two-thirds of the then participating jurisdictions have endorsed the regulation; or
 
                      (b)  if such a regulation merely omits or reduces the extent of an exemption of a law of a State from Schedule 2, the regulation may be made if the State has endorsed the regulation.
 
@@ -843,7 +843,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
              (3)  For the purposes of this section, goods or laws are exempt if the goods are of a kind, or the laws are, for the time being declared by regulations under this Act to be exempt from the operation of this Act.
 
-             (4)  The Governor‑General may make regulations for the purposes of this section, but any such regulations may be made only if they have the effect of continuing or reviving, wholly or partly, and with or without modification, the effect of an exemption under section 46.
+             (4)  The Governor-General may make regulations for the purposes of this section, but any such regulations may be made only if they have the effect of continuing or reviving, wholly or partly, and with or without modification, the effect of an exemption under section 46.
 
              (5)  Such a modification may only:
 
@@ -861,7 +861,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
              (6)  The regulations may discontinue any exemption under this section.
 
-             (7)  A regulation may not be made for the purposes of this section unless at least two‑thirds of the then participating jurisdictions have endorsed the regulation.
+             (7)  A regulation may not be made for the purposes of this section unless at least two-thirds of the then participating jurisdictions have endorsed the regulation.
 
              (8)  No exemption under this section operates (together with the period of any previous such exemption) for longer than a period of 12 months or an aggregate period of 12 months after the corresponding exemption under section 46 ceases to operate.
 
@@ -877,9 +877,9 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
              (3)  A regulation may not be made for the purposes of subsection (2) if the exemption has expired or has otherwise ceased to be in force.
 
-             (4)  The Governor‑General may make regulations amending Schedule 3 for the purposes of subsection (2) or (6).
+             (4)  The Governor-General may make regulations amending Schedule 3 for the purposes of subsection (2) or (6).
 
-             (5)  A regulation may not be made for the purposes of this section unless at least two‑thirds of the then participating jurisdictions have endorsed the regulation.
+             (5)  A regulation may not be made for the purposes of this section unless at least two-thirds of the then participating jurisdictions have endorsed the regulation.
 
              (6)  However, if such a regulation merely omits any matter relating to an exemption that has expired or has otherwise ceased to be in force, the regulation may be made if the Commonwealth has endorsed the regulation.
 
@@ -887,7 +887,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
              (1)  This Act does not affect the operation of laws of an Australian jurisdiction that relate to occupations and that are specified or described in Schedule 4, to the extent that Schedule 4 indicates that they are exempt from the operation of this Act.
 
-             (2)  The Governor‑General may make regulations amending Schedule 4.
+             (2)  The Governor-General may make regulations amending Schedule 4.
 
              (3)  A regulation may not be made for the purposes of this section unless all of the then participating jurisdictions have endorsed the regulation.
 
@@ -905,13 +905,13 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
                      (c)  a State (other than a Territory) for which there is in force an Act of its Parliament that refers to the Parliament of the Commonwealth the power to enact this Act, or that adopts this Act, under paragraph (xxxvii) of section 51 of the Commonwealth Constitution; or 
 
-                     (d)  a Territory (being the Australian Capital Territory or the Northern Territory) for which there is in force an Act of its legislature that requests the Parliament of the Commonwealth to enact this Act or that enables this Act to apply in relation to it.
+                     (d)  a Territory (being the Australian   Capital Territory or the Northern Territory) for which there is in force an Act of its legislature that requests the Parliament of the Commonwealth to enact this Act or that enables this Act to apply in relation to it.
 
-##### <a id="51"></a>51  Application of Trans‑Tasman mutual recognition principle
+##### <a id="51"></a>51  Application of Trans-Tasman mutual recognition principle
 
-             (1)  The Trans‑Tasman mutual recognition principle and the provisions of this Act may be taken into consideration in proceedings of any kind and for any purpose.
+             (1)  The Trans-Tasman mutual recognition principle and the provisions of this Act may be taken into consideration in proceedings of any kind and for any purpose.
 
-             (2)  Nothing in this Act or the _Mutual Recognition Act 1992_ prevents a person from relying on the Trans‑Tasman mutual recognition principle in relation to more than one Australian jurisdiction.
+             (2)  Nothing in this Act or the _Mutual Recognition Act 1992_ prevents a person from relying on the Trans-Tasman mutual recognition principle in relation to more than one Australian jurisdiction.
 
 ##### <a id="52"></a>52  Machinery provisions regarding limitations etc.
 
@@ -937,7 +937,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
 ##### <a id="54"></a>54  Commonwealth regulations for temporary exemptions
 
-                   Without limiting any other power under any other Act, the Governor‑General may make regulations for the purposes mentioned in section 46.
+                   Without limiting any other power under any other Act, the Governor-General may make regulations for the purposes mentioned in section 46.
 
 # Schedule 1—Exclusions
 
@@ -949,15 +949,15 @@ _Note:       See section 44._
 
              (1)  The laws specified or described in this Schedule are excluded from the operation of this Act, so far as they relate to:
 
-                     (a)  customs controls and tariffs—but only to the extent that the laws provide for the imposition of tariffs and related measures (for example, anti‑dumping and countervailing duties) and the prohibition or restriction of imports; and
+                     (a)  customs controls and tariffs—but only to the extent that the laws provide for the imposition of tariffs and related measures (for example, anti-dumping and countervailing duties) and the prohibition or restriction of imports; and
 
                      (b)  intellectual property—but only to the extent that the laws provide for the protection of intellectual rights and relate to requirements for the sale of goods set out in section 11; and
 
-                     (c)  taxation and business franchises—but only to the extent that the laws relate to taxes imposed on the sale of locally produced and imported goods in a non‑discriminatory way, including, for example, business franchise and stamp duties (States); and
+                     (c)  taxation and business franchises—but only to the extent that the laws relate to taxes imposed on the sale of locally produced and imported goods in a non-discriminatory way, including, for example, business franchise and stamp duties (States); and
 
                      (d)  the implementation of international obligations—but only to the extent that the laws implementing those obligations deal with the requirements relating to the sale of goods set out in section 11.
 
-             (2)  The laws specified or described in this Schedule are excluded only to the extent that those laws would be affected by the Trans‑Tasman mutual recognition principle as applying to goods.
+             (2)  The laws specified or described in this Schedule are excluded only to the extent that those laws would be affected by the Trans-Tasman mutual recognition principle as applying to goods.
 
 ## Part 2—Laws
 
@@ -987,7 +987,7 @@ _Note:       See section 44._
 </tr>
 <tr>
   <td>
-    <div>Any other laws of the Commonwealth, to the extent that they provide for the prohibition or restriction of imports and would be affected by the Trans‑Tasman mutual recognition principle as applying to goods. 
+    <div>Any other laws of the Commonwealth, to the extent that they provide for the prohibition or restriction of imports and would be affected by the Trans-Tasman mutual recognition principle as applying to goods. 
 
 </div>
   </td>
@@ -1009,7 +1009,7 @@ _Note:       See section 44._
 </tr>
 <tr>
   <td>
-    <div><i>Customs Tariff (Anti‑Dumping) Act 1975</i>of the Commonwealth</div>
+    <div><i>Customs Tariff (Anti-Dumping) Act 1975</i>of the Commonwealth</div>
   </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ _Note:       See section 44._
 </tr>
 <tr>
   <td>
-    <div><i>Badge, Arms, Floral and other Emblems of Queensland Act 1959</i>of Queensland</div>
+    <div><i>Badge, Arms, Floral and other Emblems of</i> <i>Queensland</i> <i>Act 1959</i>of Queensland</div>
   </td>
 </tr>
 <tr>
@@ -1092,7 +1092,7 @@ _Note:       See section 44._
 </tr>
 <tr>
   <td>
-    <div><i>City of Canberra Arms Act 1932</i>of the Australian Capital Territory</div>
+    <div><i>City of</i> <i>Canberra</i> <i>Arms Act 1932</i>of the Australian Capital Territory</div>
   </td>
 </tr>
 <tr>
@@ -1117,7 +1117,7 @@ _Note:       See section 44._
 </tr>
 <tr>
   <td>
-    <div><i>Hazardous Waste (Regulation of Exports and Imports) Act 1989</i>of the Commonwealth, sections 12, 14, 15, 17, 18B, 20, 24‑31, 34 and 39, to the extent that they implement the Basel Convention on the Control of Transboundary Movement of Hazardous Wastes and their Disposal 1989 
+    <div><i>Hazardous Waste (Regulation of Exports and Imports) Act 1989</i>of the Commonwealth, sections 12, 14, 15, 17, 18B, 20, 24-31, 34 and 39, to the extent that they implement the Basel Convention on the Control of Transboundary Movement of Hazardous Wastes and their Disposal 1989 
 
 </div>
   </td>
@@ -1161,7 +1161,7 @@ _Note:       See section 44._
 </tr>
 <tr>
   <td>
-    <div>The following laws, to the extent that they implement the European Union‑Australia Wine Agreement—Protection of Certain Names and Expressions:</div>
+    <div>The following laws, to the extent that they implement the European Union-Australia Wine Agreement—Protection of Certain Names and Expressions:</div>
   </td>
 </tr>
 <tr>
@@ -1188,6 +1188,8 @@ _Note:       See section 44._
   </td>
 </tr></table>
 
+ 
+
 # Schedule 2—Permanent exemptions
 
 _Note:       See section 45._
@@ -1202,7 +1204,7 @@ _Note:       See section 45._
 
                      (a)  the law is enacted or made substantially for the purpose of preventing the entry or spread of any pest, disease, organism, variety, genetic disorder or any other similar thing; and
 
-                     (b)  the law authorises the application of quarantine measures that do not amount to an arbitrary or unjustifiable discrimination or to a disguised restriction on trade between Australia and New Zealand and are not inconsistent with the requirements of the Agreement establishing the World Trade Organisation.
+                     (b)  the law authorises the application of quarantine measures that do not amount to an arbitrary or unjustifiable discrimination or to a disguised restriction on trade between Australia and New   Zealand and are not inconsistent with the requirements of the Agreement establishing the World Trade Organisation.
 
 ##### <a id="2"></a>2  Endangered species
 
@@ -1355,7 +1357,7 @@ _Note:       See section 45._
   </td>
 </tr></table>
 
-##### <a id="4"></a>4  New South Wales
+##### <a id="4"></a>4  New   South Wales
 
 <table>
 <colgroup>
@@ -1496,7 +1498,7 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><i>Firearms Regulations 1995</i></div>
+    <div><i>Firearms Regulation</i> <i>s 1</i> <i>995</i></div>
   </td>
 </tr>
 <tr>
@@ -1506,7 +1508,7 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><i>Control of Weapons Regulations 1990 
+    <div><i>Control of Weapons Regulation</i> <i>s 1</i> <i>990 
 
  </i></div>
   </td>
@@ -1523,7 +1525,7 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><i>Dangerous Goods (Explosives) Regulations 1988</i>, Part 8, Division 5 
+    <div><i>Dangerous Goods (Explosives) Regulation</i> <i>s 1</i> <i>988</i>, Part 8, Division 5 
 
 </div>
   </td>
@@ -1725,7 +1727,7 @@ Prohibited Weapons Act 1989
   </td>
 </tr></table>
 
-##### <a id="7"></a>7  Western Australia
+##### <a id="7"></a>7  Western   Australia
 
 <table>
 <colgroup>
@@ -1739,22 +1741,7 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><i>Firearms Act 1973</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Firearms Regulations 1974</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Weapons Act 1999</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Weapons Regulations 1999 
+    <div><i>Firearms Act 1973 
 
  </i></div>
   </td>
@@ -1875,7 +1862,7 @@ Prohibited Weapons Act 1989
   </td>
 </tr></table>
 
-##### <a id="8"></a>8  South Australia
+##### <a id="8"></a>8  South   Australia
 
 <table>
 <colgroup>
@@ -1894,7 +1881,7 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><i>Firearms Regulations 1993</i></div>
+    <div><i>Firearms Regulation</i> <i>s 1</i> <i>993</i></div>
   </td>
 </tr>
 <tr>
@@ -1933,7 +1920,7 @@ Prohibited Weapons Act 1989
 </tr>
 <tr>
   <td>
-    <div><i>Gaming Machines Regulations 1993 
+    <div><i>Gaming Machines Regulation</i> <i>s 1</i> <i>993 
 
  </i></div>
   </td>
@@ -2149,7 +2136,7 @@ Prohibited Weapons Act 1989
   </td>
 </tr></table>
 
-##### <a id="10"></a>10  Australian Capital Territory
+##### <a id="10"></a>10  Australian  Capital Territory
 
 <table>
 <colgroup>
@@ -2261,7 +2248,7 @@ Prohibited Weapons Act 1989
   </td>
 </tr></table>
 
-##### <a id="11"></a>11  Northern Territory
+##### <a id="11"></a>11  Northern   Territory
 
 <table>
 <colgroup>
@@ -2373,11 +2360,15 @@ Prohibited Weapons Act 1989
   </td>
 </tr></table>
 
+ 
+
 # Schedule 3—Special exemptions
 
 _Note:       See section 48._
 
                    The laws specified or described in this Schedule are exempt from the operation of this Act.
+
+ 
 
 # Schedule 4—Exempt laws relating to occupations
 
@@ -2389,7 +2380,7 @@ _Note:       See section 49._
 
 ##### <a id="2"></a>2  Medical practitioners
 
-                   The following laws, to the extent that they deal with the occupation of medical practitioners as referred to in them:
+                   The following laws, to the extent that they deal with the occupation of medical practitioners as referred to in them:
 
 <table>
 <colgroup>
@@ -2436,6 +2427,8 @@ _Note:       See section 49._
     <div><i>Medical Act 1995</i>of the Northern Territory.</div>
   </td>
 </tr></table>
+
+ 
 
 # Schedule 5—Privacy of information collected under the Act
 
@@ -2489,7 +2482,7 @@ the authority must ensure that the forms issued to individuals in connection wit
 
                      (c)  the purpose for which the information is being collected; and
 
-                     (d)  any person to whom, or any body or agency to which, it is the authority's usual practice to disclose personal information of the kind so collected, and (if known by the authority) any person to whom, or any body or agency to which, it is the usual practice of that first‑mentioned person, body or agency to pass on that information.
+                     (d)  any person to whom, or any body or agency to which, it is the authority's usual practice to disclose personal information of the kind so collected, and (if known by the authority) any person to whom, or any body or agency to which, it is the usual practice of that first-mentioned person, body or agency to pass on that information.
 
 ##### <a id="3"></a>3  Storage and security of personal information
 
@@ -2531,7 +2524,7 @@ the authority must ensure that the forms issued to individuals in connection wit
 
 ### Note 1
 
-The _Trans‑Tasman Mutual Recognition Act 1997_ as shown in this compilation comprises Act No. 190, 1997 amended as indicated in the Tables below. 
+The _Trans-Tasman Mutual Recognition Act 1997_ as shown in this compilation comprises Act No. 190, 1997 amended as indicated in the Tables below. 
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -2569,7 +2562,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Trans‑Tasman Mutual Recognition Act 1997</div>
+    <div>Trans-Tasman Mutual Recognition Act 1997</div>
   </td>
   <td>
     <div>190, 1997</div>
@@ -2708,7 +2701,7 @@ in <i>Gazette</i>or FRLI registration</div>
 </thead>
 <tr>
   <td>
-    <div>Trans‑Tasman Mutual Recognition Regulations 1999</div>
+    <div>Trans-Tasman Mutual Recognition Regulations 1999</div>
   </td>
   <td>
     <div>1999 No. 60</div>
@@ -2725,7 +2718,7 @@ in <i>Gazette</i>or FRLI registration</div>
 </tr>
 <tr>
   <td>
-    <div>Trans‑Tasman Mutual Recognition Amendment Regulations 2000 (No. 1)</div>
+    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1)</div>
   </td>
   <td>
     <div>2000 No. 51</div>
@@ -2742,7 +2735,7 @@ in <i>Gazette</i>or FRLI registration</div>
 </tr>
 <tr>
   <td>
-    <div>Trans‑Tasman Mutual Recognition Amendment Regulations 2001 (No. 1)</div>
+    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1)</div>
   </td>
   <td>
     <div>2001 No. 75</div>
@@ -2759,7 +2752,7 @@ in <i>Gazette</i>or FRLI registration</div>
 </tr>
 <tr>
   <td>
-    <div>Trans‑Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)</div>
+    <div>Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)</div>
   </td>
   <td>
     <div>2001 No. 221</div>
@@ -2776,7 +2769,7 @@ in <i>Gazette</i>or FRLI registration</div>
 </tr>
 <tr>
   <td>
-    <div>Trans‑Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)</div>
+    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)</div>
   </td>
   <td>
     <div>2002 No. 78</div>
@@ -2793,7 +2786,7 @@ in <i>Gazette</i>or FRLI registration</div>
 </tr>
 <tr>
   <td>
-    <div>Trans‑Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)</div>
+    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)</div>
   </td>
   <td>
     <div>2003 No. 72</div>
@@ -2810,7 +2803,7 @@ in <i>Gazette</i>or FRLI registration</div>
 </tr>
 <tr>
   <td>
-    <div>Trans‑Tasman Mutual Recognition Amendment Regulations 2009 (No. 1)</div>
+    <div>Trans-Tasman Mutual Recognition Amendment Regulations 2009 (No. 1)</div>
   </td>
   <td>
     <div>2009 No. 65</div>
@@ -2827,7 +2820,7 @@ in <i>Gazette</i>or FRLI registration</div>
 </tr>
 <tr>
   <td>
-    <div>Trans‑Tasman Mutual Recognition Act 1997 Amendment Regulations 2010 (No. 1)</div>
+    <div>Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2010 (No. 1)</div>
   </td>
   <td>
     <div>2010 No. 42</div>
@@ -2854,23 +2847,6 @@ in <i>Gazette</i>or FRLI registration</div>
   </td>
   <td>
     <div>20 Apr 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition (Amendment of Act) Regulation 2012</div>
-  </td>
-  <td>
-    <div>2012 No. 303</div>
-  </td>
-  <td>
-    <div>11 Dec 2012</div>
-  </td>
-  <td>
-    <div>S. 3: 12 Dec 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -2902,34 +2878,10 @@ in <i>Gazette</i>or FRLI registration</div>
 </thead>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 35</div>
   </td>
   <td>
     <div>am. No. 38, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedules</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -2945,7 +2897,7 @@ in <i>Gazette</i>or FRLI registration</div>
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003; SLI 2009 No. 65; SLI 2010 Nos. 42 and 72; SLI 2012 No. 303</div>
+    <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003; SLI 2009 No. 65; SLI 2010 Nos. 42 and 72</div>
   </td>
 </tr>
 <tr>
@@ -2992,17 +2944,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
