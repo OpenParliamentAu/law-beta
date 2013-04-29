@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00434/Html/a711d158-9420-4ee9-944c-ce8fef0870f5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00193/Html/5f1af9ec-dede-47b7-bfb7-fa4093172833_files/image001.gif)
 
 # Ombudsman Act 1976
 
 **Act No. 181 of 1976 as amended**
 
-This compilation was prepared on 10 June 2011
+This compilation was prepared on 19 April 2011
  taking into account amendments up to Act No. 11 of 2011
 
 The text of any of those amendments not in force 
@@ -706,17 +706,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  another Act or regulations made under another Act; or
 
-                     (c)  an ACT enactment or regulations made under an ACT enactment; or
-
-                     (d)  an enactment of Norfolk Island.
+                     (c)  an ACT enactment or regulations made under an ACT enactment.
 
              (3)  The Commonwealth Ombudsman, in performing his or her functions in relation to the Australian Taxation Office, may, if he or she so chooses, be called the Taxation Ombudsman.
 
              (4)  The Commonwealth Ombudsman, in performing his or her functions in relation to immigration (including immigration detention), may, if he or she so chooses, be called the Immigration Ombudsman.
 
              (5)  The Commonwealth Ombudsman, in performing his or her functions in relation to the Australian Federal Police, may, if he or she so chooses, be called the Law Enforcement Ombudsman.
-
-             (6)  The Commonwealth Ombudsman, in performing functions under an enactment of Norfolk Island, may, if he or she so chooses, be called the Norfolk Island Ombudsman.
 
 ##### <a id="5"></a>5  Functions of Ombudsman
 
@@ -1026,7 +1022,7 @@ Transfer to Information Commissioner
 
              (4)  A complaint transferred under subsection (3) is taken to be a complaint made to the Information Commissioner under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_, as the case requires.
 
-##### <a id="7"></a>7  Complaints
+##### <a id="7"></a>7  Complaints
 
              (1)  Subject to subsection (2), a complaint under this Act may be made to the Ombudsman orally or in writing.
 
@@ -4308,7 +4304,7 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
     <div>10 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 241, 242): 10 June 2011</div>
+    <div>Schedule 1 (items 241, 242): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -5148,7 +5144,7 @@ No. 49, 2001</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 61, 1983; No. 199, 1991; No. 33, 1994; No. 120, 1995; No. 141, 2005; No. 84, 2006; No. 139, 2010</div>
+    <div>am. No. 61, 1983; No. 199, 1991; No. 33, 1994; No. 120, 1995; No. 141, 2005; No. 84, 2006</div>
   </td>
 </tr>
 <tr>
@@ -6152,6 +6148,28 @@ No. 49, 2001</div>
     <div>rep. No. 168, 1986</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Territories Law Reform Act 2010 (No. 139, 2010)_
+
+The following amendments commence on 10 June 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 241  At the end of subsection 4(2)
+
+Add:
+
+               ; or (d)  an enactment of Norfolk Island.
+
+## 242  At the end of section 4
+
+Add:
+
+             (6)  The Commonwealth Ombudsman, in performing functions under an enactment of Norfolk Island, may, if he or she so chooses, be called the Norfolk Island Ombudsman. 
+
+As at 19 April 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
