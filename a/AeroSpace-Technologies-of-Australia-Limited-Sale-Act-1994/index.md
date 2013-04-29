@@ -1,676 +1,1009 @@
-![](http://www.comlaw.gov.au/Details/C2005C00111/Html/ec5bbee9-e806-4595-93b0-1a6eab5d505e_files/image001.gif)
+**
 
-# AeroSpace Technologies of Australia Limited Sale Act 1994
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994 
+**
 
-**Act No. 144 of 1994 as amended**
 
-This compilation was prepared on 1 March 2005
- taking into account amendments up to Act No. 8 of 2005
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Definitions
+**
 
-[4](#4).            Subsidiaries
+###  Long Title 
+**
+**
 
-[5](#5).            ASTA sale day
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<part>Part&#160;1&#151;Preliminary </part>
+**
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _AeroSpace Technologies of Australia Limited Sale Act 1994_.
 
-[6](#6).            ASTA subsidiary sale day
+ 
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>The following provisions of this Act are taken to have commenced on
 
-**Part 2—Superannuation** 
+12&#160;October 1994:
 
-    **Division 1—Superannuation schemes**
+</dd> 
+<dl compact=""><dl compact="">
 
-[7](#7).            Deferred benefits under the _Superannuation Act 1922_
+<dt>(a)</dt><dd>this Part;</dd>
 
-[8](#8).            Deferred benefits under the _Superannuation Act 1976_
+<dt>(b)</dt><dd>sections&#160;7, 8, 9, 10 and 11;</dd>
 
-[9](#9).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_
+<dt>(c)</dt><dd>Divisions&#160;2 and 3 of Part&#160;2;</dd>
 
-[10](#10).          Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
+<dt>(d)</dt><dd>Part&#160;3.
 
-[11](#11).          Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
+</dd>
 
-[12](#12).          Application of the _Superannuation Act 1976_
+</dl></dl>
+<dt>(2)</dt><dd>The remaining provisions of this Act commence on the ASTA sale day.</dd> <dt>(3)</dt><dd>If a provision of this Act does not commence within the period of 2 years beginning on the day on which this Act receives the Royal Assent, the provision is taken to have been repealed at the end of that period. </dd> 
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 3  Definitions 
+In this Act, unless the contrary intention appears:
 
-[13](#13).          Application of the _Superannuation Act 1990_
+ 
+<dl compact=""><dl compact="">
 
-    **Division 2—The Crimes (Superannuation Benefits) Act 1989**
+_ASTA_ means the body corporate known before the ASTA sale day as
 
-[14](#14).          Continuing application of the _Crimes (Superannuation Benefits) Act 1989_
+AeroSpace Technologies of Australia Limited:
 
-    **Division 3—The Superannuation Benefits (Supervisory Mechanisms) Act 1990**
+ </dl></dl>
 
-[15](#15).          An ASTA body is not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
+<dl compact=""><dl compact=""><dl compact="">
 
-**Part 3—Prosecutions**
+<dt>(a)</dt><dd>by whatever name called from time to time; and</dd>
 
-[16](#16).          Continuing application of the _Director of Public Prosecutions Act 1983_
+<dt>(b)</dt><dd>in whatever form that body corporate takes from time to time.
 
-**Part 4—ASTA not to be an agency of the Commonwealth etc.**
+</dd>
 
-[17](#17).          ASTA not to be an agency of the Commonwealth etc
+</dl></dl></dl>
 
-**Part 5—Regulations connected with the sale of ASTA**
+<def><dl compact=""><dl compact="">
 
-[18](#18).          Regulations connected with the sale of ASTA
+_ASTA body_ means ASTA or an ASTA subsidiary. _ASTA sale day_ means the day declared under section&#160;5\. _ASTA subsidiary_ means a body corporate that:  </dl></dl>
 
-**Part 6—Cessation Of Mobility Rights**
+<dl compact=""><dl compact=""><dl compact="">
 
-[19](#19).          Cessation of mobility rights
+<dt>(a)</dt><dd>is a subsidiary of ASTA; or</dd>
 
-**Part 7—Commonwealth Borrowing Levy**
+<dt>(b)</dt><dd>was a subsidiary of ASTA on 12&#160;October 1994.
 
-[20](#20).          Ending ASTA’s liability under the _Commonwealth Borrowing Levy Act 1987_
+</dd>
 
-[21](#21).          Consequential amendment of the _Commonwealth Borrowing Levy Act 1987_
+</dl></dl></dl>
 
-**Notes** 
+<def><dl compact=""><dl compact="">
 
-## An Act relating to the sale of AeroSpace Technologies of Australia Limited, and for related purposes
+_employee_ includes apprentice. _sale day_, in relation to an ASTA body, means:  </dl></dl>
 
-## Part 1—Preliminary
+<center>Back to Top</center>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+<dl compact=""><dl compact=""><dl compact="">
 
-                   This Act may be cited as the _AeroSpace Technologies of Australia Limited Sale Act 1994_. 
+<dt>(a)</dt><dd>if:
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+</dd>
 
-             (1)  The following provisions of this Act are taken to have commenced on 12 October 1994:
+</dl></dl></dl>
 
-                     (a)  this Part;
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  sections 7, 8, 9, 10 and 11;
+<dt>(i)</dt><dd>the body is an ASTA subsidiary; and</dd>
 
-                     (c)  Divisions 2 and 3 of Part 2;
+<dt>(ii)</dt><dd>a day is declared under section&#160;6 to be the sale day for the
 
-                     (d)  Part 3.
+subsidiary;
 
-             (2)  The remaining provisions of this Act commence on the ASTA sale day.
+</dd>
 
-             (3)  If a provision of this Act does not commence within the period of 2 years beginning on the day on which this Act receives the Royal Assent, the provision is taken to have been repealed at the end of that period.
+</dl></dl></dl></dl>
 
-##### <a id="3"></a>3  Definitions
+<dl compact=""><dl compact=""><dl compact="">
 
-                   In this Act, unless the contrary intention appears:
+		the day declared under that section; or
 
-                    <a name="asta"></a>**_ASTA_** means the body corporate known before the ASTA sale day as AeroSpace Technologies of Australia Limited:
+<dt>(b)</dt><dd>in any other case&#151;the ASTA sale day.
 
-                     (a)  by whatever name called from time to time; and
+</dd>
 
-                     (b)  in whatever form that body corporate takes from time to time.
+</dl></dl></dl>
 
-                    <a name="asta-bodi"></a>**_ASTA body_** means ASTA or an ASTA subsidiary.
+<def><dl compact=""><dl compact="">
 
-                    <a name="asta-sale-dai"></a>**_ASTA sale day_** means the day declared under section 5.
+_share_, in relation to a body corporate, means a share in the
 
-                    <a name="asta-subsidiari"></a>**_ASTA subsidiary_** means a body corporate that:
+body's share capital. _subsidiary_ has the meaning given by section&#160;4\. _voting share_ has the same meaning as in the _Corporations Act 2001_.  </dl></dl>
 
-                     (a)  is a subsidiary of ASTA; or
+**
 
-                     (b)  was a subsidiary of ASTA on 12 October 1994.
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 4  Subsidiaries 
+**
 
-                    <a name="employe"></a>**_employee_** includes apprentice.
+ <dl compact="">
 
-                    <a name="sale-dai"></a>**_sale day_**, in relation to an ASTA body, means:
+		For the purposes of this Act, the question whether a body corporate is a
 
-                     (a)  if:
+subsidiary of another body corporate is to be determined in the same manner as
 
-                              (i)  the body is an ASTA subsidiary; and
+that question is determined under the _Corporations Act 2001_.
 
-                             (ii)  a day is declared under section 6 to be the sale day for the subsidiary;
+ </dl>
 
-                            the day declared under that section; or
+**
 
-                     (b)  in any other case—the ASTA sale day.
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 5  ASTA sale day 
+**
 
-                    <a name="share"></a>**_share_**, in relation to a body corporate, means a share in the body’s share capital.
+ <dl compact="">
 
-                    <a name="subsidiari"></a>**_subsidiary_** has the meaning given by section 4.
+<dt>(1)</dt><dd>This section applies to a day if:
 
-                    <a name="vote-share"></a>**_voting share_** has the same meaning as in the _Corporations Act 2001_.
+</dd> </dl>
 
-##### <a id="4"></a>4  Subsidiaries
+<dl compact=""><dl compact=""><dl compact="">
 
-                   For the purposes of this Act, the question whether a body corporate is a subsidiary of another body corporate is to be determined in the same manner as that question is determined under the _Corporations Act 2001_.
+<dt>(a)</dt><dd>the day is after the day (the _assent day_) on which this Act
 
-##### <a id="5"></a>5  ASTA sale day
+receives the Royal Assent; and</dd>
 
-             (1)  This section applies to a day if:
+<dt>(b)</dt><dd>the day is before the end of the period of 2 years beginning on the assent
 
-                     (a)  the day is after the day (the **_assent day_**) on which this Act receives the Royal Assent; and
+day; and</dd>
 
-                     (b)  the day is before the end of the period of 2 years beginning on the assent day; and
+<dt>(c)</dt><dd>in the opinion of the Minister, the day is the first day after the assent
 
-                     (c)  in the opinion of the Minister, the day is the first day after the assent day on which a majority of the voting shares in ASTA are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.
+day on which a majority of the voting shares in ASTA are acquired by a person,
 
-             (2)  The Minister must, by notice in the _Gazette_, declare the day to be the ASTA sale day.
+or persons, other than the Commonwealth or a nominee of the Commonwealth.
 
-             (3)  The notice must be published within 14 days after the day concerned.
+</dd>
 
-##### <a id="6"></a>6  ASTA subsidiary sale day
+</dl></dl></dl>
 
-             (1)  This section applies to a day and a particular ASTA subsidiary if:
+<dl compact="">
 
-                     (a)  the day is before the ASTA sale day; and
+<dt>(2)</dt><dd>The Minister must, by notice in the _Gazette_, declare the day to be
 
-                     (b)  the day is before the end of the period of 2 years beginning on the day on which this Act receives the Royal Assent; and
+the ASTA sale day.</dd> <dt>(3)</dt><dd>The notice must be published within 14 days after the day concerned. </dd> </dl>
 
-                     (c)  in the opinion of the Minister, the day is the first day after 12 October 1994 on which a majority of the voting shares in the subsidiary are acquired by a person, or persons, other than:
+**
 
-                              (i)  ASTA or a nominee of ASTA; or
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 6  ASTA subsidiary sale day 
+**
 
-                             (ii)  the Commonwealth or a nominee of the Commonwealth.
+ <dl compact="">
 
-             (2)  The Minister must, by notice in the _Gazette_, declare the day to be the sale day for the subsidiary.
+<dt>(1)</dt><dd>This section applies to a day and a particular ASTA subsidiary if:
 
-             (3)  The notice must be published within 14 days after the day concerned.
+</dd> </dl>
 
-## Part 2—Superannuation
+<dl compact=""><dl compact=""><dl compact="">
 
-### Division 1—Superannuation schemes
+<dt>(a)</dt><dd>the day is before the ASTA sale day; and</dd>
 
-##### <a id="7"></a>7  Deferred benefits under the _Superannuation Act 1922_
+<dt>(b)</dt><dd>the day is before the end of the period of 2 years beginning on the day on
 
-             (1)  This section applies in relation to an ASTA body if, immediately before the body’s sale day, an employee of the body was a person to whom deferred benefits were applicable under section 119W of the _Superannuation Act 1922_.
+which this Act receives the Royal Assent; and</dd>
 
-             (2)  For the purposes of Division 3 of Part XA of the _Superannuation Act 1922_, the employee is taken to continue in public employment, on and after the body’s sale day, while the employee continues to be employed by any of the following:
+<dt>(c)</dt><dd>in the opinion of the Minister, the day is the first day after
 
-                     (a)  the body;
+12&#160;October 1994 on which a majority of the voting shares in the subsidiary
 
-                     (b)  if:
+are acquired by a person, or persons, other than:
 
-                              (i)  the body is a subsidiary of a particular body corporate (the **_parent entity_**); and
+</dd>
 
-                             (ii)  another ASTA body is a subsidiary of the parent entity;
+</dl></dl></dl>
 
-                            the other ASTA body.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (3)  This section is subject to Division 3 of Part XA of the _Superannuation Act 1922_.
+<dt>(i)</dt><dd>ASTA or a nominee of ASTA; or</dd>
 
-##### <a id="8"></a>8  Deferred benefits under the _Superannuation Act 1976_
+<dt>(ii)</dt><dd>the Commonwealth or a nominee of the Commonwealth.
 
-             (1)  This section applies in relation to an ASTA body if, immediately before the body’s sale day, an employee of the body was a person to whom deferred benefits were applicable under Division 3 of Part IX of the _Superannuation Act 1976_.
+</dd>
 
-             (2)  For the purposes of Division 3 of Part IX of the _Superannuation Act 1976_, the employee is taken to continue in public employment, on and after the body’s sale day, while the employee continues to be employed by any of the following:
+</dl></dl></dl></dl>
 
-                     (a)  the body;
+<dl compact="">
 
-                     (b)  if:
+<dt>(2)</dt><dd>The Minister must, by notice in the _Gazette_, declare the day to be
 
-                              (i)  the body is a subsidiary of a particular body corporate (the **_parent entity_**); and
+the sale day for the subsidiary.</dd> <dt>(3)</dt><dd>The notice must be published within 14 days after the day concerned. </dd> </dl>
 
-                             (ii)  another ASTA body is a subsidiary of the parent entity;
+<center>Back to Top</center>
 
-                            the other ASTA body.
+<center>**
 
-             (3)  This section is subject to Division 3 of Part IX of the _Superannuation Act 1976_.
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<part>Part&#160;2&#151;Superannuation </part>
+**</center>
 
-##### <a id="9"></a>9  Period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_
+<center>**
 
-             (1)  This section applies in relation to an ASTA body if, immediately before the body’s sale day, a particular period of employment of a person by the body was a period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_.
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<division>Division&#160;1&#151;Superannuation schemes </division> 
+**</center>
 
-             (2)  If employment by the body ceases to be eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_ on the body’s sale day, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division.
+**
 
-##### <a id="10"></a>10  Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 7  Deferred benefits under the _Superannuation Act 1922_ 
+**
 
-             (1)  This section applies in relation to an ASTA body if, immediately before the body’s sale day, an employee of the body was a person to whom deferred benefits were applicable under section 78 of the _Defence Force Retirement and Death Benefits Act 1973_.
+<dl compact="">
 
-             (2)  For the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to continue in public employment, on and after the body’s sale day, while the employee continues to be employed by any of the following:
+<dt>(1)</dt><dd>This section applies in relation to an ASTA body if, immediately before
 
-                     (a)  the body;
+the body's sale day, an employee of the body was a person to whom deferred
 
-                     (b)  if:
+benefits were applicable under section&#160;119W of the _Superannuation Act 1922_.</dd> <dt>(2)</dt><dd>For the purposes of Division&#160;3 of Part XA of the _Superannuation Act 1922_, the employee is taken to continue in public employment, on and after the body's sale day, while the employee continues to be employed by any of the following: </dd> </dl>
 
-                              (i)  the body is a subsidiary of a particular body corporate (the **_parent entity_**); and
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  another ASTA body is a subsidiary of the parent entity;
+<dt>(a)</dt><dd>the body;</dd>
 
-                            the other ASTA body.
+<dt>(b)</dt><dd>if:
 
-             (3)  This section is subject to Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+</dd>
 
-##### <a id="11"></a>11  Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
+</dl></dl></dl>
 
-             (1)  This section applies in relation to an ASTA body if, immediately before the body’s sale day, a particular period of employment of a person by the body was a period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (2)  If employment by the body ceases to be eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ on the body’s sale day, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division.
+<dt>(i)</dt><dd>the body is a subsidiary of a particular body corporate (the _parent entity_); and</dd>
 
-##### <a id="12"></a>12  Application of the _Superannuation Act 1976_
+<dt>(ii)</dt><dd>another ASTA body is a subsidiary of the parent entity;
 
-                   On and after the ASTA sale day, ASTA is not an approved authority for the purposes of the _Superannuation Act 1976_.
+</dd>
 
-##### <a id="13"></a>13  Application of the _Superannuation Act 1990_
+</dl></dl></dl></dl>
 
-                   On and after the ASTA sale day, ASTA is not an approved authority for the purposes of the _Superannuation Act 1990_.
+<dl compact=""><dl compact=""><dl compact="">
 
-### Division 2—The Crimes (Superannuation Benefits) Act 1989
+		the other ASTA body.
 
-##### <a id="14"></a>14  Continuing application of the _Crimes (Superannuation Benefits) Act 1989_
+</dl></dl></dl>
 
-Continuing application of Act
+<dl compact="">
 
-             (1)  Subject to subsection (2), if a person who was an employee of an ASTA body before the body’s sale day committed a corruption offence while such an employee, then, on and after the body’s sale day, the _Crimes (Superannuation Benefits) Act 1989_ continues to apply in relation to the person in respect of the offence as if the body continued to be a Commonwealth authority.
+<dt>(3)</dt><dd>This section is subject to Division&#160;3 of Part XA of the
 
-Limitation on superannuation orders
+_Superannuation Act 1922_.
 
-             (2)  A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid or payable to a superannuation scheme by an ASTA body on or after the body’s sale day.
+</dd> </dl>
 
-Superannuation schemes
+**
 
-             (3)  A superannuation scheme in relation to which employer contributions or benefits are paid or payable by an ASTA body on or after the body’s sale day is not a superannuation scheme for the purposes of the application of the _Crimes (Superannuation Benefits) Act 1989_ to a corruption offence committed by a person after the body’s sale day.
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 8  Deferred benefits under the _Superannuation Act 1976_ 
+**
 
-Paragraph 19(3)(d) orders
+<dl compact="">
 
-             (4)  Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, for the purposes of the application of that Act to an ASTA body, an order made under that paragraph on or after the body’s sale day may only specify that an amount paid to the Commonwealth before the body’s sale day by or on behalf of the body belongs to the Commonwealth.
+<dt>(1)</dt><dd>This section applies in relation to an ASTA body if, immediately before
 
-Paragraph 19(4)(b) orders
+the body's sale day, an employee of the body was a person to whom deferred
 
-             (5)  If:
+benefits were applicable under Division&#160;3 of Part IX of the
 
-                     (a)  a person who was an employee of an ASTA body before the body’s sale day committed a corruption offence while such an employee; and
+_Superannuation Act 1976_.</dd> <dt>(2)</dt><dd>For the purposes of Division&#160;3 of Part IX of the _Superannuation Act 1976_, the employee is taken to continue in public employment, on and after the body's sale day, while the employee continues to be employed by any of the following: </dd> </dl>
 
-                     (b)  the person was paid benefits before, on or after the body’s sale day out of the Consolidated Revenue Fund;
+<dl compact=""><dl compact=""><dl compact="">
 
-then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 1989_, for the purposes of the application of that Act to the corruption offence, an order made under that paragraph on or after the body’s sale day may only specify that an amount equal to the total benefits paid out of the Consolidated Revenue Fund be paid to the Commonwealth.
+<dt>(a)</dt><dd>the body;</dd>
 
-Interpretation
+<dt>(b)</dt><dd>if:
 
-             (6)  Unless the contrary intention appears, an expression used in this section that is also used in the _Crimes (Superannuation Benefits) Act 1989_ has the same meaning in this section as it has in that Act.
+</dd>
 
-### Division 3—The Superannuation Benefits (Supervisory Mechanisms) Act 1990
+</dl></dl></dl>
 
-##### <a id="15"></a>15  An ASTA body is not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-Eligible body notice
+<dt>(i)</dt><dd>the body is a subsidiary of a particular body corporate (the _parent entity_); and</dd>
 
-             (1)  A notice published in the _Gazette_ before an ASTA body’s sale day that declares the body to be an eligible body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ has effect, on and after the body’s sale day, as if the notice did not contain a reference to the body.
+<dt>(ii)</dt><dd>another ASTA body is a subsidiary of the parent entity;
 
-Relevant body notice
+</dd>
 
-             (2)  A notice published in the _Gazette_ before an ASTA body’s sale day that declares the body to be a relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ has effect, on and after the body’s sale day, as if the notice did not contain a reference to the body.
+</dl></dl></dl></dl>
 
-Application to subsidiaries
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  This section does not apply to an ASTA subsidiary unless the subsidiary ceased to be a Commonwealth authority on the subsidiary’s sale day.
+		the other ASTA body.
 
-Amendment or revocation of notice
+</dl></dl></dl>
 
-             (4)  Subsections (1) and (2) do not prevent a declaration affected by either of those subsections from being amended or revoked by the Minister.
+<dl compact="">
 
-Definitions
+<dt>(3)</dt><dd>This section is subject to Division&#160;3 of Part IX of the
 
-             (5)  In this section:
+_Superannuation Act 1976_.
 
-                    <a name="relev-bodi"></a><a name="commonwealth-author"></a>**_Commonwealth authority_** means a company covered by paragraph (a), (b) or (c) of the definition of **_relevant body_** in subsection 3(1) of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
+</dd> </dl>
 
-                    <a name="minist"></a>**_Minister_** has the same meaning as in the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
+**
 
-## Part 3—Prosecutions
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 9  Period of eligible employment for the purposes of Division&#160;3 of Part IX of the _Superannuation Act 1976_ 
+**
 
-##### <a id="16"></a>16  Continuing application of the _Director of Public Prosecutions Act 1983_
+<dl compact="">
 
-                   If the _Director of Public Prosecutions Act 1983_ ceases to apply to particular acts, omissions or proceedings in connection with an ASTA body on the body’s sale day because the body ceases to be an authority of the Commonwealth for the purposes of that Act on that day, then, despite that cessation, that Act continues to apply in relation to:
+<dt>(1)</dt><dd>This section applies in relation to an ASTA body if, immediately before
 
-                     (a)  acts or omissions that occurred in relation to the body before the body’s sale day; and
+the body's sale day, a particular period of employment of a person by the body
 
-                     (b)  civil remedies connected with, or arising out of, a prosecution that relates to acts or omissions referred to in paragraph (a).
+was a period of eligible employment for the purposes of Division&#160;3 of Part
 
-## Part 4—ASTA not to be an agency of the Commonwealth etc.
+IX of the _Superannuation Act 1976_.</dd> <dt>(2)</dt><dd>If employment by the body ceases to be eligible employment for the purposes of Division&#160;3 of Part IX of the _Superannuation Act 1976_ on the body's sale day, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division. </dd> </dl>
 
-##### <a id="17"></a>17  ASTA not to be an agency of the Commonwealth etc
+<center>Back to Top</center>
 
-             (1)  On and after the ASTA sale day, ASTA is not taken, for the purposes of a law, to be:
+**
 
-                     (a)  a Commonwealth authority; or
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 10  Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_ 
+**
 
-                     (b)  established for a public purpose or for a purpose of the Commonwealth; or
+<dl compact="">
 
-                     (c)  a public authority or an agency or instrumentality of the Crown;
+<dt>(1)</dt><dd>This section applies in relation to an ASTA body if, immediately before
+
+the body's sale day, an employee of the body was a person to whom deferred
+
+benefits were applicable under section&#160;78 of the _Defence Force Retirement and Death Benefits Act 1973_.</dd> <dt>(2)</dt><dd>For the purposes of Division&#160;3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to continue in public employment, on and after the body's sale day, while the employee continues to be employed by any of the following: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the body;</dd>
+
+<dt>(b)</dt><dd>if:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the body is a subsidiary of a particular body corporate (the _parent entity_); and</dd>
+
+<dt>(ii)</dt><dd>another ASTA body is a subsidiary of the parent entity;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		the other ASTA body.
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>This section is subject to Division&#160;3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+
+</dd> </dl>
+
+**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 11  Period of eligible employment for the purposes of Division&#160;3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies in relation to an ASTA body if, immediately before
+
+the body's sale day, a particular period of employment of a person by the body
+
+was a period of eligible employment for the purposes of Division&#160;3 of Part
+
+IX of the _Defence Force Retirement and Death Benefits Act 1973_.</dd> <dt>(2)</dt><dd>If employment by the body ceases to be eligible employment for the purposes of Division&#160;3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ on the body's sale day, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division. </dd> </dl>
+
+**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 12  Application of the _Superannuation Act 1976_ 
+**
+
+ <dl compact="">
+
+		On and after the ASTA sale day, ASTA is not an approved authority for the
+
+purposes of the _Superannuation Act 1976_.
+
+ </dl>
+
+**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 13  Application of the _Superannuation Act 1990_ 
+**
+
+ <dl compact="">
+
+		On and after the ASTA sale day, ASTA is not an approved authority for the
+
+purposes of the _Superannuation Act 1990_.
+
+ </dl>
+
+<center>**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<division>Division&#160;2&#151;The Crimes (Superannuation Benefits) Act 1989 </division> 
+**</center>
+
+**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 14  Continuing application of the _Crimes (Superannuation Benefits) Act 1989_ 
+**
+
+_Continuing application of Act_
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), if a person who was an employee of an ASTA
+
+body before the body's sale day committed a corruption offence while such an
+
+employee, then, on and after the body's sale day, the _Crimes (Superannuation Benefits) Act 1989_ continues to apply in relation to the person in respect
+
+of the offence as if the body continued to be a Commonwealth authority.
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+_Limitation on superannuation orders_
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid
+
+or payable to a superannuation scheme by an ASTA body on or after the body's
+
+sale day.
+
+</dd> </dl>
+
+_Superannuation schemes_
+
+<dl compact="">
+
+<dt>(3)</dt><dd>A superannuation scheme in relation to which employer contributions or
+
+benefits are paid or payable by an ASTA body on or after the body's sale day is
+
+not a superannuation scheme for the purposes of the application of the
+
+_Crimes (Superannuation Benefits) Act 1989_ to a corruption offence
+
+committed by a person after the body's sale day.
+
+</dd> </dl>
+
+_Paragraph 19(3)(d) orders_
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, for the purposes of the application of that Act to an ASTA body, an
+
+order made under that paragraph on or after the body's sale day may only
+
+specify that an amount paid into the Consolidated Revenue Fund before the
+
+body's sale day by or on behalf of the body belongs to the Commonwealth.
+
+</dd> </dl>
+
+_Paragraph 19(4)(b) orders_
+
+<dl compact="">
+
+<dt>(5)</dt><dd>If:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person who was an employee of an ASTA body before the body's sale day
+
+committed a corruption offence while such an employee; and</dd>
+
+<dt>(b)</dt><dd>the person was paid benefits before, on or after the body's sale day out
+
+of the Consolidated Revenue Fund;
+
+</dd>
+
+</dl></dl></dl>
+
+then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 1989_, for the purposes of the application of that Act to the corruption offence, an order made under that paragraph on or after the body's sale day may only specify that an amount equal to the total benefits paid out of the Consolidated Revenue Fund be paid to the Commonwealth.
+
+_Interpretation_
+
+<dl compact="">
+
+<dt>(6)</dt><dd>Unless the contrary intention appears, an expression used in this section
+
+that is also used in the _Crimes (Superannuation Benefits) Act 1989_ has
+
+the same meaning in this section as it has in that Act.
+
+</dd> </dl>
+
+<center>**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<division>Division&#160;3&#151;The Superannuation Benefits (Supervisory Mechanisms) Act 1990 </division> 
+**</center>
+
+**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 15  An ASTA body is not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ 
+**
+
+_Eligible body notice_
+
+<dl compact="">
+
+<dt>(1)</dt><dd>A notice published in the _Gazette_ before an ASTA body's sale day
+
+that declares the body to be an eligible body for the purposes of the
+
+_Superannuation Benefits (Supervisory Mechanisms) Act 1990_ has effect, on
+
+and after the body's sale day, as if the notice did not contain a reference to
+
+the body.
+
+</dd> </dl>
+
+_Relevant body notice_
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A notice published in the _Gazette_ before an ASTA body's sale day
+
+that declares the body to be a relevant body for the purposes of the
+
+_Superannuation Benefits (Supervisory Mechanisms) Act 1990_ has effect, on
+
+and after the body's sale day, as if the notice did not contain a reference to
+
+the body.
+
+</dd> </dl>
+
+_Application to subsidiaries_
+
+<dl compact="">
+
+<dt>(3)</dt><dd>This section does not apply to an ASTA subsidiary unless the subsidiary
+
+ceased to be a Commonwealth authority on the subsidiary's sale day.
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+_Amendment or revocation of notice_
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Subsections&#160;(1) and (2) do not prevent a declaration affected by
+
+either of those subsections from being amended or revoked by the Minister.
+
+</dd> </dl>
+
+_Definitions_
+
+<dl compact="">
+
+<dt>(5)</dt><dd>In this section:
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_Commonwealth authority_ means a company covered by
+
+paragraph&#160;(a), (b) or (c) of the definition of _relevant body_
+
+in subsection 3(1) of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_. _Minister_ has the same meaning as in the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.  </dl></dl>
+
+<center>**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<part>Part&#160;3&#151;Prosecutions </part>
+**</center>
+
+**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 16  Continuing application of the _Director of Public Prosecutions Act 1983_ 
+**
+
+<dl compact="">
+
+		If the _Director of Public Prosecutions Act 1983_ ceases to apply to
+
+particular acts, omissions or proceedings in connection with an ASTA body on
+
+the body's sale day because the body ceases to be an authority of the
+
+Commonwealth for the purposes of that Act on that day, then, despite that
+
+cessation, that Act continues to apply in relation to:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>acts or omissions that occurred in relation to the body before the body's
+
+sale day; and</dd>
+
+<dt>(b)</dt><dd>civil remedies connected with, or arising out of, a prosecution that
+
+relates to acts or omissions referred to in paragraph&#160;(a).
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<part>Part&#160;4&#151;ASTA not to be an agency of the Commonwealth etc. </part>
+**</center>
+
+**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 17  ASTA not to be an agency of the Commonwealth etc 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>On and after the ASTA sale day, ASTA is not taken, for the purposes of a
+
+law, to be:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a Commonwealth authority; or</dd>
+
+<dt>(b)</dt><dd>established for a public purpose or for a purpose of the Commonwealth;
+
+or</dd>
+
+<dt>(c)</dt><dd>a public authority or an agency or instrumentality of the Crown;
+
+</dd>
+
+</dl></dl></dl>
 
 unless a law expressly provides otherwise.
 
-             (2)  In subsection (1):
+<dl compact="">
 
-                    <a name="law"></a>**_law_** means:
+<dt>(2)</dt><dd>In subsection&#160;(1):
 
-                     (a)  an Act of the Commonwealth or of a State or Territory; or
+</dd> </dl>
 
-                     (b)  regulations or any other instrument made under such an Act.
+<def><dl compact=""><dl compact="">
 
-## Part 5—Regulations connected with the sale of ASTA
+_law_ means:
 
-##### <a id="18"></a>18  Regulations connected with the sale of ASTA
+ </dl></dl>
 
-             (1)  Subsection 48(2) of the _Acts Interpretation Act 1901_ does not apply to regulations made under any Act that:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  are connected with the sale of ASTA; and
+<dt>(a)</dt><dd>an Act of the Commonwealth or of a State or Territory; or</dd>
 
-                     (b)  include a declaration that the Governor-General is satisfied that they are connected with the sale of ASTA; and
+<dt>(b)</dt><dd>regulations or any other instrument made under such an Act.
 
-                     (c)  are expressed to take effect on the ASTA sale day.
+</dd>
 
-             (2)  Regulations covered by subsection (1) take effect on the ASTA sale day.
+</dl></dl></dl>
 
-## Part 6—Cessation Of Mobility Rights
+<center>Back to Top</center>
 
-##### <a id="19"></a>19  Cessation of mobility rights
+<center>**
 
-             (1)  If Division 2 or 3 of Part IV of the _Public Service Act 1922_ applied to an employee of ASTA immediately before the ASTA sale day, then that Division stops applying to the employee on the ASTA sale day.
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<part>Part&#160;5&#151;Regulations connected with the sale of ASTA </part>
+**</center>
 
-             (2)  If Division 4 of Part IV of the _Public Service Act 1922_ applied to an employee of ASTA immediately before the ASTA sale day, then:
+**
 
-                     (a)  the _Officers’ Rights Declaration Act 1928_; and
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 18  Regulations connected with the sale of ASTA 
+**
 
-                     (b)  Division 4 of Part IV of the _Public Service Act 1922_;
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subsection 48(2) of the _Acts Interpretation Act 1901_ does not apply
+
+to regulations made under any Act that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>are connected with the sale of ASTA; and</dd>
+
+<dt>(b)</dt><dd>include a declaration that the Governor-General is satisfied that they are
+
+connected with the sale of ASTA; and</dd>
+
+<dt>(c)</dt><dd>are expressed to take effect on the ASTA sale day.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Regulations covered by subsection&#160;(1) take effect on the ASTA sale
+
+day.
+
+</dd> </dl>
+
+<center>**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<part>Part&#160;6&#151;Cessation Of Mobility Rights </part>
+**</center>
+
+**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 19  Cessation of mobility rights 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If Division&#160;2 or 3 of Part IV of the _Public Service Act 1922_ applied to an employee of ASTA immediately before the ASTA sale day, then
+
+that Division stops applying to the employee on the ASTA sale day.</dd> <dt>(2)</dt><dd>If Division&#160;4 of Part IV of the _Public Service Act 1922_ applied to an employee of ASTA immediately before the ASTA sale day, then: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the _Officers&apos; Rights Declaration Act 1928_; and</dd>
+
+<dt>(b)</dt><dd>Division&#160;4 of Part IV of the _Public Service Act 1922_;
+
+</dd>
+
+</dl></dl></dl>
 
 stop applying to the employee on the ASTA sale day.
 
-## Part 7—Commonwealth Borrowing Levy
+<center>**
 
-##### <a id="20"></a>20  Ending ASTA’s liability under the _Commonwealth Borrowing Levy Act 1987_
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<part>Part&#160;7&#151;Commonwealth Borrowing Levy </part>
+**</center>
 
-             (1)  Subject to subsection (2), ASTA is not liable, on or after the ASTA sale day, to pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before the ASTA sale day.
+**
 
-             (2)  Subsection (1) does not apply in relation to an amount of levy that was payable before the ASTA sale day.
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 20  Ending ASTA's liability under the _Commonwealth Borrowing Levy Act 1987_ 
+**
 
-##### <a id="21"></a>21  Consequential amendment of the _Commonwealth Borrowing Levy Act 1987_
+<dl compact="">
 
-                   The Schedule to the _Commonwealth Borrowing Levy Act 1987_ is amended by omitting item 1AA.
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), ASTA is not liable, on or after the ASTA
 
-# Notes to the _AeroSpace Technologies of Australia Limited Sale Act 1994_
+sale day, to pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before the ASTA sale day.</dd> <dt>(2)</dt><dd>Subsection&#160;(1) does not apply in relation to an amount of levy that was payable before the ASTA sale day. </dd> </dl>
 
-### Note 1
+**
 
-The _AeroSpace Technologies of Australia Limited Sale Act 1994_ as shown in this compilation comprises Act No. 144, 1994 amended as indicated in the Tables below.
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994- SECT 21  Consequential amendment of the _Commonwealth Borrowing Levy Act 1987_ 
+**
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+<dl compact="">
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+		The Schedule to the _Commonwealth Borrowing Levy Act 1987_ is amended by
 
-### Table of Acts
+omitting item&#160;1AA.
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="1%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+ </dl>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<center>**
+
+###  AEROSPACE TECHNOLOGIES OF AUSTRALIA LIMITED SALE ACT 1994<centreit>Notes to the _AeroSpace Technologies of Australia Limited Sale Act 1994_ </centreit>
+**</center>
+
+**Note 1**
+
+The _AeroSpace Technologies of Australia Limited Sale Act 1994_ as shown in this compilation comprises Act No.&#160;144, 1994 amended as indicated in the Tables below.
+ For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td colspan="2">
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>AeroSpace Technologies of Australia Limited Sale Act 1994</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>AeroSpace Technologies of Australia Limited Sale Act 1994</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>144, 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>8 Dec 1994</div>
+
   </td>
-  <td colspan="2">
-    <div>Part 1 (ss. 1–6), ss. 7–11, Divs. 2 and 3 of Part 2 (ss. 14, 15) and Part 3 (s. 16): 12 Oct 1994 
+  <td colspan="1" align="left">
+    <div>Part&#160;1 (ss. 1-6), ss. 7-11, Divs. 2 and 3 of Part&#160;2 (ss. 14, 15) and Part&#160;3 (s. 16): 12 Oct 1994 
 Remainder: <i>(a)</i></div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act (No. 1) 1995</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Superannuation Legislation Amendment Act (No.&#160;1) 1995</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>54, 1995</div>
+
   </td>
-  <td>
-    <div>23 June 1995</div>
+  <td colspan="1" align="left">
+    <div>23&#160;June 1995</div>
+
   </td>
-  <td colspan="2">
-    <div>S. 3(8) and Schedule 9: Royal Assent <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>S. 3(8): Royal Assent <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1996</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>43, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Oct 1996</div>
+
   </td>
-  <td colspan="2">
-    <div>Schedule 3 (item 117): 23 June 1995 <i>(c)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;3 (item&#160;117): 23&#160;June 1995 <i>(c)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Corporations (Repeals, Consequentials and Transitionals) Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>55, 2001</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>28 June 2001</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 4–14 and Schedule 3 (items 16, 17): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Schedule 1 (items 71, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
 
-_(a)_     (2)  The remaining provisions of this Act commence on the ASTA sale day.
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14 and Schedule 3 (items 16, 17): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
 
-         The ASTA sale day was 27 June 1995 (_see Gazette_ 1995, No. S271).
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14</div>
 
-_(b)_     The _AeroSpace Technologies of Australia Limited Sale Act 1994_ was amended by the _Superannuation Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
+  </td>
+</tr></table>_(a)_ (2)	The remaining provisions of this Act commence on the ASTA sale day.
+ 	The ASTA sale day was 27&#160;June 1995 (_see Gazette_ 1995, No. S271).
+ _(b)_	The _AeroSpace Technologies of Australia Limited Sale Act 1994_ was amended by the _Superannuation Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Superannuation Legislation Amendment Act (No. 1) 1995_ was amended by Schedule 3 (item 117) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(c)_	The _Superannuation Legislation Amendment Act (No. 1) 1995_ was amended by Schedule&#160;3 (item&#160;117) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
-                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+	(3)	Each item in Schedule&#160;3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
 _(d)_ The _AeroSpace Technologies of Australia Limited Sale Act 1994_ was amended by Schedule 3 (items 16 and 17) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+	(3)	Subject to subsections&#160;(4) to (10), Schedule&#160;3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-## Table of Amendments
+**Table of Amendments**
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted 
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 3, 4</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 55, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
-  <td>
-    <div>am. No. 54, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;54, 1995 (as am. by No.&#160;43, 1996)</div>
+
   </td>
 </tr></table>
 
-## Table A
+</def></def>
 
-### Application, saving or transitional provisions
+</def>
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+</def></def>
 
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
-             (1)  If:
-
-                     (a)  a decision or action is taken or another thing is made, given or done; and
-
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
-
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
-
-             (2)  In this section:
-
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
-
-## Schedule 1
-
-## 496  Saving provision—Finance Minister’s determinations
-
-If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
-
- 
-
- 
