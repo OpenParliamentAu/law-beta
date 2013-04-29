@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00366/Html/0181458d-44e7-41ed-a0da-b8ed7b97f39b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00667/Html/2e5d183d-6b39-44d0-9938-617d4f9a4a2d_files/image001.gif)
 
 # Transport Safety Investigation Act 2003
 
 **Act No. 18 of 2003 as amended**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 15 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -646,7 +646,7 @@ Note:          See also section 49 which allows the ATSB to 
 
                    This Act extends to acts, omissions, matters and things outside Australia, unless the contrary intention appears.
 
-##### <a id="8"></a>8  Application of _Criminal Code_
+##### <a id="8"></a>8  Application of _Criminal Code_
 
              (1)  Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
@@ -872,7 +872,7 @@ Note:          The Chief Commissioner is also the Chief Execut
 
              (2)  A part‑time Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          A Commissioner is eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          A Commissioner is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="13AA"></a>13AA  Remuneration and allowances
 
@@ -962,9 +962,19 @@ Additional grounds: part‑time Commissioners
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  To avoid doubt, a part‑time Commissioner or staff member (within the meaning of paragraph (b) of the definition of that expression) may be appointed to act as the Chief Commissioner.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ### Division 3—ATSB procedures
 
@@ -2300,7 +2310,7 @@ Limitations on delegation
 
                      (e)  a special investigator.
 
-Note:          For the definition of **_SES employee_**, see section 2B of the _Acts Interpretation Act 1901_.
+Note:          For the definition of **_SES employee_**, see section 17AA of the _Acts Interpretation Act 1901_.
 
              (4)  If the Chief Commissioner (the **_first delegate_**) is delegated powers under subsection (3), the Chief Commissioner may, in writing, delegate any of those powers to a person (the **_second delegate_**) mentioned in the following paragraphs:
 
@@ -2342,7 +2352,7 @@ Limitations on delegation
 
                      (d)  a special investigator.
 
-Note:          For the definition of **_SES employee_**, see section 2B of the _Acts Interpretation Act 1901_.
+Note:          For the definition of **_SES employee_**, see section 17AA of the _Acts Interpretation Act 1901_.
 
              (3)  The Chief Commissioner must not delegate his or her powers under section 35 (in so far as that section applies to residential premises) to anyone other than:
 
@@ -2584,7 +2594,7 @@ Schedule 1 (items 27–29): Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1165–1169) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1165–1169) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2815,42 +2825,10 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Note to s. 13A(2)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13AA–13AG</div>
+    <div>Ss. 13AA–13AH</div>
   </td>
   <td>
     <div>ad. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13AH</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 13AH(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3495,39 +3473,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div>S. 63B</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 63B(3)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63C</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 63C(2)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 63D, 63E</div>
+    <div>Ss. 63B–63E</div>
   </td>
   <td>
     <div>ad. No. 20, 2009</div>
@@ -3573,6 +3519,38 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>rs. No. 20, 2009</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1165  Subsection 13A(2) (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 1166  At the end of subsection 13AH(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1167  Subsection 13AH(3)
+
+Repeal the subsection.
+
+## 1168  Subsection 63B(3) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+## 1169  Subsection 63C(2) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+As at 15 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3670,6 +3648,8 @@ The amendment made by item 21 applies in relation to conduct engaged in on or 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
