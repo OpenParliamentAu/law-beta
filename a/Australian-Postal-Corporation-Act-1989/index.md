@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00269/Html/bac307f1-0d7a-49b6-b215-89c6e894464c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00007/Html/AusPostalCorporation1989WD02_image001.gif)
 
 # Australian Postal Corporation Act 1989
 
 **Act No. 64 of 1989 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -96,7 +96,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [28C](#28C).       Performance standards to be met by Australia Post
 
-[28D](#28D).       Auditor‑General to report on compliance with prescribed performance standards
+[28D](#28D).       Auditor-General to report on compliance with prescribed performance standards
 
 [28E](#28E).        Service improvement plans
 
@@ -322,7 +322,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [90S](#90S).        Articles on which customs duty is payable etc 
 
-[90T](#90T).        Articles reasonably believed to consist of, or contain, certain drugs or other chemical compounds
+[90T](#90T).       Articles reasonably believed to consist of, or contain, certain drugs or other chemical compounds
 
 [90U](#90U).       Articles consisting of, or containing, quarantine material
 
@@ -342,9 +342,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [90Y](#90Y).       Articles to which Division applies
 
-[90Z](#90Z).        Dealing with dangerous or deleterious things
+[90Z](#90Z).       Dealing with dangerous or deleterious things
 
-[90ZA](#90ZA).     Destruction of physically offensive things
+[90ZA](#90ZA).    Destruction of physically offensive things
 
 [90ZB](#90ZB).     Permitted dealings are not prohibited by section 90H, 90LB, 90LE or 90N
 
@@ -360,7 +360,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [94](#94).          Delegation of Board’s powers
 
-[95](#95).          Post‑boxes
+[95](#95).          Post-boxes
 
 [96](#96).          Australia Post’s seal
 
@@ -422,13 +422,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  carry the article from one place to another by physical means; or
 
-                     (b)  if the article is an unwritten communication—transmit the article from one place to another by electromagnetic or other non‑physical means;
+                     (b)  if the article is an unwritten communication—transmit the article from one place to another by electromagnetic or other non-physical means;
 
 and includes:
 
                      (c)  in the case of the carriage of an article from one place to another by physical means—collect or receive the article for carriage and deliver the article after carriage; and
 
-                     (d)  in the case of the transmission of an unwritten communication from one place to another by electromagnetic or other non‑physical means—collect or receive the communication (whether in written or unwritten form) for transmission and deliver the communication (whether in written or unwritten form) after transmission.
+                     (d)  in the case of the transmission of an unwritten communication from one place to another by electromagnetic or other non-physical means—collect or receive the communication (whether in written or unwritten form) for transmission and deliver the communication (whether in written or unwritten form) after transmission.
 
                     <a name="carri-post"></a>**_carry by post_**, in relation to an article, has the meaning given by section 4.
 
@@ -443,8 +443,6 @@ and includes:
                     <a name="director"></a>**_director_** means a director of the Board and includes the Chairperson, the Deputy Chairperson and the Managing Director.
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="letter"></a>**_letter_** means any form of written communication that is directed to a particular person or address, and includes:
 
@@ -608,7 +606,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (d)  to supply electronic mail services; and
 
-                   (da)  to supply:
+                    (da)  to supply:
 
                               (i)  carriage services (within the meaning of the _Telecommunications Act 1997_); and
 
@@ -788,27 +786,27 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (b)  the availability or accessibility of:
 
-                              (i)  post‑boxes or other mail lodgement points; or
+                              (i)  post-boxes or other mail lodgement points; or
 
                              (ii)  offices of Australia Post or other places from which Australia Post products or services may be purchased.
 
              (3)  Without limiting subsection (1), the prescribed performance standards may relate to methods of determining the level of mail delivery service for a particular area.
 
-##### <a id="28D"></a>28D  Auditor‑General to report on compliance with prescribed performance standards
+##### <a id="28D"></a>28D  Auditor-General to report on compliance with prescribed performance standards
 
-             (1)  The Auditor‑General must, in relation to the financial year starting on 1 July 1994 and each later financial year, audit, and report on, the extent to which, during the financial year, Australia Post met the prescribed performance standards that were in force.
+             (1)  The Auditor-General must, in relation to the financial year starting on 1 July 1994 and each later financial year, audit, and report on, the extent to which, during the financial year, Australia Post met the prescribed performance standards that were in force.
 
-             (2)  The audit must be conducted in accordance with the methodology that the Auditor‑General determines is consistent with prevailing performance audit methodology, and a statement of the methodology used in conducting the audit must be included in the report.
+             (2)  The audit must be conducted in accordance with the methodology that the Auditor-General determines is consistent with prevailing performance audit methodology, and a statement of the methodology used in conducting the audit must be included in the report.
 
-             (3)  The Auditor‑General may request Australia Post to supply information that the Auditor‑General considers is reasonably necessary to perform the audit, and Australia Post must comply with the request.
+             (3)  The Auditor-General may request Australia Post to supply information that the Auditor-General considers is reasonably necessary to perform the audit, and Australia Post must comply with the request.
 
-             (4)  The Auditor‑General must give the report to the Minister on or before 1 November in the next financial year.
+             (4)  The Auditor-General must give the report to the Minister on or before 1 November in the next financial year.
 
              (5)  The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.
 
 ##### <a id="28E"></a>28E  Service improvement plans
 
-             (1)  If, in a performance audit report, the Auditor‑General reports that Australia Post has not met a prescribed performance standard, Australia Post must, unless the Minister determines, by legislative instrument, that it is unnecessary in the circumstances, prepare a service improvement plan to ensure it meets that prescribed performance standard as soon as practicable.
+             (1)  If, in a performance audit report, the Auditor-General reports that Australia Post has not met a prescribed performance standard, Australia Post must, unless the Minister determines, by legislative instrument, that it is unnecessary in the circumstances, prepare a service improvement plan to ensure it meets that prescribed performance standard as soon as practicable.
 
              (2)  The service improvement plan must be given to the Minister on or before 1 March in the financial year after the financial year to which the performance audit report relates.
 
@@ -852,9 +850,9 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                              (ii)  another office of Australia Post authorised by it;
 
-                   (ha)  the carriage of a letter to an office of Australia Post where it is then lodged for delivery under a bulk interconnection service (within the meaning of section 32A);
+                    (ha)  the carriage of a letter to an office of Australia Post where it is then lodged for delivery under a bulk interconnection service (within the meaning of section 32A);
 
-                   (hb)  the carriage of a letter to the provider of an aggregation service, for the purposes of aggregation in order to use a bulk interconnection service (within the meaning of section 32A);
+                    (hb)  the carriage of a letter to the provider of an aggregation service, for the purposes of aggregation in order to use a bulk interconnection service (within the meaning of section 32A);
 
                       (j)  the carriage of a letter on behalf of Australia Post under an agreement with it;
 
@@ -862,7 +860,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                     (m)  the carriage of writs, warrants or other documents required or permitted to be served, given or sent under the practice and procedure of any court or tribunal;
 
-                  (ma)  the carriage of a letter, in the course of a document exchange service:
+                   (ma)  the carriage of a letter, in the course of a document exchange service:
 
                               (i)  from one service centre of the service to another service centre of the service; or
 
@@ -872,7 +870,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                             (iv)  from a service centre of the service to a member of the service (subject to subsections (1C) and (1D));
 
-                     (n)  the carriage of a letter solely by any electromagnetic or other non‑physical means;
+                     (n)  the carriage of a letter solely by any electromagnetic or other non-physical means;
 
                      (p)  the carriage of letters by or on behalf of a foreign country under a convention;
 
@@ -998,7 +996,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (c)  rates of postage; and
 
-                     (d)  the payment of postage, including the issue and sale of postage stamps, the pre‑stamping of postal articles and the use of franking machines; and
+                     (d)  the payment of postage, including the issue and sale of postage stamps, the pre-stamping of postal articles and the use of franking machines; and
 
                      (e)  the carriage of letters to or from an office of Australia Post; and
 
@@ -1044,7 +1042,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (d)  for the provision of information by Australia Post to the ACCC in connection with the exercise of powers conferred on the ACCC under paragraph (a); and
 
-                   (da)  for the ACCC to use for the purposes described in paragraph (a) information obtained under Part VIIA of the _Competition and Consumer Act 2010_;
+                    (da)  for the ACCC to use for the purposes described in paragraph (a) information obtained under Part VIIA of the _Competition and Consumer Act 2010_;
 
                      (e)  for the matters to be taken into account by the ACCC in exercising powers conferred under paragraph (a); and
 
@@ -1106,7 +1104,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (b)  give away a valid Australian stamp free of charge.
 
-             (2)  Australia Post must not sell a valid Australian stamp for less than its usual retail price unless the sale is pursuant to an agreement between Australia Post and another person under which the person buys the stamp for the purpose of re‑selling it at its usual retail price.
+             (2)  Australia Post must not sell a valid Australian stamp for less than its usual retail price unless the sale is pursuant to an agreement between Australia Post and another person under which the person buys the stamp for the purpose of re-selling it at its usual retail price.
 
              (3)  If a person has engaged, or is proposing to engage, in conduct that involves, or would involve, an infringement of subsection (1), Australia Post may apply to the Federal Court for relief.
 
@@ -1214,7 +1212,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                               (i)  the strategies and policies of Australia Post and its subsidiaries that are set out in the corporate plan; and
 
-                             (ii)  the financial targets and non‑financial performance measures that are set out in the corporate plan; and
+                             (ii)  the financial targets and non-financial performance measures that are set out in the corporate plan; and
 
                      (c)  include an assessment of the extent to which the operations of Australia Post and its subsidiaries during the year have achieved those objectives; and
 
@@ -1376,7 +1374,7 @@ a report analysing the information in records kept under subsections 50H(1) and 
 
 ##### <a id="50K"></a>50K  Publication of confidential information
 
-                   A report published under section 50I or 50J may include information that Australia Post claims is commercial‑in‑confidence information if the ACCC is satisfied:
+                   A report published under section 50I or 50J may include information that Australia Post claims is commercial-in-confidence information if the ACCC is satisfied:
 
                      (a)  that the claim is not justified; or
 
@@ -1520,7 +1518,7 @@ Costs
 
                     <a name="accc-cost"></a>**_ACCC’s costs_** means the costs of the ACCC in performing its functions under this Act.
 
-                    <a name="cost"></a>**_costs_** means an amount that, in accordance with accrual‑based accounting principles, is treated as a cost.
+                    <a name="cost"></a>**_costs_** means an amount that, in accordance with accrual-based accounting principles, is treated as a cost.
 
 ##### <a id="57"></a>57  Expenditure of Australia Post’s money
 
@@ -1536,7 +1534,7 @@ Costs
 
 ##### <a id="60"></a>60  Borrowings from Commonwealth
 
-                   The Finance Minister may, on behalf of the Commonwealth, out of money appropriated by the Parliament for the purpose, lend money to Australia Post on such terms and conditions as the Finance Minister determines in writing.
+                   The Minister for Finance may, on behalf of the Commonwealth, out of money appropriated by the Parliament for the purpose, lend money to Australia Post on such terms and conditions as the Minister for Finance determines in writing.
 
 ##### <a id="61"></a>61  Borrowings from persons other than Commonwealth
 
@@ -1552,7 +1550,7 @@ Costs
 
              (1)  Australia Post is subject to taxation under the laws of the Commonwealth and the States and Territories.
 
-             (2)  Australia Post is not a public authority for the purposes of section 50‑25 of the _Income Tax Assessment Act 1997_.
+             (2)  Australia Post is not a public authority for the purposes of section 50-25 of the _Income Tax Assessment Act 1997_.
 
              (3)  Subsection (1) has effect subject to the regulations and to Division 2 of Part 9 of the _Telecommunications and Postal Services (Transitional Provisions and Consequential Amendments) Act 1989_.
 
@@ -1606,7 +1604,7 @@ Costs
 
                      (a)  telephone;
 
-                     (b)  closed‑circuit television; or
+                     (b)  closed-circuit television; or
 
                      (c)  any other means of communication.
 
@@ -1638,7 +1636,7 @@ Costs
 
 ##### <a id="73"></a>73  Appointment of directors
 
-             (1)  The directors are to be appointed by the Governor‑General on the nomination of the Minister.
+             (1)  The directors are to be appointed by the Governor-General on the nomination of the Minister.
 
              (2)  The Minister must consult with the Chairperson before nominating a person for appointment as a director.
 
@@ -1672,11 +1670,11 @@ Costs
 
 ##### <a id="78"></a>78  Resignation
 
-                   A director may resign by writing signed and delivered to the Governor‑General.
+                   A director may resign by writing signed and delivered to the Governor-General.
 
 ##### <a id="79"></a>79  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of a director for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of a director for misbehaviour or physical or mental incapacity.
 
              (2)  If a director:
 
@@ -1686,7 +1684,7 @@ Costs
 
                      (c)  is absent, without the Board’s leave and without reasonable excuse, from 3 consecutive meetings of the Board;
 
-the Governor‑General shall terminate the director’s appointment.
+the Governor-General shall terminate the director’s appointment.
 
              (3)  Where:
 
@@ -1694,7 +1692,7 @@ the Governor‑General shall terminate the director’s appointment.
 
                      (b)  the Minister proposes that the appointment of all directors or specified directors be terminated;
 
-the Governor‑General shall terminate the appointment of all directors or the specified directors, as the case may be.
+the Governor-General shall terminate the appointment of all directors or the specified directors, as the case may be.
 
              (4)  Where:
 
@@ -1702,7 +1700,7 @@ the Governor‑General shall terminate the appointment of all directors or the s
 
                      (b)  the Minister proposes that the appointment of the director be terminated;
 
-the Governor‑General shall terminate the appointment of the director.
+the Governor-General shall terminate the appointment of the director.
 
              (5)   If:
 
@@ -1710,7 +1708,7 @@ the Governor‑General shall terminate the appointment of the director.
 
                      (b)  the Minister proposes that the appointment of all directors or specified directors be terminated;
 
-the Governor‑General is to terminate the appointment of all directors, or the specified directors, as the case may be.
+the Governor-General is to terminate the appointment of all directors, or the specified directors, as the case may be.
 
 ##### <a id="80"></a>80  Terms and conditions of appointment not provided for by Act
 
@@ -1808,7 +1806,7 @@ the Deputy Chairperson shall act as Chairperson.
 
 ##### <a id="90"></a>90  Australia Post as employer
 
-                   Australia Post shall endeavour to achieve and maintain high standards as an employer in relation to terms and conditions of employment, occupational health, industrial safety, industrial democracy, non‑discriminatory employment practices and other matters.
+                   Australia Post shall endeavour to achieve and maintain high standards as an employer in relation to terms and conditions of employment, occupational health, industrial safety, industrial democracy, non-discriminatory employment practices and other matters.
 
 ## Part 7A—Application of State and Territory laws
 
@@ -1816,7 +1814,7 @@ the Deputy Chairperson shall act as Chairperson.
 
                    For the purposes of the laws of the Commonwealth, or of a State or Territory, Australia Post is not entitled to any immunity or privilege of the Commonwealth except so far as express provision is made by this Act or any other law of the Commonwealth, or by a law of the State or Territory.
 
-##### <a id="90B"></a>90B  Discriminatory laws do not apply
+##### <a id="90B"></a>90B  Discriminatory laws do not apply
 
                    A law of a State or Territory does not apply to Australia Post if, apart from this section, it would:
 
@@ -1894,7 +1892,7 @@ only applies to Australia Post on and after that day.
 
                      (b)  the Australian Securities and Investments Commission;
 
-                     (c)  the Office of Fair Trading of New South Wales;
+                     (c)  the Office of Fair Trading of New   South Wales;
 
                      (d)  the Office of Fair Trading and Business Affairs of Victoria;
 
@@ -2245,9 +2243,9 @@ only applies to Australia Post on and after that day.
 
              (2)  These are the persons who may give an authorisation:
 
-                     (a)  the Director‑General of Security;
+                     (a)  the Director-General of Security;
 
-                     (b)  an officer or employee of ASIO authorised in writing by the Director‑General of Security to give authorisations for the purposes of this section.
+                     (b)  an officer or employee of ASIO authorised in writing by the Director-General of Security to give authorisations for the purposes of this section.
 
 ##### <a id="90FA"></a>90FA  Meaning of _authorised discloser_ 
 
@@ -2599,7 +2597,7 @@ Disclosure for the enforcement of laws or protection of public revenue
 
 ##### <a id="90P"></a>90P  Examining without opening
 
-                   An authorised examiner may examine the article or its contents by any means that does not involve unfastening or physically interfering with the cover of the article. For example, the article or its contents may be examined by X‑ray, metal detector or odour detector.
+                   An authorised examiner may examine the article or its contents by any means that does not involve unfastening or physically interfering with the cover of the article. For example, the article or its contents may be examined by X-ray, metal detector or odour detector.
 
 ##### <a id="90Q"></a>90Q  Undeliverable articles
 
@@ -2985,13 +2983,13 @@ Removing scam mail on request of consumer protection agencies
 
              (5)  A document purporting to be a certificate under subsection (4) shall, unless the contrary is established, be taken to be such a certificate and to have been properly given.
 
-##### <a id="95"></a>95  Post‑boxes
+##### <a id="95"></a>95  Post-boxes
 
-             (1)  Australia Post may erect, maintain and use post‑boxes in any public road, street or highway or in any other public place.
+             (1)  Australia Post may erect, maintain and use post-boxes in any public road, street or highway or in any other public place.
 
-             (2)  Subject to subsection (3), Australia Post shall keep in good order all post‑boxes erected by it.
+             (2)  Subject to subsection (3), Australia Post shall keep in good order all post-boxes erected by it.
 
-             (3)  Australia Post may remove any post‑box erected by it.
+             (3)  Australia Post may remove any post-box erected by it.
 
 ##### <a id="96"></a>96  Australia Post’s seal
 
@@ -3051,7 +3049,7 @@ the amount shall be paid into an account kept by Australia Post called the Uncla
 
 ##### <a id="102"></a>102  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -3063,23 +3061,23 @@ and may, for example, make regulations:
 
                      (d)  with respect to dealing with articles that may contain goods on which duties of customs or other duties are payable; and
 
-                   (da)  prescribing Acts for the purposes of the following definitions in section 90E:
+                    (da)  prescribing Acts for the purposes of the following definitions in section 90E:
 
                               (i)  **_consumer protection law_**;
 
                              (ii)  **_State Fair Trading Act_**;
 
-                            (iii)  **_State Sale of Goods Act_**; and
+                            (iii)  **_State_****_Sale_****_of Goods Act_**; and
 
-                   (db)  prescribing agencies for the purposes of the following definitions in section 90E:
+                    (db)  prescribing agencies for the purposes of the following definitions in section 90E:
 
                               (i)  **_compliance agency_**;
 
                              (ii)  **_consumer protection agency_**; and
 
-                   (dc)  prescribing States and Territories for the purposes of the definition of **_prescribed State/Territory_** in section 90E; and
+                    (dc)  prescribing States and Territories for the purposes of the definition of **_prescribed State/Territory_** in section 90E; and
 
-                   (dd)  prescribing a period for the purposes of the definition of **_decision period_** in subsection 90UB(6); and
+                    (dd)  prescribing a period for the purposes of the definition of **_decision period_** in subsection 90UB(6); and
 
                      (e)  with respect to the making of deductions from amounts due to any of Australia Post’s employees on account of judgment debts; and
 
@@ -3583,7 +3581,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -3649,30 +3647,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 36, 37): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Postal Corporation Act 1989_ was amended by Part 5 (sections 11–13) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1989_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Australian Postal Corporation Act 1989_ was amended by Part 4 (section 25) only of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991_, subsection 2(2) of which provides as follows:
+_(b)_    The _Australian Postal Corporation Act 1989_ was amended by Part 4 (section 25) only of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991_, subsection 2(2) of which provides as follows:
 
                  (2)   Part 2, Part 3 (except section 24) and Part 4 commence on 1 July 1991.
 
@@ -3784,7 +3765,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 142, 1994; No. 152, 1997; No. 69, 2004; No. 5, 2011</div>
+    <div>am. No. 142, 1994; No. 152, 1997; No. 69, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4337,14 +4318,6 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
   </td>
   <td>
     <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4916,7 +4889,7 @@ _Tax Law Improvement Act 1997 (No. 121, 1997)_
 
 ##### <a id="4"></a>4  Application of amendments
 
-An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
+An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997-98 income year and later income years, unless otherwise indicated in that Schedule.
 
 * * *
 
@@ -4949,7 +4922,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -4979,17 +4952,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
