@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00435/Html/88fb534d-dffe-43ac-8083-8a21a84e03df_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00314/Html/be761047-88c4-4b4d-944d-df5e7c3455ea_files/image001.gif)
 
 # Freedom of Information Act 1982
 
 **Act No. 3 of 1982 as amended**
 
-This compilation was prepared on 11 June 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 1 May 2011
+ taking into account amendments up to Act No. 23 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -778,8 +778,6 @@ but does not include:
 
                     <a name="minist"></a>**_Minister_** includes a Norfolk Island Minister.
 
-                    <a name="nbn-co"></a>**_NBN Co_** means NBN Co Limited (ACN 136 533 741), as the company exists from time to time (even if its name is later changed).
-
                     <a name="norfolk-island-author"></a>**_Norfolk Island authority_** means:
 
                      (a)  a public sector agency (within the meaning of the _Public Sector Management Act 2000_ of Norfolk Island); or
@@ -868,15 +866,13 @@ and includes a Norfolk Island enactment as amended by another Norfolk Island ena
 
                             (vi)  a Royal Commission; or
 
-                           (vii)  a Commission of inquiry; or
-
-                    (aa)  NBN Co; or
+                           (vii)  a Commission of inquiry;
 
                      (b)  any other body, whether incorporated or unincorporated, declared by the regulations to be a prescribed authority for the purposes of this Act, being:
 
                               (i)  a body established by the Governor‑General or by a Minister; or
 
-                             (ii)  an incorporated company or association over which the Commonwealth is in a position to exercise control; or
+                             (ii)  an incorporated company or association over which the Commonwealth is in a position to exercise control;
 
                      (c)  subject to subsection (3), the person holding, or performing the duties of, an office established by an enactment or an Order‑in‑Council; or
 
@@ -911,8 +907,6 @@ and includes a Norfolk Island enactment as amended by another Norfolk Island ena
                      (a)  in relation to a Department—the Minister administering the relevant Department of State; or
 
                      (b)  in relation to a prescribed authority referred to in paragraph (a) of the definition of **_prescribed authority_**—the Minister administering the part of the enactment by which, or in accordance with the provisions of which, the prescribed authority is established; or
-
-                   (ba)  in relation to the prescribed authority referred to in paragraph (aa) of that definition—the Minister administering the _National Broadband Network Companies Act 2011_; or
 
                      (c)  in relation to a prescribed authority referred to in paragraph (c) of that definition—the Minister administering the part of the enactment by which the office is established; or
 
@@ -1120,7 +1114,7 @@ but this Act does not apply to any request for access to a document of a tribuna
 
              (2)  For the purposes of this Act, a document in the possession of a person employed under section 13 of the _Governor‑General Act 1974_ that is in his or her possession by reason of his or her employment under that section shall be taken to be in the possession of the Official Secretary to the Governor‑General.
 
-##### <a id="6C"></a>6C  Requirement for Commonwealth contracts
+##### <a id="6C"></a>6C  Requirement for Commonwealth contracts
 
              (1)  This section applies to an agency if a service is, or is to be, provided under a Commonwealth contract in connection with the performance of the functions or the exercise of the powers of the agency.
 
@@ -1192,17 +1186,11 @@ but this Act does not apply to any request for access to a document of a tribuna
 
                      (b)  a document that contains a summary of, or an extract or information from, a defence intelligence document, to the extent that it contains such a summary, extract or information.
 
-             (3)  In subsection (2AA) and Part II of Schedule 2, **_commercial activities_** (except when used in relation to NBN Co) means:
+             (3)  In subsection (2AA) and Part II of Schedule 2, **_commercial activities_** means:
 
                      (a)  activities carried on by an agency on a commercial basis in competition with persons other than governments or authorities of governments; or
 
                      (b)  activities, carried on by an agency, that may reasonably be expected in the foreseeable future to be carried on by the agency on a commercial basis in competition with persons other than governments or authorities of governments.
-
-          (3A)  In Part II of Schedule 2, **_commercial activities_**, when used in relation to NBN Co, means:
-
-                     (a)  activities carried on by NBN Co on a commercial basis; or
-
-                     (b)  activities, carried on by NBN Co, that may reasonably be expected in the foreseeable future to be carried on by NBN Co on a commercial basis.
 
              (4)  In subsection (2AA) and Part II of Schedule 2, a reference to documents in respect of particular activities shall be read as a reference to documents received or brought into existence in the course of, or for the purposes of, the carrying on of those activities.
 
@@ -1645,7 +1633,7 @@ more than 5 years before the commencement of this subsection unless:
 
                              (ii)  an official document of a Norfolk Island Minister;
 
-                            to which that person has lawfully had access.
+                            to which that person has lawfully had access.
 
              (3)  In this section:
 
@@ -2759,7 +2747,7 @@ Note:          However, the attachment itself may be an exempt
 
                      (b)  the existence of the deliberation or decision has not been officially disclosed.
 
-##### <a id="37"></a>37  Documents affecting enforcement of law and protection of public safety
+##### <a id="37"></a>37  Documents affecting enforcement of law and protection of public safety
 
              (1)  A document is an exempt document if its disclosure under this Act would, or could reasonably be expected to:
 
@@ -6327,11 +6315,6 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>NBN Co, in relation to documents in respect of its commercial activities</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Reserve Bank of Australia, in relation to documents in respect of its banking operations (including individual open market operations and foreign exchange dealings) and in respect of exchange control matters</div>
   </td>
 </tr>
@@ -8207,27 +8190,10 @@ Schedule 1 (items 176–182): <i>(m)</i></div>
     <div>12 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 115–122): 11 June 2011</div>
+    <div>Schedule 1 (items 115–122): \[ <i>see</i>Note 5]</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 108–113): \[ <i>see</i>Note 5 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 113) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -8749,7 +8715,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Territories Law Reform Act 201
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 81, 1983; No. 63, 1984; No. 111, 1986; No. 109, 1988; No. 137, 1991; No. 196, 1992; Nos. 33, 84 and 177, 1994; No. 43, 1996; No. 1, 2000; Nos. 114 and 135, 2003; No. 62, 2004; No. 128, 2005; Nos. 124 and 158, 2007; No. 113, 2008; Nos. 99 and 102, 2009; Nos. 8, 51 and 139, 2010; No. 23, 2011</div>
+    <div>am. No. 81, 1983; No. 63, 1984; No. 111, 1986; No. 109, 1988; No. 137, 1991; No. 196, 1992; Nos. 33, 84 and 177, 1994; No. 43, 1996; No. 1, 2000; Nos. 114 and 135, 2003; No. 62, 2004; No. 128, 2005; Nos. 124 and 158, 2007; No. 113, 2008; Nos. 99 and 102, 2009; Nos. 8, 51 and 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -8829,7 +8795,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Territories Law Reform Act 201
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 81, 1983; No. 102, 1986; No. 75, 1990; No. 137, 1991; No. 165, 1992; No. 84, 1994; No. 161, 1999; No. 128, 2005; No. 99, 2009; No. 51, 2010; No. 23, 2011</div>
+    <div>am. No. 81, 1983; No. 102, 1986; No. 75, 1990; No. 137, 1991; No. 165, 1992; No. 84, 1994; No. 161, 1999; No. 128, 2005; No. 99, 2009; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11551,7 +11517,7 @@ Part VIII</div>
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. No. 7, 1983; No. 187, 1985; Nos. 102 and 111, 1986; Nos. 6, 121, 126, 127 and 129, 1988; Nos. 66 and 150, 1989; Nos. 26, 75 and 118, 1990; Nos. 99, 137, 149 and 180, 1991; No. 165, 1992; Nos. 64 and 84, 1994; No. 161, 1995; Nos. 67 and 96, 1997; Nos. 7, 146 and 161, 1999; Nos. 108 and 163, 2000; No. 30, 2001; No. 127, 2002; No. 114, 2003; No. 62, 2004; Nos. 45, 111, 118, 128 and 129, 2005; Nos. 50 and 170, 2006; Nos. 27 and 124, 2007; No. 66, 2008; Nos. 8, 51 and 148, 2010; No. 23, 2011</div>
+    <div>am. No. 7, 1983; No. 187, 1985; Nos. 102 and 111, 1986; Nos. 6, 121, 126, 127 and 129, 1988; Nos. 66 and 150, 1989; Nos. 26, 75 and 118, 1990; Nos. 99, 137, 149 and 180, 1991; No. 165, 1992; Nos. 64 and 84, 1994; No. 161, 1995; Nos. 67 and 96, 1997; Nos. 7, 146 and 161, 1999; Nos. 108 and 163, 2000; No. 30, 2001; No. 127, 2002; No. 114, 2003; No. 62, 2004; Nos. 45, 111, 118, 128 and 129, 2005; Nos. 50 and 170, 2006; Nos. 27 and 124, 2007; No. 66, 2008; Nos. 8, 51 and 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11643,35 +11609,57 @@ Omit “_National Film and Sound Archive Act 2008_”, substitute “_National F
 
 Omit “National Film and Sound Archive”, substitute “National Film and Sound Archive of Australia”.
 
-As at 11 June 2011 the amendments are not incorporated in this compilation.
+As at 1 May 2011 the amendments are not incorporated in this compilation.
 
 ### Note 5
 
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+_Telecommunications Legislation Amendment (National Broadband Network Measures—Access Arrangements) Act 2011 (No. 23, 2011)_
 
-The following amendments commence on 1 July 2011:
+The following amendments commence on 11 June 2011:
 
-## Schedule 4
+## Schedule 1
 
-## 108  Subsection 4(1)
-
-Insert:
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 109  Subsection 4(1)
+## 115  Subsection 4(1)
 
 Insert:
 
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
+                    <a name="nbn-co"></a>**_NBN Co_** means NBN Co Limited (ACN 136 533 741), as the company exists from time to time (even if its name is later changed).
 
-## 110  Subsection 4(1)
+## 116  Subsection 4(1) (at the end of paragraph (a) of the definition of _prescribed authority_)
+
+Add “or”.
+
+## 117  Subsection 4(1) (after paragraph (a) of the definition of _prescribed authority_)
 
 Insert:
 
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Medicare) Act 1973_.
+                    (aa)  NBN Co; or
 
-## 111  Division 1 of Part II of Schedule 2 (before the item relating to Indigenous Business Australia)
+## 118  Subsection 4(1) (at the end of paragraph (b) of the definition of _prescribed authority_)
+
+Add “or”.
+
+## 119  Subsection 4(1) (after paragraph (b) of the definition of _responsible Minister_)
+
+Insert:
+
+                   (ba)  in relation to the prescribed authority referred to in paragraph (aa) of that definition—the Minister administering the _National Broadband Network Companies Act 2011_; or
+
+## 120  Subsection 7(3)
+
+Before “means”, insert “(except when used in relation to NBN Co)”.
+
+## 121  After subsection 7(3)
+
+Insert:
+
+          (3A)  In Part II of Schedule 2, **_commercial activities_**, when used in relation to NBN Co, means:
+
+                     (a)  activities carried on by NBN Co on a commercial basis; or
+
+                     (b)  activities, carried on by NBN Co, that may reasonably be expected in the foreseeable future to be carried on by NBN Co on a commercial basis.
+
+## 122  Division 1 of Part II of Schedule 2 (after the item relating to the National Health and Medical Research Council)
 
 Insert:
 
@@ -11682,15 +11670,11 @@ Insert:
 
 <tr>
   <td>
-    <div>Human Services Department, in relation to documents in respect of commercial activities relating to the functions of the Chief Executive Medicare</div>
+    <div>NBN Co, in relation to documents in respect of its commercial activities</div>
   </td>
 </tr></table>
 
-## 112  Division 1 of Part II of Schedule 2 (the item relating to Medicare Australia)
-
-Repeal the item.
-
-As at 11 June 2011 the amendments are not incorporated in this compilation.
+As at 1 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -11954,22 +11938,6 @@ _Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010 (No. 14
 ## 123  Application of amendments
 
 (3)       The amendment made by item 26 of this Schedule applies to exempt documents on or after the commencement of that item, whether the documents came into existence before, on or after commencement of that item.
-
-* * *
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following provision commences on 1 July 2011:
-
-## Schedule 4
-
-## 113  Transitional—Medicare Australia documents
-
-The _Freedom of Information Act 1982_ has effect, after the commencement of this item, as if the reference in Division 1 of Part II of Schedule 2 to documents in respect of commercial activities relating to the functions of the Chief Executive Medicare included a reference to the following:
-
-                     (a)  documents in respect of commercial activities of Medicare Australia (within the meaning of the _Medicare Australia Act 1973_ as in force before 1 July 2011);
-
-                     (b)  documents in respect of commercial activities of the Health Insurance Commission (within the meaning of the _Health Insurance Act 1973_ as in force before 1 October 2005).
 
 ## Table B
 
