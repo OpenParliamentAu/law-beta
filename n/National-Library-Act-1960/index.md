@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00875/Html/feb5f776-25e8-4672-a5f3-0655a47230ea_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00245/Html/e40232e9-2715-474a-81e8-b49e8ae3ea7c_files/image001.gif)
 
 # National Library Act 1960
 
 **Act No. 69 of 1960 as amended**
 
-This compilation was prepared on 28 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,77 +20,77 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                        1
 
 **Part II—Establishment of the National Library of Australia**
 
-[5](#5).            Establishment of National Library
+[5](#5).            Establishment of National Library                                                        2
 
-[6](#6).            Functions of Library
+[6](#6).            Functions of Library                                                                            2
 
-[7](#7).            Powers of the Library
+[7](#7).            Powers of the Library                                                                          3
 
-[7A](#7A).         Power to purchase and dispose of assets
+[7A](#7A).         Power to purchase and dispose of assets                                             3
 
-[8](#8).            Transfer of library material etc  to Library
+[8](#8).            Transfer of library material etc  to Library                                            4
 
-[9](#9).            Land and buildings
+[9](#9).            Land and buildings                                                                               4
 
 **Part III—Management of the Library**
 
-[10](#10).          Constitution of Council
+[10](#10).          Constitution of Council                                                                        5
 
-[11](#11).          Acting members
+[11](#11).          Acting members                                                                                   5
 
-[12](#12).          Chair and Deputy Chair
+[12](#12).          Chair and Deputy Chair                                                                       7
 
-[13](#13).          Remuneration and allowances
+[13](#13).          Remuneration and allowances                                                              7
 
-[14](#14).          Termination of office
+[14](#14).          Termination of office                                                                            7
 
-[15](#15).          Vacation of office
+[15](#15).          Vacation of office                                                                                 7
 
-[15A](#15A).       Resignation
+[15A](#15A).       Resignation                                                                                          8
 
-[16](#16).          Meetings of Council
+[16](#16).          Meetings of Council                                                                             8
 
-[17](#17).          Director‑General
+[17](#17).          Director‑General                                                                                  9
 
-[17A](#17A).       Terms and conditions of appointment
+[17A](#17A).       Terms and conditions of appointment                                                10
 
-[17B](#17B).       Leave of absence
+[17B](#17B).       Leave of absence                                                                                10
 
-[17C](#17C).       Dismissal
+[17C](#17C).       Dismissal                                                                                           10
 
-[17D](#17D).       Resignation
+[17D](#17D).       Resignation                                                                                        10
 
-[17E](#17E).        Vacation of office
+[17E](#17E).        Vacation of office                                                                               10
 
-[17H](#17H).       Application of Superannuation Act
+[17H](#17H).       Application of Superannuation Act                                                    11
 
-[17J](#17J).        Acting Director‑General
+[17J](#17J).        Acting Director‑General                                                                     11
 
-[18](#18).          Officers
+[18](#18).          Officers                                                                                              12
 
 **Part IV—Finance**
 
-[20](#20).          Moneys payable to Library
+[20](#20).          Moneys payable to Library                                                                13
 
-[22](#22).          Application of moneys of Library
+[22](#22).          Application of moneys of Library                                                      13
 
-[26](#26).          Exemption from taxation
+[26](#26).          Exemption from taxation                                                                    13
 
 **Part V—Miscellaneous**
 
-[27A](#27A).       Supply of liquor on premises of Library
+[27A](#27A).       Supply of liquor on premises of Library                                            14
 
-[27B](#27B).       Control of Library land and buildings
+[27B](#27B).       Control of Library land and buildings                                                14
 
-[28](#28).          Regulations
+[28](#28).          Regulations                                                                                        14
 
 **Notes** 
 
@@ -140,7 +140,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (3)  All courts, judges and persons acting judicially shall take judicial notice of the seal of the Library affixed to a document and shall presume that it was duly affixed.
 
-##### <a id="6"></a>6  Functions of Library
+##### <a id="6"></a>6  Functions of Library
 
                    The functions of the Library are, on behalf of the Commonwealth:
 
@@ -808,23 +808,6 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Acts Interpretation Amendment Act 2011</div>
-    </td>
-    <td>
-      <div>46, 2011</div>
-    </td>
-    <td>
-      <div>27 June 2011</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 813–821) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _National Library Act 1960_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
@@ -857,7 +840,7 @@ _(g)_     The _National Library Act 1960_ was amended by Schedule 10 (
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-                              (c)   the items in Schedules 10, 11 and 12.
+                              (c)   the items in Schedules 10, 11 and 12\. 
 
 ## Table of Amendments
 
@@ -1411,56 +1394,6 @@ _(g)_     The _National Library Act 1960_ was amended by Schedule 10 (
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 813  Subsection 11(1)
-
-Omit “(1)”.
-
-## 814  Paragraph 11(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 815  Subsection 11(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 816  At the end of subsection 11(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 817  Subsections 11(2) to (7)
-
-Repeal the subsections.
-
-## 818  Paragraph 17J(1)(b)
-
-Omit “Director‑General;”, substitute “Director‑General.”.
-
-## 819  Subsection 17J(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 820  At the end of subsection 17J(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 821  Subsections 17J(2) to (7)
-
-Repeal the subsections.
-
-As at 28 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1473,21 +1406,5 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
