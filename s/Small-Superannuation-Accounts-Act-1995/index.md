@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image001.gif)
 
 # Small Superannuation Accounts Act 1995
 
 **Act No. 52 of 1995 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 6 April 2009
+ taking into account amendments up to Act No. 27 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -482,8 +482,6 @@ Note:          This expression is only used in the definition 
 
                    The Commissioner of Taxation has the general administration of this Act.
 
-Note:          An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
-
 ## Part 2—Superannuation Holding Accounts Special Account
 
 ##### <a id="7"></a>7  Simplified outline
@@ -702,11 +700,11 @@ Australian resident for income tax purposes and:</li>
 
 _Former temporary resident_
 
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of the amount standing
+<li class="BoxList" style="margin-left:21.25pt">•      The balance of the amount
 
-to the credit of an individual’s account may be debited from the Special
+standing to the credit of an individual’s account may be debited from the
 
-Account if the individual is a former temporary resident.</li>
+Special Account if the individual is a former temporary resident.</li>
 
 _Death of individual_
 
@@ -1202,9 +1200,9 @@ crediting the net interest amount to the Special Account.</li>
 
 Pool is to be kept within the Special Account.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Unallocated interest is
+<li class="BoxList" style="margin-left:21.25pt">•      Unallocated interest is represented
 
-represented by the balance of the Unallocated Interest Pool.</li>
+by the balance of the Unallocated Interest Pool.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      In special cases, the
 
@@ -1214,9 +1212,9 @@ Special Account.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Since interest only accrues
 
-on the first $1,200 of an account balance, it is possible for a surplus to build
+on the first $1,200 of an account balance, it is possible for a surplus to
 
-up in the Unallocated Interest Pool. The surplus can be debited from the
+build up in the Unallocated Interest Pool. The surplus can be debited from the
 
 Special Account.</li>
 
@@ -1332,7 +1330,7 @@ Provisional rate
 
              (3)  Calculate the **_provisional rate_** for the quarter as a percentage (to 4 decimal places) using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image002.gif)
 
 where:
 
@@ -1356,7 +1354,7 @@ Capped rate
 
              (5)  Calculate the **_capped rate_** as a percentage (to 4 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image003.gif)
 
 where:
 
@@ -1428,7 +1426,7 @@ Allocation day event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image004.gif)
 
                             where:
 
@@ -1442,7 +1440,7 @@ Withdrawal event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image005.gif)
 
                             where:
 
@@ -1456,7 +1454,7 @@ Inactive account debit event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00835/Html/SmallSuperAccounts1995_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00151/Html/SmallSuperAccounts1995_WD02_image005.gif)
 
                             where:
 
@@ -1600,9 +1598,9 @@ individual’s account will be frozen. </li>
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      An individual’s account
+<li class="BoxList" style="margin-left:21.25pt">•      An individual’s account will
 
-will be frozen for 14 days after a deposit is credited to the account. </li>
+be frozen for 14 days after a deposit is credited to the account. </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The delay gives the
 
@@ -1806,9 +1804,9 @@ individual’s account may be withdrawn if: </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The balance of an
 
-individual’s account may be withdrawn if the individual is in receipt of
+individual’s account may be withdrawn if the individual is in receipt of Commonwealth
 
-Commonwealth income support payments for a sufficient period.</li>
+income support payments for a sufficient period.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The balance of an
 
@@ -2382,9 +2380,9 @@ Note:          This means that an individual’s tax file number
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person who is
 
-dissatisfied with a reviewable decision of the Commissioner of Taxation may
+dissatisfied with a reviewable decision of the Commissioner of Taxation may seek
 
-seek a reconsideration of the decision. </li>
+a reconsideration of the decision. </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person who is
 
@@ -3006,23 +3004,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 69): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Small Superannuation Accounts Act 1995_ was amended by Schedule 2 (item 97) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
@@ -3191,14 +3172,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007; No. 134, 2008; No. 27, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
