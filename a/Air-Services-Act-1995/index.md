@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00327/Html/d38bfe83-92fa-403a-82a7-80e5eb4c4b5e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00071/Html/AirServices1995_WD02_image001.gif)
 
 # Air Services Act 1995
 
 **Act No. 81 of 1995 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -30,7 +30,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Extension to external Territories
 
-[6](#6).            Extra‑territorial application
+[6](#6).            Extra-territorial application
 
 [6A](#6A).         Application of the _Criminal Code_
 
@@ -255,7 +255,7 @@ whichever is earlier.
 
                     <a name="appointed-member"></a>**_appointed member_** means a member of the Board who is appointed by the Minister under subsection 22(2).
 
-                    <a name="australian-administered-airspac"></a>**_Australian‑administered airspace_** means:
+                    <a name="australian-administered-airspac"></a>**_Australian-administered airspace_** means:
 
                      (a)  the airspace over Australian territory; and
 
@@ -325,17 +325,15 @@ but does not include Qantas Airways Limited.
 
                     <a name="deal"></a>**_dealing_**, in relation to securities, includes the following:
 
-                     (a)  creating, executing, entering into, drawing, making, accepting, endorsing, issuing, discounting, selling, purchasing or re‑selling securities;
+                     (a)  creating, executing, entering into, drawing, making, accepting, endorsing, issuing, discounting, selling, purchasing or re-selling securities;
 
-                     (b)  creating, selling, purchasing or re‑selling rights or options in respect of securities;
+                     (b)  creating, selling, purchasing or re-selling rights or options in respect of securities;
 
                      (c)  entering into agreements or other arrangements relating to securities.
 
                     <a name="deputi-chairperson"></a>**_Deputy Chairperson_** means the Deputy Chairperson of the Board.
 
                     <a name="employe"></a>**_employee_** means a person employed under section 42.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="icao"></a>**_ICAO_** means the International Civil Aviation Organization referred to in the Chicago Convention.
 
@@ -381,7 +379,7 @@ but does not include Qantas Airways Limited.
 
                    This Act extends to all the external Territories.
 
-##### <a id="6"></a>6  Extra‑territorial application
+##### <a id="6"></a>6  Extra-territorial application
 
                    This Act extends to acts, omissions, matters and things outside Australia (except where a contrary intention appears).
 
@@ -483,7 +481,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (4)  Any service or facility that AA has power to provide may be provided by AA under a contract.
 
-             (5)  Subject to section 16, in performing its function under paragraph (1)(a), AA must give priority to providing services and facilities in relation to air navigation within Australian‑administered airspace.
+             (5)  Subject to section 16, in performing its function under paragraph (1)(a), AA must give priority to providing services and facilities in relation to air navigation within Australian-administered airspace.
 
 ##### <a id="9"></a>9  Manner in which AA must perform its functions
 
@@ -705,9 +703,9 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
              (2)  The members other than the Chief Executive Officer are to be appointed by the Minister, and hold office on such terms and conditions (in respect of matters not provided by this Act) as are determined by the Minister in writing.
 
-             (3)  The Chairperson may be appointed on a full‑time basis or on a part‑time basis.
+             (3)  The Chairperson may be appointed on a full-time basis or on a part-time basis.
 
-             (4)  The other appointed members are to be appointed on a part‑time basis.
+             (4)  The other appointed members are to be appointed on a part-time basis.
 
              (5)  An employee may be appointed as a member under paragraph (1)(d).
 
@@ -775,7 +773,7 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
              (1)  Subject to this Part, an appointed member holds office for the period, not longer than 5 years, specified in the instrument of appointment.
 
-             (2)  An appointed member is eligible for re‑appointment.
+             (2)  An appointed member is eligible for re-appointment.
 
 ##### <a id="28"></a>28  Remuneration and allowances of appointed members
 
@@ -787,17 +785,17 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
 ##### <a id="29"></a>29  Outside employment
 
-             (1)  A full‑time Chairperson must not engage in paid employment outside the duties of his or her office except with the approval of the Minister.
+             (1)  A full-time Chairperson must not engage in paid employment outside the duties of his or her office except with the approval of the Minister.
 
-             (2)  A part‑time member must not engage in any paid employment that, in the Minister’s opinion, conflicts with the proper performance of the member’s duties.
+             (2)  A part-time member must not engage in any paid employment that, in the Minister’s opinion, conflicts with the proper performance of the member’s duties.
 
 ##### <a id="30"></a>30  Leave of absence
 
-             (1)  A full‑time Chairperson has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  A full-time Chairperson has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant a full‑time Chairperson leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines in writing.
+             (2)  The Minister may grant a full-time Chairperson leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines in writing.
 
-             (3)  The Minister may grant leave to a part‑time Chairperson to be absent from a meeting or meetings of the Board.
+             (3)  The Minister may grant leave to a part-time Chairperson to be absent from a meeting or meetings of the Board.
 
              (4)  The Chairperson may grant leave to another member to be absent from a meeting or meetings of the Board.
 
@@ -813,7 +811,7 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
                      (a)  the member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
 
-                     (b)  the member (other than a full‑time Chairperson):
+                     (b)  the member (other than a full-time Chairperson):
 
                               (i)  engages in paid employment that the Minister thinks is in conflict with the proper performance of the member’s duties; or
 
@@ -823,7 +821,7 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
                      (d)  the member fails, without reasonable excuse, to comply with section 21 of the _Commonwealth Authorities and Companies Act 1997_.
 
-             (3)  The Minister may terminate the appointment of a full‑time Chairperson if the Chairperson:
+             (3)  The Minister may terminate the appointment of a full-time Chairperson if the Chairperson:
 
                      (a)  engages in paid employment outside the duties of his or her office without the Minister’s approval; or
 
@@ -851,7 +849,7 @@ the Minister may terminate the appointment of all appointed members or particula
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-             (2)  If the Chairperson is a part‑time member, a person appointed under paragraph (1)(b) to act as the Chairperson must be appointed on a part‑time basis.
+             (2)  If the Chairperson is a part-time member, a person appointed under paragraph (1)(b) to act as the Chairperson must be appointed on a part-time basis.
 
              (3)  The Minister may appoint a member (other than the Chief Executive Officer or an employee) to act as the Deputy Chairperson:
 
@@ -883,7 +881,7 @@ the Minister may terminate the appointment of all appointed members or particula
 
              (1)  There is to be a Chief Executive Officer of AA, who is to be appointed by the Board in writing.
 
-             (2)  A person appointed as Chief Executive Officer is eligible for re‑appointment.
+             (2)  A person appointed as Chief Executive Officer is eligible for re-appointment.
 
              (3)  The Chief Executive Officer holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Board in writing.
 
@@ -953,7 +951,7 @@ the Minister may terminate the appointment of all appointed members or particula
 
              (1)  The initial capital of AA is the capital of the previous Authority immediately before the commencement of this Act less any amount determined under subsection (2).
 
-             (2)  The Minister and the Finance Minister may make a written determination that an amount representing the net value of assets transferred to CASA under section 9 of the _Civil Aviation Legislation Amendment Act 1995_ is not to form part of the initial capital of AA.
+             (2)  The Minister and the Minister for Finance may make a written determination that an amount representing the net value of assets transferred to CASA under section 9 of the _Civil Aviation Legislation Amendment Act 1995_ is not to form part of the initial capital of AA.
 
              (3)  Interest is not payable to the Commonwealth on the capital of AA, but the capital of AA is repayable to the Commonwealth at such times, and in such amounts, as the Minister determines in writing. In making a determination, the Minister must have regard to any advice that the Board has given to the Minister in relation to AA’s financial affairs.
 
@@ -963,7 +961,7 @@ the Minister may terminate the appointment of all appointed members or particula
 
 ##### <a id="45"></a>45  Revaluation of assets
 
-                   The Board must ensure that AA’s assets are revalued in accordance with prevailing commercial practice and in the manner (if any) agreed between the Finance Minister and the Minister:
+                   The Board must ensure that AA’s assets are revalued in accordance with prevailing commercial practice and in the manner (if any) agreed between the Minister for Finance and the Minister:
 
                      (a)  if the assets have not previously been revalued under this section—within 5 years after the commencement of this section; or
 
@@ -1027,7 +1025,7 @@ the Minister may terminate the appointment of all appointed members or particula
 
                      (a)  the matters specified in section 13;
 
-                     (b)  AA’s interim financial results and anticipated full‑year financial results.
+                     (b)  AA’s interim financial results and anticipated full-year financial results.
 
              (3)  The Minister must respond in writing to the Board’s recommendation, within 45 days, either:
 
@@ -1041,7 +1039,7 @@ the Minister may terminate the appointment of all appointed members or particula
 
                      (b)  the objectives and policies of the Commonwealth Government;
 
-                     (c)  AA’s interim financial results and anticipated full‑year financial results;
+                     (c)  AA’s interim financial results and anticipated full-year financial results;
 
                      (d)  any other commercial considerations the Minister thinks appropriate.
 
@@ -1053,7 +1051,7 @@ the Minister may terminate the appointment of all appointed members or particula
 
 ##### <a id="48"></a>48  Borrowing by AA from the Commonwealth
 
-                   The Finance Minister may, on behalf of the Commonwealth, out of money appropriated by the Parliament for the purpose, lend money to AA on terms and conditions determined in writing by the Finance Minister.
+                   The Minister for Finance may, on behalf of the Commonwealth, out of money appropriated by the Parliament for the purpose, lend money to AA on terms and conditions determined in writing by the Minister for Finance.
 
 ##### <a id="49"></a>49  AA may give security over its assets
 
@@ -1131,13 +1129,13 @@ the Minister may terminate the appointment of all appointed members or particula
 
 ##### <a id="51"></a>51  Extra matters to be included in annual report
 
-                   In their annual report under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must include an assessment of the adverse effect (if any) that meeting the non‑commercial commitments imposed on AA has had on AA’s profitability during the financial year.
+                   In their annual report under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must include an assessment of the adverse effect (if any) that meeting the non-commercial commitments imposed on AA has had on AA’s profitability during the financial year.
 
 ### Division 2—Taxation matters
 
 ##### <a id="52"></a>52  Liability to taxes etc.
 
-             (1)  AA is not a public authority for the purposes of section 50‑25 of the _Income Tax Assessment Act 1997_.
+             (1)  AA is not a public authority for the purposes of section 50-25 of the _Income Tax Assessment Act 1997_.
 
              (2)  AA is not liable to pay tax under any law of a State or Territory.
 
@@ -1291,7 +1289,7 @@ an authorised employee may direct the Registrar to make an entry in the Register
 
                      (b)  any late payment penalty relating to any such charge.
 
-##### <a id="62"></a>62  Cessation of statutory lien
+##### <a id="62"></a>62  Cessation of statutory lien
 
              (1)  A statutory lien ceases to have effect in the following cases, and not otherwise:
 
@@ -1521,7 +1519,7 @@ means the member, or any of the members, constituting the body.
 
 ##### <a id="77"></a>77  Power to make regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1939,23 +1937,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 6–9): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Air Services Act 1995_ was amended by Schedule 2 (item 153) and Schedule 3 (item 1) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsections 2(2) and 3(a) of which provide as follows:
@@ -1966,7 +1947,7 @@ _(a)_     The _Air Services Act 1995_ was amended by Schedule 2 (item�
 
                               (a)   the amendments of the _Air Services Act 1995_ are taken to have commenced on the day on which that Act received the Royal Assent.
 
-_(b)_     The _Air Services Act 1995_ was amended by Schedule 3 only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsection 2(5) of which provides as follows:
+_(b)_    The _Air Services Act 1995_ was amended by Schedule 3 only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsection 2(5) of which provides as follows:
 
                  (5)   The remaining provisions of this Act (including items 9, 10 and 11 of Schedule 1) commence on the day on which this Act receives the Royal Assent.
 
@@ -2130,7 +2111,7 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>
       10 March 2005
 
-      (paragraph (b) applies)
+(paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -2179,7 +2160,7 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 33, 2009; No. 5, 2011</div>
+    <div>am. No. 55, 2001; No. 33, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2320,22 +2301,6 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Ss. 44, 45</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 51</div>
   </td>
   <td>
@@ -2400,7 +2365,15 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Ss. 70, 71</div>
+    <div>S. 70</div>
+  </td>
+  <td>
+    <div>am. No. 143, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71</div>
   </td>
   <td>
     <div>am. No. 143, 2001</div>
@@ -2460,7 +2433,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to statutory liens that arise after the commencement of subsection (3A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 19 April 2011 the amendments are not incorporated in this compilation.
+As at 1 January 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2482,25 +2455,25 @@ _Aviation Transport Security (Consequential Amendments and Transitional Provisio
 
 ## 1  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-(2)       In particular, regulations may be made:
+(2)        In particular, regulations may be made:
 
                      (a)  providing for regulations made for the purposes of particular provisions of the old Act to continue to have effect (with any prescribed alterations) for the purposes of the new Act; and
 
                      (b)  providing for aviation security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
-                   (ba)  providing for airport security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
+                    (ba)  providing for airport security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
-                   (bb)  providing for ASIC programs and international cargo security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act, or as such other programs under the new Act as are prescribed by the regulations; and
+                    (bb)  providing for ASIC programs and international cargo security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act, or as such other programs under the new Act as are prescribed by the regulations; and
 
                      (c)  for other transitional measures in relation to the transition from the old Act to the new Act.
 
-(3)       In this item:
+(3)        In this item:
 
 **_new Act_** means the _Aviation Transport Security Act 2004_.
 
@@ -2531,7 +2504,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -2557,17 +2530,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -2607,17 +2580,17 @@ _Airspace (Consequentials and Other Measures) Act 2007 (No. 39, 2007)_
 
 ## 1  Transitional provision
 
-(1)       This item applies if regulations are made under the _Air Services Act 1995_ repealing Part 2 of the Air Services Regulations in connection with the enactment of Part 3 of the _Airspace Act 2007_.
+(1)        This item applies if regulations are made under the _Air Services Act 1995_ repealing Part 2 of the Air Services Regulations in connection with the enactment of Part 3 of the _Airspace Act 2007_.
 
 _Note:       This item relates to the transfer of airspace management functions from Airservices Australia to CASA._
 
-(2)       The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of that repeal.
+(2)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of that repeal.
 
-(3)       Regulations under subitem (2) may provide that specified things done by, or in relation to, Airservices Australia for the purposes of Part 2 of the Air Services Regulations have effect after that repeal  as if those things had been done by, or in relation to, CASA for the purposes of regulations under Part 3 of the _Airspace Act 2007_.
+(3)        Regulations under subitem (2) may provide that specified things done by, or in relation to, Airservices Australia for the purposes of Part 2 of the Air Services Regulations have effect after that repeal  as if those things had been done by, or in relation to, CASA for the purposes of regulations under Part 3 of the _Airspace Act 2007_.
 
-(4)       Subitem (3) does not limit subitem (2).
+(4)        Subitem (3) does not limit subitem (2).
 
-(5)       In this item:
+(5)        In this item:
 
 **_Airservices Australia_** means the body established by subsection 7(1) of the _Air Services Act 1995_.
 
