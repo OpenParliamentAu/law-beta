@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image001.gif)
 
 # A New Tax System (Commonwealth-State Financial Arrangements) Act 1999
 
 **Act No. 110 of 1999 as amended**
 
-This compilation was prepared on 18 July 2002
- taking into account amendments up to Act No. 63 of 2002
+This compilation was prepared on 8 March 2000
+ taking into account amendments up to Act No. 177 of 1999
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -65,7 +65,7 @@ Prepared by the Office of Legislative Drafting,
 
 [18](#18).          Advance payments for GST year                                                      24
 
-[19](#19).          Treasurer may fix amounts, and times of payments, of financial assistance           24
+[19](#19).          Treasurer may fix amounts, and times of payments, of financial assistance [_see_ Note 2]      24
 
 **Part 5—Miscellaneous**
 
@@ -77,97 +77,11 @@ Prepared by the Office of Legislative Drafting,
 
 [23](#23).          Regulations                                                                                        25
 
-**Schedule 1—Transitional arrangements**
-
-[1](#1).            Overview                                                                                           26
-
-[2](#2).            Guaranteed minimum amount                                                            26
-
-[3](#3).            First GST year—GST revenue does not exceed guaranteed minimum amounts     26
-
-[4](#4).            Second GST year—GST revenue does not exceed guaranteed minimum amounts  27
-
-[5](#5).            First 2 transitional GST years—GST revenue exceeds guaranteed minimum amounts           28
-
-[6](#6).            Third or prescribed transitional GST years—guaranteed minimum amount           29
+**Schedule 1—Transitional arrangements** 
 
 **Schedule 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations** 
 
-    **Commencement Clause** 
-
-    **Objectives** 
-
-    **Acknowledgement of Agreement** 
-
-    **Reform Measures** 
-
-    **GST Legislation** 
-
-    **Distribution of GST Revenue** 
-
-    **Transitional Arrangements** 
-
-    **First Home Owners Scheme** 
-
-    **Application of the GST to Government** 
-
-    **Government Taxes and Charges** 
-
-    **Reciprocal Taxation** 
-
-    **Monitoring of Prices** 
-
-    **Management of the GST Rate** 
-
-    **Management of the GST Base** 
-
-    **Australian Taxation Office** 
-
-    **Establishment of Ministerial Council** 
-
-**APPENDIX A** 
-
-**APPENDIX B** 
-
-**APPENDIX C**
-
-[Guarantee in Legislation](#Guarantee in Legislation).                                                                                  47
-
-[Guaranteed Minimum Amount](#Guaranteed Minimum Amount).                                                                       48
-
-[Heads of Treasuries’ Advice to Ministerial Council](#Heads of Treasuries’ Advice to Ministerial Council).                                       49
-
-[Frequency and Amounts of Payments and Repayments](#Frequency and Amounts of Payments and Repayments).                                50
-
-**APPENDIX D** 
-
-    **Principles** 
-
-    **Other matters** 
-
-**APPENDIX E** 
-
-**APPENDIX F** 
-
-    **Preamble** 
-
-    **Objectives and Context of the Performance Agreement** 
-
-    **Components of Agreement** 
-
-    **Outcomes** 
-
-    **Cost of Administration** 
-
-    **Monitoring and Review** 
-
-    **Matters of Operational Significance** 
-
-    **Development of Agreement** 
-
-    **Transitional Arrangements** 
-
-**Notes to the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_** 
+**Notes** 
 
  
 
@@ -349,7 +263,7 @@ to the extent that the amounts are attributable to GST.
 
              (1)  A **_hospital grant_** for a State for a GST year is the amount worked out using the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image002.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image002.gif)</sub>
 
 where:
 
@@ -399,7 +313,7 @@ where:
 
              (1)  The index factor for a GST year is the factor worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image003.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image003.gif)</sub>
 
 where:
 
@@ -467,7 +381,7 @@ where:
 
                    Subject to this Act, each State is entitled to the payment, by way of financial assistance, for a GST year, of a grant worked out using the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image004.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image004.gif)</sub>
 
 where:
 
@@ -505,7 +419,7 @@ the maximum competition payment amount worked out under whichever of subsection 
 
              (2)  The **_maximum competition payment amount_** for a State for the 2000-01 GST year is:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image005.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image005.gif)</sub>
 
 where:
 
@@ -519,7 +433,7 @@ where:
 
              (3)  The **_maximum competition payment amount_** for a State for the 2001-02 GST year is:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image006.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image006.gif)</sub>
 
 where:
 
@@ -533,7 +447,7 @@ where:
 
              (4)  The **_maximum competition payment amount_** for a State for a later GST year is:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image005.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image005.gif)</sub>
 
 where:
 
@@ -551,7 +465,7 @@ where:
 
              (2)  The **_revenue replacement payment_** for a State for the 2000-01 GST year is:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image007.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image007.gif)</sub>
 
 where:
 
@@ -1063,7 +977,7 @@ Note 2:       The _Excise Tariff Amendment Act (No. 3) 1997_ increas
 
                    The Treasurer may make advances to a State of portions of the amount or amounts to which, it appears to the Treasurer, the State will be entitled under this Act for a GST year.
 
-##### <a id="19"></a>19  Treasurer may fix amounts, and times of payments, of financial assistance 
+##### <a id="19"></a>19  Treasurer may fix amounts, and times of payments, of financial assistance [_see_ Note 2]
 
                    Financial assistance payable to a State under this Act is to be paid in such amounts, and at such times, as the Treasurer determines in writing.
 
@@ -1075,7 +989,7 @@ Note 2:       The _Excise Tariff Amendment Act (No. 3) 1997_ increas
 
 ##### <a id="21"></a>21  Delegation by Treasurer
 
-             (1)  The Treasurer may, by signed writing, delegate to an SES employee in the Department all or any of the Treasurer’s powers under sections 18 and 19.
+             (1)  The Treasurer may, by signed writing, delegate to an SES officer (within the meaning of the _Public Service Act 1922_) in the Department all or any of the Treasurer’s powers under sections 18 and 19.
 
              (2)  A delegate is, in the exercise of a power so delegated, subject to the Treasurer’s directions.
 
@@ -1105,17 +1019,17 @@ is, for the purposes of this Act, conclusively presumed to be correct.
 
 _Note:       See section 13_
 
-1  Overview
+##### <a id="1"></a>1  Overview
 
                    This Schedule contains provisions that apply for the first 3 GST years and other GST years that are prescribed. Clause 2 requires the Treasurer to specify the guaranteed minimum amount for each State. Clauses 3, 4, 5 and 6 adjust the amount of grants, and provide for loans, in certain circumstances.
 
-2  Guaranteed minimum amount
+##### <a id="2"></a>2  Guaranteed minimum amount
 
              (1)  The Treasurer must, before 10 June in a transitional GST year, determine the **_guaranteed minimum amount_** for each State for the GST year. The determination must be made in writing.
 
              (2)  Before making the determination, the Treasurer must consult each of the States.
 
-3  First GST year—GST revenue does not exceed guaranteed minimum amounts
+##### <a id="3"></a>3  First GST year—GST revenue does not exceed guaranteed minimum amounts
 
              (1)  This clause applies if the GST revenue for the 2000-01 transitional GST year is less than, or equal to, the sum of the guaranteed minimum amounts for all of the States.
 
@@ -1129,7 +1043,7 @@ _Note:       See section 13_
 
              (4)  The amount of the increase for the GST year is:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image008.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image008.gif)</sub>
 
 where:
 
@@ -1145,7 +1059,7 @@ where:
 
              (7)  The Treasurer may deduct an amount equal to the amount of a loan to a State under subclause (5) from any amount that the State is entitled to receive by way of financial assistance under this Act for the 2001-02 transitional GST year.
 
-4  Second GST year—GST revenue does not exceed guaranteed minimum amounts
+##### <a id="4"></a>4  Second GST year—GST revenue does not exceed guaranteed minimum amounts
 
              (1)  This clause applies if the GST revenue for the 2001-02 transitional GST year is less than, or equal to, the sum of the guaranteed minimum amounts for all of the States.
 
@@ -1159,7 +1073,7 @@ where:
 
              (4)  The amount of the increase for the GST year is:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image008.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image008.gif)</sub>
 
 where:
 
@@ -1171,13 +1085,13 @@ where:
 
              (5)  The amount of the grant to which a State is entitled under this subclause is the amount by which the State’s guaranteed minimum amount exceeds the amount to which the State is entitled under section 13 (as increased by paragraph (3)(a) of this clause) for the GST year.
 
-5  First 2 transitional GST years—GST revenue exceeds guaranteed minimum amounts
+##### <a id="5"></a>5  First 2 transitional GST years—GST revenue exceeds guaranteed minimum amounts
 
              (1)  This clause applies if the GST revenue for the 2000-01 or 2001-02 transitional GST year is more than the sum of the guaranteed minimum amounts for all of the States but the amount of the grant to which at least one State is entitled under section 13 is less than the guaranteed minimum amount for the State.
 
              (2)  If, apart from this subclause, the amount to which a State would be entitled under section 13 is more than the guaranteed minimum amount for that State for the GST year, the amount to which the State is entitled under that section is instead worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01418/Html/ANTSCSFA99_image009.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01417/Html/ANTSCSFA99_image009.gif)</sub>
 
 where:
 
@@ -1191,7 +1105,7 @@ where:
 
              (3)  If, apart from this subclause, the amount to which a State would be entitled under section 13 is less than the guaranteed minimum amount for that State for the GST year, the amount to which the State is entitled under that section is instead the guaranteed minimum amount for the State for the GST year.
 
-6  Third or prescribed transitional GST years—guaranteed minimum amount
+##### <a id="6"></a>6  Third or prescribed transitional GST years—guaranteed minimum amount
 
              (1)  This clause applies for:
 
@@ -1297,7 +1211,7 @@ Reform Measures
 
 GST Legislation
 
-6.       All Parties agree to reconsider this Agreement should the Commonwealth Parliament pass the GST legislation in a way that significantly affects this Agreement.
+6.<span style="font:7.0pt " new="">       </span>All Parties agree to reconsider this Agreement should the Commonwealth Parliament pass the GST legislation in a way that significantly affects this Agreement.
 
 Distribution of GST Revenue
 
@@ -1327,7 +1241,7 @@ First Home Owners Scheme
 
 Application of the GST to Government
 
-17.   The Parties intend that the Commonwealth, States, Territories and local government and their statutory corporations and authorities will operate as if they were subject to the GST legislation. They will be entitled to register, will pay GST or make voluntary or notional payments where necessary and will be entitled to claim input tax credits in the same way as non-Government organisations. All such payments will be included in GST revenue.
+17.<span style="font:7.0pt " new="">   </span>The Parties intend that the Commonwealth, States, Territories and local government and their statutory corporations and authorities will operate as if they were subject to the GST legislation. They will be entitled to register, will pay GST or make voluntary or notional payments where necessary and will be entitled to claim input tax credits in the same way as non-Government organisations. All such payments will be included in GST revenue.
 
 18.<span style="font:7.0pt " new="">   </span>The Commonwealth will legislate to require the States and the Northern Territory to withhold from any local government authority being in breach of clause 17 a sum representing the amount of unpaid voluntary or notional GST payments. Amounts withheld will form part of the GST revenue pool. Detailed arrangements will be agreed by the Ministerial Council on advice from Heads of Treasuries.
 
@@ -2095,40 +2009,6 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 17): <i>(aa)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999</div>
   </td>
   <td>
@@ -2149,67 +2029,15 @@ of Assent</div>
 
 _(a)_     The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ was amended by Schedule 1 (item 95) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-                 (2)   Subject to this section, this Act commences at the commencing time. 
-
-_(aa)_   The _Public Employment (Consequential and Transitional) Amendment Act 1999_ was amended by Schedule 2 (item 17) only of the _Statute Law Revision Act 2002_, subsection 2(1) (item 46) of which provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div><b> Commencement information </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b> Column 1 </b></div>
-    </td>
-    <td>
-      <div><b> Column 2 </b></div>
-    </td>
-    <td>
-      <div><b> Column 3 </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b> Provision(s) </b></div>
-    </td>
-    <td>
-      <div><b> Commencement </b></div>
-    </td>
-    <td>
-      <div><b> Date/Details </b></div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>46\. Schedule 2, item 17</div>
-  </td>
-  <td>
-    <div>Immediately after the time specified in the <i>Public Employment (Consequential and Transitional) Amendment Act 1999</i>for the commencement of item 95 of Schedule 1 to that Act</div>
-  </td>
-  <td>
-    <div>5 December 1999</div>
-  </td>
-</tr></table>
+                  (2)   Subject to this section, this Act commences at the commencing time. 
 
 _(b)_    The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ was amended by Schedule 3 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(6) of which provides as follows:
 
 _Schedule 3—Commonwealth-State financial arrangements_
 
-                 (6)   Schedule 3 is taken to have commenced immediately after the commencement of the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.
+                  (6)   Schedule 3 is taken to have commenced immediately after the commencement of the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.
 
          The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ commenced on 10 September 1999.
 
@@ -2243,20 +2071,22 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999 (as am. by No. 63, 2002)</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div></div>
   </td>
   <td>
     <div></div>
   </td>
 </tr></table>
+
+### Note 2
+
+S. 95—Schedule 1 (item 95) of the _Public Employment (Consequential and Transitional) Amendment Act 1999_ (No. 146, 1999) provides as follows:
+
+## 95  Subsection 19(1)
+
+Omit “an SES officer (within the meaning of the _Public Service Act 1922_)”, substitute “an SES employee”.
+
+The amendment was misdescribed and is not incorporated in this compilation.
 
       
 
