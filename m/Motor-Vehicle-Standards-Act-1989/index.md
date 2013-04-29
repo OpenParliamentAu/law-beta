@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00839/Html/08467322-769f-479a-a499-bb086753a0ea_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00223/Html/e511e092-6c13-4dbb-9708-5cb99238edbb_files/image001.gif)
 
 # Motor Vehicle Standards Act 1989
 
 **Act No. 65 of 1989 as amended**
 
-This compilation was prepared on 19 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1494,7 +1494,7 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="16%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -1547,8 +1547,7 @@ Remainder: Royal Assent</div>
     <div>17 Jan 1990</div>
   </td>
   <td>
-    <div>Part 10 (ss. 
-27–37): Royal Assent <i>(a)</i></div>
+    <div>Part 10 (ss. 27–37): Royal Assent <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1565,8 +1564,7 @@ Remainder: Royal Assent</div>
     <div>21 Jan 1991</div>
   </td>
   <td>
-    <div>Part 7 (ss. 
-25–30): Royal Assent <i>(b)</i></div>
+    <div>Part 7 (ss. 25–30): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1737,7 +1735,7 @@ S. 3 (Part G \[items 1, 4, 5, 14, 15]): 27 Jan 1996 <i>(e)</i></div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 617–619): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
+    <div>Schedule 1 (items 617–619): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1824,7 +1822,7 @@ Remainder: 24 May 2001</div>
       <div>13 July 2010</div>
     </td>
     <td>
-      <div>Schedule 6 (items 166–168): 1 Jan 2011</div>
+      <div>Schedule 6 (items 166–168): 1 Jan 2011</div>
     </td>
     <td>
       <div>—</div>
@@ -1841,27 +1839,10 @@ Remainder: 24 May 2001</div>
       <div>22 Mar 2011</div>
     </td>
     <td>
-      <div>Schedule 7 (item 96): 19 Apr 2011</div>
+      <div>Schedule 7 (item 96): 19 Apr 2011</div>
     </td>
     <td>
       <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Acts Interpretation Amendment Act 2011</div>
-    </td>
-    <td>
-      <div>46, 2011</div>
-    </td>
-    <td>
-      <div>27 June 2011</div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 773) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
 </thead></table>
@@ -1914,8 +1895,8 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 
 <table>
 <colgroup>
-  <col width="36%">
-  <col width="64%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2103,7 +2084,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 3 .</div>
+    <div>Heading to Div. 1 of Part 3</div>
   </td>
   <td>
     <div>ad. No. 155, 2001</div>
@@ -2231,7 +2212,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 3 .</div>
+    <div>Heading to Div. 2 of Part 3</div>
   </td>
   <td>
     <div>ad. No. 155, 2001</div>
@@ -2335,7 +2316,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 4 .</div>
+    <div>Heading to Div. 1 of Part 4</div>
   </td>
   <td>
     <div>ad. No. 155, 2001</div>
@@ -2423,7 +2404,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part 4 .</div>
+    <div>Heading to Div. 3 of Part 4</div>
   </td>
   <td>
     <div>ad. No. 155, 2001</div>
@@ -2718,20 +2699,6 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 773  Paragraph 7A(a)
-
-Omit “Standards Australia International Limited”, substitute “Standards Australia”.
-
-As at 19 October 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2839,21 +2806,5 @@ Definition
 ##### <a id="6"></a>6  Application—supply of used imported vehicles
 
                    Section 16 of the _Motor Vehicle Standards Act 1989_ applies to used imported vehicles supplied to the market after the commencement of this Act (regardless of whether the vehicles were imported before or after the commencement of this Act).
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
