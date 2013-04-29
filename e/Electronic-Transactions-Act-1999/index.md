@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00381/Html/095aec07-afe6-4a06-81b1-03e9c689a4af_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00371/Html/5cd82704-8f27-4580-9e97-1634d58aca40_files/image001.gif)
 
 # Electronic Transactions Act 1999
 
 **Act No. 162 of 1999 as amended**
 
-This compilation was prepared on 27 May 2011
- taking into account amendments up to Act No. 33 of 2011
+This compilation was prepared on 1 July 2007
+ incorporating amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -142,7 +142,7 @@ purported originator or with the authority of the purported originator.</li>
 
 * * *
 
-##### <a id="5"></a>5  Definitions
+##### <a id="5"></a>5  Definitions
 
              (1)  In this Act, unless the contrary intention appears:
 
@@ -176,11 +176,11 @@ purported originator or with the authority of the purported originator.</li>
 
                     <a name="inform-technologi-requir"></a>**_information technology requirements_** includes software requirements.
 
-                    <a name="non-profit-bodi"></a>**_non‑profit body_** means a body that is not carried on for the purposes of profit or gain to its individual members and is, by the terms of the body’s constitution, prohibited from making any distribution, whether in money, property or otherwise, to its members.
+                    <a name="non-profit-bodi"></a>**_non-profit body_** means a body that is not carried on for the purposes of profit or gain to its individual members and is, by the terms of the body’s constitution, prohibited from making any distribution, whether in money, property or otherwise, to its members.
 
-                    <a name="place-busi"></a>**_place of business_**, in relation to a government, an authority of a government or a non‑profit body, means a place where any operations or activities are carried out by that government, authority or body.
+                    <a name="place-busi"></a>**_place of business_**, in relation to a government, an authority of a government or a non-profit body, means a place where any operations or activities are carried out by that government, authority or body.
 
-                    <a name="transact"></a>**_transaction_** includes a transaction of a non‑commercial nature.
+                    <a name="transact"></a>**_transaction_** includes a transaction of a non-commercial nature.
 
              (2)  Before 1 July 2001, in this Act (other than this section):
 
@@ -536,7 +536,7 @@ Certain provisions of the Evidence Act 1995 etc. not affected
 
 ##### <a id="16"></a>16  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -558,7 +558,7 @@ _Note:       See subsection 11(5)._
 
                             (iii)  the deportation of a person; or
 
-                     (b)  the application of a migration law to a non‑citizen who:
+                     (b)  the application of a migration law to a non-citizen who:
 
                               (i)  does not hold, or is reasonably suspected of not holding, a visa; or
 
@@ -710,24 +710,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 3 (items 14, 20)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electronic Transactions Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>33, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -881,348 +863,6 @@ _(a)_ Subsection 2(1) (item 9) of the _Statute Law Revision Act 2005_ provides
     <div>rs. No. 21, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Electronic Transactions Amendment Act 2011 (No. 33, 2011)_
-
-The following amendments commence on 22 June 2011:
-
-## Schedule 1
-
-## 1  At the end of section 4
-
-Add:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•     Part 2A
-
-contains provisions applying to contracts involving electronic communications,
-
-including provisions (relating to the internet in particular) for the
-
-following:</li>
-
-               (a)     an unaddressed proposal to form a contract is to be regarded as an invitation to make offers, rather than as an offer that if accepted would result in a contract;
-
-              (b)     a contract formed automatically is not invalid, void or unenforceable because there was no human review or intervention;
-
-               (c)     a portion of an electronic communication containing an input error can be withdrawn in certain circumstances;
-
-              (d)     the application of certain provisions of Part 2 to the extent they do not apply of their own force.
-
-* * *
-
-## 2  Subsection 5(1)
-
-Insert:
-
-                    <a name="addresse"></a>**_addressee_** of an electronic communication means a person who is intended by the originator to receive the electronic communication, but does not include a person acting as an intermediary with respect to the electronic communication.
-
-## 3  Subsection 5(1)
-
-Insert:
-
-                    <a name="automated-messag-system"></a>**_automated message system_** means a computer program or an electronic or other automated means used to initiate an action or respond to data messages in whole or in part, without review or intervention by a natural person each time an action is initiated or a response is generated by the system.
-
-## 4  Subsection 5(1)
-
-Insert:
-
-                    <a name="origin"></a>**_originator_** of an electronic communication means a person by whom, or on whose behalf, the electronic communication has been sent or generated before storage, if any, but does not include a person acting as an intermediary with respect to the electronic communication.
-
-## 5  Subsection 5(1)
-
-Insert:
-
-                    <a name="perform"></a>**_performance_** of a contract includes non‑performance of the contract.
-
-## 6  Subsection 5(1) (definition of _place of business_)
-
-Repeal the definition, substitute:
-
-                    <a name="place-busi"></a>**_place of business_** means:
-
-                             (a)  in relation to a person, other than an entity referred to in paragraph (b)—a place where the person maintains a non‑transitory establishment to pursue an economic activity other than the temporary provision of goods or services out of a specific location; or
-
-                             (b)  in relation to a government, an authority of a government or a non‑profit body—a place where any operations or activities are carried out by that government, authority or body.
-
-## 7  Subsection 5(1) (definition of _transaction_)
-
-Repeal the definition, substitute:
-
-                    <a name="transact"></a>**_transaction_** includes:
-
-                     (a)  any transaction in the nature of a contract, agreement or other arrangement; and
-
-                     (b)  any statement, declaration, demand, notice or request, including an offer and the acceptance of an offer, that the parties are required to make or choose to make in connection with the formation or performance of a contract, agreement or other arrangement; and
-
-                     (c)  any transaction of a non‑commercial nature.
-
-## 8  At the end of Part 1
-
-Add:
-
-##### <a id="7A"></a>7A  Exemptions under the regulations
-
-             (1)  The regulations may provide that all or specified provisions of this Act do not apply:
-
-                     (a)  to transactions, requirements, permissions, electronic communications or other matters specified, or of classes specified, in the regulations for the purposes of this section; or
-
-                     (b)  in circumstances specified, or of classes specified, in the regulations for the purposes of this section.
-
-             (2)  The regulations may provide that all or specified provisions of this Act do not apply to specified laws of the Commonwealth.
-
-##### <a id="7B"></a>7B  Other exemptions
-
-Exemptions for courts and tribunals
-
-             (1)  Part 2A and Division 2 of Part 2 do not apply to the practice and procedure of a court or tribunal. For this purpose, practice and procedure includes all matters in relation to which rules of court may be made.
-
-Evidence Act 1995 etc. not affected
-
-             (2)  Part 2A and Division 2 of Part 2 do not affect the operation of:
-
-                     (a)  the _Evidence Act 1995_; or
-
-                     (b)  a law of a State or Territory that corresponds to the _Evidence Act 1995_; or
-
-                     (c)  a law of a State or Territory, or a rule of common law, that makes provision for the way in which evidence is given in proceedings in a court.
-
-## 9  Subsections 8(3) and (4)
-
-Repeal the subsections.
-
-## 10  Section 9 (note)
-
-Repeal the note.
-
-## 11  Paragraph 10(1)(a)
-
-Omit “approval of”, substitute “intention in respect of”.
-
-## 12  Paragraph 10(1)(b)
-
-Repeal the paragraph, substitute:
-
-                     (b)  in all cases—the method used was either:
-
-                              (i)  as reliable as appropriate for the purpose for which the electronic communication was generated or communicated, in the light of all the circumstances, including any relevant agreement; or
-
-                             (ii)  proven in fact to have fulfilled the functions described in paragraph (a), by itself or together with further evidence; and
-
-## 13  Paragraph 10(2)(c)
-
-Omit “approval of”, substitute “intention in respect of”.
-
-## 14  After subsection 10(2)
-
-Insert:
-
-             (3)  The reference in subsection (1) to a law that requires a signature includes a reference to a law that provides consequences for the absence of a signature.
-
-## 15  Section 10 (note)
-
-Repeal the note.
-
-## 16  Section 11 (note)
-
-Repeal the note.
-
-## 17  Section 12 (note)
-
-Repeal the note.
-
-## 18  Section 13
-
-Repeal the section.
-
-## 19  Section 14
-
-Repeal the section, substitute:
-
-##### <a id="14"></a>14  Time of dispatch
-
-             (1)  For the purposes of a law of the Commonwealth, unless otherwise agreed between the originator and the addressee of an electronic communication, the time of dispatch of the electronic communication is:
-
-                     (a)  the time when the electronic communication leaves an information system under the control of the originator or of the party who sent it on behalf of the originator; or
-
-                     (b)  if the electronic communication has not left an information system under the control of the originator or of the party who sent it on behalf of the originator—the time when the electronic communication is received by the addressee.
-
-Note:          Paragraph (b) would apply to a case where the parties exchange electronic communications through the same information system.
-
-             (2)  Subsection (1) applies even though the place where the information system supporting an electronic address is located may be different from the place where the electronic communication is taken to have been dispatched under section 14B.
-
-##### <a id="14A"></a>14A  Time of receipt
-
-             (1)  For the purposes of a law of the Commonwealth, unless otherwise agreed between the originator and the addressee of an electronic communication:
-
-                     (a)  the time of receipt of the electronic communication is the time when the electronic communication becomes capable of being retrieved by the addressee at an electronic address designated by the addressee; or
-
-                     (b)  the time of receipt of the electronic communication at another electronic address of the addressee is the time when both:
-
-                              (i)  the electronic communication has become capable of being retrieved by the addressee at that address; and
-
-                             (ii)  the addressee has become aware that the electronic communication has been sent to that address.
-
-             (2)  For the purposes of subsection (1), unless otherwise agreed between the originator and the addressee of the electronic communication, it is to be assumed that the electronic communication is capable of being retrieved by the addressee when it reaches the addressee’s electronic address.
-
-             (3)  Subsection (1) applies even though the place where the information system supporting an electronic address is located may be different from the place where the electronic communication is taken to have been received under section 14B.
-
-##### <a id="14B"></a>14B  Place of dispatch and place of receipt
-
-             (1)  For the purposes of a law of the Commonwealth, unless otherwise agreed between the originator and the addressee of an electronic communication:
-
-                     (a)  the electronic communication is taken to have been dispatched at the place where the originator has its place of business; and
-
-                     (b)  the electronic communication is taken to have been received at the place where the addressee has its place of business.
-
-             (2)  For the purposes of the application of subsection (1) to an electronic communication:
-
-                     (a)  a party’s place of business is assumed to be the location indicated by that party, unless another party demonstrates that the party making the indication does not have a place of business at that location; and
-
-                     (b)  if a party has not indicated a place of business and has only one place of business, it is to be assumed that that place is the party’s place of business; and
-
-                     (c)  if a party has not indicated a place of business and has more than one place of business, the place of business is that which has the closest relationship to the underlying transaction, having regard to the circumstances known to or contemplated by the parties at any time before or at the conclusion of the transaction; and
-
-                     (d)  if a party has not indicated a place of business and has more than one place of business, but paragraph (c) does not apply—it is to be assumed that the party’s principal place of business is the party’s only place of business; and
-
-                     (e)  if a party is a natural person and does not have a place of business—it is to be assumed that the party’s place of business is the place of the party’s habitual residence.
-
-             (3)  A location is not a place of business merely because that is:
-
-                     (a)  where equipment and technology supporting an information system used by a party are located; or
-
-                     (b)  where the information system may be accessed by other parties.
-
-             (4)  The sole fact that a party makes use of a domain name or email address connected to a specific country does not create a presumption that its place of business is located in that country.
-
-## 20  Subsections 15(3) and (4)
-
-Repeal the subsections.
-
-## 21  After Part 2
-
-Insert:
-
-## Part 2A—Additional provisions applying to contracts involving electronic communications
-
-##### <a id="15A"></a>15A  Application and operation of this Part
-
-             (1)  Subject to subsection (2), this Part applies to the use of electronic communications in connection with the formation or performance of a contract between parties, and so applies:
-
-                     (a)  whether some or all of the parties are located within Australia or elsewhere; and
-
-                     (b)  whether the contract is for business purposes, for personal, family or household purposes, or for other purposes.
-
-             (2)  This Part applies to or in relation to a contract only if:
-
-                     (a)  the proper law of the contract is (or would on its formation be) the law of a State or Territory; and
-
-                     (b)  at the time the contract is formed, there is no law of that State or Territory in terms substantially the same as this Part.
-
-##### <a id="15B"></a>15B  Invitation to treat regarding contracts
-
-             (1)  A proposal to form a contract made through one or more electronic communications that:
-
-                     (a)  is not addressed to one or more specific parties; and
-
-                     (b)  is generally accessible to parties making use of information systems;
-
-is to be considered as an invitation to make offers, unless it clearly indicates the intention of the party making the proposal to be bound in case of acceptance.
-
-             (2)  Subsection (1) extends to proposals that make use of interactive applications for the placement of orders through information systems.
-
-##### <a id="15C"></a>15C  Use of automated message systems for contract formation—non‑intervention of natural person
-
-                   A contract formed by:
-
-                     (a)  the interaction of an automated message system and a natural person; or
-
-                     (b)  the interaction of automated message systems;
-
-is not invalid, void or unenforceable on the sole ground that no natural person reviewed or intervened in each of the individual actions carried out by the automated message systems or the resulting contract.
-
-##### <a id="15D"></a>15D  Error in electronic communications regarding contracts
-
-             (1)  This section applies in relation to a statement, declaration, demand, notice or request, including an offer and the acceptance of an offer, that the parties are required to make or choose to make in connection with the formation or performance of a contract.
-
-             (2)  If:
-
-                     (a)  a natural person makes an input error in an electronic communication exchanged with the automated message system of another party; and
-
-                     (b)  the automated message system does not provide the person with an opportunity to correct the error;
-
-the person, or the party on whose behalf the person was acting, has the right to withdraw the portion of the electronic communication in which the input error was made if:
-
-                     (c)  the person, or the party on whose behalf the person was acting, notifies the other party of the error as soon as possible after having learned of the error and indicates that he or she made an error in the electronic communication; and
-
-                     (d)  the person, or the party on whose behalf the person was acting, has not used or received any material benefit or value from the goods or services, if any, received from the other party.
-
-             (3)  The right of withdrawal of a portion of an electronic communication under this section is not of itself a right to rescind or otherwise terminate a contract.
-
-             (4)  The consequences (if any) of the exercise of the right of withdrawal of a portion of an electronic communication under this section are to be determined in accordance with any applicable rule of law.
-
-Note:          In some circumstances the withdrawal of a portion of an electronic communication may invalidate the entire communication or render it ineffective for the purposes of contract formation (see paragraph 241 of the UNCITRAL explanatory note for the United Nations Convention on the Use of Electronic Communications in International Contracts, done at New York on 23 November 2005).
-
-##### <a id="15E"></a>15E  Application of Act in relation to contracts
-
-             (1)  Subject to subsection (2), the provisions of sections 8 and 14 to 14B apply to:
-
-                     (a)  a transaction constituted by or relating to a contract; or
-
-                     (b)  an electronic communication relating to the formation or performance of a contract;
-
-in the same way as they apply to a transaction or electronic communication referred to in those sections, and so apply as if the words “For the purposes of a law of the Commonwealth” and “under a law of the Commonwealth” were omitted.
-
-             (2)  However, this Part (including subsection (1)) does not apply to or in relation to a contract to the extent that:
-
-                     (a)  Part 2 would of its own force have the same effect as this Part if this Part applied; or
-
-                     (b)  a law of a State or Territory (that is in substantially the same terms as Part 2) would of its own force have the same effect as this Part if this Part applied.
-
-Note:          This section applies provisions of Part 2 to contracts or proposed contracts to the extent (if any) that those provisions do not apply merely because they are expressed to apply in relation to “a law of the Commonwealth”. This section also disapplies the provisions of Part 2A to the extent that Part 2 would apply of its own force. An example where Part 2 may not apply of its own force is where a contract is being negotiated in a State or Territory from a supplier located overseas.
-
-##### <a id="15F"></a>15F  No interference with powers and functions of another jurisdiction
-
-             (1)  If:
-
-                     (a)  apart from this subsection, this Part would operate so as to prevent or interfere with the exercise of the powers, or the performance of the functions or duties, of the government of a State; and
-
-                     (b)  that operation would be invalid because of the Constitution;
-
-this Part does not so operate.
-
-             (2)  If:
-
-                     (a)  apart from this subsection, this Part would operate so as to prevent or interfere with the exercise of the powers, or the performance of the functions or duties, of the government of the Australian Capital Territory or the Northern Territory; and
-
-                     (b)  that operation would be invalid because of the Constitution if it were assumed that the Territory were a State;
-
-this Part does not so operate.
-
-## 22  At the end of Part 3
-
-Add:
-
-##### <a id="17"></a>17  Transitional provisions—_Electronic Transactions Amendment Act 2011_
-
-             (1)  Regulations made under this Act before the commencement of section 7A and in force immediately before that commencement continue in force as if that section had been in force when they were made.
-
-             (2)  Subject to subsection (3):
-
-                     (a)  section 15B extends to proposals made before the commencement date; and
-
-                     (b)  section 15C extends to actions carried out before the commencement date; and
-
-                     (c)  section 15D extends to statements, declarations, demands, notices or requests, including offers and the acceptance of offers, made or given before the commencement date.
-
-             (3)  Subsection (2) and Part 2A do not apply in relation to contracts formed before the commencement date.
-
-             (4)  In subsections (2) and (3), **_commencement date_** means the date of commencement of Part 2A.
-
-As at 27 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
