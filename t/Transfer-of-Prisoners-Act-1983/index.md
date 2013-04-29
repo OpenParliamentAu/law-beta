@@ -1,7 +1,7 @@
 
 Transfer of Prisoners Act 1983
 Act No. 95 of 1983 as amended
-This compilation was prepared on 15 December 2001 taking into account amendments up to Act No. 24 of 2001
+This compilation was prepared on 15 November 2000  taking into account amendments up to Act No. 43 of 1996
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -19,10 +19,10 @@ Part II—Transfer for prisoner’s welfare	10
 7	Revocation of welfare transfer orders	10
 Part III—Transfer for purpose of trial	12
 8	Application for transfer to stand trial on charge in respect of offence against a law of the Commonwealth or a Territory	12
-9	Application for transfer to stand trial on charge in respect of offence against a law of a State	13
-10	Proceedings before court of summary jurisdiction	14
+9	Application for transfer to stand trial on charge in respect of offence against a law of a State	12
+10	Proceedings before court of summary jurisdiction	13
 11	Review of decision made upon application for trial transfer order	15
-12	Revocation of trial transfer orders	17
+12	Revocation of trial transfer orders	16
 13	Representation	17
 Part IV—Return of prisoner	19
 14	Return of prisoner	19
@@ -38,18 +38,17 @@ Part V—Effect of transfer order	25
 22	Territory sentences cease to have effect on transfer	31
 23	Federal sentences—reductions and remissions	31
 24	Royal prerogative of mercy	32
-Part VI—Miscellaneous	34
-25	Lawful custody of State prisoner in transit in Territory	34
-26	Escape of prisoners from lawful custody	34
-27	Escape charges may be dealt with in other courts	35
-28	State laws may make provision in relation to certain transfers of joint prisoners and State prisoners	35
-29	Delegation	35
-30	Operation of other laws	36
-31	Orders may be made in consequence of appeal or retrial	36
-32	Modification of Act in relation to certain external Territories	37
-33	Regulations	38
+Part VI—Miscellaneous	33
+25	Lawful custody of State prisoner in transit in Territory	33
+26	Escape of prisoners from lawful custody	33
+27	Escape charges may be dealt with in other courts	34
+28	State laws may make provision in relation to certain transfers of joint prisoners and State prisoners	34
+29	Delegation	34
+30	Operation of other laws	35
+31	Orders may be made in consequence of appeal or retrial	35
+32	Modification of Act in relation to certain external Territories	36
+33	Regulations	37
 Notes		39
-
 An Act to make provision for certain transfers of prisoners between the States and the Territories, and for related purposes
 Part I—Preliminary
   
@@ -394,7 +393,10 @@ then:
 27  Escape charges may be dealt with in other courts
 		Where a person is arrested and charged with:
 	(a)	an offence against section 47 of the Crimes Act 1914 in its application for the purposes of subsection 26(1) or (2) of this Act; or
-	(c)	an ancillary offence (within the meaning of the Criminal Code) that relates to an offence against section 47 of the Crimes Act 1914 in its application for the purposes of subsection 26(1) or (2) of this Act;
+	(b)	an offence against:
+	(i)	section 6, 7 or 7A of that Act; or
+	(ii)	subsection 86(1) of that Act by virtue of paragraph (a) of that subsection;
+		being an offence that relates to an offence against section 47 of that Act in its application for the purposes of subsection 26(1) or (2) of this Act;
 the court before which the person is brought, being a court in a State or Territory, may, subject to section 80 of the Constitution, remit the charge to be dealt with by a court in another State or Territory.
 28  State laws may make provision in relation to certain transfers of joint prisoners and State prisoners
 		It is the intention of the Parliament that, without limiting the generality of paragraph 30(e), this Act shall not apply to the exclusion of a law of a State in so far as that law makes provision:
@@ -442,7 +444,6 @@ and, in particular:
 Notes to the Transfer of Prisoners Act 1983
 Note 1
 The Transfer of Prisoners Act 1983 as shown in this compilation comprises Act No. 95, 1983 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information see Table A. 
 Table of Acts
 Act
 Number  and year
@@ -484,11 +485,6 @@ Statute Law Revision Act 1996
 25 Oct 1996
 Schedule 2 (item 112): (e)
 — 
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
-24, 2001
-6 Apr 2001
-S. 4(1), (2) and Schedule 48: (f) Schedule 51 (item 5): 15 Dec 2001 (f)
-S. 4(1) and (2) [see Table A]
 (a)	The Transfer of Prisoners Act 1983 was amended by Part XV (sections 117‑119) only of the Defence Legislation Amendment Act 1984, subsection 2(8) of which provides as follows:
 	(8)	Part XV shall come into operation, or shall be deemed to have come into operation, as the case requires, immediately after the commencement of the Transfer of Prisoners Act 1983.
 (b)	The Transfer of Prisoners Act 1983 was amended by sections 68‑73 only of the Crimes Legislation Amendment Act 1987, subsections 2(1) and (6) of which provide as follows:
@@ -504,11 +500,6 @@ S. 4(1) and (2) [see Table A]
 	(2)	Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 		Item 112 is taken to have commenced immediately after the commencement of the Transfer of Prisoners Act 1983.
 	The Transfer of Prisoners Act 1983 came into operation on 1 August 1984 (see Gazette 1984, No. S292).
-(f)	The Transfer of Prisoners Act 1983 was amended by Schedule 48 and Schedule 51 (item 5) only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsections 2(1)(a) and (3) of which provide as follows:
-	(1)	Subject to this section, this Act commences at the later of the following times:
-	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
-	(3)	Schedules 21 and 51 commence on the day mentioned in subsection 2.2(2) of the Criminal Code.
-	Item 15 commenced on 24 May 2001.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -531,16 +522,8 @@ S. 23
 am. No. 4, 1990; No. 182, 1994
 S. 24	
 am. No. 182, 1994
-S. 27	
-am. No. 24, 2001
 S. 29	
 am. No. 43, 1996
 S. 30	
 am. No. 166, 1992 
-Table A
-Application, saving or transitional provisions
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
-4  Application of amendments
-	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
