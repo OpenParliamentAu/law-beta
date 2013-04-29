@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00067/Html/NatWatComm2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00549/Html/NatWatComm2004_image001.gif)
 
 # National Water Commission Act 2004
 
 **Act No. 156 of 2004 as amended**
 
-This compilation was prepared on 3 March 2008 
+This compilation was prepared on 5 September 2007 
  taking into account amendments up to Act No. 138 of 2007
 
 [**Note:** This Act ceases to be in force on 30 June 2012, _see_ section 39]
@@ -220,7 +220,7 @@ General functions
 
                      (e)  to advise the Commonwealth or COAG, where relevant, on whether a State or Territory is implementing its commitments under any agreement (other than the NWI or the COAG Water Reform Framework) between the Commonwealth and the State or Territory relating to the management and regulation of Australia’s water resources, if the agreement provides for the NWC to have this function;
 
-                      (f)  any other function conferred by another law of the Commonwealth or prescribed by the regulations.
+                      (f)  any other function prescribed by the regulations.
 
 Specific functions relating to implementing the NWI
 
@@ -808,44 +808,25 @@ of Assent</div>
     <div>3 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 3 Mar 2008 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (item 5): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_Water (Consequential Amendments) Act 2007 (No. 138, 2007)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 138, 2007</div>
-  </td>
-</tr></table>
+The following amendment commences on 3 March 2008 unless proclaimed earlier:
+
+## Schedule 1
+
+## 5  Paragraph 7(1)(f)
+
+After “function”, insert “conferred by another law of the Commonwealth or”.
+
+As at 5 September 2007 the amendment is not incorporated in this compilation.
 
  
