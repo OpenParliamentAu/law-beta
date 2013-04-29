@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00475/Html/InsGenIntSec1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00381/Html/InsGenIntSec1986_WD02_image001.gif)
 
 # Inspector-General of Intelligence and Security Act 1986
 
 **Act No. 101 of 1986 as amended**
 
-This compilation was prepared on 12 October 2009
- taking into account amendments up to Act No. 99 of 2009
+This compilation was prepared on 5 August 2009
+ taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -703,7 +703,7 @@ Note:          The Inspector-General may only disclose tax inf
 
 ## Part III—Administrative Provisions
 
-##### <a id="26"></a>26  Terms and conditions of appointment
+##### <a id="26"></a>26  Terms and conditions of appointment
 
              (1)  The Inspector-General holds office for such period, not exceeding 5 years, as is specified in the instrument of appointment but, subject to subsection (2), is eligible for re-appointment.
 
@@ -825,59 +825,33 @@ a person is not liable to an action, suit or proceeding in respect of loss, dama
 
              (1)  Subject to subsection (1A), a person who is, or has at any time been, the Inspector-General or a member of the staff of the Inspector-General or who is acting, or has at any time acted, as the Inspector-General or as a member of the staff of the Inspector-General shall not, either directly or indirectly, except in the performance of his or her functions or duties or in the exercise of his or her powers under this Act:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information acquired under this Act by reason of the person holding, or acting in, that office; or
+                     (a)  make a record of, or divulge or communicate to any person, any information acquired by reason of the person holding, or acting in, that office; or
 
                      (b)  make use of any such information.
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
-       (1AA)  Subject to subsection (1A), a person who is, or has at any time been, the Inspector-General or a member of the staff of the Inspector-General or who is acting, or has at any time acted, as the Inspector-General or as a member of the staff of the Inspector-General must not, either directly or indirectly, except in the performance of his or her functions or duties or in the exercise of his or her powers under section 60A of the _Freedom of Information Act 1982_:
+          (1A)  Subsection (1) does not apply if the Inspector-General:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information acquired under that section by reason of the person holding, or acting in, that office; or
+                     (a)  believed on reasonable grounds that the making of the record, or the divulging, communicating or use of the information (the **_conduct_**) by the person mentioned in subsection (1) is necessary for the purpose of preserving the well-being or safety of another person; and
 
-                     (b)  make use of any such information.
+                     (b)  authorised the person mentioned in subsection (1) to engage in the conduct for that purpose.
 
-                    Penalty:  $5,000 or imprisonment for 2 years, or both.
+             (2)  An offence against subsection (1) is an indictable offence.
 
-        (1AB)  Subject to subsection (1A), a person who is, or has at any time been, the Inspector-General or a member of the staff of the Inspector-General or who is acting, or has at any time acted, as the Inspector-General or as a member of the staff of the Inspector-General must not, either directly or indirectly, except in the performance of his or her functions or duties or in the exercise of his or her powers under section 50A of the _Archives Act 1983_:
+             (3)  Notwithstanding that an offence against subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is appropriate to do so and the defendant and the prosecutor consent.
 
-                     (a)  make a record of, or divulge or communicate to any person, any information acquired under that section by reason of the person holding, or acting in, that office; or
+             (4)  Where, in accordance with subsection (3), a court of summary jurisdiction convicts a person of an offence against subsection (1), the penalty that the court may impose is a fine not exceeding $2,000 or imprisonment for a period not exceeding one year, or both.
 
-                     (b)  make use of any such information.
-
-                    Penalty:  $5,000 or imprisonment for 2 years, or both.
-
-          (1A)  Subsections (1), (1AA) and (1AB) do not apply if the Inspector-General:
-
-                     (a)  believed on reasonable grounds that the making of the record, or the divulging, communicating or use of the information (the **_conduct_**) by the person mentioned in the subsection is necessary for the purpose of preserving the well-being or safety of another person; and
-
-                     (b)  authorised the person mentioned in the subsection to engage in the conduct for that purpose.
-
-             (2)  An offence against subsection (1), (1AA) or (1AB) is an indictable offence.
-
-             (3)  Notwithstanding that an offence against subsection (1), (1AA) or (1AB) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is appropriate to do so and the defendant and the prosecutor consent.
-
-             (4)  Where, in accordance with subsection (3), a court of summary jurisdiction convicts a person of an offence against subsection (1), (1AA) or (1AB), the penalty that the court may impose is a fine not exceeding $2,000 or imprisonment for a period not exceeding one year, or both.
-
-             (5)  A person who is, or has at any time been, the Inspector-General or a member of the staff of the Inspector-General or who is acting, or has at any time acted, as the Inspector-General or as a member of the staff of the Inspector-General must not be required to:
-
-                     (a)  produce in a court any document of which the person has custody, or to which the person has access, because the person is performing functions or duties or exercising powers under this Act, section 60A of the _Freedom of Information Act 1982_ or section 50A of the _Archives Act 1983_; or
-
-                     (b)  divulge or communicate to a court any information obtained by the person because the person is performing those functions or duties or exercising those powers;
-
-except where it is necessary to do so:
-
-                     (c)  if the information is obtained by the person because the person is performing functions or duties or exercising powers under this Act—for the purposes of this Act; and
-
-                     (d)  if the information is obtained by the person because the person is performing functions or duties or exercising powers under section 60A of the _Freedom of Information Act 1982_—for the purposes of that section; and
-
-                     (e)  if the information is obtained by the person because the person is performing functions or duties or exercising powers under section 50A of the _Archives Act 1983_—for the purposes of that section.
+             (5)  A person who is, or has at any time been, the Inspector-General or a member of the staff of the Inspector-General or who is acting, or has at any time acted, as the Inspector-General or as a member of the staff of the Inspector-General shall not be required to produce in a court any document of which the person has custody, or to which the person has access, by reason of the person’s office or employment under or for the purposes of this Act, or to divulge or communicate to a court any information obtained by the person by reason of that office or employment, except where it is necessary to do so for the purposes of this Act.
 
              (6)  In this section:
 
                     <a name="court"></a>**_court_** includes any tribunal, authority or person having power to require the production of documents or the answering of questions.
 
                     <a name="produc"></a>**_produce_** includes permit access to.
+
+             (7)  A reference in this section to information or a document shall be read as a reference to information or a document supplied for the purposes of this Act.
 
 ##### <a id="34A"></a>34A  Information and documents may be given to Royal Commissioners
 
@@ -1215,126 +1189,111 @@ Remainder: 24 May 2001</div>
     <div>S. 4 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Age Discrimination (Consequential Provisions) Act 2004</div>
-  </td>
-  <td>
-    <div>40, 2004</div>
-  </td>
-  <td>
-    <div>21 Apr 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 9–11): 23 June 2004 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Intelligence Services Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>128, 2005</div>
-  </td>
-  <td>
-    <div>4 Nov 2005</div>
-  </td>
-  <td>
-    <div>Schedules 1–8: 2 Dec 2005 
+<thead>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Age Discrimination (Consequential Provisions) Act 2004</div>
+    </td>
+    <td>
+      <div>40, 2004</div>
+    </td>
+    <td>
+      <div>21 Apr 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 9–11): 23 June 2004 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Intelligence Services Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>128, 2005</div>
+    </td>
+    <td>
+      <div>4 Nov 2005</div>
+    </td>
+    <td>
+      <div>Schedules 1–8: 2 Dec 2005 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
-  </td>
-  <td>
-    <div>170, 2006</div>
-  </td>
-  <td>
-    <div>12 Dec 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 149, 150): 13 Dec 2006 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>52, 2007</div>
-  </td>
-  <td>
-    <div>12 Apr 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 62, 69): 13 Apr 2007</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 69) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Disability Discrimination and Other Human Rights Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>70, 2009</div>
-  </td>
-  <td>
-    <div>8 July 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 93–100) and Schedule 3 (items 40–42): 5 Aug 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information (Removal of Conclusive Certificates and Other Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>99, 2009</div>
-  </td>
-  <td>
-    <div>6 Oct 2009</div>
-  </td>
-  <td>
-    <div>Schedule 4: 7 Oct 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+    </td>
+    <td>
+      <div>170, 2006</div>
+    </td>
+    <td>
+      <div>12 Dec 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 149, 150): 13 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007</div>
+    </td>
+    <td>
+      <div>52, 2007</div>
+    </td>
+    <td>
+      <div>12 Apr 2007</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 62, 69): 13 Apr 2007</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 69) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Disability Discrimination and Other Human Rights Legislation Amendment Act 2009</div>
+    </td>
+    <td>
+      <div>70, 2009</div>
+    </td>
+    <td>
+      <div>8 July 2009</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 93–100) and Schedule 3 (items 40–42): 5 Aug 2009</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     The _Inspector-General of Intelligence and Security Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(20) of which provides as follows:
 
@@ -1720,7 +1679,7 @@ _(f)_      The _Inspector-General of Intelligence and Security Act 198
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 99, 2009</div>
+    <div>am. No. 161, 1999</div>
   </td>
 </tr>
 <tr>
