@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00450/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00084/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
 
 # Financial Sector (Business Transfer and Group Restructure) Act 1999
 
 **Act No. 45 of 1999 as amended**
 
-This compilation was prepared on 6 July 2010
- taking into account amendments up to Act No. 82 of 2010
+This compilation was prepared on 27 February 2010
+ taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,177 +18,177 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Additional operation of Act                                                                1
+[3](#3).            Additional operation of Act
 
-[4](#4).            Definitions                                                                                           1
+[4](#4).            Definitions
 
-[5](#5).            Act binds the Crown                                                                           5
+[5](#5).            Act binds the Crown
 
-[6](#6).            External Territories                                                                              5
+[6](#6).            External Territories
 
-[7](#7).            Application of _Criminal Code_                                                             5
+[7](#7).            Application of _Criminal Code_
 
-[7A](#7A).         Application of sections 8 and 8A of the APRA Act                          5
+[7A](#7A).         Application of sections 8 and 8A of the APRA Act
 
 **Part 2—Overview of Act**
 
-[8](#8).            Overview of Act                                                                                  6
+[8](#8).            Overview of Act
 
 **Part 3—Voluntary transfers** 
 
     **Division 1—Outline of Part**
 
-[9](#9).            Outline of Part                                                                                     8
+[9](#9).            Outline of Part
 
     **Division 2—Approval of voluntary transfers**
 
-[10](#10).          Application for approval of voluntary transfer                                  9
+[10](#10).          Application for approval of voluntary transfer
 
-[11](#11).          Approval of applications                                                                    9
+[11](#11).          Approval of applications
 
-[12](#12).          Consultation about approving the application                                  10
+[12](#12).          Consultation about approving the application
 
-[13](#13).          Adequate adoption                                                                            11
+[13](#13).          Adequate adoption
 
-[14](#14).          Complementary State or Territory legislation                                   11
+[14](#14).          Complementary State or Territory legislation
 
-[15](#15).          Minister’s power to decide that his or her consent is not required   12
+[15](#15).          Minister’s power to decide that his or her consent is not required
 
-[16](#16).          Approval may impose conditions                                                     12
+[16](#16).          Approval may impose conditions
 
-[17](#17).          Notice of decision                                                                              13
+[17](#17).          Notice of decision
 
     **Division 3—Process by which voluntary transfers take effect**
 
-[18](#18).          Certificate of transfer                                                                         14
+[18](#18).          Certificate of transfer
 
-[19](#19).          Partial transfer—statement of detail to be provided                         15
+[19](#19).          Partial transfer—statement of detail to be provided
 
-[20](#20).          Agreements about matters connected with the transfer                    15
+[20](#20).          Agreements about matters connected with the transfer
 
-[21](#21).          Notice of decision                                                                              15
+[21](#21).          Notice of decision
 
-[22](#22).          Time and effect of voluntary transfer                                                15
+[22](#22).          Time and effect of voluntary transfer
 
-[23](#23).          Employment unaffected                                                                    18
+[23](#23).          Employment unaffected
 
 **Part 4—Compulsory transfers** 
 
     **Division 1—Outline of Part**
 
-[24](#24).          Outline of Part                                                                                   19
+[24](#24).          Outline of Part
 
     **Division 2—Compulsory transfer determinations**
 
-[25](#25).          Compulsory transfer determinations                                                 20
+[25](#25).          Compulsory transfer determinations
 
-[25A](#25A).       Ministerial declaration that transfer should occur from ADI            23
+[25A](#25A).       Ministerial declaration that transfer should occur from ADI
 
-[26](#26).          Consultation about making the determination                                   23
+[26](#26).          Consultation about making the determination
 
-[27](#27).          When consent of receiving body is in force                                       24
+[27](#27).          When consent of receiving body is in force
 
-[28](#28).          Complementary State or Territory legislation                                   24
+[28](#28).          Complementary State or Territory legislation
 
-[29](#29).          Minister’s power to decide that his or her consent is not required   25
+[29](#29).          Minister’s power to decide that his or her consent is not required
 
-[30](#30).          Agreements about matters connected with the transfer                    25
+[30](#30).          Agreements about matters connected with the transfer
 
-[31](#31).          Determination may impose conditions                                              26
+[31](#31).          Determination may impose conditions
 
-[32](#32).          Notice of determination                                                                     27
+[32](#32).          Notice of determination
 
     **Division 3—Process by which compulsory transfers take effect**
 
-[33](#33).          Certificate of transfer                                                                         28
+[33](#33).          Certificate of transfer
 
-[34](#34).          Notice of certificate                                                                           29
+[34](#34).          Notice of certificate
 
-[35](#35).          Time and effect of compulsory  transfer                                            29
+[35](#35).          Time and effect of compulsory  transfer
 
-[36](#36).          Employment unaffected                                                                    31
+[36](#36).          Employment unaffected
 
     **Division 4—Effect of compulsory transfer on contracts**
 
-[36AA](#36AA).    Compulsory transfer not ground for denying obligation                   32
+[36AA](#36AA).    Compulsory transfer not ground for denying obligation
 
 **Part 4A—Restructures** 
 
     **Division 1—Outline of Part**
 
-[36A](#36A).       Outline of Part                                                                                   33
+[36A](#36A).       Outline of Part
 
     **Division 2—Restructure approvals**
 
-[36B](#36B).       Restructure approvals—application                                                 34
+[36B](#36B).       Restructure approvals—application
 
-[36C](#36C).       Restructure approvals—issued by Minister                                     34
+[36C](#36C).       Restructure approvals—issued by Minister
 
-[36D](#36D).       Restructure approvals—consultation                                                35
+[36D](#36D).       Restructure approvals—consultation
 
-[36E](#36E).        Restructure approvals—conditions                                                   35
+[36E](#36E).        Restructure approvals—conditions
 
-[36F](#36F).        Restructure approvals—notice of decision                                       36
+[36F](#36F).        Restructure approvals—notice of decision
 
     **Division 3—Restructure instruments**
 
-[36G](#36G).       What is a _restructure instrument_?                                                      37
+[36G](#36G).       What is a _restructure instrument_?
 
-[36H](#36H).       Restructure instruments—coming into force                                     37
+[36H](#36H).       Restructure instruments—coming into force
 
-[36J](#36J).        Restructure instruments—legal effect                                               38
+[36J](#36J).        Restructure instruments—legal effect
 
-[36K](#36K).       Restructure instruments—amendment                                              38
+[36K](#36K).       Restructure instruments—amendment
 
     **Division 4—Internal transfer certificates**
 
-[36L](#36L).        What is an _internal transfer certificate_?                                             39
+[36L](#36L).        What is an _internal transfer certificate_?
 
-[36M](#36M).      Internal transfer certificates—issue                                                   39
+[36M](#36M).      Internal transfer certificates—issue
 
-[36N](#36N).       Internal transfer certificates—notice of decision                               40
+[36N](#36N).       Internal transfer certificates—notice of decision
 
-[36P](#36P).        Internal transfer certificates—amendment                                         40
+[36P](#36P).        Internal transfer certificates—amendment
 
-[36Q](#36Q).       Internal transfer certificates—coming into force                               42
+[36Q](#36Q).       Internal transfer certificates—coming into force
 
-[36R](#36R).       Internal transfer certificates—legal effect                                          43
+[36R](#36R).       Internal transfer certificates—legal effect
 
     **Division 5—Engagements of employees and contractors**
 
-[36S](#36S).        Employment and contracts for services unaffected                           44
+[36S](#36S).        Employment and contracts for services unaffected
 
 **Part 5—Evidentiary certificates**
 
-[37](#37).          Certificates evidencing operation of Act etc                                      45
+[37](#37).          Certificates evidencing operation of Act etc 
 
-[38](#38).          Certificates in relation to land and interests in land                           45
+[38](#38).          Certificates in relation to land and interests in land
 
-[39](#39).          Certificates in relation to other assets                                               46
+[39](#39).          Certificates in relation to other assets
 
-[40](#40).          Documents purporting to be certificates                                           46
+[40](#40).          Documents purporting to be certificates
 
 **Part 6—Miscellaneous**
 
-[41](#41).          Information gathering powers                                                            47
+[41](#41).          Information gathering powers
 
-[42](#42).          Compulsory transfer—APRA may provide information to receiving body           48
+[42](#42).          Compulsory transfer—APRA may provide information to receiving body
 
-[43](#43).          Relationship of Act with other laws etc                                            48
+[43](#43).          Relationship of Act with other laws etc 
 
-[44](#44).          Compensation for acquisition of property                                        50
+[44](#44).          Compensation for acquisition of property
 
-[45](#45).          Review of decisions                                                                           51
+[45](#45).          Review of decisions
 
-[46](#46).          Transfer rules                                                                                     51
+[46](#46).          Transfer rules
 
-[47](#47).          Regulations                                                                                        52
+[47](#47).          Regulations
 
 **Notes** 
 
@@ -346,7 +346,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The _Criminal Code_ applies to all offences against this Act.
 
-##### <a id="7A"></a>7A  Application of sections 8 and 8A of the APRA Act
+##### <a id="7A"></a>7A  Application of sections 8 and 8A of the APRA Act
 
 To avoid doubt, sections 8 and 8A of the _Australian Prudential Regulation Authority Act 1998_(which deal with APRA’s objectives and trans-Tasman cooperation respectively) apply to the performance of functions and the exercise of powers by APRA under this Act.
 
@@ -768,7 +768,7 @@ Transfer from one life insurance company to another
 
                              (ii)  APRA has given the transferring body a written notice under subsection 139(1) of the _Life Insurance Act 1995_ stating that APRA proposes to investigate life insurance business of the body; or
 
-                            (iii)  a judicial manager of the transferring body has recommended, under subsection 175(2) of the _Life Insurance Act 1995_, that the business or part of the business of the body be transferred to another company; and
+                            (iii)  a judicial manager of the transferring body has recommended, in accordance with subsection 175(2) of the _Life Insurance Act 1995_, that a compulsory transfer determination be made in relation to the body; and
 
                      (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to their interests, it would be appropriate for the transfer to be made; and
 
@@ -1000,9 +1000,9 @@ the receiving body is, on and after the day when the certificate comes into forc
 
 Note:          Alternative ways of dealing with substitution of parties (which are available for total or partial transfers) are:
 
-(a)    to deal with the matter in the certificate of transfer (see subsection (2)); or
+(a)           to deal with the matter in the certificate of transfer (see subsection (2)); or
 
-(b)    to deal with the matter in an approved section 30 statement (see subsection (3)).
+(b)           to deal with the matter in an approved section 30 statement (see subsection (3)).
 
              (5)  Subject to subsections (2) and (3), if:
 
@@ -1014,9 +1014,9 @@ that evidence is admissible, on or at any time after that day, for or against th
 
 Note:          Alternative ways of dealing with admissibility of evidence (which are available for total or partial transfers) are:
 
-(a)    to deal with the matter in the certificate of transfer (see subsection (2)); or
+(a)           to deal with the matter in the certificate of transfer (see subsection (2)); or
 
-(b)    to deal with the matter in an approved section 30 statement (see subsection (3)).
+(b)           to deal with the matter in an approved section 30 statement (see subsection (3)).
 
              (6)  Subject to subsections (2) and (3), if the transfer is a total transfer, on and after the day when the certificate comes into force, each translated instrument continues to have effect, according to its tenor, as if a reference in the instrument to the transferring body were a reference to the receiving body. For this purpose:
 
@@ -1032,17 +1032,17 @@ Note:          Alternative ways of dealing with admissibility 
 
 Note:          Alternative ways of dealing with references in instruments (which are available for total or partial transfers) are:
 
-(a)    to deal with the matter in the certificate of transfer (see subsection (2)); or
+(a)           to deal with the matter in the certificate of transfer (see subsection (2)); or
 
-(b)    to deal with the matter in an approved section 30 statement (see subsection (3)).
+(b)           to deal with the matter in an approved section 30 statement (see subsection (3)).
 
              (7)  Subject to subsections (2) and (3), on and after the day when the certificate comes into force, a place that, immediately before that day, was a place of business for the transferring body in relation to business that was transferred to the receiving body is taken to be a place of business for the receiving body.
 
 Note:          Alternative ways of dealing with places of business are:
 
-(a)    to deal with the matter in the certificate of transfer (see subsection (2)); or
+(a)           to deal with the matter in the certificate of transfer (see subsection (2)); or
 
-(b)    to deal with the matter in an approved section 30 statement (see subsection (3)).
+(b)           to deal with the matter in an approved section 30 statement (see subsection (3)).
 
 ##### <a id="36"></a>36  Employment unaffected
 
@@ -1202,17 +1202,13 @@ Amendment or revocation of conditions
 
 Note 1:       Division 1 of Part 2J.1 of the _Corporations Act 2001_ deals with restrictions in share capital. Part 2J.2 of that Act deals with self-acquisition and control of shares.
 
-Note 2:       Section 254T of that Act provides that dividends may only be paid if:
-
-(a)    the company’s assets are sufficiently in excess of its liabilities immediately before the dividend is declared; and
-
-(b)    the payment of the dividend is fair and reasonable to the company’s shareholders as a whole and does not materially prejudice the company’s ability to pay its creditors.
+Note 2:       Section 254T of that Act provides that dividends may only be paid out of the profits of a company.
 
 Note 3:       For the legal effect of the instrument, see section 36J.
 
              (3)  A restructure instrument is not a legislative instrument.
 
-##### <a id="36H"></a>36H  Restructure instruments—coming into force
+##### <a id="36H"></a>36H  Restructure instruments—coming into force
 
              (1)  A restructure instrument comes into force only if:
 
@@ -1826,10 +1822,10 @@ Royal Assent</div>
     <div>17 Oct 2008</div>
   </td>
   <td>
-    <div>Schedule 5: 18 Oct 2008</div>
+    <div>Schedule 5: 18 Oct 2008</div>
   </td>
   <td>
-    <div>Sch. 5 (item 19)</div>
+    <div>Sch. 5 (item 19)</div>
   </td>
 </tr>
 <tr>
@@ -1840,7 +1836,7 @@ Royal Assent</div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td>
     <div>Schedule 18 (item 4): <i>(c)</i></div>
@@ -1860,42 +1856,7 @@ Royal Assent</div>
     <div>27 Aug 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 202): 27 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations Amendment (Corporate Reporting Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>66, 2010</div>
-  </td>
-  <td>
-    <div>28 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 55): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>82, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 4): 30 June 2010 
-Schedule 4 (items 5, 6): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 1 (item 202): 27 Feb 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -2042,7 +2003,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -2100,7 +2061,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 42, 2003; No. 101, 2006; No. 117, 2007; No. 105, 2008; No. 75, 2009</div>
+    <div>am. No. 55, 2001; No. 42, 2003; No. 101, 2006; No. 117, 2007; No. 105, 2008; No. 75, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2124,7 +2085,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 117, 2007; No. 105, 2008</div>
+    <div>am. No. 117, 2007; No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2172,7 +2133,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 105, 2008</div>
+    <div>am. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2188,7 +2149,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>Subhead. to s. 25(2)</div>
   </td>
   <td>
-    <div>ad. No. 105, 2008</div>
+    <div>ad. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2196,7 +2157,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>Subhead. to s. 25(3)</div>
   </td>
   <td>
-    <div>ad. No. 105, 2008</div>
+    <div>ad. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2204,7 +2165,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 105, 2008; No. 82, 2010</div>
+    <div>am. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2212,7 +2173,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 25A</div>
   </td>
   <td>
-    <div>ad. No. 105, 2008</div>
+    <div>ad. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2225,10 +2186,10 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Div. 4 of Part 4</div>
+    <div>Div. 4 of Part 4</div>
   </td>
   <td>
-    <div>ad. No. 105, 2008</div>
+    <div>ad. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2236,7 +2197,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 36AA</div>
   </td>
   <td>
-    <div>ad. No. 105, 2008</div>
+    <div>ad. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2297,23 +2258,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 36G</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 36G(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 66, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36H</div>
+    <div>Ss. 36G, 36H</div>
   </td>
   <td>
     <div>ad. No. 117, 2007</div>
@@ -2404,7 +2349,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 117, 2007; No. 105, 2008; No. 54, 2009</div>
+    <div>am. No. 117, 2007; No. 105, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2412,7 +2357,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 105, 2008</div>
+    <div>am. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2431,78 +2376,6 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>am. No. 154, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010 (No. 82, 2010)_
-
-The following amendments commence on 27 July 2010:
-
-## Schedule 4
-
-## 5  After subsection 25(1C)
-
-Insert:
-
-Transfer of unregulated business from life insurance company
-
-          (1D)  APRA may make a written determination that there is to be a transfer of only the business that is not regulated business from a life insurance company to a body corporate that is not an insurance company or life insurance company if, and only if:
-
-                     (a)  APRA is satisfied that:
-
-                              (i)  the transferring body has contravened the _Life Insurance Act 1995_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
-
-                             (ii)  APRA has given the transferring body a written notice under subsection 139(1) of the _Life Insurance Act 1995_ stating that APRA proposes to investigate life insurance business of the body; or
-
-                            (iii)  a judicial manager of the transferring body has recommended, under subsection 175(2) of the _Life Insurance Act 1995_, that the business or part of the business of the body be transferred to another company; or
-
-                            (iv)  APRA has made a determination under subsection (1C) for the transfer of some or all of the transferring body’s regulated business to another life insurance company (whether or not the transfer has yet happened); and
-
-                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to those interests, it would be appropriate for the transfer to be made; and
-
-                     (c)  the conditions in subsection (2) exist.
-
-Transfer of business from general insurer
-
-           (1E)  APRA may make a written determination that there is to be a transfer of business from one general insurer to another general insurer, other than a transfer only of business of the transferring body that is not regulated business, if, and only if:
-
-                     (a)  APRA is satisfied that:
-
-                              (i)  the transferring body has contravened the _Insurance Act 1973_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
-
-                             (ii)  APRA has served on the transferring body a written notice under subsection 52(4) of the _Insurance Act 1973_ specifying matters into which an investigation under section 52 of that Act is to be made; or
-
-                            (iii)  a judicial manager of the transferring body has recommended, under section 62ZI of the _Insurance Act 1973_, that the body’s business be transferred to another general insurer; and
-
-                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to those interests, it would be appropriate for the transfer to be made; and
-
-                     (c)  APRA is satisfied that the transfer is appropriate, having regard to the interests of policy owners of the receiving body when viewed as a group; and
-
-                     (d)  the conditions in subsection (2) exist.
-
-Transfer of unregulated business from general insurer
-
-           (1F)  APRA may make a written determination that there is to be a transfer of only the business that is not regulated business from a general insurer to a body corporate that is not an insurance company or life insurance company if, and only if:
-
-                     (a)  APRA is satisfied that:
-
-                              (i)  the transferring body has contravened the _Insurance Act 1973_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
-
-                             (ii)  APRA has served on the transferring body a written notice under subsection 52(4) of the _Insurance Act 1973_ specifying matters into which an investigation under section 52 of that Act is to be made; or
-
-                            (iii)  a judicial manager of the transferring body has recommended, under section 62ZI of the _Insurance Act 1973_, that the body’s business be transferred to another general insurer; or
-
-                            (iv)  APRA has made a determination under subsection (1E) for the transfer of some or all of the transferring body’s regulated business to another general insurer (whether or not the transfer has yet happened); and
-
-                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to those interests, it would be appropriate for the transfer to be made; and
-
-                     (c)  the conditions in subsection (2) exist.
-
-## 6  Subsection 36C(4) (paragraph (b) of the definition of _prudential requirements_)
-
-Omit “section 360A”, substitute “section 230A”.
-
-As at 6 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
