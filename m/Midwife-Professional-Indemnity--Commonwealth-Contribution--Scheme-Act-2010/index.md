@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00490/Html/e5958090-76f3-42b4-95df-14a92b81dfb7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00421/Html/7cecfb70-ff45-40ef-b58a-be3fdb99a5da_files/image001.gif)
 
 # Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010
 
 **Act No. 30 of 2010 as amended**
 
-This compilation was prepared on 1 July 2011
- taking into account amendments up to Act No. 47 of 2011
+This compilation was prepared on 6 June 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -60,13 +60,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Certification**
 
-[11](#11).          When may the Chief Executive Medicare certify a claim as a qualifying claim?
+[11](#11).          When may the Medicare Australia CEO certify a claim as a qualifying claim?
 
 [12](#12).          Application for a qualifying claim certificate
 
 [13](#13).          Time by which an application must be decided
 
-[14](#14).          Obligation to notify the Chief Executive Medicare if information is incorrect or incomplete
+[14](#14).          Obligation to notify the Medicare Australia CEO if information is incorrect or incomplete
 
 [15](#15).          Revocation and variation of qualifying claim certificates
 
@@ -98,9 +98,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Amounts paid after payment of Level 2 Commonwealth contribution
 
-[26](#26).          Obligation to notify the Chief Executive Medicare that amount has been paid
+[26](#26).          Obligation to notify the Medicare Australia CEO that amount has been paid
 
-[27](#27).          The Chief Executive Medicare to notify of amount of debt due
+[27](#27).          The Medicare Australia CEO to notify of amount of debt due
 
 [28](#28).          Penalty imposed if an amount is repaid late
 
@@ -128,9 +128,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [37](#37).          Amounts paid after payment of run‑off cover Commonwealth contribution
 
-[38](#38).          Obligation to notify the Chief Executive Medicare that amount has been paid
+[38](#38).          Obligation to notify the Medicare Australia CEO that amount has been paid
 
-[39](#39).          The Chief Executive Medicare to notify of amount of debt due
+[39](#39).          The Medicare Australia CEO to notify of amount of debt due
 
 [40](#40).          Penalty imposed if an amount is repaid late
 
@@ -148,7 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 5—Miscellaneous**
 
-[46](#46).          Chief Executive Medicare must be notified of a person ceasing to be covered by the midwife run‑off cover provisions
+[46](#46).          Medicare Australia CEO must be notified of a person ceasing to be covered by the midwife run‑off cover provisions
 
 [47](#47).          Invoices for midwife professional indemnity cover
 
@@ -164,15 +164,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Apportionment certificates**
 
-[51](#51).          When may the Chief Executive Medicare issue an apportionment certificate in relation to a claim? [_see_ Note 2]
+[51](#51).          When may the Medicare Australia CEO issue an apportionment certificate in relation to a claim?
 
-[52](#52).          Chief Executive Medicare must not issue an apportionment certificate in certain situations relating to court judgments or orders
+[52](#52).          Medicare CEO must not issue an apportionment certificate in certain situations relating to court judgments or orders
 
 [53](#53).          Applications for apportionment certificates
 
 [54](#54).          Time by which an application must be decided
 
-[55](#55).          Obligation to notify the Chief Executive Medicare if information is incorrect or incomplete
+[55](#55).          Obligation to notify the Medicare Australia CEO if information is incorrect or incomplete
 
 [56](#56).          Revocation and variation of apportionment certificates
 
@@ -190,7 +190,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Information gathering and record keeping**
 
-[62](#62).          Chief Executive Medicare may request information
+[62](#62).          Medicare Australia CEO may request information
 
 [63](#63).          Main record keeping obligations
 
@@ -198,7 +198,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [64](#64).          Recovery of overpayments
 
-[65](#65).          Chief Executive Medicare may collect money from a person who owes money to a person
+[65](#65).          Medicare Australia CEO may collect money from a person who owes money to a person
 
     **Division 6—Offences**
 
@@ -240,15 +240,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [79](#79).          Recovery of payment debt
 
-[80](#80).          Chief Executive Medicare may collect money from a person who owes money to a person
+[80](#80).          Medicare Australia CEO may collect money from a person who owes money to a person
 
 [81](#81).          Evidentiary certificates
 
 **Part 3—Information gathering provisions**
 
-[82](#82).          Chief Executive Medicare may request information
+[82](#82).          Medicare Australia CEO may request information
 
-[83](#83).          Chief Executive Medicare must be notified of a change in circumstances etc 
+[83](#83).          Medicare Australia CEO must be notified of a change in circumstances etc 
 
 [84](#84).          Failing to give information
 
@@ -258,7 +258,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [86](#86).          General administration of this Act and _Midwife Professional Indemnity (Run‑off Cover Support Payment) Act 2010_
 
-[87](#87).          Additional functions of the Chief Executive Medicare
+[87](#87).          Additional functions of the Medicare Australia CEO
 
 [88](#88).          Officers to observe secrecy
 
@@ -278,7 +278,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ### Division 1—Preliminary
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;font-weight: normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_.
 
@@ -328,9 +328,7 @@ General
 
                     <a name="affected-elig-midwif"></a>**_affected eligible midwife_** has the meaning given by section 42.
 
-                    <a name="apportion-certif"></a>**_apportionment certificate_** means an apportionment certificate issued by the Chief Executive Medicare under subsection 51(1).
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+                    <a name="apportion-certif"></a>**_apportionment certificate_** means an apportionment certificate issued by the Medicare Australia CEO under subsection 51(1).
 
                     <a name="claim"></a>**_claim_**:
 
@@ -410,7 +408,7 @@ Note:          Subsection (6) gives this definition an exten
 
                     <a name="level-commonwealth-contribut"></a>**_Level 1 Commonwealth contribution_** means a Level 1 Commonwealth contribution paid or payable under Subdivision A of Division 3 of Part 2 of Chapter 2.
 
-                    <a name="level-qualifi-claim-certif"></a>**_Level 1 qualifying claim certificate_** means a Level 1 qualifying claim certificate issued by the Chief Executive Medicare under subsection 11(1).
+                    <a name="level-qualifi-claim-certif"></a>**_Level 1 qualifying claim certificate_** means a Level 1 qualifying claim certificate issued by the Medicare Australia CEO under subsection 11(1).
 
                     <a name="level-termin-date"></a>**_Level 1 termination date_** means the date specified in Rules made under subsection 7(1).
 
@@ -418,11 +416,13 @@ Note:          Subsection (6) gives this definition an exten
 
                     <a name="level-commonwealth-contribut"></a>**_Level 2 Commonwealth contribution_** means a Level 2 Commonwealth contribution paid or payable under Subdivision B of Division 3 of Part 2 of Chapter 2.
 
-                    <a name="level-qualifi-claim-certif"></a>**_Level 2 qualifying claim certificate_** means a Level 2 qualifying claim certificate issued by the Chief Executive Medicare under subsection 11(2).
+                    <a name="level-qualifi-claim-certif"></a>**_Level 2 qualifying claim certificate_** means a Level 2 qualifying claim certificate issued by the Medicare Australia CEO under subsection 11(2).
 
                     <a name="level-termin-date"></a>**_Level 2 termination date_** means the date specified in Rules made under subsection 7(2).
 
                     <a name="mical-practition"></a>**_medical practitioner_** means a person registered or licensed as a medical practitioner under a State or Territory law that provides for the registration or licensing of medical practitioners.
+
+                    <a name="micar-australia-ceo"></a>**_Medicare Australia CEO_** means the Chief Executive Officer of Medicare Australia.
 
                     <a name="midwif-profession-indemn-cover"></a>**_midwife professional indemnity cover_**: a contract of insurance provides midwife professional indemnitycover for a person if:
 
@@ -605,8 +605,7 @@ Eligible midwives
     <div>2</div>
   </td>
   <td>
-    <div>when may the Chief Executive Medicare certify a claim as a qualifying
-      claim?</div>
+    <div>when may the Medicare CEO certify a claim as a qualifying claim?</div>
   </td>
   <td>
     <div>section 11</div>
@@ -719,7 +718,7 @@ Eligible midwives
     <div>13</div>
   </td>
   <td>
-    <div>what information has to be given to the Chief Executive Medicare?</div>
+    <div>what information has to be given to the Medicare Australia CEO?</div>
   </td>
   <td>
     <div>section 62</div>
@@ -779,11 +778,11 @@ Note:          Claims cannot be aggregated to reach the Level 
 
 ### Division 2—Certification
 
-##### <a id="11"></a>11  When may the Chief Executive Medicare certify a claim as a qualifying claim?
+##### <a id="11"></a>11  When may the Medicare Australia CEO certify a claim as a qualifying claim?
 
 Criteria for certification—Level 1
 
-             (1)  The Chief Executive Medicare may issue a certificate stating that a claim is a Level 1 qualifying claim if the Chief Executive Medicare is satisfied that:
+             (1)  The Medicare Australia CEO may issue a certificate stating that a claim is a Level 1 qualifying claim if the Medicare Australia CEO is satisfied that:
 
                      (a)  the claim meets the common requirements set out in subsection (3); and
 
@@ -791,7 +790,7 @@ Criteria for certification—Level 1
 
 Criteria for certification—Level 2
 
-             (2)  The Chief Executive Medicare may issue a certificate stating that a claim is a Level 2 qualifying claim if the Chief Executive Medicare is satisfied that:
+             (2)  The Medicare Australia CEO may issue a certificate stating that a claim is a Level 2 qualifying claim if the Medicare Australia CEO is satisfied that:
 
                      (a)  the claim meets the common requirements set out in subsection (3); and
 
@@ -845,14 +844,6 @@ Common requirements for both Level 1 and Level 2 qualifying claim certificates
 
                     (m)  the claim does not relate to a type of midwifery practice specified in Rules made for the purposes of this paragraph.
 
-          (3A)  For the purposes of paragraph 11(3)(g), the Rules may specify one or more classes of practice that are taken not to be practice of a kind referred to in that paragraph and, without limiting the way in which a class may be specified, the class may be described by reference to the following:
-
-                     (a)  the ownership or control (however described) of a corporation of which one or more eligible midwives are employees;
-
-                     (b)  the true nature of the class of practice.
-
-          (3B)  To avoid doubt, Rules made for the purposes of subsection (3A) may be expressed to take effect from a date before the Rules are registered under the _Legislative Instruments Act 2003_.
-
 Additional requirements for Level 2 qualifying claim certificates
 
              (4)  A claim in relation to which an application for a Level 2 qualifying claim certificate has been made meets the **_additional Level 2 requirements_** set out in this subsection if:
@@ -891,13 +882,13 @@ The certificate may also contain other material.
 
 AAT review of decision to refuse
 
-             (7)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Chief Executive Medicare to refuse to issue a qualifying claim certificate.
+             (7)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Medicare Australia CEO to refuse to issue a qualifying claim certificate.
 
 Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires notification of a decision that is reviewable.
 
-Chief Executive Medicare to give applicant copy of certificate
+Medicare Australia CEO to give applicant copy of certificate
 
-             (8)  If the Chief Executive Medicare decides to issue a qualifying claim certificate, the Chief Executive Medicare must, within 28 days of making his or her decision, unless it is not reasonably practicable to do so, give the applicant a copy of the certificate. However, a failure to comply does not affect the validity of the decision.
+             (8)  If the Medicare Australia CEO decides to issue a qualifying claim certificate, the Medicare Australia CEO must, within 28 days of making his or her decision, unless it is not reasonably practicable to do so, give the applicant a copy of the certificate. However, a failure to comply does not affect the validity of the decision.
 
              (9)  A qualifying claim certificate is not a legislative instrument.
 
@@ -913,27 +904,27 @@ Chief Executive Medicare to give applicant copy of certificate
 
              (3)  The application must:
 
-                     (a)  be made in writing using a form approved by the Chief Executive Medicare; and
+                     (a)  be made in writing using a form approved by the Medicare Australia CEO; and
 
                      (b)  specify whether it is an application for a Level 1 qualifying claim certificate or a Level 2 qualifying claim certificate; and
 
                      (c)  specify each person, other than the midwife concerned, against whom a claim has been or is reasonably likely to be made, in relation to the incident to which the claim relates; and
 
-                     (d)  be accompanied by the documents and other information required by the form approved by the Chief Executive Medicare.
+                     (d)  be accompanied by the documents and other information required by the form approved by the Medicare Australia CEO.
 
 ##### <a id="13"></a>13  Time by which an application must be decided
 
-             (1)  Subject to subsection (2), the Chief Executive Medicare is to decide an application for the issue of a qualifying claim certificate on or before the 21st day after the day on which the application is received by the Chief Executive Medicare.
+             (1)  Subject to subsection (2), the Medicare Australia CEO is to decide an application for the issue of a qualifying claim certificate on or before the 21st day after the day on which the application is received by the Medicare Australia CEO.
 
-             (2)  If the Chief Executive Medicare requests a person to give information under section 62 in relation to the application, the Chief Executive Medicare does not have to decide the application until the 21st day after the day on which the person gives the information to the Chief Executive Medicare.
+             (2)  If the Medicare Australia CEO requests a person to give information under section 62 in relation to the application, the Medicare Australia CEO does not have to decide the application until the 21st day after the day on which the person gives the information to the Medicare Australia CEO.
 
-##### <a id="14"></a>14  Obligation to notify the Chief Executive Medicare if information is incorrect or incomplete
+##### <a id="14"></a>14  Obligation to notify the Medicare Australia CEO if information is incorrect or incomplete
 
              (1)  If:
 
                      (a)  a qualifying claim certificate is in force in relation to a claim; and
 
-                     (b)  a person becomes aware that the information provided to the Chief Executive Medicare in connection with the application for the certificate was incorrect or incomplete, or is no longer correct or complete; and
+                     (b)  a person becomes aware that the information provided to the Medicare Australia CEO in connection with the application for the certificate was incorrect or incomplete, or is no longer correct or complete; and
 
                      (c)  the person is:
 
@@ -941,7 +932,7 @@ Chief Executive Medicare to give applicant copy of certificate
 
                              (ii)  another person who has applied for a payment of Level 1 or Level 2 Commonwealth contribution in relation to the claim;
 
-the person must notify the Chief Executive Medicare of the respect in which the information was incorrect or incomplete, or is no longer correct or complete.
+the person must notify the Medicare Australia CEO of the respect in which the information was incorrect or incomplete, or is no longer correct or complete.
 
 Note:          Failure to notify is an offence (see section 67).
 
@@ -949,15 +940,15 @@ Note:          Failure to notify is an offence (see section 
 
                      (a)  be made in writing; and
 
-                     (b)  be given to the Chief Executive Medicare within 28 days after the person becomes aware as mentioned in subsection (1).
+                     (b)  be given to the Medicare Australia CEO within 28 days after the person becomes aware as mentioned in subsection (1).
 
 ##### <a id="15"></a>15  Revocation and variation of qualifying claim certificates
 
 Revocation
 
-             (1)  The Chief Executive Medicare may revoke a qualifying claim certificate if the Chief Executive Medicare is no longer satisfied as mentioned in subsection 11(1) or (2) in relation to the claim.
+             (1)  The Medicare Australia CEO may revoke a qualifying claim certificate if the Medicare Australia CEO is no longer satisfied as mentioned in subsection 11(1) or (2) in relation to the claim.
 
-             (2)  To avoid doubt, in considering whether he or she is still satisfied as mentioned in subsection 11(1) or (2) in relation to the claim, the Chief Executive Medicare may have regard to matters that have occurred since the decision to issue the qualifying claim certificate was made, including for example:
+             (2)  To avoid doubt, in considering whether he or she is still satisfied as mentioned in subsection 11(1) or (2) in relation to the claim, the Medicare Australia CEO may have regard to matters that have occurred since the decision to issue the qualifying claim certificate was made, including for example:
 
                      (a)  the making of Rules for the purpose of paragraph 11(3)(k),(l) or (m) or (4)(b); or
 
@@ -965,13 +956,13 @@ Revocation
 
 Variation
 
-             (3)  If the Chief Executive Medicare is satisfied that a matter is not correctly identified or specified in a qualifying claim certificate, the Chief Executive Medicare must vary the certificate so that it correctly identifies or specifies the matter.
+             (3)  If the Medicare Australia CEO is satisfied that a matter is not correctly identified or specified in a qualifying claim certificate, the Medicare Australia CEO must vary the certificate so that it correctly identifies or specifies the matter.
 
 Effect of revocation
 
              (4)  If:
 
-                     (a)  the Chief Executive Medicare revokes a qualifying claim certificate; and
+                     (a)  the Medicare Australia CEO revokes a qualifying claim certificate; and
 
                      (b)  an amount of Level 1 or Level 2 Commonwealth contribution has already been paid in relation to the claim;
 
@@ -981,7 +972,7 @@ Effect of variation
 
              (5)  If:
 
-                     (a)  the Chief Executive Medicare varies a qualifying claim certificate; and
+                     (a)  the Medicare Australia CEO varies a qualifying claim certificate; and
 
                      (b)  an amount of Level 1 or Level 2 Commonwealth contribution has already been paid in relation to the claim, and that amount exceeds the amount that would have been paid if the amount of Level 1 or Level 2 Commonwealth contribution had been determined having regard to the certificate as varied;
 
@@ -989,13 +980,13 @@ the amount of the excess is an amount overpaid to which section 64 applies.
 
 AAT review of decision to revoke or vary
 
-             (6)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Chief Executive Medicare to revoke or vary a qualifying claim certificate.
+             (6)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Medicare Australia CEO to revoke or vary a qualifying claim certificate.
 
 Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires notification of a decision that is reviewable.
 
-Chief Executive Medicare to give applicant copy of varied certificate
+Medicare Australia CEO to give applicant copy of varied certificate
 
-             (7)  If the Chief Executive Medicare decides to vary a qualifying claim certificate, the Chief Executive Medicare must, within 28 days of making his or her decision, give the applicant a copy of the varied certificate. However, a failure to comply does not affect the validity of the decision.
+             (7)  If the Medicare Australia CEO decides to vary a qualifying claim certificate, the Medicare Australia CEO must, within 28 days of making his or her decision, give the applicant a copy of the varied certificate. However, a failure to comply does not affect the validity of the decision.
 
 ### Division 3—Payability
 
@@ -1015,7 +1006,7 @@ Basic payability rule
 
                               (i)  an apportionment certificate in relation to the current claim is in force; or
 
-                             (ii)  the Chief Executive Medicare has not issued an apportionment certificate because of the operation of section 52 (which deals with claims for which there is a final judgment or order of a court); and
+                             (ii)  the Medicare CEO has not issued an apportionment certificate because of the operation of section 52 (which deals with claims for which there is a final judgment or order of a court); and
 
                      (d)  the eligible insurer has a qualifying payment in relation to the current claim (see subsection (3)); and
 
@@ -1063,7 +1054,7 @@ of the amount by which the amount of the eligible insurer’s qualifying payment
 
 Basic payability rule
 
-             (1)  The Chief Executive Medicare may decide that a Level 2 Commonwealth contribution (the **_contribution_**) is payable in relation to a liability of a person (the **_midwife_**) if:
+             (1)  The Medicare Australia CEO may decide that a Level 2 Commonwealth contribution (the **_contribution_**) is payable in relation to a liability of a person (the **_midwife_**) if:
 
                      (a)  a claim (the **_current claim_**) is, or was, made against the midwife by another person; and
 
@@ -1075,7 +1066,7 @@ Basic payability rule
 
                               (i)  an apportionment certificate in relation to the current claim is in force; or
 
-                             (ii)  the Chief Executive Medicare has not issued an apportionment certificate because of the operation of section 52 (which deals with claims for which there is a final judgment or order of a court); and
+                             (ii)  the Medicare CEO has not issued an apportionment certificate because of the operation of section 52 (which deals with claims for which there is a final judgment or order of a court); and
 
                      (e)  because of the limit of the eligible insurer’s liability under the contract of insurance identified in the qualifying claim certificate, the contract does not cover, or does not fully cover, the liability; and
 
@@ -1109,7 +1100,7 @@ Ordinary course of business test for insurance payments
 
 AAT review of decision to refuse, or to pay a particular amount of contribution
 
-             (4)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Chief Executive Medicare to refuse an application for Level 2 Commonwealth contribution, or a decision of the Chief Executive Medicare to pay a particular amount of Level 2 Commonwealth contribution.
+             (4)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Medicare Australia CEO to refuse an application for Level 2 Commonwealth contribution, or a decision of the Medicare Australia CEO to pay a particular amount of Level 2 Commonwealth contribution.
 
 Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires notification of a decision that is reviewable.
 
@@ -1169,9 +1160,9 @@ Note:          It is only liabilities that exceed the limit th
 
 Note:          The recipient will either be the midwife himself or herself, or a person acting on behalf of the midwife.
 
-Chief Executive Medicare to give recipient of payment a notice identifying the liability to be discharged
+Medicare Australia CEO to give recipient of payment a notice identifying the liability to be discharged
 
-             (2)  The Chief Executive Medicare must give the recipient a written notice (the **_payment notice_**) identifying the liability in relation to which the contribution is paid, and advising the recipient how this section requires the contribution to be dealt with.
+             (2)  The Medicare Australia CEO must give the recipient a written notice (the **_payment notice_**) identifying the liability in relation to which the contribution is paid, and advising the recipient how this section requires the contribution to be dealt with.
 
 Recipient’s obligation if the amount of the contribution equals or is less than the liability
 
@@ -1189,11 +1180,11 @@ Time by which recipient must comply with obligation
 
              (5)  The recipient must comply with whichever of subsections (3) and (4) applies:
 
-                     (a)  by the time specified in a written direction (whether contained in the payment notice or otherwise) given to the recipient by the Chief Executive Medicare; or
+                     (a)  by the time specified in a written direction (whether contained in the payment notice or otherwise) given to the recipient by the Medicare Australia CEO; or
 
                      (b)  if no such direction is given to the recipient—as soon as practicable after the Commonwealth contribution is received by the recipient.
 
-To avoid doubt, the Chief Executive Medicare may vary a direction under paragraph (a) to specify a different time.
+To avoid doubt, the Medicare Australia CEO may vary a direction under paragraph (a) to specify a different time.
 
 Debt to Commonwealth if recipient does not comply with obligation on time
 
@@ -1201,7 +1192,7 @@ Debt to Commonwealth if recipient does not comply with obligation on time
 
              (7)  The debt may be recovered:
 
-                     (a)  by action by the Chief Executive Medicare against the recipient in a court of competent jurisdiction; or
+                     (a)  by action by the Medicare Australia CEO against the recipient in a court of competent jurisdiction; or
 
                      (b)  under section 65.
 
@@ -1267,21 +1258,21 @@ then, for the purpose of calculating the amount of Level 2 Commonwealth contribu
 
              (2)  The **_amount overpaid_** is the amount by which the actual contribution amount exceeds the reduced contribution amount.
 
-             (3)  If the Chief Executive Medicare has given the liable person (see subsection 23(2)) a notice under subsection 27(1) in relation to the amount overpaid, the amount overpaid is a debt owed to the Commonwealth by the liable person.
+             (3)  If the Medicare Australia CEO has given the liable person (see subsection 23(2)) a notice under subsection 27(1) in relation to the amount overpaid, the amount overpaid is a debt owed to the Commonwealth by the liable person.
 
 Note 1:       If the contribution is or was not dealt with in accordance with whichever of subsections 22(3) and (4) applies by the time required by subsection 22(5), the whole amount of the contribution is a debt owed by the recipient, and no amount is recoverable under this section (see subsections 22(6) to (8)).
 
 Note 2:       If:
 
-(a)    the recipient and the midwife referred to in subsection 22(1) are not the same person; and
+(a)           the recipient and the midwife referred to in subsection 22(1) are not the same person; and
 
-(b)    the midwife becomes the liable person;
+(b)           the midwife becomes the liable person;
 
                    then (subject to subsection 23(3)), the recipient ceases to be the liable person, and the amount overpaid must instead be recovered from the midwife.
 
              (4)  The amount overpaid may be recovered:
 
-                     (a)  by action by the Chief Executive Medicare against the liable person in a court of competent jurisdiction; or
+                     (a)  by action by the Medicare Australia CEO against the liable person in a court of competent jurisdiction; or
 
                      (b)  under section 65.
 
@@ -1295,7 +1286,7 @@ Note 2:       If:
 
                      (d)  an amount of a kind specified in the Rules for the purposes of this paragraph.
 
-##### <a id="26"></a>26  Obligation to notify the Chief Executive Medicare that amount has been paid
+##### <a id="26"></a>26  Obligation to notify the Medicare Australia CEO that amount has been paid
 
              (1)  If:
 
@@ -1305,7 +1296,7 @@ Note 2:       If:
 
                      (c)  because of the payment of the other amount, there is an amount overpaid as described in subsection 25(2);
 
-the applicant must notify the Chief Executive Medicare that the other amount has been paid.
+the applicant must notify the Medicare Australia CEO that the other amount has been paid.
 
 Note:          Failure to notify is an offence (see section 67).
 
@@ -1313,9 +1304,9 @@ Note:          Failure to notify is an offence (see section 
 
                      (a)  be in writing; and
 
-                     (b)  be given to the Chief Executive Medicare within 28 days after the applicant becomes aware that the other amount has been paid.
+                     (b)  be given to the Medicare Australia CEO within 28 days after the applicant becomes aware that the other amount has been paid.
 
-##### <a id="27"></a>27  The Chief Executive Medicare to notify of amount of debt due
+##### <a id="27"></a>27  The Medicare Australia CEO to notify of amount of debt due
 
              (1)  If:
 
@@ -1325,7 +1316,7 @@ Note:          Failure to notify is an offence (see section 
 
                      (c)  because of the payment of the other amount, there is an amount overpaid as described in subsection 25(2);
 
-the Chief Executive Medicare may give the liable person (see subsection 23(2)) a written notice that specifies:
+the Medicare Australia CEO may give the liable person (see subsection 23(2)) a written notice that specifies:
 
                      (d)  the amount overpaid, and that it is a debt owed to the Commonwealth under subsection 25(3); and
 
@@ -1359,9 +1350,9 @@ the person is liable to pay a late payment penalty under this section.
 
                              (ii)  ending when the amount, and the penalty payable under this section in relation to the amount, have been paid in full.
 
-             (3)  The Chief Executive Medicare may remit the whole or a part of an amount of late payment penalty if the Chief Executive Medicare considers that there are good reasons for doing so.
+             (3)  The Medicare Australia CEO may remit the whole or a part of an amount of late payment penalty if the Medicare Australia CEO considers that there are good reasons for doing so.
 
-             (4)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Chief Executive Medicare not to remit, or to remit only part of, an amount of late payment penalty.
+             (4)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Medicare Australia CEO not to remit, or to remit only part of, an amount of late payment penalty.
 
 Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires notification of a decision that is reviewable.
 
@@ -1502,7 +1493,7 @@ the recipient’s liability to the late payment penalty is not affected by the f
     <div>8</div>
   </td>
   <td>
-    <div>notifying the Chief Executive Medicare if a person ceases to be covered</div>
+    <div>notifying the Medicare Australia CEO if a person ceases to be covered</div>
   </td>
   <td>
     <div>section 46</div>
@@ -1568,7 +1559,7 @@ the recipient’s liability to the late payment penalty is not affected by the f
     <div>14</div>
   </td>
   <td>
-    <div>what information has to be given to the Chief Executive Medicare?</div>
+    <div>what information has to be given to the Medicare Australia CEO?</div>
   </td>
   <td>
     <div>section 62</div>
@@ -1640,7 +1631,7 @@ However, a person is not a person to whom this subsection applies if the person 
 
                             (iii)  is recovering from a pregnancy (including a miscarriage or a stillbirth); and
 
-                     (b)  another person who is a medical practitioner has certified, in the form approved by the Chief Executive Medicare, that the person is pregnant, has given birth or is recovering from a pregnancy, as the case requires; and
+                     (b)  another person who is a medical practitioner has certified, in the form approved by the Medicare Australia CEO, that the person is pregnant, has given birth or is recovering from a pregnancy, as the case requires; and
 
                      (c)  the person has ceased all practice as an eligible midwife:
 
@@ -1658,7 +1649,7 @@ However, a person is not a person to whom this subsection applies if the person 
 
                      (b)  as a result of the injury or illness, the person can no longer practise the profession of midwifery; and
 
-                     (c)  another person who is a medical practitioner has certified, in the form approved by the Chief Executive Medicare, that the person:
+                     (c)  another person who is a medical practitioner has certified, in the form approved by the Medicare Australia CEO, that the person:
 
                               (i)  has incurred an injury, or suffers from an illness, that is permanent, or is likely to be permanent; and
 
@@ -1688,14 +1679,6 @@ However, a person is not a person to whom this subsection applies if the person 
 
                      (e)  practice of a kind specified in the Rules.
 
-             (6)  For the purposes of paragraph (c) of the definition of **_private practice as a midwife_** in subsection (5), the Rules may specify one or more classes of practice that are taken not to be practice of a kind referred to in that paragraph and, without limiting the way in which a class may be specified, the class may be described by reference to the following:
-
-                     (a)  the ownership or control (however described) of a corporation of which one or more eligible midwives are employees;
-
-                     (b)  the true nature of the class of practice.
-
-             (7)  To avoid doubt, Rules made for the purposes of subsection (6) may be expressed to take effect from a date before the Rules are registered under the _Legislative Instruments Act 2003_.
-
 ### Division 2—Run‑off cover Commonwealth contributions
 
 ##### <a id="32"></a>32  Circumstances in which run‑off cover Commonwealth contributions are payable
@@ -1710,13 +1693,13 @@ However, a person is not a person to whom this subsection applies if the person 
 
                               (i)  an apportionment certificate in relation to the current claim is in force; or
 
-                             (ii)  the Chief Executive Medicare has not issued an apportionment certificate because of the operation of section 52 (which deals with claims for which there is a final judgment or order of a court); and
+                             (ii)  the Medicare CEO has not issued an apportionment certificate because of the operation of section 52 (which deals with claims for which there is a final judgment or order of a court); and
 
                      (d)  the eligible insurer makes, or is liable to make, a payment in relation to the claim under a contract of insurance under which the insurer is liable to indemnify the person in relation to claims made by or against the person while he or she is a person to whom subsection 31(2) applies; and
 
                      (e)  either the incident occurs or occurred on or after 1 July 2010 and on or before the run‑off cover termination date; and
 
-                      (f)  the eligible insurer applies to the Chief Executive Medicare for the run‑off cover Commonwealth contribution in accordance with section 58; and
+                      (f)  the eligible insurer applies to the Medicare Australia CEO for the run‑off cover Commonwealth contribution in accordance with section 58; and
 
                      (g)  if an apportionment certificate is in force in relation to the current claim—the amount paid or payable in relation to the current claim is consistent with the proportion of the overall liability specified in the apportionment certificate as the proportion that is to be attributed to the eligible midwife against whom the claim was made.
 
@@ -1792,11 +1775,11 @@ then, for the purpose of calculating the amount of run‑off cover Commonwealth 
 
              (2)  The **_amount overpaid_** is the amount by which the actual run‑off cover amount exceeds the reduced run‑off cover amount.
 
-             (3)  If the Chief Executive Medicare has given an eligible insurer a notice under subsection 39(1) in relation to the amount overpaid, the amount is a debt owed to the Commonwealth by the eligible insurer.
+             (3)  If the Medicare Australia CEO has given an eligible insurer a notice under subsection 39(1) in relation to the amount overpaid, the amount is a debt owed to the Commonwealth by the eligible insurer.
 
              (4)  The amount overpaid may be recovered:
 
-                     (a)  by action by the Chief Executive Medicare against the eligible insurer in a court of competent jurisdiction; or
+                     (a)  by action by the Medicare Australia CEO against the eligible insurer in a court of competent jurisdiction; or
 
                      (b)  under section 65.
 
@@ -1810,7 +1793,7 @@ then, for the purpose of calculating the amount of run‑off cover Commonwealth 
 
                      (d)  an amount of a kind specified in the Rules for the purposes of this paragraph.
 
-##### <a id="38"></a>38  Obligation to notify the Chief Executive Medicare that amount has been paid
+##### <a id="38"></a>38  Obligation to notify the Medicare Australia CEO that amount has been paid
 
              (1)  If:
 
@@ -1820,7 +1803,7 @@ then, for the purpose of calculating the amount of run‑off cover Commonwealth 
 
                      (c)  because of the payment of the other amount, there is an amount overpaid as described in subsection 37(2);
 
-the eligible insurer must notify the Chief Executive Medicare that the other amount has been paid.
+the eligible insurer must notify the Medicare Australia CEO that the other amount has been paid.
 
 Note:          Failure to notify is an offence (see section 67).
 
@@ -1828,9 +1811,9 @@ Note:          Failure to notify is an offence (see section 
 
                      (a)  be in writing; and
 
-                     (b)  be given to the Chief Executive Medicare within 28 days after the applicant becomes aware that the other amount has been paid.
+                     (b)  be given to the Medicare Australia CEO within 28 days after the applicant becomes aware that the other amount has been paid.
 
-##### <a id="39"></a>39  The Chief Executive Medicare to notify of amount of debt due
+##### <a id="39"></a>39  The Medicare Australia CEO to notify of amount of debt due
 
              (1)  If:
 
@@ -1840,7 +1823,7 @@ Note:          Failure to notify is an offence (see section 
 
                      (c)  because of the payment of the other amount, there is an amount overpaid as described in subsection 37(2);
 
-the Chief Executive Medicare may give the eligible insurer a written notice that specifies:
+the Medicare Australia CEO may give the eligible insurer a written notice that specifies:
 
                      (d)  the amount overpaid, and that it is a debt owed to the Commonwealth under subsection 37(3); and
 
@@ -1874,9 +1857,9 @@ the person is liable to pay a late payment penalty under this section.
 
                              (ii)  ending when the amount, and the penalty payable under this section in relation to the amount, have been paid in full.
 
-             (3)  The Chief Executive Medicare may remit the whole or a part of an amount of late payment penalty if the Chief Executive Medicare considers that there are good reasons for doing so.
+             (3)  The Medicare Australia CEO may remit the whole or a part of an amount of late payment penalty if the Medicare Australia CEO considers that there are good reasons for doing so.
 
-             (4)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Chief Executive Medicare not to remit, or to remit only part of, an amount of late payment penalty.
+             (4)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Medicare Australia CEO not to remit, or to remit only part of, an amount of late payment penalty.
 
 Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires notification of a decision that is reviewable.
 
@@ -1952,7 +1935,7 @@ Step 3.   Add together:
 
              (4)  The **_interest rate adjustment_** for a financial year is the number worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00490/Html/e5958090-76f3-42b4-95df-14a92b81dfb7_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00421/Html/7cecfb70-ff45-40ef-b58a-be3fdb99a5da_files/image002.gif)
 
 where:
 
@@ -1978,7 +1961,7 @@ where:
 
 ##### <a id="45"></a>45  Eligible insurers must provide information attributing run‑off cover support payments
 
-             (1)  An eligible insurer must, in relation to each run‑off cover support payment that the eligible insurer is liable to make to the Chief Executive Medicare, notify the Chief Executive Medicare of:
+             (1)  An eligible insurer must, in relation to each run‑off cover support payment that the eligible insurer is liable to make to the Medicare Australia CEO, notify the Medicare Australia CEO of:
 
                      (a)  each eligible midwife to whom the payment is attributable; and
 
@@ -1992,11 +1975,11 @@ Note:          Failure to notify is an offence (see section 
 
                      (a)  be made in writing; and
 
-                     (b)  must be given to the Chief Executive Medicare on or before the payment day under section 75 for the run‑off cover support payment.
+                     (b)  must be given to the Medicare Australia CEO on or before the payment day under section 75 for the run‑off cover support payment.
 
 ### Division 5—Miscellaneous
 
-##### <a id="46"></a>46  Chief Executive Medicare must be notified of a person ceasing to be covered by the midwife run‑off cover provisions
+##### <a id="46"></a>46  Medicare Australia CEO must be notified of a person ceasing to be covered by the midwife run‑off cover provisions
 
              (1)  If:
 
@@ -2004,7 +1987,7 @@ Note:          Failure to notify is an offence (see section 
 
                      (b)  immediately before the cessation, an eligible insurer was providing midwife professional indemnity run‑off cover to the person;
 
-the eligible insurer must notify the Chief Executive Medicare of the cessation.
+the eligible insurer must notify the Medicare Australia CEO of the cessation.
 
 Note:          Failure to notify is an offence (see section 67).
 
@@ -2014,7 +1997,7 @@ Note:          Failure to notify is an offence (see section 
 
                      (b)  set out details of the cessation; and
 
-                     (c)  be given to the Chief Executive Medicare within a period, starting on the day after the day on which the person becomes aware of the cessation, of:
+                     (c)  be given to the Medicare Australia CEO within a period, starting on the day after the day on which the person becomes aware of the cessation, of:
 
                               (i)  61 days; or
 
@@ -2134,7 +2117,7 @@ Note:          Failure to comply with this section is an offen
     <div>1</div>
   </td>
   <td>
-    <div>when may the Chief Executive Medicare issue an apportionment certificate?</div>
+    <div>when may the Medicare CEO issue an apportionment certificate?</div>
   </td>
   <td>
     <div>section 51</div>
@@ -2202,7 +2185,7 @@ Note:          Failure to comply with this section is an offen
     <div>7</div>
   </td>
   <td>
-    <div>what information has to be given to the Chief Executive Medicare?</div>
+    <div>what information has to be given to the Medicare Australia CEO?</div>
   </td>
   <td>
     <div>section 62</div>
@@ -2233,17 +2216,17 @@ Note:          Failure to comply with this section is an offen
 
 ### Division 2—Apportionment certificates
 
-##### <a id="51"></a>51  When may the Chief Executive Medicare issue an apportionment certificate in relation to a claim? <span style="font-size: 9.0pt;font-weight:normal">[_see_ Note 2]</span>
+##### <a id="51"></a>51  When may the Medicare Australia CEO issue an apportionment certificate in relation to a claim?
 
-             (1)  The Chief Executive Medicare may issue a certificate (an **_apportionment certificate_**) in relation to a claim against a midwife if:
+             (1)  The Medicare Australia CEO may issue a certificate (an **_apportionment certificate_**) in relation to a claim against a midwife if:
 
                      (a)  either:
 
-                              (i)  a qualifying claim certificate has been issued by the Chief Executive Medicare in relation to the claim; or
+                              (i)  a qualifying claim certificate has been issued by the Medicare CEO in relation to the claim; or
 
                              (ii)  the claim is an eligible run‑off claim; and
 
-                     (b)  the Chief Executive Medicare is satisfied that there is a person, other than the midwife, against whom a claim has been or is reasonably likely to be made, in relation to the incident to which the claim relates; and
+                     (b)  the Medicare CEO is satisfied that there is a person, other than the midwife, against whom a claim has been or is reasonably likely to be made, in relation to the incident to which the claim relates; and
 
                      (c)  an application for the certificate has been made in accordance with section 53.
 
@@ -2251,17 +2234,17 @@ Note:          Failure to comply with this section is an offen
 
                      (a)  the midwife; and
 
-                     (b)  the other person or persons against whom the Chief Executive Medicare is satisfied a claim has been, or is reasonably likely to be, made in relation to the incident.
+                     (b)  the other person or persons against whom the Medicare CEO is satisfied a claim has been, or is reasonably likely to be, made in relation to the incident.
 
-             (3)  For the purposes of paragraph (2)(b), if there is more than one other person against whom the Chief Executive Medicare is satisfied a claim has been or is reasonably likely to be made, the proportion of the overall liability may be specified for:
+             (3)  For the purposes of paragraph (2)(b), if there is more than one other person against whom the Medicare CEO is satisfied a claim has been or is reasonably likely to be made, the proportion of the overall liability may be specified for:
 
                      (a)  each of those persons individually; or
 
                      (b)  those persons taken as a group.
 
-             (4)  The proportion of the overall liability specified in the apportionment certificate may be the same as the apportionment proposed in the application if the Chief Executive Medicare is satisfied that the proposed apportionment is reasonable.
+             (4)  The proportion of the overall liability specified in the apportionment certificate may be the same as the apportionment proposed in the application if the Medicare CEO is satisfied that the proposed apportionment is reasonable.
 
-             (5)  The apportionment certificate may be different from the apportionment proposed in the application if the Chief Executive Medicare is satisfied that the alternative apportionment is reasonable.
+             (5)  The apportionment certificate may be different from the apportionment proposed in the application if the Medicare CEO is satisfied that the alternative apportionment is reasonable.
 
              (6)  For the purposes of being satisfied that an apportionment is reasonable, the Medicare CEO may have regard to:
 
@@ -2269,13 +2252,13 @@ Note:          Failure to comply with this section is an offen
 
                      (b)  any other information that the Medicare CEO considers appropriate.
 
-             (7)  However, the Chief Executive Medicare is not required to have regard to any information beyond the information that was included in the application.
+             (7)  However, the Medicare CEO is not required to have regard to any information beyond the information that was included in the application.
 
              (8)  An apportionment certificate is not a legislative instrument.
 
-##### <a id="52"></a>52  Chief Executive Medicare must not issue an apportionment certificate in certain situations relating to court judgments or orders
+##### <a id="52"></a>52  Medicare CEO must not issue an apportionment certificate in certain situations relating to court judgments or orders
 
-             (1)  The Chief Executive Medicare must not issue an apportionment certificate in relation to a claim against an eligible midwife if:
+             (1)  The Medicare Australia CEO must not issue an apportionment certificate in relation to a claim against an eligible midwife if:
 
                      (a)  a judgment or order of a court has been made in relation to the claim; and
 
@@ -2301,7 +2284,7 @@ Note:          Failure to comply with this section is an offen
 
              (2)  The application must:
 
-                     (a)  be made in writing using a form approved by the Chief Executive Medicare; and
+                     (a)  be made in writing using a form approved by the Medicare Australia CEO; and
 
                      (b)  must specify the proportion of the overall liability in relation to the incident to which the claim relates that the applicant proposes be attributed to:
 
@@ -2309,7 +2292,7 @@ Note:          Failure to comply with this section is an offen
 
                              (ii)  the other person or persons against whom a claim has been, or is reasonably likely to be made in relation to the incident to which the claim relates; and
 
-                     (c)  be accompanied by the documents and other information required by the form approved by the Chief Executive Medicare.
+                     (c)  be accompanied by the documents and other information required by the form approved by the Medicare Australia CEO.
 
              (3)  For the purposes of subparagraph (2)(b)(ii), if there is more than one other person against whom a claim has been or is reasonably likely to be made, the proportion of the overall liability may be specified for:
 
@@ -2319,17 +2302,17 @@ Note:          Failure to comply with this section is an offen
 
 ##### <a id="54"></a>54  Time by which an application must be decided
 
-             (1)  Subject to subsection (2), the Chief Executive Medicare is to decide an application for the issue of an apportionment certificate on or before the 21st day after the day on which the application is received by the Chief Executive Medicare.
+             (1)  Subject to subsection (2), the Medicare Australia CEO is to decide an application for the issue of an apportionment certificate on or before the 21st day after the day on which the application is received by the Medicare Australia CEO.
 
-             (2)  If the Chief Executive Medicare requests a person to give information under section 62 in relation to the application, the Chief Executive Medicare does not have to decide the application until the 21st day after the day on which the person gives the information to the Chief Executive Medicare.
+             (2)  If the Medicare Australia CEO requests a person to give information under section 62 in relation to the application, the Medicare Australia CEO does not have to decide the application until the 21st day after the day on which the person gives the information to the Medicare Australia CEO.
 
-##### <a id="55"></a>55  Obligation to notify the Chief Executive Medicare if information is incorrect or incomplete
+##### <a id="55"></a>55  Obligation to notify the Medicare Australia CEO if information is incorrect or incomplete
 
              (1)  If:
 
                      (a)  an apportionment certificate is in force in relation to a claim; and
 
-                     (b)  a person becomes aware that the information provided to the Chief Executive Medicare in connection with the application for the certificate was incorrect or incomplete, or is no longer correct or complete; and
+                     (b)  a person becomes aware that the information provided to the Medicare Australia CEO in connection with the application for the certificate was incorrect or incomplete, or is no longer correct or complete; and
 
                      (c)  the person is:
 
@@ -2337,7 +2320,7 @@ Note:          Failure to comply with this section is an offen
 
                              (ii)  another person who has applied for a payment of Commonwealth contribution in relation to the claim;
 
-the person must notify the Chief Executive Medicare of the respect in which the information was incorrect or incomplete, or is no longer correct or complete.
+the person must notify the Medicare Australia CEO of the respect in which the information was incorrect or incomplete, or is no longer correct or complete.
 
 Note:          Failure to notify is an offence (see section 67).
 
@@ -2345,29 +2328,29 @@ Note:          Failure to notify is an offence (see section 
 
                      (a)  be made in writing; and
 
-                     (b)  be given to the Chief Executive Medicare within 28 days after the person becomes aware as mentioned in subsection (1).
+                     (b)  be given to the Medicare Australia CEO within 28 days after the person becomes aware as mentioned in subsection (1).
 
 ##### <a id="56"></a>56  Revocation and variation of apportionment certificates
 
 Revocation
 
-             (1)  The Chief Executive Medicare may revoke an apportionment certificate if the Chief Executive Medicare is no longer satisfied as mentioned in subsection 51(4) or (5) in relation to the claim.
+             (1)  The Medicare Australia CEO may revoke an apportionment certificate if the Medicare Australia CEO is no longer satisfied as mentioned in subsection 51(4) or (5) in relation to the claim.
 
-             (2)  The Chief Executive Medicare must revoke an apportionment certificate if, after the apportionment certificate is issued:
+             (2)  The Medicare CEO must revoke an apportionment certificate if, after the apportionment certificate is issued:
 
                      (a)  a judgment or order of a court is made; and
 
-                     (b)  the judgment or order is of a kind that would have prevented the Chief Executive Medicare issuing an apportionment certificate under section 52, had it been made before the certificate was issued.
+                     (b)  the judgment or order is of a kind that would have prevented the Medicare CEO issuing an apportionment certificate under section 52, had it been made before the certificate was issued.
 
 Variation
 
-             (3)  If the Chief Executive Medicare is satisfied that a matter is not correctly identified or specified in an apportionment certificate, the Chief Executive Medicare may vary the certificate so that it correctly identifies or specifies the matter.
+             (3)  If the Medicare Australia CEO is satisfied that a matter is not correctly identified or specified in an apportionment certificate, the Medicare Australia CEO may vary the certificate so that it correctly identifies or specifies the matter.
 
 Effect of revocation
 
              (4)  If:
 
-                     (a)  the Chief Executive Medicare revokes an apportionment certificate; and
+                     (a)  the Medicare Australia CEO revokes an apportionment certificate; and
 
                      (b)  an amount of Commonwealth contribution has already been paid in relation to the claim;
 
@@ -2377,19 +2360,19 @@ Effect of variation
 
              (5)  If:
 
-                     (a)  the Chief Executive Medicare varies an apportionment certificate; and
+                     (a)  the Medicare Australia CEO varies an apportionment certificate; and
 
                      (b)  an amount of Commonwealth contribution has already been paid in relation to the claim, and that amount exceeds the amount that would have been paid if the amount of Commonwealth contribution had been determined having regard to the certificate as varied;
 
 the amount of the excess is an amount overpaid to which section 64 applies.
 
-Chief Executive Medicare to give applicant copy of varied certificate
+Medicare Australia CEO to give applicant copy of varied certificate
 
-             (6)  If the Chief Executive Medicare decides to vary an apportionment certificate, the Chief Executive Medicare must, within 28 days of making his or her decision, give the applicant a copy of the varied certificate. However, a failure to comply does not affect the validity of the decision.
+             (6)  If the Medicare Australia CEO decides to vary an apportionment certificate, the Medicare Australia CEO must, within 28 days of making his or her decision, give the applicant a copy of the varied certificate. However, a failure to comply does not affect the validity of the decision.
 
 ##### <a id="57"></a>57  AAT review of decision to issue, revoke or vary
 
-                   An application may be made to the Administrative Appeals Tribunal for review of a decision of the Chief Executive Medicare:
+                   An application may be made to the Administrative Appeals Tribunal for review of a decision of the Medicare Australia CEO:
 
                      (a)  not to issue an apportionment certificate; or
 
@@ -2405,33 +2388,33 @@ Note:          Section 27A of the _Administrative Appeals Tr
 
                    An application by an eligible insurer for a Level 1 Commonwealth contribution or a run‑off cover Commonwealth contribution must:
 
-                     (a)  be made in writing using a form approved by the Chief Executive Medicare; and
+                     (a)  be made in writing using a form approved by the Medicare Australia CEO; and
 
-                     (b)  be accompanied by the documents and other information required by the form approved by the Chief Executive Medicare.
+                     (b)  be accompanied by the documents and other information required by the form approved by the Medicare Australia CEO.
 
 ##### <a id="59"></a>59  Payment date for Level 1 Commonwealth contribution or a run‑off cover Commonwealth contribution
 
-             (1)  Subject to subsections (2) and (3), the Chief Executive Medicare must pay a Level 1 Commonwealth contribution or a run‑off cover Commonwealth contribution that is payable to an insurer before the end of the month that immediately follows the month in which the eligible insurer applies for the contribution.
+             (1)  Subject to subsections (2) and (3), the Medicare Australia CEO must pay a Level 1 Commonwealth contribution or a run‑off cover Commonwealth contribution that is payable to an insurer before the end of the month that immediately follows the month in which the eligible insurer applies for the contribution.
 
              (2)  If:
 
                      (a)  an insurer applies for a Level 1 Commonwealth contribution or a run‑off cover Commonwealth contribution; and
 
-                     (b)  the Chief Executive Medicare requests a person to give information under section 62 in relation to the application; and
+                     (b)  the Medicare Australia CEO requests a person to give information under section 62 in relation to the application; and
 
-                     (c)  the person does not give the Chief Executive Medicare the information requested before the end of the month that immediately follows the month in which the insurer applies for the contribution; and
+                     (c)  the person does not give the Medicare Australia CEO the information requested before the end of the month that immediately follows the month in which the insurer applies for the contribution; and
 
                      (d)  a Level 1 Commonwealth contribution or a run‑off cover Commonwealth contribution is payable to the insurer;
 
-the Chief Executive Medicare must pay the Level 1 Commonwealth contribution or a run‑off cover Commonwealth contribution to the insurer before the end of the month that immediately follows the month in which the person gives the Chief Executive Medicare the requested information.
+the Medicare Australia CEO must pay the Level 1 Commonwealth contribution or a run‑off cover Commonwealth contribution to the insurer before the end of the month that immediately follows the month in which the person gives the Medicare Australia CEO the requested information.
 
-             (3)  If the Chief Executive Medicare has received, but not yet decided:
+             (3)  If the Medicare Australia CEO has received, but not yet decided:
 
                      (a)  an application for the issue of a qualifying claim certificate in relation to a claim; and
 
                      (b)  an application for a Level 1 Commonwealth contribution in relation to the same claim;
 
-the Chief Executive Medicare does not have to decide the application for payment of a Level 1 Commonwealth contribution until the Chief Executive Medicare has decided the application for the issue of a qualifying claim certificate.
+the Medicare Australia CEO does not have to decide the application for payment of a Level 1 Commonwealth contribution until the Medicare Australia CEO has decided the application for the issue of a qualifying claim certificate.
 
              (4)  In this section:
 
@@ -2443,9 +2426,9 @@ the Chief Executive Medicare does not have to decide the application for payment
 
              (2)  The application must:
 
-                     (a)  be made in writing using a form approved by the Chief Executive Medicare; and
+                     (a)  be made in writing using a form approved by the Medicare Australia CEO; and
 
-                     (b)  be accompanied by the documents and other information required by the form approved by the Chief Executive Medicare.
+                     (b)  be accompanied by the documents and other information required by the form approved by the Medicare Australia CEO.
 
              (3)  Subject to subsection (4), the application cannot be made more than 28 days after:
 
@@ -2455,9 +2438,9 @@ the Chief Executive Medicare does not have to decide the application for payment
 
                      (c)  if the liability is some other kind of liability—the date on which the liability was incurred.
 
-             (4)  The Chief Executive Medicare may accept a late application if the Chief Executive Medicare considers that there are good reasons for doing so.
+             (4)  The Medicare Australia CEO may accept a late application if the Medicare Australia CEO considers that there are good reasons for doing so.
 
-             (5)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Chief Executive Medicare not to accept a late application.
+             (5)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Medicare Australia CEO not to accept a late application.
 
 Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires notification of a decision that is reviewable.
 
@@ -2465,27 +2448,27 @@ Note:          Section 27A of the _Administrative Appeals Tr
 
 Time by which application must be decided
 
-             (1)  Subject to subsections (2) and (3), the Chief Executive Medicare is to decide an application for a Level 2 Commonwealth contribution on or before the end of the 21st day after the day on which the application is received by the Chief Executive Medicare.
+             (1)  Subject to subsections (2) and (3), the Medicare Australia CEO is to decide an application for a Level 2 Commonwealth contribution on or before the end of the 21st day after the day on which the application is received by the Medicare Australia CEO.
 
-             (2)  If the Chief Executive Medicare requests a person to give information under section 62 in relation to an application for a Level 2 Commonwealth contribution, the Chief Executive Medicare does not have to decide the application until the 21st day after the day on which the person gives the information to the Chief Executive Medicare.
+             (2)  If the Medicare Australia CEO requests a person to give information under section 62 in relation to an application for a Level 2 Commonwealth contribution, the Medicare Australia CEO does not have to decide the application until the 21st day after the day on which the person gives the information to the Medicare Australia CEO.
 
-             (3)  If the Chief Executive Medicare has received, but not yet decided:
+             (3)  If the Medicare Australia CEO has received, but not yet decided:
 
                      (a)  an application for the issue of a qualifying claim certificate in relation to a claim; and
 
                      (b)  an application for a Level 2 Commonwealth contribution in relation to the same claim;
 
-the Chief Executive Medicare does not have to decide the application for payment of a Level 2 Commonwealth contribution until the Chief Executive Medicare has decided the application for the issue of a qualifying claim certificate.
+the Medicare Australia CEO does not have to decide the application for payment of a Level 2 Commonwealth contribution until the Medicare Australia CEO has decided the application for the issue of a qualifying claim certificate.
 
 Time by which payment must be made
 
-             (4)  If the Chief Executive Medicare decides to grant an application for a Level 2 Commonwealth contribution, the Chief Executive Medicare must pay the contribution to the applicant as soon as practicable after making that decision.
+             (4)  If the Medicare Australia CEO decides to grant an application for a Level 2 Commonwealth contribution, the Medicare Australia CEO must pay the contribution to the applicant as soon as practicable after making that decision.
 
 ### Division 4—Information gathering and record keeping
 
-##### <a id="62"></a>62  Chief Executive Medicare may request information
+##### <a id="62"></a>62  Medicare Australia CEO may request information
 
-             (1)  If the Chief Executive Medicare believes on reasonable grounds that a person is capable of giving information that is relevant to determining:
+             (1)  If the Medicare Australia CEO believes on reasonable grounds that a person is capable of giving information that is relevant to determining:
 
                      (a)  whether a Commonwealth contribution is payable; or
 
@@ -2495,7 +2478,7 @@ Time by which payment must be made
 
                      (d)  the Commonwealth’s possible future liability to make Commonwealth contributions, or a particular kind of Commonwealth contribution;
 
-the Chief Executive Medicare may request the person to give the Chief Executive Medicare the information.
+the Medicare Australia CEO may request the person to give the Medicare Australia CEO the information.
 
 Note:          Failure to comply with the request is an offence (see section 66).
 
@@ -2509,15 +2492,15 @@ Note:          Failure to comply with the request is an offenc
 
                      (d)  the legal personal representative of a person covered by paragraph (b) or (c).
 
-             (3)  Without limiting subsection (1), if the information sought by the Chief Executive Medicare is information relating to a matter in relation to which a person is required by section 63 to keep a record, the Chief Executive Medicare may request the person to give the information by giving the Chief Executive Medicare the record, or a copy of the record.
+             (3)  Without limiting subsection (1), if the information sought by the Medicare Australia CEO is information relating to a matter in relation to which a person is required by section 63 to keep a record, the Medicare Australia CEO may request the person to give the information by giving the Medicare Australia CEO the record, or a copy of the record.
 
-             (4)  Without limiting paragraph (1)(d), the Chief Executive Medicare may request an insurer to give information under that paragraph on a periodic basis.
+             (4)  Without limiting paragraph (1)(d), the Medicare Australia CEO may request an insurer to give information under that paragraph on a periodic basis.
 
              (5)  The request:
 
                      (a)  must be made in writing; and
 
-                     (b)  must state what information must be given to the Chief Executive Medicare; and
+                     (b)  must state what information must be given to the Medicare Australia CEO; and
 
                      (c)  may require the information to be verified by statutory declaration; and
 
@@ -2539,7 +2522,7 @@ Records to be kept by person who applies for payment
 
                      (c)  any amount paid to the person that results in a person being liable to pay an amount under section 25 or 37;
 
-                     (d)  any other matter determined by the Chief Executive Medicare.
+                     (d)  any other matter determined by the Medicare Australia CEO.
 
 Note:          Failure to keep the records is an offence (see section 68).
 
@@ -2549,7 +2532,7 @@ Records to be kept by person who applies for a qualifying claim certificate
 
                      (a)  matters related to whether the criteria specified in subsection 11(1) or (2) are satisfied in relation to the claim;
 
-                     (b)  any other matter determined by the Chief Executive Medicare.
+                     (b)  any other matter determined by the Medicare Australia CEO.
 
 Note:          Failure to keep the records is an offence (see section 68).
 
@@ -2565,7 +2548,7 @@ Note:          Failure to retain the records is an offence (se
 
 Determination of additional matters to be gazetted
 
-             (4)  A determination by the Chief Executive Medicare under paragraph (1)(d) or (2)(b) is not a legislative instrument. The determination must:
+             (4)  A determination by the Medicare Australia CEO under paragraph (1)(d) or (2)(b) is not a legislative instrument. The determination must:
 
                      (a)  be published in the Gazette; and
 
@@ -2601,15 +2584,15 @@ Note 1:    Paragraph (b)—if the Level 2 Commonwealth contribution is o
 
 Note 2:    Paragraph (b)—if:
 
-(a)    the recipient and the midwife referred to in subsection 22(1) are not the same person; and
+(a)           the recipient and the midwife referred to in subsection 22(1) are not the same person; and
 
-(b)    the midwife becomes the liable person;
+(b)           the midwife becomes the liable person;
 
                 then (subject to subsection 23(3)), the recipient ceases to be the liable person, and the amount overpaid must instead be recovered from the midwife.
 
              (4)  The amount overpaid may be recovered:
 
-                     (a)  by action by the Chief Executive Medicare against the liable person in a court of competent jurisdiction; or
+                     (a)  by action by the Medicare Australia CEO against the liable person in a court of competent jurisdiction; or
 
                      (b)  by deduction from the amount of a Level 1 Commonwealth contribution, a Level 2 Commonwealth contribution or a run‑off cover Commonwealth contribution payable to the liable person; or
 
@@ -2617,21 +2600,21 @@ Note 2:    Paragraph (b)—if:
 
 The total amount recovered must not exceed the amount overpaid.
 
-##### <a id="65"></a>65  Chief Executive Medicare may collect money from a person who owes money to a person
+##### <a id="65"></a>65  Medicare Australia CEO may collect money from a person who owes money to a person
 
 What this section does
 
-             (1)  This section allows the Chief Executive Medicare to collect money from a person who owes money to a person (the **_liable person_**) who has a debt to the Commonwealth under subsection 22(6), 25(3), 37(3) or 64(3) (the **_repayment or overpayment debt_**).
+             (1)  This section allows the Medicare Australia CEO to collect money from a person who owes money to a person (the **_liable person_**) who has a debt to the Commonwealth under subsection 22(6), 25(3), 37(3) or 64(3) (the **_repayment or overpayment debt_**).
 
-The Chief Executive Medicare may give direction
+The Medicare Australia CEO may give direction
 
-             (2)  The Chief Executive Medicare may direct a person (the **_third party_**) who owes, or may later owe, money (the **_available money_**) to the liable person to pay some or all of the available money to the Chief Executive Medicare in accordance with the direction. The Chief Executive Medicare must give a copy of the direction to the liable person.
+             (2)  The Medicare Australia CEO may direct a person (the **_third party_**) who owes, or may later owe, money (the **_available money_**) to the liable person to pay some or all of the available money to the Medicare Australia CEO in accordance with the direction. The Medicare Australia CEO must give a copy of the direction to the liable person.
 
 Limit on directions
 
              (3)  The direction must:
 
-                     (a)  not require an amount to be paid to the Chief Executive Medicare at a time before it becomes owing by the third party to the liable person; and
+                     (a)  not require an amount to be paid to the Medicare Australia CEO at a time before it becomes owing by the third party to the liable person; and
 
                      (b)  specify a period of not less than 14 days within which the third party must comply with the direction.
 
@@ -2671,9 +2654,9 @@ Indemnity
 
 Notice
 
-           (10)  If the whole of the repayment or overpayment debt of the liable person is discharged before any payment is made by the third party, the Chief Executive Medicare must immediately give notice to the third party of that fact.
+           (10)  If the whole of the repayment or overpayment debt of the liable person is discharged before any payment is made by the third party, the Medicare Australia CEO must immediately give notice to the third party of that fact.
 
-           (11)  If a part of the repayment or overpayment debt of the liable person is discharged before any payment is made by the third party, the Chief Executive Medicare must:
+           (11)  If a part of the repayment or overpayment debt of the liable person is discharged before any payment is made by the third party, the Medicare Australia CEO must:
 
                      (a)  immediately give notice to the third party of that fact; and
 
@@ -2711,9 +2694,9 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="67"></a>67  Failing to notify
 
-             (1)  This section applies if section 14, 26, 38, 45, 46 or 55 requires a person to notify the Chief Executive Medicare of a matter within a particular period.
+             (1)  This section applies if section 14, 26, 38, 45, 46 or 55 requires a person to notify the Medicare Australia CEO of a matter within a particular period.
 
-             (2)  The person commits an offence if the person fails to notify the Chief Executive Medicare of the matter within that period.
+             (2)  The person commits an offence if the person fails to notify the Medicare Australia CEO of the matter within that period.
 
                     Penalty:  30 penalty units.
 
@@ -2944,8 +2927,8 @@ This Chapter contains further provisions relating to the payment.
     <div>10</div>
   </td>
   <td>
-    <div>what information has to be given to the Chief Executive Medicare about
-      run‑off cover support payment matters?</div>
+    <div>what information has to be given to the Medicare Australia CEO about run‑off
+      cover support payment matters?</div>
   </td>
   <td>
     <div>sections 82 and 83 of this Act</div>
@@ -3002,17 +2985,17 @@ the person is liable to pay a late payment penalty under this section.
 
 Paragraph (c) has effect subject to subsection (3).
 
-             (3)  The Chief Executive Medicare may remit the whole or a part of an amount of late payment penalty if the Chief Executive Medicare considers that there are good reasons for doing so.
+             (3)  The Medicare Australia CEO may remit the whole or a part of an amount of late payment penalty if the Medicare Australia CEO considers that there are good reasons for doing so.
 
-             (4)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Chief Executive Medicare not to remit, or to remit only part of, an amount of late payment penalty.
+             (4)  An application may be made to the Administrative Appeals Tribunal for review of a decision of the Medicare Australia CEO not to remit, or to remit only part of, an amount of late payment penalty.
 
 Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires notification of a decision that is reviewable.
 
 ##### <a id="77"></a>77  Method of paying certain amounts
 
-             (1)  A run‑off cover support payment must be paid to the Chief Executive Medicare.
+             (1)  A run‑off cover support payment must be paid to the Medicare Australia CEO.
 
-             (2)  A late payment penalty payable under section 76 must be paid to the Chief Executive Medicare.
+             (2)  A late payment penalty payable under section 76 must be paid to the Medicare Australia CEO.
 
              (3)  The Rules may specify methods for paying an amount referred to in subsection (1) or (2).
 
@@ -3038,23 +3021,23 @@ Appropriation
 
              (2)  A late payment penalty payable under section 76 is a debt due to the Commonwealth.
 
-             (3)  The Chief Executive Medicare may recover an amount referred to in subsection (1) or (2) as a debt by action in a court of competent jurisdiction.
+             (3)  The Medicare Australia CEO may recover an amount referred to in subsection (1) or (2) as a debt by action in a court of competent jurisdiction.
 
-##### <a id="80"></a>80  Chief Executive Medicare may collect money from a person who owes money to a person
+##### <a id="80"></a>80  Medicare Australia CEO may collect money from a person who owes money to a person
 
 What this section does
 
-             (1)  This section allows the Chief Executive Medicare to collect money from a person who owes money to a person (the **_payment debtor_**) who has a debt to the Commonwealth under section 79 (a **_payment debt_**).
+             (1)  This section allows the Medicare Australia CEO to collect money from a person who owes money to a person (the **_payment debtor_**) who has a debt to the Commonwealth under section 79 (a **_payment debt_**).
 
-The Chief Executive Medicare may give direction
+The Medicare Australia CEO may give direction
 
-             (2)  The Chief Executive Medicare may direct a person (the **_third party_**) who owes, or may later owe, money (the **_available money_**) to the payment debtor to pay some or all of the available money to the Chief Executive Medicare in accordance with the direction. The Chief Executive Medicare must give a copy of the direction to the payment debtor.
+             (2)  The Medicare Australia CEO may direct a person (the **_third party_**) who owes, or may later owe, money (the **_available money_**) to the payment debtor to pay some or all of the available money to the Medicare Australia CEO in accordance with the direction. The Medicare Australia CEO must give a copy of the direction to the payment debtor.
 
 Limit on directions
 
              (3)  The direction must:
 
-                     (a)  not require an amount to be paid to the Chief Executive Medicare at a time before it becomes owing by the third party to the payment debtor; and
+                     (a)  not require an amount to be paid to the Medicare Australia CEO at a time before it becomes owing by the third party to the payment debtor; and
 
                      (b)  specify a period of not less than 14 days within which the third party must comply with the direction.
 
@@ -3074,7 +3057,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 Court orders
 
-             (7)  If a person is convicted of an offence in relation to a failure of the third party to comply with subsection (4), the court may (in addition to imposing a penalty on the convicted person) order the convicted person to pay to the Chief Executive Medicare an amount up to the amount involved in the failure of the third party.
+             (7)  If a person is convicted of an offence in relation to a failure of the third party to comply with subsection (4), the court may (in addition to imposing a penalty on the convicted person) order the convicted person to pay to the Medicare Australia CEO an amount up to the amount involved in the failure of the third party.
 
 Indemnity
 
@@ -3082,9 +3065,9 @@ Indemnity
 
 Notice
 
-             (9)  If the whole of the payment debt of the payment debtor is discharged before any payment is made by the third party, the Chief Executive Medicare must immediately give notice to the third party of that fact.
+             (9)  If the whole of the payment debt of the payment debtor is discharged before any payment is made by the third party, the Medicare Australia CEO must immediately give notice to the third party of that fact.
 
-           (10)  If a part of the payment debt of the payment debtor is discharged before any payment is made by the third party, the Chief Executive Medicare must:
+           (10)  If a part of the payment debt of the payment debtor is discharged before any payment is made by the third party, the Medicare Australia CEO must:
 
                      (a)  immediately give notice to the third party of that fact; and
 
@@ -3108,7 +3091,7 @@ whether or not the payment of the money to the payment debtor is dependent on a 
 
 ##### <a id="81"></a>81  Evidentiary certificates
 
-             (1)  The Chief Executive Medicare may issue a written certificate:
+             (1)  The Medicare Australia CEO may issue a written certificate:
 
                      (a)  stating that a person is liable to pay:
 
@@ -3122,15 +3105,15 @@ whether or not the payment of the money to the payment debtor is dependent on a 
 
              (3)  A document purporting to be a certificate under subsection (1) must, unless the contrary is established, be taken to be such a certificate and to have been properly issued.
 
-             (4)  The Chief Executive Medicare may certify that a document is a copy of a certificate issued under subsection (1).
+             (4)  The Medicare Australia CEO may certify that a document is a copy of a certificate issued under subsection (1).
 
              (5)  This section applies to the certified copy as if it were the original.
 
 ## Part 3—Information gathering provisions
 
-##### <a id="82"></a>82  Chief Executive Medicare may request information
+##### <a id="82"></a>82  Medicare Australia CEO may request information
 
-             (1)  If the Chief Executive Medicare believes on reasonable grounds that a person is capable of giving information that is relevant to determining:
+             (1)  If the Medicare Australia CEO believes on reasonable grounds that a person is capable of giving information that is relevant to determining:
 
                      (a)  whether a person is liable to pay a run‑off cover support payment; or
 
@@ -3138,7 +3121,7 @@ whether or not the payment of the money to the payment debtor is dependent on a 
 
                      (c)  whether a person has midwife professional indemnity cover provided by a contract of insurance with a particular eligible insurer;
 
-the Chief Executive Medicare may request the person to give the Chief Executive Medicare the information.
+the Medicare Australia CEO may request the person to give the Medicare Australia CEO the information.
 
 Note:          Failure to comply with the request is an offence (see section 84).
 
@@ -3146,7 +3129,7 @@ Note:          Failure to comply with the request is an offenc
 
                      (a)  must be made in writing; and
 
-                     (b)  must state what information must be given to the Chief Executive Medicare; and
+                     (b)  must state what information must be given to the Medicare Australia CEO; and
 
                      (c)  may require the information to be verified by statutory declaration; and
 
@@ -3156,7 +3139,7 @@ Note:          Failure to comply with the request is an offenc
 
 The day specified under paragraph (d) must be at least 28 days after the day on which the request is made.
 
-##### <a id="83"></a>83  Chief Executive Medicare must be notified of a change in circumstances etc.
+##### <a id="83"></a>83  Medicare Australia CEO must be notified of a change in circumstances etc.
 
              (1)  A person who:
 
@@ -3168,7 +3151,7 @@ The day specified under paragraph (d) must be at least 28 days after the day o
 
                              (ii)  the person fails to satisfy a condition on which the exemption from the payment depends;
 
-must notify the Chief Executive Medicare of that change in circumstances or that failure, as the case may be.
+must notify the Medicare Australia CEO of that change in circumstances or that failure, as the case may be.
 
 Note:          Failure to notify is an offence (see section 85).
 
@@ -3176,9 +3159,9 @@ Note:          Failure to notify is an offence (see section 
 
                      (a)  be in writing; and
 
-                     (b)  set out details of the change in circumstances or failure of which the person is required to notify the Chief Executive Medicare under subsection (1); and
+                     (b)  set out details of the change in circumstances or failure of which the person is required to notify the Medicare Australia CEO under subsection (1); and
 
-                     (c)  be given to the Chief Executive Medicare within 28 days after the day on which the person becomes aware of the change in circumstances or failure, as the case may be.
+                     (c)  be given to the Medicare Australia CEO within 28 days after the day on which the person becomes aware of the change in circumstances or failure, as the case may be.
 
 ##### <a id="84"></a>84  Failing to give information
 
@@ -3194,9 +3177,9 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="85"></a>85  Failing to notify
 
-             (1)  This section applies if section 83 requires a person to notify the Chief Executive Medicare, within a particular period, of a matter.
+             (1)  This section applies if section 83 requires a person to notify the Medicare Australia CEO, within a particular period, of a matter.
 
-             (2)  The person commits an offence if the person fails to notify the Chief Executive Medicare of that matter within that period.
+             (2)  The person commits an offence if the person fails to notify the Medicare Australia CEO of that matter within that period.
 
                     Penalty:  30 penalty units.
 
@@ -3208,11 +3191,11 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="86"></a>86  General administration of this Act and _Midwife Professional Indemnity (Run‑off Cover Support Payment) Act 2010_
 
-                   The Chief Executive Medicare has the general administration of this Act and the _Midwife Professional Indemnity (Run‑off Cover Support Payment) Act 2010_.
+                   The Medicare Australia CEO has the general administration of this Act and the _Midwife Professional Indemnity (Run‑off Cover Support Payment) Act 2010_.
 
-##### <a id="87"></a>87  Additional functions of the Chief Executive Medicare
+##### <a id="87"></a>87  Additional functions of the Medicare Australia CEO
 
-                   In addition to the functions of the Chief Executive Medicare under the _Human Services (Medicare) Act 1973_, the Chief Executive Medicare has such additional functions as are conferred on the Chief Executive Medicare under this Act and the _Midwife Professional Indemnity (Run‑off Cover Support Payment) Act 2010_.
+                   In addition to the functions of the Medicare Australia CEO under the _Medicare Australia Act 1973_, the Medicare Australia CEO has such additional functions as are conferred on the Medicare Australia CEO under this Act and the _Midwife Professional Indemnity (Run‑off Cover Support Payment) Act 2010_.
 
 ##### <a id="88"></a>88  Officers to observe secrecy
 
@@ -3258,7 +3241,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                              (ii)  the _Health Insurance Act 1973_; or
 
-                            (iii)  a medicare program; or
+                            (iii)  the _Medicare Australia Act 1973_; or
 
                             (iv)  the _National Health Act 1953_; or
 
@@ -3266,7 +3249,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                     Penalty:  Imprisonment for 2 years.
 
-             (3)  Despite subsection (2), the Secretary or the Chief Executive Medicare may divulge any protected information to an authority or person if:
+             (3)  Despite subsection (2), the Secretary or the Medicare Australia CEO may divulge any protected information to an authority or person if:
 
                      (a)  the authority or person is an authority or person specified in the Rules for the purposes of this subsection; and
 
@@ -3286,8 +3269,6 @@ is, in respect of that information, subject to the same rights, privileges, obli
 
 Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
 
-          (5A)  Despite subsection (2), an officer may make a record of information with the express or implied authorisation of the person to whom the information relates.
-
 ##### <a id="89"></a>89  Act not to apply in relation to State insurance within a State
 
                    If, but for this section, a provision of this Act:
@@ -3306,7 +3287,7 @@ the provision is not to have that application.
 
                      (b)  necessary or convenient to be provided for in order to carry out or give effect to this Act.
 
-             (2)  The Rules may make provision for or in relation to a matter by conferring a power on the Minister or on the Chief Executive Medicare.
+             (2)  The Rules may make provision for or in relation to a matter by conferring a power on the Minister or on the Medicare Australia CEO.
 
 Rules may incorporate material
 
@@ -3396,792 +3377,311 @@ of Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 360–418): 1 July 2011</div>
+    <div>Schedule 4 (items 360–418): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Midwife Professional Indemnity Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>47, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 2): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Chapter 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 11</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 11(8)</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. Nos. 32 and 47, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12, 13</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 14</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 15(7)</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 22(2)</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 26</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 27</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27, 28</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. Nos. 32 and 47, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 38</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 39</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39, 40</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 46</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 51</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 52</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 52–54</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 55</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 56(6)</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56, 57</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 58–61</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 62</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 62, 63</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 65</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 65(2)</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 76, 77</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 80</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 80(2)</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 80, 81</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 82</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 83</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 87</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 87, 88</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
   </td>
 </tr></table>
 
 ### Note 2
 
-Subsection 51(6)—Schedule 4 (item 395) of the _Human Services Legislation Amendment Act 2011_ (No. 32, 2011) provides as follows:
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
 
 ## Schedule 4
+
+## 360  Subsection 5(1) (definition of _apportionment certificate_)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 361  Subsection 5(1)
+
+Insert:
+
+                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 362  Subsection 5(1) (definition of _Level 1 qualifying claim certificate_)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 363  Subsection 5(1) (definition of _Level 2 qualifying claim certificate_)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 364  Subsection 5(1) (definition of _Medicare Australia CEO_)
+
+Repeal the definition.
+
+## 365  Subsection 9(3) (table item 2)
+
+Omit “Medicare CEO”, substitute “Chief Executive Medicare”.
+
+## 366  Subsection 9(3) (table item 13)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 367  Section 11
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note 1:    The heading to section 11 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+_Note 2:    The heading to subsection 11(8) is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 368  Sections 12 and 13
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 369  Section 14
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 14 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 370  Section 15
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to subsection 15(7) is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 371  Subparagraph 16(1)(c)(ii)
+
+Omit “Medicare CEO”, substitute “Chief Executive Medicare”.
+
+## 372  Subsection 18(1)
+
+Omit “Medicare Australia CEO may”, substitute “Chief Executive Medicare may”.
+
+## 373  Subparagraph 18(1)(d)(ii)
+
+Omit “Medicare CEO”, substitute “Chief Executive Medicare”.
+
+## 374  Subsection 18(4)
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 375  Section 22
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to subsection 22(2) is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 376  Section 25
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 377  Section 26
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 26 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 378  Subsection 27(1)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 27 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 379  Section 28
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 380  Subsection 29(2) (table items 8 and 14)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 381  Paragraphs 31(3)(b) and (4)(c)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 382  Subparagraph 32(1)(c)(ii)
+
+Omit “Medicare CEO”, substitute “Chief Executive Medicare”.
+
+## 383  Paragraph 32(1)(f)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 384  Section 37
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 385  Section 38
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 38 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 386  Subsection 39(1)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 39 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 387  Section 40
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 388  Section 45
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 389  Section 46
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 46 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 390  Subsection 50(2) (table item 1)
+
+Omit “Medicare CEO”, substitute “Chief Executive Medicare”.
+
+## 391  Subsection 50(2) (table item 7)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 392  Subsection 51(1)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 51 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 393  Subparagraph 51(1)(a)(i)
+
+Omit “Medicare CEO”, substitute “Chief Executive Medicare”.
+
+## 394  Paragraph 51(1)(b)
+
+Omit “Medicare CEO”, substitute “Chief Executive Medicare”.
 
 ## 395  Subsections 51(2) to (7)
 
 Omit “Medicare CEO”, substitute “Chief Executive Medicare”.
 
-The proposed amendment was misdescribed and is not incorporated in this compilation.
+## 396  Subsection 52(1)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 52 is altered by omitting “Medicare CEO” and substituting “Chief Executive Medicare”._
+
+## 397  Sections 53 and 54
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 398  Section 55
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 55 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 399  Subsection 56(1)
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 400  Subsection 56(2)
+
+Omit “Medicare CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 401  Subsections 56(3) to (6)
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to subsection 56(6) is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 402  Sections 57 to 61
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 403  Section 62
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 62 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 404  Sections 63 and 64
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 405  Section 65
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note 1:    The heading to section 65 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+_Note 2:    The heading to subsection 65(2) is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 406  Section 67
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 407  Subsection 72(3) (table item 10)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 408  Sections 76 and 77
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 409  Subsection 79(3)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 410  Section 80
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note 1:    The heading to section 80 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+_Note 2:    The heading to subsection 80(2) is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 411  Section 81
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 412  Section 82
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 82 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 413  Section 83
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 83 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 414  Sections 85 and 86
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 415  Section 87
+
+Omit “Medicare Australia CEO under the _Medicare Australia Act 1973_, the Medicare Australia CEO has such additional functions as are conferred on the Medicare Australia CEO”, substitute “Chief Executive Medicare under the _Human Services (Medicare) Act 1973_, the Chief Executive Medicare has such additional functions as are conferred on the Chief Executive Medicare”.
+
+_Note:       The heading to section 87 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 416  Subparagraph 88(2)(c)(iii)
+
+Repeal the subparagraph, substitute:
+
+                            (iii)  a medicare program; or
+
+## 417  Subsection 88(3)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 417A  After subsection 88(5)
+
+Insert:
+
+          (5A)  Despite subsection (2), an officer may make a record of information with the express or implied authorisation of the person to whom the information relates.
+
+## 418  Subsection 90(2)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+As at 6 June 2011 the amendments are not incorporated in this compilation.
 
  
