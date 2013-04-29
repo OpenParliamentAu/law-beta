@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00361/Html/80151952-2cfb-442e-95d9-b227a2a9f1a9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00210/Html/Quarantine1908_WD02_image001.gif)
 
 # Quarantine Act 1908
 
 **Act No. 3 of 1908 as amended**
 
-This compilation was prepared on 9 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -171,9 +171,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [26A](#26A).       Vessels to be brought to mooring grounds
 
-[27A](#27A).       Pre‑arrival and pre‑departure reports by certain vessels (other than aircraft) and installations
+[27A](#27A).       Pre-arrival and pre-departure reports by certain vessels (other than aircraft) and installations
 
-[27B](#27B).       Pre‑arrival and pre‑departure reports by certain aircraft
+[27B](#27B).       Pre-arrival and pre-departure reports by certain aircraft
 
 [28](#28).          Quarantine officer may require master and medical officer of vessel or installation to answer questions
 
@@ -341,13 +341,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [66AC](#66AC).    Monitoring warrants
 
-[66AD](#66AD).    Seizures without offence‑related warrant in emergency situations
+[66AD](#66AD).    Seizures without offence-related warrant in emergency situations
 
-    **Division 3—Offence‑related searches and seizures**
+    **Division 3—Offence-related searches and seizures**
 
-[66AE](#66AE).     Offence‑related searches and seizures
+[66AE](#66AE).     Offence-related searches and seizures
 
-[66AF](#66AF).     Offence‑related warrants
+[66AF](#66AF).     Offence-related warrants
 
 [66AG](#66AG).    The things that are authorised by a search warrant
 
@@ -381,7 +381,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [66AS](#66AS).     Retention of things that are seized
 
-[66AT](#66AT).     Magistrate may permit a thing to be kept
+[66AT](#66AT).    Magistrate may permit a thing to be kept
 
 [66AU](#66AU).    Release of seized goods
 
@@ -395,15 +395,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [66AY](#66AY).    Appointment of Commissioner
 
-[66AZ](#66AZ).     Hearings
+[66AZ](#66AZ).    Hearings
 
-[66AZA](#66AZA).  Commissioner not bound by the rules of evidence
+[66AZA](#66AZA). Commissioner not bound by the rules of evidence
 
 [66AZB](#66AZB).  Quarantine officers
 
 [66AZC](#66AZC).  Conferral of quarantine powers
 
-[66AZD](#66AZD).  Disclosure of personal information
+[66AZD](#66AZD). Disclosure of personal information
 
 [66AZE](#66AZE).  Application of the _Royal Commissions Act 1902_
 
@@ -459,7 +459,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [74BC](#74BC).     Power to require information after entering premises with consent or under warrant
 
-[74C](#74C).       Non‑compliance with requirements
+[74C](#74C).       Non-compliance with requirements
 
 [74D](#74D).       Powers relating to vessels and vehicles
 
@@ -521,7 +521,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part I—Introductory
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Quarantine Act 1908_.
 
@@ -531,19 +531,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="2A"></a>2A  Power to supersede Quarantine measures under State Acts
 
-             (1)  Whenever the Governor‑General is satisfied that an emergency exists which makes it necessary to do so, he or she may, by proclamation, declare that any or all measures of quarantine prescribed by or under any State Act shall, for such period as is specified in the proclamation, cease to have effect, and such measure shall thereupon cease to have effect accordingly.
+             (1)  Whenever the Governor-General is satisfied that an emergency exists which makes it necessary to do so, he or she may, by proclamation, declare that any or all measures of quarantine prescribed by or under any State Act shall, for such period as is specified in the proclamation, cease to have effect, and such measure shall thereupon cease to have effect accordingly.
 
-             (2)  The Governor‑General may at any time revoke or vary any such proclamation.
+             (2)  The Governor-General may at any time revoke or vary any such proclamation.
 
 ##### <a id="2B"></a>2B  Proclamation in event of epidemic
 
-             (1)  Where the Governor‑General is satisfied that an epidemic caused by a quarantinable disease or quarantinable pest or danger of such an epidemic exists in a part of the Commonwealth, the Governor‑General may, by proclamation, declare the existence in that part of the Commonwealth of that epidemic or of the danger of that epidemic.
+             (1)  Where the Governor-General is satisfied that an epidemic caused by a quarantinable disease or quarantinable pest or danger of such an epidemic exists in a part of the Commonwealth, the Governor-General may, by proclamation, declare the existence in that part of the Commonwealth of that epidemic or of the danger of that epidemic.
 
              (2)  Upon the issue of a proclamation under subsection (1) the Minister may, during the period the proclamation remains in force, give such directions and take such action as he or she thinks necessary to control and eradicate the epidemic, or to remove the danger of the epidemic, by quarantine measures or measures incidental to quarantine.
 
 Note:          Under section 149.1 of the _Criminal Code_, it is an offence to obstruct a person who is taking any action that the person is authorised to take under this subsection.
 
-          (2A)  If the Governor‑General is satisfied that the epidemic or danger of an epidemic to which a proclamation issued under subsection (1) relates has the potential so to affect an industry of national significance that it calls for the exercise of coordinated response powers in accordance with section 3, the Governor‑General may, in the proclamation issued under subsection (1), declare it to be a proclamation to which section 3 applies.
+          (2A)  If the Governor-General is satisfied that the epidemic or danger of an epidemic to which a proclamation issued under subsection (1) relates has the potential so to affect an industry of national significance that it calls for the exercise of coordinated response powers in accordance with section 3, the Governor-General may, in the proclamation issued under subsection (1), declare it to be a proclamation to which section 3 applies.
 
           (2B)  A direction may be given, or an action taken, by the Minister under subsection (2) despite the provisions of any other Commonwealth law, or of any law of a State or Territory.
 
@@ -553,7 +553,7 @@ Note:          Under section 149.1 of the _Criminal Code_, i
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
              (4)  In paragraph (3)(a), strict liability applies to the physical element of circumstance, that the direction given to the person was under subsection (2).
 
@@ -619,7 +619,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
            (10)  In paragraph (9)(a), strict liability applies to the physical element of circumstance, that the giving of the direction was under this section.
 
@@ -675,7 +675,7 @@ in respect of which the authorisation was given.
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="adjac-area"></a>**_Adjacent area_** means an adjacent area in respect of a State, of the Northern Territory, of the Territory of Ashmore and Cartier Islands, of the Territory of Cocos (Keeling) Islands or of the Territory of Christmas Island, as determined in accordance with section 5 of the Sea Installations Act.
+                    <a name="adjac-area"></a>**_Adjacent area_** means an adjacent area in respect of a State, of the Northern Territory, of the Territory of Ashmore and Cartier  Islands, of the Territory of Cocos (Keeling) Islands or of the Territory of Christmas   Island, as determined in accordance with section 5 of the Sea Installations Act.
 
                     <a name="aircraft"></a>**_aircraft_** means any machine or craft that can derive support in the atmosphere from the reactions of the air or from buoyancy but does not include an air cushion vehicle.
 
@@ -743,15 +743,15 @@ in respect of which the authorisation was given.
 
                      (d)  in any other case—a Chief Quarantine Officer (Human Quarantine), a Chief Quarantine Officer (Animals) or a Chief Quarantine Officer (Plants).
 
-                    <a name="christma-island"></a>**_Christmas Island_** means the Territory of Christmas Island.
+                    <a name="christma-island"></a>**_Christmas Island_** means the Territory of Christmas   Island.
 
-                    <a name="vessel"></a><a name="christma-island"></a>**_Christmas Island_****_vessel_**means a vessel which does not voyage or ply to or from any place outside Christmas Island.
+                    <a name="vessel"></a><a name="christma-island"></a>**_Christmas Island_****_vessel_**means a vessel which does not voyage or ply to or from any place outside Christmas  Island.
 
                     <a name="coastal-area"></a>**_Coastal area_** has the same meaning as in the _Customs Act 1901_.
 
-                    <a name="coco-island"></a>**_Cocos Islands_** means the Territory of Cocos (Keeling)  Islands.
+                    <a name="coco-island"></a>**_Cocos Islands_** means the Territory of Cocos (Keeling) Islands.
 
-                    <a name="vessel"></a><a name="coco-island"></a>**_Cocos Islands_****_vessel_** means a vessel which does not voyage or ply to or from any place outside the Cocos Islands.
+                    <a name="vessel"></a><a name="coco-island"></a>**_Cocos Islands_****_vessel_** means a vessel which does not voyage or ply to or from any place outside the Cocos  Islands.
 
                     <a name="command"></a>**_commander_**, in relation to an aircraft, means the person in charge or command of the aircraft.
 
@@ -783,7 +783,7 @@ in respect of which the authorisation was given.
 
                     <a name="discharg"></a>**_discharge_**, in relation to a vessel or installation, includes any escape, spilling, leaking, pumping, emptying or other release, however caused, from the vessel or installation.
 
-                    <a name="diseas"></a>**_disease_** includes a micro‑organism, a disease agent, an infectious agent and a parasite.
+                    <a name="diseas"></a>**_disease_** includes a micro-organism, a disease agent, an infectious agent and a parasite.
 
                     <a name="docum"></a>**_document_** includes a book and any record.
 
@@ -841,7 +841,7 @@ and, to avoid doubt, includes mail of any kind and ballast water.
 
                     <a name="grant"></a>**_grant_** includes give.
 
-                    <a name="imported"></a>**_Imported_**, in relation to an animal, a plant or other goods, means imported into Australia, into the Cocos Islands or into Christmas Island.
+                    <a name="imported"></a>**_Imported_**, in relation to an animal, a plant or other goods, means imported into Australia, into the Cocos Islands or into Christmas  Island.
 
                     <a name="industri-nation-signific"></a>**_industry of national significance_** means any primary industry the disruption of which would be a matter of national significance, whether or not the industry is involved in the export trade.
 
@@ -857,7 +857,7 @@ and, to avoid doubt, includes mail of any kind and ballast water.
 
 Note:          In 2008, the text of the International Health Regulations was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
 
-                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (Timor Sea Treaty) Act 2003_.
+                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (__Timor Sea__Treaty) Act 2003_.
 
                     <a name="land-place"></a>**_Landing place_** means any place declared by proclamation to be a landing place for aircraft.
 
@@ -887,7 +887,7 @@ Note:          In 2008, the text of the International Health R
 
                             (iii)  any other agency or authority, whether incorporated or not, that is established for a public purpose by or under a law of the Commonwealth, or of a State or Territory.
 
-                    <a name="natur-resourc"></a>**_Natural resources_** means the mineral and other non‑living resources of the seabed and its subsoil.
+                    <a name="natur-resourc"></a>**_Natural resources_** means the mineral and other non-living resources of the seabed and its subsoil.
 
                     <a name="occupi"></a>**_occupier_** of premises:
 
@@ -965,7 +965,7 @@ and includes a vessel:
 
                      (e)  that is on a voyage from Australia to Christmas Island or from Christmas Island to Australia; or
 
-                      (f)  that is on a voyage from the Cocos Islands to Christmas Island or from Christmas Island to the Cocos Islands.
+                      (f)  that is on a voyage from the Cocos  Islands to Christmas Island or from Christmas Island to the Cocos Islands.
 
                     <a name="packag"></a>**_Package_** includes every means by which plants are cased, covered, enclosed, contained, or packed for carriage.
 
@@ -995,9 +995,9 @@ and includes a vessel:
 
                               (i)  in the case of a vessel in, or about to arrive in, Australia—places outside Australia; or
 
-                             (ii)  in the case of a vessel in, or about to arrive in, the Cocos Islands—places outside the Cocos Islands; or
+                             (ii)  in the case of a vessel in, or about to arrive in, the Cocos Islands—places outside the Cocos  Islands; or
 
-                            (iii)  in the case of a vessel in, or about to arrive in, Christmas Island—places outside Christmas Island;
+                            (iii)  in the case of a vessel in, or about to arrive in, Christmas Island—places outside Christmas  Island;
 
                             and having effect at the port where the vessel is for the time being or is about to arrive; and
 
@@ -1033,9 +1033,9 @@ and includes a vessel:
 
                     <a name="protect-servic-offic"></a>**_protective service officer_** means a protective service officer within the meaning of the _Australian Federal Police Act 1979_.
 
-                    <a name="quarantin-diseas"></a>**_Quarantinable disease_** means any disease declared by the Governor‑General, by proclamation, to be a quarantinable disease.
+                    <a name="quarantin-diseas"></a>**_Quarantinable disease_** means any disease declared by the Governor-General, by proclamation, to be a quarantinable disease.
 
-                    <a name="quarantin-pest"></a>**_quarantinable pest_** means any pest declared by the Governor‑General, by Proclamation, to be a quarantinable pest.
+                    <a name="quarantin-pest"></a>**_quarantinable pest_** means any pest declared by the Governor-General, by Proclamation, to be a quarantinable pest.
 
                     <a name="quarantin-area"></a>**_Quarantine area_** means any part of Australia, the Cocos Islands or Christmas Island which, in pursuance of this Act, is declared to be a quarantine area.
 
@@ -1053,7 +1053,7 @@ and includes a vessel:
 
                     <a name="sea-instal-act"></a>**_Sea Installations Act_** means the _Sea Installations Act 1987_.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means Secretary to the Department.
 
                     <a name="special-quarantin-zone"></a>**_Special Quarantine Zone_** means:
 
@@ -1111,7 +1111,7 @@ who is covered by an arrangement made under:
 
                      (c)  an air cushion vehicle; or
 
-                     (d)  an off‑shore industry mobile unit (being an overseas installation) that is bound for, or is at, a port;
+                     (d)  an off-shore industry mobile unit (being an overseas installation) that is bound for, or is at, a port;
 
 and includes a part of any of the above.
 
@@ -1119,7 +1119,7 @@ and includes a part of any of the above.
 
        (1AA)  Before declaring any arm or unit of the Australian Defence Force to be a national response agency for the purposes of subsection 3(1), the Minister must consult with the Minister having responsibility for the Defence Force.
 
-       (1AB)  Before declaring any department or part of a department of the Commonwealth, a State or a Territory, or any other agency or authority established by or under a law of the Commonwealth, a State or a Territory, to be a national response agency for the purposes of subsection 3(1), the Minister must consult with the Minister of the Commonwealth, that State or that Territory having responsibility for the department, agency or other authority concerned.
+        (1AB)  Before declaring any department or part of a department of the Commonwealth, a State or a Territory, or any other agency or authority established by or under a law of the Commonwealth, a State or a Territory, to be a national response agency for the purposes of subsection 3(1), the Minister must consult with the Minister of the Commonwealth, that State or that Territory having responsibility for the department, agency or other authority concerned.
 
           (1A)  In this Act, unless the contrary intention appears, references to **_under_** this Act, **_contravention_** of this Act and **_compliance_** with this Act are taken to be references to under, contravention of, or compliance with, as the case may be:
 
@@ -1135,7 +1135,7 @@ and includes a part of any of the above.
 
                      (a)  is not able to move or be moved as an entity from one place to another; and
 
-                     (b)  is used or is to be used off‑shore in or in any operations or activities associated with, or incidental to, exploring or exploiting natural resources.
+                     (b)  is used or is to be used off-shore in or in any operations or activities associated with, or incidental to, exploring or exploiting natural resources.
 
              (4)  A reference in this Act to a resources industry mobile unit shall be read as a reference to:
 
@@ -1151,7 +1151,7 @@ and includes a part of any of the above.
 
                              (ii)  is able to move or be moved as an entity from one place to another; and
 
-                            (iii)  is used or is to be used off‑shore wholly or principally in:
+                            (iii)  is used or is to be used off-shore wholly or principally in:
 
                                         (A)  exploring or exploiting natural resources by drilling the seabed or its subsoil with equipment on or forming part of the structure or by obtaining substantial quantities of material from the seabed or its subsoil with equipment of that kind; or
 
@@ -1217,7 +1217,7 @@ it shall not be taken to be installed in that adjacent area under subsection (
 
           (7D)  A sea installation shall not be taken to be installed in an adjacent area for the purposes of this Act unless it is to be taken to be so installed under this section.
 
-          (7E)  Subject to subsection (7G), for the purposes of this Act, a sea installation shall be taken to be installed in a coastal area if:
+           (7E)  Subject to subsection (7G), for the purposes of this Act, a sea installation shall be taken to be installed in a coastal area if:
 
                      (a)  the installation is in, or is brought into, physical contact with a part of the seabed in the coastal area; or
 
@@ -1287,7 +1287,7 @@ for the purposes of this Act.
 
 ##### <a id="5B"></a>5B  When person or thing is taken to have been exposed to another person or thing
 
-             (1)  For the purposes of this Act, a person or thing is taken to have been **_exposed_** to another person or to a thing if the first‑mentioned person or thing has been, or is likely to have been:
+             (1)  For the purposes of this Act, a person or thing is taken to have been **_exposed_** to another person or to a thing if the first-mentioned person or thing has been, or is likely to have been:
 
                      (a)  in physical contact with; or
 
@@ -1333,7 +1333,7 @@ the other person or thing or a person or thing to which the other person or thin
 
              (2)  Any references in provisions of this Act to the Cocos Islands do not imply that references to Australia or to the Commonwealth in other provisions of this Act do not also include references to the Cocos Islands.
 
-             (3)  Any references in provisions of this Act to Christmas Island do not imply that references to Australia or to the Commonwealth in other provisions of this Act do not also include references to Christmas Island.
+             (3)  Any references in provisions of this Act to Christmas Island do not imply that references to Australia or to the Commonwealth in other provisions of this Act do not also include references to Christmas  Island.
 
 Note:          Under paragraph 17(a) of the _Acts Interpretation Act 1901_, in any Act **_Australia_** and **_Commonwealth_** include the Cocos Islands and Christmas Island unless the contrary intention appears.
 
@@ -1359,13 +1359,13 @@ and so has effect:
 
              (1)  If:
 
-                     (a)  a provision of this Act refers to a Proclamation, order, determination or declaration made, an approval, direction, authorisation, permission or permit given, or any other act done, by the Governor‑General, the Minister or the Secretary or by a Director of Quarantine, Chief Quarantine Officer, quarantine officer or another person; and
+                     (a)  a provision of this Act refers to a Proclamation, order, determination or declaration made, an approval, direction, authorisation, permission or permit given, or any other act done, by the Governor-General, the Minister or the Secretary or by a Director of Quarantine, Chief Quarantine Officer, quarantine officer or another person; and
 
-                     (b)  there is no other provision of this Act expressly conferring power on the Governor‑General, Minister, Secretary, Director of Quarantine, Chief Quarantine Officer, quarantine officer or other person to make such a Proclamation, order, determination or declaration, give such an approval, direction, authorisation, permission or permit or do such an act;
+                     (b)  there is no other provision of this Act expressly conferring power on the Governor-General, Minister, Secretary, Director of Quarantine, Chief Quarantine Officer, quarantine officer or other person to make such a Proclamation, order, determination or declaration, give such an approval, direction, authorisation, permission or permit or do such an act;
 
-the Governor‑General, Minister, Secretary, Director of Quarantine, Chief Quarantine Officer, quarantine officer or other person has power by this subsection to make such a Proclamation, order, determination or declaration, give such an approval, direction, authorisation, permission or permit or do such an act, as the case requires.
+the Governor-General, Minister, Secretary, Director of Quarantine, Chief Quarantine Officer, quarantine officer or other person has power by this subsection to make such a Proclamation, order, determination or declaration, give such an approval, direction, authorisation, permission or permit or do such an act, as the case requires.
 
-             (2)  If the Governor‑General, the Minister or the Secretary or a Director of Quarantine, Chief Quarantine Officer, quarantine officer or other person has power under a provision of this Act (including power under subsection (1)) to make a Proclamation, order, determination or declaration, give an approval, direction, authorisation, permission or permit or do any other act, the power may, unless the contrary intention appears, be exercised subject to conditions, restrictions or requirements.
+             (2)  If the Governor-General, the Minister or the Secretary or a Director of Quarantine, Chief Quarantine Officer, quarantine officer or other person has power under a provision of this Act (including power under subsection (1)) to make a Proclamation, order, determination or declaration, give an approval, direction, authorisation, permission or permit or do any other act, the power may, unless the contrary intention appears, be exercised subject to conditions, restrictions or requirements.
 
              (3)  Unless the contrary intention appears, any power conferred by this Act, by a Proclamation under this Act, by the regulations or by a compliance agreement, to make a Proclamation, order, determination or declaration or give an approval, direction, authorisation, permission or permit includes:
 
@@ -1443,7 +1443,7 @@ the Governor‑General, Minister, Secretary, Director of Quarantine, Chief Quara
 
 ##### <a id="9AA"></a>9AA  Appointment of officers responsible for animal and plant quarantine
 
-             (1)  The person for the time being holding, or performing the duties of, the office of Secretary of the Department that deals with animal and plant quarantine shall be the Director of Animal and Plant Quarantine.
+             (1)  The person for the time being holding, or performing the duties of, the office of Secretary to the Department that deals with animal and plant quarantine shall be the Director of Animal and Plant Quarantine.
 
              (2)  The Minister may, by writing, appoint Chief Quarantine Officers (Animals) or Chief Quarantine Officers (Plants).
 
@@ -1457,7 +1457,7 @@ the Governor‑General, Minister, Secretary, Director of Quarantine, Chief Quara
 
                     (ca)  a protective service officer; or
 
-                   (cb)  an employee of a body corporate established or continued in existence for a public purpose by or under a Commonwealth law, if the body corporate is prescribed for the purposes of this paragraph;
+                    (cb)  an employee of a body corporate established or continued in existence for a public purpose by or under a Commonwealth law, if the body corporate is prescribed for the purposes of this paragraph;
 
 to be either or both of the following:
 
@@ -1485,7 +1485,7 @@ to be either or both of the following:
 
 to be a temporary quarantine officer for such period as he or she thinks necessary.
 
-          (1A)  Where the Governor‑General has, in pursuance of section 2B, declared the existence of an epidemic or the danger of an epidemic in any part of the Commonwealth, any person thereto authorized in writing by a Director of Quarantine may, either orally or in writing, authorize any person to act during any specified period as a temporary quarantine officer in that part of the Commonwealth.
+          (1A)  Where the Governor-General has, in pursuance of section 2B, declared the existence of an epidemic or the danger of an epidemic in any part of the Commonwealth, any person thereto authorized in writing by a Director of Quarantine may, either orally or in writing, authorize any person to act during any specified period as a temporary quarantine officer in that part of the Commonwealth.
 
           (1B)  A person appointed as a temporary quarantine officer under subsection (1) or authorised to act as a temporary quarantine officer under subsection (1A) is, in the performance of his or her functions and in the exercise of his or her powers, subject to the directions of a Chief Quarantine Officer or the relevant Director of Quarantine.
 
@@ -1507,7 +1507,7 @@ to be a temporary quarantine officer for such period as he or she thinks necessa
 
 ##### <a id="11"></a>11  Arrangements with State and Territory Governments to aid in carrying out this Act
 
-             (1)  The Governor‑General may enter into an arrangement with the Governor of any State or the Administrator of the Northern Territory with respect to all or any of the following matters:
+             (1)  The Governor-General may enter into an arrangement with the Governor of any State or the Administrator of the Northern   Territory with respect to all or any of the following matters:
 
                      (a)  the use of any State or Territory quarantine station or other place in the State or Territory as a quarantine station under this Act, and the control and management of any such quarantine station;
 
@@ -1583,7 +1583,7 @@ Note:          Section 71 of the _Public Service Act 1999_ a
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 ##### <a id="12B"></a>12B  Laboratories etc.
 
@@ -1597,7 +1597,7 @@ for the purpose of any such diagnosis.
 
 ##### <a id="13"></a>13  Proclamation of ports of entry etc.
 
-             (1)  The Governor‑General may, by proclamation:
+             (1)  The Governor-General may, by proclamation:
 
                      (a)  declare any ports in Australia to be first ports of entry for overseas vessels; or
 
@@ -1625,9 +1625,9 @@ for the purpose of any such diagnosis.
 
                               (i)  from any part of the Commonwealth to any other part of the Commonwealth; or
 
-                             (ii)  from any part of the Cocos Islands to any other part of the Cocos Islands; or
+                             (ii)  from any part of the Cocos  Islands to any other part of the Cocos Islands; or
 
-                            (iii)  from any part of Christmas Island to any other part of Christmas Island; or
+                            (iii)  from any part of Christmas  Island to any other part of Christmas Island; or
 
                     (ga)  prohibit the removal of any animals, plants or other goods, or any parts of animals or plants:
 
@@ -1635,7 +1635,7 @@ for the purpose of any such diagnosis.
 
                              (ii)  from the Cocos Islands or a part of the Cocos Islands to Australia or a part of Australia; or
 
-                   (gb)  prohibit the removal of any animals, plants or other goods or any parts of animals or plants:
+                    (gb)  prohibit the removal of any animals, plants or other goods or any parts of animals or plants:
 
                               (i)  from Australia or a part of Australia to Christmas Island or a part of Christmas Island; or
 
@@ -1645,7 +1645,7 @@ for the purpose of any such diagnosis.
 
                               (i)  from the Cocos Islands or a part of the Cocos Islands to Christmas Island or a part of Christmas Island; or
 
-                             (ii)  from Christmas Island or a part of Christmas Island to the Cocos Islands or a part of the Cocos Islands; or
+                             (ii)  from Christmas Island or a part of Christmas Island to the Cocos Islands or a part of the Cocos  Islands; or
 
                      (h)  declare any part of the Commonwealth, of the Cocos Islands, or of Christmas Island in which any disease or pest exists, or is suspected to exist, to be a quarantine area; or
 
@@ -1655,7 +1655,7 @@ for the purpose of any such diagnosis.
 
           (1B)  The power to declare first Cocos Islands ports of entry shall extend to authorize the declaration of a port to be a first Cocos Islands port of entry for all overseas vessels, or for overseas vessels from any particular place, or for any class of overseas vessels.
 
-          (1C)  The power to declare first Christmas Island ports of entry extends to authorize the declaration of a port to be a first Christmas Island port of entry for all overseas vessels, or for overseas vessels from any particular place, or for any class of overseas vessels.
+          (1C)  The power to declare first Christmas Island ports of entry extends to authorize the declaration of a port to be a first Christmas  Island port of entry for all overseas vessels, or for overseas vessels from any particular place, or for any class of overseas vessels.
 
              (2)  The power of prohibition under this section shall extend to authorize prohibition generally or as otherwise provided by the instrument authorising the prohibition, including prohibition either absolutely or subject to any specified conditions or restrictions.
 
@@ -1671,11 +1671,11 @@ for the purpose of any such diagnosis.
 
                               (i)  from a part of Australia to another part of Australia; or
 
-                             (ii)  from a part of the Cocos Islands to another part of the Cocos Islands; or
+                             (ii)  from a part of the Cocos  Islands to another part of the Cocos Islands; or
 
                             (iii)  from Australia or a part of Australia to the Cocos Islands or a part of the Cocos Islands or from the Cocos Islands or a part of the Cocos Islands to Australia or a part of Australia; or
 
-                            (iv)  from a part of Christmas Island to another part of Christmas Island; or
+                            (iv)  from a part of Christmas  Island to another part of Christmas Island; or
 
                              (v)  from Australia or a part of Australia to Christmas Island or a part of Christmas Island or from Christmas Island or a part of Christmas Island to Australia or a part of Australia; or
 
@@ -1695,9 +1695,9 @@ may provide that the introduction, importation, bringing or removal of the thing
 
 that Director of Quarantine may, by notice in writing given to the person to whom the permit was issued, revoke the permit.
 
-             (3)  The powers conferred on the Governor‑General by this section, in relation to the matters specified in paragraphs (1)(g), (ga), (gb), (gc), (h) and (i), so far as they relate to vessels, people, animals, plants or other goods, or any disease or pest, are exercisable in relation to the Commonwealth, the Cocos Islands or Christmas Island only if the Governor‑General is satisfied that the exercise of the powers is necessary for the purpose of preventing the introduction, establishment or spread of a disease or pest.
+             (3)  The powers conferred on the Governor-General by this section, in relation to the matters specified in paragraphs (1)(g), (ga), (gb), (gc), (h) and (i), so far as they relate to vessels, people, animals, plants or other goods, or any disease or pest, are exercisable in relation to the Commonwealth, the Cocos Islands or Christmas Island only if the Governor-General is satisfied that the exercise of the powers is necessary for the purpose of preventing the introduction, establishment or spread of a disease or pest.
 
-             (4)  Where there is in force a Proclamation (in this subsection referred to as the **_relevant Proclamation_**) under subsection (1) (whether made before or after the commencement of this subsection) prohibiting the importation into Australia of any animals, plants or other goods, the Governor‑General may, by Proclamation (in this subsection referred to as the **_exempting Proclamation_**), either generally or subject to such conditions or restrictions as are specified in the exempting Proclamation, exempt from the operation of the relevant Proclamation animals, plants or other goods of a kind specified in the exempting Proclamation, being animals, plants or other goods that:
+             (4)  Where there is in force a Proclamation (in this subsection referred to as the **_relevant Proclamation_**) under subsection (1) (whether made before or after the commencement of this subsection) prohibiting the importation into Australia of any animals, plants or other goods, the Governor-General may, by Proclamation (in this subsection referred to as the **_exempting Proclamation_**), either generally or subject to such conditions or restrictions as are specified in the exempting Proclamation, exempt from the operation of the relevant Proclamation animals, plants or other goods of a kind specified in the exempting Proclamation, being animals, plants or other goods that:
 
                      (a)  are brought into a part of Australia that is in the Protected Zone or in an area in the vicinity of the Protected Zone on board a Protected Zone vessel; and
 
@@ -1713,23 +1713,23 @@ that Director of Quarantine may, by notice in writing given to the person to who
 
                               (i)  from a part of Australia to another part of Australia; or
 
-                             (ii)  from a part of the Cocos Islands to another part of the Cocos Islands; or
+                             (ii)  from a part of the Cocos  Islands to another part of the Cocos Islands; or
 
                             (iii)  from Australia or a part of Australia to the Cocos Islands or a part of the Cocos Islands; or
 
                             (iv)  from the Cocos Islands or a part of the Cocos Islands to Australia or a part of Australia; or
 
-                             (v)  from a part of Christmas Island to another part of Christmas Island; or
+                             (v)  from a part of Christmas  Island to another part of Christmas Island; or
 
                             (vi)  from Australia or a part of Australia to Christmas Island or a part of Christmas Island; or
 
                            (vii)  from Christmas Island or a part of Christmas Island to Australia or a part of Australia; or
 
-                          (viii)  from Christmas Island or a part of Christmas Island to the Cocos Islands or a part of the Cocos Islands; or
+                           (viii)  from Christmas Island or a part of Christmas Island to the Cocos Islands or a part of the Cocos  Islands; or
 
                             (ix)  from the Cocos Islands or a part of the Cocos Islands to Christmas Island or a part of Christmas Island;
 
-the Governor‑General may, by Proclamation (the **_exempting Proclamation_**), either generally or subject to such conditions or restrictions as are specified in the exempting Proclamation, exempt from the operation of the relevant Proclamation animals, plants or other goods of a kind specified in the exempting Proclamation, being animals, plants or other goods that:
+the Governor-General may, by Proclamation (the **_exempting Proclamation_**), either generally or subject to such conditions or restrictions as are specified in the exempting Proclamation, exempt from the operation of the relevant Proclamation animals, plants or other goods of a kind specified in the exempting Proclamation, being animals, plants or other goods that:
 
                      (c)  are brought or removed, on board a Protected Zone vessel, from a part of Australia that:
 
@@ -1749,7 +1749,7 @@ the Governor‑General may, by Proclamation (the **_exempting Proclamation_**), 
 
 ##### <a id="14"></a>14  Exemption of certain vessels and goods
 
-                   The Governor‑General may exempt, for such time and subject to such conditions as he or she thinks fit, from all or any of the provisions of this Act:
+                   The Governor-General may exempt, for such time and subject to such conditions as he or she thinks fit, from all or any of the provisions of this Act:
 
                      (a)  any ship of war; and
 
@@ -1759,19 +1759,19 @@ the Governor‑General may, by Proclamation (the **_exempting Proclamation_**), 
 
                             (ia)  between Australian ports and Australian installations; or
 
-                             (ii)  between ports in the Cocos Islands; or
+                             (ii)  between ports in the Cocos  Islands; or
 
-                            (iii)  between Australia and New Zealand; or
+                            (iii)  between Australia and New   Zealand; or
 
                             (iv)  between Australia and Fiji; or
 
                              (v)  between Australia and the Cocos Islands; or
 
-                           (va)  between ports in Christmas Island; or
+                           (va)  between ports in Christmas  Island; or
 
-                           (vb)  between Australia and Christmas Island; or
+                           (vb)  between Australia and Christmas  Island; or
 
-                           (vc)  between the Cocos Islands and Christmas Island; or
+                           (vc)  between the Cocos  Islands and Christmas Island; or
 
                             (vi)  between Australia and another place adjacent to Australia;
 
@@ -1781,7 +1781,7 @@ the Governor‑General may, by Proclamation (the **_exempting Proclamation_**), 
 
 ##### <a id="14A"></a>14A  Exemptions pursuant to Torres Strait Treaty
 
-             (1)  Without limiting the power of the Governor‑General to grant exemptions under section 14, the Minister may, by notice published in the _Gazette_, exempt, subject to such conditions (if any) as are specified in the notice, from all of the provisions of this Act, the regulations or a Proclamation under this Act or from so many of those provisions as are specified in the notice:
+             (1)  Without limiting the power of the Governor-General to grant exemptions under section 14, the Minister may, by notice published in the _Gazette_, exempt, subject to such conditions (if any) as are specified in the notice, from all of the provisions of this Act, the regulations or a Proclamation under this Act or from so many of those provisions as are specified in the notice:
 
                      (a)  any Protected Zone vessel that enters a part of Australia that is in the Protected Zone or in an area in the vicinity of the Protected Zone, being a vessel:
 
@@ -1821,7 +1821,7 @@ a direction to cause to be carried on the vessel, for a period specified in the 
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
              (3)  An offence against subsection (2) is an offence of strict liability.
 
@@ -1905,7 +1905,7 @@ the person must, within the period applicable under subsection (2A), cause not
 
                      (b)  the person fails to comply with the requirement.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
              (3)  Subsection (2) does not apply to goods imported in circumstances prescribed by the regulations if any conditions prescribed by the regulations are complied with.
 
@@ -1953,7 +1953,7 @@ a person to whom section 16 of the _Customs Administration Act 1985_ applies m
 
                      (b)  the person fails to comply with the notice.
 
-                    Maximum penalty: 120 penalty units.
+                    Maximum penalty:    120 penalty units.
 
 Note:          This section is subject to the privilege against self incrimination (see subsection 79A(3)).
 
@@ -1961,7 +1961,7 @@ Note:          This section is subject to the privilege agains
 
                    A person must not include any information in a notice given under subsection 16AC(1) or (2), or give any information in response to a notice given under subsection 16AD(1), that the person knows to be false or misleading in a material particular.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="16AF"></a>16AF  Manner of communicating decisions by quarantine officers
 
@@ -1975,7 +1975,7 @@ Note:          This section is subject to the privilege agains
 
                      (b)  the person fails to comply with the requirement.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 ##### <a id="16AG"></a>16AG  Evidence of giving of notices by electronic means
 
@@ -2033,17 +2033,17 @@ The regulations may provide for the manner in which evidence may be given in a p
 
                               (i)  in the case of a vessel that has arrived in Australia from a place outside Australia—its arrival in Australia; or
 
-                             (ii)  in the case of a vessel that has arrived in the Cocos Islands from a place outside the Cocos Islands—its arrival in the Cocos Islands; or
+                             (ii)  in the case of a vessel that has arrived in the Cocos Islands from a place outside the Cocos  Islands—its arrival in the Cocos Islands; or
 
-                            (iii)  in the case of a vessel that has arrived in Christmas Island from a place outside Christmas Island—its arrival in Christmas Island;
+                            (iii)  in the case of a vessel that has arrived in Christmas Island from a place outside Christmas  Island—its arrival in Christmas Island;
 
                     (aa)  every person who is on board an Australian vessel, a Cocos Islands vessel, or a Christmas Island vessel, subject to quarantine, or who has been on board the vessel since its arrival at the port (if any) at which it is subject to quarantine;
 
-                   (ab)  every person who is on board an installation subject to quarantine;
+                    (ab)  every person who is on board an installation subject to quarantine;
 
                      (b)  every person infected with a quarantinable disease or quarantinable pest;
 
-                   (ba)  every person who a quarantine officer reasonably suspects is infected with a quarantinable disease or quarantinable pest;
+                    (ba)  every person who a quarantine officer reasonably suspects is infected with a quarantinable disease or quarantinable pest;
 
                      (c)  every person who has been in contact with or exposed to, infection from any person or goods subject to quarantine;
 
@@ -2059,17 +2059,17 @@ The regulations may provide for the manner in which evidence may be given in a p
 
                               (i)  in the case of a vessel that has arrived in Australia from a place outside Australia—its arrival in Australia; or
 
-                             (ii)  in the case of a vessel that has arrived in the Cocos Islands from a place outside the Cocos Islands—its arrival in the Cocos Islands; or
+                             (ii)  in the case of a vessel that has arrived in the Cocos Islands from a place outside the Cocos  Islands—its arrival in the Cocos Islands; or
 
-                            (iii)  in the case of a vessel that has arrived in Christmas Island from a place outside Christmas Island—its arrival in Christmas Island;
+                            (iii)  in the case of a vessel that has arrived in Christmas Island from a place outside Christmas  Island—its arrival in Christmas Island;
 
                     (aa)  all goods which are on board an Australian vessel, a Cocos Islands vessel, or a Christmas Island vessel, subject to quarantine, or which have been on board the vessel since its arrival at the port (if any) at which it is subject to quarantine;
 
-                   (ab)  all goods which are on board an installation subject to quarantine;
+                    (ab)  all goods which are on board an installation subject to quarantine;
 
                      (b)  all goods infected with a quarantinable disease or quarantinable pest;
 
-                   (ba)  all quarantinable pests and quarantinable diseases;
+                    (ba)  all quarantinable pests and quarantinable diseases;
 
                      (c)  all goods which have been in contact with or exposed to infection from a quarantinable disease or quarantinable pest or from any person or goods subject to quarantine;
 
@@ -2131,7 +2131,7 @@ The regulations may provide for the manner in which evidence may be given in a p
 
              (1)  The master of an overseas vessel arriving in Australia, the Cocos Islands or Christmas Island is guilty of an offence if the master permits the vessel to enter a place in Australia, the Cocos Islands or Christmas Island other than a port declared to be a first port of entry, a first Cocos Islands port of entry or a first Christmas Island port of entry, as the case may be.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
           (1A)  Subsection (1) does not apply if the entry is made with the permission of the Minister given under section 20AA.
 
@@ -2143,13 +2143,13 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The master of an overseas vessel arriving in Australia, the Cocos Islands or Christmas Island is guilty of an offence if the master permits the vessel to be:
 
-                     (a)  beached in Australia, the Cocos Islands or Christmas Island; or
+                     (a)  beached in Australia, the Cocos  Islands or Christmas Island; or
 
                      (b)  moored, anchored or otherwise secured in waters on the landward side of the baseline of the territorial sea of Australia, of the Cocos Islands or of Christmas Island;
 
 otherwise than at a port.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 Note:          The master will not be guilty of an offence if the prohibited conduct was due to sudden or extraordinary emergency (see section 10.3 of the _Criminal Code_).
 
@@ -2157,7 +2157,7 @@ Note:          The master will not be guilty of an offence if 
 
              (1)  The commander of an overseas aircraft is guilty of an offence if the commander permits the aircraft to land in Australia, the Cocos Islands or Christmas Island at a place other than a landing place.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 Note:          The commander will not be guilty of an offence if the landing was due to sudden or extraordinary emergency (see section 10.3 of the _Criminal Code_).
 
@@ -2175,7 +2175,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (c)  a place in Christmas Island;
 
-being a place other than a first port of entry, a first Cocos Island port of entry, a first Christmas Island port in entry or a landing place.
+being a place other than a first port of entry, a first Cocos  Island port of entry, a first Christmas Island port in entry or a landing place.
 
              (2)  A person is guilty of an offence if:
 
@@ -2185,39 +2185,39 @@ being a place other than a first port of entry, a first Cocos Island port of ent
 
                      (c)  the person is reckless as to whether or not the condition is contravened.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 ##### <a id="20B"></a>20B  Prohibition of entry by air from proclaimed places
 
 Proclamation of place
 
-             (1)  If the Governor‑General is of the opinion that there is danger of the introduction into Australia, the Cocos Islands or Christmas Island by aircraft of disease from any place outside Australia, the Cocos Islands or Christmas Island, as the case may be, the Governor‑General may, by Proclamation, declare the place to be a place in relation to which this section applies in respect of Australia, the Cocos Islands or Christmas Island, as the case may be.
+             (1)  If the Governor-General is of the opinion that there is danger of the introduction into Australia, the Cocos Islands or Christmas Island by aircraft of disease from any place outside Australia, the Cocos Islands or Christmas Island, as the case may be, the Governor-General may, by Proclamation, declare the place to be a place in relation to which this section applies in respect of Australia, the Cocos Islands or Christmas Island, as the case may be.
 
 Offence by commander of aircraft
 
              (2)  The commander of any aircraft entering Australia, the Cocos Islands or Christmas Island is guilty of an offence if the commander permits the aircraft to enter from or through a place declared under subsection (1) to be a place in relation to which this section applies in respect of Australia, the Cocos Islands or Christmas Island, as the case may be.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Offence by operator of aircraft
 
           (2A)  The operator of any aircraft entering Australia, the Cocos Islands or Christmas Island is guilty of an offence if the operator permits the aircraft to enter from or through a place declared under subsection (1) to be a place in relation to which this section applies in respect of Australia, the Cocos Islands or Christmas Island, as the case may be.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Offence by operator of aircraft
 
           (2A)  The operator of any aircraft entering Australia or the Cocos Islands is guilty of an offence if the operator permits the aircraft to enter from or through a place declared under subsection (1) to be a place in relation to which this section applies in respect of Australia or the Cocos Islands, as the case may be.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Proclamation of conditions of entry
 
-             (3)  The Governor‑General may, by Proclamation, declare that a person must not, so long as the Proclamation remains in force, enter Australia, the Cocos Islands or Christmas Islandby an aircraft from any place outside Australia, the Cocos Islands or Christmas Island, as the case may be,specified in the Proclamation unless the person has complied with the conditions stated in the Proclamation.
+             (3)  The Governor-General may, by Proclamation, declare that a person must not, so long as the Proclamation remains in force, enter Australia, the Cocos Islands or Christmas Islandby an aircraft from any place outside Australia, the Cocos Islands or Christmas Island, as the case may be,specified in the Proclamation unless the person has complied with the conditions stated in the Proclamation.
 
 Conditions that may be proclaimed
 
-             (4)  The conditions stated in a Proclamation under subsection (3) are such conditions as the Governor‑General thinks necessary or desirable for avoiding the possibility of the entry into Australia, the Cocos Islands or Christmas Island of people suffering from, or capable of communicating, any disease.
+             (4)  The conditions stated in a Proclamation under subsection (3) are such conditions as the Governor-General thinks necessary or desirable for avoiding the possibility of the entry into Australia, the Cocos Islands or Christmas Island of people suffering from, or capable of communicating, any disease.
 
 Offence by person entering in reckless contravention of condition
 
@@ -2227,9 +2227,9 @@ Offence by person entering in reckless contravention of condition
 
                      (b)  the person is reckless as to whether or not the condition is contravened.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
-Meaning of entry from place outside Australia, the Cocos Islands or Christmas Island
+Meaning of entry from place outside Australia, the Cocos  Islands or Christmas Island
 
              (6)  For the purpose of this section, and of any Proclamation under this section, a person is taken to enter Australia, the Cocos Islands or Christmas Island from a place outside Australia, the Cocos Islands or Christmas Island, as the case may be, if he or she has been in that place within 21 days before his or her arrival in Australia, the Cocos Islands or Christmas Island, as the case may be.
 
@@ -2273,7 +2273,7 @@ Offence for failing to comply with direction
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 ##### <a id="20D"></a>20D  Animals, plants or other goods to be landed at declared port
 
@@ -2299,7 +2299,7 @@ Offence for landing goods without permission
 
                      (b)  no permission is in force under subsection (2) for them to be landed at the place
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Offence for contravening condition of permission
 
@@ -2315,7 +2315,7 @@ Offence for contravening condition of permission
 
                      (e)  the person is reckless as to whether or not the condition is contravened.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 ##### <a id="21"></a>21  Quarantine signals on vessels and installations
 
@@ -2325,13 +2325,13 @@ Offence for contravening condition of permission
 
                      (b)  fails to keep the quarantine signal displayed on the vessel while it enters, or is in, any port or quarantine station or is at an Australian installation.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
           (1A)  The commander of an aircraft subject to quarantine is guilty of an offence if he or she:
 
                      (b)  on arrival at the first landing place in Australia, the Cocos Islands or Christmas Island, or on arrival at an Australian installation and at each landing place afterwards called at, fails to cause the aircraft to come to a stop as near as possible to a spot marked by the prescribed signal on the landing place.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
              (2)  The master of an installation subject to quarantine shall:
 
@@ -2339,7 +2339,7 @@ Offence for contravening condition of permission
 
                      (b)  keep the quarantine signal displayed on the installation until pratique is granted or until the installation is released from quarantine.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
              (3)  An offence against this section is an offence of strict liability.
 
@@ -2357,7 +2357,7 @@ Offence for contravening condition of permission
 
                      (b)  if the vessel is not an overseas aircraft—must immediately display the quarantine signal on the vessel and must keep it displayed until he or she is authorised by a quarantine officer to remove it or until the vessel is released from quarantine.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
              (4)  In this section:
 
@@ -2379,7 +2379,7 @@ The quarantine signal shall be as prescribed and shall be displayed in the presc
 
                      (b)  approach within 30 metres of any prescribed signal on a landing place.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
           (1A)  Subsection (1) does not apply if the person does the things mentioned in that subsection as the master or a member of the crew of a tug that is carrying out operations as a tug.
 
@@ -2387,7 +2387,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  An unauthorised person must not go on board or alongside any installation subject to quarantine or on which the quarantine signal is displayed.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
           (2A)  Subsection (2) does not apply if the person goes on board or alongside the installation as the master or a member of the crew of a tug that is carrying out operations as a tug.
 
@@ -2399,7 +2399,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    The master of a vessel shall, on being so required by a quarantine officer, bring the vessel to, and shall by all reasonable means facilitate the boarding of the vessel by the quarantine officer.
 
-                    Maximum penalty: Imprisonment for 1 year.
+                    Maximum penalty:    Imprisonment for 1 year.
 
 ##### <a id="25A"></a>25A  Boarding of installations
 
@@ -2407,31 +2407,31 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The master of an Australian sea installation or a sea installation that is in Australian waters to achieve the result of becoming installed in an adjacent area or in a coastal area shall, upon being so required by a quarantine officer, permit the quarantine officer to go on board the installation and shall, by all reasonable means, facilitate the boarding of the installation by the quarantine officer.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="26"></a>26  Limit in port for vessels subject to quarantine
 
              (1)  The master of a vessel subject to quarantine shall not allow the vessel to be brought into any part of the port within the quarantine line.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
           (1A)  Subsection (1) does not apply if the master’s intention in allowing the vessel to be brought into the port is to comply with section 26A.
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (2)  The Governor‑General may by proclamation fix the position of the quarantine line for any port.
+             (2)  The Governor-General may by proclamation fix the position of the quarantine line for any port.
 
 ##### <a id="26A"></a>26A  Vessels to be brought to mooring grounds
 
                    The master of a vessel (other than an aircraft) that is subject to quarantine shall, forthwith on arrival at or near a port, bring the vessel:
 
-                     (a)  to a place appointed by the Governor‑General by proclamation to be a mooring ground in relation to the port for vessels subject to quarantine; or
+                     (a)  to a place appointed by the Governor-General by proclamation to be a mooring ground in relation to the port for vessels subject to quarantine; or
 
                      (b)  with the approval of a quarantine officer and on payment of any fee that is payable in respect of the approval, to such place as is specified in the approval.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
-##### <a id="27A"></a>27A  Pre‑arrival and pre‑departure reports by certain vessels (other than aircraft) and installations
+##### <a id="27A"></a>27A  Pre-arrival and pre-departure reports by certain vessels (other than aircraft) and installations
 
 Vessels from which reports are required
 
@@ -2443,17 +2443,17 @@ Vessels from which reports are required
 
                               (i)  is intended to arrive at a place in Australia, the Cocos Islands or Christmas Island from a place outside Australia, the Cocos Islands and Christmas Island; or
 
-                             (ii)  is intended to arrive at a place in the Cocos Islands from a place in Australia or in Christmas Island; or
+                             (ii)  is intended to arrive at a place in the Cocos Islands from a place in Australia or in Christmas  Island; or
 
-                            (iii)  is intended to arrive at a place in Christmas Island from a place in Australia or in the Cocos Islands; or
+                            (iii)  is intended to arrive at a place in Christmas Island from a place in Australia or in the Cocos  Islands; or
 
                      (c)  a vessel (other than a overseas vessel or an aircraft), or an installation (other than an overseas installation) that is intended to arrive:
 
                               (i)  at a place in Australia from a place in the Cocos Islands or in Christmas Island; or
 
-                             (ii)  at a place in the Cocos Islands from a place in Australia or Christmas Island; or
+                             (ii)  at a place in the Cocos  Islands from a place in Australia or Christmas Island; or
 
-                            (iii)  at a place in Christmas Island from a place in Australia or the Cocos Islands; or
+                            (iii)  at a place in Christmas  Island from a place in Australia or the Cocos Islands; or
 
                      (d)  a vessel (other than an overseas vessel, an aircraft or a prescribed vessel) that is intended to arrive:
 
@@ -2461,9 +2461,9 @@ Vessels from which reports are required
 
                              (ii)  at a place in the Cocos Islands (other than a place in a Special Quarantine Zone declared in respect of the Cocos Islands) from a place in such a zone; or
 
-                            (iii)  at a place in Christmas Island (other than a place in a Special Quarantine Zone declared in respect of Christmas Island) from a place in such a zone.
+                            (iii)  at a place in Christmas  Island (other than a place in a Special Quarantine Zone declared in respect of  Christmas Island) from a place in such a zone.
 
-Quarantine officer to whom pre‑arrival report to be sent
+Quarantine officer to whom pre-arrival report to be sent
 
              (2)  The master of the vessel or installation must cause the prescribed information to be given, in a form approved by a Director of Quarantine, in the prescribed manner and during the prescribed period, to a quarantine officer:
 
@@ -2481,7 +2481,7 @@ Action to be taken if report afterwards found to be incomplete or incorrect
 
              (3)  If, after any of the prescribed information is given to a quarantine officer under subsection (2), the master or operator of the vessel or installation becomes aware that the information is incomplete or incorrect, the master or operator, as the case may be, must cause the additional or correct information to be given to a quarantine officer as soon as practicable.
 
-Pre‑departure report
+Pre-departure report
 
              (4)  If:
 
@@ -2499,9 +2499,9 @@ Failure to give information
 
                      (b)  the person fails to comply with the requirement.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
-Note:          Subsection (5) is not subject to the privilege against self incrimination but a use derivative‑use indemnity applies (see subsections 79A(1) and (2)).
+Note:          Subsection (5) is not subject to the privilege against self incrimination but a use derivative-use indemnity applies (see subsections 79A(1) and (2)).
 
 Knowingly giving false or misleading information
 
@@ -2513,7 +2513,7 @@ Knowingly giving false or misleading information
 
                      (c)  the person knows that the information is false or misleading in that particular.
 
-                    Maximum penalty: Imprisonment for one year.
+                    Maximum penalty:    Imprisonment for one year.
 
 Negligently giving false or misleading information
 
@@ -2527,7 +2527,7 @@ Negligently giving false or misleading information
 
                     Maximum penalty for an offence against this subsection:  Imprisonment for 6 months.
 
-##### <a id="27B"></a>27B  Pre‑arrival and pre‑departure reports by certain aircraft
+##### <a id="27B"></a>27B  Pre-arrival and pre-departure reports by certain aircraft
 
 Aircraft from which reports are required
 
@@ -2541,7 +2541,7 @@ Aircraft from which reports are required
 
                      (d)  is intended to arrive at a place in Christmas Island (other than a place in a Special Quarantine Zone in respect of Christmas Island) from a place in such a zone.
 
-Quarantine officer to whom pre‑arrival report to be sent
+Quarantine officer to whom pre-arrival report to be sent
 
              (2)  The commander of the aircraft must cause the prescribed information to be given, in a form approved by a Director of Quarantine, in the prescribed manner and before the prescribed time, to a quarantine officer located at the place that is applicable in respect of the aircraft under regulations made for the purposes of this subsection.
 
@@ -2557,9 +2557,9 @@ Failure to give information
 
                      (b)  the person fails to comply with the requirement.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
-Note:          Subsection (4) is not subject to the privilege against self incrimination but a use derivative‑use indemnity applies (see subsections 79A(1) and (2)).
+Note:          Subsection (4) is not subject to the privilege against self incrimination but a use derivative-use indemnity applies (see subsections 79A(1) and (2)).
 
 Knowingly giving false or misleading information
 
@@ -2571,7 +2571,7 @@ Knowingly giving false or misleading information
 
                      (c)  the person knows that the information is false or misleading in that particular.
 
-                    Maximum penalty: Imprisonment for one year.
+                    Maximum penalty:    Imprisonment for one year.
 
 Negligently giving false or misleading information
 
@@ -2591,7 +2591,7 @@ Quarantine officer may require master or medical officer to answer questions
 
              (1)  A quarantine officer may require any of the following:
 
-                     (a)  the master of an overseas vessel that has arrived, or is expected to arrive, at a port in Australia, the Cocos Islands or Christmas Island;
+                     (a)  the master of an overseas vessel that has arrived, or is expected to arrive, at a port in Australia, the Cocos  Islands or Christmas Island;
 
                      (b)  the master of a vessel that has arrived or is expected to arrive:
 
@@ -2599,11 +2599,11 @@ Quarantine officer may require master or medical officer to answer questions
 
                              (ii)  at a place in the Cocos Islands (other than a place in a Special Quarantine Zone declared in respect of the Cocos Islands) from a place in such a zone; or
 
-                            (iii)  at a place in Christmas Island (other than a place in a Special Quarantine Zone declared in respect of Christmas Island) from a place in such a zone;
+                            (iii)  at a place in Christmas  Island (other than a place in a Special Quarantine Zone declared in respect of  Christmas Island) from a place in such a zone;
 
                      (c)  the master of an overseas installation;
 
-                     (d)  the commander of an overseas aircraft that has landed, or is expected to land, at a place in Australia, the Cocos Islands or Christmas Island that is not a landing place;
+                     (d)  the commander of an overseas aircraft that has landed, or is expected to land, at a place in Australia, the Cocos  Islands or Christmas Island that is not a landing place;
 
                      (e)  if a vessel, installation or aircraft referred to in paragraph (a), (b), (c) or (d) carries a medical officer—that medical officer;
 
@@ -2637,7 +2637,7 @@ Failure to answer orally
 
                      (c)  the person fails to comply with the requirement.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
 Failure to answer in writing
 
@@ -2649,7 +2649,7 @@ Failure to answer in writing
 
                      (c)  the person fails to comply with the requirement.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
 Failure to make written declaration
 
@@ -2659,7 +2659,7 @@ Failure to make written declaration
 
                      (b)  the person fails to comply with the requirement.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
 False or misleading answer
 
@@ -2669,7 +2669,7 @@ False or misleading answer
 
                      (b)  the person gives an answer that the person knows to be false or misleading in a material particular.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 False or misleading declaration
 
@@ -2679,7 +2679,7 @@ False or misleading declaration
 
                      (b)  the person makes a statement in the declaration that the person knows to be false or misleading in a material particular.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 Failure to send correct answer
 
@@ -2689,7 +2689,7 @@ Failure to send correct answer
 
                      (b)  the person fails to comply with that subsection.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
 Definition
 
@@ -2697,7 +2697,7 @@ Definition
 
                     <a name="make-written-declar"></a>**_making a written declaration_**, in relation to an answer to a question, means signing before an officer a written declaration as to the truth of the answer.
 
-Note:          The privilege against self incrimination does not apply in respect of requirements made under this section but a use derivative‑use indemnity applies (see subsections 79A(1) and (2)).
+Note:          The privilege against self incrimination does not apply in respect of requirements made under this section but a use derivative-use indemnity applies (see subsections 79A(1) and (2)).
 
 ##### <a id="29"></a>29  People not to leave, or to remove goods from, vessel or installation that is subject to quarantine
 
@@ -2705,7 +2705,7 @@ Master leaving vessel or installation without permission
 
              (1)  The master of a vessel or installation that is subject to quarantine is guilty of an offence if he or she leaves the vessel or installation.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 Exception
 
@@ -2721,7 +2721,7 @@ Master knowingly allowing person to leave or remove goods
 
                      (b)  the master knows that he or she does not have the written permission of a quarantine officer to allow the person to leave, or to allow the person to remove goods from, as the case may be, the vessel or installation.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 Master negligently allowing person to leave or remove goods
 
@@ -2733,7 +2733,7 @@ Master negligently allowing person to leave or remove goods
 
                      (c)  the master is negligent as to whether or not the written permission has been given.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Power to give permissions
 
@@ -2747,7 +2747,7 @@ Contravention of condition of permission
 
                      (b)  the condition is contravened.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Power of master to detain person or goods
 
@@ -2785,7 +2785,7 @@ Offences
 
                              (ii)  the master is negligent as to whether or not the condition has been complied with.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Exception
 
@@ -2807,7 +2807,7 @@ Definition
 
                      (b)  in relation to the Cocos Islands—a vessel that travels from or through a Special Quarantine Zone in relation to the Cocos Islands; and
 
-                     (c)  in relation to Christmas Island—a vessel that travels from or through a Special Quarantine Zone in respect of Christmas Island.
+                     (c)  in relation to Christmas Island—a vessel that travels from or through a Special Quarantine Zone in respect of Christmas  Island.
 
 ##### <a id="29B"></a>29B  Directions about animals on vessels or installations
 
@@ -2833,7 +2833,7 @@ Vessels or installations at a port or other place in Australia that may be subje
 
                      (d)  another vessel or installation on which there are animals subject to quarantine.
 
-Vessels or installations at a port or place in the Cocos Islands that may be subject to directions
+Vessels or installations at a port or place in the Cocos  Islands that may be subject to directions
 
           (2A)  The vessels or installations at a port or place in the Cocos Islands in respect of which directions may be given under subsection (1) are:
 
@@ -2843,7 +2843,7 @@ Vessels or installations at a port or place in the Cocos Islands that may be sub
 
                      (c)  another vessel or installation on which there are animals subject to quarantine.
 
-Vessels or installations at a port or place in Christmas Island that may be subject to directions
+Vessels or installations at a port or place in Christmas  Island that may be subject to directions
 
           (2B)  The vessels or installations at a port or place in Christmas Island in respect of which directions may be given under subsection (1) are:
 
@@ -2861,13 +2861,13 @@ Offences
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="30"></a>30  Persons prohibited from quitting vessels, installations and quarantine areas
 
              (1)  A person (not being a quarantine officer) who is on board a vessel subject to quarantine, or who is in a quarantine area, must not leave the vessel or quarantine area.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
           (1A)  Subsection (1) does not apply if the person leaves the vessel or quarantine area with the authorisation of a quarantine officer.
 
@@ -2895,7 +2895,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The master of a vessel shall not suffer or permit it to be moored or berthed in any port in contravention of this section.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 ##### <a id="32A"></a>32A  Vessel coming from declared place may be directed not to enter a port
 
@@ -2965,9 +2965,9 @@ the quarantine officer (human quarantine) shall grant the vessel pratique having
 
              (4)  Pratique may be pratique having effect in:
 
-                     (a)  all places in Australia, or in the Cocos Islands, or in Christmas Island; or
+                     (a)  all places in Australia, or in the  Cocos Islands, or in Christmas Island; or
 
-                     (b)  all ports in Australia, or in the Cocos Islands, or in Christmas Island, other than landing places; or
+                     (b)  all ports in Australia, or in the Cocos  Islands, or in Christmas Island, other than landing places; or
 
                      (c)  all landing places in Australia, or in the Cocos Islands, or in Christmas Island; or
 
@@ -3017,7 +3017,7 @@ the quarantine officer (human quarantine) shall grant the vessel pratique having
 
              (3)  All persons landed in pursuance of this section shall continue subject to quarantine until such period as is prescribed, and, while so subject, shall be under quarantine surveillance and shall comply with the regulations relating to quarantine surveillance.
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
              (4)  Any cargo or passengers’ effects that are landed under this section are to be treated in such manner as a quarantine officer directs.
 
@@ -3027,7 +3027,7 @@ the quarantine officer (human quarantine) shall grant the vessel pratique having
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
              (6)  An offence against this section is an offence of strict liability.
 
@@ -3039,11 +3039,11 @@ the quarantine officer (human quarantine) shall grant the vessel pratique having
 
   (1AAAA)  In deciding whether a person is, or is likely to be, infected with a quarantinable disease or quarantinable pest or a source of infection with a quarantinable disease or quarantinable pest, the quarantine officer may seek an opinion from a medical practitioner.
 
-    (1AAA)  A quarantine officer may, by order in writing, order into quarantine any goods that, in his or her opinion, are or are likely to be quarantinable pests or quarantinable diseases.
+     (1AAA)  A quarantine officer may, by order in writing, order into quarantine any goods that, in his or her opinion, are or are likely to be quarantinable pests or quarantinable diseases.
 
        (1AA)  A quarantine officer may, by order in writing, order into quarantine any goods (whether subject to quarantine or not) in the Cocos Islands that, in his or her opinion, are, or are likely to be, infected with, or a source of infection with, a disease or pest.
 
-       (1AB)  A quarantine officer may, by order in writing, order into quarantine any goods (whether subject to quarantine or not) in Christmas Island that, in his or her opinion, are, or are likely to be, infected with, or a source of infection with, a disease or pest.
+        (1AB)  A quarantine officer may, by order in writing, order into quarantine any goods (whether subject to quarantine or not) in Christmas Island that, in his or her opinion, are, or are likely to be, infected with, or a source of infection with, a disease or pest.
 
           (1A)  A quarantine officer (human quarantine) may, by order in writing, order into quarantine any person, being a person who is or has been on board an overseas vessel or overseas installation, who fails to satisfy the quarantine officer (human quarantine) that he or she has, within the prescribed period, been successfully vaccinated or inoculated against any prescribed disease.
 
@@ -3055,7 +3055,7 @@ the quarantine officer (human quarantine) shall grant the vessel pratique having
 
                      (b)  notify the Director of Human Quarantine, in writing, of the order as soon as practicable.
 
-             (2)  If a vessel has arrived in Australia, the Cocos Islands or Christmas Island from a declared place the quarantine officer shall (except as prescribed) order it into quarantine.
+             (2)  If a vessel has arrived in Australia, the  Cocos Islands or Christmas Island from a declared place the quarantine officer shall (except as prescribed) order it into quarantine.
 
           (2A)  After an overseas installation has arrived in Australian waters from a declared place, the quarantine officer shall (except as prescribed) order the installation into quarantine.
 
@@ -3075,7 +3075,7 @@ the quarantine officer (human quarantine) shall grant the vessel pratique having
 
 ##### <a id="35AA"></a>35AA  Medical examination for possible pulmonary tuberculosis
 
-             (1)  Where a quarantine officer (human quarantine) is not satisfied that a person, being a non‑citizen, is not suffering from active pulmonary tuberculosis, the quarantine officer (human quarantine) may, by order in writing served on the person, require him or her to undergo, within a time and at a place specified in the order, a medical examination in accordance with subsection (2).
+             (1)  Where a quarantine officer (human quarantine) is not satisfied that a person, being a non-citizen, is not suffering from active pulmonary tuberculosis, the quarantine officer (human quarantine) may, by order in writing served on the person, require him or her to undergo, within a time and at a place specified in the order, a medical examination in accordance with subsection (2).
 
              (2)  The medical examination referred to in subsection (1) shall:
 
@@ -3085,7 +3085,7 @@ the quarantine officer (human quarantine) shall grant the vessel pratique having
 
              (3)  If a person fails to comply with an order under subsection (1), a quarantine officer (human quarantine) may, by order in writing served on the person, order him or her into quarantine.
 
-             (4)  Where a quarantine officer is of the opinion that a person, being a non‑citizen, is, or is likely to be, suffering from active pulmonary tuberculosis, the quarantine officer (human quarantine) may, by order in writing served on the person, order the person into quarantine.
+             (4)  Where a quarantine officer is of the opinion that a person, being a non-citizen, is, or is likely to be, suffering from active pulmonary tuberculosis, the quarantine officer (human quarantine) may, by order in writing served on the person, order the person into quarantine.
 
           (4A)  If a quarantine officer (human quarantine) orders a person into quarantine under subsection (3) or (4), the officer must also:
 
@@ -3097,7 +3097,7 @@ the quarantine officer (human quarantine) shall grant the vessel pratique having
 
              (6)  The regulations may provide that this section does not apply to a person included in a prescribed class of persons.
 
-             (7)  In this section, **_non‑citizen_** has the same meaning as in the _Migration Act 1958_.
+             (7)  In this section, **_non-citizen_** has the same meaning as in the _Migration Act 1958_.
 
 ##### <a id="35A"></a>35A  Vessel or installation having a communicable disease on board
 
@@ -3155,7 +3155,7 @@ Offences for failure to take measures
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Master knowingly or recklessly permitting person suffering from disease to leave vessel or installation
 
@@ -3167,7 +3167,7 @@ Master knowingly or recklessly permitting person suffering from disease to leave
 
                      (c)  the master knows that, or is reckless as to whether or not, the person is suffering from the disease or has been exposed to infection from the disease.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 Master negligently permitting person suffering from disease to leave vessel or installation
 
@@ -3179,7 +3179,7 @@ Master negligently permitting person suffering from disease to leave vessel or i
 
                      (c)  the master is negligent as to whether or not the person is suffering from the disease or has been exposed to infection from the disease.
 
-                    Maximum penalty: Imprisonment for 3 years.
+                    Maximum penalty:    Imprisonment for 3 years.
 
 Person suffering from disease leaving vessel or installation without permission
 
@@ -3189,7 +3189,7 @@ Person suffering from disease leaving vessel or installation without permission
 
                      (b)  the person leaves the vessel or installation.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 Person in charge of another person allowing the other person to leave the vessel or installation without permission
 
@@ -3201,7 +3201,7 @@ Person in charge of another person allowing the other person to leave the vessel
 
                      (c)  the first person knows that, or is reckless as to whether or not, the other person is suffering from the disease or from any other communicable disease.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 Exception
 
@@ -3249,7 +3249,7 @@ Definition
 
              (3)  A person may not make a request under subsection (1) during any period while:
 
-                     (a)  a Proclamation by the Governor‑General under section 2B declaring the existence of an epidemic is in force; or
+                     (a)  a Proclamation by the Governor-General under section 2B declaring the existence of an epidemic is in force; or
 
                      (b)  the Minister is taking quarantine measures, or measures incidental to quarantine, under section 12A.
 
@@ -3289,7 +3289,7 @@ Offence
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 ##### <a id="37"></a>37  When vessel or installation deemed to be in quarantine
 
@@ -3299,11 +3299,11 @@ Offence
 
              (1)  When the vessel arrives at the appointed quarantine station, the master shall, on request, produce and deliver to the officer in charge of the quarantine station his or her passenger list, log, manifest, journal, and other ship’s papers.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
           (1A)  When an installation has been ordered into quarantine the master shall, on request by the quarantine officer, produce and deliver to the officer such documents in his or her possession or control as the officer requests.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
              (2)  Subsection (1) has effect, in relation to a vessel in the Cocos Islands, as if:
 
@@ -3325,7 +3325,7 @@ Offence
 
              (1)  The master of a vessel or installation that is in quarantine is guilty of an offence if he or she allows the vessel or installation to be moved.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
           (1A)  Subsection (1) does not apply if the vessel or installation is moved with the written permission of a quarantine officer.
 
@@ -3341,7 +3341,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (c)  the master is negligent as to whether or not the condition has been complied with.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="41"></a>41  Removal from vessel to perform quarantine
 
@@ -3357,13 +3357,13 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  When a vessel or installation is in quarantine then, until the vessel or installation is released from quarantine, no unauthorized person shall land or unship, or move with intent to land or unship, any goods from the vessel or installation.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Penalty for receiving quarantinable goods
 
              (2)  A person must not receive or have in his or her possession any goods landed or unshipped from any vessel or installation in contravention of this section.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
              (3)  If a vessel or installation is displaying flags, lights or other signals that clearly indicate that the vessel or installation is in quarantine:
 
@@ -3379,11 +3379,11 @@ Note:          In a prosecution for an offence against this se
 
              (2)  A person must not remove from a prescribed vessel any goods on the vessel that are subject to quarantine.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
              (3)  The master of a prescribed vessel must not permit to be removed from the vessel any goods on the vessel that are subject to quarantine.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
           (3A)  Subsections (2) and (3) do not apply if the goods:
 
@@ -3395,7 +3395,7 @@ Note:          A defendant bears an evidential burden in relat
 
           (3A)  Subsections (2) and (3) do not apply if the goods:
 
-                     (a)  form part of the cargo of the vessel that is to be landed in the country, being Australia or the Cocos Islands, where the vessel is; or
+                     (a)  form part of the cargo of the vessel that is to be landed in the country, being Australia or the Cocos  Islands, where the vessel is; or
 
                      (b)  are removed with the permission of a quarantine officer or in compliance with this Act or the regulations.
 
@@ -3403,7 +3403,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (4)  If a quarantine officer so directs, a person shall not land from a prescribed vessel any goods on the vessel that are subject to quarantine and form part of the cargo of the vessel that is to be landed in the country, being Australia, the Cocos Islands or Christmas Island, where the vessel is.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
              (5)  If a person lands from a prescribed vessel any goods that are subject to quarantine and form part of the cargo of the vessel, he or she shall not land them at a place other than:
 
@@ -3411,7 +3411,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  where the vessel has, in accordance with the permission of the Minister given under section 20AA, been brought to an Australian installation—a part of the installation approved for the purposes of this subsection by the Minister.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
              (6)  Subsection (5) does not apply if the person lands the goods at a place with the permission of a quarantine officer.
 
@@ -3425,7 +3425,7 @@ Goods to which section applies
 
                      (a)  formed part of the cargo of a vessel; and
 
-                     (b)  are landed in Australia, the Cocos Islands or Christmas Island; and
+                     (b)  are landed in Australia, the Cocos  Islands or Christmas Island; and
 
                      (c)  are subject to quarantine.
 
@@ -3451,7 +3451,7 @@ Offence for doing act without permission
 
                      (b)  the person does not have the permission of a quarantine officer under subsection (6) or of a Director of Quarantine under subsection (7) to do the act.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Offence for doing an act recklessly in contravention of condition of permission
 
@@ -3467,7 +3467,7 @@ Offence for doing an act recklessly in contravention of condition of permission
 
                      (e)  the person is reckless as to whether or not the condition is contravened.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Defence
 
@@ -3525,7 +3525,7 @@ Penalty for breach of regulations
 
              (2)  No person ordered into quarantine shall commit any breach of the regulations regulating the performance of quarantine or the government of quarantine stations.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Quarantine surveillance
 
@@ -3533,11 +3533,11 @@ Quarantine surveillance
 
           (3A)  A person released under subsection (3) shall, while he or she is under quarantine surveillance, report to such person at such times and places as are directed by a quarantine officer.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
              (4)  Any person who is under quarantine surveillance must comply with the regulations relating to quarantine surveillance.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (5)  An offence against this section is an offence of strict liability.
 
@@ -3637,7 +3637,7 @@ Offences for recklessly contravening conditions
 
                      (c)  the person is reckless as to whether or not the condition is contravened.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Criteria for suspending or revoking approvals
 
@@ -3699,7 +3699,7 @@ Offence for failing to take action
 
                      (b)  the person fails to comply with the notice.
 
-                    Maximum penalty:  Imprisonment for 2 years.
+                    Maximum penalty:     Imprisonment for 2 years.
 
 Application of section to renewal of approval
 
@@ -3761,7 +3761,7 @@ Contravention of direction to be an offence
 
                      (b)  the person contravenes the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Further detention of goods
 
@@ -3873,7 +3873,7 @@ Offence
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Definition
 
@@ -3907,7 +3907,7 @@ Note:          See section 48AA, which allows goods that can
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="48AD"></a>48AD  Packages, packing material and other waste material
 
@@ -3927,7 +3927,7 @@ a direction to treat, or to destroy or otherwise dispose of, any package, packin
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="48A"></a>48A  Abandoned goods may be destroyed
 
@@ -3947,7 +3947,7 @@ the goods are forfeited to the Commonwealth and a quarantine officer may cause t
 
              (1)  An officer must not do an act that results in the destruction of, or damage to, any goods under his or her charge in the performance of quarantine.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
              (2)  Subsection (1) does not apply if the officer is permitted by this Act or any other law to do the act in respect of the goods.
 
@@ -4001,7 +4001,7 @@ that has not been released from quarantine is suffering from any disease or is a
 
                      (b)  the person fails to comply with the condition or direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
              (6)  In this section:
 
@@ -4133,7 +4133,7 @@ and includes the ovum, semen and embryo of an animal but does not include any ot
 
              (2)  The person must comply with the direction.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
              (3)  Subsection (2) does not apply if the person has a reasonable excuse.
 
@@ -4249,7 +4249,7 @@ Offences
 
                      (c)  the person is reckless as to whether the goods posed a quarantine risk.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
              (6)  A person is guilty of an offence if:
 
@@ -4257,7 +4257,7 @@ Offences
 
                      (b)  the person contravenes a requirement in the notice.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Later electronic notices
 
@@ -4313,35 +4313,35 @@ and shall supply, to the satisfaction of the Minister, all such service, attenda
 
              (2)  The master, owner, or agent, of the vessel may arrange with the Minister for the carrying out of any responsibility under this section and for the payment of the expenses thereof, but in any case the Minister may take action if he or she thinks it necessary to do so, and any expense incurred must, at the Minister’s request, be paid by the master, owner, or agent, of the vessel to the Commonwealth.
 
-Provided that the Governor‑General may direct that, as regards any vessel trading exclusively:
+Provided that the Governor-General may direct that, as regards any vessel trading exclusively:
 
                      (a)  between Australian ports; or
 
                     (aa)  between Australian ports and Australian installations; or
 
-                   (ab)  between Australian ports and Australian resources installations; or
+                    (ab)  between Australian ports and Australian resources installations; or
 
                     (ac)  between Australian ports and Australian sea installations; or
 
                      (b)  between ports in the Cocos Islands; or
 
-                   (ba)  between ports in Christmas Island; or
+                    (ba)  between ports in Christmas Island; or
 
                      (c)  between Australia and New Zealand; or
 
                      (d)  between Australia and Fiji; or
 
-                     (e)  between Australia and the Cocos Islands; or
+                     (e)  between Australia and the Cocos  Islands; or
 
-                    (ea)  between Australia and Christmas Island; or
+                    (ea)  between Australia and Christmas  Island; or
 
-                   (eb)  between the Cocos Islands and Christmas Island; or
+                    (eb)  between the Cocos Islands and Christmas  Island; or
 
                       (f)  between   Australia and another place adjacent to Australia;
 
 the expenses of carrying out any responsibility under this section shall be borne by the Commonwealth, and, upon the issue of such direction, the master, owner and agent of any vessel to which the direction relates shall be exempt from liability for the expenses of carrying out that responsibility:
 
-Provided further that the Governor‑General may direct that the expenses of overland passengers arising out of regulations relating to human quarantine may be borne by the Commonwealth.
+Provided further that the Governor-General may direct that the expenses of overland passengers arising out of regulations relating to human quarantine may be borne by the Commonwealth.
 
              (3)  A passenger shall not be liable to compensate the master, owner, or agent for any cost incurred by the master, owner, or agent under this section, and any contract or stipulation purporting to impose any such liability upon him or her shall to that extent be null and void.
 
@@ -4399,9 +4399,9 @@ that agent is liable to pay to the Commonwealth, on behalf of that owner, the re
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
-##### <a id="63AA"></a>63AA  Additional provisions concerning agent’s liability under section 59A or 63
+##### <a id="63AA"></a>63AA  Additional provisions concerning agent’s liability under section 59A or 63
 
              (1)  If the master or owner of a vessel has met the liability to the Commonwealth:
 
@@ -4453,9 +4453,9 @@ and those expenses are a charge upon the animals, plants or other goods and may 
 
 the agent must pay to the Commonwealth, on behalf of the importer or owner, any expenses connected with the performance of that service in respect of those animals, plants or other goods.
 
-       (1AB)  If the importer or owner has met the liability to the Commonwealth under subsection (1) in respect of any expenses connected with the performance of a service referred to in paragraph (1)(a), (b), (c) or (d), the liability of the agent of the importer or owner is thereby discharged.
+        (1AB)  If the importer or owner has met the liability to the Commonwealth under subsection (1) in respect of any expenses connected with the performance of a service referred to in paragraph (1)(a), (b), (c) or (d), the liability of the agent of the importer or owner is thereby discharged.
 
-       (1AC)  The liability of an agent of an importer or owner to make a payment to the Commonwealth on behalf of the importer or owner in respect of any expenses connected with the performance of a service referred to in paragraph (1)(a), (b), (c) or (d) is not affected by the fact that, at the time when the payment is required to be made, the agent has not recovered an amount equivalent to those expenses from the importer or owner.
+        (1AC)  The liability of an agent of an importer or owner to make a payment to the Commonwealth on behalf of the importer or owner in respect of any expenses connected with the performance of a service referred to in paragraph (1)(a), (b), (c) or (d) is not affected by the fact that, at the time when the payment is required to be made, the agent has not recovered an amount equivalent to those expenses from the importer or owner.
 
        (1AD)  If:
 
@@ -4569,7 +4569,7 @@ Temporary residence and permanent residence
 
 Note:          The regulations may prescribe the traveller by reference to a class of travellers (see subsection 13(3) of the _Legislative Instruments Act 2003_).
 
-             (4)  For the purposes of paragraph (3)(b), a traveller is **_in Australia for transit purposes only_** if the traveller:
+             (4)  For the purposes of paragraph (3)(b), a traveller is **_in_****_Australia_****_for transit purposes only_** if the traveller:
 
                      (a)  is not required to comply with section 166 of the _Migration Act 1958_ (immigration clearance); and
 
@@ -4757,9 +4757,9 @@ Infected goods
 
                      (b)  goods that a quarantine officer suspects, on reasonable grounds, are likely to be infected with a quarantinable disease or a quarantinable pest;
 
-                   (ba)  goods that are quarantinable pests or quarantinable diseases;
+                    (ba)  goods that are quarantinable pests or quarantinable diseases;
 
-                   (bb)  goods that a quarantine officer suspects, on reasonable grounds, to be quarantinable pests or quarantinable diseases;
+                    (bb)  goods that a quarantine officer suspects, on reasonable grounds, to be quarantinable pests or quarantinable diseases;
 
                      (c)  goods that have been exposed to infection with a quarantinable disease or quarantinable pest;
 
@@ -4767,7 +4767,7 @@ Infected goods
 
                               (i)  imported into Australia, the Cocos Islands or Christmas Island; or
 
-                             (ii)  brought into, or landed at, any port or other place in Australia, the Cocos Islands or Christmas Island; or
+                             (ii)  brought into, or landed at, any port or other place in Australia, the Cocos Islands or Christmas  Island; or
 
                             (iii)  removed from a part of   Australia to another part of Australia; or
 
@@ -4775,17 +4775,17 @@ Infected goods
 
                              (v)  removed from Australia to the Cocos Islands; or
 
-                            (vi)  removed from the Cocos Islands to Australia;
+                            (vi)  removed from the Cocos  Islands to Australia;
 
-                           (vii)  removed from the Cocos Islands to Christmas Island; or
+                           (vii)  removed from the Cocos  Islands to Christmas Island; or
 
-                          (viii)  removed from a part of Christmas Island to another part of Christmas Island; or
+                           (viii)  removed from a part of  Christmas Island to another part of Christmas Island; or
 
                             (ix)  removed from Australia to Christmas Island; or
 
-                             (x)  removed from Christmas Island to Australia; or
+                             (x)  removed from Christmas  Island to Australia; or
 
-                            (xi)  removed from Christmas Island to the Cocos Islands;
+                            (xi)  removed from Christmas  Island to the Cocos Islands;
 
                             in contravention of this Act;
 
@@ -4861,7 +4861,7 @@ Note:       For premises that have been approved, see for example su
 
                      (d)  state the purpose for which the warrant is issued.
 
-##### <a id="66AD"></a>66AD  Seizures without offence‑related warrant in emergency situations
+##### <a id="66AD"></a>66AD  Seizures without offence-related warrant in emergency situations
 
              (1)  This section applies when a quarantine officer has entered premises under section 66AB or under a warrant issued under section 66AC.
 
@@ -4875,9 +4875,9 @@ Note:       For premises that have been approved, see for example su
 
 the quarantine officer may seize the evidential material if he or she finds it there.
 
-### Division 3—Offence‑related searches and seizures
+### Division 3—Offence-related searches and seizures
 
-##### <a id="66AE"></a>66AE  Offence‑related searches and seizures
+##### <a id="66AE"></a>66AE  Offence-related searches and seizures
 
              (1)  Subject to subsection (2), if a quarantine officer has reasonable grounds for suspecting that there may be, on any premises, particular evidential material, the officer, at any time and with any necessary help, may:
 
@@ -4903,7 +4903,7 @@ Note:       For premises that have been approved, see for example su
 
              (3)  If the relevant premises are a vessel or vehicle, a quarantine officer may stop and detain the vessel or vehicle for the purpose of exercising a power conferred by subsection (1).
 
-##### <a id="66AF"></a>66AF  Offence‑related warrants
+##### <a id="66AF"></a>66AF  Offence-related warrants
 
              (1)  A quarantine officer may apply to a magistrate for a warrant under this section in relation to particular premises.
 
@@ -5245,7 +5245,7 @@ the magistrate may order that the person may keep the thing for a period stated 
 
              (6)  A magistrate performing a function of, or connected with, making an order under this section has the same protection and immunity as if he or she were performing that function as, or as a member of, a court (being the court of which the magistrate is a member).
 
-             (7)  The Governor‑General may make arrangements with the Governor of a State or the Administrator of the Northern Territory for the performance, by all or any of the people who from time to time hold office as magistrates in that State or Territory, of the function of making orders under this section.
+             (7)  The Governor-General may make arrangements with the Governor of a State or the Administrator of the Northern   Territory for the performance, by all or any of the people who from time to time hold office as magistrates in that State or Territory, of the function of making orders under this section.
 
              (8)  The Prime Minister may make arrangements with the Chief Minister for the Australian Capital Territory for the performance, by all or any of the people who from time to time hold office as magistrates of that Territory, of the function of making orders under this section.
 
@@ -5387,7 +5387,7 @@ Note:          The effect of this section includes (but is not
 
              (7)  A party to a compliance agreement other than the Commonwealth is guilty of an offence if that party fails to ensure that any requirements imposed on that party under the agreement are complied with.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
              (8)  In this section:
 
@@ -5419,7 +5419,7 @@ Basic illegal importation offence
 
                      (c)  the importation, introduction or bringing in of the thing is in contravention of this Act.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Strict liability applies to paragraph (1)(c)
 
@@ -5469,31 +5469,31 @@ Illegal removal offence
 
                               (i)  from a part of Australia to another part of Australia; or
 
-                             (ii)  from a part of the Cocos Islands to another part of the Cocos Islands; or
+                             (ii)  from a part of the Cocos  Islands to another part of the Cocos Islands; or
 
-                            (iii)  from Australia to the Cocos Islands; or
+                            (iii)  from Australia to the Cocos  Islands; or
 
                             (iv)  from the Cocos Islands to Australia; or
 
-                             (v)  from a part of Christmas Island to another part of Christmas Island; or
+                             (v)  from a part of Christmas  Island to another part of Christmas Island; or
 
-                            (vi)  from Australia to Christmas Island; or
+                            (vi)  from Australia to Christmas  Island; or
 
                            (vii)  from Christmas Island to Australia; or
 
-                          (viii)  from Christmas Island to the Cocos Islands; and
+                           (viii)  from Christmas Island to the Cocos Islands; and
 
                      (b)  the person knows that the thing is an animal, plant or other goods; and
 
                      (c)  the removal of the thing is in contravention of this Act.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Strict liability applies to paragraph (4B)(c)
 
           (4C)  For the purposes of an offence against subsection (4B), strict liability applies to paragraph (4B)(c).
 
-Non‑compliance with condition of permit granted under Proclamation
+Non-compliance with condition of permit granted under Proclamation
 
              (5)  A person is guilty of an offence if:
 
@@ -5501,7 +5501,7 @@ Non‑compliance with condition of permit granted under Proclamation
 
                      (b)  the person is reckless as to whether or not the condition or restriction is complied with.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Hindering compliance with Act
 
@@ -5511,13 +5511,13 @@ Hindering compliance with Act
 
                      (b)  is reckless as to whether or not the doing of that act hinders or prevents the other person from complying with this Act.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 ##### <a id="67A"></a>67A  Liability of master or owner of vessel for importation of prohibited animals
 
-                   The master or owner of a vessel shall not bring, or permit to be brought, in the vessel, any animal into any port or place in Australia, the Cocos Islands or Christmas Island in contravention of this Act, the regulations or any proclamation under this Act.
+                   The master or owner of a vessel shall not bring, or permit to be brought, in the vessel, any animal into any port or place in Australia, the Cocos Islands or Christmas  Island in contravention of this Act, the regulations or any proclamation under this Act.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 ##### <a id="68"></a>68  Effect of unlawful importation etc.
 
@@ -5531,19 +5531,19 @@ Circumstances in which section applies
 
                               (i)  from a part of Australia to another part of Australia; or
 
-                             (ii)  from a part of the Cocos Islands to another part of the Cocos Islands; or
+                             (ii)  from a part of the Cocos  Islands to another part of the Cocos Islands; or
 
-                            (iii)  from Australia to the Cocos Islands; or
+                            (iii)  from Australia to the Cocos  Islands; or
 
                             (iv)  from the Cocos Islands to Australia; or
 
-                             (v)  from a part of Christmas Island to another part of Christmas Island; or
+                             (v)  from a part of Christmas  Island to another part of Christmas Island; or
 
-                            (vi)  from Australia to Christmas Island; or
+                            (vi)  from Australia to Christmas  Island; or
 
                            (vii)  from Christmas Island to Australia; or
 
-                          (viii)  from Christmas Island to the Cocos Islands; or
+                           (viii)  from Christmas Island to the Cocos Islands; or
 
                             (ix)  from the Cocos Islands to Christmas Island; or
 
@@ -5611,7 +5611,7 @@ the following provisions have effect:
 
                      (d)  an officer or an officer of Customs may seize them; and
 
-                     (e)  a Director of Quarantine may cause them to be sold, destroyed, exported from Australia, the Cocos Islands or Christmas Island or otherwise disposed of.
+                     (e)  a Director of Quarantine may cause them to be sold, destroyed, exported from Australia, the Cocos Islands or Christmas  Island or otherwise disposed of.
 
 ##### <a id="68A"></a>68A  Destruction of certain animals
 
@@ -5715,7 +5715,7 @@ that amount of compensation is payable to the owner or owners so entitled and th
 
                      (c)  the person knows the statement to be false or misleading in that particular.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
         (12A)  A person is guilty of an offence if:
 
@@ -5725,15 +5725,15 @@ that amount of compensation is payable to the owner or owners so entitled and th
 
                      (c)  the person is reckless as to whether or not the statement is false or misleading in that particular.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
-        (12B)  A person is guilty of an offence if:
+         (12B)  A person is guilty of an offence if:
 
                      (a)  the person does a fraudulent act; and
 
                      (b)  the act is done with the intention of obtaining pecuniary benefit for the person or for another person under this section.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
            (13)  For the purposes of this section:
 
@@ -5763,7 +5763,7 @@ that amount of compensation is payable to the owner or owners so entitled and th
 
                      (b)  is:
 
-                              (i)  on the seaward side of the outer limits of the territorial sea of Australia, the Cocos Islands or Christmas Island and is within 9 nautical miles, or such greater distance as the Governor‑General, by proclamation, declares, of those outer limits; and
+                              (i)  on the seaward side of the outer limits of the territorial sea of Australia, the Cocos Islands or Christmas Island and is within 9 nautical miles, or such greater distance as the Governor-General, by proclamation, declares, of those outer limits; and
 
                              (ii)  bound for a port or place in Australia, the Cocos Islands or Christmas Island;
 
@@ -5781,9 +5781,9 @@ and may, after boarding the vessel:
 
                      (b)  he or she fails to comply with the requirement.
 
-                    Maximum penalty: 60 penalty units.
+                    Maximum penalty:    60 penalty units.
 
-Note:          Subsection (2) is not subject to the privilege against self incrimination but a use derivative‑use indemnity applies (see subsections 79A(1) and (2)).
+Note:          Subsection (2) is not subject to the privilege against self incrimination but a use derivative-use indemnity applies (see subsections 79A(1) and (2)).
 
           (2A)  An offence against subsection (2) is an offence of strict liability.
 
@@ -5793,7 +5793,7 @@ Note:          Subsection (2) is not subject to the privileg
 
                      (b)  is:
 
-                              (i)  on the seaward side of the outer limits of the territorial sea of Australia, the Cocos Islands or Christmas Island and is within 9 nautical miles, or such greater distance as the Governor‑General, by proclamation, declares, of those outer limits; and
+                              (i)  on the seaward side of the outer limits of the territorial sea of Australia, the Cocos Islands or Christmas Island and is within 9 nautical miles, or such greater distance as the Governor-General, by proclamation, declares, of those outer limits; and
 
                              (ii)  bound for a port or place in Australia, the Cocos Islands or Christmas Island;
 
@@ -5821,9 +5821,9 @@ and may, after boarding the vessel, enter and examine any part of the vessel and
 
                      (b)  he or she fails to comply with the requirement.
 
-                    Maximum penalty: 60 penalty units.
+                    Maximum penalty:    60 penalty units.
 
-Note:          Subsection (3) is not subject to the privilege against self incrimination but a use derivative‑use indemnity applies (see subsections 79A(1) and (2)).
+Note:          Subsection (3) is not subject to the privilege against self incrimination but a use derivative-use indemnity applies (see subsections 79A(1) and (2)).
 
           (3A)  An offence against subsection (3) is an offence of strict liability.
 
@@ -5847,7 +5847,7 @@ Note:          Subsection (3) is not subject to the privileg
 
                      (b)  the person fails to answer the question.
 
-                    Maximum penalty: 60 penalty units.
+                    Maximum penalty:    60 penalty units.
 
              (4)  A person is guilty of an offence if:
 
@@ -5855,7 +5855,7 @@ Note:          Subsection (3) is not subject to the privileg
 
                      (b)  the answer contains a statement that the person knows to be false or misleading in a material particular.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
              (5)  An offence against subsection (3) is an offence of strict liability.
 
@@ -5919,13 +5919,13 @@ False or misleading statement
 
                      (b)  the person knows that the statement is false or misleading in a material particular.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Concealment of condition of vessel or nature of goods
 
              (2)  A person is guilty of an offence if the person conceals from a quarantine officer the condition of a vessel or the nature of any goods, or any fact or matter relating to the condition of a vessel or the nature of any goods.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Possession or conveyance of illegally imported goods
 
@@ -5933,9 +5933,9 @@ Possession or conveyance of illegally imported goods
 
                      (a)  the person has in his or her possession, or conveys, any goods; and
 
-                     (b)  the goods have been imported, introduced or otherwise brought into Australia, the Cocos Islands or Christmas Island in contravention of this Act.
+                     (b)  the goods have been imported, introduced or otherwise brought into Australia, the Cocos Islands or Christmas  Island in contravention of this Act.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="70CA"></a>70CA  False or misleading statements about approvals, permits, compliance agreements etc.
 
@@ -5963,7 +5963,7 @@ Making of statements known to be false or misleading
 
                      (c)  the person knows that the statement is false or misleading in that particular.
 
-                    Maximum penalty: Imprisonment for one year.
+                    Maximum penalty:    Imprisonment for one year.
 
 Negligently making false or misleading statements
 
@@ -5989,7 +5989,7 @@ Negligently making false or misleading statements
 
                      (c)  the person is negligent as to whether or not the statement is false or misleading in that particular.
 
-                    Maximum penalty: Imprisonment for 6 months.
+                    Maximum penalty:    Imprisonment for 6 months.
 
 Definition
 
@@ -6021,7 +6021,7 @@ Definition
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="70E"></a>70E  Directions to people in a quarantine station
 
@@ -6041,7 +6041,7 @@ Definition
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="71"></a>71  Boarding vessel or installation
 
@@ -6057,11 +6057,11 @@ Definition
 
                      (b)  the master fails to comply with the direction.
 
-                    Maximum penalty: 10 penalty units.
+                    Maximum penalty:    10 penalty units.
 
           (1B)  An offence against subsection (1A) is an offence of strict liability.
 
-             (2)  If the vessel is a passenger vessel, the quarantine officer shall be entitled to all the privileges and accommodation extended to a first‑class passenger.
+             (2)  If the vessel is a passenger vessel, the quarantine officer shall be entitled to all the privileges and accommodation extended to a first-class passenger.
 
              (3)  A reference in this section to a vessel shall be read as including a reference to an installation to which section 70AA applies.
 
@@ -6071,15 +6071,15 @@ Definition
 
              (2)  The master of a vessel shall comply with a requirement made by a quarantine officer under subsection (1) and, whether or not such a requirement is made, shall, by all reasonable means, facilitate the inspection by a quarantine officer of persons on the vessel.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
              (3)  A person on a vessel must attend a muster of which he or she is informed in pursuance of a requirement made under subsection (1).
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
              (4)  If so required by a quarantine officer, a person on a vessel must attend, for the purpose of quarantine inspection, at a time, and at a place on or in the vicinity of the vessel, specified by the quarantine officer.
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
           (4A)  Subsections (3) and (4) do not apply if the person is prevented from attending by illness or some other cause.
 
@@ -6087,13 +6087,13 @@ Note:          A defendant bears an evidential burden in relat
 
              (5)  A person on a vessel, or a person who attends at a place in the vicinity of a vessel in pursuance of subsection (3) or (4), shall answer truly to the best of his or her knowledge all questions asked him or her by a quarantine officer concerning his or her personal health and the likelihood of his or her having been exposed to infection.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
 Note:          This subsection is subject to the privilege against self incrimination (see subsection 79A(3)).
 
              (6)  A person on a vessel, or a person who attends at a place in the vicinity of a vessel in pursuance of subsection (3) or (4), shall, if required by a quarantine officer, submit to a medical examination.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
           (6A)  An offence against subsection (2), (3), (4) or (6) is an offence of strict liability.
 
@@ -6103,11 +6103,11 @@ Note:          This subsection is subject to the privilege aga
 
              (1)  A quarantine officer may ask the master or medical officer of any vessel any questions he or she thinks fit to ask concerning any sickness on board the vessel or the sanitary condition of the vessel, and the master or medical officer shall, to the best of his or her knowledge, information, and belief, truly answer the questions asked him or her by the quarantine officer.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
              (2)  A quarantine officer may ask any person subject to quarantine any questions concerning his or her personal health or liability to infection, and the person shall, to the best of his or her knowledge, information, and belief, truly answer the questions asked him or her by the quarantine officer.
 
-                    Maximum penalty: Imprisonment for one year.
+                    Maximum penalty:    Imprisonment for one year.
 
              (3)  A quarantine officer may, if he or she thinks fit, require a person, who has been asked questions in pursuance of this section, to verify, by statutory declaration, the answers given to the questions.
 
@@ -6117,7 +6117,7 @@ Note:          This subsection is subject to the privilege aga
 
                      (b)  the person fails to comply with the requirement.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
           (3B)  An offence against subsection (3A) is an offence of strict liability.
 
@@ -6141,7 +6141,7 @@ Note:          This section is subject to the privilege agains
 
              (2)  An unauthorised person must not engage in conduct that results in the interference with, removal or defacement of, any notice affixed under this section.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
           (2A)  An offence against subsection (2) is an offence of strict liability.
 
@@ -6151,7 +6151,7 @@ Note:          This section is subject to the privilege agains
 
              (1)  Where a vessel leaves a place outside Australia to travel to a port in Australia or to an Australian installation without stopping at any other place outside Australia, the master of the vessel shall give notice, or cause notice to be given, to all persons travelling on the vessel (including members of the crew) of the quarantine measures required under the laws of the Commonwealth, being notice the content and form of which have been approved by the Director of Human Quarantine and the Director of Animal and Plant Quarantine.
 
-                    Maximum penalty: 50 penalty units.
+                    Maximum penalty:    50 penalty units.
 
              (2)  An offence against subsection (1) is an offence of strict liability.
 
@@ -6181,7 +6181,7 @@ Note:          This section is subject to the privilege agains
 
                      (c)  the person fails to return the identity card as required by subsection (3).
 
-                    Maximum penalty: One penalty unit.
+                    Maximum penalty:    One penalty unit.
 
 ##### <a id="74BC"></a>74BC  Power to require information after entering premises with consent or under warrant
 
@@ -6195,7 +6195,7 @@ Note:          This section is subject to the privilege agains
 
 Note:          This section is subject to the privilege against self incrimination (see subsection 79A(3)).
 
-##### <a id="74C"></a>74C  Non‑compliance with requirements
+##### <a id="74C"></a>74C  Non-compliance with requirements
 
 Failure to answer question or produce document
 
@@ -6205,7 +6205,7 @@ Failure to answer question or produce document
 
                      (b)  the person fails to answer the question or produce the document.
 
-                    Maximum penalty: Imprisonment for one year.
+                    Maximum penalty:    Imprisonment for one year.
 
 Failure to deliver sample
 
@@ -6215,7 +6215,7 @@ Failure to deliver sample
 
                      (b)  the person fails to deliver the sample.
 
-                    Maximum penalty: Imprisonment for one year.
+                    Maximum penalty:    Imprisonment for one year.
 
 Note:          Subsections (1) and (2) are subject to the privilege against self incrimination (see subsection 79A(3)).
 
@@ -6237,7 +6237,7 @@ Note:          Subsections (1) and (2) are subject to the pr
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
              (4)  In this section:
 
@@ -6259,13 +6259,13 @@ to provide such help as is reasonable, and is stated in the direction, to any of
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 6 months.
+                    Maximum penalty:    Imprisonment for 6 months.
 
 ##### <a id="74E"></a>74E  Persons to assist officers
 
              (1)  A person in control of imported goods shall, if requested by a quarantine officer to do so, provide reasonable assistance to the officer in the performance of the functions, the carrying out of the duties, or the exercise of the powers, of the officer under this Act in relation to those goods.
 
-                    Maximum penalty: Imprisonment for 6 months.
+                    Maximum penalty:    Imprisonment for 6 months.
 
              (2)  A reference in subsection (1) to a person in control of imported goods shall be read as including a reference to:
 
@@ -6293,7 +6293,7 @@ Offence
 
                      (b)  the person fails to comply with the requirement.
 
-                    Maximum penalty: 20 penalty units.
+                    Maximum penalty:    20 penalty units.
 
           (1B)  An offence against subsection (1A) is an offence of strict liability.
 
@@ -6369,7 +6369,7 @@ Minister may ensure manufacture or importation of vaccines etc.
 
              (6)  A person (other than an approved person or a person assisting an approved person under subsection (5)) who moves a vessel from the place at which it is detained under subsection (4) is guilty of an offence.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
           (6A)  Subsection (6) does not apply if the person moves the vessel with the written permission of an approved person.
 
@@ -6415,7 +6415,7 @@ and, subject to the _Customs Act 1901_, the person detaining the vessel shall co
 
                      (a)  where he or she has given the person detaining the vessel an address in Australia, the Cocos Islands or Christmas Island for the purposes of this subsection—that address; or
 
-                     (b)  in any other case—his or her last address in Australia, the Cocos Islands or Christmas Island known to the person detaining the vessel;
+                     (b)  in any other case—his or her last address in Australia, the Cocos Islands or Christmas  Island known to the person detaining the vessel;
 
 shall be deemed to be properly addressed.
 
@@ -6427,7 +6427,7 @@ shall be deemed to be properly addressed.
 
                      (b)  any goods (other than animals or plants) that he or she considers could be a source of infection;
 
-that are on board, or that he or she believes on reasonable grounds have been on board, a vessel detained in Australia, the Cocos Islands or Christmas Island under this section.
+that are on board, or that he or she believes on reasonable grounds have been on board, a vessel detained in Australia, the Cocos  Islands or Christmas Island under this section.
 
            (15)  An approved person shall be taken to be an authorized person for the purpose of the application of section 31 in relation to a prescribed vessel.
 
@@ -6463,7 +6463,7 @@ Offence to act without permission
 
                      (b)  the person does not have the written permission of a quarantine officer to do the act.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Offence to contravene condition of permission
 
@@ -6479,7 +6479,7 @@ Offence to contravene condition of permission
 
                      (e)  the person is reckless as to whether or not the condition is contravened.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Power to give permissions
 
@@ -6505,13 +6505,13 @@ a quarantine officer may:
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="77"></a>77  Pilot wrongly conducting vessel subject to quarantine
 
                    A pilot who conducts a vessel that is subject to quarantine into a place that is not the proper place for a vessel subject to quarantine is guilty of an offence.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 Note:          The pilot will not be guilty of an offence if the conducting of the vessel to the place was due to sudden or extraordinary emergency (see section 10.3 of the _Criminal Code_).
 
@@ -6523,7 +6523,7 @@ Note:          The pilot will not be guilty of an offence if t
 
                      (b)  the master causes or permits the vessel to enter a port other than a port declared to be a first port of entry.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Note:          The master will not be guilty of an offence if the entry of the vessel to the port was due to circumstances of sudden or extraordinary emergency (see section 10.3 of the _Criminal Code_).
 
@@ -6547,7 +6547,7 @@ Note:          The master will not be guilty of an offence if 
 
                      (b)  a Cocos Islands vessel; or
 
-                   (ba)  a Christmas Island vessel; or
+                    (ba)  a Christmas Island vessel; or
 
                      (c)  an overseas vessel that is:
 
@@ -6577,7 +6577,7 @@ Note:          The master will not be guilty of an offence if 
 
                            (vii)  moving or securing any goods on the vessel or installation or causing them to be unloaded; and
 
-                          (viii)  loading goods on to the vessel or installation; and
+                           (viii)  loading goods on to the vessel or installation; and
 
                             (ix)  producing samples of, or exchanging or treating, ballast water in the vessel; and
 
@@ -6589,7 +6589,7 @@ Note:          The master will not be guilty of an offence if 
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="78AA"></a>78AA  Treatment of vessel or installation subject to quarantine
 
@@ -6619,7 +6619,7 @@ a quarantine officer may give to the master of the vessel or installation a dire
 
                            (vii)  moving or securing any goods on the vessel or installation or causing them to be unloaded; and
 
-                          (viii)  loading goods on to the vessel or installation; and
+                           (viii)  loading goods on to the vessel or installation; and
 
                             (ix)  producing samples of, or exchanging or treating, ballast water in the vessel; and
 
@@ -6631,7 +6631,7 @@ a quarantine officer may give to the master of the vessel or installation a dire
 
                      (b)  the person fails to comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="78B"></a>78B  Mooring of insanitary vessels
 
@@ -6643,7 +6643,7 @@ a quarantine officer may give to the master of the vessel or installation a dire
 
                      (b)  if the vessel is moored in compliance with paragraph (a), must not move the vessel, or allow the vessel to be moved, from that place.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
              (3)  Paragraph (2)(a) does not apply if the vessel immediately leaves the port.
 
@@ -6683,7 +6683,7 @@ the officer may do either or both of the following:
 
                      (b)  the person causes the vessel to be moved from the place mentioned in subparagraph (a)(i) or causes the cargo or other goods or other thing on the vessel to be removed from the place mentioned in subparagraph (a)(ii), as the case may be.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
           (2A)  Subsection (2) does not apply if the person does the things mentioned in paragraph (2)(b) with the permission of a quarantine officer.
 
@@ -6695,7 +6695,7 @@ Person not entitled to refuse to give information or documents under certain pro
 
              (1)  A person is not entitled to refuse to answer a question, give information or produce a document that he or she is required to answer, give or produce by or under section 27A, 27B or 28 or subsection 70(2) or 70AA(3) on the ground that the answer, the information or the production of the document, as the case may be, might tend to incriminate him or her.
 
-Use derivative‑use indemnity applies to information or documents
+Use derivative-use indemnity applies to information or documents
 
              (2)  However, any answer or information so given or the production of such a document, and any information or thing (including any document) obtained as a direct or indirect result of the giving of the answer or information or the production of the document, is not admissible in evidence against the person in:
 
@@ -6767,13 +6767,13 @@ is guilty of an offence if the master, medical officer or agent, as the case may
 
                       (f)  misleads a quarantine officer who is performing duty as such an officer.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 ##### <a id="84"></a>84  Maliciously ordering vessel etc. into quarantine
 
                    A quarantine officer who maliciously orders any vessel, installation or person, or any animal, plant or other goods, into quarantine is guilty of an offence.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 ##### <a id="86A"></a>86A  Venue in summary prosecution
 
@@ -6833,9 +6833,9 @@ Copy of certificate to be given to defendant or defendant’s solicitor
 
              (4)  A certificate must not be admitted in evidence under subsection (2) in proceedings for an offence unless the person charged with the offence or a solicitor who has appeared for the person in those proceedings has, at least 14 days before the certificate is sought to be so admitted, been given a copy of the certificate together with reasonable notice of the intention to produce the certificate as evidence in the proceedings.
 
-Analyst may be required to attend for cross‑examination
+Analyst may be required to attend for cross-examination
 
-             (5)  Subject to subsection (6), if, under subsection (2), a certificate of an analyst is admitted in evidence in proceedings for an offence, the person charged with the offence may require the analyst to be called as a witness for the prosecution and the analyst may be cross‑examined as if he or she had given evidence of the matters stated in the certificate.
+             (5)  Subject to subsection (6), if, under subsection (2), a certificate of an analyst is admitted in evidence in proceedings for an offence, the person charged with the offence may require the analyst to be called as a witness for the prosecution and the analyst may be cross-examined as if he or she had given evidence of the matters stated in the certificate.
 
 Notice to be given to prosecutor
 
@@ -6901,13 +6901,13 @@ Late payment fees
 
                      (b)  a fee of a stated amount in respect of each day after the payment day and before the day on which the basic fee is paid.
 
-       (2CA)  Without limiting the generality of paragraph (2C)(b), the reference to a fee as set out in that paragraph includes a reference to a fee that is a percentage per annum of the basic fee, worked out on a daily basis, for each day after the payment day on which the basic fee remains unpaid.
+        (2CA)  Without limiting the generality of paragraph (2C)(b), the reference to a fee as set out in that paragraph includes a reference to a fee that is a percentage per annum of the basic fee, worked out on a daily basis, for each day after the payment day on which the basic fee remains unpaid.
 
         (2CB)  Subsections (2B), (2C) and (2CA) do not apply in relation to a fee payable for the provision of a prescribed health measure in relation to a traveller.
 
 Booking fees and deposits
 
-          (2E)  A determination may, in respect of the reservation of space at a quarantine station or at a place approved under section 46A for an animal in respect of a period, require the payment of either or both of the following:
+           (2E)  A determination may, in respect of the reservation of space at a quarantine station or at a place approved under section 46A for an animal in respect of a period, require the payment of either or both of the following:
 
                      (a)  a booking fee;
 
@@ -6987,7 +6987,7 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
 ##### <a id="87"></a>87  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, without limiting the generality of the foregoing, may make regulations concerning the following matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, without limiting the generality of the foregoing, may make regulations concerning the following matters:
 
                      (a)  for regulating the performance of quarantine;
 
@@ -7031,11 +7031,11 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
                             (iii)  Australian installations;
 
-                    (la)  for prescribing measures to be taken (including measures relating to the examination of animals, plants, goods or things, or of any equipment or thing used for purposes associated with the transportation of animals, plants, goods or any other thing and to the sampling of ballast water) for the diagnosis and prevention of disease or pests for purposes of, or incidental to, quarantine;
+                     (la)  for prescribing measures to be taken (including measures relating to the examination of animals, plants, goods or things, or of any equipment or thing used for purposes associated with the transportation of animals, plants, goods or any other thing and to the sampling of ballast water) for the diagnosis and prevention of disease or pests for purposes of, or incidental to, quarantine;
 
-                    (lb)  for requiring, or requiring arrangements to be made for, the treatment of, or the taking of other measures of quarantine in relation to, aircraft before or after they land in Australia, the Cocos Islands or Christmas Island;
+                     (lb)  for requiring, or requiring arrangements to be made for, the treatment of, or the taking of other measures of quarantine in relation to, aircraft before or after they land in Australia, the Cocos Islands or Christmas Island;
 
-                    (m)  for providing for the examination by quarantine officers of animals or plants for export from Australia, from the Cocos Islands or from Christmas Island;
+                    (m)  for providing for the examination by quarantine officers of animals or plants for export from Australia, from the  Cocos Islands or from Christmas Island;
 
                      (n)  for providing for the granting of certificates by quarantine officers in relation to any vessels, animals, plants, or goods examined or treated by them or under their supervision;
 
@@ -7043,7 +7043,7 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
                      (q)  for prescribing measures of disinfection, fumigation, and other measures of quarantine which persons or goods subject to quarantine shall carry out or be subjected to;
 
-                   (qa)  for prescribing methods of controlling the storage, use, movement and disposal in Australia, the Cocos Islands or Christmas Island of goods that:
+                    (qa)  for prescribing methods of controlling the storage, use, movement and disposal in Australia, the Cocos  Islands or Christmas Island of goods that:
 
                               (i)  have been imported into Australia, the Cocos Islands or Christmas Island, being goods the importation of which without the approval of the Minister or a Director of Quarantine is prohibited by a proclamation under section 13 or the importation of which without a permit granted pursuant to a proclamation made in accordance with subsection 13(2A) is prohibited; or
 
@@ -7071,7 +7071,7 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
                      (u)  for prescribing the circumstances in which reports are to be made in relation to vessels, the matters to be covered in those reports, and the persons by whom, and the manner in which, those reports are to be made;
 
-                     (v)  for regulating inter‑state traffic and prescribing measures of quarantine in relation to inter‑state traffic for the prevention of the occurrence or spread of diseases or pests.
+                     (v)  for regulating inter-state traffic and prescribing measures of quarantine in relation to inter-state traffic for the prevention of the occurrence or spread of diseases or pests.
 
           (1A)  Regulations made under subsection (1) may:
 
@@ -7079,9 +7079,9 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
                      (b)  apply in, or relate to, Australia only; or
 
-                     (c)  apply in, or relate to, the Cocos Islands only; or
+                     (c)  apply in, or relate to, the Cocos  Islands only; or
 
-                     (d)  apply in, or relate to, Christmas Island only.
+                     (d)  apply in, or relate to, Christmas  Island only.
 
           (1B)  Without limiting the generality of subsection (1), regulations may be made under that subsection for the purpose of preventing the spread of diseases or pests to, or from, quarantine stations in the Cocos Islands or for the purpose of preventing, eradicating or controlling diseases or pests in the Cocos Islands, including regulations:
 
@@ -7095,7 +7095,7 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
                      (b)  prohibiting the entry of animals into areas adjoining quarantine stations in the Cocos Islands;
 
-                     (c)  requiring the registration of live‑stock and other domestic animals in the Cocos Islands;
+                     (c)  requiring the registration of live-stock and other domestic animals in the Cocos Islands;
 
                      (d)  prohibiting the abandonment of animals in the Cocos Islands;
 
@@ -7111,7 +7111,7 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
                      (k)  providing for the payment of compensation to the owners of any animals or plants destroyed in pursuance of the regulations.
 
-       (1BA)  Without limiting the generality of subsection (1), regulations may be made under that subsection for the purpose of preventing the spread of disease or pests to, or from, quarantine stations in Christmas Island or for the purpose of preventing, eradicating or controlling diseases or pests in Christmas Island, including regulations:
+        (1BA)  Without limiting the generality of subsection (1), regulations may be made under that subsection for the purpose of preventing the spread of disease or pests to, or from, quarantine stations in Christmas Island or for the purpose of preventing, eradicating or controlling diseases or pests in Christmas Island, including regulations:
 
                      (a)  conferring functions and powers, and imposing duties, on quarantine officers, including:
 
@@ -7123,7 +7123,7 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
                      (b)  prohibiting the entry of animals into areas adjoining quarantine stations in Christmas Island; and
 
-                     (c)  requiring the registration of live‑stock and other domestic animals in Christmas Island; and
+                     (c)  requiring the registration of live-stock and other domestic animals in Christmas Island; and
 
                      (d)  prohibiting the abandonment of animals in Christmas Island; and
 
@@ -7589,7 +7589,7 @@ p. 4213)</div>
 </tr>
 <tr>
   <td>
-    <div>Off‑shore Installations (Miscellaneous Amendments) Act 1982</div>
+    <div>Off-shore Installations (Miscellaneous Amendments) Act 1982</div>
   </td>
   <td>
     <div>51, 1982</div>
@@ -7741,7 +7741,7 @@ Remainder: 24 May 1984</div>
     <div>6 Nov 1987</div>
   </td>
   <td>
-    <div>Parts I‑V (ss. 
+    <div>Parts I-V (ss. 
 1–30) and Part VIII (s. 57): 15 Oct 1987 
 Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   </td>
@@ -7834,7 +7834,7 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
 </tr>
 <tr>
   <td>
-    <div>Petroleum (Australia‑Indonesia Zone of Cooperation) (Consequential Provisions) Act 1990</div>
+    <div>Petroleum (Australia-Indonesia Zone of Cooperation) (Consequential Provisions) Act 1990</div>
   </td>
   <td>
     <div>37, 1990</div>
@@ -8519,30 +8519,13 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 116, 117): 19 Apr 2011</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Quarantine Act 1908_ was amended by Part VII (sections 52–112) only of the _Off‑shore Installations (Miscellaneous Amendments) Act 1982_, subsection 2(1) of which provides as follows:
+_(a)_     The _Quarantine Act 1908_ was amended by Part VII (sections 52–112) only of the _Off-shore Installations (Miscellaneous Amendments) Act 1982_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsection (2), this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to subsection (2), this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Quarantine Act 1908_ was amended by Part IX (sections 28 and 29) only of the _Migration (Miscellaneous Amendments) Act 1983_, subsection 2(1) of which provides as follows:
+_(b)_    The _Quarantine Act 1908_ was amended by Part IX (sections 28 and 29) only of the _Migration (Miscellaneous Amendments) Act 1983_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act shall come into operation on the day on which the _Migration Amendment Act 1983_ comes into operation.
 
@@ -8680,7 +8663,7 @@ _(m)_    Subsection 2(1) (items 4 and 6) of the _Agriculture, Fisheries 
     <div>
       27 October 2004
 
-      (paragraph (b) applies)
+(paragraph (b) applies)
     </div>
   </td>
 </tr>
@@ -8710,7 +8693,7 @@ _(m)_    Subsection 2(1) (items 4 and 6) of the _Agriculture, Fisheries 
     <div>
       27 October 2004
 
-      (paragraph (b) applies)
+(paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -8888,7 +8871,7 @@ _(o)_     Subsection 2(1) (item 3) of the _Quarantine Amendment (Healt
     <div>
       27 October 2004
 
-      (paragraph (b) applies)
+(paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -8954,7 +8937,7 @@ _(p)_     Subsection 2(1) (items 5B and 8) of the _Agriculture, Fisher
     <div>
       1 July 2004
 
-      (paragraph (b) applies)
+(paragraph (b) applies)
     </div>
   </td>
 </tr>
@@ -9209,7 +9192,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007; Nos. 68 and 117, 2008; No. 8, 2010; No. 5, 2011</div>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007; Nos. 68 and 117, 2008; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9489,7 +9472,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 196, 1999; No. 121, 2000; No. 54, 2004; No. 5, 2011</div>
+    <div>am. No. 196, 1999; No. 121, 2000; No. 54, 2004</div>
   </td>
 </tr>
 <tr>
@@ -11230,7 +11213,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part VI</div>
+    <div>Heading to Div. 1 of Part VI.</div>
   </td>
   <td>
     <div>ad. No. 68, 2008</div>
@@ -11254,7 +11237,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part VI</div>
+    <div>Heading to Div. 2 of Part VI.</div>
   </td>
   <td>
     <div>ad. No. 68, 2008</div>
@@ -11438,7 +11421,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4 of Part VI</div>
+    <div>Heading to Div. 4 of Part VI.</div>
   </td>
   <td>
     <div>ad. No. 68, 2008</div>
@@ -12882,7 +12865,7 @@ Insert:
 
                      (b)  is not in possession or control of the goods or premises at that time.
 
-As at 9 May 2011 the amendments are not incorporated in this compilation.
+As at 3 March 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -12922,7 +12905,7 @@ A reference to an oversea vessel in any Proclamation, order, determination, decl
 
 ## 50  Saving of Proclamations
 
-A Proclamation made by the Governor‑General for the purposes of the definition of **_quarantinable disease_** in subsection 5(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been made for the purposes of that definition as amended by item 49.
+A Proclamation made by the Governor-General for the purposes of the definition of **_quarantinable disease_** in subsection 5(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been made for the purposes of that definition as amended by item 49.
 
 ## 65  Saving of determinations
 
@@ -12946,9 +12929,9 @@ An appointment of a person as, or an authority of a person to act as, a temporar
 
 ## 83  Saving of delegations
 
-(1)       A delegation given by the Minister under section 10 of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been given under section 10 substituted by item 82.
+(1)        A delegation given by the Minister under section 10 of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been given under section 10 substituted by item 82.
 
-(2)       A delegation given by a Director of Quarantine under section 10B of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been given under section 10B substituted by item 82.
+(2)        A delegation given by a Director of Quarantine under section 10B of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and is taken to have been given under section 10B substituted by item 82.
 
 ## 85  Saving of arrangements
 
@@ -13014,15 +12997,15 @@ Any matters relating to the treatment of cargo or passengers’ effects that wer
 
 Saving of certificates
 
-(1)       Any certificate given under subsection 35A(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been given under paragraph 35A(1)(b) substituted by item 179.
+(1)        Any certificate given under subsection 35A(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been given under paragraph 35A(1)(b) substituted by item 179.
 
 Saving of orders
 
-(2)       An order into quarantine made under subsection 35A(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under subsection 35A(3) substituted by item 179.
+(2)        An order into quarantine made under subsection 35A(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been made under subsection 35A(3) substituted by item 179.
 
 Saving of directions
 
-(3)       Any direction relating to measures of quarantine given by a quarantine officer (human quarantine) under subsection 35A(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and has effect as if:
+(3)        Any direction relating to measures of quarantine given by a quarantine officer (human quarantine) under subsection 35A(1) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force and has effect as if:
 
                      (a)  it were a direction given by the Chief Quarantine Officer (Human Quarantine) under subsection 35A(2) substituted by item 179; and
 
@@ -13030,7 +13013,7 @@ Saving of directions
 
 Saving of permissions
 
-(4)       Any permission given for the purposes of subsection 35A(3) or (4) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been given for the purposes of subsection 35A(9) or (10), as the case may be, substituted by item 179.
+(4)        Any permission given for the purposes of subsection 35A(3) or (4) of the _Quarantine Act 1908_ that was in force immediately before the commencement of this Schedule continues in force as if it had been given for the purposes of subsection 35A(9) or (10), as the case may be, substituted by item 179.
 
 ## 193  Saving of instruments
 
@@ -13058,11 +13041,11 @@ A notice prescribed for the purposes of subsection 74(1) of the _Quarantine Act 
 
 ## 271  Saving of warrants, consents and notices
 
-(1)       A warrant issued under section 74AB, 74A, 74B or 74BA of the _Quarantine Act 1908_ that was in force immediately before the repeal of that section continues in force, and may be executed, as if that section had not been repealed.
+(1)        A warrant issued under section 74AB, 74A, 74B or 74BA of the _Quarantine Act 1908_ that was in force immediately before the repeal of that section continues in force, and may be executed, as if that section had not been repealed.
 
-(2)       A consent given by the occupier of any premises under section 74AB, 74A, 74B or 74BA of the _Quarantine Act 1908_ before the repeal of that section that had not been revoked before that repeal is taken to have been given under the corresponding section of Part VIA of that Act inserted by this Schedule.
+(2)        A consent given by the occupier of any premises under section 74AB, 74A, 74B or 74BA of the _Quarantine Act 1908_ before the repeal of that section that had not been revoked before that repeal is taken to have been given under the corresponding section of Part VIA of that Act inserted by this Schedule.
 
-(3)       A notice prescribed for the purposes of paragraph 74A(4)(d) of the _Quarantine Act 1908_ immediately before the repeal of section 74A of that Act is taken to have been approved by a Director of Quarantine for the purposes of paragraph 66AA(1)(i) of that Act inserted by this Schedule.
+(3)        A notice prescribed for the purposes of paragraph 74A(4)(d) of the _Quarantine Act 1908_ immediately before the repeal of section 74A of that Act is taken to have been approved by a Director of Quarantine for the purposes of paragraph 66AA(1)(i) of that Act inserted by this Schedule.
 
 ## 290  Saving of orders
 
@@ -13109,7 +13092,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences)
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
              (1)  Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -13123,7 +13106,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences)
 
              (2)  Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
                    If:
 
@@ -13131,9 +13114,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences)
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-                   the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+                   the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -13157,13 +13140,13 @@ _Crimes Legislation Enhancement Act 2003 (No. 41, 2003)_
 
 ## 42  Saving provision
 
-(1)       The amendments made by this Schedule do not invalidate:
+(1)        The amendments made by this Schedule do not invalidate:
 
                      (a)  an instrument made under, or referring to, a Part of the _Crimes Act 1914_ whose heading is repealed and substituted by this Schedule; or
 
                      (b)  anything done under such an instrument or such a Part.
 
-(2)       Subitem (1) has effect whether the instrument was made, or the thing was done, before or after this Act received the Royal Assent.
+(2)        Subitem (1) has effect whether the instrument was made, or the thing was done, before or after this Act received the Royal Assent.
 
 * * *
 
@@ -13215,15 +13198,15 @@ A declaration made under section 5A of the _Quarantine Act 1908_ that was in f
 
 ## 19  Transitional provision—continuance of old quarantine law
 
-(1)       If a person, vessel, animal, plant or other goods arrive at Christmas Island before the date of commencement of the amendment of subsection 6(1) of the _Quarantine Act 1908_ by item 16 of this Schedule, then, despite that amendment, the quarantine law in force before that date continues to apply in relation to that person, vessel, animal, plant or other goods for 2 months commencing on that date as if that amendment had not been made.
+(1)        If a person, vessel, animal, plant or other goods arrive at Christmas Island before the date of commencement of the amendment of subsection 6(1) of the _Quarantine Act 1908_ by item 16 of this Schedule, then, despite that amendment, the quarantine law in force before that date continues to apply in relation to that person, vessel, animal, plant or other goods for 2 months commencing on that date as if that amendment had not been made.
 
-(2)       If, before the end of the 2 months referred to in subitem (1), the Minister is satisfied that it is necessary that the quarantine law in force before the amendment of subsection 6(1) of the _Quarantine Act 1908_ by item 16 of this Schedule should continue to have effect as provided in that subitem for a specified period after the end of that 2 months:
+(2)        If, before the end of the 2 months referred to in subitem (1), the Minister is satisfied that it is necessary that the quarantine law in force before the amendment of subsection 6(1) of the _Quarantine Act 1908_ by item 16 of this Schedule should continue to have effect as provided in that subitem for a specified period after the end of that 2 months:
 
                      (a)  the Minister may, by notice published in the _Gazette_, make a declaration to that effect; and
 
                      (b)  subitem (1) has effect as if there were substituted for the reference to 2 months a reference to 2 months as extended of that specified period.
 
-(3)       For the purposes of this item, the reference to the quarantine law in force before the date of commencement of the amendment of subsection 6(1) of the _Quarantine Act 1908_ by item 16 of this Schedule is a reference to the Quarantine and Prevention of Disease Ordinance of the Colony of Singapore in its application to Christmas Island.
+(3)        For the purposes of this item, the reference to the quarantine law in force before the date of commencement of the amendment of subsection 6(1) of the _Quarantine Act 1908_ by item 16 of this Schedule is a reference to the Quarantine and Prevention of Disease Ordinance of the Colony of Singapore in its application to Christmas Island.
 
 ## 24  Saving of Proclamations
 
@@ -13286,10 +13269,10 @@ _Quarantine Amendment (National Health Security) Act 2008
 
 Main amendments
 
-(1)       The amendments of the _Quarantine Act 1908_ made by this Schedule (other than items 10, 12, 14, 15, 17, 18, 19 and 20) apply in relation to prescribed health measures provided after the commencement of this Schedule.
+(1)        The amendments of the _Quarantine Act 1908_ made by this Schedule (other than items 10, 12, 14, 15, 17, 18, 19 and 20) apply in relation to prescribed health measures provided after the commencement of this Schedule.
 
 Amendments relating to the remission of fees
 
-(2)       The amendments of the _Quarantine Act 1908_ made by items 15, 17, 18 and 20 apply in relation to fees that become payable after the commencement of those items.
+(2)        The amendments of the _Quarantine Act 1908_ made by items 15, 17, 18 and 20 apply in relation to fees that become payable after the commencement of those items.
 
  
