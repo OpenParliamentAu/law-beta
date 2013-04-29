@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01793/Html/AiNoiseLC95_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01792/Html/AiNoiseLC95_image001.gif)
 
 # Aircraft Noise Levy Collection Act 1995
 
 **Act No. 98 of 1995 as amended**
 
-This compilation was prepared on 22 October 2001
- taking into account amendments up to Act No. 143 of 2001
+This compilation was prepared on 11 April 2001
+ taking into account amendments up to Act No. 17 of 2001
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -27,51 +27,47 @@ Prepared by the Office of Legislative Drafting,
 
 [5](#5).            Act binds Crown                                                                                 3
 
-[5A](#5A).         Application of the _Criminal Code_                                                       3
-
 **Part 2—Leviable airports**
 
-[6](#6).            Identification of qualifying airports                                                     5
+[6](#6).            Identification of qualifying airports                                                     4
 
-[7](#7).            Declaration of leviable airports                                                            6
+[7](#7).            Declaration of leviable airports                                                            5
 
 **Part 3—Payment of levy and penalty for late payment of levy**
 
-[8](#8).            When levy becomes due for payment                                                 8
+[8](#8).            When levy becomes due for payment                                                 7
 
-[9](#9).            Penalty for late payment of levy                                                         8
+[9](#9).            Penalty for late payment of levy                                                         7
 
-[10](#10).          Remission of late-payment penalty                                                    8
+[10](#10).          Remission of late-payment penalty                                                    7
 
-[11](#11).          Manner of payment                                                                             9
+[11](#11).          Manner of payment                                                                             8
 
-[12](#12).          Recovery of unpaid levy and late-payment penalty                           9
+[12](#12).          Recovery of unpaid levy and late-payment penalty                           8
 
-[13](#13).          Refund of overpayment of levy or late-payment penalty                10
+[13](#13).          Refund of overpayment of levy or late-payment penalty                  9
 
 **Part 4—Powers to gather information relevant to collecting levy**
 
-[14](#14).          Authorised officers’ powers to seek information                              11
+[14](#14).          Authorised officers’ powers to seek information                              10
 
-[15](#15).          Offences in relation to returns etc                                                     11
+[15](#15).          Offences in relation to returns etc                                                     10
 
-[16](#16).          Conduct by directors, servants and agents                                        12
+[16](#16).          Conduct by directors, servants and agents                                        11
 
 **Part 5—Miscellaneous**
 
-[17](#17).          Agreement for collecting levy and late-payment penalty                  15
+[17](#17).          Agreement for collecting levy and late-payment penalty                  14
 
-[18](#18).          Evidentiary certificates                                                                      15
+[18](#18).          Evidentiary certificates                                                                      14
 
-[19](#19).          Agreements etc  by Commonwealth authorities                                16
+[19](#19).          Agreements etc  by Commonwealth authorities                                15
 
-[20](#20).          Annual report                                                                                    16
+[20](#20).          Annual report                                                                                    15
 
-[21](#21).          Regulations                                                                                        16
+[21](#21).          Regulations                                                                                        15
 
 **Notes** 
-
- 
 
 ## An Act relating to levy imposed by the _Aircraft Noise Levy Act 1995_
 
@@ -237,12 +233,6 @@ Prepared by the Office of Legislative Drafting,
 
                    This Act binds the Crown in right of each of the States, of the Australian Capital Territory and of the Northern Territory.
 
-##### <a id="5A"></a>5A  Application of the _Criminal Code_
-
-                   Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences created by this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
 ## Part 2—Leviable airports
 
 ##### <a id="6"></a>6  Identification of qualifying airports
@@ -323,7 +313,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (5)  If the judgment debt bears interest, the penalty payable under subsection (1) is reduced by the following amount: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01793/Html/AiNoiseLC95_image002.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01792/Html/AiNoiseLC95_image002.gif)</sub>
 
 ##### <a id="10"></a>10  Remission of late-payment penalty
 
@@ -395,13 +385,9 @@ The delegation must be in writing.
 
 ##### <a id="15"></a>15  Offences in relation to returns etc.
 
-             (1)  A person must not fail to give information or a return that the person is required to give under this Act or the regulations.
+             (1)  A person must not, without reasonable excuse, refuse or fail to give information or a return that the person is required to give under this Act or the regulations.
 
                     Penalty:  60 penalty units.
-
-          (1A)  Subsection (1) does not apply if the person has a reasonable excuse.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).
 
              (2)  The offence created by subsection (1) is an offence of strict liability.
 
@@ -419,11 +405,11 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  any conduct engaged in by a director, servant or agent of the body corporate within the actual or apparent scope of his or her employment or within his or her actual or apparent authority is taken to have been engaged in also by the body corporate; and
 
-                     (b)  it is taken to be established that conduct (the **_relevant conduct_**) was engaged in by the body corporate if it is proved:
+                     (b)  it is taken to be established that conduct (the **_relevant conduct_**) was engaged in by the body corporate knowingly if it is proved:
 
-                              (i)  that the directors of the body corporate engaged in the relevant conduct or expressly, tacitly or impliedly authorised or permitted the relevant conduct to be engaged in; or
+                              (i)  that the directors of the body corporate knowingly engaged in the relevant conduct or expressly, tacitly or impliedly authorised or permitted the relevant conduct to be engaged in; or
 
-                             (ii)  that a servant or agent of the body corporate with duties of such responsibility that his or her conduct may fairly be assumed to represent the policy of the body corporate engaged in the relevant conduct or expressly, tacitly or impliedly authorised or permitted the relevant conduct to be engaged in.
+                             (ii)  that a servant or agent of the body corporate with duties of such responsibility that his or her conduct may fairly be assumed to represent the policy of the body corporate knowingly engaged in the relevant conduct or expressly, tacitly or impliedly authorised or permitted the relevant conduct to be engaged in.
 
              (2)  Subparagraph (1)(b)(ii) does not apply if the body corporate proves that it exercised due diligence to prevent the relevant conduct.
 
@@ -505,7 +491,7 @@ The delegation must be in writing.
 
 whether or not the authority’s powers and functions (apart from this section) include matters covered by the agreement or delegation.
 
-##### <a id="20"></a>20  Annual report
+##### <a id="20"></a>20  Annual report
 
              (1)  As soon as practicable after 30 June in each year, the Secretary must prepare and give to the Minister a report on the working of this Act and the _Aircraft Noise Levy Act 1995_ during the year ending on that 30 June.
 
@@ -536,8 +522,6 @@ whether or not the authority’s powers and functions (apart from this section) 
 ### Note 1
 
 The _Aircraft Noise Levy Collection Act 1995_ as shown in this compilation comprises Act No. 98, 1995 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -638,23 +622,6 @@ of Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>143, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Aircraft Noise Levy Collection Act 1995_ was amended by Schedule 2 (item 152) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
@@ -691,14 +658,6 @@ _(b)_    The _Aircraft Noise Levy Collection Act 1995_ was amended by Sche
   </tr>
   <tr>
     <td>
-      <div>S. 5A</div>
-    </td>
-    <td>
-      <div>ad. No. 143, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 7</div>
     </td>
     <td>
@@ -723,14 +682,6 @@ _(b)_    The _Aircraft Noise Levy Collection Act 1995_ was amended by Sche
   </tr>
   <tr>
     <td>
-      <div>Ss. 15, 16</div>
-    </td>
-    <td>
-      <div>am. No. 143, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 17</div>
     </td>
     <td>
@@ -746,18 +697,6 @@ _(b)_    The _Aircraft Noise Levy Collection Act 1995_ was amended by Sche
     </td>
   </tr>
 </thead></table>
-
-Table A
-
-### Application, saving or transitional provisions
-
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
-
-##### <a id="4"></a>4  Application of Amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
       
 
