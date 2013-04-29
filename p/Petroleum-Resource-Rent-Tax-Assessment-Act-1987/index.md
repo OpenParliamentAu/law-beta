@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image001.gif)
 
 # Petroleum Resource Rent Tax Assessment Act 1987
 
 **Act No. 142 of 1987 as amended**
 
-This compilation was prepared on 3 November 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -36,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [2C](#2C).         Greater Sunrise apportionments
 
-[2D](#2D).         Future closing‑down expenditure
+[2D](#2D).         Future closing-down expenditure
 
 [3](#3).            Petroleum pools
 
@@ -138,7 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38](#38).          General project expenditure
 
-[39](#39).          Closing‑down expenditure
+[39](#39).          Closing-down expenditure
 
 [40](#40).          Bad debts
 
@@ -166,7 +166,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Tax credits**
 
-[46](#46).          Credits in respect of closing‑down expenditure
+[46](#46).          Credits in respect of closing-down expenditure
 
 [47](#47).          Application of credits
 
@@ -178,7 +178,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [49](#49).          Transfer before 1 July 1984 of partial entitlement to assessable receipts
 
-    **Division 6—Anti‑avoidance** 
+    **Division 6—Anti-avoidance** 
 
         **Subdivision A—Arrangements to obtain tax benefits**
 
@@ -192,13 +192,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [55](#55).          Operation of Subdivision
 
-        **Subdivision B—Non‑arm’s length transactions**
+        **Subdivision B—Non-arm’s length transactions**
 
 [56](#56).          Arm’s length transaction
 
-[57](#57).          Non‑arm’s length receipts
+[57](#57).          Non-arm’s length receipts
 
-[58](#58).          Non‑arm’s length expenditure
+[58](#58).          Non-arm’s length expenditure
 
     **Division 7—Functional currency**
 
@@ -218,7 +218,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [58H](#58H).       Translation rule—transfer of part of entitlement to assessable receipts
 
-[58J](#58J).        Translation of taxable profit, or excess closing‑down expenditure, into Australian currency
+[58J](#58J).        Translation of taxable profit, or excess closing-down expenditure, into Australian currency
 
 [58K](#58K).       Special translation rules—events that happened before the current election took effect
 
@@ -238,7 +238,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61](#61).          Making assessments
 
-[62](#62).          Self‑assessment
+[62](#62).          Self-assessment
 
 [63](#63).          Default assessments
 
@@ -270,7 +270,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [85](#85).          Unpaid tax and charges
 
-[92](#92).          Person in receipt or control of money of non‑resident
+[92](#92).          Person in receipt or control of money of non-resident
 
     **Division 2—Collection by instalments**
 
@@ -374,7 +374,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14](#14).          Assumptions on which amounts to be worked out
 
-[15](#15).          Non‑transferable expenditure
+[15](#15).          Non-transferable expenditure
 
 [16](#16).          Amounts to be worked out
 
@@ -462,17 +462,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  profit and loss accounts; and
 
-                     (e)  balance‑sheets; and
+                     (e)  balance-sheets; and
 
                       (f)  statements of financial position;
 
 and also includes statements, reports and notes attached to, or intended to be read with, anything covered by any of the above paragraphs.
 
-                    <a name="acquisit"></a>**_acquisition_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="acquisit"></a>**_acquisition_** has the meaning given by section 195-1 of the GST Act.
 
                     <a name="agent"></a>**_agent_** includes:
 
-                     (a)  a person who, for and on behalf of a person out of Australia, has the management or control in Australia of the whole or a part of a business of the second‑mentioned person; and
+                     (a)  a person who, for and on behalf of a person out of Australia, has the management or control in Australia of the whole or a part of a business of the second-mentioned person; and
 
                      (b)  a person declared by the Commissioner, by notice in writing served on the person, to be an agent or the sole agent of a person for the purposes of this Act.
 
@@ -482,13 +482,13 @@ and also includes statements, reports and notes attached to, or intended to be r
 
                      (a)  unless paragraph (b) applies—1 July 1986; or
 
-                     (b)  if the project is the Bass Strait project, or if the Bass Strait project is a pre‑combination project in relation to the project—1 July 1990.
+                     (b)  if the project is the Bass Strait project, or if the Bass Strait project is a pre-combination project in relation to the project—1 July 1990.
 
                     <a name="applic-foreign-currenc"></a>**_applicable foreign currency_** has the meaning given by section 58C.
 
                     <a name="apportion-percentag-figur"></a>**_apportionment percentage figure_** has the meaning given by subsection 2C(2).
 
-                    <a name="approved-form"></a>**_approved form_** has the meaning given by section 388‑50 in Schedule 1 to the _Taxation Administration Act 1953_.
+                    <a name="approved-form"></a>**_approved form_** has the meaning given by section 388-50 in Schedule 1 to the _Taxation Administration Act 1953_.
 
 Note:          Forms previously approved by the Commissioner under this Act continue in effect_:_ see item 230 of Schedule 10 to the _Tax Laws Amendment (2004 Measures No. 7) Act 2005_.
 
@@ -516,11 +516,11 @@ Note:          Forms previously approved by the Commissioner u
 
                     <a name="condens"></a>**_condensate_** means a mixture that includes pentane and hexane, where the pentane and hexane comprise more than 50% by weight of the mixture.
 
-                    <a name="critabl-purpos"></a>**_creditable purpose_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="critabl-purpos"></a>**_creditable purpose_** has the meaning given by section 195-1 of the GST Act.
 
                     <a name="current-apportion-percentag"></a>**_current apportionment percentage_** has the meaning given by subsection 2C(1).
 
-                    <a name="decreas-adjust"></a>**_decreasing adjustment_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="decreas-adjust"></a>**_decreasing adjustment_** has the meaning given by section 195-1 of the GST Act.
 
                     <a name="deputi-commission"></a>**_Deputy Commissioner_** means a Deputy Commissioner of Taxation.
 
@@ -546,11 +546,11 @@ other than exploration expenditure that is incurred in evaluating or delineating
 
                     <a name="elig-product-licenc"></a>**_eligible production licence_** means a production licence other than a production licence that is related to one of the North West Shelf exploration permits.
 
-                    <a name="elig-real-expenditur"></a>**_eligible real expenditure_** means exploration expenditure, general project expenditure or closing‑down expenditure.
+                    <a name="elig-real-expenditur"></a>**_eligible real expenditure_** means exploration expenditure, general project expenditure or closing-down expenditure.
 
-                    <a name="employe-amen"></a>**_employee amenities_** means housing, health, educational, recreational, welfare or other similar facilities and services for, or facilities and services involved in the supply of meals to, employees or dependants of employees, not being facilities and services conducted for the purpose of profit‑making.
+                    <a name="employe-amen"></a>**_employee amenities_** means housing, health, educational, recreational, welfare or other similar facilities and services for, or facilities and services involved in the supply of meals to, employees or dependants of employees, not being facilities and services conducted for the purpose of profit-making.
 
-                    <a name="excess-close-down-expenditur"></a>**_excess closing‑down expenditure_** has the meaning given by paragraph 46(1)(a).
+                    <a name="excess-close-down-expenditur"></a>**_excess closing-down expenditure_** has the meaning given by paragraph 46(1)(a).
 
                     <a name="excluded-commod"></a>**_excluded commodity_** means a marketable petroleum commodity that:
 
@@ -576,21 +576,21 @@ other than exploration expenditure that is incurred in evaluating or delineating
 
                     <a name="foreign-currenc"></a>**_foreign currency_** means a currency other than Australian currency.
 
-                    <a name="futur-close-down-expenditur"></a>**_future closing‑down expenditure_** has the meaning given by section 2D.
+                    <a name="futur-close-down-expenditur"></a>**_future closing-down expenditure_** has the meaning given by section 2D.
 
                     <a name="gdp-factor"></a>**_GDP factor_**, in relation to a financial year, means the GDP factor for the financial year worked out in accordance with section 2A.
 
                     <a name="gener-interest-charg"></a>**_general interest charge_** means the charge worked out under Part IIA of the _Taxation Administration Act 1953_.
 
-                    <a name="greater-sunris-project"></a>**_Greater Sunrise project_** means a petroleum project for the recovery of petroleum from one or more of the Greater Sunrise unit reservoirs.
+                    <a name="project"></a><a name="sunris"></a><a name="greater"></a>**_Greater_****_Sunrise_****_project_** means a petroleum project for the recovery of petroleum from one or more of the Greater Sunrise unit reservoirs.
 
-                    <a name="greater-sunris-unit-area"></a>**_Greater Sunrise unit area_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="unit-area"></a><a name="sunris"></a><a name="greater"></a>**_Greater_****_Sunrise_****_unit area_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="greater-sunris-unit-reservoir"></a>**_Greater Sunrise unit reservoirs_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="unit-reservoir"></a><a name="sunris"></a><a name="greater"></a>**_Greater_****_Sunrise_****_unit reservoirs_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
                     <a name="group-compani"></a>**_group company_** has the meaning given by section 2B.
 
-                    <a name="gst"></a>**_GST_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="gst"></a>**_GST_** has the meaning given by section 195-1 of the GST Act.
 
                     <a name="gst-act"></a>**_GST Act_** means the _A New Tax System (Goods and Services Tax) Act 1999_.
 
@@ -598,13 +598,13 @@ other than exploration expenditure that is incurred in evaluating or delineating
 
                     <a name="holder-regist-interest"></a>**_holder of a registered interest_**, in relation to a production licence, means a person holding an interest in the production licence, being an interest created by a dealing in relation to which an entry has been made under subsection 494(3) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="increasing-adjust"></a>**_increasing adjustment_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="increasing-adjust"></a>**_increasing adjustment_** has the meaning given by section 195-1 of the GST Act.
 
-                    <a name="inelig-project"></a>**_ineligible project_**, in relation to a financial year, means a petroleum project that is a pre‑combination project by virtue of the issue of a project combination certificate during the financial year.
+                    <a name="inelig-project"></a>**_ineligible project_**, in relation to a financial year, means a petroleum project that is a pre-combination project by virtue of the issue of a project combination certificate during the financial year.
 
                     <a name="infrastructur-licenc"></a>**_infrastructure licence_** has the meaning given by section 7 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="input-tax-crite"></a>**_input tax credit_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="input-tax-crite"></a>**_input tax credit_** has the meaning given by section 195-1 of the GST Act.
 
                     <a name="instal-tax"></a>**_instalment of tax_** means an instalment of tax payable under Division 2 of Part VIII.
 
@@ -648,7 +648,7 @@ other than exploration expenditure that is incurred in evaluating or delineating
 
                     <a name="liquefi-petroleum-ga"></a>**_liquefied petroleum gas_** means a mixture that includes propane and butane, where the propane and butane comprise more than 50% by weight of the mixture.
 
-                    <a name="long-term-bond-rate"></a>**_long‑term bond rate_** means:
+                    <a name="long-term-bond-rate"></a>**_long-term bond rate_** means:
 
                      (a)  in relation to the financial year commencing on 1 July 1979—0.1066;
 
@@ -664,7 +664,7 @@ other than exploration expenditure that is incurred in evaluating or delineating
 
                      (g)  in relation to the financial year commencing on 1 July 1985—0.1365; and
 
-                     (h)  in relation to any subsequent financial year—the average, expressed as a decimal fraction, of the assessed secondary market yields in respect of 10‑year non‑rebate Treasury bonds published by the Reserve Bank during that year or, if no assessed secondary market yield in respect of bonds of that kind was published by the Reserve Bank during the year, the decimal fraction determined by the Treasurer by notice in writing published in the _Gazette_ for the purposes of this definition in relation to the financial year.
+                     (h)  in relation to any subsequent financial year—the average, expressed as a decimal fraction, of the assessed secondary market yields in respect of 10-year non-rebate Treasury bonds published by the Reserve Bank during that year or, if no assessed secondary market yield in respect of bonds of that kind was published by the Reserve Bank during the year, the decimal fraction determined by the Treasurer by notice in writing published in the _Gazette_ for the purposes of this definition in relation to the financial year.
 
                     <a name="market-petroleum-commod"></a>**_marketable petroleum commodity_** means any of the following products produced from petroleum:
 
@@ -688,7 +688,7 @@ not being a product produced from another product of a kind referred to in parag
 
                      (b)  the acquisition had been solely for a creditable purpose.
 
-                    <a name="north-west-shelf-explor-permit"></a>**_North West Shelf exploration permits_** means the exploration permits known as WA‑1‑P and WA‑28‑P.
+                    <a name="north-west-shelf-explor-permit"></a>**_North West Shelf exploration permits_** means the exploration permits known as WA-1-P and WA-28-P.
 
                     <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against:
 
@@ -710,15 +710,15 @@ relating to this Act.
 
                     <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="post-30-june-2008-petroleum-project"></a>**_post‑30 June 2008 petroleum project_** means a petroleum project, where the production licence, or each production licence, in relation to the project came into force after 30 June 2008.
+                    <a name="post-30-june-2008-petroleum-project"></a>**_post-30 June 2008 petroleum project_** means a petroleum project, where the production licence, or each production licence, in relation to the project came into force after 30 June 2008.
 
-                    <a name="pre-juli-2008-petroleum-project"></a>**_pre‑1 July 2008 petroleum project_** means a petroleum project other than a post‑30 June 2008 petroleum project.
+                    <a name="pre-juli-2008-petroleum-project"></a>**_pre-1 July 2008 petroleum project_** means a petroleum project other than a post-30 June 2008 petroleum project.
 
-                    <a name="pre-combin-project"></a>**_pre‑combination project_**, in relation to a combined project, means:
+                    <a name="pre-combin-project"></a>**_pre-combination project_**, in relation to a combined project, means:
 
                      (a)  any petroleum project that, immediately before the project combination certificate that gave rise to the combined project came into force, was a petroleum project in relation to any one or more of the eligible production licences specified in the certificate; and
 
-                     (b)  any petroleum project that is a pre‑combination project in relation to another petroleum project that is a pre‑combination project in relation to the combined project under paragraph (a) or this paragraph.
+                     (b)  any petroleum project that is a pre-combination project in relation to another petroleum project that is a pre-combination project in relation to the combined project under paragraph (a) or this paragraph.
 
                     <a name="process-extern-petroleum"></a>**_processing of external petroleum_**, in relation to a petroleum project, includes the stabilisation, transportation, storage or recovery of external petroleum in relation to the project.
 
@@ -736,7 +736,7 @@ relating to this Act.
 
                     <a name="regist-holder"></a>**_registered holder_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="re-inject"></a>**_re‑inject_**, in relation to a marketable petroleum commodity produced from petroleum recovered from the eligible exploration or recovery area in relation to a petroleum project, means return the commodity to a natural reservoir in:
+                    <a name="re-inject"></a>**_re-inject_**, in relation to a marketable petroleum commodity produced from petroleum recovered from the eligible exploration or recovery area in relation to a petroleum project, means return the commodity to a natural reservoir in:
 
                      (a)  where the return takes place before any production licence in relation to the project comes into force—any area from which the recovery of petroleum would, at the time of the return, constitute recovery of petroleum from the eligible exploration or recovery area in relation to the project; and
 
@@ -764,7 +764,7 @@ relating to this Act.
 
                      (a)  which is in a gaseous state when at the temperature of 15°C and a pressure of one atmosphere; and
 
-                     (b)  which consists of naturally occurring hydrocarbons, or a naturally occurring mixture of hydrocarbons and non‑hydrocarbons; and
+                     (b)  which consists of naturally occurring hydrocarbons, or a naturally occurring mixture of hydrocarbons and non-hydrocarbons; and
 
                      (c)  the principal constituent of which is methane; and
 
@@ -826,7 +826,7 @@ Note 2:       Special rules apply in relation to the transfer of Gre
 
                     (ea)  an administrator, within the meaning of the _Corporations Act 2001_, of a company; or
 
-                   (eb)  an administrator of a deed of company arrangement executed by a company under Part 5.3A of that Act; or
+                    (eb)  an administrator of a deed of company arrangement executed by a company under Part 5.3A of that Act; or
 
                       (f)  a person:
 
@@ -840,13 +840,13 @@ Note 2:       Special rules apply in relation to the transfer of Gre
 
                     <a name="uplifted-frontier-expenditur"></a>**_uplifted frontier expenditure_** has the meaning given by section 36C.
 
-                    <a name="western-greater-sunris-area"></a>**_Western Greater Sunrise area_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="area"></a><a name="sunris"></a><a name="western-greater"></a>**_Western Greater_****_Sunrise_****_area_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
                     <a name="year-tax"></a>**_year of tax_**, in relation to a person in relation to a petroleum project, means a financial year commencing on or after the applicable commencement date, being:
 
                      (a)  except in a case to which paragraph (b) applies—the first financial year in which assessable petroleum receipts are derived by the person in relation to the project or a subsequent financial year; or
 
-                     (b)  if the project is a combined project and the person has, in a financial year before the financial year in which the project combination certificate in relation to the project comes into force, derived assessable petroleum receipts in relation to any of the pre‑combination projects in relation to the combined project—the financial year in which the project combination certificate comes into force or a subsequent financial year.
+                     (b)  if the project is a combined project and the person has, in a financial year before the financial year in which the project combination certificate in relation to the project comes into force, derived assessable petroleum receipts in relation to any of the pre-combination projects in relation to the combined project—the financial year in which the project combination certificate comes into force or a subsequent financial year.
 
 ##### <a id="2A"></a>2A  GDP factor
 
@@ -892,9 +892,9 @@ Subsidiary
 
                      (b)  there is no agreement, arrangement or understanding in force under which any person is able, or would be able after that time, to affect rights of the holding company or of a subsidiary of the holding company in relation to the subsidiary company.
 
-             (3)  For the purposes of this Act, where a company is a subsidiary of another company (including a company that is such a subsidiary by virtue of another application or other applications of this subsection), every company that is a subsidiary of the first‑mentioned company is also a subsidiary of the other company.
+             (3)  For the purposes of this Act, where a company is a subsidiary of another company (including a company that is such a subsidiary by virtue of another application or other applications of this subsection), every company that is a subsidiary of the first-mentioned company is also a subsidiary of the other company.
 
-             (4)  For the purposes of subsection (2), a person is taken to be able to affect rights of a company in relation to another company if the person has a right, power or option (whether because of any provision in the constituent document of either of those companies or because of any agreement or instrument or otherwise) to acquire those rights or do an act or thing that would prevent the first‑mentioned company from exercising those rights for its own benefit or receiving any benefits occurring because of those rights.
+             (4)  For the purposes of subsection (2), a person is taken to be able to affect rights of a company in relation to another company if the person has a right, power or option (whether because of any provision in the constituent document of either of those companies or because of any agreement or instrument or otherwise) to acquire those rights or do an act or thing that would prevent the first-mentioned company from exercising those rights for its own benefit or receiving any benefits occurring because of those rights.
 
 Basic company group
 
@@ -958,15 +958,15 @@ then:
 
                      (a)  a designated company group is covered by subsection (5); and
 
-                     (b)  the head company of the designated company group is a subsidiary of another company (the **_higher‑tier company_**); and
+                     (b)  the head company of the designated company group is a subsidiary of another company (the **_higher-tier company_**); and
 
-                     (c)  the higher‑tier company is a member of the overall company group; and
+                     (c)  the higher-tier company is a member of the overall company group; and
 
-                     (d)  the higher‑tier company is not a member of the provisional designated company group;
+                     (d)  the higher-tier company is not a member of the provisional designated company group;
 
 there is taken not to be a designated company group of which:
 
-                     (e)  the higher‑tier company is the head company; and
+                     (e)  the higher-tier company is the head company; and
 
                       (f)  any member of the provisional designated company group is a member.
 
@@ -980,7 +980,7 @@ there is taken not to be a designated company group of which:
 
                      (b)  if the current apportionment percentage changed during the year of tax—means the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image002.gif)
 
                             where:
 
@@ -994,25 +994,25 @@ there is taken not to be a designated company group of which:
 
 **_subsequent days_**, in relation to a year of tax in which the current apportionment percentage changed, means the number of days in that year from and including the day on which the current apportionment percentage changed.
 
-##### <a id="2D"></a>2D  Future closing‑down expenditure
+##### <a id="2D"></a>2D  Future closing-down expenditure
 
-             (1)  A person has **_future closing‑down expenditure_** in relation to a petroleum project if:
+             (1)  A person has **_future closing-down expenditure_** in relation to a petroleum project if:
 
                      (a)  the project terminates on the cessation of one or more production licences; and
 
                      (b)  on that termination, an infrastructure licence comes into force, or continues in force, permitting the use of any part (the **_licensed property_**) of the operation, facilities and other things that comprised the project immediately before the termination; and
 
-                     (c)  but for the continued use of the licensed property (as permitted by the infrastructure licence) after that termination, the person would have incurred closing‑down expenditure in relation to the project, with respect to the licensed property.
+                     (c)  but for the continued use of the licensed property (as permitted by the infrastructure licence) after that termination, the person would have incurred closing-down expenditure in relation to the project, with respect to the licensed property.
 
-             (2)  The amount of the person’s future closing‑down expenditure is worked out as follows:
+             (2)  The amount of the person’s future closing-down expenditure is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image003.gif)
 
 where:
 
-                    <a name="bond-rate"></a>**_bond rate_** is the long‑term bond rate in relation to the financial year during which the project terminates.
+                    <a name="bond-rate"></a>**_bond rate_** is the long-term bond rate in relation to the financial year during which the project terminates.
 
-                    <a name="futur-close-down-cost"></a>**_future closing‑down costs_** is the payments (not being excluded expenditure), whether of a capital or revenue nature, that the person would expect:
+                    <a name="futur-close-down-cost"></a>**_future closing-down costs_** is the payments (not being excluded expenditure), whether of a capital or revenue nature, that the person would expect:
 
                      (a)  the person; or
 
@@ -1022,17 +1022,17 @@ to be liable to make in carrying on operations involved in closing down the lice
 
                     <a name="year-oper"></a>**_years of operation_** is the number of years after the termination of the project over which the licensed property is expected to be used as permitted by the infrastructure licence.
 
-             (3)  For the purposes of the definition of **_future closing‑down costs_** in subsection (2), if the person intends to make alterations or additions to the licensed property after the termination of the project, the payments referred to in that definition are to be disregarded to the extent that they relate to the alterations or additions.
+             (3)  For the purposes of the definition of **_future closing-down costs_** in subsection (2), if the person intends to make alterations or additions to the licensed property after the termination of the project, the payments referred to in that definition are to be disregarded to the extent that they relate to the alterations or additions.
 
              (4)  In subsection (2):
 
                     <a name="year"></a>**_year_** means a period of 12 calendar months.
 
-Example:    On the termination of a petroleum project and the coming into force of an infrastructure licence, a person has future closing‑down costs of $1 million. The licensed property is expected to be used as permitted by the infrastructure licence for 10 years, and the bond rate in relation to the financial year in question is 5%.
+Example:    On the termination of a petroleum project and the coming into force of an infrastructure licence, a person has future closing-down costs of $1 million. The licensed property is expected to be used as permitted by the infrastructure licence for 10 years, and the bond rate in relation to the financial year in question is 5%.
 
-                   The amount of the person’s future closing‑down expenditure is:
+                   The amount of the person’s future closing-down expenditure is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image004.gif)
 
 ##### <a id="3"></a>3  Petroleum pools
 
@@ -1062,11 +1062,11 @@ Example:    On the termination of a petroleum project and the coming into 
 
 ##### <a id="5"></a>5  Petroleum exploration and recovery in relation to certain areas
 
-Pre‑1 July 2008 petroleum project
+Pre-1 July 2008 petroleum project
 
-             (1)  For the purposes of the application of this Act (including this section) to a pre‑1 July 2008 petroleum project, a reference to exploration for petroleum in, or recovery of petroleum from, a production licence area, an exploration permit area or a retention lease area is a reference to exploration for petroleum in, or recovery of petroleum from, the production licence area, the exploration permit area or the retention lease area while the production licence, exploration permit or retention lease concerned is or was in force.
+             (1)  For the purposes of the application of this Act (including this section) to a pre-1 July 2008 petroleum project, a reference to exploration for petroleum in, or recovery of petroleum from, a production licence area, an exploration permit area or a retention lease area is a reference to exploration for petroleum in, or recovery of petroleum from, the production licence area, the exploration permit area or the retention lease area while the production licence, exploration permit or retention lease concerned is or was in force.
 
-             (2)  For the purposes of the application of this Act to a pre‑1 July 2008 petroleum project, a reference to exploration for petroleum in, or recovery of petroleum from, the eligible exploration or recovery area in relation to a petroleum project is a reference to exploration for petroleum in, or recovery of petroleum from:
+             (2)  For the purposes of the application of this Act to a pre-1 July 2008 petroleum project, a reference to exploration for petroleum in, or recovery of petroleum from, the eligible exploration or recovery area in relation to a petroleum project is a reference to exploration for petroleum in, or recovery of petroleum from:
 
                      (a)  where the production licence or any production licence in relation to the project is a permit derived production licence—the exploration permit area in relation to the exploration permit to which the production licence is related (being exploration or recovery occurring either before or after the production licence came into force but not after marketable petroleum commodities cease, otherwise than temporarily, to be produced in relation to the project);
 
@@ -1084,11 +1084,11 @@ shall be taken to have occurred in the retention lease area and not in the explo
 
              (4)  For the purposes of subsection (2), where, but for this subsection, the same exploration for petroleum or recovery of petroleum would be exploration for petroleum in, or recovery of petroleum from, the exploration permit area or the retention lease area in relation to 2 or more production licences, the exploration or recovery shall be taken to relate only to the production licence that first came into force.
 
-Post‑30 June 2008 petroleum project
+Post-30 June 2008 petroleum project
 
-             (5)  For the purposes of the application of this Act (including this section) to a post‑30 June 2008 petroleum project, a reference to exploration for petroleum in, or recovery of petroleum from, a production licence area, an exploration permit area or a retention lease area is a reference to exploration for petroleum in, or recovery of petroleum from, the production licence area, the exploration permit area or the retention lease area while the production licence, exploration permit or retention lease concerned is or was in force.
+             (5)  For the purposes of the application of this Act (including this section) to a post-30 June 2008 petroleum project, a reference to exploration for petroleum in, or recovery of petroleum from, a production licence area, an exploration permit area or a retention lease area is a reference to exploration for petroleum in, or recovery of petroleum from, the production licence area, the exploration permit area or the retention lease area while the production licence, exploration permit or retention lease concerned is or was in force.
 
-             (6)  For the purposes of the application of this Act to a post‑30 June 2008 petroleum project, a reference to exploration for petroleum in, or recovery of petroleum from, the eligible exploration or recovery area in relation to a petroleum project is a reference to:
+             (6)  For the purposes of the application of this Act to a post-30 June 2008 petroleum project, a reference to exploration for petroleum in, or recovery of petroleum from, the eligible exploration or recovery area in relation to a petroleum project is a reference to:
 
                      (a)  if the production licence, or any production licence, in relation to the project is a production licence (in this paragraph called the **_current production licence_**) derived from an exploration permit (in this paragraph called the **_prior exploration permit_**)—exploration for petroleum in, or recovery of petroleum from, the exploration permit area of the prior exploration permit, where the exploration or recovery occurred:
 
@@ -1114,7 +1114,7 @@ Post‑30 June 2008 petroleum project
 
              (7)  If:
 
-                     (a)  paragraph (6)(c) applies to a post‑30 June 2008 petroleum project; and
+                     (a)  paragraph (6)(c) applies to a post-30 June 2008 petroleum project; and
 
                      (b)  the prior retention lease mentioned in that paragraph is one of a set of 2 or more retention leases that:
 
@@ -1122,13 +1122,13 @@ Post‑30 June 2008 petroleum project
 
                              (ii)  were derived from the prior exploration permit mentioned in that paragraph; and
 
-                     (c)  the production licence, or the production licences, in relation to one or more other post‑30 June 2008 petroleum projects were derived from one or more of the retention leases included in the set mentioned in paragraph (b) of this subsection; and
+                     (c)  the production licence, or the production licences, in relation to one or more other post-30 June 2008 petroleum projects were derived from one or more of the retention leases included in the set mentioned in paragraph (b) of this subsection; and
 
                      (d)  exploration expenditure incurred in relation to the petroleum project mentioned in paragraph (a) of this subsection is attributable to exploration for petroleum in, or recovery of petroleum from, the exploration permit area of the prior exploration permit;
 
 then, for the purposes of the application of this Act to the petroleum project mentioned in paragraph (a) of this subsection, the amount of the exploration expenditure mentioned in paragraph (d) of this subsection is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image005.gif)
 
 where:
 
@@ -1246,7 +1246,7 @@ Operation of functional currency provisions unaffected
 
 ##### <a id="11"></a>11  Residence
 
-             (1)  For the purposes of this Act, a person shall be taken to have been a non‑resident at a particular time if the person was not a resident of Australia at that time.
+             (1)  For the purposes of this Act, a person shall be taken to have been a non-resident at a particular time if the person was not a resident of Australia at that time.
 
              (2)  For the purposes of this Act, a person shall be taken to have been a resident of Australia at a particular time if:
 
@@ -1396,7 +1396,7 @@ considers that the projects are sufficiently related to be treated for the purpo
 
              (3)  For the purposes of paragraph (1)(a):
 
-                     (a)  a reference to operations, facilities and other things that have comprised a petroleum project includes, in the case of a combined project, a reference to operations, facilities and other things that have comprised the pre‑combination projects in relation to the project; and
+                     (a)  a reference to operations, facilities and other things that have comprised a petroleum project includes, in the case of a combined project, a reference to operations, facilities and other things that have comprised the pre-combination projects in relation to the project; and
 
                      (b)  a reference to operations, facilities and other things that will comprise a petroleum project is a reference to operations, facilities and other things that are proposed, by the registered holders of, and the holders of registered interests in, the production licence or licences in relation to the project, to comprise the project.
 
@@ -1410,7 +1410,7 @@ considers that the projects are sufficiently related to be treated for the purpo
 
                      (c)  to correct an error in the certificate.
 
-             (6)  A certificate under subsection (1) shall come into force on the issue of the certificate and continue in force until the issue of a subsequent certificate under that subsection specifying eligible production licences that include such of the eligible production licences specified in the first‑mentioned certificate as are in force at the time when the subsequent certificate is issued.
+             (6)  A certificate under subsection (1) shall come into force on the issue of the certificate and continue in force until the issue of a subsequent certificate under that subsection specifying eligible production licences that include such of the eligible production licences specified in the first-mentioned certificate as are in force at the time when the subsequent certificate is issued.
 
              (7)  Where, in deciding whether or not to issue a certificate under subsection (1) specifying 2 or more eligible production licences, the Resources Minister has reasonable grounds to believe that an operation, facility or other thing is being, has been or is proposed to be carried on or provided, or is being, has been or is proposed to be carried on or provided in a particular manner or by particular persons, for the sole or dominant purpose of obtaining the issue of the certificate, the Minister must disregard the carrying on or provision of the operation, facility or thing.
 
@@ -1464,7 +1464,7 @@ Allowing for Greater Sunrise apportionments
 
              (2)  However, if the petroleum project is a Greater Sunrise project, the person is taken for the purposes of this Act to have a taxable profit in relation to the project and the year of tax of an amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image006.gif)
 
 where:
 
@@ -1512,7 +1512,7 @@ in relation to those expenses.
 
                      (e)  assessable employee amenities receipts.
 
-             (2)  For the purposes of this Act, the assessable receipts derived by a person in a financial year in relation to a combined project (not being an ineligible project in relation to the financial year) shall include any amounts of a kind referred to in paragraphs (1)(a) to (e) (inclusive) derived by the person during the financial year in relation to the pre‑combination projects in relation to the combined project.
+             (2)  For the purposes of this Act, the assessable receipts derived by a person in a financial year in relation to a combined project (not being an ineligible project in relation to the financial year) shall include any amounts of a kind referred to in paragraphs (1)(a) to (e) (inclusive) derived by the person during the financial year in relation to the pre-combination projects in relation to the combined project.
 
              (3)  For the purposes of this Act, assessable receipts, in relation to a Greater Sunrise project, are to be calculated as if each amount of the petroleum recovered from a Greater Sunrise unit reservoir became the property of the person who recovered that amount as soon as it was recovered.
 
@@ -1530,7 +1530,7 @@ in relation to those expenses.
 
                               (i)  sold; or
 
-                             (ii)  treated or processed, or moved, for re‑injection or destruction or for use in carrying on or providing operations, facilities or other things of a kind referred to in section 37, 38 or 39 in relation to the petroleum project;
+                             (ii)  treated or processed, or moved, for re-injection or destruction or for use in carrying on or providing operations, facilities or other things of a kind referred to in section 37, 38 or 39 in relation to the petroleum project;
 
                             so much of the market value of the commodity immediately before it becomes or became an excluded commodity, or, where there is insufficient evidence of that market value, of such amount as, in the opinion of the Commissioner, is fair and reasonable, as is taken by section 26 to be derived by the person; and
 
@@ -1538,7 +1538,7 @@ in relation to those expenses.
 
                               (i)  any sales gas produced from petroleum from the project becomes or became an excluded commodity by virtue of being sold; and
 
-                             (ii)  the sale is a non‑arm’s length transaction; and
+                             (ii)  the sale is a non-arm’s length transaction; and
 
                             (iii)  the regulations apply to the sales gas;
 
@@ -1548,13 +1548,13 @@ in relation to those expenses.
 
                               (i)  sold; or
 
-                             (ii)  treated or processed, or moved, for re‑injection or destruction or for use in carrying on or providing operations, facilities or other things of a kind referred to in section 37, 38 or 39 in relation to the petroleum project;
+                             (ii)  treated or processed, or moved, for re-injection or destruction or for use in carrying on or providing operations, facilities or other things of a kind referred to in section 37, 38 or 39 in relation to the petroleum project;
 
                             the amount worked out in accordance with the regulations.
 
              (2)  In this section:
 
-                    <a name="non-arm-length-transact"></a>**_non‑arm’s length transaction_** means a transaction where the Commissioner, having regard to any connection between the parties to the transaction or to any other relevant circumstances, is satisfied that the parties to the transaction are not dealing with each other at arm’s length in relation to the transaction.
+                    <a name="non-arm-length-transact"></a>**_non-arm’s length transaction_** means a transaction where the Commissioner, having regard to any connection between the parties to the transaction or to any other relevant circumstances, is satisfied that the parties to the transaction are not dealing with each other at arm’s length in relation to the transaction.
 
                     <a name="petroleum-project"></a>**_petroleum from the project_** means any petroleum or a constituent of petroleum:
 
@@ -1578,7 +1578,7 @@ in relation to those expenses.
 
                               (i)  sold; or
 
-                             (ii)  treated or processed, or moved, for re‑injection or destruction or for use in carrying on or providing operations, facilities or other things of a kind referred to in section 37, 38 or 39 in relation to the petroleum project;
+                             (ii)  treated or processed, or moved, for re-injection or destruction or for use in carrying on or providing operations, facilities or other things of a kind referred to in section 37, 38 or 39 in relation to the petroleum project;
 
                             so much of the market value of the commodity immediately before it becomes or became an excluded commodity, or, where there is insufficient evidence of that market value, of such amount as, in the opinion of the Commissioner, is fair and reasonable, as is taken by section 26 to be derived by the person.
 
@@ -1590,7 +1590,7 @@ in relation to those expenses.
 
              (1)  For the purposes of this Act, a reference to assessable property receipts derived by a person in relation to a petroleum project is a reference to:
 
-                     (a)  the consideration receivable by the person in respect of the disposal, loss or destruction of property in respect of which capital expenditure being eligible real expenditure in relation to the project (including in the case of a combined project any pre‑combination project in relation to the project) was incurred by the person;
+                     (a)  the consideration receivable by the person in respect of the disposal, loss or destruction of property in respect of which capital expenditure being eligible real expenditure in relation to the project (including in the case of a combined project any pre-combination project in relation to the project) was incurred by the person;
 
                      (b)  the value of property in respect of which capital expenditure of a kind referred to in paragraph (a) was incurred by the person, as at the date of any other termination of the use of the property in relation to the project;
 
@@ -1600,7 +1600,7 @@ in relation to those expenses.
 
                      (e)  any amount receivable by the person from the provision of information obtained:
 
-                              (i)  from any survey, appraisal or study in respect of which eligible real expenditure in relation to the project (including in the case of a combined project any pre‑combination project in relation to the project) was incurred by the person; or
+                              (i)  from any survey, appraisal or study in respect of which eligible real expenditure in relation to the project (including in the case of a combined project any pre-combination project in relation to the project) was incurred by the person; or
 
                              (ii)  otherwise as a result of the incurring by the person of such expenditure.
 
@@ -1614,11 +1614,11 @@ in relation to those expenses.
 
                      (d)  where the property is or was lost or destroyed—the amount or value receivable under a policy of insurance or otherwise in respect of the loss or destruction.
 
-             (3)  Any future closing‑down expenditure in relation to licensed property and a petroleum project must be taken into account in working out the assessable property receipts derived by a person in relation to the project to the extent that the assessable property receipts are worked out under paragraph (1)(b) in relation to the termination of the use of the licensed property.
+             (3)  Any future closing-down expenditure in relation to licensed property and a petroleum project must be taken into account in working out the assessable property receipts derived by a person in relation to the project to the extent that the assessable property receipts are worked out under paragraph (1)(b) in relation to the termination of the use of the licensed property.
 
-             (4)  Assessable property receipts worked out under paragraph (1)(b) are taken to be zero if future closing‑down expenditure taken into account under subsection (3) equals or exceeds what would have been those assessable property receipts if the future closing‑down expenditure was not taken into account _._
+             (4)  Assessable property receipts worked out under paragraph (1)(b) are taken to be zero if future closing-down expenditure taken into account under subsection (3) equals or exceeds what would have been those assessable property receipts if the future closing-down expenditure was not taken into account _._
 
-Note:          In this case, an extra amount may be included in the person’s closing‑down expenditure in relation to the project: see subsection 39(3).
+Note:          In this case, an extra amount may be included in the person’s closing-down expenditure in relation to the project: see subsection 39(3).
 
 ##### <a id="28"></a>28  Assessable miscellaneous compensation receipts
 
@@ -1626,13 +1626,13 @@ Note:          In this case, an extra amount may be included i
 
                      (a)  amounts receivable by the person by way of insurance, compensation or indemnity in respect of:
 
-                              (i)  the loss or destruction, or the loss of any profit caused by the loss or destruction, of any petroleum, or constituent of petroleum, recovered or recoverable from the eligible exploration or recovery area in relation to the project (including in the case of a combined project any pre‑combination project in relation to the project), being a loss or destruction that occurred before a marketable petroleum commodity had been produced from the petroleum;
+                              (i)  the loss or destruction, or the loss of any profit caused by the loss or destruction, of any petroleum, or constituent of petroleum, recovered or recoverable from the eligible exploration or recovery area in relation to the project (including in the case of a combined project any pre-combination project in relation to the project), being a loss or destruction that occurred before a marketable petroleum commodity had been produced from the petroleum;
 
                              (ii)  the loss or destruction, or the loss of any profit caused by the loss or destruction, of any marketable petroleum commodity produced from petroleum recovered from the area referred to in subparagraph (i), being a loss or destruction that occurred before the commodity became an excluded commodity; or
 
                             (iii)  the loss of any amount that would otherwise have been an assessable receipt derived by the person in relation to the project;
 
-                     (b)  amounts receivable by the person in respect of eligible real expenditure incurred by the person in relation to the project (including in the case of a combined project any pre‑combination project in relation to the project), being amounts by way of:
+                     (b)  amounts receivable by the person in respect of eligible real expenditure incurred by the person in relation to the project (including in the case of a combined project any pre-combination project in relation to the project), being amounts by way of:
 
                               (i)  indemnity or compensation for the incurring of the expenditure;
 
@@ -1642,7 +1642,7 @@ Note:          In this case, an extra amount may be included i
 
 ##### <a id="29"></a>29  Assessable employee amenities receipts
 
-                   For the purposes of this Act, a reference to assessable employee amenities receipts derived by a person in relation to a petroleum project is a reference to amounts receivable by the person for or in respect of the provision of employee amenities in respect of which eligible real expenditure in relation to the project (including in the case of a combined project any pre‑combination project in relation to the project) was incurred by the person.
+                   For the purposes of this Act, a reference to assessable employee amenities receipts derived by a person in relation to a petroleum project is a reference to amounts receivable by the person for or in respect of the provision of employee amenities in respect of which eligible real expenditure in relation to the project (including in the case of a combined project any pre-combination project in relation to the project) was incurred by the person.
 
 ##### <a id="30"></a>30  Reduction of amount of assessable property etc. receipts
 
@@ -1670,7 +1670,7 @@ the person shall be taken for the purposes of this Act to have derived only that
 
 may be derived by a person in relation to a petroleum project:
 
-                      (f)  except in the case of the Bass Strait project—at any time, including a time:
+                      (f)  except in the case of the Bass  Strait project—at any time, including a time:
 
                               (i)  before the project commenced or after the project has ceased; or
 
@@ -1680,7 +1680,7 @@ may be derived by a person in relation to a petroleum project:
 
 ##### <a id="31A"></a>31A  Eligible real expenditure and the Bass Strait project
 
-                   Despite section 45, this Division applies in relation to the Bass Strait project, or a project in relation to which the Bass Strait project is a pre‑combination project, as if eligible real expenditure could be incurred in relation to the Bass Strait project at any time, including a time before 1 July 1990.
+                   Despite section 45, this Division applies in relation to the Bass Strait project, or a project in relation to which the Bass Strait project is a pre-combination project, as if eligible real expenditure could be incurred in relation to the Bass Strait project at any time, including a time before 1 July 1990.
 
 ### Division 3—Deductible expenditure
 
@@ -1710,7 +1710,7 @@ in relation to that expenditure or liability.
 
                       (f)  class 2 GDP factor expenditure;
 
-                     (g)  closing‑down expenditure.
+                     (g)  closing-down expenditure.
 
 ##### <a id="33"></a>33  Class 1 augmented bond rate general expenditure
 
@@ -1726,19 +1726,19 @@ in relation to that expenditure or liability.
 
                      (b)  any amount that is taken by subsection (3) or Division 5 to be class 1 augmented bond rate general expenditure incurred by the person in relation to the project in the financial year; and
 
-                     (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 general project expenditure, or any amount that is taken by subsection (3) or Division 5 to be class 1 augmented bond rate general expenditure, incurred by the person in relation to the pre‑combination projects in relation to the project in the financial year.
+                     (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 general project expenditure, or any amount that is taken by subsection (3) or Division 5 to be class 1 augmented bond rate general expenditure, incurred by the person in relation to the pre-combination projects in relation to the project in the financial year.
 
-             (3)  For the purposes of subsection (1) or (2), where the class 1 augmented bond rate general expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image007.gif), where:
+             (3)  For the purposes of subsection (1) or (2), where the class 1 augmented bond rate general expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image007.gif), where:
 
                     <a name=""></a>**_A_** is the amount of the excess; and
 
-                    <a name=""></a>**_B_** is the long‑term bond rate in relation to the financial year;
+                    <a name=""></a>**_B_** is the long-term bond rate in relation to the financial year;
 
 shall be taken to be class 1 augmented bond rate general expenditure incurred by the person in relation to the project on the first day of the next succeeding financial year.
 
              (4)  In this section:
 
-                    <a name="class-gener-project-expenditur"></a>**_class 1 general project expenditure_** means general project expenditure actually incurred before 1 July 1990.
+                    <a name="gener-project-expenditur"></a><a name=""></a><a name="cla"></a>**_clas_****_s 1_****_general project expenditure_** means general project expenditure actually incurred before 1 July 1990.
 
 ##### <a id="34"></a>34  Class 1 augmented bond rate exploration expenditure
 
@@ -1754,19 +1754,19 @@ shall be taken to be class 1 augmented bond rate general expenditure incurred by
 
                      (b)  any amount that is taken by subsection (3), subsection 36(1) or Division 5 to be class 1 augmented bond rate exploration expenditure incurred by the person in relation to the project in the financial year; and
 
-                     (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 exploration expenditure, or any amount that is taken by subsection (3), paragraph 36 (1) (b) or Division 5 to be class 1 augmented bond rate exploration expenditure, incurred by the person in relation to the pre‑combination projects in relation to the project in the financial year.
+                     (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 exploration expenditure, or any amount that is taken by subsection (3), paragraph 36 (1) (b) or Division 5 to be class 1 augmented bond rate exploration expenditure, incurred by the person in relation to the pre-combination projects in relation to the project in the financial year.
 
-             (3)  For the purposes of subsection (1) or (2), where the sum of the class 1 augmented bond rate general expenditure and the class 1 augmented bond rate exploration expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image008.gif), where:
+             (3)  For the purposes of subsection (1) or (2), where the sum of the class 1 augmented bond rate general expenditure and the class 1 augmented bond rate exploration expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image008.gif), where:
 
                     <a name=""></a>**_A_**is so much of the excess as does not exceed the amount of the class 1 augmented bond rate exploration expenditure; and
 
-                    <a name=""></a>**_B_**is the long‑term bond rate in relation to the financial year;
+                    <a name=""></a>**_B_**is the long-term bond rate in relation to the financial year;
 
 shall be taken to be class 1 augmented bond rate exploration expenditure incurred by the person in relation to the project on the first day of the next succeeding financial year.
 
              (4)  In this section:
 
-                    <a name="class-explor-expenditur"></a>**_class 1 exploration expenditure_** means exploration expenditure actually incurred before 1 July 1990.
+                    <a name="explor-expenditur"></a><a name=""></a><a name="cla"></a>**_clas_****_s 1_****_exploration expenditure_** means exploration expenditure actually incurred before 1 July 1990.
 
 ##### <a id="34A"></a>34A  Class 2 augmented bond rate general expenditure
 
@@ -1782,7 +1782,7 @@ shall be taken to be class 1 augmented bond rate exploration expenditure incurre
 
                      (b)  any amount that is taken by subsection (4) or section 48 to be class 2 augmented bond rate general expenditure incurred by the person in relation to the project in the financial year; and
 
-                     (c)  if the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 2 general project expenditure, or any amount that is taken by subsection (4) or section 48 to be class 2 augmented bond rate general expenditure, incurred by the person in relation to the pre‑combination projects in the financial year.
+                     (c)  if the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 2 general project expenditure, or any amount that is taken by subsection (4) or section 48 to be class 2 augmented bond rate general expenditure, incurred by the person in relation to the pre-combination projects in the financial year.
 
              (3)  For the purposes of this Act, a reference to the class 2 augmented bond rate general expenditure incurred by a person in a financial year in relation to the Bass Strait project is a reference to the sum of:
 
@@ -1800,7 +1800,7 @@ shall be taken to be class 1 augmented bond rate exploration expenditure incurre
 
 incurred by a person in a financial year (in this subsection called the **_assessable year_**) in relation to a petroleum project exceeds the assessable receipts derived by the person in the assessable year in relation to the project, the person is taken to incur, in relation to the project and on the first day of the next financial year, an amount of class 2 augmented bond rate general expenditure worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image009.gif)
 
 where:
 
@@ -1814,7 +1814,7 @@ where:
 
 ##### <a id="35"></a>35  Class 1 GDP factor expenditure
 
-             (1)  For the purposes of this Act, a reference to the class 1 GDP factor expenditure incurred by a person in a financial year in relation to a petroleum project (not being a combined project or the Bass Strait project) is a reference to the sum of:
+             (1)  For the purposes of this Act, a reference to the class 1 GDP factor expenditure incurred by a person in a financial year in relation to a petroleum project (not being a combined project or the Bass  Strait project) is a reference to the sum of:
 
                      (a)  any amount of class 1 GDP factor expenditure actually incurred by the person in relation to the project more than 5 years before the production licence in relation to the project came into force; and
 
@@ -1824,7 +1824,7 @@ where:
 
                      (a)  any amount that is taken by subsection (3), subsection 36(1) or Division 5 to be class 1 GDP factor expenditure incurred by the person in relation to the project in the financial year; and
 
-                     (b)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount that is taken by subsection (3), paragraph 36(1)(b) or Division 5 to be class 1 GDP factor expenditure incurred by the person in relation to the pre‑combination projects in relation to the combined project in the financial year.
+                     (b)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount that is taken by subsection (3), paragraph 36(1)(b) or Division 5 to be class 1 GDP factor expenditure incurred by the person in relation to the pre-combination projects in relation to the combined project in the financial year.
 
              (3)  For the purposes of subsection (1) or (2), if the sum of:
 
@@ -1840,13 +1840,13 @@ incurred by a person in a financial year in relation to a petroleum project exce
 
                     <a name=""></a>**_A_** is so much of the excess as does not exceed the amount of the GDP factor expenditure; and
 
-                    <a name=""></a>**_B_** is the class 1 GDP factor in relation to the financial year;
+                    <a name=""></a>**_B_** is the class  1 GDP factor in relation to the financial year;
 
 shall be taken to be class 1 GDP factor expenditure incurred by the person in relation to the project on the first day of the next succeeding financial year.
 
              (4)  In this section:
 
-                    <a name="class-gdp-factor-expenditur"></a>**_class 1 GDP factor expenditure_** means general project expenditure incurred in any financial year, or exploration expenditure incurred before 1 July 1990.
+                    <a name="gdp-factor-expenditur"></a><a name=""></a><a name="cla"></a>**_clas_****_s 1_****_GDP factor expenditure_** means general project expenditure incurred in any financial year, or exploration expenditure incurred before 1 July 1990.
 
 ##### <a id="35A"></a>35A  Class 2 augmented bond rate exploration expenditure
 
@@ -1896,7 +1896,7 @@ paragraph 12(4)(b) and subclauses 12(5) and (6).
 
              (1)  Where there is a project group in relation to a person in relation to a year of tax, the following provisions have effect:
 
-                     (a)  in relation to any petroleum project in the group other than the last occurring project—where there is a carry forward expenditure amount of the person in relation to the project in relation to the year of tax, that amount shall be taken to be class 1 augmented bond rate exploration expenditure or class 1 GDP factor expenditure, as the case requires, incurred by the person in the year of tax in relation to the next occurring project and the person shall not be taken by subsection 34(3) to have incurred class 1 augmented bond rate exploration expenditure, or by subsection 35(3) to have incurred class 1 GDP factor expenditure, in relation to the first‑mentioned project on the first day of the next succeeding year of tax;
+                     (a)  in relation to any petroleum project in the group other than the last occurring project—where there is a carry forward expenditure amount of the person in relation to the project in relation to the year of tax, that amount shall be taken to be class 1 augmented bond rate exploration expenditure or class 1 GDP factor expenditure, as the case requires, incurred by the person in the year of tax in relation to the next occurring project and the person shall not be taken by subsection 34(3) to have incurred class 1 augmented bond rate exploration expenditure, or by subsection 35(3) to have incurred class 1 GDP factor expenditure, in relation to the first-mentioned project on the first day of the next succeeding year of tax;
 
                      (b)  in relation to the last occurring petroleum project in the group—where, but for this paragraph, the person would be taken by subsection 34(3) to have incurred an amount of class 1 augmented bond rate exploration expenditure, or by subsection 35(3) to have incurred an amount of class 1 GDP factor expenditure, in relation to the project on the first day of the next succeeding year of tax, that expenditure shall be taken to have been incurred instead by the person on that day in relation to the first occurring of such of the projects in the group as are petroleum projects on that day.
 
@@ -1922,25 +1922,25 @@ paragraph 12(4)(b) and subclauses 12(5) and (6).
 
                      (d)  a project group, in relation to a person in relation to a financial year, shall be taken to be a related project group in relation to another project group, in relation to the person in relation to the financial year, if:
 
-                              (i)  one or more of the petroleum projects in the first‑mentioned group is a project in the second‑mentioned group; or
+                              (i)  one or more of the petroleum projects in the first-mentioned group is a project in the second-mentioned group; or
 
-                             (ii)  one or more of the petroleum projects in the first‑mentioned group is a project in another project group that is a related project group in relation to the second‑mentioned project group under subparagraph (i) or this subparagraph.
+                             (ii)  one or more of the petroleum projects in the first-mentioned group is a project in another project group that is a related project group in relation to the second-mentioned project group under subparagraph (i) or this subparagraph.
 
              (4)  Where, by reason of the application of subsection 34(3) or 35(3) in relation to a person in relation to a petroleum project in relation to a year of tax (in this subsection referred to as the **_relevant year of tax_**), an amount of class 1 augmented bond rate exploration expenditure or class 1 GDP factor expenditure, as the case may be, would, if subsection (1) did not provide otherwise, be taken to be incurred by the person on the first day of the next succeeding year of tax, there shall, for the purposes of this section, be taken to be a carry forward expenditure amount in relation to the person in relation to the project in relation to the relevant year of tax equal to the amount that would so be taken to be incurred if:
 
-                     (a)  in the case of an amount of class 1 augmented bond rate exploration expenditure—the formula in subsection 34(3) in its application in relation to the relevant year of tax consisted only of component **A**; and
+                     (a)  in the case of an amount of class  1 augmented bond rate exploration expenditure—the formula in subsection 34(3) in its application in relation to the relevant year of tax consisted only of component **A**; and
 
-                     (b)  in the case of an amount of class 1 GDP factor expenditure—the formula in subsection 35(3) in its application in relation to the relevant year of tax consisted only of component **A**.
+                     (b)  in the case of an amount of class  1 GDP factor expenditure—the formula in subsection 35(3) in its application in relation to the relevant year of tax consisted only of component **A**.
 
 ##### <a id="36A"></a>36A  Designated frontier areas for 2004
 
                    For the purposes of the definition of **_designated frontier area_**, the following areas are specified:
 
-                     (a)  AreaT04‑5, as first gazetted in the _Tasmanian Government Gazette_ on 5 May 2004 under subsection 20(1) of the  repealed _Petroleum (Submerged Lands) Act 1967_;
+                     (a)  AreaT04-5, as first gazetted in the _Tasmanian Government Gazette_ on 5 May 2004 under subsection 20(1) of the  repealed _Petroleum (Submerged Lands) Act 1967_;
 
-                     (b)  AreasW04‑2, W04‑4, W04‑15 and W04‑16, as first gazetted in the _Western Australia Government Gazette_ on 30 March 2004 under subsection 20(1) of the  repealed _Petroleum (Submerged Lands) Act 1967_;
+                     (b)  AreasW04-2, W04-4, W04-15 and W04-16, as first gazetted in the _Western Australia Government Gazette_ on 30 March 2004 under subsection 20(1) of the  repealed _Petroleum (Submerged Lands) Act 1967_;
 
-                     (c)  AreaNT04‑3, as first gazetted in the _Northern Territory Government Gazette_ on 14 April 2004 under subsection 20(1) of the  repealed _Petroleum (Submerged Lands) Act 1967_.
+                     (c)  AreaNT04-3, as first gazetted in the _Northern Territory Government Gazette_ on 14 April 2004 under subsection 20(1) of the  repealed _Petroleum (Submerged Lands) Act 1967_.
 
 Note:          An amount of exploration expenditure incurred in respect of an area that is specified under this section might be increased by 150% (before the GDP factor or the augmented bond rate is applied to the amount under the Schedule): see section 36C.
 
@@ -1968,7 +1968,7 @@ Note:          The expressions **_SES employee_** and **_actin
 
                    For the purposes of this Act, the amount of **_uplifted frontier expenditure_** that a person is taken to have incurred in a financial year in relation to a petroleum project is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image010.gif)
 
 ##### <a id="37"></a>37  Exploration expenditure
 
@@ -2002,7 +2002,7 @@ and includes any exploration permit, retention lease or other fee (not being an 
 
 ##### <a id="38"></a>38  General project expenditure
 
-             (1)  For the purposes of this Act, a reference to general project expenditure incurred by a person in relation to a petroleum project is a reference to payments (not being excluded expenditure, exploration expenditure or closing‑down expenditure), whether of a capital or revenue nature, liable to be made by the person:
+             (1)  For the purposes of this Act, a reference to general project expenditure incurred by a person in relation to a petroleum project is a reference to payments (not being excluded expenditure, exploration expenditure or closing-down expenditure), whether of a capital or revenue nature, liable to be made by the person:
 
                      (a)  in carrying on or providing operations and facilities preparatory to the activities referred to in paragraph (b), including in carrying out any feasibility or environmental study; and
 
@@ -2020,9 +2020,9 @@ and includes any production licence or other fee (not being an excluded fee) lia
 
              (2)  To avoid doubt, carrying on or providing the operations, facilities and other things comprising the project referred to in paragraph (1)(b) includes carrying on or providing the operations, facilities and other things in relation to the processing of external petroleum, or internal petroleum, in relation to the project.
 
-##### <a id="39"></a>39  Closing‑down expenditure
+##### <a id="39"></a>39  Closing-down expenditure
 
-             (1)  For the purposes of this Act, a reference to closing‑down expenditure incurred by a person in relation to a petroleum project is a reference to payments (not being excluded expenditure), whether of a capital or revenue nature, liable to be made by the person in carrying on operations involved in closing down the project, including in any environmental restoration as a consequence of closing down the project.
+             (1)  For the purposes of this Act, a reference to closing-down expenditure incurred by a person in relation to a petroleum project is a reference to payments (not being excluded expenditure), whether of a capital or revenue nature, liable to be made by the person in carrying on operations involved in closing down the project, including in any environmental restoration as a consequence of closing down the project.
 
              (2)  For the purposes of this Act, if:
 
@@ -2030,27 +2030,27 @@ and includes any production licence or other fee (not being an excluded fee) lia
 
                      (b)  there is no consideration receivable by the person in respect of the disposal;
 
-a reference to the closing‑down expenditure incurred by the person in relation to the project includes a reference to any consideration given by the person for the disposal, to the extent that the consideration relates to the future closing‑down expenditure in relation to the project.
+a reference to the closing-down expenditure incurred by the person in relation to the project includes a reference to any consideration given by the person for the disposal, to the extent that the consideration relates to the future closing-down expenditure in relation to the project.
 
-             (3)  For the purposes of this Act, if a person’s assessable property receipts under paragraph 27(1)(b) in relation to a petroleum project are taken to be zero because of subsection 27(4), a reference to closing‑down expenditure incurred by a person in relation to the project includes a reference to an amount equal to the difference between:
+             (3)  For the purposes of this Act, if a person’s assessable property receipts under paragraph 27(1)(b) in relation to a petroleum project are taken to be zero because of subsection 27(4), a reference to closing-down expenditure incurred by a person in relation to the project includes a reference to an amount equal to the difference between:
 
-                     (a)  the future closing‑down expenditure in relation to the project; and
+                     (a)  the future closing-down expenditure in relation to the project; and
 
                      (b)  the amount that would, but for subsections 27(3) and (4), have been the person’s assessable property receipts in relation to the project.
 
-Example:    A production licence of Petgas Ltd ceases to be in force on 24 October 2006, but the use of some facilities of the petroleum project in question continues to be permitted by an infrastructure licence that comes into force on that day. The value of the facilities on that day is $240,000, but there are future closing‑down costs that result in Petgas Ltd having a future closing‑down expenditure of $360,000.
+Example:    A production licence of Petgas Ltd ceases to be in force on 24 October 2006, but the use of some facilities of the petroleum project in question continues to be permitted by an infrastructure licence that comes into force on that day. The value of the facilities on that day is $240,000, but there are future closing-down costs that result in Petgas Ltd having a future closing-down expenditure of $360,000.
 
-                   Under subsection 27(4), Petgas Ltd’s assessable property receipts under paragraph 27(1)(b) are taken to be zero. In addition, Petgas Ltd’s closing‑down expenditure includes an amount of $120,000 (the difference between its future closing‑down expenditure and the actual value of the facilities).
+                   Under subsection 27(4), Petgas Ltd’s assessable property receipts under paragraph 27(1)(b) are taken to be zero. In addition, Petgas Ltd’s closing-down expenditure includes an amount of $120,000 (the difference between its future closing-down expenditure and the actual value of the facilities).
 
-             (4)  Closing‑down expenditure in relation to a petroleum project does not include closing‑down expenditure in relation to operations, facilities or other things comprising the project to the extent that:
+             (4)  Closing-down expenditure in relation to a petroleum project does not include closing-down expenditure in relation to operations, facilities or other things comprising the project to the extent that:
 
-                     (a)  the person has previously had assessable property receipts under paragraph 27(1)(a) in relation to the project and the consideration referred to in that paragraph took into account future closing‑down expenditure that relates to those operations, facilities or other things; or
+                     (a)  the person has previously had assessable property receipts under paragraph 27(1)(a) in relation to the project and the consideration referred to in that paragraph took into account future closing-down expenditure that relates to those operations, facilities or other things; or
 
-                     (b)  the person has previously had assessable property receipts under paragraph 27(1)(b) in relation to the project and such future closing‑down expenditure was taken into account in working out those assessable property receipts; or
+                     (b)  the person has previously had assessable property receipts under paragraph 27(1)(b) in relation to the project and such future closing-down expenditure was taken into account in working out those assessable property receipts; or
 
-                     (c)  the person has previously had closing‑down expenditure in relation to the project that included such future closing‑down expenditure.
+                     (c)  the person has previously had closing-down expenditure in relation to the project that included such future closing-down expenditure.
 
-However, this subsection does not apply if there has been a change in the ownership of those operations, facilities or other things after the assessable property receipts or closing‑down expenditure arose.
+However, this subsection does not apply if there has been a change in the ownership of those operations, facilities or other things after the assessable property receipts or closing-down expenditure arose.
 
 ##### <a id="40"></a>40  Bad debts
 
@@ -2064,15 +2064,15 @@ then, at the time at which the debt is written off and in relation to:
 
                      (c)  the petroleum project; or
 
-                     (d)  if, at that time, there is a combined project in relation to which the petroleum project is a pre‑combination project—the combined project;
+                     (d)  if, at that time, there is a combined project in relation to which the petroleum project is a pre-combination project—the combined project;
 
 the person shall be taken for the purposes of this Act to have incurred an amount of:
 
-                     (e)  where at or before the time at which the debt is written off the person has not incurred any general project expenditure or closing‑down expenditure in relation to the petroleum project or the combined project (including any pre‑combination project in relation to the project)—exploration expenditure;
+                     (e)  where at or before the time at which the debt is written off the person has not incurred any general project expenditure or closing-down expenditure in relation to the petroleum project or the combined project (including any pre-combination project in relation to the project)—exploration expenditure;
 
-                      (f)  where at or before the time at which the debt is written off the person has incurred general project expenditure, but has not incurred any closing‑down expenditure, in relation to the petroleum project or the combined project (including any pre‑combination project in relation to the project)—general project expenditure; or
+                      (f)  where at or before the time at which the debt is written off the person has incurred general project expenditure, but has not incurred any closing-down expenditure, in relation to the petroleum project or the combined project (including any pre-combination project in relation to the project)—general project expenditure; or
 
-                     (g)  where at or before the time at which the debt is written off the person has incurred closing‑down expenditure in relation to the petroleum project or the combined project—closing‑down expenditure;
+                     (g)  where at or before the time at which the debt is written off the person has incurred closing-down expenditure in relation to the petroleum project or the combined project—closing-down expenditure;
 
 equal to the amount of the debt.
 
@@ -2088,7 +2088,7 @@ shall be deemed to be a bad debt.
 
                      (a)  the petroleum project referred to in that paragraph; or
 
-                     (b)  if, at the time at which the amount is received, there is a combined project in relation to which the petroleum project referred to in that paragraph is a pre‑combination project—the combined project.
+                     (b)  if, at the time at which the amount is received, there is a combined project in relation to which the petroleum project referred to in that paragraph is a pre-combination project—the combined project.
 
 ##### <a id="41"></a>41  Effect of procuring the carrying on of operations etc. by others
 
@@ -2140,7 +2140,7 @@ the person shall, for the purposes of this Act, be taken to have incurred expend
 
                      (a)  payments of principal or interest on a loan or other borrowing costs; or
 
-                     (b)  interest components of hire‑purchase payments; or
+                     (b)  interest components of hire-purchase payments; or
 
                      (c)  payments of dividends or the cost of issuing shares; or
 
@@ -2164,7 +2164,7 @@ the person shall, for the purposes of this Act, be taken to have incurred expend
 
                    For the purposes of this Act, eligible real expenditure may be incurred by a person in relation to a petroleum project:
 
-                     (a)  except in the case of the Bass Strait project—at any time, including a time:
+                     (a)  except in the case of the Bass  Strait project—at any time, including a time:
 
                               (i)  before the project commenced or after the project has ceased; or
 
@@ -2340,29 +2340,29 @@ Note:          In some circumstances, interest may be charged 
 
 ### Division 4—Tax credits
 
-##### <a id="46"></a>46  Credits in respect of closing‑down expenditure
+##### <a id="46"></a>46  Credits in respect of closing-down expenditure
 
-             (1)  If, in relation to a petroleum project, the sum of any closing‑down expenditure and any other deductible expenditure incurred by a person in a year of tax exceeds the assessable receipts derived by the person in the year of tax:
+             (1)  If, in relation to a petroleum project, the sum of any closing-down expenditure and any other deductible expenditure incurred by a person in a year of tax exceeds the assessable receipts derived by the person in the year of tax:
 
-                     (a)  so much of the excess as does not exceed the amount of the closing‑down expenditure is the person’s **_excess closing‑down expenditure_** for the year of tax; and
+                     (a)  so much of the excess as does not exceed the amount of the closing-down expenditure is the person’s **_excess closing-down expenditure_** for the year of tax; and
 
                      (b)  the person is entitled to a credit of the lesser of the following amounts:
 
-                              (i)  an amount equal to 40% of the excess closing‑down expenditure for the year of tax;
+                              (i)  an amount equal to 40% of the excess closing-down expenditure for the year of tax;
 
-                             (ii)  the total amount of any tax in respect of the project (including in the case of a combined project any pre‑combination project in relation to the project) paid or payable by the person in relation to previous years of tax, reduced by the total amount of any credits allowed or allowable to the person under this section in relation to the project in relation to any previous years of tax.
+                             (ii)  the total amount of any tax in respect of the project (including in the case of a combined project any pre-combination project in relation to the project) paid or payable by the person in relation to previous years of tax, reduced by the total amount of any credits allowed or allowable to the person under this section in relation to the project in relation to any previous years of tax.
 
-Greater Sunrise closing‑down credits
+Greater Sunrise closing-down credits
 
-             (2)  However, for the purposes of the operation of paragraph (1)(a) in relation to a Greater Sunrise project, the amount that is so much of the excess as does not exceed the amount of the closing‑down expenditure is taken to be the amount worked out using the following formula:
+             (2)  However, for the purposes of the operation of paragraph (1)(a) in relation to a Greater Sunrise project, the amount that is so much of the excess as does not exceed the amount of the closing-down expenditure is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image011.gif)
 
 where:
 
                     <a name="apportion-percentag-figur"></a>**_apportionment percentage figure_** has the meaning given by subsection 2C(2).
 
-                    <a name="initi-excess"></a>**_initial excess_** means the amount that is so much of the excess as does not exceed the amount of the closing‑down expenditure under paragraph (1)(a) ignoring this subsection.
+                    <a name="initi-excess"></a>**_initial excess_** means the amount that is so much of the excess as does not exceed the amount of the closing-down expenditure under paragraph (1)(a) ignoring this subsection.
 
 ##### <a id="47"></a>47  Application of credits
 
@@ -2410,9 +2410,9 @@ Note:          this is expenditure on which class 2 augmented 
 
                      (d)  the purchaser or purchasers shall be taken not to have incurred any eligible real expenditure in relation to the transaction by reason of the transfer of any such property;
 
-                     (e)  in any application of section 27, 28 or 29 after the transfer time, the purchaser shall be taken to have incurred any eligible real expenditure incurred by the vendor in relation to the project (including in the case of a combined project any pre‑combination project in relation to the project); and
+                     (e)  in any application of section 27, 28 or 29 after the transfer time, the purchaser shall be taken to have incurred any eligible real expenditure incurred by the vendor in relation to the project (including in the case of a combined project any pre-combination project in relation to the project); and
 
-                      (f)  in any application of section 40 after the transfer time, the purchaser shall be taken to have brought to account as a receipt of a kind referred to in section 24, 25, 27, 28 or 29 in relation to the project (including any pre‑combination project in relation to the project) any debt so brought to account by the vendor.
+                      (f)  in any application of section 40 after the transfer time, the purchaser shall be taken to have brought to account as a receipt of a kind referred to in section 24, 25, 27, 28 or 29 in relation to the project (including any pre-combination project in relation to the project) any debt so brought to account by the vendor.
 
              (2)  Expenditure that the purchaser, or a purchaser, is taken to have incurred by subparagraph (1)(a)(ia) is taken to have been so incurred at the time when the vendor incurred it, or is taken to have incurred it.
 
@@ -2422,7 +2422,7 @@ Note:          this is expenditure on which class 2 augmented 
 
                      (b)  the 60th day after the purchasers give consideration for the entitlement and property.
 
-Note:          Subdivision 388‑B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this subsection.
+Note:          Subdivision 388-B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this subsection.
 
 ##### <a id="48A"></a>48A  Transfer on or after 1 July 1993 of part of entitlement to assessable receipts
 
@@ -2484,11 +2484,11 @@ Treatment of property used in relation to the project
 
 Application of sections 27, 28 and 29
 
-             (9)  In any application of section 27, 28 or 29 after the transfer time, the purchaser, or each of the purchasers in proportion to its acquired entitlement to assessable receipts, is taken to have incurred the transfer percentage of any eligible real expenditure incurred by the vendor in relation to the project (including any pre‑combination project in relation to the project).
+             (9)  In any application of section 27, 28 or 29 after the transfer time, the purchaser, or each of the purchasers in proportion to its acquired entitlement to assessable receipts, is taken to have incurred the transfer percentage of any eligible real expenditure incurred by the vendor in relation to the project (including any pre-combination project in relation to the project).
 
 Application of section 40
 
-           (10)  In any application of section 40 after the transfer time, the purchaser, or each of the purchasers in proportion to its acquired entitlement to assessable receipts, is taken to have brought to account as a receipt of a kind referred to in section 24, 25, 27, 28 or 29 in relation to the project (including any pre‑combination project in relation to the project) the transfer percentage of any debt so brought to account by the vendor.
+           (10)  In any application of section 40 after the transfer time, the purchaser, or each of the purchasers in proportion to its acquired entitlement to assessable receipts, is taken to have brought to account as a receipt of a kind referred to in section 24, 25, 27, 28 or 29 in relation to the project (including any pre-combination project in relation to the project) the transfer percentage of any debt so brought to account by the vendor.
 
 Transfer notice to be given to purchasers
 
@@ -2498,7 +2498,7 @@ Transfer notice to be given to purchasers
 
                      (b)  the 60th day after the purchaser gives consideration for the transfer of the part of the entitlement.
 
-Note:          Subdivision 388‑B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this subsection.
+Note:          Subdivision 388-B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this subsection.
 
 ##### <a id="49"></a>49  Transfer before 1 July 1984 of partial entitlement to assessable receipts
 
@@ -2516,7 +2516,7 @@ then, for the purposes of this Act (including this section):
 
                      (e)  where any of the exploration expenditure was expenditure in relation to property transferred to the purchaser or purchasers under the transaction referred to in paragraph (a), the vendor shall be taken not to have derived any assessable property receipts in relation to the property by reason of the transfer and the purchaser or purchasers shall be taken not to have incurred any exploration expenditure in relation to the property by reason of the transfer.
 
-### Division 6—Anti‑avoidance
+### Division 6—Anti-avoidance
 
 #### Subdivision A—Arrangements to obtain tax benefits
 
@@ -2562,7 +2562,7 @@ and, for the purposes of this Subdivision, the amount of the tax benefit shall b
 
                            (vii)  any other consequence for the eligible person, or for any person referred to in subparagraph (vi), of the arrangement having been entered into or carried out; and
 
-                          (viii)  the nature of any connection (whether of a business, family, or other nature) between the eligible person and any person referred to in subparagraph (vi);
+                           (viii)  the nature of any connection (whether of a business, family, or other nature) between the eligible person and any person referred to in subparagraph (vi);
 
                             it would be concluded that the person, or one of the persons, who entered into or carried out the arrangement or any part of the arrangement did so for the sole or dominant purpose of enabling the eligible person to obtain a tax benefit or tax benefits in connection with the arrangement or of enabling the eligible person and another person or other persons each to obtain a tax benefit or tax benefits in connection with the arrangement (whether or not that person who entered into or carried out the arrangement or any part of the arrangement is the eligible person or is the other person or one of the other persons).
 
@@ -2592,13 +2592,13 @@ and any such determination has effect accordingly.
 
                    Nothing in the provisions of this Act other than this Subdivision or in the _International Tax Agreements Act 1953_ shall be taken to limit the operation of this Subdivision.
 
-#### Subdivision B—Non‑arm’s length transactions
+#### Subdivision B—Non-arm’s length transactions
 
 ##### <a id="56"></a>56  Arm’s length transaction
 
                    In this Subdivision, **_arm’s length transaction_** means a transaction where the parties to the transaction are dealing with each other at arm’s length in relation to the transaction.
 
-##### <a id="57"></a>57  Non‑arm’s length receipts
+##### <a id="57"></a>57  Non-arm’s length receipts
 
              (1)  Where:
 
@@ -2626,7 +2626,7 @@ then, for the purposes of the application of this Act in relation to the person 
 
              (3)  This section does not apply to receipts determined under subparagraph 24(1)(d)(i).
 
-##### <a id="58"></a>58  Non‑arm’s length expenditure
+##### <a id="58"></a>58  Non-arm’s length expenditure
 
                    Where:
 
@@ -2798,7 +2798,7 @@ the following rules apply:
 
                      (d)  second, the taxable profit of the person of the year of tax in relation to the petroleum project is to be translated into Australian currency;
 
-                     (e)  third, for the purpose of working out a credit to which the person is entitled under section 46 in relation to the year of tax, an amount of excess closing‑down expenditure is to be translated into Australian currency.
+                     (e)  third, for the purpose of working out a credit to which the person is entitled under section 46 in relation to the year of tax, an amount of excess closing-down expenditure is to be translated into Australian currency.
 
 Examples of an amount
 
@@ -2874,15 +2874,15 @@ the amount is to be translated into the applicable functional currency at the ex
 
 the amount is to be translated into the applicable functional currency at the exchange rate applicable at the transfer time (within the meaning of section 48A).
 
-##### <a id="58J"></a>58J  Translation of taxable profit, or excess closing‑down expenditure, into Australian currency
+##### <a id="58J"></a>58J  Translation of taxable profit, or excess closing-down expenditure, into Australian currency
 
              (1)  If:
 
                      (a)  paragraph 58D(1)(d) requires the translation of the taxable profit of a person of a year of tax in relation to a petroleum project; or
 
-                     (b)  paragraph 58D(1)(e) requires the translation of an amount of excess closing‑down expenditure for the purpose of working out a credit to which a person is entitled under section 46 in relation to a year of tax;
+                     (b)  paragraph 58D(1)(e) requires the translation of an amount of excess closing-down expenditure for the purpose of working out a credit to which a person is entitled under section 46 in relation to a year of tax;
 
-that taxable profit or excess closing‑down expenditure, as the case may be, is to be translated using:
+that taxable profit or excess closing-down expenditure, as the case may be, is to be translated using:
 
                      (c)  if the person elects to use an exchange rate that is an average of all the exchange rates during the year of tax—that exchange rate; or
 
@@ -2902,7 +2902,7 @@ Default election
 
                               (i)  paragraph 58D(1)(d) requires the translation of the taxable profit of a person of a year of tax in relation to a petroleum project; or
 
-                             (ii)  paragraph 58D(1)(e) requires the translation of an amount of excess closing‑down expenditure for the purpose of working out a credit to which a person is entitled under section 46 in relation to a year of tax; and
+                             (ii)  paragraph 58D(1)(e) requires the translation of an amount of excess closing-down expenditure for the purpose of working out a credit to which a person is entitled under section 46 in relation to a year of tax; and
 
                      (b)  the person does not make an election under paragraph (1)(c) or (d) of this section in relation to the year of tax;
 
@@ -3198,7 +3198,7 @@ the expenditure is to be translated into Australian currency at the exchange rat
 
                      (b)  if the person has not previously given a return to the Commissioner under this section or section 60 in relation to the project—since the person acquired an entitlement to derive assessable receipts in relation to the project.
 
-Note 1:       Subdivision 388‑B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this section.
+Note 1:       Subdivision 388-B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this section.
 
 Note 2:       Under Divisions 357 to 360 in Schedule 1 to the _Taxation Administration Act 1953_, the Commissioner may make a ruling about the application of this Act as it affects a person’s tax liability.
 
@@ -3222,7 +3222,7 @@ Note 2:       Under Divisions 357 to 360 in Schedule 1 to the _T
 
                      (b)  if the person has not previously given a return to the Commissioner under this section or section 59 in relation to the project—since the person acquired an entitlement to derive assessable receipts in relation to the project.
 
-Note:          Subdivision 388‑B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this section.
+Note:          Subdivision 388-B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this section.
 
 ### Division 2—Assessments (general)
 
@@ -3230,7 +3230,7 @@ Note:          Subdivision 388‑B in Schedule 1 to the _T
 
                    The Commissioner must, from returns and any other information in the Commissioner’s possession, make an assessment of the amount of a person’s taxable profit (or that a person has no taxable profit) in relation to a year of tax and a petroleum project, and of the tax payable on that amount (or that no tax is payable).
 
-##### <a id="62"></a>62  Self‑assessment
+##### <a id="62"></a>62  Self-assessment
 
              (1)  This section applies if:
 
@@ -3412,7 +3412,7 @@ Note:          If the amendment of an assessment results in an
 
 ##### <a id="82"></a>82  When tax and shortfall interest charge payable
 
-Self‑assessment and default assessment
+Self-assessment and default assessment
 
              (1)  Tax assessed in relation to a year of tax in accordance with an assessment under Division 2 of Part VI in relation to a person is due and payable by the person on the 60th day after the end of the year of tax.
 
@@ -3428,9 +3428,9 @@ Shortfall interest charge
 
              (3)  Shortfall interest charge payable by a person in relation to an assessment is due and payable on the 21st day after the day on which the Commissioner gives the person notice of the amount of the charge.
 
-Note 1:       The Commissioner may defer the time at which tax or the shortfall interest charge is, or would become, due and payable: see section 255‑10 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note 1:       The Commissioner may defer the time at which tax or the shortfall interest charge is, or would become, due and payable: see section 255-10 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-Note 2:       For provisions about collection and recovery of tax or the shortfall interest charge, see Part 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note 2:       For provisions about collection and recovery of tax or the shortfall interest charge, see Part 4-15 in Schedule 1 to the _Taxation Administration Act 1953_.
 
 ##### <a id="85"></a>85  Unpaid tax and charges
 
@@ -3454,19 +3454,19 @@ Note:          The general interest charge is worked out under
 
                              (ii)  general interest charge on any of the tax, shortfall interest charge or instalment transfer interest charge.
 
-##### <a id="92"></a>92  Person in receipt or control of money of non‑resident
+##### <a id="92"></a>92  Person in receipt or control of money of non-resident
 
-             (1)  A person who has authority to receive, control or dispose of money belonging to a non‑resident who is liable to an amount of tax or related charge shall, when required by the Commissioner by notice in writing served on the person, pay the amount of tax or charge  and, by force of this section, is, when so required:
+             (1)  A person who has authority to receive, control or dispose of money belonging to a non-resident who is liable to an amount of tax or related charge shall, when required by the Commissioner by notice in writing served on the person, pay the amount of tax or charge  and, by force of this section, is, when so required:
 
-                     (a)  authorised and required to retain from time to time any money that comes to the person on behalf of the non‑resident or so much of it as is sufficient to pay the amount of tax or charge payable by the non‑resident;
+                     (a)  authorised and required to retain from time to time any money that comes to the person on behalf of the non-resident or so much of it as is sufficient to pay the amount of tax or charge payable by the non-resident;
 
                      (b)  made personally liable for the amount of tax or charge after it becomes payable to the extent of any amount so retained, or which should have been so retained, under paragraph (a); and
 
                      (c)  indemnified for all payments that the person makes pursuant to this section.
 
-             (2)  For the purposes of subsection (1), a person who is liable to pay money to a non‑resident shall be deemed to be a person who has the control of money belonging to the non‑resident, and all money due by the person to the non‑resident shall be deemed to be money that comes to the person on behalf of the non‑resident.
+             (2)  For the purposes of subsection (1), a person who is liable to pay money to a non-resident shall be deemed to be a person who has the control of money belonging to the non-resident, and all money due by the person to the non-resident shall be deemed to be money that comes to the person on behalf of the non-resident.
 
-             (3)  Where the Commonwealth, a State or Territory, or an authority of the Commonwealth, a State or Territory, has the receipt, control or disposal of money belonging to a non‑resident, this section (other than paragraph (1)(b)) applies to and in relation to the Commonwealth, the State or the Territory, or the authority of the Commonwealth, of the State or of the Territory, as the case may be, in the same manner as it applies to and in relation to any other person.
+             (3)  Where the Commonwealth, a State or Territory, or an authority of the Commonwealth, a State or Territory, has the receipt, control or disposal of money belonging to a non-resident, this section (other than paragraph (1)(b)) applies to and in relation to the Commonwealth, the State or the Territory, or the authority of the Commonwealth, of the State or of the Territory, as the case may be, in the same manner as it applies to and in relation to any other person.
 
 ### Division 2—Collection by instalments
 
@@ -3486,7 +3486,7 @@ Note:          The general interest charge is worked out under
 
                    Subject to this Division, the 3 instalments of tax payable in respect of a year of tax of a person in relation to a petroleum project are due and payable respectively on 21 October, 21 January and 21 April in the year of tax concerned.
 
-Note:          For provisions about collection and recovery of an instalment of tax, see Part 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note:          For provisions about collection and recovery of an instalment of tax, see Part 4-15 in Schedule 1 to the _Taxation Administration Act 1953_.
 
 ##### <a id="96"></a>96  Amount of instalment of tax
 
@@ -3496,7 +3496,7 @@ Note:          For provisions about collection and recovery of
 
              (1)  Subject to subsection (2), the notional tax amount of a person, in relation to a petroleum project and an instalment period in a year of tax, is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image012.gif)
 
 where:
 
@@ -3524,7 +3524,7 @@ Note:          Division 3A of Part V may require or permit
 
           (1B)  For the purposes of subsection (1), the previous period liability is an amount equal to the sum of the notional tax amounts (if any) worked out under subsection (1) in relation to the person, the petroleum project and any earlier instalment periods in the year of tax.
 
-          (1C)  If the petroleum project is a combined project, the references in paragraph (1A)(b) and subsection (1B) to the project are to be read as including references to the pre‑combination projects in relation to the project.
+          (1C)  If the petroleum project is a combined project, the references in paragraph (1A)(b) and subsection (1B) to the project are to be read as including references to the pre-combination projects in relation to the project.
 
              (2)  Where:
 
@@ -3604,7 +3604,7 @@ Statement about charge
 
              (6)  The liable person must, on or before the 60th day after the end of the year of tax, give the Commissioner information, in the approved form, for use in working out the instalment transfer interest charge.
 
-Note:          Subdivision 388‑B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this section.
+Note:          Subdivision 388-B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this section.
 
              (7)  In this section:
 
@@ -3624,7 +3624,7 @@ Note:          Subdivision 388‑B in Schedule 1 to the _T
 
              (2)  The rate is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image013.gif)
 
              (3)  In this section:
 
@@ -3648,7 +3648,7 @@ When payment is due
 
              (4)  An amount of instalment transfer interest charge that the liable person is liable to pay is due and payable on the 21st day after the day on which the Commissioner gives the liable person notice of the amount of the charge under this section.
 
-Note:          The Commissioner may defer the time at which the charge is, or would become, due and payable: see section 255‑10 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note:          The Commissioner may defer the time at which the charge is, or would become, due and payable: see section 255-10 in Schedule 1 to the _Taxation Administration Act 1953_.
 
 ##### <a id="98D"></a>98D  Instalment transfer interest charge—remission
 
@@ -3662,7 +3662,7 @@ Reasons for not remitting
 
 Note 1:       Section 25D of the _Acts Interpretation Act 1901_ sets out rules about the contents of a statement of reasons.
 
-Note 2:       Subdivision 388‑B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this section.
+Note 2:       Subdivision 388-B in Schedule 1 to the _Taxation Administration Act 1953_ applies to approved forms under this section.
 
 Objecting against remission decision
 
@@ -3672,7 +3672,7 @@ Objecting against remission decision
 
                    Where:
 
-                     (a)  a person has paid an amount in respect of an instalment of tax in respect of a year of tax, in relation to a petroleum project (including in the case of a combined project any pre‑ combination project in relation to the project); and
+                     (a)  a person has paid an amount in respect of an instalment of tax in respect of a year of tax, in relation to a petroleum project (including in the case of a combined project any pre- combination project in relation to the project); and
 
                      (b)  an assessment has been made of the amount of tax payable by the person in respect of the year of tax in relation to the project;
 
@@ -3686,7 +3686,7 @@ and shall refund to the person so much of the amount as is not credited.
 
 ##### <a id="100"></a>100  Unpaid instalments
 
-             (1)  If, on the date on which tax becomes due and payable by a person in respect of a year of tax in relation to a petroleum project, the whole or a part of an amount payable as an instalment of tax in respect of that year of tax in relation to the project (including in the case of a combined project any pre‑combination project in relation to the project) has not been paid and there is no other instalment in respect of that year of tax in relation to the project the whole or a part of which has not been paid:
+             (1)  If, on the date on which tax becomes due and payable by a person in respect of a year of tax in relation to a petroleum project, the whole or a part of an amount payable as an instalment of tax in respect of that year of tax in relation to the project (including in the case of a combined project any pre-combination project in relation to the project) has not been paid and there is no other instalment in respect of that year of tax in relation to the project the whole or a part of which has not been paid:
 
                      (a)  where no part of the tax in respect of that year of tax has been paid—so much (if any) of the amount unpaid in respect of that instalment as exceeds the amount of that tax ceases on that date to be payable;
 
@@ -3694,7 +3694,7 @@ and shall refund to the person so much of the amount as is not credited.
 
                      (c)  where the whole of the tax in respect of that year of tax has been paid—the amount unpaid in respect of that instalment ceases on that date to be payable.
 
-             (2)  If, on the date on which tax becomes due and payable by a person in respect of a year of tax in relation to a petroleum project, there are 2 or more instalments of tax in respect of that year of tax in relation to the project (including in the case of a combined project any pre‑combination project in relation to the project) the whole or a part of each of which has not been paid:
+             (2)  If, on the date on which tax becomes due and payable by a person in respect of a year of tax in relation to a petroleum project, there are 2 or more instalments of tax in respect of that year of tax in relation to the project (including in the case of a combined project any pre-combination project in relation to the project) the whole or a part of each of which has not been paid:
 
                      (a)  where no part of the tax in respect of that year of tax has been paid or part only of that tax has been paid—the Commissioner may determine that the whole or any part of all or any of the amounts unpaid in respect of those instalments shall cease on that date to be payable; or
 
@@ -3808,7 +3808,7 @@ the person is liable to pay, by way of penalty, additional tax equal to:
 
 is conclusive evidence of the due making of the assessment and, except in proceedings under Part IVC of the _Taxation Administration Act 1953_ on a review or appeal relating to the assessment, that the amounts and all of the particulars of the assessment are correct.
 
-             (2)  The mere production of a document under the hand of the Commissioner, a Second Commissioner or a Deputy Commissioner purporting to be a copy of a document issued or given by the Commissioner, a Second Commissioner or a Deputy Commissioner is conclusive evidence that the second‑mentioned document was so issued or given.
+             (2)  The mere production of a document under the hand of the Commissioner, a Second Commissioner or a Deputy Commissioner purporting to be a copy of a document issued or given by the Commissioner, a Second Commissioner or a Deputy Commissioner is conclusive evidence that the second-mentioned document was so issued or given.
 
              (3)  The mere production of a document under the hand of the Commissioner, a Second Commissioner or a Deputy Commissioner purporting to be a copy of, or an extract from, a return, a notice of assessment or a notice under section 98C is evidence of the matter set out in the document to the same extent as the original return or notice, as the case may be, would be if it were produced.
 
@@ -3928,7 +3928,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note 1:       See section 4AA of the _Crimes Act 1914_ for the current value of a penalty unit.
 
-Note 2:       There is an administrative penalty if you do not keep or retain records as required by this section: see section 288‑25 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note 2:       There is an administrative penalty if you do not keep or retain records as required by this section: see section 288-25 in Schedule 1 to the _Taxation Administration Act 1953_.
 
 ##### <a id="113"></a>113  Service on partnerships and associations
 
@@ -3936,13 +3936,15 @@ Note 2:       There is an administrative penalty if you do not keep 
 
 ##### <a id="114"></a>114  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act;
 
 and, in particular, may make regulations prescribing penalities not exceeding a fine of 5 penalty units for offences against the regulations.
+
+ 
 
 # Schedule—Provisions relating to incurring and transfer of exploration expenditure on or after 1 July 1990
 
@@ -3988,7 +3990,7 @@ Clause
 
 [14](#14).          Assumptions on which amounts to be worked out
 
-[15](#15).          Non‑transferable expenditure
+[15](#15).          Non-transferable expenditure
 
 [16](#16).          Amounts to be worked out
 
@@ -4042,15 +4044,17 @@ Clause
 
 [38](#38).          What happens if expenditure was incurred in a GDP expenditure year
 
+ 
+
 ## Part 1—Interpretation
 
 ##### <a id="1"></a>1  Defined terms
 
                    In this Schedule:
 
-                    <a name="abr-expenditur-year"></a>**_ABR expenditure year_**, in relation to a petroleum project, means the financial year in which the relevant pre‑commencement day occurred or a later financial year.
+                    <a name="abr-expenditur-year"></a>**_ABR expenditure year_**, in relation to a petroleum project, means the financial year in which the relevant pre-commencement day occurred or a later financial year.
 
-                    <a name="augmented-bond-rate"></a>**_augmented bond rate_**, in relation to a financial year, means the long‑term bond rate in relation to the financial year plus 1.15.
+                    <a name="augmented-bond-rate"></a>**_augmented bond rate_**, in relation to a financial year, means the long-term bond rate in relation to the financial year plus 1.15.
 
                     <a name="explor-right"></a>**_exploration right_** means an exploration permit or a retention lease.
 
@@ -4094,11 +4098,11 @@ Note:          The effect of subsections 35A(2), 35B(2) and 45
 
                             (iii)  any amounts of exploration expenditure that the person is taken by section 48 or 48A to have incurred in the financial year;
 
-                            in relation to the pre‑combination projects.
+                            in relation to the pre-combination projects.
 
 Note:          The effect of subsections 35A(2), 35B(2) and 45D(3) must be taken into account when working out an incurred exploration expenditure amount.
 
-                    <a name="pre-licenc-area"></a>**_pre‑licence area_**, in relation to a production licence, means:
+                    <a name="pre-licenc-area"></a>**_pre-licence area_**, in relation to a production licence, means:
 
                      (a)  if the production licence was derived from an exploration permit—the exploration permit area of the exploration permit; or
 
@@ -4108,7 +4112,7 @@ Note:          The effect of subsections 35A(2), 35B(2) and 45
 
                              (ii)  the exploration permit area of the exploration permit to which the retention lease is related.
 
-                    <a name="relev-pre-commenc-dai"></a>**_relevant pre‑commencement day_**, in relation to a petroleum project, means:
+                    <a name="relev-pre-commenc-dai"></a>**_relevant pre-commencement day_**, in relation to a petroleum project, means:
 
                      (a)  if the petroleum project is not a combined project or the Bass Strait project—the day occurring 5 years before the date specified in the notice issued under subsection 258(7) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ in relation to the project; or
 
@@ -4118,7 +4122,7 @@ Note:          The effect of subsections 35A(2), 35B(2) and 45
 
                      (a)  in relation to a petroleum project other than a combined project or the Bass Strait project—the day on which the exploration permit to which the production licence comprising the project is related was granted; or
 
-                     (b)  in relation to a combined project—the earliest of the days that, but for the issue of the project combination certificate, would have been starting days in relation to such of the pre‑combination projects as were not combined projects; or
+                     (b)  in relation to a combined project—the earliest of the days that, but for the issue of the project combination certificate, would have been starting days in relation to such of the pre-combination projects as were not combined projects; or
 
                      (c)  in relation to the Bass Strait project—the day on which the Bass Strait exploration permit was granted; or
 
@@ -4144,7 +4148,7 @@ Note:          The effect of subsections 35A(2), 35B(2) and 45
 
                              (ii)  the time is a time before the production licence in relation to the project came into force;
 
-                            the person was, at that time, entitled to receive receipts from the sale of petroleum, or marketable petroleum commodities produced from petroleum, recovered from a pre‑licence area in relation to the production licence; or
+                            the person was, at that time, entitled to receive receipts from the sale of petroleum, or marketable petroleum commodities produced from petroleum, recovered from a pre-licence area in relation to the production licence; or
 
                      (c)  where:
 
@@ -4162,17 +4166,17 @@ Note:          The effect of subsections 35A(2), 35B(2) and 45
 
                                         (A)  before the project combination certificate came into force; and
 
-                                        (B)  after the earliest of the production licences in relation to the pre‑combination projects came into force;
+                                        (B)  after the earliest of the production licences in relation to the pre-combination projects came into force;
 
-                            the person was, at that time, entitled to receive receipts from the sale of petroleum, or marketable petroleum commodities produced from petroleum, recovered from one or more of the production licence areas in relation to the pre‑combination projects; or
+                            the person was, at that time, entitled to receive receipts from the sale of petroleum, or marketable petroleum commodities produced from petroleum, recovered from one or more of the production licence areas in relation to the pre-combination projects; or
 
                      (e)  where:
 
                               (i)  the project is a combined project; and
 
-                             (ii)  the time is a time before the earliest of the production licences in relation to the pre‑combination projects came into force;
+                             (ii)  the time is a time before the earliest of the production licences in relation to the pre-combination projects came into force;
 
-                            the person was, at that time, entitled to receive receipts from the sale of petroleum, or marketable petroleum commodities produced from petroleum, recovered from a pre‑licence area in relation to that earliest production licence; or
+                            the person was, at that time, entitled to receive receipts from the sale of petroleum, or marketable petroleum commodities produced from petroleum, recovered from a pre-licence area in relation to that earliest production licence; or
 
                       (f)  if the project is the Bass Strait project—the person was, at that time, entitled to receive receipts from the sale of petroleum, or marketable petroleum commodities produced from petroleum, recovered from the production licence areas in relation to the project.
 
@@ -4214,7 +4218,7 @@ Transfers from a Greater Sunrise project
 
              (1)  If, in relation to a year of tax, transferable exploration expenditure is transferred from a Greater Sunrise project to a petroleum project other than a Greater Sunrise project, the amount of that expenditure for the purposes of the other petroleum project is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image014.gif)
 
 where:
 
@@ -4226,7 +4230,7 @@ Transfers to a Greater Sunrise project
 
              (2)  If, in relation to a year of tax, transferable exploration expenditure is transferred to a Greater Sunrise project from a petroleum project other than a Greater Sunrise project, the amount of that expenditure for the purposes of the Greater Sunrise project is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image015.gif)
 
 where:
 
@@ -4242,7 +4246,7 @@ where:
 
                     <a name="notion-taxabl-profit"></a>**_notional taxable profit_**, in relation to a person, a petroleum project and a financial year, means the amount (if any) that would be the taxable profit in relation to the person, the project and the financial year if:
 
-                     (a)  the person had not incurred any class 2 augmented bond rate exploration expenditure, class 2 GDP factor expenditure or closing‑down expenditure in relation to the project and the financial year; and
+                     (a)  the person had not incurred any class 2 augmented bond rate exploration expenditure, class 2 GDP factor expenditure or closing-down expenditure in relation to the project and the financial year; and
 
                      (b)  any expenditure transferred:
 
@@ -4284,7 +4288,7 @@ In this Part, the financial year is called the **_assessable year_**.
 
                      (b)  if the ABR expenditure year is an earlier financial year—work out, in relation to the ABR expenditure year and each later financial year ending before the assessable year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image016.gif)
 
                             where:
 
@@ -4352,7 +4356,7 @@ the following provisions have effect:
 
                     <a name="notion-taxabl-profit"></a>**_notional taxable profit_**, in relation to a person, a petroleum project and a financial year, means the amount (if any) that would be the taxable profit in relation to the person, the project and the financial year if:
 
-                     (a)  the person had not incurred any class 2 GDP factor expenditure or closing‑down expenditure in relation to the project and the financial year; and
+                     (a)  the person had not incurred any class 2 GDP factor expenditure or closing-down expenditure in relation to the project and the financial year; and
 
                      (b)  any expenditure transferred:
 
@@ -4390,7 +4394,7 @@ In this Part, the financial year is called the **_assessable year_**.
 
                      (a)  work out, in relation to the GDP expenditure year and each later financial year ending before the assessable year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image017.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image017.gif)
 
                             where:
 
@@ -4470,7 +4474,7 @@ the following provisions have effect:
 
 In this Part, the petroleum project referred to in paragraph (b) is called the **_notional project_**.
 
-##### <a id="15"></a>15  Non‑transferable expenditure
+##### <a id="15"></a>15  Non-transferable expenditure
 
              (1)  For the purposes of this Part, if:
 
@@ -4478,7 +4482,7 @@ In this Part, the petroleum project referred to in paragraph (b) is called the
 
                      (b)  the total amount of assessable receipts derived by the person in relation to the notional project in the financial year equals or exceeds the total amount of deductible expenditure actually incurred by the person in relation to the notional project in the financial year;
 
-the total of the amounts of exploration expenditure (other than designated frontier expenditure), and uplifted frontier expenditure, is taken to be non‑transferable expenditure incurred by the person in relation to the notional project.
+the total of the amounts of exploration expenditure (other than designated frontier expenditure), and uplifted frontier expenditure, is taken to be non-transferable expenditure incurred by the person in relation to the notional project.
 
              (2)  For the purposes of this Part, if:
 
@@ -4490,17 +4494,17 @@ the total of the amounts of exploration expenditure (other than designated front
 
                              (ii)  any amounts of uplifted frontier expenditure taken to be incurred by the person in respect of designated frontier expenditure actually incurred by the person;
 
-                            in relation to the notional project in the financial year exceeds the excess referred to in paragraph (a) by an amount (the **_non‑transferable amount_**);
+                            in relation to the notional project in the financial year exceeds the excess referred to in paragraph (a) by an amount (the **_non-transferable amount_**);
 
-so much of the expenditure as equals the non‑transferable amount is taken to be non‑transferable expenditure incurred by the person in relation to the notional project.
+so much of the expenditure as equals the non-transferable amount is taken to be non-transferable expenditure incurred by the person in relation to the notional project.
 
              (3)  If:
 
                      (a)  subclause (2) applies; and
 
-                     (b)  the oldest amount of any exploration expenditure (other than designated frontier expenditure) incurred, or any uplifted frontier expenditure taken to be incurred, by the person in the financial year equals or exceeds the non‑transferable amount;
+                     (b)  the oldest amount of any exploration expenditure (other than designated frontier expenditure) incurred, or any uplifted frontier expenditure taken to be incurred, by the person in the financial year equals or exceeds the non-transferable amount;
 
-the non‑transferable expenditure consists of so much of that oldest amount as equals the non‑transferable amount.
+the non-transferable expenditure consists of so much of that oldest amount as equals the non-transferable amount.
 
              (4)  If:
 
@@ -4516,9 +4520,9 @@ the following provisions have effect:
 
                              (ii)  add to that, in order starting with the next oldest amount, each of the other amounts incurred, or taken to be incurred, by the person in the financial year;
 
-                            (iii)  if adding an amount of expenditure would make the total exceed the non‑transferable amount, add only so much of the amount as makes the total equal the non‑transferable amount and do not add any later amount of expenditure;
+                            (iii)  if adding an amount of expenditure would make the total exceed the non-transferable amount, add only so much of the amount as makes the total equal the non-transferable amount and do not add any later amount of expenditure;
 
-                     (d)  the non‑transferable expenditure consists of the amounts of expenditure added together in accordance with paragraph (c).
+                     (d)  the non-transferable expenditure consists of the amounts of expenditure added together in accordance with paragraph (c).
 
 ##### <a id="16"></a>16  Amounts to be worked out
 
@@ -4536,7 +4540,7 @@ the following provisions have effect:
 
                             in relation to the notional project during the period starting on 1 July 1990 and ending at the end of the assessable year;
 
-                     (d)  the amount worked out under paragraph (c), less the total of the amounts of non‑transferable expenditure incurred by the person in relation to the notional project during the period starting on 1 July 1990 and ending at the end of the assessable year.
+                     (d)  the amount worked out under paragraph (c), less the total of the amounts of non-transferable expenditure incurred by the person in relation to the notional project during the period starting on 1 July 1990 and ending at the end of the assessable year.
 
 In this Part, the amount worked out under paragraph (a) is called the **_notional assessable receipts_**, the amount worked out under paragraph (b) is called the **_notional deductible expenditure_**, the amount worked out under paragraph (c) is called the **_notional exploration expenditure_** and the amount worked out under paragraph (d) is called the **_reduced notional exploration expenditure_**.
 
@@ -4626,13 +4630,13 @@ Note:          Special rules apply in relation to the transfer
 
                      (a)  the person started (whether or not for the first time) to hold an interest in relation to the transferring entity during the financial year in which the expenditure was incurred; and
 
-                     (b)  the expenditure was incurred after the time (the **_farm‑in time_**) when the person started to hold the interest; and
+                     (b)  the expenditure was incurred after the time (the **_farm-in time_**) when the person started to hold the interest; and
 
                      (c)  the expenditure was actually incurred by the person (rather than taken by section 48 or 48A to have been incurred by the person);
 
-subclause (1) does not require the person to have held an interest in relation to the transferring entity before the farm‑in time.
+subclause (1) does not require the person to have held an interest in relation to the transferring entity before the farm-in time.
 
-       (2AB)  If:
+        (2AB)  If:
 
                      (a)  at a time (the **_cessation time_**) after the expenditure was incurred and on or after 1 July 1993, the person ceased to hold any interest in relation to the transferring entity; and
 
@@ -4718,7 +4722,7 @@ In this Part, each of the companies in relation to which there is unused transfe
 
 ##### <a id="29"></a>29  Matters dealt with in this Part
 
-                   This Part sets out the rules relating to the transfer by a loss company of transferable exploration expenditure from a petroleum project or an exploration right to a profit company in relation to a petroleum project and the transfer year. In this Part, the project or right from which the expenditure is transferred is called the **_transferring entity_**and the project in relation to which the expenditure is transferred is called the **_receiving project_.**
+                   This Part sets out the rules relating to the transfer by a loss company of transferable exploration expenditure from a petroleum project or an exploration right to a profit company in relation to a petroleum project and the transfer year. In this Part, the project or right from which the expenditure is transferred is called the **_transferring entity_**and the project in relation to which the expenditure is transferred is called the **_receiving project_.**
 
 Note:          Special rules apply in relation to the transfer of Greater Sunrise exploration expenditure: see Part 1A of this Schedule.
 
@@ -4800,7 +4804,7 @@ Definitions
 
 ##### <a id="34"></a>34  Rule—restriction on transfer of GDP expenditure
 
-                   The loss company may not transfer the expenditure to the profit company in relation to the receiving project and the transfer year if:
+                   The loss company may not transfer the expenditure to the profit company in relation to the receiving project and the transfer year if:
 
                      (a)  the expenditure was incurred in a GDP expenditure year in relation to the receiving project; and
 
@@ -4854,7 +4858,7 @@ the following provisions apply:
 
                      (c)  work out, in relation to the ABR expenditure year and each later financial year ending before the transfer year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image018.gif)
 
                             where:
 
@@ -4874,7 +4878,7 @@ the following provisions apply:
 
                      (a)  work out, in relation to the GDP expenditure year and each later financial year ending before the transfer year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00863/Html/PetResRenTaxAss1987_WD02_image019.gif)
 
                             where:
 
@@ -4905,8 +4909,8 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="30%">
   <col width="15%">
   <col width="17%">
-  <col width="21%">
-  <col width="17%">
+  <col width="22%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -5468,7 +5472,7 @@ Schedule 1 (items 10–12, 15): Royal Assent <i>(o)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 96) 
-Sch. 2 (item 95) (am. by 117, 2008, Sch. 3 \[item 31AB] and Sch. 4 \[item 5]) \[ <i>see</i>Table A]</div>
+Sch. 2 (item 95) (am. by 117, 2008, Sch. 3 \[item 31AB] and Sch. 4 \[item 5]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5521,7 +5525,8 @@ Schedule 4 (items 5, 8): <i>(p)</i>
 Remainder: 1 July 2006</div>
   </td>
   <td>
-    <div>Sch. 1 (item 12), Sch. 2 (items 3, 4), Sch. 3 (item 9), Sch. 4 (item 38) and Sch. 5 (item 23) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 12), Sch. 2 (items 3, 4), Sch. 3 (item 9), Sch. 4 (item 38) and Sch. 5 (item 23) 
+\[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5539,7 +5544,7 @@ Remainder: 1 July 2006</div>
   </td>
   <td>
     <div>Sch. 6 (items 1, 
-6–11) \[ <i>see</i>Table A]</div>
+ 6–11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5573,7 +5578,7 @@ Remainder: 1 July 2006</div>
     <div>Schedule 1 (items 88–94, 97): <i>(q)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) (am. by 117, 2008, Sch. 3 \[item 31AA]) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 97) (am. by 117, 2008, Sch. 3 \[item 31AA]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5677,7 +5682,7 @@ Schedule 3 (item 37): 12 May 2009</div>
     <div>8 Oct 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 68): 9 Oct 2009</div>
+    <div>Schedule 1 (item 68): 9 Oct 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -5694,27 +5699,10 @@ Schedule 3 (item 37): 12 May 2009</div>
     <div>16 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 2 (items 59, 60): 17 Dec 2010</div>
+    <div>Schedule 2 (items 59, 60): 17 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 909, 910) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -5722,7 +5710,7 @@ _(a)_     The _Petroleum Resource Rent Tax Assessment Act 1987_ was amen
 
                  (1)   Subject to subsection (2), this Act commences on the day on which the _Privacy Act 1988_ commences.
 
-_(b)_     The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by sections 113, 123 and 124 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsections 2(1) and (10) of which provide as follows:
+_(b)_    The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by sections 113, 123 and 124 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsections 2(1) and (10) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -5750,7 +5738,7 @@ _(f)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Sched
 
                       (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
 
 _(g)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 1 (item 732) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
@@ -5784,9 +5772,9 @@ _(k)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Sched
 
 _(l)_      The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 2 (items 54–56) only of the _A New Tax System (Tax Administration) Act (No. 2) 2000_, subsection 3(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1-1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
-         Section 1‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
+         Section 1-1 of the _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
 
 _(m)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 3 (items 413–415) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
@@ -5943,7 +5931,7 @@ _(p)_ Subsection 2(1) (items 4, 7, 9 and 11) of the _Petroleum Resource Rent T
   </td>
 </tr></table>
 
-_(q)_ Subsection 2(1) (item 2) of the _Offshore Petroleum Amendment (Greater Sunrise) Act 2007_ provides as follows:
+_(q)_ Subsection 2(1) (item 2) of the _Offshore Petroleum Amendment (Greater__Sunrise__) Act 2007_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -7409,24 +7397,6 @@ _(r)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 909  Subsection 2D(4) (definition of _year_)
-
-Omit “calendar”.
-
-## 910  Subsection 36B(5) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-As at 3 November 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7483,13 +7453,13 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## Schedule 1
 
-## 212  Transitional—pre‑commencement deeds and compositions
+## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre‑commencement deed_**.
+(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre‑commencement composition_**.
+(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
-(3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -7497,21 +7467,21 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement deed; and
+                     (c)  a pre-commencement deed; and
 
-                     (d)  a pre‑commencement composition; and
+                     (d)  a pre-commencement composition; and
 
                      (e)  any matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement deed; or
+                              (i)  a pre-commencement deed; or
 
-                             (ii)  a pre‑commencement composition;
+                             (ii)  a pre-commencement composition;
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 213  Transitional—pre‑commencement authorities
+## 213  Transitional—pre-commencement authorities
 
-(1)       For the purposes of this item, if:
+(1)        For the purposes of this item, if:
 
                      (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
 
@@ -7523,9 +7493,9 @@ as if those repeals had not happened and those amendments had not been made.
 
                             (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
 
-the authority is a **_pre‑commencement authority_**.
+the authority is a **_pre-commencement authority_**.
 
-(2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -7533,11 +7503,11 @@ the authority is a **_pre‑commencement authority_**.
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement authority; and
+                     (c)  a pre-commencement authority; and
 
-                     (d)  the control of the debtor’s property following a pre‑commencement authority becoming effective; and
+                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
 
-                     (e)  a meeting of the debtor’s creditors called under a pre‑commencement authority; and
+                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
 
                       (f)  whichever of the following is applicable:
 
@@ -7549,7 +7519,7 @@ continue to apply, in relation to:
 
                      (g)  any other matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement authority; or
+                              (i)  a pre-commencement authority; or
 
                              (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
 
@@ -7561,9 +7531,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 215  Transitional—regulations
 
-(1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -7573,15 +7543,15 @@ _Tax Laws Amendment (2004 Measures No. 7) Act 2005 (No. 41, 2005)_
 
 ## 17  Application
 
-(1)       The amendments made by this Schedule (other than items 5 and 6) apply in respect of any exploration expenditure incurred (whether before or after this Schedule commences) where the eligible exploration or recovery area is a designated frontier area.
+(1)        The amendments made by this Schedule (other than items 5 and 6) apply in respect of any exploration expenditure incurred (whether before or after this Schedule commences) where the eligible exploration or recovery area is a designated frontier area.
 
-(2)       The amendments made by items 5 and 6 apply in respect of any objection made (whether before or after that item commences) that has not yet been finally determined or otherwise disposed of.
+(2)        The amendments made by items 5 and 6 apply in respect of any objection made (whether before or after that item commences) that has not yet been finally determined or otherwise disposed of.
 
 ## Schedule 10
 
 ## 230  Transitional
 
-An approval of a form for the purposes of the _Petroleum Resource Rent Tax Assessment Act 1987_ that was in force immediately before the commencement of this item has effect after that commencement as if it had been done under section 388‑50 in Schedule 1 to the _Taxation Administration Act 1953_.
+An approval of a form for the purposes of the _Petroleum Resource Rent Tax Assessment Act 1987_ that was in force immediately before the commencement of this item has effect after that commencement as if it had been done under section 388-50 in Schedule 1 to the _Taxation Administration Act 1953_.
 
 * * *
 
@@ -7590,7 +7560,7 @@ _Offshore Petroleum (Repeals and Consequential Amendments) Act 2006
 
 ## Schedule 2
 
-## 95  Transitional—pre‑commencement events and circumstances
+## 95  Transitional—pre-commencement events and circumstances
 
 For the purposes of the application of:
 
@@ -7616,7 +7586,7 @@ to events that occurred, and circumstances that arose, before the commencement o
 
                            (vii)  the definition of **_exploration permit area_**;
 
-                          (viii)  the definition of **_holder of a registered interest_**;
+                           (viii)  the definition of **_holder of a registered interest_**;
 
                             (ix)  the definition of **_petroleum_**;
 
@@ -7626,7 +7596,7 @@ to events that occurred, and circumstances that arose, before the commencement o
 
                            (xii)  the definition of **_production licence area_**;
 
-                          (xiii)  the definition of **_registered holder_**;
+                           (xiii)  the definition of **_registered holder_**;
 
                           (xiv)  the definition of **_retention lease_**;
 
@@ -7644,23 +7614,23 @@ to events that occurred, and circumstances that arose, before the commencement o
 
                      (g)  the definition of **_potential exploration permit area_** in subsection 36B(6) of the PRRTA Act has effect as if the reference in that definition to Part 2.2 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to Division 2 of Part III of the repealed _Petroleum (Submerged Lands) Act 1967_; and
 
-                     (h)  the definition of **_relevant pre‑commencement day_** in clause 1 of the Schedule to the PRRTA Act has effect as if a reference in that definition to subsection 258(7) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to subsection 41(3) of the repealed _Petroleum (Submerged Lands) Act 1967_.
+                     (h)  the definition of **_relevant pre-commencement day_** in clause 1 of the Schedule to the PRRTA Act has effect as if a reference in that definition to subsection 258(7) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to subsection 41(3) of the repealed _Petroleum (Submerged Lands) Act 1967_.
 
 ## 96  Transitional—section 36B of the _Petroleum Resource Rent Tax Assessment Act 1987_
 
-(1)       This item applies to an instrument if:
+(1)        This item applies to an instrument if:
 
                      (a)  the instrument was in force immediately before the commencement of this item; and
 
                      (b)  the instrument was made under subsection 36B(1) or (5) of the _Petroleum Resource Rent Tax Assessment Act 1987_(the **_PRRTA Act_**).
 
-(2)       The instrument has effect, after the commencement of this item, as if:
+(2)        The instrument has effect, after the commencement of this item, as if:
 
                      (a)  it had been made under the corresponding provision of the PRRTA Act  as amended by this Act; and
 
                      (b)  any requirement imposed by the PRRTA Act (as amended by this Act) in relation to the making of the instrument had been satisfied.
 
-(3)       Subitem (2) does not prevent the instrument continuing to have effect for the purposes of the application of:
+(3)        Subitem (2) does not prevent the instrument continuing to have effect for the purposes of the application of:
 
                      (a)  the PRRTA Act; or
 
@@ -7670,8 +7640,7 @@ to events that occurred, and circumstances that arose, before the commencement o
 
 * * *
 
-_Petroleum Resource Rent Tax Assessment Amendment Act 2006 
- (No. 78, 2006)_
+_Petroleum Resource Rent Tax Assessment Amendment Act 2006 (No. 78, 2006)_
 
 ## Schedule 1
 
@@ -7685,21 +7654,21 @@ The amendments made by Part 1 of this Schedule apply only in relation to insta
 
 The amendments made by Part 1 of this Schedule apply only in relation to instalments and assessments of tax under the _Petroleum Resource Rent Tax Assessment Act 1987_ for financial years that start on or after 1 July 2006.
 
-## 4  Application—pre‑1 July 2006 expenditure
+## 4  Application—pre-1 July 2006 expenditure
 
-(1)       Transferable exploration expenditure that was actually incurred before 1 July 2006 may, unless subitem (2), (3) or (4) applies, be transferred in relation to a transfer year that starts on or after 1 July 2006 from one company (the **_loss company_**) to another company (the **_profit company_**) in relation to a petroleum project (the **_receiving project_**) in which the profit company holds (or has held) an interest (the **_receiving interest_**).
+(1)        Transferable exploration expenditure that was actually incurred before 1 July 2006 may, unless subitem (2), (3) or (4) applies, be transferred in relation to a transfer year that starts on or after 1 July 2006 from one company (the **_loss company_**) to another company (the **_profit company_**) in relation to a petroleum project (the **_receiving project_**) in which the profit company holds (or has held) an interest (the **_receiving interest_**).
 
-(2)       The expenditure cannot be transferred if new clause 31, or any other provision of the _Petroleum Resource Rent Tax Assessment Act 1987_ (as amended by this Act), prevents the transfer.
+(2)        The expenditure cannot be transferred if new clause 31, or any other provision of the _Petroleum Resource Rent Tax Assessment Act 1987_ (as amended by this Act), prevents the transfer.
 
-(3)       If the starting day for the receiving project was before 1 July 2006, the expenditure cannot be transferred if old clause 31 would have prevented the transfer of the expenditure, in relation to the transfer year starting on 1 July 2005, from the company which actually incurred the expenditure to the company which held the receiving interest at the end of that year.
+(3)        If the starting day for the receiving project was before 1 July 2006, the expenditure cannot be transferred if old clause 31 would have prevented the transfer of the expenditure, in relation to the transfer year starting on 1 July 2005, from the company which actually incurred the expenditure to the company which held the receiving interest at the end of that year.
 
-(4)       If the starting day for the receiving project was on or after 1 July 2006, the expenditure cannot be transferred if paragraph 31(1)(a) of the old clause 31, subject to subclauses (2), (2AA), (2AB) and (2A) of that clause, did not, in relation to the transfer year starting on 1 July 2005, apply to the company which actually incurred the expenditure.
+(4)        If the starting day for the receiving project was on or after 1 July 2006, the expenditure cannot be transferred if paragraph 31(1)(a) of the old clause 31, subject to subclauses (2), (2AA), (2AB) and (2A) of that clause, did not, in relation to the transfer year starting on 1 July 2005, apply to the company which actually incurred the expenditure.
 
-(5)       If section 41 of the _Petroleum Resource Rent Tax Assessment Act 1987_ applies to the expenditure, a reference in subitem (3) or (4) to the company which actually incurred the expenditure is taken to be a reference to the company taken under paragraph 41(1)(b) of the Act to have incurred the liability for making the expenditure.
+(5)        If section 41 of the _Petroleum Resource Rent Tax Assessment Act 1987_ applies to the expenditure, a reference in subitem (3) or (4) to the company which actually incurred the expenditure is taken to be a reference to the company taken under paragraph 41(1)(b) of the Act to have incurred the liability for making the expenditure.
 
-(6)       An expression used in this item has the same meaning as in Part 6 of the Schedule to the _Petroleum Resource Rent Tax Assessment Act 1987_.
+(6)        An expression used in this item has the same meaning as in Part 6 of the Schedule to the _Petroleum Resource Rent Tax Assessment Act 1987_.
 
-(7)       In this item:
+(7)        In this item:
 
 **_new clause 31_** means clause 31 of the Schedule to the Petroleum Resource Rent Tax Assessment Act 1987, as amended by Part 1 of this Schedule.
 
@@ -7721,9 +7690,9 @@ The amendments made by Part 1 of this Schedule apply only in relation to retur
 
 ## 23  Application
 
-(1)       The amendments made by items 13, 14, 16 and 17 apply only in relation to transactions entered into on or after 1 July 2006.
+(1)        The amendments made by items 13, 14, 16 and 17 apply only in relation to transactions entered into on or after 1 July 2006.
 
-(2)       The other amendments made by this Schedule apply only in relation to returns, assessments, notices and certificates under the _Petroleum Resource Rent Tax Assessment Act 1987_ in relation to financial years that start on or after 1 July 2006.
+(2)        The other amendments made by this Schedule apply only in relation to returns, assessments, notices and certificates under the _Petroleum Resource Rent Tax Assessment Act 1987_ in relation to financial years that start on or after 1 July 2006.
 
 * * *
 
@@ -7736,7 +7705,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -7752,7 +7721,7 @@ The object of this Part is to ensure that, despite the repeals and amendments ma
 
 before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
 
-## 7  Making and amending assessments, and doing other things, in relation to past matters
+## 7  Making and amending assessments, and doing other things, in relation to past matters
 
 Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
 
@@ -7762,17 +7731,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -7790,70 +7759,4 @@ If:
 
                               (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
 
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Offshore Petroleum Amendment (Greater Sunrise) Act 2007 (No. 49, 2007)_
-
-## Schedule 1
-
-## 97  Regulations
-
-(1)       The Governor‑General may make regulations in relation to transitional matters arising out of the amendments made by this Act.
-
-(2)       The Governor‑General may make regulations making provision (including provision by way of modification or adaptation of any Act) for or in relation to matters consequential on amendments made by this Act.
-
-(3)       The Governor‑General may make regulations that:
-
-                     (a)  in the Minister’s opinion, are necessary or convenient for giving effect to any provision of the Greater Sunrise unitisation agreement; and
-
-                     (b)  are not inconsistent with any amendment made by this Act.
-
-(4)       In this item:
-
-**_Greater Sunrise unitisation agreement_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-* * *
-
-_Tax Laws Amendment (2009 Measures No. 3) Act 2009 (No. 47, 2009)_
-
-## Schedule 3
-
-## 20  Application of amendments
-
-The amendments made by this Part apply in relation to instalments and assessments of tax under the _Petroleum Resource Rent Tax Assessment Act 1987_ for years of tax that start on or after 1 July 2009.
-
-## 36  Application of amendments
-
-The amendments made by this Part apply in relation to instalments and assessments of tax under the _Petroleum Resource Rent Tax Assessment Act 1987_ for years of tax that start on or after 1 July 2008.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
- 
+                             (ii)  interest under the _Taxation (Interest on Overpayments and Earl
