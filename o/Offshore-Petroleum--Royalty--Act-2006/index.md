@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00074/Html/2f78f61e-569d-4138-96c1-7c8037aa6d8e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00855/Html/7f4c6470-d920-46ac-b356-3c5f59051dfb_files/image001.gif)
 
 # Offshore Petroleum (Royalty) Act 2006
 
 **Act No. 18 of 2006 as amended**
 
-This compilation was prepared on 6 January 2012
+This compilation was prepared on 21 October 2011
  taking into account amendments up to Act No. 110 of 2011
 
 The text of any of those amendments not in force
@@ -49,8 +49,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [15](#15).          Provisional payment of royalty
 
 [16](#16).          Adjustment of payments of royalty
-
-[16A](#16A).       Delegation by State Minister
 
 [17](#17).          Transitional provisions
 
@@ -204,8 +202,6 @@ Note:          This means, for example, that the definitions i
 
                     <a name="secondari-petroleum-product-licenc"></a>**_secondary petroleum production licence_** has the same meaning as in Schedule 4 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="state-minist"></a>**_State Minister_** means the responsible State Minister of Western Australia.
-
                     <a name="valu"></a>**_value_** has the meaning given by section 12.
 
 Note:          See also section 15, which deals with provisional value.
@@ -351,11 +347,11 @@ the Joint Authority must, by written instrument, determine the rate of royalty p
 
              (4)  Before determining the rate of royalty payable, the Joint Authority must:
 
-                     (a)  give the person an opportunity to confer with the State Minister about the rate; and
+                     (a)  give the person an opportunity to confer with the Designated Authority about the rate; and
 
-                     (b)  give the State Minister an opportunity to report to the Joint Authority about any such conferring; and
+                     (b)  give the Designated Authority an opportunity to report to the Joint Authority about any such conferring; and
 
-                     (c)  consider the State Minister’s report.
+                     (c)  consider the Designated Authority’s report.
 
              (5)  A determination under subsection (2) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
@@ -401,7 +397,7 @@ is to be read as a reference to royalty at the rate that is or was the rate of r
 
 Scope
 
-             (1)  This section applies if the State Minister is satisfied that the rate of recovery of petroleum from a well has become so reduced that, having regard to the rate or rates of royalty applicable under section 6, 7 or 8, further recovery of petroleum from that well would be uneconomic.
+             (1)  This section applies if the Designated Authority is satisfied that the rate of recovery of petroleum from a well has become so reduced that, having regard to the rate or rates of royalty applicable under section 6, 7 or 8, further recovery of petroleum from that well would be uneconomic.
 
 Reduction of royalty
 
@@ -415,33 +411,13 @@ Reduction of royalty
 
              (1)  Royalty under this Act:
 
-                     (a)  is not payable in relation to petroleum that the State Minister is satisfied was unavoidably lost before the quantity of that petroleum was ascertained; and
+                     (a)  is not payable in relation to petroleum that the Designated Authority is satisfied was unavoidably lost before the quantity of that petroleum was ascertained; and
 
-                     (b)  is not payable in relation to petroleum if:
+                     (b)  is not payable in relation to petroleum that is used by the registered holder of the petroleum exploration permit, petroleum retention lease or petroleum production licence, as approved by the Designated Authority, for the purposes of petroleum exploration operations or operations for the recovery of petroleum; and
 
-                              (i)  the State Minister is satisfied that the petroleum was used by the registered holder of the petroleum exploration permit, petroleum retention lease or petroleum production licence for the purposes of petroleum exploration operations or operations for the recovery of petroleum; and
+                     (c)  is not payable in relation to petroleum that, with the approval of the Designated Authority, is flared or vented in connection with operations for the recovery of petroleum.
 
-                             (ii)  the use did not contravene the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ or regulations under that Act; and
-
-                     (c)  is not payable in relation to petroleum if:
-
-                              (i)  the State Minister is satisfied that the petroleum has been flared or vented in connection with operations for the recovery of petroleum; and
-
-                             (ii)  the flaring or venting did not contravene the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ or regulations under that Act.
-
-             (2)  If petroleum has been recovered by the registered holder of:
-
-                     (a)  a petroleum exploration permit; or
-
-                     (b)  a petroleum retention lease; or
-
-                     (c)  a petroleum production licence;
-
-royalty under this Act is not payable in relation to the petroleum because of that recovery if:
-
-                     (d)  the State Minister is satisfied that the petroleum has been returned to a natural reservoir; and
-
-                     (e)  the return of the petroleum to the reservoir did not contravene the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ or regulations under that Act.
+             (2)  If petroleum that has been recovered by the registered holder of a petroleum exploration permit, petroleum retention lease or petroleum production licence is, with the approval of the Designated Authority, returned to a natural reservoir, royalty under this Act is not payable in relation to that petroleum because of that recovery.
 
              (3)  Subsection (2) does not affect the liability of that or any other registered holder to pay royalty in relation to petroleum that is recovered from that natural reservoir.
 
@@ -453,9 +429,9 @@ royalty under this Act is not payable in relation to the petroleum because of th
 
                               (i)  the registered holder of the petroleum exploration permit, petroleum retention lease or petroleum production licence; and
 
-                             (ii)  the State Minister; or
+                             (ii)  the Designated Authority; or
 
-                     (b)  if there is no agreement within such period as the State Minister allows—such valve station as the State Minister determines to be that wellhead.
+                     (b)  if there is no agreement within such period as the Designated Authority allows—such valve station as the Designated Authority determines to be that wellhead.
 
 ##### <a id="12"></a>12  Meaning of _value_
 
@@ -465,9 +441,9 @@ royalty under this Act is not payable in relation to the petroleum because of th
 
                               (i)  the registered holder of the petroleum exploration permit, petroleum retention lease or petroleum production licence; and
 
-                             (ii)  the State Minister; or
+                             (ii)  the Designated Authority; or
 
-                     (b)  if there is no agreement within such period as the State Minister allows—such amount as the State Minister determines to be that value.
+                     (b)  if there is no agreement within such period as the Designated Authority allows—such amount as the Designated Authority determines to be that value.
 
 ##### <a id="13"></a>13  Quantity of petroleum recovered
 
@@ -475,31 +451,31 @@ royalty under this Act is not payable in relation to the petroleum because of th
 
                      (a)  the quantity measured during that period by a measuring device:
 
-                              (i)  approved by the State Minister; and
+                              (i)  approved by the Designated Authority; and
 
-                             (ii)  installed at the wellhead or at such other place as the State Minister approves; or
+                             (ii)  installed at the wellhead or at such other place as the Designated Authority approves; or
 
                      (b)  if:
 
                               (i)  no such measuring device is so installed; or
 
-                             (ii)  the State Minister or the Joint Authority is not satisfied that the quantity of petroleum recovered by the registered holder from that well has been properly or accurately measured by such a measuring device;
+                             (ii)  the Designated Authority or the Joint Authority is not satisfied that the quantity of petroleum recovered by the registered holder from that well has been properly or accurately measured by such a measuring device;
 
-                            the quantity determined by the State Minister as being the quantity recovered by the registered holder from that well during that period.
+                            the quantity determined by the Designated Authority as being the quantity recovered by the registered holder from that well during that period.
 
 ##### <a id="14"></a>14  Directions by Joint Authority
 
-             (1)  The Joint Authority must give directions to the State Minister about the manner in which the State Minister is to exercise the powers conferred by sections 11, 12 and 13.
+             (1)  The Joint Authority must give directions to the Designated Authority about the manner in which the Designated Authority is to exercise the powers conferred by sections 11, 12 and 13.
 
              (2)  A direction under subsection (1) must relate to a particular petroleum exploration permit, petroleum retention lease or petroleum production licence.
 
-             (3)  The State Minister must comply with a direction under subsection (1).
+             (3)  The Designated Authority must comply with a direction under subsection (1).
 
              (4)  A direction under subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
 ##### <a id="15"></a>15  Provisional payment of royalty
 
-             (1)  If, in relation to petroleum recovered during a royalty period, the value of the petroleum has not been agreed or determined under section 12, the State Minister may determine a provisional value.
+             (1)  If, in relation to petroleum recovered during a royalty period, the value of the petroleum has not been agreed or determined under section 12, the Designated Authority may determine a provisional value.
 
              (2)  If:
 
@@ -556,10 +532,6 @@ Definitions
                               (i)  calculation of royalty due; or
 
                              (ii)  application of a procedure for ascertaining the value of the petroleum.
-
-##### <a id="16A"></a>16A  Delegation by State Minister
-
-                   The State Minister may, by written instrument, delegate to an employee of Western Australia any or all of the powers or functions of the State Minister under this Act.
 
 ##### <a id="17"></a>17  Transitional provisions
 
@@ -689,7 +661,7 @@ of Assent</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Ss. 3–17 and Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1)) 
+    <div>Ss. 3–17 and Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -710,10 +682,10 @@ Remainder: Royal Assent</div>
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 44A–44C, 45, 45A, 46–57): <i>(a) 
+    <div>Schedule 2 (items 44A–44C, 45, 45A, 46–57): <i>(a) 
  </i>Schedule 3 (items 31A, 
 31D–31F): 22 Nov 2008 
-Schedule 4 (items 5A–5C): <i>(a)</i></div>
+Schedule 4 (items 5A–5C): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -733,7 +705,7 @@ Schedule 4 (items 5A–5C): <i>(a)</i></div>
     <div>8 Oct 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 67): 9 Oct 2009</div>
+    <div>Schedule 1 (item 67): 9 Oct 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -753,11 +725,11 @@ Schedule 4 (items 5A–5C): <i>(a)</i></div>
     <div>14 Oct 2011</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Jan 2012 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1: \[ <i>see</i>s. 2(1), Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 4–6)</div>
+    <div>Sch. 1 (items 4–6)</div>
   </td>
   <td>
     <div></div>
@@ -955,7 +927,7 @@ _(a)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 117, 2008; No. 110, 2011</div>
+    <div>am. No. 117, 2008</div>
   </td>
 </tr>
 <tr>
@@ -987,7 +959,7 @@ _(a)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 117, 2008; No. 110, 2011</div>
+    <div>am. No. 117, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1024,34 +996,10 @@ _(a)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
 </tr>
 <tr>
   <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 10–14</div>
   </td>
   <td>
-    <div>am. No. 117, 2008; No. 110, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16A</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2011</div>
+    <div>am. No. 117, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1071,11 +1019,107 @@ _(a)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
   </td>
 </tr></table>
 
+### Note 2
+
+_Offshore Petroleum (Royalty) Amendment Act 2011 (No. 110, 2011)_
+
+The following amendments commence at the same time as Part 1 of Schedule 2 to the _Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011_:
+
+## Schedule 1
+
+## 1A  Section 4
+
+Insert:
+
+                    <a name="state-minist"></a>**_State Minister_** means the responsible State Minister of Western Australia.
+
+## 1  Paragraphs 6(4)(a) and (b)
+
+Omit “Designated Authority”, substitute “State Minister”.
+
+## 2  Paragraph 6(4)(c)
+
+Omit “Designated Authority’s”, substitute “State Minister’s”.
+
+## 3  Subsection 9(1)
+
+Omit “Designated Authority”, substitute “State Minister”.
+
+## 3A  Paragraph 10(1)(a)
+
+Omit “Designated Authority”, substitute “State Minister”.
+
+## 3B  Paragraphs 10(1)(b) and (c)
+
+Repeal the paragraphs, substitute:
+
+                     (b)  is not payable in relation to petroleum if:
+
+                              (i)  the State Minister is satisfied that the petroleum was used by the registered holder of the petroleum exploration permit, petroleum retention lease or petroleum production licence for the purposes of petroleum exploration operations or operations for the recovery of petroleum; and
+
+                             (ii)  the use did not contravene the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ or regulations under that Act; and
+
+                     (c)  is not payable in relation to petroleum if:
+
+                              (i)  the State Minister is satisfied that the petroleum has been flared or vented in connection with operations for the recovery of petroleum; and
+
+                             (ii)  the flaring or venting did not contravene the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ or regulations under that Act.
+
+## 3C  Subsection 10(2)
+
+Repeal the subsection, substitute:
+
+             (2)  If petroleum has been recovered by the registered holder of:
+
+                     (a)  a petroleum exploration permit; or
+
+                     (b)  a petroleum retention lease; or
+
+                     (c)  a petroleum production licence;
+
+royalty under this Act is not payable in relation to the petroleum because of that recovery if:
+
+                     (d)  the State Minister is satisfied that the petroleum has been returned to a natural reservoir; and
+
+                     (e)  the return of the petroleum to the reservoir did not contravene the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ or regulations under that Act.
+
+## 3D  Section 11
+
+Omit “Designated Authority” (wherever occurring), substitute “State Minister”.
+
+## 3E  Section 12
+
+Omit “Designated Authority” (wherever occurring), substitute “State Minister”.
+
+## 3F  Section 13
+
+Omit “Designated Authority” (wherever occurring), substitute “State Minister”.
+
+## 3G  Section 14
+
+Omit “Designated Authority” (wherever occurring), substitute “State Minister”.
+
+## 3H  Subsection 15(1)
+
+Omit “Designated Authority”, substitute “State Minister”.
+
+## 3J  After section 16
+
+Insert:
+
+##### <a id="16A"></a>16A  Delegation by State Minister
+
+                   The State Minister may, by written instrument, delegate to an employee of Western Australia any or all of the powers or functions of the State Minister under this Act.
+
+As at 21 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Offshore Petroleum (Royalty) Amendment Act 2011 (No. 110, 2011)_
+
+The following provisions commence at the same time as Part 1 of Schedule 2 to the _Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011_:
 
 ## Schedule 1
 
