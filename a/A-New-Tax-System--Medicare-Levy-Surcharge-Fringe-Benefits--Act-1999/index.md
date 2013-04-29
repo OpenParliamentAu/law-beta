@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image001.gif)
 
 # A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999
 
 **Act No. 18 of 1999 as amended**
 
-This compilation was prepared on 29 June 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 13 July 2010
+ taking into account amendments up to Act No. 78 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -100,7 +99,7 @@ Note:          For limited purposes, sections 12, 13 and 14 
 
                     <a name="report-fring-benefit-total"></a>**_reportable fringe benefits total_** has the same meaning as in the _Fringe Benefits Tax Assessment Act 1986_.
 
-                    <a name="resid-australia"></a>**_resident of Australia_** has the meaning given by section 10.
+                    <a name="australia"></a><a name="resid"></a>**_resident of_****_Australia_** has the meaning given by section 10.
 
                     <a name="singl-surcharg-threshold"></a>**_singles surcharge threshold_** for a person for a year of income has the meaning given by section 5A.
 
@@ -144,13 +143,13 @@ Note:          For limited purposes, sections 12, 13 and 14 
 
 ##### <a id="5A"></a>5A  What is the _singles surcharge threshold_?
 
-             (1)  The **_singles surcharge threshold_** for a person for the 2008‑09 year of income is $70,000\. This amount is indexed annually.
+             (1)  The **_singles surcharge threshold_** for a person for the 2008-09 year of income is $70,000\. This amount is indexed annually.
 
 Indexation of singles surcharge threshold
 
              (2)  The amount of the singles surcharge threshold is indexed annually by:
 
-                     (a)  multiplying the singles surcharge threshold for the 2008‑09 year of income by its indexation factor; and
+                     (a)  multiplying the singles surcharge threshold for the 2008-09 year of income by its indexation factor; and
 
                      (b)  rounding the result in paragraph (a) down to the nearest multiple of $1,000.
 
@@ -158,11 +157,11 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
-             (6)  The **_index number_** for a quarter is the estimate of full‑time adult average weekly ordinary time earnings for the middle month of the quarter first published by the Australian Statistician for that month.
+             (6)  The **_index number_** for a quarter is the estimate of full-time adult average weekly ordinary time earnings for the middle month of the quarter first published by the Australian Statistician for that month.
 
 ##### <a id="6"></a>6  What is the _family surcharge threshold_?
 
@@ -174,11 +173,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image003.gif)
 
-Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008‑09 year of income is:
+Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008-09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image004.gif)
 
 ##### <a id="7"></a>7  When are people _married_?
 
@@ -218,19 +217,19 @@ Surcharge imposed on reportable fringe benefits total
 
              (1)  Medicare levy surcharge is imposed on the reportable fringe benefits total for a year of income of a person who is a resident of Australia at any time during the year of income.
 
-Note:          Subdivision 61‑L (tax offset for Medicare levy surcharge (lump sum payments in arrears)) of the _Income Tax Assessment Act 1997_ might provide a tax offset for a person if Medicare levy surcharge is payable by the person.
+Note:          Subdivision 61-L (tax offset for Medicare levy surcharge (lump sum payments in arrears)) of the _Income Tax Assessment Act 1997_ might provide a tax offset for a person if Medicare levy surcharge is payable by the person.
 
-Who is a **resident of Australia**—general rule
+Who is a **resident of****Australia**—general rule
 
-             (2)  A person is a **_resident of Australia_** if he or she is a resident of Australia as defined in subsection 6(1) of the Assessment Act.
+             (2)  A person is a **_resident of_****_Australia_** if he or she is a resident of Australia as defined in subsection 6(1) of the Assessment Act.
 
 Exception for Norfolk Island
 
              (3)  However, a person is not a **_resident of Australia_** for the purposes of this Act if he or she is a resident of Australia as defined in subsection 6(1) of the Assessment Act merely because subsection 7A(2) of that Act treats Norfolk Island as part of Australia.
 
-Application: 1999‑2000 year of income onwards
+Application: 1999-2000 year of income onwards
 
-             (4)  Subsection (1) applies to the 1999‑2000 year of income and later years of income.
+             (4)  Subsection (1) applies to the 1999-2000 year of income and later years of income.
 
 ## Part 3—Amount of surcharge payable
 
@@ -264,7 +263,7 @@ General rule
 
              (3)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image005.gif)
 
 ### Division 3—Amount of surcharge for single person with dependants
 
@@ -316,7 +315,7 @@ Amount of surcharge payable for part of year
 
              (4)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image006.gif)
 
 ### Division 4—Amount of surcharge for married person
 
@@ -364,7 +363,7 @@ When this section applies
 
                      (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family surcharge threshold for the year of income; and
 
-                     (c)  the person’s income for surcharge purposes for the year of income exceeds $18,839.
+                     (c)  the person’s income for surcharge purposes for the year of income exceeds $18,488.
 
 Special rule if person’s spouse is a presently entitled beneficiary in a trust estate
 
@@ -372,7 +371,7 @@ Special rule if person’s spouse is a presently entitled beneficiary in a trust
 
                      (a)  the spouse’s income for surcharge purposes included that share; and
 
-                     (b)  subsection 271‑105(1) in Schedule 2F to that Act did not apply in working out the net income of the trust estate.
+                     (b)  subsection 271-105(1) in Schedule 2F to that Act did not apply in working out the net income of the trust estate.
 
 ##### <a id="16"></a>16  Amount of surcharge if this Division applies for part of the year
 
@@ -392,7 +391,7 @@ Person married for whole year of income
 
                      (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family surcharge threshold for the year of income; and
 
-                     (c)  the person’s income for surcharge purposes for the year of income exceeds $18,839.
+                     (c)  the person’s income for surcharge purposes for the year of income exceeds $18,488.
 
 Person married for part of the year of income
 
@@ -406,7 +405,7 @@ Amount of surcharge
 
              (4)  The amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00489/Html/ef613cf8-e047-40f1-8ce0-f017eb9eecb5_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image007.gif)
 
 where:
 
@@ -418,7 +417,7 @@ Special rule if person’s spouse is a presently entitled beneficiary in a trust
 
                      (a)  the spouse’s income for surcharge purposes included that share; and
 
-                     (b)  subsection 271‑105(1) in Schedule 2F to that Act did not apply in working out the net income of the trust estate.
+                     (b)  subsection 271-105(1) in Schedule 2F to that Act did not apply in working out the net income of the trust estate.
 
 # Notes to the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_
 
@@ -505,7 +504,7 @@ of Assent</div>
     <div>30 May 2000</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): Royal Assent</div>
+    <div>30 May 2000</div>
   </td>
   <td>
     <div>Sch. 1 (item 2)</div>
@@ -522,7 +521,7 @@ of Assent</div>
     <div>28 June 2000</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1–3, 6): Royal Assent</div>
+    <div>28 June 2000</div>
   </td>
   <td>
     <div>Sch. 3 (item 6)</div>
@@ -539,7 +538,7 @@ of Assent</div>
     <div>22 Mar 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): Royal Assent</div>
+    <div>22 Mar 2001</div>
   </td>
   <td>
     <div>Sch. 1 (item 2)</div>
@@ -556,7 +555,7 @@ of Assent</div>
     <div>26 June 2002</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2, 15): Royal Assent</div>
+    <div>26 June 2002</div>
   </td>
   <td>
     <div>Sch. 1 (item 15)</div>
@@ -590,7 +589,7 @@ of Assent</div>
     <div>27 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 3 (items 11, 12): 1 July 2004 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (items 11, 12): 1 July 2004 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -607,11 +606,11 @@ of Assent</div>
     <div>25 June 2004</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 1, 2): Royal Assent</div>
+    <div>25 June 2004</div>
   </td>
   <td>
     <div>S. 4 
-S. 5 (rep. by 75, 2010, Sch. 6 \[item 116])</div>
+S. 5 (rep. by 75, 2010, Sch. 6 \[item 116])</div>
   </td>
 </tr>
 <tr>
@@ -659,11 +658,11 @@ S. 5 (rep. by 75, 2010, Sch. 6 \[item 116])</div>
     <div>26 June 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 13): Royal Assent</div>
+    <div>26 June 2005</div>
   </td>
   <td>
     <div>Sch. 1 (item 13) 
-S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
+S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
   </td>
 </tr>
 <tr>
@@ -711,7 +710,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>22 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 13): Royal Assent</div>
+    <div>22 June 2006</div>
   </td>
   <td>
     <div>Sch. 1 (item 13)</div>
@@ -780,7 +779,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>21 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 14, 26): Royal Assent</div>
+    <div>21 June 2007</div>
   </td>
   <td>
     <div>Sch.1 (item 26)</div>
@@ -797,7 +796,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>25 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 13): Royal Assent</div>
+    <div>Schedule 1 (items 1, 13): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 13)</div>
@@ -814,7 +813,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>31 Oct 2008</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 1–5, 11, 12): Royal Assent</div>
+    <div>31 Oct 2008</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (items 11, 12)</div>
@@ -822,7 +821,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -865,7 +864,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>23 June 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 13): Royal Assent</div>
+    <div>Schedule 1 (items 1, 13): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 13)</div>
@@ -886,40 +885,6 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
   </td>
   <td>
     <div>Sch. 1 (item 13)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2011</div>
-  </td>
-  <td>
-    <div>44, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 13): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 13)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 65) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1214,23 +1179,9 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Ss. 15, 16</div>
   </td>
   <td>
-    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011</div>
+    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 65  Paragraph 7(1)(a)
-
-Omit “section 22B”, substitute “section 2E”.
-
-As at 29 June 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -1242,7 +1193,7 @@ _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Amendment Act 2000
 
 ## 5  Application
 
-The amendments made by this Schedule apply to assessments for the 1999‑2000 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 1999-2000 year of income and later years of income.
 
 * * *
 
@@ -1252,7 +1203,7 @@ _Medicare Levy Amendment (CPI Indexation) Act 2000 (No. 54, 2000)_
 
 ## 2  Application
 
-The amendments of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_ made by this Schedule apply to assessments for the 1999‑2000 year of income and later years of income.
+The amendments of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_ made by this Schedule apply to assessments for the 1999-2000 year of income and later years of income.
 
 * * *
 
@@ -1266,14 +1217,13 @@ The amendments made by this Schedule apply for the purposes of working out Medic
 
 * * *
 
-_Medicare Levy Amendment (CPI Indexation) Act (No. 1) 2001 
- (No. 12, 2001)_
+_Medicare Levy Amendment (CPI Indexation) Act (No. 1) 2001 (No. 12, 2001)_
 
 ## Schedule 1
 
 ## 2  Application
 
-The amendments of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_ made by this Part apply to assessments for the 2000‑2001 year of income and later years of income.
+The amendments of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_ made by this Part apply to assessments for the 2000-2001 year of income and later years of income.
 
 * * *
 
@@ -1283,7 +1233,7 @@ _Taxation Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2002 (N
 
 ## 15  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2001‑2002 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2001-2002 year of income and later years of income.
 
 * * *
 
@@ -1293,7 +1243,7 @@ _Taxation Laws Amendment Act (No. 6) 2003 (No. 67, 2003)_
 
 ## 15  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2002‑2003 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2002-2003 year of income and later years of income.
 
 * * *
 
@@ -1301,7 +1251,7 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2004 (No. 
 
 ##### <a id="4"></a>4  Application of amendments
 
-                   The amendments made by Schedule 1 apply to assessments for the 2003‑2004 year of income and later years of income.
+                   The amendments made by Schedule 1 apply to assessments for the 2003-2004 year of income and later years of income.
 
 * * *
 
@@ -1311,7 +1261,7 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2005 (No. 
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2004‑2005 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2004-2005 year of income and later years of income.
 
 * * *
 
@@ -1321,7 +1271,7 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2006 (No. 
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2005‑2006 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2005-2006 year of income and later years of income.
 
 * * *
 
@@ -1332,11 +1282,11 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 406  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
 
-(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
@@ -1350,21 +1300,23 @@ _Tax Laws Amendment (2007 Budget Measures) Act 2007 (No. 75, 2007)_
 
 ## 26  Application of amendments
 
-The amendments made by this Part apply to assessments for the 2006‑2007 year of income and later years of income.
+The amendments made by this Part apply to assessments for the 2006-2007 year of income and later years of income.
 
 * * *
 
-_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2008 (No. 50, 2008)_
+_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2008
+ (No. 50, 2008)_
 
 ## Schedule 1
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2007‑08 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2007-08 year of income and later years of income.
 
 * * *
 
-_Tax Laws Amendment (Medicare Levy Surcharge Thresholds) Act (No. 2) 2008 (No. 110, 2008)_
+_Tax Laws Amendment (Medicare Levy Surcharge Thresholds) Act (No. 2) 2008 
+ (No. 110, 2008)_
 
 ##### 4  Review of operation of Act
 
@@ -1378,15 +1330,15 @@ _Tax Laws Amendment (Medicare Levy Surcharge Thresholds) Act (No. 2) 2008 (No.
 
 ## 11  Application
 
-The amendments made by this Schedule apply to assessments for the 2008‑09 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2008-09 year of income and later years of income.
 
 ## 12  Transitional
 
-(1)       In this item:
+(1)        In this item:
 
 **_new Act_** means the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_, and the _Medicare Levy Act 1986_, as amended by this Schedule.
 
-(2)       For the purposes of the new Acts, if:
+(2)        For the purposes of the new Acts, if:
 
                      (a)  a person is covered by an insurance policy that provides private patient hospital cover; and
 
@@ -1402,13 +1354,13 @@ _Note:       For this purpose, a person includes a dependant of anot
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 14
 
 ## 2  Application of amendment of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_
 
-The amendment of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_ made by this Schedule applies to the 2009‑2010 year of income and later years of income.
+The amendment of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_ made by this Schedule applies to the 2009-2010 year of income and later years of income.
 
 * * *
 
@@ -1418,7 +1370,7 @@ _Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
 
 ## 102  Application
 
-(1)       The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
+(1)        The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
 
 * * *
 
@@ -1428,7 +1380,7 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2009 (No. 
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2008‑09 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2008-09 year of income and later years of income.
 
 * * *
 
@@ -1438,32 +1390,6 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2010 (No.�
 
 ## 13  Application of amendments
 
-The amendments made by this Schedule apply to assessments for the 2009‑10 year of income and later years of income.
-
-* * *
-
-_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2011 (No. 44, 2011)_
-
-## Schedule 1
-
-## 13  Application of amendments
-
-The amendments made by this Schedule apply to assessments for the 2010‑11 year of income and later years of income.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+The amendments made by this Schedule apply to assessments for the 2009-10 year of income and later years of income.
 
  
