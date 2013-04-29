@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00487/Html/d73aaf8f-6002-419b-9ccf-7ff1dc8e0246_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00485/Html/59c78590-16e9-4868-bff1-ffb8a3632b71_files/image001.gif)
 
 # Family Law Act 1975
 
 **Act No. 53 of 1975 as amended**
 
-This compilation was prepared on 7 June 2012
+This compilation was prepared on 5 June 2012
  taking into account amendments up to Act No. 32 of 2012
 
 The text of any of those amendments not in force 
@@ -29,8 +29,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [4](#4).            Interpretation
 
 [4AA](#4AA).      De facto relationships
-
-[4AB](#4AB).      Definition of _family violence_ etc 
 
 [4A](#4A).         Third party proceedings to set aside financial agreement
 
@@ -406,7 +404,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [60C](#60C).       Outline of Part
 
-        **Subdivision BA—Best interests of the child: court proceedings**
+        **Subdivision BA—Best interests of the child**
 
 [60CA](#60CA).    Child’s best interests paramount consideration in making a parenting order
 
@@ -421,14 +419,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [60CF](#60CF).     Informing court of relevant family violence orders
 
 [60CG](#60CG).    Court to consider risk of family violence
-
-[60CH](#60CH).    Informing court of care arrangements under child welfare laws
-
-[60CI](#60CI).      Informing court of notifications to, and investigations by, prescribed State or Territory agencies
-
-        **Subdivision BB—Best interests of the child: adviser’s obligations**
-
-[60D](#60D).       Adviser’s obligations in relation to best interests of the child
 
         **Subdivision C—Interpretation and application of Part**
 
@@ -453,6 +443,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [60I](#60I).         Attending family dispute resolution before applying for Part VII order
 
 [60J](#60J).        Family dispute resolution not attended because of child abuse or family violence
+
+[60K](#60K).       Court to take prompt action in relation to allegations of child abuse or family violence
 
     **Division 2—Parental responsibility**
 
@@ -716,17 +708,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [67Y](#67Y).       Obligation to notify persons of child’s return
 
-        **Subdivision D—Allegations of child abuse and family violence**
+        **Subdivision D—Allegations of child abuse**
 
-[67Z](#67Z).        Where interested person makes allegation of child abuse
+[67Z](#67Z).        Where party to proceedings makes allegation of child abuse
 
 [67ZA](#67ZA).     Where member of the Court personnel, family counsellor, family dispute resolution practitioner or arbitrator suspects child abuse etc 
 
 [67ZB](#67ZB).     No liability for notification under section 67Z or 67ZA
-
-[67ZBA](#67ZBA).  Where interested person makes allegation of family violence
-
-[67ZBB](#67ZBB).  Court to take prompt action in relation to allegations of child abuse or family violence
 
         **Subdivision E—Other orders about children**
 
@@ -958,7 +946,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [70NEC](#70NEC).  Bonds
 
-70NECA  Procedure for enforcing bonds
+70NECAProcedure for enforcing bonds
 
 [70NED](#70NED).  Duties of provider of post‑separation parenting program
 
@@ -1392,8 +1380,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [96](#96).          Appeals from courts of summary jurisdiction
 
-[96AA](#96AA).    Appeal may be dismissed if no reasonable prospect of 
- success
+[96AA](#96AA).    Appeal may be dismissed if no reasonable prospect of success
 
 [96A](#96A).       Part does not apply to section 111C jurisdiction
 
@@ -1663,6 +1650,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [117AA](#117AA).  Costs in proceedings relating to overseas enforcement and international Conventions
 
+[117AB](#117AB).  Costs where false allegation or statement made
+
 [117AC](#117AC).  Security for costs
 
 [117A](#117A).     Reparation for certain losses and expenses relating to children
@@ -1757,13 +1746,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="abus"></a>**_abuse_**, in relation to a child, means:
 
-                     (a)  an assault, including a sexual assault, of the child; or
+                     (a)  an assault, including a sexual assault, of the child which is an offence under a law, written or unwritten, in force in the State or Territory in which the act constituting the assault occurs; or
 
-                     (b)  a person (the **_first person_**) involving the child in a sexual activity with the first person or another person in which the child is used, directly or indirectly, as a sexual object by the first person or the other person, and where there is unequal power in the relationship between the child and the first person; or
-
-                     (c)  causing the child to suffer serious psychological harm, including (but not limited to) when that harm is caused by the child being subjected to, or exposed to, family violence; or
-
-                     (d)  serious neglect of the child.
+                     (b)  a person involving the child in a sexual activity with that person or another person in which the child is used, directly or indirectly, as a sexual object by the first‑mentioned person or the other person, and where there is unequal power in the relationship between the child and the first‑mentioned person.
 
                     <a name="accredit-rule"></a>**_Accreditation Rules_** means regulations made under section 10A.
 
@@ -1991,8 +1976,6 @@ Note:          Annulment does not involve the termination of a
 
                             (iii)  no other person appeared at the hearing of the application.
 
-                    <a name="exposed"></a>**_exposed_** to family violence, in relation to a child, has the meaning given by subsection 4AB(3).
-
                     <a name="famili-consult"></a>**_family consultant_** has the meaning given by section 11B.
 
                     <a name="famili-counsel"></a>**_family counselling_** has the meaning given by section 10B.
@@ -2009,7 +1992,9 @@ Note:          Annulment does not involve the termination of a
 
                      (b)  as the Principal Registrar, or as a Registrar, of the Family Court of Western Australia.
 
-                    <a name="famili-violenc"></a>**_family violence_** has the meaning given by subsection 4AB(1).
+                    <a name="famili-violenc"></a>**_family violence_** means conduct, whether actual or threatened, by a person towards, or towards the property of, a member of the person’s family that causes that or any other member of the person’s family reasonably to fear for, or reasonably to be apprehensive about, his or her personal wellbeing or safety.
+
+Note:          A person reasonably fears for, or reasonably is apprehensive about, his or her personal wellbeing or safety in particular circumstances if a reasonable person in those circumstances would fear for, or be apprehensive about, his or her personal wellbeing or safety.
 
                     <a name="famili-violenc-order"></a>**_family violence order_** means an order (including an interim order) made under a prescribed law of a State or Territory to protect a person from family violence.
 
@@ -2189,9 +2174,7 @@ To avoid doubt, a decision by a parent of a child to form a relationship with a 
 
                     <a name="mical-practition"></a>**_medical practitioner_** means a person registered or licensed as a medical practitioner under a law of a State or Territory that provides for the registration or licensing of medical practitioners.
 
-                    <a name="member-famili"></a>**_member of the family_** has the meaning given by subsection (1AB).
-
-Note:          The definition in subsection (1AB) applies for the purposes of the provisions specified in that subsection.
+                    <a name="step-parent"></a><a name="member-famili"></a>**_member of the family_**, in relation to a person, has, for the purposes of the definition of **_step‑parent_**, paragraphs 60CC(3)(j) and (k) and section 60CF, the meaning given by subsection (1AB) of this section.
 
                     <a name="de-facto-financi-law"></a><a name="state"></a><a name="non-refer"></a>**_non‑referring_****_State_****_de facto financial law_** means a law that:
 
@@ -2425,7 +2408,7 @@ Note:          Section 4C provides for different proceeds of
 
                     <a name="registri-manag"></a>**_Registry Manager_**:
 
-                     (a)  except in Subdivision C of Division 8 of Part VII and sections 67Z and 67ZBA, means:
+                     (a)  except in Subdivision C of Division 8 of Part VII and section 67Z, means:
 
                               (i)  in relation to the Family Court—the Registry Manager of a Registry of the Court; and
 
@@ -2553,13 +2536,11 @@ but does not include any other external Territory.
 
        (1AB)  For the purposes of:
 
-                     (a)  the definition of **_step‑parent_** in subsection (1); and
-
-                    (aa)  section 4AB; and
+                     (a)  the definitions of **_family violence_** and **_step‑parent_** in subsection (1); and
 
                      (b)  paragraphs 60CC(3)(j) and (k); and
 
-                     (c)  sections 60CF, 60CH and 60CI;
+                     (c)  section 60CF;
 
 a person (the **_first person_**) is a **_member of the family_** of another person (the **_second person_**) if:
 
@@ -2696,46 +2677,6 @@ When 2 persons are related by family
                      (c)  they have a parent in common (who may be an adoptive parent of either or both of them).
 
 For this purpose, disregard whether an adoption is declared void or has ceased to have effect.
-
-##### <a id="4AB"></a>4AB  Definition of _family violence_ etc.
-
-             (1)  For the purposes of this Act, **_family violence_** means violent, threatening or other behaviour by a person that coerces or controls a member of the person’s family (the **_family member_**), or causes the family member to be fearful.
-
-             (2)  Examples of behaviour that may constitute family violence include (but are not limited to):
-
-                     (a)  an assault; or
-
-                     (b)  a sexual assault or other sexually abusive behaviour; or
-
-                     (c)  stalking; or
-
-                     (d)  repeated derogatory taunts; or
-
-                     (e)  intentionally damaging or destroying property; or
-
-                      (f)  intentionally causing death or injury to an animal; or
-
-                     (g)  unreasonably denying the family member the financial autonomy that he or she would otherwise have had; or
-
-                     (h)  unreasonably withholding financial support needed to meet the reasonable living expenses of the family member, or his or her child, at a time when the family member is entirely or predominantly dependent on the person for financial support; or
-
-                      (i)  preventing the family member from making or keeping connections with his or her family, friends or culture; or
-
-                      (j)  unlawfully depriving the family member, or any member of the family member’s family, of his or her liberty.
-
-             (3)  For the purposes of this Act, a child is **_exposed_** to family violence if the child sees or hears family violence or otherwise experiences the effects of family violence.
-
-             (4)  Examples of situations that may constitute a child being exposed to family violence include (but are not limited to) the child:
-
-                     (a)  overhearing threats of death or personal injury by a member of the child’s family towards another member of the child’s family; or
-
-                     (b)  seeing or hearing an assault of a member of the child’s family by another member of the child’s family; or
-
-                     (c)  comforting or providing assistance to a member of the child’s family who has been assaulted by another member of the child’s family; or
-
-                     (d)  cleaning up a site after a member of the child’s family has intentionally damaged property of another member of the child’s family; or
-
-                     (e)  being present when police or ambulance officers attend an incident involving the assault of a member of the child’s family by another member of the child’s family.
 
 ##### <a id="4A"></a>4A  Third party proceedings to set aside financial agreement
 
@@ -3547,7 +3488,7 @@ must give the person documents containing the information prescribed under secti
 
              (3)  A legal practitioner representing a party in proceedings under Part VII must give the party documents containing the information prescribed under section 12D (about Part VII proceedings).
 
-Note:          For other obligations of legal practitioners in relation to Part VII matters, see sections 60D and 63DA.
+Note:          Section 63DA also imposes information‑giving obligations on legal practitioners dealing with people involved in Part VII proceedings.
 
              (4)  A legal practitioner does not have to comply with subsection (1), (2) or (3) if the practitioner has reasonable grounds to believe that the person has already been given documents containing the prescribed information mentioned in that subsection.
 
@@ -3579,7 +3520,7 @@ Note:          See subsection 4(1AA) for people who are taken 
 
 must give the married person (and in appropriate cases, that person’s spouse) documents containing the information prescribed under 12C (about reconciliation).
 
-Note:          For other obligations of family counsellors and family dispute resolution practitioners in relation to Part VII matters, see sections 60D and 63DA. Those sections do not apply to arbitrators.
+Note:          Section 63DA also imposes information‑giving obligations on family counsellors and family dispute resolution practitioners (not arbitrators) dealing with people involved in Part VII proceedings.
 
              (2)  A family counsellor, family dispute resolution practitioner or arbitrator does not have to comply with subsection (1), if he or she:
 
@@ -3961,7 +3902,7 @@ the Deputy Chief Judge or, if the Deputy Chief Judge is unavailable, the next se
 
              (2)  A Judge who is, under subsection (1), performing the duties and exercising the powers of the Chief Judge shall be called the Acting Chief Justice of the Court.
 
-##### <a id="25"></a>25  Salary and allowances
+##### <a id="25"></a>25  Salary and Allowances
 
              (1)  The Chief Judge, Deputy Chief Judge, Judge Administrators, Judges assigned to the Appeal Division, Senior Judges and other Judges of the Court shall receive salary, annual allowances and travelling allowances at such respective rates as are fixed from time to time by the Parliament.
 
@@ -4057,7 +3998,7 @@ a Judge may, on application by a person who would be a party to the proceedings 
 
              (3)  Where an application is made to a Judge under subsection (2) seeking an order that, in a particular case, a power be exercised by a Judge, the Judicial Registrar shall not commence to exercise the power in that case until the application has been determined.
 
-##### <a id="26E"></a>26E  Application of the _Legislative Instruments Act 2003_ to rules of court
+##### <a id="26E"></a>26E  Application of the _Legislative Instruments Act 2003_ to rules of court
 
                    The _Legislative Instruments Act 2003_ (other than sections 5, 6, 7, 10, 11 and 16 of that Act) applies in relation to rules of court made under sections 26B and 26C of this Act:
 
@@ -5081,7 +5022,7 @@ Note:          Subdivision D of Division 4 of Part XIIIAA 
 
                      (c)  the need to protect the rights of children and to promote their welfare;
 
-                    (ca)  the need to ensure protection from family violence; and
+                    (ca)  the need to ensure safety from family violence; and
 
                      (d)  the means available for assisting parties to a marriage to consider reconciliation or the improvement of their relationship to each other and to their children.
 
@@ -5533,10 +5474,6 @@ whichever is the later.
 
                      (a)  a statement of the object of this Part and the principles underlying it, and an outline of this Part (Subdivision B); and
 
-                    (aa)  provisions dealing with the best interests of the child in court proceedings (Subdivision BA); and
-
-                   (ab)  provisions dealing with an adviser’s obligations in relation to the best interests of the child (Subdivision BB); and
-
                      (b)  provisions relevant to the interpretation and application of this Part (Subdivision C); and
 
                      (c)  provisions relevant to how this Act applies to certain children (Subdivision D); and
@@ -5581,10 +5518,6 @@ Note:          The extension and application of this Part is a
 
                              (ii)  to develop a positive appreciation of that culture.
 
-             (4)  An additional object of this Part is to give effect to the Convention on the Rights of the Child done at New York on 20 November 1989.
-
-Note:          The text of the Convention is set out in Australian Treaty Series 1991 No. 4 (\[1991] ATS 4). In 2011, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
 ##### <a id="60C"></a>60C  Outline of Part
 
                    An outline of this Part is set out below. 
@@ -5628,14 +5561,6 @@ Note:          The text of the Convention is set out in Austra
       ·
         <span style="font:7.0pt " new=""></span>
       object of Part and principles underlying it, and outline of Part</div>
-    <div>
-      ·
-        <span style="font:7.0pt " new=""></span>
-      best interests of the child: court proceedings</div>
-    <div>
-      ·
-        <span style="font:7.0pt " new=""></span>
-      best interests of the child: adviser’s obligations</div>
     <div>
       ·
         <span style="font:7.0pt " new=""></span>
@@ -5799,7 +5724,7 @@ Note:          The text of the Convention is set out in Austra
     <div>
       ·
         <span style="font:7.0pt " new=""></span>
-      reporting of allegations of child abuse and family violence</div>
+      reporting of allegations of child abuse</div>
     <div>
       ·
         <span style="font:7.0pt " new=""></span>
@@ -5971,7 +5896,7 @@ Note:          The text of the Convention is set out in Austra
   </td>
 </tr></table>
 
-#### Subdivision BA—Best interests of the child: court proceedings
+#### Subdivision BA—Best interests of the child
 
 ##### <a id="60CA"></a>60CA  Child’s best interests paramount consideration in making a parenting order
 
@@ -6001,8 +5926,6 @@ Primary considerations
 
 Note:          Making these considerations the primary ones is consistent with the objects of this Part set out in paragraphs 60B(1)(a) and (b).
 
-          (2A)  In applying the considerations set out in subsection (2), the court is to give greater weight to the consideration set out in paragraph (2)(b).
-
 Additional considerations
 
              (3)  Additional considerations are:
@@ -6015,15 +5938,7 @@ Additional considerations
 
                              (ii)  other persons (including any grandparent or other relative of the child);
 
-                     (c)  the extent to which each of the child’s parents has taken, or failed to take, the opportunity:
-
-                              (i)  to participate in making decisions about major long‑term issues in relation to the child; and
-
-                             (ii)  to spend time with the child; and
-
-                            (iii)  to communicate with the child;
-
-                    (ca)  the extent to which each of the child’s parents has fulfilled, or failed to fulfil, the parent’s obligations to maintain the child;
+                     (c)  the willingness and ability of each of the child’s parents to facilitate, and encourage, a close and continuing relationship between the child and the other parent;
 
                      (d)  the likely effect of any changes in the child’s circumstances, including the likely effect on the child of any separation from:
 
@@ -6053,21 +5968,37 @@ Additional considerations
 
                       (j)  any family violence involving the child or a member of the child’s family;
 
-                     (k)  if a family violence order applies, or has applied, to the child or a member of the child’s family—any relevant inferences that can be drawn from the order, taking into account the following:
+                     (k)  any family violence order that applies to the child or a member of the child’s family, if:
 
-                              (i)  the nature of the order;
+                              (i)  the order is a final order; or
 
-                             (ii)  the circumstances in which the order was made;
-
-                            (iii)  any evidence admitted in proceedings for the order;
-
-                            (iv)  any findings made by the court in, or in proceedings for, the order;
-
-                             (v)  any other relevant matter;
+                             (ii)  the making of the order was contested by a person;
 
                       (l)  whether it would be preferable to make the order that would be least likely to lead to the institution of further proceedings in relation to the child;
 
                     (m)  any other fact or circumstance that the court thinks is relevant.
+
+             (4)  Without limiting paragraphs (3)(c) and (i), the court must consider the extent to which each of the child’s parents has fulfilled, or failed to fulfil, his or her responsibilities as a parent and, in particular, the extent to which each of the child’s parents:
+
+                     (a)  has taken, or failed to take, the opportunity:
+
+                              (i)  to participate in making decisions about major long‑term issues in relation to the child; and
+
+                             (ii)  to spend time with the child; and
+
+                            (iii)  to communicate with the child; and
+
+                     (b)  has facilitated, or failed to facilitate, the other parent:
+
+                              (i)  participating in making decisions about major long‑term issues in relation to the child; and
+
+                             (ii)  spending time with the child; and
+
+                            (iii)  communicating with the child; and
+
+                     (c)  has fulfilled, or failed to fulfil, the parent’s obligation to maintain the child.
+
+          (4A)  If the child’s parents have separated, the court must, in applying subsection (4), have regard, in particular, to events that have happened, and circumstances that have existed, since the separation occurred.
 
 Consent orders
 
@@ -6122,74 +6053,6 @@ Note 2:       Paragraph (b)—paragraph 68LA(5)(b) requires the in
                      (b)  does not expose a person to an unacceptable risk of family violence.
 
              (2)  For the purposes of paragraph (1)(b), the court may include in the order any safeguards that it considers necessary for the safety of those affected by the order.
-
-##### <a id="60CH"></a>60CH  Informing court of care arrangements under child welfare laws
-
-             (1)  If a party to the proceedings is aware that the child, or another child who is a member of the child’s family, is under the care (however described) of a person under a child welfare law, that party must inform the court of the matter.
-
-             (2)  If a person who is not a party to the proceedings is aware that the child, or another child who is a member of the child’s family, is under the care (however described) of a person under a child welfare law, that person may inform the court of the matter.
-
-             (3)  Failure to inform the court of the matter does not affect the validity of any order made by the court. However, this subsection does not limit the operation of section 69ZK (child welfare laws not affected).
-
-##### <a id="60CI"></a>60CI  Informing court of notifications to, and investigations by, prescribed State or Territory agencies
-
-             (1)  If:
-
-                     (a)  a party to the proceedings is aware that the child, or another child who is a member of the child’s family, is or has been the subject of:
-
-                              (i)  a notification or report (however described) to a prescribed State or Territory agency; or
-
-                             (ii)  an investigation, inquiry or assessment (however described) by a prescribed State or Territory agency; and
-
-                     (b)  the notification, report, investigation, inquiry or assessment relates to abuse, or an allegation, suspicion or risk of abuse;
-
-that party must inform the court of the matter.
-
-             (2)  If:
-
-                     (a)  a person who is not a party to the proceedings is aware that the child, or another child who is a member of the child’s family, is or has been the subject of:
-
-                              (i)  a notification or report (however described) to a prescribed State or Territory agency; or
-
-                             (ii)  an investigation, inquiry or assessment (however described) by a prescribed State or Territory agency; and
-
-                     (b)  the notification, report, investigation, inquiry or assessment relates to abuse, or an allegation, suspicion or risk of abuse;
-
-that person may inform the court of the matter.
-
-             (3)  Failure to inform the court of the matter does not affect the validity of any order made by the court.
-
-             (4)  In this section:
-
-                    <a name="prescrib-state-territori-agenc"></a>**_prescribed State or Territory agency_** means an agency that is a prescribed State or Territory agency for the purpose of section 69ZW.
-
-#### Subdivision BB—Best interests of the child: adviser’s obligations
-
-##### <a id="60D"></a>60D  Adviser’s obligations in relation to best interests of the child
-
-             (1)  If an adviser gives advice or assistance to a person about matters concerning a child and this Part, the adviser must:
-
-                     (a)  inform the person that the person should regard the best interests of the child as the paramount consideration; and
-
-                     (b)  encourage the person to act on the basis that the child’s best interests are best met:
-
-                              (i)  by the child having a meaningful relationship with both of the child’s parents; and
-
-                             (ii)  by the child being protected from physical or psychological harm from being subjected to, or exposed to, abuse, neglect or family violence; and
-
-                            (iii)  in applying the considerations set out in subparagraphs (i) and (ii)—by giving greater weight to the consideration set out in subparagraph (ii).
-
-             (2)  In this section:
-
-                    <a name="advis"></a>**_adviser_** means a person who is:
-
-                     (a)  a legal practitioner; or
-
-                     (b)  a family counsellor; or
-
-                     (c)  a family dispute resolution practitioner; or
-
-                     (d)  a family consultant.
 
 #### Subdivision C—Interpretation and application of Part
 
@@ -6497,6 +6360,50 @@ is not affected by a failure to comply with subsection (1) in relation to thos
 
 the principal executive officer of the court concerned must ensure that the applicant is referred to a family counsellor or family dispute resolution practitioner in order to obtain information about those matters.
 
+##### <a id="60K"></a>60K    Court to take prompt action in relation to allegations of child abuse or family violence
+
+             (1)  This section applies if:
+
+                     (a)  an application is made to a court for a Part VII order in relation to a child; and
+
+                     (b)  a document is filed in the court, on or after the commencement of this section, in relation to the proceedings for the order; and
+
+                     (c)  the document alleges, as a consideration that is relevant to whether the court should grant or refuse the application, that:
+
+                              (i)  there has been abuse of the child by one of the parties to the proceedings; or
+
+                             (ii)  there would be a risk of abuse of the child if there were to be a delay in applying for the order; or
+
+                            (iii)  there has been family violence by one of the parties to the proceedings; or
+
+                            (iv)  there is a risk of family violence by one of the parties to the proceedings; and
+
+                     (d)  the document is a document of the kind prescribed by the applicable Rules of Court for the purposes of this paragraph.
+
+             (2)  The court must:
+
+                     (a)  consider what interim or procedural orders (if any) should be made:
+
+                              (i)  to enable appropriate evidence about the allegation to be obtained as expeditiously as possible; and
+
+                             (ii)  to protect the child or any of the parties to the proceedings; and
+
+                     (b)  make such orders of that kind as the court considers appropriate; and
+
+                     (c)  deal with the issues raised by the allegation as expeditiously as possible.
+
+          (2A)  The court must take the action required by paragraphs (2)(a) and (b):
+
+                     (a)  as soon as practicable after the document is filed; and
+
+                     (b)  if it is appropriate having regard to the circumstances of the case—within 8 weeks after the document is filed.
+
+             (3)  Without limiting subparagraph (2)(a)(i), the court must consider whether orders should be made under section 69ZW to obtain reports from State and Territory agencies in relation to the allegations.
+
+             (4)  Without limiting paragraph (2)(a)(ii), the court must consider whether orders should be made, or an injunction granted, under section 68B.
+
+             (5)  A failure to comply with a provision of this section in relation to an application does not affect the validity of any order made in the proceedings in relation to the application.
+
 ### Division 2—Parental responsibility
 
 ##### <a id="61A"></a>61A  What this Division does
@@ -6735,10 +6642,6 @@ Note:          One of the other matters with which a parenting
 
 ##### <a id="63DA"></a>63DA  Obligations of advisers
 
-          (1A)  The obligations of an adviser under this section are in addition to the adviser’s obligations under section 60D.
-
-Note:          Section 60D deals with an adviser’s obligations in relation to the best interests of the child.
-
              (1)  If an adviser gives advice or assistance to people in relation to parental responsibility for a child following the breakdown of the relationship between those people, the adviser must:
 
                      (a)  inform them that they could consider entering into a parenting plan in relation to the child; and
@@ -6762,6 +6665,8 @@ Note:          Section 60D deals with an adviser’s obligat
                              (ii)  in the best interests of the child;
 
                             they could consider the option of an arrangement of that kind; and
+
+                     (c)  inform them that decisions made in developing parenting plans should be made in the best interests of the child; and
 
                      (d)  inform them of the matters that may be dealt with in a parenting plan in accordance with subsection 63C(2); and
 
@@ -7177,7 +7082,13 @@ Reasonable practicality
 
                      (e)  such other matters as the court considers relevant.
 
-Note:          Paragraph (c) reference to future capacity—the court has power under section 13C to make orders for parties to attend family counselling or family dispute resolution or participate in courses, programs or services.
+Note 1:       Behaviour of a parent that is relevant for paragraph (c) may also be taken into account in determining what parenting order the court should make in the best interests of the child. Subsection 60CC(3) provides for considerations that are taken into account in determining what is in the best interests of the child. These include:
+
+(a)    the willingness and ability of each of the child’s parents to facilitate, and encourage, a close and continuing relationship between the child and the other parent (paragraph 60CC(3)(c));
+
+(b)    the attitude to the child, and to the responsibilities of parenthood, demonstrated by each of the child’s parents (paragraph 60CC(3)(i)).
+
+Note 2:       Paragraph (c) reference to future capacity—the court has power under section 13C to make orders for parties to attend family counselling or family dispute resolution or participate in courses, programs or services.
 
 Consent orders
 
@@ -7449,7 +7360,7 @@ administered by or on behalf of the Commonwealth Government under which money ap
 
                      (b)  interfere with the communication that a person and the child are supposed to have with each other under the order.
 
-##### <a id="65P"></a>65P  General obligations created by parenting order that allocates parental responsibility
+##### <a id="65P"></a>65P  General obligations created by parenting order that allocates parental responsibility
 
              (1)  This section applies to a parenting order that is in force in relation to a child to the extent to which the order allocates parental responsibility for the child to a person (the **_carer_**).
 
@@ -8261,7 +8172,7 @@ the reference in paragraph (2)(b) to the property, or the value of the propert
 
                      (b)  orders for the location and recovery of children (Subdivision C); and
 
-                     (c)  the reporting of allegations of child abuse and family violence (Subdivision D); and
+                     (c)  the reporting of allegations of child abuse (Subdivision D); and
 
                      (d)  other orders about children (Subdivision E).
 
@@ -8441,7 +8352,7 @@ Note:          Sections 60CB to 60CG deal with how a court d
 
            (10)  The person to whom a Commonwealth information order applies must comply with the order in spite of anything in any other law.
 
-##### <a id="67P"></a>67P  Information provided under location order not to be disclosed except to limited persons
+##### <a id="67P"></a>67P  Information provided under location order not to be disclosed except to limited persons
 
              (1)  Information provided to the Registry Manager of a court under a location order (including a Commonwealth information order) must not be disclosed by the Registry Manager, or by any other person who obtains the information (whether directly or indirectly and whether under this section or otherwise) because of the provision of the information to the Registry Manager, except to:
 
@@ -8613,25 +8524,17 @@ Note:          For the value of a penalty unit, see subsection
 
                      (b)  if a location order in relation to the child is in force and was applied for by the person—the person to whom the location order applies.
 
-#### Subdivision D—Allegations of child abuse and family violence
+#### Subdivision D—Allegations of child abuse
 
-##### <a id="67Z"></a>67Z  Where interested person makes allegation of child abuse
+##### <a id="67Z"></a>67Z  Where party to proceedings makes allegation of child abuse
 
-             (1)  This section applies if an interested person in proceedings under this Act alleges that a child to whom the proceedings relate has been abused or is at risk of being abused.
+             (1)  This section applies if a party to proceedings under this Act alleges that a child to whom the proceedings relate has been abused or is at risk of being abused.
 
-             (2)  The interested person must file a notice in the prescribed form in the court hearing the proceedings, and serve a true copy of the notice upon the person who is alleged to have abused the child or from whom the child is alleged to be at risk of abuse.
+             (2)  The party must file a notice in the prescribed form in the court hearing the proceedings, and serve a true copy of the notice upon the person who is alleged to have abused the child or from whom the child is alleged to be at risk of abuse.
 
              (3)  If a notice under subsection (2) is filed in a court, the Registry Manager must, as soon as practicable, notify a prescribed child welfare authority.
 
              (4)  In this section:
-
-                    <a name="interested-person"></a>**_interested person_** in proceedings under this Act, means:
-
-                     (a)  a party to the proceedings; or
-
-                     (b)  an independent children’s lawyer who represents the interests of a child in the proceedings; or
-
-                     (c)  any other person prescribed by the regulations for the purposes of this paragraph.
 
                     <a name="prescrib-form"></a>**_prescribed form_** means the form prescribed by the applicable Rules of Court.
 
@@ -8673,8 +8576,6 @@ Note:          For the value of a penalty unit, see subsection
 
 the person may notify a prescribed child welfare authority of his or her suspicion and the basis for the suspicion.
 
-Note:          The obligation under subsection (2) to notify a prescribed child welfare authority of a suspicion that a child has been abused or is at risk of being abused must be complied with, regardless of whether this subsection also applies to the same situation.
-
              (4)  The person need not notify a prescribed child welfare authority of his or her suspicion that a child has been abused, or is at risk of being abused, if the person knows that the authority has previously been notified about the abuse or risk under subsection (2) or subsection 67Z(3), but the person may notify the authority of his or her suspicion.
 
              (5)  If notice under this section is given orally, written notice confirming the oral notice is to be given to the prescribed child welfare authority as soon as practicable after the oral notice.
@@ -8702,78 +8603,6 @@ in spite of any obligation of confidentiality imposed on the person by this Act,
              (5)  In this section:
 
                     <a name="court"></a>**_court_** means a court (whether or not exercising jurisdiction under this Act) and includes a tribunal or other body concerned with professional ethics.
-
-##### <a id="67ZBA"></a>67ZBA  Where interested person makes allegation of family violence
-
-             (1)  This section applies if an interested person in proceedings for an order under this Part in relation to a child alleges, as a consideration that is relevant to whether the court should make or refuse to make the order, that:
-
-                     (a)  there has been family violence by one of the parties to the proceedings; or
-
-                     (b)  there is a risk of family violence by one of the parties to the proceedings.
-
-             (2)  The interested person must file a notice in the prescribed form in the court hearing the proceedings, and serve a true copy of the notice upon the party referred to in paragraph (1)(a) or (b).
-
-             (3)  If the alleged family violence (or risk of family violence) is abuse of a child (or a risk of abuse of a child):
-
-                     (a)  the interested person making the allegation must either file and serve a notice under subsection (2) of this section or under subsection 67Z(2) (but does not have to file and serve a notice under both those subsections); and
-
-                     (b)  if the notice is filed under subsection (2) of this section, the Registry Manager must deal with the notice as if it had been filed under subsection 67Z(2).
-
-Note:          If an allegation of abuse of a child (or a risk of abuse of a child) relates to a person who is not a party to the proceedings, the notice must be filed in the court and served on the person in accordance with subsection 67Z(2).
-
-             (4)  In this section:
-
-                    <a name="interested-person"></a>**_interested person_** in proceedings for an order under this Part in relation to a child, means:
-
-                     (a)  a party to the proceedings; or
-
-                     (b)  an independent children’s lawyer who represents the interests of the child in the proceedings; or
-
-                     (c)  any other person prescribed by the regulations for the purposes of this paragraph.
-
-                    <a name="prescrib-form"></a>**_prescribed form_** means the form prescribed by the applicable Rules of Court.
-
-                    <a name="registri-manag"></a>**_Registry Manager_** has the same meaning as in section 67Z.
-
-##### <a id="67ZBB"></a>67ZBB  Court to take prompt action in relation to allegations of child abuse or family violence
-
-             (1)  This section applies if:
-
-                     (a)  a notice is filed under subsection 67Z(2) or 67ZBA(2) in proceedings for an order under this Part in relation to a child; and
-
-                     (b)  the notice alleges, as a consideration that is relevant to whether the court should make or refuse to make the order, that:
-
-                              (i)  there has been abuse of the child by one of the parties to the proceedings; or
-
-                             (ii)  there would be a risk of abuse of the child if there were to be a delay in the proceedings; or
-
-                            (iii)  there has been family violence by one of the parties to the proceedings; or
-
-                            (iv)  there is a risk of family violence by one of the parties to the proceedings.
-
-             (2)  The court must:
-
-                     (a)  consider what interim or procedural orders (if any) should be made:
-
-                              (i)  to enable appropriate evidence about the allegation to be obtained as expeditiously as possible; and
-
-                             (ii)  to protect the child or any of the parties to the proceedings; and
-
-                     (b)  make such orders of that kind as the court considers appropriate; and
-
-                     (c)  deal with the issues raised by the allegation as expeditiously as possible.
-
-             (3)  The court must take the action required by paragraphs (2)(a) and (b):
-
-                     (a)  as soon as practicable after the notice is filed; and
-
-                     (b)  if it is appropriate having regard to the circumstances of the case—within 8 weeks after the notice is filed.
-
-             (4)  Without limiting subparagraph (2)(a)(i), the court must consider whether orders should be made under section 69ZW to obtain documents or information from State and Territory agencies in relation to the allegation.
-
-             (5)  Without limiting subparagraph (2)(a)(ii), the court must consider whether orders should be made, or an injunction granted, under section 68B.
-
-             (6)  A failure to comply with a provision of this section does not affect the validity of any order made in the proceedings for the order.
 
 #### Subdivision E—Other orders about children
 
@@ -8984,6 +8813,8 @@ any information that the child communicates to the independent children’s lawy
                     (aa)  to ensure that orders, injunctions and arrangements of the kind referred to in subparagraph (a)(ii) do not expose people to family violence; and
 
                      (b)  to achieve the objects and principles in section 60B.
+
+Note:          Other provisions dealing with family violence and family violence orders are section 4 (definitions), paragraphs 60B(1)(b) and 60CC(2)(i) and (j), sections 60CF and 60CG, subsection 60I(9), section 60K, subsection 61DA(2), paragraph 65F(2)(b) and section 65P.
 
 ##### <a id="68P"></a>68P  Obligations of court making an order or granting an injunction under this Act that is inconsistent with an existing family violence order
 
@@ -9679,7 +9510,7 @@ Note:          This section preserves the effect of subsection
 
              (1)  Without prejudice to its effect apart from this section, this Part also has effect as provided by this section.
 
-             (2)  By virtue of this subsection, Subdivisions BA and BB of Division 1, Divisions 2 to 7 (inclusive) (other than Subdivisions C, D and E of Division 6 and sections 66D, 66M and 66N), Subdivisions C and E of Division 8, Divisions 9, 10 and 11 and Subdivisions B and C of Division 12 (other than section 69D) have the effect, subject to subsection (3), that they would have if:
+             (2)  By virtue of this subsection, Subdivision BA of Division 1, Divisions 2 to 7 (inclusive) (other than Subdivisions C, D and E of Division 6 and sections 66D, 66M and 66N), Subdivisions C and E of Division 8, Divisions 9, 10 and 11 and Subdivisions B and C of Division 12 (other than section 69D) have the effect, subject to subsection (3), that they would have if:
 
                      (a)  each reference to a child were, by express provision, confined to a child of a marriage; and
 
@@ -9791,7 +9622,7 @@ Principle 3
 
              (5)  The third principle is that the proceedings are to be conducted in a way that will safeguard:
 
-                     (a)  the child concerned from being subjected to, or exposed to, abuse, neglect or family violence; and
+                     (a)  the child concerned against family violence, child abuse and child neglect; and
 
                      (b)  the parties to the proceedings against family violence.
 
@@ -9822,12 +9653,6 @@ Note:          An order made in Chambers has the same effect a
 ##### <a id="69ZQ"></a>69ZQ  General duties
 
              (1)  In giving effect to the principles in section 69ZN, the court must:
-
-                    (aa)  ask each party to the proceedings:
-
-                              (i)  whether the party considers that the child concerned has been, or is at risk of being, subjected to, or exposed to, abuse, neglect or family violence; and
-
-                             (ii)  whether the party considers that he or she, or another party to the proceedings, has been, or is at risk of being, subjected to family violence; and
 
                      (a)  decide which of the issues in the proceedings require full investigation and hearing and which may be disposed of summarily; and
 
@@ -9929,7 +9754,7 @@ that, but for subsection (1), would have been prevented from operating because
 
                     <a name="represent"></a>**_representation_** includes an express or implied representation, whether oral or in writing, and a representation inferred from conduct.
 
-##### <a id="69ZW"></a>69ZW  Evidence relating to child abuse or family violence
+##### <a id="69ZW"></a>69ZW  Evidence relating to child abuse or family violence
 
              (1)  The court may make an order in child‑related proceedings requiring a prescribed State or Territory agency to provide the court with the documents or information specified in the order.
 
@@ -10931,7 +10756,7 @@ Note:          Before imposing a condition under this subsecti
 
 ##### <a id="71"></a>71  Interpretation
 
-                   In this Part:
+                   In this Part:
 
                     <a name="marriag"></a>**_marriage_** includes a void marriage.
 
@@ -12909,7 +12734,7 @@ Note:          For **_child of a de facto relationship_**, s
 
                              (ii)  any superannuation fund or scheme, whether the fund or scheme was established, or operates, within or outside Australia;
 
-                            and the rate of any such pension, allowance or benefit being paid to either party; and
+                            and the rate of any such pension, allowance or benefit being paid to either party; and
 
                      (g)  a standard of living that in all the circumstances is reasonable; and
 
@@ -12961,7 +12786,7 @@ Note:          For **_child of a de facto relationship_**, s
 
              (4)  In exercising its jurisdiction under section 90SE, a court must disregard any entitlement of the party whose maintenance is under consideration to an income tested pension, allowance or benefit.
 
-##### <a id="90SG"></a>90SG  Urgent maintenance cases
+##### <a id="90SG"></a>90SG  Urgent maintenance cases
 
                    If, in proceedings with respect to the maintenance of a party to a de facto relationship in accordance with this Division, it appears to the court that:
 
@@ -15132,8 +14957,6 @@ Note:          The penalty for a body corporate is 500 penalty
 
                      (b)  where the officer so intervenes, the officer shall be deemed to be a party to the proceedings with all the rights, duties and liabilities of a party.
 
-Note:          If an officer intervenes in proceedings and acts in good faith in relation to the proceedings, an order for costs, or for security for costs, cannot be made under subsection 117(2) against the officer: see subsection 117(4A).
-
 ##### <a id="92"></a>92  Intervention by other persons
 
              (1)  In proceedings (other than divorce or validity of marriage proceedings), any person may apply for leave to intervene in the proceedings, and the court may make an order entitling that person to intervene in the proceedings.
@@ -16903,7 +16726,7 @@ have the same meaning as they have in the Child Protection Convention.
 
 ##### <a id="111CJ"></a>111CJ  Application of this Subdivision
 
-                   This Subdivision applies only if an issue under this Act is whether a court, as opposed to any of the following authorities, has jurisdiction to appoint, or determine the powers of, a guardian of a child’s property:
+                   This Subdivision applies only if an issue under this Act is whether a court, as opposed to any of the following authorities, has jurisdiction to appoint, or determine the powers of, a guardian of a child’s property:
 
                      (a)  a central authority or competent authority of a Convention country;
 
@@ -16961,7 +16784,7 @@ have the same meaning as they have in the Child Protection Convention.
 
 ##### <a id="111CL"></a>111CL  Limitation when a child is wrongfully removed from or retained outside a Convention country
 
-                   A court must not, other than in a case of urgency, exercise jurisdiction in accordance with paragraph 111CK(1)(a), (b) or (c) to take a Commonwealth property protection measure relating to a child if:
+                   A court must not, other than in a case of urgency, exercise jurisdiction in accordance with paragraph 111CK(1)(a), (b) or (c) to take a Commonwealth property protection measure relating to a child if:
 
                      (a)  the child has been wrongfully removed from or retained outside a Convention country; and
 
@@ -17637,7 +17460,7 @@ for and in relation to the carrying out of sentences imposed, and orders made, u
 
                    In proceedings of the kind referred to in paragraph (b) of the definition of **_matrimonial cause_** in subsection 4(1), the court may make such declaration as is justified.
 
-##### <a id="114"></a>114  Injunctions
+##### <a id="114"></a>114  Injunctions
 
              (1)  In proceedings of the kind referred to in paragraph (e) of the definition of **_matrimonial cause_**in subsection 4(1), the court may make such order or grant such injunction as it considers proper with respect to the matter to which the proceedings relate, including:
 
@@ -17963,9 +17786,9 @@ Note:          For other powers of delegation, see section 5
 
 ##### <a id="117"></a>117  Costs
 
-             (1)  Subject to subsection (2), subsection 70NFB(1) and sections 117AA, 117AC and 118, each party to proceedings under this Act shall bear his or her own costs.
+             (1)  Subject to subsection (2), subsection 70NFB(1) and sections 117AA, 117AB, 117AC and 118, each party to proceedings under this Act shall bear his or her own costs.
 
-             (2)  If, in proceedings under this Act, the court is of opinion that there are circumstances that justify it in doing so, the court may, subject to subsections (2A), (4), (4A) and (5) and the applicable Rules of Court, make such order as to costs and security for costs, whether by way of interlocutory order or otherwise, as the court considers just.
+             (2)  If, in proceedings under this Act, the court is of opinion that there are circumstances that justify it in doing so, the court may, subject to subsections (2A), (4) and (5) and the applicable Rules of Court, make such order as to costs and security for costs, whether by way of interlocutory order or otherwise, as the court considers just.
 
           (2A)  In considering what order (if any) should be made under subsection (2), the court shall have regard to:
 
@@ -17993,14 +17816,6 @@ Note:          For other powers of delegation, see section 5
 
 the court must not make an order under subsection (2) against that party in relation to the costs of the independent children’s lawyer.
 
-          (4A)  If:
-
-                     (a)  under section 91B, an officer intervenes in proceedings; and
-
-                     (b)  the officer acts in good faith in relation to the proceedings;
-
-the court must not, because of the intervention, make an order under subsection (2) of this section against the officer, or against an entity (including the Commonwealth or a State or Territory) by or on behalf of whom the officer was engaged or employed.
-
              (5)  In considering what order (if any) should be made under subsection (2) in proceedings in which an independent children’s lawyer has been appointed, the court must disregard the fact that the independent children’s lawyer is funded under a legal aid scheme or service established under a Commonwealth, State or Territory law or approved by the Attorney‑General.
 
 ##### <a id="117AA"></a>117AA  Costs in proceedings relating to overseas enforcement and international Conventions
@@ -18017,13 +17832,23 @@ Note:          For another case where the court can also make 
 
                      (a)  is not reasonable given the terms of the Act or regulations; or
 
-                     (b)  is not convenient to give effect to   Australia’s obligations under the Convention concerned, or to obtain for Australia the benefits of that Convention.
+                     (b)  is not convenient to give effect to Australia’s obligations under the Convention concerned, or to obtain for Australia the benefits of that Convention.
 
              (3)  In proceedings under regulations made for the purposes of section 111B, the court can also make an order as to costs that is:
 
                      (a)  against a party who has wrongfully removed or retained a child, or wrongfully prevented the exercise of rights of access (within the meaning of the Convention referred to in that section) to a child; and
 
                      (b)  in respect of the necessary expenses incurred by the person who made the application, under that Convention, concerning the child.
+
+##### <a id="117AB"></a>117AB  Costs where false allegation or statement made
+
+             (1)  This section applies if:
+
+                     (a)  proceedings under this Act are brought before a court; and
+
+                     (b)  the court is satisfied that a party to the proceedings knowingly made a false allegation or statement in the proceedings.
+
+             (2)  The court must order that party to pay some or all of the costs of another party, or other parties, to the proceedings.
 
 ##### <a id="117AC"></a>117AC  Security for costs
 
@@ -18249,7 +18074,7 @@ the authorised person may, without warrant, enter and search the searchable plac
 
                      (a)  in relation to a State—the Governor of the State; or
 
-                     (b)  in relation to the Australian Capital Territory—the Chief Minister for the Australian Capital Territory; or
+                     (b)  in relation to the Australian C  apital Territory—the Chief Minister for the Australian Capital Territory; or
 
                      (c)  in relation to the Northern Territory—the Administrator of the Northern Territory.
 
@@ -20860,7 +20685,7 @@ Schedule 2 (items 2, 3): <i>(zi)</i></div>
     <div>7 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 1: 7 June 2012 
+    <div>Schedule 1: \[ <i>see</i>Note 3 and Table A] 
 Schedule 2 (items 3–29, 
 31–38): Royal Assent 
 Schedule 2 (item 30): 4 Jan 2012</div>
@@ -21886,7 +21711,7 @@ _(zj)_    Subsection 2(1) (item 2) of the _Superannuation Legislation (Con
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 63, 1976; No. 23, 1979; No. 2, 1982; No. 72, 1983; Nos. 63 and 72, 1984; No. 181, 1987; Nos. 157 and 182, 1989; No. 113, 1991; No. 104, 1992; No. 167, 1995; Nos. 146 and 194, 1999; No. 143, 2000; No. 86, 2002; No. 138, 2003; Nos. 20 and 98, 2005; Nos. 22 and 46, 2006; Nos. 115 and 144, 2008; No. 122, 2009; No. 3, 2010; Nos. 58, 174 and 189, 2011</div>
+    <div>am. No. 63, 1976; No. 23, 1979; No. 2, 1982; No. 72, 1983; Nos. 63 and 72, 1984; No. 181, 1987; Nos. 157 and 182, 1989; No. 113, 1991; No. 104, 1992; No. 167, 1995; Nos. 146 and 194, 1999; No. 143, 2000; No. 86, 2002; No. 138, 2003; Nos. 20 and 98, 2005; Nos. 22 and 46, 2006; Nos. 115 and 144, 2008; No. 122, 2009; No. 3, 2010; Nos. 58 and 174, 2011</div>
   </td>
   <td>
     <div></div>
@@ -21898,17 +21723,6 @@ _(zj)_    Subsection 2(1) (item 2) of the _Superannuation Legislation (Con
   </td>
   <td>
     <div>ad. No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AB</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -22158,40 +21972,7 @@ _(zj)_    Subsection 2(1) (item 2) of the _Superannuation Legislation (Con
 </tr>
 <tr>
   <td>
-    <div>S. 10B</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10C</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10D</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10E</div>
+    <div>Ss. 10B–10E</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -22257,18 +22038,7 @@ _(zj)_    Subsection 2(1) (item 2) of the _Superannuation Legislation (Con
 </tr>
 <tr>
   <td>
-    <div>S. 10J</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10K</div>
+    <div>Ss. 10J, 10K</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -22312,18 +22082,7 @@ _(zj)_    Subsection 2(1) (item 2) of the _Superannuation Legislation (Con
 </tr>
 <tr>
   <td>
-    <div>S. 10M</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10N</div>
+    <div>Ss. 10M, 10N</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -22435,40 +22194,7 @@ rs. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11B</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11C</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11D</div>
+    <div>Ss. 11A–11D</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -22534,29 +22260,7 @@ rs. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 11F</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11G</div>
+    <div>Ss. 11F, 11G</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -22856,29 +22560,7 @@ ad. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 12B</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12C</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12D</div>
+    <div>Ss. 12B–12D</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -22913,32 +22595,10 @@ ad. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 12E</div>
+    <div>Ss. 12E, 12F</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 12E(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12F</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
   </td>
   <td>
     <div></div>
@@ -22961,17 +22621,6 @@ ad. No. 46, 2006</div>
   </td>
   <td>
     <div>am. No. 8, 2010</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 12G(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -23254,7 +22903,7 @@ ad. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 13F</div>
+    <div>Ss. 13F–13H</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -23276,62 +22925,7 @@ ad. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 13G</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13H</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13J</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13K</div>
+    <div>Ss. 13J, 13K</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -23518,29 +23112,7 @@ ad. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 14F</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14G</div>
+    <div>Ss. 14F, 14G</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -23705,29 +23277,7 @@ ad. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 16B</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16C</div>
+    <div>Ss. 16B, 16C</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -24101,29 +23651,7 @@ ad. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19EA</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19EB</div>
+    <div>Ss. 19EA, 19EB</div>
   </td>
   <td>
     <div>ad. No. 143, 2000</div>
@@ -24552,40 +24080,7 @@ ad. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19P</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19Q</div>
+    <div>Ss. 19P, 19Q</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -24984,18 +24479,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 26C</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 1988</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26D</div>
+    <div>Ss. 26C, 26D</div>
   </td>
   <td>
     <div>ad. No. 8, 1988</div>
@@ -25039,7 +24523,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 26F</div>
+    <div>Ss. 26F, 26G</div>
   </td>
   <td>
     <div>ad. No. 8, 1988</div>
@@ -25050,40 +24534,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 26G</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 1988</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26H</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 1988</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26I</div>
+    <div>Ss. 26H, 26I</div>
   </td>
   <td>
     <div>ad. No. 8, 1988</div>
@@ -25171,29 +24622,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 26L</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 1988</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26M</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 1988</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26N</div>
+    <div>Ss. 26L–26N</div>
   </td>
   <td>
     <div>ad. No. 8, 1988</div>
@@ -25348,29 +24777,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 33B</div>
-  </td>
-  <td>
-    <div>ad. No. 194, 1999</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 23, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33C</div>
+    <div>Ss. 33B, 33C</div>
   </td>
   <td>
     <div>ad. No. 194, 1999</div>
@@ -25702,40 +25109,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 38BA</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38BB</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38BC</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38BD</div>
+    <div>Ss. 38BA–38BD</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -25757,29 +25131,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 38C</div>
-  </td>
-  <td>
-    <div>ad. No. 157, 1989</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38D</div>
-  </td>
-  <td>
-    <div>ad. No. 157, 1989</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38E</div>
+    <div>Ss. 38C–38E</div>
   </td>
   <td>
     <div>ad. No. 157, 1989</div>
@@ -25845,18 +25197,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 38H</div>
-  </td>
-  <td>
-    <div>ad. No. 157, 1989</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38J</div>
+    <div>Ss. 38H, 38J</div>
   </td>
   <td>
     <div>ad. No. 157, 1989</div>
@@ -26054,29 +25395,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 38T</div>
-  </td>
-  <td>
-    <div>ad. No. 157, 1989</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38U</div>
+    <div>Ss. 38T, 38U</div>
   </td>
   <td>
     <div>ad. No. 157, 1989</div>
@@ -26120,18 +25439,7 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>S. 38W</div>
-  </td>
-  <td>
-    <div>ad. No. 157, 1989</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38X</div>
+    <div>Ss. 38W, 38X</div>
   </td>
   <td>
     <div>ad. No. 157, 1989</div>
@@ -26231,73 +25539,7 @@ Part V</div>
 </tr>
 <tr>
   <td>
-    <div>S. 39A</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39B</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39C</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39D</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39E</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39F</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39G</div>
+    <div>Ss. 39A–39G</div>
   </td>
   <td>
     <div>ad. No. 115, 2008</div>
@@ -26400,7 +25642,7 @@ Part V</div>
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 181, 1987; No. 167, 1995; No. 115, 2008; No. 189, 2011</div>
+    <div>am. No. 181, 1987; No. 167, 1995; No. 115, 2008</div>
   </td>
   <td>
     <div></div>
@@ -26705,29 +25947,7 @@ Part V</div>
 </tr>
 <tr>
   <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
+    <div>Ss. 57–59</div>
   </td>
   <td>
     <div>rs. No. 98, 2005</div>
@@ -26969,17 +26189,6 @@ Part V</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 60C</div>
   </td>
   <td>
@@ -27024,18 +26233,6 @@ Part V</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. BA of 
-Div. 1 of Part VII</div>
-  </td>
-  <td>
-    <div>rs. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Subdiv. BA of Div. 1 of 
 Part VII</div>
   </td>
@@ -27048,7 +26245,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 60CA</div>
+    <div>Ss. 60CA–60CG</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -27059,121 +26256,10 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 60CB</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
+    <div><b>Subdivision C</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60CC</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60CD</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60CE</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60CF</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60CG</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60CH</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60CI</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision BB</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. BB of Div. 1 of 
-Part VII</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -27184,7 +26270,7 @@ Part VII</div>
     <div>S. 60D</div>
   </td>
   <td>
-    <div>ad. No. 181, 1987</div>
+    <div>ad. No. 181, 1987</div>
   </td>
   <td>
     <div></div>
@@ -27229,28 +26315,6 @@ Part VII</div>
   </td>
   <td>
     <div>rep. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -27445,18 +26509,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 60HA</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60HB</div>
+    <div>Ss. 60HA, 60HB</div>
   </td>
   <td>
     <div>ad. No. 115, 2008</div>
@@ -27524,32 +26577,10 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 60J</div>
+    <div>Ss. 60J, 60K</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60K</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -27623,51 +26654,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 61A</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61B</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61C</div>
+    <div>Ss. 61A–61C</div>
   </td>
   <td>
     <div>ad. No. 181, 1987</div>
@@ -27722,18 +26709,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 61DA</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61DB</div>
+    <div>Ss. 61DA, 61DB</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -27966,40 +26942,7 @@ rs. No. 167, 1995; No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 62E</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62F</div>
+    <div>Ss. 62E, 62F</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -28274,7 +27217,7 @@ rs. No. 167, 1995; No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 63C(2), (3)</div>
+    <div>Notes to s. 63C(2), (3)</div>
   </td>
   <td>
     <div>am. No. 34, 1997</div>
@@ -28355,17 +27298,6 @@ rs. No. 167, 1995; No. 46, 2006</div>
   </td>
   <td>
     <div>rs. No. 138, 2003; No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -28980,42 +27912,7 @@ rs. No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>Note 1 to s. 65DAA(5).....</div>
-  </td>
-  <td>
-    <div>rep. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 65DAA(5) 
-Renumbered Note.......</div>
-  </td>
-  <td>
-    <div>
-No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65DAB</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65DAC</div>
+    <div>Ss. 65DAB, 65DAC</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -29478,29 +28375,7 @@ Div. 6 of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 65U</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65V</div>
+    <div>Ss. 65U, 65V</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -29742,18 +28617,7 @@ Div. 6 of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 65ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65ZD</div>
+    <div>Ss. 65ZC, 65ZD</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -30149,29 +29013,7 @@ Div. 6 of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 66J</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66K</div>
+    <div>Ss. 66J, 66K</div>
   </td>
   <td>
     <div>ad. No. 181, 1987</div>
@@ -30347,29 +29189,7 @@ Div. 6 of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 66Q</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66R</div>
+    <div>Ss. 66Q, 66R</div>
   </td>
   <td>
     <div>ad. No. 181, 1987</div>
@@ -30480,51 +29300,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 66T</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66U</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66V</div>
+    <div>Ss. 66T–66V</div>
   </td>
   <td>
     <div>ad. No. 181, 1987</div>
@@ -30635,7 +29411,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 66Y</div>
+    <div>Ss. 66Y, 66Z</div>
   </td>
   <td>
     <div>ad. No. 181, 1987</div>
@@ -30657,73 +29433,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 66Z</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66ZA</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66ZB</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66ZC</div>
+    <div>Ss. 66ZA–66ZC</div>
   </td>
   <td>
     <div>ad. No. 181, 1987</div>
@@ -30921,17 +29631,6 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision B</b></div>
   </td>
   <td>
@@ -30943,18 +29642,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 67B</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67C</div>
+    <div>Ss. 67B, 67C</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -30987,29 +29675,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 67E</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67F</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67G</div>
+    <div>Ss. 67E–67G</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -31240,18 +29906,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 67R</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67S</div>
+    <div>Ss. 67R, 67S</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -31284,18 +29939,7 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 67U</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67V</div>
+    <div>Ss. 67U, 67V</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -31405,29 +30049,6 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. D of. 
-Div. 8 of Part VII</div>
-  </td>
-  <td>
-    <div>rs. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 67Z</div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 67Z</div>
   </td>
   <td>
@@ -31442,7 +30063,7 @@ Div. 8 of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 194, 1999; No. 138, 2003; No. 189, 2011</div>
+    <div>am. No. 194, 1999; No. 138, 2003</div>
   </td>
   <td>
     <div></div>
@@ -31483,43 +30104,10 @@ Div. 8 of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 67ZA(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 67ZB</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67ZBA</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67ZBB</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
   </td>
   <td>
     <div></div>
@@ -31758,29 +30346,7 @@ Div. 8 of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 68E</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68F</div>
+    <div>Ss. 68E, 68F</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -32046,17 +30612,6 @@ rs. No. 167, 1995; No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 68N</div>
-  </td>
-  <td>
-    <div>rep. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 68P</div>
   </td>
   <td>
@@ -32312,29 +30867,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69C</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69D</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69E</div>
+    <div>Ss. 69C–69E</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -32455,29 +30988,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69K</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69L</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69M</div>
+    <div>Ss. 69K–69M</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -32565,18 +31076,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69Q</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69R</div>
+    <div>Ss. 69Q, 69R</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -32609,18 +31109,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69T</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69U</div>
+    <div>Ss. 69T, 69U</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -32829,29 +31318,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69ZE</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69ZF</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69ZG</div>
+    <div>Ss. 69ZE–69ZG</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -32876,7 +31343,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 98, 2005; No. 46, 2006; No. 189, 2011</div>
+    <div>am. No. 98, 2005; No. 46, 2006</div>
   </td>
   <td>
     <div></div>
@@ -32884,18 +31351,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69ZJ</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69ZK</div>
+    <div>Ss. 69ZJ, 69ZK</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -32994,40 +31450,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69ZN</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69ZO</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69ZP</div>
+    <div>Ss. 69ZN–69ZP</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -33049,40 +31472,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69ZQ</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 189, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69ZR</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69ZS</div>
+    <div>Ss. 69ZQ–69ZS</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -33148,18 +31538,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69ZV</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69ZW</div>
+    <div>Ss. 69ZV, 69ZW</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -33379,51 +31758,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70BA</div>
-  </td>
-  <td>
-    <div>ad. No. 37, 1991</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70BB</div>
-  </td>
-  <td>
-    <div>ad. No. 37, 1991</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70BC</div>
+    <div>Ss. 70BA–70BC</div>
   </td>
   <td>
     <div>ad. No. 37, 1991</div>
@@ -33599,18 +31934,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70G</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70H</div>
+    <div>Ss. 70G, 70H</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -33665,29 +31989,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70K</div>
-  </td>
-  <td>
-    <div>ad. No. 167, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70L</div>
+    <div>Ss. 70K, 70L</div>
   </td>
   <td>
     <div>ad. No. 167, 1995</div>
@@ -33808,51 +32110,7 @@ rs. No. 182, 1989; No. 167, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70NAA</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NAB</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NAC</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NAD</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NAE</div>
+    <div>Ss. 70NAA–70NAE</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -34008,18 +32266,7 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70NCA</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NCB</div>
+    <div>Ss. 70NCA, 70NCB</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -34063,29 +32310,7 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70NDA</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NDB</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NDC</div>
+    <div>Ss. 70NDA–70NDC</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -34217,18 +32442,7 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70NEF</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NEG</div>
+    <div>Ss. 70NEF, 70NEG</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -34283,51 +32497,7 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70NFA</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NFB</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NFC</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NFD</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NFE</div>
+    <div>Ss. 70NFA–70NFE</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -34360,40 +32530,7 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70NFG</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NFH</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NFI</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NFJ</div>
+    <div>Ss. 70NFG–70NFJ</div>
   </td>
   <td>
     <div>ad. No. 46, 2006</div>
@@ -34580,7 +32717,7 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70NJ</div>
+    <div>Ss. 70NJ, 70NK</div>
   </td>
   <td>
     <div>ad. No. 143, 2000</div>
@@ -34613,62 +32750,7 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70NK</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NL</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70NM</div>
+    <div>Ss. 70NL, 70NM</div>
   </td>
   <td>
     <div>ad. No. 143, 2000</div>
@@ -35031,645 +33113,4 @@ rep. No. 46, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 120, 1988</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 63, 1976; No. 72, 1983; No. 181, 1987; No. 124, 1989; No. 84, 1997; No. 194, 1999; Nos. 20 and 98, 2005; No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79A</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1976</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 23, 1979; No. 72, 1983; No. 181, 1987; No. 167, 1995; No. 194, 1999; No. 143, 2000; No. 86, 2002; No. 20, 2005; No. 46, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79B</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79C</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79D</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 79E...........</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79E</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79F</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 79F</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79G</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79H</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79J</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 181, 1987; No. 194, 1999; No. 20, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1983; No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 63, 1976; No. 23, 1979; No. 72, 1983; No. 181, 1987; No. 194, 1999; No. 20, 2005; No. 82, 2007; No. 115, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1983; No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1983</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85A</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 1983</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86A</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2000</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1983; No. 181, 1987; No. 124, 1989; No. 167, 1995; No. 194, 1999; No. 143, 2000; No. 146, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 23, 1979</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 72, 1983</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 72, 1983; No. 72, 1984; No. 181, 1987; No. 124, 1989; No. 167, 1995; No. 194, 1999; No. 143, 2000; No. 146, 2006 (as am. by No. 8, 2010)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87A</div>
-  </td>
-  <td>
-    <div>ad. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1983</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1984</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89A</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1976</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 181, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>am. No. 63, 1976</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 72, 1983</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 181, 1987; No. 37, 1991; No. 98, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIIIAA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIIIAA</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90AA</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90AB</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90AC</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90ACA</div>
-  </td>
-  <td>
-    <div>ad. No. 153, 2004</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 15, 2007</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90AD</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90ADA</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90AE</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90AF</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90AG</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90AH</div>
-  </td>
-  <td>
-    <div>ad. No. 138, 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90AI</div>
-  </td>
-  <td>
-    <
+  
